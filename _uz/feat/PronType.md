@@ -62,7 +62,7 @@ The definition is in Uzbek language: Mustaqil so‘zlar yoki gaplar o‘rnida ke
 * _ushbu_ “this”
 
 ### <a name="Ind">`Ind`</a>: indefinite pronoun
-The definition is in Uzbek language: Shaxs-narsa, belgi-xususiyat bildiruvchi mustaqil so‘zlar o‘rnida kelib, uning ma’nosini taxminlab, gumonlab keluvchi olmoshlarga gumon olmoshlari deyiladi. 
+The definition is in Uzbek language: Shaxs-narsa, belgi-xususiyat bildiruvchi mustaqil so‘zlar o‘rnida kelib, uning ma’nosini taxminlab, gumonlab keluvchi olmoshlarga gumon olmoshlari deyiladi.
 _allakim, allanarsa, allaqanday allaqancha_
 _kimdir, nimadir, qaysidir, ba’zi_
 #### Examples:
@@ -90,12 +90,22 @@ The definition is in Uzbek language: Shaxs-narsa, belgi-xususiyat bildiruvchi mu
 * _hech qanday_ “”
 * _hech qanaqa_ “”
 
-### <a name="Yes">`Yes`</a>: Reflex
+### <a name="Rel">`Rel`</a>: relative pronoun, determiner, numeral or adverb
 
-The definition is in Uzbek language: Uchala shaxsdagi kishilik olmoshlari o‘rnida qo‘llanib, ma’nosini ta’kidlab keladi. Kishilik olmoshlari o‘rnida kelib, uning ma’nosini ta’kidlab ko‘rsatuvchi olmoshga o‘zlik olmoshi deyiladi.
+Note that in many languages this class heavily overlaps with
+interrogatives, yet there are pronouns that are only relative, and in
+some languages (Bulgarian, Hindi) the two classes are distinct.
 
 #### Examples:
-* O‘zim keldim “I came myself”
-* O‘zing aytding “You said it yourself”
 
-<!-- Interlanguage links updated No 1. Sanatbek Matlatipov 2024, 22:51:18+5GMT -->
+* [cs] _jenž, což_ “which”, “that” (relative but not interrogative
+  pronouns); _jehož_ “whose” (possessive relative pronoun)
+
+### <a name="Tot">`Tot`</a>: total (collective) pronoun, determiner or adverb
+
+#### Examples
+
+* [cs/en] _každý / every, everybody, everyone, each, všechno /
+  everything, all, všude / everywhere, vždy / always_
+
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:02 CET -->

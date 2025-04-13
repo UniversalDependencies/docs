@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4474 nodes (5%) are attached to their parents as `det`.
+8184 nodes (5%) are attached to their parents as `det`.
 
-3310 instances of `det` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.51542244076889.
+6073 instances of `det` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.4855816226784.
 
-The following 13 pairs of parts of speech are connected with `det`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (3614; 81% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (511; 11% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (197; 4% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (60; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (43; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PART.html">PART</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `det`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (6610; 81% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (972; 12% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (354; 4% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (90; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (86; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (26; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (23; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PART.html">PART</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -57,21 +57,18 @@ The following 13 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 7 det	color:blue
-1	На	на	ADP	_	_	9	case	_	_
-2	семь	се	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	9	obl	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	_
-4	господине	господинъ	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	9	vocative	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	Новгородъ	Новгородъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	9	nsubj	_	_
-7	всь	весь	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	6	det	_	_
-8	хрьстъ	крестъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
-9	цѣлуеть	цѣловати	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	_	_
+# visual-style 6 5 det	color:blue
+1	Князь	князь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	norm="Князь"|Decl=2|End=ь0|check=@
+2	великий	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	norm="великий"|Decl=X|End=йи|check=@
+3	Иван	Иванъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	1	appos	_	norm="Иван"|Decl=2|End=0|[G]
+4	Васильевич	Васильевичь	PROPN	_	Case=Nom|Gender=Masc|NameType=Pat|Number=Sing	3	flat:name	_	norm="Васильевич"|Decl=2|End=0|[G]
+5	всеа	весь	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	6	det	_	norm="всеа"|Decl=X|End=ае|check=@
+6	Русии	Русия	PROPN	_	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	1	nmod	_	norm="Русии"|Decl=1i|End=ии|SpaceAfter=No|check=@
+7	.	.	PUNCT	_	_	1	punct	_	norm="."
 
 ~~~
 

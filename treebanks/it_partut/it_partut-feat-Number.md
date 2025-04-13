@@ -12,7 +12,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 30415 tokens (55%) have a non-empty value of `Number`.
 6346 types (75%) occur at least once with a non-empty value of `Number`.
 3920 lemmas (69%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> (10700; 19% instances), <tt><a href="it_partut-pos-DET.html">DET</a></tt> (9432; 17% instances), <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (4152; 7% instances), <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> (3347; 6% instances), <tt><a href="it_partut-pos-AUX.html">AUX</a></tt> (1870; 3% instances), <tt><a href="it_partut-pos-PRON.html">PRON</a></tt> (912; 2% instances), <tt><a href="it_partut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> (10700; 19% instances), <tt><a href="it_partut-pos-DET.html">DET</a></tt> (9429; 17% instances), <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (4155; 7% instances), <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> (3347; 6% instances), <tt><a href="it_partut-pos-AUX.html">AUX</a></tt> (1870; 3% instances), <tt><a href="it_partut-pos-PRON.html">PRON</a></tt> (912; 2% instances), <tt><a href="it_partut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -33,14 +33,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `DET`
 
-9432 <tt><a href="it_partut-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
+9429 <tt><a href="it_partut-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="it_partut-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (8151; 86%), <tt><a href="it_partut-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (7204; 76%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (2645; 28% of non-empty `Number`): <em>i, le, gli, sue, tali, tutti, alcuni, suoi, questi, queste</em>
-* `Sing` (6787; 72% of non-empty `Number`): <em>il, la, l', un, una, sua, suo, lo, un', questo</em>
+* `Sing` (6784; 72% of non-empty `Number`): <em>il, la, l', un, una, sua, suo, lo, un', questo</em>
 * `EMPTY` (90): <em>loro, più, cui, che, the, Every, altrui, ogni, qualsiasi</em>
 
 <table>
@@ -52,12 +52,12 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `ADJ`
 
-4152 <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Number`.
+4155 <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Number`.
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (1492; 36% of non-empty `Number`): <em>strutturali, altri, principali, teatrali, importanti, nazionali, ambientali, sociali, applicabili, fondamentali</em>
-* `Sing` (2660; 64% of non-empty `Number`): <em>presente, sociale, importante, possibile, grande, europeo, intellettuale, primo, internazionale, forte</em>
+* `Sing` (2663; 64% of non-empty `Number`): <em>presente, sociale, importante, possibile, grande, europeo, intellettuale, primo, internazionale, forte</em>
 * `EMPTY` (53): <em>pari, fa, gran, 1, audio, ex, meglio, online, standard, 1°</em>
 
 <table>
@@ -164,13 +164,13 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="it_partut-dep-det.html">det</a></tt>]--> DET</tt> (7394; 93%),
-<tt>NOUN --[<tt><a href="it_partut-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3152; 92%),
+<tt>NOUN --[<tt><a href="it_partut-dep-det.html">det</a></tt>]--> DET</tt> (7393; 93%),
+<tt>NOUN --[<tt><a href="it_partut-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3155; 92%),
 <tt>NOUN --[<tt><a href="it_partut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1827; 50%),
 <tt>VERB --[<tt><a href="it_partut-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (719; 78%),
 <tt>NOUN --[<tt><a href="it_partut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (596; 68%),
 <tt>NOUN --[<tt><a href="it_partut-dep-acl.html">acl</a></tt>]--> VERB</tt> (529; 73%),
-<tt>NOUN --[<tt><a href="it_partut-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (442; 80%),
+<tt>NOUN --[<tt><a href="it_partut-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (441; 80%),
 <tt>VERB --[<tt><a href="it_partut-dep-aux.html">aux</a></tt>]--> AUX</tt> (431; 50%),
 <tt>VERB --[<tt><a href="it_partut-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (421; 82%),
 <tt>VERB --[<tt><a href="it_partut-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (315; 92%).

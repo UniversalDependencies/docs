@@ -45,8 +45,8 @@ The following 57 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 1	-	-	PUNCT	fg	PunctType=Dash	3	punct	3:punct	_
 2	Ya	ya	ADV	rg	_	3	advmod	3:advmod	ArgTem=argM:tmp
 3	sé	saber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	ccomp	7:ccomp	ArgTem=arg1:pat
-4	qué	qué	PRON	pt0cs000	Number=Sing|PronType=Int	5	nsubj	5:nsubj	ArgTem=arg1:tem
-5	ocurre	ocurrir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	3:ccomp	ArgTem=arg1:pat
+4	qué	qué	PRON	pt0cs000	Number=Sing|PronType=Int	5	nsubj	5:nsubj	ArgTem=arg1:tem|CxnElt=5:Interrogative-WHInfo-Indirect.WHWord
+5	ocurre	ocurrir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	3:ccomp	ArgTem=arg1:pat|Cxn=Interrogative-WHInfo-Indirect|CxnElt=5:Interrogative-WHInfo-Indirect.Clause
 6	-	-	PUNCT	fg	PunctType=Dash	3	punct	3:punct	_
 7	explicó	explicar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 8	una	uno	PRON	pi0fs000	Gender=Fem|Number=Sing|PronType=Ind	7	nsubj	7:nsubj	ArgTem=arg0:agt
@@ -76,7 +76,7 @@ The following 57 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 9	reconocía	reconocer	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	0:root	_
 10	Chechu	Chechu	PROPN	np0000p	_	9	nsubj	9:nsubj	MWE=Chechu_Biriukov|MWEPOS=PROPN|ArgTem=arg0:agt|Entity=(NOCOREF:Spec.person-person-1-gstype:spec
 11	Biriukov	Biriukov	PROPN	_	_	10	flat	10:flat	SpaceAfter=No|Entity=NOCOREF:Spec.person)
-12	...	...	PUNCT	fs	PunctType=Comm	9	punct	9:punct	_
+12	...	...	PUNCT	fs	PunctType=Elip	9	punct	9:punct	_
 
 ~~~
 

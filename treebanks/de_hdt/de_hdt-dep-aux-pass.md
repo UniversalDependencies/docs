@@ -55,7 +55,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 12	,	,	PUNCT	$,	PunctType=Comm	13	punct	_	_
 13	sagten	sagen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	parataxis	_	_
 14	die	der	DET	ART	Case=Nom|Definite=Def|Number=Plur|PronType=Art	16	det	_	_
-15	meisten	meist	DET	PIDAT	Degree=Sup|Number=Plur|PronType=Ind	16	det	_	_
+15	meisten	meist	ADV	PIDAT	Degree=Sup|Number=Plur|PronType=Ind	16	advmod	_	_
 16	Analysten	Analyst	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	_
 17	.	.	PUNCT	$.	PunctType=Peri	10	punct	_	_
 

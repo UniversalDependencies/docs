@@ -12,7 +12,7 @@ It occurs with 1 different values: `Yes`.
 507 tokens (1%) have a non-empty value of `Poss`.
 124 types (1%) occur at least once with a non-empty value of `Poss`.
 53 lemmas (1%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (443; 1% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (64; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (443; 0% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (64; 0% instances).
 
 ### `DET`
 
@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (443; 100% of non-empty `Poss`): <em>naše, svoje, naši, naša, moj, naš, moje, moja, naših, svoj</em>
-* `EMPTY` (4940): <em>to, ta, pol, vse, tega, malo, tem, te, nekaj, več</em>
+* `EMPTY` (5084): <em>to, ta, pol, vse, tega, tem, malo, te, nekaj, več</em>
 
 `Poss` seems to be **lexical feature** of `DET`. 100% lemmas (10) occur only with one value of `Poss`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (64; 100% of non-empty `Poss`): <em>otrokovih, sirovo, Dopplerjev, Staničevi, krompirjevo, paradižnikovo, Andrejevo, Asimovih, Barbičeva, Belvijevega</em>
-* `EMPTY` (5207): <em>drugi, dobro, prvi, drugo, sam, zanimivo, dober, sami, lepa, pomembno</em>
+* `EMPTY` (5208): <em>drugi, dobro, prvi, drugo, zanimivo, dober, sam, sami, lepa, pomembno</em>
 
 `Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (43) occur only with one value of `Poss`.
 

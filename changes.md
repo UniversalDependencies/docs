@@ -24,6 +24,7 @@ But some updates have been necessary to clarify how they should be applied to pa
 
 | &nbsp;&nbsp;#&nbsp;&nbsp; | Date<br>Decided | Effective<Br>Release | Type                     | Title                                         |
 |:-:|:------------:|:-----------------:|--------------------------|-----------------------------------------------|
+|15 | 2024-Nov     | 2.16              | CLARIFICATION, VALIDATOR | [`ExtPos` for Fixed Expressions](#extpos-for-fixed-expressions) |
 |14 | 2024-Apr     | 2.14              | CLARIFICATION            | [List Item Markers](#list-item-markers) |
 |13 | 2023-Dec     | 2.14              | CLARIFICATION            | [Foreign Expressions and Code-Switching](#foreign-expressions-and-code-switching) |
 |12 | 2023-Nov     | 2.14              | CLARIFICATION            | [Multiword Expressions](#multiword-expressions)   |
@@ -39,6 +40,12 @@ But some updates have been necessary to clarify how they should be applied to pa
 | 2 | 2022-Jan     | 2.10              | AMENDMENT, VALIDATOR     | [Typos and `goeswith`](#typos-and-goeswith)   |
 | 1 | 2021-Dec     | 2.10              | CLARIFICATION, VALIDATOR | [Deverbal Connectives](#deverbal-connectives) |
 
+
+### `ExtPos` for Fixed Expressions
+
+In order to clarify the holistic status of expressions connected by the [fixed]() relation, it is strongly recommended to specify [ExtPos]() (in the FEATS column) on the first word of the expression. The validator has been updated to trigger a warning if [ExtPos]() is missing for a fixed expression. Some checks that previously made exceptions for words in fixed expressions no longer do so; adding [ExtPos]() may be necessary to pass these checks.
+
+Worthy of note: (1) [ExtPos]() (“external part of speech”) has already been in use across several treebanks. It is not always limited just to [fixed]() expressions, and treebanks should feel free to apply it in other ways. At this time, we only specify as a universal matter that it is recommended for fixed expressions. (2)&nbsp;The [fixed]() relation is not intended for all multiword expressions that are morphosyntactically fossilized. [fixed]() should apply only to **grammaticized** expressions that appear internally anomalous, or whose external syntactic behavior diverges in important ways from the historical internal structure—especially for expressions functioning as [ADP](), [CCONJ](), [DET](), [SCONJ](), or [PRON](). ([issue 1037](https://github.com/UniversalDependencies/docs/issues/1037))
 
 ### List Item Markers
 

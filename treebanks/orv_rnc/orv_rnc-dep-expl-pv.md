@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-expl.html">expl</a></tt>.
 
-24 nodes (0%) are attached to their parents as `expl:pv`.
+46 nodes (0%) are attached to their parents as `expl:pv`.
 
-21 instances of `expl:pv` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.20833333333333.
+42 instances of `expl:pv` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.93478260869565.
 
-The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (23; 96% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 4% instances).
+The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (45; 98% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

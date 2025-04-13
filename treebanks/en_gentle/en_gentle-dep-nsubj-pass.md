@@ -23,14 +23,14 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 nsubj:pass	color:blue
-1	Many	many	ADJ	JJ	Degree=Pos	4	amod	4:amod	Discourse=explanation-evidence:154->152:2:_|Entity=(210-person-new-cf2-4-sgl
+1	Many	many	ADJ	JJ	Degree=Pos	4	amod	4:amod	Discourse=explanation-evidence:154->152:2:_|Entity=(211-person-new-cf2-4-sgl
 2	future	future	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 3	prime	prime	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
-4	ministers	minister	NOUN	NNS	Number=Plur	6	nsubj:pass	6:nsubj:pass	Entity=210)|MSeg=minister-s
+4	ministers	minister	NOUN	NNS	Number=Plur	6	nsubj:pass	6:nsubj:pass	Entity=211)|MSeg=minister-s
 5	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	6:aux:pass	_
 6	schooled	school	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	MSeg=school-ed
 7	in	in	ADP	IN	_	8	case	8:case	_
-8	Eton	Eton	PROPN	NNP	Number=Sing	6	obl	6:obl:in	Entity=(134-place-giv:inact-cf1-1-coref-Eton_College)|SpaceAfter=No
+8	Eton	Eton	PROPN	NNP	Number=Sing	6	obl	6:obl:in	Entity=(135-place-giv:inact-cf1-1-coref-Eton_College)|SpaceAfter=No
 9	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 ~~~
@@ -42,12 +42,12 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 6 nsubj:pass	color:blue
-1	When	when	ADV	WRB	PronType=Int	4	advmod	4:advmod	Discourse=context-circumstance:117->118:0:_|XML=<hi rend:::"italic">
-2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	Entity=(165-person-acc:com-cf1-1-sgl)
+1	When	when	ADV	WRB	PronType=Int	4	advmod	4:advmod	Discourse=context-circumstance:117->118:0:dm-when-586|PDTB=Explicit:Temporal.Synchronous:when:_:591-595:586-590|XML=<hi rend:::"italic">
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	Entity=(163-person-acc:com-cf1-1-sgl)
 3	next	next	ADV	RB	Degree=Pos	4	advmod	4:advmod	_
 4	meet	meet	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	advcl	9:advcl:when	SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	4:punct	_
-6	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj:pass	9:nsubj:pass	Discourse=joint-list_m:118->116:1:_|Entity=(166-person-acc:com-cf2-1-sgl)
+6	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj:pass	9:nsubj:pass	Discourse=joint-list_m:118->116:1:_|Entity=(164-person-acc:com-cf2-1-sgl)
 7	'll	will	AUX	MD	VerbForm=Fin	9	aux	9:aux	_
 8	be	be	AUX	VB	VerbForm=Inf	9	aux:pass	9:aux:pass	_
 9	married	marry	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	MSeg=marri-ed|SpaceAfter=No
@@ -62,7 +62,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 nsubj:pass	color:blue
-1	Open	Open	ADJ	NNP	Degree=Pos	2	amod	2:amod	Discourse=context-background:3->7:1:_|Entity=(2-abstract-giv:act-cf1*-1,2-coref
+1	Open	Open	ADJ	NNP	Degree=Pos	2	amod	2:amod	Discourse=context-background:3->7:1:ref-prop-12-35,51-52+ref-prs-32-35,55|Entity=(2-abstract-giv:act-cf1*-1,2-coref
 2	Source	Source	PROPN	NNP	Number=Sing	5	nsubj:pass	5:nsubj:pass	Entity=2)
 3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	MSeg=ha-s
 4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	aux:pass	5:aux:pass	_
@@ -73,7 +73,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 9	Fall	Fall	PROPN	NNP	Number=Sing	5	obl	5:obl:since	Entity=(8-time-new-cf7-1-sgl
 10	of	of	ADP	IN	_	11	case	11:case	_
 11	2007	2007	NUM	CD	NumForm=Digit|NumType=Card	9	nmod	9:nmod:of	Entity=(9-time-new-cf10-1-sgl)8)
-12	(	(	PUNCT	-LRB-	_	13	punct	13:punct	Discourse=elaboration-additional:4->3:0:_|SpaceAfter=No
+12	(	(	PUNCT	-LRB-	_	13	punct	13:punct	Discourse=elaboration-additional:4->3:0:grf-prn-19,30+syn-pst_-20|SpaceAfter=No
 13	taught	teach	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	advcl	5:advcl	_
 14	jointly	jointly	ADV	RB	Degree=Pos	13	advmod	13:advmod	_
 15	by	by	ADP	IN	_	16	case	16:case	_
@@ -91,8 +91,8 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 27	level	level	NOUN	NN	Number=Sing	28	compound	28:compound	Entity=12)
 28	class	class	NOUN	NN	Number=Sing	5	obl	5:obl:as	Entity=1)6)|SpaceAfter=No
 29	,	,	PUNCT	,	_	33	punct	33:punct	_
-30	and	and	CCONJ	CC	_	33	cc	33:cc	Discourse=joint-sequence_m:6->3:2:_
-31	then	then	ADV	RB	PronType=Dem	33	advmod	33:advmod	_
+30	and	and	CCONJ	CC	_	33	cc	33:cc	Discourse=joint-sequence_m:6->3:2:dm-and-37+dm-then-38+lex-indwd-44|PDTB=Explicit:Expansion.Conjunction:and:37:8-36:38-47
+31	then	then	ADV	RB	PronType=Dem	33	advmod	33:advmod	PDTB=Explicit:Temporal.Asynchronous.Precedence:then:38:8-36:37,39-47
 32	by	by	ADP	IN	_	33	case	33:case	_
 33	Mukkai	Mukkai	PROPN	NNP	Number=Sing	5	conj	5:conj:and	Entity=(13-person-new-cf5-1,2-sgl
 34	Krishnamoorthy	Krishnamoorthy	PROPN	NNP	Number=Sing	33	flat	33:flat	Entity=13)

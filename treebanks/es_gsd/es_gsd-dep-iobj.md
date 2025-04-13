@@ -35,7 +35,7 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 11	de	de	ADP	_	_	13	case	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	grupo	grupo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	21	punct	_	_
+14	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 15	y	y	CCONJ	_	_	21	cc	_	_
 16	a	a	ADP	_	_	18	case	_	_
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
@@ -51,7 +51,7 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 27	de	de	ADP	_	_	29	case	_	_
 28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 29	lanzamiento	lanzamiento	NOUN	_	Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
-30	,	,	PUNCT	_	_	34	punct	_	_
+30	,	,	PUNCT	_	PunctType=Comm	34	punct	_	_
 31	y	y	CCONJ	_	_	34	cc	_	_
 32	también	también	ADV	_	_	34	advmod	_	_
 33	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
@@ -62,19 +62,19 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 38	de	de	ADP	_	_	40	case	_	_
 39	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	40	det	_	_
 40	canciones	canción	NOUN	_	Gender=Fem|Number=Plur	34	nmod	_	_
-41	"	"	PUNCT	_	_	42	punct	_	SpaceAfter=No
+41	"	"	PUNCT	_	PunctType=Quot	42	punct	_	SpaceAfter=No
 42	Give	give	VERB	_	Foreign=Yes|Mood=Imp|VerbForm=Fin	40	appos	_	Lang=en
-43	'	'	PUNCT	_	_	44	punct	_	SpaceAfter=No
+43	'	'	PUNCT	_	PunctType=Quot	44	punct	_	SpaceAfter=No
 44	em	they	PRON	_	Case=Acc|Foreign=Yes|Number=Plur|Person=3|PronType=Prs	42	iobj	_	Lang=en
 45	hell	hell	NOUN	_	Foreign=Yes|Number=Sing	42	obj	_	Lang=en|SpaceAfter=No
-46	,	,	PUNCT	_	_	47	punct	_	_
+46	,	,	PUNCT	_	PunctType=Comm	47	punct	_	_
 47	kid	kid	NOUN	_	Foreign=Yes|Number=Sing	42	vocative	_	Lang=en|SpaceAfter=No
-48	"	"	PUNCT	_	_	42	punct	_	_
+48	"	"	PUNCT	_	PunctType=Quot	42	punct	_	_
 49	y	y	CCONJ	_	_	51	cc	_	_
-50	"	"	PUNCT	_	_	51	punct	_	SpaceAfter=No
+50	"	"	PUNCT	_	PunctType=Quot	51	punct	_	SpaceAfter=No
 51	Helena	helena	PROPN	_	_	42	conj	_	SpaceAfter=No
-52	"	"	PUNCT	_	_	51	punct	_	SpaceAfter=No
-53	.	.	PUNCT	_	_	5	punct	_	_
+52	"	"	PUNCT	_	PunctType=Quot	51	punct	_	SpaceAfter=No
+53	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 ~~~
 

@@ -12,15 +12,15 @@ udver: '2'
 # UD Faroese OFT
 
 Language: [Faroese](/fo/index.html) (code: `fo`)<br/>
-Family: Indo-European, Germanic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
 
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Bjartur Mortensen, Francis Tyers.
 
 Repository: [UD_Faroese-OFT](https://github.com/UniversalDependencies/UD_Faroese-OFT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_oft214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_oft215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

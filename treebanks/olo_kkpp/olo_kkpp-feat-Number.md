@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt>, <tt><a href="olo_kkpp-feat-Number-psor.html">Number[psor]</a></tt>.
 
-978 tokens (60%) have a non-empty value of `Number`.
-643 types (85%) occur at least once with a non-empty value of `Number`.
+976 tokens (60%) have a non-empty value of `Number`.
+642 types (85%) occur at least once with a non-empty value of `Number`.
 464 lemmas (83%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (429; 26% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (195; 12% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (100; 6% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (93; 6% instances), <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (79; 5% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (61; 4% instances), <tt><a href="olo_kkpp-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="olo_kkpp-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="olo_kkpp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (429; 26% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (195; 12% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (99; 6% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (93; 6% instances), <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (78; 5% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (61; 4% instances), <tt><a href="olo_kkpp-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="olo_kkpp-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="olo_kkpp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -62,14 +62,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-100 <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `Number`.
+99 <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (63; 63%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (62; 63%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (22; 22% of non-empty `Number`): <em>hyö, net, sidä, Heil, Minun, Niilöin, heidy, kai, kudamat, kuduat</em>
-* `Sing` (78; 78% of non-empty `Number`): <em>häi, tämän, se, toine, minun, minul, midä, toizel, toizen, tämä</em>
+* `Sing` (77; 78% of non-empty `Number`): <em>häi, tämän, se, toine, minun, minul, midä, toizel, toizen, tämä</em>
 * `EMPTY` (3): <em>iče, mondu</em>
 
 <table>
@@ -83,13 +83,13 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `ADJ`
 
-93 <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> tokens (92% of all `ADJ` tokens) have a non-empty value of `Number`.
+93 <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> tokens (93% of all `ADJ` tokens) have a non-empty value of `Number`.
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (32; 34% of non-empty `Number`): <em>Karjalazet, kielitiijollizii, omis, tverinkarjalazien, Erähil, Myöhembäite, Tundemattominnu, Tämänpäiväzile, Vepsäläzet, enimilleh</em>
 * `Sing` (61; 66% of non-empty `Number`): <em>mustal, valgiel, Toine, bohattu, hyväs, jygei, semmostu, suuri, 30., Arbuamatoi</em>
-* `EMPTY` (8): <em>eri, 10., 23., 30., Kogo, eto</em>
+* `EMPTY` (7): <em>eri, 10., 23., 30., Kogo</em>
 
 <table>
   <tr><th>Paradigm <i>oma</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -102,12 +102,12 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `PROPN`
 
-79 <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> tokens (96% of all `PROPN` tokens) have a non-empty value of `Number`.
+78 <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> tokens (96% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (2; 3% of non-empty `Number`): <em>Petroskois, Petroskoispäi</em>
-* `Sing` (77; 97% of non-empty `Number`): <em>Tverin, Karjalan, Anuksen, Mustonen, Peter, Petroskoin, Suomes, Anuksenlinnas, Karelija, Karjalah</em>
+* `Sing` (76; 97% of non-empty `Number`): <em>Tverin, Karjalan, Anuksen, Mustonen, Peter, Petroskoin, Suomes, Anuksenlinnas, Karjalah, Karjalas</em>
 * `EMPTY` (3): <em>Anuksen, Mustonen, Tapio</em>
 
 <table>
@@ -158,15 +158,15 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 ### `X`
 
-3 <tt><a href="olo_kkpp-pos-X.html">X</a></tt> tokens (50% of all `X` tokens) have a non-empty value of `Number`.
+3 <tt><a href="olo_kkpp-pos-X.html">X</a></tt> tokens (30% of all `X` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `X` and `Number` co-occurred: <tt><a href="olo_kkpp-feat-Case.html">Case</a></tt><tt>=Par</tt> (3; 100%).
+The most frequent other feature values with which `X` and `Number` co-occurred: <tt><a href="olo_kkpp-feat-Case.html">Case</a></tt><tt>=Par</tt> (3; 100%), <tt><a href="olo_kkpp-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (3; 100%).
 
 `X` tokens may have the following values of `Number`:
 
 * `Plur` (2; 67% of non-empty `Number`): <em>d’engaa, puččii</em>
 * `Sing` (1; 33% of non-empty `Number`): <em>piduhuttu</em>
-* `EMPTY` (3): <em>ttiteatr, u, y</em>
+* `EMPTY` (7): <em>Karelija, eto, mi, ttiteatr, u, y, –</em>
 
 ### `ADP`
 
@@ -200,5 +200,5 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="olo_kkpp-dep-cop.html">cop</a></tt>]--> AUX</tt> (15; 83%),
 <tt>NOUN --[<tt><a href="olo_kkpp-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (15; 65%),
 <tt>VERB --[<tt><a href="olo_kkpp-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (13; 59%),
-<tt>NOUN --[<tt><a href="olo_kkpp-dep-det.html">det</a></tt>]--> PRON</tt> (12; 92%).
+<tt>NOUN --[<tt><a href="olo_kkpp-dep-det.html">det</a></tt>]--> PRON</tt> (11; 92%).
 

@@ -8,8 +8,8 @@ udver: '2'
 There are two constructions that use a copula and a relative clause modifier, _'S ann_ and _'S e_.
 
 * _'S ann_ or _Sann_ fronts adjectives, adverbs, APs, PPs and adverbial clauses.
-** If what has been fronted has no overt subject, as is the case for adjectives, adverbs, APs and PPs, then it is linked to the relative clause modifier by `csubj:cleft`.
-** However, if it is itself a clause with an explicit head, then see `csubj:outer`.
+  * If what has been fronted has no overt subject, as is the case for adjectives, adverbs, APs and PPs, then it is linked to the relative clause modifier by `csubj:cleft`.
+  * However, if it is itself a clause with an explicit head, then see `csubj:outer`.
 * _'S e_ or _'Se_ fronts an NP, which is linked to a relative clause modifier of indefinite reference by `csubj:cleft`.
 * Where there is a definite NP, this is not in a relative clause but linked by `nsubj`.
 
@@ -31,4 +31,4 @@ Sann á bàrdachd a bha iad a' faighinn am beò-shlàint. \n COP EXPL from poetr
 csubj:cleft(bàrdachd, bha)
 cop(bàrdachd, Sann)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:02 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:44 CET -->

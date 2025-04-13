@@ -117,7 +117,7 @@ The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 15	para	para	ADP	sps00	_	18	case	18:case	_
 16	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	18:det	Entity=(NOCOREF:Spec.date-time-3-gstype:spec
 17	próximo	próximo	ADJ	aq0ms0	Gender=Masc|Number=Sing	18	amod	18:amod	_
-18	martes	martes	NOUN	_	AdvType=Tim	24	obl	24:obl	Entity=NOCOREF:Spec.date)
+18	martes	martes	NOUN	_	_	24	obl	24:obl	Entity=NOCOREF:Spec.date)
 19	en	en	ADP	sps00	_	20	case	20:case	_
 20	Razzmatazz	Razzmatazz	PROPN	np00000	_	24	obl	24:obl	Entity=(NOCOREF:Spec.location-place-1-gstype:spec)
 21	(	(	PUNCT	fpa	PunctSide=Ini|PunctType=Brck	22	punct	22:punct	SpaceAfter=No

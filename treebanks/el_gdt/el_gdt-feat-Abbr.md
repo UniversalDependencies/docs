@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (362; 100% of non-empty `Abbr`): <em>ΗΠΑ, κ., ΕΕ, χλμ., ΟΗΕ, ΕΛΑΣ, π.Χ., ΕΑΜ, ΕΚ, ΕΝ</em>
-* `EMPTY` (13178): <em>επιτροπή, κοινοβούλιο, Συμβούλιο, κύριε, χώρες, ένωση, επιτροπής, Πρόεδρε, μέλη, ευρώ</em>
+* `EMPTY` (13182): <em>επιτροπή, κοινοβούλιο, Συμβούλιο, κύριε, χώρες, ένωση, επιτροπής, Πρόεδρε, μέλη, ευρώ</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (80) occur only with one value of `Abbr`.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-73 nodes (1%) are attached to their parents as `advmod`.
+175 nodes (1%) are attached to their parents as `advmod`.
 
-46 instances of `advmod` (63%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.67123287671233.
+129 instances of `advmod` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.58857142857143.
 
-The following 6 pairs of parts of speech are connected with `advmod`: <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-PART.html">PART</a></tt> (42; 58% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> (20; 27% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> (6; 8% instances), <tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt>-<tt><a href="egy_ujaen-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_ujaen-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-PART.html">PART</a></tt> (109; 62% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> (35; 20% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-PART.html">PART</a></tt> (9; 5% instances), <tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_ujaen-pos-PART.html">PART</a></tt> (8; 5% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> (6; 3% instances), <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_ujaen-pos-PART.html">PART</a></tt> (5; 3% instances), <tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt>-<tt><a href="egy_ujaen-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,48 +22,44 @@ The following 6 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 advmod	color:blue
-1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
-2	wrč̣	wrč̣	VERB	SFC|Fut	Tense=Fut	0	root	_	_
-3	i҆b	i҆b	NOUN	Subj|MWE	Gender=Masc|Number=Sing	2	nsubj	_	_
-4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
-5	ẖr	ẖr	ADP	Pron.st	Case=Sub	6	case	_	_
-6	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	Hiero=𓂜
+2	wrč̣	wrč̣	VERB	SPC=Fut	Tense=Fut	0	root	_	Hiero=(𓅨:𓂋)𓆓
+3	ꞽb	ꞽb	NOUN	MWE=Yes	Gender=Masc|Number=Sing	2	nsubj	_	Hiero=𓄣
+4	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	Hiero=𓎡
+5	ẖr	ẖr	ADP	Status=Pron	Case=Sub	6	case	_	Hiero=𓌨:𓂋
+6	⸗ś	ś	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	_	Hiero=𓋴
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 4 advmod	color:blue
-1	ꜣw	ꜣwi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Subj|MWE	Gender=Masc|Number=Sing	1	nsubj	_	_
-3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
-4	č̣.t	č̣.t	ADV	NOUN	AdvType=Tim	1	advmod	_	_
+# visual-style 1 2 advmod	color:blue
+1	sꞽ.t(ꞽ)	sꞽ	VERB	OSSC=Initial	Gender=Com|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓊄:𓏏
+2	č̣ṭk	č̣ṭk	ADV	_	_	1	advmod	_	Hiero=(𓆓:𓂧)𓊽𓎡
+3	ḥnꜥ	ḥnꜥ	ADP	Status=Cons	Case=Com	4	case	_	Hiero=𓎛(𓈖:𓂝)
+4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓂓
+5	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	Hiero=𓎡
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 12 advmod	color:blue
-1	Wśr(.w)	Wśr.w	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	i҆č	i҆či̯	VERB	Imp	Mood=Imp	0	root	_	_
-3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
-4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
-5	mśč̣č̣.w	mśč̣i̯	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Plur	2	obj	_	_
-6	Wni҆ś	Wni҆ś	PROPN	Gen	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
-7	nb.w	nb	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	_
-8	mṭw(.w)	mṭwi̯	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Plur	2	obj	_	_
-9	m	m	ADP	Cons.st	Case=Ins	10	case	_	_
-10	rn	rn	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
-11	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
-12	č̣w	č̣w	ADV	NOUN	AdvType=Man	8	advmod	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 advmod	color:blue
+1	Ttꞽ	Ttꞽ	PROPN	_	Gender=Masc	4	nsubj	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
+2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	Hiero=𓊪𓅱
+3	wnn.t	wnn.t	PART	_	PartType=Emp	4	advmod	_	Hiero=(𓇬:𓈖:𓈖)𓏏
+4	rč̣	rč̣i̯	NOUN	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	Hiero=𓂋:𓏙
+5	tʾ	tʾ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	4	obj	_	Hiero=𓏏:𓏐
+6	n	n	ADP	Status=Cons	Case=Dat	7	case	_	Hiero=𓈖
+7	n.t(ꞽ)w	n.t	NOUN	Nisba=Noun|Hierocl=Yes	Gender=Masc|Number=Plur	4	iobj	_	Hiero=(𓈖:𓅂)𓈓𓅱
 
 ~~~
 

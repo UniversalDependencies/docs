@@ -35,7 +35,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 11	bancaria	bancario	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	_
 12	de	de	ADP	IN	_	13	case	_	_
 13	Clinton	Clinton	PROPN	NNP	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	.	_	4	punct	_	_
+14	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 ~~~
 
@@ -53,13 +53,13 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 5	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
 6	propia	propio	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
 7	salud	salud	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
-8	,	,	PUNCT	,	_	9	punct	_	_
+8	,	,	PUNCT	,	PunctType=Comm	9	punct	_	_
 9	afirmó	afirmar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
 10	Alice	Alice	PROPN	NNP	Gender=Fem|Number=Sing	9	nsubj	_	SpaceAfter=No
-11	,	,	PUNCT	,	_	13	punct	_	_
+11	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
 12	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	mujer	mujer	NOUN	NN	Gender=Fem|Number=Sing	10	appos	_	SpaceAfter=No
-14	.	.	PUNCT	.	_	3	punct	_	_
+14	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -80,7 +80,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 8	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
 9	muy	muy	ADV	RB	_	10	advmod	_	_
 10	conservador	conservador	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	.	_	10	punct	_	_
+11	.	.	PUNCT	.	PunctType=Peri	10	punct	_	_
 
 ~~~
 

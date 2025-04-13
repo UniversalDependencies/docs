@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="kpv_lattice-pos-VER
 
 90 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Connegative`.
 
-The most frequent other feature values with which `VERB` and `Connegative` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (90; 100%), <tt><a href="kpv_lattice-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (90; 100%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (90; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (90; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (90; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (80; 89%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (79; 88%).
+The most frequent other feature values with which `VERB` and `Connegative` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (90; 100%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (90; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (90; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (90; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (80; 89%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (79; 88%).
 
 `VERB` tokens may have the following values of `Connegative`:
 

@@ -12,15 +12,15 @@ udver: '2'
 # UD Cappadocian TueCL
 
 Language: [Cappadocian](/cpg/index.html) (code: `cpg`)<br/>
-Family: Indo-European, Greek
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.14 release.
 
 The following people have contributed to making this treebank part of UD: Eleni Vligouridou, Inessa Iliadou, Çağrı Çöltekin.
 
 Repository: [UD_Cappadocian-TueCL](https://github.com/UniversalDependencies/UD_Cappadocian-TueCL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcpg_tuecl214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcpg_tuecl215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

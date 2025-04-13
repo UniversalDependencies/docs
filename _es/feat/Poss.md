@@ -26,4 +26,4 @@ Spanish possessive pronouns and determiners include:
 * _Es tu coche._ "It's your [singular] car."
 * _Son sus zapatos._ "These are his/her/your[polite]/their shoes."
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:16 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:00 CET -->

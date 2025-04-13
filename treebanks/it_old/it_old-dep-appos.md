@@ -8,42 +8,28 @@ udver: '2'
 
 This relation is universal.
 
-53 nodes (0%) are attached to their parents as `appos`.
+70 nodes (0%) are attached to their parents as `appos`.
 
-53 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.88679245283019.
+70 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.42857142857143.
 
-The following 10 pairs of parts of speech are connected with `appos`: <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (32; 60% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (6; 11% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (4; 8% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (4; 8% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 11 pairs of parts of speech are connected with `appos`: <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (36; 51% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (9; 13% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (7; 10% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (5; 7% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (5; 7% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 17 appos	color:blue
-1	Quando	quando	ADV	b	_	7	advmod:tmod	_	Canto=14|Verso=100
-2	in	in	ADP	epsksl	_	3	case	_	Canto=14|Verso=100
-3	Bologna	Bologna	PROPN	np	_	7	obl:lmod	_	Canto=14|Verso=100
-4	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Canto=14|Verso=100
-5	Fabbro	Fabbro	PROPN	np	_	7	nsubj	_	Canto=14|Verso=100
-6	si	si	PRON	pf3yle	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	7	expl:pv	_	Canto=14|Verso=100
-7	ralligna	rallignare	VERB	vi+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Canto=14|SpaceAfter=No|Verso=100
-8	?	?	PUNCT	_	_	7	punct	_	_
-9	quando	quando	ADV	b	_	13	advmod:tmod	_	Canto=14|Verso=101
-10	in	in	ADP	epsksl	_	11	case	_	Canto=14|Verso=101
-11	Faenza	Faenza	PROPN	np	_	13	obl:lmod	_	Canto=14|Verso=101
-12	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Canto=14|Verso=101
-13	Bernardin	Bernardino	PROPN	np	_	7	parataxis	_	Canto=14|SpaceAfter=No|Verso=101
-14	di	di	ADP	np	_	15	case	_	Canto=14|SpaceAfter=No|Verso=101
-15	Fosco	Fosco	PROPN	np	_	13	flat:name	_	Canto=14|SpaceAfter=No|Verso=101
-16	,	,	PUNCT	_	_	17	punct	_	_
-17	verga	verga	NOUN	sf1fs	Gender=Fem|Number=Sing	13	appos	_	Canto=14|Verso=102
-18	gentil	gentile	ADJ	a2fs	Gender=Fem|Number=Sing	17	amod	_	Canto=14|Verso=102
-19	di	di	ADP	epsk6	_	21	case	_	Canto=14|Verso=102
-20	picciola	piccolo	ADJ	a1fs	Gender=Fem|Number=Sing	21	amod	_	Canto=14|Verso=102
-21	gramigna	gramigna	NOUN	sf1fs	Gender=Fem|Number=Sing	17	nmod	_	Canto=14|SpaceAfter=No|Verso=102
-22	?	?	PUNCT	_	_	7	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 appos	color:blue
+1	Oh	oh	PART	i	_	2	discourse	_	Canto=23|Verso=34
+2	Beatrice	Beatrice	PROPN	np	_	0	root	_	Canto=23|Verso=34|SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	dolce	dolce	ADJ	a2fs	Gender=Fem|Number=Sing	5	amod	_	Canto=23|Verso=34
+5	guida	guida	NOUN	sf1fs	Gender=Fem|Number=Sing	2	appos	_	Canto=23|Verso=34
+6	e	e	CCONJ	cscc	_	7	cc	_	Canto=23|Verso=34
+7	cara	caro	ADJ	a1fs	Gender=Fem|Number=Sing	4	conj	_	Canto=23|Verso=34|SpaceAfter=No
+8	!	!	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

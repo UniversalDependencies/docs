@@ -28,7 +28,7 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 3	iongantach	iongantach	ADJ	Ap	_	0	root	_	_
 4	mar	mar	SCONJ	Cs	_	6	mark	_	_
 5	a	a	PART	Q-r	PartType=Vb|PronType=Rel	6	mark:prt	_	_
-6	chuala	cluinn	VERB	V-s	Tense=Past	3	csubj:cleft	_	_
+6	chuala	cluinn	VERB	V-s	Mood=Ind|Tense=Past|VerbForm=Fin	3	csubj:cleft	_	_
 
 ~~~
 
@@ -39,16 +39,16 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 mark	color:blue
-1	Bha	bi	VERB	V-s	Tense=Past	0	root	_	_
+1	Bha	bi	VERB	V-s	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 2	Ludovic	Ludovic	PROPN	Nn-mn	Case=Nom|Gender=Masc	1	nsubj	_	_
 3	an	an	ADP	Sp	_	5	case	_	_
-4	a	a	PRON	Dp3sm	Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	nmod:poss	_	_
+4	a	a	PRON	Dp3sm	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
 5	chabhaig	cabhaig	NOUN	Ncsfd	Case=Dat|Gender=Fem|Number=Sing	1	xcomp:pred	_	SpaceAfter=No
 6	,	,	PUNCT	Fi	_	8	punct	_	_
 7	agus	agus	SCONJ	Cc	_	8	mark	_	_
 8	aithreachas	aithreachas	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	1	advcl	_	_
 9	air	air	ADP	Sp	_	10	case	_	_
-10	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	8	xcomp:pred	_	_
+10	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	xcomp:pred	_	_
 11	.	.	PUNCT	Fe	_	1	punct	_	_
 
 ~~~
@@ -63,13 +63,13 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 1	ùine	ùine	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 2	mhòr	mòr	ADJ	Aq-sfn	Case=Nom|Gender=Fem|Number=Sing	1	amod	_	_
 3	aig	aig	ADP	Sp	_	4	case	_	_
-4	sibh	sibh	PRON	Pp2p	Number=Plur|Person=2	1	xcomp:pred	_	_
+4	sibh	sibh	PRON	Pp2p	Number=Plur|Person=2|PronType=Prs	1	xcomp:pred	_	_
 5	am	am	ADV	Rt	_	1	advmod	_	_
 6	bliadhna	bliadhna	ADV	Rt	_	5	fixed	_	_
 7	co-dhiubh	co-dhiubh	ADV	Rg	_	1	advmod	_	_
 8	ma	ma	SCONJ	Cs	_	10	mark	_	_
 9	is	is	AUX	Wp-i	Tense=Pres	10	cop	_	_
-10	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	1	advcl	_	_
+10	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	advcl	_	_
 11	an	an	DET	Tdsm	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	toiseach	toiseach	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
 

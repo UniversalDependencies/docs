@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Ivan Roksandic, Fabrício Ferraz Gerardi.
 
 Repository: [UD_Xavante-XDT](https://github.com/UniversalDependencies/UD_Xavante-XDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxav_xdt214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxav_xdt215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -70,7 +70,7 @@ The development of this treebank is supported by the by European Research Counci
 
 ## Features
 
-[Aspect](xav_xdt-feat-Aspect.html) – [Case](xav_xdt-feat-Case.html) – [Degree](xav_xdt-feat-Degree.html) – [Deixis](xav_xdt-feat-Deixis.html) – [Ego](xav_xdt-feat-Ego.html) – [Emph](xav_xdt-feat-Emph.html) – [Fact](xav_xdt-feat-Fact.html) – [Hnfc](xav_xdt-feat-Hnfc.html) – [Htp](xav_xdt-feat-Htp.html) – [Int](xav_xdt-feat-Int.html) – [Intens](xav_xdt-feat-Intens.html) – [Mood](xav_xdt-feat-Mood.html) – [Nomzr](xav_xdt-feat-Nomzr.html) – [Number](xav_xdt-feat-Number.html) – [Number[abs]](xav_xdt-feat-Number-abs.html) – [Number[psor]](xav_xdt-feat-Number-psor.html) – [NumType](xav_xdt-feat-NumType.html) – [Person](xav_xdt-feat-Person.html) – [Person[abs]](xav_xdt-feat-Person-abs.html) – [Polarity](xav_xdt-feat-Polarity.html) – [Poss](xav_xdt-feat-Poss.html) – [PronType](xav_xdt-feat-PronType.html) – [Reflex](xav_xdt-feat-Reflex.html) – [Tense](xav_xdt-feat-Tense.html)
+[Aspect](xav_xdt-feat-Aspect.html) – [Case](xav_xdt-feat-Case.html) – [Degree](xav_xdt-feat-Degree.html) – [Deixis](xav_xdt-feat-Deixis.html) – [Ego](xav_xdt-feat-Ego.html) – [Emph](xav_xdt-feat-Emph.html) – [Fact](xav_xdt-feat-Fact.html) – [Hnfc](xav_xdt-feat-Hnfc.html) – [Htp](xav_xdt-feat-Htp.html) – [Int](xav_xdt-feat-Int.html) – [Intens](xav_xdt-feat-Intens.html) – [Mood](xav_xdt-feat-Mood.html) – [Nomzr](xav_xdt-feat-Nomzr.html) – [Number](xav_xdt-feat-Number.html) – [Number[abs]](xav_xdt-feat-Number-abs.html) – [Number[psor]](xav_xdt-feat-Number-psor.html) – [NumType](xav_xdt-feat-NumType.html) – [Person](xav_xdt-feat-Person.html) – [Person[abs]](xav_xdt-feat-Person-abs.html) – [Polarity](xav_xdt-feat-Polarity.html) – [Polite](xav_xdt-feat-Polite.html) – [Poss](xav_xdt-feat-Poss.html) – [PronType](xav_xdt-feat-PronType.html) – [Reflex](xav_xdt-feat-Reflex.html) – [Tense](xav_xdt-feat-Tense.html)
 
 ## Relations
 
@@ -80,7 +80,7 @@ The development of this treebank is supported by the by European Research Counci
 
 
 <ul>
-<li>This corpus contains 171 sentences, 1712 tokens and 1720 syntactic words.</li>
+<li>This corpus contains 173 sentences, 1732 tokens and 1740 syntactic words.</li>
 </ul>
 
 <ul>
@@ -110,7 +110,7 @@ The development of this treebank is supported by the by European Research Counci
 </ul>
 
 <ul>
-<li>This corpus contains 25 word types tagged as particles (PART): 're, aba, bété, bö, da, di, dza, dza'ra, e, hã, ma, mono, norĩ, norĩhã, re, reb, te, tô, tõ, wa, wa'aba, za, zaʔra, õ, ʔre</li>
+<li>This corpus contains 26 word types tagged as particles (PART): 're, aba, bété, bö, da, di, dza, dza'ra, e, hã, ma, mono, norĩ, norĩhã, oto, re, reb, te, tô, tõ, wa, wa'aba, za, zaʔra, õ, ʔre</li>
 </ul>
 
 <ul>
@@ -170,7 +170,7 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>ADP: wadzô, waré</li>
       <li>AUX: wate</li>
-      <li>NOUN: zéré, 'ra, Wahitébré, Watsi'utsu, Wawa'a, warob, watsa, watsai, ĩĩzéré</li>
+      <li>NOUN: waʔrata, zéré, 'ra, Wahitébré, Watsi'utsu, Wawa'a, warob, watsa, watsai, ĩĩzéré</li>
       <li>PART: dza'ra, zaʔra</li>
       <li>PRON: wama, õnorĩhã, Anorĩwa'wahã, wasima, Waãma, anorĩ, wate</li>
     </ul>
@@ -183,7 +183,7 @@ The development of this treebank is supported by the by European Research Counci
       <li>ADP: ĩĩma</li>
       <li>AUX: tete</li>
       <li>NOUN: azarutu, ĩĩmama, Ano, zé, ĩna, ĩno, Dazépuʔu, aimreme, dahöimanadzéb, datõmo</li>
-      <li>PRON: õhã, ĩĩsima, Wahã</li>
+      <li>PRON: õhã, ĩĩsima, Wahã, wa</li>
       <li>VERB: aañamra, ajwajrĩ, azidi, dahudu, höjmana, iwẽ, pusi, sãmra, Ĩĩsiupte, ĩhöjmana</li>
     </ul>
   </li>
@@ -353,7 +353,7 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: õhã, Wahã, wa, Waãma, anorĩ, wate</li>
+      <li>PRON: õhã, wa, Wahã, Waãma, anorĩ, wate</li>
     </ul>
   </li>
 </ul>
@@ -412,9 +412,9 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>ADP: wadzô, waré, ĩĩma</li>
       <li>AUX: wate</li>
-      <li>NOUN: ĩĩmama, Ĩ'rã, 'ra, Wahitébré, Watsi'utsu, Wawa'a, wa'ranorĩhã, warob, watsa, watsai</li>
+      <li>NOUN: ĩĩmama, waʔrata, Ĩ'rã, 'ra, Wahitébré, Watsi'utsu, Wawa'a, wa'ranorĩhã, warob, watsa</li>
       <li>PART: wa</li>
-      <li>PRON: wanorĩhã, wama, wasima, ĩma, ĩĩsima, Wahã, wate</li>
+      <li>PRON: wanorĩhã, wama, wasima, ĩma, ĩĩsima, Wahã, wa, wate</li>
       <li>VERB: Ĩĩsiupte, ĩĩwasutu, ĩĩzahi</li>
     </ul>
   </li>
@@ -444,6 +444,17 @@ The development of this treebank is supported by the by European Research Counci
   </li>
 </ul>
 
+<ul>
+  <li><a>Polite</a></li>
+</ul>
+
+<ul>
+  <li>Form
+    <ul>
+      <li>ADP: dama</li>
+    </ul>
+  </li>
+</ul>
 
 
 <ul>
@@ -636,7 +647,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (93)</li>
-      <li>VERB--PRON (28)</li>
+      <li>VERB--PRON (29)</li>
       <li>VERB--PRON-Dat (2)</li>
     </ul>
   </li>

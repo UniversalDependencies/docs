@@ -26,8 +26,8 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 2	tētis	tētis	NOUN	ncmsn2	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	LvtbNodeId=a-c70-Cairo-p8s1w2
 3	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	LvtbNodeId=a-c70-Cairo-p8s1w3
 4	foršāks	foršs	ADJ	afmsnnc	Case=Nom|Definite=Ind|Degree=Cmp|Gender=Masc|Number=Sing	0	root	0:root	LvtbNodeId=a-c70-Cairo-p8s1w4
-5	nekā	nekā	SCONJ	cs	_	6	case	6:case	LvtbNodeId=a-c70-Cairo-p8s1w5
-6	tavējais	tavējs	ADJ	armsnyp	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	4	obl	4:obl:nekā	LvtbNodeId=a-c70-Cairo-p8s1w6|SpaceAfter=No
+5	nekā	nekā	SCONJ	cs	_	6	mark	6:mark	LvtbNodeId=a-c70-Cairo-p8s1w5
+6	tavējais	tavējs	DET	armsnyp	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	4	advcl	4:advcl:nekā	LvtbNodeId=a-c70-Cairo-p8s1w6|SpaceAfter=No
 7	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-c70-Cairo-p8s1w7
 
 ~~~
@@ -58,14 +58,14 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 3 cop	color:blue
 1	Šī	šī	DET	pd3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	2	det	2:det	LvtbNodeId=a-c70-Cairo-p19s1w1
-2	vēstule	vēstule	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj|7:nsubj:pass|8:nsubj:pass	LvtbNodeId=a-c70-Cairo-p19s1w2
+2	vēstule	vēstule	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj|8:nsubj:pass	LvtbNodeId=a-c70-Cairo-p19s1w2
 3	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	5:cop	LvtbNodeId=a-c70-Cairo-p19s1w3
 4	no	no	ADP	spsg	_	5	case	5:case	LvtbNodeId=a-c70-Cairo-p19s1w4
 5	Pētera	Pēteris	PROPN	npmsg2	Case=Gen|Gender=Masc|Number=Sing	0	root	0:root	LvtbNodeId=a-c70-Cairo-p19s1w5
-6	un	un	CCONJ	cc	_	7	cc	7:cc	LvtbNodeId=a-c70-Cairo-p19s1w6
-7	tika	tikt	VERB	vtnisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	5:conj	LvtbNodeId=a-c70-Cairo-p19s1w7
-8	piegādāta	piegādāt	VERB	vmnpdfsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	7	xcomp	7:xcomp	LvtbNodeId=a-c70-Cairo-p19s1w8
-9	vakar	vakar	ADV	r0n	_	7	advmod	7:advmod	LvtbNodeId=a-c70-Cairo-p19s1w9|SpaceAfter=No
+6	un	un	CCONJ	cc	_	8	cc	8:cc	LvtbNodeId=a-c70-Cairo-p19s1w6
+7	tika	tikt	AUX	vanisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	8	aux:pass	8:aux:pass	LvtbNodeId=a-c70-Cairo-p19s1w7
+8	piegādāta	piegādāt	VERB	vmnpdfsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	5	conj	5:conj	LvtbNodeId=a-c70-Cairo-p19s1w8
+9	vakar	vakar	ADV	r0n	_	8	advmod	8:advmod	LvtbNodeId=a-c70-Cairo-p19s1w9|SpaceAfter=No
 10	.	.	PUNCT	zs	_	5	punct	5:punct	LvtbNodeId=a-c70-Cairo-p19s1w10
 
 ~~~

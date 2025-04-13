@@ -13,7 +13,7 @@ The 10 most frequent `AUX` lemmas: <em>být, bývat</em>
 
 The 10 most frequent `AUX` types:  <em>jsem, je, by, byl, byla, bylo, bych, jsme, bude, jsou</em>
 
-The 10 most frequent ambiguous lemmas: <em>být</em> (<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 7488, <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 
 
 The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 863, <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 228), <em>si</em> (<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 1351, <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 4), <em>buď</em> (<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 1)
 
@@ -30,18 +30,18 @@ The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="cs_fictree-pos-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 29.500000 (the average of all parts of speech is 1.970842).
+The form / lemma ratio of `AUX` is 29.500000 (the average of all parts of speech is 1.968999).
 
 The 1st highest number of forms (48) was observed with the lemma “být”: <em>Buďme, Nebuď, bude, budeme, budete, budeš, budou, budu, buď, buďte, by, bych, bychom, byl, byla, byli, bylo, byly, bys, bysme, byste, být, je, jsem, jsi, jsme, jsou, jsouc, jste, nebude, nebudeme, nebudeš, nebudou, nebudu, nebyl, nebyla, nebyli, nebylo, nebyly, nebýt, nejsem, nejseš, nejsi, nejsme, nejsou, nejste, není, si</em>.
 
 The 2nd highest number of forms (11) was observed with the lemma “bývat”: <em>Nebývají, bývají, býval, bývala, bývali, bývalo, bývá, bývám, nebýval, nebývala, nebývalo</em>.
 
-`AUX` occurs with 11 features: <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt> (7534; 100% instances), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt> (6573; 87% instances), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt> (6258; 83% instances), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt> (6098; 81% instances), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt> (6098; 81% instances), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt> (5957; 79% instances), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt> (5516; 73% instances), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt> (1423; 19% instances), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt> (624; 8% instances), <tt><a href="cs_fictree-feat-Style.html">Style</a></tt> (7; 0% instances), <tt><a href="cs_fictree-feat-Aspect.html">Aspect</a></tt> (1; 0% instances)
+`AUX` occurs with 11 features: <tt><a href="cs_fictree-feat-Aspect.html">Aspect</a></tt> (7534; 100% instances), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt> (7534; 100% instances), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt> (6573; 87% instances), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt> (6258; 83% instances), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt> (6098; 81% instances), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt> (6098; 81% instances), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt> (5957; 79% instances), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt> (5150; 68% instances), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt> (1423; 19% instances), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt> (624; 8% instances), <tt><a href="cs_fictree-feat-Style.html">Style</a></tt> (7; 0% instances)
 
 `AUX` occurs with 25 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Aspect=Imp`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Polarity=Pos`, `Style=Coll`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Conv`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`
 
-`AUX` occurs with 55 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act` (2338 tokens).
+`AUX` occurs with 54 feature combinations.
+The most frequent feature combination is `Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act` (2338 tokens).
 Examples: <em>jsem, bývám</em>
 
 

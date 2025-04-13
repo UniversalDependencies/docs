@@ -24,14 +24,13 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 * `Past` (1470; 59% of non-empty `Tense`): <em>мерсь, лиссь, мольсь, ютась, совась, саизе, сась, пшкадсь, тейсь, чийсь</em>
 * `Pres` (1022; 41% of non-empty `Tense`): <em>ашти, неяви, маряви, ваны, моли, сы, мерят, арьси, корты, мерить</em>
-* `EMPTY` (1236): <em>теемс, кортамо, молемс, учо, вант, оймсеме, тееме, чиезь, ютазь, адя</em>
+* `EMPTY` (1237): <em>теемс, кортамо, молемс, учо, вант, оймсеме, тееме, чиезь, ютазь, адя</em>
 
 <table>
   <tr><th>Paradigm <i>молемс</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=VerbYcja</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>молицятнень</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=VerbYcja</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>молиця</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>молиця</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=VerbYcja</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>молицякс</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="myv_jr-feat-Nomzr.html">Nomzr</a></tt><tt>=Ag</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>молицятнень</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Nomzr.html">Nomzr</a></tt><tt>=Ag</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>молиця</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Nomzr.html">Nomzr</a></tt><tt>=Ag</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>молицякс</em></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Clitic.html">Clitic</a></tt><tt>=Add</tt>|<tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>молияк</em></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>молить</em></td><td><em>мольсть</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt></tt></td><td><em>молян</em></td><td><em>Молинь</em></td></tr>
@@ -101,7 +100,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 
 * `Past` (8; 24% of non-empty `Tense`): <em>Лангсонзоль, вирьсэлить, пель, седеель, студентэлинек, сускомаль, фермасоль, чоподаль</em>
 * `Pres` (25; 76% of non-empty `Tense`): <em>чумо, бандит, коммунистан, пежеть, Велькссэнзэ, Вечкан, Превсат, аванть, бандитан, большевикат</em>
-* `EMPTY` (5060): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
+* `EMPTY` (5059): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
 
 `Tense` seems to be **lexical feature** of `NOUN`. 100% lemmas (27) occur only with one value of `Tense`.
 
@@ -135,7 +134,7 @@ The most frequent other feature values with which `PRON` and `Tense` co-occurred
 
 * `Past` (2; 29% of non-empty `Tense`): <em>мезель, мейсэль</em>
 * `Pres` (5; 71% of non-empty `Tense`): <em>киян, кият, истямат</em>
-* `EMPTY` (1169): <em>сон, весе, те, мон, сонзэ, тон, мезе, сонсь, минь, сынь</em>
+* `EMPTY` (1172): <em>сон, весе, те, мон, сонзэ, тон, мезе, сонсь, минь, сынь</em>
 
 ### `PROPN`
 

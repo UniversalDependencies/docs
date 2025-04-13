@@ -22,16 +22,16 @@ The following 118 pairs of parts of speech are connected with `conj`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 conj	color:blue
-1	Ředitel	ředitel	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	0	root	0:root	SpaceAfter=No
+1	Ředitel	ředitel	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	3	punct	3:punct	_
-3	ZO	ZO	NOUN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|Polarity=Pos	1	conj	0:root|1:conj	_
-4	SSM	SSM	PROPN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|NameType=Com|Polarity=Pos	3	nmod	3:nmod	SpaceAfter=No|LId=SSM-1|LGloss=(Socialistický_svaz_mládeže)
+3	ZO	ZO	NOUN	NNFXX-----A---8	Abbr=Yes|Gender=Fem	1	conj	0:root|1:conj	_
+4	SSM	SSM	PROPN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|NameType=Com	3	nmod	3:nmod	SpaceAfter=No|LId=SSM-1|LGloss=(Socialistický_svaz_mládeže)
 5	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
-6	ZO	ZO	NOUN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|Polarity=Pos	1	conj	0:root|1:conj	_
-7	KSČ	KSČ	PROPN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|NameType=Com|Polarity=Pos	6	nmod	6:nmod	SpaceAfter=No|LId=KSČ-1|LGloss=(Komunistická_strana_Československa)
+6	ZO	ZO	NOUN	NNFXX-----A---8	Abbr=Yes|Gender=Fem	1	conj	0:root|1:conj	_
+7	KSČ	KSČ	PROPN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|NameType=Com	6	nmod	6:nmod	SpaceAfter=No|LId=KSČ-1|LGloss=(Komunistická_strana_Československa)
 8	,	,	PUNCT	Z:-------------	_	9	punct	9:punct	_
-9	ZO	ZO	NOUN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|Polarity=Pos	1	conj	0:root|1:conj	_
-10	ROH	ROH	PROPN	NNNXX-----A---8	Abbr=Yes|Gender=Neut|NameType=Com|Polarity=Pos	9	nmod	9:nmod	SpaceAfter=No
+9	ZO	ZO	NOUN	NNFXX-----A---8	Abbr=Yes|Gender=Fem	1	conj	0:root|1:conj	_
+10	ROH	ROH	PROPN	NNNXX-----A---8	Abbr=Yes|Gender=Neut|NameType=Com	9	nmod	9:nmod	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
@@ -44,14 +44,14 @@ The following 118 pairs of parts of speech are connected with `conj`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 10 conj	color:blue
 1	Velkou	velký	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	2:amod	_
-2	úlohu	úloha	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obj	3:obj	_
+2	úlohu	úloha	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	_
 3	má	mít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-4	prostředí	prostředí	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	3	nsubj	3:nsubj	SpaceAfter=No
+4	prostředí	prostředí	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	3:nsubj	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	10	punct	10:punct	_
 6	a	a	CCONJ	J^-------------	_	10	cc	10:cc	LId=a-1
 7	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	8	case	8:case	LId=na-1
 8	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	11	obl:arg	11:obl:arg:na:acc	_
-9	bychom	být	AUX	Vc-P---1-------	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	10	aux	10:aux	_
+9	bychom	být	AUX	Vc-P---1-------	Aspect=Imp|Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	10	aux	10:aux	_
 10	měly	mít	VERB	VpTP---XR-AA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	3	conj	0:root|3:conj	_
 11	pamatovat	pamatovat	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	10	xcomp	10:xcomp	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
@@ -65,12 +65,12 @@ The following 118 pairs of parts of speech are connected with `conj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 conj	color:blue
-1	Zúrodnění	zúrodnění	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	0	root	0:root	LDeriv=zúrodnit
+1	Zúrodnění	zúrodnění	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Vnoun	0	root	0:root	LDeriv=zúrodnit
 2	oglejených	oglejený	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	6	amod	6:amod	LDeriv=oglejit
 3	a	a	CCONJ	J^-------------	_	4	cc	4:cc	LId=a-1
 4	glejových	glejový	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	2	conj	2:conj|6:amod	_
 5	lučních	luční	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	6	amod	6:amod	_
-6	půd	půda	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	1	nmod	1:nmod:gen	SpaceAfter=No
+6	půd	půda	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur	1	nmod	1:nmod:gen	SpaceAfter=No
 7	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~

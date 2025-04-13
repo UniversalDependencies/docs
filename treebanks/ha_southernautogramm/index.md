@@ -12,15 +12,15 @@ udver: '2'
 # UD Hausa SouthernAutogramm
 
 Language: [Hausa](/ha/index.html) (code: `ha`)<br/>
-Family: Afro-Asiatic, West Chadic
+Family: Afro-Asiatic
 
 This treebank has been part of Universal Dependencies since the UD v2.14 release.
 
 The following people have contributed to making this treebank part of UD: Bernard Caron.
 
 Repository: [UD_Hausa-SouthernAutogramm](https://github.com/UniversalDependencies/UD_Hausa-SouthernAutogramm)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udha_southernautogramm214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udha_southernautogramm215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -162,10 +162,9 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
       <li>ADJ: ƴar̃</li>
       <li>AUX: ta, tà, taː, tanàː, kin, takàn, zaːtà, kikà, kì, bàtà</li>
       <li>DET: wata</li>
-      <li>NOUN: dòːdannìyaː, mangàr̃àɗ, marigâyyaː, ƴar̃</li>
+      <li>NOUN: dòːdannìyaː, mangàr̃àɗ, marigâyyaː, ƙoːfàr̃, ƴar̃</li>
       <li>PART: cèː</li>
       <li>PRON: ita, =tà, tà, ta, matà, keː, naːtà, =kì, ki, wata</li>
-      <li>VERB: ƙoːfàr̃</li>
     </ul>
   </li>
 </ul>
@@ -687,7 +686,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (92)</li>
+      <li>VERB--NOUN (90)</li>
       <li>VERB--PRON (10)</li>
       <li>VERB--PRON-Nom (1)</li>
       <li>VERB-Vnoun--NOUN (4)</li>
@@ -698,7 +697,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (385)</li>
+      <li>VERB--NOUN (384)</li>
       <li>VERB--NOUN-ADP(dà) (1)</li>
       <li>VERB--NOUN-ADP(kân) (1)</li>
       <li>VERB--NOUN-ADP(na~ta) (3)</li>

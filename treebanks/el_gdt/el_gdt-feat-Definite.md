@@ -24,5 +24,5 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (9379; 95% of non-empty `Definite`): <em>την, της, το, η, του, των, ο, οι, τα, τη</em>
 * `Ind` (468; 5% of non-empty `Definite`): <em>μια, ένα, μία, ένας, ενός, μιας, έναν, μίας</em>
-* `EMPTY` (2274): <em>την, το, τη, τις, τον, αυτή, τα, αυτό, τους, κάθε</em>
+* `EMPTY` (2272): <em>την, το, τη, τις, τον, αυτή, τα, αυτό, τους, κάθε</em>
 

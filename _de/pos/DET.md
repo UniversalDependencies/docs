@@ -104,6 +104,7 @@ on indefiniteness. (The quantity is present in any case, as the indefinite artic
 note that the word form _eins_ “one” is treated as an independent lemma in the `NUM` category. It is the self-standing
 numeral that does not accompany a counted noun (e.g. it can be the answer to the question “What is the number of
 the bus line?”) and it is different from all forms of the determiner _ein_.
+(But see [Issue 1061](https://github.com/UniversalDependencies/docs/issues/1061).)
 
 The word _beide_ “both” is also semantically a numeral, but unlike other cardinal numerals in German (including
 _zwei_ “two”) it has the adjective-like declension paradigm and fits in the here-defined class of determiners.
@@ -161,4 +162,4 @@ They are tagged [ADV]() at present but this may be revised in the future.
   spelled with a lowercase “b”, indicating that it is no longer considered a noun; together the fixed expression works
   like a degree adverb or an indeclinable quantifier for uncountable nouns => we tentatively tag _bisschen_ as [ADV]()
   with `PronType=Ind`
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:35 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:21 CET -->

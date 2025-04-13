@@ -52,17 +52,17 @@ The 1st highest number of forms (1) was observed with the lemma “_”: _.
 
 Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (5851; 97% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (61; 1% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (50; 1% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (38; 1% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (26; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (11; 0% instances),  (4; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-5838 (96%) `DET` nodes are leaves.
+5906 (98%) `DET` nodes are leaves.
 
-193 (3%) `DET` nodes have one child.
+129 (2%) `DET` nodes have one child.
 
-19 (0%) `DET` nodes have two children.
+17 (0%) `DET` nodes have two children.
 
-7 (0%) `DET` nodes have three or more children.
+5 (0%) `DET` nodes have three or more children.
 
 The highest child degree of a `DET` node is 7.
 
-Children of `DET` nodes are attached using 15 different relations: <tt><a href="ja_bccwj-dep-punct.html">punct</a></tt> (134; 51% instances), <tt><a href="ja_bccwj-dep-nmod.html">nmod</a></tt> (46; 17% instances), <tt><a href="ja_bccwj-dep-case.html">case</a></tt> (43; 16% instances), <tt><a href="ja_bccwj-dep-advmod.html">advmod</a></tt> (7; 3% instances), <tt><a href="ja_bccwj-dep-dep.html">dep</a></tt> (7; 3% instances), <tt><a href="ja_bccwj-dep-nsubj.html">nsubj</a></tt> (7; 3% instances), <tt><a href="ja_bccwj-dep-mark.html">mark</a></tt> (6; 2% instances), <tt><a href="ja_bccwj-dep-advcl.html">advcl</a></tt> (4; 2% instances), <tt><a href="ja_bccwj-dep-aux.html">aux</a></tt> (3; 1% instances), <tt><a href="ja_bccwj-dep-compound.html">compound</a></tt> (2; 1% instances), <tt><a href="ja_bccwj-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-dep-obl.html">obl</a></tt> (1; 0% instances)
+Children of `DET` nodes are attached using 6 different relations: <tt><a href="ja_bccwj-dep-punct.html">punct</a></tt> (130; 70% instances), <tt><a href="ja_bccwj-dep-fixed.html">fixed</a></tt> (42; 22% instances), <tt><a href="ja_bccwj-dep-dep.html">dep</a></tt> (5; 3% instances), <tt><a href="ja_bccwj-dep-mark.html">mark</a></tt> (4; 2% instances), <tt><a href="ja_bccwj-dep-aux.html">aux</a></tt> (3; 2% instances), <tt><a href="ja_bccwj-dep-case.html">case</a></tt> (3; 2% instances)
 
-Children of `DET` nodes belong to 13 different parts of speech: <tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt> (134; 51% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (51; 19% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (43; 16% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (8; 3% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (7; 3% instances), <tt><a href="ja_bccwj-pos-PART.html">PART</a></tt> (5; 2% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Children of `DET` nodes belong to 8 different parts of speech: <tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt> (130; 70% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (42; 22% instances), <tt><a href="ja_bccwj-pos-PART.html">PART</a></tt> (5; 3% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (2; 1% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

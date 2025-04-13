@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Mai Omura, Masayuki Asahara, Yusuke Miyao, Takaaki Tanaka, Hiroshi Kanayama, Yuji Matsumoto, Shinsuke Mori, Sumire Uematsu, Yugo Murawaki.
 
 Repository: [UD_Japanese-BCCWJ](https://github.com/UniversalDependencies/UD_Japanese-BCCWJ)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_bccwj214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_bccwj215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
@@ -284,7 +284,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-ADP(_) (28269)</li>
+      <li>VERB--NOUN-ADP(_) (28268)</li>
       <li>VERB--NOUN-ADP(_)-ADP(_) (528)</li>
       <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (36)</li>
       <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_) (13)</li>

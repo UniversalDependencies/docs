@@ -64,7 +64,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `ADV` tokens may have the following values of `PronType`:
 
 * `Neg` (1453; 100% of non-empty `PronType`): <em>non, nn, no</em>
-* `EMPTY` (5021): <em>anche, più, bene, solo, ancora, oggi, ora, sempre, poi, così</em>
+* `EMPTY` (5019): <em>anche, più, bene, solo, ancora, oggi, ora, sempre, poi, così</em>
 
 ### `CCONJ`
 
@@ -79,10 +79,12 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 1 <tt><a href="it_postwita-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `PronType`.
 
+The most frequent other feature values with which `X` and `PronType` co-occurred: <tt><a href="it_postwita-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%).
+
 `X` tokens may have the following values of `PronType`:
 
 * `Prs` (1; 100% of non-empty `PronType`): <em>te</em>
-* `EMPTY` (962): <em>of, Prince, i, live, a, and, on, the, in, my</em>
+* `EMPTY` (976): <em>of, Prince, i, live, a, and, on, the, in, my</em>
 
 ## Relations with Agreement in `PronType`
 

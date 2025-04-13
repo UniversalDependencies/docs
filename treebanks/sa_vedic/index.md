@@ -12,15 +12,15 @@ udver: '2'
 # UD Sanskrit Vedic
 
 Language: [Sanskrit](/sa/index.html) (code: `sa`)<br/>
-Family: Indo-European, Indic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.6 release.
 
 The following people have contributed to making this treebank part of UD: Salvatore Scarlata, Elia Ackermann, Oliver Hellwig, Erica Biagetti, Paul Widmer, Sven Sellmer.
 
 Repository: [UD_Sanskrit-Vedic](https://github.com/UniversalDependencies/UD_Sanskrit-Vedic)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsa_vedic214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsa_vedic215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -67,7 +67,7 @@ Annotation and composition of this treebank are described in detail in the follo
 ```
 @inproceedings{hellwig-vtb-lrec-2020,
 author = {Hellwig, Oliver and Scarlata, Salvatore and Ackermann, Elia and Widmer, Paul},
-title = {The Treebank of {Vedic Sanskrit}},
+title = {The Treebank of {Vedic Sanskrit{% raw %}}}{% endraw %},
 booktitle = {Proceedings of the LREC},
 year = {2020}
 }

@@ -27,10 +27,10 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 2	Bhí	bí	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
 4	a	a	PART	_	PartType=Voc	5	case:voc	_	_
-5	dhaltha	dalta	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	2	vocative	_	SpaceAfter=No
+5	dhaltha	dalta	NOUN	_	Case=Voc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	vocative	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	ach	ach	CCONJ	_	_	8	cc	_	_
-8	cad	is	PRON	_	PronType=Int	2	conj	_	_
+8	cad	cad	PRON	_	PronType=Int	2	conj	_	_
 9	a	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	10	mark:prt	_	_
 10	bhí	bí	VERB	_	Form=Len|Mood=Ind|Tense=Past	8	acl:relcl	_	_
 11	aici	ag	ADP	_	Gender=Fem|Number=Sing|Person=3	10	xcomp:pred	_	_
@@ -55,7 +55,7 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 5	cé	cé	PRON	_	PronType=Int	2	ccomp	_	_
 6	aca	ag	ADP	_	Number=Plur|Person=3	5	obl:prep	_	_
 7	bhí	bí	VERB	_	Form=Len|Mood=Ind|Tense=Past	5	csubj:cleft	_	_
-8	Buck	Buck	PROPN	_	Foreign=Yes	7	nsubj	_	_
+8	Buck	Buck	PROPN	_	Definite=Def|Foreign=Yes	7	nsubj	_	_
 9	in	i	ADP	_	_	10	case	_	_
 10	innimh	inmhe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	xcomp:pred	_	_
 11	míle	míle	NUM	_	NumType=Card	12	nummod	_	_
@@ -95,7 +95,7 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 14	sásta	sásta	ADJ	_	Degree=Pos	12	xcomp:pred	_	_
 15	eisean	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Emp	17	obj	_	_
 16	a	a	PART	_	PartType=Inf	17	mark	_	_
-17	phósadh	pósadh	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	14	xcomp	_	SpaceAfter=No
+17	phósadh	pósadh	NOUN	_	Form=Len|VerbForm=Inf	14	xcomp	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	12	punct	_	SpaceAfter=No
 19	"	"	PUNCT	_	_	12	punct	_	SpacesAfter=\n
 

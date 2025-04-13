@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-27 nodes (7%) are attached to their parents as `amod`.
+28 nodes (7%) are attached to their parents as `amod`.
 
-18 instances of `amod` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.14814814814815.
+18 instances of `amod` (64%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.14285714285714.
 
-The following 8 pairs of parts of speech are connected with `amod`: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (13; 48% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (6; 22% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (2; 7% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt>-<tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (2; 7% instances), <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt>-<tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 4% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (1; 4% instances).
+The following 8 pairs of parts of speech are connected with `amod`: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (14; 50% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (6; 21% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (2; 7% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt>-<tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (2; 7% instances), <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt>-<tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 4% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

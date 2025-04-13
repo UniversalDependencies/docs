@@ -9,28 +9,28 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="pt_petrogold-dep-aux-pass.html">aux:pass</a></tt>.
 
-315 nodes (0%) are attached to their parents as `aux`.
+581 nodes (0%) are attached to their parents as `aux`.
 
-315 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.71428571428571.
+581 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.32013769363167.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (293; 93% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (11; 3% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (6; 2% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (559; 96% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (11; 2% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 3 aux	color:blue
-1	Os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	últimos	último	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	6	nsubj	_	_
-3	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
-4	mais	mais	ADV	_	_	5	advmod	_	_
-5	frequentemente	frequentemente	ADV	_	_	6	advmod	_	_
-6	derivados	derivar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
-7	de	de	ADP	_	_	8	case	_	_
-8	benzotiofenos	benzotiofeno	NOUN	_	Gender=Masc|Number=Plur	6	obl:arg	_	SpaceAfter=No
+# visual-style 6 5 aux	color:blue
+1	Para	para	ADP	_	_	3	case	_	_
+2	cada	cada	DET	_	Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
+3	modelo	modelo	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+4	reológico	reológico	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+5	estão	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	associados	associar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
+7	certos	certo	DET	_	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
+8	parâmetros	parâmetro	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~

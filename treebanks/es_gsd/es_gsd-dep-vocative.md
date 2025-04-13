@@ -23,9 +23,9 @@ The following 2 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 1	fgColor:white
 # visual-style 1 3 vocative	color:blue
 1	Salve	salve	INTJ	_	_	10	csubj	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	3	punct	_	_
+2	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
 3	deporte	deporte	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	_
+4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
 5	eres	ser	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	cop	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	paz	paz	NOUN	_	Gender=Fem|Number=Sing	1	parataxis	_	_
@@ -35,7 +35,7 @@ The following 2 pairs of parts of speech are connected with `vocative`: <tt><a h
 11	soviética	soviético	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
 12	de	de	ADP	_	_	13	case	_	_
 13	1981	1981	NUM	_	NumForm=Digit|NumType=Card	10	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	10	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
 
 ~~~
 
@@ -59,7 +59,7 @@ The following 2 pairs of parts of speech are connected with `vocative`: <tt><a h
 11	de	de	ADP	_	_	13	case	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	grupo	grupo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	21	punct	_	_
+14	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 15	y	y	CCONJ	_	_	21	cc	_	_
 16	a	a	ADP	_	_	18	case	_	_
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
@@ -75,7 +75,7 @@ The following 2 pairs of parts of speech are connected with `vocative`: <tt><a h
 27	de	de	ADP	_	_	29	case	_	_
 28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 29	lanzamiento	lanzamiento	NOUN	_	Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
-30	,	,	PUNCT	_	_	34	punct	_	_
+30	,	,	PUNCT	_	PunctType=Comm	34	punct	_	_
 31	y	y	CCONJ	_	_	34	cc	_	_
 32	también	también	ADV	_	_	34	advmod	_	_
 33	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
@@ -86,19 +86,19 @@ The following 2 pairs of parts of speech are connected with `vocative`: <tt><a h
 38	de	de	ADP	_	_	40	case	_	_
 39	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	40	det	_	_
 40	canciones	canción	NOUN	_	Gender=Fem|Number=Plur	34	nmod	_	_
-41	"	"	PUNCT	_	_	42	punct	_	SpaceAfter=No
+41	"	"	PUNCT	_	PunctType=Quot	42	punct	_	SpaceAfter=No
 42	Give	give	VERB	_	Foreign=Yes|Mood=Imp|VerbForm=Fin	40	appos	_	Lang=en
-43	'	'	PUNCT	_	_	44	punct	_	SpaceAfter=No
+43	'	'	PUNCT	_	PunctType=Quot	44	punct	_	SpaceAfter=No
 44	em	they	PRON	_	Case=Acc|Foreign=Yes|Number=Plur|Person=3|PronType=Prs	42	iobj	_	Lang=en
 45	hell	hell	NOUN	_	Foreign=Yes|Number=Sing	42	obj	_	Lang=en|SpaceAfter=No
-46	,	,	PUNCT	_	_	47	punct	_	_
+46	,	,	PUNCT	_	PunctType=Comm	47	punct	_	_
 47	kid	kid	NOUN	_	Foreign=Yes|Number=Sing	42	vocative	_	Lang=en|SpaceAfter=No
-48	"	"	PUNCT	_	_	42	punct	_	_
+48	"	"	PUNCT	_	PunctType=Quot	42	punct	_	_
 49	y	y	CCONJ	_	_	51	cc	_	_
-50	"	"	PUNCT	_	_	51	punct	_	SpaceAfter=No
+50	"	"	PUNCT	_	PunctType=Quot	51	punct	_	SpaceAfter=No
 51	Helena	helena	PROPN	_	_	42	conj	_	SpaceAfter=No
-52	"	"	PUNCT	_	_	51	punct	_	SpaceAfter=No
-53	.	.	PUNCT	_	_	5	punct	_	_
+52	"	"	PUNCT	_	PunctType=Quot	51	punct	_	SpaceAfter=No
+53	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 ~~~
 

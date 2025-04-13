@@ -26,7 +26,7 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 2	descubierto	descubrir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	en	en	ADP	_	_	4	case	_	_
 4	1952	1952	NUM	_	NumForm=Digit|NumType=Card	2	obl	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	2	punct	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -41,7 +41,7 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 2	considerado	considerar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 3	nomen	nomen	PROPN	_	Gender=Masc|Number=Sing	2	xcomp	_	_
 4	nudum	nudum	PROPN	_	Gender=Masc|Number=Sing	3	flat	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	6	punct	_	_
+5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 6	debido	deber	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	_
 7	a	a	ADP	_	_	13	case	_	_
 8	que	que	SCONJ	_	_	13	mark	_	_
@@ -50,7 +50,7 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 11	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	aux:pass	_	_
 12	formalmente	formalmente	ADV	_	_	13	advmod	_	_
 13	descrito	descrito	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	6	amod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	2	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -77,7 +77,7 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 14	gris	gris	ADJ	_	Number=Sing	13	amod	_	_
 15	y	y	CCONJ	_	_	16	cc	_	_
 16	sombrero	sombrero	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	2	punct	_	_
+17	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 

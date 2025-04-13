@@ -34,7 +34,7 @@ The following 11 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 9	s-	sine	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	11	expl:pv	_	SpaceAfter=No
 10	a	avea	AUX	_	Person=3	11	aux	_	_
 11	topit	topi	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
-12	butter	butter	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	11	nsubj	_	Lang=en
+12	butter	butter	NOUN	_	Foreign=Yes|Number=Sing	11	nsubj	_	Lang=en
 13	într-	întru	ADP	_	AdpType=Prep|Case=Acc|Variant=Short	15	case	_	SpaceAfter=No
 14	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	15	det	_	_
 15	oră	ora	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	obl:tmod	_	_

@@ -85,7 +85,7 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 22	EEUU	EEUU	PROPN	np00000	_	20	appos	20:appos	Entity=NOCOREF:Spec.location)
 23	año	año	NOUN	ncms000	Gender=Masc|Number=Sing	3	list	3:list	SpaceAfter=No
 24	:	:	PUNCT	fd	PunctType=Colo	25	punct	25:punct	Entity=(NOCOREF:Spec.date-time-2-gstype:spec
-25	1999	1999	NOUN	_	AdvType=Tim	23	appos	23:appos	Entity=NOCOREF:Spec.date)
+25	1999	1999	NOUN	_	_	23	appos	23:appos	Entity=NOCOREF:Spec.date)
 26	Salas	sala	NOUN	ncfp000	Gender=Fem|Number=Plur	3	list	3:list	SpaceAfter=No
 27	:	:	PUNCT	fd	PunctType=Colo	28	punct	28:punct	_
 28	Icaria	Icaria	PROPN	np00000	_	26	appos	26:appos	SpaceAfter=No

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-162 nodes (4%) are attached to their parents as `conj`.
+179 nodes (4%) are attached to their parents as `conj`.
 
-162 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.05555555555556.
+179 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.20111731843575.
 
-The following 20 pairs of parts of speech are connected with `conj`: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (110; 68% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (8; 5% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (6; 4% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (6; 4% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ha_northernautogramm-pos-X.html">X</a></tt>-<tt><a href="ha_northernautogramm-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 21 pairs of parts of speech are connected with `conj`: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (122; 68% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (12; 7% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (6; 3% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (6; 3% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ha_northernautogramm-pos-X.html">X</a></tt>-<tt><a href="ha_northernautogramm-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -44,11 +44,11 @@ The following 20 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 2 6 conj	color:blue
 1	bâː	bâː	PART	_	Polarity=Neg	0	root	_	AlignBegin=399220|AlignEnd=399387|Gloss=there_is.Neg
 2	mùtun	mùtunèː	NOUN	_	Gender=Masc	1	nsubj	_	AlignBegin=399387|AlignEnd=399554|Gloss=human.Masc
-3	huɗu	huɗu	NUM	_	_	2	nummod	_	AlignBegin=399554|AlignEnd=399721|Gloss=four
-4	nàː	neː/naː	PART	_	_	3	advmod	_	AlignBegin=399721|AlignEnd=399888|Gloss=Ident/Foc
+3	huɗu	huɗu	NUM	_	_	2	nmod	_	AlignBegin=399554|AlignEnd=399721|Gloss=four
+4	nàː	naː	PART	_	_	3	advmod	_	AlignBegin=399721|AlignEnd=399888|Gloss=Foc/Ident
 5	|c	|c	PUNCT	_	_	6	punct	_	AlignBegin=399888|AlignEnd=400055|Gloss=PUNCT
 6	mùtun	mùtunèː	NOUN	_	Gender=Masc	2	conj	_	AlignBegin=400222|AlignEnd=400389|Gloss=human.Masc
-7	ukkù	ukkù	NUM	_	_	6	nummod	_	AlignBegin=400389|AlignEnd=400556|Gloss=three
+7	ukkù	ukkù	NUM	_	_	6	nmod	_	AlignBegin=400389|AlignEnd=400556|Gloss=three
 8	//	//	PUNCT	_	_	1	punct	_	AlignBegin=400556|AlignEnd=400726|Gloss=PUNCT
 
 ~~~
@@ -70,8 +70,9 @@ The following 20 pairs of parts of speech are connected with `conj`: <tt><a href
 8	mutàːneː	mùtunèː	NOUN	_	Number=Plur	10	dislocated	_	AlignBegin=407332|AlignEnd=407528|Gloss=human.Plur
 9	<	<	PUNCT	_	_	8	punct	_	AlignBegin=407528|AlignEnd=407724|Gloss=PUNCT
 10	tàhe	tah-	VERB	_	ExtPos=ADV|VerbForm=Part|Voice=Stat	0	root	_	AlignBegin=407724|AlignEnd=407920|Gloss=walk.Part.Stat
-11	sukè	_	AUX	kè	Aspect=ProgLocBkg|Number=Plur	10	advcl:cleft	_	AlignBegin=408312|AlignEnd=408508|Background=Yes|Gloss=3Plur.Loc.Bkg|wordform=kè
-12	//	//	PUNCT	_	_	10	punct	_	AlignBegin=408508|AlignEnd=408700|Gloss=PUNCT
+11	>+	>+	PUNCT	_	_	12	punct	_	AlignBegin=407920|AlignEnd=408116|Gloss=PUNCT
+12	sukè	_	AUX	kè	Number=Plur	10	advcl:cleft	_	AlignBegin=408312|AlignEnd=408508|Background=Yes|Gloss=3Plur.Loc.Bkg|wordform=kè
+13	//	//	PUNCT	_	_	10	punct	_	AlignBegin=408508|AlignEnd=408700|Gloss=PUNCT
 
 ~~~
 

@@ -53,7 +53,6 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (59; 84%),
 <tt>VERB --[<tt><a href="kpv_ikdp-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (6; 67%),
-<tt>VERB --[<tt><a href="kpv_ikdp-dep-aux.html">aux</a></tt>]--> AUX</tt> (3; 75%),
 <tt>VERB --[<tt><a href="kpv_ikdp-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="kpv_ikdp-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="kpv_ikdp-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (1; 100%).

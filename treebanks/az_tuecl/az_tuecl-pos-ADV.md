@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>yox</em> (<tt><a href="az_tuecl-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.117647 (the average of all parts of speech is 1.455645).
+The form / lemma ratio of `ADV` is 1.117647 (the average of all parts of speech is 1.446215).
 
 The 1st highest number of forms (2) was observed with the lemma “tez”: <em>tez, tezdən</em>.
 

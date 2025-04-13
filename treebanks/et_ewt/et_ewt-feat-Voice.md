@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-14183 tokens (16%) have a non-empty value of `Voice`.
-4040 types (20%) occur at least once with a non-empty value of `Voice`.
-1522 lemmas (13%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (8697; 10% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (4596; 5% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (836; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (54; 0% instances).
+14184 tokens (16%) have a non-empty value of `Voice`.
+4041 types (20%) occur at least once with a non-empty value of `Voice`.
+1524 lemmas (13%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (8698; 10% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (4596; 5% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (836; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (54; 0% instances).
 
 ### `VERB`
 
-8697 <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> tokens (80% of all `VERB` tokens) have a non-empty value of `Voice`.
+8698 <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> tokens (80% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (7591; 87%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7013; 81%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6215; 71%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5415; 62%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (7592; 87%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7013; 81%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6215; 71%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5415; 62%).
 
 `VERB` tokens may have the following values of `Voice`:
 
 * `Act` (7952; 91% of non-empty `Voice`): <em>on, tuleb, saab, tea, läheb, pole, saa, saanud, tuli, olemas</em>
-* `Pass` (745; 9% of non-empty `Voice`): <em>tehtud, pandud, antud, tehakse, kirjutatud, lisatud, loodud, öeldud, hakatakse, mõeldud</em>
-* `EMPTY` (2156): <em>teha, saada, minna, teada, öelda, panna, osta, näha, võtta, kirjutada</em>
+* `Pass` (746; 9% of non-empty `Voice`): <em>tehtud, pandud, antud, tehakse, kirjutatud, lisatud, loodud, öeldud, hakatakse, mõeldud</em>
+* `EMPTY` (2176): <em>teha, saada, minna, teada, öelda, panna, osta, näha, võtta, kirjutada</em>
 
 <table>
   <tr><th>Paradigm <i>saama</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -69,7 +69,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 `AUX` tokens may have the following values of `Voice`:
 
 * `Act` (4596; 100% of non-empty `Voice`): <em>on, oli, pole, oleks, ole, olen, võib, peaks, saab, olema</em>
-* `EMPTY` (1546): <em>ei, olla, olles, mai, e, tunduda, Äi, ära</em>
+* `EMPTY` (1549): <em>ei, olla, olles, mai, 's, are, do, e, tunduda, Äi</em>
 
 ### `ADJ`
 
@@ -79,9 +79,9 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 `ADJ` tokens may have the following values of `Voice`:
 
-* `Act` (558; 67% of non-empty `Voice`): <em>huvitav, erinevaid, ülejäänud, erinevate, erinevad, tulnud, erinevatel, erinevatest, huvitavad, leviv</em>
-* `Pass` (278; 33% of non-empty `Voice`): <em>antud, teatud, huvitav, kasutatud, tehtud, asetatud, karastatud, mainitud, peidetud, seotud</em>
-* `EMPTY` (4399): <em>hea, suur, võimalik, õige, head, parem, vana, uus, esimene, lihtne</em>
+* `Act` (531; 64% of non-empty `Voice`): <em>huvitav, erinevaid, ülejäänud, erinevate, erinevad, tulnud, erinevatel, erinevatest, huvitavad, leviv</em>
+* `Pass` (305; 36% of non-empty `Voice`): <em>antud, teatud, kasutatud, tehtud, asetatud, karastatud, mainitud, peidetud, seotud, tuntud</em>
+* `EMPTY` (4421): <em>hea, suur, võimalik, õige, head, parem, vana, uus, esimene, lihtne</em>
 
 <table>
   <tr><th>Paradigm <i>huvitav</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -90,13 +90,13 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
   <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>huvitavate</em></td><td></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>huvitav</em></td><td><em>huvitav</em></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>huvitavad</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>huvitavat</em></td><td><em>Huvitavat</em></td></tr>
-  <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>huvitavaid</em></td><td><em>huvitavaid</em></td></tr>
-  <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>huvitavat</em></td></tr>
+  <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>huvitavat</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>huvitavaid</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>huvitavat</em></td><td></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>huvitavaks</em></td><td></td></tr>
 </table>
 
-`Voice` seems to be **lexical feature** of `ADJ`. 99% lemmas (458) occur only with one value of `Voice`.
+`Voice` seems to be **lexical feature** of `ADJ`. 99% lemmas (459) occur only with one value of `Voice`.
 
 ### `NOUN`
 
@@ -108,7 +108,7 @@ The most frequent other feature values with which `NOUN` and `Voice` co-occurred
 
 * `Act` (40; 74% of non-empty `Voice`): <em>nakatunuid, surnuid, nakatunut, nakatunu, nakatunust, surnut, Tänud, haigestunuid, haigestunut, haigestunute</em>
 * `Pass` (14; 26% of non-empty `Voice`): <em>nakatunutest, Kirjapandu, Nakatunuid, eeltoodu, haigestunutest, lahtiharutatuna, nakatunute, surnu, sõitnuna, tarbitu</em>
-* `EMPTY` (18007): <em>asi, aasta, teema, aru, auto, inimesed, inimene, aastat, raha, aega</em>
+* `EMPTY` (18026): <em>asi, aasta, teema, aru, auto, inimesed, inimene, aastat, raha, aega</em>
 
 <table>
   <tr><th>Paradigm <i>nakatu=nu</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -122,10 +122,10 @@ The most frequent other feature values with which `NOUN` and `Voice` co-occurred
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="et_ewt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1246; 83%),
+<tt>VERB --[<tt><a href="et_ewt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1245; 83%),
 <tt>VERB --[<tt><a href="et_ewt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (463; 54%),
 <tt>VERB --[<tt><a href="et_ewt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (330; 63%),
-<tt>VERB --[<tt><a href="et_ewt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (123; 71%),
+<tt>VERB --[<tt><a href="et_ewt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (123; 70%),
 <tt>VERB --[<tt><a href="et_ewt-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (15; 94%),
 <tt>AUX --[<tt><a href="et_ewt-dep-conj.html">conj</a></tt>]--> VERB</tt> (3; 100%),
 <tt>AUX --[<tt><a href="et_ewt-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (2; 100%),

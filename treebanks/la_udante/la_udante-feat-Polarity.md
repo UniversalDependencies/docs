@@ -12,7 +12,7 @@ It occurs with 1 different values: `Neg`.
 1439 tokens (3%) have a non-empty value of `Polarity`.
 184 types (2%) occur at least once with a non-empty value of `Polarity`.
 115 lemmas (2%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 9 part-of-speech tags: <tt><a href="la_udante-pos-PART.html">PART</a></tt> (737; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (188; 0% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (179; 0% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (111; 0% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (84; 0% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (64; 0% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (45; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (17; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (14; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="la_udante-pos-PART.html">PART</a></tt> (737; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (188; 0% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (179; 0% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (111; 0% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (84; 0% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (63; 0% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (46; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (17; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (14; 0% instances).
 
 ### `PART`
 
@@ -71,24 +71,24 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 
 ### `PRON`
 
-64 <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Polarity`.
+63 <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (64; 100%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (64; 100%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (47; 73%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (47; 73%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (47; 73%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (47; 73%).
+The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (63; 100%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (63; 100%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (46; 73%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (46; 73%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (46; 73%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (46; 73%).
 
 `PRON` tokens may have the following values of `Polarity`:
 
-* `Neg` (64; 100% of non-empty `Polarity`): <em>nichil, nemo, nil, neminem, nemini, nihil</em>
+* `Neg` (63; 100% of non-empty `Polarity`): <em>nichil, nemo, nil, neminem, nemini, nihil</em>
 * `EMPTY` (2623): <em>quod, que, qui, se, quo, eius, quam, quid, nobis, sibi</em>
 
 ### `ADV`
 
-45 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Polarity`.
+46 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (45; 100%), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (44; 98%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (44; 98%), <tt><a href="la_udante-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (43; 96%).
+The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (45; 98%), <tt><a href="la_udante-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (44; 96%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (44; 96%).
 
 `ADV` tokens may have the following values of `Polarity`:
 
-* `Neg` (45; 100% of non-empty `Polarity`): <em>nunquam, nondum, inconvenienter, iniuste, nequaquam, nimirum, inconsulte, inmediate, nequicquam, nichil</em>
+* `Neg` (46; 100% of non-empty `Polarity`): <em>nunquam, nondum, inconvenienter, iniuste, nequaquam, nichil, nimirum, inconsulte, inmediate, nequicquam</em>
 * `EMPTY` (3070): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, magis</em>
 
 `Polarity` seems to be **lexical feature** of `ADV`. 100% lemmas (11) occur only with one value of `Polarity`.
@@ -118,7 +118,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>CCONJ --[<tt><a href="la_udante-dep-fixed.html">fixed</a></tt>]--> PART</tt> (13; 100%),
+<tt>CCONJ --[<tt><a href="la_udante-dep-fixed.html">fixed</a></tt>]--> PART</tt> (12; 100%),
 <tt>ADJ --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (2; 67%),
 <tt>DET --[<tt><a href="la_udante-dep-case.html">case</a></tt>]--> PART</tt> (1; 100%),
 <tt>DET --[<tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>]--> PART</tt> (1; 100%),

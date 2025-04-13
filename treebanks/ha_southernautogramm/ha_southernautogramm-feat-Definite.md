@@ -22,7 +22,7 @@ The feature is used with 11 part-of-speech tags: <tt><a href="ha_southernautogra
 
 * `Cons` (376; 66% of non-empty `Definite`): <em>àbin, gidan, suːnan, gàrin, irìn, sauran, loːkàcin, ruwan, goːnan, tsaːmiyan</em>
 * `Def` (198; 34% of non-empty `Definite`): <em>àbîn, loːkàcîn, àbin, irìn, wân, ƙanèn, daːjìn, dàliːlìn, yaːrinyàn, gidân</em>
-* `EMPTY` (1238): <em>mài, gidaː, zaːmàniː, àbù, ruwaː, zoːmoː, gàriː, àmfàːniː, aikìː, daːjìː</em>
+* `EMPTY` (1239): <em>mài, gidaː, zaːmàniː, àbù, ruwaː, zoːmoː, gàriː, àmfàːniː, aikìː, daːjìː</em>
 
 <table>
   <tr><th>Paradigm <i>àbù</i></th><th><tt>Def</tt></th><th><tt>Cons</tt></th></tr>
@@ -60,7 +60,7 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 
 * `Cons` (139; 99% of non-empty `Definite`): <em>noːman, saːmùn, yîn, jîn, neːman, kiràn, sôn, cîn, ganin, saːran</em>
 * `Def` (1; 1% of non-empty `Definite`): <em>noːmân</em>
-* `EMPTY` (1904): <em>yi, cêː, jeː, ci, zoː, ga, sâː, baː, san, ganiː</em>
+* `EMPTY` (1903): <em>yi, cêː, jeː, ci, zoː, ga, sâː, baː, san, ganiː</em>
 
 <table>
   <tr><th>Paradigm <i>noːm-</i></th><th><tt>Def</tt></th><th><tt>Cons</tt></th></tr>

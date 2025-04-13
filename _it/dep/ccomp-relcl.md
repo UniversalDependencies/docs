@@ -11,4 +11,4 @@ This syntactic subrelation (also implemented for <code>csubj</code> and <code>ad
 E già 'l maestro mio mi richiamava ; per ch' i' pregai lo spirto più avaccio che mi dicesse chi con lu' istava .
 ccomp:relcl(dicesse, istava)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:53 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:35 CET -->

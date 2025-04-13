@@ -13,7 +13,7 @@ This relation is universal.
 243 instances of `cop` (60%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.45208845208845.
 
-The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (157; 39% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (153; 38% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (45; 11% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (28; 7% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (14; 3% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (156; 38% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (155; 38% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (44; 11% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (28; 7% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (14; 3% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -72,7 +72,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 3 4 cop	color:blue
 1	Jå	jå	INTJ	_	_	0	root	_	lemma_gml=jâ¹|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	_
-3	wår	wår	ADV	_	_	1	conj	_	lemma_gml=wôr(e)
+3	wår	woor	ADV	_	_	1	conj	_	lemma_gml=wôr(e)
 4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbType=Cop	3	cop	_	lemma_gml=wēsen²
 5	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê¹
 6	knyptange	knyptange	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	lemma_gml=knîptange|SpaceAfter=No

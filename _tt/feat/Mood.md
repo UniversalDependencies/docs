@@ -94,4 +94,4 @@ In Tatar, this mood is morphologically distinctive in a future tense participle 
 * *Сөйлә<b>р</b> сүзем юк* "I have no words to say."
 * *көт<b>әр</b>мен* "I will wait (maybe)."
 * *китап</b>тыр</b>* "Probably a book."
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:03 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:48 CET -->

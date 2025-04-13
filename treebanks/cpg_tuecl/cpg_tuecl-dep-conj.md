@@ -22,11 +22,11 @@ The following 11 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 conj	color:blue
-1	Σηκώθην	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
-2	τζαι	jαι	CCONJ	CCONJ	_	4	cc	4:cc	_
-3	πα	bά	ADV	ADV	_	4	advmod	4:advmod	_
-4	σηκώθη	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	conj	1:conj	SpaceAfter=No
-5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+1	Σηκώθην	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	τζαι	jαι	CCONJ	CCONJ	_	4	cc	_	_
+3	πα	bά	ADV	ADV	_	4	advmod	_	_
+4	σηκώθη	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	conj	_	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 
@@ -37,17 +37,17 @@ The following 11 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 conj	color:blue
-1	Πουστιέσαν	πουστιέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	παρέτζει	bαρεçεί	ADV	ADV	_	1	advmod	1:advmod	SpaceAfter=No
-3	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
-4	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	det	5:det	_
-5	ζαρκάδι	ζαρκάδι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	1	parataxis	1:parataxis	SpaceAfter=No
-6	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
-7	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	8:det	_
-8	πουρτσούχος	πουρτσούχος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	5	conj	5:conj	SpaceAfter=No
-9	,	,	PUNCT	PUNCT	_	10	punct	10:punct	_
-10	τζ’αγός	αγός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	5	conj	5:conj	SpaceAfter=No
-11	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+1	Πουστιέσαν	πουστιέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	παρέτζει	bαρεçεί	ADV	ADV	_	1	advmod	_	SpaceAfter=No
+3	:	:	PUNCT	PUNCT	_	1	punct	_	_
+4	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	det	_	_
+5	ζαρκάδι	ζαρκάδι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	1	parataxis	_	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	8	punct	_	_
+7	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	πουρτσούχος	πουρτσούχος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
+9	,	,	PUNCT	PUNCT	_	10	punct	_	_
+10	τζ’αγός	αγός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 
@@ -58,11 +58,11 @@ The following 11 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 conj	color:blue
-1	Λέ’	λαλώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	‘τι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
-3	τζ’	jαι	CCONJ	CCONJ	_	1	conj	1:conj	_
-4	αωπός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	SpaceAfter=No
-5	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
+1	Λέ’	λαλώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	‘τι	di	SCONJ	SCONJ	_	1	mark	_	_
+3	τζ’	jαι	CCONJ	CCONJ	_	1	conj	_	_
+4	αωπός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	SpaceAfter=No
+5	:	:	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 

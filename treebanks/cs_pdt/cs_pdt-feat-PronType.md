@@ -10,30 +10,30 @@ This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 2 combinations have been observed: `Dem|Ind`, `Int|Rel`.
 
-26513 tokens (8%) have a non-empty value of `PronType`.
-724 types (1%) occur at least once with a non-empty value of `PronType`.
-140 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (13518; 4% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (10096; 3% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (2899; 1% instances).
+25793 tokens (8%) have a non-empty value of `PronType`.
+674 types (1%) occur at least once with a non-empty value of `PronType`.
+129 lemmas (0%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (12798; 4% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (10096; 3% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (2899; 1% instances).
 
 ### `DET`
 
-13518 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+12798 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (11420; 84%), <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (11395; 84%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11395; 84%), <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (10279; 76%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8393; 62%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (11229; 88%), <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (10675; 83%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10675; 83%), <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (9559; 75%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8213; 64%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Dem` (4882; 36% of non-empty `PronType`): <em>to, tím, tom, této, tomu, toho, tento, tohoto, tato, těchto</em>
+* `Dem` (4882; 38% of non-empty `PronType`): <em>to, tím, tom, této, tomu, toho, tento, tohoto, tato, těchto</em>
 * `Dem,Ind` (50; 0% of non-empty `PronType`): <em>kolik, pár, Kolika</em>
 * `Emp` (188; 1% of non-empty `PronType`): <em>sám, sami, sama, samy, samo, samého, samí, samé, samém, samou</em>
-* `Ind` (876; 6% of non-empty `PronType`): <em>několik, některé, některých, několika, někteří, mnoho, mnoha, nějaké, nějaký, nějakou</em>
-* `Int,Rel` (3287; 24% of non-empty `PronType`): <em>které, který, která, kteří, tisíc, kterou, miliónů, milionů, kterém, miliardy</em>
+* `Ind` (876; 7% of non-empty `PronType`): <em>několik, některé, některých, několika, někteří, mnoho, mnoha, nějaké, nějaký, nějakou</em>
+* `Int,Rel` (2567; 20% of non-empty `PronType`): <em>které, který, která, kteří, kterou, kterém, jaké, kterých, kterého, kterým</em>
 * `Neg` (186; 1% of non-empty `PronType`): <em>žádné, žádný, žádná, žádnou, žádném, žádným, žádného, žádných, žádnej, žádnému</em>
-* `Prs` (3072; 23% of non-empty `PronType`): <em>jeho, jejich, své, její, svou, svého, svých, svůj, naše, svým</em>
+* `Prs` (3072; 24% of non-empty `PronType`): <em>jeho, jejich, své, její, svou, svého, svých, svůj, naše, svým</em>
 * `Rel` (163; 1% of non-empty `PronType`): <em>jejichž, jehož, jejíž, jejímž, jejíhož, jejímiž, jejímuž</em>
 * `Tot` (814; 6% of non-empty `PronType`): <em>všech, všechny, každý, vše, všechno, všichni, každého, každé, všem, každém</em>
 
-`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (55) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (44) occur only with one value of `PronType`.
 
 ### `PRON`
 
@@ -74,13 +74,13 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>DET --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> DET</tt> (26; 93%),
+<tt>DET --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> DET</tt> (23; 92%),
 <tt>ADV --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADV</tt> (17; 65%),
 <tt>PRON --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> PRON</tt> (7; 78%),
 <tt>PRON --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADV</tt> (4; 57%),
 <tt>DET --[<tt><a href="cs_pdt-dep-acl.html">acl</a></tt>]--> DET</tt> (3; 100%),
-<tt>DET --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> DET</tt> (3; 100%),
 <tt>PRON --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> PRON</tt> (3; 100%),
+<tt>DET --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> DET</tt> (2; 100%),
 <tt>DET --[<tt><a href="cs_pdt-dep-cc.html">cc</a></tt>]--> DET</tt> (1; 100%),
 <tt>DET --[<tt><a href="cs_pdt-dep-obl-arg.html">obl:arg</a></tt>]--> DET</tt> (1; 100%),
 <tt>PRON --[<tt><a href="cs_pdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> PRON</tt> (1; 100%).

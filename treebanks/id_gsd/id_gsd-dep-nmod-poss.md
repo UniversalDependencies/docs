@@ -66,7 +66,7 @@ The following 5 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 2	fgColor:white
 # visual-style 2 3 nmod:poss	color:blue
 1	Penggambaran	gambar	NOUN	NSD	Number=Sing	9	nsubj	_	Morf=^peN+gambar<n>+an_NSD$
-2	diri	diri	PRON	NSD	PronType=Prs|Reflex=Yes	1	det	_	Morf=^diri<n>_NSD$
+2	diri	diri	PRON	NSD	PronType=Prs|Reflex=Yes	1	nmod	_	Morf=^diri<n>_NSD$
 3	nya	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	Morf=^dia<p>_PS3$
 4	dalam	dalam	ADP	ASP	_	5	case	_	Morf=^dalam<a>_ASP$
 5	dunia	dunia	NOUN	NSD	Number=Sing	1	nmod	_	Morf=^dunia<n>_NSD$

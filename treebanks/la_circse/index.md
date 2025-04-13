@@ -12,15 +12,15 @@ udver: '2'
 # UD Latin CIRCSE
 
 Language: [Latin](/la/index.html) (code: `la`)<br/>
-Family: Indo-European, Italic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.14 release.
 
 The following people have contributed to making this treebank part of UD: Federica Iurescia, Federica Gamba, Flavio Massimiliano Cecchini, Francesco Mambrini, Giovanni Moretti, Marco Passarotti, Paolo Ruffolo.
 
 Repository: [UD_Latin-CIRCSE](https://github.com/UniversalDependencies/UD_Latin-CIRCSE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_circse214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_circse215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -53,7 +53,7 @@ This treebank repository is a work in progress collective endeavour. Presently, 
 #### Seneca *Hercules Furens*
 
 *Hercules Furens* is a tragedy written by Seneca the younger in 1st century CE. The source text was received with tokenisation, and annotation with respect to lemmatisation, POS tagging, and morphological features from the Opera Latina corpus built by the [LASLA](http://web.philo.ulg.ac.be/lasla/) laboratory in Liège.
-In few cases, the [received annotation](http://github.com/CIRCSE/LASLA) with regard to POS tag and morphological annotation was modified during the syntactic annotation; deviations from the received annotation are detailed in the file SenecaYounger_HercF_LASLA_CIRCSE.
+In few cases, the [received annotation](http://github.com/CIRCSE/LASLA) with regard to POS tag and morphological annotation was modified during the syntactic annotation; deviations from the received annotation are detailed in the file [SenecaYounger_HercF_LASLA_CIRCSE](https://github.com/CIRCSE/UD_Latin-CIRCSE/blob/main/documentation/SenecaYounger_HercF_LASLA_CIRCSE.md).
 The syntactic annotation was performed manually at CIRCSE, and follows the UD scheme.
 The text (7714 tokens, 555 sentences) was enhanced with the annotation of the speakers to whom each sentence is attributed. This annotation, performed manually at CIRCSE, is formatted as a comment in the conllu file following the comment line reporting the text of the sentence, as exemplified in what follows:
 
@@ -74,7 +74,7 @@ The annotation of Seneca *Hercules Furens* and *Agamemnon* has been conducted in
 
 ## Relations
 
-[acl](la_circse-dep-acl.html) – [acl:relcl](la_circse-dep-acl-relcl.html) – [advcl](la_circse-dep-advcl.html) – [advcl:abs](la_circse-dep-advcl-abs.html) – [advcl:cmp](la_circse-dep-advcl-cmp.html) – [advcl:pred](la_circse-dep-advcl-pred.html) – [advcl:relcl](la_circse-dep-advcl-relcl.html) – [advmod](la_circse-dep-advmod.html) – [advmod:emph](la_circse-dep-advmod-emph.html) – [advmod:lmod](la_circse-dep-advmod-lmod.html) – [advmod:neg](la_circse-dep-advmod-neg.html) – [advmod:tmod](la_circse-dep-advmod-tmod.html) – [amod](la_circse-dep-amod.html) – [appos](la_circse-dep-appos.html) – [aux](la_circse-dep-aux.html) – [aux:pass](la_circse-dep-aux-pass.html) – [case](la_circse-dep-case.html) – [cc](la_circse-dep-cc.html) – [ccomp](la_circse-dep-ccomp.html) – [ccomp:relcl](la_circse-dep-ccomp-relcl.html) – [ccomp:reported](la_circse-dep-ccomp-reported.html) – [conj](la_circse-dep-conj.html) – [conj:expl](la_circse-dep-conj-expl.html) – [cop](la_circse-dep-cop.html) – [csubj](la_circse-dep-csubj.html) – [csubj:pass](la_circse-dep-csubj-pass.html) – [csubj:relcl](la_circse-dep-csubj-relcl.html) – [det](la_circse-dep-det.html) – [det:numgov](la_circse-dep-det-numgov.html) – [discourse](la_circse-dep-discourse.html) – [dislocated:csubj](la_circse-dep-dislocated-csubj.html) – [dislocated:nsubj](la_circse-dep-dislocated-nsubj.html) – [fixed](la_circse-dep-fixed.html) – [flat](la_circse-dep-flat.html) – [flat:gov](la_circse-dep-flat-gov.html) – [flat:name](la_circse-dep-flat-name.html) – [flat:redup](la_circse-dep-flat-redup.html) – [iobj](la_circse-dep-iobj.html) – [mark](la_circse-dep-mark.html) – [nmod](la_circse-dep-nmod.html) – [nsubj](la_circse-dep-nsubj.html) – [nsubj:pass](la_circse-dep-nsubj-pass.html) – [nummod](la_circse-dep-nummod.html) – [obj](la_circse-dep-obj.html) – [obl](la_circse-dep-obl.html) – [obl:agent](la_circse-dep-obl-agent.html) – [obl:arg](la_circse-dep-obl-arg.html) – [obl:cmp](la_circse-dep-obl-cmp.html) – [obl:lmod](la_circse-dep-obl-lmod.html) – [obl:tmod](la_circse-dep-obl-tmod.html) – [orphan](la_circse-dep-orphan.html) – [orphan:missing](la_circse-dep-orphan-missing.html) – [parataxis](la_circse-dep-parataxis.html) – [parataxis:reporting](la_circse-dep-parataxis-reporting.html) – [root](la_circse-dep-root.html) – [vocative](la_circse-dep-vocative.html) – [xcomp](la_circse-dep-xcomp.html) – [xcomp:relcl](la_circse-dep-xcomp-relcl.html)
+[acl](la_circse-dep-acl.html) – [acl:relcl](la_circse-dep-acl-relcl.html) – [advcl](la_circse-dep-advcl.html) – [advcl:abs](la_circse-dep-advcl-abs.html) – [advcl:cmp](la_circse-dep-advcl-cmp.html) – [advcl:pred](la_circse-dep-advcl-pred.html) – [advcl:relcl](la_circse-dep-advcl-relcl.html) – [advmod](la_circse-dep-advmod.html) – [advmod:emph](la_circse-dep-advmod-emph.html) – [advmod:lmod](la_circse-dep-advmod-lmod.html) – [advmod:neg](la_circse-dep-advmod-neg.html) – [advmod:tmod](la_circse-dep-advmod-tmod.html) – [amod](la_circse-dep-amod.html) – [appos](la_circse-dep-appos.html) – [aux](la_circse-dep-aux.html) – [aux:pass](la_circse-dep-aux-pass.html) – [case](la_circse-dep-case.html) – [cc](la_circse-dep-cc.html) – [ccomp](la_circse-dep-ccomp.html) – [ccomp:relcl](la_circse-dep-ccomp-relcl.html) – [ccomp:reported](la_circse-dep-ccomp-reported.html) – [conj](la_circse-dep-conj.html) – [conj:expl](la_circse-dep-conj-expl.html) – [cop](la_circse-dep-cop.html) – [csubj](la_circse-dep-csubj.html) – [csubj:pass](la_circse-dep-csubj-pass.html) – [csubj:relcl](la_circse-dep-csubj-relcl.html) – [det](la_circse-dep-det.html) – [det:numgov](la_circse-dep-det-numgov.html) – [discourse](la_circse-dep-discourse.html) – [dislocated:csubj](la_circse-dep-dislocated-csubj.html) – [dislocated:nsubj](la_circse-dep-dislocated-nsubj.html) – [fixed](la_circse-dep-fixed.html) – [flat](la_circse-dep-flat.html) – [flat:gov](la_circse-dep-flat-gov.html) – [flat:name](la_circse-dep-flat-name.html) – [flat:redup](la_circse-dep-flat-redup.html) – [iobj](la_circse-dep-iobj.html) – [mark](la_circse-dep-mark.html) – [nmod](la_circse-dep-nmod.html) – [nsubj](la_circse-dep-nsubj.html) – [nsubj:pass](la_circse-dep-nsubj-pass.html) – [nummod](la_circse-dep-nummod.html) – [obj](la_circse-dep-obj.html) – [obl](la_circse-dep-obl.html) – [obl:agent](la_circse-dep-obl-agent.html) – [obl:arg](la_circse-dep-obl-arg.html) – [obl:cmp](la_circse-dep-obl-cmp.html) – [obl:lmod](la_circse-dep-obl-lmod.html) – [obl:tmod](la_circse-dep-obl-tmod.html) – [orphan](la_circse-dep-orphan.html) – [orphan:missing](la_circse-dep-orphan-missing.html) – [parataxis](la_circse-dep-parataxis.html) – [parataxis:rep](la_circse-dep-parataxis-rep.html) – [parataxis:reporting](la_circse-dep-parataxis-reporting.html) – [root](la_circse-dep-root.html) – [vocative](la_circse-dep-vocative.html) – [xcomp](la_circse-dep-xcomp.html) – [xcomp:relcl](la_circse-dep-xcomp-relcl.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -114,7 +114,7 @@ The annotation of Seneca *Hercules Furens* and *Agamemnon* has been conducted in
 </ul>
 
 <ul>
-<li>This corpus contains 15 lemmas tagged as pronouns (PRON): aliquis, ego, is, nemo, nihil, nonnihil, nos, qui, quis, quisquam, quisquis, sui, tantum, tu, uos</li>
+<li>This corpus contains 14 lemmas tagged as pronouns (PRON): aliquis, ego, is, nemo, nihil, nonnihil, nos, qui, quis, quisquam, quisquis, sui, tu, uos</li>
 </ul>
 
 <ul>
@@ -122,7 +122,7 @@ The annotation of Seneca *Hercules Furens* and *Agamemnon* has been conducted in
 </ul>
 
 <ul>
-<li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: quis, quisquis, sui, tantum</li>
+<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: quis, quisquis, sui</li>
 </ul>
 
 <ul>
@@ -700,7 +700,6 @@ The annotation of Seneca *Hercules Furens* and *Agamemnon* has been conducted in
     <ul>
       <li>ADV: ita, sic, tam, tamen, tantum, hinc, tunc, inde, hic, illic</li>
       <li>DET: hoc, haec, ille, ipse, hic, ipsa, hunc, idem, ista, eadem</li>
-      <li>PRON: tantum</li>
     </ul>
   </li>
 </ul>
@@ -940,7 +939,7 @@ The annotation of Seneca *Hercules Furens* and *Agamemnon* has been conducted in
           <li>ADV: tamen, plerumque, denique, quippe, ubique, utrimque</li>
           <li>CCONJ: ac, atque</li>
           <li>DET: eadem, idem, ipso, ipsum, eodem, ipsa, ipse, ipsi, ipsis, eundem</li>
-          <li>PART: enim, quoque, nempe</li>
+          <li>PART: quoque, enim, nempe</li>
         </ul>
       </li>
     </ul>
@@ -1001,7 +1000,6 @@ The annotation of Seneca *Hercules Furens* and *Agamemnon* has been conducted in
           <li>NOUN: arma, bella, deos, caelum, malis, regna, tela, caelo, armis, fata</li>
           <li>NOUN-Part: secreta, instituta, secretum</li>
           <li>NUM: uno, unum, unus, ducenti, duo, duos, uni</li>
-          <li>PRON: tantum</li>
           <li>PROPN: Lycus, Phoebus, Rhenum, Tartari, Aegisthe, Argos, Phoebi, Eurystheus, Oceano, Phoebum</li>
         </ul>
       </li>
@@ -1310,7 +1308,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen (1)</li>
       <li>VERB-Fin--NOUN-Nom (5)</li>
       <li>VERB-Fin--PRON (7)</li>
-      <li>VERB-Fin--PRON-Acc (162)</li>
+      <li>VERB-Fin--PRON-Acc (161)</li>
       <li>VERB-Fin--PRON-Acc-ADP(contra) (1)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN (2)</li>
@@ -1345,7 +1343,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 30 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advcl:relcl</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:relcl</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>csubj:pass</a>, <a>csubj:relcl</a>, <a>det:numgov</a>, <a>dislocated:csubj</a>, <a>dislocated:nsubj</a>, <a>flat:gov</a>, <a>flat:name</a>, <a>flat:redup</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmp</a>, <a>obl:lmod</a>, <a>obl:tmod</a>, <a>orphan:missing</a>, <a>parataxis:reporting</a>, <a>xcomp:relcl</a></li>
+<li>This corpus uses 31 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advcl:relcl</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:relcl</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>csubj:pass</a>, <a>csubj:relcl</a>, <a>det:numgov</a>, <a>dislocated:csubj</a>, <a>dislocated:nsubj</a>, <a>flat:gov</a>, <a>flat:name</a>, <a>flat:redup</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmp</a>, <a>obl:lmod</a>, <a>obl:tmod</a>, <a>orphan:missing</a>, <a>parataxis:rep</a>, <a>parataxis:reporting</a>, <a>xcomp:relcl</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>dislocated</a></li>
 <li>The following 8 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a>, <a>dep</a></li>
 </ul>

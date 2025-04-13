@@ -20,4 +20,4 @@ punct(煩, ！)
 
 “You are so annoying!”
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:29 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:10 CET -->

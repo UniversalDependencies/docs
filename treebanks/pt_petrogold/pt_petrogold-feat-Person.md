@@ -59,7 +59,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 * `1` (5; 1% of non-empty `Person`): <em>nos, EU, nós</em>
 * `3` (416; 99% of non-empty `Person`): <em>a, eles, elas, ele, ela, si, as, o, lo, los</em>
-* `EMPTY` (4977): <em>se, que, o, isso, isto, este, qual, um, uma, onde</em>
+* `EMPTY` (4978): <em>se, que, o, isso, isto, este, qual, um, uma, onde</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `Person`.
 

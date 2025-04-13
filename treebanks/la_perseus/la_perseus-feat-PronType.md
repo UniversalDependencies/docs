@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal but the values `Con` are language-specific.
 It occurs with 8 different values: `Con`, `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Rel`, `Tot`.
 
-3243 tokens (11%) have a non-empty value of `PronType`.
+3245 tokens (11%) have a non-empty value of `PronType`.
 429 types (4%) occur at least once with a non-empty value of `PronType`.
 63 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (1722; 6% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (1480; 5% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (27; 0% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (14; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (1724; 6% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (1480; 5% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (27; 0% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (14; 0% instances).
 
 ### `DET`
 
-1722 <tt><a href="la_perseus-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+1724 <tt><a href="la_perseus-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="la_perseus-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1458; 85%), <tt><a href="la_perseus-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1329; 77%), <tt><a href="la_perseus-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1329; 77%), <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1069; 62%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="la_perseus-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1460; 85%), <tt><a href="la_perseus-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1331; 77%), <tt><a href="la_perseus-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1331; 77%), <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1070; 62%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Con` (135; 8% of non-empty `PronType`): <em>alii, alter, altera, alia, alterius, solus, alio, alios, ceteri, ceteros</em>
+* `Con` (137; 8% of non-empty `PronType`): <em>alii, alter, altera, alia, alterius, solus, alio, alios, ceteri, ceteros</em>
 * `Dem` (723; 42% of non-empty `PronType`): <em>haec, hoc, illa, ille, illi, ipse, illum, hanc, illis, his</em>
 * `Ind` (272; 16% of non-empty `PronType`): <em>multa, quis, nulla, nullo, quicquam, quidam, quisque, quae, paucis, quam</em>
 * `Prs` (393; 23% of non-empty `PronType`): <em>mea, suis, sua, suo, suum, suam, tua, meo, meae, meam</em>
@@ -79,7 +79,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Ind` (1; 7% of non-empty `PronType`): <em>quacunque</em>
 * `Rel` (13; 93% of non-empty `PronType`): <em>quid</em>
-* `EMPTY` (1859): <em>ne, iam, etiam, tamen, sic, nunc, ita, modo, tum, magis</em>
+* `EMPTY` (1835): <em>ne, iam, etiam, tamen, sic, nunc, ita, modo, tum, magis</em>
 
 ## Relations with Agreement in `PronType`
 

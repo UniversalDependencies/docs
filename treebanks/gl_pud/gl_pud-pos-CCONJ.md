@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Galician-PUD: POS Tags: `CCONJ`
 
 There are 10 `CCONJ` lemmas (0%), 10 `CCONJ` types (0%) and 576 `CCONJ` tokens (2%).
-Out of 14 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 13 in number of types and 10 in number of tokens.
+Out of 15 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 14 in number of types and 10 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>e, ou, pero, mais, como, senón, así, nin, que, tanto</em>
 
@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="gl_pud-pos-CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.319907).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.319483).
 
 The 1st highest number of forms (1) was observed with the lemma “así”: <em>así</em>.
 
@@ -57,7 +57,7 @@ The 3rd highest number of forms (1) was observed with the lemma “e”: <em>e</
 
 `CCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="gl_pud-dep-cc.html">cc</a></tt> (548; 95% instances), <tt><a href="gl_pud-dep-discourse.html">discourse</a></tt> (18; 3% instances), <tt><a href="gl_pud-dep-mark.html">mark</a></tt> (6; 1% instances), <tt><a href="gl_pud-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="gl_pud-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="gl_pud-dep-flat-name.html">flat:name</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (231; 40% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (212; 37% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (64; 11% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (33; 6% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> (15; 3% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="gl_pud-pos-DET.html">DET</a></tt> (2; 0% instances)
+Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (232; 40% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (212; 37% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (59; 10% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (33; 6% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> (15; 3% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="gl_pud-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="gl_pud-pos-DET.html">DET</a></tt> (2; 0% instances)
 
 574 (100%) `CCONJ` nodes are leaves.
 

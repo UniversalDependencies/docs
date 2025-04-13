@@ -119,7 +119,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 * `Fem` (179; 40% of non-empty `Gender`): <em>considerate, diventata, usata, basata, cresciute, lasciata, pubblicate, riguardanti, utilizzata, considerata</em>
 * `Masc` (270; 60% of non-empty `Gender`): <em>fatto, utilizzato, inclusi, stato, accusato, detto, diretto, fondato, pubblicato, seguiti</em>
-* `EMPTY` (1606): <em>affermato, avere, ha, afferma, aveva, iniziò, sono, detto, far, hanno</em>
+* `EMPTY` (1605): <em>affermato, avere, ha, afferma, aveva, iniziò, sono, detto, far, hanno</em>
 
 <table>
   <tr><th>Paradigm <i>fare</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -139,7 +139,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 * `Fem` (21; 35% of non-empty `Gender`): <em>stata, state</em>
 * `Masc` (39; 65% of non-empty `Gender`): <em>stato, stati</em>
-* `EMPTY` (923): <em>è, ha, sono, era, fu, essere, hanno, venne, può, erano</em>
+* `EMPTY` (925): <em>è, ha, sono, era, fu, essere, hanno, venne, può, erano</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>

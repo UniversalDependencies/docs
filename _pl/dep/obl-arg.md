@@ -53,4 +53,4 @@ The `obl:arg` relation is used in the Polish [PDB-UD](http://universaldependenci
 11	days	_	_	_	_	_	_	_	_
 12	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:36 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:17 CET -->

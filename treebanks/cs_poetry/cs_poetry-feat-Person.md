@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-788 tokens (13%) have a non-empty value of `Person`.
-452 types (17%) occur at least once with a non-empty value of `Person`.
+779 tokens (12%) have a non-empty value of `Person`.
+451 types (17%) occur at least once with a non-empty value of `Person`.
 294 lemmas (15%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (431; 7% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (171; 3% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (106; 2% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (80; 1% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (431; 7% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (171; 3% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (97; 2% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (80; 1% instances).
 
 ### `VERB`
 
@@ -66,22 +66,21 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-106 <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> tokens (79% of all `AUX` tokens) have a non-empty value of `Person`.
+97 <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> tokens (71% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (106; 100%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (106; 100%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (106; 100%), <tt><a href="cs_poetry-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (87; 82%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (86; 81%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (82; 77%), <tt><a href="cs_poetry-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (76; 72%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (72; 68%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (97; 100%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (97; 100%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (97; 100%), <tt><a href="cs_poetry-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (87; 90%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (86; 89%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (82; 85%), <tt><a href="cs_poetry-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (76; 78%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (71; 73%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (25; 24% of non-empty `Person`): <em>jsem, bych, jsme, nejsem, bychom</em>
-* `2` (30; 28% of non-empty `Person`): <em>jste, jsi, budeš, s, budiž, buď, by, bys</em>
-* `3` (51; 48% of non-empty `Person`): <em>je, jest, by, jsou, bude, nejsou, není, buď</em>
-* `EMPTY` (28): <em>byl, by, bylo, být, jsi, Nebyla, byla, byli, byly, bývaly</em>
+* `1` (25; 26% of non-empty `Person`): <em>jsem, bych, jsme, nejsem, bychom</em>
+* `2` (29; 30% of non-empty `Person`): <em>jste, jsi, budeš, s, budiž, buď, bys</em>
+* `3` (43; 44% of non-empty `Person`): <em>je, jest, jsou, bude, nejsou, není, buď</em>
+* `EMPTY` (39): <em>by, byl, bylo, být, jsi, Nebyla, byla, byli, byly, bývaly</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_poetry-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>bych</em></td><td><em>by, bys</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_poetry-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>bych</em></td><td><em>bys</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_poetry-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>bychom</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_poetry-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt></tt></td><td></td><td></td><td><em>by</em></td></tr>
   <tr><td><tt><tt><a href="cs_poetry-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>budiž, buď</em></td><td><em>buď</em></td></tr>
   <tr><td><tt><tt><a href="cs_poetry-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_poetry-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>nejsem</em></td><td></td><td><em>není</em></td></tr>
   <tr><td><tt><tt><a href="cs_poetry-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_poetry-feat-Style.html">Style</a></tt><tt>=Rare</tt>|<tt><a href="cs_poetry-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>s</em></td><td></td></tr>
@@ -123,9 +122,8 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (107; 77%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (24; 56%),
-<tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 80%),
-<tt>AUX --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (3; 100%),
-<tt>AUX --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
+<tt>AUX --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>AUX --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%).

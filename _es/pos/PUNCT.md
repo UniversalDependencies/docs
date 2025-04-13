@@ -28,4 +28,4 @@ _¡Qué sorpresa!_ "What a surprise!"
 
 These punctuation marks are always used in standard written Spanish. In some informal settings like social media or
 text messages, they might be omitted, but this is not considered grammatically correct.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:41 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:26 CET -->

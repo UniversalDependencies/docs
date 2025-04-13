@@ -55,13 +55,13 @@ The following 11 pairs of parts of speech are connected with `csubj`: <tt><a hre
 6	איסור	איסור	NOUN	NOUN	Gender=Masc|Number=Sing	7	nsubj	_	_
 7	פוגע	פגע	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=3|Tense=Pres|VerbForm=Part|Voice=Act	3	csubj	_	_
 8	ב	ב	ADP	ADP	_	9	case	_	_
-9	זכות	זכות	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	7	obl	_	_
+9	זכות	זכות	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	7	obl	_	Entity=(MISC
 10	ה	ה	DET	DET	Definite=Def|PronType=Art	11	det	_	_
 11	יסוד	יסוד	NOUN	NOUN	Gender=Masc|Number=Sing	9	compound	_	_
 12	:	:	PUNCT	PUNCT	_	13	punct	_	_
 13	חופש	חופש	PROPN	PROPN	Definite=Cons|Gender=Masc|Number=Sing	9	appos	_	_
 14	ה	ה	DET	DET	Definite=Def|PronType=Art	15	det	_	_
-15	עיסוק	עיסוק	PROPN	PROPN	Gender=Masc|Number=Sing	13	compound	_	_
+15	עיסוק	עיסוק	PROPN	PROPN	Gender=Masc|Number=Sing	13	compound	_	Entity=MISC)
 16	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
@@ -81,10 +81,10 @@ The following 11 pairs of parts of speech are connected with `csubj`: <tt><a hre
 6	מעמד	מעמד	NOUN	NOUN	Gender=Masc|Number=Sing	2	obl	_	_
 7	ה	הוא	PRON	PRON	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
 8	של	של	ADP	ADP	Case=Gen	10	case	_	_
-9	ה	ה	DET	DET	Definite=Def|PronType=Art	10	det	_	_
+9	ה	ה	DET	DET	Definite=Def|PronType=Art	10	det	_	Entity=(ORG
 10	רשות	רשות	NOUN	NOUN	Gender=Fem|Number=Sing	6	nmod:poss	_	_
 11	ה	ה	DET	DET	Definite=Def|PronType=Art	12	det	_	_
-12	מחוקקת	מחוקק	ADJ	ADJ	Gender=Fem|Number=Sing	10	amod	_	_
+12	מחוקקת	מחוקק	ADJ	ADJ	Gender=Fem|Number=Sing	10	amod	_	Entity=ORG)
 13	ו	ו	CCONJ	CCONJ	_	15	cc	_	_
 14	על	על	ADP	ADP	_	15	case	_	_
 15	עצמאות	עצמאות	NOUN	NOUN	Gender=Fem|Number=Sing	6	conj	_	_

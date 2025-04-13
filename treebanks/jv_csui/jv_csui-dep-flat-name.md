@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="jv_csui-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="jv_csui-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-558 nodes (4%) are attached to their parents as `flat:name`.
+559 nodes (4%) are attached to their parents as `flat:name`.
 
-558 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.48207885304659.
+559 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.48121645796064.
 
-The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (540; 97% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-PART.html">PART</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (541; 97% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-PART.html">PART</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

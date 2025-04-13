@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-3162 tokens (15%) have a non-empty value of `VerbForm`.
+3161 tokens (15%) have a non-empty value of `VerbForm`.
 1147 types (21%) occur at least once with a non-empty value of `VerbForm`.
 735 lemmas (16%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (2146; 10% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1015; 5% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (2146; 10% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1015; 5% instances).
 
 ### `VERB`
 
@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (871; 41% of non-empty `VerbForm`): <em>said, took, has, began, are, is, became, says, have, had</em>
-* `Ger` (271; 13% of non-empty `VerbForm`): <em>according, following, including, making, playing, using, getting, working, co-starring, growing</em>
+* `Ger` (271; 13% of non-empty `VerbForm`): <em>following, including, according, making, playing, using, getting, working, co-starring, growing</em>
 * `Inf` (424; 20% of non-empty `VerbForm`): <em>have, take, do, go, keep, help, make, see, come, get</em>
 * `Part` (580; 27% of non-empty `VerbForm`): <em>used, known, given, made, built, left, released, seen, allowed, considered</em>
 * `EMPTY` (3): <em>working, resting</em>
@@ -60,17 +60,6 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>are, ’m, 'm, ’re</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>been</em></td><td></td></tr>
 </table>
-
-### `NOUN`
-
-1 <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
-
-The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`NOUN` tokens may have the following values of `VerbForm`:
-
-* `Fin` (1; 100% of non-empty `VerbForm`): <em>hit</em>
-* `EMPTY` (4032): <em>time, people, years, year, government, city, state, century, world, day</em>
 
 ## Relations with Agreement in `VerbForm`
 

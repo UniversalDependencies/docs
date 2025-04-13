@@ -12,13 +12,13 @@ It occurs with 7 different values: `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Rel`, `To
 1422 tokens (7%) have a non-empty value of `PronType`.
 272 types (4%) occur at least once with a non-empty value of `PronType`.
 83 lemmas (3%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1062; 5% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (201; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (119; 1% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (38; 0% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1063; 5% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (201; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (118; 1% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (38; 0% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
 
 ### `PRON`
 
-1062 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (90% of all `PRON` tokens) have a non-empty value of `PronType`.
+1063 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (90% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (927; 87%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (724; 68%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (710; 67%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (611; 58%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (928; 87%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (725; 68%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (710; 67%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (611; 57%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -27,9 +27,9 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Int` (117; 11% of non-empty `PronType`): <em>мезе, кие, ки, мезть, кинь, месть, мезень, мейсь, кинень, мезес</em>
 * `Prs` (589; 55% of non-empty `PronType`): <em>сон, мон, сонзэ, тон, сонсь, минь, сынь, минек, тензэ, сынст</em>
 * `Rcp` (7; 1% of non-empty `PronType`): <em>вейкест-вейкест, вейке-вейке, вейкест, вейкенек-вейкенек</em>
-* `Rel` (50; 5% of non-empty `PronType`): <em>конань, кона, конат, мезе, конатань, конатнень, кие, кинень, кить, конадонть</em>
+* `Rel` (51; 5% of non-empty `PronType`): <em>конань, кона, конат, мезе, конатань, конатнень, кие, кинень, кить, конадонть</em>
 * `Tot` (100; 9% of non-empty `PronType`): <em>весе, кавонест, весенень, весень, колмонест, эрьвейке, весеменень, весемень, ськамонзо, Эрьвейкень</em>
-* `EMPTY` (114): <em>весе, эрьва, кияк, кона, конат, сь, вейкесь, весемень, мельганзо, нть</em>
+* `EMPTY` (116): <em>весе, эрьва, кияк, кона, конат, сь, вейкесь, весемень, мельганзо, нть</em>
 
 <table>
   <tr><th>Paradigm <i>мезе</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
@@ -76,18 +76,18 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 ### `DET`
 
-119 <tt><a href="myv_jr-pos-DET.html">DET</a></tt> tokens (47% of all `DET` tokens) have a non-empty value of `PronType`.
+118 <tt><a href="myv_jr-pos-DET.html">DET</a></tt> tokens (47% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (90; 76%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (69; 58%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (65; 55%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (90; 76%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (69; 58%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (64; 54%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Dem` (86; 72% of non-empty `PronType`): <em>те, истямо, не, се, истят, Нона, теке, Истятнэ, васенце, некень</em>
+* `Dem` (86; 73% of non-empty `PronType`): <em>те, истямо, не, се, истят, Нона, теке, Истятнэ, васенце, некень</em>
 * `Int` (7; 6% of non-empty `PronType`): <em>кона, Зяро, Конась, конаськак</em>
 * `Prs` (10; 8% of non-empty `PronType`): <em>эсь</em>
-* `Rel` (5; 4% of non-empty `PronType`): <em>конань, конат</em>
+* `Rel` (4; 3% of non-empty `PronType`): <em>конань, конат</em>
 * `Tot` (11; 9% of non-empty `PronType`): <em>эрьва</em>
-* `EMPTY` (133): <em>эрьва, ламо, эсь, те, лия, ве, зяро, аламо, весе, зярыя</em>
+* `EMPTY` (131): <em>эрьва, ламо, эсь, те, лия, ве, зяро, аламо, весе, зярыя</em>
 
 <table>
   <tr><th>Paradigm <i>кона</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>

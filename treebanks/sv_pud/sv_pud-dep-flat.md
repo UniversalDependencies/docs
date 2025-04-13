@@ -111,7 +111,7 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 18	hon	hon	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing	19	nsubj	19:nsubj|20:nsubj	_
 19	försökte	försöka	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	8:advcl:innan	_
 20	göra	göra	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	19	xcomp	19:xcomp	_
-21	samma	samma	ADJ	DT|UTR/NEU|SIN/PLU|IND	Case=Nom|Definite=Ind|Degree=Pos	22	amod	22:det	_
+21	samma	samma	ADJ	DT|UTR/NEU|SIN/PLU|IND	Case=Nom|Definite=Ind|Degree=Pos	22	amod	22:amod	_
 22	sak	sak	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	20	obj	20:obj	_
 23	mot	mot	ADP	PP	_	26	case	26:case	_
 24	sin	sin	PRON	PS|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|Poss=Yes	25	nmod:poss	25:nmod:poss	_

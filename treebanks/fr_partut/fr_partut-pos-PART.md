@@ -38,7 +38,7 @@ Examples: <em>ne, n'</em>
 
 `PART` nodes are attached to their parents using 1 different relations: <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (190; 100% instances)
 
-Parents of `PART` nodes belong to 5 different parts of speech: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (159; 84% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (16; 8% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (11; 6% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances)
+Parents of `PART` nodes belong to 4 different parts of speech: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (159; 84% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (16; 8% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (11; 6% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (4; 2% instances)
 
 190 (100%) `PART` nodes are leaves.
 

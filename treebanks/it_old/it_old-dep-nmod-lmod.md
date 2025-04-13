@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Italian-Old: Relations: `nmod:lmod`
 
 This relation is a language-specific subtype of <tt><a href="it_old-dep-nmod.html">nmod</a></tt>.
+There are also 1 other language-specific subtypes of `nmod`: <tt><a href="it_old-dep-nmod-poss.html">nmod:poss</a></tt>.
 
 3 nodes (0%) are attached to their parents as `nmod:lmod`.
 

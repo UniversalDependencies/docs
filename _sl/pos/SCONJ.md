@@ -24,4 +24,4 @@ A subordinating conjunction is a conjunction that links constructions by making 
 #### Conversion from JOS
 
 All conjunctions with Type=subordinate are converted to `SCONJ`.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:42 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:27 CET -->

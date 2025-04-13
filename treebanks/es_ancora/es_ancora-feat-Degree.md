@@ -49,7 +49,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `DET` tokens may have the following values of `Degree`:
 
 * `Abs` (4; 100% of non-empty `Degree`): <em>mismísimo, muchísimos</em>
-* `EMPTY` (84421): <em>el, la, los, un, las, una, su, sus, este, esta</em>
+* `EMPTY` (84427): <em>el, la, los, un, las, una, su, sus, este, esta</em>
 
 ### `PRON`
 

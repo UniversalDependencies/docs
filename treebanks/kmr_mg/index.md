@@ -12,15 +12,15 @@ udver: '2'
 # UD Kurmanji MG
 
 Language: [Kurmanji](/kmr/index.html) (code: `kmr`)<br/>
-Family: Indo-European, Iranian
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Memduh Gökırmak, Francis Tyers.
 
 Repository: [UD_Kurmanji-MG](https://github.com/UniversalDependencies/UD_Kurmanji-MG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkmr_mg214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkmr_mg215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -72,7 +72,7 @@ year = 2017
 
 ## Features
 
-[AdpType](kmr_mg-feat-AdpType.html) – [Aspect](kmr_mg-feat-Aspect.html) – [Case](kmr_mg-feat-Case.html) – [Definite](kmr_mg-feat-Definite.html) – [Degree](kmr_mg-feat-Degree.html) – [Evident](kmr_mg-feat-Evident.html) – [Gender](kmr_mg-feat-Gender.html) – [Mood](kmr_mg-feat-Mood.html) – [Number](kmr_mg-feat-Number.html) – [NumType](kmr_mg-feat-NumType.html) – [Person](kmr_mg-feat-Person.html) – [Polarity](kmr_mg-feat-Polarity.html) – [PronType](kmr_mg-feat-PronType.html) – [Reflex](kmr_mg-feat-Reflex.html) – [Tense](kmr_mg-feat-Tense.html) – [VerbForm](kmr_mg-feat-VerbForm.html)
+[AdpType](kmr_mg-feat-AdpType.html) – [Aspect](kmr_mg-feat-Aspect.html) – [Case](kmr_mg-feat-Case.html) – [Definite](kmr_mg-feat-Definite.html) – [Degree](kmr_mg-feat-Degree.html) – [Evident](kmr_mg-feat-Evident.html) – [Gender](kmr_mg-feat-Gender.html) – [Mood](kmr_mg-feat-Mood.html) – [Number](kmr_mg-feat-Number.html) – [NumType](kmr_mg-feat-NumType.html) – [Person](kmr_mg-feat-Person.html) – [Polarity](kmr_mg-feat-Polarity.html) – [PronType](kmr_mg-feat-PronType.html) – [Reflex](kmr_mg-feat-Reflex.html) – [Tense](kmr_mg-feat-Tense.html) – [Typo](kmr_mg-feat-Typo.html) – [VerbForm](kmr_mg-feat-VerbForm.html)
 
 ## Relations
 
@@ -82,7 +82,7 @@ year = 2017
 
 
 <ul>
-<li>This corpus contains 754 sentences, 10189 tokens and 10260 syntactic words.</li>
+<li>This corpus contains 754 sentences, 10188 tokens and 10259 syntactic words.</li>
 </ul>
 
 <ul>
@@ -90,7 +90,7 @@ year = 2017
 </ul>
 
 <ul>
-<li>This corpus contains 73 types of words with spaces. Examples: bû bû, da bû, dîti bû, goti bû, keti bû, anî bû, bihîsti bû, bû bûn, gihaşti bûn, kiri bûn, miri bû, nas kir, nikarî bû, vêxisti bû, wêran dikin, xuya dikir, xuya kir, Diviya bû, Stok moranê, anî bûn, ava dibe, ava dike, ava kiribûn, ava kirin, avêti bû, belav kir, berda bûn, bicih dike, ceza dikir, da bûye, da bûyê, dagir kirin, dagir kiriye, danî bû, dest pê dike, dest pê kir, dikarî bû, dûr bixe, gerandi bû, gihandi bû, gihaşti bû, girti bû, girtî bû, girtî bûn, hati bû, hati bûm, hişti bû, kar kir, kiri bû, kom kirin</li>
+<li>This corpus contains 74 types of words with spaces. Examples: bû bû, da bû, dîti bû, goti bû, keti bû, anî bû, bihîsti bû, bû bûn, gihaşti bûn, kiri bûn, miri bû, nas kir, nikarî bû, vêxisti bû, wêran dikin, xuya dikir, xuya kir, Diviya bû, Stok moranê, anî bûn, ava dibe, ava dike, ava kiribûn, ava kirin, avêti bû, belav kir, berda bûn, bicih dike, ceza dikir, da bûye, da bûyê, dagir kirin, dagir kiriye, danî bû, dest pê dike, dest pê kir, dikarî bû, dûr bixe, gerandi bû, gihandi bû, gihaşti bû, girti bû, girtî bû, girtî bûn, hati bû, hati bûm, hişti bû, kar kir, kiri bû, kom kirin</li>
 </ul>
 
 <ul>
@@ -624,6 +624,19 @@ year = 2017
       <li>Prep
         <ul>
           <li>ADP: di, bi, ji, li, ser, bo, ber, piştî, jê, pê</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>VERB-Fin: pêk anîn</li>
+          <li>VERB-Inf: dagir kirin</li>
         </ul>
       </li>
     </ul>

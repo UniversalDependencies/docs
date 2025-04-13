@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-16954 tokens (12%) have a non-empty value of `Person`.
+16951 tokens (12%) have a non-empty value of `Person`.
 82 types (2%) occur at least once with a non-empty value of `Person`.
 48 lemmas (1%) occur at least once with a non-empty value of `Person`.
-The feature is used with 7 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (16668; 12% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (172; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (68; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (37; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (16665; 12% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (172; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (68; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (37; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-16668 <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> tokens (91% of all `PRON` tokens) have a non-empty value of `Person`.
+16665 <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> tokens (91% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (14816; 89%), <tt><a href="pcm_nsc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14738; 88%), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11887; 71%), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9129; 55%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (14814; 89%), <tt><a href="pcm_nsc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14736; 88%), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11885; 71%), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9129; 55%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (6909; 41% of non-empty `Person`): <em>I, we, me, my, us, our, a, mysef, oursef, myself</em>
-* `2` (3404; 20% of non-empty `Person`): <em>you, your, una, yourself, yoursef, yousef, youself</em>
-* `3` (6355; 38% of non-empty `Person`): <em>e, am, de, dem, im, she, deir, her, it, imsef</em>
+* `2` (3402; 20% of non-empty `Person`): <em>you, your, una, yourself, yoursef, yousef, youself</em>
+* `3` (6354; 38% of non-empty `Person`): <em>e, am, de, dem, im, she, deir, her, it, imsef</em>
 * `EMPTY` (1696): <em>wetin, dat, dis, everybody, all, some, everyting, anyting, who, someting</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (27) occur only with one value of `Person`.
@@ -92,7 +92,7 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 
 * `2` (4; 67% of non-empty `Person`): <em>[, {, ||, }</em>
 * `3` (2; 33% of non-empty `Person`): <em>>+, de</em>
-* `EMPTY` (40242): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
+* `EMPTY` (40240): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
 
 ### `PART`
 

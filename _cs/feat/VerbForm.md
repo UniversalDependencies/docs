@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#Fin">Fin</a></td>
   <td><a href="#Inf">Inf</a></td>
   <td><a href="#Part">Part</a></td>
+  <td><a href="#Sup">Sup</a></td>
   <td><a href="#Vnoun">Vnoun</a></td>
 </tr>
 </table>
@@ -47,6 +48,25 @@ and it appears as the argument of modal and other verbs.
 
 - _nést_ &nbsp;“to carry”
 - _být_ &nbsp;“to be”
+
+### <a name="Sup">`Sup`</a>: supine
+
+Supine is a form similar to infinitive, yet distinct from it in the older development stages of the
+language. In these times, the infinitive would end in _-ti/-ci_ and supine in _-t/-c_. Occasionally
+there were additional differences: some phoneme changes would not apply to both forms, and the
+object after the supine of a transitive verb would be in genitive instead of accusative.
+Later supine blended with infinitive, and in contemporary Czech, the short form with the _-t_ suffix
+serves as the unmarked infinitive, while _-ti_ is considered archaic.
+
+Supine was used together with motion verbs, expressing the action that the subject intends to do
+after reaching the destination of the motion.
+
+We distinguish supine from infinitive in the Old Czech period (texts produced between 1200 and 1500).
+
+#### Examples
+
+- _Nalezeny sú oslice, jíchžtos byl šel <b>hledat</b>._ &nbsp;“The donkeys that you went to <b>seek</b> are found.”
+  (Modern Czech equivalent has the same form _hledat_ but annotated with `VerbForm=Inf`: _Oslice, které jsi šel hledat, se našly._)
 
 ### <a name="Part">`Part`</a>: participle
 
@@ -99,4 +119,4 @@ and [Number]() (although plural forms are rarely used).
 - _nesení_ &nbsp;“carrying”
 - _bytí_ &nbsp;“being”
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:26 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:10 CET -->

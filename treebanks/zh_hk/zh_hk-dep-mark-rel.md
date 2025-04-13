@@ -24,12 +24,12 @@ The following 6 pairs of parts of speech are connected with `mark:rel`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 4 mark:rel	color:blue
 1	該	該	AUX	_	_	2	aux	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
-2	取	取	VERB	_	_	6	obj:periph	_	SpaceAfter=No|Translit=qǔ|LTranslit=qǔ
-3	走	走	VERB	_	_	2	compound:vv	_	SpaceAfter=No|Translit=zǒu|LTranslit=zǒu
+2	取	取	VERB	_	_	6	obj:periph	_	SpaceAfter=No|Translit=qǔ|LTranslit=qǔ|Cxn=Resultative|CxnElt=2:Resultative.Event
+3	走	走	VERB	_	_	2	compound:vv	_	SpaceAfter=No|Translit=zǒu|LTranslit=zǒu|CxnElt=2:Resultative.ResultState
 4	的	的	PART	_	_	2	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	都	都	ADV	_	_	6	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
-6	取	取	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qǔ|LTranslit=qǔ
-7	走	走	VERB	_	_	6	compound:vv	_	SpaceAfter=No|Translit=zǒu|LTranslit=zǒu
+6	取	取	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qǔ|LTranslit=qǔ|Cxn=Resultative|CxnElt=6:Resultative.Event
+7	走	走	VERB	_	_	6	compound:vv	_	SpaceAfter=No|Translit=zǒu|LTranslit=zǒu|CxnElt=6:Resultative.ResultState
 8	了	了	PART	_	_	6	discourse:sp	_	SpaceAfter=No|Translit=le|LTranslit=le
 9	！	！	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit=!|LTranslit=!
 
@@ -59,8 +59,8 @@ The following 6 pairs of parts of speech are connected with `mark:rel`: <tt><a h
 # visual-style 3 5 mark:rel	color:blue
 1	在	在	ADP	_	_	6	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 2	未	未	ADV	_	_	3	advmod	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-3	有	有	VERB	_	_	6	advcl	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-4	MP3	MP3	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=MP3|LTranslit=MP3
+3	有	有	VERB	_	_	6	advcl	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu|Cxn=Existential-HavePred
+4	MP3	MP3	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=MP3|LTranslit=MP3|CxnElt=3:Existential-HavePred.Pivot
 5	的	的	ADP	_	_	3	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 6	年代	年代	NOUN	_	_	15	obl:tmod	_	SpaceAfter=No|Translit=niándài|LTranslit=niándài
 7	，	，	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,

@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `nmod`: <tt><a href=
 1	Жьыхәҭак	а-жьхәҭа́	NOUN	Noun_NH_Sg_Indet	Animacy=Nhum|Number=Sing	2	nmod	_	LMSeg:а-жьхәҭа́
 2	акәац	а-кәа́ц	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	4	obl	_	LMSeg:а-кәа́ц
 3	азы	а-зы́	ADP	PP_Poss:3SgNH	Gender[psor]=Neut|Number[psor]=Sing|Person[psor]=3	2	case	_	LMSeg:а-зы́
-4	шәеибашьуама	а́ибашьра	VERB	V_Dyn_Tr_NonFin_Pres_Q_S:Rec_DO:2Pl	Dyn=Yes|Mood=Int|Number[obj]=Plur|Person[obj]=2|Person[subj]=Rec|Tense=Pres|Trans=Yes|VerbForm=NonFin	0	root	_	LMSeg:а́иба·шь-ра
+4	шәеибашьуама	а́ибашьра	VERB	V_Dyn_Tr_NonFin_Pres_Q_S:Rec_DO:2Pl	Dyn=Yes|Mood=Int|Number[obj]=Plur|Person[obj]=2|Person[subj]=Rec|Subcat=Tran|Tense=Pres|VerbForm=NonFin	0	root	_	LMSeg:а́иба·шь-ра
 5	?	?	PUNCT	Punct_IntMark	_	4	punct	_	LMSeg:?
 6	!	!	PUNCT	Punct_ExclPoint	_	4	punct	_	LMSeg:!
 

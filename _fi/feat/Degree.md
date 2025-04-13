@@ -41,4 +41,4 @@ things within a set.
 #### FinnTreeBank
 
 The FI_FTB corpus applies the degree of comparison only when it is noticeable in the word form (that is, in comparative or superlative). Positive (Pos) is not used, as not all adjectives, adverbs and verb participles can appear in the other degrees of comparison at all.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:53 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:37 CET -->

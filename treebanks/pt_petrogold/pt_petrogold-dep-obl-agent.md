@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pt_petrogold-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="pt_petrogold-dep-obl-arg.html">obl:arg</a></tt>.
 
-1170 nodes (0%) are attached to their parents as `obl:agent`.
+1148 nodes (0%) are attached to their parents as `obl:agent`.
 
-1170 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.86581196581197.
+1147 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.8684668989547.
 
-The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (971; 83% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (175; 15% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-X.html">X</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `obl:agent`: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (960; 84% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (173; 15% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,27 +60,28 @@ The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 8 obl:agent	color:blue
-1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	água	água	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
-3	produzida	produzir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	2	acl	_	_
-4	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	responsável	responsável	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
-6	por	por	ADP	_	_	8	case	_	_
-7	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	variedade	variedade	NOUN	_	Gender=Fem|Number=Sing	5	obl:agent	_	_
-9	de	de	ADP	_	_	10	case	_	_
-10	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	_
-11	em	em	ADP	_	_	13	case	_	_
-12	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
-13	operações	operação	NOUN	_	Gender=Fem|Number=Plur	10	nmod	_	_
-14	de	de	ADP	_	_	15	case	_	_
-15	campo	campo	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 8 7 obl:agent	color:blue
+1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	zona	zona	NOUN	_	Gender=Fem|Number=Sing	8	nsubj:pass	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	falha	falha	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
+6	por	por	ADP	_	_	7	case	_	_
+7	ele	ele	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl:agent	_	_
+8	denominada	denominar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+9	“	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	Zona	Zona	PROPN	_	Gender=Fem|Number=Sing	8	xcomp	_	_
+11	de	de	ADP	_	_	10	flat:name	_	_
+12	Transferência	Transferência	PROPN	_	Number=Sing	10	flat:name	_	_
+13	de	de	ADP	_	_	10	flat:name	_	_
+14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	flat:name	_	_
+15	Funil	Funil	PROPN	_	Number=Sing	10	flat:name	_	SpaceAfter=No
+16	”	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

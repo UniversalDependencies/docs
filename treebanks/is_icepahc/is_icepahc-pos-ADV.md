@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Icelandic-IcePaHC: POS Tags: `ADV`
 
-There are 1994 `ADV` lemmas (5%), 2256 `ADV` types (3%) and 79019 `ADV` tokens (8%).
+There are 1992 `ADV` lemmas (5%), 2256 `ADV` types (3%) and 79019 `ADV` tokens (8%).
 Out of 16 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>ekki, þá, svo, þar, nú, vel, þó, hér, síðan, og</em>
@@ -69,7 +69,7 @@ The 10 most frequent ambiguous types:  <em>þá</em> (<tt><a href="is_icepahc-po
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.131394 (the average of all parts of speech is 1.856060).
+The form / lemma ratio of `ADV` is 1.132530 (the average of all parts of speech is 1.856953).
 
 The 1st highest number of forms (17) was observed with the lemma “margur”: <em>fleira, fleiri, fleirum, flest, flesta, flestir, flestum, marga, margan, margar, margir, margra, margt, mart, mörg, mörgu, mörgum</em>.
 

@@ -33,7 +33,7 @@ The following 15 pairs of parts of speech are connected with `cc`: <tt><a href="
 8	y	y	CCONJ	CC	_	10	cc	_	_
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	publicidad	publicidad	NOUN	NN	Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
-11	.	.	PUNCT	.	_	3	punct	_	_
+11	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -56,7 +56,7 @@ The following 15 pairs of parts of speech are connected with `cc`: <tt><a href="
 10	ese	ese	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
 11	mismo	mismo	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	_
 12	año	año	NOUN	NN	Gender=Masc|Number=Sing	6	obl:tmod	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	2	punct	_	_
+13	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -76,7 +76,7 @@ The following 15 pairs of parts of speech are connected with `cc`: <tt><a href="
 7	Pintado	Pintado	PROPN	NNP	Gender=Masc|Number=Sing	6	flat:name	_	_
 8	de	de	ADP	IN	_	6	orphan	_	orig_deprel=obl
 9	tesorero	tesorero	NOUN	NN	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	2	punct	_	_
+10	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
 ~~~
 

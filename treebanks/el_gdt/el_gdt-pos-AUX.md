@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  <em>έχει</em> (<tt><a href="el_gdt-po
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.833333 (the average of all parts of speech is 1.783022).
+The form / lemma ratio of `AUX` is 3.833333 (the average of all parts of speech is 1.783262).
 
 The 1st highest number of forms (10) was observed with the lemma “έχω”: <em>έχει, έχετε, έχοντας, έχουμε, έχουν, έχω, είχαμε, είχαν, είχατε, είχε</em>.
 

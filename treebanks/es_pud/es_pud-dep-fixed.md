@@ -32,7 +32,7 @@ The following 25 pairs of parts of speech are connected with `fixed`: <tt><a hre
 8	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
 9	muy	muy	ADV	RB	_	10	advmod	_	_
 10	conservador	conservador	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	.	_	10	punct	_	_
+11	.	.	PUNCT	.	PunctType=Peri	10	punct	_	_
 
 ~~~
 
@@ -56,7 +56,7 @@ The following 25 pairs of parts of speech are connected with `fixed`: <tt><a hre
 11	de	de	ADP	INDT	_	9	fixed	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	buque	buque	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
-14	.	.	PUNCT	.	_	8	punct	_	_
+14	.	.	PUNCT	.	PunctType=Peri	8	punct	_	_
 
 ~~~
 
@@ -79,7 +79,7 @@ The following 25 pairs of parts of speech are connected with `fixed`: <tt><a hre
 10	ganar	ganar	VERB	VB	VerbForm=Inf	9	xcomp	_	_
 11	a	a	ADP	IN	_	12	case	_	_
 12	Inglaterra	Inglaterra	PROPN	NNP	Number=Sing	10	obl	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	1	punct	_	_
+13	.	.	PUNCT	.	PunctType=Peri	1	punct	_	_
 
 ~~~
 

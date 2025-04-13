@@ -32,7 +32,7 @@ The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="
 8	y	y	CCONJ	CC	_	10	cc	_	_
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	publicidad	publicidad	NOUN	NN	Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
-11	.	.	PUNCT	.	_	3	punct	_	_
+11	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -50,7 +50,7 @@ The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="
 5	puede	poder	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	superar	superar	VERB	VB	VerbForm=Inf	0	root	_	_
 7	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
-8	.	.	PUNCT	.	_	6	punct	_	_
+8	.	.	PUNCT	.	PunctType=Peri	6	punct	_	_
 
 ~~~
 
@@ -64,7 +64,7 @@ The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="
 1	De	de	ADP	IN	_	7	discourse	_	_
 2	todas	todo	DET	DT	Gender=Fem|Number=Plur|PronType=Tot	1	fixed	_	_
 3	maneras	manera	NOUN	NN	Gender=Fem|Number=Plur	1	fixed	_	SpaceAfter=No
-4	,	,	PUNCT	,	_	1	punct	_	_
+4	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 5	Pyrrhus	Pyrrhus	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj:pass	_	_
 6	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
 7	forzado	forzar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -80,7 +80,7 @@ The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="
 17	sur	sur	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
 18	de	de	ADP	IN	_	19	case	_	_
 19	Italia	Italia	PROPN	NNP	Number=Sing	17	nmod	_	SpaceAfter=No
-20	.	.	PUNCT	.	_	7	punct	_	_
+20	.	.	PUNCT	.	PunctType=Peri	7	punct	_	_
 
 ~~~
 

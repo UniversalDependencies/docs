@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Irish-IDT: POS Tags: `X`
 
-There are 256 `X` lemmas (3%), 258 `X` types (2%) and 356 `X` tokens (0%).
+There are 256 `X` lemmas (3%), 260 `X` types (2%) and 358 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 6 in number of lemmas, 6 in number of types and 15 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>the, Irish, of, Life, for, a, port, preparing, read, right</em>
+The 10 most frequent `X` lemmas: <em>the, Irish, of, Life, for, a, _, port, preparing, read</em>
 
 The 10 most frequent `X` types:  <em>the, Irish, of, Life, for, a, Port, Preparing, Read, Right</em>
 
-The 10 most frequent ambiguous lemmas: <em>the</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 26, <tt><a href="ga_idt-pos-DET.html">DET</a></tt> 1), <em>Irish</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 10, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 4), <em>of</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 10, <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> 3), <em>Life</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 7, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 3), <em>a</em> (<tt><a href="ga_idt-pos-PART.html">PART</a></tt> 4077, <tt><a href="ga_idt-pos-DET.html">DET</a></tt> 733, <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> 23, <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> 7, <tt><a href="ga_idt-pos-X.html">X</a></tt> 5, <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 2, <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> 1), <em>port</em> (<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ga_idt-pos-X.html">X</a></tt> 1), <em>on</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 2, <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 1), <em>Spring</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 2, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 1), <em>Times</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 2, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 1), <em>_</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 2, <tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>the</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 26, <tt><a href="ga_idt-pos-DET.html">DET</a></tt> 1), <em>Irish</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 10, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 4), <em>of</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 10, <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> 3), <em>Life</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 7, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 3), <em>a</em> (<tt><a href="ga_idt-pos-PART.html">PART</a></tt> 4074, <tt><a href="ga_idt-pos-DET.html">DET</a></tt> 736, <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> 23, <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> 7, <tt><a href="ga_idt-pos-X.html">X</a></tt> 5, <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> 1), <em>_</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 4, <tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> 1), <em>port</em> (<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ga_idt-pos-X.html">X</a></tt> 1), <em>on</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 2, <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 1), <em>Spring</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 2, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 1), <em>Times</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 2, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 8, <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> 1), <em>Irish</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 10, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 4), <em>of</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 10, <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> 3), <em>Life</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 7, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 3), <em>a</em> (<tt><a href="ga_idt-pos-PART.html">PART</a></tt> 4053, <tt><a href="ga_idt-pos-DET.html">DET</a></tt> 740, <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> 23, <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> 7, <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 4, <tt><a href="ga_idt-pos-X.html">X</a></tt> 2, <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> 1), <em>Port</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 4, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 2), <em>National</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 3, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 1), <em>on</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 2, <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 1), <em>Spring</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 2, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 1), <em>Times</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 2, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 8, <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> 1), <em>Irish</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 10, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 4), <em>of</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 10, <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> 3), <em>Life</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 7, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 3), <em>a</em> (<tt><a href="ga_idt-pos-PART.html">PART</a></tt> 4050, <tt><a href="ga_idt-pos-DET.html">DET</a></tt> 745, <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> 23, <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> 7, <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 2, <tt><a href="ga_idt-pos-X.html">X</a></tt> 2, <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> 1), <em>Port</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 4, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 2), <em>National</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 3, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 1), <em>on</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 2, <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 1), <em>Spring</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 2, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 1), <em>Times</em> (<tt><a href="ga_idt-pos-X.html">X</a></tt> 2, <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 1)
 
 
 * <em>the</em>
@@ -31,11 +31,11 @@ The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="ga_idt-pos-X.h
   * <tt><a href="ga_idt-pos-X.html">X</a></tt> 7: <em>Tá Port <b>Life</b> Eugeen Van Mieghem déanta suas de sheachtó saothar a léiríonn an saol i gCalafort Antwerp ag tús na 20ú haoise .</em>
   * <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> 3: <em>Díomá Dúirt Antaine Ó Faracháin , duine de choiste eagraithe Fhéile Sean-Nós Cois <b>Life</b> go raibh díomá ar lucht na féile faoin bpolasaí nua .</em>
 * <em>a</em>
-  * <tt><a href="ga_idt-pos-PART.html">PART</a></tt> 4053: <em>Ach beo bocht <b>a</b> bheadh ar an té nach mbeadh aige ach preátaí tura .</em>
-  * <tt><a href="ga_idt-pos-DET.html">DET</a></tt> 740: <em>Meatachán scanraithe agus <b>a</b> lámha cáidheach le roidealach an bhóthair .</em>
+  * <tt><a href="ga_idt-pos-PART.html">PART</a></tt> 4050: <em>Ach beo bocht <b>a</b> bheadh ar an té nach mbeadh aige ach preátaí tura .</em>
+  * <tt><a href="ga_idt-pos-DET.html">DET</a></tt> 745: <em>Meatachán scanraithe agus <b>a</b> lámha cáidheach le roidealach an bhóthair .</em>
   * <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> 23: <em>Níl de dhíth ach aon fhocal amháin , sin <b>a</b> bhfuil .</em>
   * <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> 7: <em>Tá an teicníocht inste a roghnaíonn sé thar <b>a</b> bheith éifeachtach .</em>
-  * <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 4: <em>' Anonn leis de chéim mhall go dtí an bord gur thosaigh <b>a</b> chaint , agus an uile fhocal uaidh ag fuaimniú go glé ar an aer .</em>
+  * <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 2: <em>' Séard atá De Róiste <b>a</b> rá anois ná gur cuireadh ina choinne go raibh baint aige le Saor Éire agus gur thug sin leithscéal dóibh é a bhriseadh .</em>
   * <tt><a href="ga_idt-pos-X.html">X</a></tt> 2: <em>' Cad a bhí ann ach go raibh sé ' cut off with <b>a</b> shilling ' , agus tugadh an scilling dó !</em>
   * <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> 1: <em>Sa Deibhí bíonn seacht siolla sa líne freisin , ach bíonn siolla sa bhreis i bhfocal deireanach b ar <b>a</b> , agus in d ar c .</em>
 * <em>Port</em>
@@ -56,15 +56,15 @@ The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="ga_idt-pos-X.h
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.007812 (the average of all parts of speech is 1.647151).
+The form / lemma ratio of `X` is 1.015625 (the average of all parts of speech is 1.648496).
 
-The 1st highest number of forms (2) was observed with the lemma “_”: <em>,000, t</em>.
+The 1st highest number of forms (4) was observed with the lemma “_”: <em>,000, Chluichí, chorr-Óglach, t</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “#explorehistory”: <em>#explorehistory</em>.
 
 The 3rd highest number of forms (1) was observed with the lemma “.i.”: <em>.i.</em>.
 
-`X` occurs with 3 features: <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt> (349; 98% instances), <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt> (5; 1% instances), <tt><a href="ga_idt-feat-Form.html">Form</a></tt> (2; 1% instances)
+`X` occurs with 3 features: <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt> (349; 97% instances), <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt> (5; 1% instances), <tt><a href="ga_idt-feat-Form.html">Form</a></tt> (2; 1% instances)
 
 `X` occurs with 4 feature-value pairs: `Abbr=Yes`, `Foreign=Yes`, `Form=Ecl`, `Form=HPref`
 
@@ -75,17 +75,17 @@ Examples: <em>the, Irish, of, Life, for, Port, Preparing, Read, Right, to</em>
 
 ## Relations
 
-`X` nodes are attached to their parents using 16 different relations: <tt><a href="ga_idt-dep-flat-foreign.html">flat:foreign</a></tt> (210; 59% instances), <tt><a href="ga_idt-dep-nmod.html">nmod</a></tt> (46; 13% instances), <tt><a href="ga_idt-dep-appos.html">appos</a></tt> (30; 8% instances), <tt><a href="ga_idt-dep-obl.html">obl</a></tt> (16; 4% instances), <tt><a href="ga_idt-dep-nsubj.html">nsubj</a></tt> (13; 4% instances), <tt><a href="ga_idt-dep-root.html">root</a></tt> (11; 3% instances), <tt><a href="ga_idt-dep-conj.html">conj</a></tt> (9; 3% instances), <tt><a href="ga_idt-dep-obj.html">obj</a></tt> (6; 2% instances), <tt><a href="ga_idt-dep-parataxis.html">parataxis</a></tt> (6; 2% instances), <tt><a href="ga_idt-dep-flat.html">flat</a></tt> (2; 1% instances), <tt><a href="ga_idt-dep-goeswith.html">goeswith</a></tt> (2; 1% instances), <tt><a href="ga_idt-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ga_idt-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="ga_idt-dep-flat-name.html">flat:name</a></tt> (1; 0% instances), <tt><a href="ga_idt-dep-list.html">list</a></tt> (1; 0% instances), <tt><a href="ga_idt-dep-xcomp-pred.html">xcomp:pred</a></tt> (1; 0% instances)
+`X` nodes are attached to their parents using 16 different relations: <tt><a href="ga_idt-dep-flat-foreign.html">flat:foreign</a></tt> (210; 59% instances), <tt><a href="ga_idt-dep-nmod.html">nmod</a></tt> (46; 13% instances), <tt><a href="ga_idt-dep-appos.html">appos</a></tt> (30; 8% instances), <tt><a href="ga_idt-dep-obl.html">obl</a></tt> (16; 4% instances), <tt><a href="ga_idt-dep-nsubj.html">nsubj</a></tt> (13; 4% instances), <tt><a href="ga_idt-dep-root.html">root</a></tt> (11; 3% instances), <tt><a href="ga_idt-dep-conj.html">conj</a></tt> (9; 3% instances), <tt><a href="ga_idt-dep-obj.html">obj</a></tt> (6; 2% instances), <tt><a href="ga_idt-dep-parataxis.html">parataxis</a></tt> (6; 2% instances), <tt><a href="ga_idt-dep-goeswith.html">goeswith</a></tt> (4; 1% instances), <tt><a href="ga_idt-dep-flat.html">flat</a></tt> (2; 1% instances), <tt><a href="ga_idt-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ga_idt-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="ga_idt-dep-flat-name.html">flat:name</a></tt> (1; 0% instances), <tt><a href="ga_idt-dep-list.html">list</a></tt> (1; 0% instances), <tt><a href="ga_idt-dep-xcomp-pred.html">xcomp:pred</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 10 different parts of speech: <tt><a href="ga_idt-pos-X.html">X</a></tt> (203; 57% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (77; 22% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (31; 9% instances),  (11; 3% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (9; 3% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (8; 2% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (7; 2% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (6; 2% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `X` nodes belong to 10 different parts of speech: <tt><a href="ga_idt-pos-X.html">X</a></tt> (203; 57% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (79; 22% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (31; 9% instances),  (11; 3% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (9; 3% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (8; 2% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (7; 2% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (6; 2% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-221 (62%) `X` nodes are leaves.
+223 (62%) `X` nodes are leaves.
 
 27 (8%) `X` nodes have one child.
 
 42 (12%) `X` nodes have two children.
 
-66 (19%) `X` nodes have three or more children.
+66 (18%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 10.
 

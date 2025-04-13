@@ -23,10 +23,10 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 nsubj:pass	color:blue
-1	_	_	ADV	RB	_	5	advmod	5:advmod	Discourse=joint-other_m:169->159:1:dm-also-1131|Lem=*LOWER*|Len=4|SpaceAfter=No
+1	_	_	ADV	RB	_	5	advmod	5:advmod	Discourse=joint-other_m:169->159:1:dm-also-1131|Lem=*LOWER*|Len=4|PDTB=Explicit:Expansion.Conjunction:also:1131:1074-1095:1132-1141|SpaceAfter=No
 2	_	_	PUNCT	,	_	1	punct	1:punct	Lem=_|Len=1
 3	_	_	AUX	VB	VerbForm=Inf	5	aux	5:aux	Lem=_|Len=2
-4	_	_	PART	RB	Polarity=Neg	5	advmod	5:advmod	Lem=not|Len=3
+4	_	_	PART	RB	Polarity=Neg	5	advmod	5:advmod	Lem=not|Len=3|Negation=Yes
 5	_	_	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Lem=_|Len=3
 6	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj:pass	7:nsubj:pass	Entity=(145-person-giv:inact-cf1-1-ana)|Lem=I|Len=2
 7	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	xcomp	5:xcomp	Lem=start|Len=7|MSeg=start-ed
@@ -55,17 +55,17 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 9	_	_	ADP	IN	_	11	case	11:case	Lem=_|Len=2
 10	_	_	ADJ	JJ	Degree=Pos	11	amod	11:amod	Entity=(78-time-new-cf5-2-sgl|Lem=_|Len=7
 11	_	_	NOUN	NNS	Number=Plur	8	obl	8:obl:at	Entity=78)|Lem=time|Len=5|MSeg=time-s
-12	_	_	CCONJ	CC	_	13	cc	13:cc	Discourse=joint-sequence_m:71->70:0:dm-and-431|Lem=_|Len=3
+12	_	_	CCONJ	CC	_	13	cc	13:cc	Discourse=joint-sequence_m:71->70:0:dm-and-431|Lem=_|Len=3|PDTB=Explicit:Expansion.Conjunction:and:431:420-430:432-434;Implicit:Temporal.Asynchronous.Precedence:then:_:420-430:431-434
 13	_	_	VERB	VB	VerbForm=Inf	8	conj	5:advcl:relcl|8:conj:and	Lem=_|Len=6
 14	_	_	ADP	IN	_	15	case	15:case	Lem=_|Len=3
 15	_	_	NOUN	NNS	Number=Plur	13	obl	13:obl:for	Entity=(79-event-new-cf6-1-sgl)76)|Lem=response|Len=9|MSeg=respon-se-s
-16	_	_	PART	TO	_	17	mark	17:mark	Discourse=purpose-goal:72->70:1:syn-inf-435|Lem=_|Len=2
+16	_	_	PART	TO	_	17	mark	17:mark	Discourse=purpose-goal:72->70:1:syn-inf-435|Lem=_|Len=2|PDTB=Implicit:Contingency.Purpose.Arg2-as-goal:in order:_:420-434:435-443
 17	_	_	VERB	VB	VerbForm=Inf	13	advcl	13:advcl:to	Lem=_|Len=6
 18	_	_	SCONJ	IN	_	22	mark	22:mark	Lem=_|Len=2
 19	_	_	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	Entity=(80-place-new-cf3-2-sgl|Lem=a|Len=2
 20	_	_	NOUN	NN	Number=Sing	22	nsubj:pass	22:nsubj:pass	Entity=80)|Lem=_|Len=4
 21	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux:pass	22:aux:pass	Lem=be|Len=2
-22	_	_	VERB	GW	Typo=Yes	17	ccomp	17:ccomp	CorrectForm=overpopulated|Cxn=Interrogative-Polar-Indirect|Lem=overpopulate|Len=4|XML=<sic ana:::"overpopulated">
+22	_	_	VERB	GW	Typo=Yes	17	ccomp	17:ccomp	CorrectForm=overpopulated|Cxn=Interrogative-Polar-Indirect|CxnElt=22:Interrogative-Polar-Indirect.Clause|Lem=overpopulate|Len=4|XML=<sic ana:::"overpopulated">
 23	_	_	X	VBN	_	22	goeswith	22:goeswith	CorrectForm=_|Entity=77)|Lem=_|Len=9|MSeg=populat-ed|SpaceAfter=No|XML=</sic>
 24	_	_	PUNCT	.	_	2	punct	2:punct	Lem=_|Len=1
 

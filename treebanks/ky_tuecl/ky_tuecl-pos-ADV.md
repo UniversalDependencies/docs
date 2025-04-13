@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Kyrgyz-TueCL: POS Tags: `ADV`
 
-There are 24 `ADV` lemmas (8%), 23 `ADV` types (5%) and 48 `ADV` tokens (5%).
+There are 23 `ADV` lemmas (8%), 23 `ADV` types (5%) and 48 `ADV` tokens (5%).
 Out of 15 observed tags, the rank of `ADV` is: 3 in number of lemmas, 5 in number of types and 7 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>да, эмес, эртең, кеч, эрте, _, абдан, анда, бүгүн, гана</em>
+The 10 most frequent `ADV` lemmas: <em>да, эмес, эртең, кеч, эрте, абдан, анда, бүгүн, гана, дагы</em>
 
 The 10 most frequent `ADV` types:  <em>да, эмес, эртең, кеч, эрте, Качан, Негизинен, абдан, анда, бүгүн</em>
 
-The 10 most frequent ambiguous lemmas: <em>да</em> (<tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 9, <tt><a href="ky_tuecl-pos-INTJ.html">INTJ</a></tt> 1), <em>эртең</em> (<tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 6, <tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt> 1), <em>кеч</em> (<tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> 2, <tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 1), <em>_</em> (<tt><a href="ky_tuecl-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ky_tuecl-pos-NUM.html">NUM</a></tt> 1, <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 1), <em>анда</em> (<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 2, <tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 1), <em>эч</em> (<tt><a href="ky_tuecl-pos-DET.html">DET</a></tt> 2, <tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 1), <em>ѳт</em> (<tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> 3, <tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>да</em> (<tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 9, <tt><a href="ky_tuecl-pos-INTJ.html">INTJ</a></tt> 1), <em>эртең</em> (<tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 6, <tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt> 1), <em>кеч</em> (<tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> 2, <tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 1), <em>эч</em> (<tt><a href="ky_tuecl-pos-DET.html">DET</a></tt> 2, <tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 1), <em>ѳт</em> (<tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> 3, <tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 9, <tt><a href="ky_tuecl-pos-INTJ.html">INTJ</a></tt> 1), <em>кеч</em> (<tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt> 1), <em>эле</em> (<tt><a href="ky_tuecl-pos-AUX.html">AUX</a></tt> 10, <tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 1), <em>эч</em> (<tt><a href="ky_tuecl-pos-DET.html">DET</a></tt> 2, <tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 1), <em>ѳтѳ</em> (<tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> 1)
 
@@ -36,13 +36,13 @@ The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="ky_tuecl-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 0.958333 (the average of all parts of speech is 1.451724).
+The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.466899).
 
-The 1st highest number of forms (1) was observed with the lemma “_”: <em>эмес</em>.
+The 1st highest number of forms (1) was observed with the lemma “абдан”: <em>абдан</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “абдан”: <em>абдан</em>.
+The 2nd highest number of forms (1) was observed with the lemma “анда”: <em>анда</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “анда”: <em>анда</em>.
+The 3rd highest number of forms (1) was observed with the lemma “бүгүн”: <em>бүгүн</em>.
 
 `ADV` does not occur with any features.
 

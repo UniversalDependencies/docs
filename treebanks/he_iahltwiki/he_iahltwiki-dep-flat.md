@@ -47,15 +47,15 @@ The following 15 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 3 flat	color:blue
 1	גם	גם	ADV	ADV	_	2	advmod	_	_
-2	פרופ'	פרופ'	NOUN	NOUN	Abbr=Yes|Gender=Masc|Number=Sing	5	nsubj	_	_
-3	יואב	יואב	PROPN	PROPN	_	2	flat	_	_
-4	דותן	דותן	PROPN	PROPN	_	2	flat	_	_
+2	פרופ'	פרופ'	NOUN	NOUN	Abbr=Yes|Gender=Masc|Number=Sing	5	nsubj	_	Entity=(TTL)
+3	יואב	יואב	PROPN	PROPN	_	2	flat	_	Entity=(PER
+4	דותן	דותן	PROPN	PROPN	_	2	flat	_	Entity=PER)
 5	הביע	הביע	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 6	תמיכה	תמיכה	NOUN	NOUN	Gender=Fem|Number=Sing	5	obj	_	_
 7	ב	ב	ADP	ADP	_	8	case	_	_
 8	חקיקת	חקיקה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	6	nmod	_	_
-9	פסקת	פסקה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	8	compound	_	_
-10	התגברות	התגברות	NOUN	NOUN	Gender=Fem|Number=Sing	9	compound	_	SpaceAfter=No
+9	פסקת	פסקה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	8	compound	_	Entity=(MISC
+10	התגברות	התגברות	NOUN	NOUN	Gender=Fem|Number=Sing	9	compound	_	Entity=MISC)|SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~

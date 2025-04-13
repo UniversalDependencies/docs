@@ -24,10 +24,10 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 9 13 list	color:blue
 1	Teenuse	teenus	NOUN	S	Case=Gen|Number=Sing	2	nmod	2:nmod	_
 2	kasutamiseks	kasutamine	NOUN	S	Case=Tra|Number=Sing	4	obl	4:obl	_
-3	tuleb	tulema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-4	saata	saatma	VERB	V	VerbForm=Inf	3	csubj	3:csubj	_
-5	SMS	SMS	NOUN	Y	Abbr=Yes	6	nmod	6:nmod	NE=B-Unk
-6	sõnum	sõnum	NOUN	S	Case=Nom|Number=Sing	4	obj	4:obj	NE=B-Unk
+3	tuleb	tulema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Verb=tulema_4
+4	saata	saatma	VERB	V	VerbForm=Inf	3	csubj	3:csubj	Arg=tulema_Arg_1|Verb=saatma_3
+5	SMS	SMS	NOUN	Y	Abbr=Yes	6	nmod	6:nmod	_
+6	sõnum	sõnum	NOUN	S	Case=Nom|Number=Sing	4	obj	4:obj	Arg=saatma_Arg_1|NE=B-Unk
 7	kujul	kuju	NOUN	S	Case=Ade|Number=Sing	4	obl	4:obl	_
 8	"	"	PUNCT	Z	_	9	punct	9:punct	SpaceAfter=No
 9	PEATUS	peatus	NOUN	S	Case=Nom|Number=Sing	7	appos	7:appos	_
@@ -36,7 +36,7 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 12	liini	liin	NOUN	S	Case=Gen|Number=Sing	13	nmod	13:nmod	_
 13	number	number	NOUN	S	Case=Nom|Number=Sing	9	list	9:list	SpaceAfter=No
 14	"	"	PUNCT	Z	_	9	punct	9:punct	_
-15	lühinumbrile	lühi_number	NOUN	S	Case=All|Number=Sing	4	obl	4:obl	_
+15	lühinumbrile	lühi_number	NOUN	S	Case=All|Number=Sing	4	obl	4:obl	Arg=saatma_Arg_4
 16	1311	1311	NUM	N	NumForm=Digit|NumType=Card	15	nummod	15:nummod	SpaceAfter=No
 17	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
@@ -107,20 +107,20 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 7	veidi	veidi	ADV	D	_	8	advmod	8:advmod	_
 8	suuremad	suurem	ADJ	A	Case=Nom|Degree=Cmp|Number=Plur	10	advcl	10:advcl	SpaceAfter=No
 9	,	,	PUNCT	Z	_	10	punct	10:punct	_
-10	kulutataks	kulutama	VERB	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+10	kulutataks	kulutama	VERB	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	Verb=kulutama
 11	täiendav	täiendav	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	12:acl	_
-12	sissetulek	sisse_tulek	NOUN	S	Case=Nom|Number=Sing	10	obj	10:obj	_
-13	tarbimisele	tarbimine	NOUN	S	Case=All|Number=Sing	10	obl	10:obl	SpaceAfter=No
+12	sissetulek	sisse_tulek	NOUN	S	Case=Nom|Number=Sing	10	obj	10:obj	Arg=kulutama_Arg_1
+13	tarbimisele	tarbimine	NOUN	S	Case=All|Number=Sing	10	obl	10:obl	Arg=kulutama_Arg_2|SpaceAfter=No
 14	,	,	PUNCT	Z	_	23	punct	23:punct	_
 15	suurema	suurem	ADJ	A	Case=Gen|Degree=Cmp|Number=Sing	16	amod	16:amod	_
 16	sissetulekuga	sisse_tulek	NOUN	S	Case=Com|Number=Sing	17	nmod	17:nmod	_
 17	elanike	elanik	NOUN	S	Case=Gen|Number=Plur	19	nmod	19:nmod	_
 18	täiendav	täiendav	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	19	acl	19:acl	_
-19	sissetulek	sisse_tulek	NOUN	S	Case=Nom|Number=Sing	23	obj	23:obj	_
-20	aga	aga	ADV	J	_	23	advmod	23:advmod	_
+19	sissetulek	sisse_tulek	NOUN	S	Case=Nom|Number=Sing	23	obj	23:obj	Arg=säästma_Arg_1
+20	aga	aga	ADV	D	_	23	advmod	23:advmod	_
 21	suure	suur	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	22	amod	22:amod	_
 22	tõenäosusega	tõe_näosus	NOUN	S	Case=Com|Number=Sing	23	obl	23:obl	_
-23	säästetakse	säästma	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	10	conj	0:root|10:conj	_
+23	säästetakse	säästma	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	10	conj	0:root|10:conj	Verb=säästma
 24	(	(	PUNCT	Z	_	25	punct	25:punct	SpaceAfter=No
 25	Champernowne	Champernowne	PROPN	S	Case=Nom|Number=Sing	23	parataxis	23:parataxis	NE=B-Per
 26	ja	ja	CCONJ	J	_	27	cc	27:cc	_

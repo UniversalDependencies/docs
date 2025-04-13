@@ -32,7 +32,7 @@ The following 30 pairs of parts of speech are connected with `conj`: <tt><a href
 8	y	y	CCONJ	CC	_	10	cc	_	_
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	publicidad	publicidad	NOUN	NN	Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
-11	.	.	PUNCT	.	_	3	punct	_	_
+11	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -55,7 +55,7 @@ The following 30 pairs of parts of speech are connected with `conj`: <tt><a href
 10	ese	ese	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
 11	mismo	mismo	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	_
 12	año	año	NOUN	NN	Gender=Masc|Number=Sing	6	obl:tmod	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	2	punct	_	_
+13	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -81,7 +81,7 @@ The following 30 pairs of parts of speech are connected with `conj`: <tt><a href
 13	Colonia	Colonia	PROPN	NNP	Number=Sing	11	nmod	_	_
 14	y	y	CCONJ	CC	_	15	cc	_	_
 15	Bremen	Bremen	PROPN	NNP	Number=Sing	13	conj	_	SpaceAfter=No
-16	.	.	PUNCT	.	_	3	punct	_	_
+16	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~
 

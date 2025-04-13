@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Azerbaijani-TueCL: POS Tags: `AUX`
 
-There are 4 `AUX` lemmas (2%), 15 `AUX` types (4%) and 23 `AUX` tokens (4%).
+There are 4 `AUX` lemmas (2%), 15 `AUX` types (4%) and 23 `AUX` tokens (3%).
 Out of 14 observed tags, the rank of `AUX` is: 12 in number of lemmas, 7 in number of types and 8 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>dəyil, i, bil, ol</em>
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>olacax</em> (<tt><a href="az_tuecl-po
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.750000 (the average of all parts of speech is 1.455645).
+The form / lemma ratio of `AUX` is 3.750000 (the average of all parts of speech is 1.446215).
 
 The 1st highest number of forms (4) was observed with the lemma “bil”: <em>bildi, bilir, bilmәdim, bilərsiz</em>.
 

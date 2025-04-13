@@ -26,7 +26,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (160; 10% of non-empty `Number`): <em>wir, uns, ihnen, denen, sie, die, den, nous</em>
 * `Sing` (1476; 90% of non-empty `Number`): <em>es, man, er, was, nichts, etwas, ich, ihm, ihn, wer</em>
-* `EMPTY` (1098): <em>sich, sie, die, der, das, dem, deren, den, einander, cela</em>
+* `EMPTY` (1099): <em>sich, sie, die, der, das, dem, deren, den, einander, cela</em>
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -97,7 +97,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (9; 22% of non-empty `Number`): <em>erhaltenden, größten, literarischen, menacés, mißlichsten, politischen, primi, wesentlichen, wiederkehrenden</em>
 * `Sing` (32; 78% of non-empty `Number`): <em>ganze, gebildeten, römische, Letztere, Rembrandtschen, angemessenste, brillant, edle, elektrische, feiner</em>
-* `EMPTY` (3426): <em>große, alten, erste, ersten, ganze, großen, höchsten, möglich, neue, eignen</em>
+* `EMPTY` (3434): <em>große, alten, erste, ersten, ganze, eignen, großen, höchsten, möglich, neue</em>
 
 `Number` seems to be **lexical feature** of `ADJ`. 100% lemmas (35) occur only with one value of `Number`.
 
@@ -119,7 +119,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (1; 17% of non-empty `Number`): <em>leben</em>
 * `Sing` (5; 83% of non-empty `Number`): <em>Ehre, erfolge, fait, strömt, wohlgehe</em>
-* `EMPTY` (3097): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
+* `EMPTY` (3088): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
 
 ### `AUX`
 

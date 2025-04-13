@@ -47,7 +47,7 @@ The following 40 pairs of parts of speech are connected with `conj`: <tt><a href
 6	тенк	тон	PRON	Pron	Case=Dat|Number=Plur|Person=2|PronType=Prs|Variant=Short	4	nmod	_	GTtags=Pers,Pl2,Dat,Short|Gloss=to-you-pl2|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	4	punct	_	_
 8	тынь	тон	PRON	Pron	Case=Nom|Number=Plur|Person=2|PronType=Prs	10	nsubj	_	GTtags=Pers,Pl2,Nom|Gloss=you-pl2
-9	эзимизь	а	AUX	Aux	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=1|Person[subj]=2|Polarity=Neg|Tense=Past|VerbType=Aux	10	aux:neg	_	GTtags=|Gloss=did-not
+9	эзимизь	а	AUX	Aux	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=1|Person[subj]=2|Polarity=Neg|Tense=Past|VerbType=Aux	10	aux	_	GTtags=|Gloss=did-not
 10	кадт	кадомс	VERB	V	Connegative=Yes|Mood=Ind	2	parataxis	_	GTtags=TV,Ind,ConNeg|Gloss=abandon
 11	ёмамо	ёмамс	VERB	V	Case=Loc|VerbForm=Inf	10	xcomp	_	GTtags=IV,Inf,Loc|Gloss=parish|SpaceAfter=No
 12	.	.	PUNCT	CLB	_	2	punct	_	_

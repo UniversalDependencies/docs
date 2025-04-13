@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 4 different values: `Imp`, `Ind`, `Opt`, `Sub`.
 
 1314 tokens (13%) have a non-empty value of `Mood`.
-503 types (18%) occur at least once with a non-empty value of `Mood`.
-146 lemmas (8%) occur at least once with a non-empty value of `Mood`.
+504 types (18%) occur at least once with a non-empty value of `Mood`.
+148 lemmas (8%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 2 part-of-speech tags: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (902; 9% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (412; 4% instances).
 
 ### `VERB`

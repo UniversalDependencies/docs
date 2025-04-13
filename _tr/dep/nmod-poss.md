@@ -18,4 +18,4 @@ nmod:poss(kitabı, Ali'nin)
 Sabah kahvesi \n Morning coffee
 nmod:poss(kahvesi, Sabah)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:24 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:05 CET -->

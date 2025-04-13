@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Dim` (14; 100% of non-empty `Degree`): <em>Пулинесь, авинем, вирьбулыненть, вирьбулынеть, карькскесэ, касовкскесь, каштазнэ, каштазнэськак, корминем, лазкскеванть</em>
-* `EMPTY` (5079): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
+* `EMPTY` (5078): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
 
 `Degree` seems to be **lexical feature** of `NOUN`. 100% lemmas (12) occur only with one value of `Degree`.
 

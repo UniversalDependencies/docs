@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `csubj`
 
 This relation is universal.
+There are 2 language-specific subtypes of `csubj`: <tt><a href="orv_rnc-dep-csubj-outer.html">csubj:outer</a></tt>, <tt><a href="orv_rnc-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-109 nodes (0%) are attached to their parents as `csubj`.
+188 nodes (0%) are attached to their parents as `csubj`.
 
-59 instances of `csubj` (54%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.1651376146789.
+96 instances of `csubj` (51%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.97872340425532.
 
-The following 12 pairs of parts of speech are connected with `csubj`: <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (55; 50% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (32; 29% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (5; 5% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 15 pairs of parts of speech are connected with `csubj`: <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (94; 50% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (57; 30% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (9; 5% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -59,43 +60,33 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 30	bgColor:blue
-# visual-style 30	fgColor:white
-# visual-style 31	bgColor:blue
-# visual-style 31	fgColor:white
-# visual-style 31 30 csubj	color:blue
-1	А	а	CCONJ	_	_	11	cc	_	_
-2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	_
-3	какъ	какъ	ADV	_	Degree=Pos|PronType=Rel	5	advmod	_	upos="ADVPRO"|_
-4	есть	быти	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
-5	християне	христианинъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	advcl	_	_
-6	по	по	ADP	_	_	8	case	_	_
-7	християнскому	христианский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
-8	обычаю	обычай	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	11	obl	_	_
-9	со	съ	ADP	_	_	10	case	_	_
-10	смирением	смирение	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	11	obl	_	_
-11	напоминаем	напоминати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-12	и	и	CCONJ	_	_	17	cc	_	_
-13	бранитися	бранитися	VERB	_	Aspect=Imp|Reflex=Yes|VerbForm=Inf|Voice=Mid	17	xcomp	_	_
-14	с	съ	ADP	_	_	15	case	_	_
-15	тобою	ты	PRON	_	Case=Ins|Number=Sing|Person=2|PronType=Prs	13	obl	_	_
-16	не	не	PART	_	Polarity=Neg	17	advmod	_	_
-17	хотим	хотѣти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	24	punct	_	_
-19	занеже	занеже	SCONJ	_	_	24	mark	_	_
-20	тебѣ	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	24	iobj	_	_
-21	со	съ	ADP	_	_	22	case	_	_
-22	мною	я	PRON	_	Case=Ins|Number=Sing|Person=1|PronType=Prs	23	obl	_	_
-23	бранитися	бранитися	VERB	_	Aspect=Imp|Reflex=Yes|VerbForm=Inf|Voice=Mid	24	csubj	_	_
-24	честь	честь	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	17	advcl	_	SpaceAfter=No
-25	,	,	PUNCT	_	_	31	punct	_	_
-26	а	а	CCONJ	_	_	31	cc	_	_
-27	мнѣ	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	31	iobj	_	_
-28	с	съ	ADP	_	_	29	case	_	_
-29	тобою	ты	PRON	_	Case=Ins|Number=Sing|Person=2|PronType=Prs	30	obl	_	_
-30	бранитися	бранитися	VERB	_	Aspect=Imp|Reflex=Yes|VerbForm=Inf|Voice=Mid	31	csubj	_	_
-31	безчестье	бесчестие	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	24	conj	_	SpaceAfter=No
-32	.	.	PUNCT	_	_	11	punct	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 16 csubj	color:blue
+1	И	и	CCONJ	_	_	4	cc	_	norm="И"
+2	Фрол	Фролъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	_	norm="Фрол"
+3	Скобеев	Скобѣевъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	flat:name	_	norm="Скобеев"
+4	стал	стати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	norm="стал"
+5	говорить	говорити	VERB	_	VerbForm=Inf|Voice=Act	4	xcomp	_	norm="говорить"
+6	сестре	сестра	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	iobj	_	norm="сестре"|check=@
+7	своей	свой	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	_	norm="своей"|SpaceAfter=No|check=@
+8	:	:	PUNCT	_	_	14	punct	_	norm=":"
+9	«	«	PUNCT	_	_	14	punct	_	norm="«"|SpaceAfter=No
+10	Ну	ну	PART	_	_	14	discourse	_	norm="Ну"|SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	norm=","
+12	сестрица	сестрица	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	vocative	_	norm="сестрица"|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	norm=","
+14	пора	пора	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	parataxis	_	norm="пора"
+15	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	14	iobj	_	norm="тебе"
+16	убираться	убиратися	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	14	csubj	_	norm="убираться"
+17	и	и	CCONJ	_	_	18	cc	_	norm="и"
+18	ехать	ѣхати	VERB	_	VerbForm=Inf|Voice=Act	16	conj	_	norm="ехать"
+19	в	въ	ADP	_	_	20	case	_	norm="в"|check=@
+20	гости	гость	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	18	obl	_	norm="гости"|SpaceAfter=No|check=@
+21	»	»	PUNCT	_	_	14	punct	_	norm="»"|SpaceAfter=No
+22	.	.	PUNCT	_	_	4	punct	_	norm="."
 
 ~~~
 

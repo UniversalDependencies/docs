@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Low_Saxon-LSDC: POS Tags: `PART`
 
-There are 5 `PART` lemmas (0%), 7 `PART` types (0%) and 371 `PART` tokens (2%).
+There are 3 `PART` lemmas (0%), 7 `PART` types (0%) and 371 `PART` tokens (2%).
 Out of 16 observed tags, the rank of `PART` is: 16 in number of lemmas, 16 in number of types and 13 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>nich, to, te, en, nch</em>
+The 10 most frequent `PART` lemmas: <em>nich, to, en</em>
 
 The 10 most frequent `PART` types:  <em>nich, neet, to, te, nit, ne, en</em>
 
-The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 113, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 112, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 16), <em>te</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 6, <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 5), <em>en</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 363, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 1, <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 1, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 118, <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 118, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 16), <em>en</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 368, <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 105, <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 60, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 13, <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 1), <em>te</em> (<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 58, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 11, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 6), <em>ne</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 37, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 6, <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 2), <em>en</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 272, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 170, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 11, <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 105, <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 60, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 13, <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 1), <em>te</em> (<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 58, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 11, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 6), <em>ne</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 37, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 6, <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 2), <em>en</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 273, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 170, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 11, <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 1)
 
 
 * <em>to</em>
@@ -32,15 +32,14 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="nds_lsdc-pos-AD
   * <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 6: <em>Aver ansmeard hevve ik <b>ne</b> doch noch .</em>
   * <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 2: <em>Do wurd 'r tornig un wul <b>ne</b> ringån .</em>
 * <em>en</em>
-  * <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 272: <em>Up eynmål höyrde hee sou <b>en</b> knisteren , äs wän et uut de küäke kaem .</em>
+  * <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 273: <em>Up eynmål höyrde hee sou <b>en</b> knisteren , äs wän et uut de küäke kaem .</em>
   * <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 170: <em>Ik legge de handen plat up tåfel <b>en</b> süchte eyn mål deep .</em>
   * <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 11: <em>Do vorleyten <b>en</b> de jünger un vlüchten .</em>
-  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1: <em>Wardt nich lange duren , dän hest gans <b>en</b> voagel un süüst spökels an den hellichten dag .</em>
   * <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 1: <em>Mor der woanet sou unbesuusd völle ströypers in myn nåberskop , dat der vöär en unnöäse menske neet byster völle oaver <b>en</b> blivt .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.400000 (the average of all parts of speech is 1.410753).
+The form / lemma ratio of `PART` is 2.333333 (the average of all parts of speech is 1.500000).
 
 The 1st highest number of forms (4) was observed with the lemma “nich”: <em>ne, neet, nich, nit</em>.
 

@@ -361,7 +361,6 @@ udver: '2'
           <li>PUNCT: "</li>
           <li>SCONJ: er, eð, at, eru, hvörri, hvört</li>
           <li>VERB: sagði, segir, kom, mælti, fór, tók, varð, gekk, lét, hafði</li>
-          <li>X: Majst, Edimus, Item, Sicut, beati, nostra, omnium, patri, statuta</li>
         </ul>
         </li>
       </ul>
@@ -375,6 +374,7 @@ udver: '2'
           <li>AUX: er, var, eru, sé, hefur, væri, hafi, hafa, hefði, erum</li>
           <li>NOUN: Innheimtu, bönnum, leiðir</li>
           <li>VERB: hringir, held, kemur, á, finnst, þarf, þakka, verður, sagði, eigum</li>
+          <li>X: ákvaðu</li>
         </ul>
         </li>
       </ul>
@@ -421,7 +421,7 @@ udver: '2'
           <li>PROPN: anda, Ótta, Antiokkia, Ermanus, Flegða, Loka, Mella, Pjatta, Syrpa, draga</li>
           <li>SCONJ: nema</li>
           <li>VERB: fara, segja, sjá, taka, koma, láta, ganga, gera, halda, vita</li>
-          <li>X: Ná, hyggja, libra, nostra, sigla, tertia</li>
+          <li>X: hyggja, libra</li>
         </ul>
         </li>
       </ul>
@@ -477,7 +477,6 @@ udver: '2'
           <li>PROPN: Refur, Fiður, Herjuð, Mundt, Móður</li>
           <li>SCONJ: hvört</li>
           <li>VERB: kominn, sagt, komið, orðinn, komnir, komin, kallaður, getið, gert, farið</li>
-          <li>X: Majst, regent, regerandi</li>
         </ul>
         </li>
       </ul>
@@ -639,7 +638,7 @@ udver: '2'
             <li>SCONJ: hverja, hverjar, hver, hvorrar, ein, hvaða, hvor, hvörju, hvörjum, hvörn</li>
             <li>VERB: komin, búin, orðin, leið, sett, kölluð, haldin, sagða, tekin, lifandi</li>
             <li>VERB-Part: komin, orðin, kölluð, sett, haldin, tekin, farin, nefnd, gefin, komnar</li>
-            <li>X: trinitatis, Exordium, Item, Jerúsalem, Martilla, Miraculum, Sicut, brevíaríum, sanctorum, Abba</li>
+            <li>X: trinitatis, Exordium, Item, Martilla, Miraculum, Georgíum, Potú, Róma, Stadium, Trófímusar</li>
           </ul>
         </li>
       </ul>
@@ -724,7 +723,7 @@ udver: '2'
             <li>SCONJ: hvor, hver, hverjum, hvern, hverjir, hvorn, hvers, hvorum, er, hvatki</li>
             <li>VERB: kominn, orðinn, komnir, búinn, kallaður, segjandi, farinn, borinn, settur, sá</li>
             <li>VERB-Part: kominn, orðinn, komnir, kallaður, farinn, borinn, settur, tekinn, nefndur, sendur</li>
-            <li>X: Ektor, Trankival, sankti, Darii, Alexandrum, domini, Assyria, Vidfraktus, sanktus, Alexandri</li>
+            <li>X: sankti, sanktus, Taraskonum, delictum, peccatum, Bethaniam, Lazari, Magdalum, Maximíanus, Miraculum</li>
           </ul>
         </li>
       </ul>
@@ -814,8 +813,7 @@ udver: '2'
             <li>SCONJ-Part: hvört</li>
             <li>VERB: sagt, komið, búið, orðið, getið, farið, gert, mælt, gjört, tekið</li>
             <li>VERB-Part: sagt, komið, getið, gert, farið, mælt, orðið, tekið, talað, gjört</li>
-            <li>X: Trankival, domini, Majst, Vernakíus, Holofernis, kalendas, Kapitulum, evangelium, nostri, privilegium</li>
-            <li>X-Part: Majst, regent</li>
+            <li>X: rupata, Alexandri, Herkulem, Karatti, Pyssernis, advókat, compagniet, diplóma, evangelio, evangelium</li>
           </ul>
         </li>
       </ul>
@@ -959,8 +957,7 @@ udver: '2'
             <li>VERB: komu, fóru, gengu, sögðu, tóku, urðu, koma, höfðu, komnir, sáu</li>
             <li>VERB-Fin: komu, fóru, gengu, sögðu, tóku, urðu, koma, höfðu, sáu, riðu</li>
             <li>VERB-Part: komnir, komin, kallaðir, settir, teknir, sendir, orðnir, farnir, sett, nefndir</li>
-            <li>X: Kapitulum, Alexandrum, Miraculum, privilegium, sanctorum, Exordium, Taraskonum, brevíaríum, delictum, sankti</li>
-            <li>X-Fin: Item, nostra, omnium, statuta</li>
+            <li>X: Miraculum, Exordium, Taraskonum, delictum, sankti, Georgíum, peccatum, rupata, Capitulum, Item</li>
           </ul>
         </li>
       </ul>
@@ -982,6 +979,7 @@ udver: '2'
             <li>VERB: eigum, þurfum, eiga, verðum, verða, koma, sjáum, komu, Gripið, vitum</li>
             <li>VERB-Fin: eigum, þurfum, eiga, verðum, verða, koma, sjáum, komu, Gripið, vitum</li>
             <li>VERB-Part: komin, settir, sett, teknar, haldnir, komnir, settar, tekin, afgreidd, gerð</li>
+            <li>X-Fin: ákvaðu</li>
           </ul>
         </li>
       </ul>
@@ -1075,9 +1073,7 @@ udver: '2'
             <li>VERB: sagði, segir, kom, mælti, fór, tók, varð, gekk, lét, hafði</li>
             <li>VERB-Fin: sagði, segir, kom, mælti, fór, tók, varð, gekk, lét, hafði</li>
             <li>VERB-Part: kominn, sagt, komið, orðinn, kallaður, komin, getið, gert, farið, mælt</li>
-            <li>X: Trankival, domini, Majst, Ektor, Vernakíus, Anno, Darii, trinitatis, Alexandri, Holofernis</li>
-            <li>X-Fin: Majst, Edimus, Sicut, beati, patri</li>
-            <li>X-Part: Majst, regent</li>
+            <li>X: sankti, sanktus, Potú, trinitatis, Bethaniam, Bethanía, Item, Lazari, Martilla, Maximíanus</li>
           </ul>
         </li>
       </ul>
@@ -1212,7 +1208,7 @@ udver: '2'
             <li>SCONJ: það, hverja, hvern, hvert, hvorn, em, hvaða, hverjar, hvört</li>
             <li>VERB: búið, orðið, lifandi, sagða, gjört, heitið, boðið, lagðan, lifanda, blessaða</li>
             <li>VERB-Part: gert, sagða, gerða, birt, talað, getið, keypt, komna, ráðið, sendan</li>
-            <li>X: trinitatis, Anno, Bethaniam, Domini, Jerúsalem, Alexandríam, Apologiam, Arfaxat, Assyria, Belina</li>
+            <li>X: trinitatis, Bethaniam, Jesúm, Kristum, Maximíanus, Slavoniam, advókat, classes, compagniet, disputationes</li>
           </ul>
         </li>
       </ul>
@@ -1293,7 +1289,7 @@ udver: '2'
             <li>SCONJ: hverjum, hverju, hvorum, er, hvaða, hvörju, hvörjum, hvörn, hvörri</li>
             <li>VERB: sér, búnu, liðnum, leið, liðinni, mæltu, lifandi, liðnu, ákveðnum, brotnu</li>
             <li>VERB-Part: liðnu</li>
-            <li>X: domini, Alexandrum, Kapitulum, Anno, Miraculum, privilegium, sanctorum, Assyria, Darii, Exordium</li>
+            <li>X: Miraculum, Exordium, Potú, Taraskonum, delictum, peccatum, Bethanía, Georgíum, Magdalum, sankti</li>
           </ul>
         </li>
       </ul>
@@ -1375,7 +1371,7 @@ udver: '2'
             <li>PUNCT: "</li>
             <li>SCONJ: hvers, hvorrar, hvors, hvör</li>
             <li>VERB: lifanda, Ganga, lifandi, gjörða, liðna, gerva, heitins, komanda, launa, gerða</li>
-            <li>X: Holofernis, kalendas, Darii, Domini, Vernakíus, rupata, ANIMAE, Academísins, Alexandri, Annfílas</li>
+            <li>X: rupata, Herkulem, Lazari, Parmenasar, Pyssernis, Remigíusar, Trófímusar, Zebaoth, capitula, diplóma</li>
           </ul>
         </li>
       </ul>
@@ -1469,8 +1465,7 @@ udver: '2'
             <li>SCONJ-Part: hvört</li>
             <li>VERB: kominn, sagt, komið, orðinn, komnir, búinn, komin, kallaður, búið, orðið</li>
             <li>VERB-Part: kominn, sagt, komið, orðinn, komnir, komin, kallaður, getið, farið, gert</li>
-            <li>X: Trankival, Ektor, domini, Vernakíus, Majst, sankti, sanktus, Darii, Dominus, Item</li>
-            <li>X-Part: Majst, regent</li>
+            <li>X: sankti, sanktus, Item, Martilla, Alexandri, Beda, Comestor, Epafaras, Germanus, Kristus</li>
           </ul>
         </li>
       </ul>
@@ -1584,7 +1579,7 @@ udver: '2'
             <li>PROPN: drottins, Austvestan, sankti, Kýlan, gyðinganna, Norðsunnan, herrans, Kýlans, jólin, Jarlmann</li>
             <li>PUNCT: "</li>
             <li>VERB: orðið, heitið, liðið, boðið, kunni, orðin, svarið, blessaða, heita, sagða</li>
-            <li>X: sankti, Academísins, Belina, Dominum, Lazari, Magdalum, Roddanum, Tígrin, Verluc, crimina</li>
+            <li>X: sankti, Lazari, Magdalum, Roddanum, Verluc, seminarii, tólfti, vota</li>
           </ul>
         </li>
       </ul>
@@ -1641,7 +1636,7 @@ udver: '2'
             <li>PROPN: guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</li>
             <li>SCONJ: hvört, hvör, ein, em, er, hvatki, hvörju, hvörjum, hvörn, hvörri</li>
             <li>VERB: búið, búinn, segjandi, búin, búnir, höggur, fallinn, leið, kömur, ger</li>
-            <li>X: Trankival, domini, Ektor, Vernakíus, Anno, Darii, trinitatis, Alexandrum, Kapitulum, Alexandri</li>
+            <li>X: sanktus, Miraculum, Potú, trinitatis, Exordium, Taraskonum, delictum, peccatum, Bethaniam, Bethanía</li>
           </ul>
         </li>
       </ul>
@@ -1800,7 +1795,7 @@ udver: '2'
             <li>PUNCT: "</li>
             <li>SCONJ: hvört, ein, er</li>
             <li>VERB: búið, búinn, lifandi, búin, búnir, fallinn, lifanda, þegjandi, búnu, grátandi</li>
-            <li>X: sankti, Vidfraktus, Item, Alexandrum, Aristandus, Sicut, Stadium, Vagau, Valbert, bölvaður</li>
+            <li>X: sankti, Item, Stadium, bölvaður, einum, gymnasii, hógvær, lasaretinu, nardum, peccatum</li>
           </ul>
         </li>
       </ul>
@@ -1860,7 +1855,7 @@ udver: '2'
             <li>PRON: oss, minna, slík, vora, þeirra, þvílík</li>
             <li>PROPN: Tósti, Austvestan, Georgíum, Mannsins</li>
             <li>VERB: helst, fanst, verst, Þóttust, réttast, sannast, Rifjaðist, fyrfarast, gleðist, glíkjast</li>
-            <li>X: Majst, mest</li>
+            <li>X: mest</li>
           </ul>
         </li>
       </ul>
@@ -2050,7 +2045,6 @@ udver: '2'
             <li>SCONJ-Fin: er, eð, eru, hvörri, hvört</li>
             <li>VERB: sagði, segir, kom, mælti, fór, tók, varð, gekk, lét, hafði</li>
             <li>VERB-Fin: sagði, segir, kom, mælti, fór, tók, varð, gekk, lét, hafði</li>
-            <li>X-Fin: Majst, Edimus, Item, Sicut, nostra, omnium, statuta</li>
           </ul>
         </li>
       </ul>
@@ -2067,6 +2061,7 @@ udver: '2'
             <li>NOUN-Fin: bönnum, leiðir</li>
             <li>VERB: hringir, held, kemur, á, finnst, þakka, þarf, verður, sagði, segir</li>
             <li>VERB-Fin: hringir, held, kemur, á, finnst, þarf, þakka, verður, sagði, kom</li>
+            <li>X-Fin: ákvaðu</li>
           </ul>
         </li>
       </ul>
@@ -2112,7 +2107,6 @@ udver: '2'
             <li>PRON-Fin: hver, hvörjum, sinni, sé, sér, yðrum</li>
             <li>PROPN-Fin: Valdi, sankti, Maii, Guddu, Julii, Martii, Stefni, Vali, bausti, dragi</li>
             <li>VERB-Fin: ætti, kæmi, yrði, færi, verði, komi, þyki, þætti, fengi, þyrfti</li>
-            <li>X-Fin: beati, patri</li>
           </ul>
         </li>
       </ul>
@@ -2193,7 +2187,6 @@ udver: '2'
             <li>VERB: sagði, kom, mælti, fór, tók, varð, gekk, lét, hafði, hét</li>
             <li>VERB-Fin: sagði, kom, mælti, fór, tók, varð, gekk, lét, hafði, hét</li>
             <li>VERB-Part: riðinn, aðskildir, boðinn, bívaraður, búinn, búnir, drepinn, gjörð, gjörðar, hindraður</li>
-            <li>X-Fin: Edimus, Sicut, beati</li>
           </ul>
         </li>
       </ul>
@@ -2209,6 +2202,7 @@ udver: '2'
             <li>VERB: sagði, kom, ætti, fór, tók, vann, varð, átti, velti, nefndi</li>
             <li>VERB-Fin: sagði, kom, ætti, fór, vann, tók, varð, átti, velti, gerði</li>
             <li>VERB-Part: Gripið, búið, búin, búinn, merktir, búnir, fært, gert, meiddur, orðið</li>
+            <li>X-Fin: ákvaðu</li>
           </ul>
         </li>
       </ul>
@@ -2264,7 +2258,6 @@ udver: '2'
             <li>VERB: segir, kemur, fer, verður, svarar, veit, heitir, gengur, þykir, tekur</li>
             <li>VERB-Fin: segir, kemur, fer, verður, svarar, veit, heitir, gengur, þykir, tekur</li>
             <li>VERB-Part: lifandi</li>
-            <li>X-Fin: Majst, Item, nostra, omnium, patri, statuta</li>
           </ul>
         </li>
       </ul>
@@ -2390,9 +2383,7 @@ udver: '2'
             <li>VERB-Inf: fara, segja, sjá, taka, koma, láta, ganga, gera, halda, vita</li>
             <li>VERB-Part: kominn, sagt, komið, orðinn, komnir, komin, kallaður, getið, gert, farið</li>
             <li>VERB-Sup: komið, séð, fengið, gert, sagt, tekið, farið, orðið, gjört, gefið</li>
-            <li>X-Fin: Edimus, Item, Sicut, beati, nostra, omnium, patri, statuta</li>
-            <li>X-Inf: Ná, hyggja, libra, nostra, sigla, tertia</li>
-            <li>X-Part: regent, regerandi</li>
+            <li>X-Inf: hyggja, libra</li>
           </ul>
         </li>
       </ul>
@@ -2416,6 +2407,7 @@ udver: '2'
             <li>VERB-Inf: gera, fara, taka, koma, segja, vinna, sjá, fá, ræða, spyrja</li>
             <li>VERB-Part: varðandi, gert, farið, keppt, sagt, komin, sett, tekið, haldið, kominn</li>
             <li>VERB-Sup: sagt, tekið, komið, gert, farið, orðið, séð, átt, reynt, spilað</li>
+            <li>X-Fin: ákvaðu</li>
           </ul>
         </li>
       </ul>
@@ -2482,8 +2474,6 @@ udver: '2'
             <li>VERB-Inf: komast, berjast, finnast, búast, setjast, takast, eignast, gefast, minnast, gerast</li>
             <li>VERB-Part: komist, minnst, búist, sestur, barist, eignast, áminnst, Barðist, aðhafst, búizt</li>
             <li>VERB-Sup: komist, tekist, gerst, fundist, öðlast, barist, búist, reynst, eignast, birst</li>
-            <li>X-Fin: Majst</li>
-            <li>X-Part: Majst</li>
           </ul>
         </li>
       </ul>
@@ -2647,7 +2637,6 @@ udver: '2'
             <li>PROPN: Enginn, Aðra, Aðrir, Bítlana, Hellismenn, Petrum, Reyðarmúla, Sumar</li>
             <li>SCONJ: hvor, hvert, hverja, hvort, hver, hverjum, hvern, hvorn, hvers, hvorrar</li>
             <li>VERB: vorar, báðum, ann, entri, forþént, hét, inntakast, kenndust, krafður, reifður</li>
-            <li>X: Dominus, Tírus, regnum</li>
           </ul>
         </li>
       </ul>
@@ -2748,7 +2737,6 @@ udver: '2'
             <li>PUNCT: "</li>
             <li>SCONJ: það</li>
             <li>VERB: sér, minna, vora, ann, bannaða, brennanda, dansandi, fanst, fyltist, gerði</li>
-            <li>X: Holofernis, Majst</li>
           </ul>
         </li>
       </ul>
@@ -2824,7 +2812,6 @@ udver: '2'
             <li>PROPN: 1, 4., 3., I, If, Jesaja, Tyrkjaskipið</li>
             <li>PUNCT: ", —</li>
             <li>VERB: átta, firrði, hylmast, lifir, bera, hvella</li>
-            <li>X: Item</li>
           </ul>
         </li>
       </ul>
@@ -3010,8 +2997,6 @@ udver: '2'
             <li>PUNCT: "</li>
             <li>VERB: veit, fór, segi, fékk, sá, ætla, kom, tók, sé, lét</li>
             <li>VERB-Fin: veit, fór, segi, fékk, sá, ætla, kom, tók, sé, lét</li>
-            <li>X: Majst, omnium</li>
-            <li>X-Fin: omnium</li>
           </ul>
         </li>
       </ul>
@@ -3138,7 +3123,6 @@ udver: '2'
             <li>PROPN-Fin: sankti, Valdi, Maii, Majst, guði, Beljus, Belíus, Brúni, Guddu, Gálu</li>
             <li>SCONJ-Fin: er, eð, eru, hvörri, hvört</li>
             <li>VERB-Fin: sagði, segir, kom, mælti, tók, varð, gekk, fór, hét, lét</li>
-            <li>X-Fin: Majst, Edimus, Item, Sicut, beati, nostra, patri, statuta</li>
           </ul>
         </li>
       </ul>
@@ -3152,6 +3136,7 @@ udver: '2'
             <li>AUX-Fin: er, var, eru, sé, hefur, væri, hafa, hafi, voru, hefði</li>
             <li>NOUN-Fin: leiðir</li>
             <li>VERB-Fin: hringir, kemur, á, finnst, þarf, verður, sagði, verði, segir, kom</li>
+            <li>X-Fin: ákvaðu</li>
           </ul>
         </li>
       </ul>
@@ -3250,7 +3235,7 @@ udver: '2'
                 <li>PROPN: Erasmus, Metternich, Darius, Dominus, Pelissier, Moyses, Menon, Petrus, Thiers, Georgíus</li>
                 <li>PUNCT: —</li>
                 <li>VERB: Bar, Gessovel, Vita, Komu, Tel, talt, Sest, Stend, Vil, do</li>
-                <li>X: anno, in, item, domini, et, Dominus, etc, sankti, de, sanktus</li>
+                <li>X: anno, item, in, domini, Dominus, et, Majst, Trankival, etc, sankti</li>
               </ul>
             </li>
           </ul>
@@ -3443,7 +3428,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Acc (616)</li>
             <li>VERB-Fin--NOUN-Dat (545)</li>
             <li>VERB-Fin--NOUN-Gen (81)</li>
-            <li>VERB-Fin--NOUN-Nom (11845)</li>
+            <li>VERB-Fin--NOUN-Nom (11846)</li>
             <li>VERB-Fin--PRON (62)</li>
             <li>VERB-Fin--PRON-Acc (833)</li>
             <li>VERB-Fin--PRON-Dat (2290)</li>

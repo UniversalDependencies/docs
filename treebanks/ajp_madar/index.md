@@ -12,15 +12,15 @@ udver: '2'
 # UD South Levantine Arabic MADAR
 
 Language: [South Levantine Arabic](/ajp/index.html) (code: `ajp`)<br/>
-Family: Afro-Asiatic, Semitic
+Family: Afro-Asiatic
 
 This treebank has been part of Universal Dependencies since the UD v2.7 release.
 
 The following people have contributed to making this treebank part of UD: Shorouq Zahra.
 
 Repository: [UD_South_Levantine_Arabic-MADAR](https://github.com/UniversalDependencies/UD_South_Levantine_Arabic-MADAR)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udajp_madar214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udajp_madar215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (27; 100% of non-empty `Foreign`): <em>poison, police, kilaːs, Eːbìːyù, TV, bìr̃êːk, chemistry, drinks, inspector̃, juice</em>
-* `EMPTY` (1785): <em>àbin, àbîn, loːkàcîn, mài, gidan, gidaː, zaːmàniː, irìn, àbù, ruwaː</em>
+* `EMPTY` (1786): <em>àbin, àbîn, loːkàcîn, mài, gidan, gidaː, zaːmàniː, irìn, àbù, ruwaː</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (22) occur only with one value of `Foreign`.
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>checking, escaping, pr̃etending</em>
-* `EMPTY` (2040): <em>yi, cêː, jeː, ci, zoː, ga, sâː, baː, san, ganiː</em>
+* `EMPTY` (2039): <em>yi, cêː, jeː, ci, zoː, ga, sâː, baː, san, ganiː</em>
 
 ### `PART`
 

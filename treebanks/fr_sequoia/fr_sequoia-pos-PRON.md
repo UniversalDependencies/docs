@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `PRON`
 
 There are 39 `PRON` lemmas (1%), 86 `PRON` types (1%) and 2808 `PRON` tokens (4%).
-Out of 16 observed tags, the rank of `PRON` is: 10 in number of lemmas, 8 in number of types and 8 in number of tokens.
+Out of 16 observed tags, the rank of `PRON` is: 9 in number of lemmas, 8 in number of types and 8 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>lui, qui, soi, moi, nous, ce, vous, eux, que, y</em>
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>s'</em> (<tt><a href="fr_sequoia-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.205128 (the average of all parts of speech is 1.407211).
+The form / lemma ratio of `PRON` is 2.205128 (the average of all parts of speech is 1.407386).
 
 The 1st highest number of forms (10) was observed with the lemma “lui”: <em>-elle, -il, -t-elle, -t-il, elle, il, l', la, le, lui</em>.
 

@@ -12,15 +12,15 @@ udver: '2'
 # UD Latvian Cairo
 
 Language: [Latvian](/lv/index.html) (code: `lv`)<br/>
-Family: Indo-European, Baltic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.14 release.
 
 The following people have contributed to making this treebank part of UD: Lauma Pretkalniņa, Laura Rituma, Baiba Saulīte, Gunta Nešpore-Bērzkalne.
 
 Repository: [UD_Latvian-Cairo](https://github.com/UniversalDependencies/UD_Latvian-Cairo)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlv_cairo214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlv_cairo215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -75,7 +75,7 @@ This work was supported by the State Research Programme's project [Research on M
 
 ## Relations
 
-[acl](lv_cairo-dep-acl.html) – [advcl](lv_cairo-dep-advcl.html) – [advmod](lv_cairo-dep-advmod.html) – [amod](lv_cairo-dep-amod.html) – [appos](lv_cairo-dep-appos.html) – [case](lv_cairo-dep-case.html) – [cc](lv_cairo-dep-cc.html) – [ccomp](lv_cairo-dep-ccomp.html) – [conj](lv_cairo-dep-conj.html) – [cop](lv_cairo-dep-cop.html) – [csubj](lv_cairo-dep-csubj.html) – [det](lv_cairo-dep-det.html) – [discourse](lv_cairo-dep-discourse.html) – [flat:name](lv_cairo-dep-flat-name.html) – [iobj](lv_cairo-dep-iobj.html) – [mark](lv_cairo-dep-mark.html) – [nmod](lv_cairo-dep-nmod.html) – [nsubj](lv_cairo-dep-nsubj.html) – [obj](lv_cairo-dep-obj.html) – [obl](lv_cairo-dep-obl.html) – [orphan](lv_cairo-dep-orphan.html) – [punct](lv_cairo-dep-punct.html) – [root](lv_cairo-dep-root.html) – [vocative](lv_cairo-dep-vocative.html) – [xcomp](lv_cairo-dep-xcomp.html)
+[acl](lv_cairo-dep-acl.html) – [advcl](lv_cairo-dep-advcl.html) – [advmod](lv_cairo-dep-advmod.html) – [advmod:emph](lv_cairo-dep-advmod-emph.html) – [advmod:neg](lv_cairo-dep-advmod-neg.html) – [amod](lv_cairo-dep-amod.html) – [appos](lv_cairo-dep-appos.html) – [aux:pass](lv_cairo-dep-aux-pass.html) – [case](lv_cairo-dep-case.html) – [cc](lv_cairo-dep-cc.html) – [ccomp](lv_cairo-dep-ccomp.html) – [conj](lv_cairo-dep-conj.html) – [cop](lv_cairo-dep-cop.html) – [csubj](lv_cairo-dep-csubj.html) – [det](lv_cairo-dep-det.html) – [discourse](lv_cairo-dep-discourse.html) – [flat:name](lv_cairo-dep-flat-name.html) – [iobj](lv_cairo-dep-iobj.html) – [mark](lv_cairo-dep-mark.html) – [nmod](lv_cairo-dep-nmod.html) – [nsubj](lv_cairo-dep-nsubj.html) – [obj](lv_cairo-dep-obj.html) – [obl](lv_cairo-dep-obl.html) – [orphan](lv_cairo-dep-orphan.html) – [punct](lv_cairo-dep-punct.html) – [root](lv_cairo-dep-root.html) – [vocative](lv_cairo-dep-vocative.html) – [xcomp](lv_cairo-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -113,22 +113,22 @@ This work was supported by the State Research Programme's project [Research on M
 </ul>
 
 <ul>
-<li>This corpus contains 7 lemmas tagged as pronouns (PRON): es, kas, kurš, tas, tu, viņa, viņš</li>
+<li>This corpus contains 5 lemmas tagged as pronouns (PRON): es, kas, tu, viņa, viņš</li>
 </ul>
 
 <ul>
-<li>This corpus contains 5 lemmas tagged as determiners (DET): kāds, mans, sava, savs, šī</li>
+<li>This corpus contains 8 lemmas tagged as determiners (DET): kurš, kāds, mans, sava, savs, tas, tavējs, šī</li>
 </ul>
 
 <ul>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): būt</li>
+<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): būt, tikt</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: būt</li>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: būt, tikt</li>
 </ul>
 
 <ul>
@@ -138,7 +138,7 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: ir</li>
+    <li>AUX: ir, tika</li>
     <li>VERB: uzrakstīja, Nevarēja, apskāvās, atstāja, atver, centās, domā, gribi, ieguva, lika</li>
   </ul>
   </li>
@@ -172,9 +172,9 @@ This work was supported by the State Research Programme's project [Research on M
     <ul>
       <li>ADJ: liela, maza, sarkanā</li>
       <li>DET: savai, Šī</li>
-      <li>NOUN: mašīnu, Marija, Meitene, bronzu, draudzenei, dzeršanu, galvaspilsētā, istabu, jausmas, krāsā</li>
+      <li>NOUN: mašīnu, Meitene, bronzu, draudzenei, dzeršanu, galvaspilsētā, istabu, jausmas, krāsā, smēķēšanu</li>
       <li>PRON: viņa, Viņai</li>
-      <li>PROPN: Braunu, Džeina, Francijas, Marija, Mariju, Parīzē</li>
+      <li>PROPN: Marija, Braunu, Džeina, Francijas, Mariju, Parīzē</li>
       <li>VERB-Part: piegādāta</li>
     </ul>
   </li>
@@ -183,10 +183,10 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: foršāks, tavējais</li>
-      <li>DET: Mans, kāda, savam</li>
+      <li>ADJ: foršāks</li>
+      <li>DET: to, Mans, kurš, kāda, savam, tavējais</li>
       <li>NOUN: brālis, iemesla, kaimiņi, lietus, logu, matus, sudrabu, tētis, velosipēdu, vīram</li>
-      <li>PRON: viņš, to, Viņiem, kurš, viņa, viņam</li>
+      <li>PRON: viņš, Viņiem, viņa, viņam</li>
       <li>PROPN: Pētera, Pēteris, Pēteri, Sem, Smitu</li>
     </ul>
   </li>
@@ -217,11 +217,11 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: foršāks, liela, maza, sarkanā, tavējais</li>
-      <li>DET: Mans, kāda, savai, savam, Šī</li>
-      <li>NOUN: mašīnu, Marija, Meitene, bronzu, brālis, draudzenei, dzeršanu, galvaspilsētā, iemesla, istabu</li>
-      <li>PRON: tu, viņa, viņš, to, Es, Man, Viņai, kurš, viņam</li>
-      <li>PROPN: Pētera, Pēteris, Braunu, Džeina, Francijas, Marija, Mariju, Parīzē, Pēteri, Sem</li>
+      <li>ADJ: foršāks, liela, maza, sarkanā</li>
+      <li>DET: to, Mans, kurš, kāda, savai, savam, tavējais, Šī</li>
+      <li>NOUN: mašīnu, Meitene, bronzu, brālis, draudzenei, dzeršanu, galvaspilsētā, iemesla, istabu, jausmas</li>
+      <li>PRON: tu, viņa, viņš, Es, Man, Viņai, viņam</li>
+      <li>PROPN: Marija, Pētera, Pēteris, Braunu, Džeina, Francijas, Mariju, Parīzē, Pēteri, Sem</li>
       <li>VERB-Fin: atver, domā, gribi, nevarēju, skaties, varēsi</li>
       <li>VERB-Part: piegādāta</li>
     </ul>
@@ -235,8 +235,9 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Acc
     <ul>
+      <li>DET: to</li>
       <li>NOUN: mašīnu, bronzu, dzeršanu, istabu, logu, matus, smēķēšanu, sudrabu, velosipēdu, vēstuli</li>
-      <li>PRON: to, ko</li>
+      <li>PRON: ko</li>
       <li>PROPN: Braunu, Mariju, Pēteri, Smitu</li>
     </ul>
   </li>
@@ -276,11 +277,11 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: foršāks, liela, maza, tavējais</li>
-      <li>DET: Mans, Šī</li>
-      <li>NOUN: Marija, Meitene, brālis, kaimiņi, lietus, tētis, valsts, vēstule</li>
-      <li>PRON: tu, viņa, viņš, Es, kurš</li>
-      <li>PROPN: Pēteris, Džeina, Marija</li>
+      <li>ADJ: foršāks, liela, maza</li>
+      <li>DET: Mans, kurš, tavējais, Šī</li>
+      <li>NOUN: Meitene, brālis, kaimiņi, lietus, tētis, valsts, vēstule</li>
+      <li>PRON: tu, viņa, viņš, Es</li>
+      <li>PROPN: Marija, Pēteris, Džeina</li>
       <li>VERB-Part: piegādāta</li>
     </ul>
   </li>
@@ -302,7 +303,7 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Def
     <ul>
-      <li>ADJ: tavējais</li>
+      <li>DET: tavējais</li>
     </ul>
   </li>
 </ul>
@@ -334,8 +335,9 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: liela, maza, sarkanā, tavējais</li>
+      <li>ADJ: liela, maza, sarkanā</li>
       <li>ADV: ātri</li>
+      <li>DET: tavējais</li>
       <li>VERB-Part: piegādāta</li>
     </ul>
   </li>
@@ -358,7 +360,7 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Pos
     <ul>
-      <li>AUX-Fin: ir</li>
+      <li>AUX-Fin: ir, tika</li>
       <li>VERB-Fin: uzrakstīja, apskāvās, atstāja, atver, centās, domā, gribi, ieguva, lika, līst</li>
       <li>VERB-Inf: apgriezt, atmest, atnākt, iet, izvēlēties, nomazgāt, tikt</li>
       <li>VERB-Part: piegādāta</li>
@@ -397,7 +399,7 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: ir</li>
+      <li>AUX-Fin: ir, tika</li>
       <li>VERB-Fin: uzrakstīja, Nevarēja, apskāvās, atstāja, centās, domā, gribi, ieguva, lika, līst</li>
     </ul>
   </li>
@@ -418,6 +420,7 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Past
     <ul>
+      <li>AUX-Fin: tika</li>
       <li>VERB-Fin: uzrakstīja, Nevarēja, apskāvās, atstāja, centās, ieguva, lika, neizdarīja, nevarēju, nokrāsoja</li>
       <li>VERB-Part: piegādāta</li>
     </ul>
@@ -440,7 +443,7 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Act
     <ul>
-      <li>AUX-Fin: ir</li>
+      <li>AUX-Fin: ir, tika</li>
       <li>VERB-Fin: uzrakstīja, Nevarēja, apskāvās, atstāja, atver, centās, domā, gribi, ieguva, lika</li>
     </ul>
   </li>
@@ -461,7 +464,7 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Fh
     <ul>
-      <li>AUX-Fin: ir</li>
+      <li>AUX-Fin: ir, tika</li>
       <li>VERB-Fin: uzrakstīja, Nevarēja, apskāvās, atstāja, centās, domā, gribi, ieguva, lika, līst</li>
     </ul>
   </li>
@@ -478,8 +481,7 @@ This work was supported by the State Research Programme's project [Research on M
   <li>Dem
     <ul>
       <li>ADV: tad</li>
-      <li>DET: Šī</li>
-      <li>PRON: to</li>
+      <li>DET: to, Šī</li>
     </ul>
   </li>
 </ul>
@@ -513,7 +515,7 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: kurš</li>
+      <li>DET: kurš</li>
     </ul>
   </li>
 </ul>
@@ -569,9 +571,9 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: ir</li>
-      <li>DET: Šī</li>
-      <li>PRON: viņa, viņš, to, Viņai, Viņiem, viņam</li>
+      <li>AUX-Fin: ir, tika</li>
+      <li>DET: to, Šī</li>
+      <li>PRON: viņa, viņš, Viņai, Viņiem, viņam</li>
       <li>VERB-Fin: uzrakstīja, Nevarēja, apskāvās, atstāja, centās, ieguva, lika, līst, nav, neizdarīja</li>
     </ul>
   </li>
@@ -592,7 +594,7 @@ This work was supported by the State Research Programme's project [Research on M
 </ul>
 
 <ul>
-<li>This corpus does not contain auxiliaries.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: tikt.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -602,8 +604,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Nom (4)</li>
-      <li>VERB-Fin--PRON-Nom (12)</li>
+      <li>VERB-Fin--NOUN-Nom (3)</li>
+      <li>VERB-Fin--PRON-Nom (11)</li>
     </ul>
   </li>
 </ul>
@@ -612,7 +614,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN-Acc (6)</li>
-      <li>VERB-Fin--PRON-Acc (2)</li>
       <li>VERB-Inf--NOUN-Acc (3)</li>
     </ul>
   </li>
@@ -632,7 +633,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 1 relation subtypes: <a>flat:name</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 12 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>aux</a>, <a>nummod</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>This corpus uses 4 relation subtypes: <a>advmod:emph</a>, <a>advmod:neg</a>, <a>aux:pass</a>, <a>flat:name</a></li>
+<li>The following 2 main types are not used alone, they are always subtyped: <a>aux</a>, <a>flat</a></li>
+<li>The following 11 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>nummod</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

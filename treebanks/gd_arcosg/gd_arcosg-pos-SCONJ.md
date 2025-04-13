@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Scottish_Gaelic-ARCOSG: POS Tags: `SCONJ`
 
 There are 63 `SCONJ` lemmas (1%), 65 `SCONJ` types (1%) and 1081 `SCONJ` tokens (1%).
-Out of 17 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 10 in number of types and 13 in number of tokens.
+Out of 17 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 10 in number of types and 14 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>mar, nuair, ma, ged, far, 's, agus, gus, mur, mus</em>
 
@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>mar</em> (<tt><a href="gd_arcosg-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.031746 (the average of all parts of speech is 1.302372).
+The form / lemma ratio of `SCONJ` is 1.031746 (the average of all parts of speech is 1.302531).
 
 The 1st highest number of forms (2) was observed with the lemma “'ar”: <em>'ar, ‘ar</em>.
 

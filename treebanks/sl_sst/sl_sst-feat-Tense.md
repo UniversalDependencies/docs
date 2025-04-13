@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fut`, `Pres`.
 
-10299 tokens (13%) have a non-empty value of `Tense`.
-1525 types (11%) occur at least once with a non-empty value of `Tense`.
-879 lemmas (12%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (5847; 8% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (4452; 6% instances).
+10297 tokens (10%) have a non-empty value of `Tense`.
+1524 types (11%) occur at least once with a non-empty value of `Tense`.
+878 lemmas (12%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (5838; 6% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (4459; 5% instances).
 
 ### `VERB`
 
-5847 <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Tense`.
+5838 <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5847; 100%), <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5847; 100%), <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5847; 100%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4147; 71%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4121; 70%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (3231; 55%), <tt><a href="sl_sst-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2974; 51%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5838; 100%), <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5838; 100%), <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5838; 100%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4149; 71%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4112; 70%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (3225; 55%), <tt><a href="sl_sst-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2975; 51%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (125; 2% of non-empty `Tense`): <em>bo, bom, bomo, boš, bodo, bojo, bosta, bova, boste</em>
-* `Pres` (5722; 98% of non-empty `Tense`): <em>je, vem, veš, mislim, so, ni, ima, pravi, imamo, gre</em>
-* `EMPTY` (4201): <em>recimo, bilo, rekel, bil, imeli, rekla, bila, imela, šla, daj</em>
+* `Fut` (124; 2% of non-empty `Tense`): <em>bo, bom, bomo, boš, bodo, bojo, bosta, bova, boste</em>
+* `Pres` (5714; 98% of non-empty `Tense`): <em>je, vem, veš, mislim, so, ni, ima, pravi, imamo, gre</em>
+* `EMPTY` (4200): <em>recimo, bilo, rekel, bil, imeli, rekla, bila, imela, šla, daj</em>
 
 <table>
   <tr><th>Paradigm <i>biti</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th></tr>
@@ -45,19 +45,19 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
   <tr><td><tt><tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>so</em></td><td><em>bodo, bojo</em></td></tr>
 </table>
 
-`Tense` seems to be **lexical feature** of `VERB`. 100% lemmas (878) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `VERB`. 100% lemmas (877) occur only with one value of `Tense`.
 
 ### `AUX`
 
-4452 <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> tokens (85% of all `AUX` tokens) have a non-empty value of `Tense`.
+4459 <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> tokens (85% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4452; 100%), <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4452; 100%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4111; 92%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3145; 71%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (3005; 67%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4459; 100%), <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4459; 100%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4118; 92%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3151; 71%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (3010; 68%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (527; 12% of non-empty `Tense`): <em>bo, bom, bomo, boš, boste, bodo, bojo, bova, bosta</em>
-* `Pres` (3925; 88% of non-empty `Tense`): <em>je, so, sem, smo, ni, si, ste, sta, nisem, sva</em>
-* `EMPTY` (777): <em>bi, bilo, bila, bil, bili, biti, bile, bodite, bodi, bodita</em>
+* `Fut` (529; 12% of non-empty `Tense`): <em>bo, bom, bomo, boš, boste, bodo, bojo, bova, bosta</em>
+* `Pres` (3930; 88% of non-empty `Tense`): <em>je, so, sem, smo, ni, si, ste, sta, nisem, sva</em>
+* `EMPTY` (778): <em>bi, bilo, bila, bil, bili, biti, bile, bodite, bodi, bodita</em>
 
 <table>
   <tr><th>Paradigm <i>biti</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th></tr>
@@ -84,14 +84,14 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (545; 65%),
-<tt>VERB --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> VERB</tt> (419; 69%),
+<tt>VERB --[<tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (546; 64%),
+<tt>VERB --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> VERB</tt> (415; 69%),
 <tt>VERB --[<tt><a href="sl_sst-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (251; 57%),
-<tt>VERB --[<tt><a href="sl_sst-dep-parataxis-restart.html">parataxis:restart</a></tt>]--> VERB</tt> (63; 57%),
-<tt>VERB --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (56; 89%),
+<tt>VERB --[<tt><a href="sl_sst-dep-parataxis-restart.html">parataxis:restart</a></tt>]--> VERB</tt> (65; 58%),
+<tt>VERB --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (55; 89%),
 <tt>AUX --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (19; 100%),
 <tt>AUX --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (3; 100%),
-<tt>VERB --[<tt><a href="sl_sst-dep-iobj.html">iobj</a></tt>]--> VERB</tt> (3; 75%),
+<tt>VERB --[<tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (3; 75%),
 <tt>AUX --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<tt><a href="sl_sst-dep-parataxis-restart.html">parataxis:restart</a></tt>]--> VERB</tt> (2; 100%).
 

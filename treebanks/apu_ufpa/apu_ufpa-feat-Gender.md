@@ -11,22 +11,22 @@ It occurs with 2 different values: `Fem`, `Masc`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt>, <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt>, <tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt>, <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt>.
 
-206 tokens (21%) have a non-empty value of `Gender`.
-101 types (28%) occur at least once with a non-empty value of `Gender`.
+218 tokens (22%) have a non-empty value of `Gender`.
+104 types (29%) occur at least once with a non-empty value of `Gender`.
 79 lemmas (28%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 6 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (132; 13% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (58; 6% instances), <tt><a href="apu_ufpa-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="apu_ufpa-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (144; 15% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (58; 6% instances), <tt><a href="apu_ufpa-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="apu_ufpa-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-132 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (45% of all `NOUN` tokens) have a non-empty value of `Gender`.
+144 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (49% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (100; 76%), <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (97; 73%), <tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=Nom</tt> (93; 70%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (86; 65%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (114; 79%), <tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (112; 78%), <tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=Nom</tt> (103; 72%), <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (100; 69%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (98; 68%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (17; 13% of non-empty `Gender`): <em>maky, nynyru, pynyru, Sytuwakuru, amarute, sytu, syture, ytanuru</em>
-* `Masc` (115; 87% of non-empty `Gender`): <em>ximaky, awiri, yky, kyky, kãkity, kãkiti, ãkiti, ũty, ithupa, iãkynytikinhi</em>
-* `EMPTY` (164): <em>iãtã, awinhi, ywãtãa, aapuku, aapukutxi, kananeã, sytu, ũimiakury, apikumunhi, kumyry</em>
+* `Fem` (17; 12% of non-empty `Gender`): <em>maky, nynyru, pynyru, Sytuwakuru, amarute, sytu, syture, ytanuru</em>
+* `Masc` (127; 88% of non-empty `Gender`): <em>ximaky, aapuku, awiri, yky, kyky, kãkity, aapukutxi, kãkiti, ãkiti, ũty</em>
+* `EMPTY` (152): <em>iãtã, awinhi, ywãtãa, kananeã, sytu, ũimiakury, apikumunhi, kumyry, ũtanyry, aiku</em>
 
 `Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (65) occur only with one value of `Gender`.
 
@@ -108,6 +108,5 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="apu_ufpa-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="apu_ufpa-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> PRON</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="apu_ufpa-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> PROPN</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="apu_ufpa-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>PRON --[<tt><a href="apu_ufpa-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1; 100%).
 

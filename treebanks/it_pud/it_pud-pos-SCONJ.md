@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  <em>che</em> (<tt><a href="it_pud-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.285799).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.285855).
 
 The 1st highest number of forms (1) was observed with the lemma “Quando”: <em>Quando</em>.
 

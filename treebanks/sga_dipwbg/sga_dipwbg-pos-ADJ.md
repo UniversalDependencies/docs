@@ -6,10 +6,10 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_Irish-DipWBG: POS Tags: `ADJ`
 
-There are 21 `ADJ` lemmas (11%), 21 `ADJ` types (8%) and 23 `ADJ` tokens (5%).
-Out of 13 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 6 in number of types and 9 in number of tokens.
+There are 20 `ADJ` lemmas (11%), 21 `ADJ` types (8%) and 23 `ADJ` tokens (5%).
+Out of 12 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 6 in number of types and 9 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: <em>cotarsnae, il, ansae, athramail, domundae, domunde, díade, dían, ecnae, essamin</em>
+The 10 most frequent `ADJ` lemmas: <em>cotarsnae, domundae, il, ansae, athramail, díade, dían, ecne, essamin, foirbthe</em>
 
 The 10 most frequent `ADJ` types:  <em>chotarsne, domunde, adthramli, diadi, dían, essamin, foirbthi, frecṅdircc, gáitha, il</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>uili</em> (<tt><a href="sga_dipwbg-po
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.427807).
+The form / lemma ratio of `ADJ` is 1.050000 (the average of all parts of speech is 1.430108).
 
 The 1st highest number of forms (2) was observed with the lemma “il”: <em>il, lia</em>.
 

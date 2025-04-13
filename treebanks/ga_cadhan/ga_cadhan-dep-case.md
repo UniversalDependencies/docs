@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `case`: <tt><a href="ga_cadhan-dep-case-voc.html">case:voc</a></tt>.
 
-519 nodes (11%) are attached to their parents as `case`.
+518 nodes (11%) are attached to their parents as `case`.
 
-519 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.35452793834297.
+518 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.35521235521236.
 
-The following 10 pairs of parts of speech are connected with `case`: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (435; 84% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (57; 11% instances), <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (11; 2% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-X.html">X</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `case`: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (435; 84% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (57; 11% instances), <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (11; 2% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,10 +40,10 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 15	fgColor:white
 # visual-style 15 14 case	color:blue
 1	Do	de	ADP	_	_	2	case	_	_
-2	ríoghaibh	rí	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	0	root	_	_
-3	Tuaithe	tuath	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+2	ríoghaibh	rí	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur	0	root	_	_
+3	Tuaithe	tuath	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	_
 4	Dé	Dia	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	_
-5	Danann	Danann	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+5	Danann	Danann	PROPN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	nmod	_	_
 6	ann	i	ADP	_	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
 7	so	seo	DET	_	PronType=Dem	6	det	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	2	punct	_	_
@@ -51,7 +51,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 10	d'	de	ADP	_	_	11	case	_	SpaceAfter=No
 11	fhad	fad	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	2	conj	_	_
 12	a	a	DET	_	Number=Plur|Person=3|Poss=Yes	13	nmod:poss	_	_
-13	bhflaithis	flaitheas	NOUN	_	Case=Nom|Form=Ecl|Gender=Masc|Number=Plur	11	nmod	_	_
+13	bhflaithis	flaitheas	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Plur	11	nmod	_	_
 14	ar	ar	ADP	_	_	15	case	_	_
 15	Éirinn	Éire	PROPN	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n

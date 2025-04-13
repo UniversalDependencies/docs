@@ -171,7 +171,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (723; 30% of non-empty `Number`): <em>que, qui, nobis, nos, eorum, ea, quibus, vobis, quorum, quos</em>
 * `Sing` (1662; 70% of non-empty `Number`): <em>quod, qui, quo, que, eius, quam, quid, me, te, qua</em>
-* `EMPTY` (302): <em>se, sibi, nichil, sui, invicem, nil, sese, nihil, suimet</em>
+* `EMPTY` (301): <em>se, sibi, nichil, sui, invicem, nil, sese, nihil, suimet</em>
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -276,14 +276,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="la_udante-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1799; 99%),
+<tt>NOUN --[<tt><a href="la_udante-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1800; 99%),
 <tt>NOUN --[<tt><a href="la_udante-dep-det.html">det</a></tt>]--> DET</tt> (1529; 97%),
-<tt>NOUN --[<tt><a href="la_udante-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1176; 74%),
+<tt>NOUN --[<tt><a href="la_udante-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1177; 74%),
 <tt>VERB --[<tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1036; 89%),
 <tt>VERB --[<tt><a href="la_udante-dep-obl.html">obl</a></tt>]--> NOUN</tt> (959; 53%),
 <tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (851; 82%),
 <tt>NOUN --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> NOUN</tt> (617; 91%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (612; 70%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (613; 70%),
 <tt>NOUN --[<tt><a href="la_udante-dep-cop.html">cop</a></tt>]--> AUX</tt> (466; 78%),
 <tt>VERB --[<tt><a href="la_udante-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (459; 89%).
 

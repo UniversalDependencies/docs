@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Irish-Cadhan: POS Tags: `PRON`
 
-There are 23 `PRON` lemmas (2%), 49 `PRON` types (2%) and 209 `PRON` tokens (4%).
-Out of 16 observed tags, the rank of `PRON` is: 8 in number of lemmas, 7 in number of types and 9 in number of tokens.
+There are 22 `PRON` lemmas (2%), 49 `PRON` types (2%) and 209 `PRON` tokens (4%).
+Out of 15 observed tags, the rank of `PRON` is: 8 in number of lemmas, 7 in number of types and 9 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>sé, é, sin, féin, mé, tú, iad, cé, siad, seo</em>
 
 The 10 most frequent `PRON` types:  <em>sé, é, sin, féin, mé, siad, tú, hé, iad, so</em>
 
-The 10 most frequent ambiguous lemmas: <em>sé</em> (<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 38, <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt> 3), <em>sin</em> (<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 19, <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> 14), <em>cé</em> (<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 9, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 5), <em>seo</em> (<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> 16, <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 8), <em>a</em> (<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 125, <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> 71, <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 5, <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 2), <em>ar</em> (<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 119, <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 3, <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 2, <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> 1), <em>is</em> (<tt><a href="ga_cadhan-pos-AUX.html">AUX</a></tt> 81, <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 3, <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>sé</em> (<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 38, <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt> 3), <em>sin</em> (<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 19, <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> 14), <em>cé</em> (<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 9, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 5), <em>seo</em> (<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> 16, <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 8), <em>a</em> (<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 124, <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> 73, <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 5, <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 1), <em>ar</em> (<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 119, <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 3, <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 2, <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>sé</em> (<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 34, <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt> 2), <em>sin</em> (<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 18, <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> 9), <em>so</em> (<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> 10, <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 6), <em>a</em> (<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 72, <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> 62, <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 7, <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 5), <em>cé</em> (<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 3, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 2), <em>se</em> (<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 4, <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> 2), <em>ar</em> (<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 86, <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> 7, <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 2, <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 1, <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> 1), <em>Gidh</em> (<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 1, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>sé</em> (<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 34, <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt> 2), <em>sin</em> (<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 18, <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> 9), <em>so</em> (<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> 10, <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 6), <em>a</em> (<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 71, <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> 63, <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 7, <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 5), <em>cé</em> (<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 3, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 2), <em>se</em> (<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 4, <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> 2), <em>ar</em> (<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 86, <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> 7, <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 2, <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 1, <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> 1), <em>Gidh</em> (<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 1, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>sé</em>
@@ -28,8 +28,8 @@ The 10 most frequent ambiguous types:  <em>sé</em> (<tt><a href="ga_cadhan-pos-
   * <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> 10: <em>Do ríoghaibh Tuaithe Dé Danann ann <b>so</b> , agus d' fhad a bhflaithis ar Éirinn .</em>
   * <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 6: <em>Adubhairt tú <b>so</b> gu fírinneach .</em>
 * <em>a</em>
-  * <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 72: <em>Chuala na daoine <b>a</b> bhí amuigh 'san bpáirc an gleó .</em>
-  * <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> 62: <em>Is aoibhin saoghal doibh muna déirc é <b>a</b> dheire .</em>
+  * <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 71: <em>Chuala na daoine <b>a</b> bhí amuigh 'san bpáirc an gleó .</em>
+  * <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> 63: <em>Is aoibhin saoghal doibh muna déirc é <b>a</b> dheire .</em>
   * <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 7: <em>Budh luaithe liomsa ina libh le toil De d' fhios an Righthigh mo bhuille sguir as se so dhíobhse <b>a</b> ndeireadh mo thermo .</em>
   * <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 5: <em>Déna an t-inchreachadh dhlighe o thús go eirr th' aimsire sgrúd <b>a</b> bhfuair tú gach tan 's <b>a</b> ndearnais ris san saoghal .</em>
 * <em>cé</em>
@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>sé</em> (<tt><a href="ga_cadhan-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.130435 (the average of all parts of speech is 1.659916).
+The form / lemma ratio of `PRON` is 2.227273 (the average of all parts of speech is 1.662997).
 
 The 1st highest number of forms (6) was observed with the lemma “cé”: <em>Cía, Gidh, cia, créd, cé, céard</em>.
 

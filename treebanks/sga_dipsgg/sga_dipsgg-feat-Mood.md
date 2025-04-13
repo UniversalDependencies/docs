@@ -16,16 +16,16 @@ The feature is used with 2 part-of-speech tags: <tt><a href="sga_dipsgg-pos-VERB
 
 ### `VERB`
 
-28 <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Mood`.
+28 <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> tokens (88% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21; 75%), <tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=3</tt> (19; 68%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sga_dipsgg-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21; 75%), <tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=3</tt> (19; 68%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (1; 4% of non-empty `Mood`): <em>Gaib</em>
 * `Ind` (24; 86% of non-empty `Mood`): <em>chain, braigim, cél, ecmoṅgat, epur, farcai, fuasna, giuil, llega, maraith</em>
 * `Sub` (3; 11% of non-empty `Mood`): <em>cóima, roib, samlar</em>
-* `EMPTY` (1): <em>adest</em>
+* `EMPTY` (4): <em>adest, dicit, fit, pepedi</em>
 
 <table>
   <tr><th>Paradigm <i>attá</i></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>
@@ -59,7 +59,6 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="sga_dipsgg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="sga_dipsgg-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="sga_dipsgg-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-PoSTWITA: POS Tags: `NUM`
 
-There are 363 `NUM` lemmas (3%), 364 `NUM` types (2%) and 1414 `NUM` tokens (1%).
+There are 363 `NUM` lemmas (2%), 364 `NUM` types (2%) and 1414 `NUM` tokens (1%).
 Out of 16 observed tags, the rank of `NUM` is: 7 in number of lemmas, 7 in number of types and 14 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>2, 3, due, 1, 5, 4, 7, 6, 10, 20</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>1</em> (<tt><a href="it_postwita-pos-
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.002755 (the average of all parts of speech is 1.310882).
+The form / lemma ratio of `NUM` is 1.002755 (the average of all parts of speech is 1.310684).
 
 The 1st highest number of forms (2) was observed with the lemma “mille”: <em>mille, milleeeee</em>.
 

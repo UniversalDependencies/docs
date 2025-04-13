@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-39 nodes (6%) are attached to their parents as `obj`.
+40 nodes (6%) are attached to their parents as `obj`.
 
-39 instances of `obj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.41025641025641.
+40 instances of `obj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.4.
 
-The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> (31; 79% instances), <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-PRON.html">PRON</a></tt> (3; 8% instances), <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="az_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="az_tuecl-pos-ADV.html">ADV</a></tt>-<tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> (32; 80% instances), <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-PRON.html">PRON</a></tt> (3; 8% instances), <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="az_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="az_tuecl-pos-ADV.html">ADV</a></tt>-<tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

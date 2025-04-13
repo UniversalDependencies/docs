@@ -61,7 +61,7 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 6	很	很	ADV	_	_	7	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
 7	喜歡	喜歡	VERB	_	_	9	acl	_	SpaceAfter=No|Translit=xǐhuan|LTranslit=xǐhuan
 8	的	的	PART	_	_	7	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-9	悟空	悟空	PROPN	_	_	0	root	_	SpaceAfter=No|Translit=wùkōng|LTranslit=wùkōng
+9	悟空	悟空	PROPN	_	_	0	root	_	SpaceAfter=No|Translit=wùkōng|LTranslit=wùkōng|Cxn=Interrogative-Polar-Direct|CxnElt=9:Interrogative-Polar-Direct.Clause
 10	嗎	嗎	PART	_	_	9	discourse:sp	_	SpaceAfter=No|Translit=ma|LTranslit=ma
 11	？	？	PUNCT	_	_	9	punct	_	SpaceAfter=No|Translit=?|LTranslit=?
 

@@ -64,11 +64,11 @@ The 2nd highest number of forms (5) was observed with the lemma “pesseta”: <
 
 The 3rd highest number of forms (3) was observed with the lemma “article”: <em>ART, article, articles</em>.
 
-`NOUN` occurs with 4 features: <tt><a href="ca_ancora-feat-Number.html">Number</a></tt> (89723; 91% instances), <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt> (86128; 87% instances), <tt><a href="ca_ancora-feat-AdvType.html">AdvType</a></tt> (1680; 2% instances), <tt><a href="ca_ancora-feat-Foreign.html">Foreign</a></tt> (9; 0% instances)
+`NOUN` occurs with 3 features: <tt><a href="ca_ancora-feat-Number.html">Number</a></tt> (89723; 91% instances), <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt> (86128; 87% instances), <tt><a href="ca_ancora-feat-Foreign.html">Foreign</a></tt> (9; 0% instances)
 
-`NOUN` occurs with 6 feature-value pairs: `AdvType=Tim`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
+`NOUN` occurs with 5 feature-value pairs: `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
 
-`NOUN` occurs with 11 feature combinations.
+`NOUN` occurs with 10 feature combinations.
 The most frequent feature combination is `Gender=Fem|Number=Sing` (30486 tokens).
 Examples: <em>obra, empresa, llei, ciutat, zona, cosa, situació, banda, manera, setmana</em>
 

@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 * `Act` (3467; 31% of non-empty `Voice`): <em>né, eu, mort, fait, née, pu, devenu, pris, permis, reçu</em>
 * `Pass` (7701; 69% of non-empty `Voice`): <em>située, situé, nommé, connu, utilisé, réalisé, appelé, créé, mis, sorti</em>
-* `EMPTY` (20603): <em>a, peut, fait, faire, partir, trouve, devient, doit, ont, permet</em>
+* `EMPTY` (20605): <em>a, peut, fait, faire, partir, trouve, devient, doit, ont, permet</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>

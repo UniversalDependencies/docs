@@ -82,7 +82,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 7	considerate	considera	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	2	csubj	_	_
 8	femei	femeie	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	7	obj	_	_
 9	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
-10	nesexy	unsexy	ADJ	_	Foreign=Yes|Gender=Masc|Number=Sing|Typo=Yes	8	amod	_	CorrectForm=unsexy|SpaceAfter=No|Lang=en
+10	nesexy	unsexy	ADJ	_	Foreign=Yes|Typo=Yes	8	amod	_	CorrectForm=unsexy|SpaceAfter=No|Lang=en
 11	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
 13	Schiloadele	schilod	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	25	nsubj	_	_

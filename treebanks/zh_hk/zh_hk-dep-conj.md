@@ -22,8 +22,8 @@ The following 25 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 7 conj	color:blue
-1	收拾	收拾	VERB	_	_	0	root	_	SpaceAfter=No|Translit=shōushi|LTranslit=shōushi
-2	好	好	ADJ	_	_	1	compound:vv	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo
+1	收拾	收拾	VERB	_	_	0	root	_	SpaceAfter=No|Translit=shōushi|LTranslit=shōushi|Cxn=Resultative|CxnElt=1:Resultative.Event
+2	好	好	ADJ	_	_	1	compound:vv	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo|CxnElt=1:Resultative.ResultState
 3	哥哥	哥哥	NOUN	_	_	5	nmod	_	SpaceAfter=No|Translit=gēgē|LTranslit=gēgē
 4	的	的	PART	_	_	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	物品	物品	NOUN	_	_	1	obj	_	SpaceAfter=No|Translit=wùpǐn|LTranslit=wùpǐn

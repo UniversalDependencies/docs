@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="is_icepahc-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="is_icepahc-dep-flat-name.html">flat:name</a></tt>.
 
-900 nodes (0%) are attached to their parents as `flat:foreign`.
+892 nodes (0%) are attached to their parents as `flat:foreign`.
 
-900 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.48666666666667.
+892 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.40582959641256.
 
-The following 16 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="is_icepahc-pos-X.html">X</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (733; 81% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (62; 7% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (29; 3% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (18; 2% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (14; 2% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt>-<tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (13; 1% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (8; 1% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (7; 1% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="is_icepahc-pos-X.html">X</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (737; 83% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (58; 7% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (28; 3% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (15; 2% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (14; 2% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt>-<tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (12; 1% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (8; 1% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (7; 1% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,7 +45,7 @@ The following 16 pairs of parts of speech are connected with `flat:foreign`: <tt
 6	fugla	fugl	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	7	nmod:poss	_	IFD_tag=nkfe
 7	best	vel	ADV	ADVS	Degree=Sup	4	advmod	_	IFD_tag=aae|SpaceAfter=No
 8	"	"	PUNCT	"	_	7	punct	_	IFD_tag="
-9	et.	et.	X	FW	_	4	flat:foreign	_	IFD_tag=x|SpaceAfter=No
+9	et.	et.	X	FW	Foreign=Yes	4	flat:foreign	_	IFD_tag=x|SpaceAfter=No
 10	.	.	PUNCT	.	_	9	punct	_	IFD_tag=.
 
 ~~~
@@ -68,7 +68,7 @@ The following 16 pairs of parts of speech are connected with `flat:foreign`: <tt
 9	sem	sem	SCONJ	C	_	8	fixed	_	IFD_tag=c
 10	kirkjueign	kirkjueign	NOUN	N-N	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	8	advcl	_	IFD_tag=nveþ
 11	og	og	CCONJ	CONJ	_	10	cc	_	IFD_tag=c
-12	beneficium	beneficium	X	FW	Case=Dat|Definite=Ind|Gender=Fem|Number=Plur	10	flat:foreign	_	IFD_tag=nvfþ|SpaceAfter=No
+12	beneficium	beneficium	X	FW	Foreign=Yes	10	flat:foreign	_	IFD_tag=nvfþ|SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	IFD_tag=.
 
 ~~~

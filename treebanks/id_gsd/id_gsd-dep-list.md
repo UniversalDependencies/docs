@@ -41,7 +41,7 @@ The following 7 pairs of parts of speech are connected with `list`: <tt><a href=
 17	West	west	PROPN	F--	_	11	nmod	_	Morf=^west<f>_F--$
 18	Image	image	X	F--	Foreign=Yes	1	list	_	SpaceAfter=No|Morf=^image<f>_F--$
 19	:	:	PUNCT	Z--	_	20	punct	_	Morf=^:<z>_Z--$
-20	Restored	restored	PROPN	X--	_	18	appos	_	Morf=^restored<x>_X--$
+20	Restored	restored	X	F--	Foreign=Yes	18	appos	_	Morf=^restored<x>_X--$
 21	rail	rail	X	F--	Foreign=Yes	20	dep	_	Morf=^rail<f>_F--$
 22	depot	depot	X	F--	Foreign=Yes	20	flat:foreign	_	Morf=^depot<f>_F--$
 23	in	in	X	X--	Foreign=Yes	20	flat:foreign	_	Morf=^in<f>_F--$
@@ -126,7 +126,7 @@ The following 7 pairs of parts of speech are connected with `list`: <tt><a href=
 17	West	west	PROPN	F--	_	11	nmod	_	Morf=^west<f>_F--$
 18	Image	image	X	F--	Foreign=Yes	1	list	_	SpaceAfter=No|Morf=^image<f>_F--$
 19	:	:	PUNCT	Z--	_	20	punct	_	Morf=^:<z>_Z--$
-20	Restored	restored	PROPN	X--	_	18	appos	_	Morf=^restored<x>_X--$
+20	Restored	restored	X	F--	Foreign=Yes	18	appos	_	Morf=^restored<x>_X--$
 21	rail	rail	X	F--	Foreign=Yes	20	dep	_	Morf=^rail<f>_F--$
 22	depot	depot	X	F--	Foreign=Yes	20	flat:foreign	_	Morf=^depot<f>_F--$
 23	in	in	X	X--	Foreign=Yes	20	flat:foreign	_	Morf=^in<f>_F--$
@@ -211,7 +211,7 @@ The following 7 pairs of parts of speech are connected with `list`: <tt><a href=
 17	West	west	PROPN	F--	_	11	nmod	_	Morf=^west<f>_F--$
 18	Image	image	X	F--	Foreign=Yes	1	list	_	SpaceAfter=No|Morf=^image<f>_F--$
 19	:	:	PUNCT	Z--	_	20	punct	_	Morf=^:<z>_Z--$
-20	Restored	restored	PROPN	X--	_	18	appos	_	Morf=^restored<x>_X--$
+20	Restored	restored	X	F--	Foreign=Yes	18	appos	_	Morf=^restored<x>_X--$
 21	rail	rail	X	F--	Foreign=Yes	20	dep	_	Morf=^rail<f>_F--$
 22	depot	depot	X	F--	Foreign=Yes	20	flat:foreign	_	Morf=^depot<f>_F--$
 23	in	in	X	X--	Foreign=Yes	20	flat:foreign	_	Morf=^in<f>_F--$

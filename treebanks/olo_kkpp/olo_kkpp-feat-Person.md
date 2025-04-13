@@ -75,7 +75,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (12; 32% of non-empty `Person`): <em>minun, minul, Minä, meijän, myö</em>
 * `2` (1; 3% of non-empty `Person`): <em>sinuu</em>
 * `3` (24; 65% of non-empty `Person`): <em>häi, hyö, Heil, Hänel, heidy, händy, hänele, hänen, hänes</em>
-* `EMPTY` (66): <em>tämän, se, toine, midä, toizel, toizen, tämä, Midäbo, iče, ken</em>
+* `EMPTY` (65): <em>tämän, se, toine, midä, toizel, toizen, tämä, Midäbo, iče, ken</em>
 
 ### `CCONJ`
 

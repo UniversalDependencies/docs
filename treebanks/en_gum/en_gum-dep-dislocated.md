@@ -22,7 +22,7 @@ The following 20 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 3 dislocated	color:blue
-1	Or	or	CCONJ	CC	_	12	cc	12:cc	Discourse=joint-disjunction_m:72->69:1:dm-or-483
+1	Or	or	CCONJ	CC	_	12	cc	12:cc	Discourse=joint-disjunction_m:72->69:1:dm-or-483|PDTB=Explicit:Expansion.Disjunction:or:483:463-482:484-497
 2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	Entity=(40-substance-new-cf4-2-sgl
 3	cloud	cloud	NOUN	NN	Number=Sing	12	dislocated	12:dislocated	Entity=40)|SpaceAfter=No
 4	,	,	PUNCT	,	_	7	punct	7:punct	_
@@ -30,7 +30,7 @@ The following 20 pairs of parts of speech are connected with `dislocated`: <tt><
 6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	Entity=(41-substance-new-cf3-2-sgl
 7	air	air	NOUN	NN	Number=Sing	3	conj	3:conj:or|12:dislocated	_
 8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	9:nsubj	Discourse=elaboration-attribute:73->72:0:syn-mdf-489+syn-relcl-491|Entity=(13-person-giv:act-cf1*-1-ana)
-9	breathe	breathe	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	Entity=41)|SpaceAfter=No
+9	breathe	breathe	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	Entity=41)|MSeg=breath-e|SpaceAfter=No
 10	,	,	PUNCT	,	_	3	punct	3:punct	_
 11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	12:nsubj	Discourse=restatement-partial:74->69:2:ref-prs-468,493+sem-lxchn-469,494+ref-prs-470-481,495|Entity=(13-person-giv:act-cf1*-1-ana)
 12	call	call	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -47,7 +47,7 @@ The following 20 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 2 dislocated	color:blue
-1	Or	or	CCONJ	CC	_	2	cc	2:cc	Discourse=joint-disjunction_m:239->238:2:dm-or-1495
+1	Or	or	CCONJ	CC	_	2	cc	2:cc	Discourse=joint-disjunction_m:239->238:2:dm-or-1495|PDTB=Explicit:Expansion.Disjunction:or:1495:1464-1494:1496-1504
 2	ponies	pony	NOUN	NNS	Number=Plur	9	dislocated	9:dislocated	Entity=(118-animal-new-cf1-1-coref)|MSeg=ponie-s|SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	2:punct	_
 4	that	that	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	9:nsubj	Entity=(118-animal-giv:act-cf1-1-ana)
@@ -67,7 +67,7 @@ The following 20 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 6 dislocated	color:blue
-1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj|4:nsubj:xsubj	Discourse=organization-phatic:11->13:0:syn-intrp-55,57|Entity=(6-person-giv:act-cf1*-1-ana)|XML=<sic>
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj|4:nsubj:xsubj	Discourse=organization-phatic:11->13:0:syn-intrp-55,57|Entity=(6-person-giv:act-cf1*-1-ana)|PDTB=Implicit:Comparison.Concession.Arg2-as-denier:but:_:41-50:51-62|XML=<sic>
 2	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	reparandum	10:reparandum	_
 3	to	to	PART	TO	_	4	mark	4:mark	_
 4	be	be	AUX	VB	VerbForm=Inf	2	xcomp	2:xcomp	_

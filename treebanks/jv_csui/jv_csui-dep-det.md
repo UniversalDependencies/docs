@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-683 nodes (5%) are attached to their parents as `det`.
+682 nodes (5%) are attached to their parents as `det`.
 
-582 instances of `det` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.35578330893119.
+581 instances of `det` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.35483870967742.
 
-The following 10 pairs of parts of speech are connected with `det`: <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-DET.html">DET</a></tt> (536; 78% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-DET.html">DET</a></tt> (49; 7% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="jv_csui-pos-DET.html">DET</a></tt> (36; 5% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-DET.html">DET</a></tt> (20; 3% instances), <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="jv_csui-pos-DET.html">DET</a></tt> (15; 2% instances), <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="jv_csui-pos-DET.html">DET</a></tt> (13; 2% instances), <tt><a href="jv_csui-pos-X.html">X</a></tt>-<tt><a href="jv_csui-pos-DET.html">DET</a></tt> (9; 1% instances), <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="jv_csui-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="jv_csui-pos-DET.html">DET</a></tt>-<tt><a href="jv_csui-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `det`: <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-DET.html">DET</a></tt> (536; 79% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-DET.html">DET</a></tt> (49; 7% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="jv_csui-pos-DET.html">DET</a></tt> (36; 5% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-DET.html">DET</a></tt> (20; 3% instances), <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="jv_csui-pos-DET.html">DET</a></tt> (15; 2% instances), <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="jv_csui-pos-DET.html">DET</a></tt> (13; 2% instances), <tt><a href="jv_csui-pos-X.html">X</a></tt>-<tt><a href="jv_csui-pos-DET.html">DET</a></tt> (9; 1% instances), <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="jv_csui-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

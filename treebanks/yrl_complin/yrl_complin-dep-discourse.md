@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-32 nodes (0%) are attached to their parents as `discourse`.
+36 nodes (0%) are attached to their parents as `discourse`.
 
-25 instances of `discourse` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.8125.
+28 instances of `discourse` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.69444444444444.
 
-The following 5 pairs of parts of speech are connected with `discourse`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (18; 56% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (7; 22% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (5; 16% instances), <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `discourse`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (19; 53% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (8; 22% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (6; 17% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 6	,	,	PUNCT	PUNCT	_	9	punct	_	TokenRange=15:16
 7	makití	makití	ADV	ADVRC	AdvType=Loc|PronType=Int	9	advmod	_	TokenRange=17:23
 8	taá	taá	PART	CQ	PartType=Int	9	advmod	_	TokenRange=24:27
-9	ayawáu	yawáu	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=28:34
+9	ayawáu	yawáu	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=28:34
 10	?	?	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No|TokenRange=34:35
 
 ~~~
@@ -43,7 +43,7 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 2	fgColor:white
 # visual-style 2 4 discourse	color:blue
 1	Aé	aé	PRON	PRON	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
-2	kwera	kwera	ADJ	A	_	0	root	_	SpaceAfter=No|TokenRange=3:8
+2	kwera	kwera	NOUN	N	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=3:8
 3	,	,	PUNCT	PUNCT	_	4	punct	_	TokenRange=8:9
 4	taité	taité	INTJ	INTJ	_	2	discourse	_	SpaceAfter=No|TokenRange=10:15
 5	!	!	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=15:16
@@ -52,27 +52,20 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 12 discourse	color:blue
-1	Musapiri	musapiri	NUM	CARD	NumType=Card	2	nummod	_	TokenRange=0:8
-2	akayú	akayú	NOUN	N	Number=Sing	6	obl	_	TokenRange=9:14
-3	riré	riré	ADP	ADP	AdpType=Post	2	case	_	SpaceAfter=No|TokenRange=15:19
-4	,	,	PUNCT	PUNCT	_	2	punct	_	TokenRange=19:20
-5	yautí	yautí	NOUN	N	Number=Sing	6	nsubj	_	TokenRange=21:26
-6	uyuíri	yuíri	VERB	V	Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=27:33
-7	,	,	PUNCT	PUNCT	_	8	punct	_	TokenRange=33:34
-8	usenúi	senúi	VERB	V	Person=3|VerbForm=Fin	6	parataxis	_	SpaceAfter=No|TokenRange=35:41
-9	:	:	PUNCT	PUNCT	_	13	punct	_	TokenRange=41:42
-10	―	―	PUNCT	PUNCT	_	13	punct	_	TokenRange=42:43
-11	"	"	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No|TokenRange=43:44
-12	Oh	oh	INTJ	INTJ	_	13	discourse	_	TokenRange=45:47
-13	mikura	mikura	NOUN	N	Number=Sing	8	ccomp	_	SpaceAfter=No|TokenRange=48:54
-14	!	!	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No|TokenRange=54:55
-15	"	"	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No|TokenRange=55:56
-16	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=56:57
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 discourse	color:blue
+1	Ah	ah	INTJ	INTJ	_	6	discourse	_	SpaceAfter=No|TokenRange=0:2
+2	,	,	PUNCT	PUNCT	_	4	punct	_	TokenRange=2:3
+3	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=4:6
+4	membira	membira	NOUN	N	Number=Sing	6	vocative	_	SpaceAfter=No|TokenRange=7:14
+5	,	,	PUNCT	PUNCT	_	4	punct	_	TokenRange=14:15
+6	puxí	puxí	ADJ	A	_	0	root	_	TokenRange=16:20
+7	retana	retana	ADV	ADVS	AdvType=Deg	6	advmod	_	TokenRange=21:27
+8	indé	indé	PRON	PRON	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	SpaceAfter=No|TokenRange=28:32
+9	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=32:33
 
 ~~~
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 16 different values: `Abe`, `Abl`, `Acc`, `Ade`, `All`, `Com`, `Ela`, `Ess`, `Gen`, `Ill`, `Ine`, `Ins`, `Nom`, `Par`, `Ter`, `Tra`.
 
-748 tokens (46%) have a non-empty value of `Case`.
-522 types (69%) occur at least once with a non-empty value of `Case`.
+746 tokens (46%) have a non-empty value of `Case`.
+521 types (69%) occur at least once with a non-empty value of `Case`.
 384 lemmas (69%) occur at least once with a non-empty value of `Case`.
-The feature is used with 9 part-of-speech tags: <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (429; 26% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (102; 6% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (93; 6% instances), <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (79; 5% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (24; 1% instances), <tt><a href="olo_kkpp-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="olo_kkpp-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="olo_kkpp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (429; 26% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (101; 6% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (93; 6% instances), <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (78; 5% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (24; 1% instances), <tt><a href="olo_kkpp-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="olo_kkpp-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="olo_kkpp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -47,9 +47,9 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-102 <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
+101 <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (78; 76%), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (65; 64%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (77; 76%), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (64; 63%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -61,7 +61,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Ess` (1; 1% of non-empty `Case`): <em>sinä</em>
 * `Gen` (19; 19% of non-empty `Case`): <em>tämän, minun, Niilöin, hänen, kai, kuduan, meijän, sen</em>
 * `Ine` (4; 4% of non-empty `Case`): <em>hänes, kus, mis, nämmis</em>
-* `Nom` (45; 44% of non-empty `Case`): <em>häi, se, toine, hyö, tämä, iče, ken, minä, net, kudamat</em>
+* `Nom` (44; 44% of non-empty `Case`): <em>häi, se, toine, hyö, tämä, iče, ken, minä, net, kudamat</em>
 * `Par` (14; 14% of non-empty `Case`): <em>midä, Midäbo, Tädä, heidy, händy, kudamua, niidy, nimidä, sidä, sinuu</em>
 * `EMPTY` (1): <em>mondu</em>
 
@@ -73,7 +73,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `ADJ`
 
-93 <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> tokens (92% of all `ADJ` tokens) have a non-empty value of `Case`.
+93 <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> tokens (93% of all `ADJ` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (61; 66%).
 
@@ -92,7 +92,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Par` (18; 19% of non-empty `Case`): <em>kielitiijollizii, semmostu, ennevahnallizii, erilazii, karjalankielisty, koskijoi, mifolougistu, miiffizii, muudu, nuordu</em>
 * `Ter` (1; 1% of non-empty `Case`): <em>omassah</em>
 * `Tra` (2; 2% of non-empty `Case`): <em>omakse, pahakse</em>
-* `EMPTY` (8): <em>eri, 10., 23., 30., Kogo, eto</em>
+* `EMPTY` (7): <em>eri, 10., 23., 30., Kogo</em>
 
 <table>
   <tr><th>Paradigm <i>oma</i></th><th><tt>Tra</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>Ter</tt></th></tr>
@@ -102,19 +102,19 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PROPN`
 
-79 <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> tokens (96% of all `PROPN` tokens) have a non-empty value of `Case`.
+78 <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> tokens (96% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (77; 97%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (76; 97%).
 
 `PROPN` tokens may have the following values of `Case`:
 
 * `Ade` (3; 4% of non-empty `Case`): <em>Ven’al, Kotkatjärvel</em>
 * `All` (1; 1% of non-empty `Case`): <em>Kotkatjärvele</em>
-* `Ela` (13; 16% of non-empty `Case`): <em>Anuksenlinnas, Helsinkis, Karjalas, Kiihtelysvuaraspäi, Koveris, Kuittizes, Kuujärves, Peteras, Petroskois, Petroskoispäi</em>
-* `Gen` (28; 35% of non-empty `Case`): <em>Tverin, Karjalan, Anuksen, Petroskoin, Tuuksen, Koverin, Lihoslavl’an, Mägriän, Periodikan, Peteran</em>
+* `Ela` (13; 17% of non-empty `Case`): <em>Anuksenlinnas, Helsinkis, Karjalas, Kiihtelysvuaraspäi, Koveris, Kuittizes, Kuujärves, Peteras, Petroskois, Petroskoispäi</em>
+* `Gen` (28; 36% of non-empty `Case`): <em>Tverin, Karjalan, Anuksen, Petroskoin, Tuuksen, Koverin, Lihoslavl’an, Mägriän, Periodikan, Peteran</em>
 * `Ill` (2; 3% of non-empty `Case`): <em>Karjalah</em>
 * `Ine` (3; 4% of non-empty `Case`): <em>Suomes, Karjalas</em>
-* `Nom` (26; 33% of non-empty `Case`): <em>Mustonen, Peter, Karelija, Mary, Tapio, Virtaranta, Galina, Iguazu, Jane, Kajahuš</em>
+* `Nom` (25; 32% of non-empty `Case`): <em>Mustonen, Peter, Mary, Tapio, Virtaranta, Galina, Iguazu, Jane, Kajahuš, Karelija</em>
 * `Par` (2; 3% of non-empty `Case`): <em>Brownii, Smithua</em>
 * `Tra` (1; 1% of non-empty `Case`): <em>Lönnrotakse</em>
 * `EMPTY` (3): <em>Anuksen, Mustonen, Tapio</em>
@@ -169,14 +169,14 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 ### `X`
 
-3 <tt><a href="olo_kkpp-pos-X.html">X</a></tt> tokens (50% of all `X` tokens) have a non-empty value of `Case`.
+3 <tt><a href="olo_kkpp-pos-X.html">X</a></tt> tokens (30% of all `X` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `X` and `Case` co-occurred: <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2; 67%).
+The most frequent other feature values with which `X` and `Case` co-occurred: <tt><a href="olo_kkpp-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2; 67%).
 
 `X` tokens may have the following values of `Case`:
 
 * `Par` (3; 100% of non-empty `Case`): <em>d’engaa, piduhuttu, puččii</em>
-* `EMPTY` (3): <em>ttiteatr, u, y</em>
+* `EMPTY` (7): <em>Karelija, eto, mi, ttiteatr, u, y, –</em>
 
 ### `ADP`
 
@@ -205,10 +205,10 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="olo_kkpp-dep-amod.html">amod</a></tt>]--> ADJ</tt> (55; 77%),
 <tt>NOUN --[<tt><a href="olo_kkpp-dep-conj.html">conj</a></tt>]--> NOUN</tt> (27; 93%),
-<tt>NOUN --[<tt><a href="olo_kkpp-dep-det.html">det</a></tt>]--> PRON</tt> (10; 77%),
+<tt>NOUN --[<tt><a href="olo_kkpp-dep-det.html">det</a></tt>]--> PRON</tt> (10; 83%),
 <tt>NOUN --[<tt><a href="olo_kkpp-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (6; 60%),
-<tt>PROPN --[<tt><a href="olo_kkpp-dep-conj.html">conj</a></tt>]--> PROPN</tt> (6; 67%),
 <tt>PROPN --[<tt><a href="olo_kkpp-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (6; 75%),
+<tt>PROPN --[<tt><a href="olo_kkpp-dep-conj.html">conj</a></tt>]--> PROPN</tt> (5; 63%),
 <tt>ADJ --[<tt><a href="olo_kkpp-dep-conj.html">conj</a></tt>]--> ADJ</tt> (4; 100%),
 <tt>ADJ --[<tt><a href="olo_kkpp-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (4; 67%),
 <tt>ADJ --[<tt><a href="olo_kkpp-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2; 100%),

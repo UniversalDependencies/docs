@@ -9,12 +9,32 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="orv_rnc-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="orv_rnc-dep-flat-name.html">flat:name</a></tt>.
 
-15 nodes (0%) are attached to their parents as `flat`.
+21 nodes (0%) are attached to their parents as `flat`.
 
-15 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.86666666666667.
+21 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.71428571428571.
 
-The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (5; 33% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (5; 33% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (3; 20% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2; 13% instances).
+The following 6 pairs of parts of speech are connected with `flat`: <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (6; 29% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (5; 24% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (4; 19% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (3; 14% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2; 10% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 flat	color:blue
+1	а	а	CCONJ	_	_	6	cc	_	norm="а"
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	norm="я"|Decl=X|End=0
+3	за	за	ADP	_	_	5	case	_	norm="за"|check=@
+4	ту	тотъ	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	norm="ту"|Decl=X|End=у|check=@
+5	кѡрѡву	корова	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	norm="кѡрѡву"|Decl=1a|End=у|check=@
+6	взялъ	взяти	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	norm="взялъ"|Decl=X|End=ъл
+7	пол	полъ	NUM	_	Case=Acc|NumForm=Word|NumType=Frac	9	nummod:gov	_	norm="пол"|Decl=X|End=0
+8	четверта	четвертый	NUM	ORD	Case=Gen|Gender=Masc|Number=Sing|NumForm=Word|NumType=Frac|Variant=Short	10	nummod:gov	_	upos="ANUM"|norm="четверта"|Decl=ANUM|End=а
+9	десять	десять	NUM	_	Case=Acc|NumForm=Word|NumType=Card	8	flat	_	norm="десять"|Decl=X|End=ь0
+10	алтынъ	алтынъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	obj	_	norm="алтынъ"|Decl=2|End=ъ0
+
+~~~
 
 
 ~~~ conllu
@@ -66,54 +86,32 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 23 24 flat	color:blue
-1	Отнес	отнести	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="Отнес"
-2	2	2	NUM	_	Case=Acc|NumForm=Digit|NumType=Card	3	nummod:gov	_	wf="2"
-3	ведра	ведро	NOUN	_	Case=Acc|Gender=Neut|Number=Count	1	obj	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	9	punct	_	wf=","
-5	вѣсу	вѣсъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nsubj	_	wf="вѣсу"
-6	в	въ	ADP	_	_	7	case	_	wf="в"
-7	них	они	PRON	_	Case=Loc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obl	_	wf="них"
-8	19	19	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	9	nummod:gov	_	wf="19"
-9	фун(тов)	фунтъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	parataxis	_	wf="фунтов"
-10	3	3	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	9	nummod:gov	_	wf="3"
-11	че(ти)	четь	NOUN	_	Case=Nom|Gender=Fem|Number=Count	9	nmod	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	15	punct	_	wf=","
-13	да	да	CCONJ	_	_	15	cc	_	wf="да"
-14	4	4	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	15	nummod:gov	_	wf="4"
-15	росол(ь)ника	рассольникъ	NOUN	_	Case=Nom|Gender=Masc|Number=Count	3	conj	_	wf="росольника"
-16	3	3	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	17	nummod:gov	_	wf="3"
-17	фун(та)	фунтъ	NOUN	_	Case=Nom|Gender=Masc|Number=Count	15	nmod	_	wf="фунта"
-18	3	3	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	17	nummod:gov	_	wf="3"
-19	ч(ети)	четь	NOUN	_	Case=Nom|Gender=Fem|Number=Count	17	nmod	_	SpaceAfter=No
-20	,	,	PUNCT	_	_	25	punct	_	wf=","
-21	Федору	Федоръ	PROPN	_	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	25	orphan	_	wf="Федору"
-22	блюда	блюдо	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	wf="блюда"
-23	пол	полъ	NUM	_	Case=Acc|Gender=Masc|NumForm=Word|NumType=Frac	25	nummod:gov	_	wf="пол"
-24	2	2	NUM	_	Case=Acc|NumForm=Digit|NumType=Card	23	flat	_	wf="2"
-25	фун(та)	фунтъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	conj	_	wf="фунта"
-26	ветоши	ветошь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	1	punct	_	wf="."
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 flat	color:blue
-1	Писано	писати	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="Писано"
-2	лѣта	лѣто	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	1	obl:tmod	_	wf="лѣта"
-3	1695	1695	ADJ	_	Case=Gen|Gender=Neut|Number=Sing|NumForm=Digit|NumType=Ord	2	amod	_	upos="ANUM"|wf="1695"
-4	iюля	июль	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	wf="iюля"
-5	17	17	ADJ	_	Case=Gen|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	4	flat	_	upos="ANUM"|wf="17"|SpaceAfter=No
-6	.	.	PUNCT	_	_	1	punct	_	wf="."
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 flat	color:blue
+1	Пятыи	пятый	ADJ	ORD	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	2	amod	_	upos="ANUM"|norm="Пятыи"|Decl=ANUM|End=иы|check=@
+2	собор	соборъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	norm="собор"|Decl=2|End=0|check=@
+3	бысть	быти	VERB	Tense=Aor	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	norm="бысть"|Decl=X|End=ьтс
+4	в	въ	ADP	_	_	5	case	_	norm="в"|check=@
+5	Констянтинѣграде	Констянтинградъ	PROPN	_	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	3	obl	_	norm="Констянтинѣграде"|Decl=2|End=е|check=@
+6	въ	въ	ADP	_	_	7	case	_	norm="въ"|check=@
+7	25	25	ADJ	ORD	Case=Acc|Gender=Neut|Number=Sing|NumForm=Digit|NumType=Ord	3	obl:tmod	_	upos="ANUM"|norm="25"|Decl=ANUM|End=_|check=@
+8	июля	июль	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	flat	_	norm="июля"|Decl=2|End=я|SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	norm=","
+10	святых	святой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	11	amod	_	norm="святых"|Decl=X|End=хы|check=@
+11	отецъ	отецъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	norm="отецъ"|Decl=2|End=ъ0|check=@
+12	164	164	NUM	_	Case=Gen|Gender=Masc|NumForm=Digit|NumType=Card	11	nummod	_	norm="164"|Decl=X|End=_|SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	norm=","
+14	при	при	ADP	_	_	15	case	_	norm="при"|check=@
+15	цари	царь	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	3	obl:tmod	_	norm="цари"|Decl=2|End=и|check=@
+16	Устиянѣ	Устиянъ	PROPN	_	Case=Loc|Gender=Masc|NameType=Giv|Number=Sing	15	appos	_	norm="Устиянѣ"|Decl=2|End=ѣ|SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	norm=","
+18	на	на	ADP	_	_	20	case	_	norm="на"|check=@
+19	суемысленнаго	суемысленный	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	norm="суемысленнаго"|Decl=X|End=ога|check=@
+20	Оригена	Оригенъ	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	2	nmod	_	norm="Оригена"|Decl=2|End=а|SpaceAfter=No|check=@
+21	.	.	PUNCT	_	_	3	punct	_	norm="."
 
 ~~~
 

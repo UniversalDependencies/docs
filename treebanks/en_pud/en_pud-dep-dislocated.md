@@ -61,7 +61,7 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 9	there	there	ADV	RB	PronType=Dem	6	advmod	6:advmod	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
 11	same	same	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
-12	year	year	NOUN	NN	Number=Sing	6	obl:tmod	6:obl:tmod	SpaceAfter=No
+12	year	year	NOUN	NN	Number=Sing	6	obl:unmarked	6:obl:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 13	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 ~~~

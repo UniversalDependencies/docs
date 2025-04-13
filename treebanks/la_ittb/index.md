@@ -12,15 +12,15 @@ udver: '2'
 # UD Latin ITTB
 
 Language: [Latin](/la/index.html) (code: `la`)<br/>
-Family: Indo-European, Italic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
 The following people have contributed to making this treebank part of UD: Marco Passarotti, Marinella Testori, Daniel Zeman, Berta González Saavedra, Flavio Massimiliano Cecchini.
 
 Repository: [UD_Latin-ITTB](https://github.com/UniversalDependencies/UD_Latin-ITTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_ittb214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_ittb215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 3.0
 

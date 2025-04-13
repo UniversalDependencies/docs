@@ -22,18 +22,18 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 goeswith	color:blue
-1	So	so	ADV	RB	_	6	advmod	6:advmod	Discourse=adversative-concession:32->24:1:dm-but-202
-2	before	beforehand	ADV	GW	Typo=Yes	6	advmod	6:advmod	CorrectForm=beforehand|XML=<sic ana:::"beforehand">
+1	So	so	ADV	RB	_	6	advmod	6:advmod	Discourse=adversative-concession:32->24:1:dm-but-202;context-background:32->24:1:0:lex-indwd-273+orp-before hand-263-264;causal-result:32->26:1:3:orp-so-262|PDTB=Explicit:Contingency.Cause.Result:so:262:202-232:263-276
+2	before	beforehand	ADV	GW	Typo=Yes	6	advmod	6:advmod	CorrectForm=beforehand|PDTB=Explicit:Expansion.Conjunction:before hand:263-264:182-188:262,265-276|XML=<sic ana:::"beforehand">
 3	hand	_	X	RB	_	2	goeswith	2:goeswith	CorrectForm=_|XML=</sic>
 4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	Entity=(4-person-giv:act-cf1*-1-ana)
-5	kinda	kinda	ADV	RB	Degree=Pos	6	advmod	6:advmod	_
+5	kinda	kinda	ADV	RB	Degree=Pos	6	advmod	6:advmod	MSeg=kind-a
 6	knew	know	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
 7	about	about	ADP	IN	_	8	case	8:case	_
 8	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	6:obl:about	Entity=(3-person-giv:act-cf2-1-ana)|SpaceAfter=No
 9	,	,	PUNCT	,	_	13	punct	13:punct	_
-10	but	but	CCONJ	CC	_	13	cc	13:cc	Discourse=adversative-contrast_m:33->32:0:dm-but-271
+10	but	but	CCONJ	CC	_	13	cc	13:cc	Discourse=adversative-contrast_m:33->32:0:dm-but-271|PDTB=Explicit:Comparison.Contrast:but:271:262-270:272-276
 11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	Entity=(4-person-giv:act-cf1*-1-ana)
-12	never	never	ADV	RB	Polarity=Neg	13	advmod	13:advmod	_
+12	never	never	ADV	RB	_	13	advmod	13:advmod	Negation=Yes
 13	met	meet	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	6	conj	6:conj:but	_
 14	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	13:obj	Entity=(3-person-giv:act-cf2-1-ana)|SpaceAfter=No
 15	.	.	PUNCT	.	_	6	punct	6:punct	_
@@ -55,7 +55,7 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 6	just	just	ADV	RB	_	7	advmod	7:advmod	_
 7	peg	peg	VERB	VB	VerbForm=Inf	0	root	0:root	_
 8	players	player	NOUN	NNS	Number=Plur	7	obj	7:obj	Entity=(24-person-giv:inact-cf1-1-coref)|MSeg=play-er-s
-9	by	by	SCONJ	IN	_	10	mark	10:mark	Discourse=mode-means:103->102:0:dm-by-720+syn-pres-721
+9	by	by	SCONJ	IN	_	10	mark	10:mark	Discourse=mode-means:103->102:0:dm-by-720+syn-pres-721|PDTB=Explicit:Contingency.Purpose.Arg1-as-goal:by:720:712-719:721-724;Explicit:Expansion.Manner.Arg2-as-manner:by:720:712-719:721-724
 10	throwing	throw	VERB	VBG	Tense=Pres|VerbForm=Part	7	advcl	7:advcl:by	MSeg=throw-ing
 11	dodge	dodgeball	NOUN	GW	Number=Plur|Typo=Yes	10	obj	10:obj	CorrectForm=dodgeballs|Entity=(102-object-new-cf3-1-sgl|XML=<sic ana:::"dodgeballs">
 12	balls	_	X	NNS	_	11	goeswith	11:goeswith	CorrectForm=_|Entity=102)|MSeg=ball-s|SpaceAfter=No|XML=</sic>

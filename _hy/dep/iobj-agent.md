@@ -44,4 +44,4 @@ The true agent of the verb _հիշեցնել տալ_ “make remember (lit: make
 The causative (infinitive) verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation. The infinitive verb governs the causative auxiliary with an [aux:caus]() relation.
 
 For more details see [specific-syntax](http://universaldependencies.org/hy/overview/specific-syntax.html).
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:17 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:59 CET -->

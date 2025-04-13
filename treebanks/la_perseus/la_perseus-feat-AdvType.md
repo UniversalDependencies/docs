@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="la_perseus-pos-ADV.
 
 ### `ADV`
 
-287 <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> tokens (15% of all `ADV` tokens) have a non-empty value of `AdvType`.
+287 <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> tokens (16% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
 `ADV` tokens may have the following values of `AdvType`:
 

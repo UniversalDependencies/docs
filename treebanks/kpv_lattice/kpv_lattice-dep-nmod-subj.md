@@ -53,7 +53,7 @@ The following 2 pairs of parts of speech are connected with `nmod:subj`: <tt><a 
 9	,	,	PUNCT	PUNCT	_	10	punct	_	_
 10	буракӧ	буракӧ	ADV	Adv	_	13	advmod:eval	_	GTtags=Parenthetic|SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	13	punct	_	_
-12	эз	оз	AUX	V	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past	13	aux:neg	_	GTtags=Neg,Ind,Prt1,Pl3
+12	эз	оз	AUX	V	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past	13	aux	_	GTtags=Neg,Ind,Prt1,Pl3
 13	виччысьны	виччысьны	VERB	V	Connegative=Yes|Number=Plur|Person=3	6	conj	_	GTtags=TV,ConNeg,Pl3|SpaceAfter=No
 14	,	,	PUNCT	PUNCT	_	17	punct	_	_
 15	мый	мый	SCONJ	CS	_	17	mark	_	_

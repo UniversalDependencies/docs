@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (10; 100% of non-empty `Reflex`): <em>himself, themselves, itself</em>
-* `EMPTY` (1014): <em>it, he, his, that, which, their, they, I, who, her</em>
+* `EMPTY` (1034): <em>it, he, his, that, which, their, they, I, who, her</em>
 

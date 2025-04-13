@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Combi`, `Digit`, `Word`.
 
-135 tokens (1%) have a non-empty value of `NumForm`.
+138 tokens (1%) have a non-empty value of `NumForm`.
 1 types (0) occur at least once with a non-empty value of `NumForm`.
 1 lemmas (0) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 5 part-of-speech tags: <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> (107; 1% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> (107; 1% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NUM`
 
@@ -49,13 +49,14 @@ The most frequent other feature values with which `ADV` and `NumForm` co-occurre
 
 ### `NOUN`
 
-1 <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NumForm`.
+4 <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NOUN` and `NumForm` co-occurred: <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `NumForm` co-occurred: <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Ptan</tt> (3; 75%).
 
 `NOUN` tokens may have the following values of `NumForm`:
 
-* `Word` (1; 100% of non-empty `NumForm`): <em>_</em>
+* `Combi` (3; 75% of non-empty `NumForm`): <em>_</em>
+* `Word` (1; 25% of non-empty `NumForm`): <em>_</em>
 
 ### `PROPN`
 
@@ -72,5 +73,5 @@ The most frequent other feature values with which `PROPN` and `NumForm` co-occur
 The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>NUM --[<tt><a href="en_gumreddit-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (3; 100%),
 <tt>NUM --[<tt><a href="en_gumreddit-dep-conj.html">conj</a></tt>]--> NUM</tt> (2; 100%),
-<tt>NUM --[<tt><a href="en_gumreddit-dep-nmod-tmod.html">nmod:tmod</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="en_gumreddit-dep-nmod-unmarked.html">nmod:unmarked</a></tt>]--> NUM</tt> (1; 100%).
 

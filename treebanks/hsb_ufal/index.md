@@ -12,15 +12,15 @@ udver: '2'
 # UD Upper Sorbian UFAL
 
 Language: [Upper Sorbian](/hsb/index.html) (code: `hsb`)<br/>
-Family: Indo-European, Slavic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Anna Nedoluzhko.
 
 Repository: [UD_Upper_Sorbian-UFAL](https://github.com/UniversalDependencies/UD_Upper_Sorbian-UFAL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhsb_ufal214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhsb_ufal215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

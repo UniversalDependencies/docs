@@ -7,28 +7,50 @@ udver: '2'
 ## Treebank Statistics: UD_Georgian-GLC: Relations: `obl`
 
 This relation is universal.
+There are 1 language-specific subtypes of `obl`: <tt><a href="ka_glc-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-185 nodes (8%) are attached to their parents as `obl`.
+3918 nodes (7%) are attached to their parents as `obl`.
 
-118 instances of `obl` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.60540540540541.
+2347 instances of `obl` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.0326697294538.
 
-The following 17 pairs of parts of speech are connected with `obl`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (100; 54% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (21; 11% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (19; 10% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (16; 9% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 47 pairs of parts of speech are connected with `obl`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (2008; 51% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (662; 17% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (559; 14% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (128; 3% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (121; 3% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (73; 2% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (69; 2% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (43; 1% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (42; 1% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (37; 1% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (31; 1% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (18; 0% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (15; 0% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 1 obl	color:blue
-1	ოთახ	ოთახი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl	_	Translit=otʻax
-2	ში	ში	ADP	Post	AdpType=Post|Case=Dat	1	case	_	Translit=ši
-3	საშინლად	საშინელი	ADJ	Adj	Case=Ess|Degree=Pos|Number=Sing	4	amod	_	Translit=sašinlad
-4	ჭყავიან	ჭყავის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	0	root	_	Translit=čqavian
-5	სხვა	სხვა	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	6	nmod	_	Translit=sxva
-6	ბავშვები	ბავშვი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Plur	4	nsubj	_	SpaceAfter=No|Translit=bavšvebi
-7	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
+# visual-style 4 7 obl	color:blue
+1	მექანიკამ	მექანიკა	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Sing	4	nsubj	_	Translit=mekʻanikam
+2	მეცნიერული	მეცნიერული	ADJ	Adj	Case=Nom|Number=Sing	3	amod	_	Translit=mecʻnieruli
+3	სახე	სახე	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	obj	_	Translit=saxe
+4	მიიღო	იღებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	Translit=miiġo
+5	გალილეო	გალილეო	PROPN	Prop	Case=Gen|NameType=Prs|Number=Sing	7	nmod	_	Translit=galileo
+6	გალილეის	გალილეი	PROPN	Prop	Case=Gen|NameType=Sur|Number=Sing	5	flat:name	_	Translit=galileis
+7	შრომებ	შრომა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	4	obl	_	Translit=šromeb
+8	ში	ში	ADP	Post	AdpType=Post|Case=Dat	7	case	_	Translit=ši
+9	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 obl	color:blue
+1	მუტაციები	მუტაცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	5	nsubj	_	Translit=mutacʻiebi
+2	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	1	cop	_	Translit=aris
+3	დნმ-ის	დეზოქსირიბონუკლეინის_მჟავა	NOUN	Noun	Abbr=Yes|Case=Gen|Number=Sing	4	nmod	_	Translit=dnm-is
+4	მიმდევრობის	მიმდევრობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	nmod	_	Translit=mimdevrobis
+5	ცვლილებები	ცვლილება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	0	root	_	Translit=cʻvlilebebi
+6	უჯრედის	უჯრედი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	_	Translit=ujredis
+7	გენომ	გენომი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	obl	_	Translit=genom
+8	ში	ში	ADP	Post	AdpType=Post|Case=Dat	7	case	_	Translit=ši
+9	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
 ~~~
 
@@ -39,39 +61,13 @@ The following 17 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 obl	color:blue
-1	მცხეთის	მცხეთა	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	2	nmod	_	Translit=mcʻxetʻis
-2	ნაგებობები	ნაგებობა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Plur	4	obl	_	Translit=nagebobebi
-3	დან	დან	ADP	Post	AdpType=Post|Case=Ins	2	case	_	Translit=dan
-4	აღსანიშნავი	აღსანიშნავი	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	Translit=aġsanišnavi
+1	ნახშირწყალბადები	ნახშირწყალბადი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	6	nsubj	_	Translit=naxšircqalbadebi
+2	ბუნება	ბუნება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl	_	Translit=buneba
+3	ში	ში	ADP	Post	AdpType=Post|Case=Dat	2	case	_	Translit=ši
+4	ფართოდა	ფართო	ADJ	Adj	Case=Ess|Degree=Pos|Number=Sing	6	advmod	_	Translit=pʻartʻoda
 5	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	4	cop	_	Translit=a
-6	ძველი	ძველი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	Translit=żveli
-7	საყდარი	საყდარი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	SpaceAfter=No|Translit=saqdari
-8	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 11 obl	color:blue
-1	ვერც	ვერც	PART	Part	PartType=Emp	3	advmod	_	Translit=vercʻ
-2	კი	კი	PART	Part	PartType=Emp	3	advmod	_	Translit=ki
-3	დაინახა	ხედავს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No|Translit=dainaxa
-4	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
-5	როგორ	როგორ	PRON	Pron	Number=Sing|PronType=Rel	6	nmod	_	Translit=rogor
-6	გაჩერდა	ჩერდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	3	ccomp	_	Translit=gačʻerda
-7	ქვემოთ	ქვემოთ	ADV	Adv	AdvType=Loc	6	advmod:lmod	_	SpaceAfter=No|Translit=kʻvemotʻ
-8	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
-9	გზა	გზა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	conj	_	Translit=gza
-10	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	9	case	_	Translit=ze
-11	მხარ	მხარი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	14	obl	_	Translit=mxar
-12	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	11	case	_	Translit=ze
-13	ცულგადებული	ცულგადებული	ADJ	Adj	Case=Nom|Number=Sing	14	amod	_	Translit=cʻulgadebuli
-14	კაცი	კაცი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	6	nsubj	_	SpaceAfter=No|Translit=kacʻi
-15	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
+6	გავრცელებული	გავრცელებული	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=gavrcʻelebuli
+7	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
 
 ~~~
 

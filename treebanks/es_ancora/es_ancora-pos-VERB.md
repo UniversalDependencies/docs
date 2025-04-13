@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>hay</em> (<tt><a href="es_ancora-pos-
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 4.311779 (the average of all parts of speech is 1.505790).
+The form / lemma ratio of `VERB` is 4.311779 (the average of all parts of speech is 1.505808).
 
 The 1st highest number of forms (30) was observed with the lemma “hacer”: <em>hace, hacemos, hacen, hacer, haces, haciendo, hacéis, hacía, hacían, haga, hagamos, hagan, hago, haremos, hará, harán, haría, haríamos, harían, haz, hecha, hecho, hechos, hice, hiciera, hicieran, hicieron, hiciese, hicimos, hizo</em>.
 

@@ -29,7 +29,7 @@ The following 30 pairs of parts of speech are connected with `conj`: <tt><a href
 5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	нинге	нинге	ADV	Adv	AdvType=Tim	9	advmod:tmod	_	_
 7	школавга	школа	NOUN	N	Case=Lat|Clitic=AddGA|Definite=Ind|Number=Plur,Sing	9	obl:lmod	_	_
-8	аф	аф	AUX	Aux	Polarity=Neg	9	aux:neg	_	_
+8	аф	аф	AUX	Aux	Polarity=Neg	9	aux	_	_
 9	якан	якамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	2	conj	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -66,7 +66,7 @@ The following 30 pairs of parts of speech are connected with `conj`: <tt><a href
 3	сяшкава	сяшкава	ADV	Adv	_	4	advmod:deg	_	_
 4	эреколь	эрек	ADJ	A	Case=Nom|Definite=Ind|Number=Sing|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Sg,Nom,Indef,Clt/Cop,Prt2,ScSg3|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	7	punct	_	_
-6	ашезь	аф	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	7	aux:neg	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
+6	ашезь	аф	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	7	aux	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
 7	макса	максомс	VERB	V	Connegative=Yes	4	conj	_	GTtags=ConNeg
 8	пря	пря	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	7	obj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	4	punct	_	_

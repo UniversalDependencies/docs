@@ -9,50 +9,45 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_old-dep-csubj.html">csubj</a></tt>.
 There are also 1 other language-specific subtypes of `csubj`: <tt><a href="it_old-dep-csubj-relcl.html">csubj:relcl</a></tt>.
 
-5 nodes (0%) are attached to their parents as `csubj:pass`.
+10 nodes (0%) are attached to their parents as `csubj:pass`.
 
-4 instances of `csubj:pass` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.8.
+6 instances of `csubj:pass` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.3.
 
-The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (4; 80% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 20% instances).
+The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (9; 90% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
-# visual-style 29	bgColor:blue
-# visual-style 29	fgColor:white
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 22 29 csubj:pass	color:blue
-1	Ma	ma	CCONJ	csca	_	19	cc	_	Canto=1|Verso=91
-2	se	se	SCONJ	cssv	_	8	mark	_	Canto=1|Verso=91
-3	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	8	nsubj	_	Canto=1|Verso=91
-4	di	di	ADP	_	_	6	case	_	Canto=1|Comment=de-l|Verso=91
-5	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Canto=1|Comment=de-l|Verso=91
-6	ciel	cielo	NOUN	sm2ms	Gender=Masc|Number=Sing	3	nmod	_	Canto=1|Verso=91
-7	ti	ti	PRON	pp2syac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	8	obj	_	Canto=1|Verso=91
-8	muove	muovere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	_	Canto=1|Verso=91
-9	e	e	CCONJ	cscc	_	10	cc	_	Canto=1|Verso=91
-10	regge	reggere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	Canto=1|SpaceAfter=No|Verso=91
-11	,	,	PUNCT	_	_	14	punct	_	_
-12	come	come	ADV	b	_	14	advmod	_	Canto=1|Verso=92
-13	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	14	nsubj	_	Canto=1|Verso=92
-14	di'	dire	VERB	vta3ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl:cmp	_	Canto=1|SpaceAfter=No|Verso=92
-15	,	,	PUNCT	_	_	14	punct	_	_
-16	non	non	ADV	b	PronType=Neg	19	advmod	_	Canto=1|Verso=92
-17	c'	ci	ADV	b	_	19	advmod	_	Canto=1|Verso=92
-18	è	essere	AUX	vi*4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	Canto=1|Verso=92
-19	mestier	mestiere	NOUN	sm3ms	Gender=Masc|Number=Sing	0	root	_	Canto=1|Verso=92
-20	lusinghe	lusinga	NOUN	sf1fp	Gender=Fem|Number=Plur	19	obl	_	Canto=1|SpaceAfter=No|Verso=92
-21	:	:	PUNCT	_	_	19	punct	_	_
-22	bastare	bastare	VERB	vi*+1cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	parataxis	_	Canto=1|Verso=93
-23	si	si	PRON	pf3xim	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	22	expl:pass	_	Canto=1|Verso=93
-24	ben	bene	ADV	b	_	22	advmod	_	Canto=1|Verso=93
-25	che	che	SCONJ	csss	_	29	mark	_	Canto=1|Verso=93
-26	per	per	ADP	epskj	_	27	case	_	Canto=1|Verso=93
-27	lei	lei	PRON	pp3fslco	Gender=Fem|Number=Sing|Person=3|PronType=Prs	29	obl	_	Canto=1|Verso=93
-28	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	29	obj	_	Canto=1|Verso=93
-29	richegge	richiedere	VERB	vta2cps2	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	22	csubj:pass	_	Canto=1|SpaceAfter=No|Verso=93
-30	.	.	PUNCT	_	_	19	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 8 csubj:pass	color:blue
+1	Allora	allora	ADV	b	_	2	advmod:tmod	_	Canto=24|Verso=79
+2	udi'	udire	VERB	vta3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=24|Verso=79|SpaceAfter=No
+3	:	:	PUNCT	_	_	19	punct	_	_
+4	«	«	PUNCT	_	_	19	punct	_	SpaceAfter=No
+5	Se	se	SCONJ	cssv	_	15	mark	_	Canto=24|Verso=79
+6	quantunque	quantunque	PRON	pr	PronType=Rel	8	nsubj	_	Canto=24|Verso=79
+7	s'	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	8	expl:impers	_	Canto=24|Verso=79
+8	acquista	acquistare	VERB	vi1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	csubj:pass	_	Canto=24|Verso=79
+9	giù	giù	ADV	b	_	8	advmod:lmod	_	Canto=24|Verso=80
+10	per	per	ADP	epskw	_	11	case	_	Canto=24|Verso=80
+11	dottrina	dottrina	NOUN	sf1fs	Gender=Fem|Number=Sing	8	obl	_	Canto=24|Verso=80|SpaceAfter=No
+12	,	,	PUNCT	_	_	8	punct	_	_
+13	fosse	essere	AUX	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	aux:pass	_	Canto=24|Verso=80
+14	così	così	ADV	b	_	15	advmod	_	Canto=24|Verso=80
+15	'nteso	intendere	VERB	vtp2cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Pass	19	advcl	_	Canto=24|Verso=80|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	non	non	ADV	b	PronType=Neg	19	advmod:neg	_	Canto=24|Verso=81
+18	lì	lì	ADV	b	_	19	advmod:lmod	_	Canto=24|Verso=81
+19	avria	avere	VERB	vta5dps3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	ccomp:reported	_	Canto=24|Verso=81
+20	loco	luogo	NOUN	sm2ms	Gender=Masc|Number=Sing	19	obj	_	Canto=24|Verso=81
+21	ingegno	ingegno	NOUN	sm2ms	Gender=Masc|Number=Sing	19	nsubj	_	Canto=24|Verso=81
+22	di	di	ADP	epskg	_	23	case	_	Canto=24|Verso=81
+23	sofista	sofista	NOUN	sm1ms	Gender=Masc|Number=Sing	21	nmod	_	Canto=24|Verso=81|SpaceAfter=No
+24	»	»	PUNCT	_	_	19	punct	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -76,7 +71,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 11	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	Canto=15|Verso=92
 12	coscienza	coscienza	NOUN	sf1fs	Gender=Fem|Number=Sing	15	nsubj	_	Canto=15|Verso=92
 13	non	non	ADV	b	PronType=Neg	15	advmod:neg	_	Canto=15|Verso=92
-14	mi	mi	PRON	pp1syda	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	15	iobj	_	Canto=15|Verso=92
+14	mi	mi	PRON	pp1syda	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	15	obj	_	Canto=15|Verso=92
 15	garra	garrire	VERB	vta3cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	Canto=15|SpaceAfter=No|Verso=92
 16	,	,	PUNCT	_	_	26	punct	_	_
 17	ch'	che	SCONJ	csss	_	26	mark	_	Canto=15|SpaceAfter=No|Verso=93

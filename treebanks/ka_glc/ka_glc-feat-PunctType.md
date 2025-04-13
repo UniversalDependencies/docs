@@ -7,27 +7,29 @@ udver: '2'
 ## Treebank Statistics: UD_Georgian-GLC: Features: `PunctType`
 
 This feature is language-specific.
-It occurs with 8 different values: `Brck`, `Comm`, `Dash`, `Elip`, `Excl`, `Peri`, `Qest`, `Quot`.
+It occurs with 10 different values: `Brck`, `Colo`, `Comm`, `Dash`, `Elip`, `Excl`, `Peri`, `Qest`, `Quot`, `Semi`.
 
-339 tokens (15%) have a non-empty value of `PunctType`.
-10 types (1%) occur at least once with a non-empty value of `PunctType`.
-10 lemmas (1%) occur at least once with a non-empty value of `PunctType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ka_glc-pos-PUNCT.html">PUNCT</a></tt> (339; 15% instances).
+10422 tokens (17%) have a non-empty value of `PunctType`.
+21 types (0%) occur at least once with a non-empty value of `PunctType`.
+20 lemmas (0%) occur at least once with a non-empty value of `PunctType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ka_glc-pos-PUNCT.html">PUNCT</a></tt> (10422; 17% instances).
 
 ### `PUNCT`
 
-339 <tt><a href="ka_glc-pos-PUNCT.html">PUNCT</a></tt> tokens (100% of all `PUNCT` tokens) have a non-empty value of `PunctType`.
+10422 <tt><a href="ka_glc-pos-PUNCT.html">PUNCT</a></tt> tokens (100% of all `PUNCT` tokens) have a non-empty value of `PunctType`.
 
 `PUNCT` tokens may have the following values of `PunctType`:
 
-* `Brck` (6; 2% of non-empty `PunctType`): <em>(, )</em>
-* `Comm` (161; 47% of non-empty `PunctType`): <em>,</em>
-* `Dash` (3; 1% of non-empty `PunctType`): <em>–</em>
-* `Elip` (5; 1% of non-empty `PunctType`): <em>...</em>
+* `Brck` (1337; 13% of non-empty `PunctType`): <em>(, ), <, [, ], ></em>
+* `Colo` (142; 1% of non-empty `PunctType`): <em>:</em>
+* `Comm` (4418; 42% of non-empty `PunctType`): <em>,</em>
+* `Dash` (682; 7% of non-empty `PunctType`): <em>—, -, –</em>
+* `Elip` (5; 0% of non-empty `PunctType`): <em>...</em>
 * `Excl` (1; 0% of non-empty `PunctType`): <em>!</em>
-* `Peri` (146; 43% of non-empty `PunctType`): <em>.</em>
+* `Peri` (3159; 30% of non-empty `PunctType`): <em>.</em>
 * `Qest` (1; 0% of non-empty `PunctType`): <em>?</em>
-* `Quot` (16; 5% of non-empty `PunctType`): <em>“, „</em>
+* `Quot` (589; 6% of non-empty `PunctType`): <em>„, “, ", ”, “-</em>
+* `Semi` (88; 1% of non-empty `PunctType`): <em>;</em>
 
-`PunctType` seems to be **lexical feature** of `PUNCT`. 100% lemmas (10) occur only with one value of `PunctType`.
+`PunctType` seems to be **lexical feature** of `PUNCT`. 100% lemmas (20) occur only with one value of `PunctType`.
 

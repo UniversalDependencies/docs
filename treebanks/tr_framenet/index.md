@@ -12,15 +12,15 @@ udver: '2'
 # UD Turkish FrameNet
 
 Language: [Turkish](/tr/index.html) (code: `tr`)<br/>
-Family: Turkic, Southwestern
+Family: Turkic
 
 This treebank has been part of Universal Dependencies since the UD v2.8 release.
 
 The following people have contributed to making this treebank part of UD: Neslihan Cesur, Aslı Kuzgun, Olcay Taner Yıldız, Büşra Marşan, Oğuzhan Kuyrukçu, Bilge Nas Arıcan, Ezgi Sanıyar, Neslihan Kara, Merve Özçelik.
 
 Repository: [UD_Turkish-FrameNet](https://github.com/UniversalDependencies/UD_Turkish-FrameNet)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_framenet214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_framenet215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

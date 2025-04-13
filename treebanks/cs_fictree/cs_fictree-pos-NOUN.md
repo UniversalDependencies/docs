@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-FicTree: POS Tags: `NOUN`
 
-There are 5260 `NOUN` lemmas (38%), 9587 `NOUN` types (35%) and 27596 `NOUN` tokens (17%).
+There are 5274 `NOUN` lemmas (38%), 9587 `NOUN` types (35%) and 27596 `NOUN` tokens (17%).
 Out of 16 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 2 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>člověk, život, dítě, rok, ruka, oko, den, chvíle, žena, dveře</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>září</em> (<tt><a href="cs_fictree
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.822624 (the average of all parts of speech is 1.970842).
+The form / lemma ratio of `NOUN` is 1.817785 (the average of all parts of speech is 1.968999).
 
 The 1st highest number of forms (13) was observed with the lemma “rok”: <em>let, leta, letech, lety, léta, létech, léty, roce, rok, roka, rokem, roku, roky</em>.
 
@@ -61,12 +61,12 @@ The 2nd highest number of forms (11) was observed with the lemma “bratr”: <e
 
 The 3rd highest number of forms (11) was observed with the lemma “člověk”: <em>lidech, lidem, lidi, lidmi, lidé, lidí, člověk, člověka, člověkem, člověku, člověče</em>.
 
-`NOUN` occurs with 8 features: <tt><a href="cs_fictree-feat-Case.html">Case</a></tt> (27596; 100% instances), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt> (27596; 100% instances), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt> (27596; 100% instances), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt> (27596; 100% instances), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt> (11898; 43% instances), <tt><a href="cs_fictree-feat-Style.html">Style</a></tt> (5; 0% instances), <tt><a href="cs_fictree-feat-Abbr.html">Abbr</a></tt> (4; 0% instances), <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt> (1; 0% instances)
+`NOUN` occurs with 7 features: <tt><a href="cs_fictree-feat-Case.html">Case</a></tt> (27596; 100% instances), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt> (27596; 100% instances), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt> (27596; 100% instances), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt> (11898; 43% instances), <tt><a href="cs_fictree-feat-Style.html">Style</a></tt> (5; 0% instances), <tt><a href="cs_fictree-feat-Abbr.html">Abbr</a></tt> (4; 0% instances), <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt> (1; 0% instances)
 
-`NOUN` occurs with 20 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Polarity=Neg`, `Polarity=Pos`, `Style=Coll`
+`NOUN` occurs with 18 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Style=Coll`
 
-`NOUN` occurs with 75 feature combinations.
-The most frequent feature combination is `Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos` (2483 tokens).
+`NOUN` occurs with 63 feature combinations.
+The most frequent feature combination is `Case=Acc|Gender=Fem|Number=Sing` (2491 tokens).
 Examples: <em>chvíli, hlavu, ruku, cestu, práci, dobu, pravdu, vodu, noc, zem</em>
 
 

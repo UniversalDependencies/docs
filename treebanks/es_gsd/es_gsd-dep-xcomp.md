@@ -11,7 +11,7 @@ This relation is universal.
 3056 nodes (1%) are attached to their parents as `xcomp`.
 
 3032 instances of `xcomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.71138743455497.
+Average distance between parent and child is 1.71236910994764.
 
 The following 22 pairs of parts of speech are connected with `xcomp`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (1879; 61% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (683; 22% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (261; 9% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (170; 6% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (24; 1% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
@@ -30,7 +30,7 @@ The following 22 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 6	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
 7	Guardia	guardia	PROPN	_	_	5	xcomp	_	_
 8	Argentina	argentina	PROPN	_	_	7	flat	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	3	punct	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -49,7 +49,7 @@ The following 22 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 6	en	en	ADP	_	_	8	case	_	_
 7	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
 8	coordenadas	coordenada	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	4	punct	_	_
+9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 22 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 7	octubre	octubre	PROPN	_	_	5	nmod	_	_
 8	de	de	ADP	_	_	9	case	_	_
 9	1893	1893	NUM	_	NumForm=Digit|NumType=Card	7	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	2	punct	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 

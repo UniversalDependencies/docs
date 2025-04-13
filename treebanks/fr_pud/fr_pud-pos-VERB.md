@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="fr_pud-pos-AUX.h
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.112462 (the average of all parts of speech is 1.299853).
+The form / lemma ratio of `VERB` is 2.112462 (the average of all parts of speech is 1.300126).
 
 The 1st highest number of forms (15) was observed with the lemma “avoir”: <em>a, ai, ait, aura, aurait, avaient, avait, avez, avoir, avons, ayant, eu, eurent, eut, ont</em>.
 

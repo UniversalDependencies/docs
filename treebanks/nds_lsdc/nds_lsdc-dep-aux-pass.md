@@ -24,12 +24,12 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 13 19 aux:pass	color:blue
 1	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	lemma_gml=dat
 2	skåg	skeen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=schên
-3	eyrst	eyrst	ADV	_	_	2	advmod	_	lemma_gml=êrst|SpaceAfter=No
+3	eyrst	eyrst	ADJ	_	_	2	advmod	_	lemma_gml=êrst|SpaceAfter=No
 4	,	,	PUNCT	_	_	8	punct	_	_
 5	wän	wän	SCONJ	_	_	8	mark	_	lemma_gml=wan
 6	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	8	expl	_	lemma_gml=et
 7	nütte	nütte	ADJ	_	Degree=Pos	8	advmod	_	lemma_gml=nütte
-8	vrous	vreren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	advcl	_	lemma_gml=vrêsen|SpaceAfter=No
+8	vrous	vresen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	advcl	_	lemma_gml=vrêsen|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	dat	dat	SCONJ	_	_	13	mark	_	lemma_gml=dat
 11	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	lemma_gml=dê

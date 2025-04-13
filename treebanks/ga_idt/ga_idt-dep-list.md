@@ -30,7 +30,7 @@ The following 16 pairs of parts of speech are connected with `list`: <tt><a href
 6	chun	chun	ADP	Simp	_	7	case	_	_
 7	Leighis	leigheas	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 8	agus	agus	CCONJ	Coord	_	9	cc	_	_
-9	Máin-liaghais	máin-liaghas	NOUN	Noun	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	conj	_	_
+9	Máin-liaghais	máin-liaghas	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	7	conj	_	_
 10	do	do	ADP	Simp	_	11	case	_	_
 11	leigheas	leigheas	NOUN	Noun	VerbForm=Inf	7	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	2	punct	_	_

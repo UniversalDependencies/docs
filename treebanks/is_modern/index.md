@@ -12,15 +12,15 @@ udver: '2'
 # UD Icelandic Modern
 
 Language: [Icelandic](/is/index.html) (code: `is`)<br/>
-Family: Indo-European, Germanic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.8 release.
 
 The following people have contributed to making this treebank part of UD: Kristján Rúnarsson, Þórunn Arnardóttir, Hinrik Hafsteinsson, Starkaður Barkarson, Hildur Jónsdóttir, Steinþór Steingrímsson, Einar Freyr Sigurðsson.
 
 Repository: [UD_Icelandic-Modern](https://github.com/UniversalDependencies/UD_Icelandic-Modern)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_modern214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_modern215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -217,6 +217,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
     <li>AUX: er, var, eru, sé, hefur, væri, hafi, hafa, hefði, erum</li>
     <li>NOUN: Innheimtu, bönnum, leiðir</li>
     <li>VERB: hringir, held, kemur, á, finnst, þarf, þakka, verður, sagði, eigum</li>
+    <li>X: ákvaðu</li>
   </ul>
   </li>
 </ul>
@@ -335,6 +336,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>VERB: eigum, þurfum, eiga, verðum, verða, koma, sjáum, komu, Gripið, vitum</li>
       <li>VERB-Fin: eigum, þurfum, eiga, verðum, verða, koma, sjáum, komu, Gripið, vitum</li>
       <li>VERB-Part: komin, settir, sett, teknar, haldnir, komnir, settar, tekin, afgreidd, gerð</li>
+      <li>X-Fin: ákvaðu</li>
     </ul>
   </li>
 </ul>
@@ -545,6 +547,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>NOUN-Fin: bönnum, leiðir</li>
       <li>VERB: hringir, held, kemur, á, finnst, þakka, þarf, verður, sagði, segir</li>
       <li>VERB-Fin: hringir, held, kemur, á, finnst, þarf, þakka, verður, sagði, kom</li>
+      <li>X-Fin: ákvaðu</li>
     </ul>
   </li>
 </ul>
@@ -575,6 +578,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>VERB: sagði, kom, ætti, fór, tók, vann, varð, átti, velti, nefndi</li>
       <li>VERB-Fin: sagði, kom, ætti, fór, vann, tók, varð, átti, velti, gerði</li>
       <li>VERB-Part: Gripið, búið, búin, búinn, merktir, búnir, fært, gert, meiddur, orðið</li>
+      <li>X-Fin: ákvaðu</li>
     </ul>
   </li>
 </ul>
@@ -617,6 +621,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>VERB-Inf: gera, fara, taka, koma, segja, vinna, sjá, fá, ræða, spyrja</li>
       <li>VERB-Part: varðandi, gert, farið, keppt, sagt, komin, sett, tekið, haldið, kominn</li>
       <li>VERB-Sup: sagt, tekið, komið, gert, farið, orðið, séð, átt, reynt, spilað</li>
+      <li>X-Fin: ákvaðu</li>
     </ul>
   </li>
 </ul>
@@ -746,6 +751,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>AUX-Fin: er, var, eru, sé, hefur, væri, hafa, hafi, voru, hefði</li>
       <li>NOUN-Fin: leiðir</li>
       <li>VERB-Fin: hringir, kemur, á, finnst, þarf, verður, sagði, verði, segir, kom</li>
+      <li>X-Fin: ákvaðu</li>
     </ul>
   </li>
 </ul>

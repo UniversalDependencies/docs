@@ -12,15 +12,15 @@ udver: '2'
 # UD Portuguese CINTIL
 
 Language: [Portuguese](/pt/index.html) (code: `pt`)<br/>
-Family: Indo-European, Romance
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.11 release.
 
 The following people have contributed to making this treebank part of UD: Mariana Avelãs, António Branco, Marisa Campos, Catarina Carvalheiro, Rita Carvalho, Sérgio Castro, Francisco Costa, Cláudia Martins, Rita Pereira, Sílvia Pereira, Clara Pinto, Andreia Querido, Joana Ramos, João Silva, Sara Silveira.
 
 Repository: [UD_Portuguese-CINTIL](https://github.com/UniversalDependencies/UD_Portuguese-CINTIL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_cintil214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_cintil215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-ND 4.0
 

@@ -18,4 +18,4 @@ udver: '2'
 ### Conversion from JOS
 
 All adjectives and pronouns with Type=possessive are converted to `Poss=Yes`. Additionally, the reflexive pronoun _svoj_ is also converted to `Poss=Yes`. Note that within JOS annotation scheme, possessiveness is not explicitly marked with other types of pronouns that denote possession, such as _ćigav, čigaver, nikogaršnji_ etc.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:17 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:00 CET -->

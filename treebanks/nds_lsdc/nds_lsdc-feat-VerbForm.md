@@ -11,7 +11,7 @@ It occurs with 2 different values: `Inf`, `Part`.
 
 1066 tokens (5%) have a non-empty value of `VerbForm`.
 609 types (13%) occur at least once with a non-empty value of `VerbForm`.
-490 lemmas (14%) occur at least once with a non-empty value of `VerbForm`.
+482 lemmas (15%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 3 part-of-speech tags: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (936; 4% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (84; 0% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (46; 0% instances).
 
 ### `VERB`
@@ -42,7 +42,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 * `Inf` (49; 58% of non-empty `VerbForm`): <em>syn, weasen, werden, hebben, hevven, können, künnen, mütten, süllen, warden</em>
 * `Part` (35; 42% of non-empty `VerbForm`): <em>west, worden, ewesd, must, weasd, weasen, ewest, kund, möcht, müst</em>
-* `EMPTY` (1061): <em>is, was, het, hadde, weer, kan, wil, sint, kun, wul</em>
+* `EMPTY` (1060): <em>is, was, het, hadde, weer, kan, wil, sint, kun, wul</em>
 
 <table>
   <tr><th>Paradigm <i>weasen</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -60,9 +60,9 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (46; 100% of non-empty `VerbForm`): <em>vorkeyrd, vorknüpped, Doudeslån, Ofgeloupen, anedån, anvroaren, anweasen, bedrämmelden, bekend, dalevyrd</em>
-* `EMPTY` (1230): <em>olde, good, gans, goden, grouten, olden, groute, gode, veal, andere</em>
+* `EMPTY` (1268): <em>olde, eyrst, good, gans, goden, grouten, olden, gerade, groute, gode</em>
 
-`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (44) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (42) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 

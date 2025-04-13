@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>og</em> (<tt><a href="is_modern-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.250000 (the average of all parts of speech is 1.734760).
+The form / lemma ratio of `CCONJ` is 1.250000 (the average of all parts of speech is 1.738114).
 
 The 1st highest number of forms (2) was observed with the lemma “og”: <em>o., og</em>.
 
@@ -71,7 +71,7 @@ The 3rd highest number of forms (2) was observed with the lemma “til”: <em>-
 
 `CCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="is_modern-dep-cc.html">cc</a></tt> (2781; 98% instances), <tt><a href="is_modern-dep-conj.html">conj</a></tt> (28; 1% instances), <tt><a href="is_modern-dep-amod.html">amod</a></tt> (8; 0% instances), <tt><a href="is_modern-dep-obl.html">obl</a></tt> (8; 0% instances), <tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt> (5; 0% instances), <tt><a href="is_modern-dep-acl.html">acl</a></tt> (4; 0% instances), <tt><a href="is_modern-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="is_modern-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="is_modern-dep-root.html">root</a></tt> (1; 0% instances), <tt><a href="is_modern-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (1296; 46% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (738; 26% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (220; 8% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (134; 5% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (128; 5% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (114; 4% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (95; 3% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (62; 2% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (38; 1% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-INTJ.html">INTJ</a></tt> (2; 0% instances),  (1; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (1296; 46% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (740; 26% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (220; 8% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (134; 5% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (128; 5% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (114; 4% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (93; 3% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (62; 2% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (38; 1% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-INTJ.html">INTJ</a></tt> (2; 0% instances),  (1; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (1; 0% instances)
 
 2790 (98%) `CCONJ` nodes are leaves.
 

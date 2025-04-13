@@ -12,15 +12,15 @@ udver: '2'
 # UD Middle French PROFITEROLE
 
 Language: [Middle French](/frm/index.html) (code: `frm`)<br/>
-Family: Indo-European, Romance
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.13 release.
 
 The following people have contributed to making this treebank part of UD: Sophie Prévost, Eric Villemonte de la Clergerie, Mathilde Regnault, Loïc Grobol, Benoît Crabbé, Mathieu Dehouck, Alexei Lavrentiev.
 
 Repository: [UD_Middle_French-PROFITEROLE](https://github.com/UniversalDependencies/UD_Middle_French-PROFITEROLE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfrm_profiterole214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfrm_profiterole215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 4.0
 

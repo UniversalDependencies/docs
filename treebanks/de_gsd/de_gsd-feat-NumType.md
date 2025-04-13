@@ -9,18 +9,18 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-14251 tokens (5%) have a non-empty value of `NumType`.
+14252 tokens (5%) have a non-empty value of `NumType`.
 1750 types (3%) occur at least once with a non-empty value of `NumType`.
 1690 lemmas (4%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 7 part-of-speech tags: <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (7336; 3% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (5650; 2% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (818; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (415; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (26; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (7337; 3% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (5650; 2% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (818; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (415; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (26; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-7336 <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+7337 <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (7335; 100% of non-empty `NumType`): <em>zwei, drei, vier, 2007, fünf, 2006, 2009, 2010, sechs, 2008</em>
+* `Card` (7336; 100% of non-empty `NumType`): <em>zwei, drei, vier, 2007, fünf, 2006, 2009, 2010, sechs, 2008</em>
 * `Ord` (1; 0% of non-empty `NumType`): <em>20</em>
 
 <table>
@@ -53,7 +53,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Card` (4; 0% of non-empty `NumType`): <em>3, 60-er, siebenhundert, zehntausend</em>
 * `Ord` (814; 100% of non-empty `NumType`): <em>ersten, erste, zweiten, zweite, dritten, erster, dritte, erstes, 5., fünften</em>
-* `EMPTY` (19824): <em>später, weitere, neue, bekannt, neuen, großen, große, deutschen, gut, weiteren</em>
+* `EMPTY` (20921): <em>später, gut, weitere, neue, bekannt, neuen, großen, große, deutschen, kurz</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (43) occur only with one value of `NumType`.
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Card` (415; 100% of non-empty `NumType`): <em>II, 1, 2, 3, III, 4, Sieben, 2000, 6, 90</em>
-* `EMPTY` (30022): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
+* `EMPTY` (30004): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
 
 `NumType` seems to be **lexical feature** of `PROPN`. 100% lemmas (224) occur only with one value of `NumType`.
 
@@ -79,7 +79,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (26; 100% of non-empty `NumType`): <em>Null, drei, zwei, 1/2h, 1000m, 1392, 1542, 1571, 1827, 1838</em>
-* `EMPTY` (52256): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52271): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 `NumType` seems to be **lexical feature** of `NOUN`. 100% lemmas (23) occur only with one value of `NumType`.
 
@@ -92,7 +92,7 @@ The most frequent other feature values with which `X` and `NumType` co-occurred:
 `X` tokens may have the following values of `NumType`:
 
 * `Card` (5; 100% of non-empty `NumType`): <em>2n, 60m, 7Fe0, 9S8, S8</em>
-* `EMPTY` (309): <em>'s, B., u.a., %, etc., z.B., a, z., †, u</em>
+* `EMPTY` (308): <em>'s, B., u.a., %, etc., z.B., a, z., †, u</em>
 
 ### `ADV`
 
@@ -101,7 +101,7 @@ The most frequent other feature values with which `X` and `NumType` co-occurred:
 `ADV` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): <em>2x</em>
-* `EMPTY` (14978): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
+* `EMPTY` (13883): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
 ## Relations with Agreement in `NumType`
 
@@ -115,5 +115,5 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>ADJ --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> ADJ</tt> (6; 67%),
 <tt>DET --[<tt><a href="de_gsd-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (3; 60%),
 <tt>NUM --[<tt><a href="de_gsd-dep-obl.html">obl</a></tt>]--> NUM</tt> (3; 100%),
-<tt>DET --[<tt><a href="de_gsd-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (2; 100%).
+<tt>DET --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> NUM</tt> (2; 100%).
 

@@ -10,21 +10,21 @@ This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
 28 tokens (7%) have a non-empty value of `Voice`.
-26 types (10%) occur at least once with a non-empty value of `Voice`.
+26 types (9%) occur at least once with a non-empty value of `Voice`.
 19 lemmas (9%) occur at least once with a non-empty value of `Voice`.
 The feature is used with 1 part-of-speech tags: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (28; 7% instances).
 
 ### `VERB`
 
-28 <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Voice`.
+28 <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> tokens (88% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21; 75%), <tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=3</tt> (19; 68%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="sga_dipsgg-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21; 75%), <tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=3</tt> (19; 68%).
 
 `VERB` tokens may have the following values of `Voice`:
 
 * `Act` (26; 93% of non-empty `Voice`): <em>chain, Gaib, braigim, cél, cóima, ecmoṅgat, epur, farcai, fuasna, giuil</em>
 * `Pass` (2; 7% of non-empty `Voice`): <em>roscribad, roscríbad</em>
-* `EMPTY` (1): <em>adest</em>
+* `EMPTY` (4): <em>adest, dicit, fit, pepedi</em>
 
 <table>
   <tr><th>Paradigm <i>scríbaid</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -38,7 +38,6 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="sga_dipsgg-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (6; 100%),
-<tt>VERB --[<tt><a href="sga_dipsgg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="sga_dipsgg-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="sga_dipsgg-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).
 

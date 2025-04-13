@@ -86,7 +86,7 @@ exception: The FEATS column may contain the feature `Typo=Yes`. For more informa
 To accommodate the use of empty nodes for the analysis of ellipsis in the enhanced dependency representation, we adopt
 a further extension of the indexing scheme from v2. It is possible to insert one or more empty nodes indexed
 _i_.1, _i_.2, etc. immediately after a word with index _i_ (where _i_ = 0 for sentence-initial empty nodes). Note that
-the the numbers after the decimal point must form a sequence starting at 1, i.e. it is not allowed to skip _i_.1 and
+the numbers after the decimal point must form a sequence starting at 1, i.e. it is not allowed to skip _i_.1 and
 use _i_.2. In the unlikely case that there are ten or more empty nodes between two real tokens, _i_.10 comes after
 _i_.9, that is, the entire ID is not ordered numerically as a decimal number. Here is an example showing the use of an
 empty node in the analysis of the sentence _Sue likes coffee and Bill tea_:
@@ -161,7 +161,7 @@ The HEAD and DEPREL fields are used to encode a dependency tree over words. The 
 As in the case of morphology, syntactic annotation is only provided for words, and
 tokens that are not words have an underscore in both the HEAD and DEPREL fields.
 
-The HEAD and DEPREL values define the basic dependencies which must be strictly a tree. However, in addition to these basic dependencies, treebanks may optionally provide an enhanced dependency representation that specifies additional dependency relations, for example, when dependencies propagate over coordinate structures. The enhanced dependency representation, which in general is a graph and not a tree, is specified in the DEPS field, using a list of head-relation pairs. We use colon (:) to separate the head and relation and (as usual) vertical bar (\|) to separate list items and underscore for the empty list. The list is to be sorted by the index of the head: `4:nsubj|11:nsubj`.
+The HEAD and DEPREL values define the basic dependencies which must be strictly a tree. However, in addition to these basic dependencies, treebanks may optionally provide an enhanced dependency representation that specifies additional dependency relations, for example, when dependencies propagate over coordinate structures. The enhanced dependency representation, which in general is a graph and not a tree, is specified in the DEPS field, using a list of head-relation pairs. We use colon (:) to separate the head and relation and (as usual) vertical bar (\|) to separate list items and underscore for the empty list. The list is to be sorted by the index of the head: `4:nsubj|11:nsubj`. For purposes of the format, multiple edges in the field may share the same head so long as relation names are distinct (though it is unclear whether this is ever linguistically justified).
 
 Note that the DEPS field should be a self-contained representation of the enhanced dependency graph, which means that dependencies that are shared between the basic and the enhanced dependency representations must be repeated in the DEPS field. Here is an example, showing the first nine fields for the English sentence _They buy and sell books_:
 

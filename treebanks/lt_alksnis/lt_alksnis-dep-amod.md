@@ -50,9 +50,9 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 12	kelių	kelis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	13	nmod	13:nmod:gen	_
 13	mėnesių	mėnuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	10	obl	10:obl:nuo:gen	_
 14	iki	iki	ADP	prl.K.	AdpType=Prep|Case=Gen	15	case	15:case	_
-15	5	5	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	10	obl	10:obl:iki	_
+15	5	5	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	10	obl	10:obl:iki:gen	_
 16	-	-	PUNCT	skyr.	_	17	punct	17:punct	_
-17	15	15	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	15	conj	10:obl:iki|15:conj	_
+17	15	15	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	15	conj	10:obl:iki:gen|15:conj	_
 18	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	15	nmod	15:nmod:gen|17:nmod:gen	SpaceAfter=No
 19	.	.	PUNCT	skyr.	_	4	punct	4:punct	_
 

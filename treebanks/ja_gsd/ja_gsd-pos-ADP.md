@@ -73,7 +73,7 @@ The 3rd highest number of forms (3) was observed with the lemma “の”: の, 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="ja_gsd-dep-case.html">case</a></tt> (41288; 99% instances), <tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt> (576; 1% instances)
+`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="ja_gsd-dep-case.html">case</a></tt> (41285; 99% instances), <tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt> (579; 1% instances)
 
 Parents of `ADP` nodes belong to 15 different parts of speech: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (35083; 84% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (2944; 7% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (1499; 4% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (1022; 2% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (487; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (316; 1% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (179; 0% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (160; 0% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> (99; 0% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (29; 0% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> (15; 0% instances), <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (3; 0% instances)
 

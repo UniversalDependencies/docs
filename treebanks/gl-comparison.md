@@ -35,7 +35,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 1000 sentences, 21836 tokens and 23510 syntactic words.</li>
+      <li>This corpus contains 1000 sentences, 21835 tokens and 23509 syntactic words.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -52,7 +52,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 2604 tokens (12%) that are not followed by a space.</li>
+      <li>This corpus contains 2603 tokens (12%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -86,7 +86,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 13 types of words that contain both letters and punctuation. Examples: a., C., Sra., Sr., EE.UU., d., B-29, Don't, Hitchhiker's, Jr., St., Z., Zettel's</li>
+      <li>This corpus contains 15 types of words that contain both letters and punctuation. Examples: a., C., Sra., Sr., EE.UU., d., 'Ya, B-29, Don't, Hitchhiker's, Jr., Metti,, St., Z., Zettel's</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -105,7 +105,7 @@ udver: '2'
     <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 1668 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-      <li>There are 184 types of multi-word tokens. Examples: do, da, no, na, ao, dos, á, das, nos, polo, co, nun, dunha, nas, ás, coa, dun, nunha, pola, aos, coas, cos, polas, cun, deste, desta, doutra, atópase, cunha, neste, polos, pódese, del, deles, destes, pódense, doutro, facelo, fíxose, naquela, nese, nesta, atópanse, destas, diso, disto, díxolle, enfróntase, espérase, mostráronse.</li>
+      <li>There are 184 types of multi-word tokens. Examples: do, da, no, na, ao, dos, á, das, nos, polo, co, nun, dunha, nas, ás, coa, dun, nunha, pola, aos, coas, cos, polas, cun, deste, desta, doutra, atópase, cunha, neste, polos, pódese, del, deles, destes, pódense, doutro, facelo, fíxose, naquela, nese, nesta, velo, atópanse, destas, diso, disto, díxolle, enfróntase, espérase.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -132,8 +132,8 @@ udver: '2'
       <h3>Tags</h3>
       
       <ul>
-      <li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
-      <li>This corpus does not use the following tags: PART, INTJ, X</li>
+      <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+      <li>This corpus does not use the following tags: PART, INTJ</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -170,7 +170,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 38 lemmas tagged as pronouns (PRON): algo, alguén, algún, ambos, aquel, aquela, aquilo, cal, el, ese, este, eu, iso, isto, lle, me, mesmo, moito, nada, ninguén, ningún, nos, nós, o, outro, pouco, que, quen, se, seu, si, tal, te, ti, todo, un, vos, vostede</li>
+      <li>This corpus contains 39 lemmas tagged as pronouns (PRON): algo, alguén, algún, ambos, aquel, aquela, aquilo, cal, el, ese, este, eu, iso, isto, lle, me, mesmo, min, moito, nada, ninguén, ningún, nos, nós, o, outro, pouco, que, quen, se, seu, si, tal, te, ti, todo, un, vos, vostede</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -398,7 +398,7 @@ udver: '2'
           <ul>
             <li>ADJ: gran, per, anterior, confidenciais, conservacionistas, dixital, escalofriante, especial, habitual, impactante</li>
             <li>NOUN: parte, final, partes, axentes, cápita, defensa, mañá, axente, modelo, C</li>
-            <li>PRON: se, lle, me, nos, eu, lles, mesmo, nós, que, quen</li>
+            <li>PRON: se, lle, me, nos, eu, lles, mesmo, min, nós, que</li>
           </ul>
         </li>
       </ul>
@@ -407,7 +407,7 @@ udver: '2'
       <ul>
         <li>Com
           <ul>
-            <li>ADJ: obstante, embargante, best, coincidente, diferentes, Simple, Visitábel, bípedes, capaz, conscientes</li>
+            <li>ADJ: obstante, embargante, coincidente, diferentes, Simple, Visitábel, bípedes, capaz, conscientes, fráxil</li>
             <li>NOUN: nacionalistas, socialistas, galeguista, guitarristas, prol, xornalistas, Babecas, Finalistas, alcalde, antípoda</li>
             <li>NUM: 13.000, cen</li>
             <li>PRON: se, nos, que, me, quen, lle, eu, nós, vostede, alguén</li>
@@ -1506,7 +1506,7 @@ udver: '2'
           <ul>
             <li>AUX: son, era, fora, sexa, Estamos, podemos, debemos, fose, Podo, Teño</li>
             <li>DET: noso, nosa, meu, miña, meus, nosas</li>
-            <li>PRON: me, nos, eu, nós</li>
+            <li>PRON: me, nos, eu, min, nós</li>
             <li>VERB: tiña, era, Avanzamos, cremos, deixamos, espero, Avaliaremos, Avistei, Conmovera, Contamos</li>
           </ul>
         </li>
@@ -1779,10 +1779,30 @@ udver: '2'
       </ul>
     </td>
     <td width="33%" valign="top">
-
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>X: the, a, of, Really, You, 'Ya, Anyway, Breaking, Buck, Cena</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
-
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>X: best, iudice, sellers, sub</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -1863,7 +1883,7 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (546)</li>
+            <li>VERB--NOUN (545)</li>
             <li>VERB--NOUN-ADP(a) (4)</li>
             <li>VERB--PRON (242)</li>
             <li>VERB--PRON-ADP(a) (2)</li>
@@ -1943,8 +1963,8 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (478)</li>
-            <li>VERB--NOUN-ADP(a) (21)</li>
+            <li>VERB--NOUN (479)</li>
+            <li>VERB--NOUN-ADP(a) (20)</li>
             <li>VERB--NOUN-ADP(ata) (1)</li>
             <li>VERB--NOUN-ADP(até) (1)</li>
             <li>VERB--NOUN-ADP(de) (6)</li>
@@ -1961,7 +1981,7 @@ udver: '2'
             <li>VERB-Inf--NOUN-ADP(cara) (1)</li>
             <li>VERB-Inf--NOUN-ADP(de)-ADP(a) (1)</li>
             <li>VERB-Inf--PRON (7)</li>
-            <li>VERB-Inf--PRON-Acc (14)</li>
+            <li>VERB-Inf--PRON-Acc (15)</li>
             <li>VERB-Part--NOUN (5)</li>
           </ul>
         </li>

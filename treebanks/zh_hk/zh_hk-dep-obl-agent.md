@@ -27,8 +27,8 @@ The following 1 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 2	要	要	AUX	_	_	5	aux	_	SpaceAfter=No|Translit=yào|LTranslit=yào
 3	被	被	ADP	_	_	4	case	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 4	人	人	NOUN	_	_	5	obl:agent	_	SpaceAfter=No|Translit=rén|LTranslit=rén
-5	抓	抓	VERB	_	_	0	root	_	SpaceAfter=No|Translit=zhuā|LTranslit=zhuā
-6	到	到	VERB	_	_	5	compound:vv	_	SpaceAfter=No|Translit=dào|LTranslit=dào
+5	抓	抓	VERB	_	_	0	root	_	SpaceAfter=No|Translit=zhuā|LTranslit=zhuā|Cxn=Resultative|CxnElt=5:Resultative.Event
+6	到	到	VERB	_	_	5	compound:vv	_	SpaceAfter=No|Translit=dào|LTranslit=dào|CxnElt=5:Resultative.ResultState
 7	了	了	PART	_	_	5	discourse:sp	_	SpaceAfter=No|Translit=le|LTranslit=le
 8	！	！	PUNCT	_	_	5	punct	_	SpaceAfter=No|Translit=!|LTranslit=!
 

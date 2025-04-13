@@ -22,4 +22,4 @@ Smyth, Herbert Weir. 1920. _A Greek Grammar for Colleges_. New York: American Bo
 <a href="https://archive.org/details/agreekgrammarfo02smytgoog" target="_blank">Internet Archive</a>).
 
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:34 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:20 CET -->

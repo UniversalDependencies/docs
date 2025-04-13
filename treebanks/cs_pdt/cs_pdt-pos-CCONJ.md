@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-PDT: POS Tags: `CCONJ`
 
 There are 40 `CCONJ` lemmas (0%), 40 `CCONJ` types (0%) and 13030 `CCONJ` tokens (4%).
-Out of 17 observed tags, the rank of `CCONJ` is: 11 in number of lemmas, 13 in number of types and 9 in number of tokens.
+Out of 17 observed tags, the rank of `CCONJ` is: 11 in number of lemmas, 13 in number of types and 8 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>a, i, ale, však, nebo, tedy, ani, či, proto, totiž</em>
 
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="cs_pdt-pos-CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.964432).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.961704).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
@@ -77,7 +77,7 @@ Examples: <em>a, i, ale, však, nebo, tedy, ani, či, proto, totiž</em>
 
 `CCONJ` nodes are attached to their parents using 12 different relations: <tt><a href="cs_pdt-dep-cc.html">cc</a></tt> (11427; 88% instances), <tt><a href="cs_pdt-dep-advmod-emph.html">advmod:emph</a></tt> (1345; 10% instances), <tt><a href="cs_pdt-dep-advmod.html">advmod</a></tt> (134; 1% instances), <tt><a href="cs_pdt-dep-mark.html">mark</a></tt> (84; 1% instances), <tt><a href="cs_pdt-dep-dep.html">dep</a></tt> (12; 0% instances), <tt><a href="cs_pdt-dep-conj.html">conj</a></tt> (9; 0% instances), <tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt> (6; 0% instances), <tt><a href="cs_pdt-dep-root.html">root</a></tt> (5; 0% instances), <tt><a href="cs_pdt-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="cs_pdt-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="cs_pdt-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="cs_pdt-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 16 different parts of speech: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (5197; 40% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (4240; 33% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (1698; 13% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (777; 6% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (454; 3% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (280; 2% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (179; 1% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (97; 1% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (35; 0% instances), <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (24; 0% instances), <tt><a href="cs_pdt-pos-X.html">X</a></tt> (20; 0% instances), <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> (7; 0% instances),  (5; 0% instances), <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
+Parents of `CCONJ` nodes belong to 16 different parts of speech: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (5203; 40% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (4240; 33% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (1698; 13% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (779; 6% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (454; 3% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (281; 2% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (170; 1% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (97; 1% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (35; 0% instances), <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (24; 0% instances), <tt><a href="cs_pdt-pos-X.html">X</a></tt> (20; 0% instances), <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> (7; 0% instances),  (5; 0% instances), <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
 
 12829 (98%) `CCONJ` nodes are leaves.
 

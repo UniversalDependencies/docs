@@ -43,8 +43,8 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 iobj	color:blue
-1	ⲙⲛ	ⲙⲛ	VERB	EXIST	Polarity=Neg	0	root	_	_
-2	ϭⲟⲙ	ϭⲟⲙ	NOUN	N	_	1	nsubj	_	Entity=(abstract)
+1	ⲙⲛ	ⲙⲛ	VERB	EXIST	Polarity=Neg	0	root	_	Cxn=Existential-ExistPred-Negative
+2	ϭⲟⲙ	ϭⲟⲙ	NOUN	N	_	1	nsubj	_	CxnElt=1:Existential-ExistPred-Negative.Pivot
 3	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	1	advmod	_	OrigLang=grc
 4	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	det	_	Entity=(person
 5	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	1	iobj	_	Entity=person)

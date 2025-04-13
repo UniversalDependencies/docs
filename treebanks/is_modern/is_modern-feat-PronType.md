@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Dem`, `Ind`, `Int`, `Prs`.
 
-10523 tokens (13%) have a non-empty value of `PronType`.
+10524 tokens (13%) have a non-empty value of `PronType`.
 275 types (3%) occur at least once with a non-empty value of `PronType`.
 45 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 6 part-of-speech tags: <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (7436; 9% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (3070; 4% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (7436; 9% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (3070; 4% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `PRON`
 
@@ -78,16 +78,16 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `ADJ`
 
-8 <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `PronType`.
+9 <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADJ` and `PronType` co-occurred: <tt><a href="is_modern-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="is_modern-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 88%), <tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (6; 75%).
+The most frequent other feature values with which `ADJ` and `PronType` co-occurred: <tt><a href="is_modern-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="is_modern-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 89%), <tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (7; 78%).
 
 `ADJ` tokens may have the following values of `PronType`:
 
-* `Dem` (4; 50% of non-empty `PronType`): <em>sama</em>
-* `Ind` (3; 38% of non-empty `PronType`): <em>annað, jafnrík, önnur</em>
-* `Prs` (1; 13% of non-empty `PronType`): <em>hægri</em>
-* `EMPTY` (4309): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, síðustu</em>
+* `Dem` (4; 44% of non-empty `PronType`): <em>sama</em>
+* `Ind` (4; 44% of non-empty `PronType`): <em>annað, jafnrík, önnur</em>
+* `Prs` (1; 11% of non-empty `PronType`): <em>hægri</em>
+* `EMPTY` (4308): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, síðustu</em>
 
 ### `ADV`
 
@@ -127,7 +127,7 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 `NOUN` tokens may have the following values of `PronType`:
 
 * `Ind` (1; 100% of non-empty `PronType`): <em>Frú</em>
-* `EMPTY` (13644): <em>forseti, menn, þingmaður, mál, ráðherra, fólk, tíma, máli, m, frú</em>
+* `EMPTY` (13643): <em>forseti, menn, þingmaður, mál, ráðherra, fólk, tíma, máli, m, frú</em>
 
 ## Relations with Agreement in `PronType`
 

@@ -57,7 +57,7 @@ The following 5 pairs of parts of speech are connected with `advmod:mmod`: <tt><
 13	а	а	CCONJ	CC	_	17	cc	_	OrigLang=ru
 14	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
 15	никодэс	некод	PRON	Pron	Case=Acc|Number=Sing|Polarity=Neg	17	obj	_	_
-16	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres	17	aux:neg	_	_
+16	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres	17	aux	_	_
 17	тӧд	тӧдны	VERB	V	Connegative=Yes	9	acl	_	SpaceAfter=No
 18	.	.	PUNCT	CLB	_	9	punct	_	_
 
@@ -74,7 +74,7 @@ The following 5 pairs of parts of speech are connected with `advmod:mmod`: <tt><
 2	,	,	PUNCT	CLB	_	3	punct	_	_
 3	гашке	гашкӧ	PART	Pcle	_	6	advmod:mmod	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	6	aux:neg	_	_
+5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	6	aux	_	_
 6	бросайтчы	бросайтчыны	VERB	V	Connegative=Yes	0	root	_	OrigLang=ru
 7	в	в	ADP	Pr	_	8	case	_	Lang=ru
 8	глаза	глаз	NOUN	N	Case=Nom|Number=Plur	6	obl	_	Lang=ru|SpaceAfter=No

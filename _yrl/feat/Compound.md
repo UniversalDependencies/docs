@@ -22,4 +22,4 @@ The highlighted verb compounds have two components:  the inflected main verb and
 
 Kageyama, T. (2016). 8. Verb-compounding and verb-incorporation. In T. Kageyama & H. Kishimoto (Ed.), *Handbook of Japanese Lexicon and Word Formation* (pp. 273-310). Berlin, Boston: De Gruyter Mouton. https://doi.org/10.1515/9781614512097-012
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:50 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:35 CET -->

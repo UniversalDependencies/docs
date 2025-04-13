@@ -18,4 +18,4 @@ _kar jo en irai en l' estree &gt; kar <b>jon</b> irai en l' estree_
 kar jon irai en l' estree
 nsubj:advmod(irai, jon)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:26 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:07 CET -->

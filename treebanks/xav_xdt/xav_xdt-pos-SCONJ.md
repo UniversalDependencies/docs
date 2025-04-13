@@ -13,9 +13,9 @@ The 10 most frequent `SCONJ` lemmas: <em>tahawa, wamhã, wa, dzarina, dzô</em>
 
 The 10 most frequent `SCONJ` types:  <em>Tahawa, wamhã, wa, dzarina, dzô</em>
 
-The 10 most frequent ambiguous lemmas: <em>wamhã</em> (<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2), <em>wa</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 23, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 10, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 3), <em>dzô</em> (<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 6, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>wamhã</em> (<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2), <em>wa</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 23, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 11, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 3), <em>dzô</em> (<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 6, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>wamhã</em> (<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2), <em>wa</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 22, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1), <em>dzô</em> (<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 5, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>wamhã</em> (<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2), <em>wa</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 22, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2), <em>dzô</em> (<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 5, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>wamhã</em>
@@ -24,14 +24,14 @@ The 10 most frequent ambiguous types:  <em>wamhã</em> (<tt><a href="xav_xdt-pos
 * <em>wa</em>
   * <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 22: <em>E te ĩromhu . Ĩhe , <b>wa</b> romhu</em>
   * <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 3: <em>Tsô wara <b>wa</b> te tiwi wara .</em>
-  * <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1: <em>Awẽm hã <b>wa</b> za aiʔabaʔré ni mararé romhuri hã wate wasiwi ʔrãsutuwẽ da</em>
+  * <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2: <em>Awẽm hã <b>wa</b> za aiʔabaʔré ni mararé romhuri hã wate wasiwi ʔrãsutuwẽ da</em>
 * <em>dzô</em>
   * <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 5: <em>Aibö te wara pe'a <b>dzô</b> .</em>
   * <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Rowahutu'wa ĩta'are te ta'a , 'watébrémi norĩ <b>dzô</b> romnhoré u da hã .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.294461).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.290598).
 
 The 1st highest number of forms (1) was observed with the lemma “dzarina”: <em>dzarina</em>.
 

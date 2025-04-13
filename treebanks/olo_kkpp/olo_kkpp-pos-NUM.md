@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>kolmas</em> (<tt><a href="olo_kkpp-po
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.200000 (the average of all parts of speech is 1.338462).
+The form / lemma ratio of `NUM` is 1.200000 (the average of all parts of speech is 1.335034).
 
 The 1st highest number of forms (3) was observed with the lemma “kolme”: <em>kolmas, kolme, kolmet</em>.
 

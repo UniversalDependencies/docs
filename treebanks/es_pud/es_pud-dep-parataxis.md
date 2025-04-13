@@ -31,10 +31,10 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 7	todo	todo	DET	PDT	Gender=Masc|Number=Sing|PronType=Tot	9	det	_	_
 8	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	mundo	mundo	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
-10	,	,	PUNCT	,	_	11	punct	_	_
+10	,	,	PUNCT	,	PunctType=Comm	11	punct	_	_
 11	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
 12	Leive	Leive	PROPN	NNP	Gender=Fem|Number=Sing	11	nsubj	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	4	punct	_	_
+13	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 ~~~
 
@@ -54,12 +54,12 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 7	como	como	ADP	IN	_	9	case	_	_
 8	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	hombre	hombre	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
-10	,	,	PUNCT	,	_	11	punct	_	_
+10	,	,	PUNCT	,	PunctType=Comm	11	punct	_	_
 11	estoy	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 12	más	más	ADV	RBR	Degree=Cmp	11	advmod	_	_
 13	que	que	ADP	IN	_	14	case	_	_
 14	enfadado	enfadado	ADJ	JJ	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
-15	.	.	PUNCT	.	_	3	punct	_	_
+15	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -72,13 +72,13 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 1 4 parataxis	color:blue
 1	Día	día	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 2	tres	tres	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	1	appos	_	SpaceAfter=No
-3	,	,	PUNCT	,	_	4	punct	_	_
+3	,	,	PUNCT	,	PunctType=Comm	4	punct	_	_
 4	estaba	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	vuelta	vuelta	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
 7	en	en	ADP	IN	_	8	case	_	_
 8	Emicro	Emicro	PROPN	NNP	Number=Sing	4	obl	_	SpaceAfter=No
-9	.	.	PUNCT	.	_	1	punct	_	_
+9	.	.	PUNCT	.	PunctType=Peri	1	punct	_	_
 
 ~~~
 

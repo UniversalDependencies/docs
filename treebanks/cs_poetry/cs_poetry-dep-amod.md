@@ -24,15 +24,15 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 5 6 amod	color:blue
 1	Zde	zde	ADV	Db-------------	PronType=Dem	10	advmod	_	_
 2	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	_
-3	píli	píle	NOUN	pred	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	10	obl	_	SpaceAfter=No
+3	píli	píle	NOUN	pred	Case=Loc|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
 4	,	,	PUNCT	Z:-------------	_	5	punct	_	_
-5	snaze	snaha	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	3	conj	_	_
+5	snaze	snaha	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing	3	conj	_	_
 6	neúmorné	úmorný	ADJ	AAFS6----1N----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg	5	amod	_	_
 7	Tvá	tvůj	DET	VB-S---3P-AA---	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	11	obj	_	_
 8	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	9	case	_	_
-9	severu	sever	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	10	obl	_	_
+9	severu	sever	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
 10	stojí	stát	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-11	stráž	stráž	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	10	nsubj	_	SpaceAfter=No
+11	stráž	stráž	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	SpaceAfter=No
 12	!	!	PUNCT	Z:-------------	_	10	punct	_	_
 
 ~~~
@@ -46,7 +46,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 3 4 amod	color:blue
 1	Rozhučela	rozhučet	VERB	VpQW---XR-AA---	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	_	_
-3	Svitava	Svitava	PROPN	NNFS1-----A----	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	1	nsubj	_	_
+3	Svitava	Svitava	PROPN	NNFS1-----A----	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	1	nsubj	_	_
 4	kalná	kalný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	3	amod	_	_
 5	a	a	CCONJ	J^-------------	_	6	cc	_	_
 6	rozvodněná	rozvodněný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	4	conj	_	SpaceAfter=No

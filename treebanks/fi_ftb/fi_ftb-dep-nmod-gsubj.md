@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Finnish-FTB: Relations: `nmod:gsubj`
 
 This relation is a language-specific subtype of <tt><a href="fi_ftb-dep-nmod.html">nmod</a></tt>.
-There are also 1 other language-specific subtypes of `nmod`: <tt><a href="fi_ftb-dep-nmod-gobj.html">nmod:gobj</a></tt>.
+There are also 2 other language-specific subtypes of `nmod`: <tt><a href="fi_ftb-dep-nmod-gobj.html">nmod:gobj</a></tt>, <tt><a href="fi_ftb-dep-nmod-poss.html">nmod:poss</a></tt>.
 
 101 nodes (0%) are attached to their parents as `nmod:gsubj`.
 

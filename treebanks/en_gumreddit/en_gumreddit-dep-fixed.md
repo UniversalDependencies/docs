@@ -27,7 +27,7 @@ The following 13 pairs of parts of speech are connected with `fixed`: <tt><a hre
 3	_	_	NOUN	NN	Number=Sing	15	nsubj:outer	15:nsubj:outer|30:nsubj:xsubj	Lem=_|Len=10|MSeg=differ-ence
 4	_	_	ADP	IN	_	6	case	6:case	Lem=_|Len=7|MSeg=be-tween
 5	_	_	NOUN	NN	Number=Sing	6	compound	6:compound	Entity=(140-object-new-cf5-2-sgl|Lem=_|Len=5
-6	_	_	NOUN	NN	Number=Sing	3	nmod	3:nmod:between	Entity=140)|Lem=_|Len=8
+6	_	_	NOUN	NN	Number=Sing	3	nmod	3:nmod:between	Entity=140)|Lem=_|Len=8|MSeg=currenc-y
 7	_	_	CCONJ	CC	_	8	cc	8:cc	Lem=_|Len=3
 8	_	_	NOUN	NN	Number=Sing	6	conj	3:nmod:between|6:conj:and	Entity=(99-substance-giv:act-cf1*-1-coref)139)|Lem=_|Len=4
 9	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	Lem=be|Len=2
@@ -38,17 +38,17 @@ The following 13 pairs of parts of speech are connected with `fixed`: <tt><a hre
 14	_	_	NOUN	NN	Number=Sing	11	nmod	11:nmod:in	Entity=(142-object-new-cf6-1-sgl)141)|Lem=_|Len=4
 15	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=weigh|Len=6|MSeg=weigh-s
 16	_	_	DET	DT	Definite=Ind|PronType=Art	17	det	17:det	Lem=_|Len=1
-17	_	_	NOUN	NN	Number=Sing	18	obl:npmod	18:obl:npmod	Lem=_|Len=3
-18	_	_	ADV	RBR	Degree=Cmp	21	advmod	21:advmod	ExtPos=ADV|Lem=_|Len=4
+17	_	_	NOUN	NN	Number=Sing	18	obl:unmarked	18:obl:unmarked	Lem=_|Len=3
+18	_	_	ADV	RBR	Degree=Cmp|ExtPos=ADV	21	advmod	21:advmod	Lem=_|Len=4
 19	_	_	ADP	IN	_	18	fixed	18:fixed	Lem=_|Len=4
 20	_	_	SYM	$	_	15	obj	15:obj	Entity=(143-substance-new-cf4-1-sgl|Lem=_|Len=1
 21	_	_	NUM	CD	NumForm=Digit|NumType=Card	20	nummod	20:nummod	Lem=100000|Len=7
 22	_	_	ADP	IN	_	23	case	23:case	Lem=_|Len=2
 23	_	_	NOUN	NN	Number=Sing	20	nmod	20:nmod:in	Entity=(99-substance-giv:act-cf1*-1-coref)143)|Lem=_|Len=4
-24	_	_	CCONJ	CC	_	28	cc	28:cc	Discourse=joint-list_m:146->145:0:dm-and-954+lex-indwd-961|Lem=_|Len=3
+24	_	_	CCONJ	CC	_	28	cc	28:cc	Discourse=joint-list_m:146->145:0:dm-and-954+lex-indwd-961|Lem=_|Len=3|PDTB=Explicit:Expansion.Conjunction:and:954:931-953:955-962
 25	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	28:cop	Lem=be|Len=2
 26	_	_	DET	DT	Definite=Ind|PronType=Art	27	det	27:det	Lem=_|Len=1
-27	_	_	NOUN	NN	Number=Sing	28	obl:npmod	28:obl:npmod	Lem=_|Len=3
+27	_	_	NOUN	NN	Number=Sing	28	obl:unmarked	28:obl:unmarked	Lem=_|Len=3
 28	_	_	ADJ	JJR	Degree=Cmp	15	conj	15:conj:and	Lem=easy|Len=6|MSeg=easi-er
 29	_	_	PART	TO	_	30	mark	30:mark	Lem=_|Len=2
 30	_	_	VERB	VB	VerbForm=Inf	28	xcomp	28:xcomp	Lem=_|Len=4
@@ -64,13 +64,13 @@ The following 13 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 12 fixed	color:blue
-1	_	_	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Discourse=attribution-positive:122->123:0:sem-atsrc-911+lex-indwd-911+syn-rpr-912-913,915-919,925|Lem=*LOWER*|Len=6
-2	_	_	SCONJ	IN	_	10	mark	10:mark	Discourse=explanation-justify:123->121:1:_;joint-list:123->121:2:2:orp-also-915|Lem=_|Len=4
+1	_	_	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Discourse=attribution-positive:122->123:0:lex-indwd-911+sem-atsrc-911+syn-rpr-912-913,915-919,925|Lem=*LOWER*|Len=6
+2	_	_	SCONJ	IN	_	10	mark	10:mark	Discourse=explanation-justify:123->121:1:_;joint-list:123->121:1:1:orp-also-915|Lem=_|Len=4
 3	_	_	PROPN	NNP	Number=Sing	10	nsubj	10:nsubj	Entity=(97-abstract-new-cf1-1,2-sgl-Iron_Chef_America|Lem=_|Len=4
 4	_	_	PROPN	NNP	Number=Sing	3	flat	3:flat	Entity=97)|Lem=_|Len=4
-5	_	_	ADV	RB	_	10	advmod	10:advmod	Lem=_|Len=4
+5	_	_	ADV	RB	_	10	advmod	10:advmod	Lem=_|Len=4|PDTB=Explicit:Expansion.Conjunction:also:915:888-910:911-914,916-926
 6	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	10:cop	Lem=be|Len=3
-7	_	_	PART	RB	Polarity=Neg	10	advmod	10:advmod	Lem=not|Len=3
+7	_	_	PART	RB	Polarity=Neg	10	advmod	10:advmod	Lem=not|Len=3|Negation=Yes
 8	_	_	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	Entity=(98-abstract-new-cf2-3-sgl|Lem=_|Len=1
 9	_	_	ADJ	JJ	Degree=Pos	10	amod	10:amod	Lem=_|Len=5
 10	_	_	NOUN	NN	Number=Sing	1	ccomp	1:ccomp	Entity=98)|Lem=_|Len=8
@@ -90,13 +90,13 @@ The following 13 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 fixed	color:blue
-1	_	_	ADV	WRB	PronType=Int|Typo=Yes	5	advmod	5:advmod	CorrectForm=Why|Discourse=elaboration-additional:117->115:0:ref-prop-807-820,832|Lem=_|Len=3|XML=<hi rend:::"italic"><sic ana:::"Why"></sic>
+1	_	_	ADV	WRB	PronType=Int|Typo=Yes	5	advmod	5:advmod	CorrectForm=Why|CxnElt=5:Interrogative-WHInfo-Direct.WHWord|Discourse=elaboration-additional:117->115:0:ref-prop-807-820,832|Lem=_|Len=3|XML=<hi rend:::"italic"><sic ana:::"Why"></sic>
 2	_	_	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	5:aux	Lem=_|Len=2
-3	_	_	PART	RB	Polarity=Neg	5	advmod	5:advmod	Lem=not|Len=3
+3	_	_	PART	RB	Polarity=Neg	5	advmod	5:advmod	Lem=not|Len=3|Negation=Yes
 4	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	Entity=(53-person-giv:inact-cf2-1-ana)|Lem=_|Len=3
-5	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Cxn=Interrogative-WHInfo-Direct|Lem=_|Len=2
+5	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Cxn=Interrogative-WHInfo-Direct|CxnElt=5:Interrogative-WHInfo-Direct.Clause|Lem=_|Len=2
 6	_	_	PRON	DT	Number=Sing|PronType=Dem	5	obj	5:obj	Entity=(123-event-giv:act-cf1*-1-ana)|Lem=_|Len=4
-7	_	_	ADV	RB	_	5	advmod	5:advmod	ExtPos=ADV|Lem=_|Len=2
+7	_	_	ADV	RB	ExtPos=ADV	5	advmod	5:advmod	Lem=_|Len=2
 8	_	_	ADV	RB	Degree=Pos	7	fixed	7:fixed	Lem=_|Len=4|SpaceAfter=No
 9	_	_	PUNCT	.	_	5	punct	5:punct	Lem=_|Len=1|XML=</hi>
 

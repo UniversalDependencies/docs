@@ -12,15 +12,15 @@ udver: '2'
 # UD Swedish Talbanken
 
 Language: [Swedish](/sv/index.html) (code: `sv`)<br/>
-Family: Indo-European, Germanic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
 The following people have contributed to making this treebank part of UD: Joakim Nivre, Aaron Smith, Victor Norrman.
 
 Repository: [UD_Swedish-Talbanken](https://github.com/UniversalDependencies/UD_Swedish-Talbanken)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_talbanken214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_talbanken215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -36,11 +36,11 @@ Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | assigned by a program, with extensive manual and semi-automatic corrections, but not a full manual verification |
+| Lemmas | assigned by a program, with some manual corrections, but not a full manual verification |
 | UPOS | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
 | XPOS | annotated manually |
-| Features | annotated manually in non-UD style, automatically converted to UD, with extensive manual and semi-automatic corrections |
-| Relations | annotated manually in non-UD style, automatically converted to UD, with extensive manual and semi-automatic corrections |
+| Features | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| Relations | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
 
 ## Description
 
@@ -63,12 +63,12 @@ Stockholm-Umeå Corpus, Version 2.0 (2006), and lemmatization is based on Saldo
 ## Acknowledgments
 
 The new conversion has been performed by Joakim Nivre and Aaron Smith at Uppsala
-University. A semi-automatic correction of features and lemmas was done by Victor 
-Norrman and Joakim Nivre. We thank everyone who has been involved in previous 
-conversion efforts at Växjö University and Uppsala University, including Bengt 
-Dahlqvist, Sofia Gustafson-Capkova, Johan Hall, Anna Sågvall Hein, Beáta Megyesi, 
-Jens Nilsson, and Filip Salomonsson. Special thanks also to Lars Borin and Markus 
-Forsberg at Språkbanken for help with the lemmatization. Finally, we owe a huge 
+University. A semi-automatic correction of features and lemmas was done by Victor
+Norrman and Joakim Nivre. We thank everyone who has been involved in previous
+conversion efforts at Växjö University and Uppsala University, including Bengt
+Dahlqvist, Sofia Gustafson-Capkova, Johan Hall, Anna Sågvall Hein, Beáta Megyesi,
+Jens Nilsson, and Filip Salomonsson. Special thanks also to Lars Borin and Markus
+Forsberg at Språkbanken for help with the lemmatization. Finally, we owe a huge
 debt to the team who produced the original treebank in the 1970s.
 
 ## References
@@ -95,7 +95,7 @@ Department of Linguistics.
 
 ## POS Tags
 
-[ADJ](sv_talbanken-pos-ADJ.html) – [ADP](sv_talbanken-pos-ADP.html) – [ADV](sv_talbanken-pos-ADV.html) – [AUX](sv_talbanken-pos-AUX.html) – [CCONJ](sv_talbanken-pos-CCONJ.html) – [DET](sv_talbanken-pos-DET.html) – [INTJ](sv_talbanken-pos-INTJ.html) – [NOUN](sv_talbanken-pos-NOUN.html) – [NUM](sv_talbanken-pos-NUM.html) – [PART](sv_talbanken-pos-PART.html) – [PRON](sv_talbanken-pos-PRON.html) – [PROPN](sv_talbanken-pos-PROPN.html) – [PUNCT](sv_talbanken-pos-PUNCT.html) – [SCONJ](sv_talbanken-pos-SCONJ.html) – [SYM](sv_talbanken-pos-SYM.html) – [VERB](sv_talbanken-pos-VERB.html)
+[ADJ](sv_talbanken-pos-ADJ.html) – [ADP](sv_talbanken-pos-ADP.html) – [ADV](sv_talbanken-pos-ADV.html) – [AUX](sv_talbanken-pos-AUX.html) – [CCONJ](sv_talbanken-pos-CCONJ.html) – [DET](sv_talbanken-pos-DET.html) – [INTJ](sv_talbanken-pos-INTJ.html) – [NOUN](sv_talbanken-pos-NOUN.html) – [NUM](sv_talbanken-pos-NUM.html) – [PART](sv_talbanken-pos-PART.html) – [PRON](sv_talbanken-pos-PRON.html) – [PROPN](sv_talbanken-pos-PROPN.html) – [PUNCT](sv_talbanken-pos-PUNCT.html) – [SCONJ](sv_talbanken-pos-SCONJ.html) – [SYM](sv_talbanken-pos-SYM.html) – [VERB](sv_talbanken-pos-VERB.html) – [X](sv_talbanken-pos-X.html)
 
 ## Features
 
@@ -103,7 +103,7 @@ Department of Linguistics.
 
 ## Relations
 
-[acl](sv_talbanken-dep-acl.html) – [acl:cleft](sv_talbanken-dep-acl-cleft.html) – [acl:relcl](sv_talbanken-dep-acl-relcl.html) – [advcl](sv_talbanken-dep-advcl.html) – [advmod](sv_talbanken-dep-advmod.html) – [amod](sv_talbanken-dep-amod.html) – [appos](sv_talbanken-dep-appos.html) – [aux](sv_talbanken-dep-aux.html) – [aux:pass](sv_talbanken-dep-aux-pass.html) – [case](sv_talbanken-dep-case.html) – [cc](sv_talbanken-dep-cc.html) – [ccomp](sv_talbanken-dep-ccomp.html) – [compound](sv_talbanken-dep-compound.html) – [compound:prt](sv_talbanken-dep-compound-prt.html) – [conj](sv_talbanken-dep-conj.html) – [cop](sv_talbanken-dep-cop.html) – [csubj](sv_talbanken-dep-csubj.html) – [csubj:pass](sv_talbanken-dep-csubj-pass.html) – [det](sv_talbanken-dep-det.html) – [discourse](sv_talbanken-dep-discourse.html) – [dislocated](sv_talbanken-dep-dislocated.html) – [expl](sv_talbanken-dep-expl.html) – [fixed](sv_talbanken-dep-fixed.html) – [flat:name](sv_talbanken-dep-flat-name.html) – [iobj](sv_talbanken-dep-iobj.html) – [list](sv_talbanken-dep-list.html) – [mark](sv_talbanken-dep-mark.html) – [nmod](sv_talbanken-dep-nmod.html) – [nmod:poss](sv_talbanken-dep-nmod-poss.html) – [nsubj](sv_talbanken-dep-nsubj.html) – [nsubj:pass](sv_talbanken-dep-nsubj-pass.html) – [nummod](sv_talbanken-dep-nummod.html) – [obj](sv_talbanken-dep-obj.html) – [obl](sv_talbanken-dep-obl.html) – [obl:agent](sv_talbanken-dep-obl-agent.html) – [orphan](sv_talbanken-dep-orphan.html) – [parataxis](sv_talbanken-dep-parataxis.html) – [punct](sv_talbanken-dep-punct.html) – [root](sv_talbanken-dep-root.html) – [vocative](sv_talbanken-dep-vocative.html) – [xcomp](sv_talbanken-dep-xcomp.html)
+[acl](sv_talbanken-dep-acl.html) – [acl:cleft](sv_talbanken-dep-acl-cleft.html) – [acl:relcl](sv_talbanken-dep-acl-relcl.html) – [advcl](sv_talbanken-dep-advcl.html) – [advmod](sv_talbanken-dep-advmod.html) – [amod](sv_talbanken-dep-amod.html) – [appos](sv_talbanken-dep-appos.html) – [aux](sv_talbanken-dep-aux.html) – [aux:pass](sv_talbanken-dep-aux-pass.html) – [case](sv_talbanken-dep-case.html) – [cc](sv_talbanken-dep-cc.html) – [ccomp](sv_talbanken-dep-ccomp.html) – [compound](sv_talbanken-dep-compound.html) – [compound:prt](sv_talbanken-dep-compound-prt.html) – [conj](sv_talbanken-dep-conj.html) – [cop](sv_talbanken-dep-cop.html) – [csubj](sv_talbanken-dep-csubj.html) – [csubj:pass](sv_talbanken-dep-csubj-pass.html) – [dep](sv_talbanken-dep-dep.html) – [det](sv_talbanken-dep-det.html) – [discourse](sv_talbanken-dep-discourse.html) – [dislocated](sv_talbanken-dep-dislocated.html) – [expl](sv_talbanken-dep-expl.html) – [fixed](sv_talbanken-dep-fixed.html) – [flat](sv_talbanken-dep-flat.html) – [flat:name](sv_talbanken-dep-flat-name.html) – [goeswith](sv_talbanken-dep-goeswith.html) – [iobj](sv_talbanken-dep-iobj.html) – [list](sv_talbanken-dep-list.html) – [mark](sv_talbanken-dep-mark.html) – [nmod](sv_talbanken-dep-nmod.html) – [nmod:poss](sv_talbanken-dep-nmod-poss.html) – [nsubj](sv_talbanken-dep-nsubj.html) – [nsubj:pass](sv_talbanken-dep-nsubj-pass.html) – [nummod](sv_talbanken-dep-nummod.html) – [obj](sv_talbanken-dep-obj.html) – [obl](sv_talbanken-dep-obl.html) – [obl:agent](sv_talbanken-dep-obl-agent.html) – [orphan](sv_talbanken-dep-orphan.html) – [parataxis](sv_talbanken-dep-parataxis.html) – [punct](sv_talbanken-dep-punct.html) – [root](sv_talbanken-dep-root.html) – [vocative](sv_talbanken-dep-vocative.html) – [xcomp](sv_talbanken-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -132,8 +132,7 @@ Department of Linguistics.
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: X</li>
+<li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 </ul>
 
 <ul>
@@ -242,7 +241,6 @@ Department of Linguistics.
   <li>Masc
     <ul>
       <li>NOUN: consensus</li>
-      <li>PRON: denne</li>
     </ul>
   </li>
 </ul>
@@ -378,7 +376,7 @@ Department of Linguistics.
   <li>Cmp
     <ul>
       <li>ADJ: större, högre, bättre, mindre, äldre, längre, lättare, lägre, svårare, tidigare</li>
-      <li>ADV: mer, tidigare, mindre, vidare, mera, längre, senare, ytterligare, bättre, närmare</li>
+      <li>ADV: mer, tidigare, mindre, mera, längre, senare, vidare, ytterligare, bättre, närmare</li>
     </ul>
   </li>
 </ul>
@@ -608,7 +606,7 @@ Department of Linguistics.
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: första, andra, tredje, fjärde, femte, andre, III, fjortonde, tionde, 25:e</li>
+      <li>ADJ: första, andra, tredje, fjärde, femte, andre, III, fjortonde, 25:e, 700:e</li>
     </ul>
   </li>
 </ul>
@@ -638,7 +636,7 @@ Department of Linguistics.
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: s k, s.k., ev, resp, Kungl, Kungl., S:t, Teol, fil, med</li>
+          <li>ADJ: s k, s.k., ev, resp, Kungl, Kungl., S:t, Teol, a., fil</li>
           <li>ADP: f</li>
           <li>ADV: t.ex., ca, t ex, bl.a., etc, bl a, dvs, osv, t o m, resp</li>
           <li>NOUN: kr, %, dr, s., kap., proc, KPI, milj, mån, kl</li>
@@ -671,6 +669,7 @@ Department of Linguistics.
       <li>Yes
         <ul>
           <li>ADJ-Part: mantalskriven, nurvarande</li>
+          <li>ADP: efter</li>
         </ul>
       </li>
     </ul>
@@ -696,18 +695,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (13)</li>
-      <li>VERB-Fin--NOUN-Nom (2075)</li>
+      <li>VERB-Fin--NOUN (11)</li>
+      <li>VERB-Fin--NOUN-Nom (2071)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(till) (2)</li>
-      <li>VERB-Fin--PRON (1023)</li>
-      <li>VERB-Fin--PRON-Nom (1021)</li>
+      <li>VERB-Fin--PRON (1056)</li>
+      <li>VERB-Fin--PRON-Nom (1022)</li>
       <li>VERB-Inf--NOUN (1)</li>
       <li>VERB-Inf--NOUN-Nom (497)</li>
       <li>VERB-Inf--PRON (197)</li>
       <li>VERB-Inf--PRON-Nom (521)</li>
       <li>VERB-Sup--NOUN (3)</li>
       <li>VERB-Sup--NOUN-Nom (274)</li>
-      <li>VERB-Sup--PRON (100)</li>
+      <li>VERB-Sup--PRON (103)</li>
       <li>VERB-Sup--PRON-Nom (152)</li>
     </ul>
   </li>
@@ -716,21 +715,23 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (34)</li>
+      <li>VERB-Fin--NOUN (32)</li>
       <li>VERB-Fin--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Nom (1763)</li>
+      <li>VERB-Fin--NOUN-Nom (1765)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(mellan) (1)</li>
-      <li>VERB-Fin--PRON (160)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(när) (20)</li>
+      <li>VERB-Fin--PRON (162)</li>
       <li>VERB-Fin--PRON-Acc (230)</li>
       <li>VERB-Inf--NOUN (10)</li>
-      <li>VERB-Inf--NOUN-Nom (1292)</li>
+      <li>VERB-Inf--NOUN-Nom (1289)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(för) (1)</li>
-      <li>VERB-Inf--PRON (118)</li>
+      <li>VERB-Inf--PRON (119)</li>
       <li>VERB-Inf--PRON-Acc (149)</li>
       <li>VERB-Sup--NOUN (2)</li>
       <li>VERB-Sup--NOUN-Nom (256)</li>
+      <li>VERB-Sup--NOUN-Nom-ADP(när) (3)</li>
       <li>VERB-Sup--PRON (26)</li>
       <li>VERB-Sup--PRON-Acc (33)</li>
     </ul>
@@ -759,6 +760,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 9 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>reparandum</a></li>
 </ul>

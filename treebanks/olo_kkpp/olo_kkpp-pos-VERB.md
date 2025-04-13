@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>olen</em> (<tt><a href="olo_kkpp-pos-
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.432203 (the average of all parts of speech is 1.338462).
+The form / lemma ratio of `VERB` is 1.432203 (the average of all parts of speech is 1.335034).
 
 The 1st highest number of forms (9) was observed with the lemma “sanuo”: <em>sanoi, sanomah, sanon, sanoo, sanottih, sanottu, sanottuu, sanou, sanuo</em>.
 

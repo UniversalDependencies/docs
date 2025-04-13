@@ -67,4 +67,4 @@ The auxiliary indicates that the constituent in focus is neither the subject nor
 *  _jën <b>ngeen</b> lekk_ “you ate fish (it's fish what you guys ate)”
 *  _jën <b>lañu</b> lekk_ “they ate fish (it's fish what they ate)”
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:57 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:41 CET -->

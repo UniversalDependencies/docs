@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latvian-Cairo: POS Tags: `ADV`
 
 There are 8 `ADV` lemmas (7%), 8 `ADV` types (7%) and 8 `ADV` tokens (5%).
-Out of 13 observed tags, the rank of `ADV` is: 4 in number of lemmas, 5 in number of types and 7 in number of tokens.
+Out of 13 observed tags, the rank of `ADV` is: 4 in number of lemmas, 5 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>kad, kā, līdzi, pārāk, tad, todien, vakar, ātri</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.102804).
+The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.093458).
 
 The 1st highest number of forms (1) was observed with the lemma “kad”: <em>kad</em>.
 

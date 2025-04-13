@@ -44,6 +44,8 @@ In general, tokens are delimited by whitespace characters and punctuation. This 
    * [nsubj:pass]()
    * [obl:agent]()
    * [obl:cau]()
+   * [obl:tmod]()
+   * [flat:name]()
 
 
 ## Treebanks

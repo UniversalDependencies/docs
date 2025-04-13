@@ -11,4 +11,4 @@ udver: '2'
 An auxiliary is a function word that accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb, such as tense, mood, aspect and polarity.
 Auxiliaries can not be root.
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:34 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:19 CET -->

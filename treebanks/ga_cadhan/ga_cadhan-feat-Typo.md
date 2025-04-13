@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-2 tokens (0%) have a non-empty value of `Typo`.
-2 types (0%) occur at least once with a non-empty value of `Typo`.
-2 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+3 tokens (0%) have a non-empty value of `Typo`.
+3 types (0%) occur at least once with a non-empty value of `Typo`.
+3 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 3 part-of-speech tags: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -24,11 +24,19 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 
 * `Yes` (1; 100% of non-empty `Typo`): <em>Righthigh</em>
 
+### `SCONJ`
+
+1 <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> tokens (1% of all `SCONJ` tokens) have a non-empty value of `Typo`.
+
+`SCONJ` tokens may have the following values of `Typo`:
+
+* `Yes` (1; 100% of non-empty `Typo`): <em>da</em>
+
 ### `VERB`
 
 1 <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="ga_cadhan-feat-Form.html">Form</a></tt><tt>=Ecl</tt> (1; 100%), <tt><a href="ga_cadhan-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="ga_cadhan-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_cadhan-feat-Person.html">Person</a></tt><tt>=1</tt> (1; 100%), <tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="ga_cadhan-feat-Form.html">Form</a></tt><tt>=Ecl</tt> (1; 100%), <tt><a href="ga_cadhan-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="ga_cadhan-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_cadhan-feat-Person.html">Person</a></tt><tt>=1</tt> (1; 100%), <tt><a href="ga_cadhan-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Typo`:
 

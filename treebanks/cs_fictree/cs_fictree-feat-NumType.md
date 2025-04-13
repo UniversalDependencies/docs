@@ -8,7 +8,6 @@ udver: '2'
 
 This feature is universal.
 It occurs with 5 different values: `Card`, `Frac`, `Mult`, `Ord`, `Sets`.
-Some words have combined values of the feature; 1 combinations have been observed: `Mult|Sets`.
 
 2137 tokens (1%) have a non-empty value of `NumType`.
 301 types (1%) occur at least once with a non-empty value of `NumType`.
@@ -36,7 +35,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 `ADJ` tokens may have the following values of `NumType`:
 
-* `Mult,Sets` (8; 2% of non-empty `NumType`): <em>Obojí, dvojí, dvojím, oboje, obého</em>
+* `Mult` (8; 2% of non-empty `NumType`): <em>Obojí, dvojí, dvojím, oboje, obého</em>
 * `Ord` (349; 97% of non-empty `NumType`): <em>první, druhý, druhé, třetí, prvním, druhou, druhá, druhém, druhého, prvního</em>
 * `Sets` (3; 1% of non-empty `NumType`): <em>jedny, jedněch</em>
 * `EMPTY` (10539): <em>celý, rád, další, jiného, poslední, malé, celé, celou, velké, vlastní</em>

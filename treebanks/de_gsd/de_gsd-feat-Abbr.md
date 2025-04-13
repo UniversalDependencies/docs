@@ -21,7 +21,7 @@ The feature is used with 9 part-of-speech tags: <tt><a href="de_gsd-pos-NOUN.htm
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (22; 100% of non-empty `Abbr`): <em>s, l, ET, N, Sp, U, V, dBm, km, mA</em>
-* `EMPTY` (52260): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52275): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (17) occur only with one value of `Abbr`.
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (7; 100% of non-empty `Abbr`): <em>GT, P, TD, Chr, FK, FOSs, PD</em>
-* `EMPTY` (30430): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
+* `EMPTY` (30412): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
 
 ### `ADP`
 
@@ -63,7 +63,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>sog, lat</em>
-* `EMPTY` (20639): <em>ersten, später, erste, weitere, neue, zweiten, bekannt, neuen, großen, große</em>
+* `EMPTY` (21736): <em>ersten, später, erste, gut, weitere, neue, bekannt, zweiten, neuen, großen</em>
 
 ### `ADV`
 
@@ -72,7 +72,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>abzgl, ua, usw</em>
-* `EMPTY` (14976): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
+* `EMPTY` (13881): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
 ### `VERB`
 
@@ -83,7 +83,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>geb, vergl</em>
-* `EMPTY` (20645): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
+* `EMPTY` (20642): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
 
 ### `NUM`
 
@@ -94,7 +94,7 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 `NUM` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>T</em>
-* `EMPTY` (7335): <em>zwei, drei, vier, 2007, fünf, 2006, 2009, sechs, 2010, 2008</em>
+* `EMPTY` (7336): <em>zwei, drei, vier, 2007, fünf, 2006, 2009, sechs, 2010, 2008</em>
 
 ### `X`
 
@@ -105,7 +105,7 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 `X` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>og</em>
-* `EMPTY` (313): <em>'s, B., u.a., %, etc., z.B., a, z., †, u</em>
+* `EMPTY` (312): <em>'s, B., u.a., %, etc., z.B., a, z., †, u</em>
 
 ## Relations with Agreement in `Abbr`
 

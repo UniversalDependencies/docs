@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Nom`.
 
-5315 tokens (33%) have a non-empty value of `Case`.
-999 types (39%) occur at least once with a non-empty value of `Case`.
-441 lemmas (45%) occur at least once with a non-empty value of `Case`.
-The feature is used with 5 part-of-speech tags: <tt><a href="aln_gps-pos-PRON.html">PRON</a></tt> (2483; 16% instances), <tt><a href="aln_gps-pos-NOUN.html">NOUN</a></tt> (2447; 15% instances), <tt><a href="aln_gps-pos-DET.html">DET</a></tt> (223; 1% instances), <tt><a href="aln_gps-pos-ADJ.html">ADJ</a></tt> (161; 1% instances), <tt><a href="aln_gps-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+5314 tokens (33%) have a non-empty value of `Case`.
+998 types (39%) occur at least once with a non-empty value of `Case`.
+440 lemmas (45%) occur at least once with a non-empty value of `Case`.
+The feature is used with 5 part-of-speech tags: <tt><a href="aln_gps-pos-PRON.html">PRON</a></tt> (2483; 16% instances), <tt><a href="aln_gps-pos-NOUN.html">NOUN</a></tt> (2446; 15% instances), <tt><a href="aln_gps-pos-DET.html">DET</a></tt> (223; 1% instances), <tt><a href="aln_gps-pos-ADJ.html">ADJ</a></tt> (161; 1% instances), <tt><a href="aln_gps-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `PRON`
 
@@ -40,9 +40,9 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `NOUN`
 
-2447 <tt><a href="aln_gps-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
+2446 <tt><a href="aln_gps-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="aln_gps-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1748; 71%), <tt><a href="aln_gps-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1439; 59%), <tt><a href="aln_gps-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1301; 53%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="aln_gps-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1747; 71%), <tt><a href="aln_gps-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1439; 59%), <tt><a href="aln_gps-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1300; 53%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -50,8 +50,8 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Acc` (1383; 57% of non-empty `Case`): <em>da:rdha, dardha, dardhat, da:rdhat, bicikell, dardh, korp, tok, dardha:, bicikle:t</em>
 * `Dat` (116; 5% of non-empty `Case`): <em>djalit, dja:lit, djemve, bicikles, da:rdhave, filmit, gurit, moshës, biciklles, biqikletës</em>
 * `Gen` (15; 1% of non-empty `Case`): <em>dardhes, kohës, rru:gës, da:rdhave, dardha:ve, dardhës, dja:lit, kohes:, naty:rës, shpo:rteve</em>
-* `Nom` (821; 34% of non-empty `Case`): <em>djem, djali, djal, djemt, njeri, fmi:, burr, bujk, burri, da:rdhat</em>
-* `EMPTY` (26): <em>birne, kappe, baum, belo:nig, bode, bujk, djali, fi:lmi, jungs, koh</em>
+* `Nom` (820; 34% of non-empty `Case`): <em>djem, djali, djal, djemt, njeri, fmi:, burr, bujk, burri, da:rdhat</em>
+* `EMPTY` (27): <em>birne, kappe, baum, belo:nig, bode, bujk, cowboy, djali, fi:lmi, jungs</em>
 
 <table>
   <tr><th>Paradigm <i>dardhë</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Abl</tt></th></tr>

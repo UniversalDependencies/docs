@@ -13,7 +13,7 @@ The 10 most frequent `PUNCT` lemmas: <em>., ,, ?, –, !, -, _, —</em>
 
 The 10 most frequent `PUNCT` types:  <em>., ,, ?, -, –, !, —</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="ky_tuecl-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ky_tuecl-pos-NUM.html">NUM</a></tt> 1, <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="ky_tuecl-pos-NUM.html">NUM</a></tt> 1, <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 1, <tt><a href="ky_tuecl-pos-PUNCT.html">PUNCT</a></tt> 1)
 
 The 10 most frequent ambiguous types:  
 
@@ -21,13 +21,13 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.875000 (the average of all parts of speech is 1.451724).
+The form / lemma ratio of `PUNCT` is 0.875000 (the average of all parts of speech is 1.466899).
 
-The 1st highest number of forms (2) was observed with the lemma “_”: <em>-, .</em>.
+The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
+The 2nd highest number of forms (1) was observed with the lemma “,”: <em>,</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “,”: <em>,</em>.
+The 3rd highest number of forms (1) was observed with the lemma “-”: <em>-</em>.
 
 `PUNCT` does not occur with any features.
 

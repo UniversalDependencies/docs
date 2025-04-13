@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Acc`, `Gen`, `Nom`.
 
-36724 tokens (38%) have a non-empty value of `Case`.
-12638 types (84%) occur at least once with a non-empty value of `Case`.
-8615 lemmas (83%) occur at least once with a non-empty value of `Case`.
-The feature is used with 6 part-of-speech tags: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (22429; 23% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (8565; 9% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (2613; 3% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (1732; 2% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (1336; 1% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (49; 0% instances).
+36756 tokens (38%) have a non-empty value of `Case`.
+12641 types (84%) occur at least once with a non-empty value of `Case`.
+8620 lemmas (83%) occur at least once with a non-empty value of `Case`.
+The feature is used with 6 part-of-speech tags: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (22431; 23% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (8595; 9% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (2613; 3% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (1732; 2% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (1336; 1% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (49; 0% instances).
 
 ### `NOUN`
 
-22429 <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Case`.
+22431 <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (15646; 70%), <tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15357; 68%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (14737; 66%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (15646; 70%), <tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15353; 68%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (14739; 66%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Acc` (1; 0% of non-empty `Case`): <em>nuptiam</em>
 * `Gen` (984; 4% of non-empty `Case`): <em>äktenskapets, kvinnans, världens, barnens, familjens, års, dagens, samhällets, jordens, slags</em>
-* `Nom` (21444; 96% of non-empty `Case`): <em>år, barn, del, äktenskapet, procent, barnen, människor, tid, sätt, samhället</em>
+* `Nom` (21446; 96% of non-empty `Case`): <em>år, barn, del, äktenskapet, procent, barnen, människor, tid, sätt, samhället</em>
 * `EMPTY` (566): <em>kr, %, dr, s., kap., proc, KPI, milj, mån, kl</em>
 
 <table>
@@ -35,19 +35,19 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
   <tr><td><tt><tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>barn</em></td><td><em>barns</em></td></tr>
 </table>
 
-`Case` seems to be **lexical feature** of `NOUN`. 95% lemmas (5535) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `NOUN`. 95% lemmas (5536) occur only with one value of `Case`.
 
 ### `ADJ`
 
-8565 <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Case`.
+8595 <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="sv_talbanken-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (7623; 89%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7283; 85%), <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (7283; 85%), <tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5572; 65%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (5020; 59%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="sv_talbanken-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (7644; 89%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7313; 85%), <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (7313; 85%), <tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5597; 65%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (5028; 58%).
 
 `ADJ` tokens may have the following values of `Case`:
 
 * `Gen` (20; 0% of non-empty `Case`): <em>anställdas, enskildes, försäkrades, äldres, andres, avlidnes, dubbelarbetandes, efterkommandes, enskilds, frånskildas</em>
-* `Nom` (8545; 100% of non-empty `Case`): <em>olika, andra, nya, många, stora, stor, samma, större, första, vissa</em>
-* `EMPTY` (74): <em>s k, s.k., European, New, S:t, ev, resp, American, Boiling, Central</em>
+* `Nom` (8575; 100% of non-empty `Case`): <em>olika, andra, nya, många, stora, stor, samma, större, första, vissa</em>
+* `EMPTY` (76): <em>s k, s.k., European, New, S:t, ev, resp, American, Boiling, Central</em>
 
 <table>
   <tr><th>Paradigm <i>annan</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th></tr>
@@ -59,7 +59,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
   <tr><td><tt><tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>andra</em></td><td></td></tr>
 </table>
 
-`Case` seems to be **lexical feature** of `ADJ`. 99% lemmas (1799) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `ADJ`. 99% lemmas (1804) occur only with one value of `Case`.
 
 ### `PRON`
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 * `Acc` (726; 28% of non-empty `Case`): <em>sig, dem, oss, dig, varandra, mig, henne, honom, sej, varann</em>
 * `Nom` (1887; 72% of non-empty `Case`): <em>man, de, vi, du, han, jag, hon, ni, bägge, en</em>
-* `EMPTY` (4059): <em>det, som, den, sin, detta, vad, sina, deras, sitt, våra</em>
+* `EMPTY` (4060): <em>det, som, den, sin, detta, vad, sina, deras, sitt, våra</em>
 
 <table>
   <tr><th>Paradigm <i>de</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -117,21 +117,21 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 `VERB` tokens may have the following values of `Case`:
 
 * `Nom` (49; 100% of non-empty `Case`): <em>påverkade, vald, vänd, hörselskadad, tvungna, accepterad, anpassade, bedövade, diciplinerade, emanciperade</em>
-* `EMPTY` (9822): <em>har, finns, blir, få, får, ha, är, gäller, ger, går</em>
+* `EMPTY` (9821): <em>har, finns, blir, få, får, ha, är, gäller, ger, går</em>
 
 `Case` seems to be **lexical feature** of `VERB`. 100% lemmas (39) occur only with one value of `Case`.
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5742; 97%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2789; 95%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1916; 92%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (940; 81%),
-<tt>ADJ --[<tt><a href="sv_talbanken-dep-obl.html">obl</a></tt>]--> NOUN</tt> (502; 97%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5812; 97%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2999; 95%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1921; 92%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (941; 81%),
+<tt>ADJ --[<tt><a href="sv_talbanken-dep-obl.html">obl</a></tt>]--> NOUN</tt> (545; 97%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (484; 100%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> ADJ</tt> (380; 100%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-appos.html">appos</a></tt>]--> NOUN</tt> (260; 90%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (252; 93%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-obl.html">obl</a></tt>]--> NOUN</tt> (240; 91%).
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-appos.html">appos</a></tt>]--> NOUN</tt> (256; 90%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (256; 92%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-obl.html">obl</a></tt>]--> NOUN</tt> (247; 91%).
 

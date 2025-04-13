@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
 364 tokens (3%) have a non-empty value of `Definite`.
-11 types (0%) occur at least once with a non-empty value of `Definite`.
+12 types (0%) occur at least once with a non-empty value of `Definite`.
 1 lemmas (0) occur at least once with a non-empty value of `Definite`.
 The feature is used with 1 part-of-speech tags: <tt><a href="jv_csui-pos-DET.html">DET</a></tt> (364; 3% instances).
 
@@ -22,7 +22,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (355; 98% of non-empty `Definite`): <em>e, para, ipun, sing, Kang, ingkang</em>
+* `Def` (355; 98% of non-empty `Definite`): <em>e, para, ipun, sing, Kang, ingkang, saindenge</em>
 * `Ind` (9; 2% of non-empty `Definite`): <em>sawijining, satunggaling</em>
-* `EMPTY` (337): <em>iku, kuwi, iki, punika, saperangan, saben, dhewe, kabeh, akeh, semana</em>
+* `EMPTY` (336): <em>iku, kuwi, iki, punika, saperangan, saben, dhewe, kabeh, akeh, semana</em>
 

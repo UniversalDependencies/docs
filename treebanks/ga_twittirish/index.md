@@ -12,15 +12,15 @@ udver: '2'
 # UD Irish TwittIrish
 
 Language: [Irish](/ga/index.html) (code: `ga`)<br/>
-Family: Indo-European, Celtic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.8 release.
 
 The following people have contributed to making this treebank part of UD: Lauren Cassidy, Teresa Lynn, Jennifer Foster, Sarah McGuinness.
 
 Repository: [UD_Irish-TwittIrish](https://github.com/UniversalDependencies/UD_Irish-TwittIrish)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udga_twittirish214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udga_twittirish215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

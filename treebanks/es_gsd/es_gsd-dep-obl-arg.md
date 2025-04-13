@@ -36,7 +36,7 @@ The following 17 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 12	buen	buen	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	_
 13	rato	rato	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	1	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 ~~~
 
@@ -57,7 +57,7 @@ The following 17 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 8	de	de	ADP	_	_	10	case	_	_
 9	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	Caixa	caixa	PROPN	_	_	7	nmod	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	2	punct	_	_
+11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -79,7 +79,7 @@ The following 17 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 9	College	college	PROPN	_	_	8	flat	_	_
 10	de	de	ADP	_	_	11	case	_	_
 11	Cambridge	cambridge	PROPN	_	_	8	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	2	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 

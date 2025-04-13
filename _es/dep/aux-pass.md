@@ -11,4 +11,4 @@ The relation `aux:pass` is used to attach a passive auxiliary to the participle 
 Kennedy fue asesinado . \n Kennedy was murdered .
 aux:pass(asesinado, fue)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:47 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:29 CET -->

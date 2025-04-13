@@ -37,4 +37,4 @@ This feature marks person agreement of the verb with the indirect object or of p
 
 * [ab] _(и)-еи-зы-раз-ны_ [Subj.3-RO:Rec-For-agree-Cnv] ‘agreeing with each other’ `Number=Sing|Person[ro]=Rec|Person[subj]=3|Reln=Ben|Tense=Pres|VerbForm=NonFin`
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:15 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:58 CET -->

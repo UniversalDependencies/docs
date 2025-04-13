@@ -25,4 +25,4 @@ expl:comp(tirait,en)
 ~~~
 
 **NB**: Due to conversion from [SUD](https://surfacesyntacticud.github.io/), these cases are annotated [dep:comp]() in **UD_French-GSD** and in **UD_French-Spoken**.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:12 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:53 CET -->

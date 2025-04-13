@@ -45,7 +45,7 @@ The following 5 pairs of parts of speech are connected with `advmod:mmod`: <tt><
 # visual-style 15 16 advmod:mmod	color:blue
 1	Виринея	Виринея	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	4	nsubj	_	GTtags=Prop,Sem/Fem,Sg,Nom
 2	муртса	муртса	ADV	Adv	_	4	advmod	_	_
-3	эз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	4	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
+3	эз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	4	aux	_	GTtags=Neg,Ind,Prt1,Sg3
 4	усь	усьны	VERB	V	Connegative=Yes	0	root	_	GTtags=IV,ConNeg
 5	пуклӧс	пуклӧс	NOUN	N	Case=Nom|Number=Sing	4	obl	_	GTtags=Sg,Nom
 6	вывсьыс	вылысь	ADP	Adp	AdpType=Post|Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	case	_	GTtags=Po,Sg,Ela,PxSg3|SpaceAfter=No

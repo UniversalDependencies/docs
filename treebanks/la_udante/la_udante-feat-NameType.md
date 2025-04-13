@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 12 different values: `Ast`, `Cal`, `Com`, `Geo`, `Giv`, `Let`, `Lit`, `Met`, `Nat`, `Oth`, `Rel`, `Sur`.
 
-1919 tokens (3%) have a non-empty value of `NameType`.
-867 types (7%) occur at least once with a non-empty value of `NameType`.
-561 lemmas (10%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (997; 2% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (513; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (400; 1% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+1912 tokens (3%) have a non-empty value of `NameType`.
+861 types (7%) occur at least once with a non-empty value of `NameType`.
+555 lemmas (10%) occur at least once with a non-empty value of `NameType`.
+The feature is used with 5 part-of-speech tags: <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (997; 2% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (513; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (400; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
@@ -98,18 +98,6 @@ The most frequent other feature values with which `ADJ` and `NameType` co-occurr
 
 `NameType` seems to be **lexical feature** of `ADJ`. 99% lemmas (145) occur only with one value of `NameType`.
 
-### `X`
-
-8 <tt><a href="la_udante-pos-X.html">X</a></tt> tokens (2% of all `X` tokens) have a non-empty value of `NameType`.
-
-The most frequent other feature values with which `X` and `NameType` co-occurred: <tt><a href="la_udante-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt> (8; 100%).
-
-`X` tokens may have the following values of `NameType`:
-
-* `Geo` (5; 63% of non-empty `NameType`): <em>Cascioli, Fiorensa, Lucca, Pisa, Siena</em>
-* `Rel` (2; 25% of non-empty `NameType`): <em>Dio</em>
-* `Sur` (1; 13% of non-empty `NameType`): <em>Scala</em>
-
 ### `VERB`
 
 1 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `NameType`.
@@ -120,11 +108,21 @@ The most frequent other feature values with which `VERB` and `NameType` co-occur
 
 * `Lit` (1; 100% of non-empty `NameType`): <em>Digestorum</em>
 
+### `X`
+
+1 <tt><a href="la_udante-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `NameType`.
+
+The most frequent other feature values with which `X` and `NameType` co-occurred: <tt><a href="la_udante-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt> (1; 100%).
+
+`X` tokens may have the following values of `NameType`:
+
+* `Sur` (1; 100% of non-empty `NameType`): <em>Scala</em>
+
 ## Relations with Agreement in `NameType`
 
 The 10 most frequent relations where parent and child node agree in `NameType`:
-<tt>PROPN --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> PROPN</tt> (43; 62%),
-<tt>ADJ --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> ADJ</tt> (41; 93%),
+<tt>PROPN --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> PROPN</tt> (44; 63%),
+<tt>ADJ --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> ADJ</tt> (41; 95%),
 <tt>ADJ --[<tt><a href="la_udante-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (6; 86%),
 <tt>PROPN --[<tt><a href="la_udante-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (5; 100%),
 <tt>NOUN --[<tt><a href="la_udante-dep-obl-cmp.html">obl:cmp</a></tt>]--> NOUN</tt> (1; 100%).

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-25 nodes (0%) are attached to their parents as `dep`.
+24 nodes (0%) are attached to their parents as `dep`.
 
-25 instances of `dep` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.4.
+24 instances of `dep` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.41666666666667.
 
-The following 7 pairs of parts of speech are connected with `dep`: <tt><a href="en_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="en_partut-pos-X.html">X</a></tt> (17; 68% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-X.html">X</a></tt> (2; 8% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-X.html">X</a></tt> (2; 8% instances), <tt><a href="en_partut-pos-DET.html">DET</a></tt>-<tt><a href="en_partut-pos-X.html">X</a></tt> (1; 4% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="en_partut-pos-X.html">X</a></tt>-<tt><a href="en_partut-pos-X.html">X</a></tt> (1; 4% instances).
+The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="en_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="en_partut-pos-X.html">X</a></tt> (17; 71% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-X.html">X</a></tt> (2; 8% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-X.html">X</a></tt> (2; 8% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="en_partut-pos-X.html">X</a></tt>-<tt><a href="en_partut-pos-X.html">X</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -51,7 +51,7 @@ The following 7 pairs of parts of speech are connected with `dep`: <tt><a href="
 7	s	s	X	X	_	5	dep	_	_
 8	Asian	Asian	ADJ	A	Degree=Pos	10	amod	_	_
 9	financial	financial	ADJ	A	Degree=Pos	10	amod	_	_
-10	crisis	crisis	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+10	crisis	crisis	NOUN	S	Number=Sing	2	obl	_	_
 11	as	as	ADP	E	_	17	case	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
 13	region	region	NOUN	S	Number=Sing	17	nmod	_	SpaceAfter=No

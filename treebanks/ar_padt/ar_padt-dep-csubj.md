@@ -31,7 +31,7 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 6	الولايات	وِلَايَة	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	4	obl	4:obl:إِلَى:gen	Vform=اَلوِلَايَاتِ|Gloss=state,province|Root=w l y|Translit=al-wilāyāti|LTranslit=wilāyat
 7	المتحدة	مُتَّحِد	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	amod	6:amod	Vform=اَلمُتَّحِدَةِ|Gloss=united|Root=w .h d|Translit=al-muttaḥidati|LTranslit=muttaḥid
 8	في	فِي	ADP	P---------	AdpType=Prep	9	case	9:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
-9	25	25	NUM	Q---------	NumForm=Digit	4	obl	4:obl:فِي	Vform=٢٥|Translit=25
+9	25	25	NUM	Q---------	NumForm=Digit	4	obl	4:obl:فِي:gen	Vform=٢٥|Translit=25
 10	تموز	تَمُّوز	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	9	nmod	9:nmod:gen	SpaceAfter=No|Vform=تَمُّوزَ|Gloss=July|Root=tammUz|Translit=tammūza|LTranslit=tammūz
 11	/	/	PUNCT	G---------	_	12	punct	12:punct	SpaceAfter=No|Vform=/|Translit=/
 12	يوليو	يُولِيُو	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	10	appos	10:appos	SpaceAfter=No|Vform=يُولِيُو|Gloss=July|Root=yUliyU|Translit=yūliyū|LTranslit=yūliyū

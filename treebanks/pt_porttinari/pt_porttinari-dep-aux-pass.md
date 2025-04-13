@@ -22,12 +22,12 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 aux:pass	color:blue
-1	Diferentes	diferente	ADJ	_	Number=Plur	2	amod	_	_
-2	críticas	crítico	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
-3	podem	poder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	ser	ser	AUX	_	VerbForm=Inf	5	aux:pass	_	_
-5	feitas	fazer	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	3	xcomp	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+1	Diferentes	diferente	ADJ	_	Number=Plur	2	amod	2:amod	_
+2	críticas	crítico	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	3:nsubj|5:nsubj:pass	_
+3	podem	poder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	ser	ser	AUX	_	VerbForm=Inf	5	aux:pass	5:aux:pass	_
+5	feitas	fazer	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	3	xcomp	3:xcomp	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
 
 ~~~
 

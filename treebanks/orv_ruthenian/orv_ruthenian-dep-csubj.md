@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Old_East_Slavic-Ruthenian: Relations: `csubj`
 
 This relation is universal.
+There are 1 language-specific subtypes of `csubj`: <tt><a href="orv_ruthenian-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-97 nodes (0%) are attached to their parents as `csubj`.
+110 nodes (0%) are attached to their parents as `csubj`.
 
-89 instances of `csubj` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.09278350515464.
+100 instances of `csubj` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.63636363636364.
 
-The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (39; 40% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (34; 35% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (20; 21% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (2; 2% instances).
+The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (41; 37% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (35; 32% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (26; 24% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -58,24 +59,21 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 csubj	color:blue
-1	Також	также	CCONJ	СС	_	5	cc	_	wf="Також"
-2	полочаном	полочанинъ	NOUN	NNA	Case=Dat|Gender=Masc|Number=Plur	5	iobj	_	wf="полочаном"
-3	и	и	CCONJ	СС	_	4	cc	_	wf="и"
-4	видиблѧнину	видблянинъ	NOUN	NNA	Case=Dat|Gender=Masc|Number=Sing	2	conj	_	wf="видиблѧнину"
-5	волно	вольный	ADJ	PRED	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	wf="волно"
-6	гостити	гостити	VERB	VB	VerbForm=Inf|Voice=Act	5	csubj	_	wf="гостити"
-7	в	въ	ADP	IN	_	8	case	_	wf="в"
-8	Ригу	Рига	PROPN	NPI	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	6	obl	_	wf="Ригу"
-9	и	и	CCONJ	СС	_	12	cc	_	wf="и"
-10	на	на	ADP	IN	_	12	case	_	wf="на"
-11	Готьскы	готский	ADJ	JJH	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	12	amod	_	wf="Готьскы"
-12	берегъ	берегъ	NOUN	NNI	Case=Acc|Gender=Masc|Number=Sing	8	conj	_	wf="берегъ"|SpaceAfter=No
-13	.	.	PUNCT	-PERIOD-	_	5	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 7 csubj	color:blue
+1	Велико	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	4	amod	_	wf="Велико"
+2	eсть	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	wf="есть"|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	wf=","
+4	бꙋдованьe	будованье	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	wf="будованье"
+5	на	на	ADP	_	_	8	case	_	wf="на"
+6	чюжомъ	чюжий	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	wf="чюжомъ"
+7	закладати	закладати	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	wf="закладати"
+8	фꙋдаментѣ	фудаментъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	7	obl	_	wf="фудаментѣ"
+9	небеспече(н)ство	небеспеченство	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	wf="небеспеченство"|SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	wf="."
 
 ~~~
 

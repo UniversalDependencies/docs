@@ -33,7 +33,7 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 9	chailleas	caill	VERB	_	Form=Len|Mood=Ind|Number=Sing|Person=1|Tense=Past	2	advcl	_	_
 10	lúth	lúth	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	obj	_	_
 11	mo	mo	DET	_	Number=Sing|Person=1|Poss=Yes	12	nmod:poss	_	_
-12	ghéag	géag	NOUN	_	Case=Gen|Form=Len|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+12	ghéag	géag	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
 ~~~
@@ -55,16 +55,16 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	ag	ag	ADP	_	_	10	case	_	_
 10	sáitheadh	sá	NOUN	_	VerbForm=Vnoun	5	advcl	_	_
-11	na	na	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	tuaighe	tua	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	obj	_	_
+11	na	an	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	tuaighe	tua	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	obj	_	_
 13	isteach	isteach	ADV	_	_	10	advmod	_	_
 14	eadar	idir	ADP	_	_	15	case	_	_
 15	mhaidí	maide	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Plur	10	obl	_	_
 16	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	bhocsa	bosca	NOUN	_	Case=Gen|Form=Len|Gender=Masc|Number=Sing	15	nmod	_	_
+17	bhocsa	bosca	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	15	nmod	_	_
 18	le	le	ADP	_	_	20	case	_	_
 19	n-a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	20	nmod:poss	_	_
-20	scathadh	scoitheadh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+20	scathadh	scoitheadh	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
 
 ~~~

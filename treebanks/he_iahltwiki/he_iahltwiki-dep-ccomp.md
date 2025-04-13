@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-371 nodes (0%) are attached to their parents as `ccomp`.
+370 nodes (0%) are attached to their parents as `ccomp`.
 
-371 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.16172506738545.
+370 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.15135135135135.
 
-The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (289; 78% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (35; 9% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (32; 9% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (288; 78% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (35; 9% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (32; 9% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,8 +31,8 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 7	זו	זה	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Dem	6	det	_	_
 8	ו	ו	CCONJ	CCONJ	_	10	cc	_	_
 9	עד	עד	ADP	ADP	_	10	case	_	_
-10	שנת	שנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	6	conj	_	_
-11	2030	2030	NUM	NUM	_	10	compound	_	SpaceAfter=No
+10	שנת	שנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	6	conj	_	Entity=(TIMEX
+11	2030	2030	NUM	NUM	_	10	compound	_	Entity=TIMEX)|SpaceAfter=No
 12	,	,	PUNCT	PUNCT	_	6	punct	_	_
 13	יוכפל	הוכפל	VERB	VERB	Gender=Masc|HebBinyan=HUFAL|Number=Sing|Person=3|Tense=Fut|Voice=Pass	3	ccomp	_	_
 14	מספר	מספר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	13	nsubj	_	_
@@ -77,9 +77,9 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 9 13 ccomp	color:blue
 1	כש	כש	SCONJ	SCONJ	_	2	mark	_	_
 2	נשאל	נשאל	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Past|Voice=Mid	9	advcl	_	_
-3	מדוע	מדוע	ADV	ADV	_	5	advmod	_	_
-4	לא	לא	ADV	ADV	_	5	advmod	_	_
-5	כתב	כתב	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=3|Tense=Past|Voice=Act	2	ccomp	_	_
+3	מדוע	מדוע	ADV	ADV	_	5	advmod	_	CxnElt=5:Interrogative-WHInfo-Indirect.WHWord
+4	לא	לא	ADV	ADV	Polarity=Neg	5	advmod	_	_
+5	כתב	כתב	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=3|Tense=Past|Voice=Act	2	ccomp	_	Cxn=Interrogative-WHInfo-Indirect|CxnElt=5:Interrogative-WHInfo-Indirect.Clause
 6	לפני	לפני	ADP	ADP	_	7	case	_	_
 7	כן	כן	PRON	PRON	_	5	obl	_	SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	2	punct	_	_
@@ -90,7 +90,7 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 13	חסר	חסר	ADJ	ADJ	Definite=Cons|Gender=Masc|Number=Sing	9	ccomp	_	_
 14	ביטחון	ביטחון	NOUN	NOUN	Gender=Masc|Number=Sing	13	compound	_	_
 15	ו	ו	CCONJ	CCONJ	_	17	cc	_	_
-16	לא	לא	ADV	ADV	_	17	advmod	_	_
+16	לא	לא	ADV	ADV	Polarity=Neg	17	advmod	_	_
 17	הרגשתי	הרגיש	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|Number=Sing|Person=1|Tense=Past|Voice=Act	13	conj	_	_
 18	משורר	משורר	NOUN	NOUN	Gender=Masc|Number=Sing	17	obj	_	_
 19	מקצועי	מקצועי	ADJ	ADJ	Gender=Masc|Number=Sing	18	amod	_	SpaceAfter=No

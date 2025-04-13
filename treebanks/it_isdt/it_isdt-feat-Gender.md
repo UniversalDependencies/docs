@@ -11,8 +11,8 @@ It occurs with 2 different values: `Fem`, `Masc`.
 
 123788 tokens (41%) have a non-empty value of `Gender`.
 14894 types (54%) occur at least once with a non-empty value of `Gender`.
-10095 lemmas (54%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 10 part-of-speech tags: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (57505; 19% instances), <tt><a href="it_isdt-pos-DET.html">DET</a></tt> (41727; 14% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (12629; 4% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (8134; 3% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (3036; 1% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (753; 0% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt> (1; 0% instances).
+10094 lemmas (54%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 10 part-of-speech tags: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (57505; 19% instances), <tt><a href="it_isdt-pos-DET.html">DET</a></tt> (41726; 14% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (12630; 4% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (8134; 3% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (3036; 1% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (753; 0% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -36,15 +36,15 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `DET`
 
-41727 <tt><a href="it_isdt-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Gender`.
+41726 <tt><a href="it_isdt-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (37762; 90%), <tt><a href="it_isdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (33147; 79%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29155; 70%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (37762; 90%), <tt><a href="it_isdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (33147; 79%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29154; 70%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (17353; 42% of non-empty `Gender`): <em>la, le, una, sua, un', questa, sue, queste, tutte, molte</em>
+* `Fem` (17352; 42% of non-empty `Gender`): <em>la, le, una, sua, un', questa, sue, queste, tutte, molte</em>
 * `Masc` (24374; 58% of non-empty `Gender`): <em>il, i, un, gli, lo, suo, questo, tutti, suoi, alcuni</em>
-* `EMPTY` (6917): <em>l', quale, ogni, loro, l’, che, qualche, tale, qualsiasi, tali</em>
+* `EMPTY` (6916): <em>l', quale, ogni, loro, l’, che, qualche, tale, qualsiasi, tali</em>
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -56,15 +56,15 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `ADJ`
 
-12629 <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> tokens (64% of all `ADJ` tokens) have a non-empty value of `Gender`.
+12630 <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> tokens (64% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8373; 66%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8374; 66%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (5639; 45% of non-empty `Gender`): <em>prima, italiana, altra, altre, stessa, seconda, nuova, nuove, economica, alta</em>
+* `Fem` (5640; 45% of non-empty `Gender`): <em>prima, italiana, altra, altre, stessa, seconda, nuova, nuove, economica, alta</em>
 * `Masc` (6990; 55% of non-empty `Gender`): <em>primo, nuovo, altri, altro, stesso, vero, secondo, terzo, europeo, italiani</em>
-* `EMPTY` (7148): <em>grande, presente, comune, mondiale, ex, internazionale, maggiore, nazionale, possibile, sociale</em>
+* `EMPTY` (7149): <em>grande, presente, comune, mondiale, ex, internazionale, maggiore, nazionale, possibile, sociale</em>
 
 <table>
   <tr><th>Paradigm <i>primo</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -171,11 +171,11 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="it_isdt-dep-det.html">det</a></tt>]--> DET</tt> (34184; 84%),
-<tt>NOUN --[<tt><a href="it_isdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10013; 63%),
+<tt>NOUN --[<tt><a href="it_isdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10014; 63%),
 <tt>NOUN --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2459; 55%),
 <tt>NOUN --[<tt><a href="it_isdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (1638; 62%),
 <tt>VERB --[<tt><a href="it_isdt-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (1486; 81%),
-<tt>NOUN --[<tt><a href="it_isdt-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (1456; 79%),
+<tt>NOUN --[<tt><a href="it_isdt-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (1455; 79%),
 <tt>VERB --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (482; 52%),
 <tt>ADJ --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (392; 53%),
 <tt>NOUN --[<tt><a href="it_isdt-dep-det-predet.html">det:predet</a></tt>]--> DET</tt> (375; 97%),

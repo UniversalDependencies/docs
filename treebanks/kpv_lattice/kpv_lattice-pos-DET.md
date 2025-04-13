@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>став</em> (<tt><a href="kpv_latti
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.583333 (the average of all parts of speech is 1.467532).
+The form / lemma ratio of `DET` is 1.583333 (the average of all parts of speech is 1.468128).
 
 The 1st highest number of forms (4) was observed with the lemma “став”: <em>став, ставныс, ставсӧ, ставыс</em>.
 
@@ -75,7 +75,7 @@ Examples: <em>уна, кымын, мыйта, мӧд</em>
 
 `DET` nodes are attached to their parents using 6 different relations: <tt><a href="kpv_lattice-dep-det.html">det</a></tt> (31; 70% instances), <tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt> (7; 16% instances), <tt><a href="kpv_lattice-dep-conj.html">conj</a></tt> (3; 7% instances), <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-obj.html">obj</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-obl.html">obl</a></tt> (1; 2% instances)
 
-Parents of `DET` nodes belong to 3 different parts of speech: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (31; 70% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (12; 27% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 2% instances)
+Parents of `DET` nodes belong to 2 different parts of speech: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (32; 73% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (12; 27% instances)
 
 36 (82%) `DET` nodes are leaves.
 

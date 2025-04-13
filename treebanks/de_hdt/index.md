@@ -12,15 +12,15 @@ udver: '2'
 # UD German HDT
 
 Language: [German](/de/index.html) (code: `de`)<br/>
-Family: Indo-European, Germanic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.4 release.
 
-The following people have contributed to making this treebank part of UD: Emanuel Borges Völker, Felix Hennig, Arne Köhn, Maximilan Wendt.
+The following people have contributed to making this treebank part of UD: Emanuel Borges Völker, Felix Hennig, Arne Köhn, Maximilan Wendt, Verena Blaschke, Nina Böbel, Leonie Weissweiler.
 
 Repository: [UD_German-HDT](https://github.com/UniversalDependencies/UD_German-HDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_hdt214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_hdt215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,10 +29,8 @@ Genre: news, nonfiction, web
 Questions, comments?
 General annotation questions (either German-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_German-HDT/issues).
-If you want to collaborate, please contact [arne&nbsp;(æt)&nbsp;chark&nbsp;•&nbsp;eu].
-Development of the treebank happens outside the UD repository.
-If there are bugs, either the original data source or the conversion procedure must be fixed.
-Do not submit pull requests against the UD repository.
+If you want to collaborate, please contact [nina&nbsp;•&nbsp;boebel&nbsp;(æt)&nbsp;hhu&nbsp;•&nbsp;de].
+Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
 |------------|--------|
@@ -44,36 +42,15 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-UD German-HDT is a conversion of the Hamburg Dependency Treebank,
-created at the University of Hamburg through manual annotation in
-conjunction with a standard for morphologically and syntactically
-annotating sentences as well as a constraint-based parser.
+UD German-HDT is a conversion of the Hamburg Dependency Treebank, created at the University of Hamburg through manual annotation in conjunction with a standard for morphologically and syntactically annotating sentences as well as a constraint-based parser.
 
 
 
 
-The [Hamburg Dependency Treebank](http://hdl.handle.net/11022/0000-0000-7FC7-2)
-consists of 261,821 sentences (4.8M tokens). The sentences were all
-sourced from the German news site heise.de, from articles published
-between 1996 and 2001. The content of the articles ranges from
-formulaic periodic updates on new BIOS revisions and processor models
-or quarterly earnings of tech companies over features about general
-trends in the hardware and software market to general coverage of
-social, legal and political issues in cyberspace, sometimes in the
-form of extensive weekly editorial comments. The creation of the
-treebank through manual annotation was largely interleaved with the
-creation of a standard for morphologically and syntactically
-annotating sentences as well as a constraint-based parser.
+The Hamburg Dependency Treebank consists of 261,821 sentences (4.8M tokens). The sentences were all sourced from the German news site heise.de, from articles published between 1996 and 2001. The content of the articles ranges from formulaic periodic updates on new BIOS revisions and processor models or quarterly earnings of tech companies over features about general trends in the hardware and software market to general coverage of social, legal and political issues in cyberspace, sometimes in the form of extensive weekly editorial comments. The creation of the treebank through manual annotation was largely interleaved with the creation of a standard for morphologically and syntactically annotating sentences as well as a constraint-based parser.
 
-For [UD_German-HDT](https://github.com/UniversalDependencies/UD_German-HDT),
-206,794 sentences (3.8M tokens) from the original HDT were converted
-with [TrUDucer](https://gitlab.com/nats/TrUDucer), a treebank
-conversion tool created by Felix Hennig and extended by Maximilian
-Wendt and Emanuel Borges Völker. The conversion has a very high
-accuracy of 97% (checked on a manually converted subset of the
-treebank). Annotation information not captured in the original annotation
-was resolved by using external data sources (Wiktionary) and manual input
-from annotators.
+For UD_German-HDT, 206,794 sentences (3.8M tokens) from the original HDT were converted with [TrUDucer](https://gitlab.com/nats/TrUDucer), a treebank conversion tool created by Felix Hennig and extended by Maximilian Wendt and Emanuel Borges Völker. The conversion has a very high
+accuracy of 97% (checked on a manually converted subset of the treebank). Annotation information not captured in the original annotation was resolved by using external data sources (Wiktionary) and manual input from annotators.
 
 ## Acknowledgments
 
@@ -83,58 +60,77 @@ The following people worked on the conversion:
 - Felix Hennig (initial grammar development, main TrUDucer development)
 - Arne Köhn (supervision)
 
+The following people are working on error correction:
+- Verena Blaschke
+- Nina Böbel
+- Leonie Weissweiler
+
 
 ## References
 
-If you use this treebank, please cite the following paper, describing
-the conversion of the HDT to UD:
+If you use this treebank, please cite the following paper, describing the conversion of the HDT to UD:
 
-Borges Völker, Emanuel and Wendt, Maximilian and Hennig, Felix and
-Köhn, Arne (2019). HDT-UD: A very large Universal Dependencies
-Treebank for German. In Proceedings of the Third Workshop on Universal
-Dependencies (UDW, SyntaxFest 2019) (pp. 46–57). Paris, France:
-Association for Computational Linguistics. url:
-https://www.aclweb.org/anthology/W19-8006
-
+```
+@inproceedings{borges-volker-etal-2019-hdt,
+title = "{HDT}-{UD}: A very large {U}niversal {D}ependencies Treebank for {G}erman",
+author = {Borges V{\"o}lker, Emanuel and Wendt, Maximilian and Hennig, Felix and K{\"o}hn, Arne},
+editor = "Rademaker, Alexandre and Tyers, Francis",
+booktitle = "Proceedings of the Third Workshop on Universal Dependencies (UDW, SyntaxFest 2019)",
+month = aug,
+year = "2019",
+address = "Paris, France",
+publisher = "Association for Computational Linguistics",
+url = "https://aclanthology.org/W19-8006",
+doi = "10.18653/v1/W19-8006",
+pages = "46--57",
+}
+```
 
 
 The TrUDucer paper describing the formalism behind the conversion:
 
+```
 Hennig, Felix, & Köhn, Arne (2017). Dependency tree transformation
 with tree transducers. In Proceedings of the NoDaLiDa 2017 Workshop on
 Universal Dependencies (UDW 2017) (pp. 58–66). Gothenburg, Sweden:
 Association for Computational Linguistics. url:
 http://www.aclweb.org/anthology/W17-0407
-
+```
 
 The paper describing the HDT:
 
-Foth, K. A., Köhn, A., Beuck, N., & Menzel, W. (2014). Because Size
-Does Matter: The Hamburg Dependency Treebank. In Proceedings of the
-Language Resources and Evaluation Conference 2014
-(pp. 2326–2333). Reykjavik, Iceland: European Language Resources
-Association (ELRA). url:
-http://nbn-resolving.de/urn:nbn:de:gbv:18-228-7-2013
+```
+@inproceedings{hennig-kohn-2017-dependency,
+title = "Dependency Tree Transformation with Tree Transducers",
+author = {Hennig, Felix and K{\"o}hn, Arne},
+editor = "de Marneffe, Marie-Catherine and Nivre, Joakim and Schuster, Sebastian",
+booktitle = "Proceedings of the {N}o{D}a{L}i{D}a 2017 Workshop on Universal Dependencies ({UDW} 2017)",
+month = may,
+year = "2017",
+address = "Gothenburg, Sweden",
+publisher = "Association for Computational Linguistics",
+url = "https://aclanthology.org/W17-0407",
+pages = "58--66",
+}
 
+```
 
 The annotation guidelines of the original HDT:
 
-Foth, K. A. (2006). Eine umfassende Constraint-Dependenz-Grammatik des
-Deutschen. url: http://nbn-resolving.de/urn:nbn:de:gbv:18-228-7-2048
-
+```
+@article{foth2006umfassende,
+title={Eine umfassende Constraint-Dependenz-Grammatik des Deutschen},
+author={Foth, Kilian A},
+year={2006},
+publisher={Fachbereich Informatik}
+}
+```
 
 ## Software
 
-[TrUDucer](https://gitlab.com/nats/truducer) the software used to
-convert the HDT. Comes with a pipeline to replicate the conversion of
-the HDT.
+[TrUDucer](https://gitlab.com/nats/truducer) the software used to convert the HDT. Comes with a pipeline to replicate the conversion of the HDT.
 
-[jwcdg](https://gitlab.com/nats/jwcdg), the successor of the parser
-used for initial automatic annotation of the HDT. It contains the
-lexicon with the relevant morpho-syntactic features annotated.
-
-[DECCA](http://sifnos.sfs.uni-tuebingen.de/decca/), a tool to detect
-and correct errors in annotated corpora
+[jwcdg](https://gitlab.com/nats/jwcdg), the successor of the parser used for initial automatic annotation of the HDT. It contains the lexicon with the relevant morpho-syntactic features annotated.
 
 
 
@@ -150,7 +146,7 @@ and correct errors in annotated corpora
 
 ## Relations
 
-[acl](de_hdt-dep-acl.html) – [acl:relcl](de_hdt-dep-acl-relcl.html) – [advcl](de_hdt-dep-advcl.html) – [advmod](de_hdt-dep-advmod.html) – [amod](de_hdt-dep-amod.html) – [appos](de_hdt-dep-appos.html) – [aux](de_hdt-dep-aux.html) – [aux:pass](de_hdt-dep-aux-pass.html) – [case](de_hdt-dep-case.html) – [cc](de_hdt-dep-cc.html) – [ccomp](de_hdt-dep-ccomp.html) – [compound](de_hdt-dep-compound.html) – [compound:prt](de_hdt-dep-compound-prt.html) – [conj](de_hdt-dep-conj.html) – [cop](de_hdt-dep-cop.html) – [csubj](de_hdt-dep-csubj.html) – [csubj:pass](de_hdt-dep-csubj-pass.html) – [det](de_hdt-dep-det.html) – [det:poss](de_hdt-dep-det-poss.html) – [discourse](de_hdt-dep-discourse.html) – [expl](de_hdt-dep-expl.html) – [expl:pv](de_hdt-dep-expl-pv.html) – [flat](de_hdt-dep-flat.html) – [flat:name](de_hdt-dep-flat-name.html) – [mark](de_hdt-dep-mark.html) – [nmod](de_hdt-dep-nmod.html) – [nmod:poss](de_hdt-dep-nmod-poss.html) – [nsubj](de_hdt-dep-nsubj.html) – [nsubj:pass](de_hdt-dep-nsubj-pass.html) – [nummod](de_hdt-dep-nummod.html) – [obj](de_hdt-dep-obj.html) – [obl](de_hdt-dep-obl.html) – [obl:arg](de_hdt-dep-obl-arg.html) – [orphan](de_hdt-dep-orphan.html) – [parataxis](de_hdt-dep-parataxis.html) – [punct](de_hdt-dep-punct.html) – [reparandum](de_hdt-dep-reparandum.html) – [root](de_hdt-dep-root.html) – [vocative](de_hdt-dep-vocative.html) – [xcomp](de_hdt-dep-xcomp.html)
+[acl](de_hdt-dep-acl.html) – [acl:relcl](de_hdt-dep-acl-relcl.html) – [advcl](de_hdt-dep-advcl.html) – [advcl:relcl](de_hdt-dep-advcl-relcl.html) – [advmod](de_hdt-dep-advmod.html) – [amod](de_hdt-dep-amod.html) – [appos](de_hdt-dep-appos.html) – [aux](de_hdt-dep-aux.html) – [aux:pass](de_hdt-dep-aux-pass.html) – [case](de_hdt-dep-case.html) – [cc](de_hdt-dep-cc.html) – [ccomp](de_hdt-dep-ccomp.html) – [compound](de_hdt-dep-compound.html) – [compound:prt](de_hdt-dep-compound-prt.html) – [conj](de_hdt-dep-conj.html) – [cop](de_hdt-dep-cop.html) – [csubj](de_hdt-dep-csubj.html) – [csubj:pass](de_hdt-dep-csubj-pass.html) – [dep](de_hdt-dep-dep.html) – [det](de_hdt-dep-det.html) – [det:poss](de_hdt-dep-det-poss.html) – [discourse](de_hdt-dep-discourse.html) – [expl](de_hdt-dep-expl.html) – [expl:pv](de_hdt-dep-expl-pv.html) – [fixed](de_hdt-dep-fixed.html) – [flat](de_hdt-dep-flat.html) – [flat:name](de_hdt-dep-flat-name.html) – [mark](de_hdt-dep-mark.html) – [nmod](de_hdt-dep-nmod.html) – [nmod:poss](de_hdt-dep-nmod-poss.html) – [nsubj](de_hdt-dep-nsubj.html) – [nsubj:pass](de_hdt-dep-nsubj-pass.html) – [nummod](de_hdt-dep-nummod.html) – [obj](de_hdt-dep-obj.html) – [obl](de_hdt-dep-obl.html) – [obl:arg](de_hdt-dep-obl-arg.html) – [orphan](de_hdt-dep-orphan.html) – [parataxis](de_hdt-dep-parataxis.html) – [punct](de_hdt-dep-punct.html) – [reparandum](de_hdt-dep-reparandum.html) – [root](de_hdt-dep-root.html) – [vocative](de_hdt-dep-vocative.html) – [xcomp](de_hdt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -206,6 +202,7 @@ and correct errors in annotated corpora
 </ul>
 
 <ul>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: haben</li>
 </ul>
 
 <ul>
@@ -250,8 +247,10 @@ and correct errors in annotated corpora
   <li>Fem
     <ul>
       <li>ADJ: neue, deutsche, erste, weitere, eigene, große, nächste, deutschen, digitale, letzte</li>
+      <li>ADV: meiste</li>
       <li>DET: die, der, eine, einer, diese, seiner, seine, dieser, keine, ihre</li>
       <li>NOUN: Millionen, Mark, Milliarden, Firma, Angaben, Software, Zeit, Firmen, Version, Informationen</li>
+      <li>NUM: eine, einer</li>
       <li>PRON: die, sie, der, ihr, derer, Deren, er/sie</li>
       <li>PROPN: Telekom, c't, Europa, AMD, Sun, Telecom, T-Online, Bertelsmann, dpa, Viag</li>
     </ul>
@@ -262,8 +261,10 @@ and correct errors in annotated corpora
   <li>Masc
     <ul>
       <li>ADJ: neuen, neue, ersten, neuer, deutsche, deutschen, großen, größte, erste, eigenen</li>
+      <li>ADV: meisten</li>
       <li>DET: der, den, des, dem, einen, ein, einem, eines, diesem, seinen</li>
       <li>NOUN: US-Dollar, Euro, Markt, Dollar, Hersteller, Computer, Umsatz, Preis, Anfang, Mitarbeiter</li>
+      <li>NUM: einem, einen</li>
       <li>PRON: er, der, dem, den, ihn, ihm, dessen, die/der</li>
       <li>PROPN: Bill, Warner, Michael, Thomas, Steve, Ron, John, Jackson, Gerhard, Peter</li>
     </ul>
@@ -282,9 +283,10 @@ and correct errors in annotated corpora
   <li>Neut
     <ul>
       <li>ADJ: neue, neues, erste, weiteres, ersten, laufende, neuen, eigenes, erstes, zweite</li>
-      <li>ADV: erstenmal</li>
+      <li>ADV: mehr, weniger, erstenmal, meiste</li>
       <li>DET: das, ein, des, dem, einem, allem, dies, dieses, eines, diesem</li>
       <li>NOUN: Prozent, Internet, Unternehmen, Jahr, Ende, Quartal, Jahres, Jahren, Netz, Daten</li>
+      <li>NUM: ein, einem</li>
       <li>PRON: es, das, was, dem, nichts, etwas, ihm, 's, dessen, s</li>
       <li>PROPN: AppleStore, PowerBooks, KurzFilmFestival, PowerBook, RealVideo, BusinessCall, Deutschland, FeRAMs, G3-PowerBook, InternetTeam</li>
       <li>X: Inc., Corp.</li>
@@ -301,6 +303,7 @@ and correct errors in annotated corpora
   <li>Plur
     <ul>
       <li>ADJ: neue, neuen, weitere, eigenen, beiden, ersten, deutschen, nächsten, letzten, großen</li>
+      <li>ADV: mehrere, meisten, mehreren, mehrerer, mehr, weniger</li>
       <li>AUX: sind, werden, haben, sollen, können, seien, wurden, wollen, würden, waren</li>
       <li>AUX-Fin: sind, werden, haben, sollen, können, seien, wurden, wollen, würden, waren</li>
       <li>DET: die, der, den, alle, ihre, diese, keine, viele, anderen, andere</li>
@@ -318,11 +321,11 @@ and correct errors in annotated corpora
   <li>Sing
     <ul>
       <li>ADJ: neuen, neue, deutschen, deutsche, ersten, erste, vergangenen, letzten, zweiten, heutigen</li>
-      <li>ADV: erstenmal</li>
+      <li>ADV: mehr, weniger, meisten, meiste, erstenmal</li>
       <li>AUX-Fin: ist, hat, wird, soll, sei, will, hatte, kann, habe, war</li>
       <li>DET: der, dem, die, das, des, den, eine, ein, einen, einer</li>
       <li>NOUN: Internet, Jahr, Unternehmen, Firma, Markt, Ende, Quartal, Software, Jahres, Zeit</li>
-      <li>NUM: 1, eins, Ein, SR-1, 2^3021377-1, 3166-1, EFS-1, Slot-1, viertel, 2/1</li>
+      <li>NUM: 1, eins, ein, eine, einer, SR-1, einem, 2^3021377-1, 3166-1, EFS-1</li>
       <li>PRON: es, man, das, er, der, die, sie, was, dem, wer</li>
       <li>PROPN: Deutschland, Microsoft, Telekom, Intel, Linux, Windows, AOL, online, Europa, IBM</li>
       <li>VERB: sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</li>
@@ -341,8 +344,10 @@ and correct errors in annotated corpora
     <ul>
       <li>ADJ: neuen, ersten, großen, eigenen, weiteren, deutschen, wenige, beiden, größten, solche</li>
       <li>ADP: für, auf, in, über, um, durch, an, gegen, ohne, unter</li>
+      <li>ADV: mehrere, meisten</li>
       <li>DET: die, den, das, eine, einen, ein, ihre, seine, keine, diese</li>
       <li>NOUN: Internet, Mark, Server, Ende, US-Dollar, Markt, Kunden, Version, Zugang, Anfang</li>
+      <li>NUM: eine, ein, einen</li>
       <li>PRON: sich, die, das, sie, es, den, was, ihn, uns, mich</li>
       <li>PROPN: Microsoft, AOL, Intel, Napster, Java, Palm, IBM, Apple, OS/2, Mac</li>
       <li>X: Internetbanking</li>
@@ -355,9 +360,10 @@ and correct errors in annotated corpora
     <ul>
       <li>ADJ: eigenen, neuen, ersten, nächsten, letzten, wenigen, deutschen, verschiedenen, vergangenen, weiteren</li>
       <li>ADP: in, von, mit, zu, bei, an, nach, auf, aus, vor</li>
+      <li>ADV: mehreren, meisten, mehr, weniger</li>
       <li>DET: dem, der, den, einem, einer, diesem, allem, anderem, seiner, anderen</li>
       <li>NOUN: Jahren, Monaten, Tagen, Ländern, Mitarbeitern, Kunden, Geräten, Computern, Bereichen, Internet</li>
-      <li>NUM: drei, dreien, 1394, 15.000, 300, 4, 86a, Acht, tausend, zwei</li>
+      <li>NUM: einer, einem, drei, dreien, 1394, 15.000, 300, 4, 86a, Acht</li>
       <li>PRON: sich, dem, denen, der, ihm, ihnen, uns, mir, ihr, wem</li>
       <li>PROPN: Microsoft, heise, AOL, Intel, IBM, Napster, Apple, Frankreich, Telepolis, Netscape</li>
       <li>X: Internet, World, Baby, France, Instant, Open, Vice, endlich, .web-Domain, Abstract</li>
@@ -370,6 +376,7 @@ and correct errors in annotated corpora
     <ul>
       <li>ADJ: neuer, beiden, letzten, nächsten, vergangenen, deutscher, weiterer, verschiedener, großer, solchen</li>
       <li>ADP: angesichts, aufgrund, wegen, außerhalb, anhand, innerhalb, trotz, hinsichtlich, während, zugunsten</li>
+      <li>ADV: mehrerer, weniger</li>
       <li>DET: der, des, eines, einer, dieser, seiner, dieses, aller, ihrer, seines</li>
       <li>NOUN: Jahres, Unternehmens, Konzerns, Geschäftsjahres, Systems, Herstellers, Vorjahres, Marktes, Netzes, Quartals</li>
       <li>NUM: zweier, Tausender</li>
@@ -384,9 +391,10 @@ and correct errors in annotated corpora
     <ul>
       <li>ADJ: beiden, neue, neuer, deutsche, größte, erste, erster, amerikanische, japanische, weiterer</li>
       <li>ADP: namens, voller</li>
+      <li>ADV: mehrere, meisten</li>
       <li>DET: die, der, das, ein, eine, diese, dies, alle, viele, keine</li>
       <li>NOUN: Internet, Name, Vorsitzende, Vorsitzender, Riese, Vorstandsvorsitzender, Unternehmen, Vorstandsvorsitzende, Server, E-Mail</li>
-      <li>NUM: eins</li>
+      <li>NUM: eine, ein, eins</li>
       <li>PRON: es, die, man, sie, er, das, der, wir, was, wer</li>
       <li>PROPN: Microsoft, Intel, AOL, IBM, Apple, Napster, Compaq, Siemens, Sony, Gates</li>
       <li>X: AID, Anti-Spam-Petition, Digital, Push, Telekom-Mitarbeiter, dmmv</li>
@@ -426,8 +434,8 @@ and correct errors in annotated corpora
   <li>Cmp
     <ul>
       <li>ADJ: weitere, weiteren, später, besser, schneller, stärker, früher, größere, länger, höhere</li>
-      <li>ADV: mehr, weiter, eher, weniger</li>
-      <li>DET: mehr, mehrere, weniger, mehreren, mehrerer</li>
+      <li>ADV: mehr, weiter, weniger, eher, mehrere, mehreren, mehrerer</li>
+      <li>DET: mehr, weniger, mehrere, mehreren, mehrerer</li>
     </ul>
   </li>
 </ul>
@@ -436,8 +444,8 @@ and correct errors in annotated corpora
   <li>Pos
     <ul>
       <li>ADJ: neue, neuen, ersten, deutschen, deutsche, eigenen, erste, vergangenen, möglich, gut</li>
-      <li>ADV: so, sehr, oft, gleich</li>
-      <li>DET: wenig, wenige, wenigen, weniger, geeinte</li>
+      <li>ADV: so, sehr, oft, gleich, wenig, weniger</li>
+      <li>DET: wenig, wenige, wenigen, weniger</li>
     </ul>
   </li>
 </ul>
@@ -446,8 +454,8 @@ and correct errors in annotated corpora
   <li>Sup
     <ul>
       <li>ADJ: nächsten, letzten, größten, größte, nächste, letzte, wichtigsten, neuesten, jüngsten, letzter</li>
-      <li>ADV: möglichst, meist, meistens, meisten</li>
-      <li>DET: meisten, meiste, wenigsten</li>
+      <li>ADV: möglichst, meisten, meist, meistens, meiste</li>
+      <li>DET: meisten, wenigsten</li>
     </ul>
   </li>
 </ul>
@@ -579,8 +587,8 @@ and correct errors in annotated corpora
 <ul>
   <li>Ind
     <ul>
-      <li>ADV: etwas, genug, bisschen, bißchen, bischen</li>
-      <li>DET: mehr, anderen, andere, viele, anderem, einige, einigen, mehrere, meisten, viel</li>
+      <li>ADV: mehr, etwas, mehrere, meisten, genug, weniger, mehreren, bisschen, mehrerer, bißchen</li>
+      <li>DET: anderen, andere, viele, anderem, einige, mehr, einigen, viel, vielen, anderer</li>
       <li>PRON: man, etwas, jemand, jemanden, irgendetwas, irgendjemand, jemandem, irgendwas, irgendwem, E-irgendwas</li>
     </ul>
   </li>
@@ -841,6 +849,7 @@ and correct errors in annotated corpora
         <ul>
           <li>DET: dies, diese, Dieser, diejenigen, diesem, einen, einer, einige</li>
           <li>PRON: etwas</li>
+          <li>PUNCT: ***</li>
           <li>X: of, internet, the, and, digital, mobile, media, for, OS, network</li>
         </ul>
       </li>
@@ -909,7 +918,11 @@ and correct errors in annotated corpora
     <ul>
       <li>Yes
         <ul>
+          <li>AUX: will.</li>
+          <li>DET: anderen, allen, das, der, andere</li>
+          <li>NOUN: Falls</li>
           <li>PRON: da</li>
+          <li>SCONJ: das</li>
         </ul>
       </li>
     </ul>
@@ -950,7 +963,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN-Nom (3)</li>
-      <li>VERB-Fin--NOUN (63224)</li>
+      <li>VERB-Fin--NOUN (63221)</li>
       <li>VERB-Fin--NOUN-Acc (3)</li>
       <li>VERB-Fin--NOUN-Dat (18)</li>
       <li>VERB-Fin--NOUN-Gen (7)</li>
@@ -958,8 +971,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON (136)</li>
       <li>VERB-Fin--PRON-Acc (2)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
-      <li>VERB-Fin--PRON-Nom (28012)</li>
-      <li>VERB-Inf--NOUN (21330)</li>
+      <li>VERB-Fin--PRON-Nom (28009)</li>
+      <li>VERB-Inf--NOUN (21329)</li>
       <li>VERB-Inf--NOUN-Dat (12)</li>
       <li>VERB-Inf--NOUN-Gen (3)</li>
       <li>VERB-Inf--NOUN-Nom (1028)</li>
@@ -967,14 +980,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc (1)</li>
       <li>VERB-Inf--PRON-Dat (1)</li>
       <li>VERB-Inf--PRON-Nom (11073)</li>
-      <li>VERB-Part--NOUN (11353)</li>
+      <li>VERB-Part--NOUN (11352)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
       <li>VERB-Part--NOUN-Dat (3)</li>
       <li>VERB-Part--NOUN-Gen (7)</li>
       <li>VERB-Part--NOUN-Nom (646)</li>
       <li>VERB-Part--PRON (15)</li>
-      <li>VERB-Part--PRON-Dat (1)</li>
-      <li>VERB-Part--PRON-Nom (3677)</li>
+      <li>VERB-Part--PRON-Acc (1)</li>
+      <li>VERB-Part--PRON-Nom (3675)</li>
     </ul>
   </li>
 </ul>
@@ -983,7 +996,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN-Acc (3)</li>
-      <li>VERB-Fin--NOUN (51684)</li>
+      <li>VERB-Fin--NOUN (51689)</li>
       <li>VERB-Fin--NOUN-ADP(An) (18)</li>
       <li>VERB-Fin--NOUN-ADP(Auf) (37)</li>
       <li>VERB-Fin--NOUN-ADP(Aus) (2)</li>
@@ -1030,7 +1043,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(unter) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(Über) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(über) (11)</li>
-      <li>VERB-Fin--NOUN-Dat (677)</li>
+      <li>VERB-Fin--NOUN-Dat (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(An) (4)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(Auf) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(Bei) (1)</li>
@@ -1052,16 +1065,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat-ADP(zu) (240)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(zwischen) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(über) (3)</li>
-      <li>VERB-Fin--NOUN-Gen (33)</li>
+      <li>VERB-Fin--NOUN-Gen (3)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(an) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(auf) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(um) (1)</li>
       <li>VERB-Fin--NOUN-Nom (29)</li>
       <li>VERB-Fin--PRON (229)</li>
       <li>VERB-Fin--PRON-Acc (8273)</li>
-      <li>VERB-Fin--PRON-Dat (750)</li>
       <li>VERB-Fin--PRON-Nom (3)</li>
-      <li>VERB-Inf--NOUN (37081)</li>
+      <li>VERB-Inf--NOUN (37084)</li>
       <li>VERB-Inf--NOUN-ADP(An) (15)</li>
       <li>VERB-Inf--NOUN-ADP(Auf) (22)</li>
       <li>VERB-Inf--NOUN-ADP(Bei) (1)</li>
@@ -1096,7 +1108,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Acc-ADP(gegen) (3)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(in) (9)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(über) (3)</li>
-      <li>VERB-Inf--NOUN-Dat (294)</li>
+      <li>VERB-Inf--NOUN-Dat (1)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(Mit) (8)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(Nach) (1)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(Von) (1)</li>
@@ -1111,14 +1123,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Dat-ADP(von) (27)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(zu) (79)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(zwischen) (2)</li>
-      <li>VERB-Inf--NOUN-Gen (15)</li>
+      <li>VERB-Inf--NOUN-Gen (2)</li>
       <li>VERB-Inf--NOUN-Nom (16)</li>
       <li>VERB-Inf--PRON (313)</li>
       <li>VERB-Inf--PRON-Acc (3458)</li>
-      <li>VERB-Inf--PRON-Dat (286)</li>
-      <li>VERB-Inf--PRON-Gen (2)</li>
       <li>VERB-Inf--PRON-Nom (3)</li>
-      <li>VERB-Part--NOUN (14658)</li>
+      <li>VERB-Part--NOUN (14659)</li>
       <li>VERB-Part--NOUN-ADP(An) (3)</li>
       <li>VERB-Part--NOUN-ADP(Auf) (18)</li>
       <li>VERB-Part--NOUN-ADP(Für) (5)</li>
@@ -1150,7 +1160,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Acc-ADP(in) (9)</li>
       <li>VERB-Part--NOUN-Acc-ADP(unter) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(über) (4)</li>
-      <li>VERB-Part--NOUN-Dat (333)</li>
+      <li>VERB-Part--NOUN-Dat (7)</li>
       <li>VERB-Part--NOUN-Dat-ADP(An) (1)</li>
       <li>VERB-Part--NOUN-Dat-ADP(Mit) (3)</li>
       <li>VERB-Part--NOUN-Dat-ADP(Nach) (1)</li>
@@ -1164,13 +1174,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Dat-ADP(zu) (65)</li>
       <li>VERB-Part--NOUN-Dat-ADP(zwischen) (1)</li>
       <li>VERB-Part--NOUN-Dat-ADP(über) (2)</li>
-      <li>VERB-Part--NOUN-Gen (12)</li>
       <li>VERB-Part--NOUN-Gen-ADP(von) (1)</li>
       <li>VERB-Part--NOUN-Gen-ADP(zu) (1)</li>
       <li>VERB-Part--NOUN-Nom (11)</li>
       <li>VERB-Part--PRON (50)</li>
-      <li>VERB-Part--PRON-Acc (1869)</li>
-      <li>VERB-Part--PRON-Dat (301)</li>
+      <li>VERB-Part--PRON-Acc (1868)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>
@@ -1186,14 +1194,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 503 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: befinden sich, beteiligen sich, finden sich, konzentrieren sich, einigen sich, entwickeln sich, halten sich, stellen sich, ändern sich, freuen sich, setzen sich, geben sich, eignen sich, kümmern sich, erweisen sich, trennen sich, melden sich, beschäftigen sich, ergeben sich, bewegen sich, beziehen sich, erhöhen sich, anmelden sich, sichern sich, durchsetzen sich, versprechen sich, unterscheiden sich, berufen sich, verdoppeln sich, vorstellen sich, bemühen sich, auswirken sich, beschränken sich, bewerben sich, informieren sich, stützen sich, treffen sich, wehren sich, lohnen sich, orientieren sich, verpflichten sich, zurückziehen sich, anschließen sich, entschließen sich, interessieren sich, befassen sich, herausstellen sich, etablieren sich, einwählen sich, verbreiten sich</li>
+  <li>This corpus contains 504 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: befinden sich, beteiligen sich, finden sich, konzentrieren sich, einigen sich, entwickeln sich, halten sich, stellen sich, ändern sich, freuen sich, setzen sich, geben sich, eignen sich, kümmern sich, erweisen sich, trennen sich, melden sich, beschäftigen sich, ergeben sich, bewegen sich, beziehen sich, erhöhen sich, anmelden sich, sichern sich, durchsetzen sich, versprechen sich, unterscheiden sich, berufen sich, verdoppeln sich, vorstellen sich, bemühen sich, auswirken sich, beschränken sich, bewerben sich, informieren sich, stützen sich, treffen sich, wehren sich, lohnen sich, orientieren sich, verpflichten sich, zurückziehen sich, anschließen sich, entschließen sich, interessieren sich, befassen sich, herausstellen sich, etablieren sich, einwählen sich, verbreiten sich</li>
 </ul>
 
 
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 785 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: lassen sich, handeln sich, zeigen sich, äußern sich, sehen sich, wenden sich, machen sich, richten sich, belaufen sich, entscheiden sich, aussprechen sich, fühlen sich, einige sich, erklären sich, zeichnen sich, präsentieren sich, schließen sich, sicher sich, sprechen sich, verändern sich, verhalten sich, verabschieden sich, fragen sich, verständigen sich, nennen sich, schützen sich, verbessern sich, registrieren sich, - sich, tun sich, verkaufen sich, entpuppen sich, bezeichnen sich, schweigen sich, häufen sich, wirken sich, bestätigen sich, zusammentun sich, gestalten sich, verringern sich, einloggen sich, streiten sich, fortsetzen sich, mehren sich, summieren sich, vorbereiten sich, finanzieren sich, scheinen sich, lesen sich, öffnen sich</li>
+  <li>This corpus contains 696 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: lassen sich, handeln sich, zeigen sich, äußern sich, sehen sich, wenden sich, machen sich, richten sich, belaufen sich, entscheiden sich, aussprechen sich, fühlen sich, zeichnen sich, präsentieren sich, schließen sich, sprechen sich, erklären sich, verändern sich, verhalten sich, verabschieden sich, fragen sich, verständigen sich, nennen sich, verbessern sich, registrieren sich, schützen sich, tun sich, - sich, entpuppen sich, bezeichnen sich, schweigen sich, verkaufen sich, häufen sich, wirken sich, zusammentun sich, bestätigen sich, gestalten sich, verringern sich, einloggen sich, streiten sich, fortsetzen sich, mehren sich, summieren sich, vorbereiten sich, finanzieren sich, lesen sich, öffnen sich, verteidigen sich, verschärfen sich, üben sich</li>
     <ul>
       <li>Out of those, 40 lemmas occurred more than once, but never without a reflexive dependent. Examples: zusammentun, breiten, durchringen, zuwenden, zusammenfinden, auskennen, einpendeln, einschleichen, umschauen, herumschlagen, entledigen, hervortun, aufschwingen, herumsprechen, zurechtfinden, überschneiden, gegenübersehen, vorarbeiten, auftun, einfinden, herausreden, hinsetzen, hochschaukeln, klinken, nisten, zusammenraufen, abzeichnende, ausschweigen, einreihen, einschießen, erdreisten, hingeben, hocharbeiten, loggen, lossagen, materialisierten, schaukeln, umtun, verfestigen, überheben</li>
     </ul>
@@ -1202,6 +1210,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
+<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

@@ -77,15 +77,15 @@ Examples: <em>o</em>
 
 Parents of `DET` nodes belong to 6 different parts of speech: <tt><a href="ro_tuecl-pos-NOUN.html">NOUN</a></tt> (201; 95% instances), <tt><a href="ro_tuecl-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="ro_tuecl-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ro_tuecl-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ro_tuecl-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ro_tuecl-pos-VERB.html">VERB</a></tt> (1; 0% instances)
 
-202 (95%) `DET` nodes are leaves.
+203 (96%) `DET` nodes are leaves.
 
-9 (4%) `DET` nodes have one child.
+8 (4%) `DET` nodes have one child.
 
 1 (0%) `DET` nodes have two children.
 
 The highest child degree of a `DET` node is 2.
 
-Children of `DET` nodes are attached using 3 different relations: <tt><a href="ro_tuecl-dep-advmod.html">advmod</a></tt> (9; 82% instances), <tt><a href="ro_tuecl-dep-case.html">case</a></tt> (1; 9% instances), <tt><a href="ro_tuecl-dep-fixed.html">fixed</a></tt> (1; 9% instances)
+Children of `DET` nodes are attached using 2 different relations: <tt><a href="ro_tuecl-dep-advmod.html">advmod</a></tt> (9; 90% instances), <tt><a href="ro_tuecl-dep-fixed.html">fixed</a></tt> (1; 10% instances)
 
-Children of `DET` nodes belong to 2 different parts of speech: <tt><a href="ro_tuecl-pos-ADV.html">ADV</a></tt> (10; 91% instances), <tt><a href="ro_tuecl-pos-ADP.html">ADP</a></tt> (1; 9% instances)
+Children of `DET` nodes belong to 1 different parts of speech: <tt><a href="ro_tuecl-pos-ADV.html">ADV</a></tt> (10; 100% instances)
 

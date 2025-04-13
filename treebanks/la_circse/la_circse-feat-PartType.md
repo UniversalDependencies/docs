@@ -16,9 +16,9 @@ The feature is used with 1 part-of-speech tags: <tt><a href="la_circse-pos-PART.
 
 ### `PART`
 
-66 <tt><a href="la_circse-pos-PART.html">PART</a></tt> tokens (20% of all `PART` tokens) have a non-empty value of `PartType`.
+66 <tt><a href="la_circse-pos-PART.html">PART</a></tt> tokens (19% of all `PART` tokens) have a non-empty value of `PartType`.
 
-The most frequent other feature values with which `PART` and `PartType` co-occurred: <tt><a href="la_circse-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (45; 68%).
+The most frequent other feature values with which `PART` and `PartType` co-occurred: <tt><a href="la_circse-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (66; 100%), <tt><a href="la_circse-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (45; 68%).
 
 `PART` tokens may have the following values of `PartType`:
 

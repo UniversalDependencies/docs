@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-20 nodes (5%) are attached to their parents as `punct`.
+21 nodes (5%) are attached to their parents as `punct`.
 
-12 instances of `punct` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.8.
+12 instances of `punct` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.
 
-The following 5 pairs of parts of speech are connected with `punct`: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-PUNCT.html">PUNCT</a></tt> (11; 55% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-PUNCT.html">PUNCT</a></tt> (4; 20% instances), <tt><a href="sga_dipsgg-pos-X.html">X</a></tt>-<tt><a href="sga_dipsgg-pos-PUNCT.html">PUNCT</a></tt> (3; 15% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-PUNCT.html">PUNCT</a></tt> (1; 5% instances), <tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt>-<tt><a href="sga_dipsgg-pos-PUNCT.html">PUNCT</a></tt> (1; 5% instances).
+The following 5 pairs of parts of speech are connected with `punct`: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-PUNCT.html">PUNCT</a></tt> (11; 52% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-PUNCT.html">PUNCT</a></tt> (5; 24% instances), <tt><a href="sga_dipsgg-pos-X.html">X</a></tt>-<tt><a href="sga_dipsgg-pos-PUNCT.html">PUNCT</a></tt> (3; 14% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-PUNCT.html">PUNCT</a></tt> (1; 5% instances), <tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt>-<tt><a href="sga_dipsgg-pos-PUNCT.html">PUNCT</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -23,43 +23,35 @@ The following 5 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 1 punct	color:blue
 1	᚛	᚛	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	ᚃᚓᚏᚔᚐ	feria	NOUN	_	Foreign=Yes	0	root	_	_
+2	ᚃᚓᚏᚔᚐ	feria	NOUN	_	Foreign=Yes	0	root	_	Lang=la
 3	ᚉᚐᚔ	caí	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	_
-4	ᚆᚑᚇᚔᚓ	hodie	NOUN	_	Foreign=Yes	2	obl:tmod	_	_
+4	ᚆᚑᚇᚔᚓ	hodie	NOUN	_	Foreign=Yes	2	obl:tmod	_	Lang=la
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 12 punct	color:blue
-1	Gaib	gaibid	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	_
-2	do	do	PRON	_	Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	_
-3	chuil	cúil	NOUN	_	Case=Acc|Number=Sing	1	obj	_	_
-4	i	i	ADP	_	AdpType=Prep|Definite=Def	6	case	_	SpaceAfter=No
-5	sin	in	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	charcair	carcar	NOUN	_	Case=Dat|Number=Sing	3	nmod	_	_
-7	ni	ní	PART	_	Polarity=Neg	8	advmod	_	SpaceAfter=No
-8	róis	rosaig	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|Voice=Act	1	parataxis	_	_
-9	chluim	clúm	NOUN	_	Case=Acc|Number=Sing	8	obj	_	_
-10	na	ná	CCONJ	_	Polarity=Neg	11	cc	_	SpaceAfter=No
-11	colcaid	colcaid	NOUN	_	Case=Acc|Number=Sing	9	conj	_	_
-12	·	·	PUNCT	_	_	8	punct	_	_
-13	truag	trúag	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	dislocated	_	_
-14	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No
-15	sin	sin	PART	_	PronType=Dem	13	amod	_	_
-16	a	a	PART	_	PartType=Voc	17	case:voc	_	SpaceAfter=No
-17	mail	mael	PROPN	_	Case=Voc|Number=Sing	13	vocative	_	_
-18	bachal	bachall	NOUN	_	Case=Gen|Number=Plur	17	nmod	_	_
-19	ro	ro	PART	_	PartType=Aug	21	compound:prt	_	SpaceAfter=No
-20	t	t	PRON	_	Number=Sing|Person=2|PronClass=A|PronType=Prs	19	obj:infx	_	_
-21	giuil	glenaid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	1	parataxis	_	_
-22	ind	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	23	det	_	SpaceAfter=No
-23	ṡrathar	srathar	NOUN	_	Case=Nom|Number=Sing	21	obj	_	_
-24	dodcaid	dodcad	NOUN	_	Case=Gen|Number=Sing	23	nmod	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 8 punct	color:blue
+1	braigim	braigid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
+2	nam	_	ADV	_	Foreign=Yes	7	discourse	_	Lang=la
+3	displosa	_	ADJ	_	Foreign=Yes	4	amod	_	Lang=la
+4	sona	_	NOUN	_	Foreign=Yes	7	nsubj	_	Lang=la
+5	quantum	_	ADV	_	Foreign=Yes	7	advmod	_	Lang=la
+6	vesíca	_	NOUN	_	Foreign=Yes	7	obl	_	Lang=la
+7	pepedi	_	VERB	_	Foreign=Yes	1	advcl	_	Lang=la
+8	··	_	PUNCT	_	_	16	punct	_	_
+9	⁊	_	CCONJ	_	Foreign=Yes	16	cc	_	Lang=la
+10	fit	_	VERB	_	Foreign=Yes	16	advcl	_	Lang=la
+11	pedo	_	NOUN	_	Foreign=Yes	10	nsubj	_	Lang=la
+12	nomen	_	NOUN	_	Foreign=Yes	10	obj	_	Lang=la
+13	animalis	_	NOUN	_	Foreign=Yes	12	nmod	_	Lang=la
+14	ut	_	SCONJ	_	Foreign=Yes	16	mark	_	Lang=la
+15	isidorus	_	PROPN	_	Foreign=Yes	16	nsubj	_	Lang=la
+16	dicit	_	VERB	_	Foreign=Yes	7	advcl	_	Lang=la
 
 ~~~
 

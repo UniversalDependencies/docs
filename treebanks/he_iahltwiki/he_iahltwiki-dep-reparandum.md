@@ -27,8 +27,8 @@ The following 14 pairs of parts of speech are connected with `reparandum`: <tt><
 3	דוגמת	דוגמה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	1	nmod	_	_
 4	כד	כד	PROPN	PROPN	_	3	compound	_	_
 5	מ	מ	ADP	ADP	_	6	case	_	_
-6	שנת	שנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	4	nmod	_	_
-7	1943	1943	NUM	NUM	_	6	compound	_	SpaceAfter=No
+6	שנת	שנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	4	nmod	_	Entity=(TIMEX
+7	1943	1943	NUM	NUM	_	6	compound	_	Entity=TIMEX)|SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	1	punct	_	_
 9	מעידות	העיד	VERB	VERB	Gender=Fem|HebBinyan=HIFIL|Number=Plur|Person=3|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
 10	על	על	ADP	ADP	_	12	case	_	_
@@ -51,15 +51,15 @@ The following 14 pairs of parts of speech are connected with `reparandum`: <tt><
 # visual-style 13	fgColor:white
 # visual-style 13 11 reparandum	color:blue
 1	ב	ב	ADP	ADP	_	2	case	_	_
-2	ישראל	ישראל	PROPN	PROPN	_	3	obl	_	_
-3	יש	יש	VERB	VERB	_	0	root	_	_
+2	ישראל	ישראל	PROPN	PROPN	_	3	obl	_	Entity=(GPE)
+3	יש	יש	VERB	VERB	Polarity=Pos	0	root	_	_
 4	כ	כ	ADV	ADV	_	6	advmod	_	SpaceAfter=No
 5	-	-	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
 6	458,769	458,769	NUM	NUM	_	7	nummod	_	_
 7	חולים	חולה	NOUN	NOUN	Gender=Masc|Number=Plur	3	nsubj	_	_
 8	מאובחנים	מאובחן	ADJ	ADJ	Gender=Masc|Number=Plur	7	amod	_	_
 9	ב	ב	ADP	ADP	Definite=Def|PronType=Art	10	case	_	_
-10	סוכרת	סוכרת	PROPN	PROPN	_	8	obl	_	_
+10	סוכרת	סוכרת	PROPN	PROPN	_	8	obl	_	Entity=(MISC)
 11	ו	ו	CCONJ	CCONJ	_	13	reparandum	_	_
 12	ה	ה	SCONJ	SCONJ	_	13	mark	_	_
 13	מהווים	היווה	VERB	VERB	Gender=Masc|HebBinyan=PIEL|Number=Plur|Person=3|Tense=Pres|VerbForm=Part|Voice=Act	7	acl:relcl	_	_
@@ -69,7 +69,7 @@ The following 14 pairs of parts of speech are connected with `reparandum`: <tt><
 17	ה	ה	DET	DET	Definite=Def|PronType=Art	18	det	_	_
 18	אוכלוסייה	אוכלוסייה	NOUN	NOUN	Gender=Fem|Number=Sing	15	nmod	_	_
 19	(	(	PUNCT	PUNCT	_	20	punct	_	SpaceAfter=No
-20	2012	2012	NUM	NUM	_	13	parataxis	_	SpaceAfter=No
+20	2012	2012	NUM	NUM	_	13	parataxis	_	Entity=(TIMEX)|SpaceAfter=No
 21	)	)	PUNCT	PUNCT	_	20	punct	_	SpaceAfter=No
 22	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
@@ -86,11 +86,11 @@ The following 14 pairs of parts of speech are connected with `reparandum`: <tt><
 2	ה	הוא	PRON	PRON	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod:poss	_	_
 3	של	של	ADP	ADP	Case=Gen	5	case	_	_
 4	ה	ה	DET	DET	Definite=Def|PronType=Art	5	reparandum	_	_
-5	נציבות	נציבות	NOUN	NOUN	Gender=Fem|Number=Sing	1	nmod:poss	_	_
-6	ה	ה	DET	DET	Definite=Def|PronType=Art	7	det	_	_
-7	או"ם	או"ם	PROPN	PROPN	Abbr=Yes	5	compound	_	_
+5	נציבות	נציבות	NOUN	NOUN	Gender=Fem|Number=Sing	1	nmod:poss	_	Entity=(ORG
+6	ה	ה	DET	DET	Definite=Def|PronType=Art	7	det	_	Entity=(ORG
+7	או"ם	או"ם	PROPN	PROPN	Abbr=Yes	5	compound	_	Entity=ORG)
 8	ל	ל	ADP	ADP	_	9	case	_	_
-9	פליטים	פליט	NOUN	NOUN	Gender=Masc|Number=Plur	5	nmod	_	_
+9	פליטים	פליט	NOUN	NOUN	Gender=Masc|Number=Plur	5	nmod	_	Entity=ORG)
 10	היא	הוא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	cop	_	_
 11	שילוב	שילוב	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	0	root	_	_
 12	ה	ה	DET	DET	Definite=Def|PronType=Art	13	det	_	_
@@ -107,7 +107,7 @@ The following 14 pairs of parts of speech are connected with `reparandum`: <tt><
 23	ה	הוא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	obl	_	_
 24	התנגדו	התנגד	VERB	VERB	Gender=Fem|HebBinyan=HITPAEL|Number=Plur|Person=3|Tense=Past|Voice=Act	21	acl:relcl	_	_
 25	מדינות	מדינה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	24	nsubj	_	_
-26	ערב	ערב	PROPN	PROPN	_	25	compound	_	SpaceAfter=No
+26	ערב	ערב	PROPN	PROPN	_	25	compound	_	Entity=(LOC)|SpaceAfter=No
 27	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 ~~~

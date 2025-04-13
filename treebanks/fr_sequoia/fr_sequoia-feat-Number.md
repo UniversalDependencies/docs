@@ -43,7 +43,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (2826; 27% of non-empty `Number`): <em>les, des, ces, plusieurs, ses, de, d', leurs, quelques, nos</em>
 * `Sing` (7570; 73% of non-empty `Number`): <em>le, la, l', une, un, cette, ce, son, votre, sa</em>
-* `EMPTY` (46): <em>50 000, 125 000, 1 500, 1 000, 1 200, 10 000, 13 819, 2 000, 2 127, 6 000</em>
+* `EMPTY` (1): <em>différentes</em>
 
 <table>
   <tr><th>Paradigm <i>le</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

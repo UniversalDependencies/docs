@@ -149,7 +149,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Fem` (354; 17% of non-empty `Gender`): <em>que, quam, qua, eius, cuius, ea, eam, quas, earum, quarum</em>
 * `Masc` (634; 31% of non-empty `Gender`): <em>qui, eius, quem, quo, quis, quos, eorum, eo, quorum, cui</em>
 * `Neut` (1036; 51% of non-empty `Gender`): <em>quod, que, quo, quid, ea, aliquid, quicquid, quibus, eo, cuius</em>
-* `EMPTY` (663): <em>se, nobis, sibi, me, te, nos, nichil, vobis, vos, tibi</em>
+* `EMPTY` (662): <em>se, nobis, sibi, me, te, nos, nichil, vobis, vos, tibi</em>
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -242,12 +242,12 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="la_udante-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1781; 98%),
+<tt>NOUN --[<tt><a href="la_udante-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1782; 98%),
 <tt>NOUN --[<tt><a href="la_udante-dep-det.html">det</a></tt>]--> DET</tt> (1514; 96%),
 <tt>NOUN --[<tt><a href="la_udante-dep-acl.html">acl</a></tt>]--> VERB</tt> (421; 91%),
-<tt>NOUN --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> NOUN</tt> (365; 54%),
-<tt>ADJ --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> ADJ</tt> (268; 94%),
-<tt>ADJ --[<tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (158; 95%),
+<tt>NOUN --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> NOUN</tt> (364; 54%),
+<tt>ADJ --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> ADJ</tt> (267; 94%),
+<tt>ADJ --[<tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (159; 95%),
 <tt>ADJ --[<tt><a href="la_udante-dep-det.html">det</a></tt>]--> DET</tt> (91; 97%),
 <tt>PROPN --[<tt><a href="la_udante-dep-amod.html">amod</a></tt>]--> ADJ</tt> (82; 94%),
 <tt>ADJ --[<tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (80; 93%),

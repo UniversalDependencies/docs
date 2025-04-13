@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-27 nodes (2%) are attached to their parents as `advcl`.
+28 nodes (2%) are attached to their parents as `advcl`.
 
-18 instances of `advcl` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.25925925925926.
+19 instances of `advcl` (68%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.17857142857143.
 
-The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (12; 44% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (6; 22% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="xav_xdt-pos-X.html">X</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 4% instances).
+The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (12; 43% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (7; 25% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="xav_xdt-pos-X.html">X</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

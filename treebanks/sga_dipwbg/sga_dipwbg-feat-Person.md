@@ -9,10 +9,25 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-142 tokens (32%) have a non-empty value of `Person`.
-99 types (40%) occur at least once with a non-empty value of `Person`.
-54 lemmas (32%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> (55; 13% instances), <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (37; 8% instances), <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> (32; 7% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (18; 4% instances).
+166 tokens (38%) have a non-empty value of `Person`.
+104 types (42%) occur at least once with a non-empty value of `Person`.
+60 lemmas (35%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (61; 14% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> (55; 13% instances), <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> (32; 7% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (18; 4% instances).
+
+### `PRON`
+
+61 <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> tokens (90% of all `PRON` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="sga_dipwbg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (51; 84%), <tt><a href="sga_dipwbg-feat-PronClass.html">PronClass</a></tt><tt>=EMPTY</tt> (49; 80%), <tt><a href="sga_dipwbg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (41; 67%), <tt><a href="sga_dipwbg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (39; 64%), <tt><a href="sga_dipwbg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (37; 61%).
+
+`PRON` tokens may have the following values of `Person`:
+
+* `1` (29; 48% of non-empty `Person`): <em>sa, mo, m, ar, se, ni, mm, n</em>
+* `2` (21; 34% of non-empty `Person`): <em>si, for, t, far, b, do, ndob, so, tú</em>
+* `3` (11; 18% of non-empty `Person`): <em>a, hed, hé, d, s, som</em>
+* `EMPTY` (7): <em>cách, cain, cote, cáich, níi, són</em>
+
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (21) occur only with one value of `Person`.
 
 ### `VERB`
 
@@ -33,21 +48,6 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="sga_dipwbg-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="sga_dipwbg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sga_dipwbg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>ngeiss</em></td><td><em>gessir</em></td></tr>
   <tr><td><tt><tt><a href="sga_dipwbg-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="sga_dipwbg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sga_dipwbg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>gessam</em></td><td></td><td></td></tr>
 </table>
-
-### `PRON`
-
-37 <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="sga_dipwbg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (37; 100%), <tt><a href="sga_dipwbg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (28; 76%), <tt><a href="sga_dipwbg-feat-PronClass.html">PronClass</a></tt><tt>=EMPTY</tt> (25; 68%), <tt><a href="sga_dipwbg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24; 65%), <tt><a href="sga_dipwbg-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (20; 54%).
-
-`PRON` tokens may have the following values of `Person`:
-
-* `1` (14; 38% of non-empty `Person`): <em>mo, m, ar, mm, n</em>
-* `2` (13; 35% of non-empty `Person`): <em>for, t, far, b, do, ndob, tú</em>
-* `3` (10; 27% of non-empty `Person`): <em>a, hed, hé, d, s</em>
-* `EMPTY` (31): <em>sa, si, se, cách, ni, cain, cote, cáich, níi, so</em>
-
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (15) occur only with one value of `Person`.
 
 ### `AUX`
 
@@ -97,12 +97,14 @@ The most frequent other feature values with which `ADP` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
+<tt>VERB --[<tt><a href="sga_dipwbg-dep-amod.html">amod</a></tt>]--> PRON</tt> (13; 100%),
+<tt>ADP --[<tt><a href="sga_dipwbg-dep-amod.html">amod</a></tt>]--> PRON</tt> (6; 100%),
 <tt>VERB --[<tt><a href="sga_dipwbg-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 86%),
 <tt>VERB --[<tt><a href="sga_dipwbg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (5; 56%),
+<tt>PRON --[<tt><a href="sga_dipwbg-dep-amod.html">amod</a></tt>]--> PRON</tt> (3; 100%),
 <tt>PRON --[<tt><a href="sga_dipwbg-dep-nsubj.html">nsubj</a></tt>]--> AUX</tt> (3; 75%),
+<tt>AUX --[<tt><a href="sga_dipwbg-dep-amod.html">amod</a></tt>]--> PRON</tt> (2; 100%),
 <tt>PRON --[<tt><a href="sga_dipwbg-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 67%),
 <tt>PRON --[<tt><a href="sga_dipwbg-dep-cop.html">cop</a></tt>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<tt><a href="sga_dipwbg-dep-csubj.html">csubj</a></tt>]--> PRON</tt> (1; 100%),
-<tt>VERB --[<tt><a href="sga_dipwbg-dep-obl.html">obl</a></tt>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<tt><a href="sga_dipwbg-dep-parataxis.html">parataxis</a></tt>]--> ADP</tt> (1; 100%).
+<tt>VERB --[<tt><a href="sga_dipwbg-dep-csubj.html">csubj</a></tt>]--> PRON</tt> (1; 100%).
 

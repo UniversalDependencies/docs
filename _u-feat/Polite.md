@@ -99,4 +99,4 @@ status by comparison.
 * Comrie, Bernard. 1976. Linguistic politeness axes: Speaker-addressee, speaker-referent, speaker-bystander. Pragmatics Microfiche 1.7(A3). Department of Linguistics, University of
 Cambridge.
 * Wenger, James R. 1982. Some Universals of Honorific Language with Special Reference to Japanese. Ph.D. thesis, University of Arizona, Tucson, AZ.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:16 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:59 CET -->

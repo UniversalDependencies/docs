@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-obl.html">obl</a></tt>.
 There are also 4 other language-specific subtypes of `obl`: <tt><a href="orv_rnc-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="orv_rnc-dep-obl-depict.html">obl:depict</a></tt>, <tt><a href="orv_rnc-dep-obl-float.html">obl:float</a></tt>, <tt><a href="orv_rnc-dep-obl-pronmod.html">obl:pronmod</a></tt>.
 
-635 nodes (1%) are attached to their parents as `obl:tmod`.
+1166 nodes (1%) are attached to their parents as `obl:tmod`.
 
-411 instances of `obl:tmod` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.83307086614173.
+669 instances of `obl:tmod` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.05660377358491.
 
-The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (583; 92% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (17; 3% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (15; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (12; 2% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1015; 87% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (39; 3% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (38; 3% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (30; 3% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (20; 2% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,26 +56,20 @@ The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 5 obl:tmod	color:blue
-1	На	на	ADP	_	_	2	case	_	wf="На"|_
-2	оборотѣ	оборотъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	0	root	_	wf="оборотѣ"
-3	помѣта	помѣта	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	wf="помѣта"|SpaceAfter=No
-4	:	:	PUNCT	_	_	12	punct	_	wf=":"|_
-5	205	205	ADJ	_	Case=Gen|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	12	obl:tmod	_	upos="ANUM"|wf="205"|SpaceAfter=No
-6	,	,	PUNCT	_	_	10	punct	_	wf=","|_
-7	маія	май	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	wf="маія"
-8	въ	въ	ADP	_	_	10	case	_	wf="въ"|_
-9	24	24	ADJ	_	Case=Acc|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	10	amod	_	upos="ANUM"|wf="24"
-10	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	wf="день"|SpaceAfter=No
-11	,	,	PUNCT	_	_	10	punct	_	wf=","|_
-12	взять	взяти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	parataxis	_	wf="взять"
-13	къ	къ	ADP	_	_	14	case	_	wf="къ"|_
-14	дѣлу	дѣло	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	12	obl	_	wf="дѣлу"|SpaceAfter=No
-15	.	.	PUNCT	_	_	2	punct	_	wf="."|_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 obl:tmod	color:blue
+1	160-го	160-й	ADJ	ORD	Case=Gen|Gender=Masc|Number=Sing|NumForm=Combi|NumType=Ord	6	obl:tmod	_	upos="ANUM"|norm="160-го"|Decl=ANUM|End=ог
+2	маия	май	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	norm="маия"|Decl=2|End=яи
+3	в	въ	ADP	_	_	5	case	_	norm="в"|check=@
+4	9	9	ADJ	ORD	Case=Acc|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	5	amod	_	upos="ANUM"|norm="9"|Decl=ANUM|End=_|check=@
+5	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	nmod	_	norm="день"|Decl=2|End=ь0|check=@
+6	подал	подати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	norm="подал"|Decl=X|End=л
+7	Семен	Семенъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	6	nsubj	_	norm="Семен"|Decl=2|End=0|[G]
+8	Кузьминской	Кузьминский	PROPN	_	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	7	flat:name	_	norm="Кузьминской"|Decl=A|End=йо|[G]|SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	norm="."
 
 ~~~
 

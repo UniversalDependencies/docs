@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `obl:cau`: <tt><a hr
 # visual-style 4	fgColor:white
 # visual-style 4 5 obl:cau	color:blue
 1	Кивок	кивок	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	3	nsubj	_	GTtags=Indef,Sg,Nom
-2	изь	аф	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	3	aux:neg	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
+2	изь	аф	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	3	aux	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
 3	карма	кармамс	VERB	_	Connegative=Yes	0	root	_	GTtags=ConNeg
 4	пичедема	пичедемс	VERB	V	Case=Loc|VerbForm=Inf	3	xcomp	_	GTtags=Inf,Loc
 5	колбатнень	колба	NOUN	N	Case=Gen|Definite=Def|Number=Plur	4	obl:cau	_	GTtags=Pl,Gen,Def

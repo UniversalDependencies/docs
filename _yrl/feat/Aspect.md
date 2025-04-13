@@ -16,7 +16,8 @@ udver: '2'
   <td><a href="#Prosp">Prosp</a></td>
   <td><a href="#Frus">Frus</a></td>
   <td><a href="#Freq">Freq</a></td>
-  <td><a href="#Compl">Freq</a></td>
+  <td><a href="#Compl">Compl</a></td>
+  <td><a href="#Cont">Cont</a></td>
 </tr>
 </table>
 
@@ -178,5 +179,22 @@ Examples cited by Avila (2021) (our English translations):
 * [yrl] _Ape Pirá-itá Manha umukanhemu <b>pawa</b> aintá suí maã uxari waá kwera aintá supé. &nbsp;_  “Then the Mother of Fishes made disappear everything she had given them.”
 * [yrl] _Remaã yuíri mayé ií umuyasuka <b>pawa</b> se awa-itá pixunasawa! &nbsp;_  “See also how the water washed away all the blackness from my hair!”
 * [yrl] _Pepuri <b>pawa</b> paraná upé. &nbsp;_  “Everyone jump into the river.”
-* [yrl] _Uka aíwa ukukúi <b>pá</b> wã. &nbsp;_  “The old house has already completely collapsed.”
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:48 CEST -->
+
+
+### <a name="Cont">`Cont`</a>: continuative aspect
+
+The particle _wé_ of Nheengatu encodes the continuative aspect, which indicates that "the event or state expressed by the predicate continues or endures" (Klamer 2000, p. 52).
+
+#### References
+
+Klamer, M. (2000). Continuative Aspect and the Dative Clitic in Kambera. In: Paul, I., Phillips, V., Travis, L. (eds) *Formal Issues in Austronesian Linguistics. Studies in Natural Language and Linguistic Theory*, vol 49. Springer, Dordrecht. 
+
+#### Examples
+
+Hartt's (1938) examples cited by Avila (2021) (our English translations):
+
+* [yrl] _Ukiri <b>wé</b> será taína? &nbsp;_ -  "Is the child still sleeping?" 
+* [yrl] _Arikú yepé se kiwira sikwé <b>wé</b> waá. &nbsp;_ "I have a brother who is still alive." 
+
+
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:32 CET -->

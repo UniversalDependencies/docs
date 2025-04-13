@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>fueram</em> (<tt><a href="la_perseus-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 42.000000 (the average of all parts of speech is 2.102233).
+The form / lemma ratio of `AUX` is 42.000000 (the average of all parts of speech is 2.101598).
 
 The 1st highest number of forms (42) was observed with the lemma “sum”: <em>eram, erant, eras, erat, erimus, eris, erit, ero, erunt, es, esse, essem, essemus, essent, esset, est, esto, fore, foret, fueram, fuerant, fuerat, fuere, fuerint, fuerit, fuerunt, fui, fuimus, fuisse, fuissent, fuit, futura, futuram, sim, sint, sis, sit, sitis, sum, sumus, sunt, sunto</em>.
 
@@ -41,7 +41,7 @@ Examples: <em>est</em>
 
 `AUX` nodes are attached to their parents using 3 different relations: <tt><a href="la_perseus-dep-cop.html">cop</a></tt> (350; 95% instances), <tt><a href="la_perseus-dep-aux-pass.html">aux:pass</a></tt> (15; 4% instances), <tt><a href="la_perseus-dep-aux.html">aux</a></tt> (4; 1% instances)
 
-Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (187; 51% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (117; 32% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (25; 7% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (25; 7% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (11; 3% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (188; 51% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (116; 31% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (25; 7% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (25; 7% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (11; 3% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
 367 (99%) `AUX` nodes are leaves.
 

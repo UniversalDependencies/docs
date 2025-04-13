@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>má</em> (<tt><a href="cs_cac-pos-VER
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.891257 (the average of all parts of speech is 2.185616).
+The form / lemma ratio of `VERB` is 2.891257 (the average of all parts of speech is 2.181223).
 
 The 1st highest number of forms (26) was observed with the lemma “moci”: <em>moci, mohl, mohla, mohli, mohlo, mohly, mohou, mohu, může, můžeme, můžete, můžeš, můžu, nemohl, nemohla, nemohli, nemohlo, nemohly, nemohou, nemohu, nemůže, nemůžeme, nemůžete, nemůžeš, nemůžou, nemůžu</em>.
 

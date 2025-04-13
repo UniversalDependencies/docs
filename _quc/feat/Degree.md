@@ -12,4 +12,4 @@ In Kʼicheʼ adjectives can take a suffix, *-alaj* to mark intensification.
 #### Examples
 
 * [quc] _Jun <b>nimalaj</b> tzʼiʼ_ "Un perro muy grande"
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:53 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:37 CET -->

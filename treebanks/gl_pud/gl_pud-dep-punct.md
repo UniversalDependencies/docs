@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2456 nodes (10%) are attached to their parents as `punct`.
+2454 nodes (10%) are attached to their parents as `punct`.
 
-1585 instances of `punct` (65%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.54804560260586.
+1583 instances of `punct` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.55338223308883.
 
-The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (1372; 56% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (571; 23% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (202; 8% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (91; 4% instances), <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (72; 3% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (56; 2% instances), <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (53; 2% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (32; 1% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="gl_pud-pos-DET.html">DET</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="gl_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (1372; 56% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (571; 23% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (164; 7% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (91; 4% instances), <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (72; 3% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (56; 2% instances), <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (53; 2% instances), <tt><a href="gl_pud-pos-X.html">X</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (36; 1% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (32; 1% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="gl_pud-pos-DET.html">DET</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="gl_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

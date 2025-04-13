@@ -48,7 +48,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="sme_giella-dep-det.html">det</a></tt>]--> PRON</tt> (11; 100%),
+<tt>PRON --[<tt><a href="sme_giella-dep-det.html">det</a></tt>]--> PRON</tt> (10; 100%),
 <tt>PRON --[<tt><a href="sme_giella-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (6; 100%),
 <tt>PRON --[<tt><a href="sme_giella-dep-conj.html">conj</a></tt>]--> PRON</tt> (2; 100%).
 

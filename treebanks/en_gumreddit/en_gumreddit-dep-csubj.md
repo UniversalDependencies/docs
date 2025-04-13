@@ -77,7 +77,7 @@ The following 13 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 5 csubj	color:blue
-1	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj:outer	14:nsubj:outer	Discourse=explanation-justify:10->9:1:_|Entity=(15-abstract-new-cf1-1-cata)|Lem=*LOWER*|Len=2
+1	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj:outer	14:nsubj:outer	Discourse=explanation-justify:10->9:1:_|Entity=(15-abstract-new-cf1-1-cata)|Lem=*LOWER*|Len=2|PDTB=Implicit:Contingency.Cause.Reason:because:_:30-52:53-82
 2	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	14:cop	Lem=be|Len=2
 3	_	_	ADV	RB	_	14	advmod	14:advmod	Lem=_|Len=4
 4	_	_	SCONJ	IN	_	14	mark	14:mark	Lem=_|Len=4
@@ -92,7 +92,7 @@ The following 13 pairs of parts of speech are connected with `csubj`: <tt><a hre
 13	_	_	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	Entity=(18-abstract-new-cf6-2-sgl|Lem=_|Len=1
 14	_	_	NOUN	NN	Number=Sing	0	root	0:root	Entity=18)15)|Lem=_|Len=9|SpaceAfter=No
 15	_	_	PUNCT	,	_	28	punct	28:punct	Lem=_|Len=1
-16	_	_	ADV	RB	_	28	advmod	28:advmod	Discourse=causal-result:11->10:0:dm-so-68|Lem=_|Len=2
+16	_	_	ADV	RB	_	28	advmod	28:advmod	Discourse=causal-result:11->10:0:dm-so-68|Lem=_|Len=2|PDTB=Explicit:Contingency.Cause.Result:so:68:53-67:69-82
 17	_	_	PRON	DT	Number=Sing|PronType=Dem	28	nsubj:outer	28:nsubj:outer	Entity=(15-abstract-giv:act-cf1-1-coref)|Lem=_|Len=4
 18	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	28:cop	Lem=be|Len=2
 19	_	_	ADV	WRB	PronType=Int	28	advmod	28:advmod	Lem=_|Len=3

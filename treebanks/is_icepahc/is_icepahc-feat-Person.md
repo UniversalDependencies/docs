@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-152984 tokens (16%) have a non-empty value of `Person`.
-8712 types (13%) occur at least once with a non-empty value of `Person`.
-2989 lemmas (8%) occur at least once with a non-empty value of `Person`.
-The feature is used with 15 part-of-speech tags: <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (77701; 8% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (44592; 5% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (29049; 3% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (420; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (340; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (301; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (283; 0% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (119; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (102; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (27; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (19; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances).
+152965 tokens (16%) have a non-empty value of `Person`.
+8705 types (13%) occur at least once with a non-empty value of `Person`.
+2981 lemmas (8%) occur at least once with a non-empty value of `Person`.
+The feature is used with 14 part-of-speech tags: <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (77701; 8% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (44592; 5% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (29049; 3% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (420; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (340; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (301; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (283; 0% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (119; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (102; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (27; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances).
 
 ### `VERB`
 
@@ -117,7 +117,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 * `1` (56; 13% of non-empty `Person`): <em>ég, mér, Vér, eg, klæði, yðrum, BLOKK, boði, bæti, er</em>
 * `2` (28; 7% of non-empty `Person`): <em>Þú, þér, hurðu, ér, Furðu, Stundu, Sverðið, eig, far, sverð</em>
 * `3` (336; 80% of non-empty `Person`): <em>vilja, mætti, leið, friðar, kosti, lifnaði, liði, miskunnar, skildi, kostar</em>
-* `EMPTY` (145462): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
+* `EMPTY` (145461): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
 
 <table>
   <tr><th>Paradigm <i>mót</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -175,7 +175,7 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 * `1` (30; 11% of non-empty `Person`): <em>syndgum, göfgum, Vei, auðgum, blessuðum, fríum, fáum, heilum, helgum, kæri</em>
 * `2` (17; 6% of non-empty `Person`): <em>verðir, Heill, Hásu, Nakið, Skamt, Skjót, heilagrar, hlýðið, löstu, mildi</em>
 * `3` (236; 83% of non-empty `Person`): <em>verður, var, fær, nær, ríkir, sannast, átti, syndgir, varir, fegri</em>
-* `EMPTY` (36876): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
+* `EMPTY` (36875): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
 
 <table>
   <tr><th>Paradigm <i>sannur</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -217,7 +217,7 @@ The most frequent other feature values with which `PROPN` and `Person` co-occurr
 * `1` (19; 19% of non-empty `Person`): <em>Eg, Vér, Ég, Georgíus, Mér, Vali</em>
 * `2` (34; 33% of non-empty `Person`): <em>Þú, Þér, Yxu, Þig</em>
 * `3` (49; 48% of non-empty `Person`): <em>sankti, Valdi, Maii, Majst, guði, Beljus, Belíus, Brúni, Guddu, Gálu</em>
-* `EMPTY` (41285): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
+* `EMPTY` (41282): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
 
 `Person` seems to be **lexical feature** of `PROPN`. 100% lemmas (50) occur only with one value of `Person`.
 
@@ -230,24 +230,6 @@ The most frequent other feature values with which `PROPN` and `Person` co-occurr
 * `2` (1; 4% of non-empty `Person`): <em>at</em>
 * `3` (26; 96% of non-empty `Person`): <em>er, eð, eru, hvörri, hvört</em>
 * `EMPTY` (41862): <em>að, sem, er, en, ef, þegar, þó, nema, hvort, meðan</em>
-
-### `X`
-
-19 <tt><a href="is_icepahc-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="is_icepahc-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (18; 95%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 74%).
-
-`X` tokens may have the following values of `Person`:
-
-* `1` (2; 11% of non-empty `Person`): <em>Majst, omnium</em>
-* `3` (17; 89% of non-empty `Person`): <em>Majst, Edimus, Item, Sicut, beati, nostra, patri, statuta</em>
-* `EMPTY` (2253): <em>anno, item, in, domini, et, Dominus, Trankival, sankti, etc, sanktus</em>
-
-<table>
-  <tr><th>Paradigm <i>majst</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_icepahc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>Majst</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td><em>Majst</em></td></tr>
-</table>
 
 ### `CCONJ`
 

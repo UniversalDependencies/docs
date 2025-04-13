@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.300000 (the average of all parts of speech is 1.400206).
+The form / lemma ratio of `NUM` is 1.300000 (the average of all parts of speech is 1.400929).
 
 The 1st highest number of forms (5) was observed with the lemma “jeden”: <em>jeden, jedna, jednom, jednou, jedné</em>.
 

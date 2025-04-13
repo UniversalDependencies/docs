@@ -19,4 +19,4 @@ aux:tense(marié,est)
 On a construit sur les ruines \n We built on the ruins
 aux:tense(construit,a)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:48 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:30 CET -->

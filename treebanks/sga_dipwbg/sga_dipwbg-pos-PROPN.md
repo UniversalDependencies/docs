@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_Irish-DipWBG: POS Tags: `PROPN`
 
-There are 4 `PROPN` lemmas (2%), 4 `PROPN` types (1%) and 4 `PROPN` tokens (1%).
-Out of 13 observed tags, the rank of `PROPN` is: 9 in number of lemmas, 11 in number of types and 12 in number of tokens.
+There are 4 `PROPN` lemmas (2%), 4 `PROPN` types (2%) and 4 `PROPN` tokens (1%).
+Out of 12 observed tags, the rank of `PROPN` is: 9 in number of lemmas, 11 in number of types and 12 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>abracham, críst, maccidóndae, moysi</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.427807).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.430108).
 
 The 1st highest number of forms (1) was observed with the lemma “abracham”: <em>abracham</em>.
 

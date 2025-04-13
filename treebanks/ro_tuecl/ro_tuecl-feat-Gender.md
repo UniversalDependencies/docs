@@ -9,21 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-1478 tokens (33%) have a non-empty value of `Gender`.
-939 types (60%) occur at least once with a non-empty value of `Gender`.
-715 lemmas (63%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ro_tuecl-pos-NOUN.html">NOUN</a></tt> (844; 19% instances), <tt><a href="ro_tuecl-pos-ADJ.html">ADJ</a></tt> (224; 5% instances), <tt><a href="ro_tuecl-pos-DET.html">DET</a></tt> (192; 4% instances), <tt><a href="ro_tuecl-pos-VERB.html">VERB</a></tt> (103; 2% instances), <tt><a href="ro_tuecl-pos-PRON.html">PRON</a></tt> (100; 2% instances), <tt><a href="ro_tuecl-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="ro_tuecl-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="ro_tuecl-pos-AUX.html">AUX</a></tt> (3; 0% instances).
+1456 tokens (33%) have a non-empty value of `Gender`.
+919 types (59%) occur at least once with a non-empty value of `Gender`.
+698 lemmas (61%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ro_tuecl-pos-NOUN.html">NOUN</a></tt> (827; 19% instances), <tt><a href="ro_tuecl-pos-ADJ.html">ADJ</a></tt> (219; 5% instances), <tt><a href="ro_tuecl-pos-DET.html">DET</a></tt> (192; 4% instances), <tt><a href="ro_tuecl-pos-VERB.html">VERB</a></tt> (103; 2% instances), <tt><a href="ro_tuecl-pos-PRON.html">PRON</a></tt> (100; 2% instances), <tt><a href="ro_tuecl-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="ro_tuecl-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="ro_tuecl-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-844 <tt><a href="ro_tuecl-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+827 <tt><a href="ro_tuecl-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ro_tuecl-feat-Typo.html">Typo</a></tt><tt>=EMPTY</tt> (754; 89%), <tt><a href="ro_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (612; 73%), <tt><a href="ro_tuecl-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (521; 62%), <tt><a href="ro_tuecl-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (477; 57%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ro_tuecl-feat-Typo.html">Typo</a></tt><tt>=EMPTY</tt> (738; 89%), <tt><a href="ro_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (598; 72%), <tt><a href="ro_tuecl-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (521; 63%), <tt><a href="ro_tuecl-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (477; 58%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (448; 53% of non-empty `Gender`): <em>femeie, femeia, femeile, femei, fetele, fată, femeii, fete, iubire, mamă</em>
-* `Masc` (396; 47% of non-empty `Gender`): <em>bărbat, PUPICI, bărbatul, bărbații, barbat, bărbați, fund, bărbaților, bani, sutien</em>
+* `Fem` (445; 54% of non-empty `Gender`): <em>femeie, femeia, femeile, femei, fetele, fată, femeii, fete, iubire, mamă</em>
+* `Masc` (382; 46% of non-empty `Gender`): <em>bărbat, PUPICI, bărbatul, bărbații, barbat, bărbați, fund, bărbaților, bani, sutien</em>
+* `EMPTY` (17): <em>BITCH, BRO, MILFă, baby, butter, crop, football, girl, mall, party</em>
 
 <table>
   <tr><th>Paradigm <i>soț</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -34,19 +35,19 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="ro_tuecl-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ro_tuecl-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_tuecl-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>soti</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (459) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (443) occur only with one value of `Gender`.
 
 ### `ADJ`
 
-224 <tt><a href="ro_tuecl-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Gender`.
+219 <tt><a href="ro_tuecl-pos-ADJ.html">ADJ</a></tt> tokens (93% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ro_tuecl-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (212; 95%), <tt><a href="ro_tuecl-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (199; 89%), <tt><a href="ro_tuecl-feat-Typo.html">Typo</a></tt><tt>=EMPTY</tt> (189; 84%), <tt><a href="ro_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (162; 72%), <tt><a href="ro_tuecl-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (117; 52%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ro_tuecl-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (212; 97%), <tt><a href="ro_tuecl-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (198; 90%), <tt><a href="ro_tuecl-feat-Typo.html">Typo</a></tt><tt>=EMPTY</tt> (187; 85%), <tt><a href="ro_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (157; 72%), <tt><a href="ro_tuecl-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (112; 51%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (136; 61% of non-empty `Gender`): <em>frumoasă, frumoasa, bună, dulce, urâtă, drăguță, existente, feministe, ieftină, rece</em>
-* `Masc` (88; 39% of non-empty `Gender`): <em>DULCI, misogini, FRUMOȘI, atent, hot, libidinoși, misogin, sexual, superb, șocant</em>
-* `EMPTY` (11): <em>mare, așa, DULCI, bine, mini, propriilor, sexy</em>
+* `Fem` (134; 61% of non-empty `Gender`): <em>frumoasă, frumoasa, bună, dulce, urâtă, drăguță, existente, feministe, ieftină, rece</em>
+* `Masc` (85; 39% of non-empty `Gender`): <em>DULCI, misogini, FRUMOȘI, atent, libidinoși, misogin, sexual, superb, șocant, Apetisant</em>
+* `EMPTY` (16): <em>mare, sexy, așa, DULCI, Hot, SEXSY, bine, mini, nesexy, propriilor</em>
 
 <table>
   <tr><th>Paradigm <i>frumos</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -155,12 +156,12 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="ro_tuecl-dep-det.html">det</a></tt>]--> DET</tt> (179; 90%),
-<tt>NOUN --[<tt><a href="ro_tuecl-dep-amod.html">amod</a></tt>]--> ADJ</tt> (110; 91%),
+<tt>NOUN --[<tt><a href="ro_tuecl-dep-det.html">det</a></tt>]--> DET</tt> (177; 89%),
+<tt>NOUN --[<tt><a href="ro_tuecl-dep-amod.html">amod</a></tt>]--> ADJ</tt> (109; 92%),
 <tt>NOUN --[<tt><a href="ro_tuecl-dep-list.html">list</a></tt>]--> NOUN</tt> (18; 95%),
-<tt>ADJ --[<tt><a href="ro_tuecl-dep-conj.html">conj</a></tt>]--> ADJ</tt> (11; 92%),
 <tt>ADJ --[<tt><a href="ro_tuecl-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (11; 85%),
-<tt>NOUN --[<tt><a href="ro_tuecl-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (11; 69%),
+<tt>ADJ --[<tt><a href="ro_tuecl-dep-conj.html">conj</a></tt>]--> ADJ</tt> (10; 83%),
+<tt>NOUN --[<tt><a href="ro_tuecl-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (10; 63%),
 <tt>ADJ --[<tt><a href="ro_tuecl-dep-list.html">list</a></tt>]--> ADJ</tt> (8; 100%),
 <tt>ADJ --[<tt><a href="ro_tuecl-dep-obl.html">obl</a></tt>]--> NOUN</tt> (6; 60%),
 <tt>NOUN --[<tt><a href="ro_tuecl-dep-orphan.html">orphan</a></tt>]--> NOUN</tt> (6; 67%),

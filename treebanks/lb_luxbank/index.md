@@ -12,15 +12,15 @@ udver: '2'
 # UD Luxembourgish LuxBank
 
 Language: [Luxembourgish](/lb/index.html) (code: `lb`)<br/>
-Family: Indo-European, Germanic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.14 release.
 
 The following people have contributed to making this treebank part of UD: Alistair Plum, Christoph Purschke, Caroline Döhmer, Anne-Marie Lutgen, Emilia Milano.
 
 Repository: [UD_Luxembourgish-LuxBank](https://github.com/UniversalDependencies/UD_Luxembourgish-LuxBank)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlb_luxbank214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlb_luxbank215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

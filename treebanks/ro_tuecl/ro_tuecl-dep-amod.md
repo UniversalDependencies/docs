@@ -46,7 +46,7 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 7	eu	eu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs|Strength=Strong	5	nsubj	_	_
 8	un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	10	det	_	_
 9	așa	așa	ADJ	_	Degree=Pos	10	amod	_	_
-10	party	party	NOUN	_	Degree=Pos|Foreign=Yes|Gender=Masc|Number=Plur	5	obj	_	Lang=en
+10	party	party	NOUN	_	Foreign=Yes|Number=Plur	5	obj	_	Lang=en
 11	cu	cu	ADP	_	AdpType=Prep|Case=Acc	13	case	_	_
 12	o	un	DET	_	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	13	det	_	_
 13	fată	fată	NOUN	_	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	_

@@ -23,7 +23,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 `NUM` tokens may have the following values of `NumType`:
 
 * `Card` (756; 100% of non-empty `NumType`): שני, אחד, שתי, אחת, שלושה, שלוש, מיליון, ארבע, ארבעה, חמישה
-* `EMPTY` (2370): 2, 1, 2017, 15, 20, 3, 7, 5, 6, 1948
+* `EMPTY` (2371): 2, 1, 2017, 15, 20, 3, 7, 5, 1948, 6
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (51) occur only with one value of `NumType`.
 

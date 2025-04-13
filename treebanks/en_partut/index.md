@@ -12,15 +12,15 @@ udver: '2'
 # UD English ParTUT
 
 Language: [English](/en/index.html) (code: `en`)<br/>
-Family: Indo-European, Germanic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_English-ParTUT](https://github.com/UniversalDependencies/UD_English-ParTUT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_partut214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_partut215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -95,21 +95,21 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 
 ## Features
 
-[Definite](en_partut-feat-Definite.html) – [Degree](en_partut-feat-Degree.html) – [Foreign](en_partut-feat-Foreign.html) – [Gender](en_partut-feat-Gender.html) – [Mood](en_partut-feat-Mood.html) – [Number](en_partut-feat-Number.html) – [NumType](en_partut-feat-NumType.html) – [Person](en_partut-feat-Person.html) – [Polarity](en_partut-feat-Polarity.html) – [Poss](en_partut-feat-Poss.html) – [PronType](en_partut-feat-PronType.html) – [Tense](en_partut-feat-Tense.html) – [VerbForm](en_partut-feat-VerbForm.html)
+[Definite](en_partut-feat-Definite.html) – [Degree](en_partut-feat-Degree.html) – [Foreign](en_partut-feat-Foreign.html) – [Gender](en_partut-feat-Gender.html) – [Mood](en_partut-feat-Mood.html) – [Number](en_partut-feat-Number.html) – [NumType](en_partut-feat-NumType.html) – [Person](en_partut-feat-Person.html) – [Polarity](en_partut-feat-Polarity.html) – [Poss](en_partut-feat-Poss.html) – [PronType](en_partut-feat-PronType.html) – [Reflex](en_partut-feat-Reflex.html) – [Tense](en_partut-feat-Tense.html) – [VerbForm](en_partut-feat-VerbForm.html)
 
 ## Relations
 
-[acl](en_partut-dep-acl.html) – [acl:relcl](en_partut-dep-acl-relcl.html) – [advcl](en_partut-dep-advcl.html) – [advmod](en_partut-dep-advmod.html) – [amod](en_partut-dep-amod.html) – [appos](en_partut-dep-appos.html) – [aux](en_partut-dep-aux.html) – [aux:pass](en_partut-dep-aux-pass.html) – [case](en_partut-dep-case.html) – [cc](en_partut-dep-cc.html) – [ccomp](en_partut-dep-ccomp.html) – [compound](en_partut-dep-compound.html) – [compound:prt](en_partut-dep-compound-prt.html) – [conj](en_partut-dep-conj.html) – [cop](en_partut-dep-cop.html) – [csubj](en_partut-dep-csubj.html) – [csubj:pass](en_partut-dep-csubj-pass.html) – [dep](en_partut-dep-dep.html) – [det](en_partut-dep-det.html) – [det:predet](en_partut-dep-det-predet.html) – [discourse](en_partut-dep-discourse.html) – [dislocated](en_partut-dep-dislocated.html) – [expl](en_partut-dep-expl.html) – [fixed](en_partut-dep-fixed.html) – [flat](en_partut-dep-flat.html) – [flat:foreign](en_partut-dep-flat-foreign.html) – [iobj](en_partut-dep-iobj.html) – [mark](en_partut-dep-mark.html) – [nmod](en_partut-dep-nmod.html) – [nmod:npmod](en_partut-dep-nmod-npmod.html) – [nmod:poss](en_partut-dep-nmod-poss.html) – [nmod:tmod](en_partut-dep-nmod-tmod.html) – [nsubj](en_partut-dep-nsubj.html) – [nsubj:pass](en_partut-dep-nsubj-pass.html) – [nummod](en_partut-dep-nummod.html) – [obj](en_partut-dep-obj.html) – [obl](en_partut-dep-obl.html) – [orphan](en_partut-dep-orphan.html) – [parataxis](en_partut-dep-parataxis.html) – [punct](en_partut-dep-punct.html) – [root](en_partut-dep-root.html) – [vocative](en_partut-dep-vocative.html) – [xcomp](en_partut-dep-xcomp.html)
+[acl](en_partut-dep-acl.html) – [acl:relcl](en_partut-dep-acl-relcl.html) – [advcl](en_partut-dep-advcl.html) – [advmod](en_partut-dep-advmod.html) – [amod](en_partut-dep-amod.html) – [appos](en_partut-dep-appos.html) – [aux](en_partut-dep-aux.html) – [aux:pass](en_partut-dep-aux-pass.html) – [case](en_partut-dep-case.html) – [cc](en_partut-dep-cc.html) – [ccomp](en_partut-dep-ccomp.html) – [compound](en_partut-dep-compound.html) – [compound:prt](en_partut-dep-compound-prt.html) – [conj](en_partut-dep-conj.html) – [cop](en_partut-dep-cop.html) – [csubj](en_partut-dep-csubj.html) – [csubj:pass](en_partut-dep-csubj-pass.html) – [dep](en_partut-dep-dep.html) – [det](en_partut-dep-det.html) – [det:predet](en_partut-dep-det-predet.html) – [discourse](en_partut-dep-discourse.html) – [dislocated](en_partut-dep-dislocated.html) – [expl](en_partut-dep-expl.html) – [fixed](en_partut-dep-fixed.html) – [flat](en_partut-dep-flat.html) – [flat:foreign](en_partut-dep-flat-foreign.html) – [iobj](en_partut-dep-iobj.html) – [mark](en_partut-dep-mark.html) – [nmod](en_partut-dep-nmod.html) – [nmod:poss](en_partut-dep-nmod-poss.html) – [nmod:unmarked](en_partut-dep-nmod-unmarked.html) – [nsubj](en_partut-dep-nsubj.html) – [nsubj:pass](en_partut-dep-nsubj-pass.html) – [nummod](en_partut-dep-nummod.html) – [obj](en_partut-dep-obj.html) – [obl](en_partut-dep-obl.html) – [orphan](en_partut-dep-orphan.html) – [parataxis](en_partut-dep-parataxis.html) – [punct](en_partut-dep-punct.html) – [root](en_partut-dep-root.html) – [vocative](en_partut-dep-vocative.html) – [xcomp](en_partut-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 2090 sentences, 49602 tokens and 49633 syntactic words.</li>
+<li>This corpus contains 2090 sentences, 49601 tokens and 49632 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 6461 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 6460 tokens (13%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -117,7 +117,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 </ul>
 
 <ul>
-<li>This corpus contains 86 types of words that contain both letters and punctuation. Examples: 's, 're, so-called, 'm, 've, cost-effective, long-term, ’s, hi-tech, self-regulation, 'd, 'll, D', G., Mid-1590s, R&D, S., T., e.g., etc., i.e., late-1990, medium-sized, p., part-time, real-time, son-in-law, A., African-American, C., Co-operation, D., Fine-tune, H., M., Mr., Self-destructive, St., W., W.H., above-mentioned, avant-garde, back-up, best-selling, blow-ups, case-by-case, co-financing, co-ordination, cost-effectiveness, deep-seated</li>
+<li>This corpus contains 87 types of words that contain both letters and punctuation. Examples: 's, 're, so-called, 'm, 've, cost-effective, long-term, ’s, hi-tech, self-regulation, 'd, 'll, D', G., Mid-1590s, R&D, S., T., e.g., etc., i.e., late-1990, medium-sized, p., part-time, real-time, son-in-law, A., African-American, C., Co-operation, D., Fine-tune, H., L', M., Mr., Self-destructive, St., W., W.H., above-mentioned, avant-garde, back-up, best-selling, blow-ups, case-by-case, co-financing, co-ordination, cost-effectiveness</li>
 </ul>
 
 <ul>
@@ -138,11 +138,11 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 </ul>
 
 <ul>
-<li>This corpus contains 44 lemmas tagged as pronouns (PRON): above, all, anyone, both, each, everyone, everything, first, he, her, his, i, it, latter, many, most, much, nobody, none, nothing, one, other, second, several, she, some, someone, something, that, them, there, they, third, this, us, we, what, when, where, whereby, which, who, whose, you</li>
+<li>This corpus contains 45 lemmas tagged as pronouns (PRON): above, all, anyone, both, each, everyone, everything, first, he, her, his, i, it, latter, many, most, much, nobody, none, nothing, one, other, second, several, she, some, someone, something, that, them, themselves, there, they, third, this, us, we, what, when, where, whereby, which, who, whose, you</li>
 </ul>
 
 <ul>
-<li>This corpus contains 38 lemmas tagged as determiners (DET): L, Les, a, all, another, any, both, certain, each, every, her, his, its, la, le, ma, many, more, my, neither, no, numerous, one, several, some, such, that, the, their, this, une, uno, us, what, whatever, which, you, ’s</li>
+<li>This corpus contains 34 lemmas tagged as determiners (DET): Les, a, all, another, any, both, certain, each, every, her, his, its, le, many, more, my, neither, no, numerous, one, several, some, such, that, the, their, this, uno, us, what, whatever, which, you, ’s</li>
 </ul>
 
 <ul>
@@ -207,9 +207,6 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: innovative, sentimentale</li>
-      <li>DET: la, une, ma</li>
-      <li>NOUN: women, Madam, Mrs, policymakers, wellbeing, additionality, agriculture, bardolatry, codependency, cynicism</li>
       <li>PRON: she, her, one</li>
     </ul>
   </li>
@@ -218,8 +215,6 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: Perdu, necessary</li>
-      <li>NOUN: Mr, man, men, king, crisis, mycelium, child, children, basis, genius</li>
       <li>PRON: he, him, himself, Nothing</li>
     </ul>
   </li>
@@ -233,7 +228,6 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: themselves, innovative</li>
       <li>AUX: are, have, were, do, 're, 've, be</li>
       <li>AUX-Fin: are, have, were, do, 're, 've</li>
       <li>DET: these, those, Many, les</li>
@@ -247,11 +241,10 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: particular, Lankan, clear, following, free, full, general, overall, possible, this</li>
       <li>AUX-Fin: is, was, has, does, were, 's, have, am, do, 'm</li>
       <li>AUX-Part: being</li>
-      <li>DET: a, this, an, its, my, that, another, each, every, la</li>
-      <li>NOUN: work, Commission, time, Parliament, President, member, license, growth, Directive, programme</li>
+      <li>DET: a, this, an, its, my, that, another, each, every, one</li>
+      <li>NOUN: work, Commission, time, Parliament, President, member, Mr, license, growth, Directive</li>
       <li>PRON: it, I, he, this, him, everyone, one, what, she, that</li>
       <li>VERB-Fin: is, has, makes, believe, provides, think, appears, comes, remains, seems</li>
       <li>VERB-Part: including, emerging, regarding, concerning, developing, following, rising, amending, arising, growing</li>
@@ -268,7 +261,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Def
     <ul>
-      <li>DET: the, ’s, la, les, Le, une</li>
+      <li>DET: the, ’s, les, une</li>
     </ul>
   </li>
 </ul>
@@ -276,7 +269,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Ind
     <ul>
-      <li>DET: a, an, another, Une</li>
+      <li>DET: a, an, another</li>
     </ul>
   </li>
 </ul>
@@ -405,7 +398,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Art
     <ul>
-      <li>DET: the, a, an, another, Le, ’s, L, la, les, une</li>
+      <li>DET: the, a, an, another, ’s, Le, les, une</li>
     </ul>
   </li>
 </ul>
@@ -415,6 +408,14 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
     <ul>
       <li>DET: this, such, these, that, those</li>
       <li>PRON: this, that, those, these</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Emp
+    <ul>
+      <li>PRON: himself, themselves</li>
     </ul>
   </li>
 </ul>
@@ -448,7 +449,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Prs
     <ul>
-      <li>DET: his, their, its, our, your, my, her, ma</li>
+      <li>DET: his, their, its, our, your, my, her</li>
       <li>PRON: it, I, we, he, you, they, them, him, everyone, us</li>
     </ul>
   </li>
@@ -499,12 +500,23 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Yes
     <ul>
-      <li>DET: his, their, its, our, your, my, her, ma</li>
+      <li>DET: his, their, its, our, your, my, her</li>
       <li>PRON: his, our, ours</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
+
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: themselves</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Person</a></li>
@@ -554,7 +566,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
     <ul>
       <li>Yes
         <ul>
-          <li>X: La, Comédie, humaine, De, Illusions, Le, Perdues, Chagrin, Peau, Père</li>
+          <li>X: la, Comédie, humaine, de, Le, Illusions, Perdues, Chagrin, Peau, Père</li>
         </ul>
       </li>
     </ul>
@@ -630,6 +642,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>flat:foreign</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>flat:foreign</a>, <a>nmod:poss</a>, <a>nmod:unmarked</a>, <a>nsubj:pass</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

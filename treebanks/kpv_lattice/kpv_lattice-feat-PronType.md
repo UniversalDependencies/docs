@@ -73,7 +73,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 * `Dem` (15; 79% of non-empty `PronType`): <em>сэтшӧм, мӧд, сэтшӧмӧсь, Татшӧмъясыд, сэтшӧм-татшӧм, сэтшӧм-татшӧмъяс, сэтшӧмъясыслӧн, татшӧмсӧ</em>
 * `Int` (1; 5% of non-empty `PronType`): <em>Кутшӧм</em>
 * `Rel` (3; 16% of non-empty `PronType`): <em>кутшӧм</em>
-* `EMPTY` (473): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, том, выль, кодьӧсь</em>
+* `EMPTY` (474): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, том, выль, кодьӧсь</em>
 
 <table>
   <tr><th>Paradigm <i>кутшӧм</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>

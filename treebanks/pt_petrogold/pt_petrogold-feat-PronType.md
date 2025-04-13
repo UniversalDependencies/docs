@@ -12,7 +12,7 @@ It occurs with 8 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Prs`, `Re
 41956 tokens (17%) have a non-empty value of `PronType`.
 176 types (1%) occur at least once with a non-empty value of `PronType`.
 54 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (36345; 15% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (5398; 2% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (213; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (36345; 15% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (5399; 2% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (212; 0% instances).
 
 ### `DET`
 
@@ -40,14 +40,14 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-5398 <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+5399 <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (923; 17% of non-empty `PronType`): <em>o, isso, isto, este, a, esta, mesmo, estes, os, estas</em>
 * `Ind` (252; 5% of non-empty `PronType`): <em>um, uma, outros, outro, alguns, outra, algumas, outras, demais, muitos</em>
 * `Prs` (2211; 41% of non-empty `PronType`): <em>se, eles, elas, ele, ela, si, a, o, lo, los</em>
-* `Rel` (1987; 37% of non-empty `PronType`): <em>que, qual, onde, quais, quanto</em>
+* `Rel` (1988; 37% of non-empty `PronType`): <em>que, qual, onde, quais, quanto</em>
 * `Tot` (25; 0% of non-empty `PronType`): <em>ambas, ambos, todo, todas, todos</em>
 
 <table>
@@ -68,11 +68,11 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `ADV`
 
-213 <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `PronType`.
+212 <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `PronType`.
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Rel` (213; 100% of non-empty `PronType`): <em>onde</em>
+* `Rel` (212; 100% of non-empty `PronType`): <em>onde</em>
 * `EMPTY` (6230): <em>mais, não, também, através, já, muito, assim, bem, ainda, além</em>
 
 ## Relations with Agreement in `PronType`

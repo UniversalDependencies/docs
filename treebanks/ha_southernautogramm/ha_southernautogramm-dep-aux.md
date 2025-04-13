@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1770 nodes (12%) are attached to their parents as `aux`.
+1771 nodes (12%) are attached to their parents as `aux`.
 
-1770 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.02824858757062.
+1771 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.02936194240542.
 
-The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (1725; 97% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (39; 2% instances), <tt><a href="ha_southernautogramm-pos-X.html">X</a></tt>-<tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (1725; 97% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (40; 2% instances), <tt><a href="ha_southernautogramm-pos-X.html">X</a></tt>-<tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

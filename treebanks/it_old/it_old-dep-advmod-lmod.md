@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_old-dep-advmod.html">advmod</a></tt>.
 There are also 2 other language-specific subtypes of `advmod`: <tt><a href="it_old-dep-advmod-neg.html">advmod:neg</a></tt>, <tt><a href="it_old-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-1419 nodes (2%) are attached to their parents as `advmod:lmod`.
+1975 nodes (2%) are attached to their parents as `advmod:lmod`.
 
-915 instances of `advmod:lmod` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.52290345313601.
+1297 instances of `advmod:lmod` (66%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.58177215189873.
 
-The following 10 pairs of parts of speech are connected with `advmod:lmod`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1138; 80% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (139; 10% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (60; 4% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (41; 3% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (15; 1% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="it_old-pos-ADP.html">ADP</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `advmod:lmod`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1544; 78% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (219; 11% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (97; 5% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (54; 3% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (20; 1% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (16; 1% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (13; 1% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="it_old-pos-ADP.html">ADP</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="it_old-pos-X.html">X</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,34 +42,28 @@ The following 10 pairs of parts of speech are connected with `advmod:lmod`: <tt>
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 advmod:lmod	color:blue
-1	Così	così	ADV	b	_	7	advmod	_	Canto=22|Verso=124
-2	l'	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Canto=22|Verso=124
-3	usanza	usanza	NOUN	sf1fs	Gender=Fem|Number=Sing	7	nsubj	_	Canto=22|Verso=124
-4	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	Canto=22|Verso=124
-5	lì	lì	ADV	b	_	7	advmod:lmod	_	Canto=22|Verso=124
-6	nostra	nostro	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	Canto=22|Verso=124
-7	insegna	insegna	NOUN	sf1fs	Gender=Fem|Number=Sing	0	root	_	Canto=22|SpaceAfter=No|Verso=124
-8	,	,	PUNCT	_	_	10	punct	_	_
-9	e	e	CCONJ	cscc	_	10	cc	_	Canto=22|Verso=125
-10	prendemmo	prendere	VERB	vta2irp1	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	Canto=22|Verso=125
-11	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	Canto=22|Verso=125
-12	via	via	NOUN	sf1fs	Gender=Fem|Number=Sing	10	obj	_	Canto=22|Verso=125
-13	con	con	ADP	epskm	_	15	case	_	Canto=22|Verso=125
-14	men	meno	ADJ	a	_	15	amod	_	Canto=22|Verso=125
-15	sospetto	sospetto	NOUN	sm2ms	Gender=Masc|Number=Sing	10	obl	_	Canto=22|Verso=125
-16	per	per	ADP	epskr	_	18	case	_	Canto=22|Verso=126
-17	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Canto=22|Verso=126
-18	assentir	assentire	VERB	vta3fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	10	obl	_	Canto=22|Verso=126
-19	di	di	ADP	epskg	_	21	case	_	Canto=22|Verso=126
-20	quell'	quello	DET	ad1fs	Gender=Fem|Number=Sing|PronType=Dem	21	det	_	Canto=22|Verso=126
-21	anima	anima	NOUN	sf1fs	Gender=Fem|Number=Sing	18	nmod	_	Canto=22|Verso=126
-22	degna	degno	ADJ	a1fs	Gender=Fem|Number=Sing	21	amod	_	Canto=22|SpaceAfter=No|Verso=126
-23	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 8 advmod:lmod	color:blue
+1	Scalzare	scalzare	VERB	vta+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	si	si	PRON	pf3xpr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
+3	Egidio	Egidio	PROPN	np	_	1	nsubj	_	Canto=11|Verso=83|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	scalzare	scalzare	VERB	vta+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+6	si	si	PRON	pf3xpr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
+7	Silvestro	Silvestro	PROPN	np	_	5	nsubj	_	Canto=11|Verso=83
+8	dietro	dietro	ADV	_	_	11	advmod:lmod	_	_
+9	a	a	ADP	_	_	11	case	_	_
+10	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Canto=11|Verso=84
+11	sposo	sposo	NOUN	sm2ms	Gender=Masc|Number=Sing	5	obl:lmod	_	Canto=11|Verso=84|SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	sì	così	ADV	b	_	16	advmod	_	Canto=11|Verso=84
+14	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	Canto=11|Verso=84
+15	sposa	sposa	NOUN	sf1fs	Gender=Fem|Number=Sing	16	nsubj	_	Canto=11|Verso=84
+16	piace	piacere	VERB	vi2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	Canto=11|Verso=84|SpaceAfter=No
+17	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

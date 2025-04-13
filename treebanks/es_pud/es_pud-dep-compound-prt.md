@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 3	acaba	acabar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	anuncio	anuncio	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
-6	.	.	PUNCT	.	_	3	punct	_	_
+6	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -45,7 +45,7 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	Familia	familia	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	_
 7	Imperial	imperial	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
-8	,	,	PUNCT	,	_	3	punct	_	_
+8	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 9	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	compound:prt	_	_
 10	considera	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
 11	extremadamente	extremadamente	ADV	RB	_	12	advmod	_	_
@@ -56,7 +56,7 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 16	nombre	nombre	NOUN	NN	Gender=Masc|Number=Sing	14	obj	_	_
 17	de	de	ADP	IN	_	18	case	_	_
 18	pila	pila	NOUN	NN	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
-19	.	.	PUNCT	.	_	13	punct	_	_
+19	.	.	PUNCT	.	PunctType=Peri	13	punct	_	_
 
 ~~~
 
@@ -76,7 +76,7 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 7	Alemania	Alemania	PROPN	NNP	Number=Sing	5	nmod	_	_
 8	desde	desde	ADP	IN	_	9	case	_	_
 9	entonces	entonces	ADV	RB	_	5	xcomp	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	4	punct	_	_
+10	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 ~~~
 

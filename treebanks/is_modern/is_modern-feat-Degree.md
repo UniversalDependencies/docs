@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-4974 tokens (6%) have a non-empty value of `Degree`.
+4973 tokens (6%) have a non-empty value of `Degree`.
 1776 types (17%) occur at least once with a non-empty value of `Degree`.
-962 lemmas (16%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 9 part-of-speech tags: <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (3750; 5% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (798; 1% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (381; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (19; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (1; 0% instances).
+961 lemmas (16%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 9 part-of-speech tags: <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (3749; 5% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (798; 1% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (381; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (19; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
-3750 <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> tokens (87% of all `ADJ` tokens) have a non-empty value of `Degree`.
+3749 <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> tokens (87% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2782; 74%), <tt><a href="is_modern-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2265; 60%), <tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1967; 52%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (290; 8% of non-empty `Degree`): <em>fyrri, betri, minni, betra, fyrra, hærra, lengra, lengri, nánari, síðari</em>
-* `Pos` (3049; 81% of non-empty `Degree`): <em>virðulegi, hægt, sammála, gott, rétt, miklu, sama, íslenska, mikilvægt, sjálfsögðu</em>
+* `Pos` (3048; 81% of non-empty `Degree`): <em>virðulegi, hægt, sammála, gott, rétt, miklu, sama, íslenska, mikilvægt, sjálfsögðu</em>
 * `Sup` (411; 11% of non-empty `Degree`): <em>fyrsta, síðustu, síðasta, næsta, næstu, besta, fyrstu, bestu, minnsta, best</em>
-* `EMPTY` (567): <em>hv., hæstv., 2., 1., 5., 3., 8., 9., 11., langt</em>
+* `EMPTY` (568): <em>hv., hæstv., 2., 1., 5., 3., 8., 9., 11., langt</em>
 
 <table>
   <tr><th>Paradigm <i>góður</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -72,7 +72,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_modern-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>góð</em></td><td></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 90% lemmas (732) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 90% lemmas (731) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -180,7 +180,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Pos` (5; 100% of non-empty `Degree`): <em>Frú, samtaka, sænsku</em>
-* `EMPTY` (13640): <em>forseti, menn, þingmaður, mál, ráðherra, fólk, tíma, máli, m, málið</em>
+* `EMPTY` (13639): <em>forseti, menn, þingmaður, mál, ráðherra, fólk, tíma, máli, m, málið</em>
 
 ### `NUM`
 
@@ -202,7 +202,7 @@ The most frequent other feature values with which `X` and `Degree` co-occurred: 
 `X` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>nýafstöðu</em>
-* `EMPTY` (89): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
+* `EMPTY` (90): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
 
 ## Relations with Agreement in `Degree`
 

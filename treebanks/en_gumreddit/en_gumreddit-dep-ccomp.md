@@ -22,14 +22,14 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 8 ccomp	color:blue
-1	_	_	ADV	RB	_	2	advmod	2:advmod	Discourse=attribution-positive:36->37:0:sem-atsrc-221+lex-indwd-221+syn-rpr-222|Lem=*LOWER*|Len=3
+1	_	_	ADV	RB	_	2	advmod	2:advmod	Discourse=attribution-positive:36->37:0:lex-indwd-221+sem-atsrc-221+syn-rpr-222|Lem=*LOWER*|Len=3|PDTB=Implicit:Comparison.Contrast:but:_:197-219:220-237
 2	_	_	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Lem=_|Len=7
-3	_	_	SCONJ	IN	_	8	mark	8:mark	Discourse=contingency-condition:37->38:1:dm-if-222|Lem=_|Len=2
+3	_	_	SCONJ	IN	_	8	mark	8:mark	Discourse=contingency-condition:37->38:1:dm-if-222|Lem=_|Len=2|PDTB=Explicit:Contingency.Condition.Arg1-as-cond:if:222:220-221,223-237:238-259
 4	_	_	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Bridge=41<44|Entity=(44-organization-acc:inf-cf3-3-coref|Lem=_|Len=3
 5	_	_	NOUN	NN	Number=Sing	6	compound	6:compound	Lem=_|Len=4
 6	_	_	NOUN	NN	Number=Sing	8	nsubj	8:nsubj	Entity=44)|Lem=_|Len=7
 7	_	_	ADV	RB	_	8	advmod	8:advmod	Lem=_|Len=4
-8	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	Cxn=Interrogative-Polar-Indirect|Lem=mail|Len=5|MSeg=mail-s
+8	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	Cxn=Interrogative-Polar-Indirect|CxnElt=8:Interrogative-Polar-Indirect.Clause|Lem=mail|Len=5|MSeg=mail-s
 9	_	_	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	Entity=(45-object-new-cf4-3,4-coref|Lem=_|Len=1
 10	_	_	PROPN	NNP	Number=Sing	12	compound	12:compound	Entity=(42-person-giv:act-cf1*-1,2-coref-Sammy_Sosa|Lem=_|Len=5|MSeg=Samm-y
 11	_	_	PROPN	NNP	Number=Sing	10	flat	10:flat	Entity=42)|Lem=_|Len=4
@@ -88,11 +88,11 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 3	_	_	DET	PDT	PronType=Tot	5	det:predet	5:det:predet	Entity=(57-abstract-acc:com-cf3-3-sgl|Lem=_|Len=3
 4	_	_	DET	DT	Number=Plur|PronType=Dem	5	det	5:det	Lem=this|Len=5
 5	_	_	NOUN	NNS	Number=Plur	2	obj	2:obj	Entity=57)|Lem=comment|Len=8|MSeg=comment-s
-6	_	_	VERB	VBG	VerbForm=Ger	5	acl	5:acl	Cxn=Ditransitive|Discourse=attribution-positive:38->39:0:sem-atsrc-259-261+lex-indwd-262|Lem=tell|Len=7|MSeg=tell-ing
-7	_	_	NOUN	NN	Abbr=Yes|Number=Sing	6	iobj	6:iobj	Entity=(58-person-acc:com-cf1-1-coref)|Lem=_|Len=2
+6	_	_	VERB	VBG	VerbForm=Ger	5	acl	5:acl	Cxn=Ditransitive|CxnElt=6:Ditransitive.V|Discourse=attribution-positive:38->39:0:sem-atsrc-259-261+lex-indwd-262|Lem=tell|Len=7|MSeg=tell-ing
+7	_	_	NOUN	NN	Abbr=Yes|Number=Sing	6	iobj	6:iobj	CxnElt=6:Ditransitive.Rec|Entity=(58-person-acc:com-cf1-1-coref)|Lem=_|Len=2
 8	_	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	Discourse=elaboration-additional:39->37:0:_|Entity=(58-person-giv:act-cf1-1-ana)|Lem=_|Len=2
 9	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	Lem=be|Len=2
-10	_	_	ADJ	JJ	Degree=Pos	6	ccomp	6:ccomp	Lem=_|Len=5|SpaceAfter=No
+10	_	_	ADJ	JJ	Degree=Pos	6	ccomp	6:ccomp	CxnElt=6:Ditransitive.Theme|Lem=_|Len=5|SpaceAfter=No
 11	_	_	PUNCT	.	_	2	punct	2:punct	Lem=_|Len=1
 
 ~~~

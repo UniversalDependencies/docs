@@ -38,7 +38,7 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 vocative	color:blue
-1	Аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	2	aux:neg	_	CGdephead=#1-&gt;0|CGdeprel=@IMV|GTtags=Aux,Neg
+1	Аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	2	aux	_	CGdephead=#1-&gt;0|CGdeprel=@IMV|GTtags=Aux,Neg
 2	сярядян	еярядян	VERB	_	_	0	root	_	CGdephead=#2-&gt;0|CGdeprel=@X|GTtags=?|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	5	punct	_	CGdephead=#3-&gt;2|CGdeprel=@X|GTtags=CLB
 4	Светлана	Светлана	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Fem|NameType=Pat|Number=Sing	5	nmod	_	CGdephead=#4-&gt;5|CGdeprel=@&gt;N|GTtags=Prop,Sg,Nom,Indef
@@ -67,11 +67,11 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 8	весялат	весяла	ADJ	A	Case=Nom|Definite=Ind|Number=Plur	0	root	_	CGdephead=#8-&gt;12|CGdeprel=@SPRED|GTtags=Pl,Nom,Indef|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	12	punct	_	CGdephead=#9-&gt;8|CGdeprel=@X|GTtags=CLB
 10	ёфкст	ёфкс	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	12	obj	_	CGdephead=#10-&gt;12|CGdeprel=@OBJ&gt;|GTtags=Pl,Nom,Indef
-11	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	12	aux:neg	_	CGdephead=#11-&gt;0|CGdeprel=@IAUX|GTtags=Aux,Neg
+11	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	12	aux	_	CGdephead=#11-&gt;0|CGdeprel=@IAUX|GTtags=Aux,Neg
 12	азондат	азондомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin	8	conj	_	CGdephead=#12-&gt;0|CGdeprel=@FMV|GTtags=Ind,Prs,ScSg2|SpaceAfter=No
 13	,	,	PUNCT	CLB	_	16	punct	_	CGdephead=#13-&gt;12|CGdeprel=@X|GTtags=CLB
 14	морот	мора	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	16	obj	_	CGdephead=#14-&gt;16|CGdeprel=@OBJ&gt;|GTtags=Pl,Nom,Indef
-15	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	16	aux:neg	_	CGdephead=#15-&gt;11|CGdeprel=@IAUX|GTtags=Aux,Neg
+15	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	16	aux	_	CGdephead=#15-&gt;11|CGdeprel=@IAUX|GTtags=Aux,Neg
 16	морат	морамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin	8	conj	_	CGdephead=#16-&gt;12|CGdeprel=@FMV|GTtags=Ind,Prs,ScSg2|SpaceAfter=No
 17	?	?	PUNCT	CLB	_	8	punct	_	CGdephead=#17-&gt;11|CGdeprel=@X|GTtags=CLB
 18	...	...	PUNCT	CLB	_	8	punct	_	CGdephead=#1-&gt;0|CGdeprel=@X|GTtags=CLB

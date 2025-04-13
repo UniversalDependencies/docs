@@ -37,8 +37,8 @@ The 3rd highest number of forms (7) was observed with the lemma “tämä”: <e
 `PRON` occurs with 22 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Ade`, `Case=Com`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Par`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Prs`, `Reflex=Yes`
 
 `PRON` occurs with 64 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing|Person=1|PronType=Prs` (21 tokens).
-Examples: <em>mie, Myö</em>
+The most frequent feature combination is `Case=Nom|Number=Plur|Person=3|PronType=Prs` (21 tokens).
+Examples: <em>hyö</em>
 
 
 ## Relations

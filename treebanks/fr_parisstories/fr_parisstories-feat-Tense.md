@@ -82,7 +82,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 `ADJ` tokens may have the following values of `Tense`:
 
 * `Past` (2; 100% of non-empty `Tense`): <em>specialisée, spécialisée</em>
-* `EMPTY` (1211): <em>tout, petit, tous, petite, première, même, vrai, toute, autre, bonne</em>
+* `EMPTY` (1212): <em>tout, petit, tous, petite, première, même, vrai, toute, autre, bonne</em>
 
 ## Relations with Agreement in `Tense`
 

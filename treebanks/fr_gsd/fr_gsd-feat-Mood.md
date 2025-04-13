@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (134; 1% of non-empty `Mood`): <em>allez, hésitez, Rappelons, Notons, arrêtez, pensez, Cliquez, Demandez, attendez, citons</em>
 * `Ind` (12968; 96% of non-empty `Mood`): <em>a, peut, fait, trouve, devient, doit, ont, permet, agit, faut</em>
 * `Sub` (203; 1% of non-empty `Mood`): <em>puisse, puissent, agisse, fasse, aient, ait, arrive, prenne, soit, change</em>
-* `EMPTY` (18216): <em>né, située, faire, situé, partir, eu, fait, mort, voir, connu</em>
+* `EMPTY` (18218): <em>né, située, faire, situé, partir, eu, fait, mort, voir, connu</em>
 
 <table>
   <tr><th>Paradigm <i>faire</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>

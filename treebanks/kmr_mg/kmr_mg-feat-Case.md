@@ -10,7 +10,7 @@ This feature is universal but the values `Con` are language-specific.
 It occurs with 4 different values: `Acc`, `Con`, `Nom`, `Voc`.
 
 3908 tokens (38%) have a non-empty value of `Case`.
-1884 types (68%) occur at least once with a non-empty value of `Case`.
+1884 types (67%) occur at least once with a non-empty value of `Case`.
 1266 lemmas (70%) occur at least once with a non-empty value of `Case`.
 The feature is used with 7 part-of-speech tags: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (2621; 26% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (633; 6% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (441; 4% instances), <tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (104; 1% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (97; 1% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="kmr_mg-pos-X.html">X</a></tt> (1; 0% instances).
 

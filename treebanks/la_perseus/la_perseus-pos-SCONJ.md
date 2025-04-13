@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>ut</em> (<tt><a href="la_perseus-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.166667 (the average of all parts of speech is 2.102233).
+The form / lemma ratio of `SCONJ` is 1.166667 (the average of all parts of speech is 2.101598).
 
 The 1st highest number of forms (3) was observed with the lemma “cum”: <em>cum, cumque, quom</em>.
 
@@ -87,7 +87,7 @@ Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="la_
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 6 different relations: <tt><a href="la_perseus-dep-punct.html">punct</a></tt> (214; 91% instances), <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (15; 6% instances), <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (3; 1% instances), <tt><a href="la_perseus-dep-advmod-neg.html">advmod:neg</a></tt> (2; 1% instances), <tt><a href="la_perseus-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-advmod-emph.html">advmod:emph</a></tt> (1; 0% instances)
+Children of `SCONJ` nodes are attached using 6 different relations: <tt><a href="la_perseus-dep-punct.html">punct</a></tt> (214; 91% instances), <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (8; 3% instances), <tt><a href="la_perseus-dep-advmod-emph.html">advmod:emph</a></tt> (8; 3% instances), <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (3; 1% instances), <tt><a href="la_perseus-dep-advmod-neg.html">advmod:neg</a></tt> (2; 1% instances), <tt><a href="la_perseus-dep-advcl.html">advcl</a></tt> (1; 0% instances)
 
 Children of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="la_perseus-pos-PUNCT.html">PUNCT</a></tt> (214; 91% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (15; 6% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (4; 2% instances), <tt><a href="la_perseus-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances)
 

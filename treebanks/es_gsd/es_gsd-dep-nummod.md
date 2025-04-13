@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6256 nodes (1%) are attached to their parents as `nummod`.
+6255 nodes (1%) are attached to their parents as `nummod`.
 
 4975 instances of `nummod` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.17726982097187.
+Average distance between parent and child is 1.17713828936851.
 
-The following 18 pairs of parts of speech are connected with `nummod`: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (4168; 67% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1050; 17% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (488; 8% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (189; 3% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (183; 3% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (115; 2% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (22; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `nummod`: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (4168; 67% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1050; 17% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (488; 8% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (188; 3% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (183; 3% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (115; 2% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (22; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 18 pairs of parts of speech are connected with `nummod`: <tt><a hr
 7	y	y	CCONJ	_	_	9	cc	_	_
 8	2.4	2.4	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
 9	rebotes	rebote	NOUN	_	Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	4	punct	_	_
+10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 ~~~
 
@@ -57,7 +57,7 @@ The following 18 pairs of parts of speech are connected with `nummod`: <tt><a hr
 13	de	de	ADP	_	_	15	case	_	_
 14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	cola	cola	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	1	punct	_	_
+16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 ~~~
 
@@ -79,7 +79,7 @@ The following 18 pairs of parts of speech are connected with `nummod`: <tt><a hr
 9	the	the	PROPN	_	Number=Sing	7	flat	_	_
 10	Future	future	PROPN	_	_	7	flat	_	_
 11	III	iii	NUM	_	NumForm=Roman|NumType=Card	7	nummod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	2	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 

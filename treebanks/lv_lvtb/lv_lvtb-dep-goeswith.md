@@ -8,12 +8,48 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (0%) are attached to their parents as `goeswith`.
+22 nodes (0%) are attached to their parents as `goeswith`.
 
-10 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+22 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (3; 30% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (3; 30% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 10% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 10% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 10% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 10% instances).
+The following 7 pairs of parts of speech are connected with `goeswith`: <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (12; 55% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (3; 14% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (3; 14% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 5% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 5% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 5% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 5% instances).
+
+
+~~~ conllu
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 23 24 goeswith	color:blue
+1	Skābbarības	skābbarība	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	2	nmod	2:nmod:gen	LvtbNodeId=a-z25-p34s1w1
+2	apēdamību	apēdamība	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	LvtbNodeId=a-z25-p34s1w2
+3	samazina	samazināt	VERB	vmnipt330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-z25-p34s1w3
+4	organisko	organisks	ADJ	arfpgyp	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	5	amod	5:amod	LvtbNodeId=a-z25-p34s1w4
+5	skābju	skābe	NOUN	ncfpg5	Case=Gen|Gender=Fem|Number=Plur	6	nmod	6:nmod:gen	LvtbNodeId=a-z25-p34s1w5
+6	daudzums	daudzums	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	LvtbNodeId=a-z25-p34s1w6
+7	un	un	CCONJ	cc	_	13	cc	13:cc	LvtbNodeId=a-z25-p34s1w7
+8	proteīna	proteīns	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	9	nmod	9:nmod:gen	LvtbNodeId=a-z25-p34s1w8
+9	noārdīšanās	noārdīšanās	NOUN	ncfsgr	Case=Gen|Gender=Fem|Number=Sing	10	nmod	10:nmod:gen	LvtbNodeId=a-z25-p34s1w9
+10	produkta	produkts	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	12	nmod	12:nmod	LvtbNodeId=a-z25-p34s1w10|SpaceAfter=No
+11	-	_	PUNCT	z_	_	10	punct	10:punct	CorrectionType=RemovedPunctuation|LvtbNodeId=a-z25-p34s1w10
+12	amonjaka	amonjaks	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	13	nmod	13:nmod:gen	LvtbNodeId=a-z25-p34s1w11
+13	klātbūtne	klātbūtne	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	6	conj	3:nsubj|6:conj	LvtbNodeId=a-z25-p34s1w12
+14	(	(	PUNCT	zb	_	15	punct	15:punct	LvtbNodeId=a-z25-p34s1w13|SpaceAfter=No
+15	I.	I.	PROPN	yp	Abbr=Yes	3	parataxis	3:parataxis	LvtbNodeId=a-z25-p34s1w14
+16	Ramane	Ramane	PROPN	npfsn5	Case=Nom|Gender=Fem|Number=Sing	15	flat:name	15:flat:name	LvtbNodeId=a-z25-p34s1w15|SpaceAfter=No
+17	,	,	PUNCT	zc	_	18	punct	18:punct	LvtbNodeId=a-z25-p34s1w16
+18	D.	D.	PROPN	yp	Abbr=Yes	15	conj	3:parataxis|15:conj	LvtbNodeId=a-z25-p34s1w17
+19	Kravale	Kravale	PROPN	npfsn5	Case=Nom|Gender=Fem|Number=Sing	18	flat:name	18:flat:name	LvtbNodeId=a-z25-p34s1w18|SpaceAfter=No
+20	,	,	PUNCT	zc	_	21	punct	21:punct	LvtbNodeId=a-z25-p34s1w19
+21	J.	J.	PROPN	yp	Abbr=Yes	15	conj	3:parataxis|15:conj	LvtbNodeId=a-z25-p34s1w20
+22	Mičulis	Mičulis	PROPN	npmsn2	Case=Nom|Gender=Masc|Number=Sing	21	flat:name	21:flat:name	LvtbNodeId=a-z25-p34s1w21
+23	.u	u.c.	SYM	yd	Abbr=Yes|Typo=Yes	15	conj	3:parataxis|15:conj	CorrectForm=u.c.|CorrectionType=Spacing,Spelling|CorrectSpaceAfter=No|LvtbNodeId=a-z25-p34s1w22
+24	.c	_	X	_	_	23	goeswith	23:goeswith	LvtbNodeId=a-z25-p34s1w22|SpaceAfter=No
+25	)	)	PUNCT	zb	_	15	punct	15:punct	LvtbNodeId=a-z25-p34s1w23|SpaceAfter=No
+26	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-z25-p34s1w24
+
+~~~
 
 
 ~~~ conllu
@@ -29,7 +65,7 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 5	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-d60-p5s4w4
 6	bez	bez	ADP	spsg	_	7	case	7:case	LvtbNodeId=a-d60-p5s4w5
 7	domas	doma	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	4	obl	4:obl:gen	LvtbNodeId=a-d60-p5s4w6
-8	kādas	kāda	DET	pi0fsgn	Case=Gen|Gender=Fem|Number=Sing|PronType=Ind	7	det	7:det	LvtbNodeId=a-d60-p5s4w7|SpaceAfter=No
+8	kādas	kāda	DET	pi0fsgn	Case=Gen|Gender=Fem|Number=Sing|PronType=Ind	7	nmod	7:nmod	LvtbNodeId=a-d60-p5s4w7|SpaceAfter=No
 9	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-d60-p5s4w8
 
 ~~~
@@ -49,49 +85,10 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 6	nebūs	būt	AUX	vcnifii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin|Voice=Act	7	cop	7:cop	LvtbNodeId=a-p267-p2s7w5
 7	apbūvējama	apbūvēt	VERB	vmnpdfsnppnpn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	10	advcl	10:advcl	LvtbNodeId=a-p267-p2s7w6|SpaceAfter=No
 8	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-p267-p2s7w7
-9	tajā	tā	PRON	pd3fsln	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	10	obl	10:obl:loc	LvtbNodeId=a-p267-p2s7w8
+9	tajā	tā	DET	pd3fsln	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	10	obl	10:obl:loc	LvtbNodeId=a-p267-p2s7w8
 10	iestāsies	iestāties	VERB	vmyifi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p267-p2s7w9
 11	stagnācija	stagnācija	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	10:nsubj	LvtbNodeId=a-p267-p2s7w10|SpaceAfter=No
 12	.	.	PUNCT	zs	_	10	punct	10:punct	LvtbNodeId=a-p267-p2s7w11
-
-~~~
-
-
-~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 18 goeswith	color:blue
-1	Un	un	CCONJ	cc	_	9	cc	9:cc	LvtbNodeId=a-c60-p8s1w1
-2	tagad	tagad	ADV	r0n	PronType=Dem	9	advmod	9:advmod	LvtbNodeId=a-c60-p8s1w2
-3	jebkurš	jebkurš	DET	pi0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	4	det	4:det	LvtbNodeId=a-c60-p8s1w3
-4	cilvēks	cilvēks	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	9:nsubj|10:nsubj|16:nsubj	LvtbNodeId=a-c60-p8s1w4
-5	-	-	PUNCT	zd	_	6	punct	6:punct	LvtbNodeId=a-c60-p8s1w5
-6	sieviete	sieviete	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	4	appos	4:appos	LvtbNodeId=a-c60-p8s1w6
-7	vai	vai	CCONJ	cc	_	8	cc	8:cc	LvtbNodeId=a-c60-p8s1w7
-8	vīrietis	vīrietis	NOUN	ncmsn2	Case=Nom|Gender=Masc|Number=Sing	6	conj	4:appos|6:conj	CorrectionType=InsertedPunctAfter|LvtbNodeId=a-c60-p8s1w8
-9	var	varēt	VERB	vonipi330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c60-p8s1w10
-10	izlabot	izlabot	VERB	vmnn0t2000n	Polarity=Pos|VerbForm=Inf	9	xcomp	9:xcomp	LvtbNodeId=a-c60-p8s1w11
-11	jebkuru	jebkurš	DET	pi0msan	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	14	det	14:det	LvtbNodeId=a-c60-p8s1w12
-12	savu	savs	DET	ps0mpgn	Case=Gen|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	13	det	13:det	LvtbNodeId=a-c60-p8s1w13
-13	nagu	nags	NOUN	ncmpg1	Case=Gen|Gender=Masc|Number=Plur	14	nmod	14:nmod:gen	LvtbNodeId=a-c60-p8s1w14
-14	trūkumu	trūkums	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	10	obj	10:obj	LvtbNodeId=a-c60-p8s1w15|SpaceAfter=No
-15	,	,	PUNCT	zc	_	16	punct	16:punct	LvtbNodeId=a-c60-p8s1w16
-16	noslēpt	noslēpt	VERB	vmnn0t1000n	Polarity=Pos|VerbForm=Inf	10	conj	9:xcomp|10:conj	LvtbNodeId=a-c60-p8s1w17
-17	pēc	pēctraumatisks	ADJ	arfpanp	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Typo=Yes	19	amod	19:amod	CorrectForm=pēctraumatiskas|CorrectionType=Spacing,Spelling|CorrectSpaceAfter=No|LvtbNodeId=a-c60-p8s1w18
-18	traumatiskas	_	X	_	_	17	goeswith	17:goeswith	LvtbNodeId=a-c60-p8s1w18
-19	sekas	sekas	NOUN	ncfda4	Case=Acc|Gender=Fem|Number=Ptan	16	obj	16:obj	LvtbNodeId=a-c60-p8s1w19|SpaceAfter=No
-20	,	_	PUNCT	z_	_	19	punct	19:punct	CorrectionType=RemovedPunctuation|LvtbNodeId=a-c60-p8s1w19
-21	vai	vai	CCONJ	cc	_	24	cc	24:cc	LvtbNodeId=a-c60-p8s1w20
-22	tāda	tāds	DET	pd0msgn	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	23	det	23:det	LvtbNodeId=a-c60-p8s1w21
-23	paraduma	paradums	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	24	nmod	24:nmod:gen	LvtbNodeId=a-c60-p8s1w22
-24	rezultātus	rezultāts	NOUN	ncmpa1	Case=Acc|Gender=Masc|Number=Plur	19	conj	16:obj|19:conj	LvtbNodeId=a-c60-p8s1w23|SpaceAfter=No
-25	,	_	PUNCT	z_	_	24	punct	24:punct	CorrectionType=RemovedPunctuation|LvtbNodeId=a-c60-p8s1w23
-26	kā	kā	SCONJ	cs	_	28	case	28:case	LvtbNodeId=a-c60-p8s1w24
-27	nagu	nags	NOUN	ncmpg1	Case=Gen|Gender=Masc|Number=Plur	28	nmod	28:nmod:gen	LvtbNodeId=a-c60-p8s1w25
-28	graušana	graušana	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	23	nmod	23:nmod:kā	LvtbNodeId=a-c60-p8s1w26|SpaceAfter=No
-29	.	.	PUNCT	zs	_	9	punct	9:punct	LvtbNodeId=a-c60-p8s1w27
 
 ~~~
 

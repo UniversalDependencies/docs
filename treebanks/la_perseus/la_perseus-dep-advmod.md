@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 4 language-specific subtypes of `advmod`: <tt><a href="la_perseus-dep-advmod-emph.html">advmod:emph</a></tt>, <tt><a href="la_perseus-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="la_perseus-dep-advmod-neg.html">advmod:neg</a></tt>, <tt><a href="la_perseus-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-1441 nodes (5%) are attached to their parents as `advmod`.
+1353 nodes (5%) are attached to their parents as `advmod`.
 
-1238 instances of `advmod` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.00693962526024.
+1181 instances of `advmod` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.07021433850702.
 
-The following 18 pairs of parts of speech are connected with `advmod`: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (1103; 77% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (102; 7% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (99; 7% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (40; 3% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (16; 1% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (16; 1% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (15; 1% instances), <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-PART.html">PART</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `advmod`: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (1069; 79% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (92; 7% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (84; 6% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (33; 2% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (16; 1% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (13; 1% instances), <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-PART.html">PART</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,27 +35,6 @@ The following 18 pairs of parts of speech are connected with `advmod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 2 advmod	color:blue
-1	Haec	hic	DET	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	LId=hic1
-2	quoque	quoque	ADV	d--------	_	7	advmod	_	LId=quoque1
-3	adhuc	adhuc	ADV	d--------	_	9	advmod	_	LId=adhuc1
-4	vitae	vita	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	LId=vita1
-5	non	non	PART	d--------	_	9	advmod:neg	_	LId=non1
-6	est	sum	AUX	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	LId=sum1|TraditionalMood=Indicativus|TraditionalTense=Praesens
-7	fiducia	fiducia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	LId=fiducia1
-8	nostrae	noster	DET	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	4	det	_	LId=noster1
-9	certa	certus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	LId=certus1
-10	satis	satis	ADV	d--------	_	9	advmod	_	SpaceAfter=No|LId=satis1
-11	;	;	PUNCT	u--------	_	9	punct	_	LId=punc1
-
-~~~
-
-
-~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 4	bgColor:blue
@@ -67,6 +46,26 @@ The following 18 pairs of parts of speech are connected with `advmod`: <tt><a hr
 4	dubitabile	dubitabilis	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LId=dubitabilis1
 5	verum	verum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	SpaceAfter=No|LId=verum2
 6	.	.	PUNCT	u--------	_	4	punct	_	LId=punc1
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 advmod	color:blue
+1	quae	qui	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	3	nsubj	_	LId=qui1
+2	modo	modo	ADV	d--------	_	3	advmod	_	LId=modo1
+3	vena	vena	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	LId=vena1
+4	fuit	sum	AUX	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	LId=sum1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
+5	,	,	PUNCT	u--------	_	3	punct	_	LId=comma1
+6	sub	sub	ADP	r--------	_	8	case	_	LId=sub1
+7	eodem	idem	DET	p-s---nb-	Case=Abl|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	LId=idem1
+8	nomine	nomen	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	9	obl	_	LId=nomen1
+9	mansit	maneo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=maneo1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
+10	;	;	PUNCT	u--------	_	9	punct	_	LId=punc1
 
 ~~~
 

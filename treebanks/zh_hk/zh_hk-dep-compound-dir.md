@@ -54,8 +54,8 @@ The following 3 pairs of parts of speech are connected with `compound:dir`: <tt>
 # visual-style 2	fgColor:white
 # visual-style 2 4 compound:dir	color:blue
 1	又	又	ADV	_	_	2	advmod	_	SpaceAfter=No|Translit=yòu|LTranslit=yòu
-2	曬	曬	VERB	_	_	0	root	_	SpaceAfter=No|Translit=曬|LTranslit=曬
-3	黑	黑	ADJ	_	_	2	compound:vv	_	SpaceAfter=No|Translit=hēi|LTranslit=hēi
+2	曬	曬	VERB	_	_	0	root	_	SpaceAfter=No|Translit=曬|LTranslit=曬|Cxn=Resultative|CxnElt=2:Resultative.Event
+3	黑	黑	ADJ	_	_	2	compound:vv	_	SpaceAfter=No|Translit=hēi|LTranslit=hēi|CxnElt=2:Resultative.ResultState
 4	番黎	番黎	NOUN	_	_	2	compound:dir	_	SpaceAfter=No|Translit=fānlí|LTranslit=fānlí
 5	喇	喇	PART	_	_	2	discourse:sp	_	SpaceAfter=No|Translit=lǎ|LTranslit=lǎ
 6	，	，	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,

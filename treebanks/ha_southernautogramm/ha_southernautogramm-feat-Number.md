@@ -49,7 +49,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (136; 100% of non-empty `Number`): <em>shaːnuː, mutàːneː, dabboːbiː, abuːbuwàː, yâːraː, abuːbuwàn, saiwoːyiː, maːtan, riːjiyoːyiː, ƴaːƴan</em>
-* `EMPTY` (1676): <em>àbin, àbîn, loːkàcîn, mài, gidan, gidaː, zaːmàniː, irìn, àbù, ruwaː</em>
+* `EMPTY` (1677): <em>àbin, àbîn, loːkàcîn, mài, gidan, gidaː, zaːmàniː, irìn, àbù, ruwaː</em>
 
 `Number` seems to be **lexical feature** of `NOUN`. 100% lemmas (50) occur only with one value of `Number`.
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (11; 100% of non-empty `Number`): <em>caccànzaː, masàyaː, ciccìkaː, daddàurè, r̃ar̃r̃àbaː, tattàːrà, tàttàfi, yanyànkà, yâːraː</em>
-* `EMPTY` (2033): <em>yi, cêː, jeː, ci, zoː, ga, sâː, baː, san, ganiː</em>
+* `EMPTY` (2032): <em>yi, cêː, jeː, ci, zoː, ga, sâː, baː, san, ganiː</em>
 
 ### `PART`
 

@@ -22,16 +22,16 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 nummod	color:blue
-1	D'	_	DET	_	_	2	det	_	SpaceAfter=No
-2	Hächn	_	NOUN	_	_	3	nsubj	_	_
-3	ligt	_	VERB	_	_	0	root	_	_
-4	duachschnittli	_	ADJ	_	_	3	advmod	_	_
-5	bei	_	ADP	_	_	7	case	_	_
-6	520	_	NUM	_	_	7	nummod	_	_
-7	m	_	NOUN	_	_	3	obl	_	_
-8	iwa	_	ADP	_	_	9	case	_	_
-9	NN	_	NOUN	_	_	7	nmod	_	SpaceAfter=No
-10	.	_	PUNCT	_	_	3	punct	_	_
+1	D'	_	DET	_	_	2	det	_	GermanLemma=die|SpaceAfter=No
+2	Hächn	_	NOUN	_	_	3	nsubj	_	GermanLemma=Höhe
+3	ligt	_	VERB	_	_	0	root	_	GermanLemma=liegen
+4	duachschnittli	_	ADJ	_	_	3	advmod	_	GermanLemma=durchschnittlich
+5	bei	_	ADP	_	_	7	case	_	GermanLemma=bei
+6	520	_	NUM	_	_	7	nummod	_	GermanLemma=520
+7	m	_	NOUN	_	_	3	obl	_	GermanLemma=m
+8	iwa	_	ADP	_	_	9	case	_	GermanLemma=über
+9	NN	_	NOUN	_	_	7	nmod	_	GermanLemma=NN|SpaceAfter=No
+10	.	_	PUNCT	_	_	3	punct	_	GermanLemma=.
 
 ~~~
 
@@ -42,18 +42,18 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 10 nummod	color:blue
-1	I	_	PRON	_	_	12	nsubj	_	_
-2	tat	_	AUX	_	_	12	aux	_	_
-3	in	_	DET	_	_	4	det	_	_
-4	Film	_	NOUN	_	_	12	obl:arg	_	_
-5	Half	_	PROPN	_	_	4	appos	_	_
-6	a	_	PROPN	_	_	5	flat	_	_
-7	Life	_	PROPN	_	_	5	flat	_	_
-8	3	_	NUM	_	_	11	nummod	_	_
-9	vu	_	ADP	_	_	10	case	_	_
-10	6	_	NUM	_	_	8	nummod	_	_
-11	Punkte	_	NOUN	_	_	12	obj	_	_
-12	gebn	_	VERB	_	_	0	root	_	_
+1	I	_	PRON	_	_	12	nsubj	_	GermanLemma=ich
+2	tat	_	AUX	_	_	12	aux	_	GermanLemma=tun
+3	in	_	DET	_	_	4	det	_	GermanLemma=der
+4	Film	_	NOUN	_	_	12	obl:arg	_	GermanLemma=Film
+5	Half	_	PROPN	_	_	4	appos	_	GermanLemma=Half
+6	a	_	PROPN	_	_	5	flat	_	GermanLemma=a
+7	Life	_	PROPN	_	_	5	flat	_	GermanLemma=Life
+8	3	_	NUM	_	_	11	nummod	_	GermanLemma=3
+9	vu	_	ADP	_	_	10	case	_	GermanLemma=von
+10	6	_	NUM	_	_	8	nummod	_	GermanLemma=6
+11	Punkte	_	NOUN	_	_	12	obj	_	GermanLemma=Punkt
+12	gebn	_	VERB	_	_	0	root	_	GermanLemma=geben
 
 ~~~
 
@@ -64,25 +64,25 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 nummod	color:blue
-1	Wenn	_	SCONJ	_	_	4	mark	_	_
-2	s'	_	DET	_	_	3	det	_	SpaceAfter=No
-3	Haferl	_	NOUN	_	_	4	nsubj	_	_
-4	laar	_	ADJ	_	_	18	advcl	_	_
-5	is	_	AUX	_	_	4	cop	_	_
-6	owa	_	CCONJ	_	_	12	cc	_	_
-7	wenn	_	SCONJ	_	_	12	mark	_	_
-8	a	_	DET	_	_	9	det	_	_
-9	nejda	_	DET	_	_	12	nsubj	_	_
-10	fümf	_	NUM	_	_	11	nummod	_	_
-11	mol	_	ADV	_	_	12	advmod	_	_
-12	gem	_	VERB	_	_	4	conj	_	_
-13	hod	_	AUX	_	_	12	aux	_	SpaceAfter=No
-14	,	_	PUNCT	_	_	4	punct	_	_
-15	is	_	AUX	_	_	18	cop	_	_
-16	d'	_	DET	_	_	17	det	_	SpaceAfter=No
-17	Rundn	_	NOUN	_	_	18	nsubj	_	_
-18	aus	_	ADP	_	_	0	root	_	SpaceAfter=No
-19	.	_	PUNCT	_	_	18	punct	_	_
+1	Wenn	_	SCONJ	_	_	4	mark	_	GermanLemma=wenn
+2	s'	_	DET	_	_	3	det	_	GermanLemma=das|SpaceAfter=No
+3	Haferl	_	NOUN	_	_	4	nsubj	_	GermanLemma=Tasse
+4	laar	_	ADJ	_	_	18	advcl	_	GermanLemma=leer
+5	is	_	AUX	_	_	4	cop	_	GermanLemma=sein
+6	owa	_	CCONJ	_	_	12	cc	_	GermanLemma=oder
+7	wenn	_	SCONJ	_	_	12	mark	_	GermanLemma=wenn
+8	a	_	DET	_	_	9	det	_	GermanLemma=ein
+9	nejda	_	DET	_	_	12	nsubj	_	GermanLemma=jeder
+10	fümf	_	NUM	_	_	11	nummod	_	GermanLemma=fünf
+11	mol	_	ADV	_	_	12	advmod	_	GermanLemma=mal
+12	gem	_	VERB	_	_	4	conj	_	GermanLemma=geben
+13	hod	_	AUX	_	_	12	aux	_	GermanLemma=haben|SpaceAfter=No
+14	,	_	PUNCT	_	_	4	punct	_	GermanLemma=,
+15	is	_	AUX	_	_	18	cop	_	GermanLemma=sein
+16	d'	_	DET	_	_	17	det	_	GermanLemma=die|SpaceAfter=No
+17	Rundn	_	NOUN	_	_	18	nsubj	_	GermanLemma=Runde
+18	aus	_	ADP	_	_	0	root	_	GermanLemma=aus|SpaceAfter=No
+19	.	_	PUNCT	_	_	18	punct	_	GermanLemma=.
 
 ~~~
 

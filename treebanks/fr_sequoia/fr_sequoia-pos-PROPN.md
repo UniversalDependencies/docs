@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>RPR</em> (<tt><a href="fr_sequoia-pos
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.006440 (the average of all parts of speech is 1.407211).
+The form / lemma ratio of `PROPN` is 1.006440 (the average of all parts of speech is 1.407386).
 
 The 1st highest number of forms (2) was observed with the lemma “Aclasta”: <em>ACLASTA, Aclasta</em>.
 

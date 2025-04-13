@@ -33,7 +33,7 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 9	a	a	ADP	IN	_	11	case	_	_
 10	por	por	ADP	IN	_	11	case	_	_
 11	más	más	ADV	RBR	Degree=Cmp	8	advmod	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	3	punct	_	_
+12	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -59,7 +59,7 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 13	mejores	mejor	ADJ	JJR	Degree=Cmp|Number=Plur	9	ccomp	_	_
 14	en	en	ADP	IN	_	15	case	_	_
 15	2017	2017	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	obl	_	SpaceAfter=No
-16	.	.	PUNCT	.	_	6	punct	_	_
+16	.	.	PUNCT	.	PunctType=Peri	6	punct	_	_
 
 ~~~
 
@@ -79,7 +79,7 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 7	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 8	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	bestia	bestia	NOUN	NN	Gender=Fem|Number=Sing	2	ccomp	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	2	punct	_	_
+10	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
 ~~~
 

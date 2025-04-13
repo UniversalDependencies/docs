@@ -13,7 +13,7 @@ This relation is universal.
 14276 instances of `det` (96%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.03853161481881.
 
-The following 13 pairs of parts of speech are connected with `det`: <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (9036; 61% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (3513; 24% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (1324; 9% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (692; 5% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt>-<tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (170; 1% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (41; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="he_iahltwiki-pos-X.html">X</a></tt>-<tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt>-<tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `det`: <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (9037; 61% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (3513; 24% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (1323; 9% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (692; 5% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt>-<tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (170; 1% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (41; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="he_iahltwiki-pos-X.html">X</a></tt>-<tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt>-<tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -71,11 +71,11 @@ The following 13 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 5 4 det	color:blue
 1	השוואה	השוואה	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 2	ל	ל	ADP	ADP	_	3	case	_	_
-3	פסיפס	פסיפס	PROPN	PROPN	Definite=Cons	1	nmod	_	_
+3	פסיפס	פסיפס	PROPN	PROPN	Definite=Cons	1	nmod	_	Entity=(WOA
 4	ה	ה	DET	DET	Definite=Def|PronType=Art	5	det	_	_
-5	ציפורים	ציפור	PROPN	PROPN	_	3	compound	_	_
+5	ציפורים	ציפור	PROPN	PROPN	_	3	compound	_	Entity=WOA)
 6	ב	ב	ADP	ADP	_	7	case	_	_
-7	קיסריה	קיסריה	PROPN	PROPN	_	3	nmod	_	_
+7	קיסריה	קיסריה	PROPN	PROPN	_	3	nmod	_	Entity=(GPE
 
 ~~~
 

@@ -37,8 +37,8 @@ The 3rd highest number of forms (1) was observed with the lemma “what_the_fuck
 `X` occurs with 2 feature-value pairs: `Abbr=Yes`, `Foreign=Yes`
 
 `X` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (2 tokens).
-Examples: <em>continuu, unul</em>
+The most frequent feature combination is `Abbr=Yes|Foreign=Yes` (2 tokens).
+Examples: <em>WTF, irl</em>
 
 
 ## Relations

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-81 tokens (0%) have a non-empty value of `Foreign`.
-40 types (0%) occur at least once with a non-empty value of `Foreign`.
-36 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 8 part-of-speech tags: <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (33; 0% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (18; 0% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+82 tokens (0%) have a non-empty value of `Foreign`.
+41 types (0%) occur at least once with a non-empty value of `Foreign`.
+37 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 8 part-of-speech tags: <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (33; 0% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (18; 0% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (9; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 ### `DET`
 
@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (33; 100% of non-empty `Foreign`): <em>les, le, Al, A, la, una</em>
-* `EMPTY` (84392): <em>el, la, los, un, las, una, su, sus, este, esta</em>
+* `EMPTY` (84398): <em>el, la, los, un, las, una, su, sus, este, esta</em>
 
 ### `NOUN`
 
@@ -49,12 +49,12 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 
 ### `PROPN`
 
-8 <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Foreign`.
+9 <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Foreign`.
 
 `PROPN` tokens may have the following values of `Foreign`:
 
-* `Yes` (8; 100% of non-empty `Foreign`): <em>Lletres, Crime, Frederick, Generalitat, Glòries, Balears, Illes</em>
-* `EMPTY` (42382): <em>Gobierno, España, Madrid, Barcelona, José, Estado, PP, Juan, Nacional, Estados</em>
+* `Yes` (9; 100% of non-empty `Foreign`): <em>Lletres, Crime, Frederick, Generalitat, Glòries, Balears, Illes, Inc</em>
+* `EMPTY` (42381): <em>Gobierno, España, Madrid, Barcelona, José, Estado, PP, Juan, Nacional, Estados</em>
 
 ### `ADJ`
 
@@ -94,7 +94,7 @@ The most frequent other feature values with which `NUM` and `Foreign` co-occurre
 `NUM` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>1.000</em>
-* `EMPTY` (9178): <em>dos, ciento, tres, cinco, cuatro, seis, 20, 30, ambos, siete</em>
+* `EMPTY` (9172): <em>dos, ciento, tres, cinco, cuatro, seis, 20, 30, ambos, siete</em>
 
 ## Relations with Agreement in `Foreign`
 

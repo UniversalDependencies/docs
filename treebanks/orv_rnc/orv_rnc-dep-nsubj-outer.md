@@ -9,12 +9,35 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="orv_rnc-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-3 nodes (0%) are attached to their parents as `nsubj:outer`.
+10 nodes (0%) are attached to their parents as `nsubj:outer`.
 
-3 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.66666666666667.
+10 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.1.
 
-The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (2; 67% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 33% instances).
+The following 3 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (4; 40% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (3; 30% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (3; 30% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 2 nsubj:outer	color:blue
+1	А	а	CCONJ	_	_	7	cc	_	norm="А"
+2	отвод	отводъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj:outer	_	norm="отвод"|Decl=2|End=0
+3	тем	тотъ	DET	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Dem	4	det	_	norm="тем"|Decl=X|End=ме|check=@
+4	землям	земля	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	2	nmod	_	norm="землям"|Decl=1a|End=мя|check=@
+5	—	—	PUNCT	_	_	7	punct	_	norm="—"
+6	куды	куды	ADV	ADVPRO	Degree=Pos|PronType=Rel	7	advmod	_	upos="ADVPRO"|norm="куды"
+7	ходил	ходити	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	norm="ходил"|Decl=X|End=л
+8	топор	топоръ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	norm="топор"|Decl=2|End=0|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	norm=","
+10	соха	соха	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	conj	_	norm="соха"|Decl=1a|End=а|SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	norm=","
+12	коса	коса	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	conj	_	norm="коса"|Decl=1a|End=а|SpaceAfter=No
+13	.	.	PUNCT	_	_	7	punct	_	norm="."
+
+~~~
 
 
 ~~~ conllu
@@ -44,50 +67,46 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 
 
 ~~~ conllu
-# visual-style 34	bgColor:blue
-# visual-style 34	fgColor:white
-# visual-style 38	bgColor:blue
-# visual-style 38	fgColor:white
-# visual-style 38 34 nsubj:outer	color:blue
-1	А	а	CCONJ	_	_	26	cc	_	wf="А"|_
-2	буде	буде	SCONJ	_	_	14	mark	_	wf="буде"|_
-3	они	они	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	wf="они"
-4	Оска	Оська	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	appos	_	wf="Оска"|SpaceAfter=No
-5	,	,	PUNCT	_	_	7	punct	_	wf=","|_
-6	и	и	CCONJ	_	_	7	cc	_	wf="и"|_
-7	Аѳонка	Афонка	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	conj	_	wf="Аѳонка"|SpaceAfter=No
-8	,	,	PUNCT	_	_	10	punct	_	wf=","|_
-9	и	и	CCONJ	_	_	10	cc	_	wf="и"|_
-10	Петрушка	Петрушка	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	conj	_	wf="Петрушка"|SpaceAfter=No
-11	,	,	PUNCT	_	_	13	punct	_	wf=","|_
-12	и	и	CCONJ	_	_	13	cc	_	wf="и"|_
-13	Архипко	Архипко	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	conj	_	wf="Архипко"
-14	учнутъ	учати	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	26	advcl	_	wf="учнутъ"
-15	впредь	впредь	ADV	_	Degree=Pos	14	advmod	_	wf="впредь"|_
-16	съ	съ	ADP	_	_	17	case	_	wf="съ"|_
-17	кѣмъ	кто	PRON	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Rel	18	obl	_	wf="кѣмъ"
-18	дратца	дратися	VERB	_	VerbForm=Inf|Voice=Mid	14	xcomp	_	wf="дратца"
-19	или	или	CCONJ	_	_	22	cc	_	wf="или"|_
-20	какимъ	какой	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Int	21	det	_	wf="какимъ"
-21	воровствомъ	воровство	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	22	iobj	_	wf="воровствомъ"
-22	воровать	воровати	VERB	_	VerbForm=Inf|Voice=Act	18	conj	_	wf="воровать"|SpaceAfter=No
-23	,	,	PUNCT	_	_	14	punct	_	wf=","|_
-24	и	и	CCONJ	_	_	26	cc	_	wf="и"|_
-25	на	на	ADP	_	_	26	case	_	wf="на"|_
-26	насъ	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	0	root	_	wf="насъ"
-27	на	на	ADP	_	_	28	case	_	wf="на"|_
-28	порутчикахъ	порутчикъ	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	26	appos	_	wf="порутчикахъ"
-29	великого	великий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	wf="великого"
-30	государя	государь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	wf="государя"
-31	пеня	пеня	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	26	nsubj	_	wf="пеня"|SpaceAfter=No
-32	,	,	PUNCT	_	_	38	punct	_	wf=","|_
-33	а	а	CCONJ	_	_	38	cc	_	wf="а"|_
-34	пени	пеня	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	38	nsubj:outer	_	wf="пени"
-35	что	что	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	38	obj	_	wf="что"
-36	великій	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	37	amod	_	wf="великій"
-37	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	38	nsubj	_	wf="государь"
-38	укажетъ	указати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	26	conj	_	wf="укажетъ"|SpaceAfter=No
-39	.	.	PUNCT	_	_	26	punct	_	wf="."|_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 2 nsubj:outer	color:blue
+1	а	а	CCONJ	_	_	10	cc	_	norm="а"
+2	хлѣбъ	хлѣбъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	nsubj:outer	_	norm="хлѣбъ"|Decl=2|End=ъ0
+3	в	въ	ADP	_	_	4	case	_	norm="в"|check=@
+4	Нерчинску	Нерчинскъ	PROPN	_	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	2	nmod	_	norm="Нерчинску"|Decl=1a|End=у|check=@
+5	пуд	пудъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	norm="пуд"|Decl=2|End=0
+6	муки	мука	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	norm="муки"|Decl=1a|End=и|check=@
+7	ржанои	ржаной	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	norm="ржанои"|Decl=X|End=ио|check=@
+8	по	по	ADP	_	_	10	case	_	norm="по"|check=@
+9	Е	5	NUM	_	Case=Dat|NumForm=Cyril|NumType=Card	10	nummod:gov	_	norm="Е"|Decl=X|End=_|check=@
+10	л	алтынъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	0	root	_	norm="л"|Decl=2|End=_
+11	пшеничнои	пшеничный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	nsubj	_	norm="пшеничнои"|Decl=X|End=ио
+12	по	по	ADP	_	_	14	case	_	norm="по"
+13	І	10	NUM	_	Case=Acc|NumForm=Cyril|NumType=Card	14	nummod:gov	_	norm="І"|Decl=X|End=_
+14	л	алтынъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	conj	_	norm="л"|Decl=2|End=_
+15	хмелю	хмель	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	norm="хмелю"|Decl=2|End=ю
+16	пуд	пудъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	norm="пуд"|Decl=2|End=0
+17	по	по	ADP	_	_	19	case	_	norm="по"
+18	Ѕ	6	NUM	_	Case=Dat|NumForm=Cyril|NumType=Card	19	nummod:gov	_	norm="Ѕ"|Decl=X|End=_
+19	ру	рубль	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	10	conj	_	norm="ру"|Decl=2|End=_
+20	а	а	CCONJ	_	_	25	cc	_	norm="а"
+21	иные	иной	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	23	det	_	norm="иные"|Decl=X|End=еы|check=@
+22	руские	русский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	23	amod	_	norm="руские"|Decl=X|End=еи|check=@
+23	товары	товаръ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	25	nsubj	_	norm="товары"|Decl=2|End=ы
+24	горазно	гораздно	ADV	_	Degree=Pos	25	advmod	_	norm="горазно"
+25	дешевы	дешевый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	10	conj	_	norm="дешевы"|Decl=X|End=ы
+26	а	а	CCONJ	_	_	32	cc	_	norm="а"
+27	камок	камка	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	32	nsubj	_	norm="камок"|Decl=1a|End=0
+28	и	и	CCONJ	_	_	29	cc	_	norm="и"
+29	китаекъ	китайка	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	27	conj	_	norm="китаекъ"|Decl=1a|End=ъ0
+30	нне	нынѣ	ADV	ADVPRO	Degree=Pos|PronType=Dem	32	advmod	_	norm="нне"
+31	продажных	продажный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	27	amod	_	norm="продажных"|Decl=X|End=хы
+32	мало	мало	NUM	_	Case=Nom|NumForm=Word|NumType=Card	25	conj	_	upos="ADVPRO"|norm="мало"|Decl=X|End=о
+33	да	да	CCONJ	_	_	35	cc	_	norm="да"
+34	и	и	CCONJ	_	_	33	fixed	_	norm="и"
+35	нѣтъ	нѣтъ	VERB	PRED	Polarity=Neg	32	conj	_	upos="PRAEDIC"|norm="нѣтъ"|Decl=PRAEDIC|End=ъ0
 
 ~~~
 

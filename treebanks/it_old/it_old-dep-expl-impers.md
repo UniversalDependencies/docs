@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_old-dep-expl.html">expl</a></tt>.
 There are also 2 other language-specific subtypes of `expl`: <tt><a href="it_old-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="it_old-dep-expl-pv.html">expl:pv</a></tt>.
 
-143 nodes (0%) are attached to their parents as `expl:impers`.
+294 nodes (0%) are attached to their parents as `expl:impers`.
 
-109 instances of `expl:impers` (76%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25174825174825.
+239 instances of `expl:impers` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1734693877551.
 
-The following 2 pairs of parts of speech are connected with `expl:impers`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (142; 99% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 2 pairs of parts of speech are connected with `expl:impers`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (293; 100% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

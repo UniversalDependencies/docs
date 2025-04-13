@@ -7,14 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Manx-Cadhan: Relations: `flat`
 
 This relation is universal.
-There are 1 language-specific subtypes of `flat`: <tt><a href="gv_cadhan-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-26 nodes (0%) are attached to their parents as `flat`.
+30 nodes (0%) are attached to their parents as `flat`.
 
-26 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.15384615384615.
+30 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.23333333333333.
 
-The following 6 pairs of parts of speech are connected with `flat`: <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> (17; 65% instances), <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> (5; 19% instances), <tt><a href="gv_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="gv_cadhan-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="gv_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gv_cadhan-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gv_cadhan-pos-X.html">X</a></tt> (1; 4% instances).
+The following 6 pairs of parts of speech are connected with `flat`: <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> (21; 70% instances), <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> (5; 17% instances), <tt><a href="gv_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="gv_cadhan-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="gv_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gv_cadhan-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gv_cadhan-pos-X.html">X</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

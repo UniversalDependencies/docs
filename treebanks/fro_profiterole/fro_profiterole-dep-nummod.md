@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-897 nodes (0%) are attached to their parents as `nummod`.
+963 nodes (0%) are attached to their parents as `nummod`.
 
-874 instances of `nummod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.0958751393534.
+938 instances of `nummod` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.10384215991693.
 
-The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt> (749; 84% instances), <tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt> (67; 7% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt> (47; 5% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt> (24; 3% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt> (811; 84% instances), <tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt> (67; 7% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt> (47; 5% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt> (26; 3% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -121,8 +121,8 @@ The following 17 pairs of parts of speech are connected with `list`: <tt><a href
 13	Rame	Rame	PROPN	SP	_	12	flat:name	_	_
 14	4	4	NUM	N	NumType=Card	16	nummod	_	SpaceAfter=No
 15	.	.	PUNCT	FS	_	14	punct	_	_
-16	Prince	Prince	X	SW	_	6	list	_	_
-17	Of	Of	X	SW	_	16	flat	_	_
+16	Prince	Prince	X	SW	Foreign=Yes	6	list	_	_
+17	Of	Of	X	SW	Foreign=Yes	16	flat	_	_
 18	Persia	persia	PROPN	SP	_	16	flat	_	_
 19	5	5	NUM	N	NumType=Card	21	nummod	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	19	punct	_	_
@@ -134,10 +134,10 @@ The following 17 pairs of parts of speech are connected with `list`: <tt><a href
 26	#cinemaInChiesa	#cinemaInChiesa	SYM	SYM	_	6	list	_	_
 27	7	7	NUM	N	NumType=Card	29	nummod	_	SpaceAfter=No
 28	.	.	PUNCT	FS	_	27	punct	_	_
-29	Welcome	Welcome	X	SW	_	6	list	_	_
-30	to	to	X	SW	_	29	flat:foreign	_	_
-31	My	My	X	SW	_	29	flat:foreign	_	_
-32	Life	Life	X	SW	_	29	flat:foreign	_	_
+29	Welcome	Welcome	X	SW	Foreign=Yes	6	list	_	_
+30	to	to	X	SW	Foreign=Yes	29	flat:foreign	_	_
+31	My	My	X	SW	Foreign=Yes	29	flat:foreign	_	_
+32	Life	Life	X	SW	Foreign=Yes	29	flat:foreign	_	_
 
 ~~~
 

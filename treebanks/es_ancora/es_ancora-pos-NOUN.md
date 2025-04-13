@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>partido</em> (<tt><a href="es_ancora-
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.308418 (the average of all parts of speech is 1.505790).
+The form / lemma ratio of `NOUN` is 1.308418 (the average of all parts of speech is 1.505808).
 
 The 1st highest number of forms (4) was observed with the lemma “petrolero”: <em>petrolera, petroleras, petrolero, petroleros</em>.
 
@@ -59,12 +59,12 @@ The 2nd highest number of forms (3) was observed with the lemma “candidato”:
 
 The 3rd highest number of forms (3) was observed with the lemma “club”: <em>club, clubes, clubs</em>.
 
-`NOUN` occurs with 6 features: <tt><a href="es_ancora-feat-Number.html">Number</a></tt> (92372; 92% instances), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt> (88482; 88% instances), <tt><a href="es_ancora-feat-AdvType.html">AdvType</a></tt> (1877; 2% instances), <tt><a href="es_ancora-feat-Foreign.html">Foreign</a></tt> (18; 0% instances), <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt> (11; 0% instances), <tt><a href="es_ancora-feat-PunctType.html">PunctType</a></tt> (1; 0% instances)
+`NOUN` occurs with 4 features: <tt><a href="es_ancora-feat-Number.html">Number</a></tt> (92372; 92% instances), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt> (88482; 88% instances), <tt><a href="es_ancora-feat-Foreign.html">Foreign</a></tt> (18; 0% instances), <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt> (11; 0% instances)
 
-`NOUN` occurs with 10 feature-value pairs: `AdvType=Tim`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `PunctType=Comm`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
+`NOUN` occurs with 8 feature-value pairs: `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
 
-`NOUN` occurs with 20 feature combinations.
-The most frequent feature combination is `Gender=Masc|Number=Sing` (31434 tokens).
+`NOUN` occurs with 17 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Sing` (31435 tokens).
 Examples: <em>presidente, equipo, partido, país, año, ministro, mundo, grupo, día, caso</em>
 
 

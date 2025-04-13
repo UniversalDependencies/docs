@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 * `Neg` (9; 75% of non-empty `Polarity`): <em>no</em>
 * `Pos` (3; 25% of non-empty `Polarity`): <em>sì</em>
-* `EMPTY` (10859): <em>non, più, anche, solo, così, già, ancora, ieri, poi, sempre</em>
+* `EMPTY` (10860): <em>non, più, anche, solo, così, già, ancora, ieri, poi, sempre</em>
 
 ### `NOUN`
 

@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 16	nebus	nebūti	VERB	vksm.asm.neig.tiesiog.būs.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin	4	conj	0:root|4:conj	SpaceAfter=No
 17	,	,	PUNCT	skyr.	_	19	punct	19:punct	_
 18	kaip	kaip	SCONJ	jng.	_	19	mark	19:mark	_
-19	vykdymas	vykdymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	16	obl	16:obl:kaip:nom	_
+19	vykdymas	vykdymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	16	obl	16:obl:kaip	_
 20	jų	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	21	nmod	21:nmod:gen	_
 21	idealo	idealas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	19	obl:arg	19:obl:arg:gen	_
 22	!..	!..	PUNCT	skyr.	_	4	punct	4:punct	_

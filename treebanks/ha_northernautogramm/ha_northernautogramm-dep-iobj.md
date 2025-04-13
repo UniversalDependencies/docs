@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-38 nodes (1%) are attached to their parents as `iobj`.
+41 nodes (1%) are attached to their parents as `iobj`.
 
-38 instances of `iobj` (100%) are left-to-right (parent precedes child).
+41 instances of `iobj` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (38; 100% instances).
+The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (41; 100% instances).
 
 
 ~~~ conllu

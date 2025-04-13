@@ -79,7 +79,7 @@ The following 3 pairs of parts of speech are connected with `advcl:eval`: <tt><a
 8	кудосто	кудо	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	12	obl	_	CGdephead=#8-&gt;12|CGdeprel=@ADVL&gt;|GTtags=SP,Ela,Indef
 9	ажия	ажия	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	12	obl	_	CGdephead=#9-&gt;10|CGdeprel=@&gt;P|GTtags=Sg,Nom,Indef
 10	марто	марто	ADP	Po	AdpType=Post	9	case	_	CGdephead=#10-&gt;12|CGdeprel=@ADVL&gt;|GTtags=Po
-11	а	а	AUX	V	Polarity=Neg|VerbType=Aux	12	aux:neg	_	CGdephead=#11-&gt;11|CGdeprel=@-FAUXV&gt;|GTtags=Aux,Neg
+11	а	а	AUX	V	Polarity=Neg|VerbType=Aux	12	aux	_	CGdephead=#11-&gt;11|CGdeprel=@-FAUXV&gt;|GTtags=Aux,Neg
 12	лисиндеряволь	лисемс	VERB	V	Mood=CndSub|Number[subj]=Sing|Person[subj]=3	3	conj	_	CGdephead=#12-&gt;3|CGdeprel=@FMV|GTtags=IV,Der/Cond,V,Conj,ScSg3
 13	Кечас	Кечас	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	12	nsubj	_	CGdephead=#13-&gt;12|CGdeprel=@&lt;SUBJ|GTtags=Prop,Sg,Nom,Indef|SpaceAfter=No
 14	,	,	PUNCT	CLB	_	16	punct	_	CGdephead=#14-&gt;13|CGdeprel=@CLB|GTtags=CLB

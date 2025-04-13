@@ -51,4 +51,4 @@ It is used to signal that the utterer of the sentence has not witnessed the even
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:56 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:40 CET -->

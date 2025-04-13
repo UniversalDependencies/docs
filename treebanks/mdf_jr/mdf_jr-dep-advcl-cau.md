@@ -25,7 +25,7 @@ The following 2 pairs of parts of speech are connected with `advcl:cau`: <tt><a 
 # visual-style 8 7 advcl:cau	color:blue
 1	Аф	аф	INTJ	Interj	Polarity=Neg	4	discourse	_	GTtags=Neg|SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	_	_
-3	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	4	aux:neg	_	GTtags=Aux,Neg
+3	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	4	aux	_	GTtags=Aux,Neg
 4	эрявихть	эрявомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,ScPl3
 5	Луканди	Лука	NOUN	N	Case=Dat|Definite=Ind|Number=Plur,Sing	4	obl	_	GTtags=Prop,SP,Dat,Indef
 6	войнаса	война	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	7	obl:lmod	_	GTtags=SP,Ine,Indef

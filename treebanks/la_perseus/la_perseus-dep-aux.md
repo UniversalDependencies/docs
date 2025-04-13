@@ -29,7 +29,7 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 4	providendum	provideo	VERB	v-s-g-nn-	Aspect=Prosp|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	TraditionalMood=Gerundivum
 5	est	sum	AUX	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	LId=edo1|TraditionalMood=Indicativus|TraditionalTense=Praesens
 6	ne	ne	SCONJ	d--------	_	10	mark	_	LId=ne1
-7	etiam	etiam	ADV	c--------	_	8	advmod	_	_
+7	etiam	etiam	ADV	c--------	_	8	advmod:emph	_	_
 8	a	ab	ADP	r--------	_	9	case	_	_
 9	bonis	bonus	ADJ	a-p---mb-	Case=Abl|Gender=Masc|Number=Plur	10	obl	_	_
 10	desideretur	desidero	VERB	v3spsp---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	csubj:pass	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens

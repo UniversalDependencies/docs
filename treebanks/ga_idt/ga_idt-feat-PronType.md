@@ -9,36 +9,36 @@ udver: '2'
 This feature is universal but the values `Emp` are language-specific.
 It occurs with 7 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Prs`, `Rel`.
 
-15016 tokens (13%) have a non-empty value of `PronType`.
-178 types (1%) occur at least once with a non-empty value of `PronType`.
-67 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (8951; 8% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (2309; 2% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (2139; 2% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (854; 1% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (598; 1% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (124; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (41; 0% instances).
+15034 tokens (13%) have a non-empty value of `PronType`.
+179 types (1%) occur at least once with a non-empty value of `PronType`.
+68 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 7 part-of-speech tags: <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (8953; 8% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (2317; 2% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (2139; 2% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (862; 1% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (598; 1% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (124; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (41; 0% instances).
 
 ### `DET`
 
-8951 <tt><a href="ga_idt-pos-DET.html">DET</a></tt> tokens (87% of all `DET` tokens) have a non-empty value of `PronType`.
+8953 <tt><a href="ga_idt-pos-DET.html">DET</a></tt> tokens (87% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8951; 100%), <tt><a href="ga_idt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (8951; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (7263; 81%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7068; 79%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6614; 74%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5723; 64%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8953; 100%), <tt><a href="ga_idt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (8953; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (7265; 81%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7067; 79%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6611; 74%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5723; 64%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (7263; 81% of non-empty `PronType`): <em>an, na, a, a', 'n, 'na, un</em>
+* `Art` (7265; 81% of non-empty `PronType`): <em>an, na, a, a', 'n, 'na, un</em>
 * `Dem` (1325; 15% of non-empty `PronType`): <em>seo, sin, eile, úd, san, so, s', siúd, siud</em>
 * `Ind` (363; 4% of non-empty `PronType`): <em>aon, uile, cibé, uilig, t-aon, haon, n-uile</em>
-* `EMPTY` (1331): <em>a, gach, do, mo, d', ár, ngach, chuile, m', achan</em>
+* `EMPTY` (1334): <em>a, gach, do, mo, d', ár, ngach, chuile, m', achan</em>
 
 `PronType` seems to be **lexical feature** of `DET`. 100% lemmas (10) occur only with one value of `PronType`.
 
 ### `PART`
 
-2309 <tt><a href="ga_idt-pos-PART.html">PART</a></tt> tokens (33% of all `PART` tokens) have a non-empty value of `PronType`.
+2317 <tt><a href="ga_idt-pos-PART.html">PART</a></tt> tokens (33% of all `PART` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PART` and `PronType` co-occurred: <tt><a href="ga_idt-feat-PartType.html">PartType</a></tt><tt>=Vb</tt> (2152; 93%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Direct</tt> (1835; 79%).
+The most frequent other feature values with which `PART` and `PronType` co-occurred: <tt><a href="ga_idt-feat-PartType.html">PartType</a></tt><tt>=Vb</tt> (2160; 93%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Direct</tt> (1839; 79%).
 
 `PART` tokens may have the following values of `PronType`:
 
-* `Rel` (2309; 100% of non-empty `PronType`): <em>a, ina, nach, lena, ar, dá, inar, nár, faoina, ná</em>
-* `EMPTY` (4669): <em>a, go, ní, d', níos, nach, is, ó, gur, níor</em>
+* `Rel` (2317; 100% of non-empty `PronType`): <em>a, ina, nach, lena, ar, dá, inar, nár, faoina, ná</em>
+* `EMPTY` (4659): <em>a, go, ní, d', níos, nach, is, ó, gur, níor</em>
 
 ### `ADP`
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `ADP` and `PronType` co-occurr
 * `Emp` (54; 3% of non-empty `PronType`): <em>againne, domsa, agamsa, leatsa, liomsa, duitse, ormsa, agatsa, daoibhse, domhsa</em>
 * `Prs` (207; 10% of non-empty `PronType`): <em>á, dhá</em>
 * `Rel` (12; 1% of non-empty `PronType`): <em>dá, faoina, lenar</em>
-* `EMPTY` (16141): <em>ar, i, ag, le, de, leis, chun, do, in, mar</em>
+* `EMPTY` (16137): <em>ar, i, ag, le, de, leis, chun, do, in, mar</em>
 
 <table>
   <tr><th>Paradigm <i>do</i></th><th><tt>Prs</tt></th><th><tt>Art</tt></th><th><tt>Emp</tt></th></tr>
@@ -73,20 +73,20 @@ The most frequent other feature values with which `ADP` and `PronType` co-occurr
 
 ### `PRON`
 
-854 <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> tokens (24% of all `PRON` tokens) have a non-empty value of `PronType`.
+862 <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> tokens (24% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (820; 96%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (780; 91%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (738; 86%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (828; 96%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (788; 91%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (746; 87%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (604; 71% of non-empty `PronType`): <em>sin, seo, siúd, shin, san, hin, in, eo, iúd, shoin</em>
+* `Dem` (604; 70% of non-empty `PronType`): <em>sin, seo, siúd, shin, san, hin, in, eo, iúd, shoin</em>
 * `Emp` (74; 9% of non-empty `PronType`): <em>mise, seisean, tusa, eisean, sise, ise, siadsan, iadsan, sinne</em>
 * `Ind` (19; 2% of non-empty `PronType`): <em>pé, ceachtar, cibé, cheachtar</em>
-* `Int` (128; 15% of non-empty `PronType`): <em>cad, cé, céard, cén, c, cér, cérbh</em>
+* `Int` (136; 16% of non-empty `PronType`): <em>cad, cé, céard, cén, c, Caidé, cér, cérbh</em>
 * `Rel` (29; 3% of non-empty `PronType`): <em>a, ar</em>
-* `EMPTY` (2767): <em>sé, é, féin, iad, siad, sí, mé, í, tú, muid</em>
+* `EMPTY` (2759): <em>sé, é, féin, iad, siad, sí, mé, í, tú, muid</em>
 
-`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (30) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (31) occur only with one value of `PronType`.
 
 ### `VERB`
 
@@ -97,7 +97,7 @@ The most frequent other feature values with which `VERB` and `PronType` co-occur
 `VERB` tokens may have the following values of `PronType`:
 
 * `Rel` (598; 100% of non-empty `PronType`): <em>atá, leanas, bheas, atáim, atáthar, eireos, fholmhaíos, tharlós, ata, atáid</em>
-* `EMPTY` (8170): <em>tá, bhí, bhfuil, raibh, beidh, bheidh, mbeadh, níl, mbeidh, thug</em>
+* `EMPTY` (8177): <em>tá, bhí, bhfuil, raibh, beidh, bheidh, mbeadh, níl, mbeidh, thug</em>
 
 `PronType` seems to be **lexical feature** of `VERB`. 100% lemmas (18) occur only with one value of `PronType`.
 
@@ -111,7 +111,7 @@ The most frequent other feature values with which `AUX` and `PronType` co-occurr
 
 * `Dem` (5; 4% of non-empty `PronType`): <em>sin, seo</em>
 * `Rel` (119; 96% of non-empty `PronType`): <em>is, nach, ba, ab, nár, ar, nárbh, inar, nách</em>
-* `EMPTY` (1431): <em>is, ní, ba, gur, b', ar, nach, gurb, an, gurbh</em>
+* `EMPTY` (1433): <em>is, ní, ba, gur, b', ar, nach, gurb, an, gurbh</em>
 
 <table>
   <tr><th>Paradigm <i>is</i></th><th><tt>Rel</tt></th><th><tt>Dem</tt></th></tr>
@@ -130,7 +130,7 @@ The most frequent other feature values with which `AUX` and `PronType` co-occurr
 `ADV` tokens may have the following values of `PronType`:
 
 * `Int` (41; 100% of non-empty `PronType`): <em>conas, cá, Cár</em>
-* `EMPTY` (1846): <em>amach, chomh, anois, freisin, isteach, síos, ansin, anseo, fós, laistigh</em>
+* `EMPTY` (1845): <em>amach, chomh, anois, freisin, isteach, síos, ansin, anseo, fós, laistigh</em>
 
 ## Relations with Agreement in `PronType`
 

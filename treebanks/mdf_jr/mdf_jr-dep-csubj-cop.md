@@ -61,11 +61,11 @@ The following 2 pairs of parts of speech are connected with `csubj:cop`: <tt><a 
 12	юмандяряй	юмамс	VERB	V	Derivation=Cond|Mood=Ind|Number[subj]=Sing|Person[subj]=3	20	advcl	_	GTtags=Cond,ScSg3|SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	эста	эста	ADV	Adv	AdvType=Tim	20	advmod:tmod	_	GTtags=Sem/Time
-15	сонь	сон	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	16	det	_	GTtags=Pers,Sg3,Gen
+15	сонь	сон	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	16	nmod:poss	_	GTtags=Pers,Sg3,Gen
 16	вастозонза	васта	NOUN	N	Case=Ill|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=3	20	obl	_	GTtags=SP,Ill,PxSg3
 17	од	од	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	18	amod	_	GTtags=Sg,Nom,Indef
 18	квитанция	квитанция	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	20	obj	_	GTtags=Sg,Nom,Indef
-19	аф	аф	AUX	_	Polarity=Neg|VerbType=Aux	20	aux:neg	_	GTtags=Aux,Neg
+19	аф	аф	AUX	_	Polarity=Neg|VerbType=Aux	20	aux	_	GTtags=Aux,Neg
 20	максыхть	максомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	7	conj	_	GTtags=Ind,Prs,ScPl3|SpaceAfter=No
 21	.	.	PUNCT	_	_	7	punct	_	_
 

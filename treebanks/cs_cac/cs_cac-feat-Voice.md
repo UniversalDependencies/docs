@@ -31,7 +31,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 13313 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (12223; 92%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10492; 79%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10490; 79%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10490; 79%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (9370; 70%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9307; 70%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9055; 68%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (13313; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (12223; 92%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10492; 79%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10490; 79%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10490; 79%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (9370; 70%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9307; 70%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9055; 68%).
 
 `AUX` tokens may have the following values of `Voice`:
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 12193 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (16% of all `ADJ` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (12193; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11913; 98%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7270; 60%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (6409; 53%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6272; 51%).
+The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (12193; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11913; 98%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (9990; 82%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7270; 60%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6272; 51%).
 
 `ADJ` tokens may have the following values of `Voice`:
 

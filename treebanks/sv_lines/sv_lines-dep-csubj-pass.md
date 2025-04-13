@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_Swedish-LinES: Relations: `csubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="sv_lines-dep-csubj.html">csubj</a></tt>.
-There are also 1 other language-specific subtypes of `csubj`: <tt><a href="sv_lines-dep-csubj-outer.html">csubj:outer</a></tt>.
 
 8 nodes (0%) are attached to their parents as `csubj:pass`.
 
@@ -40,7 +39,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 15	skulle	skola	AUX	PAST-AUX	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	16	aux	_	_
 16	gå	gå	VERB	INF-ACT	VerbForm=Inf|Voice=Act	8	advcl	_	_
 17	på	på	ADP	_	_	18	case	_	_
-18	tok	tok	NOUN	SG-IND	_	16	obl	_	SpaceAfter=No
+18	tok	tok	NOUN	SG-IND	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	16	obl	_	SpaceAfter=No
 19	.	.	PUNCT	Period	_	2	punct	_	_
 
 ~~~

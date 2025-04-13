@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Livvi-KKPP: POS Tags: `AUX`
 
 There are 6 `AUX` lemmas (1%), 20 `AUX` types (3%) and 70 `AUX` tokens (4%).
-Out of 14 observed tags, the rank of `AUX` is: 10 in number of lemmas, 7 in number of types and 9 in number of tokens.
+Out of 14 observed tags, the rank of `AUX` is: 11 in number of lemmas, 7 in number of types and 9 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>olla, ei, voija, pidiä, rotie, suaha</em>
 
@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>oli</em> (<tt><a href="olo_kkpp-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.333333 (the average of all parts of speech is 1.338462).
+The form / lemma ratio of `AUX` is 3.333333 (the average of all parts of speech is 1.335034).
 
 The 1st highest number of forms (8) was observed with the lemma “olla”: <em>Ongo, ole, olen, oli, olis, ollah, olles, on</em>.
 

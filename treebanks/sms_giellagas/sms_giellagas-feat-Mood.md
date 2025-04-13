@@ -73,13 +73,13 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> VERB</tt> (251; 89%),
-<tt>VERB --[<tt><a href="sms_giellagas-dep-aux-neg.html">aux:neg</a></tt>]--> AUX</tt> (24; 62%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (20; 51%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (8; 62%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> AUX</tt> (6; 100%),
 <tt>AUX --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 100%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-advcl-tcl.html">advcl:tcl</a></tt>]--> VERB</tt> (3; 60%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (3; 75%),
-<tt>AUX --[<tt><a href="sms_giellagas-dep-aux-neg.html">aux:neg</a></tt>]--> AUX</tt> (2; 100%),
-<tt>VERB --[<tt><a href="sms_giellagas-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 100%).
+<tt>AUX --[<tt><a href="sms_giellagas-dep-aux.html">aux</a></tt>]--> AUX</tt> (2; 67%),
+<tt>VERB --[<tt><a href="sms_giellagas-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<tt><a href="sms_giellagas-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (2; 100%).
 

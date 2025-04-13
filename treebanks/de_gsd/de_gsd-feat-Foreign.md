@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (2068; 100% of non-empty `Foreign`): <em>of, de, la, University, d', for, di, a, do, du</em>
-* `EMPTY` (28369): <em>Deutschland, US, Berlin, SPD, St., Oktober, Frankreich, August, New, Mai</em>
+* `EMPTY` (28351): <em>Deutschland, US, Berlin, SPD, St., Oktober, Frankreich, August, New, Mai</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (1359) occur only with one value of `Foreign`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (106; 100% of non-empty `Foreign`): <em>Bass, Top, facto, Arrondissement, Love, name, Armée, Atun, Banking, Chief</em>
-* `EMPTY` (52176): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52191): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (94) occur only with one value of `Foreign`.
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `X` and `Foreign` co-occurred:
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (85; 100% of non-empty `Foreign`): <em>'s, i, to, be, ???, ????, ?????, ???????, All, Bottom</em>
-* `EMPTY` (229): <em>B., u.a., %, etc., z.B., z., †, a, u, z</em>
+* `EMPTY` (228): <em>B., u.a., %, etc., z.B., z., †, a, u, z</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (56) occur only with one value of `Foreign`.
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (38; 100% of non-empty `Foreign`): <em>top, New, Strange, Associate, Catholic, Civil, Communist, Deep, Dry, Independent</em>
-* `EMPTY` (20604): <em>ersten, später, erste, weitere, neue, zweiten, bekannt, neuen, großen, große</em>
+* `EMPTY` (21701): <em>ersten, später, erste, gut, weitere, neue, bekannt, zweiten, neuen, großen</em>
 
 `Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (31) occur only with one value of `Foreign`.
 
@@ -117,7 +117,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (13; 100% of non-empty `Foreign`): <em>Had, Logon, Need, anschloss, batian, batt, loved, meln, sang, shines</em>
-* `EMPTY` (20634): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
+* `EMPTY` (20631): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
 
 `Foreign` seems to be **lexical feature** of `VERB`. 100% lemmas (13) occur only with one value of `Foreign`.
 
@@ -130,7 +130,7 @@ The most frequent other feature values with which `AUX` and `Foreign` co-occurre
 `AUX` tokens may have the following values of `Foreign`:
 
 * `Yes` (12; 100% of non-empty `Foreign`): <em>is, 're, 's, Are</em>
-* `EMPTY` (10650): <em>ist, wurde, war, sind, werden, wird, wurden, kann, hat, waren</em>
+* `EMPTY` (10653): <em>ist, wurde, war, sind, werden, wird, wurden, kann, hat, waren</em>
 
 ### `ADV`
 
@@ -139,7 +139,7 @@ The most frequent other feature values with which `AUX` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (10; 100% of non-empty `Foreign`): <em>When, How, Please, always, ca, socially, up, wahnsinning, yonder</em>
-* `EMPTY` (14969): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
+* `EMPTY` (13874): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
 ### `PART`
 
@@ -168,7 +168,7 @@ The most frequent other feature values with which `PART` and `Foreign` co-occurr
 `SYM` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>&</em>
-* `EMPTY` (98): <em>&, =, /, ×, %, +, °, *, :-), €</em>
+* `EMPTY` (99): <em>&, =, /, %, ×, +, °, *, :-), €</em>
 
 ## Relations with Agreement in `Foreign`
 

@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Irish-Cadhan: POS Tags: `SCONJ`
 
-There are 16 `SCONJ` lemmas (1%), 32 `SCONJ` types (2%) and 74 `SCONJ` tokens (2%).
-Out of 16 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 11 in number of types and 13 in number of tokens.
+There are 15 `SCONJ` lemmas (1%), 31 `SCONJ` types (2%) and 73 `SCONJ` tokens (2%).
+Out of 15 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 11 in number of types and 13 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>mar, dá, nuair, óir, agus, má, cé, mura, ach, ó</em>
 
 The 10 most frequent `SCONJ` types:  <em>mar, nuair, oír, agus, da, dá, muna, má, 's, ach</em>
 
-The 10 most frequent ambiguous lemmas: <em>mar</em> (<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 6), <em>dá</em> (<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 1), <em>agus</em> (<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> 159, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 7), <em>cé</em> (<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 9, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 5), <em>ach</em> (<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> 18, <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 4, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> 1), <em>ó</em> (<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 36, <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 5, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 4), <em>chun</em> (<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 12, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 2), <em>go</em> (<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 43, <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 16, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> 1), <em>ná</em> (<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> 12, <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 3, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 1), <em>tan</em> (<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>mar</em> (<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 6), <em>dá</em> (<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 1), <em>agus</em> (<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> 159, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 7), <em>cé</em> (<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 9, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 5), <em>ach</em> (<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> 18, <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 4, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> 1), <em>ó</em> (<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 36, <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 5, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 4), <em>chun</em> (<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 12, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 2), <em>go</em> (<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 43, <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 16, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> 1), <em>ná</em> (<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> 12, <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 3, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>mar</em> (<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 6), <em>agus</em> (<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> 118, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 3), <em>da</em> (<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 6, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 2), <em>dá</em> (<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 4, <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 2, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt> 1), <em>muna</em> (<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="ga_cadhan-pos-AUX.html">AUX</a></tt> 1), <em>'s</em> (<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> 18, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 1, <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 1), <em>ach</em> (<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 1), <em>cé</em> (<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> 3, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 2), <em>dochum</em> (<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 8, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 2), <em>gu</em> (<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> 10, <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> 1)
 
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>mar</em> (<tt><a href="ga_cadhan-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 2.000000 (the average of all parts of speech is 1.659916).
+The form / lemma ratio of `SCONJ` is 2.066667 (the average of all parts of speech is 1.662997).
 
 The 1st highest number of forms (4) was observed with the lemma “cé”: <em>Gidh, Giodh, cé, gé</em>.
 
@@ -66,32 +66,28 @@ The 2nd highest number of forms (3) was observed with the lemma “ach”: <em>A
 
 The 3rd highest number of forms (3) was observed with the lemma “agus”: <em>'s, agus, is</em>.
 
-`SCONJ` occurs with 2 features: <tt><a href="ga_cadhan-feat-VerbForm.html">VerbForm</a></tt> (3; 4% instances), <tt><a href="ga_cadhan-feat-Form.html">Form</a></tt> (1; 1% instances)
+`SCONJ` occurs with 3 features: <tt><a href="ga_cadhan-feat-VerbForm.html">VerbForm</a></tt> (3; 4% instances), <tt><a href="ga_cadhan-feat-Form.html">Form</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-feat-Typo.html">Typo</a></tt> (1; 1% instances)
 
-`SCONJ` occurs with 2 feature-value pairs: `Form=Len`, `VerbForm=Cop`
+`SCONJ` occurs with 3 feature-value pairs: `Form=Len`, `Typo=Yes`, `VerbForm=Cop`
 
-`SCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (70 tokens).
-Examples: <em>mar, nuair, oír, agus, da, dá, muna, má, 's, ach</em>
+`SCONJ` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (68 tokens).
+Examples: <em>mar, nuair, oír, agus, dá, muna, má, da, 's, ach</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="ga_cadhan-dep-mark.html">mark</a></tt> (67; 91% instances), <tt><a href="ga_cadhan-dep-cc.html">cc</a></tt> (3; 4% instances), <tt><a href="ga_cadhan-dep-mark-prt.html">mark:prt</a></tt> (2; 3% instances), <tt><a href="ga_cadhan-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-dep-obl.html">obl</a></tt> (1; 1% instances)
+`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="ga_cadhan-dep-mark.html">mark</a></tt> (67; 92% instances), <tt><a href="ga_cadhan-dep-cc.html">cc</a></tt> (3; 4% instances), <tt><a href="ga_cadhan-dep-mark-prt.html">mark:prt</a></tt> (2; 3% instances), <tt><a href="ga_cadhan-dep-case.html">case</a></tt> (1; 1% instances)
 
-Parents of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (53; 72% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (11; 15% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (5; 7% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="ga_cadhan-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (1; 1% instances)
+Parents of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (52; 71% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (11; 15% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (5; 7% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="ga_cadhan-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (1; 1% instances)
 
-70 (95%) `SCONJ` nodes are leaves.
+70 (96%) `SCONJ` nodes are leaves.
 
 3 (4%) `SCONJ` nodes have one child.
 
-0 (0%) `SCONJ` nodes have two children.
+The highest child degree of a `SCONJ` node is 1.
 
-1 (1%) `SCONJ` nodes have three or more children.
+Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="ga_cadhan-dep-punct.html">punct</a></tt> (2; 67% instances), <tt><a href="ga_cadhan-dep-fixed.html">fixed</a></tt> (1; 33% instances)
 
-The highest child degree of a `SCONJ` node is 3.
-
-Children of `SCONJ` nodes are attached using 4 different relations: <tt><a href="ga_cadhan-dep-punct.html">punct</a></tt> (3; 50% instances), <tt><a href="ga_cadhan-dep-acl-relcl.html">acl:relcl</a></tt> (1; 17% instances), <tt><a href="ga_cadhan-dep-det.html">det</a></tt> (1; 17% instances), <tt><a href="ga_cadhan-dep-fixed.html">fixed</a></tt> (1; 17% instances)
-
-Children of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="ga_cadhan-pos-PUNCT.html">PUNCT</a></tt> (3; 50% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 17% instances), <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (1; 17% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (1; 17% instances)
+Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="ga_cadhan-pos-PUNCT.html">PUNCT</a></tt> (2; 67% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 33% instances)
 

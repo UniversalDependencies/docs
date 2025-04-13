@@ -47,17 +47,17 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 nsubj:pass	color:blue
-1	עשור	עשור	NOUN	NOUN	Gender=Masc|Number=Sing	4	obl:tmod	_	_
+1	עשור	עשור	NOUN	NOUN	Gender=Masc|Number=Sing	4	obl:unmarked	_	TemporalNPAdjunct=Yes
 2	לאחר	לאחר	ADP	ADP	_	4	case	_	_
 3	מ	מ	ADP	ADP	_	4	case	_	_
 4	כן	כן	ADV	ADV	_	10	advmod	_	_
 5	,	,	PUNCT	PUNCT	_	4	punct	_	_
 6	ב	ב	ADP	ADP	_	8	case	_	SpaceAfter=No
 7	-	-	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No
-8	2012	2012	NUM	NUM	_	10	obl	_	SpaceAfter=No
+8	2012	2012	NUM	NUM	_	10	obl	_	Entity=(TIMEX)|SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	8	punct	_	_
 10	נידון	נידון	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
-11	רביזדה	רביזדה	PROPN	PROPN	_	10	nsubj:pass	_	_
+11	רביזדה	רביזדה	PROPN	PROPN	_	10	nsubj:pass	_	Entity=(PER)
 12	ל	ל	ADP	ADP	_	14	case	_	_
 13	שבע	שבע	NUM	NUM	Gender=Fem|NumType=Card	14	nummod	_	_
 14	שנות	שנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	10	obl	_	_

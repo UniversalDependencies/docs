@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>ni</em> (<tt><a href="cs_poetry-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.066667 (the average of all parts of speech is 1.400206).
+The form / lemma ratio of `CCONJ` is 1.066667 (the average of all parts of speech is 1.400929).
 
 The 1st highest number of forms (2) was observed with the lemma “ani”: <em>ani, ni</em>.
 
@@ -40,17 +40,21 @@ The 3rd highest number of forms (1) was observed with the lemma “ale”: <em>a
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="cs_poetry-dep-cc.html">cc</a></tt> (208; 76% instances), <tt><a href="cs_poetry-dep-advmod-emph.html">advmod:emph</a></tt> (60; 22% instances), <tt><a href="cs_poetry-dep-discourse.html">discourse</a></tt> (2; 1% instances), <tt><a href="cs_poetry-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="cs_poetry-dep-mark.html">mark</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="cs_poetry-dep-cc.html">cc</a></tt> (208; 76% instances), <tt><a href="cs_poetry-dep-advmod-emph.html">advmod:emph</a></tt> (57; 21% instances), <tt><a href="cs_poetry-dep-root.html">root</a></tt> (3; 1% instances), <tt><a href="cs_poetry-dep-discourse.html">discourse</a></tt> (2; 1% instances), <tt><a href="cs_poetry-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="cs_poetry-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 7 different parts of speech: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (142; 52% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (87; 32% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (17; 6% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (10; 4% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (8; 3% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (3; 1% instances)
+Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (142; 52% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (88; 32% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (17; 6% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (10; 4% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (8; 3% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (3; 1% instances),  (3; 1% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
-270 (99%) `CCONJ` nodes are leaves.
+268 (99%) `CCONJ` nodes are leaves.
 
-2 (1%) `CCONJ` nodes have one child.
+1 (0%) `CCONJ` nodes have one child.
 
-The highest child degree of a `CCONJ` node is 1.
+0 (0%) `CCONJ` nodes have two children.
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="cs_poetry-dep-fixed.html">fixed</a></tt> (1; 50% instances), <tt><a href="cs_poetry-dep-punct.html">punct</a></tt> (1; 50% instances)
+3 (1%) `CCONJ` nodes have three or more children.
 
-Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="cs_poetry-pos-PUNCT.html">PUNCT</a></tt> (1; 50% instances), <tt><a href="cs_poetry-pos-SCONJ.html">SCONJ</a></tt> (1; 50% instances)
+The highest child degree of a `CCONJ` node is 6.
+
+Children of `CCONJ` nodes are attached using 8 different relations: <tt><a href="cs_poetry-dep-cop.html">cop</a></tt> (3; 19% instances), <tt><a href="cs_poetry-dep-nsubj.html">nsubj</a></tt> (3; 19% instances), <tt><a href="cs_poetry-dep-punct.html">punct</a></tt> (3; 19% instances), <tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt> (2; 13% instances), <tt><a href="cs_poetry-dep-obl.html">obl</a></tt> (2; 13% instances), <tt><a href="cs_poetry-dep-advmod.html">advmod</a></tt> (1; 6% instances), <tt><a href="cs_poetry-dep-fixed.html">fixed</a></tt> (1; 6% instances), <tt><a href="cs_poetry-dep-obl-arg.html">obl:arg</a></tt> (1; 6% instances)
+
+Children of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (4; 25% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (3; 19% instances), <tt><a href="cs_poetry-pos-PUNCT.html">PUNCT</a></tt> (3; 19% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (1; 6% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="cs_poetry-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances), <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (1; 6% instances)
 

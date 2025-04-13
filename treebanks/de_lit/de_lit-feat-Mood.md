@@ -38,5 +38,5 @@ The feature is used with 2 part-of-speech tags: <tt><a href="de_lit-pos-AUX.html
 * `Imp` (1; 17% of non-empty `Mood`): <em>Ehre</em>
 * `Ind` (2; 33% of non-empty `Mood`): <em>fait, strömt</em>
 * `Sub` (3; 50% of non-empty `Mood`): <em>erfolge, leben, wohlgehe</em>
-* `EMPTY` (3097): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
+* `EMPTY` (3088): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
 

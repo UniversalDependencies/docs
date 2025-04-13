@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>Gobierno</em> (<tt><a href="es_ancora
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.004939 (the average of all parts of speech is 1.505790).
+The form / lemma ratio of `PROPN` is 1.004939 (the average of all parts of speech is 1.505808).
 
 The 1st highest number of forms (2) was observed with the lemma “Alavés”: <em>ALAVÉS, Alavés</em>.
 
@@ -59,12 +59,12 @@ The 2nd highest number of forms (2) was observed with the lemma “Alou”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “Andalucía”: <em>ANDALUCÍA, Andalucía</em>.
 
-`PROPN` occurs with 3 features: <tt><a href="es_ancora-feat-Foreign.html">Foreign</a></tt> (8; 0% instances), <tt><a href="es_ancora-feat-Number.html">Number</a></tt> (4; 0% instances), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt> (2; 0% instances)
+`PROPN` occurs with 4 features: <tt><a href="es_ancora-feat-Foreign.html">Foreign</a></tt> (9; 0% instances), <tt><a href="es_ancora-feat-Number.html">Number</a></tt> (4; 0% instances), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt> (2; 0% instances), <tt><a href="es_ancora-feat-Abbr.html">Abbr</a></tt> (1; 0% instances)
 
-`PROPN` occurs with 4 feature-value pairs: `Foreign=Yes`, `Gender=Fem`, `Number=Plur`, `Number=Sing`
+`PROPN` occurs with 5 feature-value pairs: `Abbr=Yes`, `Foreign=Yes`, `Gender=Fem`, `Number=Plur`, `Number=Sing`
 
-`PROPN` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (42381 tokens).
+`PROPN` occurs with 6 feature combinations.
+The most frequent feature combination is `_` (42380 tokens).
 Examples: <em>Gobierno, España, Madrid, Barcelona, José, Estado, PP, Juan, Nacional, Estados</em>
 
 

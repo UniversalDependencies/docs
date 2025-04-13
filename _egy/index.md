@@ -14,7 +14,7 @@ This is an overview based on the works cited in the README bibliography. Please 
 Egyptian comprises two main stages, Earlier Egyptian, which includes Old Egyptian and Middle Egyptian, and Later Egyptian, which includes Late Egyptian, Demotic and Coptic (for the latter see the Language Page for [Coptic](https://universaldependencies.org/cop/index.html) in UD). Earlier Egyptian is characterized by a synthetic syntax and Later Egyptian by an analytic syntax. In general, hieroglyphic and hieratic script were used for Old Egyptian, Middle Egyptian and Late Egyptian, while Demotic was written in demotic. In these scripts no blanks were used between words.
 
 
-## Tokenization and Word Segmentation 
+## Tokenization and Word Segmentation
 
 Egyptian texts are annotated with transcription characters. The Egyptian-UJaen treebank uses the Tübingen transcription system (see README). Classifiers are not annotated in the transcription of Egyptian texts because they have no phonetic value or because they repeat sounds expressed in the word, as phonetic classifiers do.
 
@@ -35,7 +35,7 @@ The 17 [Universal POS](https://universaldependencies.org/u/pos/index.html) categ
   * Old Egyptian and Middle Egyptian: There were a few primary adjectives, for example _nb_ “every”, “all”. Most of them were deverbal adjectives such as _nfr_ “good” and nisba adjectives such as _n.i҆_ “belonging to”, derived from the preposition _n_ “for”. In attributive use, adjectives usually agreed in gender and number with the noun they follow.
   * Late Egyptian: Primary adjectives increased, while nisba adjectives were less productive than in earlier stages. Late Egyptian adjectives were usually derived from verbs. In attributive use they no longer agreed with their antecedents.
  * Demotic: The number of adjectives was smaller than in earlier stages of Egyptian. They were often replaced by a genitive construction. Demotic adjectives usually had the same gender as the noun they followed. Agreement in number of nouns and adjectives was rare.
-2. Adverb ([ADV](https://universaldependencies.org/u/pos/ADV.html)): 
+2. Adverb ([ADV](https://universaldependencies.org/u/pos/ADV.html)):
  * Old Egyptian, Middle Egyptian and Late Egyptian: The use of adverbs such as _i҆m_ “there” was rare. Instead, adpositions ([ADP](https://universaldependencies.org/u/pos/ADP.html)s) were usually used, consisting of a preposition and a noun phrase. Adverbs generally occurred at the end of a sentence.
  * Demotic: The use of adverbs was more common than in earlier stages of Egyptian. Demotic adverbs fell into three general categories: quality, place and time.
 3. Interjection ([INTJ](https://universaldependencies.org/u/pos/INTJ.html)):
@@ -44,9 +44,9 @@ The 17 [Universal POS](https://universaldependencies.org/u/pos/index.html) categ
  * Old Egyptian and Middle Egyptian: Nouns had no cases. There were two genders, masculine and feminine. The ending _t_ was used not only to mark the feminine gender but also to form the neuter gender, especially in participles and relative forms, for example _nfr.t_ “that which is good” i.e. “(the) good”. In addition, there were three numbers, singular, plural, and dual.
  * Late Egyptian: As in Earlier Egyptian, the noun had two genders, masculine and feminine and the ending _t_ was used to mark the feminine gender. Contrary to Earlier Egyptian, the neuter gender was expressed with the masculine form. The noun had only two numbers, singular and plural. The dual forms were rare and just like the plural.
  * Demotic: As in earlier stages of Egyptian, the noun had two genders, masculine and feminine. Although the ending _t_ was usually used in feminine nouns, it was only a graphic convention for it was not pronounced. The neuter gender was usually expressed with the feminine form. The noun had only two numbers, singular and plural.
-5. Proper Noun ([PROPN](https://universaldependencies.org/u/pos/PROPN.html)): 
- * All stages of Egyptian: Names of deities, kings and place names are annotated as [PROPN](https://universaldependencies.org/u/pos/PROPN.html). 
-6. Verb ([VERB](https://universaldependencies.org/u/pos/VERB.html)): 
+5. Proper Noun ([PROPN](https://universaldependencies.org/u/pos/PROPN.html)):
+ * All stages of Egyptian: Names of deities, kings and place names are annotated as [PROPN](https://universaldependencies.org/u/pos/PROPN.html).
+6. Verb ([VERB](https://universaldependencies.org/u/pos/VERB.html)):
  * Old Egyptian and Middle Egyptian: There were two verb conjugations, the “suffix pronoun conjugation” (SPC) and the “Old Semitic suffix conjugation” (OSSC). The SPC needed a noun or a suffix pronoun as a subject in a similar way as non-pro-drop languages, such as English. Most of the exceptions to this rule were due to phonographic reasons. The OSSC consisted of personal endings added to the verb stem similar to the verbs of pro-drop languages, such as Spanish.
    The SPC was based on a system of tenses: the past I _śč̣m ⸗f_ (Past-1), the past II _śč̣m.n ⸗f_ (Past-2), the present _śč̣m ⸗f_ (Pres), the future _śč̣m ⸗f_ (Fut), the bireferent future _śč̣m.t ⸗f_ (Bi-Fut) and the contingent tenses _śč̣m.i҆n ⸗f_, _śč̣m.ḫr ⸗f_ and _śč̣m.kꜣ ⸗f_ (Cont). The SPC also had the subjunctive mood _śč̣m ⸗f_ (Sub). The impersonal construction (Man-Imp) corresponding to “one” in English was effected by adding the noun _ti҆_ / _tw_ to the SPC verb form, for example _śč̣m.n -ti҆_. In addition, there were two passive verb forms in the SPC, the past passive _śč̣m.w ⸗f_ (PastPass) and the future passive _śč̣mm ⸗f_ (FutPass). The past II _śč̣m.n ⸗f_, the present _śč̣m ⸗f_, the future _śč̣m ⸗f_ and the passive forms could be used as abstract relative verb forms (Abstrel), i.e. nominal finite verb forms used syntactically as nouns, especially in the emphatic construction, the Egyptian cleft sentence with an adverbial phrase as focus. The SPC also consisted of adjective finite verb forms labelled "relative verb forms" (Relform).
    The OSSC complemented the SPC tenses. There were syntactic rules for the use of the OSSC in relation to SPC tenses. Thus, the tense, aspect and mood of the OSSC varied according to its syntactic function.
@@ -70,23 +70,30 @@ The OSSC or Stative tended to lose its personal endings, and it was used in the 
  * Old Egyptian and Middle Egyptian: There were ordinal and cardinal numbers. While “1” and “2” were adjectives, the other cardinals were nouns. Ordinal numbers usually followed a noun as attributives.
  * Late Egyptian: The number one preceded the item counted, while the number two followed it. Other cardinals were considered to be nouns as they preceded the item counted in a genitive construction. Ordinal numbers were formed with the prefix _mḥ_ before the cardinal number.
  * Demotic: As in Late Egyptian, cardinals preceded the item counted except the number two. Numbers from 1 to 10 and 20 also had a feminine form. Ordinals consisted of _mḥ_ + the cardinal number and they followed the counted item.
-12. Particle ([PART](https://universaldependencies.org/u/pos/PART.html)): 
+12. Particle ([PART](https://universaldependencies.org/u/pos/PART.html)):
  * All stages of Egyptian: Particles were common in Egyptian. A list of particles can be found in Egyptian grammars.
 13. Pronouns ([PRON](https://universaldependencies.org/u/pos/PRON.html)):
  * Old Egyptian and Middle Egyptian: There were three types of personal pronouns, the independent pronouns (IndPron), dependent pronouns (DepPron) and suffix pronouns (SFP).
- * Late Egyptian: The three types of Earlier Egyptian personal pronouns were also found in Late Egyptian, although the forms of the independent pronouns were different. In addition, Late Egyptian had a new type of personal pronoun called the proclitic pronoun (ProcPron) used only in the First Present. 
+ * Late Egyptian: The three types of Earlier Egyptian personal pronouns were also found in Late Egyptian, although the forms of the independent pronouns were different. In addition, Late Egyptian had a new type of personal pronoun called the proclitic pronoun (ProcPron) used only in the First Present.
  * Demotic: The types of Late Egyptian pronouns were also used in Demotic, although usually in a different form.
 14. Subordinating conjunction ([SCONJ](https://universaldependencies.org/u/pos/SCONJ.html)):
  * Old Egyptian and Middle Egyptian: _n.tt_ and _wn.t_ are considered to be subordinating conjunctions as they were used to subordinate sentences.
  * Late Egyptian and Demotic: The converter _i҆w_ was used as a subordinating conjunction because it circumstantially subordinated a sentence.
 15. Punctuation ([PUNCT](https://universaldependencies.org/u/pos/PUNCT.html)):
- * Old Egyptian and Middle Egyptian: The use of a red structuring point (“Gliederungspunkt”) to separate sentences first appeared in hieratic texts from the end of the Middle Kingdom (ca. 1700 BC). 
- * Late Egyptian: The red structuring point was commonly used in New Kingdom hieratic texts. 
+ * Old Egyptian and Middle Egyptian: The use of a red structuring point (“Gliederungspunkt”) to separate sentences first appeared in hieratic texts from the end of the Middle Kingdom (ca. 1700 BC).
+ * Late Egyptian: The red structuring point was commonly used in New Kingdom hieratic texts.
 16. Symbol ([SYM](https://universaldependencies.org/u/pos/SYM.html)):
  * Old Egyptian and Middle Egyptian: Some signs were probably used as symbols, for example:
    ![path132](https://github.com/UniversalDependencies/docs/assets/159358649/d9493c5b-3e5d-4020-90a0-043fc4ba1bde) (_śrḫ_) could symbolize the king’s palace or his tomb.
 17. Other ([X](https://universaldependencies.org/u/pos/X.html)):
  * All stages of Egyptian: Some words of unclear meaning and grammatical function are annotated with the tag [X](https://universaldependencies.org/u/pos/X.html).
+
+### Language-specific Features
+
+* [VerbClass]()
+* [SubForm]()
+* [Nominal]()
+* [Prefix]()
 
 
 ## Syntax
@@ -108,7 +115,7 @@ The following universal syntactic relations were found in Egyptian:
      * It was a suffix pronoun in verbal sentences with SPC verb forms.
      * It was an independent pronoun in nominal sentences.
      * It was a proclitic pronoun in adverbial sentences (First Present).
-* Object ([obj](https://universaldependencies.org/u/dep/obj.html)): 
+* Object ([obj](https://universaldependencies.org/u/dep/obj.html)):
   - All stages of Egyptian: The object of a verb was expressed by a dependent pronoun.
 * Indirect object ([iobj](https://universaldependencies.org/u/dep/iobj.html)):
   - All stages of Egyptian: The indirect object of a verb was expressed by the preposition _n_ “for” + a noun or suffix pronoun.
@@ -122,14 +129,14 @@ The following universal syntactic relations were found in Egyptian:
   - All stages of Egyptian: Noun phrases introducing the topic of a sentence usually preceded a verb form.
 * Nominal modifier ([nmod](https://universaldependencies.org/u/dep/nmod.html)):
   - Old Egyptian and Middle Egyptian: A nmod relation usually occurred in three cases:
-     * the direct genitive between the two nouns. 
+     * the direct genitive between the two nouns.
      * the indirect genitive between the noun following _n(.i҆)_ and the first noun.
      * the relationship of possession between the suffix pronoun and the noun it followed, for example _pr ⸗f_ “his house”.
   - Late Egyptian and Demotic: A nmod relation usually occurred in the following cases:
      * the direct genitive between the two nouns (less often than in earlier stages).
      * the indirect genitive between the noun following _n(.i҆)_ and the first noun.
      * the relationship of possession between the suffix pronoun and the noun it followed (less often than in earlier stages).
-     * the relationship of possession between the possessive article and the noun it preceded, for example _tꜣy ⸗f sn.t_ “his sister”. 
+     * the relationship of possession between the possessive article and the noun it preceded, for example _tꜣy ⸗f sn.t_ “his sister”.
 * Appositional modifier ([appos](https://universaldependencies.org/u/dep/appos.html)):
   - All stages of Egyptian: It was a common syntactic relation in Egyptian texts.
 * Numeric modifier ([nummod](https://universaldependencies.org/u/dep/nummod.html)):
@@ -152,7 +159,7 @@ The following universal syntactic relations were found in Egyptian:
 * Auxiliary ([aux](https://universaldependencies.org/u/dep/aux_.html)):
   - All stages of Egyptian: Auxiliaries were characterized by an aux relation (see AUX, above).
 * Copula ([cop](https://universaldependencies.org/u/dep/cop.html)):
-  - Old Egyptian and Middle Egyptian: _pw_ was used as a copula in the nominal sentence type A _pw_ B.  
+  - Old Egyptian and Middle Egyptian: _pw_ was used as a copula in the nominal sentence type A _pw_ B.
   - Late Egyptian and Demotic: No known word with a copula function.
 Marker ([mark](https://universaldependencies.org/u/dep/mark.html)):
   - All stages of Egyptian: Complement clauses and adverbial clauses could be formed using conjunctions or words with a conjunction function.
@@ -161,7 +168,7 @@ Marker ([mark](https://universaldependencies.org/u/dep/mark.html)):
 * Case marking ([case](https://universaldependencies.org/u/dep/case.html)):
   - All stages of Egyptian: Case relation indicated the syntactic dependency from adpositions of the nouns they accompanied (for the prepositional cases in Egyptian see the list of [specific features](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_feature.pl?lcode=egy&feature=Case) for this language).
 * Conjunct ([conj](https://universaldependencies.org/u/dep/conj.html)):
-  - All stages of Egyptian: As conjunctions were rare in Egyptian, the conj relation between two elements was usually asyndetic without a coordinating conjunction. 
+  - All stages of Egyptian: As conjunctions were rare in Egyptian, the conj relation between two elements was usually asyndetic without a coordinating conjunction.
 * Coordinating conjunction ([cc](https://universaldependencies.org/u/dep/cc.html)):
   - All stages of Egyptian: It was unusual due to the rare use of coordinating conjunctions in Egyptian (see CONJ, above).
 * Fixed multiword expression ([fixed](https://universaldependencies.org/u/dep/fixed.html)):

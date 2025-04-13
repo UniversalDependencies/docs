@@ -27,7 +27,7 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 3	:	:	PUNCT	PUNCT	_	7	punct	_	_
 4	”	”	PUNCT	PUNCT	_	7	punct	_	GTtags=RIGHT|SpaceAfter=No
 5	Mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	GTtags=Pers,Sg1,Nom
-6	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	7	aux:neg	_	GTtags=Neg,Ind,Sg1
+6	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	7	aux	_	GTtags=Neg,Ind,Sg1
 7	kuâddam	kueʹdded	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past	2	parataxis	_	GTtags=Ind,Prt,ConNeg
 8	čääʹʒʒ	čääʹcc	NOUN	N	Case=Acc|Number=Sing	7	obj	_	GTtags=Sg,Acc,@<OBJ|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No
@@ -89,7 +89,7 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 10 11 parataxis	color:blue
 1	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT|SpaceAfter=No
 2	Čuõvv	čuõvv	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	GTtags=Sg,Nom
-3	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	4	aux:neg	_	GTtags=Neg,Ind,Sg3
+3	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	4	aux	_	GTtags=Neg,Ind,Sg3
 4	kueʹst	kueʹstted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	0	root	_	GTtags=Ind,Prs,ConNeg|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	7	punct	_	_
 6	leäk-a	leeʹd	VERB	V	Clitic=QstA|Mood=Ind|Number=Sing|Person=2|Tense=Pres	7	orphan	_	GTtags=Ind,Prs,Sg2,Qst/a

@@ -47,7 +47,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Fem` (163; 12% of non-empty `Gender`): <em>die, sie, meine, alle, meiner, deine, diese, eine, der, irgendwelche</em>
 * `Masc` (176; 13% of non-empty `Gender`): <em>er, der, die, jeder, den, ihn, meinem, dein, dem, ihm</em>
 * `Neut` (1032; 75% of non-empty `Gender`): <em>das, es, ich, alles, was, die, allem, du, mein, irgendetwas</em>
-* `EMPTY` (2784): <em>ich, du, ben, o, wir, ondan, man, mir, was, orada</em>
+* `EMPTY` (2783): <em>ich, du, ben, o, wir, ondan, man, mir, was, orada</em>
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -79,7 +79,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 * `Fem` (426; 38% of non-empty `Gender`): <em>die, der, eine, keine, den, viele, einer, alle, manche, mehr</em>
 * `Masc` (312; 28% of non-empty `Gender`): <em>dem, ein, einen, der, den, die, einem, jeden, viele, kein</em>
 * `Neut` (378; 34% of non-empty `Gender`): <em>dem, das, ein, die, dieses, des, alles, viele, kein, den</em>
-* `EMPTY` (621): <em>bir, o, her, bu, böyle, çok, öyle, hangi, şu, birkaç</em>
+* `EMPTY` (622): <em>bir, o, her, bu, böyle, çok, öyle, hangi, şu, birkaç</em>
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -142,14 +142,14 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="qtd_sagt-dep-det.html">det</a></tt>]--> DET</tt> (868; 86%),
+<tt>NOUN --[<tt><a href="qtd_sagt-dep-det.html">det</a></tt>]--> DET</tt> (869; 86%),
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (200; 76%),
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (93; 52%),
 <tt>PROPN --[<tt><a href="qtd_sagt-dep-det.html">det</a></tt>]--> DET</tt> (37; 73%),
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (23; 51%),
 <tt>PROPN --[<tt><a href="qtd_sagt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10; 71%),
 <tt>PRON --[<tt><a href="qtd_sagt-dep-det.html">det</a></tt>]--> DET</tt> (8; 53%),
-<tt>PROPN --[<tt><a href="qtd_sagt-dep-appos.html">appos</a></tt>]--> PROPN</tt> (8; 100%),
 <tt>DET --[<tt><a href="qtd_sagt-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (7; 88%),
+<tt>PROPN --[<tt><a href="qtd_sagt-dep-appos.html">appos</a></tt>]--> PROPN</tt> (7; 100%),
 <tt>PROPN --[<tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (4; 67%).
 

@@ -23,7 +23,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (1823; 100% of non-empty `Polarity`): <em>ei, pole, ära, polnud, poleks, polegi, ple, mai, ärge, ärgu</em>
-* `EMPTY` (4319): <em>on, oli, oleks, ole, olen, võib, peaks, olla, saab, olema</em>
+* `EMPTY` (4322): <em>on, oli, oleks, ole, olen, võib, peaks, olla, saab, olema</em>
 
 ### `ADV`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (248; 100% of non-empty `Polarity`): <em>mitte, ega</em>
-* `EMPTY` (12407): <em>ka, siis, nii, kas, ikka, veel, ju, juba, ära, küll</em>
+* `EMPTY` (12427): <em>ka, siis, nii, kas, ikka, veel, ju, juba, ära, küll</em>
 
 ### `VERB`
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (72; 100% of non-empty `Polarity`): <em>pole, polegi, polnud, Pold, mõtle, plee, poleks, polnd, tea, teinud</em>
-* `EMPTY` (10781): <em>on, tuleb, teha, saada, saab, tea, läheb, minna, saa, saanud</em>
+* `EMPTY` (10802): <em>on, tuleb, teha, saada, saab, tea, läheb, minna, saa, saanud</em>
 
 ### `CCONJ`
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (50; 100% of non-empty `Polarity`): <em>ega</em>
-* `EMPTY` (3334): <em>ja, aga, või, ning, kuid, ehk, vaid, kui, e., ent</em>
+* `EMPTY` (3340): <em>ja, aga, või, ning, kuid, ehk, vaid, kui, e., ent</em>
 
 ### `PRON`
 
@@ -63,5 +63,5 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>mai</em>
-* `EMPTY` (6569): <em>ma, see, mis, seda, oma, kes, ta, sa, midagi, mida</em>
+* `EMPTY` (6590): <em>ma, see, mis, seda, oma, kes, ta, sa, midagi, mida</em>
 

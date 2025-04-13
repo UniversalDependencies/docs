@@ -73,9 +73,9 @@ The following 18 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 10 parataxis	color:blue
-1	Hot	hot	ADJ	_	Foreign=Yes|Gender=Masc|Number=Sing	2	amod	_	Lang=en
-2	girl	girl	NOUN	_	Foreign=Yes|Gender=Fem|Number=Sing	3	nmod	_	Lang=en
-3	summer	summer	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	7	nsubj	_	Lang=en
+1	Hot	hot	ADJ	_	Foreign=Yes	2	amod	_	Lang=en
+2	girl	girl	NOUN	_	Foreign=Yes|Number=Sing	3	nmod	_	Lang=en
+3	summer	summer	NOUN	_	Foreign=Yes|Number=Sing	7	nsubj	_	Lang=en
 4	e	fi	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 5	doar	doar	ADV	_	Degree=Pos	7	advmod	_	_
 6	un	un	DET	_	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_

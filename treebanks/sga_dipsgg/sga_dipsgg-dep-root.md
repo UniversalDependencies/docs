@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-64 nodes (16%) are attached to their parents as `root`.
+64 nodes (15%) are attached to their parents as `root`.
 
 64 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.171875.

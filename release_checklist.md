@@ -34,13 +34,20 @@ contact the release task force and they will create a new treebank repository.
 In both cases, think of an acronym or short word that will be used as the treebank identifier in the name of the repository
 (for example, UD_English-LinES and UD_English-ParTUT are two different English UD treebanks
 and their identifiers are LinES and ParTUT).
-It can be an acronym of your annotation project (such as XTB, where X is the initial of the language name), or your institution, or even your own initials, but preferably it should be short. It can contain uppercase and lowercase English letters (the first letter uppercase) but it cannot contain additional underscores, hyphens or other special characters.
+It can be an acronym of your annotation project (such as XTB, where X is the initial of the language name),
+or your institution, or even your own initials, but preferably it should be short.
+It can contain uppercase and lowercase English letters (the first letter uppercase) but it cannot
+contain additional underscores, hyphens or other special characters.
 Tell your preferred treebank acronym to the release task force when you ask for the repository.
+Think carefully whether the acronym is good enough even considering possible future growth of the treebank.
+Once the repository has been created, renaming is strongly discouraged (although not entirely impossible
+if there are good reasons for it; but it is painful for the maintenance crew because many places in the
+infrastructure have to be carefully checked manually).
 
-For some languages, there may be multiple candidates for the name of the language. It deserves some
-thought before the first treebank repository of the language is created, as the language name is
-not supposed to be changed in the future (although renaming is not impossible, it is painful because
-many places in the infrastructure have to be carefully checked manually by the maintenance crew).
+Even more important it is that the name of the language be stable. For some languages, there may be
+multiple candidates for their name. It deserves some thought before the first treebank repository of
+the language is created, so that other people contributing to the language are hopefully happy with it
+and no renaming is needed.
 We stick with the ISO 639 language codes. If a language does not have its own code, it will be treated
 as a variant of its closest relative, and they will share the language prefix of the repository name.
 Try to imagine how likely it is that somebody will want to cover another variant in the future, and
@@ -105,8 +112,7 @@ named `not-to-release`.
 
 ## Data split
 
-These guidelines are strong recommendations rather than strict rules. In some
-cases it may not be even possible to meet all of them with a given dataset.
+These guidelines are strong recommendations rather than strict rules.
 
 The general underlying idea is that we do not want to ban tiny datasets from
 being released, but we only want to distinguish training and test sets if
@@ -120,8 +126,8 @@ There is one exception to that general idea. If this is the only UD treebank
 in the given language, we may set aside a small sample and call it “train”.
 This may be useful if the treebank is used in a shared task where the systems
 are supposed to use cross-lingual projection techniques and cannot access the test data,
-but the developers should have access at least to a sample of the language
-so they can see the annotation, language properties etc.
+but the developers should have access at least to a small sample of the language
+so they can see the annotation, language properties, etc.
 In other situations, users should still use the entire data for training and
 testing via cross-validation.
 Providing the sample is completely optional.
@@ -130,17 +136,16 @@ if a larger treebank of the same language exists and has training data.
 
 1. If you have less than 20K words:
    * Option A: Keep everything as test data. Users will have to do 10-fold cross-validation if they want to train on it.
-   * Option B: If there are no larger treebanks of this language, keep almost everything as test data but set aside a small sample (20 to 50 sentences) and call it “train”. Consider translating and annotating the 20 examples from the [Cairo Cicling Corpus](https://github.com/UniversalDependencies/cairo/blob/master/translations.txt) (CCC) and providing them as the sample.
-3. If you have between 20K and 30K words, take 10K as test data and the rest as training data.
-4. If you have between 30K and 100K words, take 10K as test data, 10K as dev data and the rest as training data.
-6. If you have more than 100K words, take 80% as training data, 10% (min 10K words) as dev data and 10% (min 10K words) as test data.
-7. If the treebank contains running text (rather than random shuffled sentences), make sure you split the data on document boundaries. Shuffling sentences should be avoided if possible, but sometimes it is necessary in order to prevent copyright issues. If you must shuffle, consider shuffling blocks of sentences (up to N characters long) rather than individual sentences.
-8. If the treebank contains different domains or genres, try to distribute them proportionally to training, dev and test. Ideally, it should be also possible to tell them apart by sentence ids.
-9. If the data in the treebank overlap with another UD treebank of the same language, make sure that the overlapping sentences end up in the same part (training/dev/test) in both treebanks! (By overlap we mean duplicate source text but not individual simple sentences that occur naturally at different positions of independent texts.)
-10. If this is one language of a multi-lingual parallel treebank, make sure that corresponding sentences in all languages end up in the same part (training/dev/test)!
-11. It is desirable that the data split of one treebank is stable across UD releases, i.e. a sentence that was in training data in release N is not moved to dev or test data in release N+1. We want to prevent accidental misguided results of experiments where people take a parser trained on UD 1.1 and apply it to test data from UD 1.2. In exceptional cases some restructuring that violates this rule can be approved by the release team, provided there are good reasons for it. (One obviously valid reason is that a growing treebank exceeds the 20K-word threshold and is split to training-test.) If at all possible, please try to plan ahead and minimize the need for re-splits in the future.
+   * Option B: Only if there are no larger treebanks of this language, keep almost everything as test data but set aside a small sample (20 to 50 sentences) and call it “train”. Consider translating and annotating the 20 examples from the [Cairo Cicling Corpus](https://github.com/UniversalDependencies/cairo/blob/master/translations.txt) (CCC) and providing them as the sample.
+2. If you have between 20K and 110K words, take a minimum of 10K words as test data, 10% of the remainder as dev data, and the remainder as training data.
+3. If you have more than 110K words, take between 10K words and 10% of the data as test data, take another between 10K words and 10% of the data as dev data, and the remainder as test data.
+4. If the treebank contains running text (rather than random shuffled sentences), make sure you split the data on document boundaries. Shuffling sentences should be avoided if possible, but sometimes it is necessary in order to prevent copyright issues. If you must shuffle, consider shuffling blocks of sentences (up to N characters long) rather than individual sentences.
+5. If the treebank contains different domains or genres, try to distribute them proportionally to training, dev and test. Ideally, it should also be possible to tell them apart by sentence ids.
+6. If the data in the treebank overlap with another UD treebank of the same language, make sure that the overlapping sentences end up in the same part (training/dev/test) in both treebanks! (By overlap we mean duplicate source text but not individual simple sentences that occur naturally at different positions of independent texts.)
+7. If this is one language of a multi-lingual parallel treebank, make sure that corresponding sentences in all languages end up in the same part (training/dev/test)!
+8. It is desirable that the data split of one treebank is stable across UD releases, i.e., a sentence that was in training data in release N is not moved to dev or test data in release N+1. We want to prevent accidental misguided results of experiments where people take a parser trained on UD 1.1 and apply it to test data from UD 1.2. In exceptional cases some restructuring that violates this rule can be approved by the release team, provided there are good reasons for it. (One obviously valid reason is that a growing treebank exceeds the 20K-word threshold and is split to training and test.) If at all possible, please try to plan ahead and minimize the need for re-splits in the future.
 
-See also [this e-mail thread](https://cl.lingfil.uu.se/pipermail/ud/2015-November/000095.html).
+[//]: # (See also [this e-mail thread](https://cl.lingfil.uu.se/pipermail/ud/2015-November/000095.html). ChrisM: This link is dead in 2024.)
 
 ## The README file
 
@@ -482,8 +487,6 @@ language-specific documentation.](contributing_language_specific.html) Also see 
 [how to contribute](contributing.html) (which covers the conventions used in writing UD
 documentation, such as how to format examples).
 
-# Building the release
+# For the maintenance crew
 
-Documentation of the steps to be taken by the release task force is [on a separate page](release_checklist_task_force.html).
-
-Documentation of adding languages or treebanks by the maintenance crew is [here](release_checklist_add_language.html).
+Documentation of the infrastructure is [here](infrastructure/index.html).

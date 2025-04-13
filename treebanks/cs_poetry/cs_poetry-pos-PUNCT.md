@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.400206).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.400929).
 
 The 1st highest number of forms (2) was observed with the lemma “"”: <em>“, „</em>.
 
@@ -36,15 +36,9 @@ The 3rd highest number of forms (1) was observed with the lemma “'”: <em>'</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="cs_poetry-dep-punct.html">punct</a></tt> (1148; 100% instances)
 
-Parents of `PUNCT` nodes belong to 11 different parts of speech: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (735; 64% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (211; 18% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (100; 9% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (34; 3% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (28; 2% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (22; 2% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (10; 1% instances), <tt><a href="cs_poetry-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cs_poetry-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 10 different parts of speech: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (736; 64% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (216; 19% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (100; 9% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (37; 3% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (23; 2% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (11; 1% instances), <tt><a href="cs_poetry-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="cs_poetry-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances)
 
-1147 (100%) `PUNCT` nodes are leaves.
+1148 (100%) `PUNCT` nodes are leaves.
 
-1 (0%) `PUNCT` nodes have one child.
-
-The highest child degree of a `PUNCT` node is 1.
-
-Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="cs_poetry-dep-punct.html">punct</a></tt> (1; 100% instances)
-
-Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="cs_poetry-pos-PUNCT.html">PUNCT</a></tt> (1; 100% instances)
+The highest child degree of a `PUNCT` node is 0.
 

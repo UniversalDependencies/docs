@@ -22,14 +22,14 @@ The following 4 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 16 15 reparandum	color:blue
-1	_	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	Discourse=elaboration-additional:7->6:0:sem-rpt-56-57,84-85+ref-prs-65,67|Entity=(10-person-giv:act-cf1*-1-ana)|Lem=*LOWER*|Len=2
+1	_	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	Discourse=elaboration-additional:7->6:0:sem-rpt-56-57,84-85+ref-prs-65,67|Entity=(10-person-giv:act-cf1*-1-ana)|Lem=*LOWER*|Len=2|PDTB=Implicit:Expansion.Level-of-detail.Arg2-as-detail:in particular:_:56-66:67-99
 2	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	4:aux	Lem=be|Len=3
 3	_	_	ADV	RB	Degree=Pos	4	advmod	4:advmod	Lem=_|Len=9|MSeg=excit-ed-ly
 4	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	Lem=bounce|Len=8|MSeg=bounc-ing
 5	_	_	ADP	IN	_	7	case	7:case	Lem=_|Len=6|MSeg=a-round
 6	_	_	DET	DT	Definite=Def|PronType=Art	7	det	7:det	Bridge=2<14|Entity=(14-place-acc:inf-cf4-2-sgl|Lem=_|Len=3
 7	_	_	NOUN	NN	Number=Sing	4	obl	4:obl:around	Entity=14)|Lem=_|Len=4
-8	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	4	advcl	4:advcl	Discourse=elaboration-additional:8->7:0:ref-prs-67,78+syn-pres-74|Lem=point|Len=8|MSeg=point-ing
+8	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	4	advcl	4:advcl	Discourse=elaboration-additional:8->7:0:ref-prs-67,78+syn-pres-74|Lem=point|Len=8|MSeg=point-ing|PDTB=Implicit:Expansion.Level-of-detail.Arg2-as-detail:specifically:_:67-73:74-82
 9	_	_	ADP	RP	_	8	compound:prt	8:compound:prt	Lem=_|Len=3
 10	_	_	NOUN	NNS	Number=Plur	8	obj	8:obj|16:nsubj	Entity=(15-abstract-new-cf6-1-sgl|Lem=thing|Len=6|MSeg=thing-s
 11	_	_	PRON	WDT	PronType=Rel	16	nsubj	10:ref	Discourse=elaboration-attribute:9->8:0:syn-mdf-76+syn-relcl-77,79|Lem=_|Len=4
@@ -38,7 +38,7 @@ The following 4 pairs of parts of speech are connected with `reparandum`: <tt><a
 14	_	_	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	cop	16:cop	Lem=be|Len=4
 15	_	_	NOUN	NNS	Number=Plur	16	reparandum	16:reparandum	Entity=(16-abstract-new-cf3-1-coref)|Lem=clue|Len=5|MSeg=clue-s
 16	_	_	NOUN	NNS	Number=Plur|Typo=Yes	13	ccomp	13:ccomp	CorrectForm=_|Entity=(16-abstract-giv:act-cf3-1-coref)15)|Lem=clue|Len=5|MSeg=clue-s|XML=<sic ana:::""></sic>
-17	_	_	SCONJ	IN	_	20	mark	20:mark	Discourse=adversative-contrast_m:10->7:1:dm-while-83|Lem=_|Len=5
+17	_	_	SCONJ	IN	_	20	mark	20:mark	Discourse=adversative-contrast_m:10->7:1:dm-while-83|Lem=_|Len=5|PDTB=Explicit:Comparison.Contrast:while:83:67-82:84-99
 18	_	_	DET	DT	Definite=Def|PronType=Art	19	det	19:det	Entity=(9-person-giv:act-cf2-2-coref|Lem=_|Len=3
 19	_	_	NOUN	NNS	Number=Plur	20	nsubj	20:nsubj	Entity=9)|Lem=parent|Len=7|MSeg=parent-s
 20	_	_	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	advcl	4:advcl:while	Lem=dismiss|Len=9|MSeg=dismiss-ed
@@ -46,7 +46,7 @@ The following 4 pairs of parts of speech are connected with `reparandum`: <tt><a
 22	_	_	NOUN	NN	Number=Sing	20	obj	20:obj	Entity=17)|Lem=_|Len=4
 23	_	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj	24:nsubj|26:nsubj	Discourse=elaboration-attribute:11->10:0:syn-mdf-88+syn-relcl-90|Entity=(10-person-giv:act-cf1*-1-ana)|Lem=_|Len=2
 24	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	acl:relcl	22:acl:relcl	Lem=have|Len=3
-25	_	_	CCONJ	CC	_	26	cc	26:cc	Discourse=joint-list_m:12->10:1:dm-and-91|Lem=_|Len=3
+25	_	_	CCONJ	CC	_	26	cc	26:cc	Discourse=joint-list_m:12->10:1:dm-and-91|Lem=_|Len=3|PDTB=Explicit:Expansion.Conjunction:and:91:83-90:92-99
 26	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	conj	22:acl:relcl|24:conj:and	Lem=tell|Len=4|MSeg=tol-d
 27	_	_	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	iobj	26:iobj|29:nsubj:xsubj	Entity=(10-person-giv:act-cf1*-1-ana)|Lem=he|Len=3
 28	_	_	PART	TO	_	29	mark	29:mark	Lem=_|Len=2
@@ -82,16 +82,16 @@ The following 4 pairs of parts of speech are connected with `reparandum`: <tt><a
 15	_	_	AUX	MD	VerbForm=Fin	16	aux	16:aux	Discourse=same-unit_m:24->22:1:_|Lem=_|Len=4
 16	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Lem=_|Len=7|MSeg=real-ize
 17	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	19:nsubj	Discourse=joint-other_m:25->14:1:_|Entity=(8-organization-giv:act-cf1-1-ana-NASA)|Lem=_|Len=4
-18	_	_	ADV	RB	Polarity=Neg	19	advmod	19:advmod	Lem=_|Len=5
+18	_	_	ADV	RB	_	19	advmod	19:advmod	Lem=_|Len=5|Negation=Yes
 19	_	_	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	ccomp	16:ccomp	Lem=go|Len=4
 20	_	_	ADP	IN	_	22	case	22:case	Lem=_|Len=2
 21	_	_	DET	DT	Definite=Def|PronType=Art	22	det	22:det	Entity=(40-place-acc:com-cf3-2-sgl|Lem=_|Len=3
 22	_	_	NOUN	NN	Number=Sing	19	obl	19:obl:to	Entity=40)|Lem=_|Len=4|SpaceAfter=No
 23	_	_	PUNCT	,	_	27	punct	27:punct	Lem=_|Len=1
-24	_	_	VERB	VB	VerbForm=Inf	27	advmod	27:advmod	ExtPos=ADV|Lem=_|Len=3
+24	_	_	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	27	advmod	27:advmod	Lem=_|Len=3
 25	_	_	ADJ	JJ	Degree=Pos	24	fixed	24:fixed	Lem=_|Len=5|MSeg=a-lone
 26	_	_	NUM	CD	NumForm=Digit|NumType=Card	27	nummod	27:nummod	Entity=(41-event-new-cf5-2-sgl|Lem=_|Len=1
-27	_	_	NOUN	NNS	Number=Plur	19	obl:npmod	19:obl:npmod	Entity=41)|Lem=time|Len=5|MSeg=time-s|SpaceAfter=No
+27	_	_	NOUN	NNS	Number=Plur	19	obl:unmarked	19:obl:unmarked	Entity=41)|Lem=time|Len=5|MSeg=time-s|SpaceAfter=No
 28	_	_	PUNCT	.	_	16	punct	16:punct	Lem=_|Len=1
 
 ~~~
@@ -103,7 +103,7 @@ The following 4 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 11 reparandum	color:blue
-1	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	Bridge=83<90|Discourse=mode-means:92->94:2:_|Entity=(89-event-new-cf8-2-disc(90-person-acc:inf-cf2-1-sgl)|Lem=*LOWER*|Len=4
+1	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	Bridge=83<90|Discourse=mode-means:92->94:2:_|Entity=(89-event-new-cf8-2-disc(90-person-acc:inf-cf2-1-sgl)|Lem=*LOWER*|Len=4|PDTB=Implicit:Expansion.Level-of-detail.Arg2-as-detail:in particular:_:606-632:633-658
 2	_	_	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Lem=_|Len=3
 3	_	_	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	Entity=(91-object-new-cf5-3-sgl|Lem=_|Len=1
 4	_	_	NOUN	NN	Number=Sing	5	compound	5:compound	Lem=_|Len=5
@@ -111,7 +111,7 @@ The following 4 pairs of parts of speech are connected with `reparandum`: <tt><a
 6	_	_	ADP	IN	_	8	case	8:case	Lem=_|Len=2
 7	_	_	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	8:nmod:poss	Entity=(92-object-new-cf7-2-sgl(85-person-giv:act-cf1*-1-ana)|Lem=_|Len=3
 8	_	_	NOUN	NN	Number=Sing	2	obl	2:obl:in	Entity=92)|Lem=_|Len=4
-9	_	_	SCONJ	IN	_	14	mark	14:mark	Discourse=purpose-goal:93->92:0:dm-so that-641-642|Lem=_|Len=2
+9	_	_	SCONJ	IN	_	14	mark	14:mark	Discourse=purpose-goal:93->92:0:dm-so that-641-642|Lem=_|Len=2|PDTB=Explicit:Contingency.Purpose.Arg2-as-goal:so that:641-642:633-640:643-658
 10	_	_	SCONJ	IN	_	9	fixed	9:fixed	Lem=_|Len=4
 11	_	_	ADV	WRB	PronType=Int	14	reparandum	14:reparandum	Lem=_|Len=4
 12	_	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj	Entity=(85-person-giv:act-cf1*-1-ana)|Lem=_|Len=2
@@ -124,7 +124,7 @@ The following 4 pairs of parts of speech are connected with `reparandum`: <tt><a
 19	_	_	ADJ	JJ	Degree=Pos	20	amod	20:amod	Lem=_|Len=8|MSeg=tru-th-ful
 20	_	_	NOUN	NNS	Number=Plur	14	obl	14:obl:on	Entity=94)|Lem=answer|Len=7|MSeg=answer-s
 21	_	_	CCONJ	CC	_	25	cc	25:cc	Lem=_|Len=3
-22	_	_	PART	RB	Polarity=Neg	25	advmod	25:advmod	Lem=_|Len=3
+22	_	_	PART	RB	Polarity=Neg	25	advmod	25:advmod	Lem=_|Len=3|Negation=Yes
 23	_	_	ADP	IN	_	25	case	25:case	Lem=_|Len=2
 24	_	_	DET	DT	Definite=Def|PronType=Art	25	det	25:det	Bridge=86<95|Entity=(95-abstract-acc:inf-cf4-2-sgl|Lem=_|Len=3
 25	_	_	NOUN	NNS	Number=Plur	20	conj	14:obl:on|20:conj:and	Entity=95)|Lem=lie|Len=4|MSeg=lie-s|SpaceAfter=No

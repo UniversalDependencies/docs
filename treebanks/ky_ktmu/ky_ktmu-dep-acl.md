@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-174 nodes (2%) are attached to their parents as `acl`.
+762 nodes (3%) are attached to their parents as `acl`.
 
-170 instances of `acl` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.52873563218391.
+758 instances of `acl` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.36089238845144.
 
-The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (151; 87% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (9; 5% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `acl`: <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (684; 90% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (52; 7% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-ADP.html">ADP</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -55,19 +55,20 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 acl	color:blue
-1	Кыргызстандын	Кыргызстан	PROPN	PROP	Case=Gen|Number=Sing|Person=3	3	nmod:poss	_	_
-2	тоолуу	тоолуу	PROPN	PROP	Case=Nom|Number=Sing|Person=3	3	nmod	_	_
-3	райондорунда	район	NOUN	NN	Case=Loc|Number=Sing|Person=3	7	obl	_	_
-4	кар	кар	NOUN	NN	Case=Nom|Number=Sing|Person=3	6	acl	_	_
-5	көчкү	көч	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	6	advcl	_	_
-6	түшүүсү	түш	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	7	csubj	_	_
-7	күтүлөт	күт	VERB	VB	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	PCT	_	7	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 acl	color:blue
+1	Улан	Улан	PROPN	PROP	Case=Nom|Number=Sing|Person=3	8	nsubj	_	_
+2	Ниязбеков	Ниязбеков	PROPN	PROP	Case=Nom|Number=Sing|Person=3	1	flat	_	_
+3	ШКУнун	ШКУ	NOUN	NN	Abbr=Yes|Case=Gen|Number=Sing	4	nmod	_	_
+4	жыйынына	жыйын	NOUN	NN	Case=Dat|Number=Sing	5	nmod	_	_
+5	катышуу	катыш	VERB	VB	Polarity=Pos|Tense=Pres|VerbForm=Vnoun	7	acl	_	_
+6	үчүн	үчүн	ADV	ADV	_	5	advmod	_	_
+7	Өзбекстанга	Өзбекстан	PROPN	PROP	Case=Dat|Number=Sing|Person=3	8	obl	_	_
+8	барды	бар	VERB	VB	Aspect=Prog|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	PCT	_	8	punct	_	_
 
 ~~~
 

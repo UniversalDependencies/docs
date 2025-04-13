@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 4 different values: `Fut`, `Past`, `Pqp`, `Pres`.
 
 1325 tokens (13%) have a non-empty value of `Tense`.
-503 types (18%) occur at least once with a non-empty value of `Tense`.
-149 lemmas (8%) occur at least once with a non-empty value of `Tense`.
+504 types (18%) occur at least once with a non-empty value of `Tense`.
+151 lemmas (8%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (897; 9% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (428; 4% instances).
 
 ### `VERB`

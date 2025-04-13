@@ -9,27 +9,27 @@ udver: '2'
 This feature is universal but the values `Emp` are language-specific.
 It occurs with 10 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Rel`, `Tot`.
 
-36880 tokens (17%) have a non-empty value of `PronType`.
+36879 tokens (17%) have a non-empty value of `PronType`.
 173 types (1%) occur at least once with a non-empty value of `PronType`.
 74 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (17817; 8% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (17313; 8% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1749; 1% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (17818; 8% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (17312; 8% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1749; 1% instances).
 
 ### `PRON`
 
-17817 <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+17818 <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="en_gum-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14884; 84%), <tt><a href="en_gum-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13137; 74%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11989; 67%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="en_gum-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14885; 84%), <tt><a href="en_gum-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13138; 74%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11989; 67%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (1586; 9% of non-empty `PronType`): <em>there, that, this, those, these</em>
 * `Emp` (25; 0% of non-empty `PronType`): <em>itself, themselves, himself, yourself</em>
 * `Ind` (283; 2% of non-empty `PronType`): <em>something, anything, someone, anyone, somebody, anybody</em>
-* `Int` (269; 2% of non-empty `PronType`): <em>what, who, which, whatever, Whoever, whose</em>
+* `Int` (268; 2% of non-empty `PronType`): <em>what, who, which, whatever, Whoever, whose</em>
 * `Neg` (58; 0% of non-empty `PronType`): <em>nothing, one, nobody</em>
 * `Prs` (13799; 77% of non-empty `PronType`): <em>i, it, you, we, he, they, his, your, my, she</em>
 * `Rcp` (4; 0% of non-empty `PronType`): <em>one</em>
-* `Rel` (1680; 9% of non-empty `PronType`): <em>that, which, who, what, whatever, whom, whose, Whosoever, whoever, wish</em>
+* `Rel` (1682; 9% of non-empty `PronType`): <em>that, which, who, what, whatever, whom, whose, Whosoever, whoever, wish</em>
 * `Tot` (113; 1% of non-empty `PronType`): <em>everything, everyone, everybody</em>
 * `EMPTY` (1): <em>t</em>
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-17313 <tt><a href="en_gum-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+17312 <tt><a href="en_gum-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="en_gum-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (10033; 58%).
 
@@ -50,17 +50,18 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 * `Art` (14392; 83% of non-empty `PronType`): <em>the, a, an</em>
 * `Dem` (1341; 8% of non-empty `PronType`): <em>this, that, these, those, such, yonder</em>
-* `Ind` (968; 6% of non-empty `PronType`): <em>some, all, any, every, another, each, both, half, Mat, and</em>
+* `Ind` (968; 6% of non-empty `PronType`): <em>some, all, any, every, another, each, both, half, such, Mat</em>
 * `Int` (50; 0% of non-empty `PronType`): <em>which, what, whatever</em>
 * `Neg` (178; 1% of non-empty `PronType`): <em>no, neither</em>
 * `Rcp` (20; 0% of non-empty `PronType`): <em>each</em>
 * `Rel` (15; 0% of non-empty `PronType`): <em>what, whatever</em>
-* `Tot` (349; 2% of non-empty `PronType`): <em>all, both, each, every</em>
+* `Tot` (348; 2% of non-empty `PronType`): <em>all, both, each, every</em>
 * `EMPTY` (19): <em>quite, either</em>
 
 <table>
   <tr><th>Paradigm <i>each</i></th><th><tt>Rcp</tt></th><th><tt>Tot</tt></th><th><tt>Ind</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>each</em></td><td><em>each</em></td><td><em>each</em></td></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>each</em></td><td><em>each</em></td></tr>
+  <tr><td><tt><tt><a href="en_gum-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt></tt></td><td><em>each</em></td><td></td><td></td></tr>
 </table>
 
 ### `ADV`
@@ -74,21 +75,12 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Dem` (742; 42% of non-empty `PronType`): <em>then, here, there</em>
 * `Int` (691; 40% of non-empty `PronType`): <em>when, how, why, where, whither, whenever</em>
 * `Rel` (316; 18% of non-empty `PronType`): <em>where, how, why, when, whenever, wherever, however</em>
-* `EMPTY` (8361): <em>so, just, also, now, more, really, very, even, as, only</em>
+* `EMPTY` (8354): <em>so, just, also, now, more, really, very, even, as, only</em>
 
 <table>
   <tr><th>Paradigm <i>when</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
   <tr><td><tt></tt></td><td><em>when</em></td><td><em>when</em></td></tr>
 </table>
-
-### `SCONJ`
-
-1 <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `PronType`.
-
-`SCONJ` tokens may have the following values of `PronType`:
-
-* `Rel` (1; 100% of non-empty `PronType`): <em>that</em>
-* `EMPTY` (3391): <em>that, if, as, because, for, of, by, while, in, after</em>
 
 ## Relations with Agreement in `PronType`
 

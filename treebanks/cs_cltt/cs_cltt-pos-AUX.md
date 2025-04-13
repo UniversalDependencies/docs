@@ -24,16 +24,16 @@ The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="cs_cltt-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 15.000000 (the average of all parts of speech is 1.713272).
+The form / lemma ratio of `AUX` is 15.000000 (the average of all parts of speech is 1.709632).
 
 The 1st highest number of forms (15) was observed with the lemma “být”: <em>bude, budou, by, byl, byla, bylo, byly, být, je, jsou, nebyl, nebyla, nebyly, nejsou, není</em>.
 
-`AUX` occurs with 9 features: <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt> (619; 100% instances), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt> (594; 96% instances), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt> (547; 88% instances), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt> (547; 88% instances), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt> (547; 88% instances), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt> (513; 83% instances), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt> (504; 81% instances), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt> (59; 10% instances), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt> (26; 4% instances)
+`AUX` occurs with 10 features: <tt><a href="cs_cltt-feat-Aspect.html">Aspect</a></tt> (619; 100% instances), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt> (619; 100% instances), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt> (594; 96% instances), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt> (547; 88% instances), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt> (547; 88% instances), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt> (547; 88% instances), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt> (513; 83% instances), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt> (488; 79% instances), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt> (59; 10% instances), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt> (26; 4% instances)
 
-`AUX` occurs with 20 feature-value pairs: `Animacy=Inan`, `Gender=Fem,Masc`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Neut`, `Mood=Cnd`, `Mood=Ind`, `Number=Plur`, `Number=Plur,Sing`, `Number=Sing`, `Person=3`, `Polarity=Neg`, `Polarity=Pos`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`
+`AUX` occurs with 21 feature-value pairs: `Animacy=Inan`, `Aspect=Imp`, `Gender=Fem,Masc`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Neut`, `Mood=Cnd`, `Mood=Ind`, `Number=Plur`, `Number=Plur,Sing`, `Number=Sing`, `Person=3`, `Polarity=Neg`, `Polarity=Pos`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`
 
-`AUX` occurs with 16 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act` (249 tokens).
+`AUX` occurs with 15 feature combinations.
+The most frequent feature combination is `Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act` (249 tokens).
 Examples: <em>je, není</em>
 
 

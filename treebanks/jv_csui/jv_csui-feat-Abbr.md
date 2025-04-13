@@ -45,7 +45,7 @@ The most frequent other feature values with which `DET` and `Abbr` co-occurred: 
 `DET` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>ki</em>
-* `EMPTY` (697): <em>e, iku, kuwi, iki, punika, saperangan, para, saben, dhewe, kabeh</em>
+* `EMPTY` (696): <em>e, iku, kuwi, iki, punika, saperangan, para, saben, dhewe, kabeh</em>
 
 ### `ADJ`
 

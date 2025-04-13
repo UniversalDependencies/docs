@@ -48,7 +48,7 @@ The 1st highest number of forms (1) was observed with the lemma “_”: _.
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="ja_bccwjluw-dep-mark.html">mark</a></tt> (26617; 100% instances), <tt><a href="ja_bccwjluw-dep-fixed.html">fixed</a></tt> (34; 0% instances), <tt><a href="ja_bccwjluw-dep-dep.html">dep</a></tt> (28; 0% instances)
+`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="ja_bccwjluw-dep-mark.html">mark</a></tt> (26616; 100% instances), <tt><a href="ja_bccwjluw-dep-fixed.html">fixed</a></tt> (35; 0% instances), <tt><a href="ja_bccwjluw-dep-dep.html">dep</a></tt> (28; 0% instances)
 
 Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (22369; 84% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (2132; 8% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (1739; 7% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> (152; 1% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (100; 0% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> (82; 0% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (58; 0% instances), <tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="ja_bccwjluw-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 

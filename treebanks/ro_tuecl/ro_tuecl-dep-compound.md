@@ -93,8 +93,8 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 4	pantaloni	pantalon	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	3	obj	_	_
 5	scurți	scurt	ADJ	_	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
 6	și	și	CCONJ	_	Polarity=Pos	7	cc	_	_
-7	crop	crop	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	4	conj	_	Lang=en
-8	top-uri	top	NOUN	_	Foreign=Yes|Gender=Masc|Number=Plur	7	compound	_	Lang=en
+7	crop	crop	NOUN	_	Foreign=Yes|Number=Sing	4	conj	_	Lang=en
+8	top-uri	top	NOUN	_	Foreign=Yes|Number=Plur	7	compound	_	Lang=en
 9	cu	cu	ADP	_	AdpType=Prep|Case=Acc	10	case	_	_
 10	decolteu	decolteu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	nmod	_	_
 11	imens	imens	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	10	amod	_	_

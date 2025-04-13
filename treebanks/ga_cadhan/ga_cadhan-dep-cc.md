@@ -11,9 +11,9 @@ This relation is universal.
 199 nodes (4%) are attached to their parents as `cc`.
 
 199 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.00502512562814.
+Average distance between parent and child is 2.01005025125628.
 
-The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (83; 42% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (65; 33% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (14; 7% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (13; 7% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (11; 6% instances), <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (5; 3% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-X.html">X</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (83; 42% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (65; 33% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (14; 7% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (14; 7% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (11; 6% instances), <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (5; 3% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="
 8	no	nó	CCONJ	_	_	9	cc	_	_
 9	la	lá	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	conj	_	_
 10	na	an	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	comhoboige	cúbóg	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+11	comhoboige	cúbóg	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
 
 ~~~

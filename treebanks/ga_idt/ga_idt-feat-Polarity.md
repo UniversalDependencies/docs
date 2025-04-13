@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (659; 100% of non-empty `Polarity`): <em>níl, raibh, bhfuil, bheidh, mbeadh, mbeidh, bheadh, dhéanfaidh, fhaca, bhfaca</em>
-* `EMPTY` (8109): <em>tá, bhí, atá, bhfuil, raibh, beidh, mbeadh, tháinig, thug, mbeidh</em>
+* `EMPTY` (8116): <em>tá, bhí, atá, bhfuil, raibh, beidh, mbeadh, tháinig, thug, mbeidh</em>
 
 `Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (103) occur only with one value of `Polarity`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `PART` and `Polarity` co-occur
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (553; 100% of non-empty `Polarity`): <em>nach, ní, níor, nár, ná, chan, n', cha</em>
-* `EMPTY` (6425): <em>a, go, d', níos, is, ó, gur, ina, an, do</em>
+* `EMPTY` (6423): <em>a, go, d', níos, is, ó, gur, ina, an, do</em>
 
 ### `AUX`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (291; 100% of non-empty `Polarity`): <em>ní, nach, nár, níor, níorbh, nárbh, chan, nách</em>
-* `EMPTY` (1264): <em>is, ba, gur, b', ar, gurb, an, gurbh, mba, ab</em>
+* `EMPTY` (1266): <em>is, ba, gur, b', ar, gurb, an, gurbh, mba, ab</em>
 
 ## Relations with Agreement in `Polarity`
 

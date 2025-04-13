@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-219 nodes (1%) are attached to their parents as `det`.
+217 nodes (1%) are attached to their parents as `det`.
 
-204 instances of `det` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.12785388127854.
+203 instances of `det` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11981566820276.
 
-The following 5 pairs of parts of speech are connected with `det`: <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (182; 83% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt>-<tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (11; 5% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt>-<tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (11; 5% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (10; 5% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (5; 2% instances).
+The following 5 pairs of parts of speech are connected with `det`: <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (181; 83% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt>-<tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (11; 5% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (10; 5% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt>-<tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (10; 5% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (5; 2% instances).
 
 
 ~~~ conllu
@@ -57,14 +57,16 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 det	color:blue
-1	Doai	don	PRON	Pron	Case=Nom|Number=Dual|Person=2|PronType=Prs	4	nsubj	_	_
-2	galgabeahtti	galgat	AUX	V	Mood=Ind|Number=Dual|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
-3	ieža	ieš	PRON	Pron	Case=Nom|Number=Dual|PronType=Prs|Reflex=Yes	1	det	_	_
-4	mannat	mannat	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	CLB	_	4	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 det	color:blue
+1	Lávži	lávži	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
+2	goallostuvvo	goallostit	VERB	V*	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	dan	dat	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	4	det	_	_
+4	ovddit	ovddit	ADJ	A	Degree=Cmp	5	amod	_	_
+5	noađđehearggi	noađđeheargi	NOUN	N	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	čeabehii	čeabet	NOUN	N	Case=Ill|Number=Sing	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

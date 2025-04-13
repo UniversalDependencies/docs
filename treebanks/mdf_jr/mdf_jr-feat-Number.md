@@ -184,12 +184,12 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>ADJ --[<tt><a href="mdf_jr-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (24; 83%),
 <tt>NOUN --[<tt><a href="mdf_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (20; 83%),
+<tt>NOUN --[<tt><a href="mdf_jr-dep-det.html">det</a></tt>]--> DET</tt> (17; 52%),
+<tt>NOUN --[<tt><a href="mdf_jr-dep-det.html">det</a></tt>]--> PRON</tt> (15; 58%),
 <tt>PROPN --[<tt><a href="mdf_jr-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (8; 89%),
 <tt>ADJ --[<tt><a href="mdf_jr-dep-conj.html">conj</a></tt>]--> ADJ</tt> (5; 100%),
 <tt>ADJ --[<tt><a href="mdf_jr-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> PROPN</tt> (5; 100%),
 <tt>PRON --[<tt><a href="mdf_jr-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (5; 83%),
 <tt>NOUN --[<tt><a href="mdf_jr-dep-acl.html">acl</a></tt>]--> VERB</tt> (4; 57%),
-<tt>ADJ --[<tt><a href="mdf_jr-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3; 100%),
-<tt>NOUN --[<tt><a href="mdf_jr-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (3; 75%),
-<tt>NOUN --[<tt><a href="mdf_jr-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3; 75%).
+<tt>ADJ --[<tt><a href="mdf_jr-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3; 100%).
 

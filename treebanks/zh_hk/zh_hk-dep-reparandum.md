@@ -79,7 +79,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 1	豪仔	豪仔	PROPN	_	_	4	nsubj	_	SpaceAfter=No|Translit=háozǐ|LTranslit=háozǐ
 2	今晚	今晚	NOUN	_	_	4	obl:tmod	_	SpaceAfter=No|Translit=jīnwǎn|LTranslit=jīnwǎn
 3	點	點	NOUN	_	NounType=Clf	4	reparandum	_	SpaceAfter=No|Translit=diǎn|LTranslit=diǎn
-4	來	來	VERB	_	_	0	root	_	SpaceAfter=No|Translit=lái|LTranslit=lái
+4	來	來	VERB	_	_	0	root	_	SpaceAfter=No|Translit=lái|LTranslit=lái|Cxn=Interrogative-Polar-Direct|CxnElt=4:Interrogative-Polar-Direct.Clause
 5	吃飯	吃飯	VERB	_	_	4	conj	_	SpaceAfter=No|Translit=chīfàn|LTranslit=chīfàn
 6	嗎	嗎	PART	_	_	4	discourse:sp	_	SpaceAfter=No|Translit=ma|LTranslit=ma
 7	？	？	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=?|LTranslit=?
@@ -96,9 +96,9 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 1	那時	那時	ADV	_	_	4	advmod	_	SpaceAfter=No|Translit=nàshí|LTranslit=nàshí
 2	我	我	PRON	_	_	4	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 3	在	在	VERB	_	_	4	reparandum	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-4	去	去	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qù|LTranslit=qù
+4	去	去	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qù|LTranslit=qù|Cxn=Interrogative-WHInfo-Direct|CxnElt=4:Interrogative-WHInfo-Direct.Clause
 5	了	了	AUX	_	_	4	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-6	哪裡	哪裡	PRON	_	_	4	obj	_	SpaceAfter=No|Translit=nǎli|LTranslit=nǎli
+6	哪裡	哪裡	PRON	_	_	4	obj	_	SpaceAfter=No|Translit=nǎli|LTranslit=nǎli|CxnElt=4:Interrogative-WHInfo-Direct.WHWord
 7	？	？	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=?|LTranslit=?
 
 ~~~

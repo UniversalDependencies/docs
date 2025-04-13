@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (269; 100% of non-empty `Abbr`): מק"ם, דו"ח, ש"ח, בג"ץ, נ"ט, ק"מ, חו"ל, ד"ר, יו"ר, מנכ"ל
-* `EMPTY` (34356): בית, שנת, משפט, ידי, חוק, אלבום, חלק, שימוש, סוכרת, שנים
+* `EMPTY` (34358): בית, שנת, משפט, ידי, חוק, אלבום, חלק, שימוש, סוכרת, שנים
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (58) occur only with one value of `Abbr`.
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (232; 100% of non-empty `Abbr`): אונר"א, או"ם, צה"ל, אצ"ל, מעו"ף, א"י, חר"ג, יש"ע, לח"י, בג"ץ
-* `EMPTY` (10216): ישראל, איינשטיין, כנסת, ירושלים, גרמניה, יהודה, ארץ, תל, בנק, שומרון
+* `EMPTY` (10215): ישראל, איינשטיין, כנסת, ירושלים, גרמניה, יהודה, ארץ, תל, בנק, שומרון
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (57) occur only with one value of `Abbr`.
 
@@ -58,14 +58,16 @@ The most frequent other feature values with which `ADP` and `Abbr` co-occurred: 
 `ADP` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): נ', ע"פ, ע"ש
-* `EMPTY` (23002): ב, ל, של, מ, על, את, כ, עם, בין, לאחר
+* `EMPTY` (23006): ב, ל, של, מ, על, את, כ, עם, בין, לאחר
 
 ### `ADV`
 
 1 <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Abbr`.
 
+The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="he_iahltwiki-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
+
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): לפנה"ס
-* `EMPTY` (3528): לא, גם, כ, יותר, כן, רק, אף, ביותר, אז, עוד
+* `EMPTY` (3527): לא, גם, כ, יותר, כן, רק, אף, ביותר, אז, עוד
 

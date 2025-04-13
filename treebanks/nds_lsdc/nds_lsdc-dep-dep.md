@@ -125,7 +125,7 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 16	‘	‘	PUNCT	_	_	19	punct	_	SpaceAfter=No
 17	as	as	ADP	_	_	19	case	_	lemma_gml=alsô
 18	eyn	eyn	NUM	_	NumType=Card	19	nummod	_	lemma_gml=êin,êine,êin
-19	persoon	persoon	NOUN	_	Gender=Fem|Number=Sing	28	obl	_	lemma_gml=persône|SpaceAfter=No
+19	persoon	persone	NOUN	_	Gender=Fem|Number=Sing	28	obl	_	lemma_gml=persône|SpaceAfter=No
 20	’	’	PUNCT	_	_	19	punct	_	_
 21	achter	achter	ADP	_	AdpType=Prep	23	case	_	lemma_gml=achter
 22	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	lemma_gml=dê,dê,dat

@@ -29,4 +29,4 @@ The `vocative` relation is used to mark a dialogue participant addressed.
 14	messages	_	NOUN	NOMcom	_	12	obj	_	_
 
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:48 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:29 CET -->

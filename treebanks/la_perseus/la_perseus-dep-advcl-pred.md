@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_perseus-dep-advcl.html">advcl</a></tt>.
 There are also 2 other language-specific subtypes of `advcl`: <tt><a href="la_perseus-dep-advcl-abs.html">advcl:abs</a></tt>, <tt><a href="la_perseus-dep-advcl-cmp.html">advcl:cmp</a></tt>.
 
-7 nodes (0%) are attached to their parents as `advcl:pred`.
+8 nodes (0%) are attached to their parents as `advcl:pred`.
 
-4 instances of `advcl:pred` (57%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.14285714285714.
+5 instances of `advcl:pred` (63%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.875.
 
-The following 5 pairs of parts of speech are connected with `advcl:pred`: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (3; 43% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (1; 14% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1; 14% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (1; 14% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1; 14% instances).
+The following 5 pairs of parts of speech are connected with `advcl:pred`: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (3; 38% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (2; 25% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (1; 13% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (1; 13% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1; 13% instances).
 
 
 ~~~ conllu
@@ -42,6 +42,24 @@ The following 5 pairs of parts of speech are connected with `advcl:pred`: <tt><a
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 advcl:pred	color:blue
+1	Ultimus	ulter	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	advcl:pred	_	LId=ulter1
+2	inmenso	immensus	ADJ	a-s---md-	Case=Dat|Gender=Masc|Number=Sing	7	amod	_	LId=immensus1
+3	restabas	resto	VERB	v2siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=resto1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Imperfectum
+4	,	,	PUNCT	u--------	_	5	punct	_	LId=comma1
+5	Nile	Nilus	PROPN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	SpaceAfter=No|LId=Nilus1
+6	,	,	PUNCT	u--------	_	5	punct	_	LId=comma1
+7	labori	labor	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	3	obl:arg	_	SpaceAfter=No|LId=labor2
+8	.	.	PUNCT	u--------	_	3	punct	_	LId=punc1
+
+~~~
+
+
+~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 1	bgColor:blue
@@ -63,49 +81,6 @@ The following 5 pairs of parts of speech are connected with `advcl:pred`: <tt><a
 14	cacumina	cacumen	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	LId=cacumen1
 15	nubes	nubes	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No|LId=nubes1
 16	.	.	PUNCT	u--------	_	4	punct	_	LId=punc1
-
-~~~
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 12 advcl:pred	color:blue
-1	quamvis	quamvis	SCONJ	d--------	_	8	mark	_	LId=quamvis1
-2	multa	multus	DET	a-p---na-	Case=Acc|Gender=Neut|Number=Plur|NumType=Card|PronType=Ind	7	det	_	LId=multus1
-3	tibi	tu	PRON	p-s---fd-	Case=Dat|Number=Sing|Person=2|PronType=Prs	8	obl:arg	_	LId=tu1
-4	dolor	dolor	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	LId=dolor1
-5	hic	hic	DET	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	LId=hic1
-6	meus	meus	DET	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	4	det	_	_
-7	aspera	asper	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	LId=asper1
-8	debet	debeo	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	_	LId=debeo1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-9	,	,	PUNCT	u--------	_	8	punct	_	LId=comma1
-10	non	non	PART	d--------	_	14	advmod:neg	_	LId=non1
-11	ita	ita	ADV	d--------	_	14	advmod	_	LId=ita1
-12	saeva	saevus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	14	advcl:pred	_	LId=saevus1
-13	tamen	tamen	ADV	d--------	_	14	advmod	_	LId=tamen1
-14	venerit	venio	VERB	v3srsa---	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=venio1|TraditionalMood=Subiunctivus|TraditionalTense=Perfectum
-15	ira	ira	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	LId=ira1
-16	mea	meus	DET	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	15	det	_	SpaceAfter=No
-17	,	,	PUNCT	u--------	_	18	punct	_	LId=comma1
-18	ut	ut	SCONJ	c--------	_	23	mark	_	LId=ut1
-19	tibi	tu	PRON	p-s---fd-	Case=Dat|Number=Sing|Person=2|PronType=Prs	23	obl:arg	_	LId=tu1
-20	sim	sum	AUX	v1spsa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	23	cop	_	LId=sum1|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
-21	merito	mereo	ADV	d--------	_	23	advmod	_	_
-22	semper	semper	ADV	d--------	AdvType=Tim	23	advmod:tmod	_	LId=semper1
-23	furor	furor	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	14	advcl	_	SpaceAfter=No|LId=furor2
-24	,	,	PUNCT	u--------	_	30	punct	_	LId=comma1
-25	et	et	CCONJ	c--------	_	30	cc	_	LId=et1
-26	tua	tuus	DET	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	28	det	_	_
-27	flendo	fleo	VERB	v---d--b-	Aspect=Prosp|Case=Abl|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	30	advcl	_	TraditionalMood=Gerundium
-28	lumina	lumen	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	30	nsubj	_	LId=lumen1
-29	deiectis	deicio	VERB	v-prpafb-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	30	advcl:abs	_	LId=deicio1|TraditionalMood=Participium|TraditionalTense=Perfectum
-30	turpia	turpis	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	23	conj	_	LId=turpis1
-31	sint	sum	AUX	v3ppsa---	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	LId=sum1|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
-32	lacrimis	lacrima	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	29	nsubj:pass	_	SpaceAfter=No|LId=lacrima1
-33	.	.	PUNCT	u--------	_	14	punct	_	LId=punc1
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-28 nodes (7%) are attached to their parents as `advmod`.
+29 nodes (7%) are attached to their parents as `advmod`.
 
-23 instances of `advmod` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.14285714285714.
+24 instances of `advmod` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.13793103448276.
 
-The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (15; 54% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (4; 14% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (3; 11% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="sga_dipsgg-pos-X.html">X</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (1; 4% instances).
+The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (15; 52% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (5; 17% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (3; 10% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-X.html">X</a></tt>-<tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

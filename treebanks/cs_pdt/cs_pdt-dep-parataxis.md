@@ -44,11 +44,11 @@ The following 32 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 parataxis	color:blue
-1	HYPO	HYPO	NOUN	BNXXX-----A----	Abbr=Yes|Polarity=Pos	0	root	0:root	SpaceAfter=No|LId=HYPO-88
+1	HYPO	HYPO	NOUN	BNXXX-----A----	Abbr=Yes	0	root	0:root	SpaceAfter=No|LId=HYPO-88
 2	-	-	PUNCT	Z:-------------	_	1	punct	1:punct	SpaceAfter=No
 3	Stavební	stavební	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	dep	4:dep	_
 4	mění	měnit	VERB	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	1:parataxis	_
-5	tarif	tarif	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	4	obj	4:obj	_
+5	tarif	tarif	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	4:obj	_
 
 ~~~
 
@@ -61,15 +61,15 @@ The following 32 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 6 10 parataxis	color:blue
 1	Zbývajících	zbývající	ADJ	AGFP2-----A----	Aspect=Imp|Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	2	amod	2:amod	LDeriv=zbývat
 2	18	18	NUM	C=-------------	NumForm=Digit|NumType=Card	3	nummod:gov	3:nummod:gov	_
-3	hodin	hodina	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	6	obl	6:obl	_
+3	hodin	hodina	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur	6	obl	6:obl	_
 4	by	být	AUX	Vc----------I--	Aspect=Imp|Mood=Cnd|VerbForm=Fin	6	aux	6:aux	_
 5	byla	být	AUX	VpQW----R-AAI--	Aspect=Imp|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	6	cop	6:cop	_
 6	skrytá	skrytý	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	0:root	LDeriv=skrýt
 7	za	za	ADP	RR--7----------	AdpType=Prep|Case=Ins	8	case	8:case	_
-8	obzorem	obzor	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	6	obl	6:obl:za:ins	_
+8	obzorem	obzor	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl	6:obl:za:ins	_
 9	(	(	PUNCT	Z:-------------	_	10	punct	10:punct	SpaceAfter=No
 10	viz	viz	VERB	Vi-S---2--A-P-1	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	6	parataxis	6:parataxis	LGloss=(odkaz_na_jiné_místo)
-11	obr	obrázek	NOUN	NNIXX-----A---b	Abbr=Yes|Animacy=Inan|Gender=Masc|Polarity=Pos	10	obj	10:obj	SpaceAfter=No
+11	obr	obrázek	NOUN	NNIXX-----A---b	Abbr=Yes|Animacy=Inan|Gender=Masc	10	obj	10:obj	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	11	punct	11:punct	_
 13	25	25	NUM	C=-------------	NumForm=Digit|NumType=Card	11	nummod	11:nummod	SpaceAfter=No
 14	)	)	PUNCT	Z:-------------	_	10	punct	10:punct	SpaceAfter=No

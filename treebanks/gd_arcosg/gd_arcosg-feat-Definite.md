@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 `DET` tokens may have the following values of `Definite`:
 
 * `Def` (4964; 100% of non-empty `Definite`): <em>an, na, a’, a', am, nan, 'n, nam, 'm, ‘n</em>
-* `EMPTY` (1575): <em>a, an, sin, seo, h-uile, am, mo, do, gach, ud</em>
+* `EMPTY` (1576): <em>a, an, sin, seo, h-uile, am, mo, do, gach, ud</em>
 
 ## Relations with Agreement in `Definite`
 

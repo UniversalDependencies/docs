@@ -12,15 +12,15 @@ udver: '2'
 # UD Finnish OOD
 
 Language: [Finnish](/fi/index.html) (code: `fi`)<br/>
-Family: Uralic, Finnic
+Family: Uralic
 
 This treebank has been part of Universal Dependencies since the UD v2.7 release.
 
 The following people have contributed to making this treebank part of UD: Jenna Kanerva.
 
 Repository: [UD_Finnish-OOD](https://github.com/UniversalDependencies/UD_Finnish-OOD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ood214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ood215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

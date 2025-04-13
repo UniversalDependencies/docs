@@ -82,9 +82,9 @@ The following 10 pairs of parts of speech are connected with `nsubj:outer`: <tt>
 4	רבים	רב	NOUN	NOUN	Gender=Masc|Number=Plur	3	nsubj	_	_
 5	היא	הוא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|Polarity=Pos	9	cop	_	SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	9	punct	_	_
-7	מה	מה	ADV	ADV	PronType=Int	9	nsubj	_	_
+7	מה	מה	ADV	ADV	PronType=Int	9	nsubj	_	CxnElt=9:Interrogative-WHInfo-Direct.WHWord
 8	עדיף	עדיף	ADJ	ADJ	Gender=Masc|Number=Sing	9	dep	_	HebSource=ConvUncertainHead|Modal=Yes
-9	שבבית	שבבית	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
+9	שבבית	שבבית	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	Cxn=Interrogative-WHInfo-Direct|CxnElt=9:Interrogative-WHInfo-Direct.Clause
 10	או	או	CCONJ	CCONJ	_	11	cc	_	_
 11	סנדוויץ	סנדוויץ	NOUN	NOUN	Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
 12	?	?	PUNCT	PUNCT	_	9	punct	_	_

@@ -28,7 +28,7 @@ The following 2 pairs of parts of speech are connected with `obl:cau`: <tt><a hr
 3	вежон	вежон	NOUN	N	Case=Nom|Number=Sing	7	obl:tmod	_	GTtags=Sg,Nom
 4	чӧж	чӧж	NOUN	N	Case=Nom|Number=Sing	3	case	_	GTtags=Sg,Nom
 5	нин	нин	ADV	Adv	AdvType=Tim	7	advmod:tmod	_	GTtags=Temp
-6	эз	оз	AUX	V	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past	7	aux:neg	_	GTtags=Neg,Ind,Prt1,Pl3
+6	эз	оз	AUX	V	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past	7	aux	_	GTtags=Neg,Ind,Prt1,Pl3
 7	велӧдны	велӧдны	VERB	V	Connegative=Yes|Number=Plur|Person=3	0	root	_	GTtags=TV,ConNeg,Pl3
 8	школаясын	школа	NOUN	N	Case=Ine|Number=Plur	7	obl:lmod	_	GTtags=Pl,Ine|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	7	punct	_	_
@@ -43,7 +43,7 @@ The following 2 pairs of parts of speech are connected with `obl:cau`: <tt><a hr
 # visual-style 13	fgColor:white
 # visual-style 13 7 obl:cau	color:blue
 1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
-2	эг	оз	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past	5	aux:neg	_	_
+2	эг	оз	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past	5	aux	_	_
 3	вермы	вермыны	AUX	V	Connegative=Yes	5	aux:pot	_	_
 4	сійӧс	сійӧ	PRON	Pron	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
 5	вӧтӧдны	вӧтӧдны	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No

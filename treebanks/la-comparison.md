@@ -73,7 +73,7 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 1721 sentences, 55286 tokens and 55519 syntactic words.</li>
+      <li>This corpus contains 1723 sentences, 55286 tokens and 55519 syntactic words.</li>
       </ul>
     </td>
   </tr>
@@ -293,7 +293,7 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 17 word types tagged as particles (PART): an, autem, ecce, enim, enimvero, equidem, haud, igitur, itaque, nam, namque, ne, nempe, non, num, o, quidem</li>
+      <li>This corpus contains 18 word types tagged as particles (PART): an, autem, ecce, enim, enimvero, equidem, haud, igitur, itaque, nam, namque, ne, nempe, non, num, o, quidem, quoque</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -305,7 +305,7 @@ udver: '2'
   <tr>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 15 lemmas tagged as pronouns (PRON): aliquis, ego, is, nemo, nihil, nonnihil, nos, qui, quis, quisquam, quisquis, sui, tantum, tu, uos</li>
+      <li>This corpus contains 14 lemmas tagged as pronouns (PRON): aliquis, ego, is, nemo, nihil, nonnihil, nos, qui, quis, quisquam, quisquis, sui, tu, uos</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -369,7 +369,7 @@ udver: '2'
   <tr>
     <td width="16%" valign="top">
       <ul>
-      <li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: quis, quisquis, sui, tantum</li>
+      <li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: quis, quisquis, sui</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -2792,7 +2792,7 @@ udver: '2'
         <li>Neg
           <ul>
             <li>ADJ: inpossibile, impossibile, iniustum, inmeritus, inconveniens, ignari, impari, impius, incorruptibilis, inopina</li>
-            <li>ADV: nunquam, nondum, inconvenienter, iniuste, nequaquam, nimirum, inconsulte, inmediate, nequicquam, nichil</li>
+            <li>ADV: nunquam, nondum, inconvenienter, iniuste, nequaquam, nichil, nimirum, inconsulte, inmediate, nequicquam</li>
             <li>ADV-Part: inconsulte, inmediate</li>
             <li>CCONJ: nec, neque, necnon, nedum</li>
             <li>DET: nulla, nullo, nullum, nulli, nullus, nullius, nullam, nullos, nullis, neutrum</li>
@@ -4019,7 +4019,6 @@ udver: '2'
           <ul>
             <li>ADV: ita, sic, tam, tamen, tantum, hinc, tunc, inde, hic, illic</li>
             <li>DET: hoc, haec, ille, ipse, hic, ipsa, hunc, idem, ista, eadem</li>
-            <li>PRON: tantum</li>
           </ul>
         </li>
       </ul>
@@ -5633,7 +5632,7 @@ udver: '2'
                 <li>ADV: tamen, plerumque, denique, quippe, ubique, utrimque</li>
                 <li>CCONJ: ac, atque</li>
                 <li>DET: eadem, idem, ipso, ipsum, eodem, ipsa, ipse, ipsi, ipsis, eundem</li>
-                <li>PART: enim, quoque, nempe</li>
+                <li>PART: quoque, enim, nempe</li>
               </ul>
             </li>
           </ul>
@@ -5672,7 +5671,17 @@ udver: '2'
 
     </td>
     <td width="16%" valign="top">
-
+      <ul>
+        <li><a>Form</a>
+          <ul>
+            <li>Emp
+              <ul>
+                <li>PART: quoque</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
@@ -5749,7 +5758,6 @@ udver: '2'
                 <li>NOUN: arma, bella, deos, caelum, malis, regna, tela, caelo, armis, fata</li>
                 <li>NOUN-Part: secreta, instituta, secretum</li>
                 <li>NUM: uno, unum, unus, ducenti, duo, duos, uni</li>
-                <li>PRON: tantum</li>
                 <li>PROPN: Lycus, Phoebus, Rhenum, Tartari, Aegisthe, Argos, Phoebi, Eurystheus, Oceano, Phoebum</li>
               </ul>
             </li>
@@ -6370,7 +6378,6 @@ udver: '2'
                 <li>NOUN-Inf: Ducatus</li>
                 <li>NOUN-Part: Strate</li>
                 <li>PROPN: Ytalie, Ytalia, Tuscia, Florentia, Ytaliam, Europa, Europe, Ierusalem, Roma, Sarni</li>
-                <li>X: Cascioli, Fiorensa, Lucca, Pisa, Siena</li>
               </ul>
             </li>
             <li>Giv
@@ -6415,7 +6422,6 @@ udver: '2'
                 <li>ADJ: Saturnia, cristiane, Cristiana, cristianam, cristianorum</li>
                 <li>NOUN: Dei, Deus, Deo, Deum, Angelos, El, Musa, Seraphin, Victoria</li>
                 <li>PROPN: Apollo, Amphitritis, Dardanus, Electra, Herculis, Acidis, Anubis, Apollini, Astrea, Chyron</li>
-                <li>X: Dio</li>
               </ul>
             </li>
             <li>Sur
@@ -6842,7 +6848,7 @@ udver: '2'
                 <li>NUM: Sex</li>
                 <li>PRON: Eo, Eius</li>
                 <li>VERB-Part: Sancto, Sanctum, Sancti, Animante, Crucifixi, Digestorum, Sanctus, Uncto</li>
-                <li>X: Amor, Dio, Scala, de, la</li>
+                <li>X: Scala, de, la</li>
               </ul>
             </li>
           </ul>
@@ -7177,7 +7183,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Acc (11)</li>
             <li>VERB-Fin--NOUN-Gen (3)</li>
             <li>VERB-Fin--NOUN-Nom (889)</li>
-            <li>VERB-Fin--PRON (10)</li>
+            <li>VERB-Fin--PRON (9)</li>
             <li>VERB-Fin--PRON-Acc (11)</li>
             <li>VERB-Fin--PRON-Nom (391)</li>
             <li>VERB-Fin--PRON-Voc (1)</li>
@@ -7210,7 +7216,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Gen (1)</li>
             <li>VERB-Fin--NOUN-Nom (5)</li>
             <li>VERB-Fin--PRON (7)</li>
-            <li>VERB-Fin--PRON-Acc (162)</li>
+            <li>VERB-Fin--PRON-Acc (161)</li>
             <li>VERB-Fin--PRON-Acc-ADP(contra) (1)</li>
             <li>VERB-Fin--PRON-Nom (1)</li>
             <li>VERB-Inf--NOUN (2)</li>
@@ -7327,9 +7333,9 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB-Fin--NOUN-Abl (69)</li>
-            <li>VERB-Fin--NOUN-Acc (1134)</li>
-            <li>VERB-Fin--NOUN-Gen (6)</li>
-            <li>VERB-Fin--NOUN-Nom (11)</li>
+            <li>VERB-Fin--NOUN-Acc (1133)</li>
+            <li>VERB-Fin--NOUN-Gen (7)</li>
+            <li>VERB-Fin--NOUN-Nom (10)</li>
             <li>VERB-Fin--PRON (9)</li>
             <li>VERB-Fin--PRON-Acc (346)</li>
             <li>VERB-Fin--PRON-Gen (1)</li>
@@ -7369,7 +7375,7 @@ udver: '2'
             <li>VERB-Inf--NOUN (1)</li>
             <li>VERB-Inf--NOUN-Acc (238)</li>
             <li>VERB-Inf--NOUN-Dat (1)</li>
-            <li>VERB-Inf--PRON (4)</li>
+            <li>VERB-Inf--PRON (3)</li>
             <li>VERB-Inf--PRON-Abl (1)</li>
             <li>VERB-Inf--PRON-Acc (77)</li>
             <li>VERB-Inf--PRON-Nom (2)</li>
@@ -7537,7 +7543,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 30 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advcl:relcl</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:relcl</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>csubj:pass</a>, <a>csubj:relcl</a>, <a>det:numgov</a>, <a>dislocated:csubj</a>, <a>dislocated:nsubj</a>, <a>flat:gov</a>, <a>flat:name</a>, <a>flat:redup</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmp</a>, <a>obl:lmod</a>, <a>obl:tmod</a>, <a>orphan:missing</a>, <a>parataxis:reporting</a>, <a>xcomp:relcl</a></li>
+      <li>This corpus uses 31 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advcl:relcl</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:relcl</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>csubj:pass</a>, <a>csubj:relcl</a>, <a>det:numgov</a>, <a>dislocated:csubj</a>, <a>dislocated:nsubj</a>, <a>flat:gov</a>, <a>flat:name</a>, <a>flat:redup</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmp</a>, <a>obl:lmod</a>, <a>obl:tmod</a>, <a>orphan:missing</a>, <a>parataxis:rep</a>, <a>parataxis:reporting</a>, <a>xcomp:relcl</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>dislocated</a></li>
       <li>The following 8 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a>, <a>dep</a></li>
       </ul>
@@ -7572,7 +7578,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
+      <li>This corpus uses 18 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>flat:name</a>, <a>flat:redup</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
       <li>The following 10 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>

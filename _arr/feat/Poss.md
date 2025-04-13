@@ -25,4 +25,4 @@ The feature `Poss` is similar to the feature [`Rel`](https://github.com/Universa
 * _<b>po</b>&nbsp;_ “hand”
 * _<b>m(b)o</b>&nbsp;_ “Hand of a person” (HUM.hand)
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:16 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:00 CET -->

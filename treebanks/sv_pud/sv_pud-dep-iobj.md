@@ -73,8 +73,8 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 5 iobj	color:blue
 1	Tidigare	tidigt	ADV	AB|KOM	Degree=Cmp	4	advmod	4:advmod	_
-2	i	i	ADP	PP	_	1	advmod	1:advmod	_
-3	år	år	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	2	fixed	2:fixed	_
+2	i	i	ADP	PP	_	3	case	3:case	_
+3	år	år	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	1	nmod	1:nmod:i	_
 4	gavs	ge	VERB	VB|PRT|SFO	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 5	Seagal	Seagal	PROPN	PM|NOM	Case=Nom	4	iobj	4:iobj	_
 6	serbiskt	serbisk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	7	amod	7:amod	_

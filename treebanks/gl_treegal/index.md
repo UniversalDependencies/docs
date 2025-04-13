@@ -12,15 +12,15 @@ udver: '2'
 # UD Galician TreeGal
 
 Language: [Galician](/gl/index.html) (code: `gl`)<br/>
-Family: Indo-European, Romance
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.4 release.
 
 The following people have contributed to making this treebank part of UD: Marcos Garcia, Xulia Sánchez-Rodríguez.
 
 Repository: [UD_Galician-TreeGal](https://github.com/UniversalDependencies/UD_Galician-TreeGal)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_treegal214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_treegal215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: LGPL-LR
 
@@ -71,7 +71,7 @@ Galician-TreeGal v0.42 contains 1000 sentences of the xeral corpus (~25k tokens)
 
 ## Features
 
-[AdpType](gl_treegal-feat-AdpType.html) – [Case](gl_treegal-feat-Case.html) – [Clitic](gl_treegal-feat-Clitic.html) – [Definite](gl_treegal-feat-Definite.html) – [Degree](gl_treegal-feat-Degree.html) – [Gender](gl_treegal-feat-Gender.html) – [Mood](gl_treegal-feat-Mood.html) – [Number](gl_treegal-feat-Number.html) – [Number[psor]](gl_treegal-feat-Number-psor.html) – [NumType](gl_treegal-feat-NumType.html) – [Person](gl_treegal-feat-Person.html) – [Polarity](gl_treegal-feat-Polarity.html) – [Poss](gl_treegal-feat-Poss.html) – [PronType](gl_treegal-feat-PronType.html) – [Tense](gl_treegal-feat-Tense.html) – [VerbForm](gl_treegal-feat-VerbForm.html)
+[AdpType](gl_treegal-feat-AdpType.html) – [Case](gl_treegal-feat-Case.html) – [Clitic](gl_treegal-feat-Clitic.html) – [Definite](gl_treegal-feat-Definite.html) – [Degree](gl_treegal-feat-Degree.html) – [Foreign](gl_treegal-feat-Foreign.html) – [Gender](gl_treegal-feat-Gender.html) – [Mood](gl_treegal-feat-Mood.html) – [Number](gl_treegal-feat-Number.html) – [Number[psor]](gl_treegal-feat-Number-psor.html) – [NumType](gl_treegal-feat-NumType.html) – [Person](gl_treegal-feat-Person.html) – [Polarity](gl_treegal-feat-Polarity.html) – [Poss](gl_treegal-feat-Poss.html) – [PronType](gl_treegal-feat-PronType.html) – [Tense](gl_treegal-feat-Tense.html) – [VerbForm](gl_treegal-feat-VerbForm.html)
 
 ## Relations
 
@@ -182,7 +182,7 @@ Galician-TreeGal v0.42 contains 1000 sentences of the xeral corpus (~25k tokens)
 <ul>
   <li>Com
     <ul>
-      <li>ADJ: obstante, embargante, best, coincidente, diferentes, Simple, Visitábel, bípedes, capaz, conscientes</li>
+      <li>ADJ: obstante, embargante, coincidente, diferentes, Simple, Visitábel, bípedes, capaz, conscientes, fráxil</li>
       <li>NOUN: nacionalistas, socialistas, galeguista, guitarristas, prol, xornalistas, Babecas, Finalistas, alcalde, antípoda</li>
       <li>NUM: 13.000, cen</li>
       <li>PRON: se, nos, que, me, quen, lle, eu, nós, vostede, alguén</li>
@@ -639,6 +639,18 @@ Galician-TreeGal v0.42 contains 1000 sentences of the xeral corpus (~25k tokens)
       <li>Yes
         <ul>
           <li>PRON: se, lle, nos, o, me, lo, lles, a, as, os</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: best, iudice, sellers, sub</li>
         </ul>
       </li>
     </ul>

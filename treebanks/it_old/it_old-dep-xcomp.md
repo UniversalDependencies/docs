@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1017 nodes (1%) are attached to their parents as `xcomp`.
+1366 nodes (1%) are attached to their parents as `xcomp`.
 
-774 instances of `xcomp` (76%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.87807276302852.
+1114 instances of `xcomp` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.80673499267936.
 
-The following 22 pairs of parts of speech are connected with `xcomp`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (529; 52% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (314; 31% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (79; 8% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (24; 2% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (19; 2% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (15; 1% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `xcomp`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (756; 55% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (447; 33% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (58; 4% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (39; 3% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (24; 2% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,24 +52,31 @@ The following 22 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 xcomp	color:blue
-1	Se	se	SCONJ	cssv	_	4	mark	_	Canto=24|Verso=57
-2	tu	tu	PRON	pp2slso	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Canto=24|Verso=57
-3	mi	mi	PRON	pp1syac	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	obj	_	Canto=24|Verso=57
-4	'ntendi	intendere	VERB	vta2ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	Canto=24|SpaceAfter=No|Verso=57
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	or	ora	ADV	cscn	_	7	advmod:tmod	_	Canto=24|Verso=57
-7	fa	fare	VERB	vta1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Canto=24|Verso=57
-8	sì	così	ADV	b	_	7	xcomp	_	Canto=24|Verso=57
-9	che	che	SCONJ	cssu	_	11	mark	_	Canto=24|Verso=57
-10	ti	ti	PRON	pp2syda	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	11	iobj	_	Canto=24|Verso=57
-11	vaglia	valere	VERB	vi*2cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	Canto=24|SpaceAfter=No|Verso=57
-12	»	»	PUNCT	_	_	7	punct	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 19 14 xcomp	color:blue
+1	Qual	quale	DET	ar	PronType=Rel	3	det	_	Canto=17|Verso=46
+2	si	si	PRON	pf3yle	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	Canto=17|Verso=46
+3	partio	partire	VERB	vi+3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	advcl:cmp	_	Canto=17|Verso=46
+4	Ipolito	Ippolito	PROPN	np	_	3	nsubj	_	Canto=17|Verso=46
+5	d'	da	ADP	epskdl	_	6	case	_	Canto=17|Verso=46
+6	Atene	Atene	PROPN	np	_	3	obl:lmod	_	Canto=17|Verso=46
+7	per	per	ADP	epskr	_	12	case	_	Canto=17|Verso=47
+8	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	Canto=17|Verso=47
+9	spietata	spietato	ADJ	a1fs	Gender=Fem|Number=Sing	12	amod	_	Canto=17|Verso=47
+10	e	e	CCONJ	cscc	_	11	cc	_	Canto=17|Verso=47
+11	perfida	perfido	ADJ	a1fs	Gender=Fem|Number=Sing	9	conj	_	Canto=17|Verso=47
+12	noverca	noverca	NOUN	sf1fs	Gender=Fem|Number=Sing	3	obl	_	Canto=17|Verso=47|SpaceAfter=No
+13	,	,	PUNCT	_	_	3	punct	_	_
+14	tal	tale	DET	a2ns	_	19	xcomp	_	Canto=17|Verso=48
+15	di	di	ADP	epska	_	16	case	_	Canto=17|Verso=48
+16	Fiorenza	Firenze	PROPN	np	_	17	obl:lmod	_	Canto=17|Verso=48
+17	partir	partire	VERB	vi3fp	Tense=Pres|VerbForm=Inf	19	csubj	_	Canto=17|Verso=48
+18	ti	ti	PRON	pp2syda	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	19	iobj	_	Canto=17|Verso=48
+19	convene	convenire	VERB	vi*3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Canto=17|Verso=48|SpaceAfter=No
+20	.	.	PUNCT	_	_	19	punct	_	_
 
 ~~~
 

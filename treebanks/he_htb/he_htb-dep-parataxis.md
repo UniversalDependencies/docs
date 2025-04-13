@@ -31,8 +31,8 @@ The following 36 pairs of parts of speech are connected with `parataxis`: <tt><a
 7	,	,	PUNCT	PUNCT	_	5	punct	_	_
 8	"	"	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No
 9	ל	ל	ADP	ADP	_	10	case	_	_
-10	מי	מי	ADV	ADV	PronType=Int	11	obl	_	_
-11	יש	יש	VERB	VERB	HebExistential=Yes	3	obl	_	_
+10	מי	מי	ADV	ADV	PronType=Int	11	obl	_	CxnElt=11:Interrogative-WHInfo-Direct.WHWord
+11	יש	יש	VERB	VERB	HebExistential=Yes	3	obl	_	Cxn=Interrogative-WHInfo-Direct|CxnElt=11:Interrogative-WHInfo-Direct.Clause
 12	רעיונות	רעיון	NOUN	NOUN	Gender=Masc|Number=Plur	11	nsubj	_	_
 13	מעניינים	מעניין	ADJ	ADJ	Gender=Masc|Number=Plur	12	amod	_	SpaceAfter=No
 14	?	?	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No

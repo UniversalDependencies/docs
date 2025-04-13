@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-328 nodes (2%) are attached to their parents as `mark`.
+327 nodes (2%) are attached to their parents as `mark`.
 
-328 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.40243902439024.
+327 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.40672782874618.
 
-The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (257; 78% instances), <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (25; 8% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (13; 4% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (12; 4% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (7; 2% instances), <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-X.html">X</a></tt>-<tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (257; 79% instances), <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (25; 8% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (12; 4% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (12; 4% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (7; 2% instances), <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-X.html">X</a></tt>-<tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -62,19 +62,22 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 1 mark	color:blue
-1	baːyan	baːyan	ADP	_	_	3	mark	_	AlignBegin=75021|AlignEnd=75241|Gloss=after
-2	mun	_	AUX	sun	Aspect=Perf|Number=Plur|Person=1	3	aux	_	AlignBegin=75241|AlignEnd=75461|Gloss=1Plur.Perf
-3	yiwoː	yi	VERB	_	_	7	advcl	_	AlignBegin=75461|AlignEnd=75681|Gloss=do.DIR
-4	itàːcên	itàːceː	NOUN	_	Definite=Def	3	obj	_	AlignBegin=75681|AlignEnd=75791|Gloss=wood.Def
-5	nan	nan	DET	_	Definite=Def	4	det	_	AlignBegin=75901|AlignEnd=76121|Gloss=Def
-6	mun	_	AUX	sun	Aspect=Perf|Number=Plur|Person=1	7	aux	_	AlignBegin=76121|AlignEnd=76341|Gloss=1Plur.Perf
-7	daːwoː	daːwoː	VERB	_	_	0	root	_	AlignBegin=76341|AlignEnd=76561|Gloss=come_back
-8	//	//	PUNCT	_	_	7	punct	_	AlignBegin=76561|AlignEnd=76777|Gloss=PUNCT
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 mark	color:blue
+1	dug	dukà	DET	_	PronType=Tot	2	det	_	AlignBegin=270219|AlignEnd=270416|Gloss=all
+2	gàrin	gàriː	NOUN	_	Definite=Cons	9	dislocated	_	AlignBegin=270416|AlignEnd=270514|Gloss=town.Cons|wordform=gàriː
+3	dà	dà	SCONJ	_	_	4	mark	_	AlignBegin=270613|AlignEnd=270810|Gloss=COMP
+4	àkwai	àkwai	PART	_	_	2	acl:relcl	_	AlignBegin=270810|AlignEnd=271007|Gloss=there_is
+5	g~	g~	NOUN	_	_	6	reparandum	_	AlignBegin=271007|AlignEnd=271204|Gloss=HESIT
+6	gaːnuwaː	gaːnuwaː	NOUN	_	_	4	nsubj	_	AlignBegin=271204|AlignEnd=271401|Gloss=rampart
+7	<	<	PUNCT	_	_	2	punct	_	AlignBegin=271401|AlignEnd=271600|Gloss=PUNCT
+8	kuma	kuma	PART	_	_	9	discourse	_	AlignBegin=271882|AlignEnd=272108|Gloss=too
+9	àkwai	àkwai	PART	_	_	0	root	_	AlignBegin=272108|AlignEnd=272334|Gloss=there_is
+10	kuːkoːkiː	kuːkàː	NOUN	_	Number=Plur	9	nsubj	_	AlignBegin=272334|AlignEnd=272447|Gloss=baobab.Plur
+11	//	//	PUNCT	_	_	9	punct	_	AlignBegin=272560|AlignEnd=272786|Gloss=PUNCT
 
 ~~~
 

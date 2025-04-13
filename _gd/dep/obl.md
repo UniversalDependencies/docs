@@ -6,10 +6,15 @@ udver: '2'
 ---
 
 The `obl` relation is used for a nominal (noun, pronoun, noun phrase) functioning as a non-core (oblique) argument or adjunct to a verb, adverb, adjective or verbal noun.
-If the nominal is modifying a noun, proper noun, pronoun or symbol then use `nmod` instead.
+If the nominal is modifying a noun, proper noun, pronoun or symbol then use [nmod]() instead.
 
-In the Scottish Gaelic treebank the `obl` relation is almost always marked with an adposition connected to it with the `case` relation.
-The subtypes `obl:smod` and `obl:tmod` are for expressions of space and time respectively which are not marked with an adposition.
+If the nominal is specifying the agent of a passive formed with the irregular verb _rach_ (usually realised as _chaidh_ in the past tense or _thèid_ in the future) connected to a verbal noun with the [aux:pass]() relation then use [obl:agent]() instead.
+
+In the Scottish Gaelic treebank the `obl` relation is marked with an adposition connected to it with the `case` relation.
+
+(Up to release 2.15) The subtypes [obl:smod]() and [obl:tmod]() are for expressions of space and time respectively which are not marked with an adposition.
+
+(Release 2.16) The subtype [obl:unmarked]() is used for where there is no adposition and the noun is in the nominative case.
 
 ### Examples
 
@@ -45,4 +50,4 @@ _Bha ealain a’ bhàird a' toirt cothrom do 'n <b>luchd-éisteachd</b>_ 'The wo
 10	luchd-éisteachd	neach-éisteachd	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	_
 
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:34 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:15 CET -->

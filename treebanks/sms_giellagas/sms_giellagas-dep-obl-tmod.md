@@ -53,7 +53,7 @@ The following 3 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 12	leežž	leeʹd	AUX	Aux	Mood=Pot|Number=Sing|Person=3	13	aux	_	GTtags=IV,Pot,Sg3
 13	šõddâm	šõddâd	VERB	V	Aspect=Perf|VerbForm=Part	4	advcl	_	GTtags=Act,PrfPrc
 14	ǥu	ǥu	SCONJ	CS	_	18	mark	_	_
-15	ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	18	aux:neg	_	GTtags=Neg,Ind,Sg3
+15	ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	18	aux	_	GTtags=Neg,Ind,Sg3
 16	tâʹl	tâʹl	ADV	Adv	AdvType=Tim	18	advmod:tmod	_	GTtags=Sem/Time
 17	ni	ni	PART	Pcle	_	18	advmod:neg	_	_
 18	vuäittam	vueiʹtted	VERB	V	Aspect=Perf|VerbForm=Part	13	advcl	_	GTtags=Act,PrfPrc|SpaceAfter=No

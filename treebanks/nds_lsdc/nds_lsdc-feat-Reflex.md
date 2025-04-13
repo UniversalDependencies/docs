@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (111; 100% of non-empty `Reflex`): <em>sik, sek, sich, süch, sük, sy</em>
-* `EMPTY` (2470): <em>ik, hee, see, et, dat, dee, my, wat, wy, em</em>
+* `EMPTY` (2482): <em>ik, hee, see, et, dat, dee, my, wat, wy, em</em>
 

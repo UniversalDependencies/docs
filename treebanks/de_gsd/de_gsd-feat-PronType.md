@@ -19,7 +19,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="de_gsd-pos-DET.html
 
 41203 <tt><a href="de_gsd-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="de_gsd-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (35553; 86%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (34018; 83%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (29413; 71%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="de_gsd-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (35553; 86%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (34015; 83%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (29413; 71%).
 
 `DET` tokens may have the following values of `PronType`:
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Ind` (99; 8% of non-empty `PronType`): <em>etwas, mehr, genug, viel, wenig, bisschen, anderem, bischen, bißchen, solch</em>
 * `Int` (326; 28% of non-empty `PronType`): <em>wo, wobei, wie, warum, wodurch, wovon, weshalb, woraufhin, wonach, wozu</em>
 * `Neg` (3; 0% of non-empty `PronType`): <em>keineswegs</em>
-* `EMPTY` (13810): <em>auch, nur, noch, sehr, so, dort, wieder, hier, heute, jedoch</em>
+* `EMPTY` (12715): <em>auch, nur, noch, sehr, so, dort, wieder, hier, heute, jedoch</em>
 
 `PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (52) occur only with one value of `PronType`.
 

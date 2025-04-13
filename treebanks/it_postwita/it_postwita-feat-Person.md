@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-15004 tokens (12%) have a non-empty value of `Person`.
-2829 types (16%) occur at least once with a non-empty value of `Person`.
+15003 tokens (12%) have a non-empty value of `Person`.
+2828 types (16%) occur at least once with a non-empty value of `Person`.
 1010 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (6961; 6% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4162; 3% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (3880; 3% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (6960; 6% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4162; 3% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (3880; 3% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-6961 <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Person`.
+6960 <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6960; 100%), <tt><a href="it_postwita-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6958; 100%), <tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6173; 89%), <tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5753; 83%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5537; 80%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6959; 100%), <tt><a href="it_postwita-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6957; 100%), <tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6172; 89%), <tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5753; 83%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5536; 80%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (1703; 24% of non-empty `Person`): <em>ho, amo, so, visto, speriamo, credo, spero, faccio, capito, vedo</em>
-* `2` (963; 14% of non-empty `Person`): <em>fai, fate, hai, segui, pensi, sai, Controlla, vai, dite, scusa</em>
+* `2` (962; 14% of non-empty `Person`): <em>fai, fate, hai, segui, pensi, sai, Controlla, vai, dite, scusa</em>
 * `3` (4295; 62% of non-empty `Person`): <em>fa, è, ha, dice, piace, va, parla, fanno, sembra, sa</em>
 * `EMPTY` (4304): <em>fare, fatto, far, dire, detto, vedere, andare, avere, pagare, parlare</em>
 
@@ -103,10 +103,12 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 1 <tt><a href="it_postwita-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Person`.
 
+The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="it_postwita-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%).
+
 `X` tokens may have the following values of `Person`:
 
 * `2` (1; 100% of non-empty `Person`): <em>te</em>
-* `EMPTY` (962): <em>of, Prince, i, live, a, and, on, the, in, my</em>
+* `EMPTY` (976): <em>of, Prince, i, live, a, and, on, the, in, my</em>
 
 ## Relations with Agreement in `Person`
 

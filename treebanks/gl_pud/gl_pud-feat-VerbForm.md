@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-802 tokens (3%) have a non-empty value of `VerbForm`.
+803 tokens (3%) have a non-empty value of `VerbForm`.
 533 types (9%) occur at least once with a non-empty value of `VerbForm`.
 398 lemmas (9%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (762; 3% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (40; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (763; 3% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (40; 0% instances).
 
 ### `VERB`
 
-762 <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> tokens (34% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+763 <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> tokens (34% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="gl_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (757; 99%), <tt><a href="gl_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (755; 99%), <tt><a href="gl_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (750; 98%), <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (520; 68%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (508; 67%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="gl_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (758; 99%), <tt><a href="gl_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (756; 99%), <tt><a href="gl_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (751; 98%), <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (521; 68%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (509; 67%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (5; 1% of non-empty `VerbForm`): <em>Están, observan, parece, permite, pilota</em>
 * `Ger` (71; 9% of non-empty `VerbForm`): <em>incluíndo, axudando, convertendo, crecendo, dicindo, iniciando, preparando, traballando, utilizando, aliviando</em>
-* `Inf` (444; 58% of non-empty `VerbForm`): <em>facer, ver, ter, manter, axudar, deixar, enviar, establecer, partir, pensar</em>
+* `Inf` (445; 58% of non-empty `VerbForm`): <em>facer, ver, ter, manter, axudar, deixar, enviar, establecer, partir, pensar</em>
 * `Part` (242; 32% of non-empty `VerbForm`): <em>debido, baseadas, dirixida, incluídos, localizadas, mediados, publicado, acusado, anticipado, coprotagonizado</em>
 * `EMPTY` (1494): <em>hai, dixo, ten, tivo, comezou, fixo, declarou, é, tiña, afirmou</em>
 

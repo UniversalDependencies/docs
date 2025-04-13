@@ -50,4 +50,4 @@ Causative expresses a subject that is the cause of the action done by a distinct
 
 #### Examples
 - _uː= tak ʔaraːw =i aka -jeː hoːj giːg <b>-is<b> -ta =ja_ "you made the man who is my friend leave for good!"
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:27 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:11 CET -->

@@ -9,30 +9,30 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-7 tokens (0%) have a non-empty value of `Abbr`.
-5 types (0%) occur at least once with a non-empty value of `Abbr`.
-5 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 2 part-of-speech tags: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+25 tokens (0%) have a non-empty value of `Abbr`.
+6 types (0%) occur at least once with a non-empty value of `Abbr`.
+6 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 2 part-of-speech tags: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (21; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (4; 0% instances).
 
 ### `NOUN`
 
-6 <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+21 <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 67%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12; 57%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 52%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (6; 100% of non-empty `Abbr`): <em>ha, D, D., Dr.</em>
-* `EMPTY` (77553): <em>años, año, parte, población, ciudad, personas, municipio, estado, km, familia</em>
+* `Yes` (21; 100% of non-empty `Abbr`): <em>Dr., ha, D, D., N°</em>
+* `EMPTY` (77561): <em>años, año, parte, población, ciudad, personas, municipio, estado, km, familia</em>
 
 ### `PROPN`
 
-1 <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Abbr`.
+4 <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 
-* `Yes` (1; 100% of non-empty `Abbr`): <em>Inc.</em>
-* `EMPTY` (39244): <em>san, España, Estados, Unidos, Juan, madrid, José, septiembre, julio, enero</em>
+* `Yes` (4; 100% of non-empty `Abbr`): <em>Inc.</em>
+* `EMPTY` (39235): <em>san, España, Estados, Unidos, Juan, madrid, José, septiembre, julio, enero</em>
 

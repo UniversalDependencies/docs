@@ -42,13 +42,13 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 5919 <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> tokens (15% of all `ADJ` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (5919; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5708; 96%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3571; 60%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3334; 56%), <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3031; 51%).
+The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (5919; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5708; 96%), <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4946; 84%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3571; 60%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3334; 56%).
 
 `ADJ` tokens may have the following values of `Voice`:
 
 * `Act` (931; 16% of non-empty `Voice`): <em>vedoucí, rozhodující, ležící, následující, odpovídající, týkající, následujících, chybějící, vynikající, následujícím</em>
 * `Pass` (4988; 84% of non-empty `Voice`): <em>řečeno, spojených, spojené, určené, připravena, odsouzeného, ozbrojených, přesvědčen, uvedené, přesvědčeni</em>
-* `EMPTY` (34855): <em>první, další, české, nové, druhé, poslední, státní, možné, dalších, vlastní</em>
+* `EMPTY` (34848): <em>první, další, české, nové, druhé, poslední, státní, možné, dalších, vlastní</em>
 
 `Voice` seems to be **lexical feature** of `ADJ`. 100% lemmas (1776) occur only with one value of `Voice`.
 

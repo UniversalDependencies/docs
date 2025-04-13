@@ -9,36 +9,36 @@ udver: '2'
 This feature is universal but the values `Aug`, `Dim` are language-specific.
 It occurs with 4 different values: `Aug`, `Cmp`, `Dim`, `Sup`.
 
-57 tokens (0%) have a non-empty value of `Degree`.
-29 types (2%) occur at least once with a non-empty value of `Degree`.
-26 lemmas (2%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (36; 0% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (20; 0% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+75 tokens (0%) have a non-empty value of `Degree`.
+39 types (2%) occur at least once with a non-empty value of `Degree`.
+36 lemmas (2%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 4 part-of-speech tags: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (50; 0% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (23; 0% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-36 <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Degree`.
+50 <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (35; 97%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (33; 92%).
+The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (49; 98%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (45; 90%).
 
 `NOUN` tokens may have the following values of `Degree`:
 
-* `Aug` (34; 94% of non-empty `Degree`): <em>buyawasú, miráwasú, mirawasú, tiapuwasú, amanawasú, awawasú, inayawasú, irusangawasú, itapewawasú, iwawasú</em>
-* `Dim` (2; 6% of non-empty `Degree`): <em>kurusamirĩ-itá, makakaí</em>
-* `EMPTY` (2535): <em>ara, mira, igara, apigawa, manha, pituna, ruka, yautí, kunhã, paraná</em>
+* `Aug` (44; 88% of non-empty `Degree`): <em>buyawasú, miráwasú, iwiwasú, kiririwasú, tiapuwasú, yawaratewasú-itá, amanawasú, awawasú, inayawasú, ipawawasú</em>
+* `Dim` (6; 12% of non-empty `Degree`): <em>Abumirĩ, fardamirĩ, kurumirĩ, kurusamirĩ-etá, makakaí, wirawasumirĩ-etá</em>
+* `EMPTY` (3270): <em>ara, mira, manha, igara, pituna, kunhã, apigawa, paraná, ruka, yautí</em>
 
-`Degree` seems to be **lexical feature** of `NOUN`. 100% lemmas (24) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `NOUN`. 100% lemmas (33) occur only with one value of `Degree`.
 
 ### `ADV`
 
-20 <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Degree`.
+23 <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="yrl_complin-feat-AdvType.html">AdvType</a></tt><tt>=Deg</tt> (20; 100%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (20; 100%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="yrl_complin-feat-AdvType.html">AdvType</a></tt><tt>=Deg</tt> (23; 100%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (23; 100%).
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (13; 65% of non-empty `Degree`): <em>piri</em>
-* `Sup` (7; 35% of non-empty `Degree`): <em>piri</em>
-* `EMPTY` (901): <em>asuí, mayé, ape, kuíri, yawé, iké, yuíri, katú, aramé, reté</em>
+* `Cmp` (16; 70% of non-empty `Degree`): <em>piri</em>
+* `Sup` (7; 30% of non-empty `Degree`): <em>piri</em>
+* `EMPTY` (1136): <em>ape, asuí, mayé, kuíri, yawé, yuíri, iké, katú, aramé, mamé</em>
 
 <table>
   <tr><th>Paradigm <i>piri</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -52,5 +52,16 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Dim` (1; 100% of non-empty `Degree`): <em>purangamirĩ</em>
-* `EMPTY` (300): <em>puranga, mirĩ, turusú, sasiára, pisasú, kirimbawa, piranga, katú, puxí, aíwa</em>
+* `EMPTY` (360): <em>puranga, mirĩ, turusú, sasiára, katú, pisasú, kirimbawa, piranga, aíwa, puxí</em>
+
+### `PRON`
+
+1 <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Degree`.
+
+The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="yrl_complin-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="yrl_complin-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (1; 100%).
+
+`PRON` tokens may have the following values of `Degree`:
+
+* `Dim` (1; 100% of non-empty `Degree`): <em>setaíra</em>
+* `EMPTY` (2541): <em>i, aintá, se, waá, aé, ne, ixé, indé, ta, maã</em>
 

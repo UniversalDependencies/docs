@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Low_Saxon-LSDC: POS Tags: `AUX`
 
-There are 10 `AUX` lemmas (0%), 172 `AUX` types (3%) and 1145 `AUX` tokens (5%).
+There are 10 `AUX` lemmas (0%), 172 `AUX` types (3%) and 1144 `AUX` tokens (5%).
 Out of 16 observed tags, the rank of `AUX` is: 15 in number of lemmas, 6 in number of types and 9 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>weasen, hebben, künnen, willen, sköälen, möten, werden, möägen, doon, dörven</em>
 
 The 10 most frequent `AUX` types:  <em>is, was, het, hadde, weer, kan, syn, wil, sint, kun</em>
 
-The 10 most frequent ambiguous lemmas: <em>weasen</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 528, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 6), <em>hebben</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 214, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 137), <em>künnen</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 107, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 9), <em>willen</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 85, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 15), <em>sköälen</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 72, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 1), <em>möten</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 56, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 7), <em>werden</em> (<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 52, <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 37), <em>möägen</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 22, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 2), <em>doon</em> (<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 54, <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 21), <em>dörven</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 3, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>weasen</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 528, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 6), <em>hebben</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 214, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 139), <em>künnen</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 107, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 9), <em>willen</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 84, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 16), <em>sköälen</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 72, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 1), <em>möten</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 56, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 7), <em>werden</em> (<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 52, <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 37), <em>möägen</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 22, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 2), <em>doon</em> (<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 55, <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 21), <em>dörven</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 3, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>is</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 167, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 1), <em>het</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 49, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 20), <em>hadde</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 46, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 35), <em>kan</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 30, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 2), <em>syn</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 51, <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 29, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 1), <em>wil</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 25, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 3, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1), <em>kun</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 18, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 3), <em>wul</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 18, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 4, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>hadden</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 16, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 3), <em>hev</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 13, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 6)
+The 10 most frequent ambiguous types:  <em>is</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 167, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 1), <em>het</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 49, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 20), <em>hadde</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 46, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 35), <em>kan</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 30, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 2), <em>syn</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 51, <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 29, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 1), <em>wil</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 25, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 3, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1), <em>kun</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 18, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 3), <em>wul</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 17, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 5, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>hadden</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 16, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 3), <em>hev</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 13, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 6)
 
 
 * <em>is</em>
@@ -43,19 +43,19 @@ The 10 most frequent ambiguous types:  <em>is</em> (<tt><a href="nds_lsdc-pos-AU
   * <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 18: <em>Ik lag noch lange un <b>kun</b> nich slåpen vöär vroiden .</em>
   * <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 3: <em>Mer et löyp good of vöär my , de cyferlyste <b>kun</b> slechter .</em>
 * <em>wul</em>
-  * <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 18: <em>Pastor mid en handgebäärde , as <b>wul</b> hee seggen : Tappen af !</em>
-  * <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 4: <em>De meyste buren sküdden mid et höyvd , as of see seggen wullen : „ En aldergemeynste bodel ; ik <b>wul</b> et mår uut was . “</em>
+  * <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 17: <em>Pastor mid en handgebäärde , as <b>wul</b> hee seggen : Tappen af !</em>
+  * <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 5: <em>De meyste buren sküdden mid et höyvd , as of see seggen wullen : „ En aldergemeynste bodel ; ik <b>wul</b> et mår uut was . “</em>
   * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1: <em>Vorständig sallet see noch <b>wul</b> werden .</em>
 * <em>hadden</em>
   * <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 16: <em>Nu <b>hadden</b> see em yserne handsken antoagen , nu müst hee sik geaven !</em>
-  * <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 3: <em>Do <b>hadden</b> de dree dat ryke alleyn .</em>
+  * <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 3: <em>Do <b>hadden</b> de dree dat ryke alleyne .</em>
 * <em>hev</em>
   * <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 13: <em>Marleen , Marleen , wat <b>hev</b> ik dy dån ?</em>
   * <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 6: <em>» Soulange du by my büst , <b>hev</b> ik tyd , ümmer tyd ! «</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 17.200000 (the average of all parts of speech is 1.410753).
+The form / lemma ratio of `AUX` is 17.200000 (the average of all parts of speech is 1.500000).
 
 The 1st highest number of forms (34) was observed with the lemma “weasen”: <em>bin, binnen, bint, bis, bün, büst, ewesd, ewest, is, sen, sent, sin, sint, sy, syn, syt, sünt, waren, was, wassen, wean, weasd, weasen, weer, weerst, were, weren, wesd, west, wår, wåren, wöre, wören, wöör</em>.
 
@@ -63,7 +63,7 @@ The 2nd highest number of forms (25) was observed with the lemma “möten”: <
 
 The 3rd highest number of forms (24) was observed with the lemma “sköälen”: <em>sal, sallet, salst, sast, skal, skalst, skul, skölde, skölle, sköälet, sküllet, sol, sollen, solst, sul, sullen, sullet, söl, söllet, söälen, sül, sülden, süllen, süälet</em>.
 
-`AUX` occurs with 8 features: <tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt> (1088; 95% instances), <tt><a href="nds_lsdc-feat-Number.html">Number</a></tt> (1059; 92% instances), <tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt> (1057; 92% instances), <tt><a href="nds_lsdc-feat-Person.html">Person</a></tt> (1053; 92% instances), <tt><a href="nds_lsdc-feat-VerbForm.html">VerbForm</a></tt> (84; 7% instances), <tt><a href="nds_lsdc-feat-VerbType.html">VerbType</a></tt> (51; 4% instances), <tt><a href="nds_lsdc-feat-Polite.html">Polite</a></tt> (5; 0% instances), <tt><a href="nds_lsdc-feat-Aspect.html">Aspect</a></tt> (2; 0% instances)
+`AUX` occurs with 8 features: <tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt> (1087; 95% instances), <tt><a href="nds_lsdc-feat-Number.html">Number</a></tt> (1058; 92% instances), <tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt> (1056; 92% instances), <tt><a href="nds_lsdc-feat-Person.html">Person</a></tt> (1052; 92% instances), <tt><a href="nds_lsdc-feat-VerbForm.html">VerbForm</a></tt> (84; 7% instances), <tt><a href="nds_lsdc-feat-VerbType.html">VerbType</a></tt> (51; 4% instances), <tt><a href="nds_lsdc-feat-Polite.html">Polite</a></tt> (5; 0% instances), <tt><a href="nds_lsdc-feat-Aspect.html">Aspect</a></tt> (2; 0% instances)
 
 `AUX` occurs with 20 feature-value pairs: `Aspect=Perf`, `Mood=Imp`, `Mood=Ind`, `Mood=Ind,Sub`, `Mood=Sub`, `Number=Plur`, `Number=Plur,Sing`, `Number=Sing`, `Person=1`, `Person=2`, `Person=2,3`, `Person=3`, `Polite=Form`, `Tense=Past`, `Tense=Pres`, `VerbForm=Inf`, `VerbForm=Part`, `VerbType=Aux`, `VerbType=Cop`, `VerbType=Mod`
 
@@ -74,11 +74,11 @@ Examples: <em>is, het, kan, wil, sal, hevt, wardt, mag, mot, hat</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 9 different relations: <tt><a href="nds_lsdc-dep-aux.html">aux</a></tt> (719; 63% instances), <tt><a href="nds_lsdc-dep-cop.html">cop</a></tt> (407; 36% instances), <tt><a href="nds_lsdc-dep-aux-pass.html">aux:pass</a></tt> (12; 1% instances), <tt><a href="nds_lsdc-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-dep-root.html">root</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 9 different relations: <tt><a href="nds_lsdc-dep-aux.html">aux</a></tt> (718; 63% instances), <tt><a href="nds_lsdc-dep-cop.html">cop</a></tt> (407; 36% instances), <tt><a href="nds_lsdc-dep-aux-pass.html">aux:pass</a></tt> (12; 1% instances), <tt><a href="nds_lsdc-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (690; 60% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (181; 16% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (170; 15% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (57; 5% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (33; 3% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (2; 0% instances),  (1; 0% instances)
+Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (689; 60% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (180; 16% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (172; 15% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (56; 5% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (33; 3% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (2; 0% instances),  (1; 0% instances)
 
-1142 (100%) `AUX` nodes are leaves.
+1141 (100%) `AUX` nodes are leaves.
 
 0 (0%) `AUX` nodes have one child.
 

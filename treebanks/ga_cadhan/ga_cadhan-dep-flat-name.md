@@ -6,15 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Irish-Cadhan: Relations: `flat:name`
 
-This relation is a language-specific subtype of .
-There are also 1 other language-specific subtypes of `flat`: <tt><a href="ga_cadhan-dep-flat-foreign.html">flat:foreign</a></tt>.
+This relation is a language-specific subtype of <tt><a href="ga_cadhan-dep-flat.html">flat</a></tt>.
 
-24 nodes (1%) are attached to their parents as `flat:name`.
+25 nodes (1%) are attached to their parents as `flat:name`.
 
-24 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.29166666666667.
+25 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.28.
 
-The following 7 pairs of parts of speech are connected with `flat:name`: <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (11; 46% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (6; 25% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (3; 13% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (1; 4% instances).
+The following 7 pairs of parts of speech are connected with `flat:name`: <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (12; 48% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (6; 24% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (3; 12% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -24,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 7	fgColor:white
 # visual-style 7 8 flat:name	color:blue
 1	Bhur	bhur	DET	_	Number=Plur|Person=2|Poss=Yes	2	nmod:poss	_	_
-2	mbocht-chara	bochtchara	NOUN	_	Case=Nom|Form=Ecl|Gender=Masc|Number=Sing	0	root	_	_
+2	mbocht-chara	bochtchara	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	0	root	_	_
 3	bithdhíleas	bithdhílis	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	_
 4	go	go	ADP	_	_	5	case	_	_
 5	bás	bás	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
@@ -113,9 +112,9 @@ The following 7 pairs of parts of speech are connected with `flat:name`: <tt><a 
 34	Beare	Beare	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	32	nsubj	_	SpaceAfter=No
 35	’	’	PUNCT	_	_	34	punct	_	_
 36	agus	agus	CCONJ	_	_	37	cc	_	_
-37	mucgamhain	mucgamhain	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	34	conj	_	_
+37	mucgamhain	mucgamhain	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	34	conj	_	_
 38	nó	nó	CCONJ	_	_	39	cc	_	_
-39	macgamhain	macgamhain	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	37	conj	_	SpaceAfter=No
+39	macgamhain	macgamhain	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	37	conj	_	SpaceAfter=No
 40	,	,	PUNCT	_	_	43	punct	_	_
 41	agus	agus	CCONJ	_	_	43	cc	_	_
 42	d'á	de	ADP	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	43	case	_	_

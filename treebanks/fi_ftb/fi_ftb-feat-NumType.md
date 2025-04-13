@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (300; 100% of non-empty `NumType`): <em>ensimmäinen, ensimmäisen, toinen, toisen, toista, ensimmäisellä, ensimmäisenä, ensimmäistä, ensimmäiset, kolmas</em>
-* `EMPTY` (10190): <em>koko, hyvä, viime, ensi, hyvää, uusi, oma, uutta, uuden, suuri</em>
+* `EMPTY` (10189): <em>koko, hyvä, viime, ensi, hyvää, uusi, oma, uutta, uuden, suuri</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (36) occur only with one value of `NumType`.
 

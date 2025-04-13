@@ -21,4 +21,4 @@ Abbreviation is a feature of [X: other](X) to mark abbreviations ending with a d
 
 Currently, all abbreviations are converted to `X` and assigned the `Abbr=Yes` feature.
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:45 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:29 CET -->

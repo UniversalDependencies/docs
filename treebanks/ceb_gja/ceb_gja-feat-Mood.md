@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Pot`.
 
-150 tokens (12%) have a non-empty value of `Mood`.
-138 types (30%) occur at least once with a non-empty value of `Mood`.
-111 lemmas (30%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (150; 12% instances).
+150 tokens (11%) have a non-empty value of `Mood`.
+138 types (28%) occur at least once with a non-empty value of `Mood`.
+111 lemmas (28%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (150; 11% instances).
 
 ### `VERB`
 
-150 <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> tokens (85% of all `VERB` tokens) have a non-empty value of `Mood`.
+150 <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> tokens (80% of all `VERB` tokens) have a non-empty value of `Mood`.
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (10; 7% of non-empty `Mood`): <em>Ipalit, Padayona, Pag-ayo, Pagdali, Pakitaa, ipasa, kaguol, pagpataka, paliti, patoo</em>
 * `Ind` (125; 83% of non-empty `Mood`): <em>moadto, ganahan, gibuhat, tabangan, Gitawag, Kinahanglan, Liguon, Silhigan, gihigugma, kasabot</em>
 * `Pot` (15; 10% of non-empty `Mood`): <em>Maka-iningles, Nakabantay, Nakahukom, Nakalimtan, Nakamedalya, Nasuka, himo-an, mahimo, mainitan, makahinapon</em>
-* `EMPTY` (27): <em>wala, may, gusto, Aduna, Adunay, Buot, Duna, Paingon, ayo, buhat</em>
+* `EMPTY` (37): <em>wala, gusto, may, Aduna, Adunay, Buot, Duna, Gipinturahan, Gisugo, Gisulayan</em>
 
 <table>
   <tr><th>Paradigm <i>kita</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Pot</tt></th></tr>

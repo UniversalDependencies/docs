@@ -43,5 +43,5 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>nimidä</em>
-* `EMPTY` (102): <em>häi, tämän, minun, se, toine, minul, hyö, midä, toizel, toizen</em>
+* `EMPTY` (101): <em>häi, tämän, minun, se, toine, minul, hyö, midä, toizel, toizen</em>
 

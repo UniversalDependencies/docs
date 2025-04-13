@@ -178,7 +178,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 `ADV` tokens may have the following values of `VerbForm`:
 
 * `Part` (172; 100% of non-empty `VerbForm`): <em>sufficienter, inmediate, sursum, deorsum, recte, prorsus, merito, secundo, subito, absolute</em>
-* `EMPTY` (2943): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, magis</em>
+* `EMPTY` (2944): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, magis</em>
 
 `VerbForm` seems to be **lexical feature** of `ADV`. 100% lemmas (62) occur only with one value of `VerbForm`.
 

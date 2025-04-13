@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-145 nodes (1%) are attached to their parents as `flat`.
+144 nodes (1%) are attached to their parents as `flat`.
 
-145 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.21379310344828.
+144 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.21527777777778.
 
-The following 14 pairs of parts of speech are connected with `flat`: <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (63; 43% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (41; 28% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-X.html">X</a></tt> (19; 13% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (9; 6% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 14 pairs of parts of speech are connected with `flat`: <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (60; 42% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (42; 29% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-X.html">X</a></tt> (19; 13% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (9; 6% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -65,12 +65,12 @@ The following 14 pairs of parts of speech are connected with `flat`: <tt><a href
 1	Weer	weasen	AUX	_	Mood=Ind,Sub|Number=Sing|Person=3|Tense=Past	5	aux	_	lemma_gml=wēsen
 2	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	lemma_gml=dê,dê,dat
 3	nich	nich	PART	_	PartType=Neg	5	advcl	_	lemma_gml=nicht
-4	alle	alle	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	2	nmod	_	lemma_gml=al
+4	alle	al	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	2	nmod	_	lemma_gml=al
 5	dårtokoamen	dårtokoamen	VERB	_	Tense=Past|VerbForm=Part	20	advcl	_	lemma_gml=dârtôkōmen|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	dän	dän	ADV	_	_	20	advmod	_	lemma_gml=den
 8	weren	weasen	AUX	_	Mood=Ind,Sub|Number=Plur|Person=3|Tense=Pres	20	aux	_	lemma_gml=wēsen
-9	see	se	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	lemma_gml=sê
+9	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	lemma_gml=sê
 10	nå	nå	ADP	_	AdpType=Prep	12	case	_	lemma_gml=nâ
 11	»	»	PUNCT	_	_	12	punct	_	SpaceAfter=No
 12	Feststellung	Feststellung	X	_	Foreign=Yes	20	obl	_	_

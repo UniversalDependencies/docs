@@ -51,7 +51,7 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 9	láidir	láidir	ADJ	_	Degree=Pos	6	conj	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	_
 11	agus	agus	CCONJ	_	_	13	cc	_	_
-12	gurab	is	AUX	_	Tense=Past|VerbForm=Cop	13	cop	_	_
+12	gurab	is	AUX	_	Form=VF|Tense=Past|VerbForm=Cop	13	cop	_	_
 13	uaidh	ó	ADP	_	Gender=Masc|Number=Sing|Person=3	4	conj	_	_
 14	a	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	15	mark:prt	_	_
 15	deirtear	abair	VERB	_	Mood=Ind|Person=0|Tense=Pres	13	csubj:cleft	_	_
@@ -71,7 +71,7 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 2	ea	ea	PRON	_	Number=Sing|Person=3	1	fixed	_	_
 3	,	,	PUNCT	_	_	1	punct	_	_
 4	adeirthear	abair	VERB	_	Mood=Ind|Person=0|Tense=Pres	0	root	_	_
-5	gurab	is	AUX	_	Tense=Pres|VerbForm=Cop	7	cop	_	_
+5	gurab	is	AUX	_	Form=VF|Tense=Pres|VerbForm=Cop	7	cop	_	_
 6	ó	ó	ADP	_	_	7	case	_	_
 7	abhainn	abhainn	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	ccomp	_	_
 8	atá	bí	VERB	_	Form=Direct|Mood=Ind|PronType=Rel|Tense=Pres	7	acl:relcl	_	_

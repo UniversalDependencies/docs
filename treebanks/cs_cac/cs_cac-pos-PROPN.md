@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>Praha</em> (<tt><a href="cs_cac-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.268717 (the average of all parts of speech is 2.185616).
+The form / lemma ratio of `PROPN` is 1.268717 (the average of all parts of speech is 2.181223).
 
 The 1st highest number of forms (6) was observed with the lemma “Honza”: <em>Honza, Honzou, Honzovi, Honzové, Honzu, Honzy</em>.
 
@@ -59,12 +59,12 @@ The 2nd highest number of forms (6) was observed with the lemma “hora”: <em>
 
 The 3rd highest number of forms (5) was observed with the lemma “Jan”: <em>Jan, Jana, Janem, Janovi, Janu</em>.
 
-`PROPN` occurs with 9 features: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt> (9819; 100% instances), <tt><a href="cs_cac-feat-NameType.html">NameType</a></tt> (9814; 100% instances), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt> (9808; 100% instances), <tt><a href="cs_cac-feat-Number.html">Number</a></tt> (7869; 80% instances), <tt><a href="cs_cac-feat-Case.html">Case</a></tt> (7815; 80% instances), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt> (5431; 55% instances), <tt><a href="cs_cac-feat-Abbr.html">Abbr</a></tt> (1878; 19% instances), <tt><a href="cs_cac-feat-Foreign.html">Foreign</a></tt> (37; 0% instances), <tt><a href="cs_cac-feat-Style.html">Style</a></tt> (8; 0% instances)
+`PROPN` occurs with 8 features: <tt><a href="cs_cac-feat-NameType.html">NameType</a></tt> (9814; 100% instances), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt> (9808; 100% instances), <tt><a href="cs_cac-feat-Number.html">Number</a></tt> (7869; 80% instances), <tt><a href="cs_cac-feat-Case.html">Case</a></tt> (7815; 80% instances), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt> (5431; 55% instances), <tt><a href="cs_cac-feat-Abbr.html">Abbr</a></tt> (1878; 19% instances), <tt><a href="cs_cac-feat-Foreign.html">Foreign</a></tt> (37; 0% instances), <tt><a href="cs_cac-feat-Style.html">Style</a></tt> (8; 0% instances)
 
-`PROPN` occurs with 38 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NameType=Com`, `NameType=Com,Geo`, `NameType=Com,Giv`, `NameType=Com,Pro`, `NameType=Com,Sur`, `NameType=Geo`, `NameType=Geo,Giv`, `NameType=Geo,Oth`, `NameType=Geo,Sur`, `NameType=Giv`, `NameType=Giv,Oth`, `NameType=Giv,Pro`, `NameType=Giv,Sur`, `NameType=Nat`, `NameType=Nat,Sur`, `NameType=Oth`, `NameType=Pro`, `NameType=Pro,Sur`, `NameType=Sur`, `Number=Plur`, `Number=Sing`, `Polarity=Pos`, `Style=Coll`, `Style=Expr`
+`PROPN` occurs with 37 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NameType=Com`, `NameType=Com,Geo`, `NameType=Com,Giv`, `NameType=Com,Pro`, `NameType=Com,Sur`, `NameType=Geo`, `NameType=Geo,Giv`, `NameType=Geo,Oth`, `NameType=Geo,Sur`, `NameType=Giv`, `NameType=Giv,Oth`, `NameType=Giv,Pro`, `NameType=Giv,Sur`, `NameType=Nat`, `NameType=Nat,Sur`, `NameType=Oth`, `NameType=Pro`, `NameType=Pro,Sur`, `NameType=Sur`, `Number=Plur`, `Number=Sing`, `Style=Coll`, `Style=Expr`
 
 `PROPN` occurs with 244 feature combinations.
-The most frequent feature combination is `Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos` (1589 tokens).
+The most frequent feature combination is `Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing` (1589 tokens).
 Examples: <em>Fučík, Erben, Horálek, Němec, Lenin, Záveský, Kraus, Huxley, Gottwald, Marx</em>
 
 

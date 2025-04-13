@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Světice</em> (<tt><a href="cs_poetry
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.014493 (the average of all parts of speech is 1.400206).
+The form / lemma ratio of `PROPN` is 1.014493 (the average of all parts of speech is 1.400929).
 
 The 1st highest number of forms (2) was observed with the lemma “Armand”: <em>Armand, Armandovi</em>.
 
@@ -32,12 +32,12 @@ The 2nd highest number of forms (1) was observed with the lemma “Angelico”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “Azték”: <em>Azték</em>.
 
-`PROPN` occurs with 8 features: <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt> (84; 100% instances), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt> (84; 100% instances), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt> (83; 99% instances), <tt><a href="cs_poetry-feat-NameType.html">NameType</a></tt> (80; 95% instances), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt> (79; 94% instances), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt> (55; 65% instances), <tt><a href="cs_poetry-feat-Foreign.html">Foreign</a></tt> (1; 1% instances), <tt><a href="cs_poetry-feat-Style.html">Style</a></tt> (1; 1% instances)
+`PROPN` occurs with 7 features: <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt> (84; 100% instances), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt> (83; 99% instances), <tt><a href="cs_poetry-feat-NameType.html">NameType</a></tt> (80; 95% instances), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt> (79; 94% instances), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt> (55; 65% instances), <tt><a href="cs_poetry-feat-Foreign.html">Foreign</a></tt> (1; 1% instances), <tt><a href="cs_poetry-feat-Style.html">Style</a></tt> (1; 1% instances)
 
-`PROPN` occurs with 22 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NameType=Com`, `NameType=Geo`, `NameType=Giv`, `NameType=Nat`, `NameType=Sur`, `Number=Plur`, `Number=Sing`, `Polarity=Pos`, `Style=Rare`
+`PROPN` occurs with 21 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NameType=Com`, `NameType=Geo`, `NameType=Giv`, `NameType=Nat`, `NameType=Sur`, `Number=Plur`, `Number=Sing`, `Style=Rare`
 
 `PROPN` occurs with 32 feature combinations.
-The most frequent feature combination is `Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos` (9 tokens).
+The most frequent feature combination is `Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing` (9 tokens).
 Examples: <em>Armand, Fra, Kamid, Otho, Otto, Paul, Šebestián</em>
 
 
@@ -55,9 +55,9 @@ Parents of `PROPN` nodes belong to 7 different parts of speech: <tt><a href="cs_
 
 10 (12%) `PROPN` nodes have three or more children.
 
-The highest child degree of a `PROPN` node is 8.
+The highest child degree of a `PROPN` node is 9.
 
-Children of `PROPN` nodes are attached using 17 different relations: <tt><a href="cs_poetry-dep-punct.html">punct</a></tt> (22; 24% instances), <tt><a href="cs_poetry-dep-case.html">case</a></tt> (13; 14% instances), <tt><a href="cs_poetry-dep-flat.html">flat</a></tt> (10; 11% instances), <tt><a href="cs_poetry-dep-amod.html">amod</a></tt> (9; 10% instances), <tt><a href="cs_poetry-dep-cc.html">cc</a></tt> (7; 8% instances), <tt><a href="cs_poetry-dep-conj.html">conj</a></tt> (7; 8% instances), <tt><a href="cs_poetry-dep-nmod.html">nmod</a></tt> (5; 5% instances), <tt><a href="cs_poetry-dep-appos.html">appos</a></tt> (4; 4% instances), <tt><a href="cs_poetry-dep-acl-relcl.html">acl:relcl</a></tt> (3; 3% instances), <tt><a href="cs_poetry-dep-mark.html">mark</a></tt> (3; 3% instances), <tt><a href="cs_poetry-dep-advmod-emph.html">advmod:emph</a></tt> (2; 2% instances), <tt><a href="cs_poetry-dep-orphan.html">orphan</a></tt> (2; 2% instances), <tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="cs_poetry-dep-aux.html">aux</a></tt> (1; 1% instances), <tt><a href="cs_poetry-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="cs_poetry-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="cs_poetry-dep-obl.html">obl</a></tt> (1; 1% instances)
+Children of `PROPN` nodes are attached using 17 different relations: <tt><a href="cs_poetry-dep-punct.html">punct</a></tt> (23; 25% instances), <tt><a href="cs_poetry-dep-case.html">case</a></tt> (13; 14% instances), <tt><a href="cs_poetry-dep-flat.html">flat</a></tt> (10; 11% instances), <tt><a href="cs_poetry-dep-amod.html">amod</a></tt> (9; 10% instances), <tt><a href="cs_poetry-dep-cc.html">cc</a></tt> (7; 8% instances), <tt><a href="cs_poetry-dep-conj.html">conj</a></tt> (7; 8% instances), <tt><a href="cs_poetry-dep-nmod.html">nmod</a></tt> (5; 5% instances), <tt><a href="cs_poetry-dep-appos.html">appos</a></tt> (4; 4% instances), <tt><a href="cs_poetry-dep-acl-relcl.html">acl:relcl</a></tt> (3; 3% instances), <tt><a href="cs_poetry-dep-mark.html">mark</a></tt> (3; 3% instances), <tt><a href="cs_poetry-dep-advmod-emph.html">advmod:emph</a></tt> (2; 2% instances), <tt><a href="cs_poetry-dep-orphan.html">orphan</a></tt> (2; 2% instances), <tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="cs_poetry-dep-aux.html">aux</a></tt> (1; 1% instances), <tt><a href="cs_poetry-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="cs_poetry-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="cs_poetry-dep-obl.html">obl</a></tt> (1; 1% instances)
 
-Children of `PROPN` nodes belong to 11 different parts of speech: <tt><a href="cs_poetry-pos-PUNCT.html">PUNCT</a></tt> (22; 24% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (18; 20% instances), <tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (13; 14% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (10; 11% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (9; 10% instances), <tt><a href="cs_poetry-pos-CCONJ.html">CCONJ</a></tt> (8; 9% instances), <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (5; 5% instances), <tt><a href="cs_poetry-pos-SCONJ.html">SCONJ</a></tt> (3; 3% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (1; 1% instances)
+Children of `PROPN` nodes belong to 11 different parts of speech: <tt><a href="cs_poetry-pos-PUNCT.html">PUNCT</a></tt> (23; 25% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (18; 19% instances), <tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (13; 14% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (10; 11% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (9; 10% instances), <tt><a href="cs_poetry-pos-CCONJ.html">CCONJ</a></tt> (8; 9% instances), <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (5; 5% instances), <tt><a href="cs_poetry-pos-SCONJ.html">SCONJ</a></tt> (3; 3% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (1; 1% instances)
 

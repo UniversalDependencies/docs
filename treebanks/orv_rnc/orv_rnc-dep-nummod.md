@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nummod`: <tt><a href="orv_rnc-dep-nummod-gov.html">nummod:gov</a></tt>.
 
-338 nodes (0%) are attached to their parents as `nummod`.
+589 nodes (0%) are attached to their parents as `nummod`.
 
-317 instances of `nummod` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1094674556213.
+551 instances of `nummod` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11544991511036.
 
-The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (320; 95% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (8; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PART.html">PART</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (561; 95% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (9; 2% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (9; 2% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-PART.html">PART</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -43,6 +43,29 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 nummod	color:blue
+1	И	и	CCONJ	_	_	5	cc	_	wf="И"|_
+2	всего	всего	ADV	_	Degree=Pos|PronType=Tot	5	advmod	_	upos="ADVPRO"|wf="всего"|_
+3	в	въ	ADP	_	_	5	case	_	wf="в"|_
+4	тех	тотъ	DET	_	Case=Loc|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	wf="тех"|_
+5	судах	судъ	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	0	root	_	wf="судах"|_
+6	весом	вѣсъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	7	nummod	_	wf="весом"|_
+7	меди	мѣдь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	wf="меди"|_
+8	пуд	пудъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nummod:gov	_	wf="пуд"|_
+9	37	37	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	10	nummod:gov	_	wf="37"|_
+10	гривенок	гривенка	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	5	nsubj	_	wf="гривенок"|_
+11	без	безъ	ADP	_	_	12	case	_	wf="без"|_
+12	чети	четь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	wf="чети"|SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	_	wf="."|_
+
+~~~
+
+
+~~~ conllu
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 11	bgColor:blue
@@ -66,29 +89,6 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 16	3	3	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	17	nummod:gov	_	wf="3"|_
 17	чети	четь	NOUN	_	Case=Nom|Gender=Fem|Number=Count	15	nmod	_	wf="чети"|SpaceAfter=No
 18	.	.	PUNCT	_	_	5	punct	_	wf="."|_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 nummod	color:blue
-1	И	и	CCONJ	_	_	5	cc	_	wf="И"|_
-2	всего	всего	ADV	_	Degree=Pos|PronType=Tot	5	advmod	_	upos="ADVPRO"|wf="всего"|_
-3	в	въ	ADP	_	_	5	case	_	wf="в"|_
-4	тех	тотъ	DET	_	Case=Loc|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	wf="тех"|_
-5	судах	судъ	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	0	root	_	wf="судах"|_
-6	весом	вѣсъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	7	nummod	_	wf="весом"|_
-7	меди	мѣдь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	wf="меди"|_
-8	пуд	пудъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nummod:gov	_	wf="пуд"|_
-9	37	37	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	10	nummod:gov	_	wf="37"|_
-10	гривенок	гривенка	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	5	nsubj	_	wf="гривенок"|_
-11	без	безъ	ADP	_	_	12	case	_	wf="без"|_
-12	чети	четь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	wf="чети"|SpaceAfter=No
-13	.	.	PUNCT	_	_	5	punct	_	wf="."|_
 
 ~~~
 

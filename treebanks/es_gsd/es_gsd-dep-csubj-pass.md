@@ -27,11 +27,11 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 3	a	a	ADP	_	_	1	fixed	_	_
 4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	yázigas	yáziga	NOUN	_	Number=Plur	11	obl	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	9	punct	_	_
+6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
 7	como	como	ADP	_	_	9	case	_	_
 8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	kumanos	kumano	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	5	punct	_	_
+10	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
 11	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	aproximadamente	aproximadamente	ADV	_	_	11	advmod	_	_
 13	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
@@ -42,7 +42,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 18	con	con	ADP	_	_	20	case	_	_
 19	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
 20	magiares	magiar	NOUN	_	Gender=Masc|Number=Plur	17	obl	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	11	punct	_	_
+21	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 ~~~
 
@@ -70,7 +70,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 15	sabrán	saber	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	1	conj	_	_
 16	de	de	ADP	_	_	17	case	_	_
 17	gastronomía	gastronomía	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	25	punct	_	_
+18	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
 19	de	de	ADP	_	_	21	case	_	_
 20	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	21	det	_	_
 21	único	único	NOUN	_	Gender=Masc|Number=Sing	25	obl	_	_
@@ -83,7 +83,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 28	locales	local	NOUN	_	Gender=Masc|Number=Plur	25	obl	_	_
 29	de	de	ADP	_	_	30	case	_	_
 30	copas	copa	NOUN	_	Gender=Fem|Number=Plur	28	nmod	_	SpaceAfter=No
-31	.	.	PUNCT	_	_	1	punct	_	_
+31	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 ~~~
 

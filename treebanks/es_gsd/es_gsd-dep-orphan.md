@@ -34,10 +34,10 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 10	de	de	ADP	_	_	12	case	_	_
 11	San	san	PROPN	_	_	12	amod	_	_
 12	José	josé	PROPN	_	_	9	nmod	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	14	punct	_	_
+13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
 14	Costa	costa	PROPN	_	_	9	appos	_	_
 15	Rica	rica	PROPN	_	_	14	amod	_	SpaceAfter=No
-16	,	,	PUNCT	_	_	17	punct	_	_
+16	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 17	establecido	establecer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	4	acl	_	_
 18	en	en	ADP	_	_	19	case	_	_
 19	1883	1883	NUM	_	NumForm=Digit|NumType=Card	17	obl	_	_
@@ -47,7 +47,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 23	indígena	indígeno	ADJ	_	Gender=Masc|Number=Sing	22	amod	_	_
 24	de	de	ADP	_	_	25	case	_	_
 25	Pacaca	pacaca	PROPN	_	_	22	nmod	_	SpaceAfter=No
-26	,	,	PUNCT	_	_	31	punct	_	_
+26	,	,	PUNCT	_	PunctType=Comm	31	punct	_	_
 27	que	que	SCONJ	_	_	31	mark	_	_
 28	en	en	ADP	_	_	30	case	_	_
 29	esa	ese	DET	_	Gender=Fem|Number=Sing|PronType=Dem	30	det	_	_
@@ -64,7 +64,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 40	actualmente	actualmente	ADV	_	_	36	conj	_	_
 41	Ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	40	orphan	_	_
 42	Colón	Colón	PROPN	_	_	41	flat	_	SpaceAfter=No
-43	.	.	PUNCT	_	_	4	punct	_	_
+43	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 ~~~
 
@@ -77,14 +77,14 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 30 32 orphan	color:blue
 1	En	en	ADP	_	_	2	case	_	_
 2	2010	2010	NUM	_	NumForm=Digit|NumType=Card	13	obl	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	6	punct	_	_
+3	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 4	en	en	ADP	_	_	6	case	_	_
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	Salón	salón	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
 7	Aeronáutico	aeronáutico	ADJ	_	_	6	amod	_	_
 8	de	de	ADP	_	_	9	case	_	_
 9	Farnborough	farnborough	PROPN	_	_	6	nmod	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	6	punct	_	_
+10	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	aerolínea	aerolínea	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
 13	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -94,14 +94,14 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 17	30	30	NUM	_	NumForm=Digit|NumType=Card	18	nummod	_	_
 18	Boeing	boeing	X	_	_	15	nmod	_	_
 19	777	777	NUM	_	NumForm=Digit|NumType=Card	18	nummod	_	SpaceAfter=No
-20	,	,	PUNCT	_	_	23	punct	_	_
+20	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
 21	con	con	ADP	_	_	23	case	_	_
 22	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	valor	valor	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
 24	$	$	SYM	_	_	23	appos	_	_
 25	9100	100	NUM	_	NumForm=Digit|NumType=Card	26	nummod	_	_
 26	millones	millón	NOUN	_	Gender=Masc|Number=Plur	24	nummod	_	SpaceAfter=No
-27	,	,	PUNCT	_	_	23	punct	_	_
+27	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
 28	con	con	ADP	_	_	29	case	_	_
 29	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	obl	_	_
 30	que	que	PRON	_	PronType=Rel	29	acl:relcl	_	_
@@ -120,7 +120,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 43	25	25	NUM	_	NumForm=Digit|NumType=Card	44	nummod	_	_
 44	mil	mil	NUM	_	NumForm=Word|NumType=Card	45	nummod	_	_
 45	millones	millón	NOUN	_	Gender=Masc|Number=Plur	42	nummod	_	SpaceAfter=No
-46	.	.	PUNCT	_	_	13	punct	_	_
+46	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
 
 ~~~
 
@@ -137,24 +137,24 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 4	de	de	ADP	_	_	5	case	_	_
 5	artes	arte	NOUN	_	Number=Plur	3	nmod	_	_
 6	marciales	marcial	ADJ	_	Number=Plur	5	amod	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	11	punct	_	_
+7	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
 8	cuando	cuando	SCONJ	_	_	11	mark	_	_
 9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 10	practicantes	practicante	NOUN	_	Number=Plur	11	nsubj	_	_
 11	trabajan	trabajar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
 12	por	por	ADP	_	_	13	case	_	_
 13	parejas	pareja	NOUN	_	Gender=Fem|Number=Plur	11	obl	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	11	punct	_	_
+14	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
 15	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl:pv	_	_
 16	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 17	nage	nage	PROPN	_	Gender=Masc|Number=Sing	16	xcomp	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	22	punct	_	_
+18	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 19	o	o	CCONJ	_	_	22	cc	_	_
 20	en	en	ADP	_	_	22	case	_	_
 21	algunas	alguno	DET	_	Gender=Fem|Number=Plur|PronType=Ind	22	det	_	_
 22	disciplinas	disciplina	NOUN	_	Gender=Fem|Number=Plur	17	conj	_	_
 23	tori	tori	PROPN	_	_	22	conj	_	SpaceAfter=No
-24	,	,	PUNCT	_	_	26	punct	_	_
+24	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
 25	a	a	ADP	_	_	26	case	_	_
 26	aquel	aquel	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	16	obl:arg	_	_
 27	que	que	SCONJ	_	_	28	mark	_	_
@@ -164,14 +164,14 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 31	determinada	determinado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	30	amod	_	_
 32	y	y	CCONJ	_	_	33	cc	_	_
 33	uke	uke	PROPN	_	_	16	conj	_	SpaceAfter=No
-34	,	,	PUNCT	_	_	36	punct	_	_
+34	,	,	PUNCT	_	PunctType=Comm	36	punct	_	_
 35	a	a	ADP	_	_	36	case	_	_
 36	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	orphan	_	_
 37	que	que	PRON	_	PronType=Rel	38	nsubj	_	_
 38	recibe	recibir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	acl:relcl	_	_
 39	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
 40	técnica	técnica	NOUN	_	Gender=Fem|Number=Sing	38	obj	_	SpaceAfter=No
-41	.	.	PUNCT	_	_	16	punct	_	_
+41	.	.	PUNCT	_	PunctType=Peri	16	punct	_	_
 
 ~~~
 

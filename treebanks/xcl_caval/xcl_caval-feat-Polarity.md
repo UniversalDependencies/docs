@@ -9,33 +9,28 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-1506 tokens (2%) have a non-empty value of `Polarity`.
-6 types (0%) occur at least once with a non-empty value of `Polarity`.
-2 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (1503; 2% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt> (3; 0% instances).
+1572 tokens (2%) have a non-empty value of `Polarity`.
+8 types (0%) occur at least once with a non-empty value of `Polarity`.
+3 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (1561; 2% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (11; 0% instances).
 
 ### `PART`
 
-1503 <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> tokens (86% of all `PART` tokens) have a non-empty value of `Polarity`.
+1561 <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> tokens (84% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (1503; 100% of non-empty `Polarity`): <em>ոչ, մի, չ</em>
-* `EMPTY` (254): <em>իսկ, գուցէ, եթե, թե</em>
+* `Neg` (1561; 100% of non-empty `Polarity`): <em>ոչ, մի, չ</em>
+* `EMPTY` (296): <em>իսկ, ապաքէն, գուցէ, եթե, թե, թէ, մի, ոչ</em>
 
-### `INTJ`
+### `PRON`
 
-3 <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt> tokens (2% of all `INTJ` tokens) have a non-empty value of `Polarity`.
+11 <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `INTJ` and `Polarity` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Nom</tt> (10; 91%).
 
-`INTJ` tokens may have the following values of `Polarity`:
+`PRON` tokens may have the following values of `Polarity`:
 
-* `Neg` (3; 100% of non-empty `Polarity`): <em>ոչ, մի</em>
-* `EMPTY` (192): <em>ահա, ահաւասիկ, այո, աւասիկ, ահաւանիկ, ահաւադիկ, ով, ազնիւ, աւն, վահ</em>
-
-## Relations with Agreement in `Polarity`
-
-The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>INTJ --[<tt><a href="xcl_caval-dep-ccomp.html">ccomp</a></tt>]--> INTJ</tt> (1; 100%).
+* `Neg` (11; 100% of non-empty `Polarity`): <em>չիք, չիկ</em>
+* `EMPTY` (9786): <em>նա, որ, նորա, ձեզ, նոսա, իմ, իս, նմա, նոցա, քո</em>
 

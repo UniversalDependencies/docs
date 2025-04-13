@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="en_gentle-pos-DET.h
 
 ### `DET`
 
-940 <tt><a href="en_gentle-pos-DET.html">DET</a></tt> tokens (78% of all `DET` tokens) have a non-empty value of `Definite`.
+940 <tt><a href="en_gentle-pos-DET.html">DET</a></tt> tokens (79% of all `DET` tokens) have a non-empty value of `Definite`.
 
 The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (940; 100%).
 
@@ -24,5 +24,5 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (629; 67% of non-empty `Definite`): <em>the</em>
 * `Ind` (311; 33% of non-empty `Definite`): <em>a, an</em>
-* `EMPTY` (260): <em>this, all, no, any, that, some, each, every, these, another</em>
+* `EMPTY` (255): <em>this, all, no, any, that, some, each, every, these, another</em>
 

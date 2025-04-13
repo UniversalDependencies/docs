@@ -12,15 +12,15 @@ udver: '2'
 # UD Ancient Hebrew PTNK
 
 Language: [Ancient Hebrew](/hbo/index.html) (code: `hbo`)<br/>
-Family: Afro-Asiatic, Semitic
+Family: Afro-Asiatic
 
 This treebank has been part of Universal Dependencies since the UD v2.10 release.
 
 The following people have contributed to making this treebank part of UD: Daniel Swanson.
 
 Repository: [UD_Ancient_Hebrew-PTNK](https://github.com/UniversalDependencies/UD_Ancient_Hebrew-PTNK)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhbo_ptnk214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhbo_ptnk215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC 4.0
 

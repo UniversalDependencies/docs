@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 3 1 dep	color:blue
 1	ME	I	PRON	PERS-P1SG-ACC	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	dep	_	SpaceAfter=No
 2	:	:	PUNCT	Colon	_	1	punct	_	_
-3	No	no	INTJ	_	_	0	root	_	SpaceAfter=No
+3	No	no	INTJ	_	Polarity=Neg	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	3	punct	_	SpacesAfter=\n\n
 
 ~~~

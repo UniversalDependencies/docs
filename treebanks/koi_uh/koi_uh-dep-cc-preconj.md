@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 cc:preconj	color:blue
-1	Эз	оз	AUX	_	Person=3|Polarity=Neg|Tense=Past|VerbType=Aux	3	aux:neg	_	GTtags=Prt1,3
+1	Эз	оз	AUX	_	Person=3|Polarity=Neg|Tense=Past|VerbType=Aux	3	aux	_	GTtags=Prt1,3
 2	позь	позьны	AUX	_	Connegative=Yes	3	aux:pot	_	GTtags=ConNeg
 3	бӧрйыны	бӧрйыны	VERB	_	VerbForm=Inf	0	root	_	GTtags=Inf
 4	не	не	CCONJ	Polarity=Neg	_	5	cc:preconj	_	_

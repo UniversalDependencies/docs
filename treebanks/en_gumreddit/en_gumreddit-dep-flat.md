@@ -22,9 +22,9 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 flat	color:blue
-1	_	_	SCONJ	IN	_	3	mark	3:mark	Discourse=contingency-condition:33->34:1:dm-if-197|Lem=*LOWER*|Len=2
+1	_	_	SCONJ	IN	_	3	mark	3:mark	Discourse=contingency-condition:33->34:1:dm-if-197|Lem=*LOWER*|Len=2|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:197:207-219:198-206
 2	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Entity=(5-person-giv:inact-cf2-1-ana)|Lem=_|Len=3
-3	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl:if	Lem=_|Len=3
+3	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl:if	CxnElt=12:Conditional-UnspecifiedEpistemic-NoInversion.Protasis|Lem=_|Len=3
 4	_	_	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	Entity=(41-object-new-cf1-3,6-coref|Lem=_|Len=1
 5	_	_	NOUN	NN	Number=Sing	6	compound	6:compound	Lem=_|Len=8|MSeg=base-ball
 6	_	_	NOUN	NN	Number=Sing	3	obj	3:obj	Lem=_|Len=4
@@ -33,9 +33,9 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 9	_	_	PROPN	NNP	Number=Sing	8	flat	8:flat	Entity=42)41)|Lem=_|Len=4|SpaceAfter=No
 10	_	_	PUNCT	,	_	3	punct	3:punct	Lem=_|Len=1
 11	_	_	PRON	EX	PronType=Dem	12	expl	12:expl	Discourse=explanation-justify:34->51:4:_|Lem=_|Len=5
-12	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Existential-CopPred-ThereExpl|Lem=be|Len=2
+12	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Conditional-UnspecifiedEpistemic-NoInversion,Existential-CopPred-ThereExpl|CxnElt=12:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis|Lem=be|Len=2
 13	_	_	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	Lem=_|Len=1
-14	_	_	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	Lem=_|Len=6
+14	_	_	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	CxnElt=12:Existential-CopPred-ThereExpl.Pivot|Lem=_|Len=6
 15	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	18:nsubj	Discourse=elaboration-attribute:35->34:0:syn-mdf-210+syn-relcl-214|Entity=(41-object-giv:act-cf1-1-ana)|Lem=_|Len=2
 16	_	_	AUX	MD	VerbForm=Fin	18	aux	18:aux	Lem=_|Len=5
 17	_	_	AUX	VB	VerbForm=Inf	18	cop	18:cop	Lem=_|Len=2
@@ -61,7 +61,7 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 4	_	_	NOUN	NN	Number=Sing	8	nsubj	8:nsubj	Entity=109)|Lem=_|Len=10|MSeg=dis-honest-y
 5	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	Lem=be|Len=2
 6	_	_	ADV	RB	_	8	advmod	8:advmod	Lem=_|Len=2
-7	_	_	PART	RB	Polarity=Neg	8	advmod	8:advmod	Lem=_|Len=3
+7	_	_	PART	RB	Polarity=Neg	8	advmod	8:advmod	Lem=_|Len=3|Negation=Yes
 8	_	_	ADJ	JJ	Degree=Pos	0	root	0:root	Lem=_|Len=4|SpaceAfter=No
 9	_	_	PUNCT	.	_	8	punct	8:punct	Lem=_|Len=1
 
@@ -75,12 +75,12 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 40	fgColor:white
 # visual-style 40 41 flat	color:blue
 1	_	_	ADV	RB	Degree=Pos	3	advmod	3:advmod	Discourse=adversative-concession:71->73:3:dm-but-492|Lem=*LOWER*|Len=9|MSeg=Obvious-ly
-2	_	_	PART	RB	Polarity=Neg	3	advmod	3:advmod	Lem=_|Len=3
+2	_	_	PART	RB	Polarity=Neg	3	advmod	3:advmod	Lem=_|Len=3|Negation=Yes
 3	_	_	ADJ	JJ	Degree=Pos	0	root	0:root	Lem=_|Len=4
 4	_	_	ADP	IN	_	6	case	6:case	Lem=_|Len=3
 5	_	_	DET	DT	PronType=Ind	6	det	6:det	Entity=(76-person-new-cf1-2-coref|Lem=_|Len=5
 6	_	_	NOUN	NN	Number=Sing	3	obl	3:obl:for	Entity=76)|Lem=_|Len=9
-7	_	_	CCONJ	CC	_	9	cc	9:cc	Discourse=attribution-positive:72->73:2:sem-atsrc-493+syn-rpr-498|Lem=_|Len=3
+7	_	_	CCONJ	CC	_	9	cc	9:cc	Discourse=attribution-positive:72->73:2:sem-atsrc-493+syn-rpr-498|Lem=_|Len=3|PDTB=Explicit:Comparison.Concession.Arg2-as-denier:but:492:486-491:493-527
 8	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	Entity=(64-person-giv:inact-cf2-1-ana)|Lem=_|Len=1
 9	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	3:conj:but	Lem=_|Len=4
 10	_	_	SCONJ	IN	_	39	mark	39:mark	Lem=_|Len=4
@@ -96,16 +96,16 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 20	_	_	PUNCT	,	_	21	punct	21:punct	Lem=_|Len=1
 21	_	_	ADJ	JJ	Degree=Pos	19	conj	12:acl:that|19:conj:but	Lem=_|Len=5|MSeg=funn-y
 22	_	_	CCONJ	CC	_	25	cc	25:cc	Lem=_|Len=3
-23	_	_	ADJ	JJ	Degree=Pos	25	amod	25:amod	Lem=_|Len=7
+23	_	_	ADJ	JJ	Degree=Pos	25	amod	25:amod	Lem=_|Len=7|MSeg=over-all
 24	_	_	DET	DT	Definite=Def|PronType=Art	25	det	25:det	Entity=(78-abstract-new-cf4-2-sgl|Lem=_|Len=3
 25	_	_	NOUN	NN	Number=Sing	19	conj	12:acl:that|19:conj:and	Lem=_|Len=4
 26	_	_	ADP	IN	_	28	case	28:case	Lem=_|Len=2
 27	_	_	DET	DT	Definite=Def|PronType=Art	28	det	28:det	Entity=(79-event-new-cf5-2-sgl|Lem=_|Len=3
 28	_	_	NOUN	NN	Number=Sing	25	nmod	25:nmod:of	Entity=79)78)|Lem=_|Len=5
-29	_	_	CCONJ	CC	_	33	cc	33:cc	Discourse=adversative-contrast_m:75->74:0:dm-but-514|Lem=_|Len=3
+29	_	_	CCONJ	CC	_	33	cc	33:cc	Discourse=adversative-contrast_m:75->74:0:dm-but-514|Lem=_|Len=3|PDTB=Explicit:Comparison.Contrast:but:514:498-513:515-521
 30	_	_	ADV	RB	_	33	advmod	33:advmod	Lem=_|Len=4
 31	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	aux	33:aux	Lem=do|Len=4|MSeg=doe-s
-32	_	_	PART	RB	Polarity=Neg	33	advmod	33:advmod	Lem=not|Len=3
+32	_	_	PART	RB	Polarity=Neg	33	advmod	33:advmod	Lem=not|Len=3|Negation=Yes
 33	_	_	VERB	VB	VerbForm=Inf	19	conj	12:acl:that|19:conj:but	Lem=_|Len=4
 34	_	_	PART	TO	_	33	xcomp	33:xcomp	Lem=_|Len=2
 35	_	_	ADV	RB	Degree=Pos	36	advmod	36:advmod	Lem=_|Len=5

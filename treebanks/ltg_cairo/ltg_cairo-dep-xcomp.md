@@ -43,8 +43,8 @@ The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href
 2	tēte	tēte	NOUN	ncmsn5	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj|4:nsubj	LvtbNodeId=a-ltg-Cairo-p8s1w2
 3	ir	byut	VERB	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p8s1w3
 4	foršuoks	foršs	ADJ	afmsnnc	Case=Nom|Definite=Ind|Degree=Cmp|Gender=Masc|Number=Sing	3	xcomp	3:xcomp	LvtbNodeId=a-ltg-Cairo-p8s1w4
-5	nakai	nakai	SCONJ	cs	_	6	case	6:case	LvtbNodeId=a-ltg-Cairo-p8s1w5
-6	tovejais	tovejs	ADJ	armsnyp	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	3	obl	3:obl:nakai	LvtbNodeId=a-ltg-Cairo-p8s1w6|SpaceAfter=No
+5	nakai	nakai	SCONJ	cs	_	6	mark	6:mark	LvtbNodeId=a-ltg-Cairo-p8s1w5
+6	tovejais	tovejs	ADJ	armsnyp	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	3	advcl	3:advcl:nakai	LvtbNodeId=a-ltg-Cairo-p8s1w6|SpaceAfter=No
 7	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-ltg-Cairo-p8s1w7
 
 ~~~

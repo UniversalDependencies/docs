@@ -11,4 +11,4 @@ The `vocative` relation is used to mark a dialogue participant addressed in a te
 Jungs , wollte ihr mitkommen ? \n Guys , do you want to come with us ?
 vocative(mitkommen, Jungs)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:48 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:29 CET -->

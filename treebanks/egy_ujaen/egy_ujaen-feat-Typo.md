@@ -9,16 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-5 tokens (0%) have a non-empty value of `Typo`.
-5 types (1%) occur at least once with a non-empty value of `Typo`.
-5 lemmas (1%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 1 part-of-speech tags: <tt><a href="egy_ujaen-pos-X.html">X</a></tt> (5; 0% instances).
+21 tokens (0%) have a non-empty value of `Typo`.
+14 types (1%) occur at least once with a non-empty value of `Typo`.
+14 lemmas (1%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 1 part-of-speech tags: <tt><a href="egy_ujaen-pos-X.html">X</a></tt> (21; 0% instances).
 
 ### `X`
 
-5 <tt><a href="egy_ujaen-pos-X.html">X</a></tt> tokens (38% of all `X` tokens) have a non-empty value of `Typo`.
+21 <tt><a href="egy_ujaen-pos-X.html">X</a></tt> tokens (34% of all `X` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `X` and `Typo` co-occurred: <tt><a href="egy_ujaen-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (21; 100%).
 
 `X` tokens may have the following values of `Typo`:
 
-* `Yes` (5; 100% of non-empty `Typo`): <em>{i҆m}, {i҆mḥ.y}, {i҆r.t}, {⸗tn}, {⸗č}</em>
+* `Yes` (21; 100% of non-empty `Typo`): <em>{nb}, {k}, {n}, {r}, {t}, {č̣}, {ḥr}, {⸗k}, {⸗tn}, {⸗č}</em>
+
+`Typo` seems to be **lexical feature** of `X`. 100% lemmas (14) occur only with one value of `Typo`.
 

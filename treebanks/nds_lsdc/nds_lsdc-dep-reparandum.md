@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 3 reparandum	color:blue
-1	Jä	ja	INTJ	_	_	8	discourse	_	lemma_gml=ia|SpaceAfter=No
+1	Jä	jå	INTJ	_	_	8	discourse	_	lemma_gml=ia|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	reparandum	_	lemma_gml=ik
 4	–	–	PUNCT	_	_	3	punct	_	_
@@ -31,7 +31,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 7	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	8	obl:arg	_	lemma_gml=ik
 8	deit	doon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=dôn
 9	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	8	nsubj	_	lemma_gml=dê,dê,dat
-10	jo	ja	ADV	_	_	8	advmod	_	lemma_gml=io
+10	jo	jå	ADV	_	_	8	advmod	_	lemma_gml=io
 11	ouk	ouk	ADV	_	_	8	advmod	_	lemma_gml=ôk
 12	bannig	bannig	ADJ	_	Degree=Pos	8	advmod	_	lemma_gml=bannich
 13	leyd	leyd	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	lemma_gml=lêit|SpaceAfter=No

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Bororo-BDT: Features: `Speech`
 
 This feature is language-specific.
-It occurs with 2 different values: `Ind`, `IndOpt`.
+It occurs with 1 different values: `Ind`.
 
 22 tokens (0%) have a non-empty value of `Speech`.
 17 types (1%) occur at least once with a non-empty value of `Speech`.
@@ -22,8 +22,7 @@ The most frequent other feature values with which `NOUN` and `Speech` co-occurre
 
 `NOUN` tokens may have the following values of `Speech`:
 
-* `Ind` (6; 86% of non-empty `Speech`): <em>boejie, boie, jureie, jurekaie, tugodyie</em>
-* `IndOpt` (1; 14% of non-empty `Speech`): <em>tuoiagu</em>
+* `Ind` (7; 100% of non-empty `Speech`): <em>boejie, boie, jureie, jurekaie, tugodyie, tuoiagu</em>
 
 ### `VERB`
 
@@ -33,8 +32,7 @@ The most frequent other feature values with which `VERB` and `Speech` co-occurre
 
 `VERB` tokens may have the following values of `Speech`:
 
-* `Ind` (4; 80% of non-empty `Speech`): <em>koduie, arerumodyie, tawimodyie, tumaragodymodyie</em>
-* `IndOpt` (1; 20% of non-empty `Speech`): <em>enogwageiagu</em>
+* `Ind` (5; 100% of non-empty `Speech`): <em>koduie, arerumodyie, enogwageiagu, tawimodyie, tumaragodymodyie</em>
 
 ### `ADV`
 
@@ -82,5 +80,10 @@ The most frequent other feature values with which `PRON` and `Speech` co-occurre
 
 `PRON` tokens may have the following values of `Speech`:
 
-* `IndOpt` (1; 100% of non-empty `Speech`): <em>aiagu</em>
+* `Ind` (1; 100% of non-empty `Speech`): <em>aiagu</em>
+
+## Relations with Agreement in `Speech`
+
+The 10 most frequent relations where parent and child node agree in `Speech`:
+<tt>NOUN --[<tt><a href="bor_bdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%).
 

@@ -12,8 +12,8 @@ Some words have combined values of the feature; 9 combinations have been observe
 
 2949 tokens (2%) have a non-empty value of `Clitic`.
 1730 types (4%) occur at least once with a non-empty value of `Clitic`.
-762 lemmas (4%) occur at least once with a non-empty value of `Clitic`.
-The feature is used with 11 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (965; 1% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (708; 0% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (354; 0% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (312; 0% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (217; 0% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (119; 0% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (110; 0% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (78; 0% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (57; 0% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (21; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (8; 0% instances).
+759 lemmas (4%) occur at least once with a non-empty value of `Clitic`.
+The feature is used with 11 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (965; 1% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (708; 0% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (354; 0% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (317; 0% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (217; 0% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (119; 0% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (110; 0% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (73; 0% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (57; 0% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (21; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (8; 0% instances).
 
 ### `VERB`
 
@@ -136,18 +136,18 @@ The most frequent other feature values with which `NOUN` and `Clitic` co-occurre
 
 ### `PRON`
 
-312 <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Clitic`.
+317 <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `PRON` and `Clitic` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (238; 76%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (206; 66%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (178; 57%).
+The most frequent other feature values with which `PRON` and `Clitic` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (242; 76%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (206; 65%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (178; 56%).
 
 `PRON` tokens may have the following values of `Clitic`:
 
-* `Han` (61; 20% of non-empty `Clitic`): <em>sehän, Mitähän, Minähän, sinähän, Kaikkihan, Kukahan, Mehän, Miltähän, Tuostahan, senhän</em>
+* `Han` (62; 20% of non-empty `Clitic`): <em>sehän, Mitähän, Minähän, sinähän, Kaikkihan, Kukahan, Mehän, Miltähän, Tuostahan, minunhan</em>
 * `Han,Kin` (1; 0% of non-empty `Clitic`): <em>nekinhän</em>
 * `Han,Ko` (2; 1% of non-empty `Clitic`): <em>Kukakohan, Mitäköhän</em>
 * `Kaan` (29; 9% of non-empty `Clitic`): <em>muukaan, sekään, siitäkään, minäkään, muutkaan, sitäkään, Yhtäkään, itsekään, itsestänikään, minäkä</em>
 * `Kaan,Ko` (1; 0% of non-empty `Clitic`): <em>sitäkäänkö</em>
-* `Kin` (139; 45% of non-empty `Clitic`): <em>itsekin, minäkin, sekin, sinäkin, muutakin, meilläkin, hänkin, minullekin, hekin, itselleenkin</em>
+* `Kin` (143; 45% of non-empty `Clitic`): <em>itsekin, minäkin, sekin, sinäkin, muutakin, meilläkin, hänkin, minullekin, minunkin, hekin</em>
 * `Ko` (25; 8% of non-empty `Clitic`): <em>tekö, sekö, Minäkö, Sitäkö, Tuoko, Tämäkö, sinäkö, Heistäkö, Kaikkiko, Kukako</em>
 * `Ko,S` (3; 1% of non-empty `Clitic`): <em>Moneltakos, Sinäkös, minäkös</em>
 * `Pa` (22; 7% of non-empty `Clitic`): <em>kukapa, siinäpä, Mitäpä, minäpä, sinäpä, Sepä, Siitäpä, Tästäpä</em>
@@ -239,19 +239,19 @@ The most frequent other feature values with which `ADJ` and `Clitic` co-occurred
 
 ### `DET`
 
-78 <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Clitic`.
+73 <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `DET` and `Clitic` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (47; 60%).
+The most frequent other feature values with which `DET` and `Clitic` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (43; 59%).
 
 `DET` tokens may have the following values of `Clitic`:
 
-* `Han` (5; 6% of non-empty `Clitic`): <em>Jokainenhan, Minkähän, Minunhan, Mitähän, Tämähän</em>
+* `Han` (4; 5% of non-empty `Clitic`): <em>Jokainenhan, Minkähän, Mitähän, Tämähän</em>
 * `Ka,S` (1; 1% of non-empty `Clitic`): <em>mihinkäs</em>
-* `Kaan` (7; 9% of non-empty `Clitic`): <em>Tämäkään, Tänäkään, muidenkaan, sittään, tämänkään, tätäkä, yhtäkään</em>
-* `Kin` (49; 63% of non-empty `Clitic`): <em>muitakin, minunkin, muutakin, muutkin, tänäkin, niidenkin, senkin, tämänkin, tässäkin, Muissakin</em>
-* `Ko` (8; 10% of non-empty `Clitic`): <em>montako, Tämäkö, kumpaanko, tuonko</em>
+* `Kaan` (7; 10% of non-empty `Clitic`): <em>Tämäkään, Tänäkään, muidenkaan, sittään, tämänkään, tätäkä, yhtäkään</em>
+* `Kin` (45; 62% of non-empty `Clitic`): <em>muitakin, muutakin, muutkin, tänäkin, niidenkin, senkin, tämänkin, tässäkin, Muissakin, Nekin</em>
+* `Ko` (8; 11% of non-empty `Clitic`): <em>montako, Tämäkö, kumpaanko, tuonko</em>
 * `Ko,S` (1; 1% of non-empty `Clitic`): <em>mones</em>
-* `S` (7; 9% of non-empty `Clitic`): <em>mitäs, Mikäs, kukas, milläs</em>
+* `S` (7; 10% of non-empty `Clitic`): <em>mitäs, Mikäs, kukas, milläs</em>
 
 <table>
   <tr><th>Paradigm <i>tämä</i></th><th><tt>Han</tt></th><th><tt>Kaan</tt></th><th><tt>Kin</tt></th><th><tt>Ko</tt></th></tr>

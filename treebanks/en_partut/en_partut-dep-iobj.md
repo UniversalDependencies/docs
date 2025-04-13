@@ -65,7 +65,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 20	sort	sort	NOUN	S	Number=Sing	16	nmod	_	_
 21	of	of	ADP	E	_	23	case	_	_
 22	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	23	det	_	_
-23	coma	coma	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+23	coma	coma	NOUN	S	Number=Sing	20	nmod	_	SpaceAfter=No
 24	"	"	PUNCT	FB	_	20	punct	_	SpaceAfter=No
 25	.	.	PUNCT	FS	_	4	punct	_	_
 

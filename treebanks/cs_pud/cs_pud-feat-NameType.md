@@ -19,20 +19,20 @@ The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-PROPN.ht
 
 1078 <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1078; 100%), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (967; 90%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (829; 77%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (610; 57%).
+The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (967; 90%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (829; 77%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (610; 57%).
 
 `PROPN` tokens may have the following values of `NameType`:
 
-* `Com` (111; 10% of non-empty `NameType`): <em>USA, Čching, BBC, CNN, EU, Aviva, Company, Facebooku, Investors, Multi</em>
+* `Com` (111; 10% of non-empty `NameType`): <em>Čching, USA, BBC, CNN, EU, Asty, Athina, Aviva, Brand, Bush</em>
 * `Com,Geo` (1; 0% of non-empty `NameType`): <em>Scotland</em>
 * `Com,Pro` (3; 0% of non-empty `NameType`): <em>Ford, GM</em>
-* `Geo` (386; 36% of non-empty `NameType`): <em>Čína, Francie, Albánie, Británii, Danevirke, Evropě, Itálii, Ameriky, Asii, Británie</em>
+* `Geo` (386; 36% of non-empty `NameType`): <em>Čína, Francie, Albánie, Británii, Danevirke, Evropě, Itálii, Liao, Ameriky, Asii</em>
 * `Geo,Giv` (3; 0% of non-empty `NameType`): <em>Thrákie, Thrákii, Thrákií</em>
-* `Giv` (195; 18% of non-empty `NameType`): <em>Donald, Richarda, Augustus, Donalda, František, George, González, Jasmína, Ježíše, Joseph</em>
+* `Giv` (195; 18% of non-empty `NameType`): <em>Donald, Richarda, Augustus, Bass, Donalda, František, George, Giovanni, González, Jasmína</em>
 * `Giv,Sur` (5; 0% of non-empty `NameType`): <em>James, Michael, Michala, Stephen, Štěpán</em>
 * `Nat` (41; 4% of non-empty `NameType`): <em>Australané, Mayové, Číňanů, Řekové, Židů, Aboriginci, Achájů, Američan, Američané, Athéňanů</em>
 * `Oth` (2; 0% of non-empty `NameType`): <em>Cup, Cupu</em>
-* `Pro` (19; 2% of non-empty `NameType`): <em>Endurance, Dead, Greco, Loving, MahaNakhon, Mate, Nectar, Select, Simple, Slack</em>
+* `Pro` (19; 2% of non-empty `NameType`): <em>Endurance, Nectar, Undersea, Dead, Greco, Loving, MahaNakhon, Mate, Select, Simple</em>
 * `Sur` (312; 29% of non-empty `NameType`): <em>Clintonové, Trump, Trumpa, Bluntová, Mišima, Seagal, Winstone, Wright, Šen, Aldrin</em>
 
 <table>

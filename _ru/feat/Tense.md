@@ -60,4 +60,4 @@ moment. Future tense in Russian is formed in one of three ways, depending of the
 * _<b>Пойду</b> домой.&nbsp;_ “I <b>will go</b> home.” (_Jít&nbsp;_ is an imperfective verb, phonological rule transformed the prefix
   _po-_ to _pů-._)
 * _<b>Буду</b> идти домой.&nbsp;_ “I <b>will</b> be coming home.” (_Идти&nbsp;_ is an imperfective verb and it forms future periphrastically.)
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:24 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:07 CET -->

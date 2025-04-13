@@ -45,4 +45,4 @@ The third person refers to one or more persons that are neither speakers nor add
 * _ის_ 'he/she/it', _ისინი_ 'they' etc.
 * _მისი_ 'his/her/its', _მათი_ 'their' etc.
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:12 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:56 CET -->

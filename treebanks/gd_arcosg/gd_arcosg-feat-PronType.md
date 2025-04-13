@@ -7,23 +7,71 @@ udver: '2'
 ## Treebank Statistics: UD_Scottish_Gaelic-ARCOSG: Features: `PronType`
 
 This feature is universal.
-It occurs with 3 different values: `Art`, `Int`, `Rel`.
+It occurs with 5 different values: `Art`, `Dem`, `Int`, `Prs`, `Rel`.
 
-8038 tokens (9%) have a non-empty value of `PronType`.
-60 types (1%) occur at least once with a non-empty value of `PronType`.
-40 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (4964; 6% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (2524; 3% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (475; 1% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (75; 0% instances).
+18790 tokens (21%) have a non-empty value of `PronType`.
+137 types (2%) occur at least once with a non-empty value of `PronType`.
+90 lemmas (2%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (9651; 11% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (6540; 7% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (2524; 3% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (75; 0% instances).
+
+### `PRON`
+
+9651 <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=3</tt> (6186; 64%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6007; 62%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4941; 51%).
+
+`PRON` tokens may have the following values of `PronType`:
+
+* `Dem` (720; 7% of non-empty `PronType`): <em>sin, seo, siud, sineach, a-sin, an, a-seo, seothach, siod, a</em>
+* `Int` (451; 5% of non-empty `PronType`): <em>dè, cò, dé, ciamar, carson, gu, cà, có, cuin', mheud</em>
+* `Prs` (8421; 87% of non-empty `PronType`): <em>e, iad, i, mi, a, thu, sinn, esan, fhèin, sibh</em>
+* `Rel` (59; 1% of non-empty `PronType`): <em>na</em>
+
+<table>
+  <tr><th>Paradigm <i>a</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>a</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>a</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="gd_arcosg-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>a</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="gd_arcosg-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>a</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>a</em></td><td></td></tr>
+</table>
+
+`PronType` seems to be **lexical feature** of `PRON`. 97% lemmas (75) occur only with one value of `PronType`.
 
 ### `DET`
 
-4964 <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> tokens (76% of all `DET` tokens) have a non-empty value of `PronType`.
+6540 <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4964; 100%), <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4964; 100%), <tt><a href="gd_arcosg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4964; 100%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3994; 80%), <tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3731; 75%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2876; 58%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5656; 86%), <tt><a href="gd_arcosg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5656; 86%), <tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5261; 80%), <tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4964; 76%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4740; 72%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3288; 50%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (4964; 100% of non-empty `PronType`): <em>an, na, a’, a', am, nan, 'n, nam, 'm, ‘n</em>
-* `EMPTY` (1575): <em>a, an, sin, seo, h-uile, am, mo, do, gach, ud</em>
+* `Art` (5656; 86% of non-empty `PronType`): <em>an, na, a’, sin, a', seo, am, a, h-uile, nan</em>
+* `Prs` (884; 14% of non-empty `PronType`): <em>a, an, mo, do, am, ar, m', d', t', ur</em>
+
+<table>
+  <tr><th>Paradigm <i>an</i></th><th><tt>Prs</tt></th><th><tt>Art</tt></th></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>an, a’, a', am, na</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td><em>an</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>nan, na, nam</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>na, an, a', a’</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>nan, na, nam</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>a', an, am, a’, a, na</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>nan, na, nam</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>an, a’, am, 'n, a', 'm, ‘n, ’n, nam</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>na</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>an, a’, a', 'n, ‘n, am, a, 'm, ‘m</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>na</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>an, a', am, a’, 'm, a, 'n</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>na</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>am, an, a’</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>na</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>an, a’, a'</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>na</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>an, am, a’</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>na</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="gd_arcosg-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>an, am, ’n, 'n, 'm, a</em></td><td></td></tr>
+</table>
 
 ### `PART`
 
@@ -42,25 +90,11 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
   <tr><td><tt></tt></td><td><em>a</em></td><td><em>a</em></td></tr>
 </table>
 
-### `PRON`
-
-475 <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `PronType`.
-
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (475; 100%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (475; 100%), <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (475; 100%).
-
-`PRON` tokens may have the following values of `PronType`:
-
-* `Int` (416; 88% of non-empty `PronType`): <em>dè, cò, dé, ciamar, carson, gu, cà, có, mheud, mar</em>
-* `Rel` (59; 12% of non-empty `PronType`): <em>na</em>
-* `EMPTY` (9195): <em>e, iad, i, mi, a, thu, sin, sinn, esan, fhèin</em>
-
-`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (32) occur only with one value of `PronType`.
-
 ### `AUX`
 
 75 <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> tokens (6% of all `AUX` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `AUX` and `PronType` co-occurred: <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (75; 100%), <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (75; 100%).
+The most frequent other feature values with which `AUX` and `PronType` co-occurred: <tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (75; 100%), <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (75; 100%), <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (75; 100%), <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (75; 100%).
 
 `AUX` tokens may have the following values of `PronType`:
 
@@ -70,7 +104,13 @@ The most frequent other feature values with which `AUX` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (38; 97%),
-<tt>PRON --[<tt><a href="gd_arcosg-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (2; 100%),
-<tt>DET --[<tt><a href="gd_arcosg-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (1; 100%).
+<tt>PRON --[<tt><a href="gd_arcosg-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (240; 83%),
+<tt>DET --[<tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt>]--> DET</tt> (89; 100%),
+<tt>PRON --[<tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (81; 100%),
+<tt>PRON --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> PRON</tt> (9; 75%),
+<tt>PRON --[<tt><a href="gd_arcosg-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (3; 100%),
+<tt>PRON --[<tt><a href="gd_arcosg-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (2; 67%),
+<tt>DET --[<tt><a href="gd_arcosg-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (1; 100%),
+<tt>PRON --[<tt><a href="gd_arcosg-dep-det.html">det</a></tt>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<tt><a href="gd_arcosg-dep-obj.html">obj</a></tt>]--> DET</tt> (1; 100%).
 

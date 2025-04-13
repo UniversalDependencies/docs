@@ -29,13 +29,13 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 5	ni	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	6	nsubj	_	SpaceAfter=No
 6	tú	tú	PRON	_	Number=Sing|Person=2|PronType=Prs	3	dislocated	_	_
 7	no	no	PART	_	PartType=Vb	9	compound:prt	_	SpaceAfter=No
-8	d	id	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=C|PronType=Prs	7	obj:infx	_	SpaceAfter=No
+8	d	id_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=C|PronType=Prs	7	obj:infx	_	SpaceAfter=No
 9	nail	ailid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	acl:relcl	_	_
 10	acht	acht	SCONJ	_	_	12	mark	_	_
 11	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	12	nsubj	_	SpaceAfter=No
-12	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	acl	_	_
+12	hé	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	acl	_	_
 13	no	no	PART	_	PartType=Vb	15	compound:prt	_	SpaceAfter=No
-14	t	t	PRON	_	Number=Sing|Person=2|PronClass=A|PronType=Prs	13	obj:infx	_	_
+14	t	t_1	PRON	_	Number=Sing|Person=2|PronClass=A|PronType=Prs	13	obj:infx	_	_
 15	ail	ailid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	12	acl:relcl	_	_
 
 ~~~
@@ -55,7 +55,7 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 6	comarbus	comarbus	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
 7	for	far	PRON	_	Number=Plur|Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
 8	nathar	athair	NOUN	_	Case=Gen|Number=Sing	6	nmod	_	_
-9	et	_	CCONJ	_	Foreign=Yes	11	cc	_	_
+9	et	_	CCONJ	_	Foreign=Yes	11	cc	_	Lang=la
 10	int	in	PART	_	PartType=Vb	11	compound:prt	_	SpaceAfter=No
 11	amlid	insamlathar	VERB	_	Mood=Imp|Number=Plur|Person=2|Voice=Act	5	conj	_	_
 12	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	SpaceAfter=No
@@ -76,12 +76,12 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 4	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	5	case	_	SpaceAfter=No
 5	lóg	lóg	NOUN	_	Case=Acc|Number=Sing	6	obl	_	_
 6	pridcha	pridchaid	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
-7	sa	sa	PRON	_	PronType=Emp	6	amod	_	_
+7	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	6	amod	_	_
 8	.i.	.i.	ADV	_	Abbr=Yes	11	advmod	_	_
 9	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	11	case	_	SpaceAfter=No
 10	m	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	SpaceAfter=No
 11	etiuth	étiud	NOUN	_	Case=Acc|Number=Sing	5	dislocated	_	_
-12	et	_	CCONJ	_	Foreign=Yes	14	cc	_	_
+12	et	_	CCONJ	_	Foreign=Yes	14	cc	_	Lang=la
 13	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	_	SpaceAfter=No
 14	thoschith	toschid	NOUN	_	Case=Acc|Number=Sing	11	conj	_	_
 15	ní	ní	PART	_	Polarity=Neg	17	advmod	_	SpaceAfter=No

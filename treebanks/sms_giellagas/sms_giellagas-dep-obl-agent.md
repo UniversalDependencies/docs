@@ -30,7 +30,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	što	što	SCONJ	CS	_	9	mark	_	_
 7	tueʹllj	tueʹllj	NOUN	N	Case=Acc|Number=Sing	9	nsubj:pass	_	GTtags=Sg,Acc
-8	i-ǥõl	i-ǥõl	AUX	V	_	9	aux:neg	_	_
+8	i-ǥõl	i-ǥõl	AUX	V	Polarity=Neg	9	aux	_	_
 9	kooǯǯted	kooǯǯted	VERB	V	VerbForm=Inf	4	ccomp	_	GTtags=Inf|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	14	punct	_	_
 11	kåʹddtueʹllj	kåʹddtueʹllj	NOUN	N	Case=Acc|Number=Sing	14	nsubj:pass	_	GTtags=Sg,Acc
@@ -62,7 +62,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 12	leežž	leeʹd	AUX	Aux	Mood=Pot|Number=Sing|Person=3	13	aux	_	GTtags=IV,Pot,Sg3
 13	šõddâm	šõddâd	VERB	V	Aspect=Perf|VerbForm=Part	4	advcl	_	GTtags=Act,PrfPrc
 14	ǥu	ǥu	SCONJ	CS	_	18	mark	_	_
-15	ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	18	aux:neg	_	GTtags=Neg,Ind,Sg3
+15	ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	18	aux	_	GTtags=Neg,Ind,Sg3
 16	tâʹl	tâʹl	ADV	Adv	AdvType=Tim	18	advmod:tmod	_	GTtags=Sem/Time
 17	ni	ni	PART	Pcle	_	18	advmod:neg	_	_
 18	vuäittam	vueiʹtted	VERB	V	Aspect=Perf|VerbForm=Part	13	advcl	_	GTtags=Act,PrfPrc|SpaceAfter=No

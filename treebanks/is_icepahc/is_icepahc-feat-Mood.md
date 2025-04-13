@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-124092 tokens (13%) have a non-empty value of `Mood`.
-8669 types (13%) occur at least once with a non-empty value of `Mood`.
-2982 lemmas (8%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 15 part-of-speech tags: <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (77723; 8% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (44627; 5% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (374; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (337; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (310; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (283; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (196; 0% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (116; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (53; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (27; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (18; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+124074 tokens (13%) have a non-empty value of `Mood`.
+8662 types (13%) occur at least once with a non-empty value of `Mood`.
+2974 lemmas (8%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 14 part-of-speech tags: <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (77723; 8% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (44627; 5% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (374; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (337; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (310; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (283; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (196; 0% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (116; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (53; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (27; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -96,7 +96,7 @@ The most frequent other feature values with which `NOUN` and `Mood` co-occurred:
 * `Imp` (7; 2% of non-empty `Mood`): <em>hurðu, Furðu, Stundu, Sverðið, eig, far</em>
 * `Ind` (228; 61% of non-empty `Mood`): <em>vilja, leið, friðar, lifnaði, miskunnar, skildi, hóf, kostar, tignar, birti</em>
 * `Sub` (139; 37% of non-empty `Mood`): <em>kosti, liði, mætti, verði, vilji, viti, hafi, mildi, biskupi, boði</em>
-* `EMPTY` (145508): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
+* `EMPTY` (145507): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
 
 <table>
   <tr><th>Paradigm <i>stund</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -162,7 +162,7 @@ The most frequent other feature values with which `ADJ` and `Mood` co-occurred: 
 * `Imp` (9; 3% of non-empty `Mood`): <em>Heill, Hásu, Nakið, Skamt, Skjót, löstu, mildi, ofgóð, upprisu</em>
 * `Ind` (246; 87% of non-empty `Mood`): <em>verður, var, fær, nær, ríkir, sannast, átti, sanna, syndgir, varir</em>
 * `Sub` (28; 10% of non-empty `Mood`): <em>fegri, svarti, verðir, frómi, glaði, sæti, Elsti, fáum, hæsti, lítilsvirði</em>
-* `EMPTY` (36876): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
+* `EMPTY` (36875): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
 
 <table>
   <tr><th>Paradigm <i>heill</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -228,7 +228,7 @@ The most frequent other feature values with which `PROPN` and `Mood` co-occurred
 * `Imp` (1; 2% of non-empty `Mood`): <em>Yxu</em>
 * `Ind` (31; 58% of non-empty `Mood`): <em>Georgíus, Majst, Beljus, Belíus, Brúni, Guði, Gálu, Hrímgerður, Karatti, Kórmaks</em>
 * `Sub` (21; 40% of non-empty `Mood`): <em>Valdi, sankti, Maii, Guddu, Julii, Martii, Stefni, Vali, bausti, dragi</em>
-* `EMPTY` (41334): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
+* `EMPTY` (41331): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
 
 <table>
   <tr><th>Paradigm <i>guð</i></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>
@@ -247,18 +247,6 @@ The most frequent other feature values with which `PROPN` and `Mood` co-occurred
 * `Imp` (1; 4% of non-empty `Mood`): <em>at</em>
 * `Ind` (26; 96% of non-empty `Mood`): <em>er, eð, eru, hvörri, hvört</em>
 * `EMPTY` (41862): <em>að, sem, er, en, ef, þegar, þó, nema, hvort, meðan</em>
-
-### `X`
-
-18 <tt><a href="is_icepahc-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Mood`.
-
-The most frequent other feature values with which `X` and `Mood` co-occurred: <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="is_icepahc-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 78%).
-
-`X` tokens may have the following values of `Mood`:
-
-* `Ind` (16; 89% of non-empty `Mood`): <em>Majst, Edimus, Item, Sicut, nostra, omnium, statuta</em>
-* `Sub` (2; 11% of non-empty `Mood`): <em>beati, patri</em>
-* `EMPTY` (2254): <em>anno, item, in, domini, et, Dominus, Trankival, sankti, etc, sanktus</em>
 
 ### `CCONJ`
 

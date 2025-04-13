@@ -53,7 +53,7 @@ The following 4 pairs of parts of speech are connected with `csubj:cop`: <tt><a 
 4	dobadh	is	AUX	_	PronType=Rel|Tense=Past|VerbForm=Cop	5	cop	_	_
 5	mián	mian	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 6	lé	le	ADP	_	_	7	case	_	_
-7	Pilát	Píoláit	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	obl:prep	_	_
+7	Pilát	Píoláit	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	5	obl:prep	_	_
 8	a	a	PART	_	PartType=Inf	9	mark	_	_
 9	leigean	ligean	NOUN	_	VerbForm=Inf	5	csubj:cop	_	_
 10	fá	faoi	ADP	_	_	11	case	_	_
@@ -63,9 +63,9 @@ The following 4 pairs of parts of speech are connected with `csubj:cop`: <tt><a 
 14	do	do	PART	_	PartType=Vb	15	mark:prt	_	_
 15	thógbhadar	tóg	VERB	_	Form=Len|Mood=Ind|Number=Plur|Person=3|Tense=Past	11	advcl	_	_
 16	na	an	DET	_	Definite=Def|Number=Plur|PronType=Art	17	det	_	_
-17	Híudaidhe	Giúdach	NOUN	_	Case=Nom|Form=HPref|Gender=Masc|Number=Plur	15	nsubj	_	_
-18	na	na	DET	_	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
-19	gáirthe	gáir	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	15	obj	_	SpaceAfter=No
+17	Híudaidhe	Giúdach	NOUN	_	Case=Nom|Definite=Def|Form=HPref|Gender=Masc|Number=Plur	15	nsubj	_	_
+18	na	an	DET	_	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
+19	gáirthe	gáir	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	15	obj	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	_
 21	agá	ag	ADP	_	_	22	case	_	_
 22	rádh	rá	NOUN	_	VerbForm=Vnoun	15	xcomp	_	SpaceAfter=No

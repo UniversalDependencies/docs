@@ -7,9 +7,9 @@ udver: '2'
 ## Treebank Statistics: UD_Old_Irish-DipWBG: POS Tags: `ADV`
 
 There are 8 `ADV` lemmas (4%), 8 `ADV` types (3%) and 45 `ADV` tokens (10%).
-Out of 13 observed tags, the rank of `ADV` is: 8 in number of lemmas, 9 in number of types and 6 in number of tokens.
+Out of 12 observed tags, the rank of `ADV` is: 8 in number of lemmas, 9 in number of types and 6 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>.i., amal, amein, didiu, nacc, nammá, trá, ém</em>
+The 10 most frequent `ADV` lemmas: <em>.i., amal, amein, didiu, nacc, nammá, trá, ám</em>
 
 The 10 most frequent `ADV` types:  <em>.i., samlid, didiu, mne, nacc, nammáa, tra, ǽm</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.427807).
+The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.430108).
 
 The 1st highest number of forms (1) was observed with the lemma “.i.”: <em>.i.</em>.
 

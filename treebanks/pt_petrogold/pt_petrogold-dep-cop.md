@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2515 nodes (1%) are attached to their parents as `cop`.
+2490 nodes (1%) are attached to their parents as `cop`.
 
-2500 instances of `cop` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.79880715705765.
+2475 instances of `cop` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.78955823293173.
 
-The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (1176; 47% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (1058; 42% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (93; 4% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (75; 3% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (38; 2% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (33; 1% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (24; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (18; 1% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (1176; 47% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (1058; 42% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (93; 4% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (75; 3% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (33; 1% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (24; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (18; 1% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (13; 1% instances).
 
 
 ~~~ conllu

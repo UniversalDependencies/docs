@@ -24,13 +24,13 @@ The following 26 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 8 7 obl:arg	color:blue
 1	Ale	ale	CCONJ	J^-------------	_	8	cc	8:cc	_
 2	tohle	tenhle	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	det	3:det	_
-3	setkání	setkání	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	8	nsubj	8:nsubj	_
+3	setkání	setkání	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	8:nsubj	_
 4	se	s	ADP	RV--7----------	AdpType=Voc|Case=Ins	6	case	6:case	_
 5	zachráněným	zachráněný	ADJ	AANS7----1A----	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	6	amod	6:amod	_
-6	kotětem	kotě	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	3	nmod	3:nmod:s:ins	_
+6	kotětem	kotě	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing	3	nmod	3:nmod:s:ins	_
 7	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	8	obl:arg	8:obl:arg:dat	_
 8	dodalo	dodat	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
-9	sílu	síla	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	8	obj	8:obj	SpaceAfter=No
+9	sílu	síla	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	8	obj	8:obj	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	8	punct	8:punct	_
 
 ~~~
@@ -43,10 +43,10 @@ The following 26 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 1	fgColor:white
 # visual-style 1 5 obl:arg	color:blue
 1	Daly	dát	VERB	VpFP----R-AA---	Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
-2	jsme	být	AUX	VB-P---1P-AA---	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	1:aux	_
+2	jsme	být	AUX	VB-P---1P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	1:aux	_
 3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	1:expl:pv	_
 4	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	5	case	5:case	_
-5	řeči	řeč	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	obl:arg	1:obl:arg:do:gen	SpaceAfter=No
+5	řeči	řeč	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	1	obl:arg	1:obl:arg:do:gen	SpaceAfter=No
 6	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~

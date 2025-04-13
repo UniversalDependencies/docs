@@ -8,91 +8,70 @@ udver: '2'
 
 This relation is universal.
 
-32 nodes (1%) are attached to their parents as `parataxis`.
+55 nodes (1%) are attached to their parents as `parataxis`.
 
-32 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.0625.
+35 instances of `parataxis` (64%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.18181818181818.
 
-The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (11; 34% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (5; 16% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (5; 16% instances), <tt><a href="ha_northernautogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (3; 9% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (3; 9% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+The following 12 pairs of parts of speech are connected with `parataxis`: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (19; 35% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (12; 22% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (8; 15% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (5; 9% instances), <tt><a href="ha_northernautogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="ha_northernautogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 13 parataxis	color:blue
-1	sai	sai	ADV	_	_	5	advmod	_	AlignBegin=182607|AlignEnd=182972|Gloss=then
-2	kàram	kàreː	NOUN	_	Definite=Cons|Gender=Masc	5	obl	_	AlignBegin=182972|AlignEnd=183337|Gloss=dog.Masc.Cons
-3	ɓiki	ɓiki	NOUN	_	Gender=Masc	2	compound	_	AlignBegin=183337|AlignEnd=183702|Gloss=shit.Masc
-4	yac	_	AUX	sukà/sunkà	Aspect=PerfBkg|Gender=Masc|Person=3	5	aux	_	AlignBegin=183702|AlignEnd=184067|Background=Yes|Gloss=3Masc.Perf.Bkg
-5	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=184067|AlignEnd=184432|Gloss=say
-6	mà	mà	ADP	_	Case=Dat	7	case	_	AlignBegin=184432|AlignEnd=184797|Gloss=Dat
-7	zàkaràː	zàkaràː	NOUN	_	Gender=Masc	5	obl:arg	_	AlignBegin=184797|AlignEnd=185162|Gloss=cock.Masc
-8	[	[	PUNCT	_	_	10	punct	_	AlignBegin=185162|AlignEnd=185527|Gloss=PUNCT
-9	mun	_	AUX	sun	Aspect=Perf|Number=Plur|Person=1	10	aux	_	AlignBegin=185527|AlignEnd=185892|Gloss=1Plur.Perf
-10	isoː	is-	VERB	_	_	5	ccomp	_	AlignBegin=185892|AlignEnd=186257|Gloss=arrive
-11	//=	//=	PUNCT	_	_	13	punct	_	AlignBegin=186257|AlignEnd=186622|Gloss=PUNCT
-12	kaː	_	AUX	sun	Aspect=Perf|Gender=Masc|Person=2	13	aux	_	AlignBegin=186622|AlignEnd=186987|Gloss=2Masc.Perf
-13	zakà	zak-	VERB	_	_	10	parataxis	_	AlignBegin=186987|AlignEnd=187352|Gloss=arrive
-14	?//]	?//]	PUNCT	_	_	10	punct	_	AlignBegin=187352|AlignEnd=187717|Gloss=PUNCT
-15	//	//	PUNCT	_	_	5	punct	_	AlignBegin=187717|AlignEnd=188087|Gloss=PUNCT
+# visual-style 13 8 parataxis	color:blue
+1	Baːwàn	Baːwàn	PROPN	_	_	13	dislocated	_	AlignBegin=183232|AlignEnd=183409|Gloss=Bawan
+2	Tudùː	Tudùː	PROPN	_	_	1	flat:name	_	AlignBegin=183409|AlignEnd=183586|Gloss=Tudu
+3	<	<	PUNCT	_	_	1	punct	_	AlignBegin=183586|AlignEnd=183763|Gloss=PUNCT
+4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	13	dislocated	_	AlignBegin=183763|AlignEnd=183940|Gloss=3Masc.Nom
+5	kòː	kòː	PART	_	_	4	discourse	_	AlignBegin=183940|AlignEnd=184117|Gloss=as_for
+6	<	<	PUNCT	_	_	4	punct	_	AlignBegin=184117|AlignEnd=184294|Gloss=PUNCT
+7	kaː	_	AUX	yaː	Aspect=Perf|Gender=Masc|Person=2	8	aux	_	AlignBegin=184294|AlignEnd=184471|Gloss=2Masc.Perf
+8	ji	jiyàː	VERB	_	_	13	parataxis	_	AlignBegin=184471|AlignEnd=184648|Gloss=hear
+9	|r	|r	PUNCT	_	_	11	punct	_	AlignBegin=184648|AlignEnd=184825|GE=[|Gloss=PUNCT
+10	kaː	_	AUX	yaː	Aspect=Perf|Gender=Masc|Person=2	11	aux	_	AlignBegin=184825|AlignEnd=185002|Gloss=2Masc.Perf
+11	ji	jiyàː	VERB	_	_	8	conj	_	AlignBegin=185002|AlignEnd=185179|Gloss=hear
+12	anàː	_	AUX	nàː	Person=4	13	aux	_	AlignBegin=185179|AlignEnd=185356|Gloss=4.Imp
+13	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	0	root	_	AlignBegin=185356|AlignEnd=185533|Gloss=say.Vnoun.Fem
+14	Tudùː	Tudùː	PROPN	_	_	13	nmod	_	AlignBegin=185533|AlignEnd=185710|Gloss=Tudu
+15	//	//	PUNCT	_	_	13	punct	_	AlignBegin=185710|AlignEnd=185887|Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 25 parataxis	color:blue
-1	sai	sai	ADV	_	_	3	advmod	_	AlignBegin=120060|AlignEnd=120261|Gloss=then
-2	shinàː	_	AUX	nàː	Aspect=Prog|Gender=Masc|Person=3	3	aux	_	AlignBegin=120261|AlignEnd=120462|Gloss=3Masc.Prog
-3	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	0	root	_	AlignBegin=120462|AlignEnd=120663|Gloss=say.Vnoun.Fem
-4	[	[	PUNCT	_	_	5	punct	_	AlignBegin=120663|AlignEnd=120864|Gloss=PUNCT
-5	nân	nân	ADV	_	Deixis=Prox	3	obj	_	AlignBegin=120864|AlignEnd=121065|Gloss=Prox
-6	akà	_	AUX	kèː/kà	Aspect=ProgBkg|Person=4	7	aux	_	AlignBegin=121065|AlignEnd=121266|Background=Yes|Gloss=4.Prog.Bkg
-7	hwaːɗùwaː	hwaːɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	advcl:cleft	_	AlignBegin=121266|AlignEnd=121467|Gloss=fall.Vnoun.Fem
-8	//=	//=	PUNCT	_	_	9	punct	_	AlignBegin=121467|AlignEnd=121668|Gloss=PUNCT
-9	nân	nân	ADV	_	Deixis=Prox	5	parataxis	_	AlignBegin=121668|AlignEnd=121869|Gloss=Prox
-10	akà	_	AUX	kèː/kà	Aspect=ProgBkg|Person=4	11	aux	_	AlignBegin=121869|AlignEnd=122070|Background=Yes|Gloss=4.Prog.Bkg
-11	kankaryaː	kary-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	advcl:cleft	_	AlignBegin=122070|AlignEnd=122271|Gloss=break.Vnoun.Fem
-12	//=	//=	PUNCT	_	_	13	punct	_	AlignBegin=122271|AlignEnd=122472|Gloss=PUNCT
-13	nân	nân	ADV	_	Deixis=Prox	9	parataxis	_	AlignBegin=122472|AlignEnd=122673|Gloss=Prox
-14	akà	_	AUX	kèː/kà	Aspect=ProgBkg|Person=4	15	aux	_	AlignBegin=122673|AlignEnd=122874|Background=Yes|Gloss=4.Prog.Bkg
-15	hwaːɗùwaː	hwaːɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	13	advcl:cleft	_	AlignBegin=122874|AlignEnd=123075|Gloss=fall.Vnoun.Fem
-16	//=	//=	PUNCT	_	_	17	punct	_	AlignBegin=123075|AlignEnd=123276|Gloss=PUNCT
-17	nân	nân	ADV	_	Deixis=Prox	13	parataxis	_	AlignBegin=123276|AlignEnd=123477|Gloss=Prox
-18	akà	_	AUX	kèː/kà	Aspect=ProgBkg|Person=4	19	aux	_	AlignBegin=123477|AlignEnd=123678|Background=Yes|Gloss=4.Prog.Bkg
-19	kankaryaː	kary-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	17	advcl:cleft	_	AlignBegin=123678|AlignEnd=123879|Gloss=break.Vnoun.Fem
-20	//=	//=	PUNCT	_	_	21	punct	_	AlignBegin=123879|AlignEnd=124080|Gloss=PUNCT
-21	nân	nân	ADV	_	Deixis=Prox	17	parataxis	_	AlignBegin=124080|AlignEnd=124281|Gloss=Prox
-22	akà	_	AUX	kèː/kà	Aspect=ProgBkg|Person=4	23	aux	_	AlignBegin=124281|AlignEnd=124482|Background=Yes|Gloss=4.Prog.Bkg
-23	hwaːɗùwaː	hwaːɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	21	advcl:cleft	_	AlignBegin=124482|AlignEnd=124683|Gloss=fall.Vnoun.Fem
-24	//=	//=	PUNCT	_	_	25	punct	_	AlignBegin=124683|AlignEnd=124884|Gloss=PUNCT
-25	nân	nân	ADV	_	Deixis=Prox	21	parataxis	_	AlignBegin=124884|AlignEnd=125085|Gloss=Prox
-26	akà	_	AUX	kèː/kà	Aspect=ProgBkg|Person=4	25	advcl:cleft	_	AlignBegin=125085|AlignEnd=125286|Background=Yes|Gloss=4.Prog.Bkg
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 parataxis	color:blue
+1	àkwai	àkwai	PART	_	_	5	parataxis	_	AlignBegin=356740|AlignEnd=356960|Gloss=there_is
+2	wata	wani	DET	_	Gender=Fem|PronType=Ind	3	det	_	AlignBegin=356960|AlignEnd=357180|Gloss=some.Fem
+3	zakkùwaː	zak-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	1	nsubj	_	AlignBegin=357180|AlignEnd=357400|Gloss=arrive.Vnoun.Fem
+4	naː	_	AUX	yaː	Aspect=Perf|Number=Sing|Person=1	5	aux	_	AlignBegin=357400|AlignEnd=357620|Gloss=1Sing.Perf
+5	kaːwoː	kai	VERB	_	_	0	root	_	AlignBegin=357620|AlignEnd=357840|Gloss=carry
+6	turàːmeː	turmiː	NOUN	_	Number=Plur	5	obj	_	AlignBegin=357840|AlignEnd=358060|Gloss=cloth.Plur
+7	//	//	PUNCT	_	_	5	punct	_	AlignBegin=358060|AlignEnd=358282|Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 parataxis	color:blue
-1	yac	_	AUX	sukà/sunkà	Aspect=PerfBkg|Gender=Masc|Person=3	2	aux	_	AlignBegin=195258|AlignEnd=195470|Background=Yes|Gloss=3Masc.Perf.Bkg
-2	cèː	cèː	VERB	_	_	0	root	_	AlignBegin=195470|AlignEnd=195682|Gloss=say
-3	[	[	PUNCT	_	_	4	punct	_	AlignBegin=195682|AlignEnd=195894|Gloss=PUNCT
-4	wùceː	wut-	VERB	_	_	2	ccomp	_	AlignBegin=195894|AlignEnd=196106|Gloss=move.Imp|Imperative=Yes
-5	!//=	!//=	PUNCT	_	_	6	punct	_	AlignBegin=196106|AlignEnd=196318|Gloss=PUNCT
-6	gàː	gàː	PART	_	_	4	parataxis	_	AlignBegin=196318|AlignEnd=196530|Gloss=here_is
-7	naːmàː	naːmàː	NOUN	_	Gender=Masc	6	nsubj	_	AlignBegin=196530|AlignEnd=196742|Gloss=meat.Masc
-8	nân	nân	ADV	_	Deixis=Prox|PronType=Dem	6	xcomp	_	AlignBegin=196742|AlignEnd=196954|Gloss=Prox
-9	//]	//]	PUNCT	_	_	4	punct	_	AlignBegin=196954|AlignEnd=197166|Gloss=PUNCT
-10	//	//	PUNCT	_	_	2	punct	_	AlignBegin=197166|AlignEnd=197377|Gloss=PUNCT
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 parataxis	color:blue
+1	aːràːyiː	aːràːyiː	NOUN	_	Gender=Masc	2	xcomp	_	AlignBegin=403221|AlignEnd=403359|Gloss=troup.Masc
+2	nàː	naː	PART	_	_	0	root	_	AlignBegin=403359|AlignEnd=403497|Gloss=Foc/Ident
+3	//=	//=	PUNCT	_	_	5	punct	_	AlignBegin=403497|AlignEnd=403635|Gloss=PUNCT
+4	yaː	_	AUX	yaː	Aspect=Perf|Gender=Masc|Person=3	5	aux	_	AlignBegin=403635|AlignEnd=403773|Gloss=3Masc.Perf
+5	hi	hi	VERB	_	_	2	parataxis	_	AlignBegin=403773|AlignEnd=403911|Gloss=exceed
+6	mùtun	mùtunèː	NOUN	_	Gender=Masc	5	obj	_	AlignBegin=403911|AlignEnd=404049|Gloss=human.Masc
+7	dàriː	dàriː	NUM	_	_	6	nmod	_	AlignBegin=404049|AlignEnd=404187|Gloss=hundred
+8	//	//	PUNCT	_	_	2	punct	_	AlignBegin=404187|AlignEnd=404327|Gloss=PUNCT
 
 ~~~
 

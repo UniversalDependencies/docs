@@ -22,7 +22,7 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 obj	color:blue
-1	_	_	ADV	WRB	PronType=Int	3	advmod	3:advmod	Discourse=contingency-condition:15->16:1:dm-when-85|Entity=(17-event-new-cf6-9-disc|Lem=*LOWER*|Len=4
+1	_	_	ADV	WRB	PronType=Int	3	advmod	3:advmod	Discourse=contingency-condition:15->16:1:dm-when-85|Entity=(17-event-new-cf6-9-disc|Lem=*LOWER*|Len=4|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:when:85:91-104:86-90
 2	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Entity=(5-person-giv:inact-cf1-1-ana)|Lem=_|Len=3
 3	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	9:advcl:when	Lem=_|Len=5
 4	_	_	ADJ	JJR	Degree=Cmp	5	amod	5:amod	Entity=(18-object-new-cf3-2-sgl|Lem=_|Len=4
@@ -35,7 +35,7 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 11	_	_	NOUN	NN	Number=Sing	9	obj	9:obj	Lem=_|Len=4
 12	_	_	ADP	IN	_	14	case	14:case	Lem=_|Len=2
 13	_	_	DET	DT	Definite=Def|PronType=Art	14	det	14:det	Entity=(20-abstract-new-cf4-2-sgl|Lem=_|Len=3
-14	_	_	NOUN	NN	Number=Sing	11	nmod	11:nmod:of|17:nsubj	Entity=20)|Lem=_|Len=8
+14	_	_	NOUN	NN	Number=Sing	11	nmod	11:nmod:of|17:nsubj	Entity=20)|Lem=_|Len=8|MSeg=currenc-y
 15	_	_	PRON	WDT	PronType=Rel	17	nsubj	14:ref	Discourse=elaboration-attribute:17->16:0:syn-mdf-98+syn-relcl-99,101|Lem=_|Len=4
 16	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	17:cop	Lem=be|Len=2
 17	_	_	ADV	RB	_	14	acl:relcl	14:acl:relcl	Lem=_|Len=7|MSeg=al-ready
@@ -57,18 +57,18 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 3	_	_	PROPN	NNP	Number=Sing	2	flat	2:flat	Entity=42)|Lem=_|Len=4
 4	_	_	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	Entity=41)|Lem=_|Len=4
 5	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	Lem=be|Len=2
-6	_	_	PART	RB	Polarity=Neg	7	advmod	7:advmod	Lem=not|Len=3
+6	_	_	PART	RB	Polarity=Neg	7	advmod	7:advmod	Lem=not|Len=3|Negation=Yes
 7	_	_	ADJ	JJ	Degree=Pos	0	root	0:root	Lem=_|Len=5
-8	_	_	PRON	NN	Number=Sing|PronType=Ind	7	obj	7:obj	Lem=_|Len=8
-9	_	_	ADV	RB	Degree=Pos	7	advmod	7:advmod	Lem=_|Len=7
-10	_	_	SCONJ	IN	_	12	mark	12:mark	Discourse=causal-cause:39->38:0:dm-because-247|Lem=_|Len=7
+8	_	_	PRON	NN	Number=Sing|PronType=Ind	7	obj	7:obj	Lem=_|Len=8|MSeg=any-thing
+9	_	_	ADV	RB	Degree=Pos	7	advmod	7:advmod	Lem=_|Len=7|MSeg=any-more
+10	_	_	SCONJ	IN	_	12	mark	12:mark	Discourse=causal-cause:39->38:0:dm-because-247|Lem=_|Len=7|MSeg=be-cause|PDTB=Explicit:Contingency.Cause.Reason:because:247:238-246:248-259
 11	_	_	PRON	EX	PronType=Dem	12	expl	12:expl	Lem=_|Len=5
 12	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	7:advcl:because	Cxn=Existential-CopPred-ThereExpl|Lem=be|Len=3
 13	_	_	ADV	RB	_	14	advmod	14:advmod	Bridge=45<47|Entity=(47-object-acc:inf-cf1-2-coref|Lem=_|Len=2
-14	_	_	ADJ	JJ	Degree=Pos	12	nsubj	12:nsubj	Lem=_|Len=4
+14	_	_	ADJ	JJ	Degree=Pos	12	nsubj	12:nsubj	CxnElt=12:Existential-CopPred-ThereExpl.Pivot|Lem=_|Len=4
 15	_	_	ADP	IN	_	16	case	16:case	Lem=_|Len=2
 16	_	_	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	obl	14:obl:of	Entity=47)|Lem=they|Len=4
-17	_	_	CCONJ	CC	_	19	cc	19:cc	Discourse=joint-list_m:40->39:0:dm-and-254|Lem=_|Len=3
+17	_	_	CCONJ	CC	_	19	cc	19:cc	Discourse=joint-list_m:40->39:0:dm-and-254|Lem=_|Len=3|PDTB=Explicit:Expansion.Conjunction:and:254:247-253:255-259
 18	_	_	PRON	NN	Number=Sing|PronType=Tot	19	nsubj	19:nsubj	Entity=(48-person-new-cf5-1-coref)|Lem=_|Len=8|MSeg=every-one
 19	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	7:advcl:because|12:conj:and	Lem=have|Len=3|MSeg=ha-s
 20	_	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	obj	19:obj	Entity=(47-object-giv:act-cf1-1-ana)|Lem=_|Len=2
@@ -84,7 +84,7 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 obj	color:blue
-1	_	_	VERB	VB	Person=2|VerbForm=Inf	0	root	0:root	Cxn=Interrogative-Polar-Direct|Discourse=context-background:8->16:2:_;adversative-antithesis:8->8:4:5:orp-but-117|Lem=*LOWER*|Len=8
+1	_	_	VERB	VB	Person=2|VerbForm=Inf	0	root	0:root	Cxn=Interrogative-Polar-Direct|CxnElt=1:Interrogative-Polar-Direct.Clause|Discourse=context-background:8->16:2:_|Lem=*LOWER*|Len=8
 2	_	_	ADV	WRB	PronType=Rel	1	obj	1:obj	Lem=_|Len=4
 3	_	_	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj|13:nsubj	Entity=(13-person-new-cf2-1,2-coref-Anne_Burrell|Lem=_|Len=4
 4	_	_	PROPN	NNP	Number=Sing	3	flat	3:flat	Entity=13)|Lem=_|Len=7
@@ -92,10 +92,10 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 6	_	_	PROPN	NNP	Number=Sing	5	obj	5:obj	Entity=(2-person-giv:inact-cf1-1-coref-Bobby_Flay)|Lem=_|Len=5|MSeg=Bobb-y
 7	_	_	ADP	IN	_	10	case	10:case	Lem=_|Len=2
 8	_	_	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	Entity=(15-event-new-cf3-3-sgl|Lem=_|Len=1
-9	_	_	NOUN	NN	Number=Sing	10	compound	10:compound	Entity=(16-object-new-cf5-1-coref)|Lem=_|Len=10
+9	_	_	NOUN	NN	Number=Sing	10	compound	10:compound	Entity=(16-object-new-cf5-1-coref)|Lem=_|Len=10|MSeg=cheese-cake
 10	_	_	NOUN	NN	Number=Sing	5	obl	5:obl:to	Entity=15)14)|Lem=_|Len=6|SpaceAfter=No
 11	_	_	PUNCT	,	_	13	punct	13:punct	Lem=_|Len=1
-12	_	_	CCONJ	CC	_	13	cc	13:cc	Discourse=joint-sequence_m:9->8:0:dm-and-62|Lem=_|Len=3
+12	_	_	CCONJ	CC	_	13	cc	13:cc	Discourse=joint-sequence_m:9->8:0:dm-and-62|Lem=_|Len=3|PDTB=Explicit:Expansion.Conjunction:and:62:51-61:63-64;Implicit:Temporal.Asynchronous.Precedence:then:_:51-61:62-64
 13	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	2:advcl:relcl|5:conj:and	Lem=win|Len=3|SpaceAfter=No
 14	_	_	PUNCT	.	_	1	punct	1:punct	Lem=_|Len=1
 

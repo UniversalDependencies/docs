@@ -139,4 +139,4 @@ Additionally, 埋 / _maai4_ and 晒 / _saai3_ can also co-occur, in that order.
 ### References
 
 Lee, Peppina Po-lun. 2012. Cantonese Particles and Affixal Quantification (Volume 87 of Studies in Natural Language and Linguistic Theory). Springer.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:57 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:39 CET -->

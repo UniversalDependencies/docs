@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Scottish_Gaelic-ARCOSG: POS Tags: `ADJ`
 
-There are 671 `ADJ` lemmas (10%), 808 `ADJ` types (10%) and 3421 `ADJ` tokens (4%).
+There are 671 `ADJ` lemmas (10%), 808 `ADJ` types (10%) and 3420 `ADJ` tokens (4%).
 Out of 17 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 10 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>eile, math, mòr, bi, sam, ùr, beag, mór, seann, fada</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>eile</em> (<tt><a href="gd_arcosg-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.204173 (the average of all parts of speech is 1.302372).
+The form / lemma ratio of `ADJ` is 1.204173 (the average of all parts of speech is 1.302531).
 
 The 1st highest number of forms (8) was observed with the lemma “mòr”: <em>mhuth', mhò, mhòir, mhòr, mhòr', mòr, mòr', mòra</em>.
 
@@ -69,17 +69,17 @@ The 3rd highest number of forms (5) was observed with the lemma “beag”: <em>
 `ADJ` occurs with 11 feature-value pairs: `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Degree=Cmp,Sup`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Number=Dual`, `Number=Plur`, `Number=Sing`
 
 `ADJ` occurs with 20 feature combinations.
-The most frequent feature combination is `_` (1700 tokens).
+The most frequent feature combination is `_` (1699 tokens).
 Examples: <em>bith, sam, cinnteach, math, faisg, thall, seann, droch, coltach, dheireadh</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 25 different relations: <tt><a href="gd_arcosg-dep-amod.html">amod</a></tt> (2054; 60% instances), <tt><a href="gd_arcosg-dep-xcomp-pred.html">xcomp:pred</a></tt> (835; 24% instances), <tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt> (171; 5% instances), <tt><a href="gd_arcosg-dep-conj.html">conj</a></tt> (113; 3% instances), <tt><a href="gd_arcosg-dep-advmod.html">advmod</a></tt> (60; 2% instances), <tt><a href="gd_arcosg-dep-root.html">root</a></tt> (45; 1% instances), <tt><a href="gd_arcosg-dep-advcl.html">advcl</a></tt> (23; 1% instances), <tt><a href="gd_arcosg-dep-obl.html">obl</a></tt> (20; 1% instances), <tt><a href="gd_arcosg-dep-flat-name.html">flat:name</a></tt> (15; 0% instances), <tt><a href="gd_arcosg-dep-ccomp.html">ccomp</a></tt> (13; 0% instances), <tt><a href="gd_arcosg-dep-acl-relcl.html">acl:relcl</a></tt> (12; 0% instances), <tt><a href="gd_arcosg-dep-csubj-cop.html">csubj:cop</a></tt> (12; 0% instances), <tt><a href="gd_arcosg-dep-compound.html">compound</a></tt> (10; 0% instances), <tt><a href="gd_arcosg-dep-xcomp.html">xcomp</a></tt> (10; 0% instances), <tt><a href="gd_arcosg-dep-parataxis.html">parataxis</a></tt> (8; 0% instances), <tt><a href="gd_arcosg-dep-csubj-cleft.html">csubj:cleft</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-dep-dislocated.html">dislocated</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-dep-obl-tmod.html">obl:tmod</a></tt> (1; 0% instances)
+`ADJ` nodes are attached to their parents using 25 different relations: <tt><a href="gd_arcosg-dep-amod.html">amod</a></tt> (2054; 60% instances), <tt><a href="gd_arcosg-dep-xcomp-pred.html">xcomp:pred</a></tt> (835; 24% instances), <tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt> (171; 5% instances), <tt><a href="gd_arcosg-dep-conj.html">conj</a></tt> (113; 3% instances), <tt><a href="gd_arcosg-dep-advmod.html">advmod</a></tt> (60; 2% instances), <tt><a href="gd_arcosg-dep-root.html">root</a></tt> (45; 1% instances), <tt><a href="gd_arcosg-dep-advcl.html">advcl</a></tt> (23; 1% instances), <tt><a href="gd_arcosg-dep-obl.html">obl</a></tt> (20; 1% instances), <tt><a href="gd_arcosg-dep-flat-name.html">flat:name</a></tt> (15; 0% instances), <tt><a href="gd_arcosg-dep-ccomp.html">ccomp</a></tt> (13; 0% instances), <tt><a href="gd_arcosg-dep-acl-relcl.html">acl:relcl</a></tt> (12; 0% instances), <tt><a href="gd_arcosg-dep-csubj-cop.html">csubj:cop</a></tt> (12; 0% instances), <tt><a href="gd_arcosg-dep-xcomp.html">xcomp</a></tt> (10; 0% instances), <tt><a href="gd_arcosg-dep-compound.html">compound</a></tt> (9; 0% instances), <tt><a href="gd_arcosg-dep-parataxis.html">parataxis</a></tt> (8; 0% instances), <tt><a href="gd_arcosg-dep-csubj-cleft.html">csubj:cleft</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-dep-dislocated.html">dislocated</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-dep-obl-tmod.html">obl:tmod</a></tt> (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 13 different parts of speech: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2154; 63% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (798; 23% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (269; 8% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (78; 2% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (46; 1% instances),  (45; 1% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `ADJ` nodes belong to 13 different parts of speech: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2154; 63% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (798; 23% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (269; 8% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (78; 2% instances),  (45; 1% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (41; 1% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-2197 (64%) `ADJ` nodes are leaves.
+2196 (64%) `ADJ` nodes are leaves.
 
 750 (22%) `ADJ` nodes have one child.
 

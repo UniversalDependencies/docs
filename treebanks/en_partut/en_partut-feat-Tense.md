@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 * `Past` (1821; 58% of non-empty `Tense`): <em>made, given, wrote, based, had, taken, used, adopted, published, provided</em>
 * `Pres` (1301; 42% of non-empty `Tense`): <em>is, has, have, know, are, believe, including, need, think, makes</em>
-* `EMPTY` (1605): <em>like, make, take, have, ensure, do, see, ask, be, continue</em>
+* `EMPTY` (1606): <em>like, make, take, have, ensure, do, see, ask, be, continue</em>
 
 <table>
   <tr><th>Paradigm <i>have</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>

@@ -101,7 +101,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 * `Past` (3; 0% of non-empty `Tense`): <em>vyskytnuvší, zaniknuvšího, zešílevších</em>
 * `Pres` (928; 100% of non-empty `Tense`): <em>vedoucí, rozhodující, ležící, následující, odpovídající, týkající, následujících, chybějící, vynikající, následujícím</em>
-* `EMPTY` (39843): <em>první, další, české, nové, druhé, poslední, státní, možné, dalších, vlastní</em>
+* `EMPTY` (39836): <em>první, další, české, nové, druhé, poslední, státní, možné, dalších, vlastní</em>
 
 `Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (376) occur only with one value of `Tense`.
 

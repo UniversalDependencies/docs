@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>è</em> (<tt><a href="it_postwita-pos
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 23.125000 (the average of all parts of speech is 1.310882).
+The form / lemma ratio of `AUX` is 23.125000 (the average of all parts of speech is 1.310684).
 
 The 1st highest number of forms (63) was observed with the lemma “essere”: <em>6, SIAM, STA', Sará, Sii, e, e', era, erano, eravamo, eri, ero, essendo, esser, essere, fosse, fossero, fossi, fu, sara, sara', sarai, saranno, sarebbe, sarebbero, sarei, saremo, saresti, sarà, sarò, sei, si, sia, siamo, siano, siate, siete, sn, so, so', son, sono, sta, stai, stanno, staranno, staremo, starà, stata, state, stati, stato, stava, stavo, stesse, stia, stiamo, sto, ststa, ziete, ztate, è, é</em>.
 

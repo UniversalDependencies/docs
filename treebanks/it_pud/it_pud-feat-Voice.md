@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-2466 tokens (10%) have a non-empty value of `Voice`.
+2467 tokens (10%) have a non-empty value of `Voice`.
 1215 types (20%) occur at least once with a non-empty value of `Voice`.
 575 lemmas (12%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (1547; 7% instances), <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> (919; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (1546; 7% instances), <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> (921; 4% instances).
 
 ### `VERB`
 
-1547 <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Voice`.
+1546 <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1380; 89%), <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1142; 74%), <tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (859; 56%), <tt><a href="it_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (845; 55%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1379; 89%), <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1141; 74%), <tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (858; 55%), <tt><a href="it_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (844; 55%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (1409; 91% of non-empty `Voice`): <em>avere, far, ha, fare, afferma, partire, portare, aveva, iniziò, sono</em>
+* `Act` (1408; 91% of non-empty `Voice`): <em>avere, far, ha, fare, afferma, partire, portare, aveva, iniziò, sono</em>
 * `Pass` (138; 9% of non-empty `Voice`): <em>diretto, inclusi, pubblicato, accusato, causato, dato, fatto, fondato, guidati, impiegato</em>
 * `EMPTY` (508): <em>affermato, detto, fatto, avuto, portato, deciso, raggiunto, considerate, diventata, messo</em>
 
@@ -43,13 +43,13 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-919 <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Voice`.
+921 <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (823; 90%), <tt><a href="it_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (756; 82%), <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (695; 76%), <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (623; 68%), <tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (590; 64%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (824; 89%), <tt><a href="it_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (757; 82%), <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (697; 76%), <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (624; 68%), <tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (591; 64%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (720; 78% of non-empty `Voice`): <em>è, ha, sono, era, hanno, essere, aver, fu, può, aveva</em>
+* `Act` (722; 78% of non-empty `Voice`): <em>è, ha, sono, era, essere, hanno, aver, fu, può, aveva</em>
 * `Pass` (199; 22% of non-empty `Voice`): <em>essere, venne, è, fu, vennero, sono, furono, vengono, era, veniva</em>
 * `EMPTY` (64): <em>stato, stata, stati, state, potuto</em>
 

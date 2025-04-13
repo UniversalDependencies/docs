@@ -31,5 +31,5 @@ The feature is used with 2 part-of-speech tags: <tt><a href="de_lit-pos-AUX.html
 `VERB` tokens may have the following values of `Tense`:
 
 * `Pres` (5; 100% of non-empty `Tense`): <em>erfolge, fait, leben, strömt, wohlgehe</em>
-* `EMPTY` (3098): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
+* `EMPTY` (3089): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
 

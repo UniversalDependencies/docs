@@ -11,20 +11,20 @@ It occurs with 2 different values: `Past`, `Pres`.
 
 2984 tokens (13%) have a non-empty value of `Tense`.
 1209 types (25%) occur at least once with a non-empty value of `Tense`.
-564 lemmas (17%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1850; 8% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (1088; 5% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (46; 0% instances).
+544 lemmas (17%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1851; 8% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (1087; 5% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (46; 0% instances).
 
 ### `VERB`
 
-1850 <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> tokens (72% of all `VERB` tokens) have a non-empty value of `Tense`.
+1851 <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> tokens (72% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="nds_lsdc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1541; 83%), <tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1497; 81%), <tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1239; 67%), <tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=3</tt> (1188; 64%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="nds_lsdc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1542; 83%), <tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1498; 81%), <tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1240; 67%), <tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=3</tt> (1189; 64%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (1175; 64% of non-empty `Tense`): <em>hadde, sea, kam, sead, gung, kaem, stund, had, kwam, sagde</em>
+* `Past` (1176; 64% of non-empty `Tense`): <em>hadde, sea, kam, sead, gung, kaem, stund, had, kwam, sagde</em>
 * `Pres` (675; 36% of non-empty `Tense`): <em>het, segt, geit, segge, weyt, hebbet, hevt, höyrt, heyt, ligt</em>
-* `EMPTY` (720): <em>seggen, seen, gån, maken, hebben, doon, holden, see, eaten, höyren</em>
+* `EMPTY` (719): <em>seggen, seen, gån, maken, hebben, doon, holden, see, eaten, höyren</em>
 
 <table>
   <tr><th>Paradigm <i>seggen</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -41,13 +41,13 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-1088 <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Tense`.
+1087 <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (971; 89%), <tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (836; 77%), <tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=3</tt> (789; 73%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (970; 89%), <tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (835; 77%), <tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=3</tt> (788; 72%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (489; 45% of non-empty `Tense`): <em>was, hadde, weer, west, kun, hadden, wul, weren, had, kon</em>
+* `Past` (488; 45% of non-empty `Tense`): <em>was, hadde, weer, west, kun, hadden, weren, wul, had, kon</em>
 * `Pres` (599; 55% of non-empty `Tense`): <em>is, het, kan, wil, sint, sal, sünt, hev, heb, bin</em>
 * `EMPTY` (57): <em>syn, weasen, werden, hebben, syt, weasd, Sy, hevven, is, können</em>
 
@@ -85,14 +85,14 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 * `Past` (39; 85% of non-empty `Tense`): <em>vorkeyrd, vorknüpped, Doudeslån, Ofgeloupen, anedån, anvroaren, anweasen, bedrämmelden, bekend, dalevyrd</em>
 * `Pres` (7; 15% of non-empty `Tense`): <em>helderseend, hülpbehövend, smunselend, spottend, vansülvspreakend, vorvealende, vöärgånde</em>
-* `EMPTY` (1230): <em>olde, good, gans, goden, grouten, olden, groute, gode, veal, andere</em>
+* `EMPTY` (1268): <em>olde, eyrst, good, gans, goden, grouten, olden, gerade, groute, gode</em>
 
-`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (44) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (42) occur only with one value of `Tense`.
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="nds_lsdc-dep-conj.html">conj</a></tt>]--> VERB</tt> (362; 73%),
+<tt>VERB --[<tt><a href="nds_lsdc-dep-conj.html">conj</a></tt>]--> VERB</tt> (363; 73%),
 <tt>VERB --[<tt><a href="nds_lsdc-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (133; 54%),
 <tt>VERB --[<tt><a href="nds_lsdc-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (5; 63%),
 <tt>ADJ --[<tt><a href="nds_lsdc-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1; 100%),

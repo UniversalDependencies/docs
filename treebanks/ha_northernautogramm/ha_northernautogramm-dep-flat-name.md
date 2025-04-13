@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 5	fgColor:white
 # visual-style 5 6 flat:name	color:blue
 1	Saːrèː	Saːrèː	PROPN	_	_	3	nsubj	_	AlignBegin=22380|AlignEnd=22559|Gloss=Saːrèː
-2	sunàː	_	AUX	naː	Aspect=Prog|Number=Plur|Person=3	3	aux	_	AlignBegin=22738|AlignEnd=22917|Gloss=3Plur.Pred/Loc
+2	sunàː	_	AUX	naː²	Number=Plur	3	aux	_	AlignBegin=22738|AlignEnd=22917|Gloss=3Plur.Pred/Loc
 3	bìye	bi	VERB	_	_	0	root	_	AlignBegin=22917|AlignEnd=23096|Gloss=follow.Part.Stat
 4	dà	dà	ADP	_	_	5	case	_	AlignBegin=23096|AlignEnd=23275|Gloss=with
 5	Gidan	Gidan	PROPN	_	_	3	obl:arg	_	AlignBegin=23275|AlignEnd=23454|Gloss=Gidan
@@ -39,7 +39,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 flat:name	color:blue
-1	shinàː	_	AUX	nàː	Aspect=Prog|Gender=Masc|Person=3	3	aux	_	AlignBegin=336223|AlignEnd=336464|Gloss=3Masc.Prog
+1	shinàː	_	AUX	nàː	Gender=Masc|Person=3	3	aux	_	AlignBegin=336223|AlignEnd=336464|Gloss=3Masc.Imp
 2	[	[	PUNCT	_	_	3	punct	_	AlignBegin=336464|AlignEnd=336705|Gloss=PUNCT
 3	ayaː	ayaː	NOUN	_	_	0	root	_	AlignBegin=336705|AlignEnd=336946|Gloss=tiger_nut
 4	wàje	wàje	ADV	_	_	3	flat:name	_	AlignBegin=336946|AlignEnd=337187|Gloss=outside

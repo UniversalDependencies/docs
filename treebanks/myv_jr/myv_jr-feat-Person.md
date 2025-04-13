@@ -27,7 +27,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (179; 29% of non-empty `Person`): <em>мон, минь, минек, монень, монь, тень, тенек, миненек, миньсинек, монсь</em>
 * `2` (99; 16% of non-empty `Person`): <em>тон, тонеть, тынк, теть, тонь, тонть, тынь, тенк, тонсь, тыненк</em>
 * `3` (331; 54% of non-empty `Person`): <em>сон, сонзэ, сонсь, сынь, тензэ, сынст, кавонест, тенст, сонензэ, эсензэ</em>
-* `EMPTY` (567): <em>весе, те, мезе, кие, кияк, кона, конань, неть, истямо, ки</em>
+* `EMPTY` (570): <em>весе, те, мезе, кие, кияк, кона, конань, неть, истямо, ки</em>
 
 <table>
   <tr><th>Paradigm <i>ськамонзо</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -36,4 +36,9 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 </table>
 
 `Person` seems to be **lexical feature** of `PRON`. 94% lemmas (17) occur only with one value of `Person`.
+
+## Relations with Agreement in `Person`
+
+The 10 most frequent relations where parent and child node agree in `Person`:
+<tt>PRON --[<tt><a href="myv_jr-dep-det.html">det</a></tt>]--> PRON</tt> (4; 67%).
 

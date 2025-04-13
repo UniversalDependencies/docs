@@ -12,15 +12,15 @@ udver: '2'
 # UD Ligurian GLT
 
 Language: [Ligurian](/lij/index.html) (code: `lij`)<br/>
-Family: Indo-European, Romance
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.9 release.
 
 The following people have contributed to making this treebank part of UD: Stefano Lusito, Jean Maillard.
 
 Repository: [UD_Ligurian-GLT](https://github.com/UniversalDependencies/UD_Ligurian-GLT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlij_glt214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlij_glt215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: C-UDA 1.0
 

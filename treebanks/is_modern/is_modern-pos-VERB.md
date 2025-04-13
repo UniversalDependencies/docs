@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>á</em> (<tt><a href="is_modern-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.703448 (the average of all parts of speech is 1.734760).
+The form / lemma ratio of `VERB` is 2.703448 (the average of all parts of speech is 1.738114).
 
 The 1st highest number of forms (24) was observed with the lemma “koma”: <em>kem, kemst, kemur, kom, koma, komandi, komast, komi, komin, kominn, komist, komið, komnar, komnir, komst, komu, komum, komumst, komust, kæmi, kæmist, kæmu, kæmum, kæmust</em>.
 

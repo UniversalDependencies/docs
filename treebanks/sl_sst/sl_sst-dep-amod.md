@@ -8,49 +8,45 @@ udver: '2'
 
 This relation is universal.
 
-3396 nodes (4%) are attached to their parents as `amod`.
+3399 nodes (3%) are attached to their parents as `amod`.
 
-3267 instances of `amod` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.20759717314488.
+3263 instances of `amod` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.27978817299206.
 
-The following 21 pairs of parts of speech are connected with `amod`: <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (3244; 96% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (57; 2% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (27; 1% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `amod`: <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (3247; 96% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (59; 2% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (27; 1% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 amod	color:blue
-1	e	e	INTJ	I	_	6	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-N-G6007-P600702.s46|Gos2.1_token_id=Artur-N-G6007-P600702.tok457
-2	kateri	kateri	DET	Pq-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	4	det	_	pronunciation=kateri|Gos2.1_seg_id=Artur-N-G6007-P600702.s46|Gos2.1_token_id=Artur-N-G6007-P600702.tok459
-3	izletniški	izletniški	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	pronunciation=izletniški|Gos2.1_seg_id=Artur-N-G6007-P600702.s46|Gos2.1_token_id=Artur-N-G6007-P600702.tok460
-4	kraj	kraj	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	pronunciation=kraj|Gos2.1_seg_id=Artur-N-G6007-P600702.s46|Gos2.1_token_id=Artur-N-G6007-P600702.tok461
-5	vam	ti	PRON	Pp2-pd	Case=Dat|Number=Plur|Person=2|PronType=Prs	6	obj	_	pronunciation=vam|Gos2.1_seg_id=Artur-N-G6007-P600702.s46|Gos2.1_token_id=Artur-N-G6007-P600702.tok462
-6	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6007-P600702.s46|Gos2.1_token_id=Artur-N-G6007-P600702.tok463
-7	všeč	všeč	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=všeč|Gos2.1_seg_id=Artur-N-G6007-P600702.s46|Gos2.1_token_id=Artur-N-G6007-P600702.tok464
-8	in	in	CCONJ	Cc	_	9	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G6007-P600702.s46|Gos2.1_token_id=Artur-N-G6007-P600702.tok465
-9	zakaj	zakaj	ADV	Rgp	Degree=Pos	6	conj	_	pronunciation=zakaj|Gos2.1_seg_id=Artur-N-G6007-P600702.s46|Gos2.1_token_id=Artur-N-G6007-P600702.tok466
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 amod	color:blue
+1	doživetje	doživetje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	0	root	_	pronunciation=doživetje|Gos2.1_token_id=Gos051.tok2244
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	dogodivščino	dogodivščina	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	1	conj	_	pronunciation=dogodivščino|Gos2.1_token_id=Gos051.tok2245
+4	,	,	PUNCT	Z	_	7	punct	_	_
+5	neko	nek	DET	Pi-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	7	det	_	pronunciation=neko|Gos2.1_token_id=Gos051.tok2246
+6	ljubezensko	ljubezenski	ADJ	Agpnsa	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	pronunciation=ljubezensko|Gos2.1_token_id=Gos051.tok2247
+7	srečanje	srečanje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	1	conj	_	pronunciation=srečanje|Gos2.1_token_id=Gos051.tok2248
+8	.	.	PUNCT	Z	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 10 amod	color:blue
-1	na	na	ADP	Sl	Case=Loc	2	case	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P580041.s78|Gos2.1_token_id=Artur-J-Gvecg-P580041.tok821
-2	Dolenjskem	Dolenjsko	PROPN	Npnsl	Case=Loc|Gender=Neut|Number=Sing	4	obl	_	pronunciation=Dolenjskəm|Gos2.1_seg_id=Artur-J-Gvecg-P580041.s78|Gos2.1_token_id=Artur-J-Gvecg-P580041.tok822
-3	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	pronunciation=səm|Gos2.1_seg_id=Artur-J-Gvecg-P580041.s78|Gos2.1_token_id=Artur-J-Gvecg-P580041.tok823
-4	kupil	kupiti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=kupu|Gos2.1_seg_id=Artur-J-Gvecg-P580041.s78|Gos2.1_token_id=Artur-J-Gvecg-P580041.tok824
-5	takrat	takrat	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=takət|Gos2.1_seg_id=Artur-J-Gvecg-P580041.s78|Gos2.1_token_id=Artur-J-Gvecg-P580041.tok825
-6	Lado	Lado	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	4	obj	_	pronunciation=Lado|Gos2.1_seg_id=Artur-J-Gvecg-P580041.s78|Gos2.1_token_id=Artur-J-Gvecg-P580041.tok826
-7	Nivo	nivo	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	nmod	_	pronunciation=Nivo|Gos2.1_seg_id=Artur-J-Gvecg-P580041.s78|Gos2.1_token_id=Artur-J-Gvecg-P580041.tok827
-8	deset	deset	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	9	nummod	_	pronunciation=deset|Gos2.1_seg_id=Artur-J-Gvecg-P580041.s79|Gos2.1_token_id=Artur-J-Gvecg-P580041.tok829
-9	let	leto	NOUN	Ncnpg	Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	pronunciation=let|Gos2.1_seg_id=Artur-J-Gvecg-P580041.s79|Gos2.1_token_id=Artur-J-Gvecg-P580041.tok830
-10	staro	star	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	pronunciation=staro|Gos2.1_seg_id=Artur-J-Gvecg-P580041.s79|Gos2.1_token_id=Artur-J-Gvecg-P580041.tok831
+# visual-style 6 5 amod	color:blue
+1	eee	eee	INTJ	I	_	2	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos212.tok94
+2	pet	pet	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	0	root	_	pronunciation=pet|Gos2.1_token_id=Gos212.tok95
+3	nič	nič	DET	Pz-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	2	flat	_	pronunciation=nič|Gos2.1_token_id=Gos212.tok96
+4	,	,	PUNCT	Z	_	6	punct	_	_
+5	Gornja	gornji	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	pronunciation=Gornja|Gos2.1_token_id=Gos212.tok97
+6	Radgona	Radgona	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	2	appos	_	pronunciation=Radgona|Gos2.1_token_id=Gos212.tok98
+7	.	.	PUNCT	Z	_	2	punct	_	_
 
 ~~~
 
@@ -61,18 +57,17 @@ The following 21 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 amod	color:blue
-1	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	5	obj	_	pronunciation=kej|Gos2.1_token_id=Gos137.tok6894
-2	finega	fin	ADJ	Agpnsg	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	1	amod	_	pronunciation=finega|Gos2.1_token_id=Gos137.tok6895
-3	boš	biti	AUX	Va-f2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin	5	aux	_	pronunciation=boš|Gos2.1_token_id=Gos137.tok6896
-4	eee	eee	INTJ	I	_	5	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos137.tok6897
-5	pojedel	pojesti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=pojedu|Gos2.1_token_id=Gos137.tok6898
-6	v	v	ADP	Sl	Case=Loc	7	case	_	pronunciation=v|Gos2.1_token_id=Gos137.tok6899
-7	kruharni	kruharna	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	pronunciation=kruharni|Gos2.1_token_id=Gos137.tok6900
-8	Izola	Izola	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	7	nmod	_	pronunciation=Izola|Gos2.1_token_id=Gos137.tok6901
-9	lep	lep	ADJ	Agpmsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	pronunciation=lep|Gos2.1_token_id=Gos137.tok6902
-10	dan	dan	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	pronunciation=dan|Gos2.1_token_id=Gos137.tok6903
-11	ti	ti	PRON	Pp2-sd--y	Case=Dat|Number=Sing|Person=2|PronType=Prs|Variant=Short	12	iobj	_	pronunciation=ti|Gos2.1_token_id=Gos137.tok6904
-12	želimo	želeti	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	parataxis	_	pronunciation=želimo|Gos2.1_token_id=Gos137.tok6905
+1	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	pronunciation=js|Gos2.1_seg_id=Artur-P-G7002-P700444.s10|Gos2.1_token_id=Artur-P-G7002-P700444.tok74
+2	sam	sam	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	pronunciation=sam|Gos2.1_seg_id=Artur-P-G7002-P700444.s10|Gos2.1_token_id=Artur-P-G7002-P700444.tok75
+3	osebno	osebno	ADV	Rgp	Degree=Pos	1	advmod	_	pronunciation=osebno|Gos2.1_seg_id=Artur-P-G7002-P700444.s10|Gos2.1_token_id=Artur-P-G7002-P700444.tok76
+4	menim	meniti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=menim|Gos2.1_seg_id=Artur-P-G7002-P700444.s10|Gos2.1_token_id=Artur-P-G7002-P700444.tok77
+5	,	,	PUNCT	Z	_	9	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-P-G7002-P700444.s10|Gos2.1_token_id=Artur-P-G7002-P700444.tok78
+6	da	da	SCONJ	Cs	_	9	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-P-G7002-P700444.s10|Gos2.1_token_id=Artur-P-G7002-P700444.tok79
+7	romska	romski	ADJ	Agpnpa	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	8	amod	_	pronunciation=romska|Gos2.1_seg_id=Artur-P-G7002-P700444.s10|Gos2.1_token_id=Artur-P-G7002-P700444.tok80
+8	vprašanja	vprašanje	NOUN	Ncnpa	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	pronunciation=uprašanja|Gos2.1_seg_id=Artur-P-G7002-P700444.s10|Gos2.1_token_id=Artur-P-G7002-P700444.tok81
+9	poznam	poznati	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	ccomp	_	pronunciation=poznam|Gos2.1_seg_id=Artur-P-G7002-P700444.s10|Gos2.1_token_id=Artur-P-G7002-P700444.tok82
+10	celovito	celovito	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=celovito|Gos2.1_seg_id=Artur-P-G7002-P700444.s10|Gos2.1_token_id=Artur-P-G7002-P700444.tok83
+11	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-P-G7002-P700444.s10|Gos2.1_token_id=Artur-P-G7002-P700444.tok84
 
 ~~~
 

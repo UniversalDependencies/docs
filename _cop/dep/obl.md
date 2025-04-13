@@ -37,4 +37,4 @@ case(ⲓ, ⲉⲣⲟ)
 ~~~
 
 Prepositional objects are always `obl` and never marked as `obj`, unless they are marked by the object marker ⲛ in one of the durative tenses, according to Jernstedt's Law. 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:34 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:15 CET -->

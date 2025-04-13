@@ -103,7 +103,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Gen` (246; 9% of non-empty `Case`): <em>eius, cuius, eorum, quorum, sui, earum, alicuius, quarum, aliquorum, cuiuscunque</em>
 * `Nom` (993; 38% of non-empty `Case`): <em>que, quod, qui, quis, quid, nos, ego, quicquid, tu, id</em>
 * `Voc` (2; 0% of non-empty `Case`): <em>Tu</em>
-* `EMPTY` (57): <em>nichil, invicem, nil, nihil, quis</em>
+* `EMPTY` (56): <em>nichil, invicem, nil, nihil, quis</em>
 
 <table>
   <tr><th>Paradigm <i>tu</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Abl</tt></th></tr>
@@ -207,12 +207,12 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="la_udante-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1741; 96%),
+<tt>NOUN --[<tt><a href="la_udante-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1742; 96%),
 <tt>NOUN --[<tt><a href="la_udante-dep-det.html">det</a></tt>]--> DET</tt> (1483; 94%),
-<tt>NOUN --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> NOUN</tt> (621; 92%),
-<tt>NOUN --[<tt><a href="la_udante-dep-acl.html">acl</a></tt>]--> VERB</tt> (408; 89%),
-<tt>ADJ --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> ADJ</tt> (272; 96%),
-<tt>ADJ --[<tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (159; 95%),
+<tt>NOUN --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> NOUN</tt> (620; 92%),
+<tt>NOUN --[<tt><a href="la_udante-dep-acl.html">acl</a></tt>]--> VERB</tt> (408; 88%),
+<tt>ADJ --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> ADJ</tt> (271; 96%),
+<tt>ADJ --[<tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (160; 95%),
 <tt>NOUN --[<tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (113; 61%),
 <tt>ADJ --[<tt><a href="la_udante-dep-det.html">det</a></tt>]--> DET</tt> (92; 98%),
 <tt>PROPN --[<tt><a href="la_udante-dep-amod.html">amod</a></tt>]--> ADJ</tt> (80; 92%),

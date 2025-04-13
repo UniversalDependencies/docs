@@ -102,4 +102,4 @@ Not to confuse with gerund.
 * _<b>մտնելուց</b> հետո_ &nbsp;“after <b>entering</b>”,
 * _մոտեցավ <b>վազելով</b>_ &nbsp;“lit: he came up <b>running</b>”,
 * _<b>ճառելում</b> նա հմուտ էր_ &nbsp;“lit: he was skillful <b>in telling speeches</b>”
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:27 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:10 CET -->

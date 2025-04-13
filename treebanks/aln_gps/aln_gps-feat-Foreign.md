@@ -18,7 +18,7 @@ The feature is used with 10 part-of-speech tags: <tt><a href="aln_gps-pos-NOUN.h
 
 19 <tt><a href="aln_gps-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="aln_gps-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (18; 95%), <tt><a href="aln_gps-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (18; 95%), <tt><a href="aln_gps-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18; 95%), <tt><a href="aln_gps-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (18; 95%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="aln_gps-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="aln_gps-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="aln_gps-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="aln_gps-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (18; 95%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 

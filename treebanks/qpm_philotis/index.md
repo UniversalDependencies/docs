@@ -12,15 +12,15 @@ udver: '2'
 # UD Pomak Philotis
 
 Language: [Pomak](/qpm/index.html) (code: `qpm`)<br/>
-Family: Indo-European, Slavic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.10 release.
 
 The following people have contributed to making this treebank part of UD: Ritván Karahóǧa, Vivian Stamou, Stella Markantonatou.
 
 Repository: [UD_Pomak-Philotis](https://github.com/UniversalDependencies/UD_Pomak-Philotis)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqpm_philotis214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqpm_philotis215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 3.0
 

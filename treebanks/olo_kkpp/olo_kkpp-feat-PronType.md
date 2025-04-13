@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="olo_kkpp-pos-PRON.h
 
 ### `PRON`
 
-71 <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> tokens (69% of all `PRON` tokens) have a non-empty value of `PronType`.
+71 <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> tokens (70% of all `PRON` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (54; 76%).
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Ind` (2; 3% of non-empty `PronType`): <em>mondu, nimidä</em>
 * `Prs` (40; 56% of non-empty `PronType`): <em>häi, minun, minul, hyö, minä, Heil, Hänel, heidy, händy, hänele</em>
 * `Rel` (4; 6% of non-empty `PronType`): <em>kudamat, kudamua, kuduan, kuduat</em>
-* `EMPTY` (32): <em>toine, midä, toizel, toizen, Midäbo, iče, ken, sidä, kai, kus</em>
+* `EMPTY` (31): <em>toine, midä, toizel, toizen, Midäbo, iče, ken, sidä, kai, kus</em>
 
 `PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (18) occur only with one value of `PronType`.
 

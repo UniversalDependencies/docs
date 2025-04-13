@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (91; 100% of non-empty `Poss`): <em>mein, meine, dein, meinem, meiner, unsere, meinen, deinen, seine, ihren</em>
-* `EMPTY` (4064): <em>ich, das, es, du, die, ben, o, wir, ondan, man</em>
+* `EMPTY` (4063): <em>ich, das, es, du, die, ben, o, wir, ondan, man</em>
 
 ## Relations with Agreement in `Poss`
 

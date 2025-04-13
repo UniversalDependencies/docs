@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Galician-PUD: POS Tags: `ADV`
 
 There are 155 `ADV` lemmas (3%), 157 `ADV` types (3%) and 850 `ADV` tokens (4%).
-Out of 14 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 9 in number of tokens.
+Out of 15 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>non, máis, tamén, xa, antes, despois, aínda, moi, só, así</em>
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>despois</em> (<tt><a href="gl_pud-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.012903 (the average of all parts of speech is 1.319907).
+The form / lemma ratio of `ADV` is 1.012903 (the average of all parts of speech is 1.319483).
 
 The 1st highest number of forms (2) was observed with the lemma “antes”: <em>a., antes</em>.
 
@@ -77,9 +77,9 @@ Examples: <em>máis, tamén, xa, despois, aínda, moi, só, así, tanto, antes</
 
 Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (488; 57% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (128; 15% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (122; 14% instances), <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (43; 5% instances), <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> (20; 2% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> (19; 2% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="gl_pud-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="gl_pud-pos-SYM.html">SYM</a></tt> (3; 0% instances),  (1; 0% instances)
 
-646 (76%) `ADV` nodes are leaves.
+645 (76%) `ADV` nodes are leaves.
 
-152 (18%) `ADV` nodes have one child.
+153 (18%) `ADV` nodes have one child.
 
 35 (4%) `ADV` nodes have two children.
 
@@ -87,7 +87,7 @@ Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="gl_p
 
 The highest child degree of a `ADV` node is 5.
 
-Children of `ADV` nodes are attached using 15 different relations: <tt><a href="gl_pud-dep-obl.html">obl</a></tt> (72; 25% instances), <tt><a href="gl_pud-dep-punct.html">punct</a></tt> (72; 25% instances), <tt><a href="gl_pud-dep-fixed.html">fixed</a></tt> (71; 25% instances), <tt><a href="gl_pud-dep-advmod.html">advmod</a></tt> (33; 12% instances), <tt><a href="gl_pud-dep-case.html">case</a></tt> (14; 5% instances), <tt><a href="gl_pud-dep-cc.html">cc</a></tt> (5; 2% instances), <tt><a href="gl_pud-dep-advcl.html">advcl</a></tt> (3; 1% instances), <tt><a href="gl_pud-dep-acl.html">acl</a></tt> (2; 1% instances), <tt><a href="gl_pud-dep-conj.html">conj</a></tt> (2; 1% instances), <tt><a href="gl_pud-dep-cop.html">cop</a></tt> (2; 1% instances), <tt><a href="gl_pud-dep-mark.html">mark</a></tt> (2; 1% instances), <tt><a href="gl_pud-dep-xcomp.html">xcomp</a></tt> (2; 1% instances), <tt><a href="gl_pud-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="gl_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="gl_pud-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+Children of `ADV` nodes are attached using 15 different relations: <tt><a href="gl_pud-dep-obl.html">obl</a></tt> (73; 26% instances), <tt><a href="gl_pud-dep-punct.html">punct</a></tt> (72; 25% instances), <tt><a href="gl_pud-dep-fixed.html">fixed</a></tt> (71; 25% instances), <tt><a href="gl_pud-dep-advmod.html">advmod</a></tt> (33; 12% instances), <tt><a href="gl_pud-dep-case.html">case</a></tt> (14; 5% instances), <tt><a href="gl_pud-dep-cc.html">cc</a></tt> (5; 2% instances), <tt><a href="gl_pud-dep-advcl.html">advcl</a></tt> (3; 1% instances), <tt><a href="gl_pud-dep-acl.html">acl</a></tt> (2; 1% instances), <tt><a href="gl_pud-dep-conj.html">conj</a></tt> (2; 1% instances), <tt><a href="gl_pud-dep-cop.html">cop</a></tt> (2; 1% instances), <tt><a href="gl_pud-dep-mark.html">mark</a></tt> (2; 1% instances), <tt><a href="gl_pud-dep-xcomp.html">xcomp</a></tt> (2; 1% instances), <tt><a href="gl_pud-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="gl_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="gl_pud-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Children of `ADV` nodes belong to 13 different parts of speech: <tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (72; 25% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (46; 16% instances), <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (43; 15% instances), <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> (38; 13% instances), <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> (35; 12% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (23; 8% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (10; 4% instances), <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="gl_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Children of `ADV` nodes belong to 13 different parts of speech: <tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (72; 25% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (47; 17% instances), <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (43; 15% instances), <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> (38; 13% instances), <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> (35; 12% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (23; 8% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (10; 4% instances), <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="gl_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

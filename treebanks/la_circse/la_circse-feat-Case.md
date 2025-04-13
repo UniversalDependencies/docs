@@ -12,7 +12,7 @@ It occurs with 7 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Loc`, `Nom`, `Vo
 11699 tokens (62%) have a non-empty value of `Case`.
 5504 types (70%) occur at least once with a non-empty value of `Case`.
 2745 lemmas (75%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (5823; 31% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2480; 13% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt> (1053; 6% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (913; 5% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (698; 4% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (693; 4% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (33; 0% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (6; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (5823; 31% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2480; 13% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt> (1054; 6% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (913; 5% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (697; 4% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (693; 4% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (33; 0% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (6; 0% instances).
 
 ### `NOUN`
 
@@ -83,14 +83,14 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `DET`
 
-1053 <tt><a href="la_circse-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Case`.
+1054 <tt><a href="la_circse-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="la_circse-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (884; 84%), <tt><a href="la_circse-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (808; 77%), <tt><a href="la_circse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (808; 77%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (702; 67%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (615; 58%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="la_circse-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (885; 84%), <tt><a href="la_circse-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (809; 77%), <tt><a href="la_circse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (809; 77%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (703; 67%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (615; 58%).
 
 `DET` tokens may have the following values of `Case`:
 
 * `Abl` (154; 15% of non-empty `Case`): <em>ipso, omni, hoc, nullo, suis, illo, nullis, suo, toto, meis</em>
-* `Acc` (336; 32% of non-empty `Case`): <em>hoc, quicquid, hunc, hanc, omnis, suos, omne, tuam, illos, illum</em>
+* `Acc` (337; 32% of non-empty `Case`): <em>hoc, quicquid, hunc, hanc, omnis, suos, omne, tuam, illos, illum</em>
 * `Dat` (75; 7% of non-empty `Case`): <em>cuique, omnibus, nulli, meis, suis, illi, nostris, tuis, illis, solis</em>
 * `Gen` (70; 7% of non-empty `Case`): <em>omnium, tui, nostrae, nostri, sui, mei, huius, ipsius, suae, aliarum</em>
 * `Nom` (413; 39% of non-empty `Case`): <em>ille, ipse, haec, hic, hoc, nulla, ipsa, quisquis, illa, alia</em>
@@ -144,14 +144,14 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 ### `PRON`
 
-698 <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Case`.
+697 <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (568; 81%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (410; 59%), <tt><a href="la_circse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (379; 54%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (567; 81%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (410; 59%), <tt><a href="la_circse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (378; 54%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Abl` (60; 9% of non-empty `Case`): <em>te, quo, me, qua, quibus, se, eo, nobis, aliqua, aliquo</em>
-* `Acc` (257; 37% of non-empty `Case`): <em>te, quod, me, se, quem, quid, quae, quas, quos, quam</em>
+* `Acc` (256; 37% of non-empty `Case`): <em>te, quod, me, se, quem, quid, quae, quas, quos, quam</em>
 * `Dat` (103; 15% of non-empty `Case`): <em>tibi, mihi, quibus, cui, sibi, nobis, uobis, tibimet, cuiquam, ei</em>
 * `Gen` (41; 6% of non-empty `Case`): <em>cuius, sui, eius, quorum, eorum, nostri, tui, earum, mei</em>
 * `Nom` (218; 31% of non-empty `Case`): <em>qui, quae, quis, quod, quid, tu, nemo, id, ego, ea</em>
@@ -219,7 +219,7 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 `ADV` tokens may have the following values of `Case`:
 
 * `Loc` (6; 100% of non-empty `Case`): <em>hinc, hic</em>
-* `EMPTY` (1011): <em>iam, nunc, quid, sic, etiam, tamen, semper, hinc, adhuc, cur</em>
+* `EMPTY` (1001): <em>iam, nunc, quid, sic, etiam, tamen, semper, hinc, adhuc, cur</em>
 
 ## Relations with Agreement in `Case`
 

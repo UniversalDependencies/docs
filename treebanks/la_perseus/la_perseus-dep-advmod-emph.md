@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt>.
 There are also 3 other language-specific subtypes of `advmod`: <tt><a href="la_perseus-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="la_perseus-dep-advmod-neg.html">advmod:neg</a></tt>, <tt><a href="la_perseus-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-78 nodes (0%) are attached to their parents as `advmod:emph`.
+168 nodes (1%) are attached to their parents as `advmod:emph`.
 
-59 instances of `advmod:emph` (76%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.1025641025641.
+119 instances of `advmod:emph` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.54166666666667.
 
-The following 19 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (36; 46% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (8; 10% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (7; 9% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (4; 5% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (4; 5% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (3; 4% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 25 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (36; 21% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (29; 17% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (14; 8% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (8; 5% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-PART.html">PART</a></tt> (8; 5% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-PART.html">PART</a></tt> (8; 5% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (7; 4% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (7; 4% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-PART.html">PART</a></tt> (7; 4% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (7; 4% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (6; 4% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (4; 2% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (4; 2% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -34,37 +34,33 @@ The following 19 pairs of parts of speech are connected with `advmod:emph`: <tt>
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 advmod:emph	color:blue
-1	et	et	CCONJ	c--------	_	3	advmod:emph	_	_
-2	patrum	pater	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
-3	favor	favor	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-4	aderat	adsum	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Imperfectum
-5	:	:	PUNCT	u--------	_	4	punct	_	_
+# visual-style 1 2 advmod:emph	color:blue
+1	Notavimus	noto	VERB	v1pria---	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=noto1|TraditionalMood=Indicativus|TraditionalTense=Perfectum
+2	etiam	etiam	ADV	d--------	_	1	advmod:emph	_	LId=etiam1
+3	res	res	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	LId=res1
+4	novas	novus	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	3	amod	_	SpaceAfter=No|LId=novus1
+5	.	.	PUNCT	u--------	_	1	punct	_	LId=punc1
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 advmod:emph	color:blue
-1	alius	alius	DET	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Con	5	det	_	LId=alius2
-2	Latio	Latium	PROPN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	LId=Latium1
-3	iam	iam	ADV	d--------	AdvType=Tim	4	advmod:tmod	_	LId=jam1
-4	partus	pario	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	LId=pario2|TraditionalMood=Participium|TraditionalTense=Perfectum
-5	Achilles	Achilles	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	_	SpaceAfter=No|LId=Achilles1
-6	,	,	PUNCT	u--------	_	7	punct	_	LId=comma1
-7	natus	nascor	VERB	v-srpdmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	5	amod	_	TraditionalMood=Participium|TraditionalTense=Perfectum
-8	et	et	CCONJ	c--------	_	9	advmod:emph	_	LId=et1
-9	ipse	ipse	DET	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	nsubj	_	LId=ipse1
-10	dea	dea	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No|LId=dea1
-11	;	;	PUNCT	u--------	_	4	punct	_	LId=punc1
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 advmod:emph	color:blue
+1	Te	tu	PRON	p-s---ma-	Case=Acc|Number=Sing|Person=2|PronType=Prs	2	obj	_	LId=tu1
+2	rogo	rogo	VERB	v1spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=rogo1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+3	,	,	PUNCT	u--------	_	4	punct	_	LId=comma1
+4	ut	ut	SCONJ	c--------	_	5	mark	_	LId=ut1
+5	naves	navis	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	2	advcl:cmp	_	LId=navis1
+6	etiam	etiam	ADV	d--------	_	5	advmod:emph	_	SpaceAfter=No|LId=etiam1
+7	.	.	PUNCT	u--------	_	2	punct	_	LId=punc1
 
 ~~~
 

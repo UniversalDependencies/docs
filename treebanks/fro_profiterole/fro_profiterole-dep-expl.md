@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1884 nodes (1%) are attached to their parents as `expl`.
+1998 nodes (1%) are attached to their parents as `expl`.
 
-1752 instances of `expl` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.79723991507431.
+1858 instances of `expl` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.78778778778779.
 
-The following 6 pairs of parts of speech are connected with `expl`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1799; 95% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (52; 3% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (14; 1% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+The following 6 pairs of parts of speech are connected with `expl`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1910; 96% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (54; 3% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (14; 1% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

@@ -30,8 +30,8 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 6	，	，	PUNCT	_	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 7	跟	跟	ADP	_	_	8	case	_	SpaceAfter=No|Translit=gēn|LTranslit=gēn
 8	你	你	PRON	_	_	9	obl	_	SpaceAfter=No|Translit=nǐ|LTranslit=nǐ
-9	對	對	VERB	_	_	4	conj	_	SpaceAfter=No|Translit=duì|LTranslit=duì
-10	好	好	ADJ	_	_	9	compound:vv	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo
+9	對	對	VERB	_	_	4	conj	_	SpaceAfter=No|Translit=duì|LTranslit=duì|Cxn=Resultative|CxnElt=9:Resultative.Event
+10	好	好	ADJ	_	_	9	compound:vv	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo|CxnElt=9:Resultative.ResultState
 11	功課	功課	NOUN	_	_	9	obj	_	SpaceAfter=No|Translit=gōngkè|LTranslit=gōngkè
 12	才	才	ADV	_	_	13	advmod	_	SpaceAfter=No|Translit=cái|LTranslit=cái
 13	看	看	VERB	_	_	0	root	_	SpaceAfter=No|Translit=kàn|LTranslit=kàn
@@ -62,8 +62,8 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 13	fgColor:white
 # visual-style 13 16 xcomp	color:blue
 1	可以	可以	AUX	_	_	3	aux	_	SpaceAfter=No|Translit=kěyǐ|LTranslit=kěyǐ
-2	怎樣	怎樣	ADV	_	_	3	advmod	_	SpaceAfter=No|Translit=zěnyàng|LTranslit=zěnyàng
-3	稱呼	稱呼	VERB	_	_	0	root	_	SpaceAfter=No|Translit=chēnghū|LTranslit=chēnghū
+2	怎樣	怎樣	ADV	_	_	3	advmod	_	SpaceAfter=No|Translit=zěnyàng|LTranslit=zěnyàng|CxnElt=3:Interrogative-WHInfo-Direct.WHWord
+3	稱呼	稱呼	VERB	_	_	0	root	_	SpaceAfter=No|Translit=chēnghū|LTranslit=chēnghū|Cxn=Interrogative-WHInfo-Direct|CxnElt=3:Interrogative-WHInfo-Direct.Clause
 4	我	我	PRON	_	_	3	obj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 5	？	？	PUNCT	_	_	8	punct	_	SpaceAfter=No|Translit=?|LTranslit=?
 6	我	我	PRON	_	_	8	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ

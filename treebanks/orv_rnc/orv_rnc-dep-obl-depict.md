@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-obl.html">obl</a></tt>.
 There are also 4 other language-specific subtypes of `obl`: <tt><a href="orv_rnc-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="orv_rnc-dep-obl-float.html">obl:float</a></tt>, <tt><a href="orv_rnc-dep-obl-pronmod.html">obl:pronmod</a></tt>, <tt><a href="orv_rnc-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-43 nodes (0%) are attached to their parents as `obl:depict`.
+73 nodes (0%) are attached to their parents as `obl:depict`.
 
-25 instances of `obl:depict` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.34883720930233.
+45 instances of `obl:depict` (62%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.82191780821918.
 
-The following 7 pairs of parts of speech are connected with `obl:depict`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (24; 56% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (11; 26% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 9 pairs of parts of speech are connected with `obl:depict`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (45; 62% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (17; 23% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -38,24 +38,24 @@ The following 7 pairs of parts of speech are connected with `obl:depict`: <tt><a
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 12 obl:depict	color:blue
-1	Сынъ	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Norm="Сынъ"
-2	же	же	PART	_	_	1	advmod	_	Norm="же"
-3	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	det	_	Norm="его"
-4	Владимеръ	Владимиръ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	1	appos	_	Norm="Владимеръ"
-5	и	и	CCONJ	_	_	7	cc	_	Norm="и"
-6	ко	къ	ADP	_	_	7	case	_	Norm="ко"
-7	Царюграду	Царьградъ	PROPN	_	Case=Dat|Gender=Masc|NameType=Geo|Number=Sing	8	obl	_	Norm="Царюграду"
-8	ходи	ходити	VERB	Tense=Aor	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Norm="ходи"
-9	ратію	рать	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	8	iobj	_	Norm="ратію"|SpaceAfter=No
-10	,	,	PUNCT	_	_	12	punct	_	Norm=","
-11	отьцемъ	отецъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	12	obl:agent	_	Norm="отьцемъ"
-12	посланъ	послати	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	obl:depict	_	Norm="посланъ"|SpaceAfter=No
-13	.	.	PUNCT	_	_	8	punct	_	Norm="."
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 obl:depict	color:blue
+1	Бежи	бѣжати	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	norm="Бежи"|Decl=X|End=0
+2	гонима	гнати	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Pass	1	obl:depict	_	norm="гонима"|Decl=X|End=ами
+3	Господем	господь	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	2	obl:agent	_	norm="Господем"|Decl=2|End=ме
+4	Богом	богъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	3	appos	_	norm="Богом"|Decl=2|End=мо
+5	Исусом	Исусъ	PROPN	_	Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	4	appos	_	norm="Исусом"|Decl=2|End=мо|[G]
+6	Христом	Христосъ	PROPN	_	Case=Ins|Gender=Masc|NameType=Prs|Number=Sing	5	flat:name	_	norm="Христом"|Decl=2|End=мо|[G]|SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	norm=","
+8	крестно[ю]	крестный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	norm="крестною"|Decl=X|End=юо|check=@
+9	силою	сила	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	3	conj	_	norm="силою"|Decl=1a|End=юо|check=@
+10	и	и	CCONJ	_	_	12	cc	_	norm="и"
+11	сею	сей	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	norm="сею"|Decl=X|End=юе|check=@
+12	молитвою	молитва	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	3	conj	_	norm="молитвою"|Decl=1a|End=юо|SpaceAfter=No|check=@
+13	.	.	PUNCT	_	_	1	punct	_	norm="."
 
 ~~~
 

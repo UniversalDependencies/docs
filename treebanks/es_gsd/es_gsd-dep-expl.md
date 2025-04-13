@@ -40,7 +40,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	plano	plano	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	_
 17	político	político	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	5	punct	_	_
+18	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 ~~~
 

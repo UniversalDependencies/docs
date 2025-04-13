@@ -70,7 +70,7 @@ The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 3	si	si	SCONJ	_	_	6	mark	_	_
 4	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	det	_	_
 5	supporters	supporter	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
-6	veulent	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	advcl	_	_
+6	veulent	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	advcl	_	CxnElt=29:Conditional-NeutralEpistemic.Protasis@f
 7	aider	aider	VERB	_	VerbForm=Inf	6	xcomp	_	Subject=SubjRaising
 8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	club	club	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
@@ -93,7 +93,7 @@ The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 26	nous	nous	PRON	_	Emph=No|Number=Plur|Person=1|PronType=Prs	29	iobj:agent	_	_
 27	le	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	obj	_	_
 28	fassent	faire	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	aux:caus	_	_
-29	savoir	savoir	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No|Subject=Generic
+29	savoir	savoir	VERB	_	VerbForm=Inf	0	root	_	Cxn=Conditional-NeutralEpistemic|CxnElt=29:Conditional-NeutralEpistemic.Apodosis@p|SpaceAfter=No|Subject=Generic
 30	.	.	PUNCT	_	_	29	punct	_	_
 31	"	"	PUNCT	_	_	29	punct	_	_
 

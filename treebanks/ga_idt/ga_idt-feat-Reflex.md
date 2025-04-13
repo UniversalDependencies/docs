@@ -34,5 +34,5 @@ The most frequent other feature values with which `PROPN` and `Reflex` co-occurr
 `PROPN` tokens may have the following values of `Reflex`:
 
 * `Yes` (6; 100% of non-empty `Reflex`): <em>Féin, Fein</em>
-* `EMPTY` (5922): <em>Átha, cliath, Bhaile, Gaeltachta, Gaeilge, hÉireann, Údarás, Ghaeltacht, Chomhairle, Éirinn</em>
+* `EMPTY` (5720): <em>Átha, cliath, Bhaile, Gaeltachta, Gaeilge, hÉireann, Údarás, Ghaeltacht, Éirinn, Baile</em>
 

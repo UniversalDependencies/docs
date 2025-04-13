@@ -30,8 +30,8 @@ The following 13 pairs of parts of speech are connected with `advcl`: <tt><a hre
 6	，	，	PUNCT	_	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 7	跟	跟	ADP	_	_	8	case	_	SpaceAfter=No|Translit=gēn|LTranslit=gēn
 8	你	你	PRON	_	_	9	obl	_	SpaceAfter=No|Translit=nǐ|LTranslit=nǐ
-9	對	對	VERB	_	_	4	conj	_	SpaceAfter=No|Translit=duì|LTranslit=duì
-10	好	好	ADJ	_	_	9	compound:vv	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo
+9	對	對	VERB	_	_	4	conj	_	SpaceAfter=No|Translit=duì|LTranslit=duì|Cxn=Resultative|CxnElt=9:Resultative.Event
+10	好	好	ADJ	_	_	9	compound:vv	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo|CxnElt=9:Resultative.ResultState
 11	功課	功課	NOUN	_	_	9	obj	_	SpaceAfter=No|Translit=gōngkè|LTranslit=gōngkè
 12	才	才	ADV	_	_	13	advmod	_	SpaceAfter=No|Translit=cái|LTranslit=cái
 13	看	看	VERB	_	_	0	root	_	SpaceAfter=No|Translit=kàn|LTranslit=kàn
@@ -72,14 +72,14 @@ The following 13 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 10 3 advcl	color:blue
 1	如果	如果	SCONJ	_	_	3	mark	_	SpaceAfter=No|Translit=rúguǒ|LTranslit=rúguǒ
 2	阿爺	阿爺	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Translit='āye|LTranslit='āye
-3	發現	發現	VERB	_	_	10	advcl	_	SpaceAfter=No|Translit=fāxiàn|LTranslit=fāxiàn
+3	發現	發現	VERB	_	_	10	advcl	_	SpaceAfter=No|Translit=fāxiàn|LTranslit=fāxiàn|CxnElt=10:Conditional-NeutralEpistemic.Protasis
 4	我們	我	PRON	_	_	6	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
 5	不	不	ADV	_	_	6	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 6	在	在	VERB	_	_	3	ccomp	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 7	大家樂	大家樂	PROPN	_	_	6	obj	_	SpaceAfter=No|Translit=dàjiālè|LTranslit=dàjiālè
 8	，	，	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	就	就	ADV	_	_	10	advmod	_	SpaceAfter=No|Translit=jiù|LTranslit=jiù
-10	慘	慘	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=cǎn|LTranslit=cǎn
+10	慘	慘	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=cǎn|LTranslit=cǎn|Cxn=Conditional-NeutralEpistemic|CxnElt=10:Conditional-NeutralEpistemic.Apodosis
 11	了	了	PART	_	_	10	discourse:sp	_	SpaceAfter=No|Translit=le|LTranslit=le
 12	。	。	PUNCT	_	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 

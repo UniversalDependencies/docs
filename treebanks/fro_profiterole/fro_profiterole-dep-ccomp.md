@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1965 nodes (1%) are attached to their parents as `ccomp`.
+2078 nodes (1%) are attached to their parents as `ccomp`.
 
-1942 instances of `ccomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.03511450381679.
+2055 instances of `ccomp` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.08614051973051.
 
-The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (1786; 91% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (60; 3% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (43; 2% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (40; 2% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (1885; 91% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (68; 3% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (45; 2% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (43; 2% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,23 +58,25 @@ The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 ccomp	color:blue
-1	lors	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_qgraal_cm_57135
-2	demande	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_57136
-3	a	_	ADP	PRE	_	4	case	_	XmlId=w_qgraal_cm_57137
-4	Lancelot	_	PROPN	NOMpro	_	2	obl	_	XmlId=w_qgraal_cm_57138
-5	qui	_	PRON	PROrel	PronType=Prs,Rel	2	ccomp	_	XmlId=w_qgraal_cm_57139
-6	il	_	PRON	PROper	PronType=Prs	5	nsubj	_	XmlId=w_qgraal_cm_57140
-7	estoit	_	AUX	VERcjg	VerbForm=Fin	5	cop	_	XmlId=w_qgraal_cm_57141
-8	et	_	CCONJ	CONcoo	_	11	cc	_	XmlId=w_qgraal_cm_57142
-9	de	_	ADP	PRE	_	11	case	_	XmlId=w_qgraal_cm_57143
-10	quel	_	DET	DETrel_o	PronType=Rel	11	det	_	XmlId=w_qgraal_cm_57144
-11	païs	_	NOUN	NOMcom	_	5	obl	_	SpaceAfter=No|XmlId=w_qgraal_cm_57145
-12	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_qgraal_cm_57146
+# visual-style 5 11 ccomp	color:blue
+1	et	_	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_28_33798
+2	li	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_28_33799
+3	empereres	_	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_28_33800
+4	li	_	PRON	PROper	PronType=Prs	5	iobj	_	XmlId=w_28_33801
+5	respondi	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_33802
+6	qu'	_	SCONJ	CONsub	_	11	mark	_	SpaceAfter=No|XmlId=w_28_33803
+7	ele	_	PRON	PROper	PronType=Prs	11	nsubj	_	XmlId=w_28_33804
+8	n'	_	ADV	ADVneg	Polarity=Neg	11	advmod	_	SpaceAfter=No|XmlId=w_28_33805
+9	estoit	_	AUX	VERcjg	VerbForm=Fin	11	cop	_	XmlId=w_28_33806
+10	mie	_	ADV	ADVneg	Polarity=Neg	11	advmod	_	XmlId=w_28_33807
+11	siwe	_	PRON	PROpos	Poss=Yes	5	ccomp	_	XmlId=w_28_33808
+12	a	_	ADP	PRE	_	13	mark	_	XmlId=w_28_33809
+13	donner	_	VERB	VERinf	VerbForm=Inf	11	xcomp	_	SpaceAfter=No|XmlId=w_28_33810
+14	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_33811
 
 ~~~
 

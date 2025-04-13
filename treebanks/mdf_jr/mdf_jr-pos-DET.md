@@ -65,17 +65,17 @@ Examples: <em>эрь, лама, сембе, кой-кона, лия</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 4 different relations: <tt><a href="mdf_jr-dep-det.html">det</a></tt> (34; 92% instances), <tt><a href="mdf_jr-dep-expl.html">expl</a></tt> (1; 3% instances), <tt><a href="mdf_jr-dep-obl-tmod.html">obl:tmod</a></tt> (1; 3% instances), <tt><a href="mdf_jr-dep-xcomp.html">xcomp</a></tt> (1; 3% instances)
+`DET` nodes are attached to their parents using 5 different relations: <tt><a href="mdf_jr-dep-det.html">det</a></tt> (33; 89% instances), <tt><a href="mdf_jr-dep-expl.html">expl</a></tt> (1; 3% instances), <tt><a href="mdf_jr-dep-fixed.html">fixed</a></tt> (1; 3% instances), <tt><a href="mdf_jr-dep-obl-tmod.html">obl:tmod</a></tt> (1; 3% instances), <tt><a href="mdf_jr-dep-xcomp.html">xcomp</a></tt> (1; 3% instances)
 
-Parents of `DET` nodes belong to 3 different parts of speech: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (34; 92% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 3% instances)
+Parents of `DET` nodes belong to 4 different parts of speech: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (33; 89% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 3% instances)
 
-35 (95%) `DET` nodes are leaves.
+36 (97%) `DET` nodes are leaves.
 
-2 (5%) `DET` nodes have one child.
+1 (3%) `DET` nodes have one child.
 
 The highest child degree of a `DET` node is 1.
 
-Children of `DET` nodes are attached using 2 different relations: <tt><a href="mdf_jr-dep-advmod-deg.html">advmod:deg</a></tt> (1; 50% instances), <tt><a href="mdf_jr-dep-aux-neg.html">aux:neg</a></tt> (1; 50% instances)
+Children of `DET` nodes are attached using 1 different relations: <tt><a href="mdf_jr-dep-advmod-deg.html">advmod:deg</a></tt> (1; 100% instances)
 
-Children of `DET` nodes belong to 2 different parts of speech: <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 50% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 50% instances)
+Children of `DET` nodes belong to 1 different parts of speech: <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 100% instances)
 

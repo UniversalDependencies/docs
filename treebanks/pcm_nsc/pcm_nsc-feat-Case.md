@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Acc`, `Gen`, `Nom`.
 
-14749 tokens (10%) have a non-empty value of `Case`.
+14747 tokens (10%) have a non-empty value of `Case`.
 67 types (1%) occur at least once with a non-empty value of `Case`.
 40 lemmas (1%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (14727; 10% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (14725; 10% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-14727 <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> tokens (80% of all `PRON` tokens) have a non-empty value of `Case`.
+14725 <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> tokens (80% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="pcm_nsc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14727; 100%), <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (14709; 100%), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8162; 55%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="pcm_nsc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14725; 100%), <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (14707; 100%), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8162; 55%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Acc` (2840; 19% of non-empty `Case`): <em>am, me, dem, us, una, her, yourself, mysef, oursef, yoursef</em>
-* `Nom` (11887; 81% of non-empty `Case`): <em>I, you, e, we, de, im, dem, me, she, una</em>
-* `EMPTY` (3637): <em>my, your, wetin, dat, our, deir, dis, everybody, all, her</em>
+* `Nom` (11885; 81% of non-empty `Case`): <em>I, you, e, we, de, im, dem, me, she, una</em>
+* `EMPTY` (3636): <em>my, your, wetin, dat, our, deir, dis, everybody, all, her</em>
 
 <table>
   <tr><th>Paradigm <i>you</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -38,7 +38,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 `X` tokens may have the following values of `Case`:
 
 * `Nom` (6; 100% of non-empty `Case`): <em>>+, [, de, {, ||, }</em>
-* `EMPTY` (40242): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
+* `EMPTY` (40240): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
 
 ### `NOUN`
 

@@ -32,7 +32,7 @@ The following 26 pairs of parts of speech are connected with `obl`: <tt><a href=
 7	$	$	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
 8	por	por	ADP	IN	_	9	case	_	_
 9	persona	persona	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	4	punct	_	_
+10	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 ~~~
 
@@ -50,7 +50,7 @@ The following 26 pairs of parts of speech are connected with `obl`: <tt><a href=
 5	durante	durante	ADP	IN	_	7	case	_	_
 6	una	uno	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	7	nummod	_	_
 7	década	década	NOUN	NN	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	1	punct	_	_
+8	.	.	PUNCT	.	PunctType=Peri	1	punct	_	_
 
 ~~~
 
@@ -71,7 +71,7 @@ The following 26 pairs of parts of speech are connected with `obl`: <tt><a href=
 8	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	_
 9	más	más	ADV	RBR	Degree=Cmp	10	advmod	_	_
 10	atención	atención	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
-11	.	.	PUNCT	.	_	1	punct	_	_
+11	.	.	PUNCT	.	PunctType=Peri	1	punct	_	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-110 nodes (0%) are attached to their parents as `compound`.
+109 nodes (0%) are attached to their parents as `compound`.
 
-110 instances of `compound` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.07272727272727.
+109 instances of `compound` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.06422018348624.
 
-The following 6 pairs of parts of speech are connected with `compound`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (66; 60% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (19; 17% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (13; 12% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (9; 8% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `compound`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (66; 61% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (19; 17% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (13; 12% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (9; 8% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (2; 2% instances).
 
 
 ~~~ conllu
@@ -51,11 +51,11 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 compound	color:blue
-1	Tha	bi	VERB	V-p	Tense=Pres	0	root	_	_
+1	Tha	bi	VERB	V-p	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	dùil	dùil	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
 3	gum	gu	PART	Qa	PartType=Cmpl	4	mark:prt	_	_
-4	mol	mol	VERB	V-f--d	Tense=Fut	1	acl	_	_
-5	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
+4	mol	mol	VERB	V-f--d	Mood=Ind|Tense=Fut|VerbForm=Fin	1	acl	_	_
+5	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 6	gearradh	gearradh	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	4	obj	_	_
 7	de	de	ADP	Sp	_	11	case	_	_
 8	ma	ma	ADV	Rg	_	11	advmod	_	_
@@ -70,7 +70,7 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 17	còig	còig	NUM	Mc	NumForm=Word|NumType=Card	18	nummod	_	_
 18	bliadhna	bliadhna	NOUN	Ncsfg	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
 19	ro	ro	ADP	Sp	_	20	case	_	_
-20	sinn	sinn	PRON	Pp1p	Number=Plur|Person=1	18	nmod	_	_
+20	sinn	sinn	PRON	Pp1p	Number=Plur|Person=1|PronType=Prs	18	nmod	_	_
 21	.	.	PUNCT	Fe	_	1	punct	_	_
 
 ~~~

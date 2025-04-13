@@ -58,7 +58,7 @@ The most frequent other feature values with which `AUX` and `Typo` co-occurred: 
 
 14 <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="en_gumreddit-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (13; 93%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (13; 93%), <tt><a href="en_gumreddit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13; 93%), <tt><a href="en_gumreddit-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (9; 64%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="en_gumreddit-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12; 86%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (12; 86%), <tt><a href="en_gumreddit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12; 86%), <tt><a href="en_gumreddit-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (8; 57%).
 
 `VERB` tokens may have the following values of `Typo`:
 

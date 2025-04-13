@@ -12,4 +12,4 @@ Common adverbs are _да_ and _ук_.
 алма да яратам. \n I love apples too.
 advmod:emph(алма, да)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:39 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:21 CET -->

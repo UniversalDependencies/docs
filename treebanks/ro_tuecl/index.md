@@ -12,15 +12,15 @@ udver: '2'
 # UD Romanian TueCL
 
 Language: [Romanian](/ro/index.html) (code: `ro`)<br/>
-Family: Indo-European, Romance
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.14 release.
 
 The following people have contributed to making this treebank part of UD: Diana Hoefels, Çağrı Çöltekin.
 
 Repository: [UD_Romanian-TueCL](https://github.com/UniversalDependencies/UD_Romanian-TueCL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_tuecl214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_tuecl215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: social
 Questions, comments?
 General annotation questions (either Romanian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Romanian-TueCL/issues).
-If you want to collaborate, please contact [diana-constantina&nbsp;•&nbsp;hoefels&nbsp;(æt)&nbsp;student&nbsp;•&nbsp;uni-tuebingen&nbsp;•&nbsp;de, cagri&nbsp;•&nbsp;coeltekin&nbsp;(æt)&nbsp;uni-tuebingen&nbsp;•&nbsp;de].
+If you want to collaborate, please contact [diana-constantina&nbsp;•&nbsp;hoefels&nbsp;(æt)&nbsp;student&nbsp;•&nbsp;uni-tuebingen&nbsp;•&nbsp;de or diana&nbsp;•&nbsp;hoefels&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, cagri&nbsp;•&nbsp;coeltekin&nbsp;(æt)&nbsp;uni-tuebingen&nbsp;•&nbsp;de].
 Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
@@ -42,21 +42,20 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
-This is a (currently small) Twitter treebank containing a subset of tweets from [CoRoSeOf](https://github.com/DianaHoefels/CoRoSeOf).
+The Romanian Social Media Sexist Language UD Treebank is a reference treebank in Universal Dependencies (UD) format for Romanian sexist language. Currently small, it comprises a subset of tweets sourced from [CoRoSeOf](https://github.com/DianaHoefels/CoRoSeOf).
 
 
 
-
-...
+The Romanian Social Media Sexist Language UD Treebank is a specialized linguistic resource focused on analyzing sexist language in Romanian social media. It contains 210 annotated tweets selected from [CoRoSeOf](https://github.com/DianaHoefels/CoRoSeOf), providing a unique insight into social media discourse. As part of the UD_Romanian-TueCL project, it fills a significant gap in Romanian linguistic resources by being the first UD treebank to specifically address sexist language in the social media genre. The project is work-in-progress and the treebank is being updated on a regular basis.
 
 
 ## Acknowledgments
 
-...
+The creation of this treebank was made possible through the initiative of Dr. Çağrı Çöltekin, lecturer @University of Tuebingen, as part of a course project focused on low-resourced languages. While Romanian is not a low-resourced language, it lacked a UD-compliant social media corpus. Diana C. Hoefels constructed and annotated the corpus, while Dr. Çağrı Çöltekin provided reviewing, consultation on the guidelines, and authored the documentation.
 
 ## References
 
-* (citation)
+* For a quantative and qualitative analysis of the sourced samples, refer to [CoRoSeOf - An Annotated Corpus of Romanian Sexist and Offensive Tweets](https://aclanthology.org/2022.lrec-1.243/).
 
 
 
@@ -192,7 +191,7 @@ This is a (currently small) Twitter treebank containing a subset of tweets from 
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: DULCI, misogini, FRUMOȘI, atent, hot, libidinoși, misogin, sexual, superb, șocant</li>
+      <li>ADJ: DULCI, misogini, FRUMOȘI, atent, libidinoși, misogin, sexual, superb, șocant, Apetisant</li>
       <li>AUX-Part: fost</li>
       <li>DET: un, mulți, a, acestui, toți, unui, acest, al, asta, cel</li>
       <li>NOUN: bărbat, PUPICI, bărbatul, bărbații, barbat, bărbați, fund, bărbaților, bani, sutien</li>
@@ -229,7 +228,7 @@ This is a (currently small) Twitter treebank containing a subset of tweets from 
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: frumoasă, frumoasa, bună, mare, dulce, sexy, urâtă, atent, cuminte, drăguță</li>
+      <li>ADJ: frumoasă, frumoasa, bună, mare, dulce, urâtă, atent, cuminte, drăguță, frumos</li>
       <li>ADV: nimic</li>
       <li>AUX: e, a, ești, este, ai, esti, am, aș, era, fost</li>
       <li>AUX-Fin: e, ești, este, esti, era, fii, -i, fiu, are, erai</li>
@@ -362,7 +361,7 @@ This is a (currently small) Twitter treebank containing a subset of tweets from 
     <ul>
       <li>ADJ: frumoasă, frumoasa, bună, așa, mare, misogini, FRUMOȘI, sexy, urâtă, atent</li>
       <li>ADV: doar, bine, așa, chiar, acum, numai, tot, asa, acasă, atât</li>
-      <li>NOUN: frumoasă, prostituată, angajată, baby, barbat, curva, curve, curvă, mall, party</li>
+      <li>NOUN: frumoasă, prostituată, angajată, barbat, curva, curve, curvă, public, regină, sexy</li>
     </ul>
   </li>
 </ul>

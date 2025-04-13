@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="ga_idt-dep-case.htm
 56 nodes (0%) are attached to their parents as `case:voc`.
 
 56 instances of `case:voc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.01785714285714.
+Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `case:voc`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (29; 52% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (27; 48% instances).
+The following 2 pairs of parts of speech are connected with `case:voc`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (30; 54% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (26; 46% instances).
 
 
 ~~~ conllu

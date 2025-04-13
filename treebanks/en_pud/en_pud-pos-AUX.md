@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>was</em> (<tt><a href="en_pud-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.000000 (the average of all parts of speech is 1.147869).
+The form / lemma ratio of `AUX` is 3.000000 (the average of all parts of speech is 1.147817).
 
 The 1st highest number of forms (13) was observed with the lemma “be”: <em>'m, 's, am, are, be, been, being, is, was, were, ’m, ’re, ’s</em>.
 
@@ -87,5 +87,5 @@ The highest child degree of a `AUX` node is 10.
 
 Children of `AUX` nodes are attached using 12 different relations: <tt><a href="en_pud-dep-punct.html">punct</a></tt> (19; 29% instances), <tt><a href="en_pud-dep-nsubj.html">nsubj</a></tt> (13; 20% instances), <tt><a href="en_pud-dep-obl.html">obl</a></tt> (8; 12% instances), <tt><a href="en_pud-dep-expl.html">expl</a></tt> (5; 8% instances), <tt><a href="en_pud-dep-advmod.html">advmod</a></tt> (4; 6% instances), <tt><a href="en_pud-dep-aux.html">aux</a></tt> (4; 6% instances), <tt><a href="en_pud-dep-advcl.html">advcl</a></tt> (3; 5% instances), <tt><a href="en_pud-dep-parataxis.html">parataxis</a></tt> (3; 5% instances), <tt><a href="en_pud-dep-cc.html">cc</a></tt> (2; 3% instances), <tt><a href="en_pud-dep-mark.html">mark</a></tt> (2; 3% instances), <tt><a href="en_pud-dep-ccomp.html">ccomp</a></tt> (1; 2% instances), <tt><a href="en_pud-dep-obj.html">obj</a></tt> (1; 2% instances)
 
-Children of `AUX` nodes belong to 11 different parts of speech: <tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (19; 29% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (18; 28% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (7; 11% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (5; 8% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (5; 8% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (4; 6% instances), <tt><a href="en_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 3% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
+Children of `AUX` nodes belong to 11 different parts of speech: <tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (19; 29% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (18; 28% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (8; 12% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (5; 8% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (5; 8% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (3; 5% instances), <tt><a href="en_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 3% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="en_pud-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 

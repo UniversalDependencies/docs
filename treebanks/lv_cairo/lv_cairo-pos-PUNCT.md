@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latvian-Cairo: POS Tags: `PUNCT`
 
 There are 5 `PUNCT` lemmas (5%), 5 `PUNCT` types (4%) and 33 `PUNCT` tokens (20%).
-Out of 13 observed tags, the rank of `PUNCT` is: 8 in number of lemmas, 8 in number of types and 1 in number of tokens.
+Out of 13 observed tags, the rank of `PUNCT` is: 7 in number of lemmas, 7 in number of types and 1 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>., ,, ?, –, !</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.102804).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.093458).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 

@@ -51,4 +51,4 @@ may act like a copula.
 currently, they are treated as main verbs rather than copula
 (see the discussion in 
 [specific syntactic constructions](/tr/specific-syntax#auxiliaries-ol--and-bulun-)).
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:00 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:42 CET -->

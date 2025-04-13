@@ -22,14 +22,14 @@ The following 38 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 compound	color:blue
-1	कुशीनगर	कुशीनगर	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	3	nmod	_	Vib=0_का|Tam=0|ChunkId=NP|ChunkType=head|Translit=kuśīnagara|LTranslit=kuśīnagara
-2	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	1	case	_	ChunkId=NP|ChunkType=child|Translit=kā|LTranslit=kā
-3	महत्‍व	महत्व	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=mahatva|LTranslit=mahatva
-4	महापरिनिर्वाण	महापरिनिर्वाण	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	compound	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=child|Translit=mahāparinirvāṇa|LTranslit=mahāparinirvāṇa
-5	मंदिर	मंदिर	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	root	_	Vib=0_से|Tam=0|ChunkId=NP3|ChunkType=head|Translit=maṁdira|LTranslit=maṁdira
-6	से	से	ADP	PSP	AdpType=Post	5	case	_	ChunkId=NP3|ChunkType=child|Translit=se|LTranslit=se
-7	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=hE|Vib=है|Translit=hai|LTranslit=hai
-8	।	।	PUNCT	SYM	_	5	punct	_	ChunkId=BLK|ChunkType=head|Translit=.|LTranslit=.
+1	कुशीनगर	कुशीनगर	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	3	nmod	_	ChunkId=NP|ChunkType=head|LTranslit=kuśīnagara|Tam=0|Translit=kuśīnagara|Vib=0_का
+2	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	1	case	_	ChunkId=NP|ChunkType=child|LTranslit=kā|Translit=kā
+3	महत्‍व	महत्व	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	ChunkId=NP2|ChunkType=head|LTranslit=mahatva|Tam=0|Translit=mahatva|Vib=0
+4	महापरिनिर्वाण	महापरिनिर्वाण	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	compound	_	ChunkId=NP3|ChunkType=child|LTranslit=mahāparinirvāṇa|Tam=0|Translit=mahāparinirvāṇa|Vib=0
+5	मंदिर	मंदिर	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	root	_	ChunkId=NP3|ChunkType=head|CxnElt=7:Existential-CopPred.Pivot|LTranslit=maṁdira|Tam=0|Translit=maṁdira|Vib=0_से
+6	से	से	ADP	PSP	AdpType=Post	5	case	_	ChunkId=NP3|ChunkType=child|LTranslit=se|Translit=se
+7	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ChunkId=VGF|ChunkType=head|Cxn=Existential-CopPred|LTranslit=hai|Stype=declarative|Tam=hE|Translit=hai|Vib=है
+8	।	।	PUNCT	SYM	_	5	punct	_	ChunkId=BLK|ChunkType=head|LTranslit=.|Translit=.
 
 ~~~
 
@@ -42,8 +42,8 @@ The following 38 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 2 3 compound	color:blue
 1	आइए	आना	VERB	VM	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	2	vocative	_	ChunkId=VGF|ChunkType=head|LTranslit=ānā|Stype=imperative|Tam=eM|Translit=āie|Vib=एं
 2	करें	करना	VERB	VM	Mood=Sub|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	0	root	_	ChunkId=VGF2|ChunkType=head|LTranslit=karanā|Stype=declarative|Tam=eM|Translit=kareṁ|Vib=एं
-3	सैर	सैर	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	compound	_	Vib=0|Tam=0|ChunkId=NP|ChunkType=head|Translit=saira|LTranslit=saira
-4	-	-	PUNCT	SYM	_	2	punct	_	ChunkId=BLK|ChunkType=head|Translit=-|LTranslit=-
+3	सैर	सैर	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	compound	_	ChunkId=NP|ChunkType=head|LTranslit=saira|Tam=0|Translit=saira|Vib=0
+4	-	-	PUNCT	SYM	_	2	punct	_	ChunkId=BLK|ChunkType=head|LTranslit=-|Translit=-
 
 ~~~
 
@@ -54,20 +54,20 @@ The following 38 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 compound	color:blue
-1	मंदिर	मंदिर	NOUN	NNC	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	compound	_	Vib=0|Tam=0|ChunkId=NP|ChunkType=child|Translit=maṁdira|LTranslit=maṁdira
-2	परिसर	परिसर	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	obl	_	Vib=0_में|Tam=0|ChunkId=NP|ChunkType=head|Translit=parisara|LTranslit=parisara
-3	में	में	ADP	PSP	AdpType=Post	2	case	_	ChunkId=NP|ChunkType=child|Translit=meṁ|LTranslit=meṁ
-4	मौजूद	मौजूद	ADJ	JJ	Case=Nom	5	amod	_	ChunkId=JJP|ChunkType=head|Translit=maujūda|LTranslit=maujūda
-5	चैत्‍य	चैत्य	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nsubj	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=caitya|LTranslit=caitya
-6	सभी	सब	PRON	PRP	Case=Acc|PronType=Prs	8	nmod	_	Vib=0_का|ChunkId=NP3|ChunkType=head|Translit=sabhī|LTranslit=saba
-7	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	6	case	_	ChunkId=NP3|ChunkType=child|Translit=ke|LTranslit=kā
-8	आकर्षण	आकर्षण	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	nmod	_	Vib=0_का|Tam=0|ChunkId=NP4|ChunkType=head|Translit=ākarṣaṇa|LTranslit=ākarṣaṇa
-9	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	8	case	_	ChunkId=NP4|ChunkType=child|Translit=kā|LTranslit=kā
-10	केंद्र	केंद्र	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	xcomp	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=keṁdra|LTranslit=keṁdra
+1	मंदिर	मंदिर	NOUN	NNC	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	compound	_	ChunkId=NP|ChunkType=child|LTranslit=maṁdira|Tam=0|Translit=maṁdira|Vib=0
+2	परिसर	परिसर	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	obl	_	ChunkId=NP|ChunkType=head|LTranslit=parisara|Tam=0|Translit=parisara|Vib=0_में
+3	में	में	ADP	PSP	AdpType=Post	2	case	_	ChunkId=NP|ChunkType=child|LTranslit=meṁ|Translit=meṁ
+4	मौजूद	मौजूद	ADJ	JJ	Case=Nom	5	amod	_	ChunkId=JJP|ChunkType=head|LTranslit=maujūda|Translit=maujūda
+5	चैत्‍य	चैत्य	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nsubj	_	ChunkId=NP2|ChunkType=head|LTranslit=caitya|Tam=0|Translit=caitya|Vib=0
+6	सभी	सब	PRON	PRP	Case=Acc|PronType=Prs	8	nmod	_	ChunkId=NP3|ChunkType=head|LTranslit=saba|Translit=sabhī|Vib=0_का
+7	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	6	case	_	ChunkId=NP3|ChunkType=child|LTranslit=kā|Translit=ke
+8	आकर्षण	आकर्षण	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	nmod	_	ChunkId=NP4|ChunkType=head|LTranslit=ākarṣaṇa|Tam=0|Translit=ākarṣaṇa|Vib=0_का
+9	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	8	case	_	ChunkId=NP4|ChunkType=child|LTranslit=kā|Translit=kā
+10	केंद्र	केंद्र	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	xcomp	_	ChunkId=NP5|ChunkType=head|LTranslit=keṁdra|Tam=0|Translit=keṁdra|Vib=0
 11	बन	बनना	VERB	VM	Gender=Masc|Number=Sing|Person=3|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|LTranslit=bananā|Stype=declarative|Tam=0|Translit=bana|Vib=0_जा+ता_है
 12	जाता	जाना	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	11	aux	_	ChunkId=VGF|ChunkType=child|LTranslit=jānā|Tam=wA|Translit=jātā|Vib=ता
-13	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai|LTranslit=hai
-14	।	।	PUNCT	SYM	_	11	punct	_	ChunkId=BLK|ChunkType=head|Translit=.|LTranslit=.
+13	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	ChunkId=VGF|ChunkType=child|LTranslit=hai|Tam=hE|Translit=hai|Vib=है
+14	।	।	PUNCT	SYM	_	11	punct	_	ChunkId=BLK|ChunkType=head|LTranslit=.|Translit=.
 
 ~~~
 

@@ -63,7 +63,7 @@ The 10 most frequent ambiguous types:  <em>,</em> (<tt><a href="it_vit-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.502468).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.502411).
 
 The 1st highest number of forms (2) was observed with the lemma “!”: <em>!, e</em>.
 
@@ -84,7 +84,7 @@ Examples: <em>,, ., ", ), -, (, :, ?, ;, <</em>
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="it_vit-dep-punct.html">punct</a></tt> (31585; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (14842; 47% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (10576; 33% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (2576; 8% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (1714; 5% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (567; 2% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (526; 2% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (340; 1% instances), <tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (237; 1% instances), <tt><a href="it_vit-pos-X.html">X</a></tt> (96; 0% instances), <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (52; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (32; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (14842; 47% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (10574; 33% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (2576; 8% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (1714; 5% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (567; 2% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (528; 2% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (340; 1% instances), <tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (237; 1% instances), <tt><a href="it_vit-pos-X.html">X</a></tt> (96; 0% instances), <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (52; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (32; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
 31585 (100%) `PUNCT` nodes are leaves.
 

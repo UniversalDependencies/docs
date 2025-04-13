@@ -5,4 +5,4 @@ shortdef: 'proper noun'
 ---
 
 Proper nouns can have the following features: Number, Case, Number[psor], Person[psor], Number[psed]
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:40 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:25 CET -->

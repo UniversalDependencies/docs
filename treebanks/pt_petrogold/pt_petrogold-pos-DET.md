@@ -63,7 +63,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="pt_petrogold-pos
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.447368 (the average of all parts of speech is 1.452181).
+The form / lemma ratio of `DET` is 2.447368 (the average of all parts of speech is 1.452143).
 
 The 1st highest number of forms (6) was observed with the lemma “este”: <em>Deste, esta, estas, este, estes, está</em>.
 
@@ -84,11 +84,11 @@ Examples: <em>a, , µ, á</em>
 
 `DET` nodes are attached to their parents using 10 different relations: <tt><a href="pt_petrogold-dep-det.html">det</a></tt> (35582; 98% instances), <tt><a href="pt_petrogold-dep-flat-name.html">flat:name</a></tt> (365; 1% instances), <tt><a href="pt_petrogold-dep-fixed.html">fixed</a></tt> (268; 1% instances), <tt><a href="pt_petrogold-dep-mark.html">mark</a></tt> (60; 0% instances), <tt><a href="pt_petrogold-dep-case.html">case</a></tt> (41; 0% instances), <tt><a href="pt_petrogold-dep-obl.html">obl</a></tt> (12; 0% instances), <tt><a href="pt_petrogold-dep-advmod.html">advmod</a></tt> (10; 0% instances), <tt><a href="pt_petrogold-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="pt_petrogold-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-dep-amod.html">amod</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 12 different parts of speech: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (33051; 91% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (2500; 7% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> (258; 1% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (247; 1% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (124; 0% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (114; 0% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (19; 0% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="pt_petrogold-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 12 different parts of speech: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (33050; 91% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (2500; 7% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> (258; 1% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (247; 1% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (124; 0% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (114; 0% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (19; 0% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="pt_petrogold-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
 
-36210 (100%) `DET` nodes are leaves.
+36218 (100%) `DET` nodes are leaves.
 
-65 (0%) `DET` nodes have one child.
+57 (0%) `DET` nodes have one child.
 
 70 (0%) `DET` nodes have two children.
 
@@ -96,7 +96,7 @@ Parents of `DET` nodes belong to 12 different parts of speech: <tt><a href="pt_p
 
 The highest child degree of a `DET` node is 4.
 
-Children of `DET` nodes are attached using 9 different relations: <tt><a href="pt_petrogold-dep-fixed.html">fixed</a></tt> (188; 90% instances), <tt><a href="pt_petrogold-dep-punct.html">punct</a></tt> (7; 3% instances), <tt><a href="pt_petrogold-dep-cc.html">cc</a></tt> (5; 2% instances), <tt><a href="pt_petrogold-dep-advmod.html">advmod</a></tt> (3; 1% instances), <tt><a href="pt_petrogold-dep-conj.html">conj</a></tt> (2; 1% instances), <tt><a href="pt_petrogold-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="pt_petrogold-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="pt_petrogold-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="pt_petrogold-dep-obl.html">obl</a></tt> (1; 0% instances)
+Children of `DET` nodes are attached using 5 different relations: <tt><a href="pt_petrogold-dep-fixed.html">fixed</a></tt> (188; 94% instances), <tt><a href="pt_petrogold-dep-cc.html">cc</a></tt> (5; 2% instances), <tt><a href="pt_petrogold-dep-punct.html">punct</a></tt> (5; 2% instances), <tt><a href="pt_petrogold-dep-conj.html">conj</a></tt> (2; 1% instances), <tt><a href="pt_petrogold-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Children of `DET` nodes belong to 8 different parts of speech: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (72; 34% instances), <tt><a href="pt_petrogold-pos-SCONJ.html">SCONJ</a></tt> (62; 30% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> (41; 20% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (13; 6% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (7; 3% instances), <tt><a href="pt_petrogold-pos-PUNCT.html">PUNCT</a></tt> (7; 3% instances), <tt><a href="pt_petrogold-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (2; 1% instances)
+Children of `DET` nodes belong to 8 different parts of speech: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (71; 35% instances), <tt><a href="pt_petrogold-pos-SCONJ.html">SCONJ</a></tt> (61; 30% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> (40; 20% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (10; 5% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (7; 3% instances), <tt><a href="pt_petrogold-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="pt_petrogold-pos-PUNCT.html">PUNCT</a></tt> (5; 2% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (2; 1% instances)
 

@@ -12,15 +12,15 @@ udver: '2'
 # UD Italian Valico
 
 Language: [Italian](/it/index.html) (code: `it`)<br/>
-Family: Indo-European, Romance
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.8 release.
 
 The following people have contributed to making this treebank part of UD: Elisa Di Nuovo, Manuela Sanguinetti, Cristina Bosco, Alessandro Mazzei.
 
 Repository: [UD_Italian-Valico](https://github.com/UniversalDependencies/UD_Italian-Valico)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_valico214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_valico215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

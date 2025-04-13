@@ -65,4 +65,4 @@ parataxis(ended,Postojna-12)
 ~~~
 
 Only parenthetical clauses with verbs receive the `parataxis` relation. See the `discourse` relation for more on parenthetical interjections (e.g., *Že vidimo, kajne, kako nam Kajn postaja bližji*). If an element is set off from the rest of the sentence by some type of punctuation mainly for adding stylistic emphasis—that is to say, it could function just as well within the sentence without the punctuation (for example, *Kolikor vem, ima ta beseda, vsaj pri večini ljudi, negativen prizvok* or *V minulih dveh tednih smo, res ne pretirano javno, pripravljali ukrepe*)—then the element is analyzed as an ordinary internal element, not as `parataxis`. 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:43 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:24 CET -->

@@ -48,8 +48,8 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 11 10 nummod	color:blue
 1	נכון	נכון	ADV	ADV	_	3	case	_	_
 2	ל	ל	ADP	ADP	_	1	fixed	_	_
-3	שנת	שנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	6	obl	_	_
-4	2021	2021	NUM	NUM	_	3	compound	_	SpaceAfter=No
+3	שנת	שנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	6	obl	_	Entity=(TIMEX
+4	2021	2021	NUM	NUM	_	3	compound	_	Entity=TIMEX)|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	3	punct	_	_
 6	נכללים	נכלל	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Plur|Person=3|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	_
 7	ב	ב	ADP	ADP	_	8	case	_	_
@@ -79,7 +79,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 8	%	%	SYM	SYM	Gender=Masc|Number=Plur	4	obl	_	_
 9	(	(	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
 10	ממוצע	ממוצע	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	8	appos	_	_
-11	גלוקוז	גלוקוז	NOUN	NOUN	Gender=Masc|Number=Sing	10	compound	_	_
+11	גלוקוז	גלוקוז	NOUN	NOUN	Gender=Masc|Number=Sing	10	compound	_	Entity=(MISC)
 12	ב	ב	ADP	ADP	Definite=Def|PronType=Art	13	case	_	_
 13	דם	דם	NOUN	NOUN	Gender=Masc|Number=Sing	10	nmod	_	_
 14	של	של	ADP	ADP	Case=Gen	16	case	_	_

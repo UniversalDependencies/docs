@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="pt_petrogold-pos-VE
 
 20353 <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="pt_petrogold-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (16107; 79%), <tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (13046; 64%), <tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12961; 64%), <tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12891; 63%), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11573; 57%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10333; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="pt_petrogold-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (16349; 80%), <tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (13046; 64%), <tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12961; 64%), <tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12891; 63%), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11573; 57%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10333; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 

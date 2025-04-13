@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>satu</em> (<tt><a href="id_gsd-pos-NU
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.010169 (the average of all parts of speech is 1.120254).
+The form / lemma ratio of `NUM` is 1.010169 (the average of all parts of speech is 1.120343).
 
 The 1st highest number of forms (2) was observed with the lemma “14”: <em>14, 14,8</em>.
 
@@ -77,7 +77,7 @@ Examples: <em>satu, dua, 1, 2, 3, tiga, 5, 2010, 4, 2006</em>
 
 `NUM` nodes are attached to their parents using 19 different relations: <tt><a href="id_gsd-dep-nummod.html">nummod</a></tt> (3777; 89% instances), <tt><a href="id_gsd-dep-obl-tmod.html">obl:tmod</a></tt> (136; 3% instances), <tt><a href="id_gsd-dep-flat.html">flat</a></tt> (129; 3% instances), <tt><a href="id_gsd-dep-appos.html">appos</a></tt> (78; 2% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (44; 1% instances), <tt><a href="id_gsd-dep-nmod-tmod.html">nmod:tmod</a></tt> (22; 1% instances), <tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt> (18; 0% instances), <tt><a href="id_gsd-dep-obj.html">obj</a></tt> (14; 0% instances), <tt><a href="id_gsd-dep-root.html">root</a></tt> (13; 0% instances), <tt><a href="id_gsd-dep-obl.html">obl</a></tt> (12; 0% instances), <tt><a href="id_gsd-dep-compound.html">compound</a></tt> (5; 0% instances), <tt><a href="id_gsd-dep-nmod.html">nmod</a></tt> (5; 0% instances), <tt><a href="id_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt> (5; 0% instances), <tt><a href="id_gsd-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="id_gsd-dep-iobj.html">iobj</a></tt> (2; 0% instances), <tt><a href="id_gsd-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (2329; 55% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (1046; 25% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (437; 10% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (308; 7% instances), <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (95; 2% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (22; 1% instances),  (13; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `NUM` nodes belong to 10 different parts of speech: <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (2330; 55% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (1046; 25% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (437; 10% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (308; 7% instances), <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (95; 2% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (22; 1% instances),  (13; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt> (1; 0% instances)
 
 3071 (72%) `NUM` nodes are leaves.
 

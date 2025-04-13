@@ -157,4 +157,4 @@ and inflect for case and number.
 
 * Haspelmath, Martin. 1995. The converb as a cross-linguistically valid category. _Converbs in Cross-Linguistic Perspective: Structure and Meaning of Adverbial Verb Forms – Adverbial Participles, Gerunds –,_ edited by Martin Haspelmath and Ekkehard König, Berlin: Mouton de Gruyter, Empirical Approaches to Language Typology, 1–56.
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:27 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:10 CET -->

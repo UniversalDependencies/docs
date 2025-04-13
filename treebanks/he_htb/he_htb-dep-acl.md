@@ -37,12 +37,12 @@ The following 22 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 10 acl	color:blue
-1	מדוע	מדוע	ADV	ADV	PronType=Int	3	advmod	_	_
+1	מדוע	מדוע	ADV	ADV	PronType=Int	3	advmod	_	CxnElt=3:Interrogative-WHInfo-Direct.WHWord
 2	לא	לא	ADV	ADV	Polarity=Neg	3	advmod	_	_
-3	ייתכן	ייתכן	ADV	ADV	_	0	root	_	Modal=Yes
+3	ייתכן	ייתכן	ADV	ADV	_	0	root	_	Cxn=Interrogative-WHInfo-Direct|CxnElt=3:Interrogative-WHInfo-Direct.Clause|Modal=Yes
 4	ש	ש	SCONJ	SCONJ	_	5	mark	_	_
-5	קיים	קיים	ADJ	ADJ	Gender=Masc|Number=Sing	3	ccomp	_	_
-6	מספר	מספר	NOUN	NOUN	Gender=Masc|Number=Sing	5	nsubj	_	_
+5	קיים	קיים	ADJ	ADJ	Gender=Masc|Number=Sing	3	ccomp	_	Cxn=Existential-ExistPred-FullVerb
+6	מספר	מספר	NOUN	NOUN	Gender=Masc|Number=Sing	5	nsubj	_	CxnElt=5:Existential-ExistPred-FullVerb.Pivot
 7	ראשוני	ראשוני	ADJ	ADJ	Gender=Masc|Number=Sing	6	amod	_	_
 8	גדול	גדול	ADJ	ADJ	Gender=Masc|Number=Sing	6	amod	_	_
 9	יותר	יותר	ADV	ADV	_	8	advmod	_	_

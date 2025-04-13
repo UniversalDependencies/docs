@@ -84,7 +84,7 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="la_circse-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (12; 67%),
 <tt>VERB --[<tt><a href="la_circse-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (7; 58%),
 <tt>VERB --[<tt><a href="la_circse-dep-flat-redup.html">flat:redup</a></tt>]--> VERB</tt> (4; 100%),
-<tt>VERB --[<tt><a href="la_circse-dep-parataxis-reporting.html">parataxis:reporting</a></tt>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<tt><a href="la_circse-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<tt><a href="la_circse-dep-parataxis-reporting.html">parataxis:reporting</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="la_circse-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (1; 100%).
 

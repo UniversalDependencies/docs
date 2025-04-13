@@ -29,13 +29,13 @@ The 2nd highest number of forms (1) was observed with the lemma “'”: <em>'</
 
 The 3rd highest number of forms (1) was observed with the lemma “(”: <em>(</em>.
 
-`PUNCT` occurs with 1 features: <tt><a href="es_pud-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
+`PUNCT` occurs with 3 features: <tt><a href="es_pud-feat-PunctType.html">PunctType</a></tt> (2289; 100% instances), <tt><a href="es_pud-feat-PunctSide.html">PunctSide</a></tt> (110; 5% instances), <tt><a href="es_pud-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
 
-`PUNCT` occurs with 1 feature-value pairs: `Foreign=Yes`
+`PUNCT` occurs with 12 feature-value pairs: `Foreign=Yes`, `PunctSide=Fin`, `PunctSide=Ini`, `PunctType=Brck`, `PunctType=Colo`, `PunctType=Comm`, `PunctType=Dash`, `PunctType=Elip`, `PunctType=Peri`, `PunctType=Qest`, `PunctType=Quot`, `PunctType=Semi`
 
-`PUNCT` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (2289 tokens).
-Examples: <em>,, ., ", (, ), :, ;, -, ?, ¿</em>
+`PUNCT` occurs with 12 feature combinations.
+The most frequent feature combination is `PunctType=Comm` (998 tokens).
+Examples: <em>,</em>
 
 
 ## Relations

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fro_profiterole-dep-aux.html">aux</a></tt>.
 
-1106 nodes (0%) are attached to their parents as `aux:pass`.
+1158 nodes (0%) are attached to their parents as `aux:pass`.
 
-994 instances of `aux:pass` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.54882459312839.
+1046 instances of `aux:pass` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.53454231433506.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (1097; 99% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (4; 0% instances).
+The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (1147; 99% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

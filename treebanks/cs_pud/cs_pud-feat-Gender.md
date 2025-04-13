@@ -14,14 +14,14 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 9481 tokens (51%) have a non-empty value of `Gender`.
 6232 types (82%) occur at least once with a non-empty value of `Gender`.
-4158 lemmas (79%) occur at least once with a non-empty value of `Gender`.
+4159 lemmas (79%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 8 part-of-speech tags: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (4338; 23% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (2229; 12% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (966; 5% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (879; 5% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (644; 3% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (260; 1% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (103; 1% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (62; 0% instances).
 
 ### `NOUN`
 
 4338 <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4330; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3086; 71%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2424; 56%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3086; 71%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2424; 56%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
@@ -44,13 +44,13 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>letech</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (1856) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (1857) occur only with one value of `Gender`.
 
 ### `ADJ`
 
 2229 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2060; 92%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1814; 81%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1814; 81%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1748; 78%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1459; 65%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1361; 61%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2060; 92%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1969; 88%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1814; 81%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1814; 81%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1459; 65%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1361; 61%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
@@ -70,15 +70,15 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
   <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>známé</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td></td><td></td><td><em>neznámé</em></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td></td><td><em>známá</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td></td><td></td><td><em>známo</em></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>známa</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td></td><td></td><td><em>známo</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>známa</em></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `PROPN`
 
 966 <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> tokens (89% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (966; 100%), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (897; 93%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (834; 86%).
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (897; 93%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (834; 86%).
 
 `PROPN` tokens may have the following values of `Gender`:
 
@@ -153,7 +153,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 260 <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> tokens (38% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (260; 100%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (260; 100%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (260; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (260; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (260; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (242; 93%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (155; 60%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="cs_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (260; 100%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (260; 100%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (260; 100%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (260; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (260; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (260; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (242; 93%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (155; 60%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -169,8 +169,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
   <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td></td><td><em>byli</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>nebyly</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>byly</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td></td><td><em>byl</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td></td><td><em>nebyl</em></td><td></td><td><em>nebylo</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td></td><td><em>nebyl, byl</em></td><td></td><td><em>nebylo</em></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td></td><td><em>byl</em></td><td><em>byla</em></td><td><em>bylo</em></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td><em>nebyla</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>byla</em></td><td></td><td></td><td></td></tr>

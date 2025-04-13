@@ -37,8 +37,8 @@ The 1st highest number of forms (9) was observed with the lemma “_”: <em>a, 
 `ADV` occurs with 1 feature-value pairs: `Polarity=Neg`
 
 `ADV` occurs with 2 feature combinations.
-The most frequent feature combination is `Polarity=Neg` (6 tokens).
-Examples: <em>ga, a, se</em>
+The most frequent feature combination is `_` (6 tokens).
+Examples: <em>eng, fela, leng, maabane, mang, thata</em>
 
 
 ## Relations

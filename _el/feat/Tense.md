@@ -77,4 +77,4 @@ the finite verbal formations of Modern Greek; the latter preserve their normal t
 * _θα είχα γραφτεί.INF_ "Ι would have been written"
 
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:24 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:07 CET -->

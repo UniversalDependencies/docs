@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-19524 tokens (24%) have a non-empty value of `Definite`.
-7270 types (71%) occur at least once with a non-empty value of `Definite`.
-4191 lemmas (71%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 9 part-of-speech tags: <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (13613; 17% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (3368; 4% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (2036; 3% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (378; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (109; 0% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+19523 tokens (24%) have a non-empty value of `Definite`.
+7269 types (71%) occur at least once with a non-empty value of `Definite`.
+4177 lemmas (71%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 9 part-of-speech tags: <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (13612; 17% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (3368; 4% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (2036; 3% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (378; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (109; 0% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-13613 <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Definite`.
+13612 <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9646; 71%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9645; 71%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
 * `Def` (2908; 21% of non-empty `Definite`): <em>málið, árið, leikunum, klukkan, ríkið, landinu, svarið, liðinu, liðið, tímann</em>
-* `Ind` (10705; 79% of non-empty `Definite`): <em>forseti, menn, þingmaður, mál, ráðherra, fólk, tíma, máli, m, frú</em>
+* `Ind` (10704; 79% of non-empty `Definite`): <em>forseti, menn, þingmaður, mál, ráðherra, fólk, tíma, máli, m, frú</em>
 * `EMPTY` (32): <em>Frú, kl., móti, stundum, 110, 18, F42, Innheimtu, baka, bönnum</em>
 
 <table>
@@ -84,7 +84,7 @@ The most frequent other feature values with which `PROPN` and `Definite` co-occu
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Ólympíuleikar</em></td><td><em>Ólympíuleikarnir</em></td></tr>
 </table>
 
-`Definite` seems to be **lexical feature** of `PROPN`. 96% lemmas (632) occur only with one value of `Definite`.
+`Definite` seems to be **lexical feature** of `PROPN`. 96% lemmas (628) occur only with one value of `Definite`.
 
 ### `DET`
 
@@ -199,7 +199,7 @@ The most frequent other feature values with which `X` and `Definite` co-occurred
 
 * `Def` (1; 33% of non-empty `Definite`): <em>skyttunar</em>
 * `Ind` (2; 67% of non-empty `Definite`): <em>final-four, nýafstöðu</em>
-* `EMPTY` (87): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
+* `EMPTY` (88): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
 
 ### `NUM`
 

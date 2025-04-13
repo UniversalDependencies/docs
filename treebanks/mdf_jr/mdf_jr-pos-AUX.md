@@ -52,19 +52,19 @@ Examples: <em>аф</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 10 different relations: <tt><a href="mdf_jr-dep-aux-neg.html">aux:neg</a></tt> (114; 70% instances), <tt><a href="mdf_jr-dep-cop.html">cop</a></tt> (19; 12% instances), <tt><a href="mdf_jr-dep-aux-nec.html">aux:nec</a></tt> (10; 6% instances), <tt><a href="mdf_jr-dep-aux.html">aux</a></tt> (6; 4% instances), <tt><a href="mdf_jr-dep-aux-cnd.html">aux:cnd</a></tt> (4; 2% instances), <tt><a href="mdf_jr-dep-aux-opt.html">aux:opt</a></tt> (3; 2% instances), <tt><a href="mdf_jr-dep-conj.html">conj</a></tt> (3; 2% instances), <tt><a href="mdf_jr-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="mdf_jr-dep-aux-q.html">aux:q</a></tt> (1; 1% instances), <tt><a href="mdf_jr-dep-cc-preconj.html">cc:preconj</a></tt> (1; 1% instances)
+`AUX` nodes are attached to their parents using 11 different relations: <tt><a href="mdf_jr-dep-aux.html">aux</a></tt> (86; 53% instances), <tt><a href="mdf_jr-dep-aux-neg.html">aux:neg</a></tt> (33; 20% instances), <tt><a href="mdf_jr-dep-cop.html">cop</a></tt> (19; 12% instances), <tt><a href="mdf_jr-dep-aux-nec.html">aux:nec</a></tt> (10; 6% instances), <tt><a href="mdf_jr-dep-aux-cnd.html">aux:cnd</a></tt> (4; 2% instances), <tt><a href="mdf_jr-dep-aux-opt.html">aux:opt</a></tt> (3; 2% instances), <tt><a href="mdf_jr-dep-conj.html">conj</a></tt> (3; 2% instances), <tt><a href="mdf_jr-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="mdf_jr-dep-aux-q.html">aux:q</a></tt> (1; 1% instances), <tt><a href="mdf_jr-dep-cc-preconj.html">cc:preconj</a></tt> (1; 1% instances), <tt><a href="mdf_jr-dep-det.html">det</a></tt> (1; 1% instances)
 
-Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (106; 65% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (19; 12% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (14; 9% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (12; 7% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> (1; 1% instances)
+Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (106; 65% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (19; 12% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (15; 9% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (12; 7% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances)
 
-158 (97%) `AUX` nodes are leaves.
+157 (96%) `AUX` nodes are leaves.
 
-4 (2%) `AUX` nodes have one child.
+5 (3%) `AUX` nodes have one child.
 
 1 (1%) `AUX` nodes have two children.
 
 The highest child degree of a `AUX` node is 2.
 
-Children of `AUX` nodes are attached using 5 different relations: <tt><a href="mdf_jr-dep-cc.html">cc</a></tt> (2; 33% instances), <tt><a href="mdf_jr-dep-advmod-eval.html">advmod:eval</a></tt> (1; 17% instances), <tt><a href="mdf_jr-dep-fixed.html">fixed</a></tt> (1; 17% instances), <tt><a href="mdf_jr-dep-punct.html">punct</a></tt> (1; 17% instances), <tt><a href="mdf_jr-dep-xcomp.html">xcomp</a></tt> (1; 17% instances)
+Children of `AUX` nodes are attached using 5 different relations: <tt><a href="mdf_jr-dep-cc.html">cc</a></tt> (2; 29% instances), <tt><a href="mdf_jr-dep-fixed.html">fixed</a></tt> (2; 29% instances), <tt><a href="mdf_jr-dep-advmod-eval.html">advmod:eval</a></tt> (1; 14% instances), <tt><a href="mdf_jr-dep-punct.html">punct</a></tt> (1; 14% instances), <tt><a href="mdf_jr-dep-xcomp.html">xcomp</a></tt> (1; 14% instances)
 
-Children of `AUX` nodes belong to 4 different parts of speech: <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (2; 33% instances), <tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (2; 33% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (1; 17% instances)
+Children of `AUX` nodes belong to 5 different parts of speech: <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (2; 29% instances), <tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (2; 29% instances), <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> (1; 14% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (1; 14% instances)
 

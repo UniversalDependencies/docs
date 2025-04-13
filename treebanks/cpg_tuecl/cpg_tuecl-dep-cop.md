@@ -22,17 +22,17 @@ The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 10 cop	color:blue
-1	«	«	PUNCT	PUNCT	_	8	punct	8:punct	SpaceAfter=No
-2	Ατό	αὐτό	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	4	det	4:det	_
-3	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
-4	μέτρο	(μέτρο)	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	6	amod	6:amod	_
-5	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	6:det	_
-6	κετσίμι	κετσίμι(geçim)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	8:nsubj	SpaceAfter=No
-7	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
-8	κετσίμι	κετσίμι(geçim)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	_
-9	τζό	τζο	PART	PART	_	8	advmod	8:advmod	_
-10	‘νι	είμαι	AUX	AUX	_	8	cop	8:cop	SpaceAfter=No
-11	.	.	PUNCT	PUNCT	_	8	punct	8:punct	_
+1	«	«	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No
+2	Ατό	αὐτό	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
+3	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	μέτρο	(μέτρο)	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	6	amod	_	_
+5	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
+6	κετσίμι	κετσίμι(geçim)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	8	punct	_	_
+8	κετσίμι	κετσίμι(geçim)	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+9	τζό	τζο	PART	PART	_	8	advmod	_	_
+10	‘νι	είμαι	AUX	AUX	_	8	cop	_	SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 ~~~
 
@@ -43,14 +43,14 @@ The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 cop	color:blue
-1	«	«	PUNCT	PUNCT	_	7	punct	7:punct	SpaceAfter=No
-2	Ατέ	αυτό	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	det	4:det	_
-3	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
-4	κουμάσι	κουμάσι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	7:nsubj	_
-5	εν	είμαι	AUX	AUX	_	7	cop	7:cop	_
-6	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	7:det	_
-7	μόνα	μόνα	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	0	root	0:root	SpaceAfter=No
-8	.	.	PUNCT	PUNCT	_	7	punct	7:punct	_
+1	«	«	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No
+2	Ατέ	αυτό	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
+3	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	κουμάσι	κουμάσι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+5	εν	είμαι	AUX	AUX	_	7	cop	_	_
+6	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
+7	μόνα	μόνα	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 ~~~
 
@@ -61,13 +61,13 @@ The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 cop	color:blue
-1	«	«	PUNCT	PUNCT	_	6	punct	6:punct	SpaceAfter=No
-2	Ε	Ε	INTJ	INTJ	_	6	discourse	6:discourse	_
-3	dόστοι	dόστη	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Plur	6	vocative	6:vocative	SpaceAfter=No
-4	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
-5	είστε	είμαι	AUX	AUX	_	6	cop	6:cop	_
-6	χαχλούδες	χαχλούς	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No
-7	.	.	PUNCT	PUNCT	_	6	punct	6:punct	_
+1	«	«	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No
+2	Ε	Ε	INTJ	INTJ	_	6	discourse	_	_
+3	dόστοι	dόστη	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Plur	6	vocative	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	3	punct	_	_
+5	είστε	είμαι	AUX	AUX	_	6	cop	_	_
+6	χαχλούδες	χαχλούς	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~
 

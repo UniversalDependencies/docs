@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-43399 tokens (14%) have a non-empty value of `Tense`.
-13990 types (26%) occur at least once with a non-empty value of `Tense`.
-3785 lemmas (17%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (35354; 11% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (8045; 3% instances).
+44606 tokens (14%) have a non-empty value of `Tense`.
+14343 types (26%) occur at least once with a non-empty value of `Tense`.
+3861 lemmas (17%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (36377; 11% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (8229; 3% instances).
 
 ### `VERB`
 
-35354 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Tense`.
+36377 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (32669; 92%), <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (30119; 85%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (28093; 79%), <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (24478; 69%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (23259; 66%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (23259; 66%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (23259; 66%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (23259; 66%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (23259; 66%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (23055; 65%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (33618; 92%), <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (31007; 85%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (28813; 79%), <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (25138; 69%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (23873; 66%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (23873; 66%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (23873; 66%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (23873; 66%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (23873; 66%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (23662; 65%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (1888; 5% of non-empty `Tense`): <em>būs, varēs, notiks, nebūs, turpinās, izdosies, dosies, kļūs, saņems, sāks</em>
-* `Past` (18129; 51% of non-empty `Tense`): <em>bija, teica, sāka, varēja, nebija, sacīja, norādīja, notika, gāja, kļuva</em>
-* `Pres` (15337; 43% of non-empty `Tense`): <em>ir, var, nav, nevar, notiek, saka, stāsta, uzskata, atrodas, liecina</em>
-* `EMPTY` (12601): <em>varētu, izmantot, strādāt, darīt, būt, atrast, runāt, dzīvot, teikt, vajadzētu</em>
+* `Fut` (1952; 5% of non-empty `Tense`): <em>būs, varēs, notiks, nebūs, turpinās, izdosies, dosies, kļūs, saņems, spēs</em>
+* `Past` (18663; 51% of non-empty `Tense`): <em>bija, teica, sāka, varēja, nebija, sacīja, notika, norādīja, gāja, kļuva</em>
+* `Pres` (15762; 43% of non-empty `Tense`): <em>ir, var, nav, nevar, notiek, saka, uzskata, stāsta, atrodas, liecina</em>
+* `EMPTY` (12899): <em>varētu, izmantot, strādāt, darīt, būt, atrast, izmantojot, runāt, teikt, dzīvot</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -95,16 +95,16 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-8045 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Tense`.
+8229 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8045; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7850; 98%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (7690; 96%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7690; 96%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt> (7138; 89%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6860; 85%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8229; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8030; 98%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (7864; 96%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7864; 96%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt> (7300; 89%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7022; 85%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (486; 6% of non-empty `Tense`): <em>būs, tiks, nebūs, netiks, būsim, būsi, nebūsi, būšot, būšu, nebūsim</em>
-* `Past` (1897; 24% of non-empty `Tense`): <em>bija, tika, nebija, bijis, biju, bijusi, netika, bijām, bijuši, tikusi</em>
-* `Pres` (5662; 70% of non-empty `Tense`): <em>ir, nav, tiek, esmu, esot, esam, esi, netiek, neesmu, neesot</em>
-* `EMPTY` (664): <em>būtu, būt, jābūt, nebūtu, tikt, tiktu, netiktu, būdams, esiet, būdami</em>
+* `Fut` (503; 6% of non-empty `Tense`): <em>būs, tiks, nebūs, netiks, būšot, būsim, būsi, būšu, nebūsi, nebūsim</em>
+* `Past` (1960; 24% of non-empty `Tense`): <em>bija, tika, nebija, bijis, biju, bijusi, netika, bijām, bijuši, tikusi</em>
+* `Pres` (5766; 70% of non-empty `Tense`): <em>ir, nav, tiek, esmu, esot, esam, esi, netiek, neesmu, neesot</em>
+* `EMPTY` (689): <em>būtu, būt, jābūt, nebūtu, tikt, tiktu, netiktu, būdams, esiet, būdami</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -135,7 +135,8 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (4987; 78%),
+<tt>VERB --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (5160; 78%),
+<tt>VERB --[<tt><a href="lv_lvtb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (121; 51%),
 <tt>VERB --[<tt><a href="lv_lvtb-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> VERB</tt> (10; 91%),
 <tt>AUX --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (9; 75%),
 <tt>AUX --[<tt><a href="lv_lvtb-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (4; 100%),

@@ -9,31 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="koi_uh-dep-aux.html">aux</a></tt>.
 There are also 2 other language-specific subtypes of `aux`: <tt><a href="koi_uh-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="koi_uh-dep-aux-pot.html">aux:pot</a></tt>.
 
-26 nodes (2%) are attached to their parents as `aux:neg`.
+6 nodes (1%) are attached to their parents as `aux:neg`.
 
-25 instances of `aux:neg` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.38461538461538.
+5 instances of `aux:neg` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.33333333333333.
 
-The following 5 pairs of parts of speech are connected with `aux:neg`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (20; 77% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (2; 8% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (2; 8% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 4% instances).
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 aux:neg	color:blue
-1	Висьтала	висьтавны	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg1
-2	тай	тай	ADV	_	_	1	advmod	_	SpaceAfter=No
-3	,	,	PUNCT	CLB	_	8	punct	_	_
-4	бур	бур	ADJ	_	Case=Nom|Number=Sing	5	amod	_	GTtags=Sg,Nom
-5	олан	олан	NOUN	_	Case=Nom|Number=Sing	8	obj	_	GTtags=Sg,Nom
-6	ӧтикӧ	ӧтикӧ	ADV	Num	Case=Ill|Number=Sing|NumType=Card	8	advmod	_	GTtags=Card,Der/MWN,N,Sg,Ill
-7	эг	оз	AUX	_	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Past	8	aux:neg	_	GTtags=Neg,Ind,Prt1,Pl1
-8	адззыв	адззывны	VERB	_	Connegative=Yes	1	ccomp	_	SpaceAfter=No
-9	.	.	PUNCT	CLB	_	1	punct	_	_
-
-~~~
+The following 5 pairs of parts of speech are connected with `aux:neg`: <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (2; 33% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 17% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 17% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 17% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
@@ -47,6 +28,23 @@ The following 5 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 3	не	не	AUX	Pcle	_	4	aux:neg	_	GTtags=Pcle
 4	ӧтнам	ӧтнам	ADV	Adv	_	0	root	_	GTtags=Adv|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	GTtags=CLB
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 aux:neg	color:blue
+1	Менам	ме	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	GTtags=Pers,Sg1,Gen
+2	йöрнöс	йӧрнӧс	NOUN	N	Case=Nom|Number=Sing	4	nsubj:cop	_	GTtags=Sg,Nom
+3	не	не	AUX	Pcle	Polarity=Neg	4	aux:neg	_	GTtags=Neg
+4	сэтшöм	сэтшӧм	ADJ	A	Case=Nom|Number=Sing|PronType=Dem	0	root	_	GTtags=Adn,Dem,Der/MWN,Sg,Nom
+5	кыдз	кыдз	ADV	Adv	_	6	mark	_	_
+6	тэнат	тэ	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	conj	_	GTtags=Pers,Sg2,Gen|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

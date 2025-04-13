@@ -1206,7 +1206,7 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 10 relation subtypes: <a>compound:redup</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>discourse:sp</a>, <a>flat:foreign</a>, <a>flat:vv</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
-      <li>The following 5 relation types are not used in this corpus at all: <a>appos</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a>, <a>dep</a></li>
+      <li>The following 4 relation types are not used in this corpus at all: <a>goeswith</a>, <a>reparandum</a>, <a>punct</a>, <a>dep</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">

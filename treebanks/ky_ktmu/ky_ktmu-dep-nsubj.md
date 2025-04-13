@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-653 nodes (9%) are attached to their parents as `nsubj`.
+2241 nodes (9%) are attached to their parents as `nsubj`.
 
-648 instances of `nsubj` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.895865237366.
+2236 instances of `nsubj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.413208389112.
 
-The following 15 pairs of parts of speech are connected with `nsubj`: <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (436; 67% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (75; 11% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> (57; 9% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (29; 4% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (26; 4% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `nsubj`: <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (1636; 73% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (269; 12% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (123; 5% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (81; 4% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> (59; 3% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (17; 1% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (16; 1% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (12; 1% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -54,18 +54,14 @@ The following 15 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 1 nsubj	color:blue
-1	Биз	Биз	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
-2	эми	эми	DET	DET	_	1	det	_	_
-3	анча	анча	ADJ	ADJ	Case=Nom|Number=Sing	6	amod	_	SpaceAfter=No
-4	-	-	PUNCT	PCT	_	3	punct	_	SpaceAfter=No
-5	мынча	мынча	ADJ	ADJ	Case=Nom|Number=Sing	3	compound	_	_
-6	акчалуу	акчалуу	ADV	ADV	_	7	advmod	_	_
-7	болуп	бол	VERB	VB	Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Conv	8	ccomp	_	_
-8	калдык	кал	VERB	VB	Aspect=Perf|Mood=Ind|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-9	.	.	PUNCT	PCT	_	8	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 nsubj	color:blue
+1	Билгендерим	Билген	VERB	VB	Case=Gen|Number=Plur|Person=1|Polarity=Pos|Tense=Past|VerbForm=Vnoun	4	nsubj	_	_
+2	мага	мен	PRON	PRP	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+3	керек	керек	NOUN	NN	Case=Nom|Number=Sing|Person=3	4	nmod	_	_
+4	болот	бол	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	PCT	_	4	punct	_	_
 
 ~~~
 

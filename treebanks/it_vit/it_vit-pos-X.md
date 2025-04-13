@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>station</em> (<tt><a href="it_vit-pos
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.502468).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.502411).
 
 The 1st highest number of forms (2) was observed with the lemma “work”: <em>station, work</em>.
 

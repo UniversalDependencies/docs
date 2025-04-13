@@ -32,5 +32,5 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>.i.</em>
-* `EMPTY` (210): <em>mór, maith, beag, mó, amháin, cóir, iomdha, ionann, mhór, bocht</em>
+* `EMPTY` (209): <em>mór, maith, beag, mó, amháin, cóir, iomdha, ionann, mhór, bocht</em>
 

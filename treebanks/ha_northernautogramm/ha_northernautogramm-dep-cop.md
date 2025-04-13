@@ -8,65 +8,72 @@ udver: '2'
 
 This relation is universal.
 
-19 nodes (0%) are attached to their parents as `cop`.
+30 nodes (1%) are attached to their parents as `cop`.
 
-19 instances of `cop` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26315789473684.
+30 instances of `cop` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.23333333333333.
 
-The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (12; 63% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (6; 32% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (1; 5% instances).
+The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (16; 53% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (10; 33% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (2; 7% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 cop	color:blue
-1	shinàː	_	AUX	nàː	Aspect=Prog|Gender=Masc	2	cop	_	AlignBegin=24520|AlignEnd=24687|Gloss=3Masc.Pred/Loc
-2	tàhe	tah-	VERB	_	ExtPos=ADV|VerbForm=Part|Voice=Stat	0	root	_	AlignBegin=24687|AlignEnd=24854|Gloss=walk.Part.Stat
-3	//	//	PUNCT	_	_	2	punct	_	AlignBegin=24854|AlignEnd=25020|Gloss=PUNCT
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 cop	color:blue
+1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	3	xcomp	_	AlignBegin=475515|AlignEnd=475666|Gloss=3Masc.Nom
+2	ɗai	ɗai	NUM	_	_	1	nmod	_	AlignBegin=475666|AlignEnd=475817|Gloss=one
+3	nàː	naː	PART	_	_	0	root	_	AlignBegin=475817|AlignEnd=475968|Gloss=Foc/Ident
+4	>+	>+	PUNCT	_	_	6	punct	_	AlignBegin=475968|AlignEnd=476119|Gloss=PUNCT
+5	at	_	AUX	aC	_	6	cop	_	AlignBegin=476119|AlignEnd=476270|Background=Yes|Gloss=Pred/Loc.Bkg
+6	tàushe	taus-	VERB	_	ExtPos=ADV|VerbForm=Part|Voice=Stat	3	advcl:cleft	_	AlignBegin=476270|AlignEnd=476421|Gloss=tackle.Part
+7	dà	dà	ADP	_	_	8	case	_	AlignBegin=476421|AlignEnd=476572|Gloss=with
+8	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	6	obl:arg	_	AlignBegin=476572|AlignEnd=476723|Gloss=3Fem.Nom
+9	koː	koː	CCONJ	_	PartType=Int	3	discourse	_	AlignBegin=476723|AlignEnd=476874|Gloss=or
+10	?//	?//	PUNCT	_	_	3	punct	_	AlignBegin=476874|AlignEnd=477025|Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 cop	color:blue
-1	sunàː	_	AUX	nàː	Aspect=Prog|Number=Plur	2	cop	_	AlignBegin=194794|AlignEnd=194968|Gloss=3Plur.Pred/Loc
-2	baːyuː	baːwàː	NOUN	_	Definite=Cons|Number=Plur	0	root	_	AlignBegin=194968|AlignEnd=195142|Gloss=slave.Plur.Cons
-3	=nai	=nai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	2	nmod	_	AlignBegin=194968|AlignEnd=195142|Gloss=3Masc.Gen
-4	>	>	PUNCT	_	_	6	punct	_	AlignBegin=195142|AlignEnd=195316|Gloss=PUNCT
-5	kaː	_	AUX	yaː	Aspect=Perf|Gender=Masc|Person=2	6	aux	_	AlignBegin=195316|AlignEnd=195490|Gloss=2Masc.Perf
-6	jiyàː	jiyàː	VERB	_	_	2	discourse	_	AlignBegin=195490|AlignEnd=195664|Gloss=hear
-7	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=195664|AlignEnd=195840|Gloss=PUNCT
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 cop	color:blue
+1	àbin	àbiː	NOUN	_	Definite=Cons|Gender=Masc	0	root	_	AlignBegin=144705|AlignEnd=144868|Gloss=thing.Masc.Cons
+2	dà	dà	SCONJ	_	_	4	mark	_	AlignBegin=144868|AlignEnd=145031|Gloss=REL
+3	ab	_	AUX	aC	_	4	cop	_	AlignBegin=145031|AlignEnd=145194|Background=Yes|Gloss=Ident/Foc.Bkg
+4	bambanciyas	bambanciyaː	NOUN	_	Definite=Cons|Gender=Fem	1	acl:relcl	_	AlignBegin=145194|AlignEnd=145357|Gloss=difference.Fem.Cons
+5	=sù	=su	PRON	_	Number=Plur|Person=3|PronType=Prs	4	nmod	_	AlignBegin=145194|AlignEnd=145357|Gloss=3Plur.Gen
+6	dà	dà	ADP	_	_	7	case	_	AlignBegin=145357|AlignEnd=145520|Gloss=with
+7	Hausaːwaː	Hausa	PROPN	_	Number=Plur	4	obl:arg	_	AlignBegin=145520|AlignEnd=145683|Gloss=Hausa.Plur
+8	?//	?//	PUNCT	_	_	1	punct	_	AlignBegin=145683|AlignEnd=145843|Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 cop	color:blue
-1	ta	ta	ADV	_	_	2	advmod	_	AlignBegin=139400|AlignEnd=139539|Gloss=then
-2	tanàː	_	AUX	nàː	Aspect=Prog|Gender=Fem|Person=3	0	root	_	AlignBegin=139400|AlignEnd=139539|Gloss=3Fem.Pred/Loc
-3	nan	nan	ADV	_	Definite=Def	2	obl:arg	_	AlignBegin=139539|AlignEnd=139678|Gloss=Def
-4	tanàː	_	AUX	nàː	Aspect=Prog|Gender=Fem|Person=3	6	aux	_	AlignBegin=139678|AlignEnd=139817|Gloss=3Fem.Prog
-5	ta	ta	PART	_	Aspect=Iter	6	advmod	_	AlignBegin=139817|AlignEnd=139956|Gloss=Iter
-6	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	conj	_	AlignBegin=139956|AlignEnd=140095|Gloss=eat.Vnoun.Masc.Cons
-7	naːmàː	naːmàː	NOUN	_	Gender=Masc	6	nmod	_	AlignBegin=140095|AlignEnd=140234|Gloss=meat.Masc
-8	|r	|r	PUNCT	_	_	10	punct	_	AlignBegin=140234|AlignEnd=140373|Gloss=PUNCT
-9	tanàː	_	AUX	nàː	Aspect=Prog|Gender=Fem	10	cop	_	AlignBegin=140373|AlignEnd=140512|Gloss=3Fem.Pred/Loc
-10	nan	nan	ADV	_	Definite=Def	2	conj	_	AlignBegin=140512|AlignEnd=140651|Gloss=Def
-11	tanàː	_	AUX	nàː	Aspect=Prog|Gender=Fem|Person=3	13	aux	_	AlignBegin=140651|AlignEnd=140790|Gloss=3Fem.Prog
-12	ta	ta	PART	_	Aspect=Iter	13	advmod	_	AlignBegin=140790|AlignEnd=140929|Gloss=Iter
-13	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	conj	_	AlignBegin=140929|AlignEnd=141068|Gloss=eat.Vnoun.Masc.Cons
-14	naːmàː	naːmàː	NOUN	_	Definite=Cons	13	nmod	_	AlignBegin=141068|AlignEnd=141207|Gloss=meat.Cons
-15	//	//	PUNCT	_	_	2	punct	_	AlignBegin=141207|AlignEnd=141341|Gloss=PUNCT
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 cop	color:blue
+1	X	X	X	_	_	13	dep	_	AlignBegin=106671|AlignEnd=125068|Gloss=X|Scrap=Yes|wordform=XX
+2	nan	nan	ADV	_	Definite=Def	13	advmod	_	AlignBegin=125500|AlignEnd=125801|Gloss=Def
+3	Galmaːwaː	Galmaːwaː	PROPN	_	_	2	appos	_	AlignBegin=125801|AlignEnd=126102|Gloss=Galmaːwaː
+4	<	<	PUNCT	_	_	2	punct	_	AlignBegin=126102|AlignEnd=126403|Gloss=PUNCT
+5	àbin	àbiː	NOUN	_	Definite=Cons|Gender=Masc	13	obl	_	AlignBegin=126403|AlignEnd=126704|Gloss=thing.Masc.Cons
+6	dà	dà	SCONJ	_	_	8	mark	_	AlignBegin=126704|AlignEnd=127005|Gloss=REL
+7	an	_	AUX	aC	_	8	cop	_	AlignBegin=127005|AlignEnd=127306|Background=Yes|Gloss=Ident/Foc.Bkg
+8	nan	nan	ADV	_	Definite=Def	5	acl:relcl	_	AlignBegin=127306|AlignEnd=127607|Gloss=Def
+9	<	<	PUNCT	_	_	8	punct	_	AlignBegin=127607|AlignEnd=127908|Gloss=PUNCT
+10	duy	dukà	DET	_	PronType=Tot	11	det	_	AlignBegin=127908|AlignEnd=128209|Gloss=all
+11	yawanciː	yawanciː	NOUN	_	_	13	nsubj	_	AlignBegin=128209|AlignEnd=128510|Gloss=majority
+12	Baːgayaːwaː	Baːgayaːwaː	PROPN	_	Number=Plur	13	xcomp	_	AlignBegin=128510|AlignEnd=128811|Gloss=Baːgayaːwaː
+13	nàː	nàː	PART	_	_	0	root	_	AlignBegin=128811|AlignEnd=129112|Gloss=Pred/Loc
+14	//	//	PUNCT	_	_	13	punct	_	AlignBegin=129112|AlignEnd=129410|Gloss=PUNCT
 
 ~~~
 

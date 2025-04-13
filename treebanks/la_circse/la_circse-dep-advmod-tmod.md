@@ -26,7 +26,7 @@ The following 6 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 1	nemo	nemo	PRON	L	Case=Nom|InflClass=IndEurX|Number=Sing|PronType=Neg	0	root	_	LiLaflcat=n7
 2	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	LASLAVariant=1|LiLaflcat=v6
 3	nisi	nisi	SCONJ	T	Polarity=Neg	4	mark	_	LiLaflcat=i
-4	ipse	ipse	DET	I	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	1	det	_	LiLaflcat=p
+4	ipse	ipse	DET	I	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	1	nsubj	_	LiLaflcat=p
 5	bella	bellum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	9	obj	_	LiLaflcat=n2
 6	iam	iam	ADV	M	Degree=Pos	9	advmod:tmod	_	LiLaflcat=i
 7	se	sui	PRON	G	Case=Abl|InflClass=LatAnom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	obl	_	LASLAVariant=1|LiLaflcat=p

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-2654 tokens (11%) have a non-empty value of `Person`.
-1092 types (18%) occur at least once with a non-empty value of `Person`.
-533 lemmas (12%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (1503; 6% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (486; 2% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (423; 2% instances), <tt><a href="gl_pud-pos-DET.html">DET</a></tt> (242; 1% instances).
+2657 tokens (11%) have a non-empty value of `Person`.
+1093 types (18%) occur at least once with a non-empty value of `Person`.
+534 lemmas (12%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (1503; 6% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (489; 2% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (423; 2% instances), <tt><a href="gl_pud-pos-DET.html">DET</a></tt> (242; 1% instances).
 
 ### `VERB`
 
@@ -22,10 +22,10 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (122; 8% of non-empty `Person`): <em>tiña, era, Avanzamos, cremos, deixamos, espero, Avaliaremos, Avistei, Conmovera, Contamos</em>
+* `1` (121; 8% of non-empty `Person`): <em>tiña, era, Avanzamos, cremos, deixamos, espero, Avaliaremos, Avistei, Conmovera, Contamos</em>
 * `2` (5; 0% of non-empty `Person`): <em>Acabas, aforas, decatastes, dominaches, oes</em>
-* `3` (1376; 92% of non-empty `Person`): <em>hai, dixo, ten, tivo, comezou, fixo, declarou, é, afirmou, converteu</em>
-* `EMPTY` (753): <em>facer, ver, ter, manter, axudar, debido, deixar, enviar, establecer, partir</em>
+* `3` (1377; 92% of non-empty `Person`): <em>hai, dixo, ten, tivo, comezou, fixo, declarou, é, afirmou, converteu</em>
+* `EMPTY` (754): <em>facer, ver, ter, manter, axudar, debido, deixar, enviar, establecer, partir</em>
 
 <table>
   <tr><th>Paradigm <i>ter</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -45,18 +45,18 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-486 <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> tokens (52% of all `PRON` tokens) have a non-empty value of `Person`.
+489 <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> tokens (52% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="gl_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (481; 99%), <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (398; 82%), <tt><a href="gl_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (389; 80%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (318; 65%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="gl_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (484; 99%), <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (400; 82%), <tt><a href="gl_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (391; 80%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (319; 65%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (30; 6% of non-empty `Person`): <em>me, nos, eu, nós</em>
+* `1` (31; 6% of non-empty `Person`): <em>me, nos, eu, min, nós</em>
 * `2` (3; 1% of non-empty `Person`): <em>te, ti, vos</em>
-* `3` (453; 93% of non-empty `Person`): <em>se, lle, o, el, ela, eles, a, lles, os, si</em>
+* `3` (455; 93% of non-empty `Person`): <em>se, lle, o, el, ela, eles, a, lles, os, si</em>
 * `EMPTY` (452): <em>que, isto, un, iso, quen, todo, cal, unha, a, o</em>
 
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (15) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (16) occur only with one value of `Person`.
 
 ### `AUX`
 
@@ -101,8 +101,8 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="gl_pud-dep-expl.html">expl</a></tt>]--> PRON</tt> (256; 78%),
-<tt>VERB --[<tt><a href="gl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (128; 78%),
+<tt>VERB --[<tt><a href="gl_pud-dep-expl.html">expl</a></tt>]--> PRON</tt> (257; 78%),
+<tt>VERB --[<tt><a href="gl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (129; 78%),
 <tt>VERB --[<tt><a href="gl_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (82; 58%),
 <tt>VERB --[<tt><a href="gl_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (40; 59%),
 <tt>VERB --[<tt><a href="gl_pud-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (23; 52%),

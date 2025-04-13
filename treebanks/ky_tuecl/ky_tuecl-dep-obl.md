@@ -44,7 +44,7 @@ The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	бирок	бирок	CCONJ	_	_	6	cc	_	_
 6	жакшы	жакшы	ADJ	_	_	3	conj	_	_
-7	эмес	_	ADV	_	_	6	advmod	_	SpaceAfter=No
+7	эмес	эмес	ADV	_	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

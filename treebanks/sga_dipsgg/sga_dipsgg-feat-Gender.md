@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 Some words have combined values of the feature; 1 combinations have been observed: `Masc|Neut`.
 
-51 tokens (13%) have a non-empty value of `Gender`.
-29 types (11%) occur at least once with a non-empty value of `Gender`.
+51 tokens (12%) have a non-empty value of `Gender`.
+29 types (10%) occur at least once with a non-empty value of `Gender`.
 20 lemmas (10%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 5 part-of-speech tags: <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> (28; 7% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (12; 3% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `ADJ`
 
-12 <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> tokens (41% of all `ADJ` tokens) have a non-empty value of `Gender`.
+12 <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> tokens (40% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="sga_dipsgg-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (12; 100%), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 100%), <tt><a href="sga_dipsgg-feat-Prefix.html">Prefix</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="sga_dipsgg-feat-Case.html">Case</a></tt><tt>=Nom</tt> (9; 75%).
 
@@ -51,7 +51,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 * `Fem` (4; 33% of non-empty `Gender`): <em>acher, bec, mar, mass</em>
 * `Masc` (5; 42% of non-empty `Gender`): <em>gann, glass, línech, naue</em>
 * `Neut` (3; 25% of non-empty `Gender`): <em>haill, minn, tana</em>
-* `EMPTY` (17): <em>nóib, cáin, dorchæ, droch, ferr, find, lainn, libardaib, mall, mar</em>
+* `EMPTY` (18): <em>nóib, cáin, displosa, dorchæ, droch, ferr, find, lainn, libardaib, mall</em>
 
 `Gender` seems to be **lexical feature** of `ADJ`. 100% lemmas (11) occur only with one value of `Gender`.
 
@@ -76,18 +76,18 @@ The most frequent other feature values with which `ADP` and `Gender` co-occurred
 `ADP` tokens may have the following values of `Gender`:
 
 * `Masc,Neut` (4; 100% of non-empty `Gender`): <em>and, de, foir, oco</em>
-* `EMPTY` (37): <em>do, hi, ar, dom, i, di, huas, dait, de, dún</em>
+* `EMPTY` (37): <em>do, hi, ar, dom, i, di, huas, dait, de, dv́n</em>
 
 ### `SCONJ`
 
-1 <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> tokens (8% of all `SCONJ` tokens) have a non-empty value of `Gender`.
+1 <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> tokens (7% of all `SCONJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `SCONJ` and `Gender` co-occurred: <tt><a href="sga_dipsgg-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (1; 100%).
+The most frequent other feature values with which `SCONJ` and `Gender` co-occurred: <tt><a href="sga_dipsgg-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sga_dipsgg-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (1; 100%).
 
 `SCONJ` tokens may have the following values of `Gender`:
 
 * `Neut` (1; 100% of non-empty `Gender`): <em>nach</em>
-* `EMPTY` (12): <em>ci, na, amal, ar, co, con, ma, ut</em>
+* `EMPTY` (13): <em>ci, na, ut, amal, ar, co, con, ma</em>
 
 ## Relations with Agreement in `Gender`
 

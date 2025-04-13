@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="fro_profiterole-dep-aux-pass.html">aux:pass</a></tt>.
 
-5143 nodes (2%) are attached to their parents as `aux`.
+5338 nodes (2%) are attached to their parents as `aux`.
 
-4629 instances of `aux` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.67937001749951.
+4820 instances of `aux` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.67403521918321.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (5043; 98% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (39; 1% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (37; 1% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (5236; 98% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (39; 1% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (38; 1% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

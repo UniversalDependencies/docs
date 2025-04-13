@@ -13,7 +13,7 @@ This relation is universal.
 103 instances of `appos` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 4.06796116504854.
 
-The following 19 pairs of parts of speech are connected with `appos`: <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (25; 24% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (21; 20% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (11; 11% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> (9; 9% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (8; 8% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-SYM.html">SYM</a></tt> (5; 5% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-X.html">X</a></tt> (5; 5% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="jv_csui-pos-X.html">X</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="jv_csui-pos-X.html">X</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="jv_csui-pos-X.html">X</a></tt>-<tt><a href="jv_csui-pos-X.html">X</a></tt> (1; 1% instances).
+The following 19 pairs of parts of speech are connected with `appos`: <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (25; 24% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (20; 19% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (11; 11% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> (9; 9% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (8; 8% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-SYM.html">SYM</a></tt> (5; 5% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-X.html">X</a></tt> (5; 5% instances), <tt><a href="jv_csui-pos-X.html">X</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="jv_csui-pos-X.html">X</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="jv_csui-pos-X.html">X</a></tt>-<tt><a href="jv_csui-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -43,24 +43,26 @@ The following 19 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 11 appos	color:blue
-1	Maskape	_	NOUN	_	Number=Sing	3	nsubj	_	_
-2	iki	_	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
-3	wujud	_	NOUN	_	Number=Sing	0	root	_	_
-4	anggota	_	NOUN	_	Number=Sing	3	nmod	_	_
-5	European	_	PROPN	_	_	4	nmod	_	_
-6	Low	_	PROPN	_	_	5	flat:foreign	_	_
-7	Fares	_	PROPN	_	_	5	flat:foreign	_	_
-8	Airline	_	PROPN	_	_	5	flat:foreign	_	_
-9	Association	_	PROPN	_	_	5	flat:foreign	_	_
-10	(	_	PUNCT	_	_	11	punct	_	SpaceAfter=No
-11	ELFAA	_	PROPN	_	_	5	appos	_	SpaceAfter=No
-12	)	_	PUNCT	_	_	11	punct	_	SpaceAfter=No
-13	.	_	PUNCT	_	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 appos	color:blue
+1	Budayawan	_	PROPN	_	_	7	nsubj	_	_
+2	Ponorogo	_	PROPN	_	_	1	flat:name	_	SpaceAfter=No
+3	,	_	PUNCT	_	_	4	punct	_	_
+4	Gondo	_	PROPN	_	_	1	appos	_	_
+5	Puspito	_	PROPN	_	_	4	flat:name	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	4	punct	_	_
+7	mratelakake	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+8	beksan	_	NOUN	_	Number=Sing	11	nsubj:pass	_	_
+9	Krido	_	PROPN	_	_	8	nmod	_	_
+10	Warok	_	PROPN	_	_	9	flat:name	_	_
+11	diripta	_	VERB	_	Mood=Ind|Voice=Pass	7	xcomp	_	_
+12	pisanan	_	ADP	_	_	13	case	_	_
+13	taunn	_	X	_	Typo=Yes	11	obl	_	CorrectForm=tahun
+14	1996	_	NUM	_	NumType=Card	13	nummod	_	SpaceAfter=No
+15	.	_	PUNCT	_	_	7	punct	_	SpacesAfter=\n
 
 ~~~
 

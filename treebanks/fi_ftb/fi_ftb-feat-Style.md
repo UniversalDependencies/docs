@@ -11,8 +11,8 @@ It occurs with 2 different values: `Arch`, `Coll`.
 
 4451 tokens (3%) have a non-empty value of `Style`.
 1684 types (4%) occur at least once with a non-empty value of `Style`.
-817 lemmas (4%) occur at least once with a non-empty value of `Style`.
-The feature is used with 14 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (877; 1% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (817; 1% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (517; 0% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (503; 0% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (465; 0% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (319; 0% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (291; 0% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (257; 0% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (204; 0% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (80; 0% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (49; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (37; 0% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (34; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+814 lemmas (4%) occur at least once with a non-empty value of `Style`.
+The feature is used with 14 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (877; 1% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (870; 1% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (517; 0% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (503; 0% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (465; 0% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (291; 0% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (266; 0% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (257; 0% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (204; 0% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (80; 0% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (49; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (37; 0% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (34; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -28,15 +28,15 @@ The most frequent other feature values with which `VERB` and `Style` co-occurred
 
 ### `PRON`
 
-817 <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> tokens (8% of all `PRON` tokens) have a non-empty value of `Style`.
+870 <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> tokens (8% of all `PRON` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (750; 92%), <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (658; 81%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (511; 63%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=1</tt> (439; 54%).
+The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (794; 91%), <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (711; 82%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (511; 59%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=1</tt> (477; 55%).
 
 `PRON` tokens may have the following values of `Style`:
 
-* `Coll` (817; 100% of non-empty `Style`): <em>mä, sä, tää, mun, sulle, mulla, sulla, mie, mua, mul</em>
+* `Coll` (870; 100% of non-empty `Style`): <em>mä, sä, mun, tää, sun, sulle, mulla, sulla, mie, mua</em>
 
-`Style` seems to be **lexical feature** of `PRON`. 100% lemmas (22) occur only with one value of `Style`.
+`Style` seems to be **lexical feature** of `PRON`. 100% lemmas (19) occur only with one value of `Style`.
 
 ### `ADV`
 
@@ -68,18 +68,6 @@ The most frequent other feature values with which `ADV` and `Style` co-occurred:
 
 `Style` seems to be **lexical feature** of `PART`. 100% lemmas (46) occur only with one value of `Style`.
 
-### `DET`
-
-319 <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> tokens (8% of all `DET` tokens) have a non-empty value of `Style`.
-
-The most frequent other feature values with which `DET` and `Style` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (243; 76%), <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (220; 69%).
-
-`DET` tokens may have the following values of `Style`:
-
-* `Coll` (319; 100% of non-empty `Style`): <em>tää, mun, semmonen, toi, noi, sun, nää, yks, tän, semmoseen</em>
-
-`Style` seems to be **lexical feature** of `DET`. 100% lemmas (29) occur only with one value of `Style`.
-
 ### `NOUN`
 
 291 <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Style`.
@@ -92,6 +80,18 @@ The most frequent other feature values with which `NOUN` and `Style` co-occurred
 * `Coll` (287; 99% of non-empty `Style`): <em>viikkoo, aikkaav, daideilijaa, ihmisist, juttuu, kotio, kuukkautteenkaa, lauantaiks, liftii, lähössä</em>
 
 `Style` seems to be **lexical feature** of `NOUN`. 100% lemmas (226) occur only with one value of `Style`.
+
+### `DET`
+
+266 <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> tokens (7% of all `DET` tokens) have a non-empty value of `Style`.
+
+The most frequent other feature values with which `DET` and `Style` co-occurred: <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (220; 83%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (199; 75%).
+
+`DET` tokens may have the following values of `Style`:
+
+* `Coll` (266; 100% of non-empty `Style`): <em>tää, semmonen, toi, noi, nää, yks, tän, semmoseen, tota, niit</em>
+
+`Style` seems to be **lexical feature** of `DET`. 100% lemmas (24) occur only with one value of `Style`.
 
 ### `AUX`
 

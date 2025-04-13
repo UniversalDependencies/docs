@@ -12,7 +12,7 @@ It occurs with 2 different values: `Fem`, `Masc`.
 24141 tokens (43%) have a non-empty value of `Gender`.
 4787 types (57%) occur at least once with a non-empty value of `Gender`.
 3451 lemmas (61%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> (11176; 20% instances), <tt><a href="it_partut-pos-DET.html">DET</a></tt> (8169; 15% instances), <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (2537; 5% instances), <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> (1448; 3% instances), <tt><a href="it_partut-pos-PRON.html">PRON</a></tt> (652; 1% instances), <tt><a href="it_partut-pos-AUX.html">AUX</a></tt> (157; 0% instances), <tt><a href="it_partut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> (11176; 20% instances), <tt><a href="it_partut-pos-DET.html">DET</a></tt> (8168; 15% instances), <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (2538; 5% instances), <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> (1448; 3% instances), <tt><a href="it_partut-pos-PRON.html">PRON</a></tt> (652; 1% instances), <tt><a href="it_partut-pos-AUX.html">AUX</a></tt> (157; 0% instances), <tt><a href="it_partut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -35,15 +35,15 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `DET`
 
-8169 <tt><a href="it_partut-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Gender`.
+8168 <tt><a href="it_partut-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="it_partut-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (7123; 87%), <tt><a href="it_partut-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (6177; 76%), <tt><a href="it_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5574; 68%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="it_partut-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (7123; 87%), <tt><a href="it_partut-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (6177; 76%), <tt><a href="it_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5573; 68%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (3572; 44% of non-empty `Gender`): <em>la, le, una, sua, un', questa, sue, queste, alcuna, tutte</em>
+* `Fem` (3571; 44% of non-empty `Gender`): <em>la, le, una, sua, un', questa, sue, queste, alcuna, tutte</em>
 * `Masc` (4597; 56% of non-empty `Gender`): <em>il, i, un, gli, suo, lo, questo, tutti, alcuni, suoi</em>
-* `EMPTY` (1353): <em>l', ogni, loro, tale, tali, qualsiasi, più, tal, cui, qualche</em>
+* `EMPTY` (1351): <em>l', ogni, loro, tale, tali, qualsiasi, più, tal, cui, qualche</em>
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -53,15 +53,15 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `ADJ`
 
-2537 <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> tokens (60% of all `ADJ` tokens) have a non-empty value of `Gender`.
+2538 <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> tokens (60% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="it_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1582; 62%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="it_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1583; 62%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (1136; 45% of non-empty `Gender`): <em>economica, prima, relative, altre, pericolose, stessa, nuova, nuove, altra, direttrici</em>
+* `Fem` (1137; 45% of non-empty `Gender`): <em>economica, prima, relative, altre, pericolose, stessa, nuova, nuove, altra, direttrici</em>
 * `Masc` (1401; 55% of non-empty `Gender`): <em>altri, europeo, primo, nuovo, stesso, finanziario, altro, nuovi, necessario, relativi</em>
-* `EMPTY` (1668): <em>presente, sociale, importante, maggiore, possibile, grande, strutturali, intellettuale, principali, teatrali</em>
+* `EMPTY` (1670): <em>presente, sociale, importante, maggiore, possibile, grande, strutturali, intellettuale, principali, teatrali</em>
 
 <table>
   <tr><th>Paradigm <i>altro</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -144,9 +144,9 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="it_partut-dep-det.html">det</a></tt>]--> DET</tt> (6716; 84%),
-<tt>NOUN --[<tt><a href="it_partut-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2044; 60%),
+<tt>NOUN --[<tt><a href="it_partut-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2045; 60%),
 <tt>NOUN --[<tt><a href="it_partut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (486; 55%),
-<tt>NOUN --[<tt><a href="it_partut-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (471; 85%),
+<tt>NOUN --[<tt><a href="it_partut-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (470; 85%),
 <tt>NOUN --[<tt><a href="it_partut-dep-acl.html">acl</a></tt>]--> VERB</tt> (421; 57%),
 <tt>VERB --[<tt><a href="it_partut-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (327; 96%),
 <tt>NOUN --[<tt><a href="it_partut-dep-det-predet.html">det:predet</a></tt>]--> DET</tt> (83; 98%),

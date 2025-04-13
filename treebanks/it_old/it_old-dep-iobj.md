@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-860 nodes (1%) are attached to their parents as `iobj`.
+1207 nodes (1%) are attached to their parents as `iobj`.
 
-642 instances of `iobj` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.35581395348837.
+914 instances of `iobj` (76%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.3976801988401.
 
-The following 8 pairs of parts of speech are connected with `iobj`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (787; 92% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (32; 4% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (30; 3% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `iobj`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1090; 90% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (55; 5% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (43; 4% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -36,41 +36,6 @@ The following 8 pairs of parts of speech are connected with `iobj`: <tt><a href=
 12	occhi	occhio	NOUN	sm2mp	Gender=Masc|Number=Plur	9	obj	_	Canto=33|SpaceAfter=No|Verso=149
 13	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 24 21 iobj	color:blue
-1	Queste	questo	DET	ad1fp	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	Canto=22|Verso=25
-2	parole	parola	NOUN	sf1fp	Gender=Fem|Number=Plur	5	nsubj	_	Canto=22|Verso=25
-3	Stazio	Stazio	PROPN	np	_	5	obj	_	Canto=22|Verso=25
-4	mover	muovere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	5	xcomp	_	Canto=22|Verso=25
-5	fenno	fare	VERB	vta1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=22|Verso=25
-6	un	uno	DET	_	Gender=Masc|Number=Sing	7	det	_	Canto=22|Verso=26
-7	poco	poco	ADV	_	_	4	advmod	_	Canto=22|Verso=26
-8	a	a	ADP	epskf	_	9	case	_	Canto=22|Verso=26
-9	riso	riso	NOUN	sm2ms	Gender=Masc|Number=Sing	4	obl	_	Canto=22|Verso=26
-10	pria	prima	ADV	b	_	5	advmod:lmod	_	Canto=22|SpaceAfter=No|Verso=26
-11	;	;	PUNCT	_	_	13	punct	_	_
-12	poscia	poscia	ADV	b	_	13	advmod:tmod	_	Canto=22|Verso=26
-13	rispuose	rispondere	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	Canto=22|SpaceAfter=No|Verso=26
-14	:	:	PUNCT	_	_	24	punct	_	_
-15	«	«	PUNCT	_	_	24	punct	_	SpaceAfter=No
-16	Ogne	ogni	DET	ai2ms	Gender=Masc|Number=Sing|PronType=Ind	18	det	_	Canto=22|Verso=27
-17	tuo	tuo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	Canto=22|Verso=27
-18	dir	dire	VERB	vta3fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	24	nsubj	_	Canto=22|Verso=27
-19	d'	di	ADP	eps	_	20	case	_	Canto=22|Verso=27
-20	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	18	nmod	_	Canto=22|Verso=27
-21	m'	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	24	iobj	_	Canto=22|Verso=27
-22	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	Canto=22|Verso=27
-23	caro	caro	ADJ	a1ms	Gender=Masc|Number=Sing	24	amod	_	Canto=22|Verso=27
-24	cenno	cenno	NOUN	sm2ms	Gender=Masc|Number=Sing	13	ccomp:reported	_	Canto=22|SpaceAfter=No|Verso=27
-25	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
@@ -104,6 +69,38 @@ The following 8 pairs of parts of speech are connected with `iobj`: <tt><a href=
 21	secondo	secondo	ADJ	an1ms	Gender=Masc|Number=Sing|NumType=Ord	17	conj	_	Canto=12|SpaceAfter=No|Verso=114
 22	»	»	PUNCT	_	_	17	punct	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	17	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 11 iobj	color:blue
+1	Vidi	vedere	VERB	vta2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=22|Verso=139
+2	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Canto=22|Verso=139
+3	figlia	figlia	NOUN	sf1fs	Gender=Fem|Number=Sing	1	obj	_	Canto=22|Verso=139
+4	di	di	ADP	epskg	_	5	case	_	Canto=22|Verso=139
+5	Latona	Latona	PROPN	np	_	3	nmod	_	Canto=22|Verso=139
+6	incensa	incendere	VERB	vtp2pra1fs	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	1	xcomp	_	Canto=22|Verso=139
+7	sanza	senza	ADP	eisk13	_	9	case	_	Canto=22|Verso=140
+8	quell'	quello	DET	ad1fs	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	Canto=22|Verso=140
+9	ombra	ombra	NOUN	sf1fs	Gender=Fem|Number=Sing	3	nmod	_	Canto=22|Verso=140
+10	che	che	PRON	pr	PronType=Rel	13	nsubj	_	Canto=22|Verso=140
+11	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	13	iobj	_	Canto=22|Verso=140
+12	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	Canto=22|Verso=140
+13	cagione	cagione	NOUN	sf3fs	Gender=Fem|Number=Sing	9	acl:relcl	_	Canto=22|Verso=140
+14	per	per	ADP	epskr	_	15	case	_	Canto=22|Verso=141
+15	che	che	PRON	pr	PronType=Rel	18	obl	_	Canto=22|Verso=141
+16	già	già	ADV	b	_	18	advmod:tmod	_	Canto=22|Verso=141
+17	la	la	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	obj	_	Canto=22|Verso=141
+18	credetti	credere	VERB	vta2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	13	acl:relcl	_	Canto=22|Verso=141
+19	rara	raro	ADJ	a1fs	Gender=Fem|Number=Sing	18	xcomp	_	Canto=22|Verso=141
+20	e	e	CCONJ	cscc	_	21	cc	_	Canto=22|Verso=141
+21	densa	denso	ADJ	a1fs	Gender=Fem|Number=Sing	19	conj	_	Canto=22|Verso=141|SpaceAfter=No
+22	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

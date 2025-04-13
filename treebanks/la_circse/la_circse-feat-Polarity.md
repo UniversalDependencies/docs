@@ -16,14 +16,14 @@ The feature is used with 9 part-of-speech tags: <tt><a href="la_circse-pos-PART.
 
 ### `PART`
 
-219 <tt><a href="la_circse-pos-PART.html">PART</a></tt> tokens (65% of all `PART` tokens) have a non-empty value of `Polarity`.
+219 <tt><a href="la_circse-pos-PART.html">PART</a></tt> tokens (63% of all `PART` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="la_circse-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (198; 90%).
+The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="la_circse-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (219; 100%), <tt><a href="la_circse-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (198; 90%).
 
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (219; 100% of non-empty `Polarity`): <em>non, ne, an, haut, haud, quin, num</em>
-* `EMPTY` (119): <em>o, ne, quidem, enim, quoque, nam, equidem, autem, igitur, namque</em>
+* `EMPTY` (129): <em>o, quoque, ne, quidem, enim, nam, equidem, autem, igitur, namque</em>
 
 ### `CCONJ`
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (25; 100% of non-empty `Polarity`): <em>nulla, nullis, nullo, nulli, nullum, nullam, nullas, nullus</em>
-* `EMPTY` (1040): <em>hoc, haec, ille, ipse, hic, quicquid, omnis, omne, ipsa, nostra</em>
+* `EMPTY` (1041): <em>hoc, haec, ille, ipse, hic, quicquid, omnis, omne, ipsa, nostra</em>
 
 ### `ADV`
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (21; 100% of non-empty `Polarity`): <em>nondum, numquam</em>
-* `EMPTY` (996): <em>iam, nunc, quid, sic, etiam, hinc, tamen, semper, adhuc, cur</em>
+* `EMPTY` (986): <em>iam, nunc, quid, sic, etiam, hinc, tamen, semper, adhuc, cur</em>
 
 ### `PRON`
 
@@ -76,7 +76,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (8; 100% of non-empty `Polarity`): <em>nemo, nihil</em>
-* `EMPTY` (706): <em>quae, te, qui, quod, me, quid, tibi, se, mihi, tu</em>
+* `EMPTY` (705): <em>quae, te, qui, quod, me, quid, tibi, se, mihi, tu</em>
 
 ### `ADJ`
 

@@ -150,4 +150,4 @@ For the rest, the nominative is used instead.
 * _О <b>боже</b>, в каком положении?!_ “Oh <b>god</b>, in what position?!”
 * _<b>Господи</b>! недопустимо так унижать людей!_ “<b>Lord</b>! it is unacceptable to humiliate people so!”
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:49 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:33 CET -->

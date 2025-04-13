@@ -13,4 +13,10 @@ The syntactical subject of the sentence, which corresponds to the causer (extern
 aux:caus(տանել, Ետ)
 obj(տանել, զնա)
 ~~~ 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:45 CEST -->
+
+
+### References
+
+Jensen, Hans. 1959. _Altarmenische Grammatik._ Heidelberg: Winter.
+Kocharov, Petr. 2023. Causatives in Classical Armenian. _Folia Linguistica_ 57/3: 593-627.
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:28 CET -->

@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 `PRON` tokens may have the following values of `Polite`:
 
 * `Form` (28; 100% of non-empty `Polite`): <em>See, Jy, sik, ju</em>
-* `EMPTY` (2553): <em>ik, hee, see, et, dat, dee, my, wat, sik, wy</em>
+* `EMPTY` (2565): <em>ik, hee, see, et, dat, dee, my, wat, sik, wy</em>
 
 ### `VERB`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `AUX` and `Polite` co-occurred
 `AUX` tokens may have the following values of `Polite`:
 
 * `Form` (5; 100% of non-empty `Polite`): <em>sünt, künnen, syt, willet</em>
-* `EMPTY` (1140): <em>is, was, het, hadde, weer, kan, syn, wil, sint, kun</em>
+* `EMPTY` (1139): <em>is, was, het, hadde, weer, kan, syn, wil, sint, kun</em>
 
 ## Relations with Agreement in `Polite`
 

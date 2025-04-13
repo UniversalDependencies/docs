@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="cs_pdt-pos-NUM.html
 
 ### `NUM`
 
-8530 <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
+8530 <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> tokens (92% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
 The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="cs_pdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (8530; 100%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7565; 89%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6163; 72%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6163; 72%).
 
@@ -31,9 +31,9 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 ## Relations with Agreement in `NumForm`
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
-<tt>NUM --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NUM</tt> (695; 99%),
-<tt>NUM --[<tt><a href="cs_pdt-dep-compound.html">compound</a></tt>]--> NUM</tt> (440; 100%),
-<tt>NUM --[<tt><a href="cs_pdt-dep-dep.html">dep</a></tt>]--> NUM</tt> (16; 94%),
+<tt>NUM --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NUM</tt> (695; 100%),
+<tt>NUM --[<tt><a href="cs_pdt-dep-compound.html">compound</a></tt>]--> NUM</tt> (438; 59%),
+<tt>NUM --[<tt><a href="cs_pdt-dep-dep.html">dep</a></tt>]--> NUM</tt> (16; 89%),
 <tt>NUM --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> NUM</tt> (11; 100%),
-<tt>NUM --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (10; 91%).
+<tt>NUM --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (10; 83%).
 

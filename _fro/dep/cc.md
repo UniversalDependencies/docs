@@ -26,4 +26,4 @@ A `cc` is the relation between a conjunct and a preceding coordinating conjuncti
 11	amonestement	_	NOUN	NOMcom	_	7	conj	_	_
 
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:50 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:32 CET -->

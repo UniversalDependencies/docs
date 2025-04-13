@@ -40,7 +40,7 @@ The following 6 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 advmod:emph	color:blue
-1	Эг	оз	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past	5	aux:neg	_	_
+1	Эг	оз	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past	5	aux	_	_
 2	нин	нин	ADV	Adv	_	5	advmod:emph	_	_
 3	сэтшӧма	сэтшӧма	ADV	Adv	_	5	advmod:mmod	_	_
 4	кут	кутны	AUX	V	Connegative=Yes	5	aux:aspect	_	_

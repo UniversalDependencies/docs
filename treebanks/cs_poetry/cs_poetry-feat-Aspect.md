@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 
-938 tokens (15%) have a non-empty value of `Aspect`.
+941 tokens (15%) have a non-empty value of `Aspect`.
 718 types (27%) occur at least once with a non-empty value of `Aspect`.
 510 lemmas (27%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (743; 12% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (133; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (61; 1% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (743; 12% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (136; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (61; 1% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -29,20 +29,19 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 ### `AUX`
 
-133 <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `Aspect`.
+136 <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (115; 86%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (112; 84%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (104; 78%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (102; 77%), <tt><a href="cs_poetry-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (87; 65%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (87; 65%), <tt><a href="cs_poetry-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (76; 57%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (118; 87%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (112; 82%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (104; 76%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (102; 75%), <tt><a href="cs_poetry-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (87; 64%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (86; 63%), <tt><a href="cs_poetry-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (76; 56%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
-* `Imp` (133; 100% of non-empty `Aspect`): <em>je, by, jsem, jste, jest, jsi, byl, jsou, budeš, bylo</em>
-* `EMPTY` (1): <em>jsi</em>
+* `Imp` (136; 100% of non-empty `Aspect`): <em>by, je, jsem, jste, jsi, jest, byl, jsou, budeš, bylo</em>
 
 ### `ADJ`
 
 61 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (10% of all `ADJ` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (61; 100%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (59; 97%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (49; 80%), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (45; 74%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44; 72%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (39; 64%).
+The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (61; 100%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (59; 97%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (49; 80%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44; 72%), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (41; 67%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (39; 64%).
 
 `ADJ` tokens may have the following values of `Aspect`:
 
@@ -61,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 
 1 <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1; 100%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (1; 100%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1; 100%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (1; 100%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `Aspect`:
 
@@ -72,13 +71,13 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (149; 81%),
-<tt>VERB --[<tt><a href="cs_poetry-dep-aux.html">aux</a></tt>]--> AUX</tt> (36; 64%),
+<tt>VERB --[<tt><a href="cs_poetry-dep-aux.html">aux</a></tt>]--> AUX</tt> (37; 64%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (35; 57%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (33; 55%),
-<tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> AUX</tt> (7; 100%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (5; 71%),
-<tt>AUX --[<tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 75%),
-<tt>VERB --[<tt><a href="cs_poetry-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (2; 100%),
-<tt>VERB --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (2; 100%),
-<tt>ADJ --[<tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
+<tt>ADJ --[<tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<tt><a href="cs_poetry-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="cs_poetry-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%).
 

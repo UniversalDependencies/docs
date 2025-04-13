@@ -12,15 +12,15 @@ udver: '2'
 # UD Portuguese PetroGold
 
 Language: [Portuguese](/pt/index.html) (code: `pt`)<br/>
-Family: Indo-European, Romance
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.11 release.
 
 The following people have contributed to making this treebank part of UD: Elvis de Souza, Cláudia Freitas, Aline Silveira, Tatiana Cavalcanti, Maria Clara Castro, Wograine Evelyn.
 
 Repository: [UD_Portuguese-PetroGold](https://github.com/UniversalDependencies/UD_Portuguese-PetroGold)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_petrogold214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_petrogold215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -230,7 +230,7 @@ year={2022}
       <li>VERB-Ger: utilizado</li>
       <li>VERB-Inf: remover</li>
       <li>VERB-Part: devido, utilizado, utilizados, obtidos, apresentados, observado, realizados, obtido, associados, realizado</li>
-      <li>X: n, back, booster, break, drill-in, playa, τ</li>
+      <li>X: drill-in</li>
     </ul>
   </li>
 </ul>
@@ -255,7 +255,7 @@ year={2022}
       <li>VERB-Fin: podem, apresentam, possuem, ocorrem, têm, existem, encontram, devem, mostram, representam</li>
       <li>VERB-Inf: possuírem, apresentarem, fazerem, mariscarem, ocorrerem, podermos, utilizarem, adentrarem, aparecerem, associarem</li>
       <li>VERB-Part: utilizados, obtidos, apresentados, realizados, associados, preparados, utilizadas, observados, obtidas, associadas</li>
-      <li>X: n, booster, drill-in, playa</li>
+      <li>X: drill-in</li>
     </ul>
   </li>
 </ul>
@@ -278,7 +278,6 @@ year={2022}
       <li>VERB-Ger: utilizado</li>
       <li>VERB-Inf: associar, atingir, atravessar, chegar, contribuir, equivaler, espalhar, ficar, fornecer, hidratar</li>
       <li>VERB-Part: devido, utilizado, utilizada, observado, produzida, obtido, realizado, produzido, realizada, associado</li>
-      <li>X: back, break, τ</li>
     </ul>
   </li>
 </ul>
@@ -451,7 +450,7 @@ year={2022}
       <li>ADJ: elevado</li>
       <li>VERB-Fin: espessa, Denomina, Notam, adiciona, atribui, dilui, inicia, observa, utilizou</li>
       <li>VERB-Inf: observar</li>
-      <li>VERB-Part: utilizado, apresentados, utilizados, realizada, realizado, observado, feita, utilizada, realizados, apresentadas</li>
+      <li>VERB-Part: utilizado, apresentados, utilizados, realizada, realizado, observado, feita, utilizada, realizados, obtidos</li>
     </ul>
   </li>
 </ul>
@@ -612,6 +611,7 @@ year={2022}
       <li>Yes
         <ul>
           <li>NOUN: grid, grids, download</li>
+          <li>X: drill, n, in, flow, booster, situ, core, station, balling, bit</li>
         </ul>
       </li>
     </ul>
@@ -643,8 +643,8 @@ year={2022}
 </ul>
 
 <ul>
-<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: ter, ser, estar, ir, haver.</li>
-<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ser, estar.</li>
+<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: estar, ter, ir, ser, haver.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ser.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -673,9 +673,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN (95)</li>
       <li>VERB-Inf--PRON (11)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN (79)</li>
-      <li>VERB-Part--PRON (23)</li>
-      <li>VERB-Part--PRON-Nom (1)</li>
+      <li>VERB-Part--NOUN (237)</li>
+      <li>VERB-Part--PRON (49)</li>
     </ul>
   </li>
 </ul>
@@ -693,7 +692,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN (1499)</li>
       <li>VERB-Inf--PRON (11)</li>
       <li>VERB-Inf--PRON-Acc (39)</li>
-      <li>VERB-Part--NOUN (121)</li>
+      <li>VERB-Part--NOUN (119)</li>
       <li>VERB-Part--NOUN-ADP(a) (9)</li>
       <li>VERB-Part--PRON (4)</li>
       <li>VERB-Part--PRON-Nom (1)</li>

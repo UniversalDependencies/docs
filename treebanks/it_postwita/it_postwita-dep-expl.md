@@ -54,7 +54,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 5	boh	boh	INTJ	I	_	4	discourse	_	_
 6	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	expl	_	_
 7	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	8	expl	_	_
-8	vó	vó	X	SW	_	0	root	_	_
+8	vó	vó	X	SW	Foreign=Yes	0	root	_	_
 9	in	in	ADP	E	_	10	case	_	_
 10	palestra	palestra	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	14	punct	_	_

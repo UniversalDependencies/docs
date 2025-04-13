@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-15153 tokens (17%) have a non-empty value of `Voice`.
-3293 types (23%) occur at least once with a non-empty value of `Voice`.
-1621 lemmas (16%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (11171; 12% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (3980; 4% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+15143 tokens (17%) have a non-empty value of `Voice`.
+3289 types (23%) occur at least once with a non-empty value of `Voice`.
+1619 lemmas (16%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 4 part-of-speech tags: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (11161; 12% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (3980; 4% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-11171 <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `Voice`.
+11161 <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="sv_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7109; 64%), <tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6729; 60%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="sv_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7098; 64%), <tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6730; 60%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (10030; 90% of non-empty `Voice`): <em>sa, var, hade, gick, kom, har, såg, ta, göra, sade</em>
-* `Pass` (1141; 10% of non-empty `Voice`): <em>visas, kändes, används, tvungen, hördes, tycktes, flyttas, talas, taget, skapats</em>
-* `EMPTY` (199): <em>fanns, finns, finnas, höll, närvarande, taget, förfogande, följande, gillande, gående</em>
+* `Act` (10027; 90% of non-empty `Voice`): <em>sa, var, hade, gick, kom, har, såg, ta, göra, sade</em>
+* `Pass` (1134; 10% of non-empty `Voice`): <em>visas, kändes, används, tvungen, hördes, tycktes, flyttas, talas, skapats, döljs</em>
+* `EMPTY` (194): <em>fanns, finns, finnas, höll, närvarande, förfogande, följande, gillande, gående, åt</em>
 
 <table>
   <tr><th>Paradigm <i>säga</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -54,12 +54,12 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 1 <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_lines-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_lines-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1; 100%), <tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `Voice`:
 
 * `Pass` (1; 100% of non-empty `Voice`): <em>förödmjukade</em>
-* `EMPTY` (6279): <em>andra, själv, hela, samma, första, annat, flera, många, stor, enda</em>
+* `EMPTY` (6304): <em>andra, själv, hela, samma, första, annat, flera, många, stor, enda</em>
 
 ### `NOUN`
 
@@ -70,19 +70,19 @@ The most frequent other feature values with which `NOUN` and `Voice` co-occurred
 `NOUN` tokens may have the following values of `Voice`:
 
 * `Pass` (1; 100% of non-empty `Voice`): <em>brits</em>
-* `EMPTY` (15974): <em>sätt, år, far, fält, gång, man, sidan, del, data, mor</em>
+* `EMPTY` (15972): <em>sätt, år, far, fält, gång, man, sidan, del, data, mor</em>
 
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="sv_lines-dep-aux.html">aux</a></tt>]--> AUX</tt> (1922; 89%),
-<tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (1580; 90%),
-<tt>VERB --[<tt><a href="sv_lines-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (980; 81%),
+<tt>VERB --[<tt><a href="sv_lines-dep-aux.html">aux</a></tt>]--> AUX</tt> (1923; 89%),
+<tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (1585; 90%),
+<tt>VERB --[<tt><a href="sv_lines-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (964; 81%),
 <tt>VERB --[<tt><a href="sv_lines-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (615; 79%),
-<tt>VERB --[<tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (608; 84%),
-<tt>VERB --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (190; 89%),
+<tt>VERB --[<tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (605; 84%),
+<tt>VERB --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (192; 89%),
 <tt>VERB --[<tt><a href="sv_lines-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (65; 92%),
-<tt>VERB --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> VERB</tt> (28; 85%),
+<tt>VERB --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> VERB</tt> (21; 84%),
 <tt>VERB --[<tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (14; 100%),
 <tt>VERB --[<tt><a href="sv_lines-dep-obj.html">obj</a></tt>]--> VERB</tt> (13; 59%).
 

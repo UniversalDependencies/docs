@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_English-GENTLE: POS Tags: `INTJ`
 
 There are 23 `INTJ` lemmas (1%), 23 `INTJ` types (1%) and 60 `INTJ` tokens (0%).
-Out of 17 observed tags, the rank of `INTJ` is: 11 in number of lemmas, 14 in number of types and 17 in number of tokens.
+Out of 17 observed tags, the rank of `INTJ` is: 11 in number of lemmas, 12 in number of types and 17 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>fucking, please, ah, well, oh, okay, so, uh, ha, now</em>
 
@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>well</em> (<tt><a href="en_gentle-pos
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.146169).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.147634).
 
 The 1st highest number of forms (1) was observed with the lemma “-uːl”: <em>-uːl</em>.
 
@@ -50,14 +50,20 @@ The 2nd highest number of forms (1) was observed with the lemma “-ɛkst”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “ah”: <em>ah</em>.
 
-`INTJ` does not occur with any features.
+`INTJ` occurs with 1 features: <tt><a href="en_gentle-feat-Polarity.html">Polarity</a></tt> (3; 5% instances)
+
+`INTJ` occurs with 1 feature-value pairs: `Polarity=Pos`
+
+`INTJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (57 tokens).
+Examples: <em>fucking, please, ah, well, So, oh, okay, uh, Ha, Welcome</em>
 
 
 ## Relations
 
 `INTJ` nodes are attached to their parents using 5 different relations: <tt><a href="en_gentle-dep-discourse.html">discourse</a></tt> (46; 77% instances), <tt><a href="en_gentle-dep-root.html">root</a></tt> (10; 17% instances), <tt><a href="en_gentle-dep-dep.html">dep</a></tt> (2; 3% instances), <tt><a href="en_gentle-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="en_gentle-dep-flat.html">flat</a></tt> (1; 2% instances)
 
-Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (25; 42% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (14; 23% instances),  (10; 17% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (5; 8% instances), <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> (4; 7% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
+Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (25; 42% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (14; 23% instances),  (10; 17% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (5; 8% instances), <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> (4; 7% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (1; 2% instances)
 
 40 (67%) `INTJ` nodes are leaves.
 

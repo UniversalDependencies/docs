@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-19669 tokens (12%) have a non-empty value of `Person`.
-3268 types (12%) occur at least once with a non-empty value of `Person`.
+19303 tokens (12%) have a non-empty value of `Person`.
+3267 types (12%) occur at least once with a non-empty value of `Person`.
 1529 lemmas (11%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (6800; 4% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (5957; 4% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (5516; 3% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (1396; 1% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (6800; 4% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (5957; 4% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (5150; 3% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (1396; 1% instances).
 
 ### `VERB`
 
@@ -52,23 +52,22 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-5516 <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> tokens (73% of all `AUX` tokens) have a non-empty value of `Person`.
+5150 <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> tokens (68% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5516; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5516; 100%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4675; 85%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4675; 85%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4417; 80%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4368; 79%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4311; 78%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs_fictree-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (5150; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5150; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5150; 100%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4675; 91%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4675; 91%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4417; 86%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4368; 85%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4311; 84%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (3069; 56% of non-empty `Person`): <em>jsem, bych, jsme, bychom, budu, nebudu, nejsem, budeme, nejsme, bysme</em>
+* `1` (3069; 60% of non-empty `Person`): <em>jsem, bych, jsme, bychom, budu, nebudu, nejsem, budeme, nejsme, bysme</em>
 * `2` (481; 9% of non-empty `Person`): <em>jsi, jste, byste, bys, budeš, budete, nebudeš, nejste, si, buď</em>
-* `3` (1966; 36% of non-empty `Person`): <em>je, by, bude, jsou, není, budou, nebude, nejsou, bývá, bývají</em>
-* `EMPTY` (2018): <em>by, byl, byla, bylo, být, byly, byli, nebyl, nebylo, nebyla</em>
+* `3` (1600; 31% of non-empty `Person`): <em>je, bude, jsou, není, budou, nebude, nejsou, bývá, bývají, Nebývají</em>
+* `EMPTY` (2384): <em>by, byl, byla, bylo, být, byly, byli, nebyl, nebylo, nebyla</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>bych</em></td><td><em>bys</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td><em>bysme</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>bychom</em></td><td><em>byste</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt></tt></td><td></td><td></td><td><em>by</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td><em>Nebuď</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>buď</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>Buďme</em></td><td><em>buďte</em></td><td></td></tr>

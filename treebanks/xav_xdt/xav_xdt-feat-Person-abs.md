@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="xav_xdt-pos-VERB.ht
 
 ### `VERB`
 
-47 <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> tokens (23% of all `VERB` tokens) have a non-empty value of `Person[abs]`.
+47 <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> tokens (22% of all `VERB` tokens) have a non-empty value of `Person[abs]`.
 
 `VERB` tokens may have the following values of `Person[abs]`:
 

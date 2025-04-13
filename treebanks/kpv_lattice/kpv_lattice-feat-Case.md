@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal but the values `Adp`, `Apr`, `AprIll`, `Cmp`, `Cns`, `Egr`, `Prl`, `Prp` are language-specific.
 It occurs with 22 different values: `Abe`, `Abl`, `Acc`, `Adp`, `Apr`, `AprIll`, `Cmp`, `Cns`, `Com`, `Dat`, `Egr`, `Ela`, `Gen`, `Ill`, `Ine`, `Ins`, `Loc`, `Nom`, `Prl`, `Prp`, `Ter`, `Tra`.
 
-3578 tokens (44%) have a non-empty value of `Case`.
-2311 types (66%) occur at least once with a non-empty value of `Case`.
-1483 lemmas (64%) occur at least once with a non-empty value of `Case`.
-The feature is used with 11 part-of-speech tags: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2006; 25% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (495; 6% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (434; 5% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (219; 3% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (161; 2% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (129; 2% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (60; 1% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (41; 1% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (29; 0% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
+3591 tokens (44%) have a non-empty value of `Case`.
+2321 types (66%) occur at least once with a non-empty value of `Case`.
+1489 lemmas (64%) occur at least once with a non-empty value of `Case`.
+The feature is used with 11 part-of-speech tags: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2005; 25% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (495; 6% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (435; 5% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (219; 3% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (174; 2% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (129; 2% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (60; 1% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (41; 1% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (29; 0% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-2006 <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
+2005 <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1668; 83%), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1547; 77%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1547; 77%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1667; 83%), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1546; 77%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1546; 77%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Ine` (114; 6% of non-empty `Case`): <em>енэжын, вӧрын, сьӧлӧмын, Озын, Пӧлатяс, асылын, вомгорулас, вылын, вӧрынӧсь, гожӧмын</em>
 * `Ins` (118; 6% of non-empty `Case`): <em>кинас, синмӧн, другъясӧн, катшасинӧн, командирӧн, корӧсьӧн, кылӧн, лымйӧн, нагрузкаӧн, специалистъясӧн</em>
 * `Loc` (31; 2% of non-empty `Case`): <em>сиктса, колхозъясса, вӧрса, грездса, карса, сельсӧветъясса, странаса, Армияса, Ваддорса, Кремльса</em>
-* `Nom` (1243; 62% of non-empty `Case`): <em>урожай, удж, шонді, лун, ва, ю, во, вӧр, му, йӧз</em>
+* `Nom` (1242; 62% of non-empty `Case`): <em>урожай, удж, шонді, лун, ва, ю, во, вӧр, му, йӧз</em>
 * `Prl` (6; 0% of non-empty `Case`): <em>Печораӧдыс, ва, местаясӧдыс, нёкчимъясӧдыс, туйӧд, щельясӧд</em>
 * `Prp` (18; 1% of non-empty `Case`): <em>ваа, Кӧра, Сюра, бисера, бушколъяса, керкаяса, кокъяса, коръя, морӧсъяса, мыгӧръяса</em>
 * `Ter` (13; 1% of non-empty `Case`): <em>гортӧдз, бергӧдчанінӧдзыс, ваӧдз, вевтӧдзыс, веськӧдлысьӧдзыс, зэрӧдзыс, кадӧдзыс, лэччандорӧдз, нырӧдзыс, ортӧдзыс</em>
@@ -87,9 +87,9 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `ADJ`
 
-434 <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> tokens (88% of all `ADJ` tokens) have a non-empty value of `Case`.
+435 <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> tokens (88% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (411; 95%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (412; 95%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -102,7 +102,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Ill` (2; 0% of non-empty `Case`): <em>прӧстӧ, ыджыдад</em>
 * `Ine` (1; 0% of non-empty `Case`): <em>матіясас</em>
 * `Ins` (12; 3% of non-empty `Case`): <em>Бӧръяӧн, важӧн, вежӧраӧн, йӧйӧн, ковтӧмӧн, кодьӧн, коланаӧн, озырджыкӧн, приданнӧйӧн, сьӧлӧманас</em>
-* `Nom` (404; 93% of non-empty `Case`): <em>ыджыд, кодь, бур, важ, мича, ичӧтик, сэтшӧм, еджыд, том, выль</em>
+* `Nom` (405; 93% of non-empty `Case`): <em>ыджыд, кодь, бур, важ, мича, ичӧтик, сэтшӧм, еджыд, том, выль</em>
 * `EMPTY` (58): <em>кодьӧсь, кутшӧм, сэтшӧмӧсь, шаньӧсь, ӧткодьӧсь, Джуджыдӧсь, авъяӧсь, быдсяма, веськыдӧсь, визулӧсь</em>
 
 <table>
@@ -111,7 +111,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
   <tr><td><tt><tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>важсӧ</em></td><td></td></tr>
 </table>
 
-`Case` seems to be **lexical feature** of `ADJ`. 91% lemmas (204) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `ADJ`. 92% lemmas (205) occur only with one value of `Case`.
 
 ### `ADP`
 
@@ -143,9 +143,9 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 ### `VERB`
 
-161 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (12% of all `VERB` tokens) have a non-empty value of `Case`.
+174 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (13% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (161; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (161; 100%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (124; 77%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (120; 75%), <tt><a href="kpv_lattice-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (94; 58%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (174; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (174; 100%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (137; 79%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (132; 76%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -153,23 +153,23 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Acc` (8; 5% of non-empty `Case`): <em>баитӧмъяснысӧ, воысьясӧс, кулысьясӧс, кылӧмсӧ, полӧмсӧ, сёрнитысьясӧс, туӧмсӧ, чужысьясӧс</em>
 * `Com` (1; 1% of non-empty `Case`): <em>паськӧд</em>
 * `Egr` (2; 1% of non-empty `Case`): <em>воӧмсянь, пуксьӧмсяньыс</em>
-* `Ela` (6; 4% of non-empty `Case`): <em>гӧтрасьӧмысь, инмӧмысь, кывзысьысьӧсь, саймовтчӧмысь, сыныштӧмысь, усьӧмъяссьыс</em>
+* `Ela` (6; 3% of non-empty `Case`): <em>гӧтрасьӧмысь, инмӧмысь, кывзысьысьӧсь, саймовтчӧмысь, сыныштӧмысь, усьӧмъяссьыс</em>
 * `Gen` (2; 1% of non-empty `Case`): <em>кольччӧмлӧн, лэдзысьяслӧн</em>
-* `Ill` (13; 8% of non-empty `Case`): <em>Вермасигъясад, Гымалігад, Зэригас, Пуктысигъясӧ, босьтігас, велӧдчиганыс, куйліганыс, пыригам, сувтлігъясӧ, чӧвтанінӧ</em>
+* `Ill` (13; 7% of non-empty `Case`): <em>Вермасигъясад, Гымалігад, Зэригас, Пуктысигъясӧ, босьтігас, велӧдчиганыс, куйліганыс, пыригам, сувтлігъясӧ, чӧвтанінӧ</em>
 * `Ine` (10; 6% of non-empty `Case`): <em>идралӧмын, Рытйысигъясын, келалігъясын, мыськасигъясын, пуръясигъясын, чышкасигъясын</em>
-* `Ins` (24; 15% of non-empty `Case`): <em>петігӧн, Вундігӧн, аддзанаӧн, вӧйтчӧмӧн, дзользьӧмӧн, дивитӧмӧн, жуялӧмӧн, китшкӧмӧн, кыйигъясӧн, ланьтӧдчӧмӧн</em>
-* `Nom` (94; 58% of non-empty `Case`): <em>идралӧм, воӧм, кольӧм, Мудзӧм, босьтӧм, босьтӧмаыс, босьтӧмаяс, быдмӧмаыс, вартӧм, ветлӧм</em>
-* `EMPTY` (1190): <em>воис, лои, лоны, шуны, мунны, мунӧ, Локтас, видзӧдліс, вӧчны, кыліс</em>
+* `Ins` (24; 14% of non-empty `Case`): <em>петігӧн, Вундігӧн, аддзанаӧн, вӧйтчӧмӧн, дзользьӧмӧн, дивитӧмӧн, жуялӧмӧн, китшкӧмӧн, кыйигъясӧн, ланьтӧдчӧмӧн</em>
+* `Nom` (107; 61% of non-empty `Case`): <em>идралӧм, сулалысь, воӧм, дзирдалысь, кольӧм, локтысь, Мудзӧм, босьтӧм, босьтӧмаыс, босьтӧмаяс</em>
+* `EMPTY` (1177): <em>воис, лои, лоны, шуны, мунны, мунӧ, Локтас, видзӧдліс, вӧчны, кыліс</em>
 
 <table>
   <tr><th>Paradigm <i>воны</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Egr</tt></th></tr>
   <tr><td><tt><tt><a href="kpv_lattice-feat-Derivation.html">Derivation</a></tt><tt>=An</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>воан</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Derivation.html">Derivation</a></tt><tt>=NomAg</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>воысьясӧс</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Nomzr.html">Nomzr</a></tt><tt>=Ag</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>воысьясӧс</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>воӧм</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td><em>воӧм</em></td><td></td><td><em>воӧмсянь</em></td></tr>
 </table>
 
-`Case` seems to be **lexical feature** of `VERB`. 92% lemmas (119) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `VERB`. 90% lemmas (122) occur only with one value of `Case`.
 
 ### `ADV`
 

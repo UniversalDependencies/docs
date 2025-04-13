@@ -8,28 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fr_parisstories-dep-dep.html">dep</a></tt>.
 
-41 nodes (0%) are attached to their parents as `dep:comp`.
+27 nodes (0%) are attached to their parents as `dep:comp`.
 
-31 instances of `dep:comp` (76%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.09756097560976.
+19 instances of `dep:comp` (70%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.51851851851852.
 
-The following 14 pairs of parts of speech are connected with `dep:comp`: <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt>-<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (11; 27% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (7; 17% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (5; 12% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (4; 10% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt>-<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (1; 2% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 dep:comp	color:blue
-1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	AlignBegin=24558|AlignEnd=24906
-2	jouait	jouer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=24906|AlignEnd=25254|SpaceAfter=No
-3	,	,	PUNCT	_	_	5	punct	_	AlignBegin=25254|AlignEnd=25254
-4	comme	comme	ADP	_	_	5	dep:comp	_	AlignBegin=25254|AlignEnd=25603
-5	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	2	dep	_	AlignBegin=25603|AlignEnd=25951
-6	…	…	PUNCT	_	_	2	punct	_	AlignBegin=25951|AlignEnd=25951
-
-~~~
+The following 13 pairs of parts of speech are connected with `dep:comp`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (7; 26% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (5; 19% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (2; 7% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (2; 7% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (2; 7% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (2; 7% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt>-<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -64,6 +48,37 @@ The following 14 pairs of parts of speech are connected with `dep:comp`: <tt><a 
 4	souviens	souvenir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=14139|AlignEnd=14279
 5	encore	encore	ADV	_	_	4	advmod	_	AlignBegin=14279|AlignEnd=14419
 6	?	?	PUNCT	_	_	4	punct	_	AlignBegin=14419|AlignEnd=14419
+
+~~~
+
+
+~~~ conllu
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 20 19 dep:comp	color:blue
+1	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	reparandum	_	_
+3	vraiment	vraiment	ADV	_	_	2	advmod	_	_
+4	euh	euh	INTJ	_	_	16	discourse	_	_
+5	pour	pour	ADP	_	_	13	reparandum	_	_
+6	euh	euh	INTJ	_	_	9	discourse	_	_
+7	pour	pour	ADP	_	_	9	case	_	_
+8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+9	élèves	élève	NOUN	_	Gender=Masc|Number=Plur	13	reparandum	_	_
+10	euh~	euh~	INTJ	_	_	13	discourse	_	_
+11	enfin	enfin	ADV	_	ExtPos=INTJ	13	discourse	_	_
+12	pour	pour	ADP	_	_	13	case	_	_
+13	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	16	obl:arg	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+16	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	début	début	NOUN	_	Gender=Masc|Number=Sing	16	xcomp	_	_
+19	de	de	ADP	_	_	20	dep:comp	_	_
+20	tout	tout	ADP	_	_	18	dep	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	16	punct	_	_
 
 ~~~
 

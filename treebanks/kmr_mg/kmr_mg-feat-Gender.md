@@ -12,7 +12,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 4206 tokens (41%) have a non-empty value of `Gender`.
 1854 types (66%) occur at least once with a non-empty value of `Gender`.
-1229 lemmas (68%) occur at least once with a non-empty value of `Gender`.
+1229 lemmas (67%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 5 part-of-speech tags: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (2621; 26% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (862; 8% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (441; 4% instances), <tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (180; 2% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (102; 1% instances).
 
 ### `NOUN`

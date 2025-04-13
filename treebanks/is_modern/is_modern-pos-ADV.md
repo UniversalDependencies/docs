@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>ekki</em> (<tt><a href="is_modern-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.102041 (the average of all parts of speech is 1.734760).
+The form / lemma ratio of `ADV` is 1.102041 (the average of all parts of speech is 1.738114).
 
 The 1st highest number of forms (7) was observed with the lemma “mikill”: <em>meira, meiri, mikil, mikinn, mikið, mikla, miklu</em>.
 

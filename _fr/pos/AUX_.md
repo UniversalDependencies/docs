@@ -30,4 +30,4 @@ There are a few other lemmas which can be annotated as ([AUX]()):
  - *refaire* (to make again) when it is used in a causative construction
    - ex: *on a mis du temps à le refaire revenir chez nous* (it took us a long time to get him back home)  
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:34 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:20 CET -->

@@ -34,7 +34,7 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 9	terminado	terminar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	csubj	_	_
 10	para	para	ADP	IN	_	11	case	_	_
 11	Barroso	Barroso	PROPN	NNP	Number=Sing	9	obl	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	2	punct	_	_
+12	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -48,7 +48,7 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 1	En	en	ADP	IN	_	3	case	_	_
 2	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 3	contexto	contexto	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
-4	,	,	PUNCT	,	_	3	punct	_	_
+4	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 5	movilizar	movilizar	VERB	VB	VerbForm=Inf	10	csubj	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	compound:prt	_	_
 7	contra	contra	ADP	IN	_	9	case	_	_
@@ -56,7 +56,7 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 9	industria	industria	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
 10	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	sentido	sentido	NOUN	NN	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	10	punct	_	_
+12	.	.	PUNCT	.	PunctType=Peri	10	punct	_	_
 
 ~~~
 
@@ -74,7 +74,7 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 5	aquí	aquí	ADV	RB	_	4	advmod	_	_
 6	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
 7	carrera	carrera	NOUN	NN	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	2	punct	_	_
+8	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
 ~~~
 

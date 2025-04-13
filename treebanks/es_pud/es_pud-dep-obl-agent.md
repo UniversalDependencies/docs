@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 1	Quizás	quizás	ADV	RB	_	3	advmod	_	_
 2	no	no	ADV	RB	Polarity=Neg	3	advmod	_	_
 3	importe	importar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	,	_	9	punct	_	_
+4	,	,	PUNCT	,	PunctType=Comm	9	punct	_	_
 5	ya	ya	ADV	RB	_	9	mark	_	_
 6	que	que	ADP	IN	_	5	fixed	_	_
 7	no	no	ADV	RB	Polarity=Neg	9	advmod	_	_
@@ -35,7 +35,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 10	por	por	ADP	IN	_	12	case	_	_
 11	mucho	mucho	DET	DT	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	12	det	_	_
 12	tiempo	tiempo	NOUN	NN	Gender=Masc|Number=Sing	9	obl:agent	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	3	punct	_	_
+13	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -48,7 +48,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 9 11 obl:agent	color:blue
 1	Mientras	mientras	ADP	IN	_	9	discourse	_	_
 2	tanto	tanto	ADV	RB	_	1	fixed	_	SpaceAfter=No
-3	,	,	PUNCT	,	_	1	punct	_	_
+3	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 4	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
 5	puesto	puesto	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj:pass	_	_
 6	de	de	ADP	IN	_	7	case	_	_
@@ -58,13 +58,13 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 10	por	por	ADP	IN	_	11	case	_	_
 11	Marco	Marco	PROPN	NNP	Gender=Masc|Number=Sing	9	obl:agent	_	_
 12	Antonio	Antonio	PROPN	NNP	Gender=Masc|Number=Sing	11	flat:name	_	SpaceAfter=No
-13	,	,	PUNCT	,	_	16	punct	_	_
+13	,	,	PUNCT	,	PunctType=Comm	16	punct	_	_
 14	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	16	nsubj	_	_
 15	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	obj	_	_
 16	desempeñó	desempeñar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	_	_
 17	hasta	hasta	ADP	IN	_	18	case	_	_
 18	diciembre	diciembre	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
-19	.	.	PUNCT	.	_	9	punct	_	_
+19	.	.	PUNCT	.	PunctType=Peri	9	punct	_	_
 
 ~~~
 
@@ -78,7 +78,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 1	Alejandra	Alejandra	PROPN	NNP	Gender=Fem|Number=Sing	14	nsubj	_	_
 2	González	González	PROPN	NNP	Gender=Fem|Number=Sing	1	flat:name	_	_
 3	Anaya	Anaya	PROPN	NNP	Gender=Fem|Number=Sing	1	flat:name	_	SpaceAfter=No
-4	,	,	PUNCT	,	_	5	punct	_	_
+4	,	,	PUNCT	,	PunctType=Comm	5	punct	_	_
 5	uno	uno	NOUN	NN	Gender=Masc|Number=Sing	1	appos	_	_
 6	de	de	ADP	IN	_	8	case	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
@@ -87,7 +87,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 10	de	de	ADP	INDT	_	12	case	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	desfile	desfile	NOUN	NN	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
-13	,	,	PUNCT	,	_	5	punct	_	_
+13	,	,	PUNCT	,	PunctType=Comm	5	punct	_	_
 14	explicó	explicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 15	a	a	ADP	IN	_	17	case	_	_
 16	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
@@ -108,7 +108,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 31	espectáculo	espectáculo	NOUN	NN	Gender=Masc|Number=Sing	29	obj	_	_
 32	como	como	ADP	IN	_	33	case	_	_
 33	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	31	nmod	_	SpaceAfter=No
-34	.	.	PUNCT	.	_	14	punct	_	_
+34	.	.	PUNCT	.	PunctType=Peri	14	punct	_	_
 
 ~~~
 

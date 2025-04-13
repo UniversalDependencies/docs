@@ -12,15 +12,15 @@ udver: '2'
 # UD Gheg GPS
 
 Language: [Gheg](/aln/index.html) (code: `aln`)<br/>
-Family: Indo-European, Albanian
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.11 release.
 
 The following people have contributed to making this treebank part of UD: Christian Ebert, Artan Islamaj, Adrian Kuqi, Barbara Sonnenhauser, Paul Widmer, Magdalena Plamada.
 
 Repository: [UD_Gheg-GPS](https://github.com/UniversalDependencies/UD_Gheg-GPS)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaln_gps214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaln_gps215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

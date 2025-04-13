@@ -31,4 +31,4 @@ The verb *είμαι* /ime “to be” is assigned the tag [AUX]() always, even 
 There are two treebanks of Modern Greek and differ with respect to [AUX]() assignment. 
 
 ### References
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:34 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:19 CET -->

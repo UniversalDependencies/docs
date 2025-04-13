@@ -28,4 +28,4 @@ nummod(lira, bin)
 
 For non-lexicalized (non-MWE) nominal modification,
 e.g., _tahta kapı_ "wood(en) door", [nmod]() relation is used.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:54 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:36 CET -->

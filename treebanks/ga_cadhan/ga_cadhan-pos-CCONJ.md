@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Irish-Cadhan: POS Tags: `CCONJ`
 
 There are 5 `CCONJ` lemmas (0%), 13 `CCONJ` types (1%) and 198 `CCONJ` tokens (4%).
-Out of 16 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 14 in number of types and 10 in number of tokens.
+Out of 15 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 14 in number of types and 10 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>agus, ach, ná, nó, et</em>
 
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>agus</em> (<tt><a href="ga_cadhan-pos
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 2.600000 (the average of all parts of speech is 1.659916).
+The form / lemma ratio of `CCONJ` is 2.600000 (the average of all parts of speech is 1.662997).
 
 The 1st highest number of forms (4) was observed with the lemma “ná”: <em>ina, ioná, na, ná</em>.
 
@@ -71,7 +71,7 @@ The 3rd highest number of forms (3) was observed with the lemma “agus”: <em>
 
 `CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="ga_cadhan-dep-cc.html">cc</a></tt> (196; 99% instances), <tt><a href="ga_cadhan-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-dep-mark.html">mark</a></tt> (1; 1% instances)
 
-Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (83; 42% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (67; 34% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (14; 7% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (13; 7% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (11; 6% instances), <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (5; 3% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-X.html">X</a></tt> (1; 1% instances)
+Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (83; 42% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (67; 34% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (14; 7% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (14; 7% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (11; 6% instances), <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (5; 3% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt> (2; 1% instances)
 
 191 (96%) `CCONJ` nodes are leaves.
 

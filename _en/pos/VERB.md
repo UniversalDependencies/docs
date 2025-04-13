@@ -7,4 +7,4 @@ shortdef: 'verb'
 The tag `VERB` covers PTB tags VB, VBP, VBZ, VBD, VBG, VBN, except for auxiliary verb uses of _be_, _have_, _do_, and _get_. 
 
 (Auxiliary verbs and modals are `AUX` and the infinitive _to_ is `PART`.)
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:43 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:28 CET -->

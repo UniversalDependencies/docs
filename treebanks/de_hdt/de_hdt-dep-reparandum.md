@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-40 nodes (0%) are attached to their parents as `reparandum`.
+42 nodes (0%) are attached to their parents as `reparandum`.
 
-40 instances of `reparandum` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.075.
+40 instances of `reparandum` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.07142857142857.
 
-The following 6 pairs of parts of speech are connected with `reparandum`: <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (16; 40% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (13; 33% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (4; 10% instances), <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (3; 8% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (3; 8% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `reparandum`: <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (16; 38% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (15; 36% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (4; 10% instances), <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (3; 7% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (3; 7% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -43,27 +43,22 @@ The following 6 pairs of parts of speech are connected with `reparandum`: <tt><a
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 11 reparandum	color:blue
-1	Man	man	PRON	PIS	Case=Nom|Number=Sing|PronType=Ind	6	nsubj	_	_
-2	werde	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
-3	aber	aber	ADV	ADV	_	6	advmod	_	_
-4	auch	auch	ADV	ADV	_	5	advmod	_	_
-5	niemanden	niemand	PRON	PIS	Case=Acc|Number=Sing|PronType=Neg	6	obj	_	_
-6	abweisen	abweisen	VERB	VVINF	VerbForm=Inf	0	root	_	_
-7	,	,	PUNCT	$,	PunctType=Comm	14	punct	_	_
-8	der	der	PRON	PRELS	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem,Rel	14	nsubj	_	_
-9	Gebühren	Gebühr	NOUN	NN	Gender=Fem|Number=Plur	14	obj	_	_
-10	für	für	ADP	APPR	AdpType=Prep|Case=Acc	13	case	_	_
-11	seinen	sein	DET	PPOSAT	Case=Acc|Gender=Masc|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	12	reparandum	_	_
-12	seinen	sein	DET	PPOSAT	Case=Acc|Gender=Masc|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
-13	PC	PC	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	_
-14	bezahlen	bezahlen	VERB	VVINF	VerbForm=Inf	5	acl	_	_
-15	wolle	wollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	14	aux	_	_
-16	.	.	PUNCT	$.	PunctType=Peri	6	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 reparandum	color:blue
+1	Auch	Auch	ADV	ADV	_	6	advmod	_	_
+2	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
+3	das	der	DET	ART	Typo=Yes	2	reparandum	_	_
+4	bereits	bereits	ADV	ADV	_	5	advmod	_	_
+5	existierende	existieren	ADJ	ADJA	Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	Handwerkerportal	Portal	NOUN	NN	Gender=Neut|Number=Sing	9	nsubj:pass	_	_
+7	handwerk.de	handwerk.de	PROPN	NE	Number=Sing	6	flat:name	_	_
+8	soll	sollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	9	aux	_	_
+9	ausgebaut	ausbauen	VERB	VVPP	Aspect=Perf|VerbForm=Part	0	root	_	_
+10	werden	werden	AUX	VAINF	VerbForm=Inf	9	aux:pass	_	_
+11	.	.	PUNCT	$.	PunctType=Peri	9	punct	_	_
 
 ~~~
 

@@ -52,4 +52,4 @@ The quality of one object is compared to the same quality of all other objects w
 * _კაბა <b>უ</b>თეთრ<b>ეს</b>ია._ "The dress is the whitest."
 * _კაბა <b>ყველაზე უფრო</b> თეთრია._ "The dress is the whitest in comparison with others."
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:53 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:37 CET -->

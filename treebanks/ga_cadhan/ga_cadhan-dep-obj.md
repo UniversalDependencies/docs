@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="
 2	chualas	clois	VERB	_	Form=Len|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past	0	root	_	_
 3	guth	guth	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	obj	_	_
 4	na	an	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	cuaiche	cuach	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	cuaiche	cuach	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	_
 6	fós	fós	ADV	_	_	2	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
@@ -41,11 +41,11 @@ The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 5 7 obj	color:blue
 1	Gach	gach	DET	_	Definite=Def	3	det	_	_
 2	uile	uile	DET	_	PronType=Ind	3	det	_	_
-3	dhuine	duine	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	0	root	_	_
+3	dhuine	duine	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	0	root	_	_
 4	ag	ag	ADP	_	_	5	case	_	_
 5	cur	cur	NOUN	_	VerbForm=Vnoun	3	acl	_	_
 6	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	7	nmod:poss	_	_
-7	ladair	ladar	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	obj	_	_
+7	ladair	ladar	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	obj	_	_
 8	fhéin	féin	PRON	_	Form=Len|Reflex=Yes	7	nmod	_	_
 9	isteach	isteach	ADV	_	_	5	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n

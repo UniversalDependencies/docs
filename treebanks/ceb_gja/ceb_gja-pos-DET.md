@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Cebuano-GJA: POS Tags: `DET`
 
 There are 2 `DET` lemmas (0%), 2 `DET` types (0%) and 11 `DET` tokens (1%).
-Out of 14 observed tags, the rank of `DET` is: 14 in number of lemmas, 14 in number of types and 12 in number of tokens.
+Out of 14 observed tags, the rank of `DET` is: 14 in number of lemmas, 14 in number of types and 13 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>mga, daghan</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.172662).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.162162).
 
 The 1st highest number of forms (1) was observed with the lemma “daghan”: <em>Daghan</em>.
 

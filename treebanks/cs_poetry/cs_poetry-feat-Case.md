@@ -18,7 +18,7 @@ The feature is used with 7 part-of-speech tags: <tt><a href="cs_poetry-pos-NOUN.
 
 1466 <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1462; 100%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1047; 71%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (830; 57%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1047; 71%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (830; 57%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 548 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (92% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (526; 96%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (509; 93%), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (502; 92%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (482; 88%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (481; 88%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (386; 70%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (325; 59%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (526; 96%), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (514; 94%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (509; 93%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (482; 88%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (481; 88%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (386; 70%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (325; 59%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -146,7 +146,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 83 <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (83; 100%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (73; 88%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (54; 65%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (44; 53%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (73; 88%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (54; 65%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (44; 53%).
 
 `PROPN` tokens may have the following values of `Case`:
 

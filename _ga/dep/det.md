@@ -102,4 +102,4 @@ _ag tabhairt <b>na</b> difríochta faoi deara_ 'noticing <b>the</b> difference'
 ag tabhairt na difríochta faoi deara \n at giving of_the difference under perception
 det(difríochta, na)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:06 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:48 CET -->

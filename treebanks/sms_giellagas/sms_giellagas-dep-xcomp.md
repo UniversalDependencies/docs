@@ -24,7 +24,7 @@ The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 4 5 xcomp	color:blue
 1	Mutta	mutta	CCONJ	CC	_	4	cc	_	GTtags=CC
 2	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	GTtags=Pers,Sg1,Nom
-3	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	4	aux:neg	_	GTtags=Neg,Ind,Sg1,@+FAUXV
+3	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	4	aux	_	GTtags=Neg,Ind,Sg1,@+FAUXV
 4	muuʹšt	muʹštted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	0	root	_	GTtags=Ind,Prs,ConNeg,@+FMAINV
 5	mainsted	mainsted	VERB	V	VerbForm=Inf	4	xcomp	_	GTtags=Inf
 6	puârast	puârast	ADV	Adv	_	5	advmod	_	SpaceAfter=No
@@ -67,7 +67,7 @@ The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href
 10	jååʹtted	jååʹtted	VERB	V	VerbForm=Inf	9	xcomp	_	GTtags=Inf
 11	što	što	SCONJ	CS	_	14	mark	_	_
 12	oummooumaž	oummooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	14	nsubj	_	GTtags=Sem/Hum,Sg,Nom
-13	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	14	aux:neg	_	GTtags=Neg,Ind,Sg3
+13	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	14	aux	_	GTtags=Neg,Ind,Sg3
 14	kååddče	kåʹdded	VERB	V	Connegative=Yes|Mood=Cnd	10	ccomp	_	GTtags=Cond,ConNeg
 15	tuu	ton	PRON	Pron	Case=Acc|Number=Sing|Person=2|PronType=Prs	14	obj	_	GTtags=Pers,Sg2,Acc|SpaceAfter=No
 16	,	,	PUNCT	CLB	_	14	punct	_	_

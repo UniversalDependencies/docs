@@ -12,15 +12,15 @@ udver: '2'
 # UD Italian VIT
 
 Language: [Italian](/it/index.html) (code: `it`)<br/>
-Family: Indo-European, Romance
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.4 release.
 
 The following people have contributed to making this treebank part of UD: Fabio Tamburini, Maria Simi, Cristina Bosco.
 
 Repository: [UD_Italian-VIT](https://github.com/UniversalDependencies/UD_Italian-VIT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_vit214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_vit215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -468,7 +468,7 @@ September 2017, 248-254.
       <li>NOUN-Fin: dice, vedo</li>
       <li>NOUN-Part: redigente, controllanti, cauzionante</li>
       <li>VERB-Fin: è, ha, fa, hanno, dice, sono, scade, sembra, va, tratta</li>
-      <li>VERB-Part: crescenti, caratterizzante, paralizzanti, assordanti, aventi, coabitante, crescente, delegittimanti, grufolanti, modernizzanti</li>
+      <li>VERB-Part: spettante, spettanti, crescenti, caratterizzante, paralizzanti, assordanti, aventi, coabitante, crescente, delegittimanti</li>
     </ul>
   </li>
 </ul>
@@ -515,8 +515,8 @@ September 2017, 248-254.
     <ul>
       <li>ADJ: altro, altra, mezzo, troppi</li>
       <li>ADV: meno</li>
-      <li>DET: tutti, ogni, tutte, più, qualche, alcuni, tutto, alcune, tutta, molti</li>
-      <li>PRON: tutti, più, tutto, uno, altro, nessuno, una, altri, nulla, niente</li>
+      <li>DET: tutti, ogni, tutte, qualche, alcuni, più, tutto, alcune, tutta, pochi</li>
+      <li>PRON: tutti, più, tutto, uno, nessuno, altro, una, altri, nulla, niente</li>
       <li>VERB: vale</li>
     </ul>
   </li>
@@ -543,7 +543,7 @@ September 2017, 248-254.
 <ul>
   <li>Prs
     <ul>
-      <li>DET: sua, suo, loro, nostro, suoi, sue, nostra, mia, mio, propria</li>
+      <li>DET: sua, suo, loro, nostro, suoi, sue, mia, nostra, mio, propria</li>
       <li>PRON: si, ci, lo, c', ne, mi, la, l', vi, io</li>
       <li>PRON-Part: adattate</li>
       <li>PUNCT: :</li>
@@ -608,8 +608,8 @@ September 2017, 248-254.
   <li>Yes
     <ul>
       <li>ADJ: stessa, stesso</li>
-      <li>DET: sua, suo, loro, nostro, suoi, sue, nostra, mia, mio, propria</li>
-      <li>PRON: tuo, sua, mio, essa, suo, suoi, che, loro, nostra, nostro</li>
+      <li>DET: sua, suo, loro, nostro, suoi, sue, mia, nostra, mio, propria</li>
+      <li>PRON: tuo, sua, mio, essa, nostra, suo, suoi, che, loro, nostro</li>
       <li>PRON-Part: adattate</li>
     </ul>
   </li>
@@ -714,8 +714,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON (32)</li>
       <li>VERB-Inf--NOUN (408)</li>
       <li>VERB-Inf--PRON (179)</li>
-      <li>VERB-Part--NOUN (1240)</li>
-      <li>VERB-Part--PRON (534)</li>
+      <li>VERB-Part--NOUN (1238)</li>
+      <li>VERB-Part--PRON (536)</li>
     </ul>
   </li>
 </ul>
@@ -725,8 +725,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (91)</li>
       <li>VERB--PRON (5)</li>
-      <li>VERB-Fin--NOUN (2246)</li>
-      <li>VERB-Fin--PRON (542)</li>
+      <li>VERB-Fin--NOUN (2245)</li>
+      <li>VERB-Fin--PRON (544)</li>
       <li>VERB-Ger--NOUN (370)</li>
       <li>VERB-Ger--PRON (44)</li>
       <li>VERB-Inf--NOUN (2215)</li>
@@ -740,12 +740,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--PRON (2)</li>
       <li>VERB-Fin--PRON (199)</li>
       <li>VERB-Ger--PRON (21)</li>
       <li>VERB-Inf--NOUN (1)</li>
       <li>VERB-Inf--PRON (84)</li>
-      <li>VERB-Part--PRON (112)</li>
+      <li>VERB-Part--PRON (114)</li>
     </ul>
   </li>
 </ul>

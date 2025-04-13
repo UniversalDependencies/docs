@@ -14,4 +14,4 @@ nmod(рас-8, пипу-7)
 case(рас-8, весьтӧдз-9)
 ~~~
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:39 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:22 CET -->

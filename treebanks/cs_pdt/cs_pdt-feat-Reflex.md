@@ -27,14 +27,14 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 ### `DET`
 
-1112 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (8% of all `DET` tokens) have a non-empty value of `Reflex`.
+1112 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (9% of all `DET` tokens) have a non-empty value of `Reflex`.
 
 The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1112; 100%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1112; 100%), <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1112; 100%), <tt><a href="cs_pdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1112; 100%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (976; 88%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (800; 72%).
 
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (1112; 100% of non-empty `Reflex`): <em>své, svou, svého, svých, svůj, svým, svém, svými, svoji, svému</em>
-* `EMPTY` (12406): <em>to, které, který, jeho, která, jejich, tím, tom, kteří, této</em>
+* `EMPTY` (11686): <em>to, které, který, jeho, která, jejich, tím, tom, kteří, této</em>
 
 ## Relations with Agreement in `Reflex`
 

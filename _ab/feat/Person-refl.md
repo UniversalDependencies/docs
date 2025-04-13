@@ -24,4 +24,4 @@ This feature marks person agreement of the verb with the inner reflexive object.
 #### Examples
 
 * [ab] _а-ҽ-а-ҟье-ит_ [Refl.3SgNH-Refl-Subj.3SgNH-persist-Aor] ‘it persisted’ `Dyn=Yes|Gender[refl]=Neut|Gender[subj]=Neut|Number[refl]=Sing|Number[subj]=Sing|Person[refl]=3|Person[subj]=3|Tense=Aor|Trans=Yes|VerbForm=Fin`
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:15 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:58 CET -->

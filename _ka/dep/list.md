@@ -15,4 +15,4 @@ list(სია, აბაკელია)
 ~~~
 
 However it does **not** cover list items constructed with coordinating conjunctions and punctuation: those cases are covered by the dependency relations [cc](_ka/dep/cc) and [conj](_ka/dep/conj). 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:18 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:59 CET -->

@@ -28,4 +28,4 @@ Note that there is no `No` value. If the word is not possessive, the
 - _του_ "his", _της_ "her", _του_ "its"
 - _του οποίου_  "whose"
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:16 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:00 CET -->

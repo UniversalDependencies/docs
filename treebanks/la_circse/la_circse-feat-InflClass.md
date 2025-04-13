@@ -15,7 +15,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 15020 tokens (79%) have a non-empty value of `InflClass`.
 7555 types (97%) occur at least once with a non-empty value of `InflClass`.
 3359 lemmas (92%) occur at least once with a non-empty value of `InflClass`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (5837; 31% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (3944; 21% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2465; 13% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt> (1063; 6% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (710; 4% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (696; 4% instances), <tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (262; 1% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (43; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (5837; 31% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (3944; 21% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2465; 13% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt> (1064; 6% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (709; 4% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (696; 4% instances), <tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (262; 1% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (43; 0% instances).
 
 ### `NOUN`
 
@@ -137,9 +137,9 @@ The most frequent other feature values with which `ADJ` and `InflClass` co-occur
 
 ### `DET`
 
-1063 <tt><a href="la_circse-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `InflClass`.
+1064 <tt><a href="la_circse-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `InflClass`.
 
-The most frequent other feature values with which `DET` and `InflClass` co-occurred: <tt><a href="la_circse-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (894; 84%), <tt><a href="la_circse-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (818; 77%), <tt><a href="la_circse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (818; 77%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (702; 66%).
+The most frequent other feature values with which `DET` and `InflClass` co-occurred: <tt><a href="la_circse-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (895; 84%), <tt><a href="la_circse-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (819; 77%), <tt><a href="la_circse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (819; 77%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (703; 66%).
 
 `DET` tokens may have the following values of `InflClass`:
 
@@ -147,7 +147,7 @@ The most frequent other feature values with which `DET` and `InflClass` co-occur
 * `IndEurA` (106; 10% of non-empty `InflClass`): <em>nostra, tuam, suas, sua, mea, meas, nostrae, suae, tanta, tua</em>
 * `IndEurA,IndEurO` (5; 0% of non-empty `InflClass`): <em>suis, meis, nostris</em>
 * `IndEurI` (100; 9% of non-empty `InflClass`): <em>omnis, omne, omnes, omnium, omni, omnibus, qualis, omnia, omnem, quale</em>
-* `IndEurO` (214; 20% of non-empty `InflClass`): <em>meum, suos, cetera, sua, suo, meos, tui, tuos, cuncta, meis</em>
+* `IndEurO` (215; 20% of non-empty `InflClass`): <em>meum, suos, cetera, sua, suo, meos, tui, tuos, cuncta, meis</em>
 * `IndEurX` (13; 1% of non-empty `InflClass`): <em>plura, pluris, plus, pluribus, compluris, plures</em>
 * `LatPron` (615; 58% of non-empty `InflClass`): <em>hoc, haec, ille, ipse, hic, quicquid, nulla, ipsa, hunc, ista</em>
 
@@ -184,19 +184,18 @@ The most frequent other feature values with which `DET` and `InflClass` co-occur
 
 ### `PRON`
 
-710 <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `InflClass`.
+709 <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `InflClass`.
 
-The most frequent other feature values with which `PRON` and `InflClass` co-occurred: <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (568; 80%), <tt><a href="la_circse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (391; 55%).
+The most frequent other feature values with which `PRON` and `InflClass` co-occurred: <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (567; 80%), <tt><a href="la_circse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (390; 55%).
 
 `PRON` tokens may have the following values of `InflClass`:
 
 * `Ind` (12; 2% of non-empty `InflClass`): <em>nil, nihil</em>
-* `IndEurO` (1; 0% of non-empty `InflClass`): <em>tantum</em>
 * `IndEurX` (12; 2% of non-empty `InflClass`): <em>nemo</em>
 * `LatAnom` (275; 39% of non-empty `InflClass`): <em>te, me, tibi, se, mihi, tu, nos, ego, sui, uos</em>
 * `LatPron` (410; 58% of non-empty `InflClass`): <em>quae, qui, quod, quid, quis, quem, quibus, cuius, quas, id</em>
 
-`InflClass` seems to be **lexical feature** of `PRON`. 100% lemmas (14) occur only with one value of `InflClass`.
+`InflClass` seems to be **lexical feature** of `PRON`. 100% lemmas (13) occur only with one value of `InflClass`.
 
 ### `PROPN`
 
@@ -269,11 +268,11 @@ The 10 most frequent relations where parent and child node agree in `InflClass`:
 <tt>ADJ --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> ADJ</tt> (81; 56%),
 <tt>VERB --[<tt><a href="la_circse-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (12; 60%),
 <tt>VERB --[<tt><a href="la_circse-dep-obj.html">obj</a></tt>]--> VERB</tt> (10; 53%),
-<tt>DET --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> DET</tt> (7; 100%),
+<tt>DET --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> DET</tt> (8; 100%),
 <tt>PRON --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> PRON</tt> (7; 100%),
 <tt>VERB --[<tt><a href="la_circse-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (7; 54%),
-<tt>DET --[<tt><a href="la_circse-dep-det.html">det</a></tt>]--> PRON</tt> (5; 100%),
 <tt>DET --[<tt><a href="la_circse-dep-det.html">det</a></tt>]--> DET</tt> (4; 57%),
-<tt>VERB --[<tt><a href="la_circse-dep-flat-redup.html">flat:redup</a></tt>]--> VERB</tt> (4; 100%),
-<tt>NOUN --[<tt><a href="la_circse-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (3; 75%).
+<tt>DET --[<tt><a href="la_circse-dep-det.html">det</a></tt>]--> PRON</tt> (4; 100%),
+<tt>PRON --[<tt><a href="la_circse-dep-det.html">det</a></tt>]--> DET</tt> (4; 57%),
+<tt>VERB --[<tt><a href="la_circse-dep-flat-redup.html">flat:redup</a></tt>]--> VERB</tt> (4; 100%).
 

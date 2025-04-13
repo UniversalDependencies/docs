@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 17031 tokens (46%) have a non-empty value of `Number`.
 5451 types (82%) occur at least once with a non-empty value of `Number`.
 2703 lemmas (72%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (5199; 14% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (4143; 11% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (3785; 10% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (1594; 4% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1117; 3% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (778; 2% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (289; 1% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (90; 0% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (36; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (5199; 14% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (4142; 11% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (3785; 10% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (1594; 4% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1118; 3% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (778; 2% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (289; 1% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (90; 0% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (36; 0% instances).
 
 ### `NOUN`
 
@@ -44,14 +44,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `PRON`
 
-4143 <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
+4142 <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2791; 67%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2772; 67%), <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2738; 66%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2790; 67%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2771; 67%), <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2738; 66%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (499; 12% of non-empty `Number`): <em>wir, die, sie, bizim, ihr, uns, onlar, sich, onları, biz</em>
-* `Sing` (3644; 88% of non-empty `Number`): <em>ich, das, es, du, ben, o, ondan, man, was, mir</em>
+* `Sing` (3643; 88% of non-empty `Number`): <em>ich, das, es, du, ben, o, ondan, man, was, mir</em>
 * `EMPTY` (12): <em>dazu, I, O, Worüber, my, ne--, ney, this, viel</em>
 
 <table>
@@ -202,14 +202,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `DET`
 
-1117 <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> tokens (64% of all `DET` tokens) have a non-empty value of `Number`.
+1118 <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> tokens (64% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (968; 87%), <tt><a href="qtd_sagt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (721; 65%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (968; 87%), <tt><a href="qtd_sagt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (721; 64%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (172; 15% of non-empty `Number`): <em>die, den, viele, der, mehrere, diese, alle, manche, solche, manchen</em>
-* `Sing` (945; 85% of non-empty `Number`): <em>dem, der, die, ein, das, eine, einen, keine, den, einem</em>
+* `Sing` (946; 85% of non-empty `Number`): <em>dem, der, die, ein, das, eine, einen, keine, den, einem</em>
 * `EMPTY` (620): <em>bir, o, her, bu, böyle, çok, öyle, hangi, şu, birkaç</em>
 
 <table>
@@ -306,7 +306,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="qtd_sagt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1142; 64%),
-<tt>NOUN --[<tt><a href="qtd_sagt-dep-det.html">det</a></tt>]--> DET</tt> (921; 60%),
+<tt>NOUN --[<tt><a href="qtd_sagt-dep-det.html">det</a></tt>]--> DET</tt> (924; 60%),
 <tt>VERB --[<tt><a href="qtd_sagt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (834; 63%),
 <tt>VERB --[<tt><a href="qtd_sagt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (610; 56%),
 <tt>VERB --[<tt><a href="qtd_sagt-dep-conj.html">conj</a></tt>]--> VERB</tt> (409; 64%),

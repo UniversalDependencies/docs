@@ -12,15 +12,15 @@ udver: '2'
 # UD Italian ParTUT
 
 Language: [Italian](/it/index.html) (code: `it`)<br/>
-Family: Indo-European, Romance
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_Italian-ParTUT](https://github.com/UniversalDependencies/UD_Italian-ParTUT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_partut214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_partut215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -450,7 +450,8 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Prs
     <ul>
-      <li>DET: sua, suo, loro, sue, suoi, mio, nostro, nostra, proprio, propria</li>
+      <li>ADJ: propria</li>
+      <li>DET: sua, suo, loro, sue, suoi, mio, nostro, nostra, proprio, tuo</li>
       <li>PRON: si, lo, ci, ne, mi, vi, c', noi, la, li</li>
     </ul>
   </li>
@@ -501,7 +502,8 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Yes
     <ul>
-      <li>DET: sua, suo, loro, sue, suoi, mio, nostro, nostra, proprio, propria</li>
+      <li>ADJ: propria</li>
+      <li>DET: sua, suo, loro, sue, suoi, mio, nostro, nostra, proprio, tuo</li>
       <li>PRON: mio, proprio, sue, suo, tuo</li>
     </ul>
   </li>

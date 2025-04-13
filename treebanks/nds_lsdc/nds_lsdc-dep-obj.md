@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1140 nodes (5%) are attached to their parents as `obj`.
+1141 nodes (5%) are attached to their parents as `obj`.
 
-656 instances of `obj` (58%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.76578947368421.
+658 instances of `obj` (58%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.76950043821209.
 
-The following 10 pairs of parts of speech are connected with `obj`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (557; 49% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (529; 46% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (19; 2% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (18; 2% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (560; 49% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (528; 46% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (19; 2% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (19; 2% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,26 +60,23 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 9 obj	color:blue
-1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
-2	heb	hebben	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=hebben
-3	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
-4	auto	auto	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	lemma_gml=autô
-5	by	by	ADP	_	AdpType=Prep	6	case	_	lemma_gml=bî
-6	huus	huus	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	2	obl	_	lemma_gml=hûs
-7	en	un	CCONJ	_	_	13	cc	_	lemma_gml=ende
-8	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	13	aux	_	lemma_gml=künnen
-9	Daphne	Daphne	PROPN	_	Number=Sing	13	obj	_	lemma_gml=daphne
-10	wal	wol	ADV	_	_	13	advmod	_	lemma_gml=wol
-11	eaven	eaven	ADV	_	_	13	advmod	_	lemma_gml=ēvene
-12	wearüm	wedderüm	ADV	_	_	13	compound:prt	_	lemma_gml=wedderümme
-13	brengen	bringen	VERB	_	VerbForm=Inf	2	conj	_	lemma_gml=bringen|SpaceAfter=No
-14	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-15	”	”	PUNCT	_	_	2	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 obj	color:blue
+1	Och	och	INTJ	_	_	5	discourse	_	lemma_gml=och|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	minske	minske	NOUN	_	Case=Nom|Gender=Masc,Neut|Number=Sing	5	vocative	_	lemma_gml=minsche|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	gelöyvst	gelöyven	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	lemma_gml=gelö̂ven|SpaceAfter=No
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	lemma_gml=ik
+8	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	11	aux	_	lemma_gml=künnen
+9	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	lemma_gml=êin,êine,êin
+10	tweyde	tweyde	ADJ	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Ord	11	obj	_	lemma_gml=twêde
+11	maken	maken	VERB	_	VerbForm=Inf	5	ccomp	_	lemma_gml=māken|SpaceAfter=No
+12	?	?	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

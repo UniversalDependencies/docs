@@ -145,4 +145,4 @@ very natural.
 
 * _mikä tahansa_ "whichever, whatever"
 * _mikä vain_ "whichever, whatever"
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:13 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:54 CET -->

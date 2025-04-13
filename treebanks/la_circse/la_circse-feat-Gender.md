@@ -13,7 +13,7 @@ Some words have combined values of the feature; 3 combinations have been observe
 11396 tokens (60%) have a non-empty value of `Gender`.
 5474 types (70%) occur at least once with a non-empty value of `Gender`.
 2736 lemmas (75%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (5836; 31% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2480; 13% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt> (1052; 6% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (906; 5% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (678; 4% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (411; 2% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (33; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (5836; 31% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2480; 13% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt> (1053; 6% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (906; 5% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (678; 4% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (410; 2% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (33; 0% instances).
 
 ### `NOUN`
 
@@ -73,9 +73,9 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `DET`
 
-1052 <tt><a href="la_circse-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Gender`.
+1053 <tt><a href="la_circse-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="la_circse-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (883; 84%), <tt><a href="la_circse-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (807; 77%), <tt><a href="la_circse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (807; 77%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (702; 67%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (615; 58%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="la_circse-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (884; 84%), <tt><a href="la_circse-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (808; 77%), <tt><a href="la_circse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (808; 77%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (703; 67%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (615; 58%).
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 * `Fem,Masc,Neut` (23; 2% of non-empty `Gender`): <em>omnibus, aliis, his, illi, ipsis, nulli, solis, suis, alterius, huius</em>
 * `Masc` (399; 38% of non-empty `Gender`): <em>ille, ipse, hic, hunc, nullus, suos, iste, quisque, cuique, idem</em>
 * `Masc,Neut` (10; 1% of non-empty `Gender`): <em>illo, hoc, horum, idem, ipsum, meorum, sui, toto, tui</em>
-* `Neut` (299; 28% of non-empty `Gender`): <em>hoc, quicquid, omne, haec, cetera, sua, aliud, cuncta, meum, nostra</em>
+* `Neut` (300; 28% of non-empty `Gender`): <em>hoc, quicquid, omne, haec, cetera, sua, aliud, cuncta, meum, nostra</em>
 * `EMPTY` (13): <em>tot, quot, idem, plerique, totidem</em>
 
 <table>
@@ -158,9 +158,9 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 ### `PRON`
 
-411 <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> tokens (58% of all `PRON` tokens) have a non-empty value of `Gender`.
+410 <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> tokens (58% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (410; 100%), <tt><a href="la_circse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (367; 89%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (309; 75%), <tt><a href="la_circse-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (230; 56%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (410; 100%), <tt><a href="la_circse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (366; 89%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (308; 75%), <tt><a href="la_circse-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (230; 56%).
 
 `PRON` tokens may have the following values of `Gender`:
 
@@ -169,7 +169,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Fem,Masc,Neut` (22; 5% of non-empty `Gender`): <em>cuius, cui, quibus, quis</em>
 * `Masc` (140; 34% of non-empty `Gender`): <em>qui, quem, quis, quos, eos, quibus, quo, eius, cui, cuius</em>
 * `Masc,Neut` (2; 0% of non-empty `Gender`): <em>quo</em>
-* `Neut` (139; 34% of non-empty `Gender`): <em>quod, quid, quae, id, aliquid, quorum, aliquod, quicquam, quo, ea</em>
+* `Neut` (138; 34% of non-empty `Gender`): <em>quod, quid, quae, id, aliquid, quorum, aliquod, quicquam, quo, ea</em>
 * `EMPTY` (303): <em>te, me, tibi, se, mihi, tu, nemo, nos, ego, nihil</em>
 
 <table>

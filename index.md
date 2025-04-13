@@ -10,22 +10,32 @@ Universal Dependencies (UD) is a framework for consistent annotation of grammar
 (parts of speech, morphological features, and syntactic dependencies) across different human languages. UD is
 an open community effort with over 600 contributors producing over 200 treebanks in over 150 languages
 (see the bottom of this page for updated numbers from the latest release).
-If you're new to UD, you should start by reading the first part of the Short Introduction and then browsing the annotation guidelines.
+If you are new to UD, you should start by reading the first part of the Short Introduction and then browsing the annotation guidelines.
 
-* [Short introduction to UD](introduction.html)
-* [UD annotation guidelines](guidelines.html)
-* More information on UD:
-  * [How to contribute to UD](contribute.html)
+* Understanding UD
+  * [Short introduction to UD](introduction.html)
+  * [Annotation guidelines](guidelines.html)
+  * [Tutorials and events](events.html)
+* Using UD
+  * [Query UD treebanks online](query.html)
+  * [Download UD treebanks](download.html)
+    * Version 2.15 <a href="http://hdl.handle.net/11234/1-5787">http://hdl.handle.net/11234/1-5787</a> (296 treebanks, 168 languages, released November 15, 2024)
   * [Tools for working with UD](tools.html)
+* Contributing to UD
+  * [How to contribute to UD](contribute.html)
   * [Changes to the UD guidelines](changes.html)
-  * [UD-related events](events.html)
-  * [Projects related to UD](related.html)
-* Query UD treebanks online:
-  * [PML Tree Query](http://lindat.mff.cuni.cz/services/pmltq/) maintained by the Charles University in Prague
-  * [TEITOK](http://lindat.mff.cuni.cz/services/teitok/ud212/) maintained by the Charles University in Prague
-  * [Grew-match](http://match.grew.fr) maintained by Inria in Nancy
-  * [INESS](http://clarino.uib.no/iness) maintained by the University of Bergen
-* [Download UD treebanks](#download)
+* Projects related to UD
+  * [SUD: Surface Syntactic Universal Dependencies](https://surfacesyntacticud.github.io/)
+  * [Deep Universal Dependencies](https://ufal.mff.cuni.cz/deep-universal-dependencies)
+  * [Universal PropBank](https://universalpropositions.github.io/)
+  * [CorefUD: Coreference in Universal Dependencies](https://ufal.mff.cuni.cz/corefud)
+  * [UNER: Universal Named Entity Recognition](https://www.universalner.org/)
+  * [UMR: Uniform Meaning Representation](https://umr4nlp.github.io/web/)
+  * [UniMorph](https://unimorph.github.io/)
+  * [UDMorph](https://lindat.mff.cuni.cz/services/teitok-live/udmorph/)
+  * [UDer: Universal Derivations](https://ufal.mff.cuni.cz/universal-derivations)
+  * [PARSEME: Multiword expressions](https://gitlab.com/parseme/corpora/-/wikis/home)
+  * [UniDive COST Action](https://unidive.lisn.upsaclay.fr/doku.php?id=start)
 
 If you want to receive news about Universal Dependencies, you can subscribe to the
 [UD mailing list](https://lists.uu.se/sympa/info/lingfil-ud).
@@ -69,10 +79,11 @@ longer maintained and they have been excluded from the most recent release.
 
 ## Download
 
-The data is released through LINDAT/CLARIN.
+The data is released through [LINDAT/CLARIAH-CZ](https://lindat.mff.cuni.cz/repository/).
 
-* The next release (v2.15) is scheduled for November 15, 2024 (data freeze on November 1).
-* Version 2.14 treebanks are available at <a href="http://hdl.handle.net/11234/1-5502">http://hdl.handle.net/11234/1-5502</a>. 283 treebanks, 161 languages, released May 15, 2024.
+* The next release (v2.16) is scheduled for May 15, 2025 (data freeze on May 1).
+* Version 2.15 treebanks are available at <a href="http://hdl.handle.net/11234/1-5787">http://hdl.handle.net/11234/1-5787</a>. 296 treebanks, 168 languages, released November 15, 2024.
+* Version 2.14 treebanks are archived at http://hdl.handle.net/11234/1-5502. 283 treebanks, 161 languages, released May 15, 2024.
 * Version 2.13 treebanks are archived at http://hdl.handle.net/11234/1-5287. 259 treebanks, 148 languages, released November 15, 2023.
 * Version 2.12 treebanks are archived at http://hdl.handle.net/11234/1-5150. 245 treebanks, 141 languages, released May 15, 2023.
 * Version 2.11 treebanks are archived at http://hdl.handle.net/11234/1-4923. 243 treebanks, 138 languages, released November 15, 2022.

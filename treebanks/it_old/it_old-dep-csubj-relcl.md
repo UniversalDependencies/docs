@@ -9,52 +9,45 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_old-dep-csubj.html">csubj</a></tt>.
 There are also 1 other language-specific subtypes of `csubj`: <tt><a href="it_old-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-28 nodes (0%) are attached to their parents as `csubj:relcl`.
+45 nodes (0%) are attached to their parents as `csubj:relcl`.
 
-21 instances of `csubj:relcl` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.64285714285714.
+33 instances of `csubj:relcl` (73%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.42222222222222.
 
-The following 5 pairs of parts of speech are connected with `csubj:relcl`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (24; 86% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 4% instances).
+The following 6 pairs of parts of speech are connected with `csubj:relcl`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (37; 82% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (3; 7% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 24 19 csubj:relcl	color:blue
-1	Io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	Canto=19|Verso=22
-2	volsi	volgere	VERB	vta2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=19|Verso=22
-3	Ulisse	Ulisse	PROPN	np	_	2	obj	_	Canto=19|Verso=22
-4	di	di	ADP	_	_	7	case	_	Canto=19|Comment=de-l|Verso=22
-5	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Canto=19|Comment=de-l|Verso=22
-6	suo	suo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	Canto=19|Verso=22
-7	cammin	cammino	NOUN	sm2ms	Gender=Masc|Number=Sing	2	obl	_	Canto=19|Verso=22
-8	vago	vago	ADJ	a1msxc5	Gender=Masc|Number=Sing	7	amod	_	Canto=19|Verso=22
-9	a	a	ADP	_	_	11	case	_	Canto=19|Comment=a-l|Verso=23
-10	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Canto=19|Comment=a-l|Verso=23
-11	canto	canto	NOUN	sm2ms	Gender=Masc|Number=Sing	2	obl:lmod	_	Canto=19|Verso=23
-12	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	Canto=19|SpaceAfter=No|Verso=23
-13	;	;	PUNCT	_	_	24	punct	_	_
-14	e	e	CCONJ	cscc	_	24	cc	_	Canto=19|Verso=23
-15	qual	quale	PRON	pi	PronType=Ind	19	nsubj	_	Canto=19|Verso=23
-16	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	19	obl	_	Canto=19|Comment=me-co|Verso=23
-17	con	con	ADP	_	Clitic=Yes	16	case	_	Canto=19|Comment=me-co|Verso=23
-18	s'	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	19	expl:pv	_	Canto=19|Verso=23
-19	ausa	adusare	VERB	vta+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	csubj:relcl	_	Canto=19|SpaceAfter=No|Verso=23
-20	,	,	PUNCT	_	_	24	punct	_	_
-21	rado	rado	ADV	b	_	24	advmod	_	Canto=19|Verso=24
-22	se	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	24	expl:pv	_	Canto=19|Comment=se-n|Verso=24
-23	ne	ne	PRON	_	PronType=Prs	24	expl	_	Canto=19|Comment=se-n|Verso=24
-24	parte	partire	VERB	vi+3ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	Canto=19|SpaceAfter=No|Verso=24
-25	;	;	PUNCT	_	_	29	punct	_	_
-26	sì	così	ADV	b	_	29	advmod	_	Canto=19|Verso=24
-27	tutto	tutto	ADV	b	_	29	advmod	_	Canto=19|Verso=24
-28	l'	lo	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	obj	_	Canto=19|Verso=24
-29	appago	appagare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	Canto=19|SpaceAfter=No|Verso=24
-30	!	!	PUNCT	_	_	29	punct	_	SpaceAfter=No
-31	»	»	PUNCT	_	_	29	punct	_	SpaceAfter=No
-32	.	.	PUNCT	_	_	29	punct	_	_
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 18 csubj:relcl	color:blue
+1	Ma	ma	CCONJ	csca	_	10	cc	_	Canto=6|Verso=130
+2	i	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	Canto=6|Verso=130
+3	Provenzai	provenzale	NOUN	sm3mp	Gender=Masc|Number=Plur	10	nsubj	_	Canto=6|Verso=130
+4	che	che	PRON	pr	PronType=Rel	5	nsubj	_	Canto=6|Verso=130
+5	fecer	fare	VERB	vta1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	_	Canto=6|Verso=130
+6	contra	contro	ADP	eisks	_	7	case	_	Canto=6|Verso=130
+7	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	Canto=6|Verso=130
+8	non	non	ADV	b	PronType=Neg	10	advmod:neg	_	Canto=6|Verso=131
+9	hanno	avere	AUX	vta5ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	Canto=6|Verso=131
+10	riso	ridere	VERB	vi2ibp3	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Part	0	root	_	Canto=6|Verso=131|SpaceAfter=No
+11	;	;	PUNCT	_	_	15	punct	_	_
+12	e	e	CCONJ	cscc	_	15	cc	_	Canto=6|Verso=131
+13	però	però	ADV	cssc	_	15	advmod	_	Canto=6|Verso=131
+14	mal	male	ADV	b	_	15	advmod	_	Canto=6|Verso=131
+15	cammina	camminare	VERB	vi1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	parataxis	_	Canto=6|Verso=131
+16	qual	quale	PRON	pri2ms	PronType=Rel	18	nsubj	_	Canto=6|Verso=132
+17	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	18	expl:pv	_	Canto=6|Verso=132
+18	fa	fare	VERB	vta+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	csubj:relcl	_	Canto=6|Verso=132
+19	danno	danno	NOUN	sm2ms	Gender=Masc|Number=Sing	18	obj	_	Canto=6|Verso=132
+20	di	di	ADP	_	_	23	case	_	_
+21	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+22	ben	bene	ADV	b	_	23	advmod	_	Canto=6|Verso=132
+23	fare	fare	VERB	vta1fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	19	nmod	_	Canto=6|Verso=132
+24	altrui	altrui	DET	ai	PronType=Ind	23	det	_	Canto=6|Verso=132|SpaceAfter=No
+25	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 

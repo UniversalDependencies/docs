@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-73 nodes (2%) are attached to their parents as `parataxis`.
+72 nodes (2%) are attached to their parents as `parataxis`.
 
-69 instances of `parataxis` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.6986301369863.
+68 instances of `parataxis` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.79166666666667.
 
-The following 16 pairs of parts of speech are connected with `parataxis`: <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (18; 25% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (13; 18% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (11; 15% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (7; 10% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (7; 10% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 16 pairs of parts of speech are connected with `parataxis`: <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (18; 25% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (12; 17% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (10; 14% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (7; 10% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (7; 10% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -33,7 +33,7 @@ The following 16 pairs of parts of speech are connected with `parataxis`: <tt><a
 9	buidhe	buí	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	_
 11	nach	nach	PART	_	PartType=Cmpl|Polarity=Neg	12	mark:prt	_	_
-12	ndéanfá	déan	VERB	_	Form=Ecl|Mood=Cnd|Number=Sing|Person=2	2	parataxis	_	SpaceAfter=No
+12	ndéanfá	déan	VERB	_	Form=Ecl|Mood=Cnd|Number=Sing|Person=2|Polarity=Neg	2	parataxis	_	SpaceAfter=No
 13	?	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
 ~~~
@@ -50,10 +50,10 @@ The following 16 pairs of parts of speech are connected with `parataxis`: <tt><a
 3	tu	tú	PRON	_	Number=Sing|Person=2	2	nsubj	_	_
 4	íad	iad	PRON	_	Number=Plur|Person=3	2	obj	_	_
 5	amhlaidh	amhlaidh	ADV	_	_	2	advmod	_	_
-6	re	le	ADP	_	_	9	case	_	_
-7	ré	ré	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	fixed	_	_
+6	re	le	ADP	_	_	7	case	_	_
+7	ré	ré	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	obl	_	_
 8	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	chogaidh	cogadh	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	obl	_	_
+9	chogaidh	cogadh	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	7	nmod	_	_
 10	chatharmaigh	armach	ADJ	_	Case=Gen|Form=Len|Gender=Masc|Number=Sing	9	amod	_	_
 11	ceithre	ceathair	NUM	_	NumType=Card	12	nummod	_	_
 12	bliaghna	bliain	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	parataxis	_	_

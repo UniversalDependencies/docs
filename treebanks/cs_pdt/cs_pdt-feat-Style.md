@@ -18,8 +18,6 @@ The feature is used with 9 part-of-speech tags: <tt><a href="cs_pdt-pos-NOUN.htm
 
 80 <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `NOUN` and `Style` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (80; 100%).
-
 `NOUN` tokens may have the following values of `Style`:
 
 * `Coll` (60; 75% of non-empty `Style`): <em>°, rozběžky, cestovky, hodinovce, kafe, maskáče, pangejtu, Déčku, Médyja, Pámbu</em>
@@ -33,7 +31,7 @@ The most frequent other feature values with which `NOUN` and `Style` co-occurred
 
 22 <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (19; 86%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (19; 86%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 82%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (17; 77%), <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (16; 73%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (13; 59%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (12; 55%).
+The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (19; 86%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (19; 86%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 82%), <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (17; 77%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (17; 77%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (13; 59%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (12; 55%).
 
 `ADJ` tokens may have the following values of `Style`:
 
@@ -47,7 +45,7 @@ The most frequent other feature values with which `ADJ` and `Style` co-occurred:
 
 12 <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `PROPN` and `Style` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (12; 100%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (10; 83%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (10; 83%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 75%), <tt><a href="cs_pdt-feat-NameType.html">NameType</a></tt><tt>=Geo</tt> (7; 58%).
+The most frequent other feature values with which `PROPN` and `Style` co-occurred: <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (10; 83%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (10; 83%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 75%), <tt><a href="cs_pdt-feat-NameType.html">NameType</a></tt><tt>=Geo</tt> (7; 58%).
 
 `PROPN` tokens may have the following values of `Style`:
 

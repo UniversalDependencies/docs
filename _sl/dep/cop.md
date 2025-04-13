@@ -59,4 +59,4 @@ nsubj(prohibited,smoking)
 ~~~
 
 As a legacy of the JOS annotation system, predicative constructions with prepositional phrases (e.g. _biti v formi_ 'to be in shape') or adverbs (e.g. _to ni prav_ 'this is not correct') are currently not analyzed as copula constructions, as priority is given to form over [semantics](https://universaldependencies.org/v2/copula.html#guidelines-for-udv2) of _biti_. Therefore, both _biti v formi_ 'to be in shape' and _biti v sobi_ 'to be in a room' are analyzed in the same way, with _biti_ 'to be' tagged as [VERB]() and treated as the head of the dependent prepositional phrase ([obl]()). 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:00 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:42 CET -->

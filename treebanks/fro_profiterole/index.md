@@ -12,15 +12,15 @@ udver: '2'
 # UD Old French PROFITEROLE
 
 Language: [Old French](/fro/index.html) (code: `fro`)<br/>
-Family: Indo-European, Romance
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
 
 The following people have contributed to making this treebank part of UD: Sophie Prévost, Aurélie Collomb, Kim Gerdes, Isabelle Tellier, Marine Courtin, Alexei Lavrentiev, Céline Guillot-Barbance, Loïc Grobol, Mathilde Regnault.
 
 Repository: [UD_Old_French-PROFITEROLE](https://github.com/UniversalDependencies/UD_Old_French-PROFITEROLE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfro_profiterole214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfro_profiterole215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -168,11 +168,11 @@ Corpus Linguistics and International Perspectives on Language. Gunter Narr Verla
 
 
 <ul>
-<li>This corpus contains 19765 sentences and 227137 tokens.</li>
+<li>This corpus contains 20363 sentences and 237913 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 32167 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 33522 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -180,7 +180,7 @@ Corpus Linguistics and International Perspectives on Language. Gunter Narr Verla
 </ul>
 
 <ul>
-<li>This corpus contains 155 types of words that contain both letters and punctuation. Examples: l', qu', s', n', d', m', .i., t', c', j', jusqu', .ii., l'en, entr', .iiii., .iii., g', q', .xx., .xii., .c., .vii., ensembl', un', ·l, quanqu', ch', .v., .xxx., c., tresqu', .x., .c.m., entresqu', k', .xv., .l., .vi., .xxiiii., .ix., josqu', .viii., an.ii., cest', ·s, .XL., .iiij.m., .lx., .xxxvi.m., jesqu'</li>
+<li>This corpus contains 157 types of words that contain both letters and punctuation. Examples: l', qu', s', n', d', m', .i., t', c', j', jusqu', .ii., l'en, entr', .iiii., .iii., g', q', .xx., .xii., .c., .vii., ch', ensembl', un', ·l, quanqu', .v., .xxx., c., tresqu', .x., k', .c.m., entresqu', .xv., .l., .vi., .xxiiii., .ix., josqu', .viii., an.ii., cest', ·s, .XL., .iiij.m., .lx., .xxxvi.m., jesqu'</li>
 </ul>
 
 <ul>
@@ -225,8 +225,8 @@ Corpus Linguistics and International Perspectives on Language. Gunter Narr Verla
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: est, fu, a, estoit, ad, avoit, furent, ai, sont, ert</li>
-    <li>VERB: dist, fet, fist, est, fait, a, vint, ad, avoit, ot</li>
+    <li>AUX: est, fu, a, estoit, avoit, ad, furent, ai, sont, ert</li>
+    <li>VERB: dist, fist, fet, est, fait, a, avoit, vint, ad, ot</li>
   </ul>
   </li>
 </ul>
@@ -236,7 +236,7 @@ Corpus Linguistics and International Perspectives on Language. Gunter Narr Verla
   <ul>
     <li>AUX: estre, avoir, estra, aveir, estr', iestre</li>
     <li>NOUN: avoir, estre, saveir, plesir, departir, mangier, pooir, savoir, avoirs, consirrer</li>
-    <li>VERB: aler, dire, venir, faire, parler, avoir, prendre, veoir, fere, estre</li>
+    <li>VERB: aler, dire, faire, venir, parler, avoir, prendre, veoir, estre, fere</li>
   </ul>
   </li>
 </ul>
@@ -245,9 +245,9 @@ Corpus Linguistics and International Perspectives on Language. Gunter Narr Verla
   <li>Part
   <ul>
     <li>ADJ: dolanz, clére, cuintes, demenies, enceinte, barbee, dolantes, hardiz, quarré</li>
-    <li>AUX: esté, fait, estet</li>
+    <li>AUX: esté, fait, estet, fais</li>
     <li>NOUN: amant, mesfait, dormanz, esliz, esposez, junie, mort, sacrefises, senblant, morz</li>
-    <li>VERB: fait, dit, mort, mis, fet, venuz, pris, morz, oï, prise</li>
+    <li>VERB: fait, dit, mis, mort, fet, venuz, pris, morz, prise, oï</li>
   </ul>
   </li>
 </ul>
@@ -294,6 +294,7 @@ Corpus Linguistics and International Perspectives on Language. Gunter Narr Verla
   <li>Neg
     <ul>
       <li>ADV: ne, n', mie, pas, non, point, nen, nun, nes, nient</li>
+      <li>CCONJ: n'</li>
       <li>PRON: nel, nes, nu, nen, nul</li>
     </ul>
   </li>
@@ -314,11 +315,11 @@ Corpus Linguistics and International Perspectives on Language. Gunter Narr Verla
     <ul>
       <li>ADJ: hardi, hardiz, barbee, quarré</li>
       <li>ADJ-Part: barbee, hardiz, quarré</li>
-      <li>AUX: esté, este, fait, éste, estet</li>
-      <li>AUX-Part: esté, fait, estet</li>
+      <li>AUX: esté, este, fait, éste, estet, fais</li>
+      <li>AUX-Part: esté, fait, estet, fais</li>
       <li>NOUN-Part: morz, Seignurs, adubez, asolue, comandet, guariz, loee, parjurez, preisez</li>
       <li>VERB: fait, dit, mis, mort, venuz, fet, pris, morz, prise, oï</li>
-      <li>VERB-Part: fait, dit, mort, mis, fet, venuz, pris, morz, oï, prise</li>
+      <li>VERB-Part: fait, dit, mis, mort, fet, venuz, pris, morz, prise, oï</li>
     </ul>
   </li>
 </ul>
@@ -327,8 +328,8 @@ Corpus Linguistics and International Perspectives on Language. Gunter Narr Verla
   <li>Pres
     <ul>
       <li>ADJ-Part: dolanz, dolantes</li>
-      <li>VERB: querant, curant, plorant, recreant, parlant, recreanz, trenchant, veant, curanz, dolans</li>
-      <li>VERB-Part: querant, curant, plorant, parlant, recreant, recreanz, trenchant, veant, curanz, dolans</li>
+      <li>VERB: querant, curant, plorant, recreant, fuiant, parlant, recreanz, trenchant, veant, curanz</li>
+      <li>VERB-Part: querant, curant, plorant, fuiant, parlant, recreant, recreanz, trenchant, veant, curanz</li>
     </ul>
   </li>
 </ul>
@@ -345,7 +346,7 @@ Corpus Linguistics and International Perspectives on Language. Gunter Narr Verla
 <ul>
   <li>Art
     <ul>
-      <li>ADP: au, des, del, as, el, du, dou, al, ou, es</li>
+      <li>ADP: au, des, as, del, el, du, dou, al, ou, es</li>
       <li>AUX: es</li>
       <li>DET: li, la, le, l', les, un, une, .i., uns, unes</li>
     </ul>
@@ -358,8 +359,8 @@ Corpus Linguistics and International Perspectives on Language. Gunter Narr Verla
       <li>ADP: Ches, an</li>
       <li>ADV: en, i, an, í, em, u, o, ent, enn, ·n</li>
       <li>AUX: en</li>
-      <li>DET: ceste, cest, cele, cel, ces, cil, cez, cist, ches, chu</li>
-      <li>PRON: ce, cil, ço, çó, chou, celui, cele, cels, chil, che</li>
+      <li>DET: ceste, cest, cele, cel, ces, ches, cil, chele, cez, cist</li>
+      <li>PRON: ce, cil, ço, chou, çó, chil, celui, che, cele, cels</li>
     </ul>
   </li>
 </ul>
@@ -367,10 +368,10 @@ Corpus Linguistics and International Perspectives on Language. Gunter Narr Verla
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: autre, meïsmes, autres, tel, altre, nule, meïsme, tex, altres, meesme</li>
-      <li>ADV: tout, tot, tut, tant, po, alques, tous, Tel, Tute, el</li>
-      <li>DET: tel, toz, nule, tote, nul, tuit, autre, tot, tout, toutes</li>
-      <li>PRON: on, autre, tuit, nus, rien, uns, un, autres, l'en, en</li>
+      <li>ADJ: autre, autres, meïsmes, tel, altre, nule, meïsme, tex, meesme, altres</li>
+      <li>ADV: tout, tot, tut, tant, tous, po, alques, toute, Tel, Tute</li>
+      <li>DET: tel, toz, nule, nul, tote, tout, tuit, autre, tot, toutes</li>
+      <li>PRON: on, autre, tuit, nus, rien, uns, autres, un, l'en, en</li>
       <li>SCONJ: quant, que</li>
     </ul>
   </li>
@@ -389,9 +390,9 @@ Corpus Linguistics and International Perspectives on Language. Gunter Narr Verla
 <ul>
   <li>Prs
     <ul>
-      <li>ADV: nen, s', nel</li>
+      <li>ADV: nen, s', sil, nel</li>
       <li>DET: les, l', le, li, me, la, lor</li>
-      <li>PRON: il, vos, li, s', le, l', je, se, ele, lui</li>
+      <li>PRON: il, li, vos, s', le, l', je, se, ele, lui</li>
       <li>SCONJ: s', se</li>
     </ul>
   </li>
@@ -413,7 +414,7 @@ Corpus Linguistics and International Perspectives on Language. Gunter Narr Verla
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: Dun, que, u</li>
+      <li>ADV: Dun, dont, que, u</li>
       <li>CCONJ: ou</li>
       <li>DET: quel, quele, quelque, quiex, qel, quels, qual, quex, laquele, ques</li>
       <li>PRON: qui, ou, que, qu', dont, donc, ki, coi, dom, cui</li>
@@ -430,9 +431,9 @@ Corpus Linguistics and International Perspectives on Language. Gunter Narr Verla
   <li>Card
     <ul>
       <li>ADJ: premereins, dui, .iii., .vii., ambesdous, anbedui, mille, premer, premerein, troi</li>
-      <li>DET: mile, .I., deus, .XXIIII., .iij., .l., .vij.c., Un, ambdui, chens</li>
-      <li>NUM: deus, .ii., trois, dous, cent, dui, quatre, .iiii., milie, .iii.</li>
-      <li>PRON: milie, trois, deus, dui, andui, .ii., un, troi, quatre, uns</li>
+      <li>DET: chens, mile, .I., deus, .XXIIII., .iij., .l., .vij.c., Un, ambdui</li>
+      <li>NUM: deus, .ii., trois, dous, cent, quatre, dui, .iiii., dis, milie</li>
+      <li>PRON: milie, trois, deus, dui, andui, .ii., un, quatre, troi, dis</li>
     </ul>
   </li>
 </ul>
@@ -440,9 +441,9 @@ Corpus Linguistics and International Perspectives on Language. Gunter Narr Verla
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: premiere, tierche, premeraine, premeraines, premiers, primiers, quarte, tier, tierz</li>
+      <li>ADJ: premiere, premiers, quarte, tierche, premeraine, premeraines, primiers, tier, tierz</li>
       <li>DET: tierz, premiere, tierce</li>
-      <li>PRON: tierz, quarte, terce, disme, quarz, sedme, noefme, premere, quinte, siste</li>
+      <li>PRON: tierz, quarte, terce, disme, quarz, sedme, noefme, premere, quart, quinte</li>
     </ul>
   </li>
 </ul>
@@ -455,8 +456,8 @@ Corpus Linguistics and International Perspectives on Language. Gunter Narr Verla
   <li>Yes
     <ul>
       <li>ADJ: mien, vostre, suen, sue, men, nostre, meie, moie, soe, miens</li>
-      <li>DET: sa, son, ses, sun, vostre, lor, ma, nostre, mon, mes</li>
-      <li>PRON: suen, mien, suens, noz, sien, vostre, lur, soe, leur, lor</li>
+      <li>DET: sa, son, ses, sun, vostre, nostre, lor, ma, mon, mes</li>
+      <li>PRON: suen, mien, suens, noz, sien, siens, vostre, lur, soe, leur</li>
     </ul>
   </li>
 </ul>
@@ -535,14 +536,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (76)</li>
       <li>VERB--PRON (98)</li>
-      <li>VERB-Fin--NOUN (3257)</li>
+      <li>VERB-Fin--NOUN (3455)</li>
       <li>VERB-Fin--NOUN-ADP(_) (3)</li>
-      <li>VERB-Fin--PRON (8138)</li>
+      <li>VERB-Fin--PRON (8540)</li>
       <li>VERB-Fin--PRON-ADP(_) (3)</li>
-      <li>VERB-Inf--NOUN (161)</li>
-      <li>VERB-Inf--PRON (846)</li>
-      <li>VERB-Part--NOUN (927)</li>
-      <li>VERB-Part--PRON (1739)</li>
+      <li>VERB-Inf--NOUN (167)</li>
+      <li>VERB-Inf--PRON (878)</li>
+      <li>VERB-Part--NOUN (989)</li>
+      <li>VERB-Part--PRON (1855)</li>
     </ul>
   </li>
 </ul>
@@ -552,26 +553,26 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (75)</li>
       <li>VERB--PRON (61)</li>
-      <li>VERB-Fin--NOUN (5204)</li>
-      <li>VERB-Fin--NOUN-ADP(_) (71)</li>
+      <li>VERB-Fin--NOUN (5394)</li>
+      <li>VERB-Fin--NOUN-ADP(_) (80)</li>
       <li>VERB-Fin--NOUN-ADP(dalez) (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (20)</li>
       <li>VERB-Fin--NOUN-ADP(en) (2)</li>
       <li>VERB-Fin--NOUN-ADP(par) (1)</li>
-      <li>VERB-Fin--PRON (5010)</li>
+      <li>VERB-Fin--PRON (5164)</li>
       <li>VERB-Fin--PRON-ADP(_) (5)</li>
       <li>VERB-Fin--PRON-ADP(de) (2)</li>
       <li>VERB-Fin--PRON-ADP(por) (1)</li>
-      <li>VERB-Inf--NOUN (1014)</li>
-      <li>VERB-Inf--NOUN-ADP(_) (9)</li>
+      <li>VERB-Inf--NOUN (1057)</li>
+      <li>VERB-Inf--NOUN-ADP(_) (11)</li>
       <li>VERB-Inf--NOUN-ADP(de) (3)</li>
-      <li>VERB-Inf--PRON (939)</li>
+      <li>VERB-Inf--PRON (967)</li>
       <li>VERB-Inf--PRON-ADP(_) (2)</li>
       <li>VERB-Inf--PRON-ADP(por) (1)</li>
-      <li>VERB-Part--NOUN (761)</li>
-      <li>VERB-Part--NOUN-ADP(_) (8)</li>
+      <li>VERB-Part--NOUN (783)</li>
+      <li>VERB-Part--NOUN-ADP(_) (14)</li>
       <li>VERB-Part--NOUN-ADP(de) (2)</li>
-      <li>VERB-Part--PRON (949)</li>
+      <li>VERB-Part--PRON (974)</li>
       <li>VERB-Part--PRON-ADP(_) (1)</li>
     </ul>
   </li>
@@ -584,8 +585,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-ADP(_) (7)</li>
       <li>VERB--PRON-ADP(_)-ADP(_) (2)</li>
       <li>VERB-Fin--NOUN (1)</li>
-      <li>VERB-Fin--PRON (2446)</li>
-      <li>VERB-Fin--PRON-ADP(_) (257)</li>
+      <li>VERB-Fin--PRON (2522)</li>
+      <li>VERB-Fin--PRON-ADP(_) (258)</li>
       <li>VERB-Fin--PRON-ADP(_)-ADP(_) (3)</li>
       <li>VERB-Fin--PRON-ADP(a) (19)</li>
       <li>VERB-Fin--PRON-ADP(après) (3)</li>
@@ -605,7 +606,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-ADP(por) (1)</li>
       <li>VERB-Fin--PRON-ADP(sor) (2)</li>
       <li>VERB-Fin--PRON-ADP(vers) (7)</li>
-      <li>VERB-Inf--PRON (231)</li>
+      <li>VERB-Inf--PRON (240)</li>
       <li>VERB-Inf--PRON-ADP(_) (42)</li>
       <li>VERB-Inf--PRON-ADP(a) (6)</li>
       <li>VERB-Inf--PRON-ADP(dalez) (1)</li>
@@ -613,7 +614,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-ADP(devant) (4)</li>
       <li>VERB-Inf--PRON-ADP(en) (1)</li>
       <li>VERB-Inf--PRON-ADP(vers) (2)</li>
-      <li>VERB-Part--PRON (427)</li>
+      <li>VERB-Part--PRON (446)</li>
       <li>VERB-Part--PRON-ADP(_) (43)</li>
       <li>VERB-Part--PRON-ADP(a) (4)</li>
       <li>VERB-Part--PRON-ADP(de) (2)</li>

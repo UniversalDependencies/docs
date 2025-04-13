@@ -82,6 +82,8 @@ The most frequent other feature values with which `ADP` and `Typo` co-occurred: 
 
 3 <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
 
+The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="he_iahltwiki-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3; 100%).
+
 `ADV` tokens may have the following values of `Typo`:
 
 * `Yes` (3; 100% of non-empty `Typo`): מיד, מינהלית, מספיקות

@@ -17,6 +17,7 @@ _a_, _an_        | `Definite=Ind|PronType=Art`
 _the_            | `Definite=Def|PronType=Art`
 _this_, _that_   | `Number=Sing|PronType=Dem`
 _these_, _those_ | `Number=Plur|PronType=Dem`
+_them_           | `Number=Plur|PronType=Dem|Style=Vrnc`
 _yonder_         | `PronType=Dem`
 _all_, _both_, _each_\*\*, _every_ | `PronType=Tot`
 _half_\*         | `NumForm=Word|NumType=Frac|PronType=Ind`
@@ -29,4 +30,4 @@ _which_, _what_, _whatever_            | `PronType=Int` or `PronType=Rel`
 
 \*\* Except reciprocal _each other_ and _one another_: see [PRON](https://universaldependencies.org/en/pos/PRON.html#reciprocal-pronouns)
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:35 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:21 CET -->

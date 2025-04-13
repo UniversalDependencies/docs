@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>jejich</em> (<tt><a href="cs_cltt-pos
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 4.450000 (the average of all parts of speech is 1.713272).
+The form / lemma ratio of `DET` is 4.450000 (the average of all parts of speech is 1.709632).
 
 The 1st highest number of forms (15) was observed with the lemma “tento”: <em>t, tato, tento, tohoto, tomto, tomuto, toto, touto, tuto, tyto, této, tímto, těchto, těmito, těmto</em>.
 

@@ -12,15 +12,15 @@ udver: '2'
 # UD Galician PUD
 
 Language: [Galician](/gl/index.html) (code: `gl`)<br/>
-Family: Indo-European, Romance
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.14 release.
 
 The following people have contributed to making this treebank part of UD: Albina Sarymsakova, Xulia Sánchez-Rodríguez, Marcos Garcia.
 
 Repository: [UD_Galician-PUD](https://github.com/UniversalDependencies/UD_Galician-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_pud214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_pud215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -95,11 +95,11 @@ pages = "587--592",
 
 ## POS Tags
 
-[ADJ](gl_pud-pos-ADJ.html) – [ADP](gl_pud-pos-ADP.html) – [ADV](gl_pud-pos-ADV.html) – [AUX](gl_pud-pos-AUX.html) – [CCONJ](gl_pud-pos-CCONJ.html) – [DET](gl_pud-pos-DET.html) – [NOUN](gl_pud-pos-NOUN.html) – [NUM](gl_pud-pos-NUM.html) – [PRON](gl_pud-pos-PRON.html) – [PROPN](gl_pud-pos-PROPN.html) – [PUNCT](gl_pud-pos-PUNCT.html) – [SCONJ](gl_pud-pos-SCONJ.html) – [SYM](gl_pud-pos-SYM.html) – [VERB](gl_pud-pos-VERB.html)
+[ADJ](gl_pud-pos-ADJ.html) – [ADP](gl_pud-pos-ADP.html) – [ADV](gl_pud-pos-ADV.html) – [AUX](gl_pud-pos-AUX.html) – [CCONJ](gl_pud-pos-CCONJ.html) – [DET](gl_pud-pos-DET.html) – [NOUN](gl_pud-pos-NOUN.html) – [NUM](gl_pud-pos-NUM.html) – [PRON](gl_pud-pos-PRON.html) – [PROPN](gl_pud-pos-PROPN.html) – [PUNCT](gl_pud-pos-PUNCT.html) – [SCONJ](gl_pud-pos-SCONJ.html) – [SYM](gl_pud-pos-SYM.html) – [VERB](gl_pud-pos-VERB.html) – [X](gl_pud-pos-X.html)
 
 ## Features
 
-[AdpType](gl_pud-feat-AdpType.html) – [Case](gl_pud-feat-Case.html) – [Definite](gl_pud-feat-Definite.html) – [Gender](gl_pud-feat-Gender.html) – [Mood](gl_pud-feat-Mood.html) – [Number](gl_pud-feat-Number.html) – [Number[psor]](gl_pud-feat-Number-psor.html) – [NumType](gl_pud-feat-NumType.html) – [Person](gl_pud-feat-Person.html) – [Polarity](gl_pud-feat-Polarity.html) – [Poss](gl_pud-feat-Poss.html) – [PronType](gl_pud-feat-PronType.html) – [Tense](gl_pud-feat-Tense.html) – [VerbForm](gl_pud-feat-VerbForm.html)
+[AdpType](gl_pud-feat-AdpType.html) – [Case](gl_pud-feat-Case.html) – [Definite](gl_pud-feat-Definite.html) – [Foreign](gl_pud-feat-Foreign.html) – [Gender](gl_pud-feat-Gender.html) – [Mood](gl_pud-feat-Mood.html) – [Number](gl_pud-feat-Number.html) – [Number[psor]](gl_pud-feat-Number-psor.html) – [NumType](gl_pud-feat-NumType.html) – [Person](gl_pud-feat-Person.html) – [Polarity](gl_pud-feat-Polarity.html) – [Poss](gl_pud-feat-Poss.html) – [PronType](gl_pud-feat-PronType.html) – [Tense](gl_pud-feat-Tense.html) – [VerbForm](gl_pud-feat-VerbForm.html)
 
 ## Relations
 
@@ -109,11 +109,11 @@ pages = "587--592",
 
 
 <ul>
-<li>This corpus contains 1000 sentences, 21836 tokens and 23510 syntactic words.</li>
+<li>This corpus contains 1000 sentences, 21835 tokens and 23509 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2604 tokens (12%) that are not followed by a space.</li>
+<li>This corpus contains 2603 tokens (12%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -121,12 +121,12 @@ pages = "587--592",
 </ul>
 
 <ul>
-<li>This corpus contains 13 types of words that contain both letters and punctuation. Examples: a., C., Sra., Sr., EE.UU., d., B-29, Don't, Hitchhiker's, Jr., St., Z., Zettel's</li>
+<li>This corpus contains 15 types of words that contain both letters and punctuation. Examples: a., C., Sra., Sr., EE.UU., d., 'Ya, B-29, Don't, Hitchhiker's, Jr., Metti,, St., Z., Zettel's</li>
 </ul>
 
 <ul>
 <li>This corpus contains 1668 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 184 types of multi-word tokens. Examples: do, da, no, na, ao, dos, á, das, nos, polo, co, nun, dunha, nas, ás, coa, dun, nunha, pola, aos, coas, cos, polas, cun, deste, desta, doutra, atópase, cunha, neste, polos, pódese, del, deles, destes, pódense, doutro, facelo, fíxose, naquela, nese, nesta, atópanse, destas, diso, disto, díxolle, enfróntase, espérase, mostráronse.</li>
+<li>There are 184 types of multi-word tokens. Examples: do, da, no, na, ao, dos, á, das, nos, polo, co, nun, dunha, nas, ás, coa, dun, nunha, pola, aos, coas, cos, polas, cun, deste, desta, doutra, atópase, cunha, neste, polos, pódese, del, deles, destes, pódense, doutro, facelo, fíxose, naquela, nese, nesta, velo, atópanse, destas, diso, disto, díxolle, enfróntase, espérase.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -134,15 +134,15 @@ pages = "587--592",
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: PART, INTJ, X</li>
+<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: PART, INTJ</li>
 </ul>
 
 <ul>
 </ul>
 
 <ul>
-<li>This corpus contains 38 lemmas tagged as pronouns (PRON): algo, alguén, algún, ambos, aquel, aquela, aquilo, cal, el, ese, este, eu, iso, isto, lle, me, mesmo, moito, nada, ninguén, ningún, nos, nós, o, outro, pouco, que, quen, se, seu, si, tal, te, ti, todo, un, vos, vostede</li>
+<li>This corpus contains 39 lemmas tagged as pronouns (PRON): algo, alguén, algún, ambos, aquel, aquela, aquilo, cal, el, ese, este, eu, iso, isto, lle, me, mesmo, min, moito, nada, ninguén, ningún, nos, nós, o, outro, pouco, que, quen, se, seu, si, tal, te, ti, todo, un, vos, vostede</li>
 </ul>
 
 <ul>
@@ -212,7 +212,7 @@ pages = "587--592",
     <ul>
       <li>ADJ: gran, per, anterior, confidenciais, conservacionistas, dixital, escalofriante, especial, habitual, impactante</li>
       <li>NOUN: parte, final, partes, axentes, cápita, defensa, mañá, axente, modelo, C</li>
-      <li>PRON: se, lle, me, nos, eu, lles, mesmo, nós, que, quen</li>
+      <li>PRON: se, lle, me, nos, eu, lles, mesmo, min, nós, que</li>
     </ul>
   </li>
 </ul>
@@ -556,7 +556,7 @@ pages = "587--592",
     <ul>
       <li>AUX: son, era, fora, sexa, Estamos, podemos, debemos, fose, Podo, Teño</li>
       <li>DET: noso, nosa, meu, miña, meus, nosas</li>
-      <li>PRON: me, nos, eu, nós</li>
+      <li>PRON: me, nos, eu, min, nós</li>
       <li>VERB: tiña, era, Avanzamos, cremos, deixamos, espero, Avaliaremos, Avistei, Conmovera, Contamos</li>
     </ul>
   </li>
@@ -623,6 +623,18 @@ pages = "587--592",
   </li>
 </ul>
 
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: the, a, of, Really, You, 'Ya, Anyway, Breaking, Buck, Cena</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -642,7 +654,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (546)</li>
+      <li>VERB--NOUN (545)</li>
       <li>VERB--NOUN-ADP(a) (4)</li>
       <li>VERB--PRON (242)</li>
       <li>VERB--PRON-ADP(a) (2)</li>
@@ -664,8 +676,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (478)</li>
-      <li>VERB--NOUN-ADP(a) (21)</li>
+      <li>VERB--NOUN (479)</li>
+      <li>VERB--NOUN-ADP(a) (20)</li>
       <li>VERB--NOUN-ADP(ata) (1)</li>
       <li>VERB--NOUN-ADP(até) (1)</li>
       <li>VERB--NOUN-ADP(de) (6)</li>
@@ -682,7 +694,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-ADP(cara) (1)</li>
       <li>VERB-Inf--NOUN-ADP(de)-ADP(a) (1)</li>
       <li>VERB-Inf--PRON (7)</li>
-      <li>VERB-Inf--PRON-Acc (14)</li>
+      <li>VERB-Inf--PRON-Acc (15)</li>
       <li>VERB-Part--NOUN (5)</li>
     </ul>
   </li>

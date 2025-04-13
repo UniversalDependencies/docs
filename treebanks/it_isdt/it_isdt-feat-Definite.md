@@ -11,7 +11,7 @@ It occurs with 2 different values: `Def`, `Ind`.
 
 42714 tokens (14%) have a non-empty value of `Definite`.
 37 types (0%) occur at least once with a non-empty value of `Definite`.
-23 lemmas (0%) occur at least once with a non-empty value of `Definite`.
+22 lemmas (0%) occur at least once with a non-empty value of `Definite`.
 The feature is used with 1 part-of-speech tags: <tt><a href="it_isdt-pos-DET.html">DET</a></tt> (42714; 14% instances).
 
 ### `DET`
@@ -24,7 +24,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (38093; 89% of non-empty `Definite`): <em>il, la, i, l', le, gli, lo, l’, the, les</em>
 * `Ind` (4621; 11% of non-empty `Definite`): <em>un, una, un', uno, un’, A, dei, Une, delle, l'</em>
-* `EMPTY` (5930): <em>quale, sua, suo, ogni, questo, loro, che, questa, tutti, suoi</em>
+* `EMPTY` (5928): <em>quale, sua, suo, ogni, questo, loro, che, questa, tutti, suoi</em>
 
 <table>
   <tr><th>Paradigm <i>lo</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -32,5 +32,5 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
   <tr><td><tt></tt></td><td><em>l'</em></td><td><em>l'</em></td></tr>
 </table>
 
-`Definite` seems to be **lexical feature** of `DET`. 91% lemmas (21) occur only with one value of `Definite`.
+`Definite` seems to be **lexical feature** of `DET`. 91% lemmas (20) occur only with one value of `Definite`.
 

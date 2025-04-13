@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Spanish-PUD: POS Tags: `DET`
 
-There are 29 `DET` lemmas (1%), 58 `DET` types (1%) and 3321 `DET` tokens (14%).
+There are 32 `DET` lemmas (1%), 65 `DET` types (1%) and 3339 `DET` tokens (14%).
 Out of 17 observed tags, the rank of `DET` is: 7 in number of lemmas, 8 in number of types and 3 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>el, uno, este, otro, todo, ese, mucho, esto, cada, vario</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>la</em> (<tt><a href="es_pud-pos-DET.
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.000000 (the average of all parts of speech is 1.314341).
+The form / lemma ratio of `DET` is 2.031250 (the average of all parts of speech is 1.314341).
 
 The 1st highest number of forms (5) was observed with the lemma “este”: <em>esta, estas, este, estos, éstos</em>.
 
@@ -61,22 +61,22 @@ The 2nd highest number of forms (4) was observed with the lemma “el”: <em>el
 
 The 3rd highest number of forms (4) was observed with the lemma “ese”: <em>esa, esas, ese, esos</em>.
 
-`DET` occurs with 7 features: <tt><a href="es_pud-feat-PronType.html">PronType</a></tt> (3321; 100% instances), <tt><a href="es_pud-feat-Number.html">Number</a></tt> (3315; 100% instances), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt> (3313; 100% instances), <tt><a href="es_pud-feat-Definite.html">Definite</a></tt> (2990; 90% instances), <tt><a href="es_pud-feat-NumType.html">NumType</a></tt> (40; 1% instances), <tt><a href="es_pud-feat-Foreign.html">Foreign</a></tt> (6; 0% instances), <tt><a href="es_pud-feat-Poss.html">Poss</a></tt> (4; 0% instances)
+`DET` occurs with 9 features: <tt><a href="es_pud-feat-PronType.html">PronType</a></tt> (3339; 100% instances), <tt><a href="es_pud-feat-Number.html">Number</a></tt> (3333; 100% instances), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt> (3331; 100% instances), <tt><a href="es_pud-feat-Definite.html">Definite</a></tt> (2990; 90% instances), <tt><a href="es_pud-feat-NumType.html">NumType</a></tt> (40; 1% instances), <tt><a href="es_pud-feat-Poss.html">Poss</a></tt> (22; 1% instances), <tt><a href="es_pud-feat-Number-psor.html">Number[psor]</a></tt> (18; 1% instances), <tt><a href="es_pud-feat-Person.html">Person</a></tt> (18; 1% instances), <tt><a href="es_pud-feat-Foreign.html">Foreign</a></tt> (6; 0% instances)
 
-`DET` occurs with 16 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Rel`, `PronType=Tot`
+`DET` occurs with 21 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`
 
-`DET` occurs with 37 feature combinations.
+`DET` occurs with 45 feature combinations.
 The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (1102 tokens).
 Examples: <em>el</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 10 different relations: <tt><a href="es_pud-dep-det.html">det</a></tt> (3220; 97% instances), <tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt> (44; 1% instances), <tt><a href="es_pud-dep-fixed.html">fixed</a></tt> (22; 1% instances), <tt><a href="es_pud-dep-obl.html">obl</a></tt> (17; 1% instances), <tt><a href="es_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (5; 0% instances), <tt><a href="es_pud-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="es_pud-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="es_pud-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="es_pud-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="es_pud-dep-dep.html">dep</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 10 different relations: <tt><a href="es_pud-dep-det.html">det</a></tt> (3238; 97% instances), <tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt> (44; 1% instances), <tt><a href="es_pud-dep-fixed.html">fixed</a></tt> (22; 1% instances), <tt><a href="es_pud-dep-obl.html">obl</a></tt> (17; 1% instances), <tt><a href="es_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (5; 0% instances), <tt><a href="es_pud-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="es_pud-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="es_pud-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="es_pud-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="es_pud-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 12 different parts of speech: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (2976; 90% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (112; 3% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (71; 2% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (53; 2% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (51; 2% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (22; 1% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (19; 1% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (3; 0% instances),  (3; 0% instances), <tt><a href="es_pud-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 12 different parts of speech: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (2994; 90% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (112; 3% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (71; 2% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (53; 2% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (51; 2% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (22; 1% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (19; 1% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (3; 0% instances),  (3; 0% instances), <tt><a href="es_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
-3280 (99%) `DET` nodes are leaves.
+3298 (99%) `DET` nodes are leaves.
 
 17 (1%) `DET` nodes have one child.
 

@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>Ah</em> (<tt><a href="pt_porttinari-p
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.495837).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.496159).
 
 The 1st highest number of forms (1) was observed with the lemma “ah”: <em>Ah</em>.
 

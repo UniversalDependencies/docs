@@ -45,8 +45,8 @@ The following 14 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 2	@user1	@user1	SYM	SYM	_	4	vocative	_	SpaceAfter=No
 3	:	:	PUNCT	FC	_	2	punct	_	_
 4	@user2	@user2	SYM	SYM	_	0	root	_	_
-5	number	number	X	SW	_	4	flat:foreign	_	_
-6	one	one	X	SW	_	4	flat:foreign	_	_
+5	number	number	X	SW	Foreign=Yes	4	flat:foreign	_	_
+6	one	one	X	SW	Foreign=Yes	4	flat:foreign	_	_
 7	da	da	ADP	E	_	8	case	_	_
 8	Rocco	rocco	PROPN	SP	_	4	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	FS	_	4	punct	_	_

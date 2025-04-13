@@ -44,7 +44,7 @@ The following 4 pairs of parts of speech are connected with `advcl:tcl`: <tt><a 
 2	истя	истя	ADV	Adv	AdvType=Man	3	advmod	_	GTtags=Manner
 3	куродтанзат	куродомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=2|Person[subj]=3|Tense=Pres	0	root	_	GTtags=TV,Ind,Prs,ScSg3,OcSg2|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
-5	а	а	AUX	Pcle	Polarity=Neg	6	aux:neg	_	GTtags=Neg
+5	а	а	AUX	Pcle	Polarity=Neg	6	aux	_	GTtags=Neg
 6	содат	содамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	3	conj	_	GTtags=TV,Ind,Prs,ScSg2|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	9	punct	_	_
 8	мезе	мезе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Int	9	obj	_	GTtags=Interr,Sg,Nom,Indef

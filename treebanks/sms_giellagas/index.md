@@ -12,15 +12,15 @@ udver: '2'
 # UD Skolt Sami Giellagas
 
 Language: [Skolt Sami](/sms/index.html) (code: `sms`)<br/>
-Family: Uralic, Sami
+Family: Uralic
 
 This treebank has been part of Universal Dependencies since the UD v2.5 release.
 
 The following people have contributed to making this treebank part of UD: Jack Rueter, Markus Juutinen, Francis Tyers, Tommi A Pirinen, Mika Hämäläinen.
 
 Repository: [UD_Skolt_Sami-Giellagas](https://github.com/UniversalDependencies/UD_Skolt_Sami-Giellagas)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsms_giellagas214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsms_giellagas215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -97,7 +97,7 @@ however, we would be no where…
 
 ## Relations
 
-[acl](sms_giellagas-dep-acl.html) – [acl:relcl](sms_giellagas-dep-acl-relcl.html) – [advcl](sms_giellagas-dep-advcl.html) – [advcl:tcl](sms_giellagas-dep-advcl-tcl.html) – [advmod](sms_giellagas-dep-advmod.html) – [advmod:deg](sms_giellagas-dep-advmod-deg.html) – [advmod:eval](sms_giellagas-dep-advmod-eval.html) – [advmod:foc](sms_giellagas-dep-advmod-foc.html) – [advmod:lmod](sms_giellagas-dep-advmod-lmod.html) – [advmod:mmod](sms_giellagas-dep-advmod-mmod.html) – [advmod:neg](sms_giellagas-dep-advmod-neg.html) – [advmod:tmod](sms_giellagas-dep-advmod-tmod.html) – [amod](sms_giellagas-dep-amod.html) – [appos](sms_giellagas-dep-appos.html) – [aux](sms_giellagas-dep-aux.html) – [aux:nec](sms_giellagas-dep-aux-nec.html) – [aux:neg](sms_giellagas-dep-aux-neg.html) – [aux:tense](sms_giellagas-dep-aux-tense.html) – [case](sms_giellagas-dep-case.html) – [cc](sms_giellagas-dep-cc.html) – [cc:preconj](sms_giellagas-dep-cc-preconj.html) – [ccomp](sms_giellagas-dep-ccomp.html) – [conj](sms_giellagas-dep-conj.html) – [cop](sms_giellagas-dep-cop.html) – [dep](sms_giellagas-dep-dep.html) – [det](sms_giellagas-dep-det.html) – [discourse](sms_giellagas-dep-discourse.html) – [dislocated](sms_giellagas-dep-dislocated.html) – [expl](sms_giellagas-dep-expl.html) – [fixed](sms_giellagas-dep-fixed.html) – [flat:name](sms_giellagas-dep-flat-name.html) – [goeswith](sms_giellagas-dep-goeswith.html) – [mark](sms_giellagas-dep-mark.html) – [nmod](sms_giellagas-dep-nmod.html) – [nmod:poss](sms_giellagas-dep-nmod-poss.html) – [nsubj](sms_giellagas-dep-nsubj.html) – [nsubj:cop](sms_giellagas-dep-nsubj-cop.html) – [nsubj:pass](sms_giellagas-dep-nsubj-pass.html) – [nummod](sms_giellagas-dep-nummod.html) – [obj](sms_giellagas-dep-obj.html) – [obl](sms_giellagas-dep-obl.html) – [obl:agent](sms_giellagas-dep-obl-agent.html) – [obl:lmod](sms_giellagas-dep-obl-lmod.html) – [obl:tmod](sms_giellagas-dep-obl-tmod.html) – [orphan](sms_giellagas-dep-orphan.html) – [parataxis](sms_giellagas-dep-parataxis.html) – [punct](sms_giellagas-dep-punct.html) – [reparandum](sms_giellagas-dep-reparandum.html) – [root](sms_giellagas-dep-root.html) – [vocative](sms_giellagas-dep-vocative.html) – [xcomp](sms_giellagas-dep-xcomp.html)
+[acl](sms_giellagas-dep-acl.html) – [acl:relcl](sms_giellagas-dep-acl-relcl.html) – [advcl](sms_giellagas-dep-advcl.html) – [advcl:tcl](sms_giellagas-dep-advcl-tcl.html) – [advmod](sms_giellagas-dep-advmod.html) – [advmod:deg](sms_giellagas-dep-advmod-deg.html) – [advmod:eval](sms_giellagas-dep-advmod-eval.html) – [advmod:foc](sms_giellagas-dep-advmod-foc.html) – [advmod:lmod](sms_giellagas-dep-advmod-lmod.html) – [advmod:mmod](sms_giellagas-dep-advmod-mmod.html) – [advmod:neg](sms_giellagas-dep-advmod-neg.html) – [advmod:tmod](sms_giellagas-dep-advmod-tmod.html) – [amod](sms_giellagas-dep-amod.html) – [appos](sms_giellagas-dep-appos.html) – [aux](sms_giellagas-dep-aux.html) – [aux:nec](sms_giellagas-dep-aux-nec.html) – [aux:tense](sms_giellagas-dep-aux-tense.html) – [case](sms_giellagas-dep-case.html) – [cc](sms_giellagas-dep-cc.html) – [cc:preconj](sms_giellagas-dep-cc-preconj.html) – [ccomp](sms_giellagas-dep-ccomp.html) – [conj](sms_giellagas-dep-conj.html) – [cop](sms_giellagas-dep-cop.html) – [dep](sms_giellagas-dep-dep.html) – [det](sms_giellagas-dep-det.html) – [discourse](sms_giellagas-dep-discourse.html) – [dislocated](sms_giellagas-dep-dislocated.html) – [expl](sms_giellagas-dep-expl.html) – [fixed](sms_giellagas-dep-fixed.html) – [flat:name](sms_giellagas-dep-flat-name.html) – [goeswith](sms_giellagas-dep-goeswith.html) – [mark](sms_giellagas-dep-mark.html) – [nmod](sms_giellagas-dep-nmod.html) – [nmod:poss](sms_giellagas-dep-nmod-poss.html) – [nsubj](sms_giellagas-dep-nsubj.html) – [nsubj:cop](sms_giellagas-dep-nsubj-cop.html) – [nsubj:pass](sms_giellagas-dep-nsubj-pass.html) – [nummod](sms_giellagas-dep-nummod.html) – [obj](sms_giellagas-dep-obj.html) – [obl](sms_giellagas-dep-obl.html) – [obl:agent](sms_giellagas-dep-obl-agent.html) – [obl:lmod](sms_giellagas-dep-obl-lmod.html) – [obl:tmod](sms_giellagas-dep-obl-tmod.html) – [orphan](sms_giellagas-dep-orphan.html) – [parataxis](sms_giellagas-dep-parataxis.html) – [punct](sms_giellagas-dep-punct.html) – [reparandum](sms_giellagas-dep-reparandum.html) – [root](sms_giellagas-dep-root.html) – [vocative](sms_giellagas-dep-vocative.html) – [xcomp](sms_giellagas-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -386,7 +386,7 @@ however, we would be no where…
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: ij, jiõk, jiõm, jeäʹp, iʹlla, iʹlleäk, jiâ, Ij-ǥo, Jeäʹled, jeäʹla</li>
+      <li>AUX: ij, jiõk, jiõm, i-ǥõl, jeäʹp, iʹlla, iʹlleäk, jiâ, Ij-ǥo, Jeäʹled</li>
       <li>INTJ: ij</li>
       <li>PART: ni</li>
       <li>VERB: iʹlla</li>
@@ -799,7 +799,7 @@ however, we would be no where…
 </ul>
 
 <ul>
-<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: leeʹd, õlggâd, feʹrttjed, i-ǥõl, ij.</li>
+<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: ij, leeʹd, õlggâd, i-ǥõl, feʹrttjed, iʹlla.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -860,7 +860,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 20 relation subtypes: <a>acl:relcl</a>, <a>advcl:tcl</a>, <a>advmod:deg</a>, <a>advmod:eval</a>, <a>advmod:foc</a>, <a>advmod:lmod</a>, <a>advmod:mmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:nec</a>, <a>aux:neg</a>, <a>aux:tense</a>, <a>cc:preconj</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 19 relation subtypes: <a>acl:relcl</a>, <a>advcl:tcl</a>, <a>advmod:deg</a>, <a>advmod:eval</a>, <a>advmod:foc</a>, <a>advmod:lmod</a>, <a>advmod:mmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:nec</a>, <a>aux:tense</a>, <a>cc:preconj</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>clf</a>, <a>compound</a>, <a>list</a></li>
 </ul>

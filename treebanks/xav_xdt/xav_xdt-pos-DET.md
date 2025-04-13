@@ -15,19 +15,19 @@ The 10 most frequent `DET` types:  <em>hã, Tahata, Ãhã, Õhõ, ã</em>
 
 The 10 most frequent ambiguous lemmas: <em>hã</em> (<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 61, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 27), <em>õ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 15, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>hã</em> (<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 61, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 27), <em>Ãhã</em> (<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 1, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>hã</em> (<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 61, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 28), <em>Ãhã</em> (<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 1, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1)
 
 
 * <em>hã</em>
   * <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 61: <em>Pi'õ te mo buru u . Tame te wapa aibö mreme <b>hã</b> .</em>
-  * <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 27: <em>E 'wa <b>hã</b> marĩ hã te tsadanha . Wanorĩhã , marĩ hã wa tsadanharĩ ni .</em>
+  * <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 28: <em>E 'wa <b>hã</b> marĩ hã te tsadanha . Wanorĩhã , marĩ hã wa tsadanharĩ ni .</em>
 * <em>Ãhã</em>
   * <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 1: <em><b>Ãhã</b> marã ʔre ʔre ĩhöjmana zaʔra mono</em>
   * <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1: <em><b>Ãhã</b> bötö parimhã , wapté norĩhã te dza romhuri dza'ra a'ãma buru ãma hã , bötö mitsi na . Ãne a'uwẽ höimanadzé .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.250000 (the average of all parts of speech is 1.294461).
+The form / lemma ratio of `DET` is 1.250000 (the average of all parts of speech is 1.290598).
 
 The 1st highest number of forms (2) was observed with the lemma “ã”: <em>Ãhã, ã</em>.
 

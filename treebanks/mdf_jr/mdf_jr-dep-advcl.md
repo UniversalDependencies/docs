@@ -31,7 +31,7 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 6	,	,	PUNCT	CLB	_	10	punct	_	_
 7	аньцек	аньцек	ADV	Adv	_	10	advmod:foc	_	_
 8	коданга	коданга	ADV	Adv	PronType=Ind	10	advmod:mmod	_	_
-9	аф	аф	AUX	Aux	Polarity=Neg	10	aux:neg	_	_
+9	аф	аф	AUX	Aux	Polarity=Neg	10	aux	_	_
 10	лисенди	лисендемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	2	advcl	_	SpaceAfter=No
 11	.	.	PUNCT	CLB	_	2	punct	_	_
 

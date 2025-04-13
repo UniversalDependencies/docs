@@ -133,7 +133,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (465; 9% of non-empty `Person`): <em>mi, nuestra, nuestro, nuestros, mis, nuestras, mío, mía</em>
 * `2` (32; 1% of non-empty `Person`): <em>tu, tus, vuestra, vuestras</em>
 * `3` (4910; 91% of non-empty `Person`): <em>su, sus, suyo, suya, suyos, suyas, Seu, Seva</em>
-* `EMPTY` (79018): <em>el, la, los, un, las, una, este, esta, todo, esa</em>
+* `EMPTY` (79024): <em>el, la, los, un, las, una, este, esta, todo, esa</em>
 
 `Person` seems to be **lexical feature** of `DET`. 100% lemmas (13) occur only with one value of `Person`.
 

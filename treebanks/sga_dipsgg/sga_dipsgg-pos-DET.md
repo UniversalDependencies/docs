@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_Irish-DipSGG: POS Tags: `DET`
 
-There are 4 `DET` lemmas (2%), 12 `DET` types (4%) and 31 `DET` tokens (8%).
-Out of 16 observed tags, the rank of `DET` is: 10 in number of lemmas, 8 in number of types and 4 in number of tokens.
+There are 4 `DET` lemmas (2%), 12 `DET` types (4%) and 31 `DET` tokens (7%).
+Out of 16 observed tags, the rank of `DET` is: 11 in number of lemmas, 8 in number of types and 5 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>in, a, cach, nach</em>
 
@@ -35,7 +35,7 @@ The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="sga_dipsgg-pos-
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 3.000000 (the average of all parts of speech is 1.261062).
+The form / lemma ratio of `DET` is 3.000000 (the average of all parts of speech is 1.295652).
 
 The 1st highest number of forms (9) was observed with the lemma “in”: <em>in, ind, inna, inḍt, naib, nd, sin, ᚔᚅ, ṅ</em>.
 

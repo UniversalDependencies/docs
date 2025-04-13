@@ -7,13 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Old_Irish-DipWBG: POS Tags: `PART`
 
 There are 13 `PART` lemmas (7%), 22 `PART` types (8%) and 47 `PART` tokens (11%).
-Out of 13 observed tags, the rank of `PART` is: 6 in number of lemmas, 5 in number of types and 4 in number of tokens.
+Out of 12 observed tags, the rank of `PART` is: 6 in number of lemmas, 5 in number of types and 4 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>no, do, ní, as, so, a, at, in, ro, í</em>
 
 The 10 most frequent `PART` types:  <em>no, do, ni, a, ní, as, nas, so, at, con</em>
 
-The 10 most frequent ambiguous lemmas: <em>do</em> (<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 8, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 8, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 1), <em>ní</em> (<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 7, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 1), <em>so</em> (<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 4, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 1), <em>a</em> (<tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 4, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 4, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 3, <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 1, <tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>in</em> (<tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 5, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>do</em> (<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 8, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 8, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 1), <em>ní</em> (<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 7, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 1), <em>so</em> (<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 4, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 1), <em>a</em> (<tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 4, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 3, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 3, <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 1, <tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>in</em> (<tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 5, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>do</em> (<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 6, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 1), <em>ni</em> (<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 5, <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> 3, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 2), <em>a</em> (<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 4, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 4, <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 2, <tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ní</em> (<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 3, <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> 1), <em>as</em> (<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 2, <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 1, <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> 1), <em>so</em> (<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 2, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 1), <em>con</em> (<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 1, <tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>d</em> (<tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> 3, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 1, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 1), <em>in</em> (<tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 2, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 1), <em>se</em> (<tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 3, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 1)
 
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>do</em> (<tt><a href="sga_dipwbg-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.692308 (the average of all parts of speech is 1.427807).
+The form / lemma ratio of `PART` is 1.692308 (the average of all parts of speech is 1.430108).
 
 The 1st highest number of forms (3) was observed with the lemma “do”: <em>d, do, to</em>.
 

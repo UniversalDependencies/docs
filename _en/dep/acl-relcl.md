@@ -771,4 +771,4 @@ acl:relcl(progress, make)
 - if we lose Dean (which we will if we don't pay 65k + 10k) [issue](https://github.com/UniversalDependencies/UD_English-EWT/issues/203)
 
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:31 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:14 CET -->

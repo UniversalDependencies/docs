@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Swedish-PUD: POS Tags: `DET`
 
 There are 17 `DET` lemmas (0%), 28 `DET` types (0%) and 1015 `DET` tokens (5%).
-Out of 16 observed tags, the rank of `DET` is: 9 in number of lemmas, 10 in number of types and 9 in number of tokens.
+Out of 16 observed tags, the rank of `DET` is: 9 in number of lemmas, 10 in number of types and 8 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>en, den, de, denna, någon, all, varje, the, ingen, båda</em>
 
@@ -15,7 +15,7 @@ The 10 most frequent `DET` types:  <em>en, den, ett, de, det, denna, varje, dess
 
 The 10 most frequent ambiguous lemmas: <em>en</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 451, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 15, <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 2), <em>den</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 307, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 232, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 1), <em>de</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 113, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 83, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>denna</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 49, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 2), <em>någon</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 25, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 6), <em>ingen</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 9, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 1), <em>båda</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 5, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 4), <em>vilken</em> (<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 5, <tt><a href="sv_pud-pos-DET.html">DET</a></tt> 3), <em>El</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 1, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 294, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 14, <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 2), <em>den</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 189, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 24), <em>ett</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 129, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 4, <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 1), <em>de</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 96, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 60, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 2), <em>det</em> (<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 137, <tt><a href="sv_pud-pos-DET.html">DET</a></tt> 70), <em>denna</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 13, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 2), <em>dessa</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 13, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 3), <em>alla</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 13, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 7), <em>detta</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 9, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 8), <em>några</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 10, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 294, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 14, <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 2), <em>den</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 188, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 25), <em>ett</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 129, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 4, <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 1), <em>de</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 96, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 60, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 2), <em>det</em> (<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 136, <tt><a href="sv_pud-pos-DET.html">DET</a></tt> 71), <em>denna</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 13, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 2), <em>dessa</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 13, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 3), <em>alla</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 13, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 7), <em>detta</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 9, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 8), <em>några</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 10, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 1)
 
 
 * <em>en</em>
@@ -23,8 +23,8 @@ The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="sv_pud-pos-DET.
   * <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 14: <em>Vad än reglerna var slutade ofta striderna med att <b>en</b> av hingstarna dog .</em>
   * <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 2: <em>Olika privata intressen äger den återstående marken , sammanlagt runt <b>en</b> procent av staten .</em>
 * <em>den</em>
-  * <tt><a href="sv_pud-pos-DET.html">DET</a></tt> 189: <em>Han har <b>den</b> där hårda eggen i sitt spel men också de mjuka händerna .</em>
-  * <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 24: <em>Louis Post Dispatch kallade <b>den</b> för ett av LaBeoufs bästa framträdanden .</em>
+  * <tt><a href="sv_pud-pos-DET.html">DET</a></tt> 188: <em>Han har <b>den</b> där hårda eggen i sitt spel men också de mjuka händerna .</em>
+  * <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 25: <em>Louis Post Dispatch kallade <b>den</b> för ett av LaBeoufs bästa framträdanden .</em>
 * <em>ett</em>
   * <tt><a href="sv_pud-pos-DET.html">DET</a></tt> 129: <em>I natt utför vi bestraffningar med <b>ett</b> helljus , står det i meddelandet .</em>
   * <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 4: <em>Hennes album Wild West från 1981 var <b>ett</b> av hennes mest säljande .</em>
@@ -35,8 +35,8 @@ The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="sv_pud-pos-DET.
   * <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 3: <em>Barón <b>de</b> Claret , den enda i regeringen med en adelstitel .</em>
   * <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 2: <em>Dussintals FSLN-anhängare firar redan segern på Plaza <b>de</b> las Victorias .</em>
 * <em>det</em>
-  * <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 137: <em>Jag åker i fängelse ändå , hoppas <b>det</b> var värt <b>det</b> .</em>
-  * <tt><a href="sv_pud-pos-DET.html">DET</a></tt> 70: <em>5 000 dollar per person , <b>det</b> högsta belopp som tillåts .</em>
+  * <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 136: <em>Jag åker i fängelse ändå , hoppas <b>det</b> var värt <b>det</b> .</em>
+  * <tt><a href="sv_pud-pos-DET.html">DET</a></tt> 71: <em>5 000 dollar per person , <b>det</b> högsta belopp som tillåts .</em>
 * <em>denna</em>
   * <tt><a href="sv_pud-pos-DET.html">DET</a></tt> 13: <em>Arbetstiden som utförs <b>denna</b> första timme är mer eller mindre lika med 45 minuter .</em>
   * <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 2: <em>Mrs Clinton har ett rykte om att ha en hökliknande inställning , men <b>denna</b> kommer att vara dämpad av den krigströtta allmänna opinionen i USA .</em>
@@ -74,19 +74,17 @@ Examples: <em>en, någon, ingen, ett</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 5 different relations: <tt><a href="sv_pud-dep-det.html">det</a></tt> (1004; 99% instances), <tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt> (6; 1% instances), <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="sv_pud-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-compound.html">compound</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 5 different relations: <tt><a href="sv_pud-dep-det.html">det</a></tt> (1006; 99% instances), <tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt> (5; 0% instances), <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-compound.html">compound</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 8 different parts of speech: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (954; 94% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (33; 3% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances)
+Parents of `DET` nodes belong to 8 different parts of speech: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (956; 94% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (33; 3% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances)
 
-995 (98%) `DET` nodes are leaves.
+1012 (100%) `DET` nodes are leaves.
 
-19 (2%) `DET` nodes have one child.
+3 (0%) `DET` nodes have one child.
 
-1 (0%) `DET` nodes have two children.
+The highest child degree of a `DET` node is 1.
 
-The highest child degree of a `DET` node is 2.
+Children of `DET` nodes are attached using 1 different relations: <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (3; 100% instances)
 
-Children of `DET` nodes are attached using 2 different relations: <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (18; 86% instances), <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (3; 14% instances)
-
-Children of `DET` nodes belong to 4 different parts of speech: <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (17; 81% instances), <tt><a href="sv_pud-pos-PART.html">PART</a></tt> (2; 10% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (1; 5% instances)
+Children of `DET` nodes belong to 2 different parts of speech: <tt><a href="sv_pud-pos-PART.html">PART</a></tt> (2; 67% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (1; 33% instances)
 

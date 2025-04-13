@@ -9,35 +9,54 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-35 tokens (0%) have a non-empty value of `Abbr`.
-10 types (0%) occur at least once with a non-empty value of `Abbr`.
-7 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 2 part-of-speech tags: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (34; 0% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+50 tokens (0%) have a non-empty value of `Abbr`.
+20 types (0%) occur at least once with a non-empty value of `Abbr`.
+16 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 4 part-of-speech tags: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (45; 0% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-34 <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+45 <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (34; 100%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (40; 89%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (40; 89%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (40; 89%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (34; 100% of non-empty `Abbr`): <em>Самъ., об., Сам., н.[айме], (н.[айме]), Самъ, в., крндш., стрк.</em>
-* `EMPTY` (19999): <em>м(и)л(о)сти, м(и)л(о)сть, люди, земли, мѣста, пан, копъ, имѧ, людеи, панъ</em>
+* `Yes` (45; 100% of non-empty `Abbr`): <em>Самъ., об., Сам., гла(в), н.[айме], пн҃а, (н.[айме]), Самъ, в., ве(л).</em>
+* `EMPTY` (22826): <em>м(и)л(о)сти, м(и)л(о)сть, панъ, люди, земли, пан, мѣста, пана, копъ, имѧ</em>
+
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (12) occur only with one value of `Abbr`.
 
 ### `ADJ`
 
-1 <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
+2 <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_ruthenian-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_ruthenian-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_ruthenian-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_ruthenian-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 
-* `Yes` (1; 100% of non-empty `Abbr`): <em>пр.</em>
-* `EMPTY` (6426): <em>полоцкии, полоцкого, великии, милым, полоцког(о), Бож(ъ)ю, ризког(о), полоцких, ризкого, великого</em>
+* `Yes` (2; 100% of non-empty `Abbr`): <em>Запо(р)., пр.</em>
+* `EMPTY` (7374): <em>великии, полоцкии, полоцкого, милым, полоцког(о), Бож(ъ)ю, ризког(о), великого, полоцких, ризкого</em>
 
-## Relations with Agreement in `Abbr`
+### `VERB`
 
-The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>NOUN --[<tt><a href="orv_ruthenian-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1; 100%).
+2 <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="orv_ruthenian-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_ruthenian-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_ruthenian-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_ruthenian-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_ruthenian-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_ruthenian-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2; 100%).
+
+`VERB` tokens may have the following values of `Abbr`:
+
+* `Yes` (2; 100% of non-empty `Abbr`): <em>ре</em>
+* `EMPTY` (9302): <em>дали, псан, мають, мают(ь), дал, маеть, казали, держати, послали, далъ</em>
+
+### `PROPN`
+
+1 <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_ruthenian-feat-NameType.html">NameType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`PROPN` tokens may have the following values of `Abbr`:
+
+* `Yes` (1; 100% of non-empty `Abbr`): <em>Іω.</em>
+* `EMPTY` (7693): <em>Полоцку, Ивана, Ризѣ, Иван, Полоцкꙋ, Александръ, Сопега, иванъ, Ризе, Станиславъ</em>
 

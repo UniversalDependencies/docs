@@ -58,7 +58,7 @@ The following 27 pairs of parts of speech are connected with `conj`: <tt><a href
 12	en	en	PRON	PRP	Person=3|PronType=Prs	14	iobj	_	_
 13	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:tense	_	_
 14	eu	avoir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
-15	aucun	aucun	PRON	_	Gender=Masc|Number=Sing|Polarity=Neg|PronType=Neg	14	obj	_	SpaceAfter=No
+15	aucun	aucun	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	14	obj	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~

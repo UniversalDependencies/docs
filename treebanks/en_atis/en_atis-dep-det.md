@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `det`: <tt><a href="en_atis-dep-det-predet.html">det:predet</a></tt>.
 
-4738 nodes (8%) are attached to their parents as `det`.
+4737 nodes (8%) are attached to their parents as `det`.
 
 4737 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.47319544111439.
+Average distance between parent and child is 1.47308423052565.
 
-The following 8 pairs of parts of speech are connected with `det`: <tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_atis-pos-DET.html">DET</a></tt> (4484; 95% instances), <tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_atis-pos-DET.html">DET</a></tt> (151; 3% instances), <tt><a href="en_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_atis-pos-DET.html">DET</a></tt> (46; 1% instances), <tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_atis-pos-PRON.html">PRON</a></tt> (37; 1% instances), <tt><a href="en_atis-pos-NUM.html">NUM</a></tt>-<tt><a href="en_atis-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="en_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="en_atis-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="en_atis-pos-PRON.html">PRON</a></tt>-<tt><a href="en_atis-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_atis-pos-ADV.html">ADV</a></tt>-<tt><a href="en_atis-pos-DET.html">DET</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_atis-pos-DET.html">DET</a></tt> (4484; 95% instances), <tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_atis-pos-DET.html">DET</a></tt> (150; 3% instances), <tt><a href="en_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_atis-pos-DET.html">DET</a></tt> (46; 1% instances), <tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_atis-pos-PRON.html">PRON</a></tt> (37; 1% instances), <tt><a href="en_atis-pos-NUM.html">NUM</a></tt>-<tt><a href="en_atis-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="en_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="en_atis-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="en_atis-pos-PRON.html">PRON</a></tt>-<tt><a href="en_atis-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_atis-pos-ADV.html">ADV</a></tt>-<tt><a href="en_atis-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

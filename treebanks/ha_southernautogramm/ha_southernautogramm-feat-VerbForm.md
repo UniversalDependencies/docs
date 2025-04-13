@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 * `Part` (12; 3% of non-empty `VerbForm`): <em>zàune, jìbge, kwànce</em>
 * `Vnoun` (335; 97% of non-empty `VerbForm`): <em>noːman, noːmaː, yîː, zuwàː, saːmùn, yîn, jîn, cîː, sôː, tunàːwaː</em>
-* `EMPTY` (1697): <em>yi, cêː, jeː, ci, zoː, ga, sâː, san, baː, ganiː</em>
+* `EMPTY` (1696): <em>yi, cêː, jeː, ci, zoː, ga, sâː, san, baː, ganiː</em>
 
 <table>
   <tr><th>Paradigm <i>zaun-</i></th><th><tt>Part</tt></th><th><tt>Vnoun</tt></th></tr>

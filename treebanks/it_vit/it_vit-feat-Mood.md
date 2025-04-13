@@ -101,7 +101,7 @@ The most frequent other feature values with which `NOUN` and `Mood` co-occurred:
 `CCONJ` tokens may have the following values of `Mood`:
 
 * `Ind` (1; 100% of non-empty `Mood`): <em>pesino</em>
-* `EMPTY` (8208): <em>e, ma, o, ed, come, sia, che, cioè, ovvero, nonché</em>
+* `EMPTY` (8207): <em>e, ma, o, ed, come, sia, che, cioè, ovvero, nonché</em>
 
 ## Relations with Agreement in `Mood`
 

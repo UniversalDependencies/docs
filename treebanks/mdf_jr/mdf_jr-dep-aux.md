@@ -9,12 +9,32 @@ udver: '2'
 This relation is universal.
 There are 5 language-specific subtypes of `aux`: <tt><a href="mdf_jr-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="mdf_jr-dep-aux-nec.html">aux:nec</a></tt>, <tt><a href="mdf_jr-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="mdf_jr-dep-aux-opt.html">aux:opt</a></tt>, <tt><a href="mdf_jr-dep-aux-q.html">aux:q</a></tt>.
 
-6 nodes (0%) are attached to their parents as `aux`.
+86 nodes (2%) are attached to their parents as `aux`.
 
-4 instances of `aux` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.
+84 instances of `aux` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.04651162790698.
 
-The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (2; 33% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (2; 33% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 17% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 17% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (81; 94% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 aux	color:blue
+1	А	а	CCONJ	CC	_	2	cc	_	_
+2	касан	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	0	root	_	_
+3	пяк	пяк	ADV	Adv	AdvType=Deg	4	advmod:deg	_	_
+4	савор	савор	ADV	Adv	_	2	advmod:mmod	_	SpaceAfter=No
+5	,	,	PUNCT	CLB	_	9	punct	_	_
+6	нинге	нинге	ADV	Adv	AdvType=Tim	9	advmod:tmod	_	_
+7	школавга	школа	NOUN	N	Case=Lat|Clitic=AddGA|Definite=Ind|Number=Plur,Sing	9	obl:lmod	_	_
+8	аф	аф	AUX	Aux	Polarity=Neg	9	aux	_	_
+9	якан	якамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	2	conj	_	SpaceAfter=No
+10	.	.	PUNCT	CLB	_	2	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -32,25 +52,6 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 7	шавф	шавомс	VERB	V	Derivation=F|VerbForm=Part	8	advcl	_	GTtags=TV,PrfPrc
 8	верстак	верстак	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 aux	color:blue
-1	Оду	оду	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Sem/Time
-2	савондяряй	савомс	AUX	_	Derivation=Cond|Mood=Ind|Number[subj]=Sing|Person[subj]=3	3	aux	_	GTtags=Cond,ScSg3
-3	венцямс	венцямс	VERB	V	VerbForm=Inf	7	advcl	_	GTtags=Inf|SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	_
-5	тонга	тон	PRON	Pron	Case=Nom|Clitic=AddGA|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	GTtags=Pers,Sg2,Nom,Clt/Add
-6	тяфта	тяфта	ADV	Adv	_	7	advmod	_	_
-7	тик	тиемс	VERB	V	Mood=Imp|Number[subj]=Sing|Person[subj]=2	0	root	_	GTtags=Imprt,ScSg2
-8	свадьбацень	свадьба	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=2	7	obj	_	GTtags=Sg,Gen,PxSg2|SpaceAfter=No
-9	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

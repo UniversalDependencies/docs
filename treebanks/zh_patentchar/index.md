@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Yixuan Li, Kim Gerdes, Bruno Guillaume.
 
 Repository: [UD_Chinese-PatentChar](https://github.com/UniversalDependencies/UD_Chinese-PatentChar)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_patentchar214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_patentchar215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 3.0
 

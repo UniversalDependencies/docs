@@ -60,15 +60,15 @@ The following 14 pairs of parts of speech are connected with `compound:affix`: <
 # visual-style 14	fgColor:white
 # visual-style 14 12 compound:affix	color:blue
 1	ב	ב	ADP	ADP	_	2	case	_	_
-2	שנת	שנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	4	obl	_	_
-3	2020	2020	NUM	NUM	_	2	compound	_	_
+2	שנת	שנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	4	obl	_	Entity=(TIMEX
+3	2020	2020	NUM	NUM	_	2	compound	_	Entity=TIMEX)
 4	הצטרף	הצטרף	VERB	VERB	Gender=Masc|HebBinyan=HITPAEL|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 5	ל	ל	ADP	ADP	Definite=Def|PronType=Art	6	case	_	_
 6	וועד	ועד	NOUN	NOUN	Gender=Masc|Number=Sing	4	obl	_	_
 7	ה	ה	SCONJ	SCONJ	_	8	mark	_	_
 8	מייעץ	ייעץ	VERB	VERB	Gender=Masc|HebBinyan=PIEL|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	acl:relcl	_	_
 9	של	של	ADP	ADP	Case=Gen	10	case	_	_
-10	Welltech1	Welltech1	PROPN	PROPN	_	6	nmod:poss	_	SpaceAfter=No
+10	Welltech1	Welltech1	PROPN	PROPN	_	6	nmod:poss	_	Entity=(ORG)|SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	14	punct	_	_
 12	מיקרו	מיקרו	ADJ	ADJ	_	14	compound:affix	_	SpaceAfter=No
 13	-	-	PUNCT	PUNCT	_	12	punct	_	SpaceAfter=No

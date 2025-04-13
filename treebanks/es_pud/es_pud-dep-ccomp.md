@@ -29,11 +29,11 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 5	no	no	ADV	RB	Polarity=Neg	6	advmod	_	_
 6	necesitamos	necesitar	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 7	en	en	ADP	IN	_	9	case	_	_
-8	nuestro	nuestro	PRON	DTP$	Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+8	nuestro	nuestro	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
 9	país	país	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
-10	,	,	PUNCT	,	_	11	punct	_	_
+10	,	,	PUNCT	,	PunctType=Comm	11	punct	_	_
 11	amigos	amigo	NOUN	NN	Gender=Masc|Number=Plur	2	vocative	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	2	punct	_	_
+12	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -59,7 +59,7 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 13	mejores	mejor	ADJ	JJR	Degree=Cmp|Number=Plur	9	ccomp	_	_
 14	en	en	ADP	IN	_	15	case	_	_
 15	2017	2017	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	obl	_	SpaceAfter=No
-16	.	.	PUNCT	.	_	6	punct	_	_
+16	.	.	PUNCT	.	PunctType=Peri	6	punct	_	_
 
 ~~~
 
@@ -79,7 +79,7 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 7	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 8	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	bestia	bestia	NOUN	NN	Gender=Fem|Number=Sing	2	ccomp	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	2	punct	_	_
+10	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
 ~~~
 

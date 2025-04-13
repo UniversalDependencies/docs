@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-76 nodes (4%) are attached to their parents as `advmod`.
+77 nodes (4%) are attached to their parents as `advmod`.
 
-58 instances of `advmod` (76%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.26315789473684.
+59 instances of `advmod` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.31168831168831.
 
-The following 4 pairs of parts of speech are connected with `advmod`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (57; 75% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (17; 22% instances), <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `advmod`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (58; 75% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (17; 22% instances), <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

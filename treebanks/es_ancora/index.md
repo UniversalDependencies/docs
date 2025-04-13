@@ -12,15 +12,15 @@ udver: '2'
 # UD Spanish AnCora
 
 Language: [Spanish](/es/index.html) (code: `es`)<br/>
-Family: Indo-European, Romance
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
 The following people have contributed to making this treebank part of UD: Héctor Martínez Alonso, Daniel Zeman.
 
 Repository: [UD_Spanish-AnCora](https://github.com/UniversalDependencies/UD_Spanish-AnCora)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_ancora214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_ancora215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY 4.0
 
@@ -89,7 +89,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 
 ## Features
 
-[AdvType](es_ancora-feat-AdvType.html) – [Case](es_ancora-feat-Case.html) – [Definite](es_ancora-feat-Definite.html) – [Degree](es_ancora-feat-Degree.html) – [Foreign](es_ancora-feat-Foreign.html) – [Gender](es_ancora-feat-Gender.html) – [Mood](es_ancora-feat-Mood.html) – [Number](es_ancora-feat-Number.html) – [Number[psor]](es_ancora-feat-Number-psor.html) – [NumForm](es_ancora-feat-NumForm.html) – [NumType](es_ancora-feat-NumType.html) – [Person](es_ancora-feat-Person.html) – [Polarity](es_ancora-feat-Polarity.html) – [Polite](es_ancora-feat-Polite.html) – [Poss](es_ancora-feat-Poss.html) – [PrepCase](es_ancora-feat-PrepCase.html) – [PronType](es_ancora-feat-PronType.html) – [PunctSide](es_ancora-feat-PunctSide.html) – [PunctType](es_ancora-feat-PunctType.html) – [Reflex](es_ancora-feat-Reflex.html) – [Tense](es_ancora-feat-Tense.html) – [Typo](es_ancora-feat-Typo.html) – [VerbForm](es_ancora-feat-VerbForm.html)
+[Abbr](es_ancora-feat-Abbr.html) – [Case](es_ancora-feat-Case.html) – [Definite](es_ancora-feat-Definite.html) – [Degree](es_ancora-feat-Degree.html) – [Foreign](es_ancora-feat-Foreign.html) – [Gender](es_ancora-feat-Gender.html) – [Mood](es_ancora-feat-Mood.html) – [Number](es_ancora-feat-Number.html) – [Number[psor]](es_ancora-feat-Number-psor.html) – [NumForm](es_ancora-feat-NumForm.html) – [NumType](es_ancora-feat-NumType.html) – [Person](es_ancora-feat-Person.html) – [Polarity](es_ancora-feat-Polarity.html) – [Polite](es_ancora-feat-Polite.html) – [Poss](es_ancora-feat-Poss.html) – [PrepCase](es_ancora-feat-PrepCase.html) – [PronType](es_ancora-feat-PronType.html) – [PunctSide](es_ancora-feat-PunctSide.html) – [PunctType](es_ancora-feat-PunctType.html) – [Reflex](es_ancora-feat-Reflex.html) – [Tense](es_ancora-feat-Tense.html) – [Typo](es_ancora-feat-Typo.html) – [VerbForm](es_ancora-feat-VerbForm.html)
 
 ## Relations
 
@@ -613,7 +613,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <ul>
   <li>Frac
     <ul>
-      <li>NUM: cada, 1-0</li>
+      <li>NUM: 1-0</li>
     </ul>
   </li>
 </ul>
@@ -727,13 +727,11 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 
 
 <ul>
-  <li><a>AdvType</a>
+  <li><a>Abbr</a>
     <ul>
-      <li>Tim
+      <li>Yes
         <ul>
-          <li>ADJ: próximo</li>
-          <li>ADV: después, tarde</li>
-          <li>NOUN: 1999, domingo, viernes, miércoles, sábado, lunes, martes, jueves, 1998, año</li>
+          <li>PROPN: Inc</li>
         </ul>
       </li>
     </ul>
@@ -751,7 +749,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
           <li>DET: les, le, Al, A, la, una</li>
           <li>NOUN: Comerç, Conselleria, Flors, Indústria, Institució, Mercat, Monde, Turisme, Boulevard, Ciències</li>
           <li>NUM: 1.000</li>
-          <li>PROPN: Lletres, Crime, Frederick, Generalitat, Glòries, Balears, Illes</li>
+          <li>PROPN: Lletres, Crime, Frederick, Generalitat, Glòries, Balears, Illes, Inc</li>
           <li>X: Ja, hi, som</li>
         </ul>
       </li>
@@ -788,7 +786,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
     <ul>
       <li>Fin
         <ul>
-          <li>PUNCT: ), ?, !, ¿</li>
+          <li>PUNCT: ), ?, !</li>
         </ul>
       </li>
       <li>Ini
@@ -815,13 +813,17 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       </li>
       <li>Comm
         <ul>
-          <li>NOUN: etcétera</li>
-          <li>PUNCT: ,, ..., etcétera, etc</li>
+          <li>PUNCT: ,</li>
         </ul>
       </li>
       <li>Dash
         <ul>
-          <li>PUNCT: -, ", .</li>
+          <li>PUNCT: -</li>
+        </ul>
+      </li>
+      <li>Elip
+        <ul>
+          <li>PUNCT: ...</li>
         </ul>
       </li>
       <li>Excl
@@ -841,7 +843,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       </li>
       <li>Quot
         <ul>
-          <li>PUNCT: ", ', `, .</li>
+          <li>PUNCT: ", ', `</li>
         </ul>
       </li>
       <li>Semi

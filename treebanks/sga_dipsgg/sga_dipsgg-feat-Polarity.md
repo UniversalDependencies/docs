@@ -11,7 +11,7 @@ It occurs with 2 different values: `Neg`, `Pos`.
 
 25 tokens (6%) have a non-empty value of `Polarity`.
 11 types (4%) occur at least once with a non-empty value of `Polarity`.
-3 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
+4 lemmas (2%) occur at least once with a non-empty value of `Polarity`.
 The feature is used with 4 part-of-speech tags: <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (17; 4% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="sga_dipsgg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `AUX`
@@ -47,21 +47,23 @@ The most frequent other feature values with which `PART` and `Polarity` co-occur
 
 ### `SCONJ`
 
-3 <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> tokens (23% of all `SCONJ` tokens) have a non-empty value of `Polarity`.
+3 <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> tokens (21% of all `SCONJ` tokens) have a non-empty value of `Polarity`.
+
+The most frequent other feature values with which `SCONJ` and `Polarity` co-occurred: <tt><a href="sga_dipsgg-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (3; 100%).
 
 `SCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>na, nach</em>
-* `EMPTY` (10): <em>ci, amal, ar, co, con, ma, ut</em>
+* `EMPTY` (11): <em>ci, ut, amal, ar, co, con, ma</em>
 
 ### `CCONJ`
 
-1 <tt><a href="sga_dipsgg-pos-CCONJ.html">CCONJ</a></tt> tokens (17% of all `CCONJ` tokens) have a non-empty value of `Polarity`.
+1 <tt><a href="sga_dipsgg-pos-CCONJ.html">CCONJ</a></tt> tokens (14% of all `CCONJ` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `CCONJ` and `Polarity` co-occurred: <tt><a href="sga_dipsgg-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>na</em>
-* `EMPTY` (5): <em>⁊, et</em>
+* `EMPTY` (6): <em>⁊, et</em>
 

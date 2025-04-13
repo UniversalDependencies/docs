@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_poetry-pos-PROPN
 
 80 <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> tokens (95% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (80; 100%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (69; 86%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (53; 66%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (42; 53%).
+The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (69; 86%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (53; 66%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (42; 53%).
 
 `PROPN` tokens may have the following values of `NameType`:
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 
 3 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=Gen</tt> (3; 100%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3; 100%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (2; 67%), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2; 67%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 67%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2; 67%).
+The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=Gen</tt> (3; 100%), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3; 100%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3; 100%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (2; 67%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 67%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2; 67%).
 
 `ADJ` tokens may have the following values of `NameType`:
 

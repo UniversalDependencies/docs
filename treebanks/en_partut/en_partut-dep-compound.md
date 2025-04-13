@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 compound	color:blue
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	6	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	6	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	on	on	ADP	E	_	6	case	_	_
@@ -66,7 +66,7 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	South	South	NOUN	S	_	6	nmod	_	_
 5	Korean	Korean	ADJ	A	Degree=Pos	4	compound	_	_
-6	women	women	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+6	women	women	NOUN	S	Number=Sing	7	nsubj	_	_
 7	participate	participate	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	in	in	ADP	E	_	11	case	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_

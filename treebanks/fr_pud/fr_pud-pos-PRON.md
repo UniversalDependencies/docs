@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>s'</em> (<tt><a href="fr_pud-pos-PRON
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.461538 (the average of all parts of speech is 1.299853).
+The form / lemma ratio of `PRON` is 2.461538 (the average of all parts of speech is 1.300126).
 
 The 1st highest number of forms (13) was observed with the lemma “il”: <em>-elle, -il, -ils, -t-il, elle, elles, il, ils, j', je, j’, nous, vous</em>.
 
@@ -64,9 +64,9 @@ The 2nd highest number of forms (8) was observed with the lemma “le”: <em>l'
 
 The 3rd highest number of forms (6) was observed with the lemma “se”: <em>m', me, m’, s', se, s’</em>.
 
-`PRON` occurs with 7 features: <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt> (1097; 100% instances), <tt><a href="fr_pud-feat-Person.html">Person</a></tt> (730; 67% instances), <tt><a href="fr_pud-feat-Number.html">Number</a></tt> (611; 56% instances), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt> (478; 44% instances), <tt><a href="fr_pud-feat-Polarity.html">Polarity</a></tt> (2; 0% instances), <tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances), <tt><a href="fr_pud-feat-Person-psor.html">Person[psor]</a></tt> (1; 0% instances)
+`PRON` occurs with 6 features: <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt> (1097; 100% instances), <tt><a href="fr_pud-feat-Person.html">Person</a></tt> (730; 67% instances), <tt><a href="fr_pud-feat-Number.html">Number</a></tt> (611; 56% instances), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt> (478; 44% instances), <tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances), <tt><a href="fr_pud-feat-Person-psor.html">Person[psor]</a></tt> (1; 0% instances)
 
-`PRON` occurs with 16 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=3`, `Polarity=Neg`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`
+`PRON` occurs with 15 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`
 
 `PRON` occurs with 31 feature combinations.
 The most frequent feature combination is `Gender=Masc|Number=Sing|Person=3|PronType=Prs` (257 tokens).

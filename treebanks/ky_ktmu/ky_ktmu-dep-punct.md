@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1059 nodes (14%) are attached to their parents as `punct`.
+3282 nodes (14%) are attached to their parents as `punct`.
 
-1032 instances of `punct` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.00094428706327.
+3185 instances of `punct` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.00853138330286.
 
-The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (824; 78% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (123; 12% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (46; 4% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (26; 2% instances), <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (12; 1% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (9; 1% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (8; 1% instances), <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="ky_ktmu-pos-DET.html">DET</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
+The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (2492; 76% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (356; 11% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (287; 9% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (75; 2% instances), <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (21; 1% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (17; 1% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (17; 1% instances), <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="ky_ktmu-pos-DET.html">DET</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
 
 
 ~~~ conllu

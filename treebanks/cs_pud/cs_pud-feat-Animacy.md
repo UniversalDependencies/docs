@@ -18,7 +18,7 @@ The feature is used with 7 part-of-speech tags: <tt><a href="cs_pud-pos-NOUN.htm
 
 1914 <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> tokens (43% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1914; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1913; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1288; 67%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1913; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1288; 67%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 868 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (38% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (827; 95%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (809; 93%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (713; 82%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (713; 82%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (709; 82%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (468; 54%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (827; 95%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (809; 93%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (764; 88%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (713; 82%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (713; 82%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (468; 54%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 612 <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> tokens (56% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (612; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (611; 100%), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (571; 93%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (554; 91%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (327; 53%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (611; 100%), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (571; 93%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (554; 91%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (327; 53%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
@@ -129,7 +129,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 52 <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> tokens (8% of all `AUX` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (52; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (52; 100%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (52; 100%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (52; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (52; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (52; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (46; 88%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (38; 73%).
+The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="cs_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (52; 100%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (52; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (52; 100%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (52; 100%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (52; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (52; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (52; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (46; 88%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (38; 73%).
 
 `AUX` tokens may have the following values of `Animacy`:
 

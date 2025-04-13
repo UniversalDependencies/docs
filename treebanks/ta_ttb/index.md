@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Loganathan Ramasamy, Daniel Zeman.
 
 Repository: [UD_Tamil-TTB](https://github.com/UniversalDependencies/UD_Tamil-TTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udta_ttb214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udta_ttb215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -74,7 +74,7 @@ In: *Proceedings of Eighth International Conference on Language Resources and Ev
 @inproceedings{ta,
 author = {Ramasamy, Loganathan and \v{Z}abokrtsk\'{y}, Zden\v{e}k},
 year = {2012},
-title = {Prague Dependency Style Treebank for {Tamil}},
+title = {Prague Dependency Style Treebank for {Tamil{% raw %}}}{% endraw %},
 booktitle = {Proceedings of Eighth International Conference on Language Resources and Evaluation ({LREC} 2012)},
 address = {\.{I}stanbul, Turkey},
 editor = {Nicoletta Calzolari (Conference Chair) and Khalid Choukri and Thierry Declerck and Mehmet Uğur Doğan and Bente Maegaard and Joseph Mariani and Asuncion Moreno and Jan Odijk and Stelios Piperidis},

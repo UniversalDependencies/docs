@@ -69,15 +69,15 @@ The following 15 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 obj	color:blue
-1	מס	מס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	4	nsubj	_	_
+1	מס	מס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	4	nsubj	_	Entity=(MISC
 2	רווחי	רווח	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	1	compound	_	_
-3	הון	הון	NOUN	NOUN	Gender=Masc|Number=Sing	2	compound	_	_
+3	הון	הון	NOUN	NOUN	Gender=Masc|Number=Sing	2	compound	_	Entity=MISC)
 4	מקובל	מקובל	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	_
 5	ב	ב	ADP	ADP	_	6	case	_	_
 6	מדינות	מדינה	NOUN	NOUN	Gender=Fem|Number=Plur	4	obl	_	_
 7	רבות	רב	ADJ	ADJ	Gender=Fem|Number=Plur	6	amod	_	_
 8	כולל	כלל	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=3|VerbForm=Part|Voice=Act	6	acl	_	_
-9	ישראל	ישראל	PROPN	PROPN	_	8	obj	_	SpaceAfter=No
+9	ישראל	ישראל	PROPN	PROPN	_	8	obj	_	Entity=(GPE)|SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~

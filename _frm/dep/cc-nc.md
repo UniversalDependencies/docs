@@ -27,4 +27,4 @@ It is often the case at the beginning of the sentence, and for the first element
 10	.	.	PUNCT	PONfrt	_	5	punct	_	_
 
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:50 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:33 CET -->

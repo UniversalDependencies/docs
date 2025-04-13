@@ -30,7 +30,7 @@ The following 4 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	нинге	нинге	ADV	Adv	AdvType=Tim	9	advmod:tmod	_	_
 7	школавга	школа	NOUN	N	Case=Lat|Clitic=AddGA|Definite=Ind|Number=Plur,Sing	9	obl:lmod	_	_
-8	аф	аф	AUX	Aux	Polarity=Neg	9	aux:neg	_	_
+8	аф	аф	AUX	Aux	Polarity=Neg	9	aux	_	_
 9	якан	якамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	2	conj	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -72,7 +72,7 @@ The following 4 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 5	оржа	оржа	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef
 6	и	и	CCONJ	CC	_	9	cc	_	_
 7	кядец	кядь	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	nsubj:cop	_	GTtags=Sg,Nom,PxSg3
-8	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	9	aux:neg	_	GTtags=Aux,Neg
+8	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	9	aux	_	GTtags=Aux,Neg
 9	трнаты	трнатомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	5	conj	_	GTtags=Ind,Prs,ScSg3|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	5	punct	_	_
 

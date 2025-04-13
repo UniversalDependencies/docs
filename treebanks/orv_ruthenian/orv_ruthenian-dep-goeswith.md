@@ -8,12 +8,39 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (0%) are attached to their parents as `goeswith`.
+4 nodes (0%) are attached to their parents as `goeswith`.
 
-2 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+4 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a href="orv_ruthenian-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_ruthenian-pos-X.html">X</a></tt> (1; 50% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-X.html">X</a></tt> (1; 50% instances).
+The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-X.html">X</a></tt> (1; 25% instances), <tt><a href="orv_ruthenian-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_ruthenian-pos-X.html">X</a></tt> (1; 25% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-X.html">X</a></tt> (1; 25% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-X.html">X</a></tt> (1; 25% instances).
+
+
+~~~ conllu
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 16 goeswith	color:blue
+1	Пан	панъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	wf="Пан"
+2	Ивашко	Ивашко	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	1	appos	_	wf="Ивашко"
+3	Дѣдошицкии	Дѣдошицкий	PROPN	_	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	flat:name	_	wf="Дѣдошицкии"
+4	поставил	поставити	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="поставил"
+5	старцѣ	старецъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	wf="старцѣ"
+6	обьчии	обчий	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	wf="обьчии"|SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	wf=","
+8	пан	панъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	wf="пан"
+9	Татомирь	Татомирь	PROPN	_	Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	8	appos	_	wf="Татомирь"
+10	постивиль	поставити	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	4	conj	_	wf="постивиль"
+11	(	(	PUNCT	_	_	10	punct	_	wf="("|NoIndex=Yes|SpaceAfter=No
+12	!	!	PUNCT	_	_	10	punct	_	wf="!"|NoIndex=Yes|SpaceAfter=No
+13	)	)	PUNCT	_	_	10	punct	_	wf=")"|NoIndex=Yes
+14	старцѣ	старецъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	obl	_	wf="старцѣ"
+15	о	обчий	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Typo=Yes	14	amod	_	wf="о"
+16	бьчии	_	X	_	_	15	goeswith	_	wf="бьчии"|SpaceAfter=No
+17	.	.	PUNCT	_	_	4	punct	_	wf="."
+
+~~~
 
 
 ~~~ conllu

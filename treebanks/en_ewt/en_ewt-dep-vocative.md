@@ -54,9 +54,9 @@ The following 16 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 vocative	color:blue
-1	What	what	PRON	WP	PronType=Int	3	nsubj	3:nsubj	_
+1	What	what	PRON	WP	PronType=Int	3	nsubj	3:nsubj	CxnElt=3:Interrogative-WHInfo-Direct.WHWord
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
-3	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
+3	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	Cxn=Interrogative-WHInfo-Direct|CxnElt=3:Interrogative-WHInfo-Direct.Clause
 4	on	on	ADP	RP	_	3	compound:prt	3:compound:prt	_
 5	dude	dude	NOUN	NN	Number=Sing	3	vocative	3:vocative	SpaceAfter=No
 6	?	?	PUNCT	.	_	3	punct	3:punct	_

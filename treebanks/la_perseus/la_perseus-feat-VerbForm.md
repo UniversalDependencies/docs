@@ -148,7 +148,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (16; 100% of non-empty `VerbForm`): <em>contentum, tuta, auratum, contenta, contentus, conveniens, culta, doctior, irati, munitus</em>
-* `EMPTY` (2117): <em>magna, publicae, publicam, magno, magnum, publica, magnam, prima, mala, p</em>
+* `EMPTY` (2116): <em>magna, publicae, publicam, magno, magnum, publica, magnam, prima, mala, p</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (11) occur only with one value of `VerbForm`.
 

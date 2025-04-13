@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-58 nodes (2%) are attached to their parents as `mark`.
+657 nodes (1%) are attached to their parents as `mark`.
 
-41 instances of `mark` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.01724137931035.
+643 instances of `mark` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.89345509893455.
 
-The following 5 pairs of parts of speech are connected with `mark`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (38; 66% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (11; 19% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (5; 9% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (3; 5% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances).
+The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (327; 50% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (213; 32% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (82; 12% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (13; 2% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,62 +42,40 @@ The following 5 pairs of parts of speech are connected with `mark`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 mark	color:blue
-1	ეს	ეს	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	2	nmod	_	Translit=es
-2	ენა	ენა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	nsubj	_	SpaceAfter=No|Translit=ena
-3	,	,	PUNCT	F	PunctType=Comm	2	punct	_	Translit=,
-4	როგორც	როგორც	SCONJ	Conj	_	2	mark	_	Translit=rogorcʻ
-5	ანკარა	ანკარა	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	7	nmod	_	Translit=ankara
-6	მთის	მთა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	nmod	_	Translit=mtʻis
-7	წყარო	წყარო	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nmod	_	SpaceAfter=No|Translit=cqaro
-8	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
-9	იღვრება	იღვრება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Pass	0	root	_	Translit=iġvreba
-10	ჩემ	ჩემი	PRON	Pron	Case=Dat|Number=Sing|Person=1|Poss=Yes	9	obl	_	Translit=čʻem
-11	ში	ში	ADP	Post	AdpType=Post|Case=Dat	10	case	_	Translit=ši
-12	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
-13	მე	მე	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	Translit=me
-14	არ	არ	PART	Part	PartType=Neg	18	advmod	_	Translit=ar
-15	მინდა	უნდა	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	18	aux	_	Translit=minda
-16	სხვა	სხვა	PRON	Pron	Case=Ins|Number=Sing|PronType=Tot	17	nmod	_	Translit=sxva
-17	ენით	ენა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	18	obl	_	Translit=enitʻ
-18	ავივსო	ივსება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Past|Voice=Pass	9	parataxis	_	SpaceAfter=No|Translit=avivso
-19	.	.	PUNCT	F	PunctType=Peri	9	punct	_	Translit=.
+# visual-style 4 3 mark	color:blue
+1	პარაზიტები	პარაზიტი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Plur	6	nsubj	_	SpaceAfter=No|Translit=parazitebi
+2	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
+3	როგორც	როგორც	SCONJ	Conj	_	4	mark	_	Translit=rogorcʻ
+4	წესი	წესი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	1	parataxis	_	SpaceAfter=No|Translit=cesi
+5	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
+6	იწვევენ	იწვევს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=icveven
+7	მასპინძლის	მასპინძელი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	8	nmod	_	Translit=maspinżlis
+8	დაავადებას	დაავადება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	6	obj	_	SpaceAfter=No|Translit=daavadebas
+9	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 16 mark	color:blue
-1	დღეს	დღეს	ADV	Adv	AdvType=Tim	8	advmod	_	Translit=dġes
-2	მთელ	მთელი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	3	amod	_	Translit=mtʻel
-3	კულტუროსან	კულტუროსანი	ADJ	Adj	Case=Dat|Number=Sing	4	amod	_	Translit=kulturosan
-4	სამყარო	სამყარო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obl	_	Translit=samqaro
-5	ში	ში	ADP	Post	AdpType=Post|Case=Dat	4	case	_	Translit=ši
-6	განსაკუთრებული	განსაკუთრებული	ADJ	Adj	Case=Ins|Number=Sing	7	amod	_	Translit=gansakutʻrebuli
-7	შეშფოთებით	შეშფოთება	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	8	obl	_	Translit=šešpʻotʻebitʻ
-8	ფიქრობენ	ფიქრობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=pʻikʻroben
-9	და	და	CCONJ	Conj	_	10	cc	_	Translit=da
-10	მსჯელობენ	მსჯელობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	8	conj	_	Translit=msjeloben
-11	იმ	ის	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	12	nmod	_	Translit=im
-12	საწყისის	საწყისი	ADJ	Adj	Case=Gen|Number=Sing	13	nmod	_	Translit=sacqisis
-13	გადარჩენა	გადარჩენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obl	_	Translit=gadarčʻena
-14	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	13	case	_	Translit=ze
-15	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
-16	რომელიც	რომელიც	SCONJ	Conj	_	12	mark	_	Translit=romelicʻ
-17	„	„	PUNCT	F	PunctType=Quot	18	punct	_	SpaceAfter=No|Translit=„
-18	სულიერებადა	სულიერება	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing	12	acl	_	Translit=sulierebada
-19	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	18	cop	_	Translit=a
-20	“	“	PUNCT	F	PunctType=Quot	18	punct	_	Translit=“
-21	მონათლული	მონათლული	VERB	VerbalAdj	Case=Nom|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Part	18	amod	_	SpaceAfter=No|Translit=monatʻluli
-22	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 mark	color:blue
+1	ცხიმები	ცხიმი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	9	nsubj	_	Translit=cʻximebi
+2	როგორც	როგორც	SCONJ	Conj	_	3	mark	_	Translit=rogorcʻ
+3	ცხოველურ	ცხოველური	ADJ	Adj	Case=Dat|Number=Sing	9	amod	_	SpaceAfter=No|Translit=cʻxovelur
+4	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
+5	ისე	ისე	ADV	Adv	AdvType=Man	9	advmod	_	Translit=ise
+6	მცენარეულ	მცენარეული	ADJ	Adj	Case=Dat|Number=Sing	7	amod	_	Translit=mcʻenareul
+7	ორგანიზმ	ორგანიზმი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	9	obl	_	Translit=organizm
+8	ში	ში	ADP	Post	AdpType=Post|Case=Dat	7	case	_	Translit=ši
+9	გვხვდება	ხვდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Subcat=Indir|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No|Translit=gvxvdeba
+10	.	.	PUNCT	F	PunctType=Peri	9	punct	_	Translit=.
 
 ~~~
 

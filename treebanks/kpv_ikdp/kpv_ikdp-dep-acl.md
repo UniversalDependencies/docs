@@ -38,7 +38,7 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 13	а	а	CCONJ	CC	_	17	cc	_	OrigLang=ru
 14	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
 15	никодэс	некод	PRON	Pron	Case=Acc|Number=Sing|Polarity=Neg	17	obj	_	_
-16	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres	17	aux:neg	_	_
+16	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres	17	aux	_	_
 17	тӧд	тӧдны	VERB	V	Connegative=Yes	9	acl	_	SpaceAfter=No
 18	.	.	PUNCT	CLB	_	9	punct	_	_
 

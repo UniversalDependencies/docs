@@ -12,18 +12,18 @@ It occurs with 2 different values: `Cmp`, `Pos`.
 7 tokens (4%) have a non-empty value of `Degree`.
 7 types (6%) occur at least once with a non-empty value of `Degree`.
 7 lemmas (7%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="lv_cairo-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="lv_cairo-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="lv_cairo-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="lv_cairo-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="lv_cairo-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 ### `ADJ`
 
-5 <tt><a href="lv_cairo-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Degree`.
+4 <tt><a href="lv_cairo-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="lv_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="lv_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4; 80%), <tt><a href="lv_cairo-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (4; 80%), <tt><a href="lv_cairo-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3; 60%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="lv_cairo-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (4; 100%), <tt><a href="lv_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="lv_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 75%), <tt><a href="lv_cairo-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3; 75%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Cmp` (1; 20% of non-empty `Degree`): <em>foršāks</em>
-* `Pos` (4; 80% of non-empty `Degree`): <em>liela, maza, sarkanā, tavējais</em>
+* `Cmp` (1; 25% of non-empty `Degree`): <em>foršāks</em>
+* `Pos` (3; 75% of non-empty `Degree`): <em>liela, maza, sarkanā</em>
 
 ### `ADV`
 
@@ -36,6 +36,17 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Pos` (1; 100% of non-empty `Degree`): <em>ātri</em>
 * `EMPTY` (7): <em>Kā, kad, līdzi, pārāk, tad, todien, vakar</em>
 
+### `DET`
+
+1 <tt><a href="lv_cairo-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Degree`.
+
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="lv_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="lv_cairo-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1; 100%), <tt><a href="lv_cairo-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="lv_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="lv_cairo-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="lv_cairo-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="lv_cairo-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`DET` tokens may have the following values of `Degree`:
+
+* `Pos` (1; 100% of non-empty `Degree`): <em>tavējais</em>
+* `EMPTY` (8): <em>to, Mans, kurš, kāda, savai, savam, Šī</em>
+
 ### `VERB`
 
 1 <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Degree`.
@@ -45,7 +56,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>piegādāta</em>
-* `EMPTY` (31): <em>uzrakstīja, Nevarēja, apgriezt, apskāvās, atmest, atnākt, atstāja, atver, centās, domā</em>
+* `EMPTY` (30): <em>uzrakstīja, Nevarēja, apgriezt, apskāvās, atmest, atnākt, atstāja, atver, centās, domā</em>
 
 ## Relations with Agreement in `Degree`
 

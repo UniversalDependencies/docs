@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="nds_lsdc-dep-aux-pass.html">aux:pass</a></tt>.
 
-719 nodes (3%) are attached to their parents as `aux`.
+718 nodes (3%) are attached to their parents as `aux`.
 
-492 instances of `aux` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.43115438108484.
+491 instances of `aux` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.43314763231198.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (658; 92% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (24; 3% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (17; 2% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (12; 2% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (657; 92% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (24; 3% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (17; 2% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (12; 2% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -67,7 +67,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 10	fgColor:white
 # visual-style 10 12 aux	color:blue
 1	„	„	PUNCT	_	_	10	punct	_	SpaceAfter=No
-2	Jo	jo	INTJ	_	_	10	discourse	_	lemma_gml=io|SpaceAfter=No
+2	Jo	jå	INTJ	_	_	10	discourse	_	lemma_gml=io|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	lemma_gml=,
 4	heyre	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	vocative	_	lemma_gml=hêre
 5	pastor	pastor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	flat	_	lemma_gml=pâstôr|SpaceAfter=No

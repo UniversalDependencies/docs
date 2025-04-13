@@ -734,6 +734,18 @@ Attested e.g. in Coptic or Komi Zyrian.
 
 <a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^OrigLang$"><button>Table for <code>OrigLang</code> feature</button></a>
 
+### PDTB
+
+Penn Discourse Treebank (PDTB) style shallow discourse relations. For example, some UD_English corpora (GUM, GUMReddit, GENTLE) include shallow discourse relation annotations, which provides information for Explicit, Implicit, AltLex, AltLexC, EntRel, Hypophora and NoRel annotations following the Penn Discourse Treebank (PDTB) v3 guidelines (see Webber et al. 2019 for definitions). Annotations are placed on the first token of the connective (words like "but", "because", "on the other hand", etc.) or alternative lexicalization (e.g. "this is the reason") marking the relation for explicit/altlex relations, or on the first token of the second argument span (arg2) for other cases. Token ranges for each argument span, the connective and relation label are provided as well. For example, the following line:
+
+```CoNLL-U
+21	to	to	PART	TO	_	22	mark	22:mark	Discourse=purpose-goal:105->104:0:syn-inf-963|PDTB=Implicit:Contingency.Purpose.Arg2-as-goal:in order:_:943-962:963-981
+```
+
+indicates an Implicit relation with the label `Contingency.Purpose.Arg2-as-goal`, with an implicit connective "in order". Because the connective is implicit, it has no token indices (`_`), but arg1 spans token`943-962` of the document (ignoring decimal ellipsis tokens), and arg2 spans tokens `963-981`. If multiple PDTB relations apply at the same token position, they are separated by a semicolon.
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^PDTB$"><button>Table for <code>PDTB</code> feature</button></a>
+
 ### Proper
 
 See also [MWE](#mwe), [MWEPOS](#mwepos), [NamedEntity](#namedentity) and [Entity](#entity).

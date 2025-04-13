@@ -18,7 +18,7 @@ The feature is used with 7 part-of-speech tags: <tt><a href="cs_pud-pos-PROPN.ht
 
 111 <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> tokens (10% of all `PROPN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (111; 100%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (75; 68%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (70; 63%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (65; 59%).
+The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (75; 68%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (70; 63%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (65; 59%).
 
 `PROPN` tokens may have the following values of `Foreign`:
 
@@ -31,11 +31,11 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 
 35 <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (35; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (28; 80%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (27; 77%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (25; 71%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22; 63%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (28; 80%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (27; 77%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (25; 71%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22; 63%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 
-* `Yes` (35; 100% of non-empty `Foreign`): <em>brexitu, e-maily, Blood, Breaking, Buck, Business, CGI, CTV, City, Consumer</em>
+* `Yes` (35; 100% of non-empty `Foreign`): <em>Blood, Breaking, Buck, Business, City, Consumer, Heritage, Hospitals, International, La</em>
 * `EMPTY` (4448): <em>roce, roku, let, století, letech, době, území, období, oblasti, l</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (33) occur only with one value of `Foreign`.

@@ -24,7 +24,7 @@ The following 10 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 10 1 discourse	color:blue
 1	Sin	sin	ADP	IN	_	10	discourse	_	_
 2	embargo	embargo	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
-3	,	,	PUNCT	,	_	1	punct	_	_
+3	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 4	para	para	ADP	IN	_	5	case	_	_
 5	Kerber	Kerber	PROPN	NNP	Number=Sing	10	obl	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -38,7 +38,7 @@ The following 10 pairs of parts of speech are connected with `discourse`: <tt><a
 14	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	año	año	NOUN	NN	Gender=Masc|Number=Sing	12	nmod	_	_
 16	increíble	increíble	ADJ	JJ	Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
-17	.	.	PUNCT	.	_	10	punct	_	_
+17	.	.	PUNCT	.	PunctType=Peri	10	punct	_	_
 
 ~~~
 
@@ -58,11 +58,11 @@ The following 10 pairs of parts of speech are connected with `discourse`: <tt><a
 7	Frank	Frank	PROPN	NNP	Gender=Masc|Number=Sing	5	obl	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	modelo	modelo	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
-10	,	,	PUNCT	,	_	3	punct	_	_
+10	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 11	ella	él	PRON	PRP	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
 12	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	compound:prt	_	_
 13	rie	reír	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-14	.	.	PUNCT	.	_	13	punct	_	_
+14	.	.	PUNCT	.	PunctType=Peri	13	punct	_	_
 
 ~~~
 
@@ -74,7 +74,7 @@ The following 10 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 1 discourse	color:blue
 1	Además	además	ADV	RB	_	5	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	,	_	1	punct	_	_
+2	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 3	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	Gobierno	gobierno	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
 5	tendrá	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
@@ -84,7 +84,7 @@ The following 10 pairs of parts of speech are connected with `discourse`: <tt><a
 9	otra	otro	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	10	det	_	_
 10	patata	patata	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
 11	caliente	caliente	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	5	punct	_	_
+12	.	.	PUNCT	.	PunctType=Peri	5	punct	_	_
 
 ~~~
 

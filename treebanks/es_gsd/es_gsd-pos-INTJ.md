@@ -13,7 +13,7 @@ The 10 most frequent `INTJ` lemmas: <em>sí, salve</em>
 
 The 10 most frequent `INTJ` types:  <em>sí, Salve</em>
 
-The 10 most frequent ambiguous lemmas: <em>sí</em> (<tt><a href="es_gsd-pos-INTJ.html">INTJ</a></tt> 35, <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> 1, <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="es_gsd-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>sí</em> (<tt><a href="es_gsd-pos-INTJ.html">INTJ</a></tt> 35, <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> 1, <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="es_gsd-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>sí</em> (<tt><a href="es_gsd-pos-INTJ.html">INTJ</a></tt> 34, <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> 31, <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> 1, <tt><a href="es_gsd-pos-X.html">X</a></tt> 1)
 
@@ -21,13 +21,13 @@ The 10 most frequent ambiguous types:  <em>sí</em> (<tt><a href="es_gsd-pos-INT
 * <em>sí</em>
   * <tt><a href="es_gsd-pos-INTJ.html">INTJ</a></tt> 34: <em>Quien lo ha parido <b>sí</b> ve las diferencias .</em>
   * <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> 31: <em>Los equipos restantes juegan entre <b>sí</b> por los puestos 13 a 16 .</em>
-  * <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt> 5: <em>No sé <b>sí</b> es caro porque no he pagado todavía ; )</em>
+  * <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt> 5: <em>No sé <b>sí</b> es caro porque no he pagado todavía ;)</em>
   * <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> 1: <em>Desde temprano , la temperatura apretaba y la salida de casa tendría que ser , sí o <b>sí</b> , en mangas cortas .</em>
   * <tt><a href="es_gsd-pos-X.html">X</a></tt> 1: <em>Las almohadas son incomodisimas y aunque tienen servicio de cambio de almohadas nos dicen que como es fin de semana no está la gobernanta y no saben <b>sí</b> nos podrán dar .</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.287914).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.291521).
 
 The 1st highest number of forms (1) was observed with the lemma “salve”: <em>Salve</em>.
 

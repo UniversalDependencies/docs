@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3434 nodes (4%) are attached to their parents as `cc`.
+5111 nodes (4%) are attached to their parents as `cc`.
 
-3431 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.93593476994758.
+5105 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.06652318528664.
 
-The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (2022; 59% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (662; 19% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (251; 7% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (231; 7% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (120; 3% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (69; 2% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (24; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> (18; 1% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="it_old-pos-ADP.html">ADP</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-X.html">X</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `cc`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (2932; 57% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (995; 19% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (403; 8% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (330; 6% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (208; 4% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (116; 2% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (40; 1% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (21; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="it_old-pos-ADP.html">ADP</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="it_old-pos-X.html">X</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-X.html">X</a></tt>-<tt><a href="it_old-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,39 +41,46 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 9 1 cc	color:blue
-1	E	e	CCONJ	cscc	_	9	cc	_	Canto=26|Verso=10
-2	se	se	SCONJ	cssv	_	4	mark	_	Canto=26|Verso=10
-3	già	già	ADV	b	_	4	advmod:tmod	_	Canto=26|Verso=10
-4	fosse	essere	AUX	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	advcl	_	Canto=26|SpaceAfter=No|Verso=10
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	non	non	ADV	b	PronType=Neg	9	advmod:neg	_	Canto=26|Verso=10
-7	saria	essere	AUX	vi4dps3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	9	cop	_	Canto=26|Verso=10
-8	per	per	ADP	_	_	9	case	_	Canto=26|Verso=10
-9	tempo	tempo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Canto=26|SpaceAfter=No|Verso=10
-10	.	.	PUNCT	_	_	9	punct	_	_
+# visual-style 9 8 cc	color:blue
+1	E	e	CCONJ	cscc	_	6	cc	_	Canto=33|Verso=149
+2	io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Canto=33|Verso=149
+3	non	non	ADV	b	PronType=Neg	6	advmod:neg	_	Canto=33|Verso=149
+4	li	li	PRON	pp3mpxda	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	iobj	_	Canto=33|Verso=149
+5	li	li	PRON	pp3mpxac	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obj	_	Canto=33|Verso=149
+6	apersi	aprire	VERB	vta3irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=33|SpaceAfter=No|Verso=149
+7	;	;	PUNCT	_	_	9	punct	_	_
+8	e	e	CCONJ	cscc	_	9	cc	_	Canto=33|Verso=150
+9	cortesia	cortesia	NOUN	sf1fs	Gender=Fem|Number=Sing	6	conj	_	Canto=33|Verso=150
+10	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	Canto=33|Verso=150
+11	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obl:arg	_	Canto=33|Verso=150
+12	esser	essere	AUX	vi4fp	Tense=Pres|VerbForm=Inf	13	cop	_	Canto=33|Verso=150
+13	villano	villano	ADJ	a1msxo	Gender=Masc|Number=Sing	9	csubj	_	Canto=33|SpaceAfter=No|Verso=150
+14	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 cc	color:blue
-1	E	e	CCONJ	cscc	_	4	cc	_	Canto=27|Verso=33
-2	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	4	nsubj	_	Canto=27|Verso=33
-3	pur	pure	ADV	b	_	4	advmod	_	Canto=27|Verso=33
-4	fermo	fermo	ADJ	a1ms	Gender=Masc|Number=Sing	0	root	_	Canto=27|Verso=33
-5	e	e	CCONJ	cscc	_	7	cc	_	Canto=27|Verso=33
-6	contra	contro	ADP	eisks	_	7	case	_	Canto=27|Verso=33
-7	coscienza	coscienza	NOUN	sf1fs	Gender=Fem|Number=Sing	4	conj	_	Canto=27|SpaceAfter=No|Verso=33
-8	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 6 cc	color:blue
+1	«	«	PUNCT	_	_	4	punct	_	SpaceAfter=No
+2	Io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Canto=4|Verso=15
+3	sarò	essere	AUX	vi4ifs1	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	4	cop	_	Canto=4|Verso=15
+4	primo	primo	ADJ	an1ms	Gender=Masc|Number=Sing|NumType=Ord	0	root	_	Canto=4|SpaceAfter=No|Verso=15
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	e	e	CCONJ	cscc	_	9	cc	_	Canto=4|Verso=15
+7	tu	tu	PRON	pp2slso	Number=Sing|Person=2|PronType=Prs	9	nsubj	_	Canto=4|Verso=15
+8	sarai	essere	AUX	vi4ifs2	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	9	cop	_	Canto=4|Verso=15
+9	secondo	secondo	ADJ	an1ms	Gender=Masc|Number=Sing|NumType=Ord	4	conj	_	Canto=4|SpaceAfter=No|Verso=15
+10	»	»	PUNCT	_	_	4	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

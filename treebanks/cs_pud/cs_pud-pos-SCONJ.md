@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>co</em> (<tt><a href="cs_pud-pos-SCON
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.041667 (the average of all parts of speech is 1.426597).
+The form / lemma ratio of `SCONJ` is 1.041667 (the average of all parts of speech is 1.426331).
 
 The 1st highest number of forms (2) was observed with the lemma “ačkoli”: <em>Ačkoliv, ačkoli</em>.
 
@@ -48,7 +48,7 @@ The 3rd highest number of forms (1) was observed with the lemma “aniž”: <em
 
 `SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="cs_pud-dep-mark.html">mark</a></tt> (401; 89% instances), <tt><a href="cs_pud-dep-case.html">case</a></tt> (35; 8% instances), <tt><a href="cs_pud-dep-fixed.html">fixed</a></tt> (15; 3% instances), <tt><a href="cs_pud-dep-compound.html">compound</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (252; 56% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (82; 18% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (52; 12% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (23; 5% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (19; 4% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (14; 3% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_pud-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (252; 56% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (87; 19% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (52; 12% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (25; 6% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (15; 3% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (11; 2% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_pud-pos-PART.html">PART</a></tt> (1; 0% instances)
 
 451 (100%) `SCONJ` nodes are leaves.
 

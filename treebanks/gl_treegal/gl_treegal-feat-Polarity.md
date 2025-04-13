@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (215; 100% of non-empty `Polarity`): <em>non, nunca, tampouco, Nin, endexamais</em>
-* `EMPTY` (977): <em>máis, como, tamén, xa, así, aínda, agora, cando, moi, só</em>
+* `EMPTY` (976): <em>máis, como, tamén, xa, así, aínda, agora, cando, moi, só</em>
 
 ### `ADP`
 

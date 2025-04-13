@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>жок</em> (<tt><a href="ky_tuecl-po
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.157895 (the average of all parts of speech is 1.451724).
+The form / lemma ratio of `ADJ` is 1.157895 (the average of all parts of speech is 1.466899).
 
 The 1st highest number of forms (2) was observed with the lemma “жакшы”: <em>жакшы, жакшыраак</em>.
 

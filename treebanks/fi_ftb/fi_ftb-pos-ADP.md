@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>kanssa</em> (<tt><a href="fi_ftb-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.204152 (the average of all parts of speech is 2.049043).
+The form / lemma ratio of `ADP` is 1.204152 (the average of all parts of speech is 2.048736).
 
 The 1st highest number of forms (7) was observed with the lemma “kanssa”: <em>kaa, kans, kansa, kanssa, kanssaan, kanssas, kanssasi</em>.
 
@@ -74,19 +74,19 @@ Examples: <em>kanssa, mukaan, jälkeen, ennen, asti, ilman, sitten, takia, kautt
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="fi_ftb-dep-case.html">case</a></tt> (2695; 99% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (12; 0% instances), <tt><a href="fi_ftb-dep-nmod.html">nmod</a></tt> (10; 0% instances), <tt><a href="fi_ftb-dep-dep.html">dep</a></tt> (8; 0% instances), <tt><a href="fi_ftb-dep-det.html">det</a></tt> (5; 0% instances), <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="fi_ftb-dep-case.html">case</a></tt> (2685; 98% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (12; 0% instances), <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (11; 0% instances), <tt><a href="fi_ftb-dep-nmod.html">nmod</a></tt> (10; 0% instances), <tt><a href="fi_ftb-dep-dep.html">dep</a></tt> (8; 0% instances), <tt><a href="fi_ftb-dep-det.html">det</a></tt> (5; 0% instances)
 
-Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1957; 72% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (388; 14% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (228; 8% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (60; 2% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (49; 2% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (25; 1% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1956; 72% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (408; 15% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (228; 8% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (60; 2% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (47; 2% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (18; 1% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances)
 
-2702 (99%) `ADP` nodes are leaves.
+2701 (99%) `ADP` nodes are leaves.
 
-23 (1%) `ADP` nodes have one child.
+24 (1%) `ADP` nodes have one child.
 
 6 (0%) `ADP` nodes have two children.
 
 The highest child degree of a `ADP` node is 2.
 
-Children of `ADP` nodes are attached using 5 different relations: <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (15; 43% instances), <tt><a href="fi_ftb-dep-cc.html">cc</a></tt> (10; 29% instances), <tt><a href="fi_ftb-dep-punct.html">punct</a></tt> (6; 17% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (2; 6% instances), <tt><a href="fi_ftb-dep-nmod.html">nmod</a></tt> (2; 6% instances)
+Children of `ADP` nodes are attached using 6 different relations: <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (15; 42% instances), <tt><a href="fi_ftb-dep-cc.html">cc</a></tt> (10; 28% instances), <tt><a href="fi_ftb-dep-punct.html">punct</a></tt> (6; 17% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (2; 6% instances), <tt><a href="fi_ftb-dep-nmod.html">nmod</a></tt> (2; 6% instances), <tt><a href="fi_ftb-dep-advmod.html">advmod</a></tt> (1; 3% instances)
 
-Children of `ADP` nodes belong to 7 different parts of speech: <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (10; 29% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (8; 23% instances), <tt><a href="fi_ftb-pos-PUNCT.html">PUNCT</a></tt> (6; 17% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (5; 14% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (2; 6% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (1; 3% instances)
+Children of `ADP` nodes belong to 8 different parts of speech: <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (10; 28% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (8; 22% instances), <tt><a href="fi_ftb-pos-PUNCT.html">PUNCT</a></tt> (6; 17% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (5; 14% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (2; 6% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (1; 3% instances)
 

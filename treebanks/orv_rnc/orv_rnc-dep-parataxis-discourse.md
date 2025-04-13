@@ -8,79 +8,91 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-parataxis.html">parataxis</a></tt>.
 
-35 nodes (0%) are attached to their parents as `parataxis:discourse`.
+57 nodes (0%) are attached to their parents as `parataxis:discourse`.
 
-32 instances of `parataxis:discourse` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.62857142857143.
+50 instances of `parataxis:discourse` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.64912280701754.
 
-The following 9 pairs of parts of speech are connected with `parataxis:discourse`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (16; 46% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (5; 14% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (4; 11% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (3; 9% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 6% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
+The following 11 pairs of parts of speech are connected with `parataxis:discourse`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (28; 49% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (6; 11% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (5; 9% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (5; 9% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (3; 5% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 parataxis:discourse	color:blue
-1	Великій	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	wf="Великій"
-2	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	vocative	_	wf="государь"|SpaceAfter=No
-3	,	,	PUNCT	_	_	2	punct	_	wf=","|_
-4	смилуйся	смиловатися	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	0	root	_	wf="смилуйся"|SpaceAfter=No
-5	,	,	PUNCT	_	_	6	punct	_	wf=","|_
-6	пожалуй	пожаловати	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	4	parataxis:discourse	_	wf="пожалуй"|SpaceAfter=No
-7	.	.	PUNCT	_	_	4	punct	_	wf="."|_|_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 parataxis:discourse	color:blue
+1	Царь	царь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	vocative	_	norm="Царь"|Decl=2|End=ь0|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	norm=","
+3	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	norm="государь"|Decl=2|End=ь0|SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	norm=","
+5	смилуйся	смиловатися	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	0	root	_	norm="смилуйся"|Decl=X|End=ясйу|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	norm=","
+7	пожалуй	пожаловати	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	5	parataxis:discourse	_	norm="пожалуй"|Decl=X|End=й|SpaceAfter=No
+8	!	!	PUNCT	_	_	5	punct	_	norm="!"
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 4 parataxis:discourse	color:blue
-1	А	а	CCONJ	_	_	13	cc	_	wf="А"
-2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	wf="я"|SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	wf=","
-4	слава	слава	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	parataxis:discourse	_	wf="слава"
-5	Богу	богъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	wf="Богу"|SpaceAfter=No
-6	,	,	PUNCT	_	_	4	punct	_	wf=","
-7	кроме	кромѣ	ADP	_	_	8	case	_	wf="кроме"
-8	сего	сие	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	9	obl	_	wf="сего"
-9	натсажать	надсажати	VERB	_	VerbForm=Inf|Voice=Act	13	xcomp	_	wf="натсажать"
-10	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	9	obj	_	wf="себя"
-11	інымъ	иной	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Tot	9	iobj	_	wf="інымъ"
-12	не	не	PART	_	Polarity=Neg	13	advmod	_	wf="не"
-13	стану	стати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	wf="стану"
-14	і	и	CCONJ	_	_	15	cc	_	wf="і"
-15	поеду	поѣхати	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	13	conj	_	wf="поеду"
-16	по	по	ADP	_	_	17	case	_	wf="по"
-17	мѣре	мѣра	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	15	obl	_	wf="мѣре"
-18	не	не	PART	_	Polarity=Neg	19	advmod	_	wf="не"
-19	замешкаѳъ	замѣшкати	VERB	_	Tense=Past|VerbForm=Conv|Voice=Act	15	advcl	_	wf="замешкаѳъ"|SpaceAfter=No
-20	;	;	PUNCT	_	_	26	punct	_	wf=";"
-21	а	а	CCONJ	_	_	26	cc	_	wf="а"
-22	Анъдурския	андурский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	23	amod	_	wf="Анъдурския"
-23	карабли	корабль	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	26	nsubj	_	wf="карабли"
-24	еше	еще	ADV	_	Degree=Pos	26	advmod	_	wf="еше"
-25	не	не	PART	_	Polarity=Neg	26	advmod	_	wf="не"
-26	бывали	бывати	VERB	_	Aspect=Imp|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	15	conj	_	wf="бывали"|SpaceAfter=No
-27	.	.	PUNCT	_	_	13	punct	_	wf="."
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 19 17 parataxis:discourse	color:blue
+1	А	а	CCONJ	_	_	13	cc	_	norm="А"
+2	словенску	словенский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	amod	_	norm="словенску"|Decl=X|End=у
+3	же	же	PART	_	_	2	advmod	_	norm="же"
+4	языку	языкъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	9	nsubj	_	norm="языку"|Decl=2|End=у|SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	norm=","
+6	якоже	якоже	SCONJ	_	_	7	mark	_	norm="якоже"
+7	рекох	рещи	VERB	Tense=Aor	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	9	parataxis:discourse	_	norm="рекох"|Decl=X|End=хо|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	norm=","
+9	живущу	жити	VERB	_	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	13	advcl	_	norm="живущу"|Decl=X|End=ущу
+10	на	на	ADP	_	_	11	case	_	norm="на"|check=@
+11	Дунаи	Дунай	PROPN	_	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	9	obl	_	norm="Дунаи"|Decl=2|End=и|check=@
+12	и	и	CCONJ	_	_	13	cc	_	norm="и"
+13	приидошя	приити	VERB	Tense=Aor	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	norm="приидошя"|Decl=X|End=яшо
+14	от	отъ	ADP	_	_	15	case	_	norm="от"|check=@
+15	скифъ	скифъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	13	obl	_	norm="скифъ"|Decl=1a|End=ъ0|SpaceAfter=No|check=@
+16	,	,	PUNCT	_	_	19	punct	_	norm=","
+17	рекше	рещи	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	19	parataxis:discourse	_	norm="рекше"|Decl=X|End=еш
+18	от	отъ	ADP	_	_	19	case	_	norm="от"|check=@
+19	козаръ	хазары	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	15	conj	_	norm="козаръ"|Decl=2|End=ъ0|SpaceAfter=No|check=@
+20	,	,	PUNCT	_	_	21	punct	_	norm=","
+21	рекомии	рещи	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	19	acl	_	norm="рекомии"|Decl=X|End=иимо|check=@
+22	болгаре	болгаринъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	21	xcomp	_	norm="болгаре"|Decl=2in|End=е|SpaceAfter=No|check=@
+23	,	,	PUNCT	_	_	25	punct	_	norm=","
+24	и	и	CCONJ	_	_	25	cc	_	norm="и"
+25	сѣдошя	сѣсти	VERB	Tense=Aor	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	norm="сѣдошя"|Decl=X|End=яшо
+26	по	по	ADP	_	_	27	case	_	norm="по"|check=@
+27	Дунаеви	Дунай	PROPN	_	Case=Dat|Gender=Masc|NameType=Geo|Number=Sing	25	obl	_	norm="Дунаеви"|Decl=2u|End=иве|SpaceAfter=No|check=@
+28	,	,	PUNCT	_	_	31	punct	_	norm=","
+29	и	и	CCONJ	_	_	31	cc	_	norm="и"
+30	бышя	быти	AUX	Tense=Aor	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	31	cop	_	norm="бышя"|Decl=X|End=яш
+31	населници	насельникъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	25	conj	_	norm="населници"|Decl=2|End=и
+32	словеномь	словенинъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	31	nmod	_	norm="словеномь"|Decl=2in|End=ьмо|SpaceAfter=No
+33	.	.	PUNCT	_	_	13	punct	_	norm="."
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 parataxis:discourse	color:blue
-1	Слава	слава	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	parataxis:discourse	_	wf="Слава"
-2	Богу	богъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	wf="Богу"|SpaceAfter=No
-3	,	,	PUNCT	_	_	1	punct	_	wf=","
-4	живъ	живой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	wf="живъ"|SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	wf="."
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 8 parataxis:discourse	color:blue
+1	а	а	CCONJ	_	_	10	cc	_	norm="а"
+2	в	въ	ADP	_	_	3	case	_	norm="в"|check=@
+3	дрвнѣ	деревня	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	10	obl	_	norm="дрвнѣ"|Decl=1a|End=ѣ|check=@
+4	вшеи	вашъ	DET	_	Abbr=Yes|Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	norm="вшеи"|Decl=3|End=ие|check=@
+5	по	по	ADP	_	_	7	case	_	norm="по"
+6	се	сей	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	det	_	norm="се"
+7	число	число	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obl:tmod	_	norm="число"|Decl=2|End=о
+8	далъ	дати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	10	parataxis:discourse	_	norm="далъ"|Decl=X|End=ъл
+9	бгъ	богъ	NOUN	_	Abbr=Yes|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	norm="бгъ"|Decl=2|End=ъ0
+10	ѕдорово	здоровый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	norm="ѕдорово"|Decl=X|End=о
 
 ~~~
 

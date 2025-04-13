@@ -26,10 +26,10 @@ The following 6 pairs of parts of speech are connected with `vocative`: <tt><a h
 2	Bhí	bí	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
 4	a	a	PART	_	PartType=Voc	5	case:voc	_	_
-5	dhaltha	dalta	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	2	vocative	_	SpaceAfter=No
+5	dhaltha	dalta	NOUN	_	Case=Voc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	vocative	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	ach	ach	CCONJ	_	_	8	cc	_	_
-8	cad	is	PRON	_	PronType=Int	2	conj	_	_
+8	cad	cad	PRON	_	PronType=Int	2	conj	_	_
 9	a	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	10	mark:prt	_	_
 10	bhí	bí	VERB	_	Form=Len|Mood=Ind|Tense=Past	8	acl:relcl	_	_
 11	aici	ag	ADP	_	Gender=Fem|Number=Sing|Person=3	10	xcomp:pred	_	_
@@ -93,7 +93,7 @@ The following 6 pairs of parts of speech are connected with `vocative`: <tt><a h
 10	hé	é	PRON	_	Form=HPref|Gender=Masc|Number=Sing|Person=3	9	nsubj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
 12	a	a	PART	_	PartType=Voc	13	case:voc	_	_
-13	thighearna	tiarna	NOUN	_	Case=Voc|Form=Len|Gender=Masc|Number=Sing	9	vocative	_	SpaceAfter=No
+13	thighearna	tiarna	NOUN	_	Case=Voc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	9	vocative	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	_	_
 15	dochum	chun	ADP	_	_	17	case	_	_
 16	gu	go	PART	_	PartType=Cmpl	17	mark:prt	_	_

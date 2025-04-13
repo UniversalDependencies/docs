@@ -31,7 +31,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 513 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (513; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (504; 98%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (488; 95%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (466; 91%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (414; 81%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (283; 55%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="cs_cltt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (513; 100%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (513; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (488; 95%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (488; 95%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (466; 91%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (414; 81%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (283; 55%).
 
 `AUX` tokens may have the following values of `Mood`:
 
@@ -47,7 +47,6 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>nejsou</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>budou</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>jsou</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>by</em></td></tr>
   <tr><td><tt></tt></td><td></td><td><em>by</em></td></tr>
 </table>
 

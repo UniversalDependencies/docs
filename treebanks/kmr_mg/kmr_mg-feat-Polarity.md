@@ -21,7 +21,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="kmr_mg-pos-ADV.html
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (45; 100% of non-empty `Polarity`): <em>ne</em>
-* `EMPTY` (204): <em>gelek, herî, niho, tenê, berê, pêk, îro, her, hêj, piştre</em>
+* `EMPTY` (203): <em>gelek, herî, niho, tenê, berê, îro, her, hêj, piştre, pêk</em>
 
 ### `VERB`
 

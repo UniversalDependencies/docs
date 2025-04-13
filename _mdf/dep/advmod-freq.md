@@ -16,4 +16,4 @@ obl:lmod(шарсь-5, прясон-4)
 advcl:tcl(шарсь-5, мадомста-6)
 ~~~
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:39 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:22 CET -->

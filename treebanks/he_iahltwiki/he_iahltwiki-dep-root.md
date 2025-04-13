@@ -11,7 +11,7 @@ This relation is universal.
 5039 nodes (4%) are attached to their parents as `root`.
 
 5039 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.94959317324866.
+Average distance between parent and child is 6.94979162532248.
 
 The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (3860; 77% instances), -<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (801; 16% instances), -<tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (228; 5% instances), -<tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (93; 2% instances), -<tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (16; 0% instances), -<tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (13; 0% instances), -<tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (12; 0% instances), -<tt><a href="he_iahltwiki-pos-X.html">X</a></tt> (10; 0% instances), -<tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> (3; 0% instances), -<tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> (3; 0% instances).
 
@@ -72,7 +72,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 4	מגדיל	מגדיל	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	1	nmod	_	_
 5	נפח	נפח	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	4	compound	_	_
 6	דם	דם	NOUN	NOUN	Gender=Masc|Number=Sing	5	compound	_	_
-7	לא	לא	ADV	ADV	_	8	advmod	_	_
+7	לא	לא	ADV	ADV	Polarity=Neg	8	advmod	_	_
 8	מומלץ	מומלץ	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	8	punct	_	_
 

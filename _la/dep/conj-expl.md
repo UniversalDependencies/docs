@@ -11,9 +11,9 @@ Even if, traditionally, explicative conjuncts are sometimes described as "apposi
 
 Any phrase can be the explicative conjunct of any other phrase, but it will show an alignment in its syntactic encoding towards the latter, e.g. a clausal explicative conjunct of a noun phrase will be usually introduced by a complementiser. The explicative conjunct, as any regular conjunct (or apposition), will recover the case of the expanded phrase, as far as this is applicable. The explicative conjunct may be elliptical.
 
-Often, but not always, an explicative conjunct is introduced by a conjunctional element, which is coherently labeled as [`CCONJ`](la-pos/CCONJ) and bears the feature [`ConjType=Expl`](la-feat/ConjType), in parallel to this subrelation. In Late and Medieval Latin, the grammaticalised verbal phrases *scilicet* 'you may know' and *id est* 'that is' (sometimes [univerbated](la-feat/Compound)) are amongst the most common ones. The relation might also be pointed to by dedicated punctuation marks.
+Often, but not always, an explicative conjunct is introduced by a conjunctional element, which is currently labeled as [`CCONJ`](la-pos/CCONJ), even if this is now under scrutiny (an [`ADV`](la-pos/ADV)/[`PART`](la-pos/PART) tag might be favoured, also to avoid a form of contextual annotation). In Late and Medieval Latin, the grammaticalised verbal phrases *scilicet* 'you may know' and *id est* 'that is' (sometimes [univerbated](la-feat/Compound)) are amongst the most common explicative connecting elements. The relation might also be pointed to by dedicated punctuation marks.
 
-Sometimes, explicative conjuncts look similar to [dislocated](u-dep/dislocated) elements. However, they differ in that 
+Explicative conjuncts do look similar to [dislocated](u-dep/dislocated) elements. Possible differences are: 
 
 1. dislocations are lexically asymmetric: most of the times the dislocated element is a heavy and lexically full unit, while the dislocating element tends to be a functional word like a [pronoun](la-pos/PRON) or a [determiner](la-pos/DET); 
 1. logically, explicative conjuncts always come after the expanded element, while dislocated elements do not have this constraint: they are pushed at the margins of the sentence, be it before or after the dislocating element.
@@ -68,4 +68,4 @@ orphan(of-king-68,that)
 
 'But there is nothing the monarch could covet, for his jurisdiction is bounded only by the ocean; whereas this is not the case with other rulers, whose sovereignty extends only as far as the neighbouring kingdom, as is the case, for instance, with the kings of Castille and of Aragon. ' (*De Monarchia*, UDante)
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:59 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:41 CET -->

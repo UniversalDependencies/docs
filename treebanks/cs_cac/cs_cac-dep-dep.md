@@ -25,11 +25,11 @@ The following 110 pairs of parts of speech are connected with `dep`: <tt><a href
 1	Rychle	rychle	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	2	advmod	2:advmod	LDeriv=rychlý
 2	mizí	mizet	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	pod	pod	ADP	RR--7----------	AdpType=Prep|Case=Ins	4	case	4:case	LId=pod-1
-4	účinkem	účinek	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	2	obl	2:obl:pod:ins	_
+4	účinkem	účinek	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	obl	2:obl:pod:ins	_
 5	elektrické	elektrický	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	6	amod	6:amod	_
-6	jehly	jehla	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	4	nmod	4:nmod:gen	SpaceAfter=No
+6	jehly	jehla	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	4	nmod	4:nmod:gen	SpaceAfter=No
 7	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
-8	diatermokoagulace	diatermokoagulace	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	6	dep	6:dep	SpaceAfter=No
+8	diatermokoagulace	diatermokoagulace	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	6	dep	6:dep	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	2	punct	2:punct	_
 
 ~~~
@@ -47,7 +47,7 @@ The following 110 pairs of parts of speech are connected with `dep`: <tt><a href
 4	nebo	nebo	CCONJ	J^-------------	_	7	cc	7:cc	_
 5	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	7	case	7:case	LId=v-1
 6	vlažné	vlažný	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	7	amod	7:amod	_
-7	vodě	voda	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	3	conj	1:dep|3:conj	SpaceAfter=No
+7	vodě	voda	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing	3	conj	1:dep|3:conj	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
@@ -63,7 +63,7 @@ The following 110 pairs of parts of speech are connected with `dep`: <tt><a href
 2	šlo	jít	VERB	VpNS---XR-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 3	jako	jako	SCONJ	J,-------------	_	5	mark	5:mark	_
 4	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	5:case	LId=na-1
-5	drátku	drátek	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	2	dep	2:dep	SpaceAfter=No
+5	drátku	drátek	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	dep	2:dep	SpaceAfter=No
 6	.	.	PUNCT	Z:-------------	_	2	punct	2:punct	_
 
 ~~~

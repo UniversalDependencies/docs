@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-6230 tokens (17%) have a non-empty value of `Degree`.
-1451 types (32%) occur at least once with a non-empty value of `Degree`.
-650 lemmas (24%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (5954; 17% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (276; 1% instances).
+6589 tokens (18%) have a non-empty value of `Degree`.
+1601 types (35%) occur at least once with a non-empty value of `Degree`.
+690 lemmas (25%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 2 part-of-speech tags: <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6313; 18% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (276; 1% instances).
 
 ### `ADJ`
 
-5954 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Degree`.
+6313 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5825; 98%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3789; 64%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3577; 60%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6183; 98%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3908; 62%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3776; 60%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (54; 1% of non-empty `Degree`): <em>delší, vyšší, kratší, nižší, pozdějších, podrobnější, menší, nižším, bližší, bližších</em>
-* `Pos` (5894; 99% of non-empty `Degree`): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, právní, výroční, ostatní, reálnou</em>
+* `Pos` (6253; 99% of non-empty `Degree`): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, povinny, právní, výroční, ostatní</em>
 * `Sup` (6; 0% of non-empty `Degree`): <em>nejvyšší, nejvyšším, nejvyššího</em>
-* `EMPTY` (689): <em>konsolidující, povinny, povinna, zanikající, stanoveno, následujícího, související, předcházejícímu, týkající, prvním</em>
+* `EMPTY` (330): <em>konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, prvním, přejímající, prvnímu, předcházející</em>
 
 <table>
   <tr><th>Paradigm <i>vysoký</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -41,7 +41,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>vyšší</em></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (567) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (607) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -66,9 +66,13 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (175; 90%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (197; 93%),
 <tt>ADV --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADV</tt> (14; 100%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (13; 87%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> ADJ</tt> (4; 100%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3; 60%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> ADV</tt> (2; 100%),
-<tt>ADJ --[<tt><a href="cs_cltt-dep-dep.html">dep</a></tt>]--> ADJ</tt> (2; 100%).
+<tt>ADJ --[<tt><a href="cs_cltt-dep-dep.html">dep</a></tt>]--> ADJ</tt> (2; 100%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> ADJ</tt> (2; 100%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-obl-arg.html">obl:arg</a></tt>]--> ADJ</tt> (1; 100%).
 

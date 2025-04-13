@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 3	Rai	Rai	PROPN	NNP	Gender=Fem|Number=Sing	1	nmod	_	_
 4	han	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 5	estado	estar	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	aux	_	_
-6	reuniéndo	reunir	VERB	VBG	VerbForm=Ger	0	root	_	_
+6	reuniendo	reunir	VERB	VBG	VerbForm=Ger	0	root	_	_
 7	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	compound:prt	_	_
 8	con	con	ADP	IN	_	9	case	_	_
 9	consejeros	consejero	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	_
@@ -41,7 +41,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 16	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	17	det	_	_
 17	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	18	nsubj	_	_
 18	pasó	pasar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	xcomp	_	SpaceAfter=No
-19	,	,	PUNCT	,	_	22	punct	_	_
+19	,	,	PUNCT	,	PunctType=Comm	22	punct	_	_
 20	pero	pero	CCONJ	CC	_	22	cc	_	_
 21	esta	este	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	22	nsubj	_	_
 22	dice	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
@@ -55,7 +55,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 30	a	a	ADP	IN	_	32	case	_	_
 31	sus	su	PRON	DTP$	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	32	det	_	_
 32	amigos	amigo	NOUN	NN	Gender=Masc|Number=Plur	29	obl	_	SpaceAfter=No
-33	.	.	PUNCT	.	_	6	punct	_	_
+33	.	.	PUNCT	.	PunctType=Peri	6	punct	_	_
 
 ~~~
 

@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 22	fgColor:white
 # visual-style 22 19 orphan	color:blue
 1	Desde	desde	ADP	sps00	_	2	case	2:case	_
-2	1974	1974	NOUN	_	AdvType=Tim	5	obl	5:obl	SpaceAfter=No|ArgTem=argM:tmp|Entity=(CESSCASTAA200010075560c22-time-1-CorefType:ident,gstype:spec)
+2	1974	1974	NOUN	_	_	5	obl	5:obl	SpaceAfter=No|ArgTem=argM:tmp|Entity=(CESSCASTAA200010075560c22-time-1-CorefType:ident,gstype:spec)
 3	,	,	PUNCT	fc	PunctType=Comm	2	punct	2:punct	_
 4	Kostunica	Kostunica	PROPN	np00000	_	5	nsubj	5:nsubj	ArgTem=arg0:agt|Entity=(CESSCASTAA200010075560c1-person-1-CorefType:ident,gstype:spec)
 5	trabajó	trabajar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -40,7 +40,7 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 16	a	a	ADP	sps00	_	19	case	19:case	MWE=a_partir_de|MWEPOS=ADP
 17	partir	partir	NOUN	_	_	16	fixed	16:fixed	_
 18	de	de	ADP	_	_	16	fixed	16:fixed	_
-19	1981	1981	NOUN	_	AdvType=Tim	22	orphan	20.1:obl	SpaceAfter=No|Entity=(NOCOREF:Spec.date-time-1-gstype:spec)
+19	1981	1981	NOUN	_	_	22	orphan	20.1:obl	SpaceAfter=No|Entity=(NOCOREF:Spec.date-time-1-gstype:spec)
 20	,	,	PUNCT	fc	PunctType=Comm	19	punct	19:punct	_
 21	en	en	ADP	sps00	_	22	case	22:case	_
 22	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	conj	20.1:obl	Entity=(CESSCASTAA200010075560c29--1-gstype:gen

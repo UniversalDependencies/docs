@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 1	Кӧсъян	кӧсйыны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	12	advcl	_	GTtags=TV,Ind,Prs,Sg2
 2	кӧ	кӧ	SCONJ	CS	_	1	mark	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	6	punct	_	_
-4	оз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	6	aux:neg	_	GTtags=Neg,Ind,Prs,Sg3
+4	оз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	6	aux	_	GTtags=Neg,Ind,Prs,Sg3
 5	кӧ	кӧ	SCONJ	CS	_	6	mark	_	_
 6	ло	лоны	VERB	V	Connegative=Yes	1	conj	_	GTtags=IV,ConNeg
 7	дыш	дыш	ADJ	A	Case=Nom|Number=Sing	6	xcomp	_	GTtags=Sg,Nom

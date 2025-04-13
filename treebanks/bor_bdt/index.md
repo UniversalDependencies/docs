@@ -16,11 +16,11 @@ Family: Bororoan
 
 This treebank has been part of Universal Dependencies since the UD v2.12 release.
 
-The following people have contributed to making this treebank part of UD: Fabrício Ferraz Gerardi, Carolina Aragon.
+The following people have contributed to making this treebank part of UD: Fabrício Ferraz Gerardi.
 
 Repository: [UD_Bororo-BDT](https://github.com/UniversalDependencies/UD_Bororo-BDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbor_bdt214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbor_bdt215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -958,17 +958,11 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
         <ul>
           <li>ADP: koiaie</li>
           <li>ADV: dytaboie, koiaie</li>
-          <li>NOUN: boejie, boie, jureie, jurekaie, tugodyie</li>
+          <li>NOUN: boejie, boie, jureie, jurekaie, tugodyie, tuoiagu</li>
           <li>PART: kaegae</li>
-          <li>SCONJ: dykodyie, kodie</li>
-          <li>VERB: koduie, arerumodyie, tawimodyie, tumaragodymodyie</li>
-        </ul>
-      </li>
-      <li>IndOpt
-        <ul>
-          <li>NOUN: tuoiagu</li>
           <li>PRON: aiagu</li>
-          <li>VERB: enogwageiagu</li>
+          <li>SCONJ: dykodyie, kodie</li>
+          <li>VERB: koduie, arerumodyie, enogwageiagu, tawimodyie, tumaragodymodyie</li>
         </ul>
       </li>
     </ul>

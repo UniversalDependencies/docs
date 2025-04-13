@@ -23,5 +23,5 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Perf` (1; 100% of non-empty `Aspect`): <em>piegādāta</em>
-* `EMPTY` (31): <em>uzrakstīja, Nevarēja, apgriezt, apskāvās, atmest, atnākt, atstāja, atver, centās, domā</em>
+* `EMPTY` (30): <em>uzrakstīja, Nevarēja, apgriezt, apskāvās, atmest, atnākt, atstāja, atver, centās, domā</em>
 

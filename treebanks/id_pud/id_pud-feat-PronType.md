@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Prs`, `Rel`, `Tot`.
 
-2134 tokens (11%) have a non-empty value of `PronType`.
-81 types (2%) occur at least once with a non-empty value of `PronType`.
+2133 tokens (11%) have a non-empty value of `PronType`.
+80 types (2%) occur at least once with a non-empty value of `PronType`.
 49 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (1329; 7% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt> (741; 4% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (64; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (1330; 7% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt> (739; 4% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (64; 0% instances).
 
 ### `PRON`
 
-1329 <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+1330 <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="id_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (709; 53%), <tt><a href="id_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (709; 53%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="id_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (710; 53%), <tt><a href="id_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (710; 53%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Ind` (8; 1% of non-empty `PronType`): <em>seseorang, sesuatu</em>
 * `Int` (4; 0% of non-empty `PronType`): <em>siapa, mana</em>
 * `Prs` (635; 48% of non-empty `PronType`): <em>nya, ia, mereka, saya, kami, dia, kita, diri, Anda, Aku</em>
-* `Rel` (551; 41% of non-empty `PronType`): <em>yang, apa, siapa</em>
+* `Rel` (552; 42% of non-empty `PronType`): <em>yang, apa, siapa</em>
 * `Tot` (4; 0% of non-empty `PronType`): <em>semua</em>
 
 <table>
@@ -38,16 +38,16 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-741 <tt><a href="id_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+739 <tt><a href="id_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="id_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (632; 85%), <tt><a href="id_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (544; 73%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="id_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (630; 85%), <tt><a href="id_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (543; 73%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (197; 27% of non-empty `PronType`): <em>nya, sebuah, seorang, yang, suatu</em>
+* `Art` (196; 27% of non-empty `PronType`): <em>nya, sebuah, seorang, yang, suatu</em>
 * `Dem` (358; 48% of non-empty `PronType`): <em>ini, itu, tersebut, sang, si</em>
 * `Emp` (17; 2% of non-empty `PronType`): <em>sendiri</em>
-* `Ind` (118; 16% of non-empty `PronType`): <em>para, banyak, beberapa, berbagai, sebagian, kebanyakan, sejenis, serangkaian, sepasang</em>
+* `Ind` (117; 16% of non-empty `PronType`): <em>para, banyak, beberapa, berbagai, Sebagian, kebanyakan, sejenis, serangkaian, sepasang</em>
 * `Tot` (51; 7% of non-empty `PronType`): <em>semua, seluruh, setiap, masing-masing, segala</em>
 
 `PronType` seems to be **lexical feature** of `DET`. 100% lemmas (24) occur only with one value of `PronType`.

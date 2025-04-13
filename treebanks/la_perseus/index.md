@@ -12,15 +12,15 @@ udver: '2'
 # UD Latin Perseus
 
 Language: [Latin](/la/index.html) (code: `la`)<br/>
-Family: Indo-European, Italic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
 The following people have contributed to making this treebank part of UD: Giuseppe G. A. Celano, Daniel Zeman, Federica Gamba.
 
 Repository: [UD_Latin-Perseus](https://github.com/UniversalDependencies/UD_Latin-Perseus)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_perseus214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_perseus215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 2.5
 
@@ -113,11 +113,11 @@ Further details can be found at:
 
 ## Features
 
-[AdpType](la_perseus-feat-AdpType.html) – [AdvType](la_perseus-feat-AdvType.html) – [Aspect](la_perseus-feat-Aspect.html) – [Case](la_perseus-feat-Case.html) – [Compound](la_perseus-feat-Compound.html) – [Degree](la_perseus-feat-Degree.html) – [Gender](la_perseus-feat-Gender.html) – [Mood](la_perseus-feat-Mood.html) – [Number](la_perseus-feat-Number.html) – [Number[psor]](la_perseus-feat-Number-psor.html) – [NumForm](la_perseus-feat-NumForm.html) – [NumType](la_perseus-feat-NumType.html) – [PartType](la_perseus-feat-PartType.html) – [Person](la_perseus-feat-Person.html) – [Person[psor]](la_perseus-feat-Person-psor.html) – [Polarity](la_perseus-feat-Polarity.html) – [Poss](la_perseus-feat-Poss.html) – [PronType](la_perseus-feat-PronType.html) – [Reflex](la_perseus-feat-Reflex.html) – [Tense](la_perseus-feat-Tense.html) – [Typo](la_perseus-feat-Typo.html) – [VerbForm](la_perseus-feat-VerbForm.html) – [Voice](la_perseus-feat-Voice.html)
+[AdpType](la_perseus-feat-AdpType.html) – [AdvType](la_perseus-feat-AdvType.html) – [Aspect](la_perseus-feat-Aspect.html) – [Case](la_perseus-feat-Case.html) – [Compound](la_perseus-feat-Compound.html) – [Degree](la_perseus-feat-Degree.html) – [Form](la_perseus-feat-Form.html) – [Gender](la_perseus-feat-Gender.html) – [Mood](la_perseus-feat-Mood.html) – [Number](la_perseus-feat-Number.html) – [Number[psor]](la_perseus-feat-Number-psor.html) – [NumForm](la_perseus-feat-NumForm.html) – [NumType](la_perseus-feat-NumType.html) – [PartType](la_perseus-feat-PartType.html) – [Person](la_perseus-feat-Person.html) – [Person[psor]](la_perseus-feat-Person-psor.html) – [Polarity](la_perseus-feat-Polarity.html) – [Poss](la_perseus-feat-Poss.html) – [PronType](la_perseus-feat-PronType.html) – [Reflex](la_perseus-feat-Reflex.html) – [Tense](la_perseus-feat-Tense.html) – [Typo](la_perseus-feat-Typo.html) – [VerbForm](la_perseus-feat-VerbForm.html) – [Voice](la_perseus-feat-Voice.html)
 
 ## Relations
 
-[acl](la_perseus-dep-acl.html) – [acl:relcl](la_perseus-dep-acl-relcl.html) – [advcl](la_perseus-dep-advcl.html) – [advcl:abs](la_perseus-dep-advcl-abs.html) – [advcl:cmp](la_perseus-dep-advcl-cmp.html) – [advcl:pred](la_perseus-dep-advcl-pred.html) – [advmod](la_perseus-dep-advmod.html) – [advmod:emph](la_perseus-dep-advmod-emph.html) – [advmod:lmod](la_perseus-dep-advmod-lmod.html) – [advmod:neg](la_perseus-dep-advmod-neg.html) – [advmod:tmod](la_perseus-dep-advmod-tmod.html) – [amod](la_perseus-dep-amod.html) – [appos](la_perseus-dep-appos.html) – [aux](la_perseus-dep-aux.html) – [aux:pass](la_perseus-dep-aux-pass.html) – [case](la_perseus-dep-case.html) – [cc](la_perseus-dep-cc.html) – [ccomp](la_perseus-dep-ccomp.html) – [ccomp:reported](la_perseus-dep-ccomp-reported.html) – [conj](la_perseus-dep-conj.html) – [conj:expl](la_perseus-dep-conj-expl.html) – [cop](la_perseus-dep-cop.html) – [csubj](la_perseus-dep-csubj.html) – [csubj:pass](la_perseus-dep-csubj-pass.html) – [det](la_perseus-dep-det.html) – [discourse](la_perseus-dep-discourse.html) – [flat](la_perseus-dep-flat.html) – [flat:name](la_perseus-dep-flat-name.html) – [mark](la_perseus-dep-mark.html) – [nmod](la_perseus-dep-nmod.html) – [nsubj](la_perseus-dep-nsubj.html) – [nsubj:outer](la_perseus-dep-nsubj-outer.html) – [nsubj:pass](la_perseus-dep-nsubj-pass.html) – [nummod](la_perseus-dep-nummod.html) – [obj](la_perseus-dep-obj.html) – [obl](la_perseus-dep-obl.html) – [obl:arg](la_perseus-dep-obl-arg.html) – [orphan](la_perseus-dep-orphan.html) – [parataxis](la_perseus-dep-parataxis.html) – [punct](la_perseus-dep-punct.html) – [root](la_perseus-dep-root.html) – [vocative](la_perseus-dep-vocative.html) – [xcomp](la_perseus-dep-xcomp.html)
+[acl](la_perseus-dep-acl.html) – [acl:relcl](la_perseus-dep-acl-relcl.html) – [advcl](la_perseus-dep-advcl.html) – [advcl:abs](la_perseus-dep-advcl-abs.html) – [advcl:cmp](la_perseus-dep-advcl-cmp.html) – [advcl:pred](la_perseus-dep-advcl-pred.html) – [advmod](la_perseus-dep-advmod.html) – [advmod:emph](la_perseus-dep-advmod-emph.html) – [advmod:lmod](la_perseus-dep-advmod-lmod.html) – [advmod:neg](la_perseus-dep-advmod-neg.html) – [advmod:tmod](la_perseus-dep-advmod-tmod.html) – [amod](la_perseus-dep-amod.html) – [appos](la_perseus-dep-appos.html) – [aux](la_perseus-dep-aux.html) – [aux:pass](la_perseus-dep-aux-pass.html) – [case](la_perseus-dep-case.html) – [cc](la_perseus-dep-cc.html) – [ccomp](la_perseus-dep-ccomp.html) – [ccomp:reported](la_perseus-dep-ccomp-reported.html) – [conj](la_perseus-dep-conj.html) – [conj:expl](la_perseus-dep-conj-expl.html) – [cop](la_perseus-dep-cop.html) – [csubj](la_perseus-dep-csubj.html) – [csubj:pass](la_perseus-dep-csubj-pass.html) – [det](la_perseus-dep-det.html) – [det:numgov](la_perseus-dep-det-numgov.html) – [discourse](la_perseus-dep-discourse.html) – [flat](la_perseus-dep-flat.html) – [flat:name](la_perseus-dep-flat-name.html) – [flat:redup](la_perseus-dep-flat-redup.html) – [mark](la_perseus-dep-mark.html) – [nmod](la_perseus-dep-nmod.html) – [nsubj](la_perseus-dep-nsubj.html) – [nsubj:outer](la_perseus-dep-nsubj-outer.html) – [nsubj:pass](la_perseus-dep-nsubj-pass.html) – [nummod](la_perseus-dep-nummod.html) – [obj](la_perseus-dep-obj.html) – [obl](la_perseus-dep-obl.html) – [obl:arg](la_perseus-dep-obl-arg.html) – [orphan](la_perseus-dep-orphan.html) – [parataxis](la_perseus-dep-parataxis.html) – [punct](la_perseus-dep-punct.html) – [root](la_perseus-dep-root.html) – [vocative](la_perseus-dep-vocative.html) – [xcomp](la_perseus-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -153,7 +153,7 @@ Further details can be found at:
 </ul>
 
 <ul>
-<li>This corpus contains 17 word types tagged as particles (PART): an, autem, ecce, enim, enimvero, equidem, haud, igitur, itaque, nam, namque, ne, nempe, non, num, o, quidem</li>
+<li>This corpus contains 18 word types tagged as particles (PART): an, autem, ecce, enim, enimvero, equidem, haud, igitur, itaque, nam, namque, ne, nempe, non, num, o, quidem, quoque</li>
 </ul>
 
 <ul>
@@ -832,6 +832,18 @@ Further details can be found at:
 </ul>
 
 <ul>
+  <li><a>Form</a>
+    <ul>
+      <li>Emp
+        <ul>
+          <li>PART: quoque</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>NumForm</a>
     <ul>
       <li>Roman
@@ -939,9 +951,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN-Abl (69)</li>
-      <li>VERB-Fin--NOUN-Acc (1134)</li>
-      <li>VERB-Fin--NOUN-Gen (6)</li>
-      <li>VERB-Fin--NOUN-Nom (11)</li>
+      <li>VERB-Fin--NOUN-Acc (1133)</li>
+      <li>VERB-Fin--NOUN-Gen (7)</li>
+      <li>VERB-Fin--NOUN-Nom (10)</li>
       <li>VERB-Fin--PRON (9)</li>
       <li>VERB-Fin--PRON-Acc (346)</li>
       <li>VERB-Fin--PRON-Gen (1)</li>
@@ -983,6 +995,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
+<li>This corpus uses 18 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>flat:name</a>, <a>flat:redup</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
 <li>The following 10 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

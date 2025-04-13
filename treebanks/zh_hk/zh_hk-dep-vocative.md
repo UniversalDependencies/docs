@@ -26,7 +26,7 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 2	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 3	我	我	PRON	_	_	5	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 4	可以	可以	AUX	_	_	5	aux	_	SpaceAfter=No|Translit=kěyǐ|LTranslit=kěyǐ
-5	去	去	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qù|LTranslit=qù
+5	去	去	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qù|LTranslit=qù|Cxn=Interrogative-Polar-Direct|CxnElt=5:Interrogative-Polar-Direct.Clause
 6	看	看	VERB	_	_	5	conj	_	SpaceAfter=No|Translit=kàn|LTranslit=kàn
 7	新	新	ADJ	_	_	10	amod	_	SpaceAfter=No|Translit=xīn|LTranslit=xīn
 8	一	一	NUM	_	_	10	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī

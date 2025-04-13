@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `vocative`.
+2 nodes (0%) are attached to their parents as `vocative`.
 
-1 instances of `vocative` (100%) are right-to-left (child precedes parent).
+2 instances of `vocative` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.
 
-The following 1 pairs of parts of speech are connected with `vocative`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `vocative`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (2; 100% instances).
 
 
 ~~~ conllu

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Swedish-Talbanken: POS Tags: `PART`
 
 There are 4 `PART` lemmas (0%), 4 `PART` types (0%) and 1874 `PART` tokens (2%).
-Out of 16 observed tags, the rank of `PART` is: 15 in number of lemmas, 15 in number of types and 12 in number of tokens.
+Out of 17 observed tags, the rank of `PART` is: 15 in number of lemmas, 15 in number of types and 12 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>att, inte, ej, icke</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>att</em> (<tt><a href="sv_talbanken-p
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.431722).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.430604).
 
 The 1st highest number of forms (1) was observed with the lemma “att”: <em>att</em>.
 
@@ -43,19 +43,19 @@ Examples: <em>att, inte, Icke</em>
 
 ## Relations
 
-`PART` nodes are attached to their parents using 4 different relations: <tt><a href="sv_talbanken-dep-mark.html">mark</a></tt> (1120; 60% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (744; 40% instances), <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (9; 0% instances), <tt><a href="sv_talbanken-dep-conj.html">conj</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 5 different relations: <tt><a href="sv_talbanken-dep-mark.html">mark</a></tt> (1124; 60% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (744; 40% instances), <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="sv_talbanken-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 10 different parts of speech: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1623; 87% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (103; 5% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (97; 5% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (22; 1% instances), <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> (12; 1% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 10 different parts of speech: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1627; 87% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (103; 5% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (98; 5% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (22; 1% instances), <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> (11; 1% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
-1869 (100%) `PART` nodes are leaves.
+1868 (100%) `PART` nodes are leaves.
 
-4 (0%) `PART` nodes have one child.
+5 (0%) `PART` nodes have one child.
 
 1 (0%) `PART` nodes have two children.
 
 The highest child degree of a `PART` node is 2.
 
-Children of `PART` nodes are attached using 3 different relations: <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (4; 67% instances), <tt><a href="sv_talbanken-dep-cc.html">cc</a></tt> (1; 17% instances), <tt><a href="sv_talbanken-dep-conj.html">conj</a></tt> (1; 17% instances)
+Children of `PART` nodes are attached using 4 different relations: <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (2; 29% instances), <tt><a href="sv_talbanken-dep-cc.html">cc</a></tt> (2; 29% instances), <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (2; 29% instances), <tt><a href="sv_talbanken-dep-conj.html">conj</a></tt> (1; 14% instances)
 
-Children of `PART` nodes belong to 3 different parts of speech: <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (4; 67% instances), <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> (1; 17% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1; 17% instances)
+Children of `PART` nodes belong to 3 different parts of speech: <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (4; 57% instances), <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> (2; 29% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1; 14% instances)
 

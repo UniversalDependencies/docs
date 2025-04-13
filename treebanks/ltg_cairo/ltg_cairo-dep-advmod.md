@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latgalian-Cairo: Relations: `advmod`
 
 This relation is universal.
+There are 2 language-specific subtypes of `advmod`: <tt><a href="ltg_cairo-dep-advmod-emph.html">advmod:emph</a></tt>, <tt><a href="ltg_cairo-dep-advmod-neg.html">advmod:neg</a></tt>.
 
 6 nodes (4%) are attached to their parents as `advmod`.
 

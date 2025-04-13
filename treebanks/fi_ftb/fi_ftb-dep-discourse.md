@@ -30,7 +30,7 @@ The following 14 pairs of parts of speech are connected with `discourse`: <tt><a
 6	lähti	lähteä	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 7	armeijaan	armeija	NOUN	N,Sg,Ill	Case=Ill|Number=Sing	6	nmod	_	_
 8	ja	ja	CCONJ	Pcle,CC	_	11	cc	_	_
-9	me	me	PRON	Pron,Pers,Pl1,Nom	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	_
+9	me	minä	PRON	Pron,Pers,Pl1,Nom	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	_
 10	oltiin	olla	AUX	V,Pass,Ind,Past	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	11	aux	_	_
 11	sovittu	sopia	VERB	V,Pass,PcpNut,Sg,Nom	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	6	conj	_	_
 12	.	.	PUNCT	Pun	_	11	punct	_	_

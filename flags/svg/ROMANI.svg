@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600">
+	<rect width="900" height="600" fill="#008000"/>
+	<rect width="900" height="300" fill="#0080ff"/>
+	<circle cx="450" cy="300" r="200" fill="#f80000"/>
+	<g fill="#0080ff">
+		<g id="h">
+			<use xlink:href="#s" transform="rotate(-90 450,300)"/>
+			<use xlink:href="#s" transform="rotate(-67.5 450,300)"/>
+			<use xlink:href="#s" transform="rotate(-45 450,300)"/>
+			<use xlink:href="#s" transform="rotate(-22.5 450,300)"/>
+			<g id="s" transform="rotate(11.25 450,300)">
+				<circle cx="450" cy="140.625" r="20.625"/>
+				<circle cx="450" cy="242.5" r="7.5"/>
+				<path d="M 450,140.625 V 242.5 h 12 l 18,-101.875 z" transform="rotate(-7.5 450,300)"/>
+				<path d="M 450,140.625 V 242.5 h -12 l -18,-101.875 z" transform="rotate(7.5 450,300)"/>
+			</g>
+			<use xlink:href="#s" transform="rotate(22.5 450,300)"/>
+			<use xlink:href="#s" transform="rotate(45 450,300)"/>
+			<use xlink:href="#s" transform="rotate(67.5 450,300)"/>
+		</g>
+	</g>
+	<use xlink:href="#h" transform="rotate(180 450,300)" fill="#008000"/>
+</svg>

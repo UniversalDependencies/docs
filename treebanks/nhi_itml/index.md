@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Robert Pugh, Marivel Huerta Mendez, Mitsuya Sasaki, Francis Tyers.
 
 Repository: [UD_Western_Sierra_Puebla_Nahuatl-ITML](https://github.com/UniversalDependencies/UD_Western_Sierra_Puebla_Nahuatl-ITML)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnhi_itml214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnhi_itml215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

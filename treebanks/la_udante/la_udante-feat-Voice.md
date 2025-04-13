@@ -87,13 +87,13 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (796; 71%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (529; 60%),
-<tt>VERB --[<tt><a href="la_udante-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (276; 54%),
-<tt>VERB --[<tt><a href="la_udante-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (264; 61%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (530; 60%),
+<tt>VERB --[<tt><a href="la_udante-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (277; 54%),
+<tt>VERB --[<tt><a href="la_udante-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (263; 61%),
 <tt>VERB --[<tt><a href="la_udante-dep-advcl-pred.html">advcl:pred</a></tt>]--> VERB</tt> (169; 58%),
 <tt>VERB --[<tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (165; 59%),
 <tt>VERB --[<tt><a href="la_udante-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (123; 60%),
 <tt>VERB --[<tt><a href="la_udante-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> VERB</tt> (61; 70%),
-<tt>VERB --[<tt><a href="la_udante-dep-obl.html">obl</a></tt>]--> VERB</tt> (44; 56%),
+<tt>VERB --[<tt><a href="la_udante-dep-obl.html">obl</a></tt>]--> VERB</tt> (43; 56%),
 <tt>VERB --[<tt><a href="la_udante-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (40; 66%).
 

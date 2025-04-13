@@ -66,7 +66,7 @@ The following 13 pairs of parts of speech are connected with `case`: <tt><a href
 1	Dabar	dabar	ADV	prv.nelygin.	Degree=Pos	2	advmod	2:advmod	_
 2	reaguojame	reaguoti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	į	į	ADP	prl.G.	AdpType=Prep|Case=Acc	4	case	4:case	_
-4	tai	tas	DET	įv.bev.	Definite=Ind|Gender=Neut|PronType=Dem	2	obl:arg	2:obl:arg:į|7:obj	SpaceAfter=No
+4	tai	tas	DET	įv.bev.	Definite=Ind|Gender=Neut|PronType=Dem	2	obl:arg	2:obl:arg:į:acc|7:obj	SpaceAfter=No
 5	,	,	PUNCT	skyr.	_	7	punct	7:punct	_
 6	ką	kas	PRON	įv.G.	Case=Acc|Definite=Ind|PronType=Int,Rel	7	obj	4:ref	_
 7	turime	turėti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	acl:relcl	4:acl:relcl	_

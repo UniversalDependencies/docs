@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_English-EWT: Relations: `nmod:desc`
 
 This relation is a language-specific subtype of <tt><a href="en_ewt-dep-nmod.html">nmod</a></tt>.
-There are also 3 other language-specific subtypes of `nmod`: <tt><a href="en_ewt-dep-nmod-npmod.html">nmod:npmod</a></tt>, <tt><a href="en_ewt-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="en_ewt-dep-nmod-tmod.html">nmod:tmod</a></tt>.
+There are also 2 other language-specific subtypes of `nmod`: <tt><a href="en_ewt-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="en_ewt-dep-nmod-unmarked.html">nmod:unmarked</a></tt>.
 
 8 nodes (0%) are attached to their parents as `nmod:desc`.
 

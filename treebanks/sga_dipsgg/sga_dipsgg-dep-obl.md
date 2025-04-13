@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `obl`: <tt><a href="sga_dipsgg-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="sga_dipsgg-dep-obl-prep.html">obl:prep</a></tt>, <tt><a href="sga_dipsgg-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-6 nodes (1%) are attached to their parents as `obl`.
+7 nodes (2%) are attached to their parents as `obl`.
 
-5 instances of `obl` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.16666666666667.
+5 instances of `obl` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.85714285714286.
 
-The following 2 pairs of parts of speech are connected with `obl`: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (5; 83% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (1; 17% instances).
+The following 2 pairs of parts of speech are connected with `obl`: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (6; 86% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (1; 14% instances).
 
 
 ~~~ conllu
@@ -63,7 +63,7 @@ The following 2 pairs of parts of speech are connected with `obl`: <tt><a href="
 18	má	már	ADJ	_	Degree=Cmp	9	advcl	_	_
 19	de	de	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	18	obl:prep	_	_
 20	do	do	ADP	_	AdpType=Prep|Definite=Ind	21	case	_	_
-21	buith	both	NOUN	_	Case=Dat|Number=Sing	18	obl	_	_
+21	buith	buith	NOUN	_	Case=Dat|Number=Sing	18	obl	_	_
 22	dait	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=2|PronType=Prs	21	obl:prep	_	SpaceAfter=No
 23	siu	so	PRON	_	Number=Sing|Person=2|PronType=Emp	22	amod	_	_
 24	hi	i	ADP	_	AdpType=Prep|Definite=Ind	25	case	_	_

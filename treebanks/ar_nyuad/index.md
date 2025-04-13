@@ -12,15 +12,15 @@ udver: '2'
 # UD Arabic NYUAD
 
 Language: [Arabic](/ar/index.html) (code: `ar`)<br/>
-Family: Afro-Asiatic, Semitic
+Family: Afro-Asiatic
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
 The following people have contributed to making this treebank part of UD: Nizar Habash, Dima Taji.
 
 Repository: [UD_Arabic-NYUAD](https://github.com/UniversalDependencies/UD_Arabic-NYUAD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udar_nyuad214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udar_nyuad215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 

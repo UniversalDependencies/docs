@@ -30,4 +30,4 @@ appos(Sähköposti:-5, mkorhonen@example.com-6)
 
 `list` is not annotated in TDT and is not used in
 the current version of the UD Finnish corpus.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:18 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:59 CET -->

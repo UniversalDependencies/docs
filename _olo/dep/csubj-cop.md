@@ -22,4 +22,4 @@ csubj:cop(hauskaa-2, käydä-3)
 nmod(käydä-3, teatterissa-4)
 punct(hauskaa-2, .-5)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:02 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:44 CET -->

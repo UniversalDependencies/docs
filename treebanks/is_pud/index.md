@@ -12,15 +12,15 @@ udver: '2'
 # UD Icelandic PUD
 
 Language: [Icelandic](/is/index.html) (code: `is`)<br/>
-Family: Indo-European, Germanic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.6 release.
 
 The following people have contributed to making this treebank part of UD: Hildur Jónsdóttir.
 
 Repository: [UD_Icelandic-PUD](https://github.com/UniversalDependencies/UD_Icelandic-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_pud214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_pud215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

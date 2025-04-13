@@ -12,15 +12,15 @@ udver: '2'
 # UD Danish DDT
 
 Language: [Danish](/da/index.html) (code: `da`)<br/>
-Family: Indo-European, Germanic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
 The following people have contributed to making this treebank part of UD: Anders Johannsen, Héctor Martínez Alonso, Barbara Plank.
 
 Repository: [UD_Danish-DDT](https://github.com/UniversalDependencies/UD_Danish-DDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udda_ddt214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udda_ddt215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

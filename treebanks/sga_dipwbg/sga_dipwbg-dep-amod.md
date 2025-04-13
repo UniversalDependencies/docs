@@ -11,9 +11,9 @@ This relation is universal.
 33 nodes (8%) are attached to their parents as `amod`.
 
 32 instances of `amod` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.15151515151515.
+Average distance between parent and child is 1.18181818181818.
 
-The following 9 pairs of parts of speech are connected with `amod`: <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (13; 39% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt>-<tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (6; 18% instances), <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (6; 18% instances), <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt>-<tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt>-<tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt>-<tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt>-<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> (1; 3% instances).
+The following 8 pairs of parts of speech are connected with `amod`: <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (13; 39% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt>-<tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (6; 18% instances), <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (6; 18% instances), <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt>-<tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (3; 9% instances), <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt>-<tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt>-<tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt>-<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -24,13 +24,13 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 2 3 amod	color:blue
 1	.i.	.i.	ADV	_	Abbr=Yes	2	advmod	_	_
 2	biuu	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
-3	sa	sa	PRON	_	PronType=Emp	2	amod	_	_
+3	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	2	amod	_	_
 4	oc	oc	ADP	_	AdpType=Prep|Definite=Ind	5	case	_	SpaceAfter=No
 5	irbáig	airbág	NOUN	_	Case=Dat|Number=Sing	2	obl	_	_
 6	dar	tar	ADP	_	AdpType=Prep|Definite=Ind	8	case	_	SpaceAfter=No
 7	far	far	PRON	_	Number=Plur|Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	SpaceAfter=No
 8	cenn	cenn	NOUN	_	Case=Acc|Number=Sing	5	acl	_	SpaceAfter=No
-9	si	si	PRON	_	PronType=Emp	7	amod	_	_
+9	si	si	PRON	_	Number=Plur|Person=2|PronType=Emp	7	amod	_	_
 10	fri	fri	ADP	_	AdpType=Prep|Definite=Ind	11	case	_	SpaceAfter=No
 11	maccidóndu	maccidóndae	PROPN	_	Case=Acc|Number=Plur	5	acl	_	_
 
@@ -49,7 +49,7 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 4	inna	a	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Art	5	det	_	SpaceAfter=No
 5	biada	biad	NOUN	_	Case=Acc|Number=Plur	2	obj	_	_
 6	mílsi	milis	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	5	amod	_	_
-7	et	_	X	_	Foreign=Yes	9	cc	_	SpaceAfter=No
+7	et	_	CCONJ	_	Foreign=Yes	9	cc	_	SpaceAfter=No|Lang=la
 8	to	do	PART	_	PartType=Vb	9	compound:prt	_	SpaceAfter=No
 9	mil	domeil	VERB	_	Mood=Imp|Number=Sing|Person=2|Voice=Act	2	conj	_	_
 10	inna	a	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Art	11	det	_	SpaceAfter=No
@@ -62,12 +62,12 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 17	ar	ara	SCONJ	_	_	20	mark	_	SpaceAfter=No
 18	ná	ná	SCONJ	_	Polarity=Neg	20	mark	_	SpaceAfter=No
 19	p	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	20	nsubj	_	SpaceAfter=No
-20	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	csubj	_	_
-21	som	som	PRON	_	PronType=Emp	20	amod	_	_
+20	hé	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	csubj	_	_
+21	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	20	amod	_	_
 22	con	con	PART	_	PartType=Vb	23	compound:prt	_	SpaceAfter=No
 23	éit	conéitet	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	advcl	_	_
 24	dét	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=2|PronType=Prs	23	obl:prep	_	SpaceAfter=No
-25	so	so	PRON	_	PronType=Emp	24	amod	_	_
+25	so	so	PRON	_	Number=Sing|Person=2|PronType=Emp	24	amod	_	_
 
 ~~~
 

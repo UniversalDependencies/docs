@@ -31,7 +31,7 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 7	$	$	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
 8	por	por	ADP	IN	_	9	case	_	_
 9	persona	persona	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	4	punct	_	_
+10	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 ~~~
 
@@ -49,11 +49,11 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 5	no	no	ADV	RB	Polarity=Neg	6	advmod	_	_
 6	necesitamos	necesitar	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 7	en	en	ADP	IN	_	9	case	_	_
-8	nuestro	nuestro	PRON	DTP$	Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
+8	nuestro	nuestro	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
 9	país	país	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
-10	,	,	PUNCT	,	_	11	punct	_	_
+10	,	,	PUNCT	,	PunctType=Comm	11	punct	_	_
 11	amigos	amigo	NOUN	NN	Gender=Masc|Number=Plur	2	vocative	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	2	punct	_	_
+12	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -68,12 +68,12 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 2	éxito	éxito	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 3	musical	musical	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
 4	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-5	"	"	PUNCT	``	_	6	punct	_	SpaceAfter=No
+5	"	"	PUNCT	``	PunctType=Quot	6	punct	_	SpaceAfter=No
 6	Geronimo	Geronimo	PROPN	NNP	Number=Sing	2	nsubj	_	SpaceAfter=No
-7	"	"	PUNCT	''	_	6	punct	_	_
+7	"	"	PUNCT	''	PunctType=Quot	6	punct	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	Sheppard	Sheppard	PROPN	NNP	_	6	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	2	punct	_	_
+10	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
 ~~~
 

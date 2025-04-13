@@ -22,12 +22,12 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 6 dep	color:blue
-1	Αωπός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
-2	τζαι	jαι	CCONJ	CCONJ	_	4	cc	4:cc	_
-3	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
-4	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	conj	1:conj	SpaceAfter=No
-5	.	_	PUNCT	PUNCT	_	1	punct	1:punct	_
-6	Β	_	SYM	SYM	_	1	dep	1:dep	_
+1	Αωπός	απός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	τζαι	jαι	CCONJ	CCONJ	_	4	cc	_	_
+3	το	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	λαχτόρι	λαχτόρι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	conj	_	SpaceAfter=No
+5	.	_	PUNCT	PUNCT	_	1	punct	_	_
+6	Β	_	SYM	SYM	_	1	dep	_	_
 
 ~~~
 

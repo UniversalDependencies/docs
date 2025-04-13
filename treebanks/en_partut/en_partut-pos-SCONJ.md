@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_English-ParTUT: POS Tags: `SCONJ`
 
 There are 38 `SCONJ` lemmas (1%), 38 `SCONJ` types (1%) and 721 `SCONJ` tokens (1%).
-Out of 17 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 11 in number of types and 14 in number of tokens.
+Out of 17 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 10 in number of types and 14 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>that, if, when, as, because, while, whether, although, though, where</em>
 
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_partut-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.198926).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.199305).
 
 The 1st highest number of forms (1) was observed with the lemma “about”: <em>about</em>.
 

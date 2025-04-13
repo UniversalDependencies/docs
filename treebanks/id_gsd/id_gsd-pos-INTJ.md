@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>Hai</em> (<tt><a href="id_gsd-pos-INT
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.120254).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.120343).
 
 The 1st highest number of forms (1) was observed with the lemma “hai”: <em>Hai</em>.
 

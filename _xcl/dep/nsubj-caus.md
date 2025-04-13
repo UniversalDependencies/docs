@@ -5,11 +5,11 @@ shortdef: 'causative nominal subject'
 udver: '2'
 ---
 
-`nsubj:caus` relation links the causative verb to the syntactical subject of the sentence, which corresponds to the causer (external agent) participant of the causative predicate, which can be expressed by a morphological or analytical causative. In the analytical causative, the infinitive verb governs the causative auxiliary with an [aux:caus]() relation.
+A syntactic subject of a causative construction.
 
 ~~~ sdparse
-Եւ ասէ Մարիամ. Մեծացուսցէ անձն իմ զՏէր : \n And Mary said: My soul exalts the Lord
+Մեծացուսցէ անձն իմ զ Տէր : \n My soul exalts the Lord .
 nsubj:caus(Մեծացուսցէ, անձն)
-obj(Մեծացուսցէ, զՏէր)
+obj(Մեծացուսցէ, Տէր)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:27 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:08 CET -->

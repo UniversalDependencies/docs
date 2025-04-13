@@ -41,13 +41,13 @@ The 3rd highest number of forms (1) was observed with the lemma “其の”: �
 
 Parents of `DET` nodes belong to 4 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (204; 97% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-207 (99%) `DET` nodes are leaves.
+208 (99%) `DET` nodes are leaves.
 
-3 (1%) `DET` nodes have one child.
+2 (1%) `DET` nodes have one child.
 
 The highest child degree of a `DET` node is 1.
 
-Children of `DET` nodes are attached using 2 different relations: <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (2; 67% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (1; 33% instances)
+Children of `DET` nodes are attached using 1 different relations: <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (2; 100% instances)
 
-Children of `DET` nodes belong to 2 different parts of speech: <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 67% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (1; 33% instances)
+Children of `DET` nodes belong to 1 different parts of speech: <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 100% instances)
 

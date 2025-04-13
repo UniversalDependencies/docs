@@ -44,10 +44,10 @@ The following 12 pairs of parts of speech are connected with `conj`: <tt><a href
 2	мекӧт	ме	PRON	Pron	Case=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	GTtags=Pron,Pers,Sg1,Com
 3	пукалӧ	пукавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=V,TV,Ind,Prs,Sg3
 4	сьӧд	сьӧд	ADJ	A	_	5	amod	_	GTtags=A
-5	тошока	тошок	NOUN	N	Derivation=ProprietiveMod|Number=Sing	9	amod	_	GTtags=N,Sg,Der,Der/ProprietiveMod,A
+5	тошока	тошок	NOUN	N	Case=Prp|Number=Sing	9	amod	_	GTtags=N,Sg,Der,Der/ProprietiveMod,A
 6	и	и	CCONJ	CC	_	8	cc	_	GTtags=CC
 7	гардчӧмкодь	гардчыны	VERB	V	Case=Nom|Derivation=CompMod|Number=Sing|Tense=Past|VerbForm=Part	8	advcl	_	GTtags=V,IV,Ind,Prt2,Sg3,Der,Der/CompMod
-8	уссэза	ус	NOUN	N	Derivation=ProprietiveMod|Number=Plur	5	conj	_	GTtags=N,Pl,Der,Der/ProprietiveMod,A
+8	уссэза	ус	NOUN	N	Case=Prp|Number=Plur	5	conj	_	GTtags=N,Pl,Der,Der/ProprietiveMod,A
 9	мужик	мужик	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	GTtags=N,Sg,Nom|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB
 
@@ -66,7 +66,7 @@ The following 12 pairs of parts of speech are connected with `conj`: <tt><a href
 4	,	,	PUNCT	CLB	_	6	punct	_	GTtags=CLB
 5	пӧввезӧн	пӧв	NOUN	N	Case=Ins|Number=Plur	6	obl	_	GTtags=N,Pl,Ins
 6	дорӧм	дорны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	GTtags=N,Sem/Inanim,Sg,Nom
-7	ӧшына	ӧшын	NOUN	N	Derivation=ProprietiveMod|Number=Sing	3	conj	_	GTtags=N,Sg,Der,Der/ProprietiveMod,A|SpaceAfter=No
+7	ӧшына	ӧшын	NOUN	N	Case=Prp|Number=Sing	3	conj	_	GTtags=N,Sg,Der,Der/ProprietiveMod,A|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	9	punct	_	GTtags=CLB
 9	крышатӧм	крыша	NOUN	_	Case=Abe|Number=Sing|Variant=Nomin	3	conj	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB

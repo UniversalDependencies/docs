@@ -11,22 +11,22 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ky_ktmu-feat-Number.html">Number</a></tt>, <tt><a href="ky_ktmu-feat-Number-psor.html">Number[psor]</a></tt>.
 
-4189 tokens (56%) have a non-empty value of `Number`.
-2609 types (78%) occur at least once with a non-empty value of `Number`.
-1708 lemmas (80%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (2637; 35% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (667; 9% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (612; 8% instances), <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> (155; 2% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (79; 1% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="ky_ktmu-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> (1; 0% instances).
+13433 tokens (57%) have a non-empty value of `Number`.
+5340 types (81%) occur at least once with a non-empty value of `Number`.
+3088 lemmas (83%) occur at least once with a non-empty value of `Number`.
+The feature is used with 10 part-of-speech tags: <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (8655; 37% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (2820; 12% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1504; 6% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (196; 1% instances), <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> (188; 1% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (26; 0% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (18; 0% instances), <tt><a href="ky_ktmu-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-2637 <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
+8655 <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt> (2286; 87%), <tt><a href="ky_ktmu-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2258; 86%), <tt><a href="ky_ktmu-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2044; 78%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt> (7583; 88%), <tt><a href="ky_ktmu-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (7546; 87%), <tt><a href="ky_ktmu-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (6893; 80%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (358; 14% of non-empty `Number`): <em>иштери, балдар, балдардын, дандар, иштер, балдарга, ишкерлерге, компаниялардын, кызыкдар, мамлекеттердин</em>
-* `Sing` (2279; 86% of non-empty `Number`): <em>сом, шаарында, жол, бала, салык, суу, балык, банк, жыл, айда</em>
-* `EMPTY` (51): <em>Мамлекеттик, Улуттук, инвестициялык, кытайлык, мыйзамсыз, элдик, Бирдиктүү, аралык, бүгүн, бүгүнкү</em>
+* `Plur` (1260; 15% of non-empty `Number`): <em>иштери, балдар, гранттардын, кызыкдар, өкүлдөрү, валюталар, долларга, ишкерлер, иштер, аймактарында</em>
+* `Sing` (7395; 85% of non-empty `Number`): <em>сом, шаарында, эл, салык, банк, жыл, суу, айда, жол, көлөмү</em>
+* `EMPTY` (440): <em>экономикалык, Мамлекеттик, инвестициялык, мектеп, жергиликтүү, капиталдык, милдеттүү, товар, бирдиктүү, шаардык</em>
 
 <table>
   <tr><th>Paradigm <i>сом</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -36,6 +36,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
   <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>сомго</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>сом</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ky_ktmu-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>сом</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ky_ktmu-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>сомун</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>сомдук</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>сом</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>сом, сомдук</em></td><td><em>сом</em></td></tr>
@@ -45,158 +46,176 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `PROPN`
 
-667 <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+2820 <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt> (610; 91%), <tt><a href="ky_ktmu-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (593; 89%), <tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (363; 54%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt> (2606; 92%), <tt><a href="ky_ktmu-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2527; 90%), <tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1485; 53%).
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (4; 1% of non-empty `Number`): <em>атаңардан, жигиттер, кыргыздар, кыргызстандыктарды</em>
-* `Sing` (663; 99% of non-empty `Number`): <em>Кыргызстанда, Бишкекте, Ош, кыргызстан, Ысык-Көлдө, Ошто, Жалал-Абад, Бишкек, Кыргызстандын, Бишкектеги</em>
-* `EMPTY` (3): <em>Испаниялык, КР, Россия</em>
+* `Plur` (27; 1% of non-empty `Number`): <em>Кыргызстандыктар, Катардын, кыргызстандыктарды, Кырсыктардын, Аймактарда, Балдар, ГЭСтер, Депутаттар, ЖОЖдор, Зардалылыктар</em>
+* `Sing` (2793; 99% of non-empty `Number`): <em>Кыргызстанда, Бишкекте, кыргызстан, Ош, Кыргызстандын, Бишкек, Бишкектин, Жалал-Абад, Кыргызстанга, Ысык-Көлдө</em>
+* `EMPTY` (23): <em>КР, Токмок, Орто, Ала-Арча, Ачык, Достук, Испаниялык, Көк-Мойнок, Миграциялык, Россия</em>
 
 <table>
   <tr><th>Paradigm <i>кыргыз</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt></tt></td><td><em>кыргыз</em></td><td><em>кыргыздар</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (276) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (738) occur only with one value of `Number`.
 
 ### `VERB`
 
-612 <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> tokens (39% of all `VERB` tokens) have a non-empty value of `Number`.
+1504 <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> tokens (34% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ky_ktmu-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (538; 88%), <tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (501; 82%), <tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (500; 82%), <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt> (455; 74%), <tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (314; 51%), <tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (311; 51%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt> (1294; 86%), <tt><a href="ky_ktmu-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1185; 79%), <tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1105; 73%), <tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1054; 70%), <tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (795; 53%), <tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (786; 52%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (102; 17% of non-empty `Number`): <em>болгондордун, алабыз, алсак, болгондорго, жолугушту, кетишти, салынды, сурагыла, чуркашат, Билгендерим</em>
-* `Sing` (510; 83% of non-empty `Number`): <em>берилди, дейт, өттү, бар, алып, болот, жок, кармап, керек, айтылды</em>
-* `EMPTY` (955): <em>алып, өттү, жок, бар, түздү, жаткан, өтөт, алды, болгон, болду</em>
+* `Plur` (250; 17% of non-empty `Number`): <em>салынды, жолугушту, кызматташат, таанышты, валюталар, беришти, болгондордун, жабыркагандардын, керек, коюшту</em>
+* `Sing` (1254; 83% of non-empty `Number`): <em>берилди, кайтарылды, өнүктүрүү, уланууда, өттү, болот, коюлду, пайдаланууга, баштады, берди</em>
+* `EMPTY` (2890): <em>өттү, ачылды, талкууланды, түздү, алып, бар, өтүүдө, алды, пландалууда, өтөт</em>
 
 <table>
-  <tr><th>Paradigm <i>ал</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>албадым</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>алган, алды</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>алдым</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>алды</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>алды</em></td><td><em>алды</em></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>алып</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ky_ktmu-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>алгандыгынын</em></td><td><em>алабыз</em></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ky_ktmu-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td><em>алабыз</em></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>алам</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>алайынбы</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>албайт</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td><em>алгандан</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td><em>алуусу</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>алба</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td><em>ала, алар</em></td><td><em>алсак</em></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td><em>алам, алып</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td><em>албаган</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td><em>албай</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td><em>алып</em></td><td></td></tr>
-</table>
-
-### `PRON`
-
-155 <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> tokens (88% of all `PRON` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ky_ktmu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (89; 57%), <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt> (78; 50%).
-
-`PRON` tokens may have the following values of `Number`:
-
-* `Plur` (25; 16% of non-empty `Number`): <em>алар, аларды, силер, Булар, Цейлондуктарды, аларга, аны, аралы, биз, бизден</em>
-* `Sing` (130; 84% of non-empty `Number`): <em>мен, ал, аны, сен, анын, сага, мага, баары, баарын, мени</em>
-* `EMPTY` (22): <em>кандай, ким, эмне, биресе, муну, Эмнеге, бу, не, ушул, эмнең</em>
-
-<table>
-  <tr><th>Paradigm <i>Ал</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>аны</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>Ана</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ky_ktmu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>аларга</em></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>анын</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>Ал</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>Ансыз</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>Ал</em></td><td><em>Алар</em></td></tr>
+  <tr><th>Paradigm <i>бер</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>берчү</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>бер</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>берем</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>бердим</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>бердик</em></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>берейинби</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="ky_ktmu-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>берилет</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>берди</em></td><td><em>беришти</em></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>берди, берилди</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ky_ktmu-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>берилген</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ky_ktmu-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>берилди</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>берет</em></td><td><em>беришет</em></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ky_ktmu-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>бересиң</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ky_ktmu-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>берейинби</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>берсе</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>берет</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ky_ktmu-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>берилет</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>беребиз</em></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="ky_ktmu-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td><em>бербестен</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td><em>берүүнү</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td><em>берсең</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>бербейт</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ky_ktmu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td><em>берген</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
 
-79 <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> tokens (26% of all `ADJ` tokens) have a non-empty value of `Number`.
+196 <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> tokens (25% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt> (54; 68%), <tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (47; 59%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt> (162; 83%), <tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (118; 60%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (2; 3% of non-empty `Number`): <em>Жаштар, Үстүбүздөгү</em>
-* `Sing` (77; 97% of non-empty `Number`): <em>ичинде, ички, туруктуу, биринде, валюта, виза, камсыз, сутка, таза, туура</em>
-* `EMPTY` (226): <em>жаңы, жарым, улуттук, чоң, аралык, көп, байланыштуу, жалпы, жакшы, катуу</em>
+* `Plur` (6; 3% of non-empty `Number`): <em>Жаштар, катышуучуларына, көрсөтүүлөрү, укуктары, Үстүбүздөгү</em>
+* `Sing` (190; 97% of non-empty `Number`): <em>туруктуу, валюта, ички, ичинде, камсыз, иш, тармагында, пайызсыз, пайызга, сутка</em>
+* `EMPTY` (581): <em>жаңы, улуттук, аралык, жарым, айрым, катар, кичи, чоң, ири, көп</em>
 
-`Number` seems to be **lexical feature** of `ADJ`. 100% lemmas (56) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `ADJ`. 100% lemmas (99) occur only with one value of `Number`.
+
+### `PRON`
+
+188 <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> tokens (79% of all `PRON` tokens) have a non-empty value of `Number`.
+
+`PRON` tokens may have the following values of `Number`:
+
+* `Plur` (33; 18% of non-empty `Number`): <em>алар, аларды, кимдер, силер, чоңдордун, Булар, Цейлондуктарды, аларга, аны, аралы</em>
+* `Sing` (155; 82% of non-empty `Number`): <em>мен, ал, аны, өз, сен, анын, сага, бири, мага, баары</em>
+* `EMPTY` (49): <em>кандай, эмне, ким, биресе, муну, эмнеге, бу, не, таасири, ушул</em>
+
+<table>
+  <tr><th>Paradigm <i>ал</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>аны</em></td><td><em>аны</em></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ky_ktmu-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>аны</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ky_ktmu-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>аны</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ky_ktmu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>аны</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>ага</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>анын</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ky_ktmu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>анын</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ky_ktmu-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>аны</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>ал, андан</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ky_ktmu-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>ал</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ky_ktmu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ал</em></td><td></td></tr>
+</table>
 
 ### `ADV`
 
-16 <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `Number`.
+26 <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Number`.
 
 `ADV` tokens may have the following values of `Number`:
 
-* `Sing` (16; 100% of non-empty `Number`): <em>боюнча, кайрадан, көздөй, Азыр, жаныма, кайра, кийинки, кулдай, күндө, ордуна</em>
-* `EMPTY` (311): <em>боюнча, эле, үчүн, тууралуу, бери, дагы, карата, чейин, ашык, анан</em>
+* `Plur` (2; 8% of non-empty `Number`): <em>көргөзмөсүндө, чөйрөсүндө</em>
+* `Sing` (24; 92% of non-empty `Number`): <em>боюнча, Учурда, кайрадан, көздөй, Азыр, Камбар-Ата, акы, быйыл, жаныма, кайра</em>
+* `EMPTY` (815): <em>боюнча, үчүн, карата, бери, ашык, тууралуу, чейин, дээрлик, дагы, тарта</em>
 
-`Number` seems to be **lexical feature** of `ADV`. 100% lemmas (11) occur only with one value of `Number`.
+<table>
+  <tr><th>Paradigm <i>көргөзмө</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>көргөзмөсүндө</em></td><td><em>көргөзмөсүндө</em></td></tr>
+</table>
 
-### `CCONJ`
-
-9 <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> tokens (4% of all `CCONJ` tokens) have a non-empty value of `Number`.
-
-`CCONJ` tokens may have the following values of `Number`:
-
-* `Plur` (2; 22% of non-empty `Number`): <em>айымдарга, жайларга</em>
-* `Sing` (7; 78% of non-empty `Number`): <em>атлетика, башкара, каза, тармагында, тонна, унаа, участогуна</em>
-* `EMPTY` (194): <em>менен, жана, да, бирок, деген, үчүн, анда, же, анткени, аркылуу</em>
-
-### `ADP`
-
-7 <tt><a href="ky_ktmu-pos-ADP.html">ADP</a></tt> tokens (78% of all `ADP` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `ADP` and `Number` co-occurred: <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt> (7; 100%), <tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Loc</tt> (6; 86%), <tt><a href="ky_ktmu-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (5; 71%), <tt><a href="ky_ktmu-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (5; 71%).
-
-`ADP` tokens may have the following values of `Number`:
-
-* `Sing` (7; 100% of non-empty `Number`): <em>арасында, аркасында, жанындагы</em>
-* `EMPTY` (2): <em>арасында, караганда</em>
+`Number` seems to be **lexical feature** of `ADV`. 94% lemmas (17) occur only with one value of `Number`.
 
 ### `NUM`
 
-6 <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `Number`.
+18 <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="ky_ktmu-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (6; 100%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="ky_ktmu-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (18; 100%).
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Sing` (6; 100% of non-empty `Number`): <em>экөө, үчөө, бирөө, үч</em>
-* `EMPTY` (414): <em>млрд, миң, бир, эки, 4, 1, 5, млн, ,5, 3</em>
+* `Sing` (18; 100% of non-empty `Number`): <em>млрд, экөө, үчөө, Батышты, ЖЭБи, бирөө, бюджети, жетекчи, поезд, селден</em>
+* `EMPTY` (1511): <em>млрд, млн, бир, миң, эки, 3, 6, ,5, 4, 5</em>
+
+`Number` seems to be **lexical feature** of `NUM`. 100% lemmas (13) occur only with one value of `Number`.
+
+### `ADP`
+
+12 <tt><a href="ky_ktmu-pos-ADP.html">ADP</a></tt> tokens (86% of all `ADP` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `ADP` and `Number` co-occurred: <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt> (12; 100%), <tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Loc</tt> (10; 83%), <tt><a href="ky_ktmu-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (10; 83%), <tt><a href="ky_ktmu-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (10; 83%).
+
+`ADP` tokens may have the following values of `Number`:
+
+* `Sing` (12; 100% of non-empty `Number`): <em>арасында, аркасында, жанындагы, калаасында</em>
+* `EMPTY` (2): <em>арасында, караганда</em>
+
+### `CCONJ`
+
+12 <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> tokens (2% of all `CCONJ` tokens) have a non-empty value of `Number`.
+
+`CCONJ` tokens may have the following values of `Number`:
+
+* `Plur` (4; 33% of non-empty `Number`): <em>ишканаларга, айымдарга, жайларга</em>
+* `Sing` (8; 67% of non-empty `Number`): <em>атлетика, башкара, каза, кыргыздарга, тармагында, тонна, унаа, участогуна</em>
+* `EMPTY` (580): <em>менен, жана, да, бирок, деген, же, үчүн, анда, анткени, аркылуу</em>
+
+`Number` seems to be **lexical feature** of `CCONJ`. 100% lemmas (11) occur only with one value of `Number`.
 
 ### `DET`
 
-1 <tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Number`.
+2 <tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ky_ktmu-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Sing` (1; 100% of non-empty `Number`): <em>элексиңби</em>
-* `EMPTY` (21): <em>бул, деле, кайсы, беле, ар, берет, болбосун, ошо, тең, эми</em>
+* `Sing` (2; 100% of non-empty `Number`): <em>Керемет, элексиңби</em>
+* `EMPTY` (30): <em>кайсы, бул, деле, ар, беле, эми, берет, болбосун, ден, ошо</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (435; 74%),
-<tt>NOUN --[<tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (174; 87%),
-<tt>NOUN --[<tt><a href="ky_ktmu-dep-amod.html">amod</a></tt>]--> NOUN</tt> (47; 52%),
-<tt>NOUN --[<tt><a href="ky_ktmu-dep-compound.html">compound</a></tt>]--> NOUN</tt> (45; 96%),
-<tt>VERB --[<tt><a href="ky_ktmu-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (43; 77%),
-<tt>PROPN --[<tt><a href="ky_ktmu-dep-flat.html">flat</a></tt>]--> PROPN</tt> (39; 100%),
-<tt>NOUN --[<tt><a href="ky_ktmu-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (38; 70%),
-<tt>NOUN --[<tt><a href="ky_ktmu-dep-obl.html">obl</a></tt>]--> NOUN</tt> (31; 76%),
-<tt>PROPN --[<tt><a href="ky_ktmu-dep-conj.html">conj</a></tt>]--> PROPN</tt> (27; 100%),
-<tt>VERB --[<tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (27; 61%).
+<tt>NOUN --[<tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2017; 69%),
+<tt>NOUN --[<tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (843; 84%),
+<tt>PROPN --[<tt><a href="ky_ktmu-dep-flat.html">flat</a></tt>]--> PROPN</tt> (172; 100%),
+<tt>PROPN --[<tt><a href="ky_ktmu-dep-conj.html">conj</a></tt>]--> PROPN</tt> (129; 98%),
+<tt>PROPN --[<tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (113; 93%),
+<tt>PROPN --[<tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (106; 83%),
+<tt>NOUN --[<tt><a href="ky_ktmu-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (76; 70%),
+<tt>NOUN --[<tt><a href="ky_ktmu-dep-conj.html">conj</a></tt>]--> NOUN</tt> (74; 72%),
+<tt>NOUN --[<tt><a href="ky_ktmu-dep-obl.html">obl</a></tt>]--> NOUN</tt> (62; 70%),
+<tt>NOUN --[<tt><a href="ky_ktmu-dep-compound.html">compound</a></tt>]--> NOUN</tt> (53; 93%).
 

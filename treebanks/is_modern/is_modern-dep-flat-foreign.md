@@ -14,7 +14,7 @@ There are also 1 other language-specific subtypes of `flat`: <tt><a href="is_mod
 34 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.67647058823529.
 
-The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="is_modern-pos-X.html">X</a></tt>-<tt><a href="is_modern-pos-X.html">X</a></tt> (33; 97% instances), <tt><a href="is_modern-pos-X.html">X</a></tt>-<tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
+The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="is_modern-pos-X.html">X</a></tt>-<tt><a href="is_modern-pos-X.html">X</a></tt> (34; 100% instances).
 
 
 ~~~ conllu
@@ -34,32 +34,6 @@ The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt>
 9	de	de	X	FW	Foreign=Yes	8	flat:foreign	_	IFD_tag=x
 10	paume	paume	X	FW	Foreign=Yes	8	flat:foreign	_	IFD_tag=x|SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 15 flat:foreign	color:blue
-1	We	we	X	FW	Foreign=Yes	0	root	_	IFD_tag=x
-2	zijn	zijn	X	FW	Foreign=Yes	1	flat:foreign	_	IFD_tag=x
-3	tous	tous	X	FW	Foreign=Yes	1	dep	_	IFD_tag=x|SpaceAfter=No
-4	ensemble	ensemble	X	FW	Foreign=Yes	3	flat:foreign	_	IFD_tag=x
-5	bij	bij	ADV	ADV	Degree=Pos	1	advmod	_	IFD_tag=x
-6	de	de	ADV	ADV	Degree=Pos	1	advmod	_	IFD_tag=x
-7	slachtoffers	slachtoffer	ADV	ADV	Degree=Pos	1	advmod	_	IFD_tag=x|SpaceAfter=No
-8	.	.	PUNCT	.	_	7	punct	_	IFD_tag=.
-9	Voetbal	voetbal	X	FW	Foreign=Yes	1	flat:foreign	_	IFD_tag=x
-10	is	zijn	X	FW	Foreign=Yes	1	flat:foreign	_	IFD_tag=x
-11	onbelangrijk	onbelangrijk	ADV	ADV	Degree=Pos	1	advmod	_	IFD_tag=x
-12	vandaag	vandaag	ADV	ADV	Degree=Pos	1	advmod	_	IFD_tag=x|SpaceAfter=No
-13	.	.	PUNCT	.	_	12	punct	_	IFD_tag=.
-14	Training	training	X	FW	Foreign=Yes	1	dep	_	IFD_tag=x
-15	geannuleerd	annuleren	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	14	flat:foreign	_	IFD_tag=nven|SpaceAfter=No
-16	.	.	PUNCT	.	_	15	punct	_	IFD_tag=.
 
 ~~~
 

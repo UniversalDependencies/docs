@@ -37,7 +37,7 @@ The following 1 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 12	dat	dat	SCONJ	_	_	27	mark	_	lemma_gml=dat
 13	düslike	düslik	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	15	amod	_	lemma_gml=düslĩk
 14	vordamde	vordammen	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	15	amod	_	lemma_gml=vordammen
-15	saelen	saele	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	27	nsubj:pass	_	lemma_gml=sêle⁴|SpaceAfter=No
+15	saelen	seyle	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	27	nsubj:pass	_	lemma_gml=sêle⁴|SpaceAfter=No
 16	,	,	PUNCT	_	_	23	punct	_	_
 17	dee	dee	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	23	nsubj	_	lemma_gml=dê¹
 18	in	in	ADP	_	AdpType=Prep	20	case	_	lemma_gml=in²

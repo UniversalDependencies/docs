@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 7	fgColor:white
 # visual-style 7 6 aux:pass	color:blue
 1	Four	four	NUM	CD	NumForm=Word|NumType=Card	2	nummod	2:nummod	_
-2	months	month	NOUN	NNS	Number=Plur	3	obl:npmod	3:obl:npmod	_
+2	months	month	NOUN	NNS	Number=Plur	3	obl:unmarked	3:obl:unmarked	_
 3	later	late	ADV	RBR	Degree=Cmp	7	advmod	7:advmod	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	3:punct	_
 5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj:pass	7:nsubj:pass	_

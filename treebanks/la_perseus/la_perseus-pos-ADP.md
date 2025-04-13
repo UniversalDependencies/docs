@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="la_perseus-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.176471 (the average of all parts of speech is 2.102233).
+The form / lemma ratio of `ADP` is 1.176471 (the average of all parts of speech is 2.101598).
 
 The 1st highest number of forms (3) was observed with the lemma “ab”: <em>a, ab, abs</em>.
 
@@ -82,7 +82,7 @@ Parents of `ADP` nodes belong to 7 different parts of speech: <tt><a href="la_pe
 
 The highest child degree of a `ADP` node is 2.
 
-Children of `ADP` nodes are attached using 5 different relations: <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (14; 34% instances), <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (12; 29% instances), <tt><a href="la_perseus-dep-advmod-neg.html">advmod:neg</a></tt> (9; 22% instances), <tt><a href="la_perseus-dep-punct.html">punct</a></tt> (5; 12% instances), <tt><a href="la_perseus-dep-advmod-tmod.html">advmod:tmod</a></tt> (1; 2% instances)
+Children of `ADP` nodes are attached using 6 different relations: <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (12; 29% instances), <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (12; 29% instances), <tt><a href="la_perseus-dep-advmod-neg.html">advmod:neg</a></tt> (9; 22% instances), <tt><a href="la_perseus-dep-punct.html">punct</a></tt> (5; 12% instances), <tt><a href="la_perseus-dep-advmod-emph.html">advmod:emph</a></tt> (2; 5% instances), <tt><a href="la_perseus-dep-advmod-tmod.html">advmod:tmod</a></tt> (1; 2% instances)
 
 Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (15; 37% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (12; 29% instances), <tt><a href="la_perseus-pos-PART.html">PART</a></tt> (9; 22% instances), <tt><a href="la_perseus-pos-PUNCT.html">PUNCT</a></tt> (5; 12% instances)
 

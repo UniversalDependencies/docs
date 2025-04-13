@@ -27,8 +27,8 @@ The following 4 pairs of parts of speech are connected with `conj`: <tt><a href=
 3	no	no	PART	_	PartType=Vb	5	compound:prt	_	SpaceAfter=No
 4	ndob	dob	PRON	_	Number=Plur|Person=2|PronClass=C|PronType=Prs	3	obj:infx	_	SpaceAfter=No
 5	molor	molaid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
-6	sa	sa	PRON	_	PronType=Emp	5	amod	_	_
-7	et	_	CCONJ	_	Foreign=Yes	10	cc	_	_
+6	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	5	amod	_	_
+7	et	_	CCONJ	_	Foreign=Yes	10	cc	_	Lang=la
 8	no	no	PART	_	PartType=Vb	10	compound:prt	_	SpaceAfter=No
 9	m	m	PRON	_	Number=Sing|Person=1|PronClass=A|PronType=Prs	8	obj:infx	_	_
 10	móidim	móidid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	5	conj	_	_
@@ -49,12 +49,12 @@ The following 4 pairs of parts of speech are connected with `conj`: <tt><a href=
 4	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	5	case	_	SpaceAfter=No
 5	lóg	lóg	NOUN	_	Case=Acc|Number=Sing	6	obl	_	_
 6	pridcha	pridchaid	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
-7	sa	sa	PRON	_	PronType=Emp	6	amod	_	_
+7	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	6	amod	_	_
 8	.i.	.i.	ADV	_	Abbr=Yes	11	advmod	_	_
 9	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	11	case	_	SpaceAfter=No
 10	m	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	SpaceAfter=No
 11	etiuth	étiud	NOUN	_	Case=Acc|Number=Sing	5	dislocated	_	_
-12	et	_	CCONJ	_	Foreign=Yes	14	cc	_	_
+12	et	_	CCONJ	_	Foreign=Yes	14	cc	_	Lang=la
 13	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	_	SpaceAfter=No
 14	thoschith	toschid	NOUN	_	Case=Acc|Number=Sing	11	conj	_	_
 15	ní	ní	PART	_	Polarity=Neg	17	advmod	_	SpaceAfter=No
@@ -90,8 +90,8 @@ The following 4 pairs of parts of speech are connected with `conj`: <tt><a href=
 13	ísam	roicc	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Act	8	advcl	_	_
 14	nem	nem	NOUN	_	Case=Acc|Number=Sing	13	obj	_	_
 15	bimmi	is	AUX	_	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbType=Cop	16	nsubj	_	_
-16	æcni	ecnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	13	advcl	_	_
-17	et	_	CCONJ	_	Foreign=Yes	19	cc	_	_
+16	æcni	ecne	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	13	advcl	_	_
+17	et	_	CCONJ	_	Foreign=Yes	19	cc	_	Lang=la
 18	bimmi	is	AUX	_	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbType=Cop	19	nsubj	_	_
 19	foirbthi	foirbthe	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	16	conj	_	_
 20	uili	uile	NOUN	_	Case=Nom|Number=Plur	19	nmod	_	_

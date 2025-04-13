@@ -14,4 +14,4 @@ punct(đánh, 。)
 aux:pass(đánh, bị)
 ~~~
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:03 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:45 CET -->

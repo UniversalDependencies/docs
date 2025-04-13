@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Inf`, `Part`, `Sup`.
 
-14491 tokens (18%) have a non-empty value of `VerbForm`.
-2047 types (20%) occur at least once with a non-empty value of `VerbForm`.
+14492 tokens (18%) have a non-empty value of `VerbForm`.
+2048 types (20%) occur at least once with a non-empty value of `VerbForm`.
 726 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 6 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (9221; 11% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (5255; 7% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (9221; 11% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (5255; 7% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -131,7 +131,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 * `Fin` (3; 50% of non-empty `VerbForm`): <em>Innheimtu, bönnum, leiðir</em>
 * `Inf` (1; 17% of non-empty `VerbForm`): <em>þjónusta</em>
 * `Part` (2; 33% of non-empty `VerbForm`): <em>liðið, orðið</em>
-* `EMPTY` (13639): <em>forseti, menn, þingmaður, mál, ráðherra, fólk, tíma, máli, m, frú</em>
+* `EMPTY` (13638): <em>forseti, menn, þingmaður, mál, ráðherra, fólk, tíma, máli, m, frú</em>
 
 ### `ADP`
 
@@ -152,6 +152,17 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 
 * `Part` (1; 100% of non-empty `VerbForm`): <em>rökstutt</em>
 * `EMPTY` (4316): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, sama</em>
+
+### `X`
+
+1 <tt><a href="is_modern-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `VerbForm`.
+
+The most frequent other feature values with which `X` and `VerbForm` co-occurred: <tt><a href="is_modern-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`X` tokens may have the following values of `VerbForm`:
+
+* `Fin` (1; 100% of non-empty `VerbForm`): <em>ákvaðu</em>
+* `EMPTY` (90): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
 
 ## Relations with Agreement in `VerbForm`
 

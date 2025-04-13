@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `Combi`, `Digit`, `Roman`, `Word`.
 
-5566 tokens (2%) have a non-empty value of `NumForm`.
-1325 types (7%) occur at least once with a non-empty value of `NumForm`.
-1281 lemmas (8%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 5 part-of-speech tags: <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (5037; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (257; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (155; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (108; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (9; 0% instances).
+5609 tokens (2%) have a non-empty value of `NumForm`.
+1347 types (7%) occur at least once with a non-empty value of `NumForm`.
+1299 lemmas (8%) occur at least once with a non-empty value of `NumForm`.
+The feature is used with 5 part-of-speech tags: <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (5037; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (257; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (155; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (151; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (9; 0% instances).
 
 ### `NUM`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 257 <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `ADJ` and `NumForm` co-occurred: <tt><a href="en_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (241; 94%).
+The most frequent other feature values with which `ADJ` and `NumForm` co-occurred: <tt><a href="en_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (257; 100%).
 
 `ADJ` tokens may have the following values of `NumForm`:
 
@@ -53,17 +53,17 @@ The most frequent other feature values with which `ADV` and `NumForm` co-occurre
 
 ### `NOUN`
 
-108 <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NumForm`.
+151 <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NOUN` and `NumForm` co-occurred: <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (103; 95%).
+The most frequent other feature values with which `NOUN` and `NumForm` co-occurred: <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (103; 68%).
 
 `NOUN` tokens may have the following values of `NumForm`:
 
-* `Combi` (74; 69% of non-empty `NumForm`): <em>23rd, 26th, 30th, 15th, 20th, 22nd, 13th, 1st, 29th, 4th</em>
-* `Digit` (4; 4% of non-empty `NumForm`): <em>1960s, 1980s, 1990s, 22s</em>
-* `Word` (30; 28% of non-empty `NumForm`): <em>half, first, third, fifteenth, fifth, fourth, sixth, tenth, thirds</em>
+* `Combi` (117; 77% of non-empty `NumForm`): <em>1970s, 23rd, 26th, 30th, 80's, 15th, 1980s, 20th, 22nd, 13th</em>
+* `Digit` (1; 1% of non-empty `NumForm`): <em>22s</em>
+* `Word` (33; 22% of non-empty `NumForm`): <em>half, first, third, Sixties, eighties, fifteenth, fifth, fourth, mid-nineties, sixth</em>
 
-`NumForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (40) occur only with one value of `NumForm`.
+`NumForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (58) occur only with one value of `NumForm`.
 
 ### `DET`
 
@@ -81,11 +81,11 @@ The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>NUM --[<tt><a href="en_ewt-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (126; 99%),
 <tt>NUM --[<tt><a href="en_ewt-dep-flat.html">flat</a></tt>]--> NUM</tt> (69; 100%),
 <tt>NUM --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> NUM</tt> (59; 97%),
-<tt>NUM --[<tt><a href="en_ewt-dep-nmod-tmod.html">nmod:tmod</a></tt>]--> NUM</tt> (10; 100%),
+<tt>NUM --[<tt><a href="en_ewt-dep-nmod-unmarked.html">nmod:unmarked</a></tt>]--> NUM</tt> (10; 100%),
+<tt>NOUN --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (6; 55%),
 <tt>NUM --[<tt><a href="en_ewt-dep-appos.html">appos</a></tt>]--> NUM</tt> (4; 67%),
 <tt>ADV --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> ADV</tt> (2; 67%),
 <tt>ADV --[<tt><a href="en_ewt-dep-advcl.html">advcl</a></tt>]--> ADV</tt> (1; 100%),
 <tt>NUM --[<tt><a href="en_ewt-dep-obl.html">obl</a></tt>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<tt><a href="en_ewt-dep-reparandum.html">reparandum</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (1; 100%).
 

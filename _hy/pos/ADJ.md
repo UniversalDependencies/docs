@@ -34,4 +34,4 @@ Resultative, subject and future-II participles are word forms that may share pro
 -	_<b>հնչած, հնչող, հնչելիք</b> զանգ_ “a ringing call; a call that ringed; a call that will ring”
 
 Note that some participial adjectives are tagged `ADJ`, although they may have verbal features in addition to the adjectival ones.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:32 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:17 CET -->

@@ -32,7 +32,7 @@ The following 25 pairs of parts of speech are connected with `parataxis`: <tt><a
 8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
 9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
 10	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	4	parataxis	_	_
-11	ⲙⲁⲩⲁⲁ	ⲙⲁⲩⲁⲁ	NOUN	IMOD	_	10	obl:npmod	_	_
+11	ⲙⲁⲩⲁⲁ	ⲙⲁⲩⲁⲁ	NOUN	IMOD	_	10	obl:unmarked	_	_
 12	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	11	nmod:poss	_	_
 13	ⲉ	ⲉ	ADP	PREP	_	15	case	_	_
 14	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	15	det	_	Entity=(place
@@ -89,8 +89,8 @@ The following 25 pairs of parts of speech are connected with `parataxis`: <tt><a
 9	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	7	nmod	_	Entity=person)
 10	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	12	mark	_	_
 11	ⲁⲣⲁ	ⲁⲣⲁ	PART	PTC	Foreign=Yes	12	advmod	_	OrigLang=grc
-12	ⲟⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	7	parataxis	_	Orig=ⲟⲩⲛ̅
-13	ⲥⲟⲛ	ⲥⲟⲛ	NOUN	N	_	12	nsubj	_	Entity=(person)
+12	ⲟⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	7	parataxis	_	Cxn=Existential-ExistPred-Positive|Orig=ⲟⲩⲛ̅
+13	ⲥⲟⲛ	ⲥⲟⲛ	NOUN	N	_	12	nsubj	_	CxnElt=12:Existential-ExistPred-Positive.Pivot|Entity=(person)
 14	ⲙ	ⲛ	ADP	PREP	_	16	case	_	Orig=ⲙ̅
 15	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	16	nmod:poss	_	Entity=(place
 16	ⲥⲁ	ⲥⲁ	NOUN	N	_	12	obl	_	_

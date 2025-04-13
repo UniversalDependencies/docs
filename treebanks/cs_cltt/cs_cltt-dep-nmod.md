@@ -22,10 +22,10 @@ The following 24 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 nmod	color:blue
-1	Metoda	metoda	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	0:root	_
+1	Metoda	metoda	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	_
 2	komponentního	komponentní	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	3	amod	3:amod	_
-3	odpisování	odpisování	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	1	nmod	1:nmod:gen	_
-4	majetku	majetek	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	3	nmod	3:nmod:gen	_
+3	odpisování	odpisování	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	1	nmod	1:nmod:gen	_
+4	majetku	majetek	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod:gen	_
 
 ~~~
 
@@ -36,7 +36,7 @@ The following 24 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 12 nmod	color:blue
-1	Položky	položka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	15	nsubj	15:nsubj|16:nsubj:xsubj	_
+1	Položky	položka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	15	nsubj	15:nsubj|16:nsubj:xsubj	_
 2	„	"	PUNCT	Z:-------------	_	3	punct	3:punct	SpaceAfter=No
 3	AKTIVA	AKTIVA	X	X@-------------	_	1	nmod	1:nmod	LGloss=(from_multi_word_term)
 4	CELKEM	CELKEM	X	X@-------------	_	3	nmod	3:nmod	SpaceAfter=No|LGloss=(from_multi_word_term)
@@ -63,10 +63,10 @@ The following 24 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 nmod	color:blue
-1	Ustanovení	ustanovení	NOUN	NNNP1-----A----	Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos	0	root	0:root	_
+1	Ustanovení	ustanovení	NOUN	NNNP1-----A----	Case=Nom|Gender=Neut|Number=Plur	0	root	0:root	_
 2	přechodná	přechodný	ADJ	AANP1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	1	amod	1:amod	_
-3	zavedena	zavedený	ADJ	VsQW---XX-AP---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	1	dep	1:dep	LDeriv=zavést
-4	vyhláškou	vyhláška	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	3	obl:arg	3:obl:arg:ins	_
+3	zavedena	zavedený	ADJ	VsQW---XX-AP---	Degree=Pos|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	1	dep	1:dep	LDeriv=zavést
+4	vyhláškou	vyhláška	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing	3	obl:arg	3:obl:arg:ins	_
 5	č._472/2003_Sb._Čl._II	č._472/2003_Sb._Čl._II	X	X@-------------	_	4	nmod	4:nmod	_
 
 ~~~

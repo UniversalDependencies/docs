@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-CAC: POS Tags: `NOUN`
 
-There are 11123 `NOUN` lemmas (39%), 23495 `NOUN` types (37%) and 136183 `NOUN` tokens (28%).
+There are 11181 `NOUN` lemmas (39%), 23495 `NOUN` types (37%) and 136183 `NOUN` tokens (28%).
 Out of 16 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>rok, práce, člověk, doba, úkol, pracovník, oblast, vztah, výroba, výsledek</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>prací</em> (<tt><a href="cs_cac-pos-
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 2.112290 (the average of all parts of speech is 2.185616).
+The form / lemma ratio of `NOUN` is 2.101333 (the average of all parts of speech is 2.181223).
 
 The 1st highest number of forms (11) was observed with the lemma “mistr”: <em>Mistře, mistr, mistra, mistrem, mistrovi, mistrovou, mistrová, mistru, mistry, mistrů, mistři</em>.
 
@@ -60,12 +60,12 @@ The 2nd highest number of forms (11) was observed with the lemma “řád”: <e
 
 The 3rd highest number of forms (10) was observed with the lemma “den”: <em>den, dne, dnech, dnem, dni, dnu, dny, dní, dnů, dnům</em>.
 
-`NOUN` occurs with 10 features: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt> (136183; 100% instances), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt> (136144; 100% instances), <tt><a href="cs_cac-feat-Number.html">Number</a></tt> (135048; 99% instances), <tt><a href="cs_cac-feat-Case.html">Case</a></tt> (135027; 99% instances), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt> (56384; 41% instances), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt> (12136; 9% instances), <tt><a href="cs_cac-feat-Abbr.html">Abbr</a></tt> (982; 1% instances), <tt><a href="cs_cac-feat-Foreign.html">Foreign</a></tt> (257; 0% instances), <tt><a href="cs_cac-feat-Style.html">Style</a></tt> (113; 0% instances), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt> (6; 0% instances)
+`NOUN` occurs with 9 features: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt> (136144; 100% instances), <tt><a href="cs_cac-feat-Number.html">Number</a></tt> (135048; 99% instances), <tt><a href="cs_cac-feat-Case.html">Case</a></tt> (135027; 99% instances), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt> (56384; 41% instances), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt> (12136; 9% instances), <tt><a href="cs_cac-feat-Abbr.html">Abbr</a></tt> (982; 1% instances), <tt><a href="cs_cac-feat-Foreign.html">Foreign</a></tt> (257; 0% instances), <tt><a href="cs_cac-feat-Style.html">Style</a></tt> (113; 0% instances), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt> (6; 0% instances)
 
-`NOUN` occurs with 27 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Aspect=Imp`, `Aspect=Perf`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Polarity=Neg`, `Polarity=Pos`, `Style=Coll`, `Style=Expr`, `Style=Rare`, `Style=Slng`, `Style=Vrnc`, `VerbForm=Vnoun`
+`NOUN` occurs with 25 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Aspect=Imp`, `Aspect=Perf`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Style=Coll`, `Style=Expr`, `Style=Rare`, `Style=Slng`, `Style=Vrnc`, `VerbForm=Vnoun`
 
-`NOUN` occurs with 193 feature combinations.
-The most frequent feature combination is `Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos` (12877 tokens).
+`NOUN` occurs with 173 feature combinations.
+The most frequent feature combination is `Case=Gen|Gender=Fem|Number=Sing` (12916 tokens).
 Examples: <em>práce, společnosti, výroby, strany, činnosti, doby, vědy, vody, techniky, teorie</em>
 
 

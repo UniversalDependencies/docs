@@ -6,21 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-GUM: POS Tags: `PART`
 
-There are 3 `PART` lemmas (0%), 15 `PART` types (0%) and 5114 `PART` tokens (2%).
+There are 3 `PART` lemmas (0%), 15 `PART` types (0%) and 5113 `PART` tokens (2%).
 Out of 17 observed tags, the rank of `PART` is: 17 in number of lemmas, 17 in number of types and 12 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>to, not, 's</em>
 
 The 10 most frequent `PART` types:  <em>to, not, n't, 's, ’s, n’t, na, ', ’, ta</em>
 
-The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 2915, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 1695, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 36, <tt><a href="en_gum-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 2914, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 1696, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 36, <tt><a href="en_gum-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 2723, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 1670, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 36, <tt><a href="en_gum-pos-DET.html">DET</a></tt> 1, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_gum-pos-X.html">X</a></tt> 1), <em>'s</em> (<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 725, <tt><a href="en_gum-pos-PART.html">PART</a></tt> 444, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 81, <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 43), <em>’s</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 196, <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 169, <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 13, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 9), <em>na</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 125, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="en_gum-pos-X.html">X</a></tt> 1), <em>'</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 160, <tt><a href="en_gum-pos-PART.html">PART</a></tt> 46, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 2), <em>’</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 28, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 24), <em>ta</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 10, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 1), <em>s</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 3, <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 1, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_gum-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="en_gum-pos-DET.html">DET</a></tt> 3654, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 2, <tt><a href="en_gum-pos-PART.html">PART</a></tt> 2, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 1, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 1), <em>do</em> (<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 388, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 251, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="en_gum-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 2722, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 1671, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 36, <tt><a href="en_gum-pos-DET.html">DET</a></tt> 1, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_gum-pos-X.html">X</a></tt> 1), <em>'s</em> (<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 725, <tt><a href="en_gum-pos-PART.html">PART</a></tt> 444, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 81, <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 43), <em>’s</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 196, <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 169, <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 13, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 9), <em>na</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 125, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="en_gum-pos-X.html">X</a></tt> 1), <em>'</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 160, <tt><a href="en_gum-pos-PART.html">PART</a></tt> 46, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 2), <em>’</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 28, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 24), <em>ta</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 10, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 1), <em>s</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 3, <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 1, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_gum-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="en_gum-pos-DET.html">DET</a></tt> 3654, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 2, <tt><a href="en_gum-pos-PART.html">PART</a></tt> 2, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 1, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 1), <em>do</em> (<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 388, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 251, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="en_gum-pos-PART.html">PART</a></tt> 1)
 
 
 * <em>to</em>
-  * <tt><a href="en_gum-pos-PART.html">PART</a></tt> 2723: <em>However , it is not enough <b>to</b> have attained such native - like levels .</em>
-  * <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 1670: <em>His lack of moderation was not restricted <b>to</b> physical exercise .</em>
+  * <tt><a href="en_gum-pos-PART.html">PART</a></tt> 2722: <em>However , it is not enough <b>to</b> have attained such native - like levels .</em>
+  * <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 1671: <em>His lack of moderation was not restricted <b>to</b> physical exercise .</em>
   * <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 36: <em>I look forward <b>to</b> going over manuscript with you when you return .</em>
   * <tt><a href="en_gum-pos-DET.html">DET</a></tt> 1: <em>There is so much beauty all around the island , it is difficult not the appreciate <b>to</b> magnificent scenery and wildlife .</em>
   * <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 1: <em>Allow 4 - 7 days for the whole trail depending on experience and your desired pace , but it is also possible do <b>to</b> day trips along the route .</em>
@@ -72,7 +72,7 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_gum-pos-PART
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 5.000000 (the average of all parts of speech is 1.236974).
+The form / lemma ratio of `PART` is 5.000000 (the average of all parts of speech is 1.237215).
 
 The 1st highest number of forms (6) was observed with the lemma “to”: <em>a, do, na, ta, the, to</em>.
 
@@ -85,17 +85,17 @@ The 3rd highest number of forms (4) was observed with the lemma “not”: <em>n
 `PART` occurs with 3 feature-value pairs: `Polarity=Neg`, `Style=Coll`, `Typo=Yes`
 
 `PART` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (3618 tokens).
+The most frequent feature combination is `_` (3617 tokens).
 Examples: <em>to, 's, ’s, na, ', ’, a</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 12 different relations: <tt><a href="en_gum-dep-mark.html">mark</a></tt> (2870; 56% instances), <tt><a href="en_gum-dep-advmod.html">advmod</a></tt> (1451; 28% instances), <tt><a href="en_gum-dep-case.html">case</a></tt> (719; 14% instances), <tt><a href="en_gum-dep-xcomp.html">xcomp</a></tt> (28; 1% instances), <tt><a href="en_gum-dep-conj.html">conj</a></tt> (12; 0% instances), <tt><a href="en_gum-dep-root.html">root</a></tt> (10; 0% instances), <tt><a href="en_gum-dep-acl.html">acl</a></tt> (8; 0% instances), <tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt> (6; 0% instances), <tt><a href="en_gum-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="en_gum-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="en_gum-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="en_gum-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 12 different relations: <tt><a href="en_gum-dep-mark.html">mark</a></tt> (2869; 56% instances), <tt><a href="en_gum-dep-advmod.html">advmod</a></tt> (1451; 28% instances), <tt><a href="en_gum-dep-case.html">case</a></tt> (719; 14% instances), <tt><a href="en_gum-dep-xcomp.html">xcomp</a></tt> (28; 1% instances), <tt><a href="en_gum-dep-conj.html">conj</a></tt> (12; 0% instances), <tt><a href="en_gum-dep-root.html">root</a></tt> (10; 0% instances), <tt><a href="en_gum-dep-acl.html">acl</a></tt> (8; 0% instances), <tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt> (6; 0% instances), <tt><a href="en_gum-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="en_gum-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="en_gum-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="en_gum-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 14 different parts of speech: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (3756; 73% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (485; 9% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (438; 9% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (243; 5% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (57; 1% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (54; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (39; 1% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (14; 0% instances),  (10; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (2; 0% instances)
+Parents of `PART` nodes belong to 14 different parts of speech: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (3755; 73% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (485; 9% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (438; 9% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (243; 5% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (57; 1% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (54; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (39; 1% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (14; 0% instances),  (10; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (2; 0% instances)
 
-5063 (99%) `PART` nodes are leaves.
+5062 (99%) `PART` nodes are leaves.
 
 32 (1%) `PART` nodes have one child.
 

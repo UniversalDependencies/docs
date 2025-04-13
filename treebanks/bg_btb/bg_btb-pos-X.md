@@ -30,8 +30,8 @@ The 1st highest number of forms (2) was observed with the lemma “_”: <em>б�
 `X` occurs with 1 feature-value pairs: `Foreign=Yes`
 
 `X` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (1 tokens).
-Examples: <em>бир</em>
+The most frequent feature combination is `Foreign=Yes` (1 tokens).
+Examples: <em>дакика</em>
 
 
 ## Relations

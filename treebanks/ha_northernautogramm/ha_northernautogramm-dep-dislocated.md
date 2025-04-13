@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-65 nodes (2%) are attached to their parents as `dislocated`.
+67 nodes (2%) are attached to their parents as `dislocated`.
 
-65 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.72307692307692.
+67 instances of `dislocated` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.46268656716418.
 
-The following 21 pairs of parts of speech are connected with `dislocated`: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (12; 18% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (11; 17% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (7; 11% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (6; 9% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (4; 6% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (3; 5% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-INTJ.html">INTJ</a></tt> (2; 3% instances), <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 21 pairs of parts of speech are connected with `dislocated`: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (15; 22% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (14; 21% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (7; 10% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (5; 7% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (3; 4% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-INTJ.html">INTJ</a></tt> (2; 3% instances), <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 21 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 3	fgColor:white
 # visual-style 3 1 dislocated	color:blue
 1	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	dislocated	_	AlignBegin=40250|AlignEnd=40477|Gloss=3Plur.Nom
-2	sunkà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=3	3	aux	_	AlignBegin=40477|AlignEnd=40704|Background=Yes|Gloss=3Plur.Perf.Bkg
+2	sunkà	_	AUX	yaC	Aspect=Perf|Number=Plur|Person=3	3	aux	_	AlignBegin=40477|AlignEnd=40704|Background=Yes|Gloss=3Plur.Perf.Bkg
 3	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=40704|AlignEnd=40931|Gloss=say
 4	sun	_	AUX	yaː	Aspect=Perf|Number=Plur|Person=3	5	aux	_	AlignBegin=40931|AlignEnd=41158|Gloss=3Plur.Perf
 5	gàji	gaz-	VERB	_	_	3	ccomp	_	AlignBegin=41158|AlignEnd=41385|Gloss=get_tired
@@ -51,25 +51,26 @@ The following 21 pairs of parts of speech are connected with `dislocated`: <tt><
 8	mutàːneː	mùtunèː	NOUN	_	Number=Plur	10	dislocated	_	AlignBegin=407332|AlignEnd=407528|Gloss=human.Plur
 9	<	<	PUNCT	_	_	8	punct	_	AlignBegin=407528|AlignEnd=407724|Gloss=PUNCT
 10	tàhe	tah-	VERB	_	ExtPos=ADV|VerbForm=Part|Voice=Stat	0	root	_	AlignBegin=407724|AlignEnd=407920|Gloss=walk.Part.Stat
-11	sukè	_	AUX	kè	Aspect=ProgLocBkg|Number=Plur	10	advcl:cleft	_	AlignBegin=408312|AlignEnd=408508|Background=Yes|Gloss=3Plur.Loc.Bkg|wordform=kè
-12	//	//	PUNCT	_	_	10	punct	_	AlignBegin=408508|AlignEnd=408700|Gloss=PUNCT
+11	>+	>+	PUNCT	_	_	12	punct	_	AlignBegin=407920|AlignEnd=408116|Gloss=PUNCT
+12	sukè	_	AUX	kè	Number=Plur	10	advcl:cleft	_	AlignBegin=408312|AlignEnd=408508|Background=Yes|Gloss=3Plur.Loc.Bkg|wordform=kè
+13	//	//	PUNCT	_	_	10	punct	_	AlignBegin=408508|AlignEnd=408700|Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 dislocated	color:blue
-1	àkwai	àkwai	PART	_	_	5	dislocated	_	AlignBegin=356740|AlignEnd=356960|Gloss=there_is
-2	wata	wani	DET	_	Gender=Fem|PronType=Ind	3	det	_	AlignBegin=356960|AlignEnd=357180|Gloss=some.Fem
-3	zakkùwaː	zak-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	1	nsubj	_	AlignBegin=357180|AlignEnd=357400|Gloss=arrive.Vnoun.Fem
-4	naː	_	AUX	yaː	Aspect=Perf|Number=Sing|Person=1	5	aux	_	AlignBegin=357400|AlignEnd=357620|Gloss=1Sing.Perf
-5	kaːwoː	kai	VERB	_	_	0	root	_	AlignBegin=357620|AlignEnd=357840|Gloss=carry
-6	turàːmeː	turmiː	NOUN	_	Number=Plur	5	obj	_	AlignBegin=357840|AlignEnd=358060|Gloss=cloth.Plur
-7	//	//	PUNCT	_	_	5	punct	_	AlignBegin=358060|AlignEnd=358282|Gloss=PUNCT
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 dislocated	color:blue
+1	àmmaː	àmmaː	CCONJ	_	_	4	discourse	_	AlignBegin=348820|AlignEnd=349000|Gloss=but
+2	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	dislocated	_	AlignBegin=349000|AlignEnd=349180|Gloss=1Sing.Nom
+3	sùmoːgàr	sùmoːgàr	NOUN	_	_	4	xcomp	_	AlignBegin=349180|AlignEnd=349360|Gloss=smuggling
+4	naː	naː	PART	_	_	0	root	_	AlignBegin=349360|AlignEnd=349540|Gloss=Foc/Ident
+5	niy	_	AUX	yaC	Aspect=Perf|Number=Sing|Person=1	6	aux	_	AlignBegin=349540|AlignEnd=349720|Background=Yes|Gloss=1Sing.Perf.Bkg
+6	yi	yi	VERB	_	_	4	advcl:cleft	_	AlignBegin=349720|AlignEnd=349900|Gloss=do
+7	//	//	PUNCT	_	_	4	punct	_	AlignBegin=349900|AlignEnd=350080|Gloss=PUNCT
 
 ~~~
 

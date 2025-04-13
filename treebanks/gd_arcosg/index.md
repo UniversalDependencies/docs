@@ -12,15 +12,15 @@ udver: '2'
 # UD Scottish Gaelic ARCOSG
 
 Language: [Scottish Gaelic](/gd/index.html) (code: `gd`)<br/>
-Family: Indo-European, Celtic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.5 release.
 
 The following people have contributed to making this treebank part of UD: Colin Batchelor.
 
 Repository: [UD_Scottish_Gaelic-ARCOSG](https://github.com/UniversalDependencies/UD_Scottish_Gaelic-ARCOSG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgd_arcosg214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgd_arcosg215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -184,7 +184,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 </ul>
 
 <ul>
-<li>This corpus contains 82 lemmas tagged as pronouns (PRON): 'd, 'n, a, a-chèile, a-seo, a-sin, a-siud, aige, an, ann, aon, ar, b'e, bith, brith, bè, c'à, car, carson, ceithir, cia, ciamar, co, cuin, cuin', cuine, cà, cà', càil, càit, càit', càite, cáit, cèile, céile, cò, có, dhà, diamar, do, dà, dè, dé, e, fein, fèin, féin, gar, ge, gu, i, iad, mar, mheud, mi, mis', mo, na, péin, sean, seo, seothach, shean, shin, sib', sibh, sibh-se, sin, sineach, sinn, siod, siodach, siud, siudach, son, thu, thus', trì, ur, àsan, è, ì</li>
+<li>This corpus contains 77 lemmas tagged as pronouns (PRON): 'd, 'n, a, a-chèile, a-seo, a-sin, a-siud, aige, an, ann, ar, b'e, bith, brith, bè, c'à, car, carson, cia, ciamar, co, cuin, cuin', cuine, cà, cà', càil, càit, càit', càite, cáit, cèile, céile, cò, có, diamar, do, dè, dé, e, fein, fèin, féin, gar, ge, gu, i, iad, mar, mheud, mi, mis', mo, na, péin, sean, seo, seothach, shean, shin, sib', sibh, sibh-se, sin, sineach, sinn, siod, siodach, siud, siudach, son, thu, thus', ur, àsan, è, ì</li>
 </ul>
 
 <ul>
@@ -204,7 +204,16 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 </ul>
 
 <ul>
-<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+<ul>
+  <li>Fin
+  <ul>
+    <li>AUX: chaidh, thèid, deach, tèid, rachadh</li>
+    <li>VERB: tha, bha, robh, eil, bheil, chaidh, bhiodh, fhuair, thuirt, ars’</li>
+  </ul>
+  </li>
 </ul>
 
 <ul>
@@ -396,18 +405,10 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 </ul>
 
 <ul>
-  <li>Cnd
+  <li>Ind
     <ul>
-      <li>AUX: rachadh</li>
-      <li>VERB: bhiodh, biodh, faigheadh, dh’fhaodadh, dhèanadh, thigeadh, dèanadh, bheireadh, rachadh, canadh</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Imp
-    <ul>
-      <li>VERB: feuch, can, biodh, cuir, abair, bi, gabh, till, trobhad, Cumaibh</li>
+      <li>AUX-Fin: chaidh, thèid, deach, tèid, rachadh</li>
+      <li>VERB-Fin: tha, bha, robh, eil, bheil, chaidh, bhiodh, fhuair, thuirt, ars’</li>
     </ul>
   </li>
 </ul>
@@ -427,8 +428,8 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Fut
     <ul>
-      <li>AUX: thèid, tèid</li>
-      <li>VERB: bidh, feumaidh, bhios, bi, gheibh, nì, faodaidh, bheir, bhi, thèid</li>
+      <li>AUX-Fin: thèid, tèid</li>
+      <li>VERB-Fin: bidh, feumaidh, bhios, bi, gheibh, nì, faodaidh, bheir, bhi, thèid</li>
     </ul>
   </li>
 </ul>
@@ -436,9 +437,10 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Past
     <ul>
-      <li>AUX: b', chaidh, bu, b’, deach</li>
+      <li>AUX: b', bu, chaidh, b’, deach</li>
+      <li>AUX-Fin: chaidh, deach</li>
       <li>PART: do, d’, d'</li>
-      <li>VERB: bha, robh, chaidh, fhuair, thuirt, ars’, chuir, thàinig, bh', rinn</li>
+      <li>VERB-Fin: bha, robh, chaidh, fhuair, thuirt, ars’, chuir, thàinig, bh', rinn</li>
     </ul>
   </li>
 </ul>
@@ -448,7 +450,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
     <ul>
       <li>AUX: 's, is, gur, as, chan, nach, an, cha, ‘s, gun</li>
       <li>PART: cha</li>
-      <li>VERB: tha, eil, bheil, th', thà, th’, 'eil, thathar, thathas, 'l</li>
+      <li>VERB-Fin: tha, eil, bheil, th', thà, th’, thathar, thathas, 'eil, 'l</li>
     </ul>
   </li>
 </ul>
@@ -465,7 +467,15 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Art
     <ul>
-      <li>DET: an, na, a’, a', am, nan, 'n, nam, 'm, ‘n</li>
+      <li>DET: an, na, a’, sin, a', seo, am, a, h-uile, nan</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dem
+    <ul>
+      <li>PRON: sin, seo, siud, sineach, a-sin, an, a-seo, seothach, siod, a</li>
     </ul>
   </li>
 </ul>
@@ -474,7 +484,16 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
   <li>Int
     <ul>
       <li>PART: an, a, am, 'm, na, 'n, ‘n</li>
-      <li>PRON: dè, cò, dé, ciamar, carson, gu, cà, có, mheud, mar</li>
+      <li>PRON: dè, cò, dé, ciamar, carson, gu, cà, có, cuin', mheud</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Prs
+    <ul>
+      <li>DET: a, an, mo, do, am, ar, m', d', t', ur</li>
+      <li>PRON: e, iad, i, mi, a, thu, sinn, esan, fhèin, sibh</li>
     </ul>
   </li>
 </ul>
@@ -496,7 +515,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Card
     <ul>
-      <li>NUM: aon, dà, deug, trì, fhichead, fichead, ceithir, seachd, dhà, mìle</li>
+      <li>NUM: aon, dà, deug, trì, dhà, fhichead, fichead, ceithir, seachd, mìle</li>
     </ul>
   </li>
 </ul>
@@ -529,7 +548,6 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Yes
     <ul>
-      <li>NOUN: a, chèile</li>
       <li>PRON: fhèin, fhéin, chèile, fhìn, a, chéile, péin, a-chèile, fhein, fèin</li>
     </ul>
   </li>
@@ -542,8 +560,8 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>0
     <ul>
-      <li>AUX: Rachadh</li>
-      <li>VERB: rinneadh, thathar, thugadh, chuireadh, thathas, dh'fhaoidte, faodar, feumar, fhuaras, rugadh</li>
+      <li>AUX-Fin: Rachadh</li>
+      <li>VERB-Fin: rinneadh, thathar, thugadh, chuireadh, thathas, dh'fhaoidte, faodar, feumar, fhuaras, rugadh</li>
     </ul>
   </li>
 </ul>
@@ -553,7 +571,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
     <ul>
       <li>DET: mo, ar, m', m’, ’r</li>
       <li>PRON: mi, sinn, mise, sinne, mo, ar, mis', mis’, àsan</li>
-      <li>VERB: chanainn, rachainn, bhithinn, bithinn, bhiomaid, chanain-sa, dh’aontaichinn, faigheamaid, faighinn, Bitheamaid</li>
+      <li>VERB-Fin: chanainn, rachainn, bhithinn, bithinn, bhiomaid, chanain-sa, dh’aontaichinn, faigheamaid, faighinn, Bitheamaid</li>
     </ul>
   </li>
 </ul>
@@ -563,7 +581,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
     <ul>
       <li>DET: do, d', t', ur, bhur, d’</li>
       <li>PRON: thu, sibh, tu, thusa, sibhse, tusa, do, thus', ur, sibh-se</li>
-      <li>VERB: feuch, can, cuir, abair, bi, gabh, till, trobhad, Cumaibh, saoil</li>
+      <li>VERB-Fin: feuch, can, cuir, abair, bi, gabh, till, trobhad, Cumaibh, saoil</li>
     </ul>
   </li>
 </ul>
@@ -594,9 +612,10 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
           <li>DET: the</li>
           <li>INTJ: well, okay, right, so, A, really, sorry, thanks</li>
           <li>NOUN: tug-of-war, Shir, contract, vet, Radio, council, point, terrorists, tribunal, van</li>
+          <li>NOUN-Vnoun: sublet</li>
           <li>NUM: fifty, forty-thousand, three</li>
           <li>PROPN: Sir, Dad, Apprentice, Aquaculture, Backpackers, Bhridge, Boys, Centre, Community, Green</li>
-          <li>VERB: dhifferentiates, sublet, test</li>
+          <li>VERB-Fin: dhifferentiates, test</li>
           <li>X: the, a, of, on, I, Isles, and, in, poverty, Cheatharnaigh</li>
         </ul>
       </li>
@@ -610,9 +629,9 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
       <li>Emp
         <ul>
           <li>ADP: shon-sa, dheidhinn-sa</li>
-          <li>NOUN: taobh-sa, bheachd-sa, ìre-sa, bheachd-san, bliadhna-sa, leughadh-ne, aobhar-sa, athair-san, bhràithrean-sa, bhàta-sa</li>
+          <li>NOUN: taobh-sa, bheachd-sa, ìre-sa, bheachd-san, bliadhna-sa, aobhar-sa, athair-san, bhràithrean-sa, bhàta-sa, cumail-san</li>
+          <li>NOUN-Vnoun: cumail-san, leughadh-ne</li>
           <li>PRON: esan, mise, ise, thusa, iadsan, sinne, sibhse, tusa, àsan, mis'</li>
-          <li>VERB: cumail-san</li>
         </ul>
       </li>
     </ul>
@@ -634,7 +653,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
       </li>
       <li>Word
         <ul>
-          <li>NUM: aon, dà, deug, trì, fhichead, fichead, ceithir, chiad, cheud, seachd</li>
+          <li>NUM: aon, dà, deug, trì, dhà, fhichead, fichead, ceithir, chiad, cheud</li>
         </ul>
       </li>
     </ul>
@@ -694,7 +713,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
       <li>Yes
         <ul>
           <li>PROPN: lain</li>
-          <li>VERB: dh’fhabh</li>
+          <li>VERB-Fin: dh’fhabh</li>
         </ul>
       </li>
     </ul>
@@ -719,11 +738,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (86)</li>
-      <li>VERB--NOUN-Dat (12)</li>
-      <li>VERB--NOUN-Gen (2)</li>
-      <li>VERB--NOUN-Nom (2469)</li>
-      <li>VERB--PRON (4026)</li>
+      <li>VERB-Fin--NOUN (86)</li>
+      <li>VERB-Fin--NOUN-Dat (12)</li>
+      <li>VERB-Fin--NOUN-Gen (2)</li>
+      <li>VERB-Fin--NOUN-Nom (2469)</li>
+      <li>VERB-Fin--PRON (4024)</li>
     </ul>
   </li>
 </ul>
@@ -731,10 +750,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (29)</li>
-      <li>VERB--NOUN-Dat (4)</li>
-      <li>VERB--NOUN-Nom (862)</li>
-      <li>VERB--PRON (358)</li>
+      <li>VERB-Fin--NOUN (29)</li>
+      <li>VERB-Fin--NOUN-Dat (4)</li>
+      <li>VERB-Fin--NOUN-Nom (862)</li>
+      <li>VERB-Fin--PRON (352)</li>
     </ul>
   </li>
 </ul>

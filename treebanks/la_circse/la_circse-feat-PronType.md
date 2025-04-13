@@ -12,18 +12,18 @@ It occurs with 8 different values: `Con`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Re
 2164 tokens (11%) have a non-empty value of `PronType`.
 331 types (4%) occur at least once with a non-empty value of `PronType`.
 114 lemmas (3%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="la_circse-pos-DET.html">DET</a></tt> (1064; 6% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (714; 4% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (212; 1% instances), <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> (168; 1% instances), <tt><a href="la_circse-pos-PART.html">PART</a></tt> (6; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="la_circse-pos-DET.html">DET</a></tt> (1065; 6% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (713; 4% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (212; 1% instances), <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> (168; 1% instances), <tt><a href="la_circse-pos-PART.html">PART</a></tt> (6; 0% instances).
 
 ### `DET`
 
-1064 <tt><a href="la_circse-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+1065 <tt><a href="la_circse-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="la_circse-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (895; 84%), <tt><a href="la_circse-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (819; 77%), <tt><a href="la_circse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (819; 77%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (701; 66%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (615; 58%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="la_circse-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (896; 84%), <tt><a href="la_circse-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (820; 77%), <tt><a href="la_circse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (820; 77%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (702; 66%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (615; 58%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Con` (56; 5% of non-empty `PronType`): <em>cetera, sola, solus, alia, aliis, aliud, solis, solum, aliarum, ceterae</em>
-* `Dem` (391; 37% of non-empty `PronType`): <em>hoc, haec, ille, ipse, hic, ipsa, hunc, idem, ista, eadem</em>
+* `Dem` (392; 37% of non-empty `PronType`): <em>hoc, haec, ille, ipse, hic, ipsa, hunc, idem, ista, eadem</em>
 * `Ind` (139; 13% of non-empty `PronType`): <em>nulla, ulla, alia, nullis, aliud, multo, nullo, quidam, unum, uterque</em>
 * `Int` (8; 1% of non-empty `PronType`): <em>quota, qualis, quanta, quanto, quot, utras</em>
 * `Neg` (29; 3% of non-empty `PronType`): <em>nulla, nullus, nulli, nullo, nullos, nullum</em>
@@ -63,13 +63,12 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-714 <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+713 <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (568; 80%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (410; 57%), <tt><a href="la_circse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (395; 55%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (567; 80%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (410; 58%), <tt><a href="la_circse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (394; 55%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (1; 0% of non-empty `PronType`): <em>tantum</em>
 * `Ind` (42; 6% of non-empty `PronType`): <em>nemo, quid, quod, aliquid, aliqua, aliquod, nihil, qua, quicquam, aliquis</em>
 * `Int` (101; 14% of non-empty `PronType`): <em>quid, quis, quae, cui, quas, quem, quod, quo, qua, quam</em>
 * `Neg` (19; 3% of non-empty `PronType`): <em>nemo, nil, nihil</em>
@@ -111,7 +110,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Ind` (2; 1% of non-empty `PronType`): <em>aliquanto, quondam</em>
 * `Int` (99; 47% of non-empty `PronType`): <em>quid, cur, ubi, quo, unde, quam, ut, utrumne, quare, quonam</em>
 * `Rel` (28; 13% of non-empty `PronType`): <em>quam, qua, unde, quando, quanto, quo, ubi, quantum, quippe, quotiens</em>
-* `EMPTY` (805): <em>iam, nunc, etiam, semper, hinc, adhuc, sic, nondum, retro, saepe</em>
+* `EMPTY` (795): <em>iam, nunc, etiam, semper, hinc, adhuc, sic, nondum, retro, saepe</em>
 
 <table>
   <tr><th>Paradigm <i>ubi</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
@@ -135,23 +134,22 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 6 <tt><a href="la_circse-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PART` and `PronType` co-occurred: <tt><a href="la_circse-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="la_circse-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (6; 100%).
+The most frequent other feature values with which `PART` and `PronType` co-occurred: <tt><a href="la_circse-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="la_circse-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="la_circse-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (6; 100%).
 
 `PART` tokens may have the following values of `PronType`:
 
 * `Rel` (6; 100% of non-empty `PronType`): <em>quin</em>
-* `EMPTY` (332): <em>non, ne, o, quidem, enim, an, quoque, nam, haut, haud</em>
+* `EMPTY` (342): <em>non, ne, o, quoque, quidem, enim, an, nam, haut, haud</em>
 
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> PRON</tt> (7; 100%),
-<tt>DET --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> DET</tt> (5; 71%),
+<tt>DET --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> DET</tt> (6; 75%),
 <tt>PRON --[<tt><a href="la_circse-dep-mark.html">mark</a></tt>]--> SCONJ</tt> (3; 60%),
 <tt>ADV --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> ADV</tt> (2; 100%),
 <tt>PRON --[<tt><a href="la_circse-dep-flat-redup.html">flat:redup</a></tt>]--> PRON</tt> (2; 100%),
 <tt>SCONJ --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> SCONJ</tt> (2; 100%),
-<tt>DET --[<tt><a href="la_circse-dep-flat-redup.html">flat:redup</a></tt>]--> DET</tt> (1; 100%),
 <tt>DET --[<tt><a href="la_circse-dep-parataxis.html">parataxis</a></tt>]--> DET</tt> (1; 100%),
 <tt>PRON --[<tt><a href="la_circse-dep-parataxis.html">parataxis</a></tt>]--> PRON</tt> (1; 100%).
 

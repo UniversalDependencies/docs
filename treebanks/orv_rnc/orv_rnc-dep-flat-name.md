@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="orv_rnc-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-2226 nodes (2%) are attached to their parents as `flat:name`.
+3556 nodes (2%) are attached to their parents as `flat:name`.
 
-2226 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.26325247079964.
+3556 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.27699662542182.
 
-The following 11 pairs of parts of speech are connected with `flat:name`: <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (2074; 93% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (70; 3% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (56; 3% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (13; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PART.html">PART</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `flat:name`: <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (3291; 93% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (145; 4% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (78; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (19; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="orv_rnc-pos-PART.html">PART</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -46,16 +46,16 @@ The following 11 pairs of parts of speech are connected with `flat:name`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 flat:name	color:blue
-1	О	о	ADP	_	_	2	case	_	_
-2	побѣжании	побѣжание	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	0	root	_	_
-3	в	въ	ADP	_	_	4	case	_	_
-4	Литву	Литва	PROPN	_	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	2	nmod	_	_
-5	князя	князь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-6	Никиты	Никита	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	5	appos	_	_
-7	Лобанова	Лобановъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Pat|Number=Sing	6	flat:name	_	_
-8	сына	сынъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	flat:name	_	_
-9	Ростовского	Ростовский	PROPN	_	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	6	flat:name	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	2	punct	_	_
+1	А	а	CCONJ	_	_	5	cc	_	norm="А"
+2	сю	сей	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	norm="сю"|Decl=X|End=ю|check=@
+3	грамоту	грамота	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	norm="грамоту"|Decl=1a|End=у|check=@
+4	меновную	мѣновный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	norm="меновную"|Decl=X|End=юу|check=@
+5	писал	писати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	norm="писал"|Decl=X|End=л
+6	Иван	Иванъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	nsubj	_	norm="Иван"|Decl=2|End=0|[G]
+7	Петров	Петровъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Pat|Number=Sing	6	flat:name	_	norm="Петров"|Decl=Poss|End=0|[G]
+8	сын	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	norm="сын"|Decl=2|End=0|[G]
+9	Спячева	Спячевъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	6	flat:name	_	norm="Спячева"|Decl=Poss|End=а|SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	norm="."
 
 ~~~
 

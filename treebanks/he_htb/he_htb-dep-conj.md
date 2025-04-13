@@ -74,8 +74,8 @@ The following 60 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 12 conj	color:blue
-1	אין	אין	VERB	VERB	HebExistential=Yes	0	root	_	_
-2	פלא	פלא	NOUN	NOUN	Gender=Masc|Number=Sing	1	nsubj	_	_
+1	אין	אין	VERB	VERB	HebExistential=Yes	0	root	_	Cxn=Existential-NotExistPred-VblPart
+2	פלא	פלא	NOUN	NOUN	Gender=Masc|Number=Sing	1	nsubj	_	CxnElt=1:Existential-NotExistPred-VblPart.Pivot
 3	ש	ש	SCONJ	SCONJ	_	6	mark	_	_
 4	פרשת	פרשה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	6	nsubj	_	_
 5	בוסקה	בוסקה	PROPN	PROPN	_	4	compound:smixut	_	_

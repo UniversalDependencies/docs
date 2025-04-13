@@ -22,13 +22,13 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 vocative	color:blue
-1	Ultimus	ulter	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	xcomp	_	LId=ulter1
+1	Ultimus	ulter	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	advcl:pred	_	LId=ulter1
 2	inmenso	immensus	ADJ	a-s---md-	Case=Dat|Gender=Masc|Number=Sing	7	amod	_	LId=immensus1
 3	restabas	resto	VERB	v2siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=resto1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Imperfectum
 4	,	,	PUNCT	u--------	_	5	punct	_	LId=comma1
 5	Nile	Nilus	PROPN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	SpaceAfter=No|LId=Nilus1
 6	,	,	PUNCT	u--------	_	5	punct	_	LId=comma1
-7	labori	labor	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No|LId=labor2
+7	labori	labor	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	3	obl:arg	_	SpaceAfter=No|LId=labor2
 8	.	.	PUNCT	u--------	_	3	punct	_	LId=punc1
 
 ~~~

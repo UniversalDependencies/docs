@@ -66,11 +66,11 @@ The 2nd highest number of forms (2) was observed with the lemma “tant”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “abans”: <em>abans</em>.
 
-`ADV` occurs with 4 features: <tt><a href="ca_ancora-feat-Polarity.html">Polarity</a></tt> (2838; 18% instances), <tt><a href="ca_ancora-feat-Degree.html">Degree</a></tt> (2308; 15% instances), <tt><a href="ca_ancora-feat-AdvType.html">AdvType</a></tt> (1; 0% instances), <tt><a href="ca_ancora-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
+`ADV` occurs with 3 features: <tt><a href="ca_ancora-feat-Polarity.html">Polarity</a></tt> (2838; 18% instances), <tt><a href="ca_ancora-feat-Degree.html">Degree</a></tt> (2308; 15% instances), <tt><a href="ca_ancora-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
 
-`ADV` occurs with 4 feature-value pairs: `AdvType=Tim`, `Degree=Cmp`, `Foreign=Yes`, `Polarity=Neg`
+`ADV` occurs with 3 feature-value pairs: `Degree=Cmp`, `Foreign=Yes`, `Polarity=Neg`
 
-`ADV` occurs with 5 feature combinations.
+`ADV` occurs with 4 feature combinations.
 The most frequent feature combination is `_` (10335 tokens).
 Examples: <em>també, ja, després, ahir, molt, avui, només, ara, així, encara</em>
 

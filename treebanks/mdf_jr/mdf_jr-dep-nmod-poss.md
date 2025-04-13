@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-nmod.html">nmod</a></tt>.
 There are also 4 other language-specific subtypes of `nmod`: <tt><a href="mdf_jr-dep-nmod-bahuv.html">nmod:bahuv</a></tt>, <tt><a href="mdf_jr-dep-nmod-gobj.html">nmod:gobj</a></tt>, <tt><a href="mdf_jr-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="mdf_jr-dep-nmod-tmod.html">nmod:tmod</a></tt>.
 
-36 nodes (1%) are attached to their parents as `nmod:poss`.
+42 nodes (1%) are attached to their parents as `nmod:poss`.
 
-36 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.13888888888889.
+41 instances of `nmod:poss` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11904761904762.
 
-The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (27; 75% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (5; 14% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (4; 11% instances).
+The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (27; 64% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (10; 24% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (5; 12% instances).
 
 
 ~~~ conllu
@@ -37,6 +37,23 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 nmod:poss	color:blue
+1	Кальдявста	кальдявста	ADV	Adv	_	2	advmod:mmod	_	_
+2	тиень	тиемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScSg1|SpaceAfter=No
+3	,	,	PUNCT	CLB	_	6	punct	_	_
+4	тонь	тон	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	nmod:poss	_	GTtags=Pers,Sg2,Gen
+5	тевцень	тев	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=2	6	obj	_	GTtags=Sg,Gen,PxSg2
+6	юкстань	юкстамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past	2	appos	_	GTtags=TV,Ind,Prt1,ScSg1|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 8	bgColor:blue
@@ -51,23 +68,6 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 7	Покрышкинонь	Покрышкин	PROPN	N	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Masc|NameType=Sur|Number=Plur,Sing	8	nmod:poss	_	GTtags=Prop,Sem/Mal-Sur,SP,Gen,Indef
 8	дивизияса	дивизия	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	6	obl:lmod	_	GTtags=SP,Ine,Indef|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 nmod:poss	color:blue
-1	Кальдявста	кальдявста	ADV	Adv	_	2	advmod:mmod	_	_
-2	тиень	тиемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScSg1|SpaceAfter=No
-3	,	,	PUNCT	CLB	_	6	punct	_	_
-4	тонь	тон	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	nmod:poss	_	GTtags=Pers,Sg2,Gen
-5	тевцень	тев	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=2	6	obj	_	GTtags=Sg,Gen,PxSg2
-6	юкстань	юкстамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past	2	appos	_	GTtags=TV,Ind,Prt1,ScSg1|SpaceAfter=No
-7	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

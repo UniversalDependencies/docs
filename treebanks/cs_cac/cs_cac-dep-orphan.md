@@ -24,13 +24,13 @@ The following 63 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 6 7 orphan	color:blue
 1	Zodpovídá	zodpovídat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 2	:	:	PUNCT	Z:-------------	_	3	punct	3:punct	_
-3	ředitel	ředitel	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	1	nsubj	1:nsubj	_
-4	podniku	podnik	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	3	nmod	3:nmod:gen	SpaceAfter=No
+3	ředitel	ředitel	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
+4	podniku	podnik	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod:gen	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	6	punct	6.1:punct	_
-6	vícenáklady	vícenáklad	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	1	conj	6.1:dep	_
-7	PV	PV	NOUN	NNIXX-----A---8	Abbr=Yes|Animacy=Inan|Gender=Masc|Polarity=Pos	6	orphan	6.1:dep	_
-8	ROH	ROH	PROPN	NNNXX-----A---8	Abbr=Yes|Gender=Neut|NameType=Com|Polarity=Pos	7	nmod	7:nmod	_
-9	závodů	závod	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	8	nmod	8:nmod:gen	SpaceAfter=No
+6	vícenáklady	vícenáklad	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1	conj	6.1:dep	_
+7	PV	PV	NOUN	NNIXX-----A---8	Abbr=Yes|Animacy=Inan|Gender=Masc	6	orphan	6.1:dep	_
+8	ROH	ROH	PROPN	NNNXX-----A---8	Abbr=Yes|Gender=Neut|NameType=Com	7	nmod	7:nmod	_
+9	závodů	závod	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	8:nmod:gen	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
@@ -46,11 +46,11 @@ The following 63 pairs of parts of speech are connected with `orphan`: <tt><a hr
 2	tu	tady	ADV	Db------------1	PronType=Dem	4	advmod	4:advmod	_
 3	si	se	PRON	P7-X3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	4	obl	4:obl:dat	LGloss=(zvr._zájmeno/částice)
 4	vzít	vzít	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	0	root	0:root	LGloss=(př._sebrat_něco;_brát_ohled,_zřetel,...)
-5	bonbón	bonbón	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	4	obj	4:obj	SpaceAfter=No
+5	bonbón	bonbón	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	4:obj	SpaceAfter=No
 6	,	,	PUNCT	Z:-------------	_	7	punct	7.1:punct	_
 7	tu	tady	ADV	Db------------1	PronType=Dem	4	conj	7.1:advmod	_
-8	kolečko	kolečko	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	7	orphan	7.1:dep	_
-9	salámu	salám	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	8	nmod	8:nmod:gen	SpaceAfter=No
+8	kolečko	kolečko	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing	7	orphan	7.1:dep	_
+9	salámu	salám	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	8:nmod:gen	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
 ~~~
@@ -63,15 +63,15 @@ The following 63 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 6	fgColor:white
 # visual-style 6 7 orphan	color:blue
 1	Přijdou	přijít	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	pohovory	pohovor	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	1	nsubj	1:nsubj	SpaceAfter=No
+2	pohovory	pohovor	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	nsubj	1:nsubj	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
-4	dopisy	dopis	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	2	conj	1:nsubj|2:conj	_
+4	dopisy	dopis	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	conj	1:nsubj|2:conj	_
 5	a	a	CCONJ	J^-------------	_	6	cc	6.1:cc	LId=a-1
 6	nyní	nyní	ADV	Db-------------	PronType=Dem	1	conj	6.1:advmod	_
 7	ještě	ještě	ADV	Db-------------	_	6	orphan	6.1:advmod	_
 8	oddělená	oddělený	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	9	amod	9:amod	LDeriv=oddělit
-9	výplata	výplata	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	6	orphan	6.1:dep	_
-10	mzdy	mzda	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	9	nmod	9:nmod:gen	SpaceAfter=No
+9	výplata	výplata	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	6	orphan	6.1:dep	_
+10	mzdy	mzda	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	9	nmod	9:nmod:gen	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~

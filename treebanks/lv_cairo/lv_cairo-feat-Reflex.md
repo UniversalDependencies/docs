@@ -23,5 +23,5 @@ The most frequent other feature values with which `VERB` and `Reflex` co-occurre
 `VERB` tokens may have the following values of `Reflex`:
 
 * `Yes` (4; 100% of non-empty `Reflex`): <em>apskāvās, centās, izvēlēties, skaties</em>
-* `EMPTY` (28): <em>uzrakstīja, Nevarēja, apgriezt, atmest, atnākt, atstāja, atver, domā, gribi, ieguva</em>
+* `EMPTY` (27): <em>uzrakstīja, Nevarēja, apgriezt, atmest, atnākt, atstāja, atver, domā, gribi, ieguva</em>
 

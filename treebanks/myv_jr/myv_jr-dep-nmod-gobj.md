@@ -42,7 +42,7 @@ The following 2 pairs of parts of speech are connected with `nmod:gobj`: <tt><a 
 2	улеме	улемс	AUX	V	Case=Loc|VerbForm=Inf	1	cop	_	GTtags=IV,Inf,Loc
 3	кармить	кармамс	AUX	V	Aspect=Inch|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	1	aux:aspect	_	GTtags=IV,Ind,Prs,ScPl3
 4	примерэнь	пример	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	5	nmod:gobj	_	GTtags=SP,Gen,Indef
-5	саицяткак	саиця	NOUN	N	Case=Nom|Clitic=Add|Definite=Ind|Number=Plur	1	nsubj	_	GTtags=Pl,Nom,Indef,Add|SpaceAfter=No
+5	саицяткак	саиця	NOUN	N	Case=Nom|Clitic=Add|Definite=Ind|Nomzr=Ag|Number=Plur	1	nsubj	_	GTtags=Pl,Nom,Indef,Add|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	1	punct	_	_
 
 ~~~

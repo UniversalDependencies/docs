@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="en_pud-pos-DET.html
 
 ### `DET`
 
-1885 <tt><a href="en_pud-pos-DET.html">DET</a></tt> tokens (90% of all `DET` tokens) have a non-empty value of `Definite`.
+1885 <tt><a href="en_pud-pos-DET.html">DET</a></tt> tokens (91% of all `DET` tokens) have a non-empty value of `Definite`.
 
 The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="en_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (1885; 100%).
 
@@ -24,5 +24,5 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (1441; 76% of non-empty `Definite`): <em>the</em>
 * `Ind` (444; 24% of non-empty `Definite`): <em>a, an</em>
-* `EMPTY` (198): <em>this, all, some, that, these, each, no, both, another, every</em>
+* `EMPTY` (195): <em>this, all, some, that, these, each, no, both, another, every</em>
 

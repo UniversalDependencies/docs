@@ -23,8 +23,8 @@ The following 15 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 obj	color:blue
-1	收拾	收拾	VERB	_	_	0	root	_	SpaceAfter=No|Translit=shōushi|LTranslit=shōushi
-2	好	好	ADJ	_	_	1	compound:vv	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo
+1	收拾	收拾	VERB	_	_	0	root	_	SpaceAfter=No|Translit=shōushi|LTranslit=shōushi|Cxn=Resultative|CxnElt=1:Resultative.Event
+2	好	好	ADJ	_	_	1	compound:vv	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo|CxnElt=1:Resultative.ResultState
 3	哥哥	哥哥	NOUN	_	_	5	nmod	_	SpaceAfter=No|Translit=gēgē|LTranslit=gēgē
 4	的	的	PART	_	_	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	物品	物品	NOUN	_	_	1	obj	_	SpaceAfter=No|Translit=wùpǐn|LTranslit=wùpǐn
@@ -48,9 +48,9 @@ The following 15 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 3 5 obj	color:blue
 1	你	你	PRON	_	_	3	nsubj	_	SpaceAfter=No|Gloss=2SG|Translit=nǐ|LTranslit=nǐ
 2	在	在	ADV	_	_	3	advmod	_	SpaceAfter=No|Gloss=PROG|Translit=zài|LTranslit=zài
-3	找	找	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=find|Translit=zhǎo|LTranslit=zhǎo
+3	找	找	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=find|Translit=zhǎo|LTranslit=zhǎo|Cxn=Interrogative-WHInfo-Direct|CxnElt=3:Interrogative-WHInfo-Direct.Clause
 4	些	些	NOUN	_	NounType=Clf	5	clf	_	SpaceAfter=No|Gloss=CLF.PL|Translit=xiē|LTranslit=xiē
-5	什麼	什麼	PRON	_	_	3	obj	_	SpaceAfter=No|Gloss=what|Translit=shénme|LTranslit=shénme
+5	什麼	什麼	PRON	_	_	3	obj	_	SpaceAfter=No|Gloss=what|Translit=shénme|LTranslit=shénme|CxnElt=3:Interrogative-WHInfo-Direct.WHWord
 6	？	？	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=?|LTranslit=?
 
 ~~~
@@ -66,7 +66,7 @@ The following 15 pairs of parts of speech are connected with `obj`: <tt><a href=
 2	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 3	我	我	PRON	_	_	5	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 4	可以	可以	AUX	_	_	5	aux	_	SpaceAfter=No|Translit=kěyǐ|LTranslit=kěyǐ
-5	去	去	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qù|LTranslit=qù
+5	去	去	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qù|LTranslit=qù|Cxn=Interrogative-Polar-Direct|CxnElt=5:Interrogative-Polar-Direct.Clause
 6	看	看	VERB	_	_	5	conj	_	SpaceAfter=No|Translit=kàn|LTranslit=kàn
 7	新	新	ADJ	_	_	10	amod	_	SpaceAfter=No|Translit=xīn|LTranslit=xīn
 8	一	一	NUM	_	_	10	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī

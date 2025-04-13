@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-VIT: POS Tags: `ADP`
 
-There are 69 `ADP` lemmas (0%), 76 `ADP` types (0%) and 45566 `ADP` tokens (16%).
+There are 69 `ADP` lemmas (0%), 76 `ADP` types (0%) and 45567 `ADP` tokens (16%).
 Out of 17 observed tags, the rank of `ADP` is: 10 in number of lemmas, 11 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>di, a, in, per, da, con, su, tra, come, dopo</em>
@@ -63,7 +63,7 @@ The 10 most frequent ambiguous types:  <em>di</em> (<tt><a href="it_vit-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.101449 (the average of all parts of speech is 1.502468).
+The form / lemma ratio of `ADP` is 1.101449 (the average of all parts of speech is 1.502411).
 
 The 1st highest number of forms (3) was observed with the lemma “a”: <em>Al, a, ad</em>.
 
@@ -76,17 +76,17 @@ The 3rd highest number of forms (2) was observed with the lemma “come”: <em>
 `ADP` occurs with 4 feature-value pairs: `Foreign=Yes`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
 
 `ADP` occurs with 7 feature combinations.
-The most frequent feature combination is `_` (45548 tokens).
+The most frequent feature combination is `_` (45549 tokens).
 Examples: <em>di, a, in, per, da, con, su, tra, ad, come</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 14 different relations: <tt><a href="it_vit-dep-case.html">case</a></tt> (41977; 92% instances), <tt><a href="it_vit-dep-mark.html">mark</a></tt> (2881; 6% instances), <tt><a href="it_vit-dep-fixed.html">fixed</a></tt> (625; 1% instances), <tt><a href="it_vit-dep-obl.html">obl</a></tt> (20; 0% instances), <tt><a href="it_vit-dep-conj.html">conj</a></tt> (16; 0% instances), <tt><a href="it_vit-dep-nmod.html">nmod</a></tt> (12; 0% instances), <tt><a href="it_vit-dep-cc.html">cc</a></tt> (11; 0% instances), <tt><a href="it_vit-dep-advmod.html">advmod</a></tt> (8; 0% instances), <tt><a href="it_vit-dep-iobj.html">iobj</a></tt> (6; 0% instances), <tt><a href="it_vit-dep-flat-name.html">flat:name</a></tt> (4; 0% instances), <tt><a href="it_vit-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="it_vit-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="it_vit-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-obj.html">obj</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 14 different relations: <tt><a href="it_vit-dep-case.html">case</a></tt> (41978; 92% instances), <tt><a href="it_vit-dep-mark.html">mark</a></tt> (2881; 6% instances), <tt><a href="it_vit-dep-fixed.html">fixed</a></tt> (625; 1% instances), <tt><a href="it_vit-dep-obl.html">obl</a></tt> (20; 0% instances), <tt><a href="it_vit-dep-conj.html">conj</a></tt> (16; 0% instances), <tt><a href="it_vit-dep-nmod.html">nmod</a></tt> (12; 0% instances), <tt><a href="it_vit-dep-cc.html">cc</a></tt> (11; 0% instances), <tt><a href="it_vit-dep-advmod.html">advmod</a></tt> (8; 0% instances), <tt><a href="it_vit-dep-iobj.html">iobj</a></tt> (6; 0% instances), <tt><a href="it_vit-dep-flat-name.html">flat:name</a></tt> (4; 0% instances), <tt><a href="it_vit-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="it_vit-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="it_vit-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 15 different parts of speech: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (34037; 75% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (4191; 9% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (2926; 6% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1675; 4% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1074; 2% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (863; 2% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (299; 1% instances), <tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (289; 1% instances), <tt><a href="it_vit-pos-X.html">X</a></tt> (101; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (82; 0% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (3; 0% instances),  (2; 0% instances)
+Parents of `ADP` nodes belong to 14 different parts of speech: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (34048; 75% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (4196; 9% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (2926; 6% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1675; 4% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1070; 2% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (864; 2% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (299; 1% instances), <tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (289; 1% instances), <tt><a href="it_vit-pos-X.html">X</a></tt> (101; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (82; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (3; 0% instances),  (2; 0% instances)
 
-45362 (100%) `ADP` nodes are leaves.
+45363 (100%) `ADP` nodes are leaves.
 
 145 (0%) `ADP` nodes have one child.
 

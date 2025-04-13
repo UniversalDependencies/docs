@@ -12,15 +12,15 @@ udver: '2'
 # UD English GUM
 
 Language: [English](/en/index.html) (code: `en`)<br/>
-Family: Indo-European, Germanic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
 
 The following people have contributed to making this treebank part of UD: Siyao Peng, Amir Zeldes.
 
 Repository: [UD_English-GUM](https://github.com/UniversalDependencies/UD_English-GUM)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gum214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gum215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -50,7 +50,7 @@ Universal Dependencies syntax annotations from the GUM corpus (https://gucorplin
 
 GUM, the Georgetown University Multilayer corpus, is an open source collection of richly annotated texts from multiple text types. The corpus is collected and expanded by students as part of the curriculum in the course LING-4427 "Computational Corpus Linguistics" at Georgetown University. The selection of text types is meant to represent different communicative purposes, while coming from sources that are readily and openly available (usually Creative Commons licenses), so that new texts can be annotated and published with ease.
 
-The dependencies in the corpus up to GUM version 5 were originally annotated using Stanford Typed Depenencies (de Marneffe & Manning 2013) and converted automatically to UD using DepEdit (https://gucorpling.org/depedit/). The rule-based conversion took into account gold entity annotations found in other annotation layers of the GUM corpus (e.g. entity annotations), and has since been corrected manually in native UD. The original conversion script used can found in the GUM build bot code from version 5, available from the (non-UD) GUM repository. Documents from version 6 of GUM onwards were annotated directly in UD, and subsequent manual error correction to all GUM data has also been done directly using the UD guidelines. Enhanced dependencies were added semi-automatically from version 7.1 of the corpus. For more details see the [corpus website](https://gucorpling.org/gum/).
+The dependencies in the corpus up to GUM version 5 were originally annotated using Stanford Typed Depenencies (de Marneffe & Manning 2013) and converted automatically to UD using DepEdit (https://gucorpling.org/depedit/). The rule-based conversion took into account gold annotations found in other annotation layers of the GUM corpus (e.g. entity annotations), and has since been corrected manually in native UD. The original conversion script used can found in the GUM build bot code from version 5, available from the (non-UD) GUM repository. Documents from version 6 of GUM onwards were annotated directly in UD, and subsequent manual error correction to all GUM data has also been done directly using the UD guidelines. Enhanced dependencies were added semi-automatically from version 7.1 of the corpus. For more details see the [corpus website](https://gucorpling.org/gum/).
 
 ## Acknowledgments
 
@@ -107,6 +107,23 @@ url={https://arxiv.org/abs/2403.13560}
 }
 ```
 
+For papers using GDTB/PDTB style shallow discourse relations, please cite:
+
+* Yang Janet Liu, Tatsuya Aoyama, Wesley Scivetti, Yilun Zhu, Shabnam Behzad, Lauren Elizabeth Levine, Jessica Lin, Devika Tiwari, and Amir Zeldes (2024), "GDTB: Genre Diverse Data for English Shallow Discourse Parsing across Modalities, Text Types, and Domains". In: Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing. Association for Computational Linguistics: Miami, USA.
+
+```bibtex
+@inproceedings{liu-etal-2024-GDTB,
+title = "GDTB: Genre Diverse Data for English Shallow Discourse Parsing across Modalities, Text Types, and Domains",
+author = "Yang Janet Liu and Tatsuya Aoyama and Wesley Scivetti and Yilun Zhu and Shabnam Behzad and Lauren Elizabeth Levine and Jessica Lin and Devika Tiwari and Amir Zeldes",
+booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+month = nov,
+year = "2024",
+address = "Miami, USA",
+publisher = "Association for Computational Linguistics",
+abstract = "Work on shallow discourse parsing in English has focused on the Wall Street Journal corpus, the only large-scale dataset for the language in the PDTB framework. However, the data is not openly available, is restricted to the news domain, and is by now 35 years old. In this paper, we present and evaluate a new open-access, multi-genre benchmark for PDTB-style shallow discourse parsing, based on the existing UD English GUM corpus, for which discourse relation annotations in other frameworks already exist. In a series of experiments on cross-domain relation classification, we show that while our dataset is compatible with PDTB, substantial out-of-domain degradation is observed, which can be alleviated by joint training on both datasets.",
+}
+```
+
 If you are using the OntoNotes schema version of the coreference annotations (a.k.a. OntoGUM data in `coref/ontogum/`), please cite this paper instead:
 
 ```
@@ -143,21 +160,21 @@ pages = {170--175},
 
 ## Features
 
-[Abbr](en_gum-feat-Abbr.html) – [Case](en_gum-feat-Case.html) – [Definite](en_gum-feat-Definite.html) – [Degree](en_gum-feat-Degree.html) – [Foreign](en_gum-feat-Foreign.html) – [Gender](en_gum-feat-Gender.html) – [Mood](en_gum-feat-Mood.html) – [Number](en_gum-feat-Number.html) – [NumForm](en_gum-feat-NumForm.html) – [NumType](en_gum-feat-NumType.html) – [Person](en_gum-feat-Person.html) – [Polarity](en_gum-feat-Polarity.html) – [Poss](en_gum-feat-Poss.html) – [PronType](en_gum-feat-PronType.html) – [Reflex](en_gum-feat-Reflex.html) – [Style](en_gum-feat-Style.html) – [Tense](en_gum-feat-Tense.html) – [Typo](en_gum-feat-Typo.html) – [VerbForm](en_gum-feat-VerbForm.html) – [Voice](en_gum-feat-Voice.html)
+[Abbr](en_gum-feat-Abbr.html) – [Case](en_gum-feat-Case.html) – [Definite](en_gum-feat-Definite.html) – [Degree](en_gum-feat-Degree.html) – [ExtPos](en_gum-feat-ExtPos.html) – [Foreign](en_gum-feat-Foreign.html) – [Gender](en_gum-feat-Gender.html) – [Mood](en_gum-feat-Mood.html) – [Number](en_gum-feat-Number.html) – [NumForm](en_gum-feat-NumForm.html) – [NumType](en_gum-feat-NumType.html) – [Person](en_gum-feat-Person.html) – [Polarity](en_gum-feat-Polarity.html) – [Poss](en_gum-feat-Poss.html) – [PronType](en_gum-feat-PronType.html) – [Reflex](en_gum-feat-Reflex.html) – [Style](en_gum-feat-Style.html) – [Tense](en_gum-feat-Tense.html) – [Typo](en_gum-feat-Typo.html) – [VerbForm](en_gum-feat-VerbForm.html) – [Voice](en_gum-feat-Voice.html)
 
 ## Relations
 
-[acl](en_gum-dep-acl.html) – [acl:relcl](en_gum-dep-acl-relcl.html) – [advcl](en_gum-dep-advcl.html) – [advcl:relcl](en_gum-dep-advcl-relcl.html) – [advmod](en_gum-dep-advmod.html) – [amod](en_gum-dep-amod.html) – [appos](en_gum-dep-appos.html) – [aux](en_gum-dep-aux.html) – [aux:pass](en_gum-dep-aux-pass.html) – [case](en_gum-dep-case.html) – [cc](en_gum-dep-cc.html) – [cc:preconj](en_gum-dep-cc-preconj.html) – [ccomp](en_gum-dep-ccomp.html) – [compound](en_gum-dep-compound.html) – [compound:prt](en_gum-dep-compound-prt.html) – [conj](en_gum-dep-conj.html) – [cop](en_gum-dep-cop.html) – [csubj](en_gum-dep-csubj.html) – [csubj:outer](en_gum-dep-csubj-outer.html) – [csubj:pass](en_gum-dep-csubj-pass.html) – [dep](en_gum-dep-dep.html) – [det](en_gum-dep-det.html) – [det:predet](en_gum-dep-det-predet.html) – [discourse](en_gum-dep-discourse.html) – [dislocated](en_gum-dep-dislocated.html) – [expl](en_gum-dep-expl.html) – [fixed](en_gum-dep-fixed.html) – [flat](en_gum-dep-flat.html) – [goeswith](en_gum-dep-goeswith.html) – [iobj](en_gum-dep-iobj.html) – [list](en_gum-dep-list.html) – [mark](en_gum-dep-mark.html) – [nmod](en_gum-dep-nmod.html) – [nmod:npmod](en_gum-dep-nmod-npmod.html) – [nmod:poss](en_gum-dep-nmod-poss.html) – [nmod:tmod](en_gum-dep-nmod-tmod.html) – [nsubj](en_gum-dep-nsubj.html) – [nsubj:outer](en_gum-dep-nsubj-outer.html) – [nsubj:pass](en_gum-dep-nsubj-pass.html) – [nummod](en_gum-dep-nummod.html) – [obj](en_gum-dep-obj.html) – [obl](en_gum-dep-obl.html) – [obl:agent](en_gum-dep-obl-agent.html) – [obl:npmod](en_gum-dep-obl-npmod.html) – [obl:tmod](en_gum-dep-obl-tmod.html) – [orphan](en_gum-dep-orphan.html) – [parataxis](en_gum-dep-parataxis.html) – [punct](en_gum-dep-punct.html) – [reparandum](en_gum-dep-reparandum.html) – [root](en_gum-dep-root.html) – [vocative](en_gum-dep-vocative.html) – [xcomp](en_gum-dep-xcomp.html)
+[acl](en_gum-dep-acl.html) – [acl:relcl](en_gum-dep-acl-relcl.html) – [advcl](en_gum-dep-advcl.html) – [advcl:relcl](en_gum-dep-advcl-relcl.html) – [advmod](en_gum-dep-advmod.html) – [amod](en_gum-dep-amod.html) – [appos](en_gum-dep-appos.html) – [aux](en_gum-dep-aux.html) – [aux:pass](en_gum-dep-aux-pass.html) – [case](en_gum-dep-case.html) – [cc](en_gum-dep-cc.html) – [cc:preconj](en_gum-dep-cc-preconj.html) – [ccomp](en_gum-dep-ccomp.html) – [compound](en_gum-dep-compound.html) – [compound:prt](en_gum-dep-compound-prt.html) – [conj](en_gum-dep-conj.html) – [cop](en_gum-dep-cop.html) – [csubj](en_gum-dep-csubj.html) – [csubj:outer](en_gum-dep-csubj-outer.html) – [csubj:pass](en_gum-dep-csubj-pass.html) – [dep](en_gum-dep-dep.html) – [det](en_gum-dep-det.html) – [det:predet](en_gum-dep-det-predet.html) – [discourse](en_gum-dep-discourse.html) – [dislocated](en_gum-dep-dislocated.html) – [expl](en_gum-dep-expl.html) – [fixed](en_gum-dep-fixed.html) – [flat](en_gum-dep-flat.html) – [goeswith](en_gum-dep-goeswith.html) – [iobj](en_gum-dep-iobj.html) – [list](en_gum-dep-list.html) – [mark](en_gum-dep-mark.html) – [nmod](en_gum-dep-nmod.html) – [nmod:poss](en_gum-dep-nmod-poss.html) – [nmod:unmarked](en_gum-dep-nmod-unmarked.html) – [nsubj](en_gum-dep-nsubj.html) – [nsubj:outer](en_gum-dep-nsubj-outer.html) – [nsubj:pass](en_gum-dep-nsubj-pass.html) – [nummod](en_gum-dep-nummod.html) – [obj](en_gum-dep-obj.html) – [obl](en_gum-dep-obl.html) – [obl:agent](en_gum-dep-obl-agent.html) – [obl:unmarked](en_gum-dep-obl-unmarked.html) – [orphan](en_gum-dep-orphan.html) – [parataxis](en_gum-dep-parataxis.html) – [punct](en_gum-dep-punct.html) – [reparandum](en_gum-dep-reparandum.html) – [root](en_gum-dep-root.html) – [vocative](en_gum-dep-vocative.html) – [xcomp](en_gum-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 12147 sentences, 208332 tokens and 211920 syntactic words.</li>
+<li>This corpus contains 12146 sentences, 208331 tokens and 211920 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 29265 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 29282 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -169,8 +186,8 @@ pages = {170--175},
 </ul>
 
 <ul>
-<li>This corpus contains 3588 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 563 types of multi-word tokens. Examples: it's, don't, I'm, that's, you're, gonna, it’s, they're, didn't, there's, I've, we're, can't, don’t, he's, let's, I'll, I’m, doesn't, cannot, she's, that’s, what's, isn't, you'll, I'd, wasn't, won't, you'd, you’re, city's, didn’t, we've, we’re, you've, haven't, who's, couldn't, she’s, wanna, Warhol's, world's, can’t, wouldn't, you’ve, aren't, let’s, we'll, he’s, shouldn't.</li>
+<li>This corpus contains 3589 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 564 types of multi-word tokens. Examples: it's, don't, I'm, that's, you're, gonna, it’s, they're, didn't, there's, I've, we're, can't, don’t, he's, let's, I'll, I’m, doesn't, cannot, she's, that’s, what's, isn't, you'll, I'd, wasn't, won't, you'd, you’re, city's, didn’t, we've, we’re, you've, haven't, who's, couldn't, she’s, wanna, Warhol's, world's, can’t, wouldn't, you’ve, aren't, let’s, we'll, he’s, shouldn't.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -213,7 +230,7 @@ pages = {170--175},
   <li>Fin
   <ul>
     <li>AUX: is, was, can, are, will, 's, would, do, should, could</li>
-    <li>VERB: have, know, said, think, had, has, are, want, get, let</li>
+    <li>VERB: have, know, said, think, had, has, are, want, let, get</li>
   </ul>
   </li>
 </ul>
@@ -296,7 +313,7 @@ pages = {170--175},
       <li>DET: these, those</li>
       <li>NOUN: people, years, things, days, guys, data, minutes, others, studies, children</li>
       <li>PRON: we, they, our, their, them, us, you, those, these, 's</li>
-      <li>PROPN: States, Americans, Nations, skittles, Chathams, Mets, Sox, Democrats, Olmec, Muslims</li>
+      <li>PROPN: States, Americans, Nations, skittles, Chathams, Pirates, Mets, Sox, Democrats, Olmec</li>
       <li>VERB-Fin: have, are, had, know, need, want, make, do, go, got</li>
     </ul>
   </li>
@@ -305,7 +322,7 @@ pages = {170--175},
 <ul>
   <li>Ptan
     <ul>
-      <li>NOUN: clothes, species, thanks, pants, glasses, means, newspapers, politics, jeans, surroundings</li>
+      <li>NOUN: clothes, species, thanks, pants, glasses, means, newspapers, 1960s, politics, jeans</li>
       <li>PROPN: Netherlands, Olympics, Commons, Paralympics, Philippines, Vans, Analytics, Andes, Forties, Maldives</li>
     </ul>
   </li>
@@ -314,22 +331,15 @@ pages = {170--175},
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: Alone</li>
-      <li>ADV: Always, Now, Alike, Little, Loud, Out, Too, Truly, northwest, south</li>
       <li>AUX: is, was, 's, has, do, 'm, did, ’s, had, does</li>
       <li>AUX-Fin: is, was, 's, has, do, 'm, did, ’s, had, does</li>
       <li>DET: this, that, half</li>
       <li>NOUN: time, day, way, life, world, year, city, today, work, example</li>
       <li>NUM: half, Seven, Three</li>
       <li>PRON: i, it, you, he, that, his, your, my, this, she</li>
-      <li>PROPN: University, President, York, New, America, Warhol, north, figure, south, Scientology</li>
-      <li>PUNCT: point</li>
+      <li>PROPN: University, President, York, New, America, Warhol, figure, south, Scientology, north</li>
       <li>SYM: %</li>
-      <li>VERB: know, said, think, has, have, had, is, 's, mean, want</li>
       <li>VERB-Fin: know, said, think, has, have, had, is, 's, mean, want</li>
-      <li>VERB-Ger: Concerning, Hunting, Talking</li>
-      <li>VERB-Inf: Avoid, Ditch, Hydrodynamica, Talk, Write</li>
-      <li>VERB-Part: United, Combined, Protected, Rated</li>
     </ul>
   </li>
 </ul>
@@ -341,7 +351,7 @@ pages = {170--175},
 <ul>
   <li>Acc
     <ul>
-      <li>PRON: it, you, me, them, us, him, her, 's, yourself, himself</li>
+      <li>PRON: it, you, me, them, us, him, her, 's, himself, yourself</li>
     </ul>
   </li>
 </ul>
@@ -402,11 +412,8 @@ pages = {170--175},
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: other, new, many, good, little, different, first, such, same, last</li>
+      <li>ADJ: other, new, many, good, little, different, first, same, last, own</li>
       <li>ADV: really, well, back, still, again, too, away, much, probably, actually</li>
-      <li>DET: all, such</li>
-      <li>NOUN: etc.</li>
-      <li>PUNCT: —</li>
     </ul>
   </li>
 </ul>
@@ -427,18 +434,18 @@ pages = {170--175},
 <ul>
   <li>Neg
     <ul>
-      <li>ADJ: universal, non-avian, unable, unknown, unlikely, unprecedented, unconscious, unfamiliar, unrelated, uncertain</li>
-      <li>ADV: never, no, unfortunately, nowhere, unambiguously, undoubtedly, Ne, pas, unanimously, unawares</li>
-      <li>DET: no</li>
+      <li>ADV: no</li>
+      <li>CCONJ: nor, neither</li>
       <li>INTJ: no</li>
-      <li>NOUN: none, discomfort, non-realism, non-art, non-cooperation, non-fiction, non-locals, non-philosophers, non-proliferation, nowhere</li>
       <li>PART: not, n't, n’t, n`t</li>
-      <li>PRON: nothing</li>
-      <li>PROPN: Non-Proliferation, pas</li>
-      <li>VERB-Fin: dismounted, Uncover, unclenched, uncovered</li>
-      <li>VERB-Inf: undo, disband, disentangle</li>
-      <li>VERB-Part: uncovered, disbanded</li>
-      <li>X: no</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pos
+    <ul>
+      <li>INTJ: yeah, yes</li>
     </ul>
   </li>
 </ul>
@@ -474,7 +481,7 @@ pages = {170--175},
   <li>Sub
     <ul>
       <li>AUX-Fin: were, be</li>
-      <li>VERB-Fin: collaborate, do, look, rise, wear, were</li>
+      <li>VERB-Fin: become, collaborate, face, look, rise, rule, wear, were</li>
     </ul>
   </li>
 </ul>
@@ -554,7 +561,7 @@ pages = {170--175},
 <ul>
   <li>Ind
     <ul>
-      <li>DET: some, all, any, every, another, each, both, half, Mat, and</li>
+      <li>DET: some, all, any, every, another, each, both, half, such, Mat</li>
       <li>PRON: something, anything, someone, anyone, somebody, anybody</li>
     </ul>
   </li>
@@ -602,7 +609,6 @@ pages = {170--175},
       <li>ADV: where, how, why, when, whenever, wherever, however</li>
       <li>DET: what, whatever</li>
       <li>PRON: that, which, who, what, whatever, whom, whose, Whosoever, whoever, wish</li>
-      <li>SCONJ: that</li>
     </ul>
   </li>
 </ul>
@@ -623,6 +629,7 @@ pages = {170--175},
 <ul>
   <li>Card
     <ul>
+      <li>NOUN: 1960s, 1970s, 1950s, 1980s, 1990s, 1830s, 1920s, 1930s, 1940s, 2000s</li>
       <li>NUM: one, two, 1, three, 2, 3, four, 4, five, 10</li>
       <li>PROPN: EIGHT, One</li>
     </ul>
@@ -727,15 +734,53 @@ pages = {170--175},
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: OK, US, Jr.</li>
+          <li>ADJ: OK, US, Jr., U.</li>
           <li>ADP: vs., vs</li>
           <li>ADV: e.g., i.e., c., ca., PS, approx.</li>
           <li>INTJ: OK</li>
           <li>NOUN: etc., TV, a.m., GIS, DNA, p., p.m., No., Ph.D., DAB</li>
-          <li>PRON: WHO</li>
           <li>PROPN: U.S., US, NASA, Mr., NATO, USI, DH, CC, St., Dr.</li>
           <li>VERB-Part: b., d., div., m.</li>
           <li>X: al., Mlle., P.S.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADJ: such</li>
+          <li>ADV: prior</li>
+          <li>VERB-Part: according</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADJ: more, less, fewer</li>
+          <li>ADP: of, at, up, in</li>
+          <li>ADV: as, more, less, instead, just, close</li>
+          <li>DET: all</li>
+          <li>NOUN: kind, sort</li>
+          <li>PRON: that</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADV: as</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>DET: each</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADJ: such</li>
         </ul>
       </li>
     </ul>
@@ -769,6 +814,7 @@ pages = {170--175},
         <ul>
           <li>ADJ: 19th, 20th, 30th, 3rd, 10th, 21st, 17th, 2nd, 33rd, 50th</li>
           <li>ADV: 135th, 15th</li>
+          <li>NOUN: 1960s, 1970s, 1950s, 1980s, 1990s, 1830s, 1920s, 1930s, 1940s, 2000s</li>
         </ul>
       </li>
       <li>Digit
@@ -844,9 +890,9 @@ pages = {170--175},
           <li>PUNCT: ", -, ., ,, [, |, ’</li>
           <li>SCONJ: cuz, cause, despite, that</li>
           <li>VERB: dwibbling, got, Pre, questi, se, set, understand, United, Untied, address</li>
-          <li>VERB-Fin: set, address, begun, belidve, belie-, beraded, cause, construe, counteracts, cross-breeded</li>
+          <li>VERB-Fin: set, address, begun, belidve, belie-, beraded, cause, construe, contribute, counteracts</li>
           <li>VERB-Ger: leading, recurring, traightening</li>
-          <li>VERB-Inf: understand, breath, contribute, experience, fall, happen, loose, makke, recieve, to</li>
+          <li>VERB-Inf: understand, breath, experience, fall, happen, loose, makke, recieve, to, understan-</li>
           <li>VERB-Part: dwibbling, got, United, Untied, charged, deeping, disappeared, exper-, food, going</li>
         </ul>
       </li>
@@ -863,7 +909,7 @@ pages = {170--175},
 </ul>
 
 <ul>
-<li>This corpus uses 13 lemmas as auxiliaries (<a>aux</a>). Examples: have, be, do, can, will, would, should, could, may, must, might, shall, ought.</li>
+<li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: have, be, do, can, will, would, should, could, may, must, might, shall.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be, get.</li>
 </ul>
 
@@ -874,14 +920,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--PRON-Nom (3)</li>
-      <li>VERB-Fin--NOUN (1993)</li>
+      <li>VERB-Fin--NOUN (2008)</li>
       <li>VERB-Fin--PRON (750)</li>
-      <li>VERB-Fin--PRON-Nom (3712)</li>
+      <li>VERB-Fin--PRON-Nom (3720)</li>
       <li>VERB-Ger--NOUN (17)</li>
       <li>VERB-Ger--PRON-Nom (6)</li>
-      <li>VERB-Inf--NOUN (463)</li>
+      <li>VERB-Inf--NOUN (445)</li>
       <li>VERB-Inf--PRON (168)</li>
-      <li>VERB-Inf--PRON-Nom (1555)</li>
+      <li>VERB-Inf--PRON-Nom (1543)</li>
       <li>VERB-Part--NOUN (351)</li>
       <li>VERB-Part--PRON (113)</li>
       <li>VERB-Part--PRON-Gen (1)</li>
@@ -893,18 +939,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (2992)</li>
-      <li>VERB-Fin--PRON (248)</li>
-      <li>VERB-Fin--PRON-Acc (597)</li>
+      <li>VERB-Fin--NOUN (3009)</li>
+      <li>VERB-Fin--PRON (250)</li>
+      <li>VERB-Fin--PRON-Acc (600)</li>
       <li>VERB-Fin--PRON-Gen (2)</li>
-      <li>VERB-Ger--NOUN (416)</li>
+      <li>VERB-Ger--NOUN (417)</li>
       <li>VERB-Ger--PRON (18)</li>
       <li>VERB-Ger--PRON-Acc (33)</li>
-      <li>VERB-Inf--NOUN (2167)</li>
-      <li>VERB-Inf--PRON (323)</li>
-      <li>VERB-Inf--PRON-Acc (469)</li>
+      <li>VERB-Inf--NOUN (2151)</li>
+      <li>VERB-Inf--PRON (322)</li>
+      <li>VERB-Inf--PRON-Acc (466)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
-      <li>VERB-Part--NOUN (1114)</li>
+      <li>VERB-Part--NOUN (1111)</li>
       <li>VERB-Part--PRON (112)</li>
       <li>VERB-Part--PRON-Acc (140)</li>
     </ul>
@@ -940,6 +986,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:npmod</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:poss</a>, <a>nmod:unmarked</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:unmarked</a></li>
 <li>The following 1 relation types are not used in this corpus at all: <a>clf</a></li>
 </ul>

@@ -9,35 +9,37 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Com`, `Dat`, `Loc`, `Nom`, `Tem`.
 
-215 tokens (22%) have a non-empty value of `Case`.
-100 types (28%) occur at least once with a non-empty value of `Case`.
-76 lemmas (27%) occur at least once with a non-empty value of `Case`.
-The feature is used with 6 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (117; 12% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (82; 8% instances), <tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="apu_ufpa-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+225 tokens (23%) have a non-empty value of `Case`.
+102 types (28%) occur at least once with a non-empty value of `Case`.
+77 lemmas (27%) occur at least once with a non-empty value of `Case`.
+The feature is used with 6 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (127; 13% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (82; 8% instances), <tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="apu_ufpa-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-117 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (40% of all `NOUN` tokens) have a non-empty value of `Case`.
+127 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (43% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (91; 78%), <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (89; 76%), <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (88; 75%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (82; 70%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (107; 84%), <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (102; 80%), <tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (101; 80%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (94; 74%), <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (89; 70%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Com` (4; 3% of non-empty `Case`): <em>ytãnurukata, imiakurykata, iãkynykata, ũtanyrykata</em>
 * `Dat` (7; 6% of non-empty `Case`): <em>apikumunhi, aapukumunhi, sitatximunhi, ytanurumunhi</em>
-* `Loc` (13; 11% of non-empty `Case`): <em>kananeã, aapukutxiã, kawãryã, makiã, nytukarẽã, awinhinã, pawinhiã, ukinhiã, ãawinhinhĩã</em>
-* `Nom` (93; 79% of non-empty `Case`): <em>ximaky, awiri, yky, kyky, ãkiti, ũty, nynyru, pynyru, pyry, tiitxi</em>
-* `EMPTY` (179): <em>iãtã, awinhi, ywãtãa, aapuku, maky, aapukutxi, sytu, ũimiakury, iãkynytikinhi, kumyry</em>
+* `Loc` (13; 10% of non-empty `Case`): <em>kananeã, aapukutxiã, kawãryã, makiã, nytukarẽã, awinhinã, pawinhiã, ukinhiã, ãawinhinhĩã</em>
+* `Nom` (103; 81% of non-empty `Case`): <em>ximaky, aapuku, awiri, yky, kyky, aapukutxi, ãkiti, ũty, nynyru, pynyru</em>
+* `EMPTY` (169): <em>iãtã, awinhi, ywãtãa, maky, sytu, ũimiakury, iãkynytikinhi, kumyry, kãkity, nhipukury</em>
 
 <table>
   <tr><th>Paradigm <i>awapukutxi</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Loc</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td><em>aapukumunhi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=No</tt></tt></td><td></td><td></td><td><em>aapukutxiã</em></td></tr>
-  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=Yes</tt></tt></td><td><em>ũaapuku</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>aapuku</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=No</tt></tt></td><td></td><td></td><td><em>aapukutxiã</em></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=No</tt></tt></td><td><em>aapukutxi</em></td><td></td><td><em>aapukutxiã</em></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=Yes</tt></tt></td><td><em>aapuku</em></td><td><em>aapukumunhi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=No</tt></tt></td><td></td><td></td><td><em>aapukutxiã</em></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=Yes</tt></tt></td><td><em>ũaapuku</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=No</tt></tt></td><td><em>aapukutxi</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=Yes</tt></tt></td><td><em>aapuku</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=Yes</tt></tt></td><td><em>aapuku</em></td><td></td><td></td></tr>
 </table>
 
-`Case` seems to be **lexical feature** of `NOUN`. 96% lemmas (53) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `NOUN`. 96% lemmas (54) occur only with one value of `Case`.
 
 ### `PRON`
 
@@ -112,8 +114,8 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="apu_ufpa-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (2; 100%),
 <tt>PROPN --[<tt><a href="apu_ufpa-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (2; 100%),
 <tt>NOUN --[<tt><a href="apu_ufpa-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="apu_ufpa-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="apu_ufpa-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="apu_ufpa-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> PROPN</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="apu_ufpa-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>PRON --[<tt><a href="apu_ufpa-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1; 100%).
 

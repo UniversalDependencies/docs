@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>ye</em> (<tt><a href="kmr_mg-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 15.250000 (the average of all parts of speech is 1.511556).
+The form / lemma ratio of `AUX` is 15.250000 (the average of all parts of speech is 1.510518).
 
 The 1st highest number of forms (32) was observed with the lemma “bûn”: <em>a, be, bibe, bibim, bibin, bibî, bin, bit, biwa, bû, bû bû, bû bûn, bûm, bûn, bûne, bûya, bûye, dibe, dibin, dibû, dibûm, e, im, in, me, ne, nebe, nebit, ya, ye, yî, î</em>.
 

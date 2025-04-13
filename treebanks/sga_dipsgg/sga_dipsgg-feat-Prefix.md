@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="sga_dipsgg-pos-ADJ.
 
 ### `ADJ`
 
-7 <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> tokens (24% of all `ADJ` tokens) have a non-empty value of `Prefix`.
+7 <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> tokens (23% of all `ADJ` tokens) have a non-empty value of `Prefix`.
 
 The most frequent other feature values with which `ADJ` and `Prefix` co-occurred: <tt><a href="sga_dipsgg-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sga_dipsgg-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (7; 100%), <tt><a href="sga_dipsgg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7; 100%).
 

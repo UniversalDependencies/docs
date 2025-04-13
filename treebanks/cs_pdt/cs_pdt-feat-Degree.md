@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-41146 tokens (12%) have a non-empty value of `Degree`.
-15044 types (28%) occur at least once with a non-empty value of `Degree`.
-6252 lemmas (23%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (35543; 11% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (5603; 2% instances).
+43692 tokens (13%) have a non-empty value of `Degree`.
+16440 types (31%) occur at least once with a non-empty value of `Degree`.
+6719 lemmas (25%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 2 part-of-speech tags: <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (38089; 11% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (5603; 2% instances).
 
 ### `ADJ`
 
-35543 <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> tokens (87% of all `ADJ` tokens) have a non-empty value of `Degree`.
+38089 <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> tokens (93% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (34640; 97%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (32655; 92%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (32655; 92%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24438; 69%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (20876; 59%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (37161; 98%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (33101; 87%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (33101; 87%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25660; 67%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (22802; 60%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (867; 2% of non-empty `Degree`): <em>větší, vyšší, menší, lepší, nižší, delší, starší, dražší, horší, větších</em>
-* `Pos` (33947; 96% of non-empty `Degree`): <em>další, české, nové, poslední, státní, možné, dalších, vlastní, národní, jiné</em>
+* `Pos` (36493; 96% of non-empty `Degree`): <em>další, české, nové, poslední, státní, možné, dalších, vlastní, národní, jiné</em>
 * `Sup` (729; 2% of non-empty `Degree`): <em>největší, nejlepší, nejvyšší, největším, nejlepším, největších, nejnižší, nejdůležitější, nejbližší, nejrůznějších</em>
-* `EMPTY` (5231): <em>první, druhé, prvním, třetí, druhou, druhý, prvního, prvních, druhá, druhém</em>
+* `EMPTY` (2678): <em>první, druhé, prvním, třetí, druhou, druhý, prvního, prvních, druhá, druhém</em>
 
 <table>
   <tr><th>Paradigm <i>velký</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -77,7 +77,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>velká</em></td><td></td><td><em>největší</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 96% lemmas (5150) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 96% lemmas (5617) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -102,12 +102,14 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1081; 83%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1300; 93%),
 <tt>ADV --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADV</tt> (81; 79%),
-<tt>ADJ --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> ADJ</tt> (28; 65%),
-<tt>ADJ --[<tt><a href="cs_pdt-dep-obl.html">obl</a></tt>]--> ADJ</tt> (20; 53%),
-<tt>ADJ --[<tt><a href="cs_pdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (15; 65%),
-<tt>ADJ --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (8; 80%),
-<tt>ADJ --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> ADV</tt> (2; 100%),
-<tt>ADJ --[<tt><a href="cs_pdt-dep-acl.html">acl</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="cs_pdt-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (40; 82%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> ADJ</tt> (34; 76%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-obl.html">obl</a></tt>]--> ADJ</tt> (31; 76%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-dep.html">dep</a></tt>]--> ADJ</tt> (22; 69%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (15; 71%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (15; 83%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-obl-arg.html">obl:arg</a></tt>]--> ADJ</tt> (13; 72%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (8; 80%).
 

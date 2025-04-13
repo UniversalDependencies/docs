@@ -12,7 +12,7 @@ It occurs with 6 different values: `Acc`, `Dat`, `Gen`, `Loc`, `Nom`, `Voc`.
 73 tokens (43%) have a non-empty value of `Case`.
 63 types (54%) occur at least once with a non-empty value of `Case`.
 53 lemmas (49%) occur at least once with a non-empty value of `Case`.
-The feature is used with 6 part-of-speech tags: <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (27; 16% instances), <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> (20; 12% instances), <tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (14; 8% instances), <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> (6; 4% instances), <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (27; 16% instances), <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> (19; 11% instances), <tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (14; 8% instances), <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> (7; 4% instances), <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 ### `NOUN`
 
@@ -37,16 +37,16 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-20 <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+19 <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 90%), <tt><a href="ltg_cairo-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (16; 80%), <tt><a href="ltg_cairo-feat-Person.html">Person</a></tt><tt>=3</tt> (12; 60%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 89%), <tt><a href="ltg_cairo-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (16; 84%), <tt><a href="ltg_cairo-feat-Person.html">Person</a></tt><tt>=3</tt> (12; 63%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (3; 15% of non-empty `Case`): <em>kuo, tuo, tū</em>
-* `Dat` (4; 20% of non-empty `Case`): <em>Jai, Jim, Maņ, jam</em>
+* `Acc` (3; 16% of non-empty `Case`): <em>kuo, tuo, tū</em>
+* `Dat` (4; 21% of non-empty `Case`): <em>Jai, Jim, Maņ, jam</em>
 * `Gen` (1; 5% of non-empty `Case`): <em>juo</em>
-* `Nom` (12; 60% of non-empty `Case`): <em>jis, tu, jei, Es, kurs</em>
+* `Nom` (11; 58% of non-empty `Case`): <em>jis, tu, jei, Es</em>
 
 <table>
   <tr><th>Paradigm <i>jis</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
@@ -76,16 +76,16 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `DET`
 
-6 <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
+7 <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 100%), <tt><a href="ltg_cairo-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 67%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 100%), <tt><a href="ltg_cairo-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 71%), <tt><a href="ltg_cairo-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4; 57%), <tt><a href="ltg_cairo-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4; 57%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Dat` (2; 33% of non-empty `Case`): <em>sovai, sovam</em>
-* `Gen` (1; 17% of non-empty `Case`): <em>kaida</em>
-* `Loc` (1; 17% of non-empty `Case`): <em>tamā</em>
-* `Nom` (2; 33% of non-empty `Case`): <em>Itei, Muns</em>
+* `Dat` (2; 29% of non-empty `Case`): <em>sovai, sovam</em>
+* `Gen` (1; 14% of non-empty `Case`): <em>kaida</em>
+* `Loc` (1; 14% of non-empty `Case`): <em>tamā</em>
+* `Nom` (3; 43% of non-empty `Case`): <em>Itei, Muns, kurs</em>
 
 ### `ADJ`
 

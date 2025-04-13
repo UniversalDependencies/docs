@@ -22,7 +22,7 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 flat:name	color:blue
-1	Эзь	а	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	2	aux:neg	_	CGdephead=#1-&gt;0|CGdeprel=@FAUX|CGdephead=#1-&gt;0|CGdeprel=@FAUX|GTtags=Aux,Neg,Ind,Prt1,ScSg3
+1	Эзь	а	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	2	aux	_	CGdephead=#1-&gt;0|CGdeprel=@FAUX|CGdephead=#1-&gt;0|CGdeprel=@FAUX|GTtags=Aux,Neg,Ind,Prt1,ScSg3
 2	маштово	маштовомс	VERB	V	Connegative=Yes	0	root	_	CGdephead=#2-&gt;1|CGdeprel=@IMV|CGdephead=#2-&gt;1|CGdeprel=@IMV|GTtags=Der/OvOms,V,ConNeg
 3	кочкамс	кочкамс	VERB	V	VerbForm=Inf	2	ccomp	_	CGdephead=#3-&gt;1|CGdeprel=@IMV|CGdephead=#3-&gt;1|CGdeprel=@IMV|GTtags=Inf
 4	Петя	Петя	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	3	obj	_	CGdephead=#4-&gt;1|CGdeprel=@&lt;SUBJ|CGdephead=#4-&gt;1|CGdeprel=@&lt;SUBJ|GTtags=Prop,Sg,Nom,Indef

@@ -29,7 +29,7 @@ The following 11 pairs of parts of speech are connected with `advmod`: <tt><a hr
 4	лангс	ланга	ADP	Adp	Case=Ill	3	case	_	_
 5	и	и	CCONJ	CC	_	8	cc	_	_
 6	цють	цють	ADV	Adv	_	8	advmod	_	_
-7	ашезе	аш	AUX	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Polarity=Neg|Tense=Past|VerbForm=Fin	8	aux:neg	_	_
+7	ашезе	аш	AUX	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Polarity=Neg|Tense=Past|VerbForm=Fin	8	aux	_	_
 8	синде	синдемс	VERB	V	Connegative=Yes	2	conj	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 

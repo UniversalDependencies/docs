@@ -135,8 +135,7 @@ udver: '2'
       <h3>Tags</h3>
       
       <ul>
-      <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
-      <li>This corpus does not use the following tags: X</li>
+      <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
   </tr>
@@ -265,7 +264,7 @@ udver: '2'
         <li>Fin
         <ul>
           <li>AUX: var, är, hade, kan, har, skulle, kunde, måste, vill, kommer</li>
-          <li>VERB: sa, var, hade, gick, kom, har, såg, sade, tog, är</li>
+          <li>VERB: sa, var, hade, gick, kom, har, såg, sade, är, tog</li>
         </ul>
         </li>
       </ul>
@@ -328,8 +327,8 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>ADJ: följande, flyttade, dolda, motsvarande, strålande, beredd, grundläggande, grupperade, intresserad, komplicerat</li>
-          <li>VERB: tvungen, taget, leende, tvungna, flåsande, gjort, svävande, tröstande, baserat, dansande</li>
+          <li>ADJ: följande, taget, flyttade, dolda, motsvarande, strålande, beredd, beroende, grundläggande, grupperade</li>
+          <li>VERB: tvungen, leende, taget, tvungna, flåsande, gjort, svävande, tröstande, baserat, dansande</li>
         </ul>
         </li>
       </ul>
@@ -339,6 +338,7 @@ udver: '2'
         <li>Part
         <ul>
           <li>ADJ: betydande, följande, kända, sett, allierade, förenta, känd, levande, omfattande, regisserad</li>
+          <li>VERB: Breaking</li>
         </ul>
         </li>
       </ul>
@@ -440,7 +440,8 @@ udver: '2'
             <li>ADJ: själv, stor, egen, annan, liten, vit, gammal, lång, sådan, ny</li>
             <li>ADJ-Part: beredd, intresserad, anpassad, beräknad, civiliserad, iförd, integrerad, ökad, Filtrerad, bebodd</li>
             <li>DET: en, den, någon, denna, ingen, all, varenda, vilken, denne, nån</li>
-            <li>NOUN: far, gång, man, sidan, del, mor, fråga, mr, mannen, tiden</li>
+            <li>NOUN: far, gång, man, sidan, del, mor, väg, fråga, mr, mannen</li>
+            <li>NUM: en</li>
             <li>PRON: han, jag, du, vi, hon, honom, mig, den, sin, man</li>
             <li>PROPN: Stella, Athena, Alice, Jove, Dior, Hefaistos, Lutyens, Psaltaren, Ringen, Rover</li>
             <li>VERB: krigsmålad</li>
@@ -457,7 +458,7 @@ udver: '2'
             <li>DET: en, den, denna, någon, ingen, all, ett, vilken</li>
             <li>NOUN: personer, miljoner, grund, oktober, världen, del, delen, tiden, plats, dollar</li>
             <li>NUM: en</li>
-            <li>PRON: han, jag, sin, hon, den, vi, honom, en, du, henne</li>
+            <li>PRON: han, jag, sin, den, hon, vi, honom, en, du, henne</li>
             <li>PROPN: Karels, låglandseuropa</li>
           </ul>
         </li>
@@ -499,13 +500,7 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <ul>
-        <li>Masc
-          <ul>
-            <li>PRON: denne</li>
-          </ul>
-        </li>
-      </ul>
+
     </td>
     <td width="33%" valign="top">
 
@@ -515,7 +510,6 @@ udver: '2'
         <li>Masc
           <ul>
             <li>NOUN: consensus</li>
-            <li>PRON: denne</li>
           </ul>
         </li>
       </ul>
@@ -526,11 +520,11 @@ udver: '2'
       <ul>
         <li>Neut
           <ul>
-            <li>ADJ: annat, stort, nytt, eget, litet, möjligt, svårt, rött, klart, visst</li>
-            <li>ADJ-Part: komplicerat, särskilt, filtrerat, överordnat, anpassat, balanserat, beräknat, Delat, avbränt, avlutat</li>
+            <li>ADJ: annat, stort, nytt, eget, litet, möjligt, svårt, rött, taget, klart</li>
+            <li>ADJ-Part: taget, komplicerat, särskilt, filtrerat, överordnat, anpassat, balanserat, beräknat, Delat, avbränt</li>
             <li>DET: ett, det, något, detta, inget, allt, vilket, nåt, intet, vartenda</li>
-            <li>NOUN: sätt, år, fält, data, ögon, ansikte, barn, fältet, huvudet, ögonblick</li>
-            <li>NUM: Ett</li>
+            <li>NOUN: sätt, år, fält, data, ögon, ansikte, barn, exempel, fältet, huvudet</li>
+            <li>NUM: ett</li>
             <li>PRON: det, vad, detta, sitt, allt, något, ingenting, mitt, vilket, annat</li>
             <li>PROPN: Cunards, Jung</li>
             <li>VERB: sitt</li>
@@ -543,7 +537,7 @@ udver: '2'
       <ul>
         <li>Neut
           <ul>
-            <li>ADJ: annat, nytt, otroligt, sett, öppet, allmänt, möjligt, stort, dåligt, eget</li>
+            <li>ADJ: annat, nytt, otroligt, sett, öppet, allmänt, möjligt, dåligt, eget, klart</li>
             <li>ADJ-Part: sett, Format, begränsat, bevakat, beväpnat, delat, drivet, färdigställt, följt, förbättrat</li>
             <li>DET: ett, det, detta, något, inget, vilket, allt</li>
             <li>NOUN: år, havet, fall, kriget, liv, antal, barn, åren, land, slutet</li>
@@ -651,10 +645,10 @@ udver: '2'
         <li>Sing
           <ul>
             <li>ADJ: själv, annat, stor, egen, annan, liten, ena, vit, gammal, lång</li>
-            <li>ADJ-Part: beredd, intresserad, komplicerat, anpassad, särskilt, filtrerat, överordnat, anpassat, balanserat, beräknad</li>
+            <li>ADJ-Part: taget, beredd, intresserad, komplicerat, anpassad, särskilt, filtrerat, överordnat, anpassat, balanserat</li>
             <li>DET: en, ett, den, det, någon, denna, något, detta, varje, ingen</li>
-            <li>NOUN: gång, sätt, far, man, sidan, del, fråga, mr, mannen, tiden</li>
-            <li>NUM: Ett</li>
+            <li>NOUN: gång, sätt, far, man, sidan, del, väg, fråga, mr, mannen</li>
+            <li>NUM: ett, en</li>
             <li>PRON: han, det, jag, du, hon, honom, mig, den, sin, vad</li>
             <li>PROPN: Harry, Dobby, Quinn, Bray, Auster, Don, Stillman, Clough, Gyllenroy, Lockman</li>
             <li>VERB: tvungen, krigsmålad, lastad, sitt, spräckt</li>
@@ -673,7 +667,7 @@ udver: '2'
             <li>DET: en, den, ett, det, denna, varje, detta, någon, något, ingen</li>
             <li>NOUN: havet, år, grund, oktober, världen, del, delen, kriget, liv, tiden</li>
             <li>NUM: en, ett</li>
-            <li>PRON: det, han, jag, sin, hon, den, detta, honom, sitt, vad</li>
+            <li>PRON: det, han, jag, sin, den, hon, detta, honom, sitt, vad</li>
             <li>PROPN: North, Punta, Amazon, Cuaron, Karels, Korint, Krasnoyarsk, MahaNakhon, Panamanäset, Slack</li>
           </ul>
         </li>
@@ -750,7 +744,7 @@ udver: '2'
           <ul>
             <li>ADJ: dödas, andras, andres, förflutnas, förgångnas, gräsligas, omyndigas, spetälskas, svartas, treliters</li>
             <li>ADJ-Part: förgångnas</li>
-            <li>NOUN: kommissionens, världens, sortens, diagrammets, mors, fars, fältets, min, bolagets, folkets</li>
+            <li>NOUN: slags, kommissionens, världens, sortens, diagrammets, mors, fars, fältets, min, bolagets</li>
             <li>PRON: sin, hans, min, sina, sitt, er, hennes, deras, mina, mitt</li>
             <li>PROPN: Harrys, Stillmans, Mwetas, Rons, Austers, EU:s, Dandos, Vernons, Weasleys, Europas</li>
             <li>VERB: sitt</li>
@@ -788,14 +782,14 @@ udver: '2'
         <li>Nom
           <ul>
             <li>ADJ: andra, själv, hela, samma, första, annat, flera, många, stor, enda</li>
-            <li>ADJ-Part: följande, flyttade, dolda, motsvarande, strålande, beredd, grundläggande, grupperade, intresserad, komplicerat</li>
-            <li>ADV: i, med, på, av, runt, efter, klart, igenom, korrekt, och</li>
+            <li>ADJ-Part: följande, taget, flyttade, dolda, motsvarande, strålande, beredd, beroende, grundläggande, grupperade</li>
+            <li>ADV: med, på, av, i, runt, efter, klart, igenom, korrekt, och</li>
             <li>AUX: haft, skola</li>
             <li>NOUN: sätt, år, far, fält, gång, man, sidan, del, data, mor</li>
             <li>NUM: U</li>
-            <li>PRON: han, jag, du, de, vi, hon, man, ni, sådan, lite</li>
+            <li>PRON: han, jag, du, de, vi, hon, man, ni, sådan, denne</li>
             <li>PROPN: Harry, Quinn, Stillman, Bray, Auster, Access, Microsoft, Ron, Weasley, Mweta</li>
-            <li>VERB: höll, närvarande, taget, förfogande, följande, gillande, gående, Beroende, betydande, flytande</li>
+            <li>VERB: höll, närvarande, förfogande, följande, gillande, gående, betydande, flytande, imponerande, liknande</li>
             <li>X: Aliquem, alium, coniunctis, internum</li>
           </ul>
         </li>
@@ -869,7 +863,7 @@ udver: '2'
             <li>ADJ: hela, gamla, ena, nya, stora, själva, egna, europeiska, andra, vita</li>
             <li>ADJ-Part: flyttade, rostade, avtalade, chockade, civiliserade, dolda, gångna, konverterade, lyckade, skyddade</li>
             <li>DET: den, de, det, denna, detta, dessa, dom, the, Le, La</li>
-            <li>NOUN: sidan, mannen, tiden, linjen, fältet, huvudet, informationen, kommissionen, rummet, ögonen</li>
+            <li>NOUN: sidan, mannen, tiden, linjen, fältet, huvudet, informationen, kommissionen, rummet, stället</li>
             <li>PRON: han, det, jag, sig, du, de, vi, hon, honom, mig</li>
             <li>PROPN: Psaltaren, Ringen, Tvillingarnas, Vintergatan</li>
             <li>VERB: kallade, sitt</li>
@@ -885,7 +879,7 @@ udver: '2'
             <li>ADJ-Part: allierade, misstänkte, Förenade, bildade, bundna, frusna, frånskilda, föreslagna, hyllade, idealiserade</li>
             <li>DET: den, de, det, denna, the, dessa, detta, a, båda, Die</li>
             <li>NOUN: havet, världen, delen, kriget, tiden, gången, regeringen, regionen, staden, åren</li>
-            <li>PRON: det, han, de, sig, hans, jag, sin, hon, den, sina</li>
+            <li>PRON: det, han, de, sig, hans, jag, sin, den, hon, sina</li>
             <li>PROPN: Panamanäset</li>
           </ul>
         </li>
@@ -911,9 +905,10 @@ udver: '2'
         <li>Ind
           <ul>
             <li>ADJ: själv, samma, andra, annat, flera, stor, många, egen, annan, liten</li>
-            <li>ADJ-Part: beredd, grupperade, intresserad, komplicerat, anpassad, dolda, särskilt, filtrerat, kapslade, relaterade</li>
+            <li>ADJ-Part: taget, beredd, grupperade, intresserad, komplicerat, anpassad, dolda, särskilt, filtrerat, kapslade</li>
             <li>DET: en, ett, någon, något, några, varje, ingen, inget, inga, varenda</li>
-            <li>NOUN: sätt, år, far, fält, gång, man, del, data, mor, fråga</li>
+            <li>NOUN: sätt, år, far, fält, gång, man, del, data, mor, väg</li>
+            <li>NUM: en, ett</li>
             <li>PRON: vad, man, allt, en, någon, något, ingenting, alla, vem, vilket</li>
             <li>PROPN: Cunards, Help, Jung, Tupperware</li>
             <li>VERB: krigsmålad</li>
@@ -1008,7 +1003,7 @@ udver: '2'
         <li>Cmp
           <ul>
             <li>ADJ: större, högre, bättre, mindre, äldre, längre, lättare, lägre, svårare, tidigare</li>
-            <li>ADV: mer, tidigare, mindre, vidare, mera, längre, senare, ytterligare, bättre, närmare</li>
+            <li>ADV: mer, tidigare, mindre, mera, längre, senare, vidare, ytterligare, bättre, närmare</li>
           </ul>
         </li>
       </ul>
@@ -1020,9 +1015,9 @@ udver: '2'
         <li>Pos
           <ul>
             <li>ADJ: andra, själv, hela, samma, första, annat, flera, många, stor, enda</li>
-            <li>ADJ-Part: följande, flyttade, motsvarande, strålande, beredd, dolda, grundläggande, grupperade, intresserad, komplicerat</li>
+            <li>ADJ-Part: följande, taget, flyttade, motsvarande, strålande, beredd, beroende, dolda, grundläggande, grupperade</li>
             <li>ADV: mycket, helt, länge, längre, väl, långt, lite, faktiskt, snart, bra</li>
-            <li>NOUN: vänster, dotter, död, slags, sågspån</li>
+            <li>NOUN: vänster, dotter, död, sågspån</li>
             <li>PROPN: Visual</li>
             <li>VERB: inbjudande, kallade</li>
           </ul>
@@ -1067,8 +1062,8 @@ udver: '2'
       <ul>
         <li>Sup
           <ul>
-            <li>ADJ: senaste, sista, högsta, största, bästa, främsta, bäst, flesta, värsta, bredast</li>
-            <li>ADV: mest, sist, främst, värst, Minst, helst, ytterst, knappast</li>
+            <li>ADJ: senaste, sista, högsta, största, bästa, främsta, sist, bäst, flesta, värsta</li>
+            <li>ADV: mest, främst, sist, värst, Minst, helst, ytterst, knappast</li>
           </ul>
         </li>
       </ul>
@@ -1107,7 +1102,7 @@ udver: '2'
         <li>Neg
           <ul>
             <li>ADV: aldrig, ingalunda, knappast</li>
-            <li>PART: ej, icke, inte</li>
+            <li>PART: inte, ej, icke</li>
           </ul>
         </li>
       </ul>
@@ -1227,10 +1222,10 @@ udver: '2'
             <li>ADJ-Part: förödmjukade</li>
             <li>AUX-Fin: var, är, hade, kan, har, skulle, kunde, måste, vill, kommer</li>
             <li>AUX-Sup: velat</li>
-            <li>VERB: sa, var, hade, gick, har, kom, såg, sade, tog, är</li>
-            <li>VERB-Fin: sa, var, hade, gick, har, kom, såg, sade, tog, är</li>
+            <li>VERB: sa, var, hade, gick, har, kom, såg, sade, är, tog</li>
+            <li>VERB-Fin: sa, var, hade, gick, har, kom, såg, sade, är, tog</li>
             <li>VERB-Inf: lyckas, fyllt, inställd, klädd, avslutad, skuggad, fylld, minnas, sett, anpassade</li>
-            <li>VERB-Part: tvungen, taget, leende, tvungna, flåsande, gjort, svävande, tröstande, baserat, dansande</li>
+            <li>VERB-Part: tvungen, leende, taget, tvungna, flåsande, gjort, svävande, tröstande, baserat, dansande</li>
             <li>VERB-Sup: lyckats, funnits, färdats, hoppats, misslyckats, ordats, träffats</li>
           </ul>
         </li>
@@ -1265,7 +1260,7 @@ udver: '2'
         <li>Sub
           <ul>
             <li>AUX-Fin: vore, måtte, finge</li>
-            <li>VERB-Fin: vore, LEVE, förbanne, ginge, vare, vete</li>
+            <li>VERB-Fin: vore, förbanne, LEVE, ginge, vare, vete</li>
           </ul>
         </li>
       </ul>
@@ -1306,7 +1301,7 @@ udver: '2'
       <ul>
         <li>Past
           <ul>
-            <li>ADJ-Part: flyttade, dolda, beredd, grupperade, intresserad, komplicerat, anpassad, civiliserade, rostade, särskilt</li>
+            <li>ADJ-Part: taget, flyttade, dolda, beredd, grupperade, intresserad, komplicerat, anpassad, civiliserade, rostade</li>
             <li>AUX-Fin: var, hade, skulle, kunde, ville, borde, fick, vore, blev, kom</li>
             <li>VERB-Fin: sa, var, hade, gick, kom, såg, sade, tog, fanns, fick</li>
             <li>VERB-Inf: behandlade, invigd, placerade, störd, åtlydd</li>
@@ -1344,7 +1339,7 @@ udver: '2'
       <ul>
         <li>Pres
           <ul>
-            <li>ADJ-Part: följande, motsvarande, strålande, grundläggande, levande, lysande, bländande, flygande, glänsande, liknande</li>
+            <li>ADJ-Part: följande, motsvarande, strålande, beroende, grundläggande, levande, lysande, bländande, flygande, glänsande</li>
             <li>AUX-Fin: är, kan, har, måste, vill, kommer, ska, skall, får, bör</li>
             <li>VERB-Fin: har, är, finns, vet, kommer, säger, gör, ser, tror, visas</li>
             <li>VERB-Part: Suckande</li>
@@ -1401,7 +1396,7 @@ udver: '2'
             <li>AUX-Inf: vara, ha, kunna, få, vilja, bli, komma</li>
             <li>AUX-Sup: varit, kunnat, blivit, fått, velat, kommit</li>
             <li>VERB: sa, var, hade, gick, kom, har, såg, ta, göra, sade</li>
-            <li>VERB-Fin: sa, var, hade, gick, kom, har, såg, sade, tog, är</li>
+            <li>VERB-Fin: sa, var, hade, gick, kom, har, såg, sade, är, tog</li>
             <li>VERB-Inf: göra, ta, se, gå, komma, använda, bli, få, ha, säga</li>
             <li>VERB-Part: leende, flåsande, svävande, tröstande, dansande, dinglande, fastställande, flämtande, frågande, gungande</li>
             <li>VERB-Sup: kommit, gjort, fått, varit, sett, gått, sagt, blivit, hört, tagit</li>
@@ -1445,7 +1440,7 @@ udver: '2'
           <ul>
             <li>ADJ-Part: förödmjukade</li>
             <li>NOUN-Sup: brits</li>
-            <li>VERB: visas, kändes, används, tvungen, hördes, tycktes, flyttas, talas, taget, skapats</li>
+            <li>VERB: visas, kändes, används, tvungen, hördes, tycktes, flyttas, talas, skapats, döljs</li>
             <li>VERB-Fin: visas, kändes, används, hördes, tycktes, flyttas, döljs, skapas, tycks, behövs</li>
             <li>VERB-Inf: talas, användas, fyllt, inställd, klädd, tänkas, visas, avslutad, köras, skuggad</li>
             <li>VERB-Part: tvungen, taget, tvungna, gjort, baserat, dödade, försvunnen, installerad, installerat, kallad</li>
@@ -1692,7 +1687,7 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>PRON: det, de, den, dem</li>
+            <li>PRON: det, de, den, dem, dess</li>
           </ul>
         </li>
       </ul>
@@ -1762,7 +1757,7 @@ udver: '2'
       <ul>
         <li>Tot
           <ul>
-            <li>DET: alla, varje, all, varenda, båda, allt, var, bägge, vartenda</li>
+            <li>DET: alla, varje, all, varenda, allt, båda, var, bägge, vartenda</li>
             <li>PRON: alla, allt, båda, var, bägge</li>
           </ul>
         </li>
@@ -1858,7 +1853,7 @@ udver: '2'
       <ul>
         <li>Ord
           <ul>
-            <li>ADJ: första, andra, tredje, fjärde, femte, andre, III, fjortonde, tionde, 25:e</li>
+            <li>ADJ: första, andra, tredje, fjärde, femte, andre, III, fjortonde, 25:e, 700:e</li>
           </ul>
         </li>
       </ul>
@@ -2016,7 +2011,7 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>ADJ: s k, s.k., ev, resp, Kungl, Kungl., S:t, Teol, fil, med</li>
+                <li>ADJ: s k, s.k., ev, resp, Kungl, Kungl., S:t, Teol, a., fil</li>
                 <li>ADP: f</li>
                 <li>ADV: t.ex., ca, t ex, bl.a., etc, bl a, dvs, osv, t o m, resp</li>
                 <li>NOUN: kr, %, dr, s., kap., proc, KPI, milj, mån, kl</li>
@@ -2035,10 +2030,12 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>ADJ: Extensible, Wide, Central, Grand, Visual, Advanced, Advertising, Arabic, Political, Universal</li>
+                <li>ADJ: Extensible, Wide, Visual, Advanced, Advertising, Arabic, Central, Grand, Political, Universal</li>
                 <li>ADP: ad, for</li>
-                <li>NOUN: Language, Stylesheet, Consortium, Transformation, World, Station, Markup, Memoirs, Protocol, Service</li>
+                <li>NOUN: Language, Stylesheet, Transformation, Consortium, World, Station, Memoirs, Morituri, Protocol, Service</li>
+                <li>PRON: te</li>
                 <li>PROPN: Web</li>
+                <li>VERB: salutant</li>
               </ul>
             </li>
           </ul>
@@ -2051,8 +2048,7 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>ADJ: American, National, New, Breaking, Civil, Environmental, First, Golden, Royal, Shaky</li>
-                <li>ADJ-Part: Breaking</li>
+                <li>ADJ: American, National, New, Civil, Environmental, First, Golden, Royal, Shaky, Simple</li>
                 <li>ADP: Over</li>
                 <li>NOUN: Business, Ground, Protection, Return, Services, Show, Things, View, Zimmer, concept</li>
                 <li>PRON: 'Ya, My</li>
@@ -2096,6 +2092,7 @@ udver: '2'
             <li>Yes
               <ul>
                 <li>ADJ-Part: mantalskriven, nurvarande</li>
+                <li>ADP: efter</li>
               </ul>
             </li>
           </ul>
@@ -2164,26 +2161,26 @@ udver: '2'
             <li>VERB--NOUN-Nom (4)</li>
             <li>VERB--PRON (1)</li>
             <li>VERB--PRON-Nom (2)</li>
-            <li>VERB-Fin--NOUN (8)</li>
+            <li>VERB-Fin--NOUN (6)</li>
             <li>VERB-Fin--NOUN-Gen (1)</li>
-            <li>VERB-Fin--NOUN-Nom (1245)</li>
+            <li>VERB-Fin--NOUN-Nom (1249)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(efter) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(i) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(med) (1)</li>
             <li>VERB-Fin--PRON (884)</li>
-            <li>VERB-Fin--PRON-Nom (2486)</li>
+            <li>VERB-Fin--PRON-Nom (2487)</li>
             <li>VERB-Fin--PRON-Nom-ADP(framför) (1)</li>
             <li>VERB-Inf--NOUN (1)</li>
-            <li>VERB-Inf--NOUN-Nom (192)</li>
-            <li>VERB-Inf--PRON (105)</li>
-            <li>VERB-Inf--PRON-Nom (727)</li>
-            <li>VERB-Part--NOUN-Nom (19)</li>
-            <li>VERB-Part--PRON (9)</li>
+            <li>VERB-Inf--NOUN-Nom (193)</li>
+            <li>VERB-Inf--PRON (104)</li>
+            <li>VERB-Inf--PRON-Nom (728)</li>
+            <li>VERB-Part--NOUN-Nom (20)</li>
+            <li>VERB-Part--PRON (8)</li>
             <li>VERB-Part--PRON-Nom (12)</li>
             <li>VERB-Sup--NOUN (1)</li>
-            <li>VERB-Sup--NOUN-Nom (155)</li>
-            <li>VERB-Sup--PRON (127)</li>
+            <li>VERB-Sup--NOUN-Nom (156)</li>
+            <li>VERB-Sup--PRON (126)</li>
             <li>VERB-Sup--PRON-Nom (390)</li>
           </ul>
         </li>
@@ -2201,13 +2198,13 @@ udver: '2'
             <li>VERB-Fin--NOUN-ADP(On) (1)</li>
             <li>VERB-Fin--NOUN-Nom (362)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(runt) (1)</li>
-            <li>VERB-Fin--PRON (183)</li>
+            <li>VERB-Fin--PRON (187)</li>
             <li>VERB-Fin--PRON-Nom (179)</li>
             <li>VERB-Inf--NOUN (1)</li>
             <li>VERB-Inf--NOUN-Nom (52)</li>
             <li>VERB-Inf--PRON (27)</li>
             <li>VERB-Inf--PRON-Nom (42)</li>
-            <li>VERB-Sup--NOUN-Nom (53)</li>
+            <li>VERB-Sup--NOUN-Nom (52)</li>
             <li>VERB-Sup--PRON (26)</li>
             <li>VERB-Sup--PRON-Nom (26)</li>
           </ul>
@@ -2221,18 +2218,18 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (13)</li>
-            <li>VERB-Fin--NOUN-Nom (2075)</li>
+            <li>VERB-Fin--NOUN (11)</li>
+            <li>VERB-Fin--NOUN-Nom (2071)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(till) (2)</li>
-            <li>VERB-Fin--PRON (1023)</li>
-            <li>VERB-Fin--PRON-Nom (1021)</li>
+            <li>VERB-Fin--PRON (1056)</li>
+            <li>VERB-Fin--PRON-Nom (1022)</li>
             <li>VERB-Inf--NOUN (1)</li>
             <li>VERB-Inf--NOUN-Nom (497)</li>
             <li>VERB-Inf--PRON (197)</li>
             <li>VERB-Inf--PRON-Nom (521)</li>
             <li>VERB-Sup--NOUN (3)</li>
             <li>VERB-Sup--NOUN-Nom (274)</li>
-            <li>VERB-Sup--PRON (100)</li>
+            <li>VERB-Sup--PRON (103)</li>
             <li>VERB-Sup--PRON-Nom (152)</li>
           </ul>
         </li>
@@ -2247,24 +2244,24 @@ udver: '2'
             <li>VERB--NOUN-Nom (1)</li>
             <li>VERB--PRON (5)</li>
             <li>VERB--PRON-Acc (1)</li>
-            <li>VERB-Fin--NOUN (11)</li>
+            <li>VERB-Fin--NOUN (8)</li>
             <li>VERB-Fin--NOUN-Gen (3)</li>
-            <li>VERB-Fin--NOUN-Nom (1559)</li>
+            <li>VERB-Fin--NOUN-Nom (1563)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(emot) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(om) (2)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(till) (1)</li>
-            <li>VERB-Fin--PRON (366)</li>
+            <li>VERB-Fin--PRON (370)</li>
             <li>VERB-Fin--PRON-ADP(med) (1)</li>
             <li>VERB-Fin--PRON-ADP(på) (1)</li>
-            <li>VERB-Fin--PRON-Acc (588)</li>
+            <li>VERB-Fin--PRON-Acc (589)</li>
             <li>VERB-Fin--PRON-Gen (11)</li>
             <li>VERB-Fin--PRON-Nom (2)</li>
-            <li>VERB-Inf--NOUN (7)</li>
-            <li>VERB-Inf--NOUN-Nom (1023)</li>
+            <li>VERB-Inf--NOUN (2)</li>
+            <li>VERB-Inf--NOUN-Nom (1028)</li>
             <li>VERB-Inf--NOUN-Nom-ADP(för) (1)</li>
             <li>VERB-Inf--NOUN-Nom-ADP(på) (2)</li>
-            <li>VERB-Inf--PRON (190)</li>
+            <li>VERB-Inf--PRON (192)</li>
             <li>VERB-Inf--PRON-ADP(som) (1)</li>
             <li>VERB-Inf--PRON-Acc (293)</li>
             <li>VERB-Inf--PRON-Gen (15)</li>
@@ -2272,8 +2269,7 @@ udver: '2'
             <li>VERB-Part--NOUN-Nom (3)</li>
             <li>VERB-Part--PRON (1)</li>
             <li>VERB-Part--PRON-Acc (4)</li>
-            <li>VERB-Sup--NOUN (1)</li>
-            <li>VERB-Sup--NOUN-Nom (221)</li>
+            <li>VERB-Sup--NOUN-Nom (222)</li>
             <li>VERB-Sup--NOUN-Nom-ADP(än) (1)</li>
             <li>VERB-Sup--PRON (103)</li>
             <li>VERB-Sup--PRON-ADP(med) (1)</li>
@@ -2290,14 +2286,15 @@ udver: '2'
           <ul>
             <li>VERB-Fin--NOUN (2)</li>
             <li>VERB-Fin--NOUN-Gen (2)</li>
-            <li>VERB-Fin--NOUN-Nom (378)</li>
-            <li>VERB-Fin--PRON (26)</li>
+            <li>VERB-Fin--NOUN-Nom (379)</li>
+            <li>VERB-Fin--PRON (27)</li>
             <li>VERB-Fin--PRON-Acc (52)</li>
             <li>VERB-Inf--NOUN (2)</li>
-            <li>VERB-Inf--NOUN-Nom (251)</li>
+            <li>VERB-Inf--NOUN-Nom (250)</li>
             <li>VERB-Inf--PRON (20)</li>
             <li>VERB-Inf--PRON-Acc (13)</li>
             <li>VERB-Inf--PRON-Nom (1)</li>
+            <li>VERB-Part--NOUN (1)</li>
             <li>VERB-Sup--NOUN (1)</li>
             <li>VERB-Sup--NOUN-Nom (60)</li>
             <li>VERB-Sup--NOUN-Nom-ADP(på) (1)</li>
@@ -2311,21 +2308,23 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN (34)</li>
+            <li>VERB-Fin--NOUN (32)</li>
             <li>VERB-Fin--NOUN-Acc (1)</li>
             <li>VERB-Fin--NOUN-Gen (1)</li>
-            <li>VERB-Fin--NOUN-Nom (1763)</li>
+            <li>VERB-Fin--NOUN-Nom (1765)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(mellan) (1)</li>
-            <li>VERB-Fin--PRON (160)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(när) (20)</li>
+            <li>VERB-Fin--PRON (162)</li>
             <li>VERB-Fin--PRON-Acc (230)</li>
             <li>VERB-Inf--NOUN (10)</li>
-            <li>VERB-Inf--NOUN-Nom (1292)</li>
+            <li>VERB-Inf--NOUN-Nom (1289)</li>
             <li>VERB-Inf--NOUN-Nom-ADP(för) (1)</li>
-            <li>VERB-Inf--PRON (118)</li>
+            <li>VERB-Inf--PRON (119)</li>
             <li>VERB-Inf--PRON-Acc (149)</li>
             <li>VERB-Sup--NOUN (2)</li>
             <li>VERB-Sup--NOUN-Nom (256)</li>
+            <li>VERB-Sup--NOUN-Nom-ADP(när) (3)</li>
             <li>VERB-Sup--PRON (26)</li>
             <li>VERB-Sup--PRON-Acc (33)</li>
           </ul>
@@ -2422,7 +2421,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 10 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+      <li>This corpus uses 8 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
       <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
       </ul>
     </td>
@@ -2439,8 +2438,7 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 9 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-      <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-      <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+      <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>reparandum</a></li>
       </ul>
     </td>
   </tr>

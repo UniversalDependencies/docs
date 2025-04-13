@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-732 nodes (3%) are attached to their parents as `det`.
+731 nodes (3%) are attached to their parents as `det`.
 
 587 instances of `det` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.61338797814208.
+Average distance between parent and child is 1.61422708618331.
 
-The following 7 pairs of parts of speech are connected with `det`: <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_csui-pos-DET.html">DET</a></tt> (580; 79% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-DET.html">DET</a></tt> (81; 11% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-DET.html">DET</a></tt> (37; 5% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_csui-pos-DET.html">DET</a></tt> (17; 2% instances), <tt><a href="id_csui-pos-X.html">X</a></tt>-<tt><a href="id_csui-pos-DET.html">DET</a></tt> (10; 1% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="id_csui-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="id_csui-pos-DET.html">DET</a></tt> (3; 0% instances).
+The following 7 pairs of parts of speech are connected with `det`: <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_csui-pos-DET.html">DET</a></tt> (580; 79% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-DET.html">DET</a></tt> (81; 11% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-DET.html">DET</a></tt> (36; 5% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_csui-pos-DET.html">DET</a></tt> (17; 2% instances), <tt><a href="id_csui-pos-X.html">X</a></tt>-<tt><a href="id_csui-pos-DET.html">DET</a></tt> (10; 1% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="id_csui-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="id_csui-pos-DET.html">DET</a></tt> (3; 0% instances).
 
 
 ~~~ conllu

@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
 1	Te	tu	PRON	p-s---fa-	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	obj	_	LId=tu1
-2	quoque	quoque	ADV	d--------	_	1	advmod	_	LId=quoque1
+2	quoque	quoque	PART	d--------	Form=Emp	1	advmod:emph	_	LId=quoque1
 3	magna	magnus	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	6	amod	_	LId=magnus1
 4	manent	maneo	VERB	v3ppia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=maneo1|TraditionalMood=Indicativus|TraditionalTense=Praesens
 5	regnis	regnum	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	4	obl	_	LId=regnum1

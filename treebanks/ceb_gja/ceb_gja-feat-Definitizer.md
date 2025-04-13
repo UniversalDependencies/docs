@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ceb_gja-pos-ADJ.htm
 
 ### `ADJ`
 
-2 <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> tokens (6% of all `ADJ` tokens) have a non-empty value of `Definitizer`.
+2 <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `Definitizer`.
 
 The most frequent other feature values with which `ADJ` and `Definitizer` co-occurred: <tt><a href="ceb_gja-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%).
 

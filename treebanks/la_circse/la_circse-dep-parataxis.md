@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-CIRCSE: Relations: `parataxis`
 
 This relation is universal.
-There are 1 language-specific subtypes of `parataxis`: <tt><a href="la_circse-dep-parataxis-reporting.html">parataxis:reporting</a></tt>.
+There are 2 language-specific subtypes of `parataxis`: <tt><a href="la_circse-dep-parataxis-rep.html">parataxis:rep</a></tt>, <tt><a href="la_circse-dep-parataxis-reporting.html">parataxis:reporting</a></tt>.
 
 38 nodes (0%) are attached to their parents as `parataxis`.
 

@@ -23,12 +23,12 @@ The following 11 pairs of parts of speech are connected with `discourse:sp`: <tt
 # visual-style 6	fgColor:white
 # visual-style 6 8 discourse:sp	color:blue
 1	該	該	AUX	_	_	2	aux	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
-2	取	取	VERB	_	_	6	obj:periph	_	SpaceAfter=No|Translit=qǔ|LTranslit=qǔ
-3	走	走	VERB	_	_	2	compound:vv	_	SpaceAfter=No|Translit=zǒu|LTranslit=zǒu
+2	取	取	VERB	_	_	6	obj:periph	_	SpaceAfter=No|Translit=qǔ|LTranslit=qǔ|Cxn=Resultative|CxnElt=2:Resultative.Event
+3	走	走	VERB	_	_	2	compound:vv	_	SpaceAfter=No|Translit=zǒu|LTranslit=zǒu|CxnElt=2:Resultative.ResultState
 4	的	的	PART	_	_	2	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	都	都	ADV	_	_	6	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
-6	取	取	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qǔ|LTranslit=qǔ
-7	走	走	VERB	_	_	6	compound:vv	_	SpaceAfter=No|Translit=zǒu|LTranslit=zǒu
+6	取	取	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qǔ|LTranslit=qǔ|Cxn=Resultative|CxnElt=6:Resultative.Event
+7	走	走	VERB	_	_	6	compound:vv	_	SpaceAfter=No|Translit=zǒu|LTranslit=zǒu|CxnElt=6:Resultative.ResultState
 8	了	了	PART	_	_	6	discourse:sp	_	SpaceAfter=No|Translit=le|LTranslit=le
 9	！	！	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit=!|LTranslit=!
 
@@ -43,7 +43,7 @@ The following 11 pairs of parts of speech are connected with `discourse:sp`: <tt
 # visual-style 3 4 discourse:sp	color:blue
 1	這些	這些	PRON	_	_	3	nsubj	_	SpaceAfter=No|Translit=zhèxiē|LTranslit=zhèxiē
 2	都	都	ADV	_	_	3	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
-3	沒用	沒用	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=méiyòng|LTranslit=méiyòng
+3	沒用	沒用	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=méiyòng|LTranslit=méiyòng|Cxn=Interrogative-Reduced|CxnElt=3:Interrogative-Reduced.Clause
 4	了	了	PART	_	_	3	discourse:sp	_	SpaceAfter=No|Translit=le|LTranslit=le
 5	吧	吧	PART	_	_	3	discourse:sp	_	SpaceAfter=No|Translit=ba|LTranslit=ba
 6	？	？	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=?|LTranslit=?

@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>é</em> (<tt><a href="pt_petrogold-po
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 12.400000 (the average of all parts of speech is 1.452181).
+The form / lemma ratio of `AUX` is 12.400000 (the average of all parts of speech is 1.452143).
 
 The 1st highest number of forms (24) was observed with the lemma “ser”: <em>e, era, eram, foi, for, foram, forem, fosse, fossem, seja, sejam, sendo, ser, sera, serem, seria, seriam, será, serão, sido, são, È, é, Ǻ</em>.
 
@@ -72,13 +72,13 @@ Examples: <em>é, está, tem, vai, esta, È, Ǻ</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 9 different relations: <tt><a href="pt_petrogold-dep-aux-pass.html">aux:pass</a></tt> (3634; 55% instances), <tt><a href="pt_petrogold-dep-cop.html">cop</a></tt> (2515; 38% instances), <tt><a href="pt_petrogold-dep-aux.html">aux</a></tt> (315; 5% instances), <tt><a href="pt_petrogold-dep-mark.html">mark</a></tt> (46; 1% instances), <tt><a href="pt_petrogold-dep-fixed.html">fixed</a></tt> (45; 1% instances), <tt><a href="pt_petrogold-dep-obl.html">obl</a></tt> (12; 0% instances), <tt><a href="pt_petrogold-dep-discourse.html">discourse</a></tt> (4; 0% instances), <tt><a href="pt_petrogold-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-dep-conj.html">conj</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 9 different relations: <tt><a href="pt_petrogold-dep-aux-pass.html">aux:pass</a></tt> (3394; 52% instances), <tt><a href="pt_petrogold-dep-cop.html">cop</a></tt> (2490; 38% instances), <tt><a href="pt_petrogold-dep-aux.html">aux</a></tt> (581; 9% instances), <tt><a href="pt_petrogold-dep-mark.html">mark</a></tt> (46; 1% instances), <tt><a href="pt_petrogold-dep-fixed.html">fixed</a></tt> (45; 1% instances), <tt><a href="pt_petrogold-dep-obl.html">obl</a></tt> (12; 0% instances), <tt><a href="pt_petrogold-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="pt_petrogold-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-dep-conj.html">conj</a></tt> (1; 0% instances)
 
 Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (4002; 61% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (1198; 18% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (1077; 16% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (136; 2% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (76; 1% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (33; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (26; 0% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (24; 0% instances),  (2; 0% instances)
 
-6510 (99%) `AUX` nodes are leaves.
+6509 (99%) `AUX` nodes are leaves.
 
-57 (1%) `AUX` nodes have one child.
+58 (1%) `AUX` nodes have one child.
 
 5 (0%) `AUX` nodes have two children.
 
@@ -86,7 +86,7 @@ Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="pt_pe
 
 The highest child degree of a `AUX` node is 4.
 
-Children of `AUX` nodes are attached using 4 different relations: <tt><a href="pt_petrogold-dep-fixed.html">fixed</a></tt> (60; 81% instances), <tt><a href="pt_petrogold-dep-punct.html">punct</a></tt> (11; 15% instances), <tt><a href="pt_petrogold-dep-nsubj.html">nsubj</a></tt> (2; 3% instances), <tt><a href="pt_petrogold-dep-ccomp.html">ccomp</a></tt> (1; 1% instances)
+Children of `AUX` nodes are attached using 5 different relations: <tt><a href="pt_petrogold-dep-fixed.html">fixed</a></tt> (60; 80% instances), <tt><a href="pt_petrogold-dep-punct.html">punct</a></tt> (11; 15% instances), <tt><a href="pt_petrogold-dep-nsubj.html">nsubj</a></tt> (2; 3% instances), <tt><a href="pt_petrogold-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="pt_petrogold-dep-conj.html">conj</a></tt> (1; 1% instances)
 
-Children of `AUX` nodes belong to 4 different parts of speech: <tt><a href="pt_petrogold-pos-SCONJ.html">SCONJ</a></tt> (48; 65% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (12; 16% instances), <tt><a href="pt_petrogold-pos-PUNCT.html">PUNCT</a></tt> (11; 15% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (3; 4% instances)
+Children of `AUX` nodes belong to 4 different parts of speech: <tt><a href="pt_petrogold-pos-SCONJ.html">SCONJ</a></tt> (48; 64% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (13; 17% instances), <tt><a href="pt_petrogold-pos-PUNCT.html">PUNCT</a></tt> (11; 15% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (3; 4% instances)
 

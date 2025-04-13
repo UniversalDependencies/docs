@@ -25,4 +25,4 @@ For *subordinating* conjunctions, see [SCONJ]().
 * _μα_ "but" (only when it is used in the same way as "αλλά", e.g. _Είπε μα δεν τόλμησε_ "He said but didn't dare"). In other cases see INTJ.
 * _<b>είτε</b> εσύ <b>είτε</b> ο Παύλος_ "<b>either</b> you <b>or</b> Pavlos"
 * _<b>ούτε</b> εσύ <b>ούτε</b> ο Παύλος_ "<b>neither</b> you <b>nor</b> Pavlos" 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:35 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:20 CET -->

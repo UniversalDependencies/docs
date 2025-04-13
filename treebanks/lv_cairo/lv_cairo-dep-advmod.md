@@ -7,11 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_Latvian-Cairo: Relations: `advmod`
 
 This relation is universal.
+There are 2 language-specific subtypes of `advmod`: <tt><a href="lv_cairo-dep-advmod-emph.html">advmod:emph</a></tt>, <tt><a href="lv_cairo-dep-advmod-neg.html">advmod:neg</a></tt>.
 
 7 nodes (4%) are attached to their parents as `advmod`.
 
 5 instances of `advmod` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.71428571428571.
+Average distance between parent and child is 1.57142857142857.
 
 The following 2 pairs of parts of speech are connected with `advmod`: <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-ADV.html">ADV</a></tt> (6; 86% instances), <tt><a href="lv_cairo-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_cairo-pos-ADV.html">ADV</a></tt> (1; 14% instances).
 

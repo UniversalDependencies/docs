@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `ccomp`: <tt><a href
 2	hore	óre	SCONJ	_	_	4	mark	_	_
 3	am	is	AUX	_	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbType=Cop	4	nsubj	_	SpaceAfter=No
 4	essamin	essamin	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	13	advcl	_	SpaceAfter=No
-5	se	se	PRON	_	PronType=Emp	3	amod	_	_
+5	se	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	3	amod	_	_
 6	precepte	precept	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	_
 7	as	a	ADP	_	AdpType=Prep|Definite=Ind	9	case	_	SpaceAfter=No
 8	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	SpaceAfter=No

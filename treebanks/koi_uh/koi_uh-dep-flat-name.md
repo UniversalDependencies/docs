@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 flat:name	color:blue
-1	Эз	оз	AUX	_	Person=3|Polarity=Neg|Tense=Past|VerbType=Aux	3	aux:neg	_	GTtags=Prt1,3
+1	Эз	оз	AUX	_	Person=3|Polarity=Neg|Tense=Past|VerbType=Aux	3	aux	_	GTtags=Prt1,3
 2	позь	позьны	AUX	_	Connegative=Yes	3	aux:pot	_	GTtags=ConNeg
 3	бӧрйыны	бӧрйыны	VERB	_	VerbForm=Inf	0	root	_	GTtags=Inf
 4	не	не	CCONJ	Polarity=Neg	_	5	cc:preconj	_	_
@@ -75,7 +75,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 7	воннэз	вон	NOUN	N	Case=Nom|Number=Plur	6	nsubj	_	GTtags=N,Pl,Nom|SpaceAfter=No
 8	:	:	PUNCT	CLB	_	9	punct	_	GTtags=CLB
 9	Нетулика	Нетулика	PROPN	NameType=Giv	_	7	list	_	_
-10	Сеня	Сень	NOUN	N	Derivation=ProprietiveMod|NameType=Giv|Number=Sing	9	flat:name	_	GTtags=N,Prop,Sem/Sur,Sg,Der,Der/ProprietiveMod,A
+10	Сеня	Сеня	NOUN	N	NameType=Giv|Number=Sing	9	flat:name	_	GTtags=N,Prop,Sem/Sur,Sg,Der,Der/ProprietiveMod,A
 11	да	да	CCONJ	CC	_	12	cc	_	GTtags=CC
 12	Тулика	Тулика	PROPN	_	NameType=Giv	7	list	_	_
 13	Прокоп	Прокоп	PROPN	N	Case=Nom|NameType=Giv|Number=Sing	12	flat:name	_	GTtags=N,Prop,Sem/Sur,Sg,Nom|SpaceAfter=No

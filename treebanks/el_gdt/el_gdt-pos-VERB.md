@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>έχει</em> (<tt><a href="el_gdt-po
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 3.012605 (the average of all parts of speech is 1.783022).
+The form / lemma ratio of `VERB` is 3.012605 (the average of all parts of speech is 1.783262).
 
 The 1st highest number of forms (20) was observed with the lemma “δίνω”: <em>Δώστε, έδιναν, έδωσα, έδωσαν, έδωσε, δίνει, δίνεται, δίνονται, δίνοντας, δίνουμε, δίνουν, δίνω, δοθεί, δοθούν, δόθηκε, δώσαμε, δώσει, δώσουμε, δώσουν, δώσω</em>.
 

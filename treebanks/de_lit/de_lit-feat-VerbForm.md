@@ -23,7 +23,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="de_lit-pos-VERB.htm
 * `Fin` (8; 67% of non-empty `VerbForm`): <em>peut, Ehre, erfolge, fait, leben, strömt, wohlgehe</em>
 * `Inf` (3; 25% of non-empty `VerbForm`): <em>aller, rester</em>
 * `Part` (1; 8% of non-empty `VerbForm`): <em>zurechtgewiesen</em>
-* `EMPTY` (3091): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
+* `EMPTY` (3082): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
 
 `VerbForm` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `VerbForm`.
 
@@ -51,5 +51,5 @@ The feature is used with 3 part-of-speech tags: <tt><a href="de_lit-pos-VERB.htm
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (2; 100% of non-empty `VerbForm`): <em>gebildeten</em>
-* `EMPTY` (3465): <em>große, alten, erste, ganze, ersten, großen, höchsten, möglich, neue, eignen</em>
+* `EMPTY` (3473): <em>große, alten, erste, ganze, ersten, eignen, großen, höchsten, möglich, neue</em>
 

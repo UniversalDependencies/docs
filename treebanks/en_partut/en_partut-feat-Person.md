@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-4085 tokens (8%) have a non-empty value of `Person`.
+4086 tokens (8%) have a non-empty value of `Person`.
 673 types (10%) occur at least once with a non-empty value of `Person`.
-486 lemmas (9%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (1597; 3% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (1263; 3% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (1225; 2% instances).
+487 lemmas (9%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (1597; 3% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (1264; 3% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (1225; 2% instances).
 
 ### `AUX`
 
@@ -38,18 +38,18 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `PRON`
 
-1263 <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> tokens (62% of all `PRON` tokens) have a non-empty value of `Person`.
+1264 <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> tokens (62% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="en_partut-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1253; 99%), <tt><a href="en_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1042; 83%), <tt><a href="en_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (741; 59%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="en_partut-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1252; 99%), <tt><a href="en_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1043; 83%), <tt><a href="en_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (741; 59%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (419; 33% of non-empty `Person`): <em>I, we, us, me, ourselves</em>
 * `2` (129; 10% of non-empty `Person`): <em>you, second</em>
-* `3` (715; 57% of non-empty `Person`): <em>it, he, they, them, him, everyone, one, she, himself, itself</em>
+* `3` (716; 57% of non-empty `Person`): <em>it, he, they, them, him, everyone, one, she, himself, itself</em>
 * `EMPTY` (790): <em>which, that, this, there, who, all, what, those, some, others</em>
 
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (21) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (22) occur only with one value of `Person`.
 
 ### `VERB`
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (77; 6% of non-empty `Person`): <em>believe, think, have, hope, want, accept, allow, face, feel, know</em>
 * `2` (14; 1% of non-empty `Person`): <em>let, Create, Imagine, Learn, Recall, accept, agree, enter, facilitate, own</em>
 * `3` (1134; 93% of non-empty `Person`): <em>is, has, wrote, had, made, became, makes, began, provided, provides</em>
-* `EMPTY` (3502): <em>like, have, make, including, see, take, given, based, made, taken</em>
+* `EMPTY` (3503): <em>like, have, make, including, see, take, given, based, made, taken</em>
 
 <table>
   <tr><th>Paradigm <i>accept</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

@@ -22,4 +22,4 @@ We also mark interrogative _ничә_ "how many" as `NUM`.
 - _I, II, III, IV, V, MMXIV_
 - _бер_ "one", _биш_ "five", _унбиш_ "fifteen"
 - _ничә_ "how many", _ничәнче_ "which one (of an ordered entities)", _ничәр_ "how many each", _ничәү_ "how many (of)"
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:38 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:23 CET -->

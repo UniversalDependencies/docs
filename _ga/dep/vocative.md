@@ -29,4 +29,4 @@ _'Tá eagla orm, a <b>fheara</b>,' arsa Fionn, 'go mbeidh an ceo so an-dhorcha'.
 'Tá eagla orm, a fheara ,' arsa Fionn, 'go mbeidh an ceo so an-dhorcha'. \n 'Is fear on_me, my man,' said Fionn, 'that will_be the fog this the-dark'.
 vocative(arsa, fheara)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:48 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:29 CET -->

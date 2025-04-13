@@ -24,4 +24,4 @@ Another example:
 Баба-атаға да үш күн түнеді . \n Baba-ata-to also three days slept-over .
 nummod(күн-4, үш-3)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:30 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:11 CET -->

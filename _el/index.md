@@ -7,7 +7,15 @@ udver: '2'
 
 # UD for Greek <span class="flagspan"><img class="flag" src="../../flags/svg/GR.svg" /></span>
 
-There are two  UD treebanks of Modern Greek (EL): UD_Greek-GDT, UD_Greek-GUD. GDT and GUD have adopted the same tokenization and word segmentation guidelines. The two treebanks present notable differences as regards morphological annotation. The current UD documentation of EL morphology describes the choices adopted in GUD. The editing of the syntactic annotation in GUD is an ongoing project, so the current UD documentation of EL syntax describes the choices adopted in GDT only. 
+There are two  UD treebanks of Modern Greek (EL): UD_Greek-GDT, UD_Greek-GUD. GDT and GUD have adopted the same tokenization and word segmentation guidelines. The two treebanks present notable differences as regards morphological annotation and lesser as regards syntactic annotation. 
+
+There are also several small dialectal treebanks of Modern Greek. Of them, only Cretan is fully published. The other treebanks are at development stage. 
+
+*Cretan
+*Lesbian
+*Messenean
+*Griko
+
 
 ## Tokenization and Word Segmentation-GDT,GUD
 

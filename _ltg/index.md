@@ -32,7 +32,13 @@ Latgalian uses all 17 universal POS categories.
 
 #### Pronouns and Determiners
 
-Effectively distinguishing [PRON]() and [DET]() categories in Latgalian (similarly as in Latvian) is very hard and currently no clear guidelines has been developed yet.
+Effectively distinguishing [PRON]() and [DET]() categories in Latgalian (similarly as in Latvian) is very hard and currently no clear guidelines has been developed yet. Following the example of Latvian, distinction is done by lemma. 
+
+Currently `DET` are: _itei_, _itys_, _kaida_, _kaids_, _kura_, _kurs_, _muna_, _muns_, _sova_, _sovs_, _tei_, _tis_, _toveja_, _tovejs_.
+			
+`PRON` are: _es_, _jei_, _jis_, _jī_, _kas_, _tu_.
+
+These lists will be expanded in future.
 
 #### Auxiliary Verbs
 
@@ -101,7 +107,7 @@ Latgalian features rich set of deverbal derivations and not everything has been 
 
 #### Unused Features
 
-Features not applicable for Latvian:
+Features not applicable for Latgalian:
 * [Animacy](),
 * [Clusivity](),
 * [NounClass](),
@@ -134,6 +140,8 @@ The following relation subtypes are used in Latgalian:
 * [aux:pass]() for passive auxiliaries
 * [flat:foreign]() for non-first words in quoted foreign phrases
 * [flat:name]() for exocentric complex name
+* [advmod:neg]() for negative particles
+* [advmod:emph]() for emphasizing particles
 
 The following relation types are not used for Latgalian: [clf](), [dislocated](), [list](), [reparandum](). However, `reparandum` should be introduced in future, as appropriate speech texts are annotated.
 

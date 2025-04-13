@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `obl`: <tt><a href="ga_cadhan-dep-obl-prep.html">obl:prep</a></tt>, <tt><a href="ga_cadhan-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-255 nodes (5%) are attached to their parents as `obl`.
+254 nodes (5%) are attached to their parents as `obl`.
 
-226 instances of `obl` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.6156862745098.
+225 instances of `obl` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.61417322834646.
 
-The following 13 pairs of parts of speech are connected with `obl`: <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (123; 48% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (63; 25% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (21; 8% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (20; 8% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (15; 6% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (5; 2% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `obl`: <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (124; 49% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (63; 25% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (21; 8% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (20; 8% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (15; 6% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -50,7 +50,7 @@ The following 13 pairs of parts of speech are connected with `obl`: <tt><a href=
 9	buidhe	buí	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	_
 11	nach	nach	PART	_	PartType=Cmpl|Polarity=Neg	12	mark:prt	_	_
-12	ndéanfá	déan	VERB	_	Form=Ecl|Mood=Cnd|Number=Sing|Person=2	2	parataxis	_	SpaceAfter=No
+12	ndéanfá	déan	VERB	_	Form=Ecl|Mood=Cnd|Number=Sing|Person=2|Polarity=Neg	2	parataxis	_	SpaceAfter=No
 13	?	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
 ~~~
@@ -66,15 +66,15 @@ The following 13 pairs of parts of speech are connected with `obl`: <tt><a href=
 2	d'	de	ADP	_	_	3	case	_	SpaceAfter=No
 3	Fhidheach	Fíoch	PROPN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	1	obl	_	_
 4	mac	mac	NOUN	_	Case=Gen|Gender=Masc|NounType=Weak|Number=Plur	3	appos	_	_
-5	Féigh	Fiach	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+5	Féigh	Fiach	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
 7	d'	de	ADP	_	_	8	case	_	SpaceAfter=No
-8	fhearaibh	fear	NOUN	_	Case=Dat|Form=Len|Gender=Masc|Number=Plur	3	nmod	_	_
-9	na	na	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	craoibhe	craobh	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+8	fhearaibh	fear	NOUN	_	Case=Dat|Definite=Def|Form=Len|Gender=Masc|Number=Plur	3	nmod	_	_
+9	na	an	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	craoibhe	craobh	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	8	punct	_	_
 12	ó	ó	ADP	_	_	13	case	_	_
-13	Fhidhic	Fidhic	PROPN	_	Case=Nom|Form=Len|Gender=Masc|Number=Plur	1	obl	_	_
+13	Fhidhic	Fidhic	PROPN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Plur	1	obl	_	_
 14	go	go	ADP	_	_	15	case	_	_
 15	Luimneach	Luimneach	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	1	punct	_	_

@@ -11,4 +11,4 @@ An appositional modifier of a noun is a nominal immediately following the first 
 журналның баш мөхәррире Рөстәм
 appos(мөхәррире-3, Рөстәм-4)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:44 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:26 CET -->

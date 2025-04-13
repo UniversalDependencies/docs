@@ -38,7 +38,7 @@ The following 6 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	Kuna	kuna	PART	XPOS=não	_	2	advmod:neg	_	gloss[pt]=não
+1	Kuna	kuna	PART	XPOS=não	Polarity=Neg	2	advmod	_	gloss[pt]=não
 2	faltatinhi	faltata	VERB	XPOS=faltar	VerbForm=Vnoun	4	nsubj:cop	_	gloss[pt]=faltar-GER
 3	hãty	hãty	NUM	XPOS=um,outro	_	4	nummod	_	gloss[pt]=um,outro
 4	kananeã	kanane	NOUN	XPOS=ano	Case=Loc	0	root	_	gloss[pt]=ano-LOC|Possessed=No|SpaceAfter=No

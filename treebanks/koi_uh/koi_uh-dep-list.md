@@ -31,7 +31,7 @@ The following 1 pairs of parts of speech are connected with `list`: <tt><a href=
 7	воннэз	вон	NOUN	N	Case=Nom|Number=Plur	6	nsubj	_	GTtags=N,Pl,Nom|SpaceAfter=No
 8	:	:	PUNCT	CLB	_	9	punct	_	GTtags=CLB
 9	Нетулика	Нетулика	PROPN	NameType=Giv	_	7	list	_	_
-10	Сеня	Сень	NOUN	N	Derivation=ProprietiveMod|NameType=Giv|Number=Sing	9	flat:name	_	GTtags=N,Prop,Sem/Sur,Sg,Der,Der/ProprietiveMod,A
+10	Сеня	Сеня	NOUN	N	NameType=Giv|Number=Sing	9	flat:name	_	GTtags=N,Prop,Sem/Sur,Sg,Der,Der/ProprietiveMod,A
 11	да	да	CCONJ	CC	_	12	cc	_	GTtags=CC
 12	Тулика	Тулика	PROPN	_	NameType=Giv	7	list	_	_
 13	Прокоп	Прокоп	PROPN	N	Case=Nom|NameType=Giv|Number=Sing	12	flat:name	_	GTtags=N,Prop,Sem/Sur,Sg,Nom|SpaceAfter=No

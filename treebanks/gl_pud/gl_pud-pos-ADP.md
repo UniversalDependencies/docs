@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Galician-PUD: POS Tags: `ADP`
 
-There are 30 `ADP` lemmas (1%), 30 `ADP` types (0%) and 3822 `ADP` tokens (16%).
-Out of 14 observed tags, the rank of `ADP` is: 8 in number of lemmas, 10 in number of types and 2 in number of tokens.
+There are 30 `ADP` lemmas (1%), 30 `ADP` types (0%) and 3819 `ADP` tokens (16%).
+Out of 15 observed tags, the rank of `ADP` is: 9 in number of lemmas, 11 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>de, en, a, por, con, para, como, sobre, entre, durante</em>
 
 The 10 most frequent `ADP` types:  <em>de, en, a, por, con, para, como, sobre, entre, durante</em>
 
-The 10 most frequent ambiguous lemmas: <em>de</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 1745, <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 2), <em>a</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 462, <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 5), <em>como</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 102, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 28, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 4), <em>ata</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 19, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>contra</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 19, <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>que</em> (<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> 284, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 261, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 11, <tt><a href="gl_pud-pos-DET.html">DET</a></tt> 3, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>segundo</em> (<tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> 11, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 10, <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>até</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 7, <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 2), <em>baixo</em> (<tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> 12, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 7), <em>of</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 4, <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>de</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 1745, <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 2), <em>a</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 461, <tt><a href="gl_pud-pos-X.html">X</a></tt> 5), <em>como</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 102, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 28, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 4), <em>ata</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 19, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>contra</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 19, <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>que</em> (<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> 284, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 261, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 11, <tt><a href="gl_pud-pos-DET.html">DET</a></tt> 3, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>segundo</em> (<tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> 11, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 10, <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>até</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 7, <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 2), <em>baixo</em> (<tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> 12, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 7), <em>cara</em> (<tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 3)
 
-The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 1732, <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>a</em> (<tt><a href="gl_pud-pos-DET.html">DET</a></tt> 840, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 431, <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> 13, <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 3), <em>como</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 97, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 25, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 4), <em>ata</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 19, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>contra</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 19, <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>que</em> (<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> 284, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 261, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 11, <tt><a href="gl_pud-pos-DET.html">DET</a></tt> 2, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>segundo</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 5, <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> 4), <em>até</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 7, <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 2), <em>baixo</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 7, <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> 2), <em>of</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 4, <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 1732, <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>a</em> (<tt><a href="gl_pud-pos-DET.html">DET</a></tt> 840, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 430, <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> 13, <tt><a href="gl_pud-pos-X.html">X</a></tt> 3), <em>como</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 97, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 25, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 4), <em>ata</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 19, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>contra</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 19, <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>que</em> (<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> 284, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 261, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 11, <tt><a href="gl_pud-pos-DET.html">DET</a></tt> 2, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>segundo</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 5, <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> 4), <em>até</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 7, <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 2), <em>baixo</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 7, <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> 2), <em>cara</em> (<tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 3)
 
 
 * <em>de</em>
@@ -23,9 +23,9 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="gl_pud-pos-ADP.
   * <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 1: <em>Os oficiais preguntaron me , a a súa maneira incomparablemente estúpida , se coñecía o escritor Günter <b>de</b> Bruyn e se eramos achegados intelectuais .</em>
 * <em>a</em>
   * <tt><a href="gl_pud-pos-DET.html">DET</a></tt> 840: <em>Os novos gastos corren a cargo de <b>a</b> gran conta bancaria de Clinton .</em>
-  * <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 431: <em>Os novos gastos corren <b>a</b> cargo de a gran conta bancaria de Clinton .</em>
+  * <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 430: <em>Os novos gastos corren <b>a</b> cargo de a gran conta bancaria de Clinton .</em>
   * <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> 13: <em>Non sei por que <b>a</b> escollín a ela ...</em>
-  * <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 3: <em>En On <b>a</b> Wing and <b>a</b> Prayer ( 1992 ) reuniu se con o seu compañeiro de os Stealers Wheel , Egan , en diversas pistas .</em>
+  * <tt><a href="gl_pud-pos-X.html">X</a></tt> 3: <em>En On <b>a</b> Wing and <b>a</b> Prayer ( 1992 ) reuniu se con o seu compañeiro de os Stealers Wheel , Egan , en diversas pistas .</em>
 * <em>como</em>
   * <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 97: <em>É <b>como</b> un superpoder a as veces .</em>
   * <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 25: <em>Serve <b>como</b> un lugar local de descanso e relaxación para a poboación de San Francisco .</em>
@@ -52,13 +52,14 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="gl_pud-pos-ADP.
 * <em>baixo</em>
   * <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 7: <em>Só un feixe de eles ( condados ) existiu <b>baixo</b> o reinado de Henrique I e estes foron en gran parte simbólicos .</em>
   * <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> 2: <em>Xeralmente implica un <b>baixo</b> nivel de desenvolvemento , como áreas rústicas de pícnic , bancos e camiños .</em>
-* <em>of</em>
-  * <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 4: <em>Catalano regresou a a zona tras vivir en Londres e a continuación en Glasgow , onde estudou deseño de xoias en a Glasgow School <b>of</b> Art .</em>
-  * <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 2: <em>Wright é amigo de o tamén director Garth Jennings e fixo cameos en as súas películas " Hitchhiker's Guide to the Galaxy " e " Son <b>of</b> Rambow " .</em>
+* <em>cara</em>
+  * <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> 5: <em>De volta en o tren , continuamos <b>cara</b> a o sur .</em>
+  * <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> 4: <em>Ou trata se de unha tarifa de prepago ou estándar <b>cara</b> ?</em>
+  * <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 3: <em>A medida que Grecia enviaba colonias a o oeste <b>cara</b> a Sicilia e Italia ( Pitecusas , Cumas ) , espallaba aínda máis a influencia de o seu novo alfabeto .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.319907).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.319483).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
@@ -66,22 +67,22 @@ The 2nd highest number of forms (1) was observed with the lemma “acercar”: <
 
 The 3rd highest number of forms (1) was observed with the lemma “ante”: <em>ante</em>.
 
-`ADP` occurs with 1 features: <tt><a href="gl_pud-feat-AdpType.html">AdpType</a></tt> (3642; 95% instances)
+`ADP` occurs with 1 features: <tt><a href="gl_pud-feat-AdpType.html">AdpType</a></tt> (3641; 95% instances)
 
 `ADP` occurs with 1 feature-value pairs: `AdpType=Prep`
 
 `ADP` occurs with 2 feature combinations.
-The most frequent feature combination is `AdpType=Prep` (3642 tokens).
+The most frequent feature combination is `AdpType=Prep` (3641 tokens).
 Examples: <em>de, en, a, por, con, para, como, sobre, entre, durante</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 12 different relations: <tt><a href="gl_pud-dep-case.html">case</a></tt> (3615; 95% instances), <tt><a href="gl_pud-dep-fixed.html">fixed</a></tt> (112; 3% instances), <tt><a href="gl_pud-dep-advmod.html">advmod</a></tt> (60; 2% instances), <tt><a href="gl_pud-dep-discourse.html">discourse</a></tt> (20; 1% instances), <tt><a href="gl_pud-dep-mark.html">mark</a></tt> (4; 0% instances), <tt><a href="gl_pud-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="gl_pud-dep-flat-foreign.html">flat:foreign</a></tt> (2; 0% instances), <tt><a href="gl_pud-dep-flat-name.html">flat:name</a></tt> (2; 0% instances), <tt><a href="gl_pud-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="gl_pud-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="gl_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="gl_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 11 different relations: <tt><a href="gl_pud-dep-case.html">case</a></tt> (3614; 95% instances), <tt><a href="gl_pud-dep-fixed.html">fixed</a></tt> (112; 3% instances), <tt><a href="gl_pud-dep-advmod.html">advmod</a></tt> (60; 2% instances), <tt><a href="gl_pud-dep-discourse.html">discourse</a></tt> (20; 1% instances), <tt><a href="gl_pud-dep-mark.html">mark</a></tt> (4; 0% instances), <tt><a href="gl_pud-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="gl_pud-dep-flat-name.html">flat:name</a></tt> (2; 0% instances), <tt><a href="gl_pud-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="gl_pud-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="gl_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="gl_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (2455; 64% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (590; 15% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (350; 9% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> (169; 4% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (107; 3% instances), <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> (56; 1% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (39; 1% instances), <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (38; 1% instances), <tt><a href="gl_pud-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="gl_pud-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 14 different parts of speech: <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (2455; 64% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (578; 15% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (350; 9% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> (169; 4% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (108; 3% instances), <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> (56; 1% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (39; 1% instances), <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (38; 1% instances), <tt><a href="gl_pud-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="gl_pud-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="gl_pud-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
-3674 (96%) `ADP` nodes are leaves.
+3671 (96%) `ADP` nodes are leaves.
 
 29 (1%) `ADP` nodes have one child.
 

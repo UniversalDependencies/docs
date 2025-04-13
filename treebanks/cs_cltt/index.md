@@ -12,15 +12,15 @@ udver: '2'
 # UD Czech CLTT
 
 Language: [Czech](/cs/index.html) (code: `cs`)<br/>
-Family: Indo-European, Slavic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
 The following people have contributed to making this treebank part of UD: Barbora Hladká, Daniel Zeman, Martin Popel.
 
 Repository: [UD_Czech-CLTT](https://github.com/UniversalDependencies/UD_Czech-CLTT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cltt214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cltt215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -484,7 +484,8 @@ http://hdl.handle.net/11234/1-2498.
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: účetní, účetních, účetního, konsolidované, finanční, účetním, právní, výroční, ostatní, reálnou</li>
+      <li>ADJ: účetní, účetních, účetního, konsolidované, finanční, účetním, povinny, právní, výroční, ostatní</li>
+      <li>ADJ-Part: stanoveno, sestavena, obchodovány, uvedeny, zahrnuty, zavedena, oprávněn, uvedena, vykázány, účtovány</li>
       <li>ADV: obdobně, případně, samostatně, bezprostředně, přímo, odděleně, bezúplatně, přiměřeně, současně, vždy</li>
     </ul>
   </li>
@@ -511,7 +512,6 @@ http://hdl.handle.net/11234/1-2498.
       <li>ADV: nepřetržitě, nepřímo, nedostatečně, nezaměnitelně, nezávisle</li>
       <li>AUX-Fin: nejsou, není</li>
       <li>AUX-Part: nebyly, nebyla, nebyl</li>
-      <li>NOUN: nezahrnutí, nejednoznačnost, nemovitostem, nepotřebnost, neprůkaznosti, nepřehlednosti, nesestavení, nesprávnosti, nesrozumitelnosti, neuvedení</li>
       <li>VERB-Fin: nelze, nepoužije, nemusí, nemá, nepoužijí, nesestaví, nesmí, nestanoví, nevztahuje, neúčtuje</li>
       <li>VERB-Inf: neúčtovat</li>
       <li>VERB-Part: neměla, neobsahovala, nepožádali, neprošly, nesplnily, nevedly, nezahájil, nezískala, neúčtovala</li>
@@ -528,7 +528,6 @@ http://hdl.handle.net/11234/1-2498.
       <li>AUX-Fin: je, jsou, není, bude, budou</li>
       <li>AUX-Inf: být</li>
       <li>AUX-Part: byly, byl, bylo, byla</li>
-      <li>NOUN: jednotky, jednotka, majetku, období, ocenění, účetnictví, položka, dni, závěrky, ustanovení</li>
       <li>VERB-Conv: počínaje</li>
       <li>VERB-Fin: obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</li>
       <li>VERB-Inf: vést, použít, mít, účtovat, odpisovat, uvést, sestavit, zajistit, provést, určit</li>
@@ -563,6 +562,9 @@ http://hdl.handle.net/11234/1-2498.
   <li>Imp
     <ul>
       <li>ADJ-Part: konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</li>
+      <li>AUX-Fin: je, jsou, není, nejsou, by, bude, budou</li>
+      <li>AUX-Inf: být</li>
+      <li>AUX-Part: byly, byl, bylo, nebyly, byla, nebyla, nebyl</li>
       <li>VERB-Conv: počínaje</li>
     </ul>
   </li>
@@ -789,7 +791,7 @@ http://hdl.handle.net/11234/1-2498.
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: je, jsou, není, nejsou, by, bude, budou</li>
+      <li>AUX-Fin: je, jsou, není, nejsou, bude, budou</li>
       <li>DET: jejich, jeho, její, jejichž, jehož, jejího, jejím, jejímž, jejími, jejímu</li>
       <li>PRON: jej, je, jim, jí, ji, nich, ní, jimi, nimi, ně</li>
       <li>VERB-Fin: obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</li>

@@ -20,4 +20,4 @@ Clitic pronouns are shortened unstressed forms of pronouns.
 * _покланѧю<b>ти</b>сѧ_, _покланѧюти<b>сѧ</b>_ “Goodbye”, lit. “I bow to you REFL”, _не на цеме <b>сѧ</b> кормити_ “there is nothing to eat (lit. feed self)”
 * _а нꙑне <b>ми</b> нь пакости_ “And now do not harm me.”
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:50 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:34 CET -->

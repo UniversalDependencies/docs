@@ -6,6 +6,10 @@ udver: '2'
 
 # UD Events
 
+## 2025
+
+  * [8th Workshop on Universal Dependencies (UDW)](https://universaldependencies.org/udw25/) at [SyntaxFest in Ljubljana](https://syntaxfest.github.io/syntaxfest25/)
+
 ## 2024
 
   * [MWE-UD at LREC-COLING: 7th Workshop on Universal Dependencies (UDW) and 20th Workshop on Multi-Word Expressions](https://multiword.org/mweud2024/)

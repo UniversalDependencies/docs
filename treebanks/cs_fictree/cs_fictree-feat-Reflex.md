@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 6854 tokens (4%) have a non-empty value of `Reflex`.
 28 types (0%) occur at least once with a non-empty value of `Reflex`.
-3 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
+2 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
 The feature is used with 2 part-of-speech tags: <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (6111; 4% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (743; 0% instances).
 
 ### `PRON`

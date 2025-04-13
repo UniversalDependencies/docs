@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Arch`, `Coll`, `Vrnc`.
 
-51 tokens (0%) have a non-empty value of `Style`.
-11 types (0%) occur at least once with a non-empty value of `Style`.
-10 lemmas (0%) occur at least once with a non-empty value of `Style`.
-The feature is used with 6 part-of-speech tags: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (31; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PART.html">PART</a></tt> (1; 0% instances).
+52 tokens (0%) have a non-empty value of `Style`.
+12 types (0%) occur at least once with a non-empty value of `Style`.
+11 lemmas (0%) occur at least once with a non-empty value of `Style`.
+The feature is used with 6 part-of-speech tags: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (32; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-31 <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Style`.
+32 <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (31; 100%), <tt><a href="en_gentle-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (25; 81%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (25; 81%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (25; 81%), <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (25; 81%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="en_gentle-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (32; 100%), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (31; 97%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (25; 78%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (25; 78%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (25; 78%), <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (25; 78%).
 
 `VERB` tokens may have the following values of `Style`:
 
-* `Arch` (5; 16% of non-empty `Style`): <em>Quoth</em>
-* `Vrnc` (26; 84% of non-empty `Style`): <em>gon, wan</em>
+* `Arch` (6; 19% of non-empty `Style`): <em>Quoth, wrought</em>
+* `Vrnc` (26; 81% of non-empty `Style`): <em>gon, wan</em>
 
 ### `PRON`
 

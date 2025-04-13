@@ -86,10 +86,10 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 11	Víctor	víctor	PROPN	X--	_	13	obj	_	Morf=^víctor<x>_X--$
 12	Manuel	manuel	PROPN	F--	_	11	flat:name	_	Morf=^manuel<f>_F--$
 13	Vucetich	vucetich	PROPN	X--	_	7	obj	_	Morf=^vucetich<x>_X--$
-14	setelah	setelah	ADP	R--	_	17	case	_	Morf=^setelah<r>_R--$
-15	serangkaian	rangkai	DET	X--	Number=Plur|PronType=Ind	17	det	_	Morf=^serangkaian<x>_X--$
+14	setelah	setelah	ADP	R--	_	15	case	_	Morf=^setelah<r>_R--$
+15	serangkaian	rangkai	NOUN	NSD	Number=Plur	7	obl	_	Morf=^serangkaian<x>_X--$
 16	panjang	panjang	ADJ	ASP	_	15	amod	_	Morf=^panjang<a>_ASP$
-17	gelar	gelar	NOUN	VSA	_	3	nmod	_	Morf=^gelar<v>_VSA$
+17	gelar	gelar	NOUN	VSA	_	15	nmod	_	Morf=^gelar<v>_VSA$
 18	liga	liga	NOUN	NSD	Number=Sing	17	compound	_	SpaceAfter=No|Morf=^liga<n>_NSD$
 19	.	.	PUNCT	Z--	_	3	punct	_	Morf=^.<z>_Z--$
 

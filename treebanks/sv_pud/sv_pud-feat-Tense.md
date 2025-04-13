@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-2116 tokens (11%) have a non-empty value of `Tense`.
-832 types (13%) occur at least once with a non-empty value of `Tense`.
-639 lemmas (13%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1242; 7% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (646; 3% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (228; 1% instances).
+2115 tokens (11%) have a non-empty value of `Tense`.
+831 types (13%) occur at least once with a non-empty value of `Tense`.
+638 lemmas (13%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1242; 7% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (646; 3% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (227; 1% instances).
 
 ### `VERB`
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 * `Past` (738; 59% of non-empty `Tense`): <em>sade, började, hade, blev, gjorde, tog, användes, skrev, spelade, berättade</em>
 * `Pres` (504; 41% of non-empty `Tense`): <em>har, finns, säger, kommer, börjar, står, ger, hjälper, inkluderar, innehåller</em>
-* `EMPTY` (722): <em>ha, få, göra, ta, gå, se, använda, bli, hjälpa, spela</em>
+* `EMPTY` (723): <em>ha, få, göra, ta, gå, se, använda, bli, hjälpa, spela</em>
 
 <table>
   <tr><th>Paradigm <i>ha</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -50,17 +50,17 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `ADJ`
 
-228 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (15% of all `ADJ` tokens) have a non-empty value of `Tense`.
+227 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (14% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (228; 100%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (228; 100%), <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (227; 100%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (143; 63%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (128; 56%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (227; 100%), <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (227; 100%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (227; 100%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (142; 63%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (128; 56%).
 
 `ADJ` tokens may have the following values of `Tense`:
 
 * `Past` (154; 68% of non-empty `Tense`): <em>kända, sett, allierade, förenta, känd, regisserad, anställd, fortsatt, gift, inblandade</em>
-* `Pres` (74; 32% of non-empty `Tense`): <em>betydande, följande, levande, omfattande, beroende, dominerande, omgivande, sittande, växande, återstående</em>
-* `EMPTY` (1341): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, samma</em>
+* `Pres` (73; 32% of non-empty `Tense`): <em>betydande, följande, levande, omfattande, beroende, dominerande, omgivande, sittande, växande, återstående</em>
+* `EMPTY` (1346): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, samma</em>
 
-`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (172) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (171) occur only with one value of `Tense`.
 
 ## Relations with Agreement in `Tense`
 

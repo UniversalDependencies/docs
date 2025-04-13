@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3571 nodes (6%) are attached to their parents as `amod`.
+3574 nodes (6%) are attached to their parents as `amod`.
 
-2348 instances of `amod` (66%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.23914869784374.
+2351 instances of `amod` (66%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.23922775601567.
 
-The following 11 pairs of parts of speech are connected with `amod`: <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (3445; 96% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (48; 1% instances), <tt><a href="it_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (21; 1% instances), <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (20; 1% instances), <tt><a href="it_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="it_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="it_partut-pos-SYM.html">SYM</a></tt>-<tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-X.html">X</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `amod`: <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (3448; 96% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (48; 1% instances), <tt><a href="it_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (21; 1% instances), <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (20; 1% instances), <tt><a href="it_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="it_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="it_partut-pos-SYM.html">SYM</a></tt>-<tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

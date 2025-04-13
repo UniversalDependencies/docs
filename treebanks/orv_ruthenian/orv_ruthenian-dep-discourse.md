@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-113 nodes (0%) are attached to their parents as `discourse`.
+117 nodes (0%) are attached to their parents as `discourse`.
 
-77 instances of `discourse` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.49557522123894.
+79 instances of `discourse` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.41880341880342.
 
-The following 10 pairs of parts of speech are connected with `discourse`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (87; 77% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-INTJ.html">INTJ</a></tt> (8; 7% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (8; 7% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-INTJ.html">INTJ</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `discourse`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (87; 74% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-INTJ.html">INTJ</a></tt> (10; 9% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (9; 8% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-INTJ.html">INTJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -57,29 +57,24 @@ The following 10 pairs of parts of speech are connected with `discourse`: <tt><a
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 discourse	color:blue
-1	А	а	CCONJ	СС	_	4	cc	_	wf="А"
-2	граница	граница	NOUN	NNI	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	wf="граница"|SpaceAfter=No
-3	,	,	PUNCT	-COMMA-	_	2	punct	_	_
-4	деи	деи	PART	RP	_	2	discourse	_	wf="деи"|SpaceAfter=No
-5	,	,	PUNCT	-COMMA-	_	4	punct	_	_
-6	тым	той	DET	DT	Case=Dat|Gender=Fem|Number=Plur|PronType=Dem	7	det	_	wf="тым"
-7	землѧм	земля	NOUN	NNI	Case=Dat|Gender=Fem|Number=Plur	2	nmod	_	wf="землѧм"
-8	по	по	ADP	IN	_	9	case	_	wf="по"
-9	реку	река	NOUN	NNI	Case=Acc|Gender=Fem|Number=Sing	0	root	_	wf="реку"
-10	по	по	ADP	IN	_	11	case	_	wf="по"
-11	Переслову	Переслова	PROPN	NPI	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	9	appos	_	wf="Переслову"|SpaceAfter=No
-12	,	,	PUNCT	-COMMA-	_	14	punct	_	_
-13	котораѧ	который	DET	WDT	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	14	nsubj	_	wf="котораѧ"
-14	бежить	бежати	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	9	acl:relcl	_	wf="бежить"
-15	по	по	ADP	IN	_	17	case	_	wf="по"
-16	Туринскои	туринский	ADJ	JJL	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	wf="Туринскои"
-17	стороне	сторона	NOUN	NNI	Case=Dat|Gender=Fem|Number=Sing	14	obl	_	wf="стороне"|SpaceAfter=No
-18	.	.	PUNCT	-PERIOD-	_	9	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 discourse	color:blue
+1	А	а	CCONJ	_	_	2	cc	_	wf="А"
+2	поведалъ	поведати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="поведалъ"
+3	намъ	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	iobj	_	wf="намъ"|SpaceAfter=No
+4	:	:	PUNCT	_	_	8	punct	_	wf=":"
+5	то	тотъ	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	wf="то"
+6	деи	деи	PART	_	_	8	discourse	_	wf="де<i>и</i>"
+7	было	быти	AUX	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	8	cop	_	wf="было"
+8	именье	именье	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	parataxis	_	wf="именье"
+9	брата	братъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	wf="брата"
+10	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	det	_	wf="его"|SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	wf=","
+12	Мицково	мицковъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	9	appos	_	wf="Мицково"|SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	wf="."
 
 ~~~
 

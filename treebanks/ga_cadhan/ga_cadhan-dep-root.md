@@ -64,7 +64,7 @@ The following 6 pairs of parts of speech are connected with `root`: -<tt><a href
 6	déirc	déirc	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	advcl	_	_
 7	é	é	PRON	_	Gender=Masc|Number=Sing|Person=3	6	nmod	_	_
 8	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	9	nmod:poss	_	_
-9	dheire	deireadh	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	6	nsubj	_	SpaceAfter=No
+9	dheire	deireadh	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	6	nsubj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
 ~~~

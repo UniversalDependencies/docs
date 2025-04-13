@@ -12,15 +12,15 @@ udver: '2'
 # UD Tagalog TRG
 
 Language: [Tagalog](/tl/index.html) (code: `tl`)<br/>
-Family: Austronesian, Central Philippine
+Family: Austronesian
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
 
 The following people have contributed to making this treebank part of UD: Stephanie Samson, Daniel Zeman, Mary Ann C. Tan.
 
 Repository: [UD_Tagalog-TRG](https://github.com/UniversalDependencies/UD_Tagalog-TRG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtl_trg214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtl_trg215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

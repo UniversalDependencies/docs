@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Cmp` (1; 50% of non-empty `Degree`): <em>дёлядзык</em>
 * `Sup` (1; 50% of non-empty `Degree`): <em>меддёля</em>
-* `EMPTY` (98): <em>ас, бур, второй, небыд, бия, выль, дзолясянь, дик, корейскей, кутшем</em>
+* `EMPTY` (96): <em>ас, бур, второй, небыд, бия, выль, дзолясянь, дик, корейскей, кутшем</em>
 
 ### `DET`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>вылэджык</em>
-* `EMPTY` (476): <em>во, ае, вок, коми, туй, чой, Пустыня, год, кыы, кӧр</em>
+* `EMPTY` (474): <em>во, ае, вок, коми, туй, чой, Пустыня, год, кыы, кӧр</em>
 
 ### `PRON`
 

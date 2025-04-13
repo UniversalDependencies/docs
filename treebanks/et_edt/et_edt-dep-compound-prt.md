@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="et_edt-dep-compound.html">compound</a></tt>.
 
-4409 nodes (1%) are attached to their parents as `compound:prt`.
+4458 nodes (1%) are attached to their parents as `compound:prt`.
 
-2527 instances of `compound:prt` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.87117260149694.
+2558 instances of `compound:prt` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.88021534320323.
 
-The following 7 pairs of parts of speech are connected with `compound:prt`: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (4301; 98% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (90; 2% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `compound:prt`: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (4348; 98% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (90; 2% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,13 +60,13 @@ The following 7 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 8	fgColor:white
 # visual-style 8 7 compound:prt	color:blue
 1	Siis	siis	ADV	D	_	2	advmod	2:advmod	_
-2	tuleb	tulema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-3	harjuda	harjuma	VERB	V	VerbForm=Inf	2	csubj	2:csubj	_
+2	tuleb	tulema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Verb=tulema_4
+3	harjuda	harjuma	VERB	V	VerbForm=Inf	2	csubj	2:csubj	Arg=tulema_Arg_1|Verb=harjuma
 4	lühikesest	lühike	ADJ	A	Case=Ela|Degree=Pos|Number=Sing	5	amod	5:amod	_
 5	basseinist	bassein	NOUN	S	Case=Ela|Number=Sing	8	nmod	8:nmod	_
 6	pikka	pikk	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	8	amod	8:amod	_
 7	üle	üle	ADV	D	_	8	compound:prt	8:compound	_
-8	minemisega	minemine	NOUN	S	Case=Com|Number=Sing	3	obl	3:obl	_
+8	minemisega	minemine	NOUN	S	Case=Com|Number=Sing	3	obl	3:obl	Arg=harjuma_Arg_2
 9	...	...	PUNCT	Z	_	2	punct	2:punct	_
 
 ~~~

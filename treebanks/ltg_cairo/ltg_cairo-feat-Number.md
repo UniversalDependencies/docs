@@ -12,7 +12,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 78 tokens (46%) have a non-empty value of `Number`.
 68 types (58%) occur at least once with a non-empty value of `Number`.
 58 lemmas (54%) occur at least once with a non-empty value of `Number`.
-The feature is used with 6 part-of-speech tags: <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (27; 16% instances), <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> (19; 11% instances), <tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (14; 8% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> (6; 4% instances), <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> (5; 3% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (27; 16% instances), <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> (18; 11% instances), <tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (14; 8% instances), <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> (7; 4% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> (5; 3% instances).
 
 ### `NOUN`
 
@@ -29,14 +29,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `PRON`
 
-19 <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> tokens (95% of all `PRON` tokens) have a non-empty value of `Number`.
+18 <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> tokens (95% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ltg_cairo-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (16; 84%), <tt><a href="ltg_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (12; 63%), <tt><a href="ltg_cairo-feat-Person.html">Person</a></tt><tt>=3</tt> (12; 63%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ltg_cairo-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (16; 89%), <tt><a href="ltg_cairo-feat-Person.html">Person</a></tt><tt>=3</tt> (12; 67%), <tt><a href="ltg_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11; 61%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (1; 5% of non-empty `Number`): <em>Jim</em>
-* `Sing` (18; 95% of non-empty `Number`): <em>jis, tu, jei, Es, Jai, Maņ, jam, juo, kurs, tuo</em>
+* `Plur` (1; 6% of non-empty `Number`): <em>Jim</em>
+* `Sing` (17; 94% of non-empty `Number`): <em>jis, tu, jei, Es, Jai, Maņ, jam, juo, tuo, tū</em>
 * `EMPTY` (1): <em>kuo</em>
 
 <table>
@@ -56,6 +56,16 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 * `Sing` (14; 100% of non-empty `Number`): <em>Pītera, Mareja, Pīters, Braunys, Džeina, Fraņcejis, Marejis, Parizē, Sem, Smita</em>
 * `EMPTY` (1): <em>Igvasu</em>
 
+### `DET`
+
+7 <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ltg_cairo-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 71%), <tt><a href="ltg_cairo-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4; 57%), <tt><a href="ltg_cairo-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4; 57%).
+
+`DET` tokens may have the following values of `Number`:
+
+* `Sing` (7; 100% of non-empty `Number`): <em>Itei, Muns, kaida, kurs, sovai, sovam, tamā</em>
+
 ### `VERB`
 
 7 <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> tokens (20% of all `VERB` tokens) have a non-empty value of `Number`.
@@ -66,16 +76,6 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 * `Sing` (7; 100% of non-empty `Number`): <em>attaisi, dūmoj, gribi, navarieju, pīguoduota, variesi, verīs</em>
 * `EMPTY` (28): <em>ir, pīraksteja, Navarēja, apgrīzt, apsaskuove, atmest, atīt, ceņtēs, dabuoja, izalaseit</em>
-
-### `DET`
-
-6 <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ltg_cairo-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 67%).
-
-`DET` tokens may have the following values of `Number`:
-
-* `Sing` (6; 100% of non-empty `Number`): <em>Itei, Muns, kaida, sovai, sovam, tamā</em>
 
 ### `ADJ`
 
@@ -97,7 +97,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>PROPN --[<tt><a href="ltg_cairo-dep-orphan.html">orphan</a></tt>]--> NOUN</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="ltg_cairo-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="ltg_cairo-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="ltg_cairo-dep-det.html">det</a></tt>]--> PRON</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="ltg_cairo-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="ltg_cairo-dep-orphan.html">orphan</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="ltg_cairo-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1; 100%).
 

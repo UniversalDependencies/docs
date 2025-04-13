@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (0%) are attached to their parents as `fixed`.
+10 nodes (0%) are attached to their parents as `fixed`.
 
-9 instances of `fixed` (100%) are left-to-right (parent precedes child).
+10 instances of `fixed` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (2; 22% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 11% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (1; 11% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 11% instances), <tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (1; 11% instances), <tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 11% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 11% instances).
+The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (2; 20% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 10% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (1; 10% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 10% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> (1; 10% instances), <tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (1; 10% instances), <tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 10% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
@@ -42,7 +42,7 @@ The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 6 7 fixed	color:blue
 1	Мондейне	мон	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Long	4	obl	_	GTtags=Pers,Sg1,Dat,Long
 2	сон	сон	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	GTtags=Pers,Sg3,Nom
-3	ашезь	аш	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	4	aux:neg	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
+3	ашезь	аш	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	4	aux	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
 4	сатов	сатовомс	VERB	_	Connegative=Yes	0	root	_	GTtags=IV,ConNeg|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	_
 6	сяс	сяс	ADV	_	_	8	mark	_	_
@@ -80,7 +80,7 @@ The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href
 17	"	"	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	21	punct	_	_
 19	бта	бта	ADV	Adv	_	21	mark	_	_
-20	аф	аф	AUX	_	Polarity=Neg|VerbType=Aux	21	aux:neg	_	GTtags=Aux,Neg
+20	аф	аф	AUX	_	Polarity=Neg|VerbType=Aux	21	aux	_	GTtags=Aux,Neg
 21	мярьгондяряй	мярьгомс	VERB	V	Derivation=Cond|Mood=Ind|Number[subj]=Sing|Person[subj]=3	25	advcl	_	GTtags=Cond,ScSg3
 22	тяфта	тяфта	ADV	Adv	_	21	advmod	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	21	punct	_	_

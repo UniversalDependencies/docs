@@ -12,15 +12,15 @@ udver: '2'
 # UD Czech FicTree
 
 Language: [Czech](/cs/index.html) (code: `cs`)<br/>
-Family: Indo-European, Slavic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Tomáš Jelínek, Daniel Zeman.
 
 Repository: [UD_Czech-FicTree](https://github.com/UniversalDependencies/UD_Czech-FicTree)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_fictree214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_fictree215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -127,7 +127,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 </ul>
 
 <ul>
-<li>This corpus contains 31 lemmas tagged as pronouns (PRON): být, bůhvíco, co, cokoli, copak, cosi, což, cože, jenž, já, kdeco, kdekdo, kdo, kdokoli, kdopak, kdosi, leccos, ledaco, my, málokdo, nic, nikdo, něco, někdo, on, samy, se, ty, veškerý, von, všecek</li>
+<li>This corpus contains 30 lemmas tagged as pronouns (PRON): bůhvíco, co, cokoli, copak, cosi, což, cože, jenž, já, kdeco, kdekdo, kdo, kdokoli, kdopak, kdosi, leccos, ledaco, my, málokdo, nic, nikdo, něco, někdo, on, samy, se, ty, veškerý, von, všecek</li>
 </ul>
 
 <ul>
@@ -484,7 +484,8 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: celý, další, jiného, poslední, malé, celé, celou, velké, vlastní, celá</li>
+      <li>ADJ: celý, rád, další, jiného, poslední, malé, celé, celou, velké, vlastní</li>
+      <li>ADJ-Part: přesvědčen, řečeno, oblečena, uspořádány, napsáno, obklopen, poslán, pozván, zakázáno, ztraceno</li>
       <li>ADV: dobře, často, dlouho, konečně, rychle, brzy, stejně, náhle, úplně, vždy</li>
       <li>NOUN: hospodský</li>
     </ul>
@@ -513,7 +514,6 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>AUX-Fin: není, nebude, nebudu, nejsem, nejsou, nebudeš, nejsme, nejste, Nebývají, nebudou</li>
       <li>AUX-Inf: nebýt</li>
       <li>AUX-Part: nebyl, nebylo, nebyla, nebyly, nebyli, nebývalo, nebýval, nebývala</li>
-      <li>NOUN: nemožnosti, nevinnost, nedar, nepřejícnost, neznalost, Nezávislost, necudnost, nekrása, nemravnost, neodpovědnosti</li>
       <li>VERB-Conv: netuše, Nechtíc, nedbaje, nedbajíc, nespouštějíc, netroufajíc, nevěda, nevšímajíc</li>
       <li>VERB-Fin: nevím, nemám, nemá, nechci, nemůže, nemůžu, nevíte, nechce, nemáš, nedá</li>
       <li>VERB-Inf: nedívat, Neposuzovat, Nespat, nebrat, nedráždit, nedávat, nehovořit, nejíst, nekazit, nemyslet</li>
@@ -532,8 +532,6 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>AUX-Fin: jsem, je, jsme, bude, jsou, jsi, jste, budu, budeš, budou</li>
       <li>AUX-Inf: být</li>
       <li>AUX-Part: byl, byla, bylo, byly, byli, býval, bývala, bývalo, bývali</li>
-      <li>NOUN: chvíli, život, oči, dítě, den, člověk, plod, dívka, profesor, ruce</li>
-      <li>PROPN: Láďa, Leoš, Valentýna, Eduard, Havel, Alžběta, Flajšman, Veronika, Havlena, Filip</li>
       <li>VERB-Conv: chtěje, hledajíc, Divě, Jda, Opíraje, Pronášejíc, Třesouc, domnívajíc, doufajíce, drže</li>
       <li>VERB-Fin: má, mám, může, musí, mají, musím, vím, stojí, jde, víš</li>
       <li>VERB-Inf: dělat, mít, říct, vidět, jít, udělat, žít, stát, dát, mluvit</li>
@@ -569,6 +567,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
     <ul>
       <li>ADJ-Part: následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího, bušícím</li>
       <li>AUX-Conv: jsouc</li>
+      <li>AUX-Fin: jsem, je, by, bych, jsme, bude, jsou, jsi, není, jste</li>
+      <li>AUX-Inf: být, nebýt</li>
+      <li>AUX-Part: byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</li>
       <li>VERB-Conv: chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</li>
     </ul>
   </li>
@@ -789,15 +790,8 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>Mult
     <ul>
-      <li>ADV: jednou, dvakrát, kolikrát, několikrát, třikrát, párkrát, mnohokrát, tolikrát, pětkrát, stokrát</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Mult,Sets
-    <ul>
       <li>ADJ: Obojí, dvojí, dvojím, oboje, obého</li>
+      <li>ADV: jednou, dvakrát, kolikrát, několikrát, třikrát, párkrát, mnohokrát, tolikrát, pětkrát, stokrát</li>
     </ul>
   </li>
 </ul>
@@ -874,7 +868,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: je, by, bude, jsou, není, budou, nebude, nejsou, bývá, bývají</li>
+      <li>AUX-Fin: je, bude, jsou, není, budou, nebude, nejsou, bývá, bývají, Nebývají</li>
       <li>DET: jeho, její, jejich, jejím, jejího, jejích, jehož, jejímu, jejichž, jejíž</li>
       <li>PRON: ho, mu, ji, je, jí, ní, on, něj, nich, jim</li>
       <li>VERB-Fin: má, může, musí, mají, stojí, jde, nemá, ví, chce, nemůže</li>

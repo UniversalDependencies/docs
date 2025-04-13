@@ -18,9 +18,9 @@ Some adverbs seem to form phrasal verbs (rare phenomenon in Greek),  such as *β
 Adverbs may be assigned the <code>PronType</code> feature:
 - demonstrative adverbs ([PronType=Dem]()): *εδώ* / *edo* ‘here', *εκεί* / *eki* "there", *τώρα* / *tora* ‘now', *τότε* / *tote* "then"
 - indefinite adverbs ([PronType=Ind]()): *κάπου* / *kapou* "somewhere", *κάποτε* / *kapote* "sometime"', *οπουδήποτε* / *opoudipote* "anywhere", *οποτεδήποτε* / *opotedipote* "anytime"
-- interrogative adverbs ([PronType=Int]()): *πού* / *pou* "where", *πότε* / *pote* "when"', *πώς* / *pos* "how", *γιατί* / *giati* "why", *τι* / *ti* "what"
+- interrogative adverbs ([PronType=Int]()): *πού* / *pou* "where", *πότε* / *pote* "when"', *πώς* / *pos* "how", *γιατί* / *giati* "why", *τι* / *ti* "what, why"
 - negative adverbs ([PronType=Neg]()): *πουθενά* / *pouthena* ‘nowhere", *ποτέ* / *pote* "never"
-- relative adverbs: *όπως* / *opos* `in the way that, as"
+- relative adverbs ([PronType=Rel]()): *όπως* / *opos* `in the way that, as"
 - totality adverbs ([PronType=Tot]()): *παντού* / *pantou* "everywhere", *πάντα/πάντοτε* / *panta/pantote* "always"
 
 Αdverbs may be specified for the feature [NumType](el-feat/NumType), e.g. *άπαξ* / *apaks* ‘once'. 
@@ -64,4 +64,4 @@ Mackridge, Peter. 1985. *The Modern Greek Language. A Descriptive Analysis of St
 https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
 
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:33 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:19 CET -->

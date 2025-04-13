@@ -27,10 +27,10 @@ The following 26 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 3	,	,	PUNCT	Z:-------------	_	7	punct	7:punct	_
 4	že	že	SCONJ	J,-------------	_	7	mark	7:mark	LId=že-1
 5	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	6:case	Entity=(cmpr9410049c2--2-gstype:gen
-6	teplo	teplo	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	7	obl:arg	7:obl:arg:za:acc	Entity=cmpr9410049c2)|Functor=7:EFF|LId=teplo-1
+6	teplo	teplo	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing	7	obl:arg	7:obl:arg:za:acc	Entity=cmpr9410049c2)|Functor=7:EFF|LId=teplo-1
 7	platíte	platit	VERB	VB-P---2P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	1:ccomp	Functor=1:PAT
 8	horentní	horentní	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	9	amod	9:amod	Functor=9:RSTR
-9	sumy	suma	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	7	obj	7:obj	SpaceAfter=No|Functor=7:PAT
+9	sumy	suma	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur	7	obj	7:obj	SpaceAfter=No|Functor=7:PAT
 10	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
@@ -49,7 +49,7 @@ The following 26 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 5	zvyknout	zvyknout	VERB	Vf--------A-P--	Aspect=Perf|Polarity=Pos|VerbForm=Inf	4	xcomp	4:xcomp	SpaceAfter=No|Functor=4:PRED
 6	,	,	PUNCT	Z:-------------	_	11	punct	11:punct	_
 7	že	že	SCONJ	J,-------------	_	11	mark	11:mark	LId=že-1
-8	teplo	teplo	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	11	nsubj	11:nsubj	Entity=(cmpr9410049c2--1-gstype:gen)|Functor=11:ACT.cop|LId=teplo-1
+8	teplo	teplo	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	11:nsubj	Entity=(cmpr9410049c2--1-gstype:gen)|Functor=11:ACT.cop|LId=teplo-1
 9	je	být	AUX	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	11:cop	Functor=11:PAT
 10	skutečně	skutečně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	11	advmod	11:advmod	LDeriv=skutečný|Functor=11:MOD
 11	drahé	drahý	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	5	ccomp	5:ccomp	SpaceAfter=No|Functor=5:PAT
@@ -69,12 +69,12 @@ The following 26 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 3	,	,	PUNCT	Z:-------------	_	11	punct	11:punct	_
 4	že	že	SCONJ	J,-------------	_	11	mark	11:mark	LId=že-1
 5	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	8	case	8:case	Entity=(ln9420255c68--4-gstype:gen|LId=v-1
-6	vztahu	vztah	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	5	fixed	5:fixed	_
+6	vztahu	vztah	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	fixed	5:fixed	_
 7	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	5	fixed	5:fixed	LId=k-1
-8	občanům	občan	NOUN	NNMP3-----A----	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos	11	obl	11:obl:ve_vztahu_k:dat	Entity=ln9420255c68)|Functor=11:REG
+8	občanům	občan	NOUN	NNMP3-----A----	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	11	obl	11:obl:ve_vztahu_k:dat	Entity=ln9420255c68)|Functor=11:REG
 9	je	být	AUX	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	11:cop	Functor=11:PAT
 10	veřejným	veřejný	ADJ	AAMS7----1A----	Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	11	amod	11:amod	Functor=11:RSTR
-11	činitelem	činitel	NOUN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	2	ccomp	2:ccomp	SpaceAfter=No|LId=činitel-1|Functor=2:PAT
+11	činitelem	činitel	NOUN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	2	ccomp	2:ccomp	SpaceAfter=No|LId=činitel-1|Functor=2:PAT
 12	.	.	PUNCT	Z:-------------	_	2	punct	2:punct	_
 
 ~~~

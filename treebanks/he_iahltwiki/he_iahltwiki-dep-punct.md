@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16613 nodes (12%) are attached to their parents as `punct`.
+16616 nodes (12%) are attached to their parents as `punct`.
 
 9150 instances of `punct` (55%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.55637151628243.
+Average distance between parent and child is 8.5560905151661.
 
-The following 15 pairs of parts of speech are connected with `punct`: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (6620; 40% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (4549; 27% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (2701; 16% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (805; 5% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (447; 3% instances), <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (426; 3% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (298; 2% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (254; 2% instances), <tt><a href="he_iahltwiki-pos-X.html">X</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (196; 1% instances), <tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (181; 1% instances), <tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (60; 0% instances), <tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (33; 0% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (21; 0% instances), <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (21; 0% instances), <tt><a href="he_iahltwiki-pos-INTJ.html">INTJ</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `punct`: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (6620; 40% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (4549; 27% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (2702; 16% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (805; 5% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (447; 3% instances), <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (426; 3% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (300; 2% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (254; 2% instances), <tt><a href="he_iahltwiki-pos-X.html">X</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (196; 1% instances), <tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (181; 1% instances), <tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (60; 0% instances), <tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (33; 0% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (21; 0% instances), <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (21; 0% instances), <tt><a href="he_iahltwiki-pos-INTJ.html">INTJ</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -69,11 +69,11 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 1	ערך	ערך	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 2	מורחב	מורחב	ADJ	ADJ	Gender=Masc|Number=Sing	1	amod	_	_
 3	–	–	PUNCT	PUNCT	_	4	punct	_	_
-4	פסיפס	פסיפס	PROPN	PROPN	Definite=Cons	1	appos	_	_
+4	פסיפס	פסיפס	PROPN	PROPN	Definite=Cons	1	appos	_	Entity=(WOA
 5	ה	ה	DET	DET	Definite=Def|PronType=Art	6	det	_	_
-6	ציפורים	ציפור	PROPN	PROPN	_	4	compound	_	_
+6	ציפורים	ציפור	PROPN	PROPN	_	4	compound	_	Entity=WOA)
 7	(	(	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No
-8	קיסריה	קיסריה	PROPN	PROPN	_	4	parataxis	_	SpaceAfter=No
+8	קיסריה	קיסריה	PROPN	PROPN	_	4	parataxis	_	Entity=(GPE)|SpaceAfter=No
 9	)	)	PUNCT	PUNCT	_	8	punct	_	_
 
 ~~~

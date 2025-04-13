@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 * `Imp` (3; 0% of non-empty `Mood`): <em>Låt, Släpp, Spola</em>
 * `Ind` (1242; 100% of non-empty `Mood`): <em>har, sade, finns, säger, började, hade, blev, gjorde, tog, kommer</em>
-* `EMPTY` (719): <em>ha, få, göra, ta, gå, se, använda, bli, hjälpa, spela</em>
+* `EMPTY` (720): <em>ha, få, göra, ta, gå, se, använda, bli, hjälpa, spela</em>
 
 <table>
   <tr><th>Paradigm <i>släppa</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -65,7 +65,7 @@ The most frequent other feature values with which `ADJ` and `Mood` co-occurred: 
 `ADJ` tokens may have the following values of `Mood`:
 
 * `Ind` (89; 100% of non-empty `Mood`): <em>betydande, följande, levande, omfattande, beroende, dominerande, omgivande, sittande, självstyrande, växande</em>
-* `EMPTY` (1480): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, samma</em>
+* `EMPTY` (1484): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, samma</em>
 
 `Mood` seems to be **lexical feature** of `ADJ`. 100% lemmas (70) occur only with one value of `Mood`.
 

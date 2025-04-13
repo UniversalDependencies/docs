@@ -37,7 +37,7 @@ The most frequent other feature values with which `VERB` and `Style` co-occurred
 
 22 <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `NOUN` and `Style` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (22; 100%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (19; 86%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (14; 64%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Plur</tt> (13; 59%).
+The most frequent other feature values with which `NOUN` and `Style` co-occurred: <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (19; 86%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (14; 64%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Plur</tt> (13; 59%).
 
 `NOUN` tokens may have the following values of `Style`:
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `NOUN` and `Style` co-occurred
 
 13 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13; 100%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (12; 92%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (12; 92%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 85%), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (10; 77%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8; 62%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (7; 54%).
+The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (13; 100%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13; 100%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (12; 92%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (12; 92%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 85%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8; 62%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (7; 54%).
 
 `ADJ` tokens may have the following values of `Style`:
 
@@ -102,7 +102,7 @@ The most frequent other feature values with which `DET` and `Style` co-occurred:
 
 1 <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `PROPN` and `Style` co-occurred: <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=Ins</tt> (1; 100%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="cs_poetry-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (1; 100%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1; 100%).
+The most frequent other feature values with which `PROPN` and `Style` co-occurred: <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=Ins</tt> (1; 100%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="cs_poetry-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (1; 100%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
 
 `PROPN` tokens may have the following values of `Style`:
 

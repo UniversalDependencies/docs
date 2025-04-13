@@ -54,7 +54,7 @@ The most frequent other feature values with which `AUX` and `Number[subj]` co-oc
 
 2 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Number[subj]`.
 
-The most frequent other feature values with which `NOUN` and `Number[subj]` co-occurred: <tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `NOUN` and `Number[subj]` co-occurred: <tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `NOUN` tokens may have the following values of `Number[subj]`:
 

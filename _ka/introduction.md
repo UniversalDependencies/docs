@@ -24,7 +24,7 @@ This table summarizes the origins and checking of the various columns of the CoN
 | FEATS | Mapped from the original GLC annotation. |
 | HEAD | Converted automatically with manual corrections |
 | DEPREL | Converted automatically with manual corrections |
-| DEPS | Converted automatically with manual corrections |
+| DEPS | - |
 | MISC | Converted automatically |
 
 ## References

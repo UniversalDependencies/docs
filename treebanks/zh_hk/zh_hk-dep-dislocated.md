@@ -30,8 +30,8 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 6	現在	現在	NOUN	_	_	9	obl:tmod	_	SpaceAfter=No|Translit=xiànzài|LTranslit=xiànzài
 7	尚	尚	ADV	_	_	9	advmod	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
 8	未	未	ADV	_	_	9	advmod	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-9	弄	弄	VERB	_	_	0	root	_	SpaceAfter=No|Translit=nòng|LTranslit=nòng
-10	清楚	清楚	ADJ	_	_	9	compound:vv	_	SpaceAfter=No|Translit=qīngchu|LTranslit=qīngchu
+9	弄	弄	VERB	_	_	0	root	_	SpaceAfter=No|Translit=nòng|LTranslit=nòng|Cxn=Resultative|CxnElt=9:Resultative.Event
+10	清楚	清楚	ADJ	_	_	9	compound:vv	_	SpaceAfter=No|Translit=qīngchu|LTranslit=qīngchu|CxnElt=9:Resultative.ResultState
 11	多少	多少	DET	_	_	12	det	_	SpaceAfter=No|Translit=duōshǎo|LTranslit=duōshǎo
 12	議員	議員	NOUN	_	_	14	nsubj	_	SpaceAfter=No|Translit=yìyuán|LTranslit=yìyuán
 13	能夠	能夠	AUX	_	_	14	aux	_	SpaceAfter=No|Translit=nénggòu|LTranslit=nénggòu

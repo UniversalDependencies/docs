@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `appos`: <tt><a href="qtd_sagt-dep-appos-trans.html">appos:trans</a></tt>.
 
-67 nodes (0%) are attached to their parents as `appos`.
+68 nodes (0%) are attached to their parents as `appos`.
 
-67 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.2089552238806.
+68 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.25.
 
-The following 10 pairs of parts of speech are connected with `appos`: <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (14; 21% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (10; 15% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (9; 13% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (8; 12% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (7; 10% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (6; 9% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (5; 7% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (5; 7% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `appos`: <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (14; 21% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (10; 15% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (9; 13% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (8; 12% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (7; 10% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (6; 9% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (5; 7% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (5; 7% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -40,24 +40,6 @@ The following 10 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 appos	color:blue
-1	Ve	ve	CCONJ	_	_	7	cc	_	CSID=TR|Lang=tr
-2	ehm	ehm	INTJ	_	_	7	discourse	_	CSID=TR|Lang=tr
-3	Kanarische	kanarisch	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	CSID=DE|Lang=de
-4	Insel	Insel	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	CSID=DE|Lang=de
-5	de	de	ADV	_	_	3	advmod:emph	_	CSID=TR|Lang=tr
-6	çok	çok	ADV	_	_	7	advmod	_	CSID=TR|Lang=tr
-7	güzel	güzel	ADJ	_	_	0	root	_	CSID=TR|Lang=tr|SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	CSID=OTHER
-
-~~~
-
-
-~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 9	bgColor:blue
@@ -75,6 +57,24 @@ The following 10 pairs of parts of speech are connected with `appos`: <tt><a hre
 10	ona	o	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	9	appos	_	CSID=TR|Lang=tr
 11	taktım	tak	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=1|Tense=Past	5	conj	_	CSID=TR|Lang=tr|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	CSID=OTHER
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 appos	color:blue
+1	Ve	ve	CCONJ	_	_	7	cc	_	CSID=TR|Lang=tr
+2	ehm	ehm	INTJ	_	_	7	discourse	_	CSID=TR|Lang=tr
+3	Kanarische	kanarisch	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	CSID=DE|Lang=de
+4	Insel	Insel	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	CSID=DE|Lang=de
+5	de	de	ADV	_	_	3	advmod:emph	_	CSID=TR|Lang=tr
+6	çok	çok	ADV	_	_	7	advmod	_	CSID=TR|Lang=tr
+7	güzel	güzel	ADJ	_	_	0	root	_	CSID=TR|Lang=tr|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	CSID=OTHER
 
 ~~~
 

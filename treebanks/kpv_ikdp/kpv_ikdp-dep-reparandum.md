@@ -29,10 +29,10 @@ The following 11 pairs of parts of speech are connected with `reparandum`: <tt><
 5	но	но	CCONJ	CC	_	9	cc	_	OrigLang=ru
 6	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	8	reparandum	_	SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
-8	абу	абу	AUX	Pcle	Polarity=Neg	9	aux:neg	_	_
+8	абу	абу	AUX	Pcle	Polarity=Neg	9	aux	_	_
 9	понравитчема	понравитчыны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	3	acl	_	OrigLang=ru|SpaceAfter=No|Note=Check
 10	,	,	PUNCT	CLB	_	12	punct	_	_
-11	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	12	aux:neg	_	_
+11	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	12	aux	_	_
 12	вермы	вермыны	VERB	V	Connegative=Yes	9	conj	_	_
 13	сыа	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 14	сэтшем	сэтшӧм	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	15	det	_	_
@@ -59,7 +59,7 @@ The following 11 pairs of parts of speech are connected with `reparandum`: <tt><
 9	кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	10	nummod	_	GTtags=Card,Sg,Nom
 10	во	во	NOUN	N	Case=Nom|Number=Sing	11	nmod	_	GTtags=Sg,Nom
 11	сайын	сай	NOUN	N	Case=Ine|NounType=Relat|Number=Sing	7	obl:tmod	_	GTtags=Relat,Sg,Ine
-12	ачум	ас	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	6	det	_	GTtags=Refl,Sg1,Err/Dial,Nom|SpaceAfter=No
+12	ачум	ас	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	7	obl	_	GTtags=Refl,Sg1,Err/Dial,Nom|SpaceAfter=No
 13	,	,	PUNCT	PUNCT	_	16	punct	_	_
 14	но	но	CCONJ	CC	_	16	cc	_	SpaceAfter=No
 15	,	,	PUNCT	PUNCT	_	14	punct	_	_

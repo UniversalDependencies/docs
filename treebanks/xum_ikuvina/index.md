@@ -12,15 +12,15 @@ udver: '2'
 # UD Umbrian IKUVINA
 
 Language: [Umbrian](/xum/index.html) (code: `xum`)<br/>
-Family: Indo-European, Italic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.10 release.
 
 The following people have contributed to making this treebank part of UD: Mathieu Dehouck.
 
 Repository: [UD_Umbrian-IKUVINA](https://github.com/UniversalDependencies/UD_Umbrian-IKUVINA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxum_ikuvina214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxum_ikuvina215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

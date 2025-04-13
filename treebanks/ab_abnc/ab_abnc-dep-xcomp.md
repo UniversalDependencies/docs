@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Abkhaz-AbNC: Relations: `xcomp`
 
 This relation is universal.
-There are 2 language-specific subtypes of `xcomp`: <tt><a href="ab_abnc-dep-xcomp-lo.html">xcomp:lo</a></tt>, <tt><a href="ab_abnc-dep-xcomp-obj.html">xcomp:obj</a></tt>.
+There are 3 language-specific subtypes of `xcomp`: <tt><a href="ab_abnc-dep-xcomp-lo.html">xcomp:lo</a></tt>, <tt><a href="ab_abnc-dep-xcomp-obj.html">xcomp:obj</a></tt>, <tt><a href="ab_abnc-dep-xcomp-subj.html">xcomp:subj</a></tt>.
 
-8 nodes (0%) are attached to their parents as `xcomp`.
+35 nodes (1%) are attached to their parents as `xcomp`.
 
-8 instances of `xcomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25.
+35 instances of `xcomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.37142857142857.
 
-The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (3; 38% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (3; 38% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (2; 25% instances).
+The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (24; 69% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (8; 23% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 6	хәарҭара	а-хәарҭара́	NOUN	Noun_NH_Sg	Animacy=Nhum|Number=Sing	7	nsubj	_	LMSeg:а-хәарҭара́
 7	злам	а́-лазаара	VERB	V_Stat_NonFin_Pres_Neg_S:3_S:Ad_LO:Rel_Rel	Dyn=No|Person[lo]=Rel|Person[subj]=3|Polarity=Neg|Tense=Pres|VerbForm=NonFin	9	xcomp	_	LMSeg:а́-ла-заа-ра
 8	ҳәа	ҳәа́	PART	Prt_Quote	_	7	mark	_	LMSeg:ҳәа́
-9	иуҧхьаӡо	а́-ҧхьаӡара	VERB	V_Dyn_Tr_NonFin_Pres_S:2SgM_DO:Rel_Rel	Dyn=Yes|Gender[subj]=Masc|Number[subj]=Sing|Person[obj]=Rel|Person[subj]=2|Tense=Pres|Trans=Yes|VerbForm=NonFin	4	csubj	_	LMSeg:а́-ҧхьаӡа-ра
+9	иуҧхьаӡо	а́-ҧхьаӡара	VERB	V_Dyn_Tr_NonFin_Pres_S:2SgM_DO:Rel_Rel	Dyn=Yes|Gender[subj]=Masc|Number[subj]=Sing|Person[obj]=Rel|Person[subj]=2|Subcat=Tran|Tense=Pres|VerbForm=NonFin	4	csubj	_	LMSeg:а́-ҧхьаӡа-ра
 10	!	!	PUNCT	Punct_ExclPoint	_	4	punct	_	LMSeg:!
 
 ~~~
@@ -60,10 +60,10 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 1 xcomp	color:blue
 1	Уи	уи́	PRON	Pron_Dem_Dist_Sg	Number=Sing|PronType=Dem	2	xcomp	_	LMSeg:уи́
-2	акәхеит	а́кәхара	VERB	V_Dyn_Intr_Fin_Aor_S:3_IO:3SgNH_Cop	Dyn=Yes|Gender[io]=Neut|Number[io]=Sing|Person[io]=3|Person[subj]=3|Tense=Aor|Trans=No|VerbForm=Fin	0	root	_	LMSeg:а́кә·ха-ра
+2	акәхеит	а́кәхара	VERB	V_Dyn_Intr_Fin_Aor_S:3_IO:3SgNH_Cop	Dyn=Yes|Gender[io]=Neut|Number[io]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а́кә·ха-ра
 3	,	,	PUNCT	Punct_Comma	_	5	punct	_	LMSeg:,
-4	иҳәыҧыӡыҧуа	а-ҳәҧы́ӡыҧра	VERB	V_Dyn_Intr_NonFin_Cnv_Abs_Pres_S:3	Dyn=Yes|Person[subj]=3|Tense=Pres|Trans=No|VerbForm=NonFin	5	advcl:conv	_	LMSeg:а-ҳәҧы́ӡыҧ-ра
-5	иаалахеит	а́-лахара	VERB	V_Dyn_Intr_Fin_Aor_FPv:аа_S:3_[LO:3SgNH]	Dyn=Yes|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[subj]=3|Tense=Aor|Trans=No|VerbForm=Fin	2	conj	_	LMSeg:а́-ла·ха-ра
+4	иҳәыҧыӡыҧуа	а-ҳәҧы́ӡыҧра	VERB	V_Dyn_Intr_NonFin_Cnv_Abs_Pres_S:3	Dyn=Yes|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=NonFin	5	advcl:conv	_	LMSeg:а-ҳәҧы́ӡыҧ-ра
+5	иаалахеит	а́-лахара	VERB	V_Dyn_Intr_Fin_Aor_FPv:аа_S:3_[LO:3SgNH]	Dyn=Yes|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=Fin	2	conj	_	LMSeg:а́-ла·ха-ра
 6	.	.	PUNCT	Punct_Period	_	5	punct	_	LMSeg:.
 
 ~~~

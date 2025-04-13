@@ -9,34 +9,34 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-1098 tokens (28%) have a non-empty value of `Gender`.
-313 types (40%) occur at least once with a non-empty value of `Gender`.
-207 lemmas (39%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (394; 10% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (374; 10% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (169; 4% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (120; 3% instances), <tt><a href="ha_northernautogramm-pos-ADJ.html">ADJ</a></tt> (19; 0% instances), <tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (2; 0% instances).
+1220 tokens (29%) have a non-empty value of `Gender`.
+338 types (41%) occur at least once with a non-empty value of `Gender`.
+223 lemmas (40%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (421; 10% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (420; 10% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (196; 5% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (137; 3% instances), <tt><a href="ha_northernautogramm-pos-ADJ.html">ADJ</a></tt> (19; 0% instances), <tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (4; 0% instances).
 
 ### `AUX`
 
-394 <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> tokens (62% of all `AUX` tokens) have a non-empty value of `Gender`.
+421 <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> tokens (61% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="ha_northernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (394; 100%), <tt><a href="ha_northernautogramm-feat-Person.html">Person</a></tt><tt>=3</tt> (309; 78%), <tt><a href="ha_northernautogramm-feat-Aspect.html">Aspect</a></tt><tt>=PerfBkg</tt> (198; 50%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="ha_northernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (421; 100%), <tt><a href="ha_northernautogramm-feat-Person.html">Person</a></tt><tt>=3</tt> (334; 79%), <tt><a href="ha_northernautogramm-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (294; 70%).
 
 `AUX` tokens may have the following values of `Gender`:
 
-* `Fem` (112; 28% of non-empty `Gender`): <em>tac, tanàː, tà, taː, tas, tay, tab, tak, takè, tat</em>
-* `Masc` (282; 72% of non-empty `Gender`): <em>yac, yaː, kaː, shinàː, shì, yaz, kà, yat, yah, yay</em>
-* `EMPTY` (241): <em>ankà, sunkà, à, ìn, naː, akà, sunàː, anàː, sun, inàː</em>
+* `Fem` (122; 29% of non-empty `Gender`): <em>tanàː, tac, tà, taː, takè, tay, tas, ta', tab, tak</em>
+* `Masc` (299; 71% of non-empty `Gender`): <em>yac, shinàː, yaː, kaː, shì, yaz, kà, yat, yay, yah</em>
+* `EMPTY` (269): <em>ankà, sunkà, à, ìn, anàː, sunàː, naː, akà, sun, inàː</em>
 
 ### `NOUN`
 
-374 <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> tokens (78% of all `NOUN` tokens) have a non-empty value of `Gender`.
+420 <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> tokens (80% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ha_northernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (373; 100%), <tt><a href="ha_northernautogramm-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (220; 59%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ha_northernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (419; 100%), <tt><a href="ha_northernautogramm-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (234; 56%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (84; 22% of non-empty `Gender`): <em>dàːmisàː, kuːraː, gàyyaː, duːniyàː, yâː, raːnaː, kwaːnaː, uwaː, rân, uwat</em>
-* `Masc` (290; 78% of non-empty `Gender`): <em>kàreː, gidaː, sâː, yaːɗaː, zàkaràː, ɓiki, mùtun, àbin, mùzuːruː, bàːkin</em>
-* `EMPTY` (103): <em>ruwaː, ƴan, mutàːneː, ayaː, baːyuː, cinàn, giːwàːyeː, ruwan, zàːrùmmai, kuɗɗiː</em>
+* `Fem` (110; 26% of non-empty `Gender`): <em>dàːmisàː, kuːraː, gàyyaː, duːniyàː, yâː, raːnaː, shìgat, kwaːnaː, raːnak, rân</em>
+* `Masc` (310; 74% of non-empty `Gender`): <em>kàreː, gidaː, sâː, yaːɗaː, zàkaràː, ɓiki, mùtun, àbin, mùzuːruː, sarkin</em>
+* `EMPTY` (106): <em>ruwaː, ƴan, mutàːneː, ayaː, baːyuː, cinàn, giːwàːyeː, ruwan, zàːrùmmai, kuɗɗiː</em>
 
 <table>
   <tr><th>Paradigm <i>ɗaː</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -45,19 +45,19 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="ha_northernautogramm-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>ɗan</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (117) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (125) occur only with one value of `Gender`.
 
 ### `PRON`
 
-169 <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> tokens (67% of all `PRON` tokens) have a non-empty value of `Gender`.
+196 <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> tokens (70% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ha_northernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (168; 99%), <tt><a href="ha_northernautogramm-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (148; 88%), <tt><a href="ha_northernautogramm-feat-Person.html">Person</a></tt><tt>=3</tt> (113; 67%), <tt><a href="ha_northernautogramm-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (106; 63%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ha_northernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (195; 99%), <tt><a href="ha_northernautogramm-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (175; 89%), <tt><a href="ha_northernautogramm-feat-Person.html">Person</a></tt><tt>=3</tt> (134; 68%), <tt><a href="ha_northernautogramm-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (114; 58%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (52; 31% of non-empty `Gender`): <em>ita, tà, =tà, =ta, wàccan, matà, =kì, wàgga, keː, maw</em>
-* `Masc` (117; 69% of non-empty `Gender`): <em>shiː, shi, shì, =nai, =tai, mai, =ka, =kà, kà, maː</em>
-* `EMPTY` (82): <em>=sù, niː, suː, musù, sù, koːmiː, min, =na, ni, =taː</em>
+* `Fem` (64; 33% of non-empty `Gender`): <em>ita, =tà, wàccan, tà, =ta, matà, ta, =kì, wàgga, keː</em>
+* `Masc` (132; 67% of non-empty `Gender`): <em>shiː, =tai, shì, shi, =nai, =kà, mai, =ka, kai, kà</em>
+* `EMPTY` (86): <em>=sù, niː, suː, musù, sù, koːmiː, min, =na, =su, ni</em>
 
 <table>
   <tr><th>Paradigm <i>wani</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -65,19 +65,19 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt></tt></td><td></td><td><em>wata</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PRON`. 97% lemmas (35) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PRON`. 97% lemmas (37) occur only with one value of `Gender`.
 
 ### `VERB`
 
-120 <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> tokens (18% of all `VERB` tokens) have a non-empty value of `Gender`.
+137 <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> tokens (19% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="ha_northernautogramm-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (118; 98%), <tt><a href="ha_northernautogramm-feat-ExtPos.html">ExtPos</a></tt><tt>=NOUN</tt> (116; 97%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="ha_northernautogramm-feat-ExtPos.html">ExtPos</a></tt><tt>=NOUN</tt> (131; 96%), <tt><a href="ha_northernautogramm-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (131; 96%).
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (63; 53% of non-empty `Gender`): <em>tàhiyàː, zakkùwaː, gàmuwaː, gàyyaː., hwaːɗùwaː, bìɗaː, cêːwaː, daɗèːwaː, kankaryaː, kaːwoːwàː</em>
-* `Masc` (57; 48% of non-empty `Gender`): <em>yîː, sôn, cîn, gudùː, kwaːnaː, taːshìː, hwaɗìː, yîn, zaman, zamaː</em>
-* `EMPTY` (550): <em>cèː, yi, zakà, cêː, zoː, ga, tàhi, taɓà, ji, tohoː</em>
+* `Fem` (77; 56% of non-empty `Gender`): <em>tàhiyàː, zakkùwaː, bìyash, gàmuwaː, gàyyaː., hwaːɗùwaː, kankaryaː, sarɓaː, bìɗaː, cêːwaː</em>
+* `Masc` (60; 44% of non-empty `Gender`): <em>yîː, sôn, cîn, kwaːnaː, gudùː, sauraːreː, taːshìː, hwaɗìː, yîn, zaman</em>
+* `EMPTY` (592): <em>cèː, yi, cêː, zakà, zoː, ga, tàhi, ji, taɓà, bìye</em>
 
 <table>
   <tr><th>Paradigm <i>ci</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -85,11 +85,11 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
   <tr><td><tt></tt></td><td><em>cîː</em></td><td><em>cânyeːwàː</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `VERB`. 97% lemmas (36) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `VERB`. 98% lemmas (40) occur only with one value of `Gender`.
 
 ### `ADJ`
 
-19 <tt><a href="ha_northernautogramm-pos-ADJ.html">ADJ</a></tt> tokens (73% of all `ADJ` tokens) have a non-empty value of `Gender`.
+19 <tt><a href="ha_northernautogramm-pos-ADJ.html">ADJ</a></tt> tokens (70% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ha_northernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="ha_northernautogramm-feat-Definite.html">Definite</a></tt><tt>=Cons</tt> (12; 63%).
 
@@ -97,7 +97,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 * `Fem` (3; 16% of non-empty `Gender`): <em>wacèː, ƴag, ƴak</em>
 * `Masc` (16; 84% of non-empty `Gender`): <em>ɗan, baƙiː, hwarin, hwariː, namijì, ƙàramiː, baƙin, hìyayyem, jan</em>
-* `EMPTY` (7): <em>jaː, maːtaː, jan</em>
+* `EMPTY` (8): <em>jaː, maːtaː, jan, kwànce-kwancèn</em>
 
 <table>
   <tr><th>Paradigm <i>ɗaː</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -106,15 +106,15 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `DET`
 
-15 <tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> tokens (19% of all `DET` tokens) have a non-empty value of `Gender`.
+18 <tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> tokens (20% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="ha_northernautogramm-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (13; 87%), <tt><a href="ha_northernautogramm-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (12; 80%), <tt><a href="ha_northernautogramm-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (9; 60%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="ha_northernautogramm-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (17; 94%), <tt><a href="ha_northernautogramm-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (12; 67%), <tt><a href="ha_northernautogramm-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (10; 56%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (9; 60% of non-empty `Gender`): <em>wata, wàccân, waccè</em>
-* `Masc` (6; 40% of non-empty `Gender`): <em>wani, wanèː</em>
-* `EMPTY` (65): <em>nan, ga, wasu, du', dug, su, dus, dut, can, dub</em>
+* `Fem` (11; 61% of non-empty `Gender`): <em>wata, wàccân, tan, waccè</em>
+* `Masc` (7; 39% of non-empty `Gender`): <em>wani, wanèː</em>
+* `EMPTY` (70): <em>nan, ga, wasu, du', dug, su, dus, dut, duy, can</em>
 
 <table>
   <tr><th>Paradigm <i>wani</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -133,26 +133,26 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `PART`
 
-2 <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Gender`.
+4 <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PART` and `Gender` co-occurred: <tt><a href="ha_northernautogramm-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ha_northernautogramm-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `PART` and `Gender` co-occurred: <tt><a href="ha_northernautogramm-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ha_northernautogramm-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4; 100%).
 
 `PART` tokens may have the following values of `Gender`:
 
-* `Fem` (2; 100% of non-empty `Gender`): <em>ta</em>
-* `EMPTY` (171): <em>nàː, ta, ba, baːbù, gàː, dai, àkwai, bâː, kòː, bàː</em>
+* `Fem` (4; 100% of non-empty `Gender`): <em>ta</em>
+* `EMPTY` (177): <em>ta, gàː, nàː, ba, baːbù, kòː, dai, àkwai, bâː, bàː</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="ha_northernautogramm-dep-compound.html">compound</a></tt>]--> NOUN</tt> (20; 65%),
 <tt>NOUN --[<tt><a href="ha_northernautogramm-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14; 82%),
+<tt>VERB --[<tt><a href="ha_northernautogramm-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (13; 62%),
+<tt>NOUN --[<tt><a href="ha_northernautogramm-dep-conj.html">conj</a></tt>]--> NOUN</tt> (8; 80%),
 <tt>VERB --[<tt><a href="ha_northernautogramm-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 60%),
-<tt>NOUN --[<tt><a href="ha_northernautogramm-dep-acl-relcl.html">acl:relcl</a></tt>]--> NOUN</tt> (4; 100%),
-<tt>NOUN --[<tt><a href="ha_northernautogramm-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4; 67%),
-<tt>NOUN --[<tt><a href="ha_northernautogramm-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (4; 100%),
+<tt>NOUN --[<tt><a href="ha_northernautogramm-dep-acl-relcl.html">acl:relcl</a></tt>]--> NOUN</tt> (5; 63%),
 <tt>VERB --[<tt><a href="ha_northernautogramm-dep-det.html">det</a></tt>]--> DET</tt> (4; 80%),
 <tt>AUX --[<tt><a href="ha_northernautogramm-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2; 100%),
-<tt>NOUN --[<tt><a href="ha_northernautogramm-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 67%),
+<tt>NOUN --[<tt><a href="ha_northernautogramm-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (2; 100%),
 <tt>PRON --[<tt><a href="ha_northernautogramm-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 67%).
 

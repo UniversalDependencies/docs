@@ -28,7 +28,7 @@ The most frequent other feature values with which `PRON` and `Variant` co-occurr
 
 357 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (357; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (356; 100%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (354; 99%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (197; 55%).
+The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (357; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (356; 100%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (354; 99%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (197; 55%).
 
 `ADJ` tokens may have the following values of `Variant`:
 

@@ -177,6 +177,21 @@ det(books, these)
 nummod(books, three)
 </div>
 
+An exception from the rule that function words are not chained is the [demonstrative+classifier construction](/u/dep/clf.html), occurring e.g. in Chinese. Here the classifier forms a constituent with the demonstrative (which is a [det]()) and is attached as a child of the demonstrative.
+
+~~~ sdparse
+乘坐 這 輛 巴士 \n Chéngzuò zhè liàng bāshì \n Take this CLF bus
+obj(乘坐, 巴士)
+det(巴士, 這)
+clf(這, 輛)
+obj(Chéngzuò, bāshì)
+det(bāshì, zhè)
+clf(zhè, liàng)
+obj(Take, bus)
+det(bus, this)
+clf(this, CLF)
+~~~
+
 We are aware that the choice to treat function words formally as dependents of content words is at odds with many versions of dependency grammar, which prefer the opposite relation for many syntactic constructions.
 We prefer to view the relations between content words and function words, not as dependency relations in the narrow
 sense, but as operations that modify the grammatical category of the content word so that it can participate in
@@ -194,10 +209,10 @@ Nevertheless, there are four important exceptions to the rule that function word
 ### Multiword Function Words
 
 The word forms that make up a fixed multiword expression are connected using the special dependency relation [u-dep/fixed]().
-By convention, the first word is always taken as the head, so when the multiword expression is a functional element, the initial word form will then superficially look like a function word with dependents.
+By convention, the first word is always taken as the head, so when the multiword expression is a functional element, the initial word form will then superficially look like a function word with dependents. The [ExtPos]() feature on the first word specifies the holistic UPOS category of the expression.
 
 <div id="fixed1" class="sd-parse">
-They saw each/DET other/ADJ
+They saw each/DET[ExtPos=PRON] other/ADJ
 fixed(each, other)
 obj(saw, each)
 </div>
@@ -431,7 +446,7 @@ Structures analyzed with [u-dep/fixed]() and [u-dep/flat]() are **headless** by 
 annotated by attaching all non-first elements to the first and only allowing outgoing dependents from the first element.
 
 <div id="mwe1" class="sd-parse">
-I like dogs as/ADV well/ADV as/ADP cats .
+I like dogs as/ADV[ExtPos=CCONJ] well/ADV as/ADP cats .
 fixed(as-4, well)
 fixed(as-4, as-6)
 cc(cats, as-4)

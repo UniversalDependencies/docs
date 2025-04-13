@@ -16,12 +16,12 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ceb_gja-pos-PART.ht
 
 ### `PART`
 
-23 <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> tokens (14% of all `PART` tokens) have a non-empty value of `Polarity`.
+23 <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> tokens (13% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (23; 100% of non-empty `Polarity`): <em>dili, wala, ayaw, di, Ambot</em>
-* `EMPTY` (138): <em>-ng, man, nga, ka, ra, lang, ba, -g, pa, diay</em>
+* `EMPTY` (149): <em>-ng, nga, man, ka, ra, ba, lang, -g, pa, diay</em>
 
 ### `VERB`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (6; 100% of non-empty `Polarity`): <em>wala</em>
-* `EMPTY` (171): <em>may, moadto, ganahan, gibuhat, gusto, tabangan, Gitawag, Kinahanglan, Liguon, Silhigan</em>
+* `EMPTY` (181): <em>gusto, may, moadto, ganahan, gibuhat, tabangan, Gisulayan, Gitawag, Kinahanglan, Liguon</em>
 
 ### `ADV`
 
@@ -43,5 +43,5 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>Wala</em>
-* `EMPTY` (71): <em>na, Ngano, karon, kaayo, Pila, Pilay, Tua, didto, labi, lang</em>
+* `EMPTY` (73): <em>na, Ngano, karon, kaayo, Pila, Pilay, Tua, didto, labi, lang</em>
 

@@ -71,7 +71,7 @@ The following 2 pairs of parts of speech are connected with `parataxis`: <tt><a 
 27	le	le	X	zi	Foreign=Yes	26	flat:foreign	_	_
 28	plage	plage	X	zi	Foreign=Yes	26	flat:foreign	_	_
 29	de	de	X	zi	Foreign=Yes	26	flat:foreign	_	_
-30	Dio	dio	X	zi	Foreign=Yes|NameType=Rel|Proper=Yes	26	flat:foreign	_	_
+30	Dio	dio	X	zi	Foreign=Yes	26	flat:foreign	_	NameType=Rel|Proper=Yes
 31	tu	tu	X	zi	Foreign=Yes	26	flat:foreign	_	_
 32	no	no	X	zi	Foreign=Yes	26	flat:foreign	_	_
 33	veras	ueras	X	zi	Foreign=Yes	26	flat:foreign	_	_

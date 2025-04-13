@@ -12,17 +12,17 @@ It occurs with 2 different values: `Act`, `Pass`.
 13841 tokens (14%) have a non-empty value of `Voice`.
 2639 types (17%) occur at least once with a non-empty value of `Voice`.
 1227 lemmas (12%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (9560; 10% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (4281; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (9559; 10% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (4282; 4% instances).
 
 ### `VERB`
 
-9560 <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Voice`.
+9559 <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5561; 58%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5355; 56%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5560; 58%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5354; 56%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (8042; 84% of non-empty `Voice`): <em>har, blir, få, får, ha, är, gäller, ger, går, se</em>
+* `Act` (8041; 84% of non-empty `Voice`): <em>har, blir, få, får, ha, är, gäller, ger, går, se</em>
 * `Pass` (1518; 16% of non-empty `Voice`): <em>kallas, användas, behövs, anses, beräknas, tas, används, ges, användes, förändras</em>
 * `EMPTY` (311): <em>finns, tycks, fanns, finnas, fordras, känns, hoppas, syns, trivas, fattas</em>
 
@@ -37,13 +37,13 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-4281 <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
+4282 <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3873; 90%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3864; 90%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3496; 82%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3874; 90%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3865; 90%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3497; 82%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (4281; 100% of non-empty `Voice`): <em>är, kan, har, måste, skall, vara, skulle, ska, kommer, var</em>
+* `Act` (4282; 100% of non-empty `Voice`): <em>är, kan, har, måste, skall, vara, skulle, ska, kommer, var</em>
 
 `Voice` seems to be **lexical feature** of `AUX`. 100% lemmas (14) occur only with one value of `Voice`.
 
@@ -51,13 +51,13 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="sv_talbanken-dep-aux.html">aux</a></tt>]--> AUX</tt> (1821; 77%),
-<tt>VERB --[<tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (810; 72%),
+<tt>VERB --[<tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (810; 73%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> VERB</tt> (698; 81%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (304; 77%),
-<tt>VERB --[<tt><a href="sv_talbanken-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (275; 81%),
+<tt>VERB --[<tt><a href="sv_talbanken-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (281; 82%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (167; 77%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (96; 92%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (28; 85%),
-<tt>VERB --[<tt><a href="sv_talbanken-dep-appos.html">appos</a></tt>]--> VERB</tt> (18; 75%),
+<tt>VERB --[<tt><a href="sv_talbanken-dep-appos.html">appos</a></tt>]--> VERB</tt> (16; 73%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-cop.html">cop</a></tt>]--> AUX</tt> (4; 100%).
 

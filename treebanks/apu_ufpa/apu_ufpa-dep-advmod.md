@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Apurina-UFPA: Relations: `advmod`
 
 This relation is universal.
-There are 3 language-specific subtypes of `advmod`: <tt><a href="apu_ufpa-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="apu_ufpa-dep-advmod-neg.html">advmod:neg</a></tt>, <tt><a href="apu_ufpa-dep-advmod-tmod.html">advmod:tmod</a></tt>.
+There are 2 language-specific subtypes of `advmod`: <tt><a href="apu_ufpa-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="apu_ufpa-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-34 nodes (3%) are attached to their parents as `advmod`.
+48 nodes (5%) are attached to their parents as `advmod`.
 
-26 instances of `advmod` (76%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.44117647058824.
+40 instances of `advmod` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.3125.
 
-The following 4 pairs of parts of speech are connected with `advmod`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (26; 76% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (5; 15% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (2; 6% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PART.html">PART</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `advmod`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (26; 54% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PART.html">PART</a></tt> (13; 27% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (5; 10% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PART.html">PART</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -36,6 +36,22 @@ The following 4 pairs of parts of speech are connected with `advmod`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 advmod	color:blue
+1	Ywa	ywa	PRON	Pron	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	det	_	gloss[pt]=3SG.M
+2	aapukutxi	awapukutxi	NOUN	XPOS=casa.de	Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Possessed=No	4	nsubj	_	gloss[pt]=casa.de-N.POSSD
+3	kuna	kuna	PART	XPOS=não	Polarity=Neg	4	advmod	_	gloss[pt]=não
+4	awary	awa	VERB	XPOS=ter	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	0	root	_	gloss[pt]=ter-3SG.M.O
+5	ithure	thure	NOUN	XPOS=3SG.M-porta.de	_	4	obj	_	gloss[pt]=3SG.M-porta.de|SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
@@ -47,21 +63,6 @@ The following 4 pairs of parts of speech are connected with `advmod`: <tt><a hre
 4	apaka	apaka	ADV	Adv	_	5	advmod	_	gloss[pt]=também
 5	kupiti	kupiti	NOUN	XPOS=panela.de.barro	_	2	conj	_	gloss[pt]=panela.de.barro|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 advmod	color:blue
-1	Natukupa	natukupa	ADV	Adv	_	3	advmod	_	_
-2	itxa	txa	AUX	_	Gender[subj]=Masc|Number[subj]=Sing|Person[subj]=3	3	cop	_	GTtags=Aux,ScSg3M
-3	wai	wai	ADV	Adv	_	0	root	_	_
-4	pawinhiã	awinhitxi	NOUN	N	Case=Loc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=2|Possessed=Yes	3	appos	_	GTtags=Msc,Sg,PxSg2,Possd,Loc|SpaceAfter=No
-5	?	?	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

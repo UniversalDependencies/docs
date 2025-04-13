@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-11930 tokens (15%) have a non-empty value of `Person`.
-1154 types (11%) occur at least once with a non-empty value of `Person`.
+11931 tokens (15%) have a non-empty value of `Person`.
+1155 types (11%) occur at least once with a non-empty value of `Person`.
 432 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 6 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (4699; 6% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4620; 6% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2603; 3% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (4699; 6% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4620; 6% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2603; 3% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -106,7 +106,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 * `1` (1; 33% of non-empty `Person`): <em>bönnum</em>
 * `2` (1; 33% of non-empty `Person`): <em>Innheimtu</em>
 * `3` (1; 33% of non-empty `Person`): <em>leiðir</em>
-* `EMPTY` (13642): <em>forseti, menn, þingmaður, mál, ráðherra, fólk, tíma, máli, m, frú</em>
+* `EMPTY` (13641): <em>forseti, menn, þingmaður, mál, ráðherra, fólk, tíma, máli, m, frú</em>
 
 ### `ADV`
 
@@ -118,6 +118,17 @@ The most frequent other feature values with which `ADV` and `Person` co-occurred
 
 * `3` (1; 100% of non-empty `Person`): <em>lýtur</em>
 * `EMPTY` (6959): <em>ekki, þá, svo, hér, bara, eins, þar, nú, þannig, mjög</em>
+
+### `X`
+
+1 <tt><a href="is_modern-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="is_modern-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`X` tokens may have the following values of `Person`:
+
+* `3` (1; 100% of non-empty `Person`): <em>ákvaðu</em>
+* `EMPTY` (90): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
 
 ## Relations with Agreement in `Person`
 

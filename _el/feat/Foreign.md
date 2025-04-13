@@ -25,4 +25,4 @@ class to which the word belongs in its original language.
 #### Examples
 
 - _Η Alejandra (Verónica Sánchez) είναι αρχιτεκτόνισσα υψηλού προφίλ στη Βαλένθια_ "Alejandra (Verónica Sánchez) is a high profile architect in Valencia"  
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:57 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:41 CET -->

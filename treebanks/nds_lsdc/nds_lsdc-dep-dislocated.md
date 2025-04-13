@@ -23,7 +23,7 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 6	fgColor:white
 # visual-style 6 1 dislocated	color:blue
 1	Sand	sand	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	dislocated	_	lemma_gml=sant
-2	en	en	CCONJ	_	_	3	cc	_	lemma_gml=ende
+2	en	un	CCONJ	_	_	3	cc	_	lemma_gml=ende
 3	veane	venne	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	conj	_	lemma_gml=venne|SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
 5	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	lemma_gml=hê,sê,et
@@ -59,7 +59,7 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 9	fgColor:white
 # visual-style 9 1 dislocated	color:blue
 1	Sou	sou	ADV	_	_	9	dislocated	_	lemma_gml=sô
-2	os	os	SCONJ	_	_	5	mark	_	lemma_gml=alsô
+2	os	as	SCONJ	_	_	5	mark	_	lemma_gml=alsô
 3	dee	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
 4	göse	goos	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	lemma_gml=gôs
 5	gewöänd	gewöänen	VERB	_	Tense=Past|VerbForm=Part	1	advcl	_	lemma_gml=wēnen

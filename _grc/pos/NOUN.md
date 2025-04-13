@@ -16,4 +16,4 @@ A noun can be defined in Ancient Greek as the PoS inflecting for case, number, a
 
 ### References
 Liddell, Henry George Liddell, and Robert Scott. 1940. _A Greek-English lexicon. Revised by Sir Henry Stuart Jones with the assistance of Roderick McKenzie_. Oxford: Clarendon Press. (<a  href="http://www.perseus.tufts.edu/hopper/resolveform?redirect=true" target="_blank">Perseus Digital Library</a>)
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:37 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:22 CET -->

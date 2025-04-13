@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>бути</em> (<tt><a href="myv_jr-po
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.031250 (the average of all parts of speech is 2.081130).
+The form / lemma ratio of `PART` is 1.031250 (the average of all parts of speech is 2.080194).
 
 The 1st highest number of forms (2) was observed with the lemma “эно”: <em>Эна, эно</em>.
 
@@ -78,7 +78,7 @@ Examples: <em>жо, бути, прок, вана, буто, эно, Арази, 
 
 `PART` nodes are attached to their parents using 12 different relations: <tt><a href="myv_jr-dep-discourse.html">discourse</a></tt> (51; 41% instances), <tt><a href="myv_jr-dep-advmod.html">advmod</a></tt> (33; 27% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (14; 11% instances), <tt><a href="myv_jr-dep-mark.html">mark</a></tt> (8; 6% instances), <tt><a href="myv_jr-dep-advmod-eval.html">advmod:eval</a></tt> (5; 4% instances), <tt><a href="myv_jr-dep-advmod-deg.html">advmod:deg</a></tt> (4; 3% instances), <tt><a href="myv_jr-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="myv_jr-dep-compound.html">compound</a></tt> (2; 2% instances), <tt><a href="myv_jr-dep-root.html">root</a></tt> (2; 2% instances), <tt><a href="myv_jr-dep-advmod-cmp.html">advmod:cmp</a></tt> (1; 1% instances), <tt><a href="myv_jr-dep-cc-preconj.html">cc:preconj</a></tt> (1; 1% instances), <tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (46; 37% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (32; 26% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (18; 15% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (16; 13% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (2; 2% instances),  (2; 2% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (1; 1% instances)
+Parents of `PART` nodes belong to 8 different parts of speech: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (46; 37% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (32; 26% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (18; 15% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (17; 14% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (2; 2% instances),  (2; 2% instances)
 
 113 (91%) `PART` nodes are leaves.
 

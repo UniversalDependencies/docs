@@ -68,7 +68,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 2	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	[];;
 3	ei	ji	ADP	posp	Number=Plur|Person=3	2	obl	_	[];;
 4	akore	ko	VERB	v	Mood=Ind|Number=Sing|Person=3	2	parataxis	_	say;dizer
-5	enogwageiagu	okwage	VERB	v	Number=Plur|Person=3|Speech=IndOpt	4	xcomp	_	eat;comer
+5	enogwageiagu	okwage	VERB	v	Number=Plur|Person=3|Speech=Ind	4	xcomp	_	eat;comer
 6	ji	ji	ADP	posp	Number=Sing|Person=3	5	iobj	_	for.a.long.time;por.muito.tempo
 7	nowy	nowy	DET	dem	Deixis=Med|Number=Sing|PronType=Dem	8	det	_	[];;
 8	boepa	boepa	NOUN	n	_	9	nmod	_	slash,garden;roça

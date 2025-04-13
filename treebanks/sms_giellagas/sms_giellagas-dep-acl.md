@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="
 1	–	–	PUNCT	PUNCT	_	7	punct	_	_
 2	”	”	PUNCT	PUNCT	_	7	punct	_	GTtags=RIGHT|SpaceAfter=No
 3	No	no	INTJ	Interj	_	7	discourse	_	_
-4	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	7	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
+4	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	7	aux	_	GTtags=Neg,Ind,Sg3,@+FAUXV
 5	kâʹl	kâʹl	ADV	Adv	_	7	advmod	_	_
 6	leäkku	leeʹd	AUX	V	Connegative=Yes	7	cop	_	GTtags=ConNeg
 7	šurr	šurr	ADJ	A	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom|SpaceAfter=No
@@ -34,7 +34,7 @@ The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="
 9	mâʹte	mâʹte	ADV	Adv	_	10	mark	_	_
 10	ton	ton	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	acl	_	GTtags=Pers,Sg2,Nom|SpaceAfter=No
 11	,	,	PUNCT	CLB	_	16	punct	_	_
-12	tuu	ton	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	14	det	_	GTtags=Pers,Sg2,Gen
+12	tuu	ton	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	14	nmod:poss	_	GTtags=Pers,Sg2,Gen
 13	šoora	šoora	ADJ	A	_	14	amod	_	_
 14	ooumaž	ooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	16	nsubj:cop	_	GTtags=Sem/Hum,Sg,Nom
 15	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	16	cop	_	GTtags=Ind,Prs,Sg3

@@ -11,4 +11,4 @@ A clausal subject is a clausal syntactic subject of a clause, i.e., the subject 
 ORSAK TILL VARFÖR PRO1 BLI(L) DÖV VETA-INTE \n I don't know the reason for why I became deaf
 csubj(DÖV, VETA-INTE)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:01 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:43 CET -->

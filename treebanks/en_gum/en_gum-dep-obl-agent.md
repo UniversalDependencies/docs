@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_English-GUM: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="en_gum-dep-obl.html">obl</a></tt>.
-There are also 2 other language-specific subtypes of `obl`: <tt><a href="en_gum-dep-obl-npmod.html">obl:npmod</a></tt>, <tt><a href="en_gum-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are also 1 other language-specific subtypes of `obl`: <tt><a href="en_gum-dep-obl-unmarked.html">obl:unmarked</a></tt>.
 
 377 nodes (0%) are attached to their parents as `obl:agent`.
 
@@ -25,7 +25,7 @@ The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 3 6 obl:agent	color:blue
 1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj:pass	3:nsubj:pass	Discourse=joint-sequence_m:77->76:1:lex-altlex-596-597|Entity=(49-abstract-giv:act-cf1*-1-ana)
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	3:aux:pass	_
-3	followed	follow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	MSeg=follow-ed
+3	followed	follow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	MSeg=follow-ed|PDTB=AltLex:Temporal.Asynchronous.Precedence:followed by:596-597:579-593:594-595,598-606
 4	by	by	ADP	IN	_	6	case	6:case	_
 5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	Entity=(100-event-new-cf4-2-sgl
 6	repetition	repetition	NOUN	NN	Number=Sing	3	obl:agent	3:obl:agent	MSeg=re-petition
@@ -51,11 +51,11 @@ The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 3	your	your	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	Entity=(12-person-giv:act-cf1-2-coref(13-person-acc:com-cf3-1-ana)
 4	host	host	NOUN	NN	Number=Sing	0	root	0:root	Entity=12)
 5	as	as	ADP	IN	_	6	case	6:case	_
-6	always	always	ADV	RB	_	4	obl	4:obl:as	SpaceAfter=No
+6	always	always	ADV	RB	_	4	obl	4:obl:as	MSeg=al-way-s|SpaceAfter=No
 7	,	,	PUNCT	,	_	8	punct	8:punct	_
 8	Dave	Dave	PROPN	NNP	Number=Sing	4	appos	4:appos	Entity=(12-person-giv:act-cf1-1-appos)|SpaceAfter=No
 9	,	,	PUNCT	,	_	13	punct	13:punct	_
-10	and	and	CCONJ	CC	_	13	cc	13:cc	Discourse=joint-list_m:14->13:0:dm-and-74
+10	and	and	CCONJ	CC	_	13	cc	13:cc	Discourse=joint-list_m:14->13:0:dm-and-74|PDTB=Explicit:Expansion.Conjunction:and:74:65-73:75-80
 11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj:pass	13:nsubj:pass	Entity=(12-person-giv:act-cf1-1-ana)
 12	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux:pass	13:aux:pass	_
 13	joined	join	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	4:conj:and	MSeg=join-ed

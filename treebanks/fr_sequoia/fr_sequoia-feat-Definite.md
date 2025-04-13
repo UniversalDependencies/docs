@@ -24,7 +24,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (7439; 80% of non-empty `Definite`): <em>le, les, la, l', lesdites</em>
 * `Ind` (1825; 20% of non-empty `Definite`): <em>une, un, des, de, d', quelques, tout, toute, quelque, tous</em>
-* `EMPTY` (1178): <em>cette, ce, son, ces, ses, votre, sa, leur, plusieurs, leurs</em>
+* `EMPTY` (1133): <em>cette, ce, son, ces, ses, votre, sa, leur, plusieurs, leurs</em>
 
 ## Relations with Agreement in `Definite`
 

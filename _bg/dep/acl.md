@@ -32,4 +32,4 @@ acl:relcl(what-6, speaking-9)
 ~~~
 
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:28 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:12 CET -->

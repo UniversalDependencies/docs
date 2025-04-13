@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_English-GENTLE: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="en_gentle-dep-obl.html">obl</a></tt>.
-There are also 2 other language-specific subtypes of `obl`: <tt><a href="en_gentle-dep-obl-npmod.html">obl:npmod</a></tt>, <tt><a href="en_gentle-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are also 1 other language-specific subtypes of `obl`: <tt><a href="en_gentle-dep-obl-unmarked.html">obl:unmarked</a></tt>.
 
 27 nodes (0%) are attached to their parents as `obl:agent`.
 
@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 10 obl:agent	color:blue
-1	Labs	lab	NOUN	NNS	Number=Plur	6	nsubj:pass	6:nsubj:pass|8:nsubj:pass	Discourse=joint-other_m:165->13:4:_|Entity=(77-event-giv:inact-cf1-1-coref)
+1	Labs	lab	NOUN	NNS	Number=Plur	6	nsubj:pass	6:nsubj:pass|8:nsubj:pass	Discourse=joint-other_m:166->13:4:_|Entity=(77-event-giv:inact-cf1-1-coref)|MSeg=Lab-s|PDTB=Implicit:Expansion.Substitution.Arg2-as-subst:instead:_:914-918:919-930
 2	and	and	CCONJ	CC	_	3	cc	3:cc	_
 3	Quizzes	quiz	NOUN	NNS	Number=Plur	1	conj	1:conj:and|6:nsubj:pass	Entity=(164-abstract-giv:inact-cf2-1-coref)
 4	should	should	AUX	MD	VerbForm=Fin	6	aux	6:aux|8:aux	_
@@ -47,7 +47,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 16 18 obl:agent	color:blue
 1	Then	then	ADV	RB	PronType=Dem	4	advmod	4:advmod	Discourse=context-circumstance:135->147:3:_|SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	1:punct	_
-3	me	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Discourse=attribution-positive:136->137:0:_|Entity=(3-person-giv:inact-cf1-1-ana)
+3	me	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Discourse=attribution-positive:136->137:0:sem-atsrc-963+lex-indwd-964|Entity=(3-person-giv:inact-cf1-1-ana)
 4	thought	think	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 5	,	,	PUNCT	,	_	8	punct	8:punct	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	Discourse=same-unit_m:137->135:0:_|Entity=(98-substance-new-cf3-2-sgl
@@ -55,18 +55,18 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 8	grew	grow	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	4:ccomp	_
 9	denser	dense	ADJ	JJR	Degree=Cmp	8	xcomp	8:xcomp	MSeg=dens-er|SpaceAfter=No
 10	,	,	PUNCT	,	_	11	punct	11:punct	_
-11	perfumed	perfume	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	8:advcl	Discourse=causal-cause:138->135:1:_|MSeg=perfum-ed
+11	perfumed	perfume	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	8:advcl	Discourse=causal-cause:138->135:1:_|MSeg=perfum-ed|PDTB=Implicit:Contingency.Cause.Reason:as a result of being:_:961-970:971-988
 12	from	from	ADP	IN	_	15	case	15:case	_
 13	an	a	DET	DT	Definite=Ind|PronType=Art	15	det	15:det	Entity=(99-object-new-cf6-3-sgl
-14	unseen	unseen	ADJ	JJ	Degree=Pos|Polarity=Neg	15	amod	15:amod	_
+14	unseen	unseen	ADJ	JJ	Degree=Pos	15	amod	15:amod	Negation=Yes
 15	censer	censer	NOUN	NN	Number=Sing	11	obl	11:obl:from	Entity=99)
-16	Swung	swing	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	acl	15:acl	Discourse=elaboration-attribute:139->138:0:_
+16	Swung	swing	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	acl	15:acl	Discourse=elaboration-attribute:139->138:0:syn-mdf-975+syn-nmn-976
 17	by	by	ADP	IN	_	18	case	18:case	_
 18	Seraphim	Seraphim	PROPN	NNPS	Number=Plur	16	obl:agent	16:obl:agent	Entity=(19-person-giv:inact-cf2-1-coref
-19	whose	whose	PRON	WP$	Poss=Yes|PronType=Rel	22	nmod:poss	18:ref|22:nmod:poss	Discourse=elaboration-attribute:140->139:0:_
+19	whose	whose	PRON	WP$	Poss=Yes|PronType=Rel	22	nmod:poss	18:ref|22:nmod:poss	Discourse=elaboration-attribute:140->139:0:syn-mdf-978+syn-relcl-983
 20	foot	foot	NOUN	NN	Number=Sing	22	compound	22:compound	Entity=(100-abstract-new-cf4-3-sgl
 21	-	-	PUNCT	:	_	20	punct	20:punct	_
-22	falls	fall	NOUN	NNS	Number=Plur	23	nsubj	23:nsubj	Entity=100)
+22	falls	fall	NOUN	NNS	Number=Plur	23	nsubj	23:nsubj	Entity=100)|MSeg=fall-s
 23	tinkled	tinkle	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	18:acl:relcl	MSeg=tinkl-ed
 24	on	on	ADP	IN	_	27	case	27:case	_
 25	the	the	DET	DT	Definite=Def|PronType=Art	27	det	27:det	Entity=(101-object-new-cf5-3-sgl

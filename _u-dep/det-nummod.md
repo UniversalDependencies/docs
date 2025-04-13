@@ -38,4 +38,4 @@ punct(I-do-not-remember, .-21)
 
 See also [nummod:gov]() and [det:numgov]().
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:07 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:49 CET -->

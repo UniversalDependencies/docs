@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-649 tokens (1%) have a non-empty value of `Poss`.
-16 types (0%) occur at least once with a non-empty value of `Poss`.
-8 lemmas (0%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_partut-pos-DET.html">DET</a></tt> (641; 1% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (8; 0% instances).
+648 tokens (1%) have a non-empty value of `Poss`.
+15 types (0%) occur at least once with a non-empty value of `Poss`.
+7 lemmas (0%) occur at least once with a non-empty value of `Poss`.
+The feature is used with 2 part-of-speech tags: <tt><a href="en_partut-pos-DET.html">DET</a></tt> (640; 1% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (8; 0% instances).
 
 ### `DET`
 
-641 <tt><a href="en_partut-pos-DET.html">DET</a></tt> tokens (12% of all `DET` tokens) have a non-empty value of `Poss`.
+640 <tt><a href="en_partut-pos-DET.html">DET</a></tt> tokens (12% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="en_partut-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (641; 100%), <tt><a href="en_partut-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (641; 100%), <tt><a href="en_partut-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (500; 78%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="en_partut-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (640; 100%), <tt><a href="en_partut-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (640; 100%), <tt><a href="en_partut-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (500; 78%).
 
 `DET` tokens may have the following values of `Poss`:
 
-* `Yes` (641; 100% of non-empty `Poss`): <em>his, their, its, our, your, my, her, ma</em>
-* `EMPTY` (4680): <em>the, a, this, an, any, these, no, all, such, that</em>
+* `Yes` (640; 100% of non-empty `Poss`): <em>his, their, its, our, your, my, her</em>
+* `EMPTY` (4675): <em>the, a, this, an, any, these, no, all, such, that</em>
 
 ### `PRON`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (8; 100% of non-empty `Poss`): <em>his, our, ours</em>
-* `EMPTY` (2045): <em>it, I, we, that, which, he, you, they, this, there</em>
+* `EMPTY` (2046): <em>it, I, we, that, which, he, you, they, this, there</em>
 

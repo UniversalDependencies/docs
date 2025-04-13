@@ -30,7 +30,7 @@ The following 9 pairs of parts of speech are connected with `advmod:deg`: <tt><a
 5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	нинге	нинге	ADV	Adv	AdvType=Tim	9	advmod:tmod	_	_
 7	школавга	школа	NOUN	N	Case=Lat|Clitic=AddGA|Definite=Ind|Number=Plur,Sing	9	obl:lmod	_	_
-8	аф	аф	AUX	Aux	Polarity=Neg	9	aux:neg	_	_
+8	аф	аф	AUX	Aux	Polarity=Neg	9	aux	_	_
 9	якан	якамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	2	conj	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 

@@ -35,4 +35,4 @@ elle voit le garçon pâtissier \n she can see the young pastry chef
 compound(garçon,pâtissier)
 ~~~
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:54 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:36 CET -->

@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 14626 tokens (77%) have a non-empty value of `Number`.
 7298 types (93%) occur at least once with a non-empty value of `Number`.
 3304 lemmas (91%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (5823; 31% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (3589; 19% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2480; 13% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt> (1053; 6% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (698; 4% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (693; 4% instances), <tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (247; 1% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (43; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (5823; 31% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (3589; 19% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2480; 13% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt> (1054; 6% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (697; 4% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (693; 4% instances), <tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (247; 1% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (43; 0% instances).
 
 ### `NOUN`
 
@@ -117,14 +117,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `DET`
 
-1053 <tt><a href="la_circse-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
+1054 <tt><a href="la_circse-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="la_circse-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (884; 84%), <tt><a href="la_circse-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (808; 77%), <tt><a href="la_circse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (808; 77%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (615; 58%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="la_circse-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (885; 84%), <tt><a href="la_circse-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (809; 77%), <tt><a href="la_circse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (809; 77%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (615; 58%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (351; 33% of non-empty `Number`): <em>suis, omnes, omnium, haec, meis, omnibus, omnis, suos, cetera, sua</em>
-* `Sing` (702; 67% of non-empty `Number`): <em>hoc, ille, ipse, hic, quicquid, omne, haec, ipsa, nulla, hunc</em>
+* `Sing` (703; 67% of non-empty `Number`): <em>hoc, ille, ipse, hic, quicquid, omne, haec, ipsa, nulla, hunc</em>
 * `EMPTY` (12): <em>tot, quot, idem, totidem</em>
 
 <table>
@@ -150,14 +150,14 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `PRON`
 
-698 <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Number`.
+697 <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (410; 59%), <tt><a href="la_circse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (379; 54%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (410; 59%), <tt><a href="la_circse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (378; 54%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (130; 19% of non-empty `Number`): <em>quae, quibus, quas, qui, quos, nos, uos, eos, nobis, quorum</em>
-* `Sing` (568; 81% of non-empty `Number`): <em>te, quod, qui, me, quae, quid, tibi, se, mihi, tu</em>
+* `Sing` (567; 81% of non-empty `Number`): <em>te, quod, qui, me, quae, quid, tibi, se, mihi, tu</em>
 * `EMPTY` (16): <em>nihil, nil, nonnihil</em>
 
 <table>

@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>che</em> (<tt><a href="it_postwita-po
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.366667 (the average of all parts of speech is 1.310882).
+The form / lemma ratio of `SCONJ` is 1.366667 (the average of all parts of speech is 1.310684).
 
 The 1st highest number of forms (10) was observed with the lemma “perché”: <em>Xk, per, perche, perche', perchè, perché, xche', xchè, xché, xké</em>.
 

@@ -25,4 +25,4 @@ Kaj je tisto , kar bomo z vso odgovornostjo zapustili našim dedičem ? \n What 
 acl(tisto,zapustili)
 acl(it,pass)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:29 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:12 CET -->

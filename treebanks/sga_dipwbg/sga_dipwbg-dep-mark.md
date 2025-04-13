@@ -28,8 +28,8 @@ The following 5 pairs of parts of speech are connected with `mark`: <tt><a href=
 3	no	no	PART	_	PartType=Vb	5	compound:prt	_	SpaceAfter=No
 4	ndob	dob	PRON	_	Number=Plur|Person=2|PronClass=C|PronType=Prs	3	obj:infx	_	SpaceAfter=No
 5	molor	molaid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
-6	sa	sa	PRON	_	PronType=Emp	5	amod	_	_
-7	et	_	CCONJ	_	Foreign=Yes	10	cc	_	_
+6	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	5	amod	_	_
+7	et	_	CCONJ	_	Foreign=Yes	10	cc	_	Lang=la
 8	no	no	PART	_	PartType=Vb	10	compound:prt	_	SpaceAfter=No
 9	m	m	PRON	_	Number=Sing|Person=1|PronClass=A|PronType=Prs	8	obj:infx	_	_
 10	móidim	móidid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	5	conj	_	_
@@ -49,7 +49,7 @@ The following 5 pairs of parts of speech are connected with `mark`: <tt><a href=
 3	no	no	PART	_	PartType=Vb	4	compound:prt	_	SpaceAfter=No
 4	nda	is	AUX	_	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbType=Cop	5	nsubj	_	SpaceAfter=No
 5	frecṅdircc	frecndairc	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
-6	sa	sa	PRON	_	PronType=Emp	4	amod	_	_
+6	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	4	amod	_	_
 
 ~~~
 
@@ -64,7 +64,7 @@ The following 5 pairs of parts of speech are connected with `mark`: <tt><a href=
 2	cote	cote	PRON	_	PronType=Int	10	advcl	_	_
 3	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	SpaceAfter=No
 4	thorbe	torbae	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
-5	se	se	PRON	_	PronType=Emp	4	amod	_	_
+5	se	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	3	amod	_	_
 6	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	4	obl:prep	_	_
 7	ma	má	SCONJ	_	_	9	mark	_	SpaceAfter=No
 8	d	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	9	nsubj	_	SpaceAfter=No

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2697 nodes (2%) are attached to their parents as `case`.
+2687 nodes (2%) are attached to their parents as `case`.
 
 2365 instances of `case` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.16833518724509.
+Average distance between parent and child is 1.15854112393003.
 
-The following 11 pairs of parts of speech are connected with `case`: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (1940; 72% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (382; 14% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (227; 8% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (59; 2% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (46; 2% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (19; 1% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `case`: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (1939; 72% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (392; 15% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (227; 8% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (59; 2% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (44; 2% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -48,7 +48,7 @@ The following 11 pairs of parts of speech are connected with `case`: <tt><a href
 6	asui	asua	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	acl	_	_
 7	täällä	täällä	ADV	Adv,Dem	PronType=Dem	6	advmod	_	_
 8	ennen	ennen	ADP	Adp	_	9	case	_	_
-9	meitä	me	PRON	Pron,Pers,Pl1,Par	Case=Par|Number=Plur|Person=1|PronType=Prs	6	nmod	_	_
+9	meitä	minä	PRON	Pron,Pers,Pl1,Par	Case=Par|Number=Plur|Person=1|PronType=Prs	6	nmod	_	_
 10	?	?	PUNCT	Pun	_	9	punct	_	_
 
 ~~~

@@ -30,8 +30,8 @@ The following 37 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 6	דיסקרטית	דיסקרטי	ADJ	ADJ	Gender=Fem|Number=Sing	3	amod	_	SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	3	punct	_	_
 8	ו	ו	CCONJ	CCONJ	_	9	cc	_	_
-9	אין	אין	VERB	VERB	HebExistential=Yes	3	conj	_	_
-10	ספק	ספק	NOUN	NOUN	Gender=Masc|Number=Sing	9	nsubj	_	_
+9	אין	אין	VERB	VERB	HebExistential=Yes	3	conj	_	Cxn=Existential-NotExistPred-VblPart
+10	ספק	ספק	NOUN	NOUN	Gender=Masc|Number=Sing	9	nsubj	_	CxnElt=9:Existential-NotExistPred-VblPart.Pivot
 11	ש	ש	SCONJ	SCONJ	_	12	mark	_	_
 12	יימנע	נמנע	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Fut|Voice=Mid	10	acl:relcl	_	_
 13	מן_	מן	ADP	ADP	_	14	case	_	_
@@ -49,7 +49,7 @@ The following 37 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 7 acl:relcl	color:blue
 1	הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	מולטי	מולטי	ADV	ADV	Prefix=Yes	4	compound:affix	_	SpaceAfter=No|HebSource=ConvUncertainHead
+2	מולטי	מולטי	ADV	ADV	Prefix=Yes	4	compound:affix	_	HebSource=ConvUncertainHead|SpaceAfter=No
 3	-	-	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
 4	מיליונר	מיליונר	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	4	punct	_	_

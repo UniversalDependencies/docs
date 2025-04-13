@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-24924 tokens (7%) have a non-empty value of `Person`.
-4237 types (8%) occur at least once with a non-empty value of `Person`.
-2017 lemmas (8%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (12860; 4% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (7326; 2% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (2615; 1% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (2123; 1% instances).
+24341 tokens (7%) have a non-empty value of `Person`.
+4236 types (8%) occur at least once with a non-empty value of `Person`.
+2017 lemmas (7%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (12860; 4% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (6743; 2% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (2615; 1% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (2123; 1% instances).
 
 ### `VERB`
 
@@ -38,16 +38,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-7326 <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> tokens (68% of all `AUX` tokens) have a non-empty value of `Person`.
+6743 <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> tokens (63% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7326; 100%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7326; 100%), <tt><a href="cs_pdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (6666; 91%), <tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6424; 88%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6424; 88%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5844; 80%), <tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5318; 73%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4804; 66%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6743; 100%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6743; 100%), <tt><a href="cs_pdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (6742; 100%), <tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6424; 95%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6424; 95%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5844; 87%), <tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5318; 79%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4804; 71%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (1145; 16% of non-empty `Person`): <em>jsem, jsme, bychom, bych, budeme, budu, nejsem, nebudeme, nejsme, nebudu</em>
-* `2` (178; 2% of non-empty `Person`): <em>jste, buď, byste, buďte, budete, nejste, si</em>
-* `3` (6003; 82% of non-empty `Person`): <em>je, jsou, bude, by, není, budou, nejsou, nebude, nebudou, bývá</em>
-* `EMPTY` (3427): <em>by, byl, být, bylo, byla, byly, byli, nebyl, nebyla, nebylo</em>
+* `1` (1145; 17% of non-empty `Person`): <em>jsem, jsme, bychom, bych, budeme, budu, nejsem, nebudeme, nejsme, nebudu</em>
+* `2` (178; 3% of non-empty `Person`): <em>jste, buď, byste, buďte, budete, nejste, si</em>
+* `3` (5420; 80% of non-empty `Person`): <em>je, jsou, bude, není, budou, nejsou, nebude, nebudou, bývá, bývají</em>
+* `EMPTY` (4010): <em>by, byl, být, bylo, byla, byly, byli, nebyl, nebyla, nebylo</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -66,9 +66,6 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="cs_pdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>budem</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>budeme</em></td><td><em>budete</em></td><td><em>budou</em></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>jsme</em></td><td><em>jste</em></td><td><em>jsou</em></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>bych</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>bychom</em></td><td><em>byste</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt></tt></td><td></td><td></td><td><em>by</em></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>je</em></td></tr>
 </table>
 
@@ -87,7 +84,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `DET`
 
-2123 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (16% of all `DET` tokens) have a non-empty value of `Person`.
+2123 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (17% of all `DET` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (2123; 100%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2019; 95%), <tt><a href="cs_pdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1960; 92%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1282; 60%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1151; 54%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1151; 54%), <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (1084; 51%).
 
@@ -96,7 +93,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (640; 30% of non-empty `Person`): <em>naše, našich, naší, náš, našeho, naši, našem, můj, mého, moje</em>
 * `2` (79; 4% of non-empty `Person`): <em>váš, vaše, vaší, vašem, vaši, vašich, vašimi, vaším, vašeho, Vašemu</em>
 * `3` (1404; 66% of non-empty `Person`): <em>jeho, jejich, její, jejichž, jehož, jejíž, jejím, jejího, jejích, jejímu</em>
-* `EMPTY` (11395): <em>to, které, který, která, své, tím, tom, kteří, této, tomu</em>
+* `EMPTY` (10675): <em>to, které, který, která, své, tím, tom, kteří, této, tomu</em>
 
 ## Relations with Agreement in `Person`
 

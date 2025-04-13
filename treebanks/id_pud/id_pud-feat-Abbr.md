@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (28; 100% of non-empty `Abbr`): <em>SM, AIDS, ATM, BC, DFB, GIF, HFC, MLA, MP, No.</em>
-* `EMPTY` (4659): <em>tahun, orang, bulan, bagian, hari, negara, kota, laut, hal, perang</em>
+* `EMPTY` (4660): <em>tahun, orang, bulan, bagian, hari, negara, kota, laut, hal, perang</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (17) occur only with one value of `Abbr`.
 

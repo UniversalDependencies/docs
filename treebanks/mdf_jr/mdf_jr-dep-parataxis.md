@@ -54,7 +54,7 @@ The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a 
 8	мазыхть	мазы	ADJ	A	Case=Nom|Definite=Ind|Number=Plur	0	root	_	GTtags=Pl,Nom,Indef
 9	и	и	CCONJ	CC	_	11	cc	_	_
 10	тевонь	тев	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	11	obj	_	GTtags=SP,Gen,Indef
-11	кельгихть	кельгомс	VERB	V	Case=Nom|Definite=Ind|Derivation=NomAg|Number=Plur	8	conj	_	GTtags=NomAg,Pl,Nom,Indef|SpaceAfter=No
+11	кельгихть	кельгомс	VERB	V	Case=Nom|Definite=Ind|Nomzr=Ag|Number=Plur	8	conj	_	GTtags=NomAg,Pl,Nom,Indef|SpaceAfter=No
 12	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 ~~~

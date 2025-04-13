@@ -13,9 +13,9 @@ The 10 most frequent `PART` lemmas: <em>to, 's, not, '</em>
 
 The 10 most frequent `PART` types:  <em>to, 's, not, '</em>
 
-The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_partut-pos-PART.html">PART</a></tt> 680, <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 594, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 6), <em>'</em> (<tt><a href="en_partut-pos-PART.html">PART</a></tt> 41, <tt><a href="en_partut-pos-PUNCT.html">PUNCT</a></tt> 14, <tt><a href="en_partut-pos-X.html">X</a></tt> 9, <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_partut-pos-PART.html">PART</a></tt> 680, <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 594, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 6), <em>'</em> (<tt><a href="en_partut-pos-PART.html">PART</a></tt> 41, <tt><a href="en_partut-pos-PUNCT.html">PUNCT</a></tt> 14, <tt><a href="en_partut-pos-X.html">X</a></tt> 8, <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_partut-pos-PART.html">PART</a></tt> 680, <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 577, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 6), <em>'s</em> (<tt><a href="en_partut-pos-PART.html">PART</a></tt> 334, <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 14, <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> 5), <em>'</em> (<tt><a href="en_partut-pos-PART.html">PART</a></tt> 41, <tt><a href="en_partut-pos-PUNCT.html">PUNCT</a></tt> 14, <tt><a href="en_partut-pos-X.html">X</a></tt> 9)
+The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_partut-pos-PART.html">PART</a></tt> 680, <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 577, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 6), <em>'s</em> (<tt><a href="en_partut-pos-PART.html">PART</a></tt> 334, <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> 14, <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> 5), <em>'</em> (<tt><a href="en_partut-pos-PART.html">PART</a></tt> 41, <tt><a href="en_partut-pos-PUNCT.html">PUNCT</a></tt> 14, <tt><a href="en_partut-pos-X.html">X</a></tt> 8)
 
 
 * <em>to</em>
@@ -29,11 +29,11 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_partut-pos-P
 * <em>'</em>
   * <tt><a href="en_partut-pos-PART.html">PART</a></tt> 41: <em>PRINCETON – How quickly emerging markets <b>'</b> fortunes have turned .</em>
   * <tt><a href="en_partut-pos-PUNCT.html">PUNCT</a></tt> 14: <em>Rowe was the first biographer to record the tradition , repeated by Johnson , that Shakespeare retired to Stratford <b>'</b> some years before his death <b>'</b> .</em>
-  * <tt><a href="en_partut-pos-X.html">X</a></tt> 9: <em>China 's export - led growth miracle would not have started in the 1980 <b>'</b> s without the American consumer .</em>
+  * <tt><a href="en_partut-pos-X.html">X</a></tt> 8: <em>China 's export - led growth miracle would not have started in the 1980 <b>'</b> s without the American consumer .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.198926).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.199305).
 
 The 1st highest number of forms (1) was observed with the lemma “'”: <em>'</em>.
 

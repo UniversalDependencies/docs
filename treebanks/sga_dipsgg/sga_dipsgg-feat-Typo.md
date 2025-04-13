@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="sga_dipsgg-pos-NOUN
 
 ### `NOUN`
 
-4 <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> tokens (4% of all `NOUN` tokens) have a non-empty value of `Typo`.
+4 <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
 The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="sga_dipsgg-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 75%), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%).
 

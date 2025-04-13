@@ -87,5 +87,6 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="la_circse-dep-ccomp-relcl.html">ccomp:relcl</a></tt>]--> VERB</tt> (11; 55%),
 <tt>VERB --[<tt><a href="la_circse-dep-flat-redup.html">flat:redup</a></tt>]--> VERB</tt> (4; 100%),
 <tt>VERB --[<tt><a href="la_circse-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="la_circse-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="la_circse-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="la_circse-dep-parataxis-rep.html">parataxis:rep</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -23,15 +23,15 @@ The following 41 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 10 parataxis	color:blue
 1	cha	cha	PART	Qn	PartType=Vb|Polarity=Neg	2	mark:prt	_	_
-2	bhi	bi	VERB	V-f--d	Tense=Fut	0	root	_	_
-3	thu	thu	PRON	Pp2s	Number=Sing|Person=2	2	nsubj	_	_
+2	bhi	bi	VERB	V-f--d	Mood=Ind|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	thu	thu	PRON	Pp2s	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 4	a’	ag	PART	Sa	_	5	case	_	_
 5	gabhail	gabh	NOUN	Nv	VerbForm=Vnoun	2	xcomp:pred	_	_
 6	buntàta	buntàta	NOUN	Ncsmg	Case=Gen|Gender=Masc|Number=Sing	5	obj	_	_
 7	no	no	CCONJ	Cc	_	8	cc	_	_
 8	càil	càil	NOUN	Ncsfg	Case=Gen|Gender=Fem|Number=Sing	6	conj	_	_
 9	nach	nach	PART	Qn	PartType=Vb|Polarity=Neg	10	mark:prt	_	_
-10	bi	bi	VERB	V-f--d	Tense=Fut	2	parataxis	_	SpaceAfter=No
+10	bi	bi	VERB	V-f--d	Mood=Ind|Tense=Fut|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
 11	?	?	PUNCT	Fg	_	2	punct	_	_
 
 ~~~
@@ -46,8 +46,8 @@ The following 41 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	turkey	turkey	NOUN	Xfe	_	0	root	_	_
 2	burger	burger	NOUN	Xfe	_	1	flat	_	_
 3	an	an	PART	Qq	PartType=Vb|PronType=Int	4	mark:prt	_	_
-4	robh	bi	VERB	V-s--d	Tense=Past	1	parataxis	_	_
-5	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
+4	robh	bi	VERB	V-s--d	Mood=Ind|Tense=Past|VerbForm=Fin	1	parataxis	_	_
+5	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 6	math	math	ADJ	Ap	_	4	xcomp:pred	_	SpaceAfter=No
 7	?	?	PUNCT	Fg	_	1	punct	_	_
 
@@ -65,8 +65,8 @@ The following 41 pairs of parts of speech are connected with `parataxis`: <tt><a
 3	na	an	DET	Tdp	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	h-horse-boxes	horse-boxes	NOUN	Xfe	Foreign=Yes	1	nmod	_	_
 5	mhòr	mòr	ADJ	Aq-p	Number=Plur	4	amod	_	_
-6	tha	bi	VERB	V-p	Tense=Pres	0	root	_	_
-7	siud	siud	PRON	Pd	_	6	nsubj	_	_
+6	tha	bi	VERB	V-p	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	siud	siud	PRON	Pd	PronType=Dem	6	nsubj	_	_
 8	am	an	DET	Tdsm	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	fear	fear	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	6	parataxis	_	_
 10	ùr	ùr	ADJ	Aq-smn	Case=Nom|Gender=Masc|Number=Sing	9	amod	_	_

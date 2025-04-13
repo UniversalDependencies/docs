@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Opt">Opt</a></td>
+  <td><a href="#Pot">Pot</a></td>
 </tr>
 </table>
 
@@ -30,4 +31,12 @@ In Beja the negative optative is compulsory in dependent clauses.
 
 #### Examples
 - _harʔiːsiːsi <b>bi=</b> t- jʔ <b>-a</b> =heːb =aj_ "It must not come to me from behind!"
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:03 CEST -->
+
+### <a name="Pot">`Pot`</a>: Potential
+
+The Potential form expresses epistemic modalities of inference or near-certainty.
+
+#### Examples
+- _hinin rhisat =oːk <b>ʔeːnaj</b>_ "We are going to show you!"
+
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:47 CET -->

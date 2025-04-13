@@ -11,4 +11,4 @@ This relation is used generally for reduplicating constructions.
 Ahi Pistoia , Pistoia , ché non stanzi d' incenerare ti
 flat:redup(Pistoia, Pistoia)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:15 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:57 CET -->

@@ -10,19 +10,19 @@ This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
 27967 tokens (35%) have a non-empty value of `Gender`.
-7729 types (76%) occur at least once with a non-empty value of `Gender`.
-4363 lemmas (74%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 10 part-of-speech tags: <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (12916; 16% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (4843; 6% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (3579; 4% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (3497; 4% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (1994; 2% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (744; 1% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (224; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (131; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (36; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (3; 0% instances).
+7728 types (76%) occur at least once with a non-empty value of `Gender`.
+4349 lemmas (74%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 10 part-of-speech tags: <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (12915; 16% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (4843; 6% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (3580; 4% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (3497; 4% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (1994; 2% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (744; 1% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (224; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (131; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (36; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-12916 <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Gender`.
+12915 <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="is_modern-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (10004; 77%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9177; 71%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="is_modern-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (10003; 77%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9176; 71%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (3868; 30% of non-empty `Gender`): <em>leið, raun, ræðu, ríkisstjórn, umræðu, klukkan, upplýsingar, veru, vinnu, aðgerðir</em>
+* `Fem` (3867; 30% of non-empty `Gender`): <em>leið, raun, ræðu, ríkisstjórn, umræðu, klukkan, upplýsingar, veru, vinnu, aðgerðir</em>
 * `Masc` (4411; 34% of non-empty `Gender`): <em>forseti, menn, þingmaður, ráðherra, tíma, herra, dag, stað, vegar, þingmanni</em>
 * `Neut` (4637; 36% of non-empty `Gender`): <em>mál, fólk, máli, málið, ár, ára, ári, sæti, dæmis, árið</em>
 * `EMPTY` (729): <em>m, Frú, móti, <percent/>, gr., nefnd, kr., stundum, k., allsherjar-</em>
@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>liðið</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (2709) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (2701) occur only with one value of `Gender`.
 
 ### `PRON`
 
@@ -84,16 +84,16 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `ADJ`
 
-3579 <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> tokens (83% of all `ADJ` tokens) have a non-empty value of `Gender`.
+3580 <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> tokens (83% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="is_modern-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2892; 81%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2797; 78%), <tt><a href="is_modern-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2272; 63%), <tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1891; 53%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="is_modern-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2892; 81%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2798; 78%), <tt><a href="is_modern-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2272; 63%), <tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1891; 53%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
 * `Fem` (847; 24% of non-empty `Gender`): <em>góð, fyrri, síðustu, næstu, betri, fyrstu, ánægð, mikla, sammála, góða</em>
 * `Masc` (995; 28% of non-empty `Gender`): <em>virðulegi, sammála, minnsta, besta, minni, nýjan, vinstri, fatlaðra, síðustu, viss</em>
-* `Neut` (1737; 49% of non-empty `Gender`): <em>hægt, gott, rétt, miklu, fyrsta, mikilvægt, sjálfsögðu, ljóst, síðasta, erfitt</em>
-* `EMPTY` (738): <em>hv., hæstv., sama, 2., 1., 3., 5., 8., 9., m.</em>
+* `Neut` (1738; 49% of non-empty `Gender`): <em>hægt, gott, rétt, miklu, fyrsta, mikilvægt, sjálfsögðu, ljóst, síðasta, erfitt</em>
+* `EMPTY` (737): <em>hv., hæstv., sama, 2., 1., 3., 5., 8., 9., m.</em>
 
 <table>
   <tr><th>Paradigm <i>háttvirtur</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -147,12 +147,12 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 <table>
   <tr><th>Paradigm <i>hrafnhildur</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>Hrafnhildi</em></td><td><em>Hrafnhildi</em></td></tr>
-  <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td></td><td><em>Hrafnhildi, Hrafnhildur</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>Hrafnhildi</em></td><td><em>Hrafnhildi, Hrafnhildur</em></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>Hrafnhildar</em></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>Hrafnhildur</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 99% lemmas (625) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 98% lemmas (620) occur only with one value of `Gender`.
 
 ### `VERB`
 
@@ -241,13 +241,13 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
 * `Fem` (1; 33% of non-empty `Gender`): <em>skyttunar</em>
 * `Masc` (1; 33% of non-empty `Gender`): <em>final-four</em>
 * `Neut` (1; 33% of non-empty `Gender`): <em>nýafstöðu</em>
-* `EMPTY` (87): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
+* `EMPTY` (88): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="is_modern-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1827; 79%),
-<tt>NOUN --[<tt><a href="is_modern-dep-det.html">det</a></tt>]--> DET</tt> (1170; 94%),
+<tt>NOUN --[<tt><a href="is_modern-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1828; 79%),
+<tt>NOUN --[<tt><a href="is_modern-dep-det.html">det</a></tt>]--> DET</tt> (1172; 94%),
 <tt>NOUN --[<tt><a href="is_modern-dep-amod.html">amod</a></tt>]--> DET</tt> (633; 95%),
 <tt>NOUN --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> NOUN</tt> (331; 53%),
 <tt>NOUN --[<tt><a href="is_modern-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (276; 67%),

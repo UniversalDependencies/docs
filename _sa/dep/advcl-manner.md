@@ -21,4 +21,4 @@ advmod(jaghántha, dhr̥ṣatā́)
 advmod(jaghántha, purā́)
 discourse(jaghántha, cit)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:35 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:18 CET -->

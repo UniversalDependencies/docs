@@ -48,4 +48,4 @@ Resultative, subject and future-II participles are word forms that may share pro
 -	Resultative: _<b>կառուցված</b> շենք_ “a <b>built</b> house”,
 -	Subject: _<b>կառուցվող</b> շենք_ “a house, that is <b>being built</b>”,
 -	Future-II: _<b>կառուցվելիք</b> շենք_ “a house, that <b>will be built</b>”
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:43 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:28 CET -->

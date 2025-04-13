@@ -22,10 +22,10 @@ The following 21 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 vocative	color:blue
-1	What	what	PRON	WP	PronType=Int	4	obj	4:obj	Discourse=topic-question:1->2:1:lex-indwd-1+syn-sbinv-2+grf-qst-6|XML=<w>
+1	What	what	PRON	WP	PronType=Int	4	obj	4:obj	CxnElt=4:Interrogative-WHInfo-Direct.WHWord|Discourse=topic-question:1->2:1:lex-indwd-1+syn-sbinv-2+grf-qst-6|XML=<w>
 2	'd	do	AUX	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	4	aux	4:aux	XML=</w>
 3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj	Entity=(1-person-acc:com-cf1-1-ana)
-4	do	do	VERB	VB	VerbForm=Inf	0	root	0:root	Cxn=Interrogative-WHInfo-Direct
+4	do	do	VERB	VB	VerbForm=Inf	0	root	0:root	Cxn=Interrogative-WHInfo-Direct|CxnElt=4:Interrogative-WHInfo-Direct.Clause
 5	Sabrina	Sabrina	PROPN	NNP	Number=Sing	4	vocative	4:vocative	Entity=(1-person-giv:act-cf1-1-coref)|SpaceAfter=No
 6	?	?	PUNCT	.	_	4	punct	4:punct	_
 
@@ -60,9 +60,9 @@ The following 21 pairs of parts of speech are connected with `vocative`: <tt><a 
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 4	this	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	6:nsubj	Entity=(44-abstract-giv:inact-cf1-1-ana)
 5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	Entity=(73-event-new-cf3-2-coref
-6	waiver	waiver	NOUN	NN	Number=Sing	0	root	0:root	Cxn=Interrogative-Polar-Direct|Entity=73)|SpaceAfter=No
+6	waiver	waiver	NOUN	NN	Number=Sing	0	root	0:root	Cxn=Interrogative-Polar-Direct|CxnElt=6:Interrogative-Polar-Direct.Clause|Entity=73)|MSeg=waiv-er|SpaceAfter=No
 7	,	,	PUNCT	,	_	12	punct	12:punct	_
-8	or	or	CCONJ	CC	_	12	cc	12:cc	Discourse=joint-disjunction_m:44->43:0:dm-or-412
+8	or	or	CCONJ	CC	_	12	cc	12:cc	Discourse=joint-disjunction_m:44->43:0:dm-or-412|PDTB=Explicit:Expansion.Disjunction:or:412:405-411:413-417
 9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
 10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	12:nsubj	Entity=(44-abstract-giv:act-cf1-1-ana)
 11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	Entity=(74-event-new-cf4-2-coref

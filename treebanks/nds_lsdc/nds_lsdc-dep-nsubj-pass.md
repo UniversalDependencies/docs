@@ -59,7 +59,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 17	fgColor:white
 # visual-style 17 12 nsubj:pass	color:blue
 1	–	–	PUNCT	_	_	17	punct	_	_
-2	Ja	ja	INTJ	_	_	17	discourse	_	lemma_gml=jâ|SpaceAfter=No
+2	Ja	jå	INTJ	_	_	17	discourse	_	lemma_gml=jâ|SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	_
 4	myn	myn	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	lemma_gml=mîn
 5	leev	leev	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	lemma_gml=lêf
@@ -72,7 +72,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 12	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	17	nsubj:pass	_	lemma_gml=dê,dê,dat
 13	up	up	ADP	_	AdpType=Prep	14	case	_	lemma_gml=uppe
 14	uns	wy	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	17	obl	_	lemma_gml=wî
-15	gerade	gerade	ADV	_	_	16	advmod	_	lemma_gml=gerāde
+15	gerade	gerade	ADJ	_	_	16	advmod	_	lemma_gml=gerāde
 16	sou	sou	ADV	_	_	17	advmod	_	lemma_gml=sô
 17	afseen	afseen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=afsên|SpaceAfter=No
 18	,	,	PUNCT	_	_	22	punct	_	_

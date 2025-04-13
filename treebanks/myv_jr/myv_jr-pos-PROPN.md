@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Erzya-JR: POS Tags: `PROPN`
 
-There are 195 `PROPN` lemmas (6%), 261 `PROPN` types (4%) and 708 `PROPN` tokens (3%).
+There are 197 `PROPN` lemmas (6%), 261 `PROPN` types (4%) and 708 `PROPN` tokens (3%).
 Out of 16 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 5 in number of types and 8 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Микол, Люба, Ястребов, Палько, Маря, Фёдоров, Кечай, Дуняшин, Кирё, Рамко</em>
 
 The 10 most frequent `PROPN` types:  <em>Микол, Ястребов, Любань, Палько, Люба, Федоров, Маря, Кирё, Кечай, Миколонь</em>
 
-The 10 most frequent ambiguous lemmas: <em>Обран</em> (<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1), <em>Звездов</em> (<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1), <em>Инечи</em> (<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1), <em>Кокша</em> (<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1), <em>Паз</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 2), <em>Верепаз</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Володя</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Коля</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Октябрёнок</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Тишай</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>Обран</em> (<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1), <em>Звездов</em> (<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1), <em>Инечи</em> (<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1), <em>Кокша</em> (<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1), <em>Паз</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 2), <em>Верепаз</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Володя</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Иванович</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Коля</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Октябрёнок</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>Обран</em> (<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1), <em>Звездов</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 2), <em>Кокша</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 2), <em>Коля</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Мерят</em> (<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 1), <em>Нал</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Октябрёнок</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Сакалонзо</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Шекшей</em> (<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> 1)
 
@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  <em>Обран</em> (<tt><a href="myv_jr-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.338462 (the average of all parts of speech is 2.081130).
+The form / lemma ratio of `PROPN` is 1.324873 (the average of all parts of speech is 2.080194).
 
 The 1st highest number of forms (5) was observed with the lemma “Кирё”: <em>Кире, Кирё, Кирёнень, Кирёнь, Кирёяк</em>.
 

@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="cs_pdt-pos-NOUN.htm
 
 18 <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (18; 100%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15; 83%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (13; 72%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (12; 67%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15; 83%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (13; 72%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (12; 67%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 
 14 <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (14; 100%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (14; 100%), <tt><a href="cs_pdt-feat-NameType.html">NameType</a></tt><tt>=Oth</tt> (14; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (14; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13; 93%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11; 79%).
+The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (14; 100%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (14; 100%), <tt><a href="cs_pdt-feat-NameType.html">NameType</a></tt><tt>=Oth</tt> (14; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13; 93%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11; 79%).
 
 `PROPN` tokens may have the following values of `Typo`:
 

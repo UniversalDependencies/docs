@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>magna</em> (<tt><a href="la_circse-po
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 2.141026 (the average of all parts of speech is 2.130077).
+The form / lemma ratio of `ADJ` is 2.141026 (the average of all parts of speech is 2.130677).
 
 The 1st highest number of forms (20) was observed with the lemma “magnus”: <em>magna, magnas, magne, magni, magnis, magno, magnum, magnus, maior, maiora, maiore, maiorem, maiores, maioribus, maius, maxima, maximi, maximis, maximum, maximus</em>.
 

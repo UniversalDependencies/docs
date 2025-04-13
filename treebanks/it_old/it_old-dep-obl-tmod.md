@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_old-dep-obl.html">obl</a></tt>.
 There are also 3 other language-specific subtypes of `obl`: <tt><a href="it_old-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="it_old-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="it_old-dep-obl-lmod.html">obl:lmod</a></tt>.
 
-232 nodes (0%) are attached to their parents as `obl:tmod`.
+354 nodes (0%) are attached to their parents as `obl:tmod`.
 
-137 instances of `obl:tmod` (59%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.26724137931035.
+208 instances of `obl:tmod` (59%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.1638418079096.
 
-The following 17 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (162; 70% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (23; 10% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (11; 5% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (11; 5% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (237; 67% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (42; 12% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (15; 4% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (12; 3% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (8; 2% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_old-pos-X.html">X</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,40 +40,34 @@ The following 17 pairs of parts of speech are connected with `obl:tmod`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 14 obl:tmod	color:blue
-1	E	e	CCONJ	cscc	_	2	cc	_	Canto=23|Verso=76
-2	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	0	root	_	Canto=23|Verso=76
-3	a	a	ADP	epsk1d	_	4	case	_	Canto=23|Verso=76
-4	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	orphan	_	Canto=23|SpaceAfter=No|Verso=76
-5	:	:	PUNCT	_	_	25	punct	_	_
-6	«	«	PUNCT	_	_	25	punct	_	SpaceAfter=No
-7	Forese	Forese	PROPN	np	_	25	vocative	_	Canto=23|SpaceAfter=No|Verso=76
-8	,	,	PUNCT	_	_	7	punct	_	_
-9	da	da	ADP	epskt	_	11	case	_	Canto=23|Verso=76
-10	quel	quello	DET	ad1ms	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	Canto=23|Verso=76
-11	dì	dì	NOUN	sm3ms	Gender=Masc|Number=Sing	25	obl:tmod	_	Canto=23|Verso=76
-12	in	in	ADP	_	_	14	case	_	Canto=23|Comment=ne-l|Verso=77
-13	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Canto=23|Comment=ne-l|Verso=77
-14	qual	quale	PRON	pr2ms	Number=Sing|PronType=Rel	15	obl:tmod	_	Canto=23|Verso=77
-15	mutasti	mutare	VERB	vta1irs2	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	11	acl:relcl	_	Canto=23|Verso=77
-16	mondo	mondo	NOUN	sm2ms	Gender=Masc|Number=Sing	15	obj	_	Canto=23|Verso=77
-17	a	a	ADP	epskf	_	19	case	_	Canto=23|Verso=77
-18	miglior	migliore	ADJ	a2fs	Gender=Fem|Number=Sing	19	amod	_	Canto=23|Verso=77
-19	vita	vita	NOUN	sf1fs	Gender=Fem|Number=Sing	15	obl:lmod	_	Canto=23|SpaceAfter=No|Verso=77
-20	,	,	PUNCT	_	_	15	punct	_	_
-21	cinqu'	cinque	NUM	an	NumType=Card	22	nummod	_	Canto=23|Verso=78
-22	anni	anno	NOUN	sm2mp	Gender=Masc|Number=Plur	25	nsubj	_	Canto=23|Verso=78
-23	non	non	ADV	b	PronType=Neg	25	advmod:neg	_	Canto=23|Verso=78
-24	son	essere	AUX	vi4ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	Canto=23|Verso=78
-25	vòlti	volgere	VERB	vi2ibp3	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|VerbForm=Part	2	ccomp:reported	_	Canto=23|Verso=78
-26	infino	infino	ADV	_	_	28	advmod	_	Canto=23|Verso=78
-27	a	a	ADP	_	_	28	case	_	Canto=23|Verso=78
-28	qui	qui	ADV	b	_	25	advmod:lmod	_	Canto=23|SpaceAfter=No|Verso=78
-29	.	.	PUNCT	_	_	25	punct	_	_
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 22 19 obl:tmod	color:blue
+1	Molti	molto	PRON	pi1mp	Gender=Masc|Number=Plur|PronType=Ind	3	nsubj	_	Canto=16|Verso=142
+2	sarebber	essere	AUX	vi4dpp3	Mood=Cnd|Number=Plur|Person=3|Tense=Pres	3	cop	_	Canto=16|Verso=142
+3	lieti	lieto	ADJ	a1mp	Gender=Masc|Number=Plur	0	root	_	Canto=16|Verso=142|SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	che	che	PRON	pr	PronType=Rel	7	nsubj	_	Canto=16|Verso=142
+6	son	essere	AUX	vi4ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	Canto=16|Verso=142
+7	tristi	tristo	ADJ	a1mp	Gender=Masc|Number=Plur	1	acl:relcl	_	Canto=16|Verso=142|SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	se	se	SCONJ	cssv	_	13	mark	_	Canto=16|Verso=143
+10	Dio	Dio	PROPN	np	_	13	nsubj	_	Canto=16|Verso=143
+11	t'	tu	PRON	pp2syda	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	13	obj	_	Canto=16|Verso=143
+12	avesse	avere	AUX	vta5cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	13	aux	_	Canto=16|Verso=143
+13	conceduto	concedere	VERB	vta2cts3	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	3	advcl	_	Canto=16|Verso=143
+14	ad	a	ADP	epsk1d	_	15	case	_	Canto=16|Verso=143
+15	Ema	Ema	PROPN	np	_	13	iobj	_	Canto=16|Verso=143
+16	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	Canto=16|Verso=144
+17	prima	primo	ADJ	a1fs	Gender=Fem|Number=Sing	18	amod	_	Canto=16|Verso=144
+18	volta	volta	NOUN	sf1fs	Gender=Fem|Number=Sing	13	obl:tmod	_	Canto=16|Verso=144
+19	ch'	che	PRON	pr	PronType=Rel	22	obl:tmod	_	Canto=16|Verso=144
+20	a	a	ADP	epskml	_	21	case	_	Canto=16|Verso=144
+21	città	città	NOUN	sf3fs	Gender=Fem|Number=Sing	22	obl:lmod	_	Canto=16|Verso=144
+22	venisti	venire	VERB	vi3irs2	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	18	acl:relcl	_	Canto=16|Verso=144|SpaceAfter=No
+23	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

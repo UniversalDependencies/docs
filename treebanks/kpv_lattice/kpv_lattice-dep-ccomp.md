@@ -59,7 +59,7 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 4	fgColor:white
 # visual-style 4 8 ccomp	color:blue
 1	—	—	PUNCT	PUNCT	_	4	punct	_	_
-2	Он	оз	AUX	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Pres	4	aux:neg	_	_
+2	Он	оз	AUX	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Pres	4	aux	_	_
 3	ӧд	ӧд	PART	Pcle	_	4	advmod:eval	_	_
 4	тӧд	тӧд	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	_

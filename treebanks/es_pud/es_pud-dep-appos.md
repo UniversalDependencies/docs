@@ -33,7 +33,7 @@ The following 12 pairs of parts of speech are connected with `appos`: <tt><a hre
 9	algo	algo	NOUN	NN	Gender=Masc|Number=Sing	8	obj	_	_
 10	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	11	obj	_	_
 11	ver	ver	VERB	VB	VerbForm=Inf	9	acl:relcl	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	3	punct	_	_
+12	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -47,17 +47,17 @@ The following 12 pairs of parts of speech are connected with `appos`: <tt><a hre
 1	Son	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 2	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 3	elecciones	elección	NOUN	NN	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	,	_	5	punct	_	_
+4	,	,	PUNCT	,	PunctType=Comm	5	punct	_	_
 5	por	por	ADP	IN	_	3	discourse	_	_
 6	supuesto	supuesto	NOUN	NN	Gender=Masc|Number=Sing	5	fixed	_	SpaceAfter=No
-7	,	,	PUNCT	,	_	10	punct	_	_
+7	,	,	PUNCT	,	PunctType=Comm	10	punct	_	_
 8	no	no	ADV	RB	Polarity=Neg	10	advmod	_	_
-9	"	"	PUNCT	``	_	10	punct	_	SpaceAfter=No
+9	"	"	PUNCT	``	PunctType=Quot	10	punct	_	SpaceAfter=No
 10	Juego	juego	NOUN	NN	Gender=Masc|Number=Sing	3	appos	_	Proper=True
 11	de	de	ADP	IN	_	12	case	_	Proper=True
 12	tronos	trono	NOUN	NN	Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No|Proper=True
-13	"	"	PUNCT	''	_	10	punct	_	SpaceAfter=No
-14	.	.	PUNCT	.	_	3	punct	_	_
+13	"	"	PUNCT	''	PunctType=Quot	10	punct	_	SpaceAfter=No
+14	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -70,13 +70,13 @@ The following 12 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 1 2 appos	color:blue
 1	Día	día	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 2	tres	tres	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	1	appos	_	SpaceAfter=No
-3	,	,	PUNCT	,	_	4	punct	_	_
+3	,	,	PUNCT	,	PunctType=Comm	4	punct	_	_
 4	estaba	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	vuelta	vuelta	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
 7	en	en	ADP	IN	_	8	case	_	_
 8	Emicro	Emicro	PROPN	NNP	Number=Sing	4	obl	_	SpaceAfter=No
-9	.	.	PUNCT	.	_	1	punct	_	_
+9	.	.	PUNCT	.	PunctType=Peri	1	punct	_	_
 
 ~~~
 

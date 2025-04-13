@@ -8,33 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt>.
 
-15 nodes (0%) are attached to their parents as `dep:comp`.
+5 nodes (0%) are attached to their parents as `dep:comp`.
 
-15 instances of `dep:comp` (100%) are right-to-left (child precedes parent).
+5 instances of `dep:comp` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `dep:comp`: <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (10; 67% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 33% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 dep:comp	color:blue
-1	Instructions	instruction	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
-2	en	en	ADP	_	_	3	case	_	_
-3	cas	cas	NOUN	_	Gender=Masc	1	nmod	_	_
-4	d'	de	ADP	_	_	5	case	_	SpaceAfter=No
-5	omission	omission	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
-6	d'	de	ADP	_	_	7	dep:comp	_	SpaceAfter=No
-7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	dep	_	_
-8	ou	ou	CCONJ	_	_	11	cc	_	_
-9	de	de	ADP	_	_	11	case	_	_
-10	plusieurs	plusieurs	DET	_	Number=Plur	11	det	_	_
-11	doses	dose	NOUN	_	Gender=Fem|Number=Plur	7	conj	_	_
-
-~~~
+The following 1 pairs of parts of speech are connected with `dep:comp`: <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 100% instances).
 
 
 ~~~ conllu
@@ -52,7 +31,7 @@ The following 2 pairs of parts of speech are connected with `dep:comp`: <tt><a h
 7	de	de	ADP	_	_	8	case	_	_
 8	prison	prison	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	_
-10	15 000	15 000	DET	_	_	11	det	_	_
+10	15 000	15 000	NUM	_	_	11	nummod	_	_
 11	euros	euro	NOUN	_	Gender=Masc|Number=Plur	6	conj	_	_
 12	d'	de	ADP	_	_	13	case	_	SpaceAfter=No
 13	amende	amende	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_

@@ -40,7 +40,7 @@ Examples: <em>lela, moza</em>
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 4 different relations: <tt><a href="ltg_cairo-dep-amod.html">amod</a></tt> (2; 40% instances), <tt><a href="ltg_cairo-dep-conj.html">conj</a></tt> (1; 20% instances), <tt><a href="ltg_cairo-dep-obl.html">obl</a></tt> (1; 20% instances), <tt><a href="ltg_cairo-dep-xcomp.html">xcomp</a></tt> (1; 20% instances)
+`ADJ` nodes are attached to their parents using 4 different relations: <tt><a href="ltg_cairo-dep-amod.html">amod</a></tt> (2; 40% instances), <tt><a href="ltg_cairo-dep-advcl.html">advcl</a></tt> (1; 20% instances), <tt><a href="ltg_cairo-dep-conj.html">conj</a></tt> (1; 20% instances), <tt><a href="ltg_cairo-dep-xcomp.html">xcomp</a></tt> (1; 20% instances)
 
 Parents of `ADJ` nodes belong to 3 different parts of speech: <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (2; 40% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (2; 40% instances), <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> (1; 20% instances)
 
@@ -50,7 +50,7 @@ Parents of `ADJ` nodes belong to 3 different parts of speech: <tt><a href="ltg_c
 
 The highest child degree of a `ADJ` node is 1.
 
-Children of `ADJ` nodes are attached using 3 different relations: <tt><a href="ltg_cairo-dep-case.html">case</a></tt> (1; 33% instances), <tt><a href="ltg_cairo-dep-cc.html">cc</a></tt> (1; 33% instances), <tt><a href="ltg_cairo-dep-conj.html">conj</a></tt> (1; 33% instances)
+Children of `ADJ` nodes are attached using 3 different relations: <tt><a href="ltg_cairo-dep-cc.html">cc</a></tt> (1; 33% instances), <tt><a href="ltg_cairo-dep-conj.html">conj</a></tt> (1; 33% instances), <tt><a href="ltg_cairo-dep-mark.html">mark</a></tt> (1; 33% instances)
 
 Children of `ADJ` nodes belong to 3 different parts of speech: <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> (1; 33% instances), <tt><a href="ltg_cairo-pos-CCONJ.html">CCONJ</a></tt> (1; 33% instances), <tt><a href="ltg_cairo-pos-SCONJ.html">SCONJ</a></tt> (1; 33% instances)
 

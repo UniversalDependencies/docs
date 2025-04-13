@@ -7,31 +7,36 @@ udver: '2'
 ## Treebank Statistics: UD_Georgian-GLC: Features: `Degree`
 
 This feature is universal.
-It occurs with 2 different values: `Pos`, `Sup`.
+It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-62 tokens (3%) have a non-empty value of `Degree`.
-55 types (4%) occur at least once with a non-empty value of `Degree`.
-42 lemmas (4%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (62; 3% instances).
+1273 tokens (2%) have a non-empty value of `Degree`.
+246 types (2%) occur at least once with a non-empty value of `Degree`.
+137 lemmas (2%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (1273; 2% instances).
 
 ### `ADJ`
 
-62 <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> tokens (20% of all `ADJ` tokens) have a non-empty value of `Degree`.
+1273 <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> tokens (14% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (61; 98%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1199; 94%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Pos` (55; 89% of non-empty `Degree`): <em>ახალი, დიდი, ძველი, საჭირო, ანკარა, აშკარა, ახალ, ახლად, დიდ, თანამედროვე</em>
-* `Sup` (7; 11% of non-empty `Degree`): <em>საუკეთესო, უდიდესი, უმაღლეს, უმაღლესი, უმთავრესად, უშორესი, უძველეს</em>
-* `EMPTY` (250): <em>ქართული, აღსანიშნავი, განსაკუთრებული, დაინტერესებული, დემოგრაფიული, მრავალმხრივი, საერთაშორისო, არსებული, დადებითი, დამოკიდებული</em>
+* `Cmp` (69; 5% of non-empty `Degree`): <em>უფრო, მომრგვალო, უკეთესი</em>
+* `Pos` (1063; 84% of non-empty `Degree`): <em>დიდი, ახალი, ძველი, მთავარი, მნიშვნელოვანი, ფართო, მრავალი, ზოგადი, მეტი, საჭირო</em>
+* `Sup` (141; 11% of non-empty `Degree`): <em>უძველესი, უმაღლეს, უმაღლესი, უდიდესი, უმნიშვნელოვანესი, უძველეს, უმთავრესად, უმარტივესი, უმნიშვნელოვანეს, უმცირესი</em>
+* `EMPTY` (7902): <em>სხვადასხვა, საერთაშორისო, ქიმიური, თანამედროვე, ძირითადი, ბერძნ., სამეცნიერო, ფიზიკური, სახელმწიფო, დაკავშირებული</em>
 
 <table>
-  <tr><th>Paradigm <i>დიდი</i></th><th><tt>Pos</tt></th><th><tt>Sup</tt></th></tr>
-  <tr><td><tt><tt><a href="ka_glc-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>დიდ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ka_glc-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>დიდი</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ka_glc-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>დიდი</em></td><td><em>უდიდესი</em></td></tr>
+  <tr><th>Paradigm <i>კარგი</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
+  <tr><td><tt><tt><a href="ka_glc-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td></td><td></td><td><em>უკეთეს</em></td></tr>
+  <tr><td><tt><tt><a href="ka_glc-feat-Case.html">Case</a></tt><tt>=Ess</tt></tt></td><td></td><td></td><td><em>საუკეთესო</em></td></tr>
+  <tr><td><tt><tt><a href="ka_glc-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>კარგი</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ka_glc-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>კარგი</em></td><td><em>უკეთესი</em></td><td><em>საუკეთესო, უკეთესი</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 90% lemmas (38) occur only with one value of `Degree`.
+## Relations with Agreement in `Degree`
+
+The 10 most frequent relations where parent and child node agree in `Degree`:
+<tt>ADJ --[<tt><a href="ka_glc-dep-acl.html">acl</a></tt>]--> ADJ</tt> (2; 67%).
 

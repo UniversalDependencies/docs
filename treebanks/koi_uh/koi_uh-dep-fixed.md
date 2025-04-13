@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 7	fgColor:white
 # visual-style 7 8 fixed	color:blue
 1	Ме	ме	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	GTtags=Pers,Sg1,Nom
-2	эг	оз	AUX	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past	5	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg1
+2	эг	оз	AUX	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past	5	aux	_	GTtags=Neg,Ind,Prt1,Sg1
 3	вермы	вермыны	AUX	_	Connegative=Yes	5	aux	_	GTtags=ConNeg
 4	сійӧ	сія	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	obj	_	GTtags=Pers,Sg3,Acc
 5	вӧтны	вӧтны	VERB	_	VerbForm=Inf	0	root	_	GTtags=Inf|SpaceAfter=No

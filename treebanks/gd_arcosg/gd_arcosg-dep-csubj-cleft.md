@@ -25,13 +25,13 @@ The following 14 pairs of parts of speech are connected with `csubj:cleft`: <tt>
 # visual-style 6 8 csubj:cleft	color:blue
 1	an	is	AUX	Wpdqa	Mood=Int|Polarity=Aff|Tense=Pres	6	cop	_	_
 2	an	an	ADP	Sp	_	1	fixed	_	_
-3	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	1	fixed	_	_
+3	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	fixed	_	_
 4	aig	aig	ADP	Sp	_	6	case	_	_
 5	na	an	DET	Tdp	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	bales	bales	NOUN	Xfe	Foreign=Yes	0	root	_	_
 7	a	a	PART	Q-r	PartType=Vb|PronType=Rel	8	xcomp:pred	_	_
-8	bha	bi	VERB	V-s	Tense=Past	6	csubj:cleft	_	_
-9	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	SpaceAfter=No
+8	bha	bi	VERB	V-s	Mood=Ind|Tense=Past|VerbForm=Fin	6	csubj:cleft	_	_
+9	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	SpaceAfter=No
 10	?	?	PUNCT	Fg	_	6	punct	_	_
 
 ~~~
@@ -44,12 +44,12 @@ The following 14 pairs of parts of speech are connected with `csubj:cleft`: <tt>
 # visual-style 2	fgColor:white
 # visual-style 2 4 csubj:cleft	color:blue
 1	‘s	is	AUX	Wp-i	Tense=Pres	2	cop	_	_
-2	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	0	root	_	_
+2	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
 3	a	a	PART	Q-r	PartType=Vb|PronType=Rel	4	nsubj	_	_
-4	sgrìobh	sgrìobh	VERB	V-s	Tense=Past	2	csubj:cleft	_	_
+4	sgrìobh	sgrìobh	VERB	V-s	Mood=Ind|Tense=Past|VerbForm=Fin	2	csubj:cleft	_	_
 5	an	an	DET	Tdsm	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	leabhar	leabhar	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	4	obj	_	_
-7	sin	sin	DET	Dd	_	6	det	_	_
+7	sin	sin	DET	Dd	PronType=Art	6	det	_	_
 
 ~~~
 
@@ -61,13 +61,13 @@ The following 14 pairs of parts of speech are connected with `csubj:cleft`: <tt>
 # visual-style 3	fgColor:white
 # visual-style 3 6 csubj:cleft	color:blue
 1	an	is	AUX	Wpdqa	Mood=Int|Polarity=Aff|Tense=Pres	3	cop	_	_
-2	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	1	fixed	_	_
+2	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	fixed	_	_
 3	[Name]	[Name]	PROPN	Nn	_	0	root	_	Anonymised=Yes
 4	[Name]	[Name]	PROPN	Nn	_	3	flat:name	_	Anonymised=Yes
 5	a	a	PART	Q-r	PartType=Vb|PronType=Rel	6	nsubj	_	_
-6	th’	bi	VERB	V-p	Tense=Pres	3	csubj:cleft	_	_
+6	th’	bi	VERB	V-p	Mood=Ind|Tense=Pres|VerbForm=Fin	3	csubj:cleft	_	_
 7	aig	aig	ADP	Sp	_	8	case	_	_
-8	i	i	PRON	Pp3sf	Gender=Fem|Number=Sing|Person=3	6	xcomp:pred	_	_
+8	i	i	PRON	Pp3sf	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	xcomp:pred	_	_
 9	?	?	PUNCT	Fg	_	3	punct	_	_
 
 ~~~

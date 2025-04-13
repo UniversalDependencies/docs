@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 4 ccomp	color:blue
 1	Fikr	fikr	NOUN	_	_	2	compound:lvc	_	_
-2	eliyәm	el	VERB	_	_	0	root	_	_
+2	elirәm	el	VERB	_	_	0	root	_	_
 3	yağış	yağış	NOUN	_	_	4	nsubj	_	_
 4	yağır	yağ	VERB	_	_	2	ccomp	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
@@ -43,7 +43,7 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 4	yaxçı	yaxçı	ADJ	_	_	6	amod	_	_
 5	bir	bir	DET	_	_	6	det	_	_
 6	mədrəsəde	mədrəsə	NOUN	_	_	8	obl	_	_
-7	ders	dərs	NOUN	_	_	8	compound	_	_
+7	dərs	dərs	NOUN	_	_	8	compound	_	_
 8	oxumasıydı	oxu	VERB	_	_	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 

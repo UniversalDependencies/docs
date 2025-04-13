@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="orv_ruthenian-dep-aux-pass.html">aux:pass</a></tt>.
 
-1066 nodes (1%) are attached to their parents as `aux`.
+1135 nodes (1%) are attached to their parents as `aux`.
 
-642 instances of `aux` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.76547842401501.
+681 instances of `aux` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.79383259911894.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1039; 97% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (12; 1% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (9; 1% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1107; 98% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (12; 1% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -82,7 +82,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 6	товар	товаръ	NOUN	NNI	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	wf="товар"
 7	забрали	забрати	VERB	VBC	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="забрали"|SpaceAfter=No
 8	,	,	PUNCT	-COMMA-	_	7	punct	_	_
-9	рекꙋч(и)	рещи	VERB	VBG	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	7	advcl	_	wf="рекꙋчи"|SpaceAfter=No
+9	рекꙋч(и)	рещи	VERB	VBG	Tense=Pres|VerbForm=Conv|Voice=Act	7	advcl	_	wf="рекꙋчи"|SpaceAfter=No
 10	,	,	PUNCT	-COMMA-	_	14	punct	_	_
 11	бы	бы	AUX	RP	Mood=Cnd	14	aux	_	wf="бы"
 12	им	они	PRON	PRP	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	iobj	_	wf="им"

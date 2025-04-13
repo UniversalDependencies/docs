@@ -30,7 +30,7 @@ The following 23 pairs of parts of speech are connected with `csubj`: <tt><a hre
 5	ir	ir	VERB	_	VerbForm=Inf	2	csubj	_	_
 6	en	en	ADP	_	_	7	case	_	_
 7	grupo	grupo	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	2	punct	_	_
+8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -45,16 +45,16 @@ The following 23 pairs of parts of speech are connected with `csubj`: <tt><a hre
 2	a	a	ADP	_	_	4	case	_	_
 3	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 4	colegio	colegio	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	1	punct	_	_
+5	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 6	para	para	ADP	_	_	7	case	_	_
 7	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	10	nmod	_	_
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 9	peor	peor	ADJ	_	Degree=Cmp|Number=Sing	10	amod	_	_
 10	experiencia	experiencia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 11	de	de	ADP	_	_	13	case	_	_
-12	mi	mi	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+12	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
 13	vida	vida	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	10	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
 
 ~~~
 
@@ -74,7 +74,7 @@ The following 23 pairs of parts of speech are connected with `csubj`: <tt><a hre
 7	leer	leer	VERB	_	VerbForm=Inf	4	advcl	_	_
 8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	comentarios	comentario	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	2	punct	_	_
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 

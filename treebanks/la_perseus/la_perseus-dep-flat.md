@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-Perseus: Relations: `flat`
 
 This relation is universal.
-There are 1 language-specific subtypes of `flat`: <tt><a href="la_perseus-dep-flat-name.html">flat:name</a></tt>.
+There are 2 language-specific subtypes of `flat`: <tt><a href="la_perseus-dep-flat-name.html">flat:name</a></tt>, <tt><a href="la_perseus-dep-flat-redup.html">flat:redup</a></tt>.
 
 16 nodes (0%) are attached to their parents as `flat`.
 

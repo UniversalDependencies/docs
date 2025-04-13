@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_Irish-DipWBG: POS Tags: `ADP`
 
-There are 14 `ADP` lemmas (7%), 27 `ADP` types (10%) and 45 `ADP` tokens (10%).
-Out of 13 observed tags, the rank of `ADP` is: 5 in number of lemmas, 4 in number of types and 5 in number of tokens.
+There are 14 `ADP` lemmas (8%), 27 `ADP` types (10%) and 45 `ADP` tokens (10%).
+Out of 12 observed tags, the rank of `ADP` is: 5 in number of lemmas, 4 in number of types and 5 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>do, i, ar, la, oc, tar, de, fri, tre, ó</em>
 
 The 10 most frequent `ADP` types:  <em>ar, dúib, oc, dar, i, de, di, fri, as, dochum</em>
 
-The 10 most frequent ambiguous lemmas: <em>do</em> (<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 8, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 8, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 1), <em>ar</em> (<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 5, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 3, <tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ó</em> (<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 2, <tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>a</em> (<tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 4, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 4, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 3, <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 1, <tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>do</em> (<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 8, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 8, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 1), <em>ar</em> (<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 5, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 3, <tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ó</em> (<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 2, <tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>a</em> (<tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 4, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 3, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 3, <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 1, <tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>ar</em> (<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 5, <tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 3), <em>i</em> (<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 3, <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> 1), <em>as</em> (<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 2, <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 1, <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> 1)
 
@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  <em>ar</em> (<tt><a href="sga_dipwbg-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.928571 (the average of all parts of speech is 1.427807).
+The form / lemma ratio of `ADP` is 1.928571 (the average of all parts of speech is 1.430108).
 
 The 1st highest number of forms (4) was observed with the lemma “do”: <em>di, dét, dúib, ṅduit</em>.
 

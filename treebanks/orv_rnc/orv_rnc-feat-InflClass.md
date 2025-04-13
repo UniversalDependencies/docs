@@ -9,10 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Ind`.
 
-8 tokens (0%) have a non-empty value of `InflClass`.
-6 types (0%) occur at least once with a non-empty value of `InflClass`.
-6 lemmas (0%) occur at least once with a non-empty value of `InflClass`.
-The feature is used with 3 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+11 tokens (0%) have a non-empty value of `InflClass`.
+9 types (0%) occur at least once with a non-empty value of `InflClass`.
+9 lemmas (0%) occur at least once with a non-empty value of `InflClass`.
+The feature is used with 3 part-of-speech tags: <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+
+### `PROPN`
+
+6 <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `InflClass`.
+
+The most frequent other feature values with which `PROPN` and `InflClass` co-occurred: <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (5; 83%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 83%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4; 67%), <tt><a href="orv_rnc-feat-NameType.html">NameType</a></tt><tt>=Geo</tt> (4; 67%).
+
+`PROPN` tokens may have the following values of `InflClass`:
+
+* `Ind` (6; 100% of non-empty `InflClass`): <em>Июдиф, Комагыни, Малоси, Наеми, Тавриани, Усть-Березовки</em>
 
 ### `NOUN`
 
@@ -23,16 +33,6 @@ The most frequent other feature values with which `NOUN` and `InflClass` co-occu
 `NOUN` tokens may have the following values of `InflClass`:
 
 * `Ind` (4; 100% of non-empty `InflClass`): <em>адицио, супъстракцио</em>
-
-### `PROPN`
-
-3 <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `InflClass`.
-
-The most frequent other feature values with which `PROPN` and `InflClass` co-occurred: <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3; 100%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2; 67%), <tt><a href="orv_rnc-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (2; 67%).
-
-`PROPN` tokens may have the following values of `InflClass`:
-
-* `Ind` (3; 100% of non-empty `InflClass`): <em>Июдиф, Наеми, Усть-Березовки</em>
 
 ### `ADJ`
 

@@ -13,18 +13,18 @@ Some words have combined values of the feature; 1 combinations have been observe
 12744 tokens (20%) have a non-empty value of `PronType`.
 173 types (2%) occur at least once with a non-empty value of `PronType`.
 31 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (10453; 16% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2291; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (10451; 16% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2293; 4% instances).
 
 ### `DET`
 
-10453 <tt><a href="el_gdt-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `PronType`.
+10451 <tt><a href="el_gdt-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (9379; 90%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7914; 76%), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (5643; 54%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (9379; 90%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7913; 76%), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (5642; 54%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Art` (9847; 94% of non-empty `PronType`): <em>την, της, το, η, του, των, ο, οι, τα, τη</em>
-* `Dem` (393; 4% of non-empty `PronType`): <em>αυτή, αυτό, αυτές, αυτής, αυτά, αυτού, αυτών, αυτόν, τέτοιο, αυτήν</em>
+* `Dem` (391; 4% of non-empty `PronType`): <em>αυτή, αυτό, αυτές, αυτής, αυτά, αυτού, αυτών, αυτόν, τέτοιο, αυτήν</em>
 * `Ind` (196; 2% of non-empty `PronType`): <em>κάθε, άλλες, άλλα, άλλη, κάποια, καμία, κανένα, άλλο, άλλων, άλλοι</em>
 * `Ind,Rel` (16; 0% of non-empty `PronType`): <em>οποιαδήποτε, οποιασδήποτε, οποιοδήποτε, οτιδήποτε, Οποιεσδήποτε, οιονδήποτε</em>
 * `Rel` (1; 0% of non-empty `PronType`): <em>ης</em>
@@ -50,13 +50,13 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-2291 <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+2293 <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (1913; 84%), <tt><a href="el_gdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1655; 72%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1287; 56%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (1915; 84%), <tt><a href="el_gdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1657; 72%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1288; 56%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (227; 10% of non-empty `PronType`): <em>αυτό, αυτά, αυτή, αυτές, τούτο, αυτούς, αυτήν, αυτού, αυτοί, Αυτός</em>
+* `Dem` (229; 10% of non-empty `PronType`): <em>αυτό, αυτά, αυτή, αυτές, τούτο, αυτούς, αυτήν, αυτού, αυτοί, Αυτός</em>
 * `Ind` (108; 5% of non-empty `PronType`): <em>κάτι, κανείς, άλλων, τίποτα, άλλη, άλλο, κάποιος, άλλα, άλλες, άλλοι</em>
 * `Ind,Rel` (33; 1% of non-empty `PronType`): <em>όσα, ό,τι, όσοι, όσους, όσων, οποιονδήποτε, οτιδήποτε, όποιες, όποιος</em>
 * `Int` (21; 1% of non-empty `PronType`): <em>τι, ποιο, Τίνος, ποιες, ποιον, ποιος</em>

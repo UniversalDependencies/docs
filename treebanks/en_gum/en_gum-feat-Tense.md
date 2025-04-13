@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-22328 tokens (11%) have a non-empty value of `Tense`.
-3203 types (18%) occur at least once with a non-empty value of `Tense`.
-1741 lemmas (13%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (14313; 7% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (8015; 4% instances).
+22358 tokens (11%) have a non-empty value of `Tense`.
+3209 types (18%) occur at least once with a non-empty value of `Tense`.
+1742 lemmas (13%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (14339; 7% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (8019; 4% instances).
 
 ### `VERB`
 
-14313 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Tense`.
+14339 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_gum-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (11305; 79%), <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8178; 57%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (8172; 57%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_gum-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (11331; 79%), <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8204; 57%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (8196; 57%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (7463; 52% of non-empty `Tense`): <em>said, had, made, united, got, used, called, found, known, based</em>
-* `Pres` (6850; 48% of non-empty `Tense`): <em>have, know, think, has, gon, going, are, want, is, 's</em>
-* `EMPTY` (7965): <em>have, do, make, get, see, go, know, take, let, say</em>
+* `Past` (7464; 52% of non-empty `Tense`): <em>said, had, made, united, got, used, called, found, known, based</em>
+* `Pres` (6875; 48% of non-empty `Tense`): <em>have, know, think, has, gon, going, are, want, is, 's</em>
+* `EMPTY` (7938): <em>have, do, make, get, see, go, know, take, let, say</em>
 
 <table>
   <tr><th>Paradigm <i>have</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -40,15 +40,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-8015 <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> tokens (71% of all `AUX` tokens) have a non-empty value of `Tense`.
+8019 <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> tokens (71% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7598; 95%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7588; 95%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt> (5922; 74%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5800; 72%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7602; 95%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7592; 95%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt> (5925; 74%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5801; 72%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Past` (2295; 29% of non-empty `Tense`): <em>was, were, been, did, had, 'd, ’d, got, done, where</em>
-* `Pres` (5720; 71% of non-empty `Tense`): <em>is, are, 's, do, have, has, 're, 'm, ’s, 've</em>
-* `EMPTY` (3340): <em>be, can, will, would, should, could, may, 'll, have, might</em>
+* `Pres` (5724; 71% of non-empty `Tense`): <em>is, are, 's, do, have, has, 're, 'm, ’s, 've</em>
+* `EMPTY` (3336): <em>be, can, will, would, should, could, may, 'll, have, might</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -59,7 +59,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>are, 're, ’re</em></td><td><em>were, was</em></td></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>'re, are</em></td><td><em>were</em></td></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>are</em></td><td><em>were</em></td></tr>
-  <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>are, 're, ’re, am</em></td><td><em>were, was</em></td></tr>
+  <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>are, 're, ’re, R, am</em></td><td><em>were, was</em></td></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>be</em></td><td></td></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>be</em></td><td><em>were</em></td></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>been</em></td></tr>
@@ -69,7 +69,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="en_gum-dep-conj.html">conj</a></tt>]--> VERB</tt> (1194; 77%),
+<tt>VERB --[<tt><a href="en_gum-dep-conj.html">conj</a></tt>]--> VERB</tt> (1198; 77%),
 <tt>VERB --[<tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (52; 81%),
 <tt>VERB --[<tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (30; 56%),
 <tt>VERB --[<tt><a href="en_gum-dep-conj.html">conj</a></tt>]--> AUX</tt> (10; 59%),

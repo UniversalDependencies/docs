@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_English-GUMReddit: Relations: `nmod:poss`
 
 This relation is a language-specific subtype of <tt><a href="en_gumreddit-dep-nmod.html">nmod</a></tt>.
-There are also 2 other language-specific subtypes of `nmod`: <tt><a href="en_gumreddit-dep-nmod-npmod.html">nmod:npmod</a></tt>, <tt><a href="en_gumreddit-dep-nmod-tmod.html">nmod:tmod</a></tt>.
+There are also 1 other language-specific subtypes of `nmod`: <tt><a href="en_gumreddit-dep-nmod-unmarked.html">nmod:unmarked</a></tt>.
 
 301 nodes (2%) are attached to their parents as `nmod:poss`.
 
@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 nmod:poss	color:blue
-1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Discourse=ROOT:6:0|Entity=(5-person-acc:com-cf1-1-ana)|Lem=*LOWER*|Len=3
+1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Discourse=ROOT:6:0|Entity=(5-person-acc:com-cf1-1-ana)|Lem=*LOWER*|Len=3|PDTB=Hypophora:Hypophora:_:_:1-23:24-31
 2	_	_	AUX	MD	VerbForm=Fin	3	aux	3:aux	Lem=_|Len=3
 3	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Lem=_|Len=6
 4	_	_	ADP	IN	_	7	case	7:case	Lem=_|Len=4
@@ -42,7 +42,7 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 8	fgColor:white
 # visual-style 8 5 nmod:poss	color:blue
 1	_	_	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	Discourse=joint-sequence_m:16->13:1:dm-then-87|Entity=(7-person-giv:act-cf1*-1-ana)|Lem=*LOWER*|Len=3
-2	_	_	ADV	RB	PronType=Dem	3	advmod	3:advmod	Lem=_|Len=4
+2	_	_	ADV	RB	PronType=Dem	3	advmod	3:advmod	Lem=_|Len=4|PDTB=Explicit:Temporal.Asynchronous.Precedence:then:87:64-85:86,88-102
 3	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Lem=give|Len=4
 4	_	_	DET	DT	Definite=Def|PronType=Art	5	det	5:det	Entity=(15-time-new-cf3-5-sgl(14-object-giv:act-cf2-2-coref|Lem=_|Len=3
 5	_	_	NOUN	NN	Number=Sing	8	nmod:poss	8:nmod:poss	Lem=_|Len=4
@@ -68,17 +68,17 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 28	bgColor:blue
 # visual-style 28	fgColor:white
 # visual-style 28 26 nmod:poss	color:blue
-1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=causal-cause:102->104:0:_|Entity=(72-person-giv:act-cf1*-1-ana)|Lem=_|Len=1
+1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=causal-cause:102->104:0:_|Entity=(72-person-giv:act-cf1*-1-ana)|Lem=_|Len=1|PDTB=Implicit:Expansion.Instantiation.Arg2-as-instance:for instance:_:711-746:747-775
 2	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=_|Len=4
 3	_	_	SCONJ	IN	_	6	mark	6:mark	Lem=_|Len=4
 4	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj	Entity=(29-person-giv:act-cf2-1-ana)|Lem=_|Len=4
-5	_	_	ADV	RB	_	6	advmod	6:advmod	Lem=_|Len=6
+5	_	_	ADV	RB	_	6	advmod	6:advmod	Lem=_|Len=6|MSeg=al-way-s
 6	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	2:advcl:like	Lem=_|Len=2
 7	_	_	ADV	RB	Degree=Pos	6	advmod	6:advmod	Lem=_|Len=9|MSeg=over-board
 8	_	_	ADP	IN	_	10	case	10:case	Lem=_|Len=4
 9	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	Entity=(43-object-giv:inact-cf6-2-coref(29-person-giv:act-cf2-1-ana)|Lem=_|Len=5
 10	_	_	NOUN	NN	Number=Sing	6	obl	6:obl:with	Entity=43)|Lem=_|Len=4
-11	_	_	PART	TO	_	12	mark	12:mark	Discourse=purpose-goal:103->102:0:syn-inf-757|Lem=_|Len=2
+11	_	_	PART	TO	_	12	mark	12:mark	Discourse=purpose-goal:103->102:0:syn-inf-757|Lem=_|Len=2|PDTB=Implicit:Contingency.Purpose.Arg2-as-goal:in order:_:747-756:757-762
 12	_	_	VERB	VB	VerbForm=Inf	6	advcl	6:advcl:to	Lem=_|Len=3
 13	_	_	CCONJ	CC	_	14	cc	14:cc	Lem=_|Len=3
 14	_	_	VERB	VB	VerbForm=Inf	12	conj	6:advcl:to|12:conj:and	Lem=_|Len=3

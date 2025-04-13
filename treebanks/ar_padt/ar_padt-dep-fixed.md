@@ -48,10 +48,10 @@ The following 43 pairs of parts of speech are connected with `fixed`: <tt><a hre
 6	اسبوعين	أُسبُوع	NOUN	N------D4I	Case=Acc|Definite=Ind|Number=Dual	5	obj	5:obj	Vform=أُسبُوعَينِ|Gloss=week|Root=s b `|Translit=ʾusbūʿayni|LTranslit=ʾusbūʿ
 7	ب	بِ	ADP	P---------	AdpType=Prep	9	case	9:case	Gloss=by,with|LTranslit=bi|Root=bi|Translit=bi|Vform=بِ
 8	حسب	حَسَبَ	ADP	PI------2-	AdpType=Prep|Case=Gen	7	fixed	7:fixed	Gloss=according_to,depending_on|LTranslit=ḥasaba|Root=.h s b|Translit=ḥasabi|Vform=حَسَبِ
-9	احد	أَحَد	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	5	obl	5:obl:بِ_حَسَبَ:gen	Vform=أَحَدِ|Gloss=one,someone|Root=' .h d|Translit=ʾaḥadi|LTranslit=ʾaḥad
+9	احد	أَحَد	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	5	obl	5:obl:حَسَبَ:gen	Vform=أَحَدِ|Gloss=one,someone|Root=' .h d|Translit=ʾaḥadi|LTranslit=ʾaḥad
 10	المقربين	مُقَرَّب	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	9	nmod	9:nmod:gen	Vform=اَلمُقَرَّبِينَ|Gloss=close_companion,protege,intimate|Root=q r b|Translit=al-muqarrabīna|LTranslit=muqarrab
 11	من	مِن	ADP	P---------	AdpType=Prep	12	case	12:case	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
-12	باراك	بَارَاك	X	X---------	Foreign=Yes	10	nmod	10:nmod:مِن	Vform=بَارَاك|Gloss=Barak|Root=bArAk|Translit=bārāk|LTranslit=bārāk
+12	باراك	بَارَاك	X	X---------	Foreign=Yes	10	nmod	10:nmod:مِن:gen	Vform=بَارَاك|Gloss=Barak|Root=bArAk|Translit=bārāk|LTranslit=bārāk
 
 ~~~
 
@@ -67,7 +67,7 @@ The following 43 pairs of parts of speech are connected with `fixed`: <tt><a hre
 3	أن	أَنَّ	SCONJ	C---------	_	6	mark	6:mark	Gloss=that|LTranslit=ʾanna|Root=' n|Translit=ʾanna|Vform=أَنَّ
 4	ه	هُوَ	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	fixed	3:fixed	Gloss=he,she,it|LTranslit=huwa|Translit=hu|Vform=هُ
 5	من	مِن	ADP	P---------	AdpType=Prep	6	case	6:case	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
-6	السابق	سَابِق	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl	2:obl:أَنَّ_هُوَ_مِن:gen	Vform=اَلسَّابِقِ|Gloss=former,previous,preceding,early|Root=s b q|Translit=as-sābiqi|LTranslit=sābiq
+6	السابق	سَابِق	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl	2:obl:أَنَّ	Vform=اَلسَّابِقِ|Gloss=former,previous,preceding,early|Root=s b q|Translit=as-sābiqi|LTranslit=sābiq
 7	ل	لِ	ADP	P---------	AdpType=Prep	8	case	8:case	Gloss=for,to|LTranslit=li|Root=l|Translit=li|Vform=لِ
 8	أوان	أَوَان	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	6	obl	6:obl:لِ:gen	Gloss=time,moment|LTranslit=ʾawān|Root=' w n|Translit=ʾawāni|Vform=أَوَانِ
 9	ه	هُوَ	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	8:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hi|Vform=هِ

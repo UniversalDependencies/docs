@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-obl.html">obl</a></tt>.
 There are also 4 other language-specific subtypes of `obl`: <tt><a href="orv_rnc-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="orv_rnc-dep-obl-depict.html">obl:depict</a></tt>, <tt><a href="orv_rnc-dep-obl-float.html">obl:float</a></tt>, <tt><a href="orv_rnc-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-9 nodes (0%) are attached to their parents as `obl:pronmod`.
+18 nodes (0%) are attached to their parents as `obl:pronmod`.
 
-7 instances of `obl:pronmod` (78%) are left-to-right (parent precedes child).
+15 instances of `obl:pronmod` (83%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.55555555555556.
 
-The following 5 pairs of parts of speech are connected with `obl:pronmod`: <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (3; 33% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2; 22% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (2; 22% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 11% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 11% instances).
+The following 8 pairs of parts of speech are connected with `obl:pronmod`: <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (3; 17% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (3; 17% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (3; 17% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (3; 17% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (2; 11% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (2; 11% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -43,74 +43,38 @@ The following 5 pairs of parts of speech are connected with `obl:pronmod`: <tt><
 
 
 ~~~ conllu
-# visual-style 62	bgColor:blue
-# visual-style 62	fgColor:white
-# visual-style 61	bgColor:blue
-# visual-style 61	fgColor:white
-# visual-style 61 62 obl:pronmod	color:blue
-1	Да	да	CCONJ	_	_	2	cc	_	wf="Да"
-2	отпиши	отписати	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	wf="отпиши"
-3	про	про	ADP	_	_	4	case	_	wf="про"
-4	нее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	_	wf="нее"
-5	не	не	PART	_	Polarity=Neg	8	advmod	_	wf="не"
-6	въ	въ	ADP	_	_	8	case	_	wf="въ"
-7	одно	одинъ	NUM	_	Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	8	nummod	_	upos="ANUM"|wf="одно"
-8	мѣсто	мѣсто	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	wf="мѣсто"|SpaceAfter=No
-9	,	,	PUNCT	_	_	15	punct	_	wf=","
-10	для	для	ADP	_	_	15	mark	_	wf="для"
-11	того	тотъ	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	10	fixed	_	wf="того"
-12	что	что	SCONJ	_	_	10	fixed	_	wf="что"
-13	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	wf="она"
-14	мнѣ	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	15	iobj	_	wf="мнѣ"
-15	нужна	нужный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	2	advcl	_	wf="нужна"
-16	вскорѣ	вскорѣ	ADV	_	Degree=Pos	15	advmod	_	wf="вскорѣ"|SpaceAfter=No
-17	,	,	PUNCT	_	_	22	punct	_	wf=","
-18	и	и	CCONJ	_	_	22	cc	_	wf="и"
-19	для	для	ADP	_	_	20	case	_	wf="для"
-20	того	тотъ	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	22	obl	_	wf="того"
-21	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	wf="я"
-22	чаю	чаяти	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	wf="чаю"|SpaceAfter=No
-23	,	,	PUNCT	_	_	25	punct	_	wf=","
-24	что	что	SCONJ	_	_	25	mark	_	wf="что"
-25	удобно	удобно	ADJ	_	Degree=Pos	22	ccomp	_	upos="PRAEDIC"|wf="удобно"
-26	абъ	объ	ADP	_	_	27	case	_	wf="абъ"
-27	одной	одинъ	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Ind	28	obl	_	upos="ANUM"|wf="одной"
-28	отписать	отписати	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	25	csubj	_	wf="отписать"
-29	въ	въ	ADP	_	_	31	case	_	wf="въ"
-30	Швецкую	шведский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	wf="Швецкую"
-31	землю	земля	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	28	obl	_	wf="землю"|SpaceAfter=No
-32	,	,	PUNCT	_	_	35	punct	_	wf=","
-33	буде	буде	SCONJ	_	_	35	mark	_	wf="буде"
-34	тамъ	тамъ	ADV	_	Degree=Pos|PronType=Dem	35	advmod	_	upos="ADVPRO"|wf="тамъ"
-35	дѣлаютъ	дѣлати	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	advcl	_	wf="дѣлаютъ"|SpaceAfter=No
-36	,	,	PUNCT	_	_	40	punct	_	wf=","
-37	и	и	CCONJ	_	_	40	cc	_	wf="и"
-38	объ	объ	ADP	_	_	39	case	_	wf="объ"
-39	томъ	тотъ	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	40	obl	_	wf="томъ"
-40	поговорить	поговорити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	28	conj	_	wf="поговорить"
-41	Книперу	Книперъ	PROPN	_	Case=Dat|Gender=Masc|NameType=Sur|Number=Sing	40	iobj	_	wf="Книперу"|SpaceAfter=No
-42	;	;	PUNCT	_	_	50	punct	_	wf=";"
-43	и	и	CCONJ	_	_	50	cc	_	wf="и"
-44	буде	буде	SCONJ	_	_	45	mark	_	wf="буде"
-45	дѣлаютъ	дѣлати	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	50	advcl	_	wf="дѣлаютъ"|SpaceAfter=No
-46	,	,	PUNCT	_	_	45	punct	_	wf=","
-47	чтобъ	чтобъ	SCONJ	_	Mood=Cnd	50	mark	_	wf="чтобъ"
-48	не	не	PART	_	Polarity=Neg	49	advmod	_	wf="не"
-49	мѣшкавъ	мѣшкати	VERB	_	Tense=Past|VerbForm=Conv|Voice=Act	50	advcl	_	wf="мѣшкавъ"
-50	здѣлать	сдѣлати	VERB	_	VerbForm=Inf|Voice=Act	28	conj	_	wf="здѣлать"
-51	и	и	CCONJ	_	_	54	cc	_	wf="и"
-52	ко	къ	ADP	_	_	53	case	_	wf="ко"
-53	мнѣ	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	54	obl	_	wf="мнѣ"
-54	прислать	прислати	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	50	conj	_	wf="прислать"|SpaceAfter=No
-55	,	,	PUNCT	_	_	59	punct	_	wf=","
-56	а	а	CCONJ	_	_	59	cc	_	wf="а"
-57	о	о	ADP	_	_	58	case	_	wf="о"
-58	другой	другой	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	59	obl	_	wf="другой"
-59	отпиши	отписати	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	25	conj	_	wf="отпиши"|SpaceAfter=No
-60	,	,	PUNCT	_	_	61	punct	_	wf=","
-61	куды	куды	ADV	_	Degree=Pos|PronType=Rel	59	advmod	_	upos="ADVPRO"|wf="куды"
-62	хочешь	хотѣти	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	61	obl:pronmod	_	wf="хочешь"|SpaceAfter=No
-63	.	.	PUNCT	_	_	2	punct	_	wf="."
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 19 21 obl:pronmod	color:blue
+1	и	и	CCONJ	_	_	2	cc	_	norm="и"
+2	гѡвѡритъ	говорити	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	norm="гѡвѡритъ"|Decl=X|End=ъти
+3	такъ	такъ	ADV	ADVPRO	Degree=Pos|PronType=Dem	2	advmod	_	upos="ADVPRO"|norm="такъ"
+4	чтобы	чтобы	SCONJ	_	Mood=Cnd	6	mark	_	norm="чтобы"
+5	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	norm="ты"|Decl=X|End=ы
+6	изволил	изволити	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	2	ccomp	_	norm="изволил"|Decl=X|End=л
+7	и	и	CCONJ	_	_	8	cc	_	norm="и"
+8	вотчину	вотчина	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	norm="вотчину"|Decl=1a|End=у
+9	у	у	ADP	_	_	10	case	_	norm="у"|check=@
+10	неи	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obl	_	norm="неи"|Decl=X|End=ие|check=@
+11	взять	взяти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	norm="взять"|Decl=X|End=ьт
+12	и	и	CCONJ	_	_	13	cc	_	norm="и"
+13	въсѣ	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	8	conj	_	norm="въсѣ"|Decl=X|End=ѣ
+14	чтѡ	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	16	nsubj	_	norm="чтѡ"|Decl=X|End=ѡ
+15	ни	ни	PART	_	Polarity=Neg	17	advmod	_	norm="ни"
+16	есь	быти	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	_	norm="есь"|Decl=X|End=ьс
+17	лише	лише	SCONJ	_	_	23	mark	_	norm="лише"
+18	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	23	aux	_	norm="бы"|Decl=X|End=0
+19	куда	куда	ADV	ADVPRO	Degree=Pos|PronType=Rel	23	advmod	_	upos="ADVPRO"|norm="куда"
+20	ни	ни	PART	_	Polarity=Neg	19	obl:pronmod	_	norm="ни"
+21	есь	быти	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	obl:pronmod	_	norm="есь"|Decl=X|End=ьс
+22	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	obj	_	norm="ее"|Decl=X|End=ее
+23	устрѡить	устроити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	advcl	_	norm="устрѡить"|Decl=X|End=ьти
+24	постъричь	постричи	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	23	parataxis	_	norm="постъричь"|Decl=X|End=ьч
+25	или	или	CCONJ	_	_	27	cc	_	norm="или"
+26	куда	куда	ADV	ADVPRO	Degree=Pos|PronType=Rel	27	csubj	_	upos="ADVPRO"|norm="куда"
+27	мочьнѡ	мочно	ADJ	PRED	Degree=Pos	24	conj	_	upos="PRAEDIC"|norm="мочьнѡ"|Decl=X|End=ѡ
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15 nodes (1%) are attached to their parents as `cop`.
+66 nodes (1%) are attached to their parents as `cop`.
 
-15 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.46666666666667.
+66 instances of `cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.21212121212121.
 
-The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (6; 40% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (5; 33% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (4; 27% instances).
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (26; 39% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (14; 21% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (13; 20% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (8; 12% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (3; 5% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (2; 3% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 cop	color:blue
-1	Иаауаз	аа-ра́	VERB	V_Dyn_Intr_NonFin_Impf_S:Rel_Rel	Dyn=Yes|Person[subj]=Rel|Tense=Imp|Trans=No|VerbForm=NonFin	2	acl:relcl	_	LMSeg:аа-ра́
+1	Иаауаз	аа-ра́	VERB	V_Dyn_Intr_NonFin_Impf_S:Rel_Rel	Dyn=Yes|Person[subj]=Rel|Subcat=Intr|Tense=Imp|VerbForm=NonFin	2	acl:relcl	_	LMSeg:аа-ра́
 2	агыгшәыгқәа	а-гыгшәы́г	NOUN	Noun_NH_Pl_Det	Animacy=Nhum|Definite=Def|Number=Plur	3	nmod:poss	_	LMSeg:а-гыгшәы́г
 3	руак	руакы́	PRON	Pron_Indef_NH_Sg_Poss:3Pl	Animacy=Nhum|Number=Sing|Number[psor]=Plur|Person[psor]=3|PronType=Ind	4	nsubj	_	LMSeg:руакы́
 4	Алым	а́-лым	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	0	root	_	LMSeg:а́-лым
@@ -42,7 +42,7 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 cop	color:blue
-1	Иҟалаз	а́-ҟалара	VERB	V_Dyn_Intr_NonFin_PastIndef_S:Rel_Rel	Dyn=Yes|Person[subj]=Rel|Tense=Past|Trans=No|VerbForm=NonFin	2	nsubj	_	LMSeg:а́-ҟа·ла-ра
+1	Иҟалаз	а́-ҟалара	VERB	V_Dyn_Intr_NonFin_PastIndef_S:Rel_Rel	Dyn=Yes|Person[subj]=Rel|Subcat=Intr|Tense=Past|VerbForm=NonFin	2	nsubj	_	LMSeg:а́-ҟа·ла-ра
 2	уи	уи́	PRON	Pron_Pers_3Sg	PronType=Prs	0	root	_	LMSeg:уи́
 3	ауп	а́кәзаара	AUX	V_Stat_Fin_Pres_S:3_IO:3SgNH_Cop	Dyn=No|Gender[io]=Neut|Number[io]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	2	cop	_	LMSeg:а́кә-заа-ра
 4	:	:	PUNCT	Punct_Colon	_	2	punct	_	LMSeg::
@@ -59,19 +59,19 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 cop	color:blue
-1	–	–	PUNCT	Punct_Dash	_	2	punct	_	LMSeg:–
-2	Ус	ус	ADV	Adv	_	7	advcl:cond	_	LMSeg:ус
-3	акәзар	а́кәзаара	AUX	V_Stat_NonFin_Pres_Conj-I_S:3_IO:3SgNH_Cop	Dyn=No|Gender[io]=Neut|Mood=Cnd|Number[io]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=NonFin	2	cop	_	LMSeg:а́кә-заа-ра
-4	,	,	PUNCT	Punct_Comma	_	7	punct	_	LMSeg:,
-5	амла	а́-мла	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	6	iobj	_	LMSeg:а́-мла
-6	уаганы	а-гара́	VERB	V_Dyn_Intr_NonFin_Cnv_Abs_Aor_S:2SgM_IO:3SgNH	Dyn=Yes|Gender[io]=Neut|Gender[subj]=Masc|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=2|Tense=Aor|Trans=No|VerbForm=NonFin	7	advcl:conv	_	LMSeg:а-га-ра́
-7	аҧсроуп	а-ҧсра́	VERB	VN_Dyn_Sg_Det_Intr_Cop	Definite=Def|Dyn=Yes|Number=Sing|Trans=No|VerbForm=Vnoun	0	root	_	LMSeg:а-ҧс-ра́
-8	иузыҧшу	а-зыҧшра́	VERB	V_Stat_NonFin_Pres_S:Rel_RO:2SgM_Rel_Reln:For	Dyn=No|Gender[ro]=Masc|Number[ro]=Sing|Person[ro]=2|Person[subj]=Rel|Reln=Ben|Tense=Pres|VerbForm=NonFin	7	csubj	_	LMSeg:а-зы·ҧш-ра́
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 cop	color:blue
+1	Афара_	а́-фара	VERB	VN_Dyn_Sg_Det_Tr_Cop	Definite=Def|Dyn=Yes|Number=Sing|Subcat=Tran|VerbForm=Vnoun	7	ccomp:quote	_	LMSeg:а́-фа-ра
+2	_ауп	а́кәзаара	AUX	V_Stat_Fin_Pres_S:3_IO:3SgNH_Cop	Dyn=No|Gender[io]=Neut|Number[io]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	1	cop	_	LMSeg:а́кә-заа-ра
+3	сара	сара́	PRON	Pron_Pers_1Sg	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	LMSeg:сара́
+4	сзызку	а-зкра́	VERB	V_Dyn_Tr_StatPass_NonFin_Pres_S:1Sg_RO:Rel_Rel_Reln:For	Dyn=No|Number[subj]=Sing|Person[ro]=Rel|Person[subj]=1|Reln=Ben|Subcat=Tran|Tense=Pres|VerbForm=NonFin|Voice=Pass	1	csubj	_	LMSeg:а-з·к-ра́
+5	,	,	PUNCT	Punct_Comma	_	7	punct	_	LMSeg:,
+6	–	–	PUNCT	Punct_Dash	_	7	punct	_	LMSeg:–
+7	аҳәеит	а-ҳәара́	VERB	V_Dyn_Tr_Fin_Aor_S:3SgNH_DO:3_DO:Ad	Dyn=Yes|Gender[subj]=Neut|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а-ҳәа-ра́
+8	Ашхырцәаҕь	а-шхы́рцәаҕь	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	7	nsubj	_	LMSeg:а-шхы́рцәаҕь
 9	.	.	PUNCT	Punct_Period	_	7	punct	_	LMSeg:.
 
 ~~~

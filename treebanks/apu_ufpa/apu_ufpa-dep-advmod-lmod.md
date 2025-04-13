@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Apurina-UFPA: Relations: `advmod:lmod`
 
 This relation is a language-specific subtype of <tt><a href="apu_ufpa-dep-advmod.html">advmod</a></tt>.
-There are also 2 other language-specific subtypes of `advmod`: <tt><a href="apu_ufpa-dep-advmod-neg.html">advmod:neg</a></tt>, <tt><a href="apu_ufpa-dep-advmod-tmod.html">advmod:tmod</a></tt>.
+There are also 1 other language-specific subtypes of `advmod`: <tt><a href="apu_ufpa-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
 3 nodes (0%) are attached to their parents as `advmod:lmod`.
 

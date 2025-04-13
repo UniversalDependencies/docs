@@ -20,4 +20,4 @@ appos(ლევანი, ძია)
 ~~~
 
 **NB** `appos` relation is used, if there is case and agreement concord between the first noun and appositive modifiers. If not, there is used [nmod](_ka/dep/nmod).
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:43 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:26 CET -->

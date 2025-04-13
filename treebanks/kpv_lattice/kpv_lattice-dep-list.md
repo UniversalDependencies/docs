@@ -32,20 +32,20 @@ The following 3 pairs of parts of speech are connected with `list`: <tt><a href=
 8	,	,	PUNCT	CLB	_	9	punct	_	_
 9	сынӧд	сынӧд	NOUN	N	Case=Nom|Number=Sing	1	list	_	_
 10	некор	некор	ADV	Adv	Polarity=Neg	13	advmod:tmod	_	_
-11	эз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Past	13	aux:neg	_	_
+11	эз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Past	13	aux	_	_
 12	вӧвны	вӧвны	AUX	V	Connegative=Yes	13	cop	_	_
 13	ловъяӧсь	ловъя	ADJ	A	Case=Nom|Number[subj]=Plur	0	root	_	SpaceAfter=No
 14	,	,	PUNCT	CLB	_	19	punct	_	_
-15	сы	сы	PRON	Pron	PronType=Dem	19	det	_	_
+15	сы	сы	PRON	Pron	PronType=Dem	19	obl	_	_
 16	понда	понда	ADP	Po	_	15	case	_	_
 17	найӧясӧс	найӧ	PRON	Pron	Case=Acc|Number=Plur|Person=3|PronType=Prs	19	obj	_	_
-18	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres	19	aux:neg	_	_
+18	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres	19	aux	_	_
 19	шуӧй	шуны	VERB	V	Connegative=Yes	13	advcl	_	_
 20	кулӧм	кувны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	21	amod	_	_
 21	торъясӧн	тор	NOUN	N	Case=Ins|Number=Plur	19	xcomp	_	_
 22	—	—	PUNCT	PUNCT	_	23	punct	_	_
 23	шуам	шуны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	19	conj	_	_
-24	ловтӧм	ловтӧм	NOUN	N	Case=Nom|Number=Sing	25	amod	_	_
+24	ловтӧм	ловтӧм	ADJ	A	Case=Nom|Number=Sing	25	amod	_	_
 25	торъясӧн	тор	NOUN	N	Case=Ins|Number=Plur	23	xcomp	_	SpaceAfter=No
 26	.	.	PUNCT	CLB	_	13	punct	_	_
 

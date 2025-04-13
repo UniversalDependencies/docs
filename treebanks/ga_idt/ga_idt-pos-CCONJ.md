@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  <em>agus</em> (<tt><a href="ga_idt-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.857143 (the average of all parts of speech is 1.647151).
+The form / lemma ratio of `CCONJ` is 1.857143 (the average of all parts of speech is 1.648496).
 
 The 1st highest number of forms (7) was observed with the lemma “agus”: <em>&, 'gus, 's, Gus, a's, agus, is</em>.
 
@@ -69,7 +69,7 @@ Examples: <em>agus, nó, ná, is, &, ach, 's, 'gus, a's, &amp;</em>
 
 `CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="ga_idt-dep-cc.html">cc</a></tt> (3637; 95% instances), <tt><a href="ga_idt-dep-mark.html">mark</a></tt> (151; 4% instances), <tt><a href="ga_idt-dep-advmod.html">advmod</a></tt> (17; 0% instances), <tt><a href="ga_idt-dep-mark-prt.html">mark:prt</a></tt> (10; 0% instances), <tt><a href="ga_idt-dep-fixed.html">fixed</a></tt> (9; 0% instances), <tt><a href="ga_idt-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="ga_idt-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2236; 58% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (830; 22% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (248; 6% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (240; 6% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (84; 2% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (67; 2% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (58; 2% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (26; 1% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="ga_idt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2251; 59% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (830; 22% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (248; 6% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (225; 6% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (84; 2% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (67; 2% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (58; 2% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (26; 1% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="ga_idt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
 3640 (95%) `CCONJ` nodes are leaves.
 

@@ -37,6 +37,6 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="lzh_kyoto-dep-conj.html">conj</a></tt>]--> PRON</tt> (7; 100%),
-<tt>PRON --[<tt><a href="lzh_kyoto-dep-flat.html">flat</a></tt>]--> PRON</tt> (4; 100%).
+<tt>PRON --[<tt><a href="lzh_kyoto-dep-conj.html">conj</a></tt>]--> PRON</tt> (8; 100%),
+<tt>PRON --[<tt><a href="lzh_kyoto-dep-flat.html">flat</a></tt>]--> PRON</tt> (3; 100%).
 

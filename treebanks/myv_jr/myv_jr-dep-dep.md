@@ -23,7 +23,7 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 8	fgColor:white
 # visual-style 8 7 dep	color:blue
 1	Илыкем	илык	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	CGdephead=#1-&gt;2|CGdeprel=@SUBJ&gt;|CGdephead=#1-&gt;2|CGdeprel=@SUBJ&gt;|GTtags=Sg,Nom,PxSg1
-2	эзь	а	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	3	aux:neg	_	CGdephead=#2-&gt;0|CGdeprel=@FAUX|CGdephead=#2-&gt;0|CGdeprel=@FAUX|GTtags=Aux,Neg,Ind,Prt1,ScSg3
+2	эзь	а	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	3	aux	_	CGdephead=#2-&gt;0|CGdeprel=@FAUX|CGdephead=#2-&gt;0|CGdeprel=@FAUX|GTtags=Aux,Neg,Ind,Prt1,ScSg3
 3	сатот	сатомс	VERB	V	Connegative=Yes	0	root	_	CGdephead=#3-&gt;2|CGdeprel=@IMV|CGdephead=#3-&gt;2|CGdeprel=@IMV|GTtags=ConNeg
 4	сонзэ	сон	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	obj	_	CGdephead=#4-&gt;5|CGdeprel=@-FOBJ&gt;|CGdephead=#4-&gt;5|CGdeprel=@-FOBJ&gt;|GTtags=Pers,Sg3,Gen
 5	сасамс	сасамс	VERB	V	VerbForm=Inf	3	ccomp	_	CGdephead=#5-&gt;2|CGdeprel=@IMV|CGdephead=#5-&gt;2|CGdeprel=@IMV|GTtags=Inf|SpaceAfter=No
@@ -45,7 +45,7 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 4 1 dep	color:blue
 1	Нама	нама	ADV	Pcle	_	4	dep	_	CGdephead=#1-&gt;0|CGdeprel=@X|GTtags=|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	1	punct	_	CGdephead=#2-&gt;1|CGdeprel=@CLB|GTtags=CLB
-3	а	а	AUX	V	Polarity=Neg|VerbType=Aux	4	aux:neg	_	CGdephead=#3-&gt;3|CGdeprel=@-FAUXV&gt;|GTtags=Aux,Neg
+3	а	а	AUX	V	Polarity=Neg|VerbType=Aux	4	aux	_	CGdephead=#3-&gt;3|CGdeprel=@-FAUXV&gt;|GTtags=Aux,Neg
 4	удыть	удомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=IV,Ind,Prs,ScPl3
 5	ошонь	ош	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	6	nmod	_	CGdephead=#5-&gt;6|CGdeprel=@&gt;N|GTtags=SP,Gen,Indef
 6	пирявтонть	пирявт	NOUN	N	Case=Gen|Definite=Def|Number=Sing	7	nmod	_	CGdephead=#6-&gt;7|CGdeprel=@&gt;N|GTtags=Sg,Gen,Def

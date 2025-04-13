@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>s</em> (<tt><a href="cs_poetry-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.375000 (the average of all parts of speech is 1.400206).
+The form / lemma ratio of `ADP` is 1.375000 (the average of all parts of speech is 1.400929).
 
 The 1st highest number of forms (3) was observed with the lemma “k”: <em>k, ke, ku</em>.
 
@@ -48,7 +48,7 @@ Examples: <em>v, na, o, po, Při</em>
 
 `ADP` nodes are attached to their parents using 3 different relations: <tt><a href="cs_poetry-dep-case.html">case</a></tt> (544; 99% instances), <tt><a href="cs_poetry-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="cs_poetry-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 9 different parts of speech: <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (447; 82% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (66; 12% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (14; 3% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (447; 82% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (66; 12% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (14; 3% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (1; 0% instances)
 
 545 (100%) `ADP` nodes are leaves.
 

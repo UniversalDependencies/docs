@@ -78,9 +78,9 @@ Examples: <em>est, a, fait</em>
 
 Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (534; 63% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (143; 17% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (140; 17% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (24; 3% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-837 (99%) `AUX` nodes are leaves.
+836 (99%) `AUX` nodes are leaves.
 
-7 (1%) `AUX` nodes have one child.
+8 (1%) `AUX` nodes have one child.
 
 0 (0%) `AUX` nodes have two children.
 
@@ -88,7 +88,7 @@ Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="fr_pa
 
 The highest child degree of a `AUX` node is 3.
 
-Children of `AUX` nodes are attached using 6 different relations: <tt><a href="fr_partut-dep-fixed.html">fixed</a></tt> (6; 38% instances), <tt><a href="fr_partut-dep-punct.html">punct</a></tt> (4; 25% instances), <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (3; 19% instances), <tt><a href="fr_partut-dep-aux.html">aux</a></tt> (1; 6% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (1; 6% instances), <tt><a href="fr_partut-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 6% instances)
+Children of `AUX` nodes are attached using 6 different relations: <tt><a href="fr_partut-dep-fixed.html">fixed</a></tt> (6; 35% instances), <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (4; 24% instances), <tt><a href="fr_partut-dep-punct.html">punct</a></tt> (4; 24% instances), <tt><a href="fr_partut-dep-aux.html">aux</a></tt> (1; 6% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (1; 6% instances), <tt><a href="fr_partut-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 6% instances)
 
-Children of `AUX` nodes belong to 8 different parts of speech: <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (4; 25% instances), <tt><a href="fr_partut-pos-PUNCT.html">PUNCT</a></tt> (4; 25% instances), <tt><a href="fr_partut-pos-PART.html">PART</a></tt> (3; 19% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 6% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1; 6% instances)
+Children of `AUX` nodes belong to 8 different parts of speech: <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (4; 24% instances), <tt><a href="fr_partut-pos-PART.html">PART</a></tt> (4; 24% instances), <tt><a href="fr_partut-pos-PUNCT.html">PUNCT</a></tt> (4; 24% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 6% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1; 6% instances)
 

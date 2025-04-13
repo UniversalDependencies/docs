@@ -86,4 +86,4 @@ more detail.
 #### Examples
 
 * _Αθήνα<b>/</b>Αττική_ "Athens/Attica"
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:19 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:02 CET -->

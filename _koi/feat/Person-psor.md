@@ -40,4 +40,4 @@ on nouns, and we thus have `Person[psor]` together with `Number[psor]`.
 * [koi] _<b>зонныс</b>_ “their son”
 
 <!-- В. И. Лыткин, 1962: 202 -->
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:14 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:58 CET -->

@@ -25,8 +25,8 @@ The following 13 pairs of parts of speech are connected with `acl`: <tt><a href=
 1	也	也	ADV	_	_	4	advmod	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 2	總	總	ADV	_	_	4	advmod	_	SpaceAfter=No|Translit=zǒng|LTranslit=zǒng
 3	要	要	AUX	_	_	4	aux	_	SpaceAfter=No|Translit=yào|LTranslit=yào
-4	有	有	VERB	_	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-5	人	人	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
+4	有	有	VERB	_	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu|Cxn=Existential-HavePred
+5	人	人	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=rén|LTranslit=rén|CxnElt=4:Existential-HavePred.Pivot
 6	收拾	收拾	VERB	_	_	5	acl	_	SpaceAfter=No|Translit=shōushi|LTranslit=shōushi
 7	！	！	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=!|LTranslit=!
 
@@ -63,8 +63,8 @@ The following 13 pairs of parts of speech are connected with `acl`: <tt><a href=
 1	都	都	ADV	_	_	3	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
 2	不	不	ADV	_	_	3	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 3	知	知	VERB	_	_	0	root	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
-4	有	有	VERB	_	_	3	ccomp	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-5	什麼	什麼	DET	_	_	4	obj	_	SpaceAfter=No|Translit=shénme|LTranslit=shénme
+4	有	有	VERB	_	_	3	ccomp	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu|Cxn=Existential-HavePred
+5	什麼	什麼	DET	_	_	4	obj	_	SpaceAfter=No|Translit=shénme|LTranslit=shénme|CxnElt=4:Existential-HavePred.Pivot
 6	好	好	VERB	_	_	5	acl	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo
 7	聽	聽	VERB	_	_	6	xcomp	_	SpaceAfter=No|Translit=tīng|LTranslit=tīng
 8	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Indonesian-PUD: POS Tags: `DET`
 
-There are 24 `DET` lemmas (1%), 25 `DET` types (1%) and 741 `DET` tokens (4%).
+There are 24 `DET` lemmas (1%), 25 `DET` types (1%) and 739 `DET` tokens (4%).
 Out of 17 observed tags, the rank of `DET` is: 11 in number of lemmas, 11 in number of types and 8 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>ini, itu, nya, buah, para, banyak, sebut, orang, berapa, semua</em>
@@ -15,7 +15,7 @@ The 10 most frequent `DET` types:  <em>ini, itu, nya, sebuah, para, tersebut, ba
 
 The 10 most frequent ambiguous lemmas: <em>ini</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 172, <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> 37, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>itu</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 145, <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> 45), <em>nya</em> (<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> 285, <tt><a href="id_pud-pos-DET.html">DET</a></tt> 96), <em>buah</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 55, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>banyak</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 35, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>sebut</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 35, <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 12), <em>orang</em> (<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 78, <tt><a href="id_pud-pos-DET.html">DET</a></tt> 30, <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> 6), <em>berapa</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 29, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>semua</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 21, <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> 4), <em>sendiri</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 17, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 5)
 
-The 10 most frequent ambiguous types:  <em>ini</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 172, <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> 14), <em>itu</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 145, <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> 37), <em>nya</em> (<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> 285, <tt><a href="id_pud-pos-DET.html">DET</a></tt> 96), <em>banyak</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 32, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 18, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 10), <em>seorang</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 26, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 3), <em>beberapa</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 25, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>semua</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 20, <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> 4), <em>sendiri</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 17, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 5), <em>yang</em> (<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> 529, <tt><a href="id_pud-pos-DET.html">DET</a></tt> 7), <em>sebagian</em> (<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="id_pud-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ini</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 172, <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> 14), <em>itu</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 145, <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> 37), <em>nya</em> (<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> 285, <tt><a href="id_pud-pos-DET.html">DET</a></tt> 96), <em>banyak</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 32, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 18, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 10), <em>seorang</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 26, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 3), <em>beberapa</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 25, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>semua</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 20, <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> 4), <em>sendiri</em> (<tt><a href="id_pud-pos-DET.html">DET</a></tt> 17, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 5), <em>yang</em> (<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> 530, <tt><a href="id_pud-pos-DET.html">DET</a></tt> 6), <em>Sebagian</em> (<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="id_pud-pos-DET.html">DET</a></tt> 1)
 
 
 * <em>ini</em>
@@ -44,11 +44,11 @@ The 10 most frequent ambiguous types:  <em>ini</em> (<tt><a href="id_pud-pos-DET
   * <tt><a href="id_pud-pos-DET.html">DET</a></tt> 17: <em>Wintour <b>sendiri</b> muncul sebentar , dan terekam memakai kacamata nya sebelum diwawancara .</em>
   * <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 5: <em>Simon Krätschmer meraba-raba <b>sendiri</b> di barak yang sudah bobrok dan seram itu .</em>
 * <em>yang</em>
-  * <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> 529: <em>Ia juga telah didakwa mencoba membunuh putri nya <b>yang</b> berusia dua tahun .</em>
-  * <tt><a href="id_pud-pos-DET.html">DET</a></tt> 7: <em>Karena seri 1 bukan lagi <b>yang</b> lama , banyak pengguna yang bisa menghemat 100 euro .</em>
-* <em>sebagian</em>
-  * <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 14: <em>Seperti <b>sebagian</b> besar tempat di selatan Eropa , temuan ini ditemukan pada awal abad ke-5 SM .</em>
-  * <tt><a href="id_pud-pos-DET.html">DET</a></tt> 1: <em>Pada kecepatan angin yang lebih besar , <b>sebagian</b> partikel terangkat ke aliran udara .</em>
+  * <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> 530: <em>Ia juga telah didakwa mencoba membunuh putri nya <b>yang</b> berusia dua tahun .</em>
+  * <tt><a href="id_pud-pos-DET.html">DET</a></tt> 6: <em>Karena seri 1 bukan lagi <b>yang</b> lama , banyak pengguna yang bisa menghemat 100 euro .</em>
+* <em>Sebagian</em>
+  * <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 4: <em><b>Sebagian</b> besar dari debat itu , dari sisi Demokratik tahun ini , adalah tentang identitas laki-laki kulit putih .</em>
+  * <tt><a href="id_pud-pos-DET.html">DET</a></tt> 1: <em>" <b>Sebagian</b> orang mengerti dan Bono adalah salah satu dari orang itu , " kata Leive dalam sebuah wawancara baru-baru ini .</em>
 
 ## Morphology
 
@@ -58,9 +58,9 @@ The 1st highest number of forms (2) was observed with the lemma “banyak”: <e
 
 The 2nd highest number of forms (1) was observed with the lemma “bagai”: <em>berbagai</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “bagi”: <em>sebagian</em>.
+The 3rd highest number of forms (1) was observed with the lemma “bagi”: <em>Sebagian</em>.
 
-`DET` occurs with 3 features: <tt><a href="id_pud-feat-PronType.html">PronType</a></tt> (741; 100% instances), <tt><a href="id_pud-feat-Definite.html">Definite</a></tt> (197; 27% instances), <tt><a href="id_pud-feat-Number.html">Number</a></tt> (109; 15% instances)
+`DET` occurs with 3 features: <tt><a href="id_pud-feat-PronType.html">PronType</a></tt> (739; 100% instances), <tt><a href="id_pud-feat-Definite.html">Definite</a></tt> (196; 27% instances), <tt><a href="id_pud-feat-Number.html">Number</a></tt> (109; 15% instances)
 
 `DET` occurs with 8 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Number=Plur`, `PronType=Art`, `PronType=Dem`, `PronType=Emp`, `PronType=Ind`, `PronType=Tot`
 
@@ -71,13 +71,13 @@ Examples: <em>ini, itu, tersebut, sang, si</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 6 different relations: <tt><a href="id_pud-dep-det.html">det</a></tt> (717; 97% instances), <tt><a href="id_pud-dep-nmod.html">nmod</a></tt> (17; 2% instances), <tt><a href="id_pud-dep-nmod-poss.html">nmod:poss</a></tt> (3; 0% instances), <tt><a href="id_pud-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="id_pud-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="id_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 6 different relations: <tt><a href="id_pud-dep-det.html">det</a></tt> (715; 97% instances), <tt><a href="id_pud-dep-nmod.html">nmod</a></tt> (17; 2% instances), <tt><a href="id_pud-dep-nmod-poss.html">nmod:poss</a></tt> (3; 0% instances), <tt><a href="id_pud-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="id_pud-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="id_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (666; 90% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (21; 3% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (20; 3% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (13; 2% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (8; 1% instances),  (2; 0% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (665; 90% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (21; 3% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (19; 3% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (13; 2% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (8; 1% instances),  (2; 0% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
-725 (98%) `DET` nodes are leaves.
+728 (99%) `DET` nodes are leaves.
 
-12 (2%) `DET` nodes have one child.
+7 (1%) `DET` nodes have one child.
 
 3 (0%) `DET` nodes have two children.
 
@@ -85,7 +85,7 @@ Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="id_pu
 
 The highest child degree of a `DET` node is 3.
 
-Children of `DET` nodes are attached using 8 different relations: <tt><a href="id_pud-dep-advmod.html">advmod</a></tt> (7; 33% instances), <tt><a href="id_pud-dep-nsubj.html">nsubj</a></tt> (5; 24% instances), <tt><a href="id_pud-dep-case.html">case</a></tt> (3; 14% instances), <tt><a href="id_pud-dep-punct.html">punct</a></tt> (2; 10% instances), <tt><a href="id_pud-dep-advmod-emph.html">advmod:emph</a></tt> (1; 5% instances), <tt><a href="id_pud-dep-cc.html">cc</a></tt> (1; 5% instances), <tt><a href="id_pud-dep-nmod-lmod.html">nmod:lmod</a></tt> (1; 5% instances), <tt><a href="id_pud-dep-obl.html">obl</a></tt> (1; 5% instances)
+Children of `DET` nodes are attached using 8 different relations: <tt><a href="id_pud-dep-advmod.html">advmod</a></tt> (7; 44% instances), <tt><a href="id_pud-dep-nsubj.html">nsubj</a></tt> (2; 13% instances), <tt><a href="id_pud-dep-punct.html">punct</a></tt> (2; 13% instances), <tt><a href="id_pud-dep-advmod-emph.html">advmod:emph</a></tt> (1; 6% instances), <tt><a href="id_pud-dep-case.html">case</a></tt> (1; 6% instances), <tt><a href="id_pud-dep-cc.html">cc</a></tt> (1; 6% instances), <tt><a href="id_pud-dep-nmod-lmod.html">nmod:lmod</a></tt> (1; 6% instances), <tt><a href="id_pud-dep-obl.html">obl</a></tt> (1; 6% instances)
 
-Children of `DET` nodes belong to 7 different parts of speech: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (7; 33% instances), <tt><a href="id_pud-pos-PART.html">PART</a></tt> (5; 24% instances), <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (3; 14% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (2; 10% instances), <tt><a href="id_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 10% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 5% instances)
+Children of `DET` nodes belong to 7 different parts of speech: <tt><a href="id_pud-pos-PART.html">PART</a></tt> (5; 31% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (4; 25% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (2; 13% instances), <tt><a href="id_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 13% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (1; 6% instances), <tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 6% instances)
 

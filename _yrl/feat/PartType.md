@@ -65,7 +65,7 @@ Examples:
 
 Kouwenberg (2012:34):
 
-"A presentative particle is a deictic word that is used ‘to focus the hearer’s attention on entities in the surrounding situation or in the universe of discourse’ (Diessel 1999, 79; see also Andersen/Keenan 1985, 279and Lipiński 1997, 472–74). Well known examples include French *voici* and *voilà*, Latin *ecce* [...]."
+"A presentative particle is a deictic word that is used ‘to focus the hearer’s attention on entities in the surrounding situation or in the universe of discourse’ (Diessel 1999, 79; see also Andersen/Keenan 1985, 279 and Lipiński 1997, 472–74). Well known examples include French *voici* and *voilà*, Latin *ecce* [...]."
 
 Accoding to Cruz (2011:362), the presentative particle in Nheengatu "is a deictic that presents an entity, pointing to it", allowing "the speaker to indicate the existence of an entity that is present in the communicative situation."
 
@@ -78,4 +78,4 @@ Example:
 Cruz, A. (2011). *Fonologia e gramática do nheengatú: A língua falada pelos povos Baré, Warekena e Baniwa*. LOT.
 Kouwenberg, N. J. C. (2012). Spatial Deixis in Akkadian: Demonstrative Pronouns, Presentative Particles and Locational Adverbs. *Zeitschrift für Assyriologie und Vorderasiatische Archäologie, 102*(1), 17-75. https://doi.org/10.1515/za-2012-0002
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:11 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:55 CET -->

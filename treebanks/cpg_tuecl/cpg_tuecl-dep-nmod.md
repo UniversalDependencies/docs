@@ -22,18 +22,18 @@ The following 13 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 nmod	color:blue
-1	Τρων	τρώγω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	3:det	_
-3	κρες	κρες	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obj	1:obj	_
-4	μας	εγω	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	nmod	3:nmod	_
-5	τζαι	jαι	CCONJ	CCONJ	_	8	cc	8:cc	_
-6	μο	με	ADP	ADP	_	8	case	8:case	_
-7	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	8:det	_
-8	πόστι	πόστι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	10	obl	10:obl	_
-9	μας	εγω	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod	8:nmod	_
-10	φταίνουν	φτειάνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
-11	τσαρούχα	çαρούχ	NOUN	NOUN	_	10	obj	10:obj	SpaceAfter=No
-12	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+1	Τρων	τρώγω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+3	κρες	κρες	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	_
+4	μας	εγω	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	nmod	_	_
+5	τζαι	jαι	CCONJ	CCONJ	_	8	cc	_	_
+6	μο	με	ADP	ADP	_	8	case	_	_
+7	το	το	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
+8	πόστι	πόστι	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	_
+9	μας	εγω	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod	_	_
+10	φταίνουν	φτειάνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+11	τσαρούχα	çαρούχ	NOUN	NOUN	_	10	obj	_	SpaceAfter=No
+12	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 
@@ -44,11 +44,11 @@ The following 13 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 nmod	color:blue
-1	Των	το	DET	DET	Case=Gen|Gender=Neut|Number=Plur|PronType=Art	2	det	2:det	_
-2	τζαναβαρίων	jαναβάρι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	4	nmod	4:nmod	_
-3	το	το	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
-4	μεντζιλίσι	menjουλίσι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	SpaceAfter=No
-5	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_
+1	Των	το	DET	DET	Case=Gen|Gender=Neut|Number=Plur|PronType=Art	2	det	_	_
+2	τζαναβαρίων	jαναβάρι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+3	το	το	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	μεντζιλίσι	menjουλίσι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 
@@ -59,15 +59,15 @@ The following 13 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 nmod	color:blue
-1	Ήτουν	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	2:cop	_
-2	ντάμα	ντάμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	_
-3	τουν	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nmod	5:nmod	_
-4	τζαι	jαι	CCONJ	CCONJ	_	5	cc	5:cc	_
-5	αωπός	αωπός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
-6	μεχτάρης	μεχτάρης	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	5	dislocated	5:dislocated	_
-7	τζαι	jαι	CCONJ	CCONJ	_	8	cc	8:cc	_
-8	τοκτόρης	τοκτόρης	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	6	conj	6:conj	SpaceAfter=No
-9	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_
+1	Ήτουν	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+2	ντάμα	ντάμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	τουν	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nmod	_	_
+4	τζαι	jαι	CCONJ	CCONJ	_	5	cc	_	_
+5	αωπός	αωπός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+6	μεχτάρης	μεχτάρης	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	5	dislocated	_	_
+7	τζαι	jαι	CCONJ	CCONJ	_	8	cc	_	_
+8	τοκτόρης	τοκτόρης	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

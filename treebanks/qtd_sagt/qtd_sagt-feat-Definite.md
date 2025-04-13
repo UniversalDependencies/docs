@@ -24,7 +24,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (944; 63% of non-empty `Definite`): <em>dem, die, o, der, her, das, bu, den, hangi, şu</em>
 * `Ind` (548; 37% of non-empty `Definite`): <em>bir, ein, eine, einen, keine, birkaç, einem, kein, einer, hiçbir</em>
-* `EMPTY` (245): <em>böyle, çok, viele, öyle, jeden, dieses, bir, eine, viel, alles</em>
+* `EMPTY` (246): <em>böyle, çok, viele, öyle, jeden, dieses, bir, eine, viel, alles</em>
 
 <table>
   <tr><th>Paradigm <i>ein</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>

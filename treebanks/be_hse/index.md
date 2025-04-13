@@ -12,15 +12,15 @@ udver: '2'
 # UD Belarusian HSE
 
 Language: [Belarusian](/be/index.html) (code: `be`)<br/>
-Family: Indo-European, Slavic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Angelika Peljak-Łapińska, Daria Petrova, Yana Shishkina.
 
 Repository: [UD_Belarusian-HSE](https://github.com/UniversalDependencies/UD_Belarusian-HSE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbe_hse214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbe_hse215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

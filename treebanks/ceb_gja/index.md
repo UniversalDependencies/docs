@@ -12,15 +12,15 @@ udver: '2'
 # UD Cebuano GJA
 
 Language: [Cebuano](/ceb/index.html) (code: `ceb`)<br/>
-Family: Austronesian, Central Philippine
+Family: Austronesian
 
 This treebank has been part of Universal Dependencies since the UD v2.10 release.
 
 The following people have contributed to making this treebank part of UD: Glyd Aranes.
 
 Repository: [UD_Cebuano-GJA](https://github.com/UniversalDependencies/UD_Cebuano-GJA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udceb_gja214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udceb_gja215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -79,11 +79,11 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 
 
 <ul>
-<li>This corpus contains 188 sentences, 1202 tokens and 1295 syntactic words.</li>
+<li>This corpus contains 197 sentences, 1278 tokens and 1377 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 205 tokens (17%) that are not followed by a space.</li>
+<li>This corpus contains 215 tokens (17%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -91,12 +91,12 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 </ul>
 
 <ul>
-<li>This corpus contains 21 types of words that contain both letters and punctuation. Examples: -ng, -g, bag-o, pag-abot, Gi-hold, Mag-unsa, Maka-iningles, Nag-unsa, Pag-ayo, gitudloa-, himo-an, ing-ana, ju-, kanus-a, mag-idad, nagtan-aw, nawad-an, nitan-aw, panghuna-huna, second-hand, ting-init</li>
+<li>This corpus contains 22 types of words that contain both letters and punctuation. Examples: -ng, -g, bag-o, pag-abot, Gi-hold, Mag-unsa, Maka-iningles, Nag-unsa, Pag-ayo, gitudloa-, himo-an, ing-ana, ju-, kanus-a, mag-idad, naga-ulan, nagtan-aw, nawad-an, nitan-aw, panghuna-huna, second-hand, ting-init</li>
 </ul>
 
 <ul>
-<li>This corpus contains 91 multi-word tokens. On average, one multi-word token consists of 2.02 syntactic words.</li>
-<li>There are 49 types of multi-word tokens. Examples: akong, iyang, imong, Nganong, among, Daghang, anang, bag-ong, ilang, inyong, kag, kanang, katong, kog, silang, siyag, Ayawg, Karong, Maayong, Pag-ayo-ayo, Pasayloang, Siging, Totong, adis-adis, bang, gitudloag, gustog, igsoong, imohang, inusarang, iyahang, jung, kadugayg, kong, labing, mig, ming, mipasiugdang, mong, nagtuong, nakog, nang, natawhang, ning, pagpatakag, pang, rag, rang, usag.</li>
+<li>This corpus contains 97 multi-word tokens. On average, one multi-word token consists of 2.02 syntactic words.</li>
+<li>There are 51 types of multi-word tokens. Examples: akong, iyang, imong, Nganong, among, Daghang, anang, bag-ong, ilang, inyong, kag, kanang, katong, kog, silang, siyag, Ayawg, Karong, Maayong, Mura'g, Pag-ayo-ayo, Pasayloang, Siging, Totong, adis-adis, bang, batang, gitudloag, gustog, igsoong, imohang, inusarang, iyahang, jung, kadugayg, kong, labing, mig, ming, mipasiugdang, mong, nagtuong, nakog, nang, natawhang, ning, pagpatakag, pang, rag, rang.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -109,11 +109,11 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 </ul>
 
 <ul>
-<li>This corpus contains 29 word types tagged as particles (PART): -g, -ng, Ambot, Bitaw, ayaw, ba, di, diay, dili, gani, gud, gyud, intawon, ju-, jud, ka, kuno, lagi, lang, man, may, na, nga, nuon, pa, pay, ra, usa, wala</li>
+<li>This corpus contains 31 word types tagged as particles (PART): -g, -ng, Ambot, Bitaw, ayaw, ba, di, diay, dili, gani, gud, gyud, intawon, ju-, jud, ka, kay, kuno, lagi, lang, man, mas, may, na, nga, nuon, pa, pay, ra, usa, wala</li>
 </ul>
 
 <ul>
-<li>This corpus contains 16 lemmas tagged as pronouns (PRON): ako, ana, ani, asa, ikaw, inyo, kadto, kami, kamo, kana, kini, kinsa, kita, sila, siya, unsa</li>
+<li>This corpus contains 18 lemmas tagged as pronouns (PRON): ako, ana, ani, asa, ikaw, imo, inyo, iya, kadto, kami, kamo, kana, kini, kinsa, kita, sila, siya, unsa</li>
 </ul>
 
 <ul>
@@ -543,8 +543,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (3)</li>
-      <li>VERB--NOUN-ADP(ang) (21)</li>
-      <li>VERB--PRON (1)</li>
+      <li>VERB--NOUN-ADP(ang) (26)</li>
+      <li>VERB--PRON (3)</li>
       <li>VERB--PRON-Gen (26)</li>
       <li>VERB--PRON-Nom (58)</li>
     </ul>
@@ -555,8 +555,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (13)</li>
-      <li>VERB--NOUN-ADP(sa) (19)</li>
-      <li>VERB--NOUN-ADP(ug) (14)</li>
+      <li>VERB--NOUN-ADP(sa) (20)</li>
+      <li>VERB--NOUN-ADP(ug) (16)</li>
       <li>VERB--PRON-Gen (7)</li>
       <li>VERB--PRON-Nom (5)</li>
     </ul>

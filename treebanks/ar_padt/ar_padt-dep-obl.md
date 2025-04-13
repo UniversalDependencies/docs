@@ -29,7 +29,7 @@ The following 77 pairs of parts of speech are connected with `obl`: <tt><a href=
 4	س	سَ	AUX	F---------	_	5	aux	5:aux	Gloss=will|LTranslit=sa|Root=sa|Translit=sa|Vform=سَ
 5	نلتقي	اِلتَقَى	VERB	VIIA-1MP--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	2	ccomp	2:ccomp	Gloss=meet,encounter|LTranslit=iltaqā|Root=l q y|Translit=naltaqī|Vform=نَلتَقِي
 6	عند	عِندَ	ADP	PI------4-	AdpType=Prep|Case=Acc	7	case	7:case	Vform=عِندَ|Gloss=at,with|Root=` n d|Translit=ʿinda|LTranslit=ʿinda
-7	عودة	عَودَة	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	5	obl	5:obl:عِندَ:gen	Gloss=return|LTranslit=ʿawdat|Root=` w d|Translit=ʿawdati|Vform=عَودَةِ
+7	عودة	عَودَة	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	5	obl	5:obl:عِندَمَا	Gloss=return|LTranslit=ʿawdat|Root=` w d|Translit=ʿawdati|Vform=عَودَةِ
 8	نا	هُوَ	PRON	SP---1MP2-	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	nmod	7:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=nā|Vform=نَا
 9	من	مِن	ADP	P---------	AdpType=Prep	10	case	10:case	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
 10	مدينة	مَدِينَة	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	7	nmod	7:nmod:مِن:gen	Vform=مَدِينَةِ|Gloss=city|Root=m d n|Translit=madīnati|LTranslit=madīnat
@@ -49,7 +49,7 @@ The following 77 pairs of parts of speech are connected with `obl`: <tt><a href=
 1	الاستقلال	اِستِقلَال	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	5	nsubj	5:nsubj	Vform=اَلِاستِقلَالُ|Gloss=independence,autonomy,boarding|Root=q l l|Translit=al-i-ʼstiqlālu|LTranslit=istiqlāl
 2	المحتمل	مُحتَمَل	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	amod	1:amod	Vform=اَلمُحتَمَلُ|Gloss=likely,expected,probable,suspected|Root=.h m l|Translit=al-muḥtamalu|LTranslit=muḥtamal
 3	ل	لِ	ADP	P---------	AdpType=Prep	4	case	4:case	Gloss=for,to|LTranslit=li|Root=l|Translit=li|Vform=لِ
-4	مونتينيغرو	مُونتِينِيغرُو	X	X---------	Foreign=Yes	1	nmod	1:nmod:لِ	Gloss=Montenegro|LTranslit=mūntīnīġrū|Root=mUntInI.grU|Translit=mūntīnīġrū|Vform=مُونتِينِيغرُو
+4	مونتينيغرو	مُونتِينِيغرُو	X	X---------	Foreign=Yes	1	nmod	1:nmod:لِ:gen	Gloss=Montenegro|LTranslit=mūntīnīġrū|Root=mUntInI.grU|Translit=mūntīnīġrū|Vform=مُونتِينِيغرُو
 5	يحدث	أَحدَث	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	0:root	Vform=يُحدِثُ|Gloss=cause,bring_about|Root=.h d _t|Translit=yuḥdiṯu|LTranslit=ʾaḥdaṯ
 6	شرخا	شَرخ	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	5	obj	5:obj	Vform=شَرخًا|Gloss=fracture,fissure|Root=^s r _h|Translit=šarḫan|LTranslit=šarḫ
 7	بين	بَينَ	ADP	PI------4-	AdpType=Prep|Case=Acc	8	case	8:case	Vform=بَينَ|Gloss=between,among|Root=b y n|Translit=bayna|LTranslit=bayna

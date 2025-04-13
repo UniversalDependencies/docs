@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-2022 tokens (5%) have a non-empty value of `Person`.
+2023 tokens (5%) have a non-empty value of `Person`.
 76 types (1%) occur at least once with a non-empty value of `Person`.
 22 lemmas (0%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (1593; 4% instances), <tt><a href="de_lit-pos-DET.html">DET</a></tt> (418; 1% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (5; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (1593; 4% instances), <tt><a href="de_lit-pos-DET.html">DET</a></tt> (419; 1% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (5; 0% instances).
 
 ### `PRON`
 
@@ -25,20 +25,20 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (183; 11% of non-empty `Person`): <em>wir, uns, ich, mich, mir, nous</em>
 * `2` (23; 1% of non-empty `Person`): <em>du, dich, dir</em>
 * `3` (1387; 87% of non-empty `Person`): <em>es, sich, sie, er, ihm, ihn, ihnen, s, 's, himself</em>
-* `EMPTY` (1141): <em>man, die, was, der, das, nichts, etwas, wer, dem, den</em>
+* `EMPTY` (1142): <em>man, die, was, der, das, nichts, etwas, wer, dem, den</em>
 
 ### `DET`
 
-418 <tt><a href="de_lit-pos-DET.html">DET</a></tt> tokens (7% of all `DET` tokens) have a non-empty value of `Person`.
+419 <tt><a href="de_lit-pos-DET.html">DET</a></tt> tokens (7% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="de_lit-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (418; 100%), <tt><a href="de_lit-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (418; 100%), <tt><a href="de_lit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (418; 100%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="de_lit-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (419; 100%), <tt><a href="de_lit-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (419; 100%), <tt><a href="de_lit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (419; 100%).
 
 `DET` tokens may have the following values of `Person`:
 
-* `1` (33; 8% of non-empty `Person`): <em>unsere, unsern, unsers, unser, meine, mein, unsrer, meinem, meinen, meiner</em>
+* `1` (34; 8% of non-empty `Person`): <em>unsere, unsern, unsers, unser, meine, unsrer, mein, meinem, meinen, meiner</em>
 * `2` (2; 0% of non-empty `Person`): <em>deine, deiner</em>
-* `3` (383; 92% of non-empty `Person`): <em>ihre, seine, ihr, seiner, ihrer, sein, ihren, seinem, seinen, seines</em>
-* `EMPTY` (5463): <em>der, die, ein, das, den, eine, des, dem, einer, alles</em>
+* `3` (383; 91% of non-empty `Person`): <em>ihre, seine, ihr, seiner, ihrer, sein, ihren, seinem, seinen, seines</em>
+* `EMPTY` (5462): <em>der, die, ein, das, den, eine, des, dem, einer, alles</em>
 
 ### `VERB`
 
@@ -48,7 +48,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 * `2` (1; 17% of non-empty `Person`): <em>Ehre</em>
 * `3` (5; 83% of non-empty `Person`): <em>erfolge, fait, leben, strömt, wohlgehe</em>
-* `EMPTY` (3097): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
+* `EMPTY` (3088): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
 
 ### `AUX`
 

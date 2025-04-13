@@ -12,13 +12,13 @@ It occurs with 8 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Prs`, `Re
 1943 tokens (7%) have a non-empty value of `PronType`.
 58 types (1%) occur at least once with a non-empty value of `PronType`.
 38 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (1197; 4% instances), <tt><a href="id_csui-pos-DET.html">DET</a></tt> (744; 3% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (1198; 4% instances), <tt><a href="id_csui-pos-DET.html">DET</a></tt> (743; 3% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-1197 <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+1198 <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="id_csui-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (663; 55%), <tt><a href="id_csui-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (663; 55%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="id_csui-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (664; 55%), <tt><a href="id_csui-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (664; 55%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Ind` (3; 0% of non-empty `PronType`): <em>sesuatu</em>
 * `Int` (1; 0% of non-empty `PronType`): <em>Apa</em>
 * `Prs` (539; 45% of non-empty `PronType`): <em>nya, dia, kita, ia, mereka, saya, kami, diri, anda</em>
-* `Rel` (545; 46% of non-empty `PronType`): <em>yang, apa, siapa</em>
+* `Rel` (546; 46% of non-empty `PronType`): <em>yang, apa, siapa</em>
 
 <table>
   <tr><th>Paradigm <i>apa</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
@@ -37,13 +37,13 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-744 <tt><a href="id_csui-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+743 <tt><a href="id_csui-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="id_csui-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (530; 71%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (214; 29% of non-empty `PronType`): <em>nya, sebuah, seorang, yang, suatu</em>
+* `Art` (213; 29% of non-empty `PronType`): <em>nya, sebuah, seorang, yang, suatu</em>
 * `Dem` (412; 55% of non-empty `PronType`): <em>ini, tersebut, itu, si, sana, sebagian</em>
 * `Emp` (15; 2% of non-empty `PronType`): <em>sendiri</em>
 * `Ind` (61; 8% of non-empty `PronType`): <em>beberapa, banyak, para, berbagai, sedikit</em>

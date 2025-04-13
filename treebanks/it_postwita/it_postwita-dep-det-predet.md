@@ -79,11 +79,11 @@ The following 7 pairs of parts of speech are connected with `det:predet`: <tt><a
 # visual-style 10	fgColor:white
 # visual-style 10 8 det:predet	color:blue
 1	@user1	@user1	SYM	SYM	_	2	vocative	_	_
-2	lassa	lassare	X	SW	_	0	root	_	_
-3	Peddere	perdere	X	SW	_	2	flat:foreign	_	_
+2	lassa	lassare	X	SW	Foreign=Yes	0	root	_	_
+3	Peddere	perdere	X	SW	Foreign=Yes	2	flat:foreign	_	_
 4	Rocco	rocco	PROPN	SP	_	2	obj	_	_
 5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
-6	me	me	X	SW	_	7	iobj	_	_
+6	me	me	X	SW	Foreign=Yes	7	iobj	_	_
 7	rovina	rovinare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
 8	tutti	tutto	DET	DI	PronType=Ind	10	det:predet	_	_
 9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_

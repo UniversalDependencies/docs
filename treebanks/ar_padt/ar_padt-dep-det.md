@@ -49,7 +49,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 3	في	فِي	ADP	P---------	AdpType=Prep	6	case	6:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
 4	هذه	هٰذَا	DET	SD----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	6	det	6:det	Vform=هٰذِهِ|Gloss=this,these|Root=h|Translit=hāḏihi|LTranslit=hāḏā
 5	"	"	PUNCT	G---------	_	6	punct	6:punct	SpaceAfter=No|Vform="|Translit="
-6	اللحظة	اللحظة	X	U---------	_	2	obl	2:obl:فِي	SpaceAfter=No|Vform=اللحظة|Root=OOV|Translit=āllḥẓat
+6	اللحظة	اللحظة	X	U---------	_	2	obl	2:obl:فِي:gen	SpaceAfter=No|Vform=اللحظة|Root=OOV|Translit=āllḥẓat
 7	"	"	PUNCT	G---------	_	6	punct	6:punct	Vform="|Translit="
 8	مشروع	مَشرُوع	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	2	nsubj	2:nsubj	Vform=مَشرُوعٌ|Gloss=project,enterprise|Root=^s r `|Translit=mašrūʿun|LTranslit=mašrūʿ
 9	تغييري	تغييري	X	U---------	_	8	nmod	8:nmod	Vform=تغييري|Root=OOV|Translit=tġyyry

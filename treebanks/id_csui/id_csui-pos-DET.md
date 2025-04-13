@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Indonesian-CSUI: POS Tags: `DET`
 
-There are 22 `DET` lemmas (1%), 22 `DET` types (0%) and 744 `DET` tokens (3%).
+There are 22 `DET` lemmas (1%), 22 `DET` types (0%) and 743 `DET` tokens (3%).
 Out of 17 observed tags, the rank of `DET` is: 10 in number of lemmas, 10 in number of types and 10 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>ini, nya, sebut, itu, beberapa, buah, seluruh, banyak, sendiri, orang</em>
 
 The 10 most frequent `DET` types:  <em>ini, nya, tersebut, itu, beberapa, sebuah, seluruh, banyak, sendiri, seorang</em>
 
-The 10 most frequent ambiguous lemmas: <em>ini</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 187, <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> 24), <em>nya</em> (<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> 301, <tt><a href="id_csui-pos-DET.html">DET</a></tt> 174), <em>sebut</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 118, <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> 18), <em>itu</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 101, <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> 50), <em>buah</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 19, <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> 2), <em>seluruh</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 17, <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> 1), <em>banyak</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 15, <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> 2, <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> 2), <em>sendiri</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 15, <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> 1), <em>orang</em> (<tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="id_csui-pos-DET.html">DET</a></tt> 13), <em>yang</em> (<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> 537, <tt><a href="id_csui-pos-DET.html">DET</a></tt> 5)
+The 10 most frequent ambiguous lemmas: <em>ini</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 187, <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> 24), <em>nya</em> (<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> 301, <tt><a href="id_csui-pos-DET.html">DET</a></tt> 174), <em>sebut</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 118, <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> 18), <em>itu</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 101, <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> 50), <em>buah</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 19, <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> 2), <em>seluruh</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 17, <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> 1), <em>banyak</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 15, <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> 2, <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> 2), <em>sendiri</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 15, <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> 1), <em>orang</em> (<tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="id_csui-pos-DET.html">DET</a></tt> 13), <em>yang</em> (<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> 538, <tt><a href="id_csui-pos-DET.html">DET</a></tt> 4)
 
-The 10 most frequent ambiguous types:  <em>ini</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 187, <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> 14), <em>nya</em> (<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> 301, <tt><a href="id_csui-pos-DET.html">DET</a></tt> 174), <em>itu</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 101, <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> 45), <em>banyak</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 12, <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> 2), <em>yang</em> (<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> 536, <tt><a href="id_csui-pos-DET.html">DET</a></tt> 3), <em>sedikit</em> (<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> 4, <tt><a href="id_csui-pos-DET.html">DET</a></tt> 2, <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> 1), <em>sebagian</em> (<tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="id_csui-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ini</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 187, <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> 14), <em>nya</em> (<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> 301, <tt><a href="id_csui-pos-DET.html">DET</a></tt> 174), <em>itu</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 101, <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> 45), <em>banyak</em> (<tt><a href="id_csui-pos-DET.html">DET</a></tt> 12, <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> 2), <em>yang</em> (<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> 537, <tt><a href="id_csui-pos-DET.html">DET</a></tt> 2), <em>sedikit</em> (<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> 4, <tt><a href="id_csui-pos-DET.html">DET</a></tt> 2, <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> 1), <em>sebagian</em> (<tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="id_csui-pos-DET.html">DET</a></tt> 1)
 
 
 * <em>ini</em>
@@ -32,8 +32,8 @@ The 10 most frequent ambiguous types:  <em>ini</em> (<tt><a href="id_csui-pos-DE
   * <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> 6: <em>" Foto selebriti atau olahragawan merokok tidak <b>banyak</b> berpengaruh . "</em>
   * <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> 2: <em>Banyak orang menduga mereka ingin membujuk para tamu agar lebih <b>banyak</b> menyumbang untuk amal .</em>
 * <em>yang</em>
-  * <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> 536: <em>" Saya belum tahu siapa <b>yang</b> akan menggantikan saya , " kata nya .</em>
-  * <tt><a href="id_csui-pos-DET.html">DET</a></tt> 3: <em>Penyelenggaraan ARA 2006 di 2007 merupakan <b>yang</b> keenam setelah pertama pada 2002 .</em>
+  * <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> 537: <em>" Saya belum tahu siapa <b>yang</b> akan menggantikan saya , " kata nya .</em>
+  * <tt><a href="id_csui-pos-DET.html">DET</a></tt> 2: <em>Penyelenggaraan ARA 2006 di 2007 merupakan <b>yang</b> keenam setelah pertama pada 2002 .</em>
 * <em>sedikit</em>
   * <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> 4: <em>Badan Pusat Statistik ( BPS ) di Jakarta , Kamis , mengumumkan bahwa inflasi bulan Oktober tercatat 0,79 persen , <b>sedikit</b> lebih rendah dibandingkan bulan September 0,8 persen .</em>
   * <tt><a href="id_csui-pos-DET.html">DET</a></tt> 2: <em>Ekspektasi inflasi sudah terlihat ada <b>sedikit</b> peningkatan , hal itu tercermin dari survei BI .</em>
@@ -52,7 +52,7 @@ The 2nd highest number of forms (1) was observed with the lemma “banyak”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “beberapa”: <em>beberapa</em>.
 
-`DET` occurs with 3 features: <tt><a href="id_csui-feat-PronType.html">PronType</a></tt> (744; 100% instances), <tt><a href="id_csui-feat-Definite.html">Definite</a></tt> (214; 29% instances), <tt><a href="id_csui-feat-Number.html">Number</a></tt> (59; 8% instances)
+`DET` occurs with 3 features: <tt><a href="id_csui-feat-PronType.html">PronType</a></tt> (743; 100% instances), <tt><a href="id_csui-feat-Definite.html">Definite</a></tt> (213; 29% instances), <tt><a href="id_csui-feat-Number.html">Number</a></tt> (59; 8% instances)
 
 `DET` occurs with 8 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Number=Plur`, `PronType=Art`, `PronType=Dem`, `PronType=Emp`, `PronType=Ind`, `PronType=Tot`
 
@@ -63,9 +63,9 @@ Examples: <em>ini, tersebut, itu, si, sana, sebagian</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 6 different relations: <tt><a href="id_csui-dep-det.html">det</a></tt> (732; 98% instances), <tt><a href="id_csui-dep-nsubj.html">nsubj</a></tt> (4; 1% instances), <tt><a href="id_csui-dep-obj.html">obj</a></tt> (4; 1% instances), <tt><a href="id_csui-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="id_csui-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-obl.html">obl</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 6 different relations: <tt><a href="id_csui-dep-det.html">det</a></tt> (731; 98% instances), <tt><a href="id_csui-dep-nsubj.html">nsubj</a></tt> (4; 1% instances), <tt><a href="id_csui-dep-obj.html">obj</a></tt> (4; 1% instances), <tt><a href="id_csui-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="id_csui-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 8 different parts of speech: <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (580; 78% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (92; 12% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (37; 5% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (17; 2% instances), <tt><a href="id_csui-pos-X.html">X</a></tt> (10; 1% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 8 different parts of speech: <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (580; 78% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (92; 12% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (36; 5% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (17; 2% instances), <tt><a href="id_csui-pos-X.html">X</a></tt> (10; 1% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
 737 (99%) `DET` nodes are leaves.
 
@@ -73,11 +73,9 @@ Parents of `DET` nodes belong to 8 different parts of speech: <tt><a href="id_cs
 
 4 (1%) `DET` nodes have two children.
 
-1 (0%) `DET` nodes have three or more children.
+The highest child degree of a `DET` node is 2.
 
-The highest child degree of a `DET` node is 3.
+Children of `DET` nodes are attached using 5 different relations: <tt><a href="id_csui-dep-nmod.html">nmod</a></tt> (4; 40% instances), <tt><a href="id_csui-dep-advmod.html">advmod</a></tt> (3; 30% instances), <tt><a href="id_csui-dep-advmod-emph.html">advmod:emph</a></tt> (1; 10% instances), <tt><a href="id_csui-dep-case.html">case</a></tt> (1; 10% instances), <tt><a href="id_csui-dep-nmod-lmod.html">nmod:lmod</a></tt> (1; 10% instances)
 
-Children of `DET` nodes are attached using 7 different relations: <tt><a href="id_csui-dep-nmod.html">nmod</a></tt> (5; 38% instances), <tt><a href="id_csui-dep-advmod.html">advmod</a></tt> (3; 23% instances), <tt><a href="id_csui-dep-advmod-emph.html">advmod:emph</a></tt> (1; 8% instances), <tt><a href="id_csui-dep-case.html">case</a></tt> (1; 8% instances), <tt><a href="id_csui-dep-cc.html">cc</a></tt> (1; 8% instances), <tt><a href="id_csui-dep-nmod-lmod.html">nmod:lmod</a></tt> (1; 8% instances), <tt><a href="id_csui-dep-punct.html">punct</a></tt> (1; 8% instances)
-
-Children of `DET` nodes belong to 8 different parts of speech: <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (4; 31% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (3; 23% instances), <tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (1; 8% instances), <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> (1; 8% instances), <tt><a href="id_csui-pos-PART.html">PART</a></tt> (1; 8% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (1; 8% instances), <tt><a href="id_csui-pos-PUNCT.html">PUNCT</a></tt> (1; 8% instances)
+Children of `DET` nodes belong to 5 different parts of speech: <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (4; 40% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (3; 30% instances), <tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (1; 10% instances), <tt><a href="id_csui-pos-PART.html">PART</a></tt> (1; 10% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (1; 10% instances)
 

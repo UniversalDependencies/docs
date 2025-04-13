@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 21.000000 (the average of all parts of speech is 2.130077).
+The form / lemma ratio of `AUX` is 21.000000 (the average of all parts of speech is 2.130677).
 
 The 1st highest number of forms (21) was observed with the lemma “sum”: <em>erant, eris, erit, es, esse, esset, est, fore, foret, fuerant, fuerat, fuerunt, fuisse, fuissent, fuit, sim, sint, sis, sit, sum, sunt</em>.
 
@@ -36,7 +36,7 @@ Examples: <em>est</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="la_circse-dep-cop.html">cop</a></tt> (210; 80% instances), <tt><a href="la_circse-dep-aux-pass.html">aux:pass</a></tt> (47; 18% instances), <tt><a href="la_circse-dep-aux.html">aux</a></tt> (3; 1% instances), <tt><a href="la_circse-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="la_circse-dep-fixed.html">fixed</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="la_circse-dep-cop.html">cop</a></tt> (210; 80% instances), <tt><a href="la_circse-dep-aux-pass.html">aux:pass</a></tt> (48; 18% instances), <tt><a href="la_circse-dep-aux.html">aux</a></tt> (2; 1% instances), <tt><a href="la_circse-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="la_circse-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
 Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (87; 33% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (65; 25% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (58; 22% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt> (21; 8% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (17; 6% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (9; 3% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 

@@ -909,7 +909,7 @@ udver: '2'
         <li>Ind
           <ul>
             <li>ADV: banyak</li>
-            <li>DET: beberapa, para, berbagai, sebagian, banyak, sejumlah, sekelompok, kebanyakan, serangkaian, semacam</li>
+            <li>DET: beberapa, para, berbagai, banyak, sejumlah, sekelompok, kebanyakan, sebagian, semacam, serangkaian</li>
             <li>PRON: seseorang, sesuatu, seorang, sejumlah, beberapa, Banyak</li>
           </ul>
         </li>
@@ -920,7 +920,7 @@ udver: '2'
         <li>Ind
           <ul>
             <li>ADV: kadang, kadang-kadang</li>
-            <li>DET: para, banyak, beberapa, berbagai, sebagian, kebanyakan, sejenis, serangkaian, sepasang</li>
+            <li>DET: para, banyak, beberapa, berbagai, Sebagian, kebanyakan, sejenis, serangkaian, sepasang</li>
             <li>PRON: seseorang, sesuatu</li>
           </ul>
         </li>
@@ -1635,7 +1635,7 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (1589)</li>
+            <li>VERB--NOUN (1590)</li>
             <li>VERB--NOUN-ADP(dalam) (1)</li>
             <li>VERB--NOUN-ADP(di) (1)</li>
             <li>VERB--NOUN-ADP(karena) (1)</li>
@@ -1655,7 +1655,7 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (473)</li>
+            <li>VERB--NOUN (474)</li>
             <li>VERB--PRON (454)</li>
           </ul>
         </li>
@@ -1677,7 +1677,7 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (4281)</li>
+            <li>VERB--NOUN (4280)</li>
             <li>VERB--NOUN-ADP(akan) (2)</li>
             <li>VERB--NOUN-ADP(atas) (2)</li>
             <li>VERB--NOUN-ADP(bahkan) (1)</li>

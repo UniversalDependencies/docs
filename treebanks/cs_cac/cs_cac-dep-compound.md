@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 1	Vždyť	vždyť	CCONJ	J^-------------	_	7	cc	7:cc	_
 2	devět	devět	NUM	Cn-S1----------	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	4	nummod:gov	4:nummod:gov	LNumValue=9
 3	tisíc	tisíc	NUM	ClXS2----------	Case=Gen|Number=Sing|NumForm=Word|NumType=Card	2	compound	2:compound	LId=tisíc-1|LNumValue=1000
-4	hektarů	hektar	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	7	nsubj	7:nsubj|9:nsubj	_
+4	hektarů	hektar	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nsubj	7:nsubj|9:nsubj	_
 5	už	už	ADV	Db-------------	_	7	cc	7:cc	_
 6	něco	něco	PRON	PZ--4----------	Animacy=Inan|Case=Acc|PronType=Ind	7	obj	7:obj|9:obj	_
 7	znamená	znamenat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_

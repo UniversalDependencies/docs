@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12114 nodes (19%) are attached to their parents as `det`.
+12112 nodes (19%) are attached to their parents as `det`.
 
 11943 instances of `det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.30988938418359.
+Average distance between parent and child is 1.30952774108322.
 
-The following 8 pairs of parts of speech are connected with `det`: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (9586; 79% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (1280; 11% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (417; 3% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (383; 3% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (264; 2% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (142; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (23; 0% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (19; 0% instances).
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (9589; 79% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (1276; 11% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (417; 3% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (382; 3% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (264; 2% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (142; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (23; 0% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (19; 0% instances).
 
 
 ~~~ conllu

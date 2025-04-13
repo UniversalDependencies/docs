@@ -11,7 +11,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 8237 tokens (29%) have a non-empty value of `Number`.
 1549 types (35%) occur at least once with a non-empty value of `Number`.
-1285 lemmas (34%) occur at least once with a non-empty value of `Number`.
+1284 lemmas (34%) occur at least once with a non-empty value of `Number`.
 The feature is used with 3 part-of-speech tags: <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (7644; 27% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (534; 2% instances), <tt><a href="id_csui-pos-DET.html">DET</a></tt> (59; 0% instances).
 
 ### `NOUN`
@@ -29,7 +29,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="id_csui-pos-NOUN.ht
   <tr><td><tt></tt></td><td><em>tahun, tahunan</em></td><td><em>bertahun-tahun</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `NOUN`. 97% lemmas (1231) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NOUN`. 97% lemmas (1230) occur only with one value of `Number`.
 
 ### `PRON`
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (93; 17% of non-empty `Number`): <em>kita, mereka, kami</em>
 * `Sing` (441; 83% of non-empty `Number`): <em>nya, dia, ia, saya, anda</em>
-* `EMPTY` (663): <em>yang, itu, demikian, ini, mana, apa, diri, siapa, sesuatu, begitu</em>
+* `EMPTY` (664): <em>yang, itu, demikian, ini, mana, apa, diri, siapa, sesuatu, begitu</em>
 
 ### `DET`
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (59; 100% of non-empty `Number`): <em>beberapa, banyak, para, berbagai</em>
-* `EMPTY` (685): <em>ini, nya, tersebut, itu, sebuah, seluruh, sendiri, seorang, semua, masing-masing</em>
+* `EMPTY` (684): <em>ini, nya, tersebut, itu, sebuah, seluruh, sendiri, seorang, semua, masing-masing</em>
 
 ## Relations with Agreement in `Number`
 

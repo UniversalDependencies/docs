@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (1%) are attached to their parents as `fixed`.
+13 nodes (1%) are attached to their parents as `fixed`.
 
-12 instances of `fixed` (100%) are left-to-right (parent precedes child).
+13 instances of `fixed` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (8; 67% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-PART.html">PART</a></tt> (2; 17% instances), <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (2; 17% instances).
+The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (9; 69% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-PART.html">PART</a></tt> (2; 15% instances), <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (2; 15% instances).
 
 
 ~~~ conllu

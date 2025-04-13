@@ -13,7 +13,7 @@ The 10 most frequent `SYM` lemmas: <em>£, a</em>
 
 The 10 most frequent `SYM` types:  <em>£, A</em>
 
-The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 3234, <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 593, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 428, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 280, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 140, <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 38, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 21, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 6, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 3234, <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 593, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 429, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 280, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 140, <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 38, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 21, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 6, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>A</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 17, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 6, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 1, <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt> 1)
 
@@ -29,7 +29,7 @@ The 10 most frequent ambiguous types:  <em>A</em> (<tt><a href="gd_arcosg-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.302372).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.302531).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>A</em>.
 

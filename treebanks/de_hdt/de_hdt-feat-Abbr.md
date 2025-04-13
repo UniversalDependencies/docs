@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 `PRON` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>d.</em>
-* `EMPTY` (94850): <em>sich, es, die, sie, man, das, er, der, wir, was</em>
+* `EMPTY` (94844): <em>sich, es, die, sie, man, das, er, der, wir, was</em>
 

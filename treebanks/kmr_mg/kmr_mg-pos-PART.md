@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  <em>jî</em> (<tt><a href="kmr_mg-pos-PAR
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.500000 (the average of all parts of speech is 1.511556).
+The form / lemma ratio of `PART` is 1.500000 (the average of all parts of speech is 1.510518).
 
 The 1st highest number of forms (2) was observed with the lemma “jî”: <em>ji, jî</em>.
 

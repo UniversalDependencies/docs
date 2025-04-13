@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-HDT: POS Tags: `PUNCT`
 
-There are 15 `PUNCT` lemmas (0%), 15 `PUNCT` types (0%) and 396266 `PUNCT` tokens (11%).
+There are 17 `PUNCT` lemmas (0%), 17 `PUNCT` types (0%) and 396270 `PUNCT` tokens (11%).
 Out of 16 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 14 in number of types and 3 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>., ,, ", :, (, ), -, ;, ?, !</em>
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="de_hdt-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.529657).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.529726).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -41,22 +41,22 @@ The 2nd highest number of forms (1) was observed with the lemma “!!”: <em>!!
 
 The 3rd highest number of forms (1) was observed with the lemma “!!!”: <em>!!!</em>.
 
-`PUNCT` occurs with 1 features: <tt><a href="de_hdt-feat-PunctType.html">PunctType</a></tt> (396256; 100% instances)
+`PUNCT` occurs with 2 features: <tt><a href="de_hdt-feat-PunctType.html">PunctType</a></tt> (396256; 100% instances), <tt><a href="de_hdt-feat-Foreign.html">Foreign</a></tt> (3; 0% instances)
 
-`PUNCT` occurs with 3 feature-value pairs: `PunctType=Brck`, `PunctType=Comm`, `PunctType=Peri`
+`PUNCT` occurs with 4 feature-value pairs: `Foreign=Yes`, `PunctType=Brck`, `PunctType=Comm`, `PunctType=Peri`
 
-`PUNCT` occurs with 4 feature combinations.
+`PUNCT` occurs with 5 feature combinations.
 The most frequent feature combination is `PunctType=Peri` (177075 tokens).
 Examples: <em>., :, ;, ?, !, ..., !!!, !!, !!!!, ..</em>
 
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="de_hdt-dep-punct.html">punct</a></tt> (396266; 100% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="de_hdt-dep-punct.html">punct</a></tt> (396270; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (257872; 65% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (61885; 16% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (27458; 7% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (20668; 5% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (10816; 3% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (10555; 3% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (2503; 1% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (2209; 1% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (1445; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (603; 0% instances), <tt><a href="de_hdt-pos-PART.html">PART</a></tt> (102; 0% instances), <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> (65; 0% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (46; 0% instances), <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (29; 0% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (257877; 65% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (61889; 16% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (27458; 7% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (20668; 5% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (10810; 3% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (10555; 3% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (2612; 1% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (2100; 1% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (1446; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (603; 0% instances), <tt><a href="de_hdt-pos-PART.html">PART</a></tt> (102; 0% instances), <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> (65; 0% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (46; 0% instances), <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (29; 0% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances)
 
-396266 (100%) `PUNCT` nodes are leaves.
+396270 (100%) `PUNCT` nodes are leaves.
 
 The highest child degree of a `PUNCT` node is 0.
 

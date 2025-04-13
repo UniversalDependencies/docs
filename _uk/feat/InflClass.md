@@ -30,4 +30,4 @@ In Ukrainian, third-person singular possessive pronouns are indeclinable. An ind
 
 
 Neither [infinitives](VerbForm.md) nor finite verbs attested in only one (impersonal) form, are labeled with this feature.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:01 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:45 CET -->

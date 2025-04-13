@@ -28,11 +28,17 @@ Latvian uses all 17 universal POS categories.
 
 [PART]() tag is used for following function words: _acīmredzot_, _ak_, _ar_, _arī_, _arīdzan_, _da_, _diemžēl_, _diez_, _diezin_, _droši_, _gan_, _i_, _ij_, _ik_, _ir_, _it_, _itin_, _ja_, _jau_, _jā_, _jel_, _jo_, _kaut_, _kā_, _lai_, _laikam_, _mjā_, _ne_, _nea_, _nebūt_, _nez_, _nezin_, _nē_, _nu_, _nudien_, _nujā_, _nū_, _nūja_, _nūjā_, _pat_, _patiesi_, _patiešām_, _protams_, _proti_, _taču_, _tad_, _tak_, _tā_, _tāpat_, _tātad_, _tiešām_, _tik_, _tikai_, _tikpat_, _tipa_, _tomēr_, _turklāt_, _vai_, _varbūt_, _vēl_, _vien_, _vienīgi_, _vis_.
 
-Particles can be homonymous with other POS, most notably, conjunctions [CCONJ]() and [SCONJ](), interjections [INTJ](), and adjectives [ADJ](), correct POS is assigned based on sentence context.
+Particles can be homonymous with other POS, most notably, conjunctions [CCONJ]() and [SCONJ](), interjections [INTJ](), and adverbs [ADV](), correct POS is assigned based on sentence context.
 
 #### Pronouns and Determiners
 
-Effectively distinguishing [PRON]() and [DET]() categories in Latvian is very hard as words used as `DET` can also be used as `PRON`, and, thus, traditional Latvian grammar does not define determiners as a distinct POS. The pronoun (`PRON`) vs. determiner (`DET`) distinction is based on the role of the word in the UD tree: if the role in current sentence is [det]() the word is tagged as `DET`. In turn the role `det` is used for Latvian pronoun category, which modify nouns in the sentence and agree with this noun in gender, number and case. If these words are used independently in a given sentence, they are tagged as [PRON](). Pronominal quantifiers _daudzi_ "many" and _vairāki_ "several" , and personal possessives _manējais_, _tavējais_, _mūsējais_, _jūsējais_, _viņējais_ are `DET` as well if they modify the noun in the sentence, however in Latvian grammar they are described as adjectives.
+Effectively distinguishing [PRON]() and [DET]() categories in Latvian is very hard as words used as `DET` can also be used as `PRON`, and, thus, traditional Latvian grammar does not define determiners as a distinct POS. Since version 2.15 pronoun (`PRON`) vs. determiner (`DET`) distinction is done by lemma (similarly as is done with PDT). In earlyer versions distinction was made based on tree structure.
+
+Currently `DET` are: _abas_, _abi_, _cikais_, _cikas_, _ciki_, _cita_, _cits_, _daudzi_, _daža_, _dažs_, _ikkatra_, _ikkatrs_, _ikkura_, _ikkurš_, _ikviena_, _ikviens_, _jebkāda_, _jebkāds_, _jebkura_, _jebkurš_, _jelkāda_, _jelkāds_, _jūsējs_, _kāda_, _kādā_, _kādais_, _kāds_, _katra_, _katrs_, _kura_, _kurā_, _kurais_, _kurs_, _kurš_, _manējs_, _mana_, _mans_, _mūsējs_, _nekāda_, _nekādā_, _nekādais_, _nekāds_, _neviena_, _neviens_, _pate_, _pati_, _pats_, _savējs_, _sava_, _savs_, _šāda_, _šāds_, _šī_, _šis_, _šitāda_, _šitāds_, _šitaids_, _šitejāda_, _šitejāds_, _šitā_, _šitais_, _šitas_, _šitentāda_, _šitentāds_, _šitentas_, _štā_, _štas_, _štis_, _tāda_, _tāds_, _tā_, _tas_, _taste_, _tāte_, _tavējs_, _tava_, _tavs_, _vairāki_, _vēlviena_, _vēlviens_, _vienotra_, _vienotrs_, _viņējs_, _viņā_, _viņais_, _visa_, _viss_.
+
+`PRON` are: _daudzkas_, _es_ ("I"), _jebkas_, _jelkas_, _jis_, _jūs_ ("you", plural), _kas_, _mēs_ ("we"), _nekas_, _nezinkas_, _sevis_, _tu_ ("you", singular), _viņa_ ("she"), _viņš_ ("he"), _viš_ ("they/he/she"). 
+
+Syntax role `det` is used for Latvian pronoun category, which modify nouns in the sentence and agree with this noun in gender, number and case. Pronominal quantifiers _daudzi_ "many" and _vairāki_ "several" , and personal possessives _manējais_, _tavējais_, _mūsējais_, _jūsējais_, _viņējais_ are `DET`, however in Latvian grammar they are described as adjectives.
 
 #### Auxiliary Verbs
 
@@ -103,6 +109,10 @@ Deverbal nouns with endings _-šana_, _-šanās_ (_skriešana_ "running") are ta
 * [Foreign]() is annotated `Yes` for foreign words [X]().
 * [Abbr]() is annotated `Yes` for abbreviations, which can be nouns [NOUN]() (_DJ_), [PROPN]() (_NATO_), `ADJ` (_god._ "honored"), `VERB` (_skat._ "see"), `ADV` (_v.j.l._ "above sea level"), `SYM` (_utt._ "etc.").
 
+#### ExtPos
+
+[ExtPos]() is currently used for annotating `fixed` constructions. See [ExtPos]() for Latvian for currently used values and examples.
+
 #### Unused Features
 
 Features not applicable for Latvian:
@@ -138,6 +148,8 @@ The following relation subtypes are used in Latvian:
 * [aux:pass]() for passive auxiliaries
 * [flat:foreign]() for non-first words in quoted foreign phrases
 * [flat:name]() for exocentric complex name
+* [advmod:neg]() for negative particles
+* [advmod:emph]() for emphasizing particles
 
 The following relation types are not used for Latvian: [clf](), [dislocated](), [list](), [reparandum](). However, `reparandum` should be introduced in future, as appropriate speech texts are annotated.
 

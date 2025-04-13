@@ -21,4 +21,4 @@ csubj(contenebatur,offeruerat-12)
 <u>Note:</u> in general, the dislocated element does not need to be of the same form as the corresponding argument appearing in the matrix clause, and there can be alternation between clausal and nominal realisations. The subtype of `dislocated` depends on the type of the dislocated element, not on that of the argument in the matrix clause.  
 
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:10 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:52 CET -->

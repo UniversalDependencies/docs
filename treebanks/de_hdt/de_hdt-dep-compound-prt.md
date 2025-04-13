@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 4 8 compound:prt	color:blue
 1	"	"	PUNCT	$(	PunctType=Brck	4	punct	_	_
 2	Diesen	dieser	DET	PDAT	Case=Dat|Number=Plur|PronType=Dem	3	det	_	_
-3	Gerüchten	Gerücht	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	4	obj	_	_
+3	Gerüchten	Gerücht	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	4	obl:arg	_	_
 4	liegt	liegen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	eine	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	7	det	_	_
 6	unseriöse	unseriöse	ADJ	ADJA	Gender=Fem|Number=Sing	7	amod	_	_
@@ -67,7 +67,7 @@ The following 7 pairs of parts of speech are connected with `compound:prt`: <tt>
 1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Expo-Gesellschaft	Gesellschaft	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
 3	kann	können	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	7	aux	_	_
-4	einem	ein	DET	PIS	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	7	obj	_	_
+4	einem	ein	DET	PIS	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	7	obl:arg	_	_
 5	langsam	langsam	ADJ	ADJD	Degree=Pos|Variant=Short	7	advmod	_	_
 6	leid	leid	ADJ	ADJD	Degree=Pos|Variant=Short	7	compound:prt	_	_
 7	tun	tun	VERB	VVINF	VerbForm=Inf	0	root	_	_

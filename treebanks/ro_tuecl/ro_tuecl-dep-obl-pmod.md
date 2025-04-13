@@ -105,7 +105,7 @@ The following 3 pairs of parts of speech are connected with `obl:pmod`: <tt><a h
 9	ling	linge	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 10	curul	cur	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	obj	_	_
 11	tau	tău	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Typo=Yes	10	det	_	CorrectForm=tău
-12	sexy	sexy	ADJ	_	Foreign=Yes|Gender=Masc|Number=Sing|Typo=Yes	10	amod	_	CorrectForm=sexy|Lang=en
+12	sexy	sexy	ADJ	_	Foreign=Yes|Typo=Yes	10	amod	_	CorrectForm=sexy|Lang=en
 13	și	și	CCONJ	_	Polarity=Pos	14	cc	_	_
 14	apetisanta	apetisant	ADJ	_	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	12	conj	_	CorrectForm=apetisant
 15	mânca	mânca	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|Typo=Yes|VerbForm=Fin	2	conj	_	CorrectForm=mănânc

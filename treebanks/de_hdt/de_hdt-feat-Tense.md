@@ -12,19 +12,19 @@ It occurs with 2 different values: `Past`, `Pres`.
 266522 tokens (8%) have a non-empty value of `Tense`.
 8961 types (5%) occur at least once with a non-empty value of `Tense`.
 3370 lemmas (5%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (133537; 4% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (132985; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (133536; 4% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (132986; 4% instances).
 
 ### `AUX`
 
-133537 <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Tense`.
+133536 <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (133537; 100%), <tt><a href="de_hdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (133535; 100%), <tt><a href="de_hdt-feat-Person.html">Person</a></tt><tt>=3</tt> (130825; 98%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (93215; 70%), <tt><a href="de_hdt-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (88098; 66%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (133536; 100%), <tt><a href="de_hdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (133534; 100%), <tt><a href="de_hdt-feat-Person.html">Person</a></tt><tt>=3</tt> (130824; 98%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (93214; 70%), <tt><a href="de_hdt-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (88097; 66%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Past` (19813; 15% of non-empty `Tense`): <em>hatte, war, wurde, wurden, waren, hatten, konnte, musste, konnten, sollte</em>
-* `Pres` (113724; 85% of non-empty `Tense`): <em>ist, hat, wird, soll, sind, sei, will, werden, kann, haben</em>
-* `EMPTY` (19604): <em>werden, sein, können, haben, worden, gewesen, müssen, geworden, wollen, dürfen</em>
+* `Pres` (113723; 85% of non-empty `Tense`): <em>ist, hat, wird, soll, sind, sei, will, werden, kann, haben</em>
+* `EMPTY` (19605): <em>werden, sein, können, haben, worden, gewesen, müssen, geworden, wollen, dürfen</em>
 
 <table>
   <tr><th>Paradigm <i>sein</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -38,14 +38,14 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `VERB`
 
-132985 <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> tokens (50% of all `VERB` tokens) have a non-empty value of `Tense`.
+132986 <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> tokens (50% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="de_hdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (132985; 100%), <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (132985; 100%), <tt><a href="de_hdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (132983; 100%), <tt><a href="de_hdt-feat-Person.html">Person</a></tt><tt>=3</tt> (131084; 99%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (100434; 76%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="de_hdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (132986; 100%), <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (132986; 100%), <tt><a href="de_hdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (132984; 100%), <tt><a href="de_hdt-feat-Person.html">Person</a></tt><tt>=3</tt> (131085; 99%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (100435; 76%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Past` (30109; 23% of non-empty `Tense`): <em>sagte, gab, erklärte, hieß, kündigte, meinte, teilte, stieg, betonte, ging</em>
-* `Pres` (102876; 77% of non-empty `Tense`): <em>gibt, geht, steht, bietet, kommt, sieht, stellt, liegt, heißt, stehen</em>
+* `Pres` (102877; 77% of non-empty `Tense`): <em>gibt, geht, steht, bietet, kommt, sieht, stellt, liegt, heißt, stehen</em>
 * `EMPTY` (130600): <em>machen, angekündigt, geben, lassen, kommen, bringen, anbieten, erhalten, gegeben, gemacht</em>
 
 <table>
@@ -66,5 +66,6 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>AUX --[<tt><a href="de_hdt-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (4; 67%),
 <tt>VERB --[<tt><a href="de_hdt-dep-obl.html">obl</a></tt>]--> AUX</tt> (3; 60%),
 <tt>AUX --[<tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (1; 100%),
-<tt>AUX --[<tt><a href="de_hdt-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (1; 100%).
+<tt>AUX --[<tt><a href="de_hdt-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<tt><a href="de_hdt-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (1; 100%).
 

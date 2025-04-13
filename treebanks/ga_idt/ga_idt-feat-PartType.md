@@ -9,16 +9,16 @@ udver: '2'
 This feature is language-specific.
 It occurs with 11 different values: `Ad`, `Cmpl`, `Comp`, `Cop`, `Deg`, `Inf`, `Num`, `Pat`, `Sup`, `Vb`, `Voc`.
 
-6821 tokens (6%) have a non-empty value of `PartType`.
+6819 tokens (6%) have a non-empty value of `PartType`.
 57 types (0%) occur at least once with a non-empty value of `PartType`.
 24 lemmas (0%) occur at least once with a non-empty value of `PartType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (6821; 6% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (6819; 6% instances).
 
 ### `PART`
 
-6821 <tt><a href="ga_idt-pos-PART.html">PART</a></tt> tokens (98% of all `PART` tokens) have a non-empty value of `PartType`.
+6819 <tt><a href="ga_idt-pos-PART.html">PART</a></tt> tokens (98% of all `PART` tokens) have a non-empty value of `PartType`.
 
-The most frequent other feature values with which `PART` and `PartType` co-occurred: <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (4666; 68%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (4650; 68%).
+The most frequent other feature values with which `PART` and `PartType` co-occurred: <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (4656; 68%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (4640; 68%).
 
 `PART` tokens may have the following values of `PartType`:
 
@@ -27,11 +27,11 @@ The most frequent other feature values with which `PART` and `PartType` co-occur
 * `Comp` (173; 3% of non-empty `PartType`): <em>níos, ní, ba, ab, b', is</em>
 * `Cop` (3; 0% of non-empty `PartType`): <em>a</em>
 * `Deg` (11; 0% of non-empty `PartType`): <em>a, dá</em>
-* `Inf` (1953; 29% of non-empty `PartType`): <em>a, do, d'</em>
+* `Inf` (1944; 29% of non-empty `PartType`): <em>a, do, d'</em>
 * `Num` (25; 0% of non-empty `PartType`): <em>a</em>
 * `Pat` (240; 4% of non-empty `PartType`): <em>ó, mac, Uí, de, Ní, Nic, O', Mhic, O, Mag</em>
 * `Sup` (133; 2% of non-empty `PartType`): <em>is, ba, ab, b', nach</em>
-* `Vb` (2919; 43% of non-empty `PartType`): <em>a, d', ní, an, gur, d’, nach, níor, do, ar</em>
+* `Vb` (2926; 43% of non-empty `PartType`): <em>a, d', ní, an, gur, d’, nach, níor, do, ar</em>
 * `Voc` (56; 1% of non-empty `PartType`): <em>a</em>
 
 <table>

@@ -9,43 +9,41 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `flat`: <tt><a href="it_old-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="it_old-dep-flat-name.html">flat:name</a></tt>, <tt><a href="it_old-dep-flat-redup.html">flat:redup</a></tt>.
 
-15 nodes (0%) are attached to their parents as `flat`.
+29 nodes (0%) are attached to their parents as `flat`.
 
-15 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.46666666666667.
+29 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.55172413793103.
 
-The following 9 pairs of parts of speech are connected with `flat`: <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (3; 20% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-NUM.html">NUM</a></tt> (3; 20% instances), <tt><a href="it_old-pos-ADP.html">ADP</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (2; 13% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="it_old-pos-ADP.html">ADP</a></tt>-<tt><a href="it_old-pos-ADP.html">ADP</a></tt> (1; 7% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 7% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 7% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 7% instances).
+The following 12 pairs of parts of speech are connected with `flat`: <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (7; 24% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-NUM.html">NUM</a></tt> (7; 24% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (4; 14% instances), <tt><a href="it_old-pos-ADP.html">ADP</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="it_old-pos-ADP.html">ADP</a></tt>-<tt><a href="it_old-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 22 flat	color:blue
-1	Lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Canto=4|Verso=40
-2	sommo	sommo	NOUN	sm2ms	Gender=Masc|Number=Sing	4	nsubj	_	Canto=4|Verso=40
-3	er'	essere	AUX	vi4iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	Canto=4|Verso=40
-4	alto	alto	ADJ	a1ms	Gender=Masc|Number=Sing	0	root	_	Canto=4|Verso=40
-5	che	che	SCONJ	cssu	_	6	mark	_	Canto=4|Verso=40
-6	vincea	vincere	VERB	vta2iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	Canto=4|Verso=40
-7	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Canto=4|Verso=40
-8	vista	vista	NOUN	sf1fs	Gender=Fem|Number=Sing	6	obj	_	Canto=4|SpaceAfter=No|Verso=40
-9	,	,	PUNCT	_	_	13	punct	_	_
-10	e	e	CCONJ	cscc	_	13	cc	_	Canto=4|Verso=41
-11	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	Canto=4|Verso=41
-12	costa	costa	NOUN	sf1fs	Gender=Fem|Number=Sing	13	nsubj	_	Canto=4|Verso=41
-13	superba	superbo	ADJ	a1fsc+	Degree=Cmp|Gender=Fem|Number=Sing	4	conj	_	Canto=4|Verso=41
-14	più	più	ADV	bc+	Degree=Cmp	13	advmod	_	Canto=4|Verso=41
-15	assai	assai	ADV	b	_	13	advmod	_	Canto=4|Verso=41
-16	che	che	SCONJ	c	_	19	mark	_	Canto=4|Verso=42
-17	da	da	ADP	epsk6	_	19	case	_	Canto=4|Verso=42
-18	mezzo	mezzo	ADJ	a1ms	Gender=Masc|Number=Sing	19	amod	_	Canto=4|Verso=42
-19	quadrante	quadrante	NOUN	sm3ms	Gender=Masc|Number=Sing	13	advcl:cmp	_	Canto=4|Verso=42
-20	a	a	ADP	epskml	_	21	case	_	Canto=4|Verso=42
-21	centro	centro	NOUN	sm2ms	Gender=Masc|Number=Sing	19	orphan	_	Canto=4|Verso=42
-22	lista	lista	NOUN	sf1fs	Gender=Fem|Number=Sing	21	flat	_	Canto=4|SpaceAfter=No|Verso=42
-23	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 flat	color:blue
+1	Infin	infino	ADP	eisko	_	2	case	_	Canto=22|Verso=70
+2	là	là	ADV	_	_	5	advmod:lmod	_	_
+3	sù	sù	ADV	_	_	5	advmod:lmod	_	_
+4	la	la	PRON	pp3fsyac	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	Canto=22|Verso=70
+5	vide	vedere	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=22|Verso=70
+6	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Canto=22|Verso=70
+7	patriarca	patriarca	NOUN	sm1ms	Gender=Masc|Number=Sing	5	nsubj	_	Canto=22|Verso=70
+8	Iacobbe	Giacobbe	PROPN	np	_	7	flat	_	Canto=22|Verso=71
+9	porger	porgere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	5	xcomp	_	Canto=22|Verso=71
+10	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	Canto=22|Verso=71
+11	superna	superno	ADJ	a1fs	Gender=Fem|Number=Sing	12	amod	_	Canto=22|Verso=71
+12	parte	parte	NOUN	sf3fs	Gender=Fem|Number=Sing	9	obj	_	Canto=22|Verso=71|SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	quando	quando	SCONJ	csst	_	16	mark	_	Canto=22|Verso=72
+15	li	gli	PRON	pp3msyda	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	iobj	_	Canto=22|Verso=72
+16	apparve	apparire	VERB	vi3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	advcl	_	Canto=22|Verso=72
+17	d'	di	ADP	eps	_	18	case	_	Canto=22|Verso=72
+18	angeli	angelo	NOUN	sm2mp	Gender=Masc|Number=Plur	20	obl	_	Canto=22|Verso=72
+19	sì	così	ADV	b	_	20	advmod	_	Canto=22|Verso=72
+20	carca	carico	ADJ	a1fsxc5	Gender=Fem|Number=Sing	16	xcomp	_	Canto=22|Verso=72|SpaceAfter=No
+21	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
@@ -85,38 +83,34 @@ The following 9 pairs of parts of speech are connected with `flat`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 flat	color:blue
-1	Ed	e	CCONJ	cscc	_	9	cc	_	Canto=15|Verso=142
-2	ecco	ecco	ADV	b	_	9	advmod	_	Canto=15|Verso=142
-3	a	a	ADP	_	_	9	obl	_	Canto=15|Verso=142
-4	poco	poco	ADV	_	_	3	flat	_	Canto=15|Verso=142
-5	a	a	ADP	_	_	3	flat	_	Canto=15|Verso=142
-6	poco	poco	ADV	_	_	3	flat	_	Canto=15|Verso=142
-7	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Canto=15|Verso=142
-8	fummo	fumo	NOUN	sm2ms	Gender=Masc|Number=Sing	9	nsubj	_	Canto=15|Verso=142
-9	fare	fare	VERB	vta+1fp	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	Canto=15|Verso=142
-10	si	si	PRON	pf3xpr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	Canto=15|Verso=142
-11	verso	verso	ADP	_	_	13	case	_	Canto=15|Verso=143
-12	di	di	ADP	_	_	13	case	_	Canto=15|Verso=143
-13	noi	noi	PRON	pp1plco	Number=Plur|Person=1|PronType=Prs	9	obl:lmod	_	Canto=15|Verso=143
-14	come	come	ADV	b	_	16	mark	_	Canto=15|Verso=143
-15	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	Canto=15|Verso=143
-16	notte	notte	NOUN	sf3fs	Gender=Fem|Number=Sing	17	advcl:cmp	_	Canto=15|Verso=143
-17	oscuro	oscuro	ADJ	a1ms	Gender=Masc|Number=Sing	9	xcomp	_	Canto=15|SpaceAfter=No|Verso=143
-18	;	;	PUNCT	_	_	23	punct	_	_
-19	né	né	CCONJ	cscc	_	23	cc	_	Canto=15|Verso=144
-20	da	da	ADP	epska	_	21	case	_	Canto=15|Verso=144
-21	quello	quello	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	25	obl:lmod	_	Canto=15|Verso=144
-22	era	essere	AUX	vi4iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	cop	_	Canto=15|Verso=144
-23	loco	luogo	NOUN	sm2ms	Gender=Masc|Number=Sing	9	parataxis	_	Canto=15|Verso=144
-24	da	da	ADP	epsf	_	25	mark	_	Canto=15|Verso=144
-25	cansare	cansare	VERB	vi+1fp	Tense=Pres|VerbForm=Inf	23	advcl	_	Canto=15|Verso=144
-26	si	si	PRON	pf3xpr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	25	expl:pv	_	Canto=15|Verso=144
-27	.	.	PUNCT	_	_	9	punct	_	_
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 21 22 flat	color:blue
+1	Lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Canto=4|Verso=40
+2	sommo	sommo	NOUN	sm2ms	Gender=Masc|Number=Sing	4	nsubj	_	Canto=4|Verso=40
+3	er'	essere	AUX	vi4iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	Canto=4|Verso=40
+4	alto	alto	ADJ	a1ms	Gender=Masc|Number=Sing	0	root	_	Canto=4|Verso=40
+5	che	che	SCONJ	cssu	_	6	mark	_	Canto=4|Verso=40
+6	vincea	vincere	VERB	vta2iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	Canto=4|Verso=40
+7	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Canto=4|Verso=40
+8	vista	vista	NOUN	sf1fs	Gender=Fem|Number=Sing	6	obj	_	Canto=4|SpaceAfter=No|Verso=40
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	e	e	CCONJ	cscc	_	13	cc	_	Canto=4|Verso=41
+11	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	Canto=4|Verso=41
+12	costa	costa	NOUN	sf1fs	Gender=Fem|Number=Sing	13	nsubj	_	Canto=4|Verso=41
+13	superba	superbo	ADJ	a1fsc+	Degree=Cmp|Gender=Fem|Number=Sing	4	conj	_	Canto=4|Verso=41
+14	più	più	ADV	bc+	Degree=Cmp	13	advmod	_	Canto=4|Verso=41
+15	assai	assai	ADV	b	_	13	advmod	_	Canto=4|Verso=41
+16	che	che	SCONJ	c	_	19	mark	_	Canto=4|Verso=42
+17	da	da	ADP	epsk6	_	19	case	_	Canto=4|Verso=42
+18	mezzo	mezzo	ADJ	a1ms	Gender=Masc|Number=Sing	19	amod	_	Canto=4|Verso=42
+19	quadrante	quadrante	NOUN	sm3ms	Gender=Masc|Number=Sing	13	advcl:cmp	_	Canto=4|Verso=42
+20	a	a	ADP	epskml	_	21	case	_	Canto=4|Verso=42
+21	centro	centro	NOUN	sm2ms	Gender=Masc|Number=Sing	19	orphan	_	Canto=4|Verso=42
+22	lista	lista	NOUN	sf1fs	Gender=Fem|Number=Sing	21	flat	_	Canto=4|SpaceAfter=No|Verso=42
+23	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

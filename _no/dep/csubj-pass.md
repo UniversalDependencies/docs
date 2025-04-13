@@ -11,4 +11,4 @@ A clausal passive subject is a clausal syntactic subject of a passive clause. In
 At de mener alvor, kan illustreres med følgende \n That they are serious can be illustrated by the following
 csubj:pass(illustreres,mener)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:03 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:45 CET -->

@@ -32,6 +32,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Prs` (5398; 6% of non-empty `PronType`): <em>su, sus, mi, nuestra, nuestro, nuestros, mis, nuestras, tu, suyo</em>
 * `Rel` (156; 0% of non-empty `PronType`): <em>cuyo, cuya, cuyos, cuyas, cual</em>
 * `Tot` (1134; 1% of non-empty `PronType`): <em>todo, todos, cada, todas, toda</em>
+* `EMPTY` (6): <em>cada</em>
 
 `PronType` seems to be **lexical feature** of `DET`. 100% lemmas (60) occur only with one value of `PronType`.
 

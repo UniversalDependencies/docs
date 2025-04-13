@@ -22,11 +22,11 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 expl	color:blue
-1	There	there	PRON	EX	PronType=Dem	2	expl	2:expl	Discourse=joint-list_m:44->39:0:_
+1	There	there	PRON	EX	PronType=Dem	2	expl	2:expl	Discourse=joint-list_m:44->39:0:_|PDTB=Implicit:Expansion.Conjunction:and:_:338-359:360-365
 2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Existential-CopPred-ThereExpl
 3	mild	mild	ADJ	JJ	Degree=Pos	4	amod	4:amod	Entity=(79-abstract-new-cf1-2-sgl
-4	pallor	pallor	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	Entity=79)
-5	noted	note	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	acl	4:acl	Discourse=elaboration-attribute:45->44:0:_|MSeg=not-ed|SpaceAfter=No
+4	pallor	pallor	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	CxnElt=2:Existential-CopPred-ThereExpl.Pivot|Entity=79)
+5	noted	note	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	acl	4:acl	Discourse=elaboration-attribute:45->44:0:syn-mdf-363+syn-nmn-364|MSeg=not-ed|SpaceAfter=No
 6	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
@@ -38,12 +38,12 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 expl	color:blue
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	5:expl	Discourse=explanation-motivation:90->88:1:_|Entity=(105-abstract-new-cf2-1-sgl)
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	5:expl	Discourse=explanation-motivation:84->83:1:mrf-md-632|Entity=(105-abstract-new-cf2-1-sgl)|PDTB=Implicit:Contingency.Cause.Reason:because:_:632-644:645-654
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
-3	not	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	_
+3	not	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	Negation=Yes
 4	too	too	ADV	RB	Degree=Pos	5	advmod	5:advmod	_
 5	late	late	ADJ	JJ	Degree=Pos	0	root	0:root	_
-6	to	to	PART	TO	_	7	mark	7:mark	Discourse=purpose-goal:91->90:0:_
+6	to	to	PART	TO	_	7	mark	7:mark	Discourse=purpose-goal:85->84:0:_|PDTB=Implicit:Contingency.Purpose.Arg2-as-goal:in order:_:645-649:650-654
 7	change	change	VERB	VB	VerbForm=Inf	5	csubj	5:csubj	_
 8	your	your	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	Entity=(106-abstract-new-cf3-2-sgl(1-person-giv:act-cf1*-1-ana)
 9	mind	mind	NOUN	NN	Number=Sing	7	obj	7:obj	Entity=106)|SpaceAfter=No
@@ -64,7 +64,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 4	and	and	CCONJ	CC	_	5	cc	5:cc	_
 5	many	many	ADJ	JJ	Degree=Pos	3	conj	3:conj:and|7:amod	_
 6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
-7	year	year	NOUN	NN	Number=Sing	8	obl:tmod	8:obl:tmod	_
+7	year	year	NOUN	NN	Number=Sing	8	obl:unmarked	8:obl:unmarked	_
 8	ago	ago	ADV	RB	Degree=Pos	0	root	0:root	Entity=3)|MSeg=a-go|SpaceAfter=No
 9	,	,	PUNCT	,	_	12	punct	12:punct	_
 10	In	in	ADP	IN	_	12	case	12:case	_
@@ -79,7 +79,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 19	maiden	maiden	NOUN	NN	Number=Sing	21	nsubj	21:nsubj|25:obj	Entity=1)
 20	there	there	ADV	RB	PronType=Dem	21	advmod	21:advmod	_
 21	lived	live	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	csubj	8:csubj	MSeg=liv-ed
-22	whom	who	PRON	WP	PronType=Rel	25	obj	19:ref	Discourse=elaboration-attribute:3->2:0:_
+22	whom	who	PRON	WP	PronType=Rel	25	obj	19:ref	Discourse=elaboration-attribute:3->2:0:syn-mdf-22+syn-relcl-25,28
 23	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	25	nsubj	25:nsubj	Entity=(6-person-acc:com-cf2-1-sgl)
 24	may	may	AUX	MD	VerbForm=Fin	25	aux	25:aux	_
 25	know	know	VERB	VB	VerbForm=Inf	19	acl:relcl	19:acl:relcl	_

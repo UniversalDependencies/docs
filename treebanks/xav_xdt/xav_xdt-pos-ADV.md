@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Xavante-XDT: POS Tags: `ADV`
 
-There are 38 `ADV` lemmas (11%), 41 `ADV` types (9%) and 88 `ADV` tokens (5%).
+There are 38 `ADV` lemmas (11%), 41 `ADV` types (9%) and 89 `ADV` tokens (5%).
 Out of 15 observed tags, the rank of `ADV` is: 3 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>duré, dzéma, we, tsa'ẽtè, si, õ, oto, petse, pi'uriwi, tame</em>
 
-The 10 most frequent `ADV` types:  <em>duré, dzéma, tsa'ẽtè, wei, si, õ, oto, petse, pi'uriwi, Höiwahö</em>
+The 10 most frequent `ADV` types:  <em>duré, dzéma, tsa'ẽtè, wei, si, õ, oto, petse, pi'uriwi, Ãne</em>
 
-The 10 most frequent ambiguous lemmas: <em>we</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 7, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>õ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 15, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 1), <em>höiwahö</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 2, <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 1), <em>mare</em> (<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 2), <em>bö</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 2, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>tô</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 10, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>uptabi</em> (<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>wẽ</em> (<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> 3, <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>we</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 7, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>õ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 15, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 1), <em>oto</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 3, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 1), <em>höiwahö</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 2, <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 1), <em>mare</em> (<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 2), <em>bö</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 2, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>tô</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 10, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>uptabi</em> (<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>wẽ</em> (<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> 3, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>wei</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 5, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>õ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 15, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4), <em>Höiwahö</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 2, <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 1), <em>bö</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 2, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>tô</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 10, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>uptabi</em> (<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>wẽ</em> (<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> 2, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>wei</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 5, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>õ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 15, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4), <em>oto</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 3, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 1), <em>Höiwahö</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 2, <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 1), <em>bö</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 2, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>tô</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 10, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>uptabi</em> (<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>wẽ</em> (<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> 2, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>wei</em>
@@ -24,6 +24,9 @@ The 10 most frequent ambiguous types:  <em>wei</em> (<tt><a href="xav_xdt-pos-AD
 * <em>õ</em>
   * <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 15: <em>Ba'õtõ norĩ , e tiha na te ĩnharĩ wa'wa rowahutu'wai ma . Tihai <b>õ</b> di !</em>
   * <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4: <em>Nimame dawedezé hã iwẽ uptabi hã we te sãmra <b>õ</b> di</em>
+* <em>oto</em>
+  * <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 3: <em>" Tane wamhã , <b>oto</b> 'ri tẽme watsi'aba'ré na ! " pi'õ te 'mahö .</em>
+  * <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 1: <em>waʔrata ma wa za <b>oto</b> api zaʔra ni</em>
 * <em>Höiwahö</em>
   * <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 2: <em><b>Höiwahö</b> wa dza we wate simro wa'ranorĩhã</em>
   * <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Höiwahö</b> u te wapté te te ãma 're ãputsi tinho're na hã .</em>
@@ -43,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>wei</em> (<tt><a href="xav_xdt-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.078947 (the average of all parts of speech is 1.294461).
+The form / lemma ratio of `ADV` is 1.078947 (the average of all parts of speech is 1.290598).
 
 The 1st highest number of forms (2) was observed with the lemma “nima”: <em>Nimame, nimamem</em>.
 
@@ -56,17 +59,17 @@ The 3rd highest number of forms (2) was observed with the lemma “we”: <em>we
 `ADV` occurs with 2 feature-value pairs: `Person=3`, `Polarity=Neg`
 
 `ADV` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (81 tokens).
-Examples: <em>duré, dzéma, tsa'ẽtè, wei, si, oto, petse, pi'uriwi, Höiwahö, Niwa</em>
+The most frequent feature combination is `_` (82 tokens).
+Examples: <em>duré, dzéma, tsa'ẽtè, wei, si, oto, petse, pi'uriwi, Ãne, Höiwahö</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 5 different relations: <tt><a href="xav_xdt-dep-advmod.html">advmod</a></tt> (76; 86% instances), <tt><a href="xav_xdt-dep-dislocated.html">dislocated</a></tt> (5; 6% instances), <tt><a href="xav_xdt-dep-advcl.html">advcl</a></tt> (4; 5% instances), <tt><a href="xav_xdt-dep-root.html">root</a></tt> (2; 2% instances), <tt><a href="xav_xdt-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
+`ADV` nodes are attached to their parents using 5 different relations: <tt><a href="xav_xdt-dep-advmod.html">advmod</a></tt> (77; 87% instances), <tt><a href="xav_xdt-dep-dislocated.html">dislocated</a></tt> (5; 6% instances), <tt><a href="xav_xdt-dep-advcl.html">advcl</a></tt> (4; 4% instances), <tt><a href="xav_xdt-dep-root.html">root</a></tt> (2; 2% instances), <tt><a href="xav_xdt-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Parents of `ADV` nodes belong to 5 different parts of speech: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (65; 74% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (19; 22% instances),  (2; 2% instances), <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (1; 1% instances)
+Parents of `ADV` nodes belong to 5 different parts of speech: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (66; 74% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (19; 21% instances),  (2; 2% instances), <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 
-77 (88%) `ADV` nodes are leaves.
+78 (88%) `ADV` nodes are leaves.
 
 5 (6%) `ADV` nodes have one child.
 

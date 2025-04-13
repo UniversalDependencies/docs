@@ -97,9 +97,9 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 22	,	,	PUNCT	_	_	21	punct	_	_
 23	personne	personne	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	25	nsubj	_	_
 24	ne	ne	ADV	_	Polarity=Neg	25	advmod	_	_
-25	sait	savoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+25	sait	savoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	Cxn=Interrogative-WHInfo-Indirect|CxnElt=25:Interrogative-WHInfo-Indirect.Clause
 26	exactement	exactement	ADV	_	_	25	advmod	_	_
-27	comment	comment	ADV	_	PronType=Int	25	obj	_	SpaceAfter=No
+27	comment	comment	ADV	_	PronType=Int	25	obj	_	CxnElt=25:Interrogative-WHInfo-Indirect.WHWord|SpaceAfter=No
 28	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

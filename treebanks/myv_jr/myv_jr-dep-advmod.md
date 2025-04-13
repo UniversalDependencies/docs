@@ -26,7 +26,7 @@ The following 22 pairs of parts of speech are connected with `advmod`: <tt><a hr
 1	―	―	PUNCT	PUNCT	_	4	punct	_	_
 2	«	«	PUNCT	CLB	_	4	punct	_	GTtags=|SpaceAfter=No
 3	Од	од	ADJ	A	_	4	amod	_	_
-4	бороциця	бороциця	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
+4	бороциця	бороциця	NOUN	N	Case=Nom|Definite=Ind|Nomzr=Ag|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 5	!	!	PUNCT	CLB	_	4	punct	_	GTtags=|SpaceAfter=No
 6	»	»	PUNCT	CLB	_	4	punct	_	_
 7	―	―	PUNCT	PUNCT	_	10	punct	_	_
@@ -69,7 +69,7 @@ The following 22 pairs of parts of speech are connected with `advmod`: <tt><a hr
 4	,	,	PUNCT	CLB	_	3	punct	_	_
 5	мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	GTtags=Pers,Sg1,Nom
 6	эщо	ещё	ADV	Adv	AdvType=Tim	8	advmod:tmod	_	GTtags=Err/Lex,Temp
-7	эзинь	а	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Tense=Past|VerbType=Aux	8	aux:neg	_	GTtags=VerbType=Aux,Neg,Ind,Prt1,ScSg1
+7	эзинь	а	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Tense=Past|VerbType=Aux	8	aux	_	GTtags=VerbType=Aux,Neg,Ind,Prt1,ScSg1
 8	учне	учнемс	VERB	V	Connegative=Yes	0	root	_	GTtags=TV,ConNeg
 9	эйсэнк	эйсэ	ADP	Adp	Case=Ine|Number[psor]=Plur|Person[psor]=2	8	obj	_	GTtags=Ine,PxPl2|SpaceAfter=No
 10	!..	^excl..	PUNCT	CLB	_	8	punct	_	_

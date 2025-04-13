@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Imp` (106; 26% of non-empty `Aspect`): <em>aveva, avevano, considerava, trovavano, era, erano, includeva, riguardava, sembrava, trovava</em>
 * `Perf` (299; 74% of non-empty `Aspect`): <em>iniziò, ebbe, dichiarò, diventò, portò, divenne, mise, cominciarono, continuò, crebbe</em>
-* `EMPTY` (1650): <em>affermato, avere, ha, fatto, afferma, detto, sono, far, hanno, avuto</em>
+* `EMPTY` (1649): <em>affermato, avere, ha, fatto, afferma, detto, sono, far, hanno, avuto</em>
 
 <table>
   <tr><th>Paradigm <i>avere</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -44,7 +44,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 * `Imp` (118; 53% of non-empty `Aspect`): <em>era, erano, aveva, avevano, veniva, stavano, venivano, stava, ero, poteva</em>
 * `Perf` (106; 47% of non-empty `Aspect`): <em>fu, venne, vennero, furono, dovettero</em>
-* `EMPTY` (759): <em>è, ha, sono, essere, hanno, stato, può, stata, fosse, aver</em>
+* `EMPTY` (761): <em>è, ha, sono, essere, hanno, stato, può, stata, fosse, aver</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>

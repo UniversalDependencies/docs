@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>xwe</em> (<tt><a href="kmr_mg-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.944444 (the average of all parts of speech is 1.511556).
+The form / lemma ratio of `PRON` is 1.944444 (the average of all parts of speech is 1.510518).
 
 The 1st highest number of forms (9) was observed with the lemma “ew”: <em>Eve, _, ew, ewî, wan, we, wi, wê, wî</em>.
 

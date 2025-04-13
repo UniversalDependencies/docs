@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ga_cadhan-dep-case.html">case</a></tt>.
 
-17 nodes (0%) are attached to their parents as `case:voc`.
+16 nodes (0%) are attached to their parents as `case:voc`.
 
-17 instances of `case:voc` (100%) are right-to-left (child precedes parent).
+16 instances of `case:voc` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `case:voc`: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (16; 94% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (1; 6% instances).
+The following 2 pairs of parts of speech are connected with `case:voc`: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (15; 94% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -26,10 +26,10 @@ The following 2 pairs of parts of speech are connected with `case:voc`: <tt><a h
 2	Bhí	bí	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
 4	a	a	PART	_	PartType=Voc	5	case:voc	_	_
-5	dhaltha	dalta	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	2	vocative	_	SpaceAfter=No
+5	dhaltha	dalta	NOUN	_	Case=Voc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	vocative	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	ach	ach	CCONJ	_	_	8	cc	_	_
-8	cad	is	PRON	_	PronType=Int	2	conj	_	_
+8	cad	cad	PRON	_	PronType=Int	2	conj	_	_
 9	a	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	10	mark:prt	_	_
 10	bhí	bí	VERB	_	Form=Len|Mood=Ind|Tense=Past	8	acl:relcl	_	_
 11	aici	ag	ADP	_	Gender=Fem|Number=Sing|Person=3	10	xcomp:pred	_	_
@@ -67,7 +67,7 @@ The following 2 pairs of parts of speech are connected with `case:voc`: <tt><a h
 18	dol	dul	NOUN	_	VerbForm=Inf	4	parataxis	_	_
 19	díobh	de	ADP	_	Number=Plur|Person=3	18	obl:prep	_	_
 20	'na	i	ADP	_	Number=Plur|Person=3|Poss=Yes	21	case	_	_
-21	ccompraitt	comparáid	NOUN	_	Case=Nom|Form=Ecl|Gender=Fem|Number=Sing	18	obl	_	SpaceAfter=No
+21	ccompraitt	comparáid	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	18	obl	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

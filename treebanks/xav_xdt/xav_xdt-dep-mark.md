@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-26 nodes (2%) are attached to their parents as `mark`.
+27 nodes (2%) are attached to their parents as `mark`.
 
-21 instances of `mark` (81%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.73076923076923.
+22 instances of `mark` (81%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.74074074074074.
 
-The following 5 pairs of parts of speech are connected with `mark`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (10; 38% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> (7; 27% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> (5; 19% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (3; 12% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt>-<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances).
+The following 6 pairs of parts of speech are connected with `mark`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (10; 37% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> (7; 26% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> (5; 19% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (3; 11% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt>-<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-X.html">X</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

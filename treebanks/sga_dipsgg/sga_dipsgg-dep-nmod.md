@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `nmod`: <tt><a href="sga_dipsgg-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="sga_dipsgg-dep-nmod-pre.html">nmod:pre</a></tt>.
 
-38 nodes (9%) are attached to their parents as `nmod`.
+39 nodes (9%) are attached to their parents as `nmod`.
 
-37 instances of `nmod` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.21052631578947.
+38 instances of `nmod` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.17948717948718.
 
-The following 6 pairs of parts of speech are connected with `nmod`: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (27; 71% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (6; 16% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `nmod`: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (28; 72% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (6; 15% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

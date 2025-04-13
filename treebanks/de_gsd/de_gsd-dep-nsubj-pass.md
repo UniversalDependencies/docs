@@ -26,7 +26,7 @@ The following 24 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 1	Dieses	dieser	DET	PDAT	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	det	_	_
 2	Video	Video	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	6	nsubj:pass	_	_
 3	konnte	können	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
-4	angeblich	angeblich	ADV	ADJD	_	5	advmod	_	_
+4	angeblich	angeblich	ADJ	ADJD	Degree=Pos	5	advmod	_	_
 5	nicht	nicht	PART	PTKNEG	Polarity=Neg	6	advmod	_	_
 6	storniert	stornieren	VERB	VVPP	VerbForm=Part	0	root	_	_
 7	werden	werden	AUX	VAINF	VerbForm=Inf|Voice=Pass	6	aux:pass	_	SpaceAfter=No
@@ -43,10 +43,10 @@ The following 24 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 7 1 nsubj:pass	color:blue
 1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj:pass	_	_
 2	wurde	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	aux:pass	_	_
-3	absolut	absolut	ADV	ADJD	_	4	advmod	_	_
-4	gut	gut	ADV	ADJD	_	7	advmod	_	_
+3	absolut	absolut	ADJ	ADJD	Degree=Pos	4	advmod	_	_
+4	gut	gut	ADJ	ADJD	Degree=Pos	7	advmod	_	_
 5	und	und	CCONJ	KON	_	6	cc	_	_
-6	sauber	sauber	ADV	ADJD	_	4	conj	_	_
+6	sauber	sauber	ADJ	ADJD	Degree=Pos	4	conj	_	_
 7	gearbeitet	arbeiten	VERB	VVPP	VerbForm=Part	0	root	_	_
 8	von	von	ADP	APPR	_	10	case	_	_
 9	den	der	DET	ART	Case=Dat|Definite=Def|Number=Plur|PronType=Art	10	det	_	_

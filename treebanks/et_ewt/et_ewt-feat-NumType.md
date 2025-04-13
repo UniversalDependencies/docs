@@ -12,17 +12,17 @@ It occurs with 4 different values: `Card`, `Frac`, `Ord`, `Range`.
 1686 tokens (2%) have a non-empty value of `NumType`.
 553 types (3%) occur at least once with a non-empty value of `NumType`.
 422 lemmas (4%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (1400; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (283; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (1401; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (282; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-1400 <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+1401 <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="et_ewt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (1064; 76%), <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1022; 73%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1017; 73%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="et_ewt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (1065; 76%), <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1028; 73%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1025; 73%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (1341; 96% of non-empty `NumType`): <em>2, 10, 3, 1, 100, kaks, paar, 4, ühe, üks</em>
+* `Card` (1342; 96% of non-empty `NumType`): <em>2, 10, 3, 1, 100, kaks, paar, 4, ühe, üks</em>
 * `Frac` (22; 2% of non-empty `NumType`): <em>poole, kolmandiku, pool, pooled, 3/4, kolmveerand, neljandik, pooleks</em>
 * `Ord` (19; 1% of non-empty `NumType`): <em>4., 9nda, 1., 10, 10ndasse, 11, 15., 18., 1998., 2.</em>
 * `Range` (18; 1% of non-empty `NumType`): <em>3-4, 15-20, 2-3, 4-6, 1-1,5, 13-15, 2-3le, 3-5, 5-6, 50-80</em>
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
   <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Ade</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>2-l</em></td><td></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Com</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>2-ga</em></td><td></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>2-de</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Ine</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>2's</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Ine</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>2's, 2s</em></td><td></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>2-ks</em></td><td></td></tr>
   <tr><td><tt></tt></td><td><em>2, 2)</em></td><td><em>2.</em></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>2</em></td><td></td></tr>
@@ -42,17 +42,17 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 ### `ADJ`
 
-283 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `NumType`.
+282 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (283; 100%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (283; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (283; 100%), <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (278; 98%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (146; 52%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (282; 100%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (282; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (282; 100%), <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (277; 98%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (143; 51%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Card` (2; 1% of non-empty `NumType`): <em>300, 700</em>
-* `Ord` (281; 99% of non-empty `NumType`): <em>esimene, esimese, 3., esimest, 27., teine, teises, 1., 2., 29.</em>
-* `EMPTY` (4952): <em>hea, suur, võimalik, õige, huvitav, head, parem, vana, uus, lihtne</em>
+* `Ord` (280; 99% of non-empty `NumType`): <em>esimene, esimese, 3., esimest, 27., teine, teises, 1., 2., 29.</em>
+* `EMPTY` (4975): <em>hea, suur, võimalik, õige, huvitav, head, parem, vana, uus, lihtne</em>
 
-`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (87) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (86) occur only with one value of `NumType`.
 
 ### `PROPN`
 
@@ -63,7 +63,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Card` (2; 100% of non-empty `NumType`): <em>saku0007</em>
-* `EMPTY` (3948): <em>eesti, saku, eestis, Jumal, ViinaMuri, Neeme, le, tartu, d2xz, tallinna</em>
+* `EMPTY` (3936): <em>eesti, saku, eestis, Jumal, ViinaMuri, Neeme, le, tartu, d2xz, tallinna</em>
 
 ### `SYM`
 

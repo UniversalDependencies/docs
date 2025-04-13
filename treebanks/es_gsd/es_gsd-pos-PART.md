@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Spanish-GSD: POS Tags: `PART`
 
-There are 25 `PART` lemmas (0%), 26 `PART` types (0%) and 39 `PART` tokens (0%).
+There are 26 `PART` lemmas (0%), 27 `PART` types (0%) and 40 `PART` tokens (0%).
 Out of 17 observed tags, the rank of `PART` is: 14 in number of lemmas, 15 in number of types and 16 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>hola, ex, re, co, ir, l, no, not, abandono, adio</em>
 
 The 10 most frequent `PART` types:  <em>Hola, ex, re, L, co, no, not, Gram, Trans, Vamos</em>
 
-The 10 most frequent ambiguous lemmas: <em>ex</em> (<tt><a href="es_gsd-pos-X.html">X</a></tt> 43, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 4, <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>re</em> (<tt><a href="es_gsd-pos-X.html">X</a></tt> 5, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 3, <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>co</em> (<tt><a href="es_gsd-pos-X.html">X</a></tt> 9, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 2, <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>ir</em> (<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> 314, <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> 22, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 2, <tt><a href="es_gsd-pos-DET.html">DET</a></tt> 1), <em>l</em> (<tt><a href="es_gsd-pos-X.html">X</a></tt> 4, <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 2, <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>no</em> (<tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> 1763, <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> 13, <tt><a href="es_gsd-pos-X.html">X</a></tt> 9, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 2), <em>not</em> (<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 2), <em>abandono</em> (<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 1), <em>ficha</em> (<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> 4, <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 1), <em>hoc</em> (<tt><a href="es_gsd-pos-X.html">X</a></tt> 3, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ex</em> (<tt><a href="es_gsd-pos-X.html">X</a></tt> 43, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 4, <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>re</em> (<tt><a href="es_gsd-pos-X.html">X</a></tt> 5, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 3, <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>co</em> (<tt><a href="es_gsd-pos-X.html">X</a></tt> 9, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 2, <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>ir</em> (<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> 314, <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> 22, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 2, <tt><a href="es_gsd-pos-DET.html">DET</a></tt> 1), <em>l</em> (<tt><a href="es_gsd-pos-X.html">X</a></tt> 4, <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 2, <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>no</em> (<tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> 1763, <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> 13, <tt><a href="es_gsd-pos-X.html">X</a></tt> 9, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 2), <em>not</em> (<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 2), <em>abandono</em> (<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 1), <em>de</em> (<tt><a href="es_gsd-pos-ADP.html">ADP</a></tt> 33334, <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> 12, <tt><a href="es_gsd-pos-X.html">X</a></tt> 7, <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> 6, <tt><a href="es_gsd-pos-DET.html">DET</a></tt> 1, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 1), <em>ficha</em> (<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> 4, <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>ex</em> (<tt><a href="es_gsd-pos-X.html">X</a></tt> 42, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 4, <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> 2), <em>re</em> (<tt><a href="es_gsd-pos-X.html">X</a></tt> 5, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 3, <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>L</em> (<tt><a href="es_gsd-pos-X.html">X</a></tt> 3, <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 2, <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>co</em> (<tt><a href="es_gsd-pos-X.html">X</a></tt> 9, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 1), <em>no</em> (<tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> 1568, <tt><a href="es_gsd-pos-X.html">X</a></tt> 8, <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> 6, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 1), <em>not</em> (<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 2), <em>Trans</em> (<tt><a href="es_gsd-pos-PART.html">PART</a></tt> 1, <tt><a href="es_gsd-pos-X.html">X</a></tt> 1), <em>Vamos</em> (<tt><a href="es_gsd-pos-PART.html">PART</a></tt> 1, <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> 1), <em>Vaya</em> (<tt><a href="es_gsd-pos-DET.html">DET</a></tt> 1, <tt><a href="es_gsd-pos-PART.html">PART</a></tt> 1), <em>Vice</em> (<tt><a href="es_gsd-pos-PART.html">PART</a></tt> 1, <tt><a href="es_gsd-pos-X.html">X</a></tt> 1)
 
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>ex</em> (<tt><a href="es_gsd-pos-X.ht
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.040000 (the average of all parts of speech is 1.287914).
+The form / lemma ratio of `PART` is 1.038462 (the average of all parts of speech is 1.291521).
 
 The 1st highest number of forms (2) was observed with the lemma “ir”: <em>Vamos, Vaya</em>.
 
@@ -66,7 +66,7 @@ The 2nd highest number of forms (1) was observed with the lemma “abandono”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “adio”: <em>adios</em>.
 
-`PART` occurs with 2 features: <tt><a href="es_gsd-feat-Polarity.html">Polarity</a></tt> (4; 10% instances), <tt><a href="es_gsd-feat-Foreign.html">Foreign</a></tt> (3; 8% instances)
+`PART` occurs with 2 features: <tt><a href="es_gsd-feat-Foreign.html">Foreign</a></tt> (4; 10% instances), <tt><a href="es_gsd-feat-Polarity.html">Polarity</a></tt> (4; 10% instances)
 
 `PART` occurs with 2 feature-value pairs: `Foreign=Yes`, `Polarity=Neg`
 
@@ -77,13 +77,13 @@ Examples: <em>Hola, ex, re, L, co, Gram, Trans, Vamos, Vaya, Vice</em>
 
 ## Relations
 
-`PART` nodes are attached to their parents using 9 different relations: <tt><a href="es_gsd-dep-amod.html">amod</a></tt> (14; 36% instances), <tt><a href="es_gsd-dep-dep.html">dep</a></tt> (7; 18% instances), <tt><a href="es_gsd-dep-compound.html">compound</a></tt> (5; 13% instances), <tt><a href="es_gsd-dep-advmod.html">advmod</a></tt> (4; 10% instances), <tt><a href="es_gsd-dep-root.html">root</a></tt> (3; 8% instances), <tt><a href="es_gsd-dep-mark.html">mark</a></tt> (2; 5% instances), <tt><a href="es_gsd-dep-obl.html">obl</a></tt> (2; 5% instances), <tt><a href="es_gsd-dep-ccomp.html">ccomp</a></tt> (1; 3% instances), <tt><a href="es_gsd-dep-nmod.html">nmod</a></tt> (1; 3% instances)
+`PART` nodes are attached to their parents using 10 different relations: <tt><a href="es_gsd-dep-amod.html">amod</a></tt> (14; 35% instances), <tt><a href="es_gsd-dep-dep.html">dep</a></tt> (7; 18% instances), <tt><a href="es_gsd-dep-compound.html">compound</a></tt> (5; 13% instances), <tt><a href="es_gsd-dep-advmod.html">advmod</a></tt> (4; 10% instances), <tt><a href="es_gsd-dep-root.html">root</a></tt> (3; 8% instances), <tt><a href="es_gsd-dep-mark.html">mark</a></tt> (2; 5% instances), <tt><a href="es_gsd-dep-obl.html">obl</a></tt> (2; 5% instances), <tt><a href="es_gsd-dep-case.html">case</a></tt> (1; 3% instances), <tt><a href="es_gsd-dep-ccomp.html">ccomp</a></tt> (1; 3% instances), <tt><a href="es_gsd-dep-nmod.html">nmod</a></tt> (1; 3% instances)
 
-Parents of `PART` nodes belong to 6 different parts of speech: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (13; 33% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (12; 31% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (7; 18% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (3; 8% instances),  (3; 8% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1; 3% instances)
+Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (13; 33% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (12; 30% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (7; 18% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (3; 8% instances),  (3; 8% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (1; 3% instances)
 
-14 (36%) `PART` nodes are leaves.
+15 (38%) `PART` nodes are leaves.
 
-22 (56%) `PART` nodes have one child.
+22 (55%) `PART` nodes have one child.
 
 0 (0%) `PART` nodes have two children.
 

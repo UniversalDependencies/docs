@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-nummod.html">nummod</a></tt>.
 
-1692 nodes (2%) are attached to their parents as `nummod:gov`.
+2574 nodes (2%) are attached to their parents as `nummod:gov`.
 
-1628 instances of `nummod:gov` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11052009456265.
+2440 instances of `nummod:gov` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11849261849262.
 
-The following 8 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1657; 98% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (17; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (2519; 98% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (21; 1% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -54,21 +54,21 @@ The following 8 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 nummod:gov	color:blue
-1	<em>	<em>	X	_	_	4	dep	_	SpaceAfter=No
-2	7	7	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	4	nummod:gov	_	_
-3	думных	думный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
-4	царевых	царевъ	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	8	punct	_	_
-6	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	det	_	_
-7	же	же	PART	_	_	6	advmod	_	_
-8	имена	имя	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	4	conj	_	SpaceAfter=No
-9	:	:	PUNCT	_	_	8	punct	_	SpaceAfter=No
-10	</em>	</em>	X	_	_	4	dep	_	NoIndex=Yes
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 nummod:gov	color:blue
+1	а	а	CCONJ	_	_	6	cc	_	norm="а"
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	norm="я"|Decl=X|End=0
+3	за	за	ADP	_	_	5	case	_	norm="за"|check=@
+4	ту	тотъ	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	norm="ту"|Decl=X|End=у|check=@
+5	кѡрѡву	корова	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	norm="кѡрѡву"|Decl=1a|End=у|check=@
+6	взялъ	взяти	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	norm="взялъ"|Decl=X|End=ъл
+7	пол	полъ	NUM	_	Case=Acc|NumForm=Word|NumType=Frac	9	nummod:gov	_	norm="пол"|Decl=X|End=0
+8	четверта	четвертый	NUM	ORD	Case=Gen|Gender=Masc|Number=Sing|NumForm=Word|NumType=Frac|Variant=Short	10	nummod:gov	_	upos="ANUM"|norm="четверта"|Decl=ANUM|End=а
+9	десять	десять	NUM	_	Case=Acc|NumForm=Word|NumType=Card	8	flat	_	norm="десять"|Decl=X|End=ь0
+10	алтынъ	алтынъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	obj	_	norm="алтынъ"|Decl=2|End=ъ0
 
 ~~~
 

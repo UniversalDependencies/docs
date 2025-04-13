@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `compound:lvc`: <tt>
 # visual-style 2	fgColor:white
 # visual-style 2 1 compound:lvc	color:blue
 1	Fikr	fikr	NOUN	_	_	2	compound:lvc	_	_
-2	eliyәm	el	VERB	_	_	0	root	_	_
+2	elirәm	el	VERB	_	_	0	root	_	_
 3	yağış	yağış	NOUN	_	_	4	nsubj	_	_
 4	yağır	yağ	VERB	_	_	2	ccomp	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_

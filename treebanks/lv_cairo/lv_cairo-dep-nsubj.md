@@ -13,7 +13,7 @@ This relation is universal.
 19 instances of `nsubj` (90%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.61904761904762.
 
-The following 6 pairs of parts of speech are connected with `nsubj`: <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-PRON.html">PRON</a></tt> (12; 57% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt> (5; 24% instances), <tt><a href="lv_cairo-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_cairo-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="lv_cairo-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-PROPN.html">PROPN</a></tt> (1; 5% instances).
+The following 7 pairs of parts of speech are connected with `nsubj`: <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-PRON.html">PRON</a></tt> (11; 52% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt> (4; 19% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-PROPN.html">PROPN</a></tt> (2; 10% instances), <tt><a href="lv_cairo-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_cairo-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="lv_cairo-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-DET.html">DET</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -50,18 +50,24 @@ The following 6 pairs of parts of speech are connected with `nsubj`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 nsubj	color:blue
-1	Mans	mans	DET	ps0msnn	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	2:det	LvtbNodeId=a-c70-Cairo-p8s1w1
-2	tētis	tētis	NOUN	ncmsn2	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	LvtbNodeId=a-c70-Cairo-p8s1w2
-3	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	LvtbNodeId=a-c70-Cairo-p8s1w3
-4	foršāks	foršs	ADJ	afmsnnc	Case=Nom|Definite=Ind|Degree=Cmp|Gender=Masc|Number=Sing	0	root	0:root	LvtbNodeId=a-c70-Cairo-p8s1w4
-5	nekā	nekā	SCONJ	cs	_	6	case	6:case	LvtbNodeId=a-c70-Cairo-p8s1w5
-6	tavējais	tavējs	ADJ	armsnyp	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	4	obl	4:obl:nekā	LvtbNodeId=a-c70-Cairo-p8s1w6|SpaceAfter=No
-7	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-c70-Cairo-p8s1w7
+# visual-style 2 1 nsubj	color:blue
+1	Marija	Marija	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	LvtbNodeId=a-c70-Cairo-p9s1w1
+2	ieguva	iegūt	VERB	vmnist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c70-Cairo-p9s1w2
+3	bronzu	bronza	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	2	obj	2:obj	LvtbNodeId=a-c70-Cairo-p9s1w3|SpaceAfter=No
+4	,	,	PUNCT	zc	_	5	punct	6.1:punct	LvtbNodeId=a-c70-Cairo-p9s1w4
+5	Pēteris	Pēteris	PROPN	npmsn2	Case=Nom|Gender=Masc|Number=Sing	2	conj	6.1:nsubj	LvtbNodeId=a-c70-Cairo-p9s1w5
+6	—	–	PUNCT	zd	_	5	punct	6.1:punct	LvtbNodeId=a-c70-Cairo-p9s1w6
+7	sudrabu	sudrabs	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	5	orphan	6.1:obj	LvtbNodeId=a-c70-Cairo-p9s1w7|SpaceAfter=No
+8	,	,	PUNCT	zc	_	10	punct	11.1:punct	LvtbNodeId=a-c70-Cairo-p9s1w8
+9	un	un	CCONJ	cc	_	10	cc	11.1:cc	LvtbNodeId=a-c70-Cairo-p9s1w9
+10	Džeina	Džeina	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	2	conj	11.1:nsubj	LvtbNodeId=a-c70-Cairo-p9s1w10
+11	—	–	PUNCT	zd	_	10	punct	11.1:punct	LvtbNodeId=a-c70-Cairo-p9s1w11
+12	zeltu	zelts	NOUN	ncmva1	Case=Acc|Gender=Masc|Number=Coll	10	orphan	11.1:obj	LvtbNodeId=a-c70-Cairo-p9s1w12|SpaceAfter=No
+13	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-c70-Cairo-p9s1w13
 
 ~~~
 

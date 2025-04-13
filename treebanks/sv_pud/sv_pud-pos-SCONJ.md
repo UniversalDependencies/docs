@@ -75,17 +75,17 @@ Examples: <em>att, som, om, än, medan, eftersom, innan, fastän, huruvida, då<
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (341; 94% instances), <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (19; 5% instances), <tt><a href="sv_pud-dep-case.html">case</a></tt> (4; 1% instances)
+`SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (351; 96% instances), <tt><a href="sv_pud-dep-case.html">case</a></tt> (13; 4% instances)
 
-Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (216; 59% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (79; 22% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (25; 7% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (17; 5% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (14; 4% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (225; 62% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (88; 24% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (24; 7% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (14; 4% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-362 (99%) `SCONJ` nodes are leaves.
+360 (99%) `SCONJ` nodes are leaves.
 
-2 (1%) `SCONJ` nodes have one child.
+4 (1%) `SCONJ` nodes have one child.
 
 The highest child degree of a `SCONJ` node is 1.
 
-Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="sv_pud-dep-conj.html">conj</a></tt> (1; 50% instances), <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (1; 50% instances)
+Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (3; 75% instances), <tt><a href="sv_pud-dep-conj.html">conj</a></tt> (1; 25% instances)
 
-Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (1; 50% instances), <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 50% instances)
+Children of `SCONJ` nodes belong to 1 different parts of speech: <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (4; 100% instances)
 

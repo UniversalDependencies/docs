@@ -10,16 +10,16 @@ This feature is language-specific.
 It occurs with 7 different values: `Direct`, `Ecl`, `Emp`, `HPref`, `Indirect`, `Len`, `VF`.
 Some words have combined values of the feature; 3 combinations have been observed: `Direct|Len`, `Ecl|Emp`, `Emp|Len`.
 
-845 tokens (18%) have a non-empty value of `Form`.
-566 types (30%) occur at least once with a non-empty value of `Form`.
+854 tokens (18%) have a non-empty value of `Form`.
+567 types (31%) occur at least once with a non-empty value of `Form`.
 364 lemmas (33%) occur at least once with a non-empty value of `Form`.
-The feature is used with 11 part-of-speech tags: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (375; 8% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (241; 5% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (90; 2% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (40; 1% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (31; 1% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (22; 0% instances), <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt> (21; 0% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="ga_cadhan-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 11 part-of-speech tags: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (378; 8% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (241; 5% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (91; 2% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (38; 1% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (31; 1% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (22; 0% instances), <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt> (21; 0% instances), <tt><a href="ga_cadhan-pos-AUX.html">AUX</a></tt> (18; 0% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-375 <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> tokens (33% of all `NOUN` tokens) have a non-empty value of `Form`.
+378 <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> tokens (33% of all `NOUN` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `NOUN` and `Form` co-occurred: <tt><a href="ga_cadhan-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (326; 87%), <tt><a href="ga_cadhan-feat-Number.html">Number</a></tt><tt>=Sing</tt> (275; 73%), <tt><a href="ga_cadhan-feat-Case.html">Case</a></tt><tt>=Nom</tt> (241; 64%), <tt><a href="ga_cadhan-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (211; 56%), <tt><a href="ga_cadhan-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (208; 55%).
+The most frequent other feature values with which `NOUN` and `Form` co-occurred: <tt><a href="ga_cadhan-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (329; 87%), <tt><a href="ga_cadhan-feat-Number.html">Number</a></tt><tt>=Sing</tt> (275; 73%), <tt><a href="ga_cadhan-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (242; 64%), <tt><a href="ga_cadhan-feat-Case.html">Case</a></tt><tt>=Nom</tt> (240; 63%), <tt><a href="ga_cadhan-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (214; 57%).
 
 `NOUN` tokens may have the following values of `Form`:
 
@@ -28,22 +28,20 @@ The most frequent other feature values with which `NOUN` and `Form` co-occurred:
 * `Emp` (4; 1% of non-empty `Form`): <em>ainmsean, monairc-si, sonsan, tsáoghailsi</em>
 * `Emp,Len` (1; 0% of non-empty `Form`): <em>chroidhe-se</em>
 * `HPref` (21; 6% of non-empty `Form`): <em>hoidhche, Hiudaighe, Híudaidhe, h-ala, h-anfa, h-éin, haicmeadha, haimsir, haimsire, haithrighe</em>
-* `Len` (229; 61% of non-empty `Form`): <em>bheith, fhios, chur, dhéanamh, shaoghail, thoil, thabhairt, thighearna, thús, bhocsa</em>
+* `Len` (232; 61% of non-empty `Form`): <em>bheith, fhios, chur, dhéanamh, shaoghail, thoil, thabhairt, thighearna, thús, bhocsa</em>
 
 <table>
   <tr><th>Paradigm <i>duine</i></th><th><tt>Ecl</tt></th><th><tt>Len</tt></th></tr>
-  <tr><td><tt><tt><a href="ga_cadhan-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ga_cadhan-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_cadhan-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>dhaoinibh</em></td></tr>
   <tr><td><tt><tt><a href="ga_cadhan-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ga_cadhan-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>dhaoinibh</em></td></tr>
-  <tr><td><tt><tt><a href="ga_cadhan-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ga_cadhan-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_cadhan-feat-NounType.html">NounType</a></tt><tt>=Strong</tt>|<tt><a href="ga_cadhan-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ndáoine</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_cadhan-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ga_cadhan-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_cadhan-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>nduine</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_cadhan-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ga_cadhan-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>dhuine</em></td></tr>
+  <tr><td><tt><tt><a href="ga_cadhan-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ga_cadhan-feat-NounType.html">NounType</a></tt><tt>=Strong</tt>|<tt><a href="ga_cadhan-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ndáoine</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ga_cadhan-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ga_cadhan-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>nduine</em></td><td><em>dhuine</em></td></tr>
 </table>
 
 ### `VERB`
 
 241 <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> tokens (56% of all `VERB` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `VERB` and `Form` co-occurred: <tt><a href="ga_cadhan-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (197; 82%), <tt><a href="ga_cadhan-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (184; 76%), <tt><a href="ga_cadhan-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (172; 71%), <tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (159; 66%).
+The most frequent other feature values with which `VERB` and `Form` co-occurred: <tt><a href="ga_cadhan-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (219; 91%), <tt><a href="ga_cadhan-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (197; 82%), <tt><a href="ga_cadhan-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (184; 76%), <tt><a href="ga_cadhan-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (172; 71%), <tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (159; 66%).
 
 `VERB` tokens may have the following values of `Form`:
 
@@ -65,25 +63,26 @@ The most frequent other feature values with which `VERB` and `Form` co-occurred:
   <tr><td><tt><tt><a href="ga_cadhan-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="ga_cadhan-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td></td><td><em>bheadh, bhiadh</em></td></tr>
   <tr><td><tt><tt><a href="ga_cadhan-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ga_cadhan-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ga_cadhan-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>Bhíos</em></td></tr>
   <tr><td><tt><tt><a href="ga_cadhan-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ga_cadhan-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ga_cadhan-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>Bhamar</em></td></tr>
+  <tr><td><tt><tt><a href="ga_cadhan-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ga_cadhan-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>fhuil</em></td></tr>
   <tr><td><tt><tt><a href="ga_cadhan-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ga_cadhan-feat-PronType.html">PronType</a></tt><tt>=Rel</tt>|<tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td></td><td><em>bhias</em></td></tr>
   <tr><td><tt><tt><a href="ga_cadhan-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ga_cadhan-feat-PronType.html">PronType</a></tt><tt>=Rel</tt>|<tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>atá, tá, a-ta, áta</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ga_cadhan-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td></td><td><em>bheidh, bhéas</em></td></tr>
   <tr><td><tt><tt><a href="ga_cadhan-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>bhí, bhi</em></td></tr>
-  <tr><td><tt><tt><a href="ga_cadhan-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>bhfuil, bhfhuilim</em></td><td><em>fhuil</em></td></tr>
+  <tr><td><tt><tt><a href="ga_cadhan-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>bhfuil, bhfhuilim</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ga_cadhan-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>mbeith</em></td><td></td></tr>
 </table>
 
 ### `PART`
 
-90 <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> tokens (29% of all `PART` tokens) have a non-empty value of `Form`.
+91 <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> tokens (29% of all `PART` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `PART` and `Form` co-occurred: <tt><a href="ga_cadhan-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (89; 99%), <tt><a href="ga_cadhan-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (87; 97%), <tt><a href="ga_cadhan-feat-PartType.html">PartType</a></tt><tt>=Vb</tt> (81; 90%).
+The most frequent other feature values with which `PART` and `Form` co-occurred: <tt><a href="ga_cadhan-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (90; 99%), <tt><a href="ga_cadhan-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (88; 97%), <tt><a href="ga_cadhan-feat-PartType.html">PartType</a></tt><tt>=Vb</tt> (81; 89%).
 
 `PART` tokens may have the following values of `Form`:
 
-* `Direct` (62; 69% of non-empty `Form`): <em>a, do, noch, ro</em>
+* `Direct` (62; 68% of non-empty `Form`): <em>a, do, noch, ro</em>
 * `Direct,Len` (3; 3% of non-empty `Form`): <em>dho</em>
-* `Indirect` (22; 24% of non-empty `Form`): <em>a, d'á, da, dá, 'nar, ar, dar, far, lér', nach</em>
+* `Indirect` (23; 25% of non-empty `Form`): <em>a, d'á, da, dá, 'nar, ar, dar, fa'r, far, lér'</em>
 * `Len` (2; 2% of non-empty `Form`): <em>dho</em>
 * `VF` (1; 1% of non-empty `Form`): <em>dob</em>
 
@@ -95,15 +94,15 @@ The most frequent other feature values with which `PART` and `Form` co-occurred:
 
 ### `PROPN`
 
-40 <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> tokens (18% of all `PROPN` tokens) have a non-empty value of `Form`.
+38 <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> tokens (17% of all `PROPN` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `PROPN` and `Form` co-occurred: <tt><a href="ga_cadhan-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (36; 90%), <tt><a href="ga_cadhan-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31; 78%), <tt><a href="ga_cadhan-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (28; 70%).
+The most frequent other feature values with which `PROPN` and `Form` co-occurred: <tt><a href="ga_cadhan-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (38; 100%), <tt><a href="ga_cadhan-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (36; 95%), <tt><a href="ga_cadhan-feat-Number.html">Number</a></tt><tt>=Sing</tt> (34; 89%), <tt><a href="ga_cadhan-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (26; 68%).
 
 `PROPN` tokens may have the following values of `Form`:
 
-* `Ecl` (10; 25% of non-empty `Form`): <em>n-Éirinn, bhFailghe, bhFréamhainn, gConnachtaibh, mBaile, n-Áird, nAodh, nAssardha, neabhra</em>
+* `Ecl` (10; 26% of non-empty `Form`): <em>n-Éirinn, bhFailghe, bhFréamhainn, gConnachtaibh, mBaile, n-Áird, nAodh, nAssardha, neabhra</em>
 * `HPref` (2; 5% of non-empty `Form`): <em>hAodh, hÉireann</em>
-* `Len` (28; 70% of non-empty `Form`): <em>Bheannchair, Dhia, Dhía, Bhuck, Chairbre, Chesar, Chill, Chomhghaill, Chomhghall, Chriosd</em>
+* `Len` (26; 68% of non-empty `Form`): <em>Bheannchair, Bhuck, Dhia, Dhía, Chairbre, Chesar, Chill, Chomhghaill, Chomhghall, Chriosd</em>
 
 <table>
   <tr><th>Paradigm <i>Éire</i></th><th><tt>Ecl</tt></th><th><tt>HPref</tt></th></tr>
@@ -111,7 +110,7 @@ The most frequent other feature values with which `PROPN` and `Form` co-occurred
   <tr><td><tt><tt><a href="ga_cadhan-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>hÉireann</em></td></tr>
 </table>
 
-`Form` seems to be **lexical feature** of `PROPN`. 93% lemmas (28) occur only with one value of `Form`.
+`Form` seems to be **lexical feature** of `PROPN`. 93% lemmas (25) occur only with one value of `Form`.
 
 ### `ADJ`
 
@@ -152,6 +151,24 @@ The most frequent other feature values with which `NUM` and `Form` co-occurred: 
   <tr><td><tt></tt></td><td><em>ttrí</em></td><td><em>thrí, tri</em></td></tr>
 </table>
 
+### `AUX`
+
+18 <tt><a href="ga_cadhan-pos-AUX.html">AUX</a></tt> tokens (22% of all `AUX` tokens) have a non-empty value of `Form`.
+
+The most frequent other feature values with which `AUX` and `Form` co-occurred: <tt><a href="ga_cadhan-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="ga_cadhan-feat-VerbForm.html">VerbForm</a></tt><tt>=Cop</tt> (18; 100%), <tt><a href="ga_cadhan-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (17; 94%).
+
+`AUX` tokens may have the following values of `Form`:
+
+* `Ecl` (1; 6% of non-empty `Form`): <em>mba</em>
+* `VF` (17; 94% of non-empty `Form`): <em>gurab, darab, dob, dárab</em>
+
+<table>
+  <tr><th>Paradigm <i>is</i></th><th><tt>Ecl</tt></th><th><tt>VF</tt></th></tr>
+  <tr><td><tt><tt><a href="ga_cadhan-feat-PronType.html">PronType</a></tt><tt>=Rel</tt>|<tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>dob</em></td></tr>
+  <tr><td><tt><tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>mba</em></td><td><em>gurab, dárab</em></td></tr>
+  <tr><td><tt><tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>gurab, darab</em></td></tr>
+</table>
+
 ### `PRON`
 
 12 <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> tokens (6% of all `PRON` tokens) have a non-empty value of `Form`.
@@ -162,23 +179,6 @@ The most frequent other feature values with which `PRON` and `Form` co-occurred:
 
 * `HPref` (8; 67% of non-empty `Form`): <em>hé, hiád</em>
 * `Len` (4; 33% of non-empty `Form`): <em>fhéin, mhé, shoin, thú</em>
-
-### `AUX`
-
-11 <tt><a href="ga_cadhan-pos-AUX.html">AUX</a></tt> tokens (14% of all `AUX` tokens) have a non-empty value of `Form`.
-
-The most frequent other feature values with which `AUX` and `Form` co-occurred: <tt><a href="ga_cadhan-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="ga_cadhan-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="ga_cadhan-feat-VerbForm.html">VerbForm</a></tt><tt>=Cop</tt> (11; 100%), <tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6; 55%).
-
-`AUX` tokens may have the following values of `Form`:
-
-* `Ecl` (1; 9% of non-empty `Form`): <em>mba</em>
-* `VF` (10; 91% of non-empty `Form`): <em>gurab, darab, dárab</em>
-
-<table>
-  <tr><th>Paradigm <i>is</i></th><th><tt>Ecl</tt></th><th><tt>VF</tt></th></tr>
-  <tr><td><tt><tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>mba</em></td><td><em>gurab, dárab</em></td></tr>
-  <tr><td><tt><tt><a href="ga_cadhan-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>gurab, darab</em></td></tr>
-</table>
 
 ### `DET`
 
@@ -202,7 +202,6 @@ The most frequent other feature values with which `DET` and `Form` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Form`:
 <tt>VERB --[<tt><a href="ga_cadhan-dep-conj.html">conj</a></tt>]--> VERB</tt> (21; 55%),
-<tt>NOUN --[<tt><a href="ga_cadhan-dep-obl.html">obl</a></tt>]--> PROPN</tt> (2; 67%),
 <tt>NOUN --[<tt><a href="ga_cadhan-dep-vocative.html">vocative</a></tt>]--> NOUN</tt> (2; 67%),
 <tt>NUM --[<tt><a href="ga_cadhan-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (2; 100%),
 <tt>NUM --[<tt><a href="ga_cadhan-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (2; 67%),
@@ -210,5 +209,6 @@ The 10 most frequent relations where parent and child node agree in `Form`:
 <tt>VERB --[<tt><a href="ga_cadhan-dep-xcomp-pred.html">xcomp:pred</a></tt>]--> NUM</tt> (2; 100%),
 <tt>NOUN --[<tt><a href="ga_cadhan-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="ga_cadhan-dep-ccomp.html">ccomp</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="ga_cadhan-dep-xcomp-pred.html">xcomp:pred</a></tt>]--> PROPN</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="ga_cadhan-dep-xcomp-pred.html">xcomp:pred</a></tt>]--> PROPN</tt> (1; 100%),
+<tt>NUM --[<tt><a href="ga_cadhan-dep-conj.html">conj</a></tt>]--> NUM</tt> (1; 100%).
 

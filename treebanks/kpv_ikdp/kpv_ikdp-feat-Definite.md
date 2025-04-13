@@ -43,5 +43,5 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 `ADJ` tokens may have the following values of `Definite`:
 
 * `Ind` (1; 100% of non-empty `Definite`): <em>кутшемке</em>
-* `EMPTY` (99): <em>ас, бур, второй, небыд, бия, выль, дзолясянь, дик, корейскей, кутшем</em>
+* `EMPTY` (97): <em>ас, бур, второй, небыд, бия, выль, дзолясянь, дик, корейскей, кутшем</em>
 

@@ -13,7 +13,7 @@ This relation is universal.
 19 instances of `nsubj` (90%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.33333333333333.
 
-The following 3 pairs of parts of speech are connected with `nsubj`: <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> (12; 57% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (6; 29% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (3; 14% instances).
+The following 4 pairs of parts of speech are connected with `nsubj`: <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> (11; 52% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (6; 29% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (3; 14% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> (1; 5% instances).
 
 
 ~~~ conllu

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `obj`: <tt><a href="sga_dipwbg-dep-obj-infx.html">obj:infx</a></tt>.
 
-22 nodes (5%) are attached to their parents as `obj`.
+23 nodes (5%) are attached to their parents as `obj`.
 
-21 instances of `obj` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.95454545454545.
+22 instances of `obj` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.91304347826087.
 
-The following 4 pairs of parts of speech are connected with `obj`: <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> (13; 59% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> (6; 27% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (2; 9% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-PROPN.html">PROPN</a></tt> (1; 5% instances).
+The following 4 pairs of parts of speech are connected with `obj`: <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> (14; 61% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> (6; 26% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (2; 9% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 4 pairs of parts of speech are connected with `obj`: <tt><a href="
 1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
 2	as	as	PART	_	PartType=Vb	3	compound:prt	_	SpaceAfter=No
 3	ririu	asren	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	0	root	_	SpaceAfter=No
-4	sa	sa	PRON	_	PronType=Emp	3	amod	_	_
+4	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	3	amod	_	_
 5	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	SpaceAfter=No
 6	chumang	cumang	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
 7	dar	tar	ADP	_	AdpType=Prep|Definite=Ind	9	case	_	SpaceAfter=No

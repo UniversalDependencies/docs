@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 2	chan	is	AUX	Wp-in	Polarity=Neg|Tense=Pres	3	cop	_	_
 3	urrainn	urrainn	NOUN	Uf	_	0	root	_	_
 4	do	do	ADP	Sp	_	5	case	_	_
-5	mi	mi	PRON	Pp1s	Number=Sing|Person=1	3	nmod	_	_
+5	mi	mi	PRON	Pp1s	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
 
 ~~~
 
@@ -38,7 +38,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 1 cop	color:blue
 1	an	is	AUX	Wpdqa	Mood=Int|Polarity=Aff|Tense=Pres	2	cop	_	_
-2	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	0	root	_	SpaceAfter=No
+2	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	SpaceAfter=No
 3	?	?	PUNCT	Fg	_	2	punct	_	_
 
 ~~~
@@ -55,7 +55,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 3	iongantach	iongantach	ADJ	Ap	_	0	root	_	_
 4	mar	mar	SCONJ	Cs	_	6	mark	_	_
 5	a	a	PART	Q-r	PartType=Vb|PronType=Rel	6	mark:prt	_	_
-6	chuala	cluinn	VERB	V-s	Tense=Past	3	csubj:cleft	_	_
+6	chuala	cluinn	VERB	V-s	Mood=Ind|Tense=Past|VerbForm=Fin	3	csubj:cleft	_	_
 
 ~~~
 

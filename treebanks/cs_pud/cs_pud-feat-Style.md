@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="cs_pud-pos-ADJ.html
 
 6 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6; 100%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (5; 83%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 83%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 67%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4; 67%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (4; 67%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (4; 67%).
+The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 83%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 67%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4; 67%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (4; 67%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (4; 67%).
 
 `ADJ` tokens may have the following values of `Style`:
 
@@ -30,7 +30,7 @@ The most frequent other feature values with which `ADJ` and `Style` co-occurred:
 
 6 <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `PROPN` and `Style` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6; 100%), <tt><a href="cs_pud-feat-NameType.html">NameType</a></tt><tt>=Geo</tt> (5; 83%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 67%), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (4; 67%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 67%).
+The most frequent other feature values with which `PROPN` and `Style` co-occurred: <tt><a href="cs_pud-feat-NameType.html">NameType</a></tt><tt>=Geo</tt> (5; 83%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 67%), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (4; 67%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 67%).
 
 `PROPN` tokens may have the following values of `Style`:
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `PROPN` and `Style` co-occurre
 
 3 <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `NOUN` and `Style` co-occurred: <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (3; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%).
+The most frequent other feature values with which `NOUN` and `Style` co-occurred: <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (3; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%).
 
 `NOUN` tokens may have the following values of `Style`:
 

@@ -99,4 +99,4 @@ things, or nouns that are pluralia tantum.
 
 * _<b>dvoje</b> / <b>troje</b> boty&nbsp;_ “<b>two</b> / <b>three</b> [pairs of] shoes”;
   as opposed to normal cardinal numbers: _dvě / tři boty&nbsp;_ “two / three shoes”
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:10 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:54 CET -->

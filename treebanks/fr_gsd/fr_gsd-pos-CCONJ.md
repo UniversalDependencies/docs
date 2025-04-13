@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-GSD: POS Tags: `CCONJ`
 
 There are 13 `CCONJ` lemmas (0%), 16 `CCONJ` types (0%) and 10484 `CCONJ` tokens (3%).
-Out of 16 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 15 in number of types and 11 in number of tokens.
+Out of 16 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 15 in number of types and 12 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>et, ou, mais, puis, car, ni, c'est-à-dire, soit, voire, comme</em>
 
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>ou</em> (<tt><a href="fr_gsd-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.230769 (the average of all parts of speech is 1.307955).
+The form / lemma ratio of `CCONJ` is 1.230769 (the average of all parts of speech is 1.308785).
 
 The 1st highest number of forms (3) was observed with the lemma “et”: <em>and, est, et</em>.
 
@@ -79,7 +79,7 @@ Examples: <em>et, ou, mais, puis, car, ni, c'est-à-dire, soit, comme, voire</em
 
 `CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="fr_gsd-dep-cc.html">cc</a></tt> (10443; 100% instances), <tt><a href="fr_gsd-dep-fixed.html">fixed</a></tt> (26; 0% instances), <tt><a href="fr_gsd-dep-conj.html">conj</a></tt> (10; 0% instances), <tt><a href="fr_gsd-dep-advmod.html">advmod</a></tt> (4; 0% instances), <tt><a href="fr_gsd-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (4157; 40% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (3309; 32% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1334; 13% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (966; 9% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (256; 2% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (152; 1% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (114; 1% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (109; 1% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (35; 0% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (24; 0% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (13; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (4168; 40% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (3309; 32% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1323; 13% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (966; 9% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (256; 2% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (152; 1% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (114; 1% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (108; 1% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (35; 0% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (25; 0% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (13; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
 10446 (100%) `CCONJ` nodes are leaves.
 

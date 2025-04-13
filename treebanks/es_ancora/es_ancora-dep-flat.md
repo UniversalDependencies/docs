@@ -33,7 +33,7 @@ The following 31 pairs of parts of speech are connected with `flat`: <tt><a href
 9	reconocía	reconocer	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	0:root	_
 10	Chechu	Chechu	PROPN	np0000p	_	9	nsubj	9:nsubj	MWE=Chechu_Biriukov|MWEPOS=PROPN|ArgTem=arg0:agt|Entity=(NOCOREF:Spec.person-person-1-gstype:spec
 11	Biriukov	Biriukov	PROPN	_	_	10	flat	10:flat	SpaceAfter=No|Entity=NOCOREF:Spec.person)
-12	...	...	PUNCT	fs	PunctType=Comm	9	punct	9:punct	_
+12	...	...	PUNCT	fs	PunctType=Elip	9	punct	9:punct	_
 
 ~~~
 
@@ -70,7 +70,7 @@ The following 31 pairs of parts of speech are connected with `flat`: <tt><a href
 2	-	-	PUNCT	fg	PunctType=Dash	5	punct	5:punct	_
 3	-	-	PUNCT	fg	PunctType=Dash	5	punct	5:punct	_
 4	No	no	ADV	rn	Polarity=Neg	5	advmod	5:advmod	_
-5	quiere	querer	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	quiere	querer	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Interrogative-Polar-Direct|CxnElt=5:Interrogative-Polar-Direct.Clause
 6	ver	ver	VERB	vmn0000	VerbForm=Inf	5	xcomp	5:xcomp	ArgTem=arg1:pat
 7	otra	otro	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	8	det	8:det	_
 8	vez	vez	NOUN	ncfs000	Gender=Fem|Number=Sing	6	obl	6:obl	ArgTem=argM:adv

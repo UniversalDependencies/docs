@@ -11,4 +11,4 @@ The `acl:cleft` relation is used between a clefted phrase and its nominal head.
 Det er ikke bare naturkreftene som truer Venezia \n It is not just nature-powers.def that threaten Venice
 acl:cleft(naturkreftene,truer)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:30 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:13 CET -->

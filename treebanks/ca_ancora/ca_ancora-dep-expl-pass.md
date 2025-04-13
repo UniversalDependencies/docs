@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 2	es	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pass	3:expl:pass	_
 3	treballarà	treballar	VERB	vmif3s0	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	0:root	_
 4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	Entity=(NOCOREF:Spec.date-time-2-gstype:spec
-5	dissabte	dissabte	NOUN	_	AdvType=Tim	3	obl	3:obl	ArgTem=argM:tmp|Entity=NOCOREF:Spec.date)
+5	dissabte	dissabte	NOUN	_	_	3	obl	3:obl	ArgTem=argM:tmp|Entity=NOCOREF:Spec.date)
 6	i	i	CCONJ	cc	_	8	cc	8:cc	_
 7	es	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	obj	8:obj	_
 8	reduiran	reduir	VERB	vmif3p0	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	3	conj	3:conj	_

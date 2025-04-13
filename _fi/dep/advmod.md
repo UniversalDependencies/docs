@@ -39,4 +39,4 @@ advmod(kymmenen-5, noin-4)
 nummod(neliökilometriä-6, kymmenen-5)
 punct(neliökilometriä-6, .-7)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:37 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:19 CET -->

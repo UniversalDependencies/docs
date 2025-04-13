@@ -22,11 +22,11 @@ The following 5 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	Σηκώθην	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
-2	τζαι	jαι	CCONJ	CCONJ	_	4	cc	4:cc	_
-3	πα	bά	ADV	ADV	_	4	advmod	4:advmod	_
-4	σηκώθη	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	conj	1:conj	SpaceAfter=No
-5	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+1	Σηκώθην	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	τζαι	jαι	CCONJ	CCONJ	_	4	cc	_	_
+3	πα	bά	ADV	ADV	_	4	advmod	_	_
+4	σηκώθη	σηκούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	conj	_	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 
@@ -37,11 +37,11 @@ The following 5 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	Των	το	DET	DET	Case=Gen|Gender=Neut|Number=Plur|PronType=Art	2	det	2:det	_
-2	τζαναβαρίων	jαναβάρι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	4	nmod	4:nmod	_
-3	το	το	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
-4	μεντζιλίσι	menjουλίσι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	SpaceAfter=No
-5	.	.	PUNCT	PUNCT	_	4	punct	4:punct	_
+1	Των	το	DET	DET	Case=Gen|Gender=Neut|Number=Plur|PronType=Art	2	det	_	_
+2	τζαναβαρίων	jαναβάρι	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+3	το	το	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	μεντζιλίσι	menjουλίσι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 
@@ -52,14 +52,14 @@ The following 5 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	Χέρκες	χερκές	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	0	root	0:root	_
-2	σ'	σε	ADP	ADP	_	6	case	6:case	_
-3	αφτέdη	αφένdης-αυθέντης	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
-4	του	ο	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	3	nmod	3:nmod	_
-5	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	6:det	_
-6	σταύκο	σταύλος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	1	obl	1:obl	SpaceAfter=No
-7	»	»	PUNCT	PUNCT	_	1	punct	1:punct	SpaceAfter=No
-8	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
+1	Χέρκες	χερκές	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	0	root	_	_
+2	σ'	σε	ADP	ADP	_	6	case	_	_
+3	αφτέdη	αφένdης-αυθέντης	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	6	nmod	_	_
+4	του	ο	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	3	nmod	_	_
+5	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
+6	σταύκο	σταύλος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	1	obl	_	SpaceAfter=No
+7	»	»	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 

@@ -12,18 +12,18 @@ It occurs with 2 different values: `Plur`, `Sing`.
 41196 tokens (65%) have a non-empty value of `Number`.
 10347 types (91%) occur at least once with a non-empty value of `Number`.
 4944 lemmas (79%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (12922; 20% instances), <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (12121; 19% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (5521; 9% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (5109; 8% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2291; 4% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (1844; 3% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (1064; 2% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (322; 1% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (12926; 20% instances), <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (12119; 19% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (5521; 9% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (5109; 8% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2293; 4% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (1840; 3% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (1064; 2% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (322; 1% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-12922 <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Number`.
+12926 <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6969; 54%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (4031; 31% of non-empty `Number`): <em>χώρες, μέλη, χρόνια, κράτη, αρχές, δυνάμεις, θέματα, άτομα, βουλευτές, ομάδες</em>
-* `Sing` (8891; 69% of non-empty `Number`): <em>επιτροπή, κοινοβούλιο, Συμβούλιο, κύριε, ένωση, επιτροπής, Πρόεδρε, έκθεση, ευρώ, κυβέρνηση</em>
+* `Sing` (8895; 69% of non-empty `Number`): <em>επιτροπή, κοινοβούλιο, Συμβούλιο, κύριε, ένωση, επιτροπής, Πρόεδρε, έκθεση, ευρώ, κυβέρνηση</em>
 * `EMPTY` (618): <em>ΗΠΑ, κ., ΕΕ, χλμ., ΟΗΕ, ΕΛΑΣ, π.Χ., 2004, ΕΑΜ, Ν.</em>
 
 <table>
@@ -35,14 +35,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `DET`
 
-12121 <tt><a href="el_gdt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+12119 <tt><a href="el_gdt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (9847; 81%), <tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (9379; 77%), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6594; 54%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (9847; 81%), <tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (9379; 77%), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6593; 54%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (2924; 24% of non-empty `Number`): <em>των, τις, τα, οι, τους, αυτές, αυτά, αυτών, άλλες, άλλα</em>
-* `Sing` (9197; 76% of non-empty `Number`): <em>την, το, της, η, του, τη, ο, τον, μια, ένα</em>
+* `Plur` (2923; 24% of non-empty `Number`): <em>των, τις, τα, οι, τους, αυτές, αυτά, αυτών, άλλες, άλλα</em>
+* `Sing` (9196; 76% of non-empty `Number`): <em>την, το, της, η, του, τη, ο, τον, μια, ένα</em>
 
 <table>
   <tr><th>Paradigm <i>ο</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -113,14 +113,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PRON`
 
-2291 <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
+2293 <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (1913; 84%), <tt><a href="el_gdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1655; 72%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (1915; 84%), <tt><a href="el_gdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1657; 72%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (1004; 44% of non-empty `Number`): <em>που, τους, μας, σας, οποίες, αυτά, εμείς, οποία, οποίων, οποίοι</em>
-* `Sing` (1287; 56% of non-empty `Number`): <em>που, του, της, οποία, αυτό, οποίο, μου, το, οποίος, την</em>
+* `Plur` (1005; 44% of non-empty `Number`): <em>που, τους, μας, σας, οποίες, αυτά, εμείς, οποία, οποίων, οποίοι</em>
+* `Sing` (1288; 56% of non-empty `Number`): <em>που, του, της, οποία, αυτό, οποίο, μου, το, οποίος, την</em>
 
 <table>
   <tr><th>Paradigm <i>μου</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -133,14 +133,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `PROPN`
 
-1844 <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+1840 <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1023; 55%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1023; 56%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (238; 13% of non-empty `Number`): <em>Φιλιππίνες, Τούρκοι, Φιλίππων, αμερικανών, ευρωπαίων, Έλληνες, Ελλήνων, Ευρωπαίοι, Τούρκων, Βούλγαροι</em>
-* `Sing` (1606; 87% of non-empty `Number`): <em>Ελλάδα, Ευρώπη, Τουρκία, Κορέα, Ρωσία, Ομπάμα, Γαλλία, Ευρώπης, Γερμανίας, Κορέας</em>
+* `Sing` (1602; 87% of non-empty `Number`): <em>Ελλάδα, Ευρώπη, Τουρκία, Κορέα, Ρωσία, Ομπάμα, Γαλλία, Ευρώπης, Γερμανίας, Κορέας</em>
 
 <table>
   <tr><th>Paradigm <i>Αθήνα</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -149,7 +149,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Αθήνα</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (591) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (589) occur only with one value of `Number`.
 
 ### `AUX`
 
@@ -206,11 +206,11 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (9119; 95%),
-<tt>NOUN --[<tt><a href="el_gdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3949; 99%),
-<tt>NOUN --[<tt><a href="el_gdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2465; 56%),
+<tt>NOUN --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (9122; 95%),
+<tt>NOUN --[<tt><a href="el_gdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3952; 99%),
+<tt>NOUN --[<tt><a href="el_gdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2468; 57%),
 <tt>VERB --[<tt><a href="el_gdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1299; 89%),
-<tt>PROPN --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (1274; 100%),
+<tt>PROPN --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (1270; 100%),
 <tt>VERB --[<tt><a href="el_gdt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1227; 50%),
 <tt>VERB --[<tt><a href="el_gdt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (969; 52%),
 <tt>NOUN --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (689; 77%),

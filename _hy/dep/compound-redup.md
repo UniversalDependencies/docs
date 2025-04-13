@@ -44,4 +44,4 @@ compound:redup(from-hand, to-hand)
 obl(անցնում, ձեռքից)
 obl(passed, from-hand)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:57 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:39 CET -->

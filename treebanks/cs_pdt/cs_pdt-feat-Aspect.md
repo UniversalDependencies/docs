@@ -10,10 +10,10 @@ This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 Some words have combined values of the feature; 1 combinations have been observed: `Imp|Perf`.
 
-42343 tokens (13%) have a non-empty value of `Aspect`.
+43002 tokens (13%) have a non-empty value of `Aspect`.
 12111 types (23%) occur at least once with a non-empty value of `Aspect`.
 4405 lemmas (16%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (29219; 9% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (10093; 3% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (3031; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (29219; 9% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (10752; 3% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (3031; 1% instances).
 
 ### `VERB`
 
@@ -52,27 +52,27 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 ### `AUX`
 
-10093 <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Aspect`.
+10752 <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8348; 83%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8169; 81%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7903; 78%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7843; 78%), <tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6423; 64%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5790; 57%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=3</tt> (5419; 54%), <tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5319; 53%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9007; 84%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8562; 80%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8169; 76%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7843; 73%), <tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6423; 60%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5810; 54%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=3</tt> (5419; 50%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
-* `Imp` (10093; 100% of non-empty `Aspect`): <em>je, by, jsou, bude, byl, být, jsem, bylo, není, jsme</em>
-* `EMPTY` (660): <em>by, bychom, bych, byste, je</em>
+* `Imp` (10752; 100% of non-empty `Aspect`): <em>je, by, jsou, bude, byl, být, jsem, bylo, není, jsme</em>
+* `EMPTY` (1): <em>je</em>
 
 ### `ADJ`
 
 3031 <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3031; 100%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3031; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2996; 99%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (2100; 69%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2097; 69%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2015; 66%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1545; 51%).
+The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3031; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2996; 99%), <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2100; 69%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (2100; 69%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2097; 69%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2015; 66%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1545; 51%).
 
 `ADJ` tokens may have the following values of `Aspect`:
 
 * `Imp` (1366; 45% of non-empty `Aspect`): <em>vedoucí, rozhodující, ležící, následující, odpovídající, týkající, následujících, chybějící, vynikající, nuceni</em>
 * `Imp,Perf` (91; 3% of non-empty `Aspect`): <em>jmenován, definovány, orientovány, publikováno, informován, jmenováni, prezentována, determinováno, informováni, internován</em>
 * `Perf` (1574; 52% of non-empty `Aspect`): <em>řečeno, připravena, přesvědčen, přesvědčeni, uzavřena, zvolen, rozhodnuto, připraven, zahájena, podepsána</em>
-* `EMPTY` (37743): <em>první, další, české, nové, druhé, poslední, státní, možné, dalších, vlastní</em>
+* `EMPTY` (37736): <em>první, další, české, nové, druhé, poslední, státní, možné, dalších, vlastní</em>
 
 <table>
   <tr><th>Paradigm <i>vyvážený</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -85,7 +85,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2254; 70%),
-<tt>VERB --[<tt><a href="cs_pdt-dep-aux.html">aux</a></tt>]--> AUX</tt> (1834; 59%),
+<tt>VERB --[<tt><a href="cs_pdt-dep-aux.html">aux</a></tt>]--> AUX</tt> (2064; 67%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (715; 56%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (282; 54%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (104; 60%),
@@ -93,5 +93,5 @@ The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (16; 94%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-xcomp.html">xcomp</a></tt>]--> AUX</tt> (14; 100%),
 <tt>AUX --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (12; 100%),
-<tt>ADJ --[<tt><a href="cs_pdt-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (7; 58%).
+<tt>AUX --[<tt><a href="cs_pdt-dep-aux.html">aux</a></tt>]--> AUX</tt> (8; 100%).
 

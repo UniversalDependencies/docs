@@ -11,7 +11,7 @@ It occurs with 3 different values: `Connaught`, `Munster`, `Ulster`.
 
 120 tokens (0%) have a non-empty value of `Dialect`.
 34 types (0%) occur at least once with a non-empty value of `Dialect`.
-29 lemmas (0%) occur at least once with a non-empty value of `Dialect`.
+28 lemmas (0%) occur at least once with a non-empty value of `Dialect`.
 The feature is used with 9 part-of-speech tags: <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (42; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (20; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (18; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (17; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `DET`
@@ -29,7 +29,7 @@ The most frequent other feature values with which `DET` and `Dialect` co-occurre
 
 20 <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Dialect`.
 
-The most frequent other feature values with which `VERB` and `Dialect` co-occurred: <tt><a href="ga_idt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (17; 85%), <tt><a href="ga_idt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (13; 65%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt> (12; 60%).
+The most frequent other feature values with which `VERB` and `Dialect` co-occurred: <tt><a href="ga_idt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (17; 85%), <tt><a href="ga_idt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14; 70%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt> (12; 60%).
 
 `VERB` tokens may have the following values of `Dialect`:
 
@@ -67,8 +67,7 @@ The most frequent other feature values with which `PRON` and `Dialect` co-occurr
 
 <table>
   <tr><th>Paradigm <i>cad_é</i></th><th><tt>Connaught</tt></th><th><tt>Ulster</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>Caidé</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=Cop</tt></tt></td><td></td><td><em>Caidé</em></td></tr>
+  <tr><td><tt></tt></td><td><em>Caidé</em></td><td><em>Caidé</em></td></tr>
 </table>
 
 ### `NOUN`
@@ -116,7 +115,7 @@ The most frequent other feature values with which `AUX` and `Dialect` co-occurre
 
 1 <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Dialect`.
 
-The most frequent other feature values with which `PROPN` and `Dialect` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt> (1; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `PROPN` and `Dialect` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt> (1; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
 
 `PROPN` tokens may have the following values of `Dialect`:
 

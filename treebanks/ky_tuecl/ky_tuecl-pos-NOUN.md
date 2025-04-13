@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Kyrgyz-TueCL: POS Tags: `NOUN`
 
-There are 99 `NOUN` lemmas (34%), 131 `NOUN` types (31%) and 243 `NOUN` tokens (24%).
+There are 98 `NOUN` lemmas (34%), 131 `NOUN` types (31%) and 243 `NOUN` tokens (24%).
 Out of 15 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>китеп, үй, мектеп, бала, дос, текче, унаа, апа, бѳлмѳ, терезе</em>
 
 The 10 most frequent `NOUN` types:  <em>үйдѳ, китеп, китепти, мектепке, бала, апасын, текчесинде, Мугалим, аракет, доктур</em>
 
-The 10 most frequent ambiguous lemmas: <em>аракет</em> (<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> 1), <em>Дениз</em> (<tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> 59, <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 2), <em>кѳк</em> (<tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 2), <em>кеч</em> (<tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> 2, <tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 1), <em>ойло</em> (<tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> 4, <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 1), <em>ээ</em> (<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ky_tuecl-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>аракет</em> (<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> 1), <em>Дениз</em> (<tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> 59, <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 2), <em>кѳк</em> (<tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 2), <em>бой</em> (<tt><a href="ky_tuecl-pos-ADP.html">ADP</a></tt> 1, <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 1), <em>кеч</em> (<tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> 2, <tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 1), <em>ойло</em> (<tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> 4, <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 1), <em>ээ</em> (<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ky_tuecl-pos-PART.html">PART</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>аракет</em> (<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> 2), <em>Дениз</em> (<tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> 54, <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 2), <em>кѳгү</em> (<tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 1)
 
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>аракет</em> (<tt><a href="ky_tu
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.323232 (the average of all parts of speech is 1.451724).
+The form / lemma ratio of `NOUN` is 1.336735 (the average of all parts of speech is 1.466899).
 
 The 1st highest number of forms (6) was observed with the lemma “үй”: <em>үйгѳ, үйдѳ, үйдѳгү, үйдү, үйдүн, үйүнѳ</em>.
 

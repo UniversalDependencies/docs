@@ -30,6 +30,8 @@ The most frequent other feature values with which `PRON` and `Clitic` co-occurre
 
 1 <tt><a href="it_postwita-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Clitic`.
 
+The most frequent other feature values with which `X` and `Clitic` co-occurred: <tt><a href="it_postwita-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%).
+
 `X` tokens may have the following values of `Clitic`:
 
 * `Yes` (1; 100% of non-empty `Clitic`): <em>te</em>

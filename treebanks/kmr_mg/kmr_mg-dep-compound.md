@@ -77,13 +77,13 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 4	,	,	PUNCT	cm	_	5	punct	_	_
 5	Lîbya	Lîbya	PROPN	np	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
 6	hat	hatin	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
-7	dagir kirin	dagirkirin	VERB	vblex	VerbForm=Inf	0	root	_	_
+7	dagir kirin	dagir kirin	VERB	vblex	Typo=Yes|VerbForm=Inf	0	root	_	CorrectForm=dagirkirin
 8	û	û	CCONJ	cnjcoo	_	13	cc	_	_
 9	dagir	dagir	NOUN	n	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	13	nsubj	_	_
 10	kirina	kirin	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	9	compound	_	_
 11	Anatoliya	Anatoliya	PROPN	np	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	10	nmod:poss	_	_
 12	jî	jî	PART	emph	_	13	advmod	_	_
-13	dest pê kir	destpêkirin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	SpaceAfter=No
+13	dest pê kir	dest pê kirin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	SpaceAfter=No
 14	.	.	PUNCT	sent	_	7	punct	_	_
 
 ~~~

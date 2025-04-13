@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Dem`, `Ind`, `Int`, `Prs`.
 
-151770 tokens (15%) have a non-empty value of `PronType`.
-632 types (1%) occur at least once with a non-empty value of `PronType`.
-184 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 16 part-of-speech tags: <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (117712; 12% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (31284; 3% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (867; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (819; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (252; 0% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (202; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (190; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (163; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (152; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (55; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (44; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (18; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (1; 0% instances).
+151765 tokens (15%) have a non-empty value of `PronType`.
+627 types (1%) occur at least once with a non-empty value of `PronType`.
+179 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 15 part-of-speech tags: <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (117712; 12% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (31284; 3% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (867; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (819; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (252; 0% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (202; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (190; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (163; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (152; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (55; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (44; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (18; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `PRON`
 
@@ -124,7 +124,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 * `Ind` (80; 10% of non-empty `PronType`): <em>annar, annan, annað, annars, einn, eins, öðru, vorri, aðra, sama</em>
 * `Int` (1; 0% of non-empty `PronType`): <em>hver</em>
 * `Prs` (28; 3% of non-empty `PronType`): <em>mitt, sér, H., elskuligan, kunnigt, sitt, sæt, vorra, Þess, þriðja</em>
-* `EMPTY` (36340): <em>gott, góða, satt, góður, stór, fyrsta, góð, fyrstu, góðum, heilaga</em>
+* `EMPTY` (36339): <em>gott, góða, satt, góður, stór, fyrsta, góð, fyrstu, góðum, heilaga</em>
 
 <table>
   <tr><th>Paradigm <i>samur</i></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
@@ -165,7 +165,7 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 * `Ind` (52; 21% of non-empty `PronType`): <em>sumar, hver, vor, öllum, Engum, annan, einhverju, ekkert, engi, foldu</em>
 * `Int` (3; 1% of non-empty `PronType`): <em>hver, hold</em>
 * `Prs` (184; 73% of non-empty `PronType`): <em>sinn, sinni, Þú, ég, hann, mér, sér, hún, vorra, minna</em>
-* `EMPTY` (145630): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
+* `EMPTY` (145629): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
 
 <table>
   <tr><th>Paradigm <i>sumar</i></th><th><tt>Prs</tt></th><th><tt>Ind</tt></th></tr>
@@ -210,7 +210,7 @@ The most frequent other feature values with which `PROPN` and `PronType` co-occu
 * `Dem` (20; 11% of non-empty `PronType`): <em>Þetta, Sjálfur, Sá, Sú, Þeir</em>
 * `Ind` (11; 6% of non-empty `PronType`): <em>Enginn, Aðra, Aðrir, Bítlana, Hellismenn, Petrum, Reyðarmúla, Sumar</em>
 * `Prs` (159; 84% of non-empty `PronType`): <em>Hann, Þú, Hans, Þér, Eg, Vér, Ég, Hún, Helga, Mér</em>
-* `EMPTY` (41197): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
+* `EMPTY` (41194): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
 
 <table>
   <tr><th>Paradigm <i>hann</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
@@ -326,18 +326,6 @@ The most frequent other feature values with which `AUX` and `PronType` co-occurr
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>vóru</em></td><td></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>var</em></td><td><em>var</em></td><td></td></tr>
 </table>
-
-### `X`
-
-5 <tt><a href="is_icepahc-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `PronType`.
-
-The most frequent other feature values with which `X` and `PronType` co-occurred: <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="is_icepahc-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4; 80%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt> (3; 60%).
-
-`X` tokens may have the following values of `PronType`:
-
-* `Ind` (3; 60% of non-empty `PronType`): <em>Dominus, Tírus, regnum</em>
-* `Prs` (2; 40% of non-empty `PronType`): <em>Holofernis, Majst</em>
-* `EMPTY` (2267): <em>anno, item, in, domini, et, Dominus, Trankival, Majst, sankti, etc</em>
 
 ### `INTJ`
 

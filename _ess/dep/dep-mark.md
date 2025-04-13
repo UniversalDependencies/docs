@@ -18,4 +18,4 @@ negh na lu ku \n to-eat in-order-to-V Sbrd.Trns _.3Sg
 dep:mark(negh, na)
 dep:mark(to-eat, in-order-to-V)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:05 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:47 CET -->

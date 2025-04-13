@@ -25,10 +25,10 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	_	_	PRON	EX	PronType=Dem	2	expl	2:expl	Discourse=context-background:22->25:2:sem-rpt-181-201+sem-rpt-182,212-213|Lem=*LOWER*|Len=5
 2	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Cxn=Existential-CopPred-ThereExpl|Lem=be|Len=3
 3	_	_	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	Entity=(38-event-new-cf1-2-sgl|Lem=a|Len=2
-4	_	_	NOUN	NN	Number=Sing	2	nsubj	2:nsubj|7:nsubj:pass	Lem=_|Len=10
+4	_	_	NOUN	NN	Number=Sing	2	nsubj	2:nsubj|7:nsubj:pass	CxnElt=2:Existential-CopPred-ThereExpl.Pivot|Lem=_|Len=10
 5	_	_	PRON	WDT	PronType=Rel	7	nsubj:pass	4:ref	Discourse=elaboration-attribute:23->22:0:syn-mdf-176+syn-relcl-177,179|Lem=_|Len=4
 6	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	7:aux:pass	Lem=be|Len=3
-7	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	acl:relcl	4:acl:relcl	Lem=do|Len=4
+7	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	acl:relcl	4:acl:relcl	Lem=do|Len=4|MSeg=do-ne
 8	_	_	ADP	IN	_	11	case	11:case	Lem=_|Len=4
 9	_	_	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	Entity=(39-abstract-new-cf2-3-coref|Lem=_|Len=1
 10	_	_	NOUN	NN	Number=Sing	11	compound	11:compound	Entity=(40-animal-new-cf7-1-coref)|Lem=_|Len=3

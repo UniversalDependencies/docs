@@ -44,4 +44,4 @@ If the complement of the copular verb is a clause, however, then the copular ver
 ~~~
 
 For the cleft-like focus constructions with 係 and 係...(嚟)嘅, see [ccomp]().
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:00 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:42 CET -->

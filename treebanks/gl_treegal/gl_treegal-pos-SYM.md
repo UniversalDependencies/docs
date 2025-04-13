@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Galician-TreeGal: POS Tags: `SYM`
 
 There are 6 `SYM` lemmas (0%), 6 `SYM` types (0%) and 6 `SYM` tokens (0%).
-Out of 16 observed tags, the rank of `SYM` is: 14 in number of lemmas, 14 in number of types and 16 in number of tokens.
+Out of 16 observed tags, the rank of `SYM` is: 15 in number of lemmas, 15 in number of types and 16 in number of tokens.
 
 The 10 most frequent `SYM` lemmas: <em>%, /, manuelmaria@as-pg.com, podo, www.bng-galiza.org, www.novoestatuto.com</em>
 

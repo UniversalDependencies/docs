@@ -12,15 +12,15 @@ udver: '2'
 # UD Urdu UDTB
 
 Language: [Urdu](/ur/index.html) (code: `ur`)<br/>
-Family: Indo-European, Indic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
 The following people have contributed to making this treebank part of UD: Riyaz Ahmad Bhat, Daniel Zeman.
 
 Repository: [UD_Urdu-UDTB](https://github.com/UniversalDependencies/UD_Urdu-UDTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udur_udtb214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udur_udtb215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 4.0
 

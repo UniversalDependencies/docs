@@ -32,4 +32,4 @@ form: _organizadas_; lemma: _organizado_ "organized"
 
 In Spanish, there are two types of possessive adjectives: unstressed (mi, tu, su, nuestro, vuestro) and stressed (mío, tuyo, suyo, nuestro, vuestro). These possessive adjectives agree in gender and number with the noun they modify and are treated as [DET]() within the UD framework.
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:31 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:17 CET -->

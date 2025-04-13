@@ -103,7 +103,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (204; 22% of non-empty `Person`): <em>nobis, me, nos, ego, michi, mi, memet, mihi, nostrum</em>
 * `2` (157; 17% of non-empty `Person`): <em>te, vobis, vos, tibi, tu, vosmet, tui, vestri</em>
 * `3` (560; 61% of non-empty `Person`): <em>se, eius, sibi, ea, eo, eorum, sui, id, eis, eos</em>
-* `EMPTY` (1766): <em>quod, que, qui, quo, quam, quid, qua, quem, cuius, nichil</em>
+* `EMPTY` (1765): <em>quod, que, qui, quo, quam, quid, qua, quem, cuius, nichil</em>
 
 ## Relations with Agreement in `Person`
 

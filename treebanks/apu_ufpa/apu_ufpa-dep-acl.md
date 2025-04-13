@@ -41,7 +41,7 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 10 8 acl	color:blue
 1	Txamary	txamary	CCONJ	XPOS=AUX-FRUST	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	4	cc	_	gloss[pt]=AUX-FRUST-3SG.M.O
 2	nynuwa	nynuwa	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	gloss[pt]=3PL
-3	kuna	kuna	PART	XPOS=não	_	4	advmod:neg	_	gloss[pt]=não
+3	kuna	kuna	PART	XPOS=não	Polarity=Neg	4	advmod	_	gloss[pt]=não
 4	kadinhẽrutene	dinhẽru	NOUN	XPOS=ATRIB-dinheiro-POSSD-3PL	_	0	root	_	gloss[pt]=ATRIB-dinheiro-POSSD-3PL|SpaceAfter=No
 5	,	,	PUNCT	_	_	10	punct	_	_
 6	txamary	txamary	CCONJ	XPOS=AUX-FRUSTR	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	10	cc	_	gloss[pt]=AUX-FRUSTR-3SG.M.O

@@ -7,13 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Old_Irish-DipWBG: POS Tags: `DET`
 
 There are 2 `DET` lemmas (1%), 5 `DET` types (2%) and 9 `DET` tokens (2%).
-Out of 13 observed tags, the rank of `DET` is: 11 in number of lemmas, 10 in number of types and 10 in number of tokens.
+Out of 12 observed tags, the rank of `DET` is: 11 in number of lemmas, 10 in number of types and 11 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>in, a</em>
 
 The 10 most frequent `DET` types:  <em>inna, a, in, ind, na</em>
 
-The 10 most frequent ambiguous lemmas: <em>in</em> (<tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 5, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 2), <em>a</em> (<tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 4, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 4, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 3, <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 1, <tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>in</em> (<tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 5, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 2), <em>a</em> (<tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 4, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 3, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 3, <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> 1, <tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 4, <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> 4, <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 2, <tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>in</em> (<tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 2, <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 1), <em>na</em> (<tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 1)
 
@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="sga_dipwbg-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.500000 (the average of all parts of speech is 1.427807).
+The form / lemma ratio of `DET` is 2.500000 (the average of all parts of speech is 1.430108).
 
 The 1st highest number of forms (4) was observed with the lemma “in”: <em>in, ind, inna, na</em>.
 
@@ -43,8 +43,8 @@ The 2nd highest number of forms (2) was observed with the lemma “a”: <em>a, 
 `DET` occurs with 9 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `PronType=Art`
 
 `DET` occurs with 7 feature combinations.
-The most frequent feature combination is `Case=Acc|Gender=Neut|Number=Plur|PronType=Art` (2 tokens).
-Examples: <em>inna</em>
+The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing|PronType=Art` (2 tokens).
+Examples: <em>in</em>
 
 
 ## Relations

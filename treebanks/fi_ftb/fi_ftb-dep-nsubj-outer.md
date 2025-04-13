@@ -9,25 +9,28 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fi_ftb-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="fi_ftb-dep-nsubj-cop.html">nsubj:cop</a></tt>.
 
-45 nodes (0%) are attached to their parents as `nsubj:outer`.
+29 nodes (0%) are attached to their parents as `nsubj:outer`.
 
-45 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.82222222222222.
+29 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.96551724137931.
 
-The following 4 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (35; 78% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (8; 18% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (23; 79% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (4; 14% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 nsubj:outer	color:blue
-1	Lehtoniittykin	lehtoniitty	NOUN	N,Sg,Nom,Kin	Case=Nom|Clitic=Kin|Number=Sing	4	nsubj:outer	_	_
-2	oli	olla	AUX	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
-3	kulttuurin	kulttuuri	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	4	nsubj:cop	_	_
-4	muovaama	muovata	VERB	V,PcpAg,Sg,Nom	Case=Nom|Number=Sing|PartForm=Agt|VerbForm=Part	0	root	_	_
-5	.	.	PUNCT	Pun	_	4	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 nsubj:outer	color:blue
+1	Keskeinen	keskeinen	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	2	amod	_	_
+2	ongelma	ongelma	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	5	nsubj:outer	_	_
+3	on	olla	AUX	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+4	,	,	PUNCT	Pun	_	5	punct	_	_
+5	suostuuko	suostua	VERB	V,Act,Ind,Pres,Sg3,Ko	Clitic=Ko|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	hän	hän	PRON	Pron,Pers,Sg3,Nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj:cop	_	_
+7	ehdokkaaksi	ehdokas	NOUN	N,Sg,Tra	Case=Tra|Number=Sing	5	nmod	_	_
+8	.	.	PUNCT	Pun	_	7	punct	_	_
 
 ~~~
 
@@ -63,7 +66,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 8	,	,	PUNCT	Pun	_	7	punct	_	_
 9	oli	olla	AUX	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	_
 10	että	että	SCONJ	Pcle,CS	_	16	mark	_	_
-11	hänen	hän	DET	Pron,Pers,Sg3,Gen	Case=Gen|Number=Sing|Person=3|PronType=Prs	12	det	_	_
+11	hänen	hän	PRON	Pron,Pers,Sg3,Gen	Case=Gen|Number=Sing|Person=3|PronType=Prs	12	nmod:poss	_	_
 12	hallituksensa	hallitus	NOUN	N,Sg,Nom,Px3	Case=Nom|Number=Sing|Person[psor]=3	16	nsubj:cop	_	_
 13	on	olla	AUX	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	_
 14	vannoutunut	vannoutunut	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	16	amod	_	_

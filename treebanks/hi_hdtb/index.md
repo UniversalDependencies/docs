@@ -12,15 +12,15 @@ udver: '2'
 # UD Hindi HDTB
 
 Language: [Hindi](/hi/index.html) (code: `hi`)<br/>
-Family: Indo-European, Indic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
 The following people have contributed to making this treebank part of UD: Riyaz Ahmad Bhat, Daniel Zeman.
 
 Repository: [UD_Hindi-HDTB](https://github.com/UniversalDependencies/UD_Hindi-HDTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhi_hdtb214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhi_hdtb215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -79,7 +79,6 @@ pages={14--17},
 year={2009}
 }
 </pre>
-
 
 
 # Statistics of UD Hindi HDTB

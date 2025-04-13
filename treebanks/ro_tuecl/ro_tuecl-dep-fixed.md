@@ -34,7 +34,7 @@ The following 17 pairs of parts of speech are connected with `fixed`: <tt><a hre
 10	mergeți	merge	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 11	până	până	SCONJ	_	Polarity=Pos	13	case	_	_
 12	în	în	ADP	_	AdpType=Prep|Case=Acc	11	fixed	_	_
-13	mall	mall	NOUN	_	Degree=Pos|Foreign=Yes|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No|Lang=en
+13	mall	mall	NOUN	_	Foreign=Yes|Number=Sing	10	obl	_	SpaceAfter=No|Lang=en
 14	???	???	PUNCT	_	_	4	punct	_	_
 
 ~~~

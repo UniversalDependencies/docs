@@ -48,7 +48,7 @@ The following 4 pairs of parts of speech are connected with `mark:prt`: <tt><a h
 2	tú	tú	PRON	_	Number=Sing|Person=2	1	nsubj	_	_
 3	so	seo	PRON	_	PronType=Dem	1	obj	_	_
 4	gu	go	PART	_	PartType=Ad	5	mark:prt	_	_
-5	fírinneach	fírinneach	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	advmod	_	SpaceAfter=No
+5	fírinneach	fírinneach	ADJ	_	Degree=Pos	1	advmod	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
 
 ~~~
@@ -63,7 +63,7 @@ The following 4 pairs of parts of speech are connected with `mark:prt`: <tt><a h
 1	Ní	is	AUX	_	Polarity=Neg|Tense=Pres|VerbForm=Cop	4	cop	_	_
 2	ar	ar	ADP	_	_	4	case	_	_
 3	a	a	DET	_	Number=Plur|Person=3|Poss=Yes	4	nmod:poss	_	_
-4	sonsan	son	NOUN	_	Case=Nom|Form=Emp|Number=Sing	0	root	_	_
+4	sonsan	son	NOUN	_	Case=Nom|Definite=Def|Form=Emp|Number=Sing	0	root	_	_
 5	amháin	amháin	ADJ	_	Degree=Pos	4	amod	_	_
 6	do	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	7	mark:prt	_	_
 7	ním	déan	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	4	csubj:cleft	_	_
@@ -74,14 +74,14 @@ The following 4 pairs of parts of speech are connected with `mark:prt`: <tt><a h
 12	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
 13	gcéudna	céanna	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	18	advcl	_	_
 14	ar	ar	ADP	_	PrepForm=Cmpd	17	case	_	_
-15	son	son	NOUN	_	Case=Nom|Number=Sing|PrepForm=Cmpd	14	fixed	_	_
+15	son	son	NOUN	_	Case=Nom|Definite=Def|Number=Sing|PrepForm=Cmpd	14	fixed	_	_
 16	na	an	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	17	det	_	_
 17	ndáoine	duine	NOUN	_	Case=Gen|Definite=Def|Form=Ecl|Gender=Masc|NounType=Strong|Number=Plur	4	conj	_	_
 18	chreidfios	creid	VERB	_	Mood=Ind|Tense=Fut	17	acl:relcl	_	_
 19	ionnam	i	ADP	_	Number=Sing|Person=1	18	obl:prep	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	23	punct	_	_
 21	tré	trí	ADP	_	_	23	case	_	_
-22	na	an	DET	_	Number=Plur|Person=3|Poss=Yes	23	nmod:poss	_	_
+22	na	a	DET	_	Number=Plur|Person=3|Poss=Yes	23	nmod:poss	_	_
 23	mbreithirsean	briathar	NOUN	_	Case=Nom|Definite=Def|Form=Ecl,Emp|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 24	:	:	PUNCT	_	_	27	punct	_	SpacesAfter=\n
 25	Dochum	Chun	ADP	_	_	27	case	_	_
@@ -95,7 +95,7 @@ The following 4 pairs of parts of speech are connected with `mark:prt`: <tt><a h
 33	atá	bí	VERB	_	Form=Direct|Mood=Ind|PronType=Rel|Tense=Pres	27	advcl	_	_
 34	tusa	tusa	PRON	_	Number=Sing|Person=2|PronType=Emp	33	nsubj	_	_
 35	a	a	PART	_	PartType=Voc	36	case:voc	_	_
-36	athuir	athair	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	33	vocative	_	_
+36	athuir	athair	NOUN	_	Case=Voc|Definite=Def|Gender=Masc|Number=Sing	33	vocative	_	_
 37	ionnamsa	i	ADP	_	Number=Sing|Person=1|PronType=Emp	33	xcomp:pred	_	SpaceAfter=No
 38	,	,	PUNCT	_	_	39	punct	_	_
 39	agus	agus	CCONJ	_	_	40	cc	_	_
@@ -110,7 +110,7 @@ The following 4 pairs of parts of speech are connected with `mark:prt`: <tt><a h
 48	gcédna	céanna	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	45	obl	_	_
 49	na	i	ADP	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	50	case	_	_
 50	naon	aon	NUM	_	Form=Ecl|NumType=Card	45	xcomp:pred	_	_
-51	ionnuinne	i	ADP	_	Number=Plur|Person=1	50	obl:prep	_	SpaceAfter=No
+51	ionnuinne	i	ADP	_	Number=Plur|Person=1|PronType=Emp	50	obl:prep	_	SpaceAfter=No
 52	:	:	PUNCT	_	_	55	punct	_	_
 53	dochum	chun	SCONJ	_	_	55	mark	_	_
 54	gu	go	SCONJ	_	_	55	mark:prt	_	_
@@ -118,7 +118,7 @@ The following 4 pairs of parts of speech are connected with `mark:prt`: <tt><a h
 56	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	57	det	_	_
 57	sáoghal	saol	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	55	nsubj	_	SpaceAfter=No
 58	,	,	PUNCT	_	_	55	punct	_	_
-59	gurab	is	AUX	_	Tense=Pres|VerbForm=Cop	60	cop	_	_
+59	gurab	is	AUX	_	Form=VF|Tense=Pres|VerbForm=Cop	60	cop	_	_
 60	tusa	tú	PRON	_	Number=Sing|Person=2|PronType=Emp	55	ccomp	_	_
 61	dho	a	PART	_	Form=Direct,Len|PartType=Vb|PronType=Rel	62	nsubj	_	_
 62	chuir	cuir	VERB	_	Form=Len|Mood=Ind|Tense=Past	60	csubj:cleft	_	_

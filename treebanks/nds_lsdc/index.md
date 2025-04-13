@@ -12,15 +12,15 @@ udver: '2'
 # UD Low Saxon LSDC
 
 Language: [Low Saxon](/nds/index.html) (code: `nds`)<br/>
-Family: Indo-European, Germanic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.8 release.
 
 The following people have contributed to making this treebank part of UD: Janine Siewert.
 
 Repository: [UD_Low_Saxon-LSDC](https://github.com/UniversalDependencies/UD_Low_Saxon-LSDC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnds_lsdc214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnds_lsdc215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -153,15 +153,15 @@ note = {accepted}
 </ul>
 
 <ul>
-<li>This corpus contains 63 lemmas tagged as pronouns (PRON): al, alle, allens, alles, allybeide, ander, anders, dat, de, dee, den, disse, dit, du, dyn, dår, dê, elk, elkeyn, en, enander, et, eyn, eynander, eyner, eynig, geyn, he, hee, ichts, ik, jenne, jeyde, jy, keyn, keynen, keynminske, man, mekare, my, myn, männig, niks, nüms, se, see, sik, uns, us, veale, wat, wee, wek, wekke, wekker, wel, welk, wer, weynig, wy, y, ydereyn, yts</li>
+<li>This corpus contains 44 lemmas tagged as pronouns (PRON): al, allebeide, allens, alles, ander, dat, dee, disse, dit, du, dyn, dår, elk, elkeyn, et, eyn, eynander, eyner, eynig, geyn, hee, ichts, ik, jenne, jy, keyn, keynminske, man, mekare, my, myn, männig, niks, nüms, see, sik, uns, wat, wee, wek, wy, yder, ydereyn, yts</li>
 </ul>
 
 <ul>
-<li>This corpus contains 39 lemmas tagged as determiners (DET): al, alle, allerley, das, dat, de, dee, dei, den, desülve, disse, dit, dyn, düsse, düür, ear, een, elk, en, ergenden, et, eyn, eynig, geyn, het, höär, ieder, juw, keyn, myn, männig, neyn, syn, sük, un, uns, unse, yder, −</li>
+<li>This corpus contains 25 lemmas tagged as determiners (DET): al, allerley, de, dee, desülve, disse, dyn, ear, elk, en, ergenden, et, eyn, eynig, geyn, juw, keyn, myn, männig, neyn, syn, sük, uns, yder, −</li>
 </ul>
 
 <ul>
-<li>Out of the above, 19 lemmas occurred sometimes as PRON and sometimes as DET: al, alle, dat, de, dee, den, disse, dit, dyn, elk, en, et, eyn, eynig, geyn, keyn, myn, männig, uns</li>
+<li>Out of the above, 14 lemmas occurred sometimes as PRON and sometimes as DET: al, dee, disse, dyn, elk, et, eyn, eynig, geyn, keyn, myn, männig, uns, yder</li>
 </ul>
 
 <ul>
@@ -205,12 +205,12 @@ note = {accepted}
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: olde, ganse, groute, ander, andere, gode, grout, houge, lest, olden</li>
+      <li>ADJ: olde, ganse, groute, ander, gode, grout, houge, lest, olden, andere</li>
       <li>ADJ-Part: terreatene, vordörde</li>
       <li>DET: de, der, en, ne, dee, syne, eyne, myn, syn, düsse</li>
       <li>NOUN: vrouwe, tyd, stad, döäre, syde, hand, werld, nacht, aerde, dochter</li>
       <li>NUM: eyne</li>
-      <li>PRON: see, dee, ear, höär, haar, alle, diaser, mynde</li>
+      <li>PRON: see, dee, ear, höär, haar, andere, diaser, mynde, änder</li>
       <li>PROPN: Hente, CDU, Havel, Luoden-heide, Marigge, Nicolaikarke, Slaumayerske, St., Trina</li>
     </ul>
   </li>
@@ -219,10 +219,10 @@ note = {accepted}
 <ul>
   <li>Fem,Masc
     <ul>
-      <li>ADJ: Golden, heyle, lest, olde, olden, smalle, vorweerden, weinig</li>
+      <li>ADJ: olde, Golden, heyle, lest, olden, smalle, vorweerden, weinig</li>
       <li>ADJ-Part: vorweerden</li>
       <li>DET: de, dee, en, Eynes, des, dissen, gyn, ne</li>
-      <li>NOUN: tyd, heyrskop, nachts, olde, tyden, Ploege, gek, gråten, kansen, last</li>
+      <li>NOUN: tyd, heyrskop, nachts, tyden, Ploege, gek, gråten, kansen, last, leavtyden</li>
       <li>PRON: dee, eyne, Geyn, ander, andere, eyn, wek</li>
       <li>PROPN: Strüwingken</li>
     </ul>
@@ -257,7 +257,7 @@ note = {accepted}
       <li>NOUN: dag, man, god, her, buur, åvend, doud, junge, möller, kearl</li>
       <li>NUM: eynen, veer</li>
       <li>PRON: hee, dee, em, den, man, hum, en, üm, iame, eyner</li>
-      <li>PROPN: Hiärmen, Andrees, Bennad, Claus, Friedrich, God, Gravenes, Harms, Hein, Henrick</li>
+      <li>PROPN: Hiärmen, Andrees, Bennad, Claus, Friedrich, Gravenes, Harms, Hein, Henrick, Krisjaon</li>
     </ul>
   </li>
 </ul>
@@ -266,9 +266,9 @@ note = {accepted}
   <li>Masc,Neut
     <ul>
       <li>ADJ: krütslike, olde, vorstandig</li>
-      <li>DET: keyn, de, Alle, en, neyn, synen</li>
+      <li>DET: keyn, de, Alle, al, en, neyn, synen</li>
       <li>NOUN: menske, minske, minsken, bast, hokuspokus, lyv, mensken, minsker, noorden, vlas</li>
-      <li>PRON: al, geyn</li>
+      <li>PRON: geyn</li>
     </ul>
   </li>
 </ul>
@@ -281,8 +281,8 @@ note = {accepted}
       <li>DET: dat, en, et, de, syn, myn, det, dem, 'n, den</li>
       <li>NOUN: lüde, huus, kinder, mål, geld, ougen, woord, ende, jår, leaven</li>
       <li>NUM: eyn, eynen, twey</li>
-      <li>PRON: et, dat, wat, niks, det, alles, allens, al, dee, dit</li>
-      <li>PROPN: Eykertyn, Grote-Oog, endje</li>
+      <li>PRON: et, dat, wat, niks, det, alles, allens, dee, dit, nist</li>
+      <li>PROPN: Eykertyn, Grote-Oog</li>
     </ul>
   </li>
 </ul>
@@ -295,14 +295,14 @@ note = {accepted}
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: olden, beiden, beide, gode, olde, andere, lange, anderen, eyrsten, goden</li>
+      <li>ADJ: olden, beiden, beide, gode, olde, andere, lange, eyrsten, goden, grouten</li>
       <li>ADJ-Part: vordörde, vöärgånde</li>
       <li>AUX: hadden, weren, sint, sünt, willet, hebbet, köänet, hebben, wassen, kunnen</li>
       <li>DET: de, dee, syne, den, alle, eare, keyne, myn, syn, uw</li>
       <li>NOUN: lüde, kinder, ougen, dage, buren, dagen, jåren, minsken, tyden, dinge</li>
       <li>NUM: dree'en, veer</li>
       <li>PRON: see, wy, dee, jy, sik, juw, uns, uus, alle, y</li>
-      <li>PROPN: Berbiessies, Drüüksken, Dörchläuchten</li>
+      <li>PROPN: Berbiessies, Drüüksken, Dörchläuchten, Slaumayers</li>
       <li>VERB: saeten, sean, hebbet, gåt, hebben, hevvet, kaemen, ståt, doot, gungen</li>
     </ul>
   </li>
@@ -322,14 +322,14 @@ note = {accepted}
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: olde, goden, groute, grouten, eyrste, ganse, gode, old, ander, andere</li>
+      <li>ADJ: olde, goden, grouten, groute, eyrste, ganse, gode, old, heyle, olden</li>
       <li>ADJ-Part: Ofgeloupen, bedrämmelden, gegeaven, gemästed, gepokkeneerden, köften, terreatene, terspleaten, uutgereaten, uutsochten</li>
-      <li>AUX: is, was, het, hadde, weer, kan, wil, wul, kun, sal</li>
+      <li>AUX: is, was, het, hadde, weer, kan, wil, kun, wul, sal</li>
       <li>DET: de, en, den, dat, et, dem, myn, syn, dee, der</li>
       <li>NOUN: dag, vrouwe, man, tyd, god, her, buur, åvend, doud, huus</li>
       <li>NUM: eynen, eyn, eyne</li>
       <li>PRON: ik, hee, et, dat, my, dee, wat, sik, see, em</li>
-      <li>PROPN: Pölz, Hiärmen, Anna, Koch, Andries, Gassen, Jesus, Willem, Hein, Diekes</li>
+      <li>PROPN: Pölz, Hiärmen, Anna, Koch, Andries, Gassen, Jesus, Willem, Hein, Annegyn</li>
       <li>VERB: hadde, sea, kam, het, sead, segt, gung, geit, kaem, segge</li>
     </ul>
   </li>
@@ -347,8 +347,8 @@ note = {accepted}
       <li>DET: de, en, den, dat, et, syn, syne, dee, myn, ne</li>
       <li>NOUN: dag, åvend, tyd, werld, woord, geld, leaven, ouge, ougen, dage</li>
       <li>NUM: veer, dree, eynen, twaalv, twey</li>
-      <li>PRON: dat, wat, et, niks, see, dee, den, en, ne, al</li>
-      <li>PROPN: Eykertyn, Garrelt, dalailama, endje, weag</li>
+      <li>PRON: dat, wat, et, niks, see, dee, den, en, andere, ne</li>
+      <li>PROPN: Eykertyn, Garrelt, dalailama</li>
     </ul>
   </li>
 </ul>
@@ -372,10 +372,10 @@ note = {accepted}
     <ul>
       <li>ADJ: besten, goden, eyrsten, olden, anderen, grouten, grönen, leven, minste, 31.</li>
       <li>DET: dem, der, den, 'n, m, eynem, synem, 'm, dear, mynem</li>
-      <li>NOUN: tyd, doude, möller, dag, ende, heyren, houpe, lande, ougen, profeten</li>
+      <li>NOUN: tyd, doude, möller, dag, ende, god, heyren, houpe, lande, ougen</li>
       <li>NUM: eyne, eynen, veer</li>
       <li>PRON: em, iame, dem, ear, öäme, iam, mik, my, nen, öäm</li>
-      <li>PROPN: God, Marigge, Nicolaikarke</li>
+      <li>PROPN: Marigge, Nicolaikarke</li>
     </ul>
   </li>
 </ul>
@@ -395,13 +395,13 @@ note = {accepted}
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: olde, leve, old, beiden, gode, groute, olden, ander, beide, ganse</li>
+      <li>ADJ: olde, leve, old, beiden, gode, groute, olden, beide, ganse, grouten</li>
       <li>ADJ-Part: köften, terreatene, vordraides, vorvealende</li>
-      <li>DET: de, en, dat, dee, myn, et, ne, syn, keyn, syne</li>
+      <li>DET: de, en, dat, myn, dee, et, ne, syn, keyn, syne</li>
       <li>NOUN: lüde, vrouwe, her, man, God, buur, doud, junge, kearl, vader</li>
       <li>NUM: tein, eyn</li>
       <li>PRON: ik, hee, see, dee, et, dat, wy, y, du, wat</li>
-      <li>PROPN: Hiärmen, Andrees, Gravenes, Heem, Hein, Henrick, Jouke, Krisjaon, Lulef, Röyverbarg</li>
+      <li>PROPN: Hiärmen, Andrees, Gravenes, Heem, Hein, Henrick, Jouke, Krisjaon, Lulef, Slaumayerske</li>
     </ul>
   </li>
 </ul>
@@ -422,7 +422,7 @@ note = {accepted}
 <ul>
   <li>Ind
     <ul>
-      <li>DET: en, ne, eyne, eynen, eyn, nen, den, e, eynem, eynes</li>
+      <li>DET: en, ne, eyne, eynen, eyn, nen, den, e, eynem, 'm</li>
     </ul>
   </li>
 </ul>
@@ -438,7 +438,7 @@ note = {accepted}
   <li>Cmp
     <ul>
       <li>ADJ: meyr, beater, wyder, naeger, Later, lever, länger, minder, slechter, vröer</li>
-      <li>ADV: meyr, leverst</li>
+      <li>ADV: meyr, eyrder</li>
     </ul>
   </li>
 </ul>
@@ -446,9 +446,9 @@ note = {accepted}
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: good, gans, olde, recht, goden, richtig, doud, grouten, lange, vul</li>
+      <li>ADJ: good, gans, olde, recht, goden, richtig, grouten, doud, vul, bange</li>
       <li>ADJ-Part: vorkeyrd, vorknüpped, Doudeslån, anedån, anvroaren, anweasen, bedrämmelden, bekend, egolded, ervroid</li>
-      <li>ADV: völle, heyldal, lange, stille, tovrea, veal, vial</li>
+      <li>ADV: völle, lange, heyldal, seyre, stille, tovrea, veal, vial</li>
     </ul>
   </li>
 </ul>
@@ -495,7 +495,7 @@ note = {accepted}
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: is, was, het, hadde, weer, kan, wil, sint, kun, wul</li>
+      <li>AUX: is, was, het, hadde, weer, kan, wil, sint, kun, hadden</li>
       <li>VERB: hadde, sea, kam, het, sead, segt, gung, geit, segge, kaem</li>
     </ul>
   </li>
@@ -527,7 +527,7 @@ note = {accepted}
   <li>Past
     <ul>
       <li>ADJ-Part: vorkeyrd, vorknüpped, Doudeslån, Ofgeloupen, anedån, anvroaren, anweasen, bedrämmelden, bekend, dalevyrd</li>
-      <li>AUX: was, hadde, weer, west, kun, hadden, wul, weren, had, kon</li>
+      <li>AUX: was, hadde, weer, west, kun, hadden, weren, wul, had, kon</li>
       <li>AUX-Inf: west</li>
       <li>AUX-Part: west, worden, ewesd, must, weasen, ewest, kund, möcht, müst, wesd</li>
       <li>VERB: hadde, sea, kam, sead, gung, kaem, stund, had, kwam, sagde</li>
@@ -586,7 +586,7 @@ note = {accepted}
 <ul>
   <li>Ind
     <ul>
-      <li>DET: eyn, eyne, eynem, eynige, ergendeyn, männig, sük, sükke</li>
+      <li>DET: eyn, eyne, eynem, eynes, eynige, mannig, männig, ergendeyn, eynen, sük</li>
       <li>PRON: man, wat, anderen, eyne, eyner, eyn, andere, men, ander, eynen</li>
     </ul>
   </li>
@@ -611,7 +611,7 @@ note = {accepted}
 <ul>
   <li>Int
     <ul>
-      <li>PRON: wat, wee, wel, Hwekke, Wekke, Wer, hwat, hwekker, wen</li>
+      <li>PRON: wat, wee, wel, wer, Hwekke, Wekke, hwat, hwekker, wen</li>
     </ul>
   </li>
 </ul>
@@ -661,8 +661,8 @@ note = {accepted}
 <ul>
   <li>Tot
     <ul>
-      <li>DET: alle, olle, elken, ydem, yder, ydere, allen, elke</li>
-      <li>PRON: alle, al, alles, allens, allers, allet, olles, ydereyn, Elkeyn, allen</li>
+      <li>DET: alle, al, olle, alles, elken, ydem, yder, ydere, allen, elke</li>
+      <li>PRON: alle, alles, allens, al, allers, allet, olles, ydereyn, Elkeyn, allen</li>
     </ul>
   </li>
 </ul>
@@ -934,21 +934,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (3)</li>
       <li>VERB--NOUN-Acc (4)</li>
       <li>VERB--NOUN-Dat (2)</li>
-      <li>VERB--NOUN-Nom (309)</li>
-      <li>VERB--NOUN-Nom-ADP(aver) (1)</li>
+      <li>VERB--NOUN-Nom (308)</li>
       <li>VERB--PRON (5)</li>
       <li>VERB--PRON-Acc (4)</li>
       <li>VERB--PRON-Acc,Dat (6)</li>
-      <li>VERB--PRON-Nom (859)</li>
+      <li>VERB--PRON-Nom (862)</li>
+      <li>VERB-Inf--NOUN (1)</li>
       <li>VERB-Inf--NOUN-Acc (2)</li>
       <li>VERB-Inf--NOUN-Dat (1)</li>
       <li>VERB-Inf--NOUN-Nom (46)</li>
       <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Acc,Dat (4)</li>
       <li>VERB-Inf--PRON-Nom (259)</li>
-      <li>VERB-Part--NOUN (1)</li>
       <li>VERB-Part--NOUN-Acc (2)</li>
-      <li>VERB-Part--NOUN-Nom (70)</li>
+      <li>VERB-Part--NOUN-Nom (69)</li>
       <li>VERB-Part--PRON-Acc,Dat (3)</li>
       <li>VERB-Part--PRON-Nom (182)</li>
     </ul>
@@ -959,7 +958,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (3)</li>
-      <li>VERB--NOUN-Acc (307)</li>
+      <li>VERB--NOUN-Acc (308)</li>
       <li>VERB--NOUN-Acc,Dat (3)</li>
       <li>VERB--NOUN-Acc,Dat-ADP(mid) (1)</li>
       <li>VERB--NOUN-Acc-ADP(dale) (2)</li>
@@ -969,12 +968,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Gen (1)</li>
       <li>VERB--NOUN-Nom (13)</li>
       <li>VERB--PRON (3)</li>
-      <li>VERB--PRON-Acc (196)</li>
+      <li>VERB--PRON-Acc (194)</li>
       <li>VERB--PRON-Acc,Dat (121)</li>
       <li>VERB--PRON-Dat (6)</li>
       <li>VERB--PRON-Nom (9)</li>
       <li>VERB-Inf--NOUN-Acc (125)</li>
-      <li>VERB-Inf--NOUN-Acc,Dat (1)</li>
+      <li>VERB-Inf--NOUN-Acc,Dat (2)</li>
       <li>VERB-Inf--NOUN-Acc,Dat-ADP(mid) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(vöär) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(åne) (1)</li>
@@ -986,12 +985,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Dat (1)</li>
       <li>VERB-Inf--PRON-Nom (5)</li>
       <li>VERB-Part--NOUN (1)</li>
-      <li>VERB-Part--NOUN-Acc (75)</li>
-      <li>VERB-Part--NOUN-Acc,Dat-ADP(en) (1)</li>
+      <li>VERB-Part--NOUN-Acc (76)</li>
+      <li>VERB-Part--NOUN-Acc,Dat-ADP(in) (1)</li>
       <li>VERB-Part--NOUN-Acc,Dat-ADP(mid) (1)</li>
       <li>VERB-Part--NOUN-Dat (1)</li>
       <li>VERB-Part--NOUN-Nom (5)</li>
-      <li>VERB-Part--PRON-Acc (60)</li>
+      <li>VERB-Part--PRON-Acc (61)</li>
       <li>VERB-Part--PRON-Acc,Dat (20)</li>
       <li>VERB-Part--PRON-Dat (1)</li>
       <li>VERB-Part--PRON-Nom (2)</li>
@@ -1031,7 +1030,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 42 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: låten sik, stellen sik, draien sik, låten sek, maken sik, richten sik, setten sik, vortellen sik, vorwandelen sik, wunderen sik, anhandelen sik, bemögen süch, beperken sich, bringen sik, byten sik, entsluten sik, geaven sik, hebben sik, heisteren süch, helpen sik, höägen sik, inslachten sik, koaken sik, köypen sik, köypen sy, leggen sek, rekken süch, rennen sik, rögen sik, sitten sik, sküddelen sik, stöyten sik, tröysten sik, underholden sik, vorswearen sik, vroien sik, vöärneamen sik, weaten sik, wenden sik, winnen sik, wärmen sik, öäverdenken sik</li>
+  <li>This corpus contains 42 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: låten sik, stellen sik, draien sik, låten sek, maken sik, richten sik, setten sik, vortellen sik, vorwandelen sik, wunderen sik, anhandelen sik, bemöien süch, beperken sich, bringen sik, byten sik, entsluten sik, geaven sik, hebben sik, heisteren süch, helpen sik, höägen sik, inslachten sik, koaken sik, köypen sik, köypen sy, leggen sek, rekken süch, rennen sik, rögen sik, sitten sik, sküddelen sik, stöyten sik, tröysten sik, underholden sik, vorswearen sik, vroien sik, vöärneamen sik, weaten sik, wenden sik, winnen sik, wärmen sik, öäverdenken sik</li>
     <ul>
       <li>Out of those, 1 lemmas occurred more than once, but never without a reflexive dependent. Examples: vorwandelen</li>
     </ul>

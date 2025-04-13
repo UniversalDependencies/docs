@@ -1,6 +1,7 @@
 source:       .
 destination:  ./_site
 markdown:     kramdown
+highlighter:  rouge
 # don't change the following; coderay will break the embedded
 # annotations.
 kramdown:
@@ -475,6 +476,24 @@ collections:
   drs:
     output: true
   bgs:
+    output: true
+  pay:
+    output: true
+  umo:
+    output: true
+  eo:
+    output: true
+  rmc:
+    output: true
+  sab:
+    output: true
+  arh:
+    output: true
+  qti:
+    output: true
+  nmf:
+    output: true
+  yi:
     output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 

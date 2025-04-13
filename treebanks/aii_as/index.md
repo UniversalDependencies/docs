@@ -12,15 +12,15 @@ udver: '2'
 # UD Assyrian AS
 
 Language: [Assyrian](/aii/index.html) (code: `aii`)<br/>
-Family: Afro-Asiatic, Semitic
+Family: Afro-Asiatic
 
 This treebank has been part of Universal Dependencies since the UD v2.4 release.
 
 The following people have contributed to making this treebank part of UD: Mary Yako.
 
 Repository: [UD_Assyrian-AS](https://github.com/UniversalDependencies/UD_Assyrian-AS)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaii_as214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaii_as215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

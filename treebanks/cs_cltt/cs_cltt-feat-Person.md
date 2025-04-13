@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `3`.
 
-2172 tokens (6%) have a non-empty value of `Person`.
-368 types (8%) occur at least once with a non-empty value of `Person`.
+2156 tokens (6%) have a non-empty value of `Person`.
+367 types (8%) occur at least once with a non-empty value of `Person`.
 226 lemmas (8%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1393; 4% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (504; 1% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (206; 1% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (69; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1393; 4% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (488; 1% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (206; 1% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (69; 0% instances).
 
 ### `VERB`
 
@@ -29,14 +29,14 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-504 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (81% of all `AUX` tokens) have a non-empty value of `Person`.
+488 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (79% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (504; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (488; 97%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (488; 97%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (466; 92%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (414; 82%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (283; 56%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs_cltt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (488; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (488; 100%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (488; 100%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (488; 100%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (466; 95%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (414; 85%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (283; 58%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `3` (504; 100% of non-empty `Person`): <em>je, jsou, není, nejsou, by, bude, budou</em>
-* `EMPTY` (115): <em>být, byly, byl, bylo, by, nebyly, byla, nebyla, nebyl</em>
+* `3` (488; 100% of non-empty `Person`): <em>je, jsou, není, nejsou, bude, budou</em>
+* `EMPTY` (131): <em>být, by, byly, byl, bylo, nebyly, byla, nebyla, nebyl</em>
 
 ### `DET`
 

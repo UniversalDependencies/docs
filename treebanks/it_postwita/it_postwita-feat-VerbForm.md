@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-15699 tokens (13%) have a non-empty value of `VerbForm`.
-4398 types (25%) occur at least once with a non-empty value of `VerbForm`.
+15698 tokens (13%) have a non-empty value of `VerbForm`.
+4397 types (25%) occur at least once with a non-empty value of `VerbForm`.
 1335 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (11263; 9% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4436; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (11262; 9% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4436; 4% instances).
 
 ### `VERB`
 
-11263 <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+11262 <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9667; 86%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7012; 62%), <tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6182; 55%), <tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5761; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9666; 86%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7011; 62%), <tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6181; 55%), <tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5761; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (6971; 62% of non-empty `VerbForm`): <em>fa, è, ha, dice, piace, va, ho, parla, amo, fanno</em>
+* `Fin` (6970; 62% of non-empty `VerbForm`): <em>fa, è, ha, dice, piace, va, ho, parla, amo, fanno</em>
 * `Ger` (239; 2% of non-empty `VerbForm`): <em>facendo, aspettando, andando, dando, dicendo, dimostrando, guardando, cercando, diventando, parlando</em>
 * `Inf` (2446; 22% of non-empty `VerbForm`): <em>fare, far, dire, vedere, andare, avere, pagare, parlare, ridere, uscire</em>
 * `Part` (1607; 14% of non-empty `VerbForm`): <em>fatto, detto, dato, nominato, fatta, messo, trovato, letto, perso, iniziato</em>

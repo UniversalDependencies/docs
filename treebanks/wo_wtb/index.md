@@ -12,15 +12,15 @@ udver: '2'
 # UD Wolof WTB
 
 Language: [Wolof](/wo/index.html) (code: `wo`)<br/>
-Family: Niger-Congo, Northern Atlantic
+Family: Niger-Congo
 
 This treebank has been part of Universal Dependencies since the UD v2.4 release.
 
 The following people have contributed to making this treebank part of UD: Bamba Dione.
 
 Repository: [UD_Wolof-WTB](https://github.com/UniversalDependencies/UD_Wolof-WTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udwo_wtb214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udwo_wtb215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

@@ -19,4 +19,4 @@ dep:mod(Then, BDY)
 
 “And then this one, my grandchild, was born.”
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:41 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:21 CET -->

@@ -28,9 +28,9 @@ The following 2 pairs of parts of speech are connected with `compound:prt`: <tt>
 4	persin	persan	NOUN	_	Case=Acc|Number=Sing	8	obl	_	_
 5	crist	críst	PROPN	_	Case=Gen|Number=Sing	4	nmod	_	_
 6	d	do	PART	_	PartType=Vb	8	compound:prt	_	SpaceAfter=No
-7	a	a	PRON	_	Gender=Neut|Number=Sing|Person=3|PronClass=A|PronType=Prs	6	obj:infx	_	SpaceAfter=No
+7	a	a_2	PRON	_	Gender=Neut|Number=Sing|Person=3|PronClass=A|PronType=Prs	6	obj:infx	_	SpaceAfter=No
 8	gníu	dogní	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
-9	sa	sa	PRON	_	PronType=Emp	8	amod	_	_
+9	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	8	amod	_	_
 10	sin	sin	PART	_	PronType=Dem	8	nsubj	_	_
 
 ~~~
@@ -47,7 +47,7 @@ The following 2 pairs of parts of speech are connected with `compound:prt`: <tt>
 3	no	no	PART	_	PartType=Vb	4	compound:prt	_	SpaceAfter=No
 4	nda	is	AUX	_	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbType=Cop	5	nsubj	_	SpaceAfter=No
 5	frecṅdircc	frecndairc	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
-6	sa	sa	PRON	_	PronType=Emp	4	amod	_	_
+6	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	4	amod	_	_
 
 ~~~
 

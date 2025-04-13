@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1531 nodes (9%) are attached to their parents as `case`.
+1532 nodes (9%) are attached to their parents as `case`.
 
-1490 instances of `case` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.94513389941215.
+1491 instances of `case` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.94647519582245.
 
-The following 22 pairs of parts of speech are connected with `case`: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (1043; 68% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (203; 13% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (83; 5% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (27; 2% instances), <tt><a href="en_gentle-pos-X.html">X</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (25; 2% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-PART.html">PART</a></tt> (24; 2% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (22; 1% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (19; 1% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (16; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (13; 1% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-PART.html">PART</a></tt> (13; 1% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (12; 1% instances), <tt><a href="en_gentle-pos-DET.html">DET</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (9; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `case`: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (1045; 68% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (203; 13% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (84; 5% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (27; 2% instances), <tt><a href="en_gentle-pos-X.html">X</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (25; 2% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-PART.html">PART</a></tt> (24; 2% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (22; 1% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (19; 1% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (16; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (13; 1% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-PART.html">PART</a></tt> (13; 1% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (12; 1% instances), <tt><a href="en_gentle-pos-DET.html">DET</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,12 +22,12 @@ The following 22 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 9 case	color:blue
-1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	Discourse=joint-list_m:51->50:0:_|Entity=(73-person-acc:com-cf1-1-sgl)|XML=<hi rend:::"italic">
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	Discourse=joint-list_m:51->50:0:_|Entity=(73-person-acc:com-cf1-1-sgl)|PDTB=NoRel:NoRel:_:_:185-199:200-212|XML=<hi rend:::"italic">
 2	lives	life	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	Entity=(74-abstract-new-cf4-2-coref
-4	mile	mile	NOUN	NN	Number=Sing	7	obl:npmod	7:obl:npmod	Entity=74)
+4	mile	mile	NOUN	NN	Number=Sing	7	obl:unmarked	7:obl:unmarked	Entity=74)
 5	or	or	CCONJ	CC	_	6	cc	6:cc	_
-6	two	two	NUM	CD	NumForm=Word|NumType=Card	4	conj	4:conj:or|7:obl:npmod	Bridge=74<75|Entity=(75-abstract-acc:inf-cf2-1-sgl)
+6	two	two	NUM	CD	NumForm=Word|NumType=Card	4	conj	4:conj:or|7:obl:unmarked	Bridge=74<75|Entity=(75-abstract-acc:inf-cf2-1-sgl)
 7	away	away	ADV	RB	Degree=Pos	2	advmod	2:advmod	MSeg=a-way|SpaceAfter=No
 8	,	,	PUNCT	,	_	12	punct	12:punct	_
 9	in	in	ADP	IN	_	12	case	12:case	_
@@ -45,7 +45,7 @@ The following 22 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 case	color:blue
-1	On	on	ADP	IN	_	2	case	2:case	Discourse=joint-list_m:59->58:0:_|XML=<hi rend:::"italic">
+1	On	on	ADP	IN	_	2	case	2:case	Discourse=joint-list_m:59->58:0:_|PDTB=NoRel:NoRel:_:_:247-253:254-263|XML=<hi rend:::"italic">
 2	Wednesday	Wednesday	PROPN	NNP	Number=Sing	7	obl	7:obl:on	Entity=(83-time-acc:com-cf2-1-sgl|MSeg=Wednes-day
 3	next	next	ADJ	JJ	Degree=Pos	2	amod	2:amod	Entity=83)|SpaceAfter=No
 4	,	,	PUNCT	,	_	2	punct	2:punct	_
@@ -65,11 +65,11 @@ The following 22 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 case	color:blue
-1	to	to	PART	TO	_	2	mark	2:mark	Discourse=joint-list_m:49->47:1:_
+1	to	to	PART	TO	_	2	mark	2:mark	Discourse=joint-list_m:49->47:1:sem-lxchn-240,254
 2	lose	lose	VERB	VB	VerbForm=Inf	0	root	0:root	_
-3	trust	trust	NOUN	NN	Number=Sing	2	obj	2:obj	Entity=(69-abstract-new-cf2-3-sgl|XML=<hi rend:::"bold"></hi>
+3	trust	trust	NOUN	NN	Number=Sing	2	obj	2:obj	Entity=(66-abstract-new-cf2-3-sgl|XML=<hi rend:::"bold"></hi>
 4	in	in	ADP	IN	_	5	case	5:case	_
-5	someone	someone	PRON	NN	Number=Sing|PronType=Ind	2	obl	2:obl:in	Entity=(70-person-new-cf1-1-sgl)69)
+5	someone	someone	PRON	NN	Number=Sing|PronType=Ind	2	obl	2:obl:in	Entity=(67-person-new-cf1-1-sgl)66)|MSeg=some-one
 
 ~~~
 

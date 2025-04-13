@@ -12,18 +12,19 @@ It occurs with 4 different values: `Fin`, `Inf`, `Part`, `Sup`.
 2921 tokens (15%) have a non-empty value of `VerbForm`.
 1279 types (21%) occur at least once with a non-empty value of `VerbForm`.
 800 lemmas (16%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1961; 10% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (732; 4% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (228; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1962; 10% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (732; 4% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (227; 1% instances).
 
 ### `VERB`
 
-1961 <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+1962 <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sv_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1620; 83%), <tt><a href="sv_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1242; 63%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sv_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1619; 83%), <tt><a href="sv_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1242; 63%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (1245; 63% of non-empty `VerbForm`): <em>har, sade, finns, säger, började, hade, blev, gjorde, tog, kommer</em>
 * `Inf` (513; 26% of non-empty `VerbForm`): <em>ha, få, göra, ta, gå, se, använda, bli, hjälpa, spela</em>
+* `Part` (1; 0% of non-empty `VerbForm`): <em>Breaking</em>
 * `Sup` (203; 10% of non-empty `VerbForm`): <em>blivit, gjort, sett, beslutat, fått, gått, haft, kommit, skrivit, ansett</em>
 * `EMPTY` (3): <em>Controlled, Knew, Thought</em>
 
@@ -55,16 +56,16 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 ### `ADJ`
 
-228 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (15% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+227 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (14% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (228; 100%), <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (227; 100%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (154; 68%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (143; 63%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (128; 56%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (227; 100%), <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (227; 100%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (154; 68%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (142; 63%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (128; 56%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
-* `Part` (228; 100% of non-empty `VerbForm`): <em>betydande, följande, kända, sett, allierade, förenta, känd, levande, omfattande, regisserad</em>
-* `EMPTY` (1341): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, samma</em>
+* `Part` (227; 100% of non-empty `VerbForm`): <em>betydande, följande, kända, sett, allierade, förenta, känd, levande, omfattande, regisserad</em>
+* `EMPTY` (1346): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, samma</em>
 
-`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (172) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (171) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 

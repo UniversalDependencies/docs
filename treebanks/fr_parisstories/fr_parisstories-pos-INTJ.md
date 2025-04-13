@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>bon</em> (<tt><a href="fr_parisstorie
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 0.969697 (the average of all parts of speech is 1.332953).
+The form / lemma ratio of `INTJ` is 0.969697 (the average of all parts of speech is 1.332572).
 
 The 1st highest number of forms (2) was observed with the lemma “là”: <em>la, là</em>.
 
@@ -74,7 +74,7 @@ Examples: <em>euh, bah, ouais, bon, ah, quoi, hein, ben, mh, bref</em>
 
 `INTJ` nodes are attached to their parents using 7 different relations: <tt><a href="fr_parisstories-dep-discourse.html">discourse</a></tt> (2208; 95% instances), <tt><a href="fr_parisstories-dep-root.html">root</a></tt> (70; 3% instances), <tt><a href="fr_parisstories-dep-dep.html">dep</a></tt> (10; 0% instances), <tt><a href="fr_parisstories-dep-conj.html">conj</a></tt> (8; 0% instances), <tt><a href="fr_parisstories-dep-obj.html">obj</a></tt> (7; 0% instances), <tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt> (7; 0% instances), <tt><a href="fr_parisstories-dep-fixed.html">fixed</a></tt> (3; 0% instances)
 
-Parents of `INTJ` nodes belong to 15 different parts of speech: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (1027; 44% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (507; 22% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (213; 9% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (153; 7% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (105; 5% instances),  (70; 3% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (55; 2% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (44; 2% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (43; 2% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (40; 2% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (39; 2% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (2; 0% instances)
+Parents of `INTJ` nodes belong to 15 different parts of speech: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (1028; 44% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (507; 22% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (213; 9% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (153; 7% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (105; 5% instances),  (70; 3% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (55; 2% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (44; 2% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (43; 2% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (40; 2% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (38; 2% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (2; 0% instances)
 
 760 (33%) `INTJ` nodes are leaves.
 

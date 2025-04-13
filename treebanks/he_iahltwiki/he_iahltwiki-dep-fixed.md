@@ -59,7 +59,7 @@ The following 44 pairs of parts of speech are connected with `fixed`: <tt><a hre
 12	עד	עד	ADP	ADP	_	14	case	_	_
 13	ל	ל	ADP	ADP	_	12	fixed	_	_
 14	פסיקת	פסיקה	NOUN	NOUN	Gender=Fem|Number=Sing	11	obl	_	_
-15	בג"ץ	בג"ץ	PROPN	PROPN	_	14	compound	_	SpaceAfter=No
+15	בג"ץ	בג"ץ	PROPN	PROPN	_	14	compound	_	Entity=(ORG)|SpaceAfter=No
 16	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 ~~~

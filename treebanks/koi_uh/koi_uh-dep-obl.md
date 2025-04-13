@@ -44,7 +44,7 @@ The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="
 2	Мый	мый	PRON	Pron	Animacy=Nhum|Case=Nom|PronType=Int	6	obl	_	GTtags=Sem/NonHum,Nom,Interr
 3	нӧ	нӧ	PART	Pcle	_	2	discourse	_	_
 4	дыр	дыр	ADV	Adv	_	6	advmod	_	_
-5	эн	оз	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Past	6	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg2
+5	эн	оз	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Past	6	aux	_	GTtags=Neg,Ind,Prt1,Sg2
 6	лок	локны	VERB	V	Connegative=Yes	0	root	_	GTtags=ConNeg|SpaceAfter=No
 7	?	?	PUNCT	CLB	_	6	punct	_	_
 8	—	—	PUNCT	PUNCT	_	13	punct	_	_
@@ -75,7 +75,7 @@ The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="
 8	селитьбаыс	селитьба	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	nsubj	_	GTtags=N,Sg,Nom,PxSg3
 9	син	син	NOUN	N	Animacy=Inan|Case=Nom|Number=Sing	12	obl	_	GTtags=N,Sem/Inanim,Sg,Nom
 10	одзӧ	одзӧ	ADP	Adp	AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing	9	case	_	GTtags=Adp,Po,Spat,Sg,Ill
-11	оз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	12	aux:neg	_	GTtags=V,Neg,Ind,Prs,Sg3
+11	оз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	12	aux	_	GTtags=V,Neg,Ind,Prs,Sg3
 12	ков	ковны	VERB	V	Connegative=Yes	3	advcl	_	GTtags=V,IV,ConNeg|SpaceAfter=No
 13	,	,	PUNCT	CLB	_	15	punct	_	GTtags=CLB
 14	и	и	CCONJ	CC	_	15	cc	_	GTtags=CC

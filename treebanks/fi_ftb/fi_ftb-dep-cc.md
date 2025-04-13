@@ -7,11 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_Finnish-FTB: Relations: `cc`
 
 This relation is universal.
+There are 1 language-specific subtypes of `cc`: <tt><a href="fi_ftb-dep-cc-preconj.html">cc:preconj</a></tt>.
 
 4727 nodes (3%) are attached to their parents as `cc`.
 
 4695 instances of `cc` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.00782737465623.
+Average distance between parent and child is 2.008250475989.
 
 The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (2078; 44% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (1507; 32% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (502; 11% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (305; 6% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (134; 3% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (116; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (47; 1% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances).
 

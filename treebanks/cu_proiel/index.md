@@ -12,15 +12,15 @@ udver: '2'
 # UD Old Church Slavonic PROIEL
 
 Language: [Old Church Slavonic](/cu/index.html) (code: `cu`)<br/>
-Family: Indo-European, Slavic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
 The following people have contributed to making this treebank part of UD: Dag Haug.
 
 Repository: [UD_Old_Church_Slavonic-PROIEL](https://github.com/UniversalDependencies/UD_Old_Church_Slavonic-PROIEL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcu_proiel214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcu_proiel215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 4.0
 

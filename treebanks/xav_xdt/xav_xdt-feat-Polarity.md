@@ -21,7 +21,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="xav_xdt-pos-ADV.htm
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (6; 100% of non-empty `Polarity`): <em>õ, mare</em>
-* `EMPTY` (82): <em>duré, dzéma, tsa'ẽtè, wei, si, oto, petse, pi'uriwi, Höiwahö, Niwa</em>
+* `EMPTY` (83): <em>duré, dzéma, tsa'ẽtè, wei, si, oto, petse, pi'uriwi, Ãne, Höiwahö</em>
 
 ### `PART`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `PART` and `Polarity` co-occur
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>õ</em>
-* `EMPTY` (376): <em>te, dza'ra, ma, e, hã, wa, norĩ, dza, õ, norĩhã</em>
+* `EMPTY` (380): <em>te, dza'ra, ma, e, hã, wa, norĩ, dza, õ, norĩhã</em>
 
 ### `NOUN`
 
@@ -43,5 +43,5 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>ñimiza'reseõ</em>
-* `EMPTY` (368): <em>marĩ, aibö, 'watébrémi, pi'õ, a'uwẽ, buru, wapté, ba'õtõ, bötö, Mare</em>
+* `EMPTY` (372): <em>marĩ, aibö, 'watébrémi, pi'õ, a'uwẽ, buru, wapté, ba'õtõ, bötö, Mare</em>
 

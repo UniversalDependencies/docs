@@ -110,4 +110,4 @@ marks the property being compared. It occurs in Kyrgyz.
 * _Ал ага <b>окшоп</b> чуркай алат._ "She can run <b>like</b> him.."
 
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:48 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:33 CET -->

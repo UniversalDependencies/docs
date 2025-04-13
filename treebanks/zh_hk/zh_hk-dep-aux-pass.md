@@ -31,7 +31,7 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 7	後	後	ADP	_	_	6	case:loc	_	SpaceAfter=No|Translit=hòu|LTranslit=hòu
 8	，	，	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	才	才	ADV	_	_	10	advmod	_	SpaceAfter=No|Translit=cái|LTranslit=cái
-10	展開	展開	VERB	_	_	0	root	_	SpaceAfter=No|Translit=zhǎnkāi|LTranslit=zhǎnkāi
+10	展開	展開	VERB	_	_	0	root	_	SpaceAfter=No|Translit=zhǎnkāi|LTranslit=zhǎnkāi|Cxn=Interrogative-Reduced|CxnElt=10:Interrogative-Reduced.Clause
 11	選舉	選舉	VERB	_	_	12	acl	_	SpaceAfter=No|Translit=xuǎnjǔ|LTranslit=xuǎnjǔ
 12	程序	程序	NOUN	_	_	10	obj	_	SpaceAfter=No|Translit=chéngxù|LTranslit=chéngxù
 13	呢	呢	PART	_	_	10	discourse:sp	_	SpaceAfter=No|Translit=ne|LTranslit=ne

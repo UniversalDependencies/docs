@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Livvi-KKPP: Relations: `flat:name`
 
 This relation is a language-specific subtype of .
+There are also 1 other language-specific subtypes of `flat`: <tt><a href="olo_kkpp-dep-flat-foreign.html">flat:foreign</a></tt>.
 
 11 nodes (1%) are attached to their parents as `flat:name`.
 

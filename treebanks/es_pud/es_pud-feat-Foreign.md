@@ -47,7 +47,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>The, Le</em>
-* `EMPTY` (3315): <em>el, la, los, un, las, una, este, esta, cada, esto</em>
+* `EMPTY` (3333): <em>el, la, los, un, las, una, este, esta, cada, esto</em>
 
 ### `PRON`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>My, You, Her, Me</em>
-* `EMPTY` (1051): <em>se, que, su, lo, sus, le, cual, ellos, me, él</em>
+* `EMPTY` (1033): <em>se, que, su, lo, sus, le, cual, ellos, me, él</em>
 
 ### `ADJ`
 
@@ -146,6 +146,8 @@ The most frequent other feature values with which `PART` and `Foreign` co-occurr
 ### `PUNCT`
 
 1 <tt><a href="es_pud-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Foreign`.
+
+The most frequent other feature values with which `PUNCT` and `Foreign` co-occurred: <tt><a href="es_pud-feat-PunctType.html">PunctType</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `PUNCT` tokens may have the following values of `Foreign`:
 

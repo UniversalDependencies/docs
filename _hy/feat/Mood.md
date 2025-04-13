@@ -98,4 +98,4 @@ Note, that the mood particles are viewed as [AUX]() and can inflect for [Polarit
 
 * Նա _<b>պիտի (պետք է)</b> գնա տուն_ “He <b>must</b> go home”,
 * Նա _<b>պիտի (պետք է)</b> գնար տուն_ “He <b>had</b> to go home”
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:03 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:47 CET -->

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_English-GUM: Relations: `nmod:poss`
 
 This relation is a language-specific subtype of <tt><a href="en_gum-dep-nmod.html">nmod</a></tt>.
-There are also 2 other language-specific subtypes of `nmod`: <tt><a href="en_gum-dep-nmod-npmod.html">nmod:npmod</a></tt>, <tt><a href="en_gum-dep-nmod-tmod.html">nmod:tmod</a></tt>.
+There are also 1 other language-specific subtypes of `nmod`: <tt><a href="en_gum-dep-nmod-unmarked.html">nmod:unmarked</a></tt>.
 
 3598 nodes (2%) are attached to their parents as `nmod:poss`.
 
@@ -28,7 +28,7 @@ The following 18 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 3	of	of	ADP	IN	_	4	case	4:case	_
 4	moderation	moderation	NOUN	NN	Number=Sing	2	nmod	2:nmod:of	Entity=(35-abstract-new-cf3-1-sgl)34)|MSeg=moderat-ion
 5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	7:aux:pass	_
-6	not	not	PART	RB	Polarity=Neg	7	advmod	7:advmod	_
+6	not	not	PART	RB	Polarity=Neg	7	advmod	7:advmod	Negation=Yes
 7	restricted	restrict	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	MSeg=restrict-ed
 8	to	to	ADP	IN	_	10	case	10:case	_
 9	physical	physical	ADJ	JJ	Degree=Pos	10	amod	10:amod	Entity=(36-event-new-cf4-2-sgl|MSeg=physic-al
@@ -48,7 +48,7 @@ The following 18 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 2	of	of	ADP	IN	_	6	case	6:case	_
 3	Norton	Norton	PROPN	NNP	Number=Sing	6	nmod:poss	6:nmod:poss	Entity=(1-person-giv:act-cf1*-1-coref-Emperor_Norton
 4	's	's	PART	POS	_	3	case	3:case	Entity=1)
-5	undated	undated	ADJ	JJ	Degree=Pos|Polarity=Neg	6	amod	6:amod	MSeg=un-dated
+5	undated	undated	ADJ	JJ	Degree=Pos	6	amod	6:amod	MSeg=un-dated|Negation=Yes
 6	proclamations	proclamation	NOUN	NNS	Number=Plur	1	nmod	1:nmod:of	Entity=108)|MSeg=proclamation-s
 
 ~~~
@@ -70,7 +70,7 @@ The following 18 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 8	overalls	overall	NOUN	NNS	Number=Plur	5	obj	5:obj	Entity=8)|MSeg=over-all-s
 9	alone	alone	ADV	RB	Degree=Pos	5	advmod	5:advmod	Entity=21)|MSeg=a-lone|SpaceAfter=No
 10	,	,	PUNCT	,	_	9	punct	9:punct	_
-11	especially	especially	ADV	RB	Degree=Pos	12	advmod	12:advmod	MSeg=especial-ly
+11	especially	especially	ADV	RB	Degree=Pos	12	advmod	12:advmod	MSeg=especial-ly|PDTB=AltLex:Expansion.Level-of-detail.Arg2-as-detail:especially:136:117-125:126-135,137-139
 12	men	man	NOUN	NNS	Number=Plur	8	appos	8:appos	Entity=(22-person-new-cf4-1-sgl
 13	’s	's	PART	POS	_	12	case	12:case	Entity=22)
 14	.	.	PUNCT	.	_	3	punct	3:punct	_

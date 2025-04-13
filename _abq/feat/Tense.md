@@ -59,4 +59,4 @@ The feature marks tense of the verb.
 #### Examples
 
 * [abq] _с-а-з-ры-пхьа-<b>ры-з</b>_ [1SG.ABS-3SG.N.IO-REL.ERG-CAUS-study-<b>FUT.NFIN-PST.NFIN</b>] ‘[the person] who would teach me’ `Caus=Yes|Gender[io]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=1|Person[io]=3|RelType=Erg|Tense=Subj2|VerbForm=NonFin`
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:24 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:07 CET -->

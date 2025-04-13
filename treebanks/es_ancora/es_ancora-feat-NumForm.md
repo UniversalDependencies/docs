@@ -9,24 +9,24 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Digit`, `Roman`, `Word`.
 
-9203 tokens (2%) have a non-empty value of `NumForm`.
-1641 types (4%) occur at least once with a non-empty value of `NumForm`.
-1618 lemmas (6%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (9179; 2% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (20; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (4; 0% instances).
+9197 tokens (2%) have a non-empty value of `NumForm`.
+1640 types (4%) occur at least once with a non-empty value of `NumForm`.
+1617 lemmas (6%) occur at least once with a non-empty value of `NumForm`.
+The feature is used with 3 part-of-speech tags: <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (9173; 2% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (20; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (4; 0% instances).
 
 ### `NUM`
 
-9179 <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
+9173 <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (9171; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6319; 69%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (9171; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6313; 69%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
 * `Digit` (5473; 60% of non-empty `NumForm`): <em>20, 30, 10, 15, 12, 2, 25, 50, 16, 18</em>
 * `Roman` (121; 1% of non-empty `NumForm`): <em>II, XX, V, VI, XXI, XVIII, XXIII, IX, XIX, XV</em>
-* `Word` (3585; 39% of non-empty `NumForm`): <em>dos, ciento, tres, cinco, cuatro, seis, ambos, siete, diez, ocho</em>
+* `Word` (3579; 39% of non-empty `NumForm`): <em>dos, ciento, tres, cinco, cuatro, seis, ambos, siete, diez, ocho</em>
 
-`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (1614) occur only with one value of `NumForm`.
+`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (1613) occur only with one value of `NumForm`.
 
 ### `SYM`
 
@@ -50,7 +50,7 @@ The most frequent other feature values with which `ADJ` and `NumForm` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>NUM --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> NUM</tt> (195; 98%),
-<tt>NUM --[<tt><a href="es_ancora-dep-compound.html">compound</a></tt>]--> NUM</tt> (162; 96%),
+<tt>NUM --[<tt><a href="es_ancora-dep-compound.html">compound</a></tt>]--> NUM</tt> (156; 96%),
 <tt>NUM --[<tt><a href="es_ancora-dep-appos.html">appos</a></tt>]--> NUM</tt> (23; 96%),
 <tt>NUM --[<tt><a href="es_ancora-dep-nmod.html">nmod</a></tt>]--> SYM</tt> (17; 100%),
 <tt>NUM --[<tt><a href="es_ancora-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (12; 80%),

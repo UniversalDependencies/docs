@@ -46,4 +46,4 @@ Here is the CoNLL-U representation of the sentence, including the multi-word tok
 4   el           el          DET     _   Definite=Def|Gender=Masc|Number=Sing|PronType=Art   5   det     _   _
 5   mar          mar         NOUN    _   Gender=Masc|Number=Sing                             1   obl     _   _
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:43 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:28 CET -->

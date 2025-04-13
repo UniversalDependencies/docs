@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-145 nodes (8%) are attached to their parents as `nsubj`.
+148 nodes (9%) are attached to their parents as `nsubj`.
 
-142 instances of `nsubj` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.06206896551724.
+144 instances of `nsubj` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.04054054054054.
 
-The following 10 pairs of parts of speech are connected with `nsubj`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (93; 64% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (30; 21% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (11; 8% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `nsubj`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (93; 63% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (31; 21% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (12; 8% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

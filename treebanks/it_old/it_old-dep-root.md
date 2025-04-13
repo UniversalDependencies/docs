@@ -8,31 +8,45 @@ udver: '2'
 
 This relation is universal.
 
-2402 nodes (3%) are attached to their parents as `root`.
+3419 nodes (3%) are attached to their parents as `root`.
 
-2402 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.6819317235637.
+3419 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.38022813688213.
 
-The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1975; 82% instances), -<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (150; 6% instances), -<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (115; 5% instances), -<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (98; 4% instances), -<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (28; 1% instances), -<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (27; 1% instances), -<tt><a href="it_old-pos-DET.html">DET</a></tt> (5; 0% instances), -<tt><a href="it_old-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="it_old-pos-X.html">X</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (2809; 82% instances), -<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (187; 5% instances), -<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (182; 5% instances), -<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (139; 4% instances), -<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (40; 1% instances), -<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (37; 1% instances), -<tt><a href="it_old-pos-DET.html">DET</a></tt> (15; 0% instances), -<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (4; 0% instances), -<tt><a href="it_old-pos-X.html">X</a></tt> (3; 0% instances), -<tt><a href="it_old-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 1 root	color:blue
-1	Vedi	vedere	VERB	vta2mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Canto=25|Verso=69
-2	che	che	SCONJ	csso	_	7	mark	_	Canto=25|Verso=69
-3	già	già	ADV	b	_	7	advmod:tmod	_	Canto=25|Verso=69
-4	non	non	ADV	b	PronType=Neg	7	advmod:neg	_	Canto=25|Verso=69
-5	se'	essere	AUX	vi4ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	cop	_	Canto=25|Verso=69
-6	né	né	CCONJ	cscr	_	7	cc	_	Canto=25|Verso=69
-7	due	due	NUM	an	NumType=Card	1	ccomp	_	Canto=25|Verso=69
-8	né	né	CCONJ	cscr	_	9	cc	_	Canto=25|Verso=69
-9	uno	uno	DET	an1ms	Gender=Masc|Number=Sing	7	conj	_	Canto=25|SpaceAfter=No|Verso=69
-10	»	»	PUNCT	_	_	1	punct	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 0 3 root	color:blue
+1	Così	così	ADV	b	_	3	advmod	_	Canto=28|Verso=142
+2	s'	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	3	expl:impers	_	Canto=28|SpaceAfter=No|Verso=142
+3	osserva	osservare	VERB	vtp1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Canto=28|Verso=142
+4	in	in	ADP	epsksl	_	5	case	_	Canto=28|Verso=142
+5	me	me	PRON	pp1slco	Number=Sing|Person=1|PronType=Prs	3	obl:lmod	_	Canto=28|Verso=142
+6	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Canto=28|Verso=142
+7	contrapasso	contrappasso	NOUN	sm2ms	Gender=Masc|Number=Sing	3	obj	_	Canto=28|SpaceAfter=No|Verso=142
+8	»	»	PUNCT	_	_	3	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 5 root	color:blue
+1	Oh	oh	INTJ	i	_	5	discourse	_	Canto=23|Verso=67
+2	in	in	ADP	_	_	3	case	_	Canto=23|Verso=67
+3	etterno	etterno	NOUN	_	Gender=Masc|Number=Sing	5	obl:tmod	_	Canto=23|Verso=67
+4	faticoso	faticoso	ADJ	a1ms	Gender=Masc|Number=Sing	5	amod	_	Canto=23|Verso=67
+5	manto	manto	NOUN	sm2ms	Gender=Masc|Number=Sing	0	root	_	Canto=23|SpaceAfter=No|Verso=67
+6	!	!	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
@@ -56,26 +70,6 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 11	io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Canto=32|Verso=94
 12	brama	brama	NOUN	sf1fs	Gender=Fem|Number=Sing	10	obj	_	Canto=32|SpaceAfter=No|Verso=94
 13	.	.	PUNCT	_	_	10	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 0	bgColor:blue
-# visual-style 0	fgColor:white
-# visual-style 0 9 root	color:blue
-1	E	e	CCONJ	cscc	_	9	cc	_	Canto=26|Verso=10
-2	se	se	SCONJ	cssv	_	4	mark	_	Canto=26|Verso=10
-3	già	già	ADV	b	_	4	advmod:tmod	_	Canto=26|Verso=10
-4	fosse	essere	AUX	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	advcl	_	Canto=26|SpaceAfter=No|Verso=10
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	non	non	ADV	b	PronType=Neg	9	advmod:neg	_	Canto=26|Verso=10
-7	saria	essere	AUX	vi4dps3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	9	cop	_	Canto=26|Verso=10
-8	per	per	ADP	_	_	9	case	_	Canto=26|Verso=10
-9	tempo	tempo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Canto=26|SpaceAfter=No|Verso=10
-10	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~
 

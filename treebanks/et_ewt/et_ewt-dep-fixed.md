@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-104 nodes (0%) are attached to their parents as `fixed`.
+107 nodes (0%) are attached to their parents as `fixed`.
 
-104 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.03846153846154.
+107 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03738317757009.
 
-The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (67; 64% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (16; 15% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (14; 13% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (67; 63% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (17; 16% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (16; 15% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -40,6 +40,26 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 fixed	color:blue
+1	Sinna	sinna	ADV	D	_	9	advmod	9:advmod	_
+2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	9:aux	_
+3	nii	nii	ADV	D	_	9	advmod	9:advmod	_
+4	kui	kui	SCONJ	J	_	3	fixed	3:fixed	_
+5	nii	nii	ADV	D	_	3	fixed	3:fixed	_
+6	kõige	kõige	ADV	D	_	7	advmod	7:advmod	_
+7	olulisem	olulisem	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	9	obj	9:obj	_
+8	sisse	sisse	ADV	D	_	9	compound:prt	9:compound	_
+9	pandud	panema	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
+10	.	.	PUNCT	Z	_	9	punct	9:punct	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 10	bgColor:blue
@@ -58,26 +78,6 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 11	pool	pool	ADV	D	_	10	fixed	10:fixed	_
 12	minut	minut	NOUN	S	Case=Par|Number=Sing	7	conj	0:root|7:conj	SpaceAfter=No
 13	.	.	PUNCT	Z	_	7	punct	7:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 fixed	color:blue
-1	Sinna	sinna	ADV	D	_	9	advmod	9:advmod	_
-2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	9:aux	_
-3	nii	nii	ADV	D	_	9	advmod	9:advmod	_
-4	kui	kui	SCONJ	J	_	3	fixed	3:fixed	_
-5	nii	nii	ADV	D	_	3	fixed	3:fixed	_
-6	kõige	kõige	ADV	D	_	7	advmod	7:advmod	_
-7	olulisem	olulisem	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	9	obj	9:obj	_
-8	sisse	sisse	ADV	D	_	9	compound:prt	9:compound	_
-9	pandud	panema	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
-10	.	.	PUNCT	Z	_	9	punct	9:punct	_
 
 ~~~
 

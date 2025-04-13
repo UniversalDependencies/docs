@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (386; 100% of non-empty `NumType`): <em>primeira, primeiro, segundo, segunda, terceiro, 1º, terceira, primeiros, primeiras, quarta</em>
-* `EMPTY` (8168): <em>maior, grande, melhor, nova, novo, últimos, brasileira, possível, muitos, bom</em>
+* `EMPTY` (8170): <em>maior, grande, melhor, novo, nova, últimos, brasileira, possível, muitos, bom</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (45) occur only with one value of `NumType`.
 
@@ -45,10 +45,10 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="pt_porttinari-dep-flat.html">flat</a></tt>]--> NUM</tt> (90; 100%),
 <tt>NUM --[<tt><a href="pt_porttinari-dep-conj.html">conj</a></tt>]--> NUM</tt> (64; 100%),
-<tt>NUM --[<tt><a href="pt_porttinari-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (34; 100%),
+<tt>NUM --[<tt><a href="pt_porttinari-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (33; 100%),
 <tt>NUM --[<tt><a href="pt_porttinari-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (5; 100%),
 <tt>ADJ --[<tt><a href="pt_porttinari-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3; 60%),
-<tt>NUM --[<tt><a href="pt_porttinari-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (2; 100%),
-<tt>NUM --[<tt><a href="pt_porttinari-dep-acl.html">acl</a></tt>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<tt><a href="pt_porttinari-dep-appos.html">appos</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="pt_porttinari-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (3; 100%),
+<tt>NUM --[<tt><a href="pt_porttinari-dep-appos.html">appos</a></tt>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<tt><a href="pt_porttinari-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (1; 100%).
 

@@ -28,10 +28,10 @@ The following 93 pairs of parts of speech are connected with `dep`: <tt><a href=
 4	oba	oba	NUM	ClMP1----------	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	5	nsubj	5:nsubj	_
 5	zapomínali	zapomínat	VERB	VpMP----R-AA---	Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
 6	,	,	PUNCT	Z:-------------	_	5	punct	5:punct	_
-7	byl	být	AUX	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	cop	5:cop	_
+7	byl	být	AUX	VpMS----R-AA---	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	cop	5:cop	_
 8	jejich	jeho	DET	PSMS1MP3-------	Animacy=Anim|Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	10:det	_
 9	desetiletý	desetiletý	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	10	amod	10:amod	_
-10	syn	syn	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	5	dep	5:dep	SpaceAfter=No
+10	syn	syn	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	dep	5:dep	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
 
 ~~~
@@ -50,7 +50,7 @@ The following 93 pairs of parts of speech are connected with `dep`: <tt><a href=
 5	,	,	PUNCT	Z:-------------	_	2	punct	2:punct	SpaceAfter=No
 6	"	"	PUNCT	Z:-------------	_	2	punct	2:punct	_
 7	řekla	říci	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
-8	doktorka	doktorka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	7	nsubj	7:nsubj	SpaceAfter=No
+8	doktorka	doktorka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	7:nsubj	SpaceAfter=No
 9	,	,	PUNCT	Z:-------------	_	7	punct	7:punct	_
 10	"	"	PUNCT	Z:-------------	_	11	punct	11:punct	SpaceAfter=No
 11	podívejte	podívat	VERB	Vi-P---2--A----	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	2	conj	2:conj|7:dep	_
@@ -77,7 +77,7 @@ The following 93 pairs of parts of speech are connected with `dep`: <tt><a href=
 7	"	"	PUNCT	Z:-------------	_	1	punct	1:punct	_
 8	řekla	říci	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 9	zase	zase	PART	TT-------------	_	10	advmod:emph	10:advmod:emph	_
-10	doktorka	doktorka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	8	nsubj	8:nsubj	SpaceAfter=No
+10	doktorka	doktorka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	8:nsubj	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	8	punct	8:punct	_
 
 ~~~

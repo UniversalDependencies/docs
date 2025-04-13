@@ -54,7 +54,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `ADV`
 
-137 <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> tokens (11% of all `ADV` tokens) have a non-empty value of `PronType`.
+137 <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> tokens (12% of all `ADV` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="gl_treegal-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (137; 100%).
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Int` (11; 8% of non-empty `PronType`): <em>como, cómo, onde</em>
 * `Rel` (126; 92% of non-empty `PronType`): <em>como, cando, onde</em>
-* `EMPTY` (1055): <em>non, máis, tamén, xa, así, aínda, agora, moi, só, despois</em>
+* `EMPTY` (1054): <em>non, máis, tamén, xa, así, aínda, agora, moi, só, despois</em>
 
 <table>
   <tr><th>Paradigm <i>como</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>

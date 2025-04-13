@@ -31,7 +31,7 @@ The following 4 pairs of parts of speech are connected with `advmod:lmod`: <tt><
 6	касат	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	CLB	_	10	punct	_	_
 8	козонга	козонга	ADV	Adv	PronType=Ind	10	advmod:lmod	_	_
-9	аф	аф	AUX	Aux	Polarity=Neg	10	aux:neg	_	_
+9	аф	аф	AUX	Aux	Polarity=Neg	10	aux	_	_
 10	туят	тумс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	6	conj	_	SpaceAfter=No
 11	.	.	PUNCT	CLB	_	6	punct	_	_
 
@@ -66,7 +66,7 @@ The following 4 pairs of parts of speech are connected with `advmod:lmod`: <tt><
 5	жаворонкатне	жаворонка	NOUN	N	Case=Nom|Definite=Def|Number=Plur	4	nsubj	_	GTtags=Pl,Nom,Def|SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	9	punct	_	_
 7	перьфпяльге	перьфпяльге	ADV	Adv	Case=Prl	9	advmod:lmod	_	GTtags=Prl
-8	исть	аф	AUX	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	9	aux:neg	_	GTtags=Aux,Neg,Ind,Prt1,ScPl3
+8	исть	аф	AUX	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	9	aux	_	GTtags=Aux,Neg,Ind,Prt1,ScPl3
 9	лотксе	лотксемс	VERB	V	Connegative=Yes	4	conj	_	GTtags=ConNeg
 10	крфамда	крфамс	VERB	V	Case=Abl|VerbForm=Inf	9	xcomp	_	GTtags=Inf,Abl
 11	тюжя	тюжя	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	12	amod	_	GTtags=Sg,Nom,Indef

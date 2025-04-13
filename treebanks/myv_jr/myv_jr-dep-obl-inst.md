@@ -42,7 +42,7 @@ The following 6 pairs of parts of speech are connected with `obl:inst`: <tt><a h
 1	Улить	улемс	AUX	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	GTtags=IV,Ind,Prs,ScPl3
 2	эщо	ещё	ADV	Adv	AdvType=Tim	1	advmod:tmod	_	GTtags=Err/Lex,Sem/Time
 3	сокасо	сока	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	4	obl:inst	_	GTtags=SP,Ine,Indef
-4	сокицяноккак	сокиця	NOUN	N	Case=Nom|Clitic=Add|Number=Plur|Number[psor]=Plur|Person[psor]=1	1	nsubj	_	GTtags=Pl,Nom,PxPl1,Add|SpaceAfter=No
+4	сокицяноккак	сокиця	NOUN	N	Case=Nom|Clitic=Add|Nomzr=Ag|Number=Plur|Number[psor]=Plur|Person[psor]=1	1	nsubj	_	GTtags=Pl,Nom,PxPl1,Add|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	1	punct	_	_
 
 ~~~

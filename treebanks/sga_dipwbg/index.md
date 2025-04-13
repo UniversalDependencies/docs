@@ -12,15 +12,15 @@ udver: '2'
 # UD Old Irish DipWBG
 
 Language: [Old Irish](/sga/index.html) (code: `sga`)<br/>
-Family: Indo-European, Celtic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.12 release.
 
 The following people have contributed to making this treebank part of UD: Adrian Doyle.
 
 Repository: [UD_Old_Irish-DipWBG](https://github.com/UniversalDependencies/UD_Old_Irish-DipWBG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsga_dipwbg214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsga_dipwbg215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -74,7 +74,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
 
 ## POS Tags
 
-[ADJ](sga_dipwbg-pos-ADJ.html) – [ADP](sga_dipwbg-pos-ADP.html) – [ADV](sga_dipwbg-pos-ADV.html) – [AUX](sga_dipwbg-pos-AUX.html) – [CCONJ](sga_dipwbg-pos-CCONJ.html) – [DET](sga_dipwbg-pos-DET.html) – [NOUN](sga_dipwbg-pos-NOUN.html) – [PART](sga_dipwbg-pos-PART.html) – [PRON](sga_dipwbg-pos-PRON.html) – [PROPN](sga_dipwbg-pos-PROPN.html) – [SCONJ](sga_dipwbg-pos-SCONJ.html) – [VERB](sga_dipwbg-pos-VERB.html) – [X](sga_dipwbg-pos-X.html)
+[ADJ](sga_dipwbg-pos-ADJ.html) – [ADP](sga_dipwbg-pos-ADP.html) – [ADV](sga_dipwbg-pos-ADV.html) – [AUX](sga_dipwbg-pos-AUX.html) – [CCONJ](sga_dipwbg-pos-CCONJ.html) – [DET](sga_dipwbg-pos-DET.html) – [NOUN](sga_dipwbg-pos-NOUN.html) – [PART](sga_dipwbg-pos-PART.html) – [PRON](sga_dipwbg-pos-PRON.html) – [PROPN](sga_dipwbg-pos-PROPN.html) – [SCONJ](sga_dipwbg-pos-SCONJ.html) – [VERB](sga_dipwbg-pos-VERB.html)
 
 ## Features
 
@@ -82,7 +82,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
 
 ## Relations
 
-[acl](sga_dipwbg-dep-acl.html) – [acl:relcl](sga_dipwbg-dep-acl-relcl.html) – [advcl](sga_dipwbg-dep-advcl.html) – [advmod](sga_dipwbg-dep-advmod.html) – [amod](sga_dipwbg-dep-amod.html) – [case](sga_dipwbg-dep-case.html) – [cc](sga_dipwbg-dep-cc.html) – [ccomp](sga_dipwbg-dep-ccomp.html) – [compound:prt](sga_dipwbg-dep-compound-prt.html) – [conj](sga_dipwbg-dep-conj.html) – [cop](sga_dipwbg-dep-cop.html) – [csubj](sga_dipwbg-dep-csubj.html) – [det](sga_dipwbg-dep-det.html) – [dislocated](sga_dipwbg-dep-dislocated.html) – [flat:foreign](sga_dipwbg-dep-flat-foreign.html) – [mark](sga_dipwbg-dep-mark.html) – [mark:int](sga_dipwbg-dep-mark-int.html) – [nmod](sga_dipwbg-dep-nmod.html) – [nmod:poss](sga_dipwbg-dep-nmod-poss.html) – [nsubj](sga_dipwbg-dep-nsubj.html) – [nsubj:outer](sga_dipwbg-dep-nsubj-outer.html) – [obj](sga_dipwbg-dep-obj.html) – [obj:infx](sga_dipwbg-dep-obj-infx.html) – [obl](sga_dipwbg-dep-obl.html) – [obl:prep](sga_dipwbg-dep-obl-prep.html) – [parataxis](sga_dipwbg-dep-parataxis.html) – [root](sga_dipwbg-dep-root.html) – [xcomp](sga_dipwbg-dep-xcomp.html)
+[acl](sga_dipwbg-dep-acl.html) – [acl:relcl](sga_dipwbg-dep-acl-relcl.html) – [advcl](sga_dipwbg-dep-advcl.html) – [advmod](sga_dipwbg-dep-advmod.html) – [amod](sga_dipwbg-dep-amod.html) – [case](sga_dipwbg-dep-case.html) – [cc](sga_dipwbg-dep-cc.html) – [ccomp](sga_dipwbg-dep-ccomp.html) – [compound:prt](sga_dipwbg-dep-compound-prt.html) – [conj](sga_dipwbg-dep-conj.html) – [cop](sga_dipwbg-dep-cop.html) – [csubj](sga_dipwbg-dep-csubj.html) – [det](sga_dipwbg-dep-det.html) – [dislocated](sga_dipwbg-dep-dislocated.html) – [mark](sga_dipwbg-dep-mark.html) – [mark:int](sga_dipwbg-dep-mark-int.html) – [nmod](sga_dipwbg-dep-nmod.html) – [nmod:poss](sga_dipwbg-dep-nmod-poss.html) – [nsubj](sga_dipwbg-dep-nsubj.html) – [nsubj:outer](sga_dipwbg-dep-nsubj-outer.html) – [obj](sga_dipwbg-dep-obj.html) – [obj:infx](sga_dipwbg-dep-obj-infx.html) – [obl](sga_dipwbg-dep-obl.html) – [obl:prep](sga_dipwbg-dep-obl-prep.html) – [parataxis](sga_dipwbg-dep-parataxis.html) – [root](sga_dipwbg-dep-root.html) – [xcomp](sga_dipwbg-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -111,8 +111,8 @@ This research has been supported by NUIG through the Digital Arts and Humanities
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 13 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: NUM, INTJ, SYM, PUNCT</li>
+<li>This corpus uses 12 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>SCONJ</a>, <a>VERB</a></li>
+<li>This corpus does not use the following tags: NUM, INTJ, SYM, PUNCT, X</li>
 </ul>
 
 <ul>
@@ -120,7 +120,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
 </ul>
 
 <ul>
-<li>This corpus contains 26 lemmas tagged as pronouns (PRON): a, ar, b, cani, cote, cách, do, dob, ed, far, id, m, mo, n, ni, ní, s, sa, se, si, so, som, són, t, tú, é</li>
+<li>This corpus contains 26 lemmas tagged as pronouns (PRON): a, a_2, ar, b, cani, cote, cách, do, dob, ed, far, id_1, m, mo, n, ni, ní, s_2, sa, si, side, so, som, t_1, tú, é_1</li>
 </ul>
 
 <ul>
@@ -171,7 +171,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
 <ul>
   <li>Masc,Neut
     <ul>
-      <li>PRON: a</li>
+      <li>PRON: a, som</li>
     </ul>
   </li>
 </ul>
@@ -181,7 +181,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
     <ul>
       <li>ADJ: chotarsne, domunde, essamin, foirbthi, gáitha, inse, mílsi, suaignid, thoirsech, trom</li>
       <li>DET: a, inna</li>
-      <li>PRON: hed, a</li>
+      <li>PRON: hed, a, són</li>
     </ul>
   </li>
 </ul>
@@ -199,7 +199,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
       <li>AUX: bimmi, bed, nirubtar</li>
       <li>DET: inna, na</li>
       <li>NOUN: belre, biada, béssu, comairli, dánu, fochidi, gnímu, mban, soscéli, tol</li>
-      <li>PRON: for, ar, far, b, n, ndob, s</li>
+      <li>PRON: si, for, ar, far, ni, b, n, ndob, s</li>
       <li>PROPN: maccidóndu</li>
       <li>VERB: amlid, chretsit, fulsam, gaibid, gessam, gigeste, nducaid, nropridchissem, riat, rocomalnisid</li>
     </ul>
@@ -214,7 +214,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
       <li>AUX: is, d, ni, ba, p, am, as, bes, i, naba</li>
       <li>DET: a, in, ind</li>
       <li>NOUN: cenn, nem, precept, precepte, airli, carcair, chenél, chomalnad, chorp, chuimriug</li>
-      <li>PRON: mo, a, m, t, hed, hé, d, do, mm, tú</li>
+      <li>PRON: sa, mo, a, m, se, t, hed, hé, cáich, d</li>
       <li>PROPN: abracham, crist, moysi</li>
       <li>VERB: tá, ail, anicc, arim, beir, beo, bera, bered, berinn, bia</li>
     </ul>
@@ -231,6 +231,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
       <li>ADJ: diadi, domunde, macthi, mílsi</li>
       <li>DET: inna, a, na</li>
       <li>NOUN: cenn, biada, béssu, chomalnad, chumang, comarbus, dia, dánu, etargne, etiuth</li>
+      <li>PRON: són</li>
       <li>PROPN: maccidóndu</li>
     </ul>
   </li>
@@ -251,6 +252,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
       <li>ADJ: domunde</li>
       <li>DET: ind, inna</li>
       <li>NOUN: precepte, soscéli, belre, firinne, hirisse, mban, nanme, nathar, sosceli, tol</li>
+      <li>PRON: cáich</li>
       <li>PROPN: crist</li>
     </ul>
   </li>
@@ -485,7 +487,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: cách, cáich, níi</li>
+      <li>PRON: cách, níi, cáich</li>
     </ul>
   </li>
 </ul>
@@ -539,7 +541,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
     <ul>
       <li>ADP: lim, limm, linn</li>
       <li>AUX: bimmi, am, nda</li>
-      <li>PRON: mo, m, ar, mm, n</li>
+      <li>PRON: sa, mo, m, ar, se, ni, mm, n</li>
       <li>VERB: arim, beo, berinn, biur, biuu, denim, fulsam, gessam, gníu, guidimm</li>
     </ul>
   </li>
@@ -550,7 +552,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
     <ul>
       <li>ADP: dúib, dét, frib, fuirib, indib, lib, uáit, ṅduit</li>
       <li>AUX: ba, bed, naba</li>
-      <li>PRON: for, t, far, b, do, ndob, tú</li>
+      <li>PRON: si, for, t, far, b, do, ndob, so, tú</li>
       <li>VERB: amlid, gaibid, gigeste, léic, mil, nducaid, ngeiss, rocomalnisid, rreractid, rérachtid</li>
     </ul>
   </li>
@@ -561,7 +563,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
     <ul>
       <li>ADP: de, tree</li>
       <li>AUX: is, d, ni, p, as, ba, bes, i, nirubtar, ní</li>
-      <li>PRON: a, hed, hé, d, s</li>
+      <li>PRON: a, hed, hé, d, s, som</li>
       <li>VERB: tá, ail, anicc, beir, bera, bered, bia, carad, certa, chechladar</li>
     </ul>
   </li>
@@ -603,7 +605,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
       <li>Yes
         <ul>
           <li>CCONJ: et</li>
-          <li>X: et, gloria, legis</li>
+          <li>NOUN: gloria, legis</li>
         </ul>
       </li>
     </ul>
@@ -701,6 +703,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
+      <li>VERB--NOUN (1)</li>
       <li>VERB--NOUN-Acc (13)</li>
       <li>VERB--PRON (2)</li>
     </ul>
@@ -720,7 +723,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>compound:prt</a>, <a>flat:foreign</a>, <a>mark:int</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>obj:infx</a>, <a>obl:prep</a></li>
-<li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>flat</a></li>
-<li>The following 15 relation types are not used in this corpus at all: <a>iobj</a>, <a>vocative</a>, <a>expl</a>, <a>discourse</a>, <a>aux</a>, <a>appos</a>, <a>nummod</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a>, <a>dep</a></li>
+<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>compound:prt</a>, <a>mark:int</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>obj:infx</a>, <a>obl:prep</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
+<li>The following 16 relation types are not used in this corpus at all: <a>iobj</a>, <a>vocative</a>, <a>expl</a>, <a>discourse</a>, <a>aux</a>, <a>appos</a>, <a>nummod</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a>, <a>dep</a></li>
 </ul>

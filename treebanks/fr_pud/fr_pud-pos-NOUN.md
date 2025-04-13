@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>armée</em> (<tt><a href="fr_pud-pos-
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.178902 (the average of all parts of speech is 1.299853).
+The form / lemma ratio of `NOUN` is 1.178902 (the average of all parts of speech is 1.300126).
 
 The 1st highest number of forms (3) was observed with the lemma “chaîne”: <em>chaine, chaîne, chaînes</em>.
 

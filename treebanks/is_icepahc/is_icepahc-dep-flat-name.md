@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="is_icepahc-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="is_icepahc-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-3395 nodes (0%) are attached to their parents as `flat:name`.
+3396 nodes (0%) are attached to their parents as `flat:name`.
 
-3395 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+3396 instances of `flat:name` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (3386; 100% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (4; 0% instances).
+The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (3386; 100% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_icepahc-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

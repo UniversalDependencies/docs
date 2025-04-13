@@ -33,4 +33,4 @@ This feature marks both the short forms and the long forms, hence there are the 
 
 * _<b>теень</b> / <b>тейне</b>_ “to me”, _<b>тейть</b>_ “to you”, _<b>тейнза</b>_ “to him/her/it”,  _<b>теест</b>_ “to them”
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:26 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:09 CET -->

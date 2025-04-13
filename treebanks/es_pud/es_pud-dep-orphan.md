@@ -30,12 +30,12 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 6	dolor	dolor	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	_
 7	de	de	ADP	IN	_	8	case	_	_
 8	espalda	espalda	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
-9	,	,	PUNCT	,	_	10	punct	_	_
+9	,	,	PUNCT	,	PunctType=Comm	10	punct	_	_
 10	esta	este	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	3	conj	_	orig_deprel=nsubj
 11	con	con	ADP	IN	_	12	case	_	orig_deprel=obl
 12	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
 13	náuseas	náusea	NOUN	NN	Gender=Fem|Number=Plur	10	orphan	_	SpaceAfter=No
-14	,	,	PUNCT	,	_	18	punct	_	_
+14	,	,	PUNCT	,	PunctType=Comm	18	punct	_	_
 15	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	16	det	_	_
 16	producto	producto	NOUN	NN	Gender=Masc|Number=Sing	18	nsubj	_	_
 17	te	tú	PRON	PRP	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	18	obj	_	_
@@ -44,10 +44,10 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 20	por	por	ADP	IN	_	22	case	_	_
 21	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	noche	noche	NOUN	NN	Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
-23	,	,	PUNCT	,	_	24	punct	_	_
+23	,	,	PUNCT	,	PunctType=Comm	24	punct	_	_
 24	explica	explicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 25	Dietrich	Dietrich	PROPN	NNP	Gender=Masc|Number=Sing	24	nsubj	_	SpaceAfter=No
-26	,	,	PUNCT	,	_	29	punct	_	_
+26	,	,	PUNCT	,	PunctType=Comm	29	punct	_	_
 27	de	de	ADP	IN	_	29	case	_	_
 28	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
 29	sede	sede	NOUN	NN	Gender=Fem|Number=Sing	25	nmod	_	_
@@ -56,15 +56,15 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 32	compañía	compañía	NOUN	NN	Gender=Fem|Number=Sing	29	nmod	_	_
 33	en	en	ADP	IN	_	34	case	_	_
 34	Denver	Denver	PROPN	NNP	Number=Sing	29	nmod	_	SpaceAfter=No
-35	,	,	PUNCT	,	_	36	punct	_	_
+35	,	,	PUNCT	,	PunctType=Comm	36	punct	_	_
 36	Colorado	Colorado	PROPN	NNP	Number=Sing	34	appos	_	SpaceAfter=No
-37	,	,	PUNCT	,	_	40	punct	_	_
+37	,	,	PUNCT	,	PunctType=Comm	40	punct	_	_
 38	donde	donde	ADV	WRB	PronType=Rel	40	advmod	_	_
 39	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	40	expl:pass	_	_
 40	vende	vender	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	acl:relcl	_	_
 41	hierba	hierba	NOUN	NN	Gender=Fem|Number=Sing	40	nsubj:pass	_	_
 42	legalmente	legalmente	ADV	RB	_	40	advmod	_	SpaceAfter=No
-43	.	.	PUNCT	.	_	3	punct	_	_
+43	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -90,7 +90,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 13	sur	sur	NOUN	NN	Gender=Masc|Number=Sing	12	appos	_	_
 14	como	como	ADP	IN	_	15	case	_	_
 15	Transcaucásica	Transcaucásica	PROPN	NNP	Number=Sing	12	orphan	_	SpaceAfter=No
-16	.	.	PUNCT	.	_	7	punct	_	_
+16	.	.	PUNCT	.	PunctType=Peri	7	punct	_	_
 
 ~~~
 
@@ -110,17 +110,17 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 7	compañía	compañía	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj:pass	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	películas	película	NOUN	NN	Gender=Fem|Number=Plur	7	nmod	_	_
-10	(	(	PUNCT	(	_	11	punct	_	SpaceAfter=No
+10	(	(	PUNCT	(	PunctSide=Ini|PunctType=Brck	11	punct	_	SpaceAfter=No
 11	Athina	Athina	PROPN	NNP	Number=Sing	7	appos	_	_
 12	Film	Film	PROPN	NNP	Number=Sing	11	flat:name	_	SpaceAfter=No|Proper=True
-13	)	)	PUNCT	)	_	11	punct	_	_
+13	)	)	PUNCT	)	PunctSide=Fin|PunctType=Brck	11	punct	_	_
 14	y	y	CCONJ	CC	_	16	cc	_	_
 15	en	en	ADP	IN	_	16	case	_	orig_deprel=obl
 16	1916	1916	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	conj	_	SpaceAfter=No
-17	,	,	PUNCT	,	_	18	punct	_	_
+17	,	,	PUNCT	,	PunctType=Comm	18	punct	_	_
 18	Asty	Asty	PROPN	NNP	Number=Sing	16	orphan	_	_
 19	Film	Film	PROPN	NNP	Number=Sing	18	flat:name	_	SpaceAfter=No|orig_deprel=nsubj:pass|Proper=True
-20	.	.	PUNCT	.	_	4	punct	_	_
+20	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 ~~~
 

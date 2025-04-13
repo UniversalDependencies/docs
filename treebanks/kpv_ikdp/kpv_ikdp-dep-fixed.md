@@ -45,7 +45,7 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 2	,	,	PUNCT	CLB	_	3	punct	_	_
 3	гашке	гашкӧ	PART	Pcle	_	6	advmod:mmod	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	6	aux:neg	_	_
+5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	6	aux	_	_
 6	бросайтчы	бросайтчыны	VERB	V	Connegative=Yes	0	root	_	OrigLang=ru
 7	в	в	ADP	Pr	_	8	case	_	Lang=ru
 8	глаза	глаз	NOUN	N	Case=Nom|Number=Plur	6	obl	_	Lang=ru|SpaceAfter=No
@@ -66,7 +66,7 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 4	fgColor:white
 # visual-style 4 5 fixed	color:blue
 1	Тае	тайӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	9	det	_	GTtags=Dem,Sg,Nom,Err/Dial
-2	вот	вот	ADV	Adv	_	1	discourse	_	GTtags=Parenthetic|SpaceAfter=No
+2	вот	вот	ADV	Adv	_	9	discourse	_	GTtags=Parenthetic|SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	2	punct	_	_
 4	кызь	кызь	NUM	Num	Case=Nom|Number=Sing|NumType=Card	9	nummod	_	GTtags=Card,Sg,Nom
 5	кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	4	fixed	_	GTtags=Card,Sg,Nom|SpaceAfter=No

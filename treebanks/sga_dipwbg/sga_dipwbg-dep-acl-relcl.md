@@ -24,10 +24,10 @@ The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 4 5 acl:relcl	color:blue
 1	.i.	.i.	ADV	_	Abbr=Yes	2	advmod	_	_
 2	rocomalnisid	comalnaithir	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
-3	si	si	PRON	_	PronType=Emp	2	amod	_	_
+3	si	si	PRON	_	Number=Plur|Person=2|PronType=Emp	2	amod	_	_
 4	a	a	PART	_	PartType=Rel|PronType=Dem	2	obj	_	SpaceAfter=No
 5	nropridchissem	pridchaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|Voice=Act	4	acl:relcl	_	SpaceAfter=No
-6	ni	ni	PRON	_	PronType=Emp	5	amod	_	_
+6	ni	ni	PRON	_	Number=Plur|Person=1|PronType=Emp	5	amod	_	_
 7	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	5	obl:prep	_	_
 
 ~~~
@@ -46,13 +46,13 @@ The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 5	ni	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	6	nsubj	_	SpaceAfter=No
 6	tú	tú	PRON	_	Number=Sing|Person=2|PronType=Prs	3	dislocated	_	_
 7	no	no	PART	_	PartType=Vb	9	compound:prt	_	SpaceAfter=No
-8	d	id	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=C|PronType=Prs	7	obj:infx	_	SpaceAfter=No
+8	d	id_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=C|PronType=Prs	7	obj:infx	_	SpaceAfter=No
 9	nail	ailid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	acl:relcl	_	_
 10	acht	acht	SCONJ	_	_	12	mark	_	_
 11	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	12	nsubj	_	SpaceAfter=No
-12	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	acl	_	_
+12	hé	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	acl	_	_
 13	no	no	PART	_	PartType=Vb	15	compound:prt	_	SpaceAfter=No
-14	t	t	PRON	_	Number=Sing|Person=2|PronClass=A|PronType=Prs	13	obj:infx	_	_
+14	t	t_1	PRON	_	Number=Sing|Person=2|PronClass=A|PronType=Prs	13	obj:infx	_	_
 15	ail	ailid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	12	acl:relcl	_	_
 
 ~~~

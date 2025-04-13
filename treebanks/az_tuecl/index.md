@@ -12,15 +12,15 @@ udver: '2'
 # UD Azerbaijani TueCL
 
 Language: [Azerbaijani](/az/index.html) (code: `az`)<br/>
-Family: Turkic, Southwestern
+Family: Turkic
 
 This treebank has been part of Universal Dependencies since the UD v2.14 release.
 
 The following people have contributed to making this treebank part of UD: Soudabeh Eslami, Çağrı Çöltekin.
 
 Repository: [UD_Azerbaijani-TueCL](https://github.com/UniversalDependencies/UD_Azerbaijani-TueCL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaz_tuecl214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaz_tuecl215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -76,17 +76,17 @@ We are deeply thankful to the [UD Turkic Group](https://github.com/ud-turkic) fo
 
 ## Relations
 
-[acl](az_tuecl-dep-acl.html) – [advcl](az_tuecl-dep-advcl.html) – [advmod](az_tuecl-dep-advmod.html) – [advmod:emph](az_tuecl-dep-advmod-emph.html) – [amod](az_tuecl-dep-amod.html) – [appos](az_tuecl-dep-appos.html) – [aux](az_tuecl-dep-aux.html) – [case](az_tuecl-dep-case.html) – [cc](az_tuecl-dep-cc.html) – [ccomp](az_tuecl-dep-ccomp.html) – [clf](az_tuecl-dep-clf.html) – [compound](az_tuecl-dep-compound.html) – [compound:lvc](az_tuecl-dep-compound-lvc.html) – [compound:redup](az_tuecl-dep-compound-redup.html) – [conj](az_tuecl-dep-conj.html) – [cop](az_tuecl-dep-cop.html) – [det](az_tuecl-dep-det.html) – [discourse](az_tuecl-dep-discourse.html) – [fixed](az_tuecl-dep-fixed.html) – [flat](az_tuecl-dep-flat.html) – [mark](az_tuecl-dep-mark.html) – [nmod](az_tuecl-dep-nmod.html) – [nmod:poss](az_tuecl-dep-nmod-poss.html) – [nsubj](az_tuecl-dep-nsubj.html) – [nsubj:outer](az_tuecl-dep-nsubj-outer.html) – [nummod](az_tuecl-dep-nummod.html) – [obj](az_tuecl-dep-obj.html) – [obl](az_tuecl-dep-obl.html) – [orphan](az_tuecl-dep-orphan.html) – [parataxis](az_tuecl-dep-parataxis.html) – [punct](az_tuecl-dep-punct.html) – [root](az_tuecl-dep-root.html) – [vocative](az_tuecl-dep-vocative.html) – [xcomp](az_tuecl-dep-xcomp.html)
+[acl](az_tuecl-dep-acl.html) – [advcl](az_tuecl-dep-advcl.html) – [advmod](az_tuecl-dep-advmod.html) – [advmod:emph](az_tuecl-dep-advmod-emph.html) – [amod](az_tuecl-dep-amod.html) – [appos](az_tuecl-dep-appos.html) – [aux](az_tuecl-dep-aux.html) – [case](az_tuecl-dep-case.html) – [cc](az_tuecl-dep-cc.html) – [ccomp](az_tuecl-dep-ccomp.html) – [compound](az_tuecl-dep-compound.html) – [compound:lvc](az_tuecl-dep-compound-lvc.html) – [compound:redup](az_tuecl-dep-compound-redup.html) – [conj](az_tuecl-dep-conj.html) – [cop](az_tuecl-dep-cop.html) – [det](az_tuecl-dep-det.html) – [discourse](az_tuecl-dep-discourse.html) – [fixed](az_tuecl-dep-fixed.html) – [flat](az_tuecl-dep-flat.html) – [mark](az_tuecl-dep-mark.html) – [nmod](az_tuecl-dep-nmod.html) – [nmod:poss](az_tuecl-dep-nmod-poss.html) – [nsubj](az_tuecl-dep-nsubj.html) – [nsubj:outer](az_tuecl-dep-nsubj-outer.html) – [nummod](az_tuecl-dep-nummod.html) – [obj](az_tuecl-dep-obj.html) – [obl](az_tuecl-dep-obl.html) – [orphan](az_tuecl-dep-orphan.html) – [parataxis](az_tuecl-dep-parataxis.html) – [punct](az_tuecl-dep-punct.html) – [root](az_tuecl-dep-root.html) – [vocative](az_tuecl-dep-vocative.html) – [xcomp](az_tuecl-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 108 sentences, 649 tokens and 656 syntactic words.</li>
+<li>This corpus contains 109 sentences, 655 tokens and 663 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 136 tokens (21%) that are not followed by a space.</li>
+<li>This corpus contains 137 tokens (21%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -98,8 +98,8 @@ We are deeply thankful to the [UD Turkic Group](https://github.com/ud-turkic) fo
 </ul>
 
 <ul>
-<li>This corpus contains 7 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 7 types of multi-word tokens. Examples: Denizinkinin, aşpazxananınkını, bağdakı, evdəki, kitabxanadakılar, pərəstarıdı, sәninkindәn.</li>
+<li>This corpus contains 8 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 7 types of multi-word tokens. Examples: evdəki, Denizinkinin, aşpazxananınkını, bağdakı, kitabxanadakılar, pərəstarıdı, sәninkindәn.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -119,7 +119,7 @@ We are deeply thankful to the [UD Turkic Group](https://github.com/ud-turkic) fo
 </ul>
 
 <ul>
-<li>This corpus contains 7 lemmas tagged as determiners (DET): bir, bu, dənə, harda, heç, o, tamam</li>
+<li>This corpus contains 6 lemmas tagged as determiners (DET): bir, bu, harda, heç, o, tamam</li>
 </ul>
 
 <ul>
@@ -193,7 +193,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (24)</li>
+      <li>VERB--NOUN (25)</li>
       <li>VERB--PRON (9)</li>
     </ul>
   </li>
@@ -202,7 +202,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (31)</li>
+      <li>VERB--NOUN (32)</li>
       <li>VERB--PRON (3)</li>
     </ul>
   </li>
@@ -222,5 +222,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 5 relation subtypes: <a>advmod:emph</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>nmod:poss</a>, <a>nsubj:outer</a></li>
-<li>The following 8 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>expl</a>, <a>dislocated</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 9 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

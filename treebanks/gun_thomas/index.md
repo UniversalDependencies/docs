@@ -12,15 +12,15 @@ udver: '2'
 # UD Mbya Guarani Thomas
 
 Language: [Mbya Guarani](/gun/index.html) (code: `gun`)<br/>
-Family: Tupian, Maweti-Guarani
+Family: Tupian
 
 This treebank has been part of Universal Dependencies since the UD v2.4 release.
 
 The following people have contributed to making this treebank part of UD: Guillaume Thomas.
 
 Repository: [UD_Mbya_Guarani-Thomas](https://github.com/UniversalDependencies/UD_Mbya_Guarani-Thomas)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgun_thomas214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgun_thomas215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 4.0
 

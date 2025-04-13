@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-acl.html">acl</a></tt>.
 
-378 nodes (0%) are attached to their parents as `acl:relcl`.
+717 nodes (0%) are attached to their parents as `acl:relcl`.
 
-315 instances of `acl:relcl` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.37566137566138.
+580 instances of `acl:relcl` (81%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.28591352859135.
 
-The following 26 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (215; 57% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (39; 10% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (29; 8% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (19; 5% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (12; 3% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (9; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (9; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-X.html">X</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 32 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (392; 55% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (78; 11% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (50; 7% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (48; 7% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (25; 3% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (19; 3% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (16; 2% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (14; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (13; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-X.html">X</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,55 +38,47 @@ The following 26 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 7 acl:relcl	color:blue
-1	И	и	CCONJ	_	_	3	cc	_	Norm="И"
-2	Чюдь	чудь	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	Norm="Чюдь"
-3	победи	побѣдити	VERB	Tense=Aor	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Norm="победи"|SpaceAfter=No
-4	,	,	PUNCT	_	_	7	punct	_	Norm=","
-5	иже	иже	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	Norm="иже"
-6	въ	въ	ADP	_	_	7	case	_	Norm="въ"
-7	предѣлехъ	предѣлъ	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	2	acl:relcl	_	Norm="предѣлехъ"
-8	преславнаго	преславный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	Norm="преславнаго"
-9	града	градъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	Norm="града"
-10	Пьскова	Псковъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	9	appos	_	Norm="Пьскова"|SpaceAfter=No
-11	,	,	PUNCT	_	_	17	punct	_	Norm=","
-12	и	и	CCONJ	_	_	17	cc	_	Norm="и"
-13	тамо	тамо	ADV	_	Degree=Pos|PronType=Dem	17	advmod	_	upos="ADVPRO"|Norm="тамо"
-14	же	же	PART	_	_	13	advmod	_	Norm="же"
-15	и	и	PART	_	_	16	advmod	_	Norm="и"
-16	градъ	градъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	17	obj	_	Norm="градъ"
-17	постави	поставити	VERB	Tense=Aor	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Norm="постави"
-18	Юрьевъ	Юрьевъ	PROPN	_	Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	16	appos	_	Norm="Юрьевъ"
-19	по	по	ADP	_	_	20	case	_	Norm="по"
-20	имени	имя	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	17	obl	_	Norm="имени"
-21	своему	свой	DET	_	Case=Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	20	det	_	Norm="своему"|SpaceAfter=No
-22	.	.	PUNCT	_	_	3	punct	_	Norm="."
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 9 acl:relcl	color:blue
+1	{л._2_об.}	_	X	_	_	4	dep	_	norm="{л._2_об.}"|NoIndex=Yes
+2	И	и	CCONJ	_	_	4	cc	_	norm="И"
+3	меньшая	меньший	ADJ	_	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	4	amod	_	norm="меньшая"|Decl=X|End=яа|check=@
+4	половина	половина	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	norm="половина"|Decl=1a|End=а|check=@
+5	Скифии	Скифия	PROPN	_	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	4	nmod	_	norm="Скифии"|Decl=1i|End=ии|SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	norm=","
+7	яже	иже	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	9	nsubj	_	norm="яже"|Decl=X|End=ежя
+8	над	надъ	ADP	_	_	9	case	_	norm="над"|check=@
+9	морем	море	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	4	acl:relcl	_	norm="морем"|Decl=2|End=ме|check=@
+10	Ассийским	асийский	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	norm="Ассийским"|Decl=X|End=ми|SpaceAfter=No|check=@
+11	,	,	PUNCT	_	_	9	punct	_	norm=","
+12	называется	называтися	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	norm="называется"|Decl=X|End=ясте
+13	Тартариа	Тартария	PROPN	_	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	12	xcomp	_	norm="Тартариа"|Decl=1i|End=аи|check=@
+14	великая	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	norm="великая"|Decl=X|End=яа|SpaceAfter=No|check=@
+15	.	.	PUNCT	_	_	12	punct	_	norm="."
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 4 acl:relcl	color:blue
-1	А	а	CCONJ	_	_	11	cc	_	_
-2	комꙋ	кто	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	4	iobj	_	_
-3	бꙋдеш[ь]	быти	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	4	aux	_	_
-4	целовал	цѣловати	VERB	Analyt=Yes|Tense=Fut2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	8	acl:relcl	_	_
-5	кр[е]стъ	крестъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	4	punct	_	_
-7	а	а	CCONJ	_	_	11	cc	_	_
-8	томꙋ	тотъ	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	11	iobj	_	_
-9	ти	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	11	iobj	_	_
-10	целован[ь]е	цѣлование	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	_
-11	сложити	сложити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 acl:relcl	color:blue
+1	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	norm="она"|Decl=X|End=а
+2	де	де	PART	_	_	1	discourse	_	norm="де"
+3	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	8	reparandum	_	norm="все"|Decl=X|End=е
+4	что	что	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	obj	_	norm="что"|Decl=X|End=о
+5	привезла	привезти	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	3	acl:relcl	_	norm="привезла"|Decl=X|End=ал
+6	с	съ	ADP	_	_	7	case	_	norm="с"|check=@
+7	собою	себя	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	5	obl	_	norm="собою"|Decl=X|End=юо|check=@
+8	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	9	obj	_	norm="все"|Decl=X|End=е
+9	роздала	раздати	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	norm="роздала"|Decl=X|End=ал
+10	брату	братъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	9	iobj	_	norm="брату"|Decl=2|End=у
+11	нарочно	нарочно	ADV	_	Degree=Pos	9	advmod	_	norm="нарочно"|Decl=X|End=о
 
 ~~~
 

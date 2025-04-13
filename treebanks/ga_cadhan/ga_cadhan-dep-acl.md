@@ -25,11 +25,11 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 3 5 acl	color:blue
 1	Gach	gach	DET	_	Definite=Def	3	det	_	_
 2	uile	uile	DET	_	PronType=Ind	3	det	_	_
-3	dhuine	duine	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	0	root	_	_
+3	dhuine	duine	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	0	root	_	_
 4	ag	ag	ADP	_	_	5	case	_	_
 5	cur	cur	NOUN	_	VerbForm=Vnoun	3	acl	_	_
 6	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	7	nmod:poss	_	_
-7	ladair	ladar	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	obj	_	_
+7	ladair	ladar	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	obj	_	_
 8	fhéin	féin	PRON	_	Form=Len|Reflex=Yes	7	nmod	_	_
 9	isteach	isteach	ADV	_	_	5	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
@@ -78,14 +78,14 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 1	Tuig	tuig	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	4	punct	_	_
 3	a	a	PART	_	PartType=Voc	4	case:voc	_	_
-4	léaghthóir	léitheoir	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	SpaceAfter=No
+4	léaghthóir	léitheoir	NOUN	_	Case=Voc|Definite=Def|Gender=Masc|Number=Sing	1	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	go	go	PART	_	PartType=Cmpl	7	mark:prt	_	_
 7	rabhadar	bí	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	1	ccomp	_	_
 8	trí	trí	NUM	_	NumType=Card	9	nummod	_	_
 9	heasbadha	easpa	NOUN	_	Case=Nom|Form=HPref|Gender=Fem|Number=Sing	7	nsubj	_	_
 10	ar	ar	ADP	_	_	11	case	_	_
-11	Stanihurst	Stanihurst	PROPN	_	Foreign=Yes|Gender=Masc|Number=Sing	7	xcomp:pred	_	_
+11	Stanihurst	Stanihurst	PROPN	_	Definite=Def|Foreign=Yes|Gender=Masc|Number=Sing	7	xcomp:pred	_	_
 12	re	le	ADP	_	_	13	case	_	_
 13	scríobhadh	scríobh	NOUN	_	VerbForm=Inf	9	acl	_	_
 14	stáire	stair	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	obj	_	_

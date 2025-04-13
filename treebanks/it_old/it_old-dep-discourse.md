@@ -8,28 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-185 nodes (0%) are attached to their parents as `discourse`.
+247 nodes (0%) are attached to their parents as `discourse`.
 
-182 instances of `discourse` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.14054054054054.
+244 instances of `discourse` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.81376518218623.
 
-The following 18 pairs of parts of speech are connected with `discourse`: <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> (58; 31% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PART.html">PART</a></tt> (34; 18% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> (24; 13% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> (21; 11% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-PART.html">PART</a></tt> (12; 6% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> (10; 5% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> (7; 4% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (6; 3% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="it_old-pos-X.html">X</a></tt>-<tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 discourse	color:blue
-1	Oh	oh	INTJ	i	_	5	discourse	_	Canto=23|Verso=67
-2	in	in	ADP	_	_	3	case	_	Canto=23|Verso=67
-3	etterno	etterno	NOUN	_	Gender=Masc|Number=Sing	5	obl:tmod	_	Canto=23|Verso=67
-4	faticoso	faticoso	ADJ	a1ms	Gender=Masc|Number=Sing	5	amod	_	Canto=23|Verso=67
-5	manto	manto	NOUN	sm2ms	Gender=Masc|Number=Sing	0	root	_	Canto=23|SpaceAfter=No|Verso=67
-6	!	!	PUNCT	_	_	5	punct	_	_
-
-~~~
+The following 21 pairs of parts of speech are connected with `discourse`: <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PART.html">PART</a></tt> (76; 31% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> (59; 24% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> (27; 11% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> (22; 9% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-PART.html">PART</a></tt> (20; 8% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> (10; 4% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> (7; 3% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PART.html">PART</a></tt> (6; 2% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_old-pos-X.html">X</a></tt>-<tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,6 +40,22 @@ The following 18 pairs of parts of speech are connected with `discourse`: <tt><a
 16	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 17	»	»	PUNCT	_	_	6	punct	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 discourse	color:blue
+1	Oh	oh	INTJ	i	_	5	discourse	_	Canto=23|Verso=67
+2	in	in	ADP	_	_	3	case	_	Canto=23|Verso=67
+3	etterno	etterno	NOUN	_	Gender=Masc|Number=Sing	5	obl:tmod	_	Canto=23|Verso=67
+4	faticoso	faticoso	ADJ	a1ms	Gender=Masc|Number=Sing	5	amod	_	Canto=23|Verso=67
+5	manto	manto	NOUN	sm2ms	Gender=Masc|Number=Sing	0	root	_	Canto=23|SpaceAfter=No|Verso=67
+6	!	!	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

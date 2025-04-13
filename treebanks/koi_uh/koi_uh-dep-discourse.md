@@ -73,7 +73,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 2	Мый	мый	PRON	Pron	Animacy=Nhum|Case=Nom|PronType=Int	6	obl	_	GTtags=Sem/NonHum,Nom,Interr
 3	нӧ	нӧ	PART	Pcle	_	2	discourse	_	_
 4	дыр	дыр	ADV	Adv	_	6	advmod	_	_
-5	эн	оз	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Past	6	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg2
+5	эн	оз	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Past	6	aux	_	GTtags=Neg,Ind,Prt1,Sg2
 6	лок	локны	VERB	V	Connegative=Yes	0	root	_	GTtags=ConNeg|SpaceAfter=No
 7	?	?	PUNCT	CLB	_	6	punct	_	_
 8	—	—	PUNCT	PUNCT	_	13	punct	_	_

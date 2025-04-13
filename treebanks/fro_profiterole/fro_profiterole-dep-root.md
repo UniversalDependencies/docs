@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-19765 nodes (9%) are attached to their parents as `root`.
+20363 nodes (9%) are attached to their parents as `root`.
 
-19765 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.9636731596256.
+20363 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.98757550459166.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (18066; 91% instances), -<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (753; 4% instances), -<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (587; 3% instances), -<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (186; 1% instances), -<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (110; 1% instances), -<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (40; 0% instances), -<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (10; 0% instances), -<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (7; 0% instances), -<tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), -<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="fro_profiterole-pos-X.html">X</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (18623; 91% instances), -<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (769; 4% instances), -<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (596; 3% instances), -<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (192; 1% instances), -<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (112; 1% instances), -<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (41; 0% instances), -<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (10; 0% instances), -<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (8; 0% instances), -<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (7; 0% instances), -<tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), -<tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="fro_profiterole-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

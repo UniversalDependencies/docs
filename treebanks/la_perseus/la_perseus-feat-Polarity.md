@@ -32,5 +32,5 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>non</em>
-* `EMPTY` (450): <em>non, nam, autem, enim, quidem, igitur, haud, o, ecce, namque</em>
+* `EMPTY` (474): <em>non, nam, autem, enim, quoque, quidem, igitur, haud, o, ecce</em>
 

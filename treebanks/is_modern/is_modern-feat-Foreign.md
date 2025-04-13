@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-147 tokens (0%) have a non-empty value of `Foreign`.
-101 types (1%) occur at least once with a non-empty value of `Foreign`.
-98 lemmas (2%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 3 part-of-speech tags: <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (88; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (57; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (2; 0% instances).
+149 tokens (0%) have a non-empty value of `Foreign`.
+103 types (1%) occur at least once with a non-empty value of `Foreign`.
+100 lemmas (2%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 3 part-of-speech tags: <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (88; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (59; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (2; 0% instances).
 
 ### `PROPN`
 
@@ -29,14 +29,14 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 
 ### `X`
 
-57 <tt><a href="is_modern-pos-X.html">X</a></tt> tokens (63% of all `X` tokens) have a non-empty value of `Foreign`.
+59 <tt><a href="is_modern-pos-X.html">X</a></tt> tokens (65% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (57; 100% of non-empty `Foreign`): <em>Molde, 2016, Eidur, FK, i, se, your, 22, 3, 8</em>
-* `EMPTY` (33): <em>að, Damörku, Danmörki, EM, Hafnfirðingur, a.m.k., brimbreti, final-four, horfið, hryðjuverkaárásana</em>
+* `Yes` (59; 100% of non-empty `Foreign`): <em>Molde, 2016, Eidur, FK, i, se, your, 22, 3, 8</em>
+* `EMPTY` (32): <em>að, Damörku, Danmörki, EM, Hafnfirðingur, a.m.k., brimbreti, final-four, horfið, hryðjuverkaárásana</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (48) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (50) occur only with one value of `Foreign`.
 
 ### `ADV`
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>X --[<tt><a href="is_modern-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (28; 85%),
+<tt>X --[<tt><a href="is_modern-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (34; 100%),
 <tt>PROPN --[<tt><a href="is_modern-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (18; 75%),
-<tt>X --[<tt><a href="is_modern-dep-dep.html">dep</a></tt>]--> X</tt> (3; 75%).
+<tt>X --[<tt><a href="is_modern-dep-dep.html">dep</a></tt>]--> X</tt> (4; 100%).
 

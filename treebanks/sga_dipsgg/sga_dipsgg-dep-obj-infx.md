@@ -41,7 +41,7 @@ The following 1 pairs of parts of speech are connected with `obj:infx`: <tt><a h
 17	mail	mael	PROPN	_	Case=Voc|Number=Sing	13	vocative	_	_
 18	bachal	bachall	NOUN	_	Case=Gen|Number=Plur	17	nmod	_	_
 19	ro	ro	PART	_	PartType=Aug	21	compound:prt	_	SpaceAfter=No
-20	t	t	PRON	_	Number=Sing|Person=2|PronClass=A|PronType=Prs	19	obj:infx	_	_
+20	t	t_1	PRON	_	Number=Sing|Person=2|PronClass=A|PronType=Prs	19	obj:infx	_	_
 21	giuil	glenaid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	1	parataxis	_	_
 22	ind	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	23	det	_	SpaceAfter=No
 23	ṡrathar	srathar	NOUN	_	Case=Nom|Number=Sing	21	obj	_	_

@@ -174,7 +174,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="sme_giella-dep-conj.html">conj</a></tt>]--> NOUN</tt> (323; 96%),
-<tt>NOUN --[<tt><a href="sme_giella-dep-det.html">det</a></tt>]--> PRON</tt> (169; 93%),
+<tt>NOUN --[<tt><a href="sme_giella-dep-det.html">det</a></tt>]--> PRON</tt> (168; 93%),
 <tt>ADJ --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (118; 98%),
 <tt>ADJ --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (76; 100%),
 <tt>NOUN --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (74; 74%),

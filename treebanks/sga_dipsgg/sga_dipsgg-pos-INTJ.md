@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Old_Irish-DipSGG: POS Tags: `INTJ`
 
 There are 4 `INTJ` lemmas (2%), 4 `INTJ` types (1%) and 4 `INTJ` tokens (1%).
-Out of 16 observed tags, the rank of `INTJ` is: 11 in number of lemmas, 13 in number of types and 15 in number of tokens.
+Out of 16 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 13 in number of types and 15 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>debrath, uch, uit, ó</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ó</em> (<tt><a href="sga_dipsgg-pos-
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.261062).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.295652).
 
 The 1st highest number of forms (1) was observed with the lemma “debrath”: <em>debrath</em>.
 

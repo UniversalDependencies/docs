@@ -72,7 +72,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 7	the	the	DET	DEF	Definite=Def|PronType=Art	12	det	_	_
 8	Legal	legal	ADJ	POS	Degree=Pos	9	amod	_	_
 9	Affairs	affair	NOUN	PL-NOM	Number=Plur	10	compound	_	_
-10	Committee	committee	NOUN	SG	Number=Sing	12	nmod	_	_
+10	Committee	committee	NOUN	SG	Number=Sing	12	nmod:poss	_	_
 11	's	's	PART	GEN	_	10	case	_	_
 12	opinion	opinion	NOUN	SG-NOM	Number=Sing	5	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	Comma	_	3	punct	_	_

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Acc`, `Gen`, `Nom`.
 
-7488 tokens (39%) have a non-empty value of `Case`.
-4783 types (77%) occur at least once with a non-empty value of `Case`.
-3955 lemmas (79%) occur at least once with a non-empty value of `Case`.
-The feature is used with 6 part-of-speech tags: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (3920; 21% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1549; 8% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (1201; 6% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (430; 2% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (387; 2% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+7493 tokens (39%) have a non-empty value of `Case`.
+4784 types (77%) occur at least once with a non-empty value of `Case`.
+3956 lemmas (79%) occur at least once with a non-empty value of `Case`.
+The feature is used with 6 part-of-speech tags: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (3920; 21% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1554; 8% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (1201; 6% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (430; 2% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (387; 2% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -38,17 +38,17 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-1549 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Case`.
+1554 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1387; 90%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1322; 85%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1322; 85%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1062; 69%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (803; 52%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1388; 89%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1327; 85%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1327; 85%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1068; 69%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (806; 52%).
 
 `ADJ` tokens may have the following values of `Case`:
 
 * `Gen` (1; 0% of non-empty `Case`): <em>ofattbaras</em>
-* `Nom` (1548; 100% of non-empty `Case`): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, samma</em>
-* `EMPTY` (20): <em>St., American, National, New, Breaking, Civil, Environmental, First, Golden, Royal</em>
+* `Nom` (1553; 100% of non-empty `Case`): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, samma</em>
+* `EMPTY` (19): <em>St., American, National, New, Civil, Environmental, First, Golden, Royal, Shaky</em>
 
-`Case` seems to be **lexical feature** of `ADJ`. 100% lemmas (746) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `ADJ`. 100% lemmas (747) occur only with one value of `Case`.
 
 ### `PROPN`
 
@@ -77,7 +77,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 * `Acc` (125; 29% of non-empty `Case`): <em>sig, honom, dem, henne, oss, mig, dig, er, varandra</em>
 * `Nom` (305; 71% of non-empty `Case`): <em>han, de, jag, hon, vi, du, man, Me, Papua, ni</em>
-* `EMPTY` (889): <em>som, det, hans, sin, den, sina, dess, deras, hennes, detta</em>
+* `EMPTY` (890): <em>som, det, hans, sin, den, sina, dess, deras, hennes, detta</em>
 
 <table>
   <tr><th>Paradigm <i>han</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -104,14 +104,14 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 `ADV` tokens may have the following values of `Case`:
 
 * `Nom` (1; 100% of non-empty `Case`): <em>Anyway</em>
-* `EMPTY` (1017): <em>så, mer, in, ut, där, också, upp, bara, fram, här</em>
+* `EMPTY` (1011): <em>så, mer, in, ut, där, också, upp, bara, fram, här</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="sv_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1135; 97%),
-<tt>NOUN --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (610; 95%),
-<tt>NOUN --[<tt><a href="sv_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (224; 95%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1139; 97%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (628; 95%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (223; 95%),
 <tt>NOUN --[<tt><a href="sv_pud-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (217; 88%),
 <tt>PROPN --[<tt><a href="sv_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (172; 95%),
 <tt>NOUN --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (148; 91%),

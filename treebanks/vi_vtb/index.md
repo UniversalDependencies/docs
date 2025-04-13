@@ -12,15 +12,15 @@ udver: '2'
 # UD Vietnamese VTB
 
 Language: [Vietnamese](/vi/index.html) (code: `vi`)<br/>
-Family: Austro-Asiatic, Viet-Muong
+Family: Austro-Asiatic
 
 This treebank has been part of Universal Dependencies since the UD v1.4 release.
 
 The following people have contributed to making this treebank part of UD: Lương Nguyễn Thị, Linh Hà Mỹ, Phương Lê Hồng, Huyền Nguyễn Thị Minh.
 
 Repository: [UD_Vietnamese-VTB](https://github.com/UniversalDependencies/UD_Vietnamese-VTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udvi_vtb214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udvi_vtb215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

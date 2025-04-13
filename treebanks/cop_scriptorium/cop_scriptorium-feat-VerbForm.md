@@ -36,7 +36,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="cop_scriptorium-pos
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Fin` (59; 100% of non-empty `VerbForm`): ϣ, ⲉϣ, ϫⲡⲓ, ⲛⲉϣ
-* `EMPTY` (3422): ⲁ, ⲛⲁ, ⲛ, ⲛⲉ, ⲛⲧⲉⲣⲉ, ϣⲁ, ⲙⲡ, ⲛⲧⲉⲣ, ⲙⲡⲉ, ⲙⲁⲣⲉ
+* `EMPTY` (3423): ⲁ, ⲛⲁ, ⲛ, ⲛⲉ, ⲛⲧⲉⲣⲉ, ϣⲁ, ⲙⲡ, ⲛⲧⲉⲣ, ⲙⲡⲉ, ⲙⲁⲣⲉ
 
 ### `PRON`
 
@@ -47,19 +47,19 @@ The most frequent other feature values with which `PRON` and `VerbForm` co-occur
 `PRON` tokens may have the following values of `VerbForm`:
 
 * `Fin` (2; 100% of non-empty `VerbForm`): ϫⲓⲧ, ϫⲡⲟ
-* `EMPTY` (9353): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲓ, ⲕ, ⲛ, ⲡⲉ, ⲧⲛ, ⲧⲉⲧⲛ
+* `EMPTY` (9352): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲓ, ⲕ, ⲛ, ⲡⲉ, ⲧⲛ, ⲧⲉⲧⲛ
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="cop_scriptorium-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1192; 94%),
 <tt>VERB --[<tt><a href="cop_scriptorium-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (526; 96%),
-<tt>VERB --[<tt><a href="cop_scriptorium-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (518; 95%),
+<tt>VERB --[<tt><a href="cop_scriptorium-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (500; 94%),
 <tt>VERB --[<tt><a href="cop_scriptorium-dep-conj.html">conj</a></tt>]--> VERB</tt> (409; 94%),
+<tt>VERB --[<tt><a href="cop_scriptorium-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (21; 62%),
 <tt>VERB --[<tt><a href="cop_scriptorium-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (5; 83%),
 <tt>VERB --[<tt><a href="cop_scriptorium-dep-obj.html">obj</a></tt>]--> VERB</tt> (4; 80%),
 <tt>VERB --[<tt><a href="cop_scriptorium-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="cop_scriptorium-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (2; 67%),
-<tt>VERB --[<tt><a href="cop_scriptorium-dep-compound.html">compound</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="cop_scriptorium-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="cop_scriptorium-dep-compound.html">compound</a></tt>]--> VERB</tt> (1; 100%).
 

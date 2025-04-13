@@ -31,4 +31,4 @@ Some Belarusian family names are indeclinable.
 * _касцюм ***беж***_ 'beige suit' (Adjective) 
 
 There seem to be no indeclinable forms of pronouns. Neither [infinitives](u-feat/VerbForm) nor finite verbs attested in only one (impersonal) form, are labeled with this feature.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:01 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:45 CET -->

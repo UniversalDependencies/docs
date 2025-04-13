@@ -10,16 +10,16 @@ This feature is universal.
 It occurs with 8 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-75445 tokens (17%) have a non-empty value of `PronType`.
+75458 tokens (17%) have a non-empty value of `PronType`.
 348 types (1%) occur at least once with a non-empty value of `PronType`.
 125 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (60884; 14% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (14033; 3% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (528; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (60884; 14% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (14046; 3% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (528; 0% instances).
 
 ### `DET`
 
 60884 <tt><a href="es_gsd-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (48232; 79%), <tt><a href="es_gsd-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (43543; 72%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (32137; 53%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (48311; 79%), <tt><a href="es_gsd-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (43543; 72%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (32137; 53%).
 
 `DET` tokens may have the following values of `PronType`:
 
@@ -50,9 +50,9 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-14033 <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+14046 <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9585; 68%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (8986; 64%), <tt><a href="es_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (8637; 62%), <tt><a href="es_gsd-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (8232; 59%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9593; 68%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (8999; 64%), <tt><a href="es_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (8642; 62%), <tt><a href="es_gsd-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (8245; 59%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -61,7 +61,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Int` (94; 1% of non-empty `PronType`): <em>qué, quién, cuál, cuáles, quiénes, What</em>
 * `Int,Rel` (4; 0% of non-empty `PronType`): <em>Cuantas, Cuánto, Who, cuantos</em>
 * `Neg` (155; 1% of non-empty `PronType`): <em>nada, nadie, ninguno, ninguna, niguna</em>
-* `Prs` (9989; 71% of non-empty `PronType`): <em>se, lo, le, la, me, los, nos, les, te, él</em>
+* `Prs` (10002; 71% of non-empty `PronType`): <em>se, lo, le, la, me, los, nos, les, te, él</em>
 * `Rel` (1454; 10% of non-empty `PronType`): <em>que, cual, quien, quienes, cuales</em>
 * `Tot` (305; 2% of non-empty `PronType`): <em>todo, todos, ambos, ambas, todas, toda, Alles</em>
 
@@ -80,7 +80,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Int` (23; 4% of non-empty `PronType`): <em>dónde, cuándo</em>
 * `Int,Rel` (2; 0% of non-empty `PronType`): <em>cual, cuánto</em>
 * `Rel` (501; 95% of non-empty `PronType`): <em>donde, cuando</em>
-* `EMPTY` (11970): <em>no, más, también, muy, ya, además, así, después, sólo, bien</em>
+* `EMPTY` (11971): <em>no, más, también, muy, ya, además, así, después, sólo, bien</em>
 
 ## Relations with Agreement in `PronType`
 

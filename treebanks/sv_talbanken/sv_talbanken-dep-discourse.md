@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-21 nodes (0%) are attached to their parents as `discourse`.
+22 nodes (0%) are attached to their parents as `discourse`.
 
-21 instances of `discourse` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.47619047619048.
+22 instances of `discourse` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.22727272727273.
 
-The following 3 pairs of parts of speech are connected with `discourse`: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (14; 67% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (5; 24% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (2; 10% instances).
+The following 3 pairs of parts of speech are connected with `discourse`: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (15; 68% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (5; 23% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (2; 9% instances).
 
 
 ~~~ conllu
@@ -69,8 +69,8 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 1	Ja	ja	INTJ	IN	_	21	discourse	21:discourse	SpaceAfter=No
 2	,	,	PUNCT	MID	_	21	punct	21:punct	_
 3	först	först	ADV	AB	_	21	advmod	21:advmod	_
-4	och	och	CCONJ	KN	_	3	fixed	3:fixed	_
-5	främst	främst	ADV	AB|SUV	Degree=Sup	3	fixed	3:fixed	_
+4	och	och	CCONJ	KN	_	5	cc	5:cc	_
+5	främst	främst	ADV	AB|SUV	Degree=Sup	3	conj	3:conj:och|21:advmod	_
 6	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	21	cop	21:cop	_
 7	ju	ju	ADV	AB	_	21	advmod	21:advmod	_
 8	detta	denna	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	21	nsubj	21:nsubj	_

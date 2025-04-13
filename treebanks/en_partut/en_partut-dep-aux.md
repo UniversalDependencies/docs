@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 aux	color:blue
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	7	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	7	vocative	_	_
 2	Berenguer	Berenguer	PROPN	SP	_	1	flat	_	_
 3	Fuster	Fuster	PROPN	SP	_	1	flat	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
@@ -43,10 +43,10 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 7 aux	color:blue
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	10	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	10	vocative	_	_
 2	Cox	Cox	PROPN	SP	_	1	flat	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	4	punct	_	_
-4	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+4	Mr	mister	NOUN	S	Number=Sing	1	conj	_	_
 5	Hänsch	Hänsch	PROPN	SP	_	4	flat	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	1	punct	_	_
 7	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_

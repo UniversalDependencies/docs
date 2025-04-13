@@ -26,4 +26,4 @@ Note that there is no `No` value. If the word is not connegative, the
 * <http://scripta.kotus.fi/visk/sisallys.php?p=109> (in Finnish)
 * [Omorfi tagger documentation](https://code.google.com/p/omorfi/wiki/AnalysisPossibilities#Negated_verb_forms)
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:51 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:36 CET -->

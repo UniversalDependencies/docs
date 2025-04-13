@@ -30,7 +30,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 5	to	to	ADP	IN	_	6	case	6:case	_
 6	jail	jail	NOUN	NN	Number=Sing	4	obl	4:obl:to	_
 7	either	either	DET	DT	PronType=Ind	8	det	8:det	_
-8	way	way	NOUN	NN	Number=Sing	4	obl:npmod	4:obl:npmod	SpaceAfter=No
+8	way	way	NOUN	NN	Number=Sing	4	obl:unmarked	4:obl:unmarked	SpaceAfter=No
 9	,	,	PUNCT	,	_	4	punct	4:punct	_
 10	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	4:parataxis	_
 11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
@@ -49,7 +49,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 aux	color:blue
-1	Not	not	ADV	RB	Polarity=Neg	2	advmod	2:advmod	_
+1	Not	not	PART	RB	Polarity=Neg	2	advmod	2:advmod	_
 2	all	all	DET	DT	PronType=Tot	3	det	3:det	_
 3	transformations	transformation	NOUN	NNS	Number=Plur	9	nsubj	9:nsubj	_
 4	in	in	ADP	IN	_	6	case	6:case	_
@@ -69,7 +69,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 4 aux	color:blue
-1	Today	today	NOUN	NN	Number=Sing	8	obl:tmod	8:obl:tmod	SpaceAfter=No
+1	Today	today	NOUN	NN	Number=Sing	8	obl:unmarked	8:obl:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
 2	,	,	PUNCT	,	_	8	punct	8:punct	_
 3	Khanzir	Khanzir	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
 4	may	may	AUX	MD	VerbForm=Fin	8	aux	8:aux	_
@@ -81,8 +81,8 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 10	but	but	CCONJ	CC	_	15	cc	15:cc	_
 11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	_
 12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	SpaceAfter=No
-13	n’t	not	ADV	RB	Polarity=Neg	15	advmod	15:advmod	_
-14	always	always	ADV	RB	_	15	advmod	15:advmod	_
+13	n’t	not	PART	RB	Polarity=Neg	15	advmod	15:advmod	_
+14	always	always	ADV	RB	PronType=Tot	15	advmod	15:advmod	_
 15	alone	alone	ADJ	JJ	Degree=Pos	8	conj	8:conj:but	SpaceAfter=No
 16	.	.	PUNCT	.	_	8	punct	8:punct	_
 

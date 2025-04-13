@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 1	"	"	PUNCT	``	_	9	punct	9:punct	SpaceAfter=No
 2	Luckily	luckily	ADV	RB	_	9	advmod	9:advmod	SpaceAfter=No
 3	,	,	PUNCT	,	_	9	punct	9:punct	_
-4	someone	someone	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
+4	someone	someone	PRON	NN	Number=Sing|PronType=Ind	9	nsubj	9:nsubj	_
 5	in	in	ADP	IN	_	7	case	7:case	_
 6	Sony	Sony	PROPN	NNP	Number=Sing	7	compound	7:compound	_
 7	Australia	Australia	PROPN	NNP	Number=Sing	4	nmod	4:nmod:in	_

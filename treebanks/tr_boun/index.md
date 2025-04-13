@@ -12,15 +12,15 @@ udver: '2'
 # UD Turkish BOUN
 
 Language: [Turkish](/tr/index.html) (code: `tr`)<br/>
-Family: Turkic, Southwestern
+Family: Turkic
 
 This treebank has been part of Universal Dependencies since the UD v2.7 release.
 
 The following people have contributed to making this treebank part of UD: Büşra Marşan, Salih Furkan Akkurt, Utku Türk, Furkan Atmaca, Şaziye Betül Özateş, Gözde Berk, Seyyit Talha Bedir, Abdullatif Köksal, Balkız Öztürk Başaran, Tunga Güngör, Arzucan Özgür.
 
 Repository: [UD_Turkish-BOUN](https://github.com/UniversalDependencies/UD_Turkish-BOUN)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_boun214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_boun215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

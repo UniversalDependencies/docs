@@ -12,15 +12,15 @@ udver: '2'
 # UD Akkadian PISANDUB
 
 Language: [Akkadian](/akk/index.html) (code: `akk`)<br/>
-Family: Afro-Asiatic, Semitic
+Family: Afro-Asiatic
 
 This treebank has been part of Universal Dependencies since the UD v2.3 release.
 
 The following people have contributed to making this treebank part of UD: Kamil Kopacewicz.
 
 Repository: [UD_Akkadian-PISANDUB](https://github.com/UniversalDependencies/UD_Akkadian-PISANDUB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udakk_pisandub214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udakk_pisandub215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

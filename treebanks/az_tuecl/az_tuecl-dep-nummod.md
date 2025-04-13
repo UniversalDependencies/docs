@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 3 2 nummod	color:blue
 1	O	O	PRON	_	_	5	nsubj	_	_
 2	bir	bir	NUM	_	_	3	nummod	_	_
-3	dәnә	dәnә	NOUN	_	_	4	clf	_	_
+3	dәnә	dәnә	NOUN	_	_	4	nmod	_	_
 4	maşın	maşın	NOUN	_	_	5	obj	_	_
 5	aldı	al	VERB	_	_	0	root	_	_
 6	amma	amma	CCONJ	_	_	10	cc	_	_

@@ -27,12 +27,12 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 3	,	,	PUNCT	Comma	_	2	punct	_	_
 4	however	however	ADV	_	_	9	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	Comma	_	4	punct	_	_
-6	Stillman	Stillman	PROPN	SG	Number=Sing	8	amod	_	_
+6	Stillman	Stillman	PROPN	SG	Number=Sing	8	nmod:poss	_	_
 7	's	's	PART	GEN	_	6	case	_	_
 8	face	face	NOUN	SG-NOM	Number=Sing	9	nsubj	_	_
 9	told	tell	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 10	him	he	PRON	PERS-P3SG-ACC	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	_
-11	nothing	nothing	PRON	NEG-SG	Number=Sing	9	obj	_	SpaceAfter=No
+11	nothing	nothing	PRON	NEG-SG	Number=Sing|PronType=Neg	9	obj	_	SpaceAfter=No
 12	.	.	PUNCT	Period	_	9	punct	_	_
 
 ~~~
@@ -47,7 +47,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 1	Quinn	Quinn	PROPN	SG-NOM	Number=Sing	2	nsubj	_	_
 2	reached	reach	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 3	into	into	ADP	_	_	5	case	_	_
-4	his	he	PRON	P3SG-GEN	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+4	his	his	PRON	P3SG-GEN	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
 5	pocket	pocket	NOUN	SG-NOM	Number=Sing	2	obl	_	_
 6	and	and	CCONJ	_	_	7	cc	_	_
 7	gave	give	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	_

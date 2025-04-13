@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-154 nodes (0%) are attached to their parents as `compound`.
+192 nodes (0%) are attached to their parents as `compound`.
 
-154 instances of `compound` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25974025974026.
+192 instances of `compound` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.29166666666667.
 
-The following 12 pairs of parts of speech are connected with `compound`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (57; 37% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (51; 33% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (12; 8% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (7; 5% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (7; 5% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (6; 4% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `compound`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (64; 33% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (59; 31% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (23; 12% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (10; 5% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (9; 5% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (6; 3% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -51,24 +51,22 @@ The following 12 pairs of parts of speech are connected with `compound`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 compound	color:blue
-1	А	а	CCONJ	_	_	3	cc	_	wf="А"
-2	грамота	грамота	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj:pass	_	wf="грамота"
-3	подписана	подписати	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="подписана"
-4	лета	лѣто	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	3	obl:tmod	_	wf="лета"
-5	7000	7000	ADJ	_	Case=Gen|Gender=Neut|Number=Sing|NumForm=Digit|NumType=Ord	7	compound	_	upos="ANUM"|wf="7000"
-6	пятдесят	пятьдесятъ	NUM	_	Case=Acc|NumForm=Word|NumType=Card	7	compound	_	wf="пятдесят"
-7	пятого	пятый	ADJ	_	Case=Gen|Gender=Neut|Number=Sing|NumForm=Word|NumType=Ord	4	amod	_	upos="ANUM"|wf="пятого"|SpaceAfter=No
-8	,	,	PUNCT	_	_	12	punct	_	wf=","
-9	марта	мартъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	wf="марта"
-10	в	въ	ADP	_	_	12	case	_	wf="в"
-11	24	24	ADJ	_	Case=Acc|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	12	amod	_	upos="ANUM"|wf="24"
-12	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	nmod	_	wf="день"|SpaceAfter=No
-13	.	.	PUNCT	_	_	3	punct	_	wf="."
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 compound	color:blue
+1	А	а	CCONJ	_	_	3	cc	_	norm="А"
+2	купчюю	купчая	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	norm="купчюю"|Decl=A|End=юю
+3	писал	писати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	norm="писал"|Decl=X|End=л
+4	Чюдин	Чудинъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	norm="Чюдин"|Decl=Poss|End=0|[G]
+5	Васильев	Васильевъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Pat|Number=Sing	4	flat:name	_	norm="Васильев"|Decl=Poss|End=0|[G]
+6	сын	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	norm="сын"|Decl=2|End=0|[G]
+7	Охлебинина	Охлебининъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	4	flat:name	_	norm="Охлебинина"|Decl=Poss|End=а
+8	лета	лѣто	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	3	obl:tmod	_	norm="лета"|Decl=2|End=а
+9	7100	7100	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	10	compound	_	norm="7100"|Decl=ANUM|End=_
+10	втараго	второй	ADJ	ORD	Case=Gen|Gender=Neut|Number=Sing|NumForm=Word|NumType=Ord	8	amod	_	upos="ANUM"|norm="втараго"|Decl=ANUM|End=ога|SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	norm="."
 
 ~~~
 

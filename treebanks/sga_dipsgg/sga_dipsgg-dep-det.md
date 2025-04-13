@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-31 nodes (8%) are attached to their parents as `det`.
+31 nodes (7%) are attached to their parents as `det`.
 
 31 instances of `det` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.06451612903226.

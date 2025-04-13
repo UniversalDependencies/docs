@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>jednou</em> (<tt><a href="cs_cltt-pos
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.168675 (the average of all parts of speech is 1.713272).
+The form / lemma ratio of `NUM` is 1.168675 (the average of all parts of speech is 1.709632).
 
 The 1st highest number of forms (9) was observed with the lemma “jeden”: <em>jeden, jedno, jednoho, jednom, jednomu, jednou, jednu, jedné, jedním</em>.
 

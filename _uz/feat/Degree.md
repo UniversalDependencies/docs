@@ -52,3 +52,4 @@ O‘zbek tilidagi otlardagi kichraytirish-erkalash kategoriyasi belgi-bildiruvch
 * Och yashil “light green”
 * Biroz xafa “a little bit sad”
 <!-- Interlanguage links added No 1. Sanatbek Matlatipov 20 July 2024, 18:19 Tashkent -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:38 CET -->

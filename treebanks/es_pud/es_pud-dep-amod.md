@@ -34,7 +34,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 10	ese	ese	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
 11	mismo	mismo	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	_
 12	año	año	NOUN	NN	Gender=Masc|Number=Sing	6	obl:tmod	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	2	punct	_	_
+13	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -51,13 +51,13 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 4	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 5	Mojmír	Mojmír	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
 6	I	i	ADJ	JJ	Gender=Masc|Number=Sing	5	amod	_	Proper=True
-7	(	(	PUNCT	(	_	8	punct	_	SpaceAfter=No
+7	(	(	PUNCT	(	PunctSide=Ini|PunctType=Brck	8	punct	_	SpaceAfter=No
 8	reinó	reinar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
 9	de	de	ADP	INDT	_	11	case	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	830-846	830-846	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	8	obl	_	SpaceAfter=No
-12	)	)	PUNCT	)	_	8	punct	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	3	punct	_	_
+12	)	)	PUNCT	)	PunctSide=Fin|PunctType=Brck	8	punct	_	SpaceAfter=No
+13	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -76,11 +76,11 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	público	público	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_
 8	y	y	CCONJ	CC	_	14	cc	_	SpaceAfter=No
-9	,	,	PUNCT	,	_	14	punct	_	_
+9	,	,	PUNCT	,	PunctType=Comm	14	punct	_	_
 10	en	en	ADP	IN	_	14	discourse	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	fixed	_	_
 12	fondo	fondo	NOUN	NN	Gender=Masc|Number=Sing	10	fixed	_	SpaceAfter=No
-13	,	,	PUNCT	,	_	10	punct	_	_
+13	,	,	PUNCT	,	PunctType=Comm	10	punct	_	_
 14	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
 15	que	que	ADP	IN	_	14	fixed	_	_
 16	sacar	sacar	VERB	VB	VerbForm=Inf	14	xcomp	_	_
@@ -95,7 +95,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 25	a	a	ADP	INDT	_	27	case	_	_
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
 27	espectador	espectador	NOUN	NN	Gender=Masc|Number=Sing	23	obl	_	SpaceAfter=No
-28	.	.	PUNCT	.	_	2	punct	_	_
+28	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
 ~~~
 

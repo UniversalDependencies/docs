@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-81 nodes (5%) are attached to their parents as `amod`.
+80 nodes (5%) are attached to their parents as `amod`.
 
-79 instances of `amod` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18518518518519.
+78 instances of `amod` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1875.
 
-The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (71; 88% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt>-<tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (71; 89% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt>-<tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

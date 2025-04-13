@@ -37,4 +37,4 @@ Ach meastar gur ar chroí-lár thaca Ian Paisley - an Baile Meánach -- a bhronn
 punct(Baile, -)
 punct(Baile, --)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:46 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:27 CET -->

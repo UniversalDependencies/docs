@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Abs` (3; 3% of non-empty `Degree`): <em>elevatissimo, importantissimo, pericolosissima</em>
 * `Cmp` (96; 97% of non-empty `Degree`): <em>maggiore, maggior, migliori, migliore, maggiori, inferiore, superiore, miglior, minore, inferiori</em>
-* `EMPTY` (4106): <em>presente, altri, europeo, primo, sociale, importante, nuovo, stesso, economica, finanziario</em>
+* `EMPTY` (4109): <em>presente, altri, europeo, primo, sociale, importante, nuovo, stesso, economica, finanziario</em>
 
 ### `ADV`
 
@@ -46,5 +46,5 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `DET` tokens may have the following values of `Degree`:
 
 * `Abs` (1; 100% of non-empty `Degree`): <em>numerosissimi</em>
-* `EMPTY` (9521): <em>il, la, l', i, le, un, gli, una, sua, suo</em>
+* `EMPTY` (9518): <em>il, la, l', i, le, un, gli, una, sua, suo</em>
 

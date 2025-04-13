@@ -8,67 +8,77 @@ udver: '2'
 
 This relation is universal.
 
-3928 nodes (5%) are attached to their parents as `nsubj`.
+3926 nodes (4%) are attached to their parents as `nsubj`.
 
-2933 instances of `nsubj` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.85896130346232.
+2932 instances of `nsubj` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.13194090677534.
 
-The following 53 pairs of parts of speech are connected with `nsubj`: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (1304; 33% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (800; 20% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (411; 10% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (282; 7% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (211; 5% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (182; 5% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (128; 3% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (109; 3% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (60; 2% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (57; 1% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (50; 1% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (47; 1% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (42; 1% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (39; 1% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (24; 1% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (21; 1% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt>-<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt>-<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt>-<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt>-<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 nsubj	color:blue
-1	v	v	ADP	Sl	Case=Loc	2	case	_	pronunciation=o|Gos2.1_seg_id=Artur-N-G6007-P600702.s2|Gos2.1_token_id=Artur-N-G6007-P600702.tok3
-2	principu	princip	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	pronunciation=principu|Gos2.1_seg_id=Artur-N-G6007-P600702.s2|Gos2.1_token_id=Artur-N-G6007-P600702.tok4
-3	zelo	zelo	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=zelo|Gos2.1_seg_id=Artur-N-G6007-P600702.s2|Gos2.1_token_id=Artur-N-G6007-P600702.tok5
-4	mi	jaz	PRON	Pp1-sd--y	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	6	obj	_	pronunciation=mi|Gos2.1_seg_id=Artur-N-G6007-P600702.s2|Gos2.1_token_id=Artur-N-G6007-P600702.tok6
-5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6007-P600702.s2|Gos2.1_token_id=Artur-N-G6007-P600702.tok7
-6	bila	biti	VERB	Va-p-sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=bila|Gos2.1_seg_id=Artur-N-G6007-P600702.s2|Gos2.1_token_id=Artur-N-G6007-P600702.tok8
-7	všeč	všeč	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=všeč|Gos2.1_seg_id=Artur-N-G6007-P600702.s2|Gos2.1_token_id=Artur-N-G6007-P600702.tok9
-8	nadaljevanka	nadaljevanka	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	pronunciation=nadaljevanka|Gos2.1_seg_id=Artur-N-G6007-P600702.s2|Gos2.1_token_id=Artur-N-G6007-P600702.tok10
-9	Igra	igra	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	8	nmod	_	pronunciation=Igra|Gos2.1_seg_id=Artur-N-G6007-P600702.s2|Gos2.1_token_id=Artur-N-G6007-P600702.tok11
-10	prestolov	prestol	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	pronunciation=prestolov|Gos2.1_seg_id=Artur-N-G6007-P600702.s2|Gos2.1_token_id=Artur-N-G6007-P600702.tok12
-
-~~~
+The following 54 pairs of parts of speech are connected with `nsubj`: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (1305; 33% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (801; 20% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (411; 10% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (283; 7% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (211; 5% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (182; 5% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (126; 3% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (110; 3% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (60; 2% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (57; 1% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (51; 1% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (45; 1% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (42; 1% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (40; 1% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (24; 1% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (20; 1% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt>-<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt>-<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt>-<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt>-<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt>-<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 nsubj	color:blue
-1	aha	aha	INTJ	I	_	6	discourse	_	pronunciation=aha|Gos2.1_seg_id=Artur-N-G6007-P600702.s19|Gos2.1_token_id=Artur-N-G6007-P600702.tok203
-2	v	v	ADP	Sl	Case=Loc	3	case	_	pronunciation=v|Gos2.1_seg_id=Artur-N-G6007-P600702.s19|Gos2.1_token_id=Artur-N-G6007-P600702.tok205
-3	bistvu	bistvo	NOUN	Ncnsl	Case=Loc|Gender=Neut|Number=Sing	6	obl	_	pronunciation=bistvu|Gos2.1_seg_id=Artur-N-G6007-P600702.s19|Gos2.1_token_id=Artur-N-G6007-P600702.tok206
-4	mi	jaz	PRON	Pp1mpn	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	pronunciation=mi|Gos2.1_seg_id=Artur-N-G6007-P600702.s19|Gos2.1_token_id=Artur-N-G6007-P600702.tok207
-5	že	že	PART	Q	_	6	advmod	_	pronunciation=že|Gos2.1_seg_id=Artur-N-G6007-P600702.s19|Gos2.1_token_id=Artur-N-G6007-P600702.tok208
-6	snemamo	snemati	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=snemamo|Gos2.1_seg_id=Artur-N-G6007-P600702.s19|Gos2.1_token_id=Artur-N-G6007-P600702.tok209
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 nsubj	color:blue
-1	ker	ker	SCONJ	Cs	_	3	mark	_	pronunciation=ker|Gos2.1_seg_id=Artur-N-G5035-P600034.s31|Gos2.1_token_id=Artur-N-G5035-P600034.tok323
-2	isto	isti	DET	Pi-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	3	nsubj	_	pronunciation=isto|Gos2.1_seg_id=Artur-N-G5035-P600034.s31|Gos2.1_token_id=Artur-N-G5035-P600034.tok324
-3	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G5035-P600034.s31|Gos2.1_token_id=Artur-N-G5035-P600034.tok325
-4	s	z	ADP	Si	Case=Ins	5	case	_	pronunciation=s|Gos2.1_seg_id=Artur-N-G5035-P600034.s31|Gos2.1_token_id=Artur-N-G5035-P600034.tok326
-5	hojo	hoja	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	3	obl	_	pronunciation=hojo|Gos2.1_seg_id=Artur-N-G5035-P600034.s31|Gos2.1_token_id=Artur-N-G5035-P600034.tok327
-6	ne	ne	PART	Q	Polarity=Neg	3	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G5035-P600034.s31|Gos2.1_token_id=Artur-N-G5035-P600034.tok329
-7	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	11	cc	_	pronunciation=se|Gos2.1_seg_id=Artur-N-G5035-P600034.s31|Gos2.1_token_id=Artur-N-G5035-P600034.tok331
-8	pravi	praviti	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	fixed	_	pronunciation=pravi|Gos2.1_seg_id=Artur-N-G5035-P600034.s31|Gos2.1_token_id=Artur-N-G5035-P600034.tok332
-9	v	v	ADP	Sl	Case=Loc	10	case	_	pronunciation=v|Gos2.1_seg_id=Artur-N-G5035-P600034.s31|Gos2.1_token_id=Artur-N-G5035-P600034.tok334
-10	hribih	hrib	NOUN	Ncmpl	Case=Loc|Gender=Masc|Number=Plur	11	orphan	_	pronunciation=hribih|Gos2.1_seg_id=Artur-N-G5035-P600034.s31|Gos2.1_token_id=Artur-N-G5035-P600034.tok335
-11	isto	isto	PRON	Pi-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	3	conj	_	pronunciation=isto|Gos2.1_seg_id=Artur-N-G5035-P600034.s31|Gos2.1_token_id=Artur-N-G5035-P600034.tok336
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 nsubj	color:blue
+1	pa	pa	CCONJ	Cc	_	2	cc	_	pronunciation=pa|Gos2.1_token_id=Gos018.tok1431
+2	niso	biti	VERB	Va-r3p-y	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=niso|Gos2.1_token_id=Gos018.tok1432
+3	muzeji	muzej	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	pronunciation=muzeji|Gos2.1_token_id=Gos018.tok1433
+4	,	,	PUNCT	Z	_	8	punct	_	_
+5	samo	samo	PART	Q	_	8	advmod	_	pronunciation=samo|Gos2.1_token_id=Gos018.tok1434
+6	tako	tako	ADV	Rgp	Degree=Pos	8	discourse	_	pronunciation=tak|Gos2.1_token_id=Gos018.tok1435
+7	v	v	ADP	Sl	Case=Loc	8	case	_	pronunciation=v|Gos2.1_token_id=Gos018.tok1436
+8	naravi	narava	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	2	parataxis	_	pronunciation=naravi|Gos2.1_token_id=Gos018.tok1437
+9	.	.	PUNCT	Z	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 10 nsubj	color:blue
+1	aja	aja	INTJ	I	_	4	discourse	_	pronunciation=aja|Gos2.1_token_id=Gos018.tok1448
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	torej	torej	CCONJ	Cc	_	4	cc	_	pronunciation=torej|Gos2.1_token_id=Gos018.tok1449
+4	propada	propadati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=propada|Gos2.1_token_id=Gos018.tok1450
+5	,	,	PUNCT	Z	_	6	punct	_	_
+6	propada	propadati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	pronunciation=propada|Gos2.1_token_id=Gos018.tok1452
+7	,	,	PUNCT	Z	_	8	punct	_	_
+8	propada	propadati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	pronunciation=propada|Gos2.1_token_id=Gos018.tok1453
+9	,	,	PUNCT	Z	_	12	punct	_	_
+10	nihče	nihče	PRON	Pz-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	12	nsubj	_	pronunciation=nihče|Gos2.1_token_id=Gos018.tok1454
+11	ne	ne	PART	Q	Polarity=Neg	12	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos018.tok1455
+12	živi	živeti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	pronunciation=živi|Gos2.1_token_id=Gos018.tok1456
+13	.	.	PUNCT	Z	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nsubj	color:blue
+1	tako	tako	CCONJ	Cc	_	4	cc	_	pronunciation=tko|Gos2.1_token_id=Gos073.tok4361
+2	da	da	SCONJ	Cs	_	1	fixed	_	pronunciation=da|Gos2.1_token_id=Gos073.tok4362
+3	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos073.tok4363
+4	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je|Gos2.1_token_id=Gos073.tok4364
+5	,	,	PUNCT	Z	_	6	punct	_	_
+6	eee	eee	INTJ	I	_	4	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos073.tok4365
+7	,	,	PUNCT	Z	_	8	punct	_	_
+8	tako	tako	ADV	Rgp	Degree=Pos	4	discourse	_	pronunciation=tko|Gos2.1_token_id=Gos073.tok4366
+9	mogoče	mogoče	ADV	Rgp	Degree=Pos	14	advmod	_	pronunciation=mogoč|Gos2.1_token_id=Gos073.tok4367
+10	malo	malo	DET	Rgp	PronType=Ind	14	advmod	_	pronunciation=mal|Gos2.1_token_id=Gos073.tok4368
+11	za	za	ADP	Sa	Case=Acc	14	reparandum	_	pronunciation=za|Gos2.1_token_id=Gos073.tok4369
+12	,	,	PUNCT	Z	_	11	punct	_	_
+13	za	za	ADP	Sa	Case=Acc	14	case	_	pronunciation=za|Gos2.1_token_id=Gos073.tok4370
+14	publiko	publika	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	pronunciation=publiko|Gos2.1_token_id=Gos073.tok4371
+15	.	.	PUNCT	Z	_	4	punct	_	_
 
 ~~~
 

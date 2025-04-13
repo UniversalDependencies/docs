@@ -61,23 +61,23 @@ The following 9 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 30 list	color:blue
-1	Marina	Marina	PROPN	NNP	Number=Sing	0	root	0:root	Discourse=joint-other_m:146->143:2:_|Entity=(218-place-new-cf3-1-sgl)|SpaceAfter=No|XML=<hi rend:::"italic">
+1	Marina	Marina	PROPN	NNP	Number=Sing	0	root	0:root	Discourse=joint-other_m:146->143:2:_|Entity=(218-place-new-cf3-1-sgl)|MSeg=Marin-a|SpaceAfter=No|XML=<hi rend:::"italic">
 2	:	:	PUNCT	:	_	4	punct	4:punct	_
 3	54	54	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	4:nummod	Discourse=elaboration-additional:147->146:0:grf-col-1125|Entity=(219-place-new-cf4-2,4,7,9-sgl|SpaceAfter=No|XML=<w>
 4	º	º	NOUN	NNS	Number=Plur	1	parataxis	1:parataxis	XML=</w>
 5	55,7	55,7	NUM	CD	NumForm=Digit|NumType=Card	6	nummod	6:nummod	SpaceAfter=No|XML=<w>
 6	'	'	NOUN	NNS	Number=Plur	4	conj	4:conj	XML=</w>
-7	N	N	ADV	RB	Degree=Pos	4	nmod:npmod	4:nmod:npmod	_
+7	N	N	ADV	RB	Degree=Pos	4	advmod	4:advmod	_
 8	10	10	NUM	CD	NumForm=Digit|NumType=Card	9	nummod	9:nummod	SpaceAfter=No|XML=<w>
 9	º	º	NOUN	NNS	Number=Plur	4	conj	4:conj	XML=</w>
 10	30,0	30,0	NUM	CD	NumForm=Digit|NumType=Card	11	nummod	11:nummod	SpaceAfter=No|XML=<w>
 11	'	'	NOUN	NNS	Number=Plur	9	conj	4:conj|9:conj	XML=</w>
-12	E	E	ADV	RB	Degree=Pos	9	nmod:npmod	9:nmod:npmod	Entity=219)|SpaceAfter=No
+12	E	E	ADV	RB	Degree=Pos	9	advmod	9:advmod	Entity=219)|SpaceAfter=No
 13	;	;	PUNCT	:	_	14	punct	14:punct	_
 14	VHF	VHF	NOUN	NN	Number=Sing	4	list	4:list	Discourse=joint-other_m:148->147:0:grf-semcol-1136,1138|Entity=(220-abstract-new-cf5-1-sgl)|SpaceAfter=No
 15	;	;	PUNCT	:	_	17	punct	17:punct	_
 16	10	10	NUM	CD	NumForm=Digit|NumType=Card	17	nummod	17:nummod	Discourse=joint-other_m:149->147:0:grf-semcol-1144|Entity=(221-place-new-cf6-2-sgl
-17	berths	berth	NOUN	NNS	Number=Plur	4	list	4:list	Entity=221)|MSeg=ber-th-s
+17	berths	berth	NOUN	NNS	Number=Plur	4	list	4:list	Entity=221)|MSeg=berth-s
 18	at	at	ADP	IN	_	20	case	20:case	SpaceAfter=No
 19	?	?	SYM	SYM	_	20	nummod	20:nummod	Entity=(222-abstract-new-cf9-2-sgl
 20	DKK	DKK	SYM	$	_	17	nmod	17:nmod:at	Entity=222)|SpaceAfter=No

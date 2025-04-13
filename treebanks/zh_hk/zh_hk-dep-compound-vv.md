@@ -24,12 +24,12 @@ The following 2 pairs of parts of speech are connected with `compound:vv`: <tt><
 # visual-style 2	fgColor:white
 # visual-style 2 3 compound:vv	color:blue
 1	該	該	AUX	_	_	2	aux	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
-2	取	取	VERB	_	_	6	obj:periph	_	SpaceAfter=No|Translit=qǔ|LTranslit=qǔ
-3	走	走	VERB	_	_	2	compound:vv	_	SpaceAfter=No|Translit=zǒu|LTranslit=zǒu
+2	取	取	VERB	_	_	6	obj:periph	_	SpaceAfter=No|Translit=qǔ|LTranslit=qǔ|Cxn=Resultative|CxnElt=2:Resultative.Event
+3	走	走	VERB	_	_	2	compound:vv	_	SpaceAfter=No|Translit=zǒu|LTranslit=zǒu|CxnElt=2:Resultative.ResultState
 4	的	的	PART	_	_	2	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	都	都	ADV	_	_	6	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
-6	取	取	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qǔ|LTranslit=qǔ
-7	走	走	VERB	_	_	6	compound:vv	_	SpaceAfter=No|Translit=zǒu|LTranslit=zǒu
+6	取	取	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qǔ|LTranslit=qǔ|Cxn=Resultative|CxnElt=6:Resultative.Event
+7	走	走	VERB	_	_	6	compound:vv	_	SpaceAfter=No|Translit=zǒu|LTranslit=zǒu|CxnElt=6:Resultative.ResultState
 8	了	了	PART	_	_	6	discourse:sp	_	SpaceAfter=No|Translit=le|LTranslit=le
 9	！	！	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit=!|LTranslit=!
 
@@ -42,8 +42,8 @@ The following 2 pairs of parts of speech are connected with `compound:vv`: <tt><
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 compound:vv	color:blue
-1	收拾	收拾	VERB	_	_	0	root	_	SpaceAfter=No|Translit=shōushi|LTranslit=shōushi
-2	好	好	ADJ	_	_	1	compound:vv	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo
+1	收拾	收拾	VERB	_	_	0	root	_	SpaceAfter=No|Translit=shōushi|LTranslit=shōushi|Cxn=Resultative|CxnElt=1:Resultative.Event
+2	好	好	ADJ	_	_	1	compound:vv	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo|CxnElt=1:Resultative.ResultState
 3	哥哥	哥哥	NOUN	_	_	5	nmod	_	SpaceAfter=No|Translit=gēgē|LTranslit=gēgē
 4	的	的	PART	_	_	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	物品	物品	NOUN	_	_	1	obj	_	SpaceAfter=No|Translit=wùpǐn|LTranslit=wùpǐn

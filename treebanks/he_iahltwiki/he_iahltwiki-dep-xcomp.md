@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-791 nodes (1%) are attached to their parents as `xcomp`.
+790 nodes (1%) are attached to their parents as `xcomp`.
 
-791 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.50821744627054.
+790 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.50886075949367.
 
-The following 17 pairs of parts of speech are connected with `xcomp`: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (573; 72% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (65; 8% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (38; 5% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (33; 4% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (22; 3% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (14; 2% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (13; 2% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-X.html">X</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `xcomp`: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (572; 72% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (65; 8% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (38; 5% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (33; 4% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (22; 3% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (14; 2% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (13; 2% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -48,12 +48,12 @@ The following 17 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 3	מכונה	כונה	VERB	VERB	Gender=Fem|HebBinyan=PUAL|Number=Sing|Person=3|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
 4	ב	ב	ADP	ADP	_	5	case	_	_
 5	אופן	אופן	NOUN	NOUN	Gender=Masc|Number=Sing	3	obl	_	_
-6	לא	לא	ADV	ADV	_	7	advmod	_	_
+6	לא	לא	ADV	ADV	Polarity=Neg	7	advmod	_	_
 7	פורמלי	פורמלי	ADJ	ADJ	Gender=Masc|Number=Sing	5	amod	_	_
 8	'	'	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No
-9	סל	סל	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	3	xcomp	_	_
+9	סל	סל	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	3	xcomp	_	Entity=(MISC
 10	ה	ה	DET	DET	Definite=Def|PronType=Art	11	det	_	_
-11	תרופות	תרופה	NOUN	NOUN	Gender=Fem|Number=Plur	9	compound	_	_
+11	תרופות	תרופה	NOUN	NOUN	Gender=Fem|Number=Plur	9	compound	_	Entity=MISC)
 12	'	'	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No
 13	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
@@ -72,8 +72,8 @@ The following 17 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 4	ה	ה	DET	DET	Definite=Def|PronType=Art	5	det	_	_
 5	מקום	מקום	NOUN	NOUN	Gender=Masc|Number=Sing	3	nsubj:pass	_	_
 6	"	"	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No
-7	דיר	דיר	PROPN	PROPN	_	3	xcomp	_	_
-8	אברהם	אברהם	PROPN	PROPN	_	7	flat	_	SpaceAfter=No
+7	דיר	דיר	PROPN	PROPN	_	3	xcomp	_	Entity=(FAC
+8	אברהם	אברהם	PROPN	PROPN	_	7	flat	_	Entity=FAC)|SpaceAfter=No
 9	"	"	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	3	punct	_	_
 

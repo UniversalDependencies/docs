@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="et_ewt-dep-flat.html">flat</a></tt>.
 
-71 nodes (0%) are attached to their parents as `flat:foreign`.
+29 nodes (0%) are attached to their parents as `flat:foreign`.
 
-71 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.95774647887324.
+29 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.
 
-The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="et_ewt-pos-X.html">X</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (71; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="et_ewt-pos-X.html">X</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (29; 100% instances).
 
 
 ~~~ conllu

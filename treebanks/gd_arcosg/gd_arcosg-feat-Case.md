@@ -46,7 +46,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Gen` (217; 15% of non-empty `Case`): <em>eile, Ghlais, àrd, Buidhe, mhòir, Bhàin, ùr, Ruaidh, bhig, dùthchail</em>
 * `Nom` (785; 55% of non-empty `Case`): <em>eile, ùr, beag, mhòr, mòr, math, shaor, àrd, òg, mòra</em>
 * `Voc` (4; 0% of non-empty `Case`): <em>dhuibh, bhochd, òig</em>
-* `EMPTY` (1981): <em>bith, sam, cinnteach, math, faisg, thall, seann, fhearr, droch, coltach</em>
+* `EMPTY` (1980): <em>bith, sam, cinnteach, math, faisg, thall, seann, fhearr, droch, coltach</em>
 
 <table>
   <tr><th>Paradigm <i>eile</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
@@ -60,12 +60,12 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 1279 <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> tokens (20% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1279; 100%), <tt><a href="gd_arcosg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1279; 100%), <tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1233; 96%), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (1233; 96%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1001; 78%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (714; 56%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1279; 100%), <tt><a href="gd_arcosg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1279; 100%), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (1279; 100%), <tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1233; 96%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1001; 78%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (714; 56%).
 
 `DET` tokens may have the following values of `Case`:
 
 * `Gen` (1279; 100% of non-empty `Case`): <em>na, an, a’, nan, a', nam, am, a</em>
-* `EMPTY` (5260): <em>an, na, a’, a, am, a', sin, seo, 'n, h-uile</em>
+* `EMPTY` (5261): <em>an, na, a’, a, am, a', sin, seo, 'n, h-uile</em>
 
 ### `PROPN`
 

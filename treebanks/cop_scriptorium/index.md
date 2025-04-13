@@ -12,15 +12,15 @@ udver: '2'
 # UD Coptic Scriptorium
 
 Language: [Coptic](/cop/index.html) (code: `cop`)<br/>
-Family: Afro-Asiatic, Egyptian
+Family: Afro-Asiatic
 
 This treebank has been part of Universal Dependencies since the UD v1.4 release.
 
 The following people have contributed to making this treebank part of UD: Mitchell Abrams, Elizabeth Davidson, Amir Zeldes.
 
 Repository: [UD_Coptic-Scriptorium](https://github.com/UniversalDependencies/UD_Coptic-Scriptorium)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcop_scriptorium214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcop_scriptorium215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY 4.0
 
@@ -75,13 +75,13 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 
 ## Relations
 
-[acl](cop_scriptorium-dep-acl.html) – [acl:relcl](cop_scriptorium-dep-acl-relcl.html) – [advcl](cop_scriptorium-dep-advcl.html) – [advmod](cop_scriptorium-dep-advmod.html) – [amod](cop_scriptorium-dep-amod.html) – [appos](cop_scriptorium-dep-appos.html) – [aux](cop_scriptorium-dep-aux.html) – [case](cop_scriptorium-dep-case.html) – [cc](cop_scriptorium-dep-cc.html) – [ccomp](cop_scriptorium-dep-ccomp.html) – [compound](cop_scriptorium-dep-compound.html) – [conj](cop_scriptorium-dep-conj.html) – [cop](cop_scriptorium-dep-cop.html) – [csubj](cop_scriptorium-dep-csubj.html) – [dep](cop_scriptorium-dep-dep.html) – [det](cop_scriptorium-dep-det.html) – [discourse](cop_scriptorium-dep-discourse.html) – [dislocated](cop_scriptorium-dep-dislocated.html) – [expl](cop_scriptorium-dep-expl.html) – [fixed](cop_scriptorium-dep-fixed.html) – [flat](cop_scriptorium-dep-flat.html) – [iobj](cop_scriptorium-dep-iobj.html) – [mark](cop_scriptorium-dep-mark.html) – [nmod](cop_scriptorium-dep-nmod.html) – [nmod:poss](cop_scriptorium-dep-nmod-poss.html) – [nsubj](cop_scriptorium-dep-nsubj.html) – [nummod](cop_scriptorium-dep-nummod.html) – [obj](cop_scriptorium-dep-obj.html) – [obl](cop_scriptorium-dep-obl.html) – [obl:npmod](cop_scriptorium-dep-obl-npmod.html) – [orphan](cop_scriptorium-dep-orphan.html) – [parataxis](cop_scriptorium-dep-parataxis.html) – [punct](cop_scriptorium-dep-punct.html) – [reparandum](cop_scriptorium-dep-reparandum.html) – [root](cop_scriptorium-dep-root.html) – [vocative](cop_scriptorium-dep-vocative.html) – [xcomp](cop_scriptorium-dep-xcomp.html)
+[acl](cop_scriptorium-dep-acl.html) – [acl:relcl](cop_scriptorium-dep-acl-relcl.html) – [advcl](cop_scriptorium-dep-advcl.html) – [advmod](cop_scriptorium-dep-advmod.html) – [amod](cop_scriptorium-dep-amod.html) – [appos](cop_scriptorium-dep-appos.html) – [aux](cop_scriptorium-dep-aux.html) – [case](cop_scriptorium-dep-case.html) – [cc](cop_scriptorium-dep-cc.html) – [ccomp](cop_scriptorium-dep-ccomp.html) – [compound](cop_scriptorium-dep-compound.html) – [conj](cop_scriptorium-dep-conj.html) – [cop](cop_scriptorium-dep-cop.html) – [csubj](cop_scriptorium-dep-csubj.html) – [dep](cop_scriptorium-dep-dep.html) – [det](cop_scriptorium-dep-det.html) – [discourse](cop_scriptorium-dep-discourse.html) – [dislocated](cop_scriptorium-dep-dislocated.html) – [expl](cop_scriptorium-dep-expl.html) – [fixed](cop_scriptorium-dep-fixed.html) – [flat](cop_scriptorium-dep-flat.html) – [iobj](cop_scriptorium-dep-iobj.html) – [mark](cop_scriptorium-dep-mark.html) – [nmod](cop_scriptorium-dep-nmod.html) – [nmod:poss](cop_scriptorium-dep-nmod-poss.html) – [nmod:unmarked](cop_scriptorium-dep-nmod-unmarked.html) – [nsubj](cop_scriptorium-dep-nsubj.html) – [nummod](cop_scriptorium-dep-nummod.html) – [obj](cop_scriptorium-dep-obj.html) – [obl](cop_scriptorium-dep-obl.html) – [obl:unmarked](cop_scriptorium-dep-obl-unmarked.html) – [orphan](cop_scriptorium-dep-orphan.html) – [parataxis](cop_scriptorium-dep-parataxis.html) – [punct](cop_scriptorium-dep-punct.html) – [reparandum](cop_scriptorium-dep-reparandum.html) – [root](cop_scriptorium-dep-root.html) – [vocative](cop_scriptorium-dep-vocative.html) – [xcomp](cop_scriptorium-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 2203 sentences, 26919 tokens and 57097 syntactic words.</li>
+<li>This corpus contains 2203 sentences, 26837 tokens and 57098 syntactic words.</li>
 </ul>
 
 <ul>
@@ -97,8 +97,8 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 </ul>
 
 <ul>
-<li>This corpus contains 16828 multi-word tokens. On average, one multi-word token consists of 2.79 syntactic words.</li>
-<li>There are 9012 types of multi-word tokens. Examples: ⲛⲁϥ, ⲙⲙⲟⲥ, ⲙⲙⲟϥ, ⲉⲣⲟϥ, ⲡⲉϫⲁϥ, ⲙⲡⲛⲟⲩⲧⲉ, ⲛⲁⲩ, ⲛⲧϩⲉ, ⲛⲁⲓ, ⲙⲙⲟⲟⲩ, ⲧⲏⲣⲟⲩ, ⲉϥϫⲱ, ⲛϩⲏⲧϥ, ⲛⲁⲕ, ⲉⲣⲟⲓ, ⲉⲣⲟⲟⲩ, ⲙⲙⲟⲕ, ⲉⲧⲙⲙⲁⲩ, ⲛⲏⲧⲛ, ⲉⲧⲟⲩⲁⲁⲃ, ⲛⲁⲥ, ⲉⲣⲟⲕ, ⲛⲧⲉⲩⲛⲟⲩ, ⲛϩⲏⲧ, ⲛⲙⲙⲁϥ, ⲛⲧⲉⲓϩⲉ, ⲁϥⲉⲓ, ⲙⲡϫⲟⲉⲓⲥ, ⲛⲁⲛ, ⲛⲣⲱⲙⲉ, ⲁϥⲃⲱⲕ, ⲛⲟⲩⲱⲧ, ⲡⲛⲟⲩⲧⲉ, ⲧⲏⲣϥ, ⲉⲧⲃⲉⲡⲁⲓ, ⲙⲙⲟⲓ, ⲙⲡⲣⲱⲙⲉ, ⲛⲥⲱϥ, ⲡⲉⲭⲣⲓⲥⲧⲟⲥ, ⲉⲣⲟⲛ, ⲛϩⲏⲧⲟⲩ, ⲡⲟⲩⲁ, ⲛϩⲟⲟⲩ, ⲁϥϫⲟⲟⲥ, ⲁⲩⲉⲓ, ⲉⲣⲱⲧⲛ, ⲛϩⲟⲩⲟ, ⲛⲧⲉⲡⲛⲟⲩⲧⲉ, ⲡⲉϫⲁⲥ, ⲡⲁϣⲏⲣⲉ.</li>
+<li>This corpus contains 16846 multi-word tokens. On average, one multi-word token consists of 2.80 syntactic words.</li>
+<li>There are 9028 types of multi-word tokens. Examples: ⲛⲁϥ, ⲙⲙⲟⲥ, ⲙⲙⲟϥ, ⲉⲣⲟϥ, ⲡⲉϫⲁϥ, ⲙⲡⲛⲟⲩⲧⲉ, ⲛⲁⲩ, ⲛⲧϩⲉ, ⲛⲁⲓ, ⲙⲙⲟⲟⲩ, ⲧⲏⲣⲟⲩ, ⲉϥϫⲱ, ⲛϩⲏⲧϥ, ⲛⲁⲕ, ⲉⲣⲟⲓ, ⲉⲣⲟⲟⲩ, ⲙⲙⲟⲕ, ⲛⲏⲧⲛ, ⲉⲧⲙⲙⲁⲩ, ⲉⲧⲟⲩⲁⲁⲃ, ⲛⲁⲥ, ⲉⲣⲟⲕ, ⲛⲧⲉⲩⲛⲟⲩ, ⲛϩⲏⲧ, ⲛⲧⲉⲓϩⲉ, ⲛⲙⲙⲁϥ, ⲁϥⲉⲓ, ⲙⲡϫⲟⲉⲓⲥ, ⲛⲁⲛ, ⲛⲣⲱⲙⲉ, ⲁϥⲃⲱⲕ, ⲛⲟⲩⲱⲧ, ⲉⲧⲃⲉⲡⲁⲓ, ⲡⲛⲟⲩⲧⲉ, ⲧⲏⲣϥ, ⲙⲙⲟⲓ, ⲙⲡⲣⲱⲙⲉ, ⲛⲥⲱϥ, ⲡⲉⲭⲣⲓⲥⲧⲟⲥ, ⲉⲣⲟⲛ, ⲛϩⲏⲧⲟⲩ, ⲡⲟⲩⲁ, ⲛϩⲟⲟⲩ, ⲛⲧⲉⲡⲛⲟⲩⲧⲉ, ⲁϥϫⲟⲟⲥ, ⲁⲩⲉⲓ, ⲉⲣⲱⲧⲛ, ⲛϩⲟⲩⲟ, ⲡⲉϫⲁⲥ, ⲡⲁϣⲏⲣⲉ.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -115,15 +115,15 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 </ul>
 
 <ul>
-<li>This corpus contains 71 lemmas tagged as pronouns (PRON): ϩⲁ_ⲛⲧⲟ, ϩⲁϩⲧⲛ, ϩⲓϫⲛ_ⲛⲧⲟ, ϩⲓⲧⲛ_ⲁⲛⲟⲕ, ϩⲛ_ⲁⲛⲟⲕ, ϩⲱ_ⲁⲛⲟⲕ, ϩⲱⲱ_ⲁⲛⲟⲕ, ϫⲓ_ⲁⲛⲟⲕ, ϫⲡⲟ_ⲛⲧⲟ, ⲁ, ⲁ_ⲛⲧⲟ, ⲁϣ, ⲁⲛⲟⲕ, ⲁⲛⲟⲕ_ⲛⲧⲉ, ⲁⲛⲟⲛ, ⲁⲟⲩⲏⲣ, ⲅ, ⲉ_ⲛⲧⲟ, ⲉϫⲛ_ⲛⲧⲟ, ⲉⲓ, ⲉⲕⲉ, ⲉⲛⲉ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲕ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲛ, ⲉⲣϣⲁⲛ_ⲛⲧⲟ, ⲉⲣϣⲁⲛ_ⲛⲧⲟϥ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲥ, ⲉⲣϣⲁⲛ_ⲛⲧⲱⲧⲛ, ⲉⲣⲉ_ⲁⲛⲟⲕ, ⲉⲣⲉ_ⲁⲛⲟⲛ, ⲉⲣⲉ_ⲛⲧⲟ, ⲉⲣⲉ_ⲛⲧⲟϥ, ⲉⲣⲉ_ⲛⲧⲟⲕ, ⲉⲣⲉ_ⲛⲧⲟⲟⲩ, ⲉⲣⲉ_ⲛⲧⲟⲥ, ⲉⲣⲉ_ⲛⲧⲱⲧⲛ, ⲉⲥ, ⲉⲧⲃⲉ_ⲁⲛⲟⲕ, ⲉⲧⲉⲣⲉ_ⲛⲧⲟ, ⲉⲧⲉⲧⲛϣⲁⲛ, ⲉⲧⲉⲧⲛⲉ, ⲕ, ⲙⲉⲩ, ⲙⲙⲓⲛⲙⲙⲟ_ⲛⲧⲟ, ⲙⲡⲉ_ⲛⲧⲟ, ⲛ, ⲛ_ⲛⲧⲟ, ⲛⲉⲣⲉ_ⲛⲧⲟ, ⲛⲓⲙ, ⲛⲥⲁ_ⲛⲧⲟ, ⲛⲧⲉ_ⲁⲛⲟⲕ, ⲛⲧⲉⲧⲛ, ⲛⲧⲛ_ⲁⲛⲟⲕ, ⲛⲧⲟ, ⲛⲧⲟϥ, ⲛⲧⲟⲕ, ⲛⲧⲟⲟⲩ, ⲛⲧⲟⲥ, ⲛⲧⲱⲧⲛ, ⲟⲩ, ⲟⲩⲏⲣ, ⲡⲉ, ⲡⲱⲥ, ⲣⲁⲧ_ⲁⲛⲟⲕ, ⲣⲟ_ⲛⲧⲟ, ⲥϥ, ⲧⲉⲧ, ⲧⲉⲧⲛ, ⲧⲣⲉϥ</li>
+<li>This corpus contains 70 lemmas tagged as pronouns (PRON): ϩⲁ_ⲛⲧⲟ, ϩⲁϩⲧⲛ, ϩⲓϫⲛ_ⲛⲧⲟ, ϩⲓⲧⲛ_ⲁⲛⲟⲕ, ϩⲛ_ⲁⲛⲟⲕ, ϩⲱ_ⲁⲛⲟⲕ, ϩⲱⲱ_ⲁⲛⲟⲕ, ϫⲓ_ⲁⲛⲟⲕ, ϫⲡⲟ_ⲛⲧⲟ, ⲁ, ⲁ_ⲛⲧⲟ, ⲁϣ, ⲁⲛⲟⲕ, ⲁⲛⲟⲕ_ⲛⲧⲉ, ⲁⲛⲟⲛ, ⲁⲟⲩⲏⲣ, ⲅ, ⲉ_ⲛⲧⲟ, ⲉϫⲛ_ⲛⲧⲟ, ⲉⲓ, ⲉⲕⲉ, ⲉⲛⲉ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲕ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲛ, ⲉⲣϣⲁⲛ_ⲛⲧⲟ, ⲉⲣϣⲁⲛ_ⲛⲧⲟϥ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲥ, ⲉⲣϣⲁⲛ_ⲛⲧⲱⲧⲛ, ⲉⲣⲉ_ⲁⲛⲟⲕ, ⲉⲣⲉ_ⲁⲛⲟⲛ, ⲉⲣⲉ_ⲛⲧⲟ, ⲉⲣⲉ_ⲛⲧⲟϥ, ⲉⲣⲉ_ⲛⲧⲟⲕ, ⲉⲣⲉ_ⲛⲧⲟⲟⲩ, ⲉⲣⲉ_ⲛⲧⲟⲥ, ⲉⲣⲉ_ⲛⲧⲱⲧⲛ, ⲉⲥ, ⲉⲧⲃⲉ_ⲁⲛⲟⲕ, ⲉⲧⲉⲣⲉ_ⲛⲧⲟ, ⲉⲧⲉⲧⲛϣⲁⲛ, ⲉⲧⲉⲧⲛⲉ, ⲕ, ⲙⲉⲩ, ⲙⲙⲓⲛⲙⲙⲟ_ⲛⲧⲟ, ⲙⲡⲉ_ⲛⲧⲟ, ⲛ_ⲛⲧⲟ, ⲛⲉⲣⲉ_ⲛⲧⲟ, ⲛⲓⲙ, ⲛⲥⲁ_ⲛⲧⲟ, ⲛⲧⲉ_ⲁⲛⲟⲕ, ⲛⲧⲉⲧⲛ, ⲛⲧⲛ_ⲁⲛⲟⲕ, ⲛⲧⲟ, ⲛⲧⲟϥ, ⲛⲧⲟⲕ, ⲛⲧⲟⲟⲩ, ⲛⲧⲟⲥ, ⲛⲧⲱⲧⲛ, ⲟⲩ, ⲟⲩⲏⲣ, ⲡⲉ, ⲡⲱⲥ, ⲣⲁⲧ_ⲁⲛⲟⲕ, ⲣⲟ_ⲛⲧⲟ, ⲥϥ, ⲧⲉⲧ, ⲧⲉⲧⲛ, ⲧⲣⲉϥ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 30 lemmas tagged as determiners (DET): ϩⲛ, ϭⲉ, ϯ, ⲕⲉ, ⲛ, ⲛⲁ, ⲛⲁⲓ, ⲛⲉⲓ, ⲛⲟⲩⲓ, ⲛⲧⲟⲟⲩ, ⲟⲩ, ⲡ, ⲡⲁ, ⲡⲁⲓ, ⲡⲉϥ, ⲡⲉⲓ, ⲡⲉⲕ, ⲡⲉⲛ, ⲡⲉⲥ, ⲡⲉⲧⲛ, ⲡⲉⲩ, ⲡⲏ, ⲡⲓ, ⲡⲟⲩ, ⲡⲟⲩⲕ, ⲡⲱϥ, ⲡⲱⲓ, ⲡⲱⲕ, ⲡⲱⲧⲛ, ⲧ</li>
+<li>This corpus contains 29 lemmas tagged as determiners (DET): ϩⲛ, ϭⲉ, ϯ, ⲕⲉ, ⲛ, ⲛⲁ, ⲛⲁⲓ, ⲛⲉⲓ, ⲛⲟⲩⲓ, ⲟⲩ, ⲡ, ⲡⲁ, ⲡⲁⲓ, ⲡⲉϥ, ⲡⲉⲓ, ⲡⲉⲕ, ⲡⲉⲛ, ⲡⲉⲥ, ⲡⲉⲧⲛ, ⲡⲉⲩ, ⲡⲏ, ⲡⲓ, ⲡⲟⲩ, ⲡⲟⲩⲕ, ⲡⲱϥ, ⲡⲱⲓ, ⲡⲱⲕ, ⲡⲱⲧⲛ, ⲧ</li>
 </ul>
 
 <ul>
-<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: ⲛ, ⲛⲧⲟⲟⲩ, ⲟⲩ</li>
+<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: ⲟⲩ</li>
 </ul>
 
 <ul>
@@ -239,13 +239,13 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: ⲁⲛ, ⲛ, ⲧⲙ, ⲙⲡⲣ, ⲙ, ⲟⲩⲕ, ⲙⲉ, ⲟⲩ, ⲟⲩⲇⲉ</li>
+      <li>ADV: ⲁⲛ, ⲛ, ⲧⲙ, ⲙⲡⲣ, ⲙ, ⲟⲩ, ⲟⲩⲕ, ⲙⲉ, ⲟⲩⲇⲉ</li>
       <li>AUX: ⲙⲡ, ⲙⲡⲉ, ⲛⲛⲉ, ⲙⲉ, ⲙⲛ, ⲙⲡⲣⲧⲣⲉ, ⲙⲡⲁⲧ, ⲙⲁⲣⲉ, ⲙⲡⲁⲧⲉ, ⲛⲛ</li>
       <li>CCONJ: ⲟⲩⲇⲉ</li>
       <li>PART: ⲙⲙⲟⲛ, ⲟⲩⲇⲉ</li>
       <li>PRON: ⲙⲡⲉ</li>
       <li>SCONJ: ⲟⲩⲇⲉ</li>
-      <li>VERB: ⲙⲛ, ⲙⲛⲧ, ⲙⲛⲧⲁ, ⲙⲙⲛ, ⲙⲙⲛⲧ, ⲙⲛⲧⲏ, ⲙⲙⲛⲧⲉ</li>
+      <li>VERB: ⲙⲛ, ⲙⲛⲧ, ⲙⲛⲧⲁ, ⲙⲙⲛ, ⲙⲙⲛⲧ, ⲙⲛⲧⲏ, ⲙⲙⲛⲧⲁ, ⲙⲙⲛⲧⲉ, ⲙⲙⲛⲧⲏ</li>
       <li>X: ⲟⲩ</li>
     </ul>
   </li>
@@ -459,7 +459,7 @@ The underlying POS tagged material was produced as part of the projects Coptic S
           <li>VERB: ⲥⲧⲁⲩⲣⲟⲩ, ⲕⲣⲓⲛⲉ, ⲡⲁⲣⲁⲕⲁⲗⲉⲓ, ⲡⲓⲥⲧⲉⲩⲉ, ⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ, ⲑⲩⲥⲓⲁⲍⲉ, ⲁⲛⲁⲭⲱⲣⲉⲓ, ⲁⲥⲡⲁⲍⲉ, ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ, ⲛⲏⲥⲧⲉⲩⲉ</li>
           <li>VERB-Fin: ⲥⲧⲁⲩⲣⲟⲩ, ⲡⲁⲣⲁⲕⲁⲗⲉⲓ, ⲡⲓⲥⲧⲉⲩⲉ, ⲕⲣⲓⲛⲉ, ⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ, ⲑⲩⲥⲓⲁⲍⲉ, ⲁⲛⲁⲭⲱⲣⲉⲓ, ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ, ⲛⲏⲥⲧⲉⲩⲉ, ⲛⲟⲉⲓ</li>
           <li>VERB-Inf: ⲧⲁⲗⲉⲇⲱⲣⲟⲛ, ⲡⲁⲣⲁⲅⲉ, ϯⲛⲧⲟⲗⲏ, ⲁⲛⲉⲭⲉ, ⲁⲡⲟⲧⲁⲥⲥⲉ, ⲁⲥⲡⲁⲍⲉ, ⲃⲁⲡⲧⲓⲍⲉ, ⲇⲓⲁⲕⲣⲓⲛⲉ, ⲉⲡⲓⲃⲟⲩⲗⲉⲩⲉ, ⲉⲩⲁⲅⲅⲉⲗⲓⲍⲉ</li>
-          <li>X: ⲙⲟⲛⲟⲛ, ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲩ, ⲁⲩⲧⲟⲩ, ⲉⲡⲓⲥⲧⲟⲗⲏ, ⲉⲡⲫⲁⲑⲁ, ⲕⲟⲩⲙ, ⲟⲩⲇ[.......], ⲧⲟⲩ, ⲭⲉⲓⲙⲏⲧⲓ, ⲟⲩ</li>
+          <li>X: ⲙⲟⲛⲟⲛ, ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲩ, ⲁⲩⲧⲟⲩ, ⲉⲡⲓⲥⲧⲟⲗⲏ, ⲉⲡⲫⲁⲑⲁ, ⲕⲟⲩⲙ, ⲟⲩⲇ[.......], ⲧⲟⲩ, ⲭⲉⲓⲙⲏⲧⲓ</li>
         </ul>
       </li>
     </ul>
@@ -484,14 +484,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (115)</li>
+      <li>VERB--NOUN (114)</li>
       <li>VERB--NOUN-ADP(ⲛ) (2)</li>
       <li>VERB--NOUN-ADP(ⲛ)-ADP(ⲛ) (1)</li>
       <li>VERB--PRON (32)</li>
       <li>VERB-Fin--NOUN (561)</li>
       <li>VERB-Fin--NOUN-ADP(ϩⲓⲣⲛ) (1)</li>
       <li>VERB-Fin--NOUN-ADP(ⲛ) (7)</li>
-      <li>VERB-Fin--PRON (4331)</li>
+      <li>VERB-Fin--PRON (4317)</li>
     </ul>
   </li>
 </ul>
@@ -506,7 +506,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(ⲙ) (3)</li>
       <li>VERB-Fin--NOUN-ADP(ⲛ) (483)</li>
       <li>VERB-Fin--NOUN-ADP(ⲛ)-ADP(ⲛ) (12)</li>
-      <li>VERB-Fin--PRON (762)</li>
+      <li>VERB-Fin--PRON (763)</li>
       <li>VERB-Fin--PRON-ADP(ⲉ) (1)</li>
       <li>VERB-Fin--PRON-ADP(ⲛ) (243)</li>
       <li>VERB-Fin--PRON-ADP(ⲧⲟⲟⲧ) (1)</li>
@@ -537,6 +537,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 3 relation subtypes: <a>acl:relcl</a>, <a>nmod:poss</a>, <a>obl:npmod</a></li>
+<li>This corpus uses 4 relation subtypes: <a>acl:relcl</a>, <a>nmod:poss</a>, <a>nmod:unmarked</a>, <a>obl:unmarked</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Art`, `Dem`, `Ind`, `Int`, `Prs`, `Rel`.
 
-4514 tokens (19%) have a non-empty value of `PronType`.
-122 types (2%) occur at least once with a non-empty value of `PronType`.
-48 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="gl_pud-pos-DET.html">DET</a></tt> (3573; 15% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (936; 4% instances), <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (5; 0% instances).
+4517 tokens (19%) have a non-empty value of `PronType`.
+123 types (2%) occur at least once with a non-empty value of `PronType`.
+49 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="gl_pud-pos-DET.html">DET</a></tt> (3573; 15% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (939; 4% instances), <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (5; 0% instances).
 
 ### `DET`
 
@@ -41,9 +41,9 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-936 <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+939 <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="gl_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (837; 89%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (657; 70%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="gl_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (839; 89%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (658; 70%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -51,7 +51,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Dem` (53; 6% of non-empty `PronType`): <em>isto, iso, este, estes, esta, aqueles, estas, aquela, aquilo, esa</em>
 * `Ind` (51; 5% of non-empty `PronType`): <em>todo, un, alguén, algo, ambos, mesmo, unha, moitas, moitos, nada</em>
 * `Int` (1; 0% of non-empty `PronType`): <em>cal</em>
-* `Prs` (508; 54% of non-empty `PronType`): <em>se, lle, o, el, ela, eles, me, a, nos, eu</em>
+* `Prs` (511; 54% of non-empty `PronType`): <em>se, lle, o, el, ela, eles, me, a, nos, eu</em>
 * `Rel` (304; 32% of non-empty `PronType`): <em>que, quen, cal, cales</em>
 * `EMPTY` (2): <em>Esta, que</em>
 

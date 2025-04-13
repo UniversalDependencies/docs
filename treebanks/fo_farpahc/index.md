@@ -12,15 +12,15 @@ udver: '2'
 # UD Faroese FarPaHC
 
 Language: [Faroese](/fo/index.html) (code: `fo`)<br/>
-Family: Indo-European, Germanic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.7 release.
 
 The following people have contributed to making this treebank part of UD: Þórunn Arnardóttir, Hinrik Hafsteinsson, Einar Freyr Sigurðsson, Anton Karl Ingason, Eiríkur Rögnvaldsson, Joel C. Wallenberg.
 
 Repository: [UD_Faroese-FarPaHC](https://github.com/UniversalDependencies/UD_Faroese-FarPaHC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_farpahc214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_farpahc215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -63,7 +63,7 @@ UD_Faroese-FarPaHC consists of two Faroese texts:
 Author: Jákup Dahl
 Birthdate: 1878, died 1944 on his birthday, 5 June
 TextId: ntacts
-Textname: Ápostlasögan (Acts of the Apostles)[Originally published in Varðin 8, 1928,
+Textname: Ápostlasögan (Acts of the Apostles)[Originally published by Felagið Varðin, Tórshavn, 1928,
 as Ápostlasögan og hini almennu brævini (Acts of the Apostles and the Letters)]
 Edition: "1937. Nýggja Testamenti. [The New Testament]
 Givið út hevur Det danske Bibelselskab. [Published by the Danish Bible Society]
@@ -80,7 +80,7 @@ Sample: Sample is from Acts 1:1-17:34, pp. 251-295
 Author: Jákup Dahl
 Birthdate: 1878, died 1944 on his birthday, 5 June
 TextId: ntjohn
-Textname: Evangeliið eftir Jóhannes, (Gospel of St. John) [Originally published in Varðin 16, 1936.]
+Textname: Evangeliið eftir Jóhannes, (Gospel of St. John) [Originally published by Varðin, 1936.]
 Edition: "1937. Nýggja Testamenti. [The New Testament]
 Givið út hevur Det danske Bibelselskab. [Published by the Danish Bible Society]
 P. Haase og söns boghandel, Keypmannahavn. [Copenhagen]"

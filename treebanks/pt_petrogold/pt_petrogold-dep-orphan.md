@@ -141,11 +141,11 @@ The following 9 pairs of parts of speech are connected with `orphan`: <tt><a hre
 23	queimados	queimar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	21	acl	_	SpaceAfter=No
 24	)	)	PUNCT	_	_	21	punct	_	SpaceAfter=No
 25	,	,	PUNCT	_	_	30	punct	_	_
-26	sendo	ser	AUX	_	VerbForm=Ger	30	aux	_	_
+26	sendo	ser	AUX	_	VerbForm=Ger	30	aux:pass	_	_
 27	estes	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	29	det	_	_
 28	dois	dois	NUM	_	NumType=Card	29	nummod	_	_
-29	últimos	último	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	30	nsubj	_	_
-30	medidos	medir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	4	advcl	_	_
+29	últimos	último	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	30	nsubj:pass	_	_
+30	medidos	medir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	4	advcl	_	_
 31	em	em	ADP	_	_	32	case	_	_
 32	partes	parte	NOUN	_	Gender=Fem|Number=Plur	30	obl	_	_
 33	por	por	ADP	_	_	34	case	_	_

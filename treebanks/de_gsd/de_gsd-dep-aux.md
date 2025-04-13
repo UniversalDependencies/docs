@@ -27,7 +27,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	die	der	DET	ART	Case=Nom|Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 3	bestellten	bestellt	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	4	amod	_	_
 4	Artikel	Artikel	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	6	obj	_	_
-5	prompt	prompt	ADV	ADJD	_	6	advmod	_	_
+5	prompt	prompt	ADJ	ADJD	Degree=Pos	6	advmod	_	_
 6	erhalten	erhalten	VERB	VVPP	VerbForm=Part	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	$.	_	6	punct	_	_
 

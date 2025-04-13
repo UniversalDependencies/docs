@@ -5,12 +5,14 @@ shortdef: 'root'
 udver: '2'
 ---
 
-The `root` grammatical relation points to the root of the sentence. A fake node `ROOT` is used as the governor. The `ROOT` node is indexed with 0, since the indexing of real words in the sentence starts at 1. (The `ROOT` node is not represented
-explicitly in CoNLL-U.)
+The `root` grammatical relation points to the root of the sentence.
+A fake node `ROOT` is used as the governor.
+The `ROOT` node is indexed with 0, since the indexing of real words in the sentence starts at 1.
+(The `ROOT` node is not represented explicitly in CoNLL-U.)
 
 ~~~ sdparse
-da / bʔeː =b eːjaː -n =heːb i- ni //
-text_en: "Men came to me one day", he said.
-root(ROOT, ni) (ROOT, "say")
+ROOT da / bʔeː =b eːjaːn =heːb ini \n "Men came to me one day", he said.
+root(ROOT, ini)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:47 CEST -->
+
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:28 CET -->

@@ -33,7 +33,7 @@ The following 2 pairs of parts of speech are connected with `nmod`: <tt><a href=
 8	tõn	tõt	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	12	obj	_	GTtags=Dem,Sg,Acc,@OBJ>
 9	vaaʹldi	väʹldded	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	reparandum	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 10	...	...	PUNCT	PUNCT	_	12	punct	_	_
-11	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	12	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
+11	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	12	aux	_	GTtags=Neg,Ind,Sg3,@+FAUXV
 12	välddam	väʹldded	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past	4	conj	_	GTtags=Ind,Prt,ConNeg|SpaceAfter=No
 13	.	.	PUNCT	PUNCT	_	4	punct	_	_
 

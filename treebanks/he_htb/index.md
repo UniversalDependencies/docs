@@ -12,15 +12,15 @@ udver: '2'
 # UD Hebrew HTB
 
 Language: [Hebrew](/he/index.html) (code: `he`)<br/>
-Family: Afro-Asiatic, Semitic
+Family: Afro-Asiatic
 
 This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
 The following people have contributed to making this treebank part of UD: Yoav Goldberg, Reut Tsarfaty, Amir More, Shoval Sadde, Victoria Basmov, Yuval Pinter.
 
 Repository: [UD_Hebrew-HTB](https://github.com/UniversalDependencies/UD_Hebrew-HTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_htb214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_htb215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -50,15 +50,10 @@ A Universal Dependencies Corpus for Hebrew.
 
 
 
-Universal Dependencies - Hebrew Dependency Treebank (v2)
-https://github.com/UniversalDependencies/UD_Hebrew
+Universal Dependencies - Hebrew Dependency Treebank (v2) <https://github.com/UniversalDependencies/UD_Hebrew>
 
-V1 for the the corpus was built by semi-automatic conversion of the
-Hebrew Constituency Treebank (v2).
-V2 is converted from V1, using a combination of automatic conversion when possible,
-and manual conversion and verification in other cases.
-
-
+V1 for the the corpus was built by semi-automatic conversion of the Hebrew Constituency Treebank (v2).
+V2 is converted from V1, using a combination of automatic conversion when possible, and manual conversion and verification in other cases.
 
 ## Acknowledgments
 
@@ -74,14 +69,13 @@ The Universal Dependencies Hebrew Treebank created by:
 - Shoval Sadde (documentation, v2 validation and conversion)
 - Victoria Basmov (v2 validation and conversion)
 
-The Universal Dependencies Hebrew Treebank is based on the
-Hebrew Constituency Treebank (v2) developed by MILA, The Knowledge Center for Processing Hebrew.
-(http://www.mila.cs.technion.ac.il/resources_treebank.html)
+The Universal Dependencies Hebrew Treebank is based on the Hebrew Constituency Treebank (v2) developed by MILA, The Knowledge Center for Processing Hebrew (<http://www.mila.cs.technion.ac.il/resources_treebank.html>).
 
 ## References
 
 You are encouraged to cite these papers if you use the Hebrew Universal Dependencies Treebank:
 
+```
 @inproceedings{tsarfaty2013unified,
 title={A Unified Morpho-Syntactic Scheme of Stanford Dependencies},
 author={Tsarfaty, Reut},
@@ -95,10 +89,9 @@ author={McDonald, Ryan T and Nivre, Joakim and Quirmbach-Brundage, Yvonne and Go
 booktitle={Proc. of ACL},
 year={2013}
 }
+```
 
-Note that these papers do not accurately reflect the current annotation in the Treebank. A more up-to-date publication
-is forthcoming.
-
+Note that these papers do not accurately reflect the current annotation in the Treebank. A more up-to-date publication is forthcoming.
 
 
 

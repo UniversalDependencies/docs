@@ -31,7 +31,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 7	$	$	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
 8	por	por	ADP	IN	_	9	case	_	_
 9	persona	persona	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	4	punct	_	_
+10	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 ~~~
 
@@ -53,7 +53,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	agua	agua	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
 11	alpina	alpino	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No|Proper=True
-12	.	.	PUNCT	.	_	4	punct	_	_
+12	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 ~~~
 
@@ -83,7 +83,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 17	de	de	ADP	IN	_	19	case	_	_
 18	6 000	6 000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	19	nummod	_	_
 19	empleados	empleado	NOUN	NN	Gender=Masc|Number=Plur	16	obl	_	SpaceAfter=No
-20	.	.	PUNCT	.	_	4	punct	_	_
+20	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 ~~~
 

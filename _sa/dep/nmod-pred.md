@@ -14,4 +14,4 @@ nmod:pred(vapus-, gó-) \n with-the-beauty of-a-cow
 ~~~ sdparse
 nmod:pred(índra-, śatru-} \n whose-enemy Indra},
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:24 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:06 CET -->

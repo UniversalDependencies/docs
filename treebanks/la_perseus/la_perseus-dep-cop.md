@@ -11,9 +11,9 @@ This relation is universal.
 350 nodes (1%) are attached to their parents as `cop`.
 
 247 instances of `cop` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.86285714285714.
+Average distance between parent and child is 1.86.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (187; 53% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (117; 33% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (25; 7% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (10; 3% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (188; 54% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (116; 33% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (25; 7% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (10; 3% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

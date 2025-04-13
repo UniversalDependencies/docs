@@ -56,7 +56,7 @@ The following 45 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 8 dep	color:blue
 1	Työnsin	työntää	VERB	V,Act,Ind,Past,Sg1	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	hänen	hän	DET	Pron,Pers,Sg3,Gen	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	det	_	_
+2	hänen	hän	PRON	Pron,Pers,Sg3,Gen	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod:poss	_	_
 3	kätensä	käsi	NOUN	N,Sg,Gen,Px3	Case=Gen|Number=Sing|Person[psor]=3	1	obj	_	_
 4	pois	pois	ADV	Adv	_	1	advmod	_	_
 5	,	,	PUNCT	Pun	_	4	punct	_	_

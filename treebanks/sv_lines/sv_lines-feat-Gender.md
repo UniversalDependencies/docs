@@ -7,24 +7,24 @@ udver: '2'
 ## Treebank Statistics: UD_Swedish-LinES: Features: `Gender`
 
 This feature is universal.
-It occurs with 3 different values: `Com`, `Masc`, `Neut`.
+It occurs with 2 different values: `Com`, `Neut`.
 
-29736 tokens (33%) have a non-empty value of `Gender`.
-8447 types (59%) occur at least once with a non-empty value of `Gender`.
-5968 lemmas (59%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (15604; 17% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (7598; 8% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (4037; 4% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (2466; 3% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (25; 0% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+29909 tokens (33%) have a non-empty value of `Gender`.
+8469 types (59%) occur at least once with a non-empty value of `Gender`.
+5978 lemmas (59%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (15768; 17% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (7596; 8% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (4030; 4% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (2477; 3% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (25; 0% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-15604 <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Gender`.
+15768 <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=Nom</tt> (15155; 97%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11320; 73%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (10171; 65%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=Nom</tt> (15286; 97%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11470; 73%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (10310; 65%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Com` (10990; 70% of non-empty `Gender`): <em>far, gång, man, sidan, del, mor, fråga, mr, mannen, tiden</em>
-* `Neut` (4614; 30% of non-empty `Gender`): <em>sätt, år, fält, data, ögon, ansikte, barn, fältet, huvudet, ögonblick</em>
-* `EMPTY` (371): <em>slags, exempel, stället, väg, början, grund, går, rad-, Language, avståndet</em>
+* `Com` (11068; 70% of non-empty `Gender`): <em>far, gång, man, sidan, del, mor, väg, fråga, mr, mannen</em>
+* `Neut` (4700; 30% of non-empty `Gender`): <em>sätt, år, fält, data, ögon, ansikte, barn, exempel, fältet, huvudet</em>
+* `EMPTY` (205): <em>går, Language, års, Web, närvarande, vänster, Components, Server, Engine, Stylesheet</em>
 
 <table>
   <tr><th>Paradigm <i>man</i></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
@@ -36,36 +36,35 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>män</em></td><td><em>män, man</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (4882) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (4890) occur only with one value of `Gender`.
 
 ### `PRON`
 
-7598 <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> tokens (70% of all `PRON` tokens) have a non-empty value of `Gender`.
+7596 <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> tokens (70% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7201; 95%), <tt><a href="sv_lines-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6911; 91%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (6717; 88%), <tt><a href="sv_lines-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6666; 88%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7199; 95%), <tt><a href="sv_lines-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6909; 91%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (6717; 88%), <tt><a href="sv_lines-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6665; 88%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Com` (5531; 73% of non-empty `Gender`): <em>han, jag, du, vi, hon, honom, mig, den, sin, man</em>
-* `Masc` (5; 0% of non-empty `Gender`): <em>denne</em>
-* `Neut` (2062; 27% of non-empty `Gender`): <em>det, vad, detta, sitt, allt, något, ingenting, mitt, vilket, annat</em>
-* `EMPTY` (3215): <em>som, sig, de, hans, dem, sina, hennes, deras, alla, dom</em>
+* `Com` (5536; 73% of non-empty `Gender`): <em>han, jag, du, vi, hon, honom, mig, den, sin, man</em>
+* `Neut` (2060; 27% of non-empty `Gender`): <em>det, vad, detta, sitt, allt, något, ingenting, mitt, vilket, annat</em>
+* `EMPTY` (3206): <em>som, sig, de, hans, dem, sina, hennes, deras, alla, dom</em>
 
 <table>
-  <tr><th>Paradigm <i>denna</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>denne</em></td><td><em>detta</em></td><td><em>Denna</em></td></tr>
+  <tr><th>Paradigm <i>den</i></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>det</em></td><td><em>den</em></td></tr>
 </table>
 
 ### `DET`
 
-4037 <tt><a href="sv_lines-pos-DET.html">DET</a></tt> tokens (85% of all `DET` tokens) have a non-empty value of `Gender`.
+4030 <tt><a href="sv_lines-pos-DET.html">DET</a></tt> tokens (85% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4037; 100%), <tt><a href="sv_lines-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3544; 88%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2829; 70%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4030; 100%), <tt><a href="sv_lines-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3536; 88%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2822; 70%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Com` (2735; 68% of non-empty `Gender`): <em>en, den, någon, denna, ingen, all, varenda, vilken, denne, nån</em>
-* `Neut` (1302; 32% of non-empty `Gender`): <em>ett, det, något, detta, inget, allt, vilket, nåt, intet, vartenda</em>
+* `Com` (2731; 68% of non-empty `Gender`): <em>en, den, någon, denna, ingen, all, varenda, vilken, denne, nån</em>
+* `Neut` (1299; 32% of non-empty `Gender`): <em>ett, det, något, detta, inget, allt, vilket, nåt, intet, vartenda</em>
 * `EMPTY` (709): <em>de, alla, några, varje, dessa, inga, båda, vilka, dom, the</em>
 
 <table>
@@ -75,15 +74,15 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `ADJ`
 
-2466 <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> tokens (39% of all `ADJ` tokens) have a non-empty value of `Gender`.
+2477 <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> tokens (39% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2466; 100%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2465; 100%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2464; 100%), <tt><a href="sv_lines-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2459; 100%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2477; 100%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2476; 100%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2475; 100%), <tt><a href="sv_lines-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2470; 100%), <tt><a href="sv_lines-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2320; 94%), <tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2319; 94%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
 * `Com` (1652; 67% of non-empty `Gender`): <em>själv, stor, egen, annan, liten, vit, gammal, lång, sådan, ny</em>
-* `Neut` (814; 33% of non-empty `Gender`): <em>annat, stort, nytt, eget, litet, möjligt, svårt, rött, klart, visst</em>
-* `EMPTY` (3814): <em>andra, hela, samma, första, flera, många, enda, nya, vita, egna</em>
+* `Neut` (825; 33% of non-empty `Gender`): <em>annat, stort, nytt, eget, litet, möjligt, svårt, rött, taget, klart</em>
+* `EMPTY` (3828): <em>andra, hela, samma, första, flera, många, enda, nya, vita, egna</em>
 
 <table>
   <tr><th>Paradigm <i>annan</i></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
@@ -104,6 +103,22 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 `Gender` seems to be **lexical feature** of `PROPN`. 100% lemmas (15) occur only with one value of `Gender`.
 
+### `NUM`
+
+8 <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> tokens (2% of all `NUM` tokens) have a non-empty value of `Gender`.
+
+`NUM` tokens may have the following values of `Gender`:
+
+* `Com` (4; 50% of non-empty `Gender`): <em>en</em>
+* `Neut` (4; 50% of non-empty `Gender`): <em>ett</em>
+* `EMPTY` (497): <em>två, tre, en, fem, sex, fyra, tio, 1, 2, 2000</em>
+
+<table>
+  <tr><th>Paradigm <i>en</i></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
+  <tr><td><tt><tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td><em>ett</em></td><td><em>en</em></td></tr>
+  <tr><td><tt><tt><a href="sv_lines-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>Ett</em></td><td></td></tr>
+</table>
+
 ### `X`
 
 3 <tt><a href="sv_lines-pos-X.html">X</a></tt> tokens (11% of all `X` tokens) have a non-empty value of `Gender`.
@@ -113,7 +128,7 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
 `X` tokens may have the following values of `Gender`:
 
 * `Neut` (3; 100% of non-empty `Gender`): <em>alium, coniunctis, internum</em>
-* `EMPTY` (24): <em>W3C, foie, TSQL, maris, stella, .adp, .lpk, .mdb, .odc, .udl</em>
+* `EMPTY` (25): <em>W3C, foie, TSQL, maris, stella, .adp, .lpk, .mdb, .odc, .udl</em>
 
 ### `VERB`
 
@@ -125,28 +140,19 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 * `Com` (1; 50% of non-empty `Gender`): <em>krigsmålad</em>
 * `Neut` (1; 50% of non-empty `Gender`): <em>sitt</em>
-* `EMPTY` (11368): <em>sa, var, hade, gick, kom, har, såg, ta, göra, sade</em>
-
-### `NUM`
-
-1 <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Gender`.
-
-`NUM` tokens may have the following values of `Gender`:
-
-* `Neut` (1; 100% of non-empty `Gender`): <em>Ett</em>
-* `EMPTY` (495): <em>två, tre, en, fem, sex, fyra, tio, 1, 2, 2000</em>
+* `EMPTY` (11353): <em>sa, var, hade, gick, kom, har, såg, ta, göra, sade</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="sv_lines-dep-det.html">det</a></tt>]--> DET</tt> (3700; 85%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1266; 59%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (733; 63%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (604; 51%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (229; 52%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-det.html">det</a></tt>]--> DET</tt> (3715; 85%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1300; 59%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (741; 63%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (605; 51%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (238; 54%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (183; 71%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> ADJ</tt> (132; 74%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> NOUN</tt> (81; 70%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (79; 72%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> NOUN</tt> (80; 70%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (79; 71%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-expl.html">expl</a></tt>]--> PRON</tt> (74; 85%).
 

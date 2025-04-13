@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-Perseus: Relations: `det`
 
 This relation is universal.
+There are 1 language-specific subtypes of `det`: <tt><a href="la_perseus-dep-det-numgov.html">det:numgov</a></tt>.
 
-977 nodes (3%) are attached to their parents as `det`.
+980 nodes (3%) are attached to their parents as `det`.
 
-668 instances of `det` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.68577277379734.
+671 instances of `det` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.68571428571429.
 
-The following 8 pairs of parts of speech are connected with `det`: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (874; 89% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (30; 3% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (28; 3% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (15; 2% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (877; 89% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (30; 3% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (28; 3% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (15; 2% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +24,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 7 det	color:blue
 1	Te	tu	PRON	p-s---fa-	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	obj	_	LId=tu1
-2	quoque	quoque	ADV	d--------	_	1	advmod	_	LId=quoque1
+2	quoque	quoque	PART	d--------	Form=Emp	1	advmod:emph	_	LId=quoque1
 3	magna	magnus	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	6	amod	_	LId=magnus1
 4	manent	maneo	VERB	v3ppia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=maneo1|TraditionalMood=Indicativus|TraditionalTense=Praesens
 5	regnis	regnum	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	4	obl	_	LId=regnum1

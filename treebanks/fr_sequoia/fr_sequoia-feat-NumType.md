@@ -16,12 +16,12 @@ The feature is used with 3 part-of-speech tags: <tt><a href="fr_sequoia-pos-NUM.
 
 ### `NUM`
 
-1726 <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+1726 <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> tokens (97% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
 * `Card` (1726; 100% of non-empty `NumType`): <em>deux, 5, trois, 2, 2006, 10, 1, 30, 3, 4</em>
-* `EMPTY` (6): <em>100 000, 2 914571 14 3, 260 000, 3000, 4 000, 7 000</em>
+* `EMPTY` (51): <em>50 000, 125 000, 1 500, 1 000, 1 200, 10 000, 13 819, 2 000, 2 127, 6 000</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (370) occur only with one value of `NumType`.
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> NUM</tt> (39; 100%),
 <tt>NUM --[<tt><a href="fr_sequoia-dep-obl-arg.html">obl:arg</a></tt>]--> NUM</tt> (19; 100%),
-<tt>NUM --[<tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (13; 100%),
+<tt>NUM --[<tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (13; 81%),
 <tt>ADJ --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> ADJ</tt> (4; 100%),
 <tt>NOUN --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4; 57%),
 <tt>NUM --[<tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (2; 100%),

@@ -22,14 +22,14 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 fixed	color:blue
-1	I	_	PRON	_	_	7	nsubj	_	_
-2	mechat	_	AUX	_	_	7	cop	_	_
-3	neta	_	ADV	_	_	7	advmod	_	_
-4	a	_	DET	_	_	7	advmod	_	_
-5	wengal	_	ADV	_	_	4	fixed	_	_
-6	a	_	DET	_	_	7	det	_	_
-7	Ruah	_	NOUN	_	_	0	root	_	SpaceAfter=No
-8	.	_	PUNCT	_	_	7	punct	_	_
+1	I	_	PRON	_	_	7	nsubj	_	GermanLemma=ich
+2	mechat	_	AUX	_	_	7	cop	_	GermanLemma=möchten
+3	neta	_	ADV	_	_	7	advmod	_	GermanLemma=nur
+4	a	_	DET	_	_	7	advmod	_	GermanLemma=ein
+5	wengal	_	ADV	_	_	4	fixed	_	GermanLemma=wenig
+6	a	_	DET	_	_	7	det	_	GermanLemma=eine
+7	Ruah	_	NOUN	_	_	0	root	_	GermanLemma=Ruhe|SpaceAfter=No
+8	.	_	PUNCT	_	_	7	punct	_	GermanLemma=.
 
 ~~~
 
@@ -40,16 +40,16 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 fixed	color:blue
-1	Der	_	PRON	_	_	2	nsubj	_	_
-2	quakatzt	_	VERB	_	_	0	root	_	SpaceAfter=No
-3	,	_	PUNCT	_	_	8	punct	_	_
-4	wej	_	SCONJ	_	_	8	mark	_	_
-5	wenn	_	SCONJ	_	_	4	fixed	_	SpaceAfter=No
-6	'a	_	PRON	_	_	8	nsubj	_	_
-7	a	_	DET	_	_	8	det	_	_
-8	Frusch	_	NOUN	_	_	2	advcl	_	_
-9	war	_	AUX	_	_	8	cop	_	SpaceAfter=No
-10	.	_	PUNCT	_	_	2	punct	_	_
+1	Der	_	PRON	_	_	2	nsubj	_	GermanLemma=der
+2	quakatzt	_	VERB	_	_	0	root	_	GermanLemma=quaken|SpaceAfter=No
+3	,	_	PUNCT	_	_	8	punct	_	GermanLemma=,
+4	wej	_	SCONJ	_	_	8	mark	_	GermanLemma=wie
+5	wenn	_	SCONJ	_	_	4	fixed	_	GermanLemma=wenn|SpaceAfter=No
+6	'a	_	PRON	_	_	8	nsubj	_	GermanLemma=er
+7	a	_	DET	_	_	8	det	_	GermanLemma=ein
+8	Frusch	_	NOUN	_	_	2	advcl	_	GermanLemma=Frosch
+9	war	_	AUX	_	_	8	cop	_	GermanLemma=sein|SpaceAfter=No
+10	.	_	PUNCT	_	_	2	punct	_	GermanLemma=.
 
 ~~~
 
@@ -60,20 +60,20 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 fixed	color:blue
-1	Waal	_	SCONJ	_	_	5	mark	_	_
-2	e	_	PRON	_	_	5	nsubj	_	_
-3	a	_	DET	_	_	5	advmod	_	SpaceAfter=No|CorrectSpaceAfter=Yes
-4	weng	_	ADJ	_	_	3	fixed	_	_
-5	dåugstånd'n	_	VERB	_	_	8	advcl	_	_
-6	bin	_	AUX	_	_	5	aux	_	SpaceAfter=No
-7	,	_	PUNCT	_	_	5	punct	_	_
-8	fangt	_	VERB	_	_	0	root	_	SpaceAfter=No
-9	s	_	PRON	_	_	8	expl	_	_
-10	za	_	PART	_	_	12	mark	_	_
-11	n	_	DET	_	_	12	det	_	_
-12	renga	_	NOUN	_	_	8	obl	_	_
-13	õ	_	ADP	_	_	8	compound:prt	_	SpaceAfter=No
-14	.	_	PUNCT	_	_	8	punct	_	_
+1	Waal	_	SCONJ	_	_	5	mark	_	GermanLemma=während
+2	e	_	PRON	_	_	5	nsubj	_	GermanLemma=ich
+3	a	_	DET	_	_	5	advmod	_	CorrectSpaceAfter=Yes|GermanLemma=ein|SpaceAfter=No
+4	weng	_	ADJ	_	_	3	fixed	_	GermanLemma=wenig
+5	dåugstånd'n	_	VERB	_	_	8	advcl	_	GermanLemma=dastehen
+6	bin	_	AUX	_	_	5	aux	_	GermanLemma=sein|SpaceAfter=No
+7	,	_	PUNCT	_	_	5	punct	_	GermanLemma=,
+8	fangt	_	VERB	_	_	0	root	_	GermanLemma=fangen|SpaceAfter=No
+9	s	_	PRON	_	_	8	expl	_	GermanLemma=es
+10	za	_	PART	_	_	12	mark	_	GermanLemma=zu
+11	n	_	DET	_	_	12	det	_	GermanLemma=das
+12	renga	_	NOUN	_	_	8	obl	_	GermanLemma=Regnen
+13	õ	_	ADP	_	_	8	compound:prt	_	GermanLemma=an|SpaceAfter=No
+14	.	_	PUNCT	_	_	8	punct	_	GermanLemma=.
 
 ~~~
 

@@ -48,7 +48,7 @@ The following 20 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
 5	lazy	lazy	ADJ	JJ	Degree=Pos	1	ccomp	1:ccomp	MSeg=laz-y|SpaceAfter=No
 6	,	,	PUNCT	,	_	9	punct	9:punct	_
-7	because	because	SCONJ	IN	_	9	mark	9:mark	Discourse=causal-cause:128->127:0:dm-because-887
+7	because	because	SCONJ	IN	_	9	mark	9:mark	Discourse=causal-cause:128->127:0:dm-because-887|MSeg=be-cause|PDTB=Explicit:Contingency.Cause.Reason:because:887:882-886:888-894
 8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	9:nsubj|11:nsubj:xsubj	Entity=(51-object-giv:act-cf1-1-ana)
 9	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	1:advcl:because	MSeg=want-s
 10	to	to	PART	TO	_	11	mark	11:mark	_
@@ -71,10 +71,10 @@ The following 20 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 3	might	might	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
 4	be	be	VERB	VB	VerbForm=Inf	0	root	0:root	_
 5	like	like	ADP	RP	_	4	compound:prt	4:compound:prt	_
-6	this	this	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	10:nsubj	Discourse=evaluation-comment:20->16:2:_|Entity=(25-abstract-new-cf2-1-cata)
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	10:nsubj	Discourse=evaluation-comment:20->16:2:_|Entity=(25-abstract-new-cf2-1-cata)|PDTB=AltLex:Expansion.Conjunction:this is:180-181:156-174:175-179,182-185
 7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	Entity=(25-abstract-acc:com-cf2-3-coref
-9	terrible	terrible	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+9	terrible	terrible	ADJ	JJ	Degree=Pos	10	amod	10:amod	MSeg=terr-ible
 10	list	list	NOUN	NN	Number=Sing	4	ccomp	4:ccomp	Entity=25)|SpaceAfter=No
 11	.	.	PUNCT	.	_	4	punct	4:punct	_
 

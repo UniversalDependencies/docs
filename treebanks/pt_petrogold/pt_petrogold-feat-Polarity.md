@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pt_petrogold-pos-AD
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (565; 100% of non-empty `Polarity`): <em>não, nao</em>
-* `EMPTY` (5878): <em>mais, também, através, já, onde, muito, assim, bem, ainda, além</em>
+* `EMPTY` (5877): <em>mais, também, através, já, onde, muito, assim, bem, ainda, além</em>
 

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-620 tokens (10%) have a non-empty value of `Degree`.
-521 types (19%) occur at least once with a non-empty value of `Degree`.
-389 lemmas (20%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (512; 8% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (105; 2% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (3; 0% instances).
+679 tokens (11%) have a non-empty value of `Degree`.
+576 types (22%) occur at least once with a non-empty value of `Degree`.
+435 lemmas (23%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (571; 9% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (105; 2% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (3; 0% instances).
 
 ### `ADJ`
 
-512 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (86% of all `ADJ` tokens) have a non-empty value of `Degree`.
+571 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (497; 97%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (496; 97%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (469; 92%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (468; 91%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (359; 70%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (306; 60%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (553; 97%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (530; 93%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (490; 86%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (489; 86%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (408; 71%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (350; 61%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (6; 1% of non-empty `Degree`): <em>lepší, dražší, vyšší, vyšších, čistších</em>
-* `Pos` (503; 98% of non-empty `Degree`): <em>věčné, bílé, celý, plný, bílý, jiné, kamenném, nové, tiché, tmavou</em>
+* `Pos` (562; 98% of non-empty `Degree`): <em>věčné, bílé, celý, plný, bílý, jiné, kamenném, nové, tiché, tmavou</em>
 * `Sup` (3; 1% of non-empty `Degree`): <em>nejluznější, nejsmutnější, největší</em>
-* `EMPTY` (85): <em>věrni, Vyloupena, otráven, první, Kypící, Nazaretského, Očištěna, Podťata, Rozcuchán, aj</em>
+* `EMPTY` (26): <em>první, Kypící, bijící, drtící, druhého, druhém, druhý, hořícího, hořícím, hynoucími</em>
 
 <table>
   <tr><th>Paradigm <i>dobrý</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>Lepší</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 99% lemmas (312) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 99% lemmas (358) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -73,10 +73,11 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (33; 87%),
+<tt>ADJ --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (39; 91%),
 <tt>ADV --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> ADV</tt> (15; 100%),
 <tt>ADJ --[<tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="cs_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<tt><a href="cs_poetry-dep-appos.html">appos</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="cs_poetry-dep-dep.html">dep</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (1; 100%).
 

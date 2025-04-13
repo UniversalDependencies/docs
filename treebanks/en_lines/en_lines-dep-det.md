@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8830 nodes (9%) are attached to their parents as `det`.
+8828 nodes (9%) are attached to their parents as `det`.
 
-8828 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.50237825594564.
+8826 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.50022655188038.
 
-The following 12 pairs of parts of speech are connected with `det`: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (8267; 94% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (197; 2% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (175; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (74; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (68; 1% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-SYM.html">SYM</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `det`: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (8269; 94% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (195; 2% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (175; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (74; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (64; 1% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-SYM.html">SYM</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,8 +31,8 @@ The following 12 pairs of parts of speech are connected with `det`: <tt><a href=
 7	running	run	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
 8	on	on	ADP	_	_	12	case	_	_
 9	a	a	DET	IND-SG	Definite=Ind|PronType=Art	12	det	_	_
-10	Windows	Windows	PROPN	SG-NOM	Case=Nom	12	compound	_	_
-11	NT	NT	PROPN	SG-NOM	Case=Nom	10	flat	_	_
+10	Windows	Windows	PROPN	SG-NOM	Number=Sing	12	compound	_	_
+11	NT	NT	PROPN	SG-NOM	Number=Sing	10	flat	_	_
 12	platform	platform	NOUN	SG-NOM	Number=Sing	7	obl	_	SpaceAfter=No
 13	.	.	PUNCT	Period	_	7	punct	_	_
 

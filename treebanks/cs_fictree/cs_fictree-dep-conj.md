@@ -24,11 +24,11 @@ The following 114 pairs of parts of speech are connected with `conj`: <tt><a hre
 # visual-style 1 5 conj	color:blue
 1	Poslouchal	poslouchat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 2	a	a	CCONJ	J^-------------	_	5	cc	5:cc	_
-3	tváře	tvář	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	5	nsubj	5:nsubj	_
+3	tváře	tvář	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	5:nsubj	_
 4	mu	on	PRON	PHMS3--3-------	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	5	obl	5:obl:dat	_
 5	svítily	svítit	VERB	VpFP----R-AA---	Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	conj	0:root|1:conj	_
 6	obdivným	obdivný	ADJ	AANS7----1A----	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	7	amod	7:amod	_
-7	nadšením	nadšení	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	5	obl	5:obl:ins	SpaceAfter=No
+7	nadšením	nadšení	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing	5	obl	5:obl:ins	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
@@ -42,9 +42,9 @@ The following 114 pairs of parts of speech are connected with `conj`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 conj	color:blue
-1	Srdce	srdce	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	0	root	0:root	_
+1	Srdce	srdce	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	_
 2	a	a	CCONJ	J^-------------	_	3	cc	3:cc	_
-3	čas	čas	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	1	conj	0:root|1:conj	_
+3	čas	čas	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	conj	0:root|1:conj	_
 
 ~~~
 
@@ -56,7 +56,7 @@ The following 114 pairs of parts of speech are connected with `conj`: <tt><a hre
 # visual-style 4	fgColor:white
 # visual-style 4 6 conj	color:blue
 1	Cítily	cítit	VERB	VpFP----R-AA---	Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
-2	by	být	AUX	Vc-------------	Mood=Cnd|VerbForm=Fin	1	aux	1:aux	_
+2	by	být	AUX	Vc-------------	Aspect=Imp|Mood=Cnd|VerbForm=Fin	1	aux	1:aux	_
 3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	1:expl:pv	_
 4	zahanbené	zahanbený	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	1	obj	1:obj	_
 5	a	a	CCONJ	J^-------------	_	6	cc	6:cc	_

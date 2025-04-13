@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (60; 100% of non-empty `Polarity`): <em>aldrig, knappast, ingalunda, föga, nu, näppeligen, så, knappt, långt, minst</em>
-* `EMPTY` (6917): <em>så, också, hur, där, här, bara, nu, ut, mycket, mer</em>
+* `EMPTY` (6881): <em>också, så, hur, där, här, bara, nu, ut, mycket, mer</em>
 
 `Polarity` seems to be **lexical feature** of `ADV`. 100% lemmas (10) occur only with one value of `Polarity`.
 
@@ -54,5 +54,5 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>sig</em>
-* `EMPTY` (6671): <em>det, som, man, de, sig, vi, den, du, sin, detta</em>
+* `EMPTY` (6672): <em>det, som, man, de, sig, vi, den, du, sin, detta</em>
 

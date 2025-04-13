@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-11 nodes (0%) are attached to their parents as `discourse`.
+10 nodes (0%) are attached to their parents as `discourse`.
 
-10 instances of `discourse` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.27272727272727.
+9 instances of `discourse` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.
 
-The following 5 pairs of parts of speech are connected with `discourse`: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (4; 36% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (3; 27% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-SCONJ.html">SCONJ</a></tt> (2; 18% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (1; 9% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (1; 9% instances).
+The following 5 pairs of parts of speech are connected with `discourse`: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (4; 40% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (2; 20% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-SCONJ.html">SCONJ</a></tt> (2; 20% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (1; 10% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (1; 10% instances).
 
 
 ~~~ conllu

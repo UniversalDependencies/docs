@@ -36,4 +36,4 @@ This feature marks person agreement of the verb with the indirect object.
 #### Examples
 
 * [ab] _и-еи-р-ҭе-ит_ [DO.3-IO.Rec-Subj.3Pl-give-Aor] ‘they gave it to each other’ `Dyn=Yes|Number[subj]=Plur|Person[io]=Rec|Person[obj]=3|Person[subj]=3|Tense=Aor|Trans=Yes|VerbForm=Fin`
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:13 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:57 CET -->

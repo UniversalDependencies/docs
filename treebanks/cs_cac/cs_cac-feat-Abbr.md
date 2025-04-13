@@ -26,7 +26,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="cs_cac-pos-SYM.html
 
 1878 <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> tokens (19% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1878; 100%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1873; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1865; 99%), <tt><a href="cs_cac-feat-NameType.html">NameType</a></tt><tt>=Com</tt> (1460; 78%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1271; 68%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (964; 51%).
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1873; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1865; 99%), <tt><a href="cs_cac-feat-NameType.html">NameType</a></tt><tt>=Com</tt> (1460; 78%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1271; 68%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (964; 51%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 
@@ -39,7 +39,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 
 982 <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (982; 100%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (981; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (977; 99%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (510; 52%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (981; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (977; 99%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (510; 52%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 

@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ceb_gja-pos-PRON.ht
 
 ### `PRON`
 
-16 <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> tokens (9% of all `PRON` tokens) have a non-empty value of `Deixis`.
+16 <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> tokens (8% of all `PRON` tokens) have a non-empty value of `Deixis`.
 
 The most frequent other feature values with which `PRON` and `Deixis` co-occurred: <tt><a href="ceb_gja-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="ceb_gja-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="ceb_gja-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="ceb_gja-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (14; 88%).
 
@@ -33,7 +33,7 @@ The most frequent other feature values with which `PRON` and `Deixis` co-occurre
 
 ### `ADV`
 
-11 <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> tokens (15% of all `ADV` tokens) have a non-empty value of `Deixis`.
+11 <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> tokens (14% of all `ADV` tokens) have a non-empty value of `Deixis`.
 
 The most frequent other feature values with which `ADV` and `Deixis` co-occurred: <tt><a href="ceb_gja-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (6; 55%).
 

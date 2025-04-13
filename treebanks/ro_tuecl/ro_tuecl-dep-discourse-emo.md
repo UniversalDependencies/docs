@@ -25,7 +25,7 @@ The following 8 pairs of parts of speech are connected with `discourse:emo`: <tt
 1	@Utilizator_fem	@Utilizator_fem	SYM	_	_	2	vocative:mention	_	_
 2	Arăți	arăta	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	super	super	ADV	_	Degree=Pos	4	advmod	_	_
-4	sexy	sexy	ADJ	_	Degree=Pos|Foreign=Yes|Gender=Fem|Number=Sing	2	obj	_	Lang=en
+4	sexy	sexy	ADJ	_	Degree=Pos|Foreign=Yes	2	obj	_	Lang=en
 5	frumușico	frumușel	ADJ	_	Case=Voc|Definite=Def|Gender=Fem|Number=Sing	2	vocative	_	_
 6	💋	💋	SYM	_	_	2	discourse:emo	_	SpaceAfter=No
 7	☺️	☺️	SYM	_	_	2	discourse:emo	_	SpaceAfter=No

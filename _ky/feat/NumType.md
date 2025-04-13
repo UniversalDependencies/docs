@@ -29,4 +29,4 @@ A period following a numeral may also indicate ordinal use of the number.
 * _бир<b>инчи</b>,  эки<b>нчи</b>, үч<b>үнчү</b>_  "first, second, third"
 
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:10 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:54 CET -->

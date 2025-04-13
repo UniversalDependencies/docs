@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="orv_ruthenian-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="orv_ruthenian-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-149 nodes (0%) are attached to their parents as `nsubj:pass`.
+187 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-127 instances of `nsubj:pass` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.06711409395973.
+159 instances of `nsubj:pass` (85%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.0855614973262.
 
-The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (85; 57% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (35; 23% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (25; 17% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (106; 57% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (48; 26% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (25; 13% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -42,25 +42,16 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 nsubj:pass	color:blue
-1	Нам	мы	PRON	PRP	Case=Dat|Number=Plur|Person=1|PronType=Prs	3	iobj	_	wf="Нам"
-2	сѧ	ся	PRON	PRP	Analyt=Yes|Clitic=Yes|PronType=Prs|Reflex=Yes	3	expl	_	wf="сѧ"
-3	видить	видети	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="видить"
-4	то	то	PRON	DT	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj:pass	_	wf="то"|SpaceAfter=No
-5	,	,	PUNCT	-COMMA-	_	13	punct	_	_
-6	как	какъ	ADV	WRB	Degree=Pos	13	advmod	_	wf="как"
-7	бы	бы	AUX	RP	Analyt=Yes|Mood=Cnd	13	aux	_	wf="бы"
-8	ещо	еще	ADV	RB	Degree=Pos	13	advmod	_	wf="ещо"
-9	имъ	они	PRON	PRP	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	iobj	_	wf="имъ"
-10	в	въ	ADP	IN	_	11	case	_	wf="в"
-11	томъ	той	DET	DT	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	13	obl	_	wf="томъ"
-12	не	не	PART	NEG	Polarity=Neg	13	advmod	_	wf="не"
-13	довѣрѧете	доверяти	VERB	VBC	Analyt=Yes|Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	wf="довѣрѧете"|SpaceAfter=No
-14	.	.	PUNCT	-PERIOD-	_	3	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nsubj:pass	color:blue
+1	То	то	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj:pass	_	wf="То"
+2	записано	записати	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="зап[и]сано"
+3	на	на	ADP	_	_	4	case	_	wf="на"
+4	привили	привилей	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	wf="приви<i>л</i>и"|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	wf="."
 
 ~~~
 

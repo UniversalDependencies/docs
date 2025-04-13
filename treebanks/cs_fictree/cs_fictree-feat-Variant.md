@@ -11,7 +11,7 @@ It occurs with 1 different values: `Short`.
 
 9135 tokens (5%) have a non-empty value of `Variant`.
 344 types (1%) occur at least once with a non-empty value of `Variant`.
-263 lemmas (2%) occur at least once with a non-empty value of `Variant`.
+262 lemmas (2%) occur at least once with a non-empty value of `Variant`.
 The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (8362; 5% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (556; 0% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (217; 0% instances).
 
 ### `PRON`
@@ -28,7 +28,7 @@ The most frequent other feature values with which `PRON` and `Variant` co-occurr
 
 556 <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (556; 100%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (553; 99%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (540; 97%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (456; 82%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (320; 58%).
+The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (556; 100%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (553; 99%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (540; 97%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (456; 82%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (320; 58%).
 
 `ADJ` tokens may have the following values of `Variant`:
 

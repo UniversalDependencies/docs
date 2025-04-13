@@ -67,7 +67,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 * `Abs` (153; 36% of non-empty `Degree`): <em>maxime, optime, ymo, potissime, minime, ultimo, demum, immo, carissime, evidentissime</em>
 * `Cmp` (269; 64% of non-empty `Degree`): <em>magis, superius, potius, prius, melius, inferius, minus, ulterius, iterum, amplius</em>
-* `EMPTY` (2693): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, solum</em>
+* `EMPTY` (2694): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, solum</em>
 
 <table>
   <tr><th>Paradigm <i>magis</i></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>

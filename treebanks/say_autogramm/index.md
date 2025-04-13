@@ -12,15 +12,15 @@ udver: '2'
 # UD Zaar Autogramm
 
 Language: [Zaar](/say/index.html) (code: `say`)<br/>
-Family: Afro-Asiatic, West Chadic
+Family: Afro-Asiatic
 
 This treebank has been part of Universal Dependencies since the UD v2.11 release.
 
 The following people have contributed to making this treebank part of UD: Sylvain Kahane, Bruno Guillaume, Bernard Caron, Katharine Jiang.
 
 Repository: [UD_Zaar-Autogramm](https://github.com/UniversalDependencies/UD_Zaar-Autogramm)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsay_autogramm214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsay_autogramm215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

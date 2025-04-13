@@ -5,7 +5,11 @@ shortdef: 'oblique spatial modifier'
 udver: '2'
 ---
 
-This label is used when a nominal phrase has a spatial aspect and is acting adverbially, attaching to a verb.  
+(Up to release 2.15)
+
+This is used when a noun phrase is connected to a verb, indicates where something is happening and is also unmarked with an adposition and in the nominative.
+
+In release 2.16 and after this is replaced by [obl:unmarked]().
 
 ### Examples
 
@@ -15,4 +19,4 @@ This label is used when a nominal phrase has a spatial aspect and is acting adve
 nach bi coinneamhan nam ball 's nan comataidh taobh muigh Dhùn\_Éideann ach tearc \n PART will\_be meetings of\_the members and of\_the committee side out Edinburgh but scarce
 obl:smod(coinneamhan, taobh)
 ~~~ 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:41 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:21 CET -->

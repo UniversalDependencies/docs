@@ -9,11 +9,11 @@ udver: '2'
 There are 16 `PROPN` lemmas (6%), 19 `PROPN` types (5%) and 93 `PROPN` tokens (9%).
 Out of 15 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 7 in number of types and 4 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: <em>Дениз, Питер, Айхан, Мэри, Айша, Джейн, Париж, Франция, Браун, Игуасу</em>
+The 10 most frequent `PROPN` lemmas: <em>Дениз, Питер, Айхан, Мэри, Айша, Джейн, Париж, Франция, Браун, Игуазу</em>
 
 The 10 most frequent `PROPN` types:  <em>Дениз, Айханга, Мэри, Питер, Айша, Дениздин, Джейн, Парижде, Франциянын, Браун</em>
 
-The 10 most frequent ambiguous lemmas: <em>Дениз</em> (<tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> 59, <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 2), <em>Питер</em> (<tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> 6, <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 2), <em>ал</em> (<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 14, <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> 9, <tt><a href="ky_tuecl-pos-AUX.html">AUX</a></tt> 5, <tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> 1), <em>биз</em> (<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 3, <tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> 1), <em>мен</em> (<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 6, <tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>Дениз</em> (<tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> 59, <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 2), <em>Питер</em> (<tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> 6, <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 2), <em>ал</em> (<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 16, <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> 9, <tt><a href="ky_tuecl-pos-AUX.html">AUX</a></tt> 5, <tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> 1), <em>биз</em> (<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 3, <tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> 1), <em>мен</em> (<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 6, <tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>Дениз</em> (<tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> 54, <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 2), <em>ал</em> (<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 4, <tt><a href="ky_tuecl-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> 1)
 
@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>Дениз</em> (<tt><a href="ky_tuec
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.187500 (the average of all parts of speech is 1.451724).
+The form / lemma ratio of `PROPN` is 1.187500 (the average of all parts of speech is 1.466899).
 
 The 1st highest number of forms (3) was observed with the lemma “Дениз”: <em>Дениз, Денизди, Дениздин</em>.
 

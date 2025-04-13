@@ -44,4 +44,4 @@ flat:foreign(half, of)
 flat:foreign(half, IRA)
 flat:foreign(half, men)
 ~~~ 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:14 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:56 CET -->

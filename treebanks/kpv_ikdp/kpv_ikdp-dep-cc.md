@@ -59,7 +59,7 @@ The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="k
 # visual-style 13 6 cc	color:blue
 1	Пока	пока	ADV	Adv	_	4	advmod	_	_
 2	лёк	лёк	ADJ	A	Case=Nom|Number=Sing	4	nsubj	_	_
-3	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg	4	aux:neg	_	_
+3	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg	4	aux	_	_
 4	ло	лоны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	но	но	CCONJ	CC	_	13	cc	_	OrigLang=ru|SpaceAfter=No

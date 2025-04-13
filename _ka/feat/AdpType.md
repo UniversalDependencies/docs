@@ -20,4 +20,4 @@ The `AdpType` feature typically applies to [adpositions](_ka/pos/ADV), nouns [NO
 
 * _მაგიდა<b>ზე</b>_ 'on the table', _ჩანთა<b>ში</b>_ 'in the bag' etc.
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:45 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:30 CET -->

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (0%) are attached to their parents as `discourse`.
+3 nodes (0%) are attached to their parents as `discourse`.
 
-2 instances of `discourse` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.
+2 instances of `discourse` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.
 
-The following 2 pairs of parts of speech are connected with `discourse`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 50% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (1; 50% instances).
+The following 3 pairs of parts of speech are connected with `discourse`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 33% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (1; 33% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (1; 33% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 7	fgColor:white
 # visual-style 7 1 discourse	color:blue
 1	Bueno	bueno	ADJ	_	_	7	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	1	punct	_	_
+2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 3	cuando	cuando	SCONJ	_	_	4	mark	_	_
 4	llegue	llegar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 5	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
@@ -32,7 +32,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 8	de	de	ADP	_	_	10	case	_	_
 9	esos	ese	DET	_	Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
 10	temas	tema	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	28	punct	_	_
+11	,	,	PUNCT	_	PunctType=Comm	28	punct	_	_
 12	pero	pero	CCONJ	_	_	28	cc	_	_
 13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	tarea	tarea	NOUN	_	Gender=Fem|Number=Sing	28	nsubj	_	_
@@ -41,7 +41,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 17	queda	quedar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
 18	de	de	ADP	_	_	19	case	_	_
 19	reflexión	reflexión	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
-20	,	,	PUNCT	_	_	22	punct	_	_
+20	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 21	de	de	ADP	_	_	22	case	_	_
 22	propuestas	propuesta	NOUN	_	Gender=Fem|Number=Plur	19	conj	_	_
 23	y	y	CCONJ	_	_	25	cc	_	_
@@ -59,10 +59,31 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 35	por	por	ADP	_	_	37	case	_	_
 36	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	37	det	_	_
 37	cuestiones	cuestión	NOUN	_	Gender=Fem|Number=Plur	34	obl	_	SpaceAfter=No
-38	,	,	PUNCT	_	_	40	punct	_	_
+38	,	,	PUNCT	_	PunctType=Comm	40	punct	_	_
 39	que	que	SCONJ	_	_	40	mark	_	_
 40	llegarán	llegar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	37	acl:relcl	_	SpaceAfter=No
-41	.	.	PUNCT	_	_	7	punct	_	_
+41	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 11 discourse	color:blue
+1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+2	sé	saber	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	sí	si	SCONJ	_	Typo=Yes	5	mark	_	CorrectForm=si
+4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	caro	caro	ADJ	_	Gender=Masc|Number=Sing	2	ccomp	_	_
+6	porque	porque	SCONJ	_	_	9	mark	_	_
+7	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+8	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	pagado	pagar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+10	todavía	todavía	ADV	_	_	9	advmod	_	SpaceAfter=No
+11	;)	;)	SYM	_	_	2	discourse	_	_
 
 ~~~
 
@@ -76,7 +97,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 1	C.	c.	X	_	_	7	discourse	_	_
 2	Mientras	mientras	ADV	_	_	7	advmod	_	_
 3	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	2	fixed	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	2	punct	_	_
+4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 5	Hidrieo	hidrieo	NOUN	_	_	7	nsubj	_	_
 6	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
 7	cumplido	cumplir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -103,7 +124,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 28	chipriota	chipriota	ADJ	_	Number=Sing	27	amod	_	_
 29	Evágoras	evágoras	NOUN	_	_	27	appos	_	_
 30	II	ii	NUM	_	NumForm=Roman|NumType=Card	29	nummod	_	SpaceAfter=No
-31	.	.	PUNCT	_	_	7	punct	_	_
+31	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
 
 ~~~
 

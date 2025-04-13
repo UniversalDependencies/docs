@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>kylmyverizembi</em>
-* `EMPTY` (100): <em>eri, mustal, valgiel, 30., Karjalazet, Toine, bohattu, hyväs, jygei, kielitiijollizii</em>
+* `EMPTY` (99): <em>eri, mustal, valgiel, 30., Karjalazet, Toine, bohattu, hyväs, jygei, kielitiijollizii</em>
 
 ### `VERB`
 

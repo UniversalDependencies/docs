@@ -22,16 +22,16 @@ The following 6 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 6 list	color:blue
-1	Álvares	Álvares	PROPN	_	_	0	root	_	_
-2	Penteado	Penteado	PROPN	_	_	1	flat:name	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	_
-4	112	112	NUM	_	NumType=Card	1	list	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	6	punct	_	_
-6	Centro	Centro	PROPN	_	_	1	list	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	8	punct	_	_
-8	tel.	telefone	NOUN	_	Abbr=Yes|Gender=Masc|Number=Sing	1	list	_	_
-9	3113-3651	3113-3651	NUM	_	NumType=Card	8	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+1	Álvares	Álvares	PROPN	_	_	0	root	0:root	_
+2	Penteado	Penteado	PROPN	_	_	1	flat:name	1:flat:name	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	4:punct	_
+4	112	112	NUM	_	NumType=Card	1	list	1:list	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	6:punct	_
+6	Centro	Centro	PROPN	_	_	1	list	1:list	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	8:punct	_
+8	tel.	telefone	NOUN	_	Abbr=Yes|Gender=Masc|Number=Sing	1	list	1:list	_
+9	3113-3651	3113-3651	NUM	_	NumType=Card	8	nmod	8:nmod	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
 
 ~~~
 
@@ -42,21 +42,21 @@ The following 6 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 13 list	color:blue
-1	Rua	rua	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
-2	França	França	PROPN	_	_	1	nmod	_	_
-3	Pinto	Pinto	PROPN	_	_	2	flat:name	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	5	punct	_	_
-5	97	97	NUM	_	NumType=Card	1	list	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	7	punct	_	_
-7	Vila	Vila	PROPN	_	_	1	list	_	_
-8	Mariana	Mariana	PROPN	_	_	7	flat:name	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	10	punct	_	_
-10	região	região	NOUN	_	Gender=Fem|Number=Sing	1	list	_	_
-11	sul	sul	ADJ	_	Number=Sing	10	amod	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	13	punct	_	_
-13	tel.	telefone	NOUN	_	Abbr=Yes|Gender=Masc|Number=Sing	1	list	_	_
-14	5573-7889	5573-7889	NUM	_	NumType=Card	13	nummod	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+1	Rua	rua	NOUN	_	Gender=Fem|Number=Sing	0	root	0:root	_
+2	França	França	PROPN	_	_	1	nmod	1:nmod	_
+3	Pinto	Pinto	PROPN	_	_	2	flat:name	2:flat:name	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	5:punct	_
+5	97	97	NUM	_	NumType=Card	1	list	1:list	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	7:punct	_
+7	Vila	Vila	PROPN	_	_	1	list	1:list	_
+8	Mariana	Mariana	PROPN	_	_	7	flat:name	7:flat:name	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	10:punct	_
+10	região	região	NOUN	_	Gender=Fem|Number=Sing	1	list	1:list	_
+11	sul	sul	ADJ	_	Number=Sing	10	amod	10:amod	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	13:punct	_
+13	tel.	telefone	NOUN	_	Abbr=Yes|Gender=Masc|Number=Sing	1	list	1:list	_
+14	5573-7889	5573-7889	NUM	_	NumType=Card	13	nummod	13:nummod	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
 
 ~~~
 
@@ -67,16 +67,16 @@ The following 6 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 8 list	color:blue
-1	Álvares	Álvares	PROPN	_	_	0	root	_	_
-2	Penteado	Penteado	PROPN	_	_	1	flat:name	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	_
-4	112	112	NUM	_	NumType=Card	1	list	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	6	punct	_	_
-6	Centro	Centro	PROPN	_	_	1	list	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	8	punct	_	_
-8	tel.	telefone	NOUN	_	Abbr=Yes|Gender=Masc|Number=Sing	1	list	_	_
-9	3113-3651	3113-3651	NUM	_	NumType=Card	8	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+1	Álvares	Álvares	PROPN	_	_	0	root	0:root	_
+2	Penteado	Penteado	PROPN	_	_	1	flat:name	1:flat:name	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	4:punct	_
+4	112	112	NUM	_	NumType=Card	1	list	1:list	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	6:punct	_
+6	Centro	Centro	PROPN	_	_	1	list	1:list	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	8:punct	_
+8	tel.	telefone	NOUN	_	Abbr=Yes|Gender=Masc|Number=Sing	1	list	1:list	_
+9	3113-3651	3113-3651	NUM	_	NumType=Card	8	nmod	8:nmod	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
 
 ~~~
 

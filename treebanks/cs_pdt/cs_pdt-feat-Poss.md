@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_pdt-pos-DET.html
 
 ### `DET`
 
-3239 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (24% of all `DET` tokens) have a non-empty value of `Poss`.
+3239 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (25% of all `DET` tokens) have a non-empty value of `Poss`.
 
 The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="cs_pdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3072; 95%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2998; 93%).
 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (3239; 100% of non-empty `Poss`): <em>jeho, jejich, své, její, svou, svého, svých, svůj, naše, svým</em>
-* `EMPTY` (10279): <em>to, které, který, která, tím, tom, kteří, této, tomu, toho</em>
+* `EMPTY` (9559): <em>to, které, který, která, tím, tom, kteří, této, tomu, toho</em>
 
 ### `ADJ`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (538; 100% of non-empty `Poss`): <em>Karlovy, Eukleidových, Nobelovy, Masarykově, Klausovy, Mečiarova, Eukleidovy, Karlova, Masarykův, hlemýžďův</em>
-* `EMPTY` (40236): <em>první, další, české, nové, druhé, poslední, státní, možné, dalších, vlastní</em>
+* `EMPTY` (40229): <em>první, další, české, nové, druhé, poslední, státní, možné, dalších, vlastní</em>
 
 `Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (307) occur only with one value of `Poss`.
 

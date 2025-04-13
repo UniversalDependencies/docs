@@ -23,10 +23,10 @@ The following 1 pairs of parts of speech are connected with `det:predet`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 2 det:predet	color:blue
 1	_	_	INTJ	UH	_	5	discourse	5:discourse	Discourse=evaluation-comment:35->34:0:_|Lem=*LOWER*|Len=2
-2	_	_	DET	WDT	PronType=Int	5	det:predet	5:det:predet	Entity=(37-person-giv:act-cf1*-4-coref|Lem=_|Len=4
+2	_	_	DET	WDT	PronType=Int	5	det:predet	5:det:predet	CxnElt=5:Exclamative-What.Wh|Entity=(37-person-giv:act-cf1*-4-coref|Lem=_|Len=4
 3	_	_	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	Lem=_|Len=1
 4	_	_	NOUN	NN	Number=Sing	5	compound	5:compound	Lem=_|Len=4
-5	_	_	NOUN	NN	Number=Sing	0	root	0:root	Cxn=Exclamative-What|Entity=37)|Lem=_|Len=4
+5	_	_	NOUN	NN	Number=Sing	0	root	0:root	Cxn=Exclamative-What|CxnElt=5:Exclamative-What.N|Entity=37)|Lem=_|Len=4
 
 ~~~
 

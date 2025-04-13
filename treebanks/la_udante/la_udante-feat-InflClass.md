@@ -289,11 +289,11 @@ The most frequent other feature values with which `NUM` and `InflClass` co-occur
 ## Relations with Agreement in `InflClass`
 
 The 10 most frequent relations where parent and child node agree in `InflClass`:
-<tt>ADJ --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> ADJ</tt> (194; 68%),
-<tt>DET --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> DET</tt> (64; 90%),
-<tt>PROPN --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> PROPN</tt> (41; 59%),
-<tt>DET --[<tt><a href="la_udante-dep-det.html">det</a></tt>]--> DET</tt> (38; 57%),
-<tt>VERB --[<tt><a href="la_udante-dep-xcomp.html">xcomp</a></tt>]--> AUX</tt> (23; 88%),
+<tt>ADJ --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> ADJ</tt> (194; 69%),
+<tt>DET --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> DET</tt> (63; 89%),
+<tt>PROPN --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> PROPN</tt> (42; 59%),
+<tt>DET --[<tt><a href="la_udante-dep-det.html">det</a></tt>]--> DET</tt> (37; 56%),
+<tt>VERB --[<tt><a href="la_udante-dep-xcomp.html">xcomp</a></tt>]--> AUX</tt> (22; 88%),
 <tt>ADJ --[<tt><a href="la_udante-dep-amod.html">amod</a></tt>]--> ADJ</tt> (15; 52%),
 <tt>ADJ --[<tt><a href="la_udante-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (13; 87%),
 <tt>DET --[<tt><a href="la_udante-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (12; 92%),

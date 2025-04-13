@@ -12,15 +12,15 @@ udver: '2'
 # UD Kyrgyz TueCL
 
 Language: [Kyrgyz](/ky/index.html) (code: `ky`)<br/>
-Family: Turkic, Northwestern
+Family: Turkic
 
 This treebank has been part of Universal Dependencies since the UD v2.14 release.
 
 The following people have contributed to making this treebank part of UD: Bermet Chontaeva, Çağrı Çöltekin.
 
 Repository: [UD_Kyrgyz-TueCL](https://github.com/UniversalDependencies/UD_Kyrgyz-TueCL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udky_tuecl214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udky_tuecl215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -47,13 +47,13 @@ This is a small treebank of grammatical examples for Kyrgyz.
 
 
 
-Kyrgyz-TueCL contains totaly 145 sentences including 20 Cairo sentences, and ~ 100 sentences suggested by [UD Turkic Group](https://github.com/ud-turkic). This treebank is a part of UD Turkic Treebank.
+Kyrgyz-TueCL contains 145 sentences in total, including 20 Cairo sentences and ~ 100 sentences suggested by [UD Turkic Group](https://github.com/ud-turkic). This treebank is a part of UD Turkic Treebank.
 Translation of all sentences are available in English, Turkish and Azerbaijani languages.
 
 
 ## Acknowledgments
 
-We are deeply thankful to the [UD Turkic Group](https://github.com/ud-turkic) and Kyrgyz team: [Johnathon Washington](https://github.com/jonorthwash), Aida Kasieva, Gulnura Dzumalieva, Aigul Tursunova, Meerim Ryspakova, Aizat Kadyrbekova for their weekly informative meetings and discussions and for all the support we have received.
+We are deeply thankful to the [UD Turkic Group](https://github.com/ud-turkic) and Kyrgyz team: [Jonathan North Washington](https://github.com/jonorthwash), Aida Kasieva, Gulnura Dzumalieva, Aigul Tursunova, Meerim Ryspakova, Aizat Kadyrbekova for their weekly informative meetings and discussions and for all the support we have received.
 
 ## References
 
@@ -96,7 +96,7 @@ We are deeply thankful to the [UD Turkic Group](https://github.com/ud-turkic) an
 
 <ul>
 <li>This corpus contains 29 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 19 types of multi-word tokens. Examples: бердиби, барбы, беле, жатабы, үйдѳгү, Дениздикинин, Окугандарын, ашкананыкынкын, бекен, бересиңби, жаттыңызбы, жокпу, келдиби, кичинекейби, сеникинен, текчесиндегилер, ѳрѳѳнбү, ѳткѳрүлѳбү, үйдѳбү.</li>
+<li>There are 19 types of multi-word tokens. Examples: бердиби, барбы, беле, жатабы, үйдѳгү, Дениздикинин, Окугандарын, ашкананыкын, бекен, бересиңби, жаттыңызбы, жокпу, келдиби, кичинекейби, сеникинен, текчесиндегилер, ѳрѳѳнбү, ѳткѳрүлѳбү, үйдѳбү.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -113,7 +113,7 @@ We are deeply thankful to the [UD Turkic Group](https://github.com/ud-turkic) an
 </ul>
 
 <ul>
-<li>This corpus contains 13 lemmas tagged as pronouns (PRON): _, Питер, ал, алар, анда, биз, бир, бул, ки, ким, мен, сен, эмне</li>
+<li>This corpus contains 12 lemmas tagged as pronouns (PRON): _, Питер, ал, алар, биз, бир, бул, ки, ким, мен, сен, эмне</li>
 </ul>
 
 <ul>

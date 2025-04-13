@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>pasado</em> (<tt><a href="es_ancora-p
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.709825 (the average of all parts of speech is 1.505790).
+The form / lemma ratio of `ADJ` is 1.709825 (the average of all parts of speech is 1.505808).
 
 The 1st highest number of forms (5) was observed with the lemma “buen”: <em>buen, buena, buenas, bueno, buenos</em>.
 
@@ -61,11 +61,11 @@ The 2nd highest number of forms (5) was observed with the lemma “chino”: <em
 
 The 3rd highest number of forms (5) was observed with the lemma “primero”: <em>primer, primera, primeras, primero, primeros</em>.
 
-`ADJ` occurs with 8 features: <tt><a href="es_ancora-feat-Number.html">Number</a></tt> (35626; 98% instances), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt> (24227; 67% instances), <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt> (6501; 18% instances), <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt> (1960; 5% instances), <tt><a href="es_ancora-feat-Degree.html">Degree</a></tt> (900; 2% instances), <tt><a href="es_ancora-feat-AdvType.html">AdvType</a></tt> (13; 0% instances), <tt><a href="es_ancora-feat-Foreign.html">Foreign</a></tt> (4; 0% instances), <tt><a href="es_ancora-feat-NumForm.html">NumForm</a></tt> (4; 0% instances)
+`ADJ` occurs with 7 features: <tt><a href="es_ancora-feat-Number.html">Number</a></tt> (35626; 98% instances), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt> (24227; 67% instances), <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt> (6501; 18% instances), <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt> (1960; 5% instances), <tt><a href="es_ancora-feat-Degree.html">Degree</a></tt> (900; 2% instances), <tt><a href="es_ancora-feat-Foreign.html">Foreign</a></tt> (4; 0% instances), <tt><a href="es_ancora-feat-NumForm.html">NumForm</a></tt> (4; 0% instances)
 
-`ADJ` occurs with 12 feature-value pairs: `AdvType=Tim`, `Degree=Abs`, `Degree=Cmp`, `Degree=Sup`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `NumForm=Digit`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `VerbForm=Part`
+`ADJ` occurs with 11 feature-value pairs: `Degree=Abs`, `Degree=Cmp`, `Degree=Sup`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `NumForm=Digit`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `VerbForm=Part`
 
-`ADJ` occurs with 31 feature combinations.
+`ADJ` occurs with 30 feature combinations.
 The most frequent feature combination is `Number=Sing` (7688 tokens).
 Examples: <em>gran, pasado, general, primer, posible, primera, actual, electoral, internacional, mayor</em>
 

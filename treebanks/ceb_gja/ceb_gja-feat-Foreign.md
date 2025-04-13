@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ceb_gja-pos-NOUN.ht
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>frog, orange, pet</em>
-* `EMPTY` (158): <em>libro, bata, balay, kwarta, tubig, bisita, iro, plano, Palihog, babaye</em>
+* `EMPTY` (172): <em>libro, bata, balay, kwarta, tubig, amahan, bisita, iro, plano, sulat</em>
 
 ### `NUM`
 

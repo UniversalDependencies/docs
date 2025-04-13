@@ -23,7 +23,7 @@ The following 4 pairs of parts of speech are connected with `advmod:lmod`: <tt><
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 9 advmod:lmod	color:blue
-1	Ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	2	aux:neg	_	GTtags=Neg,Ind,Sg3
+1	Ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	2	aux	_	GTtags=Neg,Ind,Sg3
 2	kuuʹǩǩ	kuʹǩǩ	ADV	Adv	_	4	advmod:tmod	_	GTtags=Sg,Nom
 3	leämmaž	leeʹd	AUX	V	Aspect=Perf|VerbForm=Part	4	cop	_	GTtags=IV,Act,PrfPrc
 4	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	0	root	_	GTtags=Sg,Loc|SpaceAfter=No
@@ -78,7 +78,7 @@ The following 4 pairs of parts of speech are connected with `advmod:lmod`: <tt><
 16	leʹjjiǩ	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	17	cop	_	GTtags=Ind,Prt,Sg2
 17	mõõnnâd	mõõnnâd	VERB	V	VerbForm=Inf	11	conj	_	GTtags=Inf
 18	mutta	mutta	CCONJ	CC	_	20	cc	_	_
-19	jeäʹp	ij	AUX	V	Mood=Ind|Number=Plur|Person=1|Polarity=Neg	20	aux:neg	_	GTtags=Neg,Ind,Pl1
+19	jeäʹp	ij	AUX	V	Mood=Ind|Number=Plur|Person=1|Polarity=Neg	20	aux	_	GTtags=Neg,Ind,Pl1
 20	teâttam	tieʹtted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past	11	conj	_	GTtags=Ind,Prt,ConNeg|SpaceAfter=No
 21	.	.	PUNCT	CLB	_	3	punct	_	SpaceAfter=No
 22	”	”	PUNCT	PUNCT	_	3	punct	_	GTtags=RIGHT

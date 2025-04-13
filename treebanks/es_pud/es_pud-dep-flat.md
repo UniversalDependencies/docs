@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	ley	ley	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
 10	romana	romano	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No|Proper=True
-11	,	,	PUNCT	,	_	13	punct	_	_
+11	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
 12	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
 13	instituciones	institución	NOUN	NN	Gender=Fem|Number=Plur	9	conj	_	_
 14	de	de	ADP	IN	_	16	case	_	_
@@ -45,7 +45,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 20	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	mos	mos	X	FW	_	9	conj	_	_
 22	maiorum	maiorum	X	FW	Foreign=Yes	21	flat	_	SpaceAfter=No
-23	.	.	PUNCT	.	_	5	punct	_	_
+23	.	.	PUNCT	.	PunctType=Peri	5	punct	_	_
 
 ~~~
 

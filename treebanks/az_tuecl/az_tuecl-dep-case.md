@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (1%) are attached to their parents as `case`.
+9 nodes (1%) are attached to their parents as `case`.
 
-8 instances of `case` (100%) are left-to-right (parent precedes child).
+9 instances of `case` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 4 pairs of parts of speech are connected with `case`: <tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="az_tuecl-pos-ADP.html">ADP</a></tt> (4; 50% instances), <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-ADP.html">ADP</a></tt> (2; 25% instances), <tt><a href="az_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="az_tuecl-pos-ADP.html">ADP</a></tt> (1; 13% instances), <tt><a href="az_tuecl-pos-PRON.html">PRON</a></tt>-<tt><a href="az_tuecl-pos-ADP.html">ADP</a></tt> (1; 13% instances).
+The following 4 pairs of parts of speech are connected with `case`: <tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="az_tuecl-pos-ADP.html">ADP</a></tt> (5; 56% instances), <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-ADP.html">ADP</a></tt> (2; 22% instances), <tt><a href="az_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="az_tuecl-pos-ADP.html">ADP</a></tt> (1; 11% instances), <tt><a href="az_tuecl-pos-PRON.html">PRON</a></tt>-<tt><a href="az_tuecl-pos-ADP.html">ADP</a></tt> (1; 11% instances).
 
 
 ~~~ conllu

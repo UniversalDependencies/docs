@@ -56,6 +56,7 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>PRON --[<tt><a href="ha_southernautogramm-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (6; 86%),
 <tt>PRON --[<tt><a href="ha_southernautogramm-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (2; 67%),
 <tt>AUX --[<tt><a href="ha_southernautogramm-dep-dep.html">dep</a></tt>]--> PRON</tt> (1; 100%),
+<tt>AUX --[<tt><a href="ha_southernautogramm-dep-obl.html">obl</a></tt>]--> PRON</tt> (1; 100%),
 <tt>AUX --[<tt><a href="ha_southernautogramm-dep-vocative.html">vocative</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="ha_southernautogramm-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
 <tt>PRON --[<tt><a href="ha_southernautogramm-dep-parataxis.html">parataxis</a></tt>]--> PRON</tt> (1; 100%).

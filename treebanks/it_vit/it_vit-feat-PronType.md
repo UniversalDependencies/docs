@@ -9,25 +9,25 @@ udver: '2'
 This feature is universal but the values `Exc` are language-specific.
 It occurs with 9 different values: `Art`, `Dem`, `Exc`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-55654 tokens (20%) have a non-empty value of `PronType`.
+55649 tokens (20%) have a non-empty value of `PronType`.
 319 types (1%) occur at least once with a non-empty value of `PronType`.
 131 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 9 part-of-speech tags: <tt><a href="it_vit-pos-DET.html">DET</a></tt> (43916; 16% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (9771; 3% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (1953; 1% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="it_vit-pos-DET.html">DET</a></tt> (43899; 16% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (9782; 3% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (1953; 1% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (10; 0% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `DET`
 
-43916 <tt><a href="it_vit-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+43899 <tt><a href="it_vit-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="it_vit-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (36135; 82%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31658; 72%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="it_vit-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (36135; 82%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31653; 72%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Art` (40251; 92% of non-empty `PronType`): <em>il, la, l', i, le, un, gli, una, lo, un'</em>
-* `Dem` (1062; 2% of non-empty `PronType`): <em>questo, questa, questi, tale, tali, queste, quest', quella, quel, quei</em>
+* `Dem` (1057; 2% of non-empty `PronType`): <em>questo, questa, questi, tale, tali, queste, quest', quella, quel, quei</em>
 * `Exc` (13; 0% of non-empty `PronType`): <em>che, quanta, quante</em>
-* `Ind` (1214; 3% of non-empty `PronType`): <em>tutti, ogni, tutte, più, qualche, alcuni, tutto, alcune, tutta, molti</em>
+* `Ind` (1203; 3% of non-empty `PronType`): <em>tutti, ogni, tutte, qualche, alcuni, più, tutto, alcune, tutta, pochi</em>
 * `Int` (89; 0% of non-empty `PronType`): <em>che, quale, quali, qual, quante, quanto, quanti</em>
-* `Prs` (1228; 3% of non-empty `PronType`): <em>sua, suo, loro, nostro, suoi, sue, nostra, mia, mio, propria</em>
+* `Prs` (1227; 3% of non-empty `PronType`): <em>sua, suo, loro, nostro, suoi, sue, mia, nostra, mio, propria</em>
 * `Rel` (49; 0% of non-empty `PronType`): <em>cui, Quanta, quanti</em>
 * `Tot` (10; 0% of non-empty `PronType`): <em>tutti, tutto, molta, tutta</em>
 * `EMPTY` (8): <em>the, i, il, l', le, lo</em>
@@ -42,17 +42,17 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-9771 <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+9782 <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6977; 71%), <tt><a href="it_vit-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (6099; 62%), <tt><a href="it_vit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5965; 61%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5771; 59%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6984; 71%), <tt><a href="it_vit-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (6110; 62%), <tt><a href="it_vit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5976; 61%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5777; 59%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Art` (7; 0% of non-empty `PronType`): <em>altro, Tutti, altri, ognuna, qualcosa, una</em>
-* `Dem` (1029; 11% of non-empty `PronType`): <em>quello, ciò, quella, quelli, questo, quelle, questi, questa, queste, coloro</em>
-* `Ind` (802; 8% of non-empty `PronType`): <em>tutti, più, tutto, uno, altro, nessuno, una, altri, nulla, niente</em>
+* `Dem` (1030; 11% of non-empty `PronType`): <em>quello, ciò, quella, quelli, questo, quelle, questi, questa, queste, coloro</em>
+* `Ind` (811; 8% of non-empty `PronType`): <em>tutti, più, tutto, uno, nessuno, altro, una, altri, nulla, niente</em>
 * `Int` (315; 3% of non-empty `PronType`): <em>chi, perché, dove, quando, come, cosa, che, quanto, quale, qual</em>
-* `Prs` (4276; 44% of non-empty `PronType`): <em>si, ci, lo, c', ne, mi, la, l', vi, io</em>
+* `Prs` (4277; 44% of non-empty `PronType`): <em>si, ci, lo, c', ne, mi, la, l', vi, io</em>
 * `Rel` (3342; 34% of non-empty `PronType`): <em>che, cui, dove, chi, quale, quali, quanto, quando, quanti, ove</em>
 * `EMPTY` (9): <em>altro, altre, che, cos', nulla, più, quanto, una</em>
 
@@ -73,21 +73,21 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Ind` (1; 0% of non-empty `PronType`): <em>meno</em>
 * `Int` (2; 0% of non-empty `PronType`): <em>Perché</em>
 * `Neg` (1950; 100% of non-empty `PronType`): <em>non, mai, né, neppure, no, neanche, nemmeno, mica, Niente, certamente</em>
-* `EMPTY` (8918): <em>più, anche, solo, così, già, ancora, ieri, poi, sempre, oggi</em>
+* `EMPTY` (8919): <em>più, anche, solo, così, già, ancora, ieri, poi, sempre, oggi</em>
 
 `PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (17) occur only with one value of `PronType`.
 
 ### `ADJ`
 
-9 <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `PronType`.
+10 <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADJ` and `PronType` co-occurred: <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8; 89%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 78%).
+The most frequent other feature values with which `ADJ` and `PronType` co-occurred: <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (9; 90%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 80%).
 
 `ADJ` tokens may have the following values of `PronType`:
 
-* `Dem` (3; 33% of non-empty `PronType`): <em>altro, dato, tali</em>
-* `Ind` (6; 67% of non-empty `PronType`): <em>altro, altra, mezzo, troppi</em>
-* `EMPTY` (20153): <em>primo, precedente, altri, nuovo, grande, economico, stesso, altre, nuova, nuovi</em>
+* `Dem` (3; 30% of non-empty `PronType`): <em>altro, dato, tali</em>
+* `Ind` (7; 70% of non-empty `PronType`): <em>altro, altra, mezzo, troppi</em>
+* `EMPTY` (20157): <em>primo, precedente, altri, nuovo, grande, economico, stesso, altre, nuova, nuovi</em>
 
 <table>
   <tr><th>Paradigm <i>altro</i></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
@@ -152,7 +152,6 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> PRON</tt> (33; 89%),
 <tt>DET --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> DET</tt> (3; 100%),
 <tt>DET --[<tt><a href="it_vit-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (1; 100%),
-<tt>DET --[<tt><a href="it_vit-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="it_vit-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="it_vit-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="it_vit-dep-orphan.html">orphan</a></tt>]--> PRON</tt> (1; 100%).

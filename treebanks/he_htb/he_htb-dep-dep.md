@@ -50,7 +50,7 @@ The following 114 pairs of parts of speech are connected with `dep`: <tt><a href
 1	בין	בין	ADP	ADP	_	3	case	_	_
 2	ה	ה	DET	DET	PronType=Art	3	det	_	_
 3	פצועים	פצוע	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	_
-4	ילדים	ילד	NOUN	NOUN	Gender=Masc|Number=Plur	3	dep	_	SpaceAfter=No|HebSource=ConvUncertainHead
+4	ילדים	ילד	NOUN	NOUN	Gender=Masc|Number=Plur	3	dep	_	HebSource=ConvUncertainHead|SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	3	punct	_	HebSource=ConvUncertainHead
 
 ~~~

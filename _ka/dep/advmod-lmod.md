@@ -11,4 +11,4 @@ A locative adverbial modifier is a subtype of the `advmod` relation: if the modi
 შემდეგ შენს ირგვლივ აღმოაჩენ შენს მაგვარ არსებებს. /n 'Then you will find beings like you around you.'
 advmod:lmod(აღმოაჩენ, ირგვლივ)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:39 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:22 CET -->

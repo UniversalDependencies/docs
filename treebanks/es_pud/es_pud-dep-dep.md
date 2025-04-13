@@ -31,7 +31,7 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 7	peca	pecar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	inocencia	inocencia	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
-10	,	,	PUNCT	,	_	16	punct	_	_
+10	,	,	PUNCT	,	PunctType=Comm	16	punct	_	_
 11	y	y	CCONJ	CC	_	16	cc	_	_
 12	en	en	ADP	IN	_	15	case	_	_
 13	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
@@ -53,7 +53,7 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 29	evitar	evitar	VERB	VB	VerbForm=Inf	27	xcomp	_	_
 30	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	31	det	_	_
 31	responsabilidades	responsabilidad	NOUN	NN	Gender=Fem|Number=Plur	27	obj	_	SpaceAfter=No
-32	.	.	PUNCT	.	_	7	punct	_	_
+32	.	.	PUNCT	.	PunctType=Peri	7	punct	_	_
 
 ~~~
 
@@ -66,7 +66,7 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 32 34 dep	color:blue
 1	Sin	sin	ADP	IN	_	10	discourse	_	_
 2	embargo	embargo	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
-3	,	,	PUNCT	,	_	1	punct	_	_
+3	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	candidato	candidato	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
 6	de	de	ADP	INDT	_	8	case	_	_
@@ -93,20 +93,20 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 27	reconocería	reconocer	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	ccomp	_	_
 28	a	a	ADP	IN	_	32	case	_	_
 29	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
-30	"	"	PUNCT	``	_	32	punct	_	SpaceAfter=No
+30	"	"	PUNCT	``	PunctType=Quot	32	punct	_	SpaceAfter=No
 31	gran	gran	ADJ	JJ	Gender=Masc|Number=Sing	32	amod	_	_
 32	número	número	NOUN	NN	Gender=Masc|Number=Sing	27	obl	_	SpaceAfter=No
-33	"	"	PUNCT	''	_	32	punct	_	_
+33	"	"	PUNCT	''	PunctType=Quot	32	punct	_	_
 34	inmigrantes	inmigrante	NOUN	NN	Gender=Masc|Number=Plur	32	dep	_	_
 35	legales	legal	ADJ	JJ	Gender=Masc|Number=Plur	34	amod	_	_
 36	mediante	mediante	ADP	IN	_	39	case	_	_
 37	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
-38	"	"	PUNCT	``	_	39	punct	_	SpaceAfter=No
+38	"	"	PUNCT	``	PunctType=Quot	39	punct	_	SpaceAfter=No
 39	sistema	sistema	NOUN	NN	Gender=Masc|Number=Sing	32	nmod	_	_
 40	de	de	ADP	IN	_	41	case	_	_
 41	méritos	mérito	NOUN	NN	Gender=Masc|Number=Plur	39	nmod	_	SpaceAfter=No
-42	"	"	PUNCT	''	_	39	punct	_	SpaceAfter=No
-43	.	.	PUNCT	.	_	10	punct	_	_
+42	"	"	PUNCT	''	PunctType=Quot	39	punct	_	SpaceAfter=No
+43	.	.	PUNCT	.	PunctType=Peri	10	punct	_	_
 
 ~~~
 
@@ -135,9 +135,9 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 16	psiquiátrico	psiquiátrico	NOUN	NN	Gender=Masc|Number=Sing	13	nmod	_	_
 17	en	en	ADP	IN	_	18	case	_	_
 18	Marat	Marat	PROPN	NNP	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
-19	/	/	PUNCT	-	_	20	punct	_	SpaceAfter=No
+19	/	/	PUNCT	-	PunctType=Colo	20	punct	_	SpaceAfter=No
 20	Sade	Sade	PROPN	NNP	Gender=Masc|Number=Sing	18	dep	_	SpaceAfter=No
-21	.	.	PUNCT	.	_	1	punct	_	_
+21	.	.	PUNCT	.	PunctType=Peri	1	punct	_	_
 
 ~~~
 

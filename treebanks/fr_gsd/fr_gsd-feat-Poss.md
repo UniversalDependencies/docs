@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (4347; 100% of non-empty `Poss`): <em>son, sa, ses, leur, leurs, notre, mon, nos, ma, votre</em>
-* `EMPTY` (56784): <em>le, la, les, l', un, une, des, cette, ce, de</em>
+* `EMPTY` (56747): <em>le, la, les, l', un, une, des, cette, ce, de</em>
 
 ### `ADJ`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (11; 100% of non-empty `Poss`): <em>sien, leurs, leur, sienne, siennes, siens, tien</em>
-* `EMPTY` (23808): <em>premier, première, français, autres, même, française, tous, dernier, grande, grand</em>
+* `EMPTY` (23809): <em>premier, première, français, autres, même, française, tous, dernier, grande, grand</em>
 
 ## Relations with Agreement in `Poss`
 

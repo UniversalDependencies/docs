@@ -27,8 +27,8 @@ The following 3 pairs of parts of speech are connected with `obl:patient`: <tt><
 2	在	在	ADP	_	_	3	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 3	小時候	小時候	NOUN	_	_	5	obl:tmod	_	SpaceAfter=No|Translit=xiǎoshíhou|LTranslit=xiǎoshíhou
 4	反而	反而	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=fǎn'ér|LTranslit=fǎn'ér
-5	有	有	VERB	_	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-6	錢	錢	NOUN	_	_	5	obj	_	SpaceAfter=No|Translit=qián|LTranslit=qián
+5	有	有	VERB	_	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu|Cxn=Existential-HavePred
+6	錢	錢	NOUN	_	_	5	obj	_	SpaceAfter=No|Translit=qián|LTranslit=qián|CxnElt=5:Existential-HavePred.Pivot
 7	能	能	AUX	_	_	15	aux	_	SpaceAfter=No|Translit=néng|LTranslit=néng
 8	把	把	ADP	_	_	12	case	_	SpaceAfter=No|Translit=bǎ|LTranslit=bǎ
 9	想	想	AUX	_	_	10	aux	_	SpaceAfter=No|Translit=xiǎng|LTranslit=xiǎng

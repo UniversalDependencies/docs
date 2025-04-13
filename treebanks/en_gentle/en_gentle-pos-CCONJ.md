@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  <em>but</em> (<tt><a href="en_gentle-pos-
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.071429 (the average of all parts of speech is 1.146169).
+The form / lemma ratio of `CCONJ` is 1.071429 (the average of all parts of speech is 1.147634).
 
 The 1st highest number of forms (2) was observed with the lemma “and”: <em>an, and</em>.
 
@@ -56,20 +56,20 @@ The 2nd highest number of forms (1) was observed with the lemma “&”: <em>&</
 
 The 3rd highest number of forms (1) was observed with the lemma “+”: <em>+</em>.
 
-`CCONJ` occurs with 1 features: <tt><a href="en_gentle-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`CCONJ` occurs with 2 features: <tt><a href="en_gentle-feat-Polarity.html">Polarity</a></tt> (4; 1% instances), <tt><a href="en_gentle-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`CCONJ` occurs with 1 feature-value pairs: `Typo=Yes`
+`CCONJ` occurs with 2 feature-value pairs: `Polarity=Neg`, `Typo=Yes`
 
-`CCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (617 tokens).
-Examples: <em>and, or, but, &, either, /, plus, yet, both, neither</em>
+`CCONJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (613 tokens).
+Examples: <em>and, or, but, &, either, /, plus, yet, both, +</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="en_gentle-dep-cc.html">cc</a></tt> (604; 98% instances), <tt><a href="en_gentle-dep-cc-preconj.html">cc:preconj</a></tt> (8; 1% instances), <tt><a href="en_gentle-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="en_gentle-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="en_gentle-dep-reparandum.html">reparandum</a></tt> (2; 0% instances)
+`CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="en_gentle-dep-cc.html">cc</a></tt> (604; 98% instances), <tt><a href="en_gentle-dep-cc-preconj.html">cc:preconj</a></tt> (8; 1% instances), <tt><a href="en_gentle-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="en_gentle-dep-reparandum.html">reparandum</a></tt> (2; 0% instances), <tt><a href="en_gentle-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (254; 41% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (195; 32% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (57; 9% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (54; 9% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (18; 3% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (16; 3% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (14; 2% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (254; 41% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (195; 32% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (57; 9% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (54; 9% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (18; 3% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (16; 3% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (13; 2% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PART.html">PART</a></tt> (1; 0% instances)
 
 596 (96%) `CCONJ` nodes are leaves.
 

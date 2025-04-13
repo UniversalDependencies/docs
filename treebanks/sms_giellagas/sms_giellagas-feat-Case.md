@@ -176,7 +176,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="sms_giellagas-dep-det.html">det</a></tt>]--> PRON</tt> (34; 68%),
+<tt>NOUN --[<tt><a href="sms_giellagas-dep-det.html">det</a></tt>]--> PRON</tt> (34; 71%),
 <tt>NOUN --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> NOUN</tt> (8; 89%),
 <tt>NOUN --[<tt><a href="sms_giellagas-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (8; 57%),
 <tt>NOUN --[<tt><a href="sms_giellagas-dep-det.html">det</a></tt>]--> DET</tt> (6; 86%),

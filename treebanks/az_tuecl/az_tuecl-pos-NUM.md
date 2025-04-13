@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="az_tuecl-pos-D
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.455645).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.446215).
 
 The 1st highest number of forms (1) was observed with the lemma “beş”: <em>beş</em>.
 
@@ -47,7 +47,7 @@ Parents of `NUM` nodes belong to 2 different parts of speech: <tt><a href="az_tu
 
 The highest child degree of a `NUM` node is 1.
 
-Children of `NUM` nodes are attached using 1 different relations: <tt><a href="az_tuecl-dep-clf.html">clf</a></tt> (2; 100% instances)
+Children of `NUM` nodes are attached using 1 different relations: <tt><a href="az_tuecl-dep-nmod.html">nmod</a></tt> (2; 100% instances)
 
-Children of `NUM` nodes belong to 1 different parts of speech: <tt><a href="az_tuecl-pos-DET.html">DET</a></tt> (2; 100% instances)
+Children of `NUM` nodes belong to 1 different parts of speech: <tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> (2; 100% instances)
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-19360 nodes (9%) are attached to their parents as `det`.
+20474 nodes (9%) are attached to their parents as `det`.
 
-19338 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1103305785124.
+20448 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11414476897529.
 
-The following 10 pairs of parts of speech are connected with `det`: <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (17704; 91% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (854; 4% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (402; 2% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (245; 1% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (107; 1% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (37; 0% instances), <tt><a href="fro_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `det`: <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (18697; 91% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (891; 4% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (465; 2% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (261; 1% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (108; 1% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (38; 0% instances), <tt><a href="fro_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

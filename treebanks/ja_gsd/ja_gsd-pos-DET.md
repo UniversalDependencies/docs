@@ -41,15 +41,15 @@ The 3rd highest number of forms (1) was observed with the lemma “あらゆる�
 
 Parents of `DET` nodes belong to 6 different parts of speech: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (966; 98% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances)
 
-974 (99%) `DET` nodes are leaves.
+975 (99%) `DET` nodes are leaves.
 
-12 (1%) `DET` nodes have one child.
+11 (1%) `DET` nodes have one child.
 
 1 (0%) `DET` nodes have two children.
 
 The highest child degree of a `DET` node is 2.
 
-Children of `DET` nodes are attached using 3 different relations: <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (10; 71% instances), <tt><a href="ja_gsd-dep-case.html">case</a></tt> (3; 21% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (1; 7% instances)
+Children of `DET` nodes are attached using 2 different relations: <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (10; 77% instances), <tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt> (3; 23% instances)
 
-Children of `DET` nodes belong to 3 different parts of speech: <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (10; 71% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (3; 21% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (1; 7% instances)
+Children of `DET` nodes belong to 2 different parts of speech: <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (10; 77% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (3; 23% instances)
 

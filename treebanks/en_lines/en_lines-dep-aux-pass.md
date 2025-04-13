@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_lines-dep-aux.html">aux</a></tt>.
 
-766 nodes (1%) are attached to their parents as `aux:pass`.
+765 nodes (1%) are attached to their parents as `aux:pass`.
 
-765 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29634464751958.
+764 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.29673202614379.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (763; 100% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (763; 100% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,16 +41,26 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 aux:pass	color:blue
-1	My	I	PRON	P1SG-GEN	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
-2	family	family	NOUN	SG-NOM	Number=Sing	4	nsubj:pass	_	_
-3	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
-4	addicted	addicted	ADJ	POS	Degree=Pos|VerbForm=Part	0	root	_	_
-5	to	to	ADP	_	_	6	case	_	_
-6	sentimentality	sentimentality	NOUN	SG-NOM	Number=Sing	4	obl	_	SpaceAfter=No
-7	.	.	PUNCT	Period	_	4	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 aux:pass	color:blue
+1	She	she	PRON	PERS-SG-NOM	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj:pass	_	_
+2	would	would	AUX	PAST-AUX	VerbForm=Fin	5	aux	_	_
+3	be	be	AUX	INF	VerbForm=Inf	5	aux:pass	_	_
+4	poetically	poetical	ADV	_	_	5	advmod	_	_
+5	besocked	besocked	ADJ	POS	Degree=Pos	0	root	_	_
+6	and	and	CCONJ	_	_	7	cc	_	_
+7	sandalled	sandalled	ADJ	POS	Degree=Pos	5	conj	_	SpaceAfter=No
+8	,	,	PUNCT	Comma	_	12	punct	_	_
+9	her	her	PRON	P3SG-GEN	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
+10	eyes	eye	NOUN	PL-NOM	Number=Plur	12	nsubj	_	_
+11	behind	behind	ADP	_	_	12	case	_	_
+12	glass	glass	NOUN	SG-NOM	Number=Sing	5	parataxis	_	SpaceAfter=No
+13	,	,	PUNCT	Comma	_	16	punct	_	_
+14	like	like	ADP	_	_	16	case	_	_
+15	museum	museum	NOUN	SG-NOM	Number=Sing	16	compound	_	_
+16	exhibits	exhibit	NOUN	PL-NOM	Number=Plur	12	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	Period	_	5	punct	_	_
 
 ~~~
 

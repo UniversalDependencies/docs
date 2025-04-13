@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>etcétera</em> (<tt><a href="es_ancor
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.058824 (the average of all parts of speech is 1.505790).
+The form / lemma ratio of `PUNCT` is 1.058824 (the average of all parts of speech is 1.505808).
 
 The 1st highest number of forms (2) was observed with the lemma “etcétera”: <em>etc, etcétera</em>.
 
@@ -32,13 +32,13 @@ The 2nd highest number of forms (1) was observed with the lemma “!”: <em>!</
 
 The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</em>.
 
-`PUNCT` occurs with 2 features: <tt><a href="es_ancora-feat-PunctType.html">PunctType</a></tt> (65543; 100% instances), <tt><a href="es_ancora-feat-PunctSide.html">PunctSide</a></tt> (4424; 7% instances)
+`PUNCT` occurs with 2 features: <tt><a href="es_ancora-feat-PunctType.html">PunctType</a></tt> (65610; 100% instances), <tt><a href="es_ancora-feat-PunctSide.html">PunctSide</a></tt> (4431; 7% instances)
 
-`PUNCT` occurs with 11 feature-value pairs: `PunctSide=Fin`, `PunctSide=Ini`, `PunctType=Brck`, `PunctType=Colo`, `PunctType=Comm`, `PunctType=Dash`, `PunctType=Excl`, `PunctType=Peri`, `PunctType=Qest`, `PunctType=Quot`, `PunctType=Semi`
+`PUNCT` occurs with 12 feature-value pairs: `PunctSide=Fin`, `PunctSide=Ini`, `PunctType=Brck`, `PunctType=Colo`, `PunctType=Comm`, `PunctType=Dash`, `PunctType=Elip`, `PunctType=Excl`, `PunctType=Peri`, `PunctType=Qest`, `PunctType=Quot`, `PunctType=Semi`
 
-`PUNCT` occurs with 13 feature combinations.
-The most frequent feature combination is `PunctType=Comm` (30261 tokens).
-Examples: <em>,, ..., etcétera, etc</em>
+`PUNCT` occurs with 14 feature combinations.
+The most frequent feature combination is `PunctType=Comm` (30187 tokens).
+Examples: <em>,</em>
 
 
 ## Relations

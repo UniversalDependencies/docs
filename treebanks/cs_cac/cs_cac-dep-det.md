@@ -25,7 +25,7 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 3 2 det	color:blue
 1	Za	za	ADP	RR--7----------	AdpType=Prep|Case=Ins	3	case	3:case	LId=za-1
 2	tím	ten	DET	PDZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem	3	det	3:det	_
-3	účelem	účel	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	5	obl	5:obl:za:ins	_
+3	účelem	účel	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	5:obl:za:ins	_
 4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pv	5:expl:pv	LGloss=(zvr._zájmeno/částice)
 5	zavazujeme	zavazovat	VERB	VB-P---1P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 6	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
@@ -45,7 +45,7 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 4	dršťková	dršťkový	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	1	conj	0:root|1:conj	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	7	punct	7:punct	_
 6	žádné	žádný	DET	PWNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	7	det	7:det	_
-7	pivčo	pivčo	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|Style=Coll	1	conj	0:root|1:conj	SpaceAfter=No
+7	pivčo	pivčo	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Style=Coll	1	conj	0:root|1:conj	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
@@ -58,7 +58,7 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
 1	Moje	můj	DET	PSHS1-S1-------	Case=Nom|Gender=Fem,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	2:det	LGloss=(přivlast.)
-2	Drahuška	Drahuška	PROPN	NNFS1-----A----	Case=Nom|Gender=Fem|NameType=Giv|Number=Sing|Polarity=Pos|Style=Coll	7	nsubj	7:nsubj	_
+2	Drahuška	Drahuška	PROPN	NNFS1-----A----	Case=Nom|Gender=Fem|NameType=Giv|Number=Sing|Style=Coll	7	nsubj	7:nsubj	_
 3	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	7	expl:pv	7:expl:pv	LGloss=(zvr._zájmeno/částice)
 4	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	5	case	5:case	LId=na-1
 5	mne	já	PRON	PP-S4--1-------	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obl:arg	7:obl:arg:na:acc	LGloss=(2./4.pád)

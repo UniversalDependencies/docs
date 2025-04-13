@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-564 tokens (1%) have a non-empty value of `Foreign`.
-329 types (3%) occur at least once with a non-empty value of `Foreign`.
-308 lemmas (5%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 3 part-of-speech tags: <tt><a href="la_udante-pos-X.html">X</a></tt> (498; 1% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (59; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (7; 0% instances).
+565 tokens (1%) have a non-empty value of `Foreign`.
+330 types (3%) occur at least once with a non-empty value of `Foreign`.
+309 lemmas (5%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 3 part-of-speech tags: <tt><a href="la_udante-pos-X.html">X</a></tt> (499; 1% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (59; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (7; 0% instances).
 
 ### `X`
 
-498 <tt><a href="la_udante-pos-X.html">X</a></tt> tokens (97% of all `X` tokens) have a non-empty value of `Foreign`.
+499 <tt><a href="la_udante-pos-X.html">X</a></tt> tokens (97% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (498; 100% of non-empty `Foreign`): <em>che, amor, per, lo, de, amore, non, donna, sì, d'</em>
-* `EMPTY` (14): <em>etc, tas, tus, venire</em>
+* `Yes` (499; 100% of non-empty `Foreign`): <em>che, amor, per, lo, de, amore, non, donna, sì, d'</em>
+* `EMPTY` (13): <em>etc, tas, tus</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (280) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (281) occur only with one value of `Foreign`.
 
 ### `PROPN`
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>X --[<tt><a href="la_udante-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (364; 100%),
+<tt>X --[<tt><a href="la_udante-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (365; 100%),
 <tt>X --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> X</tt> (39; 100%),
 <tt>X --[<tt><a href="la_udante-dep-flat.html">flat</a></tt>]--> X</tt> (2; 100%),
 <tt>NOUN --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%).

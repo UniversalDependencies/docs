@@ -44,7 +44,7 @@ The following 5 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 20 obl:arg	color:blue
-1	Dat	dat	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
+1	Dat	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
 2	koorn	koorn	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	lemma_gml=kōrn
 3	ryp	rypen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=rîpen
 4	to	to	ADP	_	_	3	compound:prt	_	lemma_gml=tô|SpaceAfter=No

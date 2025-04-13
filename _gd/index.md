@@ -71,7 +71,7 @@ Gaelic has two genders (masculine and feminine), four cases (nominative/accusati
 
 The words _fèin_ and _cheile_ take `Reflex=Yes`.
 
-The indicative mood is default and we mark the conditional (`Cnd`), imperative (`Imp`) and interrogative (`Int`) moods. The tenses we mark are 
+The indicative mood is marked `Ind` and we mark the conditional (`Cnd`), imperative (`Imp`) and interrogative (`Int`) moods. The tenses we mark are 
 
 We also follow Irish in marking three pronoun types (`Emp` = emphatic, `Int` = interrogative and `Rel` = relative), polarity (`Neg` on negative particles) and the following particle types: `Ad` (adverbialiser), `Comp` (comparative), `Cmpl` (complement), `Inf` (agreement particle), `Int` (interrogative), `Num` (numerical), `Pat` (patronymic), `Vb` (verbal) and `Voc` (vocative).
 
@@ -135,7 +135,7 @@ Here it has `VerbType=Inf`.
 Usually it is preceded by an infinitive particle _a_ but this is elided where it begins with a vowel or _fh_.
 In inversion structures, the object is `obj` of the verbal noun, with the exception of _rach_-passives where it is `nsubj:pass` or exceptionally `nsubj:outer`.
 
-### _agus_, _is_ and _'s'_
+### _agus_, _is_ and _'s'_, 'and'
 
 * Usually these are `CCONJ` and are related to what they are conjoining with `cc`.
 * However if they are being used cosubordinatively, to introduce an adverbial phrase that looks like a `bi` clause where the verb has been elided, they are `SCONJ` and the relation is `mark`.
@@ -143,7 +143,7 @@ In inversion structures, the object is `obj` of the verbal noun, with the except
 * In expressions like _fad 's_ and _o chionn 's_, then _'s_ has a `fixed` relation to the subordinating conjunction.
 * However in expressions like _corr is_ and _fiù 's_, where the word preceding it is a content word, then it is a coordinating conjunction and behaves as normal.
 
-### _air ais_
+### _air ais_, 'back'
 
 In ARCOSG, _ais_ is tagged as `Nf` (fossilized noun).
 However there are phrases like _air ais no air adhart_ in which there seems to be no good reason to treat the first half differently from the second half, even if _ais_ is no longer productive.
@@ -166,24 +166,57 @@ Predicative use: again, we follow Irish and use `xcomp:pred` for predicative adj
 
 However (see f01\_028), there are also uses of _bi_ for extent in time (n03\_041) and space.
 
-### _còrr is_ and friends
+### _còrr is_ 'more than'
 
 Example taken from pw01\_015a: in _còrr is deich bliadhna_, _bliadhna_ is conjoined with _còrr_ and _deich_ is a `nummod` of _bliadhna_.
 
 From ns04\_053: in _thachair an tubaist còrr is bliadhna gu leth_ _còrr_ is `obl:tmod` of _thachair_ because the phrase as a whole is a time phrase.
 
-### _dè cho..._
+### _dè cho..._ 'how' as in 'how big'
 
-'how' as in 'how big'. _dè_ remains `PRON` and _cho_ is `advmod` of the succeeding adjective.
+_dè_ remains `PRON` and _cho_ is `advmod` of the succeeding adjective.
 
-### _feuch_
+### _an dèidh_, _as dèidh_ 'after'
+
+This is a straightforward multiword adposition when used to qualify a nominal.
+When it introduces an adverbial clause, it governs the verbal noun which is the head of the subject (introduced by the preposition 'do'), the object (which precedes the verbal noun), the infinitival particle _a_ and anything else in the clause.
+
+_as dèidh dha a chas a ghoirteachadh_ 'after he broke his leg' (ns05\_003a, test)
+
+~~~ conllu
+1	as	as	ADP	Sp	ExtPos=ADP	8	case	_	_
+2	dèidh	dèidh	ADP	Nf	_	1	fixed	_	_
+3-4	dha	_	_	_	_	_	_	_	_
+3	do	do	ADP	Sp	_	4	case	_	_
+4	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
+5	a	a	DET	Dp3sm	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
+6	chas	cas	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	8	obj	_	_
+7	a	a	PART	Ug	PartType=Inf	8	mark:prt	_	_
+8	ghoirteachadh	goirtich	NOUN	Nv	VerbForm=Inf	0	root	_	_
+~~~
+
+_as dèidh ionnsaigh a thoirt air le cù_ 'after attacking him with a dog' (ns08\_011, dev)
+~~~ conllu
+1	as	as	ADP	Sp	ExtPos=ADP	5	case	_	_
+2	dèidh	dèidh	ADP	Nf	_	1	fixed	_	_
+3	ionnsaigh	ionnsaigh	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	4	obj	_	_
+4	a	a	PART	Ug	PartType=Inf	4	mark:prt	_	_
+5	thoirt	toir	NOUN	Nv	VerbForm=Inf	0	root	_	_
+6-7	air	_	_	_	_	_	_	_	_
+6	air	air	ADP	Sp	_	7	case	_	_
+7	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
+8	le	le	ADP	Sp	_	9	case	_	_
+9	cù	cù	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+~~~
+
+### _feuch_ 'try'
 
 When this is tagged as `Vm-2s` the sense in which it is usually used is 'to try to', in which case it is linked to the higher clause with an `xcomp` deprel.
 For example n04\_002: _... gu robh e 'dol a dh’fhalbh feuch a faigheadh..._, _feuch_ is an `xcomp` of _dh’fhalbh_.
 
-### _fhios agad_ and variants
+### _fhios agad_ 'you know' and variants
 
-'you know'. Treat as `parataxis` as it is explicitly excluded from `discourse`. See also `parataxis` below.
+Treat as `parataxis` as it is explicitly excluded from `discourse`. See also `parataxis` below.
 
 ### foreign words
 
@@ -195,9 +228,23 @@ If they're being used appositively or are titles of works, or are reported speec
 They have `Foreign=Yes` and no other features in the morphology column.
 `Lang=en` goes in the MISC column.
 
-### _an ìre mhath_
+### _an ìre mhath_ 'alnost'
 
-This means 'almost'. See s08_061b for an example. Use `nmod`.
+Use `nmod:unmarked` to connect _ìre_ 'level' to what it governs.
+See s08\_061b for example: "There is almost twenty-seven minutes to go"
+~~~ conllu
+1	tha	bi	VERB	V-p	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	an	an	DET	Tdsf	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	ìre	ìre	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	6	nmod:unmarked	_	_
+4	mhath	math	ADJ	Aq-sfn	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
+5	seachd	seachd	NUM	Mc	NumForm=Word|NumType=Card	6	nummod	_	_
+6	mionaidean	mionaid	NOUN	Ncpfn	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	_
+7	fichead	fichead	NUM	Mc	NumForm=Word|NumType=Card	6	compound	_	_
+8	air	air	PART	Sa	_	10	case	_	_
+9	a	a	PART	Ug	PartType=Inf	10	mark:prt	_	_
+10	dhol	rach	NOUN	Nv	VerbForm=Inf	1	xcomp:pred	_	_
+~~~
+(another option would be to treat it as a long `fixed` phrase with `ExtPos=ADJ`)
 
 ### _is_
 _'S_, _b'_, _bu_, _'se_, _'sann_ and so on are `cop` and the root is whatever has been fronted by it.
@@ -208,11 +255,11 @@ Following Cox in _Geàrr Ghràmar na Gàidhlig_, p. 284, in phrases like _is ann
 
 Again we follow Irish and whatever comes after the root is a subject, be it a nominal subject, `nsubj`, or a clausal subject, `csubj:cleft` or `csubj:cop`.
 
-### _mas_
+### _mas_ 'if'
 
-_Mas_ ('if') is divided into the two words _ma_ (`SCONJ`) and _is_ (`AUX`).
+_Mas_ is divided into the two words _ma_ (`SCONJ`) and _is_ (`AUX`).
 
-### _nach maireann_
+### _nach maireann_ 'the late'
 
 (as in _Dr Calum MacGilleathain nach maireann_, 'The late Dr Calum Maclean') This is `acl:relcl` of the deceased because _nach_ is the negative relativiser.
 
@@ -220,11 +267,11 @@ _Mas_ ('if') is divided into the two words _ma_ (`SCONJ`) and _is_ (`AUX`).
 
 Where you have a big long sentence with lots of "ars' esan" and "ars' ise"s in it, treat them like punctuation and make them `parataxis` of the most contentful content word in the nearest quoted text so as to avoid non-projectivity. Sentence n01\_038 is an example of this.
 
-### _an t-seachdain seo chaidh_ and others
+### _an t-seachdain seo chaidh_ 'last week' and others
 
-'last week', literally 'this week that went'. Treat _chaidh_ as being `acl:relcl` of _t-seachdain_ (pw05\_005, also _ceud_ in the sense of 'century': see fp01_034).
+'last week', literally 'this week that went'. Treat _chaidh_ as being `acl:relcl` of _t-seachdain_ (pw05\_005, also _ceud_ in the sense of 'century': see fp01\_034).
 
-### _urrainn_
+### _urrainn_ 'can'
 
 In most dialects the person (or thing) that can follows the preposition _do_ so is of course `nmod`.
 In some, however, you can say, for example, _'s urrainn mi_, so in this case _mi_ is `nmod` of _urrainn_.

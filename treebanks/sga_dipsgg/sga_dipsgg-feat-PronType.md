@@ -9,8 +9,8 @@ udver: '2'
 This feature is universal but the values `Emp` are language-specific.
 It occurs with 5 different values: `Art`, `Dem`, `Emp`, `Prs`, `Rel`.
 
-72 tokens (18%) have a non-empty value of `PronType`.
-38 types (14%) occur at least once with a non-empty value of `PronType`.
+72 tokens (17%) have a non-empty value of `PronType`.
+38 types (13%) occur at least once with a non-empty value of `PronType`.
 21 lemmas (10%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 6 part-of-speech tags: <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> (28; 7% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (22; 5% instances), <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> (12; 3% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (8; 2% instances), <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `ADP` and `PronType` co-occurr
 
 `ADP` tokens may have the following values of `PronType`:
 
-* `Prs` (12; 100% of non-empty `PronType`): <em>dom, and, dait, de, dún, foir, frimm, friu, lat, oco</em>
+* `Prs` (12; 100% of non-empty `PronType`): <em>dom, and, dait, de, dv́n, foir, frimm, friu, lat, oco</em>
 * `EMPTY` (29): <em>do, hi, ar, i, di, huas, de, etar, fo, for</em>
 
 ### `PART`
@@ -73,12 +73,12 @@ The most frequent other feature values with which `AUX` and `PronType` co-occurr
 
 ### `SCONJ`
 
-1 <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> tokens (8% of all `SCONJ` tokens) have a non-empty value of `PronType`.
+1 <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> tokens (7% of all `SCONJ` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `SCONJ` and `PronType` co-occurred: <tt><a href="sga_dipsgg-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (1; 100%).
+The most frequent other feature values with which `SCONJ` and `PronType` co-occurred: <tt><a href="sga_dipsgg-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sga_dipsgg-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (1; 100%).
 
 `SCONJ` tokens may have the following values of `PronType`:
 
 * `Prs` (1; 100% of non-empty `PronType`): <em>nach</em>
-* `EMPTY` (12): <em>ci, na, amal, ar, co, con, ma, ut</em>
+* `EMPTY` (13): <em>ci, na, ut, amal, ar, co, con, ma</em>
 

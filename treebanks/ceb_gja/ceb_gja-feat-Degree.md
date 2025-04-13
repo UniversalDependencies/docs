@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ceb_gja-pos-ADJ.htm
 
 ### `ADJ`
 
-28 <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> tokens (82% of all `ADJ` tokens) have a non-empty value of `Degree`.
+28 <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> tokens (72% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ceb_gja-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (23; 82%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Pos` (27; 96% of non-empty `Degree`): <em>Maayo, adis, bag-o, hawod, taas, gwapa, Buutan, Dako, Duol, Hapit</em>
 * `Sup` (1; 4% of non-empty `Degree`): <em>pinakataas</em>
-* `EMPTY` (6): <em>Sakit, busog, kadugaya, mabaw, nasunog, second-hand</em>
+* `EMPTY` (11): <em>Sakit, bata, busog, dako, gamay, kadugaya, kuyaw, mabaw, nasunog, pula</em>
 
 <table>
   <tr><th>Paradigm <i>taas</i></th><th><tt>Pos</tt></th><th><tt>Sup</tt></th></tr>

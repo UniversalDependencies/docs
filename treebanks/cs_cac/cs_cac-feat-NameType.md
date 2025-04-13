@@ -19,7 +19,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="cs_cac-pos-PROPN.ht
 
 9814 <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9814; 100%), <tt><a href="cs_cac-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (7936; 81%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7187; 73%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5431; 55%).
+The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="cs_cac-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (7936; 81%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7187; 73%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5431; 55%).
 
 `PROPN` tokens may have the following values of `NameType`:
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 * `Giv,Sur` (24; 0% of non-empty `NameType`): <em>Ariadna, Kosmy, Perry, Joy, Dante, Dantem, Eliot, Figara, James, Jamese</em>
 * `Nat` (129; 1% of non-empty `NameType`): <em>Adygejci, Pražané, Angličan, Egypťané, Keltové, Afričanů, Američana, Američané, Američanů, Asyřané</em>
 * `Nat,Sur` (1; 0% of non-empty `NameType`): <em>Srba</em>
-* `Oth` (21; 0% of non-empty `NameType`): <em>SNP, Opeplatis, Plastex, Rena, Erotissimo, Gaudeamus, Intermóda, Invex, Luna, Musikbuch</em>
+* `Oth` (21; 0% of non-empty `NameType`): <em>Opeplatis, SNP, Plastex, Rena, Erotissimo, Gaudeamus, Intermóda, Invex, Luna, Musikbuch</em>
 * `Pro` (290; 3% of non-empty `NameType`): <em>Škoda, Merkur, Duha, Octavia, FSČ, Klad, Romatic, SAPO, SaS, Tatramat</em>
 * `Pro,Sur` (3; 0% of non-empty `NameType`): <em>Baracchi, Burda, Mendoza</em>
 * `Sur` (2894; 29% of non-empty `NameType`): <em>Fučík, Erben, Horálek, Knappová, Němec, Těšitelová, Lenin, Záveský, Kraus, Fučíka</em>
@@ -58,7 +58,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 
 768 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (768; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (768; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (573; 75%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (565; 74%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (520; 68%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (489; 64%).
+The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (768; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (768; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (565; 74%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (565; 74%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (520; 68%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (489; 64%).
 
 `ADJ` tokens may have the following values of `NameType`:
 

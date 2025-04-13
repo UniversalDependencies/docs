@@ -12,15 +12,15 @@ udver: '2'
 # UD Russian Poetry
 
 Language: [Russian](/ru/index.html) (code: `ru`)<br/>
-Family: Indo-European, Slavic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.13 release.
 
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Natalia Vlasova, Dmitri Sitchinava.
 
 Repository: [UD_Russian-Poetry](https://github.com/UniversalDependencies/UD_Russian-Poetry)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_poetry214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_poetry215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

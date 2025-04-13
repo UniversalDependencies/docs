@@ -10,10 +10,10 @@ This relation is universal.
 
 615 nodes (3%) are attached to their parents as `mark`.
 
-605 instances of `mark` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.68943089430894.
+606 instances of `mark` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.68617886178862.
 
-The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (407; 66% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (115; 19% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (39; 6% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (23; 4% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (7; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `mark`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (403; 66% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (115; 19% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (37; 6% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (24; 4% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (7; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (7; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -68,7 +68,7 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 3 mark	color:blue
 1	Völle	veale	ADJ	_	Degree=Pos	2	advmod	_	lemma_gml=vēle
-2	wyder	wyder	ADJ	_	Degree=Cmp	0	root	_	lemma_gml=wît
+2	wyder	wyd	ADJ	_	Degree=Cmp	0	root	_	lemma_gml=wît
 3	dan	dan	SCONJ	_	_	6	mark	_	lemma_gml=dan
 4	höär	ear	DET	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	lemma_gml=sîn,ēr,sîn
 5	eigen	eygen	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	lemma_gml=êigen

@@ -33,7 +33,7 @@ The following 4 pairs of parts of speech are connected with `obl:cmp`: <tt><a hr
 8	,	,	PUNCT	CLB	_	12	punct	_	_
 9	и	и	CCONJ	CC	_	12	cc	_	_
 10	юраным	юр	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Plur|Person[psor]=1	12	obl:lmod	_	GTtags=Sg,Ill,PxPl1
-11	оз	оз	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	12	aux:neg	_	GTtags=Neg,Ind,Prs,Sg3
+11	оз	оз	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	12	aux	_	GTtags=Neg,Ind,Prs,Sg3
 12	волы	волыны	VERB	V	Connegative=Yes	6	conj	_	GTtags=IV,ConNeg|SpaceAfter=No
 13	,	,	PUNCT	CLB	_	17	punct	_	_
 14	мый	мый	SCONJ	CS	_	17	mark	_	_
@@ -83,7 +83,7 @@ The following 4 pairs of parts of speech are connected with `obl:cmp`: <tt><a hr
 5	гӧль	гӧль	ADJ	A	Case=Nom|Number=Sing	10	xcomp	_	gloss_en=poor
 6	ни	ни	CCONJ	CC	_	7	cc	_	gloss_en=nor
 7	озыр	озыр	ADJ	A	Case=Nom|Number=Sing	5	conj	_	gloss_en=rich
-8	эз	оз	AUX	V	_	10	aux:neg	_	gloss_en=not
+8	эз	оз	AUX	V	_	10	aux	_	gloss_en=not
 9	жӧ	жӧ	ADV	Adv	_	10	advmod:eval	_	_
 10	ло	лоны	VERB	V	Connegative=Yes	0	root	_	gloss_en=become|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_

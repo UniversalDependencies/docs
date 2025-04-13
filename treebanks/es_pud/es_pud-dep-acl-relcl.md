@@ -28,7 +28,7 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 4	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
 5	asesinada	asesinar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
 6	allí	allí	ADV	RB	_	5	advmod	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	1	punct	_	_
+7	.	.	PUNCT	.	PunctType=Peri	1	punct	_	_
 
 ~~~
 
@@ -41,7 +41,7 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 11 16 acl:relcl	color:blue
 1	Mientras	mientras	ADP	IN	_	9	discourse	_	_
 2	tanto	tanto	ADV	RB	_	1	fixed	_	SpaceAfter=No
-3	,	,	PUNCT	,	_	1	punct	_	_
+3	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 4	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
 5	puesto	puesto	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj:pass	_	_
 6	de	de	ADP	IN	_	7	case	_	_
@@ -51,13 +51,13 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 10	por	por	ADP	IN	_	11	case	_	_
 11	Marco	Marco	PROPN	NNP	Gender=Masc|Number=Sing	9	obl:agent	_	_
 12	Antonio	Antonio	PROPN	NNP	Gender=Masc|Number=Sing	11	flat:name	_	SpaceAfter=No
-13	,	,	PUNCT	,	_	16	punct	_	_
+13	,	,	PUNCT	,	PunctType=Comm	16	punct	_	_
 14	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	16	nsubj	_	_
 15	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	obj	_	_
 16	desempeñó	desempeñar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	_	_
 17	hasta	hasta	ADP	IN	_	18	case	_	_
 18	diciembre	diciembre	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
-19	.	.	PUNCT	.	_	9	punct	_	_
+19	.	.	PUNCT	.	PunctType=Peri	9	punct	_	_
 
 ~~~
 
@@ -78,7 +78,7 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 8	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	en	en	ADP	IN	_	10	case	_	_
 10	cuál	cuál	PRON	WP	Number=Sing|PronType=Int	8	obl	_	SpaceAfter=No
-11	.	.	PUNCT	.	_	8	punct	_	_
+11	.	.	PUNCT	.	PunctType=Peri	8	punct	_	_
 
 ~~~
 

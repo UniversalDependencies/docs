@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 982 tokens (5%) have a non-empty value of `Person[psor]`.
 638 types (10%) occur at least once with a non-empty value of `Person[psor]`.
-350 lemmas (11%) occur at least once with a non-empty value of `Person[psor]`.
+351 lemmas (11%) occur at least once with a non-empty value of `Person[psor]`.
 The feature is used with 6 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (800; 4% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (116; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (38; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (19; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `NOUN`

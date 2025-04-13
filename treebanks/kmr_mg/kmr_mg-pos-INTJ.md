@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Belê</em> (<tt><a href="kmr_mg-pos-I
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.511556).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.510518).
 
 The 1st highest number of forms (1) was observed with the lemma “belê”: <em>Belê</em>.
 

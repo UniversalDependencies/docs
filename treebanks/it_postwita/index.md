@@ -12,15 +12,15 @@ udver: '2'
 # UD Italian PoSTWITA
 
 Language: [Italian](/it/index.html) (code: `it`)<br/>
-Family: Indo-European, Romance
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_Italian-PoSTWITA](https://github.com/UniversalDependencies/UD_Italian-PoSTWITA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_postwita214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_postwita215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -565,6 +565,7 @@ The treebank development has also been possible thanks to the contribution of Fa
         <ul>
           <li>ADJ: Same</li>
           <li>NOUN: Mistakes, project</li>
+          <li>X: of, Prince, live, i, and, on, a, the, in, my</li>
         </ul>
       </li>
     </ul>
@@ -611,7 +612,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1166)</li>
+      <li>VERB-Fin--NOUN (1167)</li>
       <li>VERB-Fin--NOUN-ADP(di) (4)</li>
       <li>VERB-Fin--NOUN-ADP(senza) (1)</li>
       <li>VERB-Fin--PRON (908)</li>
@@ -632,7 +633,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1674)</li>
+      <li>VERB-Fin--NOUN (1673)</li>
       <li>VERB-Fin--NOUN-ADP(a) (1)</li>
       <li>VERB-Fin--NOUN-ADP(di) (3)</li>
       <li>VERB-Fin--NOUN-ADP(su) (1)</li>

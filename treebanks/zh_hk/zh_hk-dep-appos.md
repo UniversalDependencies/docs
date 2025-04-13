@@ -24,7 +24,7 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 3 5 appos	color:blue
 1	最	最	ADV	_	_	2	advmod	_	SpaceAfter=No|Translit=zuì|LTranslit=zuì
 2	高	高	ADJ	_	_	3	amod	_	SpaceAfter=No|Translit=gāo|LTranslit=gāo
-3	頻率	頻率	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=pínlǜ|LTranslit=pínlǜ
+3	頻率	頻率	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=pínlǜ|LTranslit=pínlǜ|Cxn=Interrogative-Polar-Direct|CxnElt=3:Interrogative-Polar-Direct.Clause
 4	那	那	DET	_	_	5	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
 5	組	組	NOUN	_	NounType=Clf	3	appos	_	SpaceAfter=No|Translit=zǔ|LTranslit=zǔ
 6	嗎	嗎	PART	_	_	3	discourse:sp	_	SpaceAfter=No|Translit=ma|LTranslit=ma
@@ -47,8 +47,8 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 6	，	，	PUNCT	_	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 7	欄杆	欄杆	NOUN	_	_	9	obl	_	SpaceAfter=No|Translit=lángān|LTranslit=lángān
 8	那邊	那邊	PRON	_	_	7	appos	_	SpaceAfter=No|Translit=nàbiān|LTranslit=nàbiān
-9	圍	圍	VERB	_	_	4	parataxis	_	SpaceAfter=No|Translit=wéi|LTranslit=wéi
-10	滿	滿	ADJ	_	_	9	compound:vv	_	SpaceAfter=No|Translit=mǎn|LTranslit=mǎn
+9	圍	圍	VERB	_	_	4	parataxis	_	SpaceAfter=No|Translit=wéi|LTranslit=wéi|Cxn=Resultative|CxnElt=9:Resultative.Event
+10	滿	滿	ADJ	_	_	9	compound:vv	_	SpaceAfter=No|Translit=mǎn|LTranslit=mǎn|CxnElt=9:Resultative.ResultState
 11	人	人	NOUN	_	_	9	obj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 12	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 

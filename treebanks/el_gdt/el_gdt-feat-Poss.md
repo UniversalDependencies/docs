@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (636; 100% of non-empty `Poss`): <em>τους, του, μας, της, μου, σας, σου</em>
-* `EMPTY` (1655): <em>που, οποία, αυτό, οποίο, μας, το, οποίες, τους, οποίος, αυτά</em>
+* `EMPTY` (1657): <em>που, οποία, αυτό, οποίο, μας, το, οποίες, τους, οποίος, αυτά</em>
 

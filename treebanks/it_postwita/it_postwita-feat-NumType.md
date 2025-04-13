@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (206; 100% of non-empty `NumType`): <em>primo, prima, primi, prime, ennesimo, seconda, terzo, 1°, terza, ennesima</em>
-* `EMPTY` (4792): <em>nuovo, grande, bella, buon, buona, vero, nuova, giusto, politica, italiana</em>
+* `EMPTY` (4793): <em>nuovo, grande, bella, buon, buona, vero, nuova, giusto, politica, italiana</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (17) occur only with one value of `NumType`.
 

@@ -25,12 +25,12 @@ The following 8 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 1	Doporučuje	doporučovat	VERB	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Functor=0:PRED
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pass	1:expl:pass	LGloss=(zvr._zájmeno/částice)
 3	dokoupit	dokoupit	VERB	Vf--------A-P--	Aspect=Perf|Polarity=Pos|VerbForm=Inf	1	csubj:pass	1:csubj:pass	Functor=1:PAT
-4	večeře	večeře	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	3	obj	3:obj	Functor=3:PAT
+4	večeře	večeře	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur	3	obj	3:obj	Functor=3:PAT
 5	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	6:case	_
 6	1500	1500	NUM	C=-------------	NumForm=Digit|NumType=Card	4	nummod	4:nummod	Functor=4:RSTR
-7	Kč	Kč	NOUN	BNXXX-----A----	Abbr=Yes|Polarity=Pos	6	nmod	6:nmod	LGloss=(koruna_česká)|Functor=6:EXT
+7	Kč	Kč	NOUN	BNXXX-----A----	Abbr=Yes	6	nmod	6:nmod	LGloss=(koruna_česká)|Functor=6:EXT
 8	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	9	case	9:case	Entity=(cmpr9415015c24--2-gstype:gen|LId=na-1
-9	osobu	osoba	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	7	nmod	7:nmod:na:acc	Entity=cmpr9415015c24)|Functor=7:REG|SpaceAfter=No
+9	osobu	osoba	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	7	nmod	7:nmod:na:acc	Entity=cmpr9415015c24)|Functor=7:REG|SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
@@ -44,7 +44,7 @@ The following 8 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 3 7 csubj:pass	color:blue
 1	Vlastně	vlastně	ADV	TT-------------	_	3	cc	3:cc	LId=vlastně-2|Functor=3:ATT
 2	bylo	být	AUX	VpNS----R-AAI--	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	3	aux:pass	3:aux:pass	_
-3	řečeno	řečený	ADJ	VsNS----X-APP--	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No|LDeriv=říci|Functor=0:PRED
+3	řečeno	řečený	ADJ	VsNS----X-APP--	Aspect=Perf|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No|LDeriv=říci|Functor=0:PRED
 4	-	-	PUNCT	Z:-------------	_	7	punct	7:punct	_
 5	nic	nic	PRON	PY--4----------	Case=Acc|PronType=Neg	7	obj	7:obj	Functor=7:PAT
 6	vám	vy	PRON	PP-P3--2-------	Case=Dat|Number=Plur|Person=2|PronType=Prs	7	obl:arg	7:obl:arg:dat	Entity=(ln9420959c5--1-gstype:spec)|Functor=7:ADDR
@@ -67,8 +67,8 @@ The following 8 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 6 10 csubj:pass	color:blue
 1	O	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	3:case	Bridge=cmpr9410049c37<cmpr9410049c36:subset|Entity=(cmpr9410049c36--3-gstype:gen|LId=o-1
 2	centrální	centrální	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	3	amod	3:amod	Functor=3:RSTR
-3	výrobě	výroba	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	6	obl:arg	6:obl:arg:o:loc	Functor=6:PAT
-4	tepla	teplo	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	3	nmod	3:nmod:gen	Entity=(cmpr9410049c2--1-gstype:gen)cmpr9410049c36)|Functor=3:PAT|LId=teplo-1
+3	výrobě	výroba	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing	6	obl:arg	6:obl:arg:o:loc	Functor=6:PAT
+4	tepla	teplo	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	3	nmod	3:nmod:gen	Entity=(cmpr9410049c2--1-gstype:gen)cmpr9410049c36)|Functor=3:PAT|LId=teplo-1
 5	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	6	expl:pass	6:expl:pass	LGloss=(zvr._zájmeno/částice)
 6	říká	říkat	VERB	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Functor=0:PRED
 7	,	,	PUNCT	Z:-------------	_	10	punct	10:punct	_

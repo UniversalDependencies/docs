@@ -58,7 +58,7 @@ The following 17 pairs of parts of speech are connected with `appos`: <tt><a hre
 9	Park	Park	PROPN	SP	_	7	appos	_	_
 10	Geun	Geun	PROPN	SP	_	9	flat	_	SpaceAfter=No
 11	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
-12	hye	hye	NOUN	S	Gender=Fem|Number=Sing	9	flat	_	SpaceAfter=No
+12	hye	hye	NOUN	S	Number=Sing	9	flat	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	9	punct	_	_
 14	in	in	ADP	E	_	15	case	_	_
 15	2012	2012	NUM	N	NumType=Card	3	obl	_	SpaceAfter=No

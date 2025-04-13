@@ -790,7 +790,7 @@ udver: '2'
       <ul>
         <li>Masc
           <ul>
-            <li>ADJ: DULCI, misogini, FRUMOȘI, atent, hot, libidinoși, misogin, sexual, superb, șocant</li>
+            <li>ADJ: DULCI, misogini, FRUMOȘI, atent, libidinoși, misogin, sexual, superb, șocant, Apetisant</li>
             <li>AUX-Part: fost</li>
             <li>DET: un, mulți, a, acestui, toți, unui, acest, al, asta, cel</li>
             <li>NOUN: bărbat, PUPICI, bărbatul, bărbații, barbat, bărbați, fund, bărbaților, bani, sutien</li>
@@ -1016,7 +1016,7 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>ADJ: frumoasă, frumoasa, bună, mare, dulce, sexy, urâtă, atent, cuminte, drăguță</li>
+            <li>ADJ: frumoasă, frumoasa, bună, mare, dulce, urâtă, atent, cuminte, drăguță, frumos</li>
             <li>ADV: nimic</li>
             <li>AUX: e, a, ești, este, ai, esti, am, aș, era, fost</li>
             <li>AUX-Fin: e, ești, este, esti, era, fii, -i, fiu, are, erai</li>
@@ -1743,7 +1743,7 @@ udver: '2'
           <ul>
             <li>ADJ: frumoasă, frumoasa, bună, așa, mare, misogini, FRUMOȘI, sexy, urâtă, atent</li>
             <li>ADV: doar, bine, așa, chiar, acum, numai, tot, asa, acasă, atât</li>
-            <li>NOUN: frumoasă, prostituată, angajată, baby, barbat, curva, curve, curvă, mall, party</li>
+            <li>NOUN: frumoasă, prostituată, angajată, barbat, curva, curve, curvă, public, regină, sexy</li>
           </ul>
         </li>
       </ul>

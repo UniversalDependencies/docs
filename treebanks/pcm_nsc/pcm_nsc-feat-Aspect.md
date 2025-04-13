@@ -52,7 +52,7 @@ The most frequent other feature values with which `PRON` and `Aspect` co-occurre
 `PRON` tokens may have the following values of `Aspect`:
 
 * `Perf` (1; 100% of non-empty `Aspect`): <em>We</em>
-* `EMPTY` (18363): <em>I, you, e, we, am, de, me, my, dem, im</em>
+* `EMPTY` (18360): <em>I, you, e, we, am, de, me, my, dem, im</em>
 
 ## Relations with Agreement in `Aspect`
 

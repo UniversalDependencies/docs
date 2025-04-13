@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_old-dep-expl.html">expl</a></tt>.
 There are also 2 other language-specific subtypes of `expl`: <tt><a href="it_old-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="it_old-dep-expl-pv.html">expl:pv</a></tt>.
 
-93 nodes (0%) are attached to their parents as `expl:pass`.
+138 nodes (0%) are attached to their parents as `expl:pass`.
 
-86 instances of `expl:pass` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.03225806451613.
+125 instances of `expl:pass` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.02898550724638.
 
-The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (93; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (138; 100% instances).
 
 
 ~~~ conllu

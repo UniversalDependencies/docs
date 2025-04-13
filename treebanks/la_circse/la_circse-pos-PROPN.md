@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>Oceano</em> (<tt><a href="la_circse-p
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.428082 (the average of all parts of speech is 2.130077).
+The form / lemma ratio of `PROPN` is 1.428082 (the average of all parts of speech is 2.130677).
 
 The 1st highest number of forms (5) was observed with the lemma “hercules”: <em>Hercule, Herculem, Hercules, Herculi, Herculis</em>.
 

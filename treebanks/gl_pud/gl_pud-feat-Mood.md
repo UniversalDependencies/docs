@@ -19,14 +19,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="gl_pud-pos-VERB.htm
 
 1496 <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> tokens (66% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1496; 100%), <tt><a href="gl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1491; 100%), <tt><a href="gl_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1369; 92%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1090; 73%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1496; 100%), <tt><a href="gl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1491; 100%), <tt><a href="gl_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1370; 92%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1090; 73%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd,Ind` (34; 2% of non-empty `Mood`): <em>crearían, debería, resultaría, sería, Sorprendería, afectaría, axudaría, caracterizarían, deixaría, descoñecerían</em>
 * `Ind` (1374; 92% of non-empty `Mood`): <em>hai, dixo, ten, tivo, comezou, fixo, declarou, é, tiña, afirmou</em>
 * `Sub` (88; 6% of non-empty `Mood`): <em>fixese, introducise, produzan, teñan, tivese, Fosen, acabase, actuasen, acudisen, adopte</em>
-* `EMPTY` (760): <em>facer, ver, ter, manter, axudar, debido, deixar, enviar, establecer, partir</em>
+* `EMPTY` (761): <em>facer, ver, ter, manter, axudar, debido, deixar, enviar, establecer, partir</em>
 
 <table>
   <tr><th>Paradigm <i>ter</i></th><th><tt>Cnd,Ind</tt></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>
@@ -80,7 +80,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="gl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (134; 83%),
+<tt>VERB --[<tt><a href="gl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (135; 83%),
 <tt>VERB --[<tt><a href="gl_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (50; 74%),
 <tt>VERB --[<tt><a href="gl_pud-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%).
 

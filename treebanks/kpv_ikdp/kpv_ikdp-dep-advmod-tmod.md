@@ -72,7 +72,7 @@ The following 5 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 2	эні	ӧні	ADV	Adv	_	6	advmod:tmod	_	GTtags=Adv
 3	миян	ме	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	4	nmod	_	GTtags=Pron,Pers,Pl1,Gen
 4	вӧлэсьтсюнум	вӧлэсьт	NOUN	N	Case=Ela|Number=Plur|Number[psor]=Sing|Person[psor]=1	5	nmod	_	GTtags=N,Sg,Ela,PxPl1|OrigLang=ru
-5	ветлысь	ветлыны	VERB	V	Case=Nom|Derivation=NomAg|Number=Sing	6	nsubj	_	GTtags=V,IV,Der,Der/ысь,ActPrsPtc
+5	ветлысь	ветлыны	VERB	V	Case=Nom|Nomzr=Ag|Number=Sing	6	nsubj	_	GTtags=V,IV,Der,Der/ысь,ActPrsPtc
 6	никод	некод	PRON	Pron	Case=Nom|Number=Sing|Polarity=Neg	0	root	_	GTtags=Err/Dial,Pron,Neg,Sg,Nom
 7	абу	абу	AUX	Pcle	Polarity=Neg	6	aux:neg	_	GTtags=V,Neg,Cop,Ind,Sg|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	6	punct	_	GTtags=CLB

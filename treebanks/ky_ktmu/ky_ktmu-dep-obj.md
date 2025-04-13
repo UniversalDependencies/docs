@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-287 nodes (4%) are attached to their parents as `obj`.
+517 nodes (2%) are attached to their parents as `obj`.
 
-286 instances of `obj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.43554006968641.
+516 instances of `obj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.13539651837524.
 
-The following 11 pairs of parts of speech are connected with `obj`: <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (238; 83% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (14; 5% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> (13; 5% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (7; 2% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `obj`: <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (455; 88% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (16; 3% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (15; 3% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> (14; 3% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -54,17 +54,16 @@ The following 11 pairs of parts of speech are connected with `obj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 obj	color:blue
-1	Ал	Ал	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-2	сага	сен	PRON	PRP	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	obj	_	_
-3	көп	көп	ADJ	ADJ	_	4	amod	_	_
-4	ишене	ишен	VERB	VB	Aspect=Prog|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	advcl	_	_
-5	бербейт	бер	VERB	VB	Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Part	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	PCT	_	5	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 obj	color:blue
+1	ӨКМ	Өкм	PROPN	PROP	Abbr=Yes|Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
+2	шашылыш	шашылыш	NOUN	NN	Case=Nom|Number=Sing|Person=3	3	nmod	_	_
+3	билдирүү	билдир	VERB	VB	Case=Nom|Number=Sing|Person=3|VerbForm=Vnoun	4	obj	_	_
+4	таратты	тарат	VERB	VB	Aspect=Prog|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	PCT	_	4	punct	_	_
 
 ~~~
 

@@ -23,17 +23,17 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 3 nsubj:outer	color:blue
-1	Chaidh	rach	AUX	V-s	Tense=Past	12	aux:pass	_	_
+1	Chaidh	rach	AUX	V-s	Mood=Ind|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
 2	an	an	DET	Tdsf	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	dithis	dithis	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	12	nsubj:outer	_	SpaceAfter=No
 4	,	,	PUNCT	Fi	_	8	punct	_	_
 5	nach	nach	PART	Qnr	PartType=Vb|Polarity=Neg|PronType=Rel	8	nsubj:outer	_	_
-6	deach	rach	AUX	V-s--d	Tense=Past	8	aux:pass	_	_
-7	an	an	DET	Dp3p	Number=Plur|Person=3|Poss=Yes	8	nsubj:pass	_	_
+6	deach	rach	AUX	V-s--d	Mood=Ind|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
+7	an	an	DET	Dp3p	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	nsubj:pass	_	_
 8	ainmeachadh	ainmich	NOUN	Nv	VerbForm=Inf	3	acl:relcl	_	_
 9	fhathast	fhathast	ADV	Rt	_	8	advmod	_	SpaceAfter=No
 10	,	,	PUNCT	Fi	_	12	punct	_	_
-11	an	an	DET	Dp3p	Number=Plur|Person=3|Poss=Yes	12	nsubj:pass	_	_
+11	an	an	DET	Dp3p	Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	nsubj:pass	_	_
 12	toirt	toir	NOUN	Nv	VerbForm=Inf	0	root	_	_
 13	gu	gu	ADP	Sp	_	14	case	_	_
 14	ospadal	ospadal	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	12	obl	_	_
@@ -51,17 +51,17 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 nsubj:outer	color:blue
-1	Chaidh	rach	AUX	V-s	Tense=Past	12	aux:pass	_	_
+1	Chaidh	rach	AUX	V-s	Mood=Ind|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
 2	an	an	DET	Tdsf	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	dithis	dithis	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	12	nsubj:outer	_	SpaceAfter=No
 4	,	,	PUNCT	Fi	_	8	punct	_	_
 5	nach	nach	PART	Qnr	PartType=Vb|Polarity=Neg|PronType=Rel	8	nsubj:outer	_	_
-6	deach	rach	AUX	V-s--d	Tense=Past	8	aux:pass	_	_
-7	an	an	DET	Dp3p	Number=Plur|Person=3|Poss=Yes	8	nsubj:pass	_	_
+6	deach	rach	AUX	V-s--d	Mood=Ind|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
+7	an	an	DET	Dp3p	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	nsubj:pass	_	_
 8	ainmeachadh	ainmich	NOUN	Nv	VerbForm=Inf	3	acl:relcl	_	_
 9	fhathast	fhathast	ADV	Rt	_	8	advmod	_	SpaceAfter=No
 10	,	,	PUNCT	Fi	_	12	punct	_	_
-11	an	an	DET	Dp3p	Number=Plur|Person=3|Poss=Yes	12	nsubj:pass	_	_
+11	an	an	DET	Dp3p	Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	nsubj:pass	_	_
 12	toirt	toir	NOUN	Nv	VerbForm=Inf	0	root	_	_
 13	gu	gu	ADP	Sp	_	14	case	_	_
 14	ospadal	ospadal	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	12	obl	_	_

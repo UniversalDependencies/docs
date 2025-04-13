@@ -9,14 +9,14 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Acc`, `Dat`, `Gen`, `Nom`, `Voc`.
 
-174 tokens (43%) have a non-empty value of `Case`.
-148 types (55%) occur at least once with a non-empty value of `Case`.
+174 tokens (42%) have a non-empty value of `Case`.
+148 types (52%) occur at least once with a non-empty value of `Case`.
 130 lemmas (62%) occur at least once with a non-empty value of `Case`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (108; 27% instances), <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> (31; 8% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (20; 5% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (15; 4% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (108; 26% instances), <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> (31; 7% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (20; 5% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (15; 4% instances).
 
 ### `NOUN`
 
-108 <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> tokens (96% of all `NOUN` tokens) have a non-empty value of `Case`.
+108 <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> tokens (92% of all `NOUN` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (97; 90%).
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Gen` (22; 20% of non-empty `Case`): <em>bachal, chasc, con, cói, denmo, dodcaid, doss, ecni, fairggae, fidbaidae</em>
 * `Nom` (52; 48% of non-empty `Case`): <em>ᚉᚑᚉᚐᚏᚈ, dias, ainm, airdircus, aite, aithne, bendacht, bruach, cenéle, chliab</em>
 * `Voc` (2; 2% of non-empty `Case`): <em>ingen</em>
-* `EMPTY` (5): <em>accentus, femininum, sam, ᚃᚓᚏᚔᚐ, ᚆᚑᚇᚔᚓ</em>
+* `EMPTY` (10): <em>accentus, animalis, femininum, nomen, pedo, sam, sona, vesíca, ᚃᚓᚏᚔᚐ, ᚆᚑᚇᚔᚓ</em>
 
 <table>
   <tr><th>Paradigm <i>cásc</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th></tr>
@@ -60,7 +60,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `ADJ`
 
-20 <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> tokens (69% of all `ADJ` tokens) have a non-empty value of `Case`.
+20 <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> tokens (67% of all `ADJ` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="sga_dipsgg-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (20; 100%), <tt><a href="sga_dipsgg-feat-Prefix.html">Prefix</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19; 95%).
 
@@ -70,13 +70,13 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Dat` (3; 15% of non-empty `Case`): <em>glass, lainn, libardaib</em>
 * `Gen` (1; 5% of non-empty `Case`): <em>minn</em>
 * `Nom` (15; 75% of non-empty `Case`): <em>gann, acher, bec, cáin, dorchæ, línech, mall, mar, mass, mmall</em>
-* `EMPTY` (9): <em>nóib, droch, ferr, find, mar, menn, má, ᚋᚔᚅ</em>
+* `EMPTY` (10): <em>nóib, displosa, droch, ferr, find, mar, menn, má, ᚋᚔᚅ</em>
 
 `Case` seems to be **lexical feature** of `ADJ`. 100% lemmas (18) occur only with one value of `Case`.
 
 ### `PROPN`
 
-15 <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+15 <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> tokens (94% of all `PROPN` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15; 100%).
 
@@ -85,8 +85,9 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Acc` (1; 7% of non-empty `Case`): <em>máel</em>
 * `Dat` (2; 13% of non-empty `Case`): <em>lothlind, maddoc</em>
 * `Gen` (5; 33% of non-empty `Case`): <em>brigtae, ferguso, patric, ᚋᚐᚏᚈᚐᚔᚅ</em>
-* `Nom` (5; 33% of non-empty `Case`): <em>choirbbre, dongus, donngus, finguine, ruadri</em>
+* `Nom` (5; 33% of non-empty `Case`): <em>choirbbre, dongus, donngvs, finguine, ruadri</em>
 * `Voc` (2; 13% of non-empty `Case`): <em>mail, máelecán</em>
+* `EMPTY` (1): <em>isidorus</em>
 
 `Case` seems to be **lexical feature** of `PROPN`. 100% lemmas (14) occur only with one value of `Case`.
 

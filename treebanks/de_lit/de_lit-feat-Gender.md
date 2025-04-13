@@ -27,7 +27,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Fem` (3; 0% of non-empty `Gender`): <em>sie, die</em>
 * `Masc` (292; 29% of non-empty `Gender`): <em>er, ihm, ihn, der, himself</em>
 * `Neut` (712; 71% of non-empty `Gender`): <em>es, was, nichts, etwas, s, 's, irgendetwas, das</em>
-* `EMPTY` (1727): <em>sich, sie, man, die, der, das, wir, uns, ich, wer</em>
+* `EMPTY` (1728): <em>sich, sie, man, die, der, das, wir, uns, ich, wer</em>
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -78,7 +78,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 * `Fem` (23; 64% of non-empty `Gender`): <em>ganze, römische, Letztere, angemessenste, edle, elektrische, erhaltenden, gebildeten, gemeine, gesamte</em>
 * `Masc` (9; 25% of non-empty `Gender`): <em>brillant, feiner, grober, historischen, letzten, menacés, merkwürdigen, primi, secondo</em>
 * `Neut` (4; 11% of non-empty `Gender`): <em>Rembrandtschen, gebildeten, letzte, prophetisches</em>
-* `EMPTY` (3431): <em>große, alten, erste, ersten, ganze, großen, höchsten, möglich, neue, eignen</em>
+* `EMPTY` (3439): <em>große, alten, erste, ersten, ganze, eignen, großen, höchsten, möglich, neue</em>
 
 <table>
   <tr><th>Paradigm <i>letzt</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>

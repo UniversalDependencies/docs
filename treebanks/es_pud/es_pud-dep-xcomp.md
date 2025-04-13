@@ -33,7 +33,7 @@ The following 16 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 9	a	a	ADP	IN	_	11	case	_	_
 10	por	por	ADP	IN	_	11	case	_	_
 11	más	más	ADV	RBR	Degree=Cmp	8	advmod	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	3	punct	_	_
+12	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -49,7 +49,7 @@ The following 16 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 3	preguntas	pregunta	NOUN	NN	Gender=Fem|Number=Plur	2	nsubj	_	_
 4	sin	sin	ADP	IN	_	5	case	_	_
 5	responder	responder	VERB	VB	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
-6	.	.	PUNCT	.	_	2	punct	_	_
+6	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 16 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 7	Kenseth	Kenseth	PROPN	NNP	Gender=Masc|Number=Sing	8	nsubj	_	_
 8	salió	salir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
 9	ileso	ileso	ADJ	JJ	Gender=Masc|Number=Sing	8	xcomp	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	3	punct	_	_
+10	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~
 

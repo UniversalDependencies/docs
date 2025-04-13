@@ -40,8 +40,8 @@ The following 7 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 1 11 mark	color:blue
 1	等	等	VERB	_	_	15	advcl	_	SpaceAfter=No|Translit=děng|LTranslit=děng
 2	他	他	PRON	_	_	1	obj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
-3	扭	扭	VERB	_	_	9	advcl	_	SpaceAfter=No|Translit=niǔ|LTranslit=niǔ
-4	光	光	VERB	_	_	3	compound:vv	_	SpaceAfter=No|Translit=guāng|LTranslit=guāng
+3	扭	扭	VERB	_	_	9	advcl	_	SpaceAfter=No|Translit=niǔ|LTranslit=niǔ|Cxn=Resultative|CxnElt=3:Resultative.Event
+4	光	光	VERB	_	_	3	compound:vv	_	SpaceAfter=No|Translit=guāng|LTranslit=guāng|CxnElt=3:Resultative.ResultState
 5	十	十	NUM	_	_	6	nummod	_	SpaceAfter=No|Translit=shí|LTranslit=shí
 6	元	元	NOUN	_	NounType=Clf	3	obj	_	SpaceAfter=No|Translit=yuán|LTranslit=yuán
 7	也	也	ADV	_	_	9	advmod	_	SpaceAfter=No|Translit=yě|LTranslit=yě
@@ -68,8 +68,8 @@ The following 7 pairs of parts of speech are connected with `mark`: <tt><a href=
 2	我們	我	PRON	_	_	1	obj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
 3	今天	今天	NOUN	_	_	8	obl:tmod	_	SpaceAfter=No|Translit=jīntiān|LTranslit=jīntiān
 4	可以	可以	AUX	_	_	8	ccomp	_	SpaceAfter=No|Translit=kěyǐ|LTranslit=kěyǐ
-5	有	有	VERB	_	_	8	advcl	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-6	秩序	秩序	NOUN	_	_	5	obj	_	SpaceAfter=No|Translit=zhìxù|LTranslit=zhìxù
+5	有	有	VERB	_	_	8	advcl	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu|Cxn=Existential-HavePred
+6	秩序	秩序	NOUN	_	_	5	obj	_	SpaceAfter=No|Translit=zhìxù|LTranslit=zhìxù|CxnElt=5:Existential-HavePred.Pivot
 7	地	地	PART	_	_	5	mark	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	進行	進行	VERB	_	_	1	xcomp	_	SpaceAfter=No|Translit=jìnxíng|LTranslit=jìnxíng
 9	選舉	選舉	VERB	_	_	12	acl	_	SpaceAfter=No|Translit=xuǎnjǔ|LTranslit=xuǎnjǔ

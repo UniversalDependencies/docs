@@ -22,7 +22,7 @@ The following 17 pairs of parts of speech are connected with `advcl:relcl`: <tt>
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 advcl:relcl	color:blue
-1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=attribution-positive:65->66:0:sem-atsrc-344+lex-indwd-345|Entity=(9-person-giv:inact-cf1-1-ana)
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=attribution-positive:65->66:0:sem-atsrc-344+lex-indwd-345|Entity=(9-person-giv:inact-cf1-1-ana)|PDTB=Implicit:Contingency.Cause.Reason:because:_:335-343:344-349
 2	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	how	how	ADV	WRB	PronType=Rel	2	obj	2:obj	Discourse=evaluation-comment:66->64:0:_
 4	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	5:nsubj	_
@@ -44,7 +44,7 @@ The following 17 pairs of parts of speech are connected with `advcl:relcl`: <tt>
 4	recently	recently	ADV	RB	Degree=Pos	5	advmod	5:advmod	MSeg=recent-ly
 5	adopted	adopt	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root|12:ccomp	MSeg=ad-opt-ed
 6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	8:det	Entity=(196-abstract-new-cf3-3-sgl
-7	similar	similar	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+7	similar	similar	ADJ	JJ	Degree=Pos	8	amod	8:amod	PDTB=AltLex:Expansion.Conjunction:similar:909:889-902:903-908,910-915
 8	course	course	NOUN	NN	Number=Sing	5	obj	5:obj	Entity=196)|SpaceAfter=No
 9	,	,	PUNCT	,	_	12	punct	12:punct	_
 10	which	which	PRON	WDT	PronType=Rel	12	obj	5:ref|12:obj	Discourse=evaluation-comment:84->83:0:lex-indwd-914
@@ -61,13 +61,13 @@ The following 17 pairs of parts of speech are connected with `advcl:relcl`: <tt>
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 14 advcl:relcl	color:blue
-1	When	when	ADV	WRB	PronType=Int	3	advmod	3:advmod	Discourse=context-circumstance:45->46:0:dm-when-325
+1	When	when	ADV	WRB	PronType=Int	3	advmod	3:advmod	Discourse=context-circumstance:45->46:0:dm-when-325|PDTB=Explicit:Temporal.Synchronous:when:325:329-339:326-328;Implicit:Expansion.Conjunction:and:_:296-324:325-339
 2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	Entity=(1-person-giv:act-cf1*-1-ana)
 3	ate	eat	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	8	advcl	8:advcl:when	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	3:punct	_
 5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	8:nsubj	Discourse=joint-list_m:46->40:2:_|Entity=(1-person-giv:act-cf1*-1-ana)
 6	did	do	AUX	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	8	aux	8:aux	_
-7	not	not	PART	RB	Polarity=Neg	8	advmod	8:advmod	_
+7	not	not	PART	RB	Polarity=Neg	8	advmod	8:advmod	Negation=Yes
 8	know	know	VERB	VB	VerbForm=Inf	0	root	0:root	_
 9	when	when	ADV	WRB	PronType=Rel	8	obj	8:obj	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	Entity=(57-time-acc:com-cf2-3-sgl

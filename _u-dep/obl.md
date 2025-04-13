@@ -64,11 +64,11 @@ obl(swam, night)
 obl(swam, pool)
 ~~~
 
-and for the agent of a passive verb (with the optional subtype obl:agent):
+and for the agent of a passive verb (with the subtype [obl:agent]()):
 
 ~~~ sdparse
 the cat was chased by the dog
 nsubj:pass(chased, cat)
 obl:agent(chased, dog)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:35 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:15 CET -->

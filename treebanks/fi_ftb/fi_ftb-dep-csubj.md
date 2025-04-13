@@ -47,7 +47,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 3	kiva	kiva	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	0	root	_	_
 4	,	,	PUNCT	Pun	_	3	punct	_	_
 5	että	että	SCONJ	Pcle,CS	_	7	mark	_	_
-6	te	te	PRON	Pron,Pers,Pl2,Nom	Case=Nom|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
+6	te	sinä	PRON	Pron,Pers,Pl2,Nom	Case=Nom|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
 7	tulette	tulla	VERB	V,Act,Ind,Pres,Pl2	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	csubj	_	_
 8	.	.	PUNCT	Pun	_	7	punct	_	_
 

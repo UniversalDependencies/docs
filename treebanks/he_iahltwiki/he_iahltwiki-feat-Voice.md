@@ -10,8 +10,8 @@ This feature is universal but the values `Mid` are language-specific.
 It occurs with 3 different values: `Act`, `Mid`, `Pass`.
 
 10129 tokens (7%) have a non-empty value of `Voice`.
-3618 types (25%) occur at least once with a non-empty value of `Voice`.
-1408 lemmas (15%) occur at least once with a non-empty value of `Voice`.
+3617 types (25%) occur at least once with a non-empty value of `Voice`.
+1407 lemmas (15%) occur at least once with a non-empty value of `Voice`.
 The feature is used with 1 part-of-speech tags: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (10129; 7% instances).
 
 ### `VERB`
@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-conj.html">conj</a></tt>]--> VERB</tt> (961; 63%),
-<tt>VERB --[<tt><a href="he_iahltwiki-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (444; 77%),
+<tt>VERB --[<tt><a href="he_iahltwiki-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (444; 78%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (239; 51%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (4; 57%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-dep.html">dep</a></tt>]--> VERB</tt> (3; 60%).

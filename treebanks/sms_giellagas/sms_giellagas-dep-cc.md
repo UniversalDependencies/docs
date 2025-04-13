@@ -43,7 +43,7 @@ The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="s
 # visual-style 7 6 cc	color:blue
 1	–	–	PUNCT	PUNCT	_	4	punct	_	_
 2	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT|SpaceAfter=No
-3	Jeäʹled	ij	AUX	V	Mood=Imp|Number=Plur|Person=2|Polarity=Neg	4	aux:neg	_	GTtags=Neg,Imprt,Pl2,@+FAUXV
+3	Jeäʹled	ij	AUX	V	Mood=Imp|Number=Plur|Person=2|Polarity=Neg	4	aux	_	GTtags=Neg,Imprt,Pl2,@+FAUXV
 4	cieʹlǩ	ceäʹlǩǩed	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	0	root	_	GTtags=Ind,Prs,ConNeg
 5	vueʹǯǯ	vueʹǯǯ	NOUN	N	Case=Acc|Number=Sing	4	obj	_	GTtags=N,Sg,Acc,@OBJ>
 6	mutta	mutta	CCONJ	CC	_	7	cc	_	GTtags=Err/Lex,@CNP

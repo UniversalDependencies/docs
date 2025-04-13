@@ -12,15 +12,15 @@ udver: '2'
 # UD Albanian TSA
 
 Language: [Albanian](/sq/index.html) (code: `sq`)<br/>
-Family: Indo-European, Albanian
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.6 release.
 
 The following people have contributed to making this treebank part of UD: Marsida Toska.
 
 Repository: [UD_Albanian-TSA](https://github.com/UniversalDependencies/UD_Albanian-TSA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsq_tsa214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsq_tsa215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

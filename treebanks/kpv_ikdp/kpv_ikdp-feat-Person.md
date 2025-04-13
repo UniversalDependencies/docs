@@ -89,11 +89,10 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (47; 67%),
 <tt>VERB --[<tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (41; 71%),
 <tt>VERB --[<tt><a href="kpv_ikdp-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (5; 56%),
-<tt>VERB --[<tt><a href="kpv_ikdp-dep-aux.html">aux</a></tt>]--> AUX</tt> (3; 75%),
 <tt>VERB --[<tt><a href="kpv_ikdp-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (2; 67%),
 <tt>PRON --[<tt><a href="kpv_ikdp-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<tt><a href="kpv_ikdp-dep-det.html">det</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="kpv_ikdp-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (1; 100%),
 <tt>VERB --[<tt><a href="kpv_ikdp-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%).
+<tt>VERB --[<tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%),
+<tt>VERB --[<tt><a href="kpv_ikdp-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (1; 100%).
 

@@ -51,8 +51,8 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 7	lätt	lätt	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Sing	3	csubj:pass	3:csubj:pass	_
 8	i	i	ADP	PP	_	9	case	9:case	_
 9	vallokalen	vallokal	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	obl	7:obl:i	_
-10	i	i	ADP	PP	_	7	advmod	7:advmod	_
-11	år	år	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	10	fixed	10:fixed	SpaceAfter=No
+10	i	i	ADP	PP	_	11	case	11:case	_
+11	år	år	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	7	obl	7:obl:i	SpaceAfter=No
 12	.	.	PUNCT	MAD	_	3	punct	3:punct	_
 
 ~~~
@@ -78,7 +78,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 12	man	man	PRON	PN|UTR|SIN|IND|SUB	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|PronType=Ind	13	nsubj	13:nsubj	_
 13	finner	finna	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:cleft	9:acl:cleft	_
 14	de	de	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur|PronType=Art	17	det	17:det	_
-15	flesta	mången	ADJ	JJ|SUV|UTR/NEU|PLU|DEF|NOM	Case=Nom|Definite=Def|Degree=Sup	14	fixed	14:fixed	_
+15	flesta	mången	ADJ	JJ|SUV|UTR/NEU|PLU|DEF|NOM	Case=Nom|Definite=Def|Degree=Sup	17	amod	17:amod	_
 16	psykiska	psykisk	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	17	amod	17:amod	_
 17	störningarna	störning	NOUN	NN|UTR|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Plur	13	obj	13:obj	SpaceAfter=No
 18	,	,	PUNCT	MID	_	19	punct	19:punct	_

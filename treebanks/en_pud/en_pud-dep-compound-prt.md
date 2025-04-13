@@ -30,7 +30,7 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 6	,	,	PUNCT	,	_	11	punct	11:punct	_
 7	which	which	PRON	WDT	PronType=Rel	11	nsubj	5:ref	_
 8	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
-9	all	all	ADV	RB	_	11	advmod	11:advmod	_
+9	all	all	ADV	RB	ExtPos=ADV	11	advmod	11:advmod	_
 10	but	but	ADV	RB	_	9	fixed	9:fixed	_
 11	dried	dry	VERB	VBN	Tense=Past|VerbForm=Part	5	acl:relcl	5:acl:relcl	_
 12	up	up	ADP	RP	_	11	compound:prt	11:compound:prt	SpaceAfter=No
@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
 6	fallen	fall	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 7	apart	apart	ADV	RP	_	6	compound:prt	6:compound:prt	_
-8	due	due	ADP	IN	_	11	case	11:case	_
+8	due	due	ADJ	JJ	Degree=Pos|ExtPos=ADP	11	case	11:case	_
 9	to	to	ADP	IN	_	8	fixed	8:fixed	_
 10	unofficial	unofficial	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 11	collaborations	collaboration	NOUN	NNS	Number=Plur	6	obl	6:obl:due_to|18:nsubj	_

@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>ist</em> (<tt><a href="de_lit-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 6.333333 (the average of all parts of speech is 1.310429).
+The form / lemma ratio of `AUX` is 6.333333 (the average of all parts of speech is 1.310698).
 
 The 1st highest number of forms (15) was observed with the lemma “sein”: <em>gewesen, ist, isteine, ists, sei, seid, seien, sein, sey, seyn, sind, war, waren, wäre, wären</em>.
 

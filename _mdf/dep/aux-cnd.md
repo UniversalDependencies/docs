@@ -16,4 +16,4 @@ In meaning this correlates with the UD subjunctive mood `Mood=Sub' and may co-oc
 aux:cnd(ушедолень, ба)
 ~~~
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:46 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:28 CET -->

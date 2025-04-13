@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>yekê</em> (<tt><a href="kmr_mg-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.290598 (the average of all parts of speech is 1.511556).
+The form / lemma ratio of `NUM` is 1.290598 (the average of all parts of speech is 1.510518).
 
 The 1st highest number of forms (4) was observed with the lemma “15”: <em>15, 15'ê, 15em, 15ê</em>.
 

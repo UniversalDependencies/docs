@@ -17,4 +17,4 @@ Auxiliaries in Norwegian include the temporal, passive and modal auxiliaries (se
 * passive: *bli* "become" (_<b>blir</b> spist_ "is eaten")
 * modal: *kunne* "can", *skulle* "should", *ville* "will", *måtte* "must", *burde* "should" (_<b>kan/skal/vil/må/bør</b> spise_ "can/should/will/must/should eat")
 * copula: *være/vere*, "be" (_<b>er</b> god_ "is good")
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:34 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:20 CET -->

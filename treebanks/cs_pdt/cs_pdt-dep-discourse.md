@@ -25,7 +25,7 @@ The following 18 pairs of parts of speech are connected with `discourse`: <tt><a
 1	Uvedeme	uvést	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Functor=0:PRED
 2	si	se	PRON	P7--3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	1	discourse	1:discourse	Entity=(ln9420255c3--1-gstype:gen)|Functor=1:BEN|LGloss=(zvr._zájmeno/částice)
 3	běžný	běžný	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	4	amod	4:amod	Functor=4:RSTR
-4	příklad	příklad	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	1	obj	1:obj	SpaceAfter=No|Functor=1:PAT
+4	příklad	příklad	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	1:obj	SpaceAfter=No|Functor=1:PAT
 5	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~

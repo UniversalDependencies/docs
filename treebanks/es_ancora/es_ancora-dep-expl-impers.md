@@ -87,7 +87,7 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><
 42	que	que	PRON	pr0cn000	PronType=Rel	45	obl	45:obl	_
 43	se	él	PRON	p0000000	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	45	expl:impers	45:expl:impers	_
 44	estaba	estar	AUX	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	45	cop	45:cop	_
-45	dispuesto	dispuesto	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	10	conj	10:conj	ArgTem=arg2:atr
+45	dispuesto	dispuesto	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	10	conj	10:conj	ArgTem=arg2:atr|Cxn=Conditional-NeutralEpistemic|CxnElt=45:Conditional-NeutralEpistemic.Apodosis@p
 46	a	a	ADP	sps00	_	47	mark	47:mark	_
 47	desistir	desistir	VERB	vmn0000	VerbForm=Inf	45	acl	45:acl	_
 48	de	de	ADP	spcms	_	50	case	50:case	_
@@ -99,7 +99,7 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><
 54	si	si	SCONJ	cs	_	57	mark	57:mark	_
 55	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	56	det	56:det	_
 56	ofensor	ofensor	NOUN	ncms000	Gender=Masc|Number=Sing	57	nsubj	57:nsubj	ArgTem=arg0:agt
-57	prestaba	prestar	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	45	advcl	45:advcl	_
+57	prestaba	prestar	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	45	advcl	45:advcl	CxnElt=45:Conditional-NeutralEpistemic.Protasis@f
 58	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	60	det	60:det	_
 59	debida	debido	ADJ	aq0fsp	Gender=Fem|Number=Sing|VerbForm=Part	60	amod	60:amod	_
 60	satisfacción	satisfacción	NOUN	ncfs000	Gender=Fem|Number=Sing	57	obj	57:obj	SpaceAfter=No|ArgTem=arg1:pat
@@ -135,12 +135,12 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><
 19	no	no	ADV	rn	Polarity=Neg	22	advmod	22:advmod	_
 20	debas	deber	AUX	vmsp2s0	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	22	aux	22:aux	_
 21	estar	estar	AUX	vmn0000	VerbForm=Inf	22	cop	22:cop	ArgTem=arg2:atr
-22	preparado	preparado	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	17	xcomp	17:xcomp	ArgTem=arg2:atr
+22	preparado	preparado	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	17	xcomp	17:xcomp	ArgTem=arg2:atr|Cxn=Conditional-NeutralEpistemic|CxnElt=22:Conditional-NeutralEpistemic.Apodosis@p
 23	por	por	ADP	sps00	_	27	mark	27:mark	_
 24	si	si	SCONJ	cs	_	27	mark	27:mark	_
 25	te	tú	PRON	pp2cs000	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	27	obl:arg	27:obl:arg	ArgTem=arg2:ben|Entity=(CESSCASTP1999070126_ac22--1-CorefType:ident,gstype:gen)
 26	la	él	PRON	pp3fsa00	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	27	obj	27:obj	ArgTem=arg1:pat|Entity=(CESSCASTP1999070126_ac20--1-CorefType:ident,gstype:gen)
-27	declara	declarar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	advcl	22:advcl	ArgTem=argM:cau
+27	declara	declarar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	advcl	22:advcl	ArgTem=argM:cau|CxnElt=22:Conditional-NeutralEpistemic.Protasis@f
 28	alguien	alguien	PRON	pi0cs000	Number=Sing|PronType=Ind	27	nsubj	27:nsubj	SpaceAfter=No|ArgTem=arg0:agt|Entity=(NOCOREF:Gen--1-gstype:gen)
 29	.	.	PUNCT	fp	PunctType=Peri	5	punct	5:punct	_
 

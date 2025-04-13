@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 14685 tokens (62%) have a non-empty value of `Number`.
 5429 types (89%) occur at least once with a non-empty value of `Number`.
 4250 lemmas (91%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> (4385; 18% instances), <tt><a href="it_pud-pos-DET.html">DET</a></tt> (3785; 16% instances), <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt> (1755; 7% instances), <tt><a href="it_pud-pos-ADJ.html">ADJ</a></tt> (1606; 7% instances), <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (1354; 6% instances), <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> (918; 4% instances), <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> (824; 3% instances), <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> (54; 0% instances), <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> (4385; 18% instances), <tt><a href="it_pud-pos-DET.html">DET</a></tt> (3785; 16% instances), <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt> (1755; 7% instances), <tt><a href="it_pud-pos-ADJ.html">ADJ</a></tt> (1606; 7% instances), <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (1353; 6% instances), <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> (919; 4% instances), <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> (824; 3% instances), <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> (54; 0% instances), <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -93,14 +93,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `VERB`
 
-1354 <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> tokens (66% of all `VERB` tokens) have a non-empty value of `Number`.
+1353 <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> tokens (66% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (949; 70%), <tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (933; 69%), <tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (905; 67%), <tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (859; 63%), <tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (849; 63%), <tt><a href="it_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (845; 62%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (948; 70%), <tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (932; 69%), <tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (904; 67%), <tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (858; 63%), <tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (849; 63%), <tt><a href="it_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (844; 62%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (413; 31% of non-empty `Number`): <em>sono, hanno, avevano, considerate, fanno, inclusi, affermano, cominciarono, comprendono, cresciute</em>
-* `Sing` (941; 69% of non-empty `Number`): <em>ha, afferma, aveva, iniziò, sembra, ebbe, fatto, riguarda, dichiarò, diventò</em>
+* `Sing` (940; 69% of non-empty `Number`): <em>ha, afferma, aveva, iniziò, sembra, ebbe, fatto, riguarda, dichiarò, diventò</em>
 * `EMPTY` (701): <em>affermato, avere, detto, far, avuto, fare, fatto, partire, portare, deciso</em>
 
 <table>
@@ -116,15 +116,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `AUX`
 
-918 <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Number`.
+919 <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (823; 90%), <tt><a href="it_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (756; 82%), <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (694; 76%), <tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (681; 74%), <tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (590; 64%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (824; 90%), <tt><a href="it_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (757; 82%), <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (695; 76%), <tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (682; 74%), <tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (591; 64%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Plur` (250; 27% of non-empty `Number`): <em>sono, hanno, erano, vennero, furono, possono, avevano, stati, vengono, fossero</em>
-* `Sing` (668; 73% of non-empty `Number`): <em>è, ha, era, fu, stato, venne, può, aveva, stata, fosse</em>
-* `EMPTY` (65): <em>essere, aver, esser, potuto, avendo, Essendo, potendo, poter</em>
+* `Sing` (669; 73% of non-empty `Number`): <em>è, ha, era, fu, stato, venne, può, aveva, stata, fosse</em>
+* `EMPTY` (66): <em>essere, aver, esser, potuto, avendo, Essendo, potendo, poter</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -211,7 +211,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="it_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (646; 58%),
 <tt>PROPN --[<tt><a href="it_pud-dep-det.html">det</a></tt>]--> DET</tt> (517; 100%),
 <tt>PROPN --[<tt><a href="it_pud-dep-flat.html">flat</a></tt>]--> PROPN</tt> (412; 100%),
-<tt>VERB --[<tt><a href="it_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (356; 73%),
+<tt>VERB --[<tt><a href="it_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (355; 73%),
 <tt>NOUN --[<tt><a href="it_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (317; 70%),
 <tt>NOUN --[<tt><a href="it_pud-dep-det-poss.html">det:poss</a></tt>]--> PRON</tt> (225; 99%),
 <tt>VERB --[<tt><a href="it_pud-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (200; 90%),

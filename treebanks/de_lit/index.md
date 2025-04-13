@@ -12,15 +12,15 @@ udver: '2'
 # UD German LIT
 
 Language: [German](/de/index.html) (code: `de`)<br/>
-Family: Indo-European, Germanic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.4 release.
 
 The following people have contributed to making this treebank part of UD: Alessio Salomoni.
 
 Repository: [UD_German-LIT](https://github.com/UniversalDependencies/UD_German-LIT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_lit214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_lit215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -277,7 +277,7 @@ Many thanks to Daniel Zeman, who has promptly solved some fundamental problems c
     <ul>
       <li>ADJ: alt, befremdlich, bewußt, chimärisch, einseitig, ethischen, ganze, größere, höchsten, klassisch</li>
       <li>DET: alles, die, welche, dies, diese, andre, einen, alle, beides, den</li>
-      <li>NOUN: Sinn, Geist, Menschen, Philosophie, Witz, Poesie, Kraft, Welt, Leben, Kunst</li>
+      <li>NOUN: Sinn, Geist, Philosophie, Menschen, Witz, Poesie, Kraft, Welt, Leben, Kunst</li>
       <li>NUM: eins</li>
       <li>PRON: sich, es, was, ihn, sie, nichts, die, mich, den, uns</li>
       <li>PROPN: Fakta, Kant, Denkmal, Friedrichsd'or, Herrmann, Jean, Schellings, Schweiz, Sinn, Wilhelm</li>
@@ -318,7 +318,7 @@ Many thanks to Daniel Zeman, who has promptly solved some fundamental problems c
     <ul>
       <li>ADJ: letzte, erste, mimische, Gefühle, Gewisse, Groß, Kant, Neu, abgeleiteten, aktiven</li>
       <li>DET: welche, alles, welches, die, diese, dies, jeder, andre, einer, welcher</li>
-      <li>NOUN: Philosophie, Mensch, Geist, Poesie, Witz, Natur, Menschen, Kunst, Künstler, Sinn</li>
+      <li>NOUN: Mensch, Philosophie, Geist, Poesie, Witz, Natur, Menschen, Kunst, Künstler, Sinn</li>
       <li>NUM: eins</li>
       <li>PRON: man, sie, er, es, die, der, was, das, wir, ich</li>
       <li>PROPN: Leibniz, Kant, Diderot, Jacobi, Caesar, Christus, Cicero, Dante, Hemsterhuys, Hippel</li>
@@ -599,7 +599,7 @@ Many thanks to Daniel Zeman, who has promptly solved some fundamental problems c
   <li>1
     <ul>
       <li>AUX-Fin: sommes</li>
-      <li>DET: unsere, unsern, unsers, unser, meine, mein, unsrer, meinem, meinen, meiner</li>
+      <li>DET: unsere, unsern, unsers, unser, meine, unsrer, mein, meinem, meinen, meiner</li>
       <li>PRON: wir, uns, ich, mich, mir, nous</li>
     </ul>
   </li>
@@ -735,7 +735,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN-Acc-ADP(für) (2)</li>
-      <li>VERB--NOUN-Nom (722)</li>
+      <li>VERB--NOUN-Nom (721)</li>
       <li>VERB--NOUN-Nom-ADP(als) (1)</li>
       <li>VERB--NOUN-Nom-ADP(jenseits) (1)</li>
       <li>VERB--NOUN-Nom-ADP(unter) (1)</li>
@@ -743,7 +743,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON (7)</li>
       <li>VERB--PRON-Acc (1)</li>
       <li>VERB--PRON-Dat (1)</li>
-      <li>VERB--PRON-Nom (1037)</li>
+      <li>VERB--PRON-Nom (1038)</li>
       <li>VERB-Fin--NOUN (1)</li>
       <li>VERB-Fin--PRON (2)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
@@ -755,7 +755,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (1)</li>
-      <li>VERB--NOUN-Acc (765)</li>
+      <li>VERB--NOUN-Acc (766)</li>
       <li>VERB--NOUN-Acc-ADP(als) (1)</li>
       <li>VERB--NOUN-Acc-ADP(an) (1)</li>
       <li>VERB--NOUN-Acc-ADP(auf) (2)</li>

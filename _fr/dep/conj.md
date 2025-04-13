@@ -19,4 +19,4 @@ Une seconde d' hésitation , d' inattention ou de retard  \n A second of hesitat
 conj(hésitation, inattention)
 conj(hésitation, retard)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:58 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:40 CET -->

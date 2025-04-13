@@ -7,21 +7,21 @@ udver: '2'
 ## Treebank Statistics: UD_Low_Saxon-LSDC: POS Tags: `X`
 
 There are 38 `X` lemmas (1%), 38 `X` types (1%) and 42 `X` tokens (0%).
-Out of 16 observed tags, the rank of `X` is: 10 in number of lemmas, 12 in number of types and 16 in number of tokens.
+Out of 16 observed tags, the rank of `X` is: 8 in number of lemmas, 11 in number of types and 16 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>decipi, der, mundus, vult, Amicorum, Batavorum, Feststellung, Iovivat, Personalien, Pompadour</em>
 
 The 10 most frequent `X` types:  <em>decipi, der, mundus, vult, Amicorum, Batavorum, De, Feststellung, Iovivat, Personalien</em>
 
-The 10 most frequent ambiguous lemmas: <em>der</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 11, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 2), <em>de</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 1259, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 8, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>de</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 1303, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>der</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 71, <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 39, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 2, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 2), <em>De</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 56, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1), <em>harten</em> (<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1), <em>um</em> (<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 5, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1), <em>wil</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 25, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 3, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>der</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 50, <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 39, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 23, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 2), <em>De</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 56, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1), <em>harten</em> (<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1), <em>um</em> (<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 5, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1), <em>wil</em> (<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 25, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 3, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1)
 
 
 * <em>der</em>
-  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 71: <em>" Now , dan segge ik ow , dat wy <b>der</b> hen gåt , dat segge ik !</em>
+  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 50: <em>" Now , dan segge ik ow , dat wy <b>der</b> hen gåt , dat segge ik !</em>
   * <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 39: <em>Dee leyp aver gauw uut <b>der</b> stuave un uut me huse .</em>
-  * <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 2: <em>Mor <b>der</b> woanet sou unbesuusd völle ströypers in myn nåberskop , dat <b>der</b> vöär en unnöäse menske neet byster völle oaver en blivt .</em>
+  * <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 23: <em>Waneyr mut ik <b>der</b> dan med de borrel üütskeyden , Andries ?</em>
   * <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 2: <em>Weer dat nich alle dårtokoamen , dän weren see nå » Feststellung <b>der</b> Personalien « up den vryen voot bleaven un hadden nåsten en lütte bröäke betaald .</em>
 * <em>De</em>
   * <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 56: <em><b>De</b> vöärreade .</em>
@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>der</em> (<tt><a href="nds_lsdc-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.410753).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.500000).
 
 The 1st highest number of forms (1) was observed with the lemma “Amicorum”: <em>Amicorum</em>.
 

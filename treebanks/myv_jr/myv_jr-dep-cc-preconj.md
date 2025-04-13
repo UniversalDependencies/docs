@@ -61,7 +61,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 1	Эли	эли	CCONJ	CC	_	7	cc:preconj	_	_
 2	тедидень	тедидень	ADJ	A	Derivation=GenAttr	4	amod	_	GTtags=GenAttr
 3	«	«	PUNCT	PUNCT	_	4	punct	_	GTtags=LEFT|SpaceAfter=No
-4	троицясь	троиця	NOUN	N	Case=Nom|Definite=Def|Derivation=VerbYcja|Number=Sing	7	nsubj	_	GTtags=NomAg,Sg,Nom,Def|SpaceAfter=No
+4	троицясь	троиця	NOUN	N	Case=Nom|Definite=Def|Nomzr=Ag|Number=Sing	7	nsubj	_	GTtags=NomAg,Sg,Nom,Def|SpaceAfter=No
 5	»	»	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT
 6	пек	пек	ADV	Adv	AdvType=Deg	7	advmod:deg	_	GTtags=Degree
 7	мазы	мазы	ADJ	A	Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Prs,ScSg3|SpaceAfter=No

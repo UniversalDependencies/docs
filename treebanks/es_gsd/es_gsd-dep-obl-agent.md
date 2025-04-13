@@ -14,7 +14,7 @@ There are also 1 other language-specific subtypes of `obl`: <tt><a href="es_gsd-
 1492 instances of `obl:agent` (97%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.58922777417262.
 
-The following 7 pairs of parts of speech are connected with `obl:agent`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1014; 66% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (449; 29% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (42; 3% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (32; 2% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `obl:agent`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1015; 66% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (448; 29% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (42; 3% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (32; 2% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 7 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	Ejército	ejército	NOUN	_	_	4	obl:agent	_	_
 8	Blanco	blanco	PROPN	_	_	7	amod	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -45,7 +45,7 @@ The following 7 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 1	Ae	ae	DET	_	Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
 2	Fond	fond	PROPN	_	_	3	amod	_	_
 3	Kiss	kiss	PROPN	_	_	7	nsubj	_	SpaceAfter=No
-4	...	...	PUNCT	_	_	3	punct	_	_
+4	...	...	PUNCT	_	PunctType=Elip	3	punct	_	_
 5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	película	película	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
@@ -53,7 +53,7 @@ The following 7 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 9	por	por	ADP	_	_	10	case	_	_
 10	Ken	ken	PROPN	_	_	8	obl:agent	_	_
 11	Loach	loach	PROPN	_	_	10	flat	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	7	punct	_	_
+12	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
 
 ~~~
 
@@ -80,7 +80,7 @@ The following 7 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 14	Príncipe	príncipe	PROPN	_	_	12	conj	_	_
 15	hablan	hablar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	advcl	_	_
 16	portugués	portugués	NOUN	_	_	15	xcomp	_	SpaceAfter=No
-17	,	,	PUNCT	_	_	15	punct	_	_
+17	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	lenguaje	lenguaje	NOUN	_	Gender=Masc|Number=Sing	26	nsubj	_	_
 20	nacional	nacional	ADJ	_	Number=Sing	19	amod	_	_
@@ -90,14 +90,14 @@ The following 7 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 24	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	_
 25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	forro	forro	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-27	(	(	PUNCT	_	_	28	punct	_	SpaceAfter=No
+27	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	28	punct	_	SpaceAfter=No
 28	hablado	hablar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	26	parataxis	_	_
 29	por	por	ADP	_	_	32	case	_	_
 30	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 31	85	85	NUM	_	NumForm=Digit|NumType=Card	32	nummod	_	_
 32	%	%	SYM	_	_	28	obl:agent	_	SpaceAfter=No
-33	)	)	PUNCT	_	_	28	punct	_	SpaceAfter=No
-34	.	.	PUNCT	_	_	26	punct	_	_
+33	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	28	punct	_	SpaceAfter=No
+34	.	.	PUNCT	_	PunctType=Peri	26	punct	_	_
 
 ~~~
 

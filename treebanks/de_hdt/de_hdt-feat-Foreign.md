@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-53406 tokens (2%) have a non-empty value of `Foreign`.
-10447 types (6%) occur at least once with a non-empty value of `Foreign`.
-10441 lemmas (15%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 3 part-of-speech tags: <tt><a href="de_hdt-pos-X.html">X</a></tt> (53388; 2% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+53405 tokens (2%) have a non-empty value of `Foreign`.
+10446 types (6%) occur at least once with a non-empty value of `Foreign`.
+10440 lemmas (15%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 4 part-of-speech tags: <tt><a href="de_hdt-pos-X.html">X</a></tt> (53384; 2% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `X`
 
-53388 <tt><a href="de_hdt-pos-X.html">X</a></tt> tokens (99% of all `X` tokens) have a non-empty value of `Foreign`.
+53384 <tt><a href="de_hdt-pos-X.html">X</a></tt> tokens (99% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (53388; 100% of non-empty `Foreign`): <em>of, internet, the, and, digital, mobile, media, for, OS, network</em>
+* `Yes` (53384; 100% of non-empty `Foreign`): <em>of, internet, the, and, digital, mobile, media, for, OS, network</em>
 * `EMPTY` (307): <em>x, D2, G4, ×, 9x, =, ?, ·</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (10436) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (10434) occur only with one value of `Foreign`.
 
 ### `DET`
 
@@ -34,7 +34,18 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (17; 100% of non-empty `Foreign`): <em>dies, diese, Dieser, diejenigen, diesem, einen, einer, einige</em>
-* `EMPTY` (497654): <em>der, die, dem, den, das, des, eine, ein, einen, einer</em>
+* `EMPTY` (494350): <em>der, die, dem, den, das, des, eine, ein, einen, einer</em>
+
+### `PUNCT`
+
+3 <tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Foreign`.
+
+The most frequent other feature values with which `PUNCT` and `Foreign` co-occurred: <tt><a href="de_hdt-feat-PunctType.html">PunctType</a></tt><tt>=EMPTY</tt> (3; 100%).
+
+`PUNCT` tokens may have the following values of `Foreign`:
+
+* `Yes` (3; 100% of non-empty `Foreign`): <em>***</em>
+* `EMPTY` (396267): <em>., ,, ", :, (, ), -, ;, ?, !</em>
 
 ### `PRON`
 
@@ -45,7 +56,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>etwas</em>
-* `EMPTY` (94852): <em>sich, es, die, sie, man, das, er, der, wir, was</em>
+* `EMPTY` (94846): <em>sich, es, die, sie, man, das, er, der, wir, was</em>
 
 ## Relations with Agreement in `Foreign`
 

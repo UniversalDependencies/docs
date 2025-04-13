@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (2; 100% of non-empty `Reflex`): <em>iče</em>
-* `EMPTY` (101): <em>häi, tämän, minun, se, toine, minul, hyö, midä, toizel, toizen</em>
+* `EMPTY` (100): <em>häi, tämän, minun, se, toine, minul, hyö, midä, toizel, toizen</em>
 
 ### `VERB`
 

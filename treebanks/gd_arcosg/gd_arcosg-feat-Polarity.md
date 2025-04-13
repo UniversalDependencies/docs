@@ -29,7 +29,7 @@ The most frequent other feature values with which `PART` and `Polarity` co-occur
 
 301 <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> tokens (23% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (301; 100%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (301; 100%), <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (301; 100%), <tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (240; 80%).
 
 `AUX` tokens may have the following values of `Polarity`:
 

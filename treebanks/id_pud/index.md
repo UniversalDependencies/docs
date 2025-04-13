@@ -12,15 +12,15 @@ udver: '2'
 # UD Indonesian PUD
 
 Language: [Indonesian](/id/index.html) (code: `id`)<br/>
-Family: Austronesian, Malayo-Sumbawan
+Family: Austronesian
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
 
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Ruli Manurung, Muh Shohibussirri, Martin Popel, Daniel Zeman, Ika Alfina, Arawinda Dinakaramani, Muhammad Yudistira Hanifmuti, Jessica Naraiswari Arwidarasti, Yogi Lesmana Sulestio.
 
 Repository: [UD_Indonesian-PUD](https://github.com/UniversalDependencies/UD_Indonesian-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_pud214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_pud215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 3.0
 
@@ -317,7 +317,7 @@ employ ten-fold cross-validation.
   <li>Ind
     <ul>
       <li>ADV: kadang, kadang-kadang</li>
-      <li>DET: para, banyak, beberapa, berbagai, sebagian, kebanyakan, sejenis, serangkaian, sepasang</li>
+      <li>DET: para, banyak, beberapa, berbagai, Sebagian, kebanyakan, sejenis, serangkaian, sepasang</li>
       <li>PRON: seseorang, sesuatu</li>
     </ul>
   </li>
@@ -518,7 +518,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (473)</li>
+      <li>VERB--NOUN (474)</li>
       <li>VERB--PRON (454)</li>
     </ul>
   </li>

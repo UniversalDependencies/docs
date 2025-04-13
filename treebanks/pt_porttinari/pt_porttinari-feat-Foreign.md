@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-376 tokens (0%) have a non-empty value of `Foreign`.
-237 types (1%) occur at least once with a non-empty value of `Foreign`.
-228 lemmas (2%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 4 part-of-speech tags: <tt><a href="pt_porttinari-pos-X.html">X</a></tt> (222; 0% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (144; 0% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt> (2; 0% instances).
+383 tokens (0%) have a non-empty value of `Foreign`.
+241 types (1%) occur at least once with a non-empty value of `Foreign`.
+232 lemmas (2%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 3 part-of-speech tags: <tt><a href="pt_porttinari-pos-X.html">X</a></tt> (231; 0% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (144; 0% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (8; 0% instances).
 
 ### `X`
 
-222 <tt><a href="pt_porttinari-pos-X.html">X</a></tt> tokens (90% of all `X` tokens) have a non-empty value of `Foreign`.
+231 <tt><a href="pt_porttinari-pos-X.html">X</a></tt> tokens (94% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (222; 100% of non-empty `Foreign`): <em>bitcoin, car, safety, ale, bitcoins, pale, rohingyas, capita, country, ethereum</em>
-* `EMPTY` (24): <em>corpus, habeas, roinc, ão, acusar, ai-ai-ai, dance, denunciar, e, imperial</em>
+* `Yes` (231; 100% of non-empty `Foreign`): <em>bitcoin, car, safety, ale, bitcoins, pale, rohingyas, capita, corpus, country</em>
+* `EMPTY` (15): <em>roinc, ão, acusar, ai-ai-ai, denunciar, e, nheco-nheco, nhico-nhico, re, rsrsr</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (168) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (172) occur only with one value of `Foreign`.
 
 ### `NOUN`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (144; 100% of non-empty `Foreign`): <em>internet, e-mail, fintechs, deficit, chef, hits, recall, funk, hip-hop, publisher</em>
-* `EMPTY` (31265): <em>anos, ano, pessoas, dia, país, vez, presidente, tempo, parte, governo</em>
+* `EMPTY` (31258): <em>anos, ano, pessoas, dia, país, vez, presidente, tempo, parte, governo</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (59) occur only with one value of `Foreign`.
 
@@ -47,22 +47,13 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (8; 100% of non-empty `Foreign`): <em>off-line, on-line, habitués, premium, gospel, workaholic</em>
-* `EMPTY` (8546): <em>maior, primeira, grande, melhor, primeiro, nova, novo, últimos, brasileira, possível</em>
-
-### `ADV`
-
-2 <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Foreign`.
-
-`ADV` tokens may have the following values of `Foreign`:
-
-* `Yes` (2; 100% of non-empty `Foreign`): <em>on-line</em>
-* `EMPTY` (6423): <em>não, mais, também, ainda, já, muito, só, depois, como, hoje</em>
+* `EMPTY` (8548): <em>maior, primeira, grande, melhor, novo, primeiro, nova, últimos, brasileira, possível</em>
 
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>X --[<tt><a href="pt_porttinari-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (62; 95%),
+<tt>X --[<tt><a href="pt_porttinari-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (68; 100%),
 <tt>X --[<tt><a href="pt_porttinari-dep-conj.html">conj</a></tt>]--> X</tt> (10; 100%),
-<tt>X --[<tt><a href="pt_porttinari-dep-fixed.html">fixed</a></tt>]--> X</tt> (2; 100%),
+<tt>X --[<tt><a href="pt_porttinari-dep-flat.html">flat</a></tt>]--> X</tt> (2; 100%),
 <tt>X --[<tt><a href="pt_porttinari-dep-nmod.html">nmod</a></tt>]--> X</tt> (2; 100%).
 

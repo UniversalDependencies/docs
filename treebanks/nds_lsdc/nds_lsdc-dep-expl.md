@@ -9,32 +9,34 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `expl`: <tt><a href="nds_lsdc-dep-expl-pv.html">expl:pv</a></tt>.
 
-38 nodes (0%) are attached to their parents as `expl`.
+64 nodes (0%) are attached to their parents as `expl`.
 
-31 instances of `expl` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.94736842105263.
+47 instances of `expl` (73%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.21875.
 
-The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (22; 58% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (8; 21% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (6; 16% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `expl`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (41; 64% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (14; 22% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (6; 9% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 expl	color:blue
-1	Ja	jå	INTJ	_	_	7	discourse	_	lemma_gml=jâ
-2	ja	jå	INTJ	_	_	1	conj	_	lemma_gml=jâ|SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	_
-4	jüfvrouwe	jungvrouwe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	vocative	_	lemma_gml=juncvrouwe|SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	sou	sou	ADV	_	_	7	advmod	_	lemma_gml=sô
-7	gåt	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=gân
-8	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	lemma_gml=hê,sê,et
-9	in	in	ADP	_	AdpType=Prep	11	case	_	lemma_gml=in
-10	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	lemma_gml=dê,dê,dat
-11	weareld	wearld	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	7	obl	_	lemma_gml=werlt|SpaceAfter=No
-12	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 expl	color:blue
+1	As	as	SCONJ	_	_	6	mark	_	lemma_gml=alsô
+2	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	lemma_gml=ik
+3	ter	dår	PRON	_	_	6	expl	_	lemma_gml=dâr¹
+4	mer	men	ADV	_	_	6	advmod	_	lemma_gml=men³
+5	eyne	eyn	PRON	_	Case=Acc|Gender=Fem,Masc|Number=Sing|PronType=Ind	6	obj	_	lemma_gml=êⁱn¹
+6	wüs	weaten	VERB	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Past	0	root	_	lemma_gml=wēten¹|SpaceAfter=No
+7	,	,	PUNCT	_	_	12	punct	_	_
+8	den	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	12	nsubj	_	lemma_gml=dê¹
+9	unsen	uns	DET	_	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	10	det	_	lemma_gml=unse¹
+10	kråm	kråm	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	obj	_	lemma_gml=krâm
+11	wol	willen	AUX	_	Mood=Ind,Sub|Number=Sing|Person=3|Tense=Past	12	aux	_	lemma_gml=willen¹
+12	koupen	köypen	VERB	_	VerbForm=Inf	5	acl	_	lemma_gml=kö̂pen|SpaceAfter=No
+13	!	!	PUNCT	_	_	6	punct	_	SpaceAfter=No
+14	"	"	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

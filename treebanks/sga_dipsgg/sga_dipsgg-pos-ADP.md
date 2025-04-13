@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_Irish-DipSGG: POS Tags: `ADP`
 
-There are 14 `ADP` lemmas (6%), 25 `ADP` types (9%) and 41 `ADP` tokens (10%).
-Out of 16 observed tags, the rank of `ADP` is: 4 in number of lemmas, 4 in number of types and 2 in number of tokens.
+There are 14 `ADP` lemmas (6%), 25 `ADP` types (8%) and 41 `ADP` tokens (10%).
+Out of 16 observed tags, the rank of `ADP` is: 5 in number of lemmas, 4 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>do, i, de, ar, for, fri, la, ó, úas, eter</em>
 
@@ -39,9 +39,9 @@ The 10 most frequent ambiguous types:  <em>do</em> (<tt><a href="sga_dipsgg-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.785714 (the average of all parts of speech is 1.261062).
+The form / lemma ratio of `ADP` is 1.785714 (the average of all parts of speech is 1.295652).
 
-The 1st highest number of forms (4) was observed with the lemma “do”: <em>dait, do, dom, dún</em>.
+The 1st highest number of forms (4) was observed with the lemma “do”: <em>dait, do, dom, dv́n</em>.
 
 The 2nd highest number of forms (4) was observed with the lemma “i”: <em>and, hi, hí, i</em>.
 

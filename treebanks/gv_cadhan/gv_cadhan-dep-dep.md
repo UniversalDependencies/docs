@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 5	Baarle	Baarle	PROPN	_	_	7	dep	_	SpaceAfter=No
 6	:	:	PUNCT	_	_	7	punct	_	_
 7	Garavogue	Garavogue	PROPN	_	_	3	appos	_	_
-8	River	River	PROPN	_	_	7	flat:foreign	_	SpaceAfter=No
+8	River	River	PROPN	_	_	7	flat	_	SpaceAfter=No
 9	)	)	PUNCT	_	_	7	punct	_	_
 10	ny	ny	DET	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	11	nmod:poss	_	_
 11	h-awin	awin	NOUN	_	Form=HPref	1	xcomp:pred	_	_

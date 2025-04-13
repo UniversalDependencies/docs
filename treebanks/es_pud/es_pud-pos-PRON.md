@@ -6,10 +6,10 @@ udver: '2'
 
 ## Treebank Statistics: UD_Spanish-PUD: POS Tags: `PRON`
 
-There are 21 `PRON` lemmas (0%), 49 `PRON` types (1%) and 1057 `PRON` tokens (5%).
+There are 18 `PRON` lemmas (0%), 42 `PRON` types (1%) and 1039 `PRON` tokens (4%).
 Out of 17 observed tags, the rank of `PRON` is: 9 in number of lemmas, 9 in number of types and 8 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>él, que, su, yo, cual, nuestro, quien, tú, mi, cuál</em>
+The 10 most frequent `PRON` lemmas: <em>él, que, su, yo, cual, quien, tú, cuál, qué, quién</em>
 
 The 10 most frequent `PRON` types:  <em>se, que, su, lo, sus, le, cual, me, ellos, él</em>
 
@@ -55,28 +55,28 @@ The 1st highest number of forms (13) was observed with the lemma “él”: <em>
 
 The 2nd highest number of forms (5) was observed with the lemma “tú”: <em>os, te, tú, usted, ustedes</em>.
 
-The 3rd highest number of forms (4) was observed with the lemma “nuestro”: <em>nuestra, nuestras, nuestro, nuestros</em>.
+The 3rd highest number of forms (4) was observed with the lemma “yo”: <em>me, mí, nos, yo</em>.
 
-`PRON` occurs with 11 features: <tt><a href="es_pud-feat-PronType.html">PronType</a></tt> (1057; 100% instances), <tt><a href="es_pud-feat-Person.html">Person</a></tt> (777; 74% instances), <tt><a href="es_pud-feat-Number.html">Number</a></tt> (740; 70% instances), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt> (631; 60% instances), <tt><a href="es_pud-feat-Case.html">Case</a></tt> (526; 50% instances), <tt><a href="es_pud-feat-PrepCase.html">PrepCase</a></tt> (431; 41% instances), <tt><a href="es_pud-feat-Reflex.html">Reflex</a></tt> (314; 30% instances), <tt><a href="es_pud-feat-Poss.html">Poss</a></tt> (245; 23% instances), <tt><a href="es_pud-feat-Foreign.html">Foreign</a></tt> (6; 1% instances), <tt><a href="es_pud-feat-NumType.html">NumType</a></tt> (2; 0% instances), <tt><a href="es_pud-feat-Polite.html">Polite</a></tt> (2; 0% instances)
+`PRON` occurs with 11 features: <tt><a href="es_pud-feat-PronType.html">PronType</a></tt> (1039; 100% instances), <tt><a href="es_pud-feat-Person.html">Person</a></tt> (759; 73% instances), <tt><a href="es_pud-feat-Number.html">Number</a></tt> (722; 69% instances), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt> (613; 59% instances), <tt><a href="es_pud-feat-Case.html">Case</a></tt> (526; 51% instances), <tt><a href="es_pud-feat-PrepCase.html">PrepCase</a></tt> (431; 41% instances), <tt><a href="es_pud-feat-Reflex.html">Reflex</a></tt> (314; 30% instances), <tt><a href="es_pud-feat-Poss.html">Poss</a></tt> (227; 22% instances), <tt><a href="es_pud-feat-Foreign.html">Foreign</a></tt> (6; 1% instances), <tt><a href="es_pud-feat-NumType.html">NumType</a></tt> (2; 0% instances), <tt><a href="es_pud-feat-Polite.html">Polite</a></tt> (2; 0% instances)
 
 `PRON` occurs with 25 feature-value pairs: `Case=Acc`, `Case=Acc,Dat`, `Case=Acc,Nom`, `Case=Com`, `Case=Dat`, `Case=Nom`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polite=Form`, `Poss=Yes`, `PrepCase=Npr`, `PrepCase=Pre`, `PronType=Ind`, `PronType=Int`, `PronType=Int,Rel`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`
 
-`PRON` occurs with 55 feature combinations.
+`PRON` occurs with 50 feature combinations.
 The most frequent feature combination is `Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes` (306 tokens).
 Examples: <em>se</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 18 different relations: <tt><a href="es_pud-dep-det.html">det</a></tt> (283; 27% instances), <tt><a href="es_pud-dep-compound-prt.html">compound:prt</a></tt> (194; 18% instances), <tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt> (194; 18% instances), <tt><a href="es_pud-dep-expl-pass.html">expl:pass</a></tt> (120; 11% instances), <tt><a href="es_pud-dep-obj.html">obj</a></tt> (90; 9% instances), <tt><a href="es_pud-dep-obl.html">obl</a></tt> (62; 6% instances), <tt><a href="es_pud-dep-obl-arg.html">obl:arg</a></tt> (53; 5% instances), <tt><a href="es_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (25; 2% instances), <tt><a href="es_pud-dep-fixed.html">fixed</a></tt> (12; 1% instances), <tt><a href="es_pud-dep-nmod.html">nmod</a></tt> (10; 1% instances), <tt><a href="es_pud-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="es_pud-dep-expl-pv.html">expl:pv</a></tt> (3; 0% instances), <tt><a href="es_pud-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="es_pud-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-expl.html">expl</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-root.html">root</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`PRON` nodes are attached to their parents using 18 different relations: <tt><a href="es_pud-dep-det.html">det</a></tt> (265; 26% instances), <tt><a href="es_pud-dep-compound-prt.html">compound:prt</a></tt> (194; 19% instances), <tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt> (194; 19% instances), <tt><a href="es_pud-dep-expl-pass.html">expl:pass</a></tt> (120; 12% instances), <tt><a href="es_pud-dep-obj.html">obj</a></tt> (90; 9% instances), <tt><a href="es_pud-dep-obl.html">obl</a></tt> (62; 6% instances), <tt><a href="es_pud-dep-obl-arg.html">obl:arg</a></tt> (53; 5% instances), <tt><a href="es_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (25; 2% instances), <tt><a href="es_pud-dep-fixed.html">fixed</a></tt> (12; 1% instances), <tt><a href="es_pud-dep-nmod.html">nmod</a></tt> (10; 1% instances), <tt><a href="es_pud-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="es_pud-dep-expl-pv.html">expl:pv</a></tt> (3; 0% instances), <tt><a href="es_pud-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="es_pud-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-expl.html">expl</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-root.html">root</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `PRON` nodes belong to 9 different parts of speech: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (713; 67% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (285; 27% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (25; 2% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (16; 2% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (11; 1% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances),  (1; 0% instances)
+Parents of `PRON` nodes belong to 9 different parts of speech: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (713; 69% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (267; 26% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (25; 2% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (16; 2% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (11; 1% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances),  (1; 0% instances)
 
-936 (89%) `PRON` nodes are leaves.
+918 (88%) `PRON` nodes are leaves.
 
-68 (6%) `PRON` nodes have one child.
+68 (7%) `PRON` nodes have one child.
 
-47 (4%) `PRON` nodes have two children.
+47 (5%) `PRON` nodes have two children.
 
 6 (1%) `PRON` nodes have three or more children.
 

@@ -11,22 +11,22 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt>, <tt><a href="fr_parisstories-feat-Person-psor.html">Person[psor]</a></tt>.
 
-10404 tokens (24%) have a non-empty value of `Person`.
+10405 tokens (24%) have a non-empty value of `Person`.
 566 types (17%) occur at least once with a non-empty value of `Person`.
 307 lemmas (13%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (5934; 14% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (2439; 6% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (2031; 5% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (5935; 14% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (2439; 6% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (2031; 5% instances).
 
 ### `PRON`
 
-5934 <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> tokens (92% of all `PRON` tokens) have a non-empty value of `Person`.
+5935 <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> tokens (92% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5010; 84%), <tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3937; 66%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5011; 84%), <tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3937; 66%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (1675; 28% of non-empty `Person`): <em>je, j', me, moi, nous, m', toi, -moi, moi-même</em>
 * `2` (355; 6% of non-empty `Person`): <em>tu, vous, te, t', toi</em>
-* `3` (3904; 66% of non-empty `Person`): <em>on, c', il, ça, y, elle, s', se, lui, ils</em>
+* `3` (3905; 66% of non-empty `Person`): <em>on, c', il, ça, y, elle, s', se, lui, ils</em>
 * `EMPTY` (501): <em>qui, que, où, qu', quoi, rien, tous, personne, j~, leur</em>
 
 <table>

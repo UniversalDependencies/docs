@@ -54,7 +54,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): <em>20º</em>
-* `EMPTY` (57562): <em>óleo, água, figura, fluido, petróleo, gás, fluidos, produção, área, argila</em>
+* `EMPTY` (57561): <em>óleo, água, figura, fluido, petróleo, gás, fluidos, produção, área, argila</em>
 
 ## Relations with Agreement in `NumType`
 

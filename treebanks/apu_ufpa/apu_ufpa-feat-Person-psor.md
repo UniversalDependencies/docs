@@ -20,7 +20,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.h
 
 36 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (12% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (32; 89%), <tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=Yes</tt> (32; 89%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (30; 83%), <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (26; 72%), <tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=Nom</tt> (20; 56%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (32; 89%), <tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=Yes</tt> (32; 89%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (30; 83%), <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (26; 72%), <tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (21; 58%), <tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=Nom</tt> (20; 56%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 

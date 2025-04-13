@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_old-dep-flat.html">flat</a></tt>.
 There are also 2 other language-specific subtypes of `flat`: <tt><a href="it_old-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="it_old-dep-flat-redup.html">flat:redup</a></tt>.
 
-88 nodes (0%) are attached to their parents as `flat:name`.
+114 nodes (0%) are attached to their parents as `flat:name`.
 
-88 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.43181818181818.
+114 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.3859649122807.
 
-The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (72; 82% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (14; 16% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (98; 86% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (14; 12% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -37,39 +37,38 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 14 flat:name	color:blue
-1	Ver'	verso	ADP	eiskml	_	2	case	_	Canto=8|Verso=52
-2	me	me	PRON	pp1slco	Person=1|Poss=Yes|PronType=Prs	4	obl:lmod	_	Canto=8|Verso=52
-3	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	Canto=8|Verso=52
-4	fece	fare	VERB	vta+1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=8|SpaceAfter=No|Verso=52
-5	,	,	PUNCT	_	_	11	punct	_	_
-6	e	e	CCONJ	cscc	_	11	cc	_	Canto=8|Verso=52
-7	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	11	nsubj	_	Canto=8|Verso=52
-8	ver'	verso	ADP	eiskml	_	9	case	_	Canto=8|Verso=52
-9	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl:lmod	_	Canto=8|Verso=52
-10	mi	mi	PRON	pf1sypr	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	11	expl:pv	_	Canto=8|Verso=52
-11	fei	fare	VERB	vta+1irs2	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	Canto=8|SpaceAfter=No|Verso=52
-12	:	:	PUNCT	_	_	19	punct	_	_
-13	giudice	giudice	NOUN	sm3ms	Gender=Masc|Number=Sing	19	vocative	_	Canto=8|Verso=53
-14	Nin	Nino	PROPN	np	_	13	flat:name	_	Canto=8|Verso=53
-15	gentil	gentile	ADJ	a2ms	Gender=Masc|Number=Sing	13	amod	_	Canto=8|SpaceAfter=No|Verso=53
-16	,	,	PUNCT	_	_	19	punct	_	_
-17	quanto	quanto	ADV	b	_	19	advmod	_	Canto=8|Verso=53
-18	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	19	iobj	_	Canto=8|Verso=53
-19	piacque	piacere	VERB	vi2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	Canto=8|Verso=53
-20	quando	quando	SCONJ	csst	_	22	mark	_	Canto=8|Verso=54
-21	ti	ti	PRON	pp2syac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	22	obj	_	Canto=8|Verso=54
-22	vidi	vedere	VERB	vta2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	19	ccomp	_	Canto=8|Verso=54
-23	non	non	ADV	b	PronType=Neg	27	advmod:neg	_	Canto=8|Verso=54
-24	esser	essere	AUX	vi4fp	Tense=Pres|VerbForm=Inf	27	cop	_	Canto=8|Verso=54
-25	tra	tra	ADP	epsksl	_	27	case	_	Canto=8|Verso=54
-26	'	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	Canto=8|Verso=54
-27	rei	reo	NOUN	sm2mp	Gender=Masc|Number=Plur	22	ccomp	_	Canto=8|SpaceAfter=No|Verso=54
-28	!	!	PUNCT	_	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 flat:name	color:blue
+1	Vidi	vedere	VERB	vta2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=24|Verso=31
+2	messer	messere	NOUN	sm3ms	Gender=Masc|Number=Sing	1	obj	_	Canto=24|Verso=31
+3	Marchese	Marchese	PROPN	np	_	2	flat:name	_	Canto=24|SpaceAfter=No|Verso=31
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	ch'	che	PRON	pr	PronType=Rel	6	nsubj	_	Canto=24|Verso=31
+6	ebbe	avere	VERB	vta5irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:relcl	_	Canto=24|Verso=31
+7	spazio	spazio	NOUN	sm2ms	Gender=Masc|Number=Sing	6	obj	_	Canto=24|Verso=31
+8	già	già	ADV	b	_	10	advmod:tmod	_	Canto=24|Verso=32
+9	di	di	ADP	epsd	_	10	mark	_	Canto=24|Verso=32
+10	bere	bere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	7	acl	_	Canto=24|Verso=32
+11	a	a	ADP	epsksl	_	12	case	_	Canto=24|Verso=32
+12	Forlì	Forlì	PROPN	np	_	10	obl:lmod	_	Canto=24|Verso=32
+13	con	con	ADP	epskm	_	15	case	_	Canto=24|Verso=32
+14	men	meno	ADJ	a	_	15	amod	_	Canto=24|Verso=32
+15	secchezza	secchezza	NOUN	sf1fs	Gender=Fem|Number=Sing	10	obl	_	Canto=24|SpaceAfter=No|Verso=32
+16	,	,	PUNCT	_	_	20	punct	_	_
+17	e	e	CCONJ	cscc	_	20	cc	_	Canto=24|Verso=33
+18	sì	così	ADV	b	_	20	advmod	_	Canto=24|Verso=33
+19	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	cop	_	Canto=24|Verso=33
+20	tal	tale	DET	a2ms	Gender=Masc|Number=Sing	6	conj	_	Canto=24|SpaceAfter=No|Verso=33
+21	,	,	PUNCT	_	_	25	punct	_	_
+22	che	che	SCONJ	cssu	_	25	mark	_	Canto=24|Verso=33
+23	non	non	ADV	b	PronType=Neg	25	advmod:neg	_	Canto=24|Verso=33
+24	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	25	expl:pv	_	Canto=24|Verso=33
+25	sentì	sentire	VERB	vta+3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	advcl	_	Canto=24|Verso=33
+26	sazio	sazio	ADJ	a1ms	Gender=Masc|Number=Sing	25	xcomp	_	Canto=24|SpaceAfter=No|Verso=33
+27	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

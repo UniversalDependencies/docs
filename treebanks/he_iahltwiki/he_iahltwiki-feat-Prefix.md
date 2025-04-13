@@ -18,6 +18,8 @@ The feature is used with 2 part-of-speech tags: <tt><a href="he_iahltwiki-pos-AD
 
 122 <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Prefix`.
 
+The most frequent other feature values with which `ADV` and `Prefix` co-occurred: <tt><a href="he_iahltwiki-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (94; 77%).
+
 `ADV` tokens may have the following values of `Prefix`:
 
 * `Yes` (122; 100% of non-empty `Prefix`): אי, בלתי, בטא, גראם, פוסט, תת, דו, בינ, דה, קדם

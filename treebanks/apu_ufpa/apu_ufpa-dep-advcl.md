@@ -42,7 +42,7 @@ The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 6 4 advcl	color:blue
 1	Txamary	txamary	CCONJ	XPOS=AUX-FRUSTR	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	4	cc	_	gloss[pt]=AUX-FRUSTR-3SG.M.O
 2	nynuwa	nynuwa	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	det	_	gloss[pt]=3PL
-3	aapuku	awapukutxi	NOUN	XPOS=casa.de	Possessed=Yes	4	nsubj	_	gloss[pt]=casa.de
+3	aapuku	awapukutxi	NOUN	XPOS=casa.de	Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Possessed=Yes	4	nsubj	_	gloss[pt]=casa.de
 4	kiumãtxipeinhinhixika	kiumã	NOUN	XPOS=velho.de-N.POSSD-PFTV-SER-AFET-palha	_	6	advcl	_	gloss[pt]=velho.de-N.POSSD-PFTV-SER-AFET-palha|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	patsukarepyryna	tsuka	ADJ	XPOS=ATRIB.INTENS-??-POSSD-???	_	0	root	_	gloss[pt]=ATRIB.INTENS-??-POSSD-???

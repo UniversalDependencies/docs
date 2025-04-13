@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-71 nodes (2%) are attached to their parents as `det`.
+78 nodes (2%) are attached to their parents as `det`.
 
-44 instances of `det` (62%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.09859154929577.
+50 instances of `det` (64%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.08974358974359.
 
-The following 8 pairs of parts of speech are connected with `det`: <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (59; 83% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (5; 7% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `det`: <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (67; 86% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (5; 6% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -27,14 +27,14 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 3	Galmaːwaː	Galmaːwaː	PROPN	_	_	2	appos	_	AlignBegin=125801|AlignEnd=126102|Gloss=Galmaːwaː
 4	<	<	PUNCT	_	_	2	punct	_	AlignBegin=126102|AlignEnd=126403|Gloss=PUNCT
 5	àbin	àbiː	NOUN	_	Definite=Cons|Gender=Masc	13	obl	_	AlignBegin=126403|AlignEnd=126704|Gloss=thing.Masc.Cons
-6	dà	dà	SCONJ	_	_	7	mark	_	AlignBegin=126704|AlignEnd=127005|Gloss=REL
-7	an	kèːnan/aC	PART	_	_	5	acl:relcl	_	AlignBegin=127005|AlignEnd=127306|Background=Yes|Gloss=Ident/Foc.Bkg
-8	nan	nan	ADV	_	Definite=Def	7	xcomp	_	AlignBegin=127306|AlignEnd=127607|Gloss=Def
-9	<	<	PUNCT	_	_	7	punct	_	AlignBegin=127607|AlignEnd=127908|Gloss=PUNCT
+6	dà	dà	SCONJ	_	_	8	mark	_	AlignBegin=126704|AlignEnd=127005|Gloss=REL
+7	an	_	AUX	aC	_	8	cop	_	AlignBegin=127005|AlignEnd=127306|Background=Yes|Gloss=Ident/Foc.Bkg
+8	nan	nan	ADV	_	Definite=Def	5	acl:relcl	_	AlignBegin=127306|AlignEnd=127607|Gloss=Def
+9	<	<	PUNCT	_	_	8	punct	_	AlignBegin=127607|AlignEnd=127908|Gloss=PUNCT
 10	duy	dukà	DET	_	PronType=Tot	11	det	_	AlignBegin=127908|AlignEnd=128209|Gloss=all
 11	yawanciː	yawanciː	NOUN	_	_	13	nsubj	_	AlignBegin=128209|AlignEnd=128510|Gloss=majority
 12	Baːgayaːwaː	Baːgayaːwaː	PROPN	_	Number=Plur	13	xcomp	_	AlignBegin=128510|AlignEnd=128811|Gloss=Baːgayaːwaː
-13	nàː	neː/naː	PART	_	_	0	root	_	AlignBegin=128811|AlignEnd=129112|Gloss=Pred/Loc
+13	nàː	nàː	PART	_	_	0	root	_	AlignBegin=128811|AlignEnd=129112|Gloss=Pred/Loc
 14	//	//	PUNCT	_	_	13	punct	_	AlignBegin=129112|AlignEnd=129410|Gloss=PUNCT
 
 ~~~
@@ -46,7 +46,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 det	color:blue
-1	àkwai	àkwai	PART	_	_	5	dislocated	_	AlignBegin=356740|AlignEnd=356960|Gloss=there_is
+1	àkwai	àkwai	PART	_	_	5	parataxis	_	AlignBegin=356740|AlignEnd=356960|Gloss=there_is
 2	wata	wani	DET	_	Gender=Fem|PronType=Ind	3	det	_	AlignBegin=356960|AlignEnd=357180|Gloss=some.Fem
 3	zakkùwaː	zak-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	1	nsubj	_	AlignBegin=357180|AlignEnd=357400|Gloss=arrive.Vnoun.Fem
 4	naː	_	AUX	yaː	Aspect=Perf|Number=Sing|Person=1	5	aux	_	AlignBegin=357400|AlignEnd=357620|Gloss=1Sing.Perf
@@ -63,7 +63,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 det	color:blue
-1	ankà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Person=4	2	aux	_	AlignBegin=303260|AlignEnd=303416|Background=Yes|Gloss=4.Perf.Bkg
+1	ankà	_	AUX	yaC	Aspect=Perf|Person=4	2	aux	_	AlignBegin=303260|AlignEnd=303416|Background=Yes|Gloss=4.Perf.Bkg
 2	tàhi	tah-	VERB	_	_	0	root	_	AlignBegin=303416|AlignEnd=303572|Gloss=go
 3	dà	dà	ADP	_	_	4	case	_	AlignBegin=303572|AlignEnd=303728|Gloss=with
 4	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	obl:arg	_	AlignBegin=303728|AlignEnd=303884|Gloss=3Plur.Nom

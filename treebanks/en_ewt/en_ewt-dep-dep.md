@@ -34,9 +34,9 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 10	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
 11	dad	dad	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	_
 12	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	2:advcl:for	_
-13	nt	not	PART	RB	Typo=Yes	12	advmod	12:advmod	CorrectForm=n't
+13	nt	not	PART	RB	Polarity=Neg|Typo=Yes	12	advmod	12:advmod	CorrectForm=n't
 14	really	really	ADV	RB	_	12	advmod	12:advmod	_
-15	not	not	PART	RB	_	17	advmod	17:advmod	_
+15	not	not	PART	RB	Polarity=Neg	17	advmod	17:advmod	_
 16	that	that	ADV	RB	_	17	advmod	17:advmod	_
 17	good	good	ADV	RB	_	12	dep	12:dep	SpaceAfter=No
 18	.	.	PUNCT	.	_	2	punct	2:punct	_
@@ -64,7 +64,7 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 12	who	who	PRON	WP	PronType=Rel	13	nsubj	11:ref	_
 13	CARE	care	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	11:acl:relcl	Cxn=rc-wh-nsubj
 14	,	,	PUNCT	,	_	17	punct	17:punct	_
-15	Not	not	PART	RB	_	17	advmod	17:advmod	_
+15	Not	not	PART	RB	Polarity=Neg	17	advmod	17:advmod	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
 17	kind	kind	NOUN	NN	Number=Sing	11	conj	11:conj|19:obl	_
 18	of	of	ADP	IN	_	17	dep	17:dep	_

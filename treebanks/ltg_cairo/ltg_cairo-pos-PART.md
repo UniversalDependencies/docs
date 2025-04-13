@@ -37,7 +37,7 @@ The 3rd highest number of forms (1) was observed with the lemma “tik”: <em>t
 
 ## Relations
 
-`PART` nodes are attached to their parents using 1 different relations: <tt><a href="ltg_cairo-dep-discourse.html">discourse</a></tt> (5; 100% instances)
+`PART` nodes are attached to their parents using 3 different relations: <tt><a href="ltg_cairo-dep-advmod-emph.html">advmod:emph</a></tt> (2; 40% instances), <tt><a href="ltg_cairo-dep-discourse.html">discourse</a></tt> (2; 40% instances), <tt><a href="ltg_cairo-dep-advmod-neg.html">advmod:neg</a></tt> (1; 20% instances)
 
 Parents of `PART` nodes belong to 3 different parts of speech: <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (2; 40% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (2; 40% instances), <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> (1; 20% instances)
 

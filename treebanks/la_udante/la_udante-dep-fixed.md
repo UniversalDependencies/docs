@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-45 nodes (0%) are attached to their parents as `fixed`.
+44 nodes (0%) are attached to their parents as `fixed`.
 
-45 instances of `fixed` (100%) are left-to-right (parent precedes child).
+44 instances of `fixed` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (16; 36% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (13; 29% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (8; 18% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (4; 9% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (2; 4% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (2; 4% instances).
+The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (16; 36% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (12; 27% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (8; 18% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (4; 9% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (2; 5% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (2; 5% instances).
 
 
 ~~~ conllu

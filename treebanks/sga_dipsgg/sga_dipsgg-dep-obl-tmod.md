@@ -24,9 +24,9 @@ The following 1 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 4 obl:tmod	color:blue
 1	᚛	᚛	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	ᚃᚓᚏᚔᚐ	feria	NOUN	_	Foreign=Yes	0	root	_	_
+2	ᚃᚓᚏᚔᚐ	feria	NOUN	_	Foreign=Yes	0	root	_	Lang=la
 3	ᚉᚐᚔ	caí	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	_
-4	ᚆᚑᚇᚔᚓ	hodie	NOUN	_	Foreign=Yes	2	obl:tmod	_	_
+4	ᚆᚑᚇᚔᚓ	hodie	NOUN	_	Foreign=Yes	2	obl:tmod	_	Lang=la
 
 ~~~
 

@@ -22,14 +22,14 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nummod	color:blue
-1	In	in	ADP	IN	_	3	case	3:case	Discourse=context-circumstance:110->112:1:_
-2	fifteen	fifteen	NUM	CD	NumForm=Word|NumType=Card	3	nummod	3:nummod	Entity=(136-time-new-cf6-2-sgl
+1	In	in	ADP	IN	_	3	case	3:case	Discourse=context-circumstance:110->112:1:_|PDTB=Implicit:Temporal.Asynchronous.Precedence:then:_:856-861:862-875
+2	fifteen	fifteen	NUM	CD	NumForm=Word|NumType=Card	3	nummod	3:nummod	Entity=(136-time-new-cf6-2-sgl|MSeg=fif-teen
 3	minutes	minute	NOUN	NNS	Number=Plur	7	obl	7:obl:in	Entity=136)|MSeg=minute-s
 4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	7:nsubj	Entity=(69-person-giv:inact-cf1-1-ana)
 5	would	would	AUX	MD	VerbForm=Fin	7	aux	7:aux	_
 6	be	be	AUX	VB	VerbForm=Inf	7	cop	7:cop	_
 7	home	home	ADV	RB	Degree=Pos	0	root	0:root	Entity=(126-place-giv:inact-cf4-1-coref)
-8	and	and	CCONJ	CC	_	12	cc	12:cc	Discourse=joint-list_m:111->110:0:dm-and-869
+8	and	and	CCONJ	CC	_	12	cc	12:cc	Discourse=joint-list_m:111->110:0:dm-and-869|PDTB=Explicit:Expansion.Conjunction:and:869:862-868:870-875
 9	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	Entity=(25-person-giv:inact-cf3-2-coref(2-person-giv:inact-cf2-1-ana)
 10	mother	mother	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	Entity=25)
 11	would	would	AUX	MD	VerbForm=Fin	12	aux	12:aux	_

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_partut-dep-det.html">det</a></tt>.
 There are also 1 other language-specific subtypes of `det`: <tt><a href="it_partut-dep-det-predet.html">det:predet</a></tt>.
 
-560 nodes (1%) are attached to their parents as `det:poss`.
+559 nodes (1%) are attached to their parents as `det:poss`.
 
 550 instances of `det:poss` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.10178571428571.
+Average distance between parent and child is 1.10017889087657.
 
-The following 3 pairs of parts of speech are connected with `det:poss`: <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-DET.html">DET</a></tt> (553; 99% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_partut-pos-DET.html">DET</a></tt> (3; 1% instances).
+The following 3 pairs of parts of speech are connected with `det:poss`: <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-DET.html">DET</a></tt> (552; 99% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_partut-pos-DET.html">DET</a></tt> (3; 1% instances).
 
 
 ~~~ conllu

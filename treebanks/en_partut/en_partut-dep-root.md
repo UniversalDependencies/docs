@@ -22,7 +22,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 7 root	color:blue
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	7	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	7	vocative	_	_
 2	Berenguer	Berenguer	PROPN	SP	_	1	flat	_	_
 3	Fuster	Fuster	PROPN	SP	_	1	flat	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_

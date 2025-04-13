@@ -37,7 +37,7 @@ The following 6 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 8 punct	color:blue
-1	Игуасу	Игуасу	PROPN	_	_	3	nsubj	_	_
+1	Игуазу	Игуазу	PROPN	_	_	3	nsubj	_	_
 2	чоң	чоң	ADJ	_	_	3	amod	_	_
 3	ѳрѳѳн	ѳрѳѳн	NOUN	_	_	0	root	_	_
 4	бү	бы	PART	_	_	3	discourse	_	_

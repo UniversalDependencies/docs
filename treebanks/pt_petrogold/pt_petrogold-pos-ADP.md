@@ -66,7 +66,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="pt_petrogold-po
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.207547 (the average of all parts of speech is 1.452181).
+The form / lemma ratio of `ADP` is 1.207547 (the average of all parts of speech is 1.452143).
 
 The 1st highest number of forms (4) was observed with the lemma “de”: <em>de, des, e, se</em>.
 
@@ -81,7 +81,7 @@ The 3rd highest number of forms (2) was observed with the lemma “até”: <em>
 
 `ADP` nodes are attached to their parents using 9 different relations: <tt><a href="pt_petrogold-dep-case.html">case</a></tt> (38716; 89% instances), <tt><a href="pt_petrogold-dep-mark.html">mark</a></tt> (1676; 4% instances), <tt><a href="pt_petrogold-dep-fixed.html">fixed</a></tt> (1424; 3% instances), <tt><a href="pt_petrogold-dep-flat-name.html">flat:name</a></tt> (1031; 2% instances), <tt><a href="pt_petrogold-dep-obl.html">obl</a></tt> (357; 1% instances), <tt><a href="pt_petrogold-dep-cc.html">cc</a></tt> (84; 0% instances), <tt><a href="pt_petrogold-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="pt_petrogold-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="pt_petrogold-dep-appos.html">appos</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (34027; 79% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (4298; 10% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (2116; 5% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> (829; 2% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (620; 1% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (503; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (404; 1% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (239; 1% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (198; 0% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (41; 0% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (15; 0% instances),  (4; 0% instances)
+Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (34027; 79% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (4298; 10% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (2116; 5% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> (829; 2% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (621; 1% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (503; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (404; 1% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (239; 1% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (198; 0% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (40; 0% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (15; 0% instances),  (4; 0% instances)
 
 41846 (97%) `ADP` nodes are leaves.
 

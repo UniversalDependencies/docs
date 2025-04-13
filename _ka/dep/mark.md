@@ -11,4 +11,4 @@ A marker is the word introducing a finite clause subordinate to another clause. 
 ყველა ფიქრობს, რომ მას ეცოდინება ყველაფერი აკაკის ბავშვობის შესახებ. \n 'Everyone thinks that he will know everything about Akaki's childhood.'
 mark(ფიქრობს, რომ)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:18 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:00 CET -->

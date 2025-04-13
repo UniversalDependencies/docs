@@ -70,17 +70,17 @@ The 10 most frequent ambiguous types:  <em>'s</em> (<tt><a href="gd_arcosg-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 10.000000 (the average of all parts of speech is 1.302372).
+The form / lemma ratio of `AUX` is 10.000000 (the average of all parts of speech is 1.302531).
 
 The 1st highest number of forms (15) was observed with the lemma “is”: <em>'s, an, as, b', bu, b’, cha, chan, gun, gur, is, nach, s, ‘s, ’s</em>.
 
 The 2nd highest number of forms (5) was observed with the lemma “rach”: <em>chaidh, deach, rachadh, thèid, tèid</em>.
 
-`AUX` occurs with 5 features: <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt> (1312; 99% instances), <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt> (301; 23% instances), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt> (75; 6% instances), <tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt> (66; 5% instances), <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt> (1; 0% instances)
+`AUX` occurs with 6 features: <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt> (1312; 99% instances), <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt> (301; 23% instances), <tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt> (214; 16% instances), <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt> (153; 12% instances), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt> (75; 6% instances), <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt> (1; 0% instances)
 
-`AUX` occurs with 9 feature-value pairs: `Mood=Cnd`, `Mood=Int`, `Person=0`, `Polarity=Aff`, `Polarity=Neg`, `PronType=Rel`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`
+`AUX` occurs with 10 feature-value pairs: `Mood=Ind`, `Mood=Int`, `Person=0`, `Polarity=Aff`, `Polarity=Neg`, `PronType=Rel`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`
 
-`AUX` occurs with 11 feature combinations.
+`AUX` occurs with 12 feature combinations.
 The most frequent feature combination is `Tense=Pres` (528 tokens).
 Examples: <em>'s, is, gur, as, chan, nach, an, cha, ‘s, gun</em>
 

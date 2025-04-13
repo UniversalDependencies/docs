@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-284 nodes (0%) are attached to their parents as `ccomp`.
+551 nodes (0%) are attached to their parents as `ccomp`.
 
-272 instances of `ccomp` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.14788732394366.
+531 instances of `ccomp` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.47912885662432.
 
-The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (224; 79% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (19; 7% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (12; 4% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (11; 4% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (426; 77% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (36; 7% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (31; 6% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (17; 3% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (11; 2% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -57,29 +57,26 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 12 ccomp	color:blue
-1	Не	не	PART	_	Polarity=Neg	2	advmod	_	_
-2	ведаете	вѣдати	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	ли	ли	PART	_	_	2	advmod	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	12	punct	_	_
-5	что	что	SCONJ	_	_	12	mark	_	_
-6	всее	весь	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	8	det	_	_
-7	Русские	русский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
-8	земли	земля	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
-9	владыки	владыка	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	_
-10	под	подъ	ADP	_	_	12	case	_	_
-11	моею	мой	DET	_	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det	_	_
-12	властию	власть	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	2	ccomp	_	_
-13	суть	быти	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
-14	и	и	CCONJ	_	_	17	cc	_	_
-15	в	въ	ADP	_	_	17	case	_	_
-16	моей	мой	DET	_	Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	17	det	_	_
-17	воли	воля	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
-18	?	?	PUNCT	_	_	2	punct	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 13 ccomp	color:blue
+1	О	о	ADP	_	_	2	case	_	norm="О"|check=@
+2	сем	сие	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	norm="сем"|Decl=X|End=ме|check=@
+3	иныя	иной	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	4	det	_	norm="иныя"|Decl=X|End=яы|check=@
+4	летописцы	лѣтописецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	norm="летописцы"|Decl=2|End=ы|check=@
+5	сумневаются	сумнѣватися	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	norm="сумневаются"|Decl=X|End=ястю
+6	и	и	CCONJ	_	_	7	cc	_	norm="и"
+7	глаголют	глаголати	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	norm="глаголют"|Decl=X|End=тю|SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	norm=","
+9	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	13	det	_	norm="что"
+10	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	13	aux	_	norm="бы"|Decl=X|End=0
+11	то	то	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	13	nsubj	_	norm="то"|Decl=X|End=о
+12	за	за	ADP	_	_	13	case	_	norm="за"|check=@
+13	дивы	диво	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	7	ccomp	_	norm="дивы"|Decl=2|End=ы|check=@
+14	были	быти	AUX	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	13	cop	_	norm="были"|Decl=X|End=ил|SpaceAfter=No
+15	?	?	PUNCT	_	_	5	punct	_	norm="?"
 
 ~~~
 

@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (6; 100% of non-empty `Abbr`): <em>f.Kr., ca, e.Kr.</em>
-* `EMPTY` (1012): <em>så, mer, in, ut, där, också, upp, bara, fram, här</em>
+* `EMPTY` (1006): <em>så, mer, in, ut, där, också, upp, bara, fram, här</em>
 
 ### `ADJ`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>St.</em>
-* `EMPTY` (1566): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, samma</em>
+* `EMPTY` (1570): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, samma</em>
 
 ### `CCONJ`
 

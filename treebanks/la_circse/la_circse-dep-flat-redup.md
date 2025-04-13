@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_circse-dep-flat.html">flat</a></tt>.
 There are also 2 other language-specific subtypes of `flat`: <tt><a href="la_circse-dep-flat-gov.html">flat:gov</a></tt>, <tt><a href="la_circse-dep-flat-name.html">flat:name</a></tt>.
 
-14 nodes (0%) are attached to their parents as `flat:redup`.
+13 nodes (0%) are attached to their parents as `flat:redup`.
 
-14 instances of `flat:redup` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.71428571428571.
+13 instances of `flat:redup` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.76923076923077.
 
-The following 6 pairs of parts of speech are connected with `flat:redup`: <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (5; 36% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (4; 29% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (2; 14% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 7% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 7% instances).
+The following 5 pairs of parts of speech are connected with `flat:redup`: <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (5; 38% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (4; 31% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (2; 15% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 6 pairs of parts of speech are connected with `flat:redup`: <tt><a
 1	sic	sic	ADV	M	Degree=Pos	3	advmod	_	LiLaflcat=i
 2	sic	sic	ADV	M	Degree=Pos	1	flat:redup	_	LiLaflcat=i
 3	agendum	ago	VERB	B3	Aspect=Prosp|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Gdv|Voice=Pass	0	root	_	LiLaflcat=v3
-4	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	LASLAVariant=1|LiLaflcat=v6
+4	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	LASLAVariant=1|LiLaflcat=v6
 5	inferis	inferi	NOUN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Plur	6	obl:arg	_	LiLaflcat=n2
 6	reddam	reddo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	_	LiLaflcat=v3
 7	Herculem	hercules	PROPN	A3	Case=Acc|Gender=Masc|InflClass=IndEurI|NameType=Giv|Number=Sing	6	obj	_	LASLAVariant=N|LiLaflcat=n3

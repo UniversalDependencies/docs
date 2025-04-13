@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>hantuzis</em> (<tt><a href="olo_kkpp-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.100000 (the average of all parts of speech is 1.338462).
+The form / lemma ratio of `ADP` is 1.100000 (the average of all parts of speech is 1.335034).
 
 The 1st highest number of forms (2) was observed with the lemma “piäs”: <em>päs, pääs</em>.
 

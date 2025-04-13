@@ -24,15 +24,15 @@ The following 38 pairs of parts of speech are connected with `reparandum`: <tt><
 # visual-style 5 3 reparandum	color:blue
 1	carson	carson	PRON	Uq	PronType=Int	0	root	_	_
 2	nach	nach	PART	Qnr	PartType=Vb|Polarity=Neg|PronType=Rel	3	obl	_	_
-3	gabh	gabh	VERB	V-f--d	Tense=Fut	5	reparandum	_	_
-4	thu	thu	PRON	Pp2s	Number=Sing|Person=2	3	nsubj	_	_
-5	gearr	gearr	VERB	V-f--d	Tense=Fut	1	acl:relcl	_	_
-6	thu	thu	PRON	Pp2s	Number=Sing|Person=2	5	nsubj	_	_
+3	gabh	gabh	VERB	V-f--d	Mood=Ind|Tense=Fut|VerbForm=Fin	5	reparandum	_	_
+4	thu	thu	PRON	Pp2s	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+5	gearr	gearr	VERB	V-f--d	Mood=Ind|Tense=Fut|VerbForm=Fin	1	acl:relcl	_	_
+6	thu	thu	PRON	Pp2s	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
 7	am	an	DET	Tds	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
 8	pie	pie	NOUN	Xfe	Foreign=Yes	5	obj	_	_
 9	aig	aig	ADP	Sp	_	10	case	_	_
-10	thu	thu	PRON	Pp2s	Number=Sing|Person=2	8	nmod	_	_
-11	fhèin	fèin	PRON	Px	Reflex=Yes	10	nmod	_	SpaceAfter=No
+10	thu	thu	PRON	Pp2s	Number=Sing|Person=2|PronType=Prs	8	nmod	_	_
+11	fhèin	fèin	PRON	Px	PronType=Prs|Reflex=Yes	10	nmod	_	SpaceAfter=No
 12	?	?	PUNCT	Fg	_	5	punct	_	_
 
 ~~~
@@ -63,10 +63,10 @@ The following 38 pairs of parts of speech are connected with `reparandum`: <tt><
 4	taca	taca	ADP	Nf	_	3	fixed	_	_
 5	ris	ri	ADP	Sp	_	3	fixed	_	_
 6	na	na	PRON	Q-r	PronType=Rel	9	reparandum	_	_
-7	bha	bi	VERB	V-s	Tense=Past	6	acl:relcl	_	_
+7	bha	bi	VERB	V-s	Mood=Ind|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
 8	si	si	X	Xsi	_	7	nsubj	_	_
 9	na	na	PRON	Q-r	PronType=Rel	0	root	_	_
-10	bhathar	bathar	VERB	V-s0	Person=0|Tense=Past	9	acl:relcl	_	_
+10	bhathar	bathar	VERB	V-s0	Mood=Ind|Person=0|Tense=Past|VerbForm=Fin	9	acl:relcl	_	_
 11	a'	ag	PART	Sa	_	12	case	_	_
 12	toir	toir	NOUN	Nv	VerbForm=Vnoun	10	xcomp:pred	_	_
 13	a-steach	a-steach	ADV	Rs	_	12	advmod	_	_

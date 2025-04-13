@@ -45,7 +45,7 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 mark	color:blue
-1	Афи	аф	AUX	Aux	Clitic=I|Polarity=Neg	2	aux:neg	_	_
+1	Афи	аф	AUX	Aux	Clitic=I|Polarity=Neg	2	aux	_	_
 2	шарьхкодень	шарьхкодемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	5	punct	_	_
 4	кода	кода	ADV	Adv	_	5	mark	_	_

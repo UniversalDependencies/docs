@@ -33,7 +33,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 9	juntos	junto	ADJ	JJ	Gender=Masc|Number=Plur	11	acl	_	_
 10	ambos	ambo	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Tot	11	det	_	_
 11	dramaturgos	dramaturgo	NOUN	NN	Gender=Masc|Number=Plur	8	nsubj	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	3	punct	_	_
+12	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -58,7 +58,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 12	objetivo	objetivo	NOUN	NN	Gender=Masc|Number=Sing	9	acl:relcl	_	_
 13	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 14	Homero	Homero	PROPN	NNP	Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
-15	.	.	PUNCT	.	_	5	punct	_	_
+15	.	.	PUNCT	.	PunctType=Peri	5	punct	_	_
 
 ~~~
 

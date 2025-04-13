@@ -55,8 +55,8 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 31	:	:	PUNCT	fd	PunctType=Colo	35	punct	35:punct	_
 32	"	"	PUNCT	fe	PunctType=Quot	35	punct	35:punct	SpaceAfter=No
 33	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	35	punct	35:punct	SpaceAfter=No
-34	Cuál	cuál	PRON	pt0cs000	Number=Sing|PronType=Int	35	nsubj	35:nsubj	ArgTem=arg1:tem
-35	ha	haber	VERB	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	4:parataxis	_
+34	Cuál	cuál	PRON	pt0cs000	Number=Sing|PronType=Int	35	nsubj	35:nsubj	ArgTem=arg1:tem|CxnElt=35:Interrogative-WHInfo-Direct.WHWord
+35	ha	haber	VERB	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	4:parataxis	Cxn=Interrogative-WHInfo-Direct|CxnElt=35:Interrogative-WHInfo-Direct.Clause
 36	de	de	ADP	sps00	_	37	mark	37:mark	_
 37	ser	ser	AUX	vsn0000	VerbForm=Inf	35	xcomp	35:xcomp	SpaceAfter=No
 38	,	,	PUNCT	fc	PunctType=Comm	40	punct	40:punct	_

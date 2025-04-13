@@ -34,4 +34,4 @@ case(ücret, –siz)
 ~~~
 
 For possessive constructions we use [nmod:poss](nmod-poss).
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:21 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:02 CET -->

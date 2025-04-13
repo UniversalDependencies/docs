@@ -26,4 +26,4 @@ flat(Armen, Tigranyan)
 nsubj(կարմիր, Մեքենան)
 nsubj(red, Car)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:26 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:07 CET -->

@@ -63,9 +63,9 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 8	Gespräche	Gespräch	NOUN	NN	Gender=Neut|Number=Plur	9	obj	_	_
 9	möchten	mögen	AUX	VMFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	13	ccomp	_	_
 10	,	,	PUNCT	$,	PunctType=Comm	9	punct	_	_
-11	wo	wo	ADV	PWAV	PronType=Int	13	advmod	_	_
+11	wo	wo	ADV	PWAV	PronType=Int	13	advmod	_	CxnElt=13:Interrogative-WHInfo-Direct.WHWord
 12	bitte	bitte	INTJ	ITJ	_	13	discourse	_	_
-13	sind	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	sind	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Cxn=Interrogative-WHInfo-Direct|CxnElt=13:Interrogative-WHInfo-Direct.Clause
 14	denn	denn	ADV	ADV	_	13	advmod	_	_
 15	die	der	DET	ART	Case=Nom|Definite=Def|Number=Plur|PronType=Art	16	det	_	_
 16	BI'n	unknown	NOUN	NN	_	13	nsubj	_	_

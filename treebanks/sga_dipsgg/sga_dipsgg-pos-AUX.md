@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Old_Irish-DipSGG: POS Tags: `AUX`
 
 There are 1 `AUX` lemmas (0%), 6 `AUX` types (2%) and 17 `AUX` tokens (4%).
-Out of 16 observed tags, the rank of `AUX` is: 15 in number of lemmas, 11 in number of types and 10 in number of tokens.
+Out of 16 observed tags, the rank of `AUX` is: 15 in number of lemmas, 12 in number of types and 10 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>is</em>
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>d</em> (<tt><a href="sga_dipsgg-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 6.000000 (the average of all parts of speech is 1.261062).
+The form / lemma ratio of `AUX` is 6.000000 (the average of all parts of speech is 1.295652).
 
 The 1st highest number of forms (6) was observed with the lemma “is”: <em>bid, bith, d, is, mba, ní</em>.
 

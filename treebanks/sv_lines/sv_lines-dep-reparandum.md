@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 2	var	vara	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	precis	precis	ADV	_	_	9	advmod	_	_
 4	som	som	SCONJ	_	_	9	mark	_	_
-5	om	om	SCONJ	_	_	4	fixed	_	_
+5	om	om	SCONJ	_	_	9	mark	_	_
 6	jag	jag	PRON	PERS-P1SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	9	nsubj:pass	_	_
 7	hade	ha	AUX	PAST-AUX	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	9	aux	_	_
 8	blivit	bli	AUX	SUP-AUX	VerbForm=Sup|Voice=Act	9	aux:pass	_	_
@@ -39,7 +39,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 15	–	–	PUNCT	Dash	_	17	punct	_	_
 16	jag	jag	PRON	PERS-P1SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	17	nsubj	_	_
 17	vet	veta	VERB	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	24	parataxis	_	_
-18	inte	inte	PART	NEG	_	17	advmod	_	_
+18	inte	inte	PART	NEG	Polarity=Neg	17	advmod	_	_
 19	hur	hur	ADV	WH	PronType=Int	22	advmod	_	_
 20	jag	jag	PRON	PERS-P1SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	22	nsubj	_	_
 21	ska	skola	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	22	aux	_	_
@@ -70,7 +70,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 10 7 reparandum	color:blue
 1	Ni	ni	PRON	PERS-P2PL-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	2	nsubj	_	_
 2	anar	ana	VERB	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	inte	inte	PART	NEG	_	2	advmod	_	_
+3	inte	inte	PART	NEG	Polarity=Neg	2	advmod	_	_
 4	hur	hur	ADV	WH	PronType=Int	5	advmod	_	_
 5	effektiv	effektiv	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	ccomp	_	_
 6	en	en	DET	SG-IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	7	det	_	_
@@ -108,8 +108,8 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 13	med	med	ADP	_	_	14	case	_	_
 14	handflatan	handflata	NOUN	SG-DEF-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	8	obl	_	_
 15	utåt	utåt	ADV	_	_	14	advmod	_	_
-16	så	så	ADV	_	_	23	mark	_	_
-17	att	att	SCONJ	_	_	16	fixed	_	_
+16	så	så	ADV	_	_	23	advmod	_	_
+17	att	att	SCONJ	_	_	23	mark	_	_
 18	han	han	PRON	PERS-P3SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	23	nsubj	_	_
 19	med	med	ADP	_	_	22	case	_	_
 20	sina	sin	PRON	RFL-PL-GEN	Case=Gen|Definite=Def|Number=Plur|Poss=Yes|PronType=Prs	22	nmod:poss	_	_

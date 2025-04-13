@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Hebrew-IAHLTwiki: Relations: `nmod:poss`
 
 This relation is a language-specific subtype of <tt><a href="he_iahltwiki-dep-nmod.html">nmod</a></tt>.
-There are also 2 other language-specific subtypes of `nmod`: <tt><a href="he_iahltwiki-dep-nmod-npmod.html">nmod:npmod</a></tt>, <tt><a href="he_iahltwiki-dep-nmod-tmod.html">nmod:tmod</a></tt>.
+There are also 1 other language-specific subtypes of `nmod`: <tt><a href="he_iahltwiki-dep-nmod-unmarked.html">nmod:unmarked</a></tt>.
 
 4459 nodes (3%) are attached to their parents as `nmod:poss`.
 
@@ -29,7 +29,7 @@ The following 36 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 4	מגדיל	מגדיל	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	1	nmod	_	_
 5	נפח	נפח	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	4	compound	_	_
 6	דם	דם	NOUN	NOUN	Gender=Masc|Number=Sing	5	compound	_	_
-7	לא	לא	ADV	ADV	_	8	advmod	_	_
+7	לא	לא	ADV	ADV	Polarity=Neg	8	advmod	_	_
 8	מומלץ	מומלץ	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
@@ -71,11 +71,11 @@ The following 36 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 3	צאצאי	צאצא	NOUN	NOUN	Gender=Masc|Number=Plur	1	nmod	_	_
 4	ו	הוא	PRON	PRON	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	_
 5	של	של	ADP	ADP	Case=Gen	6	case	_	_
-6	מנדלי	מנדלי	PROPN	PROPN	_	3	nmod:poss	_	_
+6	מנדלי	מנדלי	PROPN	PROPN	_	3	nmod:poss	_	Entity=(PER)
 7	ה	ה	SCONJ	SCONJ	_	8	mark	_	_
 8	מתגוררים	התגורר	VERB	VERB	Gender=Masc|HebBinyan=HITPAEL|Number=Plur|Person=3|Tense=Pres|VerbForm=Part|Voice=Mid	3	acl:relcl	_	_
 9	ב	ב	ADP	ADP	_	10	case	_	_
-10	בלגיה	בלגיה	PROPN	PROPN	_	8	obl	_	_
+10	בלגיה	בלגיה	PROPN	PROPN	_	8	obl	_	Entity=(GPE)
 11	הם	הוא	PRON	PRON	Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	cop	_	_
 12	נוצרים	נוצרי	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	_
 13	אדוקים	אדוק	ADJ	ADJ	Gender=Masc|Number=Plur	12	amod	_	SpaceAfter=No

@@ -24,7 +24,7 @@ The following 11 pairs of parts of speech are connected with `mark:q`: <tt><a hr
 # visual-style 3 1 mark:q	color:blue
 1	האם	האם	ADV	ADV	PronType=Int	3	mark:q	_	_
 2	אתם	הוא	PRON	PRON	Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
-3	יכולים	יכול	VERB	VERB	Gender=Masc|Number=Plur|Person=1,2,3|VerbForm=Part	0	root	_	Modal=Yes
+3	יכולים	יכול	VERB	VERB	Gender=Masc|Number=Plur|Person=1,2,3|VerbForm=Part	0	root	_	Cxn=Interrogative-Polar-Direct|CxnElt=3:Interrogative-Polar-Direct.Clause|Modal=Yes
 4	להתעלות	התעלה	VERB	VERB	HebBinyan=HITPAEL|VerbForm=Inf	3	xcomp	_	_
 5	על	על	ADP	ADP	_	6	case	_	_
 6	כך	כך	PRON	PRON	Person=3|PronType=Dem	4	obl	_	SpaceAfter=No
@@ -41,7 +41,7 @@ The following 11 pairs of parts of speech are connected with `mark:q`: <tt><a hr
 # visual-style 3 1 mark:q	color:blue
 1	האם	האם	ADV	ADV	PronType=Int	3	mark:q	_	_
 2	זאבי	זאבי	PROPN	PROPN	_	3	nsubj	_	_
-3	חייב	חייב	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	Modal=Yes
+3	חייב	חייב	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	Cxn=Interrogative-Polar-Direct|CxnElt=3:Interrogative-Polar-Direct.Clause|Modal=Yes
 4	את	את	ADP	ADP	Case=Acc	5	case:acc	_	_
 5	מושב_	מושב	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	3	obj	_	_
 6	_של_	של	ADP	ADP	_	7	case:gen	_	_
@@ -64,7 +64,7 @@ The following 11 pairs of parts of speech are connected with `mark:q`: <tt><a hr
 # visual-style 3 2 mark:q	color:blue
 1	אך	אך	CCONJ	CCONJ	_	3	cc	_	_
 2	האם	האם	ADV	ADV	PronType=Int	3	mark:q	_	_
-3	אפשר	אפשר	ADV	ADV	_	0	root	_	Modal=Yes
+3	אפשר	אפשר	ADV	ADV	_	0	root	_	Cxn=Interrogative-Polar-Direct|CxnElt=3:Interrogative-Polar-Direct.Clause|Modal=Yes
 4	לא	לא	ADV	ADV	Polarity=Neg	3	advmod	_	_
 5	להשמיץ	השמיץ	VERB	VERB	HebBinyan=HIFIL|VerbForm=Inf|Voice=Act	3	xcomp	_	_
 6	קלות	קלות	ADV	ADV	_	5	advmod	_	SpaceAfter=No

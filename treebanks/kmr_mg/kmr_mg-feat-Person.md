@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
 1856 tokens (18%) have a non-empty value of `Person`.
-533 types (19%) occur at least once with a non-empty value of `Person`.
-153 lemmas (8%) occur at least once with a non-empty value of `Person`.
+534 types (19%) occur at least once with a non-empty value of `Person`.
+155 lemmas (9%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (903; 9% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (540; 5% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (412; 4% instances), <tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `VERB`

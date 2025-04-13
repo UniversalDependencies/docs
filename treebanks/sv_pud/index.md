@@ -12,15 +12,15 @@ udver: '2'
 # UD Swedish PUD
 
 Language: [Swedish](/sv/index.html) (code: `sv`)<br/>
-Family: Indo-European, Germanic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Joakim Nivre, Bernadeta Griciūtė, Victor Norrman.
 
 Repository: [UD_Swedish-PUD](https://github.com/UniversalDependencies/UD_Swedish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_pud214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_pud215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -34,10 +34,10 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | assigned by a program, with extensive manual and semi-automatic corrections, but not a full manual verification |
+| Lemmas | assigned by a program, with some manual corrections, but not a full manual verification |
 | UPOS | assigned by a program, with some manual corrections, but not a full manual verification |
 | XPOS | assigned by a program, with some manual corrections, but not a full manual verification |
-| Features | assigned by a program, with extensive manual and semi-automatic corrections, but not a full manual verification |
+| Features | assigned by a program, with some manual corrections, but not a full manual verification |
 | Relations | annotated manually, natively in UD style |
 
 ## Description
@@ -58,9 +58,9 @@ Translations were produced by Jacob Nolskog at Teknotrans AB and checked by Joak
 Nivre. The automatic annotation was carried out using SwePipe, a tool suite trained
 on the Stockholm-Umeå Corpus and the Swedish-TP treebank, developed by Robert Östling,
 Aaron Smith and Joakim, and available from https://github.com/robertostling/efselab.
-The syntactic annotation was checked and corrected manually by Joakim Nivre. 
+The syntactic annotation was checked and corrected manually by Joakim Nivre.
 The morphological annotation was checked and corrected by Bernadeta Griciūtė.
-Later, a semi-automatic correction of features and lemmas was done by 
+Later, a semi-automatic correction of features and lemmas was done by
 Victor Norrman and Joakim Nivre.
 
 
@@ -159,6 +159,7 @@ Victor Norrman and Joakim Nivre.
   <li>Part
   <ul>
     <li>ADJ: betydande, följande, kända, sett, allierade, förenta, känd, levande, omfattande, regisserad</li>
+    <li>VERB: Breaking</li>
   </ul>
   </li>
 </ul>
@@ -187,7 +188,7 @@ Victor Norrman and Joakim Nivre.
       <li>DET: en, den, denna, någon, ingen, all, ett, vilken</li>
       <li>NOUN: personer, miljoner, grund, oktober, världen, del, delen, tiden, plats, dollar</li>
       <li>NUM: en</li>
-      <li>PRON: han, jag, sin, hon, den, vi, honom, en, du, henne</li>
+      <li>PRON: han, jag, sin, den, hon, vi, honom, en, du, henne</li>
       <li>PROPN: Karels, låglandseuropa</li>
     </ul>
   </li>
@@ -196,7 +197,7 @@ Victor Norrman and Joakim Nivre.
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: annat, nytt, otroligt, sett, öppet, allmänt, möjligt, stort, dåligt, eget</li>
+      <li>ADJ: annat, nytt, otroligt, sett, öppet, allmänt, möjligt, dåligt, eget, klart</li>
       <li>ADJ-Part: sett, Format, begränsat, bevakat, beväpnat, delat, drivet, färdigställt, följt, förbättrat</li>
       <li>DET: ett, det, detta, något, inget, vilket, allt</li>
       <li>NOUN: år, havet, fall, kriget, liv, antal, barn, åren, land, slutet</li>
@@ -233,7 +234,7 @@ Victor Norrman and Joakim Nivre.
       <li>DET: en, den, ett, det, denna, varje, detta, någon, något, ingen</li>
       <li>NOUN: havet, år, grund, oktober, världen, del, delen, kriget, liv, tiden</li>
       <li>NUM: en, ett</li>
-      <li>PRON: det, han, jag, sin, hon, den, detta, honom, sitt, vad</li>
+      <li>PRON: det, han, jag, sin, den, hon, detta, honom, sitt, vad</li>
       <li>PROPN: North, Punta, Amazon, Cuaron, Karels, Korint, Krasnoyarsk, MahaNakhon, Panamanäset, Slack</li>
     </ul>
   </li>
@@ -287,7 +288,7 @@ Victor Norrman and Joakim Nivre.
       <li>ADJ-Part: allierade, misstänkte, Förenade, bildade, bundna, frusna, frånskilda, föreslagna, hyllade, idealiserade</li>
       <li>DET: den, de, det, denna, the, dessa, detta, a, båda, Die</li>
       <li>NOUN: havet, världen, delen, kriget, tiden, gången, regeringen, regionen, staden, åren</li>
-      <li>PRON: det, han, de, sig, hans, jag, sin, hon, den, sina</li>
+      <li>PRON: det, han, de, sig, hans, jag, sin, den, hon, sina</li>
       <li>PROPN: Panamanäset</li>
     </ul>
   </li>
@@ -336,8 +337,8 @@ Victor Norrman and Joakim Nivre.
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: senaste, sista, högsta, största, bästa, främsta, bäst, flesta, värsta, bredast</li>
-      <li>ADV: mest, sist, främst, värst, Minst, helst, ytterst, knappast</li>
+      <li>ADJ: senaste, sista, högsta, största, bästa, främsta, sist, bäst, flesta, värsta</li>
+      <li>ADV: mest, främst, sist, värst, Minst, helst, ytterst, knappast</li>
     </ul>
   </li>
 </ul>
@@ -473,7 +474,7 @@ Victor Norrman and Joakim Nivre.
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: det, de, den, dem</li>
+      <li>PRON: det, de, den, dem, dess</li>
     </ul>
   </li>
 </ul>
@@ -548,8 +549,7 @@ Victor Norrman and Joakim Nivre.
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: American, National, New, Breaking, Civil, Environmental, First, Golden, Royal, Shaky</li>
-          <li>ADJ-Part: Breaking</li>
+          <li>ADJ: American, National, New, Civil, Environmental, First, Golden, Royal, Shaky, Simple</li>
           <li>ADP: Over</li>
           <li>NOUN: Business, Ground, Protection, Return, Services, Show, Things, View, Zimmer, concept</li>
           <li>PRON: 'Ya, My</li>
@@ -585,13 +585,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(On) (1)</li>
       <li>VERB-Fin--NOUN-Nom (362)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(runt) (1)</li>
-      <li>VERB-Fin--PRON (183)</li>
+      <li>VERB-Fin--PRON (187)</li>
       <li>VERB-Fin--PRON-Nom (179)</li>
       <li>VERB-Inf--NOUN (1)</li>
       <li>VERB-Inf--NOUN-Nom (52)</li>
       <li>VERB-Inf--PRON (27)</li>
       <li>VERB-Inf--PRON-Nom (42)</li>
-      <li>VERB-Sup--NOUN-Nom (53)</li>
+      <li>VERB-Sup--NOUN-Nom (52)</li>
       <li>VERB-Sup--PRON (26)</li>
       <li>VERB-Sup--PRON-Nom (26)</li>
     </ul>
@@ -603,14 +603,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (2)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
-      <li>VERB-Fin--NOUN-Nom (378)</li>
-      <li>VERB-Fin--PRON (26)</li>
+      <li>VERB-Fin--NOUN-Nom (379)</li>
+      <li>VERB-Fin--PRON (27)</li>
       <li>VERB-Fin--PRON-Acc (52)</li>
       <li>VERB-Inf--NOUN (2)</li>
-      <li>VERB-Inf--NOUN-Nom (251)</li>
+      <li>VERB-Inf--NOUN-Nom (250)</li>
       <li>VERB-Inf--PRON (20)</li>
       <li>VERB-Inf--PRON-Acc (13)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
+      <li>VERB-Part--NOUN (1)</li>
       <li>VERB-Sup--NOUN (1)</li>
       <li>VERB-Sup--NOUN-Nom (60)</li>
       <li>VERB-Sup--NOUN-Nom-ADP(på) (1)</li>

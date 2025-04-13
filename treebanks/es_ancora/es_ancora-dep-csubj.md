@@ -31,9 +31,9 @@ The following 28 pairs of parts of speech are connected with `csubj`: <tt><a hre
 6	no	no	ADV	rn	Polarity=Neg	8	advmod	8:advmod	_
 7	se	él	PRON	p0000000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pass	8:expl:pass	_
 8	sabe	saber	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-9	dónde	dónde	ADV	pt000000	PronType=Int	11	advmod	11:advmod	ArgTem=argM:loc
+9	dónde	dónde	ADV	pt000000	PronType=Int	11	advmod	11:advmod	ArgTem=argM:loc|CxnElt=11:Interrogative-WHInfo-Indirect.WHWord
 10	puede	poder	AUX	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
-11	llegar	llegar	VERB	vmn0000	VerbForm=Inf	8	csubj	8:csubj	SpaceAfter=No|ArgTem=arg1:pat
+11	llegar	llegar	VERB	vmn0000	VerbForm=Inf	8	csubj	8:csubj	SpaceAfter=No|ArgTem=arg1:pat|Cxn=Interrogative-WHInfo-Indirect|CxnElt=11:Interrogative-WHInfo-Indirect.Clause
 12	.	.	PUNCT	fp	PunctType=Peri	8	punct	8:punct	_
 
 ~~~

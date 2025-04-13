@@ -23,4 +23,4 @@ In Bamana, the relation `parataxis:obj` is used for a direct speech.
 'He said: "There is no problem"'.
 
 For indirect speech, we use the [ccomp]() relation between the verb introducing the speech and the governor of the reported speech.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:45 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:25 CET -->

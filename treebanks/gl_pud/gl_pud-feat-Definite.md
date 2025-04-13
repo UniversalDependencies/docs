@@ -43,7 +43,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 `PRON` tokens may have the following values of `Definite`:
 
 * `Def` (2; 100% of non-empty `Definite`): <em>a, o</em>
-* `EMPTY` (936): <em>se, que, lle, o, isto, el, un, iso, a, ela</em>
+* `EMPTY` (939): <em>se, que, lle, o, isto, el, un, iso, a, ela</em>
 
 ## Relations with Agreement in `Definite`
 

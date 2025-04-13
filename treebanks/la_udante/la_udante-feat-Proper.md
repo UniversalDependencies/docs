@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-771 tokens (1%) have a non-empty value of `Proper`.
-239 types (2%) occur at least once with a non-empty value of `Proper`.
-153 lemmas (3%) occur at least once with a non-empty value of `Proper`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (649; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (52; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (35; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (13; 0% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (9; 0% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+764 tokens (1%) have a non-empty value of `Proper`.
+238 types (2%) occur at least once with a non-empty value of `Proper`.
+152 lemmas (3%) occur at least once with a non-empty value of `Proper`.
+The feature is used with 8 part-of-speech tags: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (649; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (52; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (34; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (13; 0% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -40,11 +40,11 @@ The most frequent other feature values with which `ADJ` and `Proper` co-occurred
 
 ### `ADP`
 
-35 <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Proper`.
+34 <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Proper`.
 
 `ADP` tokens may have the following values of `Proper`:
 
-* `Yes` (35; 100% of non-empty `Proper`): <em>De, ad</em>
+* `Yes` (34; 100% of non-empty `Proper`): <em>De, ad</em>
 
 ### `VERB`
 
@@ -66,16 +66,6 @@ The most frequent other feature values with which `DET` and `Proper` co-occurred
 
 * `Yes` (9; 100% of non-empty `Proper`): <em>Illum, Illius, Illo, Idem, Ipso</em>
 
-### `X`
-
-9 <tt><a href="la_udante-pos-X.html">X</a></tt> tokens (2% of all `X` tokens) have a non-empty value of `Proper`.
-
-The most frequent other feature values with which `X` and `Proper` co-occurred: <tt><a href="la_udante-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt> (9; 100%).
-
-`X` tokens may have the following values of `Proper`:
-
-* `Yes` (9; 100% of non-empty `Proper`): <em>Amor, Dio, Scala, de, la</em>
-
 ### `PRON`
 
 3 <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Proper`.
@@ -85,6 +75,16 @@ The most frequent other feature values with which `PRON` and `Proper` co-occurre
 `PRON` tokens may have the following values of `Proper`:
 
 * `Yes` (3; 100% of non-empty `Proper`): <em>Eo, Eius</em>
+
+### `X`
+
+3 <tt><a href="la_udante-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Proper`.
+
+The most frequent other feature values with which `X` and `Proper` co-occurred: <tt><a href="la_udante-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt> (3; 100%).
+
+`X` tokens may have the following values of `Proper`:
+
+* `Yes` (3; 100% of non-empty `Proper`): <em>Scala, de, la</em>
 
 ### `NUM`
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3900 nodes (4%) are attached to their parents as `advmod`.
+4476 nodes (4%) are attached to their parents as `advmod`.
 
-3062 instances of `advmod` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.14102564102564.
+3527 instances of `advmod` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.1514745308311.
 
-The following 23 pairs of parts of speech are connected with `advmod`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (1817; 47% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1088; 28% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (190; 5% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (166; 4% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (148; 4% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (123; 3% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (111; 3% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (82; 2% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (47; 1% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (35; 1% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (22; 1% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-X.html">X</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `advmod`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (2062; 46% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1209; 27% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (219; 5% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (212; 5% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (171; 4% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (139; 3% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (138; 3% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (94; 2% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (70; 2% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (44; 1% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (27; 1% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (23; 1% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (13; 0% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-X.html">X</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,7 +56,7 @@ The following 23 pairs of parts of speech are connected with `advmod`: <tt><a hr
 8	а	а	CCONJ	СС	_	11	cc	_	wf="а"
 9	нам	мы	PRON	PRP	Case=Dat|Number=Plur|Person=1|PronType=Prs	11	iobj	_	wf="нам"
 10	не	не	PART	NEG	Polarity=Neg	11	advmod	_	wf="не"
-11	ѡткажете	отказати	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	wf="ѡткажете"
+11	ѡткажете	отказати	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	wf="ѡткажете"
 12	ничем	ништо	PRON	NEG	Case=Ins|Gender=Neut|Number=Sing|PronType=Neg	11	iobj	_	wf="ничем"|SpaceAfter=No
 13	.	.	PUNCT	-PERIOD-	_	6	punct	_	_
 
@@ -64,20 +64,17 @@ The following 23 pairs of parts of speech are connected with `advmod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 advmod	color:blue
-1	А	а	CCONJ	СС	_	3	cc	_	wf="А"
-2	пенѧзи	пенязь	NOUN	NNI	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	wf="пенѧзи"
-3	казал	казати	VERB	VBC	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="казал"
-4	взѧт(и)	узяти	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	wf="взѧти"
-5	в	у	ADP	IN	_	8	case	_	wf="в"
-6	того	той	DET	DT	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	wf="того"
-7	ж	жъ	PART	RP	_	6	advmod	_	wf="ж"
-8	Индрика	Индрикъ	PROPN	NPA	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	4	obl	_	wf="Индрика"|SpaceAfter=No
-9	.	.	PUNCT	-PERIOD-	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 advmod	color:blue
+1	А	а	CCONJ	_	_	5	cc	_	wf="А"
+2	при	при	ADP	_	_	5	case	_	wf="при"
+3	тых	той	DET	_	Case=Loc|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	wf="ты<i>х</i>"
+4	же	же	PART	_	_	3	advmod	_	wf="же"
+5	панех	панъ	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	0	root	_	wf="пане<i>х</i>"|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	wf="."
 
 ~~~
 

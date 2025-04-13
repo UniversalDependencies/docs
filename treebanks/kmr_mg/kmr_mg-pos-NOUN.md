@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>navê</em> (<tt><a href="kmr_mg-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.454367 (the average of all parts of speech is 1.511556).
+The form / lemma ratio of `NOUN` is 1.454367 (the average of all parts of speech is 1.510518).
 
 The 1st highest number of forms (8) was observed with the lemma “dem”: <em>dema, deman, deme, demek, demeke, demekê, demê, demên</em>.
 

@@ -54,7 +54,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>grand, brillant, greatest, menacés, primi, secondo</em>
-* `EMPTY` (3461): <em>große, alten, erste, ganze, ersten, großen, höchsten, möglich, neue, eignen</em>
+* `EMPTY` (3469): <em>große, alten, erste, ganze, ersten, eignen, großen, höchsten, möglich, neue</em>
 
 ### `PRON`
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>cela, This, che, himself, nous</em>
-* `EMPTY` (2728): <em>es, sich, sie, man, er, die, was, der, das, nichts</em>
+* `EMPTY` (2729): <em>es, sich, sie, man, er, die, was, der, das, nichts</em>
 
 ### `VERB`
 
@@ -74,7 +74,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>aller, peut, fait, rester</em>
-* `EMPTY` (3097): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
+* `EMPTY` (3088): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
 
 ### `AUX`
 

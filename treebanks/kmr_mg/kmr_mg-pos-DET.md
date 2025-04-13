@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>vê</em> (<tt><a href="kmr_mg-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.526316 (the average of all parts of speech is 1.511556).
+The form / lemma ratio of `DET` is 1.526316 (the average of all parts of speech is 1.510518).
 
 The 1st highest number of forms (5) was observed with the lemma “ew”: <em>_, ew, wan, wê, wî</em>.
 

@@ -12,15 +12,15 @@ udver: '2'
 # UD English GENTLE
 
 Language: [English](/en/index.html) (code: `en`)<br/>
-Family: Indo-European, Germanic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.12 release.
 
 The following people have contributed to making this treebank part of UD: Tatsuya Aoyama, Shabnam Behzad, Luke Gessler, Lauren Levine, Yi-Ju Jessica Lin, Yang Janet Liu, Siyao Logan Peng, Yilun Zhu, Amir Zeldes.
 
 Repository: [UD_English-GENTLE](https://github.com/UniversalDependencies/UD_English-GENTLE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gentle214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gentle215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -69,21 +69,21 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 
 ## Features
 
-[Abbr](en_gentle-feat-Abbr.html) – [Case](en_gentle-feat-Case.html) – [Definite](en_gentle-feat-Definite.html) – [Degree](en_gentle-feat-Degree.html) – [Gender](en_gentle-feat-Gender.html) – [Mood](en_gentle-feat-Mood.html) – [Number](en_gentle-feat-Number.html) – [NumForm](en_gentle-feat-NumForm.html) – [NumType](en_gentle-feat-NumType.html) – [Person](en_gentle-feat-Person.html) – [Polarity](en_gentle-feat-Polarity.html) – [Poss](en_gentle-feat-Poss.html) – [PronType](en_gentle-feat-PronType.html) – [Reflex](en_gentle-feat-Reflex.html) – [Style](en_gentle-feat-Style.html) – [Tense](en_gentle-feat-Tense.html) – [Typo](en_gentle-feat-Typo.html) – [VerbForm](en_gentle-feat-VerbForm.html) – [Voice](en_gentle-feat-Voice.html)
+[Abbr](en_gentle-feat-Abbr.html) – [Case](en_gentle-feat-Case.html) – [Definite](en_gentle-feat-Definite.html) – [Degree](en_gentle-feat-Degree.html) – [ExtPos](en_gentle-feat-ExtPos.html) – [Gender](en_gentle-feat-Gender.html) – [Mood](en_gentle-feat-Mood.html) – [Number](en_gentle-feat-Number.html) – [NumForm](en_gentle-feat-NumForm.html) – [NumType](en_gentle-feat-NumType.html) – [Person](en_gentle-feat-Person.html) – [Polarity](en_gentle-feat-Polarity.html) – [Poss](en_gentle-feat-Poss.html) – [PronType](en_gentle-feat-PronType.html) – [Reflex](en_gentle-feat-Reflex.html) – [Style](en_gentle-feat-Style.html) – [Tense](en_gentle-feat-Tense.html) – [Typo](en_gentle-feat-Typo.html) – [VerbForm](en_gentle-feat-VerbForm.html) – [Voice](en_gentle-feat-Voice.html)
 
 ## Relations
 
-[acl](en_gentle-dep-acl.html) – [acl:relcl](en_gentle-dep-acl-relcl.html) – [advcl](en_gentle-dep-advcl.html) – [advcl:relcl](en_gentle-dep-advcl-relcl.html) – [advmod](en_gentle-dep-advmod.html) – [amod](en_gentle-dep-amod.html) – [appos](en_gentle-dep-appos.html) – [aux](en_gentle-dep-aux.html) – [aux:pass](en_gentle-dep-aux-pass.html) – [case](en_gentle-dep-case.html) – [cc](en_gentle-dep-cc.html) – [cc:preconj](en_gentle-dep-cc-preconj.html) – [ccomp](en_gentle-dep-ccomp.html) – [compound](en_gentle-dep-compound.html) – [compound:prt](en_gentle-dep-compound-prt.html) – [conj](en_gentle-dep-conj.html) – [cop](en_gentle-dep-cop.html) – [csubj](en_gentle-dep-csubj.html) – [csubj:outer](en_gentle-dep-csubj-outer.html) – [csubj:pass](en_gentle-dep-csubj-pass.html) – [dep](en_gentle-dep-dep.html) – [det](en_gentle-dep-det.html) – [det:predet](en_gentle-dep-det-predet.html) – [discourse](en_gentle-dep-discourse.html) – [dislocated](en_gentle-dep-dislocated.html) – [expl](en_gentle-dep-expl.html) – [fixed](en_gentle-dep-fixed.html) – [flat](en_gentle-dep-flat.html) – [goeswith](en_gentle-dep-goeswith.html) – [iobj](en_gentle-dep-iobj.html) – [mark](en_gentle-dep-mark.html) – [nmod](en_gentle-dep-nmod.html) – [nmod:npmod](en_gentle-dep-nmod-npmod.html) – [nmod:poss](en_gentle-dep-nmod-poss.html) – [nmod:tmod](en_gentle-dep-nmod-tmod.html) – [nsubj](en_gentle-dep-nsubj.html) – [nsubj:outer](en_gentle-dep-nsubj-outer.html) – [nsubj:pass](en_gentle-dep-nsubj-pass.html) – [nummod](en_gentle-dep-nummod.html) – [obj](en_gentle-dep-obj.html) – [obl](en_gentle-dep-obl.html) – [obl:agent](en_gentle-dep-obl-agent.html) – [obl:npmod](en_gentle-dep-obl-npmod.html) – [obl:tmod](en_gentle-dep-obl-tmod.html) – [orphan](en_gentle-dep-orphan.html) – [parataxis](en_gentle-dep-parataxis.html) – [punct](en_gentle-dep-punct.html) – [reparandum](en_gentle-dep-reparandum.html) – [root](en_gentle-dep-root.html) – [vocative](en_gentle-dep-vocative.html) – [xcomp](en_gentle-dep-xcomp.html)
+[acl](en_gentle-dep-acl.html) – [acl:relcl](en_gentle-dep-acl-relcl.html) – [advcl](en_gentle-dep-advcl.html) – [advcl:relcl](en_gentle-dep-advcl-relcl.html) – [advmod](en_gentle-dep-advmod.html) – [amod](en_gentle-dep-amod.html) – [appos](en_gentle-dep-appos.html) – [aux](en_gentle-dep-aux.html) – [aux:pass](en_gentle-dep-aux-pass.html) – [case](en_gentle-dep-case.html) – [cc](en_gentle-dep-cc.html) – [cc:preconj](en_gentle-dep-cc-preconj.html) – [ccomp](en_gentle-dep-ccomp.html) – [compound](en_gentle-dep-compound.html) – [compound:prt](en_gentle-dep-compound-prt.html) – [conj](en_gentle-dep-conj.html) – [cop](en_gentle-dep-cop.html) – [csubj](en_gentle-dep-csubj.html) – [csubj:outer](en_gentle-dep-csubj-outer.html) – [csubj:pass](en_gentle-dep-csubj-pass.html) – [dep](en_gentle-dep-dep.html) – [det](en_gentle-dep-det.html) – [det:predet](en_gentle-dep-det-predet.html) – [discourse](en_gentle-dep-discourse.html) – [dislocated](en_gentle-dep-dislocated.html) – [expl](en_gentle-dep-expl.html) – [fixed](en_gentle-dep-fixed.html) – [flat](en_gentle-dep-flat.html) – [goeswith](en_gentle-dep-goeswith.html) – [iobj](en_gentle-dep-iobj.html) – [mark](en_gentle-dep-mark.html) – [nmod](en_gentle-dep-nmod.html) – [nmod:poss](en_gentle-dep-nmod-poss.html) – [nmod:unmarked](en_gentle-dep-nmod-unmarked.html) – [nsubj](en_gentle-dep-nsubj.html) – [nsubj:outer](en_gentle-dep-nsubj-outer.html) – [nsubj:pass](en_gentle-dep-nsubj-pass.html) – [nummod](en_gentle-dep-nummod.html) – [obj](en_gentle-dep-obj.html) – [obl](en_gentle-dep-obl.html) – [obl:agent](en_gentle-dep-obl-agent.html) – [obl:unmarked](en_gentle-dep-obl-unmarked.html) – [orphan](en_gentle-dep-orphan.html) – [parataxis](en_gentle-dep-parataxis.html) – [punct](en_gentle-dep-punct.html) – [reparandum](en_gentle-dep-reparandum.html) – [root](en_gentle-dep-root.html) – [vocative](en_gentle-dep-vocative.html) – [xcomp](en_gentle-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1334 sentences, 17617 tokens and 17797 syntactic words.</li>
+<li>This corpus contains 1334 sentences, 17619 tokens and 17799 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2621 tokens (15%) that are not followed by a space.</li>
+<li>This corpus contains 2623 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -91,12 +91,12 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 </ul>
 
 <ul>
-<li>This corpus contains 119 types of words that contain both letters and punctuation. Examples: 's, n't, 'm, 're, 've, Pp., p., 'll, J., Dr., q.d., 't, (a), (b), U.S., v., (c), Proto-Germanic, a), e.g., etc., non-empty, o'er, semi-finals, (i), (ii), (iv), /s/, C.J., G′r, Inc., Mr., Prof., Proto-Indo-European, U.S.C., b), i), ii), iii), iv), ’re, ’s, #FortniteWorldCup, 'd, 'ed, 'ta, (D), (E), (F), (as</li>
+<li>This corpus contains 117 types of words that contain both letters and punctuation. Examples: 's, n't, 'm, 're, 've, Pp., p., 'll, J., Dr., q.d., 't, (a), (b), U.S., v., (c), Proto-Germanic, a), e.g., etc., non-empty, o'er, semi-finals, (i), (ii), (iv), /s/, C.J., G′r, Inc., Mr., Prof., Proto-Indo-European, U.S.C., b), i), ii), iii), iv), ’re, ’s, #FortniteWorldCup, 'd, 'ed, 'ta, (D), (E), (F), (iii)</li>
 </ul>
 
 <ul>
 <li>This corpus contains 180 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 62 types of multi-word tokens. Examples: gonna, I'm, don't, it's, he's, Company's, can't, that's, we're, 'tis, I'll, I've, cannot, party's, woman's, you're, you've, Court's, Does', Night's, didn't, doesn't, mother's, one's, thats, they're, today's, wasn't, we've, won't, wouldn't, Ashley's, Here's, Horses', I'd, Ii'll, JarkoS', Roe's, Techtonica’s, We'll, We’re, What's, Which's, appellee's, aren't, bosom's, cushion's, demon's, episodes's, hasn't.</li>
+<li>There are 63 types of multi-word tokens. Examples: gonna, I'm, don't, it's, he's, Company's, can't, that's, we're, 'tis, I'll, I've, cannot, party's, woman's, you're, you've, Court's, Does', Night's, didn't, doesn't, mother's, one's, thats, they're, today's, wasn't, we've, won't, wouldn't, Ashley's, Here's, Horses', I'd, Ii'll, JarkoS', Roe's, Techtonica’s, UVA's, We'll, We’re, What's, Which's, appellee's, aren't, bosom's, cushion's, demon's, episodes's.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -108,7 +108,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 </ul>
 
 <ul>
-<li>This corpus contains 9 word types tagged as particles (PART): ', 's, 'ta, n't, na, not, n’t, to, ’s</li>
+<li>This corpus contains 10 word types tagged as particles (PART): ', 's, 'ta, n't, na, not, n’t, to, too, ’s</li>
 </ul>
 
 <ul>
@@ -116,7 +116,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 </ul>
 
 <ul>
-<li>This corpus contains 19 lemmas tagged as determiners (DET): a, all, another, any, both, each, either, every, many, n, no, some, such, that, the, this, what, which, ∀</li>
+<li>This corpus contains 17 lemmas tagged as determiners (DET): a, all, another, any, both, each, either, every, no, some, such, that, the, this, what, which, ∀</li>
 </ul>
 
 <ul>
@@ -138,7 +138,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: is, will, can, was, are, has, 's, may, would, should</li>
+    <li>AUX: is, will, can, was, are, 's, has, may, would, should</li>
     <li>VERB: has, let, have, said, Suppose, follows, is, know, had, see</li>
   </ul>
   </li>
@@ -156,7 +156,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
   <li>Inf
   <ul>
     <li>AUX: be, have, do, get</li>
-    <li>VERB: have, get, do, make, see, take, try, become, continue, go</li>
+    <li>VERB: have, get, do, make, see, try, take, become, continue, go</li>
   </ul>
   </li>
 </ul>
@@ -230,12 +230,11 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 <ul>
   <li>Sing
     <ul>
-      <li>AUX-Fin: is, was, has, 's, 'm, do, are, 've, had, did</li>
-      <li>DET: this, that, n</li>
+      <li>AUX-Fin: is, was, 's, has, 'm, do, are, 've, had, did</li>
+      <li>DET: this, that</li>
       <li>NOUN: x, week, T, project, S, school, y, time, party, trust</li>
       <li>PRON: I, you, he, it, his, my, your, me, that, this</li>
       <li>PROPN: Company, JavaScript, Book, Proposition, Court, English, Week, Career, React, Agreement</li>
-      <li>PUNCT: ,</li>
       <li>SYM: %</li>
       <li>VERB-Fin: has, said, follows, is, think, Quoth, came, had, heard, took</li>
     </ul>
@@ -310,10 +309,8 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: next, other, old, open, straight, chronic, right, such, transitive, final</li>
+      <li>ADJ: next, other, old, open, straight, chronic, right, transitive, final, good</li>
       <li>ADV: well, still, back, ever, Therefore, above, down, nevermore, again, away</li>
-      <li>DET: all, many, such</li>
-      <li>SCONJ: too</li>
     </ul>
   </li>
 </ul>
@@ -334,12 +331,17 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 <ul>
   <li>Neg
     <ul>
-      <li>ADJ: unpaid, non-empty, uncountable, unbroken, unclear, unsuspecting, Non-Tech, non-profit, non-sufficient, unable</li>
-      <li>ADV: never, no, ungainly</li>
-      <li>DET: no, know</li>
-      <li>NOUN: NO</li>
+      <li>ADV: no</li>
+      <li>CCONJ: neither, nor</li>
       <li>PART: not, n't, n’t</li>
-      <li>PRON: nothing</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pos
+    <ul>
+      <li>INTJ: Yes, Yeah</li>
     </ul>
   </li>
 </ul>
@@ -365,7 +367,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: is, was, are, has, 's, do, 'm, 're, 've, have</li>
+      <li>AUX-Fin: is, was, are, 's, has, do, 'm, 're, 've, have</li>
       <li>VERB-Fin: has, have, said, follows, is, know, had, took, think, Quoth</li>
     </ul>
   </li>
@@ -389,7 +391,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: is, are, has, 's, do, 'm, 're, 've, have, does</li>
+      <li>AUX-Fin: is, are, 's, has, do, 'm, 're, 've, have, does</li>
       <li>AUX-Part: being, Having</li>
       <li>VERB-Fin: has, have, follows, is, know, think, Quoth, need, are, continues</li>
       <li>VERB-Part: gon, going, having, playing, Testing, doing, following, including, scoring, using</li>
@@ -446,8 +448,8 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 <ul>
   <li>Ind
     <ul>
-      <li>DET: any, some, all, every, another, each, both, many, n, ∀</li>
-      <li>PRON: something, anything, anyone, someone, somebody</li>
+      <li>DET: any, all, some, every, another, each, both, such, ∀</li>
+      <li>PRON: something, anything, anyone, someone, some, somebody</li>
     </ul>
   </li>
 </ul>
@@ -588,7 +590,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
       <li>AUX-Fin: are, do, 're, 've, have, be, ’re</li>
       <li>PRON: you, your, yourself, thou, yours</li>
       <li>VERB-Fin: let, Suppose, see, get, tell, consider, know, take, think, Call</li>
-      <li>VERB-Inf: Let, see, do, drop, have, quaff, use, Articulate, Become, Demonstrate</li>
+      <li>VERB-Inf: Let, see, do, drop, have, quaff, take, use, Articulate, Become</li>
     </ul>
   </li>
 </ul>
@@ -596,7 +598,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: is, was, are, has, 's, were, have, does, did, do</li>
+      <li>AUX-Fin: is, was, are, 's, has, were, have, does, did, do</li>
       <li>PRON: he, it, his, they, its, him, her, them, their, she</li>
       <li>VERB-Fin: has, follows, is, Quoth, are, continues, had, held, precedes, took</li>
     </ul>
@@ -617,8 +619,46 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
           <li>ADJ: U.S.</li>
           <li>ADV: e.g.</li>
           <li>NOUN: mg, Pp., p., DH, etc., kg, CV, No., TEMP, TV</li>
-          <li>PROPN: HTML, Dr., US, U.S., CBC, Inc., Mr., Prof., U.S.C., UK</li>
+          <li>PROPN: HTML, J., Dr., US, U.S., CBC, Inc., Mr., Prof., U.S.C.</li>
           <li>X: PS</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADJ: such</li>
+          <li>ADV: prior</li>
+          <li>VERB-Part: according</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: So, up</li>
+          <li>ADV: as, more, less, prior</li>
+          <li>NOUN: kind</li>
+          <li>PRON: that</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADV: as</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>DET: each</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADJ: such</li>
+          <li>ADV: prior</li>
         </ul>
       </li>
     </ul>
@@ -664,7 +704,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
           <li>ADV: o'er</li>
           <li>AUX-Fin: hath, art</li>
           <li>PRON: thy, 't, thou</li>
-          <li>VERB-Fin: Quoth</li>
+          <li>VERB-Fin: Quoth, wrought</li>
         </ul>
       </li>
       <li>Coll
@@ -692,13 +732,14 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
           <li>AUX-Fin: s, 'ed, d</li>
           <li>CCONJ: an</li>
           <li>DET: all, know</li>
-          <li>NOUN: p, principal</li>
-          <li>PRON: what, Ii, it, the, wich, you</li>
+          <li>NOUN: visiter, p, principal</li>
+          <li>PART: too</li>
+          <li>PRON: what, Ii, it, some, the, wich, you</li>
           <li>PROPN: Pharoah, Torooh, israelities</li>
           <li>VERB: Be, here, Trying, arranged, broke, deem, know, pick, ran, reverse</li>
-          <li>VERB-Fin: deem, pick, reverse</li>
+          <li>VERB-Fin: deem, here, pick, reverse</li>
           <li>VERB-Ger: Trying</li>
-          <li>VERB-Inf: here, arranged</li>
+          <li>VERB-Inf: arranged, here, testified</li>
           <li>VERB-Part: broke, know, ran, went</li>
         </ul>
       </li>
@@ -725,18 +766,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (125)</li>
+      <li>VERB-Fin--NOUN (127)</li>
       <li>VERB-Fin--PRON (36)</li>
       <li>VERB-Fin--PRON-Nom (227)</li>
       <li>VERB-Ger--NOUN (1)</li>
-      <li>VERB-Ger--NOUN-ADP(as) (1)</li>
+      <li>VERB-Ger--PRON-ADP(as) (1)</li>
       <li>VERB-Ger--PRON-Nom (1)</li>
-      <li>VERB-Inf--NOUN (33)</li>
-      <li>VERB-Inf--PRON (7)</li>
+      <li>VERB-Inf--NOUN (31)</li>
+      <li>VERB-Inf--PRON (6)</li>
       <li>VERB-Inf--PRON-Nom (108)</li>
-      <li>VERB-Part--NOUN (31)</li>
+      <li>VERB-Part--NOUN (34)</li>
       <li>VERB-Part--PRON (7)</li>
-      <li>VERB-Part--PRON-Nom (74)</li>
+      <li>VERB-Part--PRON-Nom (73)</li>
     </ul>
   </li>
 </ul>
@@ -747,9 +788,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (199)</li>
       <li>VERB-Fin--PRON (18)</li>
       <li>VERB-Fin--PRON-Acc (35)</li>
-      <li>VERB-Ger--NOUN (30)</li>
+      <li>VERB-Ger--NOUN (31)</li>
       <li>VERB-Ger--PRON-Acc (3)</li>
-      <li>VERB-Inf--NOUN (166)</li>
+      <li>VERB-Inf--NOUN (167)</li>
       <li>VERB-Inf--PRON (12)</li>
       <li>VERB-Inf--PRON-Acc (45)</li>
       <li>VERB-Part--NOUN (89)</li>
@@ -766,7 +807,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc (7)</li>
       <li>VERB-Inf--NOUN (3)</li>
       <li>VERB-Inf--PRON-Acc (10)</li>
-      <li>VERB-Part--NOUN (1)</li>
       <li>VERB-Part--PRON (1)</li>
       <li>VERB-Part--PRON-Acc (5)</li>
     </ul>
@@ -787,6 +827,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:npmod</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:poss</a>, <a>nmod:unmarked</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:unmarked</a></li>
 <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a></li>
 </ul>

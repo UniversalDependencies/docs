@@ -28,7 +28,7 @@ The most frequent other feature values with which `PRON` and `Variant` co-occurr
 
 5064 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (5064; 100%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5056; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5034; 99%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (4266; 84%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (4266; 84%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3654; 72%).
+The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (5064; 100%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5056; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5034; 99%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (4266; 84%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (4266; 84%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3654; 72%).
 
 `ADJ` tokens may have the following values of `Variant`:
 

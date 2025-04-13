@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="ky_ktmu-dep-compound-svc.html">compound:svc</a></tt>.
 
-320 nodes (4%) are attached to their parents as `compound`.
+841 nodes (4%) are attached to their parents as `compound`.
 
-288 instances of `compound` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.075.
+804 instances of `compound` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.06420927467301.
 
-The following 20 pairs of parts of speech are connected with `compound`: <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (130; 41% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (47; 15% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (46; 14% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (45; 14% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (11; 3% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (9; 3% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (8; 3% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="ky_ktmu-pos-ADP.html">ADP</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `compound`: <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (505; 60% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (93; 11% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (81; 10% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (57; 7% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (23; 3% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (14; 2% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-SYM.html">SYM</a></tt> (6; 1% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ky_ktmu-pos-ADP.html">ADP</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,32 +23,12 @@ The following 20 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 compound	color:blue
-1	Эртең	Эртең	NOUN	NN	Case=Nom|Number=Sing|Person=3	5	obl	_	_
+1	Эртең	Эртең	ADV	ADV	_	5	advmod	_	_
 2	сексен	сексен	NUM	NUM	NumType=Card	3	compound	_	_
 3	бешинчи	беш	NUM	NUM	NumType=Ord	4	nummod	_	_
 4	күн	күн	NOUN	NN	Case=Nom|Number=Sing|Person[psor]=3	5	nsubj	_	_
 5	эмеспи	эмес	NOUN	NN	Case=Nom|Number=Sing|Person=3	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	PCT	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 compound	color:blue
-1	Бишкекте	Бишкек	PROPN	PROP	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	obl	_	_
-2	ушул	ушул	PRON	PRP	_	4	det	_	_
-3	дем	дем	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nmod	_	_
-4	алышта	алыш	VERB	VB	Aspect=Perf|Case=Loc|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	9	nmod	_	_
-5	дагы	дагы	ADV	ADV	_	4	advmod:emph	_	_
-6	азык	азык	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	nmod	_	_
-7	түлүк	түлүк	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	compound	_	_
-8	жарманкеси	жарманке	NOUN	NN	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	csubj	_	_
-9	өтөт	өт	VERB	VB	Aspect=Perf|Case=Loc|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	PCT	_	9	punct	_	_
 
 ~~~
 
@@ -69,6 +49,29 @@ The following 20 pairs of parts of speech are connected with `compound`: <tt><a 
 8	артка	арт	NOUN	NN	Case=Dat|Number=Sing|Person=3	9	nmod	_	_
 9	тартышат	тартыш	VERB	VB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	PCT	_	9	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 11 compound	color:blue
+1	Мени	мен	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
+2	атам	ата	NOUN	NN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	obl	_	_
+3	кыстабадыбы	кыста	VERB	VB	Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part	12	ccomp	_	SpaceAfter=No
+4	,	,	PUNCT	PCT	_	3	punct	_	_
+5	мен	мен	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+6	азыр	азыр	ADV	ADV	_	12	advmod	_	_
+7	баламын	бала	NOUN	NN	Case=Gen|Number=Sing|Person=1	12	obj	_	_
+8	да	да	CCONJ	CCONJ	_	7	mark	_	SpaceAfter=No
+9	,	,	PUNCT	PCT	_	8	punct	_	_
+10	тил	тил	NOUN	NN	Case=Nom|Number=Sing|Person=3	12	nmod	_	_
+11	алышым	алыш	VERB	VB	Case=Gen|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Part	12	compound	_	_
+12	керек	керек	VERB	VB	Aspect=Prog|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	PCT	_	12	punct	_	_
 
 ~~~
 

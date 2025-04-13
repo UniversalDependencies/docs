@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-14863 tokens (11%) have a non-empty value of `Person`.
-3255 types (23%) occur at least once with a non-empty value of `Person`.
-1328 lemmas (14%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (8832; 6% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (5304; 4% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> (727; 1% instances).
+14861 tokens (11%) have a non-empty value of `Person`.
+3253 types (23%) occur at least once with a non-empty value of `Person`.
+1326 lemmas (14%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (8832; 6% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (5302; 4% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> (727; 1% instances).
 
 ### `VERB`
 
@@ -46,20 +46,20 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="he_iahltwiki-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>יצאנו</td><td></td><td></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `VERB`. 95% lemmas (1240) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 95% lemmas (1239) occur only with one value of `Person`.
 
 ### `PRON`
 
-5304 <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> tokens (94% of all `PRON` tokens) have a non-empty value of `Person`.
+5302 <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> tokens (94% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4329; 82%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3945; 74%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3354; 63%), <tt><a href="he_iahltwiki-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3174; 60%), <tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3118; 59%), <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2992; 56%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4330; 82%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3946; 74%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3357; 63%), <tt><a href="he_iahltwiki-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3170; 60%), <tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3115; 59%), <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2988; 56%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (128; 2% of non-empty `Person`): י, נו, אני, אנחנו, ני, אנו, אנוכי, עצמי, עצמנו
 * `2` (41; 1% of non-empty `Person`): ך, אתה, את, ה, ךָ, כם, עצמך
-* `3` (5135; 97% of non-empty `Person`): ו, ה, הם, ם, הוא, זה, היא, זו, הן, זאת
-* `EMPTY` (329): כך, מה, כן, הוא, מי, היא, כמה, איזה, דנן, הם
+* `3` (5133; 97% of non-empty `Person`): ו, ה, הם, ם, הוא, זה, היא, זו, הן, זאת
+* `EMPTY` (331): כך, מה, כן, הוא, מי, היא, כמה, איזה, דנן, הם
 
 <table>
   <tr><th>Paradigm <i>הוא</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -71,14 +71,12 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>ני</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_iahltwiki-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td>י</td><td>ך</td><td>ו, ם, וֹ, י, ן</td></tr>
   <tr><td><tt><tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_iahltwiki-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td>הם</td></tr>
-  <tr><td><tt><tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>ו</td></tr>
   <tr><td><tt><tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_iahltwiki-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td>נו</td><td></td><td>ם, הם</td></tr>
-  <tr><td><tt><tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_iahltwiki-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td>י</td><td>ך, ה</td><td>ה, הּ, ו, ך, ם</td></tr>
+  <tr><td><tt><tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_iahltwiki-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td>י</td><td>ך, ה</td><td>ה, הּ, ך, ם</td></tr>
   <tr><td><tt><tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_iahltwiki-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td>ן, הן, ם, ה</td></tr>
   <tr><td><tt><tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_iahltwiki-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td>ם, ן</td></tr>
-  <tr><td><tt><tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_iahltwiki-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td>י</td><td></td><td>ה, ו</td></tr>
+  <tr><td><tt><tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_iahltwiki-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td>י</td><td></td><td>ה</td></tr>
   <tr><td><tt><tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_iahltwiki-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td>נו</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_iahltwiki-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td>ו</td></tr>
   <tr><td><tt><tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>ו</td></tr>
   <tr><td><tt><tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>ה</td></tr>
   <tr><td><tt><tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_iahltwiki-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td></td><td>הוא, היא, הם</td></tr>
@@ -134,10 +132,10 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-conj.html">conj</a></tt>]--> VERB</tt> (1280; 93%),
-<tt>VERB --[<tt><a href="he_iahltwiki-dep-obl.html">obl</a></tt>]--> PRON</tt> (608; 73%),
+<tt>VERB --[<tt><a href="he_iahltwiki-dep-obl.html">obl</a></tt>]--> PRON</tt> (606; 72%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (355; 91%),
-<tt>VERB --[<tt><a href="he_iahltwiki-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (285; 65%),
-<tt>VERB --[<tt><a href="he_iahltwiki-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (203; 71%),
+<tt>VERB --[<tt><a href="he_iahltwiki-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (286; 65%),
+<tt>VERB --[<tt><a href="he_iahltwiki-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (202; 71%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-obj.html">obj</a></tt>]--> PRON</tt> (120; 56%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (110; 78%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> PRON</tt> (36; 97%),

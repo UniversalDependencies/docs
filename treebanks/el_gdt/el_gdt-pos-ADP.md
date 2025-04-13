@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>με</em> (<tt><a href="el_gdt-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.358974 (the average of all parts of speech is 1.783022).
+The form / lemma ratio of `ADP` is 1.358974 (the average of all parts of speech is 1.783262).
 
 The 1st highest number of forms (4) was observed with the lemma “από”: <em>απ', από, απ’, αφ'</em>.
 
@@ -73,7 +73,7 @@ Examples: <em>σ, για, με, από, σε, κατά, προς, μεταξύ, 
 
 `ADP` nodes are attached to their parents using 3 different relations: <tt><a href="el_gdt-dep-case.html">case</a></tt> (5183; 98% instances), <tt><a href="el_gdt-dep-mark.html">mark</a></tt> (104; 2% instances), <tt><a href="el_gdt-dep-fixed.html">fixed</a></tt> (26; 0% instances)
 
-Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (4103; 77% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (420; 8% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (274; 5% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt> (133; 3% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (125; 2% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (87; 2% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (85; 2% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (63; 1% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (21; 0% instances), <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (2; 0% instances)
+Parents of `ADP` nodes belong to 9 different parts of speech: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (4103; 77% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (420; 8% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (276; 5% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt> (133; 3% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (125; 2% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (87; 2% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (85; 2% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (63; 1% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (21; 0% instances)
 
 5283 (99%) `ADP` nodes are leaves.
 

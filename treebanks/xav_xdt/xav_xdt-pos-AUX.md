@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>te</em> (<tt><a href="xav_xdt-pos-PAR
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.500000 (the average of all parts of speech is 1.294461).
+The form / lemma ratio of `AUX` is 1.500000 (the average of all parts of speech is 1.290598).
 
 The 1st highest number of forms (3) was observed with the lemma “te”: <em>te, tete, wate</em>.
 

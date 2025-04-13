@@ -34,4 +34,4 @@ Adv: 	Adverb
 - interrogative adverbs: _როდემდე_ 'for how long' etc.
 - relative adverbs: _სადაც_ 'where' etc.
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:33 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:19 CET -->

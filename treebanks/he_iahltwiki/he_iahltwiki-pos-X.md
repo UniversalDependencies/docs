@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  דו (<tt><a href="he_iahltwiki-pos-X.htm
 
 ## Morphology
 
-The form / lemma ratio of `X` is 0.995192 (the average of all parts of speech is 1.479540).
+The form / lemma ratio of `X` is 0.995192 (the average of all parts of speech is 1.479807).
 
 The 1st highest number of forms (1) was observed with the lemma “ABA”: ABA.
 

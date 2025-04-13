@@ -12,15 +12,15 @@ udver: '2'
 # UD French ParisStories
 
 Language: [French](/fr/index.html) (code: `fr`)<br/>
-Family: Indo-European, Romance
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.9 release.
 
 The following people have contributed to making this treebank part of UD: Kim Gerdes, Sylvain Kahane, Menel Mahamdi.
 
 Repository: [UD_French-ParisStories](https://github.com/UniversalDependencies/UD_French-ParisStories)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_parisstories214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_parisstories215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -205,7 +205,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
 
 
 <ul>
-<li>This corpus contains 2776 sentences, 42331 tokens and 42787 syntactic words.</li>
+<li>This corpus contains 2776 sentences, 42243 tokens and 42786 syntactic words.</li>
 </ul>
 
 <ul>
@@ -221,7 +221,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
 </ul>
 
 <ul>
-<li>This corpus contains 456 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 543 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 4 types of multi-word tokens. Examples: du, au, des, aux.</li>
 </ul>
 
@@ -318,7 +318,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
       <li>ADJ: tout, petit, tous, gros, vrai, mignon, petits, beau, bizarre, sympa</li>
       <li>ADV: mal, tout, plus, super</li>
       <li>AUX-Part: été, fait, eu</li>
-      <li>DET: le, un, ce, du, cet, des, les, l', tout, aucun</li>
+      <li>DET: le, un, ce, du, cet, des, les, l', aucun, quelques</li>
       <li>NOUN: coup, fait, peu, temps, ans, moment, truc, jour, monde, côté</li>
       <li>NUM: neuf, un</li>
       <li>PRON: on, c', il, ça, lui, ils, ce, le, -ce, tout</li>
@@ -530,7 +530,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
   <li>Ind
     <ul>
       <li>ADJ: tout, tous, toute</li>
-      <li>DET: quelque, chaque, quelques, plusieurs, certaines, tout, toute, différents, tous</li>
+      <li>DET: quelque, chaque, quelques, plusieurs, certaines, toute, différents, tous</li>
       <li>PRON: on, tout, tous, quelqu'un, un, une, autre, quoi, chacun, autres</li>
     </ul>
   </li>
@@ -817,8 +817,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-ADP(de) (1)</li>
       <li>VERB-Fin--PRON-ADP(quand) (1)</li>
       <li>VERB-Fin--PRON-ADP(que) (2)</li>
-      <li>VERB-Inf--NOUN (190)</li>
-      <li>VERB-Inf--NOUN-ADP(de) (3)</li>
+      <li>VERB-Inf--NOUN (191)</li>
+      <li>VERB-Inf--NOUN-ADP(de) (2)</li>
       <li>VERB-Inf--PRON (144)</li>
       <li>VERB-Inf--PRON-ADP(de) (1)</li>
       <li>VERB-Part--NOUN (222)</li>

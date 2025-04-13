@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="es_gsd-dep-expl.html">expl</a></tt>.
 There are also 1 other language-specific subtypes of `expl`: <tt><a href="es_gsd-dep-expl-pass.html">expl:pass</a></tt>.
 
-5331 nodes (1%) are attached to their parents as `expl:pv`.
+5334 nodes (1%) are attached to their parents as `expl:pv`.
 
 4609 instances of `expl:pv` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.13618458075408.
+Average distance between parent and child is 1.13610798650169.
 
-The following 7 pairs of parts of speech are connected with `expl:pv`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (5310; 100% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `expl:pv`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (5313; 100% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 7 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 2	12	12	NUM	_	NumForm=Digit|NumType=Card	9	obl	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	noviembre	noviembre	PROPN	_	_	2	nmod	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	2	punct	_	_
+5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	CNT	cnt	PROPN	_	_	9	nsubj	_	_
 8	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
@@ -38,7 +38,7 @@ The following 7 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 13	de	de	ADP	_	_	15	case	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	FPA	fpa	PROPN	_	_	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	9	punct	_	_
+16	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
 
 ~~~
 
@@ -57,7 +57,7 @@ The following 7 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 6	y	y	CCONJ	_	_	8	cc	_	_
 7	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 8	nota	notar	NOUN	_	Number=Sing	2	conj	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -68,7 +68,7 @@ The following 7 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 12 expl:pv	color:blue
-1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
+1	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	2	punct	_	SpaceAfter=No
 2	Nó	nó	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	2	obl:arg	_	_
 4	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
@@ -78,7 +78,7 @@ The following 7 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 8	indicado	indicar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	7	acl	_	_
 9	en	en	ADP	_	_	10	case	_	_
 10	tabla	tabla	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
-11	:	:	PUNCT	_	_	13	punct	_	_
+11	:	:	PUNCT	_	PunctType=Colo	13	punct	_	_
 12	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl:pv	_	_
 13	debe	deber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
 14	a	a	ADP	_	_	18	case	_	_
@@ -92,15 +92,15 @@ The following 7 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 22	de	de	ADP	_	_	24	case	_	_
 23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	MFD	mfd	PROPN	_	_	20	nmod	_	SpaceAfter=No
-25	,	,	PUNCT	_	_	28	punct	_	_
+25	,	,	PUNCT	_	PunctType=Comm	28	punct	_	_
 26	y	y	CCONJ	_	_	28	cc	_	_
 27	aquí	aquí	ADV	_	_	28	advmod	_	_
 28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	conj	_	_
 29	de	de	ADP	_	_	31	case	_	_
 30	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	31	det	_	_
 31	sal	sal	NOUN	_	Gender=Masc|Number=Sing	28	nmod	_	SpaceAfter=No
-32	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-33	)	)	PUNCT	_	_	2	punct	_	_
+32	.	.	PUNCT	_	PunctType=Peri	2	punct	_	SpaceAfter=No
+33	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	2	punct	_	_
 
 ~~~
 

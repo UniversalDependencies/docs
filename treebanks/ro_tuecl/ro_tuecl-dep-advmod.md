@@ -46,7 +46,7 @@ The following 22 pairs of parts of speech are connected with `advmod`: <tt><a hr
 2	te	tu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	4	obj	_	_
 3	mai	mai	ADV	_	_	4	advmod	_	_
 4	crede	crede	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	secsi	sexy	NOUN	_	Degree=Pos|Foreign=Yes|Gender=Fem|Number=Sing	4	obj	_	CorrectForm=sexy|SpaceAfter=No|Lang=en
+5	secsi	sexy	NOUN	_	Foreign=Yes|Number=Sing	4	obj	_	CorrectForm=sexy|SpaceAfter=No|Lang=en
 6	,	,	PUNCT	_	_	10	punct	_	_
 7	după	după	ADP	_	AdpType=Prep|Case=Acc	10	mark	_	_
 8	30	30	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	10	nummod	_	_

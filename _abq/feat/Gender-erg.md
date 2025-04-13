@@ -25,4 +25,4 @@ This feature marks gender agreement of the verb with the ergative argument (subj
 
 * [abq] _тш-на-<b>на</b>-р-хъв-тI_ [RFL.ABS-TRAL-<b>3SG.N.ERG</b>-CAUS-bend(AOR)-DCL] ‘<b>it</b> [the tree] bent’ `Voice=Rfl|Caus=Yes|Gender[erg]=Neut|Number[erg]=Sing|Person[erg]=3|Tense=Aor|VerbForm=Fin`
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:58 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:42 CET -->

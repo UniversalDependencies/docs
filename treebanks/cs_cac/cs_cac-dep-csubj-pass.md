@@ -23,7 +23,7 @@ The following 11 pairs of parts of speech are connected with `csubj:pass`: <tt><
 # visual-style 5	fgColor:white
 # visual-style 5 9 csubj:pass	color:blue
 1	Při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	2:case	LId=při-1
-2	sklizni	sklizeň	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	5	obl	5:obl:při:loc	_
+2	sklizni	sklizeň	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing	5	obl	5:obl:při:loc	_
 3	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pass	5:expl:pass	LGloss=(zvr._zájmeno/částice)
 4	nejlépe	dobře	ADV	Dg-------3A----	Degree=Sup|Polarity=Pos	5	advmod	5:advmod	_
 5	pozná	poznat	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
@@ -42,11 +42,11 @@ The following 11 pairs of parts of speech are connected with `csubj:pass`: <tt><
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 csubj:pass	color:blue
-1	Bartošovi	Bartoš	PROPN	NNMS3-----A---1	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos	2	obl:arg	2:obl:arg:dat	_
-2	přikázáno	přikázaný	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	LDeriv=přikázat
+1	Bartošovi	Bartoš	PROPN	NNMS3-----A---1	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Sur|Number=Sing	2	obl:arg	2:obl:arg:dat	_
+2	přikázáno	přikázaný	ADJ	VsNS---XX-AP---	Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	LDeriv=přikázat
 3	urychleně	urychleně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	4	advmod	4:advmod	LDeriv=urychlit
 4	vyklidit	vyklidit	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	2	csubj:pass	2:csubj:pass	_
-5	místnost	místnost	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	4	obj	4:obj	SpaceAfter=No
+5	místnost	místnost	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	4	obj	4:obj	SpaceAfter=No
 6	.	.	PUNCT	Z:-------------	_	2	punct	2:punct	_
 
 ~~~
@@ -65,7 +65,7 @@ The following 11 pairs of parts of speech are connected with `csubj:pass`: <tt><
 5	,	,	PUNCT	Z:-------------	_	10	punct	10:punct	_
 6	že	že	SCONJ	J,-------------	_	10	mark	10:mark	_
 7	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	10	obl	10:obl:dat	_
-8	není	být	AUX	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	10:cop	_
+8	není	být	AUX	VB-S---3P-NA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	10:cop	_
 9	nic	nic	PRON	PW--1----------	Case=Nom|PronType=Neg	10	nsubj	10:nsubj	_
 10	svaté	svatý	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	1	csubj:pass	1:csubj:pass	SpaceAfter=No|LId=svatý-1
 11	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_

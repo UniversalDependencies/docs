@@ -48,8 +48,8 @@ The 3rd highest number of forms (2) was observed with the lemma “ben”: <em>b
 `PRON` occurs with 16 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Person=1`, `Person=3`, `Person[psor]=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `Reflex=Yes`
 
 `PRON` occurs with 19 feature combinations.
-The most frequent feature combination is `Case=Abl|Number=Sing|Person=3|PronType=Dem` (2 tokens).
-Examples: <em>bundan</em>
+The most frequent feature combination is `PronType=Dem` (2 tokens).
+Examples: <em>bu, bundan, bunuñ, bunı, bunlardan, buña</em>
 
 
 ## Relations

@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="cs_poetry-pos-NOUN.
 
 2 <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2; 100%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 
 1 <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1; 100%), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="cs_poetry-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (1; 100%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1; 100%).
+The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1; 100%), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="cs_poetry-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (1; 100%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
 
 `PROPN` tokens may have the following values of `Foreign`:
 

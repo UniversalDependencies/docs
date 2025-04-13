@@ -49,7 +49,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 3	man	man	PRON	PIS	Case=Nom|Number=Sing|PronType=Ind	2	nsubj	_	_
 4	viele	viel	DET	PIAT	Case=Acc|Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
 5	viele	viel	DET	PIAT	Case=Acc|Gender=Fem|Number=Plur|PronType=Ind	4	conj	_	_
-6	Blasen	Blase|Blasen	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	_
+6	Blasen	Blase	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	_
 7	an	an	ADP	APPR	_	9	case	_	_
 8	den	der	DET	ART	Case=Dat|Definite=Def|Number=Plur|PronType=Art	9	det	_	_
 9	Füßen	Fuß	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	6	nmod	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-188 nodes (15%) are attached to their parents as `root`.
+197 nodes (14%) are attached to their parents as `root`.
 
-188 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.88297872340426.
+197 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.88324873096447.
 
-The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (136; 72% instances), -<tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> (18; 10% instances), -<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (12; 6% instances), -<tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> (10; 5% instances), -<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), -<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), -<tt><a href="ceb_gja-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (143; 73% instances), -<tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> (18; 9% instances), -<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (12; 6% instances), -<tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> (10; 5% instances), -<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (9; 5% instances), -<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), -<tt><a href="ceb_gja-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

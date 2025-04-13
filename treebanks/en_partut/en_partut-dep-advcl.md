@@ -49,7 +49,7 @@ The following 25 pairs of parts of speech are connected with `advcl`: <tt><a hre
 6	was	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	_
 7	about	about	ADV	B	_	9	advmod	_	_
 8	three	three	NUM	N	NumType=Card	9	nummod	_	_
-9	feet	foot	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	_
+9	feet	foot	NOUN	S	Number=Plur	10	obl	_	_
 10	tall	tall	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	FS	_	10	punct	_	_
 

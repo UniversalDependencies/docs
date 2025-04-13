@@ -12,15 +12,15 @@ udver: '2'
 # UD Spanish PUD
 
 Language: [Spanish](/es/index.html) (code: `es`)<br/>
-Family: Indo-European, Romance
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Hector Fernandez Alcalde, Laura Moreno Romero, Martin Popel, Daniel Zeman, Héctor Martínez Alonso.
 
 Repository: [UD_Spanish-PUD](https://github.com/UniversalDependencies/UD_Spanish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_pud214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_pud215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 3.0
 
@@ -86,7 +86,7 @@ employ ten-fold cross-validation.
 
 ## Features
 
-[Abbr](es_pud-feat-Abbr.html) – [Case](es_pud-feat-Case.html) – [Definite](es_pud-feat-Definite.html) – [Degree](es_pud-feat-Degree.html) – [Foreign](es_pud-feat-Foreign.html) – [Gender](es_pud-feat-Gender.html) – [Hyph](es_pud-feat-Hyph.html) – [Mood](es_pud-feat-Mood.html) – [Number](es_pud-feat-Number.html) – [NumForm](es_pud-feat-NumForm.html) – [NumType](es_pud-feat-NumType.html) – [Person](es_pud-feat-Person.html) – [Polarity](es_pud-feat-Polarity.html) – [Polite](es_pud-feat-Polite.html) – [Poss](es_pud-feat-Poss.html) – [PrepCase](es_pud-feat-PrepCase.html) – [PronType](es_pud-feat-PronType.html) – [Reflex](es_pud-feat-Reflex.html) – [Tense](es_pud-feat-Tense.html) – [VerbForm](es_pud-feat-VerbForm.html)
+[Abbr](es_pud-feat-Abbr.html) – [Case](es_pud-feat-Case.html) – [Definite](es_pud-feat-Definite.html) – [Degree](es_pud-feat-Degree.html) – [Foreign](es_pud-feat-Foreign.html) – [Gender](es_pud-feat-Gender.html) – [Hyph](es_pud-feat-Hyph.html) – [Mood](es_pud-feat-Mood.html) – [Number](es_pud-feat-Number.html) – [Number[psor]](es_pud-feat-Number-psor.html) – [NumForm](es_pud-feat-NumForm.html) – [NumType](es_pud-feat-NumType.html) – [Person](es_pud-feat-Person.html) – [Polarity](es_pud-feat-Polarity.html) – [Polite](es_pud-feat-Polite.html) – [Poss](es_pud-feat-Poss.html) – [PrepCase](es_pud-feat-PrepCase.html) – [PronType](es_pud-feat-PronType.html) – [PunctSide](es_pud-feat-PunctSide.html) – [PunctType](es_pud-feat-PunctType.html) – [Reflex](es_pud-feat-Reflex.html) – [Tense](es_pud-feat-Tense.html) – [VerbForm](es_pud-feat-VerbForm.html)
 
 ## Relations
 
@@ -129,11 +129,11 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 21 lemmas tagged as pronouns (PRON): I, cual, cuanto, cuál, cuáles, her, mi, my, nuestro, que, quien, quién, qué, su, suyo, tu, tú, uno, yo, you, él</li>
+<li>This corpus contains 18 lemmas tagged as pronouns (PRON): I, cual, cuanto, cuál, cuáles, her, my, que, quien, quién, qué, su, suyo, tú, uno, yo, you, él</li>
 </ul>
 
 <ul>
-<li>This corpus contains 29 lemmas tagged as determiners (DET): a, alguno, ambo, ambos, aquel, aquello, cada, cierto, cualquier, cuyo, el, en, ese, eso, este, esto, le, mucho, ninguno, ningún, otro, poco, que, qué, that, the, todo, uno, vario</li>
+<li>This corpus contains 32 lemmas tagged as determiners (DET): a, alguno, ambo, ambos, aquel, aquello, cada, cierto, cualquier, cuyo, el, en, ese, eso, este, esto, le, mi, mucho, ninguno, ningún, nuestro, otro, poco, que, qué, that, the, todo, tu, uno, vario</li>
 </ul>
 
 <ul>
@@ -202,7 +202,7 @@ employ ten-fold cross-validation.
       <li>DET: la, las, una, esta, muchas, todas, otra, cada, varias, estas</li>
       <li>NOUN: guerra, parte, ciudad, vez, personas, historia, región, mayoría, vida, veces</li>
       <li>NUM: dos, tres, 10, 760, cuatro, diez, ocho, 10.000, 12.000, 125</li>
-      <li>PRON: su, que, sus, ella, la, cual, cuales, nuestra, mi, nuestras</li>
+      <li>PRON: su, que, sus, ella, la, cual, cuales, una, Her, las</li>
       <li>PROPN: Clinton, BBC, Kesha, Rona, luna, Blunt, Guinea, Jasmine, UE, Anaya</li>
       <li>VERB-Fin: coescritas, escritas, incluídas, resueltas</li>
       <li>VERB-Part: dirigida, consideradas, coprotagonizada, derrotada, destruida, dividida, formada, llamada, localizadas, perdidas</li>
@@ -218,7 +218,7 @@ employ ten-fold cross-validation.
       <li>DET: el, los, un, este, esto, ese, cada, muchos, eso, estos</li>
       <li>NOUN: años, año, lugar, gobierno, estado, millones, día, embargo, mar, mundo</li>
       <li>NUM: dos, 1, 10, 3, mil, tres, seis, 70, cuatro, 100</li>
-      <li>PRON: que, lo, su, sus, ellos, él, cual, nuestro, los, cuales</li>
+      <li>PRON: que, lo, su, sus, ellos, él, cual, los, cuales, ello</li>
       <li>PROPN: C., Trump, mediterráneo, EUA, C, Donald, Caribe, Joseph, Rafferty, Andes</li>
       <li>VERB-Fin: escrito, atraído, construído, contruídos, disuelto</li>
       <li>VERB-Part: debido, hecho, tenido, dado, dejado, visto, acusado, declarado, desarrollado, dicho</li>
@@ -238,7 +238,7 @@ employ ten-fold cross-validation.
       <li>AUX-Fin: son, fueron, han, habían, pueden, estaban, están, eran, hayan, debemos</li>
       <li>DET: los, las, muchos, estos, muchas, otros, todas, varios, esos, unos</li>
       <li>NOUN: años, millones, personas, estados, veces, ciudades, datos, elecciones, inversores, meses</li>
-      <li>PRON: que, sus, ellos, les, cuales, nos, los, quienes, nuestras, nuestros</li>
+      <li>PRON: que, sus, ellos, les, cuales, nos, los, quienes, Cuáles, Quiénes</li>
       <li>PROPN: EUA, Andes, Balcanes, Alpes, B-29, CBS, Caribs, GIFs, Indias, Loving</li>
       <li>VERB-Fin: tienen, están, incluyen, llegaron, tenían, tuvieron, afirman, dieron, empezaron, corresponden</li>
       <li>VERB-Part: involucrados, llamados, consideradas, expuestos, localizadas, perdidas, acompañados, activados, acusadas, administrados</li>
@@ -557,6 +557,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Prs
     <ul>
+      <li>DET: nuestro, mi, nuestra, nuestras, nuestros, mis, tu</li>
       <li>PRON: se, su, lo, sus, le, me, ellos, él, les, ella</li>
     </ul>
   </li>
@@ -601,8 +602,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Yes
     <ul>
-      <li>DET: cuyo, cuya, cuyos</li>
-      <li>PRON: su, sus, nuestro, mi, nuestra, nuestras, nuestros, mis, suya, suyos</li>
+      <li>DET: nuestro, mi, nuestra, cuyo, nuestras, nuestros, cuya, cuyos, mis, tu</li>
+      <li>PRON: su, sus, suya, suyos</li>
     </ul>
   </li>
 </ul>
@@ -627,7 +628,8 @@ employ ten-fold cross-validation.
   <li>1
     <ul>
       <li>AUX-Fin: debemos, he, estamos, hemos, podemos, era, estaré, había, puedo, seamos</li>
-      <li>PRON: me, nos, yo, nuestro, mi, nuestra, My, nuestras, nuestros, mis</li>
+      <li>DET: nuestro, mi, nuestra, nuestras, nuestros, mis</li>
+      <li>PRON: me, nos, yo, My, mí</li>
       <li>VERB-Fin: creo, creemos, espero, estamos, estoy, quería, sé, tenemos, tengo, Avancemos</li>
     </ul>
   </li>
@@ -637,7 +639,8 @@ employ ten-fold cross-validation.
   <li>2
     <ul>
       <li>AUX-Fin: Do, Tienes, habéis, has, puedes</li>
-      <li>PRON: You, te, Ya, os, tu, tú, usted, ustedes</li>
+      <li>DET: tu</li>
+      <li>PRON: You, te, Ya, os, tú, usted, ustedes</li>
       <li>VERB-Fin: Buck, Knew, Knuck, Terminas, oyes, tienes</li>
     </ul>
   </li>
@@ -666,6 +669,25 @@ employ ten-fold cross-validation.
 </ul>
 
 
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
+
+<ul>
+  <li>Plur
+    <ul>
+      <li>DET: nuestro, nuestra, nuestras, nuestros</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sing
+    <ul>
+      <li>DET: mi, mis, tu</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Other Features</h3>
 
@@ -741,6 +763,75 @@ employ ten-fold cross-validation.
       <li>Word
         <ul>
           <li>NUM: dos, tres, cuatro, mil, seis, cinco, diez, siete, treinta, un</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>PunctSide</a>
+    <ul>
+      <li>Fin
+        <ul>
+          <li>PUNCT: ), ?</li>
+        </ul>
+      </li>
+      <li>Ini
+        <ul>
+          <li>PUNCT: (, ¿</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>PunctType</a>
+    <ul>
+      <li>Brck
+        <ul>
+          <li>PUNCT: (, )</li>
+        </ul>
+      </li>
+      <li>Colo
+        <ul>
+          <li>PUNCT: :, /</li>
+        </ul>
+      </li>
+      <li>Comm
+        <ul>
+          <li>PUNCT: ,</li>
+        </ul>
+      </li>
+      <li>Dash
+        <ul>
+          <li>PUNCT: -, —</li>
+        </ul>
+      </li>
+      <li>Elip
+        <ul>
+          <li>PUNCT: …</li>
+        </ul>
+      </li>
+      <li>Peri
+        <ul>
+          <li>PUNCT: .</li>
+        </ul>
+      </li>
+      <li>Qest
+        <ul>
+          <li>PUNCT: ?, ¿</li>
+        </ul>
+      </li>
+      <li>Quot
+        <ul>
+          <li>PUNCT: ", ', «, »</li>
+        </ul>
+      </li>
+      <li>Semi
+        <ul>
+          <li>PUNCT: ;</li>
         </ul>
       </li>
     </ul>

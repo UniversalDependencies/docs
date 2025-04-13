@@ -13,7 +13,7 @@ The 10 most frequent `PART` lemmas: <em>a, fo, so, ní, sin, ad, do, í, in, no<
 
 The 10 most frequent `PART` types:  <em>a, fo, sin, so, ni, ní, Do, at, fu, hí</em>
 
-The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> 6, <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 5, <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> 5), <em>fo</em> (<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 5, <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> 1), <em>so</em> (<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 5, <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> 2), <em>do</em> (<tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> 10, <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 2, <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> 1), <em>in</em> (<tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> 22, <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 1), <em>ná</em> (<tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="sga_dipsgg-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> 6, <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 5, <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> 5), <em>fo</em> (<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 5, <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> 1), <em>so</em> (<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 5, <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> 2), <em>do</em> (<tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> 10, <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 2, <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> 1), <em>in</em> (<tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> 22, <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 1), <em>ná</em> (<tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="sga_dipsgg-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 6, <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> 4, <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> 4), <em>fo</em> (<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 3, <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> 1), <em>sin</em> (<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 3, <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> 1), <em>ní</em> (<tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> 2, <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 2), <em>hí</em> (<tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> 1, <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 1), <em>in</em> (<tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> 9, <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 1)
 
@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="sga_dipsgg-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.384615 (the average of all parts of speech is 1.261062).
+The form / lemma ratio of `PART` is 1.384615 (the average of all parts of speech is 1.295652).
 
 The 1st highest number of forms (3) was observed with the lemma “so”: <em>sa, so, ᚄᚑ</em>.
 

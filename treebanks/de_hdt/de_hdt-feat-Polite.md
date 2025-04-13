@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 `PRON` tokens may have the following values of `Polite`:
 
 * `Form` (70; 100% of non-empty `Polite`): <em>Ihnen</em>
-* `EMPTY` (94783): <em>sich, es, die, sie, man, das, er, der, wir, was</em>
+* `EMPTY` (94777): <em>sich, es, die, sie, man, das, er, der, wir, was</em>
 
 ### `DET`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `DET` and `Polite` co-occurred
 `DET` tokens may have the following values of `Polite`:
 
 * `Form` (50; 100% of non-empty `Polite`): <em>Ihre, Ihr, Ihren, Ihrer, Ihrem</em>
-* `EMPTY` (497621): <em>der, die, dem, den, das, des, eine, ein, einen, einer</em>
+* `EMPTY` (494317): <em>der, die, dem, den, das, des, eine, ein, einen, einer</em>
 

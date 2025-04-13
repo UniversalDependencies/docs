@@ -64,7 +64,7 @@ The 10 most frequent ambiguous types:  <em>più</em> (<tt><a href="it_isdt-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.010135 (the average of all parts of speech is 1.481549).
+The form / lemma ratio of `ADV` is 1.010135 (the average of all parts of speech is 1.481621).
 
 The 1st highest number of forms (4) was observed with the lemma “eccetera”: <em>ecc, ecc., eccetera, etc.</em>.
 

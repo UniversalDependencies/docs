@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 4	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
 5	asesinada	asesinar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
 6	allí	allí	ADV	RB	_	5	advmod	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	1	punct	_	_
+7	.	.	PUNCT	.	PunctType=Peri	1	punct	_	_
 
 ~~~
 

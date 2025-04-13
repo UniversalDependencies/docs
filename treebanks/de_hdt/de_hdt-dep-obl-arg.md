@@ -8,24 +8,29 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="de_hdt-dep-obl.html">obl</a></tt>.
 
-6090 nodes (0%) are attached to their parents as `obl:arg`.
+9933 nodes (0%) are attached to their parents as `obl:arg`.
 
-4209 instances of `obl:arg` (69%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.44761904761905.
+6929 instances of `obl:arg` (70%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.82452431289641.
 
-The following 11 pairs of parts of speech are connected with `obl:arg`: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (3494; 57% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1888; 31% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (574; 9% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-X.html">X</a></tt> (54; 1% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (52; 1% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `obl:arg`: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (4844; 49% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (3227; 32% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (976; 10% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (295; 3% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (131; 1% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (120; 1% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (82; 1% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-X.html">X</a></tt> (54; 1% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (47; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (32; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (32; 0% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (28; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (24; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 obl:arg	color:blue
-1	Telekom	Telekom	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
-2	berechnet	berechnen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	1&1-Kunden	Kunde	NOUN	NN	Case=Dat|Number=Plur	2	obl:arg	_	_
-4	zuviel	zuviel	X	FM	Foreign=Yes	2	obj	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 obl:arg	color:blue
+1	"	"	PUNCT	$(	PunctType=Brck	4	punct	_	_
+2	Diesen	dieser	DET	PDAT	Case=Dat|Number=Plur|PronType=Dem	3	det	_	_
+3	Gerüchten	Gerücht	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	4	obl:arg	_	_
+4	liegt	liegen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	eine	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	7	det	_	_
+6	unseriöse	unseriöse	ADJ	ADJA	Gender=Fem|Number=Sing	7	amod	_	_
+7	Recherche	Recherche	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+8	zugrunde	zugrunde	ADP	PTKVZ	PartType=Vbp	4	compound:prt	_	_
+9	.	.	PUNCT	$.	PunctType=Peri	4	punct	_	_
 
 ~~~
 
@@ -50,19 +55,20 @@ The following 11 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 obl:arg	color:blue
-1	Cracker	Cracker	NOUN	NN	Gender=Masc|Number=Plur	2	nsubj	_	_
-2	erklären	erklären	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	China	China	PROPN	NE	Case=Dat|Number=Sing	2	obl:arg	_	_
-4	und	und	CCONJ	KON	_	6	cc	_	_
-5	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	Irak	Irak	PROPN	NE	Gender=Masc|Number=Sing	3	conj	_	_
-7	den	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	Cyberkrieg	Krieg	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	_
+# visual-style 2 1 obl:arg	color:blue
+1	Netscape	Netscape	PROPN	NE	Case=Dat|Number=Sing	2	obl:arg	_	_
+2	droht	drohen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	derweil	derweil	ADV	ADV	_	2	advmod	_	_
+4	noch	noch	ADV	ADV	_	7	advmod	_	_
+5	von	von	ADP	APPR	AdpType=Prep|Case=Dat	7	case	_	_
+6	anderer	anderer	DET	ADJA	Case=Dat|Gender=Fem|Number=Sing|PronType=Ind	7	det	_	_
+7	Seite	Seite	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	_
+8	Ungemach	Ungemach	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+9	.	.	PUNCT	$.	PunctType=Peri	2	punct	_	_
 
 ~~~
 

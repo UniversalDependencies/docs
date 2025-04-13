@@ -12,15 +12,15 @@ udver: '2'
 # UD English PUD
 
 Language: [English](/en/index.html) (code: `en`)<br/>
-Family: Indo-European, Germanic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Jesse Kirchner, Lorenzo Lambertino, Martin Popel, Daniel Zeman, Christopher Manning, Sebastian Schuster, Siva Reddy.
 
 Repository: [UD_English-PUD](https://github.com/UniversalDependencies/UD_English-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pud214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pud215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 3.0
 
@@ -105,11 +105,11 @@ features and lemmata were added by Sebastian Schuster.
 
 ## Features
 
-[Abbr](en_pud-feat-Abbr.html) – [Case](en_pud-feat-Case.html) – [Definite](en_pud-feat-Definite.html) – [Degree](en_pud-feat-Degree.html) – [Foreign](en_pud-feat-Foreign.html) – [Gender](en_pud-feat-Gender.html) – [Mood](en_pud-feat-Mood.html) – [Number](en_pud-feat-Number.html) – [NumForm](en_pud-feat-NumForm.html) – [NumType](en_pud-feat-NumType.html) – [Person](en_pud-feat-Person.html) – [Polarity](en_pud-feat-Polarity.html) – [Poss](en_pud-feat-Poss.html) – [PronType](en_pud-feat-PronType.html) – [Reflex](en_pud-feat-Reflex.html) – [Style](en_pud-feat-Style.html) – [Tense](en_pud-feat-Tense.html) – [Typo](en_pud-feat-Typo.html) – [VerbForm](en_pud-feat-VerbForm.html)
+[Abbr](en_pud-feat-Abbr.html) – [Case](en_pud-feat-Case.html) – [Definite](en_pud-feat-Definite.html) – [Degree](en_pud-feat-Degree.html) – [ExtPos](en_pud-feat-ExtPos.html) – [Foreign](en_pud-feat-Foreign.html) – [Gender](en_pud-feat-Gender.html) – [Mood](en_pud-feat-Mood.html) – [Number](en_pud-feat-Number.html) – [NumForm](en_pud-feat-NumForm.html) – [NumType](en_pud-feat-NumType.html) – [Person](en_pud-feat-Person.html) – [Polarity](en_pud-feat-Polarity.html) – [Poss](en_pud-feat-Poss.html) – [PronType](en_pud-feat-PronType.html) – [Reflex](en_pud-feat-Reflex.html) – [Style](en_pud-feat-Style.html) – [Tense](en_pud-feat-Tense.html) – [Typo](en_pud-feat-Typo.html) – [VerbForm](en_pud-feat-VerbForm.html)
 
 ## Relations
 
-[acl](en_pud-dep-acl.html) – [acl:relcl](en_pud-dep-acl-relcl.html) – [advcl](en_pud-dep-advcl.html) – [advcl:relcl](en_pud-dep-advcl-relcl.html) – [advmod](en_pud-dep-advmod.html) – [amod](en_pud-dep-amod.html) – [appos](en_pud-dep-appos.html) – [aux](en_pud-dep-aux.html) – [aux:pass](en_pud-dep-aux-pass.html) – [case](en_pud-dep-case.html) – [cc](en_pud-dep-cc.html) – [cc:preconj](en_pud-dep-cc-preconj.html) – [ccomp](en_pud-dep-ccomp.html) – [compound](en_pud-dep-compound.html) – [compound:prt](en_pud-dep-compound-prt.html) – [conj](en_pud-dep-conj.html) – [cop](en_pud-dep-cop.html) – [csubj](en_pud-dep-csubj.html) – [csubj:pass](en_pud-dep-csubj-pass.html) – [dep](en_pud-dep-dep.html) – [det](en_pud-dep-det.html) – [det:predet](en_pud-dep-det-predet.html) – [discourse](en_pud-dep-discourse.html) – [dislocated](en_pud-dep-dislocated.html) – [expl](en_pud-dep-expl.html) – [fixed](en_pud-dep-fixed.html) – [flat](en_pud-dep-flat.html) – [goeswith](en_pud-dep-goeswith.html) – [iobj](en_pud-dep-iobj.html) – [mark](en_pud-dep-mark.html) – [nmod](en_pud-dep-nmod.html) – [nmod:npmod](en_pud-dep-nmod-npmod.html) – [nmod:poss](en_pud-dep-nmod-poss.html) – [nmod:tmod](en_pud-dep-nmod-tmod.html) – [nsubj](en_pud-dep-nsubj.html) – [nsubj:pass](en_pud-dep-nsubj-pass.html) – [nummod](en_pud-dep-nummod.html) – [obj](en_pud-dep-obj.html) – [obl](en_pud-dep-obl.html) – [obl:npmod](en_pud-dep-obl-npmod.html) – [obl:tmod](en_pud-dep-obl-tmod.html) – [orphan](en_pud-dep-orphan.html) – [parataxis](en_pud-dep-parataxis.html) – [punct](en_pud-dep-punct.html) – [reparandum](en_pud-dep-reparandum.html) – [root](en_pud-dep-root.html) – [vocative](en_pud-dep-vocative.html) – [xcomp](en_pud-dep-xcomp.html)
+[acl](en_pud-dep-acl.html) – [acl:relcl](en_pud-dep-acl-relcl.html) – [advcl](en_pud-dep-advcl.html) – [advcl:relcl](en_pud-dep-advcl-relcl.html) – [advmod](en_pud-dep-advmod.html) – [amod](en_pud-dep-amod.html) – [appos](en_pud-dep-appos.html) – [aux](en_pud-dep-aux.html) – [aux:pass](en_pud-dep-aux-pass.html) – [case](en_pud-dep-case.html) – [cc](en_pud-dep-cc.html) – [cc:preconj](en_pud-dep-cc-preconj.html) – [ccomp](en_pud-dep-ccomp.html) – [compound](en_pud-dep-compound.html) – [compound:prt](en_pud-dep-compound-prt.html) – [conj](en_pud-dep-conj.html) – [cop](en_pud-dep-cop.html) – [csubj](en_pud-dep-csubj.html) – [csubj:pass](en_pud-dep-csubj-pass.html) – [dep](en_pud-dep-dep.html) – [det](en_pud-dep-det.html) – [det:predet](en_pud-dep-det-predet.html) – [discourse](en_pud-dep-discourse.html) – [dislocated](en_pud-dep-dislocated.html) – [expl](en_pud-dep-expl.html) – [fixed](en_pud-dep-fixed.html) – [flat](en_pud-dep-flat.html) – [goeswith](en_pud-dep-goeswith.html) – [iobj](en_pud-dep-iobj.html) – [mark](en_pud-dep-mark.html) – [nmod](en_pud-dep-nmod.html) – [nmod:poss](en_pud-dep-nmod-poss.html) – [nmod:unmarked](en_pud-dep-nmod-unmarked.html) – [nsubj](en_pud-dep-nsubj.html) – [nsubj:pass](en_pud-dep-nsubj-pass.html) – [nummod](en_pud-dep-nummod.html) – [obj](en_pud-dep-obj.html) – [obl](en_pud-dep-obl.html) – [obl:unmarked](en_pud-dep-obl-unmarked.html) – [orphan](en_pud-dep-orphan.html) – [parataxis](en_pud-dep-parataxis.html) – [punct](en_pud-dep-punct.html) – [reparandum](en_pud-dep-reparandum.html) – [root](en_pud-dep-root.html) – [vocative](en_pud-dep-vocative.html) – [xcomp](en_pud-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -148,15 +148,15 @@ features and lemmata were added by Sebastian Schuster.
 </ul>
 
 <ul>
-<li>This corpus contains 29 lemmas tagged as pronouns (PRON): I, he, her, herself, himself, his, it, its, itself, my, one, our, she, that, their, themselves, there, they, this, we, what, where, which, who, whoever, whom, whose, you, your</li>
+<li>This corpus contains 38 lemmas tagged as pronouns (PRON): I, anybody, anyone, anything, everyone, everything, he, her, herself, himself, his, it, its, itself, my, none, one, our, she, somebody, someone, something, that, their, themselves, there, they, this, we, what, where, which, who, whoever, whom, whose, you, your</li>
 </ul>
 
 <ul>
-<li>This corpus contains 19 lemmas tagged as determiners (DET): a, all, another, any, both, each, either, every, half, nary, no, some, such, that, the, there, this, whatever, which</li>
+<li>This corpus contains 18 lemmas tagged as determiners (DET): a, all, another, any, both, each, either, every, half, nary, no, some, such, that, the, this, whatever, which</li>
 </ul>
 
 <ul>
-<li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: that, there, this, which</li>
+<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: that, this, which</li>
 </ul>
 
 <ul>
@@ -175,7 +175,6 @@ features and lemmata were added by Sebastian Schuster.
   <li>Fin
   <ul>
     <li>AUX: was, is, would, will, are, were, can, has, had, could</li>
-    <li>NOUN: hit</li>
     <li>VERB: said, took, has, began, are, is, became, says, have, had</li>
   </ul>
   </li>
@@ -185,7 +184,7 @@ features and lemmata were added by Sebastian Schuster.
   <li>Ger
   <ul>
     <li>AUX: being, having</li>
-    <li>VERB: according, following, including, making, playing, using, getting, working, co-starring, growing</li>
+    <li>VERB: following, including, according, making, playing, using, getting, working, co-starring, growing</li>
   </ul>
   </li>
 </ul>
@@ -259,8 +258,6 @@ features and lemmata were added by Sebastian Schuster.
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: Canadian, Historian, Spanish, male</li>
-      <li>ADV: course</li>
       <li>AUX-Fin: was, is, has, 's, ’s, does, am</li>
       <li>DET: this, that</li>
       <li>NOUN: time, year, government, city, state, century, world, day, war, place</li>
@@ -333,9 +330,8 @@ features and lemmata were added by Sebastian Schuster.
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: new, many, other, such, last, high, first, own, several, political</li>
+      <li>ADJ: new, many, other, last, great, high, first, own, several, political</li>
       <li>ADV: well, far, late, soon, close, early, hard, long, Fast</li>
-      <li>PROPN: Great, American, Atlantic, Dark, Middle, National, United</li>
     </ul>
   </li>
 </ul>
@@ -356,7 +352,7 @@ features and lemmata were added by Sebastian Schuster.
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: not, no, n’t, never, n't</li>
+      <li>ADV: no</li>
       <li>PART: not, n't, n’t</li>
     </ul>
   </li>
@@ -375,7 +371,6 @@ features and lemmata were added by Sebastian Schuster.
   <li>Ind
     <ul>
       <li>AUX-Fin: was, is, are, were, has, had, have, 's, did, do</li>
-      <li>NOUN-Fin: hit</li>
       <li>VERB-Fin: said, took, has, began, are, is, became, says, have, had</li>
     </ul>
   </li>
@@ -390,7 +385,6 @@ features and lemmata were added by Sebastian Schuster.
     <ul>
       <li>AUX-Fin: was, were, had, did, got</li>
       <li>AUX-Part: been</li>
-      <li>NOUN-Fin: hit</li>
       <li>VERB-Fin: said, took, began, became, had, told, worked, was, were, allowed</li>
       <li>VERB-Part: used, known, given, made, built, left, released, seen, allowed, considered</li>
     </ul>
@@ -427,10 +421,9 @@ features and lemmata were added by Sebastian Schuster.
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: then, there, here</li>
+      <li>ADV: now, then, there, here</li>
       <li>DET: this, that, these, those</li>
       <li>PRON: this, that, those, these</li>
-      <li>SCONJ: that</li>
     </ul>
   </li>
 </ul>
@@ -438,7 +431,9 @@ features and lemmata were added by Sebastian Schuster.
 <ul>
   <li>Ind
     <ul>
+      <li>ADV: sometimes, ever</li>
       <li>DET: some, another, any, such, either, half</li>
+      <li>PRON: someone, something, anybody, anyone, anything, somebody</li>
     </ul>
   </li>
 </ul>
@@ -446,10 +441,9 @@ features and lemmata were added by Sebastian Schuster.
 <ul>
   <li>Int
     <ul>
-      <li>ADV: when, how, why, where, whenever</li>
-      <li>DET: whatever, which</li>
-      <li>PRON: what, which, who, whose, where, whoever, whom</li>
-      <li>SCONJ: when</li>
+      <li>ADV: when, how, why, where</li>
+      <li>DET: which</li>
+      <li>PRON: what, which, who, whose, where, whom</li>
     </ul>
   </li>
 </ul>
@@ -457,7 +451,9 @@ features and lemmata were added by Sebastian Schuster.
 <ul>
   <li>Neg
     <ul>
+      <li>ADV: never, nowhere</li>
       <li>DET: no, nary</li>
+      <li>PRON: none</li>
     </ul>
   </li>
 </ul>
@@ -473,10 +469,9 @@ features and lemmata were added by Sebastian Schuster.
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: where, when, why</li>
-      <li>DET: which</li>
-      <li>PRON: which, that, who</li>
-      <li>SCONJ: that</li>
+      <li>ADV: where, when, why, whenever</li>
+      <li>DET: whatever, which</li>
+      <li>PRON: which, that, who, whoever</li>
     </ul>
   </li>
 </ul>
@@ -484,7 +479,9 @@ features and lemmata were added by Sebastian Schuster.
 <ul>
   <li>Tot
     <ul>
+      <li>ADV: always</li>
       <li>DET: all, each, both, every</li>
+      <li>PRON: everyone, everything</li>
     </ul>
   </li>
 </ul>
@@ -602,6 +599,39 @@ features and lemmata were added by Sebastian Schuster.
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADJ: such, due, Megarian</li>
+          <li>ADP: because, Due</li>
+          <li>ADV: Prior</li>
+          <li>VERB-Ger: according</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADJ: more</li>
+          <li>ADP: at, of, up</li>
+          <li>ADV: all, at</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>DET: each</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: in</li>
+          <li>SCONJ: in, Prior</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -687,16 +717,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (325)</li>
+      <li>VERB-Fin--NOUN (321)</li>
       <li>VERB-Fin--NOUN-ADP(on) (1)</li>
-      <li>VERB-Fin--PRON (88)</li>
+      <li>VERB-Fin--PRON (94)</li>
       <li>VERB-Fin--PRON-Nom (180)</li>
       <li>VERB-Ger--NOUN (4)</li>
       <li>VERB-Ger--PRON (1)</li>
       <li>VERB-Ger--PRON-Acc (1)</li>
       <li>VERB-Ger--PRON-Nom (3)</li>
-      <li>VERB-Inf--NOUN (62)</li>
-      <li>VERB-Inf--PRON (11)</li>
+      <li>VERB-Inf--NOUN (59)</li>
+      <li>VERB-Inf--PRON (14)</li>
       <li>VERB-Inf--PRON-Acc (3)</li>
       <li>VERB-Inf--PRON-Nom (51)</li>
       <li>VERB-Part--NOUN (71)</li>
@@ -715,8 +745,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--NOUN (109)</li>
       <li>VERB-Ger--PRON (3)</li>
       <li>VERB-Ger--PRON-Acc (6)</li>
-      <li>VERB-Inf--NOUN (210)</li>
-      <li>VERB-Inf--PRON (7)</li>
+      <li>VERB-Inf--NOUN (206)</li>
+      <li>VERB-Inf--PRON (11)</li>
       <li>VERB-Inf--PRON-Acc (14)</li>
       <li>VERB-Part--NOUN (72)</li>
       <li>VERB-Part--PRON (3)</li>
@@ -748,6 +778,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 13 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:npmod</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:poss</a>, <a>nmod:unmarked</a>, <a>nsubj:pass</a>, <a>obl:unmarked</a></li>
 <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a></li>
 </ul>

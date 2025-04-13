@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>delší</em> (<tt><a href="cs_cltt-po
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.857664 (the average of all parts of speech is 1.713272).
+The form / lemma ratio of `VERB` is 1.857664 (the average of all parts of speech is 1.709632).
 
 The 1st highest number of forms (8) was observed with the lemma “účtovat”: <em>neúčtovala, neúčtovat, neúčtuje, neúčtují, účtovala, účtovat, účtuje, účtují</em>.
 

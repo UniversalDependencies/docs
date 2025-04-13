@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-40 nodes (0%) are attached to their parents as `csubj`.
+41 nodes (0%) are attached to their parents as `csubj`.
 
-20 instances of `csubj` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.325.
+21 instances of `csubj` (51%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.17073170731707.
 
-The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (22; 55% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (5; 13% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (5; 13% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (22; 54% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (6; 15% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (5; 12% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -43,6 +43,33 @@ The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 csubj	color:blue
+1	Mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	paratoi	paratoi	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	1	csubj	_	_
+3	myfyrwyr	myfyriwr	NOUN	noun	Gender=Masc|Number=Plur	2	obj	_	_
+4	fel	fel	ADP	prep	_	5	mark	_	_
+5	bod	bod	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	2	acl	_	_
+6	gan	gan	ADP	iprep	_	7	case	_	_
+7	hwy	hwy	PRON	indep	Number=Plur|Person=3|PronType=Prs	5	obl	_	_
+8	gyfleoedd	cyfle	NOUN	noun	Gender=Masc|Mutation=SM|Number=Plur	5	nsubj	_	_
+9	cyflogadwyedd	cyflogadwyedd	NOUN	noun	Gender=Masc|Number=Sing	8	nmod	_	_
+10	rhagorol	rhagorol	ADJ	pos	Degree=Pos	9	amod	_	_
+11	yn	yn	PART	pred	_	12	case:pred	_	_
+12	rhan	rhan	NOUN	noun	Gender=Fem|Number=Sing	8	acl	_	_
+13	ganolog	canolog	ADJ	pos	Degree=Pos|Mutation=SM	12	amod	_	_
+14	o	o	ADP	prep	_	16	case	_	SpaceAfter=No
+15	'n	ni	PRON	dep	Number=Plur|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	_
+16	cyrsiau	cwrs	NOUN	noun	Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 2 csubj	color:blue
@@ -58,37 +85,6 @@ The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href
 10	bwysig	pwysig	ADJ	pos	Degree=Pos|Mutation=SM	0	root	_	_
 11	iawn	iawn	ADV	adv	_	10	advmod	_	SpaceAfter=No
 12	.	.	PUNCT	punct	_	10	punct	_	SpacesAfter=\n
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 8 csubj	color:blue
-1	Ond	ond	CCONJ	cconj	_	3	cc	_	_
-2	os	os	SCONJ	sconj	_	3	mark	_	_
-3	rhoi	rhoi	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	8	advcl	_	_
-4	cynnig	cynnig	NOUN	noun	Gender=Masc|Number=Sing	3	obj	_	_
-5	ar	ar	ADP	iprep	_	6	case	_	_
-6	hi	hi	PRON	indep	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
-7	,	,	PUNCT	punct	_	8	punct	_	_
-8	herio	herio	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	17	csubj	_	_
-9	gwleidyddion	gwleidydd	NOUN	noun	Gender=Masc|Number=Plur	8	obj	_	_
-10	a	a	CCONJ	cconj	_	12	cc	_	SpaceAfter=No
-11	'u	hwy	PRON	dep	Number=Plur|Person=3|PronType=Prs	12	obj	_	_
-12	dal	dal	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	8	conj	_	_
-13	i	i	ADP	prep	_	14	mark	_	_
-14	gyfrif	cyfrif	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	12	xcomp	_	_
-15	o	o	ADP	prep	_	16	case	_	_
-16	ddifrif	difrif	ADJ	pos	Degree=Pos|Mutation=SM	12	advmod	_	_
-17	ddylai	dylu	VERB	verb	Mood=Cnd|Mutation=SM|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-18	fod	bod	AUX	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	20	cop	_	_
-19	y	y	DET	art	_	20	det	_	_
-20	nod	nod	NOUN	noun	Gender=Masc|Number=Sing	17	xcomp	_	SpaceAfter=No
-21	.	.	PUNCT	punct	_	17	punct	_	SpacesAfter=\n
 
 ~~~
 

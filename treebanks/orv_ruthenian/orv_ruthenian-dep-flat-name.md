@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="orv_ruthenian-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="orv_ruthenian-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-1494 nodes (2%) are attached to their parents as `flat:name`.
+1818 nodes (2%) are attached to their parents as `flat:name`.
 
-1494 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.76037483266399.
+1818 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.64301430143014.
 
-The following 9 pairs of parts of speech are connected with `flat:name`: <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1395; 93% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (42; 3% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (32; 2% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `flat:name`: <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1710; 94% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (42; 2% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (40; 2% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,25 +59,19 @@ The following 9 pairs of parts of speech are connected with `flat:name`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 13 flat:name	color:blue
-1	Я	я	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	wf="Я"|SpaceAfter=No
-2	,	,	PUNCT	-COMMA-	_	1	punct	_	_
-3	Семенъ	Семенъ	PROPN	NPA	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	1	appos	_	wf="Семенъ"
-4	и	и	CCONJ	СС	_	9	cc	_	wf="и"
-5	з	зъ	ADP	IN	_	7	case	_	wf="з"
-6	моим	мой	DET	PRP$	Case=Ins|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	wf="моим"
-7	братомъ	братъ	NOUN	NNA	Case=Ins|Gender=Masc|Number=Sing	3	nmod	_	wf="братомъ"
-8	с	съ	ADP	IN	_	9	case	_	wf="с"
-9	Ходором	Ходоръ	PROPN	NPA	Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	7	appos	_	wf="Ходором"|SpaceAfter=No
-10	,	,	PUNCT	-COMMA-	_	12	punct	_	_
-11	Ивановы	ивановъ	ADJ	JJH	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Variant=Short	12	amod	_	wf="Ивановы"
-12	дети	детя	NOUN	NNA	Case=Nom|Gender=Neut|Number=Plur	3	appos	_	wf="дети"
-13	Васковича	Васковичъ	PROPN	NPA	Case=Gen|Gender=Masc|NameType=Pat|Number=Sing	11	flat:name	_	wf="Васковича"|SpaceAfter=No
-14	.	.	PUNCT	-PERIOD-	_	1	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 flat:name	color:blue
+1	Немоиковичу	Немоиковичъ	PROPN	_	Case=Dat|Gender=Masc|NameType=Sur|Number=Sing	5	orphan	_	wf="Немо<i>и</i>ковичу"
+2	Шемегу	Шемегъ	PROPN	_	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	1	flat:name	_	wf="Шемегу"
+3	а	а	CCONJ	_	_	4	cc	_	wf="а"
+4	Римъку	Римко	PROPN	_	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	1	conj	_	wf="Римъку"
+5	дворец	дворецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	wf="дворе<i>ц</i>"
+6	Довкгаилов	довкгаиловъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	5	amod	_	wf="Довкга<i>и</i>ло<i>в</i>"
+7	Воишвиловича	Воишвиловичъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	6	flat:name	_	wf="Во<i>и</i>швиловича"|SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	wf="."
 
 ~~~
 

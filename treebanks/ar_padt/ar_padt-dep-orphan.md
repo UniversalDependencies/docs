@@ -66,7 +66,7 @@ The following 29 pairs of parts of speech are connected with `orphan`: <tt><a hr
 17	يلعب	لَعِب	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	2	parataxis	2:parataxis	Gloss=play|LTranslit=laʿib|Root=l ` b|Translit=yalʿabu|Vform=يَلعَبُ
 18	هويت	هويت	X	U---------	_	17	nsubj	17:nsubj	Vform=هويت|Root=OOV|Translit=hwyt
 19	مع	مَعَ	ADP	PI------4-	AdpType=Prep|Case=Acc	20	case	20:case	Vform=مَعَ|Gloss=with|Root=ma`|Translit=maʿa|LTranslit=maʿa
-20	كويرتن	كُوِيرتِن	X	X---------	Foreign=Yes	17	obl	17:obl:مَعَ	SpaceAfter=No|Vform=كُوِيرتِن|Gloss=Kuerten|Root=kuwIrtin|Translit=kuwīrtin|LTranslit=kuwīrtin
+20	كويرتن	كُوِيرتِن	X	X---------	Foreign=Yes	17	obl	17:obl:مَعَ:gen	SpaceAfter=No|Vform=كُوِيرتِن|Gloss=Kuerten|Root=kuwIrtin|Translit=kuwīrtin|LTranslit=kuwīrtin
 21	،	،	PUNCT	G---------	_	20	punct	20:punct	Vform=،|Translit=,
 22	و	وَ	CCONJ	C---------	_	23	cc	23.1:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
 23	رافتر	رَافتِر	X	X---------	Foreign=Yes	17	conj	23.1:dep	Gloss=Rafter|LTranslit=rāftir|Root=rAftir|Translit=rāftir|Vform=رَافتِر

@@ -24,7 +24,7 @@ The following 17 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 9	fgColor:white
 # visual-style 9 10 flat	color:blue
 1	is	is	AUX	Wp-i	Tense=Pres	3	cop	_	_
-2	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	1	fixed	_	_
+2	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	fixed	_	_
 3	àireamh	àireamh	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 4	fòn	fòn	NOUN	Ncsmg	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
 5	dìomhair	dìomhair	ADJ	Aq-sfn	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
@@ -60,7 +60,7 @@ The following 17 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 12	fgColor:white
 # visual-style 12 13 flat	color:blue
 1	is	is	AUX	Wp-i	Tense=Pres	3	cop	_	_
-2	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	1	fixed	_	_
+2	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	fixed	_	_
 3	àireamh	àireamh	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 4	fòn	fòn	NOUN	Ncsmg	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
 5	dìomhair	dìomhair	ADJ	Aq-sfn	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_

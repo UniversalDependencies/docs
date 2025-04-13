@@ -11,21 +11,21 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="gl_treegal-feat-Number.html">Number</a></tt>, <tt><a href="gl_treegal-feat-Number-psor.html">Number[psor]</a></tt>.
 
-14378 tokens (56%) have a non-empty value of `Number`.
-4554 types (85%) occur at least once with a non-empty value of `Number`.
-3052 lemmas (78%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (4837; 19% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (4110; 16% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1708; 7% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (1700; 7% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1110; 4% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (559; 2% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (261; 1% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (93; 0% instances).
+14376 tokens (56%) have a non-empty value of `Number`.
+4552 types (85%) occur at least once with a non-empty value of `Number`.
+3050 lemmas (78%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (4835; 19% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (4110; 16% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1708; 7% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (1700; 7% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1110; 4% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (559; 2% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (261; 1% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (93; 0% instances).
 
 ### `NOUN`
 
-4837 <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
+4835 <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2472; 51%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (1323; 27% of non-empty `Number`): <em>anos, socialistas, medios, bases, obras, nacionalistas, persoas, días, eleccións, fuxidos</em>
-* `Sing` (3514; 73% of non-empty `Number`): <em>goberno, traballo, Estado, cidade, estatuto, música, tempo, dereito, mundo, país</em>
+* `Plur` (1322; 27% of non-empty `Number`): <em>anos, socialistas, medios, bases, obras, nacionalistas, persoas, días, eleccións, fuxidos</em>
+* `Sing` (3513; 73% of non-empty `Number`): <em>goberno, traballo, Estado, cidade, estatuto, música, tempo, dereito, mundo, país</em>
 * `EMPTY` (29): <em>Celulosas, Discurso, Terra, Bahia, Caixa, Edicións, Escritores, Estado, Galego, Limones</em>
 
 <table>
@@ -89,7 +89,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 * `Plur` (433; 25% of non-empty `Number`): <em>galegos, diferentes, distintos, maiores, últimos, autonómicas, grandes, económicos, internacionais, novos</em>
 * `Sing` (1267; 75% of non-empty `Number`): <em>galega, novo, galego, español, mellor, política, social, xeral, actual, difícil</em>
-* `EMPTY` (22): <em>Mellor, galega, obstante, Artístico, Barataria, Franca, Profesional, Reservada, Tradicional, best</em>
+* `EMPTY` (21): <em>Mellor, galega, obstante, Artístico, Barataria, Franca, Profesional, Reservada, Tradicional, cabaleira</em>
 
 <table>
   <tr><th>Paradigm <i>galego</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

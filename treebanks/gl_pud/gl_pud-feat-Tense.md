@@ -18,16 +18,16 @@ The feature is used with 2 part-of-speech tags: <tt><a href="gl_pud-pos-VERB.htm
 
 1464 <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> tokens (65% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1462; 100%), <tt><a href="gl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1457; 100%), <tt><a href="gl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1374; 94%), <tt><a href="gl_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1338; 91%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1067; 73%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1462; 100%), <tt><a href="gl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1457; 100%), <tt><a href="gl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1374; 94%), <tt><a href="gl_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1339; 91%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1067; 73%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (32; 2% of non-empty `Tense`): <em>haberá, reducirá, terá, Avaliaremos, Botará, Xogarán, activarán, asistirán, axudará, cambiará</em>
 * `Imp` (203; 14% of non-empty `Tense`): <em>tiña, era, tiñan, había, quería, aparecía, dependía, dicía, entendía, estaba</em>
-* `Past` (650; 44% of non-empty `Tense`): <em>dixo, tivo, comezou, fixo, declarou, afirmou, converteu, lanzou, permitiu, decidiu</em>
+* `Past` (651; 44% of non-empty `Tense`): <em>dixo, tivo, comezou, fixo, declarou, afirmou, converteu, lanzou, permitiu, decidiu</em>
 * `Pqp` (50; 3% of non-empty `Tense`): <em>deixaran, perdera, salvara, Conmovera, adestraran, afastara, anticiparan, aparecera, asinara, atacara</em>
-* `Pres` (529; 36% of non-empty `Tense`): <em>hai, ten, é, teñen, di, inclúen, afirma, atopa, axuda, contén</em>
-* `EMPTY` (792): <em>facer, ver, ter, manter, axudar, debido, deixar, enviar, establecer, partir</em>
+* `Pres` (528; 36% of non-empty `Tense`): <em>hai, ten, é, teñen, di, inclúen, afirma, atopa, axuda, contén</em>
+* `EMPTY` (793): <em>facer, ver, ter, manter, axudar, debido, deixar, enviar, establecer, partir</em>
 
 <table>
   <tr><th>Paradigm <i>ter</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th><th><tt>Pqp</tt></th></tr>
@@ -69,6 +69,6 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="gl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (102; 64%),
+<tt>VERB --[<tt><a href="gl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (103; 64%),
 <tt>VERB --[<tt><a href="gl_pud-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%).
 

@@ -18,29 +18,31 @@ The feature is used with 3 part-of-speech tags: <tt><a href="gd_arcosg-pos-VERB.
 
 8108 <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> tokens (90% of all `VERB` tokens) have a non-empty value of `Tense`.
 
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (8108; 100%), <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8108; 100%).
+
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (1045; 13% of non-empty `Tense`): <em>bidh, feumaidh, bhios, bi, gheibh, nì, faodaidh, bheir, bhi, thèid</em>
 * `Past` (4253; 52% of non-empty `Tense`): <em>bha, robh, chaidh, fhuair, thuirt, ars’, chuir, thàinig, bh', rinn</em>
-* `Pres` (2810; 35% of non-empty `Tense`): <em>tha, eil, bheil, th', thà, th’, 'eil, thathar, thathas, 'l</em>
-* `EMPTY` (910): <em>bhiodh, biodh, faigheadh, feuch, can, dh’fhaodadh, dhèanadh, thigeadh, dèanadh, bheireadh</em>
+* `Pres` (2810; 35% of non-empty `Tense`): <em>tha, eil, bheil, th', thà, th’, thathar, thathas, 'eil, 'l</em>
+* `EMPTY` (908): <em>bhiodh, biodh, faigheadh, feuch, can, dh’fhaodadh, dhèanadh, thigeadh, dèanadh, bheireadh</em>
 
 <table>
   <tr><th>Paradigm <i>bi</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>tha, eil, bheil, th', thà, th’, 'eil, 'l, h-eil, bha, ‘eil</em></td><td><em>bidh, bhios, bi, bhi, bhitheas</em></td><td><em>bha, robh, bh', bhà, bh’, tha, bitheadh</em></td></tr>
   <tr><td><tt><tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=0</tt></tt></td><td><em>thathar, thathas, bheileas</em></td><td></td><td><em>robhar, robhas</em></td></tr>
+  <tr><td><tt></tt></td><td><em>tha, eil, bheil, th', thà, th’, 'eil, 'l, h-eil, bha, ‘eil</em></td><td><em>bidh, bhios, bi, bhi, bhitheas</em></td><td><em>bha, robh, bh', bhà, bh’, tha, bitheadh</em></td></tr>
 </table>
 
 ### `AUX`
 
 1312 <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1011; 77%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1164; 89%), <tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1103; 84%), <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1011; 77%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (38; 3% of non-empty `Tense`): <em>thèid, tèid</em>
-* `Past` (370; 28% of non-empty `Tense`): <em>b', chaidh, bu, b’, deach</em>
+* `Past` (370; 28% of non-empty `Tense`): <em>b', bu, chaidh, b’, deach</em>
 * `Pres` (904; 69% of non-empty `Tense`): <em>'s, is, gur, as, chan, nach, an, cha, ‘s, gun</em>
 * `EMPTY` (7): <em>rachadh, 's, Is</em>
 

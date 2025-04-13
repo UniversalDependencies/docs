@@ -14,7 +14,7 @@ There are 2 language-specific subtypes of `compound`: <tt><a href="nds_lsdc-dep-
 8 instances of `compound` (89%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.55555555555556.
 
-The following 3 pairs of parts of speech are connected with `compound`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (5; 56% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (3; 33% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 11% instances).
+The following 3 pairs of parts of speech are connected with `compound`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (7; 78% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (1; 11% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 3	harde	harde	ADV	_	_	2	advmod	_	lemma_gml=hā̆rde
 4	up	up	ADP	_	_	2	compound	_	lemma_gml=up¹|SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	_
-6	un	un	DET	_	_	8	det	_	lemma_gml=unde²
+6	un	un	CCONJ	_	_	8	cc	_	lemma_gml=unde²
 7	Wiesken	Wiesken	PROPN	_	Number=Sing	8	nsubj	_	_
 8	ward	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=wērden¹
 9	roud	roud	ADJ	_	Degree=Pos	8	xcomp	_	lemma_gml=rôt⁴
@@ -40,19 +40,34 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 compound	color:blue
-1	Beaden	beaden	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	lemma_gml=bēden(t)
-2	un	un	CCONJ	_	_	3	cc	_	lemma_gml=unde²
-3	vlöken	vloken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	conj	_	lemma_gml=vlôken(t)
-4	wesselde	wesselen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=wes(se)len
-5	mid	mid	ADP	_	AdpType=Prep	6	case	_	lemma_gml=mit
-6	enander	enander	PRON	_	Case=Acc,Dat|PronType=Rcp	4	obl	_	lemma_gml=êⁱnander
-7	af	af	ADV	_	_	4	compound	_	lemma_gml=af²|SpaceAfter=No
-8	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 21 22 compound	color:blue
+1	De	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	det	_	lemma_gml=dê¹
+2	beiden	beide	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	3	amod	_	lemma_gml=bêⁱde¹
+3	vinsteren	vinster	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	11	obj	_	lemma_gml=vinster¹
+4	to	to	ADP	_	AdpType=Prep	5	case	_	lemma_gml=tô⁴
+5	westen	westen	NOUN	_	Case=Acc,Dat|Gender=Masc,Neut|Number=Sing	3	nmod	_	lemma_gml=westen
+6	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbType=Aux	11	aux	_	lemma_gml=hebben
+7	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	11	nsubj	_	lemma_gml=man²
+8	mid	mid	ADP	_	AdpType=Prep	10	case	_	lemma_gml=mit
+9	witte	wit	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Plur	10	amod	_	lemma_gml=wit¹
+10	lakens	laken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Plur	11	obl	_	lemma_gml=lāken¹
+11	vorhungen	vorhangen	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	lemma_gml=vorhangen|SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	to	to	ADP	_	AdpType=Prep	14	case	_	lemma_gml=tô⁴
+14	noorden	noorden	NOUN	_	Case=Acc,Dat|Gender=Masc,Neut|Number=Sing	15	obl	_	lemma_gml=nōrden
+15	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	parataxis	_	lemma_gml=wēsen²
+16	man	men	ADV	_	_	17	advmod	_	lemma_gml=men³
+17	eyn	eyn	NUM	_	NumType=Card	15	nsubj	_	lemma_gml=êⁱn¹|SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	un	un	CCONJ	_	_	21	cc	_	lemma_gml=unde²
+20	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	lemma_gml=dat
+21	stund	stån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	15	conj	_	lemma_gml=stân
+22	oapen	oapen	ADJ	_	_	21	compound	_	lemma_gml=ōpen¹|SpaceAfter=No
+23	.	.	PUNCT	_	_	11	punct	_	_
 
 ~~~
 
@@ -68,7 +83,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 3	morgen	morgen	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	lemma_gml=morgen
 4	heelden	holden	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=hōlden
 5	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	lemma_gml=dê
-6	hougenpreester	hougepreester	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	lemma_gml=hôgenprêster
+6	hougenpreester	hougenpreester	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	lemma_gml=hôgenprêster
 7	un	un	CCONJ	_	_	9	cc	_	lemma_gml=unde
 8	de	de	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	9	det	_	lemma_gml=dê
 9	äldsten	old	ADJ	_	Case=Nom|Degree=Sup|Number=Plur	6	conj	_	lemma_gml=ōlt

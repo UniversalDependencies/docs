@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-206 nodes (16%) are attached to their parents as `punct`.
+216 nodes (16%) are attached to their parents as `punct`.
 
-199 instances of `punct` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.49029126213592.
+208 instances of `punct` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.58796296296296.
 
-The following 7 pairs of parts of speech are connected with `punct`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (147; 71% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (19; 9% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (12; 6% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (11; 5% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (10; 5% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (6; 3% instances), <tt><a href="ceb_gja-pos-PART.html">PART</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `punct`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (155; 72% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (19; 9% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (13; 6% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (12; 6% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (10; 5% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (6; 3% instances), <tt><a href="ceb_gja-pos-PART.html">PART</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,14 +45,17 @@ The following 7 pairs of parts of speech are connected with `punct`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 punct	color:blue
-1	Ikaw	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	0	root	_	Gloss=you
-2	sab	sab	ADV	_	_	1	advmod	_	Gloss=too|SpaceAfter=No
-3	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+# visual-style 3 4 punct	color:blue
+1	Mga	mga	DET	_	Number=Plur	3	det	_	Gloss=around
+2	tres	tres	NUM	_	_	3	nummod	_	Gloss=three
+3	pesos	pesos	NOUN	_	_	0	root	_	Gloss=pesos|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+5	tingali	tingali	ADV	_	_	3	advmod	_	Gloss=perhaps|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
 

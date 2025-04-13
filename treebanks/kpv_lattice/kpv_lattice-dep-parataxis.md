@@ -26,7 +26,7 @@ The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a
 2	Мыйла	мыйла	SCONJ	CS	_	7	cc	_	_
 3	нӧ	нӧ	PART	Pcle	_	7	advmod	_	_
 4	водзджык	водз	ADV	Adv	Degree=Cmp	7	advmod:tmod	_	_
-5	эн	оз	AUX	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Past	7	aux:neg	_	_
+5	эн	оз	AUX	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Past	7	aux	_	_
 6	вермы	вермыны	AUX	V	Connegative=Yes	7	aux:pot	_	_
 7	кайны	кайны	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	CLB	_	11	punct	_	_

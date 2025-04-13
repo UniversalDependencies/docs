@@ -45,7 +45,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 * `Fem` (2762; 47% of non-empty `Gender`): <em>la, une, cette, sa, aucune, certaines, toute, ma, quelles, toutes</em>
 * `Masc` (3102; 53% of non-empty `Gender`): <em>le, un, ce, cet, aucun, tout, du, certains, quel, tous</em>
-* `EMPTY` (4578): <em>les, l', des, son, ces, ses, votre, de, leur, d'</em>
+* `EMPTY` (4533): <em>les, l', des, son, ces, ses, votre, de, leur, d'</em>
 
 <table>
   <tr><th>Paradigm <i>le</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -150,12 +150,12 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 `NUM` tokens may have the following values of `Gender`:
 
 * `Masc` (1; 100% of non-empty `Gender`): <em>neuf</em>
-* `EMPTY` (1731): <em>deux, 5, trois, 2, 2006, 10, 1, 30, 3, 4</em>
+* `EMPTY` (1776): <em>deux, 5, trois, 2, 2006, 10, 1, 30, 3, 4</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="fr_sequoia-dep-det.html">det</a></tt>]--> DET</tt> (5309; 56%),
+<tt>NOUN --[<tt><a href="fr_sequoia-dep-det.html">det</a></tt>]--> DET</tt> (5309; 57%),
 <tt>NOUN --[<tt><a href="fr_sequoia-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2456; 67%),
 <tt>NOUN --[<tt><a href="fr_sequoia-dep-acl.html">acl</a></tt>]--> VERB</tt> (629; 63%),
 <tt>NOUN --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> NOUN</tt> (569; 55%),

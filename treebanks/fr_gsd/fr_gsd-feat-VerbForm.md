@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-44822 tokens (11%) have a non-empty value of `VerbForm`.
-8265 types (19%) occur at least once with a non-empty value of `VerbForm`.
-2195 lemmas (7%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (31741; 8% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (13081; 3% instances).
+44824 tokens (11%) have a non-empty value of `VerbForm`.
+8267 types (19%) occur at least once with a non-empty value of `VerbForm`.
+2196 lemmas (7%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (31743; 8% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (13081; 3% instances).
 
 ### `VERB`
 
-31741 <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+31743 <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (20573; 65%), <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20572; 65%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19517; 61%), <tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (18186; 57%), <tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18186; 57%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (20575; 65%), <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20574; 65%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19517; 61%), <tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (18188; 57%), <tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18188; 57%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (13555; 43% of non-empty `VerbForm`): <em>a, peut, fait, trouve, devient, doit, ont, permet, agit, faut</em>
-* `Inf` (5503; 17% of non-empty `VerbForm`): <em>faire, partir, voir, prendre, avoir, mettre, passer, trouver, aller, dire</em>
-* `Part` (12683; 40% of non-empty `VerbForm`): <em>né, située, situé, eu, fait, mort, connu, nommé, née, réalisé</em>
+* `Inf` (5504; 17% of non-empty `VerbForm`): <em>faire, partir, voir, prendre, avoir, mettre, passer, trouver, aller, dire</em>
+* `Part` (12684; 40% of non-empty `VerbForm`): <em>né, située, situé, eu, fait, mort, connu, nommé, née, réalisé</em>
 * `EMPTY` (30): <em>voilà, voici, Voila</em>
 
 <table>

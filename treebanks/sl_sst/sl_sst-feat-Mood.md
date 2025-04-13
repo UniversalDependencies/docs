@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
-11159 tokens (15%) have a non-empty value of `Mood`.
-1618 types (12%) occur at least once with a non-empty value of `Mood`.
-888 lemmas (12%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (6302; 8% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (4857; 6% instances).
+11157 tokens (11%) have a non-empty value of `Mood`.
+1617 types (12%) occur at least once with a non-empty value of `Mood`.
+887 lemmas (12%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (6292; 6% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (4865; 5% instances).
 
 ### `VERB`
 
-6302 <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Mood`.
+6292 <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6302; 100%), <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6302; 100%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5722; 91%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4602; 73%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4287; 68%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (3231; 51%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6292; 100%), <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6292; 100%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5714; 91%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4603; 73%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4278; 68%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (3225; 51%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (29; 0% of non-empty `Mood`): <em>bi</em>
-* `Imp` (426; 7% of non-empty `Mood`): <em>recimo, daj, čakaj, glej, poglejte, povej, glejte, dajmo, dajte, gremo</em>
-* `Ind` (5847; 93% of non-empty `Mood`): <em>je, vem, veš, mislim, so, ni, ima, pravi, imamo, gre</em>
+* `Imp` (425; 7% of non-empty `Mood`): <em>recimo, daj, čakaj, glej, poglejte, povej, glejte, dajmo, dajte, gremo</em>
+* `Ind` (5838; 93% of non-empty `Mood`): <em>je, vem, veš, mislim, so, ni, ima, pravi, imamo, gre</em>
 * `EMPTY` (3746): <em>bilo, rekel, bil, imeli, rekla, bila, imela, šla, imel, rekli</em>
 
 <table>
@@ -60,15 +60,15 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-4857 <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Mood`.
+4865 <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4857; 100%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4111; 85%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3925; 81%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3147; 65%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (3005; 62%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4865; 100%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4118; 85%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3930; 81%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3153; 65%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (3010; 62%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (399; 8% of non-empty `Mood`): <em>bi</em>
+* `Cnd` (400; 8% of non-empty `Mood`): <em>bi</em>
 * `Imp` (6; 0% of non-empty `Mood`): <em>bodite, bodi, bodita</em>
-* `Ind` (4452; 92% of non-empty `Mood`): <em>je, so, sem, smo, ni, bo, si, ste, bom, bomo</em>
+* `Ind` (4459; 92% of non-empty `Mood`): <em>je, so, sem, smo, ni, bo, si, ste, bom, bomo</em>
 * `EMPTY` (372): <em>bilo, bila, bil, bili, biti, bile</em>
 
 <table>
@@ -109,14 +109,14 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (563; 65%),
-<tt>VERB --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> VERB</tt> (431; 70%),
+<tt>VERB --[<tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (564; 64%),
+<tt>VERB --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> VERB</tt> (427; 70%),
 <tt>VERB --[<tt><a href="sl_sst-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (257; 58%),
-<tt>VERB --[<tt><a href="sl_sst-dep-parataxis-restart.html">parataxis:restart</a></tt>]--> VERB</tt> (67; 60%),
-<tt>VERB --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (57; 90%),
+<tt>VERB --[<tt><a href="sl_sst-dep-parataxis-restart.html">parataxis:restart</a></tt>]--> VERB</tt> (69; 61%),
+<tt>VERB --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (56; 90%),
 <tt>AUX --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (19; 100%),
 <tt>AUX --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (3; 100%),
-<tt>VERB --[<tt><a href="sl_sst-dep-iobj.html">iobj</a></tt>]--> VERB</tt> (3; 75%),
+<tt>VERB --[<tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (3; 75%),
 <tt>AUX --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<tt><a href="sl_sst-dep-parataxis-restart.html">parataxis:restart</a></tt>]--> VERB</tt> (2; 100%).
 

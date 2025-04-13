@@ -22,9 +22,9 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (1934; 69% of non-empty `Definite`): <em>le, la, les, l'</em>
-* `Ind` (889; 31% of non-empty `Definite`): <em>un, une, des, du, d', de, le, les</em>
-* `EMPTY` (647): <em>mon, ma, mes, cette, ce, son, ses, nos, sa, notre</em>
+* `Def` (1933; 68% of non-empty `Definite`): <em>le, la, les, l'</em>
+* `Ind` (890; 32% of non-empty `Definite`): <em>un, une, des, du, d', de, le, les</em>
+* `EMPTY` (645): <em>mon, ma, mes, cette, ce, son, ses, nos, sa, notre</em>
 
 <table>
   <tr><th>Paradigm <i>le</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -39,5 +39,5 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>DET --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (82; 98%).
+<tt>DET --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (83; 98%).
 

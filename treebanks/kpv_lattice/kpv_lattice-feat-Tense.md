@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-1087 tokens (13%) have a non-empty value of `Tense`.
-734 types (21%) occur at least once with a non-empty value of `Tense`.
-508 lemmas (22%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (847; 10% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (240; 3% instances).
+1088 tokens (13%) have a non-empty value of `Tense`.
+735 types (21%) occur at least once with a non-empty value of `Tense`.
+509 lemmas (22%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (848; 10% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (240; 3% instances).
 
 ### `VERB`
 
-847 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Tense`.
+848 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="kpv_lattice-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (845; 100%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (806; 95%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (764; 90%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (764; 90%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (652; 77%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (595; 70%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (806; 95%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (764; 90%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (764; 90%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (652; 77%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (596; 70%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (44; 5% of non-empty `Tense`): <em>Локтас, ковмас, петас, мунас, Тӧдмалас, быдмасны, бӧръяс, вермас, веськалас, видзӧдлас</em>
-* `Past` (580; 68% of non-empty `Tense`): <em>воис, идралӧм, лои, идралӧмын, видзӧдліс, кыліс, муніс, шуис, шыасис, юаліс</em>
+* `Past` (581; 69% of non-empty `Tense`): <em>воис, идралӧм, лои, идралӧмын, видзӧдліс, кыліс, муніс, шуис, шыасис, юаліс</em>
 * `Pres` (223; 26% of non-empty `Tense`): <em>мунӧ, аддза, воӧ, думайта, кажитчӧ, локтӧ, пукалӧ, тыдалӧ, Кӧсъян, аддзан</em>
-* `EMPTY` (504): <em>лоны, шуны, мунны, вӧчны, пов, виччысьны, волыны, восьлавны, жалит, нуны</em>
+* `EMPTY` (503): <em>лоны, шуны, мунны, вӧчны, пов, виччысьны, волыны, восьлавны, жалит, нуны</em>
 
 <table>
   <tr><th>Paradigm <i>мунны</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>

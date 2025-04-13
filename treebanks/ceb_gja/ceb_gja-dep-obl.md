@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-34 nodes (3%) are attached to their parents as `obl`.
+37 nodes (3%) are attached to their parents as `obl`.
 
-32 instances of `obl` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.5.
+35 instances of `obl` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.75675675675676.
 
-The following 10 pairs of parts of speech are connected with `obl`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (22; 65% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (4; 12% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 11 pairs of parts of speech are connected with `obl`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (23; 62% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (5; 14% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

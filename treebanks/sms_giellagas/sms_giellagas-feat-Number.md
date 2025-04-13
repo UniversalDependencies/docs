@@ -165,7 +165,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> VERB</tt> (230; 82%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (113; 82%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (91; 79%),
-<tt>NOUN --[<tt><a href="sms_giellagas-dep-det.html">det</a></tt>]--> PRON</tt> (48; 96%),
+<tt>NOUN --[<tt><a href="sms_giellagas-dep-det.html">det</a></tt>]--> PRON</tt> (46; 96%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-obl-lmod.html">obl:lmod</a></tt>]--> NOUN</tt> (25; 58%),
 <tt>NOUN --[<tt><a href="sms_giellagas-dep-cop.html">cop</a></tt>]--> AUX</tt> (14; 93%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-obl.html">obl</a></tt>]--> NOUN</tt> (13; 81%),

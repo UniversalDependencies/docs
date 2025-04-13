@@ -12,15 +12,15 @@ udver: '2'
 # UD Indonesian GSD
 
 Language: [Indonesian](/id/index.html) (code: `id`)<br/>
-Family: Austronesian, Malayo-Sumbawan
+Family: Austronesian
 
 This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
 The following people have contributed to making this treebank part of UD: Ryan McDonald, Joakim Nivre, Daniel Zeman, Septina Dian Larasati, Ika Alfina.
 
 Repository: [UD_Indonesian-GSD](https://github.com/UniversalDependencies/UD_Indonesian-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_gsd214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_gsd215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -303,7 +303,7 @@ The Indonesian-GSD treebank was originally converted from the content head versi
   <li>Ind
     <ul>
       <li>ADV: banyak</li>
-      <li>DET: beberapa, para, berbagai, sebagian, banyak, sejumlah, sekelompok, kebanyakan, serangkaian, semacam</li>
+      <li>DET: beberapa, para, berbagai, banyak, sejumlah, sekelompok, kebanyakan, sebagian, semacam, serangkaian</li>
       <li>PRON: seseorang, sesuatu, seorang, sejumlah, beberapa, Banyak</li>
     </ul>
   </li>
@@ -518,7 +518,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (1589)</li>
+      <li>VERB--NOUN (1590)</li>
       <li>VERB--NOUN-ADP(dalam) (1)</li>
       <li>VERB--NOUN-ADP(di) (1)</li>
       <li>VERB--NOUN-ADP(karena) (1)</li>
@@ -534,7 +534,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (4281)</li>
+      <li>VERB--NOUN (4280)</li>
       <li>VERB--NOUN-ADP(akan) (2)</li>
       <li>VERB--NOUN-ADP(atas) (2)</li>
       <li>VERB--NOUN-ADP(bahkan) (1)</li>

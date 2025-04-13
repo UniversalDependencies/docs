@@ -39,7 +39,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 15	märkte	märka	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	4:parataxis	_
 16	ni	ni	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing	15	nsubj	15:nsubj	_
 17	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	15	obj	15:obj	_
-18	här	här	ADV	AB	_	17	fixed	17:fixed	SpaceAfter=No
+18	här	här	ADV	AB	_	17	advmod	17:advmod	SpaceAfter=No
 19	?	?	PUNCT	MID	_	15	punct	15:punct	SpaceAfter=No
 20	”	”	PUNCT	PAD	_	15	punct	15:punct	SpaceAfter=No
 21	,	,	PUNCT	MID	_	22	punct	22:punct	_

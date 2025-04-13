@@ -73,7 +73,7 @@ The most frequent other feature values with which `PRON` and `VerbForm` co-occur
 `PRON` tokens may have the following values of `VerbForm`:
 
 * `Fin` (2; 100% of non-empty `VerbForm`): <em>I</em>
-* `EMPTY` (18362): <em>I, you, e, we, am, de, me, my, dem, im</em>
+* `EMPTY` (18359): <em>I, you, e, we, am, de, me, my, dem, im</em>
 
 ## Relations with Agreement in `VerbForm`
 

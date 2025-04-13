@@ -71,13 +71,13 @@ The following 22 pairs of parts of speech are connected with `dislocated`: <tt><
 5	ⲟⲩⲱⲙ	ⲟⲩⲱⲙ	VERB	V	VerbForm=Fin	1	acl:relcl	_	Entity=person)
 6	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	8	advmod	_	OrigLang=grc
 7	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	8	aux	_	_
-8	ⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	0	root	_	_
+8	ⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	0	root	_	Cxn=Existential-ExistPred-Positive
 9	ⲁⲣⲁ	ⲁⲣⲁ	PART	PTC	Foreign=Yes	8	advmod	_	OrigLang=grc
 10	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	Entity=(person
 11	ϭⲓⲥ	ϭⲓⲥ	NUM	NUM	NumType=Card	12	compound	_	_
 12	ⲧⲃⲁ	ⲧⲃⲁ	NUM	NUM	NumType=Card	14	nummod	_	_
 13	ⲛ	ⲛ	ADP	PREP	_	14	case	_	Orig=ⲣ
-14	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	8	nsubj	_	Entity=person)
+14	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	8	nsubj	_	CxnElt=8:Existential-ExistPred-Positive.Pivot|Entity=person)
 15	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 ~~~

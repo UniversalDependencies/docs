@@ -27,7 +27,7 @@ The following 2 pairs of parts of speech are connected with `csubj:outer`: <tt><
 2	התייחסות	התייחסות	NOUN	NOUN	Gender=Fem|Number=Sing	19	obl	_	_
 3	ל	ל	ADP	ADP	_	5	case	_	SpaceAfter=No
 4	-	-	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No
-5	WorldPride	WorldPride	PROPN	PROPN	_	2	nmod	_	SpaceAfter=No
+5	WorldPride	WorldPride	PROPN	PROPN	_	2	nmod	_	Entity=(EVE)|SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	7	punct	_	_
 7	אירוע	אירוע	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	5	appos	_	_
 8	גאווה	גאווה	NOUN	NOUN	Gender=Fem|Number=Sing	7	compound	_	_
@@ -35,12 +35,12 @@ The following 2 pairs of parts of speech are connected with `csubj:outer`: <tt><
 10	ש	ש	SCONJ	SCONJ	_	11	mark	_	_
 11	נערך	נערך	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Past|Voice=Mid	7	acl:relcl	_	_
 12	ב	ב	ADP	ADP	_	13	case	_	_
-13	שנת	שנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	11	obl	_	_
-14	2006	2006	NUM	NUM	_	13	compound	_	_
+13	שנת	שנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	11	obl	_	Entity=(TIMEX
+14	2006	2006	NUM	NUM	_	13	compound	_	Entity=TIMEX)
 15	ב	ב	ADP	ADP	_	16	case	_	_
-16	ירושלים	ירושלים	PROPN	PROPN	_	11	obl	_	_
+16	ירושלים	ירושלים	PROPN	PROPN	_	11	obl	_	Entity=(GPE)
 17	,	,	PUNCT	PUNCT	_	7	punct	_	_
-18	פואר	פואר	PROPN	PROPN	_	19	nsubj	_	_
+18	פואר	פואר	PROPN	PROPN	_	19	nsubj	_	Entity=(PER)
 19	כותבת	כתב	VERB	VERB	Gender=Fem|HebBinyan=PAAL|Number=Sing|Person=3|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
 20	:	:	PUNCT	PUNCT	_	37	punct	_	_
 21	"	"	PUNCT	PUNCT	_	37	punct	_	SpaceAfter=No
@@ -57,7 +57,7 @@ The following 2 pairs of parts of speech are connected with `csubj:outer`: <tt><
 32	להיות	היה	AUX	AUX	HebBinyan=PAAL|Polarity=Pos|VerbForm=Inf	33	aux	_	_
 33	גיי	גיי	X	X	Foreign=Yes	37	csubj:outer	_	_
 34	פרנדלי	פרנדלי	X	X	Foreign=Yes	33	flat	_	_
-35	זה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3	37	cop	_	_
+35	זה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	37	cop	_	_
 36	להיות	היה	AUX	AUX	HebBinyan=PAAL|Polarity=Pos|VerbForm=Inf|VerbType=Cop	37	cop	_	_
 37	מודרני	מודרני	ADJ	ADJ	Gender=Masc|Number=Sing	19	ccomp	_	SpaceAfter=No
 38	,	,	PUNCT	PUNCT	_	39	punct	_	_
@@ -89,8 +89,8 @@ The following 2 pairs of parts of speech are connected with `csubj:outer`: <tt><
 6	ה	ה	DET	DET	Definite=Def|PronType=Art	7	det	_	_
 7	הסכם	הסכם	NOUN	NOUN	Gender=Masc|Number=Sing	3	nmod:poss	_	_
 8	התחייבה	התחייב	VERB	VERB	Gender=Fem|HebBinyan=HITPAEL|Number=Sing|Person=3|Tense=Past|Voice=Mid	0	root	_	_
-9	ממשלת	ממשלה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	8	nsubj	_	_
-10	ישראל	ישראל	PROPN	PROPN	_	9	compound	_	_
+9	ממשלת	ממשלה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	8	nsubj	_	Entity=(ORG
+10	ישראל	ישראל	PROPN	PROPN	_	9	compound	_	Entity=(GPE)ORG)
 11	לשגר	שיגר	VERB	VERB	HebBinyan=PIEL|VerbForm=Inf|Voice=Act	8	xcomp	_	_
 12	ל	ל	ADP	ADP	_	13	case	_	_
 13	גרמניה	גרמניה	PROPN	PROPN	_	11	obl	_	_

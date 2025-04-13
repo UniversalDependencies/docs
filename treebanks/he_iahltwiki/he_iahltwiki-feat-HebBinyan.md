@@ -10,8 +10,8 @@ This feature is language-specific.
 It occurs with 8 different values: `HIFIL`, `HITPAEL`, `HUFAL`, `NIFAL`, `NITPAEL`, `PAAL`, `PIEL`, `PUAL`.
 
 10853 tokens (8%) have a non-empty value of `HebBinyan`.
-3657 types (26%) occur at least once with a non-empty value of `HebBinyan`.
-1416 lemmas (15%) occur at least once with a non-empty value of `HebBinyan`.
+3656 types (26%) occur at least once with a non-empty value of `HebBinyan`.
+1415 lemmas (15%) occur at least once with a non-empty value of `HebBinyan`.
 The feature is used with 2 part-of-speech tags: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (10273; 7% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> (580; 0% instances).
 
 ### `VERB`
@@ -27,8 +27,8 @@ The most frequent other feature values with which `VERB` and `HebBinyan` co-occu
 * `HUFAL` (600; 6% of non-empty `HebBinyan`): הוקמה, הוקם, הוצגו, הושגו, הוחלט, הועברו, הוגשו, הועלה, הוקמו, מוטל
 * `NIFAL` (1538; 15% of non-empty `HebBinyan`): ניתן, נמצא, נקבע, נעשה, נערכה, נקרא, נערך, נראה, נחשב, נאמר
 * `NITPAEL` (17; 0% of non-empty `HebBinyan`): נתגלו, נתגלתה, נתקבלה, להתעניין, משתמע, נשתמר, נתברר, נתקבלו
-* `PAAL` (3343; 33% of non-empty `HebBinyan`): כתב, יצא, זכה, היו, כולל, כלל, היה, שר, אמר, טען
-* `PIEL` (1642; 16% of non-empty `HebBinyan`): ניצח, לקבל, מהווה, קיבל, פרסם, קיבלו, שימש, לבצע, תיאר, ביצעה
+* `PAAL` (3344; 33% of non-empty `HebBinyan`): כתב, יצא, זכה, היו, כולל, כלל, היה, שר, אמר, טען
+* `PIEL` (1641; 16% of non-empty `HebBinyan`): ניצח, לקבל, מהווה, קיבל, פרסם, קיבלו, שימש, לבצע, תיאר, ביצעה
 * `PUAL` (563; 5% of non-empty `HebBinyan`): מדובר, מכונה, בוצעו, בוצע, כונה, מונתה, פורסם, מונה, מיועדת, בוצעה
 
 <table>
@@ -49,7 +49,7 @@ The most frequent other feature values with which `VERB` and `HebBinyan` co-occu
   <tr><td><tt><tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>לכלול</td><td></td></tr>
 </table>
 
-`HebBinyan` seems to be **lexical feature** of `VERB`. 94% lemmas (1331) occur only with one value of `HebBinyan`.
+`HebBinyan` seems to be **lexical feature** of `VERB`. 94% lemmas (1330) occur only with one value of `HebBinyan`.
 
 ### `AUX`
 

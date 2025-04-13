@@ -12,15 +12,15 @@ udver: '2'
 # UD German GSD
 
 Language: [German](/de/index.html) (code: `de`)<br/>
-Family: Indo-European, Germanic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
 The following people have contributed to making this treebank part of UD: Slav Petrov, Wolfgang Seeker, Ryan McDonald, Joakim Nivre, Daniel Zeman, Adriane Boyd.
 
 Repository: [UD_German-GSD](https://github.com/UniversalDependencies/UD_German-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_gsd214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_gsd215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -94,7 +94,7 @@ test: Reviews=s1-s301, News=s302-s977
 </ul>
 
 <ul>
-<li>This corpus contains 34952 tokens (12%) that are not followed by a space.</li>
+<li>This corpus contains 34966 tokens (12%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -152,7 +152,7 @@ test: Reviews=s1-s301, News=s302-s977
     <li>ADJ: reaktivierte</li>
     <li>AUX: ist, wurde, war, sind, wird, wurden, kann, hat, werden, waren</li>
     <li>NOUN: mag, Jahrhundert, War, 3/8-Takte, Balken, Bin, Erbvogt, Familien, Flotte, Gemüt</li>
-    <li>PROPN: ist, 1st, EVTA, Gibt, Glaube, Kambodschas, Kemble, Leuchten, Roden, Sankt</li>
+    <li>PROPN: ist, 1st, EVTA, Gibt, Glaube, Kambodschas, Kemble, Roden, Sankt, Verden</li>
     <li>VERB: wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</li>
     <li>X: isl., s.</li>
   </ul>
@@ -262,7 +262,7 @@ test: Reviews=s1-s301, News=s302-s977
       <li>NOUN-Fin: Balken, Bin, Familien, belangen, besten, erschienen, finden, folgten, geben, ha</li>
       <li>NUM: Millionen, zweier, 10, 1, 100, 15, 20, 40, 400, 630</li>
       <li>PRON: die, sie, wir, uns, denen, deren, ihnen, ihr, euch, den</li>
-      <li>PROPN: USA, US, Olympischen, Staaten, Euro, Spielen, Vereinigten, Grünen, EU, Mark</li>
+      <li>PROPN: USA, US, Olympischen, Staaten, Euro, Vereinigten, Grünen, EU, Mark, Deutscher</li>
       <li>PROPN-Fin: Roden, Verden, ausnutzen, ficken, kommen, machen, sind, treten</li>
       <li>SYM: %, °</li>
       <li>VERB-Fin: haben, stehen, gehören, hatten, kamen, kommen, sind, fanden, finden, liegen</li>
@@ -285,7 +285,7 @@ test: Reviews=s1-s301, News=s302-s977
       <li>NUM: 3, ², 10, 2, 35, 50, Million, 15, 1:1, 28</li>
       <li>PRON: er, es, sie, ich, der, die, man, das, was, ihm</li>
       <li>PROPN: Deutschland, Berlin, US, SPD, St., Oktober, Frankreich, August, Mai, New</li>
-      <li>PROPN-Fin: ist, 1st, EVTA, Gibt, Glaube, Kambodschas, Kemble, Leuchten, Sankt, Verzeih</li>
+      <li>PROPN-Fin: ist, 1st, EVTA, Gibt, Glaube, Kambodschas, Kemble, Sankt, Verzeih, aG</li>
       <li>SYM: :-), o, ·, ×</li>
       <li>VERB-Fin: wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</li>
       <li>X: B., Chr, :-), Abs, S, tunga, u, usw, #, 4Jahren</li>
@@ -399,7 +399,7 @@ test: Reviews=s1-s301, News=s302-s977
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: später, weitere, weiteren, weiter, besser, früher, stärker, höher, früheren, größere</li>
+      <li>ADJ: später, weitere, weiteren, besser, weiter, früher, stärker, höher, länger, früheren</li>
       <li>DET: mehrere, mehr, mehreren, mehrerer, mehre</li>
     </ul>
   </li>
@@ -408,11 +408,11 @@ test: Reviews=s1-s301, News=s302-s977
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: ersten, bekannt, erste, gut, freundlich, neue, kurz, lang, zweiten, möglich</li>
+      <li>ADJ: gut, ersten, bekannt, erste, kurz, freundlich, schnell, lang, super, neu</li>
       <li>ADJ-Fin: reaktivierte</li>
       <li>ADJ-Inf: erhalten, auszutauschenden, beginnenden, bewachsen, einzeln, externen, extremen, gesunden, kahlen, nassen</li>
       <li>ADJ-Part: beteiligt, verbreitet, aufgehoben, verheiratet, vertreten, verbunden, erhalten, geprägt, organisiert, vorgesehen</li>
-      <li>ADV: total, viel</li>
+      <li>ADV: viel</li>
     </ul>
   </li>
 </ul>
@@ -462,7 +462,7 @@ test: Reviews=s1-s301, News=s302-s977
     <ul>
       <li>AUX-Fin: ist, wurde, war, sind, wird, wurden, kann, hat, werden, waren</li>
       <li>NOUN-Fin: mag, Jahrhundert, War, 3/8-Takte, Balken, Bin, Erbvogt, Familien, Flotte, Gemüt</li>
-      <li>PROPN-Fin: ist, 1st, Gibt, Glaube, Leuchten, Sankt, Verden, ausnutzen, bru, colt</li>
+      <li>PROPN-Fin: ist, 1st, Gibt, Glaube, Sankt, Verden, ausnutzen, bru, colt, corde</li>
       <li>VERB-Fin: wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</li>
     </ul>
   </li>
@@ -489,7 +489,7 @@ test: Reviews=s1-s301, News=s302-s977
       <li>ADJ-Part: engangierte, kombiniert, verschleppten</li>
       <li>AUX-Fin: wurde, war, wurden, waren, hatte, konnte, sollte, musste, hatten, konnten</li>
       <li>NOUN-Fin: War, 3/8-Takte, Flotte, Kam, beginn, diente, erschienen, folgten, fusionierte, gehörte</li>
-      <li>PROPN-Fin: Leuchten, corde, ergoss, estate, handelte, las, plb, schweiz, semisecco, spring</li>
+      <li>PROPN-Fin: corde, ergoss, estate, handelte, las, plb, schweiz, semisecco, spring, war</li>
       <li>VERB-Fin: wurde, kam, hatte, gab, war, erhielt, ging, begann, führte, nahm</li>
       <li>VERB-Part: abtransportiert</li>
     </ul>
@@ -502,7 +502,7 @@ test: Reviews=s1-s301, News=s302-s977
       <li>AUX-Fin: ist, sind, wird, kann, hat, werden, haben, habe, können, sei</li>
       <li>NOUN-Fin: mag, Jahrhundert, Balken, Bin, Erbvogt, Familien, Gemüt, Komme, Liegt, Lohnt</li>
       <li>PROPN-Fin: ist, 1st, Gibt, Glaube, Kemble, Roden, Sankt, Verden, ausnutzen, bru</li>
-      <li>VERB-Fin: gibt, hat, liegt, befindet, besteht, gehört, ist, steht, kommt, geht</li>
+      <li>VERB-Fin: gibt, hat, liegt, befindet, besteht, gehört, steht, ist, kommt, geht</li>
     </ul>
   </li>
 </ul>
@@ -916,13 +916,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Acc (10)</li>
       <li>VERB--PRON-Dat (3)</li>
       <li>VERB-Fin--NOUN (39)</li>
-      <li>VERB-Fin--NOUN-Acc (3476)</li>
+      <li>VERB-Fin--NOUN-Acc (3478)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(von) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(über) (2)</li>
       <li>VERB-Fin--NOUN-Dat (54)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(über) (1)</li>
       <li>VERB-Fin--NOUN-Gen (17)</li>
-      <li>VERB-Fin--NOUN-Nom (464)</li>
+      <li>VERB-Fin--NOUN-Nom (463)</li>
       <li>VERB-Fin--PRON (31)</li>
       <li>VERB-Fin--PRON-Acc (1169)</li>
       <li>VERB-Fin--PRON-Dat (18)</li>

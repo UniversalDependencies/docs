@@ -32,7 +32,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	isla	isla	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
 10	continúan	continuar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	.	_	10	punct	_	_
+11	.	.	PUNCT	.	PunctType=Peri	10	punct	_	_
 
 ~~~
 
@@ -54,7 +54,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 9	Morricone	Morricone	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
 10	como	como	ADP	IN	_	11	cc	_	_
 11	Metti	Metti	PROPN	NNP	Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
-12	,	,	PUNCT	,	_	13	punct	_	_
+12	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
 13	juntos	junto	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	_
 14	en	en	ADP	IN	_	16	case	_	_
 15	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
@@ -62,13 +62,13 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 17	en	en	ADP	IN	_	19	case	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	cena	cena	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
-20	;	;	PUNCT	:	_	23	punct	_	_
+20	;	;	PUNCT	:	PunctType=Semi	23	punct	_	_
 21	algunas	alguno	NOUN	NN	Gender=Fem|Number=Plur	23	nsubj:pass	_	_
 22	eran	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	23	aux:pass	_	_
 23	escritas	escribir	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	2	parataxis	_	_
 24	por	por	ADP	IN	_	25	case	_	_
 25	ambos	ambos	NOUN	NN	Gender=Masc|Number=Plur	23	obl	_	SpaceAfter=No
-26	.	.	PUNCT	.	_	2	punct	_	_
+26	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -79,7 +79,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 cc:preconj	color:blue
-1	¿	¿	PUNCT	.	_	5	punct	_	SpaceAfter=No
+1	¿	¿	PUNCT	.	PunctSide=Ini|PunctType=Qest	5	punct	_	SpaceAfter=No
 2	O	o	CCONJ	CC	_	5	cc:preconj	_	_
 3	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -90,7 +90,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 9	pago	pago	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
 10	anticipado	anticipado	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
 11	cara	caro	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
-12	?	?	PUNCT	.	_	5	punct	_	_
+12	?	?	PUNCT	.	PunctSide=Fin|PunctType=Qest	5	punct	_	_
 
 ~~~
 

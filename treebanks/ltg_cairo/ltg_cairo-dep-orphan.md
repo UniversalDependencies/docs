@@ -50,9 +50,9 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 3	mašynu	mašyna	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	2	obj	2:obj	LvtbNodeId=a-ltg-Cairo-p15s1w3|SpaceAfter=No
 4	,	,	PUNCT	zc	_	7	punct	7.1:punct	LvtbNodeId=a-ltg-Cairo-p15s1w4
 5	bet	bet	CCONJ	cc	_	7	cc	7.1:cc	LvtbNodeId=a-ltg-Cairo-p15s1w5
-6	juo	jis	PRON	pp3msgn	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	det	7:det	LvtbNodeId=a-ltg-Cairo-p15s1w6
+6	juo	jis	PRON	pp3msgn	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod	LvtbNodeId=a-ltg-Cairo-p15s1w6
 7	bruoļs	bruoļs	NOUN	ncmsn2	Case=Nom|Gender=Masc|Number=Sing	2	conj	7.1:nsubj	LvtbNodeId=a-ltg-Cairo-p15s1w7
-8	tik	tik	PART	q	_	9	discourse	9:discourse	LvtbNodeId=a-ltg-Cairo-p15s1w8
+8	tik	tik	PART	q	_	9	advmod:emph	9:advmod:emph	LvtbNodeId=a-ltg-Cairo-p15s1w8
 9	ritini	ritiņs	NOUN	ncmsa2	Case=Acc|Gender=Masc|Number=Sing	7	orphan	7.1:obj	LvtbNodeId=a-ltg-Cairo-p15s1w9|SpaceAfter=No
 10	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-ltg-Cairo-p15s1w10
 

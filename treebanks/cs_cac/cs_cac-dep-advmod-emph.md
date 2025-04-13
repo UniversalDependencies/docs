@@ -22,14 +22,14 @@ The following 37 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 advmod:emph	color:blue
-1	Zvýšení	zvýšení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	0	root	0:root	LDeriv=zvýšit
-2	soběstačnosti	soběstačnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	nmod	1:nmod:gen	LDeriv=soběstačný
+1	Zvýšení	zvýšení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Vnoun	0	root	0:root	LDeriv=zvýšit
+2	soběstačnosti	soběstačnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	1	nmod	1:nmod:gen	LDeriv=soběstačný
 3	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	4	case	4:case	LId=v-1
-4	výrobě	výroba	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	2	nmod	2:nmod:v:loc	_
-5	potravin	potravina	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	4	nmod	4:nmod:gen	SpaceAfter=No
+4	výrobě	výroba	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing	2	nmod	2:nmod:v:loc	_
+5	potravin	potravina	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur	4	nmod	4:nmod:gen	SpaceAfter=No
 6	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
 7	zvláště	zvláště	ADV	Db-------------	_	8	advmod:emph	8:advmod:emph	_
-8	obilovin	obilovina	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	5	appos	5:appos	SpaceAfter=No
+8	obilovin	obilovina	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur	5	appos	5:appos	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
@@ -43,7 +43,7 @@ The following 37 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 3 1 advmod:emph	color:blue
 1	I	i	CCONJ	J^-------------	_	3	advmod:emph	3:advmod:emph	LId=i-1
 2	tyto	tento	DET	PDFP4----------	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	3	det	3:det	_
-3	cysty	cysta	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	5	obj	5:obj	_
+3	cysty	cysta	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur	5	obj	5:obj	_
 4	lze	lze	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 5	odstranit	odstranit	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	4	csubj	4:csubj	_
 6	chirurgicky	chirurgicky	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	5	advmod	5:advmod	SpaceAfter=No|LDeriv=chirurgický
@@ -63,7 +63,7 @@ The following 37 pairs of parts of speech are connected with `advmod:emph`: <tt>
 3	jen	jen	PART	TT-------------	_	6	advmod:emph	6:advmod:emph	LId=jen-1|LGloss=(pouze)
 4	při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	6:case	LId=při-1
 5	dobrém	dobrý	ADJ	AAIS6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	amod	6:amod	_
-6	úmyslu	úmysl	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	1	obl	1:obl:při:loc	SpaceAfter=No
+6	úmyslu	úmysl	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	1:obl:při:loc	SpaceAfter=No
 7	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~

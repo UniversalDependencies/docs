@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-GENTLE: POS Tags: `SCONJ`
 
-There are 31 `SCONJ` lemmas (1%), 31 `SCONJ` types (1%) and 235 `SCONJ` tokens (1%).
+There are 30 `SCONJ` lemmas (1%), 30 `SCONJ` types (1%) and 234 `SCONJ` tokens (1%).
 Out of 17 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 11 in number of types and 15 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>that, if, as, because, in, by, like, of, while, before</em>
@@ -26,7 +26,7 @@ The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_gentle-pos
   * <tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> 25: <em>He needs to regain her trust <b>if</b> he is ever going to win her back .</em>
   * <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> 2: <em>Define the following relation ⪯ on U : ∀ x , y ∈ U : x ⪯ y <b>if</b> and only <b>if</b> : x , y ∈ S : x ⪯ S y or : x , y ∈ T : x ⪯ T y or : x ∈ S , y ∈ T</em>
 * <em>as</em>
-  * <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> 25: <em>To commit , <b>as</b> to one 's care ; to entrust .</em>
+  * <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> 25: <em>week ( <b>as</b> in Saturday week )</em>
   * <tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> 24: <em>To rely on ( something ) , <b>as</b> though having trust ( on it ) .</em>
   * <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 10: <em>If x ∈ S and y ∈ T , then y ∈ S and x ∈ T <b>as</b> well .</em>
 * <em>because</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_gentle-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.146169).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.147634).
 
 The 1st highest number of forms (1) was observed with the lemma “about”: <em>about</em>.
 
@@ -64,22 +64,16 @@ The 2nd highest number of forms (1) was observed with the lemma “after”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “although”: <em>although</em>.
 
-`SCONJ` occurs with 1 features: <tt><a href="en_gentle-feat-Degree.html">Degree</a></tt> (1; 0% instances)
-
-`SCONJ` occurs with 1 feature-value pairs: `Degree=Pos`
-
-`SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (234 tokens).
-Examples: <em>that, if, as, because, in, by, like, of, while, Though</em>
+`SCONJ` does not occur with any features.
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="en_gentle-dep-mark.html">mark</a></tt> (227; 97% instances), <tt><a href="en_gentle-dep-fixed.html">fixed</a></tt> (8; 3% instances)
+`SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="en_gentle-dep-mark.html">mark</a></tt> (226; 97% instances), <tt><a href="en_gentle-dep-fixed.html">fixed</a></tt> (8; 3% instances)
 
-Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (158; 67% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (37; 16% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (21; 9% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (9; 4% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (157; 67% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (34; 15% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (21; 9% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (9; 4% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
-220 (94%) `SCONJ` nodes are leaves.
+219 (94%) `SCONJ` nodes are leaves.
 
 14 (6%) `SCONJ` nodes have one child.
 

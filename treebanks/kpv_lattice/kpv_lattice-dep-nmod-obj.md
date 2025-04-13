@@ -61,11 +61,11 @@ The following 3 pairs of parts of speech are connected with `nmod:obj`: <tt><a h
 2	карта	карта	NOUN	N	Case=Nom|Number=Sing	3	nmod:obj	_	GTtags=Sg,Nom
 3	вӧчанінас	вӧчанін	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	obl:lmod	_	GTtags=Sg,Ill,PxSg3
 4	да	да	CCONJ	CC	_	11	cc	_	_
-5	эз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	11	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
+5	эз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	11	aux	_	GTtags=Neg,Ind,Prt1,Sg3
 6	нин	нин	ADV	Adv	AdvType=Tim	11	advmod:tmod	_	GTtags=Sem/Time
 7	ылалӧм	ылавны	VERB	V	Tense=Past|VerbForm=Part	8	acl	_	GTtags=IV,Der,Der/ӧм,PastPtc
 8	синмӧн	син	NOUN	N	Case=Ins|Number=Sing	11	xcomp	_	GTtags=Sg,Ins
-9	стрӧитчысьясыслысь	стрӧитчыны	VERB	V	Case=Abl|Derivation=NomAg|Number=Plur|Number[psor]=Sing|Person[psor]=3	10	nmod:poss	_	GTtags=Refl,Der,Der/ысь,Der/NomAg,N,Pl,Abl|PxSg3
+9	стрӧитчысьясыслысь	стрӧитчыны	VERB	V	Case=Abl|Nomzr=Ag|Number=Plur|Number[psor]=Sing|Person[psor]=3	10	nmod:poss	_	GTtags=Refl,Der,Der/ысь,Der/NomAg,N,Pl,Abl|PxSg3
 10	мойдӧмсӧ	мойдны	VERB	V	Clitic=So|Tense=Past|VerbForm=Vnoun	11	obj	_	GTtags=TV,Der,Der/ӧм,PastPtc,Clt/сӧ,?
 11	кывзы	кывзыны	VERB	V	Connegative=Yes	1	conj	_	GTtags=TV,ConNeg|SpaceAfter=No
 12	,	,	PUNCT	PUNCT	_	14	punct	_	_

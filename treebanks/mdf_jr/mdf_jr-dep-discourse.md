@@ -64,7 +64,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 7	:	:	PUNCT	CLB	_	11	punct	_	_
 8	гулянять	гуляня	NOUN	N	Case=Gen|Definite=Def|Number=Sing	9	nmod	_	_
 9	пацяняц	паця	NOUN	N	Case=Nom|Degree=Dim|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	obj	_	_
-10	апак	аф	AUX	Aux	PartForm=NegConvPrc|Polarity=Neg|VerbForm=Conv,Part	11	aux:neg	_	_
+10	апак	аф	AUX	Aux	PartForm=NegConvPrc|Polarity=Neg|VerbForm=Conv,Part	11	aux	_	_
 11	синтть	синдемс	VERB	V	Connegative=Yes	6	csubj	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	6	punct	_	_
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="orv_ruthenian-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="orv_ruthenian-dep-flat-name.html">flat:name</a></tt>.
 
-23 nodes (0%) are attached to their parents as `flat`.
+31 nodes (0%) are attached to their parents as `flat`.
 
-23 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.26086956521739.
+31 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.29032258064516.
 
-The following 2 pairs of parts of speech are connected with `flat`: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (19; 83% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (4; 17% instances).
+The following 2 pairs of parts of speech are connected with `flat`: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (27; 87% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (4; 13% instances).
 
 
 ~~~ conllu

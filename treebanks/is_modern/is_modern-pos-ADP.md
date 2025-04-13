@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>í</em> (<tt><a href="is_modern-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.087719 (the average of all parts of speech is 1.734760).
+The form / lemma ratio of `ADP` is 1.087719 (the average of all parts of speech is 1.738114).
 
 The 1st highest number of forms (3) was observed with the lemma “meðal”: <em>a., meira, meðal</em>.
 

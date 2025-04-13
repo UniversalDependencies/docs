@@ -40,7 +40,7 @@ Examples: <em>вӧлі, вӧліс</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 6 different relations: <tt><a href="kpv_ikdp-dep-aux-neg.html">aux:neg</a></tt> (25; 43% instances), <tt><a href="kpv_ikdp-dep-cop.html">cop</a></tt> (21; 36% instances), <tt><a href="kpv_ikdp-dep-aux.html">aux</a></tt> (6; 10% instances), <tt><a href="kpv_ikdp-dep-reparandum.html">reparandum</a></tt> (3; 5% instances), <tt><a href="kpv_ikdp-dep-aux-aspect.html">aux:aspect</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-aux-cnd.html">aux:cnd</a></tt> (1; 2% instances)
+`AUX` nodes are attached to their parents using 6 different relations: <tt><a href="kpv_ikdp-dep-aux.html">aux</a></tt> (27; 47% instances), <tt><a href="kpv_ikdp-dep-cop.html">cop</a></tt> (21; 36% instances), <tt><a href="kpv_ikdp-dep-aux-neg.html">aux:neg</a></tt> (4; 7% instances), <tt><a href="kpv_ikdp-dep-reparandum.html">reparandum</a></tt> (3; 5% instances), <tt><a href="kpv_ikdp-dep-aux-aspect.html">aux:aspect</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-aux-cnd.html">aux:cnd</a></tt> (1; 2% instances)
 
 Parents of `AUX` nodes belong to 6 different parts of speech: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (28; 48% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (20; 34% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (4; 7% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (2; 3% instances)
 

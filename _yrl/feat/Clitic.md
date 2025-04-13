@@ -28,4 +28,4 @@ Clitic forms attested by Avila (2021):
 * _<b>Amaãntu.</b>&nbsp;_ “I'm just looking.” (*a-maã=ntu* 1sg-see-only)
 * _<b>kupixá-pe</b>&nbsp;_ “in the plantation” (*kupixá=pe* plantation-LOC)
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:50 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:34 CET -->

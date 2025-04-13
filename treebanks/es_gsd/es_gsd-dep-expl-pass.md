@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="es_gsd-dep-expl.html">expl</a></tt>.
 There are also 1 other language-specific subtypes of `expl`: <tt><a href="es_gsd-dep-expl-pv.html">expl:pv</a></tt>.
 
-6 nodes (0%) are attached to their parents as `expl:pass`.
+10 nodes (0%) are attached to their parents as `expl:pass`.
 
-5 instances of `expl:pass` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5.
+5 instances of `expl:pass` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.3.
 
-The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (6; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (10; 100% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 6	usar	usar	VERB	_	VerbForm=Inf	2	acl:relcl	_	_
 7	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	muchos	mucho	PRON	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	0	root	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	13	punct	_	_
+9	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
 10	como	como	CCONJ	_	_	13	cc	_	_
 11	también	también	ADV	_	_	13	advmod	_	_
 12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
@@ -40,7 +40,7 @@ The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 15	se	él	PRON	_	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	expl:pass	_	_
 16	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
 17	hacer	hacer	VERB	_	VerbForm=Inf	13	acl:relcl	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	8	punct	_	_
+18	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
 
 ~~~
 

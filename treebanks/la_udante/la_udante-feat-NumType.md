@@ -70,7 +70,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 * `Card` (58; 49% of non-empty `NumType`): <em>tantum, multum, plus, quantum, plurimum</em>
 * `Mult` (6; 5% of non-empty `NumType`): <em>semel, bis, dupliciter, ter, multotiens</em>
 * `Ord` (55; 46% of non-empty `NumType`): <em>primo, primum, tertio, secundo, quinto, Quarto, primitus, tertium</em>
-* `EMPTY` (2996): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, magis</em>
+* `EMPTY` (2997): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, magis</em>
 
 `NumType` seems to be **lexical feature** of `ADV`. 100% lemmas (16) occur only with one value of `NumType`.
 

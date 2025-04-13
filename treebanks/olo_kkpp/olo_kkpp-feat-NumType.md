@@ -41,5 +41,5 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (5; 100% of non-empty `NumType`): <em>23., Enzimäine, Toine, kolmandennu, kolmas</em>
-* `EMPTY` (96): <em>eri, mustal, valgiel, 30., Karjalazet, bohattu, hyväs, jygei, kielitiijollizii, omis</em>
+* `EMPTY` (95): <em>eri, mustal, valgiel, 30., Karjalazet, bohattu, hyväs, jygei, kielitiijollizii, omis</em>
 

@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ltg_cairo-pos-DET.h
 
 ### `DET`
 
-3 <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> tokens (50% of all `DET` tokens) have a non-empty value of `Poss`.
+3 <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> tokens (43% of all `DET` tokens) have a non-empty value of `Poss`.
 
 The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="ltg_cairo-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ltg_cairo-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3; 100%), <tt><a href="ltg_cairo-feat-Case.html">Case</a></tt><tt>=Dat</tt> (2; 67%), <tt><a href="ltg_cairo-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 67%).
 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (3; 100% of non-empty `Poss`): <em>Muns, sovai, sovam</em>
-* `EMPTY` (3): <em>Itei, kaida, tamā</em>
+* `EMPTY` (4): <em>Itei, kaida, kurs, tamā</em>
 

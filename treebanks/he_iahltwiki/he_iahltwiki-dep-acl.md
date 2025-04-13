@@ -72,7 +72,7 @@ The following 12 pairs of parts of speech are connected with `acl`: <tt><a href=
 4	עיר	עיר	NOUN	NOUN	Gender=Fem|Number=Sing	2	compound	_	_
 5	ה	ה	DET	DET	Definite=Def|PronType=Art	6	det	_	_
 6	מצרית	מצרי	ADJ	ADJ	Gender=Fem|Number=Sing	4	amod	_	_
-7	נואיבה	נואיבה	PROPN	PROPN	_	4	appos	_	_
+7	נואיבה	נואיבה	PROPN	PROPN	_	4	appos	_	Entity=(GPE)
 8	נהרסו	נהרס	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Plur|Person=3|Tense=Past|Voice=Mid	0	root	_	_
 9	כליל	כליל	ADV	ADV	_	8	advmod	_	_
 10	כמה	כמה	DET	DET	_	11	det	_	_

@@ -70,10 +70,10 @@ The following 15 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 xcomp	color:blue
-1	כמה	כמה	DET	DET	Definite=Cons	2	det	_	_
+1	כמה	כמה	DET	DET	Definite=Cons	2	det	_	CxnElt=3:Interrogative-WHInfo-Direct#2.WHWord
 2	מחקרים	מחקר	NOUN	NOUN	Gender=Masc|Number=Plur	3	nsubj	_	_
-3	שאלו	שאל	VERB	VERB	Gender=Fem,Masc|HebBinyan=PAAL|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	_
-4	כיצד	כיצד	ADV	ADV	PronType=Int	3	advcl	_	_
+3	שאלו	שאל	VERB	VERB	Gender=Fem,Masc|HebBinyan=PAAL|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	Cxn=Interrogative-WHInfo-Direct,Interrogative-WHInfo-Direct#2|CxnElt=3:Interrogative-WHInfo-Direct.Clause,3:Interrogative-WHInfo-Direct#2.Clause
+4	כיצד	כיצד	ADV	ADV	PronType=Int	3	advcl	_	CxnElt=3:Interrogative-WHInfo-Direct.WHWord
 5	להפוך	הפך	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	4	xcomp	_	_
 6	כלכלה	כלכלה	NOUN	NOUN	Gender=Fem|Number=Sing	5	obj	_	_
 7	סטליניסטית	סטליניסטית	ADJ	ADJ	_	6	amod	_	_

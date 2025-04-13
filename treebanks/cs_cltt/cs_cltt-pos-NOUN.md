@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-CLTT: POS Tags: `NOUN`
 
-There are 848 `NOUN` lemmas (30%), 1640 `NOUN` types (34%) and 11062 `NOUN` tokens (31%).
+There are 854 `NOUN` lemmas (30%), 1640 `NOUN` types (34%) and 11062 `NOUN` tokens (31%).
 Out of 15 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>jednotka, položka, majetek, závěrka, den, období, záznam, závazek, ocenění, účetnictví</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>jednotky</em> (<tt><a href="cs_cltt-p
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.933962 (the average of all parts of speech is 1.713272).
+The form / lemma ratio of `NOUN` is 1.920375 (the average of all parts of speech is 1.709632).
 
 The 1st highest number of forms (9) was observed with the lemma “jednotka”: <em>jednotce, jednotek, jednotka, jednotkami, jednotkou, jednotku, jednotky, jednotkách, jednotkám</em>.
 
@@ -59,12 +59,12 @@ The 2nd highest number of forms (9) was observed with the lemma “osoba”: <em
 
 The 3rd highest number of forms (9) was observed with the lemma “změna”: <em>změn, změna, změnami, změnou, změnu, změny, změnách, změnám, změně</em>.
 
-`NOUN` occurs with 6 features: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt> (11062; 100% instances), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt> (11062; 100% instances), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt> (11016; 100% instances), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt> (11016; 100% instances), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt> (4459; 40% instances), <tt><a href="cs_cltt-feat-Abbr.html">Abbr</a></tt> (27; 0% instances)
+`NOUN` occurs with 5 features: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt> (11062; 100% instances), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt> (11016; 100% instances), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt> (11016; 100% instances), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt> (4459; 40% instances), <tt><a href="cs_cltt-feat-Abbr.html">Abbr</a></tt> (27; 0% instances)
 
-`NOUN` occurs with 16 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Polarity=Neg`, `Polarity=Pos`
+`NOUN` occurs with 14 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
-`NOUN` occurs with 57 feature combinations.
-The most frequent feature combination is `Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos` (1107 tokens).
+`NOUN` occurs with 50 feature combinations.
+The most frequent feature combination is `Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing` (1107 tokens).
 Examples: <em>majetku, dne, odstavce, zákona, zisku, státu, záznamu, rejstříku, předpisu, zápisu</em>
 
 

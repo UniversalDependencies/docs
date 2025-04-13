@@ -32,4 +32,4 @@ This feature marks person agreement of the verb with the indirect object or of p
 * [ab] _<b>и</b>-р-фа-ша_ [DO.Rel-Subj.3Pl-eat-Fut2.NonFin] ‘<b>what</b> they are going to eat’ `Dyn=Yes|Number[subj]=Plur|Person[obj]=Rel|Person[subj]=3|Tense=Fut2|Trans=Yes|VerbForm=NonFin`
 
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:14 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:57 CET -->

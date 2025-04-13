@@ -12,15 +12,15 @@ udver: '2'
 # UD Ottoman Turkish BOUN
 
 Language: [Ottoman Turkish](/ota/index.html) (code: `ota`)<br/>
-Family: Turkic, Southwestern
+Family: Turkic
 
 This treebank has been part of Universal Dependencies since the UD v2.14 release.
 
 The following people have contributed to making this treebank part of UD: Şaziye Betül Özateş, Tarık Emre Tıraş, Efe Eren Genç, Esma Fatıma Bilgin Taşdemir.
 
 Repository: [UD_Ottoman_Turkish-BOUN](https://github.com/UniversalDependencies/UD_Ottoman_Turkish-BOUN)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udota_boun214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udota_boun215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -62,7 +62,7 @@ author = {% raw %}{{{% endraw %}\"O}zate{\c{s{% raw %}}}{% endraw %}, {\c{S{% ra
 booktitle = "Proceedings of The 18th Linguistic Annotation Workshop (LAW-XVIII)",
 month = mar,
 year = "2024",
-address = {St. Julians, Malta},
+address = "St. Julians, Malta",
 publisher = "Association for Computational Linguistics",
 url = "https://aclanthology.org/2024.law-1.18",
 pages = "188--196",

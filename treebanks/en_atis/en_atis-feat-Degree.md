@@ -60,8 +60,9 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADV --[<tt><a href="en_atis-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (4; 100%),
 <tt>ADJ --[<tt><a href="en_atis-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (3; 100%),
 <tt>ADV --[<tt><a href="en_atis-dep-conj.html">conj</a></tt>]--> ADV</tt> (3; 100%),
-<tt>ADV --[<tt><a href="en_atis-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="en_atis-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="en_atis-dep-obl-tmod.html">obl:tmod</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADV --[<tt><a href="en_atis-dep-nmod.html">nmod</a></tt>]--> ADV</tt> (1; 100%).
+<tt>ADV --[<tt><a href="en_atis-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADV --[<tt><a href="en_atis-dep-nmod.html">nmod</a></tt>]--> ADV</tt> (1; 100%),
+<tt>ADV --[<tt><a href="en_atis-dep-obl.html">obl</a></tt>]--> ADJ</tt> (1; 100%).
 

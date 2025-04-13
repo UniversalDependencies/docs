@@ -65,7 +65,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 4	era	ser	AUX	vsii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	7:cop	SpaceAfter=No
 5	:	:	PUNCT	fd	PunctType=Colo	7	punct	7:punct	_
 6	Se	él	PRON	p0300000	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl:pv	10:expl:pv	_
-7	tendrá	tener	VERB	vmif3s0	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	0:root	ArgTem=arg2:atr
+7	tendrá	tener	VERB	vmif3s0	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	0:root	ArgTem=arg2:atr|Cxn=Interrogative-Polar-Direct|CxnElt=7:Interrogative-Polar-Direct.Clause
 8	Romario	Romario	PROPN	np0000p	_	7	nsubj	7:nsubj	ArgTem=arg0:agt|Entity=(NOCOREF:Spec.person-person-1-gstype:spec)
 9	que	que	SCONJ	cs	_	10	mark	10:mark	_
 10	ir	ir	VERB	vmn0000	VerbForm=Inf	7	xcomp	7:xcomp	_

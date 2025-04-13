@@ -39,13 +39,13 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 15	lluviosa	lluvioso	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	_
 16	en	en	ADP	_	_	17	case	_	_
 17	París	parís	PROPN	_	_	10	obl	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	19	punct	_	_
+18	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
 19	precisamente	precisamente	ADV	_	_	10	advmod	_	_
 20	en	en	ADP	_	_	22	case	_	_
 21	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	domingo	domingo	PROPN	_	_	19	nmod	_	_
 23	triste	triste	ADJ	_	Number=Sing	22	amod	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	2	punct	_	_
+24	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 

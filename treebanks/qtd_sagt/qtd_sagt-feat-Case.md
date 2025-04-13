@@ -12,7 +12,7 @@ It occurs with 8 different values: `Abl`, `Acc`, `Dat`, `Equ`, `Gen`, `Ins`, `Lo
 12215 tokens (33%) have a non-empty value of `Case`.
 4003 types (60%) occur at least once with a non-empty value of `Case`.
 2373 lemmas (63%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (5199; 14% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (4143; 11% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1117; 3% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (778; 2% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (557; 1% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (294; 1% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (91; 0% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (36; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (5199; 14% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (4142; 11% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1118; 3% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (778; 2% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (557; 1% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (294; 1% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (91; 0% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (36; 0% instances).
 
 ### `NOUN`
 
@@ -44,9 +44,9 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-4143 <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+4142 <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3644; 88%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2772; 67%), <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2738; 66%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3643; 88%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2771; 67%), <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2738; 66%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -57,7 +57,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Gen` (123; 3% of non-empty `Case`): <em>onun, benim, bizim, bunun, deiner, buranın, senin, sizin, unsere, Onların</em>
 * `Ins` (18; 0% of non-empty `Case`): <em>onunla, benimle, birbirleriyle, onlarla, birbiriyle, bizimle, bununla, seninle, sizlerle</em>
 * `Loc` (126; 3% of non-empty `Case`): <em>orada, burada, bizde, orda, bende, sende, bunda, burda, nerede, sizde</em>
-* `Nom` (2791; 67% of non-empty `Case`): <em>ich, du, das, es, ben, o, wir, die, man, sie</em>
+* `Nom` (2790; 67% of non-empty `Case`): <em>ich, du, das, es, ben, o, wir, die, man, sie</em>
 * `EMPTY` (12): <em>dazu, I, O, Worüber, my, ne--, ney, this, viel</em>
 
 <table>
@@ -69,16 +69,16 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `DET`
 
-1117 <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> tokens (64% of all `DET` tokens) have a non-empty value of `Case`.
+1118 <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> tokens (64% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (968; 87%), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (945; 85%), <tt><a href="qtd_sagt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (721; 65%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (968; 87%), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (946; 85%), <tt><a href="qtd_sagt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (721; 64%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (408; 37% of non-empty `Case`): <em>die, eine, ein, das, einen, den, viele, keine, jeden, kein</em>
+* `Acc` (408; 36% of non-empty `Case`): <em>die, eine, ein, das, einen, den, viele, keine, jeden, kein</em>
 * `Dat` (376; 34% of non-empty `Case`): <em>dem, der, den, einem, einer, diesem, jedem, jeder, ein, manchen</em>
 * `Gen` (15; 1% of non-empty `Case`): <em>der, des</em>
-* `Nom` (318; 28% of non-empty `Case`): <em>die, das, ein, der, eine, keine, viele, dieses, diese, dieser</em>
+* `Nom` (319; 29% of non-empty `Case`): <em>die, das, ein, der, eine, keine, viele, dieses, diese, dieser</em>
 * `EMPTY` (620): <em>bir, o, her, bu, böyle, çok, öyle, hangi, şu, birkaç</em>
 
 <table>
@@ -216,12 +216,12 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="qtd_sagt-dep-det.html">det</a></tt>]--> DET</tt> (866; 57%),
+<tt>NOUN --[<tt><a href="qtd_sagt-dep-det.html">det</a></tt>]--> DET</tt> (869; 57%),
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (193; 58%),
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (128; 72%),
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (66; 61%),
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (55; 68%),
-<tt>PROPN --[<tt><a href="qtd_sagt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (40; 74%),
+<tt>PROPN --[<tt><a href="qtd_sagt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (41; 75%),
 <tt>PROPN --[<tt><a href="qtd_sagt-dep-det.html">det</a></tt>]--> DET</tt> (38; 67%),
 <tt>PRON --[<tt><a href="qtd_sagt-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (32; 82%),
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (28; 72%),

@@ -13,7 +13,7 @@ This relation is universal.
 1 instances of `list` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.
 
-The following 1 pairs of parts of speech are connected with `list`: <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `list`: <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
@@ -46,9 +46,9 @@ The following 1 pairs of parts of speech are connected with `list`: <tt><a href=
 22	Eric	Eric	PROPN	S	Case=Nom|Number=Sing	15	appos	15:appos	NE=B-Per
 23	Clapton	Clapton	PROPN	S	Case=Nom|Number=Sing	22	flat	22:flat	NE=I-Per|SpaceAfter=No
 24	:	:	PUNCT	Z	_	25	punct	25:punct	_
-25	Tears	Tears	X	T	Foreign=Yes	22	list	22:list	NE=B-Prod
-26	in	in	X	T	Foreign=Yes	25	flat:foreign	25:flat	NE=I-Prod
-27	heaven	heaven	X	T	Foreign=Yes	25	flat:foreign	25:flat	NE=I-Prod
+25	Tears	tear	NOUN	T	Number=Plur	22	list	22:list	Lang=en|NE=B-Prod
+26	in	in	ADP	T	_	27	case	27:case	Lang=en|NE=I-Prod
+27	heaven	heaven	NOUN	T	Number=Sing	25	nmod	25:nmod	Lang=en|NE=I-Prod
 28	:)	:)	INTJ	E	_	6	discourse	6:discourse	_
 
 ~~~

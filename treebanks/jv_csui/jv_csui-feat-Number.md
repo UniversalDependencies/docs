@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-3420 tokens (24%) have a non-empty value of `Number`.
-1329 types (35%) occur at least once with a non-empty value of `Number`.
+3419 tokens (24%) have a non-empty value of `Number`.
+1328 types (35%) occur at least once with a non-empty value of `Number`.
 1 lemmas (0) occur at least once with a non-empty value of `Number`.
-The feature is used with 3 part-of-speech tags: <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (2862; 20% instances), <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (489; 3% instances), <tt><a href="jv_csui-pos-DET.html">DET</a></tt> (69; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (2862; 20% instances), <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (489; 3% instances), <tt><a href="jv_csui-pos-DET.html">DET</a></tt> (68; 0% instances).
 
 ### `NOUN`
 
@@ -40,23 +40,23 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `DET`
 
-69 <tt><a href="jv_csui-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `Number`.
+68 <tt><a href="jv_csui-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="jv_csui-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (47; 68%), <tt><a href="jv_csui-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (45; 65%), <tt><a href="jv_csui-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (42; 61%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="jv_csui-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (46; 68%), <tt><a href="jv_csui-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (44; 65%), <tt><a href="jv_csui-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (42; 62%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (61; 88% of non-empty `Number`): <em>saperangan, para, akeh, sawetara, pirang-pirang, maneka, Akeh-akehe, Pira-pira, pinten-pinten</em>
-* `Sing` (8; 12% of non-empty `Number`): <em>sawijining, saindeng</em>
+* `Plur` (61; 90% of non-empty `Number`): <em>saperangan, para, akeh, sawetara, pirang-pirang, maneka, Akeh-akehe, Pira-pira, pinten-pinten</em>
+* `Sing` (7; 10% of non-empty `Number`): <em>sawijining</em>
 * `EMPTY` (632): <em>e, iku, kuwi, iki, punika, saben, dhewe, kabeh, ipun, semana</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="jv_csui-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (625; 97%),
+<tt>NOUN --[<tt><a href="jv_csui-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (627; 97%),
 <tt>NOUN --[<tt><a href="jv_csui-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (206; 99%),
 <tt>NOUN --[<tt><a href="jv_csui-dep-conj.html">conj</a></tt>]--> NOUN</tt> (115; 95%),
-<tt>NOUN --[<tt><a href="jv_csui-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (30; 97%),
+<tt>NOUN --[<tt><a href="jv_csui-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (31; 97%),
 <tt>NOUN --[<tt><a href="jv_csui-dep-nmod-lmod.html">nmod:lmod</a></tt>]--> NOUN</tt> (27; 90%),
 <tt>NOUN --[<tt><a href="jv_csui-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (23; 96%),
 <tt>NOUN --[<tt><a href="jv_csui-dep-appos.html">appos</a></tt>]--> NOUN</tt> (11; 100%),

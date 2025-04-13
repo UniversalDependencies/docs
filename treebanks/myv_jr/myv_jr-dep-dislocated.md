@@ -56,7 +56,7 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 4 1 dislocated	color:blue
 1	Палько	Палько	PROPN	N	Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	4	dislocated	_	GTtags=Prop,Sem/Sur,Sg,Nom,Indef
 2	кудосонть	кудо	NOUN	N	Case=Ine|Definite=Def|Number=Sing	4	obl:lmod	_	GTtags=Sem/Plc,Sg,Ine,Def
-3	а	а	AUX	Pcle	Polarity=Neg	4	aux:neg	_	GTtags=Neg
+3	а	а	AUX	Pcle	Polarity=Neg	4	aux	_	GTtags=Neg
 4	неяви	неявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 

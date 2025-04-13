@@ -11,7 +11,7 @@ This relation is universal.
 10 nodes (6%) are attached to their parents as `conj`.
 
 10 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.3.
+Average distance between parent and child is 4.4.
 
 The following 7 pairs of parts of speech are connected with `conj`: <tt><a href="lv_cairo-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_cairo-pos-PROPN.html">PROPN</a></tt> (2; 20% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-PROPN.html">PROPN</a></tt> (2; 20% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt> (2; 20% instances), <tt><a href="lv_cairo-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_cairo-pos-ADJ.html">ADJ</a></tt> (1; 10% instances), <tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="lv_cairo-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt> (1; 10% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt> (1; 10% instances).
 
@@ -42,7 +42,7 @@ The following 7 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 conj	color:blue
-1	Marija	marija	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	LvtbNodeId=a-c70-Cairo-p9s1w1
+1	Marija	Marija	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	LvtbNodeId=a-c70-Cairo-p9s1w1
 2	ieguva	iegūt	VERB	vmnist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c70-Cairo-p9s1w2
 3	bronzu	bronza	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	2	obj	2:obj	LvtbNodeId=a-c70-Cairo-p9s1w3|SpaceAfter=No
 4	,	,	PUNCT	zc	_	5	punct	6.1:punct	LvtbNodeId=a-c70-Cairo-p9s1w4

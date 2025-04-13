@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="xav_xdt-pos-PART.ht
 
 ### `PART`
 
-142 <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> tokens (38% of all `PART` tokens) have a non-empty value of `Htp`.
+142 <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> tokens (37% of all `PART` tokens) have a non-empty value of `Htp`.
 
 The most frequent other feature values with which `PART` and `Htp` co-occurred: <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (142; 100%), <tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (110; 77%).
 

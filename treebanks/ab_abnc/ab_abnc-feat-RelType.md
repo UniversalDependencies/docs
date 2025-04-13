@@ -9,38 +9,48 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `Cause`, `Loc`, `Mnr`, `Tmp`.
 
-72 tokens (3%) have a non-empty value of `RelType`.
-66 types (6%) occur at least once with a non-empty value of `RelType`.
-47 lemmas (8%) occur at least once with a non-empty value of `RelType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (71; 3% instances), <tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+224 tokens (4%) have a non-empty value of `RelType`.
+206 types (8%) occur at least once with a non-empty value of `RelType`.
+106 lemmas (9%) occur at least once with a non-empty value of `RelType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (222; 3% instances), <tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-71 <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `RelType`.
+222 <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> tokens (12% of all `VERB` tokens) have a non-empty value of `RelType`.
 
-The most frequent other feature values with which `VERB` and `RelType` co-occurred: <tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=NonFin</tt> (71; 100%), <tt><a href="ab_abnc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (66; 93%), <tt><a href="ab_abnc-feat-Gender-lo.html">Gender[lo]</a></tt><tt>=EMPTY</tt> (62; 87%), <tt><a href="ab_abnc-feat-Number-lo.html">Number[lo]</a></tt><tt>=EMPTY</tt> (61; 86%), <tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (59; 83%), <tt><a href="ab_abnc-feat-Person-lo.html">Person[lo]</a></tt><tt>=EMPTY</tt> (58; 82%), <tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (57; 80%), <tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (54; 76%), <tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (51; 72%), <tt><a href="ab_abnc-feat-Dyn.html">Dyn</a></tt><tt>=Yes</tt> (46; 65%).
+The most frequent other feature values with which `VERB` and `RelType` co-occurred: <tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=NonFin</tt> (222; 100%), <tt><a href="ab_abnc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (208; 94%), <tt><a href="ab_abnc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (202; 91%), <tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (192; 86%), <tt><a href="ab_abnc-feat-Gender-lo.html">Gender[lo]</a></tt><tt>=EMPTY</tt> (177; 80%), <tt><a href="ab_abnc-feat-Number-lo.html">Number[lo]</a></tt><tt>=EMPTY</tt> (171; 77%), <tt><a href="ab_abnc-feat-Person-lo.html">Person[lo]</a></tt><tt>=EMPTY</tt> (168; 76%), <tt><a href="ab_abnc-feat-Dyn.html">Dyn</a></tt><tt>=Yes</tt> (163; 73%), <tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (163; 73%), <tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (157; 71%).
 
 `VERB` tokens may have the following values of `RelType`:
 
-* `Cause` (8; 11% of non-empty `RelType`): <em>изуҭахузеи, Изуцәызӡарызеи, дзынхоз, зеиқәузеи, изумоузеи, узцәажәозеи, ҳзимыцхраарызеи</em>
-* `Loc` (18; 25% of non-empty `RelType`): <em>ахьтәаз, иахьтәаз, ахьгылаз, ахькажьызгьы, ахьрымам, ахьынаҧшуаз, ахьышьҭаз, ахьықәтәаз, дахьнеиуаз, иабадыруаз</em>
-* `Mnr` (31; 44% of non-empty `RelType`): <em>ишнеиуаз, иштәаз, шыҟаз, Дышнеиуаз, Ишааиуаз, дшааиуаз, ишаҿыз, ишаҿыц, ишеиважьыз, ишеилацәажәоз</em>
-* `Tmp` (14; 20% of non-empty `RelType`): <em>ианынаскьа, анааҟәыҵ, анаба, анага, анакәха, анаҳәа, анырба, анырбалак, ианазааигәаха, ианалага</em>
+* `Cause` (12; 5% of non-empty `RelType`): <em>изуҭахузеи, Изуцәызӡарызеи, дзынхоз, зеиқәузеи, зхыбкуа, зышәҭаххаз, изумоузеи, сзырҭахымзеи, узцәажәозеи, шәызсазҵаауеи</em>
+* `Loc` (46; 21% of non-empty `RelType`): <em>ахьгылаз, ахьтәаз, иахьтәаз, Иабацеи, Иабаҟоу, Иабыкәу, Иахьиоуҳәалак, Иахьцалак, Сахьнеиз, абазбахьаз</em>
+* `Mnr` (85; 38% of non-empty `RelType`): <em>ишаҿыз, ишнеиуаз, иштәаз, ишысҭаху, шыҟаз, Дшааиҧшхо, Дышнеиуаз, Ишаабоз, Ишааиуаз, Ишыжәбо</em>
+* `Tmp` (79; 36% of non-empty `RelType`): <em>анакәха, данааиуаз, данца, ианынаскьа, шәанаахыҵ, ҳаннеиуаз, ҳанҭыҵ, Анааилашәшәлак, Даналга, Саналга</em>
 
 <table>
   <tr><th>Paradigm <i>а-ҭахра́</i></th><th><tt>Cause</tt></th><th><tt>Loc</tt></th><th><tt>Mnr</tt></th><th><tt>Tmp</tt></th></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=Int</tt>|<tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt></tt></td><td><em>изуҭахузеи</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=1</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td></td><td><em>сшиҭахым</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td></td><td><em>иахьиҭаху</em></td><td></td><td><em>ианиҭаху</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=Int</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>изуҭахузеи</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=1</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>сшиҭахым</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td></td><td><em>иахьиҭахыз</em></td><td><em>шиҭахыз</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>иахьиҭаху</em></td><td></td><td><em>ианиҭаху</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=Int</tt>|<tt><a href="ab_abnc-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=1</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>сзырҭахымзеи</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=Int</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="ab_abnc-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>Ишҧасҭахым</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="ab_abnc-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>зышәҭаххаз</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>ишысҭаху</em></td><td></td></tr>
 </table>
 
 ### `AUX`
 
-1 <tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> tokens (5% of all `AUX` tokens) have a non-empty value of `RelType`.
+2 <tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `RelType`.
 
-The most frequent other feature values with which `AUX` and `RelType` co-occurred: <tt><a href="ab_abnc-feat-Dyn.html">Dyn</a></tt><tt>=No</tt> (1; 100%), <tt><a href="ab_abnc-feat-Gender-io.html">Gender[io]</a></tt><tt>=Neut</tt> (1; 100%), <tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ab_abnc-feat-Number-io.html">Number[io]</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="ab_abnc-feat-Person-io.html">Person[io]</a></tt><tt>=3</tt> (1; 100%), <tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (1; 100%), <tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Imp</tt> (1; 100%), <tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=NonFin</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `RelType` co-occurred: <tt><a href="ab_abnc-feat-Dyn.html">Dyn</a></tt><tt>=No</tt> (2; 100%), <tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ab_abnc-feat-Number-io.html">Number[io]</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="ab_abnc-feat-Person-io.html">Person[io]</a></tt><tt>=3</tt> (2; 100%), <tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (2; 100%), <tt><a href="ab_abnc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=NonFin</tt> (2; 100%).
 
 `AUX` tokens may have the following values of `RelType`:
 
-* `Mnr` (1; 100% of non-empty `RelType`): <em>шакәызгьы</em>
+* `Mnr` (2; 100% of non-empty `RelType`): <em>шакәызгьы, шиакәу</em>
+
+## Relations with Agreement in `RelType`
+
+The 10 most frequent relations where parent and child node agree in `RelType`:
+<tt>VERB --[<tt><a href="ab_abnc-dep-csubj-outer.html">csubj:outer</a></tt>]--> VERB</tt> (5; 83%).
 

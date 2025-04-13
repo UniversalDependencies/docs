@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 8 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-11648 tokens (21%) have a non-empty value of `PronType`.
+11646 tokens (21%) have a non-empty value of `PronType`.
 234 types (3%) occur at least once with a non-empty value of `PronType`.
 98 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it_partut-pos-DET.html">DET</a></tt> (9522; 17% instances), <tt><a href="it_partut-pos-PRON.html">PRON</a></tt> (1798; 3% instances), <tt><a href="it_partut-pos-ADV.html">ADV</a></tt> (328; 1% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="it_partut-pos-DET.html">DET</a></tt> (9519; 17% instances), <tt><a href="it_partut-pos-PRON.html">PRON</a></tt> (1798; 3% instances), <tt><a href="it_partut-pos-ADV.html">ADV</a></tt> (328; 1% instances), <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `DET`
 
-9522 <tt><a href="it_partut-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+9519 <tt><a href="it_partut-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="it_partut-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (7206; 76%), <tt><a href="it_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6787; 71%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="it_partut-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (7206; 76%), <tt><a href="it_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6784; 71%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Art` (8153; 86% of non-empty `PronType`): <em>il, la, l', i, le, un, gli, una, lo, un'</em>
-* `Dem` (350; 4% of non-empty `PronType`): <em>questo, tale, questa, tali, questi, queste, quest', tal, quel, quei</em>
+* `Dem` (348; 4% of non-empty `PronType`): <em>questo, tale, questa, tali, questi, queste, quest', tal, quel, quei</em>
 * `Ind` (355; 4% of non-empty `PronType`): <em>ogni, alcuni, più, qualsiasi, molti, alcuna, nessun, alcun, diversi, alcune</em>
 * `Int` (13; 0% of non-empty `PronType`): <em>quali, che, quante, quanti, quale</em>
-* `Prs` (553; 6% of non-empty `PronType`): <em>sua, suo, loro, sue, suoi, mio, nostro, nostra, proprio, propria</em>
+* `Prs` (552; 6% of non-empty `PronType`): <em>sua, suo, loro, sue, suoi, mio, nostro, nostra, proprio, tuo</em>
 * `Rel` (8; 0% of non-empty `PronType`): <em>cui</em>
 * `Tot` (90; 1% of non-empty `PronType`): <em>tutti, tutte, tutto, tutta, entrambi, entrambe, ambedue</em>
 
@@ -72,6 +72,17 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 * `Neg` (328; 100% of non-empty `PronType`): <em>non, neanche, neppure, no</em>
 * `EMPTY` (1571): <em>più, anche, solo, molto, oggi, già, ora, tuttavia, così, inoltre</em>
+
+### `ADJ`
+
+1 <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `PronType`.
+
+The most frequent other feature values with which `ADJ` and `PronType` co-occurred: <tt><a href="it_partut-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="it_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+
+`ADJ` tokens may have the following values of `PronType`:
+
+* `Prs` (1; 100% of non-empty `PronType`): <em>propria</em>
+* `EMPTY` (4207): <em>presente, altri, europeo, primo, sociale, importante, nuovo, stesso, economica, finanziario</em>
 
 ## Relations with Agreement in `PronType`
 

@@ -22,4 +22,4 @@ The possessor's number is marked morphologically on the possessed object
 
 * [hu] _<b>házuk</b>_ lit. _house-<b>3PLPOSS</b>_ “<b>their</b> house” `Number[psor]=Plur|Person[psor]=3`
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:09 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:53 CET -->

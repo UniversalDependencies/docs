@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-266 nodes (0%) are attached to their parents as `goeswith`.
+271 nodes (0%) are attached to their parents as `goeswith`.
 
-266 instances of `goeswith` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.06390977443609.
+271 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.06273062730627.
 
-The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (242; 91% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (14; 5% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (7; 3% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (247; 91% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (14; 5% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (7; 3% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,16 +58,16 @@ The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 11	fgColor:white
 # visual-style 11 12 goeswith	color:blue
 1	Nende	see	PRON	P	Case=Gen|Number=Plur|PronType=Dem	2	nmod	2:nmod	_
-2	filmid	film	NOUN	S	Case=Nom|Number=Plur	3	nsubj	3:nsubj|8:nsubj	_
-3	jooksevad	jooksma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	filmid	film	NOUN	S	Case=Nom|Number=Plur	3	nsubj	3:nsubj|8:nsubj	Arg=jooksma_Arg_0
+3	jooksevad	jooksma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Verb=jooksma_3
 4	uhketes	uhke	ADJ	A	Case=Ine|Degree=Pos|Number=Plur	6	amod	6:amod	_
 5	peatänavate	pea_tänav	NOUN	S	Case=Gen|Number=Plur	6	nmod	6:nmod	_
 6	kinodes	kino	NOUN	S	Case=Ine|Number=Plur	3	obl	3:obl	_
 7	ja	ja	CCONJ	J	_	8	cc	8:cc	_
-8	võistlevad	võistlema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	0:root|3:conj	_
+8	võistlevad	võistlema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	0:root|3:conj	Verb=võistlema
 9	vaatajate	vaataja	NOUN	S	Case=Gen|Number=Plur	10	nmod	10:nmod	_
-10	top	top	NOUN	S	Case=Nom|Foreign=Yes|Number=Sing	8	obl	8:obl	_
-11	ten	ten	NOUN	S	Case=Ine|Foreign=Yes|Number=Sing|Typo=Yes	10	flat	10:flat	CorrectForm=ten'is
+10	top	top	NOUN	S	Case=Nom|Number=Sing	8	obl	8:obl	OrigLang=en
+11	ten	ten	NOUN	S	Case=Ine|Number=Sing|Typo=Yes	10	flat	10:flat	OrigLang=en|CorrectForm=ten'is
 12	'is	_	X	T	_	11	goeswith	11:goeswith	SpaceAfter=No
 13	.	.	PUNCT	Z	_	3	punct	3:punct	_
 

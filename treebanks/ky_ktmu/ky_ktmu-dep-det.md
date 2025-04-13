@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-23 nodes (0%) are attached to their parents as `det`.
+31 nodes (0%) are attached to their parents as `det`.
 
-14 instances of `det` (61%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.8695652173913.
+20 instances of `det` (65%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.67741935483871.
 
-The following 7 pairs of parts of speech are connected with `det`: <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> (10; 43% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> (5; 22% instances), <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> (3; 13% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> (2; 9% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> (1; 4% instances).
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> (14; 45% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> (5; 16% instances), <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> (3; 10% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> (2; 6% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> (2; 6% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> (2; 6% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

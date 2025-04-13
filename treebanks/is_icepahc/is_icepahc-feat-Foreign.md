@@ -9,36 +9,34 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-4687 tokens (0%) have a non-empty value of `Foreign`.
-2301 types (4%) occur at least once with a non-empty value of `Foreign`.
-2168 lemmas (6%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 14 part-of-speech tags: <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (2307; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (1620; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (317; 0% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (108; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (99; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (51; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (47; 0% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (34; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (26; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (25; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (22; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (20; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+5171 tokens (1%) have a non-empty value of `Foreign`.
+2525 types (4%) occur at least once with a non-empty value of `Foreign`.
+2377 lemmas (7%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 14 part-of-speech tags: <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (2304; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (2108; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (317; 0% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (108; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (99; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (51; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (46; 0% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (34; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (26; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (25; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (22; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (20; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
-2307 <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> tokens (6% of all `PROPN` tokens) have a non-empty value of `Foreign`.
+2304 <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> tokens (6% of all `PROPN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2307; 100%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2307; 100%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2307; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2307; 100%).
+The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2304; 100%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2304; 100%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2304; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2304; 100%).
 
 `PROPN` tokens may have the following values of `Foreign`:
 
-* `Yes` (2307; 100% of non-empty `Foreign`): <em>Erasmus, Metternich, Darius, Dominus, Pelissier, Moyses, Menon, Petrus, Thiers, Georgíus</em>
+* `Yes` (2304; 100% of non-empty `Foreign`): <em>Erasmus, Metternich, Darius, Dominus, Pelissier, Moyses, Menon, Petrus, Thiers, Georgíus</em>
 * `EMPTY` (39080): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
 
-`Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (1006) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (1004) occur only with one value of `Foreign`.
 
 ### `X`
 
-1620 <tt><a href="is_icepahc-pos-X.html">X</a></tt> tokens (71% of all `X` tokens) have a non-empty value of `Foreign`.
-
-The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1620; 100%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1620; 100%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1620; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1620; 100%).
+2108 <tt><a href="is_icepahc-pos-X.html">X</a></tt> tokens (93% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (1620; 100% of non-empty `Foreign`): <em>anno, in, item, domini, et, Dominus, etc, sankti, de, sanktus</em>
-* `EMPTY` (652): <em>Trankival, domini, Majst, Ektor, Item, Anno, Vernakíus, Darii, etc., sankti</em>
+* `Yes` (2108; 100% of non-empty `Foreign`): <em>anno, item, in, domini, Dominus, et, Majst, Trankival, etc, sankti</em>
+* `EMPTY` (169): <em>sankti, sanktus, Miraculum, Potú, trinitatis, Exordium, Item, Taraskonum, delictum, peccatum</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (886) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (1107) occur only with one value of `Foreign`.
 
 ### `NOUN`
 
@@ -49,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (317; 100% of non-empty `Foreign`): <em>son, anno, dal, kap, Majestets, hold, hertug, leon, von, altera</em>
-* `EMPTY` (145565): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
+* `EMPTY` (145564): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (215) occur only with one value of `Foreign`.
 
@@ -92,16 +90,16 @@ The most frequent other feature values with which `NUM` and `Foreign` co-occurre
 
 ### `ADJ`
 
-47 <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Foreign`.
+46 <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (47; 100%).
+The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (46; 100%).
 
 `ADJ` tokens may have the following values of `Foreign`:
 
-* `Yes` (47; 100% of non-empty `Foreign`): <em>Vant, Aum, Darius, Heil, iiii, Besti, Gamall, Heili, Italiani, Ofanvert</em>
+* `Yes` (46; 100% of non-empty `Foreign`): <em>Vant, Aum, Darius, Heil, iiii, Besti, Gamall, Heili, Italiani, Ofanvert</em>
 * `EMPTY` (37112): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
 
-`Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (39) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (38) occur only with one value of `Foreign`.
 
 ### `DET`
 
@@ -181,14 +179,14 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>X --[<tt><a href="is_icepahc-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (624; 88%),
-<tt>X --[<tt><a href="is_icepahc-dep-dep.html">dep</a></tt>]--> X</tt> (11; 92%),
-<tt>PROPN --[<tt><a href="is_icepahc-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (9; 64%),
+<tt>X --[<tt><a href="is_icepahc-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (737; 100%),
+<tt>X --[<tt><a href="is_icepahc-dep-dep.html">dep</a></tt>]--> X</tt> (13; 100%),
+<tt>X --[<tt><a href="is_icepahc-dep-conj.html">conj</a></tt>]--> X</tt> (10; 56%),
+<tt>X --[<tt><a href="is_icepahc-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (7; 58%),
 <tt>PROPN --[<tt><a href="is_icepahc-dep-iobj.html">iobj</a></tt>]--> PROPN</tt> (5; 100%),
-<tt>X --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> X</tt> (4; 100%),
+<tt>X --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> X</tt> (5; 100%),
 <tt>X --[<tt><a href="is_icepahc-dep-obl.html">obl</a></tt>]--> X</tt> (4; 100%),
 <tt>X --[<tt><a href="is_icepahc-dep-appos.html">appos</a></tt>]--> X</tt> (3; 100%),
 <tt>X --[<tt><a href="is_icepahc-dep-flat-name.html">flat:name</a></tt>]--> X</tt> (3; 60%),
-<tt>INTJ --[<tt><a href="is_icepahc-dep-discourse.html">discourse</a></tt>]--> INTJ</tt> (2; 100%),
-<tt>NOUN --[<tt><a href="is_icepahc-dep-discourse.html">discourse</a></tt>]--> NOUN</tt> (2; 100%).
+<tt>INTJ --[<tt><a href="is_icepahc-dep-discourse.html">discourse</a></tt>]--> INTJ</tt> (2; 100%).
 

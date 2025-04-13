@@ -56,11 +56,11 @@ The most frequent other feature values with which `AUX` and `Typo` co-occurred: 
 
 1 <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="sl_sst-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="sl_sst-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (1; 100% of non-empty `Typo`): <em>znamenitost</em>
+* `Yes` (1; 100% of non-empty `Typo`): <em>znamenitosti</em>
 
 ### `PRON`
 

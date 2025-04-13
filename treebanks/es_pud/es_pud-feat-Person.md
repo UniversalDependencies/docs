@@ -12,7 +12,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 2684 tokens (12%) have a non-empty value of `Person`.
 971 types (16%) occur at least once with a non-empty value of `Person`.
 464 lemmas (10%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1331; 6% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (777; 3% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (576; 2% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1331; 6% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (759; 3% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (576; 2% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (18; 0% instances).
 
 ### `VERB`
 
@@ -47,18 +47,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-777 <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> tokens (74% of all `PRON` tokens) have a non-empty value of `Person`.
+759 <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> tokens (73% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (776; 100%), <tt><a href="es_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (532; 68%), <tt><a href="es_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (463; 60%), <tt><a href="es_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (428; 55%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (398; 51%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (758; 100%), <tt><a href="es_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (532; 70%), <tt><a href="es_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (445; 59%), <tt><a href="es_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (428; 56%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (398; 52%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (48; 6% of non-empty `Person`): <em>me, nos, yo, nuestro, mi, nuestra, My, nuestras, nuestros, mis</em>
-* `2` (10; 1% of non-empty `Person`): <em>You, te, Ya, os, tu, tú, usted, ustedes</em>
-* `3` (719; 93% of non-empty `Person`): <em>se, su, lo, sus, le, ellos, él, les, ella, la</em>
+* `1` (31; 4% of non-empty `Person`): <em>me, nos, yo, My, mí</em>
+* `2` (9; 1% of non-empty `Person`): <em>You, te, Ya, os, tú, usted, ustedes</em>
+* `3` (719; 95% of non-empty `Person`): <em>se, su, lo, sus, le, ellos, él, les, ella, la</em>
 * `EMPTY` (280): <em>que, cual, cuales, quien, cuál, qué, quienes, cuanto, quién, una</em>
-
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (12) occur only with one value of `Person`.
 
 ### `AUX`
 
@@ -91,6 +89,18 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td></td><td></td><td><em>fueran, pudieran</em></td></tr>
   <tr><td><tt><tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>seamos</em></td><td></td><td><em>sean</em></td></tr>
 </table>
+
+### `DET`
+
+18 <tt><a href="es_pud-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="es_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (18; 100%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13; 72%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (11; 61%).
+
+`DET` tokens may have the following values of `Person`:
+
+* `1` (17; 94% of non-empty `Person`): <em>nuestro, mi, nuestra, nuestras, nuestros, mis</em>
+* `2` (1; 6% of non-empty `Person`): <em>tu</em>
+* `EMPTY` (3321): <em>el, la, los, un, las, una, este, esta, cada, esto</em>
 
 ## Relations with Agreement in `Person`
 

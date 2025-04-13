@@ -31,7 +31,7 @@ The following 3 pairs of parts of speech are connected with `advcl:tcl`: <tt><a 
 6	касат	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	CLB	_	10	punct	_	_
 8	козонга	козонга	ADV	Adv	PronType=Ind	10	advmod:lmod	_	_
-9	аф	аф	AUX	Aux	Polarity=Neg	10	aux:neg	_	_
+9	аф	аф	AUX	Aux	Polarity=Neg	10	aux	_	_
 10	туят	тумс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	6	conj	_	SpaceAfter=No
 11	.	.	PUNCT	CLB	_	6	punct	_	_
 
@@ -80,7 +80,7 @@ The following 3 pairs of parts of speech are connected with `advcl:tcl`: <tt><a 
 17	"	"	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	21	punct	_	_
 19	бта	бта	ADV	Adv	_	21	mark	_	_
-20	аф	аф	AUX	_	Polarity=Neg|VerbType=Aux	21	aux:neg	_	GTtags=Aux,Neg
+20	аф	аф	AUX	_	Polarity=Neg|VerbType=Aux	21	aux	_	GTtags=Aux,Neg
 21	мярьгондяряй	мярьгомс	VERB	V	Derivation=Cond|Mood=Ind|Number[subj]=Sing|Person[subj]=3	25	advcl	_	GTtags=Cond,ScSg3
 22	тяфта	тяфта	ADV	Adv	_	21	advmod	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	21	punct	_	_

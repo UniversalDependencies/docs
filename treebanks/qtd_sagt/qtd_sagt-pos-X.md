@@ -48,11 +48,11 @@ The 3rd highest number of forms (1) was observed with the lemma “Nah”: <em>N
 
 `X` nodes are attached to their parents using 4 different relations: <tt><a href="qtd_sagt-dep-reparandum.html">reparandum</a></tt> (43; 91% instances), <tt><a href="qtd_sagt-dep-conj.html">conj</a></tt> (2; 4% instances), <tt><a href="qtd_sagt-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="qtd_sagt-dep-compound-redup.html">compound:redup</a></tt> (1; 2% instances)
 
-Parents of `X` nodes belong to 7 different parts of speech: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (23; 49% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (11; 23% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (5; 11% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (3; 6% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="qtd_sagt-pos-X.html">X</a></tt> (2; 4% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (1; 2% instances)
+Parents of `X` nodes belong to 7 different parts of speech: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (22; 47% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (11; 23% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (5; 11% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (3; 6% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="qtd_sagt-pos-X.html">X</a></tt> (2; 4% instances)
 
-37 (79%) `X` nodes are leaves.
+36 (77%) `X` nodes are leaves.
 
-8 (17%) `X` nodes have one child.
+9 (19%) `X` nodes have one child.
 
 0 (0%) `X` nodes have two children.
 
@@ -60,7 +60,7 @@ Parents of `X` nodes belong to 7 different parts of speech: <tt><a href="qtd_sag
 
 The highest child degree of a `X` node is 5.
 
-Children of `X` nodes are attached using 9 different relations: <tt><a href="qtd_sagt-dep-advmod.html">advmod</a></tt> (5; 31% instances), <tt><a href="qtd_sagt-dep-discourse.html">discourse</a></tt> (3; 19% instances), <tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt> (2; 13% instances), <tt><a href="qtd_sagt-dep-case.html">case</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-dep-cc.html">cc</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-dep-ccomp.html">ccomp</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-dep-compound-redup.html">compound:redup</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-dep-det.html">det</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-dep-punct.html">punct</a></tt> (1; 6% instances)
+Children of `X` nodes are attached using 10 different relations: <tt><a href="qtd_sagt-dep-advmod.html">advmod</a></tt> (5; 29% instances), <tt><a href="qtd_sagt-dep-discourse.html">discourse</a></tt> (3; 18% instances), <tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt> (2; 12% instances), <tt><a href="qtd_sagt-dep-case.html">case</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-dep-cc.html">cc</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-dep-ccomp.html">ccomp</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-dep-compound-redup.html">compound:redup</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-dep-det.html">det</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-dep-nummod.html">nummod</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-dep-punct.html">punct</a></tt> (1; 6% instances)
 
-Children of `X` nodes belong to 9 different parts of speech: <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (5; 31% instances), <tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt> (3; 19% instances), <tt><a href="qtd_sagt-pos-X.html">X</a></tt> (2; 13% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 6% instances)
+Children of `X` nodes belong to 9 different parts of speech: <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (5; 29% instances), <tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt> (3; 18% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (2; 12% instances), <tt><a href="qtd_sagt-pos-X.html">X</a></tt> (2; 12% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (1; 6% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 6% instances)
 

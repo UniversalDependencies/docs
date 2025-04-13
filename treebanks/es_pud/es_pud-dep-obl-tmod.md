@@ -35,7 +35,7 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 10	ese	ese	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
 11	mismo	mismo	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	_
 12	año	año	NOUN	NN	Gender=Masc|Number=Sing	6	obl:tmod	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	2	punct	_	_
+13	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -57,7 +57,7 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 9	abril	abril	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
 10	de	de	ADP	IN	_	11	case	_	_
 11	1995	1995	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	9	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	4	punct	_	_
+12	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 ~~~
 
@@ -75,17 +75,17 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 5	de	de	ADP	IN	_	6	case	_	Proper=True
 6	Hong	Hong	PROPN	NNP	Number=Sing	3	nmod	_	_
 7	Kong	Kong	PROPN	NNP	Number=Sing	6	flat:name	_	SpaceAfter=No
-8	,	,	PUNCT	,	_	3	punct	_	_
+8	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 9	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	10	nummod	_	_
 10	años	año	NOUN	NN	Gender=Masc|Number=Plur	12	obl:tmod	_	_
 11	más	más	ADV	RBR	Degree=Cmp	12	advmod	_	_
 12	tarde	tarde	ADV	RB	_	15	advmod	_	SpaceAfter=No
-13	,	,	PUNCT	,	_	12	punct	_	_
+13	,	,	PUNCT	,	PunctType=Comm	12	punct	_	_
 14	Jutting	Jutting	PROPN	NNP	Gender=Masc|Number=Sing	15	nsubj	_	_
 15	apareció	aparecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 16	mayormente	mayormente	ADV	RB	_	15	advmod	_	_
 17	compuesto	compuesto	ADJ	JJ	Gender=Masc|Number=Sing	15	xcomp	_	SpaceAfter=No
-18	.	.	PUNCT	.	_	15	punct	_	_
+18	.	.	PUNCT	.	PunctType=Peri	15	punct	_	_
 
 ~~~
 

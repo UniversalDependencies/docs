@@ -30,7 +30,7 @@ The most frequent other feature values with which `ADP` and `Definite` co-occurr
   <tr><td><tt></tt></td><td><em>do</em></td><td><em>do</em></td></tr>
   <tr><td><tt><tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sga_dipsgg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>dom</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="sga_dipsgg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>dait</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sga_dipsgg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>dún</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sga_dipsgg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>dv́n</em></td><td></td></tr>
 </table>
 
 ### `DET`

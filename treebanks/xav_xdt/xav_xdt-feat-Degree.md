@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Dim` (3; 100% of non-empty `Degree`): <em>'Watébrémire, ba'õtõre, watsu'ure</em>
-* `EMPTY` (366): <em>marĩ, aibö, 'watébrémi, pi'õ, a'uwẽ, buru, wapté, ba'õtõ, bötö, Mare</em>
+* `EMPTY` (370): <em>marĩ, aibö, 'watébrémi, pi'õ, a'uwẽ, buru, wapté, ba'õtõ, bötö, Mare</em>
 
 ### `PART`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `PART` and `Degree` co-occurre
 `PART` tokens may have the following values of `Degree`:
 
 * `Dim` (3; 100% of non-empty `Degree`): <em>re, reb</em>
-* `EMPTY` (375): <em>te, dza'ra, ma, e, hã, wa, norĩ, õ, dza, norĩhã</em>
+* `EMPTY` (379): <em>te, dza'ra, ma, e, hã, wa, norĩ, õ, dza, norĩhã</em>
 

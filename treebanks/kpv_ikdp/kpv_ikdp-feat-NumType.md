@@ -39,7 +39,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (4; 100% of non-empty `NumType`): <em>мӧдэд, Коймедсэ, сизимед</em>
-* `EMPTY` (96): <em>ас, бур, второй, небыд, бия, выль, дзолясянь, дик, корейскей, кутшем</em>
+* `EMPTY` (94): <em>ас, бур, второй, небыд, бия, выль, дзолясянь, дик, корейскей, кутшем</em>
 
 ### `PRON`
 

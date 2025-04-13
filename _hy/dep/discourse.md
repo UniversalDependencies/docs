@@ -5,7 +5,9 @@ shortdef: 'discourse element'
 udver: '2'
 ---
 
-This is used for [interjections](INTJ) and other discourse [particles](PART) and elements, which are not clearly linked to the structure of the sentence, except in an expressive way. 
+This is used for [interjections](INTJ) and other discourse [particles](PART) and elements, which are not clearly linked to the structure of the sentence, except in an expressive way.
+
+These discourse elements are attached to the head of the most relevant nearby unit, often a clause.
 
 ~~~ sdparse
 Աստված ՜ իմ , դու վերադարձար ։ \n Oհ my God , you came-back !
@@ -41,4 +43,15 @@ discourse(ծիծաղելի, Այո)
 discourse(funny, ։))
 discourse(funny, Yes)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:08 CEST -->
+
+We also use `discourse` for list enumerators (e.g. 1., (ա) marking an item in a sequence). (Bullets, by contrast, are considered [punctuation](hy-pos/PUNCT) and attach as [punct]().)
+
+~~~ sdparse
+1/NUM . Վճռաբեկ բողոքը բավարարել մասնակիորեն : \n 1/NUM . Partially grant the cassation appeal .
+discourse(բավարարել, 1-1)
+punct(1-1, .-2)
+discourse(grant, 1-9)
+punct(1-9, .-10)
+~~~
+
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:50 CET -->

@@ -25,8 +25,8 @@ The following 41 pairs of parts of speech are connected with `appos`: <tt><a hre
 1	@user	@user	SYM	SYM	_	2	vocative	_	_
 2	Mario	mario	PROPN	SP	_	0	root	_	_
 3	Monti	Monti	PROPN	SP	_	2	flat:name	_	_
-4	super	super	X	SW	_	2	appos	_	_
-5	partes	partes	X	SW	_	4	flat:foreign	_	_
+4	super	super	X	SW	Foreign=Yes	2	appos	_	_
+5	partes	partes	X	SW	Foreign=Yes	4	flat:foreign	_	_
 6	=	=	PUNCT	FF	_	7	punct	_	_
 7	martirio	martirio	NOUN	S	Gender=Masc|Number=Sing	2	appos	_	_
 8	o	o	CCONJ	CC	_	10	cc	_	_

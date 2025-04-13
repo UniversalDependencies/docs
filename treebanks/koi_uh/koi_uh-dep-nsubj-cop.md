@@ -45,7 +45,7 @@ The following 9 pairs of parts of speech are connected with `nsubj:cop`: <tt><a 
 4	,	,	PUNCT	CLB	_	6	punct	_	GTtags=CLB
 5	пӧввезӧн	пӧв	NOUN	N	Case=Ins|Number=Plur	6	obl	_	GTtags=N,Pl,Ins
 6	дорӧм	дорны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	GTtags=N,Sem/Inanim,Sg,Nom
-7	ӧшына	ӧшын	NOUN	N	Derivation=ProprietiveMod|Number=Sing	3	conj	_	GTtags=N,Sg,Der,Der/ProprietiveMod,A|SpaceAfter=No
+7	ӧшына	ӧшын	NOUN	N	Case=Prp|Number=Sing	3	conj	_	GTtags=N,Sg,Der,Der/ProprietiveMod,A|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	9	punct	_	GTtags=CLB
 9	крышатӧм	крыша	NOUN	_	Case=Abe|Number=Sing|Variant=Nomin	3	conj	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB

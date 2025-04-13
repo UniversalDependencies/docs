@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_old-dep-expl.html">expl</a></tt>.
 There are also 2 other language-specific subtypes of `expl`: <tt><a href="it_old-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="it_old-dep-expl-pass.html">expl:pass</a></tt>.
 
-853 nodes (1%) are attached to their parents as `expl:pv`.
+1388 nodes (1%) are attached to their parents as `expl:pv`.
 
-712 instances of `expl:pv` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.10668229777257.
+1143 instances of `expl:pv` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.0864553314121.
 
-The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (848; 99% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `expl:pv`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1377; 99% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,16 +23,51 @@ The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 expl:pv	color:blue
-1	Poi	poi	ADV	b	_	3	advmod:tmod	_	Canto=26|Verso=148
-2	s'	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	Canto=26|Verso=148
-3	ascose	ascondere	VERB	vta+2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=26|Verso=148
-4	in	in	ADP	_	_	6	case	_	Canto=26|Comment=ne-l|Verso=148
-5	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Canto=26|Comment=ne-l|Verso=148
-6	foco	fuoco	NOUN	sm2ms	Gender=Masc|Number=Sing	3	obl:lmod	_	Canto=26|Verso=148
-7	che	che	PRON	pr	PronType=Rel	9	nsubj	_	Canto=26|Verso=148
-8	li	li	PRON	pp3mpyac	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	Canto=26|Verso=148
-9	affina	affinare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	Canto=26|SpaceAfter=No|Verso=148
+1	Allor	allora	ADV	b	_	3	advmod:tmod	_	Canto=1|Verso=136
+2	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	Canto=1|Verso=136
+3	mosse	muovere	VERB	vta+2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=1|SpaceAfter=No|Verso=136
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	e	e	CCONJ	cscc	_	8	cc	_	Canto=1|Verso=136
+6	io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Canto=1|Verso=136
+7	li	il	PRON	pp3syda	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	8	iobj	_	Canto=1|Verso=136
+8	tenni	tenere	VERB	vi2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	conj	_	Canto=1|Verso=136
+9	dietro	dietro	ADV	eiskml	_	8	advmod:lmod	_	Canto=1|SpaceAfter=No|Verso=136
 10	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 12 expl:pv	color:blue
+1	Basti	bastare	VERB	vi*1cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Canto=16|Verso=43
+2	d'	di	ADP	eps	_	5	case	_	Canto=16|Verso=43
+3	i	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	Canto=16|Verso=43
+4	miei	mio	DET	as1mp	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	Canto=16|Verso=43
+5	maggiori	maggiore	NOUN	sm3mp	Gender=Masc|Number=Plur	6	obl	_	Canto=16|Verso=43
+6	udire	udire	VERB	vta3fp	Tense=Pres|VerbForm=Inf|Voice=Act	1	csubj	_	_
+7	ne	ne	PRON	pp3xpt	Clitic=Yes|Person=3|PronType=Prs	6	obl	_	_
+8	questo	questo	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	6	obj	_	Canto=16|Verso=43|SpaceAfter=No
+9	:	:	PUNCT	_	_	24	punct	_	_
+10	chi	chi	PRON	pn	_	21	ccomp	_	Canto=16|Verso=44
+11	ei	egli	PRON	pp3mlsoi	Gender=Masc|Person=3|PronType=Prs	10	nsubj	_	Canto=16|Verso=44
+12	si	si	PRON	pf3yle	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	10	expl:pv	_	Canto=16|Verso=44
+13	fosser	essere	AUX	vi+4cip3	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	Canto=16|Verso=44
+14	e	e	CCONJ	cscc	_	16	cc	_	Canto=16|Verso=44
+15	onde	onde	ADV	b	_	16	advmod:lmod	_	Canto=16|Verso=44
+16	venner	venire	VERB	vi3irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	Canto=16|Verso=44
+17	quivi	quivi	ADV	b	_	16	advmod:lmod	_	Canto=16|Verso=44|SpaceAfter=No
+18	,	,	PUNCT	_	_	10	punct	_	_
+19	più	più	ADV	bc+	Degree=Cmp	24	advmod	_	Canto=16|Verso=45
+20	è	essere	AUX	vi*4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	Canto=16|Verso=45
+21	tacer	tacere	VERB	vi2fp	Tense=Pres|VerbForm=Inf	24	csubj	_	Canto=16|Verso=45
+22	che	che	SCONJ	cssp	_	23	mark	_	Canto=16|Verso=45
+23	ragionare	ragionare	VERB	vi1fp	Tense=Pres|VerbForm=Inf	24	advcl	_	Canto=16|Verso=45
+24	onesto	onesto	ADJ	a1msc+xz1	Degree=Cmp|Gender=Masc|Number=Sing	1	parataxis	_	Canto=16|Verso=45|SpaceAfter=No
+25	.	.	PUNCT	_	_	24	punct	_	_
 
 ~~~
 
@@ -68,44 +103,6 @@ The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 23	qui	qui	ADV	b	_	24	advmod:lmod	_	Canto=8|Verso=48
 24	furiosa	furioso	ADJ	a1fs	Gender=Fem|Number=Sing	11	parataxis	_	Canto=8|SpaceAfter=No|Verso=48
 25	.	.	PUNCT	_	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 14 expl:pv	color:blue
-1	piange	piangere	VERB	vtp2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Canto=26|Verso=61
-2	vi	vi	ADV	bx	Clitic=Yes	1	advmod:lmod	_	Canto=26|Verso=61
-3	si	si	PRON	pf3xpa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	1	expl:impers	_	Canto=26|Verso=61
-4	entro	entro	ADV	b	_	1	advmod:lmod	_	Canto=26|Verso=61
-5	l'	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Canto=26|SpaceAfter=No|Verso=61
-6	arte	arte	NOUN	sf3fs	Gender=Fem|Number=Sing	1	obj	_	Canto=26|Verso=61
-7	per	per	ADP	epskr	_	8	case	_	Canto=26|Verso=61
-8	che	che	PRON	pr	PronType=Rel	15	obl	_	Canto=26|SpaceAfter=No|Verso=61
-9	,	,	PUNCT	_	_	8	punct	_	_
-10	morta	morire	VERB	vi3pr	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	12	acl	_	Canto=26|SpaceAfter=No|Verso=61
-11	,	,	PUNCT	_	_	10	punct	_	_
-12	Deidamìa	Deidamia	PROPN	np	_	15	nsubj	_	Canto=26|Verso=62
-13	ancor	ancora	ADV	b	_	15	advmod:tmod	_	Canto=26|Verso=62
-14	si	si	PRON	pf3yle	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	15	expl:pv	_	Canto=26|Verso=62
-15	duol	duolo	NOUN	sm2ms	Gender=Masc|Number=Sing	6	acl:relcl	_	Canto=26|Verso=62
-16	d'	di	ADP	eps	_	17	case	_	Canto=26|SpaceAfter=No|Verso=62
-17	Achille	Achille	PROPN	np	_	15	obl	_	Canto=26|SpaceAfter=No|Verso=62
-18	,	,	PUNCT	_	_	26	punct	_	_
-19	e	e	CCONJ	cscc	_	26	cc	_	Canto=26|Verso=63
-20	di	di	ADP	_	_	22	case	_	Canto=26|Comment=de-l|Verso=63
-21	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	Canto=26|Comment=de-l|Verso=63
-22	Palladio	Palladio	PROPN	np	_	23	nmod	_	Canto=26|Verso=63
-23	pena	pena	NOUN	sf1fs	Gender=Fem|Number=Sing	26	obj	_	Canto=26|Verso=63
-24	vi	vi	ADV	by	Clitic=Yes	26	advmod:lmod	_	Canto=26|Verso=63
-25	si	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	26	expl:impers	_	Canto=26|Verso=63
-26	porta	portare	VERB	vtp1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	conj	_	Canto=26|SpaceAfter=No|Verso=63
-27	»	»	PUNCT	_	_	1	punct	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

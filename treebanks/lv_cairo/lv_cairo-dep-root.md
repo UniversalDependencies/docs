@@ -42,8 +42,8 @@ The following 4 pairs of parts of speech are connected with `root`: -<tt><a href
 2	tētis	tētis	NOUN	ncmsn2	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	LvtbNodeId=a-c70-Cairo-p8s1w2
 3	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	LvtbNodeId=a-c70-Cairo-p8s1w3
 4	foršāks	foršs	ADJ	afmsnnc	Case=Nom|Definite=Ind|Degree=Cmp|Gender=Masc|Number=Sing	0	root	0:root	LvtbNodeId=a-c70-Cairo-p8s1w4
-5	nekā	nekā	SCONJ	cs	_	6	case	6:case	LvtbNodeId=a-c70-Cairo-p8s1w5
-6	tavējais	tavējs	ADJ	armsnyp	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	4	obl	4:obl:nekā	LvtbNodeId=a-c70-Cairo-p8s1w6|SpaceAfter=No
+5	nekā	nekā	SCONJ	cs	_	6	mark	6:mark	LvtbNodeId=a-c70-Cairo-p8s1w5
+6	tavējais	tavējs	DET	armsnyp	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	4	advcl	4:advcl:nekā	LvtbNodeId=a-c70-Cairo-p8s1w6|SpaceAfter=No
 7	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-c70-Cairo-p8s1w7
 
 ~~~

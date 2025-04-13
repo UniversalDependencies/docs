@@ -49,7 +49,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 3	вӧліс	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	GTtags=Ind,Prt1,Sg3
 4	зэй	зэв	ADV	Adv	_	5	advmod:deg	_	GTtags=Err/Dial
 5	бур	бур	ADJ	A	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom
-6	велэдысьыс	велӧдны	NOUN	N	Case=Nom|Derivation=NomAg|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	GTtags=Err/Dial,Der,Der/ысь,Der/NomAg,N,Sg,Nom|PxSg3|SpaceAfter=No
+6	велэдысьыс	велӧдны	NOUN	N	Case=Nom|Nomzr=Ag|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	GTtags=Err/Dial,Der,Der/ысь,Der/NomAg,N,Sg,Nom|PxSg3|SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	11	punct	_	_
 8	но	но	CCONJ	CC	_	11	cc	_	SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	11	punct	_	_

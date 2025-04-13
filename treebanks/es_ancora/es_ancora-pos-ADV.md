@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>no</em> (<tt><a href="es_ancora-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.021164 (the average of all parts of speech is 1.505790).
+The form / lemma ratio of `ADV` is 1.021164 (the average of all parts of speech is 1.505808).
 
 The 1st highest number of forms (2) was observed with the lemma “abiertamente”: <em>abierta, abiertamente</em>.
 
@@ -63,12 +63,12 @@ The 2nd highest number of forms (2) was observed with the lemma “estrictamente
 
 The 3rd highest number of forms (2) was observed with the lemma “físicamente”: <em>física, físicamente</em>.
 
-`ADV` occurs with 4 features: <tt><a href="es_ancora-feat-Polarity.html">Polarity</a></tt> (3611; 20% instances), <tt><a href="es_ancora-feat-Degree.html">Degree</a></tt> (2104; 11% instances), <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt> (565; 3% instances), <tt><a href="es_ancora-feat-AdvType.html">AdvType</a></tt> (2; 0% instances)
+`ADV` occurs with 3 features: <tt><a href="es_ancora-feat-Polarity.html">Polarity</a></tt> (3611; 20% instances), <tt><a href="es_ancora-feat-Degree.html">Degree</a></tt> (2104; 11% instances), <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt> (565; 3% instances)
 
-`ADV` occurs with 5 feature-value pairs: `AdvType=Tim`, `Degree=Cmp`, `Polarity=Neg`, `PronType=Int`, `PronType=Rel`
+`ADV` occurs with 4 feature-value pairs: `Degree=Cmp`, `Polarity=Neg`, `PronType=Int`, `PronType=Rel`
 
-`ADV` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (12069 tokens).
+`ADV` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (12071 tokens).
 Examples: <em>también, ya, hoy, ayer, muy, sólo, después, ahora, además, así</em>
 
 

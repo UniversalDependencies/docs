@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (103; 17% of non-empty `Person`): <em>saya, kami, kita, Aku, ku</em>
 * `2` (16; 3% of non-empty `Person`): <em>Anda, kalian, kamu</em>
 * `3` (501; 81% of non-empty `Person`): <em>nya, ia, mereka, dia</em>
-* `EMPTY` (709): <em>yang, itu, ini, mana, apa, diri, sana, siapa, seseorang, begitu</em>
+* `EMPTY` (710): <em>yang, itu, ini, mana, apa, diri, sana, siapa, seseorang, begitu</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (12) occur only with one value of `Person`.
 

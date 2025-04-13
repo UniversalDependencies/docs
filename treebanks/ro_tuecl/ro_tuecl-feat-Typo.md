@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADP` and `Typo` co-occurred: 
 
 35 <tt><a href="ro_tuecl-pos-ADJ.html">ADJ</a></tt> tokens (15% of all `ADJ` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="ro_tuecl-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (32; 91%), <tt><a href="ro_tuecl-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (30; 86%), <tt><a href="ro_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (30; 86%), <tt><a href="ro_tuecl-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (28; 80%), <tt><a href="ro_tuecl-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (24; 69%).
+The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="ro_tuecl-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (32; 91%), <tt><a href="ro_tuecl-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (30; 86%), <tt><a href="ro_tuecl-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (27; 77%), <tt><a href="ro_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27; 77%), <tt><a href="ro_tuecl-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (24; 69%).
 
 `ADJ` tokens may have the following values of `Typo`:
 

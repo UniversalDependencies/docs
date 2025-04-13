@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-5384 tokens (28%) have a non-empty value of `Number`.
+5385 tokens (28%) have a non-empty value of `Number`.
 1981 types (42%) occur at least once with a non-empty value of `Number`.
 1533 lemmas (42%) occur at least once with a non-empty value of `Number`.
-The feature is used with 3 part-of-speech tags: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (4655; 24% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (620; 3% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt> (109; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (4656; 24% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (620; 3% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt> (109; 1% instances).
 
 ### `NOUN`
 
-4655 <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
+4656 <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (143; 3% of non-empty `Number`): <em>orang-orang, negara-negara, anak-anak, batas-batas, 1970-an, bagian-bagian, batu-batu, bertahun-tahun, bulan-bulan, kota-kota</em>
-* `Sing` (4512; 97% of non-empty `Number`): <em>tahun, orang, bulan, bagian, hari, negara, kota, laut, hal, perang</em>
+* `Sing` (4513; 97% of non-empty `Number`): <em>tahun, orang, bulan, bagian, hari, negara, kota, laut, hal, perang</em>
 * `EMPTY` (32): <em>SM, mercu, AIDS, ATM, BC, DFB, GIF, HFC, Kontituensi, MLA</em>
 
 <table>
@@ -41,7 +41,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (139; 22% of non-empty `Number`): <em>mereka, kami, kita, kalian</em>
 * `Sing` (481; 78% of non-empty `Number`): <em>nya, ia, saya, dia, Anda, Aku, ku, kamu</em>
-* `EMPTY` (709): <em>yang, itu, ini, mana, apa, diri, sana, siapa, seseorang, begitu</em>
+* `EMPTY` (710): <em>yang, itu, ini, mana, apa, diri, sana, siapa, seseorang, begitu</em>
 
 `Number` seems to be **lexical feature** of `PRON`. 100% lemmas (12) occur only with one value of `Number`.
 
@@ -54,12 +54,12 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (109; 100% of non-empty `Number`): <em>para, banyak, beberapa, berbagai, serangkaian, sepasang</em>
-* `EMPTY` (632): <em>ini, itu, nya, sebuah, tersebut, seorang, semua, sendiri, seluruh, setiap</em>
+* `EMPTY` (630): <em>ini, itu, nya, sebuah, tersebut, seorang, semua, sendiri, seluruh, setiap</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="id_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1282; 94%),
+<tt>NOUN --[<tt><a href="id_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1283; 94%),
 <tt>NOUN --[<tt><a href="id_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (219; 95%),
 <tt>NOUN --[<tt><a href="id_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (198; 77%),
 <tt>NOUN --[<tt><a href="id_pud-dep-nmod-tmod.html">nmod:tmod</a></tt>]--> NOUN</tt> (77; 96%),

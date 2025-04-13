@@ -12,7 +12,7 @@ It occurs with 2 different values: `Fem`, `Masc`.
 1750 tokens (12%) have a non-empty value of `Gender`.
 80 types (5%) occur at least once with a non-empty value of `Gender`.
 40 lemmas (3%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (1047; 7% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (634; 4% instances), <tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt> (60; 0% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="ha_southernautogramm-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (1047; 7% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (634; 4% instances), <tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt> (60; 0% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="ha_southernautogramm-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `AUX`
 
@@ -61,12 +61,14 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `NOUN`
 
-6 <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Gender`.
+7 <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ha_southernautogramm-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4; 57%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (5; 83% of non-empty `Gender`): <em>dòːdannìyaː, mangàr̃àɗ, marigâyyaː, ƴar̃</em>
-* `Masc` (1; 17% of non-empty `Gender`): <em>mahàifin</em>
+* `Fem` (6; 86% of non-empty `Gender`): <em>dòːdannìyaː, mangàr̃àɗ, marigâyyaː, ƙoːfàr̃, ƴar̃</em>
+* `Masc` (1; 14% of non-empty `Gender`): <em>mahàifin</em>
 * `EMPTY` (1806): <em>àbin, àbîn, loːkàcîn, mài, gidan, gidaː, zaːmàniː, irìn, àbù, ruwaː</em>
 
 ### `ADJ`
@@ -91,17 +93,6 @@ The most frequent other feature values with which `PART` and `Gender` co-occurre
 * `Fem` (1; 100% of non-empty `Gender`): <em>cèː</em>
 * `EMPTY` (1175): <em>nèː, ba, na, kuma, maː, dai, gàː, kèːnan, àkwai, bàː</em>
 
-### `VERB`
-
-1 <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="ha_southernautogramm-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ha_southernautogramm-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`VERB` tokens may have the following values of `Gender`:
-
-* `Fem` (1; 100% of non-empty `Gender`): <em>ƙoːfàr̃</em>
-* `EMPTY` (2043): <em>yi, cêː, jeː, ci, zoː, ga, sâː, baː, san, ganiː</em>
-
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
@@ -109,6 +100,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>PRON --[<tt><a href="ha_southernautogramm-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (4; 80%),
 <tt>AUX --[<tt><a href="ha_southernautogramm-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (3; 75%),
 <tt>PRON --[<tt><a href="ha_southernautogramm-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (2; 67%),
+<tt>AUX --[<tt><a href="ha_southernautogramm-dep-obl.html">obl</a></tt>]--> PRON</tt> (1; 100%),
 <tt>AUX --[<tt><a href="ha_southernautogramm-dep-vocative.html">vocative</a></tt>]--> PRON</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="ha_southernautogramm-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>PRON --[<tt><a href="ha_southernautogramm-dep-det.html">det</a></tt>]--> DET</tt> (1; 100%),

@@ -13,4 +13,4 @@ tak / ʔeːgirim // ʔajaːj tak -i iː- fi =t amsi iraːnaj rh -i / oː= kina /
 text_en: "There was an old man of my family and, gosh! I even saw him today.
 case:aff(tak, -i) ("man", genitive `PART`)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:49 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:31 CET -->

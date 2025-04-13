@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (3%) are attached to their parents as `advcl`.
+18 nodes (3%) are attached to their parents as `advcl`.
 
-16 instances of `advcl` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.64705882352941.
+17 instances of `advcl` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.61111111111111.
 
-The following 6 pairs of parts of speech are connected with `advcl`: <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt> (11; 65% instances), <tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt> (2; 12% instances), <tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-AUX.html">AUX</a></tt> (1; 6% instances), <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+The following 6 pairs of parts of speech are connected with `advcl`: <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt> (12; 67% instances), <tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt> (2; 11% instances), <tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-AUX.html">AUX</a></tt> (1; 6% instances), <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
 
 
 ~~~ conllu

@@ -10,10 +10,10 @@ This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 Some words have combined values of the feature; 1 combinations have been observed: `Masc|Neut`.
 
-35 tokens (8%) have a non-empty value of `Gender`.
-24 types (10%) occur at least once with a non-empty value of `Gender`.
-21 lemmas (12%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (16; 4% instances), <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> (9; 2% instances), <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+37 tokens (8%) have a non-empty value of `Gender`.
+26 types (11%) occur at least once with a non-empty value of `Gender`.
+24 lemmas (14%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 4 part-of-speech tags: <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (16; 4% instances), <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (11; 3% instances), <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> (9; 2% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
@@ -28,6 +28,19 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 * `EMPTY` (7): <em>domunde, dían, frecṅdircc, il, lia, loingthech, maith</em>
 
 `Gender` seems to be **lexical feature** of `ADJ`. 100% lemmas (15) occur only with one value of `Gender`.
+
+### `PRON`
+
+11 <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> tokens (16% of all `PRON` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="sga_dipwbg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 100%), <tt><a href="sga_dipwbg-feat-Person.html">Person</a></tt><tt>=3</tt> (10; 91%), <tt><a href="sga_dipwbg-feat-PronClass.html">PronClass</a></tt><tt>=EMPTY</tt> (9; 82%), <tt><a href="sga_dipwbg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9; 82%), <tt><a href="sga_dipwbg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (8; 73%).
+
+`PRON` tokens may have the following values of `Gender`:
+
+* `Masc` (3; 27% of non-empty `Gender`): <em>hé, d</em>
+* `Masc,Neut` (4; 36% of non-empty `Gender`): <em>a, som</em>
+* `Neut` (4; 36% of non-empty `Gender`): <em>hed, a, són</em>
+* `EMPTY` (57): <em>sa, si, mo, for, m, ar, se, t, cách, far</em>
 
 ### `DET`
 
@@ -47,25 +60,6 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
   <tr><td><tt><tt><a href="sga_dipwbg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sga_dipwbg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ind</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sga_dipwbg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sga_dipwbg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>inna</em></td></tr>
   <tr><td><tt><tt><a href="sga_dipwbg-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sga_dipwbg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>in</em></td><td></td></tr>
-</table>
-
-### `PRON`
-
-9 <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> tokens (13% of all `PRON` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="sga_dipwbg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 100%), <tt><a href="sga_dipwbg-feat-Person.html">Person</a></tt><tt>=3</tt> (9; 100%), <tt><a href="sga_dipwbg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9; 100%), <tt><a href="sga_dipwbg-feat-PronClass.html">PronClass</a></tt><tt>=EMPTY</tt> (7; 78%), <tt><a href="sga_dipwbg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6; 67%).
-
-`PRON` tokens may have the following values of `Gender`:
-
-* `Masc` (3; 33% of non-empty `Gender`): <em>hé, d</em>
-* `Masc,Neut` (3; 33% of non-empty `Gender`): <em>a</em>
-* `Neut` (3; 33% of non-empty `Gender`): <em>hed, a</em>
-* `EMPTY` (59): <em>sa, si, mo, for, m, ar, se, t, cách, far</em>
-
-<table>
-  <tr><th>Paradigm <i>a</i></th><th><tt>Masc,Neut</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="sga_dipwbg-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>a</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sga_dipwbg-feat-PronClass.html">PronClass</a></tt><tt>=A</tt></tt></td><td></td><td><em>a</em></td></tr>
 </table>
 
 ### `ADP`

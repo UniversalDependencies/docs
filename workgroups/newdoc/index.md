@@ -41,6 +41,7 @@ udver: '2'
   * Open complements (and secondary predication)
   * Direct speech, indirect/reported speech, indirect questions
 * More about noun phrases
+  * [Children of determiners](children_of_determiners.html)
   * Possession
   * Compounds (here nominal and perhaps adjectival and numeral, but with a cross-link to verbal, i.e. light/serial verbs, and phrasal verbs)
   * Flat constituents

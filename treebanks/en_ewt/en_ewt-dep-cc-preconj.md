@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="en_ewt-dep-cc.html"
 98 nodes (0%) are attached to their parents as `cc:preconj`.
 
 98 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.12244897959184.
+Average distance between parent and child is 2.11224489795918.
 
-The following 7 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (38; 39% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (27; 28% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (15; 15% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (10; 10% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (5; 5% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (38; 39% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (27; 28% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (16; 16% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (9; 9% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (5; 5% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,8 +22,8 @@ The following 7 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 cc:preconj	color:blue
-1	Al	Al	PROPN	NNP	Number=Sing	2	compound	2:compound	_
-2	Qaeda	Qaeda	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
+1	Al	Al	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
+2	Qaeda	Qaeda	PROPN	NNP	Number=Sing	1	flat	1:flat	_
 3	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	both	both	CCONJ	CC	_	6	cc:preconj	6:cc:preconj	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_

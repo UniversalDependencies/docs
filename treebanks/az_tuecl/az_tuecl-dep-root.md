@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-108 nodes (16%) are attached to their parents as `root`.
+109 nodes (16%) are attached to their parents as `root`.
 
-108 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.94444444444444.
+109 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.96330275229358.
 
-The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt> (76; 70% instances), -<tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> (17; 16% instances), -<tt><a href="az_tuecl-pos-ADJ.html">ADJ</a></tt> (13; 12% instances), -<tt><a href="az_tuecl-pos-DET.html">DET</a></tt> (1; 1% instances), -<tt><a href="az_tuecl-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt> (78; 72% instances), -<tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> (17; 16% instances), -<tt><a href="az_tuecl-pos-ADJ.html">ADJ</a></tt> (12; 11% instances), -<tt><a href="az_tuecl-pos-DET.html">DET</a></tt> (1; 1% instances), -<tt><a href="az_tuecl-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

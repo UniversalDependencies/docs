@@ -23,11 +23,11 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 1 punct	color:blue
 1	(4)	(4)	PUNCT	Z:-------------	_	3	punct	3:punct	_
-2	Rezervy	rezerva	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	3	nsubj	3:nsubj|4:nsubj:xsubj	_
+2	Rezervy	rezerva	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	3:nsubj|4:nsubj:xsubj	_
 3	nesmějí	smět	VERB	VB-P---3P-NA---	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	mít	mít	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	3	xcomp	3:xcomp	_
 5	aktivní	aktivní	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	amod	6:amod	_
-6	zůstatek	zůstatek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	4	obj	4:obj	SpaceAfter=No
+6	zůstatek	zůstatek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	4:obj	SpaceAfter=No
 7	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 
 ~~~
@@ -40,12 +40,12 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 7	fgColor:white
 # visual-style 7 6 punct	color:blue
 1	OBSAHOVÉ	obsahový	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	2	amod	2:amod	_
-2	VYMEZENÍ	vymezení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	0	root	0:root	_
+2	VYMEZENÍ	vymezení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	_
 3	NĚKTERÝCH	některý	DET	PZXP2----------	Case=Gen|Number=Plur|PronType=Ind	4	det	4:det	_
-4	POLOŽEK	položka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	2	nmod	2:nmod:gen	_
-5	ROZVAHY	rozvaha	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	4	nmod	4:nmod:gen	_
+4	POLOŽEK	položka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur	2	nmod	2:nmod:gen	_
+5	ROZVAHY	rozvaha	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	4	nmod	4:nmod:gen	_
 6	(	(	PUNCT	Z:-------------	_	7	punct	7:punct	SpaceAfter=No
-7	BILANCE	bilance	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	5	appos	5:appos	SpaceAfter=No
+7	BILANCE	bilance	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	5	appos	5:appos	SpaceAfter=No
 8	)	)	PUNCT	Z:-------------	_	7	punct	7:punct	_
 
 ~~~
@@ -58,10 +58,10 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 7	fgColor:white
 # visual-style 7 6 punct	color:blue
 1	Výpočtové	výpočtový	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	2	amod	2:amod	_
-2	položky	položka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	4	nsubj:pass	4:nsubj:pass	_
+2	položky	položka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	4	nsubj:pass	4:nsubj:pass	_
 3	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	4	expl:pass	4:expl:pass	_
 4	označují	označovat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-5	znaménky	znaménko	NOUN	NNNP7-----A----	Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos	4	obl	4:obl:ins	_
+5	znaménky	znaménko	NOUN	NNNP7-----A----	Case=Ins|Gender=Neut|Number=Plur	4	obl	4:obl:ins	_
 6	„	"	PUNCT	Z:-------------	_	7	punct	7:punct	SpaceAfter=No
 7	+	+	X	X@-------------	_	5	nmod	5:nmod	SpaceAfter=No|LGloss=(from_multi_word_term)
 8	“	"	PUNCT	Z:-------------	_	7	punct	7:punct	_

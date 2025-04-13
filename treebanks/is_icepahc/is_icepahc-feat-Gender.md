@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-374516 tokens (38%) have a non-empty value of `Gender`.
-56191 types (86%) occur at least once with a non-empty value of `Gender`.
-29874 lemmas (85%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 16 part-of-speech tags: <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (142916; 15% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (90318; 9% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (43064; 4% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (37907; 4% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (35276; 4% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (16229; 2% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (4012; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (2726; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (964; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (523; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (228; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (184; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (114; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (23; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (22; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (10; 0% instances).
+374145 tokens (38%) have a non-empty value of `Gender`.
+56012 types (85%) occur at least once with a non-empty value of `Gender`.
+29683 lemmas (84%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 16 part-of-speech tags: <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (142915; 15% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (90318; 9% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (43064; 4% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (37907; 4% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (35276; 4% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (16229; 2% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (4012; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (2726; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (964; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (228; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (184; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (153; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (114; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (23; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (22; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (10; 0% instances).
 
 ### `NOUN`
 
-142916 <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Gender`.
+142915 <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (113637; 80%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (105804; 74%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (113636; 80%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (105804; 74%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (40042; 28% of non-empty `Gender`): <em>leið, hendur, dóttur, hendi, nótt, stund, von, höndum, kona, konu</em>
-* `Masc` (60649; 42% of non-empty `Gender`): <em>menn, maður, konungur, manna, biskup, mönnum, dag, tíma, mann, stað</em>
+* `Masc` (60648; 42% of non-empty `Gender`): <em>menn, maður, konungur, manna, biskup, mönnum, dag, tíma, mann, stað</em>
 * `Neut` (42225; 30% of non-empty `Gender`): <em>orð, móti, ráð, hjarta, landi, mál, ríki, skip, líf, nafni</em>
 * `EMPTY` (2966): <em>stundum, móti, mót, megin, sökum, kap., heima, sakir, enda, son</em>
 
@@ -50,7 +50,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Mannanna</em></td><td></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 93% lemmas (16592) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 93% lemmas (16582) occur only with one value of `Gender`.
 
 ### `PRON`
 
@@ -148,7 +148,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 * `Fem` (5418; 14% of non-empty `Gender`): <em>Maríu, Gróa, Sigríður, María, Órækja, Jerúsalem, Gróu, Ragnhildur, bylgja, Sigríði</em>
 * `Masc` (29613; 78% of non-empty `Gender`): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
 * `Neut` (2876; 8% of non-empty `Gender`): <em>Íslandi, Íslands, Skálholti, helvíti, alþingi, Barði, Kaupinhafn, helvítis, Skálholt, Englandi</em>
-* `EMPTY` (3480): <em>Metternich, Erasmus, Darius, Georgíus, Pelissier, Dominus, Moyses, Menon, Þú, Petrus</em>
+* `EMPTY` (3477): <em>Metternich, Erasmus, Darius, Georgíus, Pelissier, Dominus, Moyses, Menon, Þú, Petrus</em>
 
 <table>
   <tr><th>Paradigm <i>guð</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -163,7 +163,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Guðs</em></td><td></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 90% lemmas (4088) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 90% lemmas (4086) occur only with one value of `Gender`.
 
 ### `ADJ`
 
@@ -176,7 +176,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 * `Fem` (7959; 23% of non-empty `Gender`): <em>sömu, fyrstu, góða, góð, hægri, góðar, vinstri, eigin, heilagri, heilagrar</em>
 * `Masc` (16558; 47% of non-empty `Gender`): <em>góður, sama, gamall, sæla, dauður, góðan, sami, góðum, góðir, góða</em>
 * `Neut` (10759; 30% of non-empty `Gender`): <em>gott, sama, satt, betra, illt, góðu, nóg, sönnu, fyrsta, vísu</em>
-* `EMPTY` (1883): <em>nær, 1., langt, víst, lengi, kongl., skammt, verður, illa, lengra</em>
+* `EMPTY` (1882): <em>nær, 1., langt, víst, lengi, kongl., skammt, verður, illa, lengra</em>
 
 <table>
   <tr><th>Paradigm <i>góður</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -359,25 +359,6 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>værir</em></td><td></td><td></td></tr>
 </table>
 
-### `X`
-
-523 <tt><a href="is_icepahc-pos-X.html">X</a></tt> tokens (23% of all `X` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="is_icepahc-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (523; 100%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (489; 93%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (401; 77%).
-
-`X` tokens may have the following values of `Gender`:
-
-* `Fem` (88; 17% of non-empty `Gender`): <em>trinitatis, Exordium, Item, Jerúsalem, Martilla, Miraculum, Sicut, brevíaríum, sanctorum, Abba</em>
-* `Masc` (277; 53% of non-empty `Gender`): <em>Ektor, Trankival, sankti, Darii, Alexandrum, domini, Assyria, Vidfraktus, sanktus, Alexandri</em>
-* `Neut` (158; 30% of non-empty `Gender`): <em>Trankival, domini, Majst, Vernakíus, Holofernis, kalendas, Kapitulum, evangelium, nostri, privilegium</em>
-* `EMPTY` (1749): <em>anno, item, in, domini, et, Dominus, Majst, etc, sankti, de</em>
-
-<table>
-  <tr><th>Paradigm <i>vernakíus</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td></td><td><em>Vernakíus</em></td></tr>
-  <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Vernakíus</em></td><td><em>Vernakíus</em></td><td><em>Vernakíus</em></td></tr>
-</table>
-
 ### `ADP`
 
 228 <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Gender`.
@@ -442,6 +423,28 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_icepahc-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td></td><td></td><td><em>hver</em></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_icepahc-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>hverjir</em></td><td><em>hverjar</em></td><td><em>hver</em></td></tr>
 </table>
+
+### `X`
+
+153 <tt><a href="is_icepahc-pos-X.html">X</a></tt> tokens (7% of all `X` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="is_icepahc-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (153; 100%).
+
+`X` tokens may have the following values of `Gender`:
+
+* `Fem` (28; 18% of non-empty `Gender`): <em>trinitatis, Exordium, Item, Martilla, Miraculum, Georgíum, Potú, Róma, Stadium, Trófímusar</em>
+* `Masc` (93; 61% of non-empty `Gender`): <em>sankti, sanktus, Taraskonum, delictum, peccatum, Bethaniam, Lazari, Magdalum, Maximíanus, Miraculum</em>
+* `Neut` (32; 21% of non-empty `Gender`): <em>rupata, Alexandri, Herkulem, Karatti, Pyssernis, advókat, compagniet, diplóma, evangelio, evangelium</em>
+* `EMPTY` (2124): <em>anno, item, in, domini, Dominus, et, Majst, Trankival, etc, sankti</em>
+
+<table>
+  <tr><th>Paradigm <i>item</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Item</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>Item</em></td></tr>
+  <tr><td><tt><tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Item</em></td></tr>
+</table>
+
+`Gender` seems to be **lexical feature** of `X`. 94% lemmas (103) occur only with one value of `Gender`.
 
 ### `CCONJ`
 
@@ -525,13 +528,13 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14457; 90%),
-<tt>NOUN --[<tt><a href="is_icepahc-dep-det.html">det</a></tt>]--> DET</tt> (13672; 93%),
+<tt>NOUN --[<tt><a href="is_icepahc-dep-det.html">det</a></tt>]--> DET</tt> (13675; 93%),
 <tt>NOUN --[<tt><a href="is_icepahc-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (13348; 72%),
 <tt>NOUN --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> DET</tt> (9672; 90%),
 <tt>PROPN --[<tt><a href="is_icepahc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (3109; 87%),
 <tt>PROPN --[<tt><a href="is_icepahc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (2792; 86%),
 <tt>ADJ --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1994; 85%),
-<tt>NOUN --[<tt><a href="is_icepahc-dep-det.html">det</a></tt>]--> PRON</tt> (1979; 94%),
+<tt>NOUN --[<tt><a href="is_icepahc-dep-det.html">det</a></tt>]--> PRON</tt> (1980; 94%),
 <tt>ADJ --[<tt><a href="is_icepahc-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1662; 63%),
 <tt>NOUN --[<tt><a href="is_icepahc-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (1631; 67%).
 

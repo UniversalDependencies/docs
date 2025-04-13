@@ -55,4 +55,4 @@ The `obj:lvc` relation is used for objects complements within light verb constru
 10	they _	_	_	_	0	_	_	_
 11	make _	_	_	_	0	_	_	_
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:33 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:14 CET -->

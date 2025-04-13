@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>la</em> (<tt><a href="it_pud-pos-DET.
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.477273 (the average of all parts of speech is 1.285799).
+The form / lemma ratio of `DET` is 1.477273 (the average of all parts of speech is 1.285855).
 
 The 1st highest number of forms (7) was observed with the lemma “il”: <em>gli, i, il, l', la, le, lo</em>.
 
@@ -75,7 +75,7 @@ Examples: <em>il, un, l', lo, questo, ciò, ogni, uno, quel, quest'</em>
 
 `DET` nodes are attached to their parents using 12 different relations: <tt><a href="it_pud-dep-det.html">det</a></tt> (3750; 99% instances), <tt><a href="it_pud-dep-nsubj.html">nsubj</a></tt> (12; 0% instances), <tt><a href="it_pud-dep-obl.html">obl</a></tt> (8; 0% instances), <tt><a href="it_pud-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="it_pud-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="it_pud-dep-det-poss.html">det:poss</a></tt> (2; 0% instances), <tt><a href="it_pud-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="it_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="it_pud-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="it_pud-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="it_pud-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="it_pud-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> (3034; 80% instances), <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt> (519; 14% instances), <tt><a href="it_pud-pos-NUM.html">NUM</a></tt> (145; 4% instances), <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (27; 1% instances), <tt><a href="it_pud-pos-SYM.html">SYM</a></tt> (22; 1% instances), <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> (18; 0% instances), <tt><a href="it_pud-pos-ADJ.html">ADJ</a></tt> (10; 0% instances),  (3; 0% instances), <tt><a href="it_pud-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances)
+Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> (3034; 80% instances), <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt> (519; 14% instances), <tt><a href="it_pud-pos-NUM.html">NUM</a></tt> (145; 4% instances), <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (26; 1% instances), <tt><a href="it_pud-pos-SYM.html">SYM</a></tt> (22; 1% instances), <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> (18; 0% instances), <tt><a href="it_pud-pos-ADJ.html">ADJ</a></tt> (11; 0% instances),  (3; 0% instances), <tt><a href="it_pud-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances)
 
 3765 (99%) `DET` nodes are leaves.
 

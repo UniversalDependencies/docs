@@ -11,8 +11,8 @@ It occurs with 2 different values: `Plur`, `Sing`.
 Some words have combined values of the feature; 1 combinations have been observed: `Plur|Sing`.
 
 5650 tokens (55%) have a non-empty value of `Number`.
-2408 types (86%) occur at least once with a non-empty value of `Number`.
-1393 lemmas (77%) occur at least once with a non-empty value of `Number`.
+2409 types (86%) occur at least once with a non-empty value of `Number`.
+1395 lemmas (77%) occur at least once with a non-empty value of `Number`.
 The feature is used with 8 part-of-speech tags: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (2621; 26% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (903; 9% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (863; 8% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (440; 4% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (412; 4% instances), <tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (200; 2% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (109; 1% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (102; 1% instances).
 
 ### `NOUN`

@@ -9,26 +9,26 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Post`, `Prep`.
 
-1386 tokens (6%) have a non-empty value of `AdpType`.
-90 types (2%) occur at least once with a non-empty value of `AdpType`.
-49 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (1386; 6% instances).
+1387 tokens (6%) have a non-empty value of `AdpType`.
+89 types (2%) occur at least once with a non-empty value of `AdpType`.
+39 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (1387; 6% instances).
 
 ### `ADP`
 
-1386 <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> tokens (81% of all `ADP` tokens) have a non-empty value of `AdpType`.
+1387 <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> tokens (81% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
 `ADP` tokens may have the following values of `AdpType`:
 
 * `Post` (3; 0% of non-empty `AdpType`): <em>to, an</em>
-* `Prep` (1383; 100% of non-empty `AdpType`): <em>in, van, up, mid, an, vöär, to, by, nå, med</em>
+* `Prep` (1384; 100% of non-empty `AdpType`): <em>in, van, up, mid, an, vöär, to, by, nå, med</em>
 
 <table>
   <tr><th>Paradigm <i>an</i></th><th><tt>Post</tt></th><th><tt>Prep</tt></th></tr>
   <tr><td><tt></tt></td><td><em>an</em></td><td><em>an</em></td></tr>
 </table>
 
-`AdpType` seems to be **lexical feature** of `ADP`. 96% lemmas (47) occur only with one value of `AdpType`.
+`AdpType` seems to be **lexical feature** of `ADP`. 95% lemmas (37) occur only with one value of `AdpType`.
 
 ## Relations with Agreement in `AdpType`
 

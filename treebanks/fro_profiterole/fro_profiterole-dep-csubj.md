@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-262 nodes (0%) are attached to their parents as `csubj`.
+265 nodes (0%) are attached to their parents as `csubj`.
 
-185 instances of `csubj` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.98473282442748.
+186 instances of `csubj` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.96603773584906.
 
-The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (153; 58% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (47; 18% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (37; 14% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (18; 7% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (155; 58% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (47; 18% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (37; 14% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (18; 7% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

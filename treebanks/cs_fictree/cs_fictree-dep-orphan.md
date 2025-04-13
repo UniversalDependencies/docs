@@ -23,16 +23,16 @@ The following 60 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 9	fgColor:white
 # visual-style 9 11 orphan	color:blue
 1	Na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	2	case	2:case	_
-2	ulici	ulice	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	4	obl	4:obl:na:loc	_
+2	ulici	ulice	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing	4	obl	4:obl:na:loc	_
 3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	4	expl:pv	4:expl:pv	_
 4	usmíval	usmívat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 5	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	6:case	_
-6	lidi	člověk	NOUN	NNMP4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	4	obl:arg	4:obl:arg:na:acc	SpaceAfter=No
+6	lidi	člověk	NOUN	NNMP4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	4	obl:arg	4:obl:arg:na:acc	SpaceAfter=No
 7	,	,	PUNCT	Z:-------------	_	9	punct	9.1:punct	_
 8	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	9	case	9:case	_
-9	restauraci	restaurace	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	4	conj	9.1:dep	_
+9	restauraci	restaurace	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing	4	conj	9.1:dep	_
 10	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	11	case	11:case	_
-11	číšníka	číšník	NOUN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	9	orphan	9.1:dep	SpaceAfter=No
+11	číšníka	číšník	NOUN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	9	orphan	9.1:dep	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
 ~~~
@@ -45,15 +45,15 @@ The following 60 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 8	fgColor:white
 # visual-style 8 10 orphan	color:blue
 1	Předtím	předtím	ADV	Db-------------	_	3	advmod	3:advmod	_
-2	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	3:aux	_
+2	jsem	být	AUX	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	3:aux	_
 3	pil	pít	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 4	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	6:case	_
 5	svou	svůj	DET	P8FS4---------1	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	6:det	_
-6	smrt	smrt	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obl	3:obl:na:acc	SpaceAfter=No
+6	smrt	smrt	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	3	obl	3:obl:na:acc	SpaceAfter=No
 7	,	,	PUNCT	Z:-------------	_	8	punct	8.1:punct	_
 8	teď	teď	ADV	Db-------------	PronType=Dem	3	conj	8.1:advmod	_
 9	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	10:case	_
-10	život	život	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	8	orphan	8.1:dep	SpaceAfter=No
+10	život	život	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	orphan	8.1:dep	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 
 ~~~
@@ -67,12 +67,12 @@ The following 60 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 7 8 orphan	color:blue
 1	Můj	můj	DET	PSMS1-S1-------	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	3:det	_
 2	malý	malý	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	3	amod	3:amod	_
-3	švagr	švagr	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	4	nsubj	4:nsubj	_
+3	švagr	švagr	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	_
 4	dostal	dostat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
-5	koníčka	koníček	NOUN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	4	obj	4:obj	_
+5	koníčka	koníček	NOUN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	4	obj	4:obj	_
 6	a	a	CCONJ	J^-------------	_	7	cc	7.1:cc	_
 7	já	já	PRON	PP-S1--1-------	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	conj	7.1:dep	_
-8	anděla	anděl	NOUN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	7	orphan	7.1:dep	SpaceAfter=No
+8	anděla	anděl	NOUN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	7	orphan	7.1:dep	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
 ~~~

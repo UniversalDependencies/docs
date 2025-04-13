@@ -12,15 +12,15 @@ udver: '2'
 # UD Macedonian MTB
 
 Language: [Macedonian](/mk/index.html) (code: `mk`)<br/>
-Family: Indo-European, Slavic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.13 release.
 
 The following people have contributed to making this treebank part of UD: Vladimir Cvetkoski.
 
 Repository: [UD_Macedonian-MTB](https://github.com/UniversalDependencies/UD_Macedonian-MTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmk_mtb214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmk_mtb215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

@@ -30,7 +30,7 @@ The following 4 pairs of parts of speech are connected with `obl:lmod`: <tt><a h
 5	да	да	CCONJ	CC	_	9	cc	_	_
 6	кокыс	кок	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	nsubj	_	GTtags=Sg,Nom,PxSg3
 7	на	на	ADV	Adv	AdvType=Tim	9	advmod:tmod	_	GTtags=Sem/Time
-8	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	9	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
+8	из	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	9	aux	_	GTtags=Neg,Ind,Prt1,Sg3
 9	сидзоолы	сидзооны	VERB	V	Connegative=Yes	4	conj	_	GTtags=ConNeg|SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	4	punct	_	_
 

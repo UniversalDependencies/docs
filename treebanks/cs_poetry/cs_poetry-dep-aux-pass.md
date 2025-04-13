@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 3 2 aux:pass	color:blue
 1	A	a	CCONJ	J^-------------	_	3	advmod:emph	_	_
 2	byl	být	AUX	VpYS---XR-AA---	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	3	aux:pass	_	_
-3	zabit	zabitý	ADJ	VsYS---XX-AP---	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+3	zabit	zabitý	ADJ	VsYS---XX-AP---	Animacy=Anim|Aspect=Perf|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~

@@ -12,15 +12,15 @@ udver: '2'
 # UD Hebrew IAHLTwiki
 
 Language: [Hebrew](/he/index.html) (code: `he`)<br/>
-Family: Afro-Asiatic, Semitic
+Family: Afro-Asiatic
 
 This treebank has been part of Universal Dependencies since the UD v2.10 release.
 
 The following people have contributed to making this treebank part of UD: Amir Zeldes, Avner Algom, Noam Ordan, Yifat Ben Moshe, Shira Wigderson.
 
 Repository: [UD_Hebrew-IAHLTwiki](https://github.com/UniversalDependencies/UD_Hebrew-IAHLTwiki)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_iahltwiki214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_iahltwiki215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -48,8 +48,21 @@ Publicly available subset of the IAHLT UD Hebrew Treebank's Wikipedia section (h
 
 The UD Hebrew-IAHLTWiki treebank consists of 5,000 contemporary Hebrew sentences representing a variety of texts originating from Wikipedia entries, compiled by the [Israeli Association of Human Language Technology](https://www.iahlt.org/). It includes various text domains, such as: biography, law, finance, health, places, events and miscellaneous. The schema for the UD Hebrew-IAHLT treebank, from which the publicly available UD Hebrew-IAHLTWiki subset is derived, is based on the conversion of the Hebrew Treebank (HTB) into the latest UD V2 and is checked against the Universal Dependencies validator as of UD release V2.10, in addition to a range of additional validations using the grewv tool.
 
-The HTB version used in the project was initially converted automatically, then a subset of the converted data was manually validated and adopted as a gold standard for training the model for UD parsing used in Hebrew-IAHLT. The entire parsed data has been manually edited to correct parsing errors, and was automatically QA'ed to apply corrections following updates in the schema.
+## Compatible datasets
 
+The HTB version used in the project was initially converted automatically, then a subset of the converted data was manually validated and adopted as a gold standard for training the model for UD parsing used in Hebrew-IAHLT. The entire parsed data has been manually edited to correct parsing errors, and was automatically QA'ed to apply corrections following updates in the schema. For a fork of UD_Hebrew-HTB (Ha'aretz newswire data) using the same annotation scheme, see:
+
+https://github.com/IAHLT/UD_Hebrew
+
+For an additional UD_Hebrew corpus with the same annotation scheme (spoken parliament proceedings), see:
+
+https://github.com/UniversalDependencies/UD_Hebrew-IAHLTknesset
+
+## NER annotations
+
+The data additionally contains *nested* Named Entity annotations in the IAHLT scheme in the MISC annotation `Entity=`, illustrated in the following excerpt:
+
+```CoNLL-U
 ## Acknowledgments
 
 We would like to thank all the people who contributed to this corpus: Amir Zeldes, Hilla Merhav, Israel Landau, Netanel Dahan, Nick Howell, Noam Ordan, Omer Strass, Shira Wigderson, Yael Minerbi, Yifat Ben Moshe
@@ -58,15 +71,17 @@ We would like to thank all the people who contributed to this corpus: Amir Zelde
 
 To cite this dataset please refer to the following paper:
 
-Zeldes, Amir, Nick Howell, Noam Ordan and Yifat Ben Moshe (2022) [A Second Wave of UD Hebrew Treebanking and Cross-Domain Parsing](https://arxiv.org/abs/2210.07873). In: *Proceedings of EMNLP 2022*. Abu Dhabi, UAE.
+Zeldes, Amir, Nick Howell, Noam Ordan and Yifat Ben Moshe (2022) [A Second Wave of UD Hebrew Treebanking and Cross-Domain Parsing](https://arxiv.org/abs/2210.07873). In: *Proceedings of EMNLP 2022*. Abu Dhabi, UAE, 4331-4344.
 
-```
+```bibtex
 @InProceedings{ZeldesHowellOrdanBenMoshe2022,
 author = {Amir Zeldes and Nick Howell and Noam Ordan and Yifat Ben Moshe},
 booktitle = {Proceedings of {EMNLP} 2022},
-title = {A SecondWave of UD Hebrew Treebanking and Cross-Domain Parsing},
+title = {A Second Wave of {UD} {H}ebrew Treebanking and Cross-Domain Parsing},
 year = {2022},
+pages = {4331--4344},
 address = {Abu Dhabi, UAE},
+url = {https://aclanthology.org/2022.emnlp-main.292/},
 }
 ```
 
@@ -84,17 +99,17 @@ address = {Abu Dhabi, UAE},
 
 ## Relations
 
-[acl](he_iahltwiki-dep-acl.html) – [acl:relcl](he_iahltwiki-dep-acl-relcl.html) – [advcl](he_iahltwiki-dep-advcl.html) – [advmod](he_iahltwiki-dep-advmod.html) – [amod](he_iahltwiki-dep-amod.html) – [appos](he_iahltwiki-dep-appos.html) – [aux](he_iahltwiki-dep-aux.html) – [case](he_iahltwiki-dep-case.html) – [cc](he_iahltwiki-dep-cc.html) – [ccomp](he_iahltwiki-dep-ccomp.html) – [compound](he_iahltwiki-dep-compound.html) – [compound:affix](he_iahltwiki-dep-compound-affix.html) – [conj](he_iahltwiki-dep-conj.html) – [cop](he_iahltwiki-dep-cop.html) – [csubj](he_iahltwiki-dep-csubj.html) – [csubj:outer](he_iahltwiki-dep-csubj-outer.html) – [csubj:pass](he_iahltwiki-dep-csubj-pass.html) – [dep](he_iahltwiki-dep-dep.html) – [det](he_iahltwiki-dep-det.html) – [discourse](he_iahltwiki-dep-discourse.html) – [dislocated](he_iahltwiki-dep-dislocated.html) – [expl](he_iahltwiki-dep-expl.html) – [fixed](he_iahltwiki-dep-fixed.html) – [flat](he_iahltwiki-dep-flat.html) – [goeswith](he_iahltwiki-dep-goeswith.html) – [list](he_iahltwiki-dep-list.html) – [mark](he_iahltwiki-dep-mark.html) – [nmod](he_iahltwiki-dep-nmod.html) – [nmod:npmod](he_iahltwiki-dep-nmod-npmod.html) – [nmod:poss](he_iahltwiki-dep-nmod-poss.html) – [nmod:tmod](he_iahltwiki-dep-nmod-tmod.html) – [nsubj](he_iahltwiki-dep-nsubj.html) – [nsubj:outer](he_iahltwiki-dep-nsubj-outer.html) – [nsubj:pass](he_iahltwiki-dep-nsubj-pass.html) – [nummod](he_iahltwiki-dep-nummod.html) – [obj](he_iahltwiki-dep-obj.html) – [obl](he_iahltwiki-dep-obl.html) – [obl:npmod](he_iahltwiki-dep-obl-npmod.html) – [obl:tmod](he_iahltwiki-dep-obl-tmod.html) – [orphan](he_iahltwiki-dep-orphan.html) – [parataxis](he_iahltwiki-dep-parataxis.html) – [punct](he_iahltwiki-dep-punct.html) – [reparandum](he_iahltwiki-dep-reparandum.html) – [root](he_iahltwiki-dep-root.html) – [vocative](he_iahltwiki-dep-vocative.html) – [xcomp](he_iahltwiki-dep-xcomp.html)
+[acl](he_iahltwiki-dep-acl.html) – [acl:relcl](he_iahltwiki-dep-acl-relcl.html) – [advcl](he_iahltwiki-dep-advcl.html) – [advmod](he_iahltwiki-dep-advmod.html) – [amod](he_iahltwiki-dep-amod.html) – [appos](he_iahltwiki-dep-appos.html) – [aux](he_iahltwiki-dep-aux.html) – [case](he_iahltwiki-dep-case.html) – [cc](he_iahltwiki-dep-cc.html) – [ccomp](he_iahltwiki-dep-ccomp.html) – [compound](he_iahltwiki-dep-compound.html) – [compound:affix](he_iahltwiki-dep-compound-affix.html) – [conj](he_iahltwiki-dep-conj.html) – [cop](he_iahltwiki-dep-cop.html) – [csubj](he_iahltwiki-dep-csubj.html) – [csubj:outer](he_iahltwiki-dep-csubj-outer.html) – [csubj:pass](he_iahltwiki-dep-csubj-pass.html) – [dep](he_iahltwiki-dep-dep.html) – [det](he_iahltwiki-dep-det.html) – [discourse](he_iahltwiki-dep-discourse.html) – [dislocated](he_iahltwiki-dep-dislocated.html) – [expl](he_iahltwiki-dep-expl.html) – [fixed](he_iahltwiki-dep-fixed.html) – [flat](he_iahltwiki-dep-flat.html) – [goeswith](he_iahltwiki-dep-goeswith.html) – [list](he_iahltwiki-dep-list.html) – [mark](he_iahltwiki-dep-mark.html) – [nmod](he_iahltwiki-dep-nmod.html) – [nmod:poss](he_iahltwiki-dep-nmod-poss.html) – [nmod:unmarked](he_iahltwiki-dep-nmod-unmarked.html) – [nsubj](he_iahltwiki-dep-nsubj.html) – [nsubj:outer](he_iahltwiki-dep-nsubj-outer.html) – [nsubj:pass](he_iahltwiki-dep-nsubj-pass.html) – [nummod](he_iahltwiki-dep-nummod.html) – [obj](he_iahltwiki-dep-obj.html) – [obl](he_iahltwiki-dep-obl.html) – [obl:unmarked](he_iahltwiki-dep-obl-unmarked.html) – [orphan](he_iahltwiki-dep-orphan.html) – [parataxis](he_iahltwiki-dep-parataxis.html) – [punct](he_iahltwiki-dep-punct.html) – [reparandum](he_iahltwiki-dep-reparandum.html) – [root](he_iahltwiki-dep-root.html) – [vocative](he_iahltwiki-dep-vocative.html) – [xcomp](he_iahltwiki-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 5039 sentences, 103390 tokens and 140950 syntactic words.</li>
+<li>This corpus contains 5039 sentences, 103395 tokens and 140961 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 17847 tokens (17%) that are not followed by a space.</li>
+<li>This corpus contains 17851 tokens (17%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -102,12 +117,12 @@ address = {Abu Dhabi, UAE},
 </ul>
 
 <ul>
-<li>This corpus contains 322 types of words that contain both letters and punctuation. Examples: אונר"א, או"ם, מק"ם, צה"ל, בג"ץ, דו"ח, מעו"ף, ש"ח, ד"ר, מז'ור, פרופ', ג'ון, נ"ט, צ'רצ'ילים, ק"מ, א"י, חו"ל, mg/dl, אצ"ל, יו"ר, ע"פ, צ'יין, ג'ודו, ג'ודוקא, ח"כ, מנכ"ל, עות'מאנית, ק"ג, יענקל'ה, מח"ט, מפ"ם, עו"ד, פק"ם, תנ"ך, 236ב1(ב, אברג'יל, ב', ד', ה', חר"ג, יש"ע, עות'מאני, ABA', ABABA', אברמוביץ', אולארצ'יק, ג', ג'וחדר, ג'יימס, דו"חות</li>
+<li>This corpus contains 320 types of words that contain both letters and punctuation. Examples: אונר"א, או"ם, מק"ם, צה"ל, בג"ץ, דו"ח, מעו"ף, ש"ח, ד"ר, מז'ור, פרופ', ג'ון, נ"ט, צ'רצ'ילים, ק"מ, א"י, חו"ל, mg/dl, אצ"ל, יו"ר, ע"פ, צ'יין, ג'ודו, ג'ודוקא, ח"כ, מנכ"ל, עות'מאנית, ק"ג, יענקל'ה, מח"ט, מפ"ם, עו"ד, פק"ם, תנ"ך, 236ב1(ב, אברג'יל, ב', ד', ה', חר"ג, יש"ע, עות'מאני, ABA', ABABA', אברמוביץ', אולארצ'יק, ג', ג'וחדר, ג'יימס, דו"חות</li>
 </ul>
 
 <ul>
-<li>This corpus contains 34686 multi-word tokens. On average, one multi-word token consists of 2.08 syntactic words.</li>
-<li>There are 13067 types of multi-word tokens. Examples: המשפט, בשנת, העליון, הראשון, בו, בישראל, בבית, הוועדה, הבנקים, הכנסת, באופן, המדינה, באותה, בשם, המנדט, במהלך, הכנסייה, האלבום, מסוג, היהודי, וכן, השיר, בדם, הברית, בארץ, הקבר, הממשלה, החוק, העולם, שלא, באזור, בה, ושומרון, הבריטי, המאה, שבו, ולא, הארץ, שלו, אותו, הבנק, הבריטים, החולים, הראשונה, השופט, לכך, באלבום, בסוף, ועל, לו.</li>
+<li>This corpus contains 34692 multi-word tokens. On average, one multi-word token consists of 2.08 syntactic words.</li>
+<li>There are 13068 types of multi-word tokens. Examples: המשפט, בשנת, העליון, הראשון, בו, בישראל, בבית, הוועדה, הבנקים, הכנסת, באופן, המדינה, באותה, בשם, המנדט, במהלך, הכנסייה, האלבום, מסוג, היהודי, וכן, השיר, בדם, הברית, בארץ, הקבר, הממשלה, החוק, העולם, שלא, באזור, בה, ושומרון, הבריטי, המאה, שבו, ולא, הארץ, שלו, אותו, הבנק, הבריטים, החולים, הראשונה, השופט, לכך, באלבום, בסוף, ועל, לו.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -310,7 +325,7 @@ address = {Abu Dhabi, UAE},
   <li>Cons
     <ul>
       <li>ADJ: חסר, בן, בעלי, בני, בעלת, דלת, בעל, חסרי, קצר, ארוכי</li>
-      <li>DET: כל, רוב, מספר, כמה, מרבית, כלל, שאר, הרבה, יתר, שום</li>
+      <li>DET: כל, רוב, מספר, כמה, מרבית, כלל, שאר, אף, הרבה, יתר</li>
       <li>NOUN: בית, שנת, ידי, פי, שנות, סוג, חוק, בתי, חברי, ראש</li>
       <li>NUM: שני, שתי, ששת, אלפי, שלוש, שלושת, אחד, עשרות, מאות, אחת</li>
       <li>PROPN: ארץ, מלחמת, כנסיית, בנק, ארצות, מערת, קפלת, תל, בית, ועדת</li>
@@ -321,7 +336,7 @@ address = {Abu Dhabi, UAE},
 <ul>
   <li>Def
     <ul>
-      <li>ADP: ב, ל, כ, אות</li>
+      <li>ADP: ב, ל, כ</li>
       <li>DET: ה, אל, הַ, ְהַ, א, ב, הָ, כולם, לה</li>
       <li>PRON: ו, ה, ם, אותה, הם, ן, אותו, הן, י, נו</li>
     </ul>
@@ -470,7 +485,7 @@ address = {Abu Dhabi, UAE},
 <ul>
   <li>Art
     <ul>
-      <li>ADP: ב, ל, כ, אות</li>
+      <li>ADP: ב, ל, כ</li>
       <li>DET: ה, אל, הַ, ְהַ, א, ב, הָ, לה</li>
     </ul>
   </li>
@@ -479,7 +494,7 @@ address = {Abu Dhabi, UAE},
 <ul>
   <li>Dem
     <ul>
-      <li>PRON: זה, זו, זאת, כך, אלו, כן, אלה, הללו, זהו, זוהי</li>
+      <li>PRON: כך, זה, זו, זאת, אלו, כן, אלה, הללו, זהו, זוהי</li>
     </ul>
   </li>
 </ul>
@@ -510,9 +525,25 @@ address = {Abu Dhabi, UAE},
 </ul>
 
 <ul>
+  <li>Neg
+    <ul>
+      <li>DET: אף</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Prs
     <ul>
       <li>PRON: ו, ה, הם, ם, הוא, היא, הן, אותה, ן, י</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Tot
+    <ul>
+      <li>DET: כל</li>
     </ul>
   </li>
 </ul>
@@ -838,6 +869,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>compound:affix</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:npmod</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>compound:affix</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>nmod:poss</a>, <a>nmod:unmarked</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:unmarked</a></li>
 <li>The following 2 relation types are not used in this corpus at all: <a>iobj</a>, <a>clf</a></li>
 </ul>

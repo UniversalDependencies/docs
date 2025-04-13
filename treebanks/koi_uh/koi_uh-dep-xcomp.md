@@ -28,9 +28,9 @@ The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href
 3	вонӧ	вон	NOUN	N	Animacy=Anim|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	9	vocative	_	GTtags=N,Sem/Ani,Sg,Nom,PxSg1|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	3	punct	_	GTtags=CLB
 5	тожӧ	тожӧ	ADV	Adv	_	1	advmod	_	GTtags=Adv
-6	эд	оз	AUX	V	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Past	9	aux:neg	_	GTtags=V,Neg,Ind,Prt1,Pl2
+6	эд	оз	AUX	V	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Past	9	aux	_	GTtags=V,Neg,Ind,Prt1,Pl2
 7	овны	овны	VERB	V	VerbForm=Inf	9	xcomp	_	GTtags=V,IV,Inf
-8	ог	оз	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres	9	aux:neg	_	GTtags=V,Neg,Ind,Prs,Sg1
+8	ог	оз	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres	9	aux	_	GTtags=V,Neg,Ind,Prs,Sg1
 9	вермы	вермыны	VERB	V	Connegative=Yes	0	root	_	GTtags=V,IV,ConNeg
 10	Льӧмваыстӧг	Льӧмва	NOUN	N	Case=Abe|Number=Sing|Number[psor]=Sing|Person[psor]=3|Variant=Vclause	9	obl	_	GTtags=N,Prop,Sem/Plc,Sg,Car,PxSg3,So/PC|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	9	punct	_	GTtags=CLB

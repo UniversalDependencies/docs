@@ -39,21 +39,21 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 5045 <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> tokens (77% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4542; 90%), <tt><a href="gd_arcosg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4542; 90%), <tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4487; 89%), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (4487; 89%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4119; 82%), <tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3812; 76%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4542; 90%), <tt><a href="gd_arcosg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4542; 90%), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (4542; 90%), <tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4487; 89%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4119; 82%), <tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3812; 76%).
 
 `DET` tokens may have the following values of `Gender`:
 
 * `Fem` (1757; 35% of non-empty `Gender`): <em>na, an, a’, a, a', 'n, nan, nam, ‘n, am</em>
 * `Masc` (3288; 65% of non-empty `Gender`): <em>an, na, a’, a, am, nan, a', 'n, nam, 'm</em>
-* `EMPTY` (1494): <em>an, sin, seo, a, h-uile, am, mo, a', na, do</em>
+* `EMPTY` (1495): <em>an, sin, seo, a, h-uile, am, mo, a', na, do</em>
 
 <table>
   <tr><th>Paradigm <i>an</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>an, a’, a', am, na</em></td><td><em>na, an, a', a’</em></td></tr>
-  <tr><td><tt><tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>an</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>nan, na, nam</em></td><td><em>nan, na, nam</em></td></tr>
-  <tr><td><tt><tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>an, a’, am, 'n, a', 'm, ‘n, ’n, nam</em></td><td><em>an, a’, a', 'n, ‘n, am, a, 'm, ‘m</em></td></tr>
-  <tr><td><tt><tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>na</em></td><td><em>na</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>an, a’, a', am, na</em></td><td><em>na, an, a', a’</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td><em>an</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>nan, na, nam</em></td><td><em>nan, na, nam</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>an, a’, am, 'n, a', 'm, ‘n, ’n, nam</em></td><td><em>an, a’, a', 'n, ‘n, am, a, 'm, ‘m</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>na</em></td><td><em>na</em></td></tr>
   <tr><td><tt><tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>am, an, a’</em></td><td><em>an, a’, a'</em></td></tr>
   <tr><td><tt><tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>na</em></td><td><em>na</em></td></tr>
 </table>
@@ -62,13 +62,13 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 4710 <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> tokens (49% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4710; 100%), <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=3</tt> (4710; 100%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4710; 100%), <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=3</tt> (4710; 100%), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4710; 100%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (994; 21% of non-empty `Gender`): <em>i, a, ise, h-i, h-ì</em>
 * `Masc` (3716; 79% of non-empty `Gender`): <em>e, esan, a, h-e, ise, è, aige, mise, sinne</em>
-* `EMPTY` (4960): <em>iad, mi, thu, sin, sinn, fhèin, seo, dè, sibh, mise</em>
+* `EMPTY` (4941): <em>iad, mi, thu, sin, sinn, fhèin, seo, dè, sibh, mise</em>
 
 <table>
   <tr><th>Paradigm <i>i</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -86,7 +86,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 * `Fem` (503; 35% of non-empty `Gender`): <em>eile, mhòr, ùr, àrd, shaor, mhath, bheag, mhór, beaga, Buidhe</em>
 * `Masc` (938; 65% of non-empty `Gender`): <em>eile, beag, ùr, mòr, math, mór, òg, dubh, ghoirid, ùra</em>
-* `EMPTY` (1980): <em>bith, sam, cinnteach, math, faisg, thall, seann, fhearr, droch, coltach</em>
+* `EMPTY` (1979): <em>bith, sam, cinnteach, math, faisg, thall, seann, fhearr, droch, coltach</em>
 
 <table>
   <tr><th>Paradigm <i>eile</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -123,7 +123,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-det.html">det</a></tt>]--> DET</tt> (4243; 85%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-det.html">det</a></tt>]--> DET</tt> (4244; 85%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1275; 67%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (302; 51%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (64; 62%),

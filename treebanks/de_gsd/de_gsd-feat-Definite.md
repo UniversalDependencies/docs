@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="de_gsd-pos-DET.html
 
 34884 <tt><a href="de_gsd-pos-DET.html">DET</a></tt> tokens (85% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (34884; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (30067; 86%), <tt><a href="de_gsd-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (29413; 84%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (34884; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (30064; 86%), <tt><a href="de_gsd-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (29413; 84%).
 
 `DET` tokens may have the following values of `Definite`:
 

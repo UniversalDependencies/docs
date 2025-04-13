@@ -24,7 +24,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 64 sentences and 403 tokens.</li>
+      <li>This corpus contains 64 sentences and 418 tokens.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -36,7 +36,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 114 tokens (28%) that are not followed by a space.</li>
+      <li>This corpus contains 114 tokens (27%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -96,8 +96,8 @@ udver: '2'
       <h3>Tags</h3>
       
       <ul>
-      <li>This corpus uses 13 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
-      <li>This corpus does not use the following tags: NUM, INTJ, SYM, PUNCT</li>
+      <li>This corpus uses 12 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>SCONJ</a>, <a>VERB</a></li>
+      <li>This corpus does not use the following tags: NUM, INTJ, SYM, PUNCT, X</li>
       </ul>
     </td>
   </tr>
@@ -116,12 +116,12 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 11 lemmas tagged as pronouns (PRON): a, do, m, mo, mé, sa, so, som, sí, t, tú</li>
+      <li>This corpus contains 11 lemmas tagged as pronouns (PRON): a, do, m, mo, mé, sa, so, som, sí, t_1, tú</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 26 lemmas tagged as pronouns (PRON): a, ar, b, cani, cote, cách, do, dob, ed, far, id, m, mo, n, ni, ní, s, sa, se, si, so, som, són, t, tú, é</li>
+      <li>This corpus contains 26 lemmas tagged as pronouns (PRON): a, a_2, ar, b, cani, cote, cách, do, dob, ed, far, id_1, m, mo, n, ni, ní, s_2, sa, si, side, so, som, t_1, tú, é_1</li>
       </ul>
     </td>
   </tr>
@@ -264,7 +264,7 @@ udver: '2'
       <ul>
         <li>Masc,Neut
           <ul>
-            <li>PRON: a</li>
+            <li>PRON: a, som</li>
           </ul>
         </li>
       </ul>
@@ -288,7 +288,7 @@ udver: '2'
           <ul>
             <li>ADJ: chotarsne, domunde, essamin, foirbthi, gáitha, inse, mílsi, suaignid, thoirsech, trom</li>
             <li>DET: a, inna</li>
-            <li>PRON: hed, a</li>
+            <li>PRON: hed, a, són</li>
           </ul>
         </li>
       </ul>
@@ -335,7 +335,7 @@ udver: '2'
         <li>Plur
           <ul>
             <li>ADJ: libardaib</li>
-            <li>ADP: dún, friu</li>
+            <li>ADP: dv́n, friu</li>
             <li>DET: inna, naib</li>
             <li>NOUN: bachal, comroicniu, dindgnaib, doss, déainmmnichdechaib, fidbaidae, grec, laitnori, ṅén, ṡianach</li>
             <li>PRON: a</li>
@@ -353,7 +353,7 @@ udver: '2'
             <li>AUX: bimmi, bed, nirubtar</li>
             <li>DET: inna, na</li>
             <li>NOUN: belre, biada, béssu, comairli, dánu, fochidi, gnímu, mban, soscéli, tol</li>
-            <li>PRON: for, ar, far, b, n, ndob, s</li>
+            <li>PRON: si, for, ar, far, ni, b, n, ndob, s</li>
             <li>PROPN: maccidóndu</li>
             <li>VERB: amlid, chretsit, fulsam, gaibid, gessam, gigeste, nducaid, nropridchissem, riat, rocomalnisid</li>
           </ul>
@@ -372,7 +372,7 @@ udver: '2'
             <li>DET: in, a, ind, cach, inna, inḍt, na, nd, sin, ᚔᚅ</li>
             <li>NOUN: ᚉᚑᚉᚐᚏᚈ, dia, dias, ingen, ainm, airdircus, aite, aithne, anmmain, bendacht</li>
             <li>PRON: m, a, mo, do, mei, mm, siu, som, sse, sv</li>
-            <li>PROPN: brigtae, choirbbre, dongus, donngus, ferguso, finguine, lothlind, maddoc, mail, máel</li>
+            <li>PROPN: brigtae, choirbbre, dongus, donngvs, ferguso, finguine, lothlind, maddoc, mail, máel</li>
             <li>SCONJ: nach</li>
             <li>VERB: chain, Gaib, braigim, cél, cóima, epur, farcai, fuasna, giuil, llega</li>
           </ul>
@@ -388,7 +388,7 @@ udver: '2'
             <li>AUX: is, d, ni, ba, p, am, as, bes, i, naba</li>
             <li>DET: a, in, ind</li>
             <li>NOUN: cenn, nem, precept, precepte, airli, carcair, chenél, chomalnad, chorp, chuimriug</li>
-            <li>PRON: mo, a, m, t, hed, hé, d, do, mm, tú</li>
+            <li>PRON: sa, mo, a, m, se, t, hed, hé, cáich, d</li>
             <li>PROPN: abracham, crist, moysi</li>
             <li>VERB: tá, ail, anicc, arim, beir, beo, bera, bered, berinn, bia</li>
           </ul>
@@ -428,6 +428,7 @@ udver: '2'
             <li>ADJ: diadi, domunde, macthi, mílsi</li>
             <li>DET: inna, a, na</li>
             <li>NOUN: cenn, biada, béssu, chomalnad, chumang, comarbus, dia, dánu, etargne, etiuth</li>
+            <li>PRON: són</li>
             <li>PROPN: maccidóndu</li>
           </ul>
         </li>
@@ -478,6 +479,7 @@ udver: '2'
             <li>ADJ: domunde</li>
             <li>DET: ind, inna</li>
             <li>NOUN: precepte, soscéli, belre, firinne, hirisse, mban, nanme, nathar, sosceli, tol</li>
+            <li>PRON: cáich</li>
             <li>PROPN: crist</li>
           </ul>
         </li>
@@ -492,7 +494,7 @@ udver: '2'
             <li>ADJ: gann, acher, bec, cáin, dorchæ, línech, mall, mar, mass, mmall</li>
             <li>DET: in, a, ind, inḍt, ᚔᚅ</li>
             <li>NOUN: ᚉᚑᚉᚐᚏᚈ, dias, ainm, airdircus, aite, aithne, bendacht, bruach, cenéle, chliab</li>
-            <li>PROPN: choirbbre, dongus, donngus, finguine, ruadri</li>
+            <li>PROPN: choirbbre, dongus, donngvs, finguine, ruadri</li>
           </ul>
         </li>
       </ul>
@@ -1094,7 +1096,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>PRON: cách, cáich, níi</li>
+            <li>PRON: cách, níi, cáich</li>
           </ul>
         </li>
       </ul>
@@ -1120,7 +1122,7 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>ADP: dom, and, dait, de, dún, foir, frimm, friu, lat, oco</li>
+            <li>ADP: dom, and, dait, de, dv́n, foir, frimm, friu, lat, oco</li>
             <li>PRON: a, m, mo, do, mei, mm, sí, t, thv, ᚐ</li>
             <li>SCONJ: nach</li>
           </ul>
@@ -1253,7 +1255,7 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>ADP: dom, dún, frimm</li>
+            <li>ADP: dom, dv́n, frimm</li>
             <li>PRON: m, mo, mei, mm, sse</li>
             <li>VERB: braigim, cél, epur, samlar, scríbaimm, tiach, ágor</li>
           </ul>
@@ -1266,7 +1268,7 @@ udver: '2'
           <ul>
             <li>ADP: lim, limm, linn</li>
             <li>AUX: bimmi, am, nda</li>
-            <li>PRON: mo, m, ar, mm, n</li>
+            <li>PRON: sa, mo, m, ar, se, ni, mm, n</li>
             <li>VERB: arim, beo, berinn, biur, biuu, denim, fulsam, gessam, gníu, guidimm</li>
           </ul>
         </li>
@@ -1291,7 +1293,7 @@ udver: '2'
           <ul>
             <li>ADP: dúib, dét, frib, fuirib, indib, lib, uáit, ṅduit</li>
             <li>AUX: ba, bed, naba</li>
-            <li>PRON: for, t, far, b, do, ndob, tú</li>
+            <li>PRON: si, for, t, far, b, do, ndob, so, tú</li>
             <li>VERB: amlid, gaibid, gigeste, léic, mil, nducaid, ngeiss, rocomalnisid, rreractid, rérachtid</li>
           </ul>
         </li>
@@ -1318,7 +1320,7 @@ udver: '2'
           <ul>
             <li>ADP: de, tree</li>
             <li>AUX: is, d, ni, p, as, ba, bes, i, nirubtar, ní</li>
-            <li>PRON: a, hed, hé, d, s</li>
+            <li>PRON: a, hed, hé, d, s, som</li>
             <li>VERB: tá, ail, anicc, beir, bera, bered, bia, carad, certa, chechladar</li>
           </ul>
         </li>
@@ -1420,11 +1422,13 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>ADV: amen</li>
-                <li>CCONJ: et</li>
-                <li>NOUN: femininum, ᚃᚓᚏᚔᚐ, ᚆᚑᚇᚔᚓ, accentus</li>
+                <li>ADJ: displosa</li>
+                <li>ADV: amen, nam, quantum</li>
+                <li>CCONJ: et, ⁊</li>
+                <li>NOUN: animalis, femininum, nomen, pedo, sona, vesíca, ᚃᚓᚏᚔᚐ, ᚆᚑᚇᚔᚓ, accentus</li>
+                <li>PROPN: isidorus</li>
                 <li>SCONJ: ut</li>
-                <li>VERB: adest</li>
+                <li>VERB: adest, dicit, fit, pepedi</li>
                 <li>X: .c, .d.</li>
               </ul>
             </li>
@@ -1439,7 +1443,7 @@ udver: '2'
             <li>Yes
               <ul>
                 <li>CCONJ: et</li>
-                <li>X: et, gloria, legis</li>
+                <li>NOUN: gloria, legis</li>
               </ul>
             </li>
           </ul>
@@ -1546,11 +1550,6 @@ udver: '2'
                 <li>PRON: m, mm, t</li>
               </ul>
             </li>
-            <li>Neg
-              <ul>
-                <li>SCONJ: nach</li>
-              </ul>
-            </li>
           </ul>
         </li>
       </ul>
@@ -1601,6 +1600,7 @@ udver: '2'
             <li>Cop
               <ul>
                 <li>AUX: is, d, ní, bid, bith, mba</li>
+                <li>SCONJ: nach</li>
               </ul>
             </li>
           </ul>
@@ -1661,6 +1661,7 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
+            <li>VERB--NOUN (2)</li>
             <li>VERB--NOUN-Nom (9)</li>
           </ul>
         </li>
@@ -1686,6 +1687,7 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
+            <li>VERB--NOUN (1)</li>
             <li>VERB--NOUN-Acc (5)</li>
             <li>VERB--NOUN-Nom (3)</li>
           </ul>
@@ -1696,6 +1698,7 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
+            <li>VERB--NOUN (1)</li>
             <li>VERB--NOUN-Acc (13)</li>
             <li>VERB--PRON (2)</li>
           </ul>
@@ -1759,9 +1762,9 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>compound:prt</a>, <a>flat:foreign</a>, <a>mark:int</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>obj:infx</a>, <a>obl:prep</a></li>
-      <li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>flat</a></li>
-      <li>The following 15 relation types are not used in this corpus at all: <a>iobj</a>, <a>vocative</a>, <a>expl</a>, <a>discourse</a>, <a>aux</a>, <a>appos</a>, <a>nummod</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a>, <a>dep</a></li>
+      <li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>compound:prt</a>, <a>mark:int</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>obj:infx</a>, <a>obl:prep</a></li>
+      <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
+      <li>The following 16 relation types are not used in this corpus at all: <a>iobj</a>, <a>vocative</a>, <a>expl</a>, <a>discourse</a>, <a>aux</a>, <a>appos</a>, <a>nummod</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a>, <a>dep</a></li>
       </ul>
     </td>
   </tr>

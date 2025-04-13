@@ -17,4 +17,4 @@ Punctuation is not taken to include logograms such as _$_, _%_, and _§_, which 
 - Comma: _<b>,</b>_
 - Parentheses: _<b>()</b>_
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:41 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:26 CET -->

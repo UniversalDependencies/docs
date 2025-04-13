@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-9954 tokens (9%) have a non-empty value of `Tense`.
+9966 tokens (9%) have a non-empty value of `Tense`.
 1798 types (12%) occur at least once with a non-empty value of `Tense`.
 451 lemmas (5%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 5 part-of-speech tags: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (8113; 7% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (1525; 1% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (298; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (17; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (8122; 7% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (1527; 1% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (299; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (17; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-8113 <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> tokens (93% of all `VERB` tokens) have a non-empty value of `Tense`.
+8122 <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> tokens (93% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="ga_idt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7979; 98%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6494; 80%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (4063; 50%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="ga_idt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7988; 98%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6496; 80%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (4070; 50%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (1182; 15% of non-empty `Tense`): <em>beidh, bheidh, mbeidh, féadfaidh, déanfaidh, cuirfidh, déanfar, cuirfear, caithfidh, tabharfaidh</em>
-* `Past` (3086; 38% of non-empty `Tense`): <em>bhí, raibh, thug, tháinig, chuir, dúirt, cuireadh, rinne, bhíodh, rinneadh</em>
-* `Pres` (3845; 47% of non-empty `Tense`): <em>tá, atá, bhfuil, níl, bhaineann, bhíonn, bíonn, leanas, cuireann, cuirtear</em>
-* `EMPTY` (655): <em>mbeadh, bheadh, fhéadfadh, féach, dtiocfadh, bíodh, bhféadfadh, déan, bhféadfaí, cuir</em>
+* `Past` (3096; 38% of non-empty `Tense`): <em>bhí, raibh, thug, tháinig, chuir, dúirt, cuireadh, rinne, bhíodh, rinneadh</em>
+* `Pres` (3844; 47% of non-empty `Tense`): <em>tá, atá, bhfuil, níl, bhaineann, bhíonn, bíonn, leanas, cuireann, cuirtear</em>
+* `EMPTY` (653): <em>mbeadh, bheadh, fhéadfadh, féach, dtiocfadh, bíodh, bhféadfadh, déan, bhféadfaí, cuir</em>
 
 <table>
   <tr><th>Paradigm <i>bí</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -86,14 +86,14 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-1525 <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> tokens (98% of all `AUX` tokens) have a non-empty value of `Tense`.
+1527 <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> tokens (98% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=Cop</tt> (1525; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (1349; 88%), <tt><a href="ga_idt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1234; 81%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=Cop</tt> (1527; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (1351; 88%), <tt><a href="ga_idt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1236; 81%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Past` (391; 26% of non-empty `Tense`): <em>ba, b', gur, nár, gurbh, níor, níorbh, mba, ab, ar</em>
-* `Pres` (1134; 74% of non-empty `Tense`): <em>is, ní, gur, nach, ar, gurb, an, sé, sea, dar</em>
+* `Pres` (1136; 74% of non-empty `Tense`): <em>is, ní, gur, nach, ar, gurb, an, sé, sea, dar</em>
 * `EMPTY` (30): <em>ba, B', gur, ar, mba</em>
 
 <table>
@@ -119,14 +119,14 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `PART`
 
-298 <tt><a href="ga_idt-pos-PART.html">PART</a></tt> tokens (4% of all `PART` tokens) have a non-empty value of `Tense`.
+299 <tt><a href="ga_idt-pos-PART.html">PART</a></tt> tokens (4% of all `PART` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `PART` and `Tense` co-occurred: <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (234; 79%), <tt><a href="ga_idt-feat-PartType.html">PartType</a></tt><tt>=Vb</tt> (232; 78%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (231; 78%).
+The most frequent other feature values with which `PART` and `Tense` co-occurred: <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (234; 78%), <tt><a href="ga_idt-feat-PartType.html">PartType</a></tt><tt>=Vb</tt> (233; 78%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (231; 77%).
 
 `PART` tokens may have the following values of `Tense`:
 
-* `Past` (298; 100% of non-empty `Tense`): <em>gur, níor, nár, ar, ba, inar, b', lenar</em>
-* `EMPTY` (6680): <em>a, go, ní, d', nach, níos, is, ó, ina, an</em>
+* `Past` (299; 100% of non-empty `Tense`): <em>gur, níor, nár, ar, ba, inar, b', lenar</em>
+* `EMPTY` (6677): <em>a, go, ní, d', nach, níos, is, ó, ina, an</em>
 
 ### `SCONJ`
 
@@ -136,7 +136,7 @@ The most frequent other feature values with which `PART` and `Tense` co-occurred
 
 * `Past` (5; 29% of non-empty `Tense`): <em>sular, murar, sarar</em>
 * `Pres` (12; 71% of non-empty `Tense`): <em>mura, murab, murar, Sular</em>
-* `EMPTY` (1613): <em>ach, nuair, má, mar, agus, ná, más, go, dá, cé</em>
+* `EMPTY` (1612): <em>ach, nuair, má, mar, agus, ná, más, go, dá, cé</em>
 
 <table>
   <tr><th>Paradigm <i>mura</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -152,7 +152,7 @@ The most frequent other feature values with which `PART` and `Tense` co-occurred
 `ADV` tokens may have the following values of `Tense`:
 
 * `Past` (1; 100% of non-empty `Tense`): <em>Cár</em>
-* `EMPTY` (1886): <em>amach, chomh, anois, freisin, isteach, síos, ansin, anseo, fós, laistigh</em>
+* `EMPTY` (1885): <em>amach, chomh, anois, freisin, isteach, síos, ansin, anseo, fós, laistigh</em>
 
 ## Relations with Agreement in `Tense`
 

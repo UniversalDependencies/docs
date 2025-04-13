@@ -48,7 +48,7 @@ The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 23	siente	sentir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
 24	más	más	ADV	RBR	Degree=Cmp	25	advmod	_	_
 25	orgullosa	orgulloso	ADJ	JJ	Gender=Fem|Number=Sing	23	xcomp	_	SpaceAfter=No
-26	.	.	PUNCT	.	_	5	punct	_	_
+26	.	.	PUNCT	.	PunctType=Peri	5	punct	_	_
 
 ~~~
 
@@ -62,28 +62,28 @@ The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 1	Cuando	cuando	ADV	WRB	PronType=Rel	3	advmod	_	_
 2	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obl:arg	_	_
 3	imito	imitar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
-4	,	,	PUNCT	,	_	3	punct	_	_
+4	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 5	me	yo	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	expl:pv	_	_
 6	siento	sentir	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
 7	poderoso	poderoso	ADJ	JJ	Gender=Masc|Number=Sing	6	xcomp	_	SpaceAfter=No
-8	,	,	PUNCT	,	_	6	punct	_	_
+8	,	,	PUNCT	,	PunctType=Comm	6	punct	_	_
 9	explicó	explicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	John	John	PROPN	NNP	Gender=Masc|Number=Sing	9	nsubj	_	_
 11	Di	Di	PROPN	NNP	Gender=Masc|Number=Sing	10	flat:name	_	_
 12	Domenico	Domenico	PROPN	NNP	Gender=Masc|Number=Sing	10	flat:name	_	SpaceAfter=No
-13	,	,	PUNCT	,	_	15	punct	_	_
+13	,	,	PUNCT	,	PunctType=Comm	15	punct	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	imitador	imitador	NOUN	NN	Gender=Masc|Number=Sing	10	appos	_	_
 16	de	de	ADP	IN	_	17	case	_	_
 17	Donald	Donald	PROPN	NNP	Gender=Masc|Number=Sing	15	nmod	_	_
 18	Trump	Trump	PROPN	NNP	Gender=Masc|Number=Sing	17	flat:name	_	SpaceAfter=No
-19	,	,	PUNCT	,	_	21	punct	_	_
+19	,	,	PUNCT	,	PunctType=Comm	21	punct	_	_
 20	en	en	ADP	IN	_	21	case	_	_
 21	Slate	Slate	PROPN	NNP	Number=Sing	9	obl	_	_
 22	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	año	año	NOUN	NN	Gender=Masc|Number=Sing	9	obl:tmod	_	_
 24	pasado	pasado	ADJ	JJ	Gender=Masc|Number=Sing	23	amod	_	SpaceAfter=No
-25	.	.	PUNCT	.	_	9	punct	_	_
+25	.	.	PUNCT	.	PunctType=Peri	9	punct	_	_
 
 ~~~
 

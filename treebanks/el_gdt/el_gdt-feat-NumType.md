@@ -50,7 +50,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Sets` (2; 100% of non-empty `NumType`): <em>δεκάδες</em>
-* `EMPTY` (13538): <em>επιτροπή, ΗΠΑ, κ., κοινοβούλιο, Συμβούλιο, κύριε, χώρες, ένωση, επιτροπής, Πρόεδρε</em>
+* `EMPTY` (13542): <em>επιτροπή, ΗΠΑ, κ., κοινοβούλιο, Συμβούλιο, κύριε, χώρες, ένωση, επιτροπής, Πρόεδρε</em>
 
 ## Relations with Agreement in `NumType`
 

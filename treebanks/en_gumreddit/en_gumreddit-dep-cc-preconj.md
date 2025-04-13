@@ -29,8 +29,8 @@ The following 4 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 5	_	_	SYM	SYM	_	6	cc	6:cc	Lem=_|Len=1|SpaceAfter=No
 6	_	_	NOUN	NN	Number=Sing	4	conj	4:conj:slash|7:compound	Entity=(92-abstract-new-cf4-2-coref|Lem=_|Len=2|XML=</w>
 7	_	_	NOUN	NN	Number=Sing	14	obl	14:obl:on	Entity=92)90)|Lem=_|Len=5
-8	_	_	CCONJ	CC	_	13	cc	13:cc	Discourse=joint-sequence_m:94->93:0:dm-and-679+dm-then-680|Lem=_|Len=3
-9	_	_	ADV	RB	PronType=Dem	13	advmod	13:advmod	Lem=_|Len=4
+8	_	_	CCONJ	CC	_	13	cc	13:cc	Discourse=joint-sequence_m:94->93:0:dm-and-679+dm-then-680|Lem=_|Len=3|PDTB=Explicit:Expansion.Conjunction:and:679:680-699:672-678
+9	_	_	ADV	RB	PronType=Dem	13	advmod	13:advmod	Lem=_|Len=4|PDTB=Explicit:Temporal.Asynchronous.Precedence:then:680:679,681-699:672-678
 10	_	_	ADP	IN	_	13	case	13:case	Lem=_|Len=2
 11	_	_	DET	DT	Definite=Def|PronType=Art	13	det	13:det	Bridge=89<93|Entity=(93-abstract-acc:inf-cf2-3-sgl|Lem=_|Len=3
 12	_	_	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	13	amod	13:amod	Lem=_|Len=6
@@ -60,22 +60,22 @@ The following 4 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 cc:preconj	color:blue
-1	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	4:expl	Discourse=explanation-motivation:16->47:5:_|Entity=(20-abstract-new-cf3-1-cata)|Lem=*LOWER*|Len=2
+1	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	4:expl	Discourse=explanation-motivation:16->47:5:_|Entity=(20-abstract-new-cf3-1-cata)|Lem=*LOWER*|Len=2|PDTB=NoRel:NoRel:_:_:85-101:102-124
 2	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	Lem=be|Len=2
-3	_	_	CCONJ	CC	_	4	cc:preconj	4:cc:preconj	Lem=_|Len=7
+3	_	_	CCONJ	CC	Polarity=Neg	4	cc:preconj	4:cc:preconj	Lem=_|Len=7
 4	_	_	ADJ	JJ	Degree=Pos	0	root	0:root	Lem=_|Len=9|MSeg=necess-ary|SpaceAfter=No
 5	_	_	PUNCT	,	_	6	punct	6:punct	Lem=_|Len=1
 6	_	_	ADJ	JJ	Degree=Pos	4	conj	4:conj:nor	Lem=_|Len=8|SpaceAfter=No
 7	_	_	PUNCT	,	_	9	punct	9:punct	Lem=_|Len=1
-8	_	_	CCONJ	CC	_	9	cc	9:cc	Lem=_|Len=3
-9	_	_	ADJ	JJ	Degree=Pos	4	conj	4:conj:nor	Lem=_|Len=9
+8	_	_	CCONJ	CC	Polarity=Neg	9	cc	9:cc	Lem=_|Len=3
+9	_	_	ADJ	JJ	Degree=Pos	4	conj	4:conj:nor	Lem=_|Len=9|MSeg=desir-able
 10	_	_	PART	TO	_	11	mark	11:mark	Entity=(20-abstract-acc:com-cf3-2-coref|Lem=_|Len=2
 11	_	_	VERB	VB	VerbForm=Inf	4	csubj	4:csubj|6:csubj|9:csubj	Lem=_|Len=5
 12	_	_	DET	DT	PronType=Ind	14	det	14:det	Bridge=14<21|Entity=(21-abstract-acc:inf-cf1-3-coref|Lem=_|Len=3
 13	_	_	NOUN	NN	Number=Sing	14	compound	14:compound	Lem=_|Len=6
 14	_	_	NOUN	NNS	Number=Plur	11	obj	11:obj	Entity=21)20)|Lem=norm|Len=5|MSeg=norm-s|SpaceAfter=No
 15	_	_	PUNCT	,	_	20	punct	20:punct	Lem=_|Len=1
-16	_	_	SCONJ	IN	_	20	mark	20:mark	Discourse=explanation-justify:17->16:0:dm-since-117|Lem=_|Len=5
+16	_	_	SCONJ	IN	_	20	mark	20:mark	Discourse=explanation-justify:17->16:0:dm-since-117|Lem=_|Len=5|PDTB=Explicit:Contingency.Cause.Reason:since:117:102-116:118-124
 17	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj:pass	20:nsubj:pass	Entity=(21-abstract-giv:act-cf1-1-ana)|Lem=_|Len=4
 18	_	_	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	aux:pass	20:aux:pass	Lem=be|Len=3
 19	_	_	ADV	RB	Degree=Pos	20	advmod	20:advmod	Lem=_|Len=9|MSeg=will-ing-ly
@@ -93,7 +93,7 @@ The following 4 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 cc:preconj	color:blue
-1	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	4:expl	Discourse=context-circumstance:58->59:0:_|Entity=(53-event-new-cf4-1-cata)|Lem=*LOWER*|Len=2
+1	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	4:expl	Discourse=context-circumstance:58->59:0:_|Entity=(53-event-new-cf4-1-cata)|Lem=*LOWER*|Len=2|PDTB=EntRel:EntRel:_:_:297-341:342-372
 2	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	4:cop	Lem=be|Len=3
 3	_	_	CCONJ	CC	_	4	cc:preconj	4:cc:preconj	Lem=_|Len=6
 4	_	_	ADV	RBR	Degree=Cmp	0	root	0:root	Lem=late|Len=5|MSeg=lat-er
@@ -107,7 +107,7 @@ The following 4 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 12	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	13	aux	13:aux	Lem=be|Len=3
 13	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	4	csubj	4:csubj|9:csubj	Lem=tell|Len=7|MSeg=tell-ing
 14	_	_	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	15:nmod:poss	Entity=(55-person-new-cf7-2-sgl(45-person-giv:act-cf1*-1-ana)|Lem=_|Len=2
-15	_	_	NOUN	NN	Number=Sing	13	iobj	13:iobj	Entity=55)|Lem=_|Len=9
+15	_	_	NOUN	NN	Number=Sing	13	iobj	13:iobj	Entity=55)|Lem=_|Len=9|MSeg=boy-friend
 16	_	_	ADP	IN	_	18	case	18:case	Discourse=causal-cause:60->63:3:_|Lem=_|Len=5
 17	_	_	ADV	WRB	PronType=Int	18	obl	18:obl	Lem=_|Len=3
 18	_	_	ADJ	JJ	Degree=Pos	13	obl	13:obl:about	Lem=_|Len=10|MSeg=ridicul-ous

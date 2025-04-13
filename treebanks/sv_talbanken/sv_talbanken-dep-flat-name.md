@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Swedish-Talbanken: Relations: `flat:name`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="sv_talbanken-dep-flat.html">flat</a></tt>.
 
 157 nodes (0%) are attached to their parents as `flat:name`.
 
@@ -28,11 +28,11 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 4	I.	I.	PROPN	PM|NOM	Case=Nom	3	flat:name	3:flat:name	_
 5	Rabin	Rabin	PROPN	PM|NOM	Case=Nom	3	flat:name	3:flat:name	SpaceAfter=No
 6	:	:	PUNCT	MID	_	3	punct	3:punct	_
-7	Kibbutzchildren	Kibbutzchildren	NOUN	NN	_	3	parataxis	3:parataxis	_
+7	Kibbutzchildren	Kibbutzchildren	NOUN	NN	_	3	parataxis	3:parataxis	Lang=en
 8	-	-	PUNCT	MID	_	7	punct	7:punct	_
-9	Researchfindings	Researchfindings	NOUN	NN	_	7	parataxis	7:parataxis	_
-10	to	to	ADP	PP	_	9	advmod	9:advmod	_
-11	Date	Date	NOUN	NN	_	10	fixed	10:fixed	SpaceAfter=No
+9	Researchfindings	Researchfindings	NOUN	NN	_	7	parataxis	7:parataxis	Lang=en
+10	to	to	ADP	PP	_	11	case	11:case	Lang=en
+11	Date	Date	NOUN	NN	_	9	obl	9:obl	Lang=en|SpaceAfter=No
 12	.	.	PUNCT	MAD	_	7	punct	7:punct	_
 
 ~~~

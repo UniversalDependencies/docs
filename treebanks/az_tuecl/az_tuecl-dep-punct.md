@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-133 nodes (20%) are attached to their parents as `punct`.
+134 nodes (20%) are attached to their parents as `punct`.
 
-124 instances of `punct` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.88721804511278.
+125 instances of `punct` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.88059701492537.
 
-The following 6 pairs of parts of speech are connected with `punct`: <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-PUNCT.html">PUNCT</a></tt> (93; 70% instances), <tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="az_tuecl-pos-PUNCT.html">PUNCT</a></tt> (20; 15% instances), <tt><a href="az_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="az_tuecl-pos-PUNCT.html">PUNCT</a></tt> (14; 11% instances), <tt><a href="az_tuecl-pos-ADV.html">ADV</a></tt>-<tt><a href="az_tuecl-pos-PUNCT.html">PUNCT</a></tt> (3; 2% instances), <tt><a href="az_tuecl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="az_tuecl-pos-PUNCT.html">PUNCT</a></tt> (2; 2% instances), <tt><a href="az_tuecl-pos-DET.html">DET</a></tt>-<tt><a href="az_tuecl-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `punct`: <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="az_tuecl-pos-PUNCT.html">PUNCT</a></tt> (95; 71% instances), <tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="az_tuecl-pos-PUNCT.html">PUNCT</a></tt> (20; 15% instances), <tt><a href="az_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="az_tuecl-pos-PUNCT.html">PUNCT</a></tt> (13; 10% instances), <tt><a href="az_tuecl-pos-ADV.html">ADV</a></tt>-<tt><a href="az_tuecl-pos-PUNCT.html">PUNCT</a></tt> (3; 2% instances), <tt><a href="az_tuecl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="az_tuecl-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="az_tuecl-pos-DET.html">DET</a></tt>-<tt><a href="az_tuecl-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

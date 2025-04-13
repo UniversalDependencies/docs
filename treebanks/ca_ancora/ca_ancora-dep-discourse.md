@@ -37,7 +37,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 13	amor	amor	NOUN	_	Foreign=Yes	11	nmod	11:nmod	SpaceAfter=No
 14	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	Entity=NOCOREF:Spec.other)
 15	(	(	PUNCT	fpa	PunctSide=Ini|PunctType=Brck	16	punct	16:punct	SpaceAfter=No|Entity=(NOCOREF:Spec.date-time-2-gstype:spec
-16	1992	1992	NOUN	_	AdvType=Tim	11	appos	11:appos	SpaceAfter=No
+16	1992	1992	NOUN	_	_	11	appos	11:appos	SpaceAfter=No
 17	)	)	PUNCT	fpt	PunctSide=Fin|PunctType=Brck	16	punct	16:punct	Entity=NOCOREF:Spec.date)NOCOREF:Spec.other)
 18	i	i	CCONJ	cc	_	24	cc	24:cc	_
 19	'	'	PUNCT	fz	PunctType=Quot	24	punct	24:punct	SpaceAfter=No|Entity=(NOCOREF:Spec.other-other-6-gstype:spec(NOCOREF:Spec.other-other-6-gstype:spec
@@ -49,7 +49,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 25	!	!	PUNCT	_	_	24	punct	24:punct	SpaceAfter=No
 26	'	'	PUNCT	fz	PunctType=Quot	24	punct	24:punct	Entity=NOCOREF:Spec.other)
 27	(	(	PUNCT	fpa	PunctSide=Ini|PunctType=Brck	28	punct	28:punct	SpaceAfter=No|Entity=(NOCOREF:Spec.date-time-2-gstype:spec
-28	1994	1994	NOUN	_	AdvType=Tim	24	appos	24:appos	SpaceAfter=No
+28	1994	1994	NOUN	_	_	24	appos	24:appos	SpaceAfter=No
 29	)	)	PUNCT	fpt	PunctSide=Fin|PunctType=Brck	28	punct	28:punct	SpaceAfter=No|Entity=NOCOREF:Spec.date)NOCOREF:Spec.other)CESSCATAAP2001020524863c5)CESSCATAAP2001020524863c5)
 30	;	;	PUNCT	fx	PunctType=Semi	32	punct	32:punct	_
 31	un	un	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Ind	32	det	32:det	Entity=(CESSCATAAP2001020524863c6-other-2-gstype:spec
@@ -62,7 +62,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 38	América	América	PROPN	_	_	37	flat	37:flat	SpaceAfter=No
 39	'	'	PUNCT	fz	PunctType=Quot	37	punct	37:punct	Entity=CESSCATAAP2001020524863c6)
 40	(	(	PUNCT	fpa	PunctSide=Ini|PunctType=Brck	41	punct	41:punct	SpaceAfter=No|Entity=(NOCOREF:Spec.date-time-2-gstype:spec
-41	1994	1994	NOUN	_	AdvType=Tim	37	appos	37:appos	SpaceAfter=No
+41	1994	1994	NOUN	_	_	37	appos	37:appos	SpaceAfter=No
 42	)	)	PUNCT	fpt	PunctSide=Fin|PunctType=Brck	41	punct	41:punct	SpaceAfter=No|Entity=NOCOREF:Spec.date)NOCOREF:Spec.other)
 43	;	;	PUNCT	fx	PunctType=Semi	32	punct	32:punct	Entity=CESSCATAAP2001020524863c6)
 44	i	i	CCONJ	cc	_	46	cc	46:cc	_
@@ -78,7 +78,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 54	gota	gota	NOUN	_	Foreign=Yes	46	appos	46:appos	SpaceAfter=No
 55	'	'	PUNCT	fz	PunctType=Quot	54	punct	54:punct	Entity=CESSCATAAP2001020524863c7)
 56	(	(	PUNCT	fpa	PunctSide=Ini|PunctType=Brck	57	punct	57:punct	SpaceAfter=No|Entity=(NOCOREF:Spec.date-time-2-gstype:spec
-57	1996	1996	NOUN	_	AdvType=Tim	54	appos	54:appos	SpaceAfter=No
+57	1996	1996	NOUN	_	_	54	appos	54:appos	SpaceAfter=No
 58	)	)	PUNCT	fpt	PunctSide=Fin|PunctType=Brck	57	punct	57:punct	SpaceAfter=No|Entity=NOCOREF:Spec.date)NOCOREF:Spec.other)CESSCATAAP2001020524863c7)
 59	.	.	PUNCT	fp	PunctType=Peri	3	punct	3:punct	_
 

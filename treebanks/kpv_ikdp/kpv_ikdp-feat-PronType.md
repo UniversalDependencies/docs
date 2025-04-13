@@ -73,7 +73,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 
 * `Dem` (2; 33% of non-empty `PronType`): <em>сэтшем</em>
 * `Prs` (4; 67% of non-empty `PronType`): <em>ас</em>
-* `EMPTY` (94): <em>бур, второй, небыд, бия, выль, дзолясянь, дик, корейскей, кутшем, кык-суда</em>
+* `EMPTY` (92): <em>бур, второй, небыд, бия, выль, дзолясянь, дик, корейскей, кутшем, кык-суда</em>
 
 ### `DET`
 
@@ -99,6 +99,5 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="kpv_ikdp-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<tt><a href="kpv_ikdp-dep-det.html">det</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="kpv_ikdp-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (1; 100%).
 

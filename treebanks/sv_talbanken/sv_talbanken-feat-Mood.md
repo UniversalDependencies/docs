@@ -12,18 +12,18 @@ It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 9709 tokens (10%) have a non-empty value of `Mood`.
 1433 types (9%) occur at least once with a non-empty value of `Mood`.
 872 lemmas (8%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (5836; 6% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (3873; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (5835; 6% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (3874; 4% instances).
 
 ### `VERB`
 
-5836 <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> tokens (59% of all `VERB` tokens) have a non-empty value of `Mood`.
+5835 <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> tokens (59% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5836; 100%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4964; 85%), <tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4718; 81%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5835; 100%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4963; 85%), <tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4717; 81%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (198; 3% of non-empty `Mood`): <em>se, låt, ta, ge, jfr, kontrollera, Diskutera, kolla, Läs, byt</em>
-* `Ind` (5630; 96% of non-empty `Mood`): <em>har, finns, blir, får, är, gäller, ger, går, kommer, gör</em>
+* `Ind` (5629; 96% of non-empty `Mood`): <em>har, finns, blir, får, är, gäller, ger, går, kommer, gör</em>
 * `Sub` (8; 0% of non-empty `Mood`): <em>vare, vore, Gånge, finge</em>
 * `EMPTY` (4035): <em>få, ha, bli, göra, ge, ta, komma, gå, se, fått</em>
 
@@ -38,14 +38,14 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-3873 <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Mood`.
+3874 <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3873; 100%), <tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3873; 100%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3496; 90%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3874; 100%), <tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3874; 100%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3497; 90%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Imp` (1; 0% of non-empty `Mood`): <em>Varen</em>
-* `Ind` (3864; 100% of non-empty `Mood`): <em>är, kan, har, måste, skall, skulle, ska, kommer, var, får</em>
+* `Ind` (3865; 100% of non-empty `Mood`): <em>är, kan, har, måste, skall, skulle, ska, kommer, var, får</em>
 * `Sub` (8; 0% of non-empty `Mood`): <em>vore</em>
 * `EMPTY` (408): <em>vara, kunna, varit, få, ha, bli, kunnat, behöva, fått, kommit</em>
 

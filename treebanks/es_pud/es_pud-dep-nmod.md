@@ -31,7 +31,7 @@ The following 20 pairs of parts of speech are connected with `nmod`: <tt><a href
 7	$	$	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
 8	por	por	ADP	IN	_	9	case	_	_
 9	persona	persona	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	4	punct	_	_
+10	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 ~~~
 
@@ -42,7 +42,7 @@ The following 20 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 nmod	color:blue
-1	¿	¿	PUNCT	.	_	6	punct	_	SpaceAfter=No
+1	¿	¿	PUNCT	.	PunctSide=Ini|PunctType=Qest	6	punct	_	SpaceAfter=No
 2	Y	y	CCONJ	CC	_	6	discourse	_	_
 3	cuál	cuál	PRON	WP	Number=Sing|PronType=Int	6	nsubj	_	_
 4	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
@@ -50,7 +50,7 @@ The following 20 pairs of parts of speech are connected with `nmod`: <tt><a href
 6	postura	postura	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 7	de	de	ADP	IN	_	8	case	_	_
 8	Australia	Australia	PROPN	NNP	Number=Sing	6	nmod	_	SpaceAfter=No
-9	?	?	PUNCT	.	_	6	punct	_	_
+9	?	?	PUNCT	.	PunctSide=Fin|PunctType=Qest	6	punct	_	_
 
 ~~~
 
@@ -74,7 +74,7 @@ The following 20 pairs of parts of speech are connected with `nmod`: <tt><a href
 11	impuso	imponer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	en	en	ADP	IN	_	13	case	_	_
 13	Sahel	Sahel	PROPN	NNP	Number=Sing	11	obl	_	SpaceAfter=No
-14	.	.	PUNCT	.	_	11	punct	_	_
+14	.	.	PUNCT	.	PunctType=Peri	11	punct	_	_
 
 ~~~
 

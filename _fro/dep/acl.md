@@ -87,4 +87,4 @@ Old French uses a language-particular subtype `acl:relcl` for the traditional cl
 
 ~~~
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:29 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:12 CET -->

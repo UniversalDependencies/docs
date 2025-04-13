@@ -65,13 +65,13 @@ The following 24 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 17 orphan	color:blue
-1	זאבי	זאבי	PROPN	PROPN	_	2	nsubj	_	_
+1	זאבי	זאבי	PROPN	PROPN	_	2	nsubj	_	Entity=(PER)
 2	ניצח	ניצח	VERB	VERB	Gender=Masc|HebBinyan=PIEL|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 3	ב	ב	ADP	ADP	_	4	case	_	_
-4	ווזארי	ווזארי	NOUN	NOUN	Gender=Masc|Number=Sing	2	obl	_	_
+4	ווזארי	ווזארי	NOUN	NOUN	Gender=Masc|Number=Sing	2	obl	_	Entity=(GPE)
 5	את	את	ADP	ADP	_	6	case	_	_
-6	יוסבני	יוסבני	PROPN	PROPN	_	2	obj	_	_
-7	קסל	קסל	PROPN	PROPN	_	6	flat	_	_
+6	יוסבני	יוסבני	PROPN	PROPN	_	2	obj	_	Entity=(PER
+7	קסל	קסל	PROPN	PROPN	_	6	flat	_	Entity=PER)
 8	ה	ה	DET	DET	Definite=Def|PronType=Art	9	det	_	_
 9	קובני	קובני	ADJ	ADJ	Gender=Masc|Number=Sing	6	amod	_	_
 10	עם	עם	ADP	ADP	_	11	case	_	_
@@ -81,8 +81,8 @@ The following 24 pairs of parts of speech are connected with `orphan`: <tt><a hr
 14	ב	ב	ADP	ADP	_	15	case	_	_
 15	איפון	איפון	NOUN	NOUN	Gender=Masc|Number=Sing	2	conj	_	_
 16	את	את	ADP	ADP	_	17	case	_	_
-17	מריו	מריו	PROPN	PROPN	_	15	orphan	_	_
-18	סבינו	סבינו	PROPN	PROPN	_	17	flat	_	_
+17	מריו	מריו	PROPN	PROPN	_	15	orphan	_	Entity=(PER
+18	סבינו	סבינו	PROPN	PROPN	_	17	flat	_	Entity=PER)
 19	ה	ה	DET	DET	Definite=Def|PronType=Art	20	det	_	_
 20	ברזילאי	ברזילאי	ADJ	ADJ	Gender=Masc|Number=Sing	17	amod	_	_
 21	ו	ו	CCONJ	CCONJ	_	22	cc	_	_

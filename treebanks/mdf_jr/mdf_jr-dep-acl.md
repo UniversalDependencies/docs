@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="
 2	монь	мон	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	obj	_	GTtags=Pers,Sg1,Gen
 3	ёрат	ёрамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,ScSg2
 4	тиемс	тиемс	VERB	V	VerbForm=Inf	3	xcomp	_	GTtags=Inf
-5	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	6	aux:neg	_	GTtags=Aux,Neg
+5	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	6	aux	_	GTtags=Aux,Neg
 6	моли	молемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	7	acl	_	GTtags=Ind,Prs,ScSg3
 7	ярмакокс	ярмак	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	4	xcomp	_	GTtags=SP,Tra,Indef|SpaceAfter=No
 8	.	.	PUNCT	PUNCT	_	3	punct	_	_

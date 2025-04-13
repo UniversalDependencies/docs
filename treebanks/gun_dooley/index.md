@@ -12,15 +12,15 @@ udver: '2'
 # UD Mbya Guarani Dooley
 
 Language: [Mbya Guarani](/gun/index.html) (code: `gun`)<br/>
-Family: Tupian, Maweti-Guarani
+Family: Tupian
 
 This treebank has been part of Universal Dependencies since the UD v2.4 release.
 
 The following people have contributed to making this treebank part of UD: Guillaume Thomas.
 
 Repository: [UD_Mbya_Guarani-Dooley](https://github.com/UniversalDependencies/UD_Mbya_Guarani-Dooley)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgun_dooley214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgun_dooley215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 

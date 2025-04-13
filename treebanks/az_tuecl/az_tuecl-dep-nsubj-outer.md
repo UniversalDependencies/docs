@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 5	məsələ	məsələ	NOUN	_	_	12	nsubj:outer	_	_
 6	kitabxanada	kitabxana	NOUN	_	_	12	obl	_	_
 7	beş	beş	NUM	_	_	9	nummod	_	_
-8	dənə	dənə	DET	_	_	7	clf	_	_
+8	dənə	dənə	NOUN	_	_	7	nmod	_	_
 9	kitaba	kitab	NOUN	_	_	12	obl	_	_
 10	da	da	ADV	_	_	9	advmod:emph	_	_
 11	yer	yer	NOUN	_	_	12	nsubj	_	_

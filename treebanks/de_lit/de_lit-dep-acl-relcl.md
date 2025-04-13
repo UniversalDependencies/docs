@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="de_lit-dep-acl.html">acl</a></tt>.
 
-19 nodes (0%) are attached to their parents as `acl:relcl`.
+20 nodes (0%) are attached to their parents as `acl:relcl`.
 
-18 instances of `acl:relcl` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 10.8947368421053.
+19 instances of `acl:relcl` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 10.65.
 
-The following 7 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (9; 47% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (3; 16% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt> (2; 11% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (2; 11% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt> (1; 5% instances).
+The following 7 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (9; 45% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (4; 20% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt> (2; 10% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (2; 10% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt>-<tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -45,42 +45,41 @@ The following 7 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 11 acl:relcl	color:blue
-1	Für	für	ADP	APPR	_	2	case	_	_
-2	die	der	PRON	PDS	Case=Acc|PronType=Dem,Rel	30	obl	_	SpaceAfter=No
-3	,	,	PUNCT	$,	_	11	punct	_	_
-4	welche	welcher	DET	PRELS	Case=Nom|PronType=Int,Rel	11	nsubj	_	_
-5	auch	auch	ADV	ADV	_	11	advmod	_	_
-6	in	in	ADP	APPR	_	8	case	_	_
-7	die	der	DET	ART	Definite=Def|PronType=Art	8	det	_	_
-8	Gesellschaft	Gesellschaft	NOUN	NN	_	11	obl	_	_
-9	ihre	ihr	DET	PPOSAT	Person=3|Poss=Yes|PronType=Prs	10	det:poss	_	_
-10	Trägheit	Trägheit	NOUN	NN	Case=Acc	11	obj	_	_
-11	mitbringen	mitbringen	VERB	VVINF	_	2	acl:relcl	_	_
-12	und	und	CCONJ	KON	_	20	cc	_	_
-13	beiläufig	beiläufig	ADV	ADV	_	20	advmod	_	_
-14	gern	gern	ADV	ADV	_	20	advmod	_	_
-15	was	was	PRON	PWS	Case=Acc|Gender=Neut|Number=Sing|PronType=Int,Rel	19	obj	_	_
-16	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	_
-17	um	um	ADP	APPR	_	18	case	_	_
-18	sich	sich	PRON	PRF	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	19	obl	_	_
-19	sehn	sehen	VERB	VVINF	_	20	ccomp	_	_
-20	mustern	mustern	VERB	VVINF	_	11	conj	_	_
-21	und	und	CCONJ	KON	_	22	cc	_	_
-22	klassifizieren	klassifizieren	VERB	VVINF	_	20	conj	_	_
-23	möchten	mögen	AUX	VMFIN	_	20	aux	_	SpaceAfter=No
-24	,	,	PUNCT	$,	_	20	punct	_	_
-25	ist	sein	AUX	VAFIN	_	30	cop	_	_
-26	dies	dieser	DET	PDS	Case=Nom|PronType=Dem	30	nsubj	_	_
-27	freilich	freilich	ADV	ADV	_	30	advmod	_	_
-28	eine	ein	DET	ART	Definite=Ind|NumType=Card|PronType=Art	30	det	_	_
-29	bequeme	bequem	ADJ	ADJA	_	30	amod	_	_
-30	Eigenschaft	Eigenschaft	NOUN	NN	Case=Nom	0	root	_	SpaceAfter=No
-31	.	.	PUNCT	$.	_	30	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 14 acl:relcl	color:blue
+1	Die	der	DET	ART	Case=Acc|Definite=Def|PronType=Art	2	det	_	_
+2	Philosophie	Philosophie	NOUN	NN	Case=Acc	9	obj	_	_
+3	über	über	ADP	APPR	_	5	case	_	_
+4	einen	ein	DET	ART	Definite=Ind|NumType=Card|PronType=Art	5	det	_	_
+5	Gegenstand	Gegenstand	NOUN	NN	_	2	nmod	_	_
+6	kann	können	AUX	VMFIN	_	9	aux	_	_
+7	nur	nur	ADV	ADV	_	9	advmod	_	_
+8	der	der	PRON	PRELS	Case=Nom|PronType=Dem,Rel	9	nsubj	_	_
+9	brauchen	brauchen	VERB	VVINF	_	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	$,	_	9	punct	_	_
+11	der	der	PRON	PRELS	Case=Nom|PronType=Dem,Rel	14	nsubj	_	_
+12	den	der	DET	ART	Definite=Def|PronType=Art	13	det	_	_
+13	Gegenstand	Gegenstand	NOUN	NN	Case=Acc	14	obj	_	_
+14	kennt	kennen	VERB	VVFIN	_	8	acl:relcl	_	SpaceAfter=No
+15	,	,	PUNCT	$,	_	17	punct	_	_
+16	oder	oder	CCONJ	KON	_	17	cc	_	_
+17	hat	haben	AUX	VAFIN	_	14	conj	_	SpaceAfter=No
+18	;	;	PUNCT	$.	_	9	punct	_	_
+19	nur	nur	ADV	ADV	_	22	advmod	_	_
+20	der	der	PRON	PDS	Case=Nom|PronType=Dem,Rel	22	nsubj	_	_
+21	wird	werden	AUX	VAFIN	_	22	aux	_	_
+22	begreifen	begreifen	VERB	VVINF	_	9	conj	_	_
+23	können	können	AUX	VMINF	_	22	aux	_	SpaceAfter=No
+24	,	,	PUNCT	$,	_	22	punct	_	_
+25	was	was	PRON	PRELS	Case=Acc|Gender=Neut|Number=Sing|PronType=Int,Rel	27	obj	_	_
+26	sie	sie	PRON	PPER	Case=Nom|Person=3|PronType=Prs	27	nsubj	_	_
+27	will	wollen	AUX	VMFIN	_	22	ccomp	_	_
+28	und	und	CCONJ	KON	_	29	cc	_	_
+29	meint	meinen	VERB	VVFIN	_	27	conj	_	SpaceAfter=No
+30	.	.	PUNCT	$.	_	9	punct	_	_
 
 ~~~
 

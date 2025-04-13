@@ -26,7 +26,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 1	עם	עם	ADP	ADP	_	2	case	_	_
 2	זאת	זה	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	obl	_	SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	2	punct	_	_
-4	לא	לא	ADV	ADV	_	5	advmod	_	_
+4	לא	לא	ADV	ADV	Polarity=Neg	5	advmod	_	_
 5	ניתן	ניתן	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	_
 6	להעביר	העביר	VERB	VERB	HebBinyan=HIFIL|VerbForm=Inf|Voice=Act	5	csubj:pass	_	_
 7	רווחי	רווח	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	6	obj	_	_
@@ -81,8 +81,8 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 10	כוח	כוח	NOUN	NOUN	Gender=Masc|Number=Sing	5	csubj:pass	_	_
 11	ה	הוא	PRON	PRON	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
 12	של	של	ADP	ADP	Case=Gen	14	case	_	_
-13	ה	ה	DET	DET	Definite=Def|PronType=Art	14	det	_	_
-14	כנסת	כנסת	PROPN	PROPN	_	10	nmod:poss	_	_
+13	ה	ה	DET	DET	Definite=Def|PronType=Art	14	det	_	Entity=(ORG
+14	כנסת	כנסת	PROPN	PROPN	_	10	nmod:poss	_	Entity=ORG)
 15	לחוקק	חוקק	VERB	VERB	HebBinyan=PIEL|VerbForm=Inf|Voice=Act	10	csubj	_	_
 16	חוק	חוק	NOUN	NOUN	Gender=Masc|Number=Sing	15	obj	_	_
 17	אף	אף	ADV	ADV	_	22	mark	_	_

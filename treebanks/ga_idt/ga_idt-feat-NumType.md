@@ -37,5 +37,5 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="ga_idt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (11; 79%),
-<tt>NUM --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> NUM</tt> (9; 100%).
+<tt>NUM --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> NUM</tt> (8; 100%).
 

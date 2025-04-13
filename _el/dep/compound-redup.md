@@ -19,4 +19,4 @@ compound:redup(πάνω-2, πάνω-1)
 ~~~
 
 For lexicalized multi-word items with repetition, e.g. *τσίμα τσίμα* we use [fixed]().
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:57 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:39 CET -->

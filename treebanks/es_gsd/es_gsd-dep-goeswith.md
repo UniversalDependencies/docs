@@ -39,20 +39,20 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 15	de	de	ADP	_	_	17	case	_	_
 16	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 17	descendientes	descendiente	NOUN	_	Number=Plur	14	nmod	_	SpaceAfter=No
-18	:	:	PUNCT	_	_	21	punct	_	_
+18	:	:	PUNCT	_	PunctType=Colo	21	punct	_	_
 19	D	doña	NOUN	_	Abbr=Yes|Gender=Fem|Number=Sing|Typo=Yes	21	nmod	_	CorrectForm=Dª
 20	ª	_	X	_	_	19	goeswith	_	_
 21	Antonia	antonia	PROPN	_	_	17	appos	_	_
 22	Pérez	pérez	PROPN	_	_	21	flat	_	_
 23	Moreno	moreno	PROPN	_	_	21	flat	_	SpaceAfter=No
-24	,	,	PUNCT	_	_	25	punct	_	_
+24	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
 25	viuda	viuda	NOUN	_	Gender=Fem|Number=Sing	21	appos	_	_
 26	de	de	ADP	_	_	28	case	_	_
 27	D.	don	NOUN	_	Abbr=Yes|Gender=Masc|Number=Sing	28	nmod	_	_
 28	Rafael	rafael	PROPN	_	_	25	nmod	_	_
 29	Rodriguez	rodriguez	PROPN	_	_	28	flat	_	_
 30	Cantos	cantos	PROPN	_	_	28	flat	_	SpaceAfter=No
-31	.	.	PUNCT	_	_	4	punct	_	_
+31	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 ~~~
 

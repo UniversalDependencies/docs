@@ -64,6 +64,13 @@ punct(Rock, "-5)
 The scope of `flat` may extend beyond names of persons to names of other kinds of entities that depart from general headed structure.
 The expressions under this category must be established by language-specific criteria.
 
+The [ExtPos]() feature may be used to signal the external syntactic distribution of the flat expression—e.g., `ExtPos=PROPN` for _17_ in:
+
+~~~ sdparse
+17/NUM[ExtPos=PROPN] Across/ADV is wrong in this crossword .
+flat(17, Across)
+~~~
+
 ### Flat vs. non-flat names
 
 <!-- NO LONGER (NECESSARILY) FLAT - MISCHIEVOUS NOMINALS:
@@ -357,4 +364,4 @@ Not all “unnecessary” spaces warrant `flat`, however:
 - numerals with thousands separator spaces (e.g. _1 000 000_) [may be treated as single words](/u/overview/tokenization.html) in languages where this convention is widespread
 
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:14 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:55 CET -->

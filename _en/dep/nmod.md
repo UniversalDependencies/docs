@@ -49,7 +49,18 @@ case(president, of-3)
 det(president, the-4)
 ~~~
 
-Prepositionless, non-possessive nominals serving as adnominal modifiers
+Prepositionless, non-possessive nominals functioning as titles or other modifiers of a name
+are tagged with the subtyped relation [nmod:desc]():
+
+~~~ sdparse
+Professor/NOUN Charles/PROPN J./PROPN Fillmore/PROPN , Ph.D./PROPN
+nmod:desc(Charles, Professor)
+flat(Charles, J.)
+flat(Charles, Fillmore)
+nmod:desc(Charles, Ph.D.)
+~~~
+
+Other prepositionless, non-possessive nominals serving as adnominal modifiers
 are tagged with the subtyped relation [nmod:unmarked]():
 
 ~~~ sdparse
@@ -57,4 +68,5 @@ IBM earned $ 5 a share
 nmod:unmarked($, share)
 ~~~
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:20 CEST -->
+
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:02 CET -->

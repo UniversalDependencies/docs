@@ -56,6 +56,8 @@ The most frequent other feature values with which `PART` and `Style` co-occurred
 
 8 <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> tokens (0% of all `INTJ` tokens) have a non-empty value of `Style`.
 
+The most frequent other feature values with which `INTJ` and `Style` co-occurred: <tt><a href="en_gum-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8; 100%).
+
 `INTJ` tokens may have the following values of `Style`:
 
 * `Expr` (8; 100% of non-empty `Style`): <em>hmm, Hmmm, Wow-eee, eee</em>

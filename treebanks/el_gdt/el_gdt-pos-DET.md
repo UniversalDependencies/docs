@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Greek-GDT: POS Tags: `DET`
 
-There are 17 `DET` lemmas (0%), 82 `DET` types (1%) and 12121 `DET` tokens (19%).
+There are 17 `DET` lemmas (0%), 82 `DET` types (1%) and 12119 `DET` tokens (19%).
 Out of 16 observed tags, the rank of `DET` is: 11 in number of lemmas, 9 in number of types and 2 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>ο, ένας, αυτός, άλλος, κάθε, τέτοιος, κάποιος, κανένας, οποιοσδήποτε, αρκετός</em>
 
 The 10 most frequent `DET` types:  <em>την, το, της, η, του, των, τη, τις, τα, ο</em>
 
-The 10 most frequent ambiguous lemmas: <em>ένας</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 473, <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> 51, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 6, <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> 2), <em>αυτός</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 360, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 198), <em>άλλος</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 88, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 33), <em>τέτοιος</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 27, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 1), <em>κάποιος</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 26, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 10), <em>κανένας</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 22, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 18), <em>οποιοσδήποτε</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 13, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 1), <em>αρκετός</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 10, <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> 5), <em>μερικοί</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 9, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 5), <em>εκείνος</em> (<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 12, <tt><a href="el_gdt-pos-DET.html">DET</a></tt> 6)
+The 10 most frequent ambiguous lemmas: <em>ένας</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 473, <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> 51, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 6, <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> 2), <em>αυτός</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 358, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 200), <em>άλλος</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 88, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 33), <em>τέτοιος</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 27, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 1), <em>κάποιος</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 26, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 10), <em>κανένας</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 22, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 18), <em>οποιοσδήποτε</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 13, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 1), <em>αρκετός</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 10, <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> 5), <em>μερικοί</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 9, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 5), <em>εκείνος</em> (<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 12, <tt><a href="el_gdt-pos-DET.html">DET</a></tt> 6)
 
 The 10 most frequent ambiguous types:  <em>την</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 1716, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 24), <em>το</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 1446, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 49), <em>της</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 1199, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 119), <em>του</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 910, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 145), <em>τη</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 687, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 3), <em>τις</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 594, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 5), <em>τα</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 561, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 8), <em>τον</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 456, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 9), <em>τους</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 282, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 192), <em>μια</em> (<tt><a href="el_gdt-pos-DET.html">DET</a></tt> 145, <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> 8, <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> 1)
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>την</em> (<tt><a href="el_gdt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 4.823529 (the average of all parts of speech is 1.783022).
+The form / lemma ratio of `DET` is 4.823529 (the average of all parts of speech is 1.783262).
 
 The 1st highest number of forms (15) was observed with the lemma “ο”: <em>O, η, ο, οι, τα, τη, την, της, τις, το, τον, του, τους, τω, των</em>.
 
@@ -60,7 +60,7 @@ The 2nd highest number of forms (13) was observed with the lemma “άλλος�
 
 The 3rd highest number of forms (12) was observed with the lemma “αυτός”: <em>αυτά, αυτές, αυτή, αυτήν, αυτής, αυτοί, αυτού, αυτούς, αυτό, αυτόν, αυτός, αυτών</em>.
 
-`DET` occurs with 6 features: <tt><a href="el_gdt-feat-Case.html">Case</a></tt> (12121; 100% instances), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt> (12121; 100% instances), <tt><a href="el_gdt-feat-Number.html">Number</a></tt> (12121; 100% instances), <tt><a href="el_gdt-feat-PronType.html">PronType</a></tt> (10453; 86% instances), <tt><a href="el_gdt-feat-Definite.html">Definite</a></tt> (9847; 81% instances), <tt><a href="el_gdt-feat-Person.html">Person</a></tt> (606; 5% instances)
+`DET` occurs with 6 features: <tt><a href="el_gdt-feat-Case.html">Case</a></tt> (12119; 100% instances), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt> (12119; 100% instances), <tt><a href="el_gdt-feat-Number.html">Number</a></tt> (12119; 100% instances), <tt><a href="el_gdt-feat-PronType.html">PronType</a></tt> (10451; 86% instances), <tt><a href="el_gdt-feat-Definite.html">Definite</a></tt> (9847; 81% instances), <tt><a href="el_gdt-feat-Person.html">Person</a></tt> (604; 5% instances)
 
 `DET` occurs with 17 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=3`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Ind,Rel`, `PronType=Rel`
 
@@ -71,19 +71,17 @@ Examples: <em>την, τη, τον/την</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 3 different relations: <tt><a href="el_gdt-dep-det.html">det</a></tt> (12114; 100% instances), <tt><a href="el_gdt-dep-amod.html">amod</a></tt> (6; 0% instances), <tt><a href="el_gdt-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 3 different relations: <tt><a href="el_gdt-dep-det.html">det</a></tt> (12112; 100% instances), <tt><a href="el_gdt-dep-amod.html">amod</a></tt> (6; 0% instances), <tt><a href="el_gdt-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 8 different parts of speech: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (9591; 79% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (1280; 11% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt> (417; 3% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (383; 3% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (264; 2% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (143; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (23; 0% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (20; 0% instances)
+Parents of `DET` nodes belong to 8 different parts of speech: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (9594; 79% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (1276; 11% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt> (417; 3% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (382; 3% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (264; 2% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (143; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (23; 0% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (20; 0% instances)
 
 12116 (100%) `DET` nodes are leaves.
 
-4 (0%) `DET` nodes have one child.
+3 (0%) `DET` nodes have one child.
 
-1 (0%) `DET` nodes have two children.
+The highest child degree of a `DET` node is 1.
 
-The highest child degree of a `DET` node is 2.
+Children of `DET` nodes are attached using 2 different relations: <tt><a href="el_gdt-dep-advmod.html">advmod</a></tt> (2; 67% instances), <tt><a href="el_gdt-dep-conj.html">conj</a></tt> (1; 33% instances)
 
-Children of `DET` nodes are attached using 4 different relations: <tt><a href="el_gdt-dep-advmod.html">advmod</a></tt> (2; 33% instances), <tt><a href="el_gdt-dep-case.html">case</a></tt> (2; 33% instances), <tt><a href="el_gdt-dep-conj.html">conj</a></tt> (1; 17% instances), <tt><a href="el_gdt-dep-nmod.html">nmod</a></tt> (1; 17% instances)
-
-Children of `DET` nodes belong to 4 different parts of speech: <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (2; 33% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (2; 33% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (1; 17% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (1; 17% instances)
+Children of `DET` nodes belong to 2 different parts of speech: <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (2; 67% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (1; 33% instances)
 

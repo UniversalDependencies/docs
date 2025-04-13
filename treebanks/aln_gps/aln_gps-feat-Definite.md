@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-2523 tokens (16%) have a non-empty value of `Definite`.
-726 types (28%) occur at least once with a non-empty value of `Definite`.
-263 lemmas (27%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 3 part-of-speech tags: <tt><a href="aln_gps-pos-NOUN.html">NOUN</a></tt> (2448; 15% instances), <tt><a href="aln_gps-pos-DET.html">DET</a></tt> (65; 0% instances), <tt><a href="aln_gps-pos-ADJ.html">ADJ</a></tt> (10; 0% instances).
+2522 tokens (16%) have a non-empty value of `Definite`.
+725 types (28%) occur at least once with a non-empty value of `Definite`.
+262 lemmas (27%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 3 part-of-speech tags: <tt><a href="aln_gps-pos-NOUN.html">NOUN</a></tt> (2447; 15% instances), <tt><a href="aln_gps-pos-DET.html">DET</a></tt> (65; 0% instances), <tt><a href="aln_gps-pos-ADJ.html">ADJ</a></tt> (10; 0% instances).
 
 ### `NOUN`
 
-2448 <tt><a href="aln_gps-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Definite`.
+2447 <tt><a href="aln_gps-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="aln_gps-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1750; 71%), <tt><a href="aln_gps-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1440; 59%), <tt><a href="aln_gps-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1381; 56%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="aln_gps-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1749; 71%), <tt><a href="aln_gps-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1440; 59%), <tt><a href="aln_gps-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1381; 56%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
 * `Def` (1144; 47% of non-empty `Definite`): <em>dardhat, da:rdhat, djali, djemt, dardha:t, kapuqin, rru:gës, burri, kapelen, rru:gën</em>
-* `Ind` (1304; 53% of non-empty `Definite`): <em>da:rdha, dardha, djem, korp, djal, dardh, dardha:, bicikell, tok, bicikle:t</em>
-* `EMPTY` (25): <em>birne, kappe, baum, belo:nig, bode, djali, djel, fi:lmi, filmit, jungs</em>
+* `Ind` (1303; 53% of non-empty `Definite`): <em>da:rdha, dardha, djem, korp, djal, dardh, dardha:, bicikell, tok, bicikle:t</em>
+* `EMPTY` (26): <em>birne, kappe, baum, belo:nig, bode, cowboy, djali, djel, fi:lmi, filmit</em>
 
 <table>
   <tr><th>Paradigm <i>dardhë</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -81,7 +81,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="aln_gps-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (155; 67%),
+<tt>NOUN --[<tt><a href="aln_gps-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (154; 67%),
 <tt>NOUN --[<tt><a href="aln_gps-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (31; 78%),
 <tt>NOUN --[<tt><a href="aln_gps-dep-conj.html">conj</a></tt>]--> NOUN</tt> (21; 81%),
 <tt>NOUN --[<tt><a href="aln_gps-dep-obl.html">obl</a></tt>]--> NOUN</tt> (9; 56%),

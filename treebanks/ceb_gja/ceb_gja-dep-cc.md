@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (1%) are attached to their parents as `cc`.
+11 nodes (1%) are attached to their parents as `cc`.
 
-9 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.55555555555556.
+11 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.45454545454545.
 
-The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-CCONJ.html">CCONJ</a></tt> (5; 56% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-CCONJ.html">CCONJ</a></tt> (2; 22% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-CCONJ.html">CCONJ</a></tt> (1; 11% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-CCONJ.html">CCONJ</a></tt> (1; 11% instances).
+The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-CCONJ.html">CCONJ</a></tt> (5; 45% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-CCONJ.html">CCONJ</a></tt> (2; 18% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-CCONJ.html">CCONJ</a></tt> (2; 18% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-CCONJ.html">CCONJ</a></tt> (2; 18% instances).
 
 
 ~~~ conllu
@@ -40,25 +40,6 @@ The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="c
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 cc	color:blue
-1	Nagkitaay	kita	VERB	_	Aspect=Perf|Mood=Ind|Neutral=Yes|Voice=Act	0	root	_	Gloss=meet.each.other
-2	si	si	ADP	_	Case=Nom	3	case	_	_
-3	Pedro	Pedro	PROPN	_	Gender=Masc	1	nsubj	_	Gloss=Pedro
-4	ug	ug	CCONJ	_	_	6	cc	_	Gloss=and
-5	si	si	ADP	_	Case=Nom	6	case	_	_
-6	Juan	Juan	PROPN	_	Gender=Masc	3	conj	_	Gloss=Juan
-7	sa	sa	ADP	_	Case=Dat	8	case	_	Gloss=in.the
-8	dalan	dalan	NOUN	_	_	1	obl	_	Gloss=street|SpaceAfter=No
-9	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
-~~~
-
-
-~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 9	bgColor:blue
@@ -74,6 +55,25 @@ The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="c
 8	ug	ug	CCONJ	_	_	9	cc	_	Gloss=and
 9	gwapo	gwapo	ADJ	_	Degree=Pos|Gender=Masc	7	conj	_	Gloss=handsome|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 cc	color:blue
+1	Ang	ang	ADP	_	Case=Nom	2	case	_	Gloss=the
+2	bata	bata	NOUN	_	_	6	nsubj	_	Gloss=boy
+3	ug	ug	CCONJ	_	_	5	cc	_	Gloss=and
+4	ang	ang	ADP	_	Case=Nom	5	case	_	Gloss=the
+5	iro	iro	NOUN	_	_	2	conj	_	Gloss=dog
+6	nagtan-aw	tan-aw	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=are.looking
+7	sa	sa	ADP	_	Case=Gen	8	case	_	Gloss=at.the
+8	baki	baki	NOUN	_	_	6	obj	_	Gloss=frog|SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
 ~~~
 

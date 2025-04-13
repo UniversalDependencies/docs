@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Marília Fernanda, Sidney Facundes, Bruna Lima Padovani, Jack Rueter, Niko Partanen.
 
 Repository: [UD_Apurina-UFPA](https://github.com/UniversalDependencies/UD_Apurina-UFPA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udapu_ufpa214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udapu_ufpa215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -83,7 +83,7 @@ Finite-State Transistor development:
 
 ## Relations
 
-[acl](apu_ufpa-dep-acl.html) – [acl:relcl](apu_ufpa-dep-acl-relcl.html) – [advcl](apu_ufpa-dep-advcl.html) – [advcl:tcl](apu_ufpa-dep-advcl-tcl.html) – [advmod](apu_ufpa-dep-advmod.html) – [advmod:lmod](apu_ufpa-dep-advmod-lmod.html) – [advmod:neg](apu_ufpa-dep-advmod-neg.html) – [advmod:tmod](apu_ufpa-dep-advmod-tmod.html) – [appos](apu_ufpa-dep-appos.html) – [aux](apu_ufpa-dep-aux.html) – [aux:exhort](apu_ufpa-dep-aux-exhort.html) – [case](apu_ufpa-dep-case.html) – [cc](apu_ufpa-dep-cc.html) – [ccomp](apu_ufpa-dep-ccomp.html) – [compound](apu_ufpa-dep-compound.html) – [conj](apu_ufpa-dep-conj.html) – [cop](apu_ufpa-dep-cop.html) – [csubj](apu_ufpa-dep-csubj.html) – [dep](apu_ufpa-dep-dep.html) – [det](apu_ufpa-dep-det.html) – [discourse](apu_ufpa-dep-discourse.html) – [dislocated](apu_ufpa-dep-dislocated.html) – [iobj](apu_ufpa-dep-iobj.html) – [list](apu_ufpa-dep-list.html) – [mark](apu_ufpa-dep-mark.html) – [nmod](apu_ufpa-dep-nmod.html) – [nmod:poss](apu_ufpa-dep-nmod-poss.html) – [nsubj](apu_ufpa-dep-nsubj.html) – [nsubj:cop](apu_ufpa-dep-nsubj-cop.html) – [nummod](apu_ufpa-dep-nummod.html) – [obj](apu_ufpa-dep-obj.html) – [obj:agent](apu_ufpa-dep-obj-agent.html) – [obl](apu_ufpa-dep-obl.html) – [obl:lmod](apu_ufpa-dep-obl-lmod.html) – [obl:tmod](apu_ufpa-dep-obl-tmod.html) – [punct](apu_ufpa-dep-punct.html) – [root](apu_ufpa-dep-root.html) – [vocative](apu_ufpa-dep-vocative.html) – [xcomp](apu_ufpa-dep-xcomp.html)
+[acl](apu_ufpa-dep-acl.html) – [acl:relcl](apu_ufpa-dep-acl-relcl.html) – [advcl](apu_ufpa-dep-advcl.html) – [advcl:tcl](apu_ufpa-dep-advcl-tcl.html) – [advmod](apu_ufpa-dep-advmod.html) – [advmod:lmod](apu_ufpa-dep-advmod-lmod.html) – [advmod:tmod](apu_ufpa-dep-advmod-tmod.html) – [appos](apu_ufpa-dep-appos.html) – [aux](apu_ufpa-dep-aux.html) – [aux:exhort](apu_ufpa-dep-aux-exhort.html) – [case](apu_ufpa-dep-case.html) – [cc](apu_ufpa-dep-cc.html) – [ccomp](apu_ufpa-dep-ccomp.html) – [compound](apu_ufpa-dep-compound.html) – [conj](apu_ufpa-dep-conj.html) – [cop](apu_ufpa-dep-cop.html) – [csubj](apu_ufpa-dep-csubj.html) – [dep](apu_ufpa-dep-dep.html) – [det](apu_ufpa-dep-det.html) – [discourse](apu_ufpa-dep-discourse.html) – [dislocated](apu_ufpa-dep-dislocated.html) – [iobj](apu_ufpa-dep-iobj.html) – [list](apu_ufpa-dep-list.html) – [mark](apu_ufpa-dep-mark.html) – [nmod](apu_ufpa-dep-nmod.html) – [nmod:poss](apu_ufpa-dep-nmod-poss.html) – [nsubj](apu_ufpa-dep-nsubj.html) – [nsubj:cop](apu_ufpa-dep-nsubj-cop.html) – [nummod](apu_ufpa-dep-nummod.html) – [obj](apu_ufpa-dep-obj.html) – [obj:agent](apu_ufpa-dep-obj-agent.html) – [obl](apu_ufpa-dep-obl.html) – [obl:lmod](apu_ufpa-dep-obl-lmod.html) – [obl:tmod](apu_ufpa-dep-obl-tmod.html) – [punct](apu_ufpa-dep-punct.html) – [root](apu_ufpa-dep-root.html) – [vocative](apu_ufpa-dep-vocative.html) – [xcomp](apu_ufpa-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -184,7 +184,7 @@ Finite-State Transistor development:
   <li>Masc
     <ul>
       <li>DET: iia, iie, kaiãapukury</li>
-      <li>NOUN: ximaky, awiri, yky, kyky, kãkity, kãkiti, ãkiti, ũty, ithupa, iãkynytikinhi</li>
+      <li>NOUN: ximaky, aapuku, awiri, yky, kyky, kãkity, aapukutxi, kãkiti, ãkiti, ũty</li>
       <li>NUM: ãty</li>
       <li>PRON: ywa, Kiripa, Ywã, ywamunhi</li>
       <li>PROPN: Kirama, Syrywyny, Tutupary, Txiiakatxi</li>
@@ -210,7 +210,7 @@ Finite-State Transistor development:
 <ul>
   <li>Sing
     <ul>
-      <li>NOUN: ximaky, awiri, yky, kyky, ãkiti, ũty, nynyru, pynyru, pyry, ãputa</li>
+      <li>NOUN: ximaky, awiri, yky, aapuku, kyky, aapukutxi, ãkiti, ũty, nynyru, pynyru</li>
       <li>PRON: ywa, uwa, nuta, pitha, Ywã, ywamunhi</li>
       <li>PROPN: Kamĩkiu, Kanaiapa, Kirama, Syrywyny, Tutupary, Txiiakatxi</li>
     </ul>
@@ -253,7 +253,7 @@ Finite-State Transistor development:
 <ul>
   <li>Nom
     <ul>
-      <li>NOUN: ximaky, awiri, yky, kyky, ãkiti, ũty, nynyru, pynyru, pyry, tiitxi</li>
+      <li>NOUN: ximaky, aapuku, awiri, yky, kyky, aapukutxi, ãkiti, ũty, nynyru, pynyru</li>
       <li>NUM: Ipi, Ãty</li>
       <li>PRON: ywa, nynuwa, uwa, nuta, pitha</li>
       <li>PROPN: Kamĩkiu, Kanaiapa, Kirama, Syrywyny, Tutupary, Txiiakatxi</li>
@@ -284,7 +284,7 @@ Finite-State Transistor development:
 <ul>
   <li>Neg
     <ul>
-      <li>PART: kuna</li>
+      <li>PART: kuna, kene</li>
     </ul>
   </li>
 </ul>
@@ -372,7 +372,7 @@ Finite-State Transistor development:
 <ul>
   <li>Fem
     <ul>
-      <li>NOUN: Ukywyxikeru, Utukuryte, ukinhiã, uparĩka, ũaapuku, ũimiakury, ũtanyrykata</li>
+      <li>NOUN: Ukywyxikeru, Utukuryte, ukinhiã, uparĩka, ũaapuku, ũimiakury, ũtanyrykata, ũãapuku</li>
     </ul>
   </li>
 </ul>
@@ -380,7 +380,7 @@ Finite-State Transistor development:
 <ul>
   <li>Masc
     <ul>
-      <li>NOUN: iãkynytikinhi, Yẽrẽkatikinhi, aapukutxiã, apy, arẽka, awinhi, iserẽkana, iãkynykata, uky, yky</li>
+      <li>NOUN: aapuku, iãkynytikinhi, aapukumunhi, aapukutxiã, Yẽrẽkatikinhi, aapukutxi, apy, arẽka, awinhi, iserẽkana</li>
     </ul>
   </li>
 </ul>
@@ -400,7 +400,7 @@ Finite-State Transistor development:
 <ul>
   <li>Sing
     <ul>
-      <li>NOUN: nynyru, pynyru, pyry, nyry, Nhithary, Ukywyxikeru, Utukuryte, Yẽrẽkatikinhi, aapukutxiã, apy</li>
+      <li>NOUN: aapuku, nynyru, pynyru, pyry, aapukumunhi, aapukutxiã, nyry, Nhithary, Ukywyxikeru, Utukuryte</li>
     </ul>
   </li>
 </ul>
@@ -597,7 +597,7 @@ Finite-State Transistor development:
       </li>
       <li>Yes
         <ul>
-          <li>NOUN: nynyru, pynyru, pyry, aapuku, nyry, yky, Nhithary, Ukywyxikeru, Utukuryte, Yẽrẽkatikinhi</li>
+          <li>NOUN: aapuku, nynyru, pynyru, pyry, aapukumunhi, nyry, yky, Nhithary, Ukywyxikeru, Utukuryte</li>
         </ul>
       </li>
     </ul>
@@ -637,8 +637,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (48)</li>
-      <li>VERB--NOUN-Nom (26)</li>
+      <li>VERB--NOUN (45)</li>
+      <li>VERB--NOUN-Nom (29)</li>
       <li>VERB--PRON (8)</li>
       <li>VERB--PRON-Nom (48)</li>
       <li>VERB-Vnoun--NOUN-Nom (1)</li>
@@ -649,8 +649,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (50)</li>
-      <li>VERB--NOUN-Nom (29)</li>
+      <li>VERB--NOUN (46)</li>
+      <li>VERB--NOUN-Nom (33)</li>
       <li>VERB--PRON (2)</li>
       <li>VERB--PRON-Nom (1)</li>
       <li>VERB-Conv--NOUN-Nom (1)</li>
@@ -674,6 +674,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advcl:tcl</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:exhort</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>obj:agent</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>advcl:tcl</a>, <a>advmod:lmod</a>, <a>advmod:tmod</a>, <a>aux:exhort</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>obj:agent</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
 <li>The following 9 relation types are not used in this corpus at all: <a>expl</a>, <a>amod</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

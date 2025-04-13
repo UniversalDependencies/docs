@@ -15,7 +15,7 @@ MISC feature to facilitate reconstruction of original (pre-tokenization) text.
 
 ## Transliteration
 
-In the original PROIEL annotation of the Classical Armenian Gospels (following the underlying Künzle 1984 edition of the text), the lemmas and wordforms are given in transliteration. The CAVaL treebank uses the original Armenian spelling in the FORM and LEMMA fields, whereas an adjusted transliteration is given in the MISC features `Translit=` (for forms) and `LTranslit=` (for lemmas). The transliteration equivalents (based on on the transliteration system accepted in the _Revue des Études Arméniennes_) and their conventional phonetic values based on the traditional pronounciation of Classical Armenian are given in the table below.
+In the original PROIEL annotation of the Classical Armenian Gospels (following the underlying Künzle 1984 edition of the text), the lemmas and wordforms are given in transliteration. The CAVaL treebank uses the original Armenian spelling in the FORM and LEMMA fields, whereas an adjusted transliteration is given in the MISC features `Translit=` (for forms) and `LTranslit=` (for lemmas). The transliteration equivalents (based on the transliteration system accepted in the _Revue des Études Arméniennes_) and their conventional phonetic values based on the traditional pronounciation of Classical Armenian are given in the table below.
 
 
 | Form | Transliteration | IPA |
@@ -66,5 +66,5 @@ In the original PROIEL annotation of the Classical Armenian Gospels (following t
 
 The following MISC features give additional information on the lemmas.
 
-* `LId` is a unique identifier of the dictionary entry, used with homonyms. It is the lemma itself, followed by a hyphen and a numeric identifier. Example: մի-1.
-* `Gloss` feature contains an English translation of the lemma. The English glosses are based on those used in the electronic concordance of the Armenian Bible issued as part of the Arak29 Project (https://arak29.org/bible/book/index_w_az.htm, https://bible.armeniancathedral.org/).
+* `LId` is a unique identifier of the dictionary entry, used with homonyms. It only applies to words with coinciding values of the LEMMA and UPOS fields. The value of the `LId` field contains the lemma followed by a hyphen and a numeric identifier. Example: *մի-1*.
+* `Gloss` feature contains an English translation of the lemma. The English glosses are adapted from those used in the electronic concordance of the Armenian Bible issued as part of the Arak29 Project (https://arak29.org/bible/book/index_w_az.htm, https://bible.armeniancathedral.org/).

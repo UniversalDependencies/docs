@@ -10,23 +10,23 @@ This feature is universal.
 It occurs with 9 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Rel`, `Tot`.
 
 11549 tokens (12%) have a non-empty value of `PronType`.
-166 types (1%) occur at least once with a non-empty value of `PronType`.
+167 types (1%) occur at least once with a non-empty value of `PronType`.
 57 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (6672; 7% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (4877; 5% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (6673; 7% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (4876; 5% instances).
 
 ### `PRON`
 
-6672 <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+6673 <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sv_talbanken-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5969; 89%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4263; 64%), <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4059; 61%), <tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3656; 55%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sv_talbanken-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5970; 89%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4262; 64%), <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4060; 61%), <tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3656; 55%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (188; 3% of non-empty `PronType`): <em>detta, dessa, denna, denne, dennes, dessas</em>
-* `Ind` (915; 14% of non-empty `PronType`): <em>man, andra, många, något, någon, mycket, detsamma, fler, några, annat</em>
-* `Int` (121; 2% of non-empty `PronType`): <em>vad, vem, vilka, vilken, vilket, Vems</em>
+* `Ind` (916; 14% of non-empty `PronType`): <em>man, andra, många, något, någon, mycket, detsamma, fler, några, annat</em>
+* `Int` (122; 2% of non-empty `PronType`): <em>vad, vem, vilka, vilken, vilket, Vems</em>
 * `Neg` (32; 0% of non-empty `PronType`): <em>ingen, ingenting, inget, inga, ingendera</em>
-* `Prs` (4089; 61% of non-empty `PronType`): <em>det, de, sig, vi, den, du, sin, dem, han, sina</em>
+* `Prs` (4088; 61% of non-empty `PronType`): <em>det, de, sig, vi, den, du, sin, dem, han, sina</em>
 * `Rcp` (43; 1% of non-empty `PronType`): <em>varandra, varann, varandras</em>
 * `Rel` (1178; 18% of non-empty `PronType`): <em>som, vilket, vilka, vars, vilken, något, vilkas, man, Vad</em>
 * `Tot` (106; 2% of non-empty `PronType`): <em>alla, var, allt, båda, allting, vart, bägge, bådadera, samtliga, vem</em>
@@ -38,13 +38,13 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-4877 <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+4876 <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3844; 79%), <tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (2576; 53%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2558; 52%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3843; 79%), <tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (2575; 53%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2558; 52%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (3879; 80% of non-empty `PronType`): <em>en, den, ett, de, det, the, dom</em>
+* `Art` (3878; 80% of non-empty `PronType`): <em>en, den, ett, de, det, the, dom</em>
 * `Dem` (316; 6% of non-empty `PronType`): <em>denna, dessa, detta</em>
 * `Ind` (190; 4% of non-empty `PronType`): <em>någon, några, något, var, varje, alla, inget, nån, vartannat</em>
 * `Int` (71; 1% of non-empty `PronType`): <em>vilka, vilken, vilket</em>
@@ -63,7 +63,6 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> PRON</tt> (10; 77%),
 <tt>DET --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> DET</tt> (4; 100%),
 <tt>PRON --[<tt><a href="sv_talbanken-dep-acl-relcl.html">acl:relcl</a></tt>]--> PRON</tt> (2; 100%).
 

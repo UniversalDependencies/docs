@@ -40,4 +40,20 @@ The subject of the verb is affected by the action (patient). The doer (agent) is
 
 * _ბავშვი <b>დაიბადა</b> ჯანმრთელი._ 'The child has been born healthy.'
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:28 CEST -->
+### <a name="Cau">`Cau`</a>: causative voice
+
+Marks the causative alteration of verb forms.
+
+#### Examples
+
+* _ფულს <b>გაგაკეთებინებ</b>._ 'I will make you earn money.'
+
+### <a name="Inv">`Inv`</a>: inverted voice
+
+Used for two-place verba sentiendi and similar verbs, in which the experiencer (agent) is marked with the Dative case and receives the `nsubj` relation, whereas the patient/recipient is marked with the Nominative and receives the `obj` relation (inverted syntax). Those verbs often translate to transitive constructions in other langues (‘X has/likes/hears Y’), but are not prototypically transitive. In Tschenkéli’s classification, those verbs are ‘Inverted verbs’ (class IV).
+
+#### Examples
+
+* _გოგონას დედა <b>უყვარს</b>._ 'The little girl loves her mother.'
+
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:11 CET -->

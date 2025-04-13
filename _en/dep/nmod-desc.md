@@ -5,22 +5,39 @@ shortdef : 'descriptor modifier in nominal'
 udver: '2'
 ---
 
-** PROPOSAL DRAFT **
+** IMPLEMENTATION IN PROGRESS **
 
 This relation subtype applies to nominal modifiers that we term __descriptors__.
-These are nominals that premodify a name or identifier, adding categorical information
-about the referent. Descriptors are determinerless modifiers, in which respect they are distinguished
-from appositives (the [appos]() relation holds between two *full* nominals).
-They may, however, be pluralized, and typically modify a proper name or identifier rather than a category noun,
-which distinguishes them from typical noun compound modifiers.
+These are bare nominals that occur in or with a name, and are not prepositional/possessive
+or part of the English compound construction.
+For [personal names](#personal-names), titles and role descriptions are a prime example.
+[Business names](#business-names) may include descriptors like _Inc._
+Semantically, a descriptor assigns a referent to a class or may disambiguate the referent
+where the main part of a proper name is not a sufficiently unique identifier.
+Crucially, omitting the descriptor does not affect the grammaticality of the expression
+(and does not come across as an abbreviation of the full name).
 
-One descriptor construction is the premodification of a personal name with a (determinerless) role or title:
+Descriptors are bare modifiers (i.e. the descriptor noun lacks a determiner, possessive, or numeral).
+This distinguishes them from appositives: the [appos]() relation holds between two *full* nominals.
+In principle, descriptors are a special case of [nmod:unmarked]().
+
+## Personal Names
+
+One descriptor construction is the pre- or postmodification of a personal name with a (bare nominal) role or title:
+
+** NOTE: we need to standardize UPOS. [SYM]() says that Dr. and Mr. are NOUN but in English treebanks they are predominantly PROPN. **
 
 ~~~ sdparse
-Professor Charles J. Fillmore
+Mr./NOUN Magoo/PROPN
+nmod:desc(Magoo, Mr.)
+~~~
+
+~~~ sdparse
+Professor/NOUN Charles/PROPN J./PROPN Fillmore/PROPN , Ph.D./PROPN
 nmod:desc(Charles, Professor)
 flat(Charles, J.)
 flat(Charles, Fillmore)
+nmod:desc(Charles, Ph.D.)
 ~~~
 
 ~~~ sdparse
@@ -39,134 +56,121 @@ nmod:desc(Ron, friend)
 flat(Ron, Klain)
 ~~~
 
-Certain name patterns (for places, textual units, etc.) incorporate a descriptor that clarifies the entity type.
+A descriptor must be omissible, but not all omissible parts of a name are descriptors:
+if the main part of a name has multiple parts such that there are at least two plausible heads,
+[flat]() is the appropriate choice, as is the case with the main parts of a personal name.
+
+Non-numeric generational suffixes are also `nmod:desc`
+(but see [Numbered Entities](#numbered-entities) below):
 
 ~~~ sdparse
-Lake Mead
-nmod:desc(Mead, Lake)
+JFK/PROPN Jr./PROPN
+nmod:desc(JFK, Jr.)
 ~~~
 
-## Numbered Entities
+## Business Names
 
-When an entity is identified by a number, it commonly follows an entity type that underscores the referring
-(rather than quantifying) function of the number:
+Corporate suffixes like _Inc._, _Corp._, and _LLC_ (as well as their non-abbreviated forms)
+are considered optional descriptors as they are often omitted from the name of the company.
+Regardless of etymology, they are tagged [PROPN]().
 
 ~~~ sdparse
-page 394/NUM[ExtPos=PROPN]
-nmod:desc(394, page)
+Apple/PROPN Inc./PROPN
+nmod:desc(Apple, Inc.)
 ~~~
 
-The "number X" construction also serves to clarify that a number is serving as an identifier; the word "number" as a descriptor
-can stack with an entity type descriptor:
+## Complex Dates and Addresses
+
+These are considered to have time or place modifiers, and thus fall under [nmod:unmarked]().
+
+## Idiosyncratic Name Patterns Analyzed as Flat Expressions
+
+In addition to the main parts of a personal name, further name patterns analyzed with [flat]()
+rather than a headed construction are given below.
+Note that the morphosyntax of name patterns differs by language, with some exhibiting agreement
+(as a sign of head or modifier status) where it is lacking in English,
+so a flat analysis of an English expression may not hold for its translation into another language.
+
+### Numbered Entities
+
+When the name of a category combines with a (pseudo)number to form a name,
+and the number is serving as an identifier rather than as a quantifier, we use [flat]():[^1]
 
 ~~~ sdparse
-What is behind door number 3/NUM[ExtPos=PROPN] ?
-nmod:desc(3, door)
-nmod:desc(3, number)
-~~~
-
-With numbered entities, it is recommended to specify `ExtPos=PROPN` on the number
-to clarify that it behaves externally as a (locally or globally conventionalized) proper name.
-
-## TODO: other kinds of entities
-
-## Morphosyntactic Properties
-
-### Omissibility
-
-Descriptors are best analyzed as modifiers. Their heads cannot be omitted without adding a determiner:
-
-- an article by Professor Fillmore / *an article by Professor
-- a speech by actor and activist Martin Sheen / *a speech by actor and activist
-- We drove to Lake Mead. / *We drove to Lake.
-- Open your book and turn to page 394. / *Open your book and turn to page.
-
-Personal name descriptors may be freely omitted:
-
-- an article by Fillmore
-- a speech by Martin Sheen
-
-Other kinds of heads may not always identify a unique referent without the descriptor to clarify.
-Still, the descriptor can usually be omitted with sufficently rich context:
-
-- We drove to Mead. (assuming common ground that Mead is a lake)
-- Open your book and turn to 394. (assuming common ground that a location in the book is best identified by a page number)
-
-### Pluralization
-
-An important characteristic of descriptors is that they may be pluralized if headed by a coordination:
-
-~~~ sdparse
-Professors Fillmore and Kay
-nmod:desc(Fillmore, Professors)
-conj(Fillmore, Kay)
+page/NOUN 394/NUM
+flat(page, 394)
 ~~~
 
 ~~~ sdparse
-Lakes Michigan and Erie
-nmod:desc(Michigan, Lakes)
-conj(Michigan, Erie)
-~~~
-
-Abbreviated descriptors like "Mr." may, however, resist such pluralization.
-
-That a descriptor may be pluralized to "agree" with its coordinated head distinguishes this construction
-from nominal compound modifiers ([compound]()), which are rarely morphologically plural even where there is semantic multiplicity:
-_egg carton_, not \*_eggs carton_; _egg farmers and distributors_, not \*_eggs farmers and distributors_.
-
-### Ellipsis
-
-- John prefers Lake Michigan and Mary, (Lake) Erie.
-- John read Chapter 1, Mary (Chapter) 2, and Kim (Chapter) 3.
-- *John prefers actor Sheen and Mary, activist (Sheen).
-- *John read Chapter 1, Mary Section (1), and Kim page (1).
-
-This shows that descriptors are targets for ellipsis rather than contrast in this construction,
-and should be treated as modifiers, like compound modifier nouns rather than compound heads:
-
-- *Rex prefers vacation food and Rover, home (food).
-- Rex prefers vacation food and Rover, (vacation) activities.
-
-# Old draft below
-
-_NOTE: This is a new subtype. Other documentation pages ([appos](), [flat](), [nmod](), [/dep/](https://universaldependencies.org/en/dep/), ...) will need to be updated._
-
-A descriptor is a nominal modifier that is less than a full nominal phrase (as would be required for [appos]()),
-and is not forming a complex concept warranting [compound]().
-
-Descriptors are mainly titles and similar phrases modifying a proper name, and generally lack [case]() or [det]() dependents.
-
-~~~ sdparse
-Rev. Dr. Martin Luther King
-nmod:desc(Martin, Rev.)
-nmod:desc(Martin, Dr.)
-flat(Martin, Luther)
-flat(Martin, King)
-~~~
-
-In journalistic style we see determinerless modifiers like:
-
-~~~ sdparse
-prominent journalist Bill Moyers
-amod(journalist, prominent)
-nmod:desc(Bill, journalist)
-flat(Bill, Moyers)
-~~~
-
-Contrast the version with a determiner or possessive, in which the two parts are reversible, warranting [appos]():
-
-~~~ sdparse
-the prominent journalist Bill Moyers
-det(journalist, the)
-amod(journalist, prominent)
-appos(journalist, Bill)
-flat(Bill, Moyers)
+Route/PROPN 66/NUM
+flat(Route, 66)
 ~~~
 
 ~~~ sdparse
-my friend Bill Moyers
-nmod:poss(friend, my)
-appos(friend, Bill)
-flat(Bill, Moyers)
+Room/PROPN B/PROPN
+flat(Room, B)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:22 CEST -->
+
+The "number X" construction also serves to clarify that a number is serving as an identifier;
+"number X" forms a flat expression that can be combined within a larger flat expression:
+
+~~~ sdparse
+What is behind door/NOUN number/NOUN 3/NUM ?
+flat(door, number)
+flat(number, 3)
+~~~
+
+A product name that includes a model or version number is considered a flat expression:
+
+~~~ sdparse
+Nikon/PROPN D7000/PROPN
+flat(Nikon, D7000)
+~~~
+
+~~~ sdparse
+Firefox/PROPN 43/NUM
+flat(Firefox, 43)
+~~~
+
+~~~ sdparse
+World/PROPN War/PROPN II/NUM
+flat(World, War)
+flat(World, II)
+~~~
+
+For simplicity, regnal/generational number suffixes are considered part of flat expressions
+just like version numbers, though they semantically resemble [_Jr._ and _Sr._](#personal-names):
+
+~~~ sdparse
+Queen/PROPN Elizabeth/PROPN II/NUM
+nmod:desc(Elizabeth, Queen)
+flat(Elizabeth, II)
+~~~
+
+[^1]: This is a departure from a guideline articulated previously: according to [de Marneffe et al. (2021)](https://doi.org/10.1162/coli_a_00402), p. 285, the (pseudo)number attaches as [nmod](), though the main point of that passage is to articulate why [nummod]() is not appropriate (no rationale for headedness is presented).
+
+### Toponyms
+
+We also use [flat]() for toponyms where the noun representing the entity type comes first.
+This word order is anomalous relative to other English constructions such that
+tests for headedness are inconclusive:
+
+~~~ sdparse
+Lake/PROPN Mead/PROPN
+flat(Lake, Mead)
+~~~
+
+~~~ sdparse
+Mount/PROPN Everest/PROPN
+flat(Mount, Everest)
+~~~
+
+By contrast, if the identificational part of the toponym precedes the entity type,
+this is analyzed as a regular right-headed [compound]() dependency:
+
+~~~ sdparse
+Mirror/PROPN Lake/PROPN
+compound(Lake, Mirror)
+~~~
+
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:03 CET -->

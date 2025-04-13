@@ -97,4 +97,4 @@ Coverb phrases in Cantonese are roughly equivalent to prepositional phrases in o
 
 - Francis, Elaine J. and Stephen Matthews. 2006. 'On Serial Verb Constructions in Cantonese.' In Aikhenvald, Alexandra Y. and R.M.W. Dixon (Eds), Seria Verb Constructions: A Cross-Linguistic Typology, 69-86, Oxford University Press.
 - Matthews, Stephen and Virginia Yip. 2011. Cantonese: A Comprehensive Grammar, 2nd ed. Routledge.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:34 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:17 CET -->

@@ -59,7 +59,7 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 3	這	這	DET	_	_	6	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 4	一	一	NUM	_	_	5	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 5	刻	刻	NOUN	_	NounType=Clf	6	obl:tmod	_	SpaceAfter=No|Translit=kè|LTranslit=kè
-6	進行	進行	VERB	_	_	14	advcl	_	SpaceAfter=No|Translit=jìnxíng|LTranslit=jìnxíng
+6	進行	進行	VERB	_	_	14	advcl	_	SpaceAfter=No|Translit=jìnxíng|LTranslit=jìnxíng|CxnElt=14:Conditional-NeutralEpistemic.Protasis
 7	投票	投票	NOUN	_	_	6	obj	_	SpaceAfter=No|Translit=tóupiào|LTranslit=tóupiào
 8	，	，	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	當選者	當選者	NOUN	_	_	14	nsubj	_	SpaceAfter=No|Translit=dāngxuǎnzhě|LTranslit=dāngxuǎnzhě
@@ -67,7 +67,7 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 11	一	一	NUM	_	_	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 12	刻	刻	NOUN	_	NounType=Clf	14	obl:tmod	_	SpaceAfter=No|Translit=kè|LTranslit=kè
 13	便	便	ADV	_	_	14	advmod	_	SpaceAfter=No|Translit=biàn|LTranslit=biàn
-14	成為	為	VERB	_	_	0	root	_	SpaceAfter=No|Translit=chéngwèi|LTranslit=wèi
+14	成為	為	VERB	_	_	0	root	_	SpaceAfter=No|Translit=chéngwèi|LTranslit=wèi|Cxn=Conditional-NeutralEpistemic|CxnElt=14:Conditional-NeutralEpistemic.Apodosis
 15	立法會	立法會	NOUN	_	_	16	compound	_	SpaceAfter=No|Translit=lìfǎhuì|LTranslit=lìfǎhuì
 16	主席	主席	NOUN	_	_	14	obj	_	SpaceAfter=No|Translit=zhǔxí|LTranslit=zhǔxí
 17	。	。	PUNCT	_	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.

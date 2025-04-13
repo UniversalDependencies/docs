@@ -25,7 +25,7 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	Dieses	dieser	DET	PDAT	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	det	_	_
 2	Video	Video	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	6	nsubj:pass	_	_
 3	konnte	können	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
-4	angeblich	angeblich	ADV	ADJD	_	5	advmod	_	_
+4	angeblich	angeblich	ADJ	ADJD	Degree=Pos	5	advmod	_	_
 5	nicht	nicht	PART	PTKNEG	Polarity=Neg	6	advmod	_	_
 6	storniert	stornieren	VERB	VVPP	VerbForm=Part	0	root	_	_
 7	werden	werden	AUX	VAINF	VerbForm=Inf|Voice=Pass	6	aux:pass	_	SpaceAfter=No

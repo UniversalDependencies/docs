@@ -29,7 +29,7 @@ This includes titles:
 
 p08\_024
 ~~~ conllu
-45	Maighstir	maighstir	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	43	obj	_	_
-46	Calum	Calum	PROPN	Nn-mn	Case=Nom|Gender=Masc	45	flat:name	_	_
+1	Maighstir	maighstir	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Calum	Calum	PROPN	Nn-mn	Case=Nom|Gender=Masc	1	flat:name	_	_
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:15 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:56 CET -->

@@ -41,7 +41,7 @@ The following 5 pairs of parts of speech are connected with `cc`: <tt><a href="k
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 cc	color:blue
-1	Игуасу	Игуасу	PROPN	_	_	3	nsubj	_	_
+1	Игуазу	Игуазу	PROPN	_	_	3	nsubj	_	_
 2	чоң	чоң	ADJ	_	_	3	amod	_	_
 3	ѳрѳѳн	ѳрѳѳн	NOUN	_	_	0	root	_	_
 4	бү	бы	PART	_	_	3	discourse	_	_
@@ -64,7 +64,7 @@ The following 5 pairs of parts of speech are connected with `cc`: <tt><a href="k
 3	Мэри	Мэри	PROPN	_	_	1	conj	_	_
 4	кучакташты	кучакта	VERB	_	_	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
-6	андан	анда	PRON	_	_	9	obl	_	_
+6	андан	ал	PRON	_	_	9	obl	_	_
 7	соң	соң	ADP	_	_	6	case	_	_
 8	бѳлмѳдѳн	бѳлмѳ	NOUN	_	_	9	obl	_	_
 9	чыгып	чык	VERB	_	_	4	conj	_	_

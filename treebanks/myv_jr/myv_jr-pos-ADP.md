@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>мельга</em> (<tt><a href="myv_j
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 2.040816 (the average of all parts of speech is 2.081130).
+The form / lemma ratio of `ADP` is 2.040816 (the average of all parts of speech is 2.080194).
 
 The 1st highest number of forms (8) was observed with the lemma “эйсэ”: <em>эйсэ, эйсэнек, эйсэнзэ, эйсэнк, эйсэнь, эйсэст, эйсэть, эснэнзэ</em>.
 
@@ -84,7 +84,7 @@ Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="myv_
 
 The highest child degree of a `ADP` node is 5.
 
-Children of `ADP` nodes are attached using 13 different relations: <tt><a href="myv_jr-dep-punct.html">punct</a></tt> (7; 23% instances), <tt><a href="myv_jr-dep-nmod.html">nmod</a></tt> (5; 17% instances), <tt><a href="myv_jr-dep-nsubj.html">nsubj</a></tt> (4; 13% instances), <tt><a href="myv_jr-dep-cop.html">cop</a></tt> (3; 10% instances), <tt><a href="myv_jr-dep-aux-neg.html">aux:neg</a></tt> (2; 7% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (2; 7% instances), <tt><a href="myv_jr-dep-advcl.html">advcl</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-amod.html">amod</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-det.html">det</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-nummod.html">nummod</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-obl-cmp.html">obl:cmp</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-vocative.html">vocative</a></tt> (1; 3% instances)
+Children of `ADP` nodes are attached using 14 different relations: <tt><a href="myv_jr-dep-punct.html">punct</a></tt> (7; 23% instances), <tt><a href="myv_jr-dep-nmod.html">nmod</a></tt> (5; 17% instances), <tt><a href="myv_jr-dep-nsubj.html">nsubj</a></tt> (4; 13% instances), <tt><a href="myv_jr-dep-cop.html">cop</a></tt> (3; 10% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (2; 7% instances), <tt><a href="myv_jr-dep-advcl.html">advcl</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-amod.html">amod</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-aux.html">aux</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-aux-neg.html">aux:neg</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-det.html">det</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-nummod.html">nummod</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-obl-cmp.html">obl:cmp</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-vocative.html">vocative</a></tt> (1; 3% instances)
 
 Children of `ADP` nodes belong to 10 different parts of speech: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (7; 23% instances), <tt><a href="myv_jr-pos-PUNCT.html">PUNCT</a></tt> (7; 23% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (5; 17% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (3; 10% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (2; 7% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 3% instances)
 

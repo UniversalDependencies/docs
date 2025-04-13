@@ -12,15 +12,15 @@ udver: '2'
 # UD French GSD
 
 Language: [French](/fr/index.html) (code: `fr`)<br/>
-Family: Indo-European, Romance
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
 The following people have contributed to making this treebank part of UD: Marie-Catherine de Marneffe, Bruno Guillaume, Ryan McDonald, Alane Suhr, Joakim Nivre, Matias Grioni, Carly Dickerson, Guy Perrier.
 
 Repository: [UD_French-GSD](https://github.com/UniversalDependencies/UD_French-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_gsd214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_gsd215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -99,23 +99,23 @@ See below for references and acknowledgments concerning the original corpus.
 
 
 <ul>
-<li>This corpus contains 16342 sentences, 389279 tokens and 400306 syntactic words.</li>
+<li>This corpus contains 16342 sentences, 389367 tokens and 400391 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 58060 tokens (15%) that are not followed by a space.</li>
+<li>This corpus contains 58138 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 130 types of words with spaces. Examples: 10 000, 100 000, 20 000, 50 000, 1 000, 2 000, 5 000, 80 000, 1 200, 1 500, 200 000, 25 000, 60 000, 1 100, 1 400, 150 000, 2 500, 30 000, 300 000, 400 000, 68 000, 900 000, 02 31 30 47 70, 1 068, 1 108, 1 209, 1 231, 1 237 500, 1 250, 1 300, 1 345, 1 444 861, 1 496, 1 500 000, 1 728, 1 766 691 409, 1 890, 1 900, 1,186 569 110, 10 250, 11 437, 11 506, 11 839, 13 500, 13 641, 147 000, 149 900, 16 000, 16 851, 170 055</li>
+<li>This corpus contains 131 types of words with spaces. Examples: 10 000, 100 000, 20 000, 50 000, 1 000, 2 000, 5 000, 80 000, 1 200, 1 500, 200 000, 25 000, 60 000, 1 100, 1 400, 150 000, 2 500, 30 000, 300 000, 400 000, 68 000, 900 000, 02 31 30 47 70, 1 068, 1 108, 1 209, 1 231, 1 237 500, 1 250, 1 300, 1 345, 1 444 861, 1 461, 1 496, 1 500 000, 1 728, 1 766 691 409, 1 890, 1 900, 1,186 569 110, 10 250, 11 437, 11 506, 11 839, 13 500, 13 641, 147 000, 149 900, 16 000, 16 851</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2186 types of words that contain both letters and punctuation. Examples: l', d', s', qu', n', c', jusqu', j', aujourd'hui, États-Unis, l'on, m', -t-il, lui-même, celui-ci, -il, c'est-à-dire, M., lorsqu', celle-ci, au-dessus, etc., -ce, sud-est, Royaume-Uni, ceux-ci, au-delà, elle-même, peut-être, sud-ouest, -ils, J.-C., av., nord-ouest, nord-est, -vous, -elle, -là, -t-elle, Etats-Unis, Grande-Bretagne, Pays-Bas, eux-mêmes, porte-parole, Notre-Dame, puisqu', week-end, -on, quelqu'un, C.</li>
+<li>This corpus contains 2189 types of words that contain both letters and punctuation. Examples: l', d', s', qu', n', c', jusqu', j', aujourd'hui, États-Unis, l'on, m', -t-il, lui-même, celui-ci, -il, c'est-à-dire, M., lorsqu', celle-ci, au-dessus, etc., -ce, sud-est, Royaume-Uni, ceux-ci, au-delà, elle-même, peut-être, sud-ouest, -ils, J.-C., av., nord-ouest, nord-est, -vous, -elle, -là, -t-elle, Etats-Unis, Grande-Bretagne, Pays-Bas, eux-mêmes, porte-parole, Notre-Dame, puisqu', week-end, -on, quelqu'un, C.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 11027 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 11024 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 9 types of multi-word tokens. Examples: du, des, au, aux, auquel, duquel, auxquels, desquelles, auxquelles.</li>
 </ul>
 
@@ -136,7 +136,7 @@ See below for references and acknowledgments concerning the original corpus.
 </ul>
 
 <ul>
-<li>This corpus contains 18 lemmas tagged as determiners (DET): aucun, ce, certain, chaque, différent, divers, du, le, ledit, lequel, nul, plusieurs, quel, quelque, son, tel, tout, un</li>
+<li>This corpus contains 19 lemmas tagged as determiners (DET): aucun, ce, certain, chaque, différent, divers, du, la, le, ledit, lequel, nul, plusieurs, quel, quelque, son, tel, tout, un</li>
 </ul>
 
 <ul>
@@ -706,16 +706,15 @@ See below for references and acknowledgments concerning the original corpus.
       <li>PROPN
         <ul>
           <li>ADJ: Tel, Belle, Clair, Disponible, Drôle, Quelle, Seul, extra, indépendante, inférieur</li>
-          <li>ADP: de</li>
           <li>ADV: Après-demain, Bêtement, avant, ici, longtemps</li>
           <li>DET: l'</li>
           <li>NOUN: Chanson, Chant, Donjon, Fille, Oiseau, Place, Procès, or, Abime, Affaire</li>
           <li>NUM: 7, sept</li>
           <li>PRON: Ceux</li>
-          <li>PROPN: Ali, Allah, DIOS, Dame, Lilly, Sherlock, Sinbad, The, Toutankhamon, dei</li>
-          <li>SYM: K, A, C, M, AA, H, criticusleblog@gmail.com, x, Ω, †</li>
+          <li>PROPN: Ali, Allah, DIOS, Lilly, NGC, Sherlock, Sinbad, The, Toutankhamon, WR</li>
+          <li>SYM: K, A, C, M, H, AA, criticusleblog@gmail.com, x, Ω, †</li>
           <li>VERB-Fin: vit, est, suis, Aide, Arrête, Chantons, Cherchez, Devine, Ouvre, Peut</li>
-          <li>VERB-Inf: Aimer, Faire, Voler, débarrasser, laisser, monter, réussir, Économiser</li>
+          <li>VERB-Inf: Aimer, Faire, Philosopher, Voler, débarrasser, laisser, monter, réussir, Économiser</li>
           <li>VERB-Part: Déconseillé, dit, prévu, écrit</li>
           <li>X: B, A, GMT, s, A1, AR-18, E, K, L., Windows</li>
         </ul>
@@ -741,6 +740,7 @@ See below for references and acknowledgments concerning the original corpus.
     <ul>
       <li>Yes
         <ul>
+          <li>PROPN: Church</li>
           <li>X: the, of, and, de, in, for, Company, a, me, live</li>
         </ul>
       </li>
@@ -823,13 +823,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (3)</li>
-      <li>VERB-Fin--NOUN (4046)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (2)</li>
+      <li>VERB-Fin--NOUN (4053)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-ADP(jusque)-ADP(à) (1)</li>
       <li>VERB-Fin--PRON (5695)</li>
       <li>VERB-Inf--NOUN (53)</li>
       <li>VERB-Inf--PRON (14)</li>
-      <li>VERB-Part--NOUN (1140)</li>
+      <li>VERB-Part--NOUN (1147)</li>
       <li>VERB-Part--NOUN-ADP(de) (1)</li>
       <li>VERB-Part--PRON (1271)</li>
     </ul>
@@ -841,8 +841,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (18)</li>
       <li>VERB--PRON (4)</li>
-      <li>VERB-Fin--NOUN (4861)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (1)</li>
+      <li>VERB-Fin--NOUN (4872)</li>
       <li>VERB-Fin--NOUN-ADP(entre) (1)</li>
       <li>VERB-Fin--NOUN-ADP(jusque)-ADP(à) (4)</li>
       <li>VERB-Fin--PRON (1081)</li>
@@ -850,7 +849,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-ADP(de) (1)</li>
       <li>VERB-Inf--NOUN-ADP(jusque)-ADP(à) (2)</li>
       <li>VERB-Inf--PRON (633)</li>
-      <li>VERB-Part--NOUN (1939)</li>
+      <li>VERB-Part--NOUN (1940)</li>
       <li>VERB-Part--NOUN-ADP(jusque)-ADP(à) (1)</li>
       <li>VERB-Part--PRON (351)</li>
     </ul>

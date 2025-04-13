@@ -48,7 +48,7 @@ The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href
 2	hore	óre	SCONJ	_	_	4	mark	_	_
 3	am	is	AUX	_	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbType=Cop	4	nsubj	_	SpaceAfter=No
 4	essamin	essamin	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	13	advcl	_	SpaceAfter=No
-5	se	se	PRON	_	PronType=Emp	3	amod	_	_
+5	se	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	3	amod	_	_
 6	precepte	precept	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	_
 7	as	a	ADP	_	AdpType=Prep|Definite=Ind	9	case	_	SpaceAfter=No
 8	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	SpaceAfter=No
@@ -69,13 +69,13 @@ The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 8 12 advcl	color:blue
 1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
 2	cain	cani	PRON	_	Polarity=Neg|PronType=Int	3	xcomp	_	_
-3	ronóibad	noibaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
+3	ronóibad	noíbaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
 4	abracham	abracham	PROPN	_	Case=Nom|Number=Sing	3	obj	_	_
 5	tri	tre	ADP	_	AdpType=Prep|Definite=Ind	6	case	_	SpaceAfter=No
 6	hiris	iress	NOUN	_	Case=Acc|Number=Sing	3	obl	_	_
 7	in	in	PART	_	PronType=Int	8	mark:int	_	SpaceAfter=No
 8	tree	tre	ADP	_	AdpType=Prep|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	parataxis	_	_
-9	ǽm	ém	ADV	_	_	8	advmod	_	_
+9	ǽm	ám	ADV	_	_	8	advmod	_	_
 10	didiu	didiu	ADV	_	_	8	advmod	_	_
 11	fa	fa	SCONJ	_	_	12	mark	_	SpaceAfter=No
 12	nacc	nacc	ADV	_	Polarity=Neg	8	advcl	_	_

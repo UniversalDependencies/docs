@@ -33,4 +33,4 @@ In the next example, 'they would be then once enclosing the shore' (n09\_002), t
 9	cladaich	cladach	NOUN	Ncsmg	Case=Gen|Gender=Masc|Number=Sing	8	obj	_	_
 ~~~
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:51 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:31 CET -->

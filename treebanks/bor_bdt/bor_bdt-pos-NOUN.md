@@ -62,7 +62,7 @@ The 3rd highest number of forms (10) was observed with the lemma “bai”: <em>
 
 `NOUN` occurs with 20 features: <tt><a href="bor_bdt-feat-Number.html">Number</a></tt> (647; 35% instances), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt> (374; 20% instances), <tt><a href="bor_bdt-feat-Number-psor.html">Number[psor]</a></tt> (180; 10% instances), <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt> (159; 9% instances), <tt><a href="bor_bdt-feat-Reflex.html">Reflex</a></tt> (74; 4% instances), <tt><a href="bor_bdt-feat-Nomzr.html">Nomzr</a></tt> (67; 4% instances), <tt><a href="bor_bdt-feat-Clusivity.html">Clusivity</a></tt> (49; 3% instances), <tt><a href="bor_bdt-feat-Poss.html">Poss</a></tt> (23; 1% instances), <tt><a href="bor_bdt-feat-Degree.html">Degree</a></tt> (21; 1% instances), <tt><a href="bor_bdt-feat-Voice.html">Voice</a></tt> (11; 1% instances), <tt><a href="bor_bdt-feat-Aspect.html">Aspect</a></tt> (10; 1% instances), <tt><a href="bor_bdt-feat-Polarity.html">Polarity</a></tt> (9; 0% instances), <tt><a href="bor_bdt-feat-PronType.html">PronType</a></tt> (8; 0% instances), <tt><a href="bor_bdt-feat-Tense.html">Tense</a></tt> (8; 0% instances), <tt><a href="bor_bdt-feat-Gender.html">Gender</a></tt> (7; 0% instances), <tt><a href="bor_bdt-feat-Person-psor.html">Person[psor]</a></tt> (7; 0% instances), <tt><a href="bor_bdt-feat-Speech.html">Speech</a></tt> (7; 0% instances), <tt><a href="bor_bdt-feat-Class.html">Class</a></tt> (4; 0% instances), <tt><a href="bor_bdt-feat-Evident.html">Evident</a></tt> (2; 0% instances), <tt><a href="bor_bdt-feat-Int.html">Int</a></tt> (2; 0% instances)
 
-`NOUN` occurs with 34 feature-value pairs: `Aspect=Prog`, `Class=Adorn`, `Class=DA`, `Class=Food`, `Class=Neckl`, `Clusivity=Ex`, `Clusivity=In`, `Degree=Dim`, `Evident=Rep`, `Gender=Fem`, `Gender=Masc`, `Int=Yes`, `Mood=Ind`, `Mood=Sub`, `Nomzr=Rel`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=1`, `Person[psor]=3`, `Polarity=Neg`, `Poss=Yes`, `PronType=Bi`, `PronType=Rcp`, `Reflex=Yes`, `Speech=Ind`, `Speech=IndOpt`, `Tense=Fut`, `Voice=Cau`, `Voice=CauPass`
+`NOUN` occurs with 33 feature-value pairs: `Aspect=Prog`, `Class=Adorn`, `Class=DA`, `Class=Food`, `Class=Neckl`, `Clusivity=Ex`, `Clusivity=In`, `Degree=Dim`, `Evident=Rep`, `Gender=Fem`, `Gender=Masc`, `Int=Yes`, `Mood=Ind`, `Mood=Sub`, `Nomzr=Rel`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=1`, `Person[psor]=3`, `Polarity=Neg`, `Poss=Yes`, `PronType=Bi`, `PronType=Rcp`, `Reflex=Yes`, `Speech=Ind`, `Tense=Fut`, `Voice=Cau`, `Voice=CauPass`
 
 `NOUN` occurs with 120 feature combinations.
 The most frequent feature combination is `_` (978 tokens).
@@ -75,11 +75,11 @@ Examples: <em>boe, kuiada, pobo, karo, aroe, baru, bai, Deu, adygo, ipare</em>
 
 Parents of `NOUN` nodes belong to 12 different parts of speech: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (1055; 58% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (546; 30% instances),  (102; 6% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (47; 3% instances), <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (36; 2% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (19; 1% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (13; 1% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-879 (48%) `NOUN` nodes are leaves.
+880 (48%) `NOUN` nodes are leaves.
 
-544 (30%) `NOUN` nodes have one child.
+542 (30%) `NOUN` nodes have one child.
 
-233 (13%) `NOUN` nodes have two children.
+234 (13%) `NOUN` nodes have two children.
 
 171 (9%) `NOUN` nodes have three or more children.
 

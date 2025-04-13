@@ -21,7 +21,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="fro_profiterole-pos
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>corpus, domini, damno, verbe</em>
-* `EMPTY` (30170): <em>sire, rois, roi, cors, dame, gent, chevaliers, terre, seignor, reis</em>
+* `EMPTY` (31700): <em>sire, rois, roi, gent, cors, dame, empereres, chevaliers, terre, seignor</em>
 
 ### `ADP`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>in, en</em>
-* `EMPTY` (19019): <em>de, a, en, par, por, d', au, des, del, as</em>
+* `EMPTY` (19957): <em>de, a, en, par, d', por, au, des, as, del</em>
 
 ### `ADV`
 
@@ -43,16 +43,16 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>illo</em>
-* `EMPTY` (23780): <em>si, ne, en, n', i, tant, bien, plus, ja, or</em>
+* `EMPTY` (25165): <em>si, ne, en, n', i, tant, bien, plus, ja, or</em>
 
 ### `X`
 
-1 <tt><a href="fro_profiterole-pos-X.html">X</a></tt> tokens (14% of all `X` tokens) have a non-empty value of `Foreign`.
+1 <tt><a href="fro_profiterole-pos-X.html">X</a></tt> tokens (11% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>Explycit</em>
-* `EMPTY` (6): <em>qu'</em>
+* `EMPTY` (8): <em>qu'</em>
 
 ## Relations with Agreement in `Foreign`
 

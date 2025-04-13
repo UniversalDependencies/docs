@@ -45,7 +45,7 @@ The following 4 pairs of parts of speech are connected with `compound:affix`: <t
 2	היה	היה	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	3	cop	_	_
 3	קורבן	קורבן	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 4	של	של	ADP	ADP	Case=Gen	7	case:gen	_	_
-5	אי	אי	ADV	ADV	Prefix=Yes	7	compound:affix	_	SpaceAfter=No|HebSource=ConvUncertainHead
+5	אי	אי	ADV	ADV	Prefix=Yes	7	compound:affix	_	HebSource=ConvUncertainHead|SpaceAfter=No
 6	-	-	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No
 7	התאמה	התאמה	NOUN	NOUN	Gender=Fem|Number=Sing	3	nmod:poss	_	_
 8	כ	כ	ADP	ADP	_	10	case	_	_

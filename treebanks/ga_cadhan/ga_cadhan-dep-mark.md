@@ -34,7 +34,7 @@ The following 8 pairs of parts of speech are connected with `mark`: <tt><a href=
 9	chailleas	caill	VERB	_	Form=Len|Mood=Ind|Number=Sing|Person=1|Tense=Past	2	advcl	_	_
 10	lúth	lúth	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	obj	_	_
 11	mo	mo	DET	_	Number=Sing|Person=1|Poss=Yes	12	nmod:poss	_	_
-12	ghéag	géag	NOUN	_	Case=Gen|Form=Len|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+12	ghéag	géag	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
 ~~~

@@ -25,7 +25,7 @@ The following 9 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 8 6 obl:agent	color:blue
 1	Wurde	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
 2	sehr	sehr	ADV	ADV	_	3	advmod	_	_
-3	gut	gut	ADV	ADJD	_	8	advmod	_	_
+3	gut	gut	ADJ	ADJD	Degree=Pos	8	advmod	_	_
 4	von	von	ADP	APPR	_	6	case	_	_
 5	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	Kanzlei	Kanzlei	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	8	obl:agent	_	_

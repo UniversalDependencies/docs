@@ -59,7 +59,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 3	FOC	foc	ADJ	_	Definite=Ind|Degree=Sup|Gender=Fem|Number=Sing	2	amod	_	_
 4	ESTI	fi	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	2	cop	_	CorrectForm=ești
 5	ȘI	și	CCONJ	_	Polarity=Pos	6	cc	_	_
-6	SEXSY	sexy	ADJ	_	Foreign=Yes|Gender=Fem|Number=Sing|Typo=Yes	2	conj	_	CorrectForm=sexy|Lang=en
+6	SEXSY	sexy	ADJ	_	Foreign=Yes|Typo=Yes	2	conj	_	CorrectForm=sexy|Lang=en
 7	ȘI	și	CCONJ	_	Polarity=Pos	8	cc	_	_
 8	AI	avea	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
 9	OCHII	ochi	NOUN	_	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	8	obj	_	_

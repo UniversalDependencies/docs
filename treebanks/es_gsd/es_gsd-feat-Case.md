@@ -10,21 +10,21 @@ This feature is universal.
 It occurs with 4 different values: `Acc`, `Com`, `Dat`, `Nom`.
 Some words have combined values of the feature; 2 combinations have been observed: `Acc|Dat`, `Acc|Nom`.
 
-9963 tokens (2%) have a non-empty value of `Case`.
+9976 tokens (2%) have a non-empty value of `Case`.
 54 types (0%) occur at least once with a non-empty value of `Case`.
 8 lemmas (0%) occur at least once with a non-empty value of `Case`.
-The feature is used with 1 part-of-speech tags: <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (9963; 2% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (9976; 2% instances).
 
 ### `PRON`
 
-9963 <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `Case`.
+9976 <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="es_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9963; 100%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (8974; 90%), <tt><a href="es_gsd-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (8232; 83%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7099; 71%), <tt><a href="es_gsd-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (5395; 54%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5297; 53%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="es_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9976; 100%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (8987; 90%), <tt><a href="es_gsd-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (8245; 83%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7107; 71%), <tt><a href="es_gsd-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (5403; 54%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5305; 53%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (2222; 22% of non-empty `Case`): <em>lo, la, los, las, sí, mí, ti, se, Me, em</em>
-* `Acc,Dat` (5518; 55% of non-empty `Case`): <em>se, me, nos, te, os</em>
+* `Acc` (2227; 22% of non-empty `Case`): <em>lo, la, los, las, sí, mí, ti, se, Me, em</em>
+* `Acc,Dat` (5526; 55% of non-empty `Case`): <em>se, me, nos, te, os</em>
 * `Acc,Nom` (697; 7% of non-empty `Case`): <em>él, ellos, ella, ello, ellas, nosotros, usted, vosotros, ustedes</em>
 * `Com` (8; 0% of non-empty `Case`): <em>consigo, conmigo, contigo</em>
 * `Dat` (1419; 14% of non-empty `Case`): <em>le, me, les, nos, te, os, la, lo</em>

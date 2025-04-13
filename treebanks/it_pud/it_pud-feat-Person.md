@@ -12,19 +12,19 @@ It occurs with 3 different values: `1`, `2`, `3`.
 2288 tokens (10%) have a non-empty value of `Person`.
 770 types (13%) occur at least once with a non-empty value of `Person`.
 414 lemmas (9%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (902; 4% instances), <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> (858; 4% instances), <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> (526; 2% instances), <tt><a href="it_pud-pos-DET.html">DET</a></tt> (2; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (901; 4% instances), <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> (859; 4% instances), <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> (526; 2% instances), <tt><a href="it_pud-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-902 <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> tokens (44% of all `VERB` tokens) have a non-empty value of `Person`.
+901 <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> tokens (44% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (902; 100%), <tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (902; 100%), <tt><a href="it_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (844; 94%), <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (652; 72%), <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (498; 55%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (901; 100%), <tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (901; 100%), <tt><a href="it_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (843; 94%), <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (651; 72%), <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (497; 55%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (40; 4% of non-empty `Person`): <em>penso, so, Amavo, Amo, Dichiaro, Diciamo, Ho, Odio, Rivolsi, Superiamo</em>
 * `2` (3; 0% of non-empty `Person`): <em>Fa', Litighi, Metti</em>
-* `3` (859; 95% of non-empty `Person`): <em>ha, afferma, aveva, iniziò, sono, hanno, avevano, sembra, ebbe, riguarda</em>
+* `3` (858; 95% of non-empty `Person`): <em>ha, afferma, aveva, iniziò, sono, hanno, avevano, sembra, ebbe, riguarda</em>
 * `EMPTY` (1153): <em>affermato, avere, fatto, detto, far, avuto, fare, portato, partire, portare</em>
 
 <table>
@@ -40,20 +40,20 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="it_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>avessero</em></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `VERB`. 93% lemmas (356) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 93% lemmas (355) occur only with one value of `Person`.
 
 ### `AUX`
 
-858 <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Person`.
+859 <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="it_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (756; 88%), <tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (681; 79%), <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (634; 74%), <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (623; 73%), <tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (590; 69%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="it_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (757; 88%), <tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (682; 79%), <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (635; 74%), <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (624; 73%), <tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (591; 69%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (32; 4% of non-empty `Person`): <em>ho, sono, dobbiamo, abbiamo, possiamo, ero, stiamo, Avrei, Devo, Sarei</em>
 * `2` (3; 0% of non-empty `Person`): <em>Devi, avete, hai</em>
-* `3` (823; 96% of non-empty `Person`): <em>è, ha, sono, era, fu, hanno, venne, può, erano, aveva</em>
-* `EMPTY` (125): <em>essere, stato, stata, aver, stati, state, esser, potuto, avendo, Essendo</em>
+* `3` (824; 96% of non-empty `Person`): <em>è, ha, sono, era, fu, hanno, venne, può, erano, aveva</em>
+* `EMPTY` (126): <em>essere, stato, stata, aver, stati, state, esser, potuto, avendo, Essendo</em>
 
 <table>
   <tr><th>Paradigm <i>avere</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

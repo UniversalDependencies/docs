@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Livvi-KKPP: POS Tags: `ADJ`
 
-There are 66 `ADJ` lemmas (11%), 84 `ADJ` types (11%) and 101 `ADJ` tokens (6%).
+There are 65 `ADJ` lemmas (11%), 83 `ADJ` types (11%) and 100 `ADJ` tokens (6%).
 Out of 14 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>oma, karjalaine, suuri, eri, mustu, semmoine, toine, uuzi, valgei, 30.</em>
@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>bohattu</em> (<tt><a href="olo_kkpp-p
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.272727 (the average of all parts of speech is 1.338462).
+The form / lemma ratio of `ADJ` is 1.276923 (the average of all parts of speech is 1.335034).
 
 The 1st highest number of forms (5) was observed with the lemma “oma”: <em>omah, omakse, omas, omassah, omis</em>.
 
@@ -47,7 +47,7 @@ The 2nd highest number of forms (4) was observed with the lemma “karjalaine”
 
 The 3rd highest number of forms (3) was observed with the lemma “suuri”: <em>Suureh, suurdu, suuri</em>.
 
-`ADJ` occurs with 6 features: <tt><a href="olo_kkpp-feat-Case.html">Case</a></tt> (93; 92% instances), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt> (93; 92% instances), <tt><a href="olo_kkpp-feat-NumType.html">NumType</a></tt> (5; 5% instances), <tt><a href="olo_kkpp-feat-Degree.html">Degree</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-feat-Number-psor.html">Number[psor]</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-feat-Person-psor.html">Person[psor]</a></tt> (1; 1% instances)
+`ADJ` occurs with 6 features: <tt><a href="olo_kkpp-feat-Case.html">Case</a></tt> (93; 93% instances), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt> (93; 93% instances), <tt><a href="olo_kkpp-feat-NumType.html">NumType</a></tt> (5; 5% instances), <tt><a href="olo_kkpp-feat-Degree.html">Degree</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-feat-Number-psor.html">Number[psor]</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-feat-Person-psor.html">Person[psor]</a></tt> (1; 1% instances)
 
 `ADJ` occurs with 19 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Ade`, `Case=All`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Case=Par`, `Case=Ter`, `Case=Tra`, `Degree=Cmp`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=3`
 
@@ -58,11 +58,11 @@ Examples: <em>bohattu, jygei, 30., Arbuamatoi, Toine, karjalaine, mennyh, paremb
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 9 different relations: <tt><a href="olo_kkpp-dep-amod.html">amod</a></tt> (78; 77% instances), <tt><a href="olo_kkpp-dep-conj.html">conj</a></tt> (6; 6% instances), <tt><a href="olo_kkpp-dep-root.html">root</a></tt> (6; 6% instances), <tt><a href="olo_kkpp-dep-parataxis.html">parataxis</a></tt> (5; 5% instances), <tt><a href="olo_kkpp-dep-obj.html">obj</a></tt> (2; 2% instances), <tt><a href="olo_kkpp-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-dep-nmod-poss.html">nmod:poss</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-dep-orphan.html">orphan</a></tt> (1; 1% instances)
+`ADJ` nodes are attached to their parents using 9 different relations: <tt><a href="olo_kkpp-dep-amod.html">amod</a></tt> (77; 77% instances), <tt><a href="olo_kkpp-dep-conj.html">conj</a></tt> (6; 6% instances), <tt><a href="olo_kkpp-dep-root.html">root</a></tt> (6; 6% instances), <tt><a href="olo_kkpp-dep-parataxis.html">parataxis</a></tt> (5; 5% instances), <tt><a href="olo_kkpp-dep-obj.html">obj</a></tt> (2; 2% instances), <tt><a href="olo_kkpp-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-dep-nmod-poss.html">nmod:poss</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-dep-orphan.html">orphan</a></tt> (1; 1% instances)
 
-Parents of `ADJ` nodes belong to 6 different parts of speech: <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (76; 75% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (9; 9% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (7; 7% instances),  (6; 6% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Parents of `ADJ` nodes belong to 6 different parts of speech: <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (76; 76% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (9; 9% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (7; 7% instances),  (6; 6% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 
-73 (72%) `ADJ` nodes are leaves.
+72 (72%) `ADJ` nodes are leaves.
 
 10 (10%) `ADJ` nodes have one child.
 

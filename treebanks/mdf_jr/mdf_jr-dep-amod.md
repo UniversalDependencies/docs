@@ -72,7 +72,7 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 7	модать	мода	NOUN	N	Case=Gen|Definite=Def|Number=Sing	8	nmod	_	CGdephead=#7-&gt;7|CGdeprel=@&gt;P|GTtags=Sg,Gen,Def
 8	лангс	ланга	NOUN	N	Case=Ill|Definite=Ind|NounType=Relat|Number=Plur,Sing	11	obl	_	CGdephead=#8-&gt;4|CGdeprel=@&lt;ADVL|GTtags=Relator,SP,Ill,Indef
 9	кяпе	кяпе	ADV	Adv	AdvType=Sta	11	advcl	_	CGdephead=#9-&gt;9|CGdeprel=@&gt;N|GTtags=Sg,Nom,Indef
-10	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	11	aux:neg	_	CGdephead=#10-&gt;3|CGdeprel=@IAUX|GTtags=Aux,Neg
+10	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	11	aux	_	CGdephead=#10-&gt;3|CGdeprel=@IAUX|GTtags=Aux,Neg
 11	шятяват	шятямс	VERB	V	Derivation=OvOms|Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	2	conj	_	CGdephead=#11-&gt;3|CGdeprel=@FMV|GTtags=Der/OvOms,V,Ind,Prs,ScSg2
 12	...	...	PUNCT	CLB	_	2	punct	_	CGdephead=#12-&gt;2|CGdeprel=@X|GTtags=CLB
 

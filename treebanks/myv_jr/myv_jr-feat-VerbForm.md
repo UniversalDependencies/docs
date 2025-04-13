@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Erzya-JR: Features: `VerbForm`
 
-This feature is universal but the values `Conv`, `NomAg`, `Vnoun` are language-specific.
-It occurs with 5 different values: `Conv`, `Inf`, `NomAg`, `Part`, `Vnoun`.
+This feature is universal but the values `Conv`, `Vnoun` are language-specific.
+It occurs with 4 different values: `Conv`, `Inf`, `Part`, `Vnoun`.
 Some words have combined values of the feature; 1 combinations have been observed: `Conv|Part`.
 
 992 tokens (5%) have a non-empty value of `VerbForm`.
@@ -26,22 +26,20 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 * `Conv` (279; 30% of non-empty `VerbForm`): <em>чиезь, пелезь, ютазь, капшазь, оршазь, пурнавозь, чатьмонезь, аштезь, кадовозь, каразь</em>
 * `Conv,Part` (21; 2% of non-empty `VerbForm`): <em>ваязь, вешезь, кепедевезь, ливтязь, сундерьгадозь, уцорязь, эждязь, ютазь, Кортазь, Музгордезь</em>
 * `Inf` (443; 47% of non-empty `VerbForm`): <em>теемс, молемс, ваномс, капшамс, кортамо, лисемс, меремс, туемс, валомс, кекшемс</em>
-* `NomAg` (4; 0% of non-empty `VerbForm`): <em>миледицятнень, молицятнень, чарыцятнеяк, якицятне</em>
-* `Part` (105; 11% of non-empty `VerbForm`): <em>сэредиця, вечкевикс, касыця, молиця, аштиця, валгиця, вастневиця, кумболдыця, менчевиця, сыцятнень</em>
+* `Part` (109; 12% of non-empty `VerbForm`): <em>сэредиця, вечкевикс, касыця, молиця, аштиця, валгиця, вастневиця, кумболдыця, менчевиця, молицятнень</em>
 * `Vnoun` (81; 9% of non-empty `VerbForm`): <em>Ярсамодо, вечкема, Ацирьгадоманть, Мадемадо, Нуема, Пейдемат, Чачома, аштемстэ, валаськавтомадо, вастнематне</em>
-* `EMPTY` (2795): <em>мерсь, лиссь, мольсь, ютась, ашти, неяви, совась, маряви, саизе, сась</em>
+* `EMPTY` (2796): <em>мерсь, лиссь, мольсь, ютась, ашти, неяви, совась, маряви, саизе, сась</em>
 
 <table>
-  <tr><th>Paradigm <i>молемс</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th><th><tt>NomAg</tt></th><th><tt>Vnoun</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>молемс</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Ela</tt></tt></td><td></td><td></td><td><em>молемстэ</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Ela</tt>|<tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>Молемстэнзэ</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=VerbYcja</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>молицятнень</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td></td><td><em>молеманть</em></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>молицятнень</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=VerbYcja</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>молиця</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>молиця</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=VerbYcja</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>молицякс</em></td><td></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>молемс</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th><th><tt>Vnoun</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><em>молемс</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Ela</tt></tt></td><td></td><td></td><td><em>молемстэ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Ela</tt>|<tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>Молемстэнзэ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="myv_jr-feat-Nomzr.html">Nomzr</a></tt><tt>=Ag</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>молицятнень</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="myv_jr-feat-Nomzr.html">Nomzr</a></tt><tt>=Ag</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>молицятнень</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td><em>молеманть</em></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Nomzr.html">Nomzr</a></tt><tt>=Ag</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>молиця</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Nomzr.html">Nomzr</a></tt><tt>=Ag</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>молицякс</em></td><td></td><td></td></tr>
 </table>
 
 ### `AUX`
@@ -64,9 +62,9 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 
 `NOUN` tokens may have the following values of `VerbForm`:
 
-* `NomAg` (8; 57% of non-empty `VerbForm`): <em>моравтыцятне, азгондицят, ардыцятне, сёрмадыцятне, эрицятне, эрицятнеде</em>
+* `Part` (8; 57% of non-empty `VerbForm`): <em>моравтыцятне, азгондицят, ардыцятне, сёрмадыцятне, эрицятне, эрицятнеде</em>
 * `Vnoun` (6; 43% of non-empty `VerbForm`): <em>Удомань, коцькерямонть, сиземань, туемадо, удомазо, ёртнема</em>
-* `EMPTY` (5079): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
+* `EMPTY` (5078): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
 
 `VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `VerbForm`.
 

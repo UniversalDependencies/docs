@@ -13,7 +13,7 @@ The 10 most frequent `INTJ` lemmas: <em>_</em>
 
 The 10 most frequent `INTJ` types:  <em>gö, na, A, Bfiade, Dangschee, Guat, He, Ja, bitte, geh</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt> 2269, <tt><a href="bar_maibaam-pos-PUNCT.html">PUNCT</a></tt> 2105, <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt> 1946, <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> 1458, <tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> 1417, <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> 1206, <tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt> 1129, <tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> 926, <tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt> 799, <tt><a href="bar_maibaam-pos-PROPN.html">PROPN</a></tt> 549, <tt><a href="bar_maibaam-pos-CCONJ.html">CCONJ</a></tt> 380, <tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> 341, <tt><a href="bar_maibaam-pos-NUM.html">NUM</a></tt> 240, <tt><a href="bar_maibaam-pos-PART.html">PART</a></tt> 165, <tt><a href="bar_maibaam-pos-X.html">X</a></tt> 64, <tt><a href="bar_maibaam-pos-INTJ.html">INTJ</a></tt> 23, <tt><a href="bar_maibaam-pos-SYM.html">SYM</a></tt> 7)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt> 2272, <tt><a href="bar_maibaam-pos-PUNCT.html">PUNCT</a></tt> 2105, <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt> 1959, <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> 1458, <tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> 1417, <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> 1203, <tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt> 1133, <tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> 926, <tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt> 798, <tt><a href="bar_maibaam-pos-PROPN.html">PROPN</a></tt> 545, <tt><a href="bar_maibaam-pos-CCONJ.html">CCONJ</a></tt> 380, <tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> 340, <tt><a href="bar_maibaam-pos-NUM.html">NUM</a></tt> 240, <tt><a href="bar_maibaam-pos-PART.html">PART</a></tt> 160, <tt><a href="bar_maibaam-pos-X.html">X</a></tt> 64, <tt><a href="bar_maibaam-pos-INTJ.html">INTJ</a></tt> 23, <tt><a href="bar_maibaam-pos-SYM.html">SYM</a></tt> 7)
 
 The 10 most frequent ambiguous types:  <em>na</em> (<tt><a href="bar_maibaam-pos-DET.html">DET</a></tt> 2, <tt><a href="bar_maibaam-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt> 1), <em>A</em> (<tt><a href="bar_maibaam-pos-DET.html">DET</a></tt> 8, <tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> 3, <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> 2, <tt><a href="bar_maibaam-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="bar_maibaam-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="bar_maibaam-pos-X.html">X</a></tt> 1), <em>bitte</em> (<tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> 9, <tt><a href="bar_maibaam-pos-INTJ.html">INTJ</a></tt> 1), <em>geh</em> (<tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> 6, <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="bar_maibaam-pos-INTJ.html">INTJ</a></tt> 1), <em>jo</em> (<tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> 5, <tt><a href="bar_maibaam-pos-INTJ.html">INTJ</a></tt> 1), <em>wos</em> (<tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt> 36, <tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> 21, <tt><a href="bar_maibaam-pos-INTJ.html">INTJ</a></tt> 1)
 
@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>na</em> (<tt><a href="bar_maibaam-pos
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 14.000000 (the average of all parts of speech is 281.529412).
+The form / lemma ratio of `INTJ` is 14.000000 (the average of all parts of speech is 265.444444).
 
 The 1st highest number of forms (14) was observed with the lemma “_”: <em>A, Bfiade, Dangschee, Guat, He, Ja, bitte, geh, gö, göts, jo, na, sowos, wos</em>.
 
@@ -57,7 +57,7 @@ The 1st highest number of forms (14) was observed with the lemma “_”: <em>A,
 
 `INTJ` nodes are attached to their parents using 4 different relations: <tt><a href="bar_maibaam-dep-discourse.html">discourse</a></tt> (18; 78% instances), <tt><a href="bar_maibaam-dep-ccomp.html">ccomp</a></tt> (2; 9% instances), <tt><a href="bar_maibaam-dep-obj.html">obj</a></tt> (2; 9% instances), <tt><a href="bar_maibaam-dep-root.html">root</a></tt> (1; 4% instances)
 
-Parents of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> (17; 74% instances), <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt> (2; 9% instances), <tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="bar_maibaam-pos-NUM.html">NUM</a></tt> (1; 4% instances),  (1; 4% instances)
+Parents of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> (17; 74% instances), <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="bar_maibaam-pos-NUM.html">NUM</a></tt> (1; 4% instances),  (1; 4% instances)
 
 8 (35%) `INTJ` nodes are leaves.
 

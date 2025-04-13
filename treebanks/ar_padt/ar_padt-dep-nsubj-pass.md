@@ -33,7 +33,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 9	اوبك	أُوبِك	X	X---------	Foreign=Yes	8	nmod	8:nmod	Vform=أُوبِك|Gloss=OPEC|Root='Ubik|Translit=ʾūbik|LTranslit=ʾūbik
 10	ب	بِ	ADP	P---------	AdpType=Prep	12	case	12:case	Gloss=by,with|LTranslit=bi|Root=bi|Translit=bi|Vform=بِ
 11	شأن	شَأن	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	10	fixed	10:fixed	Gloss=matter,affair,concern,regard|LTranslit=šaʾn|Root=^s ' n|Translit=šaʾni|Vform=شَأنِ
-12	رفع	رَفع	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	6	nmod	6:nmod:بِ_شَأن:gen	Vform=رَفعِ|Gloss=raising,lifting,increasing|Root=r f `|Translit=rafʿi|LTranslit=rafʿ
+12	رفع	رَفع	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	6	nmod	6:nmod:بِشَأنِ:gen	Vform=رَفعِ|Gloss=raising,lifting,increasing|Root=r f `|Translit=rafʿi|LTranslit=rafʿ
 13	الانتاج	إِنتَاج	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	12	nmod	12:nmod:gen	SpaceAfter=No|Vform=اَلإِنتَاجِ|Gloss=production,output|Root=n t ^g|Translit=al-ʾintāǧi|LTranslit=ʾintāǧ
 14	.	.	PUNCT	G---------	_	5	punct	5:punct	Vform=.|Translit=.
 
@@ -55,9 +55,9 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 7	توجه	وَجَّه	VERB	VIIP-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	4	acl:relcl	4:acl:relcl	Gloss=send,direct|LTranslit=waǧǧah|Root=w ^g h|Translit=tuwaǧǧahu|Vform=تُوَجَّهُ
 8	إلى	إِلَى	ADP	P---------	AdpType=Prep	10	case	10:case	Vform=إِلَى|Gloss=to,towards|Root=' l y|Translit=ʾilā|LTranslit=ʾilā
 9	صدام	صدام	X	U---------	_	10	nmod	10:nmod	Vform=صدام|Root=OOV|Translit=ṣdām
-10	حسين	حسين	X	U---------	_	7	obl:arg	7:obl:arg:إِلَى	Vform=حسين|Root=OOV|Translit=ḥsyn
+10	حسين	حسين	X	U---------	_	7	obl:arg	7:obl:arg:إِلَى:gen	Vform=حسين|Root=OOV|Translit=ḥsyn
 11	و	وَ	CCONJ	C---------	_	12	cc	12:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
-12	أعضاء	عُضو	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	10	conj	7:obl:arg:إِلَى|10:conj	Gloss=member|LTranslit=ʿuḍw|Root=` .d w|Translit=ʾaʿḍāʾi|Vform=أَعضَاءِ
+12	أعضاء	عُضو	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	10	conj	7:obl:arg:إِلَى:gen|10:conj	Gloss=member|LTranslit=ʿuḍw|Root=` .d w|Translit=ʾaʿḍāʾi|Vform=أَعضَاءِ
 13	قيادة	قِيَادَة	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	12	nmod	12:nmod:gen	Gloss=leadership,command,leaders,commanders|LTranslit=qiyādat|Root=q w d|Translit=qiyādati|Vform=قِيَادَةِ
 14	ه	هُوَ	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nmod	13:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hi|Vform=هِ
 15	؟	؟	PUNCT	G---------	_	4	punct	4:punct	Vform=؟|Translit=?

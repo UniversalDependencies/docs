@@ -31,7 +31,7 @@ The following 8 pairs of parts of speech are connected with `flat:name`: <tt><a 
 7	Pintado	Pintado	PROPN	NNP	Gender=Masc|Number=Sing	6	flat:name	_	_
 8	de	de	ADP	IN	_	6	orphan	_	orig_deprel=obl
 9	tesorero	tesorero	NOUN	NN	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	2	punct	_	_
+10	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -50,7 +50,7 @@ The following 8 pairs of parts of speech are connected with `flat:name`: <tt><a 
 6	de	de	ADP	IN	_	5	fixed	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	experiencia	experiencia	NOUN	NN	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
-9	.	.	PUNCT	.	_	1	punct	_	_
+9	.	.	PUNCT	.	PunctType=Peri	1	punct	_	_
 
 ~~~
 
@@ -64,7 +64,7 @@ The following 8 pairs of parts of speech are connected with `flat:name`: <tt><a 
 1	Durante	durante	ADP	IN	_	3	case	_	_
 2	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	guerra	guerra	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
-4	,	,	PUNCT	,	_	3	punct	_	_
+4	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	compound:prt	_	_
 6	utilizó	utilizar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	constantemente	constantemente	ADV	RB	_	6	advmod	_	_
@@ -74,7 +74,7 @@ The following 8 pairs of parts of speech are connected with `flat:name`: <tt><a 
 11	como	como	ADP	IN	_	12	case	_	_
 12	propaganda	propaganda	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	_
 13	estadounidense	estadounidense	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	SpaceAfter=No|Proper=True
-14	.	.	PUNCT	.	_	6	punct	_	_
+14	.	.	PUNCT	.	PunctType=Peri	6	punct	_	_
 
 ~~~
 

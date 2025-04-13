@@ -57,13 +57,13 @@ The 3rd highest number of forms (1) was observed with the lemma “car”: <em>c
 
 Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (421; 49% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (276; 32% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (102; 12% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (21; 2% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (19; 2% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-851 (100%) `CCONJ` nodes are leaves.
+852 (100%) `CCONJ` nodes are leaves.
 
-4 (0%) `CCONJ` nodes have one child.
+3 (0%) `CCONJ` nodes have one child.
 
 The highest child degree of a `CCONJ` node is 1.
 
-Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="fr_partut-dep-punct.html">punct</a></tt> (2; 50% instances), <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (1; 25% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (1; 25% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="fr_partut-dep-punct.html">punct</a></tt> (2; 67% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (1; 33% instances)
 
-Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="fr_partut-pos-PUNCT.html">PUNCT</a></tt> (2; 50% instances), <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> (1; 25% instances), <tt><a href="fr_partut-pos-PART.html">PART</a></tt> (1; 25% instances)
+Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="fr_partut-pos-PUNCT.html">PUNCT</a></tt> (2; 67% instances), <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> (1; 33% instances)
 

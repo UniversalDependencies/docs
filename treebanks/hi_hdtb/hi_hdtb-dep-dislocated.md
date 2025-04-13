@@ -22,21 +22,21 @@ The following 19 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 9 dislocated	color:blue
-1	गोरखपुर	गोरखपुर	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	obl	_	Vib=0_से|Tam=0|ChunkId=NP|ChunkType=head|Translit=gorakhapura|LTranslit=gorakhapura
-2	से	से	ADP	PSP	AdpType=Post	1	case	_	ChunkId=NP|ChunkType=child|Translit=se|LTranslit=se
-3	हर	हर	DET	QF	PronType=Ind	4	det	_	ChunkId=NP2|ChunkType=child|Translit=hara|LTranslit=hara
-4	घंटे	घंटा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	obl	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=ghaṁṭe|LTranslit=ghaṁṭā
-5	कुशीनगर	कुशीनगर	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	obl	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=kuśīnagara|LTranslit=kuśīnagara
-6	(	(	PUNCT	SYM	_	7	punct	_	SpaceAfter=No|ChunkId=NP4|ChunkType=child|Translit=(|LTranslit=(
-7	कसया	कसया	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	nmod	_	SpaceAfter=No|Vib=0|Tam=0|ChunkId=NP4|ChunkType=head|Translit=kasayā|LTranslit=kasayā
-8	)	)	PUNCT	SYM	_	7	punct	_	ChunkId=NP4|ChunkType=child|Translit=)|LTranslit=)
-9	के	के	ADP	PSP	AdpType=Post	5	dislocated	_	ChunkId=FRAGP|ChunkType=head|Translit=ke|LTranslit=ke
-10	लिए	लिए	ADP	PSP	AdpType=Post	9	dislocated	_	ChunkId=FRAGP|ChunkType=child|Translit=lie|LTranslit=lie
-11	बसें	बस	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	12	nsubj	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=baseṁ|LTranslit=basa
+1	गोरखपुर	गोरखपुर	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	obl	_	ChunkId=NP|ChunkType=head|LTranslit=gorakhapura|Tam=0|Translit=gorakhapura|Vib=0_से
+2	से	से	ADP	PSP	AdpType=Post	1	case	_	ChunkId=NP|ChunkType=child|LTranslit=se|Translit=se
+3	हर	हर	DET	QF	PronType=Ind	4	det	_	ChunkId=NP2|ChunkType=child|LTranslit=hara|Translit=hara
+4	घंटे	घंटा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	obl	_	ChunkId=NP2|ChunkType=head|LTranslit=ghaṁṭā|Tam=0|Translit=ghaṁṭe|Vib=0
+5	कुशीनगर	कुशीनगर	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	obl	_	ChunkId=NP3|ChunkType=head|LTranslit=kuśīnagara|Tam=0|Translit=kuśīnagara|Vib=0
+6	(	(	PUNCT	SYM	_	7	punct	_	ChunkId=NP4|ChunkType=child|LTranslit=(|SpaceAfter=No|Translit=(
+7	कसया	कसया	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	nmod	_	ChunkId=NP4|ChunkType=head|LTranslit=kasayā|SpaceAfter=No|Tam=0|Translit=kasayā|Vib=0
+8	)	)	PUNCT	SYM	_	7	punct	_	ChunkId=NP4|ChunkType=child|LTranslit=)|Translit=)
+9	के	के	ADP	PSP	AdpType=Post	5	dislocated	_	ChunkId=FRAGP|ChunkType=head|LTranslit=ke|Translit=ke
+10	लिए	लिए	ADP	PSP	AdpType=Post	9	dislocated	_	ChunkId=FRAGP|ChunkType=child|LTranslit=lie|Translit=lie
+11	बसें	बस	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	12	nsubj	_	ChunkId=NP5|ChunkType=head|LTranslit=basa|Tam=0|Translit=baseṁ|Vib=0
 12	मिलती	मिलना	VERB	VM	Aspect=Imp|Gender=Fem|Number=Plur|Person=3|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|LTranslit=milanā|Stype=declarative|Tam=wA|Translit=milatī|Vib=ता_रह+ता_है
 13	रहती	रहना	AUX	VAUX	Aspect=Imp|Gender=Fem|Number=Plur|VerbForm=Part	12	aux	_	ChunkId=VGF|ChunkType=child|LTranslit=rahanā|Tam=wA|Translit=rahatī|Vib=ता
-14	हैं	है	AUX	VAUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=haiṁ|LTranslit=hai
-15	।	।	PUNCT	SYM	_	12	punct	_	ChunkId=BLK|ChunkType=head|Translit=.|LTranslit=.
+14	हैं	है	AUX	VAUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	ChunkId=VGF|ChunkType=child|LTranslit=hai|Tam=hE|Translit=haiṁ|Vib=है
+15	।	।	PUNCT	SYM	_	12	punct	_	ChunkId=BLK|ChunkType=head|LTranslit=.|Translit=.
 
 ~~~
 
@@ -47,16 +47,16 @@ The following 19 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 dislocated	color:blue
-1	स्कॉटलैंड	स्कॉटलैंड	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	_	Vib=0|Tam=0|ChunkId=NP|ChunkType=head|Translit=skôṭalaiṁḍa|LTranslit=skôṭalaiṁḍa
-2	खूबसूरत	खूबसूरत	ADJ	JJ	Case=Acc	3	amod	_	ChunkId=NP2|ChunkType=child|Translit=khūbasūrata|LTranslit=khūbasūrata
-3	कासल्स	कासल	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	8	nmod	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=kāsalsa|LTranslit=kāsala
-4	(	(	PUNCT	SYM	_	5	punct	_	SpaceAfter=No|ChunkId=NP3|ChunkType=child|Translit=(|LTranslit=(
-5	किलों	किला	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	3	nmod	_	SpaceAfter=No|Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=kiloṁ|LTranslit=kilā
-6	)	)	PUNCT	SYM	_	5	punct	_	ChunkId=NP3|ChunkType=child|Translit=)|LTranslit=)
-7	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	3	dislocated	_	ChunkId=FRAGP|ChunkType=head|Translit=kā|LTranslit=kā
-8	देश	देश	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head|Translit=deśa|LTranslit=deśa
-9	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=hE|Vib=है|Translit=hai|LTranslit=hai
-10	।	।	PUNCT	SYM	_	8	punct	_	ChunkId=BLK|ChunkType=head|Translit=.|LTranslit=.
+1	स्कॉटलैंड	स्कॉटलैंड	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	_	ChunkId=NP|ChunkType=head|LTranslit=skôṭalaiṁḍa|Tam=0|Translit=skôṭalaiṁḍa|Vib=0
+2	खूबसूरत	खूबसूरत	ADJ	JJ	Case=Acc	3	amod	_	ChunkId=NP2|ChunkType=child|LTranslit=khūbasūrata|Translit=khūbasūrata
+3	कासल्स	कासल	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	8	nmod	_	ChunkId=NP2|ChunkType=head|LTranslit=kāsala|Tam=0|Translit=kāsalsa|Vib=0
+4	(	(	PUNCT	SYM	_	5	punct	_	ChunkId=NP3|ChunkType=child|LTranslit=(|SpaceAfter=No|Translit=(
+5	किलों	किला	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	3	nmod	_	ChunkId=NP3|ChunkType=head|LTranslit=kilā|SpaceAfter=No|Tam=0|Translit=kiloṁ|Vib=0
+6	)	)	PUNCT	SYM	_	5	punct	_	ChunkId=NP3|ChunkType=child|LTranslit=)|Translit=)
+7	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	3	dislocated	_	ChunkId=FRAGP|ChunkType=head|LTranslit=kā|Translit=kā
+8	देश	देश	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	ChunkId=NP4|ChunkType=head|CxnElt=9:Existential-CopPred.Pivot|LTranslit=deśa|Tam=0|Translit=deśa|Vib=0
+9	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	ChunkId=VGF|ChunkType=head|Cxn=Existential-CopPred|LTranslit=hai|Stype=declarative|Tam=hE|Translit=hai|Vib=है
+10	।	।	PUNCT	SYM	_	8	punct	_	ChunkId=BLK|ChunkType=head|LTranslit=.|Translit=.
 
 ~~~
 
@@ -67,21 +67,21 @@ The following 19 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 dislocated	color:blue
-1	गोरखपुर	गोरखपुर	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	obl	_	Vib=0_से|Tam=0|ChunkId=NP|ChunkType=head|Translit=gorakhapura|LTranslit=gorakhapura
-2	से	से	ADP	PSP	AdpType=Post	1	case	_	ChunkId=NP|ChunkType=child|Translit=se|LTranslit=se
-3	हर	हर	DET	QF	PronType=Ind	4	det	_	ChunkId=NP2|ChunkType=child|Translit=hara|LTranslit=hara
-4	घंटे	घंटा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	obl	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=ghaṁṭe|LTranslit=ghaṁṭā
-5	कुशीनगर	कुशीनगर	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	obl	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=kuśīnagara|LTranslit=kuśīnagara
-6	(	(	PUNCT	SYM	_	7	punct	_	SpaceAfter=No|ChunkId=NP4|ChunkType=child|Translit=(|LTranslit=(
-7	कसया	कसया	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	nmod	_	SpaceAfter=No|Vib=0|Tam=0|ChunkId=NP4|ChunkType=head|Translit=kasayā|LTranslit=kasayā
-8	)	)	PUNCT	SYM	_	7	punct	_	ChunkId=NP4|ChunkType=child|Translit=)|LTranslit=)
-9	के	के	ADP	PSP	AdpType=Post	5	dislocated	_	ChunkId=FRAGP|ChunkType=head|Translit=ke|LTranslit=ke
-10	लिए	लिए	ADP	PSP	AdpType=Post	9	dislocated	_	ChunkId=FRAGP|ChunkType=child|Translit=lie|LTranslit=lie
-11	बसें	बस	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	12	nsubj	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=baseṁ|LTranslit=basa
+1	गोरखपुर	गोरखपुर	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	obl	_	ChunkId=NP|ChunkType=head|LTranslit=gorakhapura|Tam=0|Translit=gorakhapura|Vib=0_से
+2	से	से	ADP	PSP	AdpType=Post	1	case	_	ChunkId=NP|ChunkType=child|LTranslit=se|Translit=se
+3	हर	हर	DET	QF	PronType=Ind	4	det	_	ChunkId=NP2|ChunkType=child|LTranslit=hara|Translit=hara
+4	घंटे	घंटा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	obl	_	ChunkId=NP2|ChunkType=head|LTranslit=ghaṁṭā|Tam=0|Translit=ghaṁṭe|Vib=0
+5	कुशीनगर	कुशीनगर	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	obl	_	ChunkId=NP3|ChunkType=head|LTranslit=kuśīnagara|Tam=0|Translit=kuśīnagara|Vib=0
+6	(	(	PUNCT	SYM	_	7	punct	_	ChunkId=NP4|ChunkType=child|LTranslit=(|SpaceAfter=No|Translit=(
+7	कसया	कसया	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	nmod	_	ChunkId=NP4|ChunkType=head|LTranslit=kasayā|SpaceAfter=No|Tam=0|Translit=kasayā|Vib=0
+8	)	)	PUNCT	SYM	_	7	punct	_	ChunkId=NP4|ChunkType=child|LTranslit=)|Translit=)
+9	के	के	ADP	PSP	AdpType=Post	5	dislocated	_	ChunkId=FRAGP|ChunkType=head|LTranslit=ke|Translit=ke
+10	लिए	लिए	ADP	PSP	AdpType=Post	9	dislocated	_	ChunkId=FRAGP|ChunkType=child|LTranslit=lie|Translit=lie
+11	बसें	बस	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	12	nsubj	_	ChunkId=NP5|ChunkType=head|LTranslit=basa|Tam=0|Translit=baseṁ|Vib=0
 12	मिलती	मिलना	VERB	VM	Aspect=Imp|Gender=Fem|Number=Plur|Person=3|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|LTranslit=milanā|Stype=declarative|Tam=wA|Translit=milatī|Vib=ता_रह+ता_है
 13	रहती	रहना	AUX	VAUX	Aspect=Imp|Gender=Fem|Number=Plur|VerbForm=Part	12	aux	_	ChunkId=VGF|ChunkType=child|LTranslit=rahanā|Tam=wA|Translit=rahatī|Vib=ता
-14	हैं	है	AUX	VAUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=haiṁ|LTranslit=hai
-15	।	।	PUNCT	SYM	_	12	punct	_	ChunkId=BLK|ChunkType=head|Translit=.|LTranslit=.
+14	हैं	है	AUX	VAUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	ChunkId=VGF|ChunkType=child|LTranslit=hai|Tam=hE|Translit=haiṁ|Vib=है
+15	।	।	PUNCT	SYM	_	12	punct	_	ChunkId=BLK|ChunkType=head|LTranslit=.|Translit=.
 
 ~~~
 

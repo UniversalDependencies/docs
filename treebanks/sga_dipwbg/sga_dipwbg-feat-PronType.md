@@ -18,13 +18,13 @@ The feature is used with 5 part-of-speech tags: <tt><a href="sga_dipwbg-pos-PRON
 
 68 <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sga_dipwbg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (59; 87%), <tt><a href="sga_dipwbg-feat-PronClass.html">PronClass</a></tt><tt>=EMPTY</tt> (56; 82%), <tt><a href="sga_dipwbg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (48; 71%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sga_dipwbg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (57; 84%), <tt><a href="sga_dipwbg-feat-PronClass.html">PronClass</a></tt><tt>=EMPTY</tt> (56; 82%), <tt><a href="sga_dipwbg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (48; 71%), <tt><a href="sga_dipwbg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41; 60%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Ana` (1; 1% of non-empty `PronType`): <em>són</em>
 * `Emp` (24; 35% of non-empty `PronType`): <em>sa, si, se, ni, so, som</em>
-* `Ind` (4; 6% of non-empty `PronType`): <em>cách, cáich, níi</em>
+* `Ind` (4; 6% of non-empty `PronType`): <em>cách, níi, cáich</em>
 * `Int` (2; 3% of non-empty `PronType`): <em>cote, cain</em>
 * `Prs` (37; 54% of non-empty `PronType`): <em>mo, a, for, m, ar, t, far, hed, hé, b</em>
 

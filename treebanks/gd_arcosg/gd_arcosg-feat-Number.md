@@ -39,13 +39,13 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 7991 <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> tokens (83% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=3</tt> (6186; 77%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7991; 100%), <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=3</tt> (6186; 77%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (1984; 25% of non-empty `Number`): <em>iad, sinn, sibh, an, iadsan, sinne, sibhse, ar, àsan, ur</em>
 * `Sing` (6007; 75% of non-empty `Number`): <em>e, i, mi, a, thu, esan, mise, ise, tu, thusa</em>
-* `EMPTY` (1679): <em>sin, fhèin, seo, dè, fhéin, cò, siud, na, dé, chèile</em>
+* `EMPTY` (1660): <em>sin, fhèin, seo, dè, fhéin, cò, siud, na, dé, chèile</em>
 
 <table>
   <tr><th>Paradigm <i>sinn</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -60,27 +60,27 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 5955 <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> tokens (91% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5071; 85%), <tt><a href="gd_arcosg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5071; 85%), <tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4964; 83%), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (4964; 83%), <tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4676; 79%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3288; 55%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5071; 85%), <tt><a href="gd_arcosg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5071; 85%), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (5071; 85%), <tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4964; 83%), <tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4676; 79%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3288; 55%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Dual` (3; 0% of non-empty `Number`): <em>an</em>
 * `Plur` (1212; 20% of non-empty `Number`): <em>na, nan, an, nam, am, ar, ur, ’n, 'n, 'm</em>
 * `Sing` (4740; 80% of non-empty `Number`): <em>an, a’, a, na, a', am, 'n, mo, do, 'm</em>
-* `EMPTY` (584): <em>sin, seo, a, h-uile, gach, ud, sa, siud, the, sineach</em>
+* `EMPTY` (585): <em>sin, seo, a, h-uile, gach, ud, sa, siud, the, sineach</em>
 
 <table>
   <tr><th>Paradigm <i>an</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>an, am, a’</em></td><td></td><td><em>na</em></td></tr>
-  <tr><td><tt><tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>a', an, am, a’, a, na</em></td><td></td><td><em>nan, na, nam</em></td></tr>
   <tr><td><tt><tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>an, a’, a', am, na</em></td><td><em>an</em></td><td><em>nan, na, nam</em></td></tr>
   <tr><td><tt><tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>na, an, a', a’</em></td><td></td><td><em>nan, na, nam</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>a', an, am, a’, a, na</em></td><td></td><td><em>nan, na, nam</em></td></tr>
   <tr><td><tt><tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>an, a’, am, 'n, a', 'm, ‘n, ’n, nam</em></td><td></td><td><em>na</em></td></tr>
   <tr><td><tt><tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>an, a’, a', 'n, ‘n, am, a, 'm, ‘m</em></td><td></td><td><em>na</em></td></tr>
   <tr><td><tt><tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>an, a', am, a’, 'm, a, 'n</em></td><td></td><td><em>na</em></td></tr>
-  <tr><td><tt><tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>am, an, a’</em></td><td></td><td><em>na</em></td></tr>
-  <tr><td><tt><tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>an, a’, a'</em></td><td></td><td><em>na</em></td></tr>
-  <tr><td><tt><tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="gd_arcosg-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td><em>an, am, ’n, 'n, 'm, a</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>am, an, a’</em></td><td></td><td><em>na</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>an, a’, a'</em></td><td></td><td><em>na</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="gd_arcosg-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>an, am, ’n, 'n, 'm, a</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>an, am, a’</em></td><td></td><td><em>na</em></td></tr>
 </table>
 
 ### `ADJ`
@@ -94,7 +94,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 * `Dual` (1; 0% of non-empty `Number`): <em>bhuig</em>
 * `Plur` (335; 23% of non-empty `Number`): <em>eile, ùra, beaga, mòra, móra, dùthchail, annasach, làidir, Èireannach, ionadail</em>
 * `Sing` (1123; 77% of non-empty `Number`): <em>eile, ùr, beag, mhòr, mòr, math, àrd, ghoirid, òg, mór</em>
-* `EMPTY` (1962): <em>bith, sam, cinnteach, math, faisg, thall, seann, fhearr, droch, coltach</em>
+* `EMPTY` (1961): <em>bith, sam, cinnteach, math, faisg, thall, seann, fhearr, droch, coltach</em>
 
 <table>
   <tr><th>Paradigm <i>eile</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -110,7 +110,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-det.html">det</a></tt>]--> DET</tt> (4525; 88%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-det.html">det</a></tt>]--> DET</tt> (4526; 88%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1966; 65%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1280; 67%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (414; 70%),

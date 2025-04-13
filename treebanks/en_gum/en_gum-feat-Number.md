@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Plur`, `Ptan`, `Sing`.
 
-80329 tokens (38%) have a non-empty value of `Number`.
-13421 types (77%) occur at least once with a non-empty value of `Number`.
-10413 lemmas (76%) occur at least once with a non-empty value of `Number`.
-The feature is used with 11 part-of-speech tags: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (35511; 17% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (15472; 7% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (12188; 6% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (8193; 4% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (7602; 4% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (1315; 1% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (26; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+80316 tokens (38%) have a non-empty value of `Number`.
+13401 types (77%) occur at least once with a non-empty value of `Number`.
+10388 lemmas (76%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (35506; 17% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (15472; 7% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (12183; 6% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (8204; 4% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (7603; 4% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (1315; 1% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (26; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (7; 0% instances).
 
 ### `NOUN`
 
-35511 <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+35506 <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (9822; 28% of non-empty `Number`): <em>people, years, things, days, guys, data, minutes, others, studies, children</em>
-* `Ptan` (94; 0% of non-empty `Number`): <em>clothes, species, thanks, pants, glasses, means, newspapers, politics, jeans, surroundings</em>
-* `Sing` (25595; 72% of non-empty `Number`): <em>time, day, way, life, world, year, city, today, work, example</em>
+* `Plur` (9785; 28% of non-empty `Number`): <em>people, years, things, days, guys, data, minutes, others, studies, children</em>
+* `Ptan` (132; 0% of non-empty `Number`): <em>clothes, species, thanks, pants, glasses, means, newspapers, 1960s, politics, jeans</em>
+* `Sing` (25589; 72% of non-empty `Number`): <em>time, day, way, life, world, year, city, today, work, example</em>
 * `EMPTY` (1): <em>per</em>
 
 <table>
@@ -40,7 +40,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (3483; 23% of non-empty `Number`): <em>we, they, our, their, them, us, you, those, these, 's</em>
 * `Sing` (11989; 77% of non-empty `Number`): <em>i, it, you, he, that, his, your, my, this, she</em>
-* `EMPTY` (2346): <em>that, what, which, there, who, whatever, whose, whom, one, whoever</em>
+* `EMPTY` (2347): <em>that, what, which, there, who, whatever, whose, whom, one, whoever</em>
 
 <table>
   <tr><th>Paradigm <i>you</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -53,13 +53,13 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `PROPN`
 
-12188 <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+12183 <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (607; 5% of non-empty `Number`): <em>States, Americans, Nations, skittles, Chathams, Mets, Sox, Democrats, Olmec, Muslims</em>
+* `Plur` (620; 5% of non-empty `Number`): <em>States, Americans, Nations, skittles, Chathams, Pirates, Mets, Sox, Democrats, Olmec</em>
 * `Ptan` (34; 0% of non-empty `Number`): <em>Netherlands, Olympics, Commons, Paralympics, Philippines, Vans, Analytics, Andes, Forties, Maldives</em>
-* `Sing` (11547; 95% of non-empty `Number`): <em>University, President, York, New, America, Warhol, north, figure, south, Scientology</em>
+* `Sing` (11529; 95% of non-empty `Number`): <em>University, President, York, New, America, Warhol, figure, south, Scientology, north</em>
 * `EMPTY` (1): <em>#langu</em>
 
 <table>
@@ -67,19 +67,19 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt></tt></td><td><em>State, States</em></td><td><em>States</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (4119) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (4117) occur only with one value of `Number`.
 
 ### `VERB`
 
-8193 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Number`.
+8204 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="en_gum-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8193; 100%), <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8178; 100%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (8172; 100%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt> (5525; 67%), <tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4655; 57%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8204; 100%), <tt><a href="en_gum-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8204; 100%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (8196; 100%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt> (5545; 68%), <tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4681; 57%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (2225; 27% of non-empty `Number`): <em>have, are, had, know, need, want, make, do, go, got</em>
-* `Sing` (5968; 73% of non-empty `Number`): <em>know, said, think, has, have, had, is, 's, mean, want</em>
-* `EMPTY` (14085): <em>have, do, make, get, see, go, know, take, united, going</em>
+* `Plur` (2244; 27% of non-empty `Number`): <em>have, are, had, know, need, want, make, do, go, got</em>
+* `Sing` (5960; 73% of non-empty `Number`): <em>know, said, think, has, have, had, is, 's, mean, want</em>
+* `EMPTY` (14073): <em>have, do, make, get, see, go, know, united, take, going</em>
 
 <table>
   <tr><th>Paradigm <i>have</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -94,19 +94,19 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `AUX`
 
-7602 <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> tokens (67% of all `AUX` tokens) have a non-empty value of `Number`.
+7603 <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> tokens (67% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7598; 100%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7588; 100%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt> (5922; 78%), <tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5610; 74%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7602; 100%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7592; 100%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt> (5925; 78%), <tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5614; 74%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (1798; 24% of non-empty `Number`): <em>are, were, have, 're, do, did, had, 've, ’re, was</em>
-* `Sing` (5804; 76% of non-empty `Number`): <em>is, was, 's, has, do, 'm, did, ’s, had, does</em>
-* `EMPTY` (3753): <em>be, can, will, would, been, should, could, may, 'll, being</em>
+* `Plur` (1801; 24% of non-empty `Number`): <em>are, were, have, 're, do, did, had, 've, ’re, was</em>
+* `Sing` (5802; 76% of non-empty `Number`): <em>is, was, 's, has, do, 'm, did, ’s, had, does</em>
+* `EMPTY` (3752): <em>be, can, will, would, been, should, could, may, 'll, being</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>R, Be</em></td><td></td></tr>
+  <tr><td><tt>_</tt></td><td><em>Be</em></td><td></td></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>was</em></td><td><em>were, was</em></td></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>'m, am, ’m</em></td><td><em>are, 're, ’re</em></td></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>were, was</em></td><td><em>were</em></td></tr>
@@ -114,7 +114,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="en_gum-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>was, where</em></td><td><em>were</em></td></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>was</em></td><td><em>were, was</em></td></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="en_gum-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>is, s</em></td><td><em>are</em></td></tr>
-  <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>is, 's, ’s, S’</em></td><td><em>are, 're, ’re, am</em></td></tr>
+  <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>is, 's, ’s, S’</em></td><td><em>are, 're, ’re, R, am</em></td></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>were</em></td></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>be</em></td><td><em>be</em></td></tr>
 </table>
@@ -129,7 +129,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (324; 25% of non-empty `Number`): <em>these, those</em>
 * `Sing` (991; 75% of non-empty `Number`): <em>this, that, half</em>
-* `EMPTY` (16017): <em>the, a, an, all, some, no, any, every, another, each</em>
+* `EMPTY` (16016): <em>the, a, an, all, some, no, any, every, another, each</em>
 
 <table>
   <tr><th>Paradigm <i>this</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -143,20 +143,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 `SYM` tokens may have the following values of `Number`:
 
 * `Sing` (26; 100% of non-empty `Number`): <em>%</em>
-* `EMPTY` (290): <em>/, –, $, -, +, =, DKK, €, £, §</em>
-
-### `ADV`
-
-13 <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="en_gum-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (13; 100%).
-
-`ADV` tokens may have the following values of `Number`:
-
-* `Sing` (13; 100% of non-empty `Number`): <em>Always, Now, Alike, Little, Loud, Out, Too, Truly, northwest, south</em>
-* `EMPTY` (10097): <em>so, when, just, then, also, how, now, more, here, really</em>
-
-`Number` seems to be **lexical feature** of `ADV`. 100% lemmas (10) occur only with one value of `Number`.
+* `EMPTY` (291): <em>/, –, $, -, +, =, DKK, €, £, §</em>
 
 ### `NUM`
 
@@ -167,39 +154,19 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 `NUM` tokens may have the following values of `Number`:
 
 * `Sing` (7; 100% of non-empty `Number`): <em>half, Seven, Three</em>
-* `EMPTY` (3985): <em>one, two, 1, three, 2, 3, four, 4, five, 10</em>
-
-### `ADJ`
-
-1 <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="en_gum-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`ADJ` tokens may have the following values of `Number`:
-
-* `Sing` (1; 100% of non-empty `Number`): <em>Alone</em>
-* `EMPTY` (13950): <em>other, first, new, many, good, little, more, different, such, same</em>
-
-### `PUNCT`
-
-1 <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Number`.
-
-`PUNCT` tokens may have the following values of `Number`:
-
-* `Sing` (1; 100% of non-empty `Number`): <em>point</em>
-* `EMPTY` (28955): <em>,, ., -, ", ?, (, ), —, [, :</em>
+* `EMPTY` (3987): <em>one, two, 1, three, 2, 3, four, 4, five, 10</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="en_gum-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3892; 55%),
-<tt>NOUN --[<tt><a href="en_gum-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3179; 61%),
+<tt>VERB --[<tt><a href="en_gum-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3899; 55%),
+<tt>NOUN --[<tt><a href="en_gum-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3171; 61%),
 <tt>NOUN --[<tt><a href="en_gum-dep-compound.html">compound</a></tt>]--> NOUN</tt> (2256; 67%),
-<tt>NOUN --[<tt><a href="en_gum-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2054; 80%),
-<tt>VERB --[<tt><a href="en_gum-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1917; 68%),
+<tt>NOUN --[<tt><a href="en_gum-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2055; 80%),
+<tt>VERB --[<tt><a href="en_gum-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1929; 68%),
 <tt>NOUN --[<tt><a href="en_gum-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (1805; 65%),
-<tt>PROPN --[<tt><a href="en_gum-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1648; 99%),
-<tt>PROPN --[<tt><a href="en_gum-dep-compound.html">compound</a></tt>]--> PROPN</tt> (1272; 91%),
+<tt>PROPN --[<tt><a href="en_gum-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1650; 99%),
+<tt>PROPN --[<tt><a href="en_gum-dep-compound.html">compound</a></tt>]--> PROPN</tt> (1267; 90%),
 <tt>NOUN --[<tt><a href="en_gum-dep-cop.html">cop</a></tt>]--> AUX</tt> (1263; 77%),
-<tt>NOUN --[<tt><a href="en_gum-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (790; 67%).
+<tt>NOUN --[<tt><a href="en_gum-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (789; 67%).
 

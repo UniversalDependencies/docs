@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Old_East_Slavic-Ruthenian: Relations: `expl`
 
 This relation is universal.
+There are 1 language-specific subtypes of `expl`: <tt><a href="orv_ruthenian-dep-expl-pv.html">expl:pv</a></tt>.
 
-184 nodes (0%) are attached to their parents as `expl`.
+192 nodes (0%) are attached to their parents as `expl`.
 
-174 instances of `expl` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.57065217391304.
+179 instances of `expl` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.49479166666667.
 
-The following 7 pairs of parts of speech are connected with `expl`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (153; 83% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (23; 13% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `expl`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (157; 82% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (23; 12% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -55,32 +56,44 @@ The following 7 pairs of parts of speech are connected with `expl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 17 expl	color:blue
-1	Вырок	вырокъ	NOUN	NNI	Case=Nom|Gender=Masc|Number=Sing	0	root	_	wf="Вырок"
-2	бояром	бояринъ	NOUN	NNA	Case=Dat|Gender=Masc|Number=Plur	1	nmod	_	wf="бояром"
-3	полоцким	полоцкий	ADJ	JJL	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	wf="полоцким"
-4	Васкꙋ	Васко	PROPN	NPA	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	2	appos	_	wf="Васкꙋ"|SpaceAfter=No
-5	,	,	PUNCT	-COMMA-	_	6	punct	_	_
-6	Гаврилꙋ	Гаврило	PROPN	NPA	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	4	conj	_	wf="Гаврилꙋ"
-7	а	а	CCONJ	СС	_	8	cc	_	wf="а"
-8	Богданꙋ	Богданъ	PROPN	NPA	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	4	conj	_	wf="Богданꙋ"
-9	Сен(ь)ковичом	Сенковичъ	PROPN	NPA	Case=Ins|Gender=Masc|NameType=Pat|Number=Sing	4	flat:name	_	wf="Сеньковичом"
-10	Радковичом	Радковичъ	PROPN	NPA	Case=Ins|Gender=Masc|NameType=Pat|Number=Sing	4	flat:name	_	wf="Радковичом"
-11	с	съ	ADP	IN	_	14	case	_	wf="с"
-12	поддаными	подданый	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	14	amod	_	wf="поддаными"
-13	ихъ	они	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	det	_	wf="ихъ"
-14	свиляны	свилянинъ	NOUN	NNA	Case=Ins|Gender=Masc|Number=Plur	1	nmod	_	wf="свиляны"
-15	ѡ	о	ADP	IN	_	16	case	_	wf="ѡ"
-16	выламованье	выламованье	NOUN	NNI	Case=Acc|Gender=Neut|Number=Sing	1	nmod	_	wf="выламованье"
-17	се	се	PART	RP	_	16	expl	_	wf="се"
-18	имъ	они	PRON	PRP	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	nmod	_	wf="имъ"
-19	з	зъ	ADP	IN	_	20	case	_	wf="з"
-20	держан(ь)я	держанье	NOUN	NNI	Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	wf="держанья"
-21	Самъ.	самодержецъ	NOUN	NNA	Abbr=Yes	1	parataxis	_	wf="Самъ."
+# visual-style 30	bgColor:blue
+# visual-style 30	fgColor:white
+# visual-style 32	bgColor:blue
+# visual-style 32	fgColor:white
+# visual-style 32 30 expl	color:blue
+1	Звыше	звыше	ADP	_	_	3	case	_	wf="Звыше"
+2	тыхь	тотъ	DET	_	Case=Gen|Gender=Neut|Number=Plur|PronType=Dem	3	det	_	wf="тыхь"
+3	врочищь	урочище	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	wf="врочищь"
+4	лѣсъ	лѣсъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	wf="лѣсъ"
+5	и	и	CCONJ	_	_	6	cc	_	wf="и"
+6	поле	поле	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	wf="поле"
+7	и	и	CCONJ	_	_	8	cc	_	wf="и"
+8	доубровы	дуброва	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	conj	_	wf="дубровы"
+9	—	—	PUNCT	_	_	12	punct	_	wf="—"
+10	то	то	PART	_	_	12	expl	_	wf="то"
+11	єс[ть]	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	wf="єсть"
+12	Дѣдошицкоє	дѣдошицкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	wf="Дѣдошицкоє"|SpaceAfter=No
+13	;	;	PUNCT	_	_	32	punct	_	wf=";"
+14	изниже	изниже	ADP	_	_	16	case	_	wf="изниже"
+15	тых	тотъ	DET	_	Case=Gen|Gender=Neut|Number=Plur|PronType=Dem	16	det	_	wf="тых"
+16	врочищь	урочище	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	18	nmod	_	wf="врочищь"|SpaceAfter=No
+17	:	:	PUNCT	_	_	16	punct	_	wf=":"
+18	лѣсь	лѣсь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	32	nsubj	_	wf="лѣсь"
+19	и	и	CCONJ	_	_	20	cc	_	wf="и"
+20	Балина	Балина	PROPN	_	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	18	conj	_	wf="Балина"|SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	wf=","
+22	вокно	вокно	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	20	appos	_	wf="вокно"
+23	солноє	солный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	wf="солноє"|SpaceAfter=No
+24	,	,	PUNCT	_	_	22	punct	_	wf=","
+25	и	и	CCONJ	_	_	26	cc	_	wf="и"
+26	поле	поле	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	18	conj	_	wf="поле"
+27	и	и	CCONJ	_	_	28	cc	_	wf="и"
+28	доубровы	дуброва	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	18	conj	_	wf="дубровы"
+29	—	—	PUNCT	_	_	32	punct	_	wf="—"
+30	то	то	PART	_	_	32	expl	_	wf="то"
+31	єс[ть]	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	cop	_	wf="єсть"
+32	Балицкоє	балицкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	conj	_	wf="Балицкоє"|SpaceAfter=No
+33	.	.	PUNCT	_	_	12	punct	_	wf="."
 
 ~~~
 

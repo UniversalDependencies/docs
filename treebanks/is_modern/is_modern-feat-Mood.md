@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-9449 tokens (12%) have a non-empty value of `Mood`.
-1153 types (11%) occur at least once with a non-empty value of `Mood`.
+9450 tokens (12%) have a non-empty value of `Mood`.
+1154 types (11%) occur at least once with a non-empty value of `Mood`.
 434 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 5 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (4763; 6% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4668; 6% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (4763; 6% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4668; 6% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -99,7 +99,7 @@ The most frequent other feature values with which `NOUN` and `Mood` co-occurred:
 
 * `Imp` (1; 33% of non-empty `Mood`): <em>Innheimtu</em>
 * `Ind` (2; 67% of non-empty `Mood`): <em>bönnum, leiðir</em>
-* `EMPTY` (13642): <em>forseti, menn, þingmaður, mál, ráðherra, fólk, tíma, máli, m, frú</em>
+* `EMPTY` (13641): <em>forseti, menn, þingmaður, mál, ráðherra, fólk, tíma, máli, m, frú</em>
 
 ### `ADP`
 
@@ -109,6 +109,17 @@ The most frequent other feature values with which `NOUN` and `Mood` co-occurred:
 
 * `Ind` (2; 100% of non-empty `Mood`): <em>á</em>
 * `EMPTY` (10207): <em>í, á, til, um, með, fyrir, við, af, að, fram</em>
+
+### `X`
+
+1 <tt><a href="is_modern-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Mood`.
+
+The most frequent other feature values with which `X` and `Mood` co-occurred: <tt><a href="is_modern-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`X` tokens may have the following values of `Mood`:
+
+* `Ind` (1; 100% of non-empty `Mood`): <em>ákvaðu</em>
+* `EMPTY` (90): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
 
 ## Relations with Agreement in `Mood`
 

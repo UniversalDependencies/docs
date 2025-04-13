@@ -14,18 +14,18 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 19989 tokens (47%) have a non-empty value of `Number`.
 2528 types (77%) occur at least once with a non-empty value of `Number`.
 1864 lemmas (76%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (5415; 13% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (4335; 10% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (3523; 8% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (3452; 8% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (2071; 5% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (953; 2% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (185; 0% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (38; 0% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (17; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (5416; 13% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (4335; 10% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (3523; 8% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (3450; 8% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (2071; 5% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (954; 2% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (185; 0% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (38; 0% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (17; 0% instances).
 
 ### `PRON`
 
-5415 <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> tokens (84% of all `PRON` tokens) have a non-empty value of `Number`.
+5416 <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> tokens (84% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3384; 62%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (3338; 62%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2936; 54%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3384; 62%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (3339; 62%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2937; 54%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (370; 7% of non-empty `Number`): <em>nous, ils, vous, les, tous, elles, leur, eux, ceux, autres</em>
-* `Sing` (5045; 93% of non-empty `Number`): <em>on, je, c', il, j', ça, elle, tu, me, moi</em>
+* `Sing` (5046; 93% of non-empty `Number`): <em>on, je, c', il, j', ça, elle, tu, me, moi</em>
 * `EMPTY` (1020): <em>y, qui, s', se, que, où, qu', en, quoi, -y</em>
 
 <table>
@@ -78,14 +78,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `DET`
 
-3452 <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
+3450 <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="fr_parisstories-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2987; 87%), <tt><a href="fr_parisstories-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2986; 87%), <tt><a href="fr_parisstories-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2986; 87%), <tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2811; 81%), <tt><a href="fr_parisstories-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1928; 56%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="fr_parisstories-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2985; 87%), <tt><a href="fr_parisstories-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2984; 86%), <tt><a href="fr_parisstories-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2984; 86%), <tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2811; 81%), <tt><a href="fr_parisstories-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1927; 56%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (729; 21% of non-empty `Number`): <em>les, des, mes, ses, nos, quelques, leurs, d', tes, ces</em>
-* `Sing` (2723; 79% of non-empty `Number`): <em>le, la, un, une, l', mon, ma, cette, ce, son</em>
+* `Sing` (2721; 79% of non-empty `Number`): <em>le, la, un, une, l', mon, ma, cette, ce, son</em>
 * `EMPTY` (18): <em>les, de, du, quelque, d', du~, l', la, quelques</em>
 
 <table>
@@ -128,14 +128,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `ADJ`
 
-953 <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> tokens (79% of all `ADJ` tokens) have a non-empty value of `Number`.
+954 <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> tokens (79% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (514; 54%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (515; 54%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (212; 22% of non-empty `Number`): <em>tous, petits, autres, toutes, petites, scolaires, meilleures, mêmes, atypiques, courts</em>
-* `Sing` (741; 78% of non-empty `Number`): <em>tout, première, petit, autre, petite, même, horrible, bonne, sympa, vrai</em>
+* `Sing` (742; 78% of non-empty `Number`): <em>tout, première, petit, autre, petite, même, horrible, bonne, sympa, vrai</em>
 * `EMPTY` (260): <em>tout, petit, même, tous, premier, petite, contente, gros, toute, vrai</em>
 
 <table>
@@ -190,7 +190,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="fr_parisstories-dep-det.html">det</a></tt>]--> DET</tt> (2987; 99%),
+<tt>NOUN --[<tt><a href="fr_parisstories-dep-det.html">det</a></tt>]--> DET</tt> (2988; 99%),
 <tt>VERB --[<tt><a href="fr_parisstories-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2725; 92%),
 <tt>VERB --[<tt><a href="fr_parisstories-dep-aux-tense.html">aux:tense</a></tt>]--> AUX</tt> (913; 92%),
 <tt>VERB --[<tt><a href="fr_parisstories-dep-obj.html">obj</a></tt>]--> NOUN</tt> (478; 51%),

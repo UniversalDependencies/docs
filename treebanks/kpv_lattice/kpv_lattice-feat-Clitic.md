@@ -18,7 +18,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="kpv_lattice-pos-VER
 
 16 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `VERB` and `Clitic` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="kpv_lattice-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12; 75%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12; 75%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 69%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (11; 69%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (10; 63%).
+The most frequent other feature values with which `VERB` and `Clitic` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12; 75%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12; 75%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 69%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (11; 69%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (10; 63%).
 
 `VERB` tokens may have the following values of `Clitic`:
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `obj`: <tt><a href="sga_dipsgg-dep-obj-infx.html">obj:infx</a></tt>.
 
-8 nodes (2%) are attached to their parents as `obj`.
+9 nodes (2%) are attached to their parents as `obj`.
 
-8 instances of `obj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.25.
+9 instances of `obj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.22222222222222.
 
-The following 1 pairs of parts of speech are connected with `obj`: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (8; 100% instances).
+The following 1 pairs of parts of speech are connected with `obj`: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (9; 100% instances).
 
 
 ~~~ conllu

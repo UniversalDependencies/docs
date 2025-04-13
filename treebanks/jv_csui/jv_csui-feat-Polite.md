@@ -10,7 +10,7 @@ This feature is universal but the values `Elev`, `Humb` are language-specific.
 It occurs with 4 different values: `Elev`, `Form`, `Humb`, `Infm`.
 
 4919 tokens (34%) have a non-empty value of `Polite`.
-704 types (19%) occur at least once with a non-empty value of `Polite`.
+705 types (19%) occur at least once with a non-empty value of `Polite`.
 1 lemmas (0) occur at least once with a non-empty value of `Polite`.
 The feature is used with 13 part-of-speech tags: <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (946; 7% instances), <tt><a href="jv_csui-pos-DET.html">DET</a></tt> (646; 5% instances), <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> (622; 4% instances), <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> (513; 4% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> (442; 3% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (421; 3% instances), <tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> (338; 2% instances), <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> (303; 2% instances), <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> (245; 2% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> (209; 1% instances), <tt><a href="jv_csui-pos-PART.html">PART</a></tt> (165; 1% instances), <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> (65; 0% instances), <tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt> (4; 0% instances).
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `DET` and `Polite` co-occurred
 
 * `Form` (50; 8% of non-empty `Polite`): <em>punika, ipun, menika, sedaya, ingkang, pinten-pinten, piyambak</em>
 * `Infm` (596; 92% of non-empty `Polite`): <em>e, iku, kuwi, iki, saben, dhewe, kabeh, akeh, semana, sawijining</em>
-* `EMPTY` (55): <em>saperangan, para, sawetara, maneka, niku, pirang-pirang, satunggaling, meh, niki, saindeng</em>
+* `EMPTY` (54): <em>saperangan, para, sawetara, maneka, niku, pirang-pirang, satunggaling, meh, niki, sakabehing</em>
 
 ### `ADP`
 

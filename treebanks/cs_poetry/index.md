@@ -12,15 +12,15 @@ udver: '2'
 # UD Czech Poetry
 
 Language: [Czech](/cs/index.html) (code: `cs`)<br/>
-Family: Indo-European, Slavic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.13 release.
 
 The following people have contributed to making this treebank part of UD: Silvie Cinková.
 
 Repository: [UD_Czech-Poetry](https://github.com/UniversalDependencies/UD_Czech-Poetry)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_poetry214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_poetry215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -477,7 +477,7 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
   <li>Pos
     <ul>
       <li>ADJ: věčné, bílé, celý, plný, bílý, jiné, kamenném, nové, tiché, tmavou</li>
-      <li>ADJ-Part: rozvodněná, skrytých, umdlená, zamračený, Drážděné, Neslýchané, Oněmlé, Ukřižovaného, Vzbouřené, Zsinalá</li>
+      <li>ADJ-Part: Vyloupena, otráven, rozvodněná, skrytých, umdlená, zamračený, Drážděné, Neslýchané, Oněmlé, Očištěna</li>
       <li>ADV: náhle, volně, Kdys, dole, dosti, dávno, hluboko, hrdě, jistě, krvavě</li>
       <li>DET: málo, všicí</li>
     </ul>
@@ -505,7 +505,6 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
       <li>ADV: nehlučně, nerozborně</li>
       <li>AUX-Fin: nejsem, nejsou, není</li>
       <li>AUX-Part: Nebyla</li>
-      <li>NOUN: nedůvěrnost, nenadání, nevinňátko</li>
       <li>VERB-Fin: neví, nevím, Neprobudiž, nebdí, nebuďtež, nechce, nechci, nelze, nemohou, nemáme</li>
       <li>VERB-Inf: nevidět</li>
       <li>VERB-Part: nedospěl, nehnul, neměl, nenarazil, nepoznala, neumíral, neuměl, nevyhrnul, nezaneslo, nezapřela</li>
@@ -523,9 +522,6 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
       <li>AUX-Inf: být</li>
       <li>AUX-Part: byl, bylo, byla, byli, byly, bývaly, jsi</li>
       <li>DET: málo, více, vša, všicí</li>
-      <li>NOUN: duše, žití, den, oči, svět, boha, duši, srdce, bože, bůh</li>
-      <li>NOUN-Vnoun: žití, objetí, přání, Umění, Zklamání, blahoslavením, dechnutí, hledání, hýření, lehtání</li>
-      <li>PROPN: Magdaleno, Maria, Armand, Labe, Sion, Svitava, Vltavy, Angelico, Armandovi, Azték</li>
       <li>VERB-Conv: Poslouchaje, cítě, hyna, koře, podávaje, věře, řkouc, žehnaje</li>
       <li>VERB-Fin: jdou, letí, chce, jde, zdá, chcem, hledá, mám, stojí, vím</li>
       <li>VERB-Inf: stát, vidět, říci, Svítit, chtít, dopomoci, dát, dštíti, hnáti, hřešit</li>
@@ -543,7 +539,7 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
     <ul>
       <li>ADJ: věrni, Vyloupena, otráven, Očištěna, Podťata, Rozcuchán, bičován, hodni, možno, neznáma</li>
       <li>ADJ-Part: Vyloupena, otráven, Očištěna, Podťata, Rozcuchán, bičován, nezvrácen, oblečeny, odevzdáno, očesána</li>
-      <li>DET: Ti, sám, Samo</li>
+      <li>DET: sám, Ti, Samo</li>
       <li>PRON: se, mi, si, tě, ti, ho, mu, mě, tobě</li>
     </ul>
   </li>
@@ -560,6 +556,7 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
   <li>Imp
     <ul>
       <li>ADJ-Part: Drážděné, Kypící, bijící, bičován, drtící, hořícího, hořícím, hynoucími, kající, mlčící</li>
+      <li>AUX: by, je, jsem, jste, jsi, jest, byl, jsou, budeš, bylo</li>
       <li>AUX-Fin: je, by, jsem, jste, jest, jsi, jsou, budeš, bude, bych</li>
       <li>AUX-Inf: být</li>
       <li>AUX-Part: byl, bylo, Nebyla, byla, byli, byly, bývaly, jsi</li>
@@ -698,7 +695,7 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
 <ul>
   <li>Emp
     <ul>
-      <li>DET: sám, Samo, samém</li>
+      <li>DET: sám, Samo, samém, samý</li>
     </ul>
   </li>
 </ul>
@@ -835,7 +832,7 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: jste, jsi, budeš, s, budiž, buď, by, bys</li>
+      <li>AUX-Fin: jste, jsi, budeš, s, budiž, buď, bys</li>
       <li>DET: Ti, tvé, váš, tvá, tvém, vaše, vaší</li>
       <li>PRON: ty, tě, ti, tobě, tebe, vás, tebou, vám, vámi</li>
       <li>VERB-Fin: Plyň, dáš, nech, dejte, můžeš, spi, Dejž, Nauč, Proměníš, Skloň</li>
@@ -846,7 +843,7 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: je, jest, by, jsou, bude, nejsou, není, buď</li>
+      <li>AUX-Fin: je, jest, jsou, bude, nejsou, není, buď</li>
       <li>DET: jeho, jejich, jich, její, jehožto, jejichž, jejích</li>
       <li>PRON: mu, jí, je, ji, ho, jej, nich, ním, jich, Němu</li>
       <li>VERB-Conv: hyna, koře</li>
@@ -1073,19 +1070,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Conv--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN-Acc (89)</li>
-      <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(na) (1)</li>
       <li>VERB-Fin--PRON-Acc (34)</li>
-      <li>VERB-Fin--PRON-Gen (1)</li>
       <li>VERB-Inf--NOUN-Acc (24)</li>
       <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Acc (2)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
       <li>VERB-Part--NOUN-Acc (51)</li>
-      <li>VERB-Part--NOUN-Gen (2)</li>
+      <li>VERB-Part--NOUN-Gen (1)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
       <li>VERB-Part--PRON-Acc (23)</li>
-      <li>VERB-Part--PRON-Gen (1)</li>
     </ul>
   </li>
 </ul>

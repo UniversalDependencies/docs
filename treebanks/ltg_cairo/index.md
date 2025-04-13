@@ -12,15 +12,15 @@ udver: '2'
 # UD Latgalian Cairo
 
 Language: [Latgalian](/ltg/index.html) (code: `ltg`)<br/>
-Family: Indo-European, Baltic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.14 release.
 
 The following people have contributed to making this treebank part of UD: Lauma Pretkalniņa, Gunta Nešpore-Bērzkalne.
 
 Repository: [UD_Latgalian-Cairo](https://github.com/UniversalDependencies/UD_Latgalian-Cairo)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udltg_cairo214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udltg_cairo215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -75,7 +75,7 @@ This work was supported by the State Research Programme's project [Research on M
 
 ## Relations
 
-[acl](ltg_cairo-dep-acl.html) – [advcl](ltg_cairo-dep-advcl.html) – [advmod](ltg_cairo-dep-advmod.html) – [amod](ltg_cairo-dep-amod.html) – [appos](ltg_cairo-dep-appos.html) – [case](ltg_cairo-dep-case.html) – [cc](ltg_cairo-dep-cc.html) – [ccomp](ltg_cairo-dep-ccomp.html) – [conj](ltg_cairo-dep-conj.html) – [csubj](ltg_cairo-dep-csubj.html) – [det](ltg_cairo-dep-det.html) – [discourse](ltg_cairo-dep-discourse.html) – [fixed](ltg_cairo-dep-fixed.html) – [flat:name](ltg_cairo-dep-flat-name.html) – [iobj](ltg_cairo-dep-iobj.html) – [mark](ltg_cairo-dep-mark.html) – [nmod](ltg_cairo-dep-nmod.html) – [nsubj](ltg_cairo-dep-nsubj.html) – [obj](ltg_cairo-dep-obj.html) – [obl](ltg_cairo-dep-obl.html) – [orphan](ltg_cairo-dep-orphan.html) – [punct](ltg_cairo-dep-punct.html) – [root](ltg_cairo-dep-root.html) – [vocative](ltg_cairo-dep-vocative.html) – [xcomp](ltg_cairo-dep-xcomp.html)
+[acl](ltg_cairo-dep-acl.html) – [advcl](ltg_cairo-dep-advcl.html) – [advmod](ltg_cairo-dep-advmod.html) – [advmod:emph](ltg_cairo-dep-advmod-emph.html) – [advmod:neg](ltg_cairo-dep-advmod-neg.html) – [amod](ltg_cairo-dep-amod.html) – [appos](ltg_cairo-dep-appos.html) – [case](ltg_cairo-dep-case.html) – [cc](ltg_cairo-dep-cc.html) – [ccomp](ltg_cairo-dep-ccomp.html) – [conj](ltg_cairo-dep-conj.html) – [csubj](ltg_cairo-dep-csubj.html) – [det](ltg_cairo-dep-det.html) – [discourse](ltg_cairo-dep-discourse.html) – [fixed](ltg_cairo-dep-fixed.html) – [flat:name](ltg_cairo-dep-flat-name.html) – [iobj](ltg_cairo-dep-iobj.html) – [mark](ltg_cairo-dep-mark.html) – [nmod](ltg_cairo-dep-nmod.html) – [nsubj](ltg_cairo-dep-nsubj.html) – [obj](ltg_cairo-dep-obj.html) – [obl](ltg_cairo-dep-obl.html) – [orphan](ltg_cairo-dep-orphan.html) – [punct](ltg_cairo-dep-punct.html) – [root](ltg_cairo-dep-root.html) – [vocative](ltg_cairo-dep-vocative.html) – [xcomp](ltg_cairo-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -113,11 +113,11 @@ This work was supported by the State Research Programme's project [Research on M
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as pronouns (PRON): es, jei, jis, jī, kas, kurs, tu, tys</li>
+<li>This corpus contains 7 lemmas tagged as pronouns (PRON): es, jei, jis, jī, kas, tu, tys</li>
 </ul>
 
 <ul>
-<li>This corpus contains 6 lemmas tagged as determiners (DET): itei, kaids, muns, sova, sovs, tei</li>
+<li>This corpus contains 7 lemmas tagged as determiners (DET): itei, kaids, kurs, muns, sova, sovs, tei</li>
 </ul>
 
 <ul>
@@ -182,9 +182,9 @@ This work was supported by the State Research Programme's project [Research on M
   <li>Masc
     <ul>
       <li>ADJ: foršuoks, tovejais</li>
-      <li>DET: Muns, kaida, sovam</li>
+      <li>DET: Muns, kaida, kurs, sovam</li>
       <li>NOUN: bruoļs, leits, lūgu, motus, ritini, statini, sudobru, sābri, tēte, veiram</li>
-      <li>PRON: jis, Jim, jam, juo, kurs, tuo, tū</li>
+      <li>PRON: jis, Jim, jam, juo, tuo, tū</li>
       <li>PROPN: Pītera, Pīters, Sem, Smita</li>
     </ul>
   </li>
@@ -208,9 +208,9 @@ This work was supported by the State Research Programme's project [Research on M
   <li>Sing
     <ul>
       <li>ADJ: foršuoks, lela, moza, sorkonā, tovejais</li>
-      <li>DET: Itei, Muns, kaida, sovai, sovam, tamā</li>
+      <li>DET: Itei, Muns, kaida, kurs, sovai, sovam, tamā</li>
       <li>NOUN: mašynu, Meitine, bronzu, bruoļs, draudzinei, dzeršonu, dīnā, golvyspiļsātā, jausmys, kruosā</li>
-      <li>PRON: jis, tu, jei, Es, Jai, Maņ, jam, juo, kurs, tuo</li>
+      <li>PRON: jis, tu, jei, Es, Jai, Maņ, jam, juo, tuo, tū</li>
       <li>PROPN: Pītera, Mareja, Pīters, Braunys, Džeina, Fraņcejis, Marejis, Parizē, Sem, Smita</li>
       <li>VERB-Fin: attaisi, dūmoj, gribi, navarieju, variesi, verīs</li>
       <li>VERB-Part: pīguoduota</li>
@@ -267,9 +267,9 @@ This work was supported by the State Research Programme's project [Research on M
   <li>Nom
     <ul>
       <li>ADJ: foršuoks, lela, moza, tovejais</li>
-      <li>DET: Itei, Muns</li>
+      <li>DET: Itei, Muns, kurs</li>
       <li>NOUN: Meitine, bruoļs, leits, sābri, tēte, vaļsts, viestule</li>
-      <li>PRON: jis, tu, jei, Es, kurs</li>
+      <li>PRON: jis, tu, jei, Es</li>
       <li>PROPN: Mareja, Pīters, Džeina</li>
       <li>VERB-Part: pīguoduota</li>
     </ul>
@@ -486,7 +486,8 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: kuo, kurs</li>
+      <li>DET: kurs</li>
+      <li>PRON: kuo</li>
     </ul>
   </li>
 </ul>
@@ -574,7 +575,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN-Gen (1)</li>
       <li>VERB-Fin--NOUN-Nom (5)</li>
-      <li>VERB-Fin--PRON-Nom (12)</li>
+      <li>VERB-Fin--PRON-Nom (11)</li>
     </ul>
   </li>
 </ul>
@@ -603,7 +604,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 1 relation subtypes: <a>flat:name</a></li>
+<li>This corpus uses 3 relation subtypes: <a>advmod:emph</a>, <a>advmod:neg</a>, <a>flat:name</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
 <li>The following 12 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>aux</a>, <a>cop</a>, <a>nummod</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

@@ -23,14 +23,14 @@ The following 16 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 4	fgColor:white
 # visual-style 4 2 vocative	color:blue
 1	"	"	PUNCT	Z:-------------	_	4	punct	4:punct	SpaceAfter=No
-2	Tatínku	tatínek	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	4	vocative	4:vocative	SpaceAfter=No
+2	Tatínku	tatínek	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	4	vocative	4:vocative	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
 4	víš	vědět	VERB	VB-S---2P-AA---	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
 6	že	že	SCONJ	J,-------------	_	8	mark	8:mark	_
-7	Honzovi	Honza	PROPN	NNMS3-----A----	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	8	obl	8:obl:dat	_
+7	Honzovi	Honza	PROPN	NNMS3-----A----	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	8	obl	8:obl:dat	_
 8	odešla	odejít	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	4	ccomp	4:ccomp	_
-9	maminka	maminka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	8	nsubj	8:nsubj	SpaceAfter=No
+9	maminka	maminka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	8:nsubj	SpaceAfter=No
 10	?	?	PUNCT	Z:-------------	_	4	punct	4:punct	SpaceAfter=No
 11	"	"	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
@@ -43,7 +43,7 @@ The following 16 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 vocative	color:blue
-1	Miloši	Miloš	PROPN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	3	vocative	3:vocative	SpaceAfter=No
+1	Miloši	Miloš	PROPN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|NameType=Giv|Number=Sing	3	vocative	3:vocative	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	3	punct	3:punct	_
 3	pojď	jít	VERB	Vi-S---2--A---1	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	8	ccomp	8:ccomp	_
 4	se	s	ADP	RV--7----------	AdpType=Voc|Case=Ins	5	case	5:case	_
@@ -65,16 +65,16 @@ The following 16 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 6	fgColor:white
 # visual-style 6 2 vocative	color:blue
 1	Ach	ach	INTJ	II-------------	_	6	dep	6:dep|11:dep	_
-2	přátelé	přítel	NOUN	NNMP5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Plur|Polarity=Pos	6	vocative	6:vocative|11:vocative	SpaceAfter=No
+2	přátelé	přítel	NOUN	NNMP5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Plur	6	vocative	6:vocative|11:vocative	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
 4	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	6:nsubj	_
-5	byla	být	AUX	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	6	cop	6:cop	_
-6	noc	noc	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	0:root	SpaceAfter=No
+5	byla	být	AUX	VpFS----R-AA---	Aspect=Imp|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	6	cop	6:cop	_
+6	noc	noc	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
 7	,	,	PUNCT	Z:-------------	_	11	punct	11:punct	_
 8	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	nsubj	11:nsubj	_
-9	byla	být	AUX	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	11	cop	11:cop	_
+9	byla	být	AUX	VpFS----R-AA---	Aspect=Imp|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	11	cop	11:cop	_
 10	nádherná	nádherný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	11	amod	11:amod	_
-11	noc	noc	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	6	conj	0:root|6:conj	SpaceAfter=No
+11	noc	noc	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	6	conj	0:root|6:conj	SpaceAfter=No
 12	!	!	PUNCT	Z:-------------	_	6	punct	6:punct	_
 
 ~~~

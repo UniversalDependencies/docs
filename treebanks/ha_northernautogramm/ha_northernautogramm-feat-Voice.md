@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal but the values `Stat` are language-specific.
 It occurs with 2 different values: `Cau`, `Stat`.
 
-28 tokens (1%) have a non-empty value of `Voice`.
+31 tokens (1%) have a non-empty value of `Voice`.
 15 types (2%) occur at least once with a non-empty value of `Voice`.
 13 lemmas (2%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (28; 1% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (31; 1% instances).
 
 ### `VERB`
 
-28 <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Voice`.
+31 <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="ha_northernautogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="ha_northernautogramm-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (19; 68%), <tt><a href="ha_northernautogramm-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt> (18; 64%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="ha_northernautogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="ha_northernautogramm-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (22; 71%), <tt><a href="ha_northernautogramm-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt> (21; 68%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Cau` (9; 32% of non-empty `Voice`): <em>tassheː, bâsshee, hîrkassheː, jèːwàyès, s'aisà, tassà, tàssa, tâːkassà</em>
-* `Stat` (19; 68% of non-empty `Voice`): <em>bìye, tàhe, kwànce, màːlìye, tsàye, tàushe, zàmne</em>
-* `EMPTY` (642): <em>cèː, yi, zakà, cêː, zoː, ga, tàhiyàː, tàhi, yîː, taɓà</em>
+* `Cau` (9; 29% of non-empty `Voice`): <em>tassheː, bâsshee, hîrkassheː, jèːwàyès, s'aisà, tassà, tâːkassà, tàssa</em>
+* `Stat` (22; 71% of non-empty `Voice`): <em>bìye, tàhe, tsàye, kwànce, màːlìye, tàushe, zàmne</em>
+* `EMPTY` (698): <em>cèː, yi, cêː, zakà, zoː, ga, tàhiyàː, tàhi, yîː, ji</em>
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (13) occur only with one value of `Voice`.
 

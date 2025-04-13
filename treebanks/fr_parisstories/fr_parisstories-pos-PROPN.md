@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>Y</em> (<tt><a href="fr_parisstories-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.004405 (the average of all parts of speech is 1.332953).
+The form / lemma ratio of `PROPN` is 1.004405 (the average of all parts of speech is 1.332572).
 
 The 1st highest number of forms (2) was observed with the lemma “Alpes”: <em>-Alpes, Alpes</em>.
 

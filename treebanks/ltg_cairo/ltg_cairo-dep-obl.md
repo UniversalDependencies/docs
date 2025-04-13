@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (6%) are attached to their parents as `obl`.
+9 nodes (5%) are attached to their parents as `obl`.
 
-6 instances of `obl` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.1.
+6 instances of `obl` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.
 
-The following 4 pairs of parts of speech are connected with `obl`: <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> (5; 50% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (3; 30% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> (1; 10% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (1; 10% instances).
+The following 3 pairs of parts of speech are connected with `obl`: <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> (5; 56% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (3; 33% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -51,18 +51,18 @@ The following 4 pairs of parts of speech are connected with `obl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 6 obl	color:blue
-1	Muns	muns	DET	ps0msnn	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	2:det	LvtbNodeId=a-ltg-Cairo-p8s1w1
-2	tēte	tēte	NOUN	ncmsn5	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj|4:nsubj	LvtbNodeId=a-ltg-Cairo-p8s1w2
-3	ir	byut	VERB	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p8s1w3
-4	foršuoks	foršs	ADJ	afmsnnc	Case=Nom|Definite=Ind|Degree=Cmp|Gender=Masc|Number=Sing	3	xcomp	3:xcomp	LvtbNodeId=a-ltg-Cairo-p8s1w4
-5	nakai	nakai	SCONJ	cs	_	6	case	6:case	LvtbNodeId=a-ltg-Cairo-p8s1w5
-6	tovejais	tovejs	ADJ	armsnyp	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	3	obl	3:obl:nakai	LvtbNodeId=a-ltg-Cairo-p8s1w6|SpaceAfter=No
-7	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-ltg-Cairo-p8s1w7
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 obl	color:blue
+1	Jis	jis	PRON	pp3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	LvtbNodeId=a-ltg-Cairo-p20s1w1
+2	izauga	izaugt	VERB	vmnisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p20s1w2
+3	Parizē	Parize	PROPN	npfsl5	Case=Loc|Gender=Fem|Number=Sing	2	obl	2:obl:loc	LvtbNodeId=a-ltg-Cairo-p20s1w3|SpaceAfter=No
+4	,	,	PUNCT	zc	_	6	punct	6:punct	LvtbNodeId=a-ltg-Cairo-p20s1w4
+5	Fraņcejis	Fraņceja	PROPN	npfsg4	Case=Gen|Gender=Fem|Number=Sing	6	nmod	6:nmod:gen	LvtbNodeId=a-ltg-Cairo-p20s1w5
+6	golvyspiļsātā	golvyspiļsāta	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	3	appos	3:appos	LvtbNodeId=a-ltg-Cairo-p20s1w6|SpaceAfter=No
+7	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-ltg-Cairo-p20s1w7
 
 ~~~
 

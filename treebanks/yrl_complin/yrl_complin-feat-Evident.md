@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Nfh`.
 
-168 tokens (1%) have a non-empty value of `Evident`.
+333 tokens (2%) have a non-empty value of `Evident`.
 1 types (0%) occur at least once with a non-empty value of `Evident`.
 1 lemmas (0%) occur at least once with a non-empty value of `Evident`.
-The feature is used with 1 part-of-speech tags: <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (168; 1% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (333; 2% instances).
 
 ### `PART`
 
-168 <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> tokens (15% of all `PART` tokens) have a non-empty value of `Evident`.
+333 <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> tokens (22% of all `PART` tokens) have a non-empty value of `Evident`.
 
-The most frequent other feature values with which `PART` and `Evident` co-occurred: <tt><a href="yrl_complin-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (168; 100%), <tt><a href="yrl_complin-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (168; 100%), <tt><a href="yrl_complin-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (168; 100%), <tt><a href="yrl_complin-feat-PartType.html">PartType</a></tt><tt>=Mod</tt> (161; 96%).
+The most frequent other feature values with which `PART` and `Evident` co-occurred: <tt><a href="yrl_complin-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (333; 100%), <tt><a href="yrl_complin-feat-PartType.html">PartType</a></tt><tt>=Mod</tt> (333; 100%), <tt><a href="yrl_complin-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (333; 100%), <tt><a href="yrl_complin-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (333; 100%).
 
 `PART` tokens may have the following values of `Evident`:
 
-* `Nfh` (168; 100% of non-empty `Evident`): <em>paá</em>
-* `EMPTY` (986): <em>ti, ana, kurí, taá, será, tẽ, aikwé, ã, rẽ, pawa</em>
+* `Nfh` (333; 100% of non-empty `Evident`): <em>paá</em>
+* `EMPTY` (1209): <em>ti, ana, kurí, taá, será, tẽ, aikwé, ã, intí, rẽ</em>
 

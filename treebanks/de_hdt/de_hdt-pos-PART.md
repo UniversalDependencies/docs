@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>nicht</em> (<tt><a href="de_hdt-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 2.529657).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 2.529726).
 
 The 1st highest number of forms (1) was observed with the lemma “Nicht”: <em>Nicht</em>.
 
@@ -49,7 +49,7 @@ Examples: <em>nicht</em>
 
 `PART` nodes are attached to their parents using 6 different relations: <tt><a href="de_hdt-dep-advmod.html">advmod</a></tt> (18598; 53% instances), <tt><a href="de_hdt-dep-mark.html">mark</a></tt> (16678; 47% instances), <tt><a href="de_hdt-dep-conj.html">conj</a></tt> (92; 0% instances), <tt><a href="de_hdt-dep-advcl.html">advcl</a></tt> (18; 0% instances), <tt><a href="de_hdt-dep-root.html">root</a></tt> (15; 0% instances), <tt><a href="de_hdt-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 14 different parts of speech: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (28205; 80% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (3424; 10% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (1991; 6% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (828; 2% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (474; 1% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (171; 0% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (165; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (51; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (33; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (19; 0% instances),  (15; 0% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances), <tt><a href="de_hdt-pos-PART.html">PART</a></tt> (2; 0% instances)
+Parents of `PART` nodes belong to 14 different parts of speech: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (28205; 80% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (3424; 10% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (1991; 6% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (828; 2% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (478; 1% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (171; 0% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (161; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (51; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (33; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (19; 0% instances),  (15; 0% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances), <tt><a href="de_hdt-pos-PART.html">PART</a></tt> (2; 0% instances)
 
 33786 (95%) `PART` nodes are leaves.
 

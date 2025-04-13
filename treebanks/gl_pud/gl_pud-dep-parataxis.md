@@ -11,7 +11,7 @@ This relation is universal.
 90 nodes (0%) are attached to their parents as `parataxis`.
 
 90 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 13.2777777777778.
+Average distance between parent and child is 13.2666666666667.
 
 The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (68; 76% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (9; 10% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (5; 6% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 

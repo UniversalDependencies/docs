@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-51962 tokens (5%) have a non-empty value of `Degree`.
-13597 types (21%) occur at least once with a non-empty value of `Degree`.
-7080 lemmas (20%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 16 part-of-speech tags: <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (31986; 3% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (7287; 1% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (5759; 1% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (4594; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (1124; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (446; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (302; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (214; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (114; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (69; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (44; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (2; 0% instances).
+51943 tokens (5%) have a non-empty value of `Degree`.
+13584 types (21%) occur at least once with a non-empty value of `Degree`.
+7064 lemmas (20%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 16 part-of-speech tags: <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (31986; 3% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (7287; 1% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (5759; 1% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (4594; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (1124; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (446; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (302; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (214; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (114; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (69; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (25; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (2; 0% instances).
 
 ### `ADJ`
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (1815; 6% of non-empty `Degree`): <em>nær, betra, fyrri, betri, fyrra, eldri, stærri, lengra, yngri, æðri</em>
 * `Pos` (27891; 87% of non-empty `Degree`): <em>gott, satt, góða, góður, stór, góð, góðum, heilaga, þriðja, góðu</em>
 * `Sup` (2280; 7% of non-empty `Degree`): <em>fyrsta, fyrstu, næsta, besta, bestu, best, næst, næstu, fyrstur, síðustu</em>
-* `EMPTY` (5173): <em>sama, sömu, sami, 1., langt, víst, lengi, kongl., skammt, verður</em>
+* `EMPTY` (5172): <em>sama, sömu, sami, 1., langt, víst, lengi, kongl., skammt, verður</em>
 
 <table>
   <tr><th>Paradigm <i>góður</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -198,7 +198,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>tókt</em></td><td></td><td><em>Tókst</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `VERB`. 96% lemmas (1207) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `VERB`. 96% lemmas (1206) occur only with one value of `Degree`.
 
 ### `NOUN`
 
@@ -211,7 +211,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 * `Cmp` (45; 4% of non-empty `Degree`): <em>minni, síður, sakir, forvitri, allstaðar, bráðar, byggingarkúnstarinnar, engi, reiðara, réttara</em>
 * `Pos` (1060; 94% of non-empty `Degree`): <em>dauða, heit, góða, búið, vísu, skyld, föstum, synda, trúu, allskonar</em>
 * `Sup` (19; 2% of non-empty `Degree`): <em>tigu, Arkistratus, Mannanna, dýra, fyrstu, föstu, gæfastur, hjartans, háttu, kunnustu</em>
-* `EMPTY` (144758): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
+* `EMPTY` (144757): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
 
 <table>
   <tr><th>Paradigm <i>maður</i></th><th><tt>Pos</tt></th><th><tt>Sup</tt></th></tr>
@@ -266,7 +266,7 @@ The most frequent other feature values with which `PROPN` and `Degree` co-occurr
 * `Cmp` (15; 5% of non-empty `Degree`): <em>saltara, GANGI, Hlymreksfari, Jaíri, Konáli, Mörukári, Teófíli, farisearanna, himnna, kristi</em>
 * `Pos` (282; 93% of non-empty `Degree`): <em>sankti, heilags, heilagur, Rauður, Ótta, Arkistratus, heilaga, helga, Konáll, Darius</em>
 * `Sup` (5; 2% of non-empty `Degree`): <em>Tósti, Austvestan, Georgíum, Mannsins</em>
-* `EMPTY` (41085): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
+* `EMPTY` (41082): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
 
 <table>
   <tr><th>Paradigm <i>kristur</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>
@@ -343,16 +343,16 @@ The most frequent other feature values with which `AUX` and `Degree` co-occurred
 
 ### `X`
 
-44 <tt><a href="is_icepahc-pos-X.html">X</a></tt> tokens (2% of all `X` tokens) have a non-empty value of `Degree`.
+25 <tt><a href="is_icepahc-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `X` and `Degree` co-occurred: <tt><a href="is_icepahc-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (44; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (34; 77%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (30; 68%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (28; 64%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (26; 59%).
+The most frequent other feature values with which `X` and `Degree` co-occurred: <tt><a href="is_icepahc-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (25; 100%).
 
 `X` tokens may have the following values of `Degree`:
 
-* `Cmp` (4; 9% of non-empty `Degree`): <em>sankti, Lazari, seminarii</em>
-* `Pos` (37; 84% of non-empty `Degree`): <em>sankti, Vidfraktus, Item, Alexandrum, Aristandus, Sicut, Stadium, Vagau, Valbert, bölvaður</em>
-* `Sup` (3; 7% of non-empty `Degree`): <em>Majst, mest</em>
-* `EMPTY` (2228): <em>anno, item, in, domini, et, Dominus, Trankival, Majst, etc, sankti</em>
+* `Cmp` (4; 16% of non-empty `Degree`): <em>sankti, Lazari, seminarii</em>
+* `Pos` (20; 80% of non-empty `Degree`): <em>sankti, Item, Stadium, bölvaður, einum, gymnasii, hógvær, lasaretinu, nardum, peccatum</em>
+* `Sup` (1; 4% of non-empty `Degree`): <em>mest</em>
+* `EMPTY` (2252): <em>anno, item, in, domini, Dominus, et, Majst, Trankival, etc, sankti</em>
 
 <table>
   <tr><th>Paradigm <i>sankti</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>
@@ -364,7 +364,7 @@ The most frequent other feature values with which `X` and `Degree` co-occurred: 
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>sankti</em></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `X`. 97% lemmas (29) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `X`. 94% lemmas (15) occur only with one value of `Degree`.
 
 ### `PUNCT`
 

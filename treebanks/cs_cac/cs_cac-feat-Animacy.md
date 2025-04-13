@@ -11,14 +11,14 @@ It occurs with 2 different values: `Anim`, `Inan`.
 
 98255 tokens (20%) have a non-empty value of `Animacy`.
 26841 types (43%) occur at least once with a non-empty value of `Animacy`.
-12617 lemmas (44%) occur at least once with a non-empty value of `Animacy`.
+12619 lemmas (44%) occur at least once with a non-empty value of `Animacy`.
 The feature is used with 8 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (56384; 11% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (28965; 6% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (5431; 1% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (3180; 1% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (2426; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (1129; 0% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (640; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (100; 0% instances).
 
 ### `NOUN`
 
 56384 <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> tokens (41% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (56384; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (56379; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35749; 63%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (56384; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35749; 63%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
@@ -42,13 +42,13 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>druzi</em></td><td><em>druhy</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (3976) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (3978) occur only with one value of `Animacy`.
 
 ### `ADJ`
 
 28965 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (39% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (27861; 96%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (27826; 96%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (24843; 86%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (24042; 83%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (24042; 83%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15705; 54%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (27861; 96%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (27826; 96%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (26253; 91%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (24042; 83%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (24042; 83%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15705; 54%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
@@ -100,7 +100,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 5431 <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> tokens (55% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5431; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5431; 100%), <tt><a href="cs_cac-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (4824; 89%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4463; 82%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2718; 50%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5431; 100%), <tt><a href="cs_cac-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (4824; 89%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4463; 82%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2718; 50%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
@@ -183,7 +183,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 640 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (640; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (640; 100%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (640; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (640; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (640; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (637; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (596; 93%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (509; 80%).
+The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (640; 100%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (640; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (640; 100%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (640; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (640; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (640; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (637; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (596; 93%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (509; 80%).
 
 `AUX` tokens may have the following values of `Animacy`:
 

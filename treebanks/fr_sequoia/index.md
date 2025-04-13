@@ -12,15 +12,15 @@ udver: '2'
 # UD French Sequoia
 
 Language: [French](/fr/index.html) (code: `fr`)<br/>
-Family: Indo-European, Romance
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
 The following people have contributed to making this treebank part of UD: Marie Candito, Djamé Seddah, Guy Perrier, Bruno Guillaume.
 
 Repository: [UD_French-Sequoia](https://github.com/UniversalDependencies/UD_French-Sequoia)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: LGPL-LR
 
@@ -132,7 +132,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 </ul>
 
 <ul>
-<li>This corpus contains 41 lemmas tagged as determiners (DET): 1 000, 1 200, 1 246, 1 500, 10 000, 108 000, 111 547, 125 000, 13 819, 14 000, 15 000, 17 600, 2 000, 2 127, 20 000, 25 000, 46 000, 5 000, 50 000, 500 000, 6 000, 67 025, 7 736, 8 000, 80 000, aucun, ce, certain, chaque, différent, divers, du, le, ledit, plusieurs, quel, quelque, son, tel, tout, un</li>
+<li>This corpus contains 16 lemmas tagged as determiners (DET): aucun, ce, certain, chaque, différent, divers, du, le, ledit, plusieurs, quel, quelque, son, tel, tout, un</li>
 </ul>
 
 <ul>
@@ -283,7 +283,6 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
   <li>Neg
     <ul>
       <li>ADV: pas, n', ne, non, plus, jamais, guère, que</li>
-      <li>DET: aucune, aucun</li>
     </ul>
   </li>
 </ul>
@@ -434,6 +433,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Neg
     <ul>
+      <li>DET: aucune, aucun</li>
       <li>PRON: rien, aucun, personne, Nul</li>
     </ul>
   </li>

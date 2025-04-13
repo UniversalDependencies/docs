@@ -9,19 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-240 tokens (55%) have a non-empty value of `Number`.
-184 types (75%) occur at least once with a non-empty value of `Number`.
-129 lemmas (75%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> (64; 15% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> (55; 13% instances), <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (37; 8% instances), <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> (32; 7% instances), <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (21; 5% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (18; 4% instances), <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> (9; 2% instances), <tt><a href="sga_dipwbg-pos-PROPN.html">PROPN</a></tt> (4; 1% instances).
+266 tokens (61%) have a non-empty value of `Number`.
+191 types (78%) occur at least once with a non-empty value of `Number`.
+136 lemmas (80%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> (64; 15% instances), <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (63; 14% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> (55; 13% instances), <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> (32; 7% instances), <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (21; 5% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (18; 4% instances), <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> (9; 2% instances), <tt><a href="sga_dipwbg-pos-PROPN.html">PROPN</a></tt> (4; 1% instances).
 
 ### `NOUN`
 
-64 <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+64 <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (11; 17% of non-empty `Number`): <em>belre, biada, béssu, comairli, dánu, fochidi, gnímu, mban, soscéli, tol</em>
 * `Sing` (53; 83% of non-empty `Number`): <em>cenn, nem, precept, precepte, airli, carcair, chenél, chomalnad, chorp, chuimriug</em>
+* `EMPTY` (2): <em>gloria, legis</em>
 
 <table>
   <tr><th>Paradigm <i>soiscélae</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -29,6 +30,20 @@ The feature is used with 8 part-of-speech tags: <tt><a href="sga_dipwbg-pos-NOUN
 </table>
 
 `Number` seems to be **lexical feature** of `NOUN`. 98% lemmas (50) occur only with one value of `Number`.
+
+### `PRON`
+
+63 <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> tokens (93% of all `PRON` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sga_dipwbg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (52; 83%), <tt><a href="sga_dipwbg-feat-PronClass.html">PronClass</a></tt><tt>=EMPTY</tt> (51; 81%), <tt><a href="sga_dipwbg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (43; 68%), <tt><a href="sga_dipwbg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (37; 59%).
+
+`PRON` tokens may have the following values of `Number`:
+
+* `Plur` (22; 35% of non-empty `Number`): <em>si, for, ar, far, ni, b, n, ndob, s</em>
+* `Sing` (41; 65% of non-empty `Number`): <em>sa, mo, a, m, se, t, hed, hé, cáich, d</em>
+* `EMPTY` (5): <em>cách, cain, cote, níi</em>
+
+`Number` seems to be **lexical feature** of `PRON`. 100% lemmas (23) occur only with one value of `Number`.
 
 ### `VERB`
 
@@ -49,20 +64,6 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="sga_dipwbg-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="sga_dipwbg-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="sga_dipwbg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ngeiss</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sga_dipwbg-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="sga_dipwbg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sga_dipwbg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>gessir</em></td><td></td></tr>
 </table>
-
-### `PRON`
-
-37 <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sga_dipwbg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (37; 100%), <tt><a href="sga_dipwbg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (28; 76%), <tt><a href="sga_dipwbg-feat-PronClass.html">PronClass</a></tt><tt>=EMPTY</tt> (25; 68%), <tt><a href="sga_dipwbg-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (20; 54%).
-
-`PRON` tokens may have the following values of `Number`:
-
-* `Plur` (13; 35% of non-empty `Number`): <em>for, ar, far, b, n, ndob, s</em>
-* `Sing` (24; 65% of non-empty `Number`): <em>mo, a, m, t, hed, hé, d, do, mm, tú</em>
-* `EMPTY` (31): <em>sa, si, se, cách, ni, cain, cote, cáich, níi, so</em>
-
-`Number` seems to be **lexical feature** of `PRON`. 100% lemmas (15) occur only with one value of `Number`.
 
 ### `AUX`
 
@@ -103,7 +104,13 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 * `Sing` (12; 57% of non-empty `Number`): <em>chotarsne, domunde, dían, essamin, frecṅdircc, inse, loingthech, maith, suaignid, thoirsech</em>
 * `EMPTY` (2): <em>il, lia</em>
 
-`Number` seems to be **lexical feature** of `ADJ`. 100% lemmas (20) occur only with one value of `Number`.
+<table>
+  <tr><th>Paradigm <i>domundae</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="sga_dipwbg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sga_dipwbg-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>domunde</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sga_dipwbg-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>domunde</em></td></tr>
+</table>
+
+`Number` seems to be **lexical feature** of `ADJ`. 95% lemmas (18) occur only with one value of `Number`.
 
 ### `ADP`
 
@@ -156,11 +163,11 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="sga_dipwbg-dep-obl.html">obl</a></tt>]--> NOUN</tt> (15; 88%),
 <tt>ADJ --[<tt><a href="sga_dipwbg-dep-nsubj.html">nsubj</a></tt>]--> AUX</tt> (13; 93%),
 <tt>NOUN --[<tt><a href="sga_dipwbg-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (13; 65%),
-<tt>NOUN --[<tt><a href="sga_dipwbg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (7; 58%),
+<tt>VERB --[<tt><a href="sga_dipwbg-dep-amod.html">amod</a></tt>]--> PRON</tt> (13; 100%),
+<tt>NOUN --[<tt><a href="sga_dipwbg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (7; 54%),
+<tt>ADP --[<tt><a href="sga_dipwbg-dep-amod.html">amod</a></tt>]--> PRON</tt> (6; 100%),
 <tt>VERB --[<tt><a href="sga_dipwbg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (6; 67%),
 <tt>VERB --[<tt><a href="sga_dipwbg-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 86%),
 <tt>NOUN --[<tt><a href="sga_dipwbg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5; 83%),
-<tt>NOUN --[<tt><a href="sga_dipwbg-dep-det.html">det</a></tt>]--> DET</tt> (5; 100%),
-<tt>NOUN --[<tt><a href="sga_dipwbg-dep-nsubj.html">nsubj</a></tt>]--> AUX</tt> (5; 100%),
-<tt>VERB --[<tt><a href="sga_dipwbg-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (5; 83%).
+<tt>NOUN --[<tt><a href="sga_dipwbg-dep-det.html">det</a></tt>]--> DET</tt> (5; 100%).
 

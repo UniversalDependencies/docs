@@ -17,4 +17,4 @@ The tag VERB is reserved for full lexical verbs, while auxiliary verbs are tagge
 
 - _at <b>vise</b>_ "to <b>show</b>", _jeg <b>viser</b>_ "I <b>show</b>", _han <b>viste</b>_ "he showed"
 - _at <b>flyve</b>_ "to <b>fly</b>", _vi <b>flyver</b>_ "we <b>fly</b>", _de <b>fløj</b>_ "they flew"
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:43 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:27 CET -->

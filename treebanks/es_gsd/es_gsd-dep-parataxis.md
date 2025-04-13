@@ -26,11 +26,11 @@ The following 45 pairs of parts of speech are connected with `parataxis`: <tt><a
 2	cambiado	cambiar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	7	punct	_	_
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
 6	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 7	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 8	Lolita	lolita	PROPN	_	_	7	advcl	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -45,11 +45,11 @@ The following 45 pairs of parts of speech are connected with `parataxis`: <tt><a
 2	microorganismos	microorganismo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
 3	y	y	CCONJ	_	_	4	cc	_	_
 4	algas	algo	NOUN	_	Gender=Fem|Number=Plur	2	conj	_	_
-5	(	(	PUNCT	_	_	6	punct	_	SpaceAfter=No
+5	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	6	punct	_	SpaceAfter=No
 6	incluyendo	incluir	VERB	_	VerbForm=Ger	2	parataxis	_	_
 7	diatomeas	diatomea	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	SpaceAfter=No
-8	)	)	PUNCT	_	_	6	punct	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	1	punct	_	_
+8	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	6	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 ~~~
 
@@ -69,11 +69,11 @@ The following 45 pairs of parts of speech are connected with `parataxis`: <tt><a
 7	en	en	ADP	_	_	9	case	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	sur	sur	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	13	punct	_	_
+10	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
 11	sino	sino	ADV	_	_	13	advmod	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	mejor	mejor	NOUN	_	Number=Sing	1	parataxis	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	1	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 ~~~
 

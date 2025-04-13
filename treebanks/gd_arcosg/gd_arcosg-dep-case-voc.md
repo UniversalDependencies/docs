@@ -22,10 +22,10 @@ The following 3 pairs of parts of speech are connected with `case:voc`: <tt><a h
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 case:voc	color:blue
-1	tha	bi	VERB	V-p	Tense=Pres	0	root	_	_
-2	thusa	thu	PRON	Pp2s--e	Form=Emp|Number=Sing|Person=2	1	nsubj	_	_
+1	tha	bi	VERB	V-p	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	thusa	thu	PRON	Pp2s--e	Form=Emp|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	nad	an	ADP	Sp	_	5	case	_	_
-4	do	do	PRON	Dp2s	Number=Sing|Person=2|Poss=Yes	5	nmod:poss	_	_
+4	do	do	PRON	Dp2s	Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
 5	ghille	gille	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	1	xcomp:pred	_	_
 6	mhòr	mòr	ADJ	Aq-smd	Case=Dat|Gender=Masc|Number=Sing	5	amod	_	_
 7	a-neist	a-neist	ADV	Rt	_	5	advmod	_	_
@@ -41,9 +41,9 @@ The following 3 pairs of parts of speech are connected with `case:voc`: <tt><a h
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 case:voc	color:blue
-1	ciamar	ciamar	ADV	Uq	_	0	root	_	_
+1	ciamar	ciamar	PRON	Uq	PronType=Int	0	root	_	_
 2	a	a	PART	Q-r	PartType=Vb|PronType=Rel	3	xcomp:pred	_	_
-3	bha	bi	VERB	V-s	Tense=Past	1	acl:relcl	_	_
+3	bha	bi	VERB	V-s	Mood=Ind|Tense=Past|VerbForm=Fin	1	acl:relcl	_	_
 4	na	an	DET	Tdp	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	veggie	veggie	NOUN	Xfe	Foreign=Yes	3	nsubj	_	_
 6	burgers	burgers	NOUN	Xfe	Foreign=Yes	5	flat:name	_	_

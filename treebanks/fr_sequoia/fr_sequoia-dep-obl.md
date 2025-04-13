@@ -50,7 +50,7 @@ The following 1 pairs of parts of speech are connected with `obl`: <tt><a href="
 25	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	amende	amende	NOUN	_	Gender=Fem|Number=Sing	19	conj	_	_
 27	de	de	ADP	_	_	29	case	_	_
-28	50 000	50 000	DET	_	_	29	det	_	_
+28	50 000	50 000	NUM	_	_	29	nummod	_	_
 29	euros	euro	NOUN	_	Gender=Masc|Number=Plur	26	nmod	_	SpaceAfter=No
 30	.	.	PUNCT	_	_	16	punct	_	_
 

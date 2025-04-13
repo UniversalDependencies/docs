@@ -31,9 +31,9 @@ The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 7	توجه	وَجَّه	VERB	VIIP-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	4	acl:relcl	4:acl:relcl	Gloss=send,direct|LTranslit=waǧǧah|Root=w ^g h|Translit=tuwaǧǧahu|Vform=تُوَجَّهُ
 8	إلى	إِلَى	ADP	P---------	AdpType=Prep	10	case	10:case	Vform=إِلَى|Gloss=to,towards|Root=' l y|Translit=ʾilā|LTranslit=ʾilā
 9	صدام	صدام	X	U---------	_	10	nmod	10:nmod	Vform=صدام|Root=OOV|Translit=ṣdām
-10	حسين	حسين	X	U---------	_	7	obl:arg	7:obl:arg:إِلَى	Vform=حسين|Root=OOV|Translit=ḥsyn
+10	حسين	حسين	X	U---------	_	7	obl:arg	7:obl:arg:إِلَى:gen	Vform=حسين|Root=OOV|Translit=ḥsyn
 11	و	وَ	CCONJ	C---------	_	12	cc	12:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
-12	أعضاء	عُضو	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	10	conj	7:obl:arg:إِلَى|10:conj	Gloss=member|LTranslit=ʿuḍw|Root=` .d w|Translit=ʾaʿḍāʾi|Vform=أَعضَاءِ
+12	أعضاء	عُضو	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	10	conj	7:obl:arg:إِلَى:gen|10:conj	Gloss=member|LTranslit=ʿuḍw|Root=` .d w|Translit=ʾaʿḍāʾi|Vform=أَعضَاءِ
 13	قيادة	قِيَادَة	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	12	nmod	12:nmod:gen	Gloss=leadership,command,leaders,commanders|LTranslit=qiyādat|Root=q w d|Translit=qiyādati|Vform=قِيَادَةِ
 14	ه	هُوَ	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nmod	13:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hi|Vform=هِ
 15	؟	؟	PUNCT	G---------	_	4	punct	4:punct	Vform=؟|Translit=?
@@ -55,7 +55,7 @@ The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 6	ألقت	أَلقَى	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	4	conj	0:root|4:conj	Gloss=deliver,throw,arrest|LTranslit=ʾalqā|Root=l q y|Translit=ʾalqat|Vform=أَلقَت
 7	القبض	قَبض	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	6	obj	6:obj	Vform=اَلقَبضَ|Gloss=arrest,seizure|Root=q b .d|Translit=al-qabḍa|LTranslit=qabḍ
 8	على	عَلَى	ADP	P---------	AdpType=Prep	9	case	9:case	Vform=عَلَى|Gloss=on,above|Root=` l w|Translit=ʿalā|LTranslit=ʿalā
-9	عادل	عادل	X	U---------	_	7	obl:arg	7:obl:arg:عَلَى|11:nsubj:pass	Vform=عادل|Root=OOV|Translit=ʿādl
+9	عادل	عادل	X	U---------	_	7	obl:arg	7:obl:arg:عَلَى:gen|11:nsubj:pass	Vform=عادل|Root=OOV|Translit=ʿādl
 10	الذي	اَلَّذِي	DET	SR----MS2-	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	11	nsubj:pass	9:ref	Vform=اَلَّذِي|Gloss=that,which|Root=l|Translit=allaḏī|LTranslit=allaḏī
 11	احيل	أَحَال	VERB	VP-P-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Pass	9	acl:relcl	9:acl:relcl	Vform=أُحِيلَ|Gloss=refer,assign,appear_(_in_court_)|Root=.h w l|Translit=ʾuḥīla|LTranslit=ʾaḥāl
 12	الى	إِلَى	ADP	P---------	AdpType=Prep	13	case	13:case	Vform=إِلَى|Gloss=to,towards|Root=' l y|Translit=ʾilā|LTranslit=ʾilā

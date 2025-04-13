@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_old-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="it_old-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-246 nodes (0%) are attached to their parents as `nsubj:pass`.
+398 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-185 instances of `nsubj:pass` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.78861788617886.
+302 instances of `nsubj:pass` (76%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.94974874371859.
 
-The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (135; 55% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (96; 39% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (8; 3% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-X.html">X</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (229; 58% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (140; 35% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (11; 3% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (11; 3% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="it_old-pos-X.html">X</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -36,37 +36,38 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 nsubj:pass	color:blue
-1	Vede	vedere	VERB	vtp2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Canto=22|Verso=112
-2	vi	vi	ADV	bx	Clitic=Yes	1	advmod:lmod	_	Canto=22|Verso=112
-3	si	si	PRON	pf3xpa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	1	expl:pass	_	Canto=22|Verso=112
-4	quella	quello	PRON	pd1fs	Gender=Fem|Number=Sing|PronType=Dem	1	nsubj:pass	_	Canto=22|Verso=112
-5	che	che	PRON	pr	PronType=Rel	6	nsubj	_	Canto=22|Verso=112
-6	mostrò	mostrare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	Canto=22|Verso=112
-7	Langia	Langia	PROPN	np	_	6	obj	_	Canto=22|SpaceAfter=No|Verso=112
-8	;	;	PUNCT	_	_	9	punct	_	_
-9	essere	essere	VERB	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	Canto=22|Verso=113
-10	vi	vi	PRON	bx	Clitic=Yes	9	expl	_	Canto=22|Verso=113
-11	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	Canto=22|Verso=113
-12	figlia	figlia	NOUN	sf1fs	Gender=Fem|Number=Sing	9	nsubj	_	Canto=22|Verso=113
-13	di	di	ADP	epskg	_	14	case	_	Canto=22|Verso=113
-14	Tiresia	Tiresia	PROPN	np	_	12	nmod	_	Canto=22|SpaceAfter=No|Verso=113
-15	,	,	PUNCT	_	_	17	punct	_	_
-16	e	e	CCONJ	cscr	_	17	cc	_	Canto=22|Verso=113
-17	Teti	Teti	PROPN	np	_	12	conj	_	Canto=22|SpaceAfter=No|Verso=113
-18	,	,	PUNCT	_	_	24	punct	_	_
-19	e	e	CCONJ	cscr	_	24	cc	_	Canto=22|Verso=114
-20	con	con	ADP	epskc	_	22	case	_	Canto=22|Verso=114
-21	le	la	DET	adfp	Gender=Fem|Number=Plur|PronType=Dem	22	det	_	Canto=22|Verso=114
-22	suore	suora	NOUN	sf1fp	Gender=Fem|Number=Plur	24	orphan	_	Canto=22|Verso=114
-23	sue	suo	DET	as1fp	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	22	det:poss	_	Canto=22|Verso=114
-24	Deidamia	Deidamia	PROPN	np	_	9	conj	_	Canto=22|SpaceAfter=No|Verso=114
-25	»	»	PUNCT	_	_	1	punct	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 25	bgColor:blue
+# visual-style 25	fgColor:white
+# visual-style 25 17 nsubj:pass	color:blue
+1	Le	la	DET	adfp	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	Canto=26|Verso=64
+2	fronde	fronda	NOUN	sf1fp	Gender=Fem|Number=Plur	14	obj	_	Canto=26|Verso=64
+3	onde	onde	PRON	p	_	5	obl:lmod	_	Canto=26|Verso=64
+4	s'	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	5	expl:pv	_	Canto=26|Verso=64
+5	infronda	infrondare	VERB	vi+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	Canto=26|Verso=64
+6	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	8	det	_	Canto=26|Verso=64
+7	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Canto=26|Verso=64
+8	orto	orto	NOUN	sm2ms	Gender=Masc|Number=Sing	5	nsubj	_	Canto=26|Verso=64
+9	de	di	ADP	eps	_	11	case	_	Canto=26|Verso=65
+10	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Canto=26|Verso=65
+11	ortolano	ortolano	NOUN	sm2ms	Gender=Masc|Number=Sing	8	nmod	_	Canto=26|Verso=65
+12	etterno	eterno	ADJ	a1ms	Gender=Masc|Number=Sing	11	amod	_	Canto=26|Verso=65|SpaceAfter=No
+13	,	,	PUNCT	_	_	2	punct	_	_
+14	am'	amare	VERB	vta1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Canto=26|Verso=65
+15	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	14	nsubj	_	Canto=26|Verso=65
+16	cotanto	cotanto	ADV	b	_	14	advmod	_	Canto=26|Verso=65
+17	quanto	quanto	PRON	pr1ms	Gender=Masc|Number=Sing|PronType=Rel	25	nsubj:pass	_	Canto=26|Verso=66
+18	da	da	ADP	epski	_	19	case	_	Canto=26|Verso=66
+19	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	obl:agent	_	Canto=26|Verso=66
+20	a	a	ADP	epsk1d	_	21	case	_	Canto=26|Verso=66
+21	lor	loro	PRON	pp3plco	Number=Plur|Person=3|PronType=Prs	25	obl	_	Canto=26|Verso=66
+22	di	di	ADP	epsk8	_	23	case	_	Canto=26|Verso=66
+23	bene	bene	NOUN	sm3ms	Gender=Masc|Number=Sing	17	nmod	_	Canto=26|Verso=66
+24	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux:pass	_	Canto=26|Verso=66
+25	porto	porgere	VERB	vtp2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	16	advcl	_	Canto=26|Verso=66|SpaceAfter=No
+26	»	»	PUNCT	_	_	14	punct	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	14	punct	_	_
 
 ~~~
 

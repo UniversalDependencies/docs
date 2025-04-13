@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-26 nodes (6%) are attached to their parents as `nsubj`.
+29 nodes (7%) are attached to their parents as `nsubj`.
 
-15 instances of `nsubj` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.65384615384615.
+16 instances of `nsubj` (55%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.6551724137931.
 
-The following 6 pairs of parts of speech are connected with `nsubj`: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (9; 35% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (6; 23% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (5; 19% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (4; 15% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
+The following 6 pairs of parts of speech are connected with `nsubj`: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (11; 38% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (6; 21% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (5; 17% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (4; 14% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 6 pairs of parts of speech are connected with `nsubj`: <tt><a href
 2	gann	gann	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
 3	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
 4	memrum	membrum	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
-5	et	_	CCONJ	_	Foreign=Yes	7	cc	_	_
+5	et	_	CCONJ	_	Foreign=Yes	7	cc	_	Lang=la
 6	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
 7	scribend	scríbend	NOUN	_	Case=Nom|Number=Sing	4	conj	_	_
 

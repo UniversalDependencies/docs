@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fro_profiterole-dep-case.html">case</a></tt>.
 
-2481 nodes (1%) are attached to their parents as `case:det`.
+2588 nodes (1%) are attached to their parents as `case:det`.
 
-2479 instances of `case:det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.12091898428053.
+2586 instances of `case:det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.12364760432767.
 
-The following 6 pairs of parts of speech are connected with `case:det`: <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (2158; 87% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (117; 5% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (113; 5% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (38; 2% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (33; 1% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (22; 1% instances).
+The following 6 pairs of parts of speech are connected with `case:det`: <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (2251; 87% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (122; 5% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (114; 4% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (39; 2% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (39; 2% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (23; 1% instances).
 
 
 ~~~ conllu

@@ -12,7 +12,7 @@ Some words have combined values of the feature; 2 combinations have been observe
 
 25191 tokens (15%) have a non-empty value of `PronType`.
 656 types (2%) occur at least once with a non-empty value of `PronType`.
-138 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+137 lemmas (1%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (14087; 8% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8435; 5% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (2669; 2% instances).
 
 ### `PRON`
@@ -30,7 +30,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Rel` (165; 1% of non-empty `PronType`): <em>což, níž, jež, nichž, němž, jenž, nímž, nimiž, něhož, jehož</em>
 * `Tot` (44; 0% of non-empty `PronType`): <em>všecko, veškeré, veškerá, veškeru, veškerý, všecky, samy, veškerou, všecku</em>
 
-`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (31) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (30) occur only with one value of `PronType`.
 
 ### `DET`
 

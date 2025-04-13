@@ -62,4 +62,4 @@ like *fact* or *report* were also analyzed as `ccomp`.  However, we
 now analyze them as [acl](). Hence, `ccomp` does not appear in
 nominals.  This makes sense, since nominals normally do not take core
 arguments.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:51 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:33 CET -->

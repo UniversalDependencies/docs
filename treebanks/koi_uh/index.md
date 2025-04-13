@@ -12,15 +12,15 @@ udver: '2'
 # UD Komi Permyak UH
 
 Language: [Komi Permyak](/koi/index.html) (code: `koi`)<br/>
-Family: Uralic, Permic
+Family: Uralic
 
 This treebank has been part of Universal Dependencies since the UD v2.5 release.
 
 The following people have contributed to making this treebank part of UD: Larisa Ponomareva, Niko Partanen, Jack Rueter, Francis Tyers.
 
 Repository: [UD_Komi_Permyak-UH](https://github.com/UniversalDependencies/UD_Komi_Permyak-UH)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkoi_uh214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkoi_uh215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -410,6 +410,14 @@ Work connected to this treebank is described in following publication. If you us
   </li>
 </ul>
 
+<ul>
+  <li>Prp
+    <ul>
+      <li>NOUN: тошока, уссэза, ӧшына</li>
+    </ul>
+  </li>
+</ul>
+
 
 <ul>
   <li><a>Definite</a></li>
@@ -442,7 +450,7 @@ Work connected to this treebank is described in following publication. If you us
 <ul>
   <li>Dim
     <ul>
-      <li>NOUN: видзоккез, керкуокыс, пельӧсокӧ</li>
+      <li>NOUN: видзоккез, керкуокыс, пельӧсокӧ, чериок</li>
     </ul>
   </li>
 </ul>
@@ -801,11 +809,6 @@ Work connected to this treebank is described in following publication. If you us
           <li>VERB-Conv: сайӧвтӧмӧн</li>
         </ul>
       </li>
-      <li>ProprietiveMod
-        <ul>
-          <li>NOUN: Сеня, тошока, уссэза, ӧшына</li>
-        </ul>
-      </li>
       <li>VAbe
         <ul>
           <li>VERB-Conv: жалейттӧг, куриттӧг, ютӧг</li>
@@ -909,7 +912,7 @@ Work connected to this treebank is described in following publication. If you us
 </ul>
 
 <ul>
-<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: вермыны, ковны, оз.</li>
+<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: оз, вермыны, ковны.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>

@@ -56,4 +56,4 @@ The present tense denotes actions that are happening right now or that usually h
 #### Examples
 
 * _<b>აეშენებინა</b> სახლი._ 'He would have probably built a house.'
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:24 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:07 CET -->

@@ -30,9 +30,9 @@ The most frequent other feature values with which `PART` and `PartType` co-occur
 
 ### `VERB`
 
-4 <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> tokens (14% of all `VERB` tokens) have a non-empty value of `PartType`.
+4 <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> tokens (13% of all `VERB` tokens) have a non-empty value of `PartType`.
 
-The most frequent other feature values with which `VERB` and `PartType` co-occurred: <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=3</tt> (4; 100%), <tt><a href="sga_dipsgg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3; 75%), <tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3; 75%).
+The most frequent other feature values with which `VERB` and `PartType` co-occurred: <tt><a href="sga_dipsgg-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=3</tt> (4; 100%), <tt><a href="sga_dipsgg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3; 75%), <tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3; 75%).
 
 `VERB` tokens may have the following values of `PartType`:
 

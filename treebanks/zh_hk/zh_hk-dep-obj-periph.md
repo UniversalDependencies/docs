@@ -62,8 +62,8 @@ The following 4 pairs of parts of speech are connected with `obj:periph`: <tt><a
 4	幾乎	幾乎	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=jǐhu|LTranslit=jǐhu
 5	天天	天天	ADV	_	_	7	advmod	_	SpaceAfter=No|Translit=tiāntiān|LTranslit=tiāntiān
 6	都	都	ADV	_	_	7	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
-7	有	有	VERB	_	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-8	人	人	NOUN	_	_	7	obj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
+7	有	有	VERB	_	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu|Cxn=Existential-HavePred
+8	人	人	NOUN	_	_	7	obj	_	SpaceAfter=No|Translit=rén|LTranslit=rén|CxnElt=7:Existential-HavePred.Pivot
 9	唱	唱	VERB	_	_	8	acl	_	SpaceAfter=No|Translit=chàng|LTranslit=chàng
 10	。	。	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 

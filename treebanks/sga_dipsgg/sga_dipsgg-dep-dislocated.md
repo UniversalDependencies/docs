@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 1 3 dislocated	color:blue
 1	immargal	immargal	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	3	nsubj	_	_
-3	femininum	_	NOUN	_	Foreign=Yes	1	dislocated	_	_
+3	femininum	_	NOUN	_	Foreign=Yes	1	dislocated	_	Lang=la
 4	dano	dano	ADV	_	_	3	advmod	_	_
 5	⁊	ocus	CCONJ	_	_	7	cc	_	_
 6	a	ad	PART	_	PartType=Vb	7	compound:prt	_	SpaceAfter=No
@@ -44,7 +44,7 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	do	do	ADP	_	AdpType=Prep|Definite=Ind	2	case	_	_
 2	inis	inis	NOUN	_	Case=Dat|Number=Sing	0	root	_	_
 3	maddoc	maddoc	PROPN	_	Case=Dat|Number=Sing	2	nmod	_	_
-4	dún	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=1|PronType=Prs	2	obl:prep	_	_
+4	dv́n	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=1|PronType=Prs	2	obl:prep	_	_
 5	.i.	.i.	ADV	_	Abbr=Yes	6	advmod	_	_
 6	mei	mé	PRON	_	Number=Sing|Person=1|PronType=Prs	2	dislocated	_	_
 7	sse	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	6	amod	_	_
@@ -79,7 +79,7 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 17	mail	mael	PROPN	_	Case=Voc|Number=Sing	13	vocative	_	_
 18	bachal	bachall	NOUN	_	Case=Gen|Number=Plur	17	nmod	_	_
 19	ro	ro	PART	_	PartType=Aug	21	compound:prt	_	SpaceAfter=No
-20	t	t	PRON	_	Number=Sing|Person=2|PronClass=A|PronType=Prs	19	obj:infx	_	_
+20	t	t_1	PRON	_	Number=Sing|Person=2|PronClass=A|PronType=Prs	19	obj:infx	_	_
 21	giuil	glenaid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	1	parataxis	_	_
 22	ind	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	23	det	_	SpaceAfter=No
 23	ṡrathar	srathar	NOUN	_	Case=Nom|Number=Sing	21	obj	_	_

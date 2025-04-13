@@ -24,7 +24,7 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 7 4 ccomp	color:blue
 1	―	―	PUNCT	PUNCT	_	4	punct	_	_
 2	Конат	кона	PRON	Pron	Case=Nom|Definite=Ind|Number=Plur	4	nsubj	_	GTtags=Pl,Nom,Indef|Gloss=the-ones
-3	а	а	AUX	Pcle	Polarity=Neg	4	aux:neg	_	GTtags=Neg|Gloss=not
+3	а	а	AUX	Pcle	Polarity=Neg	4	aux	_	GTtags=Neg|Gloss=not
 4	молить	молемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	7	ccomp	_	GTtags=IV,Ind,Prs,ScPl3|Gloss=go
 5	мартонзо	марто	ADP	Adp	Number[psor]=Sing|Person[psor]=3	4	obl	_	GTtags=COM,PxSg3|Gloss=with
 6	―	―	PUNCT	PUNCT	_	7	punct	_	_
@@ -68,7 +68,7 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 4	,	,	PUNCT	CLB	_	11	punct	_	_
 5	штобы	штобы	SCONJ	CS	_	11	mark	_	_
 6	весе	весе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Tot	8	det	_	GTtags=Tot,Sg,Nom,Indef
-7	трудиця	трудиця	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	8	nmod	_	GTtags=Sg,Nom,Indef
+7	трудиця	трудиця	NOUN	N	Case=Nom|Definite=Ind|Nomzr=Ag|Number=Sing	8	nmod	_	GTtags=Sg,Nom,Indef
 8	аватне	ава	NOUN	N	Case=Nom|Definite=Def|Number=Plur	11	nsubj	_	GTtags=Sem/Kin,Pl,Nom,Def
 9	улест	улемс	AUX	V	Mood=Opt|Number[subj]=Plur|Person[subj]=3	11	cop	_	GTtags=IV,Opt,ScPl3
 10	истят	истямо	PRON	Pron	Case=Nom|Definite=Ind|Number=Plur|PronType=Dem	11	det	_	GTtags=Dem,Pl,Nom,Indef

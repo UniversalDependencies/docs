@@ -24,14 +24,14 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 6	fgColor:white
 # visual-style 6 5 aux	color:blue
 1	Anteriormente	anteriormente	ADV	RB	_	6	advmod	_	SpaceAfter=No
-2	,	,	PUNCT	,	_	1	punct	_	_
+2	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 3	solo	solo	ADV	RB	_	4	advmod	_	_
 4	blogueros	bloguero	NOUN	NN	Gender=Masc|Number=Plur	6	nsubj	_	_
 5	habían	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 6	visto	ver	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	jets	jet	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
-9	.	.	PUNCT	.	_	6	punct	_	_
+9	.	.	PUNCT	.	PunctType=Peri	6	punct	_	_
 
 ~~~
 
@@ -44,17 +44,17 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 10 8 aux	color:blue
 1	Su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
 2	gestión	gestión	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	SpaceAfter=No
-3	,	,	PUNCT	,	_	2	punct	_	_
+3	,	,	PUNCT	,	PunctType=Comm	2	punct	_	_
 4	sin	sin	ADP	IN	_	10	discourse	_	_
 5	embargo	embargo	NOUN	NN	Gender=Masc|Number=Sing	4	fixed	_	SpaceAfter=No
-6	,	,	PUNCT	,	_	4	punct	_	_
+6	,	,	PUNCT	,	PunctType=Comm	4	punct	_	_
 7	no	no	ADV	RB	Polarity=Neg	10	advmod	_	_
 8	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
 9	estado	estar	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	cop	_	_
 10	exenta	exento	ADJ	JJ	Gender=Fem|Number=Sing	0	root	_	_
 11	de	de	ADP	IN	_	12	case	_	_
 12	críticas	crítica	NOUN	NN	Gender=Fem|Number=Plur	10	obl	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	10	punct	_	_
+13	.	.	PUNCT	.	PunctType=Peri	10	punct	_	_
 
 ~~~
 
@@ -84,7 +84,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 17	de	de	ADP	IN	_	19	case	_	_
 18	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	19	det	_	_
 19	orogenias	orogenia	NOUN	NN	Gender=Fem|Number=Plur	16	nmod	_	SpaceAfter=No
-20	.	.	PUNCT	.	_	16	punct	_	_
+20	.	.	PUNCT	.	PunctType=Peri	16	punct	_	_
 
 ~~~
 

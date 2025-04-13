@@ -46,7 +46,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 7	fgColor:white
 # visual-style 7 6 orphan	color:blue
 1	Тялонда	тялонда	ADV	Adv	_	2	advmod:tmod	_	CGdephead=#1-&gt;0|CGdeprel=@X|GTtags=
-2	аноклайхть	анокламс	VERB	V	Case=Gen|Definite=Def|Derivation=NomAg|Number=Sing	0	root	_	CGdephead=#2-&gt;2|CGdeprel=@OBJ|GTtags=Der/NomAg,N,Sg,Gen,Def
+2	аноклайхть	анокламс	VERB	V	Case=Gen|Definite=Def|Nomzr=Ag|Number=Sing	0	root	_	CGdephead=#2-&gt;2|CGdeprel=@OBJ|GTtags=Der/NomAg,N,Sg,Gen,Def
 3	сокатнень	сока	NOUN	N	Case=Gen|Definite=Def|Number=Plur	2	obj	_	CGdephead=#3-&gt;3|CGdeprel=@OBJ|GTtags=Pl,Gen,Def|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	7	punct	_	CGdephead=#4-&gt;5|CGdeprel=@X|GTtags=CLB
 5	а	а	CCONJ	CC	_	7	cc	_	CGdephead=#5-&gt;5|CGdeprel=@CC|GTtags=

@@ -80,7 +80,7 @@ The following 7 pairs of parts of speech are connected with `parataxis:obj`: <tt
 11	servo	servo	NOUN	S	Gender=Masc|Number=Sing	8	appos	_	_
 12	fedele	fedele	ADJ	A	Number=Sing	11	amod	_	_
 13	di	di	ADP	E	_	14	case	_	_
-14	Mr.	Mr.	X	SW	_	11	nmod	_	_
+14	Mr.	Mr.	X	SW	Foreign=Yes	11	nmod	_	_
 15	Rockefeller	Rockefeller	PROPN	SP	_	14	flat:name	_	SpaceAfter=No
 16	.	.	PUNCT	FS	_	1	punct	_	_
 17	Fuori	fuori	ADP	E	_	18	case	_	_

@@ -11,14 +11,14 @@ It occurs with 6 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 
 22803 tokens (63%) have a non-empty value of `Case`.
 3406 types (74%) occur at least once with a non-empty value of `Case`.
-1512 lemmas (56%) occur at least once with a non-empty value of `Case`.
+1518 lemmas (56%) occur at least once with a non-empty value of `Case`.
 The feature is used with 6 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (11016; 31% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6283; 17% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (3861; 11% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (953; 3% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (622; 2% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (68; 0% instances).
 
 ### `NOUN`
 
 11016 <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11001; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7820; 71%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6564; 60%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7820; 71%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6564; 60%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 6283 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6109; 97%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (5890; 94%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4011; 64%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3772; 60%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6109; 97%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (5893; 94%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4011; 64%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3772; 60%).
 
 `ADJ` tokens may have the following values of `Case`:
 

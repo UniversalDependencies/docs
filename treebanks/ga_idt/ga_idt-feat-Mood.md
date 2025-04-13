@@ -10,23 +10,23 @@ This feature is universal but the values `Int` are language-specific.
 It occurs with 5 different values: `Cnd`, `Imp`, `Ind`, `Int`, `Sub`.
 Some words have combined values of the feature; 1 combinations have been observed: `Cnd|Int`.
 
-8739 tokens (8%) have a non-empty value of `Mood`.
+8746 tokens (8%) have a non-empty value of `Mood`.
 1965 types (13%) occur at least once with a non-empty value of `Mood`.
 457 lemmas (5%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (8643; 7% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (72; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (24; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (8650; 7% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (72; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (24; 0% instances).
 
 ### `VERB`
 
-8643 <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Mood`.
+8650 <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6754; 78%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6756; 78%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (498; 6% of non-empty `Mood`): <em>mbeadh, bheadh, fhéadfadh, dtiocfadh, bhféadfadh, rachadh, bhféadfaí, fhéadfaí, gcuirfeadh, gcuirfí</em>
 * `Cnd,Int` (11; 0% of non-empty `Mood`): <em>mbeadh, bhfeicfeadh, bhfillfinn, bhféadfainn, bhféadfá, dteipfeadh, gceapfaí, gcloisfimis, soláthróinn</em>
-* `Imp` (146; 2% of non-empty `Mood`): <em>féach, bíodh, déan, cuir, tabhair, téigh, Léigh, bain, dein, labhair</em>
-* `Ind` (7979; 92% of non-empty `Mood`): <em>tá, bhí, atá, bhfuil, raibh, beidh, bheidh, níl, mbeidh, thug</em>
+* `Imp` (144; 2% of non-empty `Mood`): <em>féach, bíodh, déan, cuir, tabhair, téigh, Léigh, bain, dein, labhair</em>
+* `Ind` (7988; 92% of non-empty `Mood`): <em>tá, bhí, atá, bhfuil, raibh, beidh, bheidh, níl, mbeidh, thug</em>
 * `Sub` (9; 0% of non-empty `Mood`): <em>bhfeaca, bhfeice, bhfága, chroma, lige, n-imí, n-ithe, raibh, sábhála</em>
 * `EMPTY` (125): <em>bhíodh, mbíodh, dhéanadh, chuirtí, mbínn, thagadh, thugadh, Théadh, bhídís, chuireadh</em>
 
@@ -120,7 +120,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 * `Cnd` (30; 42% of non-empty `Mood`): <em>ba, B', gur, ar, mba</em>
 * `Int` (42; 58% of non-empty `Mood`): <em>an, nach, nár, arbh</em>
-* `EMPTY` (1483): <em>is, ní, ba, gur, b', nach, ar, gurb, gurbh, níor</em>
+* `EMPTY` (1485): <em>is, ní, ba, gur, b', nach, ar, gurb, gurbh, níor</em>
 
 <table>
   <tr><th>Paradigm <i>is</i></th><th><tt>Cnd</tt></th><th><tt>Int</tt></th></tr>
@@ -143,7 +143,7 @@ The most frequent other feature values with which `PART` and `Mood` co-occurred:
 
 * `Imp` (17; 71% of non-empty `Mood`): <em>ná</em>
 * `Sub` (7; 29% of non-empty `Mood`): <em>go, Nár</em>
-* `EMPTY` (6954): <em>a, go, ní, d', nach, níos, is, ó, gur, ina</em>
+* `EMPTY` (6952): <em>a, go, ní, d', nach, níos, is, ó, gur, ina</em>
 
 ## Relations with Agreement in `Mood`
 

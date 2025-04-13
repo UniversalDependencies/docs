@@ -33,17 +33,17 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 9	_	_	ADP	IN	_	11	case	11:case	Lem=_|Len=2
 10	_	_	ADJ	JJ	Degree=Pos	11	amod	11:amod	Entity=(78-time-new-cf5-2-sgl|Lem=_|Len=7
 11	_	_	NOUN	NNS	Number=Plur	8	obl	8:obl:at	Entity=78)|Lem=time|Len=5|MSeg=time-s
-12	_	_	CCONJ	CC	_	13	cc	13:cc	Discourse=joint-sequence_m:71->70:0:dm-and-431|Lem=_|Len=3
+12	_	_	CCONJ	CC	_	13	cc	13:cc	Discourse=joint-sequence_m:71->70:0:dm-and-431|Lem=_|Len=3|PDTB=Explicit:Expansion.Conjunction:and:431:420-430:432-434;Implicit:Temporal.Asynchronous.Precedence:then:_:420-430:431-434
 13	_	_	VERB	VB	VerbForm=Inf	8	conj	5:advcl:relcl|8:conj:and	Lem=_|Len=6
 14	_	_	ADP	IN	_	15	case	15:case	Lem=_|Len=3
 15	_	_	NOUN	NNS	Number=Plur	13	obl	13:obl:for	Entity=(79-event-new-cf6-1-sgl)76)|Lem=response|Len=9|MSeg=respon-se-s
-16	_	_	PART	TO	_	17	mark	17:mark	Discourse=purpose-goal:72->70:1:syn-inf-435|Lem=_|Len=2
+16	_	_	PART	TO	_	17	mark	17:mark	Discourse=purpose-goal:72->70:1:syn-inf-435|Lem=_|Len=2|PDTB=Implicit:Contingency.Purpose.Arg2-as-goal:in order:_:420-434:435-443
 17	_	_	VERB	VB	VerbForm=Inf	13	advcl	13:advcl:to	Lem=_|Len=6
 18	_	_	SCONJ	IN	_	22	mark	22:mark	Lem=_|Len=2
 19	_	_	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	Entity=(80-place-new-cf3-2-sgl|Lem=a|Len=2
 20	_	_	NOUN	NN	Number=Sing	22	nsubj:pass	22:nsubj:pass	Entity=80)|Lem=_|Len=4
 21	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux:pass	22:aux:pass	Lem=be|Len=2
-22	_	_	VERB	GW	Typo=Yes	17	ccomp	17:ccomp	CorrectForm=overpopulated|Cxn=Interrogative-Polar-Indirect|Lem=overpopulate|Len=4|XML=<sic ana:::"overpopulated">
+22	_	_	VERB	GW	Typo=Yes	17	ccomp	17:ccomp	CorrectForm=overpopulated|Cxn=Interrogative-Polar-Indirect|CxnElt=22:Interrogative-Polar-Indirect.Clause|Lem=overpopulate|Len=4|XML=<sic ana:::"overpopulated">
 23	_	_	X	VBN	_	22	goeswith	22:goeswith	CorrectForm=_|Entity=77)|Lem=_|Len=9|MSeg=populat-ed|SpaceAfter=No|XML=</sic>
 24	_	_	PUNCT	.	_	2	punct	2:punct	Lem=_|Len=1
 
@@ -56,16 +56,16 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 16 goeswith	color:blue
-1	_	_	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	Discourse=context-circumstance:2->4:1:_;joint-list:2->2:2:1:orp-and-17|Entity=(2-person-new-cf1-2,4-coref(3-person-new-cf4-2-sgl(4-person-acc:com-cf2-1-ana)|Lem=*LOWER*|Len=2
+1	_	_	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	Discourse=context-circumstance:2->4:1:_|Entity=(2-person-new-cf1-2,4-coref(3-person-new-cf4-2-sgl(4-person-acc:com-cf2-1-ana)|Lem=*LOWER*|Len=2
 2	_	_	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	Entity=3)|Lem=_|Len=4
 3	_	_	CCONJ	CC	_	4	cc	4:cc	Lem=_|Len=3
 4	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	2:conj:and|7:nsubj	Entity=(4-person-giv:act-cf2-1-ana)2)|Lem=_|Len=1
 5	_	_	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	Lem=be|Len=4
 6	_	_	ADP	IN	_	7	case	7:case	Lem=_|Len=2
 7	_	_	PROPN	NNP	Number=Sing	0	root	0:root	Entity=(5-place-new-cf7-1-coref-Panera_Bread)|Lem=_|Len=6
-8	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	7	advcl	7:advcl	Discourse=elaboration-additional:3->2:0:syn-pres-15|Lem=eat|Len=6|MSeg=eat-ing
-9	_	_	NOUN	NN	Number=Sing	8	obj	8:obj	Entity=(6-object-new-cf6-1-sgl)|Lem=_|Len=9
-10	_	_	CCONJ	CC	_	12	cc	12:cc	Discourse=context-background:4->6:1:ref-prs-8-11,32+ref-prs-20-24,38|Lem=_|Len=3
+8	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	7	advcl	7:advcl	Discourse=elaboration-additional:3->2:0:syn-pres-15|Lem=eat|Len=6|MSeg=eat-ing|PDTB=Implicit:Expansion.Level-of-detail.Arg2-as-detail:specifically:_:8-14:15-16
+9	_	_	NOUN	NN	Number=Sing	8	obj	8:obj	Entity=(6-object-new-cf6-1-sgl)|Lem=_|Len=9|MSeg=break-fast
+10	_	_	CCONJ	CC	_	12	cc	12:cc	Discourse=context-background:4->6:1:ref-prs-8-11,32+ref-prs-20-24,38;joint-list:4->2:1:1:orp-and-17|Lem=_|Len=3|PDTB=Explicit:Expansion.Conjunction:and:17:8-16:18-31
 11	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	12:nsubj	Entity=(2-person-giv:act-cf1-1-ana)|Lem=_|Len=2
 12	_	_	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	7	conj	7:conj:and	Lem=notice|Len=7|MSeg=notic-ed
 13	_	_	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	Entity=(7-person-new-cf5-2-coref|Lem=_|Len=1

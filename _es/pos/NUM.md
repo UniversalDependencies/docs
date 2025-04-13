@@ -23,4 +23,4 @@ Most cardinal numerals in Spanish do not agree with the counted noun in gender. 
 
 * Ordinal number as an adjective: _El primer día_ "The first day" (primer agrees with día in gender and number)
 * Ordinal number as an adverb: _Llegó primero_ "He/She arrived first" (primero modifies the verb llegó and does not need to agree in gender or number)
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:38 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:23 CET -->

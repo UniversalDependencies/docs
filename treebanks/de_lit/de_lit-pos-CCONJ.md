@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>und</em> (<tt><a href="de_lit-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.045455 (the average of all parts of speech is 1.310429).
+The form / lemma ratio of `CCONJ` is 1.045455 (the average of all parts of speech is 1.310698).
 
 The 1st highest number of forms (2) was observed with the lemma “und”: <em>u, und</em>.
 
@@ -76,7 +76,7 @@ Examples: <em>und, oder, als, wie, aber, sondern, denn, noch, entweder, desto</e
 
 `CCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="de_lit-dep-cc.html">cc</a></tt> (1703; 88% instances), <tt><a href="de_lit-dep-case.html">case</a></tt> (156; 8% instances), <tt><a href="de_lit-dep-mark.html">mark</a></tt> (37; 2% instances), <tt><a href="de_lit-dep-advmod.html">advmod</a></tt> (36; 2% instances), <tt><a href="de_lit-dep-fixed.html">fixed</a></tt> (4; 0% instances), <tt><a href="de_lit-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="de_lit-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="de_lit-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="de_lit-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (893; 46% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (535; 28% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt> (279; 14% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> (64; 3% instances), <tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (50; 3% instances), <tt><a href="de_lit-pos-DET.html">DET</a></tt> (41; 2% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (37; 2% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt> (33; 2% instances), <tt><a href="de_lit-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="de_lit-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="de_lit-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="de_lit-pos-PART.html">PART</a></tt> (2; 0% instances)
+Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (893; 46% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (534; 28% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt> (280; 14% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> (64; 3% instances), <tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (50; 3% instances), <tt><a href="de_lit-pos-DET.html">DET</a></tt> (41; 2% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (37; 2% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt> (33; 2% instances), <tt><a href="de_lit-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="de_lit-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="de_lit-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="de_lit-pos-PART.html">PART</a></tt> (2; 0% instances)
 
 1924 (99%) `CCONJ` nodes are leaves.
 

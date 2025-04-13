@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="nds_lsdc-dep-nmod.html">nmod</a></tt>.
 
-24 nodes (0%) are attached to their parents as `nmod:poss`.
+25 nodes (0%) are attached to their parents as `nmod:poss`.
 
-22 instances of `nmod:poss` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.875.
+23 instances of `nmod:poss` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.84.
 
-The following 5 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (8; 33% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (7; 29% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (4; 17% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (4; 17% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
+The following 6 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (8; 32% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (7; 28% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (4; 16% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (4; 16% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -78,11 +78,11 @@ The following 5 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 7	;	;	PUNCT	_	_	9	punct	_	_
 8	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	lemma_gml=hê¹
 9	smit	smyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	parataxis	_	lemma_gml=smîten
-10	vlak	vlak	ADV	_	_	11	advmod	_	lemma_gml=vlak¹
+10	vlak	vlak	ADJ	_	_	11	advmod	_	lemma_gml=vlak¹
 11	langs	langs	ADP	_	AdpType=Prep	14	case	_	lemma_gml=langes
 12	Bennad	Bennad	PROPN	_	Gender=Masc|Number=Sing	13	nmod:poss	_	_
 13	synen	syn	DET	_	Case=Acc|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	14	det:poss	_	lemma_gml=sîn⁴
-14	klump	klump	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	lemma_gml=klump(e)|SpaceAfter=No
+14	klump	klumpe	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	lemma_gml=klumpe|SpaceAfter=No
 15	;	;	PUNCT	_	_	19	punct	_	_
 16	of	of	SCONJ	_	_	19	mark	_	lemma_gml=of¹
 17	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	lemma_gml=hê¹

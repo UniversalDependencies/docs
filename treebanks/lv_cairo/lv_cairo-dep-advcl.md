@@ -8,12 +8,29 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (1%) are attached to their parents as `advcl`.
+2 nodes (1%) are attached to their parents as `advcl`.
 
-1 instances of `advcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.
+2 instances of `advcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.5.
 
-The following 1 pairs of parts of speech are connected with `advcl`: <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt> (1; 100% instances).
+The following 2 pairs of parts of speech are connected with `advcl`: <tt><a href="lv_cairo-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_cairo-pos-DET.html">DET</a></tt> (1; 50% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt> (1; 50% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 advcl	color:blue
+1	Mans	mans	DET	ps0msnn	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	2:det	LvtbNodeId=a-c70-Cairo-p8s1w1
+2	tētis	tētis	NOUN	ncmsn2	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	LvtbNodeId=a-c70-Cairo-p8s1w2
+3	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	LvtbNodeId=a-c70-Cairo-p8s1w3
+4	foršāks	foršs	ADJ	afmsnnc	Case=Nom|Definite=Ind|Degree=Cmp|Gender=Masc|Number=Sing	0	root	0:root	LvtbNodeId=a-c70-Cairo-p8s1w4
+5	nekā	nekā	SCONJ	cs	_	6	mark	6:mark	LvtbNodeId=a-c70-Cairo-p8s1w5
+6	tavējais	tavējs	DET	armsnyp	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	4	advcl	4:advcl:nekā	LvtbNodeId=a-c70-Cairo-p8s1w6|SpaceAfter=No
+7	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-c70-Cairo-p8s1w7
+
+~~~
 
 
 ~~~ conllu

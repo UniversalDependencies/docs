@@ -46,7 +46,7 @@ The following 2 pairs of parts of speech are connected with `advmod:cmp`: <tt><a
 4	пеетькшнемс	пеетькшнемс	VERB	V	VerbForm=Inf	0	root	_	CGdephead=#4-&gt;3|CGdeprel=@IMV|GTtags=IV,Inf|SpaceAfter=No
 5	:	:	PUNCT	CLB	_	8	punct	_	CGdephead=#5-&gt;5|CGdeprel=@CLB|GTtags=CLB
 6	сяда	сяда	ADV	Adv	AdvType=Deg	8	advmod:cmp	_	CGdephead=#6-&gt;8|CGdeprel=@ADVL&gt;|GTtags=Deg
-7	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	8	aux:neg	_	CGdephead=#7-&gt;7|CGdeprel=@-FAUXV&gt;|GTtags=Aux,Neg
+7	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	8	aux	_	CGdephead=#7-&gt;7|CGdeprel=@-FAUXV&gt;|GTtags=Aux,Neg
 8	макстама	максомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres	4	conj	_	CGdephead=#8-&gt;4|CGdeprel=@FMV|GTtags=IV,Ind,Prs,ScPl1
 9	пря	пря	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	10	nmod	_	CGdephead=#9-&gt;10|CGdeprel=@&gt;N|GTtags=Sg,Nom,Indef
 10	ризфти	ризф	NOUN	N	Case=Dat|Definite=Def|Number=Sing	8	obl	_	CGdephead=#10-&gt;8|CGdeprel=@&lt;ADVL|GTtags=Sg,Dat,Def|SpaceAfter=No

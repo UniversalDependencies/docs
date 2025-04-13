@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>di</em> (<tt><a href="id_gsd-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.005000 (the average of all parts of speech is 1.120254).
+The form / lemma ratio of `ADP` is 1.005000 (the average of all parts of speech is 1.120343).
 
 The 1st highest number of forms (2) was observed with the lemma “lain”: <em>lain, melainkan</em>.
 
@@ -82,7 +82,7 @@ Examples: <em>di, pada, dari, dengan, dalam, oleh, sebagai, untuk, ke, seperti</
 
 `ADP` nodes are attached to their parents using 16 different relations: <tt><a href="id_gsd-dep-case.html">case</a></tt> (11116; 98% instances), <tt><a href="id_gsd-dep-case-adv.html">case:adv</a></tt> (117; 1% instances), <tt><a href="id_gsd-dep-mark.html">mark</a></tt> (67; 1% instances), <tt><a href="id_gsd-dep-fixed.html">fixed</a></tt> (17; 0% instances), <tt><a href="id_gsd-dep-root.html">root</a></tt> (11; 0% instances), <tt><a href="id_gsd-dep-advmod.html">advmod</a></tt> (10; 0% instances), <tt><a href="id_gsd-dep-amod.html">amod</a></tt> (7; 0% instances), <tt><a href="id_gsd-dep-dep.html">dep</a></tt> (7; 0% instances), <tt><a href="id_gsd-dep-appos.html">appos</a></tt> (6; 0% instances), <tt><a href="id_gsd-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="id_gsd-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="id_gsd-dep-nmod-lmod.html">nmod:lmod</a></tt> (2; 0% instances), <tt><a href="id_gsd-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (7396; 65% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (2876; 25% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (443; 4% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (213; 2% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (192; 2% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (170; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (32; 0% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (15; 0% instances),  (11; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (7396; 65% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (2875; 25% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (443; 4% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (215; 2% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (192; 2% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (170; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (32; 0% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (15; 0% instances),  (11; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt> (2; 0% instances)
 
 11223 (99%) `ADP` nodes are leaves.
 

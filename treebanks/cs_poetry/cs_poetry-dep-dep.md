@@ -29,7 +29,7 @@ The following 12 pairs of parts of speech are connected with `dep`: <tt><a href=
 5	dej	dát	VERB	Vi-S---2--A----	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
 6	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	5	obl:arg	_	_
 7	slyšet	slyšet	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	5	xcomp	_	_
-8	slovo	slovo	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	7	obj	_	SpaceAfter=No
+8	slovo	slovo	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	SpaceAfter=No
 9	:	:	PUNCT	Z:-------------	_	10	punct	_	_
 10	Ego	ego	PRON	II-------------	Foreign=Yes	8	appos	_	_
 11	te	tu	PRON	TT-------------	Foreign=Yes	10	flat:foreign	_	_
@@ -48,11 +48,11 @@ The following 12 pairs of parts of speech are connected with `dep`: <tt><a href=
 1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	_	SpacesBefore=\s
 2	rudých	rudý	ADJ	AAIP6----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	4	dep	_	_
 3	kdys	kdysi	ADV	Db-------------	_	7	advmod	_	_
-4	vlasů	vlas	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	5	nmod	_	_
-5	záplavě	záplava	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	7	obl	_	_
+4	vlasů	vlas	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+5	záplavě	záplava	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
 6	jsem	být	AUX	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
 7	viděl	vidět	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-8	světici	světice	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	7	obj	_	SpaceAfter=No
+8	světici	světice	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
 ~~~
@@ -65,11 +65,11 @@ The following 12 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 6	fgColor:white
 # visual-style 6 1 dep	color:blue
 1	Ó	ó	INTJ	II-------------	_	6	dep	_	_
-2	básníku	básník	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	6	vocative	_	SpaceAfter=No
+2	básníku	básník	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	6	vocative	_	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	6	punct	_	_
 4	ty	ty	PRON	Vi-S---2--A----	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
 5	jsi	být	AUX	Vi-S---2--A----	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	6	aux	_	_
-6	roven	rovný	ADJ	ACYS------A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short	0	root	_	_
+6	roven	rovný	ADJ	ACYS------A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short	0	root	_	_
 7	jemu	on	PRON	PPZS3--3-------	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obl:arg	_	SpaceAfter=No
 8	!	!	PUNCT	Z:-------------	_	6	punct	_	_
 

@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 3	fgColor:white
 # visual-style 3 7 vocative	color:blue
 1	Мунігмозыс	мунны	VERB	V	Derivation=Igmoz|Number[psor]=Sing|Person[psor]=3|VerbForm=Conv	3	advcl	_	_
-2	он	оз	AUX	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Pres	3	aux:neg	_	_
+2	он	оз	AUX	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Pres	3	aux	_	_
 3	тӧр	тӧрны	VERB	V	Connegative=Yes	0	root	_	_
 4	бергӧдчыныс	бергӧдчыны	VERB	V	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	7	punct	_	_

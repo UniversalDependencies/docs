@@ -51,4 +51,4 @@ det(with-word,each)
 '[...] he called me [by name] **every third word** of his speech' (Cicero, Fam. 5.2.8) 
 
 * ablative expressing punctual (even if repeated: the verb shows an [imperfective](la-feat/Aspect) aspect) temporal reference for an event (the utterance of a name).
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:41 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:22 CET -->

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (0%) are attached to their parents as `reparandum`.
+19 nodes (0%) are attached to their parents as `reparandum`.
 
-17 instances of `reparandum` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.82352941176471.
+19 instances of `reparandum` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.84210526315789.
 
-The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (9; 53% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (2; 12% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (2; 12% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 6% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 6% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 6% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 6% instances).
+The following 9 pairs of parts of speech are connected with `reparandum`: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (9; 47% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (2; 11% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (2; 11% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (1; 5% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 5% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 5% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 5% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 5% instances).
 
 
 ~~~ conllu

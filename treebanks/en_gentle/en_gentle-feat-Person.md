@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-2023 tokens (11%) have a non-empty value of `Person`.
+2022 tokens (11%) have a non-empty value of `Person`.
 413 types (11%) occur at least once with a non-empty value of `Person`.
-284 lemmas (9%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (947; 5% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (613; 3% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (463; 3% instances).
+282 lemmas (9%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (946; 5% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (613; 3% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (463; 3% instances).
 
 ### `PRON`
 
-947 <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> tokens (80% of all `PRON` tokens) have a non-empty value of `Person`.
+946 <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> tokens (80% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (946; 100%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (792; 84%), <tt><a href="en_gentle-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (710; 75%), <tt><a href="en_gentle-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (616; 65%), <tt><a href="en_gentle-feat-Case.html">Case</a></tt><tt>=Nom</tt> (523; 55%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (945; 100%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (791; 84%), <tt><a href="en_gentle-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (709; 75%), <tt><a href="en_gentle-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (615; 65%), <tt><a href="en_gentle-feat-Case.html">Case</a></tt><tt>=Nom</tt> (522; 55%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (336; 35% of non-empty `Person`): <em>I, we, my, me, our, us, myself, mine, Ourselves</em>
-* `2` (209; 22% of non-empty `Person`): <em>you, your, yourself, thou, yours</em>
+* `1` (336; 36% of non-empty `Person`): <em>I, we, my, me, our, us, myself, mine, Ourselves</em>
+* `2` (208; 22% of non-empty `Person`): <em>you, your, yourself, thou, yours</em>
 * `3` (402; 42% of non-empty `Person`): <em>he, it, his, they, its, him, her, them, their, she</em>
-* `EMPTY` (241): <em>that, what, which, this, there, who, nothing, something, whom, anything</em>
+* `EMPTY` (242): <em>that, what, which, this, there, who, nothing, something, whom, anything</em>
 
 <table>
   <tr><th>Paradigm <i>I</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -40,14 +40,14 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 613 <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="en_gentle-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (613; 100%), <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (570; 93%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (486; 79%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (374; 61%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="en_gentle-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (613; 100%), <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (570; 93%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (486; 79%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (373; 61%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (108; 18% of non-empty `Person`): <em>said, have, heard, need, had, implore, passed, stood, thought, want</em>
-* `2` (173; 28% of non-empty `Person`): <em>let, see, Suppose, get, have, take, tell, consider, do, know</em>
+* `2` (173; 28% of non-empty `Person`): <em>let, see, Suppose, get, take, have, tell, consider, do, know</em>
 * `3` (332; 54% of non-empty `Person`): <em>has, follows, is, Quoth, are, continues, had, held, precedes, took</em>
-* `EMPTY` (1038): <em>gon, have, get, do, make, following, see, become, done, going</em>
+* `EMPTY` (1040): <em>gon, have, get, do, make, following, see, become, done, going</em>
 
 <table>
   <tr><th>Paradigm <i>have</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -67,8 +67,8 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (50; 11% of non-empty `Person`): <em>'m, do, 've, 're, am, was, did, had, are, have</em>
-* `2` (31; 7% of non-empty `Person`): <em>are, do, 're, 've, have, be, ’re</em>
-* `3` (382; 83% of non-empty `Person`): <em>is, was, are, has, 's, were, have, does, did, do</em>
+* `2` (30; 6% of non-empty `Person`): <em>are, do, 're, 've, have, be, ’re</em>
+* `3` (383; 83% of non-empty `Person`): <em>is, was, are, 's, has, were, have, does, did, do</em>
 * `EMPTY` (290): <em>be, will, can, been, may, would, should, could, shall, must</em>
 
 <table>
@@ -86,8 +86,8 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (227; 51%),
-<tt>VERB --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> VERB</tt> (33; 52%),
-<tt>AUX --[<tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (8; 73%),
+<tt>VERB --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> VERB</tt> (33; 53%),
+<tt>AUX --[<tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (7; 70%),
 <tt>VERB --[<tt><a href="en_gentle-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="en_gentle-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (1; 100%),
 <tt>VERB --[<tt><a href="en_gentle-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (1; 100%).

@@ -44,7 +44,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 * `Fem` (32385; 41% of non-empty `Gender`): <em>la, las, una, esta, esa, todas, estas, otras, toda, otra</em>
 * `Masc` (46374; 59% of non-empty `Gender`): <em>el, los, un, este, todo, ese, todos, otros, estos, unos</em>
-* `EMPTY` (5666): <em>su, sus, cada, mi, cualquier, qué, tal, mis, diferentes, tu</em>
+* `EMPTY` (5672): <em>su, sus, cada, mi, cualquier, qué, tal, mis, diferentes, tu</em>
 
 <table>
   <tr><th>Paradigm <i>el</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -134,7 +134,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 * `Fem` (93; 32% of non-empty `Gender`): <em>ambas, media, una, DECENAS, quinientas</em>
 * `Masc` (197; 68% of non-empty `Gender`): <em>ambos, medio, un, doscientos, uno, miles, quinientos, dois, euros, ochenta</em>
-* `EMPTY` (8890): <em>dos, ciento, tres, cinco, cuatro, seis, 20, 30, siete, 10</em>
+* `EMPTY` (8884): <em>dos, ciento, tres, cinco, cuatro, seis, 20, 30, siete, 10</em>
 
 <table>
   <tr><th>Paradigm <i>ambos</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>

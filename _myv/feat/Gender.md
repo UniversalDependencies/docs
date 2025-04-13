@@ -22,4 +22,4 @@ udver: '2'
 * [myv] _<b>Гава</b> ды Люба_ "<b>Gava</b> and Люба"
 
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:58 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:42 CET -->

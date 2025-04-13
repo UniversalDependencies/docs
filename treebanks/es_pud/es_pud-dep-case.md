@@ -31,7 +31,7 @@ The following 15 pairs of parts of speech are connected with `case`: <tt><a href
 7	$	$	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
 8	por	por	ADP	IN	_	9	case	_	_
 9	persona	persona	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	4	punct	_	_
+10	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 ~~~
 
@@ -49,7 +49,7 @@ The following 15 pairs of parts of speech are connected with `case`: <tt><a href
 5	durante	durante	ADP	IN	_	7	case	_	_
 6	una	uno	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	7	nummod	_	_
 7	década	década	NOUN	NN	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	1	punct	_	_
+8	.	.	PUNCT	.	PunctType=Peri	1	punct	_	_
 
 ~~~
 
@@ -65,7 +65,7 @@ The following 15 pairs of parts of speech are connected with `case`: <tt><a href
 3	preguntas	pregunta	NOUN	NN	Gender=Fem|Number=Plur	2	nsubj	_	_
 4	sin	sin	ADP	IN	_	5	case	_	_
 5	responder	responder	VERB	VB	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
-6	.	.	PUNCT	.	_	2	punct	_	_
+6	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
 ~~~
 

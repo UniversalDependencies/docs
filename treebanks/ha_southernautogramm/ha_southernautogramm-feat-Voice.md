@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 * `Cau` (2; 14% of non-empty `Voice`): <em>sayar̃, s~</em>
 * `Stat` (12; 86% of non-empty `Voice`): <em>zàune, jìbge, kwànce</em>
-* `EMPTY` (2030): <em>yi, cêː, jeː, ci, zoː, ga, sâː, baː, san, ganiː</em>
+* `EMPTY` (2029): <em>yi, cêː, jeː, ci, zoː, ga, sâː, baː, san, ganiː</em>
 
 ## Relations with Agreement in `Voice`
 

@@ -27,4 +27,4 @@ The dependency type `cc` is used for [CCONJ](), that is, conjunction (e.g. 及�
 
 ~~~
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:50 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:32 CET -->

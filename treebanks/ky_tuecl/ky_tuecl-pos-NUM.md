@@ -13,7 +13,7 @@ The 10 most frequent `NUM` lemmas: <em>үч, беш, бир, _, эки</em>
 
 The 10 most frequent `NUM` types:  <em>беш, үч, бир, эки</em>
 
-The 10 most frequent ambiguous lemmas: <em>бир</em> (<tt><a href="ky_tuecl-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 2), <em>_</em> (<tt><a href="ky_tuecl-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ky_tuecl-pos-NUM.html">NUM</a></tt> 1, <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>бир</em> (<tt><a href="ky_tuecl-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 2), <em>_</em> (<tt><a href="ky_tuecl-pos-NUM.html">NUM</a></tt> 1, <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 1, <tt><a href="ky_tuecl-pos-PUNCT.html">PUNCT</a></tt> 1)
 
 The 10 most frequent ambiguous types:  
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 0.800000 (the average of all parts of speech is 1.451724).
+The form / lemma ratio of `NUM` is 0.800000 (the average of all parts of speech is 1.466899).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: <em>беш</em>.
 

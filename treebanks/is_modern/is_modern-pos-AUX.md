@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>er</em> (<tt><a href="is_modern-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 9.333333 (the average of all parts of speech is 1.734760).
+The form / lemma ratio of `AUX` is 9.333333 (the average of all parts of speech is 1.738114).
 
 The 1st highest number of forms (17) was observed with the lemma “vera”: <em>e., er, eru, erum, sé, séu, séum, séuð, var, varst, vera, verið, voru, vorum, væri, væru, værum</em>.
 

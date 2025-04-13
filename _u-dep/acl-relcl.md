@@ -30,4 +30,4 @@ acl:relcl(man, love)
 I saw the book which you bought
 acl:relcl(book, bought)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:31 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:14 CET -->

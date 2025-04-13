@@ -21,4 +21,4 @@ mentioned in the `FEAT` column. (Which means that empty value has the `No` meani
 * abbreviations: _т, і_
 * years: _1897_
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:25 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:08 CET -->

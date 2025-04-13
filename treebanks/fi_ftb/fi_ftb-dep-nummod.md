@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1778 nodes (1%) are attached to their parents as `nummod`.
+1777 nodes (1%) are attached to their parents as `nummod`.
 
-1585 instances of `nummod` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.24184476940382.
+1584 instances of `nummod` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.24704558244232.
 
-The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (1548; 87% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (114; 6% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (44; 2% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (20; 1% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (11; 1% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt>-<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt>-<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="fi_ftb-pos-SYM.html">SYM</a></tt>-<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (6; 0% instances).
+The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (1554; 87% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (114; 6% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (45; 3% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (20; 1% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (11; 1% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt>-<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="fi_ftb-pos-SYM.html">SYM</a></tt>-<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (7; 0% instances).
 
 
 ~~~ conllu

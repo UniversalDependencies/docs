@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-319 nodes (7%) are attached to their parents as `det`.
+320 nodes (7%) are attached to their parents as `det`.
 
-258 instances of `det` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.10658307210031.
+259 instances of `det` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.10625.
 
-The following 10 pairs of parts of speech are connected with `det`: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (285; 89% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (11; 3% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (9; 3% instances), <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `det`: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (287; 90% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (11; 3% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (9; 3% instances), <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

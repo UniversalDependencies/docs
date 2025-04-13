@@ -46,7 +46,7 @@ The following 10 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 14	fgColor:white
 # visual-style 14 15 appos	color:blue
 1	Up	up	ADP	_	AdpType=Prep	3	case	_	lemma_gml=uppe
-2	düssem	düsse	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	lemma_gml=desse,desse,dit
+2	düssem	disse	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	lemma_gml=desse,desse,dit
 3	slotte	slot	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	lemma_gml=slotte
 4	woande	woanen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=wōnen|SpaceAfter=No
 5	,	,	PUNCT	_	_	10	punct	_	_

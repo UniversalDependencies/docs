@@ -12,15 +12,15 @@ udver: '2'
 # UD Persian Seraji
 
 Language: [Persian](/fa/index.html) (code: `fa`)<br/>
-Family: Indo-European, Iranian
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
 The following people have contributed to making this treebank part of UD: Mojgan Seraji, Filip Ginter, Joakim Nivre, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Persian-Seraji](https://github.com/UniversalDependencies/UD_Persian-Seraji)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfa_seraji214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfa_seraji215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

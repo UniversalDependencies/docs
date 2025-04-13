@@ -12,15 +12,15 @@ udver: '2'
 # UD Old Irish DipSGG
 
 Language: [Old Irish](/sga/index.html) (code: `sga`)<br/>
-Family: Indo-European, Celtic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.12 release.
 
 The following people have contributed to making this treebank part of UD: Adrian Doyle.
 
 Repository: [UD_Old_Irish-DipSGG](https://github.com/UniversalDependencies/UD_Old_Irish-DipSGG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsga_dipsgg214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsga_dipsgg215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -100,11 +100,11 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
 
 
 <ul>
-<li>This corpus contains 64 sentences and 403 tokens.</li>
+<li>This corpus contains 64 sentences and 418 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 114 tokens (28%) that are not followed by a space.</li>
+<li>This corpus contains 114 tokens (27%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -132,7 +132,7 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
 </ul>
 
 <ul>
-<li>This corpus contains 11 lemmas tagged as pronouns (PRON): a, do, m, mo, mé, sa, so, som, sí, t, tú</li>
+<li>This corpus contains 11 lemmas tagged as pronouns (PRON): a, do, m, mo, mé, sa, so, som, sí, t_1, tú</li>
 </ul>
 
 <ul>
@@ -217,7 +217,7 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
   <li>Plur
     <ul>
       <li>ADJ: libardaib</li>
-      <li>ADP: dún, friu</li>
+      <li>ADP: dv́n, friu</li>
       <li>DET: inna, naib</li>
       <li>NOUN: bachal, comroicniu, dindgnaib, doss, déainmmnichdechaib, fidbaidae, grec, laitnori, ṅén, ṡianach</li>
       <li>PRON: a</li>
@@ -235,7 +235,7 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
       <li>DET: in, a, ind, cach, inna, inḍt, na, nd, sin, ᚔᚅ</li>
       <li>NOUN: ᚉᚑᚉᚐᚏᚈ, dia, dias, ingen, ainm, airdircus, aite, aithne, anmmain, bendacht</li>
       <li>PRON: m, a, mo, do, mei, mm, siu, som, sse, sv</li>
-      <li>PROPN: brigtae, choirbbre, dongus, donngus, ferguso, finguine, lothlind, maddoc, mail, máel</li>
+      <li>PROPN: brigtae, choirbbre, dongus, donngvs, ferguso, finguine, lothlind, maddoc, mail, máel</li>
       <li>SCONJ: nach</li>
       <li>VERB: chain, Gaib, braigim, cél, cóima, epur, farcai, fuasna, giuil, llega</li>
     </ul>
@@ -285,7 +285,7 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
       <li>ADJ: gann, acher, bec, cáin, dorchæ, línech, mall, mar, mass, mmall</li>
       <li>DET: in, a, ind, inḍt, ᚔᚅ</li>
       <li>NOUN: ᚉᚑᚉᚐᚏᚈ, dias, ainm, airdircus, aite, aithne, bendacht, bruach, cenéle, chliab</li>
-      <li>PROPN: choirbbre, dongus, donngus, finguine, ruadri</li>
+      <li>PROPN: choirbbre, dongus, donngvs, finguine, ruadri</li>
     </ul>
   </li>
 </ul>
@@ -500,7 +500,7 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
 <ul>
   <li>Prs
     <ul>
-      <li>ADP: dom, and, dait, de, dún, foir, frimm, friu, lat, oco</li>
+      <li>ADP: dom, and, dait, de, dv́n, foir, frimm, friu, lat, oco</li>
       <li>PRON: a, m, mo, do, mei, mm, sí, t, thv, ᚐ</li>
       <li>SCONJ: nach</li>
     </ul>
@@ -555,7 +555,7 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
 <ul>
   <li>1
     <ul>
-      <li>ADP: dom, dún, frimm</li>
+      <li>ADP: dom, dv́n, frimm</li>
       <li>PRON: m, mo, mei, mm, sse</li>
       <li>VERB: braigim, cél, epur, samlar, scríbaimm, tiach, ágor</li>
     </ul>
@@ -619,11 +619,13 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
     <ul>
       <li>Yes
         <ul>
-          <li>ADV: amen</li>
-          <li>CCONJ: et</li>
-          <li>NOUN: femininum, ᚃᚓᚏᚔᚐ, ᚆᚑᚇᚔᚓ, accentus</li>
+          <li>ADJ: displosa</li>
+          <li>ADV: amen, nam, quantum</li>
+          <li>CCONJ: et, ⁊</li>
+          <li>NOUN: animalis, femininum, nomen, pedo, sona, vesíca, ᚃᚓᚏᚔᚐ, ᚆᚑᚇᚔᚓ, accentus</li>
+          <li>PROPN: isidorus</li>
           <li>SCONJ: ut</li>
-          <li>VERB: adest</li>
+          <li>VERB: adest, dicit, fit, pepedi</li>
           <li>X: .c, .d.</li>
         </ul>
       </li>
@@ -686,11 +688,6 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
           <li>PRON: m, mm, t</li>
         </ul>
       </li>
-      <li>Neg
-        <ul>
-          <li>SCONJ: nach</li>
-        </ul>
-      </li>
     </ul>
   </li>
 </ul>
@@ -714,6 +711,7 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
       <li>Cop
         <ul>
           <li>AUX: is, d, ní, bid, bith, mba</li>
+          <li>SCONJ: nach</li>
         </ul>
       </li>
     </ul>
@@ -738,6 +736,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
+      <li>VERB--NOUN (2)</li>
       <li>VERB--NOUN-Nom (9)</li>
     </ul>
   </li>
@@ -746,6 +745,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
+      <li>VERB--NOUN (1)</li>
       <li>VERB--NOUN-Acc (5)</li>
       <li>VERB--NOUN-Nom (3)</li>
     </ul>

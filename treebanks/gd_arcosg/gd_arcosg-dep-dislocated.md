@@ -27,8 +27,8 @@ The following 11 pairs of parts of speech are connected with `dislocated`: <tt><
 3	,	,	PUNCT	Fi	_	1	punct	_	_
 4	carson	carson	PRON	Uq	PronType=Int	0	root	_	_
 5	a	a	PART	Q-r	PartType=Vb|PronType=Rel	6	advmod	_	_
-6	bha	bi	VERB	V-s	Tense=Past	4	acl:relcl	_	_
-7	i	i	PRON	Pp3sf	Gender=Fem|Number=Sing|Person=3	6	nsubj	_	_
+6	bha	bi	VERB	V-s	Mood=Ind|Tense=Past|VerbForm=Fin	4	acl:relcl	_	_
+7	i	i	PRON	Pp3sf	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 8	a'	ag	PART	Sa	_	9	case	_	_
 9	sreap	sreap	NOUN	Nv	VerbForm=Vnoun	6	xcomp:pred	_	_
 10	an	an	ADV	Rs	_	9	advmod	_	_
@@ -48,11 +48,11 @@ The following 11 pairs of parts of speech are connected with `dislocated`: <tt><
 1	[Name]	[Name]	PROPN	Nn	_	4	dislocated	_	Anonymised=Yes
 2	[Name]	[Name]	PROPN	Nn	_	1	flat:name	_	Anonymised=Yes
 3	a	a	PART	Q-r	PartType=Vb|PronType=Rel	4	nsubj	_	_
-4	thug	toir	VERB	V-s	Tense=Past	0	root	_	_
+4	thug	toir	VERB	V-s	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 5	an	an	DET	Tdsm	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	[?]	[?]	X	Xx	_	4	dep	_	_
 7	do	do	ADP	Sp	_	8	case	_	_
-8	i	i	PRON	Pp3sf	Gender=Fem|Number=Sing|Person=3	4	obl	_	_
+8	i	i	PRON	Pp3sf	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
 
 ~~~
 
@@ -67,7 +67,7 @@ The following 11 pairs of parts of speech are connected with `dislocated`: <tt><
 2	buille	buille	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 3	mhòr	mòr	ADJ	Aq-sfn	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
 4	le	le	ADP	Sp	_	5	case	_	_
-5	i	i	PRON	Pp3sf	Gender=Fem|Number=Sing|Person=3	2	xcomp:pred	_	_
+5	i	i	PRON	Pp3sf	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	xcomp:pred	_	_
 
 ~~~
 

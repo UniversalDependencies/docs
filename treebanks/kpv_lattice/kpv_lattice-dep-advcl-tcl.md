@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `advcl:tcl`: <tt><a 
 2	пу	пу	NOUN	N	Case=Nom|Number=Sing	4	obl:lmod	_	_
 3	улын	улын	ADP	Po	AdpType=Post|Case=Ine|Number=Sing	2	case	_	_
 4	сулавны	сулавны	VERB	V	VerbForm=Inf	0	root	_	_
-5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	4	aux:neg	_	_
+5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	4	aux	_	_
 6	позь	позьны	AUX	V	Connegative=Yes	4	aux:pot	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	4	punct	_	_
 
@@ -69,7 +69,7 @@ The following 3 pairs of parts of speech are connected with `advcl:tcl`: <tt><a 
 9	,	,	PUNCT	PUNCT	_	10	punct	_	_
 10	буракӧ	буракӧ	ADV	Adv	_	13	advmod:eval	_	GTtags=Parenthetic|SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	13	punct	_	_
-12	эз	оз	AUX	V	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past	13	aux:neg	_	GTtags=Neg,Ind,Prt1,Pl3
+12	эз	оз	AUX	V	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past	13	aux	_	GTtags=Neg,Ind,Prt1,Pl3
 13	виччысьны	виччысьны	VERB	V	Connegative=Yes|Number=Plur|Person=3	6	conj	_	GTtags=TV,ConNeg,Pl3|SpaceAfter=No
 14	,	,	PUNCT	PUNCT	_	17	punct	_	_
 15	мый	мый	SCONJ	CS	_	17	mark	_	_

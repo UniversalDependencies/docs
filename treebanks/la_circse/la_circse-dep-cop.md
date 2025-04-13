@@ -44,7 +44,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 3	sunt	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	LASLAVariant=1|LiLaflcat=v6
 4	spolia	spolium	NOUN	A2	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	1	nsubj	_	LiLaflcat=n2
 5	si	si	SCONJ	T	_	7	mark	_	LASLAVariant=2|LiLaflcat=i
-6	tantum	tantum	PRON	I	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing|PronType=Dem	7	obj	_	LASLAVariant=1|LiLaflcat=n6
+6	tantum	tantum	DET	I	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing|PronType=Dem	7	obj	_	LASLAVariant=1|LiLaflcat=n6
 7	refers	refero	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	LiLaflcat=v6
 8	quantum	quantum	DET	J	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumType=Card|PronType=Rel	9	det	_	LASLAVariant=1|LiLaflcat=n6
 9	imperatum	impero	VERB	Y1	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	7	advcl:cmp	_	LiLaflcat=v1

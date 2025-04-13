@@ -68,8 +68,8 @@ The following 14 pairs of parts of speech are connected with `nsubj:outer`: <tt>
 # visual-style 10	fgColor:white
 # visual-style 10 1 nsubj:outer	color:blue
 1	סיכום	סיכום	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	10	nsubj:outer	_	_
-2	בנק	בנק	PROPN	PROPN	Definite=Cons	1	compound	_	_
-3	ישראל	ישראל	PROPN	PROPN	_	2	compound	_	_
+2	בנק	בנק	PROPN	PROPN	Definite=Cons	1	compound	_	Entity=(ORG
+3	ישראל	ישראל	PROPN	PROPN	_	2	compound	_	Entity=(GPE)ORG)
 4	היה	היה	AUX	AUX	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	10	cop	_	_
 5	ש	ש	SCONJ	SCONJ	_	10	mark	_	_
 6	ה	ה	DET	DET	Definite=Def|PronType=Art	7	det	_	_

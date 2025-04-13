@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `case`: <tt><a href=
 2	apaka	apaka	ADV	Adv	_	3	advmod	_	gloss[pt]=também
 3	amutary	amutary	VERB	XPOS=3SG.M-comprar	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	0	root	_	gloss[pt]=3SG.M-comprar-3SG.M.O
 4	tirikapi	tirikapi	NOUN	XPOS=lamparina	_	3	obj	_	gloss[pt]=lamparina
-5	aapuku	awapukutxi	NOUN	XPOS=3SG.M-casa.de	_	3	obl	_	gloss[pt]=3SG.M-casa.de
+5	aapuku	awapukutxi	NOUN	XPOS=3SG.M-casa.de	Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Possessed=Yes	3	obl	_	gloss[pt]=3SG.M-casa.de
 6	ĩkapanhi	ĩkapanhi	ADP	Po	_	5	case	_	gloss[pt]=com.o.proósito.de|SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	_	_
 

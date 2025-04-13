@@ -32,7 +32,7 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 7	$	$	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
 8	por	por	ADP	IN	_	9	case	_	_
 9	persona	persona	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	4	punct	_	_
+10	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 ~~~
 
@@ -50,16 +50,16 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 5	más	más	ADV	RBR	Degree=Cmp	6	advmod	_	_
 6	exitosa	exitoso	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	_
 7	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
-8	"	"	PUNCT	``	_	10	punct	_	SpaceAfter=No
+8	"	"	PUNCT	``	PunctType=Quot	10	punct	_	SpaceAfter=No
 9	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Proper=True
 10	Greco	Greco	PROPN	NNP	Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
-11	"	"	PUNCT	''	_	10	punct	_	SpaceAfter=No
-12	,	,	PUNCT	,	_	13	punct	_	_
+11	"	"	PUNCT	''	PunctType=Quot	10	punct	_	SpaceAfter=No
+12	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
 13	dirigida	dirigir	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	_
 14	por	por	ADP	IN	_	15	case	_	_
 15	Yannis	Yannis	PROPN	NNP	Gender=Masc|Number=Sing	13	obl:agent	_	_
 16	Smaragdis	Smaragdis	PROPN	NNP	Gender=Masc|Number=Sing	15	flat:name	_	SpaceAfter=No
-17	.	.	PUNCT	.	_	4	punct	_	_
+17	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 ~~~
 
@@ -81,7 +81,7 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 9	juntos	junto	ADJ	JJ	Gender=Masc|Number=Plur	11	acl	_	_
 10	ambos	ambo	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Tot	11	det	_	_
 11	dramaturgos	dramaturgo	NOUN	NN	Gender=Masc|Number=Plur	8	nsubj	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	3	punct	_	_
+12	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~
 

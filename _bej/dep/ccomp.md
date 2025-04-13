@@ -12,4 +12,4 @@ afirej / ti- weːr =heːb iraːnaj uː= tak ʔaraːw =i aka -jeː hoːj giːg -i
 text_en: You told me: "You did me wrong, gosh! you made the man who is my friend leave for good!"
 acl(giːg, aka) ("leave", "become")
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:50 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:33 CET -->

@@ -12,17 +12,17 @@ It occurs with 2 different values: `Act`, `Pass`.
 37297 tokens (23%) have a non-empty value of `Voice`.
 10743 types (25%) occur at least once with a non-empty value of `Voice`.
 2544 lemmas (12%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (26893; 17% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (10404; 7% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (26891; 17% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (10406; 7% instances).
 
 ### `VERB`
 
-26893 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Voice`.
+26891 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (22307; 83%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (21773; 81%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17187; 64%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (17162; 64%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15773; 59%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (15279; 57%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (22305; 83%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (21771; 81%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17185; 64%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (17160; 64%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15771; 59%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (15277; 57%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (23660; 88% of non-empty `Voice`): <em>on, oli, ole, tulee, tuli, olla, ollut, saa, ei, sanoi</em>
+* `Act` (23658; 88% of non-empty `Voice`): <em>on, oli, ole, tulee, tuli, olla, ollut, saa, ei, sanoi</em>
 * `Pass` (3233; 12% of non-empty `Voice`): <em>tehty, tehdään, tarvitaan, saadaan, ollaan, mennään, otetaan, verrattuna, tehtiin, pidetään</em>
 * `EMPTY` (303): <em>sietämätön, aiheuttama, aiheuttamaa, aiheuttamasta, uskomaton, aiheuttamia, edellyttämällä, jalostama, johtama, järjestämiämme</em>
 
@@ -160,13 +160,13 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-10404 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
+10406 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9960; 96%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8276; 80%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (7640; 73%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (7496; 72%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6308; 61%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9962; 96%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8278; 80%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (7642; 73%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (7498; 72%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6310; 61%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (10239; 98% of non-empty `Voice`): <em>on, ei, oli, ovat, en, ole, voi, olisi, olen, eivät</em>
+* `Act` (10241; 98% of non-empty `Voice`): <em>on, ei, oli, ovat, en, ole, voi, olisi, olen, eivät</em>
 * `Pass` (165; 2% of non-empty `Voice`): <em>ollaan, voidaan, voitu, oltiin, olla, oltu, voida, voitaisiin, oltava, ollaanpas</em>
 
 <table>

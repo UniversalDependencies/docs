@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (76; 100% of non-empty `Reflex`): <em>sua, suis, suos, suo, suas, sui, suum, suae, suam, suorum</em>
-* `EMPTY` (989): <em>hoc, haec, ille, ipse, hic, quicquid, omnis, nulla, omne, ipsa</em>
+* `EMPTY` (990): <em>hoc, haec, ille, ipse, hic, quicquid, omnis, nulla, omne, ipsa</em>
 
 ### `PRON`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (46; 100% of non-empty `Reflex`): <em>se, sui, sibi, sese</em>
-* `EMPTY` (668): <em>quae, te, qui, quod, me, quid, tibi, mihi, tu, quis</em>
+* `EMPTY` (667): <em>quae, te, qui, quod, me, quid, tibi, mihi, tu, quis</em>
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ha_northernautogramm-dep-acl.html">acl</a></tt>.
 
-46 nodes (1%) are attached to their parents as `acl:relcl`.
+50 nodes (1%) are attached to their parents as `acl:relcl`.
 
-46 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.45652173913043.
+50 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.62.
 
-The following 11 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (10; 22% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (9; 20% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (8; 17% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (7; 15% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (4; 9% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 14 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (12; 24% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (11; 22% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (8; 16% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (7; 14% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (3; 6% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -42,14 +42,14 @@ The following 11 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 1	fgColor:white
 # visual-style 1 3 acl:relcl	color:blue
 1	wàdà	wàdà	ADV	_	PronType=Rel	8	advmod	_	AlignBegin=11360|AlignEnd=11591|Gloss=how
-2	ankà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Person=4	3	aux	_	AlignBegin=11591|AlignEnd=11822|Background=Yes|Gloss=4.Perf.Bkg
+2	ankà	_	AUX	yaC	Aspect=Perf|Person=4	3	aux	_	AlignBegin=11591|AlignEnd=11822|Background=Yes|Gloss=4.Perf.Bkg
 3	yi	yi	VERB	_	_	1	acl:relcl	_	AlignBegin=11591|AlignEnd=11822|Gloss=do
 4	dâː	dâː	ADV	_	_	3	advmod	_	AlignBegin=11822|AlignEnd=12053|Gloss=formerly
 5	<	<	PUNCT	_	_	1	punct	_	AlignBegin=12053|AlignEnd=12284|Gloss=PUNCT
 6	Galmaːwaː	Galmaːwaː	PROPN	_	_	8	dislocated	_	AlignBegin=12284|AlignEnd=12515|Gloss=Galmaːwaː
 7	<	<	PUNCT	_	_	6	punct	_	AlignBegin=12515|AlignEnd=12746|Gloss=PUNCT
 8	Bàːgai	Bàːgai	PROPN	_	_	0	root	_	AlignBegin=12746|AlignEnd=12977|Gloss=Bàːgai
-9	takè	_	AUX	kè	Aspect=ProgLocBkg|Gender=Fem	8	advcl:cleft	_	AlignBegin=13208|AlignEnd=13439|Background=Yes|Gloss=3Fem.Pred/Loc.Bkg|wordform=kè
+9	takè	_	AUX	kè	Gender=Fem	8	advcl:cleft	_	AlignBegin=13208|AlignEnd=13439|Background=Yes|Gloss=3Fem.Loc.Bkg|wordform=kè
 10	bìye	bi	VERB	_	ExtPos=ADV|VerbForm=Part|Voice=Stat	9	obl:arg	_	AlignBegin=13439|AlignEnd=13670|Gloss=follow.Part.Stat
 11	//	//	PUNCT	_	_	8	punct	_	AlignBegin=13670|AlignEnd=13900|Gloss=PUNCT
 
@@ -57,25 +57,19 @@ The following 11 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 acl:relcl	color:blue
-1	X	X	X	_	_	13	dep	_	AlignBegin=106671|AlignEnd=125068|Gloss=X|Scrap=Yes|wordform=XX
-2	nan	nan	ADV	_	Definite=Def	13	advmod	_	AlignBegin=125500|AlignEnd=125801|Gloss=Def
-3	Galmaːwaː	Galmaːwaː	PROPN	_	_	2	appos	_	AlignBegin=125801|AlignEnd=126102|Gloss=Galmaːwaː
-4	<	<	PUNCT	_	_	2	punct	_	AlignBegin=126102|AlignEnd=126403|Gloss=PUNCT
-5	àbin	àbiː	NOUN	_	Definite=Cons|Gender=Masc	13	obl	_	AlignBegin=126403|AlignEnd=126704|Gloss=thing.Masc.Cons
-6	dà	dà	SCONJ	_	_	7	mark	_	AlignBegin=126704|AlignEnd=127005|Gloss=REL
-7	an	kèːnan/aC	PART	_	_	5	acl:relcl	_	AlignBegin=127005|AlignEnd=127306|Background=Yes|Gloss=Ident/Foc.Bkg
-8	nan	nan	ADV	_	Definite=Def	7	xcomp	_	AlignBegin=127306|AlignEnd=127607|Gloss=Def
-9	<	<	PUNCT	_	_	7	punct	_	AlignBegin=127607|AlignEnd=127908|Gloss=PUNCT
-10	duy	dukà	DET	_	PronType=Tot	11	det	_	AlignBegin=127908|AlignEnd=128209|Gloss=all
-11	yawanciː	yawanciː	NOUN	_	_	13	nsubj	_	AlignBegin=128209|AlignEnd=128510|Gloss=majority
-12	Baːgayaːwaː	Baːgayaːwaː	PROPN	_	Number=Plur	13	xcomp	_	AlignBegin=128510|AlignEnd=128811|Gloss=Baːgayaːwaː
-13	nàː	neː/naː	PART	_	_	0	root	_	AlignBegin=128811|AlignEnd=129112|Gloss=Pred/Loc
-14	//	//	PUNCT	_	_	13	punct	_	AlignBegin=129112|AlignEnd=129410|Gloss=PUNCT
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 acl:relcl	color:blue
+1	àbin	àbiː	NOUN	_	Definite=Cons|Gender=Masc	0	root	_	AlignBegin=144705|AlignEnd=144868|Gloss=thing.Masc.Cons
+2	dà	dà	SCONJ	_	_	4	mark	_	AlignBegin=144868|AlignEnd=145031|Gloss=REL
+3	ab	_	AUX	aC	_	4	cop	_	AlignBegin=145031|AlignEnd=145194|Background=Yes|Gloss=Ident/Foc.Bkg
+4	bambanciyas	bambanciyaː	NOUN	_	Definite=Cons|Gender=Fem	1	acl:relcl	_	AlignBegin=145194|AlignEnd=145357|Gloss=difference.Fem.Cons
+5	=sù	=su	PRON	_	Number=Plur|Person=3|PronType=Prs	4	nmod	_	AlignBegin=145194|AlignEnd=145357|Gloss=3Plur.Gen
+6	dà	dà	ADP	_	_	7	case	_	AlignBegin=145357|AlignEnd=145520|Gloss=with
+7	Hausaːwaː	Hausa	PROPN	_	Number=Plur	4	obl:arg	_	AlignBegin=145520|AlignEnd=145683|Gloss=Hausa.Plur
+8	?//	?//	PUNCT	_	_	1	punct	_	AlignBegin=145683|AlignEnd=145843|Gloss=PUNCT
 
 ~~~
 

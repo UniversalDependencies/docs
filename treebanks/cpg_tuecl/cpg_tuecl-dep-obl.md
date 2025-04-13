@@ -22,18 +22,18 @@ The following 12 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 4 obl	color:blue
-1	Σα	σε	ADP	ADP	_	4	case	4:case	_
-2	μπρο	μπρο	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing|NumType=Ord	4	amod	4:amod	_
-3	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	_
-4	ταρό	ταρός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	10	obl	10:obl	SpaceAfter=No
-5	,	,	PUNCT	PUNCT	_	4	punct	4:punct	_
-6	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	7:det	_
-7	ρουσού	ρουσί	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	9	nmod	9:nmod	_
-8	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	9:det	_
-9	τζναβάρα	jαναβάρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	10	nsubj	10:nsubj	_
-10	νανόστανε	νανούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
-11	κι	κι	SCONJ	SCONJ	_	10	mark	10:mark	SpaceAfter=No
-12	:	:	PUNCT	PUNCT	_	10	punct	10:punct	_
+1	Σα	σε	ADP	ADP	_	4	case	_	_
+2	μπρο	μπρο	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	_
+3	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	ταρό	ταρός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	4	punct	_	_
+6	του	το	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
+7	ρουσού	ρουσί	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+8	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	_	_
+9	τζναβάρα	jαναβάρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	10	nsubj	_	_
+10	νανόστανε	νανούμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+11	κι	κι	SCONJ	SCONJ	_	10	mark	_	SpaceAfter=No
+12	:	:	PUNCT	PUNCT	_	10	punct	_	_
 
 ~~~
 
@@ -44,16 +44,16 @@ The following 12 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 obl	color:blue
-1	Είπαν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	dι	di	SCONJ	SCONJ	_	1	mark	1:mark	_
-3	κι	κι	SCONJ	SCONJ	_	1	mark	1:mark	_
-4	πενεντάβου	πενενdάβου	ADP	ADP	_	5	case	5:case	_
-5	τουνε	το	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur|PronType=Prs	1	obl	1:obl	_
-6	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	7:det	_
-7	δρα	δρό	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	9	amod	9:amod	_
-8	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	9:det	_
-9	τζαναβάρα	jαναβάρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	1:nsubj	SpaceAfter=No
-10	:	:	PUNCT	PUNCT	_	1	punct	1:punct	_
+1	Είπαν	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	dι	di	SCONJ	SCONJ	_	1	mark	_	_
+3	κι	κι	SCONJ	SCONJ	_	1	mark	_	_
+4	πενεντάβου	πενενdάβου	ADP	ADP	_	5	case	_	_
+5	τουνε	το	PRON	PRON	Case=Gen|Gender=Neut|Number=Plur|PronType=Prs	1	obl	_	_
+6	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	_	_
+7	δρα	δρό	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	9	amod	_	_
+8	τα	το	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	_	_
+9	τζαναβάρα	jαναβάρι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	SpaceAfter=No
+10	:	:	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 
@@ -64,19 +64,19 @@ The following 12 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 obl	color:blue
-1	Σ	σε	ADP	ADP	_	5	case	5:case	_
-2	ον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	3:det	_
-3	παλό	παλαιός	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	5	amod	5:amod	_
-4	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	_
-5	ταρό	ταρός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	8	obl	8:obl	_
-6	ήτουν	είμαι	AUX	AUX	_	8	cop	8:cop	_
-7	α	α	NUM	NUM	Case=Nom|Gender=Masc|Number=Sing	8	nummod	8:nummod	_
-8	βασιλός	βασιλιάς	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
-9	τζ΄	jαι	CCONJ	CCONJ	_	12	cc	12:cc	_
-10	είσεν	είμαι	AUX	AUX	_	12	cop	12:cop	_
-11	τρία	τρείς	NUM	NUM	Case=Nom|Gender=Masc|Number=Plur	12	nummod	12:nummod	_
-12	γιοί	γιός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	8	conj	8:conj	SpaceAfter=No
-13	.	.	PUNCT	PUNCT	_	8	punct	8:punct	_
+1	Σ	σε	ADP	ADP	_	5	case	_	_
+2	ον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	παλό	παλαιός	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	5	amod	_	_
+4	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	ταρό	ταρός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
+6	ήτουν	είμαι	AUX	AUX	_	8	cop	_	_
+7	α	α	NUM	NUM	Case=Nom|Gender=Masc|Number=Sing	8	nummod	_	_
+8	βασιλός	βασιλιάς	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+9	τζ΄	jαι	CCONJ	CCONJ	_	12	cc	_	_
+10	είσεν	είμαι	AUX	AUX	_	12	cop	_	_
+11	τρία	τρείς	NUM	NUM	Case=Nom|Gender=Masc|Number=Plur	12	nummod	_	_
+12	γιοί	γιός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	8	conj	_	SpaceAfter=No
+13	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 ~~~
 

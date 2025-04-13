@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>le</em> (<tt><a href="fr_pud-pos-DET.
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 3.250000 (the average of all parts of speech is 1.299853).
+The form / lemma ratio of `DET` is 3.250000 (the average of all parts of speech is 1.300126).
 
 The 1st highest number of forms (13) was observed with the lemma “son”: <em>leur, leurs, ma, mes, mon, nos, notre, sa, sar, ses, son, vos, votre</em>.
 
@@ -61,9 +61,9 @@ The 2nd highest number of forms (6) was observed with the lemma “le”: <em>l'
 
 The 3rd highest number of forms (6) was observed with the lemma “un”: <em>d', de, des, e, un, une</em>.
 
-`DET` occurs with 10 features: <tt><a href="fr_pud-feat-Number.html">Number</a></tt> (3875; 100% instances), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt> (3873; 100% instances), <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt> (3737; 96% instances), <tt><a href="fr_pud-feat-Definite.html">Definite</a></tt> (3452; 89% instances), <tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt> (275; 7% instances), <tt><a href="fr_pud-feat-Person.html">Person</a></tt> (275; 7% instances), <tt><a href="fr_pud-feat-Person-psor.html">Person[psor]</a></tt> (275; 7% instances), <tt><a href="fr_pud-feat-Poss.html">Poss</a></tt> (275; 7% instances), <tt><a href="fr_pud-feat-Polarity.html">Polarity</a></tt> (8; 0% instances), <tt><a href="fr_pud-feat-Typo.html">Typo</a></tt> (2; 0% instances)
+`DET` occurs with 9 features: <tt><a href="fr_pud-feat-Number.html">Number</a></tt> (3875; 100% instances), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt> (3873; 100% instances), <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt> (3737; 96% instances), <tt><a href="fr_pud-feat-Definite.html">Definite</a></tt> (3452; 89% instances), <tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt> (275; 7% instances), <tt><a href="fr_pud-feat-Person.html">Person</a></tt> (275; 7% instances), <tt><a href="fr_pud-feat-Person-psor.html">Person[psor]</a></tt> (275; 7% instances), <tt><a href="fr_pud-feat-Poss.html">Poss</a></tt> (275; 7% instances), <tt><a href="fr_pud-feat-Typo.html">Typo</a></tt> (2; 0% instances)
 
-`DET` occurs with 21 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Polarity=Neg`, `Poss=Yes`, `PronType=Art`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `Typo=Yes`
+`DET` occurs with 20 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Poss=Yes`, `PronType=Art`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `Typo=Yes`
 
 `DET` occurs with 38 feature combinations.
 The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (1045 tokens).

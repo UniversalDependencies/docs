@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="it_old-dep-aux.html">aux</a></tt>.
 
-276 nodes (0%) are attached to their parents as `aux:pass`.
+443 nodes (0%) are attached to their parents as `aux:pass`.
 
-246 instances of `aux:pass` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.7463768115942.
+389 instances of `aux:pass` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.73814898419865.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (275; 100% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (440; 99% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,6 +38,59 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 14	dica	dire	VERB	vta3cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	Canto=33|SpaceAfter=No|Verso=119
 15	»	»	PUNCT	_	_	9	punct	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	9	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 26	bgColor:blue
+# visual-style 26	fgColor:white
+# visual-style 28	bgColor:blue
+# visual-style 28	fgColor:white
+# visual-style 28 26 aux:pass	color:blue
+1	Quale	quale	PRON	pt2ms	Gender=Masc|Number=Sing|PronType=Int	2	nsubj	_	_
+2	savesse	sapere	VERB	vta2cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	23	csubj	_	Canto=21|Verso=19
+3	qual	quale	PRON	pt2fs	Gender=Fem|Number=Sing|PronType=Int	6	nsubj	_	Canto=21|Verso=19
+4	era	essere	AUX	vi4iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	Canto=21|Verso=19
+5	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Canto=21|Verso=19
+6	pastura	pastura	NOUN	sf1fs	Gender=Fem|Number=Sing	2	ccomp	_	Canto=21|Verso=19
+7	di	di	ADP	_	_	9	case	_	_
+8	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	viso	viso	NOUN	sm2ms	Gender=Masc|Number=Sing	6	nmod	_	Canto=21|Verso=20
+10	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	Canto=21|Verso=20
+11	ne	in	ADP	epakr	_	13	case	_	Canto=21|Verso=20
+12	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Canto=21|Verso=20
+13	aspetto	aspetto	NOUN	sm2ms	Gender=Masc|Number=Sing	6	obl:lmod	_	Canto=21|Verso=20
+14	beato	beato	ADJ	a1ms	Gender=Masc|Number=Sing	13	amod	_	Canto=21|Verso=20
+15	quand'	quando	SCONJ	csst	_	18	mark	_	Canto=21|Verso=21
+16	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	18	nsubj	_	Canto=21|Verso=21
+17	mi	mi	PRON	pf1sypr	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	18	obj	_	Canto=21|Verso=21
+18	trasmutai	trasmutare	VERB	vta+1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	Canto=21|Verso=21
+19	ad	a	ADP	epskml	_	21	case	_	Canto=21|Verso=21
+20	altra	altro	DET	ai	PronType=Ind	21	det	_	Canto=21|Verso=21
+21	cura	cura	NOUN	sf1fs	Gender=Fem|Number=Sing	18	obl:lmod	_	Canto=21|Verso=21|SpaceAfter=No
+22	,	,	PUNCT	_	_	2	punct	_	_
+23	conoscerebbe	conoscere	VERB	vta2dps3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Canto=21|Verso=22
+24	quanto	quanto	ADV	b	_	28	mark	_	Canto=21|Verso=22
+25	m'	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	28	iobj	_	Canto=21|Verso=22
+26	era	essere	AUX	vi*4iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	aux:pass	_	Canto=21|Verso=22
+27	a	a	ADP	_	_	28	case	_	_
+28	grato	grato	ADJ	_	Gender=Masc|Number=Sing	23	ccomp	_	_
+29	ubidire	ubbidire	VERB	vi3fp	Tense=Pres|VerbForm=Inf	28	csubj	_	Canto=21|Verso=23
+30	a	a	ADP	eps	_	34	case	_	Canto=21|Verso=23
+31	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	Canto=21|Verso=23
+32	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	34	det:poss	_	Canto=21|Verso=23
+33	celeste	celeste	ADJ	a2fs	Gender=Fem|Number=Sing	34	amod	_	Canto=21|Verso=23
+34	scorta	scorta	NOUN	sf1fs	Gender=Fem|Number=Sing	29	obl	_	Canto=21|Verso=23|SpaceAfter=No
+35	,	,	PUNCT	_	_	36	punct	_	_
+36	contrapesando	contrappesare	VERB	vta1gp	VerbForm=Conv|Voice=Act	28	advcl	_	Canto=21|Verso=24
+37	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	Canto=21|Verso=24
+38	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	36	obj	_	Canto=21|Verso=24
+39	con	con	ADP	epskw	_	42	case	_	Canto=21|Verso=24
+40	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	Canto=21|Verso=24
+41	altro	altro	DET	ai	PronType=Ind	42	det	_	Canto=21|Verso=24
+42	lato	lato	NOUN	sm2ms	Gender=Masc|Number=Sing	36	obl	_	Canto=21|Verso=24|SpaceAfter=No
+43	.	.	PUNCT	_	_	23	punct	_	_
 
 ~~~
 

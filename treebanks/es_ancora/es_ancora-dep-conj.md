@@ -72,7 +72,7 @@ The following 113 pairs of parts of speech are connected with `conj`: <tt><a hre
 10	,	,	PUNCT	fc	PunctType=Comm	11	punct	11:punct	_
 11	Mauro	Mauro	PROPN	np0000p	_	1	conj	1:conj	MWE=Mauro_Silva|MWEPOS=PROPN
 12	Silva	Silva	PROPN	_	_	11	flat	11:flat	SpaceAfter=No
-13	...	...	PUNCT	fs	PunctType=Comm	1	punct	1:punct	_
+13	...	...	PUNCT	fs	PunctType=Elip	1	punct	1:punct	_
 
 ~~~
 

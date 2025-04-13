@@ -12,4 +12,4 @@ Encodes whether the form has the -_mā_ clitic. In Old Babylonian this particle 
 #### Examples
 * _šarru<b>mā</b> ina ekalli_ “the _king_ (and not someone else) is in the palace”
 * _ana āli nillik<b>mā</b> mamma ul nīmur_ “We went to the city but we didn't see anyone”
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:02 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:46 CET -->

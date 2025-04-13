@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal but the values `Gnc` are language-specific.
 It occurs with 6 different values: `Dem`, `Gnc`, `Ind`, `Int`, `Prs`, `Tot`.
 
-38 tokens (2%) have a non-empty value of `PronType`.
+39 tokens (2%) have a non-empty value of `PronType`.
 26 types (6%) occur at least once with a non-empty value of `PronType`.
 19 lemmas (6%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (28; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (29; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-28 <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> tokens (38% of all `PRON` tokens) have a non-empty value of `PronType`.
+29 <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> tokens (39% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="xav_xdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (26; 93%), <tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (21; 75%), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (19; 68%), <tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (19; 68%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="xav_xdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (27; 93%), <tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (22; 76%), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (19; 66%), <tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (19; 66%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (2; 7% of non-empty `PronType`): <em>Ãhã, Ta</em>
 * `Gnc` (4; 14% of non-empty `PronType`): <em>dama, te, dawi</em>
-* `Ind` (3; 11% of non-empty `PronType`): <em>ni'wa, ni</em>
+* `Ind` (3; 10% of non-empty `PronType`): <em>ni'wa, ni</em>
 * `Int` (2; 7% of non-empty `PronType`): <em>'wa</em>
-* `Prs` (11; 39% of non-empty `PronType`): <em>õhã, Wahã, wa, Waãma, anorĩ, wate</em>
+* `Prs` (12; 41% of non-empty `PronType`): <em>õhã, wa, Wahã, Waãma, anorĩ, wate</em>
 * `Tot` (6; 21% of non-empty `PronType`): <em>aihini, uburé</em>
 * `EMPTY` (45): <em>wanorĩhã, aima, tãma, Taha, anorĩwa'wahã, wama, õnorĩhã, wasima, ĩma, ĩĩsima</em>
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 `NOUN` tokens may have the following values of `PronType`:
 
 * `Gnc` (9; 100% of non-empty `PronType`): <em>datsa, dawede, darob, Dazépuʔu, datõmo, dañi</em>
-* `EMPTY` (360): <em>marĩ, aibö, 'watébrémi, pi'õ, a'uwẽ, buru, wapté, ba'õtõ, bötö, Mare</em>
+* `EMPTY` (364): <em>marĩ, aibö, 'watébrémi, pi'õ, a'uwẽ, buru, wapté, ba'õtõ, bötö, Mare</em>
 
 ### `VERB`
 
@@ -52,5 +52,5 @@ The most frequent other feature values with which `VERB` and `PronType` co-occur
 `VERB` tokens may have the following values of `PronType`:
 
 * `Gnc` (1; 100% of non-empty `PronType`): <em>dapãrĩ</em>
-* `EMPTY` (207): <em>romhuri, mo, wara, romhu, waihu'u, höimana, tsadanha, tineb, tinha, tiwĩ</em>
+* `EMPTY` (209): <em>romhuri, mo, wara, romhu, waihu'u, höimana, tsadanha, tineb, tinha, tiwĩ</em>
 

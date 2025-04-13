@@ -55,4 +55,4 @@ The future tense denotes actions that will happen after the current moment.
 
 * _Yo hablaré español._ "I will speak Spanish."
 * _Ellos leerán el libro._ "They will read the book."
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:24 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:07 CET -->

@@ -12,15 +12,15 @@ udver: '2'
 # UD English Pronouns
 
 Language: [English](/en/index.html) (code: `en`)<br/>
-Family: Indo-European, Germanic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.5 release.
 
 The following people have contributed to making this treebank part of UD: Robert Munro.
 
 Repository: [UD_English-Pronouns](https://github.com/UniversalDependencies/UD_English-Pronouns)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pronouns214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pronouns215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

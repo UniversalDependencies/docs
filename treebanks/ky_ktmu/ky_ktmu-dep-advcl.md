@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-217 nodes (3%) are attached to their parents as `advcl`.
+515 nodes (2%) are attached to their parents as `advcl`.
 
-214 instances of `advcl` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.51152073732719.
+512 instances of `advcl` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25242718446602.
 
-The following 6 pairs of parts of speech are connected with `advcl`: <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (168; 77% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (37; 17% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (2; 1% instances).
+The following 7 pairs of parts of speech are connected with `advcl`: <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (442; 86% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (56; 11% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -46,26 +46,26 @@ The following 6 pairs of parts of speech are connected with `advcl`: <tt><a href
 4	заводду	завод	NOUN	NN	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	obj	_	_
 5	жандандыруу	жандандыр	VERB	VB	Polarity=Pos|Tense=Pres|VerbForm=Vnoun	6	advcl	_	_
 6	зарылдыгы	зарыл	NOUN	NN	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	csubj	_	_
-7	айтылды	айтыл	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+7	айтылды	айт	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	PCT	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 advcl	color:blue
-1	Ысык-Көлдө	Ысык-Көл	PROPN	PROP	Case=Loc|Number=Sing|Person=3	8	obl	_	_
-2	кытай	кытай	NOUN	NN	Case=Nom|Number=Sing|Person=3	3	nmod	_	_
-3	жараны	жаран	NOUN	NN	Case=Acc|Number=Sing|Person=3	8	nsubj	_	_
-4	26	26	NUM	NUM	NumType=Card	5	nummod	_	_
-5	күндөн	күн	NOUN	NN	Case=Abl|Number=Sing|Person[psor]=2	8	obl	_	_
-6	бери	бери	ADV	ADV	_	5	advmod	_	_
-7	дайынсыз	дайын	NOUN	NN	Case=Nom|Number=Sing|Person=3|Polarity=Neg	8	advcl	_	_
-8	болууда	бол	VERB	VB	Aspect=Prog|Case=Loc|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No
+# visual-style 7 6 advcl	color:blue
+1	Жээктен	Жээк	NOUN	NN	Case=Abl|Number=Sing|Person=3	8	obl	_	_
+2	алысыраак	алысыраак	ADJ	ADJ	_	1	amod	_	SpaceAfter=No
+3	,	,	PUNCT	PCT	_	2	punct	_	_
+4	шамалдын	шамал	NOUN	NN	Case=Gen|Number=Sing|Person[psor]=3	5	nmod	_	_
+5	багыты	багыт	NOUN	NN	Case=Acc|Number=Sing|Person=3	6	nmod	_	_
+6	өзгөргөндө	өзгөр	VERB	VB	Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Conv	7	advcl	_	_
+7	кайта	кайта	ADJ	ADJ	Case=Nom|Number=Sing	8	amod	_	_
+8	келем	кел	VERB	VB	Aspect=Perf|Mood=Ind|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	PCT	_	8	punct	_	_
 
 ~~~

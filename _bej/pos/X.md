@@ -16,4 +16,4 @@ Particular uses of the `X` tag are false starts characteristic of oral speech, s
 
 - _a- skʷi <b>-i</b> a- gʷoːj =t // hoːj ɖaːb -ja <b>-i</b> iː- ha //_ I chased him, and I could not (catch up with him), and  he run away from there. (linker)
 - _<b>kaː#</b> oːn oːn dammʔarawoː ikamiheːda /_ he puts his gold on his camels and his donkey and he brings it  back, they said. (False start) 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:43 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:28 CET -->

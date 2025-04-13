@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="is_modern-pos-PU
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.734760).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.738114).
 
 The 1st highest number of forms (2) was observed with the lemma “;”: <em>;, ”</em>.
 
@@ -46,7 +46,7 @@ Examples: <em>., ,, ?, :, „, “, ;, -, !, (</em>
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="is_modern-dep-punct.html">punct</a></tt> (6354; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (3022; 48% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (665; 10% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (569; 9% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (459; 7% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (426; 7% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (358; 6% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (262; 4% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (198; 3% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (168; 3% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (80; 1% instances), <tt><a href="is_modern-pos-INTJ.html">INTJ</a></tt> (70; 1% instances), <tt><a href="is_modern-pos-PUNCT.html">PUNCT</a></tt> (64; 1% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="is_modern-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (3021; 48% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (665; 10% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (569; 9% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (459; 7% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (426; 7% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (358; 6% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (262; 4% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (198; 3% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (168; 3% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (80; 1% instances), <tt><a href="is_modern-pos-INTJ.html">INTJ</a></tt> (70; 1% instances), <tt><a href="is_modern-pos-PUNCT.html">PUNCT</a></tt> (64; 1% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="is_modern-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 6290 (99%) `PUNCT` nodes are leaves.
 

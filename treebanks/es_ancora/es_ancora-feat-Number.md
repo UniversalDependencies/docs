@@ -43,7 +43,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (18075; 21% of non-empty `Number`): <em>los, las, sus, todos, otros, estos, unos, todas, estas, otras</em>
 * `Sing` (66279; 79% of non-empty `Number`): <em>el, la, un, una, su, este, esta, todo, esa, ese</em>
-* `EMPTY` (71): <em>qué, Al, A, Dios, sabe</em>
+* `EMPTY` (77): <em>qué, cada, Al, A, Dios, sabe</em>
 
 <table>
   <tr><th>Paradigm <i>el</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -177,7 +177,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 * `Plur` (2732; 95% of non-empty `Number`): <em>dos, tres, cinco, cuatro, seis, ambos, siete, diez, ocho, nueve</em>
 * `Sing` (129; 5% of non-empty `Number`): <em>medio, media, un, doble, triple, uno, cero, una, cuádruple</em>
-* `EMPTY` (6319): <em>ciento, 20, 30, 10, 15, 12, 2, 25, 50, 16</em>
+* `EMPTY` (6313): <em>ciento, 20, 30, 10, 15, 12, 2, 25, 50, 16</em>
 
 `Number` seems to be **lexical feature** of `NUM`. 100% lemmas (47) occur only with one value of `Number`.
 

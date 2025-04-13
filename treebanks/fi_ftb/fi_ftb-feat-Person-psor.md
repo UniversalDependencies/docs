@@ -14,13 +14,13 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 3477 tokens (2%) have a non-empty value of `Person[psor]`.
 2494 types (6%) occur at least once with a non-empty value of `Person[psor]`.
 1537 lemmas (7%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 10 part-of-speech tags: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (2129; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (495; 0% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (430; 0% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (270; 0% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (58; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (54; 0% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (2131; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (495; 0% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (428; 0% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (271; 0% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (58; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (54; 0% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-2129 <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> tokens (6% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+2131 <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> tokens (6% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1541; 72%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1542; 72%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
@@ -60,9 +60,9 @@ The most frequent other feature values with which `VERB` and `Person[psor]` co-o
 
 ### `ADV`
 
-430 <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `Person[psor]`.
+428 <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `ADV` and `Person[psor]` co-occurred: <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (430; 100%).
+The most frequent other feature values with which `ADV` and `Person[psor]` co-occurred: <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (428; 100%).
 
 `ADV` tokens may have the following values of `Person[psor]`:
 
@@ -76,9 +76,9 @@ The most frequent other feature values with which `ADV` and `Person[psor]` co-oc
 
 ### `PRON`
 
-270 <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
+271 <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (270; 100%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (221; 82%), <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (192; 71%).
+The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (271; 100%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (222; 82%), <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (193; 71%).
 
 `PRON` tokens may have the following values of `Person[psor]`:
 
@@ -179,9 +179,9 @@ The most frequent other feature values with which `AUX` and `Person[psor]` co-oc
 
 ### `DET`
 
-14 <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Person[psor]`.
+13 <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `DET` and `Person[psor]` co-occurred: <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Gen</tt> (13; 93%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 64%), <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt><tt>=Rcp</tt> (8; 57%).
+The most frequent other feature values with which `DET` and `Person[psor]` co-occurred: <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Gen</tt> (12; 92%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 62%), <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt><tt>=Rcp</tt> (8; 62%).
 
 `DET` tokens may have the following values of `Person[psor]`:
 

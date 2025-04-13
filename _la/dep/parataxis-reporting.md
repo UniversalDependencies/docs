@@ -16,4 +16,4 @@ parataxis:reporting(Perlege, deprecor)
 'Read, **I beg you**, the *Remedies against Fortune*, which are offered to us, as it were by a father to his sons, by that most famous philosopher Seneca; and especially let that saying not pass from your memory: "If ye were of the world, the world would love his own."' (`UDante Epi-33`, *Letters* III 8, Dante Alighieri)
 
 * here *deprecor* 'to beg' could be constructed with the rest of the sentence subordinated as e.g. an *accusativus cum infinitivo*: *deprecor te perlegere...*
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:45 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:26 CET -->

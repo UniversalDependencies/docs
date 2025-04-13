@@ -25,20 +25,20 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	יצירת	יצירה	NOUN	NOUN	Gender=Fem|Number=Sing	19	dislocated	_	_
 2	ה	הוא	PRON	PRON	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod:poss	_	_
 3	של	של	ADP	ADP	Case=Gen	4	case	_	_
-4	חנה	חנה	PROPN	PROPN	_	1	nmod:poss	_	_
+4	חנה	חנה	PROPN	PROPN	_	1	nmod:poss	_	Entity=(PER
 5	חר"ג	חר"ג	PROPN	PROPN	Abbr=Yes	4	flat	_	_
-6	צונץ	צונץ	PROPN	PROPN	_	4	flat	_	SpaceAfter=No
+6	צונץ	צונץ	PROPN	PROPN	_	4	flat	_	Entity=PER)|SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	9	punct	_	_
 8	ש	ש	SCONJ	SCONJ	_	9	mark	_	_
 9	הגיעה	הגיע	VERB	VERB	Gender=Fem|HebBinyan=HIFIL|Number=Sing|Person=3|Tense=Past|Voice=Act	4	acl:relcl	_	_
 10	ל	ל	ADP	ADP	_	11	case	_	_
 11	ארץ	ארץ	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	9	obl	_	_
-12	ישראל	ישראל	PROPN	PROPN	_	11	compound	_	_
+12	ישראל	ישראל	PROPN	PROPN	_	11	compound	_	Entity=(GPE)
 13	ב	ב	ADP	ADP	_	14	case	_	_
 14	ראשית	ראשית	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	9	obl	_	_
-15	שנות	שנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	14	compound	_	_
+15	שנות	שנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	14	compound	_	Entity=(TIMEX
 16	ה	ה	DET	DET	Definite=Def|PronType=Art	17	det	_	_
-17	ארבעים	ארבעים	NUM	NUM	Gender=Fem|NumType=Card	15	compound	_	_
+17	ארבעים	ארבעים	NUM	NUM	Gender=Fem|NumType=Card	15	compound	_	Entity=TIMEX)
 18	,	,	PUNCT	PUNCT	_	1	punct	_	_
 19	מהווה	היווה	VERB	VERB	Gender=Fem|HebBinyan=PIEL|Number=Sing|Person=3|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
 20	אף	אף	ADV	ADV	_	21	advmod	_	_
@@ -70,19 +70,19 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 5	הם	הוא	PRON	PRON	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	acl:relcl	_	_
 6	היה	היה	AUX	AUX	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=3|Polarity=Pos|Tense=Past	10	cop	_	_
 7	"	"	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
-8	ה	ה	DET	DET	Definite=Def|PronType=Art	9	det	_	_
+8	ה	ה	DET	DET	Definite=Def|PronType=Art	9	det	_	Entity=(WOA
 9	אהבה	אהבה	PROPN	PROPN	_	10	dislocated	_	_
 10	פנים	פנים	PROPN	PROPN	_	0	root	_	_
 11	רבות	רב	ADJ	ADJ	Gender=Fem|Number=Plur	10	amod	_	_
 12	ל	ל	ADP	ADP	_	13	case	_	_
-13	ה	הוא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	orphan	_	_
+13	ה	הוא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	orphan	_	Entity=WOA)
 14	"	"	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
 15	,	,	PUNCT	PUNCT	_	17	punct	_	_
 16	ש	ש	SCONJ	SCONJ	_	17	mark	_	_
 17	יצא	יצא	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=3|Tense=Past|Voice=Act	10	acl:relcl	_	_
 18	ב	ב	ADP	ADP	_	20	case	_	SpaceAfter=No
 19	-	-	PUNCT	PUNCT	_	18	punct	_	SpaceAfter=No
-20	1976	1976	NUM	NUM	_	17	obl	_	SpaceAfter=No
+20	1976	1976	NUM	NUM	_	17	obl	_	Entity=(TIMEX)|SpaceAfter=No
 21	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 ~~~
@@ -94,7 +94,7 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 dislocated	color:blue
-1	בטהובן	בטהובן	PROPN	PROPN	_	2	nsubj	_	_
+1	בטהובן	בטהובן	PROPN	PROPN	_	2	nsubj	_	Entity=(PER)
 2	ניצח	ניצח	VERB	VERB	Gender=Masc|HebBinyan=PIEL|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 3	על	על	ADP	ADP	_	5	case	_	_
 4	ה	ה	DET	DET	Definite=Def|PronType=Art	5	det	_	_

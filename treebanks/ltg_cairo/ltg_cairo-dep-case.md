@@ -8,29 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (3%) are attached to their parents as `case`.
+4 nodes (2%) are attached to their parents as `case`.
 
-3 instances of `case` (60%) are right-to-left (child precedes parent).
+2 instances of `case` (50%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 5 pairs of parts of speech are connected with `case`: <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ltg_cairo-pos-SCONJ.html">SCONJ</a></tt> (1; 20% instances), <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ltg_cairo-pos-ADP.html">ADP</a></tt> (1; 20% instances), <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt>-<tt><a href="ltg_cairo-pos-ADP.html">ADP</a></tt> (1; 20% instances), <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt>-<tt><a href="ltg_cairo-pos-ADV.html">ADV</a></tt> (1; 20% instances), <tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ltg_cairo-pos-ADP.html">ADP</a></tt> (1; 20% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 case	color:blue
-1	Muns	muns	DET	ps0msnn	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	2:det	LvtbNodeId=a-ltg-Cairo-p8s1w1
-2	tēte	tēte	NOUN	ncmsn5	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj|4:nsubj	LvtbNodeId=a-ltg-Cairo-p8s1w2
-3	ir	byut	VERB	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p8s1w3
-4	foršuoks	foršs	ADJ	afmsnnc	Case=Nom|Definite=Ind|Degree=Cmp|Gender=Masc|Number=Sing	3	xcomp	3:xcomp	LvtbNodeId=a-ltg-Cairo-p8s1w4
-5	nakai	nakai	SCONJ	cs	_	6	case	6:case	LvtbNodeId=a-ltg-Cairo-p8s1w5
-6	tovejais	tovejs	ADJ	armsnyp	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	3	obl	3:obl:nakai	LvtbNodeId=a-ltg-Cairo-p8s1w6|SpaceAfter=No
-7	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-ltg-Cairo-p8s1w7
-
-~~~
+The following 4 pairs of parts of speech are connected with `case`: <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ltg_cairo-pos-ADP.html">ADP</a></tt> (1; 25% instances), <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt>-<tt><a href="ltg_cairo-pos-ADP.html">ADP</a></tt> (1; 25% instances), <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt>-<tt><a href="ltg_cairo-pos-ADV.html">ADV</a></tt> (1; 25% instances), <tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ltg_cairo-pos-ADP.html">ADP</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
@@ -45,7 +28,7 @@ The following 5 pairs of parts of speech are connected with `case`: <tt><a href=
 4	motus	mots	NOUN	ncmpa1	Case=Acc|Gender=Masc|Number=Plur	3	obj	3:obj	LvtbNodeId=a-ltg-Cairo-p17s1w4|SpaceAfter=No
 5	,	,	PUNCT	zc	_	15	punct	15:punct	LvtbNodeId=a-ltg-Cairo-p17s1w5
 6	bet	bet	CCONJ	cc	_	15	cc	15:cc	LvtbNodeId=a-ltg-Cairo-p17s1w6
-7	koč	koč	PART	q	_	8	discourse	8:discourse	LvtbNodeId=a-ltg-Cairo-p17s1w7
+7	koč	koč	PART	q	_	8	advmod:emph	8:advmod:emph	LvtbNodeId=a-ltg-Cairo-p17s1w7
 8	kaida	kaids	DET	pi0msgn	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	9	det	9:det	LvtbNodeId=a-ltg-Cairo-p17s1w8
 9	īmesļa	īmeslis	NOUN	ncmsg2	Case=Gen|Gender=Masc|Number=Sing	15	obl	15:obl:deļ	LvtbNodeId=a-ltg-Cairo-p17s1w9
 10	deļ	deļ	ADP	stsg	_	9	case	9:case	LvtbNodeId=a-ltg-Cairo-p17s1w10
@@ -70,6 +53,29 @@ The following 5 pairs of parts of speech are connected with `case`: <tt><a href=
 3	tu	tu	PRON	pp20snn	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj	LvtbNodeId=a-ltg-Cairo-p13s1w3
 4	verīs	vērtīs	VERB	vmyipt12san	Evident=Fh|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p13s1w4|SpaceAfter=No
 5	?	?	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-ltg-Cairo-p13s1w5
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 case	color:blue
+1	Es	es	PRON	pp10snn	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|3:nsubj	LvtbNodeId=a-ltg-Cairo-p18s1w1
+2	navarieju	navarēt	VERB	vonisi31say	Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p18s1w2
+3	tikt	tikt	VERB	vmnn0i1000n	Polarity=Pos|VerbForm=Inf	2	xcomp	2:xcomp	LvtbNodeId=a-ltg-Cairo-p18s1w3
+4	jam	jis	PRON	pp3msdn	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	3:obl:leidza	LvtbNodeId=a-ltg-Cairo-p18s1w4
+5	leidza	leidza	ADV	r0y	_	4	case	4:case	LvtbNodeId=a-ltg-Cairo-p18s1w5|SpaceAfter=No
+6	,	,	PUNCT	zc	_	10	punct	10:punct	LvtbNodeId=a-ltg-Cairo-p18s1w6
+7	partū	partū	ADV	r0n	_	10	mark	10:mark	LvtbNodeId=a-ltg-Cairo-p18s1w7
+8	ka	ka	SCONJ	cs	_	7	fixed	7:fixed	LvtbNodeId=a-ltg-Cairo-p18s1w8
+9	jis	jis	PRON	pp3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	LvtbNodeId=a-ltg-Cairo-p18s1w9
+10	skrēja	skrīt	VERB	vmnist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	2:advcl	LvtbNodeId=a-ltg-Cairo-p18s1w10
+11	puoruok	puoruok	ADV	r0n	_	12	advmod	12:advmod	LvtbNodeId=a-ltg-Cairo-p18s1w11
+12	mudri	mudri	ADV	rpn	Degree=Pos	10	advmod	10:advmod	LvtbNodeId=a-ltg-Cairo-p18s1w12|SpaceAfter=No
+13	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-ltg-Cairo-p18s1w13
 
 ~~~
 

@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 315 tokens (1%) have a non-empty value of `Poss`.
 49 types (1%) occur at least once with a non-empty value of `Poss`.
-10 lemmas (0%) occur at least once with a non-empty value of `Poss`.
+8 lemmas (0%) occur at least once with a non-empty value of `Poss`.
 The feature is used with 2 part-of-speech tags: <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (309; 1% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (6; 0% instances).
 
 ### `DET`
@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (309; 100% of non-empty `Poss`): <em>myn, syn, syne, synen, ear, uw, dyn, myne, eare, dyne</em>
-* `EMPTY` (1896): <em>de, en, den, dat, et, dee, dem, der, ne, gyn</em>
+* `EMPTY` (1912): <em>de, en, den, dat, et, dee, dem, der, ne, alle</em>
 
 ### `PRON`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (6; 100% of non-empty `Poss`): <em>myn, dyn, höär, mynde</em>
-* `EMPTY` (2575): <em>ik, hee, see, et, dat, dee, my, wat, sik, wy</em>
+* `EMPTY` (2587): <em>ik, hee, see, et, dat, dee, my, wat, sik, wy</em>
 

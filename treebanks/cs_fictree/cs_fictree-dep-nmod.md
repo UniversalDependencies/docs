@@ -24,13 +24,13 @@ The following 26 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 3 6 nmod	color:blue
 1	Ale	ale	CCONJ	J^-------------	_	8	cc	8:cc	_
 2	tohle	tenhle	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	det	3:det	_
-3	setkání	setkání	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	8	nsubj	8:nsubj	_
+3	setkání	setkání	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	8:nsubj	_
 4	se	s	ADP	RV--7----------	AdpType=Voc|Case=Ins	6	case	6:case	_
 5	zachráněným	zachráněný	ADJ	AANS7----1A----	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	6	amod	6:amod	_
-6	kotětem	kotě	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	3	nmod	3:nmod:s:ins	_
+6	kotětem	kotě	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing	3	nmod	3:nmod:s:ins	_
 7	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	8	obl:arg	8:obl:arg:dat	_
 8	dodalo	dodat	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
-9	sílu	síla	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	8	obj	8:obj	SpaceAfter=No
+9	sílu	síla	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	8	obj	8:obj	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	8	punct	8:punct	_
 
 ~~~
@@ -43,10 +43,10 @@ The following 26 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 5 nmod	color:blue
 1	Nějací	nějaký	DET	PZMP1----------	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	2	det	2:det	_
-2	lidé	člověk	NOUN	NNMP1-----A---1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	7	nsubj	7:nsubj	_
+2	lidé	člověk	NOUN	NNMP1-----A---1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	7:nsubj	_
 3	doma	doma	ADV	Db-------------	_	2	advmod	2:advmod	_
 4	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	5:case	_
-5	Čáslavi	Čáslav	PROPN	NNFS6-----A----	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	2	nmod	2:nmod:v:loc	_
+5	Čáslavi	Čáslav	PROPN	NNFS6-----A----	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	2	nmod	2:nmod:v:loc	_
 6	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	7	iobj	7:iobj	_
 7	nabídli	nabídnout	VERB	VpMP----R-AA--1	Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
 8	,	,	PUNCT	Z:-------------	_	13	punct	13:punct	_
@@ -66,14 +66,14 @@ The following 26 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 nmod	color:blue
-1	Eduard	Eduard	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	2	nsubj	2:nsubj|3:nsubj:xsubj|13:nsubj	_
+1	Eduard	Eduard	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	2:nsubj|3:nsubj:xsubj|13:nsubj	_
 2	začal	začít	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 3	tušit	tušit	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	2	xcomp	2:xcomp	SpaceAfter=No
 4	,	,	PUNCT	Z:-------------	_	7	punct	7:punct	_
 5	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	6:case	_
 6	čem	co	PRON	PQ--6----------	Animacy=Inan|Case=Loc|PronType=Int,Rel	8	nmod	8:nmod:o:loc	_
-7	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	3:ccomp	_
-8	řeč	řeč	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	7	nsubj	7:nsubj	SpaceAfter=No
+7	je	být	AUX	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	3:ccomp	_
+8	řeč	řeč	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	7:nsubj	SpaceAfter=No
 9	,	,	PUNCT	Z:-------------	_	13	punct	13:punct	_
 10	ale	ale	CCONJ	J^-------------	_	13	cc	13:cc	_
 11	přesto	přesto	ADV	Db-------------	_	13	cc	13:cc	_

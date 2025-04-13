@@ -12,15 +12,15 @@ udver: '2'
 # UD Italian PUD
 
 Language: [Italian](/it/index.html) (code: `it`)<br/>
-Family: Indo-European, Romance
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Antonio Stella, Davide Rovati, Martin Popel, Daniel Zeman, Maria Simi, Manuela Sanguinetti.
 
 Repository: [UD_Italian-PUD](https://github.com/UniversalDependencies/UD_Italian-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_pud214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_pud215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 3.0
 
@@ -96,7 +96,7 @@ employ ten-fold cross-validation.
 
 
 <ul>
-<li>This corpus contains 1000 sentences, 22182 tokens and 23731 syntactic words.</li>
+<li>This corpus contains 1000 sentences, 22183 tokens and 23732 syntactic words.</li>
 </ul>
 
 <ul>
@@ -146,7 +146,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: avere, essere, potere, sapere, stare, venire, volere</li>
+<li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: avere, essere, sapere, stare, venire, volere</li>
 </ul>
 
 <ul>
@@ -404,7 +404,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Act
     <ul>
-      <li>AUX: è, ha, sono, era, hanno, essere, aver, fu, può, aveva</li>
+      <li>AUX: è, ha, sono, era, essere, hanno, aver, fu, può, aveva</li>
       <li>VERB: avere, far, ha, fare, afferma, partire, portare, aveva, iniziò, sono</li>
     </ul>
   </li>
@@ -566,7 +566,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (490)</li>
+      <li>VERB--NOUN (489)</li>
       <li>VERB--PRON (151)</li>
       <li>VERB--PRON-Nom (4)</li>
     </ul>

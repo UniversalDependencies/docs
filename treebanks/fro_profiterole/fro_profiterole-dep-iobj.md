@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3736 nodes (2%) are attached to their parents as `iobj`.
+3845 nodes (2%) are attached to their parents as `iobj`.
 
-3249 instances of `iobj` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.49009635974304.
+3351 instances of `iobj` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.48816644993498.
 
-The following 8 pairs of parts of speech are connected with `iobj`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (3589; 96% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (75; 2% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (36; 1% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (31; 1% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `iobj`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (3694; 96% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (76; 2% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (38; 1% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (31; 1% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

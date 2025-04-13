@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ga_cadhan-dep-nmod.html">nmod</a></tt>.
 
-146 nodes (3%) are attached to their parents as `nmod:poss`.
+147 nodes (3%) are attached to their parents as `nmod:poss`.
 
-146 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.02054794520548.
+147 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.02040816326531.
 
-The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (142; 97% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (3; 2% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (143; 97% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (3; 2% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -79,7 +79,7 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 4	so	seo	PRON	_	PronType=Dem	3	det	_	_
 5	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
 6	bheatha	beatha	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	3	nsubj	_	_
-7	mharrthanach	marthanach	ADJ	_	Case=Nom|Form=Len|Number=Sing	6	amod	_	SpaceAfter=No
+7	mharrthanach	marthanach	ADJ	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	gu	go	PART	_	PartType=Cmpl	10	mark:prt	_	_
 10	mbeath	bí	VERB	_	Form=Ecl|Mood=Cnd	3	ccomp	_	_

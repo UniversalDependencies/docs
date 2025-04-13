@@ -18,4 +18,11 @@ udver: '2'
 
 * _წერა_ 'writing'
 * _ხატვა_ 'drawing'
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:27 CEST -->
+
+### <a name="Conv">`Conv`</a>: converb (ending in -ისას)
+
+#### Examples
+
+* _ჩამოსვლისას_ 'while coming here'
+
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:10 CET -->

@@ -11,16 +11,16 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ro_tuecl-feat-Number.html">Number</a></tt>, <tt><a href="ro_tuecl-feat-Number-psor.html">Number[psor]</a></tt>.
 
-2234 tokens (51%) have a non-empty value of `Number`.
-1253 types (80%) occur at least once with a non-empty value of `Number`.
-837 lemmas (73%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="ro_tuecl-pos-NOUN.html">NOUN</a></tt> (843; 19% instances), <tt><a href="ro_tuecl-pos-VERB.html">VERB</a></tt> (426; 10% instances), <tt><a href="ro_tuecl-pos-PRON.html">PRON</a></tt> (271; 6% instances), <tt><a href="ro_tuecl-pos-AUX.html">AUX</a></tt> (230; 5% instances), <tt><a href="ro_tuecl-pos-ADJ.html">ADJ</a></tt> (229; 5% instances), <tt><a href="ro_tuecl-pos-DET.html">DET</a></tt> (196; 4% instances), <tt><a href="ro_tuecl-pos-NUM.html">NUM</a></tt> (31; 1% instances), <tt><a href="ro_tuecl-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="ro_tuecl-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+2229 tokens (50%) have a non-empty value of `Number`.
+1250 types (80%) occur at least once with a non-empty value of `Number`.
+836 lemmas (73%) occur at least once with a non-empty value of `Number`.
+The feature is used with 9 part-of-speech tags: <tt><a href="ro_tuecl-pos-NOUN.html">NOUN</a></tt> (843; 19% instances), <tt><a href="ro_tuecl-pos-VERB.html">VERB</a></tt> (426; 10% instances), <tt><a href="ro_tuecl-pos-PRON.html">PRON</a></tt> (271; 6% instances), <tt><a href="ro_tuecl-pos-AUX.html">AUX</a></tt> (230; 5% instances), <tt><a href="ro_tuecl-pos-ADJ.html">ADJ</a></tt> (224; 5% instances), <tt><a href="ro_tuecl-pos-DET.html">DET</a></tt> (196; 4% instances), <tt><a href="ro_tuecl-pos-NUM.html">NUM</a></tt> (31; 1% instances), <tt><a href="ro_tuecl-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="ro_tuecl-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
 843 <tt><a href="ro_tuecl-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ro_tuecl-feat-Typo.html">Typo</a></tt><tt>=EMPTY</tt> (753; 89%), <tt><a href="ro_tuecl-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (520; 62%), <tt><a href="ro_tuecl-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (477; 57%), <tt><a href="ro_tuecl-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (448; 53%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ro_tuecl-feat-Typo.html">Typo</a></tt><tt>=EMPTY</tt> (753; 89%), <tt><a href="ro_tuecl-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (520; 62%), <tt><a href="ro_tuecl-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (477; 57%), <tt><a href="ro_tuecl-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (445; 53%).
 
 `NOUN` tokens may have the following values of `Number`:
 
@@ -125,15 +125,15 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `ADJ`
 
-229 <tt><a href="ro_tuecl-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `Number`.
+224 <tt><a href="ro_tuecl-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="ro_tuecl-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (216; 94%), <tt><a href="ro_tuecl-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (204; 89%), <tt><a href="ro_tuecl-feat-Typo.html">Typo</a></tt><tt>=EMPTY</tt> (194; 85%), <tt><a href="ro_tuecl-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (134; 59%), <tt><a href="ro_tuecl-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (121; 53%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="ro_tuecl-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (216; 96%), <tt><a href="ro_tuecl-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (203; 91%), <tt><a href="ro_tuecl-feat-Typo.html">Typo</a></tt><tt>=EMPTY</tt> (192; 86%), <tt><a href="ro_tuecl-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (132; 59%), <tt><a href="ro_tuecl-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (116; 52%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (63; 28% of non-empty `Number`): <em>DULCI, misogini, FRUMOȘI, existente, feministe, frumoase, libidinoși, scurte, Blestemate, FRUMOSE</em>
-* `Sing` (166; 72% of non-empty `Number`): <em>frumoasă, frumoasa, bună, mare, dulce, sexy, urâtă, atent, cuminte, drăguță</em>
-* `EMPTY` (6): <em>așa, bine, dezgustătoare, mini, provocatoare</em>
+* `Sing` (161; 72% of non-empty `Number`): <em>frumoasă, frumoasa, bună, mare, dulce, urâtă, atent, cuminte, drăguță, frumos</em>
+* `EMPTY` (11): <em>așa, sexy, Hot, SEXSY, bine, dezgustătoare, mini, nesexy, provocatoare</em>
 
 <table>
   <tr><th>Paradigm <i>frumos</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -144,7 +144,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
   <tr><td><tt><tt><a href="ro_tuecl-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_tuecl-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>frumos</em></td><td><em>FRUMOSE</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `ADJ`. 90% lemmas (123) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `ADJ`. 90% lemmas (122) occur only with one value of `Number`.
 
 ### `DET`
 
@@ -207,7 +207,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="ro_tuecl-dep-det.html">det</a></tt>]--> DET</tt> (181; 91%),
-<tt>NOUN --[<tt><a href="ro_tuecl-dep-amod.html">amod</a></tt>]--> ADJ</tt> (115; 95%),
+<tt>NOUN --[<tt><a href="ro_tuecl-dep-amod.html">amod</a></tt>]--> ADJ</tt> (113; 93%),
 <tt>VERB --[<tt><a href="ro_tuecl-dep-obj.html">obj</a></tt>]--> NOUN</tt> (84; 58%),
 <tt>VERB --[<tt><a href="ro_tuecl-dep-obl.html">obl</a></tt>]--> NOUN</tt> (82; 55%),
 <tt>VERB --[<tt><a href="ro_tuecl-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (74; 66%),

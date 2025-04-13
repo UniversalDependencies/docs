@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>ως</em> (<tt><a href="el_gdt-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.092486 (the average of all parts of speech is 1.783022).
+The form / lemma ratio of `ADV` is 1.092486 (the average of all parts of speech is 1.783262).
 
 The 1st highest number of forms (3) was observed with the lemma “λίγο”: <em>ελάχιστα, λίγο, λιγότερο</em>.
 

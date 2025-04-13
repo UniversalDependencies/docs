@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Coptic-Scriptorium: Relations: `nmod:poss`
 
 This relation is a language-specific subtype of <tt><a href="cop_scriptorium-dep-nmod.html">nmod</a></tt>.
+There are also 1 other language-specific subtypes of `nmod`: <tt><a href="cop_scriptorium-dep-nmod-unmarked.html">nmod:unmarked</a></tt>.
 
-1744 nodes (3%) are attached to their parents as `nmod:poss`.
+1745 nodes (3%) are attached to their parents as `nmod:poss`.
 
-1343 instances of `nmod:poss` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.0131880733945.
+1344 instances of `nmod:poss` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.01318051575931.
 
-The following 9 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1330; 76% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (398; 23% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1331; 76% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (398; 23% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,7 +60,7 @@ The following 9 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 8	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	10	case	_	Orig=ⲉ̇ⲧⲃⲉ
 9	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	Entity=(abstract
 10	ⲭⲣⲉⲓⲁ	ⲭⲣⲉⲓⲁ	NOUN	N	Foreign=Yes	3	obl	_	Orig=ⲭⲣⲓ̇ⲁ̇|OrigLang=grc
-11	ⲙⲁⲩⲁⲁ	ⲙⲁⲩⲁⲁ	NOUN	IMOD	_	3	obl:npmod	_	Orig=ⲙⲁⲩⲁ̇ⲁ
+11	ⲙⲁⲩⲁⲁ	ⲙⲁⲩⲁⲁ	NOUN	IMOD	_	3	obl:unmarked	_	Orig=ⲙⲁⲩⲁ̇ⲁ
 12	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	11	nmod:poss	_	Entity=abstract)
 13	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
@@ -99,7 +100,7 @@ The following 9 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 25	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	23	nmod	_	Entity=(person
 26	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	27	mark	_	_
 27	ⲥⲟⲩⲧⲱⲛ	ⲥⲟⲟⲩⲧⲛ	VERB	VSTAT	VerbForm=Fin	25	acl:relcl	_	Entity=person)abstract)
-28	ϣⲏⲡ	ϣⲱⲡ	VERB	VSTAT	VerbForm=Fin	20	ccomp	_	_
+28	ϣⲏⲡ	ϣⲱⲡ	VERB	VSTAT	VerbForm=Fin	20	csubj	_	_
 29	ⲛⲁϩⲣⲁ	ⲛⲁϩⲣⲛ	ADP	PREP	_	30	case	_	_
 30	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	obl	_	_
 31	·	·	PUNCT	PUNCT	_	3	punct	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-781 nodes (10%) are attached to their parents as `root`.
+2480 nodes (10%) are attached to their parents as `root`.
 
-781 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.46734955185659.
+2480 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.50241935483871.
 
-The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (703; 90% instances), -<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (64; 8% instances), -<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), -<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), -<tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> (2; 0% instances), -<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (2284; 92% instances), -<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (169; 7% instances), -<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), -<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), -<tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> (5; 0% instances), -<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

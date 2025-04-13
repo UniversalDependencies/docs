@@ -31,10 +31,10 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 7	todo	todo	DET	PDT	Gender=Masc|Number=Sing|PronType=Tot	9	det	_	_
 8	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	mundo	mundo	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
-10	,	,	PUNCT	,	_	11	punct	_	_
+10	,	,	PUNCT	,	PunctType=Comm	11	punct	_	_
 11	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
 12	Leive	Leive	PROPN	NNP	Gender=Fem|Number=Sing	11	nsubj	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	4	punct	_	_
+13	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 4	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
 5	asesinada	asesinar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
 6	allí	allí	ADV	RB	_	5	advmod	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	1	punct	_	_
+7	.	.	PUNCT	.	PunctType=Peri	1	punct	_	_
 
 ~~~
 
@@ -77,7 +77,7 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 13	Colonia	Colonia	PROPN	NNP	Number=Sing	11	nmod	_	_
 14	y	y	CCONJ	CC	_	15	cc	_	_
 15	Bremen	Bremen	PROPN	NNP	Number=Sing	13	conj	_	SpaceAfter=No
-16	.	.	PUNCT	.	_	3	punct	_	_
+16	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~
 

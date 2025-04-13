@@ -38,4 +38,4 @@ objects, one of them should be `obj` and the others should be
 directly affected object _(patient)._ The one exception is when there is a [clausal complement](ccomp). Then the clausal complement is regarded as a “clausal direct object” and an object nominal will be an `iobj`.
 
 There is more discussion of constructions with multiple objects on the page for [iobj](). 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:32 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:12 CET -->

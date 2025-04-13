@@ -46,7 +46,7 @@ The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href
 7	nerekary	nere	VERB	XPOS=querer-PRED	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	2	advcl	_	gloss[pt]=querer-PRED-3SG.M.O
 8	iia	ie	DET	Det	Gender=Masc	9	det	_	gloss[pt]=esse
 9	ãkiti	hãkiti	NOUN	N	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	gloss[pt]=onça
-10	kene	kuna	PART	XPOS=não	_	11	advmod:neg	_	gloss[pt]=não
+10	kene	kuna	PART	XPOS=não	Polarity=Neg	11	advmod	_	gloss[pt]=não
 11	inhinhiãwa	inhinhiãwa	VERB	XPOS=3SG.M-comer-?ser-REFL	Gender[subj]=Masc|Number[subj]=Sing|Person[subj]=3	7	xcomp	_	gloss[pt]=3SG.M-comer-?ser-REFL
 12	ywa	ywa	PRON	Pron	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	gloss[pt]=3SG.M|SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	_

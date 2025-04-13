@@ -12,19 +12,19 @@ It occurs with 5 different values: `Acc`, `Dat`, `Gen`, `Nom`, `Voc`.
 34734 tokens (55%) have a non-empty value of `Case`.
 7642 types (67%) occur at least once with a non-empty value of `Case`.
 4102 lemmas (65%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (12922; 20% instances), <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (12121; 19% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (5109; 8% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2291; 4% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (1844; 3% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (322; 1% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (123; 0% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (12926; 20% instances), <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (12119; 19% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (5109; 8% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2293; 4% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (1840; 3% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (322; 1% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (123; 0% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-12922 <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Case`.
+12926 <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8891; 69%), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6969; 54%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8895; 69%), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6969; 54%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (6395; 49% of non-empty `Case`): <em>επιτροπή, έκθεση, χρόνια, χώρες, Κοινοβούλιο, πλαίσιο, χώρα, ένωση, θέση, περιοχή</em>
+* `Acc` (6396; 49% of non-empty `Case`): <em>επιτροπή, έκθεση, χρόνια, χώρες, Κοινοβούλιο, πλαίσιο, χώρα, ένωση, θέση, περιοχή</em>
 * `Dat` (34; 0% of non-empty `Case`): <em>λόγω, μέρει, περιπτώσει, βάσει, μέσω, συντομία, γένει, γνώσει, θυσία, συνεχεία</em>
-* `Gen` (3410; 26% of non-empty `Case`): <em>επιτροπής, ένωσης, κοινοβουλίου, Συμβουλίου, πολιτών, χώρας, νησιού, Εξωτερικών, εργασίας, κυβέρνησης</em>
+* `Gen` (3413; 26% of non-empty `Case`): <em>επιτροπής, ένωσης, κοινοβουλίου, Συμβουλίου, πολιτών, χώρας, νησιού, Εξωτερικών, εργασίας, κυβέρνησης</em>
 * `Nom` (2910; 23% of non-empty `Case`): <em>επιτροπή, Συμβούλιο, πρόεδρος, υπουργός, κοινοβούλιο, μέλη, ένωση, κυβέρνηση, ομάδα, πρόγραμμα</em>
 * `Voc` (173; 1% of non-empty `Case`): <em>κύριε, Πρόεδρε, κυρίες, κύριοι, κυρία, συνάδελφοι, Εκπρόσωπε, Επίτροπε, βουλευτές, Προεδρεύοντα</em>
 * `EMPTY` (618): <em>ΗΠΑ, κ., ΕΕ, χλμ., ΟΗΕ, ΕΛΑΣ, π.Χ., 2004, ΕΑΜ, Ν.</em>
@@ -38,15 +38,15 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `DET`
 
-12121 <tt><a href="el_gdt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
+12119 <tt><a href="el_gdt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (9847; 81%), <tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (9379; 77%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9197; 76%), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6594; 54%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (9847; 81%), <tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (9379; 77%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9196; 76%), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6593; 54%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (5934; 49% of non-empty `Case`): <em>την, το, τη, τις, τον, τα, τους, μια, ένα, αυτή</em>
+* `Acc` (5933; 49% of non-empty `Case`): <em>την, το, τη, τις, τον, τα, τους, μια, ένα, αυτή</em>
 * `Dat` (3; 0% of non-empty `Case`): <em>τω, τη</em>
-* `Gen` (3011; 25% of non-empty `Case`): <em>της, του, των, αυτής, ενός, μιας, αυτού, αυτών, κάθε, άλλων</em>
+* `Gen` (3010; 25% of non-empty `Case`): <em>της, του, των, αυτής, ενός, μιας, αυτού, αυτών, κάθε, άλλων</em>
 * `Nom` (3173; 26% of non-empty `Case`): <em>η, ο, οι, το, τα, ένα, μια, αυτή, ένας, αυτό</em>
 
 <table>
@@ -91,14 +91,14 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PRON`
 
-2291 <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+2293 <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (1913; 84%), <tt><a href="el_gdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1655; 72%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1287; 56%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (1915; 84%), <tt><a href="el_gdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1657; 72%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1288; 56%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (639; 28% of non-empty `Case`): <em>που, οποία, το, αυτό, οποίο, μας, οποίες, την, τους, αυτά</em>
-* `Gen` (796; 35% of non-empty `Case`): <em>τους, μας, του, της, μου, σας, οποίων, άλλων, οποίας, οποίου</em>
+* `Acc` (640; 28% of non-empty `Case`): <em>που, οποία, το, αυτό, οποίο, μας, οποίες, την, τους, αυτά</em>
+* `Gen` (797; 35% of non-empty `Case`): <em>τους, μας, του, της, μου, σας, οποίων, άλλων, οποίας, οποίου</em>
 * `Nom` (856; 37% of non-empty `Case`): <em>που, οποία, αυτό, οποίος, οποίο, εμείς, οποίες, αυτά, αυτή, κανείς</em>
 
 <table>
@@ -113,14 +113,14 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `PROPN`
 
-1844 <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+1840 <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1606; 87%), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1023; 55%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1602; 87%), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1023; 56%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Acc` (628; 34% of non-empty `Case`): <em>Ελλάδα, Ευρώπη, Τουρκία, Ρωσία, Γαλλία, Αθήνα, Κορέα, Κούβα, Γερμανία, Κάστρο</em>
-* `Gen` (632; 34% of non-empty `Case`): <em>Ευρώπης, Γερμανίας, Κορέας, Ελλάδας, Σίφνου, Ιαπωνίας, Μακεδονίας, Ρωσίας, Ιανουαρίου, Κέρκυρας</em>
+* `Acc` (627; 34% of non-empty `Case`): <em>Ελλάδα, Ευρώπη, Τουρκία, Ρωσία, Γαλλία, Αθήνα, Κορέα, Κούβα, Γερμανία, Κάστρο</em>
+* `Gen` (629; 34% of non-empty `Case`): <em>Ευρώπης, Γερμανίας, Κορέας, Ελλάδας, Σίφνου, Ιαπωνίας, Μακεδονίας, Ρωσίας, Ιανουαρίου, Κέρκυρας</em>
 * `Nom` (584; 32% of non-empty `Case`): <em>Κορέα, Ομπάμα, Ρωσία, Κλίντον, Τουρκία, Χίλαρι, Βενιζέλος, Ελλάδα, Μπαράκ, ΣΩΚΡΑΤΗΣ</em>
 
 <table>
@@ -178,14 +178,14 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (9114; 95%),
-<tt>NOUN --[<tt><a href="el_gdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3933; 98%),
-<tt>PROPN --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (1272; 99%),
+<tt>NOUN --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (9118; 95%),
+<tt>NOUN --[<tt><a href="el_gdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3936; 98%),
+<tt>PROPN --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (1268; 99%),
 <tt>NOUN --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (864; 97%),
 <tt>PRON --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (380; 99%),
 <tt>ADJ --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (258; 98%),
 <tt>NOUN --[<tt><a href="el_gdt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (227; 56%),
-<tt>PROPN --[<tt><a href="el_gdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (184; 97%),
+<tt>PROPN --[<tt><a href="el_gdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (181; 97%),
 <tt>ADJ --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (146; 99%),
-<tt>PROPN --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (144; 98%).
+<tt>PROPN --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (143; 98%).
 

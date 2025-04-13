@@ -64,7 +64,7 @@ The following 38 pairs of parts of speech are connected with `case`: <tt><a href
 6	المدفعية	مِدفَعِيَّة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	5	nmod	5:nmod:gen	Vform=اَلمِدفَعِيَّةِ|Gloss=artillery|Root=d f `|Translit=al-midfaʿīyati|LTranslit=midfaʿīyat
 7	قصفت	قَصَف	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	2	ccomp	2:ccomp	Vform=قَصَفَت|Gloss=bomb,shell|Root=q .s f|Translit=qaṣafat|LTranslit=qaṣaf
 8	على	عَلَى	ADP	P---------	AdpType=Prep	9	case	9:case	Vform=عَلَى|Gloss=on,above|Root=` l w|Translit=ʿalā|LTranslit=ʿalā
-9	الفور	الفور	X	U---------	_	7	obl	7:obl:عَلَى	SpaceAfter=No|Vform=الفور|Root=OOV|Translit=ālfwr
+9	الفور	الفور	X	U---------	_	7	obl	7:obl:عَلَى:gen	SpaceAfter=No|Vform=الفور|Root=OOV|Translit=ālfwr
 10	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 
 ~~~

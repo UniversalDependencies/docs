@@ -12,15 +12,15 @@ udver: '2'
 # UD Latin UDante
 
 Language: [Latin](/la/index.html) (code: `la`)<br/>
-Family: Indo-European, Italic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.8 release.
 
 The following people have contributed to making this treebank part of UD: Flavio Massimiliano Cecchini, Giovanni Moretti, Marco Passarotti, Rachele Sprugnoli, Daniela Corbetta, Federica Favero, Federica Gamba, Martina de Laurentiis, Giulia Pedonese, Andrea Peverelli, Elena Vagnoni, Mirko Tavoni.
 
 Repository: [UD_Latin-UDante](https://github.com/UniversalDependencies/UD_Latin-UDante)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_udante214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_udante215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -50,17 +50,17 @@ It is a treebank of Latin language, more precisely of **literary Medieval Latin*
 
 
 
-This treebank includes 1 721 sentences (55 503 tokens, counting only single tokens and not considering multi-token words) and consists of
+This treebank includes 1 721 sentences (57 242 syntactic words) and consists of
 literary texts (letters, treatises, poetry). The treebank is licensed under the terms of
 [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 **UDante** includes the following Latin texts (mostly) by Dante Alighieri, or disputedly attibuted to him:
 
-* *De vulgari eloquentia*: 13 451 tokens for 419 sentences over 2 books
-* *Monarchia*: 22 712 tokens for 682 sentences over 3 books
-* *Letters*: 11 611 tokens for 376 sentences over 13 letters
-* *Questio de aqua et terra*: 5 110 tokens for 133 sentences
-* *Eclogues*: 2 619 tokens for 111 sentences over 4 eclogues
+* *De vulgari eloquentia*: 13 873 syntactic words for 421 sentences over 2 books
+* *Monarchia*: 23403 syntactic words for 682 sentences over 3 books
+* *Letters*: 11 993 syntactic words for 376 sentences over 13 letters
+* *Questio de aqua et terra*: 5 243 syntactic words for 133 sentences
+* *Eclogues*: 2 730 syntactic words for 111 sentences over 4 eclogues
 
 The syntactic annotation of the **UDante** treebank has been created through a manual annotation process performed in the context of a collaboration between the University of Pisa (responsible: Mirko Tavoni) and the [**LiLa: Linking Latin project**](https://lila-erc.eu) at the Università Cattolica del Sacro Cuore, Milan, Italy (PI: Marco Passarotti).
 The annotation process was co-ordinated by Flavio Massimiliano Cecchini, Giovanni Moretti and Rachele Sprugnoli (all based at the Università Cattolica del Sacro Cuore).
@@ -99,7 +99,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 
 
 <ul>
-<li>This corpus contains 1721 sentences, 55286 tokens and 55519 syntactic words.</li>
+<li>This corpus contains 1723 sentences, 55286 tokens and 55519 syntactic words.</li>
 </ul>
 
 <ul>
@@ -453,7 +453,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
   <li>Neg
     <ul>
       <li>ADJ: inpossibile, impossibile, iniustum, inmeritus, inconveniens, ignari, impari, impius, incorruptibilis, inopina</li>
-      <li>ADV: nunquam, nondum, inconvenienter, iniuste, nequaquam, nimirum, inconsulte, inmediate, nequicquam, nichil</li>
+      <li>ADV: nunquam, nondum, inconvenienter, iniuste, nequaquam, nichil, nimirum, inconsulte, inmediate, nequicquam</li>
       <li>ADV-Part: inconsulte, inmediate</li>
       <li>CCONJ: nec, neque, necnon, nedum</li>
       <li>DET: nulla, nullo, nullum, nulli, nullus, nullius, nullam, nullos, nullis, neutrum</li>
@@ -1096,7 +1096,6 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
           <li>NOUN-Inf: Ducatus</li>
           <li>NOUN-Part: Strate</li>
           <li>PROPN: Ytalie, Ytalia, Tuscia, Florentia, Ytaliam, Europa, Europe, Ierusalem, Roma, Sarni</li>
-          <li>X: Cascioli, Fiorensa, Lucca, Pisa, Siena</li>
         </ul>
       </li>
       <li>Giv
@@ -1141,7 +1140,6 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
           <li>ADJ: Saturnia, cristiane, Cristiana, cristianam, cristianorum</li>
           <li>NOUN: Dei, Deus, Deo, Deum, Angelos, El, Musa, Seraphin, Victoria</li>
           <li>PROPN: Apollo, Amphitritis, Dardanus, Electra, Herculis, Acidis, Anubis, Apollini, Astrea, Chyron</li>
-          <li>X: Dio</li>
         </ul>
       </li>
       <li>Sur
@@ -1243,7 +1241,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
           <li>NUM: Sex</li>
           <li>PRON: Eo, Eius</li>
           <li>VERB-Part: Sancto, Sanctum, Sancti, Animante, Crucifixi, Digestorum, Sanctus, Uncto</li>
-          <li>X: Amor, Dio, Scala, de, la</li>
+          <li>X: Scala, de, la</li>
         </ul>
       </li>
     </ul>
@@ -1274,7 +1272,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (11)</li>
       <li>VERB-Fin--NOUN-Gen (3)</li>
       <li>VERB-Fin--NOUN-Nom (889)</li>
-      <li>VERB-Fin--PRON (10)</li>
+      <li>VERB-Fin--PRON (9)</li>
       <li>VERB-Fin--PRON-Acc (11)</li>
       <li>VERB-Fin--PRON-Nom (391)</li>
       <li>VERB-Fin--PRON-Voc (1)</li>
@@ -1312,7 +1310,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN (1)</li>
       <li>VERB-Inf--NOUN-Acc (238)</li>
       <li>VERB-Inf--NOUN-Dat (1)</li>
-      <li>VERB-Inf--PRON (4)</li>
+      <li>VERB-Inf--PRON (3)</li>
       <li>VERB-Inf--PRON-Abl (1)</li>
       <li>VERB-Inf--PRON-Acc (77)</li>
       <li>VERB-Inf--PRON-Nom (2)</li>

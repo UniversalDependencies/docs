@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>παρά</em> (<tt><a href="el_gdt-po
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.100000 (the average of all parts of speech is 1.783022).
+The form / lemma ratio of `CCONJ` is 1.100000 (the average of all parts of speech is 1.783262).
 
 The 1st highest number of forms (2) was observed with the lemma “και”: <em>και, κι</em>.
 
@@ -39,7 +39,7 @@ The 3rd highest number of forms (1) was observed with the lemma “αλλά”: 
 
 `CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="el_gdt-dep-cc.html">cc</a></tt> (2018; 98% instances), <tt><a href="el_gdt-dep-fixed.html">fixed</a></tt> (17; 1% instances), <tt><a href="el_gdt-dep-advmod.html">advmod</a></tt> (11; 1% instances), <tt><a href="el_gdt-dep-mark.html">mark</a></tt> (4; 0% instances)
 
-Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (948; 46% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (667; 33% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (179; 9% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (126; 6% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (38; 2% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (33; 2% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (22; 1% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt> (18; 1% instances), <tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (15; 1% instances), <tt><a href="el_gdt-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (949; 46% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (667; 33% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (179; 9% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (125; 6% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (38; 2% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (33; 2% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (22; 1% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt> (18; 1% instances), <tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (15; 1% instances), <tt><a href="el_gdt-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
 2014 (98%) `CCONJ` nodes are leaves.
 

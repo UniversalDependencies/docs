@@ -8,41 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-91 nodes (2%) are attached to their parents as `fixed`.
+111 nodes (1%) are attached to their parents as `fixed`.
 
-91 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.01098901098901.
+111 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.
 
-The following 13 pairs of parts of speech are connected with `fixed`: <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (30; 33% instances), <tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (26; 29% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> (9; 10% instances), <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt>-<tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> (7; 8% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt>-<tt><a href="egy_ujaen-pos-SCONJ.html">SCONJ</a></tt> (3; 3% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt>-<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt>-<tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="egy_ujaen-pos-PART.html">PART</a></tt>-<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 fixed	color:blue
-1	tꜣ	tꜣ	NOUN	Subj	Gender=Masc|Number=Sing	3	nsubj	_	_
-2	m	m	ADP	Cons.st	Case=Ess	3	case	_	_
-3	ꜣw.t	ꜣwi̯	NOUN	Inf	Definite=Cons|Gender=Masc	0	root	_	_
-4	i҆b	i҆b	NOUN	Gen|MWE	Case=Gen|Gender=Masc|Number=Sing	3	fixed	_	_
-
-~~~
+The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (77; 69% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (14; 13% instances), <tt><a href="egy_ujaen-pos-PART.html">PART</a></tt>-<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> (8; 7% instances), <tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt>-<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> (6; 5% instances), <tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt>-<tt><a href="egy_ujaen-pos-SCONJ.html">SCONJ</a></tt> (3; 3% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 fixed	color:blue
-1	śmḫ	mḫ	VERB	Imp	Mood=Imp|Voice=Cau	0	root	_	_
-2	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
-3	n	n	ADP	Cons.st	Case=Ben	6	case	_	_
-4	i҆b	i҆b	NOUN	MWE	Gender=Masc|Number=Sing	3	fixed	_	_
-5	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	fixed	_	_
-6	ẖrṭ(.w)	ẖrṭ	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
-7	⸗č(n)	čn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=2|PronType=Prs	6	nmod	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 fixed	color:blue
+1	č̣.n	rč̣i̯	VERB	SPC=Past-2|Type=Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓏙𓈖
+2	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Hiero=𓆑
+3	n	n	ADP	Status=Pron	Case=Dat	4	case	_	Hiero=𓈖
+4	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	Hiero=𓆑
+5	(ꞽ)wꜥ.t	ꞽwꜥ.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	1	obj	_	Hiero=𓅱(𓂝:𓄯)+𓏏
+6	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Hiero=𓆑
+7	m	m	ADP	Status=Cons	Case=Loc	9	case	_	Hiero=𓅓
+8	bꜣḥ	bꜣḥ	NOUN	_	Gender=Masc|Number=Sing	7	fixed	_	Hiero=𓂸
+9	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	1	obl	_	Hiero=𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹
+10	ꜥꜣ.t	ꜥꜣ	ADJ	_	Gender=Fem|Number=Sing	9	fixed	_	Hiero=𓉻:𓏏
 
 ~~~
 
@@ -53,14 +42,41 @@ The following 13 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 fixed	color:blue
-1	ki҆.w	ki҆	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
-2	n	n	ADP	Pron.st	Case=Dat	3	case	_	_
-3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	iobj	_	_
-4	ḥnmm.t	ḥnmm.t	NOUN	_	Gender=Fem|Number=Coll	1	nsubj	_	_
-5	wčs.n	wčs	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
-6	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obj	_	_
-7	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	5	nsubj	_	_
-8	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	7	fixed	_	_
+1	n	n	PART	Neg	PartType=Neg	0	root	_	Hiero=𓂜
+2	(ꞽ)y	ꞽy	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	Hiero=𓇋𓇋
+3	pn	pn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	nmod	_	Hiero=𓊪:𓈖
+4	n	n	PART	Neg	PartType=Neg	1	parataxis	_	Hiero=𓂜
+5	nkn	nkn	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	Hiero=𓈖:𓎡:𓈖
+6	pn	pn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	nmod	_	Hiero=𓊪:𓈖
+7	čꜣs	čꜣs	NOUN	_	Gender=Masc|Number=Sing	9	cc	_	Hiero=𓋭
+8	pẖr	pẖr	NOUN	MWE=Yes	Gender=Masc|Number=Sing	7	fixed	_	Hiero=𓄲
+9	n	n	PART	Neg	PartType=Neg	1	conj	_	Hiero=𓂜
+10	nkn	nkn	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	Hiero=𓈖:𓎡:𓈖
+11	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nmod	_	Hiero=𓎡
+12	n	n	PART	Neg	PartType=Neg	9	parataxis	_	Hiero=𓂜
+13	(ꞽ)y	(ꞽ)y	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	Hiero=𓇋𓇋
+14	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	nmod	_	Hiero=𓎡
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 fixed	color:blue
+1	m	m	PART	_	_	3	discourse	_	Hiero=𓅓
+2	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	fixed	_	Hiero=𓎡
+3	ꞽr.tn	ꞽri̯	VERB	NOUN|VerbForm=RelForm|Tense=Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	9	dislocated	_	Hiero=𓁹:𓏏:𓈖
+4	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	3	nsubj	_	Hiero=𓃩
+5	ḥnꜥ	ḥnꜥ	ADP	Status=Cons	Case=Com	6	case	_	Hiero=𓎛(𓈖:𓂝)
+6	Č̣ḥw.tꞽ	Č̣ḥw.tꞽ	PROPN	_	Gender=Masc	4	obl	_	Hiero=𓅝
+7	śn(.wꞽ)	śn	NOUN	_	Gender=Masc|Number=Dual	9	nsubj	_	Hiero=𓌢𓌢
+8	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	Hiero=𓎡
+9	ꞽ:ḫm.w(ꞽ)	ḫm	VERB	OSSC|Aug=Yes	Gender=Masc|Number=Dual|Person=3|Polarity=Neg|VerbForm=Fin	0	root	_	Hiero=𓇋𓐍𓅓𓅱
+10	rm(.w)	rmi̯	VERB	NegCom	VerbForm=Inf	9	obl	_	Hiero=UC_No𓅓
+11	čw	čw	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	obj	_	Hiero=𓍿𓅱
 
 ~~~
 

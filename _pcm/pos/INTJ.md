@@ -20,4 +20,4 @@ is not syntactically related to other accompanying expressions, and may include 
 - Some people go say dis brak <b>ah</b> dis brake dey too go down.
 - <b>Ehn</b> one thing one thing.
 - So dat you no go go enter <b>em</b> mouth of anoder car.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:37 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:22 CET -->

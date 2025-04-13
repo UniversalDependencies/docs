@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-41 tokens (0%) have a non-empty value of `Foreign`.
-38 types (1%) occur at least once with a non-empty value of `Foreign`.
-38 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 6 part-of-speech tags: <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (19; 0% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+40 tokens (0%) have a non-empty value of `Foreign`.
+37 types (1%) occur at least once with a non-empty value of `Foreign`.
+37 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 6 part-of-speech tags: <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (18; 0% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
-19 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Foreign`.
+18 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (19; 100%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (18; 95%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18; 95%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (18; 95%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (18; 95%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (18; 95%), <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17; 89%).
+The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (18; 100%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (17; 94%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17; 94%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (17; 94%), <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16; 89%).
 
 `ADJ` tokens may have the following values of `Foreign`:
 
-* `Yes` (19; 100% of non-empty `Foreign`): <em>American, National, New, Breaking, Civil, Environmental, First, Golden, Royal, Shaky</em>
-* `EMPTY` (1550): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, samma</em>
+* `Yes` (18; 100% of non-empty `Foreign`): <em>American, National, New, Civil, Environmental, First, Golden, Royal, Shaky, Simple</em>
+* `EMPTY` (1555): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, samma</em>
 
-`Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (16) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (15) occur only with one value of `Foreign`.
 
 ### `NOUN`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>Controlled, Knew, Thought</em>
-* `EMPTY` (1961): <em>har, sade, finns, säger, började, ha, hade, blev, få, göra</em>
+* `EMPTY` (1962): <em>har, sade, finns, säger, började, ha, hade, blev, få, göra</em>
 
 ### `PRON`
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>'Ya, My</em>
-* `EMPTY` (1317): <em>som, det, han, de, sig, hans, jag, sin, hon, den</em>
+* `EMPTY` (1318): <em>som, det, han, de, sig, hans, jag, sin, den, hon</em>
 
 ### `ADP`
 

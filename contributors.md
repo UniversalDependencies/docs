@@ -22,6 +22,7 @@ udver: '2'
 * Natalia Silveira
 * Reut Tsarfaty
 * Francis Tyers
+* [Amir Zeldes](https://gucorpling.org/amir/)
 * [Dan Zeman](http://ufal.mff.cuni.cz/daniel-zeman/)
 
 ## Language-specific guidelines and treebanks 

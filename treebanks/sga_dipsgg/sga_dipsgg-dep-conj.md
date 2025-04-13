@@ -58,7 +58,7 @@ The following 7 pairs of parts of speech are connected with `conj`: <tt><a href=
 18	má	már	ADJ	_	Degree=Cmp	9	advcl	_	_
 19	de	de	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	18	obl:prep	_	_
 20	do	do	ADP	_	AdpType=Prep|Definite=Ind	21	case	_	_
-21	buith	both	NOUN	_	Case=Dat|Number=Sing	18	obl	_	_
+21	buith	buith	NOUN	_	Case=Dat|Number=Sing	18	obl	_	_
 22	dait	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=2|PronType=Prs	21	obl:prep	_	SpaceAfter=No
 23	siu	so	PRON	_	Number=Sing|Person=2|PronType=Emp	22	amod	_	_
 24	hi	i	ADP	_	AdpType=Prep|Definite=Ind	25	case	_	_

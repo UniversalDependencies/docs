@@ -26,7 +26,7 @@ The following 6 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 1	豪仔	豪仔	PROPN	_	_	4	nsubj	_	SpaceAfter=No|Translit=háozǐ|LTranslit=háozǐ
 2	今晚	今晚	NOUN	_	_	4	obl:tmod	_	SpaceAfter=No|Translit=jīnwǎn|LTranslit=jīnwǎn
 3	點	點	NOUN	_	NounType=Clf	4	reparandum	_	SpaceAfter=No|Translit=diǎn|LTranslit=diǎn
-4	來	來	VERB	_	_	0	root	_	SpaceAfter=No|Translit=lái|LTranslit=lái
+4	來	來	VERB	_	_	0	root	_	SpaceAfter=No|Translit=lái|LTranslit=lái|Cxn=Interrogative-Polar-Direct|CxnElt=4:Interrogative-Polar-Direct.Clause
 5	吃飯	吃飯	VERB	_	_	4	conj	_	SpaceAfter=No|Translit=chīfàn|LTranslit=chīfàn
 6	嗎	嗎	PART	_	_	4	discourse:sp	_	SpaceAfter=No|Translit=ma|LTranslit=ma
 7	？	？	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=?|LTranslit=?

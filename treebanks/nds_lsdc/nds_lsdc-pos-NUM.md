@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Low_Saxon-LSDC: POS Tags: `NUM`
 
-There are 38 `NUM` lemmas (1%), 41 `NUM` types (1%) and 102 `NUM` tokens (0%).
-Out of 16 observed tags, the rank of `NUM` is: 9 in number of lemmas, 10 in number of types and 15 in number of tokens.
+There are 35 `NUM` lemmas (1%), 41 `NUM` types (1%) and 102 `NUM` tokens (0%).
+Out of 16 observed tags, the rank of `NUM` is: 10 in number of lemmas, 10 in number of types and 15 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>twey, eyn, dree, veer, tein, 14, achttein, dusend, pår, sös</em>
+The 10 most frequent `NUM` lemmas: <em>twey, eyn, dree, veer, tein, sös, veertein, 14, acht, achttein</em>
 
 The 10 most frequent `NUM` types:  <em>twey, dree, eyn, veer, eynen, tein, 14, acht, dusend, pår</em>
 
-The 10 most frequent ambiguous lemmas: <em>eyn</em> (<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 25, <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 17, <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 15), <em>pår</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 2), <em>vyv</em> (<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 2, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>acht</em> (<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>eyn</em> (<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 25, <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 16, <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 15), <em>acht</em> (<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 2, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 1), <em>pår</em> (<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 13, <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 2), <em>vyv</em> (<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 2, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>eyn</em> (<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 10, <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 8, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 7), <em>eynen</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 14, <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 4, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 3), <em>acht</em> (<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 2, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 1), <em>pår</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 2), <em>eyne</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 17, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 7, <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>eyn</em> (<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 10, <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 8, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 7), <em>eynen</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 14, <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 4, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 3), <em>acht</em> (<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 2, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 1), <em>pår</em> (<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 13, <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 2), <em>eyne</em> (<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 17, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 7, <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 1)
 
 
 * <em>eyn</em>
@@ -30,8 +30,7 @@ The 10 most frequent ambiguous types:  <em>eyn</em> (<tt><a href="nds_lsdc-pos-N
   * <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 2: <em>Un det het ouk keyne <b>acht</b> dage duurd , do is de eddelman doud west .</em>
   * <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 1: <em>‘ Nim dik in <b>acht</b> ! ’ sean de lüde to öäm , ‘ wän du oaver den bekke geist , sou gröte nich wear , wän dik “ Goden åvend ” eboaden wardt . ’</em>
 * <em>pår</em>
-  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 8: <em>See kroup wyder un kaem nå en <b>pår</b> minuten an den möälenbeake .</em>
-  * <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 5: <em>Hanna en Willem wassen der en <b>pår</b> van et gemödelikke soorte en hadden twey mooie dochters , Anna was twey-en-twintig , Mina was achttyne .</em>
+  * <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 13: <em>See kroup wyder un kaem nå en <b>pår</b> minuten an den möälenbeake .</em>
   * <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> 2: <em>See hadde sik al sou vrögged , dat hee de leyre bolde ute hadde , un nu kam hee an te loupen , woor hee de leyre noch neet ute hadde , un halp ear , dee <b>pår</b> tufelen , dee see noch hadde , vortearen .</em>
 * <em>eyne</em>
   * <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> 17: <em>Now , vöär ho völle jenever drink y de <b>eyne</b> dag döär de andere .</em>
@@ -40,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>eyn</em> (<tt><a href="nds_lsdc-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.078947 (the average of all parts of speech is 1.410753).
+The form / lemma ratio of `NUM` is 1.171429 (the average of all parts of speech is 1.500000).
 
 The 1st highest number of forms (3) was observed with the lemma “eyn”: <em>eyn, eyne, eynen</em>.
 

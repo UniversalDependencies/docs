@@ -10,7 +10,7 @@ This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Prs`, `Rel`, `Tot`.
 
 1780 tokens (12%) have a non-empty value of `PronType`.
-135 types (4%) occur at least once with a non-empty value of `PronType`.
+136 types (4%) occur at least once with a non-empty value of `PronType`.
 1 lemmas (0) occur at least once with a non-empty value of `PronType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (953; 7% instances), <tt><a href="jv_csui-pos-DET.html">DET</a></tt> (696; 5% instances), <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> (131; 1% instances).
 
@@ -38,12 +38,12 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (364; 52% of non-empty `PronType`): <em>e, para, ipun, sawijining, sing, satunggaling, Kang, ingkang</em>
+* `Art` (364; 52% of non-empty `PronType`): <em>e, para, ipun, sawijining, sing, satunggaling, Kang, ingkang, saindenge</em>
 * `Dem` (240; 34% of non-empty `PronType`): <em>iku, kuwi, iki, punika, semana, niku, kae, ki, menika, niki</em>
 * `Emp` (17; 2% of non-empty `PronType`): <em>dhewe, dhewe-dhewe, piyambak</em>
 * `Ind` (42; 6% of non-empty `PronType`): <em>saperangan, akeh, sawetara, maneka, Akeh-akehe, Pira-pira, pinten-pinten</em>
 * `Tot` (33; 5% of non-empty `PronType`): <em>saben, kabeh, sakabehing, sedaya, saindhenge</em>
-* `EMPTY` (5): <em>pirang-pirang, Rancake, meh, saindeng</em>
+* `EMPTY` (4): <em>pirang-pirang, Rancake, meh</em>
 
 ### `ADV`
 

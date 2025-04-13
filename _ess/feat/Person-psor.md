@@ -32,4 +32,4 @@ The possessor's person is marked morphologically on the possessed object
 * [ess] _<b>qikmii</b>_ “his/her/its dog” `Number[psor]=Sing|Person[psor]=3`
 * [ess] _<b>qikmiik</b>_ “their (dual) dog” `Number[psor]=Dual|Person[psor]=3`
 * [ess] _<b>qikmiit</b>_ “their (plural) dog” `Number[psor]=Plur|Person[psor]=3`
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:14 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:58 CET -->

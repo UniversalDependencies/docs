@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (1%) are attached to their parents as `cc`.
+7 nodes (2%) are attached to their parents as `cc`.
 
-6 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33333333333333.
+7 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.14285714285714.
 
-The following 3 pairs of parts of speech are connected with `cc`: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-CCONJ.html">CCONJ</a></tt> (3; 50% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sga_dipsgg-pos-CCONJ.html">CCONJ</a></tt> (2; 33% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-CCONJ.html">CCONJ</a></tt> (1; 17% instances).
+The following 3 pairs of parts of speech are connected with `cc`: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-CCONJ.html">CCONJ</a></tt> (3; 43% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sga_dipsgg-pos-CCONJ.html">CCONJ</a></tt> (2; 29% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-CCONJ.html">CCONJ</a></tt> (2; 29% instances).
 
 
 ~~~ conllu
@@ -41,7 +41,7 @@ The following 3 pairs of parts of speech are connected with `cc`: <tt><a href="s
 1	do	do	ADP	_	AdpType=Prep|Definite=Ind	2	case	_	_
 2	inis	inis	NOUN	_	Case=Dat|Number=Sing	0	root	_	_
 3	maddoc	maddoc	PROPN	_	Case=Dat|Number=Sing	2	nmod	_	_
-4	dún	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=1|PronType=Prs	2	obl:prep	_	_
+4	dv́n	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=1|PronType=Prs	2	obl:prep	_	_
 5	.i.	.i.	ADV	_	Abbr=Yes	6	advmod	_	_
 6	mei	mé	PRON	_	Number=Sing|Person=1|PronType=Prs	2	dislocated	_	_
 7	sse	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	6	amod	_	_
@@ -59,7 +59,7 @@ The following 3 pairs of parts of speech are connected with `cc`: <tt><a href="s
 # visual-style 7 5 cc	color:blue
 1	immargal	immargal	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	3	nsubj	_	_
-3	femininum	_	NOUN	_	Foreign=Yes	1	dislocated	_	_
+3	femininum	_	NOUN	_	Foreign=Yes	1	dislocated	_	Lang=la
 4	dano	dano	ADV	_	_	3	advmod	_	_
 5	⁊	ocus	CCONJ	_	_	7	cc	_	_
 6	a	ad	PART	_	PartType=Vb	7	compound:prt	_	SpaceAfter=No

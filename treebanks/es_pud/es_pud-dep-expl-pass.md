@@ -32,10 +32,10 @@ The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 7	todo	todo	DET	PDT	Gender=Masc|Number=Sing|PronType=Tot	9	det	_	_
 8	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	mundo	mundo	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
-10	,	,	PUNCT	,	_	11	punct	_	_
+10	,	,	PUNCT	,	PunctType=Comm	11	punct	_	_
 11	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
 12	Leive	Leive	PROPN	NNP	Gender=Fem|Number=Sing	11	nsubj	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	4	punct	_	_
+13	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 ~~~
 

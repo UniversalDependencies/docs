@@ -40,12 +40,12 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 15	Who	who	PRON	_	Foreign=Yes|PronType=Int,Rel	12	appos	_	Lang=en
 16	I	I	PRON	_	Case=Nom|Foreign=Yes|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	Lang=en
 17	Am	be	AUX	_	Foreign=Yes|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	cop	_	Lang=en|SpaceAfter=No
-18	,	,	PUNCT	_	_	21	punct	_	_
+18	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 19	de	de	ADP	_	_	21	case	_	_
 20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	disquera	disquera	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
 22	RCA	rca	PROPN	_	_	21	appos	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	2	punct	_	_
+23	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -73,7 +73,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 15	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	familia	familia	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
 17	acomodada	acomodado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	16	amod	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	26	punct	_	_
+18	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
 19	y	y	CCONJ	_	_	26	cc	_	_
 20	que	que	SCONJ	_	_	26	mark	_	_
 21	durante	durante	ADP	_	_	23	case	_	_
@@ -90,7 +90,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 32	con	con	ADP	_	_	34	case	_	_
 33	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
 34	empresa	empresa	NOUN	_	Gender=Fem|Number=Sing	29	conj	_	SpaceAfter=No
-35	.	.	PUNCT	_	_	13	punct	_	_
+35	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
 
 ~~~
 

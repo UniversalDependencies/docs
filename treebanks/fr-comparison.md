@@ -59,7 +59,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 16342 sentences, 389279 tokens and 400306 syntactic words.</li>
+      <li>This corpus contains 16342 sentences, 389367 tokens and 400391 syntactic words.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -74,7 +74,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 2776 sentences, 42331 tokens and 42787 syntactic words.</li>
+      <li>This corpus contains 2776 sentences, 42243 tokens and 42786 syntactic words.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -96,7 +96,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 58060 tokens (15%) that are not followed by a space.</li>
+      <li>This corpus contains 58138 tokens (15%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -133,7 +133,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 130 types of words with spaces. Examples: 10 000, 100 000, 20 000, 50 000, 1 000, 2 000, 5 000, 80 000, 1 200, 1 500, 200 000, 25 000, 60 000, 1 100, 1 400, 150 000, 2 500, 30 000, 300 000, 400 000, 68 000, 900 000, 02 31 30 47 70, 1 068, 1 108, 1 209, 1 231, 1 237 500, 1 250, 1 300, 1 345, 1 444 861, 1 496, 1 500 000, 1 728, 1 766 691 409, 1 890, 1 900, 1,186 569 110, 10 250, 11 437, 11 506, 11 839, 13 500, 13 641, 147 000, 149 900, 16 000, 16 851, 170 055</li>
+      <li>This corpus contains 131 types of words with spaces. Examples: 10 000, 100 000, 20 000, 50 000, 1 000, 2 000, 5 000, 80 000, 1 200, 1 500, 200 000, 25 000, 60 000, 1 100, 1 400, 150 000, 2 500, 30 000, 300 000, 400 000, 68 000, 900 000, 02 31 30 47 70, 1 068, 1 108, 1 209, 1 231, 1 237 500, 1 250, 1 300, 1 345, 1 444 861, 1 461, 1 496, 1 500 000, 1 728, 1 766 691 409, 1 890, 1 900, 1,186 569 110, 10 250, 11 437, 11 506, 11 839, 13 500, 13 641, 147 000, 149 900, 16 000, 16 851</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -170,12 +170,12 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 2186 types of words that contain both letters and punctuation. Examples: l', d', s', qu', n', c', jusqu', j', aujourd'hui, États-Unis, l'on, m', -t-il, lui-même, celui-ci, -il, c'est-à-dire, M., lorsqu', celle-ci, au-dessus, etc., -ce, sud-est, Royaume-Uni, ceux-ci, au-delà, elle-même, peut-être, sud-ouest, -ils, J.-C., av., nord-ouest, nord-est, -vous, -elle, -là, -t-elle, Etats-Unis, Grande-Bretagne, Pays-Bas, eux-mêmes, porte-parole, Notre-Dame, puisqu', week-end, -on, quelqu'un, C.</li>
+      <li>This corpus contains 2189 types of words that contain both letters and punctuation. Examples: l', d', s', qu', n', c', jusqu', j', aujourd'hui, États-Unis, l'on, m', -t-il, lui-même, celui-ci, -il, c'est-à-dire, M., lorsqu', celle-ci, au-dessus, etc., -ce, sud-est, Royaume-Uni, ceux-ci, au-delà, elle-même, peut-être, sud-ouest, -ils, J.-C., av., nord-ouest, nord-est, -vous, -elle, -là, -t-elle, Etats-Unis, Grande-Bretagne, Pays-Bas, eux-mêmes, porte-parole, Notre-Dame, puisqu', week-end, -on, quelqu'un, C.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 146 types of words that contain both letters and punctuation. Examples: l', d', l’, d’, qu', s', n', qu’, n’, s’, c', jusqu', c’, J.-C., États-Unis, peut-être, -il, Grande-Bretagne, -t-il, M., au-delà, j’, Etats-Unis, au-dessus, av., j', jusqu’, porte-parole, quelqu'un, Papouasie-Nouvelle-Guinée, Pays-Bas, grand-mère, m’, nord-ouest, -ce, -là, C.B., J-C, J.-C, Joliot-Curie, Royaume-Uni, Sud-Est, aujourd'hui, cité-état, e-mails, elle-même, lorsqu’, l‘, soi-disant, 'Ya</li>
+      <li>This corpus contains 146 types of words that contain both letters and punctuation. Examples: l', d', l’, d’, qu', s', n', qu’, s’, n’, c', jusqu', c’, J.-C., États-Unis, peut-être, -il, Grande-Bretagne, -t-il, M., au-delà, j’, Etats-Unis, au-dessus, av., j', jusqu’, porte-parole, quelqu'un, Papouasie-Nouvelle-Guinée, Pays-Bas, grand-mère, m’, nord-ouest, -ce, -là, C.B., J-C, J.-C, Joliot-Curie, Royaume-Uni, Sud-Est, aujourd'hui, cité-état, e-mails, elle-même, lorsqu’, l‘, soi-disant, 'Ya</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -208,7 +208,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 11027 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>This corpus contains 11024 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 9 types of multi-word tokens. Examples: du, des, au, aux, auquel, duquel, auxquels, desquelles, auxquelles.</li>
       </ul>
     </td>
@@ -226,7 +226,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 456 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>This corpus contains 543 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 4 types of multi-word tokens. Examples: du, au, des, aux.</li>
       </ul>
     </td>
@@ -390,7 +390,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 18 lemmas tagged as determiners (DET): aucun, ce, certain, chaque, différent, divers, du, le, ledit, lequel, nul, plusieurs, quel, quelque, son, tel, tout, un</li>
+      <li>This corpus contains 19 lemmas tagged as determiners (DET): aucun, ce, certain, chaque, différent, divers, du, la, le, ledit, lequel, nul, plusieurs, quel, quelque, son, tel, tout, un</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -415,7 +415,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 41 lemmas tagged as determiners (DET): 1 000, 1 200, 1 246, 1 500, 10 000, 108 000, 111 547, 125 000, 13 819, 14 000, 15 000, 17 600, 2 000, 2 127, 20 000, 25 000, 46 000, 5 000, 50 000, 500 000, 6 000, 67 025, 7 736, 8 000, 80 000, aucun, ce, certain, chaque, différent, divers, du, le, ledit, plusieurs, quel, quelque, son, tel, tout, un</li>
+      <li>This corpus contains 16 lemmas tagged as determiners (DET): aucun, ce, certain, chaque, différent, divers, du, le, ledit, plusieurs, quel, quelque, son, tel, tout, un</li>
       </ul>
     </td>
   </tr>
@@ -1027,7 +1027,7 @@ udver: '2'
             <li>ADJ: tout, petit, tous, gros, vrai, mignon, petits, beau, bizarre, sympa</li>
             <li>ADV: mal, tout, plus, super</li>
             <li>AUX-Part: été, fait, eu</li>
-            <li>DET: le, un, ce, du, cet, des, les, l', tout, aucun</li>
+            <li>DET: le, un, ce, du, cet, des, les, l', aucun, quelques</li>
             <li>NOUN: coup, fait, peu, temps, ans, moment, truc, jour, monde, côté</li>
             <li>NUM: neuf, un</li>
             <li>PRON: on, c', il, ça, lui, ils, ce, le, -ce, tout</li>
@@ -1711,8 +1711,6 @@ udver: '2'
         <li>Neg
           <ul>
             <li>ADV: pas, ne, n', n’, plus, jamais, non</li>
-            <li>DET: aucun, aucune</li>
-            <li>PRON: aucun</li>
           </ul>
         </li>
       </ul>
@@ -1750,7 +1748,6 @@ udver: '2'
         <li>Neg
           <ul>
             <li>ADV: pas, n', ne, non, plus, jamais, guère, que</li>
-            <li>DET: aucune, aucun</li>
           </ul>
         </li>
       </ul>
@@ -2938,7 +2935,7 @@ udver: '2'
         <li>Ind
           <ul>
             <li>ADJ: tout, tous, toute</li>
-            <li>DET: quelque, chaque, quelques, plusieurs, certaines, tout, toute, différents, tous</li>
+            <li>DET: quelque, chaque, quelques, plusieurs, certaines, toute, différents, tous</li>
             <li>PRON: on, tout, tous, quelqu'un, un, une, autre, quoi, chacun, autres</li>
           </ul>
         </li>
@@ -3102,6 +3099,7 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
+            <li>DET: aucune, aucun</li>
             <li>PRON: rien, aucun, personne, Nul</li>
           </ul>
         </li>
@@ -4259,16 +4257,15 @@ udver: '2'
             <li>PROPN
               <ul>
                 <li>ADJ: Tel, Belle, Clair, Disponible, Drôle, Quelle, Seul, extra, indépendante, inférieur</li>
-                <li>ADP: de</li>
                 <li>ADV: Après-demain, Bêtement, avant, ici, longtemps</li>
                 <li>DET: l'</li>
                 <li>NOUN: Chanson, Chant, Donjon, Fille, Oiseau, Place, Procès, or, Abime, Affaire</li>
                 <li>NUM: 7, sept</li>
                 <li>PRON: Ceux</li>
-                <li>PROPN: Ali, Allah, DIOS, Dame, Lilly, Sherlock, Sinbad, The, Toutankhamon, dei</li>
-                <li>SYM: K, A, C, M, AA, H, criticusleblog@gmail.com, x, Ω, †</li>
+                <li>PROPN: Ali, Allah, DIOS, Lilly, NGC, Sherlock, Sinbad, The, Toutankhamon, WR</li>
+                <li>SYM: K, A, C, M, H, AA, criticusleblog@gmail.com, x, Ω, †</li>
                 <li>VERB-Fin: vit, est, suis, Aide, Arrête, Chantons, Cherchez, Devine, Ouvre, Peut</li>
-                <li>VERB-Inf: Aimer, Faire, Voler, débarrasser, laisser, monter, réussir, Économiser</li>
+                <li>VERB-Inf: Aimer, Faire, Philosopher, Voler, débarrasser, laisser, monter, réussir, Économiser</li>
                 <li>VERB-Part: Déconseillé, dit, prévu, écrit</li>
                 <li>X: B, A, GMT, s, A1, AR-18, E, K, L., Windows</li>
               </ul>
@@ -4573,6 +4570,7 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
+                <li>PROPN: Church</li>
                 <li>X: the, of, and, de, in, for, Company, a, me, live</li>
               </ul>
             </li>
@@ -5010,13 +5008,13 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB--NOUN (3)</li>
-            <li>VERB-Fin--NOUN (4046)</li>
-            <li>VERB-Fin--NOUN-ADP(de) (2)</li>
+            <li>VERB-Fin--NOUN (4053)</li>
+            <li>VERB-Fin--NOUN-ADP(de) (1)</li>
             <li>VERB-Fin--NOUN-ADP(jusque)-ADP(à) (1)</li>
             <li>VERB-Fin--PRON (5695)</li>
             <li>VERB-Inf--NOUN (53)</li>
             <li>VERB-Inf--PRON (14)</li>
-            <li>VERB-Part--NOUN (1140)</li>
+            <li>VERB-Part--NOUN (1147)</li>
             <li>VERB-Part--NOUN-ADP(de) (1)</li>
             <li>VERB-Part--PRON (1271)</li>
           </ul>
@@ -5136,8 +5134,7 @@ udver: '2'
           <ul>
             <li>VERB--NOUN (18)</li>
             <li>VERB--PRON (4)</li>
-            <li>VERB-Fin--NOUN (4861)</li>
-            <li>VERB-Fin--NOUN-ADP(de) (1)</li>
+            <li>VERB-Fin--NOUN (4872)</li>
             <li>VERB-Fin--NOUN-ADP(entre) (1)</li>
             <li>VERB-Fin--NOUN-ADP(jusque)-ADP(à) (4)</li>
             <li>VERB-Fin--PRON (1081)</li>
@@ -5145,7 +5142,7 @@ udver: '2'
             <li>VERB-Inf--NOUN-ADP(de) (1)</li>
             <li>VERB-Inf--NOUN-ADP(jusque)-ADP(à) (2)</li>
             <li>VERB-Inf--PRON (633)</li>
-            <li>VERB-Part--NOUN (1939)</li>
+            <li>VERB-Part--NOUN (1940)</li>
             <li>VERB-Part--NOUN-ADP(jusque)-ADP(à) (1)</li>
             <li>VERB-Part--PRON (351)</li>
           </ul>
@@ -5198,8 +5195,8 @@ udver: '2'
             <li>VERB-Fin--PRON-ADP(de) (1)</li>
             <li>VERB-Fin--PRON-ADP(quand) (1)</li>
             <li>VERB-Fin--PRON-ADP(que) (2)</li>
-            <li>VERB-Inf--NOUN (190)</li>
-            <li>VERB-Inf--NOUN-ADP(de) (3)</li>
+            <li>VERB-Inf--NOUN (191)</li>
+            <li>VERB-Inf--NOUN-ADP(de) (2)</li>
             <li>VERB-Inf--PRON (144)</li>
             <li>VERB-Inf--PRON-ADP(de) (1)</li>
             <li>VERB-Part--NOUN (222)</li>

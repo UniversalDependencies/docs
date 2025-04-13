@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-48 nodes (1%) are attached to their parents as `fixed`.
+49 nodes (1%) are attached to their parents as `fixed`.
 
-48 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.04166666666667.
+49 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.04081632653061.
 
-The following 11 pairs of parts of speech are connected with `fixed`: <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (31; 65% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (4; 8% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (2; 4% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
+The following 12 pairs of parts of speech are connected with `fixed`: <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (32; 65% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (3; 6% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (2; 4% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -48,7 +48,7 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 6	gur	gur	PART	_	PartType=Vb|Tense=Past	7	mark:prt	_	_
 7	ghlaoidh	glaoigh	VERB	_	Form=Len|Mood=Ind|Tense=Past	2	ccomp	_	_
 8	na	an	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
-9	coilighe	coileach	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+9	coilighe	coileach	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	7	nsubj	_	_
 10	d'	de	ADP	_	PrepForm=Cmpd	12	case	_	SpaceAfter=No
 11	eis	éis	NOUN	_	Case=Nom|Number=Sing|PrepForm=Cmpd	10	fixed	_	_
 12	meadon	meán	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	obl:tmod	_	_
@@ -59,7 +59,7 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 17	fuair	faigh	VERB	_	Mood=Ind|Tense=Past	16	acl:relcl	_	_
 18	sí	sí	PRON	_	Gender=Fem|Number=Sing|Person=3	17	nsubj	_	_
 19	a	a	DET	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	20	nmod:poss	_	_
-20	hurlabhra	urlabhra	NOUN	_	Case=Nom|Form=HPref|Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No
+20	hurlabhra	urlabhra	NOUN	_	Case=Nom|Definite=Def|Form=HPref|Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No
 21	;	;	PUNCT	_	_	24	punct	_	_
 22	agus	agus	CCONJ	_	_	24	cc	_	_
 23	annsin	ansin	ADV	_	_	24	advmod	_	_
@@ -67,7 +67,7 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 25	si	sí	PRON	_	Gender=Fem|Number=Sing|Person=3	24	nsubj	_	_
 26	luth	lúth	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	24	obj	_	_
 27	a	a	DET	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	28	nmod:poss	_	_
-28	coise	cos	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	_
+28	coise	cos	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	26	nmod	_	_
 29	noch	noch	PART	_	Form=Direct|PartType=Vb|PronType=Rel	31	nsubj	_	_
 30	do	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	29	fixed	_	_
 31	bhí	bí	VERB	_	Form=Len|Mood=Ind|Tense=Past	28	acl:relcl	_	_

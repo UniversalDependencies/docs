@@ -31,7 +31,7 @@ The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="
 7	_	_	NOUN	NN	Number=Sing	6	obj	6:obj	Entity=(6-abstract-new-cf5-1-sgl|Lem=_|Len=7
 8	_	_	ADP	IN	_	11	case	11:case	Lem=_|Len=2
 9	_	_	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	Entity=(7-abstract-new-cf7-3-sgl|Lem=_|Len=1
-10	_	_	ADJ	JJ	Degree=Pos	11	amod	11:amod	Lem=_|Len=7
+10	_	_	ADJ	JJ	Degree=Pos	11	amod	11:amod	Lem=_|Len=7|PDTB=AltLex:Expansion.Conjunction:similar:19:10-14:15-18,20
 11	_	_	NOUN	NN	Number=Sing	7	nmod	7:nmod:of|13:nsubj	Lem=_|Len=9|MSeg=situat-ion
 12	_	_	PRON	WDT	PronType=Rel	13	nsubj	11:ref	Discourse=elaboration-attribute:6->4:1:syn-mdf-20+syn-relcl-21-22|Lem=_|Len=5
 13	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	11:acl:relcl	Lem=remind|Len=8|MSeg=re-mind-ed
@@ -39,7 +39,7 @@ The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="
 15	_	_	ADP	IN	_	16	case	16:case	Lem=_|Len=2
 16	_	_	PRON	DT	Number=Sing|PronType=Dem	13	obl	13:obl:of	Entity=(1-event-giv:act-cf2*-1-ana)7)6)5)|Lem=_|Len=4|SpaceAfter=No
 17	_	_	PUNCT	,	_	19	punct	19:punct	Lem=_|Len=1
-18	_	_	CCONJ	CC	_	19	cc	19:cc	Discourse=attribution-positive:7->8:0:sem-atsrc-10,18-25+lex-indwd-28|Lem=_|Len=3
+18	_	_	CCONJ	CC	_	19	cc	19:cc	Discourse=attribution-positive:7->8:0:sem-atsrc-10,18-25+lex-indwd-28|Lem=_|Len=3|PDTB=Explicit:Expansion.Conjunction:and:27:10-26:28-40
 19	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	Lem=think|Len=7
 20	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=2|PronType=Prs	21	dep	21:dep	Discourse=joint-list_m:8->4:2:dm-and-27|Entity=(8-person-acc:com-cf3-2-sgl|Lem=_|Len=3
 21	_	_	NOUN	NNS	Number=Plur	23	nsubj	23:nsubj	Entity=8)|Lem=guy|Len=4|MSeg=guy-s

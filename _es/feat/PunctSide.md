@@ -38,4 +38,4 @@ Fin is used to indicate the closing punctuation mark in a sentence or phrase.
 * ? - ¿Cómo estás?
 * ! - ¡Hola!
 * ” - “Buenos días”
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:19 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:02 CET -->

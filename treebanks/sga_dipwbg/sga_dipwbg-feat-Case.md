@@ -9,14 +9,14 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Acc`, `Dat`, `Gen`, `Nom`.
 
-98 tokens (22%) have a non-empty value of `Case`.
-86 types (35%) occur at least once with a non-empty value of `Case`.
-76 lemmas (44%) occur at least once with a non-empty value of `Case`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> (64; 15% instances), <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (21; 5% instances), <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> (9; 2% instances), <tt><a href="sga_dipwbg-pos-PROPN.html">PROPN</a></tt> (4; 1% instances).
+100 tokens (23%) have a non-empty value of `Case`.
+88 types (36%) occur at least once with a non-empty value of `Case`.
+77 lemmas (45%) occur at least once with a non-empty value of `Case`.
+The feature is used with 5 part-of-speech tags: <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> (64; 15% instances), <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (21; 5% instances), <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> (9; 2% instances), <tt><a href="sga_dipwbg-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-64 <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+64 <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="sga_dipwbg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (53; 83%).
 
@@ -26,6 +26,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Dat` (12; 19% of non-empty `Case`): <em>precept, carcair, chorp, chuimriug, eícndarcus, formut, irbáig, nem, nícc, nóinur</em>
 * `Gen` (13; 20% of non-empty `Case`): <em>precepte, soscéli, belre, firinne, hirisse, mban, nanme, nathar, sosceli, tol</em>
 * `Nom` (12; 19% of non-empty `Case`): <em>airli, chenél, comairli, fochricc, foirbthetu, labrad, machthad, temel, thorbe, threte</em>
+* `EMPTY` (2): <em>gloria, legis</em>
 
 <table>
   <tr><th>Paradigm <i>precept</i></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
@@ -48,7 +49,13 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Nom` (15; 71% of non-empty `Case`): <em>chotarsne, adthramli, dían, essamin, foirbthi, gáitha, inse, loingthech, maith, suaignid</em>
 * `EMPTY` (2): <em>il, lia</em>
 
-`Case` seems to be **lexical feature** of `ADJ`. 100% lemmas (20) occur only with one value of `Case`.
+<table>
+  <tr><th>Paradigm <i>domundae</i></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
+  <tr><td><tt><tt><a href="sga_dipwbg-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sga_dipwbg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>domunde</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sga_dipwbg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>domunde</em></td></tr>
+</table>
+
+`Case` seems to be **lexical feature** of `ADJ`. 95% lemmas (18) occur only with one value of `Case`.
 
 ### `DET`
 
@@ -80,6 +87,18 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Acc` (1; 25% of non-empty `Case`): <em>maccidóndu</em>
 * `Gen` (1; 25% of non-empty `Case`): <em>crist</em>
 * `Nom` (2; 50% of non-empty `Case`): <em>abracham, moysi</em>
+
+### `PRON`
+
+2 <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="sga_dipwbg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="sga_dipwbg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sga_dipwbg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sga_dipwbg-feat-PronClass.html">PronClass</a></tt><tt>=EMPTY</tt> (2; 100%).
+
+`PRON` tokens may have the following values of `Case`:
+
+* `Acc` (1; 50% of non-empty `Case`): <em>són</em>
+* `Gen` (1; 50% of non-empty `Case`): <em>cáich</em>
+* `EMPTY` (66): <em>sa, si, mo, a, for, m, ar, se, t, cách</em>
 
 ## Relations with Agreement in `Case`
 

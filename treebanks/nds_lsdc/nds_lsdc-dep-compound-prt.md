@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="nds_lsdc-dep-compound.html">compound</a></tt>.
 There are also 1 other language-specific subtypes of `compound`: <tt><a href="nds_lsdc-dep-compound-redup.html">compound:redup</a></tt>.
 
-169 nodes (1%) are attached to their parents as `compound:prt`.
+170 nodes (1%) are attached to their parents as `compound:prt`.
 
-133 instances of `compound:prt` (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.24260355029586.
+134 instances of `compound:prt` (79%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.24705882352941.
 
-The following 3 pairs of parts of speech are connected with `compound:prt`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (129; 76% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (34; 20% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (6; 4% instances).
+The following 3 pairs of parts of speech are connected with `compound:prt`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (129; 76% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (35; 21% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (6; 4% instances).
 
 
 ~~~ conllu
@@ -70,7 +70,7 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 6	et	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	lemma_gml=et
 7	kleine	kleyn	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	lemma_gml=klêin
 8	wicht	wicht	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	lemma_gml=wicht
-9	et	het	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	lemma_gml=et
+9	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	lemma_gml=et
 10	stüür	stüür	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	lemma_gml=stü̂re
 11	vast	vast	ADJ	_	Degree=Pos	5	compound:prt	_	lemma_gml=vast|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	_

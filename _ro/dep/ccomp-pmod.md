@@ -11,4 +11,4 @@ A clausal prepositional object is the clausal correspondent of the prepositional
 Ne bazăm că ne veți ajuta . \n We count that us will-you help .
 ccomp:pmod(bazăm, ajuta)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:52 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:34 CET -->

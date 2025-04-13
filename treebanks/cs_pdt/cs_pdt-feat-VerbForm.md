@@ -11,7 +11,7 @@ It occurs with 5 different values: `Conv`, `Fin`, `Inf`, `Part`, `Vnoun`.
 
 51641 tokens (15%) have a non-empty value of `VerbForm`.
 15684 types (30%) occur at least once with a non-empty value of `VerbForm`.
-6202 lemmas (23%) occur at least once with a non-empty value of `VerbForm`.
+6210 lemmas (23%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 4 part-of-speech tags: <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (29219; 9% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (10753; 3% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (5919; 2% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (5750; 2% instances).
 
 ### `VERB`
@@ -55,7 +55,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 10753 <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="cs_pdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (10093; 94%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9008; 84%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8170; 76%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7844; 73%), <tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6424; 60%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=3</tt> (6003; 56%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5811; 54%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="cs_pdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (10752; 100%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9008; 84%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8170; 76%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7844; 73%), <tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6424; 60%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5811; 54%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=3</tt> (5420; 50%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
@@ -108,10 +108,6 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="cs_pdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>jsou</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td></td><td><em>jsouce</em></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>být, býti</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>bych</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>bychom</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>byste</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>by</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>je</em></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -119,12 +115,12 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 5919 <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> tokens (15% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5708; 96%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (4988; 84%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3571; 60%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3334; 56%), <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3031; 51%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5708; 96%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (4988; 84%), <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4946; 84%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3571; 60%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3334; 56%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (5919; 100% of non-empty `VerbForm`): <em>řečeno, spojených, spojené, určené, vedoucí, rozhodující, ležící, připravena, odsouzeného, ozbrojených</em>
-* `EMPTY` (34855): <em>první, další, české, nové, druhé, poslední, státní, možné, dalších, vlastní</em>
+* `EMPTY` (34848): <em>první, další, české, nové, druhé, poslední, státní, možné, dalších, vlastní</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (1776) occur only with one value of `VerbForm`.
 
@@ -132,14 +128,14 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 
 5750 <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> tokens (7% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5750; 100%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (5750; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5734; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5352; 93%).
+The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5750; 100%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (5750; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5352; 93%).
 
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Vnoun` (5750; 100% of non-empty `VerbForm`): <em>jednání, řešení, vedení, tvrzení, rozhodnutí, utkání, řízení, zařízení, opatření, prohlášení</em>
 * `EMPTY` (77423): <em>p, let, roku, korun, roce, Kč, r, strany, firmy, případě</em>
 
-`VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (1175) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (1183) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 

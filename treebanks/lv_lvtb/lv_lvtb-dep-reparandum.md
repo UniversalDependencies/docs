@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16 nodes (0%) are attached to their parents as `reparandum`.
+17 nodes (0%) are attached to their parents as `reparandum`.
 
-14 instances of `reparandum` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.5.
+14 instances of `reparandum` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.35294117647059.
 
-The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (4; 25% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (3; 19% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (3; 19% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (1; 6% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 6% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 6% instances).
+The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (4; 24% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (3; 18% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (3; 18% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (2; 12% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (2; 12% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 6% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -40,9 +40,9 @@ The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 reparandum	color:blue
-1	Tie	tas	PRON	pd3mpnn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	3	reparandum	3:reparandum	LvtbNodeId=a-p3447-p33s7w1
+1	Tie	tas	DET	pd3mpnn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	3	reparandum	3:reparandum	LvtbNodeId=a-p3447-p33s7w1
 2	pamatā	pamats	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	4	obl	4:obl:loc	LvtbNodeId=a-p3447-p33s7w2
-3	tie	tas	PRON	pd3mpnn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	4	nsubj	4:nsubj	LvtbNodeId=a-p3447-p33s7w3
+3	tie	tas	DET	pd3mpnn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	4	nsubj	4:nsubj	LvtbNodeId=a-p3447-p33s7w3
 4	nāk	nākt	VERB	vmnipi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p3447-p33s7w4
 5	no	no	ADP	spsg	_	6	case	6:case	LvtbNodeId=a-p3447-p33s7w5
 6	Krievijas	Krievija	PROPN	npfsg4	Case=Gen|Gender=Fem|Number=Sing	4	obl	4:obl:no	LvtbNodeId=a-p3447-p33s7w6|SpaceAfter=No
@@ -57,7 +57,7 @@ The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 12 reparandum	color:blue
-1	Neviens	neviens	PRON	pi0msny	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind,Neg	2	nsubj	2:nsubj	LvtbNodeId=a-p18885-p3s3w1
+1	Neviens	neviens	DET	pi0msny	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind,Neg	2	nsubj	2:nsubj	LvtbNodeId=a-p18885-p3s3w1
 2	nedodas	doties	VERB	vmyipii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Reflex=Yes|Tense=Pres|VerbForm=Fin|Voice=Act	14	ccomp	14:ccomp	LvtbNodeId=a-p18885-p3s3w2
 3	laukumā	laukums	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	2	obl	2:obl:loc	LvtbNodeId=a-p18885-p3s3w3|SpaceAfter=No
 4	,	,	PUNCT	zc	_	5	punct	5:punct	LvtbNodeId=a-p18885-p3s3w4

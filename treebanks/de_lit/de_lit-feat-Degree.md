@@ -23,7 +23,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="de_lit-pos-ADJ.html
 * `Cmp` (1; 1% of non-empty `Degree`): <em>Letztere</em>
 * `Pos` (126; 95% of non-empty `Degree`): <em>eignen, einzige, erste, ersten, einzelne, eigne, eigner, einzigen, eignes, einzelnen</em>
 * `Sup` (5; 4% of non-empty `Degree`): <em>angemessenste, greatest, größten, merkwürdigste, mißlichsten</em>
-* `EMPTY` (3335): <em>große, alten, ganze, großen, höchsten, möglich, neue, gleichsam, höchste, großer</em>
+* `EMPTY` (3343): <em>große, alten, ganze, großen, höchsten, möglich, neue, gleichsam, höchste, großer</em>
 
 <table>
   <tr><th>Paradigm <i>merkwürdig</i></th><th><tt>Pos</tt></th><th><tt>Sup</tt></th></tr>

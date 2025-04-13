@@ -68,4 +68,4 @@ conj(sani, salvi)
 * relative clauses. See [acl:relcl]().
 
 In Italian relative clauses get assigned a specific relation [acl:relcl](), a specification of <code>acl</code>. Also note that the <code>acl</code> relation contrasts with the [advcl]() relation, which is used for adverbial clauses that modify a predicate.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:29 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:12 CET -->

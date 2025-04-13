@@ -43,7 +43,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 2450 <tt><a href="aln_gps-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="aln_gps-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1439; 59%), <tt><a href="aln_gps-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1381; 56%), <tt><a href="aln_gps-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1302; 53%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="aln_gps-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1439; 59%), <tt><a href="aln_gps-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1381; 56%), <tt><a href="aln_gps-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1301; 53%).
 
 `NOUN` tokens may have the following values of `Number`:
 

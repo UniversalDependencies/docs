@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Abs` (70; 40% of non-empty `Degree`): <em>extremo, summa, extrema, maximus, proxima, proximam, proximis, summo, taeterrima, ultima</em>
 * `Cmp` (105; 60% of non-empty `Degree`): <em>amplius, maiore, melior, minus, maior, maiora, maiores, minor, minores, prior</em>
-* `EMPTY` (1958): <em>magna, publicae, publicam, magno, magnum, publica, magnam, prima, mala, p</em>
+* `EMPTY` (1957): <em>magna, publicae, publicam, magno, magnum, publica, magnam, prima, mala, p</em>
 
 <table>
   <tr><th>Paradigm <i>magnus</i></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>
@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 * `Abs` (16; 18% of non-empty `Degree`): <em>Novissime, maxime, plurimum, seuerissime, aegerrime, familiarissime, minime, minimum, parcissime, pertinacissime</em>
 * `Cmp` (73; 82% of non-empty `Degree`): <em>magis, amplius, prius, minus, diutius, potius, facilius, plus, saepius, validius</em>
-* `EMPTY` (1784): <em>ne, iam, etiam, tamen, sic, nunc, ita, modo, tum, ergo</em>
+* `EMPTY` (1760): <em>ne, iam, etiam, tamen, sic, nunc, ita, modo, tum, ergo</em>
 
 <table>
   <tr><th>Paradigm <i>parvus</i></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>
@@ -73,7 +73,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 
 * `Abs` (3; 25% of non-empty `Degree`): <em>paucissimas, paucissimis, plurima</em>
 * `Cmp` (9; 75% of non-empty `Degree`): <em>plura, Plus, pluribus, plures</em>
-* `EMPTY` (1710): <em>haec, hoc, illa, ille, illi, mea, ipse, omnia, suis, illum</em>
+* `EMPTY` (1712): <em>haec, hoc, illa, ille, illi, mea, ipse, omnia, suis, illum</em>
 
 <table>
   <tr><th>Paradigm <i>multus</i></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Galician-PUD: POS Tags: `AUX`
 
 There are 10 `AUX` lemmas (0%), 71 `AUX` types (1%) and 458 `AUX` tokens (2%).
-Out of 14 observed tags, the rank of `AUX` is: 12 in number of lemmas, 7 in number of types and 12 in number of tokens.
+Out of 15 observed tags, the rank of `AUX` is: 13 in number of lemmas, 7 in number of types and 12 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>ser, estar, poder, ter, deber, parecer, ir, deixar, querer, vir</em>
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>é</em> (<tt><a href="gl_pud-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 7.100000 (the average of all parts of speech is 1.319907).
+The form / lemma ratio of `AUX` is 7.100000 (the average of all parts of speech is 1.319483).
 
 The 1st highest number of forms (19) was observed with the lemma “ser”: <em>era, eramos, eran, foi, fora, foran, foron, fose, fosen, sendo, ser, será, sería, serían, sexa, sexan, somos, son, é</em>.
 

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Portuguese-PetroGold: POS Tags: `X`
 
-There are 101 `X` lemmas (1%), 114 `X` types (1%) and 215 `X` tokens (0%).
+There are 102 `X` lemmas (1%), 115 `X` types (1%) and 216 `X` tokens (0%).
 Out of 16 observed tags, the rank of `X` is: 7 in number of lemmas, 7 in number of types and 15 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>_, in, drill, n, flow, core, booster, pin, situ, stripe</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="pt_petrogold-po
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.128713 (the average of all parts of speech is 1.452181).
+The form / lemma ratio of `X` is 1.127451 (the average of all parts of speech is 1.452143).
 
 The 1st highest number of forms (15) was observed with the lemma “_”: <em>., /, cima, com.br/pt/, eará, escala, estrategia/plano-de-negocios-e-gestao, eórico, org, quem-somos, químicas, wikimedia, ão, ões, ’s</em>.
 
@@ -63,20 +63,20 @@ The 2nd highest number of forms (1) was observed with the lemma “.”: <em>.</
 
 The 3rd highest number of forms (1) was observed with the lemma “adsorption”: <em>adsorption</em>.
 
-`X` occurs with 2 features: <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt> (8; 4% instances), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt> (8; 4% instances)
+`X` occurs with 3 features: <tt><a href="pt_petrogold-feat-Foreign.html">Foreign</a></tt> (150; 69% instances), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt> (1; 0% instances)
 
-`X` occurs with 3 feature-value pairs: `Gender=Masc`, `Number=Plur`, `Number=Sing`
+`X` occurs with 3 feature-value pairs: `Foreign=Yes`, `Gender=Masc`, `Number=Plur`
 
 `X` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (207 tokens).
-Examples: <em>in, drill, flow, n, core, ., pin, situ, stripe, booster</em>
+The most frequent feature combination is `Foreign=Yes` (150 tokens).
+Examples: <em>drill, n, in, flow, booster, situ, core, station, balling, bit</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 14 different relations: <tt><a href="pt_petrogold-dep-flat-foreign.html">flat:foreign</a></tt> (82; 38% instances), <tt><a href="pt_petrogold-dep-nmod.html">nmod</a></tt> (73; 34% instances), <tt><a href="pt_petrogold-dep-appos.html">appos</a></tt> (18; 8% instances), <tt><a href="pt_petrogold-dep-flat.html">flat</a></tt> (15; 7% instances), <tt><a href="pt_petrogold-dep-goeswith.html">goeswith</a></tt> (9; 4% instances), <tt><a href="pt_petrogold-dep-flat-name.html">flat:name</a></tt> (4; 2% instances), <tt><a href="pt_petrogold-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="pt_petrogold-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="pt_petrogold-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="pt_petrogold-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="pt_petrogold-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="pt_petrogold-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="pt_petrogold-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances), <tt><a href="pt_petrogold-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances)
+`X` nodes are attached to their parents using 15 different relations: <tt><a href="pt_petrogold-dep-flat-foreign.html">flat:foreign</a></tt> (82; 38% instances), <tt><a href="pt_petrogold-dep-nmod.html">nmod</a></tt> (73; 34% instances), <tt><a href="pt_petrogold-dep-appos.html">appos</a></tt> (18; 8% instances), <tt><a href="pt_petrogold-dep-flat.html">flat</a></tt> (15; 7% instances), <tt><a href="pt_petrogold-dep-goeswith.html">goeswith</a></tt> (9; 4% instances), <tt><a href="pt_petrogold-dep-flat-name.html">flat:name</a></tt> (4; 2% instances), <tt><a href="pt_petrogold-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="pt_petrogold-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="pt_petrogold-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="pt_petrogold-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="pt_petrogold-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="pt_petrogold-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="pt_petrogold-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="pt_petrogold-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances), <tt><a href="pt_petrogold-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (103; 48% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (88; 41% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (10; 5% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (8; 4% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (2; 1% instances)
+Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (102; 47% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (89; 41% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (10; 5% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (9; 4% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (2; 1% instances)
 
 138 (64%) `X` nodes are leaves.
 
@@ -84,11 +84,11 @@ Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="pt_petr
 
 11 (5%) `X` nodes have two children.
 
-36 (17%) `X` nodes have three or more children.
+37 (17%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 6.
 
-Children of `X` nodes are attached using 13 different relations: <tt><a href="pt_petrogold-dep-flat-foreign.html">flat:foreign</a></tt> (81; 45% instances), <tt><a href="pt_petrogold-dep-punct.html">punct</a></tt> (47; 26% instances), <tt><a href="pt_petrogold-dep-case.html">case</a></tt> (15; 8% instances), <tt><a href="pt_petrogold-dep-nmod.html">nmod</a></tt> (13; 7% instances), <tt><a href="pt_petrogold-dep-det.html">det</a></tt> (5; 3% instances), <tt><a href="pt_petrogold-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="pt_petrogold-dep-flat.html">flat</a></tt> (4; 2% instances), <tt><a href="pt_petrogold-dep-amod.html">amod</a></tt> (3; 2% instances), <tt><a href="pt_petrogold-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="pt_petrogold-dep-cc.html">cc</a></tt> (2; 1% instances), <tt><a href="pt_petrogold-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="pt_petrogold-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="pt_petrogold-dep-nummod.html">nummod</a></tt> (1; 1% instances)
+Children of `X` nodes are attached using 13 different relations: <tt><a href="pt_petrogold-dep-flat-foreign.html">flat:foreign</a></tt> (82; 45% instances), <tt><a href="pt_petrogold-dep-punct.html">punct</a></tt> (47; 26% instances), <tt><a href="pt_petrogold-dep-case.html">case</a></tt> (15; 8% instances), <tt><a href="pt_petrogold-dep-nmod.html">nmod</a></tt> (14; 8% instances), <tt><a href="pt_petrogold-dep-det.html">det</a></tt> (6; 3% instances), <tt><a href="pt_petrogold-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="pt_petrogold-dep-flat.html">flat</a></tt> (4; 2% instances), <tt><a href="pt_petrogold-dep-amod.html">amod</a></tt> (3; 2% instances), <tt><a href="pt_petrogold-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="pt_petrogold-dep-cc.html">cc</a></tt> (2; 1% instances), <tt><a href="pt_petrogold-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="pt_petrogold-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="pt_petrogold-dep-nummod.html">nummod</a></tt> (1; 1% instances)
 
-Children of `X` nodes belong to 10 different parts of speech: <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (88; 49% instances), <tt><a href="pt_petrogold-pos-PUNCT.html">PUNCT</a></tt> (47; 26% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> (15; 8% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (11; 6% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (6; 3% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (5; 3% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="pt_petrogold-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Children of `X` nodes belong to 10 different parts of speech: <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (89; 49% instances), <tt><a href="pt_petrogold-pos-PUNCT.html">PUNCT</a></tt> (47; 26% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> (15; 8% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (12; 7% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (6; 3% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (6; 3% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="pt_petrogold-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 

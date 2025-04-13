@@ -34,7 +34,7 @@ udver: '2'
 
 * The POS tag `PART` is used for the words *ҳәа*, *уҳәа* (direct speech/quote particles).
 
-* The copula verb *а́кә-заа-ра* is tagged as `AUX`. There are no (other) auxiliary verbs in Abkhaz.
+* The copula verb *а́кә-заа-ра* is tagged as `AUX`. Other auxiliary verbs in Abkhaz are the necessitatives а́-ҟазаара and а́кәхара and the potential auxiliaries а́-лшара and а́-ҟалара.
 
 ### Features
 
@@ -68,10 +68,11 @@ The following verbal features are used:
 
 * Gender[subj], Gender[obj]: `Fem`, `Masc`, `Com`, `Neut`.
 * Gender[io], Gender[lo], Gender[ro], Gender[po], Gender[refl], Gender[cs]: `Fem`, `Masc`, `Neut`.
-* Number[subj], Number[obj], Number[io], Number[lo], Number[ro], Number[po], Number[refl], Number[cs]: `Sing`, `Plur`.
+* Number[subj], Number[obj], Number[io], Number[lo], Number[ro], Number[po], Number[refl], Number[cs]: `Sing`, `Pur`.
 * Person[subj], Person[obj], Person[io], Person[lo], Person[ro], Person[po], Person[refl], Person[cs]: `1`, `2`, `3`, `Rel`, `Rec`.
 * VerbForm: `Fin`, `NonFin`, `Vnoun`.
 * Dyn: `Yes`, `No`.
+* Subcat: `Intr`, `Tran`. transitivity of the underlying base verb; can combine with Voice, e.g., `Intr` `Cau` is a causative of an intransitive verb, `Tran` `Pass` is a passive of a transitive verb.
 * Voice: `Cau`, `Inv`, `Pass`.
 * Aspect: `Iter`.
 * Tense: `Pres`, `Aor`, `Imp`, `Past`, `Fut`, `Fut2`, `Prf`, `Pqp`, `Cnd`, `Cnd2`.
@@ -98,7 +99,7 @@ Cardinal numbers in Abkhaz can optionally be prefixed to a noun. In such cases, 
 
 ## Syntax
 
-Abkhaz is a polysynthetic, head-marking language; all core arguments (subject, direct, indirect, locational, relational objects, causee), in addition to inner reflexives and reciprocals, are cross-referenced in the verb by prefixes. The language is morphologically ergative, which is apparent from the function of the argument prefixes (e.g., the column-I prefix marks the subject in intransitive verbs, but the direct object in transitive verbs). Case-marking is lacking, but the prefixes agree in person, number, gender and animacy with their arguments.
+Abkhaz is a polysynthetic, head-marking language; all core arguments (subject, direct, indirect, locational, potential, relational objects, causee), in addition to inner reflexives and reciprocals, are cross-referenced in the verb by prefixes. The language is morphologically ergative, which is apparent from the function of the argument prefixes (e.g., the column-I prefix marks the subject in intransitive verbs, but the direct object in transitive verbs). Case-marking is lacking, but the prefixes agree in person, number, gender and animacy with their arguments.
 
 There are four argument-changing alterations a verb can undergo: passive, causative, potentialis and involuntative.
 
@@ -112,11 +113,17 @@ The involuntative, marked by *-амха-*, behaves in the same way. It describes
   * [obj:lo]() local object. 
   * [obj:ro]() relational object.
   * [obj:po]() potential object.
+  * [obj:cs]() causee object.
   * [obj:poss]() possessive object, cross-referenced by a possessive marker.
+  * [nsubj:outer]() outer nominal subject in copula constructions.
+  * [csubj:outer]() outer clausal subject in copula constructions.
+  * [csubj:quote]() direct speech clause introduced by *ҳәа* and cross-referenced by the subject marker of a speech verb
   * [ccomp:obj]() clausal complement cross-referenced by a direct object marker.
   * [ccomp:iobj]() clausal complement cross-referenced by an indirect object marker.
+  * [ccomp:poss]() clausal complement cross-referenced by a possessive marker.
   * [ccomp:quote]() direct speech clause introduced by *ҳәа* and cross-referenced by the direct object marker of a speech verb
   * [ccomp:purp]() purposive clausal complement.
+  * [xcomp:subj]() open clausal complement cross-referenced by a subject marker.
   * [xcomp:obj]() open clausal complement cross-referenced by a direct object marker.
   * [xcomp:lo]() open clausal complement cross-referenced by a local object marker.
   * [advcl:cond]() conditional adverbial clause.
@@ -126,6 +133,9 @@ The involuntative, marked by *-амха-*, behaves in the same way. It describes
   * [advcl:quote]() dependent direct speech clause introduced by *ҳәа* but not cross-referenced in the verb.
   * [advcl:seq]() sequential construction with a dependent clause headed by a verb in the past indefinite (`Past`) attached to a finite aorist.
   * [acl:relcl]() relative clause complement.
+  * [advmod:q]() interrogative adverbial modifier.
+  * [nmod:poss]() possessive nominal modifier.
+  * [nmod:quote]() nominal modifier with ҳәа marker.
   * [compound:prt]() particle compound.
   * [compound:pred]() connects two (or more) parts of a multi-word predicate.
 

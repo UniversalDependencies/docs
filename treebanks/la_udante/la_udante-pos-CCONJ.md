@@ -57,17 +57,17 @@ Examples: <em>et, sed, vel, que, sive, aut, seu, neque, Verum, at</em>
 
 `CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="la_udante-dep-cc.html">cc</a></tt> (2954; 97% instances), <tt><a href="la_udante-dep-advmod-emph.html">advmod:emph</a></tt> (75; 2% instances), <tt><a href="la_udante-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="la_udante-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="la_udante-dep-advmod-neg.html">advmod:neg</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-discourse.html">discourse</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1283; 42% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (904; 30% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (406; 13% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (159; 5% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (112; 4% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (77; 3% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (42; 1% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (17; 1% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (16; 1% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (2; 0% instances)
+Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1283; 42% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (903; 30% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (406; 13% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (160; 5% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (112; 4% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (77; 3% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (43; 1% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (17; 1% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (16; 1% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (2; 0% instances)
 
 2884 (95%) `CCONJ` nodes are leaves.
 
-132 (4%) `CCONJ` nodes have one child.
+133 (4%) `CCONJ` nodes have one child.
 
-21 (1%) `CCONJ` nodes have two children.
+20 (1%) `CCONJ` nodes have two children.
 
 The highest child degree of a `CCONJ` node is 2.
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="la_udante-dep-punct.html">punct</a></tt> (161; 93% instances), <tt><a href="la_udante-dep-fixed.html">fixed</a></tt> (13; 7% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="la_udante-dep-punct.html">punct</a></tt> (161; 93% instances), <tt><a href="la_udante-dep-fixed.html">fixed</a></tt> (12; 7% instances)
 
-Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="la_udante-pos-PUNCT.html">PUNCT</a></tt> (161; 93% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (13; 7% instances)
+Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="la_udante-pos-PUNCT.html">PUNCT</a></tt> (161; 93% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (12; 7% instances)
 

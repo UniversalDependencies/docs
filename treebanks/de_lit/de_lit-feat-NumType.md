@@ -32,7 +32,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (37; 100% of non-empty `NumType`): <em>erste, ersten, erstes, erster</em>
-* `EMPTY` (3430): <em>große, alten, ganze, großen, höchsten, möglich, neue, eignen, gleichsam, höchste</em>
+* `EMPTY` (3438): <em>große, alten, ganze, eignen, großen, höchsten, möglich, neue, gleichsam, höchste</em>
 
 ### `NUM`
 

@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>autres</em> (<tt><a href="fr_pud-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.339335 (the average of all parts of speech is 1.299853).
+The form / lemma ratio of `ADJ` is 1.339335 (the average of all parts of speech is 1.300126).
 
 The 1st highest number of forms (5) was observed with the lemma “nouveau”: <em>nouveau, nouveaux, nouvel, nouvelle, nouvelles</em>.
 

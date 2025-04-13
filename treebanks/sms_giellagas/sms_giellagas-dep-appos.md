@@ -104,7 +104,7 @@ The following 6 pairs of parts of speech are connected with `appos`: <tt><a href
 26	tueʹllj	tueʹllj	NOUN	N	Case=Gen|Number=Sing	24	obl:lmod	_	GTtags=Sg,Gen
 27	de	de	CCONJ	CC	_	30	cc	_	_
 28	teʹl	teʹl	ADV	Adv	AdvType=Tim	30	advmod:tmod	_	GTtags=Sem/Time
-29	jiâ	ij	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	30	aux:neg	_	GTtags=Neg,Ind,Pl3
+29	jiâ	ij	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg	30	aux	_	GTtags=Neg,Ind,Pl3
 30	kååʹdd	kåʹdded	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	0	root	_	GTtags=Ind,Prs,ConNeg
 31	tuu	ton	PRON	Pron	Case=Acc|Number=Sing|Person=2|PronType=Prs	30	obj	_	GTtags=Pers,Sg2,Acc|SpaceAfter=No
 32	.	.	PUNCT	PUNCT	_	30	punct	_	GTtags=RIGHT|SpaceAfter=No

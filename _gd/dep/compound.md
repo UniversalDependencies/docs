@@ -5,7 +5,7 @@ shortdef: 'compound'
 udver: '2'
 ---
 
-The `compound` relation is presently used for three constructions.
+The `compound` relation is presently used for two constructions.
 
 * Reduplicated adjectives.
 * _deug_ 'ten' at the end of a numeric phrase (numbers to the left of the noun they are counting are `nummod`.
@@ -52,9 +52,9 @@ If on the other hand there is a sequence of adjectives that aren't all the same 
 
 _fhìor sheann fhreumhan_ 'very old roots' (fp07\_007)
 ~~~ conllu
-28	fhìor	fìor	ADJ	Ar	_	29	amod	_	_
-29	sheann	seann	ADJ	Ar	_	30	amod	_	_
-30	fhreumhan	freumh	NOUN	Ncpmd	Case=Dat|Gender=Masc|Number=Plur	26	obl	_	_
+1	fhìor	fìor	ADJ	Ar	_	2	amod	_	_
+2	sheann	seann	ADJ	Ar	_	3	amod	_	_
+3	fhreumhan	freumh	NOUN	Ncpmd	Case=Dat|Gender=Masc|Number=Plur	0	root	_	_
 ~~~
 
 #### _deug_
@@ -68,4 +68,4 @@ _an naodhamh latha <b>deug</b>_  'the nineteenth day' (fp06\_001)
 
 ~~~
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:54 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:36 CET -->

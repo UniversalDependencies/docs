@@ -17,11 +17,13 @@ Note that _verbal nouns_ and _participles_ share properties of nouns and verbs i
 
 ### Examples
 
-- _աղջիկ_/_ałǰik_ ‘girl’
-- _ծառ_/_caṙ_ ‘tree’
-- _աւդ_/_awd_ ‘air’
+* աղջիկ/_ałǰik_ “girl”
+* ծառ/_caṙ_ “tree”
+* աւդ/_awd_ “air”
 
 ### References
+
+Առաքելեան, Վարագ. 2010. Գրաբարի քերականութիւն. Երևան: Վիամիր․ [Araqelian, Varag. 2010. Grammar of Grabar. Yerevan: Viamir]
 
 Jensen, Hans. 1959. Altarmenische Grammatik. Heidelberg: Winter.
 
@@ -30,4 +32,4 @@ Matzinger, Joachim. 2005. _Untersuchungen zum altarmenischen Nomen: die Flexion 
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>)
 
 Olsen, Birgit Anette. 1999. _The Noun in Biblical Armenian: Origin and Word-Formation - with special emphasis on the Indo-European heritage_. Berlin, New York: De Gruyter Mouton. https://doi.org/10.1515/9783110801989
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:38 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:23 CET -->

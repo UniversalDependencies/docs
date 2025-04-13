@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-26814 tokens (11%) have a non-empty value of `Tense`.
-3169 types (16%) occur at least once with a non-empty value of `Tense`.
-1597 lemmas (10%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (16566; 7% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (10248; 4% instances).
+26853 tokens (11%) have a non-empty value of `Tense`.
+3172 types (16%) occur at least once with a non-empty value of `Tense`.
+1598 lemmas (10%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (16601; 7% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (10252; 4% instances).
 
 ### `VERB`
 
-16566 <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> tokens (59% of all `VERB` tokens) have a non-empty value of `Tense`.
+16601 <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (13310; 80%), <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9439; 57%), <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9406; 57%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (13346; 80%), <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9475; 57%), <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9438; 57%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (8572; 52% of non-empty `Tense`): <em>had, said, made, got, called, told, used, took, attached, came</em>
-* `Pres` (7994; 48% of non-empty `Tense`): <em>have, going, has, want, need, is, are, know, think, looking</em>
-* `EMPTY` (11324): <em>have, get, know, go, do, see, take, let, make, give</em>
+* `Past` (8571; 52% of non-empty `Tense`): <em>had, said, made, got, called, told, used, took, attached, came</em>
+* `Pres` (8030; 48% of non-empty `Tense`): <em>have, going, has, want, need, is, are, know, think, looking</em>
+* `EMPTY` (11288): <em>have, get, know, go, do, see, take, let, make, give</em>
 
 <table>
   <tr><th>Paradigm <i>have</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -43,15 +43,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-10248 <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> tokens (64% of all `AUX` tokens) have a non-empty value of `Tense`.
+10252 <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> tokens (64% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9647; 94%), <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9628; 94%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7420; 72%), <tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=3</tt> (7309; 71%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9651; 94%), <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9631; 94%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7423; 72%), <tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=3</tt> (7312; 71%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Past` (2777; 27% of non-empty `Tense`): <em>was, were, been, did, had, 'd, got, where, wase, we</em>
-* `Pres` (7471; 73% of non-empty `Tense`): <em>is, are, do, have, has, 's, am, 'm, does, being</em>
-* `EMPTY` (5676): <em>be, will, can, would, could, should, may, 'll, have, do</em>
+* `Pres` (7475; 73% of non-empty `Tense`): <em>is, are, do, have, has, 's, am, 'm, does, being</em>
+* `EMPTY` (5673): <em>be, will, can, would, could, should, may, 'll, have, do</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -81,7 +81,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1237; 65%),
+<tt>VERB --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1245; 65%),
 <tt>VERB --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> AUX</tt> (12; 63%),
 <tt>AUX --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> VERB</tt> (8; 89%),
 <tt>VERB --[<tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (6; 75%),

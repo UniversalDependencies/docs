@@ -12,7 +12,7 @@ It occurs with 2 different values: `Fem`, `Masc`.
 11661 tokens (50%) have a non-empty value of `Gender`.
 4255 types (72%) occur at least once with a non-empty value of `Gender`.
 3457 lemmas (77%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (4717; 20% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (3313; 14% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1452; 6% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (709; 3% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (631; 3% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (430; 2% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (394; 2% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (15; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (4717; 20% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (3331; 14% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1452; 6% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (709; 3% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (613; 3% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (430; 2% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (394; 2% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (15; 0% instances).
 
 ### `NOUN`
 
@@ -36,14 +36,14 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `DET`
 
-3313 <tt><a href="es_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
+3331 <tt><a href="es_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2985; 90%), <tt><a href="es_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2529; 76%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2520; 76%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2985; 90%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2533; 76%), <tt><a href="es_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2529; 76%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (1337; 40% of non-empty `Gender`): <em>la, las, una, esta, muchas, todas, otra, cada, varias, estas</em>
-* `Masc` (1976; 60% of non-empty `Gender`): <em>el, los, un, este, esto, ese, cada, muchos, eso, estos</em>
+* `Fem` (1344; 40% of non-empty `Gender`): <em>la, las, una, esta, muchas, todas, otra, cada, varias, estas</em>
+* `Masc` (1987; 60% of non-empty `Gender`): <em>el, los, un, este, esto, ese, cada, muchos, eso, estos</em>
 * `EMPTY` (8): <em>The, a, That</em>
 
 <table>
@@ -91,14 +91,14 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 ### `PRON`
 
-631 <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> tokens (60% of all `PRON` tokens) have a non-empty value of `Gender`.
+613 <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> tokens (59% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="es_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (631; 100%), <tt><a href="es_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (533; 84%), <tt><a href="es_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (498; 79%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (479; 76%), <tt><a href="es_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (387; 61%), <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (380; 60%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (361; 57%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="es_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (613; 100%), <tt><a href="es_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (515; 84%), <tt><a href="es_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (480; 78%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (466; 76%), <tt><a href="es_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (387; 63%), <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (362; 59%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (361; 59%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (245; 39% of non-empty `Gender`): <em>su, que, sus, ella, la, cual, cuales, nuestra, mi, nuestras</em>
-* `Masc` (386; 61% of non-empty `Gender`): <em>que, lo, su, sus, ellos, él, cual, nuestro, los, cuales</em>
+* `Fem` (238; 39% of non-empty `Gender`): <em>su, que, sus, ella, la, cual, cuales, una, Her, las</em>
+* `Masc` (375; 61% of non-empty `Gender`): <em>que, lo, su, sus, ellos, él, cual, los, cuales, ello</em>
 * `EMPTY` (426): <em>se, le, me, les, nos, quien, yo, cuál, qué, que</em>
 
 <table>
@@ -162,10 +162,10 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> DET</tt> (2942; 100%),
+<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> DET</tt> (2960; 100%),
 <tt>NOUN --[<tt><a href="es_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1237; 100%),
 <tt>NOUN --[<tt><a href="es_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (638; 50%),
-<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> PRON</tt> (254; 100%),
+<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> PRON</tt> (236; 100%),
 <tt>NOUN --[<tt><a href="es_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (167; 64%),
 <tt>NOUN --[<tt><a href="es_pud-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (162; 100%),
 <tt>PROPN --[<tt><a href="es_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (137; 98%),

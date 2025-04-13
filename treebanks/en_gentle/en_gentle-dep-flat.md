@@ -22,17 +22,17 @@ The following 5 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 flat	color:blue
-1	Jović	Jović	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	Discourse=joint-sequence_m:78->62:0:_|Entity=(31-person-giv:inact-cf1-1-coref-Luka_Jović)|SpaceAfter=No
+1	Jović	Jović	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	Discourse=joint-sequence_m:77->61:0:_|Entity=(31-person-giv:inact-cf1-1-coref-Luka_Jović)|SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	1:punct	_
 3	turned	turn	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	MSeg=turn-ed|SpaceAfter=No
 4	,	,	PUNCT	,	_	5	punct	5:punct	_
-5	van	van	PROPN	NNP	Number=Sing	9	nsubj	9:nsubj	Discourse=context-circumstance:79->80:0:_|Entity=(32-person-giv:inact-cf2-1,2,3-coref-Donny_van_de_Beek
+5	van	van	PROPN	NNP	Number=Sing	9	nsubj	9:nsubj	Discourse=context-circumstance:78->79:0:_|Entity=(32-person-giv:inact-cf2-1,2,3-coref-Donny_van_de_Beek
 6	de	de	PROPN	NNP	Number=Sing	5	flat	5:flat	_
 7	Beek	Beek	PROPN	NNP	Number=Sing	5	flat	5:flat	Entity=32)|SpaceAfter=No
 8	,	,	PUNCT	,	_	5	punct	5:punct	_
 9	looking	look	VERB	VBG	Tense=Pres|VerbForm=Part	3	parataxis	3:parataxis	MSeg=look-ing
 10	for	for	ADP	IN	_	11	case	11:case	_
-11	something	something	PRON	NN	Number=Sing|PronType=Ind	9	obl	9:obl:for	Entity=(76-abstract-new-cf3-1-sgl)|SpaceAfter=No
+11	something	something	PRON	NN	Number=Sing|PronType=Ind	9	obl	9:obl:for	Entity=(76-abstract-new-cf3-1-sgl)|MSeg=some-thing|SpaceAfter=No
 12	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~
@@ -62,17 +62,17 @@ The following 5 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 flat	color:blue
-1	enPR	enPR	NOUN	NN	Number=Sing	3	dep	3:dep	Discourse=organization-preparation:35->36:0:_|Entity=(55-abstract-new-cf2-1-sgl)|SpaceAfter=No|XML=<ref target:::"https://en.wiktionary.org/wiki/Appendix:English_pronunciation"></ref>
+1	enPR	enPR	NOUN	NN	Number=Sing	3	dep	3:dep	Discourse=organization-preparation:35->36:0:grf-col-147|Entity=(55-abstract-new-cf2-1-sgl)|SpaceAfter=No|XML=<ref target:::"https://en.wiktionary.org/wiki/Appendix:English_pronunciation"></ref>
 2	:	:	PUNCT	:	_	1	punct	1:punct	_
 3	nĕ	nĕ	INTJ	UH	_	0	root	0:root	Discourse=joint-other_m:36->4:3:_|Entity=(56-abstract-new-cf4-1,2-sgl
 4	kst	kst	INTJ	UH	_	3	flat	3:flat	Entity=56)|SpaceAfter=No
 5	,	,	PUNCT	,	_	6	punct	6:punct	_
-6	IPA	IPA	PROPN	NNP	Number=Sing	12	dep	12:dep	Discourse=organization-preparation:37->39:0:_|Entity=(57-abstract-new-cf1-1-sgl-International_Phonetic_Alphabet)|XML=<ref target:::"https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet"></ref>
-7	(	(	PUNCT	-LRB-	_	8	punct	8:punct	Discourse=elaboration-additional:38->37:0:_|SpaceAfter=No
+6	IPA	IPA	PROPN	NNP	Number=Sing	12	dep	12:dep	Discourse=organization-preparation:37->39:0:grf-col-155|Entity=(57-abstract-new-cf1-1-sgl-International_Phonetic_Alphabet)|XML=<ref target:::"https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet"></ref>
+7	(	(	PUNCT	-LRB-	_	8	punct	8:punct	Discourse=elaboration-additional:38->37:0:grf-prn-152,154|SpaceAfter=No
 8	key	key	NOUN	NN	Number=Sing	6	parataxis	6:parataxis	Entity=(58-abstract-new-cf3-1-sgl)|SpaceAfter=No
 9	)	)	PUNCT	-RRB-	_	8	punct	8:punct	SpaceAfter=No
 10	:	:	PUNCT	:	_	6	punct	6:punct	_
-11	/	/	PUNCT	SYM	_	6	punct	6:punct	Discourse=joint-list_m:39->36:1:_
+11	/	/	PUNCT	SYM	_	6	punct	6:punct	Discourse=joint-list_m:39->36:1:grf-seq-
 12	nɛkst	nɛkst	ADJ	JJ	Degree=Pos	3	parataxis	3:parataxis	Entity=(59-abstract-new-cf5-1-sgl)
 13	/	/	PUNCT	SYM	_	3	punct	3:punct	_
 

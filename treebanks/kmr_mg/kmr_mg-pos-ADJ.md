@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>kurdî</em> (<tt><a href="kmr_mg-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.107477 (the average of all parts of speech is 1.511556).
+The form / lemma ratio of `ADJ` is 1.107477 (the average of all parts of speech is 1.510518).
 
 The 1st highest number of forms (3) was observed with the lemma “mezin”: <em>mazin, mezin, meztir</em>.
 

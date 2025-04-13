@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 4	was	be	AUX	PAST	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	cop	_	_
 5	how	how	ADV	WH	PronType=Int	10	advmod	_	_
 6	private	private	ADJ	POS	Degree=Pos	7	amod	_	_
-7	copying	copy	VERB	ING	Case=Nom	10	csubj:pass	_	_
+7	copying	copy	VERB	ING	_	10	csubj:pass	_	_
 8	should	should	AUX	PAST-AUX	VerbForm=Fin	10	aux	_	_
 9	be	be	AUX	INF	VerbForm=Inf	10	aux:pass	_	_
 10	regulated	regulate	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	3	csubj	_	_

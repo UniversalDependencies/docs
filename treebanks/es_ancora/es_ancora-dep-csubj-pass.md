@@ -58,8 +58,8 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 34	no	no	ADV	rn	Polarity=Neg	36	advmod	36:advmod	_
 35	se	él	PRON	p0000000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	36	expl:pass	36:expl:pass	_
 36	sabe	saber	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	acl:relcl	26:acl:relcl	_
-37	cuándo	cuándo	ADV	pt000000	PronType=Int	38	advmod	38:advmod	ArgTem=argM:tmp
-38	acabará	acabar	VERB	vmif3s0	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	36	csubj:pass	36:csubj:pass	SpaceAfter=No|ArgTem=arg1:pat|Entity=CESSCASTP2002040196c4)CESSCASTP2002040196c3)
+37	cuándo	cuándo	ADV	pt000000	PronType=Int	38	advmod	38:advmod	ArgTem=argM:tmp|CxnElt=38:Interrogative-WHInfo-Indirect.WHWord
+38	acabará	acabar	VERB	vmif3s0	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	36	csubj:pass	36:csubj:pass	SpaceAfter=No|ArgTem=arg1:pat|Entity=CESSCASTP2002040196c4)CESSCASTP2002040196c3)|Cxn=Interrogative-WHInfo-Indirect|CxnElt=38:Interrogative-WHInfo-Indirect.Clause
 39	.	.	PUNCT	fp	PunctType=Peri	10	punct	10:punct	_
 
 ~~~

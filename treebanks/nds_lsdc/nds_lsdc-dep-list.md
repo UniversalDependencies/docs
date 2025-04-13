@@ -29,7 +29,7 @@ The following 8 pairs of parts of speech are connected with `list`: <tt><a href=
 5	bummelantenryk	bummelantenryk	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	list	_	lemma_gml=bummelantenrîke|SpaceAfter=No
 6	:	:	PUNCT	_	_	1	punct	_	_
 7	Vöär	vöär	ADP	_	AdpType=Prep	8	case	_	lemma_gml=vȫr
-8	God	god	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	lemma_gml=got
+8	God	god	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	lemma_gml=got
 9	sint	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	13	cop	_	lemma_gml=wēsen
 10	küäning	köäning	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	lemma_gml=kȫninc
 11	un	un	CCONJ	_	_	12	cc	_	lemma_gml=unde

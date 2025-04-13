@@ -52,4 +52,4 @@ ja še tí dam halvá
 I will give you halva (a kind of a candy)
 aux (še, dam)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:45 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:27 CET -->

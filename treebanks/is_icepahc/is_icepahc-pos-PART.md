@@ -68,7 +68,7 @@ The 10 most frequent ambiguous types:  <em>að</em> (<tt><a href="is_icepahc-pos
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.125000 (the average of all parts of speech is 1.856060).
+The form / lemma ratio of `PART` is 1.125000 (the average of all parts of speech is 1.856953).
 
 The 1st highest number of forms (4) was observed with the lemma “einn”: <em>ein, einir, einu, eitt</em>.
 

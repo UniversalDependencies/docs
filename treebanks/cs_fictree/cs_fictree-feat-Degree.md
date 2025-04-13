@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-12538 tokens (8%) have a non-empty value of `Degree`.
-6068 types (22%) occur at least once with a non-empty value of `Degree`.
-3230 lemmas (24%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (9490; 6% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (3047; 2% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+13103 tokens (8%) have a non-empty value of `Degree`.
+6396 types (24%) occur at least once with a non-empty value of `Degree`.
+3379 lemmas (25%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (10055; 6% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (3047; 2% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
-9490 <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> tokens (87% of all `ADJ` tokens) have a non-empty value of `Degree`.
+10055 <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> tokens (92% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9197; 97%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7180; 76%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5560; 59%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9743; 97%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7638; 76%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5802; 58%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (261; 3% of non-empty `Degree`): <em>starší, lepší, větší, mladší, menší, vyšší, delší, horší, hezčí, silnější</em>
-* `Pos` (9043; 95% of non-empty `Degree`): <em>celý, další, jiného, poslední, malé, celé, celou, velké, vlastní, celá</em>
+* `Pos` (9608; 96% of non-empty `Degree`): <em>celý, rád, další, jiného, poslední, malé, celé, celou, velké, vlastní</em>
 * `Sup` (186; 2% of non-empty `Degree`): <em>nejlepší, největší, nejbližší, nejrychlejší, největším, nejkrásnější, nejmladší, nejbohatší, nejsladší, nejstarší</em>
-* `EMPTY` (1409): <em>první, rád, druhý, ráda, druhé, třetí, prvním, rádi, druhou, druhá</em>
+* `EMPTY` (844): <em>první, druhý, druhé, třetí, prvním, druhou, druhá, druhém, druhého, prvního</em>
 
 <table>
   <tr><th>Paradigm <i>malý</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -68,7 +68,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>malá</em></td><td></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 96% lemmas (2450) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 96% lemmas (2600) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -95,7 +95,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 1 <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1; 100%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1; 100%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `Degree`:
 
@@ -105,14 +105,14 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADJ</tt> (456; 89%),
+<tt>ADJ --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADJ</tt> (493; 92%),
 <tt>ADV --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADV</tt> (76; 83%),
-<tt>ADJ --[<tt><a href="cs_fictree-dep-amod.html">amod</a></tt>]--> ADJ</tt> (13; 76%),
-<tt>ADJ --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> ADJ</tt> (11; 92%),
+<tt>ADJ --[<tt><a href="cs_fictree-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14; 82%),
+<tt>ADJ --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> ADJ</tt> (12; 92%),
+<tt>ADJ --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (11; 85%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-dep.html">dep</a></tt>]--> ADJ</tt> (6; 67%),
-<tt>ADJ --[<tt><a href="cs_fictree-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (4; 100%),
-<tt>ADJ --[<tt><a href="cs_fictree-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (4; 67%),
-<tt>ADV --[<tt><a href="cs_fictree-dep-cc.html">cc</a></tt>]--> ADV</tt> (4; 100%),
-<tt>ADJ --[<tt><a href="cs_fictree-dep-obl.html">obl</a></tt>]--> ADJ</tt> (3; 100%),
-<tt>ADV --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> ADV</tt> (3; 60%).
+<tt>ADJ --[<tt><a href="cs_fictree-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (5; 100%),
+<tt>ADJ --[<tt><a href="cs_fictree-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (5; 83%),
+<tt>ADJ --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (4; 100%),
+<tt>ADV --[<tt><a href="cs_fictree-dep-cc.html">cc</a></tt>]--> ADV</tt> (4; 100%).
 

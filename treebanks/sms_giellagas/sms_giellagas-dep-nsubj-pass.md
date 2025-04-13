@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	što	što	SCONJ	CS	_	9	mark	_	_
 7	tueʹllj	tueʹllj	NOUN	N	Case=Acc|Number=Sing	9	nsubj:pass	_	GTtags=Sg,Acc
-8	i-ǥõl	i-ǥõl	AUX	V	_	9	aux:neg	_	_
+8	i-ǥõl	i-ǥõl	AUX	V	Polarity=Neg	9	aux	_	_
 9	kooǯǯted	kooǯǯted	VERB	V	VerbForm=Inf	4	ccomp	_	GTtags=Inf|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	14	punct	_	_
 11	kåʹddtueʹllj	kåʹddtueʹllj	NOUN	N	Case=Acc|Number=Sing	14	nsubj:pass	_	GTtags=Sg,Acc

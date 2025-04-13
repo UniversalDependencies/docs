@@ -8,14 +8,12 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#ADJ">ADJ</a></td>
   <td><a href="#ADP">ADP</a></td>
   <td><a href="#ADV">ADV</a></td>
   <td><a href="#CCONJ">CCONJ</a></td>
   <td><a href="#DET">DET</a></td>
   <td><a href="#INTJ">INTJ</a></td>
   <td><a href="#NOUN">NOUN</a></td>
-  <td><a href="#NUM">NUM</a></td>
   <td><a href="#PRON">PRON</a></td>
   <td><a href="#PROPN">PROPN</a></td>
   <td><a href="#SCONJ">SCONJ</a></td>
@@ -53,6 +51,7 @@ Multiword adpositions occur in many languages. Often they are grammaticalized pr
 #### Examples
 
 * [en] _<b>by and large</b>_ (a multiword adverb paraphrasable as “altogether”; the first node is [ADP]())
+* [de] _<b>um die 200 Euro</b>_ “around 200 euros” (_um_ = [ADP]())
 
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
 
@@ -72,6 +71,12 @@ Multiword adpositions occur in many languages. Often they are grammaticalized pr
 
 * [es] _¡<b>Por Dios</b>!_ “for God’s sake” (_por_ = `ADP`, _Dios_ = [PROPN]())
 
+### <a name="NOUN">`NOUN`</a>: noun-like expression
+
+#### Examples
+
+* [de] _<b>Letzterer</b>_ “the latter” (_Letzterer_ = [ADJ]())
+
 ### <a name="PRON">`PRON`</a>: pronoun-like expression
 
 #### Examples
@@ -90,4 +95,4 @@ Multiword adpositions occur in many languages. Often they are grammaticalized pr
 
 * [fr] _<b>bien que</b>_ “although” (_bien_ = `ADV`)
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:56 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:40 CET -->

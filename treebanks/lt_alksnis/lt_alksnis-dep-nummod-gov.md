@@ -29,7 +29,7 @@ The following 2 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 5	viso	viso	X	tęs.	Hyph=Yes	4	nmod	4:nmod	_
 6	investuos	investuoti	VERB	vksm.asm.tiesiog.būs.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	0	root	0:root	_
 7	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	8	case	8:case	_
-8	120	120	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	6	obl	6:obl:apie	_
+8	120	120	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	6	obl	6:obl:apie:acc	_
 9	milijonų	milijonas	NUM	sktv.raid.kiek.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	10	nummod:gov	10:nummod:gov	_
 10	litų	litas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	8	nmod	8:nmod:gen	SpaceAfter=No
 11	.	.	PUNCT	skyr.	_	6	punct	6:punct	_

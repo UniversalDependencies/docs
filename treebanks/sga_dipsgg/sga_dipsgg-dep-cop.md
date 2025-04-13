@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `cop`: <tt><a href="
 2	gann	gann	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
 3	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
 4	memrum	membrum	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
-5	et	_	CCONJ	_	Foreign=Yes	7	cc	_	_
+5	et	_	CCONJ	_	Foreign=Yes	7	cc	_	Lang=la
 6	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
 7	scribend	scríbend	NOUN	_	Case=Nom|Number=Sing	4	conj	_	_
 

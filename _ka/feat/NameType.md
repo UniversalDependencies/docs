@@ -34,4 +34,11 @@ The `NameType` feature applies to [proper nouns](_ka/pos/PROPN).
 #### Examples
 
 * _თბილისი_ 'Tbilisi', _მტკვარი_ 'Mtkvari' etc.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:04 CEST -->
+
+### <a name="Oth">`Oth`</a>: other names
+
+#### Examples
+
+* _გაერო_ 'UN' (United Nations) etc.
+
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:48 CET -->

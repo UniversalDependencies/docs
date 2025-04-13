@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-3877 tokens (24%) have a non-empty value of `Gender`.
-963 types (37%) occur at least once with a non-empty value of `Gender`.
-416 lemmas (43%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 5 part-of-speech tags: <tt><a href="aln_gps-pos-NOUN.html">NOUN</a></tt> (2452; 15% instances), <tt><a href="aln_gps-pos-PRON.html">PRON</a></tt> (966; 6% instances), <tt><a href="aln_gps-pos-NUM.html">NUM</a></tt> (213; 1% instances), <tt><a href="aln_gps-pos-ADJ.html">ADJ</a></tt> (149; 1% instances), <tt><a href="aln_gps-pos-DET.html">DET</a></tt> (97; 1% instances).
+3876 tokens (24%) have a non-empty value of `Gender`.
+962 types (37%) occur at least once with a non-empty value of `Gender`.
+415 lemmas (43%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 5 part-of-speech tags: <tt><a href="aln_gps-pos-NOUN.html">NOUN</a></tt> (2451; 15% instances), <tt><a href="aln_gps-pos-PRON.html">PRON</a></tt> (966; 6% instances), <tt><a href="aln_gps-pos-NUM.html">NUM</a></tt> (213; 1% instances), <tt><a href="aln_gps-pos-ADJ.html">ADJ</a></tt> (149; 1% instances), <tt><a href="aln_gps-pos-DET.html">DET</a></tt> (97; 1% instances).
 
 ### `NOUN`
 
-2452 <tt><a href="aln_gps-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
+2451 <tt><a href="aln_gps-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="aln_gps-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1753; 71%), <tt><a href="aln_gps-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1383; 56%), <tt><a href="aln_gps-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1304; 53%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="aln_gps-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1752; 71%), <tt><a href="aln_gps-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1383; 56%), <tt><a href="aln_gps-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1303; 53%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (1441; 59% of non-empty `Gender`): <em>da:rdha, dardha, dardhat, da:rdhat, korp, dardh, bicikell, dardha:, tok, dardha:t</em>
-* `Masc` (1011; 41% of non-empty `Gender`): <em>djem, djali, djal, djemt, njeri, kapuqin, burr, bujk, burri, fmi:</em>
-* `EMPTY` (21): <em>birne, kappe, baum, belo:nig, bode, djali, fi:lmi, jungs, koh, korbe</em>
+* `Masc` (1010; 41% of non-empty `Gender`): <em>djem, djali, djal, djemt, njeri, kapuqin, burr, bujk, burri, fmi:</em>
+* `EMPTY` (22): <em>birne, kappe, baum, belo:nig, bode, cowboy, djali, fi:lmi, jungs, koh</em>
 
 <table>
   <tr><th>Paradigm <i>dardhë</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -138,7 +138,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="aln_gps-dep-det.html">det</a></tt>]--> PRON</tt> (400; 76%),
 <tt>NOUN --[<tt><a href="aln_gps-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (134; 55%),
-<tt>NOUN --[<tt><a href="aln_gps-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (118; 51%),
+<tt>NOUN --[<tt><a href="aln_gps-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (117; 51%),
 <tt>NOUN --[<tt><a href="aln_gps-dep-amod.html">amod</a></tt>]--> ADJ</tt> (100; 78%),
 <tt>ADJ --[<tt><a href="aln_gps-dep-det.html">det</a></tt>]--> DET</tt> (46; 57%),
 <tt>NOUN --[<tt><a href="aln_gps-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (35; 85%),

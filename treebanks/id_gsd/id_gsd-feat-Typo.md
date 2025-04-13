@@ -84,7 +84,7 @@ The most frequent other feature values with which `NUM` and `Typo` co-occurred: 
 
 ### `X`
 
-2 <tt><a href="id_gsd-pos-X.html">X</a></tt> tokens (2% of all `X` tokens) have a non-empty value of `Typo`.
+2 <tt><a href="id_gsd-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Typo`.
 
 The most frequent other feature values with which `X` and `Typo` co-occurred: <tt><a href="id_gsd-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (2; 100%).
 

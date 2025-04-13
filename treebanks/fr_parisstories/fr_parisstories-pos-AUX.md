@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_parisstorie
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 9.500000 (the average of all parts of speech is 1.332953).
+The form / lemma ratio of `AUX` is 9.500000 (the average of all parts of speech is 1.332572).
 
 The 1st highest number of forms (20) was observed with the lemma “être”: <em>es, est, sera, seraient, serait, soient, sois, soit, sommes, sont, soyez, suis, étaient, étais, était, étiez, été, êtes, êtez, être</em>.
 

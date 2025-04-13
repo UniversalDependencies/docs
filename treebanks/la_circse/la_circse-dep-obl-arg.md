@@ -45,7 +45,7 @@ The following 22 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 2	cogis	cogo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
 3	acta	actum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	1	obj	_	LiLaflcat=n2
 4	securae	securus	ADJ	C1	Case=Dat|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	7	amod	_	LiLaflcat=n6
-5	quoque	quoque	ADV	M	Degree=Pos	7	advmod:emph	_	LiLaflcat=i
+5	quoque	quoque	PART	M	Form=Emp	7	advmod:emph	_	LiLaflcat=i
 6	horrenda	horrendus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	3	amod	_	LiLaflcat=n6
 7	menti	mens	NOUN	A3	Case=Dat|Gender=Fem|InflClass=IndEurI|Number=Sing	6	obl:arg	_	LiLaflcat=n3
 

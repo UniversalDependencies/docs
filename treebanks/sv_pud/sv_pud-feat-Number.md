@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-6669 tokens (35%) have a non-empty value of `Number`.
-3434 types (55%) occur at least once with a non-empty value of `Number`.
-2706 lemmas (54%) occur at least once with a non-empty value of `Number`.
-The feature is used with 6 part-of-speech tags: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (3941; 21% instances), <tt><a href="sv_pud-pos-DET.html">DET</a></tt> (996; 5% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (878; 5% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (836; 4% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances).
+6672 tokens (35%) have a non-empty value of `Number`.
+3435 types (56%) occur at least once with a non-empty value of `Number`.
+2707 lemmas (54%) occur at least once with a non-empty value of `Number`.
+The feature is used with 6 part-of-speech tags: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (3941; 21% instances), <tt><a href="sv_pud-pos-DET.html">DET</a></tt> (996; 5% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (878; 5% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (839; 4% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 996 <tt><a href="sv_pud-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (577; 58%), <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (568; 57%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (504; 51%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (576; 58%), <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (568; 57%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (504; 51%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -61,8 +61,8 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (210; 24% of non-empty `Number`): <em>de, sina, vi, dem, vilka, oss, alla, dessa, många, andra</em>
-* `Sing` (668; 76% of non-empty `Number`): <em>det, han, jag, sin, hon, den, detta, honom, sitt, vad</em>
-* `EMPTY` (441): <em>som, sig, hans, dess, deras, hennes, vars, 'Ya, Me, My</em>
+* `Sing` (668; 76% of non-empty `Number`): <em>det, han, jag, sin, den, hon, detta, honom, sitt, vad</em>
+* `EMPTY` (442): <em>som, sig, hans, dess, deras, hennes, vars, 'Ya, Me, My</em>
 
 <table>
   <tr><th>Paradigm <i>sin</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -73,15 +73,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `ADJ`
 
-836 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (53% of all `ADJ` tokens) have a non-empty value of `Number`.
+839 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (53% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (833; 100%), <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (833; 100%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (782; 94%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (703; 84%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (703; 84%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (836; 100%), <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (832; 99%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (785; 94%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (706; 84%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (706; 84%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (318; 38% of non-empty `Number`): <em>andra, flera, nya, stora, fler, vissa, inhemska, små, amerikanska, brittiska</em>
-* `Sing` (518; 62% of non-empty `Number`): <em>stor, lång, direkt, egen, ensam, hög, liten, modern, politisk, annat</em>
-* `EMPTY` (733): <em>första, många, hela, senaste, samma, sista, andra, högsta, olika, nya</em>
+* `Sing` (521; 62% of non-empty `Number`): <em>stor, lång, direkt, egen, ensam, hög, liten, modern, politisk, annat</em>
+* `EMPTY` (734): <em>första, många, hela, senaste, samma, sista, andra, högsta, olika, nya</em>
 
 <table>
   <tr><th>Paradigm <i>stor</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -118,14 +118,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="sv_pud-dep-det.html">det</a></tt>]--> DET</tt> (929; 98%),
-<tt>NOUN --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (387; 60%),
-<tt>NOUN --[<tt><a href="sv_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (178; 75%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-det.html">det</a></tt>]--> DET</tt> (931; 98%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (400; 60%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (177; 75%),
 <tt>NOUN --[<tt><a href="sv_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (83; 75%),
 <tt>ADJ --[<tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (48; 81%),
 <tt>NOUN --[<tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (39; 80%),
-<tt>NOUN --[<tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (35; 57%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (35; 58%),
 <tt>ADJ --[<tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (33; 70%),
-<tt>NOUN --[<tt><a href="sv_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (25; 68%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (29; 67%),
 <tt>NOUN --[<tt><a href="sv_pud-dep-appos.html">appos</a></tt>]--> NOUN</tt> (22; 73%).
 

@@ -26,9 +26,9 @@ The following 12 pairs of parts of speech are connected with `advmod`: <tt><a hr
 1	Весиг	весиг	PART	Pcle	_	5	advmod	_	_
 2	юсянь	ю	NOUN	N	Case=Egr|Number=Sing	4	obl:lmod	_	_
 3	неуна	неуна	ADV	Adv	Polarity=Neg	4	advmod	_	_
-4	локтысь	локны	VERB	V	Case=Nom|Derivation=NomAg|Number=Sing	5	acl	_	_
+4	локтысь	локны	VERB	V	Case=Nom|Nomzr=Ag|Number=Sing	5	acl	_	_
 5	ыркыдыс	ыркыд	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	nsubj	_	_
-6	эз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Past	7	aux:neg	_	_
+6	эз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Past	7	aux	_	_
 7	кокньӧд	кокньӧдны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	7	punct	_	_
 
@@ -62,7 +62,7 @@ The following 12 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 4 1 advmod	color:blue
 1	Весиг	весиг	PART	Pcle	_	4	advmod	_	_
 2	бӧжсӧ	бӧж	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obj	_	_
-3	эз	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Past	4	aux:neg	_	_
+3	эз	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Past	4	aux	_	_
 4	петкӧдлы	петкӧдлыны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 

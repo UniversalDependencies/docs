@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Ind`.
 
-1570 tokens (7%) have a non-empty value of `Mood`.
-499 types (9%) occur at least once with a non-empty value of `Mood`.
-370 lemmas (8%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (870; 4% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (699; 3% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+1569 tokens (7%) have a non-empty value of `Mood`.
+498 types (9%) occur at least once with a non-empty value of `Mood`.
+369 lemmas (8%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (870; 4% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (699; 3% instances).
 
 ### `VERB`
 
@@ -37,17 +37,6 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 * `Ind` (699; 100% of non-empty `Mood`): <em>was, is, are, were, has, had, have, 's, did, do</em>
 * `EMPTY` (316): <em>be, been, would, will, can, could, being, have, may, having</em>
-
-### `NOUN`
-
-1 <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Mood`.
-
-The most frequent other feature values with which `NOUN` and `Mood` co-occurred: <tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`NOUN` tokens may have the following values of `Mood`:
-
-* `Ind` (1; 100% of non-empty `Mood`): <em>hit</em>
-* `EMPTY` (4032): <em>time, people, years, year, government, city, state, century, world, day</em>
 
 ## Relations with Agreement in `Mood`
 

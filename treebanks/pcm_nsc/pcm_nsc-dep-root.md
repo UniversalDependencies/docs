@@ -11,7 +11,7 @@ This relation is universal.
 9241 nodes (7%) are attached to their parents as `root`.
 
 9241 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.75651985715832.
+Average distance between parent and child is 6.7564116437615.
 
 The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (6302; 68% instances), -<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (917; 10% instances), -<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (447; 5% instances), -<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (415; 4% instances), -<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (415; 4% instances), -<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (270; 3% instances), -<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (143; 2% instances), -<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (134; 1% instances), -<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (75; 1% instances), -<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (54; 1% instances), -<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (41; 0% instances), -<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (12; 0% instances), -<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), -<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (5; 0% instances).
 

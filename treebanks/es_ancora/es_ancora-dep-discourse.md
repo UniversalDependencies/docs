@@ -36,7 +36,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 12	si	si	SCONJ	cs	_	15	mark	15:mark	_
 13	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	15	obl:arg	15:obl:arg	ArgTem=arg2:ben|Entity=(CESSCASTP20001001136c1-person-1-CorefType:ident,gstype:spec)
 14	hubiera	haber	AUX	vasi3s0	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	aux	15:aux	_
-15	hecho	hacer	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	28	advcl	28:advcl	_
+15	hecho	hacer	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	28	advcl	28:advcl	CxnElt=28:Conditional-NegativeEpistemic.Protasis@f
 16	poner	poner	VERB	vmn0000	VerbForm=Inf	15	xcomp	15:xcomp	ArgTem=arg1:pat|Entity=(CESSCASTP20001001136c8--1
 17	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	18:det	Entity=(NOCOREF:Gen--2-gstype:gen
 18	cabeza	cabeza	NOUN	ncfs000	Gender=Fem|Number=Sing	16	obj	16:obj	ArgTem=arg1:pat|Entity=NOCOREF:Gen)
@@ -49,7 +49,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 25	elefante	elefante	NOUN	ncms000	Gender=Masc|Number=Sing	22	nmod	22:nmod	Entity=NOCOREF:Gen)NOCOREF:Gen)CESSCASTP20001001136c8)
 26	lo	él	PRON	pp3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	28	obj	28:obj	ArgTem=arg1:pat|Entity=(CESSCASTP20001001136c8--1-CorefType:dx.token)
 27	habría	haber	AUX	vaic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	28	aux	28:aux	_
-28	hecho	hacer	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	conj	10:conj	SpaceAfter=No
+28	hecho	hacer	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	conj	10:conj	SpaceAfter=No|Cxn=Conditional-NegativeEpistemic|CxnElt=28:Conditional-NegativeEpistemic.Apodosis@p
 29	.	.	PUNCT	fp	PunctType=Peri	3	punct	3:punct	_
 
 ~~~
@@ -131,7 +131,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 13	portada	portada	NOUN	ncfs000	Gender=Fem|Number=Sing	10	obj	10:obj	ArgTem=arg1:pat
 14	de	de	ADP	spcms	_	16	case	16:case	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	16:det	_
-16	2002	2002	NOUN	_	AdvType=Tim	13	nmod	13:nmod	Entity=(NOCOREF:Spec.date-time-1-gstype:spec)NOCOREF:Gen)
+16	2002	2002	NOUN	_	_	13	nmod	13:nmod	Entity=(NOCOREF:Spec.date-time-1-gstype:spec)NOCOREF:Gen)
 17	con	con	ADP	sps00	_	22	case	22:case	_
 18	"	"	PUNCT	fe	PunctType=Quot	22	punct	22:punct	SpaceAfter=No|Entity=(NOCOREF:Spec.other-other-5-gstype:spec
 19	El	el	DET	np00000	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	20:det	MWE=El_euro_ha_nacido_y_,_gracias_a_Dios_,_el_Reino_Unido_no_forma_parte_de_él|MWEPOS=PROPN|ArgTem=argM:adv
@@ -139,11 +139,11 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 21	ha	haber	AUX	_	VerbForm=Fin	22	aux	22:aux	_
 22	nacido	nacido	VERB	_	VerbForm=Fin	10	parataxis	10:parataxis	_
 23	y	y	CCONJ	_	_	33	cc	33:cc	SpaceAfter=No
-24	,	,	PUNCT	_	_	25	punct	25:punct	_
+24	,	,	PUNCT	_	PunctType=Comm	25	punct	25:punct	_
 25	gracias	gracias	INTJ	_	_	33	discourse	33:discourse	_
 26	a	a	ADP	_	_	27	case	27:case	_
 27	Dios	dios	PROPN	_	_	25	obl:arg	25:obl:arg	SpaceAfter=No
-28	,	,	PUNCT	_	_	25	punct	25:punct	_
+28	,	,	PUNCT	_	PunctType=Comm	25	punct	25:punct	_
 29	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	30:det	_
 30	Reino	reino	PROPN	_	_	33	nsubj	33:nsubj	_
 31	Unido	unido	PROPN	_	_	30	flat	30:flat	_

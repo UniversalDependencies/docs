@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2817 nodes (1%) are attached to their parents as `xcomp`.
+2927 nodes (1%) are attached to their parents as `xcomp`.
 
-2457 instances of `xcomp` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.24707135250266.
+2565 instances of `xcomp` (88%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.24598565083703.
 
-The following 14 pairs of parts of speech are connected with `xcomp`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (2228; 79% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (230; 8% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (216; 8% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (75; 3% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (17; 1% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `xcomp`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (2294; 78% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (237; 8% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (232; 8% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (78; 3% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (23; 1% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (17; 1% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,24 +27,6 @@ The following 14 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 3	a	_	ADP	PRE	_	4	mark	_	XmlId=w_58_01186
 4	penser	_	VERB	VERinf	VerbForm=Inf	2	xcomp	_	SpaceAfter=No|XmlId=w_58_01187
 5	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_58_01188
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 xcomp	color:blue
-1	Li	_	DET	DETdef	Definite=Def|PronType=Art	2	det	_	XmlId=w_58_01191
-2	empereres	_	NOUN	NOMcom	_	4	nsubj	_	XmlId=w_58_01192
-3	en	_	ADV	PROadv	PronType=Dem	4	obl:advmod	_	XmlId=w_58_01193
-4	tint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01194
-5	sun	_	DET	DETpos	Poss=Yes	6	det	_	XmlId=w_58_01195
-6	chef	_	NOUN	NOMcom	_	4	obj	_	XmlId=w_58_01196
-7	enclin	_	ADJ	ADJqua	_	4	xcomp	_	SpaceAfter=No|XmlId=w_58_01197
-8	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_58_01198
 
 ~~~
 
@@ -67,6 +49,24 @@ The following 14 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 10	dunet	_	VERB	VERcjg	VerbForm=Fin	8	acl:relcl	_	XmlId=w_273_0539
 11	bon	_	ADJ	ADJqua	_	12	amod	_	XmlId=w_273_0540
 12	cunseil	_	NOUN	NOMcom	_	10	obj	_	XmlId=w_273_0541
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 xcomp	color:blue
+1	Li	_	DET	DETdef	Definite=Def|PronType=Art	2	det	_	XmlId=w_58_01191
+2	empereres	_	NOUN	NOMcom	_	4	nsubj	_	XmlId=w_58_01192
+3	en	_	ADV	PROadv	PronType=Dem	4	obl:advmod	_	XmlId=w_58_01193
+4	tint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01194
+5	sun	_	DET	DETpos	Poss=Yes	6	det	_	XmlId=w_58_01195
+6	chef	_	NOUN	NOMcom	_	4	obj	_	XmlId=w_58_01196
+7	enclin	_	ADJ	ADJqua	_	4	xcomp	_	SpaceAfter=No|XmlId=w_58_01197
+8	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_58_01198
 
 ~~~
 

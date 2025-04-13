@@ -30,7 +30,7 @@ The following 24 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 6	amigas	amiga	NOUN	_	Gender=Fem|Number=Plur	3	obl:arg	_	_
 7	que	que	SCONJ	_	_	8	mark	_	_
 8	vayan	ir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	3	punct	_	_
+9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -49,7 +49,7 @@ The following 24 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 6	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
 7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	verosímil	verosímil	ADJ	_	Number=Sing	2	ccomp	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	_	_
+9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -72,7 +72,7 @@ The following 24 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 10	de	de	ADP	_	_	12	case	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	Ecuador	ecuador	PROPN	_	_	9	nmod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	4	punct	_	_
+13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 ~~~
 

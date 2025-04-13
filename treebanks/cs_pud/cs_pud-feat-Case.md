@@ -11,14 +11,14 @@ It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Vo
 
 10488 tokens (56%) have a non-empty value of `Case`.
 5471 types (72%) occur at least once with a non-empty value of `Case`.
-3573 lemmas (67%) occur at least once with a non-empty value of `Case`.
+3574 lemmas (67%) occur at least once with a non-empty value of `Case`.
 The feature is used with 7 part-of-speech tags: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (4316; 23% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (2010; 11% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (1833; 10% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (877; 5% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (738; 4% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (574; 3% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (140; 1% instances).
 
 ### `NOUN`
 
 4316 <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> tokens (96% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4308; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3083; 71%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2408; 56%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3083; 71%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2408; 56%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 2010 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (89% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1841; 92%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1800; 90%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1800; 90%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1749; 87%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1347; 67%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1197; 60%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1841; 92%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1800; 90%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1800; 90%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1750; 87%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1347; 67%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1197; 60%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -97,12 +97,12 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 877 <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> tokens (80% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (877; 100%), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (841; 96%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (817; 93%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (590; 67%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (446; 51%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (841; 96%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (817; 93%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (590; 67%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (446; 51%).
 
 `PROPN` tokens may have the following values of `Case`:
 
 * `Acc` (69; 8% of non-empty `Case`): <em>Německo, Richarda, Trumpa, Abakumova, Aljašku, Alvareze, Andre, Anglii, Annu, Antarktidu</em>
-* `Dat` (31; 4% of non-empty `Case`): <em>Evropě, Itálii, Roně, Rusku, Andymu, Benoîtovi, Britům, Churchillovi, Disneyovi, Francii</em>
+* `Dat` (31; 4% of non-empty `Case`): <em>Evropě, Itálii, Mundu, Roně, Rusku, Andymu, Benoîtovi, Britům, Churchillovi, Disneyovi</em>
 * `Gen` (177; 20% of non-empty `Case`): <em>Clintonové, Albánie, Ameriky, Afriky, Burgoyna, Disneyho, Donalda, Duffyho, Egypta, Francie</em>
 * `Ins` (70; 8% of non-empty `Case`): <em>Albánií, Bogdgegénem, Kristem, Markem, Alvarezem, Anglií, Asií, Averym, Benátkami, Brantem</em>
 * `Loc` (93; 11% of non-empty `Case`): <em>Británii, Asii, Africe, Americe, Evropě, Facebooku, Glasgow, Itálii, Norsku, Papui</em>

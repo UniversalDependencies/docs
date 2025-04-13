@@ -9,34 +9,34 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-2664 tokens (3%) have a non-empty value of `Poss`.
-61 types (1%) occur at least once with a non-empty value of `Poss`.
+4704 tokens (4%) have a non-empty value of `Poss`.
+65 types (1%) occur at least once with a non-empty value of `Poss`.
 23 lemmas (0%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 2 part-of-speech tags: <tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1393; 2% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt> (1271; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="it_old-pos-PRON.html">PRON</a></tt> (2605; 2% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt> (2099; 2% instances).
 
 ### `PRON`
 
-1393 <tt><a href="it_old-pos-PRON.html">PRON</a></tt> tokens (14% of all `PRON` tokens) have a non-empty value of `Poss`.
+2605 <tt><a href="it_old-pos-PRON.html">PRON</a></tt> tokens (18% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="it_old-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1393; 100%), <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1369; 98%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1367; 98%), <tt><a href="it_old-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1248; 90%), <tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=1</tt> (1024; 74%), <tt><a href="it_old-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (786; 56%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="it_old-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2605; 100%), <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2568; 99%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2566; 99%), <tt><a href="it_old-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2272; 87%), <tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=1</tt> (1816; 70%), <tt><a href="it_old-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (1512; 58%).
 
 `PRON` tokens may have the following values of `Poss`:
 
-* `Yes` (1393; 100% of non-empty `Poss`): <em>io, mi, me, ti, tu, m', i', te, t', ei</em>
-* `EMPTY` (8244): <em>che, si, io, mi, ch', tu, noi, s', ne, lui</em>
+* `Yes` (2605; 100% of non-empty `Poss`): <em>io, mi, tu, ti, me, m', te, i', sé, t'</em>
+* `EMPTY` (11584): <em>che, si, ch', io, mi, s', noi, lui, ne, tu</em>
 
-`Poss` seems to be **lexical feature** of `PRON`. 100% lemmas (21) occur only with one value of `Poss`.
+`Poss` seems to be **lexical feature** of `PRON`. 100% lemmas (22) occur only with one value of `Poss`.
 
 ### `DET`
 
-1271 <tt><a href="it_old-pos-DET.html">DET</a></tt> tokens (13% of all `DET` tokens) have a non-empty value of `Poss`.
+2099 <tt><a href="it_old-pos-DET.html">DET</a></tt> tokens (14% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="it_old-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1271; 100%), <tt><a href="it_old-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1271; 100%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (913; 72%), <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (660; 52%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="it_old-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2099; 100%), <tt><a href="it_old-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2099; 100%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1557; 74%), <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1071; 51%).
 
 `DET` tokens may have the following values of `Poss`:
 
-* `Yes` (1271; 100% of non-empty `Poss`): <em>mio, sua, suo, mia, lor, tua, tuo, sue, suoi, miei</em>
-* `EMPTY` (8448): <em>il, la, l', 'l, le, li, lo, un, i, una</em>
+* `Yes` (2099; 100% of non-empty `Poss`): <em>mio, sua, suo, mia, lor, tua, tuo, sue, miei, suoi</em>
+* `EMPTY` (12870): <em>il, la, l', 'l, le, li, lo, un, i, quel</em>
 
 ## Relations with Agreement in `Poss`
 

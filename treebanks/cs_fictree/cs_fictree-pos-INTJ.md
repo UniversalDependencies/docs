@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>Cože</em> (<tt><a href="cs_fictree-p
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.028571 (the average of all parts of speech is 1.970842).
+The form / lemma ratio of `INTJ` is 1.028571 (the average of all parts of speech is 1.968999).
 
 The 1st highest number of forms (2) was observed with the lemma “cože”: <em>COŽE, Cože</em>.
 

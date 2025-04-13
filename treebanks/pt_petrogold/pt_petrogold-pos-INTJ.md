@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>Q</em> (<tt><a href="pt_petrogold-pos
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.452181).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.452143).
 
 The 1st highest number of forms (1) was observed with the lemma “q”: <em>Q</em>.
 

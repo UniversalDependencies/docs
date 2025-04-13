@@ -29,7 +29,7 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 5	bárr	barr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	case	_	_
 6	ar	ar	ADP	_	_	5	fixed	_	_
 7	sheachtmhoghad	seachtó	NUM	_	Form=Len|NumType=Card	8	nummod	_	_
-8	bliaghan	bliain	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	parataxis	_	_
+8	bliaghan	bliain	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	1	parataxis	_	_
 9	long	long	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	16	dislocated	_	_
 10	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	anma	anam	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	_
@@ -64,14 +64,14 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 9	cé	cé	SCONJ	_	_	11	mark	_	_
 10	gur	is	AUX	_	Tense=Past|VerbForm=Cop	11	cop	_	_
 11	mhór	mór	ADJ	_	Degree=Pos|Form=Len	18	advcl	_	_
-12	a	a	ADP	_	Number=Sing|Person=3|Poss=Yes	13	nmod:poss	_	_
+12	a	a	ADP	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	13	nmod:poss	_	_
 13	mhes	meas	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	11	nsubj	_	_
 14	's	agus	CCONJ	_	_	16	cc	_	_
-15	a	a	DET	_	Number=Sing|Person=3|Poss=Yes	16	nmod:poss	_	_
+15	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	16	nmod:poss	_	_
 16	roinert	neart	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	conj	_	_
 17	nír	is	AUX	_	Polarity=Neg|Tense=Past|VerbForm=Cop	18	cop	_	_
 18	chian	cian	NOUN	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	0	root	_	_
-19	a	a	DET	_	Number=Sing|Person=3|Poss=Yes	20	nmod:poss	_	_
+19	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	20	nmod:poss	_	_
 20	ré	ré	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	18	nsubj	_	_
 21	ó	ó	ADP	_	_	23	case	_	_
 22	d	do	DET	_	Number=Sing|Person=2|Poss=Yes	23	nmod:poss	_	_

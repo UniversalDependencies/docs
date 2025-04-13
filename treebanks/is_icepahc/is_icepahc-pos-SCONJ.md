@@ -83,7 +83,7 @@ The 10 most frequent ambiguous types:  <em>að</em> (<tt><a href="is_icepahc-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.733333 (the average of all parts of speech is 1.856060).
+The form / lemma ratio of `SCONJ` is 1.733333 (the average of all parts of speech is 1.856953).
 
 The 1st highest number of forms (15) was observed with the lemma “hver”: <em>hver, hverja, hverjar, hverjir, hverju, hverjum, hvern, hvers, hvert, hvör, hvörja, hvörju, hvörjum, hvörn, hvörri</em>.
 

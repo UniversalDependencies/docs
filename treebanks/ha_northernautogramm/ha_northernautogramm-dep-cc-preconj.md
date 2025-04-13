@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ha_northernautogramm-dep-cc.html">cc</a></tt>.
 
-3 nodes (0%) are attached to their parents as `cc:preconj`.
+4 nodes (0%) are attached to their parents as `cc:preconj`.
 
-3 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
+4 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-CCONJ.html">CCONJ</a></tt> (1; 33% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-CCONJ.html">CCONJ</a></tt> (1; 33% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-CCONJ.html">CCONJ</a></tt> (1; 33% instances).
+The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-CCONJ.html">CCONJ</a></tt> (2; 50% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-CCONJ.html">CCONJ</a></tt> (1; 25% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-CCONJ.html">CCONJ</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
@@ -25,22 +25,22 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 1	dà	dà	CCONJ	_	_	2	cc:preconj	_	AlignBegin=85448|AlignEnd=85720|Gloss=and
 2	saːnìyaː	saːnìyaː	NOUN	_	Gender=Fem	20	dislocated	_	AlignBegin=85720|AlignEnd=85992|Gloss=cow.Fem
 3	|c	|c	PUNCT	_	_	2	punct	_	AlignBegin=85992|AlignEnd=86264|Gloss=PUNCT
-4	dà	dà	CCONJ	_	_	6	cc	_	AlignBegin=86264|AlignEnd=86536|Gloss=and
-5	mài	mài	PART	_	Number=Sing	6	mark	_	AlignBegin=86536|AlignEnd=86808|Gloss=owner_of.Sing
-6	taːs'àt	taːs'-	VERB	_	Definite=Cons|Gender=Fem|VerbForm=Vnoun	2	conj	_	AlignBegin=86808|AlignEnd=87080|Gloss=milk.Vnoun.Fem.Cons
-7	=ta	=ta	PRON	_	ExtPos=NOUN|Gender=Fem|Person=3|PronType=Prs	6	obl	_	AlignBegin=86808|AlignEnd=87080|Gloss=3Fem.Gen
-8	|c	|c	PUNCT	_	_	6	punct	_	AlignBegin=87080|AlignEnd=87352|Gloss=PUNCT
+4	dà	dà	CCONJ	_	_	5	cc	_	AlignBegin=86264|AlignEnd=86536|Gloss=and
+5	mài	mài	PART	_	Number=Sing	2	conj	_	AlignBegin=86536|AlignEnd=86808|Gloss=owner_of.Sing
+6	taːs'àt	taːs'-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	compound	_	AlignBegin=86808|AlignEnd=87080|Gloss=milk.Vnoun.Fem
+7	=ta	=ta	PRON	_	ExtPos=NOUN|Gender=Fem|Person=3|PronType=Prs	6	nmod	_	AlignBegin=86808|AlignEnd=87080|Gloss=3Fem.Gen
+8	|c	|c	PUNCT	_	_	5	punct	_	AlignBegin=87080|AlignEnd=87352|Gloss=PUNCT
 9	dà	dà	CCONJ	_	_	10	cc	_	AlignBegin=87352|AlignEnd=87624|Gloss=and
 10	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	2	conj	_	AlignBegin=87624|AlignEnd=87896|Gloss=child.Masc.Cons
 11	=tà	=tà	PRON	_	Gender=Fem|Person=3|PronType=Prs	10	nmod	_	AlignBegin=87624|AlignEnd=87896|Gloss=3Fem.Gen
-12	dà	dà	SCONJ	_	_	13	mark	_	AlignBegin=87896|AlignEnd=88168|Gloss=REL
-13	am	kèːnan/aC	PART	_	_	10	acl:relcl	_	AlignBegin=88168|AlignEnd=88440|Background=Yes|Gloss=Ident/Foc.Bkg
-14	màːlìye	maːliy-	VERB	_	ExtPos=ADV|VerbForm=Part|Voice=Stat	13	xcomp	_	AlignBegin=88440|AlignEnd=88712|Gloss=suckle.Part.Stat
+12	dà	dà	SCONJ	_	_	14	mark	_	AlignBegin=87896|AlignEnd=88168|Gloss=REL
+13	am	_	AUX	aC	_	14	cop	_	AlignBegin=88168|AlignEnd=88440|Background=Yes|Gloss=Pred/Loc.Bkg
+14	màːlìye	maːliy-	VERB	_	ExtPos=ADV|VerbForm=Part|Voice=Stat	10	acl:relcl	_	AlignBegin=88440|AlignEnd=88712|Gloss=suckle.Part.Stat
 15	gàreː	gàreː	ADP	_	_	16	case	_	AlignBegin=88712|AlignEnd=88984|Gloss=by
 16	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	14	obl	_	AlignBegin=88984|AlignEnd=89256|Gloss=3Fem
 17	<	<	PUNCT	_	_	2	punct	_	AlignBegin=89256|AlignEnd=89528|Gloss=PUNCT
 18	dut	dukà	DET	_	ExtPos=PRON|PronType=Tot	20	obl	_	AlignBegin=89528|AlignEnd=89800|Gloss=all
-19	taj	_	AUX	sukà/sunkà	Aspect=PerfBkg|Gender=Fem|Person=3	20	aux	_	AlignBegin=89800|AlignEnd=90072|Background=Yes|Gloss=3Fem.Perf.Bkg
+19	taj	_	AUX	yaC	Aspect=Perf|Gender=Fem|Person=3	20	aux	_	AlignBegin=89800|AlignEnd=90072|Background=Yes|Gloss=3Fem.Perf.Bkg
 20	jiːɗoː	jiːɗ-	VERB	_	_	0	root	_	AlignBegin=90072|AlignEnd=90344|Gloss=come_down
 21	dà	dà	ADP	_	_	22	case	_	AlignBegin=90344|AlignEnd=90616|Gloss=with
 22	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	obl:arg	_	AlignBegin=90616|AlignEnd=90888|Gloss=3Plur.Nom
@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 14	<	<	PUNCT	_	_	4	punct	_	AlignBegin=258448|AlignEnd=258715|Gloss=PUNCT
 15	dûn	dukà	DET	_	ExtPos=PRON|PronType=Tot	0	root	_	AlignBegin=258715|AlignEnd=258982|Gloss=all
 16	nan	nan	DET	_	Definite=Def|PronType=Art	15	det	_	AlignBegin=258982|AlignEnd=259249|Gloss=Def
-17	ankà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Person=4	18	aux	_	AlignBegin=259249|AlignEnd=259516|Background=Yes|Gloss=4.Perf.Bkg|wordform=anka
+17	ankà	_	AUX	yaC	Aspect=Perf|Person=4	18	aux	_	AlignBegin=259249|AlignEnd=259516|Background=Yes|Gloss=4.Perf.Bkg|wordform=anka
 18	waːc'èː	waːs'-	VERB	_	_	15	advcl:cleft	_	AlignBegin=259516|AlignEnd=259783|Gloss=scatter|wordform=waːc’èː
 19	//	//	PUNCT	_	_	15	punct	_	AlignBegin=259783|AlignEnd=260055|Gloss=PUNCT
 
@@ -85,8 +85,8 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 8	fgColor:white
 # visual-style 8 7 cc:preconj	color:blue
 1	bàː	bàː	PART	_	Polarity=Neg	3	advmod	_	AlignBegin=91200|AlignEnd=91599|Gloss=Neg
-2	kaː	_	AUX	sun	Aspect=Perf|Gender=Masc|Person=2	3	aux	_	AlignBegin=91599|AlignEnd=91998|Gloss=2Masc.Perf
-3	san	sanìː	VERB	_	_	23	discourse	_	AlignBegin=91998|AlignEnd=92397|Gloss=know
+2	kaː	_	AUX	yaː	Aspect=Perf|Gender=Masc|Person=2	3	aux	_	AlignBegin=91599|AlignEnd=91998|Gloss=2Masc.Perf
+3	san	sanìː	VERB	_	_	23	parataxis	_	AlignBegin=91998|AlignEnd=92397|Gloss=know
 4	<	<	PUNCT	_	_	3	punct	_	AlignBegin=92397|AlignEnd=92796|Gloss=PUNCT
 5	sa'ànnan	sa'ànnan	ADV	_	_	23	advmod	_	AlignBegin=92796|AlignEnd=93195|Gloss=then
 6	<	<	PUNCT	_	_	5	punct	_	AlignBegin=93594|AlignEnd=93993|Gloss=PUNCT
@@ -101,14 +101,14 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 15	dà	dà	CCONJ	_	_	16	cc	_	AlignBegin=97185|AlignEnd=97584|Gloss=and
 16	Galmaːwaː	Galmaːwaː	PROPN	_	_	12	nmod	_	AlignBegin=97584|AlignEnd=97983|Gloss=Galmaːwaː
 17	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	23	dislocated	_	AlignBegin=97983|AlignEnd=98382|Gloss=which.Masc
-18	ab	kèːnan/aC	PART	_	_	17	acl:relcl	_	AlignBegin=98382|AlignEnd=98781|Background=Yes|Gloss=Ident/Foc.Bkg
-19	Bàgawailèː	Bàgawailèː	PROPN	_	Gender=Masc	18	xcomp	_	AlignBegin=98781|AlignEnd=99180|Gloss=Bagawaile.Masc
+18	ab	_	AUX	aC	_	19	cop	_	AlignBegin=98382|AlignEnd=98781|Background=Yes|Gloss=Pred/Loc.Bkg
+19	Bàgawailèː	Bàgawailèː	PROPN	_	Gender=Masc	17	acl:relcl	_	AlignBegin=98781|AlignEnd=99180|Gloss=Bagawaile.Masc
 20	<	<	PUNCT	_	_	17	punct	_	AlignBegin=99180|AlignEnd=99579|Gloss=PUNCT
 21	du'	dukà	DET	_	ExtPos=PRON|PronType=Tot	23	dislocated	_	AlignBegin=99579|AlignEnd=99978|Gloss=all
 22	<	<	PUNCT	_	_	21	punct	_	AlignBegin=99978|AlignEnd=100377|Gloss=PUNCT
 23	Ìlleːlàː	Ìlleːlàː	PROPN	_	_	0	root	_	AlignBegin=100377|AlignEnd=100776|Gloss=Illela
 24	>+	>+	PUNCT	_	_	26	punct	_	AlignBegin=100776|AlignEnd=101175|Gloss=PUNCT
-25	ankà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Person=4	26	aux	_	AlignBegin=101175|AlignEnd=101574|Background=Yes|Gloss=4.Perf.Bkg
+25	ankà	_	AUX	yaC	Aspect=Perf|Person=4	26	aux	_	AlignBegin=101175|AlignEnd=101574|Background=Yes|Gloss=4.Perf.Bkg
 26	àihweː	aiwh-	VERB	_	_	23	advcl:cleft	_	AlignBegin=101574|AlignEnd=101973|Gloss=give_birth
 27	=shi	=shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	26	obj	_	AlignBegin=101574|AlignEnd=101973|Gloss=3Masc
 28	//	//	PUNCT	_	_	23	punct	_	AlignBegin=101973|AlignEnd=102380|Gloss=PUNCT

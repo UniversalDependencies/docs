@@ -11,7 +11,7 @@ It occurs with 2 different values: `Cmp`, `Pos`.
 
 23 tokens (5%) have a non-empty value of `Degree`.
 21 types (9%) occur at least once with a non-empty value of `Degree`.
-21 lemmas (12%) occur at least once with a non-empty value of `Degree`.
+20 lemmas (12%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 1 part-of-speech tags: <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (23; 5% instances).
 
 ### `ADJ`
@@ -31,7 +31,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="sga_dipwbg-feat-Prefix.html">Prefix</a></tt><tt>=Yes</tt></tt></td><td><em>il</em></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 95% lemmas (20) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 95% lemmas (19) occur only with one value of `Degree`.
 
 ## Relations with Agreement in `Degree`
 

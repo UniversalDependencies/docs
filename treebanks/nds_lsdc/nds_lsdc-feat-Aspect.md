@@ -36,5 +36,5 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Perf` (2; 100% of non-empty `Aspect`): <em>weasd</em>
-* `EMPTY` (1143): <em>is, was, het, hadde, weer, kan, syn, wil, sint, kun</em>
+* `EMPTY` (1142): <em>is, was, het, hadde, weer, kan, syn, wil, sint, kun</em>
 

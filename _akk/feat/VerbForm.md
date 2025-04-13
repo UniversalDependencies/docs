@@ -30,4 +30,4 @@ An infinitive verb.
 #### Examples
 * _<b>ana šūzub napšātišunu</b>_ "To save their lives."
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:26 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:09 CET -->

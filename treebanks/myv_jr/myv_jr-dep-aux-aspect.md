@@ -41,7 +41,7 @@ The following 3 pairs of parts of speech are connected with `aux:aspect`: <tt><a
 # visual-style 7 5 aux:aspect	color:blue
 1	Те	те	DET	Det	Number=Sing|PronType=Dem	2	det	_	GTtags=Dem,Sg|Gloss=this
 2	киниганть	кинига	NOUN	N	Case=Gen|Definite=Def|Number=Sing	3	nmod	_	GTtags=Sg,Gen,Def|Gloss=book
-3	ловныцянзо	ловныця	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	7	nsubj	_	GTtags=Pl,Nom,PxSg3|Gloss=reader
+3	ловныцянзо	ловныця	NOUN	N	Case=Nom|Nomzr=Ag|Number=Plur|Number[psor]=Sing|Person[psor]=3	7	nsubj	_	GTtags=Pl,Nom,PxSg3|Gloss=reader
 4	улеме	улемс	AUX	V	Case=Loc|VerbForm=Inf	7	cop	_	GTtags=IV,Inf,Loc|Gloss=be
 5	кармить	кармамс	AUX	V	Aspect=Inch|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	7	aux:aspect	_	GTtags=IV,Ind,Prs,ScPl3|Gloss=begin
 6	аволь	аволь	AUX	Pcle	PartType=Emp|Polarity=Neg	7	aux:neg	_	GTtags=Neg,Intensive|Gloss=other-than

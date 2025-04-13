@@ -58,11 +58,11 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 3	ⲛ	ⲛ	ADP	PREP	_	5	case	_	Orig=ⲛ̇
 4	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	det	_	Entity=(person
 5	ⲥⲛⲏⲩ	ⲥⲟⲛ	NOUN	N	_	2	nmod	_	Entity=person)person)
-6	ϫⲛⲉ	ϫⲛⲟⲩ	VERB	V	VerbForm=Fin	0	root	_	Orig=ϫ̇ⲛⲉ
+6	ϫⲛⲉ	ϫⲛⲟⲩ	VERB	V	VerbForm=Fin	0	root	_	Cxn=Interrogative-WHInfo-Direct,Interrogative-WHInfo-Indirect|CxnElt=6:Interrogative-Polar-Direct.Clause|Orig=ϫ̇ⲛⲉ
 7	ⲁⲡⲁ	ⲁⲡⲁ	NOUN	N	Foreign=Yes	6	obj	_	Entity=(person|Orig=ⲁ̇ⲡⲁ|OrigLang=he
 8	ⲡⲁⲥⲧⲁⲙⲱⲛ	ⲡⲁⲥⲧⲁⲙⲱⲛ	PROPN	NPROP	_	7	flat	_	Entity=person)|Orig=ⲡⲁ̇ⲥⲧⲁⲙⲱⲛ
 9	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	10	mark	_	_
-10	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Int	6	ccomp	_	_
+10	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Int	6	ccomp	_	CxnElt=6:Interrogative-Polar-Direct.WHWord
 11	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	10	cop	_	_
 12	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	Orig=ϯ̇
 13	ⲛⲁ	ⲛⲁ	AUX	FUT	_	14	aux	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4190 nodes (3%) are attached to their parents as `mark`.
+4191 nodes (3%) are attached to their parents as `mark`.
 
-4190 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.53150357995227.
+4191 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.53233118587449.
 
-The following 25 pairs of parts of speech are connected with `mark`: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (3305; 79% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (333; 8% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (280; 7% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (111; 3% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (49; 1% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (24; 1% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (24; 1% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (16; 0% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt>-<tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `mark`: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (3307; 79% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (333; 8% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (280; 7% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (111; 3% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (49; 1% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (24; 1% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (23; 1% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (16; 0% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt>-<tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt>-<tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,9 +22,9 @@ The following 25 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 mark	color:blue
-1	קיימת	קיים	ADJ	ADJ	Gender=Fem|Number=Sing	0	root	_	_
+1	קיימת	קיים	ADJ	ADJ	Gender=Fem|Number=Sing	0	root	_	Cxn=Existential-ExistPred-FullVerb
 2	גם	גם	ADV	ADV	_	1	advmod	_	_
-3	פלזמה	פלזמה	NOUN	NOUN	Gender=Fem|Number=Sing	1	nsubj	_	_
+3	פלזמה	פלזמה	NOUN	NOUN	Gender=Fem|Number=Sing	1	nsubj	_	CxnElt=1:Existential-ExistPred-FullVerb.Pivot
 4	מיובשת	מיובש	ADJ	ADJ	Gender=Fem|Number=Sing	3	amod	_	SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	8	punct	_	_
 6	ש	ש	SCONJ	SCONJ	_	8	mark	_	_
@@ -44,9 +44,9 @@ The following 25 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 mark	color:blue
-1	קיימת	קיים	ADJ	ADJ	Gender=Fem|Number=Sing	0	root	_	_
+1	קיימת	קיים	ADJ	ADJ	Gender=Fem|Number=Sing	0	root	_	Cxn=Existential-ExistPred-FullVerb
 2	גם	גם	ADV	ADV	_	1	advmod	_	_
-3	פלזמה	פלזמה	NOUN	NOUN	Gender=Fem|Number=Sing	1	nsubj	_	_
+3	פלזמה	פלזמה	NOUN	NOUN	Gender=Fem|Number=Sing	1	nsubj	_	CxnElt=1:Existential-ExistPred-FullVerb.Pivot
 4	מיובשת	מיובש	ADJ	ADJ	Gender=Fem|Number=Sing	3	amod	_	SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	8	punct	_	_
 6	ש	ש	SCONJ	SCONJ	_	8	mark	_	_
@@ -66,7 +66,7 @@ The following 25 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 3 mark	color:blue
-1	לא	לא	ADV	ADV	_	2	advmod	_	_
+1	לא	לא	ADV	ADV	Polarity=Neg	2	advmod	_	_
 2	ברור	ברור	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	_
 3	אם	אם	SCONJ	SCONJ	_	12	mark	_	_
 4	ה	ה	DET	DET	Definite=Def|PronType=Art	5	det	_	_

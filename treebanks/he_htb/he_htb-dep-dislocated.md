@@ -22,8 +22,8 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 4 dislocated	color:blue
-1	איך	איך	ADV	ADV	PronType=Int	2	advmod	_	_
-2	ייתכן	ייתכן	ADV	ADV	_	0	root	_	Modal=Yes
+1	איך	איך	ADV	ADV	PronType=Int	2	advmod	_	CxnElt=2:Interrogative-WHInfo-Direct.WHWord
+2	ייתכן	ייתכן	ADV	ADV	_	0	root	_	Cxn=Interrogative-WHInfo-Direct|CxnElt=2:Interrogative-WHInfo-Direct.Clause|Modal=Yes
 3	ש	ש	SCONJ	SCONJ	_	8	mark	_	_
 4	מוצר	מוצר	NOUN	NOUN	Gender=Masc|Number=Sing	8	dislocated	_	_
 5	ה	ה	SCONJ	SCONJ	_	6	mark	_	_

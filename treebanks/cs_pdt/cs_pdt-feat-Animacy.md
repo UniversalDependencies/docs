@@ -11,14 +11,14 @@ It occurs with 2 different values: `Anim`, `Inan`.
 
 66612 tokens (20%) have a non-empty value of `Animacy`.
 22869 types (43%) occur at least once with a non-empty value of `Animacy`.
-11566 lemmas (43%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (34831; 10% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (16398; 5% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (9109; 3% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (2853; 1% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (2098; 1% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (933; 0% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (334; 0% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (56; 0% instances).
+11572 lemmas (43%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 8 part-of-speech tags: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (34831; 10% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (16397; 5% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (9109; 3% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (2853; 1% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (1569; 0% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (933; 0% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (586; 0% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (334; 0% instances).
 
 ### `NOUN`
 
 34831 <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> tokens (42% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (34831; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (34825; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23165; 67%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (34831; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23165; 67%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
@@ -40,19 +40,19 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>členové</em></td><td></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (3294) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (3300) occur only with one value of `Animacy`.
 
 ### `ADJ`
 
-16398 <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> tokens (40% of all `ADJ` tokens) have a non-empty value of `Animacy`.
+16397 <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> tokens (40% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (15982; 97%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (15364; 94%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (14050; 86%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (14050; 86%), <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (13985; 85%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9985; 61%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (15981; 97%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (15364; 94%), <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (14605; 89%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (14049; 86%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (14049; 86%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9985; 61%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
-* `Anim` (3920; 24% of non-empty `Animacy`): <em>další, bývalý, českých, mnozí, první, dalších, český, jediný, čeští, americký</em>
+* `Anim` (3919; 24% of non-empty `Animacy`): <em>další, bývalý, českých, mnozí, první, dalších, český, jediný, čeští, americký</em>
 * `Inan` (12478; 76% of non-empty `Animacy`): <em>další, první, nový, českého, velký, český, celý, větší, dalším, druhý</em>
-* `EMPTY` (24376): <em>české, první, další, druhé, nové, možné, národní, poslední, česká, vlastní</em>
+* `EMPTY` (24370): <em>české, první, další, druhé, nové, možné, národní, poslední, česká, vlastní</em>
 
 <table>
   <tr><th>Paradigm <i>český</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -73,7 +73,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 9109 <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> tokens (58% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (9109; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9109; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8561; 94%), <tt><a href="cs_pdt-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (6859; 75%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5609; 62%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (9109; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8561; 94%), <tt><a href="cs_pdt-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (6859; 75%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5609; 62%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
@@ -114,15 +114,15 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 ### `DET`
 
-2098 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (16% of all `DET` tokens) have a non-empty value of `Animacy`.
+1569 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (12% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2098; 100%), <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1994; 95%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1994; 95%), <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1857; 89%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1144; 55%), <tt><a href="cs_pdt-feat-PronType.html">PronType</a></tt><tt>=Int,Rel</tt> (1093; 52%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1569; 100%), <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1465; 93%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1465; 93%), <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1328; 85%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (880; 56%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (877; 56%).
 
 `DET` tokens may have the following values of `Animacy`:
 
-* `Anim` (685; 33% of non-empty `Animacy`): <em>kteří, ti, někteří, všichni, každý, sami, naši, každého, svého, kterého</em>
-* `Inan` (1413; 67% of non-empty `Animacy`): <em>tisíc, které, svůj, který, miliónů, tento, milionů, tyto, každý, tisíce</em>
-* `EMPTY` (11420): <em>to, které, jeho, který, která, jejich, své, tím, tom, této</em>
+* `Anim` (685; 44% of non-empty `Animacy`): <em>kteří, ti, někteří, všichni, každý, sami, naši, každého, svého, kterého</em>
+* `Inan` (884; 56% of non-empty `Animacy`): <em>které, svůj, který, tento, tyto, každý, ty, některé, náš, ten</em>
+* `EMPTY` (11229): <em>to, které, jeho, který, která, jejich, své, tím, tom, této</em>
 
 <table>
   <tr><th>Paradigm <i>ten</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -151,6 +151,23 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 `Animacy` seems to be **lexical feature** of `PRON`. 94% lemmas (17) occur only with one value of `Animacy`.
 
+### `NUM`
+
+586 <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> tokens (6% of all `NUM` tokens) have a non-empty value of `Animacy`.
+
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (586; 100%), <tt><a href="cs_pdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (585; 100%), <tt><a href="cs_pdt-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (530; 90%).
+
+`NUM` tokens may have the following values of `Animacy`:
+
+* `Anim` (16; 3% of non-empty `Animacy`): <em>jednoho, jedni</em>
+* `Inan` (570; 97% of non-empty `Animacy`): <em>tisíc, miliónů, milionů, jeden, tisíce, mil, miliónu, milionu, milióny, miliony</em>
+* `EMPTY` (8672): <em>1, 2, 3, tři, dva, dvě, 4, 10, 5, dvou</em>
+
+<table>
+  <tr><th>Paradigm <i>jeden</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>jednoho</em></td><td><em>jeden</em></td></tr>
+</table>
+
 ### `AUX`
 
 334 <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Animacy`.
@@ -171,32 +188,15 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
   <tr><td><tt><tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>byly</em></td></tr>
 </table>
 
-### `NUM`
-
-56 <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `Animacy`.
-
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (56; 100%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (56; 100%), <tt><a href="cs_pdt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (56; 100%), <tt><a href="cs_pdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (56; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (56; 100%).
-
-`NUM` tokens may have the following values of `Animacy`:
-
-* `Anim` (15; 27% of non-empty `Animacy`): <em>jednoho</em>
-* `Inan` (41; 73% of non-empty `Animacy`): <em>jeden</em>
-* `EMPTY` (8475): <em>1, 2, 3, tři, dva, dvě, 4, 10, 5, dvou</em>
-
-<table>
-  <tr><th>Paradigm <i>jeden</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>jednoho</em></td><td><em>jeden</em></td></tr>
-</table>
-
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>NOUN --[<tt><a href="cs_pdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (13593; 98%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2063; 100%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1460; 99%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (516; 68%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (519; 68%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (503; 86%),
-<tt>ADJ --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (410; 67%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (412; 67%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (312; 91%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (117; 80%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-case.html">case</a></tt>]--> NOUN</tt> (55; 51%),

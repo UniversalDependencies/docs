@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>di</em> (<tt><a href="sga_dipsgg-pos-
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.261062).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.295652).
 
 The 1st highest number of forms (1) was observed with the lemma “dá”: <em>di</em>.
 

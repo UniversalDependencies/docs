@@ -62,7 +62,7 @@ The 2nd highest number of forms (35) was observed with the lemma “fmi”: <em>
 
 The 3rd highest number of forms (29) was observed with the lemma “bicikëll”: <em>bici/, bici:klla, bici:këll, bicike:ll, bicikel, bicikell, bicikell:, bicikelln:, bicikes, biciklen, bicikles, biciklla, biciklla:, biciklle, bicikllen, bicikllen:, biciklles, biciklles:, biciklleve, bicikllë:s, bicikllën, bicikllës, bicikul, bicikull, bicikë:ll, bicikëll, bicikëlls, bicuku/, picikëll</em>.
 
-`NOUN` occurs with 5 features: <tt><a href="aln_gps-feat-Gender.html">Gender</a></tt> (2452; 99% instances), <tt><a href="aln_gps-feat-Number.html">Number</a></tt> (2450; 99% instances), <tt><a href="aln_gps-feat-Definite.html">Definite</a></tt> (2448; 99% instances), <tt><a href="aln_gps-feat-Case.html">Case</a></tt> (2447; 99% instances), <tt><a href="aln_gps-feat-Foreign.html">Foreign</a></tt> (19; 1% instances)
+`NOUN` occurs with 5 features: <tt><a href="aln_gps-feat-Gender.html">Gender</a></tt> (2451; 99% instances), <tt><a href="aln_gps-feat-Number.html">Number</a></tt> (2450; 99% instances), <tt><a href="aln_gps-feat-Definite.html">Definite</a></tt> (2447; 99% instances), <tt><a href="aln_gps-feat-Case.html">Case</a></tt> (2446; 99% instances), <tt><a href="aln_gps-feat-Foreign.html">Foreign</a></tt> (19; 1% instances)
 
 `NOUN` occurs with 12 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
 

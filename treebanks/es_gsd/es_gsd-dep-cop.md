@@ -26,7 +26,7 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 2	gentilicio	gentilicio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 4	Chinonais	chinonais	PROPN	_	_	2	nsubj	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	2	punct	_	_
+5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -41,7 +41,7 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 2	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	químicamente	químicamente	ADV	_	_	4	advmod	_	_
 4	idénticos	idéntico	ADJ	_	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	_
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 ~~~
 
@@ -66,7 +66,7 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 12	no	no	ADV	_	Polarity=Neg	13	advmod	_	_
 13	engañar	engañar	VERB	_	VerbForm=Inf	7	conj	_	_
 14	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	13	obl	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	1	punct	_	_
+15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 ~~~
 

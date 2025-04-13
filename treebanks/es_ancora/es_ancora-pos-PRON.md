@@ -63,7 +63,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="es_ancora-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.366667 (the average of all parts of speech is 1.505790).
+The form / lemma ratio of `PRON` is 2.366667 (the average of all parts of speech is 1.505808).
 
 The 1st highest number of forms (15) was observed with the lemma “él”: <em>consigo, ella, ellas, ello, ellos, la, las, le, les, lo, los, me, se, sí, él</em>.
 

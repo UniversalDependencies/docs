@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Com`, `Neut`.
 
-5902 tokens (31%) have a non-empty value of `Gender`.
+5901 tokens (31%) have a non-empty value of `Gender`.
 3118 types (50%) occur at least once with a non-empty value of `Gender`.
 2483 lemmas (50%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 6 part-of-speech tags: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (3881; 20% instances), <tt><a href="sv_pud-pos-DET.html">DET</a></tt> (820; 4% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (708; 4% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (487; 3% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (3881; 20% instances), <tt><a href="sv_pud-pos-DET.html">DET</a></tt> (820; 4% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (708; 4% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (486; 3% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
@@ -43,8 +43,8 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Com` (577; 70% of non-empty `Gender`): <em>en, den, denna, någon, ingen, all, ett, vilken</em>
-* `Neut` (243; 30% of non-empty `Gender`): <em>ett, det, detta, något, inget, vilket, allt</em>
+* `Com` (576; 70% of non-empty `Gender`): <em>en, den, denna, någon, ingen, all, ett, vilken</em>
+* `Neut` (244; 30% of non-empty `Gender`): <em>ett, det, detta, något, inget, vilket, allt</em>
 * `EMPTY` (195): <em>de, varje, dessa, alla, några, the, båda, a, inga, Die</em>
 
 <table>
@@ -61,9 +61,9 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Com` (406; 57% of non-empty `Gender`): <em>han, jag, sin, hon, den, vi, honom, en, du, henne</em>
-* `Neut` (302; 43% of non-empty `Gender`): <em>det, detta, sitt, vad, vilket, ett, mycket, allt, vårt, allting</em>
-* `EMPTY` (611): <em>som, de, sig, hans, sina, dess, deras, hennes, dem, vilka</em>
+* `Com` (407; 57% of non-empty `Gender`): <em>han, jag, sin, den, hon, vi, honom, en, du, henne</em>
+* `Neut` (301; 43% of non-empty `Gender`): <em>det, detta, sitt, vad, vilket, ett, mycket, allt, vårt, allting</em>
+* `EMPTY` (612): <em>som, de, sig, hans, sina, dess, deras, hennes, dem, vilka</em>
 
 <table>
   <tr><th>Paradigm <i>den</i></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
@@ -72,15 +72,15 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `ADJ`
 
-487 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (31% of all `ADJ` tokens) have a non-empty value of `Gender`.
+486 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (31% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (487; 100%), <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (485; 100%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (485; 100%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (466; 96%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (402; 83%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (402; 83%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (486; 100%), <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (484; 100%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (484; 100%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (465; 96%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (401; 83%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (401; 83%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
 * `Com` (339; 70% of non-empty `Gender`): <em>stor, lång, egen, ensam, hög, liten, modern, politisk, ekonomisk, ny</em>
-* `Neut` (148; 30% of non-empty `Gender`): <em>annat, nytt, otroligt, sett, öppet, allmänt, möjligt, stort, dåligt, eget</em>
-* `EMPTY` (1082): <em>andra, första, nya, många, flera, stora, hela, senaste, samma, sista</em>
+* `Neut` (147; 30% of non-empty `Gender`): <em>annat, nytt, otroligt, sett, öppet, allmänt, möjligt, dåligt, eget, klart</em>
+* `EMPTY` (1087): <em>andra, första, nya, många, flera, stora, hela, senaste, samma, sista</em>
 
 <table>
   <tr><th>Paradigm <i>stor</i></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
@@ -116,14 +116,14 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="sv_pud-dep-det.html">det</a></tt>]--> DET</tt> (778; 83%),
-<tt>NOUN --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (374; 58%),
-<tt>NOUN --[<tt><a href="sv_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (142; 60%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-det.html">det</a></tt>]--> DET</tt> (779; 83%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (385; 58%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (141; 60%),
 <tt>NOUN --[<tt><a href="sv_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (61; 55%),
-<tt>NOUN --[<tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (33; 54%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (33; 55%),
 <tt>ADJ --[<tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (30; 51%),
 <tt>NOUN --[<tt><a href="sv_pud-dep-appos.html">appos</a></tt>]--> NOUN</tt> (23; 77%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (23; 53%),
 <tt>ADJ --[<tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (22; 61%),
-<tt>NOUN --[<tt><a href="sv_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (21; 57%),
-<tt>PRON --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (20; 69%).
+<tt>PRON --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (20; 67%).
 

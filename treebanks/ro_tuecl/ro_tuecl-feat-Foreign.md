@@ -18,7 +18,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="ro_tuecl-pos-NOUN.h
 
 20 <tt><a href="ro_tuecl-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="ro_tuecl-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (19; 95%), <tt><a href="ro_tuecl-feat-Typo.html">Typo</a></tt><tt>=EMPTY</tt> (19; 95%), <tt><a href="ro_tuecl-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (18; 90%), <tt><a href="ro_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 85%), <tt><a href="ro_tuecl-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (15; 75%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="ro_tuecl-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (19; 95%), <tt><a href="ro_tuecl-feat-Typo.html">Typo</a></tt><tt>=EMPTY</tt> (19; 95%), <tt><a href="ro_tuecl-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (18; 90%), <tt><a href="ro_tuecl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17; 85%), <tt><a href="ro_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 85%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 
@@ -31,7 +31,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 
 6 <tt><a href="ro_tuecl-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="ro_tuecl-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="ro_tuecl-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="ro_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 100%), <tt><a href="ro_tuecl-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4; 67%), <tt><a href="ro_tuecl-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4; 67%).
+The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="ro_tuecl-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="ro_tuecl-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="ro_tuecl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5; 83%), <tt><a href="ro_tuecl-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 83%), <tt><a href="ro_tuecl-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4; 67%).
 
 `ADJ` tokens may have the following values of `Foreign`:
 

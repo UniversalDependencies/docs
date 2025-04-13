@@ -12,20 +12,20 @@ It occurs with 3 different values: `1`, `2`, `3`.
 32403 tokens (11%) have a non-empty value of `Person`.
 2929 types (6%) occur at least once with a non-empty value of `Person`.
 1476 lemmas (3%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (12432; 4% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (9876; 3% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (7689; 3% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (2406; 1% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (12430; 4% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (9878; 3% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (7689; 3% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (2406; 1% instances).
 
 ### `VERB`
 
-12432 <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Person`.
+12430 <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12432; 100%), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12243; 98%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9772; 79%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6472; 52%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12430; 100%), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12241; 98%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9770; 79%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6472; 52%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (375; 3% of non-empty `Person`): <em>war, bin, hatte, haben, kommen, finde, waren, gehe, fühle, habe</em>
 * `2` (31; 0% of non-empty `Person`): <em>Siehe, gebt, gehst, kommst, laßt, machst, weißt, Brecht, DENKST, Hast</em>
-* `3` (12026; 97% of non-empty `Person`): <em>wurde, gibt, hat, liegt, kam, hatte, gab, befindet, erhielt, war</em>
-* `EMPTY` (8215): <em>empfehlen, lassen, gegründet, genannt, machen, verwendet, eingesetzt, genutzt, bezeichnet, gebaut</em>
+* `3` (12024; 97% of non-empty `Person`): <em>wurde, gibt, hat, liegt, kam, hatte, gab, befindet, erhielt, war</em>
+* `EMPTY` (8214): <em>empfehlen, lassen, gegründet, genannt, machen, verwendet, eingesetzt, genutzt, bezeichnet, gebaut</em>
 
 <table>
   <tr><th>Paradigm <i>haben</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -42,16 +42,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-9876 <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Person`.
+9878 <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9876; 100%), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9295; 94%), <tt><a href="de_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7380; 75%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7324; 74%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5618; 57%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9878; 100%), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9297; 94%), <tt><a href="de_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7382; 75%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7326; 74%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5620; 57%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (501; 5% of non-empty `Person`): <em>habe, bin, haben, kann, sind, war, werden, werde, hatte, waren</em>
 * `2` (12; 0% of non-empty `Person`): <em>bist, haben, habt, hast, kannst, müsst, seid, sollst, werdet, wirst</em>
-* `3` (9363; 95% of non-empty `Person`): <em>ist, wurde, war, sind, wird, wurden, hat, werden, kann, waren</em>
-* `EMPTY` (786): <em>werden, sein, worden, können, gewesen, haben, müssen, is, wollen, dürfen</em>
+* `3` (9365; 95% of non-empty `Person`): <em>ist, wurde, war, sind, wird, wurden, hat, werden, kann, waren</em>
+* `EMPTY` (787): <em>werden, sein, worden, können, gewesen, haben, müssen, is, wollen, dürfen</em>
 
 <table>
   <tr><th>Paradigm <i>sein</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

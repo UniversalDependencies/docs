@@ -70,7 +70,7 @@ The following 58 pairs of parts of speech are connected with `fixed`: <tt><a hre
 4	que	que	SCONJ	_	_	3	fixed	_	InIdiom=Yes
 5	vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
 6	ne	ne	ADV	_	Polarity=Neg	7	advmod	_	_
-7	prenez	prendre	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	prenez	prendre	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Cxn=Interrogative-Polar-Direct|CxnElt=7:Interrogative-Polar-Direct.Clause
 8	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	_
 9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
 10	choses	chose	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_

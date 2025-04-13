@@ -23,20 +23,20 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 13 compound	color:blue
-1	Dua	_	VERB	_	_	0	root	_	_
-2	„	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
-3	Cover	_	PROPN	_	_	1	obj	_	_
-4	me	_	PROPN	_	_	3	flat	_	_
-5	in	_	PROPN	_	_	3	flat	_	_
-6	Sunshine	_	PROPN	_	_	3	flat	_	SpaceAfter=No
-7	“	_	PUNCT	_	_	3	punct	_	_
-8	vo	_	ADP	_	_	9	case	_	_
-9	Pink	_	PROPN	_	_	3	nmod	_	_
-10	in	_	ADP	_	_	14	case	_	_
-11	mei	_	DET	_	_	14	det:poss	_	_
-12	Gute	_	ADJ	_	_	13	amod	_	_
-13	Laune	_	NOUN	_	_	14	compound	_	_
-14	Playlist	_	NOUN	_	_	1	obl	_	_
+1	Dua	_	VERB	_	_	0	root	_	GermanLemma=tun
+2	„	_	PUNCT	_	_	3	punct	_	GermanLemma=„|SpaceAfter=No
+3	Cover	_	PROPN	_	_	1	obj	_	GermanLemma=Cover
+4	me	_	PROPN	_	_	3	flat	_	GermanLemma=me
+5	in	_	PROPN	_	_	3	flat	_	GermanLemma=in
+6	Sunshine	_	PROPN	_	_	3	flat	_	GermanLemma=Sunshine|SpaceAfter=No
+7	“	_	PUNCT	_	_	3	punct	_	GermanLemma=“
+8	vo	_	ADP	_	_	9	case	_	GermanLemma=von
+9	Pink	_	PROPN	_	_	3	nmod	_	GermanLemma=Pink
+10	in	_	ADP	_	_	14	case	_	GermanLemma=in
+11	mei	_	DET	_	_	14	det:poss	_	GermanLemma=meine
+12	Gute	_	ADJ	_	_	13	amod	_	GermanLemma=Gute
+13	Laune	_	NOUN	_	_	14	compound	_	GermanLemma=Laune
+14	Playlist	_	NOUN	_	_	1	obl	_	GermanLemma=Playlist
 
 ~~~
 
@@ -47,14 +47,14 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 compound	color:blue
-1	schau	_	VERB	_	_	0	root	_	_
-2	moi	_	ADV	_	_	1	advmod	_	_
-3	nach	_	ADP	_	_	8	case	_	_
-4	dem	_	DET	_	_	8	det	_	_
-5	neia	_	ADJ	_	_	8	amod	_	_
-6	Kendrick	_	PROPN	_	_	8	compound	_	_
-7	Lamar	_	PROPN	_	_	6	flat	_	_
-8	Album	_	NOUN	_	_	1	obl	_	_
+1	schau	_	VERB	_	_	0	root	_	GermanLemma=schauen
+2	moi	_	ADV	_	_	1	advmod	_	GermanLemma=mal
+3	nach	_	ADP	_	_	8	case	_	GermanLemma=nach
+4	dem	_	DET	_	_	8	det	_	GermanLemma=das
+5	neia	_	ADJ	_	_	8	amod	_	GermanLemma=neu
+6	Kendrick	_	PROPN	_	_	8	compound	_	GermanLemma=Kendrick
+7	Lamar	_	PROPN	_	_	6	flat	_	GermanLemma=Lamar
+8	Album	_	NOUN	_	_	1	obl	_	GermanLemma=Album
 
 ~~~
 
@@ -65,31 +65,31 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 21	bgColor:blue
 # visual-style 21	fgColor:white
 # visual-style 21 19 compound	color:blue
-1	Blos	_	ADV	_	_	14	advmod	_	_
-2	bei	_	ADP	_	_	4	case	_	_
-3	m	_	DET	_	_	4	det	_	_
-4	Schaung	_	NOUN	_	_	14	obl	_	_
-5	nòch	_	ADP	_	_	7	case	_	_
-6	ra	_	DET	_	_	7	det	_	_
-7	Installationsdatei	_	NOUN	_	_	4	nmod	_	_
-8	hòd	_	AUX	_	_	14	aux	_	_
-9	me	_	PRON	_	_	14	obj	_	_
-10	scho	_	ADV	_	_	14	advmod	_	_
-11	wieda	_	ADV	_	_	14	advmod	_	_
-12	s'	_	DET	_	_	13	det	_	_
-13	Grausn	_	NOUN	_	_	14	nsubj	_	_
-14	packt	_	VERB	_	_	0	root	_	SpaceAfter=No
-15	,	_	PUNCT	_	_	21	punct	_	_
-16	bi	_	AUX	_	_	21	cop	_	_
-17	hòid	_	ADV	_	_	21	advmod	_	_
-18	doch	_	ADV	_	_	21	advmod	_	_
-19	Windoof-GUI	_	NOUN	_	_	21	compound	_	SpaceAfter=No
-20	-	_	PUNCT	_	_	21	punct	_	SpaceAfter=No
-21	vaweichlicht	_	ADJ	_	_	14	parataxis	_	_
-22	wòs	_	SCONJ	_	_	24	mark	_	_
-23	des	_	PRON	_	_	24	nsubj	_	_
-24	betrifft	_	VERB	_	_	21	advcl	_	SpaceAfter=No
-25	.	_	PUNCT	_	_	14	punct	_	_
+1	Blos	_	ADV	_	_	14	advmod	_	GermanLemma=bloß
+2	bei	_	ADP	_	_	4	case	_	GermanLemma=bei
+3	m	_	DET	_	_	4	det	_	GermanLemma=das
+4	Schaung	_	NOUN	_	_	14	obl	_	GermanLemma=Schauen
+5	nòch	_	ADP	_	_	7	case	_	GermanLemma=nach
+6	ra	_	DET	_	_	7	det	_	GermanLemma=eine
+7	Installationsdatei	_	NOUN	_	_	4	nmod	_	GermanLemma=Installationsdatei
+8	hòd	_	AUX	_	_	14	aux	_	GermanLemma=haben
+9	me	_	PRON	_	_	14	obj	_	GermanLemma=ich
+10	scho	_	ADV	_	_	14	advmod	_	GermanLemma=schon
+11	wieda	_	ADV	_	_	14	advmod	_	GermanLemma=wieder
+12	s'	_	DET	_	_	13	det	_	GermanLemma=das
+13	Grausn	_	NOUN	_	_	14	nsubj	_	GermanLemma=Grausen
+14	packt	_	VERB	_	_	0	root	_	GermanLemma=packen|SpaceAfter=No
+15	,	_	PUNCT	_	_	21	punct	_	GermanLemma=,
+16	bi	_	AUX	_	_	21	cop	_	GermanLemma=sein
+17	hòid	_	ADV	_	_	21	advmod	_	GermanLemma=halt
+18	doch	_	ADV	_	_	21	advmod	_	GermanLemma=doch
+19	Windoof-GUI	_	NOUN	_	_	21	compound	_	GermanLemma=Windoof-GUI|SpaceAfter=No
+20	-	_	PUNCT	_	_	21	punct	_	GermanLemma=-|SpaceAfter=No
+21	vaweichlicht	_	ADJ	_	_	14	parataxis	_	GermanLemma=verweichlicht
+22	wòs	_	SCONJ	_	_	24	mark	_	GermanLemma=was
+23	des	_	PRON	_	_	24	nsubj	_	GermanLemma=das
+24	betrifft	_	VERB	_	_	21	advcl	_	GermanLemma=betreffen|SpaceAfter=No
+25	.	_	PUNCT	_	_	14	punct	_	GermanLemma=.
 
 ~~~
 

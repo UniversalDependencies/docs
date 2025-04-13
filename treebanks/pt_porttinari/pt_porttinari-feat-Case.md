@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Acc`, `Dat`, `Nom`.
 
-2494 tokens (1%) have a non-empty value of `Case`.
+2493 tokens (1%) have a non-empty value of `Case`.
 37 types (0%) occur at least once with a non-empty value of `Case`.
 14 lemmas (0%) occur at least once with a non-empty value of `Case`.
-The feature is used with 1 part-of-speech tags: <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (2494; 1% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (2493; 1% instances).
 
 ### `PRON`
 
-2494 <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> tokens (39% of all `PRON` tokens) have a non-empty value of `Case`.
+2493 <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> tokens (39% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="pt_porttinari-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2494; 100%), <tt><a href="pt_porttinari-feat-Person.html">Person</a></tt><tt>=3</tt> (1899; 76%), <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1377; 55%), <tt><a href="pt_porttinari-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1355; 54%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="pt_porttinari-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2493; 100%), <tt><a href="pt_porttinari-feat-Person.html">Person</a></tt><tt>=3</tt> (1898; 76%), <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1376; 55%), <tt><a href="pt_porttinari-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1355; 54%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (307; 12% of non-empty `Case`): <em>o, lo, me, nos, se, a, la, los, os, as</em>
-* `Dat` (175; 7% of non-empty `Case`): <em>me, mim, si, nos, lhe, se, lhes, te</em>
-* `Nom` (2012; 81% of non-empty `Case`): <em>se, ele, ela, eu, eles, você, elas, nós, vocês, Tu</em>
-* `EMPTY` (3913): <em>que, o, isso, quem, a, tudo, os, nada, algo, ninguém</em>
+* `Acc` (311; 12% of non-empty `Case`): <em>o, lo, me, nos, se, a, la, los, os, as</em>
+* `Dat` (181; 7% of non-empty `Case`): <em>me, mim, si, nos, lhe, se, lhes, te</em>
+* `Nom` (2001; 80% of non-empty `Case`): <em>se, ele, ela, eu, eles, você, elas, nós, vocês, Tu</em>
+* `EMPTY` (3922): <em>que, o, isso, quem, a, tudo, os, nada, algo, ninguém</em>
 
 <table>
   <tr><th>Paradigm <i>se</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>

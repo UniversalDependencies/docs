@@ -22,12 +22,12 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 22 24 orphan	color:blue
-1	Tha	bi	VERB	V-p	Tense=Pres	0	root	_	_
-2	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
+1	Tha	bi	VERB	V-p	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	dualach	dualach	ADJ	Ap	_	1	xcomp:pred	_	_
 4	dhan	do	ADP	Sp	_	7	case	_	_
-5	a	a	DET	Dq	_	7	det	_	_
-6	h-uile	uile	DET	Dq	_	5	fixed	_	_
+5	a	a	DET	Dq	PronType=Art	7	det	_	_
+6	h-uile	uile	DET	Dq	PronType=Art	5	fixed	_	_
 7	cànan	cànan	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	3	obl	_	_
 8	fo	fo	ADP	Sp	_	10	case	_	_
 9	an	an	DET	Tds	Definite=Def|Number=Sing|PronType=Art	10	det	_	_
@@ -57,7 +57,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 12 orphan	color:blue
-1	Thill	till	VERB	V-s	Tense=Past	0	root	_	_
+1	Thill	till	VERB	V-s	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 2	na	an	DET	Tdpm	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 3	seann	seann	ADJ	Ar	_	4	amod	_	_
 4	eòlaich	eòlach	NOUN	Ncpmn	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	_
@@ -74,7 +74,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 15	air	air	ADP	Sp	_	17	case	_	_
 16	a’	an	DET	Tdsf	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	mhìos	mìos	NOUN	Ncsfd	Case=Dat|Gender=Fem|Number=Sing	1	obl	_	_
-18	seo	seo	DET	Dd	_	17	det	_	SpaceAfter=No
+18	seo	seo	DET	Dd	PronType=Art	17	det	_	SpaceAfter=No
 19	.	.	PUNCT	Fe	_	1	punct	_	_
 
 ~~~

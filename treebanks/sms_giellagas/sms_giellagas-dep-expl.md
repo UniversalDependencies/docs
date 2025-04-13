@@ -56,7 +56,7 @@ The following 2 pairs of parts of speech are connected with `expl`: <tt><a href=
 4	...	...	PUNCT	PUNCT	_	5	punct	_	_
 5	võʹll’ji	võʹllʼjed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	conj	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 6	...	...	PUNCT	PUNCT	_	8	punct	_	_
-7	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	8	aux:neg	_	GTtags=Neg,Ind,Sg3,@+FAUXV
+7	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	8	aux	_	GTtags=Neg,Ind,Sg3,@+FAUXV
 8	võʹll’jam	võʹllʼjed	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past	1	conj	_	GTtags=Ind,Prt,ConNeg|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	1	punct	_	_
 

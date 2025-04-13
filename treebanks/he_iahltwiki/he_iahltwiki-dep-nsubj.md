@@ -45,7 +45,7 @@ The following 50 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj	color:blue
-1	בג"ץ	בג"ץ	PROPN	PROPN	_	2	nsubj	_	_
+1	בג"ץ	בג"ץ	PROPN	PROPN	_	2	nsubj	_	Entity=(ORG)
 2	אישר	אישר	VERB	VERB	Gender=Masc|HebBinyan=PIEL|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 3	את	את	ADP	ADP	_	5	case	_	_
 4	ה	ה	DET	DET	Definite=Def|PronType=Art	5	det	_	_
@@ -55,9 +55,9 @@ The following 50 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 8	ה	ה	DET	DET	Definite=Def|PronType=Art	9	det	_	_
 9	שימוש	שימוש	NOUN	NOUN	Gender=Masc|Number=Sing	5	conj	_	_
 10	ב	ב	ADP	ADP	_	11	case	_	_
-11	פסקת	פסקה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	9	nmod	_	_
+11	פסקת	פסקה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	9	nmod	_	Entity=(MISC
 12	ה	ה	DET	DET	Definite=Def|PronType=Art	13	det	_	_
-13	התגברות	התגברות	NOUN	NOUN	Gender=Fem|Number=Sing	11	compound	_	_
+13	התגברות	התגברות	NOUN	NOUN	Gender=Fem|Number=Sing	11	compound	_	Entity=MISC)
 14	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~

@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
 1450 tokens (14%) have a non-empty value of `VerbForm`.
-560 types (20%) occur at least once with a non-empty value of `VerbForm`.
-172 lemmas (9%) occur at least once with a non-empty value of `VerbForm`.
+561 types (20%) occur at least once with a non-empty value of `VerbForm`.
+174 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 2 part-of-speech tags: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (1038; 10% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (412; 4% instances).
 
 ### `VERB`

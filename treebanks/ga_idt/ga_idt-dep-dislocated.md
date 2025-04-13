@@ -93,8 +93,8 @@ The following 13 pairs of parts of speech are connected with `dislocated`: <tt><
 18	dhéanamh	déanamh	NOUN	Noun	Form=Len|VerbForm=Inf	14	xcomp	_	_
 19	chun	chun	ADP	Simp	_	21	case	_	_
 20	na	an	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
-21	Cúirte	cúirt	PROPN	Noun	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	18	obl	_	NamedEntity=Yes
-22	Breithiúnais	breithiúnas	PROPN	Noun	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	21	nmod	_	NamedEntity=Yes
+21	Cúirte	cúirt	NOUN	Noun	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	18	obl	_	NamedEntity=Yes
+22	Breithiúnais	breithiúnas	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	NamedEntity=Yes
 23	laistigh	laistigh	ADV	Loc	_	18	advmod	_	_
 24	de	de	ADP	Simp	_	26	case	_	_
 25	dhá	dó	NUM	Num	Form=Len|NumType=Card	26	nummod	_	_

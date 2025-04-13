@@ -18,11 +18,11 @@ The feature is used with 6 part-of-speech tags: <tt><a href="cs_pud-pos-NOUN.htm
 
 44 <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (44; 100%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (30; 68%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (28; 64%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (24; 55%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (30; 68%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (28; 64%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (24; 55%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (44; 100% of non-empty `Abbr`): <em>l, DNA, GCA, MPS, m, A, AIDS, APK, BK, CGI</em>
+* `Yes` (44; 100% of non-empty `Abbr`): <em>l, GCA, MPS, m, A, APK, BK, DNA, ECB, GCHQ</em>
 * `EMPTY` (4439): <em>roce, roku, let, století, letech, době, území, období, oblasti, moře</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (30) occur only with one value of `Abbr`.
@@ -31,7 +31,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 40 <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> tokens (4% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (40; 100%), <tt><a href="cs_pud-feat-NameType.html">NameType</a></tt><tt>=Com</tt> (35; 88%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (35; 88%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (33; 83%), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (23; 57%).
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="cs_pud-feat-NameType.html">NameType</a></tt><tt>=Com</tt> (35; 88%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (35; 88%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (33; 83%), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (23; 57%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 

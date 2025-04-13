@@ -25,8 +25,8 @@ The following 28 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 1	-	-	PUNCT	fg	PunctType=Dash	3	punct	3:punct	_
 2	Ya	ya	ADV	rg	_	3	advmod	3:advmod	ArgTem=argM:tmp
 3	sé	saber	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	ccomp	7:ccomp	ArgTem=arg1:pat
-4	qué	qué	PRON	pt0cs000	Number=Sing|PronType=Int	5	nsubj	5:nsubj	ArgTem=arg1:tem
-5	ocurre	ocurrir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	3:ccomp	ArgTem=arg1:pat
+4	qué	qué	PRON	pt0cs000	Number=Sing|PronType=Int	5	nsubj	5:nsubj	ArgTem=arg1:tem|CxnElt=5:Interrogative-WHInfo-Indirect.WHWord
+5	ocurre	ocurrir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	3:ccomp	ArgTem=arg1:pat|Cxn=Interrogative-WHInfo-Indirect|CxnElt=5:Interrogative-WHInfo-Indirect.Clause
 6	-	-	PUNCT	fg	PunctType=Dash	3	punct	3:punct	_
 7	explicó	explicar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 8	una	uno	PRON	pi0fs000	Gender=Fem|Number=Sing|PronType=Ind	7	nsubj	7:nsubj	ArgTem=arg0:agt
@@ -52,10 +52,10 @@ The following 28 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 5	si	si	SCONJ	cs	_	8	mark	8:mark	_
 6	no	no	ADV	rn	Polarity=Neg	8	advmod	8:advmod	_
 7	se	él	PRON	p0000000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pass	8:expl:pass	_
-8	lucha	luchar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	11:advcl	_
+8	lucha	luchar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	11:advcl	CxnElt=11:Conditional-NeutralEpistemic.Protasis@f
 9	no	no	ADV	rn	Polarity=Neg	11	advmod	11:advmod	_
 10	se	él	PRON	p0000000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl:pass	11:expl:pass	_
-11	consigue	conseguir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	3:ccomp	ArgTem=arg2:atr
+11	consigue	conseguir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	3:ccomp	ArgTem=arg2:atr|Cxn=Conditional-NeutralEpistemic|CxnElt=11:Conditional-NeutralEpistemic.Apodosis@p
 12	nada	nada	PRON	pi0cs000	Number=Sing|PronType=Neg	11	nsubj	11:nsubj	SpaceAfter=No|ArgTem=arg1:pat
 13	.	.	PUNCT	fp	PunctType=Peri	3	punct	3:punct	_
 

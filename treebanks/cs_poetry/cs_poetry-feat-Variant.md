@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Short`.
 
-215 tokens (3%) have a non-empty value of `Variant`.
+217 tokens (3%) have a non-empty value of `Variant`.
 60 types (2%) occur at least once with a non-empty value of `Variant`.
 53 lemmas (3%) occur at least once with a non-empty value of `Variant`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (158; 3% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (52; 1% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (5; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (158; 3% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (52; 1% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (7; 0% instances).
 
 ### `PRON`
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `PRON` and `Variant` co-occurr
 
 52 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (51; 98%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (50; 96%), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (46; 88%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44; 85%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (42; 81%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (36; 69%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (36; 69%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (29; 56%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (28; 54%).
+The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (52; 100%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (50; 96%), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (46; 88%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44; 85%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (42; 81%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (36; 69%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (36; 69%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (29; 56%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (28; 54%).
 
 `ADJ` tokens may have the following values of `Variant`:
 
@@ -38,13 +38,13 @@ The most frequent other feature values with which `ADJ` and `Variant` co-occurre
 
 ### `DET`
 
-5 <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Variant`.
+7 <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `DET` and `Variant` co-occurred: <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="cs_poetry-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_poetry-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_poetry-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 60%), <tt><a href="cs_poetry-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 60%), <tt><a href="cs_poetry-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (3; 60%).
+The most frequent other feature values with which `DET` and `Variant` co-occurred: <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 100%), <tt><a href="cs_poetry-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="cs_poetry-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="cs_poetry-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 71%), <tt><a href="cs_poetry-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 71%), <tt><a href="cs_poetry-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (5; 71%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4; 57%).
 
 `DET` tokens may have the following values of `Variant`:
 
-* `Short` (5; 100% of non-empty `Variant`): <em>Ti, sám, Samo</em>
+* `Short` (7; 100% of non-empty `Variant`): <em>sám, Ti, Samo</em>
 
 ## Relations with Agreement in `Variant`
 

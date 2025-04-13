@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="en_pud-pos-PRON.htm
 
 ### `PRON`
 
-482 <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> tokens (47% of all `PRON` tokens) have a non-empty value of `Gender`.
+482 <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> tokens (46% of all `PRON` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (482; 100%), <tt><a href="en_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (482; 100%), <tt><a href="en_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (482; 100%), <tt><a href="en_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (311; 65%), <tt><a href="en_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (244; 51%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Fem` (79; 16% of non-empty `Gender`): <em>her, she, herself</em>
 * `Masc` (212; 44% of non-empty `Gender`): <em>he, his, him, himself</em>
 * `Neut` (191; 40% of non-empty `Gender`): <em>it, its, itself</em>
-* `EMPTY` (542): <em>that, which, their, they, I, who, there, we, this, what</em>
+* `EMPTY` (562): <em>that, which, their, they, I, who, there, we, this, what</em>
 
 ## Relations with Agreement in `Gender`
 

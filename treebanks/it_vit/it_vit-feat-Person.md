@@ -85,7 +85,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (673; 18% of non-empty `Person`): <em>c', mi, ci, io, noi, me, ce</em>
 * `2` (110; 3% of non-empty `Person`): <em>ti, vi, voi, te, tu</em>
 * `3` (3023; 79% of non-empty `Person`): <em>si, lo, la, l', gli, li, lui, le, loro, essi</em>
-* `EMPTY` (5974): <em>che, cui, quello, ne, quella, quale, dove, chi, ci, quelli</em>
+* `EMPTY` (5985): <em>che, cui, quello, ne, quella, quale, dove, chi, ci, quelli</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (38) occur only with one value of `Person`.
 
@@ -108,7 +108,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 `CCONJ` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): <em>pesino</em>
-* `EMPTY` (8208): <em>e, ma, o, ed, come, sia, che, cioè, ovvero, nonché</em>
+* `EMPTY` (8207): <em>e, ma, o, ed, come, sia, che, cioè, ovvero, nonché</em>
 
 ## Relations with Agreement in `Person`
 

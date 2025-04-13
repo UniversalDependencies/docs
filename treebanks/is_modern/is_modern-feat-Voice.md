@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Mid` are language-specific.
 It occurs with 2 different values: `Act`, `Mid`.
 
-14322 tokens (18%) have a non-empty value of `Voice`.
-1984 types (19%) occur at least once with a non-empty value of `Voice`.
+14323 tokens (18%) have a non-empty value of `Voice`.
+1985 types (19%) occur at least once with a non-empty value of `Voice`.
 704 lemmas (12%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 6 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (9059; 11% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (5250; 7% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (9059; 11% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (5250; 7% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -73,7 +73,7 @@ The most frequent other feature values with which `NOUN` and `Voice` co-occurred
 `NOUN` tokens may have the following values of `Voice`:
 
 * `Act` (6; 100% of non-empty `Voice`): <em>Innheimtu, bönnum, leiðir, liðið, orðið, þjónusta</em>
-* `EMPTY` (13639): <em>forseti, menn, þingmaður, mál, ráðherra, fólk, tíma, máli, m, frú</em>
+* `EMPTY` (13638): <em>forseti, menn, þingmaður, mál, ráðherra, fólk, tíma, máli, m, frú</em>
 
 ### `ADV`
 
@@ -105,6 +105,17 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 * `Act` (1; 100% of non-empty `Voice`): <em>rökstutt</em>
 * `EMPTY` (4316): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, sama</em>
+
+### `X`
+
+1 <tt><a href="is_modern-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Voice`.
+
+The most frequent other feature values with which `X` and `Voice` co-occurred: <tt><a href="is_modern-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`X` tokens may have the following values of `Voice`:
+
+* `Act` (1; 100% of non-empty `Voice`): <em>ákvaðu</em>
+* `EMPTY` (90): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
 
 ## Relations with Agreement in `Voice`
 

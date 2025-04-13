@@ -60,20 +60,20 @@ The 2nd highest number of forms (1) was observed with the lemma “ab”: <em>ab
 
 The 3rd highest number of forms (1) was observed with the lemma “absque”: <em>absque</em>.
 
-`ADP` occurs with 3 features: <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt> (99; 2% instances), <tt><a href="la_udante-feat-Proper.html">Proper</a></tt> (35; 1% instances), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt> (1; 0% instances)
+`ADP` occurs with 3 features: <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt> (99; 2% instances), <tt><a href="la_udante-feat-Proper.html">Proper</a></tt> (34; 1% instances), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt> (1; 0% instances)
 
 `ADP` occurs with 3 feature-value pairs: `Compound=Yes`, `Proper=Yes`, `VerbForm=Part`
 
 `ADP` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (4026 tokens).
+The most frequent feature combination is `_` (4027 tokens).
 Examples: <em>in, ad, de, per, a, ab, propter, ex, cum, sub</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 11 different relations: <tt><a href="la_udante-dep-case.html">case</a></tt> (3959; 95% instances), <tt><a href="la_udante-dep-mark.html">mark</a></tt> (188; 5% instances), <tt><a href="la_udante-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="la_udante-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="la_udante-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="la_udante-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-flat-foreign.html">flat:foreign</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 10 different relations: <tt><a href="la_udante-dep-case.html">case</a></tt> (3960; 95% instances), <tt><a href="la_udante-dep-mark.html">mark</a></tt> (188; 5% instances), <tt><a href="la_udante-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="la_udante-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="la_udante-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="la_udante-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (2453; 59% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (485; 12% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (473; 11% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (301; 7% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (211; 5% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (175; 4% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (34; 1% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (2454; 59% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (485; 12% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (472; 11% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (301; 7% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (211; 5% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (176; 4% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (34; 1% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 4143 (100%) `ADP` nodes are leaves.
 

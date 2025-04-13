@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Galician-TreeGal: POS Tags: `INTJ`
 
 There are 5 `INTJ` lemmas (0%), 5 `INTJ` types (0%) and 7 `INTJ` tokens (0%).
-Out of 16 observed tags, the rank of `INTJ` is: 15 in number of lemmas, 15 in number of types and 15 in number of tokens.
+Out of 16 observed tags, the rank of `INTJ` is: 16 in number of lemmas, 16 in number of types and 15 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>ha, ho, home, ouh, silencio,</em>
 

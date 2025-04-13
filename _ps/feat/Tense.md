@@ -102,7 +102,7 @@ Overview of the past endings:
 </tr>
 <tr>
   <td align="middle"><b>3</b></td>
-  <td align="middle">- ë</td>
+  <td align="middle">ۀ ë<br/>- -</td>
   <td align="middle">له ëla</td>
   <td align="middle">لۀ ëlë<br/>ل ël</td>
   <td align="middle">لې ële</td>
@@ -124,7 +124,7 @@ The verb forms are tagged with `Tense=Pres`, while the future particle bears the
 `Tense=Fut` tag.
 
 The only verb that can be marked directly with `Tense=Fut` is the third person singular future form
-of the verb “to be”, which differs from it present counterpart: بۀ وی _bë wi_ “He/She/It will be”
+of the verb “to be”, which differs from itS present counterpart: بۀ وی _bë wi_ “He/She/It will be”
 (compare with the present form دی _day_ (m) / ده _da_ (f) “He/She/It is”).
 
 #### Examples
@@ -133,4 +133,4 @@ of the verb “to be”, which differs from it present counterpart: بۀ وی _b
 * future perfective: صبا **بۀ** کتاب **ولرلم** _sabấ **bë** kitấb **wë́lwalëm**_ “I will read a book tomorrow”
 
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:03 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:07 CET -->

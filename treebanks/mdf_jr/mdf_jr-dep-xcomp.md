@@ -58,7 +58,7 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 xcomp	color:blue
-1	Лядыхне	лядомс	VERB	V	Case=Nom|Definite=Def|Derivation=NomAg|Number=Plur	2	nsubj	_	GTtags=NomAg,Pl,Nom,Def
+1	Лядыхне	лядомс	VERB	V	Case=Nom|Definite=Def|Nomzr=Ag|Number=Plur	2	nsubj	_	GTtags=NomAg,Pl,Nom,Def
 2	ащесть	ащемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,ScPl3
 3	оцюняснон	оцюня	ADJ	A	Case=Gen|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	2	obl:lmod	_	GTtags=SP,Gen,PxPl3
 4	перьф	перьф	ADV	Adv	_	3	case	_	_

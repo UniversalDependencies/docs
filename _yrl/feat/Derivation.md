@@ -33,4 +33,4 @@ Derivations attested in Avila (2021:763)
 * [yrl] _itatiwa_ "pebble ground"
 
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:54 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:39 CET -->

@@ -18,4 +18,4 @@ Kota tempat dia dilahirkan \n The city where he was born
 acl:relcl(Kota, dilahirkan)
 acl:relcl(city, born)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:31 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:14 CET -->

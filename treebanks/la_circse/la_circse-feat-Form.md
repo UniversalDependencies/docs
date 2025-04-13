@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Emp`.
 
-192 tokens (1%) have a non-empty value of `Form`.
+202 tokens (1%) have a non-empty value of `Form`.
 28 types (0%) occur at least once with a non-empty value of `Form`.
 13 lemmas (0%) occur at least once with a non-empty value of `Form`.
-The feature is used with 4 part-of-speech tags: <tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (80; 0% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt> (60; 0% instances), <tt><a href="la_circse-pos-PART.html">PART</a></tt> (32; 0% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (20; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (80; 0% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt> (60; 0% instances), <tt><a href="la_circse-pos-PART.html">PART</a></tt> (42; 0% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (20; 0% instances).
 
 ### `CCONJ`
 
@@ -34,13 +34,13 @@ The most frequent other feature values with which `DET` and `Form` co-occurred: 
 
 ### `PART`
 
-32 <tt><a href="la_circse-pos-PART.html">PART</a></tt> tokens (9% of all `PART` tokens) have a non-empty value of `Form`.
+42 <tt><a href="la_circse-pos-PART.html">PART</a></tt> tokens (12% of all `PART` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `PART` and `Form` co-occurred: <tt><a href="la_circse-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (32; 100%), <tt><a href="la_circse-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (32; 100%).
+The most frequent other feature values with which `PART` and `Form` co-occurred: <tt><a href="la_circse-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (42; 100%), <tt><a href="la_circse-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (42; 100%).
 
 `PART` tokens may have the following values of `Form`:
 
-* `Emp` (32; 100% of non-empty `Form`): <em>enim, quoque, nempe</em>
+* `Emp` (42; 100% of non-empty `Form`): <em>quoque, enim, nempe</em>
 
 ### `ADV`
 

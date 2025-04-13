@@ -12,15 +12,15 @@ udver: '2'
 # UD Manx Cadhan
 
 Language: [Manx](/gv/index.html) (code: `gv`)<br/>
-Family: Indo-European, Celtic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.7 release.
 
 The following people have contributed to making this treebank part of UD: Kevin Scannell.
 
 Repository: [UD_Manx-Cadhan](https://github.com/UniversalDependencies/UD_Manx-Cadhan)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgv_cadhan214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgv_cadhan215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: GNU GPL 3.0
 
@@ -116,7 +116,7 @@ consult their work when deciding how to resolve tricky annotation problems.
 
 ## Relations
 
-[acl](gv_cadhan-dep-acl.html) – [acl:relcl](gv_cadhan-dep-acl-relcl.html) – [advcl](gv_cadhan-dep-advcl.html) – [advmod](gv_cadhan-dep-advmod.html) – [amod](gv_cadhan-dep-amod.html) – [appos](gv_cadhan-dep-appos.html) – [case](gv_cadhan-dep-case.html) – [cc](gv_cadhan-dep-cc.html) – [ccomp](gv_cadhan-dep-ccomp.html) – [compound](gv_cadhan-dep-compound.html) – [conj](gv_cadhan-dep-conj.html) – [cop](gv_cadhan-dep-cop.html) – [csubj:cleft](gv_cadhan-dep-csubj-cleft.html) – [csubj:cop](gv_cadhan-dep-csubj-cop.html) – [dep](gv_cadhan-dep-dep.html) – [det](gv_cadhan-dep-det.html) – [discourse](gv_cadhan-dep-discourse.html) – [fixed](gv_cadhan-dep-fixed.html) – [flat](gv_cadhan-dep-flat.html) – [flat:foreign](gv_cadhan-dep-flat-foreign.html) – [iobj](gv_cadhan-dep-iobj.html) – [mark](gv_cadhan-dep-mark.html) – [nmod](gv_cadhan-dep-nmod.html) – [nmod:poss](gv_cadhan-dep-nmod-poss.html) – [nsubj](gv_cadhan-dep-nsubj.html) – [nummod](gv_cadhan-dep-nummod.html) – [obj](gv_cadhan-dep-obj.html) – [obl](gv_cadhan-dep-obl.html) – [obl:tmod](gv_cadhan-dep-obl-tmod.html) – [orphan](gv_cadhan-dep-orphan.html) – [parataxis](gv_cadhan-dep-parataxis.html) – [punct](gv_cadhan-dep-punct.html) – [reparandum](gv_cadhan-dep-reparandum.html) – [root](gv_cadhan-dep-root.html) – [vocative](gv_cadhan-dep-vocative.html) – [xcomp](gv_cadhan-dep-xcomp.html) – [xcomp:pred](gv_cadhan-dep-xcomp-pred.html)
+[acl](gv_cadhan-dep-acl.html) – [acl:relcl](gv_cadhan-dep-acl-relcl.html) – [advcl](gv_cadhan-dep-advcl.html) – [advmod](gv_cadhan-dep-advmod.html) – [amod](gv_cadhan-dep-amod.html) – [appos](gv_cadhan-dep-appos.html) – [case](gv_cadhan-dep-case.html) – [cc](gv_cadhan-dep-cc.html) – [ccomp](gv_cadhan-dep-ccomp.html) – [compound](gv_cadhan-dep-compound.html) – [conj](gv_cadhan-dep-conj.html) – [cop](gv_cadhan-dep-cop.html) – [csubj:cleft](gv_cadhan-dep-csubj-cleft.html) – [csubj:cop](gv_cadhan-dep-csubj-cop.html) – [dep](gv_cadhan-dep-dep.html) – [det](gv_cadhan-dep-det.html) – [discourse](gv_cadhan-dep-discourse.html) – [fixed](gv_cadhan-dep-fixed.html) – [flat](gv_cadhan-dep-flat.html) – [iobj](gv_cadhan-dep-iobj.html) – [mark](gv_cadhan-dep-mark.html) – [nmod](gv_cadhan-dep-nmod.html) – [nmod:poss](gv_cadhan-dep-nmod-poss.html) – [nsubj](gv_cadhan-dep-nsubj.html) – [nummod](gv_cadhan-dep-nummod.html) – [obj](gv_cadhan-dep-obj.html) – [obl](gv_cadhan-dep-obl.html) – [obl:tmod](gv_cadhan-dep-obl-tmod.html) – [orphan](gv_cadhan-dep-orphan.html) – [parataxis](gv_cadhan-dep-parataxis.html) – [punct](gv_cadhan-dep-punct.html) – [reparandum](gv_cadhan-dep-reparandum.html) – [root](gv_cadhan-dep-root.html) – [vocative](gv_cadhan-dep-vocative.html) – [xcomp](gv_cadhan-dep-xcomp.html) – [xcomp:pred](gv_cadhan-dep-xcomp-pred.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -581,7 +581,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>csubj:cleft</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>nmod:poss</a>, <a>obl:tmod</a>, <a>xcomp:pred</a></li>
+<li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>csubj:cleft</a>, <a>csubj:cop</a>, <a>nmod:poss</a>, <a>obl:tmod</a>, <a>xcomp:pred</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>csubj</a></li>
 <li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>aux</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

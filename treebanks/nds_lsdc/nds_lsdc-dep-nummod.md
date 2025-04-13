@@ -11,7 +11,7 @@ This relation is universal.
 79 nodes (0%) are attached to their parents as `nummod`.
 
 71 instances of `nummod` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.21518987341772.
+Average distance between parent and child is 1.20253164556962.
 
 The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (78; 99% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 

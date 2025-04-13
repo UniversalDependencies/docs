@@ -44,7 +44,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Cmp` (13; 76% of non-empty `Degree`): <em>бурджык, зумышджыкӧсь, ичӧтджык, косджыкъяссӧ, лёкджык, озырджыкӧн, олӧмаджык, отаджыкӧсь, паськыдджыкӧсь, томджыкъясӧс</em>
 * `Sup` (4; 24% of non-empty `Degree`): <em>медводдза, меддор, медъён</em>
-* `EMPTY` (475): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
+* `EMPTY` (476): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (14) occur only with one value of `Degree`.
 
@@ -57,5 +57,5 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Cmp` (3; 100% of non-empty `Degree`): <em>вылӧджык, мастерджыкыс, ыліджыкъясті</em>
-* `EMPTY` (2032): <em>урожай, удж, шонді, ва, лун, вӧр, ю, во, му, пу</em>
+* `EMPTY` (2031): <em>урожай, удж, шонді, ва, лун, вӧр, ю, во, му, пу</em>
 

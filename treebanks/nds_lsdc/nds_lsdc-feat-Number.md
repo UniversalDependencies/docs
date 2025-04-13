@@ -12,21 +12,21 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="nds_lsdc-feat-Number.html">Number</a></tt>, <tt><a href="nds_lsdc-feat-Number-psor.html">Number[psor]</a></tt>.
 
-11392 tokens (50%) have a non-empty value of `Number`.
-3557 types (74%) occur at least once with a non-empty value of `Number`.
-2423 lemmas (71%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (2841; 13% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (2536; 11% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (2186; 10% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1629; 7% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (1059; 5% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (671; 3% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (464; 2% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (6; 0% instances).
+11393 tokens (50%) have a non-empty value of `Number`.
+3556 types (74%) occur at least once with a non-empty value of `Number`.
+2324 lemmas (72%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (2844; 13% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (2524; 11% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (2201; 10% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1630; 7% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (1058; 5% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (675; 3% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (455; 2% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (6; 0% instances).
 
 ### `NOUN`
 
-2841 <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+2844 <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (541; 19% of non-empty `Number`): <em>lüde, kinder, ougen, dage, buren, dagen, jåren, minsken, tyden, dinge</em>
+* `Plur` (539; 19% of non-empty `Number`): <em>lüde, kinder, ougen, dage, buren, dagen, jåren, minsken, tyden, dinge</em>
 * `Plur,Sing` (1; 0% of non-empty `Number`): <em>mark</em>
-* `Sing` (2299; 81% of non-empty `Number`): <em>dag, vrouwe, man, tyd, god, her, buur, åvend, doud, huus</em>
-* `EMPTY` (5): <em>mål, godendag, jenevergeld, pår</em>
+* `Sing` (2304; 81% of non-empty `Number`): <em>dag, vrouwe, man, tyd, god, her, buur, åvend, doud, huus</em>
+* `EMPTY` (13): <em>pår, mål, godendag, jenevergeld</em>
 
 <table>
   <tr><th>Paradigm <i>dag</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -39,20 +39,20 @@ The feature is used with 8 part-of-speech tags: <tt><a href="nds_lsdc-pos-NOUN.h
   <tr><td><tt><tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>dag</em></td><td><em>dage</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `NOUN`. 92% lemmas (1299) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NOUN`. 92% lemmas (1239) occur only with one value of `Number`.
 
 ### `PRON`
 
-2536 <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Number`.
+2524 <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1888; 74%), <tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1664; 66%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1888; 75%), <tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1658; 66%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (368; 15% of non-empty `Number`): <em>see, wy, dee, jy, sik, juw, uns, uus, alle, y</em>
+* `Plur` (366; 15% of non-empty `Number`): <em>see, wy, dee, jy, sik, juw, uns, uus, alle, y</em>
 * `Plur,Sing` (109; 4% of non-empty `Number`): <em>y, See, u, jy, uw, hee, höär, sik, wat, ü</em>
-* `Sing` (2059; 81% of non-empty `Number`): <em>ik, hee, et, dat, my, dee, wat, sik, see, em</em>
-* `EMPTY` (45): <em>sik, alle, dat, et, al, der, enander, hum, jy, y</em>
+* `Sing` (2049; 81% of non-empty `Number`): <em>ik, hee, et, dat, my, dee, wat, sik, see, em</em>
+* `EMPTY` (69): <em>der, sik, dår, alle, dat, et, enander, hum, jy, y</em>
 
 <table>
   <tr><th>Paradigm <i>see</i></th><th><tt>Plur,Sing</tt></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -79,15 +79,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `DET`
 
-2186 <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
+2201 <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="nds_lsdc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1879; 86%), <tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (1713; 78%), <tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1367; 63%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="nds_lsdc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1894; 86%), <tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (1703; 77%), <tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1365; 62%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (344; 16% of non-empty `Number`): <em>de, dee, syne, den, alle, eare, keyne, myn, syn, uw</em>
-* `Sing` (1842; 84% of non-empty `Number`): <em>de, en, den, dat, et, dem, myn, syn, dee, der</em>
-* `EMPTY` (19): <em>en, un, Den, allerley, eyn, eyne, myn, uw, −</em>
+* `Plur` (348; 16% of non-empty `Number`): <em>de, dee, syne, den, alle, eare, keyne, myn, syn, uw</em>
+* `Sing` (1853; 84% of non-empty `Number`): <em>de, en, den, dat, et, dem, myn, syn, dee, der</em>
+* `EMPTY` (20): <em>en, al, Den, alle, allerley, eyn, eyne, myn, uw, −</em>
 
 <table>
   <tr><th>Paradigm <i>de</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -97,22 +97,24 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>de</em></td><td></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>de</em></td><td></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>de</em></td><td><em>de, den</em></td></tr>
-  <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>dat, et, det, den</em></td><td><em>de, dee</em></td></tr>
+  <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>dat, et, det, 't, den</em></td><td><em>de, dee</em></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>de</em></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>den</em></td><td><em>de, dee</em></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>den, de, dat, dean</em></td><td><em>de, dee, den</em></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>dean</em></td><td></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>de</em></td><td><em>de, dee</em></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>de, dee</em></td><td><em>de, dee, den</em></td></tr>
-  <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>dat, et, det, 't, t</em></td><td><em>de, dee</em></td></tr>
+  <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>'n</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>dat, et, det, 't, de, t</em></td><td><em>de, dee</em></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>de</em></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>den</em></td><td></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>dee, de</em></td><td></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>dee</em></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>dem</em></td><td><em>den</em></td></tr>
-  <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>dem, m, deam, den, me, n, 'm, de, myn</em></td><td><em>den</em></td></tr>
+  <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>dem, m, 'm, deam, den, me, n, de, myn</em></td><td><em>den</em></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>der, dear, 'r, de, den, er</em></td><td><em>den, der</em></td></tr>
-  <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>dem, 'n, 'm, den, m, n</em></td><td><em>dean, den</em></td></tr>
+  <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>deam</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>dem, 'n, den, 'm, m, me, n</em></td><td><em>dean, den</em></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>den</em></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>den</em></td><td></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>'m</em></td><td></td></tr>
@@ -128,9 +130,9 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>de, Dee</em></td><td></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>de, dee</em></td><td><em>de, dee</em></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>dat</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>dat, et, det</em></td><td><em>de, Dat, Dee</em></td></tr>
+  <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>dat, et, det</em></td><td><em>de, dee, Dat</em></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>de, dee</em></td></tr>
-  <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>de</em></td><td><em>de</em></td></tr>
+  <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>de, dee</em></td><td><em>de</em></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>Dee</em></td><td></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>dee</em></td><td><em>dee</em></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>dat</em></td><td></td></tr>
@@ -139,16 +141,16 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `VERB`
 
-1629 <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Number`.
+1630 <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="nds_lsdc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1629; 100%), <tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1500; 92%), <tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=3</tt> (1192; 73%), <tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (867; 53%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="nds_lsdc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1630; 100%), <tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1501; 92%), <tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=3</tt> (1193; 73%), <tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (868; 53%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (276; 17% of non-empty `Number`): <em>saeten, sean, hebbet, gåt, hebben, hevvet, kaemen, ståt, doot, gungen</em>
 * `Plur,Sing` (47; 3% of non-empty `Number`): <em>hebbet, doot, gå, gåt, seggen, weat, wordet, Hold, Koup, Låt</em>
-* `Sing` (1306; 80% of non-empty `Number`): <em>hadde, sea, kam, het, sead, segt, gung, geit, kaem, segge</em>
-* `EMPTY` (941): <em>seggen, gån, seen, maken, koamen, hebben, holden, doon, låten, worden</em>
+* `Sing` (1307; 80% of non-empty `Number`): <em>hadde, sea, kam, het, sead, segt, gung, geit, kaem, segge</em>
+* `EMPTY` (940): <em>seggen, gån, seen, maken, koamen, hebben, holden, doon, låten, worden</em>
 
 <table>
   <tr><th>Paradigm <i>seggen</i></th><th><tt>Plur,Sing</tt></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -167,15 +169,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `AUX`
 
-1059 <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Number`.
+1058 <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (971; 92%), <tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=3</tt> (790; 75%), <tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (599; 57%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (970; 92%), <tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=3</tt> (789; 75%), <tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (599; 57%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Plur` (195; 18% of non-empty `Number`): <em>hadden, weren, sint, sünt, willet, hebbet, köänet, hebben, wassen, kunnen</em>
 * `Plur,Sing` (25; 2% of non-empty `Number`): <em>kün, bint, künnet, heb, sünt, kan, mag, mö, müttet, sin</em>
-* `Sing` (839; 79% of non-empty `Number`): <em>is, was, het, hadde, weer, kan, wil, wul, kun, sal</em>
+* `Sing` (838; 79% of non-empty `Number`): <em>is, was, het, hadde, weer, kan, wil, kun, wul, sal</em>
 * `EMPTY` (86): <em>syn, west, weasen, werden, worden, hebben, ewesd, must, weasd, ewest</em>
 
 <table>
@@ -205,15 +207,15 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `ADJ`
 
-671 <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> tokens (53% of all `ADJ` tokens) have a non-empty value of `Number`.
+675 <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> tokens (51% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="nds_lsdc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (570; 85%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="nds_lsdc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (575; 85%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (139; 21% of non-empty `Number`): <em>olden, beiden, beide, gode, olde, andere, lange, anderen, eyrsten, goden</em>
-* `Sing` (532; 79% of non-empty `Number`): <em>olde, goden, groute, grouten, eyrste, ganse, gode, old, ander, andere</em>
-* `EMPTY` (605): <em>good, gans, recht, pår, richtig, vul, doud, heyl, meyr, bange</em>
+* `Plur` (138; 20% of non-empty `Number`): <em>olden, beiden, beide, gode, olde, andere, lange, eyrsten, goden, grouten</em>
+* `Sing` (537; 80% of non-empty `Number`): <em>olde, goden, grouten, groute, eyrste, ganse, gode, old, heyle, olden</em>
+* `EMPTY` (639): <em>eyrst, good, gans, gerade, recht, richtig, vul, doud, heyl, meyr</em>
 
 <table>
   <tr><th>Paradigm <i>good</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -237,12 +239,12 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PROPN`
 
-464 <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Number`.
+455 <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (3; 1% of non-empty `Number`): <em>Berbiessies, Drüüksken, Dörchläuchten</em>
-* `Sing` (461; 99% of non-empty `Number`): <em>Pölz, Hiärmen, Anna, Koch, Andries, Gassen, Jesus, Willem, Hein, Diekes</em>
+* `Plur` (4; 1% of non-empty `Number`): <em>Berbiessies, Drüüksken, Dörchläuchten, Slaumayers</em>
+* `Sing` (451; 99% of non-empty `Number`): <em>Pölz, Hiärmen, Anna, Koch, Andries, Gassen, Jesus, Willem, Hein, Annegyn</em>
 * `EMPTY` (11): <em>Kägebein, Bronswik, Eskes, Joost, Maria, Marten, Röm., Vermeer, Wonnink, van</em>
 
 <table>
@@ -250,7 +252,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
   <tr><td><tt></tt></td><td><em>Dörchläuchten</em></td><td><em>Dörchläuchten</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (323) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (312) occur only with one value of `Number`.
 
 ### `NUM`
 
@@ -267,14 +269,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="nds_lsdc-dep-det.html">det</a></tt>]--> DET</tt> (1983; 98%),
-<tt>VERB --[<tt><a href="nds_lsdc-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (845; 64%),
-<tt>NOUN --[<tt><a href="nds_lsdc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (543; 95%),
-<tt>VERB --[<tt><a href="nds_lsdc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (308; 70%),
-<tt>VERB --[<tt><a href="nds_lsdc-dep-conj.html">conj</a></tt>]--> VERB</tt> (280; 61%),
-<tt>NOUN --[<tt><a href="nds_lsdc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (142; 85%),
-<tt>NOUN --[<tt><a href="nds_lsdc-dep-cop.html">cop</a></tt>]--> AUX</tt> (125; 80%),
-<tt>NOUN --[<tt><a href="nds_lsdc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (120; 71%),
-<tt>VERB --[<tt><a href="nds_lsdc-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (81; 78%),
-<tt>NOUN --[<tt><a href="nds_lsdc-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (74; 78%).
+<tt>NOUN --[<tt><a href="nds_lsdc-dep-det.html">det</a></tt>]--> DET</tt> (1997; 98%),
+<tt>VERB --[<tt><a href="nds_lsdc-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (848; 64%),
+<tt>NOUN --[<tt><a href="nds_lsdc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (541; 96%),
+<tt>VERB --[<tt><a href="nds_lsdc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (307; 70%),
+<tt>VERB --[<tt><a href="nds_lsdc-dep-conj.html">conj</a></tt>]--> VERB</tt> (281; 61%),
+<tt>NOUN --[<tt><a href="nds_lsdc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (143; 85%),
+<tt>NOUN --[<tt><a href="nds_lsdc-dep-cop.html">cop</a></tt>]--> AUX</tt> (124; 79%),
+<tt>NOUN --[<tt><a href="nds_lsdc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (119; 68%),
+<tt>VERB --[<tt><a href="nds_lsdc-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (80; 77%),
+<tt>NOUN --[<tt><a href="nds_lsdc-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (74; 79%).
 

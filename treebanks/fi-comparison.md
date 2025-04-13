@@ -210,7 +210,7 @@ udver: '2'
   <tr>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 49 lemmas tagged as pronouns (PRON): ei-kukaan, ei-mikään, eri, eräs, harva, he, hän, itse, joka, jokainen, jokin, joku, jompi, jompikumpi, kaikki, kuka, kukaan, kukakin, kukin, kumpi, kumpikaan, kumpikin, me, mikä, mikäkin, mikään, minä, molemmat, mones, moni, muu, muutama, ne, niin, nuo, nämä, sama, se, sellainen, siksi, silleen, sinä, siten, te, toinen, tuo, tämä, usea, yksi</li>
+      <li>This corpus contains 46 lemmas tagged as pronouns (PRON): ei-kukaan, ei-mikään, eri, eräs, harva, hän, itse, joka, jokainen, jokin, joku, jompi, jompikumpi, kaikki, kuka, kukaan, kukakin, kukin, kumpi, kumpikaan, kumpikin, mikä, mikäkin, mikään, minä, molemmat, mones, moni, muu, muutama, ne, niin, nuo, nämä, sama, se, sellainen, siksi, silleen, sinä, siten, toinen, tuo, tämä, usea, yksi</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -232,7 +232,7 @@ udver: '2'
   <tr>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 51 lemmas tagged as determiners (DET): ei-kukaan, eri, eräs, harva, he, hän, itse, joka, jokainen, jokin, joku, jokunen, jompikumpi, kaikki, kuka, kukaan, kukin, kumpi, kumpikaan, kumpikin, me, mikä, mikäkin, mikään, minä, molemmat, mones, moni, monta, muu, muuan, muutama, ne, nuo, nämä, sama, se, sellainen, semmoinen, sinä, te, toinen, tuo, tuollainen, tuolloinen, tuommoinen, tällainen, tämmöinen, tämä, usea, yksi</li>
+      <li>This corpus contains 46 lemmas tagged as determiners (DET): ei-kukaan, eri, eräs, harva, itse, joka, jokainen, jokin, joku, jokunen, jompikumpi, kaikki, kuka, kukaan, kukin, kumpi, kumpikaan, kumpikin, me, mikä, mikäkin, mikään, molemmat, mones, moni, monta, muu, muuan, muutama, ne, nuo, nämä, sama, se, sellainen, semmoinen, toinen, tuo, tuollainen, tuolloinen, tuommoinen, tällainen, tämmöinen, tämä, usea, yksi</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -254,7 +254,7 @@ udver: '2'
   <tr>
     <td width="25%" valign="top">
       <ul>
-      <li>Out of the above, 42 lemmas occurred sometimes as PRON and sometimes as DET: ei-kukaan, eri, eräs, harva, he, hän, itse, joka, jokainen, jokin, joku, jompikumpi, kaikki, kuka, kukaan, kukin, kumpi, kumpikaan, kumpikin, me, mikä, mikäkin, mikään, minä, molemmat, mones, moni, muu, muutama, ne, nuo, nämä, sama, se, sellainen, sinä, te, toinen, tuo, tämä, usea, yksi</li>
+      <li>Out of the above, 36 lemmas occurred sometimes as PRON and sometimes as DET: ei-kukaan, eri, eräs, harva, itse, joka, jokainen, jokin, joku, jompikumpi, kaikki, kuka, kukaan, kukin, kumpi, kumpikaan, kumpikin, mikä, mikäkin, mikään, molemmat, mones, moni, muu, muutama, ne, nuo, nämä, sama, se, sellainen, toinen, tuo, tämä, usea, yksi</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -537,10 +537,10 @@ udver: '2'
             <li>ADJ: uusia, suomalaiset, hyvät, hyviä, omat, omia, pienet, uudet, nuoret, suomalaisia</li>
             <li>AUX-Fin: ovat, eivät, olivat, emme, olemme, olette, ette, voivat, olisivat, älkää</li>
             <li>AUX-Part: olleet, voineet, olevinaan, olevinasi, olleetkaan, tainneet</li>
-            <li>DET: meidän, ne, heidän, niitä, nämä, niiden, muut, useita, näitä, monet</li>
+            <li>DET: ne, niitä, nämä, niiden, muut, useita, näitä, monet, muita, näillä</li>
             <li>NOUN: ihmiset, lapset, naiset, miehet, asioita, ihmisiä, asiat, ihmisten, naisten, lapsia</li>
             <li>NUM: puolet, tuhansia, satoja, kymmeniä, kahdet, kaksin, kymmenien, miljoonien, puolilta, kolmissakymmenissä</li>
-            <li>PRON: ne, he, me, meillä, jotka, niitä, te, meidän, meitä, joita</li>
+            <li>PRON: ne, he, me, meillä, meidän, jotka, te, niitä, heidän, meitä</li>
             <li>PROPN: Yhdysvaltain, Sanomat, Yhdysvalloissa, Pohjoismaiden, Sanomien, Sanomissa, Yhdysvallat, Yhdysvaltojen, Pohjoismaissa, Ahtisaarten</li>
             <li>VERB-Fin: ovat, olivat, tulevat, saavat, saivat, eivät, haluavat, kuuluvat, olemme, jäivät</li>
             <li>VERB-Part: saaneet, olleet, olevat, tulleet, olevia, kuulleet, kertoneet, menneet, tehdyt, alkaneet</li>
@@ -612,10 +612,10 @@ udver: '2'
             <li>ADJ: hyvä, hyvää, uusi, oma, ensimmäinen, uutta, uuden, suuri, ainoa, oman</li>
             <li>AUX-Fin: on, ei, oli, en, voi, olisi, olen, eikä, olin, et</li>
             <li>AUX-Part: ollut, olevan, voinut, pitänyt, ollu, voitu, täytynyt, oltava, oltu, olevansa</li>
-            <li>DET: se, sen, hänen, tämä, sitä, joku, tällä, tässä, jotain, tämän</li>
+            <li>DET: se, sen, tämä, sitä, joku, tällä, tässä, jotain, tämän, tänä</li>
             <li>NOUN: mies, vuoden, vuotta, asia, aikaa, äiti, vuonna, kertaa, osa, markkaa</li>
             <li>NUM: kaksi, yksi, kolme, kymmenen, viisi, kahden, pari, yhden, neljä, viiden</li>
-            <li>PRON: se, hän, minä, sen, sitä, joka, mä, sinä, siitä, tämä</li>
+            <li>PRON: se, hän, minä, sen, sitä, joka, mä, hänen, sinä, siitä</li>
             <li>PROPN: Suomen, suomessa, Suomi, Helsingin, Maija, Mikko, Euroopan, Anna, Helsingissä, Suomeen</li>
             <li>VERB-Fin: on, oli, tulee, tuli, ei, sanoi, saa, sai, sanoo, meni</li>
             <li>VERB-Part: ollut, saanut, tullut, olevan, oleva, tehty, käynyt, sanonut, tehnyt, nähnyt</li>
@@ -927,7 +927,7 @@ udver: '2'
         <li>All
           <ul>
             <li>ADJ: hyvälle, suomalaisille, kauniille, omalle, uudelle, pienelle, poliittisille, suomalaiselle, vieraalle, ahtaalle</li>
-            <li>DET: kaikille, sille, toiselle, jokaiselle, niille, monelle, tälle, joillekin, meille, mille</li>
+            <li>DET: kaikille, sille, toiselle, jokaiselle, niille, monelle, tälle, joillekin, mille, näille</li>
             <li>NOUN: lapselle, maalle, ihmiselle, kahville, lapsille, paikalle, pihalle, ulkomaille, äidille, asialle</li>
             <li>NUM: kahdelle, viidelle, puolelle, miljoonalle, yksille, 40:lle, 95:lle, kahdeksalle, kuudelle, kymmenkunnalle</li>
             <li>PRON: minulle, hänelle, meille, sinulle, sulle, sille, itselleen, heille, mulle, niille</li>
@@ -1035,7 +1035,7 @@ udver: '2'
             <li>DET: tästä, siitä, muista, näistä, kaikista, jostakin, mistä, niistä, samasta, sellaisesta</li>
             <li>NOUN: asiasta, vuodesta, asioista, ihmisistä, lapsista, ovesta, päästä, syystä, työstä, autosta</li>
             <li>NUM: kahdesta, kolmesta, yhdestä, neljästä, viidestä, 300-400:sta, 31:stä, 32:sta, 761:stä, iltakuudesta</li>
-            <li>PRON: siitä, tästä, minusta, mistä, hänestä, josta, niistä, joista, meistä, sinusta</li>
+            <li>PRON: siitä, tästä, minusta, mistä, hänestä, josta, niistä, meistä, joista, sinusta</li>
             <li>PROPN: Porvoosta, Suomesta, Jyväskylästä, Helsingistä, Virosta, Brysselistä, Englannista, Euroopasta, Maijasta, Pekasta</li>
             <li>VERB-Inf: näkemästä, puhumasta, katsomasta, käymästä, lähtemästä, menemästä, puuttumasta, sanomasta, tekemästä, aloittamasta</li>
             <li>VERB-Part: aiheuttamasta, tehdyistä, tulevasta, harkitsevista, jätetyistä, olevista, puhumastaan, saavutetuista, vaikuttavista, Kasvavista</li>
@@ -1158,10 +1158,10 @@ udver: '2'
           <ul>
             <li>ADJ: uuden, oman, pienen, suomalaisen, ensimmäisen, erityisen, mahdollisimman, suomalaisten, hyvän, nuorten</li>
             <li>AUX-Part: olevan, olevansa, voitavan, voivan, olleen, olevani, voivani, voivansa</li>
-            <li>DET: sen, hänen, tämän, meidän, minun, heidän, muutaman, niiden, mun, jonka</li>
+            <li>DET: sen, tämän, muutaman, niiden, jonka, jonkin, kaiken, kaikkien, muiden, jokaisen</li>
             <li>NOUN: vuoden, kerran, ajan, miehen, auton, päivän, kirjan, talon, asian, ihmisen</li>
             <li>NUM: kahden, yhden, viiden, kolmen, kymmenen, miljoonan, neljän, parin, puolen, sadan</li>
-            <li>PRON: sen, hänen, minun, itsensä, jonka, meidän, tämän, kaiken, sinun, heidän</li>
+            <li>PRON: sen, hänen, minun, meidän, heidän, itsensä, jonka, mun, sinun, tämän</li>
             <li>PROPN: Suomen, Helsingin, Euroopan, Ruotsin, Tampereen, Venäjän, Ranskan, EU:n, Turun, Nokian</li>
             <li>VERB-Part: olevan, olevansa, tulevan, tulleen, kuluvan, olleen, kadonneen, näkevän, pitävän, tulevansa</li>
           </ul>
@@ -1511,7 +1511,7 @@ udver: '2'
             <li>DET: mitään, sitä, jotain, mitä, tätä, monta, niitä, useita, näitä, jotakin</li>
             <li>NOUN: vuotta, aikaa, kertaa, markkaa, rahaa, asiaa, kahvia, prosenttia, päivää, työtä</li>
             <li>NUM: miljoonaa, yhtä, tuhansia, satoja, kahta, miljardia, kymmeniä, sataa, viittä, tuhatta</li>
-            <li>PRON: sitä, mitä, minua, häntä, mitään, niitä, jota, tätä, jotain, meitä</li>
+            <li>PRON: sitä, mitä, minua, häntä, mitään, niitä, jota, tätä, meitä, jotain</li>
             <li>PROPN: Suomea, Helsinkiä, Pekkaa, Ahtisaarta, Dianaa, Elinaa, Eurooppaa, Koivistoa, Mikkoa, Akselia</li>
             <li>VERB-Part: olevia, olevaa, tehtyä, tultua, jääneitä, levättyään, aiheuttamaa, annettavaa, katsottavaa, kuultuaan</li>
           </ul>
@@ -2468,8 +2468,8 @@ udver: '2'
           <ul>
             <li>ADJ: jonkinlaista, samanlaisia, samanlainen, monenlaista, kaikenlaista, minkäänlaista, monenlaisia, kaikenlaisia, samanlaista, jonkinlainen</li>
             <li>ADV: usein, muuten, muualla, jotenkin, harvoin, samoin, jossakin, missään, mitenkään, miten</li>
-            <li>DET: joka, kaikki, eri, mitään, joku, jotain, monta, mikään, toinen, muutaman</li>
-            <li>PRON: kaikki, mitään, joku, kukaan, jotain, toinen, muuta, kaiken, muut, jotakin</li>
+            <li>DET: joka, kaikki, eri, mitään, joku, jotain, monta, mikään, muutaman, toinen</li>
+            <li>PRON: kaikki, mitään, joku, kukaan, toinen, jotain, muuta, kaiken, muut, jotakin</li>
           </ul>
         </li>
       </ul>
@@ -2511,8 +2511,8 @@ udver: '2'
           <ul>
             <li>ADJ: millainen, minkälainen, millaisia, minkälaisen, millaisen, millaisena, millanen, mimmonen, minkälaisia, minkäslaista</li>
             <li>ADV: miten, kuinka, miksi, missä, milloin, mitä, miks, mihin, mistä, minne</li>
-            <li>DET: mitä, mikä, missä, millä, minkä, kuka, kenen, mistä, ketä, mihin</li>
-            <li>PRON: mitä, kuka, mikä, mistä, miltä, mitäs, minkä, kenelle, ketä, kenen</li>
+            <li>DET: mitä, mikä, missä, millä, minkä, kuka, mistä, kenen, ketä, mihin</li>
+            <li>PRON: mitä, kuka, mikä, mistä, miltä, mitäs, minkä, kenen, kenelle, ketä</li>
           </ul>
         </li>
       </ul>
@@ -2550,8 +2550,8 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>DET: hänen, meidän, minun, heidän, mun, sinun, teidän, sun, sinä, meistä</li>
-            <li>PRON: hän, minä, mä, sinä, he, me, hänen, minulla, minua, sä</li>
+            <li>DET: meidän</li>
+            <li>PRON: hän, minä, mä, hänen, sinä, he, me, minun, minulla, minua</li>
           </ul>
         </li>
       </ul>
@@ -2907,8 +2907,8 @@ udver: '2'
         <li>1
           <ul>
             <li>AUX-Fin: en, olen, olin, emme, olemme, olisin, enkä, voin, oon, voisin</li>
-            <li>DET: meidän, minun, mun, meistä, meiän, Meillä, meille, meitä, minunkin, minä</li>
-            <li>PRON: minä, mä, me, minulla, minua, minun, meillä, minulle, meidän, meitä</li>
+            <li>DET: meidän</li>
+            <li>PRON: minä, mä, me, minun, minulla, minua, meillä, meidän, minulle, mun</li>
             <li>VERB-Fin: olen, sanoin, olin, tulen, ajattelin, näin, sain, haluan, lähden, söin</li>
           </ul>
         </li>
@@ -2954,8 +2954,7 @@ udver: '2'
         <li>2
           <ul>
             <li>AUX-Fin: et, älä, olet, olette, ette, oot, älkää, voit, olisit, oletko</li>
-            <li>DET: sinun, teidän, sun, sinä, te, teille, teiän</li>
-            <li>PRON: sinä, sä, te, sinulle, sinun, sinua, sinulla, sulle, teillä, sinut</li>
+            <li>PRON: sinä, sä, te, sinun, sinulle, sinua, sinulla, teidän, sun, sulle</li>
             <li>VERB-Fin: olet, ota, saat, tule, anna, tulet, haluat, tulkaa, saatte, teet</li>
           </ul>
         </li>
@@ -3001,8 +3000,7 @@ udver: '2'
         <li>3
           <ul>
             <li>AUX-Fin: on, ei, oli, ovat, voi, olisi, eivät, eikä, olivat, pitäisi</li>
-            <li>DET: hänen, heidän, heillä, häne</li>
-            <li>PRON: hän, he, hänen, häntä, hänellä, hänet, hänelle, heidän, hänestä, heillä</li>
+            <li>PRON: hän, hänen, he, häntä, heidän, hänellä, hänet, hänelle, hänestä, heillä</li>
             <li>VERB-Fin: on, oli, tulee, tuli, ei, sanoi, saa, ovat, sai, sanoo</li>
           </ul>
         </li>
@@ -3373,10 +3371,10 @@ udver: '2'
                 <li>ADP: mukaanhan, puolellahan</li>
                 <li>ADV: ainahan, niinhän, nythän, kuinkahan, Nykyäänhän, Täällähän, Vastahan, huomennahan, ympärillähän, Justhan</li>
                 <li>AUX-Fin: eihän, onhan, enhän, Älähän, ethän, olihan, ovathan, voidaanhan, Olenhan, Olisihan</li>
-                <li>DET: Jokainenhan, Minkähän, Minunhan, Mitähän, Tämähän</li>
+                <li>DET: Jokainenhan, Minkähän, Mitähän, Tämähän</li>
                 <li>NOUN: teoshan, Hermothan, Karttaagohan, Lapsiinhan, Levyähän, Mieshän, Ohrahan, Oopperahan, Vaarojahan, autothan</li>
                 <li>PART: Johan, kyllähän, kylhän</li>
-                <li>PRON: sehän, Mitähän, Minähän, sinähän, Kaikkihan, Kukahan, Mehän, Miltähän, Tuostahan, senhän</li>
+                <li>PRON: sehän, Mitähän, Minähän, sinähän, Kaikkihan, Kukahan, Mehän, Miltähän, Tuostahan, minunhan</li>
                 <li>PROPN: Kallellahan, Kreikassahan, Mattihan, Mikkohan, Moonahan, Pekkahan, Venäjänhän</li>
                 <li>VERB-Fin: onhan, Antakaahan, saanhan, Kuulkaahan, Olithan, eihän, katohan, Haluammehan, Jäihän, Kävinhän</li>
                 <li>VERB-Part: Mentävähän, Valvottuahan, kuolluthan</li>
@@ -3450,11 +3448,11 @@ udver: '2'
                 <li>ADP: sisälläkin, alussakin, jälkeenkin, keskelläkin</li>
                 <li>ADV: hyvinkin, ennenkin, muutenkin, nytkin, pikemminkin, edelleenkin, paljonkin, enemmänkin, nykyisinkin, sittenkin</li>
                 <li>AUX-Fin: onkin, olikin, ovatkin, olisikin, Taidatkin, olekin, olenkin, olinkin, Oltiinkin, Taidankin</li>
-                <li>DET: muitakin, minunkin, muutakin, muutkin, tänäkin, niidenkin, senkin, tämänkin, tässäkin, Muissakin</li>
+                <li>DET: muitakin, muutakin, muutkin, tänäkin, niidenkin, senkin, tämänkin, tässäkin, Muissakin, Nekin</li>
                 <li>NOUN: jatkossakin, loputkin, ajatuskin, housutkin, lapsetkin, lapsikin, olosuhteetkin, tottakin, yölläkin, äidillekin</li>
                 <li>NUM: yksikin, kaksikin, yhdenkin, kolmenkin, puolikin, tuhansienkin, viisikin</li>
                 <li>PART: vieläkin, varmaankin, vihdoinkin, myöskin, todellakin, vähintäänkin, kylläkin, niinkin, näinkin</li>
-                <li>PRON: itsekin, minäkin, sekin, sinäkin, muutakin, meilläkin, hänkin, minullekin, hekin, itselleenkin</li>
+                <li>PRON: itsekin, minäkin, sekin, sinäkin, muutakin, meilläkin, hänkin, minullekin, minunkin, hekin</li>
                 <li>PROPN: Englannissakin, Kirsikin, Liisakin, Soiliki, Suomenkin, Suomessakin, Suomikin, Brysselissäkin, Emuunkin, Englanninkin</li>
                 <li>VERB-Fin: Menenkin, onkin, olikin, tulekin, löytyikin, olekin, olisikin, ryhtyikin, saikin, tekikin</li>
                 <li>VERB-Inf: maksaakin, arvatenkin, kammatakkim, kierteekkiis, kuolemaisillaankin, reissatakin, sanookki, tehdäkin, tullakin, tullessaankin</li>
@@ -4431,7 +4429,7 @@ udver: '2'
                 <li>ADV: aikanaan, keskenään, mielellään, tahallaan, kallellaan, mukanaan, tosissaan, huolissaan, parhaillaan, ylipäätään</li>
                 <li>AUX-Inf: ollakseen, ollessaan, voidakseen</li>
                 <li>AUX-Part: olevansa, olevinaan, oltuaan, voivansa</li>
-                <li>DET: itsensä, toistensa, toisensa, itseensä</li>
+                <li>DET: toistensa, itsensä, toisensa, itseensä</li>
                 <li>NOUN: kätensä, ikänsä, lapsensa, nimekseen, päätään, äitinsä, elämänsä, isänsä, paikkaansa, poikansa</li>
                 <li>PRON: itsensä, itseään, toisiaan, itselleen, toisensa, itsestään, toistaan, itseensä, toisiinsa, toistensa</li>
                 <li>PROPN: Decameronensa, Matchinsa, McLarenistaan, Mersuaan, Saimansa</li>
@@ -4619,12 +4617,12 @@ udver: '2'
                 <li>AUX-Inf: oleen</li>
                 <li>AUX-Part: ollu, pitäny, olluh, ollukkaan, olluv, tarvinnu, voinu</li>
                 <li>CCONJ: mut, mutt, ja/vai, vaikk</li>
-                <li>DET: tää, mun, semmonen, toi, noi, sun, nää, yks, tän, semmoseen</li>
+                <li>DET: tää, semmonen, toi, noi, nää, yks, tän, semmoseen, tota, niit</li>
                 <li>INTJ: viis</li>
                 <li>NOUN: viikkoo, aikkaav, daideilijaa, ihmisist, juttuu, kotio, kuukkautteenkaa, lauantaiks, liftii, lähössä</li>
                 <li>NUM: yks, kaks, yhen, puol, kuus, kuutee, satayheksänkymmentä, seitsemä, viis, yheksän</li>
                 <li>PART: ni, niinku, nii, tota, sitte, just, vaa, iha, kyl, nin</li>
-                <li>PRON: mä, sä, tää, mun, sulle, mulla, sulla, mie, mua, mul</li>
+                <li>PRON: mä, sä, mun, tää, sun, sulle, mulla, sulla, mie, mua</li>
                 <li>PROPN: Soiliki, iiässäs, Ailii, Alfas, Annillakkii, Dödö, Hesaris, Hiakal, Jokine, Juttutupaa</li>
                 <li>SCONJ: ett, et, ku, vaikk, ko, kun, jott, Vaik, ette, joss</li>
                 <li>VERB-Fin: sano, oo, onks, ollu, aattelin, o, olis, ois, katotaan, oon</li>
@@ -4859,34 +4857,34 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB-Fin--NOUN-All (1)</li>
-            <li>VERB-Fin--NOUN-Ela (94)</li>
+            <li>VERB-Fin--NOUN-Ela (92)</li>
             <li>VERB-Fin--NOUN-Gen (7)</li>
-            <li>VERB-Fin--NOUN-Nom (4223)</li>
+            <li>VERB-Fin--NOUN-Nom (4224)</li>
             <li>VERB-Fin--NOUN-Par (1054)</li>
             <li>VERB-Fin--PRON-Acc (7)</li>
             <li>VERB-Fin--PRON-All (1)</li>
             <li>VERB-Fin--PRON-Ela (44)</li>
             <li>VERB-Fin--PRON-Gen (22)</li>
             <li>VERB-Fin--PRON-Gen-ADP(kanssa) (1)</li>
-            <li>VERB-Fin--PRON-Nom (3042)</li>
+            <li>VERB-Fin--PRON-Nom (3043)</li>
             <li>VERB-Fin--PRON-Par (120)</li>
             <li>VERB-Inf--NOUN-Ela (13)</li>
-            <li>VERB-Inf--NOUN-Gen (172)</li>
-            <li>VERB-Inf--NOUN-Nom (387)</li>
+            <li>VERB-Inf--NOUN-Gen (167)</li>
+            <li>VERB-Inf--NOUN-Nom (386)</li>
             <li>VERB-Inf--NOUN-Par (54)</li>
             <li>VERB-Inf--PRON-All (1)</li>
             <li>VERB-Inf--PRON-Ela (3)</li>
-            <li>VERB-Inf--PRON-Gen (181)</li>
+            <li>VERB-Inf--PRON-Gen (174)</li>
             <li>VERB-Inf--PRON-Nom (223)</li>
             <li>VERB-Inf--PRON-Par (11)</li>
             <li>VERB-Part--NOUN-Ela (18)</li>
-            <li>VERB-Part--NOUN-Gen (226)</li>
-            <li>VERB-Part--NOUN-Nom (517)</li>
+            <li>VERB-Part--NOUN-Gen (142)</li>
+            <li>VERB-Part--NOUN-Nom (527)</li>
             <li>VERB-Part--NOUN-Par (112)</li>
             <li>VERB-Part--PRON-All (1)</li>
             <li>VERB-Part--PRON-Ela (13)</li>
-            <li>VERB-Part--PRON-Gen (124)</li>
-            <li>VERB-Part--PRON-Nom (490)</li>
+            <li>VERB-Part--PRON-Gen (102)</li>
+            <li>VERB-Part--PRON-Nom (494)</li>
             <li>VERB-Part--PRON-Par (18)</li>
           </ul>
         </li>
@@ -4992,11 +4990,11 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN-Ela (18)</li>
+            <li>VERB-Fin--NOUN-Ela (17)</li>
             <li>VERB-Fin--NOUN-Gen (889)</li>
             <li>VERB-Fin--NOUN-Ill (2)</li>
             <li>VERB-Fin--NOUN-Nom (727)</li>
-            <li>VERB-Fin--NOUN-Par (1989)</li>
+            <li>VERB-Fin--NOUN-Par (1990)</li>
             <li>VERB-Fin--NOUN-Par-ADP(paitsi) (3)</li>
             <li>VERB-Fin--NOUN-Par-ADP(vaille) (1)</li>
             <li>VERB-Fin--NOUN-Tra (1)</li>
@@ -5237,8 +5235,8 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 8 relation subtypes: <a>compound:nn</a>, <a>compound:prt</a>, <a>csubj:cop</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a>, <a>xcomp:ds</a></li>
-      <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>obl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>parataxis</a></li>
+      <li>This corpus uses 11 relation subtypes: <a>cc:preconj</a>, <a>compound:nn</a>, <a>compound:prt</a>, <a>csubj:cop</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a>, <a>obl:agent</a>, <a>xcomp:ds</a></li>
+      <li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>parataxis</a></li>
       </ul>
     </td>
     <td width="25%" valign="top">

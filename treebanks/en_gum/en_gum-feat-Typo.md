@@ -18,7 +18,7 @@ The feature is used with 15 part-of-speech tags: <tt><a href="en_gum-pos-VERB.ht
 
 72 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="en_gum-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (62; 86%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (42; 58%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (42; 58%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (42; 58%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="en_gum-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (62; 86%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (41; 57%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (41; 57%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (41; 57%).
 
 `VERB` tokens may have the following values of `Typo`:
 
@@ -109,6 +109,8 @@ The most frequent other feature values with which `PROPN` and `Typo` co-occurred
 ### `INTJ`
 
 14 <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> tokens (1% of all `INTJ` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `INTJ` and `Typo` co-occurred: <tt><a href="en_gum-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (14; 100%).
 
 `INTJ` tokens may have the following values of `Typo`:
 

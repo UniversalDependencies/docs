@@ -12,15 +12,15 @@ udver: '2'
 # UD Javanese CSUI
 
 Language: [Javanese](/jv/index.html) (code: `jv`)<br/>
-Family: Austronesian, Javanese
+Family: Austronesian
 
 This treebank has been part of Universal Dependencies since the UD v2.9 release.
 
 The following people have contributed to making this treebank part of UD: Ika Alfina, Arlisa Yuliawati, Dipta Tanaya, Arawinda Dinakaramani, Daniel Zeman, Putri Rizqiyah, Sri Hartati Wijono.
 
 Repository: [UD_Javanese-CSUI](https://github.com/UniversalDependencies/UD_Javanese-CSUI)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udjv_csui214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udjv_csui215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -92,7 +92,7 @@ year = {2023} <br>
 
 
 <ul>
-<li>This corpus contains 1000 sentences, 13746 tokens and 14344 syntactic words.</li>
+<li>This corpus contains 1000 sentences, 13746 tokens and 14343 syntactic words.</li>
 </ul>
 
 <ul>
@@ -108,8 +108,8 @@ year = {2023} <br>
 </ul>
 
 <ul>
-<li>This corpus contains 595 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
-<li>There are 346 types of multi-word tokens. Examples: ujare, liyane, anake, antarane, sijine, tegese, atiku, sawahe, wargane, anggonku, carane, daleme, rasane, panggaweyane, adhine, anakmu, anane, kakangku, omahe, warsane, wujude, Mbahmu, isine, jenenge, kahanane, sesambungane, simboke, tujuwane, awake, buku-bukune, bukune, cacahe, gambare, kanca-kancane, kancane, musike, omahku, opahe, piterange, swarane, tangane, tuwaku, uripe, Karyane, Kembange, Wetenge, adate, adhikku, angen-angenku, atine.</li>
+<li>This corpus contains 594 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
+<li>There are 345 types of multi-word tokens. Examples: ujare, liyane, anake, antarane, sijine, tegese, atiku, sawahe, wargane, anggonku, carane, daleme, rasane, panggaweyane, adhine, anakmu, anane, kakangku, omahe, warsane, wujude, Mbahmu, isine, jenenge, kahanane, sesambungane, simboke, tujuwane, awake, buku-bukune, bukune, cacahe, gambare, kanca-kancane, kancane, musike, omahku, opahe, piterange, swarane, tangane, tuwaku, uripe, Karyane, Kembange, Wetenge, adate, adhikku, angen-angenku, atine.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -170,7 +170,7 @@ year = {2023} <br>
 <ul>
   <li>Sing
     <ul>
-      <li>DET: sawijining, saindeng</li>
+      <li>DET: sawijining</li>
       <li>NOUN: taun, bathik, tembang, basa, pusaka, tembung, buku, rasa, tanggal, wong</li>
       <li>PRON: e, aku, ku, dak, dheweke, mu, ipun, piyambakipun, mbok, kowe</li>
     </ul>
@@ -186,7 +186,7 @@ year = {2023} <br>
 <ul>
   <li>Def
     <ul>
-      <li>DET: e, para, ipun, sing, Kang, ingkang</li>
+      <li>DET: e, para, ipun, sing, Kang, ingkang, saindenge</li>
     </ul>
   </li>
 </ul>
@@ -280,7 +280,7 @@ year = {2023} <br>
 <ul>
   <li>Art
     <ul>
-      <li>DET: e, para, ipun, sawijining, sing, satunggaling, Kang, ingkang</li>
+      <li>DET: e, para, ipun, sawijining, sing, satunggaling, Kang, ingkang, saindenge</li>
     </ul>
   </li>
 </ul>
@@ -549,7 +549,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (413)</li>
+      <li>VERB--NOUN (414)</li>
       <li>VERB--NOUN-ADP(_) (1)</li>
       <li>VERB--PRON (38)</li>
     </ul>

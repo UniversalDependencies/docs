@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Irina Lobzhanidze.
 
 Repository: [UD_Georgian-GLC](https://github.com/UniversalDependencies/UD_Georgian-GLC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udka_glc214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udka_glc215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -52,7 +52,7 @@ The treebank's annotations align with the Universal Dependencies (UD) specificat
 
 Morpho-syntactic annotations, as discussed in Lobzhanidze (2022), have been automatically adapted to UD requirements. This includes annotations for lemmas (LEMMA), part-of-speech categories (UPOS; XPOS), morphological features (FEATS), transliteration, and tokenization issues (MISC). Furthermore, heads of words (HEADS), dependency relations (DEPREL), and enhanced dependency graphs (DEPS) were automatically converted and then reviewed and manually corrected.
 
-The current version of the UD_Georgian-GLC treebank includes 151 utterances (sentences) or 2123 tokens. By the end of August, the UD_Georgian-GLC will expand to include 3,000 additional sentences selected from geo_wikipedia data. These sentences will serve as a training set, enriching the treebank and offering a more comprehensive representation of the Georgian language. The primary objective is to provide a more comprehensive and representative dataset for training and analysis purposes.
+The current version of the UD_Georgian-GLC treebank includes 151 utterances (sentences) or 2123 tokens and 3013 sentences or 44030 tokens from Wikipedia arranged in accordance with the 131 scientific domains. These sentences served as a training set, enriching the treebank and offering a more comprehensive representation of the Georgian language. The primary objective is to provide a more comprehensive and representative dataset for training and analysis purposes.
 
 ## Acknowledgments
 
@@ -72,25 +72,25 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 
 ## POS Tags
 
-[ADJ](ka_glc-pos-ADJ.html) – [ADP](ka_glc-pos-ADP.html) – [ADV](ka_glc-pos-ADV.html) – [AUX](ka_glc-pos-AUX.html) – [CCONJ](ka_glc-pos-CCONJ.html) – [NOUN](ka_glc-pos-NOUN.html) – [NUM](ka_glc-pos-NUM.html) – [PART](ka_glc-pos-PART.html) – [PRON](ka_glc-pos-PRON.html) – [PROPN](ka_glc-pos-PROPN.html) – [PUNCT](ka_glc-pos-PUNCT.html) – [SCONJ](ka_glc-pos-SCONJ.html) – [VERB](ka_glc-pos-VERB.html)
+[ADJ](ka_glc-pos-ADJ.html) – [ADP](ka_glc-pos-ADP.html) – [ADV](ka_glc-pos-ADV.html) – [AUX](ka_glc-pos-AUX.html) – [CCONJ](ka_glc-pos-CCONJ.html) – [INTJ](ka_glc-pos-INTJ.html) – [NOUN](ka_glc-pos-NOUN.html) – [NUM](ka_glc-pos-NUM.html) – [PART](ka_glc-pos-PART.html) – [PRON](ka_glc-pos-PRON.html) – [PROPN](ka_glc-pos-PROPN.html) – [PUNCT](ka_glc-pos-PUNCT.html) – [SCONJ](ka_glc-pos-SCONJ.html) – [SYM](ka_glc-pos-SYM.html) – [VERB](ka_glc-pos-VERB.html) – [X](ka_glc-pos-X.html)
 
 ## Features
 
-[Abbr](ka_glc-feat-Abbr.html) – [AdpType](ka_glc-feat-AdpType.html) – [AdvType](ka_glc-feat-AdvType.html) – [Animacy](ka_glc-feat-Animacy.html) – [Aspect](ka_glc-feat-Aspect.html) – [Case](ka_glc-feat-Case.html) – [Degree](ka_glc-feat-Degree.html) – [Evident](ka_glc-feat-Evident.html) – [Mood](ka_glc-feat-Mood.html) – [NameType](ka_glc-feat-NameType.html) – [Number](ka_glc-feat-Number.html) – [Number[io]](ka_glc-feat-Number-io.html) – [Number[obj]](ka_glc-feat-Number-obj.html) – [Number[subj]](ka_glc-feat-Number-subj.html) – [NumForm](ka_glc-feat-NumForm.html) – [NumType](ka_glc-feat-NumType.html) – [PartType](ka_glc-feat-PartType.html) – [Person](ka_glc-feat-Person.html) – [Person[io]](ka_glc-feat-Person-io.html) – [Person[obj]](ka_glc-feat-Person-obj.html) – [Person[subj]](ka_glc-feat-Person-subj.html) – [Poss](ka_glc-feat-Poss.html) – [PronType](ka_glc-feat-PronType.html) – [PunctType](ka_glc-feat-PunctType.html) – [Subcat](ka_glc-feat-Subcat.html) – [Tense](ka_glc-feat-Tense.html) – [VerbForm](ka_glc-feat-VerbForm.html) – [Voice](ka_glc-feat-Voice.html)
+[Abbr](ka_glc-feat-Abbr.html) – [AdpType](ka_glc-feat-AdpType.html) – [AdvType](ka_glc-feat-AdvType.html) – [Animacy](ka_glc-feat-Animacy.html) – [Aspect](ka_glc-feat-Aspect.html) – [Case](ka_glc-feat-Case.html) – [Degree](ka_glc-feat-Degree.html) – [Evident](ka_glc-feat-Evident.html) – [Foreign](ka_glc-feat-Foreign.html) – [Mood](ka_glc-feat-Mood.html) – [NameType](ka_glc-feat-NameType.html) – [Number](ka_glc-feat-Number.html) – [Number[io]](ka_glc-feat-Number-io.html) – [Number[obj]](ka_glc-feat-Number-obj.html) – [Number[subj]](ka_glc-feat-Number-subj.html) – [NumForm](ka_glc-feat-NumForm.html) – [NumType](ka_glc-feat-NumType.html) – [PartType](ka_glc-feat-PartType.html) – [Person](ka_glc-feat-Person.html) – [Person[io]](ka_glc-feat-Person-io.html) – [Person[obj]](ka_glc-feat-Person-obj.html) – [Person[subj]](ka_glc-feat-Person-subj.html) – [Poss](ka_glc-feat-Poss.html) – [PronType](ka_glc-feat-PronType.html) – [PunctType](ka_glc-feat-PunctType.html) – [Subcat](ka_glc-feat-Subcat.html) – [Tense](ka_glc-feat-Tense.html) – [VerbForm](ka_glc-feat-VerbForm.html) – [Voice](ka_glc-feat-Voice.html)
 
 ## Relations
 
-[acl](ka_glc-dep-acl.html) – [advcl](ka_glc-dep-advcl.html) – [advmod](ka_glc-dep-advmod.html) – [advmod:lmod](ka_glc-dep-advmod-lmod.html) – [amod](ka_glc-dep-amod.html) – [aux](ka_glc-dep-aux.html) – [case](ka_glc-dep-case.html) – [cc](ka_glc-dep-cc.html) – [ccomp](ka_glc-dep-ccomp.html) – [conj](ka_glc-dep-conj.html) – [cop](ka_glc-dep-cop.html) – [csubj](ka_glc-dep-csubj.html) – [det:poss](ka_glc-dep-det-poss.html) – [flat:name](ka_glc-dep-flat-name.html) – [iobj](ka_glc-dep-iobj.html) – [mark](ka_glc-dep-mark.html) – [nmod](ka_glc-dep-nmod.html) – [nsubj](ka_glc-dep-nsubj.html) – [nsubj:pass](ka_glc-dep-nsubj-pass.html) – [nummod](ka_glc-dep-nummod.html) – [obj](ka_glc-dep-obj.html) – [obl](ka_glc-dep-obl.html) – [parataxis](ka_glc-dep-parataxis.html) – [punct](ka_glc-dep-punct.html) – [root](ka_glc-dep-root.html) – [xcomp](ka_glc-dep-xcomp.html)
+[acl](ka_glc-dep-acl.html) – [acl:relcl](ka_glc-dep-acl-relcl.html) – [advcl](ka_glc-dep-advcl.html) – [advmod](ka_glc-dep-advmod.html) – [advmod:lmod](ka_glc-dep-advmod-lmod.html) – [amod](ka_glc-dep-amod.html) – [appos](ka_glc-dep-appos.html) – [aux](ka_glc-dep-aux.html) – [case](ka_glc-dep-case.html) – [cc](ka_glc-dep-cc.html) – [ccomp](ka_glc-dep-ccomp.html) – [compound](ka_glc-dep-compound.html) – [conj](ka_glc-dep-conj.html) – [cop](ka_glc-dep-cop.html) – [csubj](ka_glc-dep-csubj.html) – [dep](ka_glc-dep-dep.html) – [det](ka_glc-dep-det.html) – [det:poss](ka_glc-dep-det-poss.html) – [discourse](ka_glc-dep-discourse.html) – [expl](ka_glc-dep-expl.html) – [fixed](ka_glc-dep-fixed.html) – [flat](ka_glc-dep-flat.html) – [flat:foreign](ka_glc-dep-flat-foreign.html) – [flat:name](ka_glc-dep-flat-name.html) – [iobj](ka_glc-dep-iobj.html) – [mark](ka_glc-dep-mark.html) – [nmod](ka_glc-dep-nmod.html) – [nsubj](ka_glc-dep-nsubj.html) – [nsubj:outer](ka_glc-dep-nsubj-outer.html) – [nsubj:pass](ka_glc-dep-nsubj-pass.html) – [nummod](ka_glc-dep-nummod.html) – [obj](ka_glc-dep-obj.html) – [obl](ka_glc-dep-obl.html) – [obl:tmod](ka_glc-dep-obl-tmod.html) – [orphan](ka_glc-dep-orphan.html) – [parataxis](ka_glc-dep-parataxis.html) – [punct](ka_glc-dep-punct.html) – [root](ka_glc-dep-root.html) – [xcomp](ka_glc-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 151 sentences, 2152 tokens and 2335 syntactic words.</li>
+<li>This corpus contains 3164 sentences, 56174 tokens and 60173 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 336 tokens (16%) that are not followed by a space.</li>
+<li>This corpus contains 9789 tokens (17%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -98,12 +98,12 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 </ul>
 
 <ul>
-<li>This corpus contains 20 types of words that contain both letters and punctuation. Examples: ა., ბაქო-ბათუმის, დატვირთვა-გადმოტვირთვის, ერთ-ერთი, ეროვნულ-გამათავისუფლებელ, ეროვნულ-გამათავისუფლებელი, ვ., თ., კვლევა-ძიებას, კმ-ი, კორუმპირებულ-კრიმინალური, მატერიალურ-ტექნიკური, მეზობელ-ნათესავები, მეტ-ნაკლებად, ნება-სურვილის, სამეცნიერო-კვლევითი, სახეობრივ-მეტაფორული, სიცილ-კისკისით, შეკავება-გაწონასწორების, ჩასატვირთ-გადმოსატვირთი</li>
+<li>This corpus contains 473 types of words that contain both letters and punctuation. Examples: ბერძნ., ერთ-ერთი, სასოფლო-სამეურნეო, ძვ., ინგლ., ლათ., მაგ., ე.წ., სხვ., წ., ა.შ, ერთ-ერთ, ა., ა.შ., ი., ე.ი., სამეცნიერო-კვლევითი, გ., დნმ-ის, ს., ფიზიკურ-გეოგრაფიული, 30-იან, დ., კ., რ., VI-ის, ვ., ზოოტექნიკურ-სავეტერინარო, მ., წწ., 1960-იან, აშშ-, აშშ-ის, სამეცნიერო-კვლევით, ფიზიკურ-ქიმიურ, ჯ., ჰ., I-ის, XVI-XVII, ახ., ბ., დაახლ., ერთ–ერთი, თსუ-, ისტორიულ-ეთნოგრაფიული, იხ., ლ., მოვლა-მოყვანის, მტკვარ-არაქსის, ნ.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 183 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 169 types of multi-word tokens. Examples: აღსანიშნავია, ჩემში, საქართველოში, არაა, გვერდზე, იმაზე, მხრიდან, ტერიტორიაზე, შემთხვევაში, ადამიანისთვის, ადვოკატებისგან, ავადმყოფთან, ავადმყოფთანაც, ავტორთან, აკადემიაში, ამასთან, ამბავში, ამისათვის, არისო, აღჭურვილია, ბეჭზე, ბოლომდე, ბრალდებებზე, ბუნებრივია, გადარჩენაზე, გამოა, გამოცემებში, გამოცვლაზე, განმავლობაში, გაქვსო, გზაზე, გზაში, გულთან, დაბადებაო, დაგეგმვისათვის, დამკვიდრებისათვის, დამოკიდებულებებზე, დაყენებაში, დღიდან, ევროპაში, ეზოში, ენებთან, ვინმეა, ზდოროვიეში, ზედაპირზე, ზონებში, თავდადებულია, თავზე, თავიდან, თავისუფლებაზე.</li>
+<li>This corpus contains 3969 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
+<li>There are 2163 types of multi-word tokens. Examples: საქართველოში, წლებში, ყველაზე, განმავლობაში, საუკუნეში, მიზანია, რომელშიც, როგორიცაა, საფუძველზე, დარგია, პერიოდში, ტერიტორიაზე, შემთხვევაში, წლიდან, პროცესში, დაკავშირებულია, საუკუნეებში, დარგში, დასაწყისში, შესაძლებელია, შესაძლოა, მასში, სამყაროში, ამოცანაა, მსოფლიოში, ქვეყანაში, წლებიდან, ამასთან, განვითარებაში, ერთმანეთთან, თავიდან, ორგანიზმში, როგორებიცაა, სისტემაში, სფეროში, დროში, მანძილზე, სივრცეში, ფარგლებში, ცნობილია, არაა, აღსანიშნავია, ბაზაზე, დროიდან, ზედაპირზე, პირობებში, საგანია, აუცილებელია, ბუნებაში, დონეზე.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -111,16 +111,16 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 13 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: DET, INTJ, SYM, X</li>
+<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: DET</li>
 </ul>
 
 <ul>
-<li>This corpus contains 9 word types tagged as particles (PART): ალბათ, არ, არა, ვერც, თურმე, კი, მაინც, ო, ხომ</li>
+<li>This corpus contains 13 word types tagged as particles (PART): ალბათ, არ, არა, არც, აღარ, ვერ, ვერც, თურმე, კი, მაინც, ო, რა, ხომ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 38 lemmas tagged as pronouns (PRON): ამდენი, არა, არავინ, არაფერი, ერთ-ერთი, ერთერთი, ერთმანეთი, ეს, ეს(ე), ვინ, ზოგიერთი, თავი, თავისი, თქვენ, იგი, იგინი, იმათი, ის, ის(ი), ისინი, მე, მისი, რა, რამაც, რამდენი, რამდენიმე, რამოდენიმე, რაღაც, როგორ, რომელი, სხვა, ყველა, ყველაფერი, ყოველი, შენ, ჩემი, ჩვენ, ჩვენი</li>
+<li>This corpus contains 73 lemmas tagged as pronouns (PRON): ამათი, ამგვარი, ამდენი, არა, არავინ, არაფერი, არცერთი, ასეთი, ერთ-ერთი, ერთადერთი, ერთგვარი, ერთერთი, ერთი, ერთიმეორე, ერთმანეთი, ეს, ეს(ე), ესა, ესე, ესენი, ვინ, ვინმე, ვისი, ზოგი, ზოგიერთი, თავად, თავი, თავიანთი, თავისი, თვით, თვითონ, თითოეული, თქვენ, იგი, იგინი, იმათი, იმდენი, იმისი, ის, ის(ი), ისეთი, ისი, ისინი, მათ, მათი, მე, მისი, რა, რაიმე, რამაც, რამდენი, რამდენიმე, რამე, რამოდენიმე, რანაირი, რაღაც, რითი, რისი, როგორ, როგორი, რომელი, რომელიც, რომლებიც, სხვა, ურთიერთი, ყველა, ყველაფერი, ყოველი, ყოველივე, შენ, ჩემი, ჩვენ, ჩვენი</li>
 </ul>
 
 <ul>
@@ -131,11 +131,10 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 </ul>
 
 <ul>
-<li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): არის, აქვს, უნდა, შეუძლია</li>
+<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): არის, უნდა</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: აქვს</li>
 </ul>
 
 <ul>
@@ -145,7 +144,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Part
   <ul>
-    <li>VERB: ამღერებულ, გადასაწყვეტი, გამთბარ, დაუზუსტებელი, მონათლული, შესანიშნავი</li>
+    <li>VERB: დანალექი, ასახული, დამუხტული, დამზადებული, სარწყავი, წამკითხავი, წამყვან, არაევკლიდური, გარემოსდაცვითი, დამსახურებული</li>
   </ul>
   </li>
 </ul>
@@ -153,7 +152,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Vnoun
   <ul>
-    <li>VERB: გადაქაჩვა, დახარჯვის</li>
+    <li>VERB: გამოსხივების, დარაიონება, გამოსხივებას, დაგეგმარების, დაკრისტალების, დაპროექტებისა, მოკვლევისა, მორწყვის, შეკავშირების, შესიტყვება</li>
   </ul>
   </li>
 </ul>
@@ -169,7 +168,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Anim
     <ul>
-      <li>NOUN: ადამიანის, ხელისუფლების, მასწავლებელი, ავადმყოფ, კაცი, მინისტრი, წარმომადგენლები, ადამიანი, ავტორ, ავტორთა</li>
+      <li>NOUN: ადამიანის, საზოგადოების, ცხოველთა, ადამიანთა, საზოგადოება, ადამიანი, ავტორი, ხალხის, ცხოველების, მეცნიერმა</li>
     </ul>
   </li>
 </ul>
@@ -177,7 +176,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Inan
     <ul>
-      <li>NOUN: საქმიანობის, საუბარი, სექტორის, უნივერსიტეტის, შეფასება, შეფასების, გზა, ენის, კისერი, სიტყვები</li>
+      <li>NOUN: წელს, მეცნიერება, საუკუნის, დარგი, განვითარების, დედამიწის, დროს, სისტემა, წლის, ტერმინი</li>
     </ul>
   </li>
 </ul>
@@ -189,9 +188,13 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: ახალგაზრდებით, ზემოთ, ლამაზთა, სრულებითაც</li>
-      <li>NOUN: სიტყვები, უფლებათა, კომენტარები, მალების, ორგანიზაციები, პრინციპების, სამუშაოები, წარმომადგენლები, ადამიანთა, ადვოკატების</li>
-      <li>PRON: ისინი, ჩვენ, ჩვენი, მათ, ჩვენს, თქვენ, იმათი, რომელნიც, სხვათა, ჩვენა</li>
+      <li>ADJ: თავიანთ, საშუალებით, საწყისები, უკანასკნელთა, უსაფრთხოების, ძველთა, დაინტერესებულნი, მწოველები, ნაშრომები, სახელმწიფოები</li>
+      <li>NOUN: წლებ, მცენარეთა, მეცნიერებათა, პროცესების, ქანების, ცხოველთა, მეთოდების, ადამიანთა, პროცესებს, დაავადებათა</li>
+      <li>NUM: მე-3-4, პირველთაგანი</li>
+      <li>PRON: მათ, რომლებიც, მათი, რომელთა, ისინი, ჩვენ, რომელთაც, რომლებსაც, ჩვენი, სხვათა</li>
+      <li>PROPN: კლარკები, ოსმანთა, ალდეჰიდების, ანდრონიკაშვილების, ბრუნების, ენეადები, ვედები, თერგდალეულთა, თურმანიძეთა, იაგუაშვილები</li>
+      <li>VERB-Part: დამუხტულებს, მონაცემების, ნამზადების, ნაწევები, ქსოვილების, ჩანაწერების</li>
+      <li>VERB-Vnoun: გამოსხივებები, განხრების, დაძაბვები, შესიტყვებებად, ჩადაბლებებისა</li>
     </ul>
   </li>
 </ul>
@@ -199,13 +202,14 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: ქართული, აღსანიშნავი, ახალი, განსაკუთრებული, დაინტერესებული, დემოგრაფიული, დიდი, მრავალმხრივი, საერთაშორისო, ძველი</li>
-      <li>NOUN: ადამიანის, საქმიანობის, საუბარი, სექტორის, უნივერსიტეტის, შეფასება, შეფასების, ხელისუფლების, გზა, ენის</li>
-      <li>NUM: ერთი, მეორე, ცოტა, ერთ, მეშვიდე, ორ, ორი, პირველივე, სამი</li>
-      <li>PRON: ამ, მე, ეს, სხვა, მის, იგი, იმ, მისი, ყველა, ჩემ</li>
-      <li>PROPN: საქართველოს, საქართველო, აბაშიძე, ალექსანდრე, ახვლედიანის, ბათუმი, ბათუმის, ბაქო-ბათუმის, ბექიშვილს, გრიგოლ</li>
-      <li>VERB-Part: ამღერებულ, გადასაწყვეტი, გამთბარ, დაუზუსტებელი, მონათლული, შესანიშნავი</li>
-      <li>VERB-Vnoun: გადაქაჩვა, დახარჯვის</li>
+      <li>ADJ: სხვადასხვა, საერთაშორისო, ქიმიური, დიდი, თანამედროვე, ძირითადი, სამეცნიერო, ახალი, ფიზიკური, სახელმწიფო</li>
+      <li>AUX: ა</li>
+      <li>NOUN: წელს, მეცნიერება, საუკუნის, ადამიანის, დარგი, განვითარების, დედამიწის, დროს, სისტემა, წლის</li>
+      <li>NUM: პირველი, მეორე, ორი, ერთი, სამი, პირველ, ერთ, ბევრი, ორ, ხუთი</li>
+      <li>PRON: რომელიც, სხვა, ამ, მისი, ყველა, იგი, ეს, იმ, მის, მას</li>
+      <li>PROPN: საქართველოს, საქართველო, თბილისის, ალექსანდრე, ევროპა, აზერბაიჯანის, გიორგი, ამერიკის, ვახტანგ, თბილის</li>
+      <li>VERB-Part: დანალექი, ასახული, დამუხტული, დამზადებული, სარწყავი, წამკითხავი, წამყვან, არაევკლიდური, გარემოსდაცვითი, დამსახურებული</li>
+      <li>VERB-Vnoun: გამოსხივების, დარაიონება, გამოსხივებას, დაგეგმარების, დაკრისტალების, დაპროექტებისა, მოკვლევისა, მორწყვის, შეკავშირების, შესიტყვება</li>
     </ul>
   </li>
 </ul>
@@ -217,13 +221,14 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: ქართველ, ქართულ, ყოფილ, ამბულატორულ, არადამაკმაყოფილებელ, არსებულ, ახალ, გადაუმოწმებელ, განსხვავებულ, განცდილსა</li>
-      <li>ADP: ში, ზე, თან, შორის, ზეც, თანაც</li>
-      <li>NOUN: შესწავლას, ავადმყოფ, გვერდ, გზა, დღეს, სიცოცხლეს, ტერიტორია, ქვეყანას, ღვინოს, შემთხვევა</li>
-      <li>NUM: ერთ, მეორე, მეშვიდე, ორ</li>
-      <li>PRON: ამ, მე, მის, ჩემ, მათ, მას, ჩემს, ამას, არაფერს, თავის</li>
-      <li>PROPN: საქართველო, საქართველოს, ბექიშვილს, ევროპა, კავკასია, ოდისეა</li>
-      <li>VERB-Part: ამღერებულ, გამთბარ</li>
+      <li>ADJ: სხვადასხვა, თანამედროვე, ქიმიურ, ძველ, ზოგად, ფიზიკურ, ცოცხალ, ახალ, მრავალ, საერთაშორისო</li>
+      <li>ADP: ში, ზე, თან, შორის, შიც, შუა, ზეც, თანავე, ზევე, თანაც</li>
+      <li>NOUN: წელს, დროს, წლებ, საუკუნე, განმავლობა, საფუძველ, პერიოდ, შემთხვევა, პროცეს, ტერიტორია</li>
+      <li>NUM: მეორე, ერთ, პირველ, ორ, ბევრ, ათას, მესამე, ოთხ, მილიარდ, სამ</li>
+      <li>PRON: მათ, მას, რომლის, სხვა, რომელსაც, ყველა, ამ, რომელ, იმ, მის</li>
+      <li>PROPN: საქართველო, ევროპა, თბილის, საქართველოს, გერმანია, ამერიკა, რუსეთ, საბერძნეთ, არისტოტელეს, ბაბილონ</li>
+      <li>VERB-Part: წამყვან, საცდელ, წამყვანი, ამღერებულ, გაურეცხავ, დამდეგს, დამლევს, დამუხტულ, დამუხტულებს, დაუსწრებელ</li>
+      <li>VERB-Vnoun: გამოსხივებას, ამონთხევისას, გადახურება, გადმოკვეთისას, გამოდენას, გამოდნობას, განმუხტვისას, დაგზავნას, მონელებას, შეჯიბრებას</li>
     </ul>
   </li>
 </ul>
@@ -231,10 +236,12 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Erg
     <ul>
-      <li>ADJ: დაკავშირებულმა, საინტერესო, უწყინარმა</li>
-      <li>NOUN: დამამკვიდრებლებმა, ინფორმაციამ, მოსწავლეებმა, მძღოლმა, სულმა, სწრაფვამ, ქალმა, ჩიჩინმა</li>
-      <li>PRON: მან, მე, რამ, ამდენმა, არავინ, რამაც, სხვა, ჩვენ, ჩვენმა, ჩვენც</li>
-      <li>PROPN: ჩიტაიამ</li>
+      <li>ADJ: გერმანელმა, რუსმა, ამერიკელმა, ინგლისელმა, არნახულმა, აღიარებულმა, ახალმა, ბიოფარმულმა, ბირთვულმა, ბიჰევიორისტულმა</li>
+      <li>NOUN: მეცნიერმა, განვითარებამ, მექანიკამ, ქიმიკოსმა, გამოყენებამ, ფიზიკოსმა, ადამიანმა, ასტრონომმა, აღმოჩენებმა, გამოგონებამ</li>
+      <li>NUM: პირველმა, VI-მ</li>
+      <li>PRON: მან, რომელმაც, ამ, რამაც, მანვე, მათ, ამან, მე, მისმა, რამ</li>
+      <li>PROPN: ალექსანდრე, ივანე, ჯონ, ანტონ, ბარიმ, გოეთემ, გრიგორ, დე, იოზეფ, ლაისტერმა</li>
+      <li>VERB-Part: გახშირებულმა, დისკრეტულმა</li>
     </ul>
   </li>
 </ul>
@@ -242,10 +249,14 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Ess
     <ul>
-      <li>ADJ: არასასურველ, ასაშენებლად, ახლად, ბოლო, კლასიკურ, მეცნიერულად, ნამდვილ, საზღვაო, საუკეთესო, საშინლად</li>
-      <li>ADP: მდე</li>
-      <li>NOUN: დაავადებად, კურორტად, მაგალითად, მიზნად, პერიოდა, რევოლუცია, სამშობლოდ, სულიერებადა, ქვეყნად, შედეგად</li>
-      <li>PRON: ჩემა, ჩვენა</li>
+      <li>ADJ: დამოუკიდებელ, უმთავრესად, ბოლო, თანამედროვე, ისტორიულად, მეტად, უმეტესად, ძირითად, ახლად, ბუნებრივად</li>
+      <li>ADP: მდე, დმი, დან</li>
+      <li>NOUN: შედეგად, მაგალითად, საფუძვლად, მეცნიერებად, მიზნად, დღე, დაწყება, ფუძემდებლად, წლება, დისციპლინად</li>
+      <li>NUM: პირველ, ორ, ერთ, ათასა, მეორე, პირველად, 1859-1870-, 300-, 500-, ბევრად</li>
+      <li>PRON: ერთ-ერთ, თავად, ასეთ, სხვა, ერთ, ერთადერთ, თავადვე, იმ, რამდენიმე, რანაირად</li>
+      <li>PROPN: ანგსტრემა, ინდოეთა</li>
+      <li>VERB-Part: ასაჭრელად, დამუხტულ</li>
+      <li>VERB-Vnoun: შესიტყვებებად</li>
     </ul>
   </li>
 </ul>
@@ -253,14 +264,14 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: ქართული, ახალი, განსაკუთრებული, დაინტერესებული, დემოგრაფიული, კავკასიური, რევოლუციური, სამართალდამცავი, ადამიანური, ანკარა</li>
-      <li>ADP: თვის, გან, გამო, კენ, შესახებ, გამოც, გარდა</li>
-      <li>NOUN: ადამიანის, საქმიანობის, სექტორის, უნივერსიტეტის, შეფასების, ხელისუფლების, ენის, უსაფრთხოების, უფლებათა, ბრძოლის</li>
-      <li>NUM: ერთი</li>
-      <li>PRON: ამ, მისი, იმ, რის, ჩვენი, ამისა, ვის, ზოგიერთი, თავისი, იმათი</li>
-      <li>PROPN: ალექსანდრე, ახვლედიანის, ბათუმის, ბაქო-ბათუმის, ვეხის, მცხეთის, რუსეთის, საქართველოს, წინანდლისა, ჭავჭავაძის</li>
-      <li>VERB-Part: დაუზუსტებელი</li>
-      <li>VERB-Vnoun: დახარჯვის</li>
+      <li>ADJ: სხვადასხვა, ქიმიური, საერთაშორისო, ახალი, მსოფლიო, ისტორიული, ფიზიკური, ქართული, თანამედროვე, სამეცნიერო</li>
+      <li>ADP: თვის, გან, შესახებ, მიერ, გამო, მიმართ, კენ, გარდა, გამოც, განაც</li>
+      <li>NOUN: საუკუნის, ადამიანის, განვითარების, დედამიწის, წლის, სამართლის, ხელოვნების, ენის, კვლევის, მეურნეობის</li>
+      <li>NUM: მეორე, პირველი, ორი, ერთი, სამი, VI-ის, ხუთი, I-ის, მეოცე, ათასი</li>
+      <li>PRON: მისი, ამ, მათი, სხვა, მის, იმ, მათ, ყველა, რომელთა, ერთი</li>
+      <li>PROPN: საქართველოს, თბილისის, აზერბაიჯანის, ამერიკის, კავკასიის, ვახტანგ, ნიუტონის, ალექსანდრე, ევროპის, კონფუცის</li>
+      <li>VERB-Part: დანალექი, დამუხტული, სარწყავი, დაუსწრებელი, საკვები, ამომწყდარი, გადაშენებული, გაკუთხული, გამთბარი, გამომუშავებული</li>
+      <li>VERB-Vnoun: გამოსხივების, დაგეგმარების, დაკრისტალების, დაპროექტებისა, მოკვლევისა, მორწყვის, შეკავშირების, ცვეთის, აგეგმვის, აგეგმვისა</li>
     </ul>
   </li>
 </ul>
@@ -268,12 +279,14 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Ins
     <ul>
-      <li>ADJ: ახალგაზრდებით, განსაკუთრებული, დამცავი, დიდი, თანამედროვე, კლიმატური, მეგობრული, მექანიზებული, მძლავრი, პატარა</li>
-      <li>ADP: დან</li>
-      <li>NOUN: ენით, მხრი, არგუმენტებით, აღტაცებით, ბარგით, გზებით, დახმარებით, დღი, თავი, თანამებრძოლებით</li>
-      <li>NUM: ერთი, ორი</li>
-      <li>PRON: იმ, იმით, თავისი, რომლითაც, სხვა</li>
-      <li>VERB-Part: შესანიშნავი</li>
+      <li>ADJ: ფართო, სხვადასხვა, უძველესი, ბერძნული, სპეციალური, ფიზიკური, ქიმიური, ბოლო, გარკვეული, საერთო</li>
+      <li>ADP: დან, დანვე, დანაც</li>
+      <li>NOUN: მიზნით, საშუალებით, წლი, სახით, გაგებით, გამოყენებით, განსხვავებით, დაკავშირებით, შედარებით, წლები</li>
+      <li>NUM: ერთი, ორი, სამი, პირველი, 103-, 199-, 20-, 2000–, 800-, მეორე</li>
+      <li>PRON: ამ, სხვა, იმ, თავისი, ამით, ერთი, ისეთი, მისი, იმით, სხვ</li>
+      <li>PROPN: ამიერკავკასიით, აფრიკი, აღმოსავლეთ, აღმოსავლეთით, ევროპი, რუსეთი</li>
+      <li>VERB-Part: შესანიშნავი, დამლევი</li>
+      <li>VERB-Vnoun: მორწყვით, მოძრაობით, ნაღველით, შერევით, შესუნთქვით, ჩანერგვით</li>
     </ul>
   </li>
 </ul>
@@ -281,14 +294,22 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: აღსანიშნავი, დადებითი, დამოკიდებული, დამფრთხალი, დიდი, მაღალკვალიფიციური, მრავალმხრივი, საერთაშორისო, საჭირო, ავთვისებიანი</li>
+      <li>ADJ: ძირითადი, დიდი, დაკავშირებული, მნიშვნელოვანი, მთავარი, საერთაშორისო, ცნობილი, ახალი, სამეცნიერო, ქიმიური</li>
       <li>ADP: ვით</li>
-      <li>NOUN: საუბარი, შეფასება, კისერი, მასწავლებელი, სიტყვები, ბრძოლა, თოვლი, კაცი, კომენტარები, მინისტრი</li>
-      <li>NUM: ერთი, ცოტა, მეორე, პირველივე, სამი</li>
-      <li>PRON: ეს, იგი, ისინი, ჩემი, ის, რამდენი, თავისი, მეც, მისი, სხვა</li>
-      <li>PROPN: აბაშიძე, ბათუმი, გრიგოლ, დავითი, ვაჟა, თომა, ილია, ლევანი, ფშაველა, შანიძე</li>
-      <li>VERB-Part: გადასაწყვეტი, მონათლული</li>
-      <li>VERB-Vnoun: გადაქაჩვა</li>
+      <li>NOUN: მეცნიერება, დარგი, ტერმინი, ნაწილი, მნიშვნელობა, სამართალი, სისტემა, მიზანი, ისტორია, მოძღვრება</li>
+      <li>NUM: პირველი, ორი, ერთი, ბევრი, მეორე, სამი, ცოტა, ხუთი, მილიონი, ოთხი</li>
+      <li>PRON: რომელიც, იგი, რომლებიც, ეს, სხვა, ერთ-ერთი, ის, მისი, ისინი, ყველა</li>
+      <li>PROPN: არისტოტელე, მაგმური, საქართველო, ალექსანდრე, გიორგი, იულიუს, აფრიკანუსი, მიხეილ, პლატონი, ფერმა</li>
+      <li>VERB-Part: ასახული, დამზადებული, დანალექი, არაევკლიდური, დამსახურებული, დამუხტული, სარწყავი, საცდელი, წამკითხავი, აღმდგენი</li>
+      <li>VERB-Vnoun: დარაიონება, შესიტყვება, აგეგმვა, აორთქლება, გადაქაჩვა, გაკაფვა, გამოსხივება, გამოსხივებაც, გამოსხივებები, გამოქცევა</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Voc
+    <ul>
+      <li>NOUN: ფაქტო</li>
     </ul>
   </li>
 </ul>
@@ -303,9 +324,17 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 </ul>
 
 <ul>
+  <li>Cmp
+    <ul>
+      <li>ADJ: უფრო, მომრგვალო, უკეთესი</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Pos
     <ul>
-      <li>ADJ: ახალი, დიდი, ძველი, საჭირო, ანკარა, აშკარა, ახალ, ახლად, დიდ, თანამედროვე</li>
+      <li>ADJ: დიდი, ახალი, ძველი, მთავარი, მნიშვნელოვანი, ფართო, მრავალი, ზოგადი, მეტი, საჭირო</li>
     </ul>
   </li>
 </ul>
@@ -313,7 +342,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: საუკეთესო, უდიდესი, უმაღლეს, უმაღლესი, უმთავრესად, უშორესი, უძველეს</li>
+      <li>ADJ: უძველესი, უმაღლეს, უმაღლესი, უდიდესი, უმნიშვნელოვანესი, უძველეს, უმთავრესად, უმარტივესი, უმნიშვნელოვანეს, უმცირესი</li>
     </ul>
   </li>
 </ul>
@@ -330,8 +359,8 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: შეიძლება</li>
-      <li>VERB: ჩანს, ხდებოდა, აღნიშნავდნენ, იდგა, ითვლება, წარმოებს, ხდება, ავიწყდება, ანიჭებენ, ანიჭებს</li>
+      <li>VERB: შეიძლება, გამოიყენება, არსებობს, სწავლობს, იყენებენ, იკვლევს, ხდება, იყენებს, ეწოდება, უწოდებენ</li>
+      <li>VERB-Vnoun: ცვეთის, ბეჭდვისა, გადაყვანის, განმუხტვისას, დაანგარიშება, დაძაბვები, დაძაბვის, დნობა, დნობის, კერვა</li>
     </ul>
   </li>
 </ul>
@@ -339,8 +368,8 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Perf
     <ul>
-      <li>VERB: აღმოაჩენ, მოიცავს, წარმოადგენს, ავივსო, აირჩიეს, ამაღლდა, ამოეგდო, აფართხალდა, აღასრულებს, აღემატება</li>
-      <li>VERB-Vnoun: გადაქაჩვა, დახარჯვის</li>
+      <li>VERB: შეისწავლის, წარმოადგენს, მოიცავს, ჩამოყალიბდა, დაიწყო, შედგება, შეიქმნა, გახდა, განსაზღვრავს, მიიღო</li>
+      <li>VERB-Vnoun: გამოსხივების, დარაიონება, გამოსხივებას, დაგეგმარების, დაკრისტალების, დაპროექტებისა, მოკვლევისა, მორწყვის, შეკავშირების, შესიტყვება</li>
     </ul>
   </li>
 </ul>
@@ -350,11 +379,19 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 </ul>
 
 <ul>
+  <li>Imp
+    <ul>
+      <li>VERB: ითქვას, იქცეს, მოხდეს</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Ind
     <ul>
-      <li>AUX: ა, იყო, უნდა, არის, იქნება, შეიძლება, ვარ, მინდა, მინდოდა, შეიძლებოდა</li>
-      <li>VERB: ჩანს, ხდებოდა, აქვს, აღმოაჩენ, აღნიშნავდნენ, გადის, იდგა, ითვლება, მაქვს, მოდიან</li>
-      <li>VERB-Part: ამღერებულ, გადასაწყვეტი, გამთბარ, მონათლული, შესანიშნავი</li>
+      <li>AUX: ა, არის, იყო, უნდა, იყოს, არიან, იქნა, იქნება, იყვნენ, იქნას</li>
+      <li>VERB: შეისწავლის, აქვს, შეიძლება, წარმოადგენს, გამოიყენება, მოიცავს, არსებობს, სწავლობს, ჩამოყალიბდა, იყენებენ</li>
+      <li>VERB-Part: დანალექი, ასახული, დამუხტული, დამზადებული, სარწყავი, წამკითხავი, წამყვან, არაევკლიდური, გარემოსდაცვითი, დამსახურებული</li>
     </ul>
   </li>
 </ul>
@@ -362,7 +399,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Sub
     <ul>
-      <li>VERB: მიჰფენოდნენ, მოეღრიცოს</li>
+      <li>VERB: გადაჭრილიყო, გახსნას, ეცნობოს, მიჰფენოდნენ, მოეღრიცოს, შეედაროს, შეექმნა, შეეწყოს, შეფასდეს, წარმოქმნას</li>
     </ul>
   </li>
 </ul>
@@ -374,9 +411,9 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Fut
     <ul>
-      <li>AUX: იქნება</li>
-      <li>VERB: აღმოაჩენ, მოიცავს, წარმოადგენს, ასიამოვნებს, აღასრულებს, აღემატება, აღინიშნება, აღწერს, გააერთიანებს, გამოარჩევდა</li>
-      <li>VERB-Part: შესანიშნავი</li>
+      <li>AUX: იქნება, იქნებოდა</li>
+      <li>VERB: შეისწავლის, წარმოადგენს, მოიცავს, შეიცავს, განსაზღვრავს, მიეკუთვნება, შედგება, განარჩევენ, განასხვავებენ, წარმოადგენენ</li>
+      <li>VERB-Part: სარწყავი, წამყვან, საკვები, საცდელ, საცდელი, შესანიშნავი, წამყვანი, ასაჭრელად, გადასაყვანი, გასაფრენი</li>
     </ul>
   </li>
 </ul>
@@ -384,8 +421,8 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: მინდოდა, ჰქონდა</li>
-      <li>VERB: ხდებოდა, აღნიშნავდნენ, აპრიალებდნენ, აძლევდა, ახსოვდა, გაურბოდნენ, გვქონდა, გვწყუროდა, ეალერსებოდა, ეყრდნობოდნენ</li>
+      <li>AUX: მინდოდა</li>
+      <li>VERB: ჰქონდა, ხდებოდა, გამოიყენებოდა, იყენებდნენ, ვითარდებოდა, თვლიდა, არსებობდა, გულისხმობდა, იყენებდა, მდებარეობდა</li>
     </ul>
   </li>
 </ul>
@@ -393,9 +430,9 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Past
     <ul>
-      <li>AUX: იყო, შეიძლებოდა</li>
-      <li>VERB: იდგა, ავივსო, აირჩიეს, ამაღლდა, ამღერებულ, აფართხალდა, აღინიშნა, გააფერმკრთალა, გააჩნდა, გააძნელა</li>
-      <li>VERB-Part: ამღერებულ, მონათლული</li>
+      <li>AUX: იყო, იყოს, იქნა, იყვნენ, იქნას, იქნეს</li>
+      <li>VERB: ჩამოყალიბდა, დაიწყო, შეიქმნა, გახდა, მიიღო, დაარსდა, ჩაისახა, გაჩნდა, წარმოიშვა, შექმნა</li>
+      <li>VERB-Part: ასახული, დამუხტული, დამზადებული, დამსახურებული, დამუხტულ, დანაკვთული, ამომწყდარი, ამღერებულ, აწეული, გადაშენებული</li>
     </ul>
   </li>
 </ul>
@@ -403,7 +440,8 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>PastPerf
     <ul>
-      <li>VERB: მითხოვია, მიჰფენოდნენ, მოეღრიცოს, მოსულა</li>
+      <li>AUX: ყოფილა</li>
+      <li>VERB: უკავია, შეუძლია, შეუძლიათ, უკავიათ, შექმნილა, აღმოუჩენია, გადაჭრილიყო, გამოჩენილა, დადგენილა, დამკვიდრებულა</li>
     </ul>
   </li>
 </ul>
@@ -411,7 +449,8 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Pqp
     <ul>
-      <li>VERB: ამოეგდო, გამხდარიყო, გაჩენილიყო, დაეწყო, დამტკიცებულიყო, მიეყვანა, მიეცათ, მიმეთითებინა, მოეცვა, წაადგებოდა</li>
+      <li>AUX: ყოფილიყო</li>
+      <li>VERB: ჩაეყარა, გამოეყო, მიეცა, დაედო, მიეცათ, მიეძღვნა, აეყვანა, აეხსნათ, ამოეგდო, აღმოეჩინათ</li>
     </ul>
   </li>
 </ul>
@@ -419,9 +458,9 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: ა, უნდა, არის, შეიძლება, ვარ, მინდა, ხარ</li>
-      <li>VERB: ჩანს, აქვს, გადის, ითვლება, მაქვს, მოდიან, წარმოებს, ხდება, ავიწყდება, ამბობენ</li>
-      <li>VERB-Part: გადასაწყვეტი, გამთბარ</li>
+      <li>AUX: ა, არის, უნდა, არიან, მინდა, ვარ, ხარ</li>
+      <li>VERB: აქვს, შეიძლება, გამოიყენება, არსებობს, სწავლობს, იყენებენ, იკვლევს, ხდება, იყენებს, ეწოდება</li>
+      <li>VERB-Part: დანალექი, წამკითხავი, არაევკლიდური, გარემოსდაცვითი, მღრღნელი, აღმდგენი, გადასაწყვეტი, გამთბარი, დამდეგს, დამლევი</li>
     </ul>
   </li>
 </ul>
@@ -433,8 +472,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Act
     <ul>
-      <li>AUX: შეიძლება</li>
-      <li>VERB: ჩანს, ხდებოდა, აღმოაჩენ, აღნიშნავდნენ, იდგა, მოიცავს, წარმოადგენს, წარმოებს, ხდება, აირჩიეს</li>
+      <li>VERB: შეისწავლის, შეიძლება, წარმოადგენს, გამოიყენება, მოიცავს, არსებობს, სწავლობს, იყენებენ, იკვლევს, დაიწყო</li>
     </ul>
   </li>
 </ul>
@@ -450,7 +488,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: ითვლება, ავივსო, აღინიშნა, აღინიშნება, გამოედო, გაჩენილიყო, დაიბადა, ეტანება, იბადება, იკვეთებოდა</li>
+      <li>VERB: ჩამოყალიბდა, შეიქმნა, ეწოდება, გააჩნია, ითვლება, იძლევა, დაარსდა, წარმოიქმნება, წარმოიშვა, ჩაისახა</li>
     </ul>
   </li>
 </ul>
@@ -463,6 +501,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
   <li>Nfh
     <ul>
       <li>PART: ო</li>
+      <li>VERB: მიიღო, ამყოფო, შეუწყო</li>
     </ul>
   </li>
 </ul>
@@ -477,7 +516,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Dem
     <ul>
-      <li>PRON: ამ, ეს, იმ, იმით, ის, ამდენმა, ამდენს, იმავე, იმის, იმისა</li>
+      <li>PRON: ამ, იმ, ეს, ისეთი, ასეთი, მათ, მის, ისეთ, ამავე, ის</li>
     </ul>
   </li>
 </ul>
@@ -485,7 +524,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: რაღაც, ერთ-ერთი, ერთერთი, ზოგიერთი, რამდენიმე, რამოდენიმე</li>
+      <li>PRON: ერთ-ერთი, რამდენიმე, ერთი, ზოგიერთი, ერთ-ერთ, ზოგიერთ, ზოგი, რაიმე, ერთ, ზოგ</li>
     </ul>
   </li>
 </ul>
@@ -493,7 +532,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Int
     <ul>
-      <li>PRON: რამდენი, რა, რამ, რის, ვინც, ვის, რამაც, რას, რომელნიც, რომელსაც</li>
+      <li>PRON: რომელ, რა, რის, რომელი, რომლებ, რომლებსაც, რამდენი, რითიც, ვის, რამ</li>
     </ul>
   </li>
 </ul>
@@ -501,7 +540,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Neg
     <ul>
-      <li>PRON: არავინ, არაფერს, არა</li>
+      <li>PRON: არავის, არაფერს, არავინ, არა, არაფრით, არცერთი</li>
     </ul>
   </li>
 </ul>
@@ -509,7 +548,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: მე, იგი, ისინი, ჩვენ, მათ, მას, მეც, ამას, თავს, იმა</li>
+      <li>PRON: მისი, მათ, იგი, მათი, მას, მის, ის, ისინი, ეს, თავისი</li>
     </ul>
   </li>
 </ul>
@@ -517,7 +556,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Rcp
     <ul>
-      <li>PRON: ერთმანეთს</li>
+      <li>PRON: ერთმანეთ, ერთმანეთს, ერთმანეთის, ერთმანეთისა, ურთიერთ</li>
     </ul>
   </li>
 </ul>
@@ -525,7 +564,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: რა, როგორც, ვინმე, როგორ</li>
+      <li>PRON: რომელიც, რომლებიც, რომლის, რომელსაც, რომელთაც, რომელთა, რა, რომელმაც, რომლებსაც, რამაც</li>
     </ul>
   </li>
 </ul>
@@ -533,7 +572,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Tot
     <ul>
-      <li>PRON: სხვა, ყველა, სხვათა, ყველას, ყველაფერი, ყოველ, ყოველი, ყოველივე, ყოვლისა</li>
+      <li>PRON: სხვა, ყველა, ყოველი, თვით, თითოეული, სხვათა, ყოვლისა, ყველაფერი, ყოველ, თავად</li>
     </ul>
   </li>
 </ul>
@@ -545,7 +584,15 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Card
     <ul>
-      <li>NUM: ერთი, ცოტა, 100.000, 1907, 2003, 2004-2005, 30, 363, ერთ, ორ</li>
+      <li>NUM: XIX, XX, ორი, ერთი, სამი, ერთ, XVII, XVIII, II, ორ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Mult
+    <ul>
+      <li>NUM: ორჯერ</li>
     </ul>
   </li>
 </ul>
@@ -553,7 +600,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Ord
     <ul>
-      <li>NUM: მეორე, მეშვიდე, პირველივე</li>
+      <li>NUM: პირველი, მეორე, პირველ, ბევრი, მესამე, ბევრ, მეოცე, ორივე, პირველმა, მე-20</li>
     </ul>
   </li>
 </ul>
@@ -565,7 +612,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: მის, მისი, ჩემი, თავისი, ჩემ, ჩვენი, ჩემს, თავის, იმათი, ჩემა</li>
+      <li>PRON: მისი, მათი, თავისი, მის, თავის, მათ, ჩვენი, ჩემი, თავიანთი, თავად</li>
     </ul>
   </li>
 </ul>
@@ -578,7 +625,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>1
     <ul>
-      <li>PRON: მე, ჩემ, ჩემი, ჩვენ, ჩვენი, მეც, ჩემს, ჩვენს, ჩემა, ჩვენა</li>
+      <li>PRON: ჩვენ, ჩვენი, მე, ჩემი, თავიანთი, ჩემ, ჩვენს, მეც, ჩემს, ჩემა</li>
     </ul>
   </li>
 </ul>
@@ -594,7 +641,8 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li>3
     <ul>
-      <li>PRON: ამ, ეს, მის, იგი, იმ, ისინი, მისი, ის, მათ, მას</li>
+      <li>AUX: ა</li>
+      <li>PRON: ამ, მისი, მათ, იგი, ეს, მათი, იმ, მის, მას, ის</li>
     </ul>
   </li>
 </ul>
@@ -610,7 +658,13 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>Yes
         <ul>
-          <li>NOUN: პროფ, ა., ვ., თ., კმ-ი</li>
+          <li>ADJ: ბერძნ., ძვ., ინგლ., ლათ., ე.წ., ახ., ლიტ., ფრანგ., სხვ., აზერ.</li>
+          <li>ADV: ა.შ.</li>
+          <li>NOUN: მაგ., წ., ა.შ, ა., ი., ა.შ., გ., დ., კ., რ.</li>
+          <li>PRON: სხვ., სხვ</li>
+          <li>PROPN: პ., შ., აშშ-ის</li>
+          <li>SCONJ: ე.ი.</li>
+          <li>VERB: იხ.</li>
         </ul>
       </li>
     </ul>
@@ -622,7 +676,11 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>Post
         <ul>
-          <li>ADP: ში, ზე, თვის, თან, დან, მდე, გან, შორის, გამო, კენ</li>
+          <li>ADJ: დაწერილ, შემდეგ</li>
+          <li>ADP: ში, ზე, თან, დან, თვის, გან, შესახებ, შორის, მიერ, მდე</li>
+          <li>NOUN: კონტრასტ, ადგილ, ადგილებ, გარდაქმნა, ეფექტურობა, ზღვებ, კავშირ, კონტექსტ, ლარამდე, მასშტაბამდე</li>
+          <li>PRON: ამასთანა, ერთმანეთ, ყველაფერ</li>
+          <li>VERB-Vnoun: გადახურება, დაქცევისათვის</li>
         </ul>
       </li>
     </ul>
@@ -632,34 +690,51 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <ul>
   <li><a>AdvType</a>
     <ul>
+      <li>Cau
+        <ul>
+          <li>ADV: აღსაწერად, გასავითარებლად, მოსაპოვებლად</li>
+        </ul>
+      </li>
       <li>Deg
         <ul>
-          <li>ADV: ხშირად, პირიქით, ამდენად, სავსებით, საკმაოდ</li>
+          <li>ADV: ხშირად, საკმაოდ, მეტად, ამდენად, გაცილებით, იშვიათად, ათასობით, პირიქით, ნაწილობრივ, ოდნავ</li>
         </ul>
       </li>
       <li>Int
         <ul>
-          <li>ADV: სად</li>
+          <li>ADV: რატომ, როგორ, როდი, როდისა, სად, საიდან</li>
         </ul>
       </li>
       <li>Loc
         <ul>
-          <li>ADV: აქ, ახლოს, აქედან, გარეთ, გარშემო, ზევით, იქ, სადღაც, საზღვარგარეთ, ფეხქვეშ</li>
+          <li>ADV: აქ, აქედან, საზღვარგარეთ, ახლოს, გარშემო, ქვეშ, აქამდე, წინ, გარეთ, ირგვლივ</li>
         </ul>
       </li>
       <li>Man
         <ul>
-          <li>ADV: სულ, ერთად, კიდევ, მხოლოდ, ასე, ასევე, ისე, სრულიად, სულაც, სწორედ</li>
+          <li>ADV: ასევე, აგრეთვე, მიხედვით, მხოლოდ, ძირითადად, ერთად, ფართოდ, შესაბამისად, ისე, მეშვეობით</li>
         </ul>
       </li>
       <li>Rel
         <ul>
-          <li>ADV: სადაც, რატომღაც</li>
+          <li>ADV: სადაც, რატომღაც, როგორც</li>
         </ul>
       </li>
       <li>Tim
         <ul>
-          <li>ADV: ამჟამად, შემდეგ, დღეს, მუდამ, ძირითადად, ჯერ, ახლა, ბოლოს, დილას, დღეიდან</li>
+          <li>ADV: შემდეგ, პირველად, ზოგჯერ, ჯერ, ამჟამად, უკვე, თავდაპირველად, დღეს, მოგვიანებით, ბოლოს</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: the, logos, λόγος, of, de, art, fantasy, βίος, νόμος, -λογία</li>
         </ul>
       </li>
     </ul>
@@ -671,17 +746,17 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>Geo
         <ul>
-          <li>PROPN: საქართველო, საქართველოს, ბათუმი, ბათუმის, ბაქო-ბათუმის, ევროპა, კავკასია, მცხეთის, რუსეთის, წინანდალი</li>
+          <li>PROPN: საქართველოს, საქართველო, თბილისის, ევროპა, აზერბაიჯანის, ამერიკის, თბილის, კავკასიის, ამერიკა, გერმანია</li>
         </ul>
       </li>
       <li>Prs
         <ul>
-          <li>PROPN: ალექსანდრე, გრიგოლ, დავითი, ვაჟა, თომა, ილია, ლევანი, ოდისეა, საქართველოს</li>
+          <li>PROPN: ალექსანდრე, გიორგი, ვახტანგ, ჯონ, არისტოტელე, არისტოტელეს, დე, კონფუცის, მაგმური, გივი</li>
         </ul>
       </li>
       <li>Sur
         <ul>
-          <li>PROPN: აბაშიძე, ახვლედიანის, ბექიშვილს, ვეხის, ფშაველა, შანიძე, ჩიტაიამ, ჭავჭავაძე, ჭავჭავაძის</li>
+          <li>PROPN: ნიუტონის, რუსთაველის, ტიურინგის, გალილეის, კლარკის, ტოლკინის, ჯანდიერის, გოგინაშვილი, გოგინაშვილის, თუმანიშვილის</li>
         </ul>
       </li>
     </ul>
@@ -693,7 +768,12 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>Digit
         <ul>
-          <li>NUM: 100.000, 1907, 2003, 2004-2005, 30, 363</li>
+          <li>NUM: 1992, 1999, 2, 1, 2008, 30-იან, 11, 20, 2001, 2005</li>
+        </ul>
+      </li>
+      <li>Roman
+        <ul>
+          <li>NUM: XIX, XX, XVII, XVIII, II, I, VI-ის, XVI, I-ის, III</li>
         </ul>
       </li>
     </ul>
@@ -705,12 +785,12 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>Plur
         <ul>
-          <li>VERB: გაგვანდო, გვაფიქრებინებს, გვხვდებოდა, მიგვიყვანოს, შემოგვაგებეს</li>
+          <li>VERB: გვხვდება, გვევლინება, მოგვითხრობს, გვხვდებოდა, შემოგვინახა, გაგვანდო, გეხახუნებათ, გვაფიქრებინებს, გვიქმნის, გვიჩვენოს</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>VERB: დამჭირდება, მეკითხება, მეძახიან, მიჰყვება, სწამებენ</li>
+          <li>VERB: მიჰყვება, დამჭირდება, მეკითხება, მეძახიან, მიაჩნდეს, მიუძღვით, სწამებენ</li>
         </ul>
       </li>
     </ul>
@@ -722,12 +802,12 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>Plur
         <ul>
-          <li>VERB: მიეჩქარებოდათ</li>
+          <li>VERB: გააჩნიათ, მიაჩნიათ, მოგვცეს, შემოგვთავაზა, აინტერესებდათ, გვაფრთხილებს, გვაწვდის, გვთავაზობს, დაგვანახოს, ევალებათ</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>VERB: მაინტერესებს, მითხოვია, მჭრის</li>
+          <li>VERB: გამოსცა, ახლავს, აღწევს, ახლდეს, გასდევს, გახადოს, დაუჭერს, მაინტერესებს, მითხოვია, მჭრის</li>
         </ul>
       </li>
     </ul>
@@ -739,13 +819,14 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>Plur
         <ul>
-          <li>VERB: აღნიშნავდნენ, მოდიან, აირჩიეს, ამბობენ, ანიჭებენ, აპრიალებდნენ, აყვედრიან, გავემგზავრეთ, გაზიდეს, გამოვიყენოთ</li>
+          <li>AUX: არიან, იყვნენ, იქნეს, ა</li>
+          <li>VERB: იყენებენ, უწოდებენ, აქვთ, განარჩევენ, განასხვავებენ, წარმოადგენენ, ეკუთვნის, ვხვდებით, იყენებდნენ, განსაზღვრავენ</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>AUX: ა, იყო, უნდა, არის, იქნება, შეიძლება, ვარ, მინდა, მინდოდა, შეიძლებოდა</li>
-          <li>VERB: ჩანს, ხდებოდა, აქვს, აღმოაჩენ, გადის, იდგა, ითვლება, მაქვს, მოიცავს, წარმოადგენს</li>
+          <li>AUX: ა, არის, იყო, უნდა, იყოს, იქნა, იქნება, იქნას, იქნებოდა, მინდა</li>
+          <li>VERB: შეისწავლის, აქვს, შეიძლება, წარმოადგენს, გამოიყენება, მოიცავს, არსებობს, სწავლობს, ჩამოყალიბდა, იკვლევს</li>
         </ul>
       </li>
     </ul>
@@ -757,23 +838,24 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>Emp
         <ul>
-          <li>ADJ: სრულებითაც</li>
-          <li>ADP: გამოც</li>
-          <li>ADV: რატომღაც, დღესაც, იქვე, მაშინაც</li>
-          <li>NOUN: ავადმყოფ, გავრცელებაც, დროსაც, მთარგმნელსაც, ნადირიც, ნაშრომებსაც, ჟესტიც, საფუძველ, შეფასებასაც, ცვლილებაცა</li>
-          <li>NUM: პირველივე</li>
-          <li>PART: კი, მაინც, ვერც</li>
-          <li>PRON: მეც, როგორც, ვინმე, ვინც, იგივე, იმავე, მასაც, რომელნიც, რომელსაც, რომლითაც</li>
+          <li>ADJ: მეტიც, ძველთა, განსხვავებულიც, გასაგებიცა, გასავლელადაც, საერთოც, სრულებითაც, უსასრულოც, შემდგომიც, შემცველიცა</li>
+          <li>ADP: გამოც, შორისაც</li>
+          <li>ADV: დღესაც, შემდეგაც, მიხედვითაც, მალევე, რატომღაც, ადრეც, გარეთაც, გასაუმჯობესებლადაც, თანახმადაც, იქვე</li>
+          <li>NOUN: დროსაც, საფუძველ, გამოყენებაც, დადგენაც, დრო, მოვლენადაც, ობსერვატორიაც, საშუალებითაც, ფილოლოგიასაც, შედეგადაც</li>
+          <li>NUM: მეორეც, ერთიცა, მეორე, პირველივე</li>
+          <li>PART: კი, მაინც, არც, ვერც</li>
+          <li>PRON: რომელ, რომლებ, მეც, ვინმე, ვინც, იგივე, იმავე, მასაც, რომელნიც, რომელსაც</li>
+          <li>PROPN: დავითისივე, ევროპა, ზარანდიასაც, საქართველო</li>
         </ul>
       </li>
       <li>Int
         <ul>
-          <li>PART: ხომ, ალბათ, თურმე</li>
+          <li>PART: ალბათ, ხომ, თურმე</li>
         </ul>
       </li>
       <li>Neg
         <ul>
-          <li>PART: არ, არა</li>
+          <li>PART: არ, არა, ვერ, აღარ</li>
         </ul>
       </li>
     </ul>
@@ -785,17 +867,17 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>1
         <ul>
-          <li>VERB: გაგვანდო, გვაფიქრებინებს, გვხვდებოდა, დამჭირდება, მეკითხება, მეძახიან, მიგვიყვანოს, მიჰყვება, შემოგვაგებეს</li>
+          <li>VERB: გვხვდება, გვევლინება, მოგვითხრობს, გვხვდებოდა, მიჰყვება, შემოგვინახა, გაგვანდო, გვაფიქრებინებს, გვაფრთხილებს, გვაწვდის</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>VERB: გაინტერესებთ</li>
+          <li>VERB: გაინტერესებთ, გეხახუნებათ</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>VERB: ანიჭებენ, ანიჭებს, ასრულებს, ასწორებს, აფარებს, აფასებს, აღემატება, აღწერს, გავემგზავრეთ, გავუფრთხილდე</li>
+          <li>VERB: უწოდებენ, მიეკუთვნება, ახასიათებს, უკავშირდება, განეკუთვნება, ეკუთვნის, ემყარება, ეხება, ამუშავებს, არეგულირებს</li>
         </ul>
       </li>
     </ul>
@@ -807,13 +889,18 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>1
         <ul>
-          <li>VERB: მაინტერესებს, მჭრის</li>
+          <li>VERB: მოგვცეს, შემოგვთავაზა, აინტერესებდათ, გვთავაზობს, დაგვანახოს, მაინტერესებს, მოგვცა, მჭრის</li>
+        </ul>
+      </li>
+      <li>2
+        <ul>
+          <li>VERB: გასდევს, შეგიძლიათ, შეექმნა, შეეწყო</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>AUX: უნდა, მინდა, მინდოდა, ჰქონდა</li>
-          <li>VERB: აქვს, აღმოაჩენ, აღნიშნავდნენ, მაქვს, მოიცავს, ჩანს, წარმოადგენს, ავიწყდება, აირჩიეს, ამბობენ</li>
+          <li>AUX: უნდა, მინდა, მინდოდა</li>
+          <li>VERB: შეისწავლის, აქვს, წარმოადგენს, მოიცავს, სწავლობს, იყენებენ, იკვლევს, იყენებს, დაიწყო, ეწოდება</li>
         </ul>
       </li>
     </ul>
@@ -825,20 +912,20 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>1
         <ul>
-          <li>AUX: ვარ, მინდა, მინდოდა</li>
-          <li>VERB: მაქვს, ავივსო, გავემგზავრეთ, გავუფრთხილდე, გაინტერესებთ, გამოვიყენოთ, გვქონდა, გვწყუროდა, დავინახე, დამავიწყდა</li>
+          <li>AUX: მინდა, ვარ, მინდოდა</li>
+          <li>VERB: ვხვდებით, ვწერ, აღმოვაჩენთ, განვიხილოთ, გვაქვს, ვიქონიოთ, მაქვს, ავივსო, ამოვალთ, აღვნიშნოთ</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>AUX: ა, იყო, ხარ</li>
-          <li>VERB: აღმოაჩენ, გამოედო, გაქვს, დაინახა, დაიწყო, მოავლო, მოსულა</li>
+          <li>AUX: ა, იყვნენ, იყო, ხარ</li>
+          <li>VERB: მიიღო, შეიქმნა, ახასიათებთ, აერთიანებთ, აღმოაჩენ, შევიდა, შეუწყო, აამოძრაოთ, აირევი, ამყოფო</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>AUX: იყო, უნდა, არის, იქნება, შეიძლება, შეიძლებოდა, ჰქონდა</li>
-          <li>VERB: ჩანს, ხდებოდა, აქვს, აღნიშნავდნენ, გადის, იდგა, ითვლება, მოდიან, მოიცავს, წარმოადგენს</li>
+          <li>AUX: არის, იყო, უნდა, ა, იყოს, არიან, იქნა, იქნება, იქნას, იყვნენ</li>
+          <li>VERB: შეისწავლის, აქვს, შეიძლება, წარმოადგენს, გამოიყენება, მოიცავს, არსებობს, სწავლობს, ჩამოყალიბდა, იყენებენ</li>
         </ul>
       </li>
     </ul>
@@ -850,7 +937,12 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>Brck
         <ul>
-          <li>PUNCT: (, )</li>
+          <li>PUNCT: (, ), <, [, ], ></li>
+        </ul>
+      </li>
+      <li>Colo
+        <ul>
+          <li>PUNCT: :</li>
         </ul>
       </li>
       <li>Comm
@@ -860,7 +952,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
       </li>
       <li>Dash
         <ul>
-          <li>PUNCT: –</li>
+          <li>PUNCT: —, -, –</li>
         </ul>
       </li>
       <li>Elip
@@ -885,7 +977,12 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
       </li>
       <li>Quot
         <ul>
-          <li>PUNCT: “, „</li>
+          <li>PUNCT: „, “, ", ”, “-</li>
+        </ul>
+      </li>
+      <li>Semi
+        <ul>
+          <li>PUNCT: ;</li>
         </ul>
       </li>
     </ul>
@@ -897,19 +994,19 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
     <ul>
       <li>Indir
         <ul>
-          <li>VERB: ხდებოდა, ხდება, ავიწყდება, ახსოვდა, გადაწყდეს, გამხდარიყო, გახდა, გვწყუროდა, გვხვდებოდა, დამავიწყდა</li>
+          <li>VERB: ხდება, გახდა, გვხვდება, შედგება, ხდებოდა, ვხვდებით, მოხდა, ჰქვია, ეყრდნობა, რჩება</li>
         </ul>
       </li>
       <li>Intr
         <ul>
-          <li>AUX: ა, იყო, არის, იქნება, შეიძლება, ვარ, შეიძლებოდა, ხარ, ჰქონდა</li>
-          <li>VERB: აქვს, გადის, იდგა, ითვლება, მაქვს, მოდიან, წარმოებს, ავივსო, ამაღლდა, აფართხალდა</li>
+          <li>AUX: ა, არის, იყო, იყოს, არიან, იქნა, იქნება, იყვნენ, იქნას, იქნეს</li>
+          <li>VERB: აქვს, შეიძლება, გამოიყენება, არსებობს, ჩამოყალიბდა, შეიქმნა, ეწოდება, აქვთ, გულისხმობს, შედგება</li>
         </ul>
       </li>
       <li>Tran
         <ul>
           <li>AUX: უნდა, მინდა, მინდოდა</li>
-          <li>VERB: ჩანს, აღმოაჩენ, აღნიშნავდნენ, მოიცავს, წარმოადგენს, აირჩიეს, ამბობენ, ამოეგდო, ანიჭებენ, ანიჭებს</li>
+          <li>VERB: შეისწავლის, წარმოადგენს, მოიცავს, სწავლობს, იყენებენ, იკვლევს, დაიწყო, იყენებს, განსაზღვრავს, უწოდებენ</li>
         </ul>
       </li>
     </ul>
@@ -921,11 +1018,11 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: არის, აქვს.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: არის.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: უნდა, შეუძლია.</li>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: უნდა.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -934,13 +1031,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Dat (7)</li>
-      <li>VERB--NOUN-Erg (8)</li>
-      <li>VERB--NOUN-Nom (85)</li>
-      <li>VERB--PRON-Dat (7)</li>
-      <li>VERB--PRON-Erg (8)</li>
-      <li>VERB--PRON-Nom (16)</li>
-      <li>VERB-Part--PRON-Dat (1)</li>
+      <li>VERB--NOUN (9)</li>
+      <li>VERB--NOUN-Dat (169)</li>
+      <li>VERB--NOUN-Erg (153)</li>
+      <li>VERB--NOUN-Gen (1)</li>
+      <li>VERB--NOUN-Nom (1514)</li>
+      <li>VERB--PRON-Dat (52)</li>
+      <li>VERB--PRON-Erg (38)</li>
+      <li>VERB--PRON-Ess (1)</li>
+      <li>VERB--PRON-Gen (12)</li>
+      <li>VERB--PRON-Ins (1)</li>
+      <li>VERB--PRON-Nom (513)</li>
+      <li>VERB-Part--NOUN-Dat (1)</li>
+      <li>VERB-Part--NOUN-Nom (15)</li>
+      <li>VERB-Part--PRON-Nom (4)</li>
+      <li>VERB-Vnoun--NOUN-Nom (2)</li>
+      <li>VERB-Vnoun--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -948,12 +1054,28 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Dat (64)</li>
-      <li>VERB--NOUN-Dat-ADP(შესახებ) (1)</li>
-      <li>VERB--NOUN-Nom (38)</li>
-      <li>VERB--PRON-Dat (9)</li>
-      <li>VERB--PRON-Nom (2)</li>
-      <li>VERB-Part--NOUN-Nom (1)</li>
+      <li>VERB--NOUN (2)</li>
+      <li>VERB--NOUN-Dat (1281)</li>
+      <li>VERB--NOUN-Dat-ADP(ზე) (1)</li>
+      <li>VERB--NOUN-Dat-ADP(ში) (1)</li>
+      <li>VERB--NOUN-Erg (3)</li>
+      <li>VERB--NOUN-Ess (5)</li>
+      <li>VERB--NOUN-Gen (5)</li>
+      <li>VERB--NOUN-Ins (1)</li>
+      <li>VERB--NOUN-Nom (630)</li>
+      <li>VERB--NOUN-Nom-ADP(შესახებ) (1)</li>
+      <li>VERB--PRON-Dat (83)</li>
+      <li>VERB--PRON-Ess (2)</li>
+      <li>VERB--PRON-Gen (5)</li>
+      <li>VERB--PRON-Ins (2)</li>
+      <li>VERB--PRON-Nom (19)</li>
+      <li>VERB-Part--NOUN-Dat (2)</li>
+      <li>VERB-Part--NOUN-Ess (1)</li>
+      <li>VERB-Part--NOUN-Gen (1)</li>
+      <li>VERB-Part--NOUN-Nom (2)</li>
+      <li>VERB-Vnoun--NOUN-Dat (1)</li>
+      <li>VERB-Vnoun--NOUN-Gen (2)</li>
+      <li>VERB-Vnoun--NOUN-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -961,9 +1083,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (1)</li>
-      <li>VERB--NOUN-Dat (15)</li>
-      <li>VERB--PRON-Dat (6)</li>
+      <li>VERB--NOUN (2)</li>
+      <li>VERB--NOUN-Dat (148)</li>
+      <li>VERB--NOUN-Nom (5)</li>
+      <li>VERB--PRON-Dat (16)</li>
+      <li>VERB--PRON-Gen (1)</li>
+      <li>VERB-Vnoun--NOUN-Dat (1)</li>
     </ul>
   </li>
 </ul>
@@ -974,7 +1099,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 4 relation subtypes: <a>advmod:lmod</a>, <a>det:poss</a>, <a>flat:name</a>, <a>nsubj:pass</a></li>
-<li>The following 2 main types are not used alone, they are always subtyped: <a>det</a>, <a>flat</a></li>
-<li>The following 13 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>advmod:lmod</a>, <a>det:poss</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

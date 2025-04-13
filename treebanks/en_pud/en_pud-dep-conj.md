@@ -47,7 +47,7 @@ The following 35 pairs of parts of speech are connected with `conj`: <tt><a href
 4	parade	parade	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	_
 5	and	and	CCONJ	CC	_	9	cc	9:cc	_
 6	there	there	PRON	EX	_	9	expl	9:expl	_
-7	never	never	ADV	RB	Polarity=Neg	9	advmod	9:advmod	_
+7	never	never	ADV	RB	PronType=Neg	9	advmod	9:advmod	_
 8	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
 9	been	be	VERB	VBN	Tense=Past|VerbForm=Part	2	conj	2:conj:and	SpaceAfter=No
 10	.	.	PUNCT	.	_	2	punct	2:punct	_

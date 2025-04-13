@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-FicTree: POS Tags: `PRON`
 
-There are 31 `PRON` lemmas (0%), 137 `PRON` types (1%) and 14087 `PRON` tokens (8%).
+There are 30 `PRON` lemmas (0%), 137 `PRON` types (1%) and 14087 `PRON` tokens (8%).
 Out of 16 observed tags, the rank of `PRON` is: 14 in number of lemmas, 8 in number of types and 4 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>se, on, já, co, ty, nic, něco, kdo, nikdo, někdo</em>
 
 The 10 most frequent `PRON` types:  <em>se, si, mi, co, mě, ho, já, mu, ji, nic</em>
 
-The 10 most frequent ambiguous lemmas: <em>se</em> (<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 6110, <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 1), <em>co</em> (<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 789, <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 48, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 34, <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> 21), <em>jenž</em> (<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 123, <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> 23), <em>což</em> (<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 42, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 1), <em>my</em> (<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 8, <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> 1), <em>copak</em> (<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 11, <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 6), <em>být</em> (<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 7488, <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 1), <em>cože</em> (<tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>se</em> (<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 6111, <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 1), <em>co</em> (<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 789, <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 48, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 34, <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> 21), <em>jenž</em> (<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 123, <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> 23), <em>což</em> (<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 42, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 1), <em>my</em> (<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 8, <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> 1), <em>copak</em> (<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 11, <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 6), <em>cože</em> (<tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 4467, <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 185), <em>si</em> (<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 1351, <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 4), <em>co</em> (<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 539, <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 46, <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> 21, <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 17), <em>je</em> (<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 863, <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 228), <em>ti</em> (<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 129, <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> 31), <em>ty</em> (<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> 66, <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 65), <em>ona</em> (<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 70, <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> 2), <em>my</em> (<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 38, <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> 1), <em>něčím</em> (<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 11, <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> 1), <em>copak</em> (<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 1, <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 1)
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs_fictree-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 4.419355 (the average of all parts of speech is 1.970842).
+The form / lemma ratio of `PRON` is 4.566667 (the average of all parts of speech is 1.968999).
 
 The 1st highest number of forms (28) was observed with the lemma “on”: <em>ho, je, jeho, jej, jemu, ji, jich, jim, jimi, jí, jím, mu, ni, nich, nim, nimi, ní, ním, ně, něho, něj, něm, němu, on, ona, oni, ono, ony</em>.
 

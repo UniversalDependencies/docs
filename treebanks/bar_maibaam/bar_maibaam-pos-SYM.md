@@ -11,11 +11,11 @@ Out of 17 observed tags, the rank of `SYM` is: 15 in number of lemmas, 17 in num
 
 The 10 most frequent `SYM` lemmas: <em>_</em>
 
-The 10 most frequent `SYM` types:  <em>%, *, ..., :-), ;-), <, †</em>
+The 10 most frequent `SYM` types:  <em>%, *, ..., :-), ;-), <, ?</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt> 2269, <tt><a href="bar_maibaam-pos-PUNCT.html">PUNCT</a></tt> 2105, <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt> 1946, <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> 1458, <tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> 1417, <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> 1206, <tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt> 1129, <tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> 926, <tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt> 799, <tt><a href="bar_maibaam-pos-PROPN.html">PROPN</a></tt> 549, <tt><a href="bar_maibaam-pos-CCONJ.html">CCONJ</a></tt> 380, <tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> 341, <tt><a href="bar_maibaam-pos-NUM.html">NUM</a></tt> 240, <tt><a href="bar_maibaam-pos-PART.html">PART</a></tt> 165, <tt><a href="bar_maibaam-pos-X.html">X</a></tt> 64, <tt><a href="bar_maibaam-pos-INTJ.html">INTJ</a></tt> 23, <tt><a href="bar_maibaam-pos-SYM.html">SYM</a></tt> 7)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt> 2272, <tt><a href="bar_maibaam-pos-PUNCT.html">PUNCT</a></tt> 2105, <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt> 1959, <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> 1458, <tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> 1417, <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> 1203, <tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt> 1133, <tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> 926, <tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt> 798, <tt><a href="bar_maibaam-pos-PROPN.html">PROPN</a></tt> 545, <tt><a href="bar_maibaam-pos-CCONJ.html">CCONJ</a></tt> 380, <tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> 340, <tt><a href="bar_maibaam-pos-NUM.html">NUM</a></tt> 240, <tt><a href="bar_maibaam-pos-PART.html">PART</a></tt> 160, <tt><a href="bar_maibaam-pos-X.html">X</a></tt> 64, <tt><a href="bar_maibaam-pos-INTJ.html">INTJ</a></tt> 23, <tt><a href="bar_maibaam-pos-SYM.html">SYM</a></tt> 7)
 
-The 10 most frequent ambiguous types:  <em>%</em> (<tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="bar_maibaam-pos-SYM.html">SYM</a></tt> 1), <em>...</em> (<tt><a href="bar_maibaam-pos-PUNCT.html">PUNCT</a></tt> 5, <tt><a href="bar_maibaam-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>%</em> (<tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="bar_maibaam-pos-SYM.html">SYM</a></tt> 1), <em>...</em> (<tt><a href="bar_maibaam-pos-PUNCT.html">PUNCT</a></tt> 5, <tt><a href="bar_maibaam-pos-SYM.html">SYM</a></tt> 1), <em>?</em> (<tt><a href="bar_maibaam-pos-PUNCT.html">PUNCT</a></tt> 113, <tt><a href="bar_maibaam-pos-SYM.html">SYM</a></tt> 1)
 
 
 * <em>%</em>
@@ -24,12 +24,15 @@ The 10 most frequent ambiguous types:  <em>%</em> (<tt><a href="bar_maibaam-pos-
 * <em>...</em>
   * <tt><a href="bar_maibaam-pos-PUNCT.html">PUNCT</a></tt> 5: <em>„ Chef , I hob ma denkt , mia kunntn <b>...</b> “</em>
   * <tt><a href="bar_maibaam-pos-SYM.html">SYM</a></tt> 1: <em>Gib dem Buach " <b>...</b> " 5 Sterndal .</em>
+* <em>?</em>
+  * <tt><a href="bar_maibaam-pos-PUNCT.html">PUNCT</a></tt> 113: <em>Geht 'm Tom da Reiß <b>?</b></em>
+  * <tt><a href="bar_maibaam-pos-SYM.html">SYM</a></tt> 1: <em>Anna Schuster , geb. Kurz ( * 20. Juli 1872 in Berchtsgoan ; <b>?</b> 9. Mai 1939 ) in Berchtsgoan woar a Krippnschnitzarin unn Hoamatdichtarin .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 7.000000 (the average of all parts of speech is 281.529412).
+The form / lemma ratio of `SYM` is 7.000000 (the average of all parts of speech is 265.444444).
 
-The 1st highest number of forms (7) was observed with the lemma “_”: <em>%, *, ..., :-), ;-), <, †</em>.
+The 1st highest number of forms (7) was observed with the lemma “_”: <em>%, *, ..., :-), ;-), <, ?</em>.
 
 `SYM` does not occur with any features.
 

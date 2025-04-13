@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="es_gsd-pos-DET.html
 
 4461 <tt><a href="es_gsd-pos-DET.html">DET</a></tt> tokens (7% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="es_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4461; 100%), <tt><a href="es_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4365; 98%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4209; 94%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3249; 73%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="es_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4461; 100%), <tt><a href="es_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4365; 98%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4209; 94%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3328; 75%).
 
 `DET` tokens may have the following values of `Poss`:
 
@@ -36,5 +36,5 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (22; 100% of non-empty `Poss`): <em>mi, suyo, nuestros, suya, nuestro, suyos</em>
-* `EMPTY` (14011): <em>se, lo, que, le, la, me, uno, cual, los, nos</em>
+* `EMPTY` (14024): <em>se, lo, que, le, la, me, uno, cual, los, nos</em>
 

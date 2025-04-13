@@ -7,12 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_Old_Irish-DipSGG: Features: `PronClass`
 
 This feature is language-specific.
-It occurs with 2 different values: `A`, `Neg`.
+It occurs with 1 different values: `A`.
 
-7 tokens (2%) have a non-empty value of `PronClass`.
-4 types (1%) occur at least once with a non-empty value of `PronClass`.
-3 lemmas (1%) occur at least once with a non-empty value of `PronClass`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+6 tokens (1%) have a non-empty value of `PronClass`.
+3 types (1%) occur at least once with a non-empty value of `PronClass`.
+2 lemmas (1%) occur at least once with a non-empty value of `PronClass`.
+The feature is used with 1 part-of-speech tags: <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (6; 1% instances).
 
 ### `PRON`
 
@@ -23,14 +23,4 @@ The most frequent other feature values with which `PRON` and `PronClass` co-occu
 `PRON` tokens may have the following values of `PronClass`:
 
 * `A` (6; 100% of non-empty `PronClass`): <em>m, mm, t</em>
-
-### `SCONJ`
-
-1 <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> tokens (8% of all `SCONJ` tokens) have a non-empty value of `PronClass`.
-
-The most frequent other feature values with which `SCONJ` and `PronClass` co-occurred: <tt><a href="sga_dipsgg-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (1; 100%).
-
-`SCONJ` tokens may have the following values of `PronClass`:
-
-* `Neg` (1; 100% of non-empty `PronClass`): <em>nach</em>
 

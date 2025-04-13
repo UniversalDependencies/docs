@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>má</em> (<tt><a href="cs_fictree-pos
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.561233 (the average of all parts of speech is 1.970842).
+The form / lemma ratio of `VERB` is 2.561233 (the average of all parts of speech is 1.968999).
 
 The 1st highest number of forms (31) was observed with the lemma “jít”: <em>Jda, Pojďme, jde, jdeme, jdete, jdeš, jdi, jdou, jdu, jděte, jít, nejde, nejdou, nejdu, nepůjde, nepůjdu, nešel, nešla, nešlo, nešly, pojď, pojďte, půjde, půjdeme, půjdeš, půjdu, šel, šla, šli, šlo, šly</em>.
 

@@ -77,4 +77,4 @@ Perfective verbs form past transgressive, meaning “having done”.
 - _собака подошла ко мне <b>виляя</b> хвостом;_ “the dog came to me <b>wagging</b> its tail”
 - _<b>приготовив</b> обед, она позвала семью к столу;_ “<b>having
   prepared</b> the dinner, she called her family to the table”
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:27 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:10 CET -->

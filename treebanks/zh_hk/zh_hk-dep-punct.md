@@ -24,9 +24,9 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3 6 punct	color:blue
 1	你	你	PRON	_	_	3	nsubj	_	SpaceAfter=No|Gloss=2SG|Translit=nǐ|LTranslit=nǐ
 2	在	在	ADV	_	_	3	advmod	_	SpaceAfter=No|Gloss=PROG|Translit=zài|LTranslit=zài
-3	找	找	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=find|Translit=zhǎo|LTranslit=zhǎo
+3	找	找	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=find|Translit=zhǎo|LTranslit=zhǎo|Cxn=Interrogative-WHInfo-Direct|CxnElt=3:Interrogative-WHInfo-Direct.Clause
 4	些	些	NOUN	_	NounType=Clf	5	clf	_	SpaceAfter=No|Gloss=CLF.PL|Translit=xiē|LTranslit=xiē
-5	什麼	什麼	PRON	_	_	3	obj	_	SpaceAfter=No|Gloss=what|Translit=shénme|LTranslit=shénme
+5	什麼	什麼	PRON	_	_	3	obj	_	SpaceAfter=No|Gloss=what|Translit=shénme|LTranslit=shénme|CxnElt=3:Interrogative-WHInfo-Direct.WHWord
 6	？	？	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=?|LTranslit=?
 
 ~~~
@@ -42,7 +42,7 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 2	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 3	我	我	PRON	_	_	5	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 4	可以	可以	AUX	_	_	5	aux	_	SpaceAfter=No|Translit=kěyǐ|LTranslit=kěyǐ
-5	去	去	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qù|LTranslit=qù
+5	去	去	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qù|LTranslit=qù|Cxn=Interrogative-Polar-Direct|CxnElt=5:Interrogative-Polar-Direct.Clause
 6	看	看	VERB	_	_	5	conj	_	SpaceAfter=No|Translit=kàn|LTranslit=kàn
 7	新	新	ADJ	_	_	10	amod	_	SpaceAfter=No|Translit=xīn|LTranslit=xīn
 8	一	一	NUM	_	_	10	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
@@ -62,7 +62,7 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3 6 punct	color:blue
 1	這些	這些	PRON	_	_	3	nsubj	_	SpaceAfter=No|Translit=zhèxiē|LTranslit=zhèxiē
 2	都	都	ADV	_	_	3	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
-3	沒用	沒用	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=méiyòng|LTranslit=méiyòng
+3	沒用	沒用	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=méiyòng|LTranslit=méiyòng|Cxn=Interrogative-Reduced|CxnElt=3:Interrogative-Reduced.Clause
 4	了	了	PART	_	_	3	discourse:sp	_	SpaceAfter=No|Translit=le|LTranslit=le
 5	吧	吧	PART	_	_	3	discourse:sp	_	SpaceAfter=No|Translit=ba|LTranslit=ba
 6	？	？	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=?|LTranslit=?

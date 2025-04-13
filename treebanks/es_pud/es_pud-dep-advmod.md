@@ -23,14 +23,14 @@ The following 23 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 6	fgColor:white
 # visual-style 6 1 advmod	color:blue
 1	Anteriormente	anteriormente	ADV	RB	_	6	advmod	_	SpaceAfter=No
-2	,	,	PUNCT	,	_	1	punct	_	_
+2	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 3	solo	solo	ADV	RB	_	4	advmod	_	_
 4	blogueros	bloguero	NOUN	NN	Gender=Masc|Number=Plur	6	nsubj	_	_
 5	habían	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 6	visto	ver	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	jets	jet	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
-9	.	.	PUNCT	.	_	6	punct	_	_
+9	.	.	PUNCT	.	PunctType=Peri	6	punct	_	_
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 23 pairs of parts of speech are connected with `advmod`: <tt><a hr
 8	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
 9	muy	muy	ADV	RB	_	10	advmod	_	_
 10	conservador	conservador	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	.	_	10	punct	_	_
+11	.	.	PUNCT	.	PunctType=Peri	10	punct	_	_
 
 ~~~
 
@@ -63,14 +63,14 @@ The following 23 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 4	fgColor:white
 # visual-style 4 3 advmod	color:blue
 1	Anteriormente	anteriormente	ADV	RB	_	6	advmod	_	SpaceAfter=No
-2	,	,	PUNCT	,	_	1	punct	_	_
+2	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 3	solo	solo	ADV	RB	_	4	advmod	_	_
 4	blogueros	bloguero	NOUN	NN	Gender=Masc|Number=Plur	6	nsubj	_	_
 5	habían	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 6	visto	ver	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	jets	jet	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
-9	.	.	PUNCT	.	_	6	punct	_	_
+9	.	.	PUNCT	.	PunctType=Peri	6	punct	_	_
 
 ~~~
 

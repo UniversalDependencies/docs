@@ -25,4 +25,4 @@ In Hittite, this is used for the special phrasal discourse connectives *nu*, *š
 9	š-ši	-šiš	PRON	_	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod	_	_
 10	pé-en-na-i	penna/i-	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:09 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:50 CET -->

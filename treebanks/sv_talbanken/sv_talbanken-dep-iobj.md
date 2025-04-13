@@ -26,10 +26,10 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 2	kan	kunna	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	3:aux	_
 3	fråga	fråga	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	0	root	0:root	_
 4	sig	sig	PRON	PN|UTR/NEU|SIN/PLU|DEF|OBJ	Case=Acc|Definite=Def|PronType=Prs	3	iobj	3:iobj	_
-5	hur	hur	ADV	HA	_	8	advmod	8:advmod	_
+5	hur	hur	ADV	HA	_	8	advmod	8:advmod	CxnElt=8:Interrogative-WHInfo-Indirect.WHWord
 6	dessa	denna	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur|PronType=Dem	7	det	7:det	_
 7	barn	barn	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	8	nsubj	8:nsubj	_
-8	blir	bli	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	3:ccomp	SpaceAfter=No
+8	blir	bli	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	3:ccomp	Cxn=Interrogative-WHInfo-Indirect|CxnElt=8:Interrogative-WHInfo-Indirect.Clause|SpaceAfter=No
 9	.	.	PUNCT	MAD	_	3	punct	3:punct	_
 
 ~~~
@@ -61,8 +61,8 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 11 13 iobj	color:blue
 1	Lite	lite	ADV	AB|POS	Degree=Pos	2	advmod	2:advmod	_
 2	senare	sen	ADV	AB|KOM	Degree=Cmp	5	advmod	5:advmod	_
-3	i	i	ADP	PP	_	2	advmod	2:advmod	_
-4	livet	liv	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	3	fixed	3:fixed	_
+3	i	i	ADP	PP	_	4	case	4:case	_
+4	livet	liv	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	obl	2:obl:i	_
 5	använder	använda	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 6	man	man	PRON	PN|UTR|SIN|IND|SUB	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|PronType=Ind	5	nsubj	5:nsubj	_
 7	39000	39000	NUM	RG|NOM	Case=Nom|NumType=Card	8	nummod	8:nummod	_

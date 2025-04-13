@@ -39,7 +39,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 14	business	business	NOUN	NN	Number=Sing	15	compound	15:compound	_
 15	people	people	NOUN	NNS	Number=Plur	12	conj	12:conj:and	_
 16	must	must	AUX	MD	VerbForm=Fin	18	aux	18:aux	_
-17	sometimes	sometimes	ADV	RB	_	18	advmod	18:advmod	_
+17	sometimes	sometimes	ADV	RB	PronType=Ind	18	advmod	18:advmod	_
 18	lie	lie	VERB	VB	VerbForm=Inf	4	csubj:pass	4:csubj:pass	SpaceAfter=No
 19	,	,	PUNCT	,	_	21	punct	21:punct	_
 20	as	as	ADP	IN	_	21	case	21:case	_
@@ -75,7 +75,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 14	work	work	VERB	VB	VerbForm=Inf	12	acl	12:acl:to	_
 15	with	with	ADP	IN	_	14	obl	14:obl	Promoted=Yes|SpaceAfter=No
 16	,	,	PUNCT	,	_	21	punct	21:punct	_
-17	because	because	ADP	IN	_	21	case	21:case	_
+17	because	because	ADP	IN	ExtPos=ADP	21	case	21:case	_
 18	of	of	ADP	IN	_	17	fixed	17:fixed	_
 19	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	nmod:poss	21:nmod:poss	_
 20	solid	solid	ADJ	JJ	Degree=Pos	21	amod	21:amod	_

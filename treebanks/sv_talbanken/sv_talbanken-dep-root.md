@@ -11,9 +11,9 @@ This relation is universal.
 6026 nodes (6%) are attached to their parents as `root`.
 
 6026 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.1634583471623.
+Average distance between parent and child is 5.16080318619316.
 
-The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (4428; 73% instances), -<tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (913; 15% instances), -<tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (535; 9% instances), -<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (56; 1% instances), -<tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (35; 1% instances), -<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (31; 1% instances), -<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (17; 0% instances), -<tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (6; 0% instances), -<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), -<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (4426; 73% instances), -<tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (915; 15% instances), -<tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (539; 9% instances), -<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (59; 1% instances), -<tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (35; 1% instances), -<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (30; 0% instances), -<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (17; 0% instances), -<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), -<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

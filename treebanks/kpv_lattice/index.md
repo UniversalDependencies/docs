@@ -12,15 +12,15 @@ udver: '2'
 # UD Komi Zyrian Lattice
 
 Language: [Komi Zyrian](/kpv/index.html) (code: `kpv`)<br/>
-Family: Uralic, Permic
+Family: Uralic
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
 
 The following people have contributed to making this treebank part of UD: Niko Partanen, KyungTae Lim, Thierry Poibeau, Jack Rueter.
 
 Repository: [UD_Komi_Zyrian-Lattice](https://github.com/UniversalDependencies/UD_Komi_Zyrian-Lattice)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_lattice214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_lattice215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -86,7 +86,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 
 ## Features
 
-[Abbr](kpv_lattice-feat-Abbr.html) – [AdpType](kpv_lattice-feat-AdpType.html) – [AdvType](kpv_lattice-feat-AdvType.html) – [Animacy](kpv_lattice-feat-Animacy.html) – [Case](kpv_lattice-feat-Case.html) – [Clitic](kpv_lattice-feat-Clitic.html) – [Connegative](kpv_lattice-feat-Connegative.html) – [Definite](kpv_lattice-feat-Definite.html) – [Degree](kpv_lattice-feat-Degree.html) – [Derivation](kpv_lattice-feat-Derivation.html) – [Evident](kpv_lattice-feat-Evident.html) – [Mood](kpv_lattice-feat-Mood.html) – [NounType](kpv_lattice-feat-NounType.html) – [Number](kpv_lattice-feat-Number.html) – [Number[psor]](kpv_lattice-feat-Number-psor.html) – [Number[subj]](kpv_lattice-feat-Number-subj.html) – [NumType](kpv_lattice-feat-NumType.html) – [PartForm](kpv_lattice-feat-PartForm.html) – [Person](kpv_lattice-feat-Person.html) – [Person[psor]](kpv_lattice-feat-Person-psor.html) – [Polarity](kpv_lattice-feat-Polarity.html) – [PronType](kpv_lattice-feat-PronType.html) – [Reflex](kpv_lattice-feat-Reflex.html) – [Tense](kpv_lattice-feat-Tense.html) – [Variant](kpv_lattice-feat-Variant.html) – [VerbForm](kpv_lattice-feat-VerbForm.html) – [Voice](kpv_lattice-feat-Voice.html)
+[Abbr](kpv_lattice-feat-Abbr.html) – [AdpType](kpv_lattice-feat-AdpType.html) – [AdvType](kpv_lattice-feat-AdvType.html) – [Animacy](kpv_lattice-feat-Animacy.html) – [Case](kpv_lattice-feat-Case.html) – [Clitic](kpv_lattice-feat-Clitic.html) – [Connegative](kpv_lattice-feat-Connegative.html) – [Definite](kpv_lattice-feat-Definite.html) – [Degree](kpv_lattice-feat-Degree.html) – [Derivation](kpv_lattice-feat-Derivation.html) – [Evident](kpv_lattice-feat-Evident.html) – [Mood](kpv_lattice-feat-Mood.html) – [Nomzr](kpv_lattice-feat-Nomzr.html) – [NounType](kpv_lattice-feat-NounType.html) – [Number](kpv_lattice-feat-Number.html) – [Number[psor]](kpv_lattice-feat-Number-psor.html) – [Number[subj]](kpv_lattice-feat-Number-subj.html) – [NumType](kpv_lattice-feat-NumType.html) – [PartForm](kpv_lattice-feat-PartForm.html) – [Person](kpv_lattice-feat-Person.html) – [Person[psor]](kpv_lattice-feat-Person-psor.html) – [Polarity](kpv_lattice-feat-Polarity.html) – [PronType](kpv_lattice-feat-PronType.html) – [Reflex](kpv_lattice-feat-Reflex.html) – [Tense](kpv_lattice-feat-Tense.html) – [Variant](kpv_lattice-feat-Variant.html) – [VerbForm](kpv_lattice-feat-VerbForm.html) – [Voice](kpv_lattice-feat-Voice.html)
 
 ## Relations
 
@@ -472,7 +472,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
       <li>PRON: сійӧ, тайӧ, ме, ми, мый, найӧ, тэ, кодъяс, коді, мыйкӧ</li>
       <li>PROPN: Ворошилов, Климент, Ефремович, Краснӧй, Сталин, Валентина, Ивановна, Калинин, Мери, Нетулика</li>
       <li>SCONJ: мед</li>
-      <li>VERB: идралӧм, воӧм, кольӧм, Мудзӧм, босьтӧм, босьтӧмаыс, босьтӧмаяс, быдмӧмаыс, вартӧм, ветлӧм</li>
+      <li>VERB: идралӧм, сулалысь, воӧм, дзирдалысь, кольӧм, локтысь, Мудзӧм, босьтӧм, босьтӧмаыс, босьтӧмаяс</li>
       <li>VERB-Part: идралӧм, кольӧм, босьтӧм, вартӧм, вооружитчӧм, воӧм, вӧйӧм, горзӧмъяс, грымгӧм, жугласьӧм</li>
       <li>VERB-Vnoun: Мудзӧм, босьтӧмаяс, ветлӧм, видзӧдлӧмъясыс, воӧм, вувзьысьӧмъяс, вурӧм, вӧчӧм, гызьылӧм, кыпӧдӧм</li>
     </ul>
@@ -1107,12 +1107,6 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
           <li>PRON: мыйкӧ, кодкӧ, кутшӧмкӧ, Кодъяскӧ, мыйӧнкӧ</li>
         </ul>
       </li>
-      <li>NomAg
-        <ul>
-          <li>VERB: сулалысь, дзирдалысь, локтысь, вӧтчысь, дзользьысь, кужысь, куйлысь, лэччысь, полысь, сюйсьысь</li>
-          <li>VERB-Part: Вӧралысь, кыйсьысь, шептасьысь</li>
-        </ul>
-      </li>
       <li>Oma
         <ul>
           <li>VERB: босьтӧмаыс, быдмӧмаыс</li>
@@ -1166,6 +1160,19 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 </ul>
 
 <ul>
+  <li><a>Nomzr</a>
+    <ul>
+      <li>Ag
+        <ul>
+          <li>VERB: сулалысь, дзирдалысь, локтысь, Вӧралысь, видзысьяс, воысьясӧс, вӧтчысь, вӧчысь, дзользьысь, индалысьясным</li>
+          <li>VERB-Part: Вӧралысь, кыйсьысь, шептасьысь</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>NounType</a>
     <ul>
       <li>Relat
@@ -1200,7 +1207,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
     <ul>
       <li>Neg
         <ul>
-          <li>VERB: вермытӧм, Тыдавлытӧм, Тӧдтӧм, ветлытӧм, вердтӧмӧсь, йывдытӧмӧсь, юктавтӧмӧсь</li>
+          <li>VERB: вермытӧм, Тыдавлытӧм, Тӧдтӧм, ветлытӧм, вердтӧмӧсь, гӧгӧрвотӧм, йывдытӧмӧсь, юктавтӧмӧсь</li>
         </ul>
       </li>
       <li>Pres
@@ -1270,7 +1277,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 </ul>
 
 <ul>
-<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: вӧвны, лоны, вай, лысьтны, овлывлыны, эм.</li>
+<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: оз, вӧвны, лоны, абу, вай, лысьтны, овлывлыны, эм.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>

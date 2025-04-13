@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1338 nodes (6%) are attached to their parents as `amod`.
+1346 nodes (6%) are attached to their parents as `amod`.
 
-1324 instances of `amod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.30642750373692.
+1332 instances of `amod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.30460624071322.
 
-The following 15 pairs of parts of speech are connected with `amod`: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (1126; 84% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (86; 6% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (77; 6% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `amod`: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (1123; 83% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (89; 7% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (86; 6% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,6 +39,29 @@ The following 15 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 amod	color:blue
+1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+2	last	last	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
+3	Olympic	Olympic	PROPN	NNP	Number=Sing	4	compound	4:compound	_
+4	Games	Games	PROPN	NNPS	Number=Plur	6	nsubj:pass	6:nsubj:pass|10:nsubj:xsubj	_
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	6:aux:pass	_
+6	believed	believe	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+7	to	to	PART	TO	_	10	mark	10:mark	_
+8	have	have	AUX	VB	VerbForm=Inf	10	aux	10:aux	_
+9	been	be	AUX	VBN	Tense=Past|VerbForm=Part	10	aux:pass	10:aux:pass	_
+10	held	hold	VERB	VBN	Tense=Past|VerbForm=Part	6	xcomp	6:xcomp	_
+11	in	in	ADP	IN	_	12	case	12:case	_
+12	393	393	NUM	CD	NumForm=Digit|NumType=Card	10	obl	10:obl:in	SpaceAfter=No
+13	.	.	PUNCT	.	_	6	punct	6:punct	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 12	bgColor:blue
@@ -58,29 +81,6 @@ The following 15 pairs of parts of speech are connected with `amod`: <tt><a href
 12	Dead	dead	NOUN	NN	Number=Sing	6	appos	6:appos	SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	12:punct	SpaceAfter=No
 14	"	"	PUNCT	''	_	12	punct	12:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 amod	color:blue
-1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
-2	last	last	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
-3	Olympic	Olympic	PROPN	NNP	Number=Sing	4	compound	4:compound	_
-4	Games	Games	PROPN	NNPS	Number=Plur	6	nsubj:pass	6:nsubj:pass|10:nsubj:xsubj	_
-5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	6:aux:pass	_
-6	believed	believe	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
-7	to	to	PART	TO	_	10	mark	10:mark	_
-8	have	have	AUX	VB	VerbForm=Inf	10	aux	10:aux	_
-9	been	be	AUX	VBN	Tense=Past|VerbForm=Part	10	aux:pass	10:aux:pass	_
-10	held	hold	VERB	VBN	Tense=Past|VerbForm=Part	6	xcomp	6:xcomp	_
-11	in	in	ADP	IN	_	12	case	12:case	_
-12	393	393	NUM	CD	NumForm=Digit|NumType=Card	10	obl	10:obl:in	SpaceAfter=No
-13	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 ~~~
 

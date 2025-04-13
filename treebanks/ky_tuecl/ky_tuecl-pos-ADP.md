@@ -9,11 +9,11 @@ udver: '2'
 There are 8 `ADP` lemmas (3%), 8 `ADP` types (2%) and 16 `ADP` tokens (2%).
 Out of 15 observed tags, the rank of `ADP` is: 8 in number of lemmas, 8 in number of types and 10 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: <em>менен, жѳнүндѳ, соң, бою, ки, тууралуу, чейин, үчүн</em>
+The 10 most frequent `ADP` lemmas: <em>менен, жѳнүндѳ, соң, бой, ки, тууралуу, чейин, үчүн</em>
 
 The 10 most frequent `ADP` types:  <em>менен, жѳнүндѳ, соң, бою, гү, тууралуу, чейин, үчүн</em>
 
-The 10 most frequent ambiguous lemmas: <em>менен</em> (<tt><a href="ky_tuecl-pos-ADP.html">ADP</a></tt> 7, <tt><a href="ky_tuecl-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="ky_tuecl-pos-SCONJ.html">SCONJ</a></tt> 2), <em>ки</em> (<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 5, <tt><a href="ky_tuecl-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>менен</em> (<tt><a href="ky_tuecl-pos-ADP.html">ADP</a></tt> 7, <tt><a href="ky_tuecl-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="ky_tuecl-pos-SCONJ.html">SCONJ</a></tt> 2), <em>бой</em> (<tt><a href="ky_tuecl-pos-ADP.html">ADP</a></tt> 1, <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 1), <em>ки</em> (<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 5, <tt><a href="ky_tuecl-pos-ADP.html">ADP</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>менен</em> (<tt><a href="ky_tuecl-pos-ADP.html">ADP</a></tt> 7, <tt><a href="ky_tuecl-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="ky_tuecl-pos-SCONJ.html">SCONJ</a></tt> 2), <em>гү</em> (<tt><a href="ky_tuecl-pos-ADP.html">ADP</a></tt> 1, <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 1)
 
@@ -28,9 +28,9 @@ The 10 most frequent ambiguous types:  <em>менен</em> (<tt><a href="ky_tuec
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.451724).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.466899).
 
-The 1st highest number of forms (1) was observed with the lemma “бою”: <em>бою</em>.
+The 1st highest number of forms (1) was observed with the lemma “бой”: <em>бою</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “жѳнүндѳ”: <em>жѳнүндѳ</em>.
 

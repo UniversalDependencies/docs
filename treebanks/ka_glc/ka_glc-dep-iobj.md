@@ -8,74 +8,74 @@ udver: '2'
 
 This relation is universal.
 
-23 nodes (1%) are attached to their parents as `iobj`.
+188 nodes (0%) are attached to their parents as `iobj`.
 
-15 instances of `iobj` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.17391304347826.
+117 instances of `iobj` (62%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.65425531914894.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (16; 70% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (6; 26% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 iobj	color:blue
-1	ახალგაზრდა	ახალგაზრდა	ADJ	Adj	Case=Nom|Number=Sing	2	amod	_	Translit=axalgazrda
-2	გოგონები	გოგონი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Plur	4	nsubj	_	Translit=gogonebi
-3	სიცილ-კისკისით	სიცილ-კისკისი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	4	obl	_	Translit=sicʻil-kiskisitʻ
-4	მიჰფენოდნენ	მიი/ეფინება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=PastPerf|Voice=Act	0	root	_	Translit=mihpʻenodnen
-5	შარაგზას	შარაგზა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	iobj	_	SpaceAfter=No|Translit=šaragzas
-6	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
-
-~~~
+The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (156; 83% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (17; 9% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (7; 4% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-X.html">X</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 1 iobj	color:blue
-1	თქვენ	თქვენ	PRON	Pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	iobj	_	Translit=tʻkʻven
-2	ალბათ	ალბათ	PART	Part	PartType=Int	3	advmod	_	Translit=albatʻ
-3	გაინტერესებთ	აინტერესებს	VERB	Verb	Aspect=Imp|Mood=Ind|Person[io]=2|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=gainteresebtʻ
-4	რას	რა	PRON	Pron	Case=Dat|Number=Sing|PronType=Int	3	obj	_	Translit=ras
-5	მეძახიან	იძახის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Sing|Number[subj]=Plur|Person[io]=1|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	3	ccomp	_	SpaceAfter=No|Translit=meżaxian
-6	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 iobj	color:blue
+1	საინჟინრო	საინჟინრო	ADJ	Adj	Case=Gen|Number=Sing	2	amod	_	Translit=sainžinro
+2	საქმის	საქმე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=sakʻmis
+3	სპეციალისტებს	სპეციალისტი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	5	iobj	_	Translit=specʻialistebs
+4	ინჟინრებს	ინჟინერი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	5	obj	_	Translit=inžinrebs
+5	უწოდებენ	უწოდებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No|Translit=ucodeben
+6	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 21 iobj	color:blue
-1	თეორიულ	თეორიული	ADJ	Adj	Case=Dat|Number=Sing	2	amod	_	Translit=tʻeoriul
-2	კვლევა-ძიებას	კვლევა-ძიება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl	_	Translit=kvleva-żiebas
-3	თან	თან	ADP	Post	AdpType=Post|Case=Dat	2	case	_	Translit=tʻan
-4	ერთად	ერთად	ADV	Adv	AdvType=Man	8	advmod	_	Translit=ertʻad
-5	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Translit=igi
-6	დიდ	დიდი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	7	amod	_	Translit=did
-7	მნიშვნელობას	მნიშვნელობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obj	_	Translit=mnišvnelobas
-8	ანიჭებს	ანიჭებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No|Translit=aničebs
-9	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
-10	მუშაობის	მუშაობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	nmod	_	Translit=mušaobis
-11	მეორე	ორი	NUM	Num	Case=Dat|Number=Sing|NumType=Ord	12	nummod	_	Translit=meore
-12	მხარეს	მხარე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	iobj	_	Translit=mxares
-13	–	–	PUNCT	F	PunctType=Dash	21	punct	_	Translit=–
-14	საშუალო	საშუალო	ADJ	Adj	Case=Gen|Number=Sing	17	nmod	_	Translit=sašualo
-15	და	და	CCONJ	Conj	_	16	cc	_	Translit=da
-16	უმაღლესი	მაღალი	ADJ	Adj	Case=Gen|Degree=Sup|Number=Sing	14	conj	_	Translit=umaġlesi
-17	სასწავლებლებისა	სასწავლებელი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	21	obl	_	Translit=sascavleblebisa
-18	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	17	case	_	Translit=tʻvis
-19	გრამატიკული	გრამატიკული	ADJ	Adj	Case=Gen|Number=Sing	20	nmod	_	Translit=gramatikuli
-20	სახელმძღვანელოს	სახელმძღვანელო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	_	Translit=saxelmżġvanelos
-21	შედგენას	შედგენა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	12	iobj	_	SpaceAfter=No|Translit=šedgenas
-22	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 8 iobj	color:blue
+1	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=igi
+2	ითვლება	ითვლება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Pass	0	root	_	Translit=itʻvleba
+3	თანამედროვე	თანამედროვე	ADJ	Adj	Case=Gen|Number=Sing	4	amod	_	Translit=tʻanamedrove
+4	ჩეხური	ჩეხური	ADJ	Adj	Case=Gen|Number=Sing	5	amod	_	Translit=čʻexuri
+5	ისტორიოგრაფიის	ისტორიოგრაფია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	Translit=istoriograpʻiis
+6	ფუძემდებლად	ფუძემდებელი	NOUN	Noun	Animacy=Anim|Case=Ess|Number=Sing	2	obl	_	SpaceAfter=No|Translit=pʻużemdeblad
+7	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
+8	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	13	iobj	_	Translit=mas
+9	„	„	PUNCT	F	PunctType=Quot	11	punct	_	SpaceAfter=No|Translit=„
+10	ერის	ერი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	11	nmod	_	Translit=eris
+11	მამას	მამა	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Sing	13	obj	_	SpaceAfter=No|Translit=mamas
+12	“	“	PUNCT	F	PunctType=Quot	11	punct	_	Translit=“
+13	უწოდებენ	უწოდებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	6	acl	_	SpaceAfter=No|Translit=ucodeben
+14	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 7 iobj	color:blue
+1	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	Translit=igi
+2	ამ	ეს	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	3	det	_	Translit=am
+3	ვალდებულებას	ვალდებულება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	8	obj	_	Translit=valdebulebas
+4	მაშინვე	მაშინვე	ADV	Adv	AdvType=Tim	13	advmod	_	Translit=mašinve
+5	ენთუზიასტ	ენთუზიასტი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	8	nmod	_	Translit=entʻuziast
+6	მოხალისე	მოხალისე	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	8	nmod	_	Translit=moxalise
+7	დუაით	დუაითი	PROPN	Prop	Case=Dat|NameType=Sur|Number=Sing	13	iobj	_	Translit=duaitʻ
+8	შრუტს	შრუტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	flat:name	_	Translit=šruts
+9	(	(	PUNCT	F	PunctType=Brck	10	punct	_	SpaceAfter=No|Translit=(
+10	რეინ	რეინი	PROPN	Prop	Case=Nom|NameType=Geo|Number=Sing	7	appos	_	Translit=rein
+11	უილსონი	უილსონი	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	10	flat:name	_	SpaceAfter=No|Translit=uilsoni
+12	)	)	PUNCT	F	PunctType=Brck	10	punct	_	Translit=)
+13	გადააბარებს	აბარებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	SpaceAfter=No|Translit=gadaabarebs
+14	.	.	PUNCT	F	PunctType=Peri	13	punct	_	Translit=.
 
 ~~~
 

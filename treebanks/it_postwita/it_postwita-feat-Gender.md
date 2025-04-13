@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-36401 tokens (29%) have a non-empty value of `Gender`.
-7007 types (40%) occur at least once with a non-empty value of `Gender`.
-4486 lemmas (33%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (16933; 14% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (12308; 10% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (3540; 3% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (1931; 2% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (1596; 1% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (92; 0% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+36402 tokens (29%) have a non-empty value of `Gender`.
+7008 types (40%) occur at least once with a non-empty value of `Gender`.
+4487 lemmas (33%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 7 part-of-speech tags: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (16933; 14% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (12308; 10% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (3541; 3% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (1931; 2% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (1596; 1% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (92; 0% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Fem` (6939; 41% of non-empty `Gender`): <em>crisi, politica, manovra, vita, tv, foto, cosa, fiducia, gente, fine</em>
 * `Masc` (9994; 59% of non-empty `Gender`): <em>governo, video, anni, premier, lavoro, presidente, partiti, paese, italiani, professor</em>
-* `EMPTY` (662): <em>TT, spread, tweet, blog, leader, link, news, web, nov., account</em>
+* `EMPTY` (661): <em>TT, spread, tweet, blog, leader, link, news, web, nov., account</em>
 
 <table>
   <tr><th>Paradigm <i>partito</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -54,14 +54,14 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `ADJ`
 
-3540 <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> tokens (71% of all `ADJ` tokens) have a non-empty value of `Gender`.
+3541 <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> tokens (71% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2690; 76%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
 * `Fem` (1395; 39% of non-empty `Gender`): <em>bella, buona, nuova, prima, politica, italiana, unica, vera, prime, economica</em>
-* `Masc` (2145; 61% of non-empty `Gender`): <em>nuovo, buon, primo, vero, giusto, fisso, tecnico, bello, bravo, italiano</em>
+* `Masc` (2146; 61% of non-empty `Gender`): <em>nuovo, buon, primo, vero, giusto, fisso, tecnico, bello, bravo, italiano</em>
 * `EMPTY` (1458): <em>grande, possibile, facile, forte, migliore, sociale, difficile, fiscale, importante, elettorale</em>
 
 <table>
@@ -98,7 +98,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 * `Fem` (306; 19% of non-empty `Gender`): <em>fatta, finita, chiamata, fatte, andata, stata, varata, arrivata, dedicata, morta</em>
 * `Masc` (1290; 81% of non-empty `Gender`): <em>fatto, detto, dato, nominato, messo, trovato, letto, perso, iniziato, rotto</em>
-* `EMPTY` (9669): <em>fare, fa, è, ha, dice, far, piace, va, ho, dire</em>
+* `EMPTY` (9668): <em>fare, fa, è, ha, dice, far, piace, va, ho, dire</em>
 
 <table>
   <tr><th>Paradigm <i>fare</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -131,13 +131,13 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 `PROPN` tokens may have the following values of `Gender`:
 
 * `Masc` (1; 100% of non-empty `Gender`): <em>pepe</em>
-* `EMPTY` (10485): <em>monti, mario, italia, berlusconi, roma, pd, lega, pdl, twitter, napolitano</em>
+* `EMPTY` (10480): <em>monti, mario, italia, berlusconi, roma, pd, lega, pdl, twitter, napolitano</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="it_postwita-dep-det.html">det</a></tt>]--> DET</tt> (9108; 84%),
-<tt>NOUN --[<tt><a href="it_postwita-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2028; 70%),
+<tt>NOUN --[<tt><a href="it_postwita-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2029; 70%),
 <tt>NOUN --[<tt><a href="it_postwita-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (484; 86%),
 <tt>NOUN --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> NOUN</tt> (414; 53%),
 <tt>NOUN --[<tt><a href="it_postwita-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (213; 52%),

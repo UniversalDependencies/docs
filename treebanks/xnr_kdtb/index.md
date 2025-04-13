@@ -12,15 +12,15 @@ udver: '2'
 # UD Kangri KDTB
 
 Language: [Kangri](/xnr/index.html) (code: `xnr`)<br/>
-Family: Indo-European, Indic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.8 release.
 
 The following people have contributed to making this treebank part of UD: Shweta Chauhan, Shefali Saxena, Apoorva Jha, Philemon Daniel.
 
 Repository: [UD_Kangri-KDTB](https://github.com/UniversalDependencies/UD_Kangri-KDTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxnr_kdtb214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxnr_kdtb215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

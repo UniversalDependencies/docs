@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fr_rhapsodie-dep-nmod.html">nmod</a></tt>.
 
-120 nodes (0%) are attached to their parents as `nmod:appos`.
+121 nodes (0%) are attached to their parents as `nmod:appos`.
 
-120 instances of `nmod:appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.59166666666667.
+121 instances of `nmod:appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.58677685950413.
 
-The following 5 pairs of parts of speech are connected with `nmod:appos`: <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (100; 83% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (11; 9% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `nmod:appos`: <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (100; 83% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (11; 9% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (5; 4% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -55,37 +55,26 @@ The following 5 pairs of parts of speech are connected with `nmod:appos`: <tt><a
 
 
 ~~~ conllu
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 23 24 nmod:appos	color:blue
-1	donc	donc	ADV	_	_	4	advmod	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	1	punct	_	_
-3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	SpaceAfter=No
-4	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	reparandum	_	_
-5	l~	l~	X	_	_	4	xcomp	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	4	punct	_	_
-7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj	_	SpaceAfter=No
-8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
-9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	reparandum	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	9	punct	_	_
-11	À	À	ADP	_	_	13	case	_	Title=Yes
-12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	InTitle=Yes
-13	sud	sud	NOUN	_	Gender=Masc|Number=Sing	0	root	_	InTitle=Yes
-14	de	de	ADP	_	_	16	case	_	InTitle=Yes
-15	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	InTitle=Yes
-16	frontière	frontière	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	InTitle=Yes
-17	à	à	ADP	_	_	19	case	_	InTitle=Yes
-18	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	19	det	_	InTitle=Yes|SpaceAfter=No
-19	ouest	ouest	NOUN	_	Gender=Masc|Number=Sing	13	conj	_	InTitle=Yes
-20	de	de	ADP	_	_	22	case	_	InTitle=Yes
-21	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	InTitle=Yes
-22	soleil	soleil	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	InTitle=Yes
-23	page	page	NOUN	_	Gender=Fem|Number=Sing	13	obl:mod	_	_
-24	cent	cent	NUM	_	Number=Plur	23	nmod:appos	_	_
-25	quatre-vingt-onze	quatre-vingt-onze	NUM	_	Number=Plur	24	flat	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	13	punct	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 13 nmod:appos	color:blue
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
+2	jouait	jouer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	trois	trois	NUM	_	Number=Plur	4	nummod	_	_
+4	matchs	match	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	retard	retard	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	dans	dans	ADP	_	_	10	case	_	_
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	vingtième	vingtième	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
+10	journée	journée	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	ligue	ligue	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+13	un	un	NUM	_	Number=Sing	12	nmod:appos	_	_
+14	hier	hier	ADV	_	_	2	advmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

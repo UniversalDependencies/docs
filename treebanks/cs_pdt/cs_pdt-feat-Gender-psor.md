@@ -19,7 +19,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_pdt-pos-DET.html
 
 ### `DET`
 
-981 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (7% of all `DET` tokens) have a non-empty value of `Gender[psor]`.
+981 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (8% of all `DET` tokens) have a non-empty value of `Gender[psor]`.
 
 The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (981; 100%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=3</tt> (981; 100%), <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (981; 100%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (964; 98%), <tt><a href="cs_pdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (889; 91%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (728; 74%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (728; 74%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (711; 72%).
 

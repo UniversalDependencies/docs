@@ -20,4 +20,4 @@ The dependency label indicates their use (auxiliary, copula or content verb).
 * _Okuyor olacağım_ "I will be reading"
 * _Okumuş muydun_ "Have you read (it)?"
 * _Okuymuş olmaycak mıydın_ "Weren't you supposed to read (it)"
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:34 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:20 CET -->

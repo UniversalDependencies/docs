@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Irish-Cadhan: POS Tags: `NUM`
 
 There are 18 `NUM` lemmas (2%), 36 `NUM` types (2%) and 60 `NUM` tokens (1%).
-Out of 16 observed tags, the rank of `NUM` is: 9 in number of lemmas, 9 in number of types and 14 in number of tokens.
+Out of 15 observed tags, the rank of `NUM` is: 9 in number of lemmas, 10 in number of types and 14 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>trí, dó, céad, ceathair, míle, cúig, fiche, sé, aon, dara</em>
 
@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  <em>trí</em> (<tt><a href="ga_cadhan-pos
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 2.000000 (the average of all parts of speech is 1.659916).
+The form / lemma ratio of `NUM` is 2.000000 (the average of all parts of speech is 1.662997).
 
 The 1st highest number of forms (4) was observed with the lemma “céad”: <em>ceid, chéad, céad, céid</em>.
 

@@ -36,4 +36,4 @@ The subject of the verb is affected by the action (patient). The doer (agent) is
 * _póten je <b>adbáven</b> na mlógo mestá_ "the road is damaged in many parts" 
 
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:28 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:11 CET -->

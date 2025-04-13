@@ -12,15 +12,15 @@ udver: '2'
 # UD Ancient Greek PTNK
 
 Language: [Ancient Greek](/grc/index.html) (code: `grc`)<br/>
-Family: Indo-European, Greek
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.13 release.
 
 The following people have contributed to making this treebank part of UD: Daniel Swanson.
 
 Repository: [UD_Ancient_Greek-PTNK](https://github.com/UniversalDependencies/UD_Ancient_Greek-PTNK)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgrc_ptnk214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgrc_ptnk215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -54,7 +54,28 @@ Thank you to John Barach for granting permission to use his morphological annota
 
 ## References
 
-* (citation)
+```
+@inproceedings{swanson-etal-2024-producing-parallel,
+title = "Producing a Parallel {U}niversal {D}ependencies Treebank of {A}ncient {H}ebrew and {A}ncient {G}reek via Cross-Lingual Projection",
+author = "Swanson, Daniel G. and
+Bussert, Bryce D. and
+Tyers, Francis",
+editor = "Calzolari, Nicoletta and
+Kan, Min-Yen and
+Hoste, Veronique and
+Lenci, Alessandro and
+Sakti, Sakriani and
+Xue, Nianwen",
+booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+month = may,
+year = "2024",
+address = "Torino, Italia",
+publisher = "ELRA and ICCL",
+url = "https://aclanthology.org/2024.lrec-main.1145",
+pages = "13074--13078",
+abstract = "In this paper we present the initial construction of a treebank of Ancient Greek containing portions of the Septuagint, a translation of the Hebrew Scriptures (1576 sentences, 39K tokens, roughly 7{\%} of the total corpus). We construct the treebank by word-aligning and projecting from the parallel text in Ancient Hebrew before automatically correcting systematic syntactic mismatches and manually correcting other errors.",
+}
+```
 
 
 

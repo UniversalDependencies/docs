@@ -12,15 +12,15 @@ udver: '2'
 # UD Spanish GSD
 
 Language: [Spanish](/es/index.html) (code: `es`)<br/>
-Family: Indo-European, Romance
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
 The following people have contributed to making this treebank part of UD: Miguel Ballesteros, Héctor Martínez Alonso, Ryan McDonald, Elena Pascual, Natalia Silveira, Daniel Zeman, Joakim Nivre.
 
 Repository: [UD_Spanish-GSD](https://github.com/UniversalDependencies/UD_Spanish-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_gsd214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_gsd215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -75,7 +75,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 
 ## Features
 
-[Abbr](es_gsd-feat-Abbr.html) – [Case](es_gsd-feat-Case.html) – [Definite](es_gsd-feat-Definite.html) – [Degree](es_gsd-feat-Degree.html) – [Foreign](es_gsd-feat-Foreign.html) – [Gender](es_gsd-feat-Gender.html) – [Mood](es_gsd-feat-Mood.html) – [Number](es_gsd-feat-Number.html) – [NumForm](es_gsd-feat-NumForm.html) – [NumType](es_gsd-feat-NumType.html) – [Person](es_gsd-feat-Person.html) – [Polarity](es_gsd-feat-Polarity.html) – [Polite](es_gsd-feat-Polite.html) – [Poss](es_gsd-feat-Poss.html) – [PrepCase](es_gsd-feat-PrepCase.html) – [PronType](es_gsd-feat-PronType.html) – [Reflex](es_gsd-feat-Reflex.html) – [Tense](es_gsd-feat-Tense.html) – [Typo](es_gsd-feat-Typo.html) – [VerbForm](es_gsd-feat-VerbForm.html)
+[Abbr](es_gsd-feat-Abbr.html) – [Case](es_gsd-feat-Case.html) – [Definite](es_gsd-feat-Definite.html) – [Degree](es_gsd-feat-Degree.html) – [Foreign](es_gsd-feat-Foreign.html) – [Gender](es_gsd-feat-Gender.html) – [Mood](es_gsd-feat-Mood.html) – [Number](es_gsd-feat-Number.html) – [Number[psor]](es_gsd-feat-Number-psor.html) – [NumForm](es_gsd-feat-NumForm.html) – [NumType](es_gsd-feat-NumType.html) – [Person](es_gsd-feat-Person.html) – [Polarity](es_gsd-feat-Polarity.html) – [Polite](es_gsd-feat-Polite.html) – [Poss](es_gsd-feat-Poss.html) – [PrepCase](es_gsd-feat-PrepCase.html) – [PronType](es_gsd-feat-PronType.html) – [PunctSide](es_gsd-feat-PunctSide.html) – [PunctType](es_gsd-feat-PunctType.html) – [Reflex](es_gsd-feat-Reflex.html) – [Tense](es_gsd-feat-Tense.html) – [Typo](es_gsd-feat-Typo.html) – [VerbForm](es_gsd-feat-VerbForm.html)
 
 ## Relations
 
@@ -85,11 +85,11 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 
 
 <ul>
-<li>This corpus contains 16013 sentences, 423345 tokens and 431586 syntactic words.</li>
+<li>This corpus contains 16014 sentences, 423346 tokens and 431600 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 46425 tokens (11%) that are not followed by a space.</li>
+<li>This corpus contains 46427 tokens (11%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -97,12 +97,12 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 </ul>
 
 <ul>
-<li>This corpus contains 242 types of words that contain both letters and punctuation. Examples: 's, etc., d', C., n., P., Dr., l', D., EE.UU., E., J., A., B., Jr., L., S.A., St., W., h., s., I., G., K., R., v., Inc., No., Sr., U.S., f., m., 'm, A.C., Bros., Ltd., O'Brien, O'Connor, O., O.T.O., d'Or, p.m., &lt;, 've, .ç, Abdu'l, B.B., Co., Croissan'Wich, D.C.</li>
+<li>This corpus contains 241 types of words that contain both letters and punctuation. Examples: 's, etc., d', C., n., P., Dr., l', D., EE.UU., E., J., A., B., Jr., L., S.A., St., W., h., s., I., G., K., R., v., Inc., No., Sr., U.S., f., m., 'm, A.C., Bros., Ltd., O'Brien, O'Connor, O., O.T.O., d'Or, p.m., &lt;, 've, .ç, Abdu'l, B.B., Co., Croissan'Wich, D.C.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 8221 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 856 types of multi-word tokens. Examples: del, al, convertirse, verse, darle, hacerse, hacerlo, convirtiéndose, dedicarse, quedarse, casarse, ponerse, encontrarse, presentarse, enfrentarse, haberse, incorporarse, retirarse, unirse, mantenerse, tratarse, asegurarse, comunicarse, graduarse, haciéndolo, llamarse, conocerse, considerarse, darse, decirle, hacerme, verlo, adaptarse, basándose, celebrarse, centrarse, encontrarlo, encontrándose, enterarse, habiéndose, hacerle, marcharse, preguntarse, referirse, reunirse, tomarse, trasladarse, vengarse, volverse, abrirse.</li>
+<li>This corpus contains 8234 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 864 types of multi-word tokens. Examples: del, al, convertirse, verse, darle, hacerse, hacerlo, convirtiéndose, dedicarse, quedarse, casarse, ponerse, encontrarse, presentarse, enfrentarse, haberse, incorporarse, retirarse, unirse, mantenerse, tratarse, asegurarse, basándose, comunicarse, graduarse, haciéndolo, llamarse, conocerse, considerarse, darse, decirle, hacerme, verlo, adaptarse, celebrarse, centrarse, encontrarlo, encontrándose, enterarse, habiéndose, hacerle, marcharse, preguntarse, referirse, reunirse, tomarse, trasladarse, vengarse, volverse, abrirse.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -114,7 +114,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 </ul>
 
 <ul>
-<li>This corpus contains 26 word types tagged as particles (PART): Gram, Hola, L, Trans, Vamos, Vaya, Vice, abandono, adios, co, ex, ficha, fue, hoc, no, not, post, pre, que, re, ruso, semi, sin, sub, super, to</li>
+<li>This corpus contains 27 word types tagged as particles (PART): Gram, Hola, L, Trans, Vamos, Vaya, Vice, abandono, adios, co, de, ex, ficha, fue, hoc, no, not, post, pre, que, re, ruso, semi, sin, sub, super, to</li>
 </ul>
 
 <ul>
@@ -155,11 +155,11 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
   <li>Ger
   <ul>
     <li>ADJ: estupendo, normando, contendo, inclusive, lindo, paralela, agricolas</li>
-    <li>AUX: siendo, habiendo, habiéndo, estando, pudiéndo</li>
+    <li>AUX: siendo, habiendo, estando, pudiendo</li>
     <li>NOUN: Pese, excandidata</li>
     <li>PROPN: Fernando, Orlando, Absorbiendo, Armando, Buscando, Esperando, Moose, Pompeyo, Sembrando, diciembre</li>
-    <li>VERB: residiendo, incluyendo, haciendo, llegando, teniendo, dejando, pasando, recomiendo, trabajando, dando</li>
-    <li>X: pareciendo, ritmosbasándose, teloneando</li>
+    <li>VERB: residiendo, haciendo, incluyendo, llegando, teniendo, dejando, pasando, dando, convirtiendo, recomiendo</li>
+    <li>X: pareciendo, teloneando</li>
   </ul>
   </li>
 </ul>
@@ -490,6 +490,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
     <ul>
       <li>AUX-Fin: es, fue, ha, son, eran, era, han, está, puede, fueron</li>
       <li>VERB-Fin: tiene, es, encuentra, hay, hace, tenía, tienen, era, fue, tuvo</li>
+      <li>VERB-Part: insisto</li>
     </ul>
   </li>
 </ul>
@@ -541,6 +542,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
     <ul>
       <li>AUX-Fin: es, ha, son, han, está, puede, pueden, están, he, sea</li>
       <li>VERB-Fin: tiene, es, encuentra, hay, hace, tienen, está, cuenta, da, dice</li>
+      <li>VERB-Part: insisto</li>
     </ul>
   </li>
 </ul>
@@ -698,6 +700,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
       <li>DET: mi, nuestra, nuestros, nuestro, mis, nuestras, vuestra, Dichos, My, me</li>
       <li>PRON: me, nos, yo, nosotros, mí, mi, I, conmigo, nuestro, nuestros</li>
       <li>VERB-Fin: tenemos, creo, vamos, estamos, voy, pedimos, tengo, quiero, recomiendo, encontramos</li>
+      <li>VERB-Part: insisto</li>
       <li>X: 's, mi, hoc, lobster, ne, of, què, sulo, to</li>
     </ul>
   </li>
@@ -711,7 +714,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
       <li>PRON: te, os, tú, usted, vosotros, ti, ustedes, You, contigo</li>
       <li>SYM: ², º, m</li>
       <li>VERB-Fin: tienes, sabes, sientes, estás, llevas, añade, mira, perdais, quieres, viste</li>
-      <li>X: 's, des, £, s, t, tu, x</li>
+      <li>X: 's, des, £, s, t, x</li>
     </ul>
   </li>
 </ul>
@@ -743,6 +746,25 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 </ul>
 
 
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
+
+<ul>
+  <li>Plur
+    <ul>
+      <li>DET: nuestra, nuestros, nuestro, nuestras, vuestra, vuestras, vuestro</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sing
+    <ul>
+      <li>DET: mi, tu, mis, tus</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Other Features</h3>
 
@@ -752,7 +774,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
     <ul>
       <li>Yes
         <ul>
-          <li>NOUN: ha, D, D., Dr.</li>
+          <li>NOUN: Dr., ha, D, D., N°</li>
           <li>PROPN: Inc.</li>
         </ul>
       </li>
@@ -765,24 +787,24 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: Beautiful, Sancti, Sorry, negative, qodesh, Annual, Clear, Thirteenth, falcata</li>
+          <li>ADJ: Beautiful, Sancti, Sorry, Xīn, negative, qodesh, Annual, Clear, Thirteenth, falcata</li>
           <li>ADP: at, de, for, in</li>
           <li>AUX: can, is, 's, Am, Do, Was, Were, be, ist</li>
           <li>AUX-Fin: is, 's, Am, Do, Was, Were, ist</li>
           <li>AUX-Inf: be</li>
           <li>DET: the, a, o, ha, la</li>
-          <li>NOUN: Apostoli, Bass, Boy, Dioecesis, kapellmeister, nɔrsk, nɔʂːk, Avengers, Bitch, Creek</li>
+          <li>NOUN: Apostoli, Bass, Boy, Dioecesis, Yu, gao, guang, kapellmeister, nǚxìng, nɔrsk</li>
           <li>NUM: Five, One, Six, eins</li>
-          <li>PART: not, to</li>
+          <li>PART: de, not, to</li>
           <li>PRON: I, You, Alles, Me, That, This, What, Who, em</li>
-          <li>PROPN: American, Chilkasa, Haka, Hotaru, Kenpo, Petri, no, Γαρμπή, ΖΒΖ, Καίτη</li>
+          <li>PROPN: Inc., American, Chilkasa, Haka, Hotaru, Kenpo, Petri, no, Γαρμπή, ΖΒΖ</li>
           <li>SCONJ: If, When</li>
           <li>VERB: Let, Kick, Appears, Give, Go, Kiss, Lovin, Made, Makes, Need</li>
           <li>VERB-Fin: Let, Appears, Give, Makes, Need</li>
           <li>VERB-Ger: Lovin</li>
           <li>VERB-Inf: Kick, Kiss, Let, dance</li>
           <li>VERB-Part: Made, hanged</li>
-          <li>X: 天下第一, TΔS, Γρηγορᾶς, Μουσείο, Φιλοκαλια, β, ε, ε2, καλóς, μm</li>
+          <li>X: 天下第一, Mi, TΔS, tu, Γρηγορᾶς, Μουσείο, Φιλοκαλια, β, ε, ε2</li>
         </ul>
       </li>
     </ul>
@@ -813,6 +835,80 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 </ul>
 
 <ul>
+  <li><a>PunctSide</a>
+    <ul>
+      <li>Fin
+        <ul>
+          <li>PUNCT: ), ?, !, ]</li>
+        </ul>
+      </li>
+      <li>Ini
+        <ul>
+          <li>PUNCT: (, ¿, ¡, [</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>PunctType</a>
+    <ul>
+      <li>Brck
+        <ul>
+          <li>PUNCT: (, ), [, ]</li>
+        </ul>
+      </li>
+      <li>Colo
+        <ul>
+          <li>PUNCT: :, /</li>
+        </ul>
+      </li>
+      <li>Comm
+        <ul>
+          <li>PUNCT: ,</li>
+        </ul>
+      </li>
+      <li>Dash
+        <ul>
+          <li>PUNCT: -</li>
+        </ul>
+      </li>
+      <li>Elip
+        <ul>
+          <li>PUNCT: ...</li>
+        </ul>
+      </li>
+      <li>Excl
+        <ul>
+          <li>PUNCT: !, ¡</li>
+        </ul>
+      </li>
+      <li>Peri
+        <ul>
+          <li>PUNCT: .</li>
+        </ul>
+      </li>
+      <li>Qest
+        <ul>
+          <li>PUNCT: ?, ¿</li>
+        </ul>
+      </li>
+      <li>Quot
+        <ul>
+          <li>PUNCT: ", ', «, », `</li>
+        </ul>
+      </li>
+      <li>Semi
+        <ul>
+          <li>PUNCT: ;</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Typo</a>
     <ul>
       <li>Yes
@@ -831,8 +927,9 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
           <li>PRON: este, mi, la, muchisimo, lo, zse</li>
           <li>PROPN: Milan, Paris, Africa, sabado, Beisbol, Futbol, Iberico, Miercoles, Pakistan, Salon</li>
           <li>PUNCT: .ç</li>
+          <li>SCONJ: sí</li>
           <li>VERB-Fin: esta, tenia, hacia, tenian, cambio, dejo, habia, llego, llevo, paso</li>
-          <li>VERB-Part: confundido, conocido, creido, insisto, leido, presento, unido</li>
+          <li>VERB-Part: bloquedao, confundido, conocido, creido, dirigda, leido, unido</li>
         </ul>
       </li>
     </ul>
@@ -860,7 +957,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (2)</li>
       <li>VERB--PRON (1)</li>
-      <li>VERB-Fin--NOUN (6555)</li>
+      <li>VERB-Fin--NOUN (6558)</li>
       <li>VERB-Fin--NOUN-ADP(a) (1)</li>
       <li>VERB-Fin--NOUN-ADP(alrededor) (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (1)</li>
@@ -874,7 +971,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc,Dat (2)</li>
       <li>VERB-Fin--PRON-Acc,Nom (163)</li>
       <li>VERB-Fin--PRON-Nom (52)</li>
-      <li>VERB-Ger--NOUN (91)</li>
+      <li>VERB-Ger--NOUN (89)</li>
       <li>VERB-Ger--PRON (8)</li>
       <li>VERB-Ger--PRON-Acc (2)</li>
       <li>VERB-Ger--PRON-Acc,Nom (3)</li>
@@ -898,8 +995,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (6108)</li>
-      <li>VERB-Fin--NOUN-ADP(a) (388)</li>
+      <li>VERB-Fin--NOUN (6109)</li>
+      <li>VERB-Fin--NOUN-ADP(a) (389)</li>
       <li>VERB-Fin--NOUN-ADP(alrededor) (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (8)</li>
       <li>VERB-Fin--NOUN-ADP(entre) (1)</li>
@@ -921,10 +1018,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Ger--NOUN (696)</li>
       <li>VERB-Ger--NOUN-ADP(a) (62)</li>
-      <li>VERB-Ger--PRON (16)</li>
+      <li>VERB-Ger--PRON (17)</li>
       <li>VERB-Ger--PRON-ADP(a) (4)</li>
-      <li>VERB-Ger--PRON-Acc (84)</li>
-      <li>VERB-Ger--PRON-Acc,Dat (3)</li>
+      <li>VERB-Ger--PRON-Acc (89)</li>
+      <li>VERB-Ger--PRON-Acc,Dat (4)</li>
       <li>VERB-Ger--PRON-Dat (3)</li>
       <li>VERB-Inf--NOUN (2611)</li>
       <li>VERB-Inf--NOUN-ADP(a) (243)</li>
@@ -937,7 +1034,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc,Nom-ADP(a) (1)</li>
       <li>VERB-Inf--PRON-Acc-ADP(a) (1)</li>
       <li>VERB-Inf--PRON-Dat (11)</li>
-      <li>VERB-Part--NOUN (520)</li>
+      <li>VERB-Part--NOUN (519)</li>
       <li>VERB-Part--NOUN-ADP(a) (38)</li>
       <li>VERB-Part--PRON (33)</li>
       <li>VERB-Part--PRON-ADP(a) (1)</li>
@@ -961,19 +1058,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 1103 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: encontrar se, convertir se, hacer se, ver se, dar se, tratar se, realizar se, producir se, llamar se, presentar se, utilizar se, dedicar se, poner se, mantener se, referir se, celebrar se, quedar se, considerar se, llevar se, unir se, desarrollar se, trasladar se, ubicar se, casar se, decir se, volver se, hallar se, incorporar se, conservar se, basar se, conocer se, deber se, establecer se, extender se, mostrar se, iniciar se, usar se, construir se, encargar se, retirar se, crear se, dividir se, negar se, graduar se, acercar se, incluir se, reunir se, situar se, tener se, centrar se</li>
+  <li>This corpus contains 1075 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: encontrar se, convertir se, hacer se, ver se, dar se, tratar se, realizar se, producir se, presentar se, llamar se, utilizar se, dedicar se, poner se, mantener se, referir se, celebrar se, quedar se, considerar se, llevar se, unir se, desarrollar se, trasladar se, ubicar se, volver se, casar se, decir se, basar se, hallar se, incorporar se, conservar se, conocer se, deber se, establecer se, extender se, mostrar se, construir se, iniciar se, usar se, encargar se, retirar se, crear se, dividir se, negar se, acercar se, graduar se, incluir se, abrir se, reunir se, situar se, tener se</li>
 </ul>
 
 <h3>Reflexive Passive</h3>
 
 <ul>
-  <li>This corpus contains 6 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: acordar se, advertir se, comer se, convertir se, decir se, hacer se</li>
+  <li>This corpus contains 9 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: hacer se, acordar se, advertir se, comer se, convertir se, decir se, obtener se, registrar se, ver se</li>
 </ul>
 
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 13 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: ver se, apuntar se, asesoro me, colocar nos, dejar se, disfrazar se, empleo se, encontrar sí, hacer me, hacer se, ofrecer se, salvar sí, ver te</li>
+  <li>This corpus contains 14 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: ver se, apuntar se, asesoro me, colocar nos, dejar se, disfrazar se, dispersar se, empleo se, encontrar sí, hacer me, hacer se, ofrecer se, salvar sí, ver te</li>
 </ul>
 
 <h3>Relations Overview</h3>

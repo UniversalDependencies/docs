@@ -18,4 +18,4 @@ _Ço li deprient la sue pietét Que lur anseint ou le poissent recovrer &gt; Ço
 Ço li deprient la sue pietét Que lur anseint ol poissent recovrer
 obj:obl(recovrer, ol)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:33 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:14 CET -->

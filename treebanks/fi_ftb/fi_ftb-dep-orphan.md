@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (0%) are attached to their parents as `orphan`.
+3 nodes (0%) are attached to their parents as `orphan`.
 
-2 instances of `orphan` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.
+2 instances of `orphan` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.33333333333333.
 
-The following 2 pairs of parts of speech are connected with `orphan`: <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (1; 50% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (1; 50% instances).
+The following 3 pairs of parts of speech are connected with `orphan`: <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (1; 33% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (1; 33% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1; 33% instances).
 
 
 ~~~ conllu
@@ -78,6 +78,34 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 2 1 orphan	color:blue
 1	ei	ei	AUX	V,Neg,Act,Sg3	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	2	orphan	_	_
 2	ihmeempää	ihme	NOUN	N,Cmp,Sg,Par	Case=Par|Degree=Cmp|Number=Sing	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 orphan	color:blue
+1	Vasikat	vasikka	NOUN	N,Pl,Nom	Case=Nom|Number=Plur	5	nsubj	_	_
+2	ja	ja	CCONJ	Pcle,CC	_	4	cc	_	_
+3	aikuiset	aikuinen	ADJ	A,Pl,Nom	Case=Nom|Number=Plur	4	amod	_	_
+4	naudat	nauta	NOUN	N,Pl,Nom	Case=Nom|Number=Plur	1	conj	_	_
+5	kuolivat	kuolla	VERB	V,Act,Ind,Past,Pl3	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	värikkäissä	värikäs	ADJ	A,Pl,Ine	Case=Ine|Number=Plur	7	amod	_	_
+7	ilmoituksissa	ilmoitus	NOUN	N,Pl,Ine	Case=Ine|Number=Plur	5	nmod	_	_
+8	mikä	mikä	PRON	Pron,Qnt,Sg,Nom	Case=Nom|Number=Sing|PronType=Ind	5	conj	_	FTB-PronType=Qnt
+9	mihinkin	mikäkin	DET	Pron,Qnt,Ill	Case=Ill|PronType=Ind	10	det	_	_
+10	syyhyn	syy	NOUN	N,Sg,Ill	Case=Ill|Number=Sing	8	orphan	_	_
+11	,	,	PUNCT	Pun	_	10	punct	_	_
+12	kerralla	kerralla	ADV	Adv	_	14	advmod	_	_
+13	saattoi	saattaa	AUX	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	aux	_	_
+14	hukkua	hukkua	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	5	conj	_	_
+15	veteen	vesi	NOUN	N,Sg,Ill	Case=Ill|Number=Sing	14	obl	_	_
+16	pari	pari	NUM	Num,Card,Sg,Nom	Case=Nom|Number=Sing|NumType=Card	17	nummod	_	_
+17	vasikkaa	vasikka	NOUN	N,Sg,Par	Case=Par|Number=Sing	14	nsubj	_	_
+18	.	.	PUNCT	Pun	_	17	punct	_	_
 
 ~~~
 

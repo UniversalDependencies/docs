@@ -28,7 +28,7 @@ The following 2 pairs of parts of speech are connected with `ccomp:reported`: <t
 3	dabit	do	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp:reported	_	LiLaflcat=v1
 4	dat	do	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	LiLaflcat=v1
 5	hoc	hic	DET	I	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	8	nsubj	_	LASLAVariant=1|LiLaflcat=p
-6	quoque	quoque	ADV	M	Degree=Pos	5	advmod:emph	_	LiLaflcat=i
+6	quoque	quoque	PART	M	Form=Emp	5	advmod:emph	_	LiLaflcat=i
 7	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	LASLAVariant=1|LiLaflcat=v6
 8	lentum	lentus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	1	conj	_	LiLaflcat=n6
 9	dedit	do	VERB	B1	Aspect=Perf|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	ccomp:reported	_	LiLaflcat=v1

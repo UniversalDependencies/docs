@@ -11,7 +11,7 @@ It occurs with 1 different values: `Cmpd`.
 
 1955 tokens (2%) have a non-empty value of `PrepForm`.
 78 types (1%) occur at least once with a non-empty value of `PrepForm`.
-53 lemmas (1%) occur at least once with a non-empty value of `PrepForm`.
+52 lemmas (1%) occur at least once with a non-empty value of `PrepForm`.
 The feature is used with 2 part-of-speech tags: <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (978; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (977; 1% instances).
 
 ### `ADP`
@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADP` and `PrepForm` co-occurr
 
 * `Cmpd` (978; 100% of non-empty `PrepForm`): <em>i, ar, de, le, go, tar, in, os, faoi, thar</em>
 
-`PrepForm` seems to be **lexical feature** of `ADP`. 100% lemmas (14) occur only with one value of `PrepForm`.
+`PrepForm` seems to be **lexical feature** of `ADP`. 100% lemmas (13) occur only with one value of `PrepForm`.
 
 ### `NOUN`
 

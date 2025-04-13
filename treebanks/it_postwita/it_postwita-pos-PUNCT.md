@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="it_postwita-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.084211 (the average of all parts of speech is 1.310882).
+The form / lemma ratio of `PUNCT` is 1.084211 (the average of all parts of speech is 1.310684).
 
 The 1st highest number of forms (10) was observed with the lemma “!”: <em>!, !!, !!!, !!!!, !!!!!, !!!!!!, !!!!!!!, !!!!!!!!, !!!!!!!!!, !!!!!!!!!!!!!!</em>.
 
@@ -68,7 +68,7 @@ The 3rd highest number of forms (3) was observed with the lemma “?”: <em>?, 
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="it_postwita-dep-punct.html">punct</a></tt> (15246; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (5394; 35% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (4070; 27% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (2025; 13% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (1099; 7% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (832; 5% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (457; 3% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (388; 3% instances), <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (379; 2% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> (308; 2% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (192; 1% instances), <tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (37; 0% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (33; 0% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (15; 0% instances), <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (5394; 35% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (4069; 27% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (2025; 13% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (1099; 7% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (832; 5% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (456; 3% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (388; 3% instances), <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (379; 2% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> (309; 2% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (194; 1% instances), <tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (37; 0% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (32; 0% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (15; 0% instances), <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances)
 
 15227 (100%) `PUNCT` nodes are leaves.
 

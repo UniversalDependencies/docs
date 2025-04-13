@@ -45,7 +45,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>A</em>
-* `EMPTY` (4469): <em>le, la, les, l', un, une, des, ce, cette, mon</em>
+* `EMPTY` (4468): <em>le, la, les, l', un, une, des, ce, cette, mon</em>
 
 ## Relations with Agreement in `Foreign`
 

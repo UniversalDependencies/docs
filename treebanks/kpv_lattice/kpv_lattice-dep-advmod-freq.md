@@ -70,7 +70,7 @@ The following 4 pairs of parts of speech are connected with `advmod:freq`: <tt><
 # visual-style 6 5 advmod:freq	color:blue
 1	Сӧмын	сӧмын	ADV	Adv	_	6	advmod:foc	_	_
 2	енэжын	енэж	NOUN	N	Case=Ine|Number=Sing	3	obl:lmod	_	GTtags=Sg,Ine
-3	дзирдалысь	дзирдавны	VERB	V	Derivation=NomAg	4	acl	_	GTtags=IV,Der,Der/ысь,ActPrsPtc
+3	дзирдалысь	дзирдавны	VERB	V	Case=Nom|Nomzr=Ag|Number=Sing	4	acl	_	GTtags=IV,Der,Der/ысь,ActPrsPtc
 4	кодзувъяс	кодзув	NOUN	N	Case=Nom|Number=Plur	6	nsubj:cop	_	GTtags=Pl,Nom
 5	век	век	ADV	Adv	_	6	advmod:freq	_	_
 6	ӧтылнаынӧсь	ӧтылнаынӧсь	ADV	Adv	Case=Ine|Number[subj]=Plur	0	root	_	GTtags=Ine,Cop,Pl

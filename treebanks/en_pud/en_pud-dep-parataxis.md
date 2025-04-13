@@ -29,7 +29,7 @@ The following 12 pairs of parts of speech are connected with `parataxis`: <tt><a
 5	to	to	ADP	IN	_	6	case	6:case	_
 6	jail	jail	NOUN	NN	Number=Sing	4	obl	4:obl:to	_
 7	either	either	DET	DT	PronType=Ind	8	det	8:det	_
-8	way	way	NOUN	NN	Number=Sing	4	obl:npmod	4:obl:npmod	SpaceAfter=No
+8	way	way	NOUN	NN	Number=Sing	4	obl:unmarked	4:obl:unmarked	SpaceAfter=No
 9	,	,	PUNCT	,	_	4	punct	4:punct	_
 10	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	4:parataxis	_
 11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
@@ -57,7 +57,7 @@ The following 12 pairs of parts of speech are connected with `parataxis`: <tt><a
 7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj|13:nsubj:xsubj	_
 8	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
 9	decided	decide	VERB	VBN	Tense=Past|VerbForm=Part	5	conj	5:conj:and	_
-10	not	not	ADV	RB	Polarity=Neg	13	advmod	13:advmod	_
+10	not	not	PART	RB	Polarity=Neg	13	advmod	13:advmod	_
 11	to	to	PART	TO	_	13	mark	13:mark	_
 12	be	be	AUX	VB	VerbForm=Inf	13	cop	13:cop	_
 13	present	present	ADJ	JJ	Degree=Pos	9	xcomp	9:xcomp	SpaceAfter=No
@@ -82,7 +82,7 @@ The following 12 pairs of parts of speech are connected with `parataxis`: <tt><a
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 4	8th	8th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	5	amod	5:amod	_
 5	century	century	NOUN	NN	Number=Sing	9	obl	9:obl:from	_
-6	BC	bc	NOUN	NN	Number=Sing	5	nmod:tmod	5:nmod:tmod	_
+6	BC	bc	NOUN	NN	Number=Sing	5	nmod:unmarked	5:nmod:unmarked	TemporalNPAdjunct=Yes
 7	city	city	NOUN	NN	Number=Sing	8	compound	8:compound	_
 8	states	state	NOUN	NNS	Number=Plur	9	nsubj	9:nsubj|11:nsubj:xsubj	_
 9	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_

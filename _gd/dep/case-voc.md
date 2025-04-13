@@ -5,7 +5,9 @@ shortdef : 'vocative particle'
 udver: '2'
 ---
 
-A vocative particle precedes and marks the case of an addressee.
+The vocative particle _a_ precedes the addressee.
+It has UPOS `PART` and `PartType=Voc` in FEATS.
+It works together with the [vocative]() relation.
 
 ### Example
 
@@ -13,6 +15,7 @@ A vocative particle precedes and marks the case of an addressee.
 
 ~~~ sdparse
 Tha latha eile agad a-nis, a Dhòmhnaill \n is day another at_you now PART Donald
-case:voc(Dhòmhnaill, a)
+case:voc(a, Dhòmhnaill)
+vocative(Dhòmhnaill, Tha)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:49 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:32 CET -->

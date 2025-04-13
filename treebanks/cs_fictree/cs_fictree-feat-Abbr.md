@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-PROP
 
 111 <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> tokens (5% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="cs_fictree-feat-NameType.html">NameType</a></tt><tt>=EMPTY</tt> (111; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (111; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (107; 96%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (82; 74%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (75; 68%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (70; 63%).
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="cs_fictree-feat-NameType.html">NameType</a></tt><tt>=EMPTY</tt> (111; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (107; 96%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (82; 74%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (75; 68%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (70; 63%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 
@@ -31,7 +31,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 
 4 <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4; 100%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (3; 75%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 75%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 75%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (3; 75%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 75%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 75%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 

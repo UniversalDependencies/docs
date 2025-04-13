@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>sit</em> (<tt><a href="olo_kkpp-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.338462).
+The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.335034).
 
 The 1st highest number of forms (1) was observed with the lemma “Konzubo”: <em>Konzubo</em>.
 

@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 6 csubj	color:blue
 1	Мелезэст	мель	NOUN	N	Case=Ill|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	3	obl	_	CGdephead=#1-&gt;3|CGdeprel=@ADVL&gt;|CGdephead=#1-&gt;3|CGdeprel=@ADVL&gt;|GTtags=SP,Ill,PxPl3
-2	а	а	AUX	V	Polarity=Neg|VerbType=Aux	3	aux:neg	_	CGdephead=#2-&gt;0|CGdeprel=@IAUX|CGdephead=#2-&gt;0|CGdeprel=@IAUX|GTtags=Aux,Neg
+2	а	а	AUX	V	Polarity=Neg|VerbType=Aux	3	aux	_	CGdephead=#2-&gt;0|CGdeprel=@IAUX|CGdephead=#2-&gt;0|CGdeprel=@IAUX|GTtags=Aux,Neg
 3	сы	самс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	CGdephead=#3-&gt;0|CGdeprel=@FMV|CGdephead=#3-&gt;0|CGdeprel=@FMV|GTtags=Ind,Prs,ScSg3|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	CGdephead=#4-&gt;5|CGdeprel=@X|CGdephead=#4-&gt;5|CGdeprel=@X|GTtags=CLB
 5	кие	кие	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	6	nsubj	_	CGdephead=#5-&gt;6|CGdeprel=@SUBJ&gt;|CGdephead=#5-&gt;6|CGdeprel=@SUBJ&gt;|GTtags=Rel,Sg,Nom

@@ -9,14 +9,14 @@ udver: '2'
 This feature is universal but the values `Ifoc`, `Lfoc` are language-specific.
 It occurs with 4 different values: `Act`, `Ifoc`, `Lfoc`, `Pass`.
 
-150 tokens (12%) have a non-empty value of `Voice`.
-138 types (30%) occur at least once with a non-empty value of `Voice`.
-111 lemmas (30%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (150; 12% instances).
+150 tokens (11%) have a non-empty value of `Voice`.
+138 types (28%) occur at least once with a non-empty value of `Voice`.
+111 lemmas (28%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (150; 11% instances).
 
 ### `VERB`
 
-150 <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> tokens (85% of all `VERB` tokens) have a non-empty value of `Voice`.
+150 <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> tokens (80% of all `VERB` tokens) have a non-empty value of `Voice`.
 
 The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="ceb_gja-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (125; 83%).
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 * `Ifoc` (3; 2% of non-empty `Voice`): <em>Ipalit, Pakitaa, ipasa</em>
 * `Lfoc` (3; 2% of non-empty `Voice`): <em>Limpyohan, himo-an, paliti</em>
 * `Pass` (72; 48% of non-empty `Voice`): <em>ganahan, gibuhat, tabangan, Gitawag, Kinahanglan, Liguon, Silhigan, gihigugma, kasabot, Gi-hold</em>
-* `EMPTY` (27): <em>wala, may, gusto, Aduna, Adunay, Buot, Duna, Paingon, ayo, buhat</em>
+* `EMPTY` (37): <em>wala, gusto, may, Aduna, Adunay, Buot, Duna, Gipinturahan, Gisugo, Gisulayan</em>
 
 <table>
   <tr><th>Paradigm <i>palit</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th><th><tt>Ifoc</tt></th><th><tt>Lfoc</tt></th></tr>

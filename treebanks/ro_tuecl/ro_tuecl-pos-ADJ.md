@@ -56,11 +56,11 @@ The 2nd highest number of forms (4) was observed with the lemma “ciudat”: <e
 
 The 3rd highest number of forms (4) was observed with the lemma “superb”: <em>Superba, superb, superbii, superbă</em>.
 
-`ADJ` occurs with 7 features: <tt><a href="ro_tuecl-feat-Number.html">Number</a></tt> (229; 97% instances), <tt><a href="ro_tuecl-feat-Definite.html">Definite</a></tt> (224; 95% instances), <tt><a href="ro_tuecl-feat-Gender.html">Gender</a></tt> (224; 95% instances), <tt><a href="ro_tuecl-feat-Degree.html">Degree</a></tt> (214; 91% instances), <tt><a href="ro_tuecl-feat-Case.html">Case</a></tt> (108; 46% instances), <tt><a href="ro_tuecl-feat-Typo.html">Typo</a></tt> (35; 15% instances), <tt><a href="ro_tuecl-feat-Foreign.html">Foreign</a></tt> (6; 3% instances)
+`ADJ` occurs with 7 features: <tt><a href="ro_tuecl-feat-Definite.html">Definite</a></tt> (224; 95% instances), <tt><a href="ro_tuecl-feat-Number.html">Number</a></tt> (224; 95% instances), <tt><a href="ro_tuecl-feat-Gender.html">Gender</a></tt> (219; 93% instances), <tt><a href="ro_tuecl-feat-Degree.html">Degree</a></tt> (214; 91% instances), <tt><a href="ro_tuecl-feat-Case.html">Case</a></tt> (108; 46% instances), <tt><a href="ro_tuecl-feat-Typo.html">Typo</a></tt> (35; 15% instances), <tt><a href="ro_tuecl-feat-Foreign.html">Foreign</a></tt> (6; 3% instances)
 
 `ADJ` occurs with 15 feature-value pairs: `Case=Acc`, `Case=Acc,Nom`, `Case=Dat,Gen`, `Case=Nom`, `Case=Voc`, `Definite=Def`, `Definite=Ind`, `Degree=Pos`, `Degree=Sup`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
-`ADJ` occurs with 38 feature combinations.
+`ADJ` occurs with 37 feature combinations.
 The most frequent feature combination is `Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing` (66 tokens).
 Examples: <em>frumoasă, bună, urâtă, drăguță, ieftină, rece, superbă, Superba, abuzivă, adevărată</em>
 

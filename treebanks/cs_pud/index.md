@@ -12,15 +12,15 @@ udver: '2'
 # UD Czech PUD
 
 Language: [Czech](/cs/index.html) (code: `cs`)<br/>
-Family: Indo-European, Slavic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Václava Kettnerová, Jan Hajič jr., Silvie Cinková, Zdeňka Urešová, Milan Straka, Jan Hajič, Jaroslava Hlaváčová, Daniel Zeman.
 
 Repository: [UD_Czech-PUD](https://github.com/UniversalDependencies/UD_Czech-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pud214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pud215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -421,7 +421,7 @@ employ ten-fold cross-validation.
       <li>NOUN-Vnoun: zvýšení, chování, kombinování, natáčení, našeptávání, obchodování, odhalení, omezení, opřipomínkování, osvobození</li>
       <li>NUM: oběma, dvěma</li>
       <li>PRON: si, mu, jí, jim, nám, mi, čemuž, nimž, němu, něčemu</li>
-      <li>PROPN: Evropě, Itálii, Roně, Rusku, Andymu, Benoîtovi, Britům, Churchillovi, Disneyovi, Francii</li>
+      <li>PROPN: Evropě, Itálii, Mundu, Roně, Rusku, Andymu, Benoîtovi, Britům, Churchillovi, Disneyovi</li>
     </ul>
   </li>
 </ul>
@@ -541,7 +541,7 @@ employ ten-fold cross-validation.
   <li>Pos
     <ul>
       <li>ADJ: další, nové, jižní, severní, hlavní, velká, velké, vlastní, poslední, jiné</li>
-      <li>ADJ-Part: Spojených, Spojené, Spojeným, kvalifikovaných, otevřenou, otevřená, vytvořenou, Konzultované, Oceněná, Vyhnané</li>
+      <li>ADJ-Part: Spojených, řečeno, propuštěn, Spojené, Spojeným, kvalifikovaných, nabídnuto, otevřenou, otevřená, označen</li>
       <li>ADV: stejně, často, pravděpodobně, původně, samozřejmě, dobře, přibližně, společně, úplně, krátce</li>
     </ul>
   </li>
@@ -569,7 +569,6 @@ employ ten-fold cross-validation.
       <li>ADV: Nedlouho, nedaleko, nenapodobitelně, nenápadně, neoprávněně, neskutečně, nezbytně, nezávisle</li>
       <li>AUX-Fin: není, nebude, nebudou, nejsou, Nejsme, nebudu</li>
       <li>AUX-Part: nebyly, nebyla, nebyl, nebylo, byl</li>
-      <li>NOUN: nezávislost, nedokončenost, nejednotnost, nesmrtelnost, nespokojenost, nezávislosti</li>
       <li>VERB-Conv: nedbajíce</li>
       <li>VERB-Fin: nelze, nemá, Nevím, nechce, nemají, nemusí, nemůžeme, Neznám, neblíží, nechci</li>
       <li>VERB-Inf: nezobrazit</li>
@@ -588,10 +587,6 @@ employ ten-fold cross-validation.
       <li>AUX-Inf: být</li>
       <li>AUX-Part: byl, bylo, byla, byly, byli</li>
       <li>DET: více, víc, méně, tohoto</li>
-      <li>NOUN: roce, roku, let, století, letech, době, území, období, oblasti, l</li>
-      <li>NOUN-Part: vedoucích</li>
-      <li>NOUN-Vnoun: omezení, rozhodnutí, chování, jednání, oddělení, opatření, umění, hlasování, oblečení, pochopení</li>
-      <li>PROPN: Čína, Francie, USA, Čching, Albánie, BBC, Británii, Clintonové, Danevirke, Evropě</li>
       <li>VERB-Conv: Počínaje, redukujíc</li>
       <li>VERB-Fin: má, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje, existují</li>
       <li>VERB-Inf: mít, vidět, získat, najít, opustit, pokračovat, stát, vést, dělat, muset</li>
@@ -626,8 +621,9 @@ employ ten-fold cross-validation.
   <li>Imp
     <ul>
       <li>ADJ-Part: vedoucí, následující, používán, považováno, považovány, probíhající, sestávající, studujících, aktivovány, budovány</li>
-      <li>AUX-Fin: bývají, bývá</li>
-      <li>AUX-Part: byl</li>
+      <li>AUX-Fin: je, by, jsou, bude, jsem, není, jsme, budou, nebude, budeme</li>
+      <li>AUX-Inf: být</li>
+      <li>AUX-Part: byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</li>
       <li>NOUN-Part: vedoucích</li>
       <li>VERB-Conv: Počínaje, nedbajíce</li>
       <li>VERB-Fin: říká, obsahuje, pomáhá, ukazuje, existují, patří, tvrdí, nachází, naznačuje, poskytují</li>
@@ -917,7 +913,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: je, by, jsou, bude, není, budou, nebude, nebudou, nejsou, bývají</li>
+      <li>AUX-Fin: je, jsou, bude, není, budou, nebude, nebudou, nejsou, bývají, bývá</li>
       <li>DET: jeho, jejich, její, jejichž, jejím, jehož, jejích, jejího, jejíž</li>
       <li>PRON: ho, nich, ní, jí, mu, ji, něj, jim, ním, je</li>
       <li>VERB-Fin: má, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje, existují</li>
@@ -987,7 +983,7 @@ employ ten-fold cross-validation.
           <li>ADP: př</li>
           <li>ADV: cca</li>
           <li>DET: n</li>
-          <li>NOUN: l, DNA, GCA, MPS, m, A, AIDS, APK, BK, CGI</li>
+          <li>NOUN: l, GCA, MPS, m, A, APK, BK, DNA, ECB, GCHQ</li>
           <li>PROPN: USA, BBC, CNN, EU, OSN, RECO, AP, BA, BID, CBC</li>
         </ul>
       </li>
@@ -1026,7 +1022,7 @@ employ ten-fold cross-validation.
           <li>ADP: de, Von, of, Di, On</li>
           <li>ADV: cca</li>
           <li>CCONJ: and, If</li>
-          <li>NOUN: brexitu, e-maily, Blood, Breaking, Buck, Business, CGI, CTV, City, Consumer</li>
+          <li>NOUN: Blood, Breaking, Buck, Business, City, Consumer, Heritage, Hospitals, International, La</li>
           <li>PRON: You, me</li>
           <li>PROPN: USA, Danevirke, CNN, Aviva, Company, George, Investors, Joseph, Mount, Multi</li>
         </ul>
@@ -1053,7 +1049,7 @@ employ ten-fold cross-validation.
       <li>Com
         <ul>
           <li>ADJ: National, American, Die</li>
-          <li>PROPN: USA, Čching, BBC, CNN, EU, Aviva, Company, Facebooku, Investors, Multi</li>
+          <li>PROPN: Čching, USA, BBC, CNN, EU, Asty, Athina, Aviva, Brand, Bush</li>
         </ul>
       </li>
       <li>Com,Geo
@@ -1069,7 +1065,7 @@ employ ten-fold cross-validation.
       <li>Geo
         <ul>
           <li>ADJ: New, San, Beverly, Kapského, Los, Pearl, Severní, Silicon, South, Wall</li>
-          <li>PROPN: Čína, Francie, Albánie, Británii, Danevirke, Evropě, Itálii, Ameriky, Asii, Británie</li>
+          <li>PROPN: Čína, Francie, Albánie, Británii, Danevirke, Evropě, Itálii, Liao, Ameriky, Asii</li>
         </ul>
       </li>
       <li>Geo,Giv
@@ -1085,7 +1081,7 @@ employ ten-fold cross-validation.
       <li>Giv
         <ul>
           <li>ADJ: Saint, Alexandrově, Caesarovi, Cottonovy, Césarovo, Dareiův, Edgarovy, Germaininých, Kimově</li>
-          <li>PROPN: Donald, Richarda, Augustus, Donalda, František, George, González, Jasmína, Ježíše, Joseph</li>
+          <li>PROPN: Donald, Richarda, Augustus, Bass, Donalda, František, George, Giovanni, González, Jasmína</li>
         </ul>
       </li>
       <li>Giv,Sur
@@ -1106,7 +1102,7 @@ employ ten-fold cross-validation.
       <li>Pro
         <ul>
           <li>ADJ: El, World</li>
-          <li>PROPN: Endurance, Dead, Greco, Loving, MahaNakhon, Mate, Nectar, Select, Simple, Slack</li>
+          <li>PROPN: Endurance, Nectar, Undersea, Dead, Greco, Loving, MahaNakhon, Mate, Select, Simple</li>
         </ul>
       </li>
       <li>Sur

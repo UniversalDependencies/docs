@@ -12,15 +12,15 @@ udver: '2'
 # UD Gujarati GujTB
 
 Language: [Gujarati](/gu/index.html) (code: `gu`)<br/>
-Family: Indo-European, Indic
+Family: IE
 
-This treebank has been part of Universal Dependencies since the UD v2.11 release.
+This treebank has been part of Universal Dependencies since the UD v2.14 release.
 
 The following people have contributed to making this treebank part of UD: Maitrey Mehta, Mayank Jobanputra.
 
 Repository: [UD_Gujarati-GujTB](https://github.com/UniversalDependencies/UD_Gujarati-GujTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgu_gujtb214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgu_gujtb215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
@@ -55,9 +55,34 @@ Currently the treebank is comprised of 187 sentences, out of which 100 are doubl
 
 ## References
 
-This work has been accepted at MWE-UD Workshop at LREC-COLING'24. We will soon add the citation.
+Please cite the following paper if you use this treebank in your research:
 
-* (citation)
+
+```bibtex
+@inproceedings{jobanputra-etal-2024-universal,
+title = "A {U}niversal {D}ependencies Treebank for {G}ujarati",
+author = {Jobanputra, Mayank and
+Mehta, Maitrey and
+{\c{C{% raw %}}}{% endraw %}{\"o}ltekin, {\c{C{% raw %}}}{% endraw %}a{\u{g{% raw %}}}{% endraw %}r{\i{% raw %}}}{% endraw %},
+editor = {Bhatia, Archna and
+Bouma, Gosse and
+Do{\u{g{% raw %}}}{% endraw %}ru{\"o}z, A. Seza and
+Evang, Kilian and
+Garcia, Marcos and
+Giouli, Voula and
+Han, Lifeng and
+Nivre, Joakim and
+Rademaker, Alexandre},
+booktitle = "Proceedings of the Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD) @ LREC-COLING 2024",
+month = may,
+year = "2024",
+address = "Torino, Italia",
+publisher = "ELRA and ICCL",
+url = "https://aclanthology.org/2024.mwe-1.9",
+pages = "56--62",
+abstract = "The Universal Dependencies (UD) project has presented itself as a valuable platform to develop various resources for the languages of the world. We present and release a sample treebank for the Indo-Aryan language of Gujarati {--} a widely spoken language with little linguistic resources. This treebank is the first labeled dataset for dependency parsing in the language and the script (the Gujarati script). The treebank contains 187 part-of-speech and dependency annotated sentences from diverse genres. We discuss various idiosyncratic examples, annotation choices and present an elaborate corpus along with agreement statistics. We see this work as a valuable resource and a stepping stone for research in Gujarati Computational Linguistics.",
+}
+```
 
 
 

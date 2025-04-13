@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Indonesian-GSD: POS Tags: `X`
 
-There are 86 `X` lemmas (0%), 105 `X` types (0%) and 133 `X` tokens (0%).
-Out of 17 observed tags, the rank of `X` is: 9 in number of lemmas, 8 in number of types and 16 in number of tokens.
+There are 91 `X` lemmas (0%), 110 `X` types (0%) and 138 `X` tokens (0%).
+Out of 17 observed tags, the rank of `X` is: 8 in number of lemmas, 8 in number of types and 16 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>_, and, image, in, kok, loh, x, assistent, b, resident</em>
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>and</em> (<tt><a href="id_gsd-pos-X.h
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.220930 (the average of all parts of speech is 1.120254).
+The form / lemma ratio of `X` is 1.208791 (the average of all parts of speech is 1.120343).
 
 The 1st highest number of forms (20) was observed with the lemma “_”: <em>akhiri, aplikasikan, beratkan, beri, buang, dampingi, editor, identifikasikan, laksanakan, lakukan, masukan, mulai, pimpin, sahkan, sajikan, satu, tambah, teruskan, tugaskan, turut</em>.
 
@@ -61,32 +61,32 @@ The 2nd highest number of forms (1) was observed with the lemma “a”: <em>a</
 
 The 3rd highest number of forms (1) was observed with the lemma “an”: <em>an</em>.
 
-`X` occurs with 2 features: <tt><a href="id_gsd-feat-Foreign.html">Foreign</a></tt> (89; 67% instances), <tt><a href="id_gsd-feat-Typo.html">Typo</a></tt> (2; 2% instances)
+`X` occurs with 2 features: <tt><a href="id_gsd-feat-Foreign.html">Foreign</a></tt> (115; 83% instances), <tt><a href="id_gsd-feat-Typo.html">Typo</a></tt> (2; 1% instances)
 
 `X` occurs with 2 feature-value pairs: `Foreign=Yes`, `Typo=Yes`
 
 `X` occurs with 3 feature combinations.
-The most frequent feature combination is `Foreign=Yes` (89 tokens).
+The most frequent feature combination is `Foreign=Yes` (115 tokens).
 Examples: <em>and, Image, in, kok, loh, x, assistent, b, resident, s</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 13 different relations: <tt><a href="id_gsd-dep-flat-foreign.html">flat:foreign</a></tt> (43; 32% instances), <tt><a href="id_gsd-dep-dep.html">dep</a></tt> (42; 32% instances), <tt><a href="id_gsd-dep-goeswith.html">goeswith</a></tt> (20; 15% instances), <tt><a href="id_gsd-dep-nmod.html">nmod</a></tt> (10; 8% instances), <tt><a href="id_gsd-dep-appos.html">appos</a></tt> (5; 4% instances), <tt><a href="id_gsd-dep-obj.html">obj</a></tt> (3; 2% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="id_gsd-dep-list.html">list</a></tt> (2; 2% instances), <tt><a href="id_gsd-dep-obl.html">obl</a></tt> (2; 2% instances), <tt><a href="id_gsd-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-root.html">root</a></tt> (1; 1% instances)
+`X` nodes are attached to their parents using 13 different relations: <tt><a href="id_gsd-dep-flat-foreign.html">flat:foreign</a></tt> (46; 33% instances), <tt><a href="id_gsd-dep-dep.html">dep</a></tt> (42; 30% instances), <tt><a href="id_gsd-dep-goeswith.html">goeswith</a></tt> (20; 14% instances), <tt><a href="id_gsd-dep-nmod.html">nmod</a></tt> (11; 8% instances), <tt><a href="id_gsd-dep-appos.html">appos</a></tt> (6; 4% instances), <tt><a href="id_gsd-dep-obj.html">obj</a></tt> (3; 2% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (2; 1% instances), <tt><a href="id_gsd-dep-list.html">list</a></tt> (2; 1% instances), <tt><a href="id_gsd-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="id_gsd-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-root.html">root</a></tt> (1; 1% instances)
 
-Parents of `X` nodes belong to 10 different parts of speech: <tt><a href="id_gsd-pos-X.html">X</a></tt> (47; 35% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (27; 20% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (25; 19% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (24; 18% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt> (1; 1% instances),  (1; 1% instances)
+Parents of `X` nodes belong to 10 different parts of speech: <tt><a href="id_gsd-pos-X.html">X</a></tt> (54; 39% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (27; 20% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (25; 18% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (22; 16% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt> (1; 1% instances),  (1; 1% instances)
 
-92 (69%) `X` nodes are leaves.
+95 (69%) `X` nodes are leaves.
 
-21 (16%) `X` nodes have one child.
+21 (15%) `X` nodes have one child.
 
-5 (4%) `X` nodes have two children.
+6 (4%) `X` nodes have two children.
 
-15 (11%) `X` nodes have three or more children.
+16 (12%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 9.
 
-Children of `X` nodes are attached using 17 different relations: <tt><a href="id_gsd-dep-flat-foreign.html">flat:foreign</a></tt> (43; 39% instances), <tt><a href="id_gsd-dep-punct.html">punct</a></tt> (28; 26% instances), <tt><a href="id_gsd-dep-nmod.html">nmod</a></tt> (10; 9% instances), <tt><a href="id_gsd-dep-appos.html">appos</a></tt> (8; 7% instances), <tt><a href="id_gsd-dep-list.html">list</a></tt> (5; 5% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="id_gsd-dep-dep.html">dep</a></tt> (2; 2% instances), <tt><a href="id_gsd-dep-nmod-poss.html">nmod:poss</a></tt> (2; 2% instances), <tt><a href="id_gsd-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-compound.html">compound</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-flat-name.html">flat:name</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-nummod.html">nummod</a></tt> (1; 1% instances)
+Children of `X` nodes are attached using 17 different relations: <tt><a href="id_gsd-dep-flat-foreign.html">flat:foreign</a></tt> (46; 40% instances), <tt><a href="id_gsd-dep-punct.html">punct</a></tt> (29; 25% instances), <tt><a href="id_gsd-dep-nmod.html">nmod</a></tt> (11; 9% instances), <tt><a href="id_gsd-dep-appos.html">appos</a></tt> (8; 7% instances), <tt><a href="id_gsd-dep-list.html">list</a></tt> (5; 4% instances), <tt><a href="id_gsd-dep-dep.html">dep</a></tt> (3; 3% instances), <tt><a href="id_gsd-dep-case.html">case</a></tt> (2; 2% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="id_gsd-dep-nmod-poss.html">nmod:poss</a></tt> (2; 2% instances), <tt><a href="id_gsd-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-compound.html">compound</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-flat-name.html">flat:name</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="id_gsd-dep-nummod.html">nummod</a></tt> (1; 1% instances)
 
-Children of `X` nodes belong to 11 different parts of speech: <tt><a href="id_gsd-pos-X.html">X</a></tt> (47; 43% instances), <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (28; 26% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (13; 12% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (8; 7% instances), <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (4; 4% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="id_gsd-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Children of `X` nodes belong to 11 different parts of speech: <tt><a href="id_gsd-pos-X.html">X</a></tt> (54; 47% instances), <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (29; 25% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (12; 10% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (7; 6% instances), <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (4; 3% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="id_gsd-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 

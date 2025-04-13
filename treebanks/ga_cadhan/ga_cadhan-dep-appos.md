@@ -13,7 +13,7 @@ This relation is universal.
 40 instances of `appos` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 4.525.
 
-The following 5 pairs of parts of speech are connected with `appos`: <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (16; 40% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (13; 33% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (9; 23% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
+The following 5 pairs of parts of speech are connected with `appos`: <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (16; 40% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (12; 30% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (10; 25% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 6	Muicneachán	Muicneachán	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	conj	_	_
 7	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	9	nmod:poss	_	_
 8	trí	trí	NUM	_	NumType=Card	9	nummod	_	_
-9	tréinfhir	tréanfhear	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	appos	_	SpaceAfter=No
+9	tréinfhir	tréanfhear	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	1	appos	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~

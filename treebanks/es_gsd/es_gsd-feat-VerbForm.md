@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-49772 tokens (12%) have a non-empty value of `VerbForm`.
-11282 types (25%) occur at least once with a non-empty value of `VerbForm`.
-4438 lemmas (13%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 7 part-of-speech tags: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (36350; 8% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (10734; 2% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1991; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (441; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (205; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (39; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (12; 0% instances).
+49770 tokens (12%) have a non-empty value of `VerbForm`.
+11193 types (25%) occur at least once with a non-empty value of `VerbForm`.
+4293 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 7 part-of-speech tags: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (36350; 8% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (10734; 2% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1991; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (441; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (204; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (38; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (12; 0% instances).
 
 ### `VERB`
 
 36350 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (28906; 80%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21247; 58%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (19692; 54%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19062; 52%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (28910; 80%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21244; 58%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (19693; 54%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19063; 52%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (21370; 59% of non-empty `VerbForm`): <em>tiene, es, encuentra, hay, hace, tenía, tienen, era, tuvo, fue</em>
-* `Ger` (1843; 5% of non-empty `VerbForm`): <em>residiendo, incluyendo, haciendo, llegando, teniendo, dejando, pasando, recomiendo, trabajando, dando</em>
+* `Fin` (21369; 59% of non-empty `VerbForm`): <em>tiene, es, encuentra, hay, hace, tenía, tienen, era, tuvo, fue</em>
+* `Ger` (1847; 5% of non-empty `VerbForm`): <em>residiendo, haciendo, incluyendo, llegando, teniendo, dejando, pasando, dando, convirtiendo, recomiendo</em>
 * `Inf` (6348; 17% of non-empty `VerbForm`): <em>hacer, ver, tener, decir, dar, partir, llegar, ir, encontrar, volver</em>
-* `Part` (6789; 19% of non-empty `VerbForm`): <em>ubicado, conocido, debido, llamado, situada, nacido, hecho, dado, conocida, compuesto</em>
+* `Part` (6786; 19% of non-empty `VerbForm`): <em>ubicado, conocido, debido, llamado, situada, nacido, hecho, dado, conocida, compuesto</em>
 * `EMPTY` (15): <em>Deler, Go, Monitores, Sr., asterismos, bestia, dados, entera, estrecha, llamadaa</em>
 
 <table>
@@ -82,7 +82,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Fin` (9679; 90% of non-empty `VerbForm`): <em>es, fue, ha, son, eran, era, han, está, puede, fueron</em>
-* `Ger` (157; 1% of non-empty `VerbForm`): <em>siendo, habiendo, habiéndo, estando, pudiéndo</em>
+* `Ger` (157; 1% of non-empty `VerbForm`): <em>siendo, habiendo, estando, pudiendo</em>
 * `Inf` (629; 6% of non-empty `VerbForm`): <em>ser, haber, poder, estar, puedes, Podemos, Podríamos, Son, estoy, ha</em>
 * `Part` (269; 3% of non-empty `VerbForm`): <em>sido, estado, podido, debido</em>
 * `EMPTY` (13): <em>a, can, e, era, es, estamos, ha, has, haía, pude</em>
@@ -132,7 +132,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 * `Ger` (16; 1% of non-empty `VerbForm`): <em>estupendo, normando, contendo, inclusive, lindo, paralela, agricolas</em>
 * `Inf` (21; 1% of non-empty `VerbForm`): <em>particular, mártir, SOLIDARIO, Vestibular, aviar, bereber, consular, dispar, glaciar, linear</em>
 * `Part` (1954; 98% of non-empty `VerbForm`): <em>pasado, compuesto, privado, conocidos, conocida, ubicado, privada, abierto, elevada, abierta</em>
-* `EMPTY` (22999): <em>primera, gran, primer, mismo, mayor, nuevo, estadounidense, total, mejor, nacional</em>
+* `EMPTY` (23001): <em>primera, gran, primer, mismo, mayor, nuevo, estadounidense, total, mejor, nacional</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (836) occur only with one value of `VerbForm`.
 
@@ -146,7 +146,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 * `Ger` (2; 0% of non-empty `VerbForm`): <em>Pese, excandidata</em>
 * `Inf` (98; 22% of non-empty `VerbForm`): <em>pesar, cabo, parecer, ser, hacer, azúcar, cover, poder, zar, Lugar</em>
 * `Part` (340; 77% of non-empty `VerbForm`): <em>pulgadas, $, llamada, supuesto, mediados, poblados, conocido, lavado, amada, conocida</em>
-* `EMPTY` (77118): <em>años, año, parte, población, ciudad, personas, municipio, estado, km, familia</em>
+* `EMPTY` (77141): <em>años, año, parte, población, ciudad, personas, municipio, estado, km, familia</em>
 
 <table>
   <tr><th>Paradigm <i>discípulo</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -158,31 +158,31 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 
 ### `PROPN`
 
-205 <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `VerbForm`.
+204 <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `VerbForm`.
 
 `PROPN` tokens may have the following values of `VerbForm`:
 
-* `Ger` (21; 10% of non-empty `VerbForm`): <em>Fernando, Orlando, Absorbiendo, Armando, Buscando, Esperando, Moose, Pompeyo, Sembrando, diciembre</em>
+* `Ger` (20; 10% of non-empty `VerbForm`): <em>Fernando, Orlando, Absorbiendo, Armando, Buscando, Esperando, Moose, Pompeyo, Sembrando, diciembre</em>
 * `Inf` (66; 32% of non-empty `VerbForm`): <em>Charles, Sir, Star, vodafone, Aimar, Air, Amir, Balvicar, Bonaparte, Conocer</em>
 * `Part` (118; 58% of non-empty `VerbForm`): <em>Unidos, Unido, Alvarado, Quesada, Abiertas, Casado, Hurtado, Puerto, Quemada, Quemado</em>
-* `EMPTY` (39040): <em>san, España, Estados, Unidos, Juan, madrid, José, septiembre, julio, enero</em>
+* `EMPTY` (39035): <em>san, España, Estados, Unidos, Juan, madrid, José, septiembre, julio, enero</em>
 
-`VerbForm` seems to be **lexical feature** of `PROPN`. 100% lemmas (141) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `PROPN`. 100% lemmas (140) occur only with one value of `VerbForm`.
 
 ### `X`
 
-39 <tt><a href="es_gsd-pos-X.html">X</a></tt> tokens (2% of all `X` tokens) have a non-empty value of `VerbForm`.
+38 <tt><a href="es_gsd-pos-X.html">X</a></tt> tokens (2% of all `X` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `X` and `VerbForm` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27; 69%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (27; 69%).
+The most frequent other feature values with which `X` and `VerbForm` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (26; 68%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (26; 68%).
 
 `X` tokens may have the following values of `VerbForm`:
 
-* `Ger` (3; 8% of non-empty `VerbForm`): <em>pareciendo, ritmosbasándose, teloneando</em>
-* `Inf` (24; 62% of non-empty `VerbForm`): <em>super, per, after, aupair, avant, carrier, d, master, near, online</em>
-* `Part` (12; 31% of non-empty `VerbForm`): <em>co, ledo, lonsanjado, organisadas, parquizado, semi, sinsentido, sobretodo, tomato, trato</em>
-* `EMPTY` (1847): <em>ex, hab, 's, ya, etc., C, x, i, mm, C.</em>
+* `Ger` (2; 5% of non-empty `VerbForm`): <em>pareciendo, teloneando</em>
+* `Inf` (24; 63% of non-empty `VerbForm`): <em>super, per, after, aupair, avant, carrier, d, master, near, online</em>
+* `Part` (12; 32% of non-empty `VerbForm`): <em>co, ledo, lonsanjado, organisadas, parquizado, semi, sinsentido, sobretodo, tomato, trato</em>
+* `EMPTY` (1825): <em>ex, hab, 's, ya, etc., C, x, i, mm, C.</em>
 
-`VerbForm` seems to be **lexical feature** of `X`. 100% lemmas (30) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `X`. 100% lemmas (29) occur only with one value of `VerbForm`.
 
 ### `SYM`
 
@@ -196,7 +196,7 @@ The most frequent other feature values with which `X` and `VerbForm` co-occurred
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (2757; 78%),
+<tt>VERB --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (2758; 78%),
 <tt>VERB --[<tt><a href="es_gsd-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (739; 61%),
 <tt>VERB --[<tt><a href="es_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (556; 64%),
 <tt>VERB --[<tt><a href="es_gsd-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (140; 50%),

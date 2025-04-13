@@ -29,7 +29,7 @@ The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 5	,	,	PUNCT	$,	_	3	punct	_	_
 6	wurde	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	10	aux:pass	_	_
 7	sehr	sehr	ADV	ADV	_	8	advmod	_	_
-8	schnell	schnell	ADV	ADJD	_	10	advmod	_	_
+8	schnell	schnell	ADJ	ADJD	Degree=Pos	10	advmod	_	_
 9	passend	passend	ADJ	ADJD	Degree=Pos	10	xcomp	_	_
 10	gemacht	machen	VERB	VVPP	VerbForm=Part	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	$.	_	10	punct	_	_

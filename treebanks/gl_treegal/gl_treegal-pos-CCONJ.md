@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Galician-TreeGal: POS Tags: `CCONJ`
 
 There are 6 `CCONJ` lemmas (0%), 6 `CCONJ` types (0%) and 732 `CCONJ` tokens (3%).
-Out of 16 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 13 in number of types and 10 in number of tokens.
+Out of 16 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 14 in number of types and 10 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>e, ou, nin, quer, i, máis</em>
 
@@ -51,7 +51,7 @@ Examples: <em>e, ou, quer, i, máis</em>
 
 `CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="gl_treegal-dep-cc.html">cc</a></tt> (701; 96% instances), <tt><a href="gl_treegal-dep-mark.html">mark</a></tt> (26; 4% instances), <tt><a href="gl_treegal-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="gl_treegal-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (315; 43% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (226; 31% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (87; 12% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (52; 7% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (17; 2% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (15; 2% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (13; 2% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (315; 43% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (226; 31% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (87; 12% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (52; 7% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (17; 2% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (14; 2% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (13; 2% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-X.html">X</a></tt> (1; 0% instances)
 
 723 (99%) `CCONJ` nodes are leaves.
 

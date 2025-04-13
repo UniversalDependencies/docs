@@ -67,7 +67,7 @@ The 10 most frequent ambiguous types:  ה (<tt><a href="he_iahltwiki-pos-DET.htm
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 0.972973 (the average of all parts of speech is 1.479540).
+The form / lemma ratio of `DET` is 0.972973 (the average of all parts of speech is 1.479807).
 
 The 1st highest number of forms (2) was observed with the lemma “ה”: ב, ה.
 
@@ -75,12 +75,12 @@ The 2nd highest number of forms (2) was observed with the lemma “כול”: כ
 
 The 3rd highest number of forms (1) was observed with the lemma “The”: The.
 
-`DET` occurs with 5 features: <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt> (13843; 98% instances), <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt> (13621; 96% instances), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt> (12; 0% instances), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt> (5; 0% instances), <tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`DET` occurs with 5 features: <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt> (14013; 99% instances), <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt> (13889; 98% instances), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt> (12; 0% instances), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt> (5; 0% instances), <tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`DET` occurs with 8 feature-value pairs: `Definite=Cons`, `Definite=Def`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `Typo=Yes`
+`DET` occurs with 10 feature-value pairs: `Definite=Cons`, `Definite=Def`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Neg`, `PronType=Tot`, `Typo=Yes`
 
-`DET` occurs with 11 feature combinations.
-The most frequent feature combination is `Definite=Def|PronType=Art` (13614 tokens).
+`DET` occurs with 10 feature combinations.
+The most frequent feature combination is `Definite=Def|PronType=Art` (13628 tokens).
 Examples: ה, אל, הַ, ְהַ, א, הָ, לה
 
 
@@ -88,7 +88,7 @@ Examples: ה, אל, הַ, ְהַ, א, הָ, לה
 
 `DET` nodes are attached to their parents using 15 different relations: <tt><a href="he_iahltwiki-dep-det.html">det</a></tt> (14115; 100% instances), <tt><a href="he_iahltwiki-dep-dep.html">dep</a></tt> (20; 0% instances), <tt><a href="he_iahltwiki-dep-advmod.html">advmod</a></tt> (10; 0% instances), <tt><a href="he_iahltwiki-dep-fixed.html">fixed</a></tt> (6; 0% instances), <tt><a href="he_iahltwiki-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="he_iahltwiki-dep-reparandum.html">reparandum</a></tt> (4; 0% instances), <tt><a href="he_iahltwiki-dep-nmod-poss.html">nmod:poss</a></tt> (3; 0% instances), <tt><a href="he_iahltwiki-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="he_iahltwiki-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="he_iahltwiki-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-dep-nsubj-outer.html">nsubj:outer</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (9065; 64% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (3518; 25% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (1332; 9% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (170; 1% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (41; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (32; 0% instances), <tt><a href="he_iahltwiki-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (9066; 64% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (3518; 25% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (1331; 9% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (170; 1% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (41; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (32; 0% instances), <tt><a href="he_iahltwiki-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
 13972 (99%) `DET` nodes are leaves.
 

@@ -12,19 +12,19 @@ udver: '2'
 # UD Czech CAC
 
 Language: [Czech](/cs/index.html) (code: `cs`)<br/>
-Family: Indo-European, Slavic
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
 The following people have contributed to making this treebank part of UD: Barbora Hladká, Daniel Zeman.
 
 Repository: [UD_Czech-CAC](https://github.com/UniversalDependencies/UD_Czech-CAC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cac214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cac215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 
-Genre: news, nonfiction, legal, reviews, medical
+Genre: news, nonfiction, legal, reviews, academic
 
 Questions, comments?
 General annotation questions (either Czech-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
@@ -569,8 +569,8 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: další, pracovní, jednotlivých, základní, nové, socialistické, různých, dalších, jiné, vlastní</li>
-      <li>ADJ-Part: uvedených, uvedené, příslušné, plánovaných, spojené, příslušného, příslušných, spojených, získaných, určené</li>
+      <li>ADJ: další, pracovní, jednotlivých, základní, nové, možno, socialistické, různých, dalších, jiné</li>
+      <li>ADJ-Part: uvedených, uvedené, řečeno, příslušné, dosaženo, plánovaných, spojené, věnována, příslušného, dána</li>
       <li>ADV: tedy, často, stále, dobře, přímo, současně, stejně, hlavně, postupně, jistě</li>
     </ul>
   </li>
@@ -599,8 +599,6 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       <li>AUX-Fin: není, nejsou, nebude, nebudou, nebudeme, nejsme, nebudu, nebývá, nebudete, nejsem</li>
       <li>AUX-Inf: nebýt</li>
       <li>AUX-Part: nebylo, nebyl, nebyla, nebyly, nebyli</li>
-      <li>NOUN: nepřítomnosti, nezbytnost, nezávislosti, nedůslednost, neplnění, nepochopení, nepřítomnost, neschopnosti, nespokojenost, nezávislost</li>
-      <li>NOUN-Vnoun: neplnění, nepochopení, nedodržení, nesplnění, Nerespektování, Neřešení, nedocenění, nedodržením, nedodržování, nedodání</li>
       <li>VERB-Conv: nemluvě, nevyjímaje, nechtíc, nehodíce, nepočítaje</li>
       <li>VERB-Fin: nelze, nemůže, nemá, nesmí, nejde, nemají, nemůžeme, nemohou, nestačí, nemusí</li>
       <li>VERB-Inf: nedovolit, nedělat, nemluvit, neomezovat, nespokojovat, neusnout, nevidět, nevyhazovat, Nekrmit, Neohrozit</li>
@@ -619,9 +617,6 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       <li>AUX-Fin: je, jsou, bude, jsme, jsem, budou, budeme, bývá, jste, bývají</li>
       <li>AUX-Inf: být, býti</li>
       <li>AUX-Part: bylo, byl, byla, byly, byli, býval, bývalo, bývaly, Bývali, bývala</li>
-      <li>NOUN: práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</li>
-      <li>NOUN-Vnoun: zařízení, řešení, plnění, poznání, řízení, umění, oddělení, zpracování, pojetí, záření</li>
-      <li>PROPN: KSČ, ROH, Praze, SSSR, ÚJČ, SSM, Praha, ČSAV, ČSSR, Škoda</li>
       <li>VERB-Conv: počínaje, říkajíc, Chráníce, Počínajíc, chtíc, dožívaje, klusaje, konče, plníce, ponechávajíc</li>
       <li>VERB-Fin: má, mají, musí, může, jde, lze, mohou, můžeme, patří, tvoří</li>
       <li>VERB-Inf: mít, zajistit, říci, vidět, dělat, řešit, věnovat, použít, provádět, dosáhnout</li>
@@ -656,9 +651,10 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
   <li>Imp
     <ul>
       <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, věnována, řídící, týkající, vyplývající</li>
-      <li>AUX-Conv: jsouc, jsouce</li>
-      <li>AUX-Fin: bývá, bývají, nebývá, nebývají</li>
-      <li>AUX-Part: býval, bývalo, bývaly, Bývali, bývala</li>
+      <li>AUX-Conv: byvše, jsouc, jsouce</li>
+      <li>AUX-Fin: je, jsou, by, bude, není, jsme, jsem, budou, bychom, nejsou</li>
+      <li>AUX-Inf: být, býti, nebýt</li>
+      <li>AUX-Part: bylo, byl, byla, byly, byli, nebylo, nebyl, nebyla, nebyly, nebyli</li>
       <li>CCONJ: buď</li>
       <li>NOUN: tváří</li>
       <li>VERB-Conv: počínaje, nemluvě, nevyjímaje, říkajíc, Chráníce, Počínajíc, chtíc, dožívaje, klusaje, konče</li>
@@ -673,7 +669,6 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
   <li>Perf
     <ul>
       <li>ADJ-Part: splněny, zahájena, založena, splněn, stanovena, spojeno, spojeny, stanoveny, vybudována, připraveny</li>
-      <li>AUX-Conv: byvše</li>
       <li>NOUN: oprav, vyhovění</li>
       <li>NOUN-Vnoun: vyhovění</li>
       <li>VERB-Conv: vyměně</li>
@@ -885,15 +880,8 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 <ul>
   <li>Mult
     <ul>
-      <li>ADV: dvakrát, nejednou, několikrát, třikrát, mnohokrát, kolikrát, desetkrát, stokrát, čtyřikrát, dvanáctkrát</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Mult,Sets
-    <ul>
       <li>ADJ: dvojí, obojí, dvojím, trojí, dvojího, trojím, dvojímu, oboje, obojího, obojím</li>
+      <li>ADV: dvakrát, nejednou, několikrát, třikrát, mnohokrát, kolikrát, desetkrát, stokrát, čtyřikrát, dvanáctkrát</li>
     </ul>
   </li>
 </ul>
@@ -971,7 +959,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: je, jsou, by, bude, není, budou, nejsou, bývá, nebude, nebudou</li>
+      <li>AUX-Fin: je, jsou, bude, není, budou, nejsou, bývá, nebude, nebudou, bývají</li>
       <li>DET: jejich, jeho, její, jehož, jejichž, jejíž, jejím, jejího, jejích, jejímž</li>
       <li>PRON: je, nich, ji, jim, mu, ho, ní, jej, ně, něm</li>
       <li>VERB-Fin: má, mají, musí, může, jde, lze, mohou, patří, nelze, tvoří</li>
@@ -1094,7 +1082,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
           <li>ADV: priori, explicite, quo, defacto, expost, innuce, ipsofacto, memoriam, theory</li>
           <li>CCONJ: et, and</li>
           <li>DET: sui, hoc, quem</li>
-          <li>NOUN: luxe, vitro, generis, nepusto, pusto, excellence, homo, lege, peeling, Buch</li>
+          <li>NOUN: luxe, nepusto, pusto, generis, vitro, excellence, homo, lege, peeling, Buch</li>
           <li>PART: La, das, des, non, Le, el, quo, Al</li>
           <li>PRON: eo, ipso, Tous, er, qua, they</li>
           <li>PROPN: Combi, Kombi, Manche, Orchester, Bell, Böhmen, Corriere, Fruit, Gaudeamus, George</li>
@@ -1211,7 +1199,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
           <li>ADJ: Santa</li>
           <li>ADP: aus</li>
           <li>PART: Al</li>
-          <li>PROPN: SNP, Opeplatis, Plastex, Rena, Erotissimo, Gaudeamus, Intermóda, Invex, Luna, Musikbuch</li>
+          <li>PROPN: Opeplatis, SNP, Plastex, Rena, Erotissimo, Gaudeamus, Intermóda, Invex, Luna, Musikbuch</li>
         </ul>
       </li>
       <li>Pro

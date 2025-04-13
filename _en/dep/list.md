@@ -24,4 +24,4 @@ appos(Email:-5, jones@abc.edf-6)
 In an itemized or numbered list, we have been taking the item marker as a [nummod]() dependent of the head of the contentful list item. This appears to be better than the alternatives….
 -->
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:18 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:59 CET -->

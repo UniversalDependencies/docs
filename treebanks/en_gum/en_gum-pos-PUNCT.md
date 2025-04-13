@@ -6,21 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-GUM: POS Tags: `PUNCT`
 
-There are 26 `PUNCT` lemmas (0%), 35 `PUNCT` types (0%) and 28956 `PUNCT` tokens (14%).
+There are 26 `PUNCT` lemmas (0%), 35 `PUNCT` types (0%) and 28955 `PUNCT` tokens (14%).
 Out of 17 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 13 in number of types and 2 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>,, ., '', -, ?, (, ), —, [, :</em>
 
 The 10 most frequent `PUNCT` types:  <em>,, ., -, ", ?, (, ), —, [, :</em>
 
-The 10 most frequent ambiguous lemmas: <em>-</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 1454, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 91), <em>?</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 837, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 1), <em>:</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 428, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 1), <em>'</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 207, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 2), <em>/</em> (<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 75, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 14), <em>*</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 1), <em>+</em> (<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 15, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 1), <em>he</em> (<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 907, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 1), <em>point</em> (<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 74, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 11, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 1), <em>x</em> (<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 17, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 1, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>-</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 1453, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 92), <em>?</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 837, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 1), <em>:</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 428, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 1), <em>'</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 207, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 2), <em>/</em> (<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 75, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 14), <em>*</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 1), <em>+</em> (<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 15, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 1), <em>he</em> (<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 907, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 1), <em>point</em> (<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 74, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 11, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 1), <em>x</em> (<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 17, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 1, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 1080, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 38), <em>"</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 977, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 1), <em>?</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 838, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 1), <em>:</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 428, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 1), <em>–</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 239, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 53), <em>'</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 160, <tt><a href="en_gum-pos-PART.html">PART</a></tt> 46, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 2), <em>’</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 28, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 24), <em>/</em> (<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 75, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 14), <em>*</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 1), <em>+</em> (<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 15, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 1079, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 39), <em>"</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 977, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 1), <em>?</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 838, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 1), <em>:</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 428, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 1), <em>–</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 239, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 53), <em>'</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 160, <tt><a href="en_gum-pos-PART.html">PART</a></tt> 46, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 2), <em>’</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 28, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 24), <em>/</em> (<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 75, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 14), <em>*</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 1), <em>+</em> (<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 15, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 1)
 
 
 * <em>-</em>
-  * <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 1080: <em>However , it is not enough to have attained such native <b>-</b> like levels .</em>
-  * <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 38: <em>January <b>-</b> june 2016 philippine power demand</em>
+  * <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 1079: <em>However , it is not enough to have attained such native <b>-</b> like levels .</em>
+  * <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> 39: <em>January <b>-</b> june 2016 philippine power demand</em>
 * <em>"</em>
   * <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 977: <em>Norton would later add <b>"</b> Protector of Mexico <b>"</b> to this title .</em>
   * <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 1: <em>Using chalk , a stick , or your finger , draw a line on the ground 12 <b>"</b> ( 30 cm ) long .</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="en_gum-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.346154 (the average of all parts of speech is 1.236974).
+The form / lemma ratio of `PUNCT` is 1.346154 (the average of all parts of speech is 1.237215).
 
 The 1st highest number of forms (4) was observed with the lemma “''”: <em>", ``, “, ”</em>.
 
@@ -60,22 +60,22 @@ The 2nd highest number of forms (3) was observed with the lemma “'”: <em>', 
 
 The 3rd highest number of forms (3) was observed with the lemma “-”: <em>-, --, –</em>.
 
-`PUNCT` occurs with 4 features: <tt><a href="en_gum-feat-Typo.html">Typo</a></tt> (11; 0% instances), <tt><a href="en_gum-feat-Foreign.html">Foreign</a></tt> (8; 0% instances), <tt><a href="en_gum-feat-Degree.html">Degree</a></tt> (1; 0% instances), <tt><a href="en_gum-feat-Number.html">Number</a></tt> (1; 0% instances)
+`PUNCT` occurs with 2 features: <tt><a href="en_gum-feat-Typo.html">Typo</a></tt> (11; 0% instances), <tt><a href="en_gum-feat-Foreign.html">Foreign</a></tt> (8; 0% instances)
 
-`PUNCT` occurs with 4 feature-value pairs: `Degree=Pos`, `Foreign=Yes`, `Number=Sing`, `Typo=Yes`
+`PUNCT` occurs with 2 feature-value pairs: `Foreign=Yes`, `Typo=Yes`
 
-`PUNCT` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (28935 tokens).
+`PUNCT` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (28936 tokens).
 Examples: <em>,, ., -, ", ?, (, ), —, :, [</em>
 
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="en_gum-dep-punct.html">punct</a></tt> (28956; 100% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="en_gum-dep-punct.html">punct</a></tt> (28955; 100% instances)
 
-Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (12235; 42% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (5927; 20% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2510; 9% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (2040; 7% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1849; 6% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (1281; 4% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1238; 4% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (525; 2% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (361; 1% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (332; 1% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (172; 1% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (162; 1% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (139; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (85; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (50; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (42; 0% instances), <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances)
+Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (12225; 42% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (5928; 20% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2509; 9% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (2040; 7% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1849; 6% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (1286; 4% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1239; 4% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (525; 2% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (361; 1% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (333; 1% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (172; 1% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (163; 1% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (139; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (86; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (50; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (42; 0% instances), <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances)
 
-28952 (100%) `PUNCT` nodes are leaves.
+28951 (100%) `PUNCT` nodes are leaves.
 
 0 (0%) `PUNCT` nodes have one child.
 

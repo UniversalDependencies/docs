@@ -12,15 +12,15 @@ udver: '2'
 # UD Khunsari AHA
 
 Language: [Khunsari](/kfm/index.html) (code: `kfm`)<br/>
-Family: Indo-European, Iranian
+Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.7 release.
 
 The following people have contributed to making this treebank part of UD: AmirHossein Mojiri Foroushani, Hamid Aghaei, Amir Ahmadi.
 
 Repository: [UD_Khunsari-AHA](https://github.com/UniversalDependencies/UD_Khunsari-AHA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkfm_aha214)<br />
-Download all treebanks: [UD 2.14](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkfm_aha215)<br />
+Download all treebanks: [UD 2.15](/#download)
 
 License: CC BY-SA 4.0
 

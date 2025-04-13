@@ -8,85 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `list`.
+9 nodes (0%) are attached to their parents as `list`.
 
-5 instances of `list` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.6.
+9 instances of `list` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.44444444444444.
 
-The following 5 pairs of parts of speech are connected with `list`: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (1; 20% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1; 20% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
-
-
-~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 20 list	color:blue
-1	Псан	писати	VERB	VBNH	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="Псан"
-2	в	въ	ADP	IN	_	3	case	_	wf="в"
-3	Берестьи	Берестье	PROPN	NPI	Case=Loc|Gender=Neut|NameType=Geo|Number=Sing	1	obl	_	wf="Берестьи"|SpaceAfter=No
-4	,	,	PUNCT	-COMMA-	_	7	punct	_	_
-5	на	на	ADP	IN	_	7	case	_	wf="на"
-6	великом	великий	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	wf="великом"
-7	соимѣ	соймъ	NOUN	NNI	Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	wf="соимѣ"|SpaceAfter=No
-8	,	,	PUNCT	-COMMA-	_	9	punct	_	_
-9	лета	лето	NOUN	NNI	Case=Gen|Gender=Neut|Number=Sing	1	obl:tmod	_	wf="лета"
-10	Бож(ъ)его	божий	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	wf="Божъего"
-11	тисеча	тысяча	NOUN	NNI	Case=Nom|Gender=Fem|Number=Sing	13	compound	_	wf="тисеча"
-12	пѧт(ь)сот	пятьсотъ	NUM	CD	Case=Acc|NumForm=Word|NumType=Card	13	compound	_	wf="пѧтьсот"
-13	первогонадесѧт(ь)	первыйнадесять	ADJ	ORD	Case=Gen|Gender=Neut|Number=Sing|NumForm=Word|NumType=Ord	9	amod	_	wf="первогонадесѧть"|SpaceAfter=No
-14	,	,	PUNCT	-COMMA-	_	15	punct	_	_
-15	м(е)с(е)ца	месяцъ	NOUN	NNI	Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	wf="месеца"
-16	июл(ѧ)	июль	NOUN	NNI	Case=Gen|Gender=Masc|Number=Sing	15	appos	_	wf="июлѧ"
-17	28	28	ADJ	ORD	Case=Acc|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	18	amod	_	_
-18	ден(ь)	день	NOUN	NNI	Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	wf="день"|SpaceAfter=No
-19	,	,	PUNCT	-COMMA-	_	20	punct	_	_
-20	четвертыинадѣсѧт(ь)	четвертыйнадесять	ADJ	ORD	Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	18	list	_	wf="четвертыинадѣсѧть"|SpaceAfter=No
-21	.	.	PUNCT	-PERIOD-	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 list	color:blue
-1	Тежъ	тежъ	CCONJ	СС	_	14	cc	_	wf="Тежъ"
-2	воить	войтъ	NOUN	NNA	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	wf="воить"
-3	нинешънии	нынешний	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	wf="нинешънии"
-4	полоцъкии	полоцкий	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	wf="полоцъкии"
-5	[416	416	NUM	CD	Case=Nom|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Card	4	dep	_	_
-6	об.	оборотъ	NOUN	NNI	Abbr=Yes	5	list	_	wf="об."|SpaceAfter=No
-7	]	]	PUNCT	-RBR-	_	5	punct	_	_
-8	и	и	CCONJ	СС	_	11	cc	_	wf="и"
-9	потомъ	потомъ	ADV	RB	Degree=Pos	10	advmod	_	wf="потомъ"
-10	бꙋдꙋчии	будучий	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	11	amod	_	wf="бꙋдꙋчии"
-11	воитове	войтъ	NOUN	NNA	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	wf="воитове"
-12	тамошнии	тамошний	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	11	amod	_	wf="тамошнии"
-13	не	не	PART	NEG	Polarity=Neg	14	advmod	_	wf="не"
-14	мають	мети	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="мають"
-15	в	въ	ADP	IN	_	16	case	_	wf="в"
-16	плать	платъ	NOUN	NNI	Case=Acc|Gender=Masc|Number=Sing	31	obl	_	wf="плать"
-17	и	и	CCONJ	СС	_	20	cc	_	wf="и"
-18	во	въ	ADP	IN	_	20	case	_	wf="во"
-19	вси	весь	DET	DT	Case=Acc|Gender=Masc|Number=Plur|PronType=Tot	20	det	_	wf="вси"
-20	доходы	доходъ	NOUN	NNI	Case=Acc|Gender=Masc|Number=Plur	16	conj	_	wf="доходы"
-21	местскии	местский	ADJ	JJL	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	20	amod	_	wf="местскии"|SpaceAfter=No
-22	,	,	PUNCT	-COMMA-	_	25	punct	_	_
-23	которыи	который	DET	WDT	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	25	nsubj:pass	_	wf="которыи"
-24	ж	жъ	PART	RP	_	25	advmod	_	wf="ж"
-25	приданы	придати	VERB	VBNH	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	20	acl:relcl	_	wf="приданы"
-26	на	на	ADP	IN	_	27	case	_	wf="на"
-27	ратꙋшь	ратушъ	NOUN	NNI	Case=Acc|Gender=Masc|Number=Sing	25	obl	_	wf="ратꙋшь"
-28	и	и	CCONJ	СС	_	29	cc	_	wf="и"
-29	бꙋрмистромъ	бурмистръ	NOUN	NNA	Case=Dat|Gender=Masc|Number=Plur	27	conj	_	wf="бꙋрмистромъ"|SpaceAfter=No
-30	,	,	PUNCT	-COMMA-	_	25	punct	_	_
-31	ꙋстꙋпатися	вступатися	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Mid	14	xcomp	_	wf="ꙋстꙋпатися"|SpaceAfter=No
-32	.	.	PUNCT	-PERIOD-	_	14	punct	_	_
-
-~~~
+The following 6 pairs of parts of speech are connected with `list`: <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (3; 33% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (2; 22% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1; 11% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -101,6 +28,66 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 4	инъдик(т)	индиктъ	NOUN	NNI	Case=Nom|Gender=Masc|Number=Sing	2	list	_	wf="инъдикт"
 5	10	10	ADJ	ORD	Case=Nom|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	4	amod	_	_
 6	.	.	PUNCT	-PERIOD-	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 list	color:blue
+1	Ап(с̃)лъ	апостолъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	wf="Апс̃лъ"|SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	_	wf=","
+3	оу	у	ADP	_	_	5	case	_	wf="у"|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	wf=","
+5	а̃	1	ADJ	ORD	NumForm=Cyril|NumType=Ord	1	list	_	wf="а̃"|SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	wf=","
+7	до	до	ADP	_	_	8	case	_	wf="до"
+8	ко(р)	кор	NOUN	_	Abbr=Yes	5	nmod	_	wf="кор"|SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	wf="."
+
+~~~
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 list	color:blue
+1	І	и	CCONJ	_	_	2	cc	_	wf="И"
+2	мешкали	мѣшкати	VERB	_	Aspect=Imp|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="мешкали"|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	wf=","
+4	мови(т)	мовити	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	parataxis:discourse	_	wf="мовит"|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	wf=","
+6	[	[	PUNCT	_	_	7	punct	_	wf="["|NoIndex=Yes|SpaceAfter=No
+7	глоса	глоса	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	wf="глоса"|NoIndex=Yes
+8	на	на	ADP	_	_	9	case	_	wf="на"|NoIndex=Yes
+9	полі	поле	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	7	nmod	_	wf="поли"|NoIndex=Yes
+10	-	-	PUNCT	_	_	11	punct	_	wf="-"|NoIndex=Yes
+11	Сꙋде(й)	судия	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	7	parataxis	_	wf="Судей"|NoIndex=Yes
+12	гла(в)	глава	NOUN	_	Abbr=Yes	11	list	_	wf="глав"|NoIndex=Yes
+13	г̃	3	ADJ	ORD	Case=Nom|Gender=Fem|Number=Sing|NumForm=Digit|NumType=Ord	12	amod	_	wf="г̃"|NoIndex=Yes|NoIndex=Yes|SpaceAfter=No
+14	]	]	PUNCT	_	_	7	punct	_	wf="]"|NoIndex=Yes
+15	сн̃ове	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	wf="сн̃ове"
+16	іи̃левы	израилевъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	15	amod	_	wf="ии̃левы"
+17	весполъ	весполъ	ADV	_	Degree=Pos	19	advmod	_	wf="весполъ"
+18	с	зъ	ADP	_	_	19	case	_	wf="с"
+19	хананеѡ(м)	хананей	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	2	obl	_	wf="хананеом"|SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	wf=","
+21	хетфеѡ(м)	хетфей	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	19	conj	_	wf="хетфеом"|SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	wf=","
+23	і	и	CCONJ	_	_	24	cc	_	wf="и"
+24	аммореѡ(м)	амморей	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	19	conj	_	wf="аммореом"|SpaceAfter=No
+25	,	,	PUNCT	_	_	27	punct	_	wf=","
+26	и	и	CCONJ	_	_	27	cc	_	wf="и"
+27	ферезеѡмъ	ферезей	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	19	conj	_	wf="ферезеомъ"
+28	и	и	CCONJ	_	_	30	cc	_	wf="и"
+29	з(ъ)	зъ	ADP	_	_	30	case	_	wf="зъ"
+30	иншими	инший	DET	_	Case=Ins|Gender=Masc|Number=Plur|PronType=Tot	19	conj	_	wf="иншими"|SpaceAfter=No
+31	.	.	PUNCT	_	_	2	punct	_	wf="."
 
 ~~~
 

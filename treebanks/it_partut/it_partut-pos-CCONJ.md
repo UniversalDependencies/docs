@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>sia</em> (<tt><a href="it_partut-pos-
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.142857 (the average of all parts of speech is 1.488064).
+The form / lemma ratio of `CCONJ` is 1.142857 (the average of all parts of speech is 1.488229).
 
 The 1st highest number of forms (4) was observed with the lemma “e”: <em>5, e, ed, et</em>.
 

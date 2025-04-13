@@ -46,4 +46,4 @@ Plurality on verbs is indicated by a set of person/number suffixes which vary de
 * *Окуучу<b>лар</b> эртең китеп оку(<b>ша</b>)(й)т .* 'The students will read books tomorrow' -- the plural marker on the verb is optional.
 
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:06 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:50 CET -->

@@ -56,7 +56,7 @@ The following 4 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 1	”	”	PUNCT	PUNCT	_	6	punct	_	GTtags=RIGHT|SpaceAfter=No
 2	A	a	CCONJ	CC	_	6	cc	_	_
 3	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	GTtags=Pers,Sg1,Nom
-4	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	6	aux:neg	_	GTtags=Neg,Ind,Sg1,@+FAUXV
+4	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	6	aux	_	GTtags=Neg,Ind,Sg1,@+FAUXV
 5	ni	ni	PART	Pcle	Polarity=Neg	6	advmod:neg	_	GTtags=Pcle,Neg
 6	vuâmmšõõttâm	vuâmmšõõttâd	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past	0	root	_	GTtags=Ind,Prt,ConNeg
 7	mååusat	mååusat	ADV	Adv	_	6	advmod:lmod	_	_
@@ -88,7 +88,7 @@ The following 4 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 6	poʹhtte	puʹhtted	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	12	punct	_	_
 8	vuäʹbbes	vuäʹbb	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	nsubj	_	GTtags=Sem/Kin,Sg,Nom,PxSg3
-9	i-ǥõl	i-ǥõl	AUX	_	_	12	aux:neg	_	_
+9	i-ǥõl	i-ǥõl	AUX	_	Polarity=Neg	12	aux	_	_
 10	ni	ni	PART	Pcle	Polarity=Neg	11	advmod:neg	_	GTtags=Pcle,Neg
 11	koʹst	koʹst	ADV	Adv	Case=Loc	12	advmod:lmod	_	GTtags=Loc
 12	jååʹtted	jååʹtted	VERB	V	VerbForm=Inf	6	conj	_	GTtags=Inf|SpaceAfter=No

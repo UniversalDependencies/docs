@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="orv_rnc-pos-X.html"
 
 ### `X`
 
-84 <tt><a href="orv_rnc-pos-X.html">X</a></tt> tokens (19% of all `X` tokens) have a non-empty value of `Foreign`.
+84 <tt><a href="orv_rnc-pos-X.html">X</a></tt> tokens (15% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (84; 100% of non-empty `Foreign`): <em>Piter, Min, Her, Her., Petrvs, Archangel, Guverneur, Mi, Kenich, Bombordir</em>
-* `EMPTY` (368): <em></em>, <em>, В, {л._2}, D, {л._1}, А, С, [sic], {л._1_об.}</em>
+* `EMPTY` (476): <em></em>, <em>, {л._2}, {л._1}, {л._3}, В, {л._1_об.}, а, D, {л._2_об.}</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (21) occur only with one value of `Foreign`.
 

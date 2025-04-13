@@ -28,7 +28,7 @@ The most frequent other feature values with which `ADV` and `Style` co-occurred:
 
 26 <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (23; 88%), <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (22; 85%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 77%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15; 58%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (15; 58%).
+The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (23; 88%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (23; 88%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 77%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15; 58%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (15; 58%).
 
 `ADJ` tokens may have the following values of `Style`:
 
@@ -72,7 +72,7 @@ The most frequent other feature values with which `PRON` and `Style` co-occurred
 
 7 <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `AUX` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7; 100%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5; 71%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 71%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=2</tt> (5; 71%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5; 71%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5; 71%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4; 57%).
+The most frequent other feature values with which `AUX` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (7; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7; 100%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5; 71%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 71%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=2</tt> (5; 71%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5; 71%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5; 71%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4; 57%).
 
 `AUX` tokens may have the following values of `Style`:
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `AUX` and `Style` co-occurred:
 
 5 <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `NOUN` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt> (5; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5; 100%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Ins</tt> (4; 80%).
+The most frequent other feature values with which `NOUN` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt> (5; 100%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Ins</tt> (4; 80%).
 
 `NOUN` tokens may have the following values of `Style`:
 

@@ -20,7 +20,7 @@ The feature is used with 8 part-of-speech tags: <tt><a href="cs_poetry-pos-NOUN.
 
 1466 <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1462; 100%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1047; 71%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (830; 57%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1047; 71%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (830; 57%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 595 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (572; 96%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (534; 90%), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (502; 84%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (494; 83%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (493; 83%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (425; 71%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (365; 61%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (572; 96%), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (560; 94%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (534; 90%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (494; 83%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (493; 83%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (425; 71%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (365; 61%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
@@ -158,7 +158,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 84 <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (84; 100%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (73; 87%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (44; 52%).
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (73; 87%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (44; 52%).
 
 `PROPN` tokens may have the following values of `Gender`:
 
@@ -179,7 +179,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 * `Fem` (4; 22% of non-empty `Gender`): <em>Nebyla, byla, byly, bývaly</em>
 * `Masc` (9; 50% of non-empty `Gender`): <em>byl, byli, jsi</em>
 * `Neut` (5; 28% of non-empty `Gender`): <em>bylo</em>
-* `EMPTY` (116): <em>je, by, jsem, jste, jest, jsi, jsou, budeš, bude, bych</em>
+* `EMPTY` (118): <em>je, by, jsem, jste, jest, jsi, jsou, budeš, bude, bych</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>

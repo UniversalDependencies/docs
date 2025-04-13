@@ -6,9 +6,11 @@ udver: '2'
 ---
 
 `csubj:cop` is used for non-clefted uses of the copula.
-These are largely no longer productive, like _'s dòcha_ "perhaps", _'s toil le_ "likes", _'s iomadh_ "there are many".
+These are usually fixed phrases now and the _'s_ + (adjective/noun) + PP + complement or clause pattern is no longer productive.
 
-### Example
+largely no longer productive, like _'s dòcha_ "perhaps", _'s toil le_ "likes", _'s iomadh_ "there are many".
+
+### Examples
 
 * _'S deagh chaomh leam a bhith ag iasgach_ "I really like to fish"
 
@@ -17,4 +19,9 @@ These are largely no longer productive, like _'s dòcha_ "perhaps", _'s toil le_
 csubj:cop(chaomh, bhith)
 cop(chaomh, 'S)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:02 CEST -->
+
+* _bu chòir dha crìoch a chur air_ "he should put a stop to it"
+* _Is dòcha gum faod mi tòiseachadh_ "Perhaps I may begin"
+* _cha bu mhisde sinn tòiseachadh le sùil ghoirid a thoirt_ "It would not be worse for us to begin with taking a short look"
+
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:44 CET -->

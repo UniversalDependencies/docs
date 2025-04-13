@@ -89,7 +89,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Int` (1; 50% of non-empty `PronType`): <em>ka</em>
 * `Rel` (1; 50% of non-empty `PronType`): <em>çi</em>
-* `EMPTY` (247): <em>ne, gelek, herî, niho, tenê, berê, pêk, îro, her, hêj</em>
+* `EMPTY` (246): <em>ne, gelek, herî, niho, tenê, berê, îro, her, hêj, piştre</em>
 
 ## Relations with Agreement in `PronType`
 

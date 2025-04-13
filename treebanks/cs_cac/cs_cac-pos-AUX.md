@@ -30,19 +30,19 @@ The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="cs_cac-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 30.500000 (the average of all parts of speech is 2.185616).
+The form / lemma ratio of `AUX` is 30.500000 (the average of all parts of speech is 2.181223).
 
 The 1st highest number of forms (52) was observed with the lemma “být”: <em>Nebuď, bude, budeme, budete, budeš, budiž, budou, budu, buď, buďme, buďte, by, bych, bychom, byl, byla, byli, bylo, byly, bys, byste, byvše, být, býti, je, jest, jsem, jsi, jsme, jsou, jsouc, jsouce, jste, nebude, nebudeme, nebudete, nebudeš, nebudou, nebudu, nebyl, nebyla, nebyli, nebylo, nebyly, nebýt, nejsem, nejsme, nejsou, nejste, není, seš, si</em>.
 
 The 2nd highest number of forms (9) was observed with the lemma “bývat”: <em>Bývali, bývají, býval, bývala, bývalo, bývaly, bývá, nebývají, nebývá</em>.
 
-`AUX` occurs with 11 features: <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt> (16120; 100% instances), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt> (14049; 87% instances), <tt><a href="cs_cac-feat-Number.html">Number</a></tt> (13689; 85% instances), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt> (13313; 83% instances), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt> (13313; 83% instances), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt> (12578; 78% instances), <tt><a href="cs_cac-feat-Person.html">Person</a></tt> (12578; 78% instances), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt> (2821; 18% instances), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt> (640; 4% instances), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt> (116; 1% instances), <tt><a href="cs_cac-feat-Style.html">Style</a></tt> (1; 0% instances)
+`AUX` occurs with 11 features: <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt> (16120; 100% instances), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt> (16120; 100% instances), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt> (14049; 87% instances), <tt><a href="cs_cac-feat-Number.html">Number</a></tt> (13688; 85% instances), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt> (13313; 83% instances), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt> (13313; 83% instances), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt> (12578; 78% instances), <tt><a href="cs_cac-feat-Person.html">Person</a></tt> (10865; 67% instances), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt> (2821; 18% instances), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt> (640; 4% instances), <tt><a href="cs_cac-feat-Style.html">Style</a></tt> (1; 0% instances)
 
-`AUX` occurs with 29 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Aspect=Imp`, `Aspect=Perf`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Neut`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Plur,Sing`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Polarity=Pos`, `Style=Coll`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Conv`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`
+`AUX` occurs with 28 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Aspect=Imp`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Neut`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Plur,Sing`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Polarity=Pos`, `Style=Coll`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Conv`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`
 
-`AUX` occurs with 67 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act` (5712 tokens).
-Examples: <em>je, jest</em>
+`AUX` occurs with 57 feature combinations.
+The most frequent feature combination is `Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act` (5778 tokens).
+Examples: <em>je, bývá, jest</em>
 
 
 ## Relations

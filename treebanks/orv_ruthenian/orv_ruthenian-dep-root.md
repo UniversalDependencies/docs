@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3523 nodes (4%) are attached to their parents as `root`.
+4428 nodes (4%) are attached to their parents as `root`.
 
-3523 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.61935850127732.
+4428 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.04765130984643.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (2643; 75% instances), -<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (572; 16% instances), -<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (134; 4% instances), -<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (86; 2% instances), -<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (55; 2% instances), -<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (9; 0% instances), -<tt><a href="orv_ruthenian-pos-INTJ.html">INTJ</a></tt> (8; 0% instances), -<tt><a href="orv_ruthenian-pos-X.html">X</a></tt> (6; 0% instances), -<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (4; 0% instances), -<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (4; 0% instances), -<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (2946; 67% instances), -<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (941; 21% instances), -<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (307; 7% instances), -<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (108; 2% instances), -<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (74; 2% instances), -<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (15; 0% instances), -<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (14; 0% instances), -<tt><a href="orv_ruthenian-pos-INTJ.html">INTJ</a></tt> (9; 0% instances), -<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (6; 0% instances), -<tt><a href="orv_ruthenian-pos-X.html">X</a></tt> (6; 0% instances), -<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -46,7 +46,7 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 2	седихне	седи	NOUN	N	Case=Nom|Definite=Def|Number=Plur	6	nsubj	_	CGdephead=#2-&gt;6|CGdeprel=@SUBJ&gt;|GTtags=Pl,Nom,Def
 3	хуш	хуш	PART	Pcle	_	6	dep	_	CGdephead=#3-&gt;0|CGdeprel=@X|GTtags=
 4	нинге	нинге	ADV	Adv	_	6	advmod	_	CGdephead=#4-&gt;6|CGdeprel=@ADVL&gt;|GTtags=
-5	ашесть	аф	AUX	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	6	aux:neg	_	CGdephead=#5-&gt;5|CGdeprel=@-FAUXV&gt;|GTtags=Aux,Neg,Ind,Prt1,ScPl3
+5	ашесть	аф	AUX	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	6	aux	_	CGdephead=#5-&gt;5|CGdeprel=@-FAUXV&gt;|GTtags=Aux,Neg,Ind,Prt1,ScPl3
 6	кенере	кенеремс	VERB	V	Connegative=Yes	0	root	_	CGdephead=#6-&gt;5|CGdeprel=@IMV|GTtags=IV,ConNeg
 7	кувондамс	кувондамс	VERB	V	VerbForm=Inf	6	xcomp	_	CGdephead=#7-&gt;7|CGdeprel=@FS-&lt;FMAINV|GTtags=IV,Inf|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	17	punct	_	CGdephead=#8-&gt;9|CGdeprel=@CLB|GTtags=CLB

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
-12824 tokens (10%) have a non-empty value of `Tense`.
-3447 types (20%) occur at least once with a non-empty value of `Tense`.
+12823 tokens (10%) have a non-empty value of `Tense`.
+3446 types (20%) occur at least once with a non-empty value of `Tense`.
 1162 lemmas (9%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (8569; 7% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4255; 3% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (8568; 7% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4255; 3% instances).
 
 ### `VERB`
 
-8569 <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Tense`.
+8568 <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7014; 82%), <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6973; 81%), <tt><a href="it_postwita-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6960; 81%), <tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5753; 67%), <tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt> (4295; 50%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7013; 82%), <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6972; 81%), <tt><a href="it_postwita-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6959; 81%), <tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5753; 67%), <tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt> (4295; 50%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (507; 6% of non-empty `Tense`): <em>farà, sarà, andrà, faremo, avrà, arriverà, sara', toccherà, andremo, durerà</em>
 * `Imp` (216; 3% of non-empty `Tense`): <em>era, aveva, faceva, fosse, erano, pensavo, avevo, diceva, facesse, stavo</em>
 * `Past` (1662; 19% of non-empty `Tense`): <em>fatto, detto, dato, nominato, fatta, messo, trovato, letto, perso, iniziato</em>
-* `Pres` (6184; 72% of non-empty `Tense`): <em>fa, è, ha, dice, piace, va, ho, parla, amo, fanno</em>
+* `Pres` (6183; 72% of non-empty `Tense`): <em>fa, è, ha, dice, piace, va, ho, parla, amo, fanno</em>
 * `EMPTY` (2696): <em>fare, far, dire, vedere, andare, avere, pagare, parlare, facendo, ridere</em>
 
 <table>

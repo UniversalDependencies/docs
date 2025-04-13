@@ -12,19 +12,19 @@ It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 1761 tokens (7%) have a non-empty value of `Mood`.
 722 types (12%) occur at least once with a non-empty value of `Mood`.
 384 lemmas (8%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (903; 4% instances), <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> (858; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (902; 4% instances), <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> (859; 4% instances).
 
 ### `VERB`
 
-903 <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> tokens (44% of all `VERB` tokens) have a non-empty value of `Mood`.
+902 <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> tokens (44% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (903; 100%), <tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (903; 100%), <tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (859; 95%), <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (652; 72%), <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (498; 55%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (902; 100%), <tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (902; 100%), <tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (858; 95%), <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (651; 72%), <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (497; 55%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (8; 1% of non-empty `Mood`): <em>Vorrebbe, aggirerebbe, andrebbero, mitigherebbe, pagherebbero, renderebbe, ridurrebbe, scagionerebbe</em>
 * `Imp` (2; 0% of non-empty `Mood`): <em>Fa', Metti</em>
-* `Ind` (845; 94% of non-empty `Mood`): <em>ha, afferma, aveva, iniziò, sono, hanno, avevano, sembra, ebbe, riguarda</em>
+* `Ind` (844; 94% of non-empty `Mood`): <em>ha, afferma, aveva, iniziò, sono, hanno, avevano, sembra, ebbe, riguarda</em>
 * `Sub` (48; 5% of non-empty `Mood`): <em>aspetti, sia, abbia, affluissero, agissero, avessero, avvii, avvistasse, conoscessi, continui</em>
 * `EMPTY` (1152): <em>affermato, avere, fatto, detto, far, avuto, fare, portato, partire, portare</em>
 
@@ -40,21 +40,21 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>fanno</em></td><td></td><td></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 92% lemmas (351) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 92% lemmas (350) occur only with one value of `Mood`.
 
 ### `AUX`
 
-858 <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Mood`.
+859 <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (823; 96%), <tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (681; 79%), <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (634; 74%), <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (623; 73%), <tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (590; 69%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (824; 96%), <tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (682; 79%), <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (635; 74%), <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (624; 73%), <tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (591; 69%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (46; 5% of non-empty `Mood`): <em>potrebbe, sarebbe, avrebbe, potrebbero, dovrebbe, avrebbero, dovrebbero, verrebbe, Avrei, Sarei</em>
 * `Imp` (1; 0% of non-empty `Mood`): <em>Devi</em>
-* `Ind` (756; 88% of non-empty `Mood`): <em>è, ha, sono, era, fu, hanno, venne, può, erano, aveva</em>
+* `Ind` (757; 88% of non-empty `Mood`): <em>è, ha, sono, era, fu, hanno, venne, può, erano, aveva</em>
 * `Sub` (55; 6% of non-empty `Mood`): <em>fosse, fossero, abbia, abbiano, possa, sia, avesse, siano, venissero, potesse</em>
-* `EMPTY` (125): <em>essere, stato, stata, aver, stati, state, esser, potuto, avendo, Essendo</em>
+* `EMPTY` (126): <em>essere, stato, stata, aver, stati, state, esser, potuto, avendo, Essendo</em>
 
 <table>
   <tr><th>Paradigm <i>dovere</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>

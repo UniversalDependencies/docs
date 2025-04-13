@@ -45,13 +45,13 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 `DET` tokens may have the following values of `PronType`:
 
 * `Dem` (88; 31% of non-empty `PronType`): <em>to, ty, ta, ten, té, ti, tom, těm, tolik, tolika</em>
-* `Emp` (6; 2% of non-empty `PronType`): <em>sám, Samo, samém</em>
+* `Emp` (7; 2% of non-empty `PronType`): <em>sám, Samo, samém, samý</em>
 * `Ind` (3; 1% of non-empty `PronType`): <em>tolika, nějaké</em>
 * `Int` (4; 1% of non-empty `PronType`): <em>Kteří, jakou, jaké, kolik</em>
 * `Neg` (4; 1% of non-empty `PronType`): <em>žádné, žádný</em>
 * `Prs` (138; 48% of non-empty `PronType`): <em>jeho, své, tvé, náš, jejich, svých, moje, svou, jich, svůj</em>
 * `Rel` (11; 4% of non-empty `PronType`): <em>která, které, jehožto, jejichž, jichž, který, kteří</em>
-* `Tot` (33; 11% of non-empty `PronType`): <em>každý, vše, všechny, všem, vším, každou, všech, všechna, všechno, každé</em>
+* `Tot` (32; 11% of non-empty `PronType`): <em>každý, vše, všechny, všem, vším, každou, všech, všechna, všechno, každé</em>
 * `EMPTY` (2): <em>málo, více</em>
 
 <table>
@@ -102,5 +102,6 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
+<tt>ADV --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%),
 <tt>DET --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> DET</tt> (1; 100%).
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latvian-Cairo: POS Tags: `PART`
 
 There are 4 `PART` lemmas (4%), 4 `PART` types (3%) and 5 `PART` tokens (3%).
-Out of 13 observed tags, the rank of `PART` is: 10 in number of lemmas, 10 in number of types and 10 in number of tokens.
+Out of 13 observed tags, the rank of `PART` is: 10 in number of lemmas, 10 in number of types and 9 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>vai, kaut, ne, tikai</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ne</em> (<tt><a href="lv_cairo-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.102804).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.093458).
 
 The 1st highest number of forms (1) was observed with the lemma “kaut”: <em>kaut</em>.
 
@@ -43,7 +43,7 @@ Examples: <em>Vai, kaut, tikai</em>
 
 ## Relations
 
-`PART` nodes are attached to their parents using 1 different relations: <tt><a href="lv_cairo-dep-discourse.html">discourse</a></tt> (5; 100% instances)
+`PART` nodes are attached to their parents using 3 different relations: <tt><a href="lv_cairo-dep-advmod-emph.html">advmod:emph</a></tt> (2; 40% instances), <tt><a href="lv_cairo-dep-discourse.html">discourse</a></tt> (2; 40% instances), <tt><a href="lv_cairo-dep-advmod-neg.html">advmod:neg</a></tt> (1; 20% instances)
 
 Parents of `PART` nodes belong to 3 different parts of speech: <tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt> (3; 60% instances), <tt><a href="lv_cairo-pos-DET.html">DET</a></tt> (1; 20% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt> (1; 20% instances)
 

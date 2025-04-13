@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pt_petrogold-dep-aux.html">aux</a></tt>.
 
-3634 nodes (1%) are attached to their parents as `aux:pass`.
+3394 nodes (1%) are attached to their parents as `aux:pass`.
 
-3634 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.07182168409466.
+3394 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.10253388332351.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (3627; 100% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (3387; 100% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

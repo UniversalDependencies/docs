@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-116 nodes (0%) are attached to their parents as `fixed`.
+178 nodes (0%) are attached to their parents as `fixed`.
 
-116 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.29310344827586.
+178 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.19101123595506.
 
-The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (87; 75% instances), <tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (25; 22% instances), <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (145; 81% instances), <tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (25; 14% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -67,27 +67,47 @@ The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 fixed	color:blue
-1	Quant	_	SCONJ	CONsub	_	4	mark	_	XmlId=w_28_22837
-2	Morchofles	_	PROPN	NOMpro	_	4	nsubj	_	XmlId=w_28_22838
-3	le	_	PRON	PROper	PronType=Prs	4	obj	_	XmlId=w_28_22839
-4	seut	_	VERB	VERcjg	VerbForm=Fin	7	advcl	_	SpaceAfter=No|XmlId=w_28_22840
-5	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_22841
-6	si	_	ADV	ADVgen	_	7	advmod	_	XmlId=w_28_22842
-7	fist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_22843
-8	monter	_	VERB	VERinf	VerbForm=Inf	7	xcomp	_	XmlId=w_28_22844
-9	bien	_	ADV	ADVgen	_	7	advmod	_	XmlId=w_28_22845
-10	dusques	_	ADP	PRE	_	13	case	_	XmlId=w_28_22846
-11	a	_	ADP	PRE	_	10	fixed	_	XmlId=w_28_22847
-12	.iiij.m.	_	NUM	DETcar	NumType=Card	13	nummod	_	XmlId=w_28_22848
-13	hommes	_	NOUN	NOMcom	_	7	obj	_	XmlId=w_28_22849
-14	a	_	ADP	PRE	_	15	case	_	XmlId=w_28_22850
-15	armes	_	NOUN	NOMcom	_	13	nmod	_	SpaceAfter=No|XmlId=w_28_22851
-16	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_22852
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 fixed	color:blue
+1	car	_	CCONJ	CONcoo	_	17	cc:nc	_	XmlId=w_28_03127
+2	si	_	ADV	ADVgen	_	8	mark	_	XmlId=w_28_03128
+3	tost	_	ADV	ADVgen	_	2	fixed	_	XmlId=w_28_03129
+4	comme	_	SCONJ	CONsub	_	2	fixed	_	XmlId=w_28_03130
+5	vo	_	DET	DETpos	Poss=Yes	6	det	_	XmlId=w_28_03131
+6	message	_	NOUN	NOMcom	_	8	nsubj	_	XmlId=w_28_03132
+7	eurent	_	AUX	VERcjg	VerbForm=Fin	8	aux	_	XmlId=w_28_03133
+8	fait	_	VERB	VERppe	Tense=Past|VerbForm=Part	17	advcl	_	XmlId=w_28_03134
+9	convent	_	NOUN	NOMcom	_	8	obj	_	XmlId=w_28_03135
+10	a	_	ADP	PRE	_	11	case	_	XmlId=w_28_03136
+11	mi	_	PRON	PROper	PronType=Prs	8	obl	_	XmlId=w_28_03137
+12	et	_	CCONJ	CONcoo	_	15	cc	_	XmlId=w_28_03138
+13	a	_	ADP	PRE	_	15	case	_	XmlId=w_28_03139
+14	me	_	DET	DETpos	Poss=Yes	15	det	_	XmlId=w_28_03140
+15	gent	_	NOUN	NOMcom	_	11	conj	_	SpaceAfter=No|XmlId=w_28_03141
+16	,	_	PUNCT	PONfbl	_	17	punct	_	XmlId=w_28_03142
+17	kemandai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_03143
+18	jou	_	PRON	PROper	PronType=Prs	17	nsubj	_	XmlId=w_28_03144
+19	par	_	ADP	PRE	_	22	case	_	XmlId=w_28_03145
+20	tote	_	DET	DETind	PronType=Ind	22	det	_	XmlId=w_28_03146
+21	me	_	DET	DETpos	Poss=Yes	22	det	_	XmlId=w_28_03147
+22	tere	_	NOUN	NOMcom	_	17	obl	_	XmlId=w_28_03148
+23	que	_	SCONJ	CONsub	_	27	mark	_	XmlId=w_28_03149
+24	nus	_	DET	DETind	PronType=Ind	25	det	_	XmlId=w_28_03150
+25	marcaans	_	NOUN	NOMcom	_	27	nsubj	_	XmlId=w_28_03151
+26	n'	_	ADV	ADVneg	Polarity=Neg	27	advmod	_	SpaceAfter=No|XmlId=w_28_03152
+27	alast	_	VERB	VERcjg	VerbForm=Fin	17	ccomp	_	XmlId=w_28_03153
+28	marcaander	_	VERB	VERinf	VerbForm=Inf	27	xcomp	_	SpaceAfter=No|XmlId=w_28_03154
+29	,	_	PUNCT	PONfbl	_	31	punct	_	XmlId=w_28_03155
+30	ains	_	ADV	ADVgen	_	31	advmod	_	XmlId=w_28_03156
+31	aidast	_	VERB	VERcjg	VerbForm=Fin	27	conj	_	XmlId=w_28_03157
+32	a	_	ADP	PRE	_	33	mark	_	XmlId=w_28_03158
+33	apareillier	_	VERB	VERinf	VerbForm=Inf	31	xcomp	_	XmlId=w_28_03159
+34	cheste	_	DET	DETdem	PronType=Dem	35	det	_	XmlId=w_28_03160
+35	navie	_	NOUN	NOMcom	_	33	obj	_	SpaceAfter=No|XmlId=w_28_03161
+36	,	_	PUNCT	PONfbl	_	17	punct	_	XmlId=w_28_03162
 
 ~~~
 

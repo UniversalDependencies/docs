@@ -24,5 +24,5 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 
 * `Form` (66; 93% of non-empty `Polite`): <em>saya, Anda</em>
 * `Infm` (5; 7% of non-empty `Polite`): <em>Aku, kalian, kamu</em>
-* `EMPTY` (1258): <em>yang, nya, ia, mereka, itu, ini, kami, dia, mana, kita</em>
+* `EMPTY` (1259): <em>yang, nya, ia, mereka, itu, ini, kami, dia, mana, kita</em>
 

@@ -30,9 +30,9 @@ The following 1 pairs of parts of speech are connected with `advcl:lcl`: <tt><a 
 5	дорын	дорын	ADP	Adp	AdpType=Post|Case=Ine|Number=Sing	4	case	_	GTtags=Po,Sg,Ine|SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	11	punct	_	_
 7	а	а	CCONJ	CC	_	11	cc	_	_
-8	чӧвтысьяс	чӧвтны	VERB	V	Case=Nom|Derivation=NomAg|Number=Plur	11	nsubj	_	GTtags=TV,Der,Der/ысь,Der/NomAg,N,Pl,Nom
+8	чӧвтысьяс	чӧвтны	VERB	V	Case=Nom|Nomzr=Ag|Number=Plur	11	nsubj	_	GTtags=TV,Der,Der/ысь,Der/NomAg,N,Pl,Nom
 9	да	да	CCONJ	CC	_	10	cc	_	_
-10	сюртчысьяс	сюртчыны	VERB	V	Case=Nom|Derivation=NomAg|Number=Plur	8	conj	_	GTtags=Refl,Der,Der/ысь,Der/NomAg,N,Pl,Nom
+10	сюртчысьяс	сюртчыны	VERB	V	Case=Nom|Nomzr=Ag|Number=Plur	8	conj	_	GTtags=Refl,Der,Der/ысь,Der/NomAg,N,Pl,Nom
 11	мӧдӧдчисны	мӧдӧдчыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	conj	_	GTtags=Refl,Ind,Prt1,Pl3
 12	нин	нин	ADV	Adv	AdvType=Tim	11	advmod:tmod	_	GTtags=Sem/Time
 13	зорӧдъяс	зорӧд	NOUN	N	Case=Nom|Number=Plur	14	nmod:obj	_	GTtags=Pl,Nom

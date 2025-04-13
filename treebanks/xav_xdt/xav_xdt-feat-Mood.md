@@ -23,7 +23,7 @@ The most frequent other feature values with which `PART` and `Mood` co-occurred:
 `PART` tokens may have the following values of `Mood`:
 
 * `Sub` (1; 100% of non-empty `Mood`): <em>da</em>
-* `EMPTY` (377): <em>te, dza'ra, ma, e, hã, wa, norĩ, õ, dza, norĩhã</em>
+* `EMPTY` (381): <em>te, dza'ra, ma, e, hã, wa, norĩ, õ, dza, norĩhã</em>
 
 ### `X`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `X` and `Mood` co-occurred: <t
 `X` tokens may have the following values of `Mood`:
 
 * `Des` (1; 100% of non-empty `Mood`): <em>hö</em>
-* `EMPTY` (57): <em>di, wa'wa, ni, wamhã, 'wa, na, wei</em>
+* `EMPTY` (62): <em>di, wa'wa, ni, wamhã, zaʔra, 'wa, na, u, wei, ʔre</em>
 

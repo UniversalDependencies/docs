@@ -13,7 +13,7 @@ The 10 most frequent `PROPN` lemmas: <em>Deniz, Peter, Mary, Ayşə, Ayhan, Brow
 
 The 10 most frequent `PROPN` types:  <em>Deniz, Denizin, Mary, Ayşə, Peter, Ayhana, Brown, Fәransәnin, Jane, Parisdә</em>
 
-The 10 most frequent ambiguous lemmas: <em>Deniz</em> (<tt><a href="az_tuecl-pos-PROPN.html">PROPN</a></tt> 44, <tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> 1), <em>_</em> (<tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="az_tuecl-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt> 1), <em>ev</em> (<tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> 21, <tt><a href="az_tuecl-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>Deniz</em> (<tt><a href="az_tuecl-pos-PROPN.html">PROPN</a></tt> 44, <tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> 1), <em>_</em> (<tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="az_tuecl-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="az_tuecl-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="az_tuecl-pos-VERB.html">VERB</a></tt> 1), <em>ev</em> (<tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> 21, <tt><a href="az_tuecl-pos-PROPN.html">PROPN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>Deniz</em> (<tt><a href="az_tuecl-pos-PROPN.html">PROPN</a></tt> 42, <tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> 1), <em>Ayşə</em> (<tt><a href="az_tuecl-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> 1)
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>Deniz</em> (<tt><a href="az_tuecl-pos
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.142857 (the average of all parts of speech is 1.455645).
+The form / lemma ratio of `PROPN` is 1.142857 (the average of all parts of speech is 1.446215).
 
 The 1st highest number of forms (4) was observed with the lemma “Peter”: <em>Peter, Peterdendir, Peterin, Peterinәn</em>.
 

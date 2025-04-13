@@ -24,4 +24,4 @@ Adposition is a cover term for prepositions and postpositions. Adpositions belon
 - after : <b>After</b> dey don drink finish.
 - under : And people dey live <b>under</b> one illusion.
 - up : You wake <b>up</b> di next morning.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:33 CEST -->
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:18 CET -->
