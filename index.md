@@ -23,13 +23,17 @@ If you are new to UD, you should start by reading the first part of the Short In
 </tr>
 <tr>
   <td><a href="guidelines.html">Annotation guidelines</a></td>
-  <td><a href="download.html">Download UD treebanks</a> ☞ <a href="http://hdl.handle.net/11234/1-5787">Version 2.15</a> <small>(296 treebanks, 168 languages; released November 15, 2024)</small></td>
+  <td rowspan="2"><a href="download.html">Download UD treebanks</a> ☞ <a href="http://hdl.handle.net/11234/1-5787">Version 2.15</a> <small>(296 treebanks, 168 languages; released November 15, 2024)</small></td>
   <td><a href="changes.html">Changes to the UD guidelines</a></td>
 </tr>
 <tr>
   <td><a href="events.html">Tutorials and events</a></td>
-  <td><a href="tools.html">Tools for working with UD</a></td>
+  <td><a href="https://lists.uu.se/sympa/info/lingfil-ud">UD mailing list</a></td>
+</tr>
+<tr>
   <td>&nbsp;</td>
+  <td><a href="tools.html">Tools for working with UD</a></td>
+  <td><a href="https://github.com/universaldependencies/docs/issues">Guidelines issue tracker</a></td>
 </tr>
 <tr>
 <th colspan="3"><h3>🚀 Projects related to UD</h3></th></tr>
@@ -47,11 +51,6 @@ If you are new to UD, you should start by reading the first part of the Short In
  <a href="https://unidive.lisn.upsaclay.fr/doku.php?id=start">UniDive COST Action</a>
 </td></tr>
 </table>
-
-If you want to receive news about Universal Dependencies, you can subscribe to the
-[UD mailing list](https://lists.uu.se/sympa/info/lingfil-ud).
-If you want to discuss individual annotation questions, use the
-[Github issue tracker](https://github.com/universaldependencies/docs/issues).
 
 ## Current UD Languages
 
