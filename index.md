@@ -13,27 +13,25 @@ an open community effort with over 600 contributors producing over 200 treebanks
 If you are new to UD, you should start by reading the first part of the Short Introduction and then browsing the annotation guidelines.
 
 <table><tr>
- <th>Understanding UD</th>
- <th>Using UD</th>
- <th>Contributing to UD</th>
+ <th><h3>💡 Understanding UD</h3></th>
+ <th><h3>🔍 Using UD</h3></th>
+ <th><h3>🔨 Contributing to UD</h3></th>
 </tr><tr>
 <td>
-
-  * [Short introduction to UD](introduction.html)
-  * [Annotation guidelines](guidelines.html)
-  * [Tutorials and events](events.html)
+  <p><a href="introduction.html">Short introduction to UD</a></p>
+  <p><a href="guidelines.html">Annotation guidelines</a></p>
+  <p><a href="events.html">Tutorials and events</a></p>
 </td><td>
- 
-  * [Query UD treebanks online](query.html)
-  * [Download UD treebanks](download.html) ☞ [Version 2.15](http://hdl.handle.net/11234/1-5787) <small>(296 treebanks, 168 languages; released November 15, 2024)</small>
-  * [Tools for working with UD](tools.html)
-
+ <p><a href="query.html">Query UD treebanks online</a></p>
+ <p><a href="download.html">Download UD treebanks</a> ☞ <a href="http://hdl.handle.net/11234/1-5787">Version 2.15</a> <small>(296 treebanks, 168 languages; released November 15, 2024)</small></p>
+ <p><a href="tools.html">Tools for working with UD</a></p>
 </td><td>
-
- * [How to contribute to UD](contribute.html)
-  * [Changes to the UD guidelines](changes.html)
-</td></tr><tr>
-<th colspan="3">Projects related to UD</th></tr>
+ <p><a href="contribute.html">How to contribute to UD</a></p>
+ <p><a href="changes.html">Changes to the UD guidelines</a></p>
+</td></tr>
+   <!-- TODO
+   <tr>
+<th colspan="3"><h3>🚀 Projects related to UD</h3></th></tr>
 <tr><td colspan="3">
 
  [SUD: Surface Syntactic Universal Dependencies](https://surfacesyntacticud.github.io/) ▪
@@ -48,7 +46,8 @@ If you are new to UD, you should start by reading the first part of the Short In
  [PARSEME: Multiword expressions](https://gitlab.com/parseme/corpora/-/wikis/home) ▪
  [UniDive COST Action](https://unidive.lisn.upsaclay.fr/doku.php?id=start)
 
-</td></tr></table>
+</td></tr>-->
+</table>
 
 If you want to receive news about Universal Dependencies, you can subscribe to the
 [UD mailing list](https://lists.uu.se/sympa/info/lingfil-ud).
