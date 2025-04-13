@@ -13,40 +13,39 @@ an open community effort with over 600 contributors producing over 200 treebanks
 If you are new to UD, you should start by reading the first part of the Short Introduction and then browsing the annotation guidelines.
 
 <table><tr>
- <th><h3>💡 Understanding UD</h3></th>
- <th><h3>🔍 Using UD</h3></th>
- <th><h3>🔨 Contributing to UD</h3></th>
+ <th><h3>💡&nbsp;Understanding&nbsp;UD</h3></th>
+ <th><h3>🔍&nbsp;Using UD</h3></th>
+ <th><h3>🔨&nbsp;Contributing&nbsp;to&nbsp;UD</h3></th>
 </tr><tr>
-<td>
-  <p><a href="introduction.html">Short introduction to UD</a></p>
-  <p><a href="guidelines.html">Annotation guidelines</a></p>
-  <p><a href="events.html">Tutorials and events</a></p>
-</td><td>
- <p><a href="query.html">Query UD treebanks online</a></p>
- <p><a href="download.html">Download UD treebanks</a> ☞ <a href="http://hdl.handle.net/11234/1-5787">Version 2.15</a> <small>(296 treebanks, 168 languages; released November 15, 2024)</small></p>
- <p><a href="tools.html">Tools for working with UD</a></p>
-</td><td>
- <p><a href="contribute.html">How to contribute to UD</a></p>
- <p><a href="changes.html">Changes to the UD guidelines</a></p>
-</td></tr>
-   <!-- TODO
-   <tr>
+ <td><a href="introduction.html">Short introduction to UD</a></td>
+ <td><a href="query.html">Query UD treebanks online</a></td>
+ <td><a href="contribute.html">How to contribute to UD</a></td>
+</tr>
+<tr>
+  <td><a href="guidelines.html">Annotation guidelines</a></td>
+  <td><a href="download.html">Download UD treebanks</a> ☞ <a href="http://hdl.handle.net/11234/1-5787">Version 2.15</a> <small>(296 treebanks, 168 languages; released November 15, 2024)</small></td>
+  <td><a href="changes.html">Changes to the UD guidelines</a></td>
+</tr>
+<tr>
+  <td><a href="events.html">Tutorials and events</a></td>
+  <td><a href="tools.html">Tools for working with UD</a></td>
+  <td>&nbsp;</td>
+</tr>
+<tr>
 <th colspan="3"><h3>🚀 Projects related to UD</h3></th></tr>
 <tr><td colspan="3">
-
- [SUD: Surface Syntactic Universal Dependencies](https://surfacesyntacticud.github.io/) ▪
- [Deep Universal Dependencies](https://ufal.mff.cuni.cz/deep-universal-dependencies) ▪
- [Universal PropBank](https://universalpropositions.github.io/) ▪
- [CorefUD: Coreference in Universal Dependencies](https://ufal.mff.cuni.cz/corefud) ▪
- [UNER: Universal Named Entity Recognition](https://www.universalner.org/) ▪
- [UMR: Uniform Meaning Representation](https://umr4nlp.github.io/web/) ▪
- [UniMorph](https://unimorph.github.io/) ▪
- [UDMorph](https://lindat.mff.cuni.cz/services/teitok-live/udmorph/) ▪
- [UDer: Universal Derivations](https://ufal.mff.cuni.cz/universal-derivations) ▪
- [PARSEME: Multiword expressions](https://gitlab.com/parseme/corpora/-/wikis/home) ▪
- [UniDive COST Action](https://unidive.lisn.upsaclay.fr/doku.php?id=start)
-
-</td></tr>-->
+ <a href="https://surfacesyntacticud.github.io/">SUD: Surface Syntactic Universal Dependencies</a> ▪
+ <a href="https://ufal.mff.cuni.cz/deep-universal-dependencies">Deep Universal Dependencies</a> ▪
+ <a href="https://universalpropositions.github.io/">Universal PropBank</a> ▪
+ <a href="https://ufal.mff.cuni.cz/corefud">CorefUD: Coreference in Universal Dependencies</a> ▪
+ <a href="https://www.universalner.org/">UNER: Universal Named Entity Recognition</a> ▪
+ <a href="https://umr4nlp.github.io/web/">UMR: Uniform Meaning Representation</a> ▪
+ <a href="https://unimorph.github.io/">UniMorph</a> ▪
+ <a href="https://lindat.mff.cuni.cz/services/teitok-live/udmorph/">UDMorph</a> ▪
+ <a href="https://ufal.mff.cuni.cz/universal-derivations">UDer: Universal Derivations</a> ▪
+ <a href="https://gitlab.com/parseme/corpora/-/wikis/home">PARSEME: Multiword expressions</a> ▪
+ <a href="https://unidive.lisn.upsaclay.fr/doku.php?id=start">UniDive COST Action</a>
+</td></tr>
 </table>
 
 If you want to receive news about Universal Dependencies, you can subscribe to the
