@@ -23,7 +23,8 @@ If you are new to UD, you should start by reading the first part of the Short In
 </tr>
 <tr>
   <td><a href="guidelines.html">Annotation guidelines</a></td>
-  <td rowspan="2"><a href="download.html">Download UD treebanks</a> ☞ <a href="http://hdl.handle.net/11234/1-5787">Version 2.15</a> <small>(296 treebanks, 168 languages; released November 15, 2024)</small></td>
+  <td rowspan="2">Download UD treebanks: <a href="download.html">all releases</a><br/>
+                  ☞ <a href="http://hdl.handle.net/11234/1-5787">Release 2.15</a> <small>(November 15, 2024)</small></td>
   <td><a href="changes.html">Changes to the UD guidelines</a></td>
 </tr>
 <tr>
