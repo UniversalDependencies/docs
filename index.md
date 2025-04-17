@@ -12,9 +12,9 @@ an open community effort with over 600 contributors producing over 200 treebanks
 If you are new to UD, you should start by reading the first part of the Short Introduction and then browsing the annotation guidelines.
 
 <table><tr>
- <th><h3>💡&nbsp;Understanding&nbsp;UD</h3></th>
- <th><h3>🔍&nbsp;Using UD</h3></th>
- <th><h3>🔨&nbsp;Contributing&nbsp;to&nbsp;UD</h3></th>
+ <th style="text-align:left" width="33%"><h3>💡&nbsp;Understanding&nbsp;UD</h3></th>
+ <th style="text-align:left" width="33%"><h3>🔍&nbsp;Using UD</h3></th>
+ <th style="text-align:left" width="33%"><h3>🔨&nbsp;Contributing&nbsp;to&nbsp;UD</h3></th>
 </tr><tr>
  <td><a href="introduction.html">Short introduction to UD</a></td>
  <td><a href="query.html">Query UD treebanks online</a></td>
@@ -36,7 +36,7 @@ If you are new to UD, you should start by reading the first part of the Short In
   <td><a href="https://github.com/universaldependencies/docs/issues">Guidelines issue tracker</a></td>
 </tr>
 <tr>
-<th colspan="3"><h3>🚀 Projects related to UD</h3></th></tr>
+<th colspan="3" style="text-align:left"><h3>🚀 Projects related to UD</h3></th></tr>
 <tr><td colspan="3">
  <a href="https://surfacesyntacticud.github.io/">SUD: Surface Syntactic Universal Dependencies</a> ▪
  <a href="https://ufal.mff.cuni.cz/deep-universal-dependencies">Deep Universal Dependencies</a> ▪
