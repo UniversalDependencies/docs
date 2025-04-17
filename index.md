@@ -22,17 +22,17 @@ If you are new to UD, you should start by reading the first part of the Short In
  <td><a href="contribute.html">How to contribute to UD</a></td>
 </tr>
 <tr>
-  <td><a href="guidelines.html">Annotation guidelines</a></td>
+  <td rowspan="2"><a href="guidelines.html">Annotation guidelines</a><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="u/pos/index.html">UPOS tags</a> ▪ <a href="u/feat/index.html">feats</a> ▪ <a href="u/dep/index.html">deprels</a> ▪ <a href="format.html">CoNLL-U format</a></td>
   <td rowspan="2">Download UD treebanks: <a href="download.html">all releases</a><br/>
                   ☞ <a href="http://hdl.handle.net/11234/1-5787">Release 2.15</a> <small>(November 15, 2024)</small></td>
   <td><a href="changes.html">Changes to the UD guidelines</a></td>
 </tr>
 <tr>
-  <td><a href="events.html">Tutorials and events</a></td>
   <td><a href="https://lists.uu.se/sympa/info/lingfil-ud">UD mailing list</a></td>
 </tr>
 <tr>
-  <td>&nbsp;</td>
+  <td><a href="events.html">Tutorials and events</a></td>
   <td><a href="tools.html">Tools for working with UD</a></td>
   <td><a href="https://github.com/universaldependencies/docs/issues">Guidelines issue tracker</a></td>
 </tr>
