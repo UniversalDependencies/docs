@@ -12,7 +12,7 @@ an open community effort with over 600 contributors producing over 200 treebanks
 If you are new to UD, you should start by reading the first part of the Short Introduction and then browsing the annotation guidelines.
 
 <table><tr>
- <th style="text-align:left" width="33%"><h3 style="margin-bottom: 0.25em">💡&nbsp;Understanding&nbsp;UD</h3></th>
+ <th style="text-align:left" width="34%"><h3 style="margin-bottom: 0.25em">💡&nbsp;Understanding&nbsp;UD</h3></th>
  <th style="text-align:left" width="33%"><h3 style="margin-bottom: 0.25em">🔍&nbsp;Using UD</h3></th>
  <th style="text-align:left" width="33%"><h3 style="margin-bottom: 0.25em">🔨&nbsp;Contributing&nbsp;to&nbsp;UD</h3></th>
 </tr><tr>
@@ -22,7 +22,7 @@ If you are new to UD, you should start by reading the first part of the Short In
 </tr>
 <tr>
   <td rowspan="2" style="padding-left: 1em"><a href="guidelines.html">Annotation guidelines</a><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp; <a href="u/pos/index.html">UPOS tags</a> ▪ <a href="u/feat/index.html">feats</a> ▪ <a href="u/dep/index.html">deprels</a> ▪ <a href="format.html">CoNLL-U format</a></td>
+  &nbsp;&nbsp;&nbsp;<a href="u/pos/index.html">UPOS tags</a> ▪ <a href="u/feat/index.html">feats</a> ▪ <a href="u/dep/index.html">deprels</a> ▪ <a href="format.html">CoNLL-U format</a></td>
   <td rowspan="2" style="padding-left: 1em">Download UD treebanks: <a href="download.html">all releases</a><br/>
                   ☞ <a href="http://hdl.handle.net/11234/1-5787">Release 2.15</a> <small>(November 15, 2024)</small></td>
   <td style="padding-left: 1em"><a href="changes.html">Changes to the UD guidelines</a></td>
