@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'Comparative Constructions'
+permalink: u/overview/comparatives.html
 udver: '2'
 ---
 
