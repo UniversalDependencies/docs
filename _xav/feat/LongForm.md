@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Ego'
-shortdef: 'ehophoricity'
+title: 'LongForm'
+shortdef: 'LongForm'
 udver: '2'
 ---
 
@@ -16,12 +16,11 @@ udver: '2'
 
 ### <a name="Yes">`Yes`</a>: Yes
 
-Egophoricity is marked by a particle _`wa`_.
+The long form of the verb
 
 #### Examples
 
-* _Ĩhe, <b>wa</b> romhu_&nbsp; “Yes I work.”
-* _Ĩhe, <b>wa</b> norĩhã wa wapari dza'ra ni._&nbsp; “Yes, we heard.”
+* _ <b></b> _&nbsp; “.”
 
 
 ## Diffs
