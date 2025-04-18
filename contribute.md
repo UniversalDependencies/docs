@@ -6,16 +6,24 @@ udver: '2'
 
 # How to contribute to UD
 
+### Current Data
+
 * **Obtaining data:** The latest official version of UD treebanks can be [downloaded](http://universaldependencies.org#download) from LINDAT/CLARIN.
   If you prefer to access treebanks via GitHub repositories, make sure you work with the **master** branch, which corresponds to the latest official release.
+
+### Documentation and Discussion
 
 * **Feedback and discussion:** The [issue tracker](https://github.com/universaldependencies/docs/issues) provides a forum for discussion of UD guidelines or treebanks.
   Any issues related to documentation and guidelines, even specific to one language, belong to the issue tracker of the docs repository.
   Issue trackers of individual treebank repositories should be used only to report bugs in those treebanks.
   You can also send an e-mail to the [UD mailing list](https://lists.uu.se/sympa/info/lingfil-ud); however, the list is primarily meant for announcements for data maintainers.
 
-* **Guidelines edits:** Language-specific documentation pages can be modified via the **edit** link at the top of the page.
+* **Language-specific guidelines:** Language-specific documentation pages can be modified via the **edit** link at the top of the page.
   There are also technical instructions for how to create [language-specific documentation](contributing_language_specific.html).
+
+* **Changes to general guidelines:** [Guidelines change history](changes.html)
+
+### Contributing Data
 
 * **New contributions:** If you want to start a treebank or contribute to a release, please see:
    - Advice on [how to start](how_to_start.html) a new treebank
