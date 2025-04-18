@@ -21,19 +21,19 @@ If you are new to UD, you should start by reading the first part of the Short In
  <td style="padding-left: 1em"><a href="contribute.html">How to contribute to UD</a></td>
 </tr>
 <tr>
-  <td rowspan="2" style="padding-left: 1em"><a href="guidelines.html">Annotation guidelines</a><br/>
+  <td rowspan="2" style="padding-left: 1em"><a href="guidelines.html">Annotation guidelines</a> (<a href="changes.html">changes</a>)<br/>
   &nbsp;&nbsp;&nbsp;<a href="u/pos/index.html">UPOS tags</a> ▪ <a href="u/feat/index.html">feats</a> ▪ <a href="u/dep/index.html">deprels</a> ▪ <a href="format.html">CoNLL-U format</a></td>
   <td rowspan="2" style="padding-left: 1em">Download UD treebanks: <a href="download.html">all releases</a><br/>
                   ☞ <a href="http://hdl.handle.net/11234/1-5787">Release 2.15</a> <small>(November 15, 2024)</small></td>
-  <td style="padding-left: 1em"><a href="changes.html">Changes to the UD guidelines</a></td>
+  <td style="padding-left: 1em"><a href="https://lists.uu.se/sympa/info/lingfil-ud">UD mailing list</a></td>
 </tr>
 <tr>
-  <td style="padding-left: 1em"><a href="https://lists.uu.se/sympa/info/lingfil-ud">UD mailing list</a></td>
+  <td style="padding-left: 1em"><a href="https://github.com/universaldependencies/docs/issues">Guidelines issue tracker</a></td>
 </tr>
 <tr>
   <td style="padding-left: 1em"><a href="events.html">Tutorials and events</a></td>
   <td style="padding-left: 1em"><a href="tools.html">Tools for working with UD</a></td>
-  <td style="padding-left: 1em"><a href="https://github.com/universaldependencies/docs/issues">Guidelines issue tracker</a></td>
+  <td style="padding-left: 1em">&nbsp;</td>
 </tr>
 <tr>
 <th colspan="3" style="text-align:left"><h3 style="margin-bottom: 0.25em">🚀 Projects related to UD</h3></th></tr>
