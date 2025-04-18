@@ -4,6 +4,12 @@ title:  'Construction-Oriented Documentation'
 udver: '2'
 ---
 
+Note: This page was started as an incubator for the construction-oriented documentation of the UD guidelines.
+It was started by Dan and Joakim during Dan's visit in Uppsala in 2018. The list on this index page indicates
+topics that we thought would have to be covered. Only a few of the pages were written before the effort got
+stalled, though. On the other hand, some of the newly written pages have been approved and elevated to the
+main guidelines. In such cases the links from this index should lead up to the main guidelines.
+
 # Construction-Oriented Documentation
 
 * [Simple verbal clauses](simple_verbal_clauses.html) (intransitive, transitive; core vs. oblique arguments)
@@ -48,7 +54,7 @@ udver: '2'
     * Multi-word named entities
   * Apposition
   * (All of the above should be compared to `nmod` and the dividing line should be drawn.)
-* [Comparative constructions](comparatives.html)
+* [Comparative constructions](/u/overview/comparatives.html)
 * Ellipsis
 * Punctuation
 * Other relations not covered by the above
