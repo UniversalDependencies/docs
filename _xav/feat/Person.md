@@ -9,17 +9,41 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Yes">Non1</a></td>
+  <td><a href="#Yes">1</a></td>
+  <td><a href="#Yes">2</a></td>
+  <td><a href="#Yes">3</a></td>
   
 </tr>
 </table>
 
-`Non1` Refers to auxiliaries that mark tense and person.
+`Non1` refers to auxiliaries that mark tense and person.
 
 ### <a name="Non1">`Non1`</a>: Non1
 
 #### Examples
 
 * _aŋ<b>a hã te imadö</b> aŋ pazaru_&nbsp; “You see me.”
+
+`1` 
+
+### <a name="1">`1`</a>: 1
+
+#### Examples
+
+* _aŋ<b></b> aŋ pazaru_&nbsp; “.”
+
+### <a name="2">`2`</a>: 2
+
+#### Examples
+
+* _aŋ<b></b> aŋ pazaru_&nbsp; “.”
+
+### <a name="3">`3`</a>: 3
+
+#### Examples
+
+* _aŋ<b></b> aŋ pazaru_&nbsp; “.”
+
 
 
 ## Diffs
