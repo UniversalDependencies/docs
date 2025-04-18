@@ -52,6 +52,14 @@ If you are new to UD, you should start by reading the first part of the Short In
 </td></tr>
 </table>
 
+<h3 style="margin-bottom: 0.25em">📖 Overview Publications</h3>
+<dl>
+  <dt><strong>Linguistic framework</strong></dt>
+  <dd>Marie-Catherine de Marneffe, Christopher Manning, Joakim Nivre, and Daniel Zeman (2021). <a href="https://doi.org/10.1162/coli_a_00402">Universal Dependencies</a>. <i>Computational Linguistics</i> 47(2): 255–308.</dd>
+  <dt><strong>Treebank data</strong></dt>
+  <dd>Joakim Nivre, Marie-Catherine de Marneffe, Filip Ginter, Jan Hajič, Christopher Manning, Sampo Pyysalo, Sebastian Schuster, Francis Tyers, and Daniel Zeman (2020). <a href="https://aclanthology.org/2020.lrec-1.497/">Universal Dependencies v2: An Evergrowing Multilingual Treebank Collection</a>. <i>Proceedings of the 12th International Conference on Language Resources and Evaluation (LREC 2020)</i>, pp. 4034–4043, Marseille, France.</dd>
+</dl>
+
 ## Current UD Languages
 
 <small>Information about language families (and genera for families with multiple branches) is mostly taken from
