@@ -13,7 +13,7 @@ udver: '2'
 </tr>
 </table>
 
-`Emph` intensifies the expression by suggesting a contrast or giving weight to a certain word.
+`Non1` Refers to auxiliaries that mark tense and person.
 
 ### <a name="Yes">`Non1`</a>: Non1
 
