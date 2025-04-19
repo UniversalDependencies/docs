@@ -39,7 +39,7 @@ There are now hundreds of publications on various aspects and uses of UD, rangin
 constructing UD treebanks for particular languages to approaches to multilingual syntactic parsing
 to crosslinguistic psycholinguistic studies enabled by the common representation of UD.
 A few key references are listed below. Many other publications about UD can be found in the references of these papers;
-via the Universal Dependencies Workshops ([proceedings on the ACL Anthology](https://universaldependencies.org/events.html)) and other [events](events.html);
+via the Universal Dependencies Workshops ([proceedings on the ACL Anthology](https://aclanthology.org/venues/udw/)) and other [events](events.html);
 or by [searching for “Universal Dependencies” on Google Scholar](https://scholar.google.com/scholar?q=%22Universal+dependencies%22).
 
 ### Recent Overviews
