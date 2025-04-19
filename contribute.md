@@ -8,7 +8,7 @@ udver: '2'
 
 ### Current Data
 
-* **Obtaining data:** The latest official version of UD treebanks can be [downloaded](http://universaldependencies.org#download) from LINDAT/CLARIN.
+* **Obtaining data:** The latest official version of UD treebanks can be [downloaded](download.html) from LINDAT/CLARIN.
   If you prefer to access treebanks via GitHub repositories, make sure you work with the **master** branch, which corresponds to the latest official release.
 
 ### Documentation and Discussion
