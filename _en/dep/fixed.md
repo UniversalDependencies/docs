@@ -9,14 +9,14 @@ The `fixed` relation is used for certain fixed grammaticized expressions that be
 like function words or short adverbials, and for which a unique head cannot be identified.
 These are a _subset_ of multiword expressions that are morphosyntactically "fixed"
 in that they resist internal modification and inflection.
-(Compare: [flat]() for headless expressions not behaving like function words; 
-[compound]() for headed expressions that morphosyntactically resemble single words; 
+(Compare: [flat]() for headless expressions not behaving like function words;
+[compound]() for headed expressions that morphosyntactically resemble single words;
 and [goeswith]() for words that contain improper spacing.)
 
 Fixed expressions are annotated in a flat, head-initial structure, in which all words in the expression modify the first one using the
 `fixed` label. The first word bears the [ExtPos]() feature indicating the holistic category of the expression.
 
-At present, this relation is used inside the following expressions, semantically grouped for convenience: 
+At present, this relation is used inside the following expressions, semantically grouped for convenience:
 
 | Category | Expressions |
 |----------|-------------|
@@ -439,7 +439,7 @@ Get off of that !
 nmod(Get, that)
 case(that, off)
 case(that, of)
-~~~ 
+~~~
 
 *by far*
 
@@ -558,7 +558,7 @@ obl(compared, one)
 case(one, to)
 ~~~
 
-*as soon as*, *as long as* (standard [comparative analysis](/u/overview/specific-syntax.html#comparatives); contrast coordinating *as well as* above)
+*as soon as*, *as long as* (standard [comparative analysis](/u/overview/comparatives.html); contrast coordinating *as well as* above)
 
 ~~~ sdparse
 Let 's leave as soon as it ends .

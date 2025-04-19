@@ -165,7 +165,7 @@ nsubj(vendus.,produits)
 ## Comparatives
 
 In comparative constructions, the adjective is the head. It governs the comparative adverb (_plus_, _moins_, _aussi_ etc.) with an [fr-dep/advmod]() link. The comparison element introduced by _que_ is analyzed with [fr-dep/advcl] and is a dependent of the adjective. _que_ is analyzed with [fr-dep/mark]().
-N.B.: Here is the [universal page](http://universaldependencies.org/u/overview/specific-syntax.html#comparatives) for the analysis of comparatives
+N.B.: Here is the [universal page](/u/overview/comparatives.html) for the analysis of comparatives
 
 ~~~ sdparse
 Mathilde est plus gentille que tu ne le penses. \n Mathilde is kinder than you think.
