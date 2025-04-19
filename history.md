@@ -30,8 +30,8 @@ Publications have detailed the version 2 linguistic framework (de Marneffe et al
 See also:
 
 - [Guidelines changes](changes.html)
-- [Release history](releases.html)
-- [Tutorials and events](events.html)
+- [Release history](download.html)
+- [Events](events.html)
 
 ## Selected Publications
 
