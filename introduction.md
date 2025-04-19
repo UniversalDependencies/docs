@@ -82,44 +82,6 @@ is a very subtle compromise between approximately 6 things:
 
 It's easy to come up with a proposal that improves UD on one of these dimensions. The interesting and difficult part is to improve UD while remaining sensitive to all these dimensions.
 
-## History
-
-The Stanford dependencies were originally developed in 2005 as a backend to the Stanford parser
-to help in Recognizing Textual Entailment systems,
-then eventually emerged as the de facto standard for dependency analysis of English, and have since
-been adapted to a number of different languages (Chang et al., 2009, Bosco et al., 2013, Haverinen et al., 2013,
-Seraji et al., 2013, Tsarfaty, 2013, Lipenkova and Souček 2014).
-The Google universal tag set grew out of the cross-linguistic error analysis based on the
-CoNLL-X shared task data by McDonald and Nivre (2007), was initially used for unsupervised
-part-of-speech tagging by Das and Petrov (2011), and has since been adopted as a widely used
-standard for mapping diverse tagsets to a common standard.
-The Interset (Zeman, 2008) started as a tool for conversion between morphosyntactic tagsets of multiple languages.
-It dates back to 2006 when it was used in the first experiments with cross-lingual delexicalized parser adaptation
-(Zeman and Resnik, 2008). It was later employed as the morphological layer in HamleDT (Zeman et al., 2014) –
-a project that brings treebanks of many languages under a common annotation scheme.
-
-The first attempt to combine Stanford dependencies and Google universal tags into a universal
-annotation scheme was the Universal Dependency Treebank (UDT) project (McDonald et al., 2013),
-which released treebanks for 6 languages in 2013 and 11 languages in 2014, and the first proposal
-for incorporating morphology was made by Tsarfaty (2013). The second version of HamleDT (Rosa et al., 2014)
-provided Stanford/Google annotation for 30 languages in 2014. This was followed by the development of
-universal Stanford dependencies (USD) (de Marneffe et al., 2014).
-The new Universal Dependencies is the result of merging all these initiatives into a single coherent framework,
-based on universal Stanford dependencies, an extended version of the Google universal tagset, a revised
-subset of the Interset feature inventory, and a revised version of the CoNLL-X format (called CoNLL-U).
-
-The first version of the new guidelines, released in October 2014, introduced a somewhat extended universal
-part-of-speech tag set. This set makes some distinctions that were missing in the original proposal, but
-were perceived to be of importance by many, and clarifies the definition of categories. As a result of this work,
-universal POS categories have substantive definitions and are not necessarily just equivalence classes
-of categories in underlying language-particular treebanks. Hence, work to convert to UD POS tags often
-requires context-sensitive rules, or some hand correction. The UD morphological features aim to provide a
-stripped down basic set of features which are most crucial for analysis and are widespread across languages.
-The dependency representation of UD evolves out of Stanford Dependencies (SD), which itself follows ideas
-of grammatical relations-focused description that can be found in many linguistic frameworks. That is,
-it is centrally organized around notions of subject, object, clausal complement, noun determiner, noun modifier, etc.
-The goal of the new universal version was to add or refine relations to better accommodate the grammatical structures of typologically different languages and to clean up some of the quirkier and more English-specific features of the original version. Hence, the new taxonomy has _less_ relations than the original SD.
-
 ## Project organization
 
 UD is an open collaboration with many project members. The administrative structure is kept at a minimum and currently consists of the following:
@@ -132,6 +94,11 @@ UD is an open collaboration with many project members. The administrative struct
 
 [List of contributors](contributors.html)
 
+## History and publications
+
+- [History of the UD project](history.html)
+
+<!--
 ## UD-related publications
 
 ### 2021
@@ -365,3 +332,4 @@ Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proc
 * Daniel Zeman, and Philip Resnik. 2008. [Cross-Language Parser Adaptation between Related
   Languages](http://ufal.mff.cuni.cz/~zeman/publikace/2008-01/padapt-hyderabad-05c-postfinal.pdf).
   In *Proceedings of IJCNLP 2008 Workshop on NLP for Less Privileged Languages*
+-->
