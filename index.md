@@ -16,7 +16,7 @@ If you are new to UD, you should start by reading the first part of the Short In
  <th style="text-align:left" width="33%"><h3 style="margin-bottom: 0.25em">🔍&nbsp;Using UD</h3></th>
  <th style="text-align:left" width="33%"><h3 style="margin-bottom: 0.25em">🔨&nbsp;Contributing&nbsp;to&nbsp;UD</h3></th>
 </tr><tr>
- <td style="padding-left: 1em"><a href="introduction.html">Short introduction to UD</a></td>
+ <td style="padding-left: 1em"><a href="introduction.html">Short introduction to UD</a> (<a href="history.html">history</a>)</td>
  <td style="padding-left: 1em"><a href="query.html">Query UD treebanks online</a></td>
  <td style="padding-left: 1em"><a href="contribute.html">How to contribute to UD</a></td>
 </tr>
