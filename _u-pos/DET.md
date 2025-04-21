@@ -41,7 +41,7 @@ of determiners should be tagged `DET` in these languages as well.
 
 It is not always crystal clear where pronouns end and determiners start.
 Unlike in UD v1 it is no longer required that they are told apart solely on
-the base of the context. The words can be pre-classified in the dictionary
+the basis of the context. The words can be pre-classified in the dictionary
 as either `PRON` or `DET`, based on their _typical_ syntactic distribution
 (and morphology, when applicable).
 Language-specific documentation should list all determiners (it is a closed class)
