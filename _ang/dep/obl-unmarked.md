@@ -13,7 +13,7 @@ it has no adposition.
 Examples include:
 
 ~~~ sdparse
-Þis ærend-ƿrit is fram Petere and hit ƿæs ȝebroht ȝierstan-dæg .\n This letter is from Peter and it was brought yesterday.
+Þis ærend-ƿrit is fram Petere and hit ƿæs ȝebroht ȝierstan-dæg . \n This letter is from Peter and it was brought yesterday.
 obl:unmarked(ȝebroht, ȝierstan-dæg)
 ~~~
 
