@@ -25,21 +25,22 @@ udver: '2'
 
 Case is an inflectional feature of nominals ([NOUN](), [PRON](), [PROPN]()) and other parts of speech ([ADJ](), [DET](), [NUM]()) when they are at the end of a noun phrase. The locative case can also be used on postpositions ([ADP]()).
 
-Case helps specify the role of the noun phrase in the sentence. Within the corpus, we identify seven distinct cases in Suansu: `Erg`, `Top`, `Gen`, `Dat`, `Abl`, `Loc`, and `Ben`.
+Case helps specify the role of the noun phrase in the sentence. Within the corpus, we identify seven distinct cases in Naga-Suansu: `Erg`, `Top`, `Gen`, `Dat`, `Abl`, `Loc`, and `Ben`.
 
-Additionally, Suansu allows case stacking (*Suffixaufnahme*, Plank 1985).
+Additionally, Naga-Suansu allows case stacking (*Suffixaufnahme*, Plank 1985).
 
 ### <a name="Erg">`Erg`</a>: ergative
 
-The ergative case marks the subject of transitive verb. The ergative marker in Suansu is **nan**.
+The ergative case marks the subject of transitive verb. The ergative marker in Naga-Suansu is **nan**.
 
 #### Examples
 
 * _<b>Peternan</b> thungzadi thewungae._ "**Peter** bent the branch."
 
-### <a name="Top">`Top`</a>: topic
+### <a name="Top">`Top`</a>: 
 
-Suansu object marker is **di**. The marker **di** is also found in subject position when it singles out specific referents. It is not an absolutive marker, as it is not found on subject position of intransitive verbs. For the purpose of UD annotations, we annotate **di** as topic marker, and describe the syntactic role depending on the specific context.
+The topic case marks what the sentence is about, by singling out a referent. The topic marker in Naga-Suansu is _-di_.
+
 
 #### Examples
 
@@ -47,13 +48,11 @@ Suansu object marker is **di**. The marker **di** is also found in subject posit
 
 * _Tye <b>szwadi</b> bathanahn nungai rahn._ "**The wedding** will be nice."
 
-* _<b>Ba</b> jukqui khanika sza the._ "**She** danced twice."
-
 
 
 ### <a name="Gen">`Gen`</a>: genitive
 
-The prototypical meaning of genitive is that the noun phrase somehow belongs to its governor. In Suansu, the genitive marker is **va**.
+The prototypical meaning of genitive is that the noun phrase somehow belongs to its governor. In Naga-Suansu, the genitive marker is _-va_.
 
 #### Examples
 
@@ -63,7 +62,7 @@ The prototypical meaning of genitive is that the noun phrase somehow belongs to 
 
 ### <a name="Dat">`Dat`</a>: dative
 
-The dative case is often used for the indirect object of ditransitive verbs such as 'give', 'send', and 'bring'. In Suansu, the dative marker is **la**.
+The dative case is often used for the indirect object of ditransitive verbs such as 'give', 'send', and 'bring'. In Naga-Suansu, the dative marker is _-la_.
 
 #### Examples
 
@@ -73,7 +72,7 @@ The dative case is often used for the indirect object of ditransitive verbs such
 
 ### <a name="Abl">`Abl`</a>: ablative
 
-The ablative case indicates a movement away from something, removal, separation. In Suansu the ablative marker is **da**, that also covers instrumental case.
+The ablative case indicates a movement away from something, removal, separation. In Naga-Suansu the ablative marker is _-da_, that also covers instrumental case.
 
 #### Examples
 
@@ -85,7 +84,7 @@ The ablative case indicates a movement away from something, removal, separation.
 
 ### <a name="Loc">`Loc`</a>: locative
 
-The locative case is often used expresses location in space or time. This case is sometimes used on postpositions ([ADP]()). The locative marker in Suansu is **nahn** and it is used to express movement towards a location.
+The locative case is often used expresses location in space or time. This case is sometimes used on postpositions ([ADP]()). The locative marker in Naga-Suansu is _-nahn_ and it is used to express movement towards a location.
 
 #### Examples
 
@@ -97,7 +96,7 @@ The locative case is often used expresses location in space or time. This case i
 
 ### <a name="Ben">`Ben`</a>: benefactive
 
-The benefactive case corresponds to the English preposition for. In Suansu, the benefactive case marker is **byahn**.
+The benefactive case corresponds to the English preposition for. In Naga-Suansu, the benefactive case marker is _-byahn_.
 
 #### Examples
 
@@ -105,7 +104,7 @@ The benefactive case corresponds to the English preposition for. In Suansu, the 
 
 ## Case stacking
 
-Suansu allows case stacking (*Suffixaufnahme*, Plank 1985), where two case suffixes appear together on one noun phrase. Combinations found in the corpus include `GenAbl`, `DatAgn`, and `AgnTop`. 
+Naga-Suansu allows case stacking (*Suffixaufnahme*, Plank 1985), where two case suffixes appear together on one noun phrase. Combinations found in the corpus include `GenAbl`, `DatAgn`, and `AgnTop`. 
 
 ### <a name="GenAbl">`GenAbl`</a>: genitive ablative
 
@@ -121,7 +120,7 @@ The genitive and topic markers can be combined.
 
 #### Examples
 
-<!-- TODO -->
+* _<b>Avadi</b> kappa rike. "Let **me** finnish"
 
 ### <a name="DatErg">`DatErg`</a>: dative ergative
 
@@ -146,7 +145,4 @@ The Locative and topic markers can be combined.
 
 #### Examples
 
-<!-- TODO -->
-
-
-%todo: table class; revision; discussion; cleaning.
+* _Tye <b>desknahndi</b> szuraire yoan_ "Look nicely **at that desk**"

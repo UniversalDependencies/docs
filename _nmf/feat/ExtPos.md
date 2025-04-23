@@ -13,18 +13,19 @@ udver: '2'
 </tr>
 </table>
 
-In Suansu, only heads of a [fixed]() relation employ the feature.
+This feature indicates the effective UPOS of an expression when it differs from the UPOS of the head word.
+In Naga-Suansu, only heads of a [fixed]() relation employ the feature.
 
 ### <a name="ADV">`ADV`</a>: adverb-like expression
 
 #### Examples
 
-* _<b>Ska li</b> phabtama_ "Don't Understand even **a bit**" (lit. "only one")
+* _<b>Ska li</b> phabtama_ "I don't Understand even **a bit**" (lit. "one also")
 
 ### <a name="VERB">`VERB`</a>: verb-like expression
 
 #### Examples
 
-* _Anan <b>ay re</b> gu_ "If I accept"
+* _Anan <b>ay re</b> gu_ "If I **accept**" (lit. yes + reportative marker)
 
 

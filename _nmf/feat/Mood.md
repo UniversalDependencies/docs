@@ -9,12 +9,12 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Des">Des</a></td>
-  <td><a href="#Jus">Jus</a></td>
   <td><a href="#Hort">Hort</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Int">Int</a></td>
   <td><a href="#Irr">Irr</a></td>
+  <td><a href="#Jus">Jus</a></td>
 </tr>
 </table>
 
@@ -30,7 +30,7 @@ The indicative mood is considered the default mood. A verb in the indicative moo
 
 ### <a name="Irr">`Irr`</a>: irrealis
 
-Generally speaking, the irrealis mood denotes an action that is not known to have happened. In Suansu, the irrealis marker **rahn** is used to denote potential and certain future events.
+Generally speaking, the irrealis mood denotes an action that is not known to have happened. In Naga-Suansu, the irrealis marker **rahn** is used to denote potential and certain future events.
 
 
 #### Examples
@@ -39,16 +39,13 @@ Generally speaking, the irrealis mood denotes an action that is not known to hav
 
 ### <a name="Imp">`Imp`</a>: imperative
 
-The speaker uses imperative to order or ask the addressee to do the action of the verb. In Suansu, this is expressed by the base form of the verb or by the marker **-a**, depending on the phonological shape of the verb.
+The speaker uses imperative to order or ask the addressee to do the action of the verb. In Naga-Suansu, this is expressed by the base form of the verb or by the marker **-a**, depending on the phonological shape of the verb.
 
 #### Examples
 
 * _<b>Ve</b>!_ "Go!"
 
-* _<b>Re</b>*_ "Come!"
-
 * _Sam, windowdi <b>shamma</b>!_ "Sam, **open** the window!"
-
 
 
 ### <a name="Hort">`Hort`</a>: hortative
@@ -61,7 +58,7 @@ The hortative mood expresses the encouragement or discouragement of an action.
 
 ### <a name="Int">`Int`</a>: interrogative
 
-In Suansu, the interrogative mood is expressed, in the present tense, via auxiliaries.
+In Naga-Suansu, the interrogative mood is expressed, in the present tense, via auxiliaries.
 
 #### Examples
 
@@ -71,7 +68,7 @@ In Suansu, the interrogative mood is expressed, in the present tense, via auxili
 
 ### <a name="Des">`Des`</a>: desiderative
 
-The desiderative mood corresponds to the English modal “would like to”. In Suansu, it is expressed via the desiderative marker **tha**.
+The desiderative mood corresponds to the English modal “would like to”. In Naga-Suansu, it is expressed via the desiderative marker **tha**.
 
 #### Examples
 
@@ -79,10 +76,10 @@ The desiderative mood corresponds to the English modal “would like to”. In S
 
 ### <a name="Jus">`Jus`</a>: jussive
 
-<!-- TODO -->
+The jussive mood is used to express an authoritative or more formal command, request, or permission.
 
 #### Examples
 
-<!-- TODO -->
+* _Kapiu matha dai_ "Start searching the place."
 
-%todo; check table and labels, remove jussive?
+

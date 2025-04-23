@@ -4,9 +4,6 @@ title:  'Naga UD'
 udver: '2'
 ---
 
-<!-- Notes: 
-* Should 'Suansu' be changed to 'Naga' everywhere? 
--->
 
 # UD for Naga <span class="flagspan"><img class="flag" src="../../flags/svg/IN.svg" /></span>
 
@@ -20,7 +17,7 @@ udver: '2'
 ---
 -->
 
-* Words in Suansu are generally delimited by whitespace or punctuation. Exceptions:
+* Words in Naga-Suansu are generally delimited by whitespace or punctuation. Exceptions:
 
     * Multiword tokens occur in the case of clitics. The nominalizer _di_ is written after the verb complex without whitespace. For example, _mazokwoan ngamme<b>di</b>_ ("think.arrive + be able to + NMLZ = memory").
 
@@ -38,75 +35,9 @@ udver: '2'
 ---
 -->
 
-<!-- This is an overview only. For more detailed discussion and examples, see the list of [Suansu POS tags]()-->
+<!-- This is an overview only. For more detailed discussion and examples, see the list of [Naga-Suansu POS tags]()-->
 
-* Suansu employs 16 universal POS tags. The `SYM` category does not appear in the current dataset.
-
-
-#### Adjectives
-
-Definition: Adjectives are words that typically modify nouns and specify their properties or attributes. In Suansu, most adjectives are verbs. In Suansu, they follow nouns, for example _Peter <b>za tra</b> mohn mule_ ("Peter likes hot tea") and they can be used predicatively, where they behave like verbs, carrying tense and aspect values (_za trale_, "the tea is hot").
-
-Suansu has no gender (see Features) and case and number markers occur at the end of the NP.
-
-
-#### Adverbs
-
-Definition: Adverbs are words that typically modify verbs for such categories as place, time, or manner. 
-
-Suansu examples:
-- _hano_ "here"
-- _athwenan_ "now"
-- _daichu_ "only"
-
-
-#### Interjections
-
-Definition: An interjection is a word that is used most often as an exclamation or part of an exclamation. It typically expresses an emotional reaction, is not syntactically related to other accompanying expressions, and may include a combination of sounds not otherwise found in the language.
-
-Examples include borrowing like _ok_ "ok", _ay_ "yes", _wi_ and _dinan_, expressing frustration in the context of the respective clauses, and _ugh_ "ugh".
-
-#### Nouns
-
-Definition: Nouns are a part of speech typically denoting a person, place, thing, animal or idea.
-
-The `NOUN` tag is intended for common nouns only. See [PROPN]() for proper nouns and [PRON]() for pronouns.
-
-Gender is not a category in Suansu. There are remnants of gender specification on two nouns, _baneo_ "boy" and _leneo_ "girl". Given the exceptionality of these forms, we code the tokens as two distinct lemmas without including gender marking.
-
-Nouns inflect for [Number]() (zero marked singular and overt plural) and [Case]().
-
-Nominalization is a very productive process in Suansu, cf. _runghapha<b>di</b>_ "say.PST-PL-NMLZ" (the said things)
-
-#### Verbs
-
-Definition: A verb is a member of the syntactic class of words that typically signal events and actions, can constitute a minimal predicate in a clause, and govern the number and types of other constituents which may occur in the clause.
-
-In the Suansu treebank we distinguish between content verbs and auxiliaries [AUX](). Suansu verbs do not take person nor number agreement: _A/Bu thale_ "I/They know".
-
-
-See Verbal Features for detailed information on verbal categories.
-
-
-#### Particles ([PART]())
-
-* Negative particles, used for emphatic negation (_khama_) and tag questions and negative answers (_garhe_)
-* Discourse particle: _lagu_ (marks pragmatic force)
-* Reportative particles: _re_, _reha_ (used after quotes and labels)
-
-#### Auxiliaries ([AUX]())
-
-Suansu has eight non-verbal auxiliaries:
-
-* Evidential markers: _gu_ (first-hand), _ga_ (non-first-hand)
-* Imperative markers: _dai_, _ra_
-* Hortative marker: _diga_
-* Interrogative markers: _dima_, _la_
-* Obligatory modality marker: _geraha_
-
-The only verbal auxiliary is _la_ "be", which is used to express progressive with simultaneous converbs:
-
-* _Peter Mariadi nungganan <b>lale</b>_ "Peter is fighting with Maria" – [progressive]
+* Naga-Suansu employs 16 universal POS tags. The `SYM` category does not appear in the current dataset.
 
 #### Determiners vs. Pronouns
 
@@ -115,7 +46,7 @@ The only verbal auxiliary is _la_ "be", which is used to express progressive wit
 
 #### (De)verbal Forms
 
-Suansu distinguishes four main (de)verbal forms based on the [VerbForm]() feature:
+Naga-Suansu distinguishes four main (de)verbal forms based on the [VerbForm]() feature:
 
 * Finite verbs (`Fin`), tagged as [VERB]() or [AUX]()
 * Infinitives (`Inf`), tagged as [VERB]() or [AUX]()
@@ -132,17 +63,17 @@ Suansu distinguishes four main (de)verbal forms based on the [VerbForm]() featur
 ---
 -->
 
-<!-- This is an overview only. For more detailed discussion and examples, see the list of [Suansu features]() -->
+<!-- This is an overview only. For more detailed discussion and examples, see the list of [Naga-Suansu features]() -->
 
 #### Nominal Features
 
-* Nominals ([NOUN](), [PRON](), [PROPN]()) carry [Number]() (`Sing`, `Plur`), and can carry [Case]() (`Abl`, `Agn`, `Dat`, `DatAgn`, `Gen`, `GenAbl`, `Loc`, `Top`) and [Definite]() (`Def`).
+* Nominals ([NOUN](), [PRON](), [PROPN]()) carry [Number]() (`Sing`, `Plur`), and can carry [Case]() (`Abl`, `Ben`, `Dat`, `DatErg`, `Erg`, `ErgTop`, `Gen`, `GenAbl`, `GenTop`, `Loc`, `LocTop`, `Top`).
 * [ADJ]() and [NUM]() inherit nominal features of the whole noun phrase.
 * [DET]() gets nominal features when it is the final element in a noun phrase.
 
 #### Verbal Features
 
-* [VERB]() and verbal auxiliary _la_ "be" ([AUX]()) may have features such as [Aspect]() (`Imp`, `Perf`, `Sim`), [Modal]() (`Abil`, `Perm`, `Poss`), [Mood]() (`Imp`, `Ind`), and [Tense]() (`Past`, `Pres`).
+* [VERB]() and verbal auxiliary _la_ "be" ([AUX]()) may have features such as [Aspect]() (`Imp`, `Perf`, `Prog`), [Modal]() (`Abil`, `Perm`, `Poss`), [Mood]() (`Imp`, `Ind`), and [Tense]() (`Past`, `Pqp`, `Pres`).
 * All verbal features also appear on [ADP]() and [ADV]() in phrasal verb particles.
 * Mood auxiliaries have [Mood]() (`Des`, `Jus`, `Hort`, `Imp`, `Int`, `Irr`) feature.
 * The evidential auxiliaries _gu_ and _ga_ use the [Evident]() (`Fh`, `Nfh`) feature.
@@ -152,17 +83,20 @@ Suansu distinguishes four main (de)verbal forms based on the [VerbForm]() featur
 #### Pronouns, Determiners, and Quantifiers
 
 * [PronType]() (`Dem`, `Ind`, `Int`, `Prs`, `Tot`) is used with [PRON](), [DET](), and [ADV]().
-* Personal pronouns have the [Person]() feature in addition to [Case](), [Definite](), and [Number]().
+* Personal pronouns have the [Person]() feature in addition to [Case](), and [Number]().
 * Demonstratives have [Deixis]() (`Prox`, `Remt`).
-* [Reflex]() is used with reflexive [DET]()
+* [Reflex]() (`Yes`) is used with reflexive [DET]()
 
 
 #### Other Features
 
+* [Abbr]() (`Yes`) is applied to abbreviations, mostly [PROPN]().
 * [Degree]() (`Cmp`, `Pos`) is used with [ADJ]().
+* [ExtPos]() (`ADV`, `VERB`) is used on the first words of fixed multiword expressions ([fixed]()).
+* [Foreign]() (`Yes`) is applied to foreign words tagged as [X]().
+* [NumType]() (`Card`) and [NumForm]() (`Digit`, `Word`) are used with [NUM]().
 * [Polarity]() (`Neg`) is used on negative [PART]() and [INTJ]() and on the last word in the clause ([VERB](), [AUX](), etc.). [Polarity]() (`Pos`) is used on positive [INTJ]() (e.g., _ay_ "yes").
-* The [Foreign]() feature is applied to foreign words tagged as [X]().
-* The following universal features are currently not used in Suansu: [Animacy](), [Clusivity](), [DeixisRef](), [ExtPos](), [Gender](), [NounClass](), [Polite](), [Poss](), [Typo](), [Voice]().
+* The following universal features are currently not used in Naga-Suansu: [Animacy](), [Clusivity](), [DeixisRef](), [Gender](), [NounClass](), [Polite](), [Poss](), [Typo](), [Voice]().
 
 ## Syntax
 
@@ -174,17 +108,16 @@ Suansu distinguishes four main (de)verbal forms based on the [VerbForm]() featur
 ---
 -->
 
-<!-- For more information, see the list of [Suansu relations](). -->
+<!-- For more information, see the list of [Naga-Suansu relations](). -->
 
 ### Core Arguments, Oblique Arguments, and Adjuncts
 
-<!-- TODO check: -->
 
-* A nominal subject ([nsubj]()) is a noun phrase, typically in the first position of a clause. It can have an Agent case (_-nan_), a Topic case (_-di_), or no case marking, and it does not have a postposition.
+* A nominal subject ([nsubj]()) is a noun phrase, typically in the first position of a clause. It can have an Ergative case (_-nan_), a Topic case (_-di_), or no case marking, and it does not have a postposition.
 
-    * Intransitive predicates usually have subjects with the Topic case, though it can be omitted.
+    * Intransitive predicates ar–e usually unmarked, although they can take the Topic case in certain types of predications.
 
-    * Transitive predicates usually have subjects with the Agent case, though it can be omitted.
+    * Transitive predicates usually have subjects with the Ergative case, though it can be omitted.
 
     * A finite subordinate clause can serve as the subject and is labeled [csubj]().
 
@@ -192,19 +125,20 @@ Suansu distinguishes four main (de)verbal forms based on the [VerbForm]() featur
 
 * Indirect nominal objects ([iobj]()) of ditransitive predicates usually have the Dative case (_-la_), though it can be omitted.
 
-* Adjuncts are either postpositional phrases or bare nominals with cases other than Agent, Topic, or Dative, or with omitted case marking. They are labeled [obl]().
+* Adjuncts are either postpositional phrases or bare nominals with cases other than Ergative, Topic, or Dative, or with omitted case marking. They are labeled [obl]().
 
 ### Non-verbal Clauses
 
-<!-- TODO: Confirm non-verbal clause structure -->
+The copula e is found in equational clauses only. Attributional, locative, possessive and benefactory nonverbal clauses use [VERB]() forms or the auxiliary _la_ "be" ([AUX]()).
 
-Nominalized clauses
+<!-- Example from Czech page
+The copula verb být (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. Purely existential clauses (without indicating location) use být as well but it is treated as the head of the clause and tagged VERB. -->
 
 
 
 ### Relations Overview
 
-* The following relation subtypes are used in Suansu:
+* The following relation subtypes are used in Naga-Suansu:
 
     * [acl:relc]() - relative clause modifier
     * [advmod:emph]() - emphasizing word, intensifier
@@ -215,8 +149,10 @@ Nominalized clauses
     * [flat:name]() - multiword names
     * [nmod:poss]() - possessive nominal modifier
     * [nsubj:outer]() - outer clause nominal subject
+    * [nsubj:pass]()- passive nominal subject
 
-* The following relation types are not currently used in Suansu: [clf](), [cop](), [dep](), [dislocated](), [expl](), [fixed](), [goeswith](), [list]().
+
+* The following relation types are not currently used in Naga-Suansu: [clf](), [dep](), [dislocated](), [expl](), [goeswith](), [list]().
 
 ## Treebanks
 
@@ -230,6 +166,6 @@ and the treebank code in the file name.
 ---
 -->
 
-There i [one](../treebanks/nmf-comparison.html) Naga UD treebanks:
+There is [one](../treebanks/nmf-comparison.html) Naga UD treebanks:
 
   * [Naga-Suansu](../treebanks/nmf_suansu/index.html)
