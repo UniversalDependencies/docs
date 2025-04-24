@@ -11,14 +11,6 @@ In Italian, only heads of a [`fixed`](https://universaldependencies.org/it/dep/f
 
 `ExtPos` is also used in the [SUD](https://surfacesyntacticud.github.io/) framework.
 
-<!--
-### <a name="ADJ">`ADJ`</a>: adjective-like expression
-
-#### Examples
-
-* _Un'operazione <b>tutt'altro che</b> facile_ (_tutt'_ = `ADJ`)
--->
-
 ### <a name="ADP">`ADP`</a>: adposition-like expression
 
 #### Examples
