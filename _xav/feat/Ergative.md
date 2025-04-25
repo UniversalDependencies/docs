@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Ergative.md'
-shortdef: 'Ergative.md'
+title: 'Ergative'
+shortdef: 'Ergative'
 udver: '2'
 ---
 
