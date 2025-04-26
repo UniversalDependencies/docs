@@ -1123,7 +1123,7 @@ The analysis uses [DET](), [det:predet](), and noun-headed [acl](), due to the r
 
 ~~~ sdparse
 such/DET a cost that we could not afford it
-det:predet(expense, such)
+det:predet(cost, such)
 acl(cost, afford)
 ~~~
 
