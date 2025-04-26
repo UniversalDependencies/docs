@@ -1110,6 +1110,23 @@ nsubj(enough, bag)
 advcl(enough, get)
 ~~~
 
+English *such* can trigger this construction in two different ways. In the first, *such* is an ordinary [ADJ](), and the structure uses [amod]() and *such*-headed [advcl]():
+
+~~~ sdparse
+such/ADJ expense that we could not afford it
+amod(expense, such)
+advcl(such, afford)
+~~~
+
+In the second, *such* is a predeterminer before an indefinite article: *such a NOUN that Y*.
+The analysis uses [DET](), [det:predet](), and noun-headed [acl](), due to the requirement that words functioning as [det]() not have [advcl]() dependents:
+
+~~~ sdparse
+such/DET a cost that we could not afford it
+det:predet(expense, such)
+acl(cost, afford)
+~~~
+
 ## References
 
 * Joan W. Bresnan. Syntax of the comparative clause construction in English.
