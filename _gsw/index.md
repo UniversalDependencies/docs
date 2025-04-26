@@ -1,14 +1,14 @@
 ---
 layout: base
-title:  'Swiss German UD'
+title:  'Alemannic UD'
 udver: '2'
 ---
 
-# UD for Swiss German <span class="flagspan"><img class="flag" src="../../flags/svg/CH.svg" /></span>
+# UD for Alemannic (Swiss German and Alsatian) <span class="flagspan"><img class="flag" src="../../flags/svg/CH.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/FR-ALS.svg" /></span>
 
 ## Introduction
 
-This is a copy of the current German documentation [UD for German](https://universaldependencies.org/de/index.html), which we generally follow for Swiss German. This introduction explains the most important differences which influence the annotation. 
+This is a copy of the current German documentation [UD for German](https://universaldependencies.org/de/index.html), which we generally follow for Swiss German. This introduction explains the most important differences which influence the annotation.
 
 Please check the readme/GitHub repo of the GSW treebank for further/current information.
 
@@ -16,10 +16,10 @@ Please check the readme/GitHub repo of the GSW treebank for further/current info
 
 As for German, words are generally delimited by white spaces. However, there is a lot more freedom in merging any words together, which can't usually be split in an easy way. I.e. we use the German tokenization and introduce a separate tag for merged words (see meta tag `TAG+` described further down).
 
-The POS annotations are generally based on the German guidelines, namely the [Stuttgart-Tübingen-TagSet (STTS)](http://www.sfs.uni-tuebingen.de/resources/stts-1999.pdf) and some changes according to the [TIGER annotation scheme](https://files.ifi.uzh.ch/cl/siclemat/lehre/papers/tiger-annot.pdf). Furthermore, dealing with Swiss German, there is the need for an additional POS tag `PTKINF`, not present in the STTS tagset, as well as for the "meta tag" `TAG+`. 
+The POS annotations are generally based on the German guidelines, namely the [Stuttgart-Tübingen-TagSet (STTS)](http://www.sfs.uni-tuebingen.de/resources/stts-1999.pdf) and some changes according to the [TIGER annotation scheme](https://files.ifi.uzh.ch/cl/siclemat/lehre/papers/tiger-annot.pdf). Furthermore, dealing with Swiss German, there is the need for an additional POS tag `PTKINF`, not present in the STTS tagset, as well as for the "meta tag" `TAG+`.
 
 * `PTKINF` is an infinitive particle which does not exist in Standard German but is frequently used in dialects. It comes in the form of _go_, _cho_, _goge_, _lo_ to name a few, as in _Si gönd go poschte_. (_They go shopping._) In the Standard German translation, _Sie gehen einkaufen._, we can see that there is no equivalent. Concerning dependencies it is treated as a marker introducing a finite clause subordinate to another clause (`mark`) because they usually appear in _um ... zu_ (_in order to_) constructions in German.
- 
+
 * `TAG+` is used to handle merged words; we introduced the “+“-sign which can be added to any PoS tag. In the STTS there is one tag like this: the `APPRART`, used for combinations of articles and prepositions like _im_ consisting of _in + dem_ (_in the_). However, in Swiss German these kind of merges are performed with any kind of words and just merging the tags would result in a big tagset. Therefore we decided to use the "head" of the word or the first word as tag and simply add a plus to show that this word incorporates another one [Hollenstein and Aepli, 2014](). Like this, they can easily be found and, if needed, manually expanded. Frequent examples of such words include _hemmer_ (_haben + wir_), _häts_ (_hat + es_), and _sinz_ (_sind + sie_), for _we have_, _it has_ and _they are_.
 
 
@@ -178,8 +178,8 @@ The Universal Dependency POS (UPOS) tags are converted according to the mapping 
   [clf](), [dislocated]()
 
 
-## Treebanks (Swiss German)
+## Treebanks
 
-There is [one](../treebanks/gsw-comparison.html) Swiss German UD treebank:
+There is 1 Alemannic UD treebank:
 
-  * [Swiss German-UZH](../treebanks/gsw_uzh/index.html)
+  * [Alemannic-UZH](../treebanks/gsw_uzh/index.html)
