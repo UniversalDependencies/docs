@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Sing">Sing</a></td>
   <td><a href="#Plur">Plur</a></td>
+  <td><a href="#Coll">Coll</a></td>
 </tr>
 </table>
 
@@ -50,5 +51,17 @@ Nouns ending in
 * شپانۀ _špânë́_ shepherds
 * ملګري _malgë́ri_ friends
 * څوکۍ _cawkë́y_ chairs
+
+### <a name="Coll">`Coll`</a>: collective
+
+Plural number denotes multiple referents without specifying the exact number.
+Infinitives always behave like in plural, but this feature is not tagged for them.
+
+Formation from the singular is not 
+
+Nouns ending in 
+
+#### Examples
+
 
 <!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:50 CET -->
