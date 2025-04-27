@@ -98,8 +98,10 @@ For the principles of transliteration of Pashto used in UD see the [Transliterat
   Auxiliaries (see [aux](./dep/aux.html)):
   * [aux:pass](./dep/aux-pass.html) for passive voice
   * [aux:pot](./dep/aux-pot.html) for potential mood
-  * [aux:fut](./dep/aux-fut.html) for future tense
   * [aux:perf](./dep/aux-perf.html) for perfect tenses (do not confuse with the perfective aspect)
+  * [aux:fut](./dep/aux-fut.html) for future tense
+  * [aux:hab](./dep/aux-hab.html) for habitual past tense
+  * [aux:cnd](./dep/aux-cnd.html) for conditional mood
   
   Orphan constructions (see [orphan](./dep/orphan.html)):
   * [orphan:nsubjobj](./dep/orphan-nsubjobj.html) for orphan objects dependent on orphan subjects
