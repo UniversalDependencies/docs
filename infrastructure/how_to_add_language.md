@@ -112,21 +112,21 @@ setfacl -m u:zeman:rw,u:www-data:rw evaluation-report.txt</pre>
 3.  Call
     <pre>docs-automation/valdan/clone_one.sh $newrepo
 ./update-validation-report.pl $newrepo</pre>
-4.  Go to one of the places where you have local clones of all UD repositories. Remove the old clone.
-    Create a new clone under the new name. Check out the dev branch.
-5.  Rename the data files in the dev branch (e.g. from "cs-ud-test.conllu" to "cs_pdt-ud-test.conllu").
-6.  Check the README.md and LICENSE.txt files for any mentions of the treebank name that may have to be modified.
-    In the README file, add a line to the Changelog, e.g.:
-    <pre>* 2018-04-15 v2.2
-  * Repository renamed from UD_Czech to UD_Czech-PDT.</pre>
-7.  Commit and push the changes. This should also trigger an automatic re-validation of the treebank under the new name.
-    There will be a README error because the treebank is not recognized as previously released
-    (in the function `check_metadata()` in `tools/udlib.pm`); see the next step.
-8.  Go to the `docs-automation` repository.
+4.  Go to the `docs-automation` repository.
     Open the file `valdan/releases.json` and go to its end where there is the key `renamed_after_release`.
     At the end of the hash denoted by this key, we need a new record in the following form:
     <pre>"2.1": [["UD_Czech", "UD_Czech-PDT]]</pre>
     The release number identifying this record should be the last release where the treebank appeared under the old name.
+5.  Go to one of the places where you have local clones of all UD repositories. Remove the old clone.
+    Create a new clone under the new name. Check out the dev branch.
+6.  Rename the data files in the dev branch (e.g. from "cs-ud-test.conllu" to "cs_pdt-ud-test.conllu").
+7.  Check the README.md and LICENSE.txt files for any mentions of the treebank name that may have to be modified.
+    In the README file, add a line to the Changelog, e.g.:
+    <pre>* 2018-04-15 v2.2
+  * Repository renamed from UD_Czech to UD_Czech-PDT.</pre>
+8.  Commit and push the changes. This should also trigger an automatic re-validation of the treebank under the new name.
+    Check the online validation report. Since we registered the name change above in `releases.json`, the treebank should
+    be still reported as CURRENT, it should not be recategorized as SAPLING.
 9.  If there are other places where you maintain local clones of UD repositories (e.g., one is your laptop and the other is your
     university network), go to each of them, do a new git clone ; git checkout dev ; rm old clone.
 10. Finally, we want to regenerate the title page of Universal Dependencies.
