@@ -5,7 +5,7 @@ shortdef: 'external POS'
 udver: '2'
 ---
 
-This feature indicates, for the head of a [fixed expression](https://universaldependencies.org/en/dep/fixed.html), 
+This feature indicates, for the head of a [fixed expression](https://universaldependencies.org/u/dep/fixed.html), 
 the effective UPOS of the full expression when it differs from the UPOS of the word itself.
 Occasionally, `ExtPos` is used even if `ExtPos` = `upos`.
 

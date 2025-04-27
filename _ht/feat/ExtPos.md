@@ -18,4 +18,9 @@ It is kept in FEATS in the UD conversion.
 
 * _de rapò ki di <b>kòm</b> kwa gen 2 sitwayen Ameriken ki disparèt an Ayiti_ "of the report saying that there are two American citizens missing in Haiti"
 
+### <a name="DET">`DET`</a>: determiner-like expression
+
+#### Examples
+* _<b>Nempòt ki</b> desizyon_  any decision
+
 <!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:40 CET -->
