@@ -18,3 +18,5 @@ The `orphan:nsubjobj` relation provides information about the relations of the o
 6	لیکي لیکي   VERB  _  Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin  1  conj  _  Gloss=writes|LTranslit=likë́l|SpaceAfter=No|Translit=likí  
 7	.  .  PUNCT  _  _  1  punct  _  Gloss=.|LTranslit=.|Translit=.
 ~~~
+
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:23 CET -->
