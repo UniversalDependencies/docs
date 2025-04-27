@@ -19,191 +19,191 @@ udver: '2'
 </tr>
 <tr>
   <td align="middle">ا ـا</td>
-  <td align="left">- / i / a / u (word-initially)<br/>â (word-initially, improper orthgraphy)<br/>â (elsewhere)</td>
+  <td align="left"><b>- / i / a / u</b> (word-initially)<br/><b>â</b> (word-initially, improper orthgraphy)<br/><b>â</b> (elsewhere)</td>
 </tr>
 <tr>
   <td align="middle">آ</td>
-  <td align="left">(occurs only word-initailly)<br/>â</td>
+  <td align="left">(occurs only word-initailly)<br/><b>â</b></td>
 </tr>
 <tr>
   <td align="middle">ب بـ ـبـ ـب</td>
-  <td align="left">b</td>
+  <td align="left"><b>b</b></td>
 </tr>
 <tr>
   <td align="middle">پ ـپ ـپـ ـپ</td>
-  <td align="left">p</td>
+  <td align="left"><b>p</b></td>
 </tr>
 <tr>
   <td align="middle">ت تـ ـتـ ـت</td>
-  <td align="left">t</td>
+  <td align="left"><b>t</b></td>
 </tr>
 <tr>
   <td align="middle">ټ ټـ ـټـ ـټ</td>
-  <td align="left">ṭ</td>
+  <td align="left"><b>ṭ</b></td>
 </tr>
 <tr>
   <td align="middle">ث ـث ـثـ ـث</td>
-  <td align="left">s (only in words of Arabic origin)</td>
+  <td align="left"><b>s</b> (only in words of Arabic origin)</td>
 </tr>
 <tr>
   <td align="middle">ج جـ ـجـ ـج</td>
-  <td align="left">ǰ</td>
+  <td align="left"><b>ǰ</b></td>
 </tr>
 <tr>
   <td align="middle">چ چـ ـچـ ـچ</td>
-  <td align="left">č</td>
+  <td align="left"><b>č</b></td>
 </tr>
 <tr>
   <td align="middle">ح حـ ـحـ ـح</td>
-  <td align="left">h (only in words of Arabic origin)</td>
+  <td align="left"><b>h</b> (only in words of Arabic origin)</td>
 </tr>
 <tr>
   <td align="middle">خ خـ ـخـ ـخ</td>
-  <td align="left">x</td>
+  <td align="left"><b>x</b></td>
 </tr>
 <tr>
   <td align="middle">څ څـ ـڅـ ـڅ</td>
-  <td align="left">c</td>
+  <td align="left"><b>c</b></td>
 </tr>
 <tr>
   <td align="middle">ځ ځـ ـځـ ـځ</td>
-  <td align="left">ż</td>
+  <td align="left"><b>ż</b></td>
 </tr>
 <tr>
   <td align="middle">د ـد</td>
-  <td align="left">d</td>
+  <td align="left"><b>d</b></td>
 </tr>
 <tr>
   <td align="middle">ډ ـډ</td>
-  <td align="left">ḍ</td>
+  <td align="left"><b>ḍ</b></td>
 </tr>
 <tr>
   <td align="middle">ذ ـذ</td>
-  <td align="left">z (only in words of Arabic origin)</td>
+  <td align="left"><b>z</b> (only in words of Arabic origin)</td>
 </tr>
 <tr>
   <td align="middle">ر ـر</td>
-  <td align="left">r</td>
+  <td align="left"><b>r</b></td>
 </tr>
 <tr>
   <td align="middle">ړ ـړ</td>
-  <td align="left">ṛ</td>
+  <td align="left"><b>ṛ</b></td>
 </tr>
 <tr>
   <td align="middle">ز ـز</td>
-  <td align="left">z</td>
+  <td align="left"><b>z</b></td>
 </tr>
 <tr>
   <td align="middle">ژ ـژ</td>
-  <td align="left">ž</td>
+  <td align="left"><b>ž</b></td>
 </tr>
 <tr>
   <td align="middle">ږ ـږ</td>
-  <td align="left">ǧ</td>
+  <td align="left"><b>ǧ</b></td>
 </tr>
 <tr>
   <td align="middle">س سـ ـسـ ـس</td>
-  <td align="left">s</td>
+  <td align="left"><b>s</b></td>
 </tr>
 <tr>
   <td align="middle">ش ـش ـشـ ـش</td>
-  <td align="left">š</td>
+  <td align="left"><b>š</b></td>
 </tr>
 <tr>
   <td align="middle">ښ ـښ ـښـ ـښ</td>
-  <td align="left">x̌</td>
+  <td align="left"><b>x̌</b></td>
 </tr>
 <tr>
   <td align="middle">ص صـ ـصـ ـص</td>
-  <td align="left">s (only in words of Arabic origin)</td>
+  <td align="left"><b>s</b> (only in words of Arabic origin)</td>
 </tr>
 <tr>
   <td align="middle">ض ضـ ـضـ ـض</td>
-  <td align="left">z (only in words of Arabic origin)</td>
+  <td align="left"><b>z</b> (only in words of Arabic origin)</td>
 </tr>
 <tr>
   <td align="middle">ط طـ ـطـ ـط</td>
-  <td align="left">t (only in words of Arabic origin)</td>
+  <td align="left"><b>t</b> (only in words of Arabic origin)</td>
 </tr>
 <tr>
   <td align="middle">ظ ظـ ـظـ ـظ</td>
-  <td align="left">z (only in words of Arabic origin)</td>
+  <td align="left"><b>z</b> (only in words of Arabic origin)</td>
 </tr>
 <tr>
   <td align="middle">ع عـ ـعـ ـع</td>
-  <td align="left">(only in words of Arabic origin)<br/>' / 'i / 'a / 'u (word-initially and word-centrally)<br/>' (word-finally)</td>
+  <td align="left">(only in words of Arabic origin)<br/><b>' / 'i / 'a / 'u</b> (word-initially and word-centrally)<br/>' (word-finally)</td>
 </tr>
 <tr>
   <td align="middle">غ غـ ـغـ ـغ</td>
-  <td align="left">ġ</td>
+  <td align="left"><b>ġ</b></td>
 </tr>
 <tr>
   <td align="middle">ف فـ ـفـ ـف</td>
-  <td align="left">f</td>
+  <td align="left"><b>f</b></td>
 </tr>
 <tr>
   <td align="middle">ق قـ ـقـ ـق</td>
-  <td align="left">q</td>
+  <td align="left"><b>q</b></td>
 </tr>
 <tr>
   <td align="middle">ک کـ ـکـ ـک</td>
-  <td align="left">k</td>
+  <td align="left"><b>k</b></td>
 </tr>
 <tr>
   <td align="middle">ګ ګـ ـګـ ـګ</td>
-  <td align="left">g</td>
+  <td align="left"><b>g</b></td>
 </tr>
 <tr>
   <td align="middle">ل لـ ـلـ ـل</td>
-  <td align="left">l</td>
+  <td align="left"><b>l</b></td>
 </tr>
 <tr>
   <td align="middle">م مـ ـمـ ـم</td>
-  <td align="left">m</td>
+  <td align="left"><b>m</b></td>
 </tr>
 <tr>
   <td align="middle">ن نـ ـنـ ـن</td>
-  <td align="left">n</td>
+  <td align="left"><b>n</b></td>
 </tr>
 <tr>
   <td align="middle">ڼ ڼـ ـڼـ ـڼ</td>
-  <td align="left">ṇ</td>
+  <td align="left"><b>ṇ</b></td>
 </tr>
 <tr>
   <td align="middle">ه هـ ـهـ ـه</td>
-  <td align="left">h<br/>a (only word-finally)<br/>ë (only word finally, improper orthography)</td>
+  <td align="left"><b>h</b><br/><b>a</b> (only word-finally)<br/><b>ë</b> (only word finally, improper orthography)</td>
 </tr>
 <tr>
   <td align="middle">ۀ ـۀ</td>
-  <td align="left">(occurs only word-finally)<br/>ë</td>
+  <td align="left">(occurs only word-finally)<br/><b>ë</b></td>
 </tr>
 <tr>
   <td align="middle">و ـو</td>
-  <td align="left">w<br/>u<br/>o</td>
+  <td align="left"><b>w</b><br/><b>u</b><br/><b>o</b></td>
 </tr>
 <tr>
   <td align="middle">ې ېـ ـېـ ـې</td>
-  <td align="left">e</td>
+  <td align="left"><b>e</b></td>
 </tr>
 <tr>
   <td align="middle">یـ ـیـ</td>
-  <td align="left">(does not occur word-finally)<br/>y<br/>i</td>
+  <td align="left">(does not occur word-finally)<br/><b>y</b><br/><b>i</b></td>
 </tr>
 <tr>
   <td align="middle">ي ـي</td>
-  <td align="left">(occurs only word-finally)<br/>i</td>
+  <td align="left">(occurs only word-finally)<br/><b>i</b></td>
 </tr>
 <tr>
   <td align="middle">ی ـی</td>
-  <td align="left">(occurs only word-finally)<br/>ay (after a consonant)<br/>y (after a vowel)</td>
+  <td align="left">(occurs only word-finally)<br/><b>ay</b> (after a consonant)<br/><b>y</b> (after a vowel)</td>
 </tr>
 <tr>
   <td align="middle">ۍ ـۍ</td>
-  <td align="left">(occurs only word-finally, feminine nominal ending)<br/>ëy</td>
+  <td align="left">(occurs only word-finally, feminine nominal ending)<br/><b>ëy</b></td>
 </tr>
 <tr>
   <td align="middle">ئ ـئ</td>
-  <td align="left">(occurs only word-finally, verb ending for the second person plural)<br/>ëy (after a consonant)<br/>y (after a vowel)</td>
+  <td align="left">(occurs only word-finally, verb ending for the second person plural,<br/>and also for دﺉ <i>dëy</i> “(he) is”)<br/><b>ëy</b> (after a consonant)<br/><b>y</b> (after a vowel)</td>
 </tr>
 </table>
  
