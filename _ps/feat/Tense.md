@@ -10,7 +10,6 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Pres">Pres</a></td>
   <td><a href="#Past">Past</a></td>
-  <td><a href="#Fut">Fut</a></td>
 </tr>
 </table>
 
@@ -18,11 +17,8 @@ Tense is a feature that specifies the time when the action took / takes / will t
 in relation to the current moment or to another action in the utterance. The `tense` feature occurs with verbs ([VERB]())
 and auxiliary verbs ([AUX]()).
 
-Regular verbs in Pashto have simple forms for the present and past tenses,
-while the future tense is usually analytical.
-There are also compound forms of perfect tenses (past perfect, present perfect, future perfect),
-which consist of a participle and an auxiliary verb in one of the three basic tenses. None of these
-parts is tagged as a perfect tense.
+Verbs in Pashto have simple forms for the present and past tenses.
+There is also a compound future tense and perfect tenses described below.
 
 ### <a name="Pres">`Pres`</a>: present
 
@@ -115,22 +111,26 @@ Overview of the past endings:
 * past perfective: ما پرون کتاب **ولوستۀ** _mâ parún kitấb **wë́lwëstë**_ “I read a book yesterday”
 
 
-### <a name="Fut">`Fut`</a>: future
+### future
 
-The Pashto verbs have a compound future tense that consist of a future particle بۀ _bë_
-and the present forms of the verb - present imperfective for the imperfective future
-and present perfective (with the subjunctive meaning) for the perfective future.
-The verb forms are tagged with `Tense=Pres`, while the future particle bears the
-`Tense=Fut` tag.
+The Pashto verbs have a compound future tense that consist of an auxiliary word بۀ _bë_
+and the present imperfective forms of the verb for the imperfective future
+and subjunctive forms for the perfective future.
+The auxiliary word has also other uses, so it does not bear the `Tense=Fut` feature.
+But it is connected to the main verb with the [aux:fut](../dep/aux-fut.html) relation subtype to indicate the future meaning.
 
-The only verb that can be marked directly with `Tense=Fut` is the third person singular future form
-of the verb “to be”, which differs from itS present counterpart: بۀ وی _bë wi_ “He/She/It will be”
-(compare with the present form دی _day_ (m) / ده _da_ (f) “He/She/It is”).
 
 #### Examples
 
 * future imperfective: صبا **بۀ** کتاب **لرلم** _sabấ **bë** kitấb **lwalë́m**_ “I will be reading a book tomorrow”
 * future perfective: صبا **بۀ** کتاب **ولرلم** _sabấ **bë** kitấb **wë́lwalëm**_ “I will read a book tomorrow”
 
+### perfect tenses
+
+In Pashto, there are also compound forms of perfect tenses (past perfect, present perfect, future perfect),
+which consist of a participle and an auxiliary verb ول _wël_ “to be” in the present, past or future tense.
+The auxiliary verb is connected to the participle with the [aux:perf](../dep/aux-perf.html) relation subtype to indicate the perfect meaning.
+
+#### Examples
 
 <!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:07 CET -->
