@@ -72,9 +72,7 @@ using a stressed prefix و _wë́_.
 * imperative: کتاب **ولوله** _kitấb **wë́lwala**_ “Write a book”
 * conditional (potential use): په ماښام **راغلای** شم _pë mâx̌ấm **râġë́lây** šëm_ “I can come in the evening”
 
-===========================
-
-#### habitual
+<h3>habitual</h3>
 
 In addition to the two main aspects for the simple forms, the past imperfective forms with the auxiliary word به _bë_
 have past habitual meaning. It describes actions that used to happen habitually in the past.
