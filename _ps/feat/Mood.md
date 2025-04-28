@@ -24,6 +24,8 @@ Pashto implements various strategies to express the modal meaning similar to the
 * modal particle followed by subjunctive of the content verb
 * compound verb forms including subjunctive or conditional of the content verb
 
+For overview of verb stems and verb endings mentioned below see [Pashto verbal system](../verbal-system.html).
+
 ### <a name="Ind">`Ind`</a>: indicative
 The indicative can be considered the default, neutral mood.
 A verb in the indicative merely states that something happens, has happened or will
