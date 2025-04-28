@@ -28,6 +28,7 @@ udver: '2'
   - Modal auxiliaries, which combine with the converb and/or nominalized form of the lexical verb:
      тара- 'need'; харва 'want'; пира- 'can'
    - The copula ӈa- (be).
+* In Tundra Nenets, there are no articles. The DET tag is assigned to a relatively small set of items traditionally classified as determiners in grammars. These elements characterise the head noun in terms of deixis and definiteness.
 * Nonfinite verb forms in Tundra Nenets are formed by adding suffixes to verb stems. In the treebank, we differentiate between various forms of participles (tagged as ADJ), converbs (tagged as ADV), and action nouns (tagged as NOUN).
 * X is used for spoken language peculiarities, like noise or pause.
 
