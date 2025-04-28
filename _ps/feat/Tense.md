@@ -111,7 +111,7 @@ Overview of the past endings:
 * past perfective: ما پرون کتاب **ولوستۀ** _mâ parún kitấb **wë́lwëstë**_ “I read a book yesterday”
 
 
-### future
+<h3>future</h3>
 
 The Pashto verbs have a compound future tense that consist of an auxiliary word بۀ _bë_
 and the present imperfective forms of the verb for the imperfective future
@@ -125,7 +125,7 @@ But it is connected to the main verb with the [aux:fut](../dep/aux-fut.html) rel
 * future imperfective: صبا **بۀ** کتاب **لرلم** _sabấ **bë** kitấb **lwalë́m**_ “I will be reading a book tomorrow”
 * future perfective: صبا **بۀ** کتاب **ولرلم** _sabấ **bë** kitấb **wë́lwalëm**_ “I will read a book tomorrow”
 
-### perfect tenses
+<h3>perfect tenses</h3>
 
 In Pashto, there are also compound forms of perfect tenses (past perfect, present perfect, future perfect),
 which consist of a participle and an auxiliary verb ول _wël_ “to be” in the present, past or future tense.
