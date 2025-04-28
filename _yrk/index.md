@@ -8,7 +8,14 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
+* The tokenization in the Tundra Nenets treebank follows the principles of the Universal Dependencies (UD) framework, with adaptations for spoken language data.
+* Tokenization was performed manually, guided by both the phonological realisation and the syntactic structure of the utterances.
+* Word segmentation is based on the standard orthography of Tundra Nenets and is applied consistently across the corpus. Words are delimited by whitespace characters.
+* The transcription of the spoken material is based on written standards and conventional orthography, rather than a phonetic or IPA transcription.
+* Bound morphemes, such as suffixes and clitics, are not split during tokenization. Instead, internal morphological information (e.g., agreement, case, tense, mood) is encoded in the MISC features as morphological glosses. Gloss labels follow the recommendations of the Leipzig Glossing Rules.
+* Punctuation is tokenized and annotated based on the prosodic and discourse features of the spoken data. Prosodic boundaries corresponding to punctuation are explicitly marked with a special SIL (silence) label and assigned a PUNCT part-of-speech tag.
+* Non-standard phenomena typical of spoken language (e.g., false starts, repetitions, disfluencies) are tokenized, ensuring that the treebank accurately reflects the characteristics of spoken Tundra Nenets while maintaining maximal syntactic transparency.
+
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
