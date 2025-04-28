@@ -16,20 +16,28 @@ udver: '2'
 * Punctuation is tokenized and annotated based on the prosodic and discourse features of the spoken data. Prosodic boundaries corresponding to punctuation are explicitly marked with a special SIL (silence) label and assigned a PUNCT part-of-speech tag.
 * Non-standard phenomena typical of spoken language (e.g., false starts, repetitions, disfluencies) are tokenized, ensuring that the treebank accurately reflects the characteristics of spoken Tundra Nenets while maintaining maximal syntactic transparency.
 
-
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
-
 ## Morphology
+* Tundra Nenets uses 15 of the universal POS categories. These are as follows (in alphabetical order): ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, VERB, and X.
+* Auxiliaries are all verbal in Tundra Nenets. The following auxiliaries are found in the language:
+    - Negative auxiliaries, which combine with the negated form of the lexical verb (connegative):
+	   - the standard negative auxiliary: ни-
+	   - the emphatic negative auxiliary: вуни-
+	   - the prohibitive auxiliary: нё-
+	   - the interrogative negative auxiliary: ханя- ‘how not’
+	   - modal negative auxiliaries: я'ма- 'cannot, not able to', хаця- ‘almost doing something’
+  - Modal auxiliaries, which combine with the converb and/or nominalized form of the lexical verb:
+     тара- 'need'; харва 'want'; пира- 'can'
+   - The copula ӈa- (be).
+* Nonfinite verb forms in Tundra Nenets are formed by adding suffixes to verb stems. In the treebank, we differentiate between various forms of participles (tagged as ADJ), converbs (tagged as ADV), and action nouns (tagged as NOUN).
+* X is used for spoken language peculiarities, like noise or pause.
+
+
 
 ### Tags
 
 *
 
 ---
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 
 ---
 
