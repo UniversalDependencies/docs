@@ -65,6 +65,7 @@ are used for the subjunctive mood, that do not distinguish the aspect. It forms 
 forms with the auxiliary به _bë_, but neither of its parts bear the `Aspect=Perf` feature.
 For regular verbs, the perfective forms are created from their imperfective counterparts
 using a stressed prefix و _wë́_.
+It is used also for _wënë́_.
 
 #### Examples
 * past: تۀ ما ته **راغلې** _të mâ ta **rấġle**_ “You came to me”
