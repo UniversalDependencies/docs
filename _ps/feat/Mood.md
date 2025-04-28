@@ -11,100 +11,134 @@ udver: '2'
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Sub">Sub</a></td>
-  <td><a href="#Pot">Pot</a></td>
+  <td><a href="#Cnd">Cnd</a></td>
 </tr>
 </table>
 
 Mood is a verbal feature that expresses modality and subclassifies finite verb forms.
 Pashto has person-specific sets of forms for three basic moods: indicative, imperative and subjunctive.
-There is also an invariable form, marked `Mood=Pot` used in compound forms to express potential or conditional meaning.
+There is also an invariable conditional form, marked `Mood=Cnd`, used to express conditional or potential mood.
+
+Pashto implements various strategies to express the modal meaning similar to the English modal verbs:
+* modal verb followed by subjunctive of the content verb
+* modal particle followed by subjunctive of the content verb
+* compound verb forms including subjunctive or conditional of the content verb
 
 ### <a name="Ind">`Ind`</a>: indicative
-
-The indicative can be considered the default mood. A verb in
-indicative merely states that something happens, has happened or will
+The indicative can be considered the default, neutral mood.
+A verb in the indicative merely states that something happens, has happened or will
 happen, without adding any attitude of the speaker.
+The indicative is the only finite form distinguishing the [Tense]() (see there for endings overview).
 
-The indicative is the only finite form distinguishing the [Tense]() (see there for endigs overview).
-The indicative mood includes sets of simple finite forms for these tenses and aspects:
-* present imperfective
-* past imperfective
-* past perfective
-(Analogically formed present perfective forms represent the subjunctive,
-as the punctual events cannot happan at the present point).
-The present imperfective forms with the auxiliary word بۀ‎ _bë_ form the future imperfective.
-The past imperfective forms with the auxiliary word بۀ‎ _bë_ have past habitual meaning.
+#### Simple uses and formation
+The indicative mood includes three sets of simple finite forms for these tenses and aspects:
+* present imperfective: present imperfective stem + present endings
+* past imperfective: past imperfective stem + past endings
+* past perfective: past perfective stem + past endings
+The analogically formed present perfective forms are used for the subjunctive,
+as the punctual events cannot happen at the present point.
+
+#### Compound uses
+* future imperfective: auxiliary word بۀ‎ _bë_ (with [aux:fut](../dep/aux-fut.html) relation) + present imperfective forms
+* past habitual: auxiliary word بۀ‎ _bë_ (with [aux:hab](../dep/aux-hab.html) relation) + past imperfective forms (see also [Aspect]() for details).
 
 #### Examples
-
-* (present imperfective): لیک **لرلم** _lik **lwalë́m**_ “I am reading the letter”
-* (past imperfective): کور ته **راتلو** _kor ta **râtlú**_ “we were coming home”
-* (past perfective) ما کتاب **ونه لیکۀ‎** _mâ kitấb **wë́likë**_ “I did write the book”
+* present imperfective: لیک **لرلم** _lik **lwalë́m**_ “I am reading the letter”
+* past imperfective: کور ته **راتلو** _kor ta **râtlú**_ “we were coming home”
+* past perfective: ما کتاب **ونه لیکۀ‎** _mâ kitấb **wë́likë**_ “I did write the book”
+* future imperfective: دا کتاب بۀ **لولم** _dâ kitấb bë likë́m_ “I will read this book” or “I will be reading this book”
+* past habitual:
 
 
 ### <a name="Imp">`Imp`</a>: imperative
+The imperative mood is to used express orders or requests for the second person.
+Pashto verbs have imperative forms for both numbers, although the plural form is always identical with its indicative counterpart.
+The affirmative imperative distinguishes both aspects, while negative imperative is used only in the imperfective aspect.
+Unlike for all other verb forms, the negative particle for the imperative is مه _má_ (see also [Polarity]()).
 
-The imperative mood is to used express orders or requests. Pashto verbs have imperative forms for
-the second person of both numbers, although the plural form is always identical with its indicative counterpart.
-The ending for the singular is ه _a_.
-The affirmative imperative distinguishes both aspects, while negative imperative is used only
-in imperfective aspect. The negative particle مه _má_ is stressed and is is read together with the verb (although written separately).
-The imperative is built from the present imperfective or present perfective verb stem.
+#### Formation
+* imperfective imperative: present imperfective stem + imperative endings
+* perfective imperative: present perfective stem + imperative endings
+The imperative endings are:
+* second person singular: ه _a_
+* second person plural: ئ _ëy_ (identical with the corresponding present indicative ending)
 
 #### Examples
-
-* (singluar, perfective, affirmative): لیک **ولرله** _lik **wë́lwala**_ “read the letter”
-* (plural, imperfective, negative): دا کتاب **مه لیکئ‎** _dâ kitấb má **likëy**_ “do not write that book”
+* singluar, perfective, affirmative: لیک **ولرله** _lik **wë́lwala**_ “read the letter”
+* plural, imperfective, negative: دا کتاب **مه لیکئ‎** _dâ kitấb má **likëy**_ “do not write that book”
 
 
 ### <a name="Sub">`Sub`</a>: subjunctive
+The subjunctive mood does not distinguish tense and aspect.
 
-The subjunctive mood is used in various subordinate clauses to express irreality, condition, purpose, wish etc.
 
-* orders and requests for the first and the third person (where imperative is used for the second person)
-* wishes and judgements
+#### Simple uses
 * purpose in subordinate purpose sentences
-* the present subjunctive form for the third person وي _wi_ of the verb ول _wël_ “to be”, may have present habitual meaning
+* orders, requests, wishes or judgements (often with the particle دې _de_ “let, should”)
+    * the orders and requests are used only for the first and the third person, as the imperative is used for the second person
+* will (after the verb غوښتل _ġux̌të́l_ “to want to”)
+* necessity or obligation (after particles like باید _bâyád_ “must, have to, should, necessary”
+* present habitual (this holds only for the present subjunctive form for the third person وي _wi_ of the verb ول _wël_ “to be”)
 
-It does not distinguish tense and aspect. Its forms are formally present perfective, which do not have any other use on their own,
-but are also used to form future perfective indicative with the auxiliary word بۀ‎ _bë_.
+#### Formation
+Its forms are formally present perfective, which do not have any other use on their own:
+* subjunctive: present perfective stem + present endings
 
-
-#### Examples
-
-
-### <a name="Pot">`Pot`</a>: potential
-The potential form is invariable for all persons and both numbers, but distinguishes the aspect.
-It has two disting uses: potential and conditional.
-
-Potential use:
-The Pashto does not have a modal verb expressing possibility or ability.
-Instead, the potential form of the content verb with the subjunctive forms of the auxiliary verb کېدل _kedë́l_ “to become”
-forms the present tense of potential mood.
-For the future potential, add the auxiliary word بۀ‎ _bë_.
-For the past potential, change the subjunctive forms of auxiliary verb to the perfective potential form شوای _šwây_
-(loosing the personal information).
-Moreover, this constructions are often replaced with the verb کول _kawë́l_ “to do” instead of the content verb
-with the content verb itself following it in the subjunctive mood.
-
-Conditional use:
-The potential form of the verb is used also to express irreal conditions and their consequences.
-In this case, the potential form is used on its own without the auxiliary verb in personal forms.
-Moreover, the potential form وای _wây_ of the verb ول _wël_ “to be” is used for intransitive verbs.
-In the subordinate conditional sentence the conjunction کۀ _kë_ “if” is used.
-In the main sentence expressing the consequence, the auxiliary word بۀ‎ _bë_ is used.
-
-To combine both uses, add the perfective potential form شوای _šwây_ of the auxiliary verb کېدل _kedë́l_ “to become”
-to the conditional form (for transitive verbs) or replace with it the auxliary وای _wây_.
+#### Compound uses
+Apart from the basic meanings, the subjunctive is used in several compound verb forms:
+* future perfective: auxiliary word بۀ‎ _bë_ (with [aux:fut](../dep/aux-fut.html) relation) + subjunctive
+* potential (longer forms, see below): shorter potential forms of کول _kawë́l_ “to do” (with [aux:pot](../dep/aux-pot.html) relation) + subjunctive of the content verb
 
 #### Examples
-* (potential use, present): **لیکلای** شم _**likë́lây** šëm_ “I can/may write” or “I am able/allowed to write”
-* (potential use, present): **کولای** شم ولیکم _**kawë́lây** šëm wë́likëm_ “I can/may write” or “I am able/allowed to write”
-* (potential use, future):
-* (potential use, past):
-* (conditional use, intransitive):
-* (conditional use, transitive):
-* (potential conditional use, intransitive):
-* (potential conditional use, transitive):
+* purpose:
+* order:
+* wish:
+* will:
+* necessity:
+* present habitual:
+* future perfective: به دا کتاب **ولولم** _bë dâ kitấb **wë́likëm**_ “I will read this book” or “I will have read this book”
+* potential: کولای شم **ولیکم** _kawë́lây šëm **wë́likëm**_ “I can/may write”, “I am able/allowed to write” or “I know how to write”
+
+
+### <a name="Cnd">`Cnd`</a>: conditional
+The conditional form is invariable for all persons and both numbers, but distinguishes the aspect.
+It is used on its own or in compound forms to express the conditional mood
+or in compound forms to express the potential mood.
+
+#### Formation
+* imperfective conditional: past imperfective stem + ending ای _ây_
+* perfective conditional: past perfective stem + ending ای _ây_
+
+#### Simple conditional use
+The conditional form is used to express irreal conditions and their consequences.
+In this case it is used without the auxiliary verb in personal forms,
+thus missing any personal information and probably requiring the use of a personal pronoun.
+The bare conditional form is used in this way inly for transitive verbs.
+
+#### Compound conditional uses
+* intransitive verbs: conditional of the content verb + conditional وای _wây_ of the verb ول _wël_ “to be”
+* irreal consequence in the main sentence: auxiliary word بۀ‎ _bë_ + conditional
+The words وای _wây_ and  بۀ‎ _bë_ both with [aux:cnd](../dep/aux-pot.html) relation.
+
+#### Compound potential use
+* shorter forms (auxiliary verb کېدل _kedë́l_ “to become”)
+  * present potential: conditional of the content verb + subjunctive of the auxiliary verb
+  * future potential: conditional of the content verb + future perfective the auxiliary verb
+  * past potential: conditional of the content verb + conditional of the auxiliary verb
+* longer forms: shorter potential forms of کول _kawë́l_ “to do” + subjunctive of the content verb
+The auxiliaries کېدل _kedë́l_ and کول _kawë́l_ both with [aux:pot](../dep/aux-pot.html) relation.
+
+To combine both uses, the conditional and the potential, the perfective conditional form شوای _šwây_ of the auxiliary verb کېدل _kedë́l_ “to become”
+is added to the conditional form (for transitive verbs) or it replaces the auxliary وای _wây_ (for intransitive verbs).
+
+#### Examples
+* conditional, intransitive:
+* conditional, transitive:
+* potential, present, short: **لیکلای** شم _**likë́lây** šëm_ “I can/may write”, “I am able/allowed to write” or “I know how to write”
+* potential, present, long: **کولای** شم ولیکم _**kawë́lây** šëm wë́likëm_ “I can/may write”, “I am able/allowed to write” or “I know how to write”
+* potential, future, short: **لیکلای** ببۀ شم _**likë́lây** bë šëm_ “I will be able/allowed to write” or “I will know how to write”
+* potential, past, long: **کولای شوای** ولیکم _**kawë́lây šwây** wë́likëm_ “I could/might write”, “I was able/allowed to write” or “I knew how to write”
+* potential conditional, intransitive: 
+* potential conditional, transitive:
 
 <!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:47 CET -->
