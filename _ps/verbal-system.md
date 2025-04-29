@@ -1,3 +1,27 @@
+# Verb stems
+
+# Light verbs
+
+# List of semi-regular verbs
+
+* “have” - **لر**ل **lar**ë́l, **لر**م **lar**ë́m
+* “want” - **غوښت**ل **ġux̌t**ë́l, **غواړ**م **ġwâṛ**ë́m
+* “say” - **وی**ل **way**ë́l, **وای**م **wây**ë́m
+* “read” - **لوست**ل **lwast**ë́l, **لول**م **lwal**ë́m
+* “lead” - **بیو**ل **biw**ë́l, **بياي**م **byây**ë́m
+* “buy” - **اخیست**ل **axist**ë́l, **اخل**م **axl**ë́m
+* “take” - **نیو**ل **niw**ë́l, **نیس**م **nis**ë́m
+* “put” - **ایښود**ل **ix̌od**ë́l, **ږد**م **ǧd**ëm
+* “sit down” - کښې**ناست**ل kx̌e**nâst**ë́l, کښ*ې**ن**م kx̌e**n**ë́m
+* “look at” - **کت**ل **kat**ë́l, **ګور**م **gor**ë́m
+* “take out” - **ایست**ل **ist**ë́l, **باس**م **bâs**ë́m
+* “see” - **ليد**ل **lid**ë́l, **وين**م **win**ë́m
+
+
+
+
+# Overview of verb forms
+
 
 Overview of the present endings:
 <table border="1">
@@ -55,3 +79,6 @@ Overview of the past endings:
   <td align="middle">لې ële</td>
 </tr>
 </table>
+
+# Irregular verbs
+
