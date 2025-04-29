@@ -62,8 +62,8 @@ Unlike for all other verb forms, the negative particle for the imperative is م�
 * imperfective imperative: present imperfective stem + imperative endings
 * perfective imperative: present perfective stem + imperative endings
 The imperative endings are:
-* second person singular: ه _a_
-* second person plural: ئ _ëy_ (identical with the corresponding present indicative ending)
+* second person singular: ه- _-a_
+* second person plural: ئ- _-ëy_ (identical with the corresponding present indicative ending)
 
 #### Examples
 * singluar, perfective, affirmative: لیک **ولرله** _lik **wë́lwala**_ “read the letter”
@@ -108,8 +108,8 @@ It is used on its own or in compound forms to express the conditional mood
 or in compound forms to express the potential mood.
 
 #### Formation
-* imperfective conditional: past imperfective stem + ending ای _ây_
-* perfective conditional: past perfective stem + ending ای _ây_
+* imperfective conditional: past imperfective stem + ending ای- _-ây_
+* perfective conditional: past perfective stem + ending ای- _-ây_
 
 #### Simple conditional use
 The conditional form is used to express irreal conditions and their consequences.
