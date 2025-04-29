@@ -27,6 +27,7 @@ Pashto implements various strategies to express the modal meaning similar to the
 
 For overview of verb stems and verb endings mentioned below see [Pashto verbal system](../verbal-system.html).
 
+
 ### <a name="Ind">`Ind`</a>: indicative
 The indicative can be considered the default, neutral mood.
 A verb in the indicative merely states that something happens, has happened or will
@@ -73,7 +74,6 @@ The imperative endings are:
 
 ### <a name="Sub">`Sub`</a>: subjunctive
 The subjunctive mood does not distinguish tense and aspect.
-
 
 #### Simple uses
 * purpose in subordinate purpose sentences
