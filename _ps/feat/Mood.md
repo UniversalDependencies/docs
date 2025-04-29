@@ -18,6 +18,7 @@ udver: '2'
 Mood is a verbal feature that expresses modality and subclassifies finite verb forms.
 Pashto has person-specific sets of forms for three basic moods: indicative, imperative and subjunctive.
 There is also an invariable conditional form, marked `Mood=Cnd`, used to express conditional or potential mood.
+The `Mood` feature occurs with verbs ([VERB]() and [AUX]()).
 
 Pashto implements various strategies to express the modal meaning similar to the English modal verbs:
 * modal verb followed by subjunctive of the content verb
