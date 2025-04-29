@@ -13,6 +13,7 @@ udver: '2'
   <td><a href="#Acc">Acc</a></td>
   <td><a href="#Abl">Abl</a></td>
   <td><a href="#Voc">Voc</a></td>
+  <td><a href="#Gen">Gen</a></td>
 </tr>
 </table>
 
@@ -154,5 +155,11 @@ Other nouns and adjectives (all masculine/feminine, singular/plural) share the f
 * **زلمیه هلکه**، دلته راشه _**zalmáya halë́ka**, dë́lta rấša_ “young boy, come here”
 * **ړندې پېغلې**، دلته راشه _**ṛandé péġle**, dë́lta rấša_ “blind girl, come here”
 * **نوو کورونو**، دلته راشه _**në́wo korúno**, dë́lta rấša_ “new houses, come here”
+
+
+### <a name="Gen">`Gen`</a>: genitive
+
+
+#### Examples
 
 <!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:33 CET -->
