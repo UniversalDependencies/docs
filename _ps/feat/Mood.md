@@ -43,8 +43,8 @@ The analogically formed present perfective forms are used for the subjunctive,
 as the punctual events cannot happen at the present point.
 
 #### Compound uses
-* future imperfective: auxiliary word بۀ‎ _bë_ (with [aux:fut](../dep/aux-fut.html) relation) + present imperfective forms
-* past habitual: auxiliary word بۀ‎ _bë_ (with [aux:hab](../dep/aux-hab.html) relation) + past imperfective forms (see also [Aspect]() for details).
+* future imperfective: auxiliary word بۀ‎ _bë_ (with [aux:fut](../dep/aux-fut.html) relation) + present imperfective
+* past habitual: auxiliary word بۀ‎ _bë_ (with [aux:hab](../dep/aux-hab.html) relation) + past imperfective (see also [Aspect]() for details).
 
 #### Examples
 * present imperfective: لیک **لرلم** _lik **lwalë́m**_ “I am reading the letter”
