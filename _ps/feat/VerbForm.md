@@ -125,7 +125,7 @@ The verbal noun is a noun (tagged [NOUN](), not [VERB]()) derived from the verb 
 The verbal noun has a different ending than the infinitive, but its use is similar to the nominal use of the infinitive.
 
 #### Formation
-* verbal noun: past imperfective stem + ending نه- _-ë́na_
+* past imperfective stem + ending نه- _-ë́na_
 The verb noun has the feminine gender and inflects only in singular as usual feminine nouns ending in ه _a_.
 
 #### Examples
