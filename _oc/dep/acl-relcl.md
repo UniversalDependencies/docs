@@ -1,0 +1,28 @@
+---
+layout: relation
+title: 'acl:relcl'
+shortdef: 'relative clause modifier'
+udver: '2'
+---
+
+The `acl:relcl` relation is used in the Old Gascon corpus **UD_Occitan-CorAG** for relative clauses modifying
+a noun or a pronoun. The relation points from the head of the nominal to the head of the relative clause.
+
+
+Some examples from **UD_Occitan-CorAG**:
+
+~~~ sdparse
+car la pene qui l'escrivan passare lo deffenedor deu passar et prener \n because the sentence that the copyist will suffer the defender must suffer and take
+acl:relcl(pene, passare)
+obj(passare, qui)
+~~~
+
+~~~ sdparse
+car, si no, lo qui coelher ac deu sere decebut \n because, if not, the one who must gather it will be disappointed
+acl:relcl(lo, deu)
+nsubj(deu, qui)
+
+~~~
+
+N.B.: For cleft sentences, the [advcl:cleft]() subrelation is used in most French corpora.
+<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:14 CET -->
