@@ -14,96 +14,51 @@ udver: '2'
 </table>
 
 Tense is a feature that specifies the time when the action took / takes / will take place,
-in relation to the current moment or to another action in the utterance. The `tense` feature occurs with verbs ([VERB]())
-and auxiliary verbs ([AUX]()).
+in relation to the current moment or to another action in the utterance.
+The `Tense` feature occurs with verbs ([VERB]() and [AUX]()).
 
 Verbs in Pashto have simple forms for the present and past tenses.
-There is also a compound future tense and perfect tenses described below.
+There is also a compound future tense and perfect tenses, that are described below.
+
 
 ### <a name="Pres">`Pres`</a>: present
 
-The present tense combined with imperfective aspect `Aspect=Imp`
-denotes actions that are happening in the present moment
+The present tense denotes actions that are happening in the present moment
 or happen repeatedly in the period spanning through the present moment.
 
-The present tense combined with perfective aspect `Aspect=Perf`
-would have no use, since there cannot be a punctual action happening in the present moment,
-but these forms have the meaning of the subjunctive mood. This is not marked, because
-the forms are formally indicative and they are used also for the future
-perfective tense.
+The present forms are imperfective and they are marked with `Aspect=Imp` feature,
+although there are is no present perfective,
+since there cannot be a punctual action happening in the present moment.
+The present perfective forms are used for the subjunctive mood,
+which does not have any `Tense` nor `Aspect` feature marked.
 
-The regular verbs have simple forms for the present tense in boths aspects.
-The forms for the third person of both numbers are usually identical.
+#### Formation
+* present imperfective stem + present endings
 
-Overview of the present endings:
-<table border="1">
-<tr>
-  <td/>
-  <td align="middle"><b>SG</b></td>
-  <td align="middle"><b>PL</b></td>
-</tr>
-<tr>
-  <td align="middle"><b>1</b></td>
-  <td align="middle">م ëm</td>
-  <td align="middle">و u</td>
-</tr>
-<tr>
-  <td align="middle"><b>2</b></td>
-  <td align="middle">ې e</td>
-  <td align="middle">ئ ëy</td>
-</tr>
-<tr>
-  <td align="middle"><b>3</b></td>
-  <td align="middle" colspan="2">ي i</td>
-</tr>
-</table>
+#### Compound use
+* future imperfective: auxiliary word بۀ‎ _bë_ (with [aux:fut](../dep/aux-fut.html) relation) + present
 
 #### Examples
-
 * present imperfective: کتاب **لرلم** _kitấb **lwalë́m**_ “I am reading a book”
-* present perfective (=subjunctive): کتاب **ولرلم** _kitấb **wë́lwalëm**_ “so that I read a book / I would read a book”
+<!-- * present perfective (=subjunctive): کتاب **ولرلم** _kitấb **wë́lwalëm**_ “so that I read a book / I would read a book” -->
+
 
 ### <a name="Past">`Past`</a>: past
 
 The past tense denotes actions that happened (once or repeatedly)
 or were happening in the past. It has simple forms for both aspects.
 The transitive verbs in the past tense agree with their objects instead
-of the subjects. The past verb stem for the past tense may differ from the present stem.
-The forms for the third person of both numbers are further distinguished
-according to the `Gender`.
+of the subjects.
 
-Overview of the past endings:
-<table border="1">
-<tr>
-  <td/>
-  <td align="middle" colspan="2"><b>SG</b></td>
-  <td align="middle" colspan="2"><b>PL</b></td>
-</tr>
-<tr>
-  <td/>
-  <td align="middle"><b>M</b></td>
-  <td align="middle"><b>F</b></td>
-  <td align="middle"><b>M</b></td>
-  <td align="middle"><b>F</b></td>
-</tr>
-<tr>
-  <td align="middle"><b>1</b></td>
-  <td align="middle" colspan="2">لم ëlëm</td>
-  <td align="middle" colspan="2">لو ëlu</td>
-</tr>
-<tr>
-  <td align="middle"><b>2</b></td>
-  <td align="middle" colspan="2">لې ële</td>
-  <td align="middle" colspan="2">لئ ëlëy</td>
-</tr>
-<tr>
-  <td align="middle"><b>3</b></td>
-  <td align="middle">ۀ ë<br/>- -</td>
-  <td align="middle">له ëla</td>
-  <td align="middle">لۀ ëlë<br/>ل ël</td>
-  <td align="middle">لې ële</td>
-</tr>
-</table>
+#### Simple uses and formation
+* imperfective: past imperfective stem + past endings
+* perfective: past perfective stem + past endings
+The `Tense=Past` feature is also used for past participles:
+* participle: past imperfective stem + ending لی- _-ë́lay_
+
+#### Compound uses
+* habitual: auxiliary word بۀ‎ _bë_ (with [aux:hab](../dep/aux-hab.html) relation) + past imperfective (see also [Aspect]() for details).
+* perfect tenses: participle + forms of ول _wël_ “to be” (with [aux:perf](../dep/aux-perf.html) relation, see below)
 
 #### Examples
 
@@ -111,26 +66,42 @@ Overview of the past endings:
 * past perfective: ما پرون کتاب **ولوستۀ** _mâ parún kitấb **wë́lwëstë**_ “I read a book yesterday”
 
 
-<h3>future</h3>
+<h3>Future</h3>
 
-The Pashto verbs have a compound future tense that consist of an auxiliary word بۀ _bë_
-and the present imperfective forms of the verb for the imperfective future
-and subjunctive forms for the perfective future.
-The auxiliary word has also other uses, so it does not bear the `Tense=Fut` feature.
-But it is connected to the main verb with the [aux:fut](../dep/aux-fut.html) relation subtype to indicate the future meaning.
+The future tense denotes actions that will happen (once or repeatedly) or will be happening in the future.
+It has only compound forms and distinguishes both aspects.
 
+#### Formation
+* imperfective: auxiliary word بۀ‎ _bë_ (with [aux:fut](../dep/aux-fut.html) relation) + present imperfective
+* perfective: auxiliary word بۀ‎ _bë_ (with [aux:fut](../dep/aux-fut.html) relation) + subjunctive
 
 #### Examples
 
 * future imperfective: صبا **بۀ** کتاب **لرلم** _sabấ **bë** kitấb **lwalë́m**_ “I will be reading a book tomorrow”
 * future perfective: صبا **بۀ** کتاب **ولرلم** _sabấ **bë** kitấb **wë́lwalëm**_ “I will read a book tomorrow”
 
-<h3>perfect tenses</h3>
+<h3>Perfect tenses</h3>
 
-In Pashto, there are also compound forms of perfect tenses (past perfect, present perfect, future perfect),
-which consist of a participle and an auxiliary verb ول _wël_ “to be” in the present, past or future tense.
-The auxiliary verb is connected to the participle with the [aux:perf](../dep/aux-perf.html) relation subtype to indicate the perfect meaning.
+In Pashto, there are also compound forms of perfect tenses: present perfect, past perfect and future perfect.
+They describe an event preceding (i.e, that has / had / will have happened before) another event,
+which is expressed by a usual tense.
+The term "perfect" here should not be confused with the perfective aspect
+which means a punctual event in past or future, not precedence like the perfect tenses.
+
+#### Formation and use
+The perfect tenses use indicative forms of the auxiliary verb ول _wël_ “to be” (with [aux:perf](../dep/aux-perf.html) relation),
+which do not distinguish the aspect:
+* present: past participle of the content verb + present of the auxiliary verb
+* past: past participle of the content verb + past of the auxiliary verb
+* future: past participle of the content verb + future of the auxiliary verb
+
+The auxiliary verb in the present perfect may be omitted, if the subject is known.
+A phenomenom called "split ergativity" occurs in all perfect tenses for transitive verbs:
+both participle and the auxiliary verb agree with the object, instead of the subject.
 
 #### Examples
+* present perfect, intransitive, omitted auxiliary: پلار کور ته **تللی** _plâr kor ta **tlë́lay**_ “The father has gone home”
+* past perfect, transitive: ما نجلۍ **لیدلې وه** _mâ nǰë́lëy **lidë́le wa**_ “I had seen the girl”
+* future perfect, intransitive: دلته **به راغلی وي** _dë́lta **bë râġë́lay wi**_ “He will have come here”
 
 <!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:07 CET -->
