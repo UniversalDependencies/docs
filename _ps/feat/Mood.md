@@ -38,7 +38,8 @@ The indicative is the only finite form distinguishing the [Tense]() (see there f
 The indicative mood includes three sets of simple finite forms for these tenses and aspects:
 * present imperfective: present imperfective stem + present endings
 * past imperfective: past imperfective stem + past endings
-* past perfective: past perfective stem + past endings
+* past perfective: past perfective stem + past endings7
+
 The analogically formed present perfective forms are used for the subjunctive,
 as the punctual events cannot happen at the present point.
 
@@ -121,6 +122,7 @@ The bare conditional form is used in this way inly for transitive verbs.
 #### Compound conditional uses
 * intransitive verbs: conditional of the content verb + conditional وای _wây_ of the verb ول _wël_ “to be”
 * irreal consequence in the main sentence: auxiliary word بۀ‎ _bë_ + conditional
+
 The words وای _wây_ and  بۀ‎ _bë_ both with [aux:cnd](../dep/aux-pot.html) relation.
 
 #### Compound potential use
@@ -129,6 +131,7 @@ The words وای _wây_ and  بۀ‎ _bë_ both with [aux:cnd](../dep/aux-pot.ht
   * future potential: conditional of the content verb + future perfective the auxiliary verb
   * past potential: conditional of the content verb + conditional of the auxiliary verb
 * longer forms: shorter potential forms of کول _kawë́l_ “to do” + subjunctive of the content verb
+
 The auxiliaries کېدل _kedë́l_ and کول _kawë́l_ both with [aux:pot](../dep/aux-pot.html) relation.
 
 To combine both uses, the conditional and the potential, the perfective conditional form شوای _šwây_ of the auxiliary verb کېدل _kedë́l_ “to become”
