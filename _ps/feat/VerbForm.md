@@ -17,6 +17,8 @@ udver: '2'
 
 Verb form is an inflectional feature of verbs and verbal nouns.
 It classifies the form to several most general types of verb forms.
+The `VerbForm` feature occurs with verbs ([VERB]() and [AUX]())
+and in some cases also with nominals ([NOUN]() and [ADJ]()).
 
 For overview of verb stems mentioned below see [Pashto verbal system](../verbal-system.html).
 
