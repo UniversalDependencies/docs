@@ -11,9 +11,9 @@ For the principles of transliteration of Pashto used in UD see the [Transliterat
 ## Tokenization and Word Segmentation
 
 * The words are delimited by whitespaces and punctuation.
-* Multiword tokens are used in several cases:
-  * Partially separable verbs (see below) in forms, when the two parts are connected (بندوم _bandawë́m_ “I close” → کوم _band_ + بند _kawë́m_).
-  * Separeted verb prefixes connected with negative particle (به **ونه** خورم _bë **wënë́** xorëm_ “I will not eat” → و _wë_ + نه _në_).
+* Multiword tokens are used in these cases:
+  * separable light verb verbs in forms, when the two parts are joined, e.g. بندوم _bandawë́m_ “I close” → کوم _band_ + بند _kawë́m_
+  * contractions of pronouns and adpositions, e.g. پرې _pre_ “on it/him/her/them” → پر یې _për ye_ (see [ADP]() for details)
 
 ## Morphology
 
