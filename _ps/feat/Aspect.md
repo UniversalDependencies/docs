@@ -24,6 +24,7 @@ whereas the subjunctive is formed from the perfective stem. These forms do not b
 
 For overview of verb stems and verb endings mentioned below see [Pashto verbal system](../verbal-system.html).
 
+
 ### <a name="Imp">`Imp`</a>: imperfective
 
 The imperfective (or durative) aspect describes an action that happans or is happening for a period of time, e.g.
@@ -50,6 +51,7 @@ keeps happening through the present moment and will end in the future. -->
 * conditional (potential use): کور **جوړولای** شم _kor **ǰoṛawë́lây** šëm_ “I can build a house”
 * infinitive (passive use): کتاب **لوستل** کېږي _kitấb **lwastë́l** keǧí_ “The book is being read”
 
+
 ### <a name="Perf">`Perf`</a>: perfective
 
 The perfective (or punctual) aspect describes an action understood as occurring in one moment.
@@ -75,6 +77,7 @@ The verb form itself is then marked with `Aspect=Imp`, although together both wo
 * future: به یو کتاب **ولیکم** _bë yaw kitấb **wë́likëm**_ “I will write a book”
 * imperative: کتاب **ولوله** _kitấb **wë́lwala**_ “Write a book”
 * conditional (potential use): په ماښام **راغلای** شم _pë mâx̌ấm **râġë́lây** šëm_ “I can come in the evening”
+
 
 <h3>Habitual</h3>
 
