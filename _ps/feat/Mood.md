@@ -108,8 +108,8 @@ It is used on its own or in compound forms to express the conditional mood
 or in compound forms to express the potential mood.
 
 #### Formation
-* imperfective conditional: past imperfective stem + ending ای- _-ây_
-* perfective conditional: past perfective stem + ending ای- _-ây_
+* imperfective conditional: past imperfective stem + ending لای- _-ë́lây_
+* perfective conditional: past perfective stem + ending لای- _-ëlây_
 
 #### Simple conditional use
 The conditional form is used to express irreal conditions and their consequences.
