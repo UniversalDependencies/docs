@@ -106,7 +106,7 @@ Unlike in other languages, the infinitive is not used in modal constructions, wh
 
 #### Formation
 * imperfective infinitive: past imperfective stem + ending ل- _-ë́l_
-* perfective infinitive: past perfective stem + ending ل- _-ë́l_
+* perfective infinitive: past perfective stem + ending ل- _-ël_
 That is the direct case of the infinitive. All other cases are formed by adding an additional ending و- _o_.
 
 #### Examples
