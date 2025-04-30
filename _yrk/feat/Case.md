@@ -15,84 +15,75 @@ udver: '2'
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Nom">Nom</a></td>
   <td><a href="#Prl">Prl</a></td>
-  <td><a href="#Tra">Tra</a></td>
-</tr>
+  </tr>
 </table>
 
 
-Case is an inflectional feature for [nouns](u-pos/NOUN), [pronouns](u-pos/PRON), [adjectives](u-pos/ADJ)
-and [numerals](u-pos/NUM) in Komi-Zyrian.<br/>
-Komi-Zyrian has 25 inflectional cases.
+Case is an inflectional feature for [nouns](u-pos/NOUN), [pronouns](u-pos/PRON), [determiners](u-pos/DET), [adjectives](u-pos/ADJ), [numerals](u-pos/NUM), and [adpositions](u-pos/ADP) in Tundra Nenets.<br/>
+Tundra Nenets has 7 inflectional cases.
 
 
 ### <a name="Acc">`Acc`</a>: accusative
 
-In Komi-Permyak the specifically marked accusatives mark direct objects of verbs. This tends to be the marking of direct objects high in the hierarchies of identifiability and animacy.
+In Tundra Nenets, accusative marks the direct object of transitive verbs in main and embedded clauses.
 
 #### Examples
 
-* [koi] _Томмес <b>менӧ</b> озӧ вежӧртӧ_ "The young people don't understand <b>me</b>"
+* [yrk] _<b>яхамʼ</b> пулʼ нимня мадав_ "I crossed <b>the river</b> on the bridge"
+
 
 ### <a name="Abl">`Abl`</a>: ablative
 
-The ablative case expresses possessor of object.
+The ablative case expresses direction away from or out of something or somebody; the beginning of a period of time; cause; source/origin; standard of comparison.
 
 #### Examples
 
-* [koi] _босьті <b>друглісь</b> книгасӧ_ "I took <b>a friend's</b> book"
+* [yrk] _яхаʼ таркаʼ <b>пыяхад</b> тодоʼ яхаˮ сырӈадмʼ_ "<b>From the headland</b> at the fork I looked around."
+
+* [yrk] _<b>хубтахад</b> хуни_ "He has been sleeping <b>since morning</b>"
 
 ### <a name="Dat">`Dat`</a>: dative
 
-The dative case expresses transfer to someone.
+The dative case in Tundra Nenets expresses direction of movement; period of time; cause.
 
 #### Examples
 
-* [koi] _Ныв гижис <b>ёртыслӧ</b> гижӧт_ "The girl wrote to her friend"
+* [yrk] _няхар <b>ялян</b> хантадм_ "I will go away for three days"
 
 ### <a name="Gen">`Gen`</a>: genitive
 
-Prototypical meaning of genitive is that the noun phrase somehow
-belongs to its governor; it would often be translated by the English
-preposition _of_. In Komi-Permyak the genitive can be used to mark
-the possessor of a non-direct object.
-
+Genitive in Tundra Nenets marks the expression of a possessor; nominal modification; the object of postpositions; and the genitive of lexical nouns serves as the subject of nonfinite clauses.
 #### Examples
 
-* [koi] _<b>Петялӧн</b> ордчӧн олісьыс краситӧм йӧрсӧ._ "Petya's neighbor has painted the fence."
+* [yrk] _<b>махалэянда</b> ниʼ танэйвˮ_ "I climbed up <b>to its roof</b>"
 
 ### <a name="Loc">`Loc`</a>: locative
 
-The locative case expresses location inside of something.
+The locative case expresses general location; location in time or circumstances; instrument; means of transportation; cause; comitative..
 
 #### Examples
 
-* [koi] _<b>гортын</b> пукавны_ "sit at home"
+* [yrk] _яхаʼ <b>иканя</b> халяˮ танявыˮ_ "There were fish in the river"
+
+* [yrk] _тюку <b>яляхана</b> мань манзарадм_ "I will work today"
+
+* [yrk] _<b>Иванхана</b> то_ "He came with Ivan"
 
 ### <a name="Nom">`Nom`</a>: nominative / direct
 
-The base form of the noun, typically used as citation form (lemma).
+The nominative is morphologically unmarked. The subject of a finite clause, the subject of some non-finite clauses, pronominal possessor, adnominal modifier, and imperative object stay in the nominative case in Tundra Nenets.
 
 #### Examples
+* [yrk] _марядʼ тяхана <b>ты</b> таня_ "There is a <b>reindeer</b> behind the fence."
 
-* [koi] _<b>понйыс</b> котралӧ_ "the dog is running"
+* [yrk] _<b>ты </b> хадаʼ_ "Kill a <b>reindeer</b>!"
 
 ### <a name="Prl">`Prl`</a>: prolative
 
-The transitive case may indicate a pathway through a three-dimensional or a two-dimensional space.
-In the central dialects it is often distinguished from the transitive.
+The prolative case indicates a pathway through a three-dimensional or a two-dimensional space, and manner, cause, means, correlation.
 
 #### Examples
 
-* [koi] _<b>туйӧт</b>_ "along the road"
-
-### <a name="Tra">`Tra`</a>: translative
-
-The translative case may indicate a point a path passes through in two-dimensional space.
-In the central dialects it is often distinguished from the prolative in nouns.
-
-#### Examples
-
-* [koi] _<b>таті</b>_ "this way"
-
+* [yrk] _тарка <b>пыявна</b> ӈадимядмʼ_ "I ended up on a headland <b>along the fork</b> of the river."
 
 <!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:33 CET -->
