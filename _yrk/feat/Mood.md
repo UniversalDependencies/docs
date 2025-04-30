@@ -7,107 +7,158 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Cnd">Cnd</a></td>
-  <td><a href="#CndSub">CndSub</a></td>
-  <td><a href="#Des">Des</a></td>
+  <td><a href="#Appr">Appr</a></td>
+  <td><a href="#Aprx">Aprx</a></td>
+  <td><a href="#Dub">Dub</a></td>
+  <td><a href="#Hort">Hort</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Infr">Infr</a></td>
+  <td><a href="#Int">Int</a></td>
+  <td><a href="#"Jus">Jus</a></td>
   <td><a href="#Nec">Nec</a></td>
-  <td><a href="#Opt">Opt</a></td>
-  <td><a href="#Prec">Prec</a></td>
-  <td><a href="#Proh">Proh</a></td>
+  <td><a href="#Pot">Pot</a></td>
+  <td><a href="#Prob">Prob</a></td>
+  <td><a href="#Rep">Rep</a></td>
+  <td><a href="#Reput">Reput</a></td>
   <td><a href="#Sub">Sub</a></td>
 </tr>
 </table>
 
-Mood is a feature that expresses modality and subclassifies finite
-[verb](myv-pos/VERB) forms.
+Mood is a feature that expresses modality and subclassifies finite [verb](myv-pos/VERB) forms.
 
-### <a name="Cnd">`Cnd`</a>: conditional
 
-The conditional mood is used to express conditions, i.e. protasis, for actions of the main clause. This mood marker can be found in finite and non-finite forms alike, as well as followed by derivational suffixes.
+### <a name="Appr">`Appr`</a>: apprehensive
 
-#### Examples
-
-* [myv] _<b>молиндерятано</b> кинов, а ванови телевидениянь программась_ "<b>if we go</b> to the movies, we won't see the t.v. program"
-
-### <a name="CndSub">`CndSub`</a>: conditional-conjunctive
-
-The conditional-conjunctive is attested in the subordinate clause, and, depending on the language variant, its constituents may alternate in order.
+The core meaning of the apprehensive is fear about the future.
 
 #### Examples
 
-* [myv] _Паро улевель <b>максовольтьдеряй</b> моненьгак лишме._ "It would be good if the were to give me a horse, too."
+* [yrk] _<b>ни-рва-дм</b> пуда_ "If only I wouldn’t be late!"
 
-### <a name="Des">`Des`</a>: desiderative
 
-The desiderative mood is used to express desired or potential actions that are not fulfilled.
+### <a name="Aprx">`Aprx`</a>: approximative
+
+The approximative expresses the meaning ‘it seems, it looks like’ and basically denotes a higher degree of certainty than, e.g., the probabilitative, because the situation is either witnessed by the speaker directly or is familiar to her from previous experience.
 
 #### Examples
 
-* [myv] _<b>молексэлинек</b> кинов_ "we <b>would have gone</b> to the movies (, but we didn't go)"
-* [myv] _<b>прыксэлинек</b>_ "we <b>almost fell over</b> (, but we didn't)"
+* [yrk] _нохомʼ <b>хада-нараха</b>_ "It looks that he killed a polar fox"
+
+
+### <a name="Dub">`Dub`</a>: Dubitative
+
+The dubitative has a variety of epistemic meanings including uncertainty, doubts and possibility. In some instances it indicates the inference that the event is bound to occur.
+
+#### Examples
+
+* [yrk] _тирта ӈано <b>то-ванӈкабя</b>_ "The plane will probably arrive."
+
+
+### <a name="Hort">`Hort`</a>: hortative
+
+The hortative only exists in the 1st person, and used to express exhortations to the 1st person.
+
+#### Examples
+
+* [yrk] _маньʼ тюкум <b>хана-ха-дмʼ</b>_ "_<b>Let me take</b> this_"
+
 
 ### <a name="Imp">`Imp`</a>: imperative
 
-The speaker uses the imperative to order or ask the addressee to perform the
-action of the verb, the subject is limited to the second person.
+The imperative only exists in the 2nd person.
 
 #### Examples
 
-* [myv] _<b>паник</b> каштомсо_ "_<b>bake it</b> in the oven_"
+* [yrk] _ты <b>хадаˮ</b>_ "_<b>kill</b> a reindeer_"
 
 ### <a name="Ind">`Ind`</a>: indicative
 
-The indicative can be considered the default mood. A verb in the
-indicative merely states that something happens, has happened or will
-happen, without adding any attitude of the speaker.
+The indicative is the default mood, it is unmarked in Tundra Nenets.
 
 #### Examples
 
-* [myv] _мон <b>содан</b>_ "I <b>know</b>"
+* [yrk] _маньʼ <b>хонара-дмʼ</b>_ "I have fallen asleep."
+
+
+### <a name="Infr">`Infr`</a>: inferential
+
+The inferential mood conveys a large variety of evidential meanings. It often denotes the events which cannot be witnessed directly.
+
+#### Examples
+
+* [yrk] _пухуцяда едмʼ мале пире-ви_ "The old woman had already boiled the kettle"
+
+
+### <a name= "Int">`Int`</a>: interrogative
+
+The interrogative mood is used in all types of questions. The interrogative only has past tense reference.
+
+#### Examples
+
+* [yrk] _пыдар <b>хонара-са-нʼ</b>?_ "Did you fall asleep?"
+
+
+### <a name="Jus">`Jus`</a>: jussive
+
+A directive mood only having 3rd person forms.
+
+#### Examples
+
+* [yrk] _хаёя_ "let him stay"
+
+
 
 ### <a name="Nec">`Nec`</a>: necessative
 
-The necessative mood is equated with the use of the `-Ома` non-finite occuring in the predicate position.
+The 1st and 3rd person necessitative conveys expectation, some degree of certainty about a future event (‘should’), or deontic obligation. The 2nd person is close to permissive.
 
 #### Examples
 
-* [myv] _Учан вана эйсэнзэ, не читнестэ <b>самаль</b> уш тензэ._ "I'm waiting for him you see, he <b>should be coming</b> one of these days."
+* [yrk] _мякани <b>пя-бцу-вʼ</b>_ "I should go home"
 
-### <a name="Opt">`Opt`</a>: optative
 
-The optative is used for three persons in two numbers. It expresses a concessive attitude and at time resultative.
+### <a name="Pot">`Pot`</a>: potential
 
-#### Examples
-
-* [myv] _ков <b>илязат</b> моле, сайть свал конёв мартот_ "where ever <b>you don't</b> go, always take paper with you (where ever you go,...)"
-
-### <a name="Prec">`Prec`</a>: precutive
-
-The precutive mood is used to express requests instead of commands.
+The 1st person potential expresses a promise about a future event, the 2nd person potential conveys hope.
 
 #### Examples
 
-* [myv] _<b>сака</b> тей_ "<b>Could you come</b> here"
+* [yrk] _ситʼ маркана <b>хо-бцаке-дмʼ</b>_ "I'll try to find you in the city"
 
-### <a name="Proh">`Proh`</a>: prohibitive
 
-The prohibitive mood is used to express prohibiting of an action vs the contrastive negation of an imperative.
+### <a name="Prob">`Prob`</a>: probabilitative
 
-#### Examples
-
-* [myv] _<b>Илядо</b> кавтолдо те сонсь Елеська._ "<b>don't</b> doubt it, that is Yeleska himself."
-
-### <a name="Sub">`Sub`</a>: conjunctive (subjunctive)
-
-The conjunctive mood (also subjunctive) is attested in both the main clause and subordinate clauses. It is used to express actions that would have taken
-place under some circumstances but they actually did not / do not
-happen.
-The conjunctive is also used to express volition in both proclamations and questions
+The probabilitative expresses probability. The speaker is not certain about the reality of the described event but makes a guess, often based on inference.
 
 #### Examples
 
-* [myv] _<b>молевлинек</b> кинов_ "we <b>would like to go</b> to the movies"
+* [yrk] _нянаʼ <b>пэда-вэкэн</b>_ "You must have become very tired"
+
+
+### <a name="Rep">`Rep`</a>: reportative
+
+It conveys an unwitnessed event usually known from hearsay.
+
+#### Examples
+
+* [yrk] _мань <b>хонара-рахавев</b>!_ "I must have fallen asleep!"
+
+### <a name="Reput">`Reput`</a>: reputative
+
+The reputative mood expresses some kind of irrealis comparision (‘as if’), or low probability.
+
+#### Examples
+
+* [yrk] _нисями нгавэн <b>то-вна</b>_ "My father is unlikely to come"
+
+### <a name="Sub">`Sub`</a>: subjunctive
+
+The 1st person subjunctive expresses a promise (often one which the speaker does not seriously intend to keep) or agreement, often involuntary, to perform the action. The 2nd person subjunctive is directive but it is more polite or more remote imperative.
+
+#### Examples
+
+* [yrk] _книга-мʼ <b>темда-и-дмʼ</b>_ "I will buy the book (leave me in peace!)"
+
 
 <!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:47 CET -->
