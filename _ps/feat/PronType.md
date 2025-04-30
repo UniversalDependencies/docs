@@ -52,7 +52,7 @@ Personal pronouns for the first and the second person and reflexive personal pro
 <tr>
   <td align="left">
     <b>Oblique</b><br/>
-    <b>Local</b><br/>
+    <b>Locative</b><br/>
   </td>
   <td align="middle", rowspan=2>ما mâ</td>
   <td align="middle", rowspan=2>تا tâ</td>
@@ -132,7 +132,7 @@ Personal pronouns for the third person vary depending on deixis:
 <tr>
   <td align="left">
     <b>Oblique</b><br/>
-    <b>Local</b><br/>
+    <b>Locative</b><br/>
     <b>Ablative</b>
   </td>
   <td align="middle"></td>
@@ -268,7 +268,7 @@ The long proximate pronouns bear the feature `Variant=Long`.
 <tr>
   <td align="left">
     <b>Oblique</b><br/>
-    <b>Local</b><br/>
+    <b>Locative</b><br/>
     <b>Ablative</b>
   </td>
   <td align="middle"></td>
@@ -337,7 +337,7 @@ The remote series is stressed on the first syllable, not on the second one like 
 <tr>
   <td align="left">
     <b>Oblique</b><br/>
-    <b>Local</b><br/>
+    <b>Locative</b><br/>
     <b>Ablative</b>
   </td>
   <td align="middle"></td>
@@ -425,7 +425,7 @@ The remote series is stressed on the first syllable, not on the second one like 
 <tr>
   <td align="left">
     <b>Oblique</b><br/>
-    <b>Local</b><br/>
+    <b>Locative</b><br/>
     <b>Ablative</b>
   </td>
   <td align="middle">چا čâ</td>
@@ -477,7 +477,7 @@ The only reciprocal pronoun in Pashto is indeclinable یوبل <i>yë́wbël</i>
 <tr>
   <td align="left">
     <b>Oblique</b><br/>
-    <b>Local</b><br/>
+    <b>Locative</b><br/>
     <b>Ablative</b>
   </td>
   <td align="middle">ځینو żíno</td>
@@ -515,7 +515,7 @@ It is used usually in negative sentences. It can mean also “which” (marked a
 <tr>
   <td align="left">
     <b>Oblique</b><br/>
-    <b>Local</b><br/>
+    <b>Locative</b><br/>
     <b>Ablative</b>
   </td>
   <td align="middle">هرچا harčấ</td>
@@ -547,7 +547,7 @@ The latter can be used also separately as a pronoun.
 <tr>
   <td align="left">
     <b>Oblique</b><br/>
-    <b>Local</b><br/>
+    <b>Locative</b><br/>
     <b>Ablative</b>
   </td>
   <td align="middle">هیچا hičấ</td>
