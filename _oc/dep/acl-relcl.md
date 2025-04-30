@@ -24,5 +24,4 @@ nsubj(deu, qui)
 
 ~~~
 
-N.B.: For cleft sentences, the [advcl:cleft]() subrelation is used in most French corpora.
 <!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:14 CET -->
