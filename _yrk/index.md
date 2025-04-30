@@ -14,9 +14,10 @@ udver: '2'
 * Bound morphemes, such as suffixes and clitics, are not split during tokenization. Instead, internal morphological information (e.g., agreement, case, tense, mood) is encoded in the MISC features as morphological glosses. Gloss labels follow the recommendations of the Leipzig Glossing Rules.
 * Punctuation is tokenized and annotated based on the prosodic and discourse features of the spoken data. Prosodic boundaries corresponding to punctuation are explicitly marked with a special SIL (silence) label and assigned a PUNCT part-of-speech tag.
 * Non-standard phenomena typical of spoken language (e.g., false starts, repetitions, disfluencies) are tokenized, ensuring that the treebank accurately reflects the characteristics of spoken Tundra Nenets while maintaining maximal syntactic transparency.
+
 ## Morphology
 ### Tags
-* Tundra Nenets uses 15 of the universal POS categories. These are as follows (in alphabetical order): [ADJ](), ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, VERB, and X.
+* Tundra Nenets uses 15 of the universal POS categories. These are as follows (in alphabetical order): [ADJ](), [ADP](), [ADV](), [AUX](), [CCONJ](), [DET](), [INTJ](), [NOUN](), [NUM](), [PART](), [PRON](), [PROPN](), [PUNCT](), [VERB](), and [X]().
 * Auxiliaries are all verbal in Tundra Nenets. The following auxiliaries are found in the language:
     - Negative auxiliaries, which combine with the negated form of the lexical verb (connegative):
 	   - the standard negative auxiliary: ни-
