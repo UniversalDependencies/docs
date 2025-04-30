@@ -38,12 +38,23 @@ udver: '2'
 * Adpositions can take Case markers (genitive, locative, dative, ablative, and prolative) and may also bear possessive suffixes.
 ## Syntax
 
-*
+Subject
+* In main clauses, subjects are predominantly marked by the nominative case, both in lexical and pronominal forms. Subjects obligatorily trigger agreement on the finite verb in terms of person and number. A limited set of stative adjectival predicates, such as 'be good', require their subjects to appear in the locative case.
+* In embedded non-finite clauses, the lexical subject typically appears in the genitive case, while pronominal subjects retain the nominative form. Agreement in such constructions is encoded on the non-finite predicate via possessive suffixes, which reflect the person and number of the embedded subject.
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+Object
+* Lexical and pronominal objects are consistently marked by the accusative case across all clause types. An exception arises in imperative clauses, where the object appears in the nominative case. 
+* Topicalised (i.e., given or discourse-known) objects trigger number agreement on transitive verbs.
+Oblique Grammatical Functions
+* The semantic role of the indirect object is encoded by the dative case. However, dative-marked expressions do not constitute a dedicated structural position for indirect objects; rather, they function similarly to other arguments or adjuncts. Both arguments and adjuncts may be marked either by locative or directional case suffixes, or by postpositions.
 
----
+Clause Structure and Word Order
+* Subordination is predominantly expressed by non-finite verb forms, which consistently precede the finite verb of the main clause. Coordination is typically asyndetic: coordinated elements are juxtaposed without overt markers, although there exist two coordinating conjunctions in the language.
+* The word order is uniformly head-final at both the phrase and clause levels, with the finite verb occupying the final position in the sentence. Two notable exceptions to verb-finality exist. First, in negated constructions, the negative auxiliary is not sentence-final; it precedes the non-finite negated lexical verb, although the auxiliary phrase as a whole remains in final position. Second, so-called post-verbal afterthoughts are used for clarification or correction — represent a universal repair strategy that also breaks the verb-final pattern.
+
+Nonverbal Predication and Copula Use
+* Nominal and adjectival predicates exhibit verbal agreement through person and number markers directly attached to the predicate, without the presence of an overt copula, in both present and past tenses. In contrast, the use of the copula becomes obligatory in all other tense forms. In such cases, agreement markers are affixed to both the nonverbal predicate and the copular verb.
+* Adverbial predicates, with the exception of a limited set of irregular adverbs that pattern like Nominals, always require an overt copula regardless of tense or agreement. Additionally, existential clauses make use of a distinct existential verb.
 
 ## Treebanks
 
