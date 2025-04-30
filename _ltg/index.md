@@ -6,8 +6,7 @@ udver: '2'
 
 # UD for Latgalian <span class="flagspan"><img class="flag" src="../../flags/svg/LV-LTG.svg" /></span>
 
-It is important to note that currently UD guidelines for annotating Latgalian is in a very early stage as not much text has been annotated yet. Currently these guidelines are strongly based on Latvian guidelines and everything not described here is assumed to be annotated similarly as Latvian.
-**NB** This is subject to change when more texts will be annotated.
+It is important to note that currently UD guidelines for annotating Latgalian is in a very early stage as not much text has been annotated yet. Currently these guidelines are strongly based on Latvian guidelines and everything not described here is assumed to be annotated similarly as Latvian. **NB!** This is subject to change when more texts will be annotated.
 
 
 ## Tokenization and Word Segmentation
