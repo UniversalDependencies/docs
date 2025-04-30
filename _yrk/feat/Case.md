@@ -47,12 +47,14 @@ The ablative case expresses direction away from or out of something or somebody;
 The dative case in Tundra Nenets expresses direction of movement; period of time; cause.
 
 #### Examples
+* [yrk] _нёнда <b>синʼ</b> тэвывʼ_ "I arrived <b>to its door</b>."
 
-* [yrk] _няхар <b>ялян</b> хантадм_ "I will go away for three days"
+* [yrk] _няхар <b>ялян</b> хантадм_ "I will go away <b>for three days</b>"
 
 ### <a name="Gen">`Gen`</a>: genitive
 
 Genitive in Tundra Nenets marks the expression of a possessor; nominal modification; the object of postpositions; and the genitive of lexical nouns serves as the subject of nonfinite clauses.
+
 #### Examples
 
 * [yrk] _<b>махалэянда</b> ниʼ танэйвˮ_ "I climbed up <b>to its roof</b>"
@@ -63,13 +65,13 @@ The locative case expresses general location; location in time or circumstances;
 
 #### Examples
 
-* [yrk] _яхаʼ <b>иканя</b> халяˮ танявыˮ_ "There were fish in the river"
+* [yrk] _яхаʼ <b>иканя</b> халяˮ танявыˮ_ "There were fish <b>in the river</b>"
 
-* [yrk] _тюку <b>яляхана</b> мань манзарадм_ "I will work today"
+* [yrk] _тюку <b>яляхана</b> мань манзарадм_ "I will work <b>today</b>"
 
-* [yrk] _<b>Иванхана</b> то_ "He came with Ivan"
+* [yrk] _<b>Иванхана</b> то_ "He came <b>with Ivan</b>"
 
-### <a name="Nom">`Nom`</a>: nominative / direct
+### <a name="Nom">`Nom`</a>: nominative
 
 The nominative is morphologically unmarked. The subject of a finite clause, the subject of some non-finite clauses, pronominal possessor, adnominal modifier, and imperative object stay in the nominative case in Tundra Nenets.
 
