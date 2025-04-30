@@ -60,6 +60,12 @@ These are to some extent parallel to interrogatives.
 * _тоді&nbsp;_ “then”
 * _так&nbsp;_ “so”
 
+### <a name="Rcp">`Rcp`</a>: reciprocal pronoun, determiner or adverb
+
+#### Examples
+
+* _одне одного&nbsp;_ “each other, one another”
+
 ### <a name="Tot">`Tot`</a>: total (collective) pronoun, determiner or adverb
 
 #### Examples
