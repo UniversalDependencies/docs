@@ -65,8 +65,6 @@ one or more children attached via the [fixed]() relation).
 
 ### <a name="PART">`PART`</a>: multiword particle
 
-All words in the construction are [PART]().
-
 #### Examples
 
 * _te bija <b>it kā</b> maza būdiņa_ "there was ??? a little hut". _it 
