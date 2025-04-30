@@ -29,6 +29,14 @@ A plural noun denotes several persons, animals or things.
 * _<b>молодые женщины пришли</b>&nbsp;_ “young women came”
 * _<b>маленькие цыплята пришли</b>&nbsp;_ “small chickens came”
 
+### <a name="Dual">`Dual`</a>: dual number
+
+A dual noun denotes two objects and is used with countable nouns and with overtly aggreeing verbs and adjectives only in citations from Old Russian and in some fossilized expressions.
+
+#### Examples
+
+* _<b>оба багряная стлъпа погасоста</b>&nbsp;_ “both crimson pillars went out”
+
 ### <a name="Ptan">`Ptan`</a>: plurale tantum
 
 Some nouns appear only in the plural form even though they denote one
