@@ -41,4 +41,4 @@ udver: '2'
 
 There is only one Odia UD treebank at present:
 
-  * [Odia-ODTB](../treebanks/or_a/index.html)
+  * [Odia-ODTB](../treebanks/or_odtb/index.html)
