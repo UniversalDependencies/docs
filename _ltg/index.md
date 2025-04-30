@@ -6,7 +6,8 @@ udver: '2'
 
 # UD for Latgalian <span class="flagspan"><img class="flag" src="../../flags/svg/LV-LTG.svg" /></span>
 
-It is important to note that currently UD guidelines for annotating Latgalian is in a very early stage as not much text has been annotated yet.
+It is important to note that currently UD guidelines for annotating Latgalian is in a very early stage as not much text has been annotated yet. Currently these guidelines are strongly based on Latvian guidelines and everything not described here is assumed to be annotated similarly as Latvian.
+**NB** This is subject to change when more texts will be annotated.
 
 
 ## Tokenization and Word Segmentation
@@ -104,6 +105,10 @@ Latgalian features rich set of deverbal derivations and not everything has been 
     * As a cross-reference to subject, person is also marked on finite verbs (`VERB`, [AUX]()).
 * [Foreign]() is annotated `Yes` for foreign words [X]().
 * [Abbr]() is annotated `Yes` for abbreviations, which can be nouns [NOUN]() (_DJ_), [PROPN]() (_NATO_), `ADJ` (_gūd._ "honored"), `VERB` (_sal._ "compare"), `ADV` (_p.Kr._ "anno Domini"), `SYM` (_v.tml._ "etc.").
+
+#### ExtPos
+
+[ExtPos]() is currently used for annotating `fixed` constructions. See [ExtPos]() for Latgalian for currently used values and examples.
 
 #### Unused Features
 
