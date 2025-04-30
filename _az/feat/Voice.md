@@ -11,9 +11,9 @@ udver: '2'
   <td><a href="#Cau">Cau</a></td>
   <td><a href="#CauCau">CauCau</a></td>
   <td><a href="#CauPass">CauPass</a></td>
+  <td><a href="#CauCauPass">CauCauPass</a></td>
   <td><a href="#Pass">Pass</a></td>
   <td><a href="#Rcp">Rcp</a></td>
-  <td><a href="#Rfl">Rfl</a></td>
 </tr>
 </table>
 
@@ -34,21 +34,29 @@ for the discussion.
 The subject of the verb is affected by the action (patient).
 The doer (agent) is either unexpressed or it appears as a noun phrase marked with postposition _tarafından_ "by" or suffix _-IncA_.
 
+#### Examples
+* _Xəstəxana xalqın xidmətinə verildi._ "The hospital was made available to the public."
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal voice
 
 A reciprocal verb describes an event in which two agents (or groups of agents) perform the same action upon each other.
 
+#### Examples
+* _Peterinәn Mary qucaxlaşdılar vә sonra otaqdan çıxdılar._ "Peter and Mary hugged each other and then left the room."
+
 ### <a name="Cau">`Cau`</a>: causative voice
 
 In causative constructions the subject is the entity "causing" the action. It generally translate to English as 'cause/make/have/let/allow' someone to perform action described by the main verb.
 
-### <a name="Rfl">`Rfl`</a>: reflexive voice
+#### Examples
 
-(**Currently not in UD**)
+* _Cəvanlara əlçatmaz hədəflərini tərk etdirməliyik._ "We must make the young abandon unattainable goals."
 
-A verb in reflexive voice expresses an action that the agent of the action performs on himself/herself.
-This should not be confused with reflexive verbs in some languages where the verb requires a reflexive pronoun (often without a clear role) in the sentence.
+### <a name="CauCauPass">`CauCauPass`</a>: double causative and passive voice
+
+#### Examples
+
+* _Kitab tamam mədrəsələrdə oxutdurulacax._ "The book will be made to be made to be read in all schools."
 
 
 ### <a name="CauCau">`CauCau`</a>: double causative voice
