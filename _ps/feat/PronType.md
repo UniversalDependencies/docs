@@ -73,7 +73,7 @@ Personal pronouns for the first and the second person and reflexive personal pro
   <td align="middle", colspan=2>(خپل xpël) **</td>
 </tr>
 </table>
-** Instead of a genitive form of the reflexive pronoun ځان <i>żân</i>, the reflexive possessive خپل <i>xpël</i> is used instead, which declines like common adjectives in agreement with the possessed object.
+** Instead of a genitive form of the reflexive pronoun ځان <i>żân</i>, the reflexive possessive خپل <i>xpël</i> is used, which declines like common adjectives in agreement with the possessed object.
 
 The reflexive pronouns ځان _żân_ and ځانونه _żânúna_ are used for refering to the subject regardless of the person (i.e. it is used for all three persons).
 
