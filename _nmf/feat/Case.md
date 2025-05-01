@@ -37,7 +37,7 @@ The ergative case marks the subject of transitive verb. The ergative marker in N
 
 * _<b>Peternan</b> thungzadi thewungae._ "**Peter** bent the branch."
 
-### <a name="Top">`Top`</a>: 
+### <a name="Top">`Top`</a>: topic
 
 The topic case marks what the sentence is about, by singling out a referent. The topic marker in Naga-Suansu is _-di_.
 
@@ -104,7 +104,7 @@ The benefactive case corresponds to the English preposition for. In Naga-Suansu,
 
 ## Case stacking
 
-Naga-Suansu allows case stacking (*Suffixaufnahme*, Plank 1985), where two case suffixes appear together on one noun phrase. Combinations found in the corpus include `GenAbl`, `DatAgn`, and `AgnTop`. 
+Naga-Suansu allows case stacking (*Suffixaufnahme*, Plank 1985), where two case suffixes appear together on one noun phrase. Combinations found in the corpus include `GenAbl`, `DatAgn`, and `AgnTop`.
 
 ### <a name="GenAbl">`GenAbl`</a>: genitive ablative
 
