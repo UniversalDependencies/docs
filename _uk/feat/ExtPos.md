@@ -63,3 +63,9 @@ employ the feature.
 
 * _<b>Будь ласка</b>, проходьте!_ "Please come in!" (_будь_ = `VERB`)
 * _<b>Слава Богу</b>, ви тепер зрозуміли!_ "Thank God, you understand now!" (_Слава_ = `NOUN`)
+
+### <a name="PART">`PART`</a>: particle-like expression
+
+#### Examples
+
+* _<b>Чи не</b> найбільший у світі_ "perhaps the largest in the world" (_чи_ = `PART`)
