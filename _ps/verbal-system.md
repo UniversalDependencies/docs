@@ -1,3 +1,9 @@
+---
+layout: base
+title:  'Transliteration and phonology'
+udver: '2'
+---
+
 # Pashto verbal system
 
 ## Verb stems
@@ -71,10 +77,10 @@ whereas the forms in the perfective system are stressed on this prefix. There ar
 If the verb stem begins in the vowel -ا _a-_, it merges with the perfective prefix into stressed -وا _wấ-_.
 
 Some verbs already have a prefix in the imperfective stem.
-The usual prefixes are: .
+The usual prefixes are: -کښېـ kx̌e-, -پرېـ pre-, -ننـ nëna-, -پورېـ pore- and the directional prefixes -را râ-, -در dar- or -ور war-.
 In this case, the perfective stem does not take another prefix, but instead,
-only the stress is moved from the ending onto the original prefix.
-This change does not show in the writing.
+only the stress is moved from the ending onto the original prefix (to its first syllable, if there are more).
+This change does not show in writing.
 
 * “to write”: **لیک**ل _**lik**ë́l_ → **ولیک**ل _**wë́lik**ël_
 * “to buy”: **اخیست**ل _**axist**ë́l_ → **واخیست**ل _**wấxist**ël_
@@ -345,4 +351,7 @@ Overview of UPOS tags and `VerbForm` feature values
 Example verb ليدل _lidë́l_ conjugated in all forms:
 
 ## Irregular verbs
+
+### “to be”: ول _wël_
+
 
