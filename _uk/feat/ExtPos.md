@@ -48,6 +48,7 @@ employ the feature.
 #### Examples
 
 * _дивитися <b>одне одному</b> в очі_ "look into each other's eyes" (_одне_ = `DET`)
+* _<b>де завгодно</b>, тільки не тут_ "anywhere but here" (_де_ = `ADV`)
 
 ### <a name="DET">`DET`</a>: determiner-like expression
 
