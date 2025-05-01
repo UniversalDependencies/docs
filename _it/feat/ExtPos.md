@@ -19,7 +19,7 @@ In Italian, only heads of a [`fixed`](https://universaldependencies.org/it/dep/f
 * _<b>prima delle</b> 6 di ieri mattina_ (_prima_ = `ADV`)
 * _<b>grazie a</b> un amico_ (_grazie_ = `NOUN`)
 * _<b>riguardo a</b> questo_ (_riguardo_ = `NOUN`)
-* _<b>prima di</b> dedicarsi alla terza età_ (_prima_ = `ADV`) 
+* _<b>prima di</b> dedicarsi alla terza età_ (_prima_ = `ADV`)
 <!-- aggiunta come caso di infinitiva - mi chiedo se non spostare qui l'esempio <b>così da</b> apparire più bello_ **-->
 
 
@@ -63,7 +63,10 @@ In Italian, only heads of a [`fixed`](https://universaldependencies.org/it/dep/f
 * _<b>salvo che</b> non si arrenda_ (_salvo_ = `ADP`)
 * _<b>da quando</b> lo ha scoperto non ne fa più a meno_ (_da_ = `ADP`)
 
-<!--_<b>così da</b> apparire più bello_ (_così_ = `ADV`) ** non sono sicura - forse meglio adposition-like expression**-->
 
+### <a name="INTJ">`INTJ`</a>: interjection-like expression
 
+#### Examples
+
+* _<b>mamma mia</b>_
 
