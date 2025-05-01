@@ -35,7 +35,7 @@ employ the feature.
 
 #### Examples
 
-* _відповідь в тексті, <b>а саме</b> в першому розділі_ "the answer is in the text, namely in the first section" (_а_ = `CCONJ`)
+* _відповідь у тексті, <b>а саме</b> в першому розділі_ "the answer is in the text, namely in the first section" (_а_ = `CCONJ`)
 
 ### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
 
