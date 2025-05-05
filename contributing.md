@@ -1,12 +1,12 @@
 ---
 layout: base
-title:  'Contributing'
+title:  'Contributing to UD Documentation'
 udver: '2'
 ---
 
-# How to contribute
+# How to contribute to documentation
 
-This page describes how to contribute to these online materials.
+This page describes how to contribute to these online materials documenting the UD guidelines and practices.
 
 Contents:
 
