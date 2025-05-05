@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'Universal Dependencies'
+title:  'Contributing to UD'
 udver: '2'
 ---
 
@@ -18,7 +18,9 @@ udver: '2'
   Issue trackers of individual treebank repositories should be used only to report bugs in those treebanks.
   You can also send an e-mail to the [UD mailing list](https://lists.uu.se/sympa/info/lingfil-ud); however, the list is primarily meant for announcements for data maintainers.
 
-* **Language-specific guidelines:** Language-specific documentation pages can be modified via the **edit** link at the top of the page.
+* **Editing documentation**
+  - [How to contribute to documentation](/contributing.html)
+  - **Language-specific documentation** pages can be modified via the **edit** link at the top of the page.
   There are also technical instructions for how to create [language-specific documentation](contributing_language_specific.html).
 
 * **Changes to general guidelines:** [Guidelines change history](changes.html)
