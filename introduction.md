@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'Universal Dependencies'
+title:  'Universal Dependencies: Short Introduction'
 udver: '2'
 ---
 
