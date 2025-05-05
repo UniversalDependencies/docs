@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'Universal Dependencies'
+title:  'UD Guidelines (Universal Dependencies)'
 shortdef: 'guidelines'
 udver: '2'
 ---
