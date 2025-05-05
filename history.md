@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'History'
+title:  'History of UD'
 shortdef: 'history'
 udver: '2'
 ---
