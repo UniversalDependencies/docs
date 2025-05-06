@@ -1,59 +1,48 @@
 ---
 layout: base
-title:  '<LanguageName> UD'
+title:  'Sindhi UD'
 udver: '2'
 ---
 
-# UD for LANGUAGE <span class="flagspan"><img class="flag" src="../../flags/svg/AQ.svg" /></span>
+# UD for Sindhi <span class="flagspan"><img class="flag" src="../../flags/svg/SD.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
-*
+Words in Sindhi are separated with whitespace and punctuation.
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
+Currently there is no MWT analysis.  However, there are verbs (both main and auxiliary) which use pronominal clitics.  Currently those are featurized with `Number[obj]`, `Number[subj]`, etc features.  Future editions may instead treat them as MWT.
 
----
 
 ## Morphology
 
 ### Tags
 
-*
+Sindhi uses 15 of the 17 POS tags.  Currently all punctuation is tagged PUNCT, with no SYM, and there are no words tagged X.
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
+PART is used for two general classes of words. Words considered "intensifiers" are tagged PART.  Furthermore, `نه` usually represents negation, but can also be an intensifier.  Intensifiers use the `advmod:emph` relation.
 
----
+Demonstrative pronouns can be used as either a determiner, when associated with a nominal, or as a pronoun, when used by themselves.  Following the standard established in other Indic languages, we tag all of them as DET.
+
+Two main classes of AUX are identified, `آهي` (to be) and `سگهي` (can).  Both verbs come with a wide variety of inflections.
 
 ### Features
 
-*
+As noted above, VERB (and AUX) can have pronominal clitics.  Those are annotated with `[subj]` and `[obj]` features.  Furthermore, whereas main verbs are typically tagged `VM` and auxiliary `VAUX` in the xpos column, verbs with clitics are marked in the xpos with `VMX` or `VAUXX`.
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
 
 ## Syntax
 
-*
+The auxiliary verb `آهي` has both copula and aux relations.
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
+* The following subtypes are used in Swedish:
+  * [advmod:emph]() for intensifiers, PART words which put emphasis on the (usually preceding) word they attach to
+  * [nsubj:pass]() for nominal subjects of passive verbs
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There is [1](../treebanks/LCODE-comparison.html) Sindhi UD treebanks:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
+  * [Sindhi-Isra](../treebanks/sd_isra/index.html)
 
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
 
 ---
