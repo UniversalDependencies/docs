@@ -22,7 +22,7 @@ employ the feature.
 
 #### Examples
 
-* _захищати, <b>в першу чергу</b> права людини_ "protect human rights above all" (_в_ = `ADP`)
+* _захищати <b>в першу чергу</b> права людини_ "protect human rights above all" (_в_ = `ADP`)
 * _напруга спаде <b>сама собою</b>_ "the tension will ease by itself" (_сама_ = `PRON`)
 
 ### <a name="ADJ">`ADJ`</a>: adjective-like expression
