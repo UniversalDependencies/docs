@@ -29,11 +29,19 @@ Two main classes of AUX are identified, `آهي` (to be) and `سگهي` (can).  
 
 As noted above, VERB (and AUX) can have pronominal clitics.  Those are annotated with `[subj]` and `[obj]` features.  Furthermore, whereas main verbs are typically tagged `VM` and auxiliary `VAUX` in the xpos column, verbs with clitics are marked in the xpos with `VMX` or `VAUXX`.
 
-VERBs occur in a variety of VerbForms.  Participles are distinguished not only by VerbForm, but also by Aspect.
+VERBs occur in a variety of VerbForms.  Participles are distinguished not only by VerbForm, but also by Aspect.  There is also the conjunctive participle, denoted by `VerbForm=Conv`, in which a verb indicates actions that occur in sequence.
 
 The AUX copula `آهي` occasionally occurs in a past subjunctive form, `ھا`.  Other main verbs will very rarely inflect as subjunctive.
 
 Standard features for NOUNs are Case (Acc or Nom), Number, and Gender.
+
+In some cases, VERBs function as NOUNs.  These can be marked with `VerbForm=Vnoun`.
+
+ADPs occur in three general classes:
+
+ - Locative ADPs, denoted with blank features and the xpos PSPL.  These do not inflect
+ - Genitive ADPs, which inflect for Case (Acc or Nom), tagged with xpos PSPG
+ - Everything else, tagged PSP and not marked with features, as they do not otherwise inflect
 
 ## Syntax
 
