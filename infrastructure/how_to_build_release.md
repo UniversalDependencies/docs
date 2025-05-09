@@ -67,14 +67,6 @@ See [here](release_checklist.html) for the checklist for data contributors.
 	tools/survey_enhancements.pl --datapath `pwd -P` --tbklist released_treebanks.txt | tee estats.log
 	```
 
-	```bash
-	( for i in UD_* ; do echo $i ; ( cat $i/*.conllu | enhanced_graph_properties.pl ) ; echo ; done ) |& tee estats.log
-	```
-
-	```bash
-	( for i in UD_* ; do echo $i ; ( cat $i/*.conllu | enhanced_classify_relations.pl > /dev/null ) ; echo ; done ) |& tee estats.log
-	```
-
   * If a treebank fills the DEPS column by mistake and it has not been caught by the validator
     (for example, only two enhanced edges in the treebank differ from their basic counterparts
     and it does not correspond to any of the defined enhancements), clear DEPS:
