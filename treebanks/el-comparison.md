@@ -6,83 +6,155 @@ udver: '2'
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <h1>UD_Greek-Cretan</h1>
+    </td>
+    <td width="25%" valign="top">
       <h1>UD_Greek-GDT</h1>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <h1>UD_Greek-GUD</h1>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h2>Tokenization and Word Segmentation</h2>
-    </td>
-    <td width="50%" valign="top">
-      <h2>Tokenization and Word Segmentation</h2>
+    <td width="25%" valign="top">
+      <h1>UD_Greek-Lesbian</h1>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="25%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="25%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="25%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 270 sentences and 4351 tokens.</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 2521 sentences, 61773 tokens and 63441 syntactic words.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 1807 sentences and 25493 tokens.</li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 270 sentences, 3200 tokens and 3333 syntactic words.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 263 tokens (6%) that are not followed by a space.</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 6140 tokens (10%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 1592 tokens (6%) that are not followed by a space.</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-      <li>This corpus does not contain words with spaces.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-      <li>This corpus does not contain words with spaces.</li>
+      <li>All tokens in this corpus are followed by a space.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 48 types of words that contain both letters and punctuation. Examples: τ', τσ', ό,τι, 'ναι, 'πε, σ', 'χει, 'βαλε, 'δεσε, 'χεις, Γι', απ', δώσ', είν', 'βγανε, 'βλεπε, 'δά, 'δα, 'δειχνε, 'δες, 'δινε, 'ζά, 'θελα, 'θελε, 'καμε, 'κανες, 'κείνη, 'κεινά, 'λεγε, 'μάς, 'μαι, 'ν', 'πέρνα, 'πα, 'παθες, 'πεφτε, 'πότισε, 'ρθω, 'σούσαν, 'τονε, 'φάνη, 'φτιαξε, 'χανε, 'χυνε, Άϊ-Γιωργιού, Αϊ-Γιάννη, Γιατ', καθ'</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 155 types of words that contain both letters and punctuation. Examples: κ., χλμ., γι', απ', σ', Β', π.χ., ό,τι, Ν., αριθ., μ', Γ', Λ'Άκουιλα, απ’, μ., ν', Β., Δρ., Παρ', κατ', 11_Σεπτεμβρίου, 11ης_Σεπτεμβρίου, 27_Δεκεμβρίου, 5_Σεπτεμβρίου, d', Α', ΑΚΕ/ΕΕ, Γ., Δ', Ε.Α.Μ., ΕΕ., ΕΛΚ-ΕΔ, Ναγκόρνο-Καραμπάχ, εκατ., επ', καθ', κλπ., στ', 10_Αυγούστου_1920, 11/24_Νοεμβρίου_1916, 11_Δεκεμβρίου, 11_Ιανουαρίου, 11η_Σεπτεμβρίου, 12ης_Ιανουαρίου, 13_Απριλίου_2000, 13_Δεκεμβρίου, 13_Ιανουαρίου, 15__Αυγούστου, 15_Ιανουαρίου, 16_Αυγούστου_1916</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 28 types of words that contain both letters and punctuation. Examples: σ', ν', μ', τ', ό,τι, απ', γι', άσ', καθ', 'λεγα, θ', τίποτ', 'γώ, 'κοψε, 'πε, 'πρεπε, 'ρθε, 'φαγε, 'χεις, 'χω, Μπε-εμ-βε, αντ', γουάι-φάι, δώσ', είδα-, επ', εφ', παρ'</li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 243 types of words that contain both letters and punctuation. Examples: τ’, μ’, απ’, τ’ς, τσ’, σ’, τ’ν, π’, γ’, ντ’, έχ’, ’γώ, κάν’, λέγ’ς, ξέρ’ς, γι’, κόρ’, λάδ’, μέσ’, ν’, γυρίσ’, γ’ναίκα, δ’λειά, κουμάτ’, ν-του, ν-τουν, ξέρ’, ούλ’, πάγ’, σπίτ’, Β’ναριώτις, Γιάνν’, Γιάνν’ς, Γιώργ’, ανοίγ’, γέμ’σι, γι-Απουστόλ’ς, θέλ’, θέλ’ς, θρώπ’, καζάντ’σι, κουμμάτ’, ουλ’, πάρ’, τιλιώσ’, τσιφάλ’, φέρ’, φ’λάγου, χέρ’, χουργ-ιό</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 1668 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 7 types of multi-word tokens. Examples: στην, στο, στη, στις, στον, στα, στους.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 133 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 80 types of multi-word tokens. Examples: στου, στα, στ’, γιεμ, κουρούδαμ, κόρημ, μπάτσι, πας, στη, στουν, στ’ν, τνώρα, τόχιτι, Πατέρασιτς, ήξιρειντα, ίσιαμ, ίσιαμι, αμί, απόξου, βρακουζώνς, γιομ, είπντα, εμπουρεί, εμπουρώ, ηφτσήμ, θκάς, θκος, ιφστήμ, κοντάμ, κόρηντ, λέγαντα, μάτιασ’, μήπι, μουρέλιμ, μουρφιάτσ, μουρόμ, νάβγει, νάν’, νάρτ, νέρτ, νήνταν, νανάψουν, νανοίξειν, ναπουμείνουμι, να’ρθείς, νείνη, ντάκανι, ντιπέρνη, πάγεντου, πάς.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <h2>Morphology</h2>
+      
+      <h3>Tags</h3>
+      
+      <ul>
+      <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
+      <li>This corpus does not use the following tags: SYM, X</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -92,7 +164,7 @@ udver: '2'
       <li>This corpus does not use the following tags: INTJ</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -101,93 +173,181 @@ udver: '2'
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <h2>Morphology</h2>
+      
+      <h3>Tags</h3>
+      
+      <ul>
+      <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+      <li>This corpus does not use the following tags: SYM</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 7 word types tagged as particles (PART): άνε, δε, δεν, μη, μην, μπας, να</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 5 word types tagged as particles (PART): δε, δεν, μη, μην, όχι</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 11 word types tagged as particles (PART): Ντεν, ας, δε, δεν, δηλαδή, καν, μη, μην, μπας, να, όχι</li>
+      <li>This corpus contains 9 word types tagged as particles (PART): Ντεν, δε, δεν, δηλαδή, καν, μη, μην, μπας, όχι</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 15 word types tagged as particles (PART): Ένι, Μπα, Οχ, ένη, δα, δε, δεν, ε, εν, μη, μην, μπά, να, όχ’, ’εν</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 19 lemmas tagged as pronouns (PRON): o, είντα, εγώ, ετούτος, καθένας, κιανείς, μου, ο, ποιoς, ποιος, που, τα, τζη, τι, το, τσι, τόσος, τόσοσας, ό,τι</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 25 lemmas tagged as pronouns (PRON): άλλος, ένας, αυτός, εγώ, εκείνος, κάποιος, κάτι, καθένας, κανένας, μερικοί, μου, οποίος, οποιοσδήποτε, οτιδήποτε, ποιος, που, τέτοιος, τίνος, τίποτα, ταύτα, τι, τούτος, ό,τι, όποιος, όσος</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 21 lemmas tagged as pronouns (PRON): Σ, άλλος, αυτός, δικός, εγώ, εκείνος, κάποιος, κάτι, κανένας, με, μου, οποίος, ου, ποιος, που, σε, τίνος, τίποτα, τι, ό,τι, όλος</li>
+      <li>This corpus contains 10 lemmas tagged as pronouns (PRON): δικός, εγώ, μου, οποίος, ου, ποιος, που, τίνος, τι, ό,τι</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 10 lemmas tagged as pronouns (PRON): ιγώ, μ, ν-του, π, ποιος, που, ς, τί, τι, τις</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 28 lemmas tagged as determiners (DET): 'κεινός, o, άλλος, ένας, ίδιος, αυτός, εκείνη, εκείνος, εκειονάς, εκειοσές, κάθε, κάτι, κανένας, κανείς, κιανείς, μερικός, μόνος, ο, πολύς, τάδε, τα, τη, τόσος, φορά, ό,τι, όλος, όποιος, όσος</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 17 lemmas tagged as determiners (DET): άλλος, ένας, αρκετός, αυτός, εκείνος, κάθε, κάποιος, κάτι, κανένας, μερικοί, ο, οιοσδήποτε, οποιοσδήποτε, ος, οτιδήποτε, τέτοιος, τον/την</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 40 lemmas tagged as determiners (DET): o, άλλος, ένας, ίδιος, αρκετός, αυτός, εκείνος, κάθε, κάποιος, κάτι, καθένας, κανένας, λίγο, λίγος, μερικοί, μερικός, μισός, μόνο, μόνος, ο, ολόκληρος, οποίος, οποιοσδήποτε, πάν, ποιος, πολύ, πολύς, πόσο, πόσος, τέτοιος, τίποτα, τι, τόσο, τόσος, υπόλοιπος, ό,τι, όλο, όλος, όποιος, όσος</li>
+      <li>This corpus contains 38 lemmas tagged as determiners (DET): o, άλλος, ένας, ίδιος, αρκετός, αυτός, εγώ, εκείνος, κάθε, κάποιος, κάτι, καθένας, κανένας, λίγο, λίγος, μερικοί, μερικός, μισός, μόνο, μόνος, ο, ολόκληρος, οποιοσδήποτε, πάν, ποιος, πολύ, πολύς, πόσο, πόσος, τέτοιος, τίποτα, τι, τόσο, τόσος, ό,τι, όλος, όποιος, όσος</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 27 lemmas tagged as determiners (DET): άλλος, άλλους, έγιουτους, έγιτουτους, έγιτσεινους, ένας, έφτους, αυτός, η, κάθα, κάθε, κάθι, κάτι, καθένας, κανένας, ο, ου, ούλους, πουλύς, τίπουτα, τα, τι, τις, του, τούτους, όποιους, όσους</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: o, κιανείς, ο, τα, τόσος, ό,τι</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>Out of the above, 11 lemmas occurred sometimes as PRON and sometimes as DET: άλλος, ένας, αυτός, εκείνος, κάποιος, κάτι, κανένας, μερικοί, οποιοσδήποτε, οτιδήποτε, τέτοιος</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-      <li>Out of the above, 12 lemmas occurred sometimes as PRON and sometimes as DET: άλλος, αυτός, εκείνος, κάποιος, κάτι, κανένας, οποίος, ποιος, τίποτα, τι, ό,τι, όλος</li>
+      <li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: εγώ, ποιος, τι, ό,τι</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: τι, τις</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): έχω, ας, είμαι, θα, να, πρέπει</li>
+      <li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): έχω, ας, είμαι, θέλω, θα, να</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): έχω, ας, είμαι, θα, να, πρέπει</li>
+      <li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): έχω, ας, είμαι, θα, να</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): έχω, ας, είμαι, θα, να</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): ας, είμι, θα, να</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: έχω, είμαι, θέλω</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: έχω</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-      <li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: έχω, είμαι, πρέπει</li>
+      <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: έχω</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Conv
+        <ul>
+          <li>VERB: σκίζοντας, τσιμουδογελώντας, χλιμιντρίζοντας</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -197,7 +357,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -206,31 +366,70 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-        <li>Fin
+        <li>Conv
         <ul>
-          <li>AUX: είναι, πρέπει, ήταν, έχει, έχουν, είχε, είχαν, είμαστε, έπρεπε, έχουμε</li>
-          <li>VERB: μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, ήθελα, βρίσκεται, πρόκειται</li>
-        </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li>Fin
-        <ul>
-          <li>AUX: είναι, ήταν, έχει, είμαι, έχουν, είχε, είμαστε, έχω, είχαν, είχα</li>
-          <li>VERB: είναι, λέει, λέω, μπορεί, ήταν, απαντάει, πρέπει, έχει, έχω, κάνει</li>
+          <li>VERB: γιλώντας, κλέγουντας, τραγδώντας</li>
         </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Fin
+        <ul>
+          <li>AUX: είναι, ήτανε, ήταν, ήτονε, 'ναι, είχε, είν', 'μαι, 'ν', 'τονε</li>
+          <li>VERB: κάνει, είπε, λέει, λέω, πήγε, ήκανε, πάει, πήρε, πεις, 'πε</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Fin
+        <ul>
+          <li>AUX: είναι, ήταν, έχει, έχουν, είχε, είχαν, είμαστε, έχουμε, είμαι, έχω</li>
+          <li>VERB: πρέπει, μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, ήθελα, βρίσκεται</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Fin
+        <ul>
+          <li>AUX: είναι, ήταν, έχει, είμαι, είμαστε, έχουν, είχε, έχω, είχαν, είσαι</li>
+          <li>VERB: λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, κάνει, ξέρω, ρωτάει</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Fin
+        <ul>
+          <li>AUX: είνι, ήνταν, ήταν, είναι, ένι, είμι, είνη, ήμν-ταν, είμη, ν’</li>
+          <li>VERB: έλα, έχ’, κάν’, λέγ’ς, ξέρ’ς, ήρτι, είπι, είχι, κάνου, πήγι</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Inf
+        <ul>
+          <li>AUX: 'θελα, θέλει</li>
+          <li>VERB: Γιάε, ανοίξει, δώσει, θάψει, κάνει, ξεσπάσει, πάρει, στέσει, σφάξει, φάει</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -239,18 +438,36 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Inf
         <ul>
-          <li>VERB: κάνει, φέρει, φύγει, έρθει, ακούσει, ανακαλύψει, ανακρίνει, αναρτήσει, αρχίσει, θησαυρίσει</li>
+          <li>VERB: περάσει, φύγει, έρθει, ακούσει, κάνει, φτάσει, αρχίσει, αφήσει, γίνει, δώσει</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Inf
+        <ul>
+          <li>VERB: πέρνη</li>
         </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Part
+        <ul>
+          <li>VERB: Ευλογημένη, αυλακιασμένα, βαφτισμένος, δασκαλεμένοι, δεμένα, κουρελιασμένος, κουρελοντυμένος, μεστωμένο, μπροκωμένη, μυρωμένος</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -259,7 +476,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -268,29 +485,70 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Nominal Features</h3>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Nominal Features</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-        <li><a>Gender</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a>Gender</a></li>
+        <li>Part
+        <ul>
+          <li>VERB: αγαπμέν, αγισμένους, λαδουμένου, λοιμ’τσιασμένους, μιτσ’μένους, σπασμένα, στιναχουρημέν, συκλινσμέν, τσ’στάμινους</li>
+        </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Fem
+          <ul>
+            <li>ADJ: αριστερή, μεγάλη, ούλη, Μεγάλης, Πεταχτούλα, Φαρμακόγλωσσες, άνομες, ανθρώπινη, γεμάτη, δεκαεφτάχρονη</li>
+            <li>DET: η, τη, την, μια, τσι, οι, τση, τσ', της, άλλες</li>
+            <li>INTJ: μωρή</li>
+            <li>NOUN: θεια, χάρη, κερά, παρέα, ώρα, γυναίκα, γυναίκες, κορφή, μύτη, νύχτα</li>
+            <li>NUM: δυο, τρεις</li>
+            <li>PRON: τηνε, τζη, την, που, τση, ντηνε, τσι, ντως, τη, της</li>
+            <li>PROPN: Μελεμενιά, Πινελιά, Δεσποινιώ, Κυριακή, Ανεζώ, Αννιά, Αρχουντού, Ασπασία, Βενετιά, Δεσποινιώς</li>
+            <li>VERB-Part: Ευλογημένη, μπροκωμένη</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -306,28 +564,60 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Fem
           <ul>
-            <li>ADJ: πρώτη, δική, δεύτερη, ναυτιλιακές, κυρία, μεγάλη, ανοιχτή, εύκολη, άδεια, απλή</li>
+            <li>ADJ: πρώτη, δική, δεύτερη, μεγάλη, ναυτιλιακές, κυρία, ανοιχτή, εύκολη, άδεια, απλή</li>
             <li>DET: την, η, τη, της, τις, μια, οι, άλλη, καμία, κάποια</li>
             <li>INTJ: Καλημέρα, καληνύχτα</li>
             <li>NOUN: πόρτα, δολοφονία, φορά, δουλειά, αστυνομία, εταιρείες, μέρα, έρευνα, γυναίκα, ληστεία</li>
-            <li>NUM: δύο, δυο, τρεις, μία, δέκα, μια, έντεκα, έξι, εννιά, οκτώ</li>
-            <li>PRON: της, που, την, τη, μου, σου, τις, Εγώ, Εσύ, άλλη</li>
+            <li>NUM: δύο, δυο, τρεις, μία, μια, δέκα, έντεκα, έξι, εννιά, οκτώ</li>
+            <li>PRON: της, που, την, τη, μου, σου, τις, Εγώ, Εσύ, με</li>
             <li>PROPN: Αδριανή, Ελλάδα, Κούλα, Κατερίνα, Μάνια, Αθήνα, Ελλάδας, Οδησσό, Ταϊλάνδη, Κηφισίας</li>
             <li>SCONJ: που</li>
-            <li>VERB: αγαπημένη, αποφασισμένη, αυξανόμενη, αυξανόμενης, βεβιασμένη, εγκατεστημένη, εισαγόμενης, εντοιχισμένη, επερχόμενες, καθιερωμένη</li>
             <li>VERB-Conv: κολλημένη</li>
             <li>VERB-Part: αγαπημένη, αποφασισμένη, αυξανόμενη, αυξανόμενης, βεβιασμένη, εγκατεστημένη, εισαγόμενης, εντοιχισμένη, καθιερωμένη, κεκτημένη</li>
           </ul>
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Fem
+          <ul>
+            <li>ADJ: καλή, αγιά, κυρά, Αγ’, Ρήνιω, αχριγιάννα, καημέν’, καλουσνάτ’, κατάβαρ’, κατακότσιν</li>
+            <li>DET: η, γη, τ’, τ’ς, μια, τ’ν, τν, τη, ντ’, ντ</li>
+            <li>INTJ: μουρή, βουρή, Καληνύχτα, μουρ</li>
+            <li>NOUN: μέρα, μάνα, ώρα, κόρη, κόρ’, γναίτσις, γ’ναίκα, δ’λειά, νύχτα, αλήθεια</li>
+            <li>NUM: μια, 2, 3, μιαν, τρεις</li>
+            <li>PRON: τ’ς, που, πού, τσ’, τ’, Ποια, ιτζ, ιτς, ντι, ντουν</li>
+            <li>PROPN: Ανθή, Αντρόνα, Παναγιά, Ρουζαλία, Ανάστασ, Αφρουδίτ, Βαρβάρα, Θουδώρα, Καλλουνή, Κατιρίνα</li>
+            <li>VERB-Part: αγαπμέν, στιναχουρημέν, συκλινσμέν</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Masc
+          <ul>
+            <li>ADJ: μεγάλος, φρέσκος, φτωχός, Κεφαλάς, Μαυροκακομοίρη, Μικιοί, Πασίχαρος, Πονόψυχος, Τίμιου, άγνωστος</li>
+            <li>DET: ο, του, τον, το, αυτός, τσοι, οι, ένας, τσ', τ'</li>
+            <li>INTJ: μωρέ, μπρε</li>
+            <li>NOUN: βασιλιάς, κύρη, σταυρό, γέρο, γερο, γιατρέ, κουμπάρος, κόσμο, φαμέγιο, Αϊ</li>
+            <li>NUM: Εκατό, διακόσιους, εκατόν, πέντε, πενήντα, σαράντα</li>
+            <li>PRON: ντου, του, τονε, που, τον, ντονε, τσοι, μου, σου, Ποιος</li>
+            <li>PROPN: Δρόσος, Μαθιός, Θιος, Νικολής, Προκόπης, Νικολάρος, Στελιανός, Νικολή, Θεού, Νικόλης</li>
+            <li>VERB: βαφτισμένος, δασκαλεμένοι, διαλεγώνα, κουρελιασμένος, κουρελοντυμένος, μυρωμένος, ξεσυγυρισμένους, φτιαγμένο</li>
+            <li>VERB-Part: βαφτισμένος, δασκαλεμένοι, κουρελιασμένος, κουρελοντυμένος, μυρωμένος, ξεσυγυρισμένους, φτιαγμένο</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -342,27 +632,60 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Masc
           <ul>
-            <li>ADJ: κύριε, Ασιάτη, Γεωργιανοί, Αγίου, πρώτος, Ασιάτης, αμίλητος, Ασιάτες, βέβαιος, κύριο</li>
-            <li>DET: ο, τον, του, οι, τους, το, έναν, όλοι, ένας, αυτοί</li>
+            <li>ADJ: κύριε, Ασιάτη, Γεωργιανοί, Αγίου, πρώτος, Ασιάτης, αμίλητος, Έλληνες, Ασιάτες, βέβαιος</li>
+            <li>DET: ο, τον, του, οι, τους, το, έναν, αυτός, όλοι, αυτοί</li>
             <li>NOUN: αστυνόμε, υπολογιστή, χρόνο, καφέ, δρόμο, υπαρχηγός, φόνο, αριθμό, υπαρχηγό, κλειδαρά</li>
-            <li>NUM: δύο, δυο, τρεις, Ένας, εννιά, τέσσερις, τριών</li>
+            <li>NUM: δύο, δυο, ένας, τρεις, έναν, εννιά, τέσσερις, τριών</li>
             <li>PRON: του, τον, τους, που, σας, μου, σου, εγώ, μας, με</li>
             <li>PROPN: Ούλι, Σωτηρόπουλος, Χαρδάκου, Λαλόπουλου, Βλασόπουλος, Γκίκα, Παπαδάκης, Σωτηρόπουλου, Δημητρίου, Γκίκας</li>
-            <li>SCONJ: που, ποιοι, ποιον</li>
-            <li>VERB: ευχαριστημένος, Σωπαίνω, άσ', αναστατωμένος, βυθισμένος, δυσαρεστημένος, εμπλεκόμενος, καλεσμένοι, καλμαρισμένος, καταχαρούμενοι</li>
+            <li>SCONJ: ποιος, ποιον, ποιοι</li>
+            <li>VERB: ευχαριστημένος, αναστατωμένος, βυθισμένος, δυσαρεστημένος, εκβιαζόμενος, εμπλεκόμενος, καλεσμένοι, καλμαρισμένος, καταχαρούμενοι, κουρδισμένος</li>
             <li>VERB-Conv: ευχαριστημένος</li>
-            <li>VERB-Part: ευχαριστημένος, αναστατωμένος, βυθισμένος, εμπλεκόμενος, καλεσμένοι, καλμαρισμένος, κουρδισμένος, κρατημένοι, πεσμένο, πεσμένος</li>
+            <li>VERB-Part: ευχαριστημένος, αναστατωμένος, βυθισμένος, εκβιαζόμενος, εμπλεκόμενος, καλεσμένοι, καλμαρισμένος, κουρδισμένος, κρατημένοι, πεσμένο</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Masc
+          <ul>
+            <li>ADJ: καημένους, Αγιού, Ελληνις, Ζουντανοί, Κύριοι, Πιδέξους, έρμου, έρμους, ήσυχους, αγαπσκό</li>
+            <li>DET: του, γιου, τουν, η, ένας, τ’, γ’, γι, γη, ι</li>
+            <li>INTJ: Βούρ’, μουρ, μουρέ</li>
+            <li>NOUN: άθριπους, γιε, γιατρός, άντρα, γιο, γιος, θρώπ’, κάμπου, καφινέ, κόσμους</li>
+            <li>NUM: ένα</li>
+            <li>PRON: τουν, τ’, ντ, ιμ, ιτ, μ, ν-τουν, Τις, ήμ, ημ</li>
+            <li>PROPN: Β’ναριώτις, Γιάνν’, Γιάνν’ς, Γιώργ’, Δησέφ, Χατζικουμής, γι-Απουστόλ’ς, 15, Απουστόλς, Βαγγέλ’</li>
+            <li>VERB: αγισμένους, κουλουξυρ’σμένους, λοιμ’τσιασμένους, μιτσ’μένους, τσ’στάμινους, ψουφμένοι</li>
+            <li>VERB-Part: αγισμένους, λοιμ’τσιασμένους, μιτσ’μένους, τσ’στάμινους</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Neut
+          <ul>
+            <li>ADJ: δίκαια, καλό, παχουλά, ροδοκόκκινα, Βοστρυχωτά, Μικρό, αγαπημένα, αδιανόητο, αθάνατο, αμέτρητα</li>
+            <li>DET: το, τα, τ', ό,τι, ένα, άλλα, του, αυτό, των, ίδια</li>
+            <li>INTJ: λοιπός</li>
+            <li>NOUN: σπίτι, χρόνια, νερό, γάλα, παιδί, πόδια, τέκνο, κρίματά, μεσάνυχτα, μπεγίρι</li>
+            <li>NUM: πέντε, Σαράντα, δεκαεφτά, δυο, δύο, είκοσι, ογδόντα, οχτακόσα, τρία, χίλια</li>
+            <li>PRON: το, είντα, τα, που, ντως, ό,τι, έτονα, εσείς, κιάνα, ντους</li>
+            <li>PROPN: Σηφαλιό, Γαρεφαλιό, Μιχαλιό, Ανεζώ, Δεσποινιό, Δεσποινιώ, Μαρουλιώ, Μελπονιό, Παρίσα, Φιτσανά</li>
+            <li>VERB-Part: αυλακιασμένα, δεμένα, μεστωμένο</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -378,7 +701,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -387,38 +710,88 @@ udver: '2'
             <li>INTJ: Συγχαρητήρια</li>
             <li>NOUN: σπίτι, γραφείο, τηλέφωνο, λεφτά, κεφάλι, χρόνια, κινητό, χέρι, δωμάτιο, βλέμμα</li>
             <li>NUM: δύο, δυο, ένα, πενήντα, δέκα, πέντε, τρία, διακόσια, δωδεκάμιση, είκοσι</li>
-            <li>PRON: το, που, τα, τι, αυτό, τ', άλλο, αυτά, τίποτα, του</li>
+            <li>PRON: το, που, τα, τι, τ', του, Ποιο, εγώ, οποία, ό,τι</li>
             <li>PROPN: Δήλεσι, Πάσχα, Σέατ, Ιράκ, Χαλάνδρι, Ελγίνεια, Λονδίνο, Κερατσίνι, Ναρκωτικών, δημόσιο</li>
-            <li>SCONJ: τι, που, ποια</li>
+            <li>SCONJ: τι, ποια, ποιο</li>
             <li>VERB-Conv: κολλημένα, σκισμένο, στρωμένο</li>
             <li>VERB-Part: αγανακτισμένο, αγαπημένα, αναμμένα, αναστατωμένο, απασχολημένο, βουρκωμένα, βυθισμένο, δαγκωμένα, δηλωμένο, διανθισμένο</li>
           </ul>
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-        <li><a>Number</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a>Number</a></li>
+        <li>Neut
+          <ul>
+            <li>ADJ: καλό, κακό, ξύλου, Αγροτικό, Β’ναριώτ’κου, Χρυσό, αξ’πόλ’του, απανουγυρισ’κά, αύριγιου, γεμάτου</li>
+            <li>DET: του, τα, τ’, ούλα, αυτό, έγιουτα, το, ένα, έφτα, έφτου</li>
+            <li>INTJ: μουρά</li>
+            <li>NOUN: χουριό, μουρό, λάδ’, μουρά, πουρνό, βράδ, σπίτ’, χέρ, αλιφουρείου, κτσιά</li>
+            <li>NUM: δυο, ένα, 100, 200, δέκα, τριγιά</li>
+            <li>PRON: τα, τι, του, ντα, π’, τό, ντου, τά, ν-του, ντ’</li>
+            <li>PROPN: Μπουτέλ, Ατζιλικό, Ακλιδιού, Ασπασέλ’, Ατζιλικο, Γιουργή, Γληγουρέλ’, Κατιρίνη, Μαριγώ, Ν’κουλέλ’</li>
+            <li>SCONJ: τι</li>
+            <li>VERB-Part: λαδουμένου, σπασμένα</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>ADJ: δίκαια, ροδοκόκκινα, Βοστρυχωτά, Μικιοί, Φαρμακόγλωσσες, άνομες, αγαπημένα, αμέτρητα, ανοιχτά, αχαμνά</li>
+            <li>AUX-Fin: έχουνε, ήτανε, είχανε</li>
+            <li>DET: τα, οι, τσι, τσοι, τσ', τ', άλλα, ό,τι, άλλες, τω</li>
+            <li>NOUN: χρόνια, πόδια, άντρες, γυναίκες, κρίματά, μεσάνυχτα, σ, χέρια, άλογα, ανθρώπους</li>
+            <li>NUM: δυο, πέντε, σαράντα, τρεις, Εκατό, δεκαεφτά, διακόσιους, δύο, είκοσι, εκατόν</li>
+            <li>PRON: μας, ντως, τα, τσοι, που, μαςε, τους, τσι, τως, σας</li>
+            <li>PROPN: Εβραίοι, Παρίσα, Φιτσανά</li>
+            <li>VERB-Fin: πάνε, ήκανε, κάνανε, λένε, Περάσανε, βάλομε, γίνουνται, είχανε, λέγανε, λέτε</li>
+            <li>VERB-Part: αυλακιασμένα, δασκαλεμένοι, δεμένα, ξεσυγυρισμένους</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -436,86 +809,169 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Plur
           <ul>
-            <li>ADJ: Γεωργιανοί, ναυτιλιακές, υπόλοιπα, υστέρων, Ασιάτες, γεμάτα, καινούρια, καλά, ναυτιλιακών, Έλληνες</li>
-            <li>AUX: είναι, έχουν, είμαστε, ήταν, είχαν, είχαμε, έχουμε, είστε, είχατε</li>
-            <li>AUX-Fin: είναι, έχουν, είμαστε, ήταν, είχαν, είχαμε, έχουμε, είστε, είχατε</li>
+            <li>ADJ: Γεωργιανοί, ναυτιλιακές, υπόλοιπα, υστέρων, Έλληνες, Ασιάτες, γεμάτα, καινούρια, ναυτιλιακών, υπόλοιποι</li>
+            <li>AUX: είναι, είμαστε, ήταν, έχουν, είχαν, είστε, είχαμε, έχουμε, είχατε</li>
+            <li>AUX-Fin: είναι, είμαστε, ήταν, έχουν, είχαν, είστε, είχαμε, έχουμε, είχατε</li>
             <li>DET: τα, οι, τις, τους, των, αυτά, όλα, όλοι, αυτοί, άλλα</li>
             <li>INTJ: Συγχαρητήρια</li>
             <li>NOUN: εταιρείες, λεφτά, χρόνια, πληροφορίες, σκέψεις, φορές, μέρες, ερωτήσεις, μάτια, στοιχεία</li>
             <li>NUM: δύο, δυο, τρεις, δέκα, πενήντα, εννιά, πέντε, τέσσερις, τρία, έντεκα</li>
             <li>PRON: μας, σας, τους, που, τα, εμείς, εσείς, εμάς, τ', μάς</li>
-            <li>PROPN: Ελγίνεια, Αθηνών, Ανθρωποκτονιών, Ναρκωτικών, Έλληνες, Αμπελόκηπους, Αριστοτέλους, Αστέγων, Γονατά, Πάντων</li>
-            <li>SCONJ: που, ποια, ποιοι</li>
-            <li>VERB: έχουμε, είναι, έχουν, ήταν, υπάρχουν, είμαστε, κάνουμε, ξέρουμε, έκαναν, βρήκαμε</li>
+            <li>PROPN: Ελγίνεια, Αθηνών, Ναρκωτικών, Αμπελόκηπους, Ανθρωποκτονιών, Αριστοτέλους, Αστέγων, Γονατά, Πάντων, Πατησίων</li>
+            <li>SCONJ: ποιοι, ποια</li>
+            <li>VERB: έχουμε, έχουν, υπάρχουν, κάνουμε, ξέρουμε, έκαναν, βρήκαμε, είπαν, κάνουν, λένε</li>
             <li>VERB-Conv: κολλημένα</li>
-            <li>VERB-Fin: έχουμε, είναι, έχουν, ήταν, υπάρχουν, είμαστε, κάνουμε, ξέρουμε, έκαναν, βρήκαμε</li>
+            <li>VERB-Fin: έχουμε, έχουν, υπάρχουν, κάνουμε, ξέρουμε, έκαναν, βρήκαμε, είπαν, κάνουν, λένε</li>
             <li>VERB-Part: αγαπημένα, αναμμένα, βουρκωμένα, δαγκωμένα, καλεσμένοι, κρατημένοι, κρεμασμένα, ξαναμαγειρεμένα, ξαπλωμένα, οργανωμένα</li>
           </ul>
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>ADJ: Ελληνις, Ζουντανοί, Κύριοι, απανουγυρισ’κά, θκά, ιμκρά, καημένοι, καυτά, μιγάλα, μιγάλις</li>
+            <li>AUX-Fin: ήνταν, είνι, ν’, ’μαστι, ’νι</li>
+            <li>DET: τα, ούλα, τ’ς, έγιουτα, γη, τσ’, οι, τ’, έφτα, γι</li>
+            <li>INTJ: μουρά</li>
+            <li>NOUN: γναίτσις, μουρά, αυγές, βδουμάδις, θρώπ’, ιλιές, κτσιά, μέρις, μπούτσια, πουδάρια</li>
+            <li>NUM: δυο, 100, 2, 200, 3, δέκα, τρεις, τριγιά</li>
+            <li>PRON: τα, μας, ντα, σας, τά, μεις, ντουν, πού, ντά, ντούν</li>
+            <li>PROPN: Β’ναριώτις, Ατζιλικο, Στρατήγς</li>
+            <li>VERB: έχουμι, ήβραν, ήρταν, κάναν, κάνιτι, λουγιάζαν, ξέρουμι, πιάσιν, χιτι, Ήρτα</li>
+            <li>VERB-Fin: έχουμι, ήβραν, ήρταν, κάναν, κάνιτι, λουγιάζαν, ξέρουμι, πιάσιν, χιτι, Ήρτα</li>
+            <li>VERB-Part: σπασμένα</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>ADJ: αριστερή, καλό, μεγάλη, μεγάλος, ούλη, παχουλά, φρέσκος, φτωχός, Κεφαλάς, Μαυροκακομοίρη</li>
+            <li>AUX-Fin: είναι, ήτανε, ήταν, ήτονε, 'ναι, είχε, είν', 'μαι, 'ν', 'τονε</li>
+            <li>DET: ο, το, η, του, τη, την, τον, μια, τ', αυτός</li>
+            <li>INTJ: μωρέ, λοιπός, μπρε, μωρή</li>
+            <li>NOUN: σπίτι, βασιλιάς, θεια, νερό, χάρη, γάλα, κερά, κύρη, παιδί, παρέα</li>
+            <li>PRON: μου, ντου, του, το, τηνε, τζη, που, σου, την, τονε</li>
+            <li>PROPN: Δρόσος, Μαθιός, Θιος, Νικολής, Προκόπης, Μελεμενιά, Νικολάρος, Πινελιά, Στελιανός, Νικολή</li>
+            <li>VERB: κάνει, είπε, λέει, λέω, πήγε, πάει, πήρε, πεις, 'πε, ήθελε</li>
+            <li>VERB-Fin: κάνει, είπε, λέει, λέω, πήγε, πάει, πήρε, πεις, 'πε, ήθελε</li>
+            <li>VERB-Inf: πάρει</li>
+            <li>VERB-Part: Ευλογημένη, βαφτισμένος, κουρελιασμένος, κουρελοντυμένος, μεστωμένο, μπροκωμένη, μυρωμένος, φτιαγμένο</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Sing
           <ul>
             <li>ADJ: ευρωπαϊκή, ευρωπαϊκό, σημαντικό, πρώτη, ευρωπαϊκής, νέα, μεγάλη, ευρωπαϊκού, βόρεια, ίδια</li>
             <li>ADP: στ'</li>
-            <li>AUX-Fin: είναι, πρέπει, ήταν, έχει, είχε, έπρεπε, είμαι, έχω</li>
+            <li>AUX-Fin: είναι, ήταν, έχει, είχε, είμαι, έχω</li>
             <li>DET: την, το, της, η, του, τη, ο, τον, μια, ένα</li>
             <li>NOUN: επιτροπή, κοινοβούλιο, Συμβούλιο, κύριε, ένωση, επιτροπής, Πρόεδρε, έκθεση, ευρώ, κυβέρνηση</li>
             <li>NUM: ένα, μία, μια, έναν, ένας, ενάμισι</li>
             <li>PRON: που, του, της, οποία, αυτό, οποίο, μου, το, οποίος, την</li>
             <li>PROPN: Ελλάδα, Ευρώπη, Τουρκία, Κορέα, Ρωσία, Ομπάμα, Γαλλία, Ευρώπης, Γερμανίας, Κορέας</li>
-            <li>VERB-Fin: μπορεί, αφορά, έχει, αποτελεί, δήλωσε, υπάρχει, ήθελα, βρίσκεται, πρόκειται, πιστεύω</li>
+            <li>VERB-Fin: πρέπει, μπορεί, αφορά, έχει, αποτελεί, δήλωσε, υπάρχει, ήθελα, βρίσκεται, πρόκειται</li>
             <li>VERB-Part: χτισμένη, χτισμένο, περιορισμένη, αποτυχημένη, αυξημένη, δομημένο, εκλεγμένος, κτισμένο, ολοκληρωμένη, συμπεριλαμβανομένης</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Sing
           <ul>
-            <li>ADJ: κύριε, πρώτη, δική, δεύτερη, Ασιάτη, πρώτο, αστυνομικό, κυρία, μεγάλη, Αγίου</li>
-            <li>AUX: είναι, ήταν, έχει, είμαι, είχε, έχω, είχα, είσαι, έχεις, πρέπει</li>
-            <li>AUX-Fin: είναι, ήταν, έχει, είμαι, είχε, έχω, είχα, είσαι, έχεις, πρέπει</li>
+            <li>ADJ: κύριε, πρώτη, δική, δεύτερη, Ασιάτη, μεγάλη, πρώτο, αστυνομικό, κυρία, Αγίου</li>
+            <li>AUX: είναι, ήταν, έχει, είμαι, είχε, έχω, είσαι, είχα, έχεις, 'χω</li>
+            <li>AUX-Fin: είναι, ήταν, έχει, είμαι, είχε, έχω, είσαι, είχα, έχεις, 'χω</li>
             <li>DET: το, την, ο, η, τον, τη, του, της, μια, ένα</li>
             <li>INTJ: Καλημέρα, καληνύχτα</li>
             <li>NOUN: σπίτι, γραφείο, πόρτα, τηλέφωνο, αστυνόμε, δολοφονία, φορά, δουλειά, αστυνομία, μέρα</li>
-            <li>NUM: ένα, μία, μια, Ένας, έξι, μηδέν</li>
+            <li>NUM: ένα, ένας, μία, μια, έναν, έξι, μηδέν</li>
             <li>PRON: μου, του, που, το, τον, με, της, εγώ, σου, τι</li>
             <li>PROPN: Αδριανή, Ελλάδα, Ούλι, Κούλα, Σωτηρόπουλος, Κατερίνα, Χαρδάκου, Λαλόπουλου, Βλασόπουλος, Γκίκα</li>
-            <li>SCONJ: τι, που, ποιον</li>
-            <li>VERB: είναι, λέει, λέω, μπορεί, απαντάει, ήταν, πρέπει, έχει, έχω, κάνει</li>
+            <li>SCONJ: τι, ποιος, ποιον, ποιο, που</li>
+            <li>VERB: λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, κάνει, ξέρω, ρωτάει</li>
             <li>VERB-Conv: ευχαριστημένος, κολλημένη, σκισμένο, στρωμένο</li>
-            <li>VERB-Fin: είναι, λέει, λέω, μπορεί, απαντάει, ήταν, πρέπει, έχει, έχω, κάνει</li>
-            <li>VERB-Inf: αναρτήσει</li>
+            <li>VERB-Fin: λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, κάνει, ξέρω, ρωτάει</li>
+            <li>VERB-Inf: αναρτήσει, γνωρίσει, περάσει, σκάσει</li>
             <li>VERB-Part: ευχαριστημένος, αγανακτισμένο, αγαπημένη, αναστατωμένο, αναστατωμένος, απασχολημένο, αποφασισμένη, αυξανόμενη, αυξανόμενης, βεβιασμένη</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>ADJ: καημένους, καλή, καλό, αγιά, κακό, κυρά, ξύλου, Αγιού, Αγροτικό, Αγ’</li>
+            <li>AUX-Fin: είνι, ήνταν, ήταν, είναι, ένι, είμι, είνη, ήμν-ταν, είμη, ταν</li>
+            <li>DET: του, τ’, η, γη, γιου, μια, τουν, τ’ν, αυτό, τν</li>
+            <li>INTJ: μουρή, βουρή, μουρ, Βούρ’, Καληνύχτα, μουρέ</li>
+            <li>NOUN: μέρα, χουριό, άθριπους, μάνα, μουρό, ώρα, γιε, κόρη, κόρ’, λάδ’</li>
+            <li>NUM: ένα, μια, μιαν</li>
+            <li>PRON: μ’, τ’, τουν, μι, μ, σ’, τι, του, γω, ντ</li>
+            <li>PROPN: Ανθή, Μπουτέλ, Αντρόνα, Ατζιλικό, Γιάνν’, Γιάνν’ς, Γιώργ’, Δησέφ, Μαριγώ, Παναγιά</li>
+            <li>SCONJ: τι</li>
+            <li>VERB-Fin: έλα, έχ’, κάν’, λέγ’ς, ξέρ’ς, ήρτι, είπι, είχι, κάνου, πήγι</li>
+            <li>VERB-Part: αγαπμέν, αγισμένους, λαδουμένου, λοιμ’τσιασμένους, μιτσ’μένους, στιναχουρημέν, συκλινσμέν, τσ’στάμινους</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Acc
+          <ul>
+            <li>ADJ: αριστερή, μεγάλη, ούλη, παχουλά, ροδοκόκκινα, άνομες, αγά, αθάνατο, αμέτρητα, ανοιχτά</li>
+            <li>DET: το, τα, τη, την, τον, μια, τσι, τ', τσοι, τσ'</li>
+            <li>NOUN: σπίτι, χρόνια, πόδια, σταυρό, γάλα, κορφή, κρίματά, κόσμο, μπεγίρι, νερό</li>
+            <li>NUM: δυο, πέντε, τρεις, Εκατό, δεκαεφτά, διακόσιους, είκοσι, εκατόν, οχτακόσα, πενήντα</li>
+            <li>PRON: το, τηνε, την, τονε, είντα, τα, τον, με, ντονε, τσοι</li>
+            <li>PROPN: Κυριακή, Μιχαλιό, Χριστό, Γαρεφαλιό, Θεό, Θιο, Καλόγεννη, Μεγαλοδύναμο, Παρίσα, Πινελιά</li>
+            <li>VERB: αυλακιασμένα, διαλεγώνα, μεστωμένο, μπροκωμένη, ξεσυγυρισμένους, φτιαγμένο</li>
+            <li>VERB-Part: αυλακιασμένα, μεστωμένο, μπροκωμένη, ξεσυγυρισμένους, φτιαγμένο</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -531,18 +987,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Acc
           <ul>
             <li>ADJ: Ασιάτη, πρώτη, δεύτερη, δική, αστυνομικό, μεγάλη, πρώτο, άδεια, ανοιχτή, απλή</li>
-            <li>DET: το, την, τον, τη, τα, τις, μια, ένα, τους, έναν</li>
+            <li>DET: το, την, τον, τη, τα, τις, μια, ένα, τους, άλλο</li>
             <li>INTJ: Καλημέρα, καληνύχτα</li>
-            <li>NOUN: σπίτι, γραφείο, πόρτα, τηλέφωνο, δολοφονία, φορά, αστυνομία, κεφάλι, μέρα, υπολογιστή</li>
-            <li>NUM: δύο, δυο, τρεις, δέκα, ένα, πέντε, έντεκα, διακόσια, μία, μηδέν</li>
+            <li>NOUN: σπίτι, γραφείο, πόρτα, τηλέφωνο, δολοφονία, μέρα, φορά, αστυνομία, κεφάλι, υπολογιστή</li>
+            <li>NUM: δύο, δυο, τρεις, δέκα, μια, ένα, πέντε, έναν, έντεκα, έξι</li>
             <li>PRON: το, τον, με, που, μας, τα, τους, σας, την, τι</li>
             <li>PROPN: Ελλάδα, Αδριανή, Γκίκα, Σωτηρόπουλο, Φάνη, Κούλα, Ούλι, Παπαδάκη, Δήλεσι, Χαρδάκο</li>
-            <li>SCONJ: τι, που, ποιον</li>
+            <li>SCONJ: τι, ποιον</li>
             <li>VERB: αγανακτισμένο, αγαπημένα, αναμμένα, αναστατωμένο, βεβιασμένη, βουρκωμένα, βυθισμένο, δαγκωμένα, δηλωμένο, διανθισμένο</li>
             <li>VERB-Conv: κολλημένα</li>
             <li>VERB-Part: αγανακτισμένο, αγαπημένα, αναμμένα, αναστατωμένο, βεβιασμένη, βουρκωμένα, βυθισμένο, δαγκωμένα, δηλωμένο, διανθισμένο</li>
@@ -550,9 +1006,30 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Acc
+          <ul>
+            <li>ADJ: κακό, καλό, ξύλου, Αγροτικό, Αγ’, Β’ναριώτ’κου, Ελληνις, έρμου, αγαπσκό, αγιά</li>
+            <li>DET: του, τα, τ’, τουν, τ’ν, τν, αυτό, μια, ούλα, τ’ς</li>
+            <li>INTJ: Καληνύχτα</li>
+            <li>NOUN: μέρα, χουριό, λάδ’, ώρα, βράδ, δ’λειά, νύχτα, πουρνό, σπίτ’, χέρ</li>
+            <li>NUM: ένα, δυο, 100, 2, 200, 3, δέκα, μια, μιαν, τρεις</li>
+            <li>PRON: τουν, τα, μι, τι, του, μας, μ’, σι, ντα, που</li>
+            <li>PROPN: Δησέφ, Ακλιδιού, Ατζιλικό, Βαγγέλ’, Βασίλ’, Γιάνν’, Γιουργή, Γιώργ’, Δικαπινταύγουστου, Θεμιστουκλή</li>
+            <li>SCONJ: τι</li>
+            <li>VERB: κουλουξυρ’σμένους, λαδουμένου, σπασμένα</li>
+            <li>VERB-Part: λαδουμένου, σπασμένα</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -563,12 +1040,29 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>ADJ: Μεγάλης, Τίμιου, αντουκρινού, απάτητου, μεγάλου, στραβού, τρομερού, φοβερού</li>
+            <li>DET: του, τση, τ', της, τω, των, εκειουνά, τσ'</li>
+            <li>NOUN: ανθρώπου, βουνού, διακονιάρη, καλόγερου, κύρη, ντροπής, ψυχής, Νικολάρου, άντρα, αγγέλου</li>
+            <li>NUM: ογδόντα</li>
+            <li>PRON: μου, ντου, του, τζη, μας, σου, ντως, τση, μαςε, τ'</li>
+            <li>PROPN: Θεού, Νικολή, Πολυροβυθά, Σταυρού, Στελιανάρου, Άϊ-Γιωργιού, Αϊ-Γιάννη, Δεσποινιώς, Κλήδονα, Κουδουμά</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -583,7 +1077,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -592,15 +1086,44 @@ udver: '2'
             <li>NOUN: δολοφονίας, σήμανσης, εγκλήματος, εταιρειών, κινητού, χρήματος, αστυνομίας, ασφαλείας, επίσκεψής, εταιρείας</li>
             <li>NUM: είκοσι, τεσσάρων, τριών</li>
             <li>PRON: μου, του, της, μας, σας, σου, τους, μού, εμένα, που</li>
-            <li>PROPN: Χαρδάκου, Λαλόπουλου, Σωτηρόπουλου, Δημητρίου, Ελλάδας, Κηφισίας, Γκίκα, Κατερίνας, Πάσχα, Ηλιούπολης</li>
+            <li>PROPN: Χαρδάκου, Λαλόπουλου, Σωτηρόπουλου, Δημητρίου, Ελλάδας, Κηφισίας, Γκίκα, Κατερίνας, Πάσχα, Αδριανής</li>
             <li>VERB-Part: αυξανόμενης, εισαγόμενης</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>ADJ: Αγιού</li>
+            <li>DET: τ’, τ’ς, αλλουνού, τ, του, τσ’</li>
+            <li>NOUN: ακκλησάς, ιγτουνιάσ’, καβγά, μηχανής, σπιτιού, φαγιού, χρουνό</li>
+            <li>PRON: μ’, τ’, μ, σ’, ντ, τ’ς, ιμ, μας, ς, ιτ</li>
+            <li>PROPN: Βασ’λειού, Γιάνν’, Θιού, Κουλουμαρίγιας, Μιλπουμέν’ς, Παναγιάς, Πληγουνιάτ’, Ρουζαλίας, Σουφέλ’, Στρατ</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Nom
+          <ul>
+            <li>ADJ: μεγάλος, φρέσκος, φτωχός, Βοστρυχωτά, Καλό, Κεφαλάς, Μικιοί, Μικρό, Πασίχαρος, Πεταχτούλα</li>
+            <li>DET: ο, η, το, οι, αυτός, τα, ένας, μια, άλλα, τ'</li>
+            <li>INTJ: λοιπός</li>
+            <li>NOUN: βασιλιάς, θεια, άντρες, γυναίκες, κουμπάρος, χάρη, άγγελος, γιατρός, γιος, δράκοι</li>
+            <li>NUM: σαράντα, δυο, δύο</li>
+            <li>PRON: που, εγώ, Ποιος, Είντα, Εμείς, εσείς, καθένας, ποιο, τόσηνα, τόσοσας</li>
+            <li>PROPN: Δρόσος, Μαθιός, Θιος, Νικολής, Προκόπης, Μελεμενιά, Νικολάρος, Στελιανός, Πινελιά, Δεσποινιώ</li>
+            <li>VERB-Part: Ευλογημένη, βαφτισμένος, δασκαλεμένοι, δεμένα, κουρελιασμένος, κουρελοντυμένος, μυρωμένος</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -615,28 +1138,58 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Nom
           <ul>
-            <li>ADJ: Γεωργιανοί, πρώτη, δική, ναυτιλιακές, πρώτος, Ασιάτης, αμίλητος, απλό, εύκολη, άδεια</li>
-            <li>DET: ο, η, το, οι, τα, αυτό, μια, όλοι, αυτά, ένας</li>
+            <li>ADJ: Γεωργιανοί, πρώτη, δική, ναυτιλιακές, πρώτος, Ασιάτης, αμίλητος, απλό, εύκολη, Έλληνες</li>
+            <li>DET: ο, η, το, οι, τα, αυτό, μια, αυτά, αυτός, όλοι</li>
             <li>INTJ: Συγχαρητήρια, καληνύχτα</li>
             <li>NOUN: πόρτα, υπαρχηγός, σκέψη, γυναίκα, δολοφονία, εταιρείες, κόρη, δουλειά, ερώτημα, εταιρεία</li>
-            <li>NUM: δύο, δυο, μία, πενήντα, τρεις, ένα, εννιά, Ένας, Μια, δωδεκάμιση</li>
-            <li>PRON: που, εγώ, εμείς, τι, εσείς, εσύ, ποιος, αυτό, αυτός, άλλο</li>
+            <li>NUM: δύο, δυο, ένας, ένα, μία, πενήντα, τρεις, εννιά, Μια, δωδεκάμιση</li>
+            <li>PRON: που, εγώ, εμείς, εσείς, εσύ, τι, ποιος, δικοί, οποία, 'γώ</li>
             <li>PROPN: Σωτηρόπουλος, Αδριανή, Βλασόπουλος, Κατερίνα, Ούλι, Κούλα, Παπαδάκης, Γκίκας, Χαρδάκος, Ζήσης</li>
-            <li>SCONJ: τι, που, ποια, ποιοι</li>
-            <li>VERB: ευχαριστημένος, αγαπημένη, αναστατωμένος, απασχολημένο, αποφασισμένη, αυξανόμενη, βυθισμένος, δυσαρεστημένος, εγκατεστημένη, εμπλεκόμενος</li>
+            <li>SCONJ: ποιος, τι, ποιοι, ποια, ποιο, που</li>
+            <li>VERB: ευχαριστημένος, αγαπημένη, αναστατωμένος, απασχολημένο, αποφασισμένη, αυξανόμενη, βυθισμένος, δυσαρεστημένος, εγκατεστημένη, εκβιαζόμενος</li>
             <li>VERB-Conv: ευχαριστημένος, κολλημένη, σκισμένο, στρωμένο</li>
-            <li>VERB-Part: ευχαριστημένος, αγαπημένη, αναστατωμένος, απασχολημένο, αποφασισμένη, αυξανόμενη, βυθισμένος, εγκατεστημένη, εμπλεκόμενος, εντοιχισμένη</li>
+            <li>VERB-Part: ευχαριστημένος, αγαπημένη, αναστατωμένος, απασχολημένο, αποφασισμένη, αυξανόμενη, βυθισμένος, εγκατεστημένη, εκβιαζόμενος, εμπλεκόμενος</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Nom
+          <ul>
+            <li>ADJ: καημένους, Καλή, Ζουντανοί, Καλό, Πιδέξους, Χρυσό, έρμους, ήσυχους, αδιάντροπους, ακάλιστους</li>
+            <li>DET: η, του, γη, γιου, τα, γ’, ένας, γι, μια, ούλα</li>
+            <li>INTJ: μουρή</li>
+            <li>NOUN: άθριπους, γιατρός, γναίτσις, κόρ’, μουρό, αλήθεια, γιος, κόρη, κόσμους, μάνα</li>
+            <li>NUM: μια</li>
+            <li>PRON: γω, συ, ’γώ, μεις, που, πού, π’, Ποια, Τί, Τις</li>
+            <li>PROPN: Μπουτέλ, Ανθή, Αντρόνα, Β’ναριώτις, Γιάνν’ς, Χατζικουμής, γι-Απουστόλ’ς, 15, Ανάστασ, Απουστόλς</li>
+            <li>SCONJ: τι</li>
+            <li>VERB: αγαπμέν, αγισμένους, λοιμ’τσιασμένους, μιτσ’μένους, στιναχουρημέν, συκλινσμέν, τσ’στάμινους, ψουφμένοι</li>
+            <li>VERB-Part: αγαπμέν, αγισμένους, λοιμ’τσιασμένους, μιτσ’μένους, στιναχουρημέν, συκλινσμέν, τσ’στάμινους</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Voc
+          <ul>
+            <li>ADJ: Μαυροκακομοίρη, βλαστέ, θεοκατάρατε, θεοπάλαβοι, καλέ, κοντο, πολυχρονεμένε</li>
+            <li>INTJ: μωρέ, μπρε, μωρή</li>
+            <li>NOUN: παιδί, τέκνο, γιατρέ, αγάπη, δέσποτα, κακομοίρη, κερά, μάστορα, παπά, Βασιλιά</li>
+            <li>PROPN: Αδαμάκο, Θεέ, Νικολή, Ασπασία, Μίχαλε, Φανούρη</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -646,42 +1199,77 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Voc
           <ul>
-            <li>ADJ: κύριε, κυρία, Καπάτσα</li>
-            <li>NOUN: αστυνόμε, μαμά, κύριε, σύντροφε, υπαρχηγέ, Ατάκα, Μπαμπά, διευθυντά, παιδί, παιδιά</li>
-            <li>NUM: έξι</li>
+            <li>ADJ: κύριε, κυρία</li>
+            <li>NOUN: αστυνόμε, μαμά, σύντροφε, υπαρχηγέ, Μπαμπά, διευθυντά, παιδί, παιδιά, συνάδελφε</li>
             <li>PROPN: Χαρίτο, Κύριε, Κώστα, Χαρδάκο, Αδριανή, Αντωνάκου, Βαρβάρα, Γιάννα, Γιάννη, Κούλα</li>
-            <li>VERB: άσ', Σωπαίνω</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Voc
+          <ul>
+            <li>ADJ: κυρά, Αγιά, Κύριοι, Ρήνιω, απρόκουφτι, αχριγιάννα, κυρ, κ’μπάρι</li>
+            <li>INTJ: μουρή, βουρή, μουρ, Βούρ’, μουρά, μουρέ</li>
+            <li>NOUN: γιε, θρώπ’, μάνα, άθρουπι, άντρα, γ’ναίκα, θειά, θεια, κόρη, κόρ’</li>
+            <li>PROPN: Ρουζαλία, Ανθή, Ατζιλικο, Βαρβάρα, Γιώργ’, Δημητρό, Θιέ, Θιμιστουκλή, Κόπ’, Μαριγώ</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Def
+          <ul>
+            <li>DET: ο, το, τα, η, του, τη, την, τον, τ', οι</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -690,7 +1278,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -699,9 +1287,27 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Def
+          <ul>
+            <li>DET: του, τα, τ’, η, γη, τ’ς, γιου, τουν, τ’ν, τν</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>DET: μια, ένα, ένας, έναν</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -710,7 +1316,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -719,32 +1325,60 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Degree and Polarity</h3>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Degree and Polarity</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-        <li><a>Degree</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a>Degree</a></li>
+        <li>Ind
+          <ul>
+            <li>DET: μια, ένας, ένα, καμιά</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Abs
           <ul>
@@ -753,9 +1387,51 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Aug
+          <ul>
+            <li>ADJ: ούλη, παχουλά, ροδοκόκκινα, φρέσκος</li>
+            <li>ADV: παρακαλεστικά, στραβά</li>
+            <li>NOUN: Νικολάρος, Νικολάρου, Πατούλιες, αυτάρα, γιάτρακας, κεφάλα, μπρατσούκλες, ποδάρες, σπαθάρα, χερούκλες</li>
+            <li>PROPN: Νικολάρος, Στελιανάρου, Στελιανάρο, Στελιανάρος</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Aug
+          <ul>
+            <li>ADV: ταχτέρ, ίσια, γύρου</li>
+            <li>NOUN: πουρνό, άνια, μπέλι, μπούτσια, παλιουπουτανάρα, χειρούκλις</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Cmp
+          <ul>
+            <li>ADV: πιο</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -765,23 +1441,43 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Cmp
           <ul>
             <li>ADJ: χειρότερα, καλύτερο, μεγαλύτερο, γενικότερη, καλύτερος, καλύτερους, κυριότερο, λιγότερα, λιγότερο, μεγαλύτερης</li>
-            <li>ADV: πιο, αργότερα, καλύτερα, περισσότερο, νωρίτερα, λιγότερο</li>
-            <li>DET: λιγότερο, περισσότερα, περισσότερο, περισσότεροι</li>
+            <li>ADV: πιο, αργότερα, καλύτερα, περισσότερο, λιγότερο, νωρίτερα</li>
+            <li>DET: περισσότερα, περισσότεροι</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Cmp
+          <ul>
+            <li>ADV: πιο</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Dim
+          <ul>
+            <li>ADJ: Πεταχτούλα, χριστιανάκια</li>
+            <li>NOUN: κοπελάκια, ψωμάκι, Μιχαλιό, ατσελεγάκια, αυγουλάκι, γουρουνάκια, εκκλησάκι, κακαντράκι, κοπελίτσα, κοπελούδες</li>
+            <li>PROPN: Δεσποινιώ, Σηφαλιό, Αδαμάκο, Γαρεφαλιό, Μιχαλιό, Αδαμάκος, Δεσποινιό, Δεσποινιώς, Μαρουλιώ, Μελπονιό</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Dim
           <ul>
@@ -791,9 +1487,22 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Dim
+          <ul>
+            <li>NOUN: κουρούδα, ακκλησιούδα, γαβανέλ, καμαρούδα, καφιδέλ, κουπηλούδια, κουπιλούδια, κουπιλούδ’, μισαλέλε, μουρέλ</li>
+            <li>PROPN: Μπουτέλ, Ατζιλικό, Ασπασέλ’, Ατζιλικο, Γληγουρέλ’, Κατιρίνη, Μαριγώ, Ν’κουλέλ’, Ξινέλ’, Πιρσιφόν</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -803,25 +1512,49 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>ADV: ούτε</li>
+            <li>CCONJ: μούδε, ούτε</li>
+            <li>PART: δεν, μην, δε, μη</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -831,12 +1564,40 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>INTJ: Όχ’</li>
+            <li>PART: δεν, δε, ε, μη, εν, μην, Ένι, όχ’, ’εν, Οχ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Pos
+          <ul>
+            <li>INTJ: λοιπόν, μπρε</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Pos
+          <ul>
+            <li>INTJ: ναι</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -847,61 +1608,116 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="25%" valign="top">
       <h3>Verbal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>AUX-Fin: είναι, ήτανε, ήταν, ήτονε, 'ναι, είν', 'μαι, 'ν', 'τονε, 'χει</li>
+            <li>VERB-Conv: σκίζοντας, τσιμουδογελώντας</li>
+            <li>VERB-Fin: λέει, κάνει, λέω, πάει, ήκανε, ανοίγει, δίδει, λες, πάνε, παίρνει</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Imp
           <ul>
             <li>AUX-Conv: έχοντας</li>
-            <li>AUX-Fin: είναι, πρέπει, ήταν, έχει, έχουν, είχε, είχαν, είμαστε, έπρεπε, έχουμε</li>
+            <li>AUX-Fin: είναι, ήταν, έχει, έχουν, είχε, είχαν, είμαστε, έχουμε, είμαι, έχω</li>
             <li>VERB-Conv: λέγοντας, προκαλώντας, έχοντας, ακολουθώντας, Απαντώντας, Τελειώνοντας, χαρακτηρίζοντας, αρχίζοντας, αυξάνοντας, αφήνοντας</li>
-            <li>VERB-Fin: μπορεί, αφορά, έχει, αποτελεί, έχουν, υπάρχει, ήθελα, βρίσκεται, πρόκειται, πιστεύω</li>
+            <li>VERB-Fin: πρέπει, μπορεί, αφορά, έχει, αποτελεί, έχουν, υπάρχει, ήθελα, βρίσκεται, πρόκειται</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Imp
           <ul>
-            <li>AUX-Fin: είναι, ήταν, ήμουν</li>
-            <li>VERB: είναι, λέει, λέω, μπορεί, ήταν, απαντάει, πρέπει, έχει, έχω, ξέρω</li>
+            <li>AUX-Fin: είναι, ήταν, είμαι, είμαστε, είσαι, είστε, ήμουν, είχα, είχε</li>
+            <li>VERB: λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, ξέρω, ρωτάει, έχουμε</li>
             <li>VERB-Conv: γελώντας, σιχτιρίζοντας</li>
-            <li>VERB-Fin: είναι, λέει, λέω, μπορεί, ήταν, απαντάει, πρέπει, έχει, έχω, ξέρω</li>
+            <li>VERB-Fin: λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, ξέρω, ρωτάει, έχουμε</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>AUX-Fin: είνι, ήνταν, ήταν, ένι, ήμν-ταν, είμι, είναι, είνη, ταν</li>
+            <li>VERB-Conv: γιλώντας, κλέγουντας, τραγδώντας</li>
+            <li>VERB-Fin: έχ’, λέγ’ς, ξέρ’ς, είχι, κάν’, έχου, έχουμι, θέλου, λέγου, μπουρώ</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Perf
+          <ul>
+            <li>VERB-Conv: χλιμιντρίζοντας</li>
+            <li>VERB-Fin: είπε, πήγε, πήρε, πεις, 'πε, πει, πω, δει, είδε, μπήκε</li>
+            <li>VERB-Inf: ανοίξει, δώσει, θάψει, κάνει, ξεσπάσει, πάρει, στέσει, σφάξει, φάει</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -913,34 +1729,65 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Perf
           <ul>
-            <li>AUX-Fin: ήταν</li>
+            <li>AUX-Fin: ήταν, Είναι</li>
             <li>VERB: είπε, πω, κάνει, πει, κάνω, έγινε, ήρθε, είπα, βρω, πάρει</li>
             <li>VERB-Conv: κολλημένα, κολλημένη, σκισμένο</li>
             <li>VERB-Fin: είπε, πω, πει, κάνει, κάνω, έγινε, ήρθε, είπα, βρω, βρήκαμε</li>
-            <li>VERB-Inf: κάνει, φέρει, φύγει, έρθει, ακούσει, ανακαλύψει, ανακρίνει, αναρτήσει, αρχίσει, θησαυρίσει</li>
+            <li>VERB-Inf: περάσει, φύγει, έρθει, ακούσει, κάνει, φτάσει, αρχίσει, αφήσει, γίνει, δώσει</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Perf
+          <ul>
+            <li>VERB-Fin: έλα, ήρτι, είπι, κάνου, πήγι, γυρίσ’, δω, είδι, Έφαγα, Κάτσι</li>
+            <li>VERB-Inf: πέρνη</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>VERB: γιάε, Άσε, Πες, έλα, ακλούθα, βάλε, βάστα, δώσ', λέγε, Φύγε</li>
+            <li>VERB-Fin: Άσε, Πες, έλα, ακλούθα, βάλε, βάστα, δώσ', λέγε, Φύγε, άκου</li>
+            <li>VERB-Inf: Γιάε</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -949,59 +1796,110 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Imp
           <ul>
-            <li>VERB: έλα, Πέστε, Περάστε, Πες, ελάτε, Έκανες, Φέρτε, άσ', 'κοψε, Άκου</li>
+            <li>VERB: έλα, Πέστε, Περάστε, Πες, άσ', ελάτε, Έκανες, Φέρτε, 'κοψε, Άκου</li>
             <li>VERB-Fin: έλα, Πέστε, Περάστε, Πες, ελάτε, Έκανες, Φέρτε, 'κοψε, Άκου, Άσ'</li>
           </ul>
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-        <li>Ind
+        <li>Imp
           <ul>
-            <li>AUX-Fin: είναι, πρέπει, ήταν, έχει, έχουν, είχε, είχαν, είμαστε, έπρεπε, έχουμε</li>
-            <li>VERB-Fin: μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, ήθελα, βρίσκεται, πρόκειται</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li>Ind
-          <ul>
-            <li>AUX: είναι, ήταν, έχει, είμαι, έχουν, είχε, είμαστε, έχω, είχαν, είχα</li>
-            <li>AUX-Fin: είναι, ήταν, έχει, είμαι, έχουν, είχε, είμαστε, έχω, είχαν, είχα</li>
-            <li>VERB: είναι, λέει, λέω, μπορεί, ήταν, απαντάει, πρέπει, έχει, έχω, κάνει</li>
-            <li>VERB-Fin: είναι, λέει, λέω, μπορεί, ήταν, απαντάει, πρέπει, έχει, έχω, κάνει</li>
-            <li>VERB-Inf: αναρτήσει</li>
+            <li>VERB-Fin: έλα, Κάτσι, Σώπα, άγι, βάλι, πάνι, Έχε, Ακ’σι, Απόβγαζί, Ας</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>AUX-Fin: είναι, ήτανε, ήταν, ήτονε, 'ναι, είχε, είν', 'μαι, 'ν', 'τονε</li>
+            <li>VERB-Fin: κάνει, είπε, λέει, λέω, πήγε, ήκανε, πάει, πήρε, πεις, 'πε</li>
+            <li>VERB-Inf: πάρει</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>AUX-Fin: είναι, ήταν, έχει, έχουν, είχε, είχαν, είμαστε, έχουμε, είμαι, έχω</li>
+            <li>VERB-Fin: πρέπει, μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, ήθελα, βρίσκεται</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>AUX: είναι, ήταν, έχει, είμαι, είμαστε, έχουν, είχε, έχω, είχαν, είσαι</li>
+            <li>AUX-Fin: είναι, ήταν, έχει, είμαι, είμαστε, έχουν, είχε, έχω, είχαν, είσαι</li>
+            <li>VERB: λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, κάνει, ξέρω, ρωτάει</li>
+            <li>VERB-Fin: λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, κάνει, ξέρω, ρωτάει</li>
+            <li>VERB-Inf: αναρτήσει, γνωρίσει, περάσει, σκάσει</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>AUX-Fin: είνι, ήνταν, ήταν, είναι, ένι, είμι, είνη, ήμν-ταν, είμη, ν’</li>
+            <li>VERB-Fin: έχ’, κάν’, λέγ’ς, ξέρ’ς, ήρτι, είπι, είχι, κάνου, πήγι, έχου</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Fut
+          <ul>
+            <li>AUX: θα, θέλει, θες</li>
+            <li>AUX-Fin: θες</li>
+            <li>AUX-Inf: θέλει</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -1010,97 +1908,193 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-        <li>Past
+        <li>Fut
           <ul>
-            <li>AUX-Fin: ήταν, είχε, είχαν, έπρεπε, ήμασταν, ήσαν, είχαμε, είχατε</li>
-            <li>VERB-Fin: δήλωσε, ήθελα, είχε, ανέφερε, έγινε, μπορούσε, ανακοίνωσε, είχαν, επεσήμανε, ξεκίνησε</li>
+            <li>AUX: θα, α</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Past
+          <ul>
+            <li>AUX-Fin: ήτανε, ήταν, ήτονε, είχε, 'τονε, είχα, είχανε</li>
+            <li>VERB-Fin: είπε, πήγε, ήκανε, πήρε, 'πε, ήθελε, έκανε, είδε, είχε, κάνανε</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Past
+          <ul>
+            <li>AUX-Fin: ήταν, είχε, είχαν, ήμασταν, ήσαν, είχαμε, είχατε</li>
+            <li>VERB-Fin: δήλωσε, ήθελα, είχε, ανέφερε, έγινε, μπορούσε, έπρεπε, ανακοίνωσε, είχαν, επεσήμανε</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Past
           <ul>
             <li>AUX: ήταν, είχε, είχαν, είχα, είχαμε, έχει, ήμουν, είχατε, είχες</li>
             <li>AUX-Fin: ήταν, είχε, είχαν, είχα, είχαμε, έχει, ήμουν, είχατε, είχες</li>
-            <li>VERB: ήταν, είχε, είπε, έκανε, έγινε, ήρθε, είπα, έπρεπε, έκαναν, έλεγε</li>
-            <li>VERB-Fin: ήταν, είχε, είπε, έκανε, έγινε, ήρθε, είπα, έπρεπε, έκαναν, έλεγε</li>
+            <li>VERB: είχε, είπε, έκανε, έγινε, ήρθε, είπα, έπρεπε, έκαναν, έλεγε, ήθελε</li>
+            <li>VERB-Fin: είχε, είπε, έκανε, έγινε, ήρθε, είπα, έπρεπε, έκαναν, έλεγε, ήθελε</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Past
+          <ul>
+            <li>AUX-Fin: ήνταν, ήταν, ένι, ήμν-ταν, ταν</li>
+            <li>VERB-Fin: ήρτι, είπι, είχι, πήγι, είδι, Έπριπι, Έφαγα, έκλαψι, έφγει, έφγι</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Pres
           <ul>
-            <li>AUX-Fin: είναι, πρέπει, έχει, έχουν, είμαστε, έχουμε, είμαι, έχω, έχετε, είσαστε</li>
-            <li>VERB-Fin: μπορεί, αφορά, έχει, αποτελεί, έχουν, υπάρχει, βρίσκεται, πρόκειται, πιστεύω, μπορούν</li>
+            <li>AUX-Fin: είναι, 'ναι, είν', 'μαι, 'ν', 'χει, έχουνε, έχω</li>
+            <li>VERB-Fin: λέει, κάνει, λέω, πάει, ανοίγει, δίδει, λες, πάνε, παίρνει, ρωτά</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Pres
           <ul>
-            <li>AUX: είναι, έχει, είμαι, έχουν, είμαστε, έχω, έχουμε, είσαι, έχεις, είστε</li>
-            <li>AUX-Fin: είναι, έχει, είμαι, έχουν, είμαστε, έχω, έχουμε, είσαι, έχεις, είστε</li>
-            <li>VERB: είναι, λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, ξέρω, ρωτάει</li>
-            <li>VERB-Fin: είναι, λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, ξέρω, ρωτάει</li>
+            <li>AUX-Fin: είναι, έχει, έχουν, είμαστε, έχουμε, είμαι, έχω, έχετε, είσαστε</li>
+            <li>VERB-Fin: πρέπει, μπορεί, αφορά, έχει, αποτελεί, έχουν, υπάρχει, βρίσκεται, πρόκειται, πιστεύω</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Pres
+          <ul>
+            <li>AUX: είναι, έχει, είμαι, είμαστε, έχουν, έχω, είσαι, είστε, έχουμε, έχεις</li>
+            <li>AUX-Fin: είναι, έχει, είμαι, είμαστε, έχουν, έχω, είσαι, είστε, έχουμε, έχεις</li>
+            <li>VERB: λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, ξέρω, ρωτάει, έχουμε</li>
+            <li>VERB-Fin: λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, ξέρω, ρωτάει, έχουμε</li>
+            <li>VERB-Inf: επιστρέψει</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Pres
+          <ul>
+            <li>AUX-Fin: είνι, είναι, είμι, είνη, ένι, είμη, ν’, ’μαστι, ’νι</li>
+            <li>VERB-Fin: έχ’, λέγ’ς, ξέρ’ς, κάν’, έχου, έχουμι, θέλου, λέγου, μπουρώ, ξέρ’</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Act
+          <ul>
+            <li>AUX-Fin: είχε, 'χει, έχουνε, έχω, είχα, είχανε</li>
+            <li>VERB: κάνει, είπε, λέει, λέω, πήγε, ήκανε, πάει, πήρε, πεις, 'πε</li>
+            <li>VERB-Conv: σκίζοντας, τσιμουδογελώντας</li>
+            <li>VERB-Fin: κάνει, είπε, λέει, λέω, πήγε, ήκανε, πάει, πήρε, πεις, 'πε</li>
+            <li>VERB-Inf: Γιάε, ανοίξει, δώσει, θάψει, κάνει, ξεσπάσει, πάρει, στέσει, σφάξει, φάει</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Act
           <ul>
             <li>AUX-Conv: έχοντας</li>
-            <li>AUX-Fin: πρέπει, έχει, έχουν, είχε, είχαν, έπρεπε, έχουμε, έχω, έχετε, είχαμε</li>
+            <li>AUX-Fin: έχει, έχουν, είχε, είχαν, έχουμε, έχω, έχετε, είχαμε, είχατε</li>
             <li>VERB-Conv: λέγοντας, προκαλώντας, έχοντας, ακολουθώντας, Απαντώντας, Τελειώνοντας, χαρακτηρίζοντας, αρχίζοντας, αυξάνοντας, αφήνοντας</li>
-            <li>VERB-Fin: μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, ήθελα, πιστεύω, μπορούν</li>
+            <li>VERB-Fin: πρέπει, μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, ήθελα, πιστεύω</li>
             <li>VERB-Inf: λάβει, δημιουργήσει, επιτύχει, πει, χάσει, αρχίσει, εκφράσει, αναφέρει, αποτύχει, ασκήσει</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Act
           <ul>
-            <li>AUX-Fin: έχει, έχουν, έχω, είχε, είχαν, είχαμε, Έχουμε, είχα, πρέπει, έχεις</li>
+            <li>AUX-Fin: έχει, έχουν, είχε, έχω, είχαν, είχα, είχαμε, Έχουμε, έχεις, είχατε</li>
             <li>VERB: λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, κάνει, έχω, ξέρω, ρωτάει</li>
             <li>VERB-Conv: γελώντας, σιχτιρίζοντας</li>
             <li>VERB-Fin: λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, κάνει, ξέρω, ρωτάει</li>
-            <li>VERB-Inf: κάνει, φέρει, φύγει, ακούσει, ανακαλύψει, ανακρίνει, αναρτήσει, αρχίσει, θησαυρίσει, καθίσει</li>
+            <li>VERB-Inf: περάσει, φύγει, ακούσει, κάνει, φτάσει, αρχίσει, αφήσει, δώσει, μάθει, μπει</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Act
+          <ul>
+            <li>VERB-Conv: γιλώντας, κλέγουντας, τραγδώντας</li>
+            <li>VERB-Fin: έχ’, κάν’, λέγ’ς, ξέρ’ς, είπι, είχι, κάνου, πήγι, έχου, έχουμι</li>
+            <li>VERB-Inf: πέρνη</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Pass
+          <ul>
+            <li>AUX-Fin: είναι, ήτανε, ήταν, ήτονε, 'ναι, είν', 'μαι, 'ν', 'τονε</li>
+            <li>VERB-Conv: χλιμιντρίζοντας</li>
+            <li>VERB-Fin: Σκέφτηκα, ήρθε, γίνουνται, 'ρθω, 'φάνη, Ήτανε, Καλοδεχτήκανε, Κοιμούμαι, Ντύθηκε, Σταφυλιαστήκανε</li>
+            <li>VERB-Part: Ευλογημένη, αυλακιασμένα, βαφτισμένος, δασκαλεμένοι, δεμένα, κουρελιασμένος, κουρελοντυμένος, μεστωμένο, μπροκωμένη, μυρωμένος</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -1112,50 +2106,92 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Pass
           <ul>
             <li>AUX-Fin: είναι, ήταν, είμαι, είμαστε, είσαι, είστε, ήμουν</li>
             <li>VERB-Conv: ευχαριστημένος, κολλημένα, κολλημένη, σκισμένο, στρωμένο</li>
-            <li>VERB-Fin: είναι, ήταν, έγινε, ήρθε, γίνεται, είμαι, είμαστε, έρθει, φαίνεται, έρχεται</li>
-            <li>VERB-Inf: έρθει, κοπεί, σκαρφιστεί</li>
+            <li>VERB-Fin: έγινε, ήρθε, γίνεται, φαίνεται, έρχεται, βρίσκεται, πρόκειται, σηκώνομαι, σκέφτομαι, έρθει</li>
+            <li>VERB-Inf: έρθει, γίνει, μαζευτεί, παραβιαστεί, αντιληφθεί, απαντηθεί, κοπεί, πειστεί, σκαρφιστεί, σταθεροποιηθεί</li>
             <li>VERB-Part: ευχαριστημένος, αγανακτισμένο, αγαπημένα, αγαπημένη, αναμμένα, αναστατωμένο, αναστατωμένος, απασχολημένο, αποφασισμένη, αυξανόμενη</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Pass
+          <ul>
+            <li>AUX-Fin: είνι, ήνταν, ήταν, είναι, ένι, είμι, είνη, ήμν-ταν, είμη, ν’</li>
+            <li>VERB-Fin: έλα, ήρτι, Κάτσι, ήρτα, ήρταν, τσμούντου, φαίνητι, Έγινι, Έχε, Αθουώθ’κα</li>
+            <li>VERB-Part: αγαπμέν, αγισμένους, λαδουμένου, λοιμ’τσιασμένους, μιτσ’μένους, σπασμένα, στιναχουρημέν, συκλινσμέν, τσ’στάμινους</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="25%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Art
+          <ul>
+            <li>DET: ο, το, τα, η, του, τη, την, τ', τον, μια</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -1164,7 +2200,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -1173,9 +2209,28 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Art
+          <ul>
+            <li>DET: του, τα, τ’, η, γη, τ’ς, γιου, μια, τουν, τ’ν</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Dem
+          <ul>
+            <li>DET: αυτός, αυτό, εκείνη, 'κείνη, 'κεινά, αυτές, αυτή, εκειοσές, εκειουνά, κειονέ</li>
+            <li>PRON: έτονα, τόσοσας</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -1185,35 +2240,65 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Dem
           <ul>
-            <li>ADV: τώρα, εκεί, εδώ, τότε, άμεσα, μετά, ουδέτερα, τόσο, φέτος, λιγότερο</li>
-            <li>DET: αυτό, αυτά, αυτοί, αυτός, τόσο, αυτές, αυτή, αυτήν, αυτόν, αυτού</li>
-            <li>PRON: αυτό, αυτός, αυτά, εκείνη, αυτόν, εκείνο, μου, το</li>
+            <li>ADV: τώρα, εκεί, εδώ, τότε, άμεσα, μετά, τόσο, φέτος, λιγότερο</li>
+            <li>DET: αυτό, αυτά, αυτός, αυτοί, τόσο, αυτές, αυτή, αυτήν, αυτόν, εκείνη</li>
+            <li>PRON: μου</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Dem
+          <ul>
+            <li>ADV: τόσου</li>
+            <li>DET: αυτό, έγιουτα, έφτα, έφτου, τούτους, φτος, Αυτός, Φτη, Εγίτιου, Τούτ’</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Emp
           <ul>
-            <li>ADJ: ίδια</li>
+            <li>DET: ίδια</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Emp
+          <ul>
             <li>DET: ίδια, ίδιο, ίδιος, ίδιες, Ο, ίδιας</li>
           </ul>
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>DET: κάτι, άλλα, άλλες, άλλη, Τάδε, άλλον, άλλος, μερικούς, μόνο, πολλούς</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1223,20 +2308,33 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ind
           <ul>
-            <li>ADV: λίγο, πολύ, περισσότερο, Πού, Συνήθως, κάπου, παραπέρα, όπου, όσο</li>
-            <li>DET: κάτι, άλλο, κάποια, άλλα, άλλη, μόνο, κάποιο, μόνος, άλλες, κάποιος</li>
-            <li>PRON: άλλο, άλλη, κάτι, κάποιο, που</li>
+            <li>ADV: λίγο, περισσότερο, πολύ, Πού, Συνήθως, κάπου, μόνο, παραπέρα, όπου, λιγότερο</li>
+            <li>DET: κάτι, άλλο, άλλη, κάποια, άλλα, κάποιο, μόνος, άλλες, κάποιος, μόνο</li>
+            <li>PRON: που</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>ADV: άλλου, που</li>
+            <li>DET: κανέ, πουλλά, άλλοι, άλλου, πουλλοί</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Ind,Rel
           <ul>
@@ -1246,12 +2344,25 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Int
+          <ul>
+            <li>ADV: πού, πώς, Γιάντα, Γιατ'</li>
+            <li>PRON: είντα, Ποιος, ποιο, Ποιανού, τι</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -1260,37 +2371,76 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Int
           <ul>
-            <li>ADV: πώς, πού, γιατί, πότε, πόσο, τι</li>
-            <li>DET: ποιος, τι, πόσο, ποιον, ποια, ποιο, ποιοι, πόσα, πόσες</li>
-            <li>PRON: τι, ποιος, Ποιες, Ποιο, Ποιοι</li>
-            <li>SCONJ: τι, γιατί, πού, ποια, ποιοι, ποιον</li>
+            <li>ADV: γιατί, πού, πώς, τι, πότε, πόσο</li>
+            <li>DET: τι, πόσο, ποια, Ποιος, ποιο, ποιον, πόσα, πόσες</li>
+            <li>PRON: τι, ποιος, Ποιες, Ποιο, Ποιοι, ποια, ποιον</li>
+            <li>SCONJ: τι, ποιος, ποιον, ποιοι, ποια, ποιο</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Int
+          <ul>
+            <li>ADV: πότι, πού, τίλιγια, πώς, τι</li>
+            <li>DET: τι, αλλουνού, τη</li>
+            <li>PRON: τι, τί, Ποια, Τις, ποιον, ποιος</li>
+            <li>SCONJ: τι</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>DET: καμιά, κανείς, κιαμιά</li>
+            <li>PRON: κιάνα, κιαμιά</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Neg
           <ul>
             <li>ADV: ποτέ, καθόλου, πουθενά</li>
-            <li>DET: τίποτα, καμία, κανείς, κανένα, καμιά, κανένας, τίποτ', κανενός</li>
-            <li>PRON: τίποτα, κανείς, τίποτε</li>
+            <li>DET: τίποτα, καμία, κανείς, κανένα, καμιά, κανένας, τίποτ', κανενός, τίποτε</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>DET: κανέναν, κανείς, τίπουτα, κανέ</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Prs
+          <ul>
+            <li>PRON: μου, ντου, του, το, τηνε, τζη, μας, σου, την, τονε</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -1299,7 +2449,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -1308,9 +2458,30 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Prs
+          <ul>
+            <li>PRON: μ’, τ’, τουν, τα, μας, μι, μ, σ’, του, γω</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Rel
+          <ul>
+            <li>ADV: που, ως, καταπώς, απου, όπου</li>
+            <li>DET: ό,τι, όποιος, όσοι, όποια</li>
+            <li>PRON: που, ό,τι</li>
+            <li>SCONJ: ως, που</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -1320,49 +2491,100 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Rel
           <ul>
-            <li>ADV: που, όπως, Όσο</li>
-            <li>DET: ό,τι, όσα, όσοι, οποία, οποιαδήποτε, όποιος</li>
-            <li>PRON: που, με, οποία, οποίος, ό,τι</li>
+            <li>ADV: όπως, που, Όσο</li>
+            <li>DET: ό,τι, όσα, όσοι, οποιαδήποτε, όποιος</li>
+            <li>PRON: που, οποία, με, οποίος, ό,τι</li>
             <li>SCONJ: που</li>
           </ul>
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-        <li>Tot
+        <li>Rel
           <ul>
-            <li>ADV: πάντα</li>
-            <li>DET: όλα, όλοι, κάθε, όλο, όλες, καθένας, όλη, όλους, ολόκληρη, πάντα</li>
-            <li>PRON: όλα</li>
+            <li>ADV: που, Όσου</li>
+            <li>DET: όποιους, Όσις, όσα</li>
+            <li>PRON: που, π’, πού</li>
+            <li>SCONJ: που, π’</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Tot
+          <ul>
+            <li>ADV: όλο</li>
+            <li>DET: Κάθε, όλη, όλο, όλοι, όλους</li>
+            <li>PRON: καθένας</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Tot
+          <ul>
+            <li>ADV: πάντα, όλο</li>
+            <li>DET: όλα, όλοι, κάθε, όλες, καθένας, όλη, όλο, όλους, ολόκληρη, πάντα</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Tot
+          <ul>
+            <li>ADV: ούλου, πάντα</li>
+            <li>DET: ούλα, ούλ, ούλου, ούλ’, κάθι, ουλ’, κάθα, κάθε, καθένας, ούλους</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Card
+          <ul>
+            <li>NUM: δυο, πέντε, σαράντα, εννιά, τρεις, τριάντα, Εκατό, δεκαεφτά, διακόσιους, δύο</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -1371,21 +2593,33 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Card
           <ul>
-            <li>NUM: δύο, δυο, τρεις, 16, ένα, δέκα, μία, πενήντα, 14/5, 24</li>
+            <li>NUM: δύο, δυο, τρεις, ένα, 16, ένας, δέκα, μία, μια, πενήντα</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Card
+          <ul>
+            <li>NUM: 100, ένα, δυο, μια, 50, 2, 200, 3, δέκα, μιαν</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Frac
           <ul>
@@ -1395,9 +2629,15 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Mult
           <ul>
@@ -1406,12 +2646,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Ord
+          <ul>
+            <li>ADJ: πρώτος</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -1420,7 +2672,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -1429,9 +2681,21 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Sets
+          <ul>
+            <li>NOUN: κοσσαριά</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Sets
           <ul>
@@ -1441,7 +2705,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Sets
           <ul>
@@ -1450,21 +2714,43 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>PRON: ντου, μου, μας, τζη, του, ντως, σου, τους, τση, Ποιανού</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1473,7 +2759,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1482,29 +2768,65 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-        <li><a>Person</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a>Person</a></li>
+        <li>Yes
+          <ul>
+            <li>PRON: μ’, τ’, μ, ντ, σ’, ιμ, τ’ς, μας, ς, ιτ</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <ul>
+        <li>1
+          <ul>
+            <li>AUX-Fin: 'μαι, έχω, είχα</li>
+            <li>PRON: μου, μας, εγώ, με, μαςε, σε, 'μάς, Εμείς, τηνε, τονε</li>
+            <li>VERB-Fin: λέω, πω, Σκέφτηκα, βάλομε, βλέπω, γροικώ, είπα, πάω, φιλήσω, 'πα</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -1515,7 +2837,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -1528,9 +2850,33 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>1
+          <ul>
+            <li>AUX-Fin: είμι, είμη, ’μαστι</li>
+            <li>PRON: μ’, μας, μι, μ, γω, ιμ, ’γώ, μεις, ήμ, γώ</li>
+            <li>VERB-Fin: κάνου, έχου, έχουμι, δω, θέλου, λέγου, μπουρώ, Έφαγα, ήρτα, βάλου</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li>2
+          <ul>
+            <li>AUX-Fin: θες</li>
+            <li>PRON: σου, σε, σ', σας, εσείς, τηνε</li>
+            <li>VERB: πεις, λες, γιάε, θες, 'χεις, Άσε, Πες, έλα, βάλε, βάστα</li>
+            <li>VERB-Fin: πεις, λες, θες, 'χεις, Άσε, Πες, έλα, βάλε, βάστα, δώσ'</li>
+            <li>VERB-Inf: Γιάε</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -1541,80 +2887,143 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>2
           <ul>
-            <li>AUX-Fin: είσαι, έχεις, είστε, είχατε, είχες</li>
+            <li>AUX-Fin: είσαι, είστε, έχεις, είχατε, είχες</li>
             <li>PRON: σας, σου, σε, εσείς, εσύ, εσάς, σ', εσένα</li>
-            <li>VERB-Fin: πεις, έκανες, μπορείς, έχετε, ξέρεις, ξέρετε, κάνατε, έλα, βλέπετε, είσαι</li>
+            <li>VERB: πεις, έκανες, μπορείς, έχετε, ξέρεις, ξέρετε, κάνατε, έλα, βλέπετε, κάνεις</li>
+            <li>VERB-Fin: πεις, έκανες, μπορείς, έχετε, ξέρεις, ξέρετε, κάνατε, έλα, βλέπετε, κάνεις</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>2
+          <ul>
+            <li>PRON: σ’, σι, συ, ς, σ, σας, μ’, ση, ισύ, σένα</li>
+            <li>VERB-Fin: έλα, λέγ’ς, ξέρ’ς, Κάτσι, Σώπα, άγι, βάλι, θέλ’ς, κάνιτι, ξερς</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>3
           <ul>
-            <li>AUX-Fin: είναι, πρέπει, ήταν, έχει, έχουν, είχε, είχαν, έπρεπε, ήσαν</li>
+            <li>AUX-Fin: είναι, ήτανε, ήταν, ήτονε, 'ναι, είχε, είν', 'ν', 'τονε, 'χει</li>
+            <li>PRON: ντου, του, το, τηνε, την, τζη, τονε, τα, ντως, τον</li>
+            <li>VERB-Fin: κάνει, είπε, λέει, πήγε, ήκανε, πάει, πήρε, 'πε, ήθελε, ανοίγει</li>
+            <li>VERB-Inf: πάρει, σφάξει</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>3
+          <ul>
+            <li>AUX-Fin: είναι, ήταν, έχει, έχουν, είχε, είχαν, ήσαν</li>
             <li>DET: αυτή, αυτό, κάθε, αυτές, αυτής, αυτά, αυτού, αυτών, άλλες, άλλα</li>
             <li>PRON: που, τους, του, οποία, της, αυτό, οποίο, το, οποίες, οποίος</li>
-            <li>VERB-Fin: μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, βρίσκεται, πρόκειται, μπορούν</li>
+            <li>VERB-Fin: πρέπει, μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, βρίσκεται, πρόκειται</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>3
           <ul>
-            <li>AUX: είναι, ήταν, έχει, έχουν, είχε, είχαν, πρέπει</li>
-            <li>AUX-Fin: είναι, ήταν, έχει, έχουν, είχε, είχαν, πρέπει</li>
+            <li>AUX: είναι, ήταν, έχει, έχουν, είχε, είχαν</li>
+            <li>AUX-Fin: είναι, ήταν, έχει, έχουν, είχε, είχαν</li>
+            <li>DET: αυτοί, αυτός, Αυτό, αυτές</li>
             <li>PRON: του, το, τον, τους, της, τα, την, τη, τ', τις</li>
-            <li>VERB: είναι, λέει, μπορεί, ήταν, απαντάει, πρέπει, έχει, κάνει, ρωτάει, είχε</li>
-            <li>VERB-Fin: είναι, λέει, μπορεί, ήταν, απαντάει, πρέπει, έχει, κάνει, ρωτάει, είχε</li>
-            <li>VERB-Inf: αναρτήσει</li>
+            <li>VERB: λέει, μπορεί, απαντάει, πρέπει, έχει, κάνει, ρωτάει, υπάρχει, είχε, είπε</li>
+            <li>VERB-Fin: λέει, μπορεί, απαντάει, πρέπει, έχει, κάνει, ρωτάει, υπάρχει, είχε, είπε</li>
+            <li>VERB-Inf: αναρτήσει, γνωρίσει, περάσει, σκάσει</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>3
+          <ul>
+            <li>AUX-Fin: είνι, ήνταν, ήταν, είναι, ένι, είνη, ήμν-ταν, ν’, ταν, ’νι</li>
+            <li>DET: φτος, Αυτός, έφτοι, έφτου</li>
+            <li>PRON: τ’, τουν, τα, του, ντ, τ’ς, ντα, τό, ιτ, ν-τουν</li>
+            <li>VERB-Fin: έχ’, κάν’, ήρτι, είπι, είχι, πήγι, γυρίσ’, είδι, ξέρ’, πα</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="25%" valign="top">
       <h3>Other Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -1628,7 +3037,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -1643,9 +3052,144 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADJ
+              <ul>
+                <li>ADJ: μπλε</li>
+              </ul>
+            </li>
+            <li>ADP
+              <ul>
+                <li>ADV: κάτω, μέσα, απάνω</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADP: για</li>
+                <li>ADV: γύρου, ίσα, 'δά, Σαν, Στόσο, γύρω, ούτε</li>
+                <li>CCONJ: και</li>
+                <li>DET: μια</li>
+                <li>PART: Μπας</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>CCONJ: απού</li>
+              </ul>
+            </li>
+            <li>INTJ
+              <ul>
+                <li>DET: Τάδε</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADP: για, ίσαμε, πρίχου</li>
+                <li>ADV: έτσι</li>
+                <li>PART: μπας</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADP: ως, απ', από</li>
+                <li>ADV: όσον, Όσο</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADV: ως, ούτως</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>CCONJ: πλην</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADP: έως, μέχρι</li>
+                <li>ADV: έτσι, δεδομένου, ούτως, παρόλο, Όσο</li>
+                <li>SCONJ: αν, μιας</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADV
+              <ul>
+                <li>ADP: σ, ως, εκ, επ', μετά</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>PART: μπας</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADP: απ</li>
+                <li>ADV: ίσια, πα, πριν, Ύστιρα, Απάνου, ανάμισα, ιδώ, πά</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADV: Σαν, Σιγά, άλλου, μο</li>
+                <li>NOUN: καλού</li>
+                <li>NUM: 100</li>
+                <li>PART: μπά, Μπα</li>
+                <li>SCONJ: π’</li>
+              </ul>
+            </li>
+            <li>INTJ
+              <ul>
+                <li>X: Εις</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADP: για</li>
+                <li>SCONJ: που</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -1658,14 +3202,14 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
             <li>Yes
               <ul>
                 <li>NOUN: γουάι-φάι</li>
-                <li>PROPN: Καϊμάν, Τζέιν, Άουντι, Όγκντεν, Ισβέστια, Μαχμούντ, Σουζούκι, Μερσεντές, Σέατ</li>
+                <li>PROPN: Καϊμάν</li>
                 <li>X: West, Shipping, Enterprises, Ionian, Marine, Beretta, Computer, Cruiser, Explorer, Johnson</li>
               </ul>
             </li>
@@ -1673,53 +3217,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
-        <li><a>PunctType</a>
+        <li><a>Style</a>
           <ul>
-            <li>Colo
+            <li>Arch
               <ul>
-                <li>PUNCT: :</li>
-              </ul>
-            </li>
-            <li>Comm
-              <ul>
-                <li>PUNCT: ,</li>
-              </ul>
-            </li>
-            <li>Dash
-              <ul>
-                <li>PUNCT: -</li>
-              </ul>
-            </li>
-            <li>Elip
-              <ul>
-                <li>PUNCT: ...</li>
-              </ul>
-            </li>
-            <li>Excl
-              <ul>
-                <li>PUNCT: !</li>
-              </ul>
-            </li>
-            <li>Peri
-              <ul>
-                <li>PUNCT: .</li>
-              </ul>
-            </li>
-            <li>Qest
-              <ul>
-                <li>PUNCT: ;</li>
-              </ul>
-            </li>
-            <li>Quot
-              <ul>
-                <li>PUNCT: », «, “, ”, '</li>
+                <li>X: αναδράμου</li>
               </ul>
             </li>
           </ul>
@@ -1728,7 +3246,46 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Typo</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ: Ελληνις, Ρήνιω, αχριγιάννα, καταμισ’νος</li>
+                <li>ADP: μέσ’, μη</li>
+                <li>ADV: κουμάτ, κουμάτ’, πού, άναβλα, πλ-ια, πως, πά</li>
+                <li>AUX-Fin: είνη, ήμν-ταν, είμη</li>
+                <li>CCONJ: τσί, τσι’</li>
+                <li>DET: τσ’, γη, γι, ι, κατ’, Φτη, έγτσιν, γή, πουλι, τα</li>
+                <li>INTJ: άγντη</li>
+                <li>NOUN: Αφουρμί, γ-κόσμου, δλεια, δυουλιά, ηφτσή, καφαλτή, κουπηλούδια, μ-προυκουπή, μάννα, μιθύσς</li>
+                <li>PART: Οχ, ένη</li>
+                <li>PRON: ’γώ, τό, ν-τουν, πού, τά, ση, τί, τσ, Γω, ήμ</li>
+                <li>PROPN: 15, Ατζιλικο, Γνάτσ, Θρασίβουλου, Κατιρίνη, Ξυνόφς, Σμυρν’, Φρουσήν, τσιριατσή</li>
+                <li>SCONJ: νά</li>
+                <li>VERB-Conv: κλέγουντας</li>
+                <li>VERB-Fin: έφγει, λόγιαζει, ξερς, πήγει, πιάσει, φαίνητι, φώναζει, Ανέβτσει, Κοίτιτι, έδξει</li>
+                <li>VERB-Inf: πέρνη</li>
+                <li>VERB-Part: συκλινσμέν</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -1737,7 +3294,7 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: είμαι.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -1746,21 +3303,68 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: είμαι.</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
       <ul>
-      <li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: να, θα, έχω, πρέπει, ας.</li>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: είμαι.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
       <ul>
-      <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: θα, να, έχω, ας.</li>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: είμι.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: να, θα, έχω, ας, θέλω.</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: να, θα, έχω, ας.</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: θα, έχω, να, ας.</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: θα, να, ας.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+      
+      Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+      <ul>
+        <li><a>nsubj</a>
+          <ul>
+            <li>VERB-Fin--NOUN-Acc (2)</li>
+            <li>VERB-Fin--NOUN-Nom (83)</li>
+            <li>VERB-Fin--PRON-Nom (28)</li>
+            <li>VERB-Inf--NOUN-Acc (1)</li>
+            <li>VERB-Inf--NOUN-Nom (1)</li>
+            <li>VERB-Inf--PRON-Nom (2)</li>
+            <li>VERB-Part--NOUN-Acc (1)</li>
+            <li>VERB-Part--NOUN-Nom (2)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -1780,7 +3384,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -1788,23 +3392,56 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB--NOUN-Nom (1)</li>
-            <li>VERB-Conv--NOUN-Nom (2)</li>
+            <li>VERB-Conv--NOUN-Nom (3)</li>
             <li>VERB-Fin--NOUN (1)</li>
-            <li>VERB-Fin--NOUN-Acc (16)</li>
-            <li>VERB-Fin--NOUN-Nom (398)</li>
-            <li>VERB-Fin--PRON (4)</li>
-            <li>VERB-Fin--PRON-Acc (15)</li>
-            <li>VERB-Fin--PRON-Gen (1)</li>
-            <li>VERB-Fin--PRON-Nom (191)</li>
-            <li>VERB-Inf--NOUN-Nom (3)</li>
+            <li>VERB-Fin--NOUN-Acc (19)</li>
+            <li>VERB-Fin--NOUN-Nom (308)</li>
+            <li>VERB-Fin--PRON (1)</li>
+            <li>VERB-Fin--PRON-Acc (4)</li>
+            <li>VERB-Fin--PRON-Nom (194)</li>
+            <li>VERB-Inf--NOUN-Nom (16)</li>
+            <li>VERB-Inf--PRON-Nom (4)</li>
+            <li>VERB-Part--NOUN-Nom (6)</li>
             <li>VERB-Part--PRON-Nom (1)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+      
+      Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+      <ul>
+        <li><a>nsubj</a>
+          <ul>
+            <li>VERB-Fin--NOUN-Acc (12)</li>
+            <li>VERB-Fin--NOUN-Nom (57)</li>
+            <li>VERB-Fin--PRON-Nom (32)</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>obj</a>
+          <ul>
+            <li>VERB-Conv--NOUN-Acc (1)</li>
+            <li>VERB-Fin--NOUN (1)</li>
+            <li>VERB-Fin--NOUN-Acc (151)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(σε) (1)</li>
+            <li>VERB-Fin--NOUN-Gen (3)</li>
+            <li>VERB-Fin--NOUN-Nom (4)</li>
+            <li>VERB-Fin--PRON-Acc (140)</li>
+            <li>VERB-Fin--PRON-Gen (9)</li>
+            <li>VERB-Inf--NOUN-Acc (7)</li>
+            <li>VERB-Part--PRON-Acc (1)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -1824,23 +3461,38 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN-Acc (2)</li>
-            <li>VERB-Conv--NOUN-Acc (1)</li>
-            <li>VERB-Fin--NOUN (1)</li>
-            <li>VERB-Fin--NOUN-Acc (884)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(σε) (1)</li>
-            <li>VERB-Fin--NOUN-Gen (1)</li>
-            <li>VERB-Fin--NOUN-Nom (27)</li>
-            <li>VERB-Fin--PRON (7)</li>
-            <li>VERB-Fin--PRON-Acc (641)</li>
-            <li>VERB-Fin--PRON-Gen (92)</li>
-            <li>VERB-Fin--PRON-Nom (38)</li>
-            <li>VERB-Inf--NOUN-Acc (10)</li>
+            <li>VERB--NOUN-Acc (1)</li>
+            <li>VERB-Fin--NOUN (2)</li>
+            <li>VERB-Fin--NOUN-Acc (857)</li>
+            <li>VERB-Fin--NOUN-Nom (18)</li>
+            <li>VERB-Fin--PRON (1)</li>
+            <li>VERB-Fin--PRON-Acc (603)</li>
+            <li>VERB-Fin--PRON-Gen (36)</li>
+            <li>VERB-Fin--PRON-Nom (16)</li>
+            <li>VERB-Inf--NOUN-Acc (23)</li>
+            <li>VERB-Inf--NOUN-Gen-ADP(περί) (1)</li>
             <li>VERB-Inf--NOUN-Nom (1)</li>
+            <li>VERB-Inf--PRON-Acc (12)</li>
+            <li>VERB-Inf--PRON-Gen (1)</li>
+            <li>VERB-Inf--PRON-Nom (1)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>obj</a>
+          <ul>
+            <li>VERB-Fin--NOUN (1)</li>
+            <li>VERB-Fin--NOUN-Acc (117)</li>
+            <li>VERB-Fin--NOUN-Nom (5)</li>
+            <li>VERB-Fin--PRON-Acc (86)</li>
+            <li>VERB-Fin--PRON-Gen (1)</li>
+            <li>VERB-Fin--PRON-Nom (1)</li>
             <li>VERB-Inf--PRON-Acc (1)</li>
           </ul>
         </li>
@@ -1848,7 +3500,20 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+            <li>VERB-Fin--NOUN-Acc (2)</li>
+            <li>VERB-Fin--NOUN-Gen (5)</li>
+            <li>VERB-Fin--PRON-Acc (1)</li>
+            <li>VERB-Fin--PRON-Gen (39)</li>
+            <li>VERB-Inf--PRON-Gen (1)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -1860,44 +3525,80 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB-Fin--PRON-Acc (63)</li>
-            <li>VERB-Fin--PRON-Gen (276)</li>
-            <li>VERB-Inf--PRON-Gen (1)</li>
+            <li>VERB-Fin--PRON-Acc (76)</li>
+            <li>VERB-Fin--PRON-Gen (311)</li>
+            <li>VERB-Inf--PRON-Gen (3)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+            <li>VERB-Fin--PRON-Acc (12)</li>
+            <li>VERB-Fin--PRON-Gen (7)</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <h3>Relations Overview</h3>
+      
+      <ul>
+      <li>This corpus uses 2 relation subtypes: <a>acl:relcl</a>, <a>compound:redup</a></li>
+      <li>The following 5 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -1905,12 +3606,20 @@ udver: '2'
       <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 4 relation subtypes: <a>acl:relcl</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-      <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>csubj:pass</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+      <li>The following 5 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Relations Overview</h3>
+      
+      <ul>
+      <li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>compound:redup</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+      <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
   </tr>

@@ -1076,6 +1076,24 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <ul>
+        <li><a>Typo</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>NOUN: دختر, یک‌شنبه</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>

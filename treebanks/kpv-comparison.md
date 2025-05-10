@@ -668,7 +668,7 @@ udver: '2'
         <li>Ela
           <ul>
             <li>ADP: йылысь, ӧторйысь</li>
-            <li>ADV: кытысь, сэтысь, унаись</li>
+            <li>ADV: кытысь, унаись, сэтысь</li>
             <li>NOUN: вомсьыс, керкасис, нырсьыс, вӧлэсьтсюнум, дӧмысь, дӧраысь, комиысь, рочысь, ягись</li>
             <li>PRON: Ассюм, Сыысь, ассьыд, месюм</li>
             <li>VERB-Vnoun: велэдчемысь</li>
@@ -759,7 +759,7 @@ udver: '2'
           <ul>
             <li>ADJ: Омскейын</li>
             <li>ADP: вылын, бӧрын, сайын, бӧрас</li>
-            <li>ADV: кытэнке, мӧдлаын, Медбӧрын</li>
+            <li>ADV: кытэнке, Медбӧрын, мӧдлаын</li>
             <li>NOUN: университетын, годын, тундраын, сайын, Гожемъясын, Москваын, Пустыняын, Сыктывкарын, водьын, вылын</li>
             <li>PROPN: Ляпинын</li>
             <li>VERB-Vnoun: олэмад</li>
@@ -1201,6 +1201,20 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
+        <li>Cnd
+          <ul>
+            <li>AUX: бы</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
         <li>Imp
           <ul>
             <li>VERB: висьтоо, Считай, видед, нӧревитлы, расскажит</li>
@@ -1607,20 +1621,6 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-        <li>Card,Ord
-          <ul>
-            <li>NUM: кӧкъямыс</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
         <li>Dist
           <ul>
             <li>ADV: квайтэнэсь</li>
@@ -1655,6 +1655,20 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
+
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Mult,Ord
+          <ul>
+            <li>ADV: гоз-мӧдысь, мӧдысь</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -1673,20 +1687,6 @@ udver: '2'
             <li>DET: коймӧдъяс, мӧдъяс, мӧд, мӧдным</li>
             <li>NUM: Кызьӧд</li>
             <li>PRON: Мӧдыс, мӧд, мӧдыслы</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li>OrdMult
-          <ul>
-            <li>ADV: гоз-мӧдысь, мӧдысь</li>
           </ul>
         </li>
       </ul>
@@ -2007,6 +2007,11 @@ udver: '2'
       <ul>
         <li><a>AdvType</a>
           <ul>
+            <li>Loc
+              <ul>
+                <li>ADV: сэн, сэтэн, бӧр, Кытэн, кычеге, кӧн, сэсь, быдлаті, водзе, кытэнке</li>
+              </ul>
+            </li>
             <li>Man
               <ul>
                 <li>ADV: сідз, кудз, кудзке, тадз</li>
@@ -2014,7 +2019,7 @@ udver: '2'
             </li>
             <li>Tim
               <ul>
-                <li>ADV: на, кор, корке, нин, таво</li>
+                <li>ADV: эні, ӧні, на, кор, корке, нин, таво</li>
               </ul>
             </li>
           </ul>
@@ -2032,7 +2037,7 @@ udver: '2'
             </li>
             <li>Loc
               <ul>
-                <li>ADV: некӧн</li>
+                <li>ADV: Татчӧ, некӧн</li>
               </ul>
             </li>
             <li>Man
@@ -2207,11 +2212,6 @@ udver: '2'
                 <li>VERB-Part: аддзанаӧн</li>
               </ul>
             </li>
-            <li>Anin
-              <ul>
-                <li>VERB: чӧвтанінӧ</li>
-              </ul>
-            </li>
             <li>CompMod
               <ul>
                 <li>ADJ: паськыдкодь, гожсякодьӧсь, ыджыдкодь</li>
@@ -2322,6 +2322,51 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADV
+              <ul>
+                <li>PART: да, то</li>
+                <li>SCONJ: как</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>CCONJ: но</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>PART: Так</li>
+                <li>SCONJ: потому, так</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADV
+              <ul>
+                <li>ADV: Ӧдва</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>CCONJ: Ho</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
         <li><a>Foreign</a>
           <ul>
             <li>Yes
@@ -2360,6 +2405,12 @@ udver: '2'
               <ul>
                 <li>VERB: сулалысь, дзирдалысь, локтысь, Вӧралысь, видзысьяс, воысьясӧс, вӧтчысь, вӧчысь, дзользьысь, индалысьясным</li>
                 <li>VERB-Part: Вӧралысь, кыйсьысь, шептасьысь</li>
+              </ul>
+            </li>
+            <li>Loc
+              <ul>
+                <li>NOUN: бергӧдчанінӧдзыс, вӧчанінас, лэдзанінын, оланіныс, петанін, сёянінсьыныс, тӧдсаинӧ, узянінлань</li>
+                <li>VERB: чӧвтанінӧ</li>
               </ul>
             </li>
           </ul>
@@ -2561,12 +2612,12 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: оз, вӧвны, абу.</li>
+      <li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: оз, вӧвны, абу, кутны, бы.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: оз, вӧвны, лоны, абу, вай, лысьтны, овлывлыны, эм.</li>
+      <li>This corpus uses 14 lemmas as auxiliaries (<a>aux</a>). Examples: оз, вермыны, кутны, ковны, вӧвны, позьны, пондыны, лоны, должен, абу, вай, лысьтны, овлывлыны, эм.</li>
       </ul>
     </td>
   </tr>
@@ -2712,7 +2763,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 22 relation subtypes: <a>acl:relcl</a>, <a>advcl:eval</a>, <a>advcl:tcl</a>, <a>advmod:deg</a>, <a>advmod:eval</a>, <a>advmod:lmod</a>, <a>advmod:mmod</a>, <a>advmod:tmod</a>, <a>aux:aspect</a>, <a>aux:cnd</a>, <a>aux:neg</a>, <a>compound:nn</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nmod:prp</a>, <a>nsubj:cop</a>, <a>obl:cau</a>, <a>obl:cmp</a>, <a>obl:lmod</a>, <a>obl:lmp</a>, <a>obl:tmod</a></li>
+      <li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>advmod:deg</a>, <a>aux:neg</a>, <a>compound:nn</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nmod:prp</a>, <a>nsubj:cop</a>, <a>obl:cmp</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
       <li>The following 4 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>goeswith</a></li>
       </ul>
@@ -2721,7 +2772,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 34 relation subtypes: <a>acl:relcl</a>, <a>advcl:eval</a>, <a>advcl:lcl</a>, <a>advcl:tcl</a>, <a>advmod:cau</a>, <a>advmod:deg</a>, <a>advmod:emph</a>, <a>advmod:eval</a>, <a>advmod:foc</a>, <a>advmod:freq</a>, <a>advmod:lmod</a>, <a>advmod:mmod</a>, <a>advmod:tmod</a>, <a>aux:aspect</a>, <a>aux:nec</a>, <a>aux:neg</a>, <a>aux:pot</a>, <a>aux:tense</a>, <a>cc:preconj</a>, <a>compound:nn</a>, <a>csubj:cop</a>, <a>flat:name</a>, <a>flat:num</a>, <a>nmod:lmod</a>, <a>nmod:obj</a>, <a>nmod:poss</a>, <a>nmod:subj</a>, <a>nsubj:cop</a>, <a>obl:agent</a>, <a>obl:cau</a>, <a>obl:cmp</a>, <a>obl:lmod</a>, <a>obl:mcl</a>, <a>obl:tmod</a></li>
+      <li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>advmod:deg</a>, <a>advmod:emph</a>, <a>aux:neg</a>, <a>aux:tense</a>, <a>cc:preconj</a>, <a>compound:nn</a>, <a>csubj:cop</a>, <a>flat:name</a>, <a>flat:num</a>, <a>nmod:obj</a>, <a>nmod:poss</a>, <a>nmod:subj</a>, <a>nsubj:cop</a>, <a>obl:agent</a>, <a>obl:cmp</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>goeswith</a>, <a>dep</a></li>
       </ul>
     </td>

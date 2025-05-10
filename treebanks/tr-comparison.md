@@ -6,299 +6,331 @@ udver: '2'
 
 <table>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h1>UD_Turkish-Atis</h1>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h1>UD_Turkish-BOUN</h1>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h1>UD_Turkish-FrameNet</h1>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h1>UD_Turkish-GB</h1>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h1>UD_Turkish-IMST</h1>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h1>UD_Turkish-Kenet</h1>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h1>UD_Turkish-PUD</h1>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h1>UD_Turkish-Penn</h1>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h1>UD_Turkish-Tourism</h1>
     </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
-      <h2>Tokenization and Word Segmentation</h2>
-    </td>
-    <td width="11%" valign="top">
-      <h2>Tokenization and Word Segmentation</h2>
-    </td>
-    <td width="11%" valign="top">
-      <h2>Tokenization and Word Segmentation</h2>
-    </td>
-    <td width="11%" valign="top">
-      <h2>Tokenization and Word Segmentation</h2>
-    </td>
-    <td width="11%" valign="top">
-      <h2>Tokenization and Word Segmentation</h2>
-    </td>
-    <td width="11%" valign="top">
-      <h2>Tokenization and Word Segmentation</h2>
-    </td>
-    <td width="11%" valign="top">
-      <h2>Tokenization and Word Segmentation</h2>
-    </td>
-    <td width="11%" valign="top">
-      <h2>Tokenization and Word Segmentation</h2>
-    </td>
-    <td width="11%" valign="top">
-      <h2>Tokenization and Word Segmentation</h2>
+    <td width="10%" valign="top">
+      <h1>UD_Turkish-TueCL</h1>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="10%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="10%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="10%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="10%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="10%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="10%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="10%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="10%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="10%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 5432 sentences and 45907 tokens.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 9761 sentences, 121835 tokens and 125212 syntactic words.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 2698 sentences and 19223 tokens.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 2880 sentences, 16803 tokens and 17177 syntactic words.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 5635 sentences, 56422 tokens and 58096 syntactic words.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 18687 sentences and 178658 tokens.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 1000 sentences, 16535 tokens and 16881 syntactic words.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 16396 sentences and 183555 tokens.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 19830 sentences and 91152 tokens.</li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+      <li>This corpus contains 148 sentences, 883 tokens and 904 syntactic words.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>All tokens in this corpus are followed by a space.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 20812 tokens (17%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>All tokens in this corpus are followed by a space.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 2707 tokens (16%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 10115 tokens (18%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>All tokens in this corpus are followed by a space.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 2179 tokens (13%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>All tokens in this corpus are followed by a space.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>All tokens in this corpus are followed by a space.</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
-      <li>This corpus does not contain words with spaces.</li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-      <li>This corpus does not contain words with spaces.</li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-      <li>This corpus does not contain words with spaces.</li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-      <li>This corpus does not contain words with spaces.</li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-      <li>This corpus does not contain words with spaces.</li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-      <li>This corpus does not contain words with spaces.</li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-      <li>This corpus does not contain words with spaces.</li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-      <li>This corpus does not contain words with spaces.</li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-      <li>This corpus does not contain words with spaces.</li>
+      <li>This corpus contains 169 tokens (19%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 470 types of words that contain both letters and punctuation. Examples: Boston'dan, Francisco'ya, Denver'den, Denver'e, Atlanta'dan, Pittsburgh'tan, Atlanta'ya, Baltimore'ye, Boston'a, Dallas'a, Philadelphia'ya, Pittsburgh'a, Philadelphia'dan, Baltimore'den, Dallas'tan, St., Francisco'dan, City'e, Oakland'a, Washington'dan, City'den, washington'a, Milwaukee'den, Seattle'ye, Vegas'a, Milwaukee'ye, Chicago'dan, Orlando'ya, York'tan, dc'ye, Miami'ye, Oakland'dan, Indianapolis'ten, toronto'dan, Diego'ya, Chicago'ya, Phoenix'den, Temmuz'da, dc'den, Cleveland'dan, 6'dan, Charlotte'den, 5'ten, Memphis'ten, Newark'a, Houston'a, Newark'tan, Miami'den, 10'dan, Angeles'e</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 2148 types of words that contain both letters and punctuation. Examples: Türkiye'de, Türkiye'nin, İstanbul'da, Türkiye'yi, Türkiye'ye, Atatürk'ün, Irak'ta, Avrupa'da, İngiltere'de, İstanbul'a, ABD'nin, Amerika'da, AB'ye, İsrail'in, AB'nin, Anadolu'nun, Ankara'da, ABD'li, Anadolu'da, Kadıköy'de, İbn-i, İstanbul'u, İstanbul'un, 'lik, ABD'de, ABD'ye, Almanya'nın, Ankara'dan, Avrupa'nın, Bakanlığı'nın, Dünya'nın, Fransa'da, Irak'ın, Kurulu'nun, Manço'nun, O'nun, Üniversitesi'nde, 'ydi, 1945'te, 1992'de, AKP'nin, Akdeniz'e, Akdeniz'in, Allah'a, Allah'ın, Almanya'da, Almanya'ya, Ankara'nın, Aralık'ta, Avrupa'ya</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 76 types of words that contain both letters and punctuation. Examples: Nihal'in, Boğaziçi'nde, Hasan'la, Nihat'a, Tevfik'e, Yusuf'u, İstanbul'u, 'Kaos', 1453'te, 1923'te, 2'yi, 3'te, Ahmet'in, Akdeniz'e, Alaçatı'da, Ali'nin, Allah'a, Almanya'da, Amerika'da, Amerika'ya, Ankara'da, Ankara'yı, Arda'nın, Ayşe'ye, Ayşe'yi, Açıkhava'da, Aşk'ı, Behlül'le, Behlül'ü, Berlin'e, Bey'e, Bey'in, Beyoğlu'na, Beşir'in, Bihter'den, Bursa'da, Caddesi'ne, Dante'nin, Ege'de, Eylül'ün, Gaugin'i, H7'ye, Hacı'ya, Halkapınar'da, Hamdi'nin, Hindistan'ı, Irak'ın, Kadıköy'de, Karabükspor'da, Kudüs'te</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 208 types of words that contain both letters and punctuation. Examples: Ali’nin, Ankara’ya, İstanbul’da, Ahmet’in, Ahmet’le, Ayşe’nin, Ayşe’yle, Erol’un, Semra’ya, Ankara’da, Londra’ya, Semra’yı, Amerika’ya, Fatma’nın, Londra’da, Mustafa’nın, Tosca’yı, Verona’da, Zeki’nin, Zeki’ye, 9’da, Ahmet’e, Ali’yi, Almanya’ya, Antalya’ya, Bodrum’a, Elif’e, Erol’a, Filiz’in, Hakan’ın, Jale’nin, Kemal'le, Konya’ya, Korkut’a, Mehmet’i, Mehmet’in, Murat’ın, Mustafa’ya, Paris’e, Semra’nın, Türkiye’de, Zehra’yla, Zeki’yi, Ziya’nın, İstanbul’a, ’lılar, 1994’te, 5’te, Afrika’yı, Ahmet’i</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 611 types of words that contain both letters and punctuation. Examples: Türkiye'nin, Türkiye'de, Taşhan'ın, Erdoğan'ın, Türkiye'ye, 'li, İstanbul'a, Diyarbakır'a, Ankara'ya, Avrupa'da, Mahmut'un, ABD'nin, Ankara'da, Devrim'in, Diyarbakır'da, Gül'ün, Hülya'nın, Irak'ta, Recep'in, Yunak'ın, İstanbul'da, Arınç'ın, Hablemitoğlu'nun, Kemal'in, NA'nın, İstanbul'dan, AB'ye, Akgündüz'ün, Ali'nin, Almanya'da, Anadolu'da, Avrupa'dan, Bakanlığı'na, Erbakan'ın, Erdoğan'ı, Hazine'nin, KKTC'de, Meclis'e, Parkı'na, Sezer'in, Tanrı'nın, 'lı, Alev'in, Başbakanlık'ta, Bey'in, Cumhuriyet'in, Dr., Erbakan'la, Erdoğan'a, Esin'le</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 686 types of words that contain both letters and punctuation. Examples: İstanbul'a, İstanbul'un, Bey'in, Hanım'ın, İstanbul'da, İstanbul'dan, Atatürk'ün, Tanrı'nın, İstanbul'u, Paşa'nın, Türkiye'nin, Anadolu'ya, Ankara'da, Kemal'in, Türkiye'de, Ankara'ya, Beyoğlu'nda, Türk'ün, Allah'a, Anadolu'nun, Ankara'nın, Boğaziçi'nin, Allah'ım, Ankara'yı, Avrupa'nın, Bey'e, Boğaziçi'nde, Haliç'in, Kur'an, Tevfik'e, Tevfik'in, Ali'nin, Allah'tan, Allah'ın, Almanya'ya, Anadolu'dan, Anadolu'yu, Atatürk'e, Avrupa'dan, Baba'nın, Berlin'e, Bey'i, Boğaz'ın, Canan'ın, Efendi'nin, Emine'nin, Fikret'i, Fransa'da, Hamdi'nin, Hasan'ın</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 598 types of words that contain both letters and punctuation. Examples: M.Ö., Çin'in, 2014'te, Avrupa'nın, Üniversitesi'nde, İngiltere'de, 2012'de, ABD'de, Afrika'da, Akdeniz'de, Fransa'nın, Meksika'nın, Moğolistan'ın, Roma'da, Rona'nın, Rusya'ya, Savaşı'nın, Trump'ın, İtalya'ya, 1492'de, 1820'de, 1879'da, 1911'de, 1912'de, 1916'da, 1960'lardan, 1976'da, 1990'lı, 2004'te, 2011'de, 60'lı, ABD'nin, Alaska'da, Alvarez'in, Amerika'da, Amerika'nın, Antarktika'yı, Arnavutluk'un, Asya'da, Avrupa'da, Avustralya'da, Avustralya'nın, Clinton'un, Clinton'ın, Disney'in, Doss'un, Ekim'de, Fransa'dan, Gine'de, Hollanda'da</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 3528 types of words that contain both letters and punctuation. Examples: Corp., Co., Inc., Doları'na, $'dan, Doları'ndan, $'a, Borsası'nda, yen'e, A.B.D., Japonya'nın, S&P, yen'den, 1988'de, Moody's, York'ta, ABD'de, J., a.m, Japonya'da, Ltd., A.Ş, Dr., Journal'ın, alım-satım, A., Bush'un, Tokyo'da, 1990'da, Corp.'un, IBM'in, ABD'deki, Borsası'ndaki, Ekim'de, Kasım'da, W., 1987'de, Almanya'nın, Avrupa'da, Ağustos'ta, E., F., Inc.,, Çin'in, ABD'li, ABD'nin, Inc.'in, 100'e, B., Co.'nun</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 25 types of words that contain both letters and punctuation. Examples: 7'DEN, 70'E, ANTALYA'NIN, ATLANTİS'TE, ETSTUR'U, İSTANBUL'A, BODRUM'A, HİLTON'A, M., V., 5'TEN, 5'İN, 7'DE, ALLAH'A, ARTEMiS'TEN, ARTEMİS'TEN, ATLANTİS'DE, ATİNA'YA, ETS'DEN, ETSTUR'DAN, ETSTUR'LA, KAYA'YA, SANTORİNİ'YE, SİVAS'IN, THERMAL'DE</li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+      <li>This corpus contains 6 types of words that contain both letters and punctuation. Examples: Ayhan'a, Deniz'in, Paris'te, Hakan'ın, Peter'den, Peter'in</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 3374 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 2347 types of multi-word tokens. Examples: vardır, vardı, yoktu, arasındaki, yoktur, olmuştu, yoksa, olursa, gelmişti, başlamıştı, yaşındaki, demişti, etmişti, çıkmıştı, bugünkü, giderken, olmuştur, içindeki, olurdu, varsa, aşağıdaki, dünyadaki, ederken, geliyordu, olmazsa, varmış, demektir, duruyordu, edilmişti, gibiydi, kalmıştı, oluyordu, varken, yaparken, çalışıyordu, çıkarken, önündeki, üzerindeki, bildirdi, bizdeki, düşmüştü, elindeki, gerekiyordu, gitmişti, karşısındaki, olmuştum, vermişti, yanımdaki, önceki, önemli.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 371 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
       <li>There are 269 types of multi-word tokens. Examples: vardı, yoktu, varmış, yıldır, masadaki, metrelik, önemli, 9’daki, Amerika’lılar, bahçedeki, belliydi, bence, gönüllü, kararlıyım, meşguldük, vardır, yandaki, yaşındaki, yokmuş, yoksa, Arkamızdaki, Benimki, Taksim’deki, arasındaki, bahçeli, bense, biriydi, boyalı, defalarca, gazetedeki, görevli, güzelmiş, hastayım, havuzlu, hocasıymış, kimdi, küçüksün, memnunlar, nedir, odalı, olmaktı, piyanistmiş, rahatsızmış, romandaki, tatilmiş, varsa, yorgunum, yıllardır, zamandır, çekmecedeki.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 1639 multi-word tokens. On average, one multi-word token consists of 2.02 syntactic words.</li>
       <li>There are 1119 types of multi-word tokens. Examples: önemli, yoktu, vardı, vardır, yoksa, benim, vadeli, önceki, arasındaki, gibiydi, hafifçe, sessiz, yoktur, içindeki, saatlik, üzerindeki, ?edir, adlı, demektir, dolarlık, olanlar, yıllardır, altındaki, aptalca, buradaki, buydu, bölgedeki, iyice, parmaklı, rahatça, tehlikeli, yanındaki, zamanki, üretici, Katana, adamdı, başlıklı, camlı, doluydu, elindeki, imkansız, içindeydi, kazadaki, olanları, sağlıklı, sebzedir, tarihli, yavaşça, yaşındaydı, yıldır.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 346 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 275 types of multi-word tokens. Examples: arasındaki, sonraki, üzerindeki, bölgedeki, sahiptir, Üniversitesi'ndeki, aittir, ayındaki, değildi, dünyadaki, hakkındaki, ilgilidir, vardır, yaşındaki, yoksa, ABD'deki, Roma'daki, alandaki, buradaki, dolardır, dönemindeki, dışındaki, etrafındaki, gibiydi, görevdeki, göstergesidir, kıyısındaki, liderliğindeki, merkezdeki, tartışmalıdır, tümördür, vardı, yoktu, önceki, ülkedeki, 1912'deki, 1914'teki, 1996'daki, 2014'teki, ABD'deydi, Afrika'daki, Akdeniz'deki, Amerika'daki, Avrasya'daki, Avrupa'daki, Balkanlar'daki, Batı'daki, Brexit'teki, Cambridgeshire'deki, Capua'daki.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+      <li>This corpus contains 20 multi-word tokens. On average, one multi-word token consists of 2.05 syntactic words.</li>
+      <li>There are 18 types of multi-word tokens. Examples: değildi, nedense, Deniz'inkinin, değilmiş, evdeki, evdekininki, evdeydi, filmdi, hemşireydi, içindi, kitaplıktakiler, mutfağınkini, okumasıydı, saattir, seninkinden, yokmuş, yoktu, öğrencidir.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -308,7 +340,7 @@ udver: '2'
       <li>This corpus does not use the following tags: SCONJ, PART, SYM, X</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -318,7 +350,7 @@ udver: '2'
       <li>This corpus does not use the following tags: SYM</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -328,7 +360,7 @@ udver: '2'
       <li>This corpus does not use the following tags: PART, SYM</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -338,7 +370,7 @@ udver: '2'
       <li>This corpus does not use the following tags: PART</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -348,7 +380,7 @@ udver: '2'
       <li>This corpus does not use the following tags: SCONJ, PART, SYM</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -358,7 +390,7 @@ udver: '2'
       <li>This corpus does not use the following tags: PART, SYM</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -368,7 +400,7 @@ udver: '2'
       <li>This corpus does not use the following tags: PART</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -378,7 +410,7 @@ udver: '2'
       <li>This corpus does not use the following tags: PART, SYM</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -386,327 +418,371 @@ udver: '2'
       <ul>
       <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
       <li>This corpus does not use the following tags: PART, SYM</li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <h2>Morphology</h2>
+      
+      <h3>Tags</h3>
+      
+      <ul>
+      <li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
+      <li>This corpus does not use the following tags: PART, SYM, X</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 63 word types tagged as particles (PART): 'a, 'de, 'li, 'lü, 'nin, 'ın, /94'te, Kİ, a, bir, da, dan, de, den, dur, edilmesini, ez, halbuki, hangi, i, in, ise, ki, kiler, kilerden, kilere, kinden, kini, kü, lar, larında, lerden, leri, lerine, lerle, leşen, nda, nde, nin, nın, se, si, sına, ta, takım, tan, te, ten, tır, un, ya, ydi, ye, yi, yla, yse, çok, çoğu, çı, ü, ün, ı, ın</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
       <ul>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 9 lemmas tagged as pronouns (PRON): ben, biri, bu, hangi, hepsi, ne, nere, çoğu, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 137 lemmas tagged as pronouns (PRON): "O'nun, "biz", 'Bu, Basten, Bize, Bunlar, Burada, Buradan, Buğday, Kimsenin, Nitekim, Oğuz, Senî, Sizi, Tasvir, ada, ayakkabı, bahçe, bakan, baston, bazı, başhekim, başka, beden, ben, bence, bende, bensiz, benzin, bina, bir, birara, birbiri, birey, biri, biribiri, birkaç, birkaçı, birlik, birliktelik, birçok, biz, bizim, bu, bun, bura, bölge, böyle, böylesine, bürokrasi, ceset, deniz, din, diri, diz, dizin, düzen, düşman, enerji, ev, fakirlik, gençlik, gündüz, güven, had, hangi, hep, hepsi, herkes, hiçbiri, hâkim, insan, irade, iç, iş, işkence, işsiz, kaç, kendi, ki, kim, kimi, kimler, kimse, kisi, kişilik, kriz, kuzen, kız, liman, meden, metin, ne, neden, nere, o, o'nun, on, onay, operasyon, ora, oracık, orası, ordu, organiz, orman, ortam, san, sanat, sanatçı, sanayi, sayfa, sen, sensiz, servis, ses, sevinç, siz, sizinle, sofra, sıra, tansiyon, tüm, uyku, volta, yurt, Çekemoğlu, çekim, çeviri, çevren, çok, çoğu, ülke, şey, şiir, şu, şura</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 24 lemmas tagged as pronouns (PRON): başkası, ben, birbiri, birbirleri, biri, birçoğu, biz, bu, hangi, hep, hepsi, herkes, hiçbiri, kendi, kim, kimse, ne, nere, o, sen, siz, çoğu, öbür, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 53 lemmas tagged as pronouns (PRON): Fatma, aynısı, bazıları, bazılarımız, bazısı, başkaları, başkası, ben, bir, birbir, biri, birimiz, birşey, biz, bizler, bu, bura, böylesi, hangileri, hangileriniz, hanginiz, hangisi, hani, hepimiz, hepsi, herkes, herşey, hiçbiri, hiçbirimiz, hiçbiriniz, ikisi, insan, kendi, kim, kiminiz, kimse, ne, nere, o, onlar, ora, sen, siz, sizler, yarısı, yenisi, çok, çoğu, öbürü, öteki, şişmanın, şu, şura</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 27 lemmas tagged as pronouns (PRON): bazı, ben, bir, birbiri, biri, birkaçı, birçoğu, biz, bizler, bu, hangi, hep, hepsi, herbiri, hiçbiri, kendi, kim, kimi, ne, nere, o, sen, siz, tümü, çoğu, öbür, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 33 lemmas tagged as pronouns (PRON): bazı, başkası, ben, birbiri, birbirleri, biri, birkaçı, birçokları, birçoğu, biz, bu, böylesi, cümlesi, diğeri, hangi, hep, hepsi, herkes, hiçbiri, kendi, kim, kimi, kimse, ne, nere, o, sen, siz, topu, çoğu, öbür, öteki, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 33 lemmas tagged as pronouns (PRON): Buray, _, bazı, ben, bir, birbiri, biri, birçoğu, biz, bu, bura, diğer, hangi, hangis, hepsi, herkes, hiçbiri, kendi, kim, kimse, ne, nere, o, on, ora, senden, siz, tamam, çok, çoğ, Şura, şey, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 27 lemmas tagged as pronouns (PRON): bazı, ben, birbiri, birbirleri, biri, birçokları, birçoğu, biz, bu, diğeri, hangi, hep, hepsi, herkes, hiçbiri, kendi, kim, kimse, ne, nere, o, sen, siz, tümü, çoğu, öbür, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 19 lemmas tagged as pronouns (PRON): bazı, ben, birbiri, biri, biz, bu, hep, hepsi, herkes, hiçbiri, kendi, kim, kimse, ne, o, sen, siz, çoğu, şu</li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+      <li>This corpus contains 12 lemmas tagged as pronouns (PRON): ben, birbiri, biz, bu, bura, kendi, ki, kim, ne, nere, o, sen</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 6 lemmas tagged as determiners (DET): bir, bu, her, o, tüm, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 27 lemmas tagged as determiners (DET): ...bu, bazı, başka, bir, birkaç, birtakım, birçok, bu, bunca, bütün, diğer, hangi, hep, her, herhangi, hiç, hiçbir, ilk, kaç, kimi, o, tüm, unperiodismo, çok, çoğu, öteki, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 10 lemmas tagged as determiners (DET): bazı, bir, birkaç, birçok, bu, her, hiçbir, o, tüm, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 27 lemmas tagged as determiners (DET): aynı, bazı, başka, bir, biraz, birkaç, birtakım, birçok, bu, bunca, böyle, bütün, diğer, hangi, her, herhangi, hiç, hiçbir, iki, kimi, ne, o, tek, çok, öbür, öyle, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 26 lemmas tagged as determiners (DET): bazı, başka, bir, biraz, birkaç, birtakım, birçok, bu, böyle, bütün, her, herhangi, hiç, hiçbir, iki, ilk, kaç, kimi, o, tüm, çok, çoğu, öbür, öyle, şey, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 13 lemmas tagged as determiners (DET): bazı, bir, birkaç, birtakım, birçok, bu, her, hiçbir, kimi, o, tüm, çok, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 23 lemmas tagged as determiners (DET): %, 50, _, bazı, başka, bir, birkaç, birtakım, birçok, bu, diğer, hangi, her, herhangi, hiçbir, ne, o, tüm, yüz, çok, çoğu, öte, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 11 lemmas tagged as determiners (DET): bazı, bir, birkaç, birçok, bu, her, hiçbir, o, tüm, çok, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 10 lemmas tagged as determiners (DET): bazı, bir, bu, dörtlük, her, hiçbir, o, tüm, çok, şu</li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+      <li>This corpus contains 5 lemmas tagged as determiners (DET): bir, bu, bütün, ne, o</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: bu, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>Out of the above, 15 lemmas occurred sometimes as PRON and sometimes as DET: bazı, başka, bir, birkaç, birçok, bu, hangi, hep, kaç, kimi, o, tüm, çok, çoğu, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: bu, o, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: bir, bu, ne, o, çok, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: bazı, bir, bu, kimi, o, çoğu, öbür, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>Out of the above, 5 lemmas occurred sometimes as PRON and sometimes as DET: bazı, bu, kimi, o, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>Out of the above, 10 lemmas occurred sometimes as PRON and sometimes as DET: _, bazı, bir, bu, diğer, hangi, ne, o, çok, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: bazı, bu, o, şu</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: bazı, bu, o, şu</li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+      <li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: bu, ne, o</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): değil, mi</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): bulun, değil, dur, i, mi, null, ol, y</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): değil, mi</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): bil, bulun, değil, i, mi, ol</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): değil, i, mi, ol</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): değil, mi</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): _, değil, i, mi, ol</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): değil, mi</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): değil, mi</li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+      <li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): değil, dur, i, mi, ol</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: bulun, değil, dur, i, mi, ol</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: bil, bulun, değil, ol</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: değil, ol</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: _, değil, i, ol</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+      <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: ol</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <ul>
+      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -715,7 +791,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -725,10 +801,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -738,7 +814,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -748,7 +824,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -757,7 +833,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -767,7 +843,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -776,7 +852,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -785,9 +861,19 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Conv
+        <ul>
+          <li>AUX: olarak</li>
+          <li>VERB: unutup, alıp, açıp, bakıp, okuyarak, duyurulurken, gitmeden, konuşurken, pembeleşinceye</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -796,10 +882,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -809,7 +895,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -819,10 +905,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -832,10 +918,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -845,7 +931,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -855,12 +941,22 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Fin
+        <ul>
+          <li>AUX: durdu, idi</li>
+          <li>VERB: anlatıyor, açıklanmış, bahsetme, gelecekti, gitti, götürdü, okumamış, seviyor, söylüyorum, temizlememişti</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -870,10 +966,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -883,7 +979,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -893,7 +989,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -902,7 +998,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -911,7 +1007,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -920,7 +1016,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -929,9 +1025,19 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Part
+        <ul>
+          <li>AUX: olduğunu, olmayan</li>
+          <li>VERB: Okuduklarını, yazdığını, Okuduğunuzu, bilmiş, erişilebilir, ettiği, kalacak, okuyacaklarını, okuyan, uyumuş</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -940,7 +1046,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -950,7 +1056,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -959,7 +1065,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -969,7 +1075,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -978,7 +1084,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -987,7 +1093,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -997,7 +1103,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -1006,7 +1112,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -1015,143 +1121,167 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
-      <h3>Nominal Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Nominal Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Nominal Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Nominal Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Nominal Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Nominal Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Nominal Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Nominal Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Nominal Features</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
-        <li><a>Number</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Number</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Number</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Number</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Number</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Number</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Number</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Number</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Number</a></li>
+        <li>Vnoun
+        <ul>
+          <li>AUX: olmayı</li>
+          <li>VERB: okumayı, bırakmayı, gitmek, içmeyi, okumak, okuması, yapmayı, okumaması, okumasını, olmaması</li>
+        </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1161,7 +1291,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1181,7 +1311,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1192,7 +1322,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1212,7 +1342,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1229,7 +1359,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1243,7 +1373,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1260,7 +1390,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1274,7 +1404,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1288,9 +1418,22 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>AUX: muydunuz</li>
+            <li>NOUN: çocuklara, Gençlere, Sonuçlar, Soğanları, arkadaşlarından, aylarında, ağaçları, dinler, gelişimleri, hedefleri</li>
+            <li>PRON: Onlar, birbirlerini, bizimle, buralara</li>
+            <li>VERB: Okuduklarını, bilmiyorlar, ettirmeliyiz, hallederiz, izleyecektik, kavurun, kucakladılar, okuyacaklarını, çıktılar</li>
+            <li>VERB-Part: Okuduklarını, okuyacaklarını</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1304,7 +1447,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1327,7 +1470,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1341,7 +1484,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1364,7 +1507,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1382,7 +1525,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1399,7 +1542,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1419,7 +1562,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1436,7 +1579,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1453,56 +1596,81 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
-        <li><a>Case</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Case</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Case</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Case</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Case</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Case</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Case</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Case</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Case</a></li>
+        <li>Sing
+          <ul>
+            <li>ADJ: mavisi, maviyi</li>
+            <li>AUX: mi, idi, di, mı, olacak, miydi, misin, musun, mü, olduğunu</li>
+            <li>AUX-Fin: durdu, idi</li>
+            <li>AUX-Part: olduğunu</li>
+            <li>AUX-Vnoun: olmayı</li>
+            <li>NOUN: evde, kitap, kitabı, okula, sabah, annesini, eve, çocuk, doktor, ekmek</li>
+            <li>PRON: O, Sen, bana, Benim, Bunun, kimin, neye, Sana, benden, bunu</li>
+            <li>PROPN: Deniz, Ayhan'a, Deniz'in, Ayşe, Mary, Peter, Fransanın, Paris'te, Brown, Hakan'ın</li>
+            <li>VERB: verdi, istiyor, aldı, gitti, okumayı, okuyor, seviyor, uyudu, uyursa, bakıyorsun</li>
+            <li>VERB-Fin: anlatıyor, açıklanmış, bahsetme, gelecekti, gitti, götürdü, okumamış, seviyor, söylüyorum, temizlememişti</li>
+            <li>VERB-Part: yazdığını, Okuduğunuzu, okuyan, vardığımızda, yağdığını</li>
+            <li>VERB-Vnoun: okumayı, bırakmayı, gitmek, içmeyi, okumak, okuması, yapmayı, okumaması, okumasını, uyandırmamız</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -1512,7 +1680,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -1532,7 +1700,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -1542,7 +1710,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -1559,7 +1727,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -1575,7 +1743,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -1585,7 +1753,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -1604,7 +1772,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -1614,7 +1782,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -1624,9 +1792,20 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Abl
+          <ul>
+            <li>NOUN: arkadaşlarından, kardeşinden, odadan, restorandan, yemekten</li>
+            <li>PRON: benden, ondan, senin</li>
+            <li>PROPN: Peter'den</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1636,7 +1815,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1655,7 +1834,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1665,7 +1844,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1683,7 +1862,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1699,7 +1878,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1709,7 +1888,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1725,7 +1904,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1735,7 +1914,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1745,9 +1924,25 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Acc
+          <ul>
+            <li>ADJ: maviyi</li>
+            <li>AUX-Part: olduğunu</li>
+            <li>AUX-Vnoun: olmayı</li>
+            <li>NOUN: kitabı, annesini, arabayı, saçını, Soğanları, Yarını, akşamları, hedefleri, kapıyı, penceresini</li>
+            <li>PRON: birbirlerini, bunu, kini</li>
+            <li>VERB: Okuduklarını, okumayı, bırakmayı, gelebileceğini, içmeyi, yapmayı, yazdığını, Okuduğunuzu, okumasını, okuyacaklarını</li>
+            <li>VERB-Part: Okuduklarını, yazdığını, Okuduğunuzu, okuyacaklarını, yağdığını</li>
+            <li>VERB-Vnoun: okumayı, bırakmayı, içmeyi, yapmayı, okumasını, uyumasını, uyuyacağını</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1757,7 +1952,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1778,7 +1973,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1788,7 +1983,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1806,7 +2001,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1822,7 +2017,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1832,7 +2027,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1849,7 +2044,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1859,7 +2054,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1869,12 +2064,25 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Dat
+          <ul>
+            <li>NOUN: okula, eve, arkadaşına, kocasına, çocuklara, Gençlere, dünyaya, hizmetine, kardeşine</li>
+            <li>PRON: bana, neye, Sana, buralara, kendine, kendisine</li>
+            <li>PROPN: Ayhan'a</li>
+            <li>VERB-Conv: pembeleşinceye</li>
+            <li>VERB-Vnoun: yapmasına, Çözmeye</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Equ
           <ul>
@@ -1889,10 +2097,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Equ
           <ul>
@@ -1902,7 +2110,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Equ
           <ul>
@@ -1914,21 +2122,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1938,7 +2149,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1957,7 +2168,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1967,7 +2178,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1981,7 +2192,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1997,7 +2208,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -2007,7 +2218,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -2023,7 +2234,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -2033,7 +2244,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -2043,9 +2254,20 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>NOUN: Annesinin, Evin, arkadaşının, babasının, halkın, kinin, mutfağın, odasının, çocuğun</li>
+            <li>PRON: Benim, Bunun, kimin, kinin</li>
+            <li>PROPN: Deniz'in, Fransanın, Hakan'ın, Peter'in</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -2055,7 +2277,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -2073,7 +2295,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -2083,7 +2305,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -2096,7 +2318,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -2112,7 +2334,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -2122,7 +2344,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -2135,7 +2357,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -2145,7 +2367,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -2155,9 +2377,19 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Ins
+          <ul>
+            <li>NOUN: arkadaşınla, gözle, iple, kardeşiyle</li>
+            <li>PRON: bizimle</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2167,7 +2399,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2187,7 +2419,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2197,7 +2429,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2212,7 +2444,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2228,7 +2460,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2238,7 +2470,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2254,7 +2486,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2264,7 +2496,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2274,9 +2506,20 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Loc
+          <ul>
+            <li>NOUN: evde, kitaplıkta, evdeki, odada, okulda, zamanında, Markette, Masada, aylarında, ofiste</li>
+            <li>PROPN: Paris'te</li>
+            <li>VERB-Part: vardığımızda</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2286,7 +2529,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2308,7 +2551,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2318,7 +2561,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2338,7 +2581,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2354,7 +2597,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2365,7 +2608,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2382,7 +2625,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2393,7 +2636,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2404,81 +2647,105 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
-        <li><a>Definite</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Definite</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Definite</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Definite</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Definite</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Definite</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Definite</a></li>
+        <li>Nom
+          <ul>
+            <li>ADJ: mavisi</li>
+            <li>ADV: Bugün, saat</li>
+            <li>AUX: değil</li>
+            <li>NOUN: kitap, sabah, çocuk, doktor, ekmek, Öğretmen, alkol, araba, başkenti, bisiklet</li>
+            <li>PRON: O, Sen, Onlar, kendi</li>
+            <li>PROPN: Deniz, Ayşe, Mary, Peter, Brown, Jane, Mayıs, Nisan, Sam, Smith</li>
+            <li>VERB-Part: okuyan</li>
+            <li>VERB-Vnoun: gitmek, okumak, okuması, okumaması, uyandırmamız</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -2487,10 +2754,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -2499,7 +2766,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -2509,10 +2776,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -2521,7 +2788,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -2532,7 +2799,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -2541,7 +2808,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -2550,9 +2817,18 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Def
+          <ul>
+            <li>DET: o, Bu</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2561,10 +2837,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2573,7 +2849,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2583,10 +2859,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2595,7 +2871,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2605,7 +2881,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2614,7 +2890,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2623,77 +2899,92 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
-      <h3>Degree and Polarity</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Degree and Polarity</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Degree and Polarity</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Degree and Polarity</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Degree and Polarity</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Degree and Polarity</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Degree and Polarity</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Degree and Polarity</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Degree and Polarity</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
-        <li><a>Degree</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Degree</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Degree</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Degree</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Degree</a></li>
+        <li>Ind
+          <ul>
+            <li>DET: bir</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2702,10 +2993,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2714,13 +3005,13 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2729,10 +3020,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2741,7 +3032,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2750,9 +3041,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -2761,10 +3055,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -2773,13 +3067,13 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -2788,10 +3082,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -2800,7 +3094,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -2809,56 +3103,64 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Polarity</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Polarity</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Polarity</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Polarity</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Polarity</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Polarity</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Polarity</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Polarity</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Polarity</a></li>
-      </ul>
+    <td width="10%" valign="top">
+
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2867,7 +3169,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2884,7 +3186,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2893,7 +3195,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2913,7 +3215,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2926,7 +3228,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2936,7 +3238,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2954,7 +3256,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2965,7 +3267,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2975,9 +3277,25 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>ADJ: yok</li>
+            <li>AUX: değil, olmadı, olmayan</li>
+            <li>AUX-Part: olmayan</li>
+            <li>NOUN: kitapsız</li>
+            <li>VERB: anlamıyor, bilmiyorlar, görmemiş, yapmadı, bahsetme, bakamaz, gitmeden, okumaması, okumamış, olmaması</li>
+            <li>VERB-Conv: gitmeden</li>
+            <li>VERB-Fin: bahsetme, okumamış, temizlememişti</li>
+            <li>VERB-Vnoun: okumaması, olmaması</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2988,7 +3306,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -3008,7 +3326,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -3018,7 +3336,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -3029,7 +3347,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -3043,7 +3361,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -3055,7 +3373,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -3072,7 +3390,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -3084,7 +3402,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -3096,123 +3414,143 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
-        <li><a>Aspect</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Aspect</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Aspect</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Aspect</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Aspect</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Aspect</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Aspect</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Aspect</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Aspect</a></li>
+        <li>Pos
+          <ul>
+            <li>NOUN: evde, öğrenci</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
       <ul>
         <li>Dur
           <ul>
@@ -3221,7 +3559,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dur
           <ul>
@@ -3231,21 +3569,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Hab
           <ul>
@@ -3254,7 +3595,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Hab
           <ul>
@@ -3269,7 +3610,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Hab
           <ul>
@@ -3278,7 +3619,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Hab
           <ul>
@@ -3289,7 +3630,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Hab
           <ul>
@@ -3300,7 +3641,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Hab
           <ul>
@@ -3309,7 +3650,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Hab
           <ul>
@@ -3323,7 +3664,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Hab
           <ul>
@@ -3332,7 +3673,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Hab
           <ul>
@@ -3341,12 +3682,23 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Hab
+          <ul>
+            <li>VERB: okur, verir, bakamaz, erişilebilir, gelir, hallederiz, kalır, tozlaşır, uyuyamayabilir</li>
+            <li>VERB-Fin: verir</li>
+            <li>VERB-Part: erişilebilir</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -3359,10 +3711,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -3373,24 +3725,35 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>AUX: se, olsaydı</li>
+            <li>VERB: uyursa, duyurulurken, ettirmeliyiz, konuşurken, seçilebilir</li>
+            <li>VERB-Conv: duyurulurken, konuşurken</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -3399,7 +3762,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -3414,7 +3777,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -3425,7 +3788,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -3438,7 +3801,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -3453,7 +3816,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -3466,7 +3829,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -3481,7 +3844,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -3494,7 +3857,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -3506,9 +3869,23 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Perf
+          <ul>
+            <li>AUX: idi, di, olacak, miydi, olmadı, olmalıydı, ydi, durdu, miymiş, miş</li>
+            <li>AUX-Fin: durdu, idi</li>
+            <li>VERB: verdi, uyumuş, aldı, gitti, uyudu, büyüdü, denedi, gelebileceğini, gitmiş, görmemiş</li>
+            <li>VERB-Fin: açıklanmış, gitti, götürdü, okumamış, temizlememişti, temizlemiş, uyumuş, çalmıştı</li>
+            <li>VERB-Part: bilmiş, ettiği, kalacak, uyumuş, yaptığı, çalıştığımız, şaşırmış</li>
+            <li>VERB-Vnoun: olmaması, uyuyacağını</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prog
           <ul>
@@ -3517,7 +3894,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prog
           <ul>
@@ -3531,7 +3908,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prog
           <ul>
@@ -3540,7 +3917,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prog
           <ul>
@@ -3550,7 +3927,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prog
           <ul>
@@ -3559,7 +3936,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prog
           <ul>
@@ -3568,7 +3945,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prog
           <ul>
@@ -3579,7 +3956,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prog
           <ul>
@@ -3588,7 +3965,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prog
           <ul>
@@ -3597,12 +3974,22 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Prog
+          <ul>
+            <li>VERB: istiyor, okuyor, seviyor, anlamıyor, anlıyor, bakıyorsun, bilmiyorlar, yapıyor, zannediyorsun, zannediyorum</li>
+            <li>VERB-Fin: anlatıyor, seviyor, söylüyorum, yapıyordu</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prosp
           <ul>
@@ -3614,10 +4001,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prosp
           <ul>
@@ -3627,7 +4014,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prosp
           <ul>
@@ -3636,10 +4023,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prosp
           <ul>
@@ -3648,24 +4035,34 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Prosp
+          <ul>
+            <li>VERB: gelecekti, izleyecektik</li>
+            <li>VERB-Fin: gelecekti</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rapid
           <ul>
@@ -3674,7 +4071,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rapid
           <ul>
@@ -3685,7 +4082,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rapid
           <ul>
@@ -3694,65 +4091,73 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3761,7 +4166,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3773,7 +4178,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3782,7 +4187,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3793,7 +4198,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3803,7 +4208,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3815,7 +4220,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3825,7 +4230,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3836,7 +4241,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3845,9 +4250,19 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Cnd
+          <ul>
+            <li>AUX: se, olsaydı</li>
+            <li>VERB: uyursa</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CndGen
           <ul>
@@ -3856,10 +4271,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CndGen
           <ul>
@@ -3868,7 +4283,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CndGen
           <ul>
@@ -3878,10 +4293,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CndGen
           <ul>
@@ -3890,7 +4305,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CndGen
           <ul>
@@ -3900,7 +4315,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CndGen
           <ul>
@@ -3909,7 +4324,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CndGen
           <ul>
@@ -3918,15 +4333,18 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CndGenPot
           <ul>
@@ -3935,7 +4353,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CndGenPot
           <ul>
@@ -3944,10 +4362,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CndGenPot
           <ul>
@@ -3956,10 +4374,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CndGenPot
           <ul>
@@ -3968,7 +4386,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CndGenPot
           <ul>
@@ -3977,9 +4395,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CndPot
           <ul>
@@ -3988,13 +4409,13 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CndPot
           <ul>
@@ -4003,7 +4424,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CndPot
           <ul>
@@ -4012,7 +4433,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CndPot
           <ul>
@@ -4021,7 +4442,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CndPot
           <ul>
@@ -4030,7 +4451,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CndPot
           <ul>
@@ -4039,15 +4460,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Des
           <ul>
@@ -4058,7 +4482,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Des
           <ul>
@@ -4067,10 +4491,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Des
           <ul>
@@ -4080,7 +4504,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Des
           <ul>
@@ -4089,10 +4513,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Des
           <ul>
@@ -4101,7 +4525,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Des
           <ul>
@@ -4110,12 +4534,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
       <ul>
         <li>DesPot
           <ul>
@@ -4124,13 +4551,13 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>DesPot
           <ul>
@@ -4139,7 +4566,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>DesPot
           <ul>
@@ -4148,10 +4575,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>DesPot
           <ul>
@@ -4160,12 +4587,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -4176,7 +4606,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -4189,7 +4619,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -4200,7 +4630,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -4211,7 +4641,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -4221,7 +4651,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -4234,7 +4664,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -4246,7 +4676,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -4259,7 +4689,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -4271,12 +4701,23 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>AUX: dir, midir, tir</li>
+            <li>VERB: okur, verir, gelir, hallederiz, kalır, tozlaşır</li>
+            <li>VERB-Fin: verir</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>GenNec
           <ul>
@@ -4285,7 +4726,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>GenNec
           <ul>
@@ -4294,7 +4735,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>GenNec
           <ul>
@@ -4303,7 +4744,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>GenNec
           <ul>
@@ -4312,7 +4753,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>GenNec
           <ul>
@@ -4321,7 +4762,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>GenNec
           <ul>
@@ -4330,7 +4771,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>GenNec
           <ul>
@@ -4339,24 +4780,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>GenNecPot
           <ul>
@@ -4365,21 +4809,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>GenPot
           <ul>
@@ -4388,7 +4835,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>GenPot
           <ul>
@@ -4398,7 +4845,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>GenPot
           <ul>
@@ -4407,7 +4854,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>GenPot
           <ul>
@@ -4417,7 +4864,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>GenPot
           <ul>
@@ -4426,7 +4873,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>GenPot
           <ul>
@@ -4436,7 +4883,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>GenPot
           <ul>
@@ -4447,7 +4894,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>GenPot
           <ul>
@@ -4458,7 +4905,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>GenPot
           <ul>
@@ -4467,18 +4914,28 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>GenPot
+          <ul>
+            <li>VERB: bakamaz, erişilebilir</li>
+            <li>VERB-Part: erişilebilir</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>GenPotPot
           <ul>
@@ -4487,24 +4944,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -4513,7 +4973,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -4527,7 +4987,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -4536,7 +4996,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -4546,7 +5006,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -4555,7 +5015,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -4564,7 +5024,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -4575,7 +5035,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -4584,7 +5044,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -4593,9 +5053,20 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>AUX: ol</li>
+            <li>VERB: Boşver, aç, bahsetme, bitir, kavurun, ver</li>
+            <li>VERB-Fin: bahsetme</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4604,7 +5075,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4619,7 +5090,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4630,7 +5101,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4646,7 +5117,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4661,7 +5132,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4674,7 +5145,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4689,7 +5160,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4702,7 +5173,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4714,9 +5185,24 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>AUX: idi, di, olacak, miydi, olmadı, ydi, durdu, miş, muydunuz, muş</li>
+            <li>AUX-Fin: durdu, idi</li>
+            <li>VERB: verdi, istiyor, uyumuş, aldı, gitti, okuyor, seviyor, uyudu, anlamıyor, anlıyor</li>
+            <li>VERB-Conv: alıp, duyurulurken, konuşurken</li>
+            <li>VERB-Fin: anlatıyor, açıklanmış, gelecekti, gitti, götürdü, okumamış, seviyor, söylüyorum, temizlememişti, temizlemiş</li>
+            <li>VERB-Part: bilmiş, ettiği, uyumuş, yaptığı, çalıştığımız, şaşırmış</li>
+            <li>VERB-Vnoun: olmaması, uyuyacağını</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nec
           <ul>
@@ -4725,7 +5211,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nec
           <ul>
@@ -4735,7 +5221,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nec
           <ul>
@@ -4744,7 +5230,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nec
           <ul>
@@ -4754,7 +5240,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nec
           <ul>
@@ -4763,7 +5249,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nec
           <ul>
@@ -4772,7 +5258,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nec
           <ul>
@@ -4783,7 +5269,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nec
           <ul>
@@ -4792,7 +5278,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nec
           <ul>
@@ -4801,21 +5287,31 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Nec
+          <ul>
+            <li>AUX: olmalıydı</li>
+            <li>VERB: ettirmeliyiz</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>NecPot
           <ul>
@@ -4824,21 +5320,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Opt
           <ul>
@@ -4847,7 +5346,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Opt
           <ul>
@@ -4858,7 +5357,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Opt
           <ul>
@@ -4867,7 +5366,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Opt
           <ul>
@@ -4877,7 +5376,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Opt
           <ul>
@@ -4886,7 +5385,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Opt
           <ul>
@@ -4895,7 +5394,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Opt
           <ul>
@@ -4905,7 +5404,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Opt
           <ul>
@@ -4914,7 +5413,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Opt
           <ul>
@@ -4923,9 +5422,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pot
           <ul>
@@ -4934,7 +5436,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pot
           <ul>
@@ -4948,7 +5450,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pot
           <ul>
@@ -4957,7 +5459,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pot
           <ul>
@@ -4970,7 +5472,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pot
           <ul>
@@ -4982,7 +5484,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pot
           <ul>
@@ -4992,7 +5494,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pot
           <ul>
@@ -5003,7 +5505,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pot
           <ul>
@@ -5012,7 +5514,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pot
           <ul>
@@ -5021,18 +5523,27 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Pot
+          <ul>
+            <li>VERB: gelebileceğini, seçilebilir, uyduramadım, uyuyamayabilir, uyuyamıyor</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>PotPot
           <ul>
@@ -5041,36 +5552,39 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -5079,68 +5593,76 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -5149,7 +5671,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -5162,7 +5684,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -5171,7 +5693,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -5183,7 +5705,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -5193,7 +5715,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -5202,7 +5724,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -5214,7 +5736,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -5223,7 +5745,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -5232,18 +5754,30 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Fut
+          <ul>
+            <li>AUX: olacak</li>
+            <li>VERB: gelebileceğini, kalacak, gerekecek, okutturulacak, okuyacaklarını, uyuyacağını, yapılacak</li>
+            <li>VERB-Part: kalacak, okuyacaklarını</li>
+            <li>VERB-Vnoun: uyuyacağını</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Fut,Past
           <ul>
@@ -5253,24 +5787,34 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Fut,Past
+          <ul>
+            <li>VERB: gelecekti, izleyecektik</li>
+            <li>VERB-Fin: gelecekti</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -5279,7 +5823,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -5293,7 +5837,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -5304,7 +5848,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -5318,7 +5862,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -5331,7 +5875,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -5344,7 +5888,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -5356,7 +5900,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -5369,7 +5913,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -5381,18 +5925,32 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Past
+          <ul>
+            <li>AUX: idi, di, miydi, olduğunu, olmadı, olmalıydı, ydi, durdu, miymiş, miş</li>
+            <li>AUX-Fin: durdu, idi</li>
+            <li>AUX-Part: olduğunu</li>
+            <li>VERB: verdi, Okuduklarını, uyumuş, aldı, gitti, uyudu, büyüdü, denedi, gitmiş, görmemiş</li>
+            <li>VERB-Fin: açıklanmış, gitti, götürdü, okumamış, temizlemiş, uyumuş, yapıyordu</li>
+            <li>VERB-Part: Okuduklarını, yazdığını, Okuduğunuzu, bilmiş, ettiği, uyumuş, vardığımızda, yaptığı, yağdığını, çalıştığımız</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pqp
           <ul>
@@ -5401,7 +5959,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pqp
           <ul>
@@ -5410,10 +5968,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pqp
           <ul>
@@ -5423,15 +5981,25 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Pqp
+          <ul>
+            <li>VERB: etmişmiş, temizlememişti, uyumuştu, çalmıştı</li>
+            <li>VERB-Fin: temizlememişti, çalmıştı</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -5443,7 +6011,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -5459,7 +6027,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -5471,7 +6039,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -5485,7 +6053,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -5500,7 +6068,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -5514,7 +6082,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -5529,7 +6097,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -5544,7 +6112,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -5558,56 +6126,76 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
-        <li><a>Voice</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Voice</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Voice</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Voice</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Voice</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Voice</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Voice</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Voice</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Voice</a></li>
+        <li>Pres
+          <ul>
+            <li>AUX: se, mi, misin, mü, olmayan</li>
+            <li>AUX-Part: olmayan</li>
+            <li>VERB: istiyor, okuyor, seviyor, uyursa, anlamıyor, anlıyor, bakıyorsun, bilmiyorlar, okur, verir</li>
+            <li>VERB-Conv: duyurulurken</li>
+            <li>VERB-Fin: anlatıyor, seviyor, söylüyorum, verir</li>
+            <li>VERB-Part: okuyan</li>
+            <li>VERB-Vnoun: olmaması</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
       <ul>
         <li>Cau
           <ul>
@@ -5616,7 +6204,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cau
           <ul>
@@ -5628,7 +6216,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cau
           <ul>
@@ -5637,7 +6225,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cau
           <ul>
@@ -5648,7 +6236,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cau
           <ul>
@@ -5660,7 +6248,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cau
           <ul>
@@ -5670,7 +6258,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cau
           <ul>
@@ -5682,7 +6270,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cau
           <ul>
@@ -5692,7 +6280,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Cau
           <ul>
@@ -5701,12 +6289,22 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Cau
+          <ul>
+            <li>VERB: bitir, ettirmeliyiz, kaygılandırıyordu, kolaylaştırıyor, uyandırmamız, uyduramadım</li>
+            <li>VERB-Vnoun: uyandırmamız</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CauCau
           <ul>
@@ -5716,10 +6314,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CauCau
           <ul>
@@ -5728,33 +6326,42 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>CauCau
+          <ul>
+            <li>VERB: yıkattırdı</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CauCauPass
           <ul>
@@ -5763,27 +6370,30 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CauPass
           <ul>
@@ -5795,10 +6405,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CauPass
           <ul>
@@ -5809,7 +6419,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CauPass
           <ul>
@@ -5821,7 +6431,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CauPass
           <ul>
@@ -5831,7 +6441,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CauPass
           <ul>
@@ -5842,7 +6452,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CauPass
           <ul>
@@ -5852,7 +6462,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CauPass
           <ul>
@@ -5861,18 +6471,27 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>CauPass
+          <ul>
+            <li>VERB: okutturulacak, uyutuldu</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CauPassRcp
           <ul>
@@ -5881,33 +6500,36 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>CauRcp
           <ul>
@@ -5916,24 +6538,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -5942,7 +6567,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -5955,7 +6580,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -5964,7 +6589,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -5976,7 +6601,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -5988,7 +6613,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -5999,7 +6624,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -6011,7 +6636,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -6022,7 +6647,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -6031,12 +6656,24 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Pass
+          <ul>
+            <li>VERB: açıklanmış, duyurulurken, erişilebilir, iletildi, okunuyor, seçilebilir, sunuldu, yapılacak</li>
+            <li>VERB-Conv: duyurulurken</li>
+            <li>VERB-Fin: açıklanmış</li>
+            <li>VERB-Part: erişilebilir</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>PassPass
           <ul>
@@ -6046,10 +6683,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>PassPass
           <ul>
@@ -6058,33 +6695,36 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>PassRcp
           <ul>
@@ -6093,27 +6733,30 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>PassRfl
           <ul>
@@ -6122,10 +6765,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>PassRfl
           <ul>
@@ -6134,24 +6777,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -6160,7 +6806,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -6172,7 +6818,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -6181,7 +6827,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -6191,10 +6837,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -6205,10 +6851,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -6217,7 +6863,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -6226,9 +6872,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rfl
           <ul>
@@ -6237,7 +6886,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rfl
           <ul>
@@ -6249,7 +6898,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rfl
           <ul>
@@ -6258,7 +6907,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rfl
           <ul>
@@ -6267,10 +6916,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rfl
           <ul>
@@ -6279,10 +6928,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rfl
           <ul>
@@ -6291,7 +6940,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rfl
           <ul>
@@ -6300,49 +6949,57 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Evident</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Evident</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Evident</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Evident</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Evident</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Evident</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Evident</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Evident</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Evident</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
       <ul>
         <li>Fh
           <ul>
@@ -6354,10 +7011,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Fh
           <ul>
@@ -6370,27 +7027,42 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Fh
+          <ul>
+            <li>AUX: idi, di, olacak, miydi, olmadı, olmalıydı, ydi, durdu, muydunuz, oldu</li>
+            <li>AUX-Fin: durdu, idi</li>
+            <li>VERB: verdi, istiyor, aldı, okuyor, seviyor, uyudu, uyursa, anlamıyor, anlıyor, bakıyorsun</li>
+            <li>VERB-Conv: duyurulurken</li>
+            <li>VERB-Fin: anlatıyor, gelecekti, seviyor, söylüyorum, verir, yapıyordu</li>
+            <li>VERB-Part: erişilebilir</li>
+            <li>VERB-Vnoun: uyuyacağını</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nfh
           <ul>
@@ -6403,10 +7075,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nfh
           <ul>
@@ -6419,7 +7091,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nfh
           <ul>
@@ -6432,10 +7104,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Nfh
           <ul>
@@ -6446,91 +7118,111 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
-      <h3>Pronouns, Determiners, Quantifiers</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Pronouns, Determiners, Quantifiers</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Pronouns, Determiners, Quantifiers</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Pronouns, Determiners, Quantifiers</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Pronouns, Determiners, Quantifiers</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Pronouns, Determiners, Quantifiers</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Pronouns, Determiners, Quantifiers</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Pronouns, Determiners, Quantifiers</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Pronouns, Determiners, Quantifiers</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
-        <li><a>PronType</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>PronType</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>PronType</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>PronType</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>PronType</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>PronType</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>PronType</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>PronType</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>PronType</a></li>
+        <li>Nfh
+          <ul>
+            <li>AUX: se, miymiş, miş, muş</li>
+            <li>VERB: uyumuş, gitmiş, görmemiş, açıklanmış, bilmiş, etmişmiş, gelmiş, görmüş, okumamış, temizlememişti</li>
+            <li>VERB-Fin: açıklanmış, okumamış, temizlememişti, temizlemiş, uyumuş, çalmıştı</li>
+            <li>VERB-Part: bilmiş, uyumuş, şaşırmış</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -6539,10 +7231,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -6551,7 +7243,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -6560,10 +7252,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -6572,10 +7264,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -6584,7 +7276,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -6593,9 +7285,18 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Art
+          <ul>
+            <li>DET: bir</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -6604,7 +7305,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -6614,7 +7315,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -6623,7 +7324,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -6633,7 +7334,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -6642,7 +7343,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -6651,10 +7352,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -6663,7 +7364,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -6672,9 +7373,19 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Dem
+          <ul>
+            <li>DET: bu, o</li>
+            <li>PRON: Bunun, O, bunu, kini, ondan</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -6683,7 +7394,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -6692,7 +7403,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -6702,7 +7413,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -6711,7 +7422,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -6720,7 +7431,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -6730,7 +7441,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -6739,7 +7450,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -6749,7 +7460,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -6759,9 +7470,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -6772,7 +7486,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -6782,7 +7496,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -6793,7 +7507,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -6809,10 +7523,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -6823,7 +7537,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -6834,7 +7548,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -6845,7 +7559,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -6856,12 +7570,23 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Int
+          <ul>
+            <li>AUX: mi, mı, miydi, musun, midir, misin, miymiş, mu, muydunuz, mü</li>
+            <li>DET: ne</li>
+            <li>PRON: kimin, nerede, neye</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -6870,36 +7595,39 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -6908,7 +7636,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -6917,10 +7645,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -6929,10 +7657,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -6941,7 +7669,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -6950,9 +7678,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -6961,7 +7692,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -6970,7 +7701,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -6979,7 +7710,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -6988,7 +7719,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -6997,7 +7728,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -7006,10 +7737,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -7018,7 +7749,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -7027,12 +7758,21 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Prs
+          <ul>
+            <li>PRON: O, Sen, bana, Benim, Onlar, Sana, benden, bizimle, senin</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -7041,7 +7781,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -7050,7 +7790,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -7059,10 +7799,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -7071,7 +7811,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -7080,7 +7820,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -7089,7 +7829,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -7098,56 +7838,70 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
-        <li><a>NumType</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>NumType</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>NumType</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>NumType</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>NumType</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>NumType</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>NumType</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>NumType</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>NumType</a></li>
+        <li>Rcp
+          <ul>
+            <li>PRON: birbirlerini</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -7157,7 +7911,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -7166,7 +7920,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -7176,7 +7930,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -7185,7 +7939,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -7194,7 +7948,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -7204,10 +7958,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -7217,7 +7971,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -7227,12 +7981,21 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Card
+          <ul>
+            <li>NUM: üç, beş, bir, iki</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dist
           <ul>
@@ -7241,7 +8004,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dist
           <ul>
@@ -7250,7 +8013,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dist
           <ul>
@@ -7259,7 +8022,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dist
           <ul>
@@ -7268,7 +8031,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dist
           <ul>
@@ -7277,10 +8040,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Dist
           <ul>
@@ -7289,12 +8052,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -7303,7 +8069,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -7313,7 +8079,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -7322,7 +8088,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -7331,7 +8097,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -7340,7 +8106,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -7350,7 +8116,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -7359,7 +8125,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -7369,7 +8135,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -7378,86 +8144,97 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -7466,7 +8243,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -7475,7 +8252,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -7484,7 +8261,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -7493,7 +8270,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -7502,7 +8279,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -7511,7 +8288,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -7520,7 +8297,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -7529,56 +8306,70 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
-        <li><a>Person</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Person</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Person</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Person</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Person</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Person</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Person</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Person</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Person</a></li>
+        <li>Yes
+          <ul>
+            <li>PRON: kendi, kendine, kendisine</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -7588,7 +8379,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -7604,7 +8395,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -7614,7 +8405,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -7626,7 +8417,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -7637,7 +8428,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -7651,7 +8442,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -7665,7 +8456,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -7678,7 +8469,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -7691,9 +8482,20 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>1
+          <ul>
+            <li>PRON: bana, Benim, benden, bizimle</li>
+            <li>VERB: zannediyorum, ettirmeliyiz, hallederiz, izleyecektik, söylüyorum, uyduramadım, çekiyorum</li>
+            <li>VERB-Fin: söylüyorum</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -7702,7 +8504,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -7717,7 +8519,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -7727,7 +8529,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -7739,7 +8541,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -7750,7 +8552,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -7762,7 +8564,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -7774,7 +8576,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -7783,7 +8585,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -7792,9 +8594,21 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>2
+          <ul>
+            <li>AUX: misin, musun, muydunuz, ol</li>
+            <li>PRON: Sen, Sana, senin</li>
+            <li>VERB: bakıyorsun, zannediyorsun, Boşver, aç, bahsetme, bitir, geliyorsun, kavurun, ver</li>
+            <li>VERB-Fin: bahsetme</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -7807,7 +8621,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -7830,7 +8644,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -7843,7 +8657,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -7859,7 +8673,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -7877,7 +8691,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -7893,7 +8707,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -7910,7 +8724,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -7926,7 +8740,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -7940,56 +8754,72 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
-        <li><a>Polite</a></li>
+        <li>3
+          <ul>
+            <li>AUX: mi, idi, di, mı, olacak, miydi, mü, olmadı, olmalıydı, se</li>
+            <li>AUX-Fin: durdu, idi</li>
+            <li>PRON: O, Bunun, Onlar, bunu, kendi, kendine, kinden, ondan</li>
+            <li>VERB: verdi, istiyor, aldı, gitti, okuyor, seviyor, uyudu, uyursa, bilmiyorlar, büyüdü</li>
+            <li>VERB-Fin: anlatıyor, açıklanmış, gelecekti, gitti, götürdü, okumamış, seviyor, temizlememişti, temizlemiş, yapıyordu</li>
+          </ul>
+        </li>
       </ul>
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Polite</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-      <ul>
-        <li><a>Polite</a></li>
-      </ul>
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Polite</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Polite</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Polite</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
       <ul>
         <li>Form
           <ul>
@@ -7998,10 +8828,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Form
           <ul>
@@ -8011,18 +8841,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Infm
           <ul>
@@ -8031,13 +8864,13 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Infm
           <ul>
@@ -8046,97 +8879,108 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Number[psor]</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -8146,7 +8990,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -8165,7 +9009,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -8174,7 +9018,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -8189,7 +9033,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -8204,7 +9048,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -8216,7 +9060,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -8231,7 +9075,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -8244,7 +9088,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -8254,9 +9098,21 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>NOUN: gelişimleri</li>
+            <li>PRON: birbirlerini</li>
+            <li>VERB-Part: Okuduğunuzu, vardığımızda, çalıştığımız</li>
+            <li>VERB-Vnoun: uyandırmamız</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -8268,7 +9124,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -8290,7 +9146,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -8300,7 +9156,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -8319,7 +9175,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -8335,7 +9191,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -8351,7 +9207,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -8369,7 +9225,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -8385,7 +9241,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -8397,41 +9253,59 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
-      <h3>Other Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Other Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Other Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Other Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Other Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Other Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Other Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Other Features</h3>
-    </td>
-    <td width="11%" valign="top">
-      <h3>Other Features</h3>
+    <td width="10%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>ADJ: mavisi</li>
+            <li>AUX-Part: olduğunu</li>
+            <li>NOUN: annesini, Annesinin, arkadaşına, başkenti, kardeşi, kocasına, saçını, Anneannesi, Eşim, Hırkam</li>
+            <li>PRON: kendisine, kinden, kinin</li>
+            <li>VERB: Okuduklarını, gelebileceğini, okuması, yazdığını, ettiği, okumaması, okumasını, okuyacaklarını, olmaması, uyumasını</li>
+            <li>VERB-Part: Okuduklarını, yazdığını, ettiği, okuyacaklarını, yaptığı, yağdığını</li>
+            <li>VERB-Vnoun: okuması, okumaması, okumasını, olmaması, uyumasını, uyuyacağını, yapmasına</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -8445,13 +9319,13 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -8464,24 +9338,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Echo</a>
           <ul>
@@ -8494,13 +9371,13 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Echo</a>
           <ul>
@@ -8513,39 +9390,89 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADV
+              <ul>
+                <li>PRON: Ne</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>DET: bir</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -8558,15 +9485,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
@@ -8592,7 +9522,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
@@ -8647,7 +9577,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
@@ -8672,7 +9602,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
@@ -8717,7 +9647,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
@@ -8760,7 +9690,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
@@ -8798,7 +9728,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
@@ -8836,7 +9766,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
@@ -8871,7 +9801,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
@@ -8899,12 +9829,45 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Person[psor]</a>
+          <ul>
+            <li>1
+              <ul>
+                <li>NOUN: Eşim, Hırkam, arabam, babam</li>
+                <li>VERB-Part: vardığımızda, çalıştığımız</li>
+                <li>VERB-Vnoun: uyandırmamız</li>
+              </ul>
+            </li>
+            <li>2
+              <ul>
+                <li>NOUN: arkadaşınla, Çocuğun</li>
+                <li>PRON: kinden</li>
+                <li>VERB: gelebileceğini, Okuduğunuzu</li>
+                <li>VERB-Part: Okuduğunuzu</li>
+              </ul>
+            </li>
+            <li>3
+              <ul>
+                <li>ADJ: mavisi</li>
+                <li>AUX-Part: olduğunu</li>
+                <li>NOUN: annesini, Annesinin, arkadaşına, başkenti, kardeşi, kocasına, saçını, zamanında, Anneannesi, akşamları</li>
+                <li>PRON: birbirlerini, kendisine, kinin</li>
+                <li>VERB-Part: Okuduklarını, yazdığını, ettiği, okuyacaklarını, yaptığı, yağdığını</li>
+                <li>VERB-Vnoun: okuması, okumaması, okumasını, olmaması, uyumasını, uyuyacağını, yapmasına</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Typo</a>
           <ul>
@@ -8918,10 +9881,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Typo</a>
           <ul>
@@ -8934,16 +9897,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Typo</a>
           <ul>
@@ -8960,7 +9923,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>Typo</a>
           <ul>
@@ -8977,9 +9940,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -8988,7 +9954,7 @@ udver: '2'
       <li>This corpus does not contain copulas.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -8997,7 +9963,7 @@ udver: '2'
       <li>This corpus uses 5 lemmas as copulas (<a>cop</a>). Examples: y, i, ol, değil, null.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -9006,7 +9972,7 @@ udver: '2'
       <li>This corpus does not contain copulas.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -9015,7 +9981,7 @@ udver: '2'
       <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: i, ol.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -9024,7 +9990,7 @@ udver: '2'
       <li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: i, değil, ol.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -9033,7 +9999,7 @@ udver: '2'
       <li>This corpus does not contain copulas.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -9042,7 +10008,7 @@ udver: '2'
       <li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: ol, i, _.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -9051,65 +10017,79 @@ udver: '2'
       <li>This corpus does not contain copulas.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
       <li>This corpus does not contain copulas.</li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
+      <ul>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: i.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: mi, değil.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: ol, değil, dur, i, y, mi, bulun.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: mi, değil.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: ol, değil, bulun, bil.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: i, değil, mi, ol.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: mi, değil.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: değil, mi, ol, i.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: değil, mi.</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
       <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: değil, mi.</li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+      <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: ol, değil, dur, i.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -9129,7 +10109,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -9185,7 +10165,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -9210,7 +10190,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -9243,7 +10223,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -9298,7 +10278,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -9353,7 +10333,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -9382,7 +10362,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -9430,7 +10410,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -9459,9 +10439,29 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+      
+      Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+      <ul>
+        <li><a>nsubj</a>
+          <ul>
+            <li>VERB--NOUN-Nom (11)</li>
+            <li>VERB--PRON-Nom (13)</li>
+            <li>VERB-Conv--NOUN-Nom (1)</li>
+            <li>VERB-Fin--NOUN-Nom (6)</li>
+            <li>VERB-Part--NOUN-Gen (1)</li>
+            <li>VERB-Part--NOUN-Nom (1)</li>
+            <li>VERB-Part--PRON-Gen (2)</li>
+            <li>VERB-Vnoun--NOUN-Gen (2)</li>
+            <li>VERB-Vnoun--NOUN-Nom (2)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -9476,7 +10476,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -9550,7 +10550,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -9571,7 +10571,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -9597,7 +10597,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -9656,7 +10656,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -9703,7 +10703,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -9734,7 +10734,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -9780,7 +10780,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -9803,9 +10803,27 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>obj</a>
+          <ul>
+            <li>VERB--NOUN-Acc (22)</li>
+            <li>VERB--NOUN-Nom (13)</li>
+            <li>VERB--PRON-Acc (1)</li>
+            <li>VERB-Conv--NOUN-Acc (2)</li>
+            <li>VERB-Conv--NOUN-Nom (2)</li>
+            <li>VERB-Fin--NOUN-Acc (4)</li>
+            <li>VERB-Fin--NOUN-Nom (1)</li>
+            <li>VERB-Fin--PRON-Acc (2)</li>
+            <li>VERB-Vnoun--NOUN-Acc (1)</li>
+            <li>VERB-Vnoun--NOUN-Nom (9)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -9814,7 +10832,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -9838,7 +10856,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -9847,7 +10865,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -9855,7 +10873,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -9880,7 +10898,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -9900,7 +10918,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -9913,7 +10931,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -9923,7 +10941,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -9933,75 +10959,81 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
-
-    </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
 
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" valign="top">
+
+    </td>
+    <td width="10%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
         <li>This corpus contains 74 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: hisset kendimi, at kendini, ada kendini, hisset kendinizi, sev kendini, çek kendini, özgü kendine, ait kendinize, al kendimi, aldat kendisini, alıkoy kendini, anlat kendimi, anlat kendinizi, aş kendimizi, bak kendinize, benze kendine, bul kendimi, bul kendisini, bırak kendini, dinle kendimizi, dinle kendisini, doğrula kendini, edebiyatçı kendimi, ez kendini, feda kendisini, geliş kendini, gönder kendine, gönder kendisine, gör kendini, göster kendini, haberdar kendinizi, hayal kendilerini, hisset kendilerini, hiçle kendini, ifade kendini, ifade kendisini, ilan kendini, ilân kendisini, inan kendilerini, ispat kendilerini, ispatla kendini, izin kendisinden, içeri kendilerini, kabullen kendimi, kanıtladım kendimi, kap kendini, kazan kendini, konuş kendimle, koyver kendilerini, kurban kendisini</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -10011,51 +11043,54 @@ udver: '2'
           </ul>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
         <li>This corpus contains 10 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: et kendimden, çağır kendisini, anlat kendimi, anlat kendinizi, aradık kendilerini, eleştir kendinizi, gör kendilerini, gör kendisini, sür kendini, sür kendisini</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
         <li>This corpus contains 53 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: as kendini, at kendini, yer kendimi, alıştırma kendini, anla kendilerini, anlat kendisini, at kendinizi, bağla kendisine, benze kendini, beğen kendimi, bul kendimizi, bul kendine, bırak kendimi, getir kendisine, getir kendisini, gör kendilerini, gör kendimi, görüş kendileriyle, güven kendilerine, hisset kendimi, hisset kendimizi, hisset kendini, hisset kendisini, ilan kendini, inan kendini, iptal kendilerini, izle kendilerini, kan kendimi, karış kendini, koru kendilerini, kurtar kendimi, kurtar kendinizi, kutla kendisini, mücadele kendisiyle, nimet kendini, ol kendileri, rahatla kendisini, sal kendini, sat kendi, savun kendini, teslim kendinizi, toparla kendisini, tut kendimi, tutsaklaş kendisini, uğurla kendisini, ver kendini, ye kendine, yokla kendimizi, çek kendimizi, çek kendini</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
         <li>This corpus contains 129 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: at kendini, et kendini, bul kendini, gör kendisini, sat kendini, topla kendini, gör kendini, göster kendini, san kendini, ver kendimi, at kendimi, ayır kendini, bul kendimi, büyüle kendisini, bırak kendini, bırak kendisini, et kendilerini, gör kendimizi, hisset kendini, koyuver kendimi, kurtar kendisini, tut kendimi, tut kendini, ver kendilerini, ver kendisini, öl kendini, adama kendini, al kendisini, alış kendimi, anla kendisine, anla kendisini, anlayabil kendisini, at kendinizi, at kendisini, ata kendilerini, ata kendinizi, avut kendimi, avut kendisini, açıkla kendilerini, aşağıla kendisini, bak kendime, benzet kendimi, besle kendisini, bitir kendimi, boğ kendini, bul kendinizi, bul kendisini, bırak kendilerini, bırak kendimi, ceza kendisini</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
         <li>This corpus contains 7 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: yönet kendi, bul kendisini, devir kendisini, emin kendinden, ilan kendisini, kur kendisini, önemse kendini</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
         <li>This corpus contains 47 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: hisset kendimi, besle kendini, et kendilerini, et kendini, et kendisini, gör kendilerini, savun kendini, savun kendisini, ada kendilerini, ada kendimi, adlandır kendini, al kendilerini, an kendini, at kendini, ayarla kendisini, açıkla kendisini, aş kendilerini, bil kendi̇ni̇, biçim kendini, borçlu kendilerini, bul kendilerini, bul kendini, bul kendisini, diril kendini, dölle kendisini, ekle kendini, et kendisine, gör kendini, göster kendisini, hazırla kendilerini, hazırla kendini, hisset kendinizi, kanıtla kendimi, karart kendisi, katıl kendilerine, koru kendilerini, oluş kendilerini, sür kendini, tanımla kendisini, toparla kendini, ulaş kendisine, ver kendilerini, vur kendilerini, yapı kendisini, yarala kendini, çek kendilerini, şımar kendilerini</li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
         <li>This corpus contains 8 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: gör kendi̇si̇ni̇, görüş kendi̇si̇yle, kal kendi̇si̇nden, ayır kendi̇leri̇ne, et kendi̇si̇ne, hatırla kendi̇si̇ni̇, hisset kendi̇mi̇zi̇, sev kendi̇si̇ni̇</li>
       </ul>
     </td>
+    <td width="10%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -10063,7 +11098,7 @@ udver: '2'
       <li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>cop</a>, <a>appos</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -10071,7 +11106,7 @@ udver: '2'
       <li>The following 3 relation types are not used in this corpus at all: <a>expl</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -10079,7 +11114,7 @@ udver: '2'
       <li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>cop</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -10087,7 +11122,7 @@ udver: '2'
       <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -10095,7 +11130,7 @@ udver: '2'
       <li>The following 4 relation types are not used in this corpus at all: <a>expl</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -10103,7 +11138,7 @@ udver: '2'
       <li>The following 3 relation types are not used in this corpus at all: <a>expl</a>, <a>cop</a>, <a>goeswith</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -10111,7 +11146,7 @@ udver: '2'
       <li>The following 5 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -10119,12 +11154,20 @@ udver: '2'
       <li>The following 3 relation types are not used in this corpus at all: <a>expl</a>, <a>cop</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="11%" valign="top">
+    <td width="10%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
       <li>This corpus does not use relation subtypes.</li>
       <li>The following 4 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>cop</a>, <a>reparandum</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <h3>Relations Overview</h3>
+      
+      <ul>
+      <li>This corpus uses 9 relation subtypes: <a>advmod:emph</a>, <a>aux:q</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
+      <li>The following 9 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>appos</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
   </tr>

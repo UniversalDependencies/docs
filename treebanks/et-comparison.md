@@ -123,7 +123,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 61 lemmas tagged as pronouns (PRON): You, enda, i, iga, iga_üks, ise, ise_enese, ise_sugune, it, ja_veel_üks, kedagi-midagi, keegi, kes, kes_se, kolmas, kumb, kumbki, kõige, kõigest, kõik, ma_i, mina, mingi, mingi_sugune, mis, miski, mitte_keegi, mitte_miski, mitu, muu, my, mõlema, mõni, need, nii_palju, nii_sugune, oma, palju, sama, see, see_sama, selline, sest, sina, smth, tegelt, teine, teine_teise, teist_sugune, tema, temake, this, too, vot, what, whatever, üht-teist, üks, üks_teise, üksi, ükski</li>
+      <li>This corpus contains 62 lemmas tagged as pronouns (PRON): You, enda, i, iga, iga_üks, ise, ise_enese, ise_sugune, it, ja_veel_üks, kedagi-midagi, keegi, kes, kes_se, kolmas, kumb, kumbki, kõige, kõigest, kõik, ma_i, mida, mina, mingi, mingi_sugune, mis, miski, mitte_keegi, mitte_miski, mitu, muu, my, mõlema, mõni, need, nii_palju, nii_sugune, oma, palju, sama, see, see_sama, selline, sest, sina, smth, tegelt, teine, teine_teise, teist_sugune, tema, temake, this, too, vot, what, whatever, üht-teist, üks, üks_teise, üksi, ükski</li>
       </ul>
     </td>
   </tr>
@@ -214,8 +214,8 @@ udver: '2'
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: on, oli, pole, võib, ole, olid, oleks, peaks, saab, olen</li>
-          <li>VERB: on, tuleb, ütles, sai, tuli, saab, jääb, läks, ütleb, jäi</li>
+          <li>AUX: on, oli, pole, võib, ole, olid, oleks, peaks, olen, saab</li>
+          <li>VERB: tuleb, on, ütles, sai, tuli, saab, jääb, läks, ütleb, jäi</li>
         </ul>
         </li>
       </ul>
@@ -441,9 +441,9 @@ udver: '2'
             <li>NOUN: sissetulekute, inimesed, sõnul, inimeste, aastatel, inimesi, andmete, mehed, aastate, ettevõtete</li>
             <li>NOUN-Part: hõivatute, hõivatud, hõivatuist, uuritavad, hõivatutest, uuritavatel, osalenute, vastanuist, kinnipeetavate, olemasolevaid</li>
             <li>NUM: pooled, tuhandeid, miljardeid, miljoneid, kümneid, tuhanded, sadu, sajad, kümnete, miljonite</li>
-            <li>PRON: nad, nende, meie, kes, me, mis, neid, need, meil, mida</li>
+            <li>PRON: nad, nende, meie, kes, me, mis, neid, need, meil, neist</li>
             <li>PROPN: Nõukogude, Mõõdukad, Põhjamaade, Ühendriikide, Ametiühingute, Arstide, Baltimaade, Bekajd, Jagomägede, Mõõdukate</li>
-            <li>VERB-Fin: saavad, said, on, hakkavad, jäävad, tulevad, annavad, teevad, lähevad, jäid</li>
+            <li>VERB-Fin: saavad, said, hakkavad, jäävad, on, tulevad, annavad, teevad, lähevad, jäid</li>
           </ul>
         </li>
       </ul>
@@ -454,7 +454,7 @@ udver: '2'
           <ul>
             <li>ADJ: head, vanad, erinevaid, suured, häid, uusi, erinevate, suurte, uued, mustad</li>
             <li>ADJ-Part: erinevaid, erinevate, erinevad, erinevatel, erinevatest, huvitavad, olevate, huvitavaid, langevad, arenevad</li>
-            <li>AUX-Fin: on, olid, oleme, võivad, peavad, olete, peaksid, võiksid, oleksid, olime</li>
+            <li>AUX-Fin: on, olid, oleme, võivad, peavad, olete, peaksid, võiksid, olime, saavad</li>
             <li>DET: need, kõik, neid, nende, mingid, paljud, mingeid, mõned, sellised, selliste</li>
             <li>NOUN: inimesed, inimesi, asju, asjad, inimeste, autosid, teemad, naised, mehed, tulemused</li>
             <li>NOUN-Part: nakatunuid, surnuid, nakatunutest, nakatunute, Tänud, haigestunuid, haigestunute, haigestunutest, hukkunute, lõpetanud</li>
@@ -475,7 +475,7 @@ udver: '2'
           <ul>
             <li>ADJ: suur, hea, võimalik, suurem, uue, suure, raske, esimene, oluline, viimase</li>
             <li>ADJ-Part: huvitav, erinev, vastava, vastav, erineva, erinevat, käesoleva, olev, elav, meeldiv</li>
-            <li>AUX-Fin: on, oli, võib, saab, olen, peab, olin, pidi, võis, ongi</li>
+            <li>AUX-Fin: on, oli, võib, olen, saab, peab, olin, pidi, võis, ongi</li>
             <li>DET: see, selle, üks, iga, seda, sel, ühe, samal, sama, mitu</li>
             <li>NOUN: aasta, aastal, aastat, raha, osa, krooni, korda, ajal, mõju, töö</li>
             <li>NOUN-Part: uuritavat, Eeltoodu, nähtu, surnu, allakirjutanu, juhtunu, toimunu, toimunut, uuritav, uuritava</li>
@@ -687,7 +687,7 @@ udver: '2'
             <li>ADJ-Part: eelnevale, hoolitsevale, liikuvale, mõtlevale, mööduvatele, rünnatavatele, tegevatele, toimuvale, vajavale</li>
             <li>DET: sellele, mingile, igale, nendele, sellisele, kõigile, mingitele, muule, sellistele, ühele</li>
             <li>NOUN: tööle, inimestele, lehele, teele, kohale, inimesele, peole, asjale, hobusele, koolile</li>
-            <li>NUM: 1-le, 2-3le, 3-le, 40'le, 700'le, kahele</li>
+            <li>NUM: 1-le, 2-3le, 3-le, 40'le, 700'le, kahele, ühele</li>
             <li>PRON: mulle, endale, talle, neile, sellele, sulle, meile, kõigile, kellele, omale</li>
             <li>PROPN: eestile, ja-le, Maale, Suvatüübile, eelmine-q-le, saaremaale, EKV-le, Ivanovile, Leelotajale, Marsile</li>
           </ul>
@@ -821,7 +821,7 @@ udver: '2'
             <li>NOUN-Part: hõivatute, osalenute, kinnipeetavate, surnu, uuritava, Eeltoodu, hukkunute, juhtunu, käinute, manipuleeritavuse</li>
             <li>NUM: kahe, ühe, miljoni, kolme, viie, poole, kümne, nelja, paari, miljardi</li>
             <li>PRON: oma, tema, selle, nende, mille, meie, minu, ta, kelle, enda</li>
-            <li>PROPN: eesti, Euroopa, Tartu, Tallinna, Vene, Maa, Liidu, Soome, Venemaa, Rootsi</li>
+            <li>PROPN: eesti, Tartu, Euroopa, Tallinna, Vene, Maa, Liidu, Soome, Venemaa, Rootsi</li>
             <li>PROPN-Part: Iseseisva</li>
           </ul>
         </li>
@@ -940,7 +940,7 @@ udver: '2'
           <ul>
             <li>ADJ: hea, suur, võimalik, huvitav, õige, parem, uus, esimene, lihtne, tore</li>
             <li>ADJ-Part: huvitav, erinevad, huvitavad, leviv, mõeldav, vastav, erinev, hirmutav, langevad, nakkav</li>
-            <li>DET: see, mingi, kõik, need, üks, selline, iga, teine, mis, sama</li>
+            <li>DET: see, mingi, kõik, need, üks, selline, iga, mis, teine, sama</li>
             <li>NOUN: asi, inimesed, inimene, teema, mees, päev, auto, aeg, aasta, osa</li>
             <li>NOUN-Part: Kirjapandu, Tänud, läbipõdenu, lõpetanud, põdenud, surnu</li>
             <li>NUM: kaks, paar, üks, kolm, pool, viis, paarkümmend, pooled, kaheksa, kuus</li>
@@ -1009,7 +1009,7 @@ udver: '2'
             <li>DET: selleni</li>
             <li>NOUN: lõpuni, alguseni, kraadini, ajurakkudeni, eesmärgini, hetkeni, hommikuni, karantiini, keeluni, klaasini</li>
             <li>NUM: 160-ni, 5ni</li>
-            <li>PRON: selleni, meieni, milleni, minuni, sinuni</li>
+            <li>PRON: selleni, sinuni, meieni, milleni, minuni</li>
           </ul>
         </li>
       </ul>
@@ -1020,13 +1020,13 @@ udver: '2'
       <ul>
         <li>Tra
           <ul>
-            <li>ADJ: selgeks, oluliseks, kindlaks, heaks, paremaks, esimeseks, puhtaks, suuremaks, tänaseks, nüüdseks</li>
+            <li>ADJ: selgeks, heaks, oluliseks, kindlaks, paremaks, esimeseks, puhtaks, suuremaks, tänaseks, nüüdseks</li>
             <li>ADJ-Part: sobivaks, iseseisvaks, juhtivaks, kättesaadavaks, määravaks, vähendavaks, soovitavaks, õnnestunuks, algavaks, enesestmõistetavaks</li>
             <li>DET: üheks, selleks, igaks, mõneks, mitmeks, teiseks, esimeseks, samaks, selliseks, Nendeks</li>
             <li>NOUN: lisaks, põhjuseks, aluseks, aastaks, eesmärgiks, ajaks, lõpuks, kasuks, õnneks, ülesandeks</li>
             <li>NOUN-Part: viibinuks, väljavalituteks</li>
             <li>NUM: kaheks, kolmeks, üheks, neljaks, viieks, paariks, kuueks, pooleks, 10ks, 51-ks</li>
-            <li>PRON: selleks, omaks, milleks, samaks, nendeks, selliseks, iseendaks, kõigeks, kelleks, sellisteks</li>
+            <li>PRON: selleks, omaks, milleks, samaks, nendeks, selliseks, iseendaks, kõigeks, kelleks, paljuks</li>
             <li>PROPN: Arpanetiks, Atriumiks, Cabernet'-veiniks, Chappaquaks, Entente'iks, Franckiks, Francoks, Hitleriks, Indiaks, Iraagiks</li>
             <li>SYM: A-ks</li>
             <li>VERB-Sup: leidmaks, kirjeldamaks, vältimaks, näitamaks, rõhutamaks, selgitamaks, Andmaks, Jõudmaks, Kavandamaks, Saavutamaks</li>
@@ -1163,7 +1163,6 @@ udver: '2'
             <li>ADJ: suur, hea, võimalik, uue, eri, raske, suure, oluline, viimase, valmis</li>
             <li>ADJ-Part: erinevate, seotud, teatud, tehtud, antud, möödunud, tuntud, erinevad, erinevaid, ülejäänud</li>
             <li>ADJ-Sup: polüküllastumata, küllastumata, mehitamata, teadmata, tulemata, alustamata, lõpetamata, saamata, etteteatamata, juhtimata</li>
-            <li>ADV: well</li>
           </ul>
         </li>
       </ul>
@@ -1304,7 +1303,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>AUX-Fin: olgu, ära, ole, ärge, olgem, ärgem, ärgu, Olge, saa, Ärme</li>
+            <li>AUX-Fin: olgu, ära, ole, ärge, olgem, Olge, ärgem, ärgu, saa, Ärme</li>
             <li>VERB-Fin: vaata, vt, tule, mine, kuule, näe, pane, võta, tee, vt.</li>
           </ul>
         </li>
@@ -1327,8 +1326,8 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>AUX-Fin: on, oli, pole, võib, ole, olid, saab, olen, peab, saa</li>
-            <li>VERB-Fin: on, tuleb, ütles, sai, tuli, saab, jääb, läks, ütleb, jäi</li>
+            <li>AUX-Fin: on, oli, pole, võib, ole, olid, olen, saab, peab, saa</li>
+            <li>VERB-Fin: tuleb, on, ütles, sai, tuli, saab, jääb, läks, ütleb, jäi</li>
           </ul>
         </li>
       </ul>
@@ -1388,7 +1387,7 @@ udver: '2'
             <li>AUX-Part: olnud, pidanud, saanud, võinud, tohtinud, paistnud, saand, saanudki, tohtinudki</li>
             <li>NOUN-Part: hõivatute, hõivatud, hõivatuist, Eeltoodu, hõivatutest, nähtu, surnu, allakirjutanu, osalenute, vastanuist</li>
             <li>PROPN-Part: Ühinenud, Avatud, Relvastatud, Hukkunud</li>
-            <li>VERB-Fin: ütles, sai, tuli, läks, jäi, tegi, hakkas, oli, võttis, andis</li>
+            <li>VERB-Fin: ütles, sai, tuli, läks, jäi, tegi, hakkas, võttis, andis, oli</li>
             <li>VERB-Part: saanud, jäänud, jõudnud, seotud, teinud, muutunud, tulnud, tehtud, näinud, kasvanud</li>
           </ul>
         </li>
@@ -1416,10 +1415,10 @@ udver: '2'
           <ul>
             <li>ADJ-Part: erinevate, erinevad, erinevaid, huvitav, erinev, vastava, vastav, erineva, erinevat, erinevates</li>
             <li>ADJ-Sup: tasumata</li>
-            <li>AUX-Fin: on, pole, võib, ole, oleks, peaks, saab, olen, peab, saa</li>
+            <li>AUX-Fin: on, pole, võib, ole, oleks, peaks, olen, saab, peab, saa</li>
             <li>NOUN-Part: uuritavat, uuritavad, uuritavatel, kinnipeetavate, olemasolevaid, uuritav, uuritava, uuritaval, kinnipeetavat, sõbrad-tuttavad</li>
             <li>PROPN-Part: Iseseisva, Sõltuvas</li>
-            <li>VERB-Fin: on, tuleb, saab, jääb, ütleb, läheb, teeb, hakkab, pole, annab</li>
+            <li>VERB-Fin: tuleb, on, saab, jääb, ütleb, läheb, teeb, hakkab, annab, pole</li>
             <li>VERB-Part: looking</li>
           </ul>
         </li>
@@ -1457,12 +1456,12 @@ udver: '2'
           <ul>
             <li>ADJ-Part: erinevate, möödunud, erinevad, erinevaid, ülejäänud, jäänud, toimunud, saanud, ilmunud, erinev</li>
             <li>ADJ-Sup: polüküllastumata, küllastumata, mehitamata, saamata, teadmata, tulemata, alustamata, lõpetamata, etteteatamata, juhtimata</li>
-            <li>AUX-Fin: on, oli, pole, võib, ole, olid, oleks, peaks, saab, olen</li>
+            <li>AUX-Fin: on, oli, pole, võib, ole, olid, oleks, peaks, olen, saab</li>
             <li>AUX-Part: olnud, pidanud, saanud, võinud, tohtinud, paistnud, saand, saanudki, tohtinudki</li>
             <li>AUX-Sup: olema, saama, Olemata, olemas, olemast</li>
             <li>NOUN-Part: uuritavat, surnu, uuritavad, uuritavatel, allakirjutanu, osalenute, vastanuist, juhtunu, kinnipeetavate, olemasolevaid</li>
             <li>PROPN-Part: Ühinenud, Hukkunud, Iseseisva, Sõltuvas</li>
-            <li>VERB-Fin: on, tuleb, ütles, sai, tuli, saab, jääb, läks, ütleb, jäi</li>
+            <li>VERB-Fin: tuleb, on, ütles, sai, tuli, saab, jääb, läks, ütleb, jäi</li>
             <li>VERB-Part: saanud, jäänud, jõudnud, teinud, muutunud, tulnud, näinud, kasvanud, läinud, leidnud</li>
             <li>VERB-Sup: olemas, minema, hakkama, tegema, saama, võtma, maksma, käima, vaatama, tulema</li>
           </ul>
@@ -1494,7 +1493,7 @@ udver: '2'
         <li>Pass
           <ul>
             <li>ADJ-Part: seotud, teatud, tehtud, antud, tuntud, nimetatud, loodud, saadud, suunatud, avatud</li>
-            <li>AUX-Fin: ollakse, võidakse, oldi, olda, võidi, oldud, ollaksegi</li>
+            <li>AUX-Fin: ollakse, võidakse, oldi, olda, oldud, võidi, ollaksegi</li>
             <li>NOUN-Part: hõivatute, hõivatud, hõivatuist, Eeltoodu, hõivatutest, nähtu, ravituil, eeltoodust, etnofutu, loodu</li>
             <li>PROPN-Part: Avatud, Relvastatud</li>
             <li>VERB-Fin: kasutatakse, peetakse, tehti, tehakse, hakati, leiti, nimetatakse, võeti, antakse, peeti</li>
@@ -1610,7 +1609,7 @@ udver: '2'
           <ul>
             <li>ADJ: mingisugust, millistes, mingisuguseid, mõnda, mõndagi, mõned, mõni, mõnigi</li>
             <li>DET: mingi, üks, mingit, ühe, mingid, mõne, paljud, mõni, mingeid, mõned</li>
-            <li>PRON: midagi, keegi, muud, kellegi, kedagi, millegi, mõned, paljud, miski, üks</li>
+            <li>PRON: midagi, keegi, muud, kellegi, kedagi, millegi, mõned, paljud, miski, kellelgi</li>
           </ul>
         </li>
       </ul>
@@ -1761,7 +1760,7 @@ udver: '2'
         <li>Tot
           <ul>
             <li>DET: kogu, kõik, iga, igal, terve, igas, kõiki, igast, kõigi, igale</li>
-            <li>PRON: kõik, kõike, kõigile, kõigil, igal, mõlemad, kõige, kõigi, mõlemal, k6ik</li>
+            <li>PRON: kõik, kõike, kõigile, kõigil, mõlemad, igal, kõige, kõigi, mõlemal, k6ik</li>
           </ul>
         </li>
       </ul>
@@ -1986,7 +1985,7 @@ udver: '2'
       <ul>
         <li>2
           <ul>
-            <li>AUX-Fin: oled, võid, ära, olete, pead, ole, saad, saate, ärge, oledki</li>
+            <li>AUX-Fin: oled, võid, ära, olete, pead, ole, saad, saate, olid, ärge</li>
             <li>PRON: sa, sinu, sul, te, sina, sind, su, sulle, teie, teile</li>
             <li>VERB-Fin: saad, tead, teed, vaata, mine, tahad, mõtle, arvad, hakkad, minge</li>
           </ul>
@@ -2002,7 +2001,7 @@ udver: '2'
             <li>AUX-Fin: on, oli, võib, olid, saab, peab, võivad, ongi, pidi, võis</li>
             <li>DET: nende, neist</li>
             <li>PRON: ta, tema, nad, nende, talle, tal, teda, neid, neil, neile</li>
-            <li>VERB-Fin: on, tuleb, ütles, sai, tuli, saab, jääb, läks, ütleb, jäi</li>
+            <li>VERB-Fin: tuleb, on, ütles, sai, tuli, saab, jääb, läks, ütleb, jäi</li>
           </ul>
         </li>
       </ul>
@@ -2161,7 +2160,7 @@ udver: '2'
               <ul>
                 <li>AUX: ole, saa, olnud, ei, tohi, pea, tohiks, saanud, oleks, peaks</li>
                 <li>AUX-Fin: ole, saa, olnud, tohi, pea, tohiks, saanud, oleks, peaks, või</li>
-                <li>VERB-Fin: tea, saa, taha, ole, suuda, oska, saanud, pruugi, suutnud, tule</li>
+                <li>VERB-Fin: tea, saa, taha, suuda, ole, oska, saanud, pruugi, suutnud, tule</li>
               </ul>
             </li>
           </ul>
@@ -2187,12 +2186,91 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADJ
+              <ul>
+                <li>ADJ: viimne</li>
+              </ul>
+            </li>
+            <li>ADP
+              <ul>
+                <li>NOUN: põhja</li>
+                <li>NUM: kahel</li>
+                <li>PRON: teisel, teiselt, ühel</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADV: rohkem, enam, kas, vähem, ükskõik, nii, peaaegu, á, ilma, kuidas</li>
+                <li>INTJ: oi</li>
+                <li>NUM: ühelt</li>
+                <li>PRON: ühelt, igal, teiselt, omalt, mitmel, mõnel, igale, igalt, mõlemalt, teisele</li>
+                <li>VERB-Fin: teab, vaata</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>ADV: nii, küll</li>
+              </ul>
+            </li>
+            <li>PRON
+              <ul>
+                <li>PRON: mis, Kellega, mida</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADV: nii, enne, nõnda, ainult, eriti, ilma, isegi, just, samas, samuti</li>
+                <li>PRON: samal, Selleks</li>
+                <li>VERB-Fin: olgugi</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADV
+              <ul>
+                <li>ADV: enam, nii, kas, Eks, kuidas, millal, rohkem, samahästi, tahes, vähem</li>
+                <li>NUM: üks</li>
+                <li>PRON: igal, igale, igalt, mis, teisele</li>
+                <li>VERB-Fin: tea, teab</li>
+              </ul>
+            </li>
+            <li>INTJ
+              <ul>
+                <li>INTJ: No</li>
+              </ul>
+            </li>
+            <li>PRON
+              <ul>
+                <li>PRON: mis, mida, kes</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADV: nii, enne, isegi, ennem, samas, ainult, eriti, ilma, niimodi, olgugi</li>
+                <li>PRON: mis</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
         <li><a>Foreign</a>
           <ul>
             <li>Yes
               <ul>
                 <li>ADJ: funky, Digital, Versatile, ancien, grand, low-tech, new, old, second-hand, silent</li>
-                <li>ADV: la, á</li>
                 <li>CCONJ: versus</li>
                 <li>NOUN: Bullshit, Content, Disk, Help, Quality, Scramble, Self, System, acid, chef</li>
                 <li>PROPN: Darkmans, Meltzinger, siperian</li>
@@ -2401,9 +2479,11 @@ udver: '2'
                 <li>ADJ: 125, 15-69, 16,4, 20-, 200, 3,5, 30, 50, 500, 82</li>
                 <li>ADP: eest</li>
                 <li>ADV: 18,1, näteks, valimis</li>
+                <li>AUX-Fin: oli</li>
                 <li>DET: niiguse, sama, to</li>
                 <li>NOUN: Los, eestirahvas, inimestel, keskkofnnaasjadest, külalsed, nishi, pealvaatajat, progrmmeerija, protsessor-, reziim</li>
                 <li>NUM: 10, 100, 50, 25, 20, 30, 200, 21, 400, 60</li>
+                <li>PRON: ta</li>
                 <li>PROPN: Los, Muinuskaitsenõukogu, Sipe-, Stas-i</li>
                 <li>VERB-Inf: kripeldada, soovitada</li>
                 <li>VERB-Part: suutud</li>
@@ -2489,31 +2569,31 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB-Conv--NOUN-Nom (1)</li>
-            <li>VERB-Fin--NOUN (60)</li>
+            <li>VERB-Fin--NOUN (59)</li>
             <li>VERB-Fin--NOUN-All (1)</li>
             <li>VERB-Fin--NOUN-Gen (16)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(ringis) (1)</li>
             <li>VERB-Fin--NOUN-Ine (2)</li>
-            <li>VERB-Fin--NOUN-Nom (11346)</li>
-            <li>VERB-Fin--NOUN-Par (1086)</li>
-            <li>VERB-Fin--PRON-Nom (5800)</li>
+            <li>VERB-Fin--NOUN-Nom (11302)</li>
+            <li>VERB-Fin--NOUN-Par (1081)</li>
+            <li>VERB-Fin--PRON-Nom (5771)</li>
             <li>VERB-Fin--PRON-Par (139)</li>
             <li>VERB-Inf--NOUN (4)</li>
             <li>VERB-Inf--NOUN-Gen (3)</li>
-            <li>VERB-Inf--NOUN-Nom (517)</li>
-            <li>VERB-Inf--NOUN-Par (46)</li>
-            <li>VERB-Inf--PRON-Nom (270)</li>
+            <li>VERB-Inf--NOUN-Nom (516)</li>
+            <li>VERB-Inf--NOUN-Par (47)</li>
+            <li>VERB-Inf--PRON-Nom (269)</li>
             <li>VERB-Inf--PRON-Par (15)</li>
             <li>VERB-Part--NOUN (3)</li>
             <li>VERB-Part--NOUN-Gen (5)</li>
             <li>VERB-Part--NOUN-Ine (1)</li>
-            <li>VERB-Part--NOUN-Nom (1401)</li>
+            <li>VERB-Part--NOUN-Nom (1400)</li>
             <li>VERB-Part--NOUN-Par (120)</li>
             <li>VERB-Part--PRON-Nom (702)</li>
             <li>VERB-Part--PRON-Par (24)</li>
             <li>VERB-Sup--NOUN (2)</li>
             <li>VERB-Sup--NOUN-Gen (1)</li>
-            <li>VERB-Sup--NOUN-Nom (315)</li>
+            <li>VERB-Sup--NOUN-Nom (314)</li>
             <li>VERB-Sup--NOUN-Par (19)</li>
             <li>VERB-Sup--PRON-Nom (176)</li>
             <li>VERB-Sup--PRON-Par (5)</li>
@@ -2529,10 +2609,10 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB-Fin--NOUN (21)</li>
-            <li>VERB-Fin--NOUN-Nom (1504)</li>
+            <li>VERB-Fin--NOUN-Nom (1503)</li>
             <li>VERB-Fin--NOUN-Par (249)</li>
             <li>VERB-Fin--PRON (1)</li>
-            <li>VERB-Fin--PRON-Nom (1713)</li>
+            <li>VERB-Fin--PRON-Nom (1714)</li>
             <li>VERB-Fin--PRON-Par (52)</li>
             <li>VERB-Inf--NOUN (3)</li>
             <li>VERB-Inf--NOUN-Gen (2)</li>
@@ -2569,31 +2649,30 @@ udver: '2'
             <li>VERB-Conv--PRON-Par (33)</li>
             <li>VERB-Fin--NOUN (40)</li>
             <li>VERB-Fin--NOUN-Gen (2193)</li>
-            <li>VERB-Fin--NOUN-Nom (1281)</li>
-            <li>VERB-Fin--NOUN-Par (6054)</li>
+            <li>VERB-Fin--NOUN-Nom (1279)</li>
+            <li>VERB-Fin--NOUN-Par (6052)</li>
             <li>VERB-Fin--NOUN-Par-ADP(kuni) (1)</li>
             <li>VERB-Fin--NOUN-Par-ADP(of) (1)</li>
             <li>VERB-Fin--PRON (1)</li>
             <li>VERB-Fin--PRON-Gen (189)</li>
-            <li>VERB-Fin--PRON-Nom (189)</li>
-            <li>VERB-Fin--PRON-Par (1473)</li>
+            <li>VERB-Fin--PRON-Nom (188)</li>
+            <li>VERB-Fin--PRON-Par (1472)</li>
             <li>VERB-Inf--NOUN (5)</li>
-            <li>VERB-Inf--NOUN-Ela (1)</li>
-            <li>VERB-Inf--NOUN-Gen (303)</li>
-            <li>VERB-Inf--NOUN-Nom (639)</li>
-            <li>VERB-Inf--NOUN-Par (2590)</li>
+            <li>VERB-Inf--NOUN-Gen (305)</li>
+            <li>VERB-Inf--NOUN-Nom (642)</li>
+            <li>VERB-Inf--NOUN-Par (2595)</li>
             <li>VERB-Inf--NOUN-Par-ADP(kuni) (1)</li>
             <li>VERB-Inf--PRON-Gen (25)</li>
-            <li>VERB-Inf--PRON-Nom (67)</li>
-            <li>VERB-Inf--PRON-Par (664)</li>
+            <li>VERB-Inf--PRON-Nom (68)</li>
+            <li>VERB-Inf--PRON-Par (666)</li>
             <li>VERB-Part--NOUN (7)</li>
-            <li>VERB-Part--NOUN-Gen (314)</li>
+            <li>VERB-Part--NOUN-Gen (313)</li>
             <li>VERB-Part--NOUN-Gen-ADP(üle) (1)</li>
-            <li>VERB-Part--NOUN-Nom (730)</li>
-            <li>VERB-Part--NOUN-Par (920)</li>
+            <li>VERB-Part--NOUN-Nom (731)</li>
+            <li>VERB-Part--NOUN-Par (919)</li>
             <li>VERB-Part--PRON-Gen (28)</li>
             <li>VERB-Part--PRON-Nom (169)</li>
-            <li>VERB-Part--PRON-Par (211)</li>
+            <li>VERB-Part--PRON-Par (209)</li>
             <li>VERB-Sup--NOUN (2)</li>
             <li>VERB-Sup--NOUN-Gen (116)</li>
             <li>VERB-Sup--NOUN-Nom (30)</li>
@@ -2617,7 +2696,7 @@ udver: '2'
             <li>VERB-Fin--NOUN (17)</li>
             <li>VERB-Fin--NOUN-Gen (356)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(üle) (1)</li>
-            <li>VERB-Fin--NOUN-Nom (210)</li>
+            <li>VERB-Fin--NOUN-Nom (211)</li>
             <li>VERB-Fin--NOUN-Par (1021)</li>
             <li>VERB-Fin--NOUN-Par-ADP(mööda) (1)</li>
             <li>VERB-Fin--PRON-Acc (1)</li>
@@ -2638,7 +2717,7 @@ udver: '2'
             <li>VERB-Part--NOUN-Nom (121)</li>
             <li>VERB-Part--NOUN-Par (137)</li>
             <li>VERB-Part--PRON-Gen (7)</li>
-            <li>VERB-Part--PRON-Nom (51)</li>
+            <li>VERB-Part--PRON-Nom (50)</li>
             <li>VERB-Part--PRON-Par (55)</li>
             <li>VERB-Sup--NOUN-Gen (26)</li>
             <li>VERB-Sup--NOUN-Nom (8)</li>

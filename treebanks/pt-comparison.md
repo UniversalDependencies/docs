@@ -64,7 +64,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 4042 sentences, 77577 tokens and 80997 syntactic words.</li>
+      <li>This corpus contains 4042 sentences, 77576 tokens and 80996 syntactic words.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -101,7 +101,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 18294 tokens (24%) that are not followed by a space.</li>
+      <li>This corpus contains 14253 tokens (18%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -121,7 +121,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 31009 tokens (20%) that are not followed by a space.</li>
+      <li>This corpus contains 22591 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
@@ -396,7 +396,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 33 lemmas tagged as determiners (DET): a, algum, aquele, as, cada, d, de, demais, esse, este, mais, menos, mesmo, meu, muito, nenhum, nosso, o, outro, pouco, próprio, qual, qualquer, quanto, que, seu, tal, tanto, teu, todo, um, vário, vários</li>
+      <li>This corpus contains 31 lemmas tagged as determiners (DET): a, algum, aquele, as, cada, demais, esse, este, mais, menos, mesmo, meu, muito, nenhum, nosso, o, outro, pouco, próprio, qual, qualquer, quanto, que, seu, tal, tanto, teu, todo, um, vário, vários</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -411,7 +411,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 38 lemmas tagged as determiners (DET): Do, algum, ambos, aquele, bastante, cada, certo, cujo, dado, demais, determinado, diverso, esse, essse, este, mais, muito, nenhum, nosso, o, outro, pouco, próprio, qual, qualquer, quanto, que, seu, sua, tais, tal, tanto, todo, um, vário, vários, µ, </li>
+      <li>This corpus contains 37 lemmas tagged as determiners (DET): Do, algum, ambos, aquele, bastante, cada, certo, cujo, dado, demais, determinado, diverso, esse, essse, este, mais, muito, nenhum, nosso, o, outro, pouco, próprio, qual, qualquer, quanto, que, seu, sua, tais, tal, tanto, todo, um, vário, vários, µ</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -1571,7 +1571,7 @@ udver: '2'
       <ul>
         <li>Acc
           <ul>
-            <li>PRON: me, a, mim, la, nos, se, te</li>
+            <li>PRON: me, a, mim, la, nos, te</li>
           </ul>
         </li>
       </ul>
@@ -1847,7 +1847,7 @@ udver: '2'
       <ul>
         <li>Def
           <ul>
-            <li>DET: a, o, os, as, esta, , Do, µ, á</li>
+            <li>DET: a, o, os, as, esta, Do, µ, á</li>
             <li>PRON: o</li>
           </ul>
         </li>
@@ -3147,7 +3147,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: a, o, os, as, um, uma, , Do, uns, µ</li>
+            <li>DET: a, o, os, as, um, uma, Do, uns, µ, á</li>
           </ul>
         </li>
       </ul>
@@ -3300,6 +3300,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
+            <li>ADV: QUE, Que</li>
             <li>DET: que, mais, alguma, outros, outras, todo, cada, muita, algumas, outro</li>
             <li>PRON: quem, tudo, nada, alguém, algo, todos, ninguém, outras, outra, outro</li>
           </ul>
@@ -3552,7 +3553,7 @@ udver: '2'
         <li>Rel
           <ul>
             <li>DET: que</li>
-            <li>PRON: que, q, quem, quê, qq, qual, quer</li>
+            <li>PRON: que, q, quem, q., quê, qq, qual, quer</li>
           </ul>
         </li>
       </ul>
@@ -3741,7 +3742,7 @@ udver: '2'
       <ul>
         <li>Card
           <ul>
-            <li>NUM: três, mil, um, dois, uma, 20, quatro, 30, 2016, 2018</li>
+            <li>NUM: três, mil, um, dois, 20, uma, quatro, 30, 2016, 2018</li>
           </ul>
         </li>
       </ul>
@@ -4745,7 +4746,48 @@ udver: '2'
 
     </td>
     <td width="14%" valign="top">
-
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADP: em, por, de</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADP: de, por, a, Até, d</li>
+                <li>ADV: mais, Assim, cerca, enquanto, +, até, menos, pouco, QUE, Que</li>
+                <li>DET: um, cada</li>
+                <li>SYM: +</li>
+                <li>X: by</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>ADP: em</li>
+                <li>ADV: não</li>
+                <li>CCONJ: ou</li>
+                <li>PRON: isto</li>
+              </ul>
+            </li>
+            <li>PRON
+              <ul>
+                <li>PRON: o, Isso, a, mo, tudo</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADP: de, d, para, a, com, desde, em</li>
+                <li>ADV: assim, Quanto, Qto, Sempre, apesar, depois, mesmo, só</li>
+                <li>CCONJ: que</li>
+                <li>DET: Cada</li>
+                <li>SCONJ: quanto, Como</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="14%" valign="top">
       <ul>
@@ -4817,7 +4859,53 @@ udver: '2'
 
     </td>
     <td width="14%" valign="top">
-
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADP: em, por, de, para</li>
+                <li>ADV: quanto, Frente</li>
+                <li>DET: tal</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADP: a, por, de, em</li>
+                <li>ADV: mais, cerca, ainda, menos, Enquanto, onde</li>
+                <li>DET: cada, um, o</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>ADP: em, de</li>
+                <li>ADV: tanto, bem, só, assim</li>
+                <li>CCONJ: ou</li>
+                <li>PRON: Isto</li>
+              </ul>
+            </li>
+            <li>NOUN
+              <ul>
+                <li>NOUN: volta</li>
+              </ul>
+            </li>
+            <li>PRON
+              <ul>
+                <li>PRON: o, os, tudo, a, as, isso, aquilo</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADP: de, a, para, com, desde, até, sem, em, por</li>
+                <li>ADV: assim, ainda, depois, já, mesmo, antes, sempre, logo, tanto</li>
+                <li>DET: uma, Cada, tal</li>
+                <li>SCONJ: como, quanto, que</li>
+                <li>VERB-Part: dado, visto</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -4844,7 +4932,7 @@ udver: '2'
             <li>Yes
               <ul>
                 <li>PROPN: Webcast, Ceteris</li>
-                <li>X: Webcast, #Whoknows, loss, shooting, star, stop, top, by, ha, picks</li>
+                <li>X: Webcast, #Whoknows, loss, shooting, star, stop, top, ha, picks, by</li>
               </ul>
             </li>
           </ul>
@@ -5178,13 +5266,13 @@ udver: '2'
             <li>VERB-Fin--NOUN (754)</li>
             <li>VERB-Fin--NOUN-ADP(para) (1)</li>
             <li>VERB-Fin--PRON (225)</li>
-            <li>VERB-Fin--PRON-Nom (139)</li>
+            <li>VERB-Fin--PRON-Nom (138)</li>
             <li>VERB-Ger--NOUN (52)</li>
             <li>VERB-Ger--PRON (17)</li>
             <li>VERB-Ger--PRON-Nom (11)</li>
             <li>VERB-Inf--NOUN (48)</li>
             <li>VERB-Inf--PRON (23)</li>
-            <li>VERB-Inf--PRON-Nom (18)</li>
+            <li>VERB-Inf--PRON-Nom (16)</li>
             <li>VERB-Part--NOUN (15)</li>
             <li>VERB-Part--PRON (4)</li>
             <li>VERB-Part--PRON-Nom (3)</li>
@@ -5424,7 +5512,7 @@ udver: '2'
             <li>VERB-Ger--PRON-Nom (2)</li>
             <li>VERB-Inf--NOUN (341)</li>
             <li>VERB-Inf--NOUN-ADP(às) (2)</li>
-            <li>VERB-Inf--PRON (20)</li>
+            <li>VERB-Inf--PRON (19)</li>
             <li>VERB-Inf--PRON-Acc (4)</li>
             <li>VERB-Inf--PRON-Nom (4)</li>
             <li>VERB-Part--NOUN (18)</li>
@@ -5523,13 +5611,13 @@ udver: '2'
             <li>VERB-Fin--NOUN (2906)</li>
             <li>VERB-Fin--NOUN-ADP(sobre) (1)</li>
             <li>VERB-Fin--PRON (43)</li>
-            <li>VERB-Fin--PRON-Acc (47)</li>
+            <li>VERB-Fin--PRON-Acc (48)</li>
             <li>VERB-Ger--NOUN (928)</li>
             <li>VERB-Ger--PRON (5)</li>
             <li>VERB-Ger--PRON-Acc (13)</li>
             <li>VERB-Inf--NOUN (1499)</li>
             <li>VERB-Inf--PRON (11)</li>
-            <li>VERB-Inf--PRON-Acc (39)</li>
+            <li>VERB-Inf--PRON-Acc (38)</li>
             <li>VERB-Part--NOUN (119)</li>
             <li>VERB-Part--NOUN-ADP(a) (9)</li>
             <li>VERB-Part--PRON (4)</li>
@@ -5815,7 +5903,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>ccomp:speech</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+      <li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>ccomp:speech</a>, <a>expl:impers</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
       <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a></li>
       </ul>
     </td>
@@ -5841,7 +5929,7 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
-      <li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
+      <li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="14%" valign="top">

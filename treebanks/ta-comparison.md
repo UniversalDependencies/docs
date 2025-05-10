@@ -1643,12 +1643,12 @@ udver: '2'
           <ul>
             <li>VERB-Fin--NOUN-Acc (1)</li>
             <li>VERB-Fin--NOUN-Dat (3)</li>
-            <li>VERB-Fin--NOUN-Nom (100)</li>
+            <li>VERB-Fin--NOUN-Nom (99)</li>
             <li>VERB-Fin--PRON-Nom (40)</li>
             <li>VERB-Ger--NOUN-Nom (29)</li>
             <li>VERB-Ger--PRON-Nom (5)</li>
             <li>VERB-Inf--NOUN-Dat (1)</li>
-            <li>VERB-Inf--NOUN-Nom (81)</li>
+            <li>VERB-Inf--NOUN-Nom (82)</li>
             <li>VERB-Inf--PRON-Acc (1)</li>
             <li>VERB-Inf--PRON-Nom (17)</li>
             <li>VERB-Part--NOUN-Nom (106)</li>
@@ -1692,7 +1692,7 @@ udver: '2'
           <ul>
             <li>VERB-Fin--NOUN-Acc (37)</li>
             <li>VERB-Fin--NOUN-Loc (1)</li>
-            <li>VERB-Fin--NOUN-Nom (66)</li>
+            <li>VERB-Fin--NOUN-Nom (67)</li>
             <li>VERB-Ger--NOUN-Acc (16)</li>
             <li>VERB-Ger--NOUN-Nom (33)</li>
             <li>VERB-Ger--PRON-Acc (5)</li>
@@ -1785,7 +1785,7 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>compound:prt</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
-      <li>The following 12 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>The following 13 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
   </tr>

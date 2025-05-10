@@ -5254,7 +5254,7 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 14 relation subtypes: <a>advcl:tcl</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:pmod</a>, <a>csubj:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:poss</a>, <a>expl:pv</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:pmod</a></li>
-      <li>The following 2 relation types are not used in this corpus at all: <a>dislocated</a>, <a>reparandum</a></li>
+      <li>The following 3 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="20%" valign="top">

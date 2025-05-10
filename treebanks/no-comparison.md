@@ -114,7 +114,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 49 lemmas tagged as pronouns (PRON): alle, alt, begge, de, den, denne, der, dere, deres, det, dette, din, disse, du, en, enhver, ham, han, hans, hennes, hun, hva, hvem, hverandre, hverandres, hvilket, hvis, ikkenoe, ingen, ingenting, intet, jag, jeg, man, meg, min, noe, noen, samtlige, seg, sin, sitt, slikt, sånt, vi, vår, whatever, you, æ</li>
+      <li>This corpus contains 48 lemmas tagged as pronouns (PRON): alle, alt, begge, de, den, denne, der, dere, deres, dette, din, disse, du, en, enhver, ham, han, hans, hennes, hun, hva, hvem, hverandre, hverandres, hvilket, hvis, ikkenoe, ingen, ingenting, intet, jag, jeg, man, meg, min, noe, noen, samtlige, seg, sin, sitt, slikt, sånt, vi, vår, whatever, you, æ</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -126,19 +126,19 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 47 lemmas tagged as determiners (DET): 135a, CD, I, II, III, IV, VM, XIII, XV, XVI, all, alle, annen, begge, de, den, denne, det, dette, disse, egen, en, endel, enhver, fire-fem, forrige, hin, hver, hvilken, hvis, ingen, min, neste, nineish, noe, noen, samme, samtlige, selv, selve, selveste, sjøl, slik, sådan, sånn, tenish, the</li>
+      <li>This corpus contains 46 lemmas tagged as determiners (DET): 135a, CD, I, II, III, IV, VM, XIII, XV, XVI, all, alle, annen, begge, de, den, denne, dette, disse, egen, en, endel, enhver, fire-fem, forrige, hin, hver, hvilken, hvis, ingen, min, neste, nineish, noe, noen, samme, samtlige, selv, selve, selveste, sjøl, slik, sådan, sånn, tenish, the</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 44 lemmas tagged as determiners (DET): II, III, a, all, alle, annan, annen, begge, de, dei, den, denne, desse, det, dette, dinnja, eige, eigen, ein, einkvan, einkvar, eit, en, et, forrige, four, førre, hass, hin, ingen, kva, kvar, mangt, neste, noen, nokon, same, samme, sjølv, sjølve, slik, sånn, the, ½</li>
+      <li>This corpus contains 43 lemmas tagged as determiners (DET): II, III, a, all, alle, annan, annen, begge, de, dei, den, denne, desse, det, dette, dinnja, eige, eigen, ein, einkvan, einkvar, eit, en, et, forrige, four, førre, hass, hin, ingen, kva, kvar, mangt, neste, noen, nokon, same, samme, sjølv, sjølve, slik, sånn, the</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>Out of the above, 16 lemmas occurred sometimes as PRON and sometimes as DET: alle, begge, de, den, denne, det, dette, disse, en, enhver, hvis, ingen, min, noe, noen, samtlige</li>
+      <li>Out of the above, 15 lemmas occurred sometimes as PRON and sometimes as DET: alle, begge, de, den, denne, dette, disse, en, enhver, hvis, ingen, min, noe, noen, samtlige</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -295,6 +295,31 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
+        <li>Com
+          <ul>
+            <li>ADJ: stor, ny, god, norsk, liten, politisk, klar, full, sterk, mye</li>
+            <li>ADJ-Part: økt, bekymret, overrasket, knyttet, lovforankret, redusert, ønsket, imponert, samlet, interessert</li>
+            <li>NOUN: Sportssjef</li>
+            <li>VERB-Fin,Part: overrasket</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Com
+          <ul>
+            <li>ADJ: god, stor, ny, klar, norsk, glad, offentleg, rasjonell, ung, lang</li>
+            <li>ADJ-Part: auka, brukt, bygd, basert, blitt, engasjert, etablert, fylt, innsett, sakna</li>
+            <li>DET: alle</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
         <li>Fem
           <ul>
             <li>DET: den, ei, noen, all, denne, hver, egen, annen, enhver, hvilken</li>
@@ -327,11 +352,7 @@ udver: '2'
       <ul>
         <li>Fem,Masc
           <ul>
-            <li>ADJ: stor, ny, god, norsk, liten, politisk, klar, full, sterk, mye</li>
-            <li>ADJ-Part: økt, bekymret, overrasket, knyttet, lovforankret, redusert, ønsket, imponert, samlet, interessert</li>
-            <li>NOUN: Sportssjef</li>
             <li>PRON: den, noen, denne, ingen, enhver, der</li>
-            <li>VERB-Fin,Part: overrasket</li>
           </ul>
         </li>
       </ul>
@@ -340,8 +361,8 @@ udver: '2'
       <ul>
         <li>Fem,Masc
           <ul>
-            <li>ADJ: stor, ny, god, norsk, viktig, mykje, klar, offentleg, fast, lang</li>
-            <li>ADJ-Part: auka, sett, kalla, samla, stengd, fødd, knytt, overraska, basert, brukt</li>
+            <li>ADJ: ny, stor, god, norsk, mykje, viktig, fast, offentleg, klar, lang</li>
+            <li>ADJ-Part: auka, sett, stengd, kalla, samla, fødd, knytt, overraska, dømd, gradert</li>
             <li>DET: alle</li>
             <li>PRON: den, denne, dén</li>
             <li>VERB-Fin,Part: stoppa</li>
@@ -1021,7 +1042,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: en, et, ei, ens, at, er, ett</li>
+            <li>DET: en, et, den, de, det, ei, ens, at, dét, er</li>
           </ul>
         </li>
       </ul>
@@ -1030,7 +1051,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: ein, eit, ei, eitt, en, eir</li>
+            <li>DET: ein, den, eit, dei, ei, det, eitt, en, eir, dét</li>
           </ul>
         </li>
       </ul>
@@ -1061,7 +1082,7 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>DET: den, de, det, andre, denne, annet, disse, samme, dette, annen</li>
+            <li>DET: andre, denne, annet, disse, samme, dette, annen, slike, neste, slik</li>
           </ul>
         </li>
       </ul>
@@ -1070,7 +1091,7 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>DET: den, dei, det, andre, same, denne, anna, dette, desse, neste</li>
+            <li>DET: andre, same, denne, anna, dette, desse, neste, slike, slik, annan</li>
             <li>NUM: fem-seks</li>
           </ul>
         </li>
@@ -1484,6 +1505,34 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>X: ,, the, and, in, to, you, of, a, i, it</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>X: det, en, i, og, the, of, som, til, den, for</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -1524,24 +1573,24 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (5496)</li>
+            <li>VERB-Fin--NOUN (5206)</li>
             <li>VERB-Fin--NOUN-ADP(borte)-ADP(fra) (1)</li>
             <li>VERB-Fin--NOUN-ADP(med) (10)</li>
             <li>VERB-Fin--NOUN-ADP(over) (2)</li>
-            <li>VERB-Fin--PRON (1077)</li>
+            <li>VERB-Fin--NOUN-ADP(rundt) (1)</li>
+            <li>VERB-Fin--PRON (1030)</li>
             <li>VERB-Fin--PRON-Acc (6)</li>
             <li>VERB-Fin--PRON-Acc-ADP(hjemme)-ADP(med) (1)</li>
-            <li>VERB-Fin--PRON-Nom (5660)</li>
-            <li>VERB-Inf--NOUN (1321)</li>
+            <li>VERB-Fin--PRON-Nom (5626)</li>
+            <li>VERB-Inf--NOUN (1065)</li>
             <li>VERB-Inf--NOUN-Gen (1)</li>
-            <li>VERB-Inf--PRON (351)</li>
+            <li>VERB-Inf--PRON (296)</li>
             <li>VERB-Inf--PRON-Acc (7)</li>
-            <li>VERB-Inf--PRON-Nom (1484)</li>
-            <li>VERB-Part--NOUN (1556)</li>
+            <li>VERB-Inf--PRON-Nom (1459)</li>
+            <li>VERB-Part--NOUN (1104)</li>
             <li>VERB-Part--NOUN-ADP(med) (1)</li>
-            <li>VERB-Part--NOUN-ADP(over) (1)</li>
-            <li>VERB-Part--PRON (239)</li>
-            <li>VERB-Part--PRON-Nom (1180)</li>
+            <li>VERB-Part--PRON (178)</li>
+            <li>VERB-Part--PRON-Nom (1016)</li>
           </ul>
         </li>
       </ul>
@@ -1553,9 +1602,10 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (5336)</li>
+            <li>VERB-Fin--NOUN (5335)</li>
             <li>VERB-Fin--NOUN-ADP(blant) (1)</li>
             <li>VERB-Fin--NOUN-ADP(med) (6)</li>
+            <li>VERB-Fin--NOUN-ADP(under) (1)</li>
             <li>VERB-Fin--NOUN-Gen (1)</li>
             <li>VERB-Fin--PRON (1151)</li>
             <li>VERB-Fin--PRON-Acc (11)</li>
@@ -1583,8 +1633,9 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN (5164)</li>
+            <li>VERB-Fin--NOUN (5163)</li>
             <li>VERB-Fin--NOUN-ADP(over) (1)</li>
+            <li>VERB-Fin--NOUN-ADP(under) (1)</li>
             <li>VERB-Fin--NOUN-Gen (1)</li>
             <li>VERB-Fin--PRON (601)</li>
             <li>VERB-Fin--PRON-Acc (820)</li>
@@ -1611,7 +1662,8 @@ udver: '2'
             <li>VERB-Fin--PRON-Acc (653)</li>
             <li>VERB-Fin--PRON-Nom (12)</li>
             <li>VERB-Fin,Part--NOUN (1)</li>
-            <li>VERB-Inf--NOUN (3564)</li>
+            <li>VERB-Inf--NOUN (3563)</li>
+            <li>VERB-Inf--NOUN-ADP(rundt) (1)</li>
             <li>VERB-Inf--PRON (313)</li>
             <li>VERB-Inf--PRON-Acc (389)</li>
             <li>VERB-Inf--PRON-Nom (1)</li>
@@ -1696,7 +1748,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:outer</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a></li>
+      <li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a></li>
       <li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
       </ul>
     </td>

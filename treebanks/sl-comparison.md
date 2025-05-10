@@ -29,7 +29,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 6108 sentences and 98393 tokens.</li>
+      <li>This corpus contains 6121 sentences and 98393 tokens.</li>
       </ul>
     </td>
   </tr>

@@ -29,7 +29,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 145 sentences, 972 tokens and 1001 syntactic words.</li>
+      <li>This corpus contains 173 sentences, 1214 tokens and 1250 syntactic words.</li>
       </ul>
     </td>
   </tr>
@@ -41,7 +41,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 183 tokens (19%) that are not followed by a space.</li>
+      <li>This corpus contains 232 tokens (19%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
@@ -76,8 +76,8 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 29 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-      <li>There are 19 types of multi-word tokens. Examples: бердиби, барбы, беле, жатабы, үйдѳгү, Дениздикинин, Окугандарын, ашкананыкын, бекен, бересиңби, жаттыңызбы, жокпу, келдиби, кичинекейби, сеникинен, текчесиндегилер, ѳрѳѳнбү, ѳткѳрүлѳбү, үйдѳбү.</li>
+      <li>This corpus contains 35 multi-word tokens. On average, one multi-word token consists of 2.03 syntactic words.</li>
+      <li>There are 22 types of multi-word tokens. Examples: бердиби, Окугандарын, барбы, бекен, беле, жатабы, Дениздикинин, ашкананыкын, бересиңби, жаттыңызбы, жокпу, келдиби, кичинекейби, коёсуңбу, сеникинен, текчесиндегилер, туурабы, үйдөбү, үйдөгү, үйдөгүнүкү, өрөөнбү, өткөрүлөбү.</li>
       </ul>
     </td>
   </tr>
@@ -98,8 +98,8 @@ udver: '2'
       <h3>Tags</h3>
       
       <ul>
-      <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
-      <li>This corpus does not use the following tags: SYM, X</li>
+      <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
+      <li>This corpus does not use the following tags: X</li>
       </ul>
     </td>
   </tr>
@@ -110,7 +110,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 7 word types tagged as particles (PART): б, би, бы, бү, пу, тургандыгы, ээ</li>
+      <li>This corpus contains 8 word types tagged as particles (PART): б, би, бу, бы, бү, пу, тургандыгы, ээ</li>
       </ul>
     </td>
   </tr>
@@ -122,7 +122,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 12 lemmas tagged as pronouns (PRON): _, Питер, ал, алар, биз, бир, бул, ки, ким, мен, сен, эмне</li>
+      <li>This corpus contains 13 lemmas tagged as pronouns (PRON): _, Питер, ал, алар, биз, бир, бул, ки, ким, мен, сен, эмне, өз</li>
       </ul>
     </td>
   </tr>
@@ -134,7 +134,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 6 lemmas tagged as determiners (DET): бардык, бул, кѳп, ошо, эч, ѳз</li>
+      <li>This corpus contains 7 lemmas tagged as determiners (DET): бардык, бир, бул, көп, ошо, эч, өз</li>
       </ul>
     </td>
   </tr>
@@ -145,7 +145,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: бул</li>
+      <li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: бир, бул, өз</li>
       </ul>
     </td>
   </tr>
@@ -157,7 +157,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): ал, бол, жат, жок, кал, кет, кой, окшо, тур, э, экен</li>
+      <li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): ал, бер, бол, жат, жок, кал, кет, кой, окшо, тур, э, экен</li>
       </ul>
     </td>
   </tr>
@@ -168,7 +168,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: ал, бол, жат, кал, кет, окшо</li>
+      <li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: ал, бер, бол, жат, кал, кет, окшо</li>
       </ul>
     </td>
   </tr>
@@ -199,7 +199,7 @@ udver: '2'
       <ul>
         <li>Conv
         <ul>
-          <li>VERB: Түнѳп</li>
+          <li>VERB: Түнөп</li>
         </ul>
         </li>
       </ul>
@@ -221,7 +221,7 @@ udver: '2'
         <li>Fin
         <ul>
           <li>AUX: болчу, жаткан</li>
-          <li>VERB: такылдатыптыр, ѳткѳрүлѳ</li>
+          <li>VERB: ач, такылдатыптыр, өткөрүлө</li>
         </ul>
         </li>
       </ul>
@@ -336,7 +336,13 @@ udver: '2'
       </ul>
     </td>
     <td width="50%" valign="top">
-
+      <ul>
+        <li>Plur
+          <ul>
+            <li>PRON: Алар, Сен</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -371,8 +377,11 @@ udver: '2'
         <li>Sing
           <ul>
             <li>AUX-Fin: болчу, жаткан</li>
-            <li>PRON: ал</li>
-            <li>VERB-Fin: такылдатыптыр, ѳткѳрүлѳ</li>
+            <li>NOUN: Жамгыр, күйөөсүнө, унааны, Кыз, гүнү, досуна, кат, кү, терезени, үйдө</li>
+            <li>PRON: ал, Сен, Менин</li>
+            <li>PROPN: Сэм</li>
+            <li>VERB: жуудурду, такылдатыптыр, өткөрүлө</li>
+            <li>VERB-Fin: такылдатыптыр, өткөрүлө</li>
           </ul>
         </li>
       </ul>
@@ -461,7 +470,7 @@ udver: '2'
       <ul>
         <li>Acc
           <ul>
-            <li>NOUN: эшикти, үйдү</li>
+            <li>NOUN: унааны, терезени, эшикти, үйдү</li>
           </ul>
         </li>
       </ul>
@@ -563,7 +572,13 @@ udver: '2'
       </ul>
     </td>
     <td width="50%" valign="top">
-
+      <ul>
+        <li>Dat
+          <ul>
+            <li>NOUN: күйөөсүнө, досуна</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -620,7 +635,8 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
-            <li>NOUN: үйдүн</li>
+            <li>NOUN: гүнү, үйдүн</li>
+            <li>PRON: Менин</li>
           </ul>
         </li>
       </ul>
@@ -680,7 +696,13 @@ udver: '2'
       </ul>
     </td>
     <td width="50%" valign="top">
-
+      <ul>
+        <li>Loc
+          <ul>
+            <li>NOUN: үйдө</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -710,8 +732,9 @@ udver: '2'
       <ul>
         <li>Nom
           <ul>
-            <li>NOUN: конок, тамак, буюртма, ээси</li>
-            <li>PRON: ал</li>
+            <li>NOUN: Жамгыр, конок, тамак, Кыз, буюртма, кат, кү, ээси</li>
+            <li>PRON: ал, Сен, Алар</li>
+            <li>PROPN: Сэм</li>
           </ul>
         </li>
       </ul>
@@ -793,7 +816,9 @@ udver: '2'
       </ul>
     </td>
     <td width="50%" valign="top">
-
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -809,7 +834,13 @@ udver: '2'
       </ul>
     </td>
     <td width="50%" valign="top">
-
+      <ul>
+        <li>Cmp
+          <ul>
+            <li>ADJ: кыйыныраак</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -946,7 +977,7 @@ udver: '2'
       <ul>
         <li>Perf
           <ul>
-            <li>VERB-Conv: Түнѳп</li>
+            <li>VERB-Conv: Түнөп</li>
             <li>VERB-Inf: жыйнап</li>
           </ul>
         </li>
@@ -1015,7 +1046,13 @@ udver: '2'
       </ul>
     </td>
     <td width="50%" valign="top">
-
+      <ul>
+        <li>Imp
+          <ul>
+            <li>VERB-Fin: ач</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -1040,7 +1077,8 @@ udver: '2'
         <li>Ind
           <ul>
             <li>AUX-Fin: болчу, жаткан</li>
-            <li>VERB-Fin: такылдатыптыр, ѳткѳрүлѳ</li>
+            <li>VERB: жуудурду, такылдатыптыр, өткөрүлө</li>
+            <li>VERB-Fin: такылдатыптыр, өткөрүлө</li>
           </ul>
         </li>
       </ul>
@@ -1113,6 +1151,7 @@ udver: '2'
         <li>Past
           <ul>
             <li>AUX-Fin: болчу, жаткан</li>
+            <li>VERB: жуудурду, берген, такылдатыптыр</li>
             <li>VERB-Fin: такылдатыптыр</li>
             <li>VERB-Part: берген</li>
           </ul>
@@ -1143,7 +1182,7 @@ udver: '2'
       <ul>
         <li>Pres
           <ul>
-            <li>VERB-Fin: ѳткѳрүлѳ</li>
+            <li>VERB-Fin: ач, өткөрүлө</li>
           </ul>
         </li>
       </ul>
@@ -1169,6 +1208,7 @@ udver: '2'
       <ul>
         <li>Cau
           <ul>
+            <li>VERB: жуудурду, такылдатыптыр</li>
             <li>VERB-Fin: такылдатыптыр</li>
           </ul>
         </li>
@@ -1197,7 +1237,7 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>VERB-Fin: ѳткѳрүлѳ</li>
+            <li>VERB-Fin: өткөрүлө</li>
           </ul>
         </li>
       </ul>
@@ -1345,7 +1385,7 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>PRON: ал</li>
+            <li>PRON: ал, Сен, Алар, Менин</li>
           </ul>
         </li>
       </ul>
@@ -1490,7 +1530,13 @@ udver: '2'
       </ul>
     </td>
     <td width="50%" valign="top">
-
+      <ul>
+        <li>2
+          <ul>
+            <li>PRON: Сен</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -1524,8 +1570,9 @@ udver: '2'
         <li>3
           <ul>
             <li>AUX-Fin: болчу, жаткан</li>
-            <li>PRON: ал</li>
-            <li>VERB-Fin: такылдатыптыр, ѳткѳрүлѳ</li>
+            <li>PRON: ал, Алар, Сен</li>
+            <li>VERB: жуудурду, ач, такылдатыптыр, өткөрүлө</li>
+            <li>VERB-Fin: ач, такылдатыптыр, өткөрүлө</li>
           </ul>
         </li>
       </ul>
@@ -1641,6 +1688,33 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADJ
+              <ul>
+                <li>NOUN: турак</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADV: андан, Алдын, Чын</li>
+                <li>NOUN: таш, эл, Керемет, бала, шайман, үй</li>
+                <li>VERB-Conv: моюн</li>
+                <li>VERB-Fin: алып</li>
+                <li>VERB-Vnoun: окуу</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
         <li><a>Person[psor]</a>
           <ul>
             <li>1
@@ -1723,7 +1797,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus uses 11 lemmas as auxiliaries (<a>aux</a>). Examples: жат, кал, экен, ал, бол, э, кой, жок, кет, тур, окшо.</li>
+      <li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: жат, кал, ал, бол, э, экен, жок, кой, тур, бер, кет, окшо.</li>
       </ul>
     </td>
   </tr>
@@ -1810,9 +1884,10 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (25)</li>
-            <li>VERB--NOUN-Nom (1)</li>
-            <li>VERB--PRON (16)</li>
+            <li>VERB--NOUN (28)</li>
+            <li>VERB--NOUN-Nom (4)</li>
+            <li>VERB--PRON (11)</li>
+            <li>VERB--PRON-Nom (14)</li>
             <li>VERB-Fin--NOUN-Nom (1)</li>
             <li>VERB-Inf--NOUN-Nom (1)</li>
           </ul>
@@ -1876,9 +1951,11 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (48)</li>
-            <li>VERB--PRON (5)</li>
-            <li>VERB-Fin--NOUN-Acc (1)</li>
+            <li>VERB--NOUN (56)</li>
+            <li>VERB--NOUN-Acc (2)</li>
+            <li>VERB--NOUN-Nom (1)</li>
+            <li>VERB--PRON (7)</li>
+            <li>VERB-Fin--NOUN-Acc (2)</li>
             <li>VERB-Inf--NOUN-Acc (1)</li>
             <li>VERB-Part--NOUN-Nom (1)</li>
           </ul>

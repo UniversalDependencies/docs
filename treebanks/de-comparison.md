@@ -36,7 +36,7 @@ udver: '2'
   <tr>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 15590 sentences, 287721 tokens and 292769 syntactic words.</li>
+      <li>This corpus contains 15589 sentences, 287708 tokens and 292756 syntactic words.</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -58,7 +58,7 @@ udver: '2'
   <tr>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 34966 tokens (12%) that are not followed by a space.</li>
+      <li>This corpus contains 34994 tokens (12%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -191,7 +191,7 @@ udver: '2'
   <tr>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 27 word types tagged as particles (PART): 's, Bitte, Danke, Hallo, Na, ab, als, an, auf, aus, dar, garnicht, her, hin, inte, ja, mit, ncht, nein, nich, nicht, not, preis, statt, vor, wie, zu</li>
+      <li>This corpus contains 26 word types tagged as particles (PART): 's, Bitte, Danke, Hallo, Na, ab, an, auf, aus, dar, garnicht, her, hin, inte, ja, mit, ncht, nein, nich, nicht, not, preis, statt, vor, wie, zu</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -557,7 +557,7 @@ udver: '2'
             <li>ADJ: ganze, römische, Letztere, angemessenste, edle, elektrische, erhaltenden, gebildeten, gemeine, gesamte</li>
             <li>ADJ-Part: gebildeten</li>
             <li>DET: die, der, la, eine, jede</li>
-            <li>NOUN: poesie, Größe, Kunst, Altertümlichkeit, Arroganz, Charakteristik, Eigenschaften, Eigentümlichkeit, Einfalt, Erden</li>
+            <li>NOUN: poesie, Größe, Kunst, Mühe, Altertümlichkeit, Arroganz, Charakteristik, Eigenschaften, Eigentümlichkeit, Einfalt</li>
             <li>PRON: sie, die</li>
           </ul>
         </li>
@@ -667,7 +667,7 @@ udver: '2'
           <ul>
             <li>ADJ: ersten, erste, letzten, weitere, neuen, gleichen, neues, gutes, neue, folgenden</li>
             <li>ADJ-Part: aufbewahrte, beanspruchten, entworfenen, lancierte, modifizierten, unterkellerte, unterstützten, veröffentlichte, zurückgeführten</li>
-            <li>ADV: was, ca, anderem, Dort, How, Mal, PMMA, Rääts, SEHR, Weitere</li>
+            <li>ADV: was, ca, Dort, How, Mal, PMMA, Rääts, SEHR, Weitere, erste</li>
             <li>DET: dem, das, ein, des, einem, dies, sein, eines, dieses, allem</li>
             <li>NOUN: jahr, Jahre, Jahren, Prozent, Ende, %, Unternehmen, Kinder, Leben, Mitglied</li>
             <li>NUM: 10, 3, 1:1, ², +7,6, 100, 1000, 17, 1846-1925, 1882-1953</li>
@@ -701,8 +701,8 @@ udver: '2'
           <ul>
             <li>ADJ: Rembrandtschen, gebildeten, letzte, prophetisches</li>
             <li>ADJ-Part: gebildeten</li>
-            <li>DET: das, Einiges, alles, des, ein, ihr, seinem, welches</li>
-            <li>NOUN: Glück, Leben, Gedicht, Helldunkel, Kinder, Mittelglied, Phänomene, Resultat, Stück, Verdienst</li>
+            <li>DET: das, ein, Einiges, alles, dem, des, ihr, seinem, welches</li>
+            <li>NOUN: Glück, Leben, Gedicht, Gesetz, Helldunkel, Kinder, Mittelglied, Phänomene, Resultat, Stück</li>
             <li>PRON: es, was, nichts, etwas, s, 's, irgendetwas, das</li>
           </ul>
         </li>
@@ -840,7 +840,7 @@ udver: '2'
             <li>ADJ: ersten, erste, zweiten, neuen, neue, deutschen, großen, große, heutigen, zweite</li>
             <li>ADJ-Fin: reaktivierte</li>
             <li>ADJ-Part: bezeichneten, entwickelte, genannten, aufbewahrte, ausgelobten, ausgerichtete, beanspruchten, befreiten, diskutierte, entstanden</li>
-            <li>ADV: ca, was, super, SEHR, anderem, lange, vorallem, Abends, Allzeit, Anfangs</li>
+            <li>ADV: ca, was, super, SEHR, lange, vorallem, Abends, Allzeit, Anfangs, Dort</li>
             <li>AUX-Fin: ist, wurde, war, wird, kann, hat, hatte, konnte, habe, sei</li>
             <li>DET: der, dem, die, das, des, eine, ein, den, einer, einen</li>
             <li>NOUN: jahr, Zeit, Stadt, Ende, Teil, Familie, Ort, Gemeinde, Platz, Saison</li>
@@ -883,8 +883,8 @@ udver: '2'
             <li>ADJ: ganze, gebildeten, römische, Letztere, Rembrandtschen, angemessenste, brillant, edle, elektrische, feiner</li>
             <li>ADJ-Part: gebildeten</li>
             <li>AUX-Fin: ist, is, sei</li>
-            <li>DET: jeder, jedem, jedes, jede, die, der, jeden, la, des, das</li>
-            <li>NOUN: poesie, Glück, Größe, Kunst, Leben, Abgottes, Altertümlichkeit, Arroganz, Ausdrucks, Autor</li>
+            <li>DET: jeder, jedem, jedes, jede, der, die, jeden, la, des, das</li>
+            <li>NOUN: poesie, Glück, Größe, Kunst, Leben, Mühe, Abgottes, Altertümlichkeit, Arroganz, Ausdrucks</li>
             <li>PRON: es, man, er, was, nichts, etwas, ich, ihm, ihn, wer</li>
             <li>PROPN: Dantes, Diderots, Leibniz, Lessing, Plato</li>
             <li>VERB-Fin: Ehre, erfolge, fait, strömt, wohlgehe</li>
@@ -1006,7 +1006,7 @@ udver: '2'
             <li>ADJ-Inf: beginnenden, externen, extremen, nassen</li>
             <li>ADJ-Part: beanspruchten, bezeichneten, entdeckten, entworfenen, erstellten, eröffneten, gerufenen, thesauriertem</li>
             <li>ADP: zufolge, nach</li>
-            <li>ADV: anderem, ca, Anfangs, Dort, Ex, Křižanov, PMMA, meisten, vorallem</li>
+            <li>ADV: ca, Anfangs, Dort, Ex, Křižanov, PMMA, meisten, vorallem</li>
             <li>DET: dem, der, den, einem, einer, diesem, seiner, seinem, dieser, anderen</li>
             <li>NOUN: Jahr, Jahren, Zeit, Jahre, Saison, Ende, Stadt, Familie, Teil, Ort</li>
             <li>NUM: 1:1, 8, Millionen, ², +7,6, -10, -2288,9, -60, 0:3, 1</li>
@@ -1349,6 +1349,7 @@ udver: '2'
         <li>Cmp
           <ul>
             <li>ADJ: später, weitere, weiteren, besser, weiter, früher, stärker, höher, länger, früheren</li>
+            <li>ADV: weniger</li>
             <li>DET: mehrere, mehr, mehreren, mehrerer, mehre</li>
           </ul>
         </li>
@@ -1428,7 +1429,7 @@ udver: '2'
         <li>Pos
           <ul>
             <li>ADJ: ersten, neue, letzten, bekannt, möglich, neuen, groß, große, politischen, Vereinigten</li>
-            <li>ADV: auch, so, noch, nur, sehr, jedoch, mehr, immer, wieder, dann</li>
+            <li>ADV: auch, so, noch, nur, sehr, jedoch, immer, mehr, wieder, dann</li>
           </ul>
         </li>
       </ul>
@@ -2116,7 +2117,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>ADV: etwas, mehr, genug, viel, wenig, bisschen, anderem, bischen, bißchen, solch</li>
+            <li>ADV: etwas, mehr, genug, viel, wenig, bisschen, bischen, bißchen, solch, soviel</li>
             <li>DET: anderen, viele, andere, einige, viel, mehrere, anderem, vielen, meisten, mehr</li>
             <li>PRON: man, etwas, jemand, sowas, irgendetwas, irgendwas, irgendwem, jemanden</li>
           </ul>
@@ -2182,7 +2183,7 @@ udver: '2'
       <ul>
         <li>Int
           <ul>
-            <li>ADV: wodurch, worin, wozu, worauf, wobei, womit, wonach, woraus, wovon</li>
+            <li>ADV: wodurch, worin, wozu, worauf, Wie, wobei, womit, wonach, woraus, wovon</li>
             <li>DET: Wieviel</li>
           </ul>
         </li>
@@ -2951,7 +2952,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="25%" valign="top">
-
+      <ul>
+        <li>Masc
+          <ul>
+            <li>DET: seine, seiner, seines</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="25%" valign="top">
 
@@ -3274,6 +3281,76 @@ udver: '2'
   <tr>
     <td width="25%" valign="top">
       <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADV
+              <ul>
+                <li>ADP: nach, ab, durch</li>
+                <li>ADV: mehr, so, weniger, auf</li>
+                <li>DET: weniger</li>
+              </ul>
+            </li>
+            <li>DET
+              <ul>
+                <li>DET: mehr</li>
+                <li>PRON: was</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADV
+              <ul>
+                <li>ADP: um, an</li>
+                <li>DET: ein</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>SCONJ: als</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADV
+              <ul>
+                <li>ADP: In, durch</li>
+                <li>ADV: mehr, so</li>
+                <li>DET: mehr</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADV
+              <ul>
+                <li>ADV: mehr, so</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <ul>
         <li><a>Foreign</a>
           <ul>
             <li>Yes
@@ -3372,7 +3449,17 @@ udver: '2'
   </tr>
   <tr>
     <td width="25%" valign="top">
-
+      <ul>
+        <li><a>Hyph</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ: ein</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="25%" valign="top">
       <ul>
@@ -3472,11 +3559,11 @@ udver: '2'
                 <li>ADJ: entstanden, zurfieden</li>
                 <li>ADJ-Part: entstanden</li>
                 <li>ADP: fuer, üer</li>
-                <li>ADV: er, darzu</li>
+                <li>ADV: er, würklich, darzu</li>
                 <li>AUX-Fin: wer, wir</li>
                 <li>CCONJ: sonden, uns</li>
                 <li>DET: Ihr, Ihre, Ihrem, diser, eigige</li>
-                <li>NOUN: Schimpereien, ambiente, essen, freundin, hotel, preis, sahne, sterne</li>
+                <li>NOUN: Bröchten, Schimpereien, ambiente, essen, freundin, hotel, preis, sahne, sterne</li>
                 <li>PRON: Ihr, des</li>
                 <li>SCONJ: das, den</li>
                 <li>VERB-Fin: läd, viel</li>
@@ -3740,12 +3827,12 @@ udver: '2'
             <li>VERB--PRON-Acc (10)</li>
             <li>VERB--PRON-Dat (3)</li>
             <li>VERB-Fin--NOUN (39)</li>
-            <li>VERB-Fin--NOUN-Acc (3478)</li>
+            <li>VERB-Fin--NOUN-Acc (3479)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(von) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(über) (2)</li>
             <li>VERB-Fin--NOUN-Dat (54)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(über) (1)</li>
-            <li>VERB-Fin--NOUN-Gen (17)</li>
+            <li>VERB-Fin--NOUN-Gen (16)</li>
             <li>VERB-Fin--NOUN-Nom (463)</li>
             <li>VERB-Fin--PRON (31)</li>
             <li>VERB-Fin--PRON-Acc (1169)</li>
@@ -3987,7 +4074,7 @@ udver: '2'
             <li>VERB--NOUN-Acc-ADP(zu) (4)</li>
             <li>VERB--NOUN-Gen (1)</li>
             <li>VERB--PRON (24)</li>
-            <li>VERB--PRON-Acc (512)</li>
+            <li>VERB--PRON-Acc (513)</li>
             <li>VERB--PRON-Acc-ADP(in) (1)</li>
             <li>VERB--PRON-Acc-ADP(mit) (1)</li>
             <li>VERB--PRON-Dat (3)</li>
@@ -4055,7 +4142,7 @@ udver: '2'
       <h3>Reflexive Verbs</h3>
       
       <ul>
-        <li>This corpus contains 17 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: befinden sich, erholen sich, weigern sich, verlieben sich, begeben sich, nähern sich, bedanken mich, bedanken uns, abwenden sich, aneignen sich, anfreunden uns, anfühlen sich, begeben mich, bewähren sich, erholen mich, fühlen sich, äußern sich</li>
+        <li>This corpus contains 19 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: befinden sich, erholen sich, weigern sich, verlieben sich, begeben sich, nähern sich, bedanken mich, bedanken uns, abwenden sich, aneignen sich, anfreunden uns, anfühlen sich, begeben mich, bewähren sich, entwickeln sich, erholen mich, fühlen sich, lohnen sich, äußern sich</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -4095,7 +4182,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 412 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: handeln sich, finden sich, lassen sich, setzen sich, beschäftigen sich, schließen sich, beteiligen sich, erstrecken sich, fühlen mich, stellen sich, ergeben sich, fühlen sich, zeigen sich, bilden sich, entwickeln sich, kümmern sich, äußern sich, befassen sich, betätigen sich, engagieren sich, entscheiden sich, halten sich, ändern sich, beziehen sich, erheben sich, orientieren sich, treffen sich, unterscheiden sich, wenden sich, widmen sich, beschränken sich, etablieren sich, lohnen sich, sprechen sich, anschließen sich, bemühen sich, durchsetzen sich, leiten sich, lösen sich, richten sich, zeichnen sich, zurückziehen sich, bekennen sich, belaufen sich, bewegen sich, einsetzen sich, gründen sich, interessieren sich, konzentrieren sich, qualifizieren sich</li>
+        <li>This corpus contains 411 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: handeln sich, finden sich, lassen sich, setzen sich, beschäftigen sich, schließen sich, beteiligen sich, erstrecken sich, fühlen mich, stellen sich, ergeben sich, fühlen sich, zeigen sich, bilden sich, entwickeln sich, kümmern sich, äußern sich, befassen sich, betätigen sich, engagieren sich, entscheiden sich, halten sich, ändern sich, beziehen sich, erheben sich, orientieren sich, treffen sich, unterscheiden sich, wenden sich, widmen sich, ziehen sich, beschränken sich, etablieren sich, lohnen sich, sprechen sich, anschließen sich, bemühen sich, durchsetzen sich, leiten sich, lösen sich, richten sich, zeichnen sich, zurückziehen sich, bekennen sich, belaufen sich, bewegen sich, einsetzen sich, gründen sich, interessieren sich, konzentrieren sich</li>
           <ul>
             <li>Out of those, 19 lemmas occurred more than once, but never without a reflexive dependent. Examples: erstrecken, kümmern, befassen, betätigen, freuen, belaufen, distanzieren, einigen, auszahlen, erfreuen, niederlassen, zusammenschließen, auseinandersetzen, breiten, scheuen, unterziehen, verbünden, verfestigen, verjüngen</li>
           </ul>
