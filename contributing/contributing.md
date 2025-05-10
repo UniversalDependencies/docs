@@ -30,22 +30,132 @@ Quick links:
 Before starting, you may want to have a quick look at the
 [documentation and visualization system introduction](/contributing/visualization.html).
 
-The online documentation is stored on GitHub, a service for projects
-using the Git version control system. To contribute, you need a GitHub
-account.
+The online documentation is stored on [GitHub](https://github.com/), a service for projects
+using the Git version control system. To contribute, you need a GitHub account.
+(It is free, only takes a minute, and there is a reasonable [privacy
+policy](https://help.github.com/articles/github-privacy-policy) in place.)
+If you already have a GitHub account, just make sure you are logged in before moving on.
 
-If you already have a GitHub account, just make sure you are logged in
-before moving on. If you do not, please go to
-[https://github.com/join](https://github.com/join) and create an
-account first. (It's free, only takes a minute, and there's a
-reasonable [privacy
-policy](https://help.github.com/articles/github-privacy-policy) in
-place.)
+If your GitHub account is a member of the project (specifically, if it is a member of the
+Contributors team in the UniversalDependencies organization on GitHub; we have probably
+added you to that team if we have created a treebank repository for you), then you have
+push access to the `pages-source` branch of the [docs repository](https://github.com/universaldependencies/docs/)
+where the source of the UD web is stored. As a maintainer of a language, you can directly
+edit pages belonging to that language. If you wish to edit pages outside your language
+(that is, in another language or in the general area of the universal guidelines), we suggest
+that you propose changes via a pull request rather than editing directly (although technically
+your user rights do not prevent you from editing those pages directly). Even within “your”
+language, you should be careful if there are multiple treebanks in that language and you do not
+maintain all of them (see [guidelines on language-specific documentation](/contributing/contributing_language_specific.html)
+for details).
 
-After logging in to GitHub, see the following:
+### Editing online
 
-* [How to edit the documentation](#editing)
-* [How to file bug reports, feature requests, etc.](#filing-issues)
+GitHub provides basic online editing functionality. The interface
+looks something like this:
+
+<img style="border: 1px solid lightgray" src="/img/gh-edit.png">
+
+To get started, the only relevant parts are the large black edit area
+and the “Cancel” and “Commit changes” buttons at the bottom.
+
+To give this a quick try, click on the following link: <a
+href="https://github.com/universaldependencies/docs/edit/pages-source/contributing/sandbox.md"
+target="#">edit sandbox document</a>. This opens a “sandbox” document
+in a new tab. After testing it out, feel free to either cancel without
+saving your changes, or save them into the version control system
+using the “Commit changes” button. You can see the resulting document
+[here](/contributing/sandbox.html)
+(reload to see changes, and please note it may take some time for the changes to show up.)
+
+For experimenting with the system, we recommend using the sandbox
+document instead of the “real” documents.
+
+To edit the actual documentation, first find the page you are
+interested in. For example, to navigate to the documentation for the
+English language `obj` (direct object) dependency:
+
+* Start from the homepage ([https://universaldependencies.org/](https://universaldependencies.org/))
+* Click on the “Annotation guidelines” link (go to [https://universaldependencies.org/guidelines.html](https://universaldependencies.org/guidelines.html))
+* In the list of language-specific guidelines, locate English (go to [https://universaldependencies.org/en/index.html](https://universaldependencies.org/en/index.html))
+* In the “Syntax” section, click on “English relations” (go to [https://universaldependencies.org/en/dep/index.html](https://universaldependencies.org/en/dep/index.html))
+* Click on the “obj” link (go to [https://universaldependencies.org/en/dep/obj.html](https://universaldependencies.org/en/dep/obj.html))
+
+Then, edit and save your changes:
+
+* Click on the “edit page” link on the top
+* Make your changes in the GitHub editor
+* (Optional: add a message describing your changes in the “Commit changes” box)
+* Click on “Commit changes”
+
+Finally, wait a moment for your revisions to the documentation to be
+compiled (normally no more than 2 minutes) and reload the
+documentation page to make sure they look right.
+
+### Using Git
+
+As an alternative to using the [online editing features](#editing-online), you can also edit the
+materials using the Git version control system as described in this section.
+
+If you are not previously familiar with Git, please see [GitHub
+instructions](https://help.github.com/articles/set-up-git) on setup
+and basic use. The rest of this section assumes that you have git set
+up and are working on a terminal in a unix-like environment. For other
+use cases, please see GitHub documentation.
+
+The project materials are found in the repository
+[https://github.com/universaldependencies/docs](https://github.com/universaldependencies/docs).
+To check out these materials from GitHub, run the following command:
+
+    git clone git@github.com:UniversalDependencies/docs.git
+
+If successful, this will create the subdirectory `docs/` containing
+the data of the repository in your current directory. You can then
+edit the files in the repository normally, using your favorite text
+editor. After completing a set of changes, you can commit the changes
+with the command
+
+    git commit -a -m 'Insert a short message describing your changes here.'
+
+and push them to the shared online repository with
+
+    git push
+
+If you see the error `error: failed to push some refs`, it's likely
+that others pushed changes to the shared online repository while you
+were working. You can retrieve these changes and merge them with
+yours with the command
+
+    git pull
+
+This covers the very basics only. Please see the extensive materials
+available online at GitHub and elsewhere for details.
+
+Technical note: please **do not** commit anything into any branch other than `pages-source`.
+(If this note makes no sense to you, don't worry – you cannot do this by accident.)
+
+### Non-members
+
+Although only members of this project can directly edit the online
+materials, you do not need to be a member to contribute. Non-members
+can either file issues on the project issue tracker,
+or submit proposed changes as [pull requests](https://help.github.com/articles/using-pull-requests).
+
+## Filing issues
+
+To file bug reports, feature requests, suggestions for improvement, etc., you can use the project issue tracker:
+[https://github.com/universaldependencies/docs/issues](https://github.com/universaldependencies/docs/issues).
+
+The issue tracker is open to members and non-members alike, and can be
+used to let (other) project members know of any issue with the online
+documentation, including technical problems, mistakes in the
+descriptions or examples, or suggestions for how to improve any aspect
+of the project.
+
+Any issues related to documentation and guidelines, even specific to one language, belong to the issue tracker
+of the docs repository. Issue trackers of individual treebank repositories should be used only to report bugs
+in those treebanks. You can also send an e-mail to the [UD mailing list](https://lists.uu.se/sympa/info/lingfil-ud);
+however, the list is primarily meant for announcements for data maintainers.
 
 ## Editing
 
@@ -165,117 +275,6 @@ syntax](http://daringfireball.net/projects/markdown/syntax) and
 [embedded visualizations](/contributing/visualization.html). However, we believe that the
 formats are simple enough to learn by example and by doing, and
 suggest to proceed directly to the next section (editing).
-
-### Editing online
-
-GitHub provides basic online editing functionality. The interface
-looks something like this:
-
-<img style="border: 1px solid lightgray" src="img/gh-edit.png">
-
-To get started, the only relevant parts are the large black edit area
-and the "Cancel" and "Commit changes" buttons at the bottom.
-
-To give this a quick try, click on the following link: <a
-href="https://github.com/universaldependencies/docs/edit/pages-source/contributing/sandbox.md"
-target="#">edit sandbox document</a>. This opens a "sandbox" document
-in a new tab. After testing it out, feel free to either cancel without
-saving your changes, or save them into the version control system
-using the "Commit changes" button. You can see the resulting document
-[here](/contributing/sandbox.html)
-(reload to see changes, and please note it may take some time for the
-changes to show up.)
-
-For experimenting with the system, we recommend using the sandbox
-document instead of the "real" documents.
-
-To edit the actual documentation, first find the page you're
-interested in. For example, to navigate to the documentation for the
-English language `obj` (direct object) dependency:
-
-* Start from the homepage ([http://universaldependencies.org/](http://universaldependencies.org/))
-* Click on the "English relations index" link (go to [http://universaldependencies.org/en/dep/index.html](http://universaldependencies.org/en/dep/index.html))
-* Click on the "obj" link (go to [http://universaldependencies.org/en/dep/obj.html](http://universaldependencies.org/en/dep/obj.html))
-
-Then, edit and save your changes:
-
-* Click on the "edit page" link on the top
-* Make your changes in the GitHub editor
-* (Optional: add a message describing your changes in the "Commit changes" box)
-* Click on "Commit changes"
-
-Finally, wait a moment for your revisions to the documentation to be
-compiled (normally no more than 10 seconds) and reload the
-documentation page to make sure they look right.
-
-That's all you need to get started. If you have any issues using the
-system, please see the [troubleshooting](#troubleshooting) section
-below.
-
-### Using Git
-
-As an alternative to using the [online editing
-features](#editing-online), you can also edit the materials using the
-Git version control system as described in this section.
-
-If you are not previously familiar with Git, please see [GitHub
-instructions](https://help.github.com/articles/set-up-git) on setup
-and basic use. The rest of this section assumes that you have git set
-up and are working on a terminal in a unix-like environment. For other
-use cases, please see GitHub documentation.
-
-The project materials are found in the repository
-[https://github.com/universaldependencies/docs](https://github.com/universaldependencies/docs).
-To check out these materials from GitHub, run the following command:
-
-    git clone git@github.com:UniversalDependencies/docs.git
-
-If successful, this will create the subdirectory `docs/` containing
-the data of the repository in your current directory. You can then
-edit the files in the repository normally, using your favorite text
-editor. After completing a set of changes, you can commit the changes
-with the command
-
-    git commit -a
-
-and push them to the shared online repository with
-
-    git push
-
-if you see the error `error: failed to push some refs`, it's likely
-that others pushed changes to the shared online repository while you
-were working. You can retrieve these changes and merge them with
-yours with the command
-
-    git pull
-
-This covers the very basics only. Please see the extensive materials
-available online at GitHub and elsewhere for details.
-
-Technical note: please **do not** commit anything into the `gh-pages`
-branch of the repository. The files in this branch are autogenerated
-and will be overwritten on any changes to the repository. (If this
-note makes no sense to you, don't worry -- you cannot do this by
-accident.)
-
-## Filing issues
-
-To file bug reports, feature requests, suggestions for improvement,
-etc., you can use the project issue tracker: [https://github.com/universaldependencies/docs/issues](https://github.com/universaldependencies/docs/issues).
-
-The issue tracker is open to members and non-members alike, and can be
-used to let (other) project members know of any issue with the online
-documentation, including technical problems, mistakes in the
-descriptions or examples, or suggestions for how to improve any aspect
-of the project.
-
-## Non-members
-
-Although only members of this project can directly edit the online
-materials, you do not need to be a member to contribute. Non-members
-can either [file issues](#filing-issues) on the project bug tracker,
-or submit proposed changes as [pull
-requests](https://help.github.com/articles/using-pull-requests).
 
 ## Links
 
