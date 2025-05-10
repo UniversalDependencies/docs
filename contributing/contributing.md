@@ -17,6 +17,7 @@ Contents:
 * [Filing issues](#filing-issues)
 * [Editing](#editing)
   - [File format](#file-format)
+  - [Links to documentation](#links-to-documentation)
   - [Style guidelines](#style-guidelines)
   - [Visualization of syntactic trees](#visualization-of-syntactic-trees)
 * [Things to avoid](#things-to-avoid)
@@ -180,6 +181,29 @@ the following link: [u-dep/aux]()
 For more detail, you can see the documentation for the [Markdown
 syntax](http://daringfireball.net/projects/markdown/syntax) and
 [embedded visualizations](/contributing/visualization.html).
+
+### Links to documentation
+
+The system supports a simplified syntax for linking documentation
+pages that are part of a *collection* (e.g. universal dependency
+types, UPOS tags, etc.).
+
+The basic syntax is `[COLL/DOC]()`, where `COLL` is the collection
+name and `DOC` the document title. For example, `[u-dep/aux]()` is
+linked as follows: [u-dep/aux]().
+
+The shorter form `[DOC]()` (omitting the collection) can be used when
+referring to another document in the current collection (e.g. linking
+between different documents in the `u-dep` collection) or when the
+document title is unique. For example, `[acl:adv]()` can be assured
+to link to [acl:adv]() as the type is unique to the Ukrainian
+annotation. If the label is not unique, the link will lead to one of
+such documents in a random collection. For example, `[advcl:cond]()`
+is currently available for Abkhaz, Sanskrit, Tamil, Telugu, and Uyghur.
+When used outside these collections, [advcl:cond]() will point randomly
+at one of them. If we want to point to the documentation of that relation
+in a particular language, we have to use the fully specified link, i.e.,
+`[advcl:cond](/ta/dep/advcl-cond.html)`.
 
 ### Style guidelines
 
