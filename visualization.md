@@ -38,7 +38,7 @@ See the [links below](#more-information) for more information.
 
 ## How to contribute
 
-See [here](contributing.html) for instructions on how to contribute to
+See [here](/contributing/contributing.html) for instructions on how to contribute to
 this online documentation. See below for details
 on how the visualized examples are created.
 

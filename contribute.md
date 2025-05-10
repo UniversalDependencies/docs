@@ -19,16 +19,16 @@ udver: '2'
   You can also send an e-mail to the [UD mailing list](https://lists.uu.se/sympa/info/lingfil-ud); however, the list is primarily meant for announcements for data maintainers.
 
 * **Editing documentation**
-  - [How to contribute to documentation](/contributing.html)
+  - [How to contribute to documentation](/contributing/contributing.html)
   - **Language-specific documentation** pages can be modified via the **edit** link at the top of the page.
-  There are also technical instructions for how to create [language-specific documentation](contributing_language_specific.html).
+  There are also technical instructions for how to create [language-specific documentation](/contributing/contributing_language_specific.html).
 
 * **Changes to general guidelines:** [Guidelines change history](changes.html)
 
 ### Contributing Data
 
 * **New contributions:** If you want to start a treebank or contribute to a release, please see:
-   - Advice on [how to start](contributing/how_to_start.html) a new treebank
+   - Advice on [how to start](/contributing/how_to_start.html) a new treebank
    - Technical steps in the [release checklist](release_checklist.html)
 
 * **Data corrections:** If you do not want to commit to maintaining a treebank but you want to help fix a particular bug in the data, you can submit a pull request against the **dev** branch of its GitHub repository. _The master branch should not be modified as it is built automatically by the release pipeline._
@@ -36,7 +36,7 @@ udver: '2'
 * **Data validation:** Every treebank must comply with general and language-specific validation rules in order to be included in the official release.
   The [on-line validation report](http://quest.ms.mff.cuni.cz/udvalidator/) provides a dashboard with treebank statuses.
   The [tools repository](https://github.com/UniversalDependencies/tools/) can be cloned and for running validation locally (note that data in this repository
-  is automatically updated based on the [language-specific lists](https://universaldependencies.org/contributing_language_specific.html#language-specific-lists-for-the-validator).
+  is automatically updated based on the [language-specific lists](/contributing/contributing_language_specific.html#language-specific-lists-for-the-validator).
 
 # Email list
 
