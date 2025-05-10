@@ -491,4 +491,4 @@ documentation, such as how to format examples).
 
 # For the maintenance crew
 
-Documentation of the infrastructure is [here](infrastructure/index.html).
+Documentation of the infrastructure is [here](/infrastructure/index.html).

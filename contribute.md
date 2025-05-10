@@ -40,4 +40,10 @@ udver: '2'
 
 # Email list
 
-Please consider subscribing to the [UD mailing list](https://lists.uu.se/sympa/info/lingfil-ud), <strong>especially if you are going to contribute data.</strong> Important announcements for the data providers are circulated through this list.
+Please consider subscribing to the [UD mailing list](https://lists.uu.se/sympa/info/lingfil-ud),
+<strong>especially if you are going to contribute data.</strong>
+Important announcements for the data providers are circulated through this list.
+
+# For the Maintenance Crew
+
+Documentation of the infrastructure is [here](/infrastructure/index.html).
