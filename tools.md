@@ -86,7 +86,7 @@ Among others, there are scripts for
 #### brat rapid annotation tool
 
 <img style="width: 40%; float:right" src="http://universaldependencies.org/img/brat.png"/>
-**brat** is a browser-based tool for text annotation. The brat [visualization](visualization.html) component is used in the [UD documentation system](https://spyysalo.github.io/annodoc/) and the tool comes with a [custom configuration](https://github.com/nlplab/brat/tree/master/configurations/Universal-Dependencies) allowing it to be used for UD annotation .
+**brat** is a browser-based tool for text annotation. The brat [visualization](/contributing/visualization.html) component is used in the [UD documentation system](https://spyysalo.github.io/annodoc/) and the tool comes with a [custom configuration](https://github.com/nlplab/brat/tree/master/configurations/Universal-Dependencies) allowing it to be used for UD annotation .
 
 * Category: manual annotation tool
 * Platform: any (browser-based)

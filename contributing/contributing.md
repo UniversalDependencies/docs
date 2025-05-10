@@ -23,13 +23,13 @@ Contents:
 Quick links:
 
 * [Markdown syntax](http://daringfireball.net/projects/markdown/syntax)
-* [Embedded visualization of dependencies](visualization.html)
+* [Embedded visualization of dependencies](/contributing/visualization.html)
 * [Release checklist](/contributing/release_checklist.html)
 
 ## Preliminaries
 
 Before starting, you may want to have a quick look at the
-[documentation and visualization system introduction](visualization.html).
+[documentation and visualization system introduction](/contributing/visualization.html).
 
 The online documentation is stored on GitHub, a service for projects
 using the Git version control system. To contribute, you need a GitHub
@@ -163,7 +163,7 @@ the following link: [u-dep/aux]()
 
 For more detail, you can see the documentation for the [Markdown
 syntax](http://daringfireball.net/projects/markdown/syntax) and
-[embedded visualizations](visualization.html). However, we believe that the
+[embedded visualizations](/contributing/visualization.html). However, we believe that the
 formats are simple enough to learn by example and by doing, and
 suggest to proceed directly to the next section (editing).
 
@@ -178,12 +178,12 @@ To get started, the only relevant parts are the large black edit area
 and the "Cancel" and "Commit changes" buttons at the bottom.
 
 To give this a quick try, click on the following link: <a
-href="https://github.com/universaldependencies/docs/edit/pages-source/sandbox.md"
+href="https://github.com/universaldependencies/docs/edit/pages-source/contributing/sandbox.md"
 target="#">edit sandbox document</a>. This opens a "sandbox" document
 in a new tab. After testing it out, feel free to either cancel without
 saving your changes, or save them into the version control system
 using the "Commit changes" button. You can see the resulting document
-[here](http://universaldependencies.org/sandbox.html)
+[here](/contributing/sandbox.html)
 (reload to see changes, and please note it may take some time for the
 changes to show up.)
 
