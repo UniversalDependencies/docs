@@ -10,25 +10,23 @@ This page describes how to contribute to these online materials documenting the 
 
 Contents:
 
-* [Preliminaries](#preliminaries)
-* [Editing](#editing)
-  - [Style guidelines](#style-guidelines)
-  - [File format](#file-format)
+* [Getting access to edit](#getting-access-to-edit)
   - [Editing online](#editing-online)
   - [Using Git](#using-git)
+  - [Non-members](#non-members)
 * [Filing issues](#filing-issues)
-* [Non-members](#non-members)
+* [Editing](#editing)
+  - [File format](#file-format)
+  - [Style guidelines](#style-guidelines)
+  - [Visualization of syntactic trees](#visualization-of-syntactic-trees)
+* [Things to avoid](#things-to-avoid)
 
-Quick links:
+Quick links to other pages:
 
 * [Markdown syntax](http://daringfireball.net/projects/markdown/syntax)
 * [Embedded visualization of dependencies](/contributing/visualization.html)
-* [Release checklist](/contributing/release_checklist.html)
 
-## Preliminaries
-
-Before starting, you may want to have a quick look at the
-[documentation and visualization system introduction](/contributing/visualization.html).
+## Getting Access to Edit
 
 The online documentation is stored on [GitHub](https://github.com/), a service for projects
 using the Git version control system. To contribute, you need a GitHub account.
@@ -159,16 +157,26 @@ however, the list is primarily meant for announcements for data maintainers.
 
 ## Editing
 
-(Note: the following instructions are for project members. If you are
-not a member, see [here](#non-members).)
+### File format
 
-To get started with editing the materials, first read the brief [style
-guidelines](#style-guidelines) and the [file
-format description](#file-format) below. Then, the easiest way to edit
-the materials is to use the [online editing features](#editing-online)
-provided by GitHub. If you prefer to use your own text editor or need
-to make larger changes, you may wish to [use the git version control
-system](#using-git) and work on the files on your own computer.
+The online documentation is generated from a simple format that largely resembles plain text.
+The format is called [Markdown](http://daringfireball.net/projects/markdown/)
+(see also [GitHub Markdown Basics](https://help.github.com/articles/markdown-basics) and
+[GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)).
+It can be mixed freely with inline HTML. The only exception is the format used for embedding
+visualizations, which is supported as an extension specific to this
+project. To embed a visualization represented in the Stanford
+Dependency format, simply wrap it in lines with `~~~ sdparse` and
+`~~~`, or, correspondingly, wrap in HTML tags `<div class="sd-parse">` and `</div>`;
+more details below.
+
+The documentation system also supports linking of pages in collections
+using a compact syntax: for example, `[u-dep/aux]()` expands into
+the following link: [u-dep/aux]()
+
+For more detail, you can see the documentation for the [Markdown
+syntax](http://daringfireball.net/projects/markdown/syntax) and
+[embedded visualizations](/contributing/visualization.html).
 
 ### Style guidelines
 
@@ -176,34 +184,45 @@ See also the <a href="/contributing/contributing_language_specific.html">guideli
 To maintain the consistency of the documentation, please follow these guidelines:
 
 * All types / labels (POS tags, feature names/values, relation labels) are in
-`constant width font`. To achieve this, use either a documentation link (see
-below), or backticks in Markdown (e.g. \`nsubj\`) or `<code>` in HTML
-(e.g. `<code>nsubj</code>`).
+  `constant width font`. To achieve this, use either a documentation link (see
+  below), or backticks in Markdown (e.g. \`nsubj\`) or `<code>` in HTML
+  (e.g. `<code>nsubj</code>`).
 * The first mention of any type other than the one that is the focus of the page
-(the titular one) is linked to the relevant page of documentation. For example,
-on the page for `nsubj`, write "\`nsubj\`" and "\[case\]()". Repeated mentions of
-the same type may be optionally be linked (if they are too far apart, it makes
-sense to hyperlink again, but it does not make sense to highlight several
-occurrences in the same paragraph)
+  (the titular one) is linked to the relevant page of documentation. For example,
+  on the page for `nsubj`, write "\`nsubj\`" and "\[case\]()". Repeated mentions of
+  the same type may be optionally be linked (if they are too far apart, it makes
+  sense to hyperlink again, but it does not make sense to highlight several
+  occurrences in the same paragraph)
 * Examples in a foreign language should be followed by an English translation, which is not italicized but it is enclosed in quotes, e.g. _der Mann_ “the man”.
   * Note that Markdown processing converts straight ASCII quotes (\") to typographic (directional) quotation marks (“”), which should be used for all quotes.
-* Examples given in a foreign script are only italicized if it is Cyrillic, Greek or Armenian. (In some scripts Italics don't look nice and the foreign script highlights the word anyway.) They should be immediately followed by a Latin-based transliteration, which is in italics. The transliteration is separated from the original script by a slash, which is not italics.
+* Examples given in a foreign script are only italicized if it is Cyrillic, Greek or Armenian.
+  (In some scripts italics don't look nice and the foreign script highlights the word anyway.)
+  They should be immediately followed by a Latin-based transliteration, which is in italics.
+  The transliteration is separated from the original script by a slash, which is not italics.
   * _Иван лучший танцор_ / _Ivan lučšij tancor_ “Ivan is the best dancer”
   * _Ο Νίκος είναι πάνω_ / _O Nikos einai panô_ “Nikos is up”
   * _Արամը ազնիվ մարդ է_ / _Aramă azniv mard é_ “Aram is an honest man”
   * राम इवान से भी बेहतर है / _rāma ivāna se bhī behatara hai_ “Ram is even better than Ivan”
 * To emphasize part of an example, use the `<b>` tag. For example, `_<b>Which</b> car_` renders as follows: _<b>Which</b> car_.
-  * To emphasize text that is not part of an example, use `_light emphasis_` (rendering as _light emphasis_) or `**heavy emphasis**` (**heavy emphasis**), but _not_ the `<b>` tag.
-* If an in-line example shall contain a verbose translation, it is also italics and without quotes, separated by the non-italics abbreviation “lit.” Multi-word expressions that correspond to one token in the original language are joined by a hyphen. The verbose translation is followed by a fluent English translation in its usual format.
+  * To emphasize text that is not part of an example, use `_light emphasis_` (rendering as _light emphasis_)
+    or `**heavy emphasis**` (**heavy emphasis**), but _not_ the `<b>` tag.
+* If an in-line example shall contain a verbose translation, it is also italics and without quotes,
+  separated by the non-italics abbreviation “lit.” Multi-word expressions that correspond to one
+  token in the original language are joined by a hyphen. The verbose translation is followed by
+  a fluent English translation in its usual format.
   * _Seděla na lavičce pod mostem._ lit. _She-sat on bench under bridge._ “She was sitting on a bench under the bridge.”
-* If it is necessary / expedient to identify the language of the example, it is either identified in plain English (such as German _ich bin gekommen_ “I have come”) or the ISO 639 language code in square brackets is used as shortcut (such as [de] _ich bin gekommen_ “I have come”).
+* If it is necessary / expedient to identify the language of the example, it is either identified in plain English
+  (such as German _ich bin gekommen_ “I have come”) or the ISO 639 language code in square brackets is used as shortcut
+  (such as [de] _ich bin gekommen_ “I have come”).
 
-### File format
+### Visualization of Syntactic Trees
 
-The online documentation is generated from a simple format that
-largely resembles plain text. Similarly, the embedded visualizations
+See also a separate page with
+[documentation and visualization system introduction](/contributing/visualization.html).
+
+The embedded visualizations
 are generated from representations in the Stanford Dependency or
-CoNLL-X formats, each of which can be created and edited manually or
+[CoNLL-U](/format.html) formats, each of which can be created and edited manually or
 copied in from the output of relevant tools.
 
 For example, the following:
@@ -254,30 +273,56 @@ is generated from this input:
     The copula *be* is not treated as the
     head of a clause, but rather the dependent of a lexical predicate, as exemplified above.
 
-The input is primarily in the
-[Markdown](http://daringfireball.net/projects/markdown/) format
-(see also [GitHub Markdown Basics](https://help.github.com/articles/markdown-basics) and
-[GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)), which
-can be mostly written like plain text and mixed freely with inline
-HTML. The only exception is the format used for embedding
-visualizations, which is supported as an extension specific to this
-project. To embed a visualization represented in the Stanford
-Dependency format, simply wrap it in lines with `~~~ sdparse` and
-`~~~`, as in the example above. (Or, correspondingly, wrap in HTML
-tags `<div class="sd-parse">` and `</div>`)
+## Things to Avoid
 
-The documentation system also supports linking of pages in collections
-using a compact syntax: for example, `[u-dep/aux]()` expands into
-the following link: [u-dep/aux]()
+There are several things you should never do although the system will not prevent you from doing them.
+Each of them results in breaking functionality of the UD infrastructure for other users! Fortunately,
+GitHub keeps the edit history and it is possible to revert damage you do by mistake; but you will be
+better liked if you avoid such mistakes.
 
-For more detail, you can see the documentation for the [Markdown
-syntax](http://daringfireball.net/projects/markdown/syntax) and
-[embedded visualizations](/contributing/visualization.html). However, we believe that the
-formats are simple enough to learn by example and by doing, and
-suggest to proceed directly to the next section (editing).
+### Do not create `AUX.md` (nor `aux.md`)
 
-## Links
+It must be possible to clone the repository on any operating system. Unfortunately, some file names
+are banned on some systems. Specifically, on Microsoft Windows, the part of the file name before the
+period (and the extension) must not be `AUX` or `aux`. You may be tempted to create `AUX.md` to document
+the [AUX]() UPOS tag or `aux.md` to document the dependency relation, and GitHub would allow you to
+do so, but do not do it – people who access GitHub from Windows would no longer be able to pull the
+updated version. The workaround we use is to add an underscore to the name (`AUX_.md` or `aux_.md`)
+and inside the MarkDown header, specify redirection so that browsers can still access the page as
+`AUX.html`
 
-* [Home page](http://universaldependencies.org/)
-* [GitHub repository](https://github.com/universaldependencies/docs)
-* [Issue tracker](https://github.com/universaldependencies/docs/issues)
+    redirect_from: "cs/pos/AUX.html"
+
+### Do not use Jekyll directives
+
+The website is built from the MarkDown sources using software called Jekyll and the source files can,
+besides plaintext, MarkDown and HTML, contain also code that will be interpreted by Jekyll. Do not
+use them. Jekyll is very fragile and if it finds a directive that it cannot fulfill, it will break.
+From that point on, the entire UD website will not be updated and will not reflect edits that you and
+other users make, until someone fixes the error.
+
+**WARNING:** If you create your pages by copying pages from another language and then editing them,
+you may encounter a Jekyll directive that other people have inserted in their page. The fact that it
+worked for them does not necessarily mean that it is safe for you to use it, too. For example, the
+following are Jekyll include directives that occur in language-specific documentation of some languages
+(here in Czech):
+
+    {% include cs-pos-table.html %}
+    {% include cs-feat-table.html %}
+    {% include cs-dep-table.html %}
+
+If you copy them to language with code `xx` and simply replace `cs` with `xx`, it will not work because
+Jekyll will not find the HTML file to be included. It will crash and the website will stop updating.
+
+Fortunately, you do not need to use this include directive that is used in old pages. You can provide
+the lists of UPOS tags, features and relations directly in the index of your
+[language-specific documentation](/contributing/contributing_language_specific.html).
+
+### Be careful with language-specific documentation
+
+Some pages in the language-specific documentation are read by the validation infrastructure.
+If you make a mistake and the validator cannot find the information it is looking for, treebanks may
+become invalid and unreleasable. This is a larger problem if your treebank is not the only treebank
+of that language: Now you are endangering other people's work.
+
+For more details, see [language-specific documentation](/contributing/contributing_language_specific.html).
