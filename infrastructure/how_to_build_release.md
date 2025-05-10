@@ -130,6 +130,7 @@ See [here](/contributing/release_checklist.html) for the checklist for data cont
   Once the two files are updated, we must commit and push them to Github of course.<br />
   <code>perl tools/survey_features.pl --tbklist released_treebanks.txt &gt; docs/survey-feats.md<br />
   perl tools/survey_deprel_subtypes.pl --tbklist released_treebanks.txt &gt; docs/survey-deprel.md<br />
+  perl tools/survey_misc.pl --tbklist released_treebanks.txt &gt; docs/survey-misc.md<br />
   cd docs ; git pull --no-edit ; git status ; git commit -a -m 'Updated list of features and relations.' ; git push ; cd ..</code>
 * Run the script `makedata.sh` in the docs repository. It will regenerate the YAML files in the folder `_data`; this is needed
   for cross-lingual links between documentation pages devoted to individual UPOS tags, features and relations.<br />
