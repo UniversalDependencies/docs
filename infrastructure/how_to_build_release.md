@@ -148,6 +148,10 @@ See [here](/contributing/release_checklist.html) for the checklist for data cont
 * Run the script <tt>tools/package_ud_release.sh</tt>, which must find the release number in the environment,
   and its arguments are names of folders to be released.<br />
   <code>RELEASE=2.16 tools/package_ud_release.sh $(cat released_treebanks.txt)</code>
+  * If there are new treebanks that have too large training data that must be split to multiple files on GitHub
+    (we know it because we had to add a new exception in the function `check_files()` in `udlib.pm`),
+    we must first edit the script `package_ud_release.sh` and make sure that these files are concatenated
+    in the release package.
   * If we later find out that we need to fix a bug in one (or a few) repository, we can update the release folder without building everything from scratch:<br />
     <code>RELEASE=2.16 tools/package_ud_release.sh --update UD_X UD_Y</code>
 * Make the release packages temporarily available for download somewhere and ask the treebank providers to check them before we archive them in Lindat.
