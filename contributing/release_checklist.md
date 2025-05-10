@@ -96,7 +96,7 @@ or exceeded; it shouldn't be difficult to reach with a translation of the exampl
 
 The `README.md` file contains basic documentation of the treebank and machine-readable metadata
 for the UD main page (see below) and the `LICENSE.txt` specifies under what license the treebank
-is made available (see also [licensing](licensing.html)).
+is made available (see also [licensing](/contributing/licensing.html)).
 The file `CONTRIBUTING.md` warns users about UD Github branch policies; this file is added when
 the repository is created and treebank maintainers do not have to care about it.
 
@@ -259,7 +259,7 @@ This block should be the last thing in the `README` file. The properties are as 
   Pick the number of the first release where this treebank appears.
   Do not change it when the treebank is released the next time.
 * `License`: anything containing the string `BY-NC-SA` will be given the CC non-commercial logo, `BY-SA` or `BY` the CC logo.
-  See also [licensing](licensing.html).
+  See also [licensing](/contributing/licensing.html).
   * `Includes text`: Most treebanks should say `yes` here. But there are a few instances where
     the license of the underlying text does not allow redistribution. Here, the UD repository
     contains only the annotation without words and lemmas, but with a merging script that the
