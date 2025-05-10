@@ -23,7 +23,9 @@ udver: '2'
   - **Language-specific documentation** pages can be modified via the **edit** link at the top of the page.
   There are also technical instructions for how to create [language-specific documentation](/contributing/contributing_language_specific.html).
 
-* **Changes to general guidelines:** [Guidelines change history](changes.html)
+* **Annotation guidelines**
+  - [Guidelines change history](changes.html)
+  - [Current guidelines](guidelines.html) (universal + language-specific)
 
 ### Contributing Data
 
