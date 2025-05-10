@@ -107,7 +107,7 @@ Total 320 values: ru_poetry (444)
 * `</se></p><p_class="date"><noindex>&lt;1905&gt;</noindex></p>`: ru_poetry (1)
 * `</se></p><p_class="date"><noindex>&lt;1907&gt;</noindex></p>`: ru_poetry (1)
 * `</se></p><p_class="date"><noindex>&lt;1908&gt;</noindex></p>`: ru_poetry (2)
-* `</se></p><p_class=...`: 
+* …
 
 ## </se><br/>.......................................<br/>....................................</p><p_class
 
@@ -245,7 +245,7 @@ Total 140559 values: arh_chibergis (3677), bej_autogramm (11944), fr_parisstorie
 * `AlignBegin=100107`: arh_chibergis (1), gya_autogramm (1)
 * `AlignBegin=100109`: pcm_nsc (1)
 * `AlignBegin=100110`: pcm_nsc (1)
-* `AlignBegin=...`: 
+* …
 
 ## AlignEnd
 
@@ -301,7 +301,7 @@ Total 138295 values: arh_chibergis (3677), bej_autogramm (11944), fr_parisstorie
 * `AlignEnd=100112`: fr_parisstories (2)
 * `AlignEnd=100119`: pcm_nsc (2)
 * `AlignEnd=10012`: say_autogramm (1)
-* `AlignEnd=...`: 
+* …
 
 ## Alomorph
 
@@ -364,7 +364,7 @@ Total 320 values: fi_ftb (5807)
 * `Alt=13_discourse`: fi_ftb (2)
 * `Alt=13_dobj`: fi_ftb (2)
 * `Alt=13_expl`: fi_ftb (28)
-* `Alt=...`: 
+* …
 
 ## AltTag
 
@@ -446,7 +446,7 @@ Total 560 values: ess_sli (2568)
 * `Analysis=[2Pl]`: ess_sli (3)
 * `Analysis=[2Sg.1Du]`: ess_sli (1)
 * `Analysis=[2Sg.1Sg]`: ess_sli (6)
-* `Analysis=...`: 
+* …
 
 ## Animacy[psor]
 
@@ -525,7 +525,7 @@ Total 1764 values: et_edt (57701)
 * `Arg=arvama_Arg_1`: et_edt (225)
 * `Arg=arvama_Arg_3`: et_edt (12)
 * `Arg=arvama_Arg_xarg`: et_edt (4)
-* `Arg=...`: 
+* …
 
 ## ArgTem
 
@@ -581,7 +581,7 @@ Total 114 values: ca_ancora (99808), es_ancora (127180)
 * `ArgTem=arg2:,arg2:atr`: es_ancora (2)
 * `ArgTem=arg2:,arg2:efi`: es_ancora (1)
 * `ArgTem=arg2:,argM:adv`: es_ancora (1)
-* `ArgTem=...`: 
+* …
 
 ## ArgumentOrder
 
@@ -645,7 +645,7 @@ Total 326 values: fr_parisstories (9), fr_rhapsodie (310), ha_southernautogramm 
 * `AttachTo=17@Rhap_D0009-69`: fr_rhapsodie (1)
 * `AttachTo=17@Rhap_D2001-128`: fr_rhapsodie (1)
 * `AttachTo=18@Rhap_D0001-4`: fr_rhapsodie (1)
-* `AttachTo=...`: 
+* …
 
 ## Auge
 
@@ -830,7 +830,7 @@ Total 35078 values: cs_pdtc (33453), en_gentle (58), en_gum (2005), en_gumreddit
 * `Bridge=106<132`: en_gum (1)
 * `Bridge=106<139`: en_gum (1)
 * `Bridge=107<108`: en_gum (2)
-* `Bridge=...`: 
+* …
 
 ## Bug
 
@@ -926,7 +926,7 @@ Total 306 values: mdf_jr (1183), myv_jr (3405), sms_giellagas (27)
 * `CGdephead=#12-&gt;13`: mdf_jr (2), myv_jr (6)
 * `CGdephead=#12-&gt;14`: mdf_jr (1), myv_jr (2)
 * `CGdephead=#12-&gt;15`: myv_jr (1)
-* `CGdephead=...`: 
+* …
 
 ## CGdeprel
 
@@ -982,7 +982,7 @@ Total 63 values: mdf_jr (1183), myv_jr (3405), sms_giellagas (27)
 * `CGdeprel=@IAUX`: mdf_jr (12), myv_jr (2)
 * `CGdeprel=@IMV`: mdf_jr (37), myv_jr (102), sms_giellagas (2)
 * `CGdeprel=@INTERJ`: mdf_jr (5), myv_jr (11)
-* `CGdeprel=...`: 
+* …
 
 ## CSID
 
@@ -1048,7 +1048,7 @@ Total 508 values: qtd_sagt (433), qti_butr (6), tt_nmctt (167)
 * `CSPoint=Bodensee§'ye`: qtd_sagt (2)
 * `CSPoint=Bondorf§'da`: qtd_sagt (1)
 * `CSPoint=Bonn§'a`: qtd_sagt (1)
-* `CSPoint=...`: 
+* …
 
 ## CSType
 
@@ -1204,7 +1204,7 @@ Total 99 values: hi_hdtb (351704), ur_udtb (138077)
 * `ChunkId=NP3`: hi_hdtb (36778), ur_udtb (11828)
 * `ChunkId=NP30`: hi_hdtb (9), ur_udtb (11)
 * `ChunkId=NP31`: hi_hdtb (5), ur_udtb (15)
-* `ChunkId=...`: 
+* …
 
 ## ChunkType
 
@@ -1296,7 +1296,7 @@ Total 70 values: he_iahltknesset (2), he_iahltwiki (149), it_old (2796)
 * `Comment=ne-l`: it_old (342)
 * `Comment=ne-lla`: it_old (1)
 * `Comment=nmod:desc`: he_iahltwiki (86)
-* `Comment=...`: 
+* …
 
 ## ComposedUDPOS
 
@@ -1352,7 +1352,7 @@ Total 62 values: qaf_arabizi (19793)
 * `ComposedUDPOS=PROPN+PRON`: qaf_arabizi (234)
 * `ComposedUDPOS=PROPN+PROPN`: qaf_arabizi (2)
 * `ComposedUDPOS=PUNCT`: qaf_arabizi (251)
-* `ComposedUDPOS=...`: 
+* …
 
 ## Contraction
 
@@ -1450,7 +1450,7 @@ Total 5764 values: azz_itml (1), bar_maibaam (6), de_gsd (63), de_hdt (13), el_l
 * `CorrectForm=...`: lv_lvtb (1)
 * `CorrectForm=1,3-1,5`: et_edt (1)
 * `CorrectForm=10.`: et_ewt (1)
-* `CorrectForm=...`: lv_lvtb (1)
+* …
 
 ## CorrectGender
 
@@ -1514,7 +1514,7 @@ Total 93 values: cs_pdtc (221), gd_arcosg (9), yrl_complin (1)
 * `CorrectLemma=kdo`: cs_pdtc (1)
 * `CorrectLemma=když`: cs_pdtc (1)
 * `CorrectLemma=kein`: cs_pdtc (1)
-* `CorrectLemma=...`: 
+* …
 
 ## CorrectMood
 
@@ -1692,7 +1692,7 @@ Total 245 values: cop_bohairic (129), cop_scriptorium (426), de_hdt (12041), en_
 * `Cxn=Conditional-NeutralEpistemic,Resultative`: zh_hk (1)
 * `Cxn=Conditional-Reduced`: de_hdt (18)
 * `Cxn=Conditional-Reduced,Conditional-SubjVerbInversion`: de_hdt (1)
-* `Cxn=...`: 
+* …
 
 ## CxnElt
 
@@ -1748,7 +1748,7 @@ Total 2762 values: cop_bohairic (237), cop_scriptorium (745), de_hdt (15980), en
 * `CxnElt=10:Conditional-UnspecifiedEpistemic.Apodosis,1:Interrogative-Polar-Direct.WHWord`: cop_scriptorium (1)
 * `CxnElt=10:Conditional-UnspecifiedEpistemic.Protasis`: cop_bohairic (1), cop_scriptorium (4)
 * `CxnElt=10:Ditransitive.Rec`: en_gentle (3), en_gum (15), en_gumreddit (1)
-* `CxnElt=...`: 
+* …
 
 ## CycleHead
 
@@ -1944,7 +1944,7 @@ Total 1926 values: ota_dudu (110), tr_boun (5176)
 * `DerivedFrom=Ceneviz`: tr_boun (1)
 * `DerivedFrom=DYP`: tr_boun (1)
 * `DerivedFrom=Dalga`: tr_boun (1)
-* `DerivedFrom=...`: 
+* …
 
 ## Disambiguation
 
@@ -2023,7 +2023,7 @@ Total 32210 values: en_gentle (2716), en_gum (30165), en_gumreddit (2263)
 * `Discourse=ROOT:37:0`: en_gum (3)
 * `Discourse=ROOT:38:0`: en_gum (2)
 * `Discourse=ROOT:39:0`: en_gum (2)
-* `Discourse=...`: 
+* …
 
 ## DislocateHead
 
@@ -2151,7 +2151,7 @@ Total 1469 values: lt_hse (5356)
 * `En=Audenas`: lt_hse (1)
 * `En=BM`: lt_hse (6)
 * `En=BNS`: lt_hse (1)
-* `En=...`: 
+* …
 
 ## End
 
@@ -2207,7 +2207,7 @@ Total 799 values: orv_rnc (42455)
 * `End=ЯА`: orv_rnc (6)
 * `End=ЯАМЕ`: orv_rnc (1)
 * `End=ЯИ`: orv_rnc (2)
-* `End=...`: 
+* …
 
 ## Enhanced
 
@@ -2275,7 +2275,7 @@ Total 631143 values: ca_ancora (155319), cop_bohairic (3744), cop_scriptorium (1
 * `Entity=(1-abstract-giv:act-sssss-cf1-1-coref)`: en_gentle (5), en_gum (1), en_gumreddit (1)
 * `Entity=(1-abstract-giv:act-sssss-cf1-2-coref-Chymical_Wedding_of_Christian_Rosenkreutz`: en_gum (1)
 * `Entity=(1-abstract-giv:act-sssss-cf1-3-coref`: en_gumreddit (1)
-* `Entity=...`: 
+* …
 
 ## Epithesis
 
@@ -2484,7 +2484,7 @@ Total 345 values: ga_twittirish (45), it_postwita (12), pt_dantestocks (1487)
 * `FullForm=Pesquisa`: pt_dantestocks (1)
 * `FullForm=Petrobras`: pt_dantestocks (2)
 * `FullForm=QUEM`: pt_dantestocks (2)
-* `FullForm=...`: 
+* …
 
 ## FullForn
 
@@ -2559,7 +2559,7 @@ Total 7757 values: cs_pdtc (1932873)
 * `Functor=0:MEANS`: cs_pdtc (87)
 * `Functor=0:MOD`: cs_pdtc (387)
 * `Functor=0:OPER`: cs_pdtc (1)
-* `Functor=...`: 
+* …
 
 ## GE
 
@@ -2615,7 +2615,7 @@ Total 743 values: arh_chibergis (3073), gya_autogramm (577), ha_northernautogram
 * `GE=[ADJZ]`: sab_chibergis (8)
 * `GE=[ANTIC]`: arh_chibergis (4)
 * `GE=[AUX]`: arh_chibergis (14)
-* `GE=...`: 
+* …
 
 ## GTtags
 
@@ -2671,7 +2671,7 @@ Total 3169 values: apu_ufpa (76), koi_uh (753), kpv_ikdp (843), kpv_lattice (409
 * `GTtags=Adv,Iter,Clt/Add`: myv_jr (1)
 * `GTtags=Adv,Manner,Clt/сӧ`: kpv_ikdp (1)
 * `GTtags=Adv,Manner,Interr`: kpv_lattice (3)
-* `GTtags=...`: 
+* …
 
 ## Gen
 
@@ -2727,7 +2727,7 @@ Total 223 values: fi_ood (519)
 * `Gen=Rintakehän`: fi_ood (1)
 * `Gen=Rintaontelodreenin`: fi_ood (1)
 * `Gen=Rintaontelolaskuputken`: fi_ood (1)
-* `Gen=...`: 
+* …
 
 ## Gen_desc
 
@@ -2850,7 +2850,7 @@ Total 2885 values: bar_maibaam (15028)
 * `GermanLemma=1848`: bar_maibaam (1)
 * `GermanLemma=1850`: bar_maibaam (1)
 * `GermanLemma=1852`: bar_maibaam (1)
-* `GermanLemma=...`: bar_maibaam (6)
+* …
 
 ## Glass
 
@@ -2912,7 +2912,7 @@ Total 32560 values: abq_atb (652), aii_as (6), ang_cairo (171), ar_padt (242287)
 * `Gloss=+G=down;-+A=according-to`: grc_ptnk (10)
 * `Gloss=+G=from;-+D=before;-+A=beside,along`: grc_ptnk (55)
 * `Gloss=+G=through,by;-+A=because-of`: grc_ptnk (44)
-* `Gloss=...`: oc_ttb (2)
+* …
 
 ## Gloss[eng]
 
@@ -2968,7 +2968,7 @@ Total 198 values: mdf_jr (8), myv_jr (270)
 * `Gloss[eng]=cover`: myv_jr (1)
 * `Gloss[eng]=dark`: myv_jr (1)
 * `Gloss[eng]=day`: myv_jr (1)
-* `Gloss[eng]=...`: 
+* …
 
 ## Gnder
 
@@ -3030,7 +3030,7 @@ Total 5587 values: sl_sst (48321)
 * `Gos2.1_seg_id=Artur-J-Gvecg-P500001.s731`: sl_sst (4)
 * `Gos2.1_seg_id=Artur-J-Gvecg-P500001.s732`: sl_sst (1)
 * `Gos2.1_seg_id=Artur-J-Gvecg-P500001.s733`: sl_sst (4)
-* `Gos2.1_seg_id=...`: 
+* …
 
 ## Gos2.1_token_id
 
@@ -3086,7 +3086,7 @@ Total 85660 values: sl_sst (85661)
 * `Gos2.1_token_id=Artur-J-Gvecg-P500001.tok4537`: sl_sst (1)
 * `Gos2.1_token_id=Artur-J-Gvecg-P500001.tok4538`: sl_sst (1)
 * `Gos2.1_token_id=Artur-J-Gvecg-P500001.tok4539`: sl_sst (1)
-* `Gos2.1_token_id=...`: 
+* …
 
 ## Gqloss[neg]
 
@@ -3181,7 +3181,7 @@ Total 4062 values: egy_ujaen (21466)
 * `Hiero=(𓂋:𓂧)𓂾`: egy_ujaen (9)
 * `Hiero=(𓂋:𓂧)𓂾𓂾`: egy_ujaen (5)
 * `Hiero=(𓂋:𓆑)`: egy_ujaen (1)
-* `Hiero=...`: 
+* …
 
 ## Hierocl
 
@@ -3262,7 +3262,7 @@ Total 100 values: ang_cairo (171)
 * `Hyperlemma=it`: ang_cairo (4)
 * `Hyperlemma=little`: ang_cairo (1)
 * `Hyperlemma=look`: ang_cairo (1)
-* `Hyperlemma=...`: 
+* …
 
 ## IFD_tag
 
@@ -3318,7 +3318,7 @@ Total 570 values: is_icepahc (906530), is_modern (78316)
 * `IFD_tag=fakfþ`: is_icepahc (533), is_modern (26)
 * `IFD_tag=favee`: is_icepahc (193), is_modern (7)
 * `IFD_tag=faven`: is_icepahc (896), is_modern (73)
-* `IFD_tag=...`: is_icepahc (17)
+* …
 
 ## INT-
 
@@ -3380,7 +3380,7 @@ Total 122750 values: uk_iu (122750)
 * `Id=001g`: uk_iu (1)
 * `Id=001h`: uk_iu (1)
 * `Id=001j`: uk_iu (1)
-* `Id=...`: 
+* …
 
 ## Ideophon
 
@@ -3542,7 +3542,7 @@ Total 11976 values: cs_cac (39703), cs_cltt (269), cs_fictree (357), cs_pdtc (19
 * `LDeriv=Arcand`: cs_pdtc (1)
 * `LDeriv=Arcybašev`: cs_pdtc (1)
 * `LDeriv=Ariadna`: cs_cac (1)
-* `LDeriv=...`: 
+* …
 
 ## LGloss
 
@@ -3598,7 +3598,7 @@ Total 2885 values: cs_cac (37268), cs_cltt (1232), cs_pdtc (175743), cs_pud (136
 * `LGloss=(Federální_shromáždění)`: cs_cac (7)
 * `LGloss=(Frente_Sandinista_de_Liberación_Nacional)`: cs_pud (1)
 * `LGloss=(General_Agreement_on_Tariff_and_Trade)`: cs_pdtc (20)
-* `LGloss=...`: 
+* …
 
 ## LId
 
@@ -3654,7 +3654,7 @@ Total 23019 values: ar_pud (18214), cs_cac (82548), cs_cltt (7491), cs_pdtc (705
 * `LId=AEW-88`: cs_pdtc (4)
 * `LId=AFIS-1`: cs_pdtc (1)
 * `LId=AFL-88`: cs_pdtc (5)
-* `LId=...`: 
+* …
 
 ## LId[SDBH]
 
@@ -3710,7 +3710,7 @@ Total 3606 values: hbo_ptnk (39383)
 * `LId[SDBH]=000114001002000`: hbo_ptnk (10)
 * `LId[SDBH]=000117001001000`: hbo_ptnk (159)
 * `LId[SDBH]=000121001001000`: hbo_ptnk (1)
-* `LId[SDBH]=...`: 
+* …
 
 ## LId[Strongs]
 
@@ -3766,7 +3766,7 @@ Total 2802 values: hbo_ptnk (71391)
 * `LId[Strongs]=1200`: hbo_ptnk (1)
 * `LId[Strongs]=121`: hbo_ptnk (6)
 * `LId[Strongs]=1210`: hbo_ptnk (2)
-* `LId[Strongs]=...`: 
+* …
 
 ## LLang
 
@@ -3877,7 +3877,7 @@ Total 91 values: cs_cac (2654), cs_pdtc (39523), cs_pud (185)
 * `LNumValue=4`: cs_cac (105), cs_pdtc (1460), cs_pud (11)
 * `LNumValue=40`: cs_cac (11), cs_pdtc (158), cs_pud (1)
 * `LNumValue=4000000000`: cs_pdtc (3)
-* `LNumValue=...`: 
+* …
 
 ## LOC
 
@@ -3940,7 +3940,7 @@ Total 156 values: ja_bccwj (1253903)
 * `LPOS=140`: ja_bccwj (1)
 * `LPOS=141`: ja_bccwj (1)
 * `LPOS=142`: ja_bccwj (1)
-* `LPOS=...`: 
+* …
 
 ## LTranslit
 
@@ -3996,7 +3996,7 @@ Total 246375 values: am_att (9998), ar_padt (242440), bho_bhtb (6665), bn_bru (3
 * `LTranslit='adärägə`: am_att (2)
 * `LTranslit='adäräsə`: am_att (1)
 * `LTranslit='adärəgə`: am_att (5)
-* `LTranslit=...`: hi_hdtb (2), hy_armtdp (227), hy_bsut (29), hyw_armtdp (286), ko_gsd (31), ko_pud (1), ml_ufal (1), th_pud (3), ug_udt (5), uk_iu (130), zh_cfl (1), zh_pud (1)
+* …
 
 ## LUWBILabel
 
@@ -4059,7 +4059,7 @@ Total 110 values: ja_gsd (193654), ja_pud (28788)
 * `LUWPOS=動詞-一般-上一段-カ行`: ja_gsd (461), ja_pud (52)
 * `LUWPOS=動詞-一般-上一段-ガ行`: ja_gsd (44), ja_pud (13)
 * `LUWPOS=動詞-一般-上一段-ザ行`: ja_gsd (25), ja_pud (7)
-* `LUWPOS=...`: 
+* …
 
 ## LVC
 
@@ -4219,7 +4219,7 @@ Total 771 values: en_gumreddit (16364)
 * `Lem=admit`: en_gumreddit (2)
 * `Lem=advantage`: en_gumreddit (1)
 * `Lem=affect`: en_gumreddit (1)
-* `Lem=...`: 
+* …
 
 ## LemmaId
 
@@ -4275,7 +4275,7 @@ Total 14046 values: sa_vedic (206440)
 * `LemmaId=100574`: sa_vedic (28)
 * `LemmaId=10058`: sa_vedic (3)
 * `LemmaId=100602`: sa_vedic (5)
-* `LemmaId=...`: 
+* …
 
 ## Len
 
@@ -4434,7 +4434,7 @@ Total 329717 values: ltg_cairo (170), lv_cairo (168), lv_lvtb (329596)
 * `LvtbNodeId=a-c1-p16s2w6`: lv_lvtb (1)
 * `LvtbNodeId=a-c1-p16s2w7`: lv_lvtb (1)
 * `LvtbNodeId=a-c1-p16s2w8`: lv_lvtb (1)
-* `LvtbNodeId=...`: 
+* …
 
 ## MGloss
 
@@ -4490,7 +4490,7 @@ Total 3167 values: bej_autogramm (2347), el_cretan (64), el_lesbian (70), gwi_tu
 * `MGloss=1PL-reimburse\IPFV`: bej_autogramm (1)
 * `MGloss=1PL-say\IPFV`: bej_autogramm (9)
 * `MGloss=1PL-say\PFV`: bej_autogramm (2)
-* `MGloss=...`: 
+* …
 
 ## MSeg
 
@@ -4546,7 +4546,7 @@ Total 23339 values: bej_autogramm (2347), cop_bohairic (912), cop_scriptorium (1
 * `MSeg=1920-년-에`: ko_littleprince (1)
 * `MSeg=1980-s`: en_gum (3)
 * `MSeg=2-까지`: ko_pud (1)
-* `MSeg=...`: 
+* …
 
 ## MWE
 
@@ -4602,7 +4602,7 @@ Total 18683 values: ca_ancora (25444), egy_ujaen (324), es_ancora (18952), es_co
 * `MWE=0,80_%`: ca_ancora (1)
 * `MWE=0,81_por_ciento`: es_ancora (1)
 * `MWE=0,85_por_ciento`: es_ancora (1)
-* `MWE=...`: 
+* …
 
 ## MWEEnd
 
@@ -4790,7 +4790,7 @@ Total 197 values: en_ewt (6), gd_arcosg (8), mdf_jr (8), myv_jr (49), vi_tuecl (
 * `ModernForm=amunú`: yrl_complin (1)
 * `ModernForm=amupiririka`: yrl_complin (1)
 * `ModernForm=amupú`: yrl_complin (2)
-* `ModernForm=...`: 
+* …
 
 ## ModernFrom
 
@@ -4965,7 +4965,7 @@ Total 19874 values: bm_crb (1493), bxr_bdt (113), id_gsd (121814), nhi_itml (106
 * `Morf=ESCUELA`: nhi_itml (2)
 * `Morf=ESPAÑOLES`: nhi_itml (1)
 * `Morf=EVERARDO`: nhi_itml (3)
-* `Morf=...`: 
+* …
 
 ## MorphSynC
 
@@ -5244,7 +5244,7 @@ Total 4577 values: orv_rnc (12406)
 * `Norm="7206"`: orv_rnc (2)
 * `Norm="73"`: orv_rnc (1)
 * `Norm="75"`: orv_rnc (1)
-* `Norm=...`: orv_rnc (2)
+* …
 
 ## NormalizedForm
 
@@ -5300,7 +5300,7 @@ Total 4222 values: azz_itml (10088), nhi_itml (10119)
 * `NormalizedForm=Ait`: azz_itml (1)
 * `NormalizedForm=Akin`: azz_itml (2)
 * `NormalizedForm=Alfaro`: azz_itml (1)
-* `NormalizedForm=...`: azz_itml (15), nhi_itml (8)
+* …
 
 ## NormalizedLemma
 
@@ -5356,7 +5356,7 @@ Total 1416 values: nhi_itml (10120)
 * `NormalizedLemma=alahero`: nhi_itml (1)
 * `NormalizedLemma=alarma`: nhi_itml (1)
 * `NormalizedLemma=ale`: nhi_itml (1)
-* `NormalizedLemma=...`: nhi_itml (6)
+* …
 
 ## NotInInput
 
@@ -5524,7 +5524,7 @@ Total 205735 values: sa_vedic (206440)
 * `OccId=1234405`: sa_vedic (1)
 * `OccId=1234406`: sa_vedic (1)
 * `OccId=1234407`: sa_vedic (1)
-* `OccId=...`: 
+* …
 
 ## Orig
 
@@ -5580,7 +5580,7 @@ Total 4390 values: cop_bohairic (2037), cop_scriptorium (12611), cpg_amgic (28),
 * `Orig=Ihcuac`: nhi_itml (1)
 * `Orig=Ijkwak`: nhi_itml (3)
 * `Orig=Ijkwakon`: nhi_itml (4)
-* `Orig=...`: nhi_itml (3)
+* …
 
 ## Orig:Lang
 
@@ -5717,7 +5717,7 @@ Total 1009 values: fa_perdt (72803), fa_seraji (12578), ko_gsd (125), ko_kaist (
 * `OrigLemma=باخت#باز`: fa_perdt (18), fa_seraji (1)
 * `OrigLemma=بارید#بار`: fa_perdt (25)
 * `OrigLemma=باز#آفرید`: fa_perdt (8)
-* `OrigLemma=...`: 
+* …
 
 ## OrigLng
 
@@ -5817,7 +5817,7 @@ Total 102 values: es_coser (170)
 * `Ortho=estaba`: es_coser (1)
 * `Ortho=estado`: es_coser (1)
 * `Ortho=estuvo`: es_coser (1)
-* `Ortho=...`: 
+* …
 
 ## Outer
 
@@ -5879,7 +5879,7 @@ Total 598 values: fr_rhapsodie (2940), ha_southernautogramm (39)
 * `Overlap=Rhap_D0001-27bis`: fr_rhapsodie (6)
 * `Overlap=Rhap_D0001-27quater`: fr_rhapsodie (2)
 * `Overlap=Rhap_D0001-27quinquies`: fr_rhapsodie (3)
-* `Overlap=...`: 
+* …
 
 ## PDTB
 
@@ -5935,7 +5935,7 @@ Total 15272 values: en_gentle (846), en_gum (13351), en_gumreddit (1085)
 * `PDTB=AltLex:Contingency.Cause.Result:will result in:728-730:719-726:727,731-734`: en_gum (1)
 * `PDTB=AltLex:Contingency.Condition.Arg2-as-cond:provided:593:579-590:591-592`: en_gum (1)
 * `PDTB=AltLex:Contingency.Condition.Arg2-as-cond:provided:743:731-740:741-742,744-746`: en_gum (1)
-* `PDTB=...`: 
+* …
 
 ## PUDL
 
@@ -6235,7 +6235,7 @@ Total 376 values: arh_chibergis (3072), bej_autogramm (10681), gya_autogramm (26
 * `RX=MMOD`: gya_autogramm (1)
 * `RX=MN`: gya_autogramm (67)
 * `RX=MOD`: gya_autogramm (40)
-* `RX=...`: 
+* …
 
 ## ReconstructedLemma
 
@@ -6310,7 +6310,7 @@ Total 18586 values: hbo_ptnk (90770), ro_nonstandard (317709), xpg_kul (1687), y
 * `Ref=ACTS_10.11.content`: ro_nonstandard (12)
 * `Ref=ACTS_10.12`: ro_nonstandard (22)
 * `Ref=ACTS_10.13`: ro_nonstandard (15)
-* `Ref=...`: 
+* …
 
 ## Ref[BHSA]
 
@@ -6366,7 +6366,7 @@ Total 71413 values: hbo_ptnk (71463)
 * `Ref[BHSA]=1004`: hbo_ptnk (1)
 * `Ref[BHSA]=10040`: hbo_ptnk (1)
 * `Ref[BHSA]=10041`: hbo_ptnk (1)
-* `Ref[BHSA]=...`: 
+* …
 
 ## Ref[MACULA]
 
@@ -6422,7 +6422,7 @@ Total 78954 values: hbo_ptnk (78954)
 * `Ref[MACULA]=o010010040071`: hbo_ptnk (1)
 * `Ref[MACULA]=o010010040072`: hbo_ptnk (1)
 * `Ref[MACULA]=o010010040081`: hbo_ptnk (1)
-* `Ref[MACULA]=...`: 
+* …
 
 ## Reflexive
 
@@ -6553,7 +6553,7 @@ Total 705 values: ro_nonstandard (3782)
 * `Rhyme=ID10,19`: ro_nonstandard (3)
 * `Rhyme=ID10,21`: ro_nonstandard (2)
 * `Rhyme=ID11`: ro_nonstandard (146)
-* `Rhyme=...`: 
+* …
 
 ## Root
 
@@ -6609,7 +6609,7 @@ Total 3237 values: aii_as (37), ang_cairo (164), ar_padt (242870)
 * `Root=' n q`: ar_padt (2)
 * `Root=' n s`: ar_padt (108)
 * `Root=' n y`: ar_padt (10)
-* `Root=...`: 
+* …
 
 ## SENSE
 
@@ -6751,7 +6751,7 @@ Total 52 values: ajp_madar (98), be_hse (840), bho_bhtb (447), bor_bdt (9659), c
 * `SpacesAfter=\s\s\s`: fi_ood (7), ru_taiga (6)
 * `SpacesAfter=\s\s\s\s\n`: fi_ood (1)
 * `SpacesAfter=\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s`: ga_twittirish (1)
-* `SpacesAfter=...`: 
+* …
 
 ## SpacesBefore
 
@@ -6839,7 +6839,7 @@ Total 656 values: ca_ancora (184), en_gentle (8), en_gum (164), en_gumreddit (6)
 * `SplitAnte=16<35,23<35,27<35`: en_gum (1)
 * `SplitAnte=16<85,42<85`: en_gum (1)
 * `SplitAnte=174<182,180<182`: en_gum (1)
-* `SplitAnte=...`: 
+* …
 
 ## SplitAnte[1]
 
@@ -7272,7 +7272,7 @@ Total 2271 values: cpg_tuecl (3), ota_boun (616), ru_taiga (23), yrl_complin (21
 * `TokenRange=102:113`: yrl_complin (1)
 * `TokenRange=1036:1044`: ota_boun (1)
 * `TokenRange=103:104`: yrl_complin (5)
-* `TokenRange=...`: 
+* …
 
 ## TokenType
 
@@ -7339,7 +7339,7 @@ Total 96 values: zh_beginner (16826)
 * `Tone=3`: zh_beginner (2845)
 * `Tone=3_1`: zh_beginner (295)
 * `Tone=3_1_1`: zh_beginner (2)
-* `Tone=...`: 
+* …
 
 ## Top
 
@@ -7460,7 +7460,7 @@ Total 368052 values: am_att (10010), ar_padt (282382), bho_bhtb (6665), bn_bru (
 * `Translit='1`: hi_hdtb (30)
 * `Translit='2`: hi_hdtb (23)
 * `Translit='Ya`: th_pud (1)
-* `Translit=...`: hi_hdtb (2), hy_armtdp (227), hy_bsut (29), hyw_armtdp (286), ka_glc (5), ko_gsd (31), ko_pud (1), ml_ufal (1), or_odtb (1), te_mtg (7), th_pud (3), ug_udt (5), uk_iu (130), zh_cfl (1), zh_pud (1)
+* …
 
 ## Trunc
 
@@ -7543,7 +7543,7 @@ Total 219845 values: ja_bccwj (1253903), ja_bccwjluw (995632)
 * `UI=100038`: ja_bccwj (1), ja_bccwjluw (1)
 * `UI=100039`: ja_bccwj (1), ja_bccwjluw (1)
 * `UI=10004`: ja_bccwj (8), ja_bccwjluw (6)
-* `UI=...`: 
+* …
 
 ## Uncertain
 
@@ -7605,7 +7605,7 @@ Total 84537 values: ja_gsd (193654), ja_gsdluw (150243), ja_pud (28788), ja_pudl
 * `UnidicInfo=,-,-,-,,,,,エーキューティーアイニガタクリッパーハツバイ,AQTI-2型クリッパー発売`: ja_gsd (1)
 * `UnidicInfo=,-,-,-,,,,,エーティーエックス,AT-X`: ja_gsd (1)
 * `UnidicInfo=,-,-,-,,,,,オーエムケービーマールスセイターボプロップエンジンジーティーディーゴゴゼロエーエス,OMKB「マールス」製ターボプロップエンジンGTD-550AS`: ja_gsd (1)
-* `UnidicInfo=...`: 
+* …
 
 ## Uninflect
 
@@ -7702,7 +7702,7 @@ Total 35854 values: sa_vedic (206440)
 * `Unsandhied=abhibhūyāya`: sa_vedic (1)
 * `Unsandhied=abhibhūḥ`: sa_vedic (3)
 * `Unsandhied=abhicakṣaṇam`: sa_vedic (1)
-* `Unsandhied=...`: 
+* …
 
 ## VClass
 
@@ -7781,7 +7781,7 @@ Total 848 values: et_edt (36785), pt_dantestocks (1)
 * `Verb=avama`: et_edt (86)
 * `Verb=avanema`: et_edt (22)
 * `Verb=avastama`: et_edt (55)
-* `Verb=...`: 
+* …
 
 ## VerbForm
 
@@ -7857,7 +7857,7 @@ Total 160 values: it_old (101375)
 * `Verso=141`: it_old (446)
 * `Verso=142`: it_old (412)
 * `Verso=143`: it_old (297)
-* `Verso=...`: 
+* …
 
 ## Vform
 
@@ -7913,7 +7913,7 @@ Total 34794 values: ar_padt (282382)
 * `Vform=38،3`: ar_padt (1)
 * `Vform=39،56`: ar_padt (1)
 * `Vform=3،0`: ar_padt (1)
-* `Vform=...`: 
+* …
 
 ## Vib
 
@@ -7969,7 +7969,7 @@ Total 955 values: hi_hdtb (191980), ur_udtb (76381)
 * `Vib=0_का_तरह`: hi_hdtb (63)
 * `Vib=0_का_तर्ज_पर`: hi_hdtb (1)
 * `Vib=0_का_तहत`: hi_hdtb (1)
-* `Vib=...`: 
+* …
 
 ## Voice
 
@@ -8038,7 +8038,7 @@ Total 65 values: fi_ftb (1134)
 * `Was18=punct:18:case`: fi_ftb (14)
 * `Was18=punct:19:case`: fi_ftb (10)
 * `Was18=punct:20:case`: fi_ftb (6)
-* `Was18=...`: 
+* …
 
 ## Was18X
 
@@ -8221,7 +8221,7 @@ Total 949 values: gya_autogramm (366), pay_chibergis (2507)
 * `Word=akri`: pay_chibergis (1)
 * `Word=akui`: pay_chibergis (1)
 * `Word=akuk`: pay_chibergis (1)
-* `Word=...`: 
+* …
 
 ## WordForm_2
 
@@ -8289,7 +8289,7 @@ Total 3078 values: sa_vedic (14246)
 * `WordSem=100672`: sa_vedic (1)
 * `WordSem=100677`: sa_vedic (8)
 * `WordSem=100691`: sa_vedic (1)
-* `WordSem=...`: 
+* …
 
 ## XML
 
@@ -8345,7 +8345,7 @@ Total 3115 values: en_gentle (1440), en_gum (11901), en_gumreddit (537)
 * `XML=</w></sic></ref>`: en_gum (1)
 * `XML=</w></time>`: en_gum (1)
 * `XML=<add>`: en_gum (6)
-* `XML=...`: 
+* …
 
 ## XmlId
 
@@ -8401,7 +8401,7 @@ Total 306228 values: frm_profiterole (68452), fro_profiterole (237776)
 * `XmlId=w151_00051`: fro_profiterole (1)
 * `XmlId=w151_00053`: fro_profiterole (1)
 * `XmlId=w151_00054`: fro_profiterole (1)
-* `XmlId=...`: 
+* …
 
 ## Xtra
 
@@ -8463,7 +8463,7 @@ Total 14822 values: ab_abnc (9647), akk_riao (17559), aqz_tudet (29), ar_padt (5
 * `_=****=`: it_postwita (1)
 * `_=,`: ota_boun (508)
 * `_=-`: ga_twittirish (1), gd_arcosg (1), nds_lsdc (1), ota_boun (31)
-* `_=...`: ota_boun (47)
+* …
 
 ## _<w misc
 
@@ -8558,7 +8558,7 @@ Total 4335 values: orv_birchbark (23114), orv_ruthenian (302)
 * `addr="008:2"`: orv_birchbark (6)
 * `addr="008:3"`: orv_birchbark (9)
 * `addr="009:1"`: orv_birchbark (8)
-* `addr=...`: 
+* …
 
 ## after
 
@@ -8614,7 +8614,7 @@ Total 52 values: orv_rnc (7), orv_ruthenian (345), ru_poetry (2693), ru_taiga (2
 * `after=</se><br/>`: ru_poetry (3)
 * `after=<br/>`: ru_poetry (2380)
 * `after=<noindex>&lt;...&gt;</noindex></se></p><p_class="date"><noindex>1898</noindex></p>`: ru_poetry (1)
-* `after=...`: 
+* …
 
 ## after:line_id
 
@@ -8796,7 +8796,7 @@ Total 1050 values: orv_rnc (8), orv_ruthenian (331), ru_poetry (21589), ru_taiga
 * `before=<line_meter="Ак5ж 1*6*2*4*0*1"/>`: ru_poetry (1)
 * `before=<line_meter="Ак5м 1*2*2*3*4*0"/>`: ru_poetry (1)
 * `before=<line_meter="Ак6ж 1*2*3*1*1*4*1"/>`: ru_poetry (1)
-* `before=...`: 
+* …
 
 ## big-COMPL-
 
@@ -8889,7 +8889,7 @@ Total 132 values: be_hse (1), he_iahltwiki (18), orv_birchbark (4228), orv_ruthe
 * `comment="после обрыва"`: orv_birchbark (3)
 * `comment="после_оторванной_цифры"`: orv_birchbark (1)
 * `comment="после_ѣ_подтертый_ь"`: orv_birchbark (1)
-* `comment=...`: 
+* …
 
 ## corn-
 
@@ -9003,7 +9003,7 @@ Total 116 values: orv_birchbark (289)
 * `ctxt_comment="значение_неизвестно"`: orv_birchbark (2)
 * `ctxt_comment="и_Иваном"`: orv_birchbark (1)
 * `ctxt_comment="из_доли_[улова]"`: orv_birchbark (1)
-* `ctxt_comment=...`: 
+* …
 
 ## dSpaceAfter
 
@@ -9083,7 +9083,7 @@ Total 1828 values: sq_staf (2488), tn_popapolelo (214)
 * `end_char=1061`: sq_staf (2)
 * `end_char=1062`: sq_staf (1)
 * `end_char=1063`: sq_staf (2)
-* `end_char=...`: 
+* …
 
 ## feat
 
@@ -9192,7 +9192,7 @@ Total 306 values: apu_ufpa (646)
 * `gloss[pt]=3SG.M-dinhero`: apu_ufpa (1)
 * `gloss[pt]=3SG.M-esposa-DAT`: apu_ufpa (1)
 * `gloss[pt]=3SG.M-esposa.de`: apu_ufpa (2)
-* `gloss[pt]=...`: 
+* …
 
 ## gloss_en
 
@@ -9319,7 +9319,7 @@ Total 63 values: fr_alts (71)
 * `in_version=par[tout]`: fr_alts (1)
 * `in_version=passé[z]`: fr_alts (1)
 * `in_version=poy[é]`: fr_alts (1)
-* `in_version=...`: 
+* …
 
 ## join
 
@@ -9403,7 +9403,7 @@ Total 171 values: nds_lsdc (341)
 * `lemma[gml]=gemêintehûs`: nds_lsdc (1)
 * `lemma[gml]=gemö̂delõk`: nds_lsdc (1)
 * `lemma[gml]=gepockenêrt`: nds_lsdc (1)
-* `lemma[gml]=...`: 
+* …
 
 ## lemma_gml
 
@@ -9459,7 +9459,7 @@ Total 3029 values: nds_lsdc (16151)
 * `lemma_gml=achterhōrn`: nds_lsdc (1)
 * `lemma_gml=achterkȫmelse`: nds_lsdc (1)
 * `lemma_gml=achternâ`: nds_lsdc (2)
-* `lemma_gml=...`: 
+* …
 
 ## line_id
 
@@ -9515,7 +9515,7 @@ Total 158 values: orv_birchbark (4672), orv_ruthenian (30)
 * `line_id=16а`: orv_birchbark (2)
 * `line_id=17`: orv_birchbark (2)
 * `line_id=17а`: orv_birchbark (1)
-* `line_id=...`: 
+* …
 
 ## man-
 
@@ -9577,7 +9577,7 @@ Total 461 values: orv_birchbark (1937)
 * `meaning="войлочный_плащ"`: orv_birchbark (1)
 * `meaning="воротник"`: orv_birchbark (2)
 * `meaning="вот"`: orv_birchbark (55)
-* `meaning=...`: 
+* …
 
 ## mod
 
@@ -9656,7 +9656,7 @@ Total 68 values: arh_chibergis (3677), bej_autogramm (17), gya_autogramm (2693),
 * `nWord=52`: gya_autogramm (2)
 * `nWord=53`: gya_autogramm (2)
 * `nWord=54`: gya_autogramm (2)
-* `nWord=...`: 
+* …
 
 ## ner
 
@@ -9748,7 +9748,7 @@ Total 16240 values: orv_rnc (72513)
 * `norm="120"`: orv_rnc (1)
 * `norm="1200"`: orv_rnc (1)
 * `norm="122"`: orv_rnc (2)
-* `norm=...`: 
+* …
 
 ## note
 
@@ -9937,7 +9937,7 @@ Total 15495 values: sl_sst (85519)
 * `pronunciation=Angliji`: sl_sst (2)
 * `pronunciation=Anglijo`: sl_sst (1)
 * `pronunciation=Ani`: sl_sst (1)
-* `pronunciation=...`: 
+* …
 
 ## prpos
 
@@ -10058,7 +10058,7 @@ Total 21282 values: cu_proiel (197740), got_proiel (55336), grc_proiel (214005),
 * `ref=1.108.1`: grc_proiel (32)
 * `ref=1.108.2`: grc_proiel (44)
 * `ref=1.108.3`: grc_proiel (26)
-* `ref=...`: 
+* …
 
 ## ron
 
@@ -10213,7 +10213,7 @@ Total 1828 values: sq_staf (2488), tn_popapolelo (214)
 * `start_char=1061`: sq_staf (1)
 * `start_char=1062`: sq_staf (2)
 * `start_char=1063`: sq_staf (2)
-* `start_char=...`: 
+* …
 
 ## stats
 
@@ -10275,7 +10275,7 @@ Total 1277 values: is_gc (99611)
 * `tag=entity_et_þgf`: is_gc (10)
 * `tag=entity_et_þgf_hk`: is_gc (10)
 * `tag=entity_et_þgf_hk_gr`: is_gc (1)
-* `tag=...`: 
+* …
 
 ## teaching-really-
 
@@ -10455,7 +10455,7 @@ Total 34717 values: orv_birchbark (27185), orv_rnc (36809), orv_ruthenian (96247
 * `wf="-------------лъса"`: orv_birchbark (1)
 * `wf="------------тои"`: orv_birchbark (1)
 * `wf="-----------ѹ"`: orv_birchbark (1)
-* `wf=...`: 
+* …
 
 ## when-
 
@@ -10529,7 +10529,7 @@ Total 4150 values: arh_chibergis (37), bej_autogramm (69), fr_alts (268), fr_gsd
 * `wordform=2h`: fr_gsd (1)
 * `wordform=2na`: fr_gsd (1)
 * `wordform=2nan3`: fr_gsd (1)
-* `wordform=...`: 
+* …
 
 ## ĐerPos
 
