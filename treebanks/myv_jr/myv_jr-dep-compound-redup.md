@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `compound:redup`: <t
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 compound:redup	color:blue
-1	Сэтьместэ	сэтьместэ	ADV	Adv	Case=Ela	6	advmod:mmod	_	GTtags=Ela
+1	Сэтьместэ	сэтьместэ	ADV	Adv	AdvType=Man|Case=Ela	6	advmod	_	GTtags=Ela
 2	сэтьместэ	сэтьместэ	ADV	Adv	_	1	compound:redup	_	_
 3	чи	чи	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	compound	_	GTtags=Sg,Nom,Indef
 4	лисема	лисема	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	compound	_	GTtags=Sg,Nom,Indef
@@ -34,7 +34,7 @@ The following 2 pairs of parts of speech are connected with `compound:redup`: <t
 9	тулкадизе	тулкадемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	6	conj	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3
 10	чопуданть	чопуда	NOUN	N	Case=Gen|Definite=Def|Number=Sing	9	obj	_	GTtags=Sg,Gen,Def
 11	тайганть	тайга	NOUN	N	Case=Gen|Definite=Def|Number=Sing	12	nmod	_	GTtags=Sg,Gen,Def
-12	вельксстэ	велькс	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	9	obl:lmod	_	GTtags=SP,Ela,Indef|SpaceAfter=No
+12	вельксстэ	велькс	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	9	obl	_	GTtags=SP,Ela,Indef|SpaceAfter=No
 13	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~
@@ -50,7 +50,7 @@ The following 2 pairs of parts of speech are connected with `compound:redup`: <t
 2	Ура	ура	INTJ	Interj	_	0	root	_	GTtags=|SpaceAfter=No
 3	!	!	PUNCT	CLB	_	2	punct	_	_
 4	―	―	PUNCT	PUNCT	_	7	punct	_	_
-5	таго	таго	ADV	Adv	AdvType=Tim	7	advmod:tmod	_	GTtags=Temp
+5	таго	таго	ADV	Adv	AdvType=Tim	7	advmod	_	GTtags=Temp
 6	весе	весе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Tot	7	nsubj	_	GTtags=Tot,Sg,Nom,Indef
 7	скокаесть	скокаемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	2	parataxis	_	GTtags=IV,Ind,Prt1,ScPl3
 8	кенкшенть	кенкш	NOUN	N	Case=Gen|Definite=Def|Number=Sing	7	obl	_	GTtags=Sg,Gen,Def

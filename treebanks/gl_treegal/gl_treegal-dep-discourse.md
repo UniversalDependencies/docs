@@ -109,7 +109,7 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 discourse	color:blue
-1	De	de	ADP	P	AdpType=Prep	7	discourse	_	_
+1	De	de	ADP	P	AdpType=Prep|ExtPos=ADV	7	discourse	_	_
 2	feito	feito	NOUN	Scms	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	Q,	_	1	punct	_	_
 4	de	de	ADP	P	AdpType=Prep	7	case	_	_

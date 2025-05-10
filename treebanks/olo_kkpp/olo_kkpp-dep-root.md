@@ -13,7 +13,7 @@ This relation is universal.
 125 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.504.
 
-The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (104; 83% instances), -<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (12; 10% instances), -<tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (6; 5% instances), -<tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (1; 1% instances), -<tt><a href="olo_kkpp-pos-NUM.html">NUM</a></tt> (1; 1% instances), -<tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (105; 84% instances), -<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (12; 10% instances), -<tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (6; 5% instances), -<tt><a href="olo_kkpp-pos-NUM.html">NUM</a></tt> (1; 1% instances), -<tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

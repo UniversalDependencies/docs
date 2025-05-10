@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 1236230 tokens (36%) have a non-empty value of `Gender`.
 116363 types (62%) occur at least once with a non-empty value of `Gender`.
-18751 lemmas (27%) occur at least once with a non-empty value of `Gender`.
+93344 lemmas (64%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 8 part-of-speech tags: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (684409; 20% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (395436; 11% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (84146; 2% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (44113; 1% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (27734; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (188; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (178; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (26; 0% instances).
 
 ### `NOUN`
@@ -31,13 +31,13 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 * `EMPTY` (44692): <em>Kunden, Teil, Pentium, Kunde, Teile, Steuern, Befragten, Beschäftigten, informations-, Angestellten</em>
 
 <table>
-  <tr><th>Paradigm <i>Vorsitzend</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>Vorsitzenden, Vorstandsvorsitzenden, Aufsichtsratsvorsitzenden, Bertelsmann-Vorstandsvorsitzenden, Mannesmann-Aufsichtsratsvorsitzenden, Mannesmann-Betriebsratsvorsitzenden, NPD-Vorsitzenden, Topware-Vorstandsvorsitzenden, Vorstandvorsitzenden</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Vorsitzende, Vorstandsvorsitzende, Vorsitzender, Vorstandsvorsitzender, Aufsichtsratsvorsitzende, Aufsichtsratsvorsitzender, Bundesvorsitzende, Geschäftsführungsvorsitzende, VDE-Vorsitzende, Verbandsvorsitzende, Verwaltungsratsvorsitzende, ARD-Vorsitzende, Bertelsmann-Vorstandsvorsitzender, Betriebsrats-Vorsitzende, Geschäftsführungsvorsitzender, Kommissionsvorsitzende, Mannesmann-Vorstandsvorsitzende, Verbandsvorsitzender, Verwaltungsratsvorsitzender, Vizevorsitzender, (Konzern)-Vorsitzender, Agfa-Vorstandsvorsitzende, Arcor-Vorstandsvorsitzende, Arcor-Vorstandsvorsitzender, Ausschussvorsitzende, Ausschußvorsitzende, BIGES-Vorsitzende, BVB-Vorstandsvorsitzende, Beirats-Vorsitzender, Beiratsvorsitzender, Betriebsratsvorsitzende, Betriebsratsvorsitzender, BinTec-Aufsichtsratsvorsitzende, BvD-Vorsitzende, CDU-Fraktionsvorsitzende, CDU-Fraktionsvorsitzender, CDU-Vorsitzende, CDU/CSU-Fraktionsvorsitzende, CIS-Vorstandsvorsitzender, Clubvorsitzender, Coalition-Vorsitzende, DIZ-Verwaltungsratsvorsitzende, DJV-Bundesvorsitzende, DPG-Vizevorsitzende, DVPT-Vorsitzende, Datev-Vorsitzende, Debitel-Vorstandsvorsitzende, Edizione-Vorstandsvorsitzende, FAZ-Aufsichtsratsvorsitzende, FCC-Vorsitzende, FTC-Vorsitzende, Fraktionsvorsitzende, Fraktionsvorsitzender, Freenet-Vorstandsvorsitzender, GEMA-Vorsitzende, GdP-Vorsitzende, Gema-Aufsichtsrats-Vorsitzende, Gesamtbetriebsratsvorsitzende, Gewerkschaftsvorsitzende, Gfu-Aufsichtsratsvorsitzende, IG-Metall-Vorsitzende, ITG-Vorsitzende, ITXC-Vorsitzende, Infineon-Vorstandsvorsitzende, Intel-Vorsitzende, Intel-Vorstandsvorsitzende, Jenoptik-Vorstandsvorsitzender, LIBRO-Vorstandsvorsitzende, Landesbezirksvorsitzender, Landesvorsitzende, Landesvorsitzender, Live-Vorsitzende, Mannesmann-Vorstandsvorsitzender, Messevorstandsvorsitzende, Mobilcom-Vorstandsvorsitzender, Parteivorsitzender, Plus-Vorstandsvorsitzender, ProSieben-Vorstandsvorsitzende, Prozeßvorsitzende, SIA-Vorsitzender, Teles-Vorstandsvorsitzende, VSI-Vorsitzende, Verbands-Vorsitzende, Vizevorsitzende, Vobis-Vorstandsvorsitzender, Vorstands-Vorsitzende, Vorstandvorsitzende, W3C-Vorstandsvorsitzende</em></td><td></td><td></td></tr>
-  <tr><td><tt></tt></td><td></td><td><em>Vorsitzende, Vorstandsvorsitzende, Fraktionsvorsitzende, Vorsitzender, Bundeselternratsvorsitzende, Bundesvorsitzende, CDU-Landesvorsitzende, CDU-Vorsitzende, CDU-Vorsitzender, DGB-Vorsitzende, Grünen-Fraktionsvorsitzende, ICANN-Interimsvorsitzende, ICANN-Vorsitzende, Interims-Boardvorsitzende, Interimsvorsitzende, PDS-Vorsitzende, Parteivorsitzende, Vize-Vorsitzende, Vorstandsvorsitzender</em></td><td><em>Vorsitzendes, Vorstandsvorsitzendes</em></td></tr>
+  <tr><th>Paradigm <i>Deutsch</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>Deutschen</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Deutsche, Deutscher</em></td><td></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>Deutsche, Deutscher</em></td><td><em>Deutsch, Deutsche, Deutschen</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (11246) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (85728) occur only with one value of `Gender`.
 
 ### `DET`
 
@@ -157,7 +157,7 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 * `Fem` (1; 1% of non-empty `Gender`): <em>meiste</em>
 * `Masc` (2; 1% of non-empty `Gender`): <em>meisten</em>
 * `Neut` (185; 98% of non-empty `Gender`): <em>mehr, weniger, erstenmal, meiste</em>
-* `EMPTY` (196406): <em>auch, noch, nur, so, aber, bereits, mehr, allerdings, damit, schon</em>
+* `EMPTY` (196405): <em>auch, noch, nur, so, aber, bereits, mehr, allerdings, damit, schon</em>
 
 <table>
   <tr><th>Paradigm <i>meist</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -199,7 +199,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="de_hdt-dep-det.html">det</a></tt>]--> DET</tt> (297198; 67%),
+<tt>NOUN --[<tt><a href="de_hdt-dep-det.html">det</a></tt>]--> DET</tt> (297197; 67%),
 <tt>DET --[<tt><a href="de_hdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1262; 65%),
 <tt>ADJ --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (592; 77%),
 <tt>NOUN --[<tt><a href="de_hdt-dep-expl.html">expl</a></tt>]--> PRON</tt> (251; 61%),

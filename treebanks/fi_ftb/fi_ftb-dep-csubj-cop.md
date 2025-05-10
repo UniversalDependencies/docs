@@ -25,7 +25,7 @@ The following 14 pairs of parts of speech are connected with `csubj:cop`: <tt><a
 1	Lopulta	lopulta	ADV	Adv	_	2	advmod	_	_
 2	olennaista	olennainen	ADJ	A,Sg,Par	Case=Par|Number=Sing	0	root	_	_
 3	on	olla	AUX	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
-4	enää	enää	PART	Pcle	_	2	advmod	_	_
+4	enää	enää	ADV	Adv	_	2	advmod	_	_
 5	se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	8	expl	_	Alt=8_expl|Missed-Rel=phrm
 6	mitä	mikä	PRON	Pron,Rel,Par	Case=Par|PronType=Rel	8	obj	_	_
 7	ex-professori	ex-professori	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	8	nsubj	_	_

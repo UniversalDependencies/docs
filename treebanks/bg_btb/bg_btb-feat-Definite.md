@@ -12,7 +12,7 @@ It occurs with 2 different values: `Def`, `Ind`.
 61280 tokens (39%) have a non-empty value of `Definite`.
 22259 types (84%) occur at least once with a non-empty value of `Definite`.
 12399 lemmas (83%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 10 part-of-speech tags: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (33023; 21% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (13480; 9% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (8357; 5% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (2664; 2% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (2102; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (793; 1% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (499; 0% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (246; 0% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (115; 0% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (33023; 21% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (13480; 9% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (8357; 5% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (2664; 2% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (2102; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (792; 1% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (499; 0% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (246; 0% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (116; 0% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -122,13 +122,13 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 
 ### `DET`
 
-793 <tt><a href="bg_btb-pos-DET.html">DET</a></tt> tokens (33% of all `DET` tokens) have a non-empty value of `Definite`.
+792 <tt><a href="bg_btb-pos-DET.html">DET</a></tt> tokens (33% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="bg_btb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (615; 78%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (599; 76%), <tt><a href="bg_btb-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (512; 65%), <tt><a href="bg_btb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (512; 65%), <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (404; 51%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="bg_btb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (615; 78%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (599; 76%), <tt><a href="bg_btb-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (512; 65%), <tt><a href="bg_btb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (512; 65%), <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (403; 51%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (394; 50% of non-empty `Definite`): <em>нашите, своите, нашата, своя, техните, неговата, своята, своето, тяхното, нейните</em>
+* `Def` (393; 50% of non-empty `Definite`): <em>нашите, своите, нашата, своя, техните, неговата, своята, своето, тяхното, нейните</em>
 * `Ind` (399; 50% of non-empty `Definite`): <em>един, една, едно, наши, негово, своя, нищо, нещо, свой, свои</em>
 * `EMPTY` (1640): <em>тази, този, тези, това, всички, какво, всеки, всяка, някои, какви</em>
 
@@ -175,13 +175,13 @@ The most frequent other feature values with which `AUX` and `Definite` co-occurr
 
 ### `PRON`
 
-115 <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Definite`.
+116 <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (115; 100%), <tt><a href="bg_btb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (115; 100%), <tt><a href="bg_btb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (115; 100%), <tt><a href="bg_btb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (106; 92%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (87; 76%), <tt><a href="bg_btb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (83; 72%), <tt><a href="bg_btb-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (71; 62%).
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (116; 100%), <tt><a href="bg_btb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (116; 100%), <tt><a href="bg_btb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (116; 100%), <tt><a href="bg_btb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (107; 92%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (87; 75%), <tt><a href="bg_btb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (83; 72%), <tt><a href="bg_btb-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (72; 62%).
 
 `PRON` tokens may have the following values of `Definite`:
 
-* `Def` (26; 23% of non-empty `Definite`): <em>нещата, всичкото, Единият, Едната, нищото</em>
+* `Def` (27; 23% of non-empty `Definite`): <em>нещата, всичкото, Единият, Едната, нищото</em>
 * `Ind` (89; 77% of non-empty `Definite`): <em>нищо, нещо, неколцина, няколко, един, едно</em>
 * `EMPTY` (9979): <em>се, си, това, той, му, които, го, ни, те, който</em>
 

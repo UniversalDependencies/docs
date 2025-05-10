@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: Relations: `nmod:poss`
 
 This relation is a language-specific subtype of <tt><a href="koi_uh-dep-nmod.html">nmod</a></tt>.
-There are also 1 other language-specific subtypes of `nmod`: <tt><a href="koi_uh-dep-nmod-lmod.html">nmod:lmod</a></tt>.
 
 5 nodes (0%) are attached to their parents as `nmod:poss`.
 

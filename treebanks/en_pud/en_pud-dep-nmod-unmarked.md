@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_English-PUD: Relations: `nmod:unmarked`
 
 This relation is a language-specific subtype of <tt><a href="en_pud-dep-nmod.html">nmod</a></tt>.
-There are also 1 other language-specific subtypes of `nmod`: <tt><a href="en_pud-dep-nmod-poss.html">nmod:poss</a></tt>.
+There are also 2 other language-specific subtypes of `nmod`: <tt><a href="en_pud-dep-nmod-desc.html">nmod:desc</a></tt>, <tt><a href="en_pud-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-58 nodes (0%) are attached to their parents as `nmod:unmarked`.
+57 nodes (0%) are attached to their parents as `nmod:unmarked`.
 
-43 instances of `nmod:unmarked` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.68965517241379.
+42 instances of `nmod:unmarked` (74%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.71929824561404.
 
-The following 13 pairs of parts of speech are connected with `nmod:unmarked`: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (16; 28% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (11; 19% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (6; 10% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (6; 10% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (4; 7% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 13 pairs of parts of speech are connected with `nmod:unmarked`: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (16; 28% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (11; 19% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (6; 11% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (6; 11% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (4; 7% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -76,7 +76,7 @@ The following 13 pairs of parts of speech are connected with `nmod:unmarked`: <t
 8	,	,	PUNCT	,	_	12	punct	12:punct	_
 9	when	when	ADV	WRB	PronType=Int	12	advmod	12:advmod	_
 10	eastern	eastern	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
-11	Melanesians	Melanesians	PROPN	NNPS	Number=Plur	12	nsubj	12:nsubj	_
+11	Melanesians	Melanesian	PROPN	NNPS	Number=Plur	12	nsubj	12:nsubj	_
 12	travelled	travel	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	advcl	4:advcl	_
 13	north	north	ADV	RB	_	12	advmod	12:advmod	SpaceAfter=No
 14	.	.	PUNCT	.	_	4	punct	4:punct	_

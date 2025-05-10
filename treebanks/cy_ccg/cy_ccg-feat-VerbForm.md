@@ -146,12 +146,12 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>NOUN --[<tt><a href="cy_ccg-dep-xcomp.html">xcomp</a></tt>]--> NOUN</tt> (417; 88%),
-<tt>NOUN --[<tt><a href="cy_ccg-dep-ccomp.html">ccomp</a></tt>]--> NOUN</tt> (387; 90%),
-<tt>NOUN --[<tt><a href="cy_ccg-dep-advcl.html">advcl</a></tt>]--> NOUN</tt> (283; 83%),
-<tt>NOUN --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (257; 71%),
+<tt>NOUN --[<tt><a href="cy_ccg-dep-ccomp.html">ccomp</a></tt>]--> NOUN</tt> (388; 90%),
+<tt>NOUN --[<tt><a href="cy_ccg-dep-advcl.html">advcl</a></tt>]--> NOUN</tt> (285; 84%),
+<tt>NOUN --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (256; 71%),
 <tt>VERB --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> VERB</tt> (186; 96%),
 <tt>VERB --[<tt><a href="cy_ccg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (70; 100%),
-<tt>VERB --[<tt><a href="cy_ccg-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (37; 100%),
+<tt>VERB --[<tt><a href="cy_ccg-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (38; 100%),
 <tt>VERB --[<tt><a href="cy_ccg-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (19; 100%),
 <tt>VERB --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> AUX</tt> (10; 91%),
 <tt>AUX --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%).

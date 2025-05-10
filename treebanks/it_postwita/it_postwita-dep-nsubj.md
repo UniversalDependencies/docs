@@ -30,7 +30,7 @@ The following 66 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 5	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	che	che	SCONJ	CS	_	9	mark	_	_
 7	oggi	oggi	ADV	B	_	9	advmod	_	_
-8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+8	si	si	PRON	PC	Person=3|PronType=Prs	9	expl	_	Clitic=Yes
 9	tornava	tornare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
 10	a	a	ADP	E	_	11	case	_	_
 11	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
@@ -63,7 +63,7 @@ The following 66 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 5 2 nsubj	color:blue
 1	Pure	pure	ADV	B	_	5	advmod	_	_
 2	Passera	Passera	PROPN	SP	_	5	nsubj	_	_
-3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+3	si	si	PRON	PC	Person=3|PronType=Prs	5	expl	_	Clitic=Yes
 4	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	definire	definire	VERB	V	VerbForm=Inf	0	root	_	_
 6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_

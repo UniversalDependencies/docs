@@ -24,16 +24,16 @@ The following 4 pairs of parts of speech are connected with `orphan:missing`: <t
 # visual-style 20 14 orphan:missing	color:blue
 1	unde	unde	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Loc|PronType=Rel	20	orphan:missing	_	_
 2	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	det	_	_
-3	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
+3	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|ExtPos=DET|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
 4	supra	supra	ADV	d|d|-|-|-|-|-|-|-|-	_	3	fixed	_	_
 5	Andriperto	Andripertus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	20	orphan:missing	_	_
 6	presbitero	presbyter	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	5	appos	_	_
-7	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	10	case	_	_
+7	una	una	ADV	d|d|-|-|-|-|-|-|-|-	ExtPos=ADP	10	case	_	_
 8	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	7	fixed	_	_
 9	meis	meus	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	10	det	_	_
 10	heredes	heres	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	20	orphan:missing	_	_
 11	tibi	tu	PRON	p|p|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	det	_	_
-12	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
+12	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|ExtPos=DET|Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
 13	supra	supra	ADV	d|d|-|-|-|-|-|-|-|-	_	12	fixed	_	_
 14	Teudilascio	Teudilascius	PROPN	Propn|n|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing	20	orphan:missing	_	_
 15	archidiacono	archidiaconus	NOUN	n|n|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing	14	appos	_	_
@@ -106,16 +106,16 @@ The following 4 pairs of parts of speech are connected with `orphan:missing`: <t
 # visual-style 20 1 orphan:missing	color:blue
 1	unde	unde	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Loc|PronType=Rel	20	orphan:missing	_	_
 2	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	det	_	_
-3	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
+3	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|ExtPos=DET|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
 4	supra	supra	ADV	d|d|-|-|-|-|-|-|-|-	_	3	fixed	_	_
 5	Andriperto	Andripertus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	20	orphan:missing	_	_
 6	presbitero	presbyter	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	5	appos	_	_
-7	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	10	case	_	_
+7	una	una	ADV	d|d|-|-|-|-|-|-|-|-	ExtPos=ADP	10	case	_	_
 8	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	7	fixed	_	_
 9	meis	meus	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	10	det	_	_
 10	heredes	heres	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	20	orphan:missing	_	_
 11	tibi	tu	PRON	p|p|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	det	_	_
-12	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
+12	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|ExtPos=DET|Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
 13	supra	supra	ADV	d|d|-|-|-|-|-|-|-|-	_	12	fixed	_	_
 14	Teudilascio	Teudilascius	PROPN	Propn|n|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing	20	orphan:missing	_	_
 15	archidiacono	archidiaconus	NOUN	n|n|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing	14	appos	_	_
@@ -188,16 +188,16 @@ The following 4 pairs of parts of speech are connected with `orphan:missing`: <t
 # visual-style 20 10 orphan:missing	color:blue
 1	unde	unde	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Loc|PronType=Rel	20	orphan:missing	_	_
 2	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	det	_	_
-3	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
+3	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|ExtPos=DET|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
 4	supra	supra	ADV	d|d|-|-|-|-|-|-|-|-	_	3	fixed	_	_
 5	Andriperto	Andripertus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	20	orphan:missing	_	_
 6	presbitero	presbyter	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	5	appos	_	_
-7	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	10	case	_	_
+7	una	una	ADV	d|d|-|-|-|-|-|-|-|-	ExtPos=ADP	10	case	_	_
 8	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	7	fixed	_	_
 9	meis	meus	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	10	det	_	_
 10	heredes	heres	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	20	orphan:missing	_	_
 11	tibi	tu	PRON	p|p|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	det	_	_
-12	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
+12	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|ExtPos=DET|Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
 13	supra	supra	ADV	d|d|-|-|-|-|-|-|-|-	_	12	fixed	_	_
 14	Teudilascio	Teudilascius	PROPN	Propn|n|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing	20	orphan:missing	_	_
 15	archidiacono	archidiaconus	NOUN	n|n|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing	14	appos	_	_

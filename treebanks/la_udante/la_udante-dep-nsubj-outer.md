@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>.
 There are also 2 other language-specific subtypes of `nsubj`: <tt><a href="la_udante-dep-nsubj-cleft.html">nsubj:cleft</a></tt>, <tt><a href="la_udante-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-30 nodes (0%) are attached to their parents as `nsubj:outer`.
+33 nodes (0%) are attached to their parents as `nsubj:outer`.
 
-30 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.33333333333333.
+33 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.42424242424242.
 
-The following 11 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (9; 30% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (4; 13% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (3; 10% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (3; 10% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (3; 10% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (2; 7% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+The following 12 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (9; 27% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (6; 18% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (3; 9% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (3; 9% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (3; 9% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -40,43 +40,34 @@ The following 11 pairs of parts of speech are connected with `nsubj:outer`: <tt>
 
 
 ~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 31	bgColor:blue
-# visual-style 31	fgColor:white
-# visual-style 31 20 nsubj:outer	color:blue
-1	Declarata	declaro	VERB	vp1irp3	Aspect=Perf|Case=Nom|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	TraditionalMood=Participium|TraditionalTense=Perfectum
-2	igitur	igitur	PART	r	_	1	discourse	_	_
-3	duo	duo	NUM	aunpn	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	1	nsubj:pass	_	_
-4	sunt	sum	AUX	va5ipp3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	aux:pass	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-5	;	;	PUNCT	Pu	_	18	punct	_	_
-6	quorum	qui	PRON	prepng	Case=Gen|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel	7	nmod	_	_
-7	unum	unus	DET	aunsn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|NumType=Card|NumValue=1|PronType=Ind	18	nsubj:outer	_	_
-8	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop:outer	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-9	,	,	PUNCT	Pu	_	8	punct	_	_
-10	quod	quod	SCONJ	cs	PronType=Rel	18	mark	_	_
-11	quicunque	quicumque	DET	prismn	Case=Nom|Compound=Yes|Form=Emp|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	15	nsubj	_	_
-12	bonum	bonus	ADJ	sns2a	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	15	obj	_	_
-13	rei	res	NOUN	sfs5g	Case=Gen|Gender=Fem|InflClass=IndEurE|Number=Sing	12	nmod	_	_
-14	publice	publicus	ADJ	afs1g	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	13	amod	_	_
-15	intendit	intendo	VERB	va3ips3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	csubj:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-16	finem	finis	NOUN	sms3a	Case=Acc|Gender=Masc|InflClass=IndEurI|Number=Sing	18	obj	_	_
-17	iuris	ius	NOUN	sns3g	Case=Gen|Gender=Neut|InflClass=IndEurI|Number=Sing	16	nmod	_	_
-18	intendit	intendo	VERB	va3ips3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	dislocated:csubj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-19	:	:	PUNCT	Pu	_	31	punct	_	_
-20	aliud	alius	DET	dpnsn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Con	31	nsubj:outer	_	_
-21	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-22	,	,	PUNCT	Pu	_	21	punct	_	_
-23	quod	quod	SCONJ	cs	PronType=Rel	31	mark	_	_
-24	romanus	romanus	ADJ	ams1n	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Sing	25	amod	_	_
-25	populus	populus	NOUN	sms2n	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	31	nsubj	_	_
-26	subiciendo	subicio	VERB	va3fgb	Aspect=Prosp|Case=Abl|Gender=Neut|InflClass=LatI2|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	31	advcl	_	TraditionalMood=Gerundium
-27	sibi	sui	PRON	ppp3smd	Case=Dat|InflClass=LatAnom|Person=3|PronType=Prs|Reflex=Yes	26	obl:arg	_	_
-28	orbem	orbis	NOUN	sms3a	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing	26	obj	_	_
-29	bonum	bonus	ADJ	sns2a	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	31	obj	_	_
-30	publicum	publicus	ADJ	ans1a	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	29	amod	_	_
-31	intendit	intendo	VERB	va3ips3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-32	.	.	PUNCT	Pu	_	1	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 14 nsubj:outer	color:blue
+1	Dicit	dico	VERB	va3ips3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+2	enim	enim	PART	c	Form=Emp	1	discourse	_	_
+3	Cristus	christus	PROPN	Sms2n	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Sur|Number=Sing	1	nsubj	_	_
+4	Petro	petrus	PROPN	Sms2d	Case=Dat|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	1	obl:arg	_	SpaceAfter=No
+5	:	:	PUNCT	Pu	_	8	punct	_	_
+6	«	«	PUNCT	Pu	_	8	punct	_	SpaceAfter=No
+7	Tibi	tu	PRON	ppp2smd	Case=Dat|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	8	obl:arg	_	_
+8	dabo	do	VERB	va1ifs1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp:reported	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
+9	claves	clauis	NOUN	sfp3a	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Plur	8	obj	_	_
+10	regni	regnum	NOUN	sns2g	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	9	nmod	_	_
+11	celorum	caelum	NOUN	snp2g	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Plur	10	nmod	_	SpaceAfter=No
+12	»	»	PUNCT	Pu	_	8	punct	_	SpaceAfter=No
+13	,	,	PUNCT	Pu	_	17	punct	_	_
+14	hoc	hic	DET	ddisnn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	17	nsubj:outer	_	_
+15	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop:outer	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+16	“	“	PUNCT	Pu	_	17	punct	_	SpaceAfter=No
+17	Faciam	facio	VERB	va3ifs1	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	8	conj:expl	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
+18	te	tu	PRON	ppp2sma	Case=Acc|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	17	obj	_	_
+19	hostiarium	hostiarius	NOUN	sms2a	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	17	xcomp	_	_
+20	regni	regnum	NOUN	sns2g	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	19	nmod	_	_
+21	celorum	caelum	NOUN	snp2g	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Plur	20	nmod	_	SpaceAfter=No
+22	”	”	PUNCT	Pu	_	17	punct	_	SpaceAfter=No
+23	.	.	PUNCT	Pu	_	1	punct	_	_
 
 ~~~
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Anim`.
 
-962 tokens (1%) have a non-empty value of `Animacy`.
-614 types (3%) occur at least once with a non-empty value of `Animacy`.
+963 tokens (1%) have a non-empty value of `Animacy`.
+616 types (3%) occur at least once with a non-empty value of `Animacy`.
 498 lemmas (6%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 7 part-of-speech tags: <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (514; 0% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (202; 0% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (160; 0% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (57; 0% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (7; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (514; 0% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (205; 0% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (160; 0% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (62; 0% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (9; 0% instances).
 
 ### `PROPN`
 
@@ -29,14 +29,14 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 ### `DET`
 
-202 <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Animacy`.
+205 <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Acc</tt> (202; 100%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (197; 98%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (141; 70%), <tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (106; 52%), <tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (105; 52%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Acc</tt> (205; 100%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (200; 98%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (144; 70%), <tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (106; 52%), <tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (105; 51%).
 
 `DET` tokens may have the following values of `Animacy`:
 
-* `Anim` (202; 100% of non-empty `Animacy`): <em>того, нашого, своего, своег(о), тых, самого, вашего, нашег(о), наших, тог(о)</em>
-* `EMPTY` (7937): <em>нашим, тыи, того, тых, ваша, нашого, свои, тот, тое, тые</em>
+* `Anim` (205; 100% of non-empty `Animacy`): <em>того, нашого, своего, своег(о), тых, самого, вашего, которого, нашег(о), наших</em>
+* `EMPTY` (7941): <em>нашим, тыи, того, тых, ваша, нашого, свои, тое, тот, тые</em>
 
 `Animacy` seems to be **lexical feature** of `DET`. 100% lemmas (22) occur only with one value of `Animacy`.
 
@@ -49,22 +49,22 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 `ADJ` tokens may have the following values of `Animacy`:
 
 * `Anim` (160; 100% of non-empty `Animacy`): <em>полоцких, полоцкого, богатого, кровного, полоцъкого, вбогого, виноватог(о), добрых, заховалого, полоцкихъ</em>
-* `EMPTY` (7216): <em>великии, полоцкии, полоцкого, милым, полоцког(о), Бож(ъ)ю, ризког(о), великого, ризкого, полоцких</em>
+* `EMPTY` (7217): <em>великии, полоцкии, полоцкого, милым, полоцког(о), Бож(ъ)ю, ризког(о), великого, ризкого, полоцких</em>
 
 `Animacy` seems to be **lexical feature** of `ADJ`. 100% lemmas (80) occur only with one value of `Animacy`.
 
 ### `NOUN`
 
-57 <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+62 <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Acc</tt> (57; 100%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (54; 95%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (42; 74%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Acc</tt> (62; 100%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (59; 95%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (47; 76%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
-* `Anim` (57; 100% of non-empty `Animacy`): <em>пана, особъ, пн҃а, бг̃а, дх̃а, конѧ, людеи, людей, пан[а], цр̃ѧ</em>
-* `EMPTY` (22814): <em>м(и)л(о)сти, м(и)л(о)сть, панъ, люди, земли, пан, мѣста, копъ, пана, имѧ</em>
+* `Anim` (62; 100% of non-empty `Animacy`): <em>пана, особъ, пн҃а, бг̃а, дх̃а, конѧ, людеи, людей, немъчина, пан[а]</em>
+* `EMPTY` (22811): <em>м(и)л(о)сти, м(и)л(о)сть, панъ, люди, земли, пан, мѣста, копъ, пана, имѧ</em>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (34) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (37) occur only with one value of `Animacy`.
 
 ### `NUM`
 
@@ -86,18 +86,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 `VERB` tokens may have the following values of `Animacy`:
 
 * `Anim` (9; 100% of non-empty `Animacy`): <em>выбраных, маючого, мешкаючихъ, мѧнованы(х), подданых, прилꙋжаючогосѧ, речоног(о), хотѧчихъ, ѡправуючогосѧ</em>
-* `EMPTY` (9295): <em>дали, псан, мають, мают(ь), дал, маеть, казали, держати, послали, далъ</em>
-
-### `PRON`
-
-7 <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Animacy`.
-
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Acc</tt> (7; 100%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 100%), <tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6; 86%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4; 57%), <tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (4; 57%).
-
-`PRON` tokens may have the following values of `Animacy`:
-
-* `Anim` (7; 100% of non-empty `Animacy`): <em>того, которого, ег(о), никого</em>
-* `EMPTY` (7663): <em>его, то, мы, их, што, намъ, ему, нам, того, ихъ</em>
+* `EMPTY` (9291): <em>дали, псан, мають, мают(ь), дал, маеть, казали, держати, послали, далъ</em>
 
 ## Relations with Agreement in `Animacy`
 
@@ -105,11 +94,11 @@ The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>PROPN --[<tt><a href="orv_ruthenian-dep-conj.html">conj</a></tt>]--> PROPN</tt> (152; 69%),
 <tt>PROPN --[<tt><a href="orv_ruthenian-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (106; 79%),
 <tt>ADJ --[<tt><a href="orv_ruthenian-dep-conj.html">conj</a></tt>]--> ADJ</tt> (25; 96%),
-<tt>PROPN --[<tt><a href="orv_ruthenian-dep-det.html">det</a></tt>]--> DET</tt> (9; 82%),
+<tt>PROPN --[<tt><a href="orv_ruthenian-dep-det.html">det</a></tt>]--> DET</tt> (10; 83%),
 <tt>DET --[<tt><a href="orv_ruthenian-dep-det.html">det</a></tt>]--> DET</tt> (6; 100%),
 <tt>NOUN --[<tt><a href="orv_ruthenian-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (6; 86%),
 <tt>ADJ --[<tt><a href="orv_ruthenian-dep-appos.html">appos</a></tt>]--> PROPN</tt> (2; 100%),
+<tt>NUM --[<tt><a href="orv_ruthenian-dep-det.html">det</a></tt>]--> DET</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="orv_ruthenian-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="orv_ruthenian-dep-obl.html">obl</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>DET --[<tt><a href="orv_ruthenian-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="orv_ruthenian-dep-obl.html">obl</a></tt>]--> ADJ</tt> (1; 100%).
 

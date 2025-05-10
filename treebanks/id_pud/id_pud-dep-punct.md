@@ -42,7 +42,7 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 punct	color:blue
-1	Kadang	kadang	ADV	_	PronType=Ind	4	advmod	_	_
+1	Kadang	kadang	ADV	_	ExtPos=ADV|PronType=Ind	4	advmod	_	_
 2	kala	kala	NOUN	_	Number=Sing	1	fixed	_	_
 3	seperti	seperti	ADP	_	_	4	case	_	_
 4	kekuatan	kuat	NOUN	_	Number=Sing	0	root	_	_

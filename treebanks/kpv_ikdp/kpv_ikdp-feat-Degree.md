@@ -18,7 +18,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="kpv_ikdp-pos-ADV.ht
 
 3 <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 67%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="kpv_ikdp-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 67%).
 
 `ADV` tokens may have the following values of `Degree`:
 

@@ -62,8 +62,8 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 10 7 csubj	color:blue
 1	她	她	PRON	_	Person=3	5	nsubj	_	SpaceAfter=No|Tone=1|Translit=tā
 2	是	是	AUX	_	_	5	cop	_	SpaceAfter=No|Tone=4|Translit=shì
-3	全	全	ADJ	_	_	4	amod	_	SpaceAfter=No|Tone=2|Translit=quán
-4	职	职	NOUN	_	_	5	clf	_	SpaceAfter=No|Tone=2|Translit=zhí
+3	全	全	ADJ	_	_	5	amod	_	SpaceAfter=No|Tone=2|Translit=quán
+4	职	职	NOUN	_	_	3	clf	_	SpaceAfter=No|Tone=2|Translit=zhí
 5	妈妈	妈妈	NOUN	_	_	0	root	_	SpaceAfter=No|Tone=1_1|Translit=mā_mā
 6	，	，	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit=，
 7	有	有	VERB	_	_	10	csubj	_	Grammar_Target=Yes|SpaceAfter=No|Tone=3|Translit=yǒu

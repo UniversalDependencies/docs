@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Coptic-Scriptorium: POS Tags: `CCONJ`
 
 There are 23 `CCONJ` lemmas (1%), 23 `CCONJ` types (1%) and 1347 `CCONJ` tokens (2%).
-Out of 15 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 13 in number of types and 11 in number of tokens.
+Out of 15 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 11 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: ⲁⲩⲱ, ⲁⲗⲗⲁ, ⲏ, ⲟⲩⲇⲉ, ϫⲉ, ⲉⲓⲧⲉ, ⲙⲏ, ⲡⲗⲏⲛ, ⲕⲁⲓ, ⲟⲩⲧⲉ
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  ⲁⲗⲗⲁ (<tt><a href="cop_scriptoriu
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.137647).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.140603).
 
 The 1st highest number of forms (1) was observed with the lemma “ϩⲁⲙⲟⲓ”: ϩⲁⲙⲟⲓ.
 
@@ -62,11 +62,11 @@ The 2nd highest number of forms (1) was observed with the lemma “ϩⲟⲧⲁ�
 
 The 3rd highest number of forms (1) was observed with the lemma “ϩⲱⲥⲟⲛ”: ϩⲱⲥⲟⲛ.
 
-`CCONJ` occurs with 2 features: <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt> (396; 29% instances), <tt><a href="cop_scriptorium-feat-Polarity.html">Polarity</a></tt> (65; 5% instances)
+`CCONJ` occurs with 3 features: <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt> (396; 29% instances), <tt><a href="cop_scriptorium-feat-Polarity.html">Polarity</a></tt> (65; 5% instances), <tt><a href="cop_scriptorium-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`CCONJ` occurs with 2 feature-value pairs: `Foreign=Yes`, `Polarity=Neg`
+`CCONJ` occurs with 3 feature-value pairs: `ExtPos=ADV`, `Foreign=Yes`, `Polarity=Neg`
 
-`CCONJ` occurs with 3 feature combinations.
+`CCONJ` occurs with 4 feature combinations.
 The most frequent feature combination is `_` (951 tokens).
 Examples: ⲁⲩⲱ, ϫⲉ, ϫⲛ, ⲙⲏ, ⲁⲗⲗⲁ, ⲉⲓⲧⲉ, ⲕⲁⲛ, ϩⲁⲙⲟⲓ, ϫⲛⲉ, ⲉϣϫⲉ
 
@@ -75,7 +75,7 @@ Examples: ⲁⲩⲱ, ϫⲉ, ϫⲛ, ⲙⲏ, ⲁⲗⲗⲁ, ⲉⲓⲧⲉ, ⲕⲁⲛ
 
 `CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="cop_scriptorium-dep-cc.html">cc</a></tt> (1249; 93% instances), <tt><a href="cop_scriptorium-dep-advmod.html">advmod</a></tt> (48; 4% instances), <tt><a href="cop_scriptorium-dep-fixed.html">fixed</a></tt> (42; 3% instances), <tt><a href="cop_scriptorium-dep-discourse.html">discourse</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (904; 67% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (299; 22% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (44; 3% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (38; 3% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (32; 2% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (11; 1% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (904; 67% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (299; 22% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (44; 3% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (38; 3% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (32; 2% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (11; 1% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (8; 1% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 0% instances)
 
 1339 (99%) `CCONJ` nodes are leaves.
 

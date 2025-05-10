@@ -25,7 +25,7 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 1	Anleitung	Anleitung	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 2	zu	zu	ADP	APPR	AdpType=Prep|Case=Dat	4	case	_	_
 3	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	4	det	_	_
-4	Kindesmißbrauch	Mißbrauch	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	_
+4	Kindesmißbrauch	Kindesmißbrauch	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	_
 5	und	und	CCONJ	KON	_	6	cc	_	_
 6	Mord	Mord	NOUN	NN	Gender=Masc|Number=Sing	4	conj	_	_
 7	in	in	ADP	APPR	AdpType=Prep|Case=Dat	9	case	_	_

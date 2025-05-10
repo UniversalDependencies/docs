@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 2 7 dislocated	color:blue
 1	Peʹll	Peʹll	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	GTtags=Prop,Sg,Nom
 2	šõõddi	šõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
-3	seeʹst	son	PRON	Pron	Case=Loc|Number=Plur|Person=3|PronType=Prs	2	obl:lmod	_	GTtags=Pers,Pl3,Loc
+3	seeʹst	son	PRON	Pron	Case=Loc|Number=Plur|Person=3|PronType=Prs	2	obl	_	GTtags=Pers,Pl3,Loc
 4	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	7	det	_	GTtags=Dem,Sg,Nom|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	4	conj	_	GTtags=Dem,Sg,Nom
@@ -64,7 +64,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 10 dislocated	color:blue
-1	Mâŋŋa	mâŋŋa	ADV	Adv	AdvType=Tim	2	advmod:tmod	_	GTtags=Sem/Time
+1	Mâŋŋa	mâŋŋa	ADV	Adv	AdvType=Tim	2	advmod	_	GTtags=Sem/Time
 2	teâđsti	teâđsted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 3	di	di	CCONJ	CC	_	5	cc	_	GTtags=@CVP
 4	tõid	tõt	PRON	Pron	Case=Acc|Number=Plur|PronType=Dem	5	obj	_	GTtags=Dem,Pl,Acc

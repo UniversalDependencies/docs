@@ -77,8 +77,8 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 3	ለ	ለ	ADP	ADP	_	4	case	_	Translit=lä|LTranslit=lä
 4	አውዳ~ዓመት	አውዳ~ዓመት	NOUN	NOUN	_	8	obl	_	Translit='äwəda~`amätə|LTranslit='äwəda~`amätə
 5	አንድ	አንድ	NUM	NUM	NumType=Card	6	nummod	_	Translit='änədə|LTranslit='änədə
-6	ጋን	ጋን	NOUN	NOUN	_	7	clf	_	Translit=ganə|LTranslit=ganə
-7	ጠላ	ጠላ	NOUN	NOUN	_	8	obj	_	Translit=ţäla|LTranslit=ţäla
+6	ጋን	ጋን	NOUN	NOUN	_	8	obj	_	Translit=ganə|LTranslit=ganə
+7	ጠላ	ጠላ	NOUN	NOUN	_	6	nmod	_	Translit=ţäla|LTranslit=ţäla
 8	ጠመቅ	ጠመቅ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=ţämäqə|LTranslit=ţämäqə
 9	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ăčə
 10	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.

@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `obj:poss`: <tt><a h
 3	шәаасҭа	а́асҭа	ADP	PP_Poss:2Pl	Number[psor]=Plur|Person[psor]=2	2	case	_	LMSeg:а́асҭа
 4	сара	сара́	PRON	Pron_Pers_1Sg	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	LMSeg:сара́
 5	сихәарҭоуп	а-хәарҭа́	VERB	Adj_Sg_Pred_Fin_Pres_S:1Sg_Poss:3SgM	Dyn=No|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Number[subj]=Sing|Person[psor]=3|Person[subj]=1|Tense=Pres|VerbForm=Fin	0	root	_	LMSeg:а-хәарҭа́
-6	ҳаҧшәма	а́-ҧшәма	NOUN	Noun_H_Sg_Poss:1Pl	Animacy=Hum|Number=Sing|Number[psor]=Plur|Person[psor]=1	5	obj:poss	_	LMSeg:а́-ҧшәма
+6	ҳаҧшәма	а́-ҧшәма	NOUN	Noun_H_Sg_Poss:1Pl	Animacy=Hum|Number=Sing|Number[psor]=Plur|Person[psor]=1	5	obj:poss	_	LMSeg:а́-ҧшәма|SpaceAfter=No
 7	.	.	PUNCT	Punct_Period	_	5	punct	_	LMSeg:.
 
 ~~~

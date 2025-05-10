@@ -53,7 +53,7 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 6	ǥu	ǥu	SCONJ	CS	_	10	mark	_	_
 7	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	GTtags=Pers,Sg3,Nom
 8	leäi	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	cop	_	GTtags=IV,Ind,Prt,Sg3
-9	samai	samai	ADV	Adv	_	10	advmod:deg	_	_
+9	samai	samai	ADV	Adv	_	10	advmod	_	_
 10	jåʹttel	jåʹttel	ADJ	A	Case=Nom|Number=Sing	2	advcl	_	GTtags=Sg,Nom|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -69,8 +69,8 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
 2	jälsti	jälsted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 3	čõõđ	čõõđ	ADP	Pr	AdpType=Prep	4	case	_	_
-4	ääiʹj	äiʹǧǧ	NOUN	N	Case=Gen|Number=Sing	2	obl:tmod	_	GTtags=Sg,Gen
-5	Pariizzâst	Pariizzâst	PROPN	N	Case=Loc|NameType=Geo|Number=Sing	2	obl:lmod	_	GTtags=Prop,Sem/Plc,Sg,Loc|SpaceAfter=No
+4	ääiʹj	äiʹǧǧ	NOUN	N	Case=Gen|Number=Sing	2	obl	_	GTtags=Sg,Gen
+5	Pariizzâst	Pariizzâst	PROPN	N	Case=Loc|NameType=Geo|Number=Sing	2	obl	_	GTtags=Prop,Sem/Plc,Sg,Loc|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	8	punct	_	_
 7	Franskkjânnam	Franskkjânnam	PROPN	N	Case=Gen|NameType=Geo|Number=Sing	8	nmod:poss	_	GTtags=Prop,Sem/Plc,Sg,Gen
 8	vueiʹvvgåårdest	vueiʹvvgåårad	NOUN	N	Case=Loc|Number=Sing	5	appos	_	GTtags=Sg,Loc|SpaceAfter=No

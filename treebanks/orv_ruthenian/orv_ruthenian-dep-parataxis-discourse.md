@@ -23,11 +23,11 @@ The following 7 pairs of parts of speech are connected with `parataxis:discourse
 # visual-style 2	fgColor:white
 # visual-style 2 4 parataxis:discourse	color:blue
 1	не	не	PART	_	Polarity=Neg	2	advmod	_	wf="не"
-2	преходи	преходити	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	wf="преходи"
+2	преходи	преходити	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	wf="преходи"
 3	бо	бо	SCONJ	_	_	2	mark	_	wf="бо"
 4	мовитъ	мовити	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis:discourse	_	wf="мовитъ"
 5	границъ	граница	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	2	obj	_	wf="границъ"
-6	которыe	который	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	7	obj	_	wf="которые"
+6	которые	который	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	7	obj	_	wf="которые"
 7	положили	положити	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	5	acl:relcl	_	wf="положили"
 8	ѡ(т)цы	отецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	wf="отцы"
 9	твоѝ	твой	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	det	_	wf="твои"|SpaceAfter=No
@@ -77,7 +77,7 @@ The following 7 pairs of parts of speech are connected with `parataxis:discourse
 1	Свѣтилникъ	свѣтилникъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	wf="Свѣтилникъ"
 2	тѣла	тѣло	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	wf="тѣла"
 3	мовитъ	мовити	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis:discourse	_	wf="мовитъ"
-4	eсть	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	wf="есть"
+4	есть	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	wf="есть"
 5	око	око	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	wf="око"|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	wf="."
 

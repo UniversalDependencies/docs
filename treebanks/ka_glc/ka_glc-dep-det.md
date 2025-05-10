@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `det`: <tt><a href="ka_glc-dep-det-poss.html">det:poss</a></tt>.
 
-1101 nodes (2%) are attached to their parents as `det`.
+1102 nodes (2%) are attached to their parents as `det`.
 
-1089 instances of `det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.40145322434151.
+1090 instances of `det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.40290381125227.
 
-The following 9 pairs of parts of speech are connected with `det`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (952; 86% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (67; 6% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (40; 4% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (24; 2% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `det`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (953; 86% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (67; 6% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (40; 4% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (24; 2% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

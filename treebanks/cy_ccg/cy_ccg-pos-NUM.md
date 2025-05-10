@@ -60,18 +60,18 @@ The 2nd highest number of forms (5) was observed with the lemma “dau”: <em>d
 
 The 3rd highest number of forms (5) was observed with the lemma “pedwar”: <em>bedair, bedwar, pedair, pedwar, phedair</em>.
 
-`NUM` occurs with 4 features: <tt><a href="cy_ccg-feat-NumType.html">NumType</a></tt> (685; 99% instances), <tt><a href="cy_ccg-feat-NumForm.html">NumForm</a></tt> (682; 99% instances), <tt><a href="cy_ccg-feat-Gender.html">Gender</a></tt> (91; 13% instances), <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt> (69; 10% instances)
+`NUM` occurs with 4 features: <tt><a href="cy_ccg-feat-NumType.html">NumType</a></tt> (689; 100% instances), <tt><a href="cy_ccg-feat-NumForm.html">NumForm</a></tt> (686; 100% instances), <tt><a href="cy_ccg-feat-Gender.html">Gender</a></tt> (91; 13% instances), <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt> (69; 10% instances)
 
 `NUM` occurs with 9 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Mutation=AM`, `Mutation=SM`, `NumForm=Combi`, `NumForm=Digit`, `NumForm=Roman`, `NumForm=Word`, `NumType=Card`
 
-`NUM` occurs with 15 feature combinations.
-The most frequent feature combination is `NumForm=Digit|NumType=Card` (333 tokens).
+`NUM` occurs with 14 feature combinations.
+The most frequent feature combination is `NumForm=Digit|NumType=Card` (334 tokens).
 Examples: <em>4, 2019, 10, 200, 2020, 50, 500, 7, 100, 11</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 16 different relations: <tt><a href="cy_ccg-dep-nummod.html">nummod</a></tt> (329; 48% instances), <tt><a href="cy_ccg-dep-obl.html">obl</a></tt> (123; 18% instances), <tt><a href="cy_ccg-dep-nmod.html">nmod</a></tt> (108; 16% instances), <tt><a href="cy_ccg-dep-nsubj.html">nsubj</a></tt> (36; 5% instances), <tt><a href="cy_ccg-dep-conj.html">conj</a></tt> (28; 4% instances), <tt><a href="cy_ccg-dep-obj.html">obj</a></tt> (20; 3% instances), <tt><a href="cy_ccg-dep-root.html">root</a></tt> (16; 2% instances), <tt><a href="cy_ccg-dep-appos.html">appos</a></tt> (9; 1% instances), <tt><a href="cy_ccg-dep-acl.html">acl</a></tt> (6; 1% instances), <tt><a href="cy_ccg-dep-flat-name.html">flat:name</a></tt> (4; 1% instances), <tt><a href="cy_ccg-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="cy_ccg-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="cy_ccg-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="cy_ccg-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="cy_ccg-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="cy_ccg-dep-advcl.html">advcl</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 16 different relations: <tt><a href="cy_ccg-dep-nummod.html">nummod</a></tt> (330; 48% instances), <tt><a href="cy_ccg-dep-obl.html">obl</a></tt> (123; 18% instances), <tt><a href="cy_ccg-dep-nmod.html">nmod</a></tt> (108; 16% instances), <tt><a href="cy_ccg-dep-nsubj.html">nsubj</a></tt> (35; 5% instances), <tt><a href="cy_ccg-dep-conj.html">conj</a></tt> (28; 4% instances), <tt><a href="cy_ccg-dep-obj.html">obj</a></tt> (20; 3% instances), <tt><a href="cy_ccg-dep-root.html">root</a></tt> (16; 2% instances), <tt><a href="cy_ccg-dep-appos.html">appos</a></tt> (9; 1% instances), <tt><a href="cy_ccg-dep-acl.html">acl</a></tt> (6; 1% instances), <tt><a href="cy_ccg-dep-flat-name.html">flat:name</a></tt> (4; 1% instances), <tt><a href="cy_ccg-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="cy_ccg-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="cy_ccg-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="cy_ccg-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="cy_ccg-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="cy_ccg-dep-advcl.html">advcl</a></tt> (1; 0% instances)
 
 Parents of `NUM` nodes belong to 9 different parts of speech: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (487; 71% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (86; 12% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt> (40; 6% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (24; 3% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (16; 2% instances),  (16; 2% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (15; 2% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 

@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pay_chibergis-pos-N
 `NOUN` tokens may have the following values of `Animacy`:
 
 * `Hum` (1; 100% of non-empty `Animacy`): <em>taarwã</em>
-* `EMPTY` (397): <em>ĩsi, arwã, wiʃã, peʃ, aso, aka, kwi, yar, tʃena, ausiʔ</em>
+* `EMPTY` (630): <em>ĩsi, pak, peʃ, arwã, wiʃã, aso, akwa, tia, ĩkata, aiwa</em>
 

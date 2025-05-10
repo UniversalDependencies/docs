@@ -74,13 +74,13 @@ The 2nd highest number of forms (6) was observed with the lemma “ʧík”: <em
 
 The 3rd highest number of forms (4) was observed with the lemma “ɗangəní”: <em>ɗangəní, ɗangənín, ɗangənîn, ɗaŋəní</em>.
 
-`ADV` occurs with 4 features: <tt><a href="say_autogramm-feat-PronType.html">PronType</a></tt> (155; 20% instances), <tt><a href="say_autogramm-feat-Deixis.html">Deixis</a></tt> (15; 2% instances), <tt><a href="say_autogramm-feat-Mood.html">Mood</a></tt> (9; 1% instances), <tt><a href="say_autogramm-feat-Aspect.html">Aspect</a></tt> (1; 0% instances)
+`ADV` occurs with 5 features: <tt><a href="say_autogramm-feat-PronType.html">PronType</a></tt> (155; 20% instances), <tt><a href="say_autogramm-feat-Deixis.html">Deixis</a></tt> (15; 2% instances), <tt><a href="say_autogramm-feat-ExtPos.html">ExtPos</a></tt> (11; 1% instances), <tt><a href="say_autogramm-feat-Mood.html">Mood</a></tt> (9; 1% instances), <tt><a href="say_autogramm-feat-Aspect.html">Aspect</a></tt> (1; 0% instances)
 
-`ADV` occurs with 7 feature-value pairs: `Aspect=Res`, `Deixis=Prox`, `Deixis=Remt`, `Mood=Irr`, `PronType=Dem`, `PronType=Int`, `PronType=Rel`
+`ADV` occurs with 11 feature-value pairs: `Aspect=Res`, `Deixis=Prox`, `Deixis=Remt`, `ExtPos=ADV`, `ExtPos=INTJ`, `ExtPos=PRON`, `ExtPos=SCONJ`, `Mood=Irr`, `PronType=Dem`, `PronType=Int`, `PronType=Rel`
 
-`ADV` occurs with 9 feature combinations.
-The most frequent feature combination is `_` (597 tokens).
-Examples: <em>séː, sòːséy, ʧík, ɗan, káwây, káwêy, tsə́n, ɣəndá, tá, əndá</em>
+`ADV` occurs with 13 feature combinations.
+The most frequent feature combination is `_` (588 tokens).
+Examples: <em>séː, sòːséy, ʧík, ɗan, káwây, káwêy, tsə́n, ɣəndá, əndá, ʧǐː</em>
 
 
 ## Relations

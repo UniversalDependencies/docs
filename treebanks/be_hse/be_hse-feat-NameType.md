@@ -41,7 +41,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 ## Relations with Agreement in `NameType`
 
 The 10 most frequent relations where parent and child node agree in `NameType`:
-<tt>PROPN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> PROPN</tt> (991; 91%),
+<tt>PROPN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> PROPN</tt> (990; 91%),
 <tt>PROPN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> PROPN</tt> (45; 63%),
 <tt>PROPN --[<tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt>]--> PROPN</tt> (22; 55%),
 <tt>PROPN --[<tt><a href="be_hse-dep-compound.html">compound</a></tt>]--> PROPN</tt> (11; 85%),

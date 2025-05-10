@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Relations: `nmod:poss`
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-nmod.html">nmod</a></tt>.
-There are also 3 other language-specific subtypes of `nmod`: <tt><a href="myv_jr-dep-nmod-gobj.html">nmod:gobj</a></tt>, <tt><a href="myv_jr-dep-nmod-gsubj.html">nmod:gsubj</a></tt>, <tt><a href="myv_jr-dep-nmod-lmod.html">nmod:lmod</a></tt>.
+There are also 2 other language-specific subtypes of `nmod`: <tt><a href="myv_jr-dep-nmod-gobj.html">nmod:gobj</a></tt>, <tt><a href="myv_jr-dep-nmod-gsubj.html">nmod:gsubj</a></tt>.
 
 101 nodes (0%) are attached to their parents as `nmod:poss`.
 
@@ -25,9 +25,9 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 7 6 nmod:poss	color:blue
 1	Кечай	Кечай	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	2	nsubj	_	GTtags=Ant_Mal,Sg,Nom,Indef
 2	муизе	муемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3
-3	сельмсэнзэ	сельме	NOUN	N	Case=Ine|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=3	2	obl:inst	_	GTtags=Sem/Body_part,SP,Ine,PxSg3
-4	вере	вере	ADV	Adv	AdvType=Loc|Case=Loc	5	advmod:lmod	_	GTtags=Spat,Adv,Loc
-5	кужосто	кужо	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	2	obl:lmod	_	GTtags=Sem/Inanim_Cnt,SP,Ela,Indef
+3	сельмсэнзэ	сельме	NOUN	N	Case=Ine|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=3	2	obl	_	GTtags=Sem/Body_part,SP,Ine,PxSg3
+4	вере	вере	ADV	Adv	AdvType=Loc|Case=Loc	5	advmod	_	GTtags=Spat,Adv,Loc
+5	кужосто	кужо	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	2	obl	_	GTtags=Sem/Inanim_Cnt,SP,Ela,Indef
 6	эсест	эсь	PRON	Pron	Case=Gen|Number=Plur|Person=3|PronType=Prs|Reflex=Yes|Variant=Short	7	nmod:poss	_	GTtags=Refl,Pl3,Gen,Variant=Short
 7	куронть	куро	NOUN	N	Case=Gen|Definite=Def|Number=Sing	2	obj	_	GTtags=Sem/Inanim_Cnt,Sg,Gen,Def|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	2	punct	_	_
@@ -47,7 +47,7 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 4	костявт	костявомс	VERB	V	Connegative=Yes|Mood=Ind	0	root	_	GTtags=IV,Ind,ConNeg
 5	валске	валске	NOUN	N	AdvType=Tim|Case=Nom|Definite=Ind|Number=Sing	6	compound	_	GTtags=Temp,Sg,Nom,Indef
 6	мартонь	марто	NOUN	N	Case=Gen|Definite=Ind|NounType=Relat|Number=Plur,Sing	7	nmod	_	GTtags=Der/MWN,N,SP,Gen,Indef
-7	чипайсэнть	чипай	NOUN	N	Case=Ine|Definite=Def|Number=Sing	4	obl:lmod	_	GTtags=Sg,Ine,Def|SpaceAfter=No
+7	чипайсэнть	чипай	NOUN	N	Case=Ine|Definite=Def|Number=Sing	4	obl	_	GTtags=Sg,Ine,Def|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~

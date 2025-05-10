@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of ADP in UD_Swiss_German-UZH'
+title:  'Statistics of ADP in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: POS Tags: `ADP`
+## Treebank Statistics: UD_Alemannic-UZH: POS Tags: `ADP`
 
 There are 1 `ADP` lemmas (7%), 59 `ADP` types (7%) and 138 `ADP` tokens (10%).
 Out of 15 observed tags, the rank of `ADP` is: 2 in number of lemmas, 6 in number of types and 5 in number of tokens.

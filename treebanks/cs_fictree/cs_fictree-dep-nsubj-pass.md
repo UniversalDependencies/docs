@@ -48,7 +48,7 @@ The following 11 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 2	tím	ten	DET	PDNS7----------	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	5	obl	5:obl:nad:ins	_
 3	vším	všechen	DET	PLNS7----------	Case=Ins|Gender=Neut|Number=Sing|PronType=Tot	2	det	2:det	_
 4	byl	být	AUX	VpIS----R-AA---	Animacy=Inan|Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	aux:pass	5:aux:pass	_
-5	vyveden	vyvedený	ADJ	VsIS------AP---	Animacy=Inan|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	_
+5	vyveden	vyvedený	ADJ	VsIS------AP---	Animacy=Inan|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	LDeriv=vyvést
 6	nápis	nápis	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	5:nsubj:pass	_
 7	Bitva	bitva	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	6	nmod	6:nmod:nom	_
 8	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	9	case	9:case	_
@@ -78,7 +78,7 @@ The following 11 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 9	,	,	PUNCT	Z:-------------	_	13	punct	13:punct	_
 10	než	než	SCONJ	J,-------------	_	13	mark	13:mark	_
 11	jsi	být	AUX	VB-S---2P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	13:aux	_
-12	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	13:obj	_
+12	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	obj	13:obj	_
 13	poznal	poznat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	6:advcl:než	SpaceAfter=No
 14	.	.	PUNCT	Z:-------------	_	6	punct	6:punct	_
 

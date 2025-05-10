@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="sms_giellagas-dep-obl.html">obl</a></tt>.
-There are also 2 other language-specific subtypes of `obl`: <tt><a href="sms_giellagas-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="sms_giellagas-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are also 1 other language-specific subtypes of `obl`: <tt><a href="sms_giellagas-dep-obl-tmod.html">obl:tmod</a></tt>.
 
 3 nodes (0%) are attached to their parents as `obl:agent`.
 
@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 13 obl:agent	color:blue
-1	Mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	2	obl:lmod	_	GTtags=Sg,Loc
+1	Mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	2	obl	_	GTtags=Sg,Loc
 2	jåått	jååʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
 3	di	di	CCONJ	CC	_	4	cc	_	_
 4	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
@@ -53,7 +53,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 3	õlggâm	õlggâd	AUX	Aux	Aspect=Perf|VerbForm=Part	4	aux	_	GTtags=Act,PrfPrc
 4	leeʹd	leeʹd	AUX	V	VerbForm=Inf	0	root	_	GTtags=IV,Inf
 5	tõn	tõt	DET	Det	Case=Gen|Number=Sing|PronType=Dem	6	det	_	GTtags=Dem,Sg,Gen
-6	peeiʹv	peiʹvv	NOUN	N	Case=Gen|Number=Sing	4	obl:tmod	_	GTtags=Sg,Gen
+6	peeiʹv	peiʹvv	NOUN	N	Case=Gen|Number=Sing	4	obl	_	GTtags=Sg,Gen
 7	čååǥǥâʹttmen	čååǥǥâʹttmen	VERB	V	_	4	xcomp	_	_
 8	vuõptees	vuõptt	NOUN	N	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	7	obj	_	GTtags=Pl,Acc,PxSg3|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	13	punct	_	_
@@ -63,7 +63,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 13	šõddâm	šõddâd	VERB	V	Aspect=Perf|VerbForm=Part	4	advcl	_	GTtags=Act,PrfPrc
 14	ǥu	ǥu	SCONJ	CS	_	18	mark	_	_
 15	ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	18	aux	_	GTtags=Neg,Ind,Sg3
-16	tâʹl	tâʹl	ADV	Adv	AdvType=Tim	18	advmod:tmod	_	GTtags=Sem/Time
+16	tâʹl	tâʹl	ADV	Adv	AdvType=Tim	18	advmod	_	GTtags=Sem/Time
 17	ni	ni	PART	Pcle	_	18	advmod:neg	_	_
 18	vuäittam	vueiʹtted	VERB	V	Aspect=Perf|VerbForm=Part	13	advcl	_	GTtags=Act,PrfPrc|SpaceAfter=No
 19	.	.	PUNCT	CLB	_	4	punct	_	_

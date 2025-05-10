@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 7 csubj	color:blue
 1	Tuntuu	tuntua	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	oudolta	outo	ADJ	A,Sg,Abl	Case=Abl|Number=Sing	1	nmod	_	_
+2	oudolta	outo	ADJ	A,Sg,Abl	Case=Abl|Number=Sing	1	obl	_	_
 3	,	,	PUNCT	Pun	_	2	punct	_	_
 4	että	että	SCONJ	Pcle,CS	_	7	mark	_	_
 5	joku	joku	PRON	Pron,Qnt,Sg,Nom	Case=Nom|Number=Sing|PronType=Ind	7	nsubj	_	FTB-PronType=Qnt
@@ -62,7 +62,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 2 8 csubj	color:blue
 1	saattaa	saattaa	AUX	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	_
 2	olla	olla	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	0	root	_	_
-3	hyväksi	hyvä	ADJ	A,Sg,Tra	Case=Tra|Number=Sing	2	nmod	_	_
+3	hyväksi	hyvä	ADJ	A,Sg,Tra	Case=Tra|Number=Sing	2	obl	_	_
 4	,	,	PUNCT	Pun	_	3	punct	_	_
 5	että	että	SCONJ	Pcle,CS	_	8	mark	_	_
 6	ihmisoikeusraportoija	ihmisoikeusraportoija	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	8	nsubj:cop	_	_

@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 14 13 expl	color:blue
 1	Nid	ni	PART	neg	_	7	advmod	_	_
 2	yw	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
-3	hyd	hyd	NOUN	noun	Gender=Masc|Number=Sing	7	advmod	_	_
+3	hyd	hyd	NOUN	noun	ExtPos=ADV|Gender=Masc|Number=Sing	7	advmod	_	_
 4	yn	yn	ADP	prep	_	3	fixed	_	_
 5	oed	oed	NOUN	noun	Gender=Masc|Number=Sing	3	fixed	_	_
 6	yn	yn	PART	pred	_	7	case:pred	_	_

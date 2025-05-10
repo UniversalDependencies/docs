@@ -62,16 +62,16 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Frac` (1; 100% of non-empty `NumType`): <em>half</em>
-* `EMPTY` (3782): <em>x, week, T, project, S, school, y, mg, time, party</em>
+* `EMPTY` (3781): <em>x, week, T, project, S, school, y, mg, time, party</em>
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="en_gentle-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (21; 100%),
-<tt>NUM --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> NUM</tt> (8; 73%),
+<tt>NUM --[<tt><a href="en_gentle-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (22; 100%),
+<tt>NUM --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> NUM</tt> (9; 64%),
 <tt>ADJ --[<tt><a href="en_gentle-dep-obl.html">obl</a></tt>]--> ADJ</tt> (5; 100%),
 <tt>NUM --[<tt><a href="en_gentle-dep-compound.html">compound</a></tt>]--> NUM</tt> (4; 100%),
-<tt>NUM --[<tt><a href="en_gentle-dep-dep.html">dep</a></tt>]--> NUM</tt> (3; 100%),
+<tt>NUM --[<tt><a href="en_gentle-dep-dep.html">dep</a></tt>]--> NUM</tt> (2; 100%),
 <tt>NUM --[<tt><a href="en_gentle-dep-nmod-unmarked.html">nmod:unmarked</a></tt>]--> NUM</tt> (2; 100%),
 <tt>NUM --[<tt><a href="en_gentle-dep-flat.html">flat</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="en_gentle-dep-obl.html">obl</a></tt>]--> NUM</tt> (1; 100%),

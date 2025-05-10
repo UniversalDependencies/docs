@@ -34,7 +34,7 @@ The following 1 pairs of parts of speech are connected with `expl:impers`: <tt><
 10	,	,	PUNCT	_	_	7	punct	7:punct	_
 11	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
 12	perigoso	perigoso	ADJ	_	Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
-13	.	.	PUNCT	_	_	12	punct	12:punct	SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	12:punct	_
 
 ~~~
 

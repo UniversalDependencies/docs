@@ -11,19 +11,19 @@ It occurs with 2 different values: `Act`, `Mid`.
 
 4 tokens (0%) have a non-empty value of `Voice`.
 2 types (0%) occur at least once with a non-empty value of `Voice`.
-3 lemmas (0%) occur at least once with a non-empty value of `Voice`.
+3 lemmas (1%) occur at least once with a non-empty value of `Voice`.
 The feature is used with 3 part-of-speech tags: <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `PART`
 
-2 <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `Voice`.
+2 <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Voice`.
 
 The most frequent other feature values with which `PART` and `Voice` co-occurred: <tt><a href="gya_autogramm-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `PART` tokens may have the following values of `Voice`:
 
 * `Act` (2; 100% of non-empty `Voice`): <em>nɛ́</em>
-* `EMPTY` (104): <em>ná, nɛ̀, sɛ̀nɛ́, kàá, péínɛ́, kàà, nɛ̀nɛ́, nɛ́nɛ́, sínɛ́, sɔ̰́</em>
+* `EMPTY` (149): <em>ná, nɛ̀, ndé, kàá, sɛ̀nɛ́, wó, péínɛ́, wá, yè, kàà</em>
 
 ### `AUX`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 `AUX` tokens may have the following values of `Voice`:
 
 * `Act` (1; 100% of non-empty `Voice`): <em>nɛ́</em>
-* `EMPTY` (25): <em>ʔá̰, nɛ́, ʔá̰-hı̰̀ı̰́, mɛ̀-nɛ́, ʔá̰à̰, hám, sɔ̰́</em>
+* `EMPTY` (24): <em>ʔá̰, nɛ́, ʔá̰-hı̰̀ı̰́, mɛ̀-nɛ́, ʔá̰à̰, sɔ̰́</em>
 
 ### `VERB`
 
@@ -43,5 +43,5 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 `VERB` tokens may have the following values of `Voice`:
 
 * `Mid` (1; 100% of non-empty `Voice`): <em>yɔ̀á</em>
-* `EMPTY` (585): <em>ndák, dɛ́, nɛ́, gbó, kpèè, ngbòì, ʔá, bá, ɲɔ̀ŋá, ʔɔ́</em>
+* `EMPTY` (584): <em>ndák, dɛ́, nɛ́, gbó, kpèè, ngbòì, ʔá, bá, ɲɔ̀ŋá, ʔɔ́</em>
 

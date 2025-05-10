@@ -43,8 +43,8 @@ The following 10 pairs of parts of speech are connected with `obl:lmod`: <tt><a 
 # visual-style 2 1 obl:lmod	color:blue
 1	这里	这里	DET	_	_	2	obl:lmod	_	Gloss=DEM.PROX|SpaceAfter=No|Tone=4_3|Translit=zhè_lǐ
 2	有	有	VERB	_	_	0	root	_	Grammar_Target=Yes|SpaceAfter=No|Tone=3|Translit=yǒu
-3	一	一	NUM	_	NumType=Card	4	nummod	_	Gloss=one|SpaceAfter=No|Tone=1|Translit=yī
-4	个	个	NOUN	_	_	5	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
+3	一	一	NUM	_	NumType=Card	5	nummod	_	Gloss=one|SpaceAfter=No|Tone=1|Translit=yī
+4	个	个	NOUN	_	_	3	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
 5	问题	问题	NOUN	_	_	2	obj	_	SpaceAfter=No|Tone=4_2|Translit=wèn_tí
 6	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit=。
 

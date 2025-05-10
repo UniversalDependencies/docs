@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latgalian-Cairo: POS Tags: `PART`
 
 There are 4 `PART` lemmas (4%), 4 `PART` types (3%) and 5 `PART` tokens (3%).
-Out of 12 observed tags, the rank of `PART` is: 10 in number of lemmas, 10 in number of types and 10 in number of tokens.
+Out of 11 observed tags, the rank of `PART` is: 9 in number of lemmas, 9 in number of types and 9 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>voi, koč, ni, tik</em>
 
@@ -39,7 +39,7 @@ The 3rd highest number of forms (1) was observed with the lemma “tik”: <em>t
 
 `PART` nodes are attached to their parents using 3 different relations: <tt><a href="ltg_cairo-dep-advmod-emph.html">advmod:emph</a></tt> (2; 40% instances), <tt><a href="ltg_cairo-dep-discourse.html">discourse</a></tt> (2; 40% instances), <tt><a href="ltg_cairo-dep-advmod-neg.html">advmod:neg</a></tt> (1; 20% instances)
 
-Parents of `PART` nodes belong to 3 different parts of speech: <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (2; 40% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (2; 40% instances), <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> (1; 20% instances)
+Parents of `PART` nodes belong to 3 different parts of speech: <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (2; 40% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (2; 40% instances), <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> (1; 20% instances)
 
 5 (100%) `PART` nodes are leaves.
 

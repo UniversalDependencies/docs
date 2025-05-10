@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>grazie</em> (<tt><a href="it_postwita
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.196850 (the average of all parts of speech is 1.310684).
+The form / lemma ratio of `INTJ` is 1.196850 (the average of all parts of speech is 1.310689).
 
 The 1st highest number of forms (7) was observed with the lemma “haha”: <em>HAHAHAHAAHAHHA, HAHAHAHAHAAH, HHAHAHAHAHAHAHAAHAHHAAHHAHAHA, Hahahahhahahhahahhhhaahahhhaha, haha, hahahahahahah, hahahahahahahah</em>.
 

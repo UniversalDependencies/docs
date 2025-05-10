@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Pashto-Sikaram: Relations: `aux:pass`
 
 This relation is a language-specific subtype of <tt><a href="ps_sikaram-dep-aux.html">aux</a></tt>.
+There are also 5 other language-specific subtypes of `aux`: <tt><a href="ps_sikaram-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="ps_sikaram-dep-aux-fut.html">aux:fut</a></tt>, <tt><a href="ps_sikaram-dep-aux-hab.html">aux:hab</a></tt>, <tt><a href="ps_sikaram-dep-aux-perf.html">aux:perf</a></tt>, <tt><a href="ps_sikaram-dep-aux-pot.html">aux:pot</a></tt>.
 
-1 nodes (0%) are attached to their parents as `aux:pass`.
+25 nodes (1%) are attached to their parents as `aux:pass`.
 
-1 instances of `aux:pass` (100%) are left-to-right (parent precedes child).
+25 instances of `aux:pass` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (25; 100% instances).
 
 
 ~~~ conllu
@@ -29,11 +30,11 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 5	نۀ	نۀ	PART	_	Polarity=Neg	6	advmod	_	Translit=në|LTranslit=në|Gloss=not
 6	مریم	مریم	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	Translit=maryám|LTranslit=maryám|Gloss=Mary
 7	براون	براون	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	6	flat	_	Translit=brâwn|LTranslit=brâwn|Gloss=Brown
-8	کولی	کول	AUX	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	aux	_	Translit=kawë́lay|LTranslit=kawë́l|Gloss=done
-9	شوای	کېدل	AUX	_	Aspect=Perf|Mood=Pot|VerbForm=Fin	10	aux	_	Translit=šwây|LTranslit=kedë́l|Gloss=become
+8	کولای	کول	AUX	_	Aspect=Imp|Mood=Cnd|VerbForm=Fin	10	aux:pot	_	Translit=kawë́lây|LTranslit=kawë́l|Gloss=done
+9	شوای	کېدل	AUX	_	Aspect=Perf|Mood=Cnd|Variant=Short|VerbForm=Fin	10	aux:pot	_	Translit=šwây|LTranslit=kedë́l|Gloss=become
 10	وټاکل	ټاکل	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	0	root	_	Translit=wë́ṭâkël|LTranslit=ṭâkë́l|Gloss=select
-11	شي	کېدل	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	Translit=ši|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
-12	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.|Gloss=.
+11	شي	کېدل	AUX	_	Mood=Sub|Number=Plur|Person=3|VerbForm=Fin	10	aux:pass	_	Translit=ši|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
+12	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

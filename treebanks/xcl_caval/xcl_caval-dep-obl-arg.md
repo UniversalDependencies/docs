@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="xcl_caval-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="xcl_caval-dep-obl-agent.html">obl:agent</a></tt>.
 
-868 nodes (1%) are attached to their parents as `obl:arg`.
+899 nodes (1%) are attached to their parents as `obl:arg`.
 
-812 instances of `obl:arg` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.14400921658986.
+834 instances of `obl:arg` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.14349276974416.
 
-The following 9 pairs of parts of speech are connected with `obl:arg`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (672; 77% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (119; 14% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (59; 7% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `obl:arg`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (678; 75% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (126; 14% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (76; 8% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 9 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 1	Եւ	եւ	CCONJ	_	_	2	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
 2	ասէ	ասել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=asē|LTranslit=asel|Gloss=say
 3	ց	ց	ADP	_	_	4	case	_	SpaceAfter=No|Translit=cʻ|LTranslit=cʻ|Gloss=to
-4	նոսա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Plur|PronType=Dem	2	obl:arg	_	SpaceAfter=No|Translit=nosa|LTranslit=na|Gloss=he/she/it/that
+4	նոսա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Plur|PronType=Dem	2	obl:arg	_	SpaceAfter=No|Translit=nosa|LTranslit=na|Gloss=he/she/it
 5	՝	՝	PUNCT	_	_	6	punct	_	Translit=;|LTranslit=;
 6	եկայք	գալ	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	2	ccomp	_	Translit=ekaykʻ|LTranslit=gal|Gloss=come
 7	զկնի	զկնի	ADP	_	_	8	case	_	Translit=zkni|LTranslit=zkni|Gloss=after
@@ -50,7 +50,7 @@ The following 9 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 # visual-style 3	fgColor:white
 # visual-style 3 5 obl:arg	color:blue
 1	Եւ	եւ	CCONJ	_	_	9	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
-2	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	3	nsubj	_	Translit=or|LTranslit=or|Gloss=which
+2	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	3	nsubj	_	Translit=or|LTranslit=or|Gloss=who
 3	ասիցէ	ասել	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	9	csubj	_	Translit=asicʻē|LTranslit=asel|Gloss=say
 4	ց	ց	ADP	_	_	5	case	_	SpaceAfter=No|Translit=cʻ|LTranslit=cʻ|Gloss=to
 5	եղբայր	եղբայր	NOUN	_	Case=Acc|Number=Sing	3	obl:arg	_	Translit=ełbayr|LTranslit=ełbayr|Gloss=brother
@@ -58,7 +58,7 @@ The following 9 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 7	յիմար	յիմար	ADJ	_	Case=Nom|Number=Sing	5	ccomp	_	SpaceAfter=No|Translit=yimar|LTranslit=yimar|Gloss=foolish
 8	.	.	PUNCT	_	_	7	punct	_	Translit=:|LTranslit=:
 9	պարտաւոր	պարտաւոր	ADJ	_	Case=Nom|Number=Sing	0	root	_	Translit=partawor|LTranslit=partawor|Gloss=obliged
-10	լիցի	լինիմ	AUX	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	9	cop	_	Translit=licʻi|LTranslit=linim|Gloss=become
+10	լիցի	լինել	AUX	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	9	cop	_	Translit=licʻi|LTranslit=linel|Gloss=become
 11	ատենի	ատեան	NOUN	_	Case=Dat|Number=Sing	9	iobj	_	SpaceAfter=No|Translit=ateni|LTranslit=atean|Gloss=court
 12	:	:	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
 

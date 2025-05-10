@@ -35,28 +35,28 @@ The 2nd highest number of forms (2) was observed with the lemma “mezi”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “nad”: <em>nad, nade</em>.
 
-`ADP` occurs with 3 features: <tt><a href="cs_poetry-feat-AdpType.html">AdpType</a></tt> (545; 100% instances), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt> (545; 100% instances), <tt><a href="cs_poetry-feat-Style.html">Style</a></tt> (5; 1% instances)
+`ADP` occurs with 4 features: <tt><a href="cs_poetry-feat-AdpType.html">AdpType</a></tt> (545; 100% instances), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt> (545; 100% instances), <tt><a href="cs_poetry-feat-Style.html">Style</a></tt> (5; 1% instances), <tt><a href="cs_poetry-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`ADP` occurs with 8 feature-value pairs: `AdpType=Prep`, `AdpType=Voc`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Style=Rare`
+`ADP` occurs with 9 feature-value pairs: `AdpType=Prep`, `AdpType=Voc`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `ExtPos=ADP`, `Style=Rare`
 
-`ADP` occurs with 14 feature combinations.
+`ADP` occurs with 15 feature combinations.
 The most frequent feature combination is `AdpType=Prep|Case=Loc` (185 tokens).
 Examples: <em>v, na, o, po, Při</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 3 different relations: <tt><a href="cs_poetry-dep-case.html">case</a></tt> (544; 99% instances), <tt><a href="cs_poetry-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="cs_poetry-dep-obl.html">obl</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="cs_poetry-dep-case.html">case</a></tt> (546; 100% instances), <tt><a href="cs_poetry-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (447; 82% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (66; 12% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (14; 3% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (448; 82% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (65; 12% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (15; 3% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (1; 0% instances)
 
-545 (100%) `ADP` nodes are leaves.
+546 (100%) `ADP` nodes are leaves.
 
-2 (0%) `ADP` nodes have one child.
+1 (0%) `ADP` nodes have one child.
 
 The highest child degree of a `ADP` node is 1.
 
-Children of `ADP` nodes are attached using 1 different relations: <tt><a href="cs_poetry-dep-fixed.html">fixed</a></tt> (2; 100% instances)
+Children of `ADP` nodes are attached using 1 different relations: <tt><a href="cs_poetry-dep-fixed.html">fixed</a></tt> (1; 100% instances)
 
-Children of `ADP` nodes belong to 2 different parts of speech: <tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (1; 50% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (1; 50% instances)
+Children of `ADP` nodes belong to 1 different parts of speech: <tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (1; 100% instances)
 

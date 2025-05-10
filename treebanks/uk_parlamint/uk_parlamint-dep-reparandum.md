@@ -8,12 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-20 nodes (0%) are attached to their parents as `reparandum`.
+50 nodes (0%) are attached to their parents as `reparandum`.
 
-11 instances of `reparandum` (55%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.15.
+34 instances of `reparandum` (68%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.56.
 
-The following 11 pairs of parts of speech are connected with `reparandum`: <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (5; 25% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (4; 20% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (3; 15% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (1; 5% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (1; 5% instances).
+The following 17 pairs of parts of speech are connected with `reparandum`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (12; 24% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (10; 20% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (7; 14% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (4; 8% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (2; 4% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 reparandum	color:blue
+1	Виділення	виділення	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	на	на	ADP	ADP	Case=Acc	4	case	_	_
+3	2004	2004	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	_
+4	рік	рік	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	nmod	_	_
+5	кошти	кошти	NOUN	NOUN	Animacy=Inan|Case=Nom|Number=Ptan	1	reparandum	_	_
+6	необхідні	необхідний	ADJ	ADJ	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+7	для	для	ADP	ADP	Case=Gen	8	case	_	_
+8	проведення	проведення	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	_	_
+9	капітального	капітальний	ADJ	ADJ	Case=Gen|Gender=Masc|Number=Sing	10	amod	_	_
+10	ремонту	ремонт	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -24,7 +45,7 @@ The following 11 pairs of parts of speech are connected with `reparandum`: <tt><
 # visual-style 6 9 reparandum	color:blue
 1	Дійсно	дійсно	ADV	ADV	_	6	parataxis	_	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	_	_
-3	1000	1000	NUM	NUM	Case=Nom|NumType=Card	6	obj	_	_
+3	1000	1000	NUM	NUM	Case=Acc|NumType=Card	6	obj	_	_
 4	на	на	ADP	ADP	Case=Acc	5	case	_	_
 5	вакцинацію	вакцинація	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	_
 6	мала	мати	VERB	VERB	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -36,33 +57,6 @@ The following 11 pairs of parts of speech are connected with `reparandum`: <tt><
 12	була	бути	AUX	AUX	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	cop	_	_
 13	книга	книга	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	9	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 16 reparandum	color:blue
-1	Будь	бути	VERB	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	4	parataxis	_	_
-2	ласка	ласка	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	fixed	_	SpaceAfter=No
-3	,	,	PUNCT	PUNCT	_	1	punct	_	_
-4	включіть	включити	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
-5	мікрофон	мікрофон	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
-6	,	,	PUNCT	PUNCT	_	9	punct	_	_
-7	я	я	PRON	PRON	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
-8	не	не	PART	PART	Polarity=Neg	9	advmod:neg	_	_
-9	бачу	бачити	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
-10	без	без	ADP	ADP	Case=Gen	11	case	_	_
-11	окулярів	окуляри	NOUN	NOUN	Animacy=Inan|Case=Gen|Number=Ptan	9	obl	_	SpaceAfter=No
-12	,	,	PUNCT	PUNCT	_	9	punct	_	_
-13	Пацкана	Пацкан	PROPN	PROPN	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	16	nmod	_	_
-14	народного	народний	ADJ	ADJ	Case=Gen|Gender=Masc|Number=Sing	15	amod	_	_
-15	депутата	депутат	NOUN	NOUN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	appos	_	_
-16	мікрофон	мікрофон	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	reparandum	_	SpaceAfter=No
-17	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

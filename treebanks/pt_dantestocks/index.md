@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.15 release
 The following people have contributed to making this treebank part of UD: Ariani Di Felippo, Norton Trevisan Roman, Thiago Alexandre Salgueiro Pardo, Bryan Khelven da Silva Barbosa, Maria das Graças Volpe Nunes.
 
 Repository: [UD_Portuguese-DANTEStocks](https://github.com/UniversalDependencies/UD_Portuguese-DANTEStocks)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_dantestocks215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_dantestocks216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY 4.0
 
@@ -63,21 +63,21 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
 
 ## Features
 
-[Abbr](pt_dantestocks-feat-Abbr.html) – [Case](pt_dantestocks-feat-Case.html) – [Definite](pt_dantestocks-feat-Definite.html) – [Foreign](pt_dantestocks-feat-Foreign.html) – [Gender](pt_dantestocks-feat-Gender.html) – [Mood](pt_dantestocks-feat-Mood.html) – [Number](pt_dantestocks-feat-Number.html) – [NumType](pt_dantestocks-feat-NumType.html) – [Person](pt_dantestocks-feat-Person.html) – [Poss](pt_dantestocks-feat-Poss.html) – [PronType](pt_dantestocks-feat-PronType.html) – [Tense](pt_dantestocks-feat-Tense.html) – [Typo](pt_dantestocks-feat-Typo.html) – [VerbForm](pt_dantestocks-feat-VerbForm.html) – [Voice](pt_dantestocks-feat-Voice.html)
+[Abbr](pt_dantestocks-feat-Abbr.html) – [Case](pt_dantestocks-feat-Case.html) – [Definite](pt_dantestocks-feat-Definite.html) – [ExtPos](pt_dantestocks-feat-ExtPos.html) – [Foreign](pt_dantestocks-feat-Foreign.html) – [Gender](pt_dantestocks-feat-Gender.html) – [Mood](pt_dantestocks-feat-Mood.html) – [Number](pt_dantestocks-feat-Number.html) – [NumType](pt_dantestocks-feat-NumType.html) – [Person](pt_dantestocks-feat-Person.html) – [Poss](pt_dantestocks-feat-Poss.html) – [PronType](pt_dantestocks-feat-PronType.html) – [Tense](pt_dantestocks-feat-Tense.html) – [Typo](pt_dantestocks-feat-Typo.html) – [VerbForm](pt_dantestocks-feat-VerbForm.html) – [Voice](pt_dantestocks-feat-Voice.html)
 
 ## Relations
 
-[acl](pt_dantestocks-dep-acl.html) – [acl:relcl](pt_dantestocks-dep-acl-relcl.html) – [advcl](pt_dantestocks-dep-advcl.html) – [advmod](pt_dantestocks-dep-advmod.html) – [amod](pt_dantestocks-dep-amod.html) – [appos](pt_dantestocks-dep-appos.html) – [aux](pt_dantestocks-dep-aux.html) – [aux:pass](pt_dantestocks-dep-aux-pass.html) – [case](pt_dantestocks-dep-case.html) – [cc](pt_dantestocks-dep-cc.html) – [ccomp](pt_dantestocks-dep-ccomp.html) – [ccomp:speech](pt_dantestocks-dep-ccomp-speech.html) – [conj](pt_dantestocks-dep-conj.html) – [cop](pt_dantestocks-dep-cop.html) – [csubj](pt_dantestocks-dep-csubj.html) – [dep](pt_dantestocks-dep-dep.html) – [det](pt_dantestocks-dep-det.html) – [discourse](pt_dantestocks-dep-discourse.html) – [dislocated](pt_dantestocks-dep-dislocated.html) – [expl](pt_dantestocks-dep-expl.html) – [fixed](pt_dantestocks-dep-fixed.html) – [flat](pt_dantestocks-dep-flat.html) – [flat:foreign](pt_dantestocks-dep-flat-foreign.html) – [flat:name](pt_dantestocks-dep-flat-name.html) – [goeswith](pt_dantestocks-dep-goeswith.html) – [iobj](pt_dantestocks-dep-iobj.html) – [list](pt_dantestocks-dep-list.html) – [mark](pt_dantestocks-dep-mark.html) – [nmod](pt_dantestocks-dep-nmod.html) – [nmod:tmod](pt_dantestocks-dep-nmod-tmod.html) – [nsubj](pt_dantestocks-dep-nsubj.html) – [nsubj:outer](pt_dantestocks-dep-nsubj-outer.html) – [nsubj:pass](pt_dantestocks-dep-nsubj-pass.html) – [nummod](pt_dantestocks-dep-nummod.html) – [obj](pt_dantestocks-dep-obj.html) – [obl](pt_dantestocks-dep-obl.html) – [obl:agent](pt_dantestocks-dep-obl-agent.html) – [orphan](pt_dantestocks-dep-orphan.html) – [parataxis](pt_dantestocks-dep-parataxis.html) – [punct](pt_dantestocks-dep-punct.html) – [reparandum](pt_dantestocks-dep-reparandum.html) – [root](pt_dantestocks-dep-root.html) – [vocative](pt_dantestocks-dep-vocative.html) – [xcomp](pt_dantestocks-dep-xcomp.html)
+[acl](pt_dantestocks-dep-acl.html) – [acl:relcl](pt_dantestocks-dep-acl-relcl.html) – [advcl](pt_dantestocks-dep-advcl.html) – [advmod](pt_dantestocks-dep-advmod.html) – [amod](pt_dantestocks-dep-amod.html) – [appos](pt_dantestocks-dep-appos.html) – [aux](pt_dantestocks-dep-aux.html) – [aux:pass](pt_dantestocks-dep-aux-pass.html) – [case](pt_dantestocks-dep-case.html) – [cc](pt_dantestocks-dep-cc.html) – [ccomp](pt_dantestocks-dep-ccomp.html) – [ccomp:speech](pt_dantestocks-dep-ccomp-speech.html) – [conj](pt_dantestocks-dep-conj.html) – [cop](pt_dantestocks-dep-cop.html) – [csubj](pt_dantestocks-dep-csubj.html) – [dep](pt_dantestocks-dep-dep.html) – [det](pt_dantestocks-dep-det.html) – [discourse](pt_dantestocks-dep-discourse.html) – [dislocated](pt_dantestocks-dep-dislocated.html) – [expl](pt_dantestocks-dep-expl.html) – [expl:impers](pt_dantestocks-dep-expl-impers.html) – [fixed](pt_dantestocks-dep-fixed.html) – [flat](pt_dantestocks-dep-flat.html) – [flat:foreign](pt_dantestocks-dep-flat-foreign.html) – [flat:name](pt_dantestocks-dep-flat-name.html) – [goeswith](pt_dantestocks-dep-goeswith.html) – [iobj](pt_dantestocks-dep-iobj.html) – [list](pt_dantestocks-dep-list.html) – [mark](pt_dantestocks-dep-mark.html) – [nmod](pt_dantestocks-dep-nmod.html) – [nmod:tmod](pt_dantestocks-dep-nmod-tmod.html) – [nsubj](pt_dantestocks-dep-nsubj.html) – [nsubj:outer](pt_dantestocks-dep-nsubj-outer.html) – [nsubj:pass](pt_dantestocks-dep-nsubj-pass.html) – [nummod](pt_dantestocks-dep-nummod.html) – [obj](pt_dantestocks-dep-obj.html) – [obl](pt_dantestocks-dep-obl.html) – [obl:agent](pt_dantestocks-dep-obl-agent.html) – [orphan](pt_dantestocks-dep-orphan.html) – [parataxis](pt_dantestocks-dep-parataxis.html) – [punct](pt_dantestocks-dep-punct.html) – [reparandum](pt_dantestocks-dep-reparandum.html) – [root](pt_dantestocks-dep-root.html) – [vocative](pt_dantestocks-dep-vocative.html) – [xcomp](pt_dantestocks-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 4042 sentences, 77577 tokens and 80997 syntactic words.</li>
+<li>This corpus contains 4042 sentences, 77576 tokens and 80996 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 18294 tokens (24%) that are not followed by a space.</li>
+<li>This corpus contains 14253 tokens (18%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -110,7 +110,7 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
 </ul>
 
 <ul>
-<li>This corpus contains 33 lemmas tagged as determiners (DET): a, algum, aquele, as, cada, d, de, demais, esse, este, mais, menos, mesmo, meu, muito, nenhum, nosso, o, outro, pouco, próprio, qual, qualquer, quanto, que, seu, tal, tanto, teu, todo, um, vário, vários</li>
+<li>This corpus contains 31 lemmas tagged as determiners (DET): a, algum, aquele, as, cada, demais, esse, este, mais, menos, mesmo, meu, muito, nenhum, nosso, o, outro, pouco, próprio, qual, qualquer, quanto, que, seu, tal, tanto, teu, todo, um, vário, vários</li>
 </ul>
 
 <ul>
@@ -257,7 +257,7 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
 <ul>
   <li>Acc
     <ul>
-      <li>PRON: me, a, mim, la, nos, se, te</li>
+      <li>PRON: me, a, mim, la, nos, te</li>
     </ul>
   </li>
 </ul>
@@ -446,6 +446,7 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
 <ul>
   <li>Ind
     <ul>
+      <li>ADV: QUE, Que</li>
       <li>DET: que, mais, alguma, outros, outras, todo, cada, muita, algumas, outro</li>
       <li>PRON: quem, tudo, nada, alguém, algo, todos, ninguém, outras, outra, outro</li>
     </ul>
@@ -474,7 +475,7 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
   <li>Rel
     <ul>
       <li>DET: que</li>
-      <li>PRON: que, q, quem, quê, qq, qual, quer</li>
+      <li>PRON: que, q, quem, q., quê, qq, qual, quer</li>
     </ul>
   </li>
 </ul>
@@ -575,12 +576,55 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: em, por, de</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: de, por, a, Até, d</li>
+          <li>ADV: mais, Assim, cerca, enquanto, +, até, menos, pouco, QUE, Que</li>
+          <li>DET: um, cada</li>
+          <li>SYM: +</li>
+          <li>X: by</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADP: em</li>
+          <li>ADV: não</li>
+          <li>CCONJ: ou</li>
+          <li>PRON: isto</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>PRON: o, Isso, a, mo, tudo</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: de, d, para, a, com, desde, em</li>
+          <li>ADV: assim, Quanto, Qto, Sempre, apesar, depois, mesmo, só</li>
+          <li>CCONJ: que</li>
+          <li>DET: Cada</li>
+          <li>SCONJ: quanto, Como</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
         <ul>
           <li>PROPN: Webcast, Ceteris</li>
-          <li>X: Webcast, #Whoknows, loss, shooting, star, stop, top, by, ha, picks</li>
+          <li>X: Webcast, #Whoknows, loss, shooting, star, stop, top, ha, picks, by</li>
         </ul>
       </li>
     </ul>
@@ -636,13 +680,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (754)</li>
       <li>VERB-Fin--NOUN-ADP(para) (1)</li>
       <li>VERB-Fin--PRON (225)</li>
-      <li>VERB-Fin--PRON-Nom (139)</li>
+      <li>VERB-Fin--PRON-Nom (138)</li>
       <li>VERB-Ger--NOUN (52)</li>
       <li>VERB-Ger--PRON (17)</li>
       <li>VERB-Ger--PRON-Nom (11)</li>
       <li>VERB-Inf--NOUN (48)</li>
       <li>VERB-Inf--PRON (23)</li>
-      <li>VERB-Inf--PRON-Nom (18)</li>
+      <li>VERB-Inf--PRON-Nom (16)</li>
       <li>VERB-Part--NOUN (15)</li>
       <li>VERB-Part--PRON (4)</li>
       <li>VERB-Part--PRON-Nom (3)</li>
@@ -667,7 +711,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN (341)</li>
       <li>VERB-Inf--NOUN-ADP(às) (2)</li>
-      <li>VERB-Inf--PRON (20)</li>
+      <li>VERB-Inf--PRON (19)</li>
       <li>VERB-Inf--PRON-Acc (4)</li>
       <li>VERB-Inf--PRON-Nom (4)</li>
       <li>VERB-Part--NOUN (18)</li>
@@ -696,6 +740,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>ccomp:speech</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>ccomp:speech</a>, <a>expl:impers</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
 <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a></li>
 </ul>

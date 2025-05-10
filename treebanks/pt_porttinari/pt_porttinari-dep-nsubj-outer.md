@@ -34,7 +34,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 9	vão	ir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
 10	realmente	realmente	ADV	_	_	11	advmod	11:advmod	_
 11	sarar	sarar	VERB	_	VerbForm=Inf	0	root	0:root	SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	11:punct	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	11:punct	_
 
 ~~~
 
@@ -61,7 +61,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 14	"	"	PUNCT	_	_	9	punct	9:punct	SpaceAfter=No
 15	,	,	PUNCT	_	_	9	punct	9:punct	_
 16	disse	dizer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-17	.	.	PUNCT	_	_	16	punct	16:punct	SpaceAfter=No
+17	.	.	PUNCT	_	_	16	punct	16:punct	_
 
 ~~~
 
@@ -86,7 +86,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 12	alguns	algum	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	11	obj	11:obj	_
 13	de	de	ADP	_	_	14	case	14:case	_
 14	eles	ele	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	nmod	12:nmod:de	_
-15	.	.	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
+15	.	.	PUNCT	_	_	8	punct	8:punct	_
 
 ~~~
 

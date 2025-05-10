@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-21617 nodes (14%) are attached to their parents as `case`.
+21618 nodes (14%) are attached to their parents as `case`.
 
-21617 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.46444927603275.
+21618 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.46456656489962.
 
-The following 8 pairs of parts of speech are connected with `case`: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (17430; 81% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (2554; 12% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (948; 4% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (275; 1% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (154; 1% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (121; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (93; 0% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (42; 0% instances).
+The following 9 pairs of parts of speech are connected with `case`: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (17430; 81% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (2554; 12% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (948; 4% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (275; 1% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (154; 1% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (121; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (93; 0% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt>-<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (42; 0% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,7 +59,7 @@ The following 8 pairs of parts of speech are connected with `case`: <tt><a href=
 2	загуби	загубя-(се)	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	власт	власт	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	2	obj	2:obj	_
 4	над	над	ADP	R	_	5	case	5:case	_
-5	себе	себе	PRON	Ppxla	Case=Acc|PronType=Prs|Reflex=Yes	3	nmod	3:nmod:над	_
+5	себе	себе	PRON	Ppxla	Case=Acc|ExtPos=PRON|PronType=Prs|Reflex=Yes	3	nmod	3:nmod:над	_
 6	си	си	PART	T	_	5	fixed	5:fixed	SpaceAfter=No
 7	.	.	PUNCT	punct	_	2	punct	2:punct	_
 

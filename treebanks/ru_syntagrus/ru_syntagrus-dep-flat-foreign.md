@@ -9,54 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ru_syntagrus-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>.
 
-2447 nodes (0%) are attached to their parents as `flat:foreign`.
+2428 nodes (0%) are attached to their parents as `flat:foreign`.
 
-2447 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.27952595014303.
+2428 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.10831960461285.
 
-The following 28 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (1322; 54% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (284; 12% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (250; 10% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (221; 9% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (117; 5% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (41; 2% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (35; 1% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (31; 1% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (30; 1% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (27; 1% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (18; 1% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (13; 1% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (11; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 flat:foreign	color:blue
-1	1857	1857	NUM	_	NumType=Card	0	root	0:root	_
-2	-	-	PUNCT	_	_	3	punct	3:punct	_
-3	Основание	Основание	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	parataxis	1:parataxis	_
-4	Альпийского	альпийский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	5:amod	_
-5	клуба	клуб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod:gen	_
-6	(	(	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
-7	Alpine	Alpine	PROPN	_	Foreign=Yes	5	flat:foreign	5:flat:foreign	_
-8	Club	Club	PROPN	_	Foreign=Yes	5	flat:foreign	5:flat:foreign	SpaceAfter=No
-9	)	)	PUNCT	_	_	8	punct	8:punct	_
-10	в	в	ADP	_	_	11	case	11:case	_
-11	Лондоне	Лондон	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	nmod	3:nmod:в:loc	SpaceAfter=No
-12	.	.	PUNCT	_	_	1	punct	1:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 flat:foreign	color:blue
-1	Встречался	встречаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	0:root	_
-2	также	также	ADV	_	Degree=Pos	3	obl	3:obl	_
-3	вариант	вариант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
-4	написания	написание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	3:nmod:gen	_
-5	имени	имя	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	4:nmod:gen	_
-6	Аргус	Аргус	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	appos	3:appos	_
-7	(	(	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
-8	Argus	Argus	PROPN	_	Foreign=Yes	6	flat:foreign	6:flat:foreign	SpaceAfter=No
-9	)	)	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
-10	.	.	PUNCT	_	_	1	punct	1:punct	_
-
-~~~
+The following 21 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (1574; 65% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (387; 16% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (158; 7% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (136; 6% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (42; 2% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (39; 2% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (34; 1% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (11; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -76,6 +34,40 @@ The following 28 pairs of parts of speech are connected with `flat:foreign`: <tt
 9	или	или	CCONJ	_	_	7	cc	7:cc	_
 10	algorismi	algorismi	X	_	Foreign=Yes	7	flat:foreign	7:flat:foreign	SpaceAfter=No
 11	.	.	PUNCT	_	_	6	punct	6:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 flat:foreign	color:blue
+1	Big	Big	X	_	Foreign=Yes	0	root	0:root	_
+2	Wall	Wall	X	_	Foreign=Yes	1	flat:foreign	1:flat:foreign	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	1:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 flat:foreign	color:blue
+1	Заменим	заменить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	obj	1:obj	_
+3	на	на	ADP	_	_	6	case	6:case	_
+4	"	"	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+5	фондовых	фондовый	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	6	amod	6:amod	_
+6	брокеров	брокер	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	1	obl	1:obl:на:acc	SpaceAfter=No
+7	"	"	PUNCT	_	_	6	punct	6:punct	_
+8	и	и	CCONJ	_	_	9	cc	9:cc	_
+9	получим	получить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	1	conj	0:root|1:conj	_
+10	NASDAQ	NASDAQ	X	_	Foreign=Yes	9	flat:foreign	9:flat:foreign	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 

@@ -33,7 +33,7 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 8	compensava	compensar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	5:ccomp	_
 9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	10:det	_
 10	sacrifício	sacrifício	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	8:nsubj	SpaceAfter=No
-11	.	.	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 
@@ -54,7 +54,7 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 8	material	material	NOUN	_	Gender=Masc|Number=Sing	5	nmod	5:nmod:de	_
 9	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	10:cop	_
 10	ilegal	ilegal	ADJ	_	Number=Sing	2	ccomp	2:ccomp	SpaceAfter=No
-11	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 
@@ -75,7 +75,7 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 8	de	de	ADP	_	_	10	case	10:case	_
 9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	10:det	_
 10	solução	solução	NOUN	_	Gender=Fem|Number=Sing	7	nmod	7:nmod:de	SpaceAfter=No
-11	.	.	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 

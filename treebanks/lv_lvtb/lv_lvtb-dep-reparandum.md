@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (0%) are attached to their parents as `reparandum`.
+15 nodes (0%) are attached to their parents as `reparandum`.
 
-14 instances of `reparandum` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.35294117647059.
+12 instances of `reparandum` (80%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.
 
-The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (4; 24% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (3; 18% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (3; 18% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (2; 12% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (2; 12% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 6% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 6% instances).
+The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (4; 27% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (3; 20% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (2; 13% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 7% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (1; 7% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -30,23 +30,6 @@ The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a
 6	visas	visa	DET	pg0fpnn	Case=Nom|Gender=Fem|Number=Plur|PronType=Tot	7	det	7:det	LvtbNodeId=a-p980-p2s2w6
 7	sēdvietas	sēdvieta	NOUN	ncfpn4	Case=Nom|Gender=Fem|Number=Plur	3	nsubj:pass	3:nsubj:pass	LvtbNodeId=a-p980-p2s2w7|SpaceAfter=No
 8	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-p980-p2s2w8
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 reparandum	color:blue
-1	Tie	tas	DET	pd3mpnn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	3	reparandum	3:reparandum	LvtbNodeId=a-p3447-p33s7w1
-2	pamatā	pamats	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	4	obl	4:obl:loc	LvtbNodeId=a-p3447-p33s7w2
-3	tie	tas	DET	pd3mpnn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	4	nsubj	4:nsubj	LvtbNodeId=a-p3447-p33s7w3
-4	nāk	nākt	VERB	vmnipi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p3447-p33s7w4
-5	no	no	ADP	spsg	_	6	case	6:case	LvtbNodeId=a-p3447-p33s7w5
-6	Krievijas	Krievija	PROPN	npfsg4	Case=Gen|Gender=Fem|Number=Sing	4	obl	4:obl:no	LvtbNodeId=a-p3447-p33s7w6|SpaceAfter=No
-7	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-p3447-p33s7w7
 
 ~~~
 
@@ -79,6 +62,35 @@ The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a
 20	UEFA	UEFA	PROPN	yp	Abbr=Yes	18	appos	18:appos	LvtbNodeId=a-p18885-p3s3w20|SpaceAfter=No
 21	)	)	PUNCT	zb	_	20	punct	20:punct	LvtbNodeId=a-p18885-p3s3w21|SpaceAfter=No
 22	.	.	PUNCT	zs	_	14	punct	14:punct	LvtbNodeId=a-p18885-p3s3w22
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 reparandum	color:blue
+1	Uz	uz	ADP	spsa	_	3	case	3:case	LvtbNodeId=a-d217-p6s3w1
+2	groziņu	groziņš	NOUN	ncmpg1	Case=Gen|Gender=Masc|Number=Plur	3	nmod	3:nmod:gen	LvtbNodeId=a-d217-p6s3w2
+3	vakaru	vakars	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	7	iobj	7:iobj	LvtbNodeId=a-d217-p6s3w3
+4	ikvienam	ikviens	DET	pg0msdn	Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	6	iobj	6:iobj	LvtbNodeId=a-d217-p6s3w4
+5	bija	būt	AUX	vcnisii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	aux:pass	6:aux:pass	LvtbNodeId=a-d217-p6s3w5
+6	piekodināts	piekodināt	VERB	vmnpdmsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	LvtbNodeId=a-d217-p6s3w6
+7	nākt	nākt	VERB	vmnn0i1000n	Polarity=Pos|VerbForm=Inf	6	ccomp	6:ccomp	LvtbNodeId=a-d217-p6s3w7
+8	ar	ar	ADP	spsa	_	11	case	11:case	LvtbNodeId=a-d217-p6s3w8
+9	ar	ar	ADP	spsa	_	8	reparandum	8:reparandum	LvtbNodeId=a-d217-p6s3w9
+10	līku	līks	ADJ	affsanp	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	11	amod	11:amod	LvtbNodeId=a-d217-p6s3w10
+11	padusi	paduse	NOUN	ncfsa5	Case=Acc|Gender=Fem|Number=Sing	7	obl	7:obl:ar	LvtbNodeId=a-d217-p6s3w11|SpaceAfter=No
+12	,	,	PUNCT	zc	_	13	punct	13:punct	LvtbNodeId=a-d217-p6s3w12
+13	proti	proti	PART	q	_	18	discourse	18:discourse	LvtbNodeId=a-d217-p6s3w13|SpaceAfter=No
+14	,	,	PUNCT	zc	_	13	punct	13:punct	LvtbNodeId=a-d217-p6s3w14
+15	ar	ar	ADP	spsa	_	18	case	18:case	LvtbNodeId=a-d217-p6s3w15
+16	mājās	māja	NOUN	ncfpl4	Case=Loc|Gender=Fem|Number=Plur	17	obl	17:obl:loc	LvtbNodeId=a-d217-p6s3w16
+17	pagatavotu	pagatavot	VERB	vmnpdmsapsnpn	Aspect=Perf|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	18	amod	18:amod	LvtbNodeId=a-d217-p6s3w17
+18	cienastu	cienasts	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	11	acl	11:acl:acc	LvtbNodeId=a-d217-p6s3w18|SpaceAfter=No
+19	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-d217-p6s3w19
 
 ~~~
 

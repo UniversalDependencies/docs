@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Naija-NSC: POS Tags: `PROPN`
 
 There are 640 `PROPN` lemmas (14%), 649 `PROPN` types (12%) and 2187 `PROPN` tokens (2%).
-Out of 15 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 3 in number of types and 12 in number of tokens.
+Out of 16 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 3 in number of types and 12 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>God, Nigeria, Jesus, Pidgin, English, Lagos, Alaska, Jos, Abuja, WAEC</em>
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>Pidgin</em> (<tt><a href="pcm_nsc-pos
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.014063 (the average of all parts of speech is 1.162341).
+The form / lemma ratio of `PROPN` is 1.014063 (the average of all parts of speech is 1.162049).
 
 The 1st highest number of forms (2) was observed with the lemma “Allah”: <em>Allah, Allahu</em>.
 
@@ -61,12 +61,12 @@ The 2nd highest number of forms (2) was observed with the lemma “Friday”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “Monday”: <em>Monday, Mondays</em>.
 
-`PROPN` occurs with 4 features: <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt> (104; 5% instances), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (18; 1% instances), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (1; 0% instances)
+`PROPN` occurs with 4 features: <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt> (105; 5% instances), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (18; 1% instances), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (1; 0% instances)
 
 `PROPN` occurs with 4 feature-value pairs: `Case=Gen`, `ExtPos=PROPN`, `Number=Plur`, `PartType=Disc`
 
 `PROPN` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (2059 tokens).
+The most frequent feature combination is `_` (2058 tokens).
 Examples: <em>God, Nigeria, Jesus, Pidgin, English, Alaska, Jos, Abuja, Lagos, WAEC</em>
 
 
@@ -78,15 +78,15 @@ Parents of `PROPN` nodes belong to 14 different parts of speech: <tt><a href="pc
 
 948 (43%) `PROPN` nodes are leaves.
 
-542 (25%) `PROPN` nodes have one child.
+543 (25%) `PROPN` nodes have one child.
 
-269 (12%) `PROPN` nodes have two children.
+265 (12%) `PROPN` nodes have two children.
 
-428 (20%) `PROPN` nodes have three or more children.
+431 (20%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 13.
 
-Children of `PROPN` nodes are attached using 35 different relations: <tt><a href="pcm_nsc-dep-dep.html">dep</a></tt> (1007; 33% instances), <tt><a href="pcm_nsc-dep-case.html">case</a></tt> (513; 17% instances), <tt><a href="pcm_nsc-dep-flat.html">flat</a></tt> (331; 11% instances), <tt><a href="pcm_nsc-dep-cop.html">cop</a></tt> (175; 6% instances), <tt><a href="pcm_nsc-dep-det.html">det</a></tt> (139; 5% instances), <tt><a href="pcm_nsc-dep-discourse.html">discourse</a></tt> (111; 4% instances), <tt><a href="pcm_nsc-dep-conj.html">conj</a></tt> (93; 3% instances), <tt><a href="pcm_nsc-dep-advmod.html">advmod</a></tt> (81; 3% instances), <tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt> (78; 3% instances), <tt><a href="pcm_nsc-dep-nsubj.html">nsubj</a></tt> (70; 2% instances), <tt><a href="pcm_nsc-dep-advcl-cleft.html">advcl:cleft</a></tt> (66; 2% instances), <tt><a href="pcm_nsc-dep-nmod.html">nmod</a></tt> (65; 2% instances), <tt><a href="pcm_nsc-dep-cc.html">cc</a></tt> (54; 2% instances), <tt><a href="pcm_nsc-dep-amod.html">amod</a></tt> (46; 2% instances), <tt><a href="pcm_nsc-dep-appos.html">appos</a></tt> (35; 1% instances), <tt><a href="pcm_nsc-dep-mark.html">mark</a></tt> (35; 1% instances), <tt><a href="pcm_nsc-dep-acl-relcl.html">acl:relcl</a></tt> (30; 1% instances), <tt><a href="pcm_nsc-dep-dislocated.html">dislocated</a></tt> (26; 1% instances), <tt><a href="pcm_nsc-dep-compound.html">compound</a></tt> (16; 1% instances), <tt><a href="pcm_nsc-dep-aux.html">aux</a></tt> (11; 0% instances), <tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt> (9; 0% instances), <tt><a href="pcm_nsc-dep-nummod.html">nummod</a></tt> (8; 0% instances), <tt><a href="pcm_nsc-dep-advcl.html">advcl</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-dep-parataxis-parenth.html">parataxis:parenth</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-dep-compound-redup.html">compound:redup</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-nmod-poss.html">nmod:poss</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-obl-mod.html">obl:mod</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-parataxis-discourse.html">parataxis:discourse</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-expl-subj.html">expl:subj</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-flat-foreign.html">flat:foreign</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-vocative.html">vocative</a></tt> (1; 0% instances)
+Children of `PROPN` nodes are attached using 36 different relations: <tt><a href="pcm_nsc-dep-punct.html">punct</a></tt> (1051; 34% instances), <tt><a href="pcm_nsc-dep-case.html">case</a></tt> (513; 17% instances), <tt><a href="pcm_nsc-dep-flat.html">flat</a></tt> (331; 11% instances), <tt><a href="pcm_nsc-dep-cop.html">cop</a></tt> (175; 6% instances), <tt><a href="pcm_nsc-dep-det.html">det</a></tt> (138; 4% instances), <tt><a href="pcm_nsc-dep-discourse.html">discourse</a></tt> (111; 4% instances), <tt><a href="pcm_nsc-dep-conj.html">conj</a></tt> (93; 3% instances), <tt><a href="pcm_nsc-dep-advmod.html">advmod</a></tt> (81; 3% instances), <tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt> (78; 3% instances), <tt><a href="pcm_nsc-dep-nsubj.html">nsubj</a></tt> (70; 2% instances), <tt><a href="pcm_nsc-dep-advcl-cleft.html">advcl:cleft</a></tt> (66; 2% instances), <tt><a href="pcm_nsc-dep-nmod.html">nmod</a></tt> (65; 2% instances), <tt><a href="pcm_nsc-dep-cc.html">cc</a></tt> (54; 2% instances), <tt><a href="pcm_nsc-dep-amod.html">amod</a></tt> (46; 1% instances), <tt><a href="pcm_nsc-dep-appos.html">appos</a></tt> (35; 1% instances), <tt><a href="pcm_nsc-dep-mark.html">mark</a></tt> (35; 1% instances), <tt><a href="pcm_nsc-dep-acl-relcl.html">acl:relcl</a></tt> (31; 1% instances), <tt><a href="pcm_nsc-dep-dislocated.html">dislocated</a></tt> (26; 1% instances), <tt><a href="pcm_nsc-dep-compound.html">compound</a></tt> (16; 1% instances), <tt><a href="pcm_nsc-dep-aux.html">aux</a></tt> (11; 0% instances), <tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt> (9; 0% instances), <tt><a href="pcm_nsc-dep-nummod.html">nummod</a></tt> (8; 0% instances), <tt><a href="pcm_nsc-dep-advcl.html">advcl</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-dep-dep.html">dep</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-dep-parataxis-parenth.html">parataxis:parenth</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-dep-compound-redup.html">compound:redup</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-nmod-poss.html">nmod:poss</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-obl-mod.html">obl:mod</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-parataxis-discourse.html">parataxis:discourse</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-expl-subj.html">expl:subj</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-flat-foreign.html">flat:foreign</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-vocative.html">vocative</a></tt> (1; 0% instances)
 
-Children of `PROPN` nodes belong to 15 different parts of speech: <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1032; 34% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (525; 17% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (282; 9% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (275; 9% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (197; 7% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (143; 5% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (111; 4% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (84; 3% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (82; 3% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (70; 2% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (62; 2% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (57; 2% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (42; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (37; 1% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (30; 1% instances)
+Children of `PROPN` nodes belong to 16 different parts of speech: <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (1051; 34% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (525; 17% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (282; 9% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (275; 9% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (197; 6% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (142; 5% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (111; 4% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (84; 3% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (82; 3% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (70; 2% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (62; 2% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (58; 2% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (42; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (37; 1% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (30; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (30; 1% instances)
 

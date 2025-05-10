@@ -45,7 +45,7 @@ The following 7 pairs of parts of speech are connected with `vocative`: <tt><a h
 5	meːk	_	NOUN	N	_	6	obj	_	AlignBegin=14295|AlignEnd=14424|Gloss=donkey|RX=[N]|TokenType=Root
 6	fidini	_	VERB	V1	Gender=Fem|Number=Sing|VerbClass=1	8	compound:svc	_	AlignBegin=14424|AlignEnd=14681|Gloss=move_away|MGloss=move_away-IMP.SG.F|MSeg=fidin-i|RX=[V1]-[TAM].[PNG]|TokenType=Root
 7	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=14681|AlignEnd=14938|TokenType=Break
-8	galeːlin	_	VERB	V2	Gender=Fem|Number=Sing|VerbClass=2	9	ccomp	_	AlignBegin=14938|AlignEnd=15244|Gloss=drive_cattle|MGloss=drive_cattle-IMP.SG.F-EMPH|MSeg=galeːl-i-n|Reported=Yes|ReportedSpeech=Yes|RX=[V2]-[TAM].[PNG]-[SUFX]|TokenType=Root
+8	galeːlin	_	VERB	V2	Gender=Fem|Number=Sing|VerbClass=2	9	ccomp	_	AlignBegin=14938|AlignEnd=15244|Gloss=drive_cattle|MGloss=drive_cattle-IMP.SG.F-EMPH|MSeg=galeːl-i-n|Reported=Yes|RX=[V2]-[TAM].[PNG]-[SUFX]|TokenType=Root
 9	idi	_	VERB	V1,IRG	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=15244|AlignEnd=15551|Gloss=say\PFV|MGloss=3SG.M-say\PFV|MSeg=i-di|RX=[PNG]-[V1].[IRG]|TokenType=Root
 10	ini	_	VERB	V1,IRG	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	9	discourse	_	AlignBegin=15551|AlignEnd=15857|Gloss=say\PFV|MGloss=3SG.M-say\PFV|MSeg=i-ni|RX=[PNG]-[V1].[IRG]|TokenType=Root
 11	//	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=15857|AlignEnd=16164|TokenType=Break

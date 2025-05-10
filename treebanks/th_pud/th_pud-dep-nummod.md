@@ -22,16 +22,16 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nummod	color:blue
-1	5,000	_	NUM	CD	_	2	nummod	_	Translit=5,000
-2	ดอลลาร์	_	NOUN	NNB	_	0	root	_	SpaceAfter=No|Translit=dɔːllár
-3	ต่อ	_	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=t¹'
-4	คน	_	NOUN	NN	_	2	nmod	_	Translit=gʰn
-5	สูง	_	ADJ	JJ	_	2	conj	_	SpaceAfter=No|Translit=súŋ
-6	สุด	_	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=sud
-7	ตาม	_	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=tám
-8	ที่	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No|Translit=dʰí¹
-9	ได้รับ	_	AUX	MD	Voice=Pass	10	aux	_	SpaceAfter=No|Translit=dai²râb
-10	อนุญาต	_	VERB	VV	_	5	xcomp	_	Translit='nuŷát
+1	5,000	5,000	NUM	CD	_	2	nummod	_	Translit=5,000|LTranslit=5,000
+2	ดอลลาร์	ดอลลาร์	NOUN	NNB	_	0	root	_	SpaceAfter=No|Translit=dɔːllár|LTranslit=dɔːllár
+3	ต่อ	ต่อ	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=t¹'|LTranslit=t¹'
+4	คน	คน	NOUN	NN	_	2	nmod	_	Translit=gʰn|LTranslit=gʰn
+5	สูง	สูง	ADJ	JJ	_	2	conj	_	SpaceAfter=No|Translit=súŋ|LTranslit=súŋ
+6	สุด	สุด	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=sud|LTranslit=sud
+7	ตาม	ตาม	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=tám|LTranslit=tám
+8	ที่	ที่	DET	WDT	_	10	nsubj	_	SpaceAfter=No|Translit=dʰí¹|LTranslit=dʰí¹
+9	ได้รับ	ได้รับ	AUX	MD	Voice=Pass	10	aux	_	SpaceAfter=No|Translit=dai²râb|LTranslit=dai²râb
+10	อนุญาต	อนุญาต	VERB	VV	_	5	xcomp	_	Translit='nuŷát|LTranslit='nuŷát
 
 ~~~
 
@@ -42,23 +42,23 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 nummod	color:blue
-1	นักษัตร	_	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=nâkšâtr
-2	ของ	_	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=kʰɔːŋ
-3	เธอ	_	PRON	PRP	Person=3	1	nmod:poss	_	SpaceAfter=No|Translit=ḏʰóé
-4	คือ	_	AUX	VC	_	5	cop	_	SpaceAfter=No|Translit=gʰű'
-5	วอก	_	NOUN	NN	_	0	root	_	Proper=True|Translit=wɔːk
-6	และ	_	CCONJ	CC	_	16	cc	_	SpaceAfter=No|Translit=læ
-7	ปี	_	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=pí
-8	แซยิด	_	NOUN	NN	_	7	compound	_	SpaceAfter=No|Translit=cǽyid
-9	ครบ	_	VERB	VV	_	8	acl	_	SpaceAfter=No|Translit=gʰrb
-10	หก	_	NUM	CD	_	11	nummod	_	SpaceAfter=No|Translit=hk
-11	สิบ	_	NUM	CD	_	12	nummod	_	SpaceAfter=No|Translit=sib
-12	ปี	_	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=pí
-13	ของ	_	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=kʰɔːŋ
-14	เธอ	_	PRON	PRP	Person=3	7	nmod:poss	_	SpaceAfter=No|Translit=ḏʰóé
-15	คือ	_	AUX	VC	_	16	cop	_	SpaceAfter=No|Translit=gʰű'
-16	ปี	_	NOUN	NN	_	5	conj	_	Translit=pí
-17	1992	_	NUM	CD	_	16	appos	_	Translit=1992
+1	นักษัตร	นักษัตร	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=nâkšâtr|LTranslit=nâkšâtr
+2	ของ	ของ	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
+3	เธอ	เธอ	PRON	PRP	Person=3	1	nmod:poss	_	SpaceAfter=No|Translit=ḏʰóé|LTranslit=ḏʰóé
+4	คือ	คือ	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=gʰű'|LTranslit=gʰű'
+5	วอก	วอก	NOUN	NN	_	4	xcomp	_	Proper=True|Translit=wɔːk|LTranslit=wɔːk
+6	และ	และ	CCONJ	CC	_	15	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
+7	ปี	ปี	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=pí|LTranslit=pí
+8	แซยิด	แซยิด	NOUN	NN	_	7	compound	_	SpaceAfter=No|Translit=cǽyid|LTranslit=cǽyid
+9	ครบ	ครบ	VERB	VV	_	8	acl	_	SpaceAfter=No|Translit=gʰrb|LTranslit=gʰrb
+10	หก	หก	NUM	CD	_	11	nummod	_	SpaceAfter=No|Translit=hk|LTranslit=hk
+11	สิบ	สิบ	NUM	CD	_	12	nummod	_	SpaceAfter=No|Translit=sib|LTranslit=sib
+12	ปี	ปี	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=pí|LTranslit=pí
+13	ของ	ของ	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
+14	เธอ	เธอ	PRON	PRP	Person=3	7	nmod:poss	_	SpaceAfter=No|Translit=ḏʰóé|LTranslit=ḏʰóé
+15	คือ	คือ	VERB	VC	_	5	conj	_	SpaceAfter=No|Translit=gʰű'|LTranslit=gʰű'
+16	ปี	ปี	NOUN	NN	_	15	xcomp	_	Translit=pí|LTranslit=pí
+17	1992	1992	NUM	CD	_	16	appos	_	Translit=1992|LTranslit=1992
 
 ~~~
 
@@ -69,22 +69,22 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 14 nummod	color:blue
-1	แหล่ง	_	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=hǽl¹ŋ
-2	ข่าว	_	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=kʰá¹w
-3	ที่	_	DET	WDT	_	5	nsubj	_	SpaceAfter=No|Translit=dʰí¹
-4	เป็น	_	AUX	VC	_	5	cop	_	SpaceAfter=No|Translit=pen
-5	ที่	_	NOUN	NN	_	1	acl:relcl	_	SpaceAfter=No|Translit=dʰí¹
-6	ปรึกษา	_	VERB	VV	_	5	acl	_	SpaceAfter=No|Translit=prükšá
-7	ได้	_	AUX	AS	Aspect=Perf	8	aux	_	SpaceAfter=No|Translit=dai²
-8	กล่าว	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=klá¹w
-9	ว่า	_	ADP	IN	_	13	mark	_	SpaceAfter=No|Translit=wá¹
-10	มัน	_	PRON	PRP	Person=3	13	nsubj	_	SpaceAfter=No|Translit=mân
-11	คือ	_	AUX	VC	_	13	cop	_	Translit=gʰű'
-12	"	_	PUNCT	``	_	13	punct	_	SpaceAfter=No|Translit="
-13	คอสพีดัล	_	PROPN	NNP	_	8	ccomp	_	Translit=gʰɔːsbʰídâl
-14	100	_	NUM	CD	_	15	nummod	_	SpaceAfter=No|Translit=100
-15	%	_	SYM	SYM	_	13	clf	_	SpaceAfter=No|Translit=%
-16	"	_	PUNCT	''	_	13	punct	_	Translit="
+1	แหล่ง	แหล่ง	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=hǽl¹ŋ|LTranslit=hǽl¹ŋ
+2	ข่าว	ข่าว	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=kʰá¹w|LTranslit=kʰá¹w
+3	ที่	ที่	DET	WDT	_	5	nsubj	_	SpaceAfter=No|Translit=dʰí¹|LTranslit=dʰí¹
+4	เป็น	เป็น	AUX	VC	_	5	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
+5	ที่	ที่	NOUN	NN	_	1	acl:relcl	_	SpaceAfter=No|Translit=dʰí¹|LTranslit=dʰí¹
+6	ปรึกษา	ปรึกษา	VERB	VV	_	5	acl	_	SpaceAfter=No|Translit=prükšá|LTranslit=prükšá
+7	ได้	ได้	AUX	AS	Aspect=Perf	8	aux	_	SpaceAfter=No|Translit=dai²|LTranslit=dai²
+8	กล่าว	กล่าว	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=klá¹w|LTranslit=klá¹w
+9	ว่า	ว่า	ADP	IN	_	11	mark	_	SpaceAfter=No|Translit=wá¹|LTranslit=wá¹
+10	มัน	มัน	PRON	PRP	Person=3	11	nsubj	_	SpaceAfter=No|Translit=mân|LTranslit=mân
+11	คือ	คือ	VERB	VC	_	8	ccomp	_	Translit=gʰű'|LTranslit=gʰű'
+12	"	"	PUNCT	``	_	11	punct	_	SpaceAfter=No|Translit="|LTranslit="
+13	คอสพีดัล	คอสพีดัล	PROPN	NNP	_	11	xcomp	_	Translit=gʰɔːsbʰídâl|LTranslit=gʰɔːsbʰídâl
+14	100	100	NUM	CD	_	15	nummod	_	SpaceAfter=No|Translit=100|LTranslit=100
+15	%	%	SYM	SYM	_	13	clf	_	SpaceAfter=No|Translit=%|LTranslit=%
+16	"	"	PUNCT	''	_	11	punct	_	Translit="|LTranslit="
 
 ~~~
 

@@ -9,18 +9,18 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Prep`.
 
-322 tokens (2%) have a non-empty value of `AdpType`.
-27 types (0%) occur at least once with a non-empty value of `AdpType`.
-25 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (322; 2% instances).
+472 tokens (2%) have a non-empty value of `AdpType`.
+30 types (0%) occur at least once with a non-empty value of `AdpType`.
+28 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (472; 2% instances).
 
 ### `ADP`
 
-322 <tt><a href="la_circse-pos-ADP.html">ADP</a></tt> tokens (49% of all `ADP` tokens) have a non-empty value of `AdpType`.
+472 <tt><a href="la_circse-pos-ADP.html">ADP</a></tt> tokens (58% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Prep` (322; 100% of non-empty `AdpType`): <em>in, ad, per, cum, post, e, ex, a, ab, ante</em>
+* `Prep` (472; 100% of non-empty `AdpType`): <em>in, ad, per, cum, post, ex, inter, a, ab, e</em>
 
-`AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (25) occur only with one value of `AdpType`.
+`AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (28) occur only with one value of `AdpType`.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2420 nodes (4%) are attached to their parents as `aux`.
+2187 nodes (3%) are attached to their parents as `aux`.
 
-2406 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.39297520661157.
+2178 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.16369455875629.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (2325; 96% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (56; 2% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (32; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (2108; 96% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (48; 2% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (26; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,13 +41,13 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	Αυτό	αυτός	DET	DET	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	3	det	_	_
 2	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
 3	Κοινοβούλιο	κοινοβούλιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
-4	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+4	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	να	να	AUX	AUX	_	6	aux	_	_
-6	εξακολουθήσει	εξακολουθώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+6	εξακολουθήσει	εξακολουθώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	csubj	_	_
 7	να	να	AUX	AUX	_	9	aux	_	_
 8	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	cop	_	_
 9	πολύγλωσσο	πολύγλωσσος	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	6	xcomp	_	SpaceAfter=No
-10	.	.	PUNCT	PUNCT	_	6	punct	_	_
+10	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

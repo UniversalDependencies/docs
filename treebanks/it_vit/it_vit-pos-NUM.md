@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-VIT: POS Tags: `NUM`
 
-There are 1301 `NUM` lemmas (7%), 1320 `NUM` types (5%) and 6393 `NUM` tokens (2%).
+There are 1301 `NUM` lemmas (7%), 1321 `NUM` types (5%) and 6393 `NUM` tokens (2%).
 Out of 17 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 12 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>due, tre, cento, 15, 1, 5, 1973, 2, 20, 30</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>due</em> (<tt><a href="it_vit-pos-NUM
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.014604 (the average of all parts of speech is 1.502411).
+The form / lemma ratio of `NUM` is 1.015373 (the average of all parts of speech is 1.502670).
 
 The 1st highest number of forms (4) was observed with the lemma “uno”: <em>un, un', una, uno</em>.
 
@@ -77,15 +77,15 @@ Parents of `NUM` nodes belong to 12 different parts of speech: <tt><a href="it_v
 
 4047 (63%) `NUM` nodes are leaves.
 
-870 (14%) `NUM` nodes have one child.
+869 (14%) `NUM` nodes have one child.
 
-856 (13%) `NUM` nodes have two children.
+857 (13%) `NUM` nodes have two children.
 
 620 (10%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 27.
 
-Children of `NUM` nodes are attached using 26 different relations: <tt><a href="it_vit-dep-case.html">case</a></tt> (1100; 23% instances), <tt><a href="it_vit-dep-det.html">det</a></tt> (1035; 21% instances), <tt><a href="it_vit-dep-flat.html">flat</a></tt> (734; 15% instances), <tt><a href="it_vit-dep-punct.html">punct</a></tt> (567; 12% instances), <tt><a href="it_vit-dep-nmod.html">nmod</a></tt> (396; 8% instances), <tt><a href="it_vit-dep-conj.html">conj</a></tt> (225; 5% instances), <tt><a href="it_vit-dep-advmod.html">advmod</a></tt> (209; 4% instances), <tt><a href="it_vit-dep-cc.html">cc</a></tt> (173; 4% instances), <tt><a href="it_vit-dep-nummod.html">nummod</a></tt> (160; 3% instances), <tt><a href="it_vit-dep-amod.html">amod</a></tt> (74; 2% instances), <tt><a href="it_vit-dep-cop.html">cop</a></tt> (44; 1% instances), <tt><a href="it_vit-dep-nsubj.html">nsubj</a></tt> (42; 1% instances), <tt><a href="it_vit-dep-appos.html">appos</a></tt> (33; 1% instances), <tt><a href="it_vit-dep-obl.html">obl</a></tt> (17; 0% instances), <tt><a href="it_vit-dep-acl-relcl.html">acl:relcl</a></tt> (14; 0% instances), <tt><a href="it_vit-dep-advcl.html">advcl</a></tt> (11; 0% instances), <tt><a href="it_vit-dep-aux.html">aux</a></tt> (6; 0% instances), <tt><a href="it_vit-dep-ccomp.html">ccomp</a></tt> (5; 0% instances), <tt><a href="it_vit-dep-mark.html">mark</a></tt> (5; 0% instances), <tt><a href="it_vit-dep-parataxis.html">parataxis</a></tt> (5; 0% instances), <tt><a href="it_vit-dep-compound.html">compound</a></tt> (3; 0% instances), <tt><a href="it_vit-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="it_vit-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-det-poss.html">det:poss</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-flat-name.html">flat:name</a></tt> (1; 0% instances)
+Children of `NUM` nodes are attached using 26 different relations: <tt><a href="it_vit-dep-case.html">case</a></tt> (1101; 23% instances), <tt><a href="it_vit-dep-det.html">det</a></tt> (1035; 21% instances), <tt><a href="it_vit-dep-flat.html">flat</a></tt> (734; 15% instances), <tt><a href="it_vit-dep-punct.html">punct</a></tt> (567; 12% instances), <tt><a href="it_vit-dep-nmod.html">nmod</a></tt> (396; 8% instances), <tt><a href="it_vit-dep-conj.html">conj</a></tt> (225; 5% instances), <tt><a href="it_vit-dep-advmod.html">advmod</a></tt> (209; 4% instances), <tt><a href="it_vit-dep-cc.html">cc</a></tt> (173; 4% instances), <tt><a href="it_vit-dep-nummod.html">nummod</a></tt> (160; 3% instances), <tt><a href="it_vit-dep-amod.html">amod</a></tt> (74; 2% instances), <tt><a href="it_vit-dep-cop.html">cop</a></tt> (44; 1% instances), <tt><a href="it_vit-dep-nsubj.html">nsubj</a></tt> (42; 1% instances), <tt><a href="it_vit-dep-appos.html">appos</a></tt> (33; 1% instances), <tt><a href="it_vit-dep-obl.html">obl</a></tt> (17; 0% instances), <tt><a href="it_vit-dep-acl-relcl.html">acl:relcl</a></tt> (14; 0% instances), <tt><a href="it_vit-dep-advcl.html">advcl</a></tt> (11; 0% instances), <tt><a href="it_vit-dep-aux.html">aux</a></tt> (6; 0% instances), <tt><a href="it_vit-dep-ccomp.html">ccomp</a></tt> (5; 0% instances), <tt><a href="it_vit-dep-mark.html">mark</a></tt> (5; 0% instances), <tt><a href="it_vit-dep-parataxis.html">parataxis</a></tt> (5; 0% instances), <tt><a href="it_vit-dep-compound.html">compound</a></tt> (3; 0% instances), <tt><a href="it_vit-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="it_vit-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-det-poss.html">det:poss</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-flat-name.html">flat:name</a></tt> (1; 0% instances)
 
-Children of `NUM` nodes belong to 16 different parts of speech: <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (1070; 22% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt> (1036; 21% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (862; 18% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (639; 13% instances), <tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (567; 12% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (246; 5% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (174; 4% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (87; 2% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (50; 1% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (47; 1% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (36; 1% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (26; 1% instances), <tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (14; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Children of `NUM` nodes belong to 16 different parts of speech: <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (1071; 22% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt> (1036; 21% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (870; 18% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (639; 13% instances), <tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (567; 12% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (238; 5% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (174; 4% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (87; 2% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (50; 1% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (47; 1% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (36; 1% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (26; 1% instances), <tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (14; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 

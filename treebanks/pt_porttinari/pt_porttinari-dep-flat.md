@@ -38,7 +38,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 13	15	15	NUM	_	NumType=Card	14	nummod	14:nummod	SpaceAfter=No
 14	%	%	SYM	_	_	8	obl	8:obl:em	_
 15	sim	sim	ADV	_	_	8	advmod	8:advmod	SpaceAfter=No
-16	.	.	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
+16	.	.	PUNCT	_	_	8	punct	8:punct	_
 
 ~~~
 
@@ -64,7 +64,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 13	togada	togado	ADJ	_	Gender=Fem|Number=Sing	12	amod	12:amod	_
 14	em	em	ADP	_	_	15	case	15:case	_
 15	português	português	NOUN	_	Gender=Masc|Number=Sing	12	nmod	12:nmod:em	SpaceAfter=No
-16	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 

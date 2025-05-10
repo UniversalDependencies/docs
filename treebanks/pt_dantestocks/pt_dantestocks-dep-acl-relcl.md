@@ -34,7 +34,7 @@ The following 16 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 10	...	...	PUNCT	_	_	4	punct	_	SpaceAfter=No
 11	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
 12	#petr4	#petr4	PROPN	_	_	4	parataxis	_	SpaceAfter=No
-13	)	)	PUNCT	_	_	12	punct	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	12	punct	_	_
 
 ~~~
 
@@ -55,7 +55,7 @@ The following 16 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 8	ainda	ainda	ADV	_	_	10	advmod	_	_
 9	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 10	subindo	subir	VERB	_	VerbForm=Ger	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 
@@ -79,7 +79,7 @@ The following 16 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 11	e	e	CCONJ	_	_	12	cc	_	_
 12	rompeu	romper	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
 13	topo	topo	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
-14	PQP	PQP	X	_	_	5	discourse	_	SpaceAfter=No
+14	PQP	PQP	X	_	_	5	discourse	_	_
 
 ~~~
 

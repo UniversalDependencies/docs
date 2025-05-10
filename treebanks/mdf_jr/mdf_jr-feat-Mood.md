@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Moksha-JR: Features: `Mood`
 
 This feature is universal but the values `NegCndSub`, `Prec` are language-specific.
-It occurs with 8 different values: `Des`, `Imp`, `Ind`, `Nec`, `NegCndSub`, `Opt`, `Prec`, `Sub`.
+It occurs with 9 different values: `Cnd`, `Des`, `Imp`, `Ind`, `Nec`, `NegCndSub`, `Opt`, `Prec`, `Sub`.
 
 672 tokens (15%) have a non-empty value of `Mood`.
 533 types (25%) occur at least once with a non-empty value of `Mood`.
@@ -46,19 +46,20 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-69 <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> tokens (42% of all `AUX` tokens) have a non-empty value of `Mood`.
+69 <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> tokens (43% of all `AUX` tokens) have a non-empty value of `Mood`.
 
 The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (56; 81%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (54; 78%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (48; 70%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (43; 62%), <tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (39; 57%), <tt><a href="mdf_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (37; 54%).
 
 `AUX` tokens may have the following values of `Mood`:
 
+* `Cnd` (4; 6% of non-empty `Mood`): <em>ба</em>
 * `Imp` (3; 4% of non-empty `Mood`): <em>тяк, Тят</em>
-* `Ind` (53; 77% of non-empty `Mood`): <em>ульсь, ашезь, ашень, ашеть, изь, ульсть, эрявсь, ашесть, ба, ули</em>
+* `Ind` (51; 74% of non-empty `Mood`): <em>ульсь, ашезь, ашень, ашеть, изь, ульсть, эрявсь, ашесть, ули, эряви</em>
 * `NegCndSub` (1; 1% of non-empty `Mood`): <em>улефтяряль</em>
 * `Opt` (3; 4% of non-empty `Mood`): <em>катк, савоза</em>
 * `Prec` (1; 1% of non-empty `Mood`): <em>тята</em>
-* `Sub` (8; 12% of non-empty `Mood`): <em>афоль, ба, Улендяряль, афолензе, афолеть, улелеть</em>
-* `EMPTY` (94): <em>аф, апак, ли, аш, Афи, ашель, катк, тят</em>
+* `Sub` (6; 9% of non-empty `Mood`): <em>афоль, Улендяряль, афолензе, афолеть, улелеть</em>
+* `EMPTY` (93): <em>аф, апак, аш, ли, Афи, ашель, катк, тят</em>
 
 <table>
   <tr><th>Paradigm <i>аф</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th><th><tt>Prec</tt></th></tr>
@@ -77,7 +78,6 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="mdf_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (115; 82%),
-<tt>VERB --[<tt><a href="mdf_jr-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (23; 51%),
 <tt>VERB --[<tt><a href="mdf_jr-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (14; 74%),
 <tt>VERB --[<tt><a href="mdf_jr-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (14; 67%),
 <tt>VERB --[<tt><a href="mdf_jr-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),

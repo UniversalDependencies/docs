@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-HDT: POS Tags: `ADP`
 
-There are 240 `ADP` lemmas (0%), 240 `ADP` types (0%) and 385724 `ADP` tokens (11%).
+There are 240 `ADP` lemmas (0%), 240 `ADP` types (0%) and 385725 `ADP` tokens (11%).
 Out of 16 observed tags, the rank of `ADP` is: 8 in number of lemmas, 8 in number of types and 4 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>in, von, mit, für, auf, zu, an, bei, nach, über</em>
@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="de_hdt-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 2.529726).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.295646).
 
 The 1st highest number of forms (1) was observed with the lemma “Ab”: <em>Ab</em>.
 
@@ -67,32 +67,32 @@ The 2nd highest number of forms (1) was observed with the lemma “Abzüglich”
 
 The 3rd highest number of forms (1) was observed with the lemma “An”: <em>An</em>.
 
-`ADP` occurs with 3 features: <tt><a href="de_hdt-feat-AdpType.html">AdpType</a></tt> (365228; 95% instances), <tt><a href="de_hdt-feat-Case.html">Case</a></tt> (345545; 90% instances), <tt><a href="de_hdt-feat-PartType.html">PartType</a></tt> (20484; 5% instances)
+`ADP` occurs with 4 features: <tt><a href="de_hdt-feat-AdpType.html">AdpType</a></tt> (365228; 95% instances), <tt><a href="de_hdt-feat-Case.html">Case</a></tt> (345545; 90% instances), <tt><a href="de_hdt-feat-PartType.html">PartType</a></tt> (20484; 5% instances), <tt><a href="de_hdt-feat-ExtPos.html">ExtPos</a></tt> (60; 0% instances)
 
-`ADP` occurs with 8 feature-value pairs: `AdpType=Circ`, `AdpType=Post`, `AdpType=Prep`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `PartType=Vbp`
+`ADP` occurs with 9 feature-value pairs: `AdpType=Circ`, `AdpType=Post`, `AdpType=Prep`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `ExtPos=ADV`, `PartType=Vbp`
 
-`ADP` occurs with 12 feature combinations.
+`ADP` occurs with 15 feature combinations.
 The most frequent feature combination is `AdpType=Prep|Case=Dat` (256502 tokens).
 Examples: <em>in, von, mit, zu, bei, an, auf, nach, aus, vor</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 13 different relations: <tt><a href="de_hdt-dep-case.html">case</a></tt> (363830; 94% instances), <tt><a href="de_hdt-dep-compound-prt.html">compound:prt</a></tt> (20446; 5% instances), <tt><a href="de_hdt-dep-nmod.html">nmod</a></tt> (1323; 0% instances), <tt><a href="de_hdt-dep-advmod.html">advmod</a></tt> (38; 0% instances), <tt><a href="de_hdt-dep-conj.html">conj</a></tt> (24; 0% instances), <tt><a href="de_hdt-dep-obl.html">obl</a></tt> (17; 0% instances), <tt><a href="de_hdt-dep-reparandum.html">reparandum</a></tt> (16; 0% instances), <tt><a href="de_hdt-dep-advcl.html">advcl</a></tt> (12; 0% instances), <tt><a href="de_hdt-dep-root.html">root</a></tt> (12; 0% instances), <tt><a href="de_hdt-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 13 different relations: <tt><a href="de_hdt-dep-case.html">case</a></tt> (363809; 94% instances), <tt><a href="de_hdt-dep-compound-prt.html">compound:prt</a></tt> (20446; 5% instances), <tt><a href="de_hdt-dep-nmod.html">nmod</a></tt> (1323; 0% instances), <tt><a href="de_hdt-dep-advmod.html">advmod</a></tt> (60; 0% instances), <tt><a href="de_hdt-dep-conj.html">conj</a></tt> (24; 0% instances), <tt><a href="de_hdt-dep-obl.html">obl</a></tt> (17; 0% instances), <tt><a href="de_hdt-dep-reparandum.html">reparandum</a></tt> (16; 0% instances), <tt><a href="de_hdt-dep-advcl.html">advcl</a></tt> (12; 0% instances), <tt><a href="de_hdt-dep-root.html">root</a></tt> (12; 0% instances), <tt><a href="de_hdt-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (290037; 75% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (48179; 12% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (20289; 5% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (5964; 2% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (5421; 1% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (5392; 1% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (4736; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (2041; 1% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (2027; 1% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (1371; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (250; 0% instances),  (12; 0% instances), <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> (5; 0% instances)
+Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (290024; 75% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (48179; 12% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (20289; 5% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (5964; 2% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (5435; 1% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (5392; 1% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (4728; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (2041; 1% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (2036; 1% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (1371; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (249; 0% instances),  (12; 0% instances), <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> (5; 0% instances)
 
-384192 (100%) `ADP` nodes are leaves.
+384171 (100%) `ADP` nodes are leaves.
 
-1472 (0%) `ADP` nodes have one child.
+1493 (0%) `ADP` nodes have one child.
 
-34 (0%) `ADP` nodes have two children.
+35 (0%) `ADP` nodes have two children.
 
 26 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 8.
 
-Children of `ADP` nodes are attached using 19 different relations: <tt><a href="de_hdt-dep-case.html">case</a></tt> (1342; 81% instances), <tt><a href="de_hdt-dep-advmod.html">advmod</a></tt> (88; 5% instances), <tt><a href="de_hdt-dep-punct.html">punct</a></tt> (46; 3% instances), <tt><a href="de_hdt-dep-fixed.html">fixed</a></tt> (38; 2% instances), <tt><a href="de_hdt-dep-nmod.html">nmod</a></tt> (27; 2% instances), <tt><a href="de_hdt-dep-cc.html">cc</a></tt> (23; 1% instances), <tt><a href="de_hdt-dep-conj.html">conj</a></tt> (17; 1% instances), <tt><a href="de_hdt-dep-reparandum.html">reparandum</a></tt> (16; 1% instances), <tt><a href="de_hdt-dep-mark.html">mark</a></tt> (12; 1% instances), <tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt> (11; 1% instances), <tt><a href="de_hdt-dep-cop.html">cop</a></tt> (8; 0% instances), <tt><a href="de_hdt-dep-det.html">det</a></tt> (6; 0% instances), <tt><a href="de_hdt-dep-obj.html">obj</a></tt> (5; 0% instances), <tt><a href="de_hdt-dep-obl.html">obl</a></tt> (5; 0% instances), <tt><a href="de_hdt-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="de_hdt-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+Children of `ADP` nodes are attached using 19 different relations: <tt><a href="de_hdt-dep-case.html">case</a></tt> (1342; 80% instances), <tt><a href="de_hdt-dep-advmod.html">advmod</a></tt> (89; 5% instances), <tt><a href="de_hdt-dep-fixed.html">fixed</a></tt> (60; 4% instances), <tt><a href="de_hdt-dep-punct.html">punct</a></tt> (46; 3% instances), <tt><a href="de_hdt-dep-nmod.html">nmod</a></tt> (27; 2% instances), <tt><a href="de_hdt-dep-cc.html">cc</a></tt> (23; 1% instances), <tt><a href="de_hdt-dep-conj.html">conj</a></tt> (17; 1% instances), <tt><a href="de_hdt-dep-reparandum.html">reparandum</a></tt> (16; 1% instances), <tt><a href="de_hdt-dep-mark.html">mark</a></tt> (12; 1% instances), <tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt> (11; 1% instances), <tt><a href="de_hdt-dep-cop.html">cop</a></tt> (8; 0% instances), <tt><a href="de_hdt-dep-det.html">det</a></tt> (6; 0% instances), <tt><a href="de_hdt-dep-obj.html">obj</a></tt> (5; 0% instances), <tt><a href="de_hdt-dep-obl.html">obl</a></tt> (5; 0% instances), <tt><a href="de_hdt-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="de_hdt-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Children of `ADP` nodes belong to 11 different parts of speech: <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (1371; 83% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (56; 3% instances), <tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (46; 3% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (45; 3% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (44; 3% instances), <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (35; 2% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (21; 1% instances), <tt><a href="de_hdt-pos-PART.html">PART</a></tt> (14; 1% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances)
+Children of `ADP` nodes belong to 11 different parts of speech: <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (1371; 82% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (66; 4% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (57; 3% instances), <tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (46; 3% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (45; 3% instances), <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (35; 2% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (21; 1% instances), <tt><a href="de_hdt-pos-PART.html">PART</a></tt> (14; 1% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances)
 

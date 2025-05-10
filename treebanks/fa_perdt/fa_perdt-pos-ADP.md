@@ -63,7 +63,7 @@ The 10 most frequent ambiguous types:  را (<tt><a href="fa_perdt-pos-ADP.html"
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.486663).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.486683).
 
 The 1st highest number of forms (2) was observed with the lemma “بالا”: بالا, بالای.
 

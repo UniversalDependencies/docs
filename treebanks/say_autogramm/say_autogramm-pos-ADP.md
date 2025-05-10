@@ -73,13 +73,13 @@ The 2nd highest number of forms (5) was observed with the lemma “ká”: <em>g
 
 The 3rd highest number of forms (4) was observed with the lemma “á”: <em>kə́, tə́, á, ɣə́</em>.
 
-`ADP` occurs with 1 features: <tt><a href="say_autogramm-feat-Mood.html">Mood</a></tt> (11; 1% instances)
+`ADP` occurs with 2 features: <tt><a href="say_autogramm-feat-ExtPos.html">ExtPos</a></tt> (35; 5% instances), <tt><a href="say_autogramm-feat-Mood.html">Mood</a></tt> (11; 1% instances)
 
-`ADP` occurs with 1 feature-value pairs: `Mood=Qot`
+`ADP` occurs with 4 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=SCONJ`, `Mood=Qot`
 
-`ADP` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (744 tokens).
-Examples: <em>tə́, á, ɗa, nə́, ɣá, ɗan, kə́, teː, ká, hár</em>
+`ADP` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (709 tokens).
+Examples: <em>tə́, á, nə́, ɗa, ɣá, kə́, ɗan, teː, ká, hár</em>
 
 
 ## Relations

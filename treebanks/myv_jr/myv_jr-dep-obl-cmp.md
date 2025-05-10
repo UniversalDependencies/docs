@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Relations: `obl:cmp`
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-obl.html">obl</a></tt>.
-There are also 6 other language-specific subtypes of `obl`: <tt><a href="myv_jr-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="myv_jr-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="myv_jr-dep-obl-inst.html">obl:inst</a></tt>, <tt><a href="myv_jr-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="myv_jr-dep-obl-own.html">obl:own</a></tt>, <tt><a href="myv_jr-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are also 3 other language-specific subtypes of `obl`: <tt><a href="myv_jr-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="myv_jr-dep-obl-own.html">obl:own</a></tt>, <tt><a href="myv_jr-dep-obl-tmod.html">obl:tmod</a></tt>.
 
 62 nodes (0%) are attached to their parents as `obl:cmp`.
 
@@ -28,7 +28,7 @@ The following 15 pairs of parts of speech are connected with `obl:cmp`: <tt><a h
 3	меельцекс	меельце	ADJ	A	Case=Tra|Definite=Ind|Number=Plur,Sing	2	xcomp	_	GTtags=SP,Tra,Indef|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	прявттонть	прявт	NOUN	N	Case=Abl|Definite=Def|Number=Sing	6	obl:cmp	_	GTtags=Sg,Abl,Def
-6	мейле	мейле	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Temp|SpaceAfter=No
+6	мейле	мейле	ADV	Adv	AdvType=Tim	3	advmod	_	GTtags=Temp|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
@@ -61,10 +61,10 @@ The following 15 pairs of parts of speech are connected with `obl:cmp`: <tt><a h
 1	Кавтошка	кавто	NUM	Num	Case=Cmp|Definite=Ind|Number=Plur,Sing|NumType=Card	2	nummod	_	GTtags=Card,SP,Cmpr,Indef
 2	чить	чи	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	6	obj	_	GTtags=Pl,Nom,Indef
 3	теде	те	PRON	Pron	Case=Abl|Definite=Ind|Number=Sing|PronType=Dem	4	obl:cmp	_	GTtags=Dem,Sg,Abl,Indef
-4	мейле	мейле	ADV	Adv	AdvType=Tim	6	obl:tmod	_	GTtags=Sem/Time
+4	мейле	мейле	ADV	Adv	AdvType=Tim	6	advmod	_	GTtags=Sem/Time
 5	эзь	а	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	6	aux	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
 6	яка	якамс	VERB	V	Connegative=Yes	0	root	_	GTtags=ConNeg
-7	библиотекав	библиотека	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	6	obl:lmod	_	GTtags=Sem/Plc,SP,Lat,Indef|SpaceAfter=No
+7	библиотекав	библиотека	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	6	obl	_	GTtags=Sem/Plc,SP,Lat,Indef|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~

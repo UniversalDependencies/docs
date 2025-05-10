@@ -74,11 +74,11 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 
 
 ~~~ conllu
+# visual-style 30	bgColor:blue
+# visual-style 30	fgColor:white
 # visual-style 31	bgColor:blue
 # visual-style 31	fgColor:white
-# visual-style 32	bgColor:blue
-# visual-style 32	fgColor:white
-# visual-style 32 31 obl:agent	color:blue
+# visual-style 31 30 obl:agent	color:blue
 1	Што	што	SCONJ	_	_	18	mark	_	wf="Што"|before="<p>"
 2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	18	nsubj	_	wf="мы"|SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	wf=","
@@ -97,38 +97,37 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 16	тое(й)	тый	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	17	det	_	wf="тоей"
 17	справи	справа	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	18	obl	_	wf="справи"
 18	наказуємъ	наказовати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="наказуемъ"
-19	нинєшъни	нынѣшний	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Typo=Yes	21	amod	_	wf="нинешъни"
-20	(м)	_	X	_	_	18	iobj	_	wf="м"
-21	декретомъ	декретъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	18	iobj	_	wf="декретомъ"
-22	наши(м)	нашъ	DET	_	Case=Ins|Gender=Masc|Number=Sing|Poss=Yes	21	det	_	wf="нашим"|SpaceAfter=No
-23	,	,	PUNCT	_	_	49	punct	_	wf=","
-24	аби	абы	SCONJ	_	Mood=Cnd	49	mark	_	wf="аби"
-25	тая	тый	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	26	det	_	wf="тая"
-26	ко(п)	копа	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	46	dislocated	_	wf="коп"
-27	ше(ст)	шестъ	NUM	_	Case=Nom|NumForm=Word|NumType=Card	26	nummod:gov	_	wf="шест"
-28	и	и	CCONJ	_	_	29	cc	_	wf="и"
-29	кожухъ	кожухъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	26	conj	_	wf="кожухъ"
-30	ѡ(т)	отъ	ADP	_	_	31	case	_	wf="от"
-31	Зарѣцько(и)	Зарѣцкая	PROPN	_	Case=Gen|Gender=Fem|NameType=Sur|Number=Sing	32	obl:agent	_	wf="Зарѣцькои"
-32	занєсены(и)	занести	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	29	acl	_	wf="занесеныи"|SpaceAfter=No
-33	,	,	PUNCT	_	_	32	punct	_	wf=","
-34	зупо(л)на	зуполный	ADV	_	Degree=Pos	49	advmod	_	wf="зуполна"
-35	такъ	такъ	ADV	ADVPRO	Degree=Pos|PronType=Dem	38	cc	_	wf="такъ"
-36	на	на	ADP	_	_	38	case	_	wf="на"
-37	ѡного	оный	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	38	det	_	wf="оного"
-38	Данила	Данило	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	49	obl	_	wf="Данила"|SpaceAfter=No
-39	,	,	PUNCT	_	_	43	punct	_	wf=","
-40	яко	яко	SCONJ	_	_	43	cc	_	wf="яко"
-41	и	и	PART	_	_	40	fixed	_	wf="и"
-42	на	на	ADP	_	_	43	case	_	wf="на"
-43	Ма(р)ка	Марко	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	38	conj	_	wf="Марка"|SpaceAfter=No
-44	,	,	PUNCT	_	_	43	punct	_	wf=","
-45	тая	тый	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	46	det	_	wf="тая"
-46	шкода	шкода	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	49	nsubj	_	wf="шкода"
-47	по	по	ADP	_	_	48	case	_	wf="по"
-48	половици	половица	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	49	obl	_	wf="половици"
-49	пала	пати	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	18	ccomp	_	wf="пала"|SpaceAfter=No
-50	<.>	.	PUNCT	_	_	18	punct	_	wf="."
+19	нинєшъни(м)	нынѣшний	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Typo=Yes	20	amod	_	wf="нинешъним"
+20	декретомъ	декретъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	18	iobj	_	wf="декретомъ"
+21	наши(м)	нашъ	DET	_	Case=Ins|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	20	det	_	wf="нашим"|SpaceAfter=No
+22	,	,	PUNCT	_	_	48	punct	_	wf=","
+23	аби	абы	SCONJ	_	Mood=Cnd	48	mark	_	wf="аби"
+24	тая	тый	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	25	det	_	wf="тая"
+25	ко(п)	копа	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	45	dislocated	_	wf="коп"
+26	ше(ст)	шестъ	NUM	_	Case=Nom|NumForm=Word|NumType=Card	25	nummod:gov	_	wf="шест"
+27	и	и	CCONJ	_	_	28	cc	_	wf="и"
+28	кожухъ	кожухъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	25	conj	_	wf="кожухъ"
+29	ѡ(т)	отъ	ADP	_	_	30	case	_	wf="от"
+30	Зарѣцько(и)	Зарѣцкая	PROPN	_	Case=Gen|Gender=Fem|NameType=Sur|Number=Sing	31	obl:agent	_	wf="Зарѣцькои"
+31	занєсены(и)	занести	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	28	acl	_	wf="занесеныи"|SpaceAfter=No
+32	,	,	PUNCT	_	_	33	punct	_	wf=","
+33	зупо(л)на	зуполный	ADV	_	Degree=Pos	48	advmod	_	wf="зуполна"
+34	такъ	такъ	ADV	ADVPRO	Degree=Pos|PronType=Dem	37	cc	_	wf="такъ"
+35	на	на	ADP	_	_	37	case	_	wf="на"
+36	ѡного	оный	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	37	det	_	wf="оного"
+37	Данила	Данило	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	48	obl	_	wf="Данила"|SpaceAfter=No
+38	,	,	PUNCT	_	_	42	punct	_	wf=","
+39	яко	яко	SCONJ	_	_	42	cc	_	wf="яко"
+40	и	и	PART	_	_	39	fixed	_	wf="и"
+41	на	на	ADP	_	_	42	case	_	wf="на"
+42	Ма(р)ка	Марко	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	37	conj	_	wf="Марка"|SpaceAfter=No
+43	,	,	PUNCT	_	_	42	punct	_	wf=","
+44	тая	тый	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	45	det	_	wf="тая"
+45	шкода	шкода	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	48	nsubj	_	wf="шкода"
+46	по	по	ADP	_	_	47	case	_	wf="по"
+47	половици	половица	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	48	obl	_	wf="половици"
+48	пала	пасти	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	18	ccomp	_	wf="пала"|SpaceAfter=No
+49	<.>	.	PUNCT	_	_	18	punct	_	wf="."
 
 ~~~
 

@@ -72,12 +72,12 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (149; 81%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-aux.html">aux</a></tt>]--> AUX</tt> (37; 64%),
-<tt>VERB --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (35; 57%),
+<tt>VERB --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (36; 58%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (33; 55%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (5; 71%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>AUX --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="cs_poetry-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="cs_poetry-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (1; 100%).
 

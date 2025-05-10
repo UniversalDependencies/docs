@@ -26,7 +26,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="en_gumreddit-pos-AD
 
 ### `ADV`
 
-570 <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> tokens (51% of all `ADV` tokens) have a non-empty value of `Degree`.
+570 <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> tokens (52% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (570; 100%).
 
@@ -35,7 +35,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (54; 9% of non-empty `Degree`): <em>_</em>
 * `Pos` (502; 88% of non-empty `Degree`): <em>_</em>
 * `Sup` (14; 2% of non-empty `Degree`): <em>_</em>
-* `EMPTY` (537): <em>_</em>
+* `EMPTY` (536): <em>_</em>
 
 ## Relations with Agreement in `Degree`
 
@@ -44,10 +44,10 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="en_gumreddit-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (4; 100%),
 <tt>ADV --[<tt><a href="en_gumreddit-dep-conj.html">conj</a></tt>]--> ADV</tt> (4; 100%),
 <tt>ADJ --[<tt><a href="en_gumreddit-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3; 75%),
-<tt>ADJ --[<tt><a href="en_gumreddit-dep-obl.html">obl</a></tt>]--> ADJ</tt> (2; 67%),
 <tt>ADJ --[<tt><a href="en_gumreddit-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="en_gumreddit-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="en_gumreddit-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="en_gumreddit-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="en_gumreddit-dep-obl-unmarked.html">obl:unmarked</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="en_gumreddit-dep-obl-unmarked.html">obl:unmarked</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<tt><a href="en_gumreddit-dep-parataxis.html">parataxis</a></tt>]--> ADV</tt> (1; 100%).
 

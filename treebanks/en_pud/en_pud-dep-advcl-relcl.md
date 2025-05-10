@@ -34,7 +34,7 @@ The following 1 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 10	by	by	ADP	IN	_	13	case	13:case	_
 11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
 12	Australian	Australian	ADJ	JJ	Degree=Pos	13	amod	13:amod	Proper=True
-13	Aborigines	Aborigines	PROPN	NNPS	Number=Plur	9	obl	9:obl:by	_
+13	Aborigines	Aborigine	PROPN	NNPS	Number=Plur	9	obl	9:obl:by	_
 14	of	of	ADP	IN	_	16	case	16:case	_
 15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
 16	region	region	NOUN	NN	Number=Sing	13	nmod	13:nmod:of	SpaceAfter=No

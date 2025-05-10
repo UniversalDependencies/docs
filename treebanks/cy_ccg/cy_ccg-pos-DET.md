@@ -42,11 +42,11 @@ The 2nd highest number of forms (3) was observed with the lemma “y”: <em>'r,
 
 The 3rd highest number of forms (2) was observed with the lemma “an”: <em>An, na</em>.
 
-`DET` occurs with 2 features: <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt> (5; 0% instances), <tt><a href="cy_ccg-feat-Foreign.html">Foreign</a></tt> (4; 0% instances)
+`DET` occurs with 3 features: <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt> (5; 0% instances), <tt><a href="cy_ccg-feat-Foreign.html">Foreign</a></tt> (4; 0% instances), <tt><a href="cy_ccg-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances)
 
-`DET` occurs with 3 feature-value pairs: `Foreign=Yes`, `Mutation=NM`, `Mutation=SM`
+`DET` occurs with 4 feature-value pairs: `ExtPos=ADV`, `Foreign=Yes`, `Mutation=NM`, `Mutation=SM`
 
-`DET` occurs with 4 feature combinations.
+`DET` occurs with 5 feature combinations.
 The most frequent feature combination is `_` (3299 tokens).
 Examples: <em>y, 'r, yr, pa, An, P'</em>
 

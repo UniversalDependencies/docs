@@ -8,24 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-117 nodes (1%) are attached to their parents as `iobj`.
+654 nodes (1%) are attached to their parents as `iobj`.
 
-115 instances of `iobj` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.51282051282051.
+641 instances of `iobj` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.42813455657492.
 
-The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (112; 96% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (629; 96% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (14; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 iobj	color:blue
-1	lequel	lequel	PRON	PROrel	PronType=Rel	3	nsubj	_	XmlId=w_32_01493
-2	luy	lui	PRON	PROper	PronType=Prs	3	iobj	_	XmlId=w_32_01494
-3	dit	dire1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_01495
-4	:	:	PUNCT	PONfbl	_	3	punct	_	XmlId=w_32_01496
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 8 iobj	color:blue
+1	mais	mais1	CCONJ	CONcoo	_	11	cc:nc	_	XmlId=w_32_02442
+2	le	le	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_32_02443
+3	neu	noeud	NOUN	NOMcom	_	11	nsubj	_	XmlId=w_32_02444
+4	de	de	ADP	PRE	_	6	case	_	XmlId=w_32_02445
+5	ceste	cist	DET	DETdem	PronType=Dem	6	det	_	XmlId=w_32_02446
+6	matière	matière	NOUN	NOMcom	_	3	nmod	_	XmlId=w_32_02447
+7	ne	ne1	ADV	ADVneg	PronType=Neg	11	advmod	_	XmlId=w_32_02448
+8	luy	lui	PRON	PROper	PronType=Prs	11	iobj	_	XmlId=w_32_02449
+9	fut	être	AUX	VERcjg	VerbForm=Fin	11	aux:pass	_	XmlId=w_32_02450
+10	jamais	jamais	ADV	ADVgen	_	11	advmod	_	XmlId=w_32_02451
+11	descouvert	découvrir	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_32_02452
 
 ~~~
 
@@ -51,29 +58,21 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 8 iobj	color:blue
-1	Quant	quand	SCONJ	CONsub	_	4	mark	_	XmlId=w_42_01688
-2	le	le	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_42_01689
-3	roy	roi1	NOUN	NOMcom	_	4	nsubj	_	XmlId=w_42_01690
-4	ouyt	ouïr	VERB	VERcjg	VerbForm=Fin	12	advcl	_	XmlId=w_42_01691
-5	celle	cil	DET	DETdem	PronType=Dem	6	det	_	XmlId=w_42_01692
-6	responce	réponse	NOUN	NOMcom	_	4	obj	_	XmlId=w_42_01693
-7	il	il	PRON	PROper	PronType=Prs	12	nsubj	_	XmlId=w_42_01694
-8	en	en2	ADV	PROadv	_	12	iobj	_	XmlId=w_42_01695
-9	fut	être	AUX	VERcjg	VerbForm=Fin	12	cop	_	XmlId=w_42_01696
-10	moult	moult	ADV	ADVgen	_	11	advmod	_	XmlId=w_42_01697
-11	mal	mal3	ADV	ADVgen	_	12	advmod	_	XmlId=w_42_01698
-12	content	content2	ADJ	ADJqua	_	0	root	_	SpaceAfter=No|XmlId=w_42_01699
-13	,	,	PUNCT	PONfbl	_	17	punct	_	XmlId=w_42_01700
-14	et	et	CCONJ	CONcoo	_	17	cc	_	XmlId=w_42_01701
-15	non	non	ADV	ADVneg	PronType=Neg	17	advmod	_	XmlId=w_42_01702
-16	sans	sans	ADP	PRE	_	17	case	_	XmlId=w_42_01703
-17	cause	cause	NOUN	NOMcom	_	12	conj	_	SpaceAfter=No|XmlId=w_42_01704
-18	,	,	PUNCT	PONfbl	_	12	punct	_	XmlId=w_42_01705
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 iobj	color:blue
+1	par	par1	ADP	PRE	_	2	case	_	XmlId=w_32_14825
+2	quoy	quoi	PRON	PROrel	PronType=Rel	5	obl	_	XmlId=w_32_14826
+3	luy	lui	PRON	PROper	PronType=Prs	5	iobj	_	XmlId=w_32_14827
+4	estoit	être	AUX	VERcjg	VerbForm=Fin	5	cop	_	XmlId=w_32_14828
+5	besoing	besoin	NOUN	NOMcom	_	0	root	_	XmlId=w_32_14829
+6	d'	de	ADP	PRE	_	8	mark	_	SpaceAfter=No|XmlId=w_32_14830
+7	estre	être	AUX	VERinf	VerbForm=Inf	8	aux	_	XmlId=w_32_14831
+8	venu	venir	VERB	VERppe	Tense=Past|VerbForm=Part	5	csubj	_	XmlId=w_32_14832
+9	accompaigné	accompagner	VERB	VERppe	Tense=Past|VerbForm=Part	8	advcl	_	SpaceAfter=No|XmlId=w_32_14833
+10	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_32_14834
 
 ~~~
 

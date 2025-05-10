@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `compound`: <tt><a href="fi_tdt-dep-compound-nn.html">compound:nn</a></tt>, <tt><a href="fi_tdt-dep-compound-prt.html">compound:prt</a></tt>.
 
-185 nodes (0%) are attached to their parents as `compound`.
+238 nodes (0%) are attached to their parents as `compound`.
 
-184 instances of `compound` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18918918918919.
+237 instances of `compound` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.3781512605042.
 
-The following 13 pairs of parts of speech are connected with `compound`: <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (137; 74% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (15; 8% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt> (6; 3% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_tdt-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 15 pairs of parts of speech are connected with `compound`: <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (137; 58% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_tdt-pos-X.html">X</a></tt> (50; 21% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (15; 6% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (7; 3% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt> (6; 3% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_tdt-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fi_tdt-pos-X.html">X</a></tt>-<tt><a href="fi_tdt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,6 +38,23 @@ The following 13 pairs of parts of speech are connected with `compound`: <tt><a 
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 compound	color:blue
+1	DIY	DIY	X	Foreign	Foreign=Yes	4	compound	4:compound	OrigLang=en
+2	time-lapse	time-lapse	X	Foreign	Foreign=Yes	1	flat:foreign	1:flat:foreign	OrigLang=en
+3	dolly	dolly	X	Foreign	Foreign=Yes	1	flat:foreign	1:flat:foreign	OrigLang=en
+4	suunnitelmia	suunnitelma	NOUN	N	Case=Par|Number=Plur	0	root	0:root	_
+5	(	(	PUNCT	Punct	_	6	punct	6:punct	SpaceAfter=No
+6	Arduino	Arduino	PROPN	N	Case=Nom|Number=Sing	4	nmod	4:nmod	SpaceAfter=No
+7	)	)	PUNCT	Punct	_	6	punct	6:punct	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
@@ -49,29 +66,6 @@ The following 13 pairs of parts of speech are connected with `compound`: <tt><a 
 4	2	2	NUM	Num	NumType=Card	5	compound	5:compound	_
 5	kg	kg	NOUN	N	Abbr=Yes|Case=Par|Number=Sing	6	compound	6:compound	_
 6	315	315	NUM	Num	NumType=Card	2	appos	2:appos	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 5 compound	color:blue
-1	Toinen	toinen	ADJ	Num	Case=Nom|Derivation=Inen|Number=Sing|NumType=Ord	2	amod	2:amod	_
-2	sota	sota	NOUN	N	Case=Nom|Number=Sing	11	nsubj:cop	11:nsubj:cop	_
-3	(	(	PUNCT	Punct	_	8	punct	8:punct	SpaceAfter=No
-4	83	83	NUM	Num	NumType=Card	5	nummod	5:nummod	_
-5	eaa.	eaa.	NOUN	N	Abbr=Yes	8	compound	8:compound	SpaceAfter=No
-6	–	–	PUNCT	Punct	_	8	punct	8:punct	SpaceAfter=No
-7	81	81	NUM	Num	NumType=Card	8	nummod	8:nummod	_
-8	eaa.	eaa.	NOUN	N	Abbr=Yes	2	nmod	2:nmod	SpaceAfter=No
-9	)	)	PUNCT	Punct	_	8	punct	8:punct	_
-10	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	11:cop	_
-11	suppeampi	suppea	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	0	root	0:root	_
-12	laajuudeltaan	laajuus	NOUN	N	Case=Abl|Derivation=Vs|Number=Sing|Person[psor]=3	11	obl	11:obl	SpaceAfter=No
-13	.	.	PUNCT	Punct	_	11	punct	11:punct	_
 
 ~~~
 

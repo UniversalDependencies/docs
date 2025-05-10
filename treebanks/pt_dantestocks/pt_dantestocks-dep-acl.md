@@ -29,7 +29,7 @@ The following 20 pairs of parts of speech are connected with `acl`: <tt><a href=
 4	,	,	PUNCT	_	_	6	punct	_	_
 5	mais	mais	ADV	_	_	6	advmod	_	_
 6	um	um	PRON	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	parataxis	_	_
-7	hehe	hehe	X	_	_	2	discourse	_	SpaceAfter=No
+7	hehe	hehe	X	_	_	2	discourse	_	_
 
 ~~~
 
@@ -53,7 +53,7 @@ The following 20 pairs of parts of speech are connected with `acl`: <tt><a href=
 11	R$	R$	SYM	_	_	8	nmod	_	SpaceAfter=No
 12	13	13	NUM	_	NumType=Card	11	nummod	_	_
 13	?	?	PUNCT	_	_	2	punct	_	_
-14	=)	=)	SYM	_	_	2	discourse	_	SpaceAfter=No
+14	=)	=)	SYM	_	_	2	discourse	_	_
 
 ~~~
 
@@ -84,7 +84,7 @@ The following 20 pairs of parts of speech are connected with `acl`: <tt><a href=
 18	hoje	hoje	ADV	_	_	17	advmod	_	_
 19	não	não	ADV	_	_	14	advmod	_	_
 20	...	...	PUNCT	_	_	14	punct	_	_
-21	o.O	o.O	SYM	_	_	1	discourse	_	SpaceAfter=No
+21	o.O	o.O	SYM	_	_	1	discourse	_	_
 
 ~~~
 

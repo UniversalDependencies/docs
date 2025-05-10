@@ -62,11 +62,11 @@ The 2nd highest number of forms (14) was observed with the lemma “ders”: <em
 
 The 3rd highest number of forms (14) was observed with the lemma “zaman”: <em>zaman, zamana, zamanda, zamandan, zamanlar, zamanlarda, zamanları, zamanı, zamanım, zamanımız, zamanın, zamanına, zamanında, zamanını</em>.
 
-`NOUN` occurs with 7 features: <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt> (5199; 98% instances), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt> (5199; 98% instances), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt> (2106; 40% instances), <tt><a href="qtd_sagt-feat-Number-psor.html">Number[psor]</a></tt> (708; 13% instances), <tt><a href="qtd_sagt-feat-Person-psor.html">Person[psor]</a></tt> (708; 13% instances), <tt><a href="qtd_sagt-feat-Foreign.html">Foreign</a></tt> (58; 1% instances), <tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt> (38; 1% instances)
+`NOUN` occurs with 8 features: <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt> (5199; 98% instances), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt> (5199; 98% instances), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt> (2106; 40% instances), <tt><a href="qtd_sagt-feat-Number-psor.html">Number[psor]</a></tt> (708; 13% instances), <tt><a href="qtd_sagt-feat-Person-psor.html">Person[psor]</a></tt> (708; 13% instances), <tt><a href="qtd_sagt-feat-Foreign.html">Foreign</a></tt> (58; 1% instances), <tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt> (38; 1% instances), <tt><a href="qtd_sagt-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`NOUN` occurs with 20 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Equ`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Typo=Yes`
+`NOUN` occurs with 21 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Equ`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `ExtPos=ADV`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Typo=Yes`
 
-`NOUN` occurs with 110 feature combinations.
+`NOUN` occurs with 111 feature combinations.
 The most frequent feature combination is `Case=Nom|Number=Sing` (1286 tokens).
 Examples: <em>şey, şimdi, zaman, sene, hafta, saat, kitap, tane, sonra, adam</em>
 

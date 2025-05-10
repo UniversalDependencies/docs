@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 6 appos	color:blue
 1	Но	но	CCONJ	CC	_	10	cc	_	_
-2	керкуыс	керку	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obl:lmod	_	GTtags=Sg,Nom,PxSg3
+2	керкуыс	керку	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obl	_	GTtags=Sg,Nom,PxSg3
 3	бокын	бокын	ADP	Adp	AdvType=Loc|Case=Ine	2	case	_	GTtags=Spat,Ine|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	туй	туй	NOUN	N	Case=Nom|Number=Sing	6	nmod	_	GTtags=Sg,Nom
@@ -54,7 +54,7 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 3 6 appos	color:blue
 1	Сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
 2	быдмис	быдмыны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
-3	Парижын	Париж	PROPN	_	Case=Ine|NameType=Geo|Number=Sing	2	obl:lmod	_	GTtags=Prop,Sg,Ine|SpaceAfter=No
+3	Парижын	Париж	PROPN	_	Case=Ine|NameType=Geo|Number=Sing	2	obl	_	GTtags=Prop,Sg,Ine|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	Франция	Франция	PROPN	_	Case=Nom|NameType=Geo|Number=Sing	6	nmod	_	GTtags=Prop,Sg,Nom
 6	юркарын	юркар	NOUN	_	Case=Ine|Number=Sing	3	appos	_	GTtags=Sg,Ine|SpaceAfter=No
@@ -70,8 +70,8 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 7 appos	color:blue
 1	Только	только	ADV	_	_	3	advmod	_	_
-2	ылын	ыв	NOUN	N	Case=Ine|NounType=Relat	3	obl:lmod	_	GTtags=Spat,Ine
-3	веськытлань	веськыт	ADJ	_	Case=Apr|Number=Sing	9	obl:lmod	_	SpaceAfter=No
+2	ылын	ыв	NOUN	N	Case=Ine|NounType=Relat	3	obl	_	GTtags=Spat,Ine
+3	веськытлань	веськыт	ADJ	_	Case=Apr|Number=Sing	9	obl	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	самӧй	самӧй	ADV	_	_	6	advmod	_	_
 6	горизонт	горизонт	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	GTtags=Sg,Nom

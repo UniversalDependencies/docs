@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>sì</em> (<tt><a href="it_isdt-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.481621).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.481812).
 
 The 1st highest number of forms (1) was observed with the lemma “Ebbene”: <em>Ebbene</em>.
 
@@ -62,11 +62,11 @@ The 2nd highest number of forms (1) was observed with the lemma “Ouch”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “ah”: <em>ah</em>.
 
-`INTJ` occurs with 1 features: <tt><a href="it_isdt-feat-Polarity.html">Polarity</a></tt> (33; 51% instances)
+`INTJ` occurs with 2 features: <tt><a href="it_isdt-feat-Polarity.html">Polarity</a></tt> (33; 51% instances), <tt><a href="it_isdt-feat-ExtPos.html">ExtPos</a></tt> (1; 2% instances)
 
-`INTJ` occurs with 2 feature-value pairs: `Polarity=Neg`, `Polarity=Pos`
+`INTJ` occurs with 3 feature-value pairs: `ExtPos=SCONJ`, `Polarity=Neg`, `Polarity=Pos`
 
-`INTJ` occurs with 3 feature combinations.
+`INTJ` occurs with 4 feature combinations.
 The most frequent feature combination is `_` (32 tokens).
 Examples: <em>ah, Grazie, ahimè, Vabbè, oh, Amen, Ciao, Ebbene, Ecco, Già</em>
 

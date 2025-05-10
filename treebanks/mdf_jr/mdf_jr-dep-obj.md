@@ -24,9 +24,9 @@ The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 6 7 obj	color:blue
 1	Лётчикне	лётчик	NOUN	N	Case=Nom|Definite=Def|Number=Plur	6	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	улема	улема	VERB	V	Mood=Nec|Number[subj]=Sing|Person[subj]=3	6	advcl:eval	_	SpaceAfter=No
+3	улема	улема	VERB	V	Mood=Nec|Number[subj]=Sing|Person[subj]=3	6	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	3	punct	_	_
-5	кядьса	кядь	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	6	obl:inst	_	_
+5	кядьса	кядь	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	6	obl	_	_
 6	токсесазь	токсемс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres	0	root	_	_
 7	коволнятнень	ковол	NOUN	N	Case=Gen|Definite=Def|Degree=Dim|Number=Plur	6	obj	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	6	punct	_	_
@@ -59,7 +59,7 @@ The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 2 1 obj	color:blue
 1	Кундафнень	кундамс	VERB	V	Case=Gen|Definite=Def|Number=Plur|PartForm=Past|VerbForm=Part	2	obj	_	CGdephead=#1-&gt;2|CGdeprel=@-FOBJ&gt;|CGdephead=#1-&gt;2|CGdeprel=@-FOBJ&gt;|GTtags=Der/f,PrfPrc,Pl,Gen,Def
 2	вятезь	вятемс	VERB	V	VerbForm=Conv	0	root	_	CGdephead=#2-&gt;0|CGdeprel=@SPRED|CGdephead=#2-&gt;0|CGdeprel=@SPRED|GTtags=Der/Ozj,Ger
-3	вели	веле	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	2	obl:lmod	_	CGdephead=#3-&gt;3|CGdeprel=@&lt;ADVL|CGdephead=#3-&gt;3|CGdeprel=@&lt;ADVL|GTtags=SP,Lat,Indef|SpaceAfter=No
+3	вели	веле	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	2	obl	_	CGdephead=#3-&gt;3|CGdeprel=@&lt;ADVL|CGdephead=#3-&gt;3|CGdeprel=@&lt;ADVL|GTtags=SP,Lat,Indef|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	2	punct	_	CGdephead=#4-&gt;2|CGdeprel=@X|CGdephead=#4-&gt;2|CGdeprel=@X|GTtags=CLB
 
 ~~~

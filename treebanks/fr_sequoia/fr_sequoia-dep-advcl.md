@@ -28,11 +28,11 @@ The following 12 pairs of parts of speech are connected with `advcl`: <tt><a hre
 3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
 4	insisté	insister	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	pour	pour	ADP	_	_	7	mark	_	_
-6	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	obj	_	_
+6	me	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	7	obj	_	_
 7	garder	garder	VERB	_	VerbForm=Inf	4	advcl	_	Subject=Instantiated
 8	et	et	CCONJ	_	_	12	cc	_	_
-9	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
-10	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	12	obj	_	SpaceAfter=No
+9	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+10	l'	lui	PRON	_	Emph=No|Number=Sing|Person=3|PronType=Prs	12	obj	_	SpaceAfter=No
 11	en	en	PRON	_	Person=3|PronType=Prs	12	iobj	_	_
 12	remercie	remercier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
@@ -58,7 +58,7 @@ The following 12 pairs of parts of speech are connected with `advcl`: <tt><a hre
 10	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:tense	_	_
 11	été	être	AUX	_	Tense=Past|VerbForm=Part	13	cop	_	_
 12	plus	plus	ADV	_	_	13	advmod	_	_
-13	efficace	efficace	ADJ	_	Number=Sing	0	root	_	_
+13	efficace	efficace	ADJ	_	Number=Sing	0	root	_	Gender[ctxt]=Masc
 14	que	que	SCONJ	_	_	16	case	_	_
 15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	risédronate	risédronate	NOUN	_	Gender=Masc|Number=Sing	13	dep	_	SpaceAfter=No
@@ -83,7 +83,7 @@ The following 12 pairs of parts of speech are connected with `advcl`: <tt><a hre
 8	en	en	ADP	_	_	9	case	_	_
 9	1928	1928	NUM	_	NumType=Card	1	obl:mod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	_
-11	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+11	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
 12	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:tense	_	_
 13	fréquenté	fréquenter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 14	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No

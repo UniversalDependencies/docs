@@ -10,10 +10,10 @@ This feature is universal.
 It occurs with 9 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Rel`, `Tot`.
 Some words have combined values of the feature; 2 combinations have been observed: `Dem|Rel`, `Int|Rel`.
 
-8808 tokens (22%) have a non-empty value of `PronType`.
-285 types (4%) occur at least once with a non-empty value of `PronType`.
-79 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="de_lit-pos-DET.html">DET</a></tt> (5881; 15% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (2735; 7% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> (192; 0% instances).
+8810 tokens (22%) have a non-empty value of `PronType`.
+286 types (4%) occur at least once with a non-empty value of `PronType`.
+80 lemmas (2%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="de_lit-pos-DET.html">DET</a></tt> (5881; 15% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (2735; 7% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> (194; 0% instances).
 
 ### `DET`
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 2735 <tt><a href="de_lit-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="de_lit-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2391; 87%), <tt><a href="de_lit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1728; 63%), <tt><a href="de_lit-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1520; 56%), <tt><a href="de_lit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1476; 54%), <tt><a href="de_lit-feat-Person.html">Person</a></tt><tt>=3</tt> (1387; 51%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="de_lit-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2391; 87%), <tt><a href="de_lit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1728; 63%), <tt><a href="de_lit-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1519; 56%), <tt><a href="de_lit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1476; 54%), <tt><a href="de_lit-feat-Person.html">Person</a></tt><tt>=3</tt> (1387; 51%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -56,17 +56,17 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `ADV`
 
-192 <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `PronType`.
+194 <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `PronType`.
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Dem` (136; 71% of non-empty `PronType`): <em>daher, darin, darum, dadurch, dazu, davon, darauf, daraus, dagegen, damit</em>
-* `Ind` (32; 17% of non-empty `PronType`): <em>genug, etwas, bißchen</em>
-* `Int` (23; 12% of non-empty `PronType`): <em>wodurch, worin, wozu, worauf, wobei, womit, wonach, woraus, wovon</em>
+* `Dem` (136; 70% of non-empty `PronType`): <em>daher, darin, darum, dadurch, dazu, davon, darauf, daraus, dagegen, damit</em>
+* `Ind` (32; 16% of non-empty `PronType`): <em>genug, etwas, bißchen</em>
+* `Int` (25; 13% of non-empty `PronType`): <em>wodurch, worin, wozu, worauf, Wie, wobei, womit, wonach, woraus, wovon</em>
 * `Neg` (1; 1% of non-empty `PronType`): <em>nie</em>
-* `EMPTY` (3396): <em>so, nur, auch, selbst, wie, noch, doch, aber, immer, wohl</em>
+* `EMPTY` (3393): <em>so, nur, auch, selbst, wie, noch, doch, aber, immer, wohl</em>
 
-`PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (27) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (28) occur only with one value of `PronType`.
 
 ## Relations with Agreement in `PronType`
 

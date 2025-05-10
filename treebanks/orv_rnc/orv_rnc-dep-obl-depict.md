@@ -97,7 +97,7 @@ The following 9 pairs of parts of speech are connected with `obl:depict`: <tt><a
 29	государемъ	государь	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	30	obl:depict	_	_
 30	сѣл	сѣсти	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
 31	сынъ	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	_
-32	его	и	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	det	_	_
+32	его	и	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	det	_	_
 33	большои	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	31	amod	_	_
 34	князь	князь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	31	appos	_	_
 35	великии	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	34	amod	_	_

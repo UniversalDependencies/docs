@@ -6,37 +6,34 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latin-CIRCSE: POS Tags: `PART`
 
-There are 17 `PART` lemmas (0%), 18 `PART` types (0%) and 348 `PART` tokens (2%).
+There are 17 `PART` lemmas (0%), 18 `PART` types (0%) and 452 `PART` tokens (2%).
 Out of 14 observed tags, the rank of `PART` is: 10 in number of lemmas, 13 in number of types and 11 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>non, ne, o, quoque, quidem, enim, an, haud, nam, quin</em>
+The 10 most frequent `PART` lemmas: <em>non, ne, o, an, quoque, haud, quidem, enim, quin, nam</em>
 
-The 10 most frequent `PART` types:  <em>non, ne, o, quoque, quidem, enim, an, nam, haut, haud</em>
+The 10 most frequent `PART` types:  <em>non, ne, o, an, quoque, quidem, enim, quin, haut, nam</em>
 
-The 10 most frequent ambiguous lemmas: <em>ne</em> (<tt><a href="la_circse-pos-PART.html">PART</a></tt> 32, <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> 11), <em>an</em> (<tt><a href="la_circse-pos-PART.html">PART</a></tt> 17, <tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> 2), <em>nam</em> (<tt><a href="la_circse-pos-PART.html">PART</a></tt> 10, <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> 2), <em>quin</em> (<tt><a href="la_circse-pos-PART.html">PART</a></tt> 6, <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> 4), <em>igitur</em> (<tt><a href="la_circse-pos-PART.html">PART</a></tt> 2, <tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ne</em> (<tt><a href="la_circse-pos-PART.html">PART</a></tt> 51, <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> 17), <em>an</em> (<tt><a href="la_circse-pos-PART.html">PART</a></tt> 24, <tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> 2), <em>nam</em> (<tt><a href="la_circse-pos-PART.html">PART</a></tt> 12, <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> 5), <em>igitur</em> (<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="la_circse-pos-PART.html">PART</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>ne</em> (<tt><a href="la_circse-pos-PART.html">PART</a></tt> 32, <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> 11), <em>an</em> (<tt><a href="la_circse-pos-PART.html">PART</a></tt> 17, <tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> 2), <em>nam</em> (<tt><a href="la_circse-pos-PART.html">PART</a></tt> 10, <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> 2), <em>quin</em> (<tt><a href="la_circse-pos-PART.html">PART</a></tt> 6, <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> 4), <em>igitur</em> (<tt><a href="la_circse-pos-PART.html">PART</a></tt> 2, <tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ne</em> (<tt><a href="la_circse-pos-PART.html">PART</a></tt> 51, <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> 17), <em>an</em> (<tt><a href="la_circse-pos-PART.html">PART</a></tt> 24, <tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> 2), <em>nam</em> (<tt><a href="la_circse-pos-PART.html">PART</a></tt> 12, <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> 5), <em>igitur</em> (<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="la_circse-pos-PART.html">PART</a></tt> 2)
 
 
 * <em>ne</em>
-  * <tt><a href="la_circse-pos-PART.html">PART</a></tt> 32: <em>animos <b>ne</b> mersus inferis coniunx facit</em>
-  * <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> 11: <em>falsum ac nomini turpem tuo remoue parentem <b>ne</b> tuae laudi obstrepat</em>
+  * <tt><a href="la_circse-pos-PART.html">PART</a></tt> 51: <em>est <b>ne</b> aliqua tellus Cereris aut Bacchi ferax</em>
+  * <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> 17: <em>falsum ac nomini turpem tuo remoue parentem <b>ne</b> tuae laudi obstrepat</em>
 * <em>an</em>
-  * <tt><a href="la_circse-pos-PART.html">PART</a></tt> 17: <em>patrui uolentis munus <b>an</b> spolium refert</em>
+  * <tt><a href="la_circse-pos-PART.html">PART</a></tt> 24: <em>patrui uolentis munus <b>an</b> spolium refert</em>
   * <tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> 2: <em>argentum et aurum propitii ne <b>an</b> irati dii negauerint dubito</em>
 * <em>nam</em>
-  * <tt><a href="la_circse-pos-PART.html">PART</a></tt> 10: <em>meliora uotis posco et obtestor deos <b>nam</b> certa fari sors maris dubii uetat</em>
-  * <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> 2: <em>quid <b>nam</b> iste nostri generis exitium ac lues noui parat</em>
-* <em>quin</em>
-  * <tt><a href="la_circse-pos-PART.html">PART</a></tt> 6: <em>inesse <b>quin</b> etiam sanctum aliquid et prouidum putant nec aut consilia earum aspernantur aut responsa neglegunt</em>
-  * <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> 4: <em>nihil moramur rapite <b>quin</b> grates ago</em>
+  * <tt><a href="la_circse-pos-PART.html">PART</a></tt> 12: <em>meliora uotis posco et obtestor deos <b>nam</b> certa fari sors maris dubii uetat</em>
+  * <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> 5: <em>quae <b>nam</b> ista lacrimis lugubrem uultum rigat pauet que maesta</em>
 * <em>igitur</em>
+  * <tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> 2: <em>incognita <b>igitur</b> ut nocens causa cadam</em>
   * <tt><a href="la_circse-pos-PART.html">PART</a></tt> 2: <em><b>igitur</b> inter Hercyniam siluam Rhenum que et Moenum amnes Heluetii ulteriora Boii Gallica utraque gens tenuere</em>
-  * <tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> 1: <em>temptemus <b>igitur</b> fors dedit nobis locum</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.058824 (the average of all parts of speech is 2.130677).
+The form / lemma ratio of `PART` is 1.058824 (the average of all parts of speech is 2.296544).
 
 The 1st highest number of forms (2) was observed with the lemma “haud”: <em>haud, haut</em>.
 
@@ -44,22 +41,22 @@ The 2nd highest number of forms (1) was observed with the lemma “an”: <em>an
 
 The 3rd highest number of forms (1) was observed with the lemma “autem”: <em>autem</em>.
 
-`PART` occurs with 5 features: <tt><a href="la_circse-feat-Polarity.html">Polarity</a></tt> (219; 63% instances), <tt><a href="la_circse-feat-PartType.html">PartType</a></tt> (66; 19% instances), <tt><a href="la_circse-feat-Form.html">Form</a></tt> (42; 12% instances), <tt><a href="la_circse-feat-PronType.html">PronType</a></tt> (6; 2% instances), <tt><a href="la_circse-feat-Compound.html">Compound</a></tt> (1; 0% instances)
+`PART` occurs with 5 features: <tt><a href="la_circse-feat-Polarity.html">Polarity</a></tt> (292; 65% instances), <tt><a href="la_circse-feat-PartType.html">PartType</a></tt> (66; 15% instances), <tt><a href="la_circse-feat-Form.html">Form</a></tt> (44; 10% instances), <tt><a href="la_circse-feat-PronType.html">PronType</a></tt> (13; 3% instances), <tt><a href="la_circse-feat-Compound.html">Compound</a></tt> (1; 0% instances)
 
 `PART` occurs with 6 feature-value pairs: `Compound=Yes`, `Form=Emp`, `PartType=Emp`, `PartType=Int`, `Polarity=Neg`, `PronType=Rel`
 
 `PART` occurs with 8 feature combinations.
-The most frequent feature combination is `Polarity=Neg` (192 tokens).
-Examples: <em>non, ne, an, haut, haud, quin, num</em>
+The most frequent feature combination is `Polarity=Neg` (258 tokens).
+Examples: <em>non, an, ne, haut, haud, quin, num</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 6 different relations: <tt><a href="la_circse-dep-advmod-neg.html">advmod:neg</a></tt> (191; 55% instances), <tt><a href="la_circse-dep-discourse.html">discourse</a></tt> (99; 28% instances), <tt><a href="la_circse-dep-advmod-emph.html">advmod:emph</a></tt> (36; 10% instances), <tt><a href="la_circse-dep-cc.html">cc</a></tt> (20; 6% instances), <tt><a href="la_circse-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="la_circse-dep-root.html">root</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 7 different relations: <tt><a href="la_circse-dep-advmod-neg.html">advmod:neg</a></tt> (247; 55% instances), <tt><a href="la_circse-dep-discourse.html">discourse</a></tt> (122; 27% instances), <tt><a href="la_circse-dep-advmod-emph.html">advmod:emph</a></tt> (46; 10% instances), <tt><a href="la_circse-dep-cc.html">cc</a></tt> (30; 7% instances), <tt><a href="la_circse-dep-advmod.html">advmod</a></tt> (5; 1% instances), <tt><a href="la_circse-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="la_circse-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 11 different parts of speech: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (170; 49% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (103; 30% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (37; 11% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (10; 3% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (9; 3% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt> (6; 2% instances), <tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 11 different parts of speech: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (231; 51% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (126; 28% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (47; 10% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (15; 3% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (12; 3% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-347 (100%) `PART` nodes are leaves.
+451 (100%) `PART` nodes are leaves.
 
 0 (0%) `PART` nodes have one child.
 

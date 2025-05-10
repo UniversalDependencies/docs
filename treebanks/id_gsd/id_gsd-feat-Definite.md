@@ -24,7 +24,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (254; 28% of non-empty `Definite`): <em>nya, sang, si, yang</em>
 * `Ind` (666; 72% of non-empty `Definite`): <em>sebuah, seorang, suatu, seekor, Sauatu, sepucuk</em>
-* `EMPTY` (2698): <em>ini, itu, tersebut, beberapa, para, berbagai, semua, setiap, seluruh, sendiri</em>
+* `EMPTY` (2699): <em>ini, itu, tersebut, beberapa, para, berbagai, semua, setiap, seluruh, sendiri</em>
 
 `Definite` seems to be **lexical feature** of `DET`. 100% lemmas (10) occur only with one value of `Definite`.
 

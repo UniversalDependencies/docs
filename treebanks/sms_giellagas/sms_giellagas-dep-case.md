@@ -23,11 +23,11 @@ The following 2 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 6	fgColor:white
 # visual-style 6 7 case	color:blue
 1	Puõʹtte	pueʹtted	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Pl3
-2	âʹtte	âʹte	ADV	Adv	AdvType=Tim	1	advmod:tmod	_	GTtags=Sem/Time
-3	põʹrtte	põrtt	NOUN	N	Case=Ill|Number=Sing	1	obl:lmod	_	GTtags=Sg,Ill
+2	âʹtte	âʹte	ADV	Adv	AdvType=Tim	1	advmod	_	GTtags=Sem/Time
+3	põʹrtte	põrtt	NOUN	N	Case=Ill|Number=Sing	1	obl	_	GTtags=Sg,Ill
 4	ja	ja	CCONJ	CC	_	5	cc	_	GTtags=CCONJ,@CVP
 5	mõʹnne	mõõnnâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	1	conj	_	GTtags=Ind,Prt,Pl3
-6	čääʹcckaʹlddi	čääʹcckaʹlddi	NOUN	N	Case=Gen|Number=Sing	5	obl:lmod	_	GTtags=NomAg,Sg,Gen
+6	čääʹcckaʹlddi	čääʹcckaʹlddi	NOUN	N	Case=Gen|Number=Sing	5	obl	_	GTtags=NomAg,Sg,Gen
 7	luzz	luzz	ADP	Po	AdpType=Post|Case=Ill	6	case	_	GTtags=Ill|SpaceAfter=No
 8	.	.	PUNCT	PUNCT	_	1	punct	_	_
 

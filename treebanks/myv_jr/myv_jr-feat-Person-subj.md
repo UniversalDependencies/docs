@@ -43,7 +43,7 @@ The most frequent other feature values with which `VERB` and `Person[subj]` co-o
 
 ### `AUX`
 
-397 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (50% of all `AUX` tokens) have a non-empty value of `Person[subj]`.
+397 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (51% of all `AUX` tokens) have a non-empty value of `Person[subj]`.
 
 The most frequent other feature values with which `AUX` and `Person[subj]` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (302; 76%), <tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (298; 75%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (294; 74%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (282; 71%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (241; 61%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (241; 61%).
 
@@ -161,7 +161,7 @@ The most frequent other feature values with which `PRON` and `Person[subj]` co-o
 
 ### `PART`
 
-2 <tt><a href="myv_jr-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `Person[subj]`.
+2 <tt><a href="myv_jr-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Person[subj]`.
 
 `PART` tokens may have the following values of `Person[subj]`:
 
@@ -178,7 +178,7 @@ The most frequent other feature values with which `PROPN` and `Person[subj]` co-
 ## Relations with Agreement in `Person[subj]`
 
 The 10 most frequent relations where parent and child node agree in `Person[subj]`:
-<tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (566; 76%),
+<tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (567; 77%),
 <tt>ADJ --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> ADJ</tt> (15; 94%),
 <tt>VERB --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> VERB</tt> (10; 67%),
 <tt>VERB --[<tt><a href="myv_jr-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (7; 64%),

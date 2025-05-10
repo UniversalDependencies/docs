@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16197 nodes (4%) are attached to their parents as `det`.
+15678 nodes (3%) are attached to their parents as `det`.
 
-13317 instances of `det` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.20886583935297.
+12937 instances of `det` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.18905472636816.
 
-The following 15 pairs of parts of speech are connected with `det`: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (14352; 89% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (440; 3% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (432; 3% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (371; 2% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (283; 2% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (266; 2% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (9; 0% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `det`: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (13927; 89% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (430; 3% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (422; 3% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (361; 2% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (261; 2% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (226; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (9; 0% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -37,25 +37,6 @@ The following 15 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 det	color:blue
-1	oportet	oportet	VERB	K3|modA|tem1|gen6	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-2	igitur	igitur	PART	O4	_	1	discourse	_	_
-3	ueritatem	ueritas	NOUN	C1|grn1|casD|gen2|vgr1	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	6	nsubj	_	_
-4	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	6	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
-5	ultimum	ultimus	ADJ	B1|grn3|casD|gen1	Case=Acc|Degree=Abs|Gender=Masc|InflClass=IndEurO|Number=Sing	6	amod	_	_
-6	finem	finis	NOUN	C1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurI|Number=Sing	1	csubj	_	_
-7	totius	totus	DET	F1|grn1|casB|gen1|vgr1	Case=Gen|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Tot	8	det	_	_
-8	uniuersi	uniuersus	DET	B1|grn1|casB|gen1	Case=Gen|Compound=Yes|Gender=Masc|InflClass=IndEurO|Number=Sing|PronType=Tot	6	nmod	_	SpaceAfter=No
-9	;	;	PUNCT	Punc	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
@@ -70,6 +51,25 @@ The following 15 pairs of parts of speech are connected with `det`: <tt><a href=
 7	deum	deus	NOUN	F1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	4	nsubj	_	_
 8	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	4	cop	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 9	.	.	PUNCT	Punc	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 det	color:blue
+1	oportet	oportet	VERB	K3|modA|tem1|gen6	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+2	igitur	igitur	PART	O4	_	1	discourse	_	_
+3	ueritatem	ueritas	NOUN	C1|grn1|casD|gen2|vgr1	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	6	nsubj	_	_
+4	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	6	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+5	ultimum	ultimus	ADJ	B1|grn3|casD|gen1	Case=Acc|Degree=Abs|Gender=Masc|InflClass=IndEurO|Number=Sing	6	amod	_	_
+6	finem	finis	NOUN	C1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurI|Number=Sing	1	csubj	_	_
+7	totius	totus	DET	F1|grn1|casB|gen1|vgr1	Case=Gen|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Tot	8	det	_	_
+8	uniuersi	uniuersus	DET	B1|grn1|casB|gen1	Case=Gen|Compound=Yes|Gender=Masc|InflClass=IndEurO|Number=Sing|PronType=Tot	6	nmod	_	SpaceAfter=No
+9	;	;	PUNCT	Punc	_	1	punct	_	_
 
 ~~~
 

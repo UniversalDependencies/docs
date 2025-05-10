@@ -20,8 +20,8 @@ The feature is used with 2 part-of-speech tags: <tt><a href="et_edt-pos-ADP.html
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Post` (7243; 79% of non-empty `AdpType`): <em>eest, kohta, vahel, järgi, jooksul, vastu, korral, puhul, all, pärast</em>
-* `Prep` (1975; 21% of non-empty `AdpType`): <em>üle, pärast, enne, koos, ilma, läbi, mööda, alates, peale, kuni</em>
+* `Post` (7246; 79% of non-empty `AdpType`): <em>eest, kohta, vahel, järgi, jooksul, vastu, korral, puhul, all, pärast</em>
+* `Prep` (1972; 21% of non-empty `AdpType`): <em>üle, pärast, enne, koos, ilma, läbi, mööda, alates, peale, kuni</em>
 
 <table>
   <tr><th>Paradigm <i>üle</i></th><th><tt>Post</tt></th><th><tt>Prep</tt></th></tr>

@@ -11,7 +11,7 @@ It occurs with 2 different values: `Neg`, `Pos`.
 
 9289 tokens (26%) have a non-empty value of `Polarity`.
 2213 types (48%) occur at least once with a non-empty value of `Polarity`.
-1015 lemmas (37%) occur at least once with a non-empty value of `Polarity`.
+1016 lemmas (37%) occur at least once with a non-empty value of `Polarity`.
 The feature is used with 4 part-of-speech tags: <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6600; 18% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1819; 5% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (594; 2% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (276; 1% instances).
 
 ### `ADJ`
@@ -123,7 +123,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
   <tr><td><tt></tt></td><td><em>přímo</em></td><td><em>nepřímo</em></td></tr>
 </table>
 
-`Polarity` seems to be **lexical feature** of `ADV`. 99% lemmas (80) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `ADV`. 99% lemmas (81) occur only with one value of `Polarity`.
 
 ## Relations with Agreement in `Polarity`
 

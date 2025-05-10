@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-1 tokens (0%) have a non-empty value of `Typo`.
-1 types (0%) occur at least once with a non-empty value of `Typo`.
-1 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 1 part-of-speech tags: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+2 tokens (0%) have a non-empty value of `Typo`.
+2 types (0%) occur at least once with a non-empty value of `Typo`.
+2 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -23,4 +23,14 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 `NOUN` tokens may have the following values of `Typo`:
 
 * `Yes` (1; 100% of non-empty `Typo`): <em>Porto</em>
+
+### `VERB`
+
+1 <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_fqb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1; 100%), <tt><a href="fr_fqb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`VERB` tokens may have the following values of `Typo`:
+
+* `Yes` (1; 100% of non-empty `Typo`): <em>on</em>
 

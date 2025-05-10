@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of case in UD_Swiss_German-UZH'
+title:  'Statistics of case in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: Relations: `case`
+## Treebank Statistics: UD_Alemannic-UZH: Relations: `case`
 
 This relation is universal.
 

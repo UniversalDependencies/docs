@@ -25,7 +25,7 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 1	ontʔa	_	ADV	PTCL	_	4	discourse	_	AlignBegin=35009|AlignEnd=35339|Gloss=now|RX=[PTCL]|TokenType=Root
 2	//	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=35339|AlignEnd=35670|TokenType=Break
 3	bak	_	ADV	DEICT	_	4	advmod	_	AlignBegin=35670|AlignEnd=35939|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
-4	ʔabkin	_	VERB	V1	Gender=Fem|Number=Sing|VerbClass=1	8	ccomp	_	AlignBegin=35939|AlignEnd=36208|Gloss=take|MGloss=take-IMP.SG.F-EMPH|MSeg=ʔabk-i-n|Reported=Yes|ReportedSpeech=Yes|RX=[V1]-[TAM].[PNG]-[SUFX]|TokenType=Root
+4	ʔabkin	_	VERB	V1	Gender=Fem|Number=Sing|VerbClass=1	8	ccomp	_	AlignBegin=35939|AlignEnd=36208|Gloss=take|MGloss=take-IMP.SG.F-EMPH|MSeg=ʔabk-i-n|Reported=Yes|RX=[V1]-[TAM].[PNG]-[SUFX]|TokenType=Root
 5	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=36208|AlignEnd=36736|TokenType=Break
 6	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	7	det	_	AlignBegin=36736|AlignEnd=36853|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 7	hi	_	NOUN	N	_	4	obj	_	AlignBegin=36853|AlignEnd=36971|Gloss=lamb|RX=[N]|TokenType=Root
@@ -33,7 +33,7 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 9	=oː	_	PRON	PRO	Number=Sing|Person=1	8	obj	_	AlignBegin=37089|AlignEnd=37148|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
 10	=hoːb	_	SCONJ	CONJ	_	14	dep	_	AlignBegin=37148|AlignEnd=37207|Gloss==when|RX==[CONJ]|TokenType=Clit
 11	//	_	PUNCT	PUNCT	_	10	punct	_	AlignBegin=37207|AlignEnd=37443|TokenType=Break
-12	ajwa	_	PART	PTCL	_	14	dep:comp	_	AlignBegin=37443|AlignEnd=37774|Gloss=yes|Reported=Yes|ReportedSpeech=Yes|RX=[PTCL]|TokenType=Root
+12	ajwa	_	PART	PTCL	_	14	dep:comp	_	AlignBegin=37443|AlignEnd=37774|Gloss=yes|Reported=Yes|RX=[PTCL]|TokenType=Root
 13	/	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=37774|AlignEnd=38105|TokenType=Break
 14	adi	_	VERB	V1,IRG	Aspect=Perf|Number=Sing|VerbClass=1	0	root	_	AlignBegin=38105|AlignEnd=38373|Gloss=say\PFV|MGloss=1SG-say\PFV|MSeg=a-di|RX=[PNG]-[V1].[IRG]|TokenType=Root
 15	=t	_	CCONJ	CCONJ	_	14	cc	_	AlignBegin=38373|AlignEnd=38507|Gloss==COORD|RX==[CONJ]|TokenType=Clit

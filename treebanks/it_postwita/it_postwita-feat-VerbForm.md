@@ -132,7 +132,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="it_postwita-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (804; 61%),
-<tt>VERB --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> VERB</tt> (716; 74%),
+<tt>VERB --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> VERB</tt> (715; 74%),
 <tt>VERB --[<tt><a href="it_postwita-dep-parataxis-discourse.html">parataxis:discourse</a></tt>]--> VERB</tt> (12; 67%),
 <tt>AUX --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>AUX --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),

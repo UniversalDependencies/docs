@@ -58,7 +58,13 @@ The 2nd highest number of forms (2) was observed with the lemma “ἐάν”: <
 
 The 3rd highest number of forms (1) was observed with the lemma “διότι”: <em>διότι</em>.
 
-`SCONJ` does not occur with any features.
+`SCONJ` occurs with 1 features: <tt><a href="grc_ptnk-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances)
+
+`SCONJ` occurs with 1 feature-value pairs: `ExtPos=SCONJ`
+
+`SCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (513 tokens).
+Examples: <em>ὅτι, γὰρ, ἐὰν, εἰ, ἵνα, γάρ, ἕως, ὥστε, ἐπειδὴ, ἐάν</em>
 
 
 ## Relations

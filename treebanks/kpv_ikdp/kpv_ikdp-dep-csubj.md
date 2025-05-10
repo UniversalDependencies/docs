@@ -32,7 +32,7 @@ The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href
 8	мӧд	мӧд	PRON	Pron	PronType=Dem	9	det	_	_
 9	луннас	лун	NOUN	N	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	acl	_	_
 10	ми	ми	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	_	_
-11	уже	уже	ADV	Adv	_	15	advmod:tmod	_	OrigLang=ru|SpaceAfter=No
+11	уже	уже	ADV	Adv	_	15	advmod	_	OrigLang=ru|SpaceAfter=No
 12	,	,	PUNCT	CLB	_	11	punct	_	_
 13	абу	абу	AUX	Pcle	Polarity=Neg	15	aux:neg	_	_
 14	мӧд	мӧд	PRON	Pron	PronType=Dem	15	det	_	_
@@ -44,7 +44,7 @@ The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href
 20	вот	вот	PART	Pcle	_	22	advmod	_	OrigLang=ru|SpaceAfter=No
 21	,	,	PUNCT	CLB	_	20	punct	_	_
 22	тытэн	тытэн	ADV	Adv	_	3	advcl	_	_
-23	нин	нин	ADV	Adv	_	22	advmod:tmod	_	_
+23	нин	нин	ADV	Adv	_	22	advmod	_	_
 24	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	22	cop	_	SpaceAfter=No
 25	.	.	PUNCT	CLB	_	3	punct	_	_
 
@@ -60,7 +60,7 @@ The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href
 1	Ваыс	ва	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	csubj	_	_
 2	зэй	зэй	ADV	Adv	_	3	advmod:deg	_	_
 3	ыджыд	ыджыд	ADJ	A	Case=Nom|Number=Sing	1	amod	_	_
-4	кор	кор	ADV	Adv	_	1	advmod:tmod	_	_
+4	кор	кор	ADV	Adv	_	1	advmod	_	_
 5	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	cop	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
 7	дак	дак	SCONJ	CS	_	9	mark	_	OrigLang=ru

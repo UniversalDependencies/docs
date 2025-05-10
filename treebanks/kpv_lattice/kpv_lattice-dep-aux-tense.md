@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `aux:tense`
 
 This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-aux.html">aux</a></tt>.
-There are also 4 other language-specific subtypes of `aux`: <tt><a href="kpv_lattice-dep-aux-aspect.html">aux:aspect</a></tt>, <tt><a href="kpv_lattice-dep-aux-nec.html">aux:nec</a></tt>, <tt><a href="kpv_lattice-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="kpv_lattice-dep-aux-pot.html">aux:pot</a></tt>.
+There are also 1 other language-specific subtypes of `aux`: <tt><a href="kpv_lattice-dep-aux-neg.html">aux:neg</a></tt>.
 
 15 nodes (0%) are attached to their parents as `aux:tense`.
 

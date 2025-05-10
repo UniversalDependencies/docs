@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8107 nodes (5%) are attached to their parents as `amod`.
+7936 nodes (5%) are attached to their parents as `amod`.
 
-7409 instances of `amod` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.2122856790428.
+7409 instances of `amod` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19669858870968.
 
-The following 12 pairs of parts of speech are connected with `amod`: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (7690; 95% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (146; 2% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (95; 1% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (78; 1% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (19; 0% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (18; 0% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cs_fictree-pos-X.html">X</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
+The following 12 pairs of parts of speech are connected with `amod`: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (7655; 96% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (94; 1% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (74; 1% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (48; 1% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (17; 0% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cs_fictree-pos-X.html">X</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -37,27 +37,6 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 amod	color:blue
-1	Chci	chtít	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	hovořit	hovořit	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	1	xcomp	1:xcomp	_
-3	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	4	case	4:case	_
-4	něčem	něco	PRON	PZ--6----------	Case=Loc|PronType=Ind	2	obl:arg	2:obl:arg:o:loc	_
-5	jiném	jiný	ADJ	AANS6----1A----	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	4	amod	4:amod	SpaceAfter=No
-6	,	,	PUNCT	Z:-------------	_	10	punct	10:punct	_
-7	a	a	CCONJ	J^-------------	_	10	cc	10:cc	_
-8	to	to	PART	TT-------------	_	7	fixed	7:fixed	_
-9	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	10:case	_
-10	symbolu	symbol	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	appos	4:appos	SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
@@ -67,6 +46,29 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 2	Saint	Saint	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	3	amod	3:amod	_
 3	Michel	Michel	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	0:root	SpaceAfter=No
 4	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 amod	color:blue
+1	Potom	potom	ADV	Db-------------	_	5	advmod	5:advmod	_
+2	ale	ale	CCONJ	J^-------------	_	5	cc	5:cc	_
+3	jedna	jeden	NUM	ClFS1----------	Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	4	nummod	4:nummod	_
+4	země	země	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
+5	chce	chtít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+6	něco	něco	PRON	PZ--4----------	Animacy=Inan|Case=Acc|PronType=Ind	5	obj	5:obj|12:obj	SpaceAfter=No
+7	,	,	PUNCT	Z:-------------	_	11	punct	11:punct	_
+8	co	co	PRON	PQ--4----------	Animacy=Inan|Case=Acc|PronType=Int,Rel	12	obj	6:ref	_
+9	ta	ten	DET	PDFS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	11	nsubj	11:nsubj|12:nsubj:xsubj	_
+10	druhá	druhý	ADJ	CrFS1----------	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	9	amod	9:amod	_
+11	nechce	chtít	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	6:acl:relcl	_
+12	vydat	vydat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	11	xcomp	11:xcomp	SpaceAfter=No
+13	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
 
 ~~~
 

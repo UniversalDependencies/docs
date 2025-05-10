@@ -18,7 +18,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="et_ewt-pos-AUX.html
 
 1823 <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> tokens (30% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1798; 99%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1797; 99%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1440; 79%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1440; 79%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1440; 79%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1439; 79%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1799; 99%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1797; 99%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1440; 79%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1440; 79%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1440; 79%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1439; 79%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (248; 100% of non-empty `Polarity`): <em>mitte, ega</em>
-* `EMPTY` (12427): <em>ka, siis, nii, kas, ikka, veel, ju, juba, ära, küll</em>
+* `EMPTY` (12425): <em>ka, siis, nii, kas, ikka, veel, ju, juba, ära, küll</em>
 
 ### `VERB`
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (72; 100% of non-empty `Polarity`): <em>pole, polegi, polnud, Pold, mõtle, plee, poleks, polnd, tea, teinud</em>
-* `EMPTY` (10802): <em>on, tuleb, teha, saada, saab, tea, läheb, minna, saa, saanud</em>
+* `EMPTY` (10804): <em>on, tuleb, teha, saada, saab, tea, läheb, minna, saa, saanud</em>
 
 ### `CCONJ`
 
@@ -63,5 +63,5 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>mai</em>
-* `EMPTY` (6590): <em>ma, see, mis, seda, oma, kes, ta, sa, midagi, mida</em>
+* `EMPTY` (6589): <em>ma, see, mis, seda, oma, kes, ta, sa, midagi, mida</em>
 

@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 1 different values: `Yes`.
 
 4 tokens (0%) have a non-empty value of `Reflex`.
-3 types (0%) occur at least once with a non-empty value of `Reflex`.
+2 types (0%) occur at least once with a non-empty value of `Reflex`.
 2 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
 The feature is used with 1 part-of-speech tags: <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (4; 0% instances).
 
@@ -22,6 +22,6 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (4; 100% of non-empty `Reflex`): <em>o‘zi, oʻzi, o‘ziga</em>
-* `EMPTY` (191): <em>men, o‘z, u, uning, bu, ular, o‘zi, unga, bizning, kim</em>
+* `Yes` (4; 100% of non-empty `Reflex`): <em>oʻzi, oʻziga</em>
+* `EMPTY` (189): <em>oʻz, men, u, uning, bu, ular, oʻzi, unga, bizning, kim</em>
 

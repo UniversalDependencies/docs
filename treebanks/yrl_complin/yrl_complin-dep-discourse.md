@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-36 nodes (0%) are attached to their parents as `discourse`.
+39 nodes (0%) are attached to their parents as `discourse`.
 
-28 instances of `discourse` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.69444444444444.
+31 instances of `discourse` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.74358974358974.
 
-The following 6 pairs of parts of speech are connected with `discourse`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (19; 53% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (8; 22% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (6; 17% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `discourse`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (21; 54% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (8; 21% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (7; 18% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -42,7 +42,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 discourse	color:blue
-1	Aé	aé	PRON	PRON	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
+1	Aé	aé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
 2	kwera	kwera	NOUN	N	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=3:8
 3	,	,	PUNCT	PUNCT	_	4	punct	_	TokenRange=8:9
 4	taité	taité	INTJ	INTJ	_	2	discourse	_	SpaceAfter=No|TokenRange=10:15
@@ -64,7 +64,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 5	,	,	PUNCT	PUNCT	_	4	punct	_	TokenRange=14:15
 6	puxí	puxí	ADJ	A	_	0	root	_	TokenRange=16:20
 7	retana	retana	ADV	ADVS	AdvType=Deg	6	advmod	_	TokenRange=21:27
-8	indé	indé	PRON	PRON	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	SpaceAfter=No|TokenRange=28:32
+8	indé	indé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	SpaceAfter=No|TokenRange=28:32
 9	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=32:33
 
 ~~~

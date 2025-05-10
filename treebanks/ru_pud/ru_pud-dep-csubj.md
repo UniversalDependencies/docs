@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-47 nodes (0%) are attached to their parents as `csubj`.
+48 nodes (0%) are attached to their parents as `csubj`.
 
-44 instances of `csubj` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.80851063829787.
+45 instances of `csubj` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.89583333333333.
 
-The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (26; 55% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (18; 38% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (26; 54% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (18; 38% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

@@ -62,11 +62,11 @@ The 2nd highest number of forms (2) was observed with the lemma “iki”: <em>i
 
 The 3rd highest number of forms (1) was observed with the lemma “aynı”: <em>aynı</em>.
 
-`DET` occurs with 4 features: <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt> (982; 100% instances), <tt><a href="tr_gb-feat-Definite.html">Definite</a></tt> (979; 100% instances), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt> (29; 3% instances), <tt><a href="tr_gb-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`DET` occurs with 5 features: <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt> (982; 100% instances), <tt><a href="tr_gb-feat-Definite.html">Definite</a></tt> (979; 100% instances), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt> (29; 3% instances), <tt><a href="tr_gb-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances), <tt><a href="tr_gb-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`DET` occurs with 8 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Polarity=Neg`, `Polarity=Pos`, `PronType=Art`, `PronType=Dem`, `PronType=Int`, `Typo=Yes`
+`DET` occurs with 9 feature-value pairs: `Definite=Def`, `Definite=Ind`, `ExtPos=CCONJ`, `Polarity=Neg`, `Polarity=Pos`, `PronType=Art`, `PronType=Dem`, `PronType=Int`, `Typo=Yes`
 
-`DET` occurs with 9 feature combinations.
+`DET` occurs with 10 feature combinations.
 The most frequent feature combination is `Definite=Def|PronType=Art` (488 tokens).
 Examples: <em>bu, o, her, bütün, şu, aynı, öbür, diğer, iki, tek</em>
 

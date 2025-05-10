@@ -67,7 +67,7 @@ The 10 most frequent ambiguous types:  <em>þetta</em> (<tt><a href="is_icepahc-
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 4.051948 (the average of all parts of speech is 1.856953).
+The form / lemma ratio of `DET` is 4.051948 (the average of all parts of speech is 1.857072).
 
 The 1st highest number of forms (66) was observed with the lemma “nokkur”: <em>nakkvað, nakkvert, nekkvað, nekkver, nekkverir, nekkverja, nekkverjum, nekkvern, nekkverra, nekkverri, nekkvers, nekkvert, nekkveru, nekkvi, nokkora, nokkorar, nokkorir, nokkoro, nokkorra, nokkra, nokkrar, nokkri, nokkrir, nokkru, nokkrum, nokkur, nokkura, nokkurar, nokkurir, nokkurn, nokkurra, nokkurrar, nokkurri, nokkurs, nokkurt, nokkuru, nokkurum, nokkuð, nokkvað, nökkra, nökkrar, nökkri, nökkru, nökkrum, nökkur, nökkurir, nökkurn, nökkurri, nökkurs, nökkurt, nökkuru, nökkurum, nökkut, nökkuð, nökkvat, nökkvað, nökkver, nökkverir, nökkverja, nökkverjar, nökkverju, nökkverjum, nökkvern, nökkverr, nökkvers, nökkvi</em>.
 

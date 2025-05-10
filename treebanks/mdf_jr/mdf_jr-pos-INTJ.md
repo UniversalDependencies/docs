@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>аф</em> (<tt><a href="mdf_jr-pos-AU
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.550071).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.547887).
 
 The 1st highest number of forms (1) was observed with the lemma “аф”: <em>аф</em>.
 
@@ -51,7 +51,7 @@ Examples: <em>ну, вай, Вов, И, Эрь, Эх</em>
 
 `INTJ` nodes are attached to their parents using 3 different relations: <tt><a href="mdf_jr-dep-discourse.html">discourse</a></tt> (12; 86% instances), <tt><a href="mdf_jr-dep-conj.html">conj</a></tt> (1; 7% instances), <tt><a href="mdf_jr-dep-root.html">root</a></tt> (1; 7% instances)
 
-Parents of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (5; 36% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (4; 29% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (2; 14% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (2; 14% instances),  (1; 7% instances)
+Parents of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (5; 36% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (3; 21% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (3; 21% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (2; 14% instances),  (1; 7% instances)
 
 9 (64%) `INTJ` nodes are leaves.
 

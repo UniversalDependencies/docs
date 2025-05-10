@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-4059 tokens (8%) have a non-empty value of `Tense`.
-1421 types (16%) occur at least once with a non-empty value of `Tense`.
-790 lemmas (16%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (3647; 7% instances), <tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (403; 1% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (9; 0% instances).
+6320 tokens (8%) have a non-empty value of `Tense`.
+2089 types (16%) occur at least once with a non-empty value of `Tense`.
+1077 lemmas (16%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (5681; 7% instances), <tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (621; 1% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (18; 0% instances).
 
 ### `VERB`
 
-3647 <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Tense`.
+5681 <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="uk_parlamint-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3571; 98%), <tt><a href="uk_parlamint-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3548; 97%), <tt><a href="uk_parlamint-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3052; 84%), <tt><a href="uk_parlamint-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2904; 80%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2219; 61%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="uk_parlamint-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5556; 98%), <tt><a href="uk_parlamint-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5533; 97%), <tt><a href="uk_parlamint-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (4637; 82%), <tt><a href="uk_parlamint-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4426; 78%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3484; 61%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (276; 8% of non-empty `Tense`): <em>буде, підтримаємо, скажу, дасть, зробимо, привітаємо, проголосуємо, дамо, зачитаю, попрошу</em>
-* `Past` (840; 23% of non-empty `Tense`): <em>хотів, мали, було, говорили, сказав, була, мала, почули, проголосували, просив</em>
-* `Pres` (2531; 69% of non-empty `Tense`): <em>дякую, прошу, є, хочу, маємо, надається, ставлю, має, думаю, може</em>
-* `EMPTY` (2183): <em>будь, голосувати, прийнято, давайте, прийняти, підтримати, проголосувати, сказати, передати, працювати</em>
+* `Fut` (454; 8% of non-empty `Tense`): <em>скажу, буде, дасть, зачитаю, зробимо, підтримаємо, привітаємо, підемо, підуть, дам</em>
+* `Past` (1390; 24% of non-empty `Tense`): <em>хотів, було, мали, просив, сказав, могли, говорили, склалася, була, дали</em>
+* `Pres` (3837; 68% of non-empty `Tense`): <em>дякую, прошу, є, хочу, маємо, має, думаю, може, надається, ставлю</em>
+* `EMPTY` (3271): <em>будь, голосувати, давайте, прийнято, сказати, прийняти, підтримати, зробити, забезпечити, проголосувати</em>
 
 <table>
   <tr><th>Paradigm <i>бути</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -41,16 +41,16 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-403 <tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> tokens (77% of all `AUX` tokens) have a non-empty value of `Tense`.
+621 <tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> tokens (74% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="uk_parlamint-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (403; 100%), <tt><a href="uk_parlamint-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (403; 100%), <tt><a href="uk_parlamint-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (402; 100%), <tt><a href="uk_parlamint-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (327; 81%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (280; 69%), <tt><a href="uk_parlamint-feat-Person.html">Person</a></tt><tt>=3</tt> (240; 60%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="uk_parlamint-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (621; 100%), <tt><a href="uk_parlamint-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (621; 100%), <tt><a href="uk_parlamint-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (620; 100%), <tt><a href="uk_parlamint-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (489; 79%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (426; 69%), <tt><a href="uk_parlamint-feat-Person.html">Person</a></tt><tt>=3</tt> (356; 57%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (202; 50% of non-empty `Tense`): <em>буде, будемо, будуть, буду, будете, будем</em>
-* `Past` (98; 24% of non-empty `Tense`): <em>було, була, були, був</em>
-* `Pres` (103; 26% of non-empty `Tense`): <em>є</em>
-* `EMPTY` (119): <em>би, бути, б</em>
+* `Fut` (302; 49% of non-empty `Tense`): <em>буде, будемо, будуть, буду, будете, будем</em>
+* `Past` (170; 27% of non-empty `Tense`): <em>було, була, були, був</em>
+* `Pres` (149; 24% of non-empty `Tense`): <em>є, буває</em>
+* `EMPTY` (223): <em>би, бути, б</em>
 
 <table>
   <tr><th>Paradigm <i>бути</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -68,22 +68,22 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `ADJ`
 
-9 <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Tense`.
+18 <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="uk_parlamint-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="uk_parlamint-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6; 67%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 67%), <tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 56%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="uk_parlamint-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (18; 100%).
 
 `ADJ` tokens may have the following values of `Tense`:
 
-* `Pres` (9; 100% of non-empty `Tense`): <em>виконуючий, діючий, керуючими, блокуючих, виконуючого, головуючий</em>
-* `EMPTY` (5045): <em>шановні, Верховної, народні, шановний, повинні, реєстраційний, народний, народних, народному, готові</em>
+* `Pres` (18; 100% of non-empty `Tense`): <em>виконуючий, головуючий, діючий, керуючими, контролюючих, Перевіряючих, блокуючих, виконуючого, контролюючим, контролюючими</em>
+* `EMPTY` (8736): <em>шановні, Верховної, шановний, повинні, народні, готові, російської, народних, народний, реєстраційний</em>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> VERB</tt> (294; 77%),
-<tt>VERB --[<tt><a href="uk_parlamint-dep-appos.html">appos</a></tt>]--> VERB</tt> (9; 100%),
-<tt>VERB --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 80%),
-<tt>VERB --[<tt><a href="uk_parlamint-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (2; 100%),
-<tt>VERB --[<tt><a href="uk_parlamint-dep-parataxis-rel.html">parataxis:rel</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="uk_parlamint-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (2; 100%).
+<tt>VERB --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> VERB</tt> (463; 76%),
+<tt>VERB --[<tt><a href="uk_parlamint-dep-appos.html">appos</a></tt>]--> VERB</tt> (9; 82%),
+<tt>VERB --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> AUX</tt> (6; 86%),
+<tt>VERB --[<tt><a href="uk_parlamint-dep-parataxis-rel.html">parataxis:rel</a></tt>]--> VERB</tt> (4; 67%),
+<tt>VERB --[<tt><a href="uk_parlamint-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (4; 80%),
+<tt>AUX --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
 

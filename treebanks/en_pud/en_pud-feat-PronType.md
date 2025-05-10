@@ -7,16 +7,16 @@ udver: '2'
 ## Treebank Statistics: UD_English-PUD: Features: `PronType`
 
 This feature is universal.
-It occurs with 8 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
+It occurs with 9 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Rel`, `Tot`.
 
-3205 tokens (15%) have a non-empty value of `PronType`.
+3207 tokens (15%) have a non-empty value of `PronType`.
 102 types (2%) occur at least once with a non-empty value of `PronType`.
 64 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_pud-pos-DET.html">DET</a></tt> (2074; 10% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (1006; 5% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (125; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="en_pud-pos-DET.html">DET</a></tt> (2076; 10% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (1006; 5% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (125; 1% instances).
 
 ### `DET`
 
-2074 <tt><a href="en_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+2076 <tt><a href="en_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="en_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1441; 69%).
 
@@ -27,16 +27,16 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Ind` (33; 2% of non-empty `PronType`): <em>some, another, any, such, either, half</em>
 * `Int` (2; 0% of non-empty `PronType`): <em>which</em>
 * `Neg` (13; 1% of non-empty `PronType`): <em>no, nary</em>
+* `Rcp` (2; 0% of non-empty `PronType`): <em>each</em>
 * `Rel` (4; 0% of non-empty `PronType`): <em>whatever, which</em>
 * `Tot` (46; 2% of non-empty `PronType`): <em>all, each, both, every</em>
-* `EMPTY` (6): <em>each, All, Both</em>
+* `EMPTY` (4): <em>Each, All, Both</em>
 
 <table>
-  <tr><th>Paradigm <i>which</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>which</em></td><td><em>which</em></td></tr>
+  <tr><th>Paradigm <i>each</i></th><th><tt>Rcp</tt></th><th><tt>Tot</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>each</em></td></tr>
+  <tr><td><tt><tt><a href="en_pud-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt></tt></td><td><em>each</em></td><td></td></tr>
 </table>
-
-`PronType` seems to be **lexical feature** of `DET`. 94% lemmas (17) occur only with one value of `PronType`.
 
 ### `PRON`
 
@@ -76,7 +76,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Neg` (4; 3% of non-empty `PronType`): <em>never, nowhere</em>
 * `Rel` (20; 16% of non-empty `PronType`): <em>where, when, why, whenever</em>
 * `Tot` (6; 5% of non-empty `PronType`): <em>always</em>
-* `EMPTY` (698): <em>also, so, only, more, however, most, well, as, about, just</em>
+* `EMPTY` (691): <em>also, so, only, more, however, well, most, as, about, just</em>
 
 <table>
   <tr><th>Paradigm <i>when</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>

@@ -53,41 +53,33 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 19 appos	color:blue
-1	ahaː	_	INTJ	_	_	4	discourse	_	AlignBegin=104357|AlignEnd=104549|Gloss=ahaː|RX=[FILL]|TokenType=Root
-2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=104549|AlignEnd=104741|Gloss=/|TokenType=Break
-3	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	det	_	AlignBegin=104741|AlignEnd=104929|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
-4	nfʔa	_	NOUN	N	Gender=Masc	12	obj	_	AlignBegin=104929|AlignEnd=105116|Gloss=fortune|RX=[SBJ].[N].[M]|TokenType=Root
-5	wi=	_	PRON	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	6	obj	_	AlignBegin=105116|AlignEnd=105210|Gloss=REL.SG.M=|RX=[CONJ]=|TokenType=Clit
-6	iːbri	_	VERB	V1	Aspect=Aor|Number=Sing|VerbClass=1	7	dep:comp	_	AlignBegin=105210|AlignEnd=105398|Gloss=have\AOR|MGloss=1SG-have\AOR|MSeg=iː-bri|RX=[PNG]-[V1].[IRG]|TokenType=Root
-7	=eː	_	SCONJ	POSTP	_	4	acl:relcl	_	AlignBegin=105398|AlignEnd=105491|Gloss==REL|RX==[CONJ]|TokenType=Clit
-8	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=105491|AlignEnd=105865|Gloss=/|TokenType=Break
-9	ti=	_	DET	REL	Definite=Def|Gender=Fem	10	det	_	AlignBegin=106305|AlignEnd=106422|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-10	sak	_	NOUN	V2	_	12	nsubj	_	AlignBegin=106422|AlignEnd=106539|Gloss=do\N.AC|RX=[N.][V].[F]|TokenType=Root
-11	=ji	_	PRON	TAM.PNG	Case=Gen|Number=Sing|Person=1	10	nmod:poss	_	AlignBegin=106539|AlignEnd=106656|Gloss==POSS.1SG.GEN|RX==[PRO]|TokenType=Clit
-12	gallabtan	_	VERB	V2	Gender=Fem|Number=Sing|VerbClass=2	14	dep:comp	_	AlignBegin=106773|AlignEnd=107007|Gloss=tire_out|MGloss=tire_out-PFV.3SG.F|MSeg=gallab-tan|RX=[V2]-[TAM].[PNG]|TokenType=Root
-13	=oː	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	12	obj	_	AlignBegin=107007|AlignEnd=107124|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
-14	=hoːb	_	SCONJ	CONJ	_	16	dep	_	AlignBegin=107124|AlignEnd=107241|Gloss==when|RX==[CONJ]|TokenType=Clit
-15	//	_	PUNCT	PUNCT	_	14	punct	_	AlignBegin=107241|AlignEnd=107708|Gloss=//|TokenType=Break
-16	haːda~doːjeː	_	VERB	V2	VerbClass=2	28	advcl	_	AlignBegin=107708|AlignEnd=108033|Gloss=wander~PLAC|MGloss=wander~PLAC-CVB.SMLT|MSeg=haːda~doːj-eː|RX=[V2].[DER]|TokenType=Root
-17	/	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=108033|AlignEnd=108358|Gloss=/|TokenType=Break
-18	tak	_	NOUN	N	Gender=Masc	27	dep:comp	_	AlignBegin=108949|AlignEnd=109257|Gloss=man|RX=[N].[M]|TokenType=Root
-19	ʃarif	_	PROPN	N	_	18	appos	_	AlignBegin=109257|AlignEnd=109565|Gloss=Ashraf|RX=[N].[PROP]|TokenType=Root
-20	//	_	PUNCT	PUNCT	_	19	punct	_	AlignBegin=109565|AlignEnd=109873|Gloss=//|TokenType=Break
-21	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	22	det	_	AlignBegin=110348|AlignEnd=110597|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
-22	ʃaːtaːj	_	PROPN	N	_	24	obj	_	AlignBegin=110597|AlignEnd=110846|Gloss=Shatay|RX=[N].[PROP]|TokenType=Root
-23	/	_	PUNCT	PUNCT	_	22	punct	_	AlignBegin=110846|AlignEnd=111094|Gloss=/|TokenType=Break
-24	iːfiina	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	25	dep:comp	_	AlignBegin=111094|AlignEnd=111328|Gloss=be_there\AOR|MGloss=3-be_there\AOR-PL|MSeg=iː-fi-ina|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Root
-25	=j	_	SCONJ	CONJ	_	19	acl:relcl	_	AlignBegin=111328|AlignEnd=111406|Gloss==REL|RX==[CONJ]|TokenType=Clit
-26	/	_	PUNCT	PUNCT	_	25	punct	_	AlignBegin=111406|AlignEnd=111717|Gloss=/|TokenType=Break
-27	dhaːj	_	ADP	POSTP	_	28	obl:arg	_	AlignBegin=111717|AlignEnd=111927|Gloss=DIR|RX=[POSTP]|TokenType=Root
-28	jʔan	_	VERB	V2	Number=Sing|VerbClass=2	0	root	_	AlignBegin=111927|AlignEnd=112067|Gloss=come|MGloss=come-PFV.1SG|MSeg=jʔ-an|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
-29	=ajt	_	CCONJ	CONJ	_	28	cc	_	AlignBegin=112067|AlignEnd=112137|Gloss==COORD|RX==[CONJ]|TokenType=Clit
-30	//	_	PUNCT	PUNCT	_	28	punct	_	AlignBegin=112137|AlignEnd=112347|Gloss=//|TokenType=Break
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 appos	color:blue
+1	ti=	_	DET	REL	Definite=Def|Gender=Fem	2	det	_	AlignBegin=106305|AlignEnd=106422|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
+2	sak	_	NOUN	V2	_	4	nsubj	_	AlignBegin=106422|AlignEnd=106539|Gloss=do\N.AC|RX=[N.][V].[F]|TokenType=Root
+3	=ji	_	PRON	TAM.PNG	Case=Gen|Number=Sing|Person=1	2	nmod:poss	_	AlignBegin=106539|AlignEnd=106656|Gloss==POSS.1SG.GEN|RX==[PRO]|TokenType=Clit
+4	gallabtan	_	VERB	V2	Gender=Fem|Number=Sing|VerbClass=2	6	dep:comp	_	AlignBegin=106773|AlignEnd=107007|Gloss=tire_out|MGloss=tire_out-PFV.3SG.F|MSeg=gallab-tan|RX=[V2]-[TAM].[PNG]|TokenType=Root
+5	=oː	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	4	obj	_	AlignBegin=107007|AlignEnd=107124|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
+6	=hoːb	_	SCONJ	CONJ	_	8	dep	_	AlignBegin=107124|AlignEnd=107241|Gloss==when|RX==[CONJ]|TokenType=Clit
+7	//	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=107241|AlignEnd=107708|Gloss=//|TokenType=Break
+8	haːda~doːjeː	_	VERB	V2	VerbClass=2	20	advcl	_	AlignBegin=107708|AlignEnd=108033|Gloss=wander~PLAC|MGloss=wander~PLAC-CVB.SMLT|MSeg=haːda~doːj-eː|RX=[V2].[DER]|TokenType=Root
+9	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=108033|AlignEnd=108358|Gloss=/|TokenType=Break
+10	tak	_	NOUN	N	Gender=Masc	19	dep:comp	_	AlignBegin=108949|AlignEnd=109257|Gloss=man|RX=[N].[M]|TokenType=Root
+11	ʃarif	_	PROPN	N	_	10	appos	_	AlignBegin=109257|AlignEnd=109565|Gloss=Ashraf|RX=[N].[PROP]|TokenType=Root
+12	//	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=109565|AlignEnd=109873|Gloss=//|TokenType=Break
+13	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	AlignBegin=110348|AlignEnd=110597|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
+14	ʃaːtaːj	_	PROPN	N	_	16	obj	_	AlignBegin=110597|AlignEnd=110846|Gloss=Shatay|RX=[N].[PROP]|TokenType=Root
+15	/	_	PUNCT	PUNCT	_	14	punct	_	AlignBegin=110846|AlignEnd=111094|Gloss=/|TokenType=Break
+16	iːfiina	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	17	dep:comp	_	AlignBegin=111094|AlignEnd=111328|Gloss=be_there\AOR|MGloss=3-be_there\AOR-PL|MSeg=iː-fi-ina|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Root
+17	=j	_	SCONJ	CONJ	_	11	acl:relcl	_	AlignBegin=111328|AlignEnd=111406|Gloss==REL|RX==[CONJ]|TokenType=Clit
+18	/	_	PUNCT	PUNCT	_	17	punct	_	AlignBegin=111406|AlignEnd=111717|Gloss=/|TokenType=Break
+19	dhaːj	_	ADP	POSTP	_	20	obl:arg	_	AlignBegin=111717|AlignEnd=111927|Gloss=DIR|RX=[POSTP]|TokenType=Root
+20	jʔan	_	VERB	V2	Number=Sing|VerbClass=2	0	root	_	AlignBegin=111927|AlignEnd=112067|Gloss=come|MGloss=come-PFV.1SG|MSeg=jʔ-an|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
+21	=ajt	_	CCONJ	CONJ	_	20	cc	_	AlignBegin=112067|AlignEnd=112137|Gloss==COORD|RX==[CONJ]|TokenType=Clit
+22	//	_	PUNCT	PUNCT	_	20	punct	_	AlignBegin=112137|AlignEnd=112347|Gloss=//|TokenType=Break
 
 ~~~
 

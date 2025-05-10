@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-4464 tokens (10%) have a non-empty value of `Mood`.
+4465 tokens (10%) have a non-empty value of `Mood`.
 502 types (15%) occur at least once with a non-empty value of `Mood`.
-276 lemmas (11%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (2430; 6% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (2034; 5% instances).
+253 lemmas (10%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (2431; 6% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (2034; 5% instances).
 
 ### `VERB`
 
-2430 <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Mood`.
+2431 <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2426; 100%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2376; 98%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2276; 94%), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1580; 65%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (1532; 63%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2427; 100%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2377; 98%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2277; 94%), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1581; 65%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (1533; 63%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (29; 1% of non-empty `Mood`): <em>voudrais, dirait, irait, pourrait, serait, aimerais, changerait, connaîtrais, courait, devrait</em>
 * `Imp` (29; 1% of non-empty `Mood`): <em>vas, dis, allez, inquiète, écoute, allume, attends, demande, faites, laisse</em>
-* `Ind` (2334; 96% of non-empty `Mood`): <em>avait, a, est, sais, fait, était, dit, va, avais, vois</em>
+* `Ind` (2335; 96% of non-empty `Mood`): <em>avait, a, est, sais, fait, était, dit, va, avais, vois</em>
 * `Sub` (38; 2% of non-empty `Mood`): <em>fasse, ait, passe, soit, cherche, choisisse, décolle, puisse, accompagnes, appelle</em>
-* `EMPTY` (1987): <em>voilà, faire, fait, aller, dit, eu, vu, dire, voir, parler</em>
+* `EMPTY` (1986): <em>voilà, faire, fait, aller, dit, eu, vu, dire, voir, parler</em>
 
 <table>
   <tr><th>Paradigm <i>faire</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -39,7 +39,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fait, fasse</em></td><td></td><td><em>ferait</em></td><td><em>fasse</em></td></tr>
   <tr><td><tt><tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>faites</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>faisaient</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>font</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>font</em></td><td></td><td></td><td><em>fassent</em></td></tr>
 </table>
 
 ### `AUX`

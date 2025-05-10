@@ -75,7 +75,7 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 
 * `Imp` (3; 14% of non-empty `Aspect`): चुनौती, महती
 * `Perf` (19; 86% of non-empty `Aspect`): दिसाईं, पहिले, किडनी, बानी, रंगे, अलगे, आगे, कहनी, जगाईं, पहिलहीं
-* `EMPTY` (1832): लोग, बिआह, जी, रंग, देश, जब, भाषा, आजु, आदमी, साल
+* `EMPTY` (1833): लोग, बिआह, जी, रंग, देश, जब, भाषा, आजु, आदमी, साल
 
 `Aspect` seems to be **lexical feature** of `NOUN`. 100% lemmas (14) occur only with one value of `Aspect`.
 
@@ -99,7 +99,7 @@ The most frequent other feature values with which `PART` and `Aspect` co-occurre
 `PART` tokens may have the following values of `Aspect`:
 
 * `Perf` (2; 100% of non-empty `Aspect`): नइखे, नाहीं
-* `EMPTY` (190): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
+* `EMPTY` (189): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
 
 ### `PROPN`
 

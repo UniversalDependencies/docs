@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="bej_autogramm-dep-acl.html">acl</a></tt>.
 
-216 nodes (2%) are attached to their parents as `acl:relcl`.
+214 nodes (2%) are attached to their parents as `acl:relcl`.
 
-135 instances of `acl:relcl` (63%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.06018518518519.
+136 instances of `acl:relcl` (64%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.
 
-The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> (180; 83% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (22; 10% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> (180; 84% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (22; 10% instances), <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,36 +58,36 @@ The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 ~~~ conllu
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 22 18 acl:relcl	color:blue
-1	aneːb	_	PRON	PNG	Number=Sing|Person=1	6	dislocated:obj	_	AlignBegin=59110|AlignEnd=59292|Gloss=1SG.ACC|RX=[PRO]|TokenType=Root
-2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=59292|AlignEnd=59474|Gloss=/|TokenType=Break
-3	deː	_	NOUN	DEM	_	6	nsubj:outer	_	AlignBegin=59941|AlignEnd=60066|Gloss=mother|RX=[SBJ].[N].[F]|TokenType=Root
-4	=t	_	DET	DET	Definite=Ind|Gender=Fem	3	det	_	AlignBegin=60066|AlignEnd=60191|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-5	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	3	nmod:poss	_	AlignBegin=60191|AlignEnd=60317|Gloss==POSS.1SG.NOM|RX==[PRO]|TokenType=Clit
-6	baːɖinaːt	_	VERB	N	Gender=Fem	14	dep:conj	_	AlignBegin=60317|AlignEnd=60506|Gloss=forget\INT|MGloss=forget\INT-CVB.MNR-INDF.F|MSeg=baːɖin-aː-t|RX=[V1].[DER]-[PRF]-[DET]|TokenType=Root
-7	=oː	_	PRON	PRO	Number=Sing|Person=1	6	obj	_	AlignBegin=60506|AlignEnd=60569|Gloss==POSS.1SG.ACC|RX==[PRO]|TokenType=Clit
-8	-t	_	PRON	DET	Definite=Ind|Gender=Fem	6	dep	_	AlignBegin=60569|AlignEnd=60632|Gloss=-INDF.F|MGloss=-INDF.F|MSeg=-t|RX=-[DET]|TokenType=InflAff|wordform==t
-9	=u	_	AUX	N,COP	Number=Sing|Person=3|VerbType=Cop	6	cop	_	AlignBegin=60632|AlignEnd=60693|Gloss==COP.3SG|RX==[PRED].[N]|TokenType=Clit
-10	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=60693|AlignEnd=61069|Gloss=/|TokenType=Break
-11	naː	_	NOUN	CONJ	_	14	obj	_	AlignBegin=61069|AlignEnd=61196|Gloss=thing|RX=[N].[F]|TokenType=Root
-12	=t	_	DET	DET	Definite=Ind|Gender=Fem	11	det	_	AlignBegin=61196|AlignEnd=61323|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-13	ki=	_	PART	DET	Aspect=Imp|Polarity=Neg	14	advmod	_	AlignBegin=61323|AlignEnd=61408|Gloss=NEG.IPFV=|RX=[PTCL]=|TokenType=Clit
-14	tfirʔa	_	VERB	V1	Aspect=Perf|Gender=Fem|Number=Sing|VerbClass=1	15	ccomp	_	AlignBegin=61408|AlignEnd=61577|Gloss=take_out\PFV|MGloss=2SG.F-take_out\PFV|MSeg=t-firʔa|Reported=Yes|RX=[PNG]-[V1]|TokenType=Root
-15	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	16	dep:comp	_	AlignBegin=61577|AlignEnd=61747|Gloss=say\IPFV|MGloss=3SG.M-say\IPFV|MSeg=i-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root
-16	=hoːb	_	SCONJ	CONJ	_	25	dep	_	AlignBegin=61747|AlignEnd=61831|Gloss==when|RX==[CONJ]|TokenType=Clit
-17	/	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=61831|AlignEnd=62085|Gloss=/|TokenType=Break
-18	deː	_	NOUN	N	_	22	acl:relcl	_	AlignBegin=62085|AlignEnd=62199|Gloss=mother|RX=[N].[F]|TokenType=Root
-19	=t	_	DET	DET	Definite=Ind|Gender=Fem	18	det	_	AlignBegin=62199|AlignEnd=62313|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-20	=ijoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	18	nmod:poss	_	AlignBegin=62313|AlignEnd=62426|Gloss==POSS.2SG.GEN|RX==[PRO]|TokenType=Clit
-21	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	22	det	_	AlignBegin=62426|AlignEnd=62596|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
-22	mhiːn	_	NOUN	N	Gender=Masc	23	obj	_	AlignBegin=62596|AlignEnd=62767|Gloss=place|RX=[N].[M]|TokenType=Root
-23	mitjajaː	_	VERB	V1	Gender=Masc|Number=Sing	25	ccomp	_	AlignBegin=62767|AlignEnd=62995|Gloss=explain|MGloss=explain-IMP.SG.M|MSeg=mitja-jaː|Reported=Yes|RX=[V2]-[TAM].[PNG]|TokenType=Root
-24	=heːb	_	PRON	PRO	Number=Sing|Person=1	23	obj	_	AlignBegin=62995|AlignEnd=63108|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
-25	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=63108|AlignEnd=63449|Gloss=say\IPFV|MGloss=3SG.M-say\IPFV|MSeg=i-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root
-26	eːn	_	VERB	DEM	Aspect=Perf|Gender=Masc|Number=Plur|Person=3	25	discourse	_	AlignBegin=63449|AlignEnd=63790|Gloss=say|RX=[V1].[IRG]|TokenType=Root
-27	/	_	PUNCT	PUNCT	_	25	punct	_	AlignBegin=63790|AlignEnd=64132|Gloss=/|TokenType=Break
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 18 acl:relcl	color:blue
+1	ti=	_	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	6	dep:comp	_	AlignBegin=249620|AlignEnd=249696|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
+2	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=249696|AlignEnd=249772|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
+3	hagiː	_	NOUN	N	Gender=Masc	1	acl:relcl	_	AlignBegin=249772|AlignEnd=249848|Gloss=buttocks|RX=[N].[M]|TokenType=Root
+4	=t	_	DET	DET	Gender=Fem	3	det	_	AlignBegin=249848|AlignEnd=249924|Gloss==INDF.F|RX==[DET]|TokenType=Clit
+5	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	3	nmod:poss	_	AlignBegin=249924|AlignEnd=250000|Gloss==POSS.1SG.ACC|RX==[PRO]|TokenType=Clit
+6	=ka	_	ADP	POSTP	Case=Dis	8	dep:comp	_	AlignBegin=250000|AlignEnd=250077|Gloss==DISTR|RX==[POSTP]|TokenType=Clit
+7	hanka	_	ADV	ADV	_	8	advmod	_	AlignBegin=250077|AlignEnd=250534|Gloss=before|RX=[ADV]|TokenType=Root
+8	fitikna	_	VERB	V1	Number=Plur|VerbClass=1	13	ccomp	_	AlignBegin=250534|AlignEnd=250991|Gloss=dig_up|MGloss=dig_up-IMP.PL|MSeg=fitik-na|Reported=Yes|RX=[V1]-[TAM].[PNG]|TokenType=Root
+9	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=250991|AlignEnd=251448|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
+10	aː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	11	det	_	AlignBegin=251448|AlignEnd=251570|Gloss=DEF.PL.M.NOM=|RX=[DET]=|TokenType=Clit
+11	nda	_	NOUN	N	Gender=Masc|Number=Plur	13	nsubj	_	AlignBegin=251570|AlignEnd=251692|Gloss=man\PL|RX=[SBJ].[N].[M]|TokenType=Root
+12	dhaːj	_	ADP	POSTP	_	13	obl:arg	_	AlignBegin=251692|AlignEnd=251937|Gloss=DIR|RX=[POSTP]|TokenType=Root
+13	jʔeːn	_	VERB	V2	Number=Plur|VerbClass=2	14	dep:comp	_	AlignBegin=251937|AlignEnd=252099|Gloss=come|MGloss=come-IPFV.3PL|MSeg=jʔ-eːn|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
+14	=hoːb	_	SCONJ	CONJ	_	25	dep	_	AlignBegin=252099|AlignEnd=252181|Gloss==when|RX==[CONJ]|TokenType=Clit
+15	/	_	PUNCT	PUNCT	_	14	punct	_	AlignBegin=252181|AlignEnd=252426|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
+16	ti=	_	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	21	dep:comp	_	AlignBegin=252426|AlignEnd=252509|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
+17	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	18	det	_	AlignBegin=252509|AlignEnd=252593|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
+18	hagiː	_	NOUN	N	Gender=Masc	16	acl:relcl	_	AlignBegin=252593|AlignEnd=252677|Gloss=buttocks|RX=[N].[M]|TokenType=Root
+19	=t	_	DET	DET	Gender=Fem	18	det	_	AlignBegin=252677|AlignEnd=252760|Gloss==INDF.F|RX==[DET]|TokenType=Clit
+20	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	18	nmod:poss	_	AlignBegin=252760|AlignEnd=252844|Gloss==POSS.1SG.ACC|RX==[PRO]|TokenType=Clit
+21	=ka	_	ADP	POSTP	Case=Dis	23	dep:comp	_	AlignBegin=252844|AlignEnd=252928|Gloss==DISTR|RX==[POSTP]|TokenType=Clit
+22	hanka	_	ADV	ADV	_	23	advmod	_	AlignBegin=252928|AlignEnd=253431|Gloss=before|RX=[ADV]|TokenType=Root
+23	fitikna	_	VERB	V1	Number=Plur|VerbClass=1	25	ccomp	_	AlignBegin=253431|AlignEnd=253934|Gloss=dig_up|MGloss=dig_up-IMP.PL|MSeg=fitik-na|Reported=Yes|RX=[V1]-[TAM].[PNG]|TokenType=Root
+24	/	_	PUNCT	PUNCT	_	23	punct	_	AlignBegin=253934|AlignEnd=254437|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
+25	tindi	_	VERB	V1	Aspect=Imp|Gender=Fem|Number=Sing|VerbClass=1	0	root	_	AlignBegin=254437|AlignEnd=254568|Gloss=say\IPFV|MGloss=3SG.F-say\IPFV|MSeg=ti-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root
+26	eːn	_	VERB	V1	Aspect=Perf|Number=Plur|Person=3|VerbClass=1	25	discourse	_	AlignBegin=254568|AlignEnd=254699|Gloss=say\PFV.3PL|RX=[V1].[IRG]|TokenType=Root
+27	//	_	PUNCT	PUNCT	_	25	punct	_	AlignBegin=254699|AlignEnd=255533|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 ~~~
 

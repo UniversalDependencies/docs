@@ -20,8 +20,8 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ky_tuecl-pos-VERB.h
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Perf` (2; 100% of non-empty `Aspect`): <em>Түнѳп, жыйнап</em>
-* `EMPTY` (184): <em>берди, алып, кетти, окуп, уктап, барыптыр, болот, болчу, деп, келип</em>
+* `Perf` (2; 100% of non-empty `Aspect`): <em>Түнөп, жыйнап</em>
+* `EMPTY` (242): <em>берди, окуп, алып, кетти, көрөт, окуган, болчу, деп, келип, уктап</em>
 
 ### `AUX`
 
@@ -30,5 +30,5 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ky_tuecl-pos-VERB.h
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Imp` (1; 100% of non-empty `Aspect`): <em>болчу</em>
-* `EMPTY` (74): <em>жатат, эле, жаткан, калган, болгон, еле, жатам, албай, бекен, жата</em>
+* `EMPTY` (87): <em>жатат, эле, жаткан, калган, жок, болгон, екен, еле, жатам, алам</em>
 

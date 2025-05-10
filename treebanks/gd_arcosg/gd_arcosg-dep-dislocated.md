@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-62 nodes (0%) are attached to their parents as `dislocated`.
+63 nodes (0%) are attached to their parents as `dislocated`.
 
-62 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.75806451612903.
+63 instances of `dislocated` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.76190476190476.
 
-The following 11 pairs of parts of speech are connected with `dislocated`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (23; 37% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (14; 23% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (7; 11% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (4; 6% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 11 pairs of parts of speech are connected with `dislocated`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (23; 37% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (15; 24% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (7; 11% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (4; 6% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -31,9 +31,9 @@ The following 11 pairs of parts of speech are connected with `dislocated`: <tt><
 7	i	i	PRON	Pp3sf	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 8	a'	ag	PART	Sa	_	9	case	_	_
 9	sreap	sreap	NOUN	Nv	VerbForm=Vnoun	6	xcomp:pred	_	_
-10	an	an	ADV	Rs	_	9	advmod	_	_
-11	siud	siud	ADV	Rs	_	10	fixed	_	_
-12	co-dhiù	co-dhiù	ADV	Rg	_	9	advmod	_	SpaceAfter=No
+10	an	an	ADV	Rs	AdvType=Loc|ExtPos=ADV	9	advmod	_	_
+11	siud	siud	ADV	Rs	AdvType=Loc	10	fixed	_	_
+12	co-dhiù	co-dhiù	ADV	Rg	AdvType=Man	9	advmod	_	SpaceAfter=No
 13	?	?	PUNCT	Fg	_	4	punct	_	_
 
 ~~~
@@ -45,8 +45,8 @@ The following 11 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 dislocated	color:blue
-1	[Name]	[Name]	PROPN	Nn	_	4	dislocated	_	Anonymised=Yes
-2	[Name]	[Name]	PROPN	Nn	_	1	flat:name	_	Anonymised=Yes
+1	[Name]	[Name]	PROPN	Nn	NounType=Prs	4	dislocated	_	Anonymised=Yes
+2	[Name]	[Name]	PROPN	Nn	NounType=Prs	1	flat:name	_	Anonymised=Yes|FlatType=Name
 3	a	a	PART	Q-r	PartType=Vb|PronType=Rel	4	nsubj	_	_
 4	thug	toir	VERB	V-s	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 5	an	an	DET	Tdsm	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -63,7 +63,7 @@ The following 11 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 dislocated	color:blue
-1	Leighton	Leighton	PROPN	Nn	_	2	dislocated	_	_
+1	Leighton	Leighton	PROPN	Nn	NounType=Prs	2	dislocated	_	_
 2	buille	buille	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 3	mhòr	mòr	ADJ	Aq-sfn	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
 4	le	le	ADP	Sp	_	5	case	_	_

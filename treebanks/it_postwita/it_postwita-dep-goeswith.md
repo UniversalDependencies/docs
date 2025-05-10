@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `goeswith`.
+6 nodes (0%) are attached to their parents as `goeswith`.
 
-5 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+6 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (2; 40% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 20% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 20% instances), <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 20% instances).
+The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (3; 50% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 17% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 17% instances), <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 17% instances).
 
 
 ~~~ conllu

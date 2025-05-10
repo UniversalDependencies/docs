@@ -56,8 +56,8 @@ The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="
 1	Коймедсэ	коймӧд	ADJ	A	Case=Acc|Number=Sing|Number[psor]=Sing|NumType=Ord|Person[psor]=3	2	obj	_	GTtags=Err/Dial,Ord,Sg,Acc,PxSg3
 2	сетіс	сетны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
 3	да	да	CCONJ	CC	_	6	cc	_	_
-4	бара	бара	ADV	Adv	_	6	advmod:eval	_	GTtags=Parenthetic
-5	же	жӧ	PART	Pcle	_	6	advmod:eval	_	GTtags=Err/Dial
+4	бара	бара	ADV	Adv	_	6	advmod	_	GTtags=Parenthetic
+5	же	жӧ	PART	Pcle	_	6	advmod	_	GTtags=Err/Dial
 6	сідз	сідзи	ADV	Adv	AdvType=Man	2	conj	_	GTtags=Manner|SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	2	punct	_	_
 

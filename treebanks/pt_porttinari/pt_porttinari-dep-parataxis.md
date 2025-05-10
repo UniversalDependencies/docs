@@ -35,7 +35,7 @@ The following 46 pairs of parts of speech are connected with `parataxis`: <tt><a
 11	e	e	CCONJ	_	_	13	cc	13:cc	_
 12	não	não	ADV	_	_	13	advmod	13:advmod	_
 13	cumprimentava	cumprimentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	conj	2:parataxis|7:conj:e	SpaceAfter=No
-14	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 
@@ -58,7 +58,7 @@ The following 46 pairs of parts of speech are connected with `parataxis`: <tt><a
 10	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	12:det	_
 11	minhas	meu	DET	_	Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	det	12:det	_
 12	lojinhas	lojinha	NOUN	_	Gender=Fem|Number=Plur	5	obl	5:obl:de	SpaceAfter=No
-13	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 
@@ -81,7 +81,7 @@ The following 46 pairs of parts of speech are connected with `parataxis`: <tt><a
 10	também	também	ADV	_	_	12	advmod	12:advmod	_
 11	estão	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
 12	eliminados	eliminado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	0:root	SpaceAfter=No
-13	.	.	PUNCT	_	_	12	punct	12:punct	SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	12:punct	_
 
 ~~~
 

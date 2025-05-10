@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="pt_dantestocks-p
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.238049).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.238183).
 
 The 1st highest number of forms (1) was observed with the lemma “#”: <em>#</em>.
 
@@ -60,7 +60,13 @@ The 2nd highest number of forms (1) was observed with the lemma “$”: <em>$</
 
 The 3rd highest number of forms (1) was observed with the lemma “$$”: <em>$$</em>.
 
-`SYM` does not occur with any features.
+`SYM` occurs with 1 features: <tt><a href="pt_dantestocks-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
+
+`SYM` occurs with 1 feature-value pairs: `ExtPos=ADV`
+
+`SYM` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (4437 tokens).
+Examples: <em>%, R$, -, +, http://t.co/kgt1YiTbF7, $, http://t.co/zJRs3Eeyz9, o.O, US$, x</em>
 
 
 ## Relations

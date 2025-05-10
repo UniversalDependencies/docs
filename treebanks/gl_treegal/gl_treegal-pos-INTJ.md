@@ -32,7 +32,13 @@ The 2nd highest number of forms (1) was observed with the lemma “ho”: <em>ho
 
 The 3rd highest number of forms (1) was observed with the lemma “home”: <em>Home</em>.
 
-`INTJ` does not occur with any features.
+`INTJ` occurs with 1 features: <tt><a href="gl_treegal-feat-ExtPos.html">ExtPos</a></tt> (1; 14% instances)
+
+`INTJ` occurs with 1 feature-value pairs: `ExtPos=INTJ`
+
+`INTJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (6 tokens).
+Examples: <em>ha, Home, Ouh, Silencio,, ho</em>
 
 
 ## Relations

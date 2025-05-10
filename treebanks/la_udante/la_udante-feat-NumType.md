@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (385; 100% of non-empty `NumType`): <em>unum, quantum, una, uno, multa, unius, tanta, plura, tot, multis</em>
-* `EMPTY` (3262): <em>hoc, illa, illud, hec, ipsum, omnes, aliud, sua, quedam, huius</em>
+* `EMPTY` (3258): <em>hoc, illa, illud, hec, ipsum, omnes, aliud, sua, quedam, huius</em>
 
 `NumType` seems to be **lexical feature** of `DET`. 100% lemmas (12) occur only with one value of `NumType`.
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Dist` (3; 1% of non-empty `NumType`): <em>duodena, singulis, tredena</em>
 * `Ord` (284; 99% of non-empty `NumType`): <em>prima, primo, primum, primi, secundo, quarto, secunda, primus, tertio, tertium</em>
-* `EMPTY` (3689): <em>humanum, manifestum, necesse, verum, romanorum, illustre, romanus, falsum, inpossibile, propria</em>
+* `EMPTY` (3687): <em>humanum, manifestum, necesse, verum, romanorum, illustre, romanus, falsum, inpossibile, propria</em>
 
 <table>
   <tr><th>Paradigm <i>singuli</i></th><th><tt>Ord</tt></th><th><tt>Dist</tt></th></tr>
@@ -70,7 +70,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 * `Card` (58; 49% of non-empty `NumType`): <em>tantum, multum, plus, quantum, plurimum</em>
 * `Mult` (6; 5% of non-empty `NumType`): <em>semel, bis, dupliciter, ter, multotiens</em>
 * `Ord` (55; 46% of non-empty `NumType`): <em>primo, primum, tertio, secundo, quinto, Quarto, primitus, tertium</em>
-* `EMPTY` (2997): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, magis</em>
+* `EMPTY` (2963): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, magis</em>
 
 `NumType` seems to be **lexical feature** of `ADV`. 100% lemmas (16) occur only with one value of `NumType`.
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Card`, `Frac`, `Ord`, `Sets`.
 
-1729 tokens (2%) have a non-empty value of `NumType`.
-559 types (3%) occur at least once with a non-empty value of `NumType`.
+1730 tokens (2%) have a non-empty value of `NumType`.
+560 types (3%) occur at least once with a non-empty value of `NumType`.
 235 lemmas (3%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (1089; 1% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (640; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (1089; 1% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (641; 1% instances).
 
 ### `NUM`
 
@@ -48,14 +48,14 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 ### `ADJ`
 
-640 <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `NumType`.
+641 <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="orv_ruthenian-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (640; 100%), <tt><a href="orv_ruthenian-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (640; 100%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (587; 92%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (486; 76%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="orv_ruthenian-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (641; 100%), <tt><a href="orv_ruthenian-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (641; 100%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (588; 92%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (487; 76%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Card` (1; 0% of non-empty `NumType`): <em>1</em>
-* `Ord` (639; 100% of non-empty `NumType`): <em>14, 12, 9, 13, 11, 2, 6, 5, 15, 10</em>
+* `Ord` (640; 100% of non-empty `NumType`): <em>14, 12, 9, 13, 11, 2, 6, 5, 15, 10</em>
 * `EMPTY` (6736): <em>великии, полоцкии, полоцкого, милым, полоцког(о), Бож(ъ)ю, ризког(о), великого, полоцких, ризкого</em>
 
 <table>

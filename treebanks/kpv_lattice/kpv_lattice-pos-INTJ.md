@@ -13,7 +13,7 @@ The 10 most frequent `INTJ` lemmas: <em>но, ок, Ага, господи, мы
 
 The 10 most frequent `INTJ` types:  <em>Но, Ок, Ага, Господи, Ох, Э-э-э, мыйкӧ, ура</em>
 
-The 10 most frequent ambiguous lemmas: <em>но</em> (<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 37, <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> 2), <em>мыйкӧ</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 9, <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>но</em> (<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 38, <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> 2), <em>мыйкӧ</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 9, <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>Но</em> (<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> 2), <em>мыйкӧ</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 8, <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> 1)
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>Но</em> (<tt><a href="kpv_lattice-p
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.468128).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.468725).
 
 The 1st highest number of forms (1) was observed with the lemma “Ага”: <em>Ага</em>.
 

@@ -71,7 +71,7 @@ The following 6 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	исполнивайте	исполнивати	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	2	conj	_	_
 8	заповеди	заповѣдь	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	7	obj	_	_
-9	его	и	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	det	_	SpaceAfter=No
+9	его	и	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	det	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

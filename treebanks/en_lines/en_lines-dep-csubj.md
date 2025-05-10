@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `csubj`: <tt><a href="en_lines-dep-csubj-outer.html">csubj:outer</a></tt>, <tt><a href="en_lines-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-168 nodes (0%) are attached to their parents as `csubj`.
+204 nodes (0%) are attached to their parents as `csubj`.
 
-97 instances of `csubj` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.78571428571429.
+129 instances of `csubj` (63%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.07352941176471.
 
-The following 14 pairs of parts of speech are connected with `csubj`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (66; 39% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (47; 28% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (32; 19% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (9; 5% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 16 pairs of parts of speech are connected with `csubj`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (77; 38% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (59; 29% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (39; 19% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (7; 3% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 5	the	the	DET	DEF	Definite=Def|PronType=Art	6	det	_	_
 6	notion	notion	NOUN	SG-NOM	Number=Sing	4	obj	_	_
 7	of	of	ADP	_	_	9	case	_	_
-8	an	an	DET	IND-SG	Definite=Ind|PronType=Art	9	det	_	_
+8	an	a	DET	IND-SG	Definite=Ind|PronType=Art	9	det	_	_
 9	accelerator	accelerator	NOUN	SG-NOM	Number=Sing	6	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	Period	_	4	punct	_	_
 
@@ -47,7 +47,7 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 2	it	it	PRON	PERS-SG	_	3	expl	_	_
 3	possible	possible	ADJ	POS	Degree=Pos	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
-5	you	you	PRON	PERS-P2	_	6	nsubj	_	_
+5	you	you	PRON	PERS-P2	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	_
 6	know	know	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	3	csubj	_	_
 7	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
 8	people	people	NOUN	PL-NOM	Number=Plur	6	obj	_	_

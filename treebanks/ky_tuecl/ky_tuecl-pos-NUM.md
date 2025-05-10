@@ -7,21 +7,24 @@ udver: '2'
 ## Treebank Statistics: UD_Kyrgyz-TueCL: POS Tags: `NUM`
 
 There are 5 `NUM` lemmas (2%), 4 `NUM` types (1%) and 9 `NUM` tokens (1%).
-Out of 15 observed tags, the rank of `NUM` is: 12 in number of lemmas, 13 in number of types and 13 in number of tokens.
+Out of 16 observed tags, the rank of `NUM` is: 12 in number of lemmas, 13 in number of types and 13 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>үч, беш, бир, _, эки</em>
 
 The 10 most frequent `NUM` types:  <em>беш, үч, бир, эки</em>
 
-The 10 most frequent ambiguous lemmas: <em>бир</em> (<tt><a href="ky_tuecl-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 2), <em>_</em> (<tt><a href="ky_tuecl-pos-NUM.html">NUM</a></tt> 1, <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 1, <tt><a href="ky_tuecl-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>бир</em> (<tt><a href="ky_tuecl-pos-DET.html">DET</a></tt> 2, <tt><a href="ky_tuecl-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 2), <em>_</em> (<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> 3, <tt><a href="ky_tuecl-pos-NUM.html">NUM</a></tt> 1, <tt><a href="ky_tuecl-pos-PUNCT.html">PUNCT</a></tt> 1)
 
-The 10 most frequent ambiguous types:  
+The 10 most frequent ambiguous types:  <em>бир</em> (<tt><a href="ky_tuecl-pos-DET.html">DET</a></tt> 2, <tt><a href="ky_tuecl-pos-NUM.html">NUM</a></tt> 2)
 
 
+* <em>бир</em>
+  * <tt><a href="ky_tuecl-pos-DET.html">DET</a></tt> 2: <em>Жалпы алганда ийгиликтүү <b>бир</b> фильм болду .</em>
+  * <tt><a href="ky_tuecl-pos-NUM.html">NUM</a></tt> 2: <em>Дениздин эч <b>бир</b> китеби жок .</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 0.800000 (the average of all parts of speech is 1.466899).
+The form / lemma ratio of `NUM` is 0.800000 (the average of all parts of speech is 1.492355).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: <em>беш</em>.
 

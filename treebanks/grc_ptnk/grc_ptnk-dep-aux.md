@@ -28,8 +28,8 @@ The following 1 pairs of parts of speech are connected with `aux`: <tt><a href="
 4	αὐτούς	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	1	obl	_	Gloss=he,she,it,-self,same|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	Ἰωσὴφ	Ἰωσήφ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Gloss=Joseph
-7	τὸ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	Gloss=the
-8	πρωῒ	πρωΐ	ADV	_	_	1	obl	_	Gloss=morning,dawn
+7	τὸ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	Gloss=the
+8	πρωῒ	πρωΐ	ADV	_	_	1	obl:tmod	_	Gloss=morning,dawn
 9	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
 10	εἶδεν	ὁράω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-see,behold
 11	αὐτούς	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	10	obj	_	Gloss=he,she,it,-self,same

@@ -6,8 +6,9 @@ udver: '2'
 
 ## Treebank Statistics: UD_Erzya-JR: Features: `NumType`
 
-This feature is universal but the values `Appr`, `OrdMult`, `OrdSets` are language-specific.
-It occurs with 9 different values: `Appr`, `Card`, `Dist`, `Frac`, `Mult`, `Ord`, `OrdMult`, `OrdSets`, `Sets`.
+This feature is universal but the values `Appr` are language-specific.
+It occurs with 7 different values: `Appr`, `Card`, `Dist`, `Frac`, `Mult`, `Ord`, `Sets`.
+Some words have combined values of the feature; 2 combinations have been observed: `Mult|Ord`, `Ord|Sets`.
 
 251 tokens (1%) have a non-empty value of `NumType`.
 103 types (2%) occur at least once with a non-empty value of `NumType`.
@@ -25,7 +26,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 * `Appr` (4; 3% of non-empty `NumType`): <em>кавто-колмо, колмо-ниле</em>
 * `Card` (126; 91% of non-empty `NumType`): <em>кавто, ве, колмо, вейке, вейкесь, ниле, колоньгеменьшка, Комсь, вейкеде, вейксэ</em>
 * `Dist` (3; 2% of non-empty `NumType`): <em>Колмонь-колмонь, кавтонь-кавтонь, сядонь-сядонь</em>
-* `OrdSets` (3; 2% of non-empty `NumType`): <em>омбонст, Омбонстнэ, колмоценстнэ</em>
+* `Ord,Sets` (3; 2% of non-empty `NumType`): <em>омбонст, Омбонстнэ, колмоценстнэ</em>
 * `Sets` (3; 2% of non-empty `NumType`): <em>веенст, Веенстнэнь</em>
 * `EMPTY` (39): <em>вейке, кавто, вейкеть, ниле, Кавонстонь-кавонстонь, Кеветеешка, Сисемь, ве, вейкекс, вейкесь</em>
 
@@ -41,14 +42,14 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Dist` (3; 8% of non-empty `NumType`): <em>вейкень-вейкень, рядс-рядс, косто-косто</em>
 * `Mult` (26; 68% of non-empty `NumType`): <em>весть, сеедьстэ, Ламоксть, колмоксть, зярыяксть, Чуросто, вестькак, кавксть, кеменьшкаксть, Кавкстешкаксть</em>
+* `Mult,Ord` (7; 18% of non-empty `NumType`): <em>омбоцеде, колмоцеде, васенцеде</em>
 * `Ord` (2; 5% of non-empty `NumType`): <em>васенцеде, васняяк</em>
-* `OrdMult` (7; 18% of non-empty `NumType`): <em>омбоцеде, колмоцеде, васенцеде</em>
-* `EMPTY` (1667): <em>ансяк, кода, пек, истя, мейле, ней, уш, седе, прок, яла</em>
+* `EMPTY` (1631): <em>ансяк, кода, пек, истя, мейле, ней, уш, седе, прок, яла</em>
 
 <table>
-  <tr><th>Paradigm <i>васенцеде</i></th><th><tt>Ord</tt></th><th><tt>OrdMult</tt></th></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=Tim</tt></tt></td><td></td><td><em>васенцеде</em></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td><em>васенцеде</em></td><td></td></tr>
+  <tr><th>Paradigm <i>васенцеде</i></th><th><tt>Mult,Ord</tt></th><th><tt>Ord</tt></th></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=Tim</tt></tt></td><td><em>васенцеде</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td></td><td><em>васенцеде</em></td></tr>
 </table>
 
 `NumType` seems to be **lexical feature** of `ADV`. 94% lemmas (15) occur only with one value of `NumType`.
@@ -62,7 +63,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (33; 100% of non-empty `NumType`): <em>омбоце, васенце, омбоцесь, колмоцесь, Васенценть, Колмоце, Колмоцекс, васень, кеменце, омбоценть</em>
-* `EMPTY` (862): <em>од, паро, покш, арась, кодамо, якстере, мазый, сэрей, лембе, пиже</em>
+* `EMPTY` (866): <em>од, паро, покш, кодамо, арась, якстере, мазый, сэрей, лембе, пиже</em>
 
 ### `PRON`
 
@@ -75,7 +76,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 * `Card` (2; 7% of non-empty `NumType`): <em>вейкесь</em>
 * `Dist` (4; 14% of non-empty `NumType`): <em>Конат-конат, Мезе-мезе, кинь-кинь, кона-кона</em>
 * `Sets` (22; 79% of non-empty `NumType`): <em>кавонест, колмонест, ськамонзо, ламонест, ниленест, ськамон, ськамонк</em>
-* `EMPTY` (1151): <em>сон, весе, те, мон, сонзэ, тон, мезе, сонсь, минь, сынь</em>
+* `EMPTY` (1147): <em>сон, весе, те, мон, сонзэ, тон, мезе, сонсь, минь, сынь</em>
 
 `NumType` seems to be **lexical feature** of `PRON`. 100% lemmas (12) occur only with one value of `NumType`.
 
@@ -90,7 +91,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 * `Card` (10; 83% of non-empty `NumType`): <em>ве</em>
 * `Dist` (1; 8% of non-empty `NumType`): <em>вейте-вейте</em>
 * `Ord` (1; 8% of non-empty `NumType`): <em>васенце</em>
-* `EMPTY` (237): <em>те, эрьва, эсь, ламо, се, истямо, лия, кона, не, зяро</em>
+* `EMPTY` (244): <em>те, эрьва, эсь, ламо, се, истямо, лия, кона, не, зяро</em>
 
 ### `NOUN`
 
@@ -101,14 +102,14 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Frac` (1; 100% of non-empty `NumType`): <em>пель</em>
-* `EMPTY` (5091): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
+* `EMPTY` (5119): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="myv_jr-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (2; 100%),
+<tt>NUM --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> NUM</tt> (2; 100%),
 <tt>NUM --[<tt><a href="myv_jr-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (2; 100%),
 <tt>NUM --[<tt><a href="myv_jr-dep-compound.html">compound</a></tt>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<tt><a href="myv_jr-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="myv_jr-dep-obj.html">obj</a></tt>]--> NUM</tt> (1; 100%).
 

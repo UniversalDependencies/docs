@@ -11,7 +11,7 @@ It occurs with 2 different values: `Card`, `Ord`.
 
 146142 tokens (4%) have a non-empty value of `NumType`.
 6567 types (3%) occur at least once with a non-empty value of `NumType`.
-6534 lemmas (9%) occur at least once with a non-empty value of `NumType`.
+6534 lemmas (5%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (71307; 2% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (69961; 2% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (4874; 0% instances).
 
 ### `NUM`

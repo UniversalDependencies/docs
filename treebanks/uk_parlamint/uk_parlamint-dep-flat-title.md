@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_parlamint-dep-flat.html">flat</a></tt>.
 There are also 4 other language-specific subtypes of `flat`: <tt><a href="uk_parlamint-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="uk_parlamint-dep-flat-name.html">flat:name</a></tt>, <tt><a href="uk_parlamint-dep-flat-range.html">flat:range</a></tt>, <tt><a href="uk_parlamint-dep-flat-repeat.html">flat:repeat</a></tt>.
 
-5 nodes (0%) are attached to their parents as `flat:title`.
+10 nodes (0%) are attached to their parents as `flat:title`.
 
-5 instances of `flat:title` (100%) are left-to-right (parent precedes child).
+10 instances of `flat:title` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 3 pairs of parts of speech are connected with `flat:title`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (3; 60% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (1; 20% instances).
+The following 3 pairs of parts of speech are connected with `flat:title`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (8; 80% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
@@ -74,10 +74,10 @@ The following 3 pairs of parts of speech are connected with `flat:title`: <tt><a
 12	з	з	ADP	ADP	Case=Gen	13	case	_	_
 13	посад	посада	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
 14	суддів	суддя	NOUN	NOUN	Animacy=Anim|Case=Gen|Gender=Fem,Masc|Number=Plur	11	nmod	_	_
-15	у	у	ADP	ADP	Case=Loc	16	case	_	_
-16	зв'язку	зв'язок	NOUN	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	nmod	_	_
-17	з	з	ADP	ADP	Case=Ins	18	case	_	_
-18	досягненням	досягнення	NOUN	NOUN	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	16	nmod	_	_
+15	у	у	ADP	ADP	Case=Loc|ExtPos=ADP	18	case	_	_
+16	зв'язку	зв'язок	NOUN	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	fixed	_	_
+17	з	з	ADP	ADP	Case=Ins	15	fixed	_	_
+18	досягненням	досягнення	NOUN	NOUN	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	nmod	_	_
 19	65	65	NUM	NUM	Case=Gen|NumType=Card	20	nummod	_	_
 20	років	рік	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	PUNCT	_	3	punct	_	_

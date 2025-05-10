@@ -55,7 +55,7 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 11	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	13	aux	_	Orig=Ⲛ
 12	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	Orig=ⲦⲚ
 13	ⲟⲩϫⲁⲓ	ⲟⲩϫⲁⲓ	VERB	V	VerbForm=Fin	7	advcl	_	Orig=ⲞⲨϪⲀⲒ
-14	ϩⲁⲙⲏⲛ	ϩⲁⲙⲏⲛ	PART	PTC	Foreign=Yes	7	discourse	_	Orig=ϨⲀⲘⲎⲚ|OrigLang=he
+14	ϩⲁⲙⲏⲛ	ϩⲁⲙⲏⲛ	PART	PTC	Foreign=Yes	7	discourse	_	Orig=ϨⲀⲘⲎⲚ|OrigLang=heb
 15	⁛	⁛	PUNCT	PUNCT	_	7	punct	_	_
 16	—	—	PUNCT	PUNCT	_	7	punct	_	_
 

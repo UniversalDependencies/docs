@@ -40,9 +40,9 @@ The 3rd highest number of forms (1) was observed with the lemma “až”: <em>a
 
 ## Relations
 
-`PART` nodes are attached to their parents using 6 different relations: <tt><a href="cs_poetry-dep-advmod-emph.html">advmod:emph</a></tt> (32; 70% instances), <tt><a href="cs_poetry-dep-mark.html">mark</a></tt> (6; 13% instances), <tt><a href="cs_poetry-dep-advmod.html">advmod</a></tt> (4; 9% instances), <tt><a href="cs_poetry-dep-cc.html">cc</a></tt> (2; 4% instances), <tt><a href="cs_poetry-dep-dep.html">dep</a></tt> (1; 2% instances), <tt><a href="cs_poetry-dep-fixed.html">fixed</a></tt> (1; 2% instances)
+`PART` nodes are attached to their parents using 5 different relations: <tt><a href="cs_poetry-dep-advmod-emph.html">advmod:emph</a></tt> (32; 70% instances), <tt><a href="cs_poetry-dep-mark.html">mark</a></tt> (6; 13% instances), <tt><a href="cs_poetry-dep-advmod.html">advmod</a></tt> (5; 11% instances), <tt><a href="cs_poetry-dep-cc.html">cc</a></tt> (2; 4% instances), <tt><a href="cs_poetry-dep-dep.html">dep</a></tt> (1; 2% instances)
 
-Parents of `PART` nodes belong to 6 different parts of speech: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (24; 52% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (10; 22% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (4; 9% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (4; 9% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (2; 4% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (2; 4% instances)
+Parents of `PART` nodes belong to 6 different parts of speech: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (25; 54% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (10; 22% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (4; 9% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (3; 7% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (2; 4% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (2; 4% instances)
 
 46 (100%) `PART` nodes are leaves.
 

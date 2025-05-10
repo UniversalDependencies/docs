@@ -268,7 +268,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="sl_sst-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1189; 91%),
 <tt>NOUN --[<tt><a href="sl_sst-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1074; 64%),
 <tt>ADJ --[<tt><a href="sl_sst-dep-cop.html">cop</a></tt>]--> AUX</tt> (908; 96%),
-<tt>VERB --[<tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (830; 74%),
+<tt>VERB --[<tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (829; 74%),
 <tt>VERB --[<tt><a href="sl_sst-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (760; 95%),
-<tt>VERB --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> VERB</tt> (656; 76%).
+<tt>VERB --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> VERB</tt> (655; 76%).
 

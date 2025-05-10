@@ -28,7 +28,7 @@ The following 12 pairs of parts of speech are connected with `conj`: <tt><a href
 4	да	да	CCONJ	_	_	5	cc	_	_
 5	пуксьӧтіс	пуксьӧтны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	conj	_	GTtags=Ind,Prt1,Sg3
 6	пызан	пызан	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	GTtags=Sg,Nom
-7	сайӧ	сай	NOUN	N	Case=Nom|NounType=Relat|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	obl:lmod	_	SpaceAfter=No
+7	сайӧ	сай	NOUN	N	Case=Nom|NounType=Relat|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	obl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
@@ -40,7 +40,7 @@ The following 12 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 conj	color:blue
-1	Ордчӧн	ордчӧн	ADV	Adv	_	3	advmod:lmod	_	GTtags=Adv
+1	Ордчӧн	ордчӧн	ADV	Adv	AdvType=Loc	3	advmod	_	GTtags=Adv
 2	мекӧт	ме	PRON	Pron	Case=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	GTtags=Pron,Pers,Sg1,Com
 3	пукалӧ	пукавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=V,TV,Ind,Prs,Sg3
 4	сьӧд	сьӧд	ADJ	A	_	5	amod	_	GTtags=A

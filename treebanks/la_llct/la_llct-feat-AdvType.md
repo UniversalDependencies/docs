@@ -18,6 +18,8 @@ The feature is used with 1 part-of-speech tags: <tt><a href="la_llct-pos-ADV.htm
 
 1842 <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> tokens (23% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
+The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="la_llct-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (1643; 89%).
+
 `ADV` tokens may have the following values of `AdvType`:
 
 * `Loc` (1232; 67% of non-empty `AdvType`): <em>ubi, unde, ibidem, hic, foris, ubique, alibi, ubicumque, inde, exinde</em>

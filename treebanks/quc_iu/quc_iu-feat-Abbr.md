@@ -23,5 +23,5 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (5; 100% of non-empty `Abbr`): <em>T.b.g, T.b.r.</em>
-* `EMPTY` (2434): <em>e, rukʼ, ja, rumal, uwach, winaq, rech, achi, ali, ke</em>
+* `EMPTY` (2433): <em>e, rukʼ, ja, rumal, uwach, winaq, rech, achi, ali, ke</em>
 

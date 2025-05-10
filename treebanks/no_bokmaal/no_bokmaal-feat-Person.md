@@ -11,7 +11,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 18148 tokens (6%) have a non-empty value of `Person`.
 64 types (0%) occur at least once with a non-empty value of `Person`.
-27 lemmas (0%) occur at least once with a non-empty value of `Person`.
+25 lemmas (0%) occur at least once with a non-empty value of `Person`.
 The feature is used with 1 part-of-speech tags: <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (18148; 6% instances).
 
 ### `PRON`
@@ -27,7 +27,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `3` (12257; 68% of non-empty `Person`): <em>det, han, de, hun, dette, den, noe, dem, ham, alt</em>
 * `EMPTY` (4497): <em>seg, man, sin, hva, sine, hans, sitt, min, vår, deres</em>
 
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (27) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (25) occur only with one value of `Person`.
 
 ## Relations with Agreement in `Person`
 

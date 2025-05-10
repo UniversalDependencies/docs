@@ -11,21 +11,21 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fi_pud-feat-Number.html">Number</a></tt>, <tt><a href="fi_pud-feat-Number-psor.html">Number[psor]</a></tt>.
 
-10649 tokens (67%) have a non-empty value of `Number`.
-6969 types (92%) occur at least once with a non-empty value of `Number`.
-4332 lemmas (88%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (4205; 27% instances), <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (1789; 11% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (1501; 9% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (1160; 7% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (1082; 7% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (783; 5% instances), <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (123; 1% instances), <tt><a href="fi_pud-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="fi_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
+10645 tokens (67%) have a non-empty value of `Number`.
+6966 types (92%) occur at least once with a non-empty value of `Number`.
+4330 lemmas (88%) occur at least once with a non-empty value of `Number`.
+The feature is used with 9 part-of-speech tags: <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (4203; 27% instances), <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (1789; 11% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (1500; 9% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (1159; 7% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (1082; 7% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (783; 5% instances), <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (123; 1% instances), <tt><a href="fi_pud-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="fi_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-4205 <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+4203 <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="fi_pud-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (3685; 88%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="fi_pud-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (3683; 88%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (1069; 25% of non-empty `Number`): <em>ihmiset, ihmisiä, vuosien, arkhaimenidien, ihmisten, joukot, maat, miesten, osin, sijoittajat</em>
-* `Sing` (3136; 75% of non-empty `Number`): <em>vuonna, aikana, vuoden, vuoteen, aikaan, kaupungin, alueen, osa, kertaa, sodan</em>
+* `Sing` (3134; 75% of non-empty `Number`): <em>vuonna, aikana, vuoden, vuoteen, aikaan, kaupungin, alueen, osa, kertaa, sodan</em>
 * `EMPTY` (18): <em>eKr., jKr., eaa., minareetteineen, uutis-, vaimoineen</em>
 
 <table>
@@ -69,14 +69,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PROPN`
 
-1501 <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+1500 <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (791; 53%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (790; 53%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (43; 3% of non-empty `Number`): <em>Yhdysvaltain, Yhdysvaltojen, Alankomaiden, Yhdysvallat, Yhdysvalloille, Alankomaissa, Alpit, Alppien, Amarna, Amerikkoihin</em>
-* `Sing` (1458; 97% of non-empty `Number`): <em>of, Ranskan, Australian, Kiinan, Hong, Venäjän, de, the, Euroopan, Britannian</em>
+* `Sing` (1457; 97% of non-empty `Number`): <em>of, Ranskan, Australian, Kiinan, Hong, Venäjän, de, the, Euroopan, Britannian</em>
 * `EMPTY` (3): <em>Alvarez, Andya, IV:n</em>
 
 <table>
@@ -85,18 +85,18 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=Ill</tt></tt></td><td></td><td><em>Amerikkoihin</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (1038) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (1037) occur only with one value of `Number`.
 
 ### `PRON`
 
-1160 <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
+1159 <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (835; 72%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (834; 72%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (304; 26% of non-empty `Number`): <em>jotka, he, heidän, monet, ne, niiden, nämä, joissa, joita, jotkut</em>
-* `Sing` (856; 74% of non-empty `Number`): <em>hän, sen, joka, hänen, se, tämä, sitä, jossa, tällä, hänet</em>
+* `Sing` (855; 74% of non-empty `Number`): <em>hän, sen, joka, hänen, se, tämä, sitä, jossa, tällä, hänet</em>
 
 <table>
   <tr><th>Paradigm <i>hän</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -220,7 +220,7 @@ The most frequent other feature values with which `SYM` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="fi_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (822; 96%),
-<tt>VERB --[<tt><a href="fi_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (624; 62%),
+<tt>VERB --[<tt><a href="fi_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (623; 62%),
 <tt>VERB --[<tt><a href="fi_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (442; 89%),
 <tt>VERB --[<tt><a href="fi_pud-dep-obj.html">obj</a></tt>]--> NOUN</tt> (385; 54%),
 <tt>PROPN --[<tt><a href="fi_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (361; 99%),

@@ -49,7 +49,7 @@ The following 8 pairs of parts of speech are connected with `dislocated`: <tt><a
 9	économiser	économiser	VERB	_	VerbForm=Inf	0	root	_	_
 10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
 11	combustibles	combustible	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
-12	fossiles	fossile	ADJ	_	Number=Plur	11	amod	_	SpaceAfter=No
+12	fossiles	fossile	ADJ	_	Number=Plur	11	amod	_	Gender[ctxt]=Masc|SpaceAfter=No
 13	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Héctor Martínez Alonso, Elena Pascual, Daniel Zeman.
 
 Repository: [UD_Catalan-AnCora](https://github.com/UniversalDependencies/UD_Catalan-AnCora)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udca_ancora215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udca_ancora216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY 4.0
 
@@ -88,7 +88,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 
 ## Features
 
-[Case](ca_ancora-feat-Case.html) – [Definite](ca_ancora-feat-Definite.html) – [Degree](ca_ancora-feat-Degree.html) – [Foreign](ca_ancora-feat-Foreign.html) – [Gender](ca_ancora-feat-Gender.html) – [Mood](ca_ancora-feat-Mood.html) – [Number](ca_ancora-feat-Number.html) – [Number[psor]](ca_ancora-feat-Number-psor.html) – [NumForm](ca_ancora-feat-NumForm.html) – [NumType](ca_ancora-feat-NumType.html) – [Person](ca_ancora-feat-Person.html) – [Polarity](ca_ancora-feat-Polarity.html) – [Polite](ca_ancora-feat-Polite.html) – [Poss](ca_ancora-feat-Poss.html) – [PrepCase](ca_ancora-feat-PrepCase.html) – [PronType](ca_ancora-feat-PronType.html) – [PunctSide](ca_ancora-feat-PunctSide.html) – [PunctType](ca_ancora-feat-PunctType.html) – [Reflex](ca_ancora-feat-Reflex.html) – [Tense](ca_ancora-feat-Tense.html) – [VerbForm](ca_ancora-feat-VerbForm.html)
+[Case](ca_ancora-feat-Case.html) – [Definite](ca_ancora-feat-Definite.html) – [Degree](ca_ancora-feat-Degree.html) – [ExtPos](ca_ancora-feat-ExtPos.html) – [Foreign](ca_ancora-feat-Foreign.html) – [Gender](ca_ancora-feat-Gender.html) – [Mood](ca_ancora-feat-Mood.html) – [Number](ca_ancora-feat-Number.html) – [Number[psor]](ca_ancora-feat-Number-psor.html) – [NumForm](ca_ancora-feat-NumForm.html) – [NumType](ca_ancora-feat-NumType.html) – [Person](ca_ancora-feat-Person.html) – [Polarity](ca_ancora-feat-Polarity.html) – [Polite](ca_ancora-feat-Polite.html) – [Poss](ca_ancora-feat-Poss.html) – [PrepCase](ca_ancora-feat-PrepCase.html) – [PronType](ca_ancora-feat-PronType.html) – [PunctSide](ca_ancora-feat-PunctSide.html) – [PunctType](ca_ancora-feat-PunctType.html) – [Reflex](ca_ancora-feat-Reflex.html) – [Tense](ca_ancora-feat-Tense.html) – [VerbForm](ca_ancora-feat-VerbForm.html)
 
 ## Relations
 
@@ -698,6 +698,18 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADV: fins</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Foreign</a>

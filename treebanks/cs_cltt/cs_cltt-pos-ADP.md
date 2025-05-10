@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>v</em> (<tt><a href="cs_cltt-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.225806 (the average of all parts of speech is 1.709632).
+The form / lemma ratio of `ADP` is 1.225806 (the average of all parts of speech is 1.709027).
 
 The 1st highest number of forms (2) was observed with the lemma “bez”: <em>bez, beze</em>.
 
@@ -59,20 +59,20 @@ The 2nd highest number of forms (2) was observed with the lemma “k”: <em>k, 
 
 The 3rd highest number of forms (2) was observed with the lemma “od”: <em>od, ode</em>.
 
-`ADP` occurs with 2 features: <tt><a href="cs_cltt-feat-AdpType.html">AdpType</a></tt> (3865; 100% instances), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt> (3861; 100% instances)
+`ADP` occurs with 3 features: <tt><a href="cs_cltt-feat-AdpType.html">AdpType</a></tt> (3865; 100% instances), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt> (3861; 100% instances), <tt><a href="cs_cltt-feat-ExtPos.html">ExtPos</a></tt> (255; 7% instances)
 
-`ADP` occurs with 8 feature-value pairs: `AdpType=Comprep`, `AdpType=Prep`, `AdpType=Voc`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`
+`ADP` occurs with 9 feature-value pairs: `AdpType=Comprep`, `AdpType=Prep`, `AdpType=Voc`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `ExtPos=ADP`
 
-`ADP` occurs with 11 feature combinations.
-The most frequent feature combination is `AdpType=Prep|Case=Loc` (1295 tokens).
-Examples: <em>v, o, na, při, po</em>
+`ADP` occurs with 16 feature combinations.
+The most frequent feature combination is `AdpType=Prep|Case=Loc` (1151 tokens).
+Examples: <em>v, o, při, na, po</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 4 different relations: <tt><a href="cs_cltt-dep-case.html">case</a></tt> (3792; 98% instances), <tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt> (68; 2% instances), <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (2; 0% instances)
+`ADP` nodes are attached to their parents using 4 different relations: <tt><a href="cs_cltt-dep-case.html">case</a></tt> (3793; 98% instances), <tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt> (67; 2% instances), <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (2; 0% instances)
 
-Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (3366; 87% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (202; 5% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (117; 3% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (79; 2% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (64; 2% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (22; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 9 different parts of speech: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (3367; 87% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (202; 5% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (117; 3% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (79; 2% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (64; 2% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (22; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
 3606 (93%) `ADP` nodes are leaves.
 

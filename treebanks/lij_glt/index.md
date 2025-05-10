@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Stefano Lusito, Jean Maillard.
 
 Repository: [UD_Ligurian-GLT](https://github.com/UniversalDependencies/UD_Ligurian-GLT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlij_glt215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlij_glt216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: C-UDA 1.0
 
@@ -71,7 +71,7 @@ We are deeply grateful to the publisher _De Ferrari Editore_ and the editor of t
 
 ## Features
 
-[Definite](lij_glt-feat-Definite.html) – [Degree](lij_glt-feat-Degree.html) – [Foreign](lij_glt-feat-Foreign.html) – [Gender](lij_glt-feat-Gender.html) – [Mood](lij_glt-feat-Mood.html) – [Number](lij_glt-feat-Number.html) – [NumType](lij_glt-feat-NumType.html) – [Person](lij_glt-feat-Person.html) – [Poss](lij_glt-feat-Poss.html) – [PronType](lij_glt-feat-PronType.html) – [Tense](lij_glt-feat-Tense.html) – [VerbForm](lij_glt-feat-VerbForm.html)
+[Definite](lij_glt-feat-Definite.html) – [Degree](lij_glt-feat-Degree.html) – [ExtPos](lij_glt-feat-ExtPos.html) – [Foreign](lij_glt-feat-Foreign.html) – [Gender](lij_glt-feat-Gender.html) – [Mood](lij_glt-feat-Mood.html) – [Number](lij_glt-feat-Number.html) – [NumType](lij_glt-feat-NumType.html) – [Person](lij_glt-feat-Person.html) – [Poss](lij_glt-feat-Poss.html) – [PronType](lij_glt-feat-PronType.html) – [Tense](lij_glt-feat-Tense.html) – [VerbForm](lij_glt-feat-VerbForm.html)
 
 ## Relations
 
@@ -542,6 +542,18 @@ We are deeply grateful to the publisher _De Ferrari Editore_ and the editor of t
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>DET
+        <ul>
+          <li>ADV: ben</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Foreign</a>

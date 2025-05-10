@@ -8,26 +8,36 @@ udver: '2'
 
 This relation is universal.
 
-1610 nodes (2%) are attached to their parents as `conj`.
+2789 nodes (3%) are attached to their parents as `conj`.
 
-1610 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.64037267080745.
+2789 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.56973825743994.
 
-The following 25 pairs of parts of speech are connected with `conj`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (627; 39% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (435; 27% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (210; 13% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (108; 7% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (88; 5% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (36; 2% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (34; 2% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (16; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (15; 1% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (15; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ko_ksl-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 27 pairs of parts of speech are connected with `conj`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1035; 37% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (756; 27% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (366; 13% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (255; 9% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (136; 5% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (59; 2% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (42; 2% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (28; 1% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (26; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (24; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (18; 1% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (16; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ko_ksl-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 conj	color:blue
-1	친구를	친구+를	NOUN	NNG+JKO	_	2	obj	_	_
-2	사귀고	사귀+고	VERB	VV+EC	_	5	acl	_	_
-3	동아리에	동아리+에	ADV	NNP+JKB	_	4	obl	_	_
-4	참가하는	참가+하+는	VERB	NNG+XSV+ETM	_	2	conj	_	_
-5	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	SF	_	5	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 12 conj	color:blue
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	5	advcl	_	_
+3	공장이	공장+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	많이	많이	ADV	MAG	_	5	advmod	_	_
+5	생겨서	생기+어서	VERB	VV+EC	_	15	advcl	_	_
+6	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	8	nsubj	_	_
+7	물건을	물건+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	만들	만들+ㄹ	VERB	VV+ETM	_	15	advcl	_	_
+9	때하고	때+하고	ADV	NNG+JC	_	8	mark	_	_
+10	소비자들은	소비자+들+은	NOUN	NNG+XSN+JX	_	12	nsubj	_	_
+11	물건을	물건+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	살	사+ㄹ	VERB	VV+ETM	_	8	conj	_	_
+13	때에는	때+에+는	ADV	NNG+JKB+JX	_	12	mark	_	_
+14	다	다	ADV	MAG	_	15	advmod	_	_
+15	편리해졌다	편리해지+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
 
 ~~~
 
@@ -38,39 +48,33 @@ The following 25 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 conj	color:blue
-1	홍상을	홍상+을	NOUN	NF+JKO	_	2	obj	_	_
-2	먹은	먹+은	VERB	VV+ETM	_	11	advcl	_	_
-3	후에	후+에	ADV	NNG+JKB	_	2	mark	_	_
-4	피로와	피로+와	NOUN	NNG+JC	_	10	nsubj	_	_
-5	스트레스	스트레스	NOUN	NNG	_	4	conj	_	_
-6	등	등	NOUN	NNB	_	5	case	_	_
-7	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
-8	것이	것+이	NOUN	NNB+JKS	_	4	appos	_	_
-9	점점	점점	ADV	MAG	_	10	advmod	_	_
-10	사러져	사러지+어	VERB	NV+EC	_	11	advcl	_	_
-11	없습니다	없+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+1	식사를	식사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	할	하+ㄹ	VERB	VV+ETM	_	9	advcl	_	_
+3	때	때	ADV	NNG	_	2	mark	_	_
+4	비타민과	비타민+과	NOUN	NNG+JC	_	6	nsubj	_	_
+5	영양이	영양+이	NOUN	NNG+JKS	_	4	conj	_	_
+6	있는	있+는	VERB	VV+ETM	_	7	acl	_	_
+7	음식을	음식+을	NOUN	NNG+JKO	_	9	obj	_	_
+8	많이	많이	ADV	MAG	_	9	advmod	_	_
+9	먹으면	먹+으면	VERB	VV+EC	_	10	advcl	_	_
+10	좋다고	좋+다고	VERB	VA+EC	_	11	ccomp	_	_
+11	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	SF	_	11	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 10 conj	color:blue
-1	아멘다보다	아멘다+보다	ADV	NNP+JKB	_	4	obl	_	_
-2	더	더	ADV	MAG	_	3	advmod	_	_
-3	쉽게	쉽+게	ADV	VA+EC	_	4	advmod	_	_
-4	부를	부르+ㄹ	VERB	VV+ETM	_	5	acl	_	_
-5	수	수	NOUN	NNB	_	6	nsubj	_	_
-6	있고	있+고	VERB	VX+EC	_	0	root	_	_
-7	쉅게	쉅+게	ADV	NV+EC	_	8	advmod	_	_
-8	기역할	기역+하+ㄹ	VERB	NF+XSV+ETM	_	9	acl	_	_
-9	수	수	NOUN	NNB	_	10	nsubj	_	_
-10	있다	있+다	ADJ	VX+EF	_	6	conj	_	SpaceAfter=No
-11	.	.	PUNCT	SF	_	10	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 conj	color:blue
+1	연기도	연기+도	NOUN	NNG+JX	_	2	nsubj	_	_
+2	필요없고	필요+없+고	VERB	NNG+VA+EC	_	0	root	_	_
+3	목소리만	목소리+만	NOUN	NNG+JX	_	4	nsubj	_	_
+4	필요하다	필요+하+다	ADJ	NNG+XSA+EF	_	2	conj	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
 
 ~~~
 

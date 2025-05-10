@@ -80,7 +80,7 @@ The following 13 pairs of parts of speech are connected with `vocative`: <tt><a 
 7	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	4	obl	_	Orig=ⲓ̅
 8	·	·	PUNCT	PUNCT	_	9	punct	_	_
 9	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	13	mark	_	_
-10	ⲓⲱϩⲁⲛⲛⲏⲥ	ⲓⲱϩⲁⲛⲛⲏⲥ	PROPN	NPROP	Foreign=Yes	13	vocative	_	Entity=(person-John_the_Apostle)|Orig=ⲓ̅ⲱϩⲁⲛⲛⲏⲥ|OrigLang=he
+10	ⲓⲱϩⲁⲛⲛⲏⲥ	ⲓⲱϩⲁⲛⲛⲏⲥ	PROPN	NPROP	Foreign=Yes	13	vocative	_	Entity=(person-John_the_Apostle)|Orig=ⲓ̅ⲱϩⲁⲛⲛⲏⲥ|OrigLang=heb
 11	·	·	PUNCT	PUNCT	_	10	punct	_	_
 12	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
 13	ⲣⲭⲣⲉⲓⲁ	ⲣⲭⲣⲉⲓⲁ	VERB	V	Foreign=Yes|VerbForm=Fin	4	ccomp	_	MSeg=ⲣ-ⲭⲣⲉⲓⲁ|Orig=ⲉⲣⲭⲣⲓⲁ`|OrigLang=grc

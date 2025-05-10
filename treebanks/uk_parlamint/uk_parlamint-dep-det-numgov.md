@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_parlamint-dep-det.html">det</a></tt>.
 There are also 1 other language-specific subtypes of `det`: <tt><a href="uk_parlamint-dep-det-nummod.html">det:nummod</a></tt>.
 
-31 nodes (0%) are attached to their parents as `det:numgov`.
+50 nodes (0%) are attached to their parents as `det:numgov`.
 
-31 instances of `det:numgov` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25806451612903.
+50 instances of `det:numgov` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28.
 
-The following 1 pairs of parts of speech are connected with `det:numgov`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (31; 100% instances).
+The following 1 pairs of parts of speech are connected with `det:numgov`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (50; 100% instances).
 
 
 ~~~ conllu

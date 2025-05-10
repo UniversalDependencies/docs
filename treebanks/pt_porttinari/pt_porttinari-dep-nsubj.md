@@ -34,7 +34,7 @@ The following 44 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 9	folha	folha	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	7:nsubj	_
 10	de	de	ADP	_	_	11	case	11:case	_
 11	setembro	setembro	NOUN	_	Gender=Masc|Number=Sing	9	nmod	9:nmod:de	SpaceAfter=No
-12	.	.	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+12	.	.	PUNCT	_	_	7	punct	7:punct	_
 
 ~~~
 
@@ -56,7 +56,7 @@ The following 44 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 9	folha	folha	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	7:nsubj	_
 10	de	de	ADP	_	_	11	case	11:case	_
 11	setembro	setembro	NOUN	_	Gender=Masc|Number=Sing	9	nmod	9:nmod:de	SpaceAfter=No
-12	.	.	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+12	.	.	PUNCT	_	_	7	punct	7:punct	_
 
 ~~~
 
@@ -78,7 +78,7 @@ The following 44 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 9	de	de	ADP	_	_	10	case	10:case	_
 10	respaldo	respaldo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	8:nmod:de	_
 11	popular	popular	ADJ	_	Number=Sing	10	amod	10:amod	SpaceAfter=No
-12	.	.	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+12	.	.	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 

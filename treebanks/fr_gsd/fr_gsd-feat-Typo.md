@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-930 tokens (0%) have a non-empty value of `Typo`.
-742 types (2%) occur at least once with a non-empty value of `Typo`.
-630 lemmas (2%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 14 part-of-speech tags: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (266; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (266; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (187; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (69; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (39; 0% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (32; 0% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (27; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (20; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (13; 0% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 0% instances).
+931 tokens (0%) have a non-empty value of `Typo`.
+743 types (2%) occur at least once with a non-empty value of `Typo`.
+631 lemmas (2%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 14 part-of-speech tags: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (267; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (266; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (187; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (69; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (39; 0% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (32; 0% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (27; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (20; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (13; 0% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-266 <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+267 <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (210; 79%), <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (151; 57%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (211; 79%), <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (151; 57%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (266; 100% of non-empty `Typo`): <em>coeur, acceuil, euro, grand, groupe, kommune, oeuvre, allume, boeuf, chaine</em>
+* `Yes` (267; 100% of non-empty `Typo`): <em>coeur, acceuil, euro, grand, groupe, kommune, oeuvre, allume, boeuf, chaine</em>
 
-`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (225) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (226) occur only with one value of `Typo`.
 
 ### `VERB`
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `VERB` and `Typo` co-occurred:
 
 187 <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (145; 78%), <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (127; 68%).
+The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (143; 76%), <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (102; 55%).
 
 `ADJ` tokens may have the following values of `Typo`:
 

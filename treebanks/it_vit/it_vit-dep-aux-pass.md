@@ -45,7 +45,7 @@ The following 6 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 2	a	a	ADP	E	_	3	case	_	_
 3	luglio	luglio	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	8	punct	_	_
-5	grazie	grazie	NOUN	S	Gender=Fem|Number=Plur	8	case	_	_
+5	grazie	grazie	NOUN	S	ExtPos=ADP	8	case	_	_
 6	a	a	ADP	E	_	5	fixed	_	_
 7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	mondiali	mondiale	NOUN	S	Number=Plur	17	obl	_	_

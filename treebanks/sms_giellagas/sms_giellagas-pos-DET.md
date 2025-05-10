@@ -52,7 +52,7 @@ Examples: <em>jeeʹres, jäänab, måkam</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 3 different relations: <tt><a href="sms_giellagas-dep-det.html">det</a></tt> (8; 80% instances), <tt><a href="sms_giellagas-dep-advmod-lmod.html">advmod:lmod</a></tt> (1; 10% instances), <tt><a href="sms_giellagas-dep-obj.html">obj</a></tt> (1; 10% instances)
+`DET` nodes are attached to their parents using 3 different relations: <tt><a href="sms_giellagas-dep-det.html">det</a></tt> (8; 80% instances), <tt><a href="sms_giellagas-dep-advmod.html">advmod</a></tt> (1; 10% instances), <tt><a href="sms_giellagas-dep-obj.html">obj</a></tt> (1; 10% instances)
 
 Parents of `DET` nodes belong to 2 different parts of speech: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (8; 80% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (2; 20% instances)
 

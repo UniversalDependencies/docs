@@ -43,14 +43,14 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 1625 <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1396; 86%), <tt><a href="fr_fqb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1378; 85%), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (857; 53%), <tt><a href="fr_fqb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (833; 51%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1396; 86%), <tt><a href="fr_fqb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1378; 85%), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (856; 53%), <tt><a href="fr_fqb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (832; 51%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (3; 0% of non-empty `Tense`): <em>connaîtra, disposera, produira</em>
 * `Imp` (53; 3% of non-empty `Tense`): <em>avait, jouait, vivaient, coûtait, nommait, portait, produisait, était, aidait, appelait</em>
-* `Past` (814; 50% of non-empty `Tense`): <em>inventé, né, situé, eut, écrit, mort, connu, joué, eu, fait</em>
-* `Pres` (755; 46% of non-empty `Tense`): <em>trouve, est, a, signifie, Nommez, puis, fait, dois, ai, nomme</em>
+* `Past` (815; 50% of non-empty `Tense`): <em>inventé, né, situé, eut, écrit, mort, connu, joué, eu, fait</em>
+* `Pres` (754; 46% of non-empty `Tense`): <em>trouve, est, a, signifie, Nommez, puis, dois, fait, ai, nomme</em>
 * `EMPTY` (265): <em>faire, obtenir, bénéficier, donner, payer, avoir, déclarer, trouver, déduire, partir</em>
 
 <table>

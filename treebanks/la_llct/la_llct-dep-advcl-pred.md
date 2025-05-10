@@ -98,7 +98,7 @@ The following 5 pairs of parts of speech are connected with `advcl:pred`: <tt><a
 # visual-style 70	fgColor:white
 # visual-style 70 46 advcl:pred	color:blue
 1	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	11	case	_	_
-2	tua	tuus	DET	a|a|2|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	11	det	_	_
+2	tua	tuus	DET	a|a|2|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	11	amod	_	_
 3	Dei	Deus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
 4	ecclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	2	nmod	_	_
 5	sancti	sanctus	ADJ	a|a|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	6	amod	_	_
@@ -115,7 +115,7 @@ The following 5 pairs of parts of speech are connected with `advcl:pred`: <tt><a
 16	memorata	memoro	VERB	t|t|-|s|r|p|p|f|b|-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	17	acl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 17	cartulam	chartula	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Degree=Dim|Gender=Fem|Number=Sing	23	obl	_	_
 18	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	21	cc	_	_
-19	iam	iam	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim	21	det	_	_
+19	iam	iam	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim|ExtPos=DET	21	det	_	_
 20	dicta	dico	VERB	t|t|-|s|r|p|p|f|b|-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	19	fixed	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 21	res	res	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	17	conj	_	_
 22	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1|PronType=Prs	23	obl:arg	_	_

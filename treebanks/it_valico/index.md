@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Elisa Di Nuovo, Manuela Sanguinetti, Cristina Bosco, Alessandro Mazzei.
 
 Repository: [UD_Italian-Valico](https://github.com/UniversalDependencies/UD_Italian-Valico)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_valico215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_valico216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -80,7 +80,7 @@ The treebank development has also been possible thanks to Prof. Elisa Corino's (
 
 ## Features
 
-[Clitic](it_valico-feat-Clitic.html) – [Definite](it_valico-feat-Definite.html) – [Degree](it_valico-feat-Degree.html) – [Gender](it_valico-feat-Gender.html) – [Mood](it_valico-feat-Mood.html) – [Number](it_valico-feat-Number.html) – [NumType](it_valico-feat-NumType.html) – [Person](it_valico-feat-Person.html) – [Polarity](it_valico-feat-Polarity.html) – [Poss](it_valico-feat-Poss.html) – [PronType](it_valico-feat-PronType.html) – [Tense](it_valico-feat-Tense.html) – [Typo](it_valico-feat-Typo.html) – [VerbForm](it_valico-feat-VerbForm.html)
+[Clitic](it_valico-feat-Clitic.html) – [Definite](it_valico-feat-Definite.html) – [Degree](it_valico-feat-Degree.html) – [ExtPos](it_valico-feat-ExtPos.html) – [Gender](it_valico-feat-Gender.html) – [Mood](it_valico-feat-Mood.html) – [Number](it_valico-feat-Number.html) – [NumType](it_valico-feat-NumType.html) – [Person](it_valico-feat-Person.html) – [Polarity](it_valico-feat-Polarity.html) – [Poss](it_valico-feat-Poss.html) – [PronType](it_valico-feat-PronType.html) – [Tense](it_valico-feat-Tense.html) – [Typo](it_valico-feat-Typo.html) – [VerbForm](it_valico-feat-VerbForm.html)
 
 ## Relations
 
@@ -416,7 +416,6 @@ The treebank development has also been possible thanks to Prof. Elisa Corino's (
 <ul>
   <li>Dem
     <ul>
-      <li>ADJ: tale</li>
       <li>DET: questo, questa, quel, queste, Quest', quella, quello, questi</li>
       <li>PRON: quello, questo, questa, quella, ciò, eso, queste</li>
     </ul>
@@ -561,6 +560,35 @@ The treebank development has also been possible thanks to Prof. Elisa Corino's (
       <li>Yes
         <ul>
           <li>PRON: mi, si, la, l', lo, gli, c', le, li, me</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: a, cerca, davanti, dietro, per, sopra, vecino, vicino</li>
+          <li>SCONJ: a</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADV: prima, a, fino, invece</li>
+          <li>SCONJ: Non, così</li>
+        </ul>
+      </li>
+      <li>INTJ
+        <ul>
+          <li>INTJ: mama</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>SCONJ: come, Anche, tale</li>
         </ul>
       </li>
     </ul>

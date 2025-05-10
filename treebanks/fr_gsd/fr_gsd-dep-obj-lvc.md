@@ -93,7 +93,7 @@ The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 49	»	»	PUNCT	_	_	44	punct	_	_
 50	et	et	CCONJ	_	_	51	cc	_	_
 51	change	changer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	conj	_	_
-52	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	53	det	_	_
+52	son	son	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	53	det	_	_
 53	fusil	fusil	NOUN	_	Gender=Masc|Number=Sing	51	obj:lvc	_	_
 54	d'	de	ADP	_	_	55	case	_	SpaceAfter=No
 55	épaule	épaule	NOUN	_	Gender=Fem|Number=Sing	51	obl:arg	_	SpaceAfter=No

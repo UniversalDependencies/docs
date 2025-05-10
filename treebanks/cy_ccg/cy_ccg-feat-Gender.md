@@ -83,7 +83,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 * `Fem` (55; 15% of non-empty `Gender`): <em>leol, fechan, ariannol, drydedd, werdd, Chernyweg, Genedlaethol, Gymraeg, Saesneg, Wen</em>
 * `Masc` (322; 85% of non-empty `Gender`): <em>unrhyw, bach, Ewropeaidd, arbennig, gyflym, blynyddol, brif, ddiweddar, eang, academaidd</em>
-* `EMPTY` (3225): <em>Cymraeg, newydd, Gymraeg, bob, mwy, lleol, eraill, pob, arall, fawr</em>
+* `EMPTY` (3222): <em>Cymraeg, newydd, Gymraeg, bob, mwy, lleol, eraill, pob, arall, fawr</em>
 
 <table>
   <tr><th>Paradigm <i>da</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -116,10 +116,10 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="cy_ccg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1978; 57%),
-<tt>NOUN --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (449; 58%),
+<tt>NOUN --[<tt><a href="cy_ccg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1980; 57%),
+<tt>NOUN --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (450; 58%),
 <tt>NOUN --[<tt><a href="cy_ccg-dep-det.html">det</a></tt>]--> PRON</tt> (83; 53%),
-<tt>NOUN --[<tt><a href="cy_ccg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (67; 62%),
+<tt>NOUN --[<tt><a href="cy_ccg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (66; 62%),
 <tt>PROPN --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> PROPN</tt> (48; 51%),
 <tt>PRON --[<tt><a href="cy_ccg-dep-compound-redup.html">compound:redup</a></tt>]--> PRON</tt> (35; 100%),
 <tt>PROPN --[<tt><a href="cy_ccg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (17; 52%),

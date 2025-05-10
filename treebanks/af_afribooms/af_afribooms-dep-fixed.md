@@ -13,7 +13,7 @@ This relation is universal.
 18 instances of `fixed` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.5.
 
-The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (8; 44% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (8; 44% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (1; 6% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances).
+The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (8; 44% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (8; 44% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt>-<tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (1; 6% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 6	visuele	visueel	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	4	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	ZM	_	6	punct	_	_
 8	simboliese	simbolies	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	6	conj	_	_
-9	en	en	CCONJ	KN	_	12	cc	_	_
+9	en	en	CCONJ	KN	ExtPos=CCONJ	12	cc	_	_
 10	/	/	SYM	RS	_	9	fixed	_	_
 11	of	of	CCONJ	KN	_	9	fixed	_	_
 12	taalvaardighede	taalvaardigheid	NOUN	NSM	Number=Plur	8	conj	_	_
@@ -56,7 +56,7 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 6	visuele	visueel	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	4	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	ZM	_	6	punct	_	_
 8	simboliese	simbolies	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	6	conj	_	_
-9	en	en	CCONJ	KN	_	12	cc	_	_
+9	en	en	CCONJ	KN	ExtPos=CCONJ	12	cc	_	_
 10	/	/	SYM	RS	_	9	fixed	_	_
 11	of	of	CCONJ	KN	_	9	fixed	_	_
 12	taalvaardighede	taalvaardigheid	NOUN	NSM	Number=Plur	8	conj	_	_
@@ -69,11 +69,11 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
-# visual-style 12 13 fixed	color:blue
+# visual-style 12 14 fixed	color:blue
 1	Die	die	DET	LB	Definite=Def|PronType=Art	2	det	_	_
 2	beginsel	beginsel	NOUN	NSE	Number=Sing	8	nsubj	_	_
 3	wat	wat	PRON	PB	PronType=Rel	6	nsubj	_	_
@@ -85,9 +85,9 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 9	dat	dat	SCONJ	KO	_	8	amod	_	_
 10	ons	ons	PRON	PEMP	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	27	nsubj	_	SpaceAfter=No
 11	,	,	PUNCT	ZM	_	10	punct	_	_
-12	bo	bo	ADP	SVS	AdpType=Prep	17	case	_	_
+12	bo	bo	ADP	SVS	AdpType=Prep|ExtPos=ADP	17	case	_	_
 13	en	en	CCONJ	KN	_	12	fixed	_	_
-14	behalwe	behalwe	SCONJ	KO	_	12	fixed	_	_
+14	behalwe	behalwe	ADP	SVS	_	12	fixed	_	_
 15	die	die	DET	LB	Definite=Def|PronType=Art	17	det	_	_
 16	maatskaplike	maatskaplik	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	17	amod	_	_
 17	bystand	bystand	NOUN	NA	Number=Sing	27	obl	_	_

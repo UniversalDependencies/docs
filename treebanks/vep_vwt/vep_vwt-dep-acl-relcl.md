@@ -85,7 +85,7 @@ The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	kudambal	kudamb	PRON	_	Case=Ade|Number=Sing|PronType=Int	10	acl:relcl	_	_
 13	om	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
-14	ičeze	ičeze	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	15	nmod	_	_
+14	ičeze	iče	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	15	nmod	_	_
 15	uništusid	uništuz	NOUN	_	Case=Par|Number=Plur	12	nsubj	_	_
 16	da	da	CCONJ	_	_	17	cc	_	_
 17	tahtoid	taht	NOUN	_	Case=Par|Number=Plur	15	conj	_	_

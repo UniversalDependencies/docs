@@ -47,9 +47,10 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>leeʹd</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt><tt><a href="sms_giellagas-feat-Clitic.html">Clitic</a></tt><tt>=QstA</tt>|<tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>leäk-a</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sms_giellagas-feat-Clitic.html">Clitic</a></tt><tt>=QstA</tt>|<tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>lij-a</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sms_giellagas-feat-Clitic.html">Clitic</a></tt><tt>=QstA</tt>|<tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sms_giellagas-feat-PartType.html">PartType</a></tt><tt>=Int</tt>|<tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>Lij-a</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sms_giellagas-feat-Connegative.html">Connegative</a></tt><tt>=Yes</tt></tt></td><td><em>leäkku</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sms_giellagas-feat-PartType.html">PartType</a></tt><tt>=Int</tt>|<tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>leäk-a</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sms_giellagas-feat-PartType.html">PartType</a></tt><tt>=Int</tt>|<tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>lij-a</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>leäm</em></td><td><em>leʹjjem</em></td></tr>
   <tr><td><tt><tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>leäk</em></td><td><em>leʹjjiǩ</em></td></tr>
   <tr><td><tt><tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>lij</em></td><td><em>leäi</em></td></tr>
@@ -62,7 +63,6 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> VERB</tt> (207; 79%),
 <tt>AUX --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 100%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (3; 75%),
-<tt>VERB --[<tt><a href="sms_giellagas-dep-advcl-tcl.html">advcl:tcl</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-appos.html">appos</a></tt>]--> AUX</tt> (1; 100%),

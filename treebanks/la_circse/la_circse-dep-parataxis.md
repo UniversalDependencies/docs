@@ -7,28 +7,55 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-CIRCSE: Relations: `parataxis`
 
 This relation is universal.
-There are 2 language-specific subtypes of `parataxis`: <tt><a href="la_circse-dep-parataxis-rep.html">parataxis:rep</a></tt>, <tt><a href="la_circse-dep-parataxis-reporting.html">parataxis:reporting</a></tt>.
+There are 1 language-specific subtypes of `parataxis`: <tt><a href="la_circse-dep-parataxis-reporting.html">parataxis:reporting</a></tt>.
 
-38 nodes (0%) are attached to their parents as `parataxis`.
+54 nodes (0%) are attached to their parents as `parataxis`.
 
-33 instances of `parataxis` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.76315789473684.
+44 instances of `parataxis` (81%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.44444444444444.
 
-The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (20; 53% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (4; 11% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 3% instances).
+The following 12 pairs of parts of speech are connected with `parataxis`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (31; 57% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (5; 9% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (3; 6% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 5 parataxis	color:blue
-1	effare	effor	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LiLaflcat=v1
-2	casus	casus	NOUN	A4	Case=Nom|Gender=Masc|InflClass=IndEurU|Number=Sing	5	nsubj	_	LiLaflcat=n4
-3	quis	quis	PRON	K	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Int	2	det	_	LASLAVariant=1|LiLaflcat=p
-4	rates	ratis	NOUN	A3	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Plur	5	obj	_	LiLaflcat=n3
-5	hausit	haurio	VERB	B4	Aspect=Perf|InflClass=LatI|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	LiLaflcat=v4
-6	meas	meus	DET	F	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	4	det	_	LiLaflcat=n6
+# visual-style 1 8 parataxis	color:blue
+1	suscita	suscito	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LASLAVariant=1|LiLaflcat=v1
+2	sensus	sensus	NOUN	A4	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Plur	1	obj	_	LiLaflcat=n4
+3	tuos	tuus	DET	F	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	2	det	_	LiLaflcat=n6
+4	optatus	opto	VERB	B1	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	6	acl	_	LiLaflcat=v1
+5	ille	ille	DET	I	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	6	det	_	LiLaflcat=p
+6	portus	portus	NOUN	A4	Case=Nom|Gender=Masc|InflClass=IndEurU|Number=Sing	8	nsubj	_	LiLaflcat=n4
+7	aerumnis	aerumna	NOUN	A1	Case=Dat|Gender=Fem|InflClass=IndEurA|Number=Plur	6	obl	_	LiLaflcat=n1
+8	adest	assum	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	LASLAVariant=1|LiLaflcat=v6
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 parataxis	color:blue
+1	en	en	INTJ	U	_	9	discourse	_	LiLaflcat=i
+2	blandas	blandus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	3	amod	_	LiLaflcat=n6
+3	manus	manus	NOUN	A4	Case=Acc|Gender=Fem|InflClass=IndEurU|Number=Plur	6	obj	_	LASLAVariant=1|LiLaflcat=n4
+4	ad	ad	ADP	R	AdpType=Prep	5	case	_	LASLAVariant=2|LiLaflcat=i
+5	genua	genu	NOUN	A4	Case=Acc|Gender=Neut|InflClass=IndEurU|Number=Plur	6	obl:lmod	_	LiLaflcat=n4
+6	tendens	tendo	VERB	B3	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	9	advcl:pred	_	LiLaflcat=v3
+7	uoce	uox	NOUN	A3	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	9	obl	_	LiLaflcat=n3
+8	miseranda	miserandus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	7	amod	_	LiLaflcat=n6
+9	rogat	rogo	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v1
+10	scelus	scelus	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	9	parataxis	_	LiLaflcat=n3
+11	nefandum	nefandus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	10	amod	_	LiLaflcat=n6
+12	triste	tristis	ADJ	C4	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	11	conj	_	LiLaflcat=n7
+13	et	et	CCONJ	S	_	15	cc	_	LASLAVariant=2|LiLaflcat=i
+14	aspectu	aspectus	NOUN	A4	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing	15	obl	_	LiLaflcat=n4
+15	horridum	horridus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	12	conj	_	LiLaflcat=n6
 
 ~~~
 
@@ -72,31 +99,6 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 31	digne	digne	ADV	M	Degree=Pos	28	advmod	_	LiLaflcat=i
 32	conquesta	conqueror	VERB	B3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	30	advcl	_	LiLaflcat=v3
 33	domum	domus	NOUN	A6	Case=Acc|Gender=Fem|InflClass=IndEurU|Number=Sing	28	obj	_	LiLaflcat=n4
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 parataxis	color:blue
-1	en	en	INTJ	U	_	9	discourse	_	LiLaflcat=i
-2	blandas	blandus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	3	amod	_	LiLaflcat=n6
-3	manus	manus	NOUN	A4	Case=Acc|Gender=Fem|InflClass=IndEurU|Number=Plur	6	obj	_	LASLAVariant=1|LiLaflcat=n4
-4	ad	ad	ADP	R	AdpType=Prep	5	case	_	LASLAVariant=2|LiLaflcat=i
-5	genua	genu	NOUN	A4	Case=Acc|Gender=Neut|InflClass=IndEurU|Number=Plur	6	obl:lmod	_	LiLaflcat=n4
-6	tendens	tendo	VERB	B3	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	9	advcl:pred	_	LiLaflcat=v3
-7	uoce	uox	NOUN	A3	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	9	obl	_	LiLaflcat=n3
-8	miseranda	miserandus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	7	amod	_	LiLaflcat=n6
-9	rogat	rogo	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v1
-10	scelus	scelus	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	9	parataxis	_	LiLaflcat=n3
-11	nefandum	nefandus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	10	amod	_	LiLaflcat=n6
-12	triste	tristis	ADJ	C4	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	11	conj	_	LiLaflcat=n7
-13	et	et	CCONJ	S	_	15	cc	_	LASLAVariant=2|LiLaflcat=i
-14	aspectu	aspectus	NOUN	A4	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing	15	obl	_	LiLaflcat=n4
-15	horridum	horridus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	12	conj	_	LiLaflcat=n6
 
 ~~~
 

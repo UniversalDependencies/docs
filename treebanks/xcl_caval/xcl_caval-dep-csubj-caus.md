@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `csubj:caus`: <tt><a
 # visual-style 9	fgColor:white
 # visual-style 9 3 csubj:caus	color:blue
 1	Զի	զի	SCONJ	_	_	9	mark	_	Translit=Zi|LTranslit=zi|Gloss=because
-2	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	3	nsubj	_	Translit=or|LTranslit=or|Gloss=which
+2	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	3	nsubj	_	Translit=or|LTranslit=or|Gloss=who
 3	կամիցի	կամել	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	9	csubj:caus	_	Translit=kamicʻi|LTranslit=kamel|Gloss=want
 4	զ	զ	ADP	_	Definite=Def	5	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 5	անձն	անձն	NOUN	_	Case=Acc|Number=Sing	7	obj	_	Translit=anjn|LTranslit=anjn|Gloss=person/soul
@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `csubj:caus`: <tt><a
 8	.	.	PUNCT	_	_	3	punct	_	Translit=:|LTranslit=:
 9	կորուսցէ	կորուսանել	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	Translit=korowscʻē|LTranslit=korowsanel|Gloss=destroy
 10	զ	զ	ADP	_	Definite=Def	11	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-11	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	9	obj	_	SpaceAfter=No|Translit=na|LTranslit=na|Gloss=he/she/it/that
+11	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	9	obj	_	SpaceAfter=No|Translit=na|LTranslit=na|Gloss=he/she/it
 12	՝	՝	PUNCT	_	_	9	punct	_	Translit=;|LTranslit=;
 
 ~~~

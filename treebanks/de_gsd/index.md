@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
-The following people have contributed to making this treebank part of UD: Slav Petrov, Wolfgang Seeker, Ryan McDonald, Joakim Nivre, Daniel Zeman, Adriane Boyd.
+The following people have contributed to making this treebank part of UD: Slav Petrov, Wolfgang Seeker, Ryan McDonald, Joakim Nivre, Daniel Zeman, Adriane Boyd, Verena Blaschke.
 
 Repository: [UD_German-GSD](https://github.com/UniversalDependencies/UD_German-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_gsd215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_gsd216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -80,7 +80,7 @@ test: Reviews=s1-s301, News=s302-s977
 
 ## Features
 
-[Abbr](de_gsd-feat-Abbr.html) – [Case](de_gsd-feat-Case.html) – [Definite](de_gsd-feat-Definite.html) – [Degree](de_gsd-feat-Degree.html) – [Foreign](de_gsd-feat-Foreign.html) – [Gender](de_gsd-feat-Gender.html) – [Gender[psor]](de_gsd-feat-Gender-psor.html) – [Mood](de_gsd-feat-Mood.html) – [Number](de_gsd-feat-Number.html) – [Number[psor]](de_gsd-feat-Number-psor.html) – [NumType](de_gsd-feat-NumType.html) – [Person](de_gsd-feat-Person.html) – [Polarity](de_gsd-feat-Polarity.html) – [Polite](de_gsd-feat-Polite.html) – [Poss](de_gsd-feat-Poss.html) – [PronType](de_gsd-feat-PronType.html) – [Reflex](de_gsd-feat-Reflex.html) – [Tense](de_gsd-feat-Tense.html) – [Typo](de_gsd-feat-Typo.html) – [VerbForm](de_gsd-feat-VerbForm.html) – [Voice](de_gsd-feat-Voice.html)
+[Abbr](de_gsd-feat-Abbr.html) – [Case](de_gsd-feat-Case.html) – [Definite](de_gsd-feat-Definite.html) – [Degree](de_gsd-feat-Degree.html) – [ExtPos](de_gsd-feat-ExtPos.html) – [Foreign](de_gsd-feat-Foreign.html) – [Gender](de_gsd-feat-Gender.html) – [Gender[psor]](de_gsd-feat-Gender-psor.html) – [Hyph](de_gsd-feat-Hyph.html) – [Mood](de_gsd-feat-Mood.html) – [Number](de_gsd-feat-Number.html) – [Number[psor]](de_gsd-feat-Number-psor.html) – [NumType](de_gsd-feat-NumType.html) – [Person](de_gsd-feat-Person.html) – [Polarity](de_gsd-feat-Polarity.html) – [Polite](de_gsd-feat-Polite.html) – [Poss](de_gsd-feat-Poss.html) – [PronType](de_gsd-feat-PronType.html) – [Reflex](de_gsd-feat-Reflex.html) – [Tense](de_gsd-feat-Tense.html) – [Typo](de_gsd-feat-Typo.html) – [VerbForm](de_gsd-feat-VerbForm.html) – [Voice](de_gsd-feat-Voice.html)
 
 ## Relations
 
@@ -90,11 +90,11 @@ test: Reviews=s1-s301, News=s302-s977
 
 
 <ul>
-<li>This corpus contains 15590 sentences, 287721 tokens and 292769 syntactic words.</li>
+<li>This corpus contains 15589 sentences, 287708 tokens and 292756 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 34966 tokens (12%) that are not followed by a space.</li>
+<li>This corpus contains 34994 tokens (12%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -119,7 +119,7 @@ test: Reviews=s1-s301, News=s302-s977
 </ul>
 
 <ul>
-<li>This corpus contains 27 word types tagged as particles (PART): 's, Bitte, Danke, Hallo, Na, ab, als, an, auf, aus, dar, garnicht, her, hin, inte, ja, mit, ncht, nein, nich, nicht, not, preis, statt, vor, wie, zu</li>
+<li>This corpus contains 26 word types tagged as particles (PART): 's, Bitte, Danke, Hallo, Na, ab, an, auf, aus, dar, garnicht, her, hin, inte, ja, mit, ncht, nein, nich, nicht, not, preis, statt, vor, wie, zu</li>
 </ul>
 
 <ul>
@@ -233,7 +233,7 @@ test: Reviews=s1-s301, News=s302-s977
     <ul>
       <li>ADJ: ersten, erste, letzten, weitere, neuen, gleichen, neues, gutes, neue, folgenden</li>
       <li>ADJ-Part: aufbewahrte, beanspruchten, entworfenen, lancierte, modifizierten, unterkellerte, unterstützten, veröffentlichte, zurückgeführten</li>
-      <li>ADV: was, ca, anderem, Dort, How, Mal, PMMA, Rääts, SEHR, Weitere</li>
+      <li>ADV: was, ca, Dort, How, Mal, PMMA, Rääts, SEHR, Weitere, erste</li>
       <li>DET: dem, das, ein, des, einem, dies, sein, eines, dieses, allem</li>
       <li>NOUN: jahr, Jahre, Jahren, Prozent, Ende, %, Unternehmen, Kinder, Leben, Mitglied</li>
       <li>NUM: 10, 3, 1:1, ², +7,6, 100, 1000, 17, 1846-1925, 1882-1953</li>
@@ -277,7 +277,7 @@ test: Reviews=s1-s301, News=s302-s977
       <li>ADJ: ersten, erste, zweiten, neuen, neue, deutschen, großen, große, heutigen, zweite</li>
       <li>ADJ-Fin: reaktivierte</li>
       <li>ADJ-Part: bezeichneten, entwickelte, genannten, aufbewahrte, ausgelobten, ausgerichtete, beanspruchten, befreiten, diskutierte, entstanden</li>
-      <li>ADV: ca, was, super, SEHR, anderem, lange, vorallem, Abends, Allzeit, Anfangs</li>
+      <li>ADV: ca, was, super, SEHR, lange, vorallem, Abends, Allzeit, Anfangs, Dort</li>
       <li>AUX-Fin: ist, wurde, war, wird, kann, hat, hatte, konnte, habe, sei</li>
       <li>DET: der, dem, die, das, des, eine, ein, den, einer, einen</li>
       <li>NOUN: jahr, Zeit, Stadt, Ende, Teil, Familie, Ort, Gemeinde, Platz, Saison</li>
@@ -322,7 +322,7 @@ test: Reviews=s1-s301, News=s302-s977
       <li>ADJ-Inf: beginnenden, externen, extremen, nassen</li>
       <li>ADJ-Part: beanspruchten, bezeichneten, entdeckten, entworfenen, erstellten, eröffneten, gerufenen, thesauriertem</li>
       <li>ADP: zufolge, nach</li>
-      <li>ADV: anderem, ca, Anfangs, Dort, Ex, Křižanov, PMMA, meisten, vorallem</li>
+      <li>ADV: ca, Anfangs, Dort, Ex, Křižanov, PMMA, meisten, vorallem</li>
       <li>DET: dem, der, den, einem, einer, diesem, seiner, seinem, dieser, anderen</li>
       <li>NOUN: Jahr, Jahren, Zeit, Jahre, Saison, Ende, Stadt, Familie, Teil, Ort</li>
       <li>NUM: 1:1, 8, Millionen, ², +7,6, -10, -2288,9, -60, 0:3, 1</li>
@@ -400,6 +400,7 @@ test: Reviews=s1-s301, News=s302-s977
   <li>Cmp
     <ul>
       <li>ADJ: später, weitere, weiteren, besser, weiter, früher, stärker, höher, länger, früheren</li>
+      <li>ADV: weniger</li>
       <li>DET: mehrere, mehr, mehreren, mehrerer, mehre</li>
     </ul>
   </li>
@@ -566,7 +567,7 @@ test: Reviews=s1-s301, News=s302-s977
 <ul>
   <li>Ind
     <ul>
-      <li>ADV: etwas, mehr, genug, viel, wenig, bisschen, anderem, bischen, bißchen, solch</li>
+      <li>ADV: etwas, mehr, genug, viel, wenig, bisschen, bischen, bißchen, solch, soviel</li>
       <li>DET: anderen, viele, andere, einige, viel, mehrere, anderem, vielen, meisten, mehr</li>
       <li>PRON: man, etwas, jemand, sowas, irgendetwas, irgendwas, irgendwem, jemanden</li>
     </ul>
@@ -744,6 +745,14 @@ test: Reviews=s1-s301, News=s302-s977
 </ul>
 
 <ul>
+  <li>Masc
+    <ul>
+      <li>DET: seine, seiner, seines</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Masc,Neut
     <ul>
       <li>DET: seine, seiner, sein, seinen, seinem, seines</li>
@@ -796,6 +805,26 @@ test: Reviews=s1-s301, News=s302-s977
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADP: nach, ab, durch</li>
+          <li>ADV: mehr, so, weniger, auf</li>
+          <li>DET: weniger</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>DET: mehr</li>
+          <li>PRON: was</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -823,6 +852,18 @@ test: Reviews=s1-s301, News=s302-s977
 </ul>
 
 <ul>
+  <li><a>Hyph</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: ein</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Typo</a>
     <ul>
       <li>Yes
@@ -830,11 +871,11 @@ test: Reviews=s1-s301, News=s302-s977
           <li>ADJ: entstanden, zurfieden</li>
           <li>ADJ-Part: entstanden</li>
           <li>ADP: fuer, üer</li>
-          <li>ADV: er, darzu</li>
+          <li>ADV: er, würklich, darzu</li>
           <li>AUX-Fin: wer, wir</li>
           <li>CCONJ: sonden, uns</li>
           <li>DET: Ihr, Ihre, Ihrem, diser, eigige</li>
-          <li>NOUN: Schimpereien, ambiente, essen, freundin, hotel, preis, sahne, sterne</li>
+          <li>NOUN: Bröchten, Schimpereien, ambiente, essen, freundin, hotel, preis, sahne, sterne</li>
           <li>PRON: Ihr, des</li>
           <li>SCONJ: das, den</li>
           <li>VERB-Fin: läd, viel</li>
@@ -916,12 +957,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Acc (10)</li>
       <li>VERB--PRON-Dat (3)</li>
       <li>VERB-Fin--NOUN (39)</li>
-      <li>VERB-Fin--NOUN-Acc (3478)</li>
+      <li>VERB-Fin--NOUN-Acc (3479)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(von) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(über) (2)</li>
       <li>VERB-Fin--NOUN-Dat (54)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(über) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (17)</li>
+      <li>VERB-Fin--NOUN-Gen (16)</li>
       <li>VERB-Fin--NOUN-Nom (463)</li>
       <li>VERB-Fin--PRON (31)</li>
       <li>VERB-Fin--PRON-Acc (1169)</li>
@@ -961,14 +1002,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 17 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: befinden sich, erholen sich, weigern sich, verlieben sich, begeben sich, nähern sich, bedanken mich, bedanken uns, abwenden sich, aneignen sich, anfreunden uns, anfühlen sich, begeben mich, bewähren sich, erholen mich, fühlen sich, äußern sich</li>
+  <li>This corpus contains 19 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: befinden sich, erholen sich, weigern sich, verlieben sich, begeben sich, nähern sich, bedanken mich, bedanken uns, abwenden sich, aneignen sich, anfreunden uns, anfühlen sich, begeben mich, bewähren sich, entwickeln sich, erholen mich, fühlen sich, lohnen sich, äußern sich</li>
 </ul>
 
 
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 412 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: handeln sich, finden sich, lassen sich, setzen sich, beschäftigen sich, schließen sich, beteiligen sich, erstrecken sich, fühlen mich, stellen sich, ergeben sich, fühlen sich, zeigen sich, bilden sich, entwickeln sich, kümmern sich, äußern sich, befassen sich, betätigen sich, engagieren sich, entscheiden sich, halten sich, ändern sich, beziehen sich, erheben sich, orientieren sich, treffen sich, unterscheiden sich, wenden sich, widmen sich, beschränken sich, etablieren sich, lohnen sich, sprechen sich, anschließen sich, bemühen sich, durchsetzen sich, leiten sich, lösen sich, richten sich, zeichnen sich, zurückziehen sich, bekennen sich, belaufen sich, bewegen sich, einsetzen sich, gründen sich, interessieren sich, konzentrieren sich, qualifizieren sich</li>
+  <li>This corpus contains 411 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: handeln sich, finden sich, lassen sich, setzen sich, beschäftigen sich, schließen sich, beteiligen sich, erstrecken sich, fühlen mich, stellen sich, ergeben sich, fühlen sich, zeigen sich, bilden sich, entwickeln sich, kümmern sich, äußern sich, befassen sich, betätigen sich, engagieren sich, entscheiden sich, halten sich, ändern sich, beziehen sich, erheben sich, orientieren sich, treffen sich, unterscheiden sich, wenden sich, widmen sich, ziehen sich, beschränken sich, etablieren sich, lohnen sich, sprechen sich, anschließen sich, bemühen sich, durchsetzen sich, leiten sich, lösen sich, richten sich, zeichnen sich, zurückziehen sich, bekennen sich, belaufen sich, bewegen sich, einsetzen sich, gründen sich, interessieren sich, konzentrieren sich</li>
     <ul>
       <li>Out of those, 19 lemmas occurred more than once, but never without a reflexive dependent. Examples: erstrecken, kümmern, befassen, betätigen, freuen, belaufen, distanzieren, einigen, auszahlen, erfreuen, niederlassen, zusammenschließen, auseinandersetzen, breiten, scheuen, unterziehen, verbünden, verfestigen, verjüngen</li>
     </ul>

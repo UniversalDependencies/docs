@@ -45,8 +45,8 @@ The following 6 pairs of parts of speech are connected with `mark`: <tt><a href=
 5	оз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	6	aux	_	GTtags=Neg,Ind,Prs,Sg3
 6	понды	пондыны	VERB	V	Connegative=Yes	0	root	_	GTtags=ConNeg|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	9	punct	_	_
-8	кӧр	кӧр	ADV	Adv	_	9	mark	_	_
-9	дугда	дугдыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	advcl:tcl	_	GTtags=Ind,Prs,Sg1
+8	кӧр	кӧр	ADV	Adv	AdvType=Tim	9	mark	_	_
+9	дугда	дугдыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	advcl	_	GTtags=Ind,Prs,Sg1
 10	боньгыныт	боньгыны	VERB	V	Person[psor]=2|VerbForm=Inf	9	xcomp	_	GTtags=Inf,Px2|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	6	punct	_	_
 
@@ -60,7 +60,7 @@ The following 6 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 17	fgColor:white
 # visual-style 17 16 mark	color:blue
 1	Но	но	CCONJ	CC	_	10	cc	_	_
-2	керкуыс	керку	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obl:lmod	_	GTtags=Sg,Nom,PxSg3
+2	керкуыс	керку	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obl	_	GTtags=Sg,Nom,PxSg3
 3	бокын	бокын	ADP	Adp	AdvType=Loc|Case=Ine	2	case	_	GTtags=Spat,Ine|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	туй	туй	NOUN	N	Case=Nom|Number=Sing	6	nmod	_	GTtags=Sg,Nom

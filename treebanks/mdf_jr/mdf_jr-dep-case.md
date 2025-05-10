@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-87 nodes (2%) are attached to their parents as `case`.
+88 nodes (2%) are attached to their parents as `case`.
 
-87 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.01149425287356.
+88 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.01136363636364.
 
-The following 8 pairs of parts of speech are connected with `case`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (63; 72% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (11; 13% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `case`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (68; 77% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (11; 13% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (4; 5% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -39,7 +39,7 @@ The following 8 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 case	color:blue
-1	Сянь	ся	PRON	Pron	Case=Gen|Definite=Ind|Number=Sing|PronType=Dem	4	obl:cau	_	GTtags=Dem,Sg,Gen,Indef
+1	Сянь	ся	PRON	Pron	Case=Gen|Definite=Ind|Number=Sing|PronType=Dem	4	obl	_	GTtags=Dem,Sg,Gen,Indef
 2	эзда	эзда	ADP	Adp	Case=Abl	1	case	_	GTtags=Abl
 3	Маринкати	Маринка	NOUN	N	Case=Dat|Definite=Def|Number=Sing	4	obl	_	GTtags=Prop,Sg,Dat,Def
 4	арась	арамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,ScSg3
@@ -50,19 +50,19 @@ The following 8 pairs of parts of speech are connected with `case`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 case	color:blue
-1	Тейне	мон	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	0	root	_	GTtags=Pers,Sg1,Dat,Short
-2	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	3	aux:neg	_	GTtags=Aux,Neg
-3	стака	стака	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	1	nsubj	_	GTtags=Sg,Nom,Indef
-4	штормань	шторма	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	6	obl:tmod	_	GTtags=SP,Gen,Indef
-5	пингть	пинге	NOUN	N	Case=Gen|Definite=Def|Number=Sing	4	case	_	GTtags=Sg,Gen,Def
-6	уемс	уемс	VERB	V	VerbForm=Inf	1	xcomp	_	GTtags=Inf
-7	морява	моря	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	6	obl:lmod	_	GTtags=SP,Prl,Indef|SpaceAfter=No
-8	.	.	PUNCT	PUNCT	_	1	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 case	color:blue
+1	Тугановть	Туганов	PROPN	N	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|NameType=Sur|Number=Sing	5	obl	_	GTtags=Prop,Sem/Mal-Sur,Sg,Gen,Def
+2	эзда	эзда	ADP	Adp	Case=Abl	1	case	_	GTtags=Abl
+3	кода	кода	ADV	Adv	_	4	advmod	_	_
+4	толда	тол	NOUN	N	Case=Abl|Definite=Ind|Number=Plur,Sing	1	nmod	_	GTtags=SP,Abl,Indef
+5	пели	пелемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,ScSg3
+6	совхозоньконь	совхоз	NOUN	N	Case=Gen|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=1	7	nmod	_	GTtags=SP,Gen,PxPl1
+7	директороц	директор	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	GTtags=Sg,Nom,PxSg3|SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~
 

@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1727; 100% of non-empty `Abbr`): <em>USA, AS, NATO, A., LRE, EL, N., HA, ETV, de</em>
-* `EMPTY` (24553): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
+* `EMPTY` (24555): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (386) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1534; 100% of non-empty `Abbr`): <em>a., a, USB, p, VD, g, km, cm, m, kr</em>
-* `EMPTY` (114151): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
+* `EMPTY` (114176): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (355) occur only with one value of `Abbr`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (376; 100% of non-empty `Abbr`): <em>jne, jt., jt, s.t, sh, n-ö, nt, st, jm, jms</em>
-* `EMPTY` (41762): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
+* `EMPTY` (41715): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
 
 `Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (37) occur only with one value of `Abbr`.
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (119; 100% of non-empty `Abbr`): <em>nn, nn., van, %-lise, 80'ndate, jm, nim, nim., %-se, %-st</em>
-* `EMPTY` (36751): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, esimene, oluline</em>
+* `EMPTY` (36762): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, esimene, oluline</em>
 
 `Abbr` seems to be **lexical feature** of `ADJ`. 100% lemmas (10) occur only with one value of `Abbr`.
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (47; 100% of non-empty `Abbr`): <em>vt, vt., vrd</em>
-* `EMPTY` (47931): <em>on, tuleb, teha, ütles, saada, sai, saanud, tuli, saab, jääb</em>
+* `EMPTY` (47810): <em>tuleb, on, teha, ütles, saada, sai, saanud, tuli, saab, jääb</em>
 
 ### `X`
 
@@ -95,7 +95,7 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 `X` tokens may have the following values of `Abbr`:
 
 * `Yes` (30; 100% of non-empty `Abbr`): <em>of, a, b, in, n, x, AT, NB, P., S.</em>
-* `EMPTY` (735): <em>000, al., et, 900, in, of, 500, 600, 700, ceteris</em>
+* `EMPTY` (734): <em>000, al., et, 900, in, of, 500, 600, 700, ceteris</em>
 
 `Abbr` seems to be **lexical feature** of `X`. 100% lemmas (22) occur only with one value of `Abbr`.
 
@@ -124,12 +124,11 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
 <tt>NOUN --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (84; 58%),
 <tt>PROPN --[<tt><a href="et_edt-dep-flat.html">flat</a></tt>]--> ADV</tt> (25; 86%),
-<tt>NOUN --[<tt><a href="et_edt-dep-flat.html">flat</a></tt>]--> NOUN</tt> (11; 61%),
-<tt>NOUN --[<tt><a href="et_edt-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (2; 100%),
+<tt>NOUN --[<tt><a href="et_edt-dep-flat.html">flat</a></tt>]--> NOUN</tt> (13; 65%),
+<tt>X --[<tt><a href="et_edt-dep-flat.html">flat</a></tt>]--> X</tt> (2; 100%),
 <tt>ADV --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="et_edt-dep-list.html">list</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>SYM --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> SYM</tt> (1; 100%),
 <tt>SYM --[<tt><a href="et_edt-dep-list.html">list</a></tt>]--> SYM</tt> (1; 100%),
-<tt>SYM --[<tt><a href="et_edt-dep-nmod.html">nmod</a></tt>]--> SYM</tt> (1; 100%),
-<tt>X --[<tt><a href="et_edt-dep-fixed.html">fixed</a></tt>]--> X</tt> (1; 100%).
+<tt>SYM --[<tt><a href="et_edt-dep-nmod.html">nmod</a></tt>]--> SYM</tt> (1; 100%).
 

@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="no_bokmaal-dep-acl.
 4070 nodes (1%) are attached to their parents as `acl:relcl`.
 
 4068 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.54864864864865.
+Average distance between parent and child is 3.54840294840295.
 
-The following 8 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (2877; 71% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (727; 18% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (272; 7% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (132; 3% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (32; 1% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (28; 1% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-pos-X.html">X</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (2878; 71% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (727; 18% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (271; 7% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (132; 3% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (31; 1% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (28; 1% instances), <tt><a href="no_bokmaal-pos-X.html">X</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 8 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 1	Dette	dette	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	rører	røre	VERB	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	ved	ved	ADP	prep	_	6	case	_	_
-4	de	de	DET	det	Number=Plur|PronType=Dem	6	det	_	_
+4	de	de	DET	det	Number=Plur|PronType=Art	6	det	_	_
 5	dypeste	dyp	ADJ	adj	Definite=Def|Degree=Sup	6	amod	_	_
 6	verdiene	verdi	NOUN	subst	Definite=Def|Gender=Masc|Number=Plur	2	obl	_	_
 7	og	og	CCONJ	konj	_	8	cc	_	_
@@ -46,7 +46,7 @@ The following 8 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 9 11 acl:relcl	color:blue
 1	-	$-	PUNCT	<strek>	_	4	punct	_	_
 2	Men	men	CCONJ	konj	_	4	cc	_	_
-3	det	det	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	det	den	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	_
 4	innføres	innføre	VERB	verb	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 5	jo	jo	ADV	adv	_	4	advmod	_	_
 6	for	for	ADP	prep	_	8	case	_	_
@@ -69,7 +69,7 @@ The following 8 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 4 8 acl:relcl	color:blue
 1	Eller	eller	CCONJ	konj	_	4	cc	_	_
 2	var	være	AUX	verb	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	_	_
-3	det	det	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
+3	det	den	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
 4	Sacha	Sacha	PROPN	subst	_	0	root	_	_
 5	Baron	Baron	PROPN	subst	_	4	flat:name	_	_
 6	Cohen	Cohen	PROPN	subst	_	4	flat:name	_	_

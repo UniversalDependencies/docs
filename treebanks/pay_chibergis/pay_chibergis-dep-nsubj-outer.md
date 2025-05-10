@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pay_chibergis-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="pay_chibergis-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-2 nodes (0%) are attached to their parents as `nsubj:outer`.
+3 nodes (0%) are attached to their parents as `nsubj:outer`.
 
-2 instances of `nsubj:outer` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.
+2 instances of `nsubj:outer` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.66666666666667.
 
-The following 1 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 100% instances).
+The following 1 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (3; 100% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 # visual-style 6	fgColor:white
 # visual-style 6 9 nsubj:outer	color:blue
 1	y	y	X	_	_	6	discourse	_	AlignBegin=178923|AlignEnd=179415|Gloss=SPA_and|MGloss=SPA_and|MSeg=y|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=i
-2	toʔ	toʔ	PRON	_	_	6	obl:mod	_	AlignBegin=179415|AlignEnd=179907|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=toʔ|nWord=2|RX=[PRO]|TokenType=Root|Word=toʔ
+2	toʔ	toʔ	PRON	_	_	6	obl:lmod	_	AlignBegin=179415|AlignEnd=179907|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=toʔ|nWord=2|RX=[PRO]|TokenType=Root|Word=toʔ
 3	=yã	=yã	ADP	_	_	2	case	_	AlignBegin=179907|AlignEnd=180399|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=3|RX=[POST]|TokenType=Clit|Word=yã
 4	teʔ	teʔ	VERB	_	_	6	compound:svc	_	AlignBegin=180399|AlignEnd=180481|Gloss=come|MGloss=come|MSeg=teʔ|nWord=4|RX=[VI]|TokenType=Root|Word=teʔnabohna
 5	na	na	VERB	_	_	4	reparandum	_	AlignBegin=180481|AlignEnd=180563|Gloss=go|MGloss=go|MSeg=na|nWord=4|RX=[VI]|TokenType=Root|Word=teʔnabohna

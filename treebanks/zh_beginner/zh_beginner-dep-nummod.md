@@ -11,9 +11,9 @@ This relation is universal.
 474 nodes (2%) are attached to their parents as `nummod`.
 
 474 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23628691983122.
+Average distance between parent and child is 1.82067510548523.
 
-The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (458; 97% instances), <tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (16; 3% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (446; 94% instances), <tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (16; 3% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="zh_beginner-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="zh_beginner-pos-PART.html">PART</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,10 +44,32 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	想	想	AUX	_	_	4	aux	_	SpaceAfter=No|Tone=3|Translit=xiǎng
 4	学	学	VERB	_	_	0	root	_	SpaceAfter=No|Tone=2|Translit=xué
 5	几	几	NUM	_	NumType=Card	6	nummod	_	Grammar_Target=Yes|SpaceAfter=No|Tone=1|Translit=jī
-6	十	十	NUM	_	NumType=Card	7	nummod	_	Grammar_Target=Yes|SpaceAfter=No|Tone=2|Translit=shí
-7	个	个	NOUN	_	_	8	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
+6	十	十	NUM	_	NumType=Card	8	nummod	_	Grammar_Target=Yes|SpaceAfter=No|Tone=2|Translit=shí
+7	个	个	NOUN	_	_	6	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
 8	汉字	汉字	NOUN	_	_	4	obj	_	SpaceAfter=No|Tone=4_4|Translit=hàn_zì
 9	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=。
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 nummod	color:blue
+1	十	十	NUM	_	NumType=Card	3	nummod	_	SpaceAfter=No|Tone=2|Translit=shí
+2	个	个	NOUN	_	_	1	clf	_	Gloss=CLF|Grammar_Target=Yes|SpaceAfter=No|Tone=4|Translit=gè
+3	男人	男人	NOUN	_	_	0	root	_	SpaceAfter=No|Tone=2_2|Translit=nán_rén
+4	，	，	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit=，
+5	七	七	NUM	_	NumType=Card	7	nummod	_	Gloss=seven|SpaceAfter=No|Tone=1|Translit=qī
+6	个	个	NOUN	_	_	5	clf	_	Gloss=CLF|Grammar_Target=Yes|SpaceAfter=No|Tone=4|Translit=gè
+7	傻	傻	ADJ	_	_	3	parataxis	_	SpaceAfter=No|Tone=3|Translit=shǎ
+8	，	，	PUNCT	_	_	11	punct	_	SpaceAfter=No|Translit=，
+9	八	八	NUM	_	NumType=Card	11	nummod	_	SpaceAfter=No|Tone=1|Translit=bā
+10	个	个	NOUN	_	_	9	clf	_	Gloss=CLF|Grammar_Target=Yes|SpaceAfter=No|Tone=4|Translit=gè
+11	坏	坏	ADJ	_	_	7	parataxis	_	SpaceAfter=No|Tone=4|Translit=huài
+12	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=。
 
 ~~~
 

@@ -9,30 +9,30 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `compound`: <tt><a href="pay_chibergis-dep-compound-lvc.html">compound:lvc</a></tt>, <tt><a href="pay_chibergis-dep-compound-svc.html">compound:svc</a></tt>.
 
-41 nodes (2%) are attached to their parents as `compound`.
+62 nodes (1%) are attached to their parents as `compound`.
 
-25 instances of `compound` (61%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.36585365853659.
+36 instances of `compound` (58%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.30645161290323.
 
-The following 9 pairs of parts of speech are connected with `compound`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (14; 34% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-DET.html">DET</a></tt> (11; 27% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (6; 15% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (3; 7% instances), <tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 2% instances).
+The following 14 pairs of parts of speech are connected with `compound`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (24; 39% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-DET.html">DET</a></tt> (13; 21% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (6; 10% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (3; 5% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 compound	color:blue
-1	wisĩnka	wisĩnka	NOUN	N	_	3	nsubj	_	AlignBegin=27120|AlignEnd=27554|Gloss=wisinka|MGloss=wisinka|MSeg=wisĩnka|nWord=1|RX=[N]|TokenType=Root|Word=wisĩnka
-2	=ro	=ro	ADP	PRT	Case=Abs	1	case	_	AlignBegin=27554|AlignEnd=27988|Gloss==ABS|MGloss==ABS|MSeg==ro|nWord=2|RX=[PRT]|TokenType=Clit|Word=re
-3	tʃaii	tʃa	AUX	V:ANY	_	0	root	_	AlignBegin=27988|AlignEnd=28422|Gloss=be.there|MGloss=be.there -S3SG -PST|MSeg=tʃa-i-i|nWord=3|RX=[VI]|TokenType=Root|Word=tʃii|wordform=tʃa-i-i
-4	toʔ	toʔ	PRON	PRO	_	3	obl:mod	_	AlignBegin=28422|AlignEnd=28856|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=toʔ|nWord=4|RX=[PRO]|TokenType=Root|Word=toʔ
-5	=ken	=ken	ADP	POST	_	4	case	_	AlignBegin=28856|AlignEnd=29290|Gloss==LOC|MGloss==LOC|MSeg==ken|nWord=5|RX=[POST]|TokenType=Clit|Word=kẽ
-6	peʃ	peʃ	NOUN	N	_	8	nsubj	_	AlignBegin=29290|AlignEnd=29724|Gloss=people|MGloss=people|MSeg=peʃ|nWord=6|RX=[N]|TokenType=Root|Word=peʃ
-7	na	na	VERB	VI	_	8	compound	_	AlignBegin=29724|AlignEnd=29832|Gloss=go|MGloss=go|MSeg=na|nWord=7|RX=[VI]|TokenType=Root|Word=nateʃker
-8	teʃkerwa	teʃk	VERB	V:ANY	_	4	acl	_	AlignBegin=29832|AlignEnd=30158|Gloss=get.away|MGloss=get.away -S3PL -PFV|MSeg=teʃk-er-wa|nWord=7|RX=[VI]|TokenType=Root|Word=nateʃker|wordform=teʃk-er-wa
-9	=ma	=ma	SCONJ	PRT	_	8	mark	_	AlignBegin=30158|AlignEnd=30592|Gloss==when|MGloss==when|MSeg==ma|nWord=8|RX=[PRT]|TokenType=Clit|Word=ma
-10	ke	ke	ADV	ADV	_	4	advmod	_	AlignBegin=30592|AlignEnd=31030|Gloss=already|MGloss=already|MSeg=ke|nWord=9|RX=[ADV]|TokenType=Root|Word=ke
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 compound	color:blue
+1	pa	pa	VERB	_	_	2	compound	_	AlignBegin=139910|AlignEnd=140016|Gloss=take|MGloss=O3SG- take|MSeg=Ø-pa|nWord=1|RX=[VT]|TokenType=Root|wordform=Ø-pa
+2	arka	ka	VERB	_	Voice=Appl	3	compound:svc	_	AlignBegin=140016|AlignEnd=140175|Gloss=make|MGloss=O3SG- APPL.P- make|MSeg=a-r-ka|nWord=1|RX=[VT]|TokenType=Root|wordform=a-r-ka
+3	peʃ	peʃ	VERB	_	_	0	root	_	AlignBegin=140175|AlignEnd=140227|Gloss=take.off|MGloss=take.off|MSeg=peʃ|nWord=1|RX=[V]|TokenType=Root
+4	pe	pe	VERB	_	_	5	compound	_	AlignBegin=140227|AlignEnd=140333|Gloss=bring|MGloss=O3SG- bring|MSeg=Ø-pe|nWord=2|RX=[VT]|TokenType=Root|wordform=Ø-pe
+5	arka	ka	VERB	_	Voice=Appl	6	compound:svc	_	AlignBegin=140333|AlignEnd=140492|Gloss=make|MGloss=O3SG- APPL.P- make|MSeg=a-r-ka|nWord=2|RX=[VT]|TokenType=Root|wordform=a-r-ka
+6	peʃ	peʃ	VERB	_	_	3	conj	_	AlignBegin=140492|AlignEnd=140544|Gloss=take.off|MGloss=take.off|MSeg=peʃ|nWord=2|RX=[V]|TokenType=Root
+7	sa	sa	NOUN	_	_	8	nmod	_	AlignBegin=140544|AlignEnd=140861|Gloss=rock|MGloss=rock|MSeg=sa|nWord=3|RX=[N]|TokenType=Root
+8	aʔa	aʔa	NOUN	_	_	6	obl:lmod	_	AlignBegin=140861|AlignEnd=141178|Gloss=top|MGloss=top|MSeg=aʔa|nWord=4|RX=[N]|TokenType=Root
+9	=yã	_	ADP	_	_	8	case	_	AlignBegin=141178|AlignEnd=141495|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=5|RX=[POST]|TokenType=Clit
+10	.	_	PUNCT	_	_	3	punct	_	AlignBegin=141495|AlignEnd=141813|Gloss=.|MGloss=.|MSeg=.|nWord=6
 
 ~~~
 

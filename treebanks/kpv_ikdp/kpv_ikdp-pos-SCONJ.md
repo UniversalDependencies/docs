@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>мый</em> (<tt><a href="kpv_ikdp-po
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.083333 (the average of all parts of speech is 1.332474).
+The form / lemma ratio of `SCONJ` is 1.083333 (the average of all parts of speech is 1.341115).
 
 The 1st highest number of forms (2) was observed with the lemma “мыйла”: <em>мыйла, мыля</em>.
 
@@ -47,7 +47,13 @@ The 2nd highest number of forms (1) was observed with the lemma “Как”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “да”: <em>да</em>.
 
-`SCONJ` does not occur with any features.
+`SCONJ` occurs with 1 features: <tt><a href="kpv_ikdp-feat-ExtPos.html">ExtPos</a></tt> (7; 26% instances)
+
+`SCONJ` occurs with 2 feature-value pairs: `ExtPos=ADV`, `ExtPos=SCONJ`
+
+`SCONJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (20 tokens).
+Examples: <em>мый, да, что, мед, медум, дак, ке, мыйла, мыля, чтоб</em>
 
 
 ## Relations

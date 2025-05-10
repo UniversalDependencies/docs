@@ -32,7 +32,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 8	Fernandes	Fernandes	PROPN	_	_	7	flat:name	7:flat:name	SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	10:punct	_
 10	51	51	NUM	_	NumType=Card	7	parataxis	7:parataxis	SpaceAfter=No
-11	.	.	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 
@@ -60,7 +60,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 15	contra	contra	ADP	_	_	17	case	17:case	_
 16	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	17:det	_
 17	Vasco	Vasco	PROPN	_	_	5	obl	5:obl:contra	SpaceAfter=No
-18	.	.	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+18	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 
@@ -85,7 +85,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 12	cometidas	cometer	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	11	acl	11:acl	_
 13	por	por	ADP	_	_	14	case	14:case	_
 14	ele	ele	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl:agent	12:obl:agent	SpaceAfter=No
-15	.	.	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 

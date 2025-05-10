@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Bernard Caron, Emmett Strickland, Marine Courtin, Kim Gerdes, Bruno Guillaume, Sylvain Kahane, Chika Kennedy Ajede, Emeka Onwuegbuzia, Samson Tella.
 
 Repository: [UD_Naija-NSC](https://github.com/UniversalDependencies/UD_Naija-NSC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpcm_nsc215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpcm_nsc216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -71,7 +71,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 
 ## POS Tags
 
-[ADJ](pcm_nsc-pos-ADJ.html) – [ADP](pcm_nsc-pos-ADP.html) – [ADV](pcm_nsc-pos-ADV.html) – [AUX](pcm_nsc-pos-AUX.html) – [CCONJ](pcm_nsc-pos-CCONJ.html) – [DET](pcm_nsc-pos-DET.html) – [INTJ](pcm_nsc-pos-INTJ.html) – [NOUN](pcm_nsc-pos-NOUN.html) – [NUM](pcm_nsc-pos-NUM.html) – [PART](pcm_nsc-pos-PART.html) – [PRON](pcm_nsc-pos-PRON.html) – [PROPN](pcm_nsc-pos-PROPN.html) – [SCONJ](pcm_nsc-pos-SCONJ.html) – [VERB](pcm_nsc-pos-VERB.html) – [X](pcm_nsc-pos-X.html)
+[ADJ](pcm_nsc-pos-ADJ.html) – [ADP](pcm_nsc-pos-ADP.html) – [ADV](pcm_nsc-pos-ADV.html) – [AUX](pcm_nsc-pos-AUX.html) – [CCONJ](pcm_nsc-pos-CCONJ.html) – [DET](pcm_nsc-pos-DET.html) – [INTJ](pcm_nsc-pos-INTJ.html) – [NOUN](pcm_nsc-pos-NOUN.html) – [NUM](pcm_nsc-pos-NUM.html) – [PART](pcm_nsc-pos-PART.html) – [PRON](pcm_nsc-pos-PRON.html) – [PROPN](pcm_nsc-pos-PROPN.html) – [PUNCT](pcm_nsc-pos-PUNCT.html) – [SCONJ](pcm_nsc-pos-SCONJ.html) – [VERB](pcm_nsc-pos-VERB.html) – [X](pcm_nsc-pos-X.html)
 
 ## Features
 
@@ -79,7 +79,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 
 ## Relations
 
-[acl](pcm_nsc-dep-acl.html) – [acl:relcl](pcm_nsc-dep-acl-relcl.html) – [advcl](pcm_nsc-dep-advcl.html) – [advcl:cleft](pcm_nsc-dep-advcl-cleft.html) – [advmod](pcm_nsc-dep-advmod.html) – [amod](pcm_nsc-dep-amod.html) – [appos](pcm_nsc-dep-appos.html) – [aux](pcm_nsc-dep-aux.html) – [case](pcm_nsc-dep-case.html) – [cc](pcm_nsc-dep-cc.html) – [ccomp](pcm_nsc-dep-ccomp.html) – [compound](pcm_nsc-dep-compound.html) – [compound:prt](pcm_nsc-dep-compound-prt.html) – [compound:redup](pcm_nsc-dep-compound-redup.html) – [compound:svc](pcm_nsc-dep-compound-svc.html) – [conj](pcm_nsc-dep-conj.html) – [cop](pcm_nsc-dep-cop.html) – [csubj](pcm_nsc-dep-csubj.html) – [csubj:outer](pcm_nsc-dep-csubj-outer.html) – [dep](pcm_nsc-dep-dep.html) – [det](pcm_nsc-dep-det.html) – [discourse](pcm_nsc-dep-discourse.html) – [dislocated](pcm_nsc-dep-dislocated.html) – [expl:subj](pcm_nsc-dep-expl-subj.html) – [fixed](pcm_nsc-dep-fixed.html) – [flat](pcm_nsc-dep-flat.html) – [flat:foreign](pcm_nsc-dep-flat-foreign.html) – [iobj](pcm_nsc-dep-iobj.html) – [mark](pcm_nsc-dep-mark.html) – [nmod](pcm_nsc-dep-nmod.html) – [nmod:poss](pcm_nsc-dep-nmod-poss.html) – [nsubj](pcm_nsc-dep-nsubj.html) – [nsubj:outer](pcm_nsc-dep-nsubj-outer.html) – [nummod](pcm_nsc-dep-nummod.html) – [obj](pcm_nsc-dep-obj.html) – [obj:lvc](pcm_nsc-dep-obj-lvc.html) – [obl:agent](pcm_nsc-dep-obl-agent.html) – [obl:arg](pcm_nsc-dep-obl-arg.html) – [obl:mod](pcm_nsc-dep-obl-mod.html) – [orphan](pcm_nsc-dep-orphan.html) – [parataxis](pcm_nsc-dep-parataxis.html) – [parataxis:conj](pcm_nsc-dep-parataxis-conj.html) – [parataxis:discourse](pcm_nsc-dep-parataxis-discourse.html) – [parataxis:dislocated](pcm_nsc-dep-parataxis-dislocated.html) – [parataxis:mod](pcm_nsc-dep-parataxis-mod.html) – [parataxis:parenth](pcm_nsc-dep-parataxis-parenth.html) – [reparandum](pcm_nsc-dep-reparandum.html) – [root](pcm_nsc-dep-root.html) – [vocative](pcm_nsc-dep-vocative.html) – [xcomp](pcm_nsc-dep-xcomp.html)
+[acl](pcm_nsc-dep-acl.html) – [acl:relcl](pcm_nsc-dep-acl-relcl.html) – [advcl](pcm_nsc-dep-advcl.html) – [advcl:cleft](pcm_nsc-dep-advcl-cleft.html) – [advmod](pcm_nsc-dep-advmod.html) – [amod](pcm_nsc-dep-amod.html) – [appos](pcm_nsc-dep-appos.html) – [aux](pcm_nsc-dep-aux.html) – [case](pcm_nsc-dep-case.html) – [cc](pcm_nsc-dep-cc.html) – [ccomp](pcm_nsc-dep-ccomp.html) – [compound](pcm_nsc-dep-compound.html) – [compound:prt](pcm_nsc-dep-compound-prt.html) – [compound:redup](pcm_nsc-dep-compound-redup.html) – [compound:svc](pcm_nsc-dep-compound-svc.html) – [conj](pcm_nsc-dep-conj.html) – [cop](pcm_nsc-dep-cop.html) – [csubj](pcm_nsc-dep-csubj.html) – [csubj:outer](pcm_nsc-dep-csubj-outer.html) – [dep](pcm_nsc-dep-dep.html) – [det](pcm_nsc-dep-det.html) – [discourse](pcm_nsc-dep-discourse.html) – [dislocated](pcm_nsc-dep-dislocated.html) – [expl:subj](pcm_nsc-dep-expl-subj.html) – [fixed](pcm_nsc-dep-fixed.html) – [flat](pcm_nsc-dep-flat.html) – [flat:foreign](pcm_nsc-dep-flat-foreign.html) – [iobj](pcm_nsc-dep-iobj.html) – [mark](pcm_nsc-dep-mark.html) – [nmod](pcm_nsc-dep-nmod.html) – [nmod:poss](pcm_nsc-dep-nmod-poss.html) – [nsubj](pcm_nsc-dep-nsubj.html) – [nsubj:outer](pcm_nsc-dep-nsubj-outer.html) – [nummod](pcm_nsc-dep-nummod.html) – [obj](pcm_nsc-dep-obj.html) – [obj:lvc](pcm_nsc-dep-obj-lvc.html) – [obl:agent](pcm_nsc-dep-obl-agent.html) – [obl:arg](pcm_nsc-dep-obl-arg.html) – [obl:mod](pcm_nsc-dep-obl-mod.html) – [orphan](pcm_nsc-dep-orphan.html) – [parataxis](pcm_nsc-dep-parataxis.html) – [parataxis:conj](pcm_nsc-dep-parataxis-conj.html) – [parataxis:discourse](pcm_nsc-dep-parataxis-discourse.html) – [parataxis:dislocated](pcm_nsc-dep-parataxis-dislocated.html) – [parataxis:mod](pcm_nsc-dep-parataxis-mod.html) – [parataxis:parenth](pcm_nsc-dep-parataxis-parenth.html) – [punct](pcm_nsc-dep-punct.html) – [reparandum](pcm_nsc-dep-reparandum.html) – [root](pcm_nsc-dep-root.html) – [vocative](pcm_nsc-dep-vocative.html) – [xcomp](pcm_nsc-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -108,8 +108,8 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: SYM, PUNCT</li>
+<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: SYM</li>
 </ul>
 
 <ul>
@@ -133,7 +133,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 </ul>
 
 <ul>
-<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: be, dey, do, fit, gats, go, have, make, must</li>
+<li>Out of the above, 10 lemmas occurred sometimes as AUX and sometimes as VERB: be, dey, do, fit, gats, go, have, make, may, must</li>
 </ul>
 
 <ul>
@@ -231,7 +231,6 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
       <li>PRON-Fin: I</li>
       <li>SCONJ: dat, sey</li>
       <li>VERB-Fin: is, means, was, comes, has, begins, goes, am, depends, abounds</li>
-      <li>X: >+, }</li>
     </ul>
   </li>
 </ul>
@@ -266,7 +265,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
       <li>PRON: I, you, e, we, de, im, dem, me, she, una</li>
       <li>PRON-Fin: I</li>
       <li>SCONJ: sey</li>
-      <li>X: >+, [, de, {, ||, }</li>
+      <li>X: de</li>
     </ul>
   </li>
 </ul>
@@ -437,10 +436,10 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <ul>
   <li>Past
     <ul>
-      <li>AUX: bin, be, was, were, did, had</li>
-      <li>AUX-Fin: was, were, did, had</li>
+      <li>AUX: bin, be, was, were, did</li>
+      <li>AUX-Fin: was, were, did</li>
       <li>VERB: born, done, was, said, told, cheating, boiled, gave, grounded, made</li>
-      <li>VERB-Fin: was, said, told, gave, got, recommended, used, balanced, came, finished</li>
+      <li>VERB-Fin: was, said, told, gave, got, had, recommended, used, balanced, came</li>
       <li>VERB-Part: born, done, cheating, boiled, grounded, made, accepted, called, closed, seen</li>
     </ul>
   </li>
@@ -491,7 +490,6 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
     <ul>
       <li>DET: dis, dose, dese, those, that, da, this</li>
       <li>PRON: dis, dose, dese, those</li>
-      <li>X: }</li>
     </ul>
   </li>
 </ul>
@@ -516,7 +514,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
       <li>PRON: I, you, e, we, am, de, me, dem, im, us</li>
       <li>PRON-Fin: I</li>
       <li>SCONJ: sey</li>
-      <li>X: >+, [, de, {, ||, }</li>
+      <li>X: de</li>
     </ul>
   </li>
 </ul>
@@ -599,7 +597,6 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
     <ul>
       <li>ADJ: your</li>
       <li>PRON: you, your, una, yourself, yoursef, yousef, youself</li>
-      <li>X: [, {, ||, }</li>
     </ul>
   </li>
 </ul>
@@ -614,7 +611,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
       <li>PRON: e, am, de, dem, im, she, deir, her, it, imsef</li>
       <li>SCONJ: sey</li>
       <li>VERB-Fin: is, means, comes, has, begins, goes, depends, abounds, becomes, owes</li>
-      <li>X: >+, de</li>
+      <li>X: de</li>
     </ul>
   </li>
 </ul>
@@ -638,12 +635,13 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
       <li>ADP
         <ul>
           <li>ADJ: close, more, due</li>
-          <li>ADP: on, for, as, up, out, inside, at, based</li>
+          <li>ADP: on, for, as, up, out, inside, at, based, of</li>
           <li>ADV: apart, instead</li>
           <li>CCONJ: plus</li>
           <li>NOUN: sake, courtesy</li>
           <li>SCONJ: because, cause</li>
-          <li>VERB: base, according, based</li>
+          <li>VERB: base, according, may, based, had</li>
+          <li>VERB-Fin: had</li>
           <li>VERB-Part: according, based</li>
         </ul>
       </li>
@@ -651,8 +649,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
         <ul>
           <li>ADJ: first, later</li>
           <li>ADP: at, in, of, as</li>
-          <li>ADV: how</li>
-          <li>AUX: may</li>
+          <li>ADV: so, how</li>
           <li>CCONJ: and</li>
           <li>NOUN: step, upside</li>
           <li>VERB: tay</li>
@@ -681,7 +678,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
       </li>
       <li>PROPN
         <ul>
-          <li>ADJ: Federal, New, National, Cool, South, Nigerian, African, Big, Central, Good</li>
+          <li>ADJ: Federal, New, National, Cool, South, Middle, Nigerian, African, Big, Central</li>
           <li>ADP: On</li>
           <li>ADV: All</li>
           <li>INTJ: OK</li>
@@ -720,11 +717,9 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
         <ul>
           <li>AUX: na, be, it's, dat's</li>
           <li>INTJ: wa</li>
-          <li>NOUN: feminist</li>
           <li>PART: naim</li>
           <li>SCONJ: sey</li>
           <li>VERB: be, dat's, it's</li>
-          <li>X: #, [, ], |c</li>
         </ul>
       </li>
       <li>Disc
@@ -844,5 +839,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 19 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>compound:prt</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>csubj:outer</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:conj</a>, <a>parataxis:discourse</a>, <a>parataxis:dislocated</a>, <a>parataxis:mod</a>, <a>parataxis:parenth</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>expl</a>, <a>obl</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>punct</a></li>
+<li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

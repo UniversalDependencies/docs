@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 4 different values: `Card`, `Frac`, `Ord`, `Range`.
 
 11708 tokens (3%) have a non-empty value of `NumType`.
-2244 types (3%) occur at least once with a non-empty value of `NumType`.
+2243 types (3%) occur at least once with a non-empty value of `NumType`.
 1873 lemmas (4%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 4 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (9016; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2659; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (26; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (7; 0% instances).
 
@@ -59,7 +59,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Card` (3; 0% of non-empty `NumType`): <em>17, 20, Teine</em>
 * `Ord` (2656; 100% of non-empty `NumType`): <em>esimene, 1., esimest, esimese, teine, 2000., 2., teise, 1997., 1999.</em>
-* `EMPTY` (34211): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, oluline, viimase</em>
+* `EMPTY` (34222): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, oluline, viimase</em>
 
 <table>
   <tr><th>Paradigm <i>teine</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
@@ -98,7 +98,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 
 * `Card` (6; 23% of non-empty `NumType`): <em>GP-2, Sputnik-1, ZIL-130, 8, Kolme, MiG-29</em>
 * `Ord` (20; 77% of non-empty `NumType`): <em>Teist, Teise, Kolmanda, ADV, Esimene, Esimese, M, Neljanda, Neljandal, Teisel</em>
-* `EMPTY` (26254): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
+* `EMPTY` (26256): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
 
 `NumType` seems to be **lexical feature** of `PROPN`. 100% lemmas (12) occur only with one value of `NumType`.
 

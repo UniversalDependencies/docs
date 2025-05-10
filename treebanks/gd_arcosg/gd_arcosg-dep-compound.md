@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-109 nodes (0%) are attached to their parents as `compound`.
+112 nodes (0%) are attached to their parents as `compound`.
 
-109 instances of `compound` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.06422018348624.
+112 instances of `compound` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.08035714285714.
 
-The following 5 pairs of parts of speech are connected with `compound`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (66; 61% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (19; 17% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (13; 12% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (9; 8% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (2; 2% instances).
+The following 5 pairs of parts of speech are connected with `compound`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (68; 61% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (19; 17% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (14; 13% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (9; 8% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (2; 2% instances).
 
 
 ~~~ conllu
@@ -38,9 +38,9 @@ The following 5 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 1 2 compound	color:blue
 1	sadadh	sadadh	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 2	a-steach	a-steach	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	1	compound	_	_
-3	ma-thà	ma-thà	ADV	Rg	_	1	advmod	_	_
+3	ma-thà	ma-thà	ADV	Rg	AdvType=Man	1	advmod	_	_
 4	do	do	ADP	Sp	_	5	case	_	_
-5	Yugoslavia	Yugoslavia	PROPN	Nt	_	1	xcomp:pred	_	_
+5	Yugoslavia	Yugoslavia	PROPN	Nt	NounType=Top	1	xcomp:pred	_	_
 
 ~~~
 
@@ -51,27 +51,21 @@ The following 5 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 compound	color:blue
-1	Tha	bi	VERB	V-p	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	dùil	dùil	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
-3	gum	gu	PART	Qa	PartType=Cmpl	4	mark:prt	_	_
-4	mol	mol	VERB	V-f--d	Mood=Ind|Tense=Fut|VerbForm=Fin	1	acl	_	_
-5	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-6	gearradh	gearradh	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	4	obj	_	_
-7	de	de	ADP	Sp	_	11	case	_	_
-8	ma	ma	ADV	Rg	_	11	advmod	_	_
-9	naoi	naoi	NUM	Mc	NumForm=Word|NumType=Card	11	nummod	_	_
+1	chanainn	canainn	VERB	V-h1s	Mood=Ind|Person=1|VerbForm=Fin	0	root	_	_
+2	gur	is	AUX	Wpdia	ExtPos=AUX|Polarity=Aff|Tense=Pres	7	cop	_	_
+3	an	an	ADP	Sp	_	2	fixed	_	_
+4	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	fixed	_	_
+5	air	air	ADP	Sp	_	7	case	_	_
+6	a’	an	DET	Tdsf	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	bhliadhna	bliadhna	NOUN	Ncsfd	Case=Dat|Gender=Fem|Number=Sing	1	ccomp	_	_
+8	ochd	ochd	NUM	Mc	NumForm=Word|NumType=Card	9	nummod	_	_
+9	ceud	ceud	NUM	Mc	NumForm=Word|NumType=Card	7	nmod:unmarked	_	_
 10	deug	deug	NUM	Mc	NumForm=Word|NumType=Card	9	compound	_	_
-11	not	not	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	6	nmod	_	_
-12	anns	an	ADP	Sp	_	14	case	_	_
-13	an	an	ADP	Sp	_	12	fixed	_	_
-14	bhliadhna	bliadhna	NOUN	Ncsfd	Case=Dat|Gender=Fem|Number=Sing	6	nmod	_	_
-15	thar	thar	ADP	Sp	_	18	case	_	_
-16	nan	an	DET	Tdpfg	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
-17	còig	còig	NUM	Mc	NumForm=Word|NumType=Card	18	nummod	_	_
-18	bliadhna	bliadhna	NOUN	Ncsfg	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
-19	ro	ro	ADP	Sp	_	20	case	_	_
-20	sinn	sinn	PRON	Pp1p	Number=Plur|Person=1|PronType=Prs	18	nmod	_	_
-21	.	.	PUNCT	Fe	_	1	punct	_	_
+11	dà	dà	NUM	Mc	NumForm=Word|NumType=Card	12	nummod	_	_
+12	fhichead	fichead	NUM	Mc	NumForm=Word|NumType=Card	9	conj	_	_
+13	's	is	CCONJ	Cc	_	15	cc	_	_
+14	ochd	ochd	NUM	Mc	NumForm=Word|NumType=Card	15	nummod	_	_
+15	deug	deug	NUM	Mc	NumForm=Word|NumType=Card	9	conj	_	_
 
 ~~~
 

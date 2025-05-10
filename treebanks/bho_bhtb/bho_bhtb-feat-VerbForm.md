@@ -91,7 +91,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 
 * `Fin` (6; 21% of non-empty `VerbForm`): पहिले, कहले, जनले, बिआहे
 * `Part` (22; 79% of non-empty `VerbForm`): दिसाईं, पहिले, किडनी, चुनौती, बानी, रंगे, अलगे, आगे, कहनी, जगाईं
-* `EMPTY` (1826): लोग, बिआह, जी, रंग, देश, जब, भाषा, आजु, आदमी, साल
+* `EMPTY` (1827): लोग, बिआह, जी, रंग, देश, जब, भाषा, आजु, आदमी, साल
 
 `VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (18) occur only with one value of `VerbForm`.
 
@@ -128,7 +128,7 @@ The most frequent other feature values with which `PART` and `VerbForm` co-occur
 `PART` tokens may have the following values of `VerbForm`:
 
 * `Part` (2; 100% of non-empty `VerbForm`): नइखे, नाहीं
-* `EMPTY` (190): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
+* `EMPTY` (189): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
 
 ### `PROPN`
 

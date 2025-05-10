@@ -12,17 +12,17 @@ It occurs with 2 different values: `Past`, `Pres`.
 789 tokens (1%) have a non-empty value of `Tense`.
 208 types (4%) occur at least once with a non-empty value of `Tense`.
 161 lemmas (4%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (394; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (393; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (395; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (392; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-394 <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Tense`.
+395 <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Tense`.
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (133; 34% of non-empty `Tense`): <em>born, done, was, said, told, cheating, boiled, gave, grounded, made</em>
+* `Past` (134; 34% of non-empty `Tense`): <em>born, done, was, said, told, cheating, boiled, gave, grounded, made</em>
 * `Pres` (261; 66% of non-empty `Tense`): <em>is, according, means, comes, following, going, has, making, talking, are</em>
-* `EMPTY` (17365): <em>go, dey, do, get, say, come, know, see, tell, wan</em>
+* `EMPTY` (17367): <em>go, dey, do, get, say, come, know, see, tell, wan</em>
 
 <table>
   <tr><th>Paradigm <i>go</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -33,15 +33,15 @@ The feature is used with 3 part-of-speech tags: <tt><a href="pcm_nsc-pos-VERB.ht
 
 ### `AUX`
 
-393 <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Tense`.
+392 <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="pcm_nsc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (393; 100%), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (393; 100%), <tt><a href="pcm_nsc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (393; 100%), <tt><a href="pcm_nsc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (279; 71%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="pcm_nsc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (392; 100%), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (392; 100%), <tt><a href="pcm_nsc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (392; 100%), <tt><a href="pcm_nsc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (278; 71%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (145; 37% of non-empty `Tense`): <em>bin, be, was, were, did, had</em>
+* `Past` (144; 37% of non-empty `Tense`): <em>bin, be, was, were, did</em>
 * `Pres` (248; 63% of non-empty `Tense`): <em>is, are, do, 's, 'm, have, am, being, does</em>
-* `EMPTY` (13331): <em>dey, go, na, no, con, don, be, make, fit, come</em>
+* `EMPTY` (13329): <em>dey, go, na, no, con, don, be, make, fit, come</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -66,10 +66,10 @@ The most frequent other feature values with which `PRON` and `Tense` co-occurred
 `PRON` tokens may have the following values of `Tense`:
 
 * `Pres` (2; 100% of non-empty `Tense`): <em>I</em>
-* `EMPTY` (18359): <em>I, you, e, we, am, de, me, my, dem, im</em>
+* `EMPTY` (18364): <em>I, you, e, we, am, de, me, my, dem, im</em>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>AUX --[<tt><a href="pcm_nsc-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="pcm_nsc-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%).
 

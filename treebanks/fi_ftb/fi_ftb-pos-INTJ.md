@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>voi</em> (<tt><a href="fi_ftb-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.048736).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.049638).
 
 The 1st highest number of forms (1) was observed with the lemma “aa”: <em>aa</em>.
 
@@ -54,32 +54,32 @@ The 2nd highest number of forms (1) was observed with the lemma “aaihjaihjaijj
 
 The 3rd highest number of forms (1) was observed with the lemma “ah”: <em>ah</em>.
 
-`INTJ` occurs with 1 features: <tt><a href="fi_ftb-feat-Style.html">Style</a></tt> (1; 0% instances)
+`INTJ` occurs with 2 features: <tt><a href="fi_ftb-feat-ExtPos.html">ExtPos</a></tt> (6; 2% instances), <tt><a href="fi_ftb-feat-Style.html">Style</a></tt> (1; 0% instances)
 
-`INTJ` occurs with 1 feature-value pairs: `Style=Coll`
+`INTJ` occurs with 2 feature-value pairs: `ExtPos=INTJ`, `Style=Coll`
 
-`INTJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (340 tokens).
+`INTJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (334 tokens).
 Examples: <em>no, voi, hei, joo, ai, jumalauta, saatana, okei, heh, senkin</em>
 
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 5 different relations: <tt><a href="fi_ftb-dep-discourse.html">discourse</a></tt> (277; 81% instances), <tt><a href="fi_ftb-dep-root.html">root</a></tt> (37; 11% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (22; 6% instances), <tt><a href="fi_ftb-dep-dep.html">dep</a></tt> (4; 1% instances), <tt><a href="fi_ftb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances)
+`INTJ` nodes are attached to their parents using 5 different relations: <tt><a href="fi_ftb-dep-discourse.html">discourse</a></tt> (277; 81% instances), <tt><a href="fi_ftb-dep-root.html">root</a></tt> (38; 11% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (21; 6% instances), <tt><a href="fi_ftb-dep-dep.html">dep</a></tt> (4; 1% instances), <tt><a href="fi_ftb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances)
 
-Parents of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (171; 50% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (37; 11% instances),  (37; 11% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (27; 8% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (19; 6% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (18; 5% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (14; 4% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (14; 4% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (171; 50% instances),  (38; 11% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (36; 11% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (27; 8% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (19; 6% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (14; 4% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (14; 4% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (14; 4% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
-223 (65%) `INTJ` nodes are leaves.
+221 (65%) `INTJ` nodes are leaves.
 
-85 (25%) `INTJ` nodes have one child.
+86 (25%) `INTJ` nodes have one child.
 
 18 (5%) `INTJ` nodes have two children.
 
-15 (4%) `INTJ` nodes have three or more children.
+16 (5%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 5.
 
-Children of `INTJ` nodes are attached using 13 different relations: <tt><a href="fi_ftb-dep-punct.html">punct</a></tt> (99; 58% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (33; 19% instances), <tt><a href="fi_ftb-dep-discourse.html">discourse</a></tt> (9; 5% instances), <tt><a href="fi_ftb-dep-advmod.html">advmod</a></tt> (5; 3% instances), <tt><a href="fi_ftb-dep-vocative.html">vocative</a></tt> (5; 3% instances), <tt><a href="fi_ftb-dep-cop.html">cop</a></tt> (4; 2% instances), <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (4; 2% instances), <tt><a href="fi_ftb-dep-nsubj-cop.html">nsubj:cop</a></tt> (4; 2% instances), <tt><a href="fi_ftb-dep-mark.html">mark</a></tt> (3; 2% instances), <tt><a href="fi_ftb-dep-cc.html">cc</a></tt> (2; 1% instances), <tt><a href="fi_ftb-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="fi_ftb-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="fi_ftb-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
+Children of `INTJ` nodes are attached using 14 different relations: <tt><a href="fi_ftb-dep-punct.html">punct</a></tt> (99; 57% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (33; 19% instances), <tt><a href="fi_ftb-dep-discourse.html">discourse</a></tt> (9; 5% instances), <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (7; 4% instances), <tt><a href="fi_ftb-dep-advmod.html">advmod</a></tt> (5; 3% instances), <tt><a href="fi_ftb-dep-vocative.html">vocative</a></tt> (5; 3% instances), <tt><a href="fi_ftb-dep-cop.html">cop</a></tt> (4; 2% instances), <tt><a href="fi_ftb-dep-nsubj-cop.html">nsubj:cop</a></tt> (4; 2% instances), <tt><a href="fi_ftb-dep-mark.html">mark</a></tt> (3; 2% instances), <tt><a href="fi_ftb-dep-cc.html">cc</a></tt> (2; 1% instances), <tt><a href="fi_ftb-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="fi_ftb-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="fi_ftb-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="fi_ftb-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
 
-Children of `INTJ` nodes belong to 12 different parts of speech: <tt><a href="fi_ftb-pos-PUNCT.html">PUNCT</a></tt> (99; 58% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (27; 16% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (13; 8% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (10; 6% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (4; 2% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances)
+Children of `INTJ` nodes belong to 12 different parts of speech: <tt><a href="fi_ftb-pos-PUNCT.html">PUNCT</a></tt> (99; 57% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (27; 15% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (14; 8% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (13; 7% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (6; 3% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (1; 1% instances)
 

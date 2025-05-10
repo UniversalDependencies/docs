@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-6718 tokens (17%) have a non-empty value of `Person`.
-1914 types (36%) occur at least once with a non-empty value of `Person`.
+6719 tokens (17%) have a non-empty value of `Person`.
+1915 types (36%) occur at least once with a non-empty value of `Person`.
 650 lemmas (29%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt> (4413; 11% instances), <tt><a href="grc_ptnk-pos-PRON.html">PRON</a></tt> (1801; 5% instances), <tt><a href="grc_ptnk-pos-AUX.html">AUX</a></tt> (503; 1% instances), <tt><a href="grc_ptnk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt> (4413; 11% instances), <tt><a href="grc_ptnk-pos-PRON.html">PRON</a></tt> (1801; 5% instances), <tt><a href="grc_ptnk-pos-AUX.html">AUX</a></tt> (504; 1% instances), <tt><a href="grc_ptnk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
 4413 <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4413; 100%), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4412; 100%), <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4093; 93%), <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3634; 82%), <tt><a href="grc_ptnk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3555; 81%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3546; 80%), <tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (3521; 80%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3358; 76%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4413; 100%), <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4413; 100%), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4412; 100%), <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3634; 82%), <tt><a href="grc_ptnk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3556; 81%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3546; 80%), <tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (3522; 80%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3358; 76%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -29,14 +29,11 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 <table>
   <tr><th>Paradigm <i>εἶπον</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>εἰπὸν, εἶπον</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>εἶπεν, εἶπέν</em></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>εἶπεν</em></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>εἴπαμεν</em></td><td><em>εἴπατε</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>εἴποσαν, εἶπον</em></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>εἴπω</em></td><td><em>εἴπῃς</em></td><td><em>εἴπῃ</em></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>εἴπῃς</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>εἴπητέ, εἴπητε</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>εἰπὸν, εἶπον</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>εἶπεν, εἶπέν</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>εἴπαμεν</em></td><td><em>εἴπατε</em></td><td><em>εἴποσαν, εἶπον</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>εἴπω</em></td><td><em>εἴπῃς</em></td><td><em>εἴπῃ</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>εἴπητέ, εἴπητε</em></td><td></td></tr>
 </table>
 
 ### `PRON`
@@ -56,16 +53,16 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-503 <tt><a href="grc_ptnk-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Person`.
+504 <tt><a href="grc_ptnk-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (474; 94%), <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (458; 91%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (421; 84%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (405; 81%), <tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (349; 69%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (475; 94%), <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (458; 91%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (421; 84%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (406; 81%), <tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (349; 69%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (51; 10% of non-empty `Person`): <em>εἰμι, ἔσομαι, ἐσμεν, ἐσόμεθα, εἰμὶ, ἐσμὲν, ἐσμέν, ἦσαν</em>
 * `2` (44; 9% of non-empty `Person`): <em>εἶ, ἔσῃ, ἐστε, ἔσεσθε, εἴ, ἐστὲ, ἦς, ἦσθα</em>
-* `3` (408; 81% of non-empty `Person`): <em>ἦν, ἐστιν, ἔσται, ἔστιν, ἦσαν, ἐστὶν, εἰσιν, ἔσονται, ἔστω, ᾖ</em>
-* `EMPTY` (32): <em>εἶναι, ὄντος, οὖσα, ὂν, ὄντας, ὄντες, ὢν, ὦσιν, εἶναί, ἐσομένου</em>
+* `3` (409; 81% of non-empty `Person`): <em>ἦν, ἐστιν, ἔσται, ἔστιν, ἦσαν, ἐστὶν, εἰσιν, ἔσονται, ἔστω, ᾖ</em>
+* `EMPTY` (31): <em>εἶναι, ὄντος, οὖσα, ὂν, ὄντας, ὄντες, ὢν, εἶναί, ἐσομένου, ὄντι</em>
 
 <table>
   <tr><th>Paradigm <i>εἰμί</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -75,6 +72,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἦσαν</em></td><td><em>ἦς</em></td><td><em>ἦν</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_ptnk-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>ἔσονται</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_ptnk-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>ἦσαν</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_ptnk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>ὦσιν</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>ἔστω</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_ptnk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>ἔστωσαν</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind,Sub</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εἰμι, εἰμὶ</em></td><td></td><td></td></tr>
@@ -105,13 +103,13 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="grc_ptnk-dep-conj.html">conj</a></tt>]--> VERB</tt> (1278; 83%),
-<tt>VERB --[<tt><a href="grc_ptnk-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (113; 51%),
+<tt>VERB --[<tt><a href="grc_ptnk-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (113; 52%),
 <tt>VERB --[<tt><a href="grc_ptnk-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (88; 54%),
 <tt>AUX --[<tt><a href="grc_ptnk-dep-conj.html">conj</a></tt>]--> VERB</tt> (7; 58%),
 <tt>VERB --[<tt><a href="grc_ptnk-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (7; 58%),
 <tt>AUX --[<tt><a href="grc_ptnk-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (5; 83%),
-<tt>VERB --[<tt><a href="grc_ptnk-dep-conj.html">conj</a></tt>]--> AUX</tt> (5; 56%),
 <tt>VERB --[<tt><a href="grc_ptnk-dep-appos.html">appos</a></tt>]--> VERB</tt> (4; 80%),
 <tt>VERB --[<tt><a href="grc_ptnk-dep-parataxis.html">parataxis</a></tt>]--> PRON</tt> (3; 60%),
-<tt>VERB --[<tt><a href="grc_ptnk-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (2; 67%).
+<tt>VERB --[<tt><a href="grc_ptnk-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (2; 67%),
+<tt>AUX --[<tt><a href="grc_ptnk-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%).
 

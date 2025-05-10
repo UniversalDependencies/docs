@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>som</em> (<tt><a href="sv_talbanken-p
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.430604).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.428271).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: <em>som</em>.
 

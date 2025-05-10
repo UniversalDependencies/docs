@@ -21,6 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="id_gsd-pos-NUM.html
 `NUM` tokens may have the following values of `NumType`:
 
 * `Card` (4267; 100% of non-empty `NumType`): <em>satu, dua, 1, 2, 3, tiga, 5, 2010, 4, 2006</em>
+* `EMPTY` (1): <em>beribu</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (885) occur only with one value of `NumType`.
 
@@ -31,7 +32,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="id_gsd-pos-NUM.html
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (395; 100% of non-empty `NumType`): <em>pertama, kedua, ketiga, keempat, ke-13, ke-11, ke-18, ke-19, ke-20, ke-4</em>
-* `EMPTY` (4406): <em>salah, lain, besar, baru, lainnya, utama, sama, kecil, tinggi, baik</em>
+* `EMPTY` (4392): <em>salah, lain, besar, baru, lainnya, utama, sama, kecil, tinggi, baik</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (42) occur only with one value of `NumType`.
 
@@ -44,5 +45,5 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="id_gsd-dep-appos.html">appos</a></tt>]--> NUM</tt> (14; 100%),
 <tt>ADJ --[<tt><a href="id_gsd-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3; 100%),
 <tt>ADJ --[<tt><a href="id_gsd-dep-appos.html">appos</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>NUM --[<tt><a href="id_gsd-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="id_gsd-dep-compound.html">compound</a></tt>]--> NUM</tt> (1; 100%).
 

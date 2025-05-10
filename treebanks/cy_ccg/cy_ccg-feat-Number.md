@@ -185,7 +185,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 * `Plur` (43; 10% of non-empty `Number`): <em>eraill, arbenigol, Rhanbarthol, bychain, cryfion, gwledig, gwylltion, ifainc, llai, prysuraf</em>
 * `Sing` (385; 90% of non-empty `Number`): <em>unrhyw, bach, leol, barod, Ewropeaidd, arbennig, gyflym, Gymreig, blynyddol, brif</em>
-* `EMPTY` (3174): <em>Cymraeg, newydd, Gymraeg, bob, mwy, lleol, pob, genedlaethol, arall, fawr</em>
+* `EMPTY` (3171): <em>Cymraeg, newydd, Gymraeg, bob, mwy, lleol, pob, genedlaethol, arall, fawr</em>
 
 <table>
   <tr><th>Paradigm <i>llai</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -198,14 +198,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="cy_ccg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2366; 68%),
+<tt>NOUN --[<tt><a href="cy_ccg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2363; 68%),
 <tt>VERB --[<tt><a href="cy_ccg-dep-xcomp.html">xcomp</a></tt>]--> NOUN</tt> (1413; 82%),
-<tt>NOUN --[<tt><a href="cy_ccg-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1327; 82%),
-<tt>NOUN --[<tt><a href="cy_ccg-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1160; 76%),
+<tt>NOUN --[<tt><a href="cy_ccg-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1321; 82%),
+<tt>NOUN --[<tt><a href="cy_ccg-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1157; 76%),
 <tt>NOUN --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (837; 82%),
 <tt>VERB --[<tt><a href="cy_ccg-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (706; 77%),
-<tt>NOUN --[<tt><a href="cy_ccg-dep-acl.html">acl</a></tt>]--> NOUN</tt> (622; 85%),
+<tt>NOUN --[<tt><a href="cy_ccg-dep-acl.html">acl</a></tt>]--> NOUN</tt> (625; 84%),
 <tt>NOUN --[<tt><a href="cy_ccg-dep-cop.html">cop</a></tt>]--> AUX</tt> (517; 93%),
 <tt>VERB --[<tt><a href="cy_ccg-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (515; 77%),
-<tt>NOUN --[<tt><a href="cy_ccg-dep-xcomp.html">xcomp</a></tt>]--> NOUN</tt> (462; 97%).
+<tt>NOUN --[<tt><a href="cy_ccg-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (462; 62%).
 

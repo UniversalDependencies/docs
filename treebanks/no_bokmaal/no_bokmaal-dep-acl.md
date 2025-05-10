@@ -34,8 +34,8 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 9	de	de	PRON	pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
 10	tror	tro	VERB	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	6	acl	_	_
 11	på	på	ADP	prep	_	14	case	_	_
-12	ny	ny	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing	14	amod	_	_
-13	rødgrønn	rødgrønn	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing	14	amod	_	_
+12	ny	ny	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	14	amod	_	_
+13	rødgrønn	rødgrønn	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	14	amod	_	_
 14	valgseier	valgseier	NOUN	subst	Definite=Ind|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
 15	.	$.	PUNCT	clb	_	2	punct	_	_
 
@@ -49,12 +49,12 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 7	fgColor:white
 # visual-style 7 9 acl	color:blue
 1	Mellom	mellom	ADP	prep	_	2	case	_	_
-2	det	det	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+2	det	den	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	root	_	_
 3	å	å	PART	inf-merke	_	5	mark	_	_
 4	være	være	AUX	verb	VerbForm=Inf	5	cop	_	_
 5	tilstede	tilstede	ADP	prep	_	2	dislocated	_	_
 6	og	og	CCONJ	konj	_	7	cc	_	_
-7	det	det	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	conj	_	_
+7	det	den	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	conj	_	_
 8	å	å	PART	inf-merke	_	9	mark	_	_
 9	betrakte	betrakte	VERB	verb	VerbForm=Inf	7	acl	_	SpaceAfter=No
 10	.	$.	PUNCT	clb	_	7	punct	_	_

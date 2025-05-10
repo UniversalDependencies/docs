@@ -143,7 +143,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 * `Neg` (116; 4% of non-empty `Polarity`): <em>nenápadně, nechápavě, netrpělivě, nesměle, nejistě, nerozhodně, nebezpečně, neochotně, nedůvěřivě, nevzrušeně</em>
 * `Pos` (3011; 96% of non-empty `Polarity`): <em>vždycky, dobře, často, víc, dlouho, konečně, rychle, brzy, stejně, náhle</em>
-* `EMPTY` (7705): <em>už, tak, jak, ještě, pak, tam, proč, teď, nikdy, kde</em>
+* `EMPTY` (7704): <em>už, tak, jak, ještě, pak, tam, proč, teď, nikdy, kde</em>
 
 <table>
   <tr><th>Paradigm <i>dlouho</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>

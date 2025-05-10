@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Belarusian-HSE: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="be_hse-dep-obl.html">obl</a></tt>.
+There are also 3 other language-specific subtypes of `obl`: <tt><a href="be_hse-dep-obl-depict.html">obl:depict</a></tt>, <tt><a href="be_hse-dep-obl-float.html">obl:float</a></tt>, <tt><a href="be_hse-dep-obl-tmod.html">obl:tmod</a></tt>.
 
 288 nodes (0%) are attached to their parents as `obl:agent`.
 

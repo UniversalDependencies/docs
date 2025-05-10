@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>то</em> (<tt><a href="orv_birchbark
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 10.916667 (the average of all parts of speech is 2.410435).
+The form / lemma ratio of `DET` is 10.916667 (the average of all parts of speech is 2.411136).
 
 The 1st highest number of forms (53) was observed with the lemma “мои”: <em>(моӏ)мо, -[ое, [мо]ӏ, [моеи]…, м(о)имъ, м(ое)<lbr/>мꙋ, м)[ое]му, м<lbr/>оеи, м[о](ѥи), м[о]є[и], м]оѥи, мо(и), мо(ѥю), мо)<lbr/>ѥмо, мо:е:го, мо:ю, мо<lbr/>(ѥ)[м]о, мо<lbr/>ѥго, мо[и, мо[их]о, мое, мое[и, моега, моего, моеи, моемо, моемѹ, моемꙋ, мои, мои[м](ъ), моими, моимъ, моихъ, мою, мою], моѥ, моѥго, моѥи, моѥму, моѥӏ, моѧ, моӏ, моӏмо, моӏхо, моӏхъ, моӏхь, мо…, мъ<lbr/>ѥ, мъи, мъихъ, мъю, мъѥ, мъѥи</em>.
 

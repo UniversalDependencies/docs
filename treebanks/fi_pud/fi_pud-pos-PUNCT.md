@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Finnish-PUD: POS Tags: `PUNCT`
 
 There are 12 `PUNCT` lemmas (0%), 12 `PUNCT` types (0%) and 2339 `PUNCT` tokens (15%).
-Out of 15 observed tags, the rank of `PUNCT` is: 10 in number of lemmas, 11 in number of types and 2 in number of tokens.
+Out of 15 observed tags, the rank of `PUNCT` is: 11 in number of lemmas, 12 in number of types and 2 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>,, ., ”, (, ), -, :, ?, ’, ...</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.526180).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.525677).
 
 The 1st highest number of forms (1) was observed with the lemma “"”: <em>"</em>.
 
@@ -42,7 +42,7 @@ Examples: <em>,, ., ”, (, ), :, -, ?, ’, ...</em>
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="fi_pud-dep-punct.html">punct</a></tt> (2339; 100% instances)
 
-Parents of `PUNCT` nodes belong to 12 different parts of speech: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (1514; 65% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (437; 19% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (135; 6% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (131; 6% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (50; 2% instances), <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (27; 1% instances), <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> (24; 1% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="fi_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="fi_pud-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="fi_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 13 different parts of speech: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (1514; 65% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (437; 19% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (134; 6% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (131; 6% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (50; 2% instances), <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (27; 1% instances), <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> (24; 1% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="fi_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="fi_pud-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="fi_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="fi_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
 2339 (100%) `PUNCT` nodes are leaves.
 

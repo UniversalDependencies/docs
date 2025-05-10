@@ -25,7 +25,7 @@ The following 5 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a
 # visual-style 6 5 nmod:gsubj	color:blue
 1	Esiintyjä	esiintyjä	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	2	nsubj	_	_
 2	pelkää	pelätä	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	Jurkan	jurkka	PROPN	N,Prop,Sg,Gen	Case=Gen|Number=Sing	2	nmod	_	_
+3	Jurkan	jurkka	PROPN	N,Prop,Sg,Gen	Case=Gen|Number=Sing	2	obl	_	_
 4	mielestä	mielestä	ADP	Adp	_	3	case	_	_
 5	kontrollin	kontrolli	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	6	nmod:gsubj	_	Alt=nmod:gsubj
 6	pettämistä	pettäminen	NOUN	N,Sg,Par	Case=Par|Number=Sing	2	obj	_	_
@@ -44,7 +44,7 @@ The following 5 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a
 2	jäihin	jää	NOUN	N,Pl,Ill	Case=Ill|Number=Plur	3	nmod	_	_
 3	vajoamisensa	vajoaminen	NOUN	N,Sg,Nom,Px3	Case=Nom|Number=Sing|Person[psor]=3	4	obj	_	_
 4	nähtiin	nähdä	VERB	V,Pass,Ind,Past	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
-5	rannalta	ranta	NOUN	N,Sg,Abl	Case=Abl|Number=Sing	4	nmod	_	_
+5	rannalta	ranta	NOUN	N,Sg,Abl	Case=Abl|Number=Sing	4	obl	_	_
 6	.	.	PUNCT	Pun	_	5	punct	_	_
 
 ~~~
@@ -56,13 +56,13 @@ The following 5 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 nmod:gsubj	color:blue
-1	Tulevaisuudessa	tulevaisuus	NOUN	N,Sg,Ine	Case=Ine|Number=Sing	5	nmod	_	_
+1	Tulevaisuudessa	tulevaisuus	NOUN	N,Sg,Ine	Case=Ine|Number=Sing	5	obl	_	_
 2	uuden	uusi	ADJ	A,Sg,Gen	Case=Gen|Number=Sing	3	amod	_	_
 3	Siljan	silja	PROPN	N,Prop,Sg,Gen	Case=Gen|Number=Sing	4	nmod:gsubj	_	Alt=nmod:gsubj
 4	menestyminen	menestyminen	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	5	nsubj	_	_
 5	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	kiinni	kiinni	ADV	Adv	_	5	compound:prt	_	_
-7	Itämerestä	itämeri	PROPN	N,Prop,Sg,Ela	Case=Ela|Number=Sing	5	nmod	_	_
+7	Itämerestä	itämeri	PROPN	N,Prop,Sg,Ela	Case=Ela|Number=Sing	5	obl	_	_
 8	.	.	PUNCT	Pun	_	7	punct	_	_
 
 ~~~

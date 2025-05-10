@@ -46,7 +46,13 @@ The 2nd highest number of forms (1) was observed with the lemma “coma”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “como”: <em>como</em>.
 
-`SCONJ` does not occur with any features.
+`SCONJ` occurs with 1 features: <tt><a href="gl_treegal-feat-ExtPos.html">ExtPos</a></tt> (3; 1% instances)
+
+`SCONJ` occurs with 1 feature-value pairs: `ExtPos=SCONJ`
+
+`SCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (562 tokens).
+Examples: <em>que, pero, como, se, porque, mais, senón, pois, coma, ca</em>
 
 
 ## Relations

@@ -25,7 +25,7 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 1	Έχω	έχω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	σοβαρότατες	σοβαρός	ADJ	ADJ	Case=Acc|Degree=Sup|Gender=Fem|Number=Plur	3	amod	_	_
 3	αντιρρήσεις	αντίρρηση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	_
-4	ως	ως	ADP	ADP	_	6	case	_	_
+4	ως	ως	ADP	ADP	ExtPos=ADP	6	case	_	_
 5	προς	προς	ADP	ADP	_	4	fixed	_	_
 6	αυτό	αυτός	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	1	obl	_	SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	1	punct	_	_
@@ -48,7 +48,7 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 7	για	για	ADP	ADP	_	9	case	_	_
 8	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	αεροπορία	αεροπορία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
-10	δεδομένου	δεδομένο	ADV	ADV	_	15	mark	_	_
+10	δεδομένου	δεδομένο	ADV	ADV	ExtPos=SCONJ	15	mark	_	_
 11	ότι	ότι	SCONJ	SCONJ	_	10	fixed	_	_
 12	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	ΕΛΑΣ	ΕΛΑΣ	NOUN	NOUN	Abbr=Yes	15	nsubj	_	_
@@ -67,7 +67,7 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Αν	αν	SCONJ	SCONJ	_	3	mark	_	_
+1	Αν	αν	SCONJ	SCONJ	ExtPos=SCONJ	3	mark	_	_
 2	και	και	CCONJ	CCONJ	_	1	fixed	_	_
 3	ηττήθηκε	ηττώμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	3	punct	_	_

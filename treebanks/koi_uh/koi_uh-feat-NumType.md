@@ -6,8 +6,9 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: Features: `NumType`
 
-This feature is universal but the values `MultDist`, `OrdMult` are language-specific.
-It occurs with 6 different values: `Card`, `Dist`, `MultDist`, `Ord`, `OrdMult`, `Sets`.
+This feature is universal.
+It occurs with 5 different values: `Card`, `Dist`, `Mult`, `Ord`, `Sets`.
+Some words have combined values of the feature; 2 combinations have been observed: `Dist|Mult`, `Mult|Ord`.
 
 15 tokens (1%) have a non-empty value of `NumType`.
 12 types (2%) occur at least once with a non-empty value of `NumType`.
@@ -36,12 +37,14 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 5 <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `NumType`.
 
+The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="koi_uh-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (5; 100%).
+
 `ADV` tokens may have the following values of `NumType`:
 
 * `Card` (1; 20% of non-empty `NumType`): <em>ӧтикӧ</em>
-* `MultDist` (2; 40% of non-empty `NumType`): <em>кыкисьӧн, кыкисьӧн-куимисьӧн</em>
-* `OrdMult` (2; 40% of non-empty `NumType`): <em>дасöтiсь</em>
-* `EMPTY` (88): <em>кыдз, ни, сэсся, кӧр, сё, талун, чожа, эшӧ, кынымкӧ, кытӧн</em>
+* `Dist,Mult` (2; 40% of non-empty `NumType`): <em>кыкисьӧн, кыкисьӧн-куимисьӧн</em>
+* `Mult,Ord` (2; 40% of non-empty `NumType`): <em>дасöтiсь</em>
+* `EMPTY` (89): <em>кыдз, ни, сэсся, кытӧн, кӧр, сё, талун, чожа, эшӧ, кынымкӧ</em>
 
 ### `ADJ`
 
@@ -63,5 +66,5 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Sets` (1; 100% of non-empty `NumType`): <em>кыкнаннысӧ</em>
-* `EMPTY` (109): <em>сія, ме, тэ, менам, мый, сійӧ, тэнат, Сiя, меным, сылӧ</em>
+* `EMPTY` (108): <em>сія, ме, тэ, менам, мый, сійӧ, тэнат, Сiя, меным, сылӧ</em>
 

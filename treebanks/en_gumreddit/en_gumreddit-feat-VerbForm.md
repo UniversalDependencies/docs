@@ -32,7 +32,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 1182 <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="en_gumreddit-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (762; 64%), <tt><a href="en_gumreddit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (624; 53%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="en_gumreddit-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (762; 64%), <tt><a href="en_gumreddit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (624; 53%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (592; 50%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 

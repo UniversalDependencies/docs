@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-6641 tokens (12%) have a non-empty value of `Mood`.
-2592 types (22%) occur at least once with a non-empty value of `Mood`.
+6643 tokens (12%) have a non-empty value of `Mood`.
+2593 types (22%) occur at least once with a non-empty value of `Mood`.
 1101 lemmas (20%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (4797; 9% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (1844; 3% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (4799; 9% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (1844; 3% instances).
 
 ### `VERB`
 
-4797 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Mood`.
+4799 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4797; 100%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4797; 100%), <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (4797; 100%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4797; 100%), <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4071; 85%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4034; 84%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=3</tt> (3777; 79%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3584; 75%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3344; 70%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4799; 100%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4799; 100%), <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (4799; 100%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4799; 100%), <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4073; 85%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4036; 84%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=3</tt> (3777; 79%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3586; 75%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3346; 70%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (66; 1% of non-empty `Mood`): <em>dic, nolite, venite, Vade, ades, age, parcite, respice, Assumite, Audi</em>
+* `Imp` (68; 1% of non-empty `Mood`): <em>dic, nolite, venite, Vade, ades, age, parcite, puta, respice, Assumite</em>
 * `Ind` (3651; 76% of non-empty `Mood`): <em>potest, patet, habet, dicimus, videtur, dicit, dico, oportet, dicitur, dicunt</em>
 * `Sub` (1080; 23% of non-empty `Mood`): <em>possit, posset, habeat, fiat, sequeretur, habeant, possint, videatur, consideremus, consideretur</em>
-* `EMPTY` (3427): <em>consequens, habere, dictum, sciendum, facere, fieri, dici, dicere, existente, posse</em>
+* `EMPTY` (3431): <em>consequens, habere, dictum, sciendum, facere, fieri, dici, dicere, existente, posse</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -99,14 +99,14 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (705; 77%),
+<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (706; 77%),
 <tt>VERB --[<tt><a href="la_udante-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> VERB</tt> (44; 52%),
 <tt>VERB --[<tt><a href="la_udante-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (36; 67%),
 <tt>VERB --[<tt><a href="la_udante-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (25; 81%),
-<tt>VERB --[<tt><a href="la_udante-dep-cop-outer.html">cop:outer</a></tt>]--> AUX</tt> (10; 63%),
+<tt>VERB --[<tt><a href="la_udante-dep-cop-outer.html">cop:outer</a></tt>]--> AUX</tt> (12; 60%),
 <tt>VERB --[<tt><a href="la_udante-dep-parataxis-reporting.html">parataxis:reporting</a></tt>]--> VERB</tt> (5; 63%),
 <tt>AUX --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="la_udante-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (2; 100%),
-<tt>AUX --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (1; 100%).
+<tt>VERB --[<tt><a href="la_udante-dep-dislocated-ccomp.html">dislocated:ccomp</a></tt>]--> VERB</tt> (2; 67%),
+<tt>AUX --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%).
 

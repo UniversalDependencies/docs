@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="myv_jr-dep-nsubj.ht
 81 nodes (0%) are attached to their parents as `nsubj:cop`.
 
 68 instances of `nsubj:cop` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.14814814814815.
+Average distance between parent and child is 2.16049382716049.
 
-The following 18 pairs of parts of speech are connected with `nsubj:cop`: <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (27; 33% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (9; 11% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (7; 9% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (7; 9% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (5; 6% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (4; 5% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (4; 5% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 18 pairs of parts of speech are connected with `nsubj:cop`: <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (27; 33% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (10; 12% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (7; 9% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (7; 9% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (5; 6% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (4; 5% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (4; 5% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 18 pairs of parts of speech are connected with `nsubj:cop`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nsubj:cop	color:blue
-1	Курок	курок	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Sem/Time_dur
+1	Курок	курок	ADV	Adv	AdvType=Tim	3	advmod	_	GTtags=Sem/Time_dur
 2	чакшось	чакш	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	nsubj:cop	_	GTtags=Sem/Inanim_Cnt,Sg,Nom,Def
 3	аноколь	анок	ADJ	A	Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Prt2,Sg3|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	3	punct	_	_
@@ -31,14 +31,19 @@ The following 18 pairs of parts of speech are connected with `nsubj:cop`: <tt><a
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 1 nsubj:cop	color:blue
-1	Кисканзо	киска	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	2	nsubj:cop	_	GTtags=Pl,Nom,PxSg3
-2	ушосот	ушосо	NOUN	N	Case=Ine|Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Spat,Ine|SpaceAfter=No
-3	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 nsubj:cop	color:blue
+1	Те	те	DET	Det	Case=Nom|Number=Sing|PronType=Dem	2	det	_	CGdephead=#1-&gt;2|CGdeprel=@&gt;N|CGdephead=#1-&gt;2|CGdeprel=@&gt;N|GTtags=Dem,Sg,Nom
+2	сёрмась	сёрма	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj:cop	_	CGdephead=#2-&gt;7|CGdeprel=@SUBJ|CGdephead=#2-&gt;7|CGdeprel=@SUBJ|GTtags=Sg,Nom,Def
+3	Петрань	Петра	PROPN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	4	nmod	_	CGdephead=#3-&gt;4|CGdeprel=@&gt;N|CGdephead=#3-&gt;4|CGdeprel=@&gt;N|GTtags=Prop,SP,Gen,Indef
+4	пельде	пеле	NOUN	N	Case=Abl|NounType=Relat	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@X|CGdephead=#4-&gt;0|CGdeprel=@X|GTtags=Relat,Abl|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	7	punct	_	CGdephead=#5-&gt;4|CGdeprel=@X|CGdephead=#5-&gt;4|CGdeprel=@X|GTtags=CLB
+6	исяк	исяк	NOUN	Adv	AdvType=Tim|Case=Nom|Definite=Ind|Number=Sing	7	obl:tmod	_	CGdephead=#6-&gt;7|CGdeprel=@ADVL&gt;|CGdephead=#6-&gt;7|CGdeprel=@ADVL&gt;|GTtags=
+7	кандызь	кандомс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past	3	parataxis	_	CGdephead=#7-&gt;0|CGdeprel=@FMV|CGdephead=#7-&gt;0|CGdeprel=@FMV|GTtags=Ind,Prt1,ScPl3,OcPl3|SpaceAfter=No
+8	.	.	PUNCT	CLB	_	4	punct	_	CGdephead=#8-&gt;7|CGdeprel=@X|CGdephead=#8-&gt;7|CGdeprel=@X|GTtags=CLB
 
 ~~~
 

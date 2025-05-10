@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="la_llct-pos-ADV.htm
 
 27 <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `ADV` and `Form` co-occurred: <tt><a href="la_llct-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (26; 96%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (26; 96%).
+The most frequent other feature values with which `ADV` and `Form` co-occurred: <tt><a href="la_llct-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="la_llct-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (26; 96%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (26; 96%).
 
 `ADV` tokens may have the following values of `Form`:
 

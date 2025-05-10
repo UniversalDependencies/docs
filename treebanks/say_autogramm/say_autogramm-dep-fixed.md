@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-105 nodes (1%) are attached to their parents as `fixed`.
+95 nodes (1%) are attached to their parents as `fixed`.
 
-105 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.13333333333333.
+95 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.10526315789474.
 
-The following 32 pairs of parts of speech are connected with `fixed`: <tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt> (24; 23% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt> (12; 11% instances), <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-X.html">X</a></tt> (10; 10% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (5; 5% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-PART.html">PART</a></tt> (5; 5% instances), <tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt> (4; 4% instances), <tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt> (3; 3% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt> (3; 3% instances), <tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="say_autogramm-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="say_autogramm-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="say_autogramm-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-DET.html">DET</a></tt>-<tt><a href="say_autogramm-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-DET.html">DET</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 31 pairs of parts of speech are connected with `fixed`: <tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt> (24; 25% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt> (12; 13% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (5; 5% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-PART.html">PART</a></tt> (5; 5% instances), <tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt> (4; 4% instances), <tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt> (3; 3% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt> (3; 3% instances), <tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="say_autogramm-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="say_autogramm-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="say_autogramm-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-DET.html">DET</a></tt>-<tt><a href="say_autogramm-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-DET.html">DET</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 32 pairs of parts of speech are connected with `fixed`: <tt><a hre
 7	tə́	_	AUX	á	Aspect=Aor|Number=Plur|Person=3	8	aux	_	AlignBegin=252161|AlignEnd=252344|Gloss=3Plur.Aor
 8	lǎːp	láːp	VERB	_	_	6	parataxis	_	AlignBegin=252344|AlignEnd=252436|Gloss=follow
 9	=kə	=kə	PRON	_	Number=Sing|Person=2|PronType=Prs	8	obj	_	AlignBegin=252436|AlignEnd=252527|Gloss=2Sing.Obj
-10	ɗa	ɗa	ADP	_	_	12	case	_	AlignBegin=252527|AlignEnd=252710|Gloss=at|Idiom=Yes
+10	ɗa	ɗa	ADP	_	ExtPos=ADP	12	case	_	AlignBegin=252527|AlignEnd=252710|Gloss=at|Idiom=Yes
 11	gìp	gìp	ADP	_	_	10	fixed	_	AlignBegin=252710|AlignEnd=252893|Gloss=inside|InIdiom=Yes
 12	vìːnì	vìːn	NOUN	_	Definite=Ind	8	obl:arg	_	AlignBegin=252893|AlignEnd=252985|Gloss=room.IND
 13	//	//	PUNCT	_	_	6	punct	_	AlignBegin=253076|AlignEnd=253260|Gloss=PUNCT
@@ -52,7 +52,7 @@ The following 32 pairs of parts of speech are connected with `fixed`: <tt><a hre
 5	<	<	PUNCT	_	_	4	punct	_	AlignBegin=486756|AlignEnd=486935|Gloss=PUNCT
 6	myáː	_	AUX	yáː	Aspect=Imp|Number=Sing|Person=1	7	aux	_	AlignBegin=487284|AlignEnd=487461|Gloss=1Sing.Imp
 7	yel	yel	VERB	_	_	0	root	_	AlignBegin=487461|AlignEnd=487638|Gloss=see
-8	kàmán	kàmán	SCONJ	_	_	11	mark	_	AlignBegin=487638|AlignEnd=487815|Gloss=as|Idiom=Yes
+8	kàmán	kàmán	SCONJ	_	ExtPos=SCONJ	11	mark	_	AlignBegin=487638|AlignEnd=487815|Gloss=as|Idiom=Yes
 9	kutu	kutu	SCONJ	_	_	8	fixed	_	AlignBegin=487815|AlignEnd=487992|Gloss=if|InIdiom=Yes
 10	kətá	_	AUX	ta	Number=Sing|Person=2|Tense=Rem	11	aux	_	AlignBegin=487992|AlignEnd=488169|Gloss=2Sing.Rem
 11	su	su	VERB	_	_	7	ccomp	_	AlignBegin=488169|AlignEnd=488228|Gloss=return
@@ -64,27 +64,23 @@ The following 32 pairs of parts of speech are connected with `fixed`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 fixed	color:blue
-1	ɗan	ɗan	SCONJ	_	_	3	mark	_	AlignBegin=476239|AlignEnd=476424|Gloss=as
-2	á	_	AUX	á	Aspect=Aor|Number=Sing|Person=3	3	aux	_	AlignBegin=476424|AlignEnd=476609|Gloss=3Sing.Aor
-3	tûlíː	tul	VERB	_	_	13	advcl	_	AlignBegin=476609|AlignEnd=476794|Gloss=arrive|Resultative=Yes
-4	də̀n	də̀n	NOUN	_	_	3	dep	_	AlignBegin=476794|AlignEnd=476979|Gloss=house
-5	káwây	káwây	ADV	_	_	3	advmod	_	AlignBegin=476979|AlignEnd=477089|Gloss=merely
-6	<	<	PUNCT	_	_	3	punct	_	AlignBegin=477089|AlignEnd=477199|Gloss=PUNCT
-7	shi	shi	X	_	Foreign=Yes	13	discourse	_	AlignBegin=477199|AlignEnd=477309|Gloss=3Sing.M|Idiom=Yes|Lang=ha
-8	ke	ke	X	_	Foreign=Yes	7	fixed	_	AlignBegin=477309|AlignEnd=477419|Gloss=be|InIdiom=Yes|Lang=ha
-9	nan	nan	X	_	Foreign=Yes	7	fixed	_	AlignBegin=477419|AlignEnd=477529|Gloss=there|InIdiom=Yes|Lang=ha
-10	<	<	PUNCT	_	_	7	punct	_	AlignBegin=477529|AlignEnd=477639|Gloss=PUNCT
-11	séː	séː	ADV	_	_	13	advmod	_	AlignBegin=477639|AlignEnd=477774|Gloss=then
-12	á	_	AUX	á	Aspect=Aor|Number=Sing|Person=3	13	aux	_	AlignBegin=477774|AlignEnd=477909|Gloss=3Sing.Aor
-13	ɬə́	ɬə	VERB	_	_	0	root	_	AlignBegin=477909|AlignEnd=478044|Gloss=go|SVC=Yes
-14	mbút	mbút	VERB	_	_	13	compound	_	AlignBegin=478044|AlignEnd=478112|Gloss=lie_down
-15	=ni	=ni	PART	_	Aspect=Inch	14	compound:prt	_	AlignBegin=478112|AlignEnd=478179|Gloss=Inch
-16	//	//	PUNCT	_	_	13	punct	_	AlignBegin=478179|AlignEnd=478313|Gloss=PUNCT
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 fixed	color:blue
+1	kúmá	kúmá	PART	_	_	5	discourse	_	AlignBegin=243840|AlignEnd=244103|Gloss=also
+2	dóːlêː	dóːlêː	ADV	_	ExtPos=ADV	5	advmod	_	AlignBegin=244103|AlignEnd=244366|Gloss=necessary|Idiom=Yes
+3	séː	séː	ADV	_	_	2	fixed	_	AlignBegin=244366|AlignEnd=244672|Gloss=only|InIdiom=Yes
+4	yǎː	_	AUX	yáː	Mood=Cnd|Number=Plur|Person=3	5	aux	_	AlignBegin=244672|AlignEnd=244978|Gloss=3Plur.Cnd
+5	*kap-íː	kap	VERB	_	_	0	root	_	AlignBegin=244978|AlignEnd=245054|Gloss=take-Res|Result=Yes
+6	=mí	=mí	PRON	_	Number=Plur|Person=1|PronType=Prs	5	obj	_	AlignBegin=245054|AlignEnd=245130|Gloss=1Plur.Obj
+7	=wôpm	=wopm	PRON	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	obl	_	AlignBegin=245130|AlignEnd=245206|Gloss=1Plur.Gen.Res|Result=Yes
+8	bát	bét	ADV	_	_	6	appos	_	AlignBegin=245284|AlignEnd=245400|Gloss=all
+9	=wôpm	=wopm	PRON	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	obl	_	AlignBegin=245400|AlignEnd=245517|Gloss=1Plur.Gen
+10	tə́	tə́	ADP	_	_	11	case	_	AlignBegin=245517|AlignEnd=245750|Gloss=with
+11	dàːʃès	dàːʃì	PRON	_	Definite=Def	5	obl:arg	_	AlignBegin=245750|AlignEnd=245866|Gloss=person.Def
+12	//	//	PUNCT	_	_	5	punct	_	AlignBegin=245983|AlignEnd=246216|Gloss=PUNCT
 
 ~~~
 

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-9478 tokens (9%) have a non-empty value of `Degree`.
-3848 types (19%) occur at least once with a non-empty value of `Degree`.
-1432 lemmas (19%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (6728; 6% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (2748; 2% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+9486 tokens (9%) have a non-empty value of `Degree`.
+3850 types (19%) occur at least once with a non-empty value of `Degree`.
+1428 lemmas (19%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 3 part-of-speech tags: <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (6733; 6% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (2751; 2% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 ### `ADJ`
 
-6728 <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> tokens (91% of all `ADJ` tokens) have a non-empty value of `Degree`.
+6733 <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> tokens (91% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="orv_ruthenian-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5911; 88%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4663; 69%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4200; 62%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="orv_ruthenian-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5916; 88%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4667; 69%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4204; 62%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (90; 1% of non-empty `Degree`): <em>болши, лепшому, бол(ь)ши, большое, лепшого, лепшомꙋ, лепъшому, лепъшомꙋ, бол(ь)шое, большьши</em>
-* `Pos` (6597; 98% of non-empty `Degree`): <em>великии, полоцкии, полоцкого, милым, полоцког(о), Бож(ъ)ю, ризког(о), великого, полоцких, ризкого</em>
+* `Pos` (6602; 98% of non-empty `Degree`): <em>великии, полоцкии, полоцкого, милым, полоцког(о), Бож(ъ)ю, ризког(о), великого, полоцких, ризкого</em>
 * `Sup` (41; 1% of non-empty `Degree`): <em>ѡхотнеишого, ближшии, ближьшимъ, вы(ш)шого, лацнейшую, лѣпшаѧ, на(й)ме(н)шо(и), навышшыи, нагоршаѧ, наивышему</em>
-* `EMPTY` (648): <em>14, 12, 9, 13, 11, 2, 6, 5, 15, 10</em>
+* `EMPTY` (644): <em>14, 12, 9, 13, 11, 2, 6, 5, 15, 10</em>
 
 <table>
   <tr><th>Paradigm <i>болший</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>
@@ -44,24 +44,24 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>бол(ь)шых</em></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (1044) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (1040) occur only with one value of `Degree`.
 
 ### `ADV`
 
-2748 <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> tokens (100% of all `ADV` tokens) have a non-empty value of `Degree`.
+2751 <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> tokens (100% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (173; 6% of non-empty `Degree`): <em>вышеи, налепеи, выше, болши, вышей, далеи, далей, первеи, боле, дале</em>
-* `Pos` (2575; 94% of non-empty `Degree`): <em>какъ, как, там, теж, вечно, тежъ, потомъ, такъ, тамъ, тогды</em>
-* `EMPTY` (9): <em>тежъ, бѣрие, доброволне, любо, потолѧ, та(к̑), теж, ѡчивисте</em>
+* `Pos` (2578; 94% of non-empty `Degree`): <em>какъ, как, там, теж, вечно, тежъ, потомъ, такъ, тамъ, тогды</em>
+* `EMPTY` (5): <em>тежъ, потолѧ, та(к̑), теж</em>
 
 <table>
   <tr><th>Paradigm <i>первей</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>
   <tr><td><tt></tt></td><td><em>первей</em></td><td><em>первеи, первей, пѣрвѣи, перъвеи, пѣрвеи</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 98% lemmas (380) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 98% lemmas (381) occur only with one value of `Degree`.
 
 ### `NUM`
 

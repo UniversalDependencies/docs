@@ -10,8 +10,8 @@ This relation is universal.
 
 2026 nodes (3%) are attached to their parents as `cc`.
 
-2002 instances of `cc` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.55231984205331.
+2001 instances of `cc` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.51678183613031.
 
 The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (948; 47% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (654; 32% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (178; 9% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (125; 6% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (37; 2% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (33; 2% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (22; 1% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (18; 1% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="el_gdt-pos-PART.html">PART</a></tt>-<tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
@@ -66,16 +66,16 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 cc	color:blue
-1	Όμως	όμως	ADV	ADV	_	4	cc	_	_
-2	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+1	Όμως	όμως	ADV	ADV	_	2	cc	_	_
+2	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	να	να	AUX	AUX	_	4	aux	_	_
-4	γίνει	γίνομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	γίνει	γίνομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	2	csubj	_	_
 5	σε	σε	ADP	ADP	_	9	case	_	_
 6	ανοικτή	ανοιχτός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	9	amod	_	_
 7	και	και	CCONJ	CCONJ	_	8	cc	_	_
 8	συνεκτική	συνεκτικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	6	conj	_	_
 9	βάση	βάση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
-10	.	.	PUNCT	PUNCT	_	4	punct	_	_
+10	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

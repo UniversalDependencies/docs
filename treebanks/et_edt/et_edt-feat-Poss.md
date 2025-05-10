@@ -18,12 +18,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="et_edt-pos-PRON.htm
 
 1599 <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> tokens (7% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="et_edt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1599; 100%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1596; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1579; 99%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1444; 90%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="et_edt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1599; 100%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1596; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1578; 99%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1441; 90%).
 
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (1599; 100% of non-empty `Poss`): <em>oma, omal, omad, omaks, omaenda, omaga, omalt, omast, omas, omadega</em>
-* `EMPTY` (21207): <em>ta, see, mis, ma, kes, seda, tema, mida, nad, selle</em>
+* `EMPTY` (21214): <em>ta, see, mis, ma, kes, seda, tema, mida, nad, selle</em>
 
 ## Relations with Agreement in `Poss`
 

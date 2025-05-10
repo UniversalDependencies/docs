@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `flat:repeat`: <tt><
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 12 flat:repeat	color:blue
-1	Будь	бути	VERB	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+1	Будь	бути	VERB	VERB	Aspect=Imp|ExtPos=INTJ|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	ласка	ласка	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	4	punct	_	_
 4	Давид	Давид	PROPN	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	1	vocative	_	_
@@ -34,7 +34,7 @@ The following 1 pairs of parts of speech are connected with `flat:repeat`: <tt><
 9	народу	народ	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
 10	"	"	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	12	punct	_	_
-12	будь	бути	VERB	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	flat:repeat	_	_
+12	будь	бути	VERB	VERB	Aspect=Imp|ExtPos=INTJ|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	flat:repeat	_	_
 13	ласка	ласка	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	fixed	_	SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	1	punct	_	_
 

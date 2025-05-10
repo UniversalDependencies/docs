@@ -65,8 +65,8 @@ The following 23 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 8 3 discourse	color:blue
 1	Co	co	PRON	PQ--1----------	Animacy=Inan|Case=Nom|PronType=Int,Rel	8	nsubj	8:nsubj	_
 2	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	8	expl:pv	8:expl:pv	_
-3	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	discourse	8:discourse	_
-4	tam	tam	ADV	Db-------------	PronType=Dem	8	advmod	8:advmod	_
+3	to	ten	DET	PDNS1----------	Case=Nom|ExtPos=ADJ|Gender=Neut|Number=Sing|PronType=Dem	8	discourse	8:discourse	_
+4	tam	tam	ADV	Db-------------	PronType=Dem	3	fixed	3:fixed	_
 5	takhle	takhle	ADV	Db-------------	_	8	advmod	8:advmod	_
 6	po	po	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	7:case	_
 7	ránu	ráno	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing	8	obl	8:obl:po:loc	_

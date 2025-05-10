@@ -32,7 +32,7 @@ The following 22 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 8	de	de	ADP	_	_	9	case	_	_
 9	France	France	PROPN	_	_	4	nmod	_	_
 10	porter	porter	VERB	_	VerbForm=Inf	2	xcomp	_	Subject=ObjRaising
-11	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	12	det	_	_
+11	son	son	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	12	det	_	_
 12	nom	nom	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
 13	:	:	PUNCT	_	_	2	punct	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	_
@@ -71,7 +71,7 @@ The following 22 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 2	junk-food	junk-food	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
 3	rend	rendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	aussi	aussi	ADV	_	_	5	advmod	_	_
-5	accro	accro	ADJ	_	Gender=Masc|Number=Sing	3	xcomp	_	_
+5	accro	accro	ADJ	_	Number=Sing	3	xcomp	_	Gender[ctxt]=Masc
 6	que	que	SCONJ	_	_	8	case	_	_
 7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
 8	drogues	drogue	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_

@@ -22,17 +22,17 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 
 `NOUN` tokens may have the following values of `Degree`:
 
-* `Dim` (3; 100% of non-empty `Degree`): <em>'Watébrémire, ba'õtõre, watsu'ure</em>
-* `EMPTY` (370): <em>marĩ, aibö, 'watébrémi, pi'õ, a'uwẽ, buru, wapté, ba'õtõ, bötö, Mare</em>
+* `Dim` (3; 100% of non-empty `Degree`): <em>'Watébrémire, ba'õtõre, wasu'ure</em>
+* `EMPTY` (454): <em>aibö, marĩ, 'watébrémi, buru, a'uwẽ, pi'õ, wapté, ba'õtõ, bötö, warazu</em>
 
 ### `PART`
 
 3 <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PART` and `Degree` co-occurred: <tt><a href="xav_xdt-feat-Htp.html">Htp</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `PART` and `Degree` co-occurred: <tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 100%).
 
 `PART` tokens may have the following values of `Degree`:
 
 * `Dim` (3; 100% of non-empty `Degree`): <em>re, reb</em>
-* `EMPTY` (379): <em>te, dza'ra, ma, e, hã, wa, norĩ, õ, dza, norĩhã</em>
+* `EMPTY` (318): <em>za'ra, hã, e, ma, za, õ, norĩ, tô, norĩhã, aba</em>
 

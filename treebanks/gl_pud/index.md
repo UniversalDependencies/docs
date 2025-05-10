@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Albina Sarymsakova, Xulia Sánchez-Rodríguez, Marcos Garcia.
 
 Repository: [UD_Galician-PUD](https://github.com/UniversalDependencies/UD_Galician-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_pud215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_pud216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -44,7 +44,7 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-The Galician PUD is a treebank for Galician developed at CiTIUS (Universidade de Santiago de Compostela).
+The Galician PUD is a treebank for Galician developed at CiTIUS (Universidade de Santiago de Compostela). It follows the annotation guidelines of [Galician-TreeGal](https://github.com/UniversalDependencies/UD_Galician-TreeGal).
 
 
 
@@ -55,6 +55,8 @@ Additional languages have been provided (both translation and native UD v2 annot
 The entire treebank is labeled as test set (and was used for testing in the shared task). If it is used for training in future research, the users should employ ten-fold cross-validation.
 
 The linguistic annotation was first carried out using state-of-the-art NLP tools for Galician, and then reviewed by two experts, achieving a high inter-annotator agreement.
+
+Note: As in the [Galician-TreeGal treebank](https://github.com/UniversalDependencies/UD_Galician-TreeGal), the [fixed](https://universaldependencies.org/u/dep/fixed.html) dependency relation is used not only for fixed expressions but also for other conventional multiword expressions. This will be corrected in further versions.
 
 ## Acknowledgments
 
@@ -99,7 +101,7 @@ pages = "587--592",
 
 ## Features
 
-[AdpType](gl_pud-feat-AdpType.html) – [Case](gl_pud-feat-Case.html) – [Definite](gl_pud-feat-Definite.html) – [Foreign](gl_pud-feat-Foreign.html) – [Gender](gl_pud-feat-Gender.html) – [Mood](gl_pud-feat-Mood.html) – [Number](gl_pud-feat-Number.html) – [Number[psor]](gl_pud-feat-Number-psor.html) – [NumType](gl_pud-feat-NumType.html) – [Person](gl_pud-feat-Person.html) – [Polarity](gl_pud-feat-Polarity.html) – [Poss](gl_pud-feat-Poss.html) – [PronType](gl_pud-feat-PronType.html) – [Tense](gl_pud-feat-Tense.html) – [VerbForm](gl_pud-feat-VerbForm.html)
+[AdpType](gl_pud-feat-AdpType.html) – [Case](gl_pud-feat-Case.html) – [Clitic](gl_pud-feat-Clitic.html) – [Definite](gl_pud-feat-Definite.html) – [ExtPos](gl_pud-feat-ExtPos.html) – [Foreign](gl_pud-feat-Foreign.html) – [Gender](gl_pud-feat-Gender.html) – [Mood](gl_pud-feat-Mood.html) – [Number](gl_pud-feat-Number.html) – [Number[psor]](gl_pud-feat-Number-psor.html) – [NumType](gl_pud-feat-NumType.html) – [Person](gl_pud-feat-Person.html) – [Polarity](gl_pud-feat-Polarity.html) – [Poss](gl_pud-feat-Poss.html) – [PronType](gl_pud-feat-PronType.html) – [Tense](gl_pud-feat-Tense.html) – [VerbForm](gl_pud-feat-VerbForm.html)
 
 ## Relations
 
@@ -109,11 +111,11 @@ pages = "587--592",
 
 
 <ul>
-<li>This corpus contains 1000 sentences, 21835 tokens and 23509 syntactic words.</li>
+<li>This corpus contains 1000 sentences, 21832 tokens and 23510 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2603 tokens (12%) that are not followed by a space.</li>
+<li>This corpus contains 2600 tokens (12%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -125,8 +127,8 @@ pages = "587--592",
 </ul>
 
 <ul>
-<li>This corpus contains 1668 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 184 types of multi-word tokens. Examples: do, da, no, na, ao, dos, á, das, nos, polo, co, nun, dunha, nas, ás, coa, dun, nunha, pola, aos, coas, cos, polas, cun, deste, desta, doutra, atópase, cunha, neste, polos, pódese, del, deles, destes, pódense, doutro, facelo, fíxose, naquela, nese, nesta, velo, atópanse, destas, diso, disto, díxolle, enfróntase, espérase.</li>
+<li>This corpus contains 1672 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 185 types of multi-word tokens. Examples: do, da, no, na, ao, dos, á, das, nos, polo, co, nun, dunha, nas, ás, coa, dun, nunha, pola, aos, coas, cos, polas, cun, deste, desta, doutra, atópase, cunha, neste, polos, pódese, del, deles, destes, pódense, doutro, facelo, fíxose, naquela, nese, nesta, velo, atópanse, converteuse, destas, diso, disto, díxolle, enfróntase.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -270,7 +272,7 @@ pages = "587--592",
       <li>PRON: eles, nos, lles, os, ambos, estes, outros, cales, moitas, que</li>
       <li>VERB: teñen, inclúen, tiñan, acabaron, están, tiveron, adoitan, afirman, atopan, baseadas</li>
       <li>VERB-Fin: Están, observan</li>
-      <li>VERB-Inf: cumpriren, asumiren, desempeñaren, realizaren, superaren, xurdiren</li>
+      <li>VERB-Inf: cumpriren, asumiren, desempeñaren, formaren, realizaren, superaren, xurdiren</li>
       <li>VERB-Part: baseadas, incluídos, localizadas, mediados, coñecidas, involucrados, liderados, perdidas, presentados, procedentes</li>
     </ul>
   </li>
@@ -581,7 +583,7 @@ pages = "587--592",
       <li>PRON: se, lle, o, el, ela, eles, a, lles, os, si</li>
       <li>VERB: hai, dixo, ten, tivo, comezou, fixo, declarou, é, afirmou, converteu</li>
       <li>VERB-Fin: Están, observan, parece, permite, pilota</li>
-      <li>VERB-Inf: cumpriren, asumiren, desempeñaren, realizaren, superaren, xurdiren</li>
+      <li>VERB-Inf: cumpriren, asumiren, desempeñaren, formaren, realizaren, superaren, xurdiren</li>
     </ul>
   </li>
 </ul>
@@ -624,6 +626,69 @@ pages = "587--592",
 </ul>
 
 <ul>
+  <li><a>Clitic</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>PRON: se</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>ADJ: maiores, per</li>
+          <li>NOUN: número</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADJ: xunto</li>
+          <li>ADP: a, en, cara, por, De, acerca, con, para</li>
+          <li>ADV: alén, antes, Aínda, despois, xunto</li>
+          <li>NOUN: cara, grazas, fronte, respecto</li>
+          <li>VERB-Part: debido</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: por, con, a, de, en, sobre</li>
+          <li>ADV: Mentres, hoxe, despois, Antes, Aínda, cerca, dentro, máis, preto, Non</li>
+          <li>DET: Unha, un</li>
+          <li>NOUN: cara</li>
+          <li>SCONJ: Se</li>
+          <li>VERB: Pode, hai</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADV: así</li>
+          <li>CCONJ: así, senón</li>
+          <li>SCONJ: mentres</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>PRON: si</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: por, a, até, de, para</li>
+          <li>ADV: xa, aínda, así, despois, mentres, antes</li>
+          <li>SCONJ: aínda, despois, ata, como, mentres</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -656,7 +721,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (545)</li>
       <li>VERB--NOUN-ADP(a) (4)</li>
-      <li>VERB--PRON (242)</li>
+      <li>VERB--PRON (243)</li>
       <li>VERB--PRON-ADP(a) (2)</li>
       <li>VERB--PRON-ADP(con) (1)</li>
       <li>VERB--PRON-ADP(para) (1)</li>

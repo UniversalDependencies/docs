@@ -94,12 +94,11 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (156; 89%),
-<tt>VERB --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (43; 70%),
+<tt>VERB --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (44; 71%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (35; 59%),
 <tt>AUX --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (4; 100%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>AUX --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="cs_poetry-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (1; 100%).
 

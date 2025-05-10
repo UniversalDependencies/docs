@@ -7,53 +7,42 @@ udver: '2'
 ## Treebank Statistics: UD_Ottoman_Turkish-DUDU: Relations: `compound:lvc`
 
 This relation is a language-specific subtype of <tt><a href="ota_dudu-dep-compound.html">compound</a></tt>.
+There are also 1 other language-specific subtypes of `compound`: <tt><a href="ota_dudu-dep-compound-redup.html">compound:redup</a></tt>.
 
-9 nodes (1%) are attached to their parents as `compound:lvc`.
+518 nodes (5%) are attached to their parents as `compound:lvc`.
 
-7 instances of `compound:lvc` (78%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+504 instances of `compound:lvc` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.20656370656371.
 
-The following 3 pairs of parts of speech are connected with `compound:lvc`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (6; 67% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (2; 22% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 11% instances).
+The following 4 pairs of parts of speech are connected with `compound:lvc`: <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (391; 75% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (125; 24% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 compound:lvc	color:blue
-1	zîrâ	zîrâ	CCONJ	_	_	9	cc	_	_
-2	ḥaḳîḳatde	ḥaḳîḳat	NOUN	_	Case=Loc|Number=Sing|Person=3	5	obl	_	_
-3	bir	bir	DET	Indef	_	4	det	_	_
-4	şeyʾi	şeyʾ	NOUN	_	Case=Acc|Number=Sing|Person=3	5	obj	_	_
-5	idrâk	idrâk	NOUN	_	Case=Nom|Number=Sing|Person=3	9	nsubj	_	_
-6	itmek	et	VERB	Vnoun	Case=Nom|Number=Sing|Person=3|Polarity=Pos	5	compound:lvc	_	_
-7	ol	ol	DET	Demons	_	8	det	_	_
-8	şeyʾe	şeyʾ	NOUN	_	Case=Dat|Number=Sing|Person=3	9	obl	_	_
-9	yetişmekdür	yetiş	VERB	Vnoun	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	0	root	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 compound:lvc	color:blue
+1	ṭaʿâmı	ṭaʿâm	NOUN	_	Case=Acc|Number=Sing|Person=3	2	obj	_	_
+2	hażm	hażm	NOUN	_	Case=Nom|Number=Sing|Person=3	3	compound:lvc	_	_
+3	itdirir	et	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Cau	0	root	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 12 compound:lvc	color:blue
-1	zîrâ	zîrâ	CCONJ	_	_	13	mark	_	_
-2	bu	bu	DET	_	Definite=Def|PronType=Art	4	det	_	_
-3	ṭarîḳ-i	ṭarîḳ	NOUN	_	_	13	acl	_	_
-4	muʿammâda	muʿammâ	ADJ	_	Case=Loc|Number=Sing|Person=3	3	obl	_	_
-5	bir	bir	DET	_	Definite=Ind|PronType=Art	6	det	_	_
-6	kelimeniñ	kelime	NOUN	_	Case=Gen|Number=Sing|Person=3	7	nmod	_	_
-7	âḫirine	âḫir	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	obl	_	_
-8	gelen	gel	ADJ	_	_	9	acl	_	_
-9	ḥarfe	ḥarf	NOUN	_	Case=Dat|Number=Sing|Person=3	10	nmod	_	_
-10	ayaġı	ayak	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	13	obl	_	_
-11	diyü	diye	ADP	_	_	10	case	_	_
-12	ẕikr	ẕikr	NOUN	_	Case=Nom|Number=Sing|Person=3	13	compound:lvc	_	_
-13	olunur	ol	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 compound:lvc	color:blue
+1	oġuz	oġuz	NOUN	_	Case=Nom|Number=Sing|Person=3	2	nmod	_	_
+2	begleri	beg	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	4	nsubj	_	_
+3	bunı	bu	PRON	Demons	Case=Acc|Number=Sing|Person=3|PronType=Dem	4	obj	_	_
+4	eşitdiler	eşit	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+5	şâd	şâd	ADJ	Adj	_	7	compound:lvc	_	_
+6	olup	ol	VERB	Conv	Polarity=Pos|VerbForm=Conv	7	advcl	_	_
+7	sevindiler	sevin	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	4	conj	_	_
 
 ~~~
 
@@ -65,25 +54,25 @@ The following 3 pairs of parts of speech are connected with `compound:lvc`: <tt>
 # visual-style 8	fgColor:white
 # visual-style 8 9 compound:lvc	color:blue
 1	türkçemiz	türkçe	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=1	3	nsubj	_	_
-2	bir	bir	DET	Indef	_	3	det	_	_
+2	bir	bir	DET	Indef	Definite=Ind|PronType=Art	3	det	_	_
 3	lisân	lisân	NOUN	_	Case=Nom|Number=Sing|Person=3	17	advcl	_	_
-4	dır	i	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	2	cop	_	_
-5	ki	ki	CCONJ	_	_	3	mark	_	SpaceAfter=No
+4	dır	i	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
+5	ki	ki	SCONJ	_	_	3	mark	_	SpaceAfter=No
 6	,	,	PUNCT	Comma	_	17	punct	_	_
-7	bi'l-ḳuvve	bi'l-ḳuvve	ADV	Adverb	_	8	advmod	_	_
+7	bi'l-ḳuvve	bi'l-ḳuvve	ADV	_	_	8	advmod	_	_
 8	şâmil	şâmil	ADJ	Ptcp	Case=Nom|Number=Sing|Person=3	10	acl	_	_
 9	olduġu	ol	VERB	Ptcp	Aspect=Perf|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	8	compound:lvc	_	_
-10	muḥassenâta	muḥassenât	NOUN	_	Case=Dat|Number=Plur|Person=3	17	nmod	_	_
+10	muḥassenâta	muḥassen	ADJ	NAdj	Case=Dat|Gender=Fem|Number=Plur|Person=3	17	nmod	_	_
 11	göre	göre	ADP	PCDat	_	10	case	_	SpaceAfter=No
 12	,	,	PUNCT	Comma	_	17	punct	_	_
-13	dünyâda	dünyâda	NOUN	_	Case=Loc|Number=Sing|Person=3	16	obl	_	_
-14	en	en	ADV	_	_	15	advmod	_	_
-15	birinci	bir	NUM	NNum	Case=Nom|Number=Sing|NumType=Ord|Person=3	16	amod	_	_
+13	dünyâda	dünyâ	NOUN	_	Case=Loc|Number=Sing|Person=3	16	obl	_	_
+14	en	en	ADV	_	Degree=Sup	15	advmod	_	_
+15	birinci	bir	NUM	ANum	NumType=Ord	16	nummod	_	_
 16	lisânlardan	lisân	NOUN	_	Case=Abl|Number=Plur|Person=3	17	nmod	_	_
-17	addolunmaġa	addol	VERB	Vnoun	Case=Dat|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun|Voice=Pass	0	root	_	_
-18	şâyân	şâyân	ADJ	Adj	Case=Nom|Number=Sing|Person=3	3	conj	_	_
-19	dır	i	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	17	cop	_	_
-20	.	.	PUNCT	Stop	_	17	punct	_	_
+17	addolunmaġa	addol	VERB	Vnoun	Case=Dat|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun|Voice=Pass	18	xcomp	_	_
+18	şâyân	şâyân	ADJ	Adj	_	0	root	_	_
+19	dır	i	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	18	cop	_	_
+20	.	.	PUNCT	Stop	_	18	punct	_	_
 
 ~~~
 

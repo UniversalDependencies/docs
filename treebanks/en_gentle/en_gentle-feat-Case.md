@@ -11,7 +11,7 @@ It occurs with 3 different values: `Acc`, `Gen`, `Nom`.
 
 933 tokens (5%) have a non-empty value of `Case`.
 46 types (1%) occur at least once with a non-empty value of `Case`.
-23 lemmas (1%) occur at least once with a non-empty value of `Case`.
+22 lemmas (1%) occur at least once with a non-empty value of `Case`.
 The feature is used with 1 part-of-speech tags: <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (933; 5% instances).
 
 ### `PRON`
@@ -22,9 +22,9 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (177; 19% of non-empty `Case`): <em>it, me, you, him, them, her, us, thee, yourself, himself</em>
+* `Acc` (176; 19% of non-empty `Case`): <em>it, me, you, him, them, her, us, thee, yourself, himself</em>
 * `Gen` (234; 25% of non-empty `Case`): <em>his, my, your, its, our, her, their, you</em>
-* `Nom` (522; 56% of non-empty `Case`): <em>I, you, he, we, it, they, she, 't, him, Ii</em>
+* `Nom` (523; 56% of non-empty `Case`): <em>I, you, he, we, it, they, she, 't, him, Ii</em>
 * `EMPTY` (255): <em>that, what, which, this, there, who, nothing, something, thy, whom</em>
 
 <table>

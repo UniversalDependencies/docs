@@ -185,10 +185,10 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="ka_glc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4664; 68%),
-<tt>NOUN --[<tt><a href="ka_glc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3659; 64%),
+<tt>NOUN --[<tt><a href="ka_glc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3658; 64%),
 <tt>NOUN --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2432; 80%),
-<tt>NOUN --[<tt><a href="ka_glc-dep-det.html">det</a></tt>]--> PRON</tt> (665; 70%),
-<tt>NOUN --[<tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (640; 88%),
+<tt>NOUN --[<tt><a href="ka_glc-dep-det.html">det</a></tt>]--> PRON</tt> (666; 70%),
+<tt>NOUN --[<tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (642; 88%),
 <tt>ADJ --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (511; 100%),
 <tt>NOUN --[<tt><a href="ka_glc-dep-obl.html">obl</a></tt>]--> NOUN</tt> (460; 69%),
 <tt>ADJ --[<tt><a href="ka_glc-dep-obl.html">obl</a></tt>]--> NOUN</tt> (430; 77%),

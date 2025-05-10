@@ -37,7 +37,7 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 12	cidade	cidade	NOUN	_	Gender=Fem|Number=Sing	7	nmod	7:nmod:de	_
 13	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	14:aux:pass	_
 14	disputados	disputar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
-15	.	.	PUNCT	_	_	14	punct	14:punct	SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	14:punct	_
 
 ~~~
 

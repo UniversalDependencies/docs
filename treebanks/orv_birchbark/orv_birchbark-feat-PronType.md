@@ -26,7 +26,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Int` (13; 7% of non-empty `PronType`): <em>чемѹ, цему, цимъ, цому, цт<lbr/>о, цто, цьмѹ, цьто, цьтъ, ч[т]о</em>
 * `Prs` (79; 42% of non-empty `PronType`): <em>сѧ, (с)ѧ, [сѧ, мы, с(ѧ), сѧ]</em>
 * `Rel` (78; 41% of non-empty `PronType`): <em>что, цто, цето, цо, [ц]то, кто, чего, чето, чьто, [ц](ем)[ꙋ</em>
-* `EMPTY` (1076): <em>ми, тꙑ, ти, ѧ, мене, тобѣ, мнѣ, ѧзъ, мѧ, тѧ</em>
+* `EMPTY` (1075): <em>ми, тꙑ, ти, ѧ, мене, тобѣ, мнѣ, ѧзъ, мѧ, тѧ</em>
 
 <table>
   <tr><th>Paradigm <i>что</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
@@ -34,7 +34,8 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>что</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>чемѹ, цему, цому, цьмѹ</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>[ц](ем)[ꙋ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>чего</em></td><td><em>чего</em></td><td><em>цого, цего, цега</em></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>чего</em></td><td><em>чего</em></td><td><em>цего, цого, цега</em></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_birchbark-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt></tt></td><td></td><td></td><td><em>цого</em></td></tr>
   <tr><td><tt><tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>цимъ</em></td><td></td><td><em>цимо, чимо</em></td></tr>
   <tr><td><tt><tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td></td><td><em>цеме, цемъ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>что, цто, цето, [ц]то, цо, чьто, цьто, чьт[о</em></td><td><em>цто, цето, ць:то, цьто, что</em></td></tr>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="nl_lassysmall-dep-expl.html">expl</a></tt>.
 
-505 nodes (0%) are attached to their parents as `expl:pv`.
+500 nodes (0%) are attached to their parents as `expl:pv`.
 
-280 instances of `expl:pv` (55%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.71485148514852.
+275 instances of `expl:pv` (55%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.724.
 
-The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (504; 100% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (499; 100% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

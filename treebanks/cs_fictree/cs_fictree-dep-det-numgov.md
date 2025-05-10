@@ -46,7 +46,7 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 2	každém	každý	DET	PLIS6----1A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|PronType=Tot	3	det	3:det	_
 3	závanu	závan	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	7:obl:při:loc	_
 4	větru	vítr	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod:gen	_
-5	jich	on	PRON	PPIP2--3-------	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
+5	jich	on	PRON	PPIP2--3-------	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	7	nsubj	7:nsubj	_
 6	několik	několik	DET	Ca--1----------	Case=Nom|NumType=Card|PronType=Ind	5	det:numgov	5:det:numgov	_
 7	spadne	spadnout	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 8	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	9	case	9:case	_

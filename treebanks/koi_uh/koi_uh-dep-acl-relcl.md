@@ -23,19 +23,19 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 10	fgColor:white
 # visual-style 10 13 acl:relcl	color:blue
 1	Мортлӧ	морт	NOUN	N	Animacy=Anim|Case=Dat|Number=Sing	4	obl	_	GTtags=N,Sem/Ani,Sg,Dat
-2	пыр	пыр	ADV	Adv	_	4	advmod:tmod	_	GTtags=Adv
+2	пыр	пыр	ADV	Adv	AdvType=Tim	4	advmod	_	GTtags=Adv
 3	овлӧ	овлыны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	GTtags=V,IV,Ind,Prs,Sg3
 4	долыт	долыт	ADJ	A	_	0	root	_	GTtags=A|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	GTtags=CLB
-6	кӧр	кӧр	ADV	Adv	_	8	mark	_	GTtags=Adv
+6	кӧр	кӧр	ADV	Adv	AdvType=Tim	8	mark	_	GTtags=Adv
 7	сія	сія	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	GTtags=Pron,Pers,Sg3,Nom
-8	локтас	локны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	4	advcl:tcl	_	GTtags=V,Ind,Fut,Sg3
+8	локтас	локны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	4	advcl	_	GTtags=V,Ind,Fut,Sg3
 9	сэтшӧм	сэтшӧм	ADJ	Adn	PronType=Dem	10	amod	_	GTtags=Adn,Dem
-10	пельӧсокӧ	пельӧс	NOUN	N	Case=Ill|Degree=Dim|Number=Sing	8	obl:lmod	_	GTtags=N,Der/Ок,Der/Dimin,N,Sg,Ill|SpaceAfter=No
+10	пельӧсокӧ	пельӧс	NOUN	N	Case=Ill|Degree=Dim|Number=Sing	8	obl	_	GTtags=N,Der/Ок,Der/Dimin,N,Sg,Ill|SpaceAfter=No
 11	,	,	PUNCT	CLB	_	13	punct	_	GTtags=CLB
 12	кӧда	кӧда	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	13	nsubj	_	GTtags=Pron,Rel,Sg,Nom
 13	чужтӧ	чужтыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	acl:relcl	_	GTtags=V,TV,Ind,Prs,Sg3
-14	памятяс	памятяс	NOUN	_	_	13	obl:lmod	_	_
+14	памятяс	памятяс	NOUN	_	_	13	obl	_	_
 15	приятнӧй	приятнӧй	ADJ	A	_	16	amod	_	GTtags=A
 16	касьтылӧм	касьтылӧм	NOUN	N	Animacy=Inan|Case=Nom|Number=Sing	13	obj	_	GTtags=N,Sem/Inanim,Sg,Nom|SpaceAfter=No
 17	.	.	PUNCT	CLB	_	4	punct	_	GTtags=CLB
@@ -51,14 +51,14 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 10 14 acl:relcl	color:blue
 1	Сія	сія	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
 2	ӧвтыштіс	ӧвтыштны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
-3	мелань	ме	PRON	Pron	Case=Apr|Number=Sing|Person=1|PronType=Prs	2	obl:lmod	_	GTtags=Pers,Sg1,Apr
+3	мелань	ме	PRON	Pron	Case=Apr|Number=Sing|Person=1|PronType=Prs	2	obl	_	GTtags=Pers,Sg1,Apr
 4	кинас	ки	NOUN	N	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obl	_	GTtags=Sg,Ins,PxSg3|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	тшӧктіс	тшӧктыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Sg3
 7	онмӧссьыны	онмӧссьыны	VERB	V	VerbForm=Inf	6	xcomp:ds	_	GTtags=Inf
 8	и	и	CCONJ	CC	_	9	cc	_	_
 9	муніс	мунны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Sg3
-10	керку	керку	NOUN	N	Case=Nom|Number=Sing	9	obl:lmod	_	GTtags=Sg,Nom
+10	керку	керку	NOUN	N	Case=Nom|Number=Sing	9	obl	_	GTtags=Sg,Nom
 11	бокӧ	бокӧ	ADP	Adp	AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing	10	case	_	GTtags=Po,Spat,Sg,Ill|SpaceAfter=No
 12	,	,	PUNCT	CLB	_	14	punct	_	_
 13	кытӧн	кытӧн	ADV	Adv	AdvType=Loc|Case=Ine|PronType=Rel	14	mark	_	GTtags=Spat,Ine,Rel

@@ -59,7 +59,7 @@ The following 2 pairs of parts of speech are connected with `obl:float`: <tt><a 
 8	себє	себе	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	11	obl	_	wf="себе"
 9	тіє	тий	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	10	det	_	wf="тіе"
 10	слова	слово	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	11	obj	_	wf="слова"
-11	вирази(л)	виразити	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="виразил"|SpaceAfter=No
+11	вирази(л)	выразити	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="виразил"|SpaceAfter=No
 12	<.>	.	PUNCT	_	_	20	punct	_	wf="."|SpaceAfter=No
 13	,	,	PUNCT	_	_	20	punct	_	wf=","
 14	ижь	ижъ	SCONJ	_	_	20	mark	_	wf="ижь"

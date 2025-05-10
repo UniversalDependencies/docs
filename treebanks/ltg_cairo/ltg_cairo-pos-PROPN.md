@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latgalian-Cairo: POS Tags: `PROPN`
 
 There are 9 `PROPN` lemmas (8%), 11 `PROPN` types (9%) and 15 `PROPN` tokens (9%).
-Out of 12 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 4 in number of types and 5 in number of tokens.
+Out of 11 observed tags, the rank of `PROPN` is: 4 in number of lemmas, 4 in number of types and 5 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Pīters, Mareja, Brauna, Džeina, Fraņceja, Igvasu, Parize, Sems, Smits</em>
 

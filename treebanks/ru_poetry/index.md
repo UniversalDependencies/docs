@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Natalia Vlasova, Dmitri Sitchinava.
 
 Repository: [UD_Russian-Poetry](https://github.com/UniversalDependencies/UD_Russian-Poetry)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_poetry215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_poetry216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -78,7 +78,7 @@ et al. (eds.), Nacional’nyj korpus russkogo jazyka: 2006–2008. Novye rezul�
 
 ## Features
 
-[Abbr](ru_poetry-feat-Abbr.html) – [Animacy](ru_poetry-feat-Animacy.html) – [Aspect](ru_poetry-feat-Aspect.html) – [Case](ru_poetry-feat-Case.html) – [Degree](ru_poetry-feat-Degree.html) – [Foreign](ru_poetry-feat-Foreign.html) – [Gender](ru_poetry-feat-Gender.html) – [InflClass](ru_poetry-feat-InflClass.html) – [Mood](ru_poetry-feat-Mood.html) – [NameType](ru_poetry-feat-NameType.html) – [Number](ru_poetry-feat-Number.html) – [NumForm](ru_poetry-feat-NumForm.html) – [NumType](ru_poetry-feat-NumType.html) – [Person](ru_poetry-feat-Person.html) – [Polarity](ru_poetry-feat-Polarity.html) – [Poss](ru_poetry-feat-Poss.html) – [PronType](ru_poetry-feat-PronType.html) – [Reflex](ru_poetry-feat-Reflex.html) – [Tense](ru_poetry-feat-Tense.html) – [Typo](ru_poetry-feat-Typo.html) – [Variant](ru_poetry-feat-Variant.html) – [VerbForm](ru_poetry-feat-VerbForm.html) – [Voice](ru_poetry-feat-Voice.html)
+[Abbr](ru_poetry-feat-Abbr.html) – [Animacy](ru_poetry-feat-Animacy.html) – [Aspect](ru_poetry-feat-Aspect.html) – [Case](ru_poetry-feat-Case.html) – [Degree](ru_poetry-feat-Degree.html) – [ExtPos](ru_poetry-feat-ExtPos.html) – [Foreign](ru_poetry-feat-Foreign.html) – [Gender](ru_poetry-feat-Gender.html) – [InflClass](ru_poetry-feat-InflClass.html) – [Mood](ru_poetry-feat-Mood.html) – [NameType](ru_poetry-feat-NameType.html) – [Number](ru_poetry-feat-Number.html) – [NumForm](ru_poetry-feat-NumForm.html) – [NumType](ru_poetry-feat-NumType.html) – [Person](ru_poetry-feat-Person.html) – [Polarity](ru_poetry-feat-Polarity.html) – [Poss](ru_poetry-feat-Poss.html) – [PronType](ru_poetry-feat-PronType.html) – [Reflex](ru_poetry-feat-Reflex.html) – [Tense](ru_poetry-feat-Tense.html) – [Typo](ru_poetry-feat-Typo.html) – [Variant](ru_poetry-feat-Variant.html) – [VerbForm](ru_poetry-feat-VerbForm.html) – [Voice](ru_poetry-feat-Voice.html)
 
 ## Relations
 
@@ -189,7 +189,7 @@ et al. (eds.), Nacional’nyj korpus russkogo jazyka: 2006–2008. Novye rezul�
       <li>AUX-Fin: была</li>
       <li>DET: моя, моей, свою, вся, своей, всю, какая, этой, твоя, твоей</li>
       <li>NOUN: жизнь, ночь, руки, жизни, любовь, любви, душа, земли, душе, ночи</li>
-      <li>NUM: две, одна, одной, одну</li>
+      <li>NUM: две, одна, одной, двух, одну</li>
       <li>PRON: она, ней, ей, ее, нее, нею, ею</li>
       <li>PROPN: Волге, Анжелина, Москва, Москве, Русь, Россию, Россия, Руси, Сулико, Изабелла</li>
       <li>VERB-Fin: стала, шла, пела, легла, любила, ушла, могла, пришла, стояла, была</li>
@@ -205,7 +205,7 @@ et al. (eds.), Nacional’nyj korpus russkogo jazyka: 2006–2008. Novye rezul�
       <li>AUX-Fin: был</li>
       <li>DET: мой, твой, тот, этот, свой, весь, каждый, наш, сам, один</li>
       <li>NOUN: день, ветер, мир, вечер, свет, глаза, час, дни, лет, люди</li>
-      <li>NUM: два, один, двух, оба, единый, обоим, одним</li>
+      <li>NUM: два, один, двух, оба, двумя, единый, обоим, одним</li>
       <li>PRON: он, кто, его, ему, ним, нем, кого, кто-то, никто, него</li>
       <li>PROPN: Воронский, Восток, Иуда, Париж, Ара, Петроград, ВЛАДИМИРА, Владимир, Геркулес, Гинсбург</li>
       <li>VERB-Fin: стал, был, видел, сказал, жил, забыл, любил, знал, мог, шел</li>
@@ -221,7 +221,7 @@ et al. (eds.), Nacional’nyj korpus russkogo jazyka: 2006–2008. Novye rezul�
       <li>AUX-Fin: было</li>
       <li>DET: мое, твое, все, свое, одно, всё, какое, такое, то, это</li>
       <li>NOUN: сердце, солнце, небо, слова, счастье, время, море, небе, лицо, небес</li>
-      <li>NUM: два, одним, одно</li>
+      <li>NUM: два, двух, одним, одно</li>
       <li>PRON: что, все, это, всё, то, чем, оно, ничего, что-то, тем</li>
       <li>PROPN: Замоскворечья, Монако, Полесьем</li>
       <li>VERB-Fin: было, казалось, стало, бывало, хотелось, показалось, Било, Задело, Кончилось, бушевало</li>
@@ -367,7 +367,7 @@ et al. (eds.), Nacional’nyj korpus russkogo jazyka: 2006–2008. Novye rezul�
       <li>NOUN: сердце, небе, душе, глазах, свете, жизни, любви, сне, руках, небесах</li>
       <li>NUM: трёх, двух, семи</li>
       <li>PRON: ней, нем, мне, чем, них, тебе, том, нас, себе, всем</li>
-      <li>PROPN: Волге, Москве, Руси, Америке, Берлине, Гойе, Джетысу, Калите, Калуге, Кампанье</li>
+      <li>PROPN: Волге, Москве, Руси, Америке, Берлине, ВОЛГЕ, Гойе, Джетысу, Калите, Калуге</li>
       <li>VERB-Part: вздыбленном, опущенных, распростертых, выгнутой, вымокшей, вырванной, выцветших, дрожащем, забытой, завязанном</li>
     </ul>
   </li>
@@ -812,6 +812,19 @@ et al. (eds.), Nacional’nyj korpus russkogo jazyka: 2006–2008. Novye rezul�
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADP: до, с, по</li>
+          <li>PRON: все, Всё, что</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -996,7 +1009,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Acc (32)</li>
       <li>VERB-Part--NOUN-Gen (13)</li>
-      <li>VERB-Part--PRON-Acc (6)</li>
+      <li>VERB-Part--PRON-Acc (7)</li>
       <li>VERB-Part--PRON-Ins (1)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>

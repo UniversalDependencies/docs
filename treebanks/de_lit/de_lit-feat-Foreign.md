@@ -54,7 +54,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>grand, brillant, greatest, menacés, primi, secondo</em>
-* `EMPTY` (3469): <em>große, alten, erste, ganze, ersten, eignen, großen, höchsten, möglich, neue</em>
+* `EMPTY` (3471): <em>große, alten, erste, ganze, ersten, eignen, großen, höchsten, möglich, neue</em>
 
 ### `PRON`
 
@@ -74,7 +74,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>aller, peut, fait, rester</em>
-* `EMPTY` (3088): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
+* `EMPTY` (3087): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
 
 ### `AUX`
 
@@ -92,7 +92,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>pourtant, toujours</em>
-* `EMPTY` (3586): <em>so, nur, auch, selbst, wie, noch, doch, aber, immer, wohl</em>
+* `EMPTY` (3585): <em>so, nur, auch, selbst, wie, noch, doch, aber, immer, wohl</em>
 
 ### `CCONJ`
 
@@ -101,7 +101,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>et</em>
-* `EMPTY` (1940): <em>und, oder, als, wie, aber, sondern, denn, noch, entweder, desto</em>
+* `EMPTY` (1927): <em>und, oder, als, wie, aber, sondern, denn, noch, entweder, desto</em>
 
 ### `PROPN`
 
@@ -121,7 +121,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PUNCT` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>,</em>
-* `EMPTY` (5409): <em>,, ., ;, :, ?, «, », !, –, )</em>
+* `EMPTY` (5410): <em>,, ., ;, :, ?, «, », !, –, )</em>
 
 ### `SCONJ`
 
@@ -130,7 +130,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `SCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>que</em>
-* `EMPTY` (527): <em>daß, wenn, weil, um, als, ob, ohne, da, indem, wie</em>
+* `EMPTY` (540): <em>daß, wenn, weil, um, als, ob, ohne, da, wie, indem</em>
 
 ## Relations with Agreement in `Foreign`
 

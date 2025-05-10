@@ -22,10 +22,10 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (457; 62% of non-empty `Case`): <em>oː=, oːn, =b, toː=, eːn, eː=, oːt, eːt, toːt, teː=</em>
+* `Acc` (456; 62% of non-empty `Case`): <em>oː=, oːn, =b, toː=, eːn, eː=, oːt, eːt, toːt, teː=</em>
 * `Gen` (6; 1% of non-empty `Case`): <em>oːnaːj, baliːnaːj</em>
-* `Nom` (271; 37% of non-empty `Case`): <em>uː=, uːn, aː=, aːn, tuː=, beːn, tuːt, taː=, uːt, aːt</em>
-* `EMPTY` (1003): <em>=t, i=, w=, ti=, t=, j=, -a, -aː, =b, mhasi</em>
+* `Nom` (272; 37% of non-empty `Case`): <em>uː=, uːn, aː=, aːn, tuː=, beːn, tuːt, taː=, uːt, aːt</em>
+* `EMPTY` (1002): <em>=t, i=, w=, ti=, t=, j=, -a, -aː, =b, mhasi</em>
 
 ### `PRON`
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Dat` (3; 0% of non-empty `Case`): <em>hoː</em>
 * `Gen` (32; 5% of non-empty `Case`): <em>=iji, =ijoː, =ihi, =iheː, =ji, =eːhi, =eːheː, =hi, =ijoːk, =joː</em>
 * `Nom` (178; 29% of non-empty `Case`): <em>ani, =i, =uːn, =aː, hinin, baruːk, umbaruːk, =aːn, =uːk, =ji</em>
-* `EMPTY` (213): <em>=heːb, kna, hoːj, ti=, wi=, =oː, naːn, i=, hoː, hoːk</em>
+* `EMPTY` (212): <em>=heːb, kna, hoːj, ti=, wi=, =oː, naːn, i=, hoː, hoːk</em>
 
 ### `ADP`
 
@@ -87,7 +87,7 @@ The most frequent other feature values with which `SCONJ` and `Case` co-occurred
 `SCONJ` tokens may have the following values of `Case`:
 
 * `Acc` (1; 100% of non-empty `Case`): <em>=b</em>
-* `EMPTY` (591): <em>=hoːb, =eːb, =ajt, =jeːb, =eːk, =aj, =it, =eːt, =jeːk, =eː</em>
+* `EMPTY` (593): <em>=hoːb, =eːb, =ajt, =jeːb, =eːk, =aj, =it, =eːt, =jeːk, =eː</em>
 
 ## Relations with Agreement in `Case`
 

@@ -37,7 +37,7 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 12	será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	parataxis	_	_
 13	não	não	ADV	_	_	14	advmod	_	_
 14	é	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	discourse	_	_
-15	?	?	PUNCT	_	_	12	punct	_	SpaceAfter=No
+15	?	?	PUNCT	_	_	12	punct	_	_
 
 ~~~
 

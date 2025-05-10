@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of PUNCT in UD_Swiss_German-UZH'
+title:  'Statistics of PUNCT in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: POS Tags: `PUNCT`
+## Treebank Statistics: UD_Alemannic-UZH: POS Tags: `PUNCT`
 
 There are 1 `PUNCT` lemmas (7%), 9 `PUNCT` types (1%) and 178 `PUNCT` tokens (12%).
 Out of 15 observed tags, the rank of `PUNCT` is: 12 in number of lemmas, 14 in number of types and 2 in number of tokens.

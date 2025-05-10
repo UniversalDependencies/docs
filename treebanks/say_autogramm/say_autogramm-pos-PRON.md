@@ -61,12 +61,12 @@ The 2nd highest number of forms (7) was observed with the lemma “=kə”: <em>
 
 The 3rd highest number of forms (7) was observed with the lemma “=waːsəŋ”: <em>=wàːsəŋ̀, =wàːsə̀ŋ, =wàːsə̀ŋə́y, =wáːsə̀ŋ, =wâːsən, =wâːsə̀nə́y, =wâːsə̀ŋ</em>.
 
-`PRON` occurs with 7 features: <tt><a href="say_autogramm-feat-PronType.html">PronType</a></tt> (1252; 94% instances), <tt><a href="say_autogramm-feat-Person.html">Person</a></tt> (1121; 84% instances), <tt><a href="say_autogramm-feat-Number.html">Number</a></tt> (1010; 75% instances), <tt><a href="say_autogramm-feat-Poss.html">Poss</a></tt> (52; 4% instances), <tt><a href="say_autogramm-feat-Deixis.html">Deixis</a></tt> (44; 3% instances), <tt><a href="say_autogramm-feat-Definite.html">Definite</a></tt> (29; 2% instances), <tt><a href="say_autogramm-feat-Reflex.html">Reflex</a></tt> (10; 1% instances)
+`PRON` occurs with 8 features: <tt><a href="say_autogramm-feat-PronType.html">PronType</a></tt> (1252; 94% instances), <tt><a href="say_autogramm-feat-Person.html">Person</a></tt> (1121; 84% instances), <tt><a href="say_autogramm-feat-Number.html">Number</a></tt> (1010; 75% instances), <tt><a href="say_autogramm-feat-Poss.html">Poss</a></tt> (52; 4% instances), <tt><a href="say_autogramm-feat-Deixis.html">Deixis</a></tt> (44; 3% instances), <tt><a href="say_autogramm-feat-Definite.html">Definite</a></tt> (29; 2% instances), <tt><a href="say_autogramm-feat-Reflex.html">Reflex</a></tt> (10; 1% instances), <tt><a href="say_autogramm-feat-ExtPos.html">ExtPos</a></tt> (6; 0% instances)
 
-`PRON` occurs with 18 feature-value pairs: `Definite=Cons`, `Definite=Def`, `Definite=Spec`, `Deixis=Prox`, `Deixis=Remt`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`
+`PRON` occurs with 21 feature-value pairs: `Definite=Cons`, `Definite=Def`, `Definite=Spec`, `Deixis=Prox`, `Deixis=Remt`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=PART`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`
 
-`PRON` occurs with 51 feature combinations.
-The most frequent feature combination is `Number=Sing|Person=3|PronType=Prs` (410 tokens).
+`PRON` occurs with 56 feature combinations.
+The most frequent feature combination is `Number=Sing|Person=3|PronType=Prs` (408 tokens).
 Examples: <em>=tə, gòs, =tə̀, yâːn, =wôs, =wòs, tə, yáːni, =wâːn, gə̀tn</em>
 
 

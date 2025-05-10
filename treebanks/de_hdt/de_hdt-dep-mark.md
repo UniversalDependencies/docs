@@ -70,7 +70,7 @@ The following 36 pairs of parts of speech are connected with `mark`: <tt><a href
 5	,	,	PUNCT	$,	PunctType=Comm	9	punct	_	_
 6	dass	dass	SCONJ	KOUS	_	9	mark	_	_
 7	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
-8	Passwort	Wort	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+8	Passwort	Passwort	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
 9	aktuell	aktuell	ADJ	ADJD	Degree=Pos|Variant=Short	4	ccomp	_	_
 10	war	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
 11	:	:	PUNCT	$.	PunctType=Peri	4	punct	_	_

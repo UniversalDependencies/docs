@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 2	fait	fait	NOUN	_	Gender=Masc|Number=Sing	14	discourse	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	quand	quand	SCONJ	_	_	6	mark	_	_
-5	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+5	tu	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
 6	mets	mettre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	advcl	_	_
 7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	farine	farine	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_

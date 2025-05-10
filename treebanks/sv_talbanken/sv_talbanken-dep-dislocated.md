@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-124 nodes (0%) are attached to their parents as `dislocated`.
+70 nodes (0%) are attached to their parents as `dislocated`.
 
-111 instances of `dislocated` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.38709677419355.
+66 instances of `dislocated` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.94285714285714.
 
-The following 16 pairs of parts of speech are connected with `dislocated`: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (34; 27% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (33; 27% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (18; 15% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (10; 8% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (6; 5% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 15 pairs of parts of speech are connected with `dislocated`: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (26; 37% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (15; 21% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (10; 14% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -38,41 +38,42 @@ The following 16 pairs of parts of speech are connected with `dislocated`: <tt><
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 1 dislocated	color:blue
-1	Äger	äga	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	8	dislocated	8:dislocated	_
-2	du	du	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	1	nsubj	1:nsubj	_
-3	några	någon	PRON	PN|UTR/NEU|PLU|IND|SUB/OBJ	Definite=Ind|Number=Plur|PronType=Ind	1	obj	1:obj	_
-4	av	av	ADP	PP	_	6	case	6:case	_
-5	följande	följande	ADJ	PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Tense=Pres|VerbForm=Part	6	amod	6:amod	_
-6	saker	sak	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	3	nmod	3:nmod:av	_
-7	så	så	ADV	AB	_	8	advcl	8:advcl	_
-8	ta	ta	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	0	root	0:root	_
-9	med	med	ADP	PL	_	8	compound:prt	8:compound:prt	_
-10	även	även	ADV	AB	_	11	advmod	11:advmod	_
-11	dem	de	PRON	PN|UTR/NEU|PLU|DEF|OBJ	Case=Acc|Definite=Def|Number=Plur|PronType=Prs	8	obj	8:obj	SpaceAfter=No
-12	:	:	PUNCT	MAD	_	8	punct	8:punct	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 dislocated	color:blue
+1	Vilken	vilken	PRON	HP|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Int	3	dislocated	3:dislocated	_
+2	som	som	PRON	HP|-|-|-	PronType=Rel	3	nsubj	3:nsubj	_
+3	väljs	välja	VERB	VB|PRS|SFO	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	7	csubj	7:csubj	_
+4	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	7:cop	_
+5	alltså	alltså	ADV	AB	_	7	advmod	7:advmod	_
+6	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	7	det	7:det	_
+7	avvägning	avvägning	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	0:root	_
+8	mellan	mellan	ADP	PP	_	9	case	9:case	_
+9	tycke	tycke	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	7	nmod	7:nmod:mellan	_
+10	och	och	CCONJ	KN	_	11	cc	11:cc	_
+11	ekonomi	ekonomi	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	9	conj	7:nmod:mellan|9:conj:och	SpaceAfter=No
+12	.	.	PUNCT	MAD	_	7	punct	7:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 8 dislocated	color:blue
-1	'	'	PUNCT	PAD	_	3	punct	3:punct	SpaceAfter=No
-2	Det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	3	nsubj	3:nsubj	_
-3	var	vara	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-4	allt	all	ADV	AB	_	3	advmod	3:advmod	_
-5	förr	förr	ADV	AB	_	3	advmod	3:advmod	_
-6	i	i	ADP	PP	_	7	case	7:case	_
-7	världen	värld	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	5	obl	5:obl:i	_
-8	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	3	dislocated	3:dislocated	SpaceAfter=No
-9	!	!	PUNCT	MAD	_	3	punct	3:punct	SpaceAfter=No
-10	'	'	PUNCT	PAD	_	3	punct	3:punct	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 dislocated	color:blue
+1	Vad	vad	PRON	HP|NEU|SIN|IND	Definite=Ind|Number=Sing|PronType=Rel	4	dislocated	4:dislocated	_
+2	som	som	PRON	HP|-|-|-	PronType=Rel	4	nsubj	4:nsubj	_
+3	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	_
+4	viktigast	viktig	ADJ	JJ|SUV|UTR/NEU|SIN/PLU|IND|NOM	Case=Nom|Definite=Ind|Degree=Sup	10	csubj	10:csubj	_
+5	att	att	PART	IE	_	6	mark	6:mark	_
+6	ta	ta	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	4	advcl	4:advcl:på	_
+7	reda	reda	ADV	PL	_	6	compound:prt	6:compound:prt	_
+8	på	på	ADP	PP	_	6	obl	6:obl:på	_
+9	kan	kunna	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	10:aux	_
+10	skifta	skifta	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	0	root	0:root	SpaceAfter=No
+11	.	.	PUNCT	MAD	_	10	punct	10:punct	_
 
 ~~~
 

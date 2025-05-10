@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-60 nodes (2%) are attached to their parents as `advcl`.
+76 nodes (2%) are attached to their parents as `advcl`.
 
-35 instances of `advcl` (58%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.48333333333333.
+39 instances of `advcl` (51%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.03947368421053.
 
-The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (55; 92% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (67; 88% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -35,38 +35,45 @@ The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 2 advcl	color:blue
-1	tas	tas	PRON	PRO	_	2	nsubj	_	AlignBegin=27840|AlignEnd=28721|Gloss=PRO1|MGloss=PRO1|MSeg=tas|nWord=1|RX=[PRO]|TokenType=Root|Word=tas
-2	ye	ye	NOUN	N	_	7	advcl	_	AlignBegin=28721|AlignEnd=29602|Gloss=small|MGloss=small|MSeg=ye|nWord=2|RX=[N]|TokenType=Root|Word=ye
-3	=rira	r	AUX	COP	_	2	cop	_	AlignBegin=29602|AlignEnd=30483|Gloss==COP:S1SG:PST|MGloss==COP:S1SG:PST|MSeg==rira|nWord=3|RX=[COP]|TokenType=Clit|Word=rira
-4	=mã	=mã	SCONJ	PRT	_	2	mark	_	AlignBegin=30483|AlignEnd=31364|Gloss==when|MGloss==when|MSeg==mã|nWord=4|RX=[PRT]|TokenType=Clit|Word=mã
-5	tasuwa	suwa	NOUN	N	_	7	obl:arg	_	AlignBegin=31364|AlignEnd=32245|Gloss=grandmother|MGloss=POSS1- grandmother|MSeg=ta-suwa|nWord=5|RX=[N]|TokenType=Root|Word=tasuwa|wordform=ta-suwa
-6	=yo	=yo	ADP	POST	_	5	case	_	AlignBegin=32245|AlignEnd=33126|Gloss==COM|MGloss==COM|MSeg==yo|nWord=6|RX=[POST]|TokenType=Clit|Word=yo
-7	tʃaari	tʃa	VERB	V:ANY	_	0	root	_	AlignBegin=33126|AlignEnd=34007|Gloss=be.there|MGloss=be.there -S1SG -PST|MSeg=tʃa-a-ri|nWord=7|RX=[VI]|TokenType=Root|Word=tʃaari|wordform=tʃa-a-ri
-8	takaki	kaki	NOUN	N	_	5	conj	_	AlignBegin=34007|AlignEnd=34888|Gloss=mother|MGloss=POSS1- mother|MSeg=ta-kaki|nWord=8|RX=[N]|TokenType=Root|Word=takaki|wordform=ta-kaki
-9	=ri	=ri	CCONJ	PRT	_	8	cc	_	AlignBegin=34888|AlignEnd=35773|Gloss==COORD|MGloss==COORD|MSeg==ri|nWord=9|RX=[PRT]|TokenType=Clit|Word=ri
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 advcl	color:blue
+1	eɲã	eɲã	NOUN	_	_	0	root	_	AlignBegin=246243|AlignEnd=246383|Gloss=well|MGloss=well|MSeg=eɲã|nWord=1|RX=[N]|TokenType=Root
+2	=i	_	AUX	_	_	1	cop	_	AlignBegin=246383|AlignEnd=246523|Gloss==COP:S3SG:PFV|MGloss==COP:S3SG:PFV|MSeg==i|nWord=2|RX=[COP]|TokenType=Clit
+3	,	_	PUNCT	_	_	1	punct	_	AlignBegin=246523|AlignEnd=246663|MSeg=,|nWord=3
+4	eɲã	eɲã	NOUN	_	_	1	advcl	_	AlignBegin=246663|AlignEnd=246803|Gloss=well|MGloss=well|MSeg=eɲã|nWord=4|RX=[N]|TokenType=Root
+5	=i	_	AUX	_	_	4	cop	_	AlignBegin=246803|AlignEnd=246943|Gloss==COP:S3SG:PFV|MGloss==COP:S3SG:PFV|MSeg==i|nWord=5|RX=[COP]|TokenType=Clit
+6	=pra	_	PART	_	_	4	advmod	_	AlignBegin=246943|AlignEnd=247083|Gloss==EMPH|MGloss==EMPH|MSeg==pra|nWord=6|RX=[PRT]|TokenType=Clit
+7	,	_	PUNCT	_	_	6	punct	_	AlignBegin=247083|AlignEnd=247223|MSeg=,|nWord=7
+8	eɲẽ	eɲẽ	NOUN	_	_	4	advcl	_	AlignBegin=247223|AlignEnd=247363|Gloss=well|MGloss=well|MSeg=eɲẽ|nWord=8|RX=[N]|TokenType=Root
+9	=hi	_	AUX	_	_	8	cop	_	AlignBegin=247363|AlignEnd=247503|Gloss==COP:S3SG:PFV|MGloss==COP:S3SG:PFV|MSeg==hi|nWord=9|RX=[COP]|TokenType=Clit
+10	,	_	PUNCT	_	_	8	punct	_	AlignBegin=247503|AlignEnd=247643|MSeg=,|nWord=10
+11	eɲẽ	eɲẽ	NOUN	_	_	12	xcomp	_	AlignBegin=247643|AlignEnd=247783|Gloss=well|MGloss=well|MSeg=eɲẽ|nWord=11|RX=[N]|TokenType=Root
+12	=ʔi	=r	PART	_	_	8	advmod	_	AlignBegin=247783|AlignEnd=247923|Gloss==COP:S3SG:PFV|MGloss==COP:S3SG:PFV|MSeg==ʔi|nWord=12|RX=[PRT]|TokenType=Clit
+13	.	_	PUNCT	_	_	1	punct	_	AlignBegin=247923|AlignEnd=248057|Gloss=.|MGloss=.|MSeg=.|nWord=13
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 advcl	color:blue
-1	nãpar(w)a	nã	VERB	V:ANY	Clusivity=In	2	dep:conj	_	AlignBegin=106310|AlignEnd=106850|Gloss=go|MGloss=go -S1PL.INCL -PFV|MSeg=nã-par-(w)a|nWord=1|RX=[VI]|TokenType=Root|Word=nãpara|wordform=nã-par-(w)a
-2	taoʃparwa	oʃ	VERB	V:ANY	Clusivity=In|Voice=Mid	4	advcl	_	AlignBegin=106850|AlignEnd=107390|Gloss=lose|MGloss=MID- lose -S1PL.INCL -PFV|MSeg=ta-oʃ-par-Øwa|nWord=2|RX=[VT]|TokenType=Root|Word=toʃpar|wordform=ta-oʃ-par-Øwa
-3	=ma	=ma	SCONJ	PRT	_	2	mark	_	AlignBegin=107390|AlignEnd=107930|Gloss==if|MGloss==if|MSeg==ma|nWord=3|RX=[PRT]|TokenType=Clit|Word=ma
-4	ates	ates	ADV	ADV	_	0	root	_	AlignBegin=107930|AlignEnd=108470|Gloss=further|MGloss=further|MSeg=ates|nWord=4|RX=[ADV]|TokenType=Root|Word=ates
-5	=i	r	AUX	COP	_	4	cop	_	AlignBegin=108470|AlignEnd=109010|Gloss==COP:S3SG:PFV|MGloss==COP:S3SG:PFV|MSeg==i|nWord=5|RX=[COP]|TokenType=Clit|Word=i
-6	ompiʃ	ompiʃ	NOUN	N	_	7	nsubj	_	AlignBegin=109010|AlignEnd=109550|Gloss=wind|MGloss=wind|MSeg=ompiʃ|nWord=6|RX=[N]|TokenType=Root|Word=ompiʃ
-7	patVwa	pa	VERB	V:ANY	_	4	dislocated	_	AlignBegin=109550|AlignEnd=110090|Gloss=take|MGloss=O3SG- take -S3SG -NEG -PFV|MSeg=Ø-pa-Ø-tV-Øwa|nWord=7|RX=[VT]|TokenType=Root|Word=patu|wordform=Ø-pa-Ø-tV-Øwa
-8	=ken	=ken	SCONJ	POST	_	7	mark	_	AlignBegin=110090|AlignEnd=110630|Gloss==LOC|MGloss==LOC|MSeg==ken|nWord=8|RX=[POST]|TokenType=Clit|Word=ke
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 advcl	color:blue
+1	iʃkerpi	iʃk	VERB	_	_	3	advcl	_	AlignBegin=17020|AlignEnd=17319|Gloss=make|MGloss=O3SG- make -S3PL -FUT|MSeg=Ø-iʃk-er-pi|nWord=1|RX=[VT]|TokenType=Root|wordform=Ø-iʃk-er-pi
+2	=kan	_	PART	_	_	1	mark	_	AlignBegin=17319|AlignEnd=17618|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=2|RX=[PRT]|TokenType=Clit
+3	ʃairwa	tʃa	VERB	_	_	0	root	_	AlignBegin=17618|AlignEnd=17917|Gloss=be.there|MGloss=be.there -S3PL -PFV|MSeg=ʃa-ir-wa|nWord=3|RX=[VI]|TokenType=Root|wordform=ʃa-ir-wa
+4	,	_	PUNCT	_	_	3	punct	_	AlignBegin=17917|AlignEnd=18216|MSeg=,|nWord=4
+5	ãma	ãma	PART	_	_	3	discourse	_	AlignBegin=18216|AlignEnd=18515|Gloss=HES|MGloss=HES|MSeg=ãma|nWord=5|RX=[PRT]|TokenType=Root
+6	,	_	PUNCT	_	_	5	punct	_	AlignBegin=18515|AlignEnd=18814|MSeg=,|nWord=6
+7	peʃ	peʃ	NOUN	_	_	3	advcl	_	AlignBegin=18814|AlignEnd=19113|Gloss=people|MGloss=people|MSeg=peʃ|nWord=7|RX=[N]|TokenType=Root
+8	akwa	akwa	NOUN	_	_	7	nmod	_	AlignBegin=19113|AlignEnd=19412|Gloss=other|MGloss=other|MSeg=akwa|nWord=8|RX=[N]|TokenType=Root
+9	=leri	_	AUX	_	_	7	cop	_	AlignBegin=19412|AlignEnd=19711|Gloss==COP|MGloss==COP -S3PL -PST|MSeg==l-er-i|nWord=9|RX=[COP]|TokenType=Root|wordform==l-er-i
+10	=ken	_	PART	_	_	7	mark	_	AlignBegin=19711|AlignEnd=20010|Gloss==SIM|MGloss==SIM|MSeg==ken|nWord=10|RX=[PRT]|TokenType=Clit
+11	.	_	PUNCT	_	_	3	punct	_	AlignBegin=20010|AlignEnd=20310|Gloss=.|MGloss=.|MSeg=.|nWord=11
 
 ~~~
 

@@ -9,23 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Card`, `Frac`, `Ord`, `Sets`.
 
-3707 tokens (2%) have a non-empty value of `NumType`.
-599 types (2%) occur at least once with a non-empty value of `NumType`.
-439 lemmas (2%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (2990; 2% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (717; 0% instances).
+22560 tokens (1%) have a non-empty value of `NumType`.
+1740 types (1%) occur at least once with a non-empty value of `NumType`.
+1305 lemmas (2%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (12849; 1% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (9711; 1% instances).
 
 ### `NUM`
 
-2990 <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> tokens (97% of all `NUM` tokens) have a non-empty value of `NumType`.
+12849 <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2632; 88%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1839; 62%), <tt><a href="ru_taiga-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (1782; 60%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10948; 85%), <tt><a href="ru_taiga-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (9272; 72%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8705; 68%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (2802; 94% of non-empty `NumType`): <em>много, 2, 3, 1, 5, несколько, 4, два, один, сколько</em>
-* `Frac` (123; 4% of non-empty `NumType`): <em>пол, 0,5, 1,5, полтора, 2,5, 1.5, 0,25, 4,5, 5,2, 2,2</em>
-* `Sets` (65; 2% of non-empty `NumType`): <em>оба, двоих, двое, обоих, обеих, трое, обе, обоим, четверых, 2</em>
-* `EMPTY` (95): <em>16.10.2020, 12.00, 16:00, 1V, 23.00, 7.30, 9.00, +7-977-429-83-44, +79051950942, +7_978_784_60_84</em>
+* `Card` (12069; 94% of non-empty `NumType`): <em>два, много, несколько, три, один, двух, две, 2, 1, 3</em>
+* `Frac` (193; 2% of non-empty `NumType`): <em>пол, полтора, 1,5, 0,5, 2,5, 4,5, 0,25, 1.5, 5,2, полутора</em>
+* `Sets` (587; 5% of non-empty `NumType`): <em>оба, обе, обоих, двое, трое, обеих, двоих, обеими, четверо, обеим</em>
 
 <table>
   <tr><th>Paradigm <i>2</i></th><th><tt>Card</tt></th><th><tt>Sets</tt></th></tr>
@@ -34,33 +33,33 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
   <tr><td><tt><tt><a href="ru_taiga-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt></tt></td><td><em>2</em></td><td><em>2</em></td></tr>
 </table>
 
-`NumType` seems to be **lexical feature** of `NUM`. 99% lemmas (291) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 99% lemmas (534) occur only with one value of `NumType`.
 
 ### `ADJ`
 
-717 <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `NumType`.
+9711 <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> tokens (6% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="ru_taiga-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (717; 100%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (431; 60%), <tt><a href="ru_taiga-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (363; 51%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="ru_taiga-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (9711; 100%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6709; 69%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5839; 60%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5839; 60%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Frac` (1; 0% of non-empty `NumType`): <em>1\5</em>
-* `Ord` (716; 100% of non-empty `NumType`): <em>первый, второй, первого, 2, первые, 1, первых, первая, вторая, второго</em>
-* `EMPTY` (16167): <em>хороший, большой, нужно, отличный, лучше, неплохой, хорошая, хорошо, хорошее, вежливый</em>
+* `Ord` (9710; 100% of non-empty `NumType`): <em>XIX, первый, XVIII, второй, XX, XVII, первой, первые, XVI, первая</em>
+* `EMPTY` (145364): <em>русского, нужно, большой, русской, русском, разных, п., хорошо, хороший, должен</em>
 
-`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (189) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (843) occur only with one value of `NumType`.
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (141; 92%),
-<tt>NUM --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> NUM</tt> (62; 91%),
-<tt>ADJ --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (25; 100%),
-<tt>NUM --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (10; 91%),
-<tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADJ</tt> (9; 75%),
-<tt>NUM --[<tt><a href="ru_taiga-dep-list.html">list</a></tt>]--> NUM</tt> (7; 100%),
-<tt>NUM --[<tt><a href="ru_taiga-dep-nummod-gov.html">nummod:gov</a></tt>]--> NUM</tt> (3; 100%),
-<tt>NUM --[<tt><a href="ru_taiga-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (3; 100%),
-<tt>NUM --[<tt><a href="ru_taiga-dep-advcl.html">advcl</a></tt>]--> NUM</tt> (2; 100%),
-<tt>NUM --[<tt><a href="ru_taiga-dep-compound.html">compound</a></tt>]--> NUM</tt> (2; 100%).
+<tt>ADJ --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (876; 100%),
+<tt>NUM --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (388; 96%),
+<tt>NUM --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> NUM</tt> (290; 96%),
+<tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADJ</tt> (171; 76%),
+<tt>NUM --[<tt><a href="ru_taiga-dep-compound.html">compound</a></tt>]--> NUM</tt> (133; 100%),
+<tt>NUM --[<tt><a href="ru_taiga-dep-list.html">list</a></tt>]--> NUM</tt> (25; 100%),
+<tt>NUM --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (18; 95%),
+<tt>NUM --[<tt><a href="ru_taiga-dep-nummod-gov.html">nummod:gov</a></tt>]--> NUM</tt> (13; 100%),
+<tt>NUM --[<tt><a href="ru_taiga-dep-advcl.html">advcl</a></tt>]--> NUM</tt> (6; 100%),
+<tt>NUM --[<tt><a href="ru_taiga-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (5; 100%).
 

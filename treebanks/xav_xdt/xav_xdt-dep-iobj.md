@@ -24,8 +24,8 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 4 3 iobj	color:blue
 1	Aibö	aibö	NOUN	n	_	4	nsubj	_	man;homem
 2	ma	ma	PART	prcl	Htp=Yes|Tense=Past	4	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
-3	atsa	atsa	PRON	pron	_	4	iobj	_	_
-4	tsada'ö	tsada'öbö	VERB	v	_	0	root	_	reply;responder
+3	asa	asa	PRON	pron	_	4	iobj	_	_
+4	sada'ö	sada'öbö	VERB	v	_	0	root	_	reply;responder
 5	marĩ	marĩ	NOUN	n	_	4	obl	_	something,what;algo,o.que,alguma.coisa
 6	na	na	ADP	posp	_	5	case	_	in;from;em,de
 7	.	.	PUNCT	punct	_	4	punct	_	_
@@ -39,16 +39,16 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 iobj	color:blue
-1	Apötsi	apötsi	ADV	adv	_	8	dislocated	_	later,after,then;mais.tarde,depois,em.seguida
+1	Apösi	apösi	ADV	adv	_	8	dislocated	_	later,after,then;mais.tarde,depois,em.seguida
 2	,	,	PUNCT	punct	_	8	punct	_	_
 3	'watébrémi	'watébrémi	NOUN	n	_	8	nsubj	_	boy;menino
-4	te	te	PART	prcl	Htp=Yes|Tense=Pres	8	dep	_	heterophoric.marker;marcardor.heterofórico
+4	te	te	AUX	aux	Person=Non1	8	dep	_	_
 5	marĩ	marĩ	NOUN	n	_	8	obj	_	something,what;algo,o.que,alguma.coisa
 6	aibö	aibö	NOUN	n	_	8	iobj	_	man;homem
 7	wi	wi	ADP	posp	_	8	obl	_	far.from;longe.de
 8	waptẽ	waptẽrẽ	VERB	v	_	0	root	_	ask,request;pedir,solicitar
 9	,	,	PUNCT	punct	_	8	punct	_	_
-10	tsa	tsa	NOUN	n	_	8	advcl	_	food;comida,alimento
+10	sa	sa	NOUN	n	_	8	advcl	_	food;comida,alimento
 11	da	da	ADP	posp	_	10	mark	_	for,in.order.to,so.that;para,afim.de,para.que
 12	.	.	PUNCT	punct	_	8	punct	_	_
 

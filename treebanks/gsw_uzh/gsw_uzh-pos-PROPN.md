@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of PROPN in UD_Swiss_German-UZH'
+title:  'Statistics of PROPN in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: POS Tags: `PROPN`
+## Treebank Statistics: UD_Alemannic-UZH: POS Tags: `PROPN`
 
 There are 1 `PROPN` lemmas (7%), 49 `PROPN` types (6%) and 57 `PROPN` tokens (4%).
 Out of 15 observed tags, the rank of `PROPN` is: 11 in number of lemmas, 8 in number of types and 10 in number of tokens.

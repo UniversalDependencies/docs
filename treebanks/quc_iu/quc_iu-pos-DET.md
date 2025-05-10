@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Kiche-IU: POS Tags: `DET`
 
 There are 7 `DET` lemmas (1%), 10 `DET` types (0%) and 1397 `DET` tokens (14%).
-Out of 15 observed tags, the rank of `DET` is: 12 in number of lemmas, 12 in number of types and 4 in number of tokens.
+Out of 16 observed tags, the rank of `DET` is: 12 in number of lemmas, 12 in number of types and 4 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>ri, le, jun, taq, we, e, waʼ</em>
 
@@ -47,7 +47,7 @@ The 10 most frequent ambiguous types:  <em>ri</em> (<tt><a href="quc_iu-pos-DET.
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.428571 (the average of all parts of speech is 1.617880).
+The form / lemma ratio of `DET` is 1.428571 (the average of all parts of speech is 1.617435).
 
 The 1st highest number of forms (2) was observed with the lemma “jun”: <em>ju, jun</em>.
 

@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 `NOUN` tokens may have the following values of `Case`:
 
 * `Gen` (525; 100% of non-empty `Case`): <em>dømes, dagens, årets, språkets, verdas, års, kyrkjas, landets, dels, lands</em>
-* `EMPTY` (56006): <em>år, dag, folk, tid, prosent, språk, kroner, del, landet, regjeringa</em>
+* `EMPTY` (56005): <em>år, dag, folk, tid, prosent, språk, kroner, del, landet, regjeringa</em>
 
 `Case` seems to be **lexical feature** of `NOUN`. 100% lemmas (176) occur only with one value of `Case`.
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 `PROPN` tokens may have the following values of `Case`:
 
 * `Gen` (410; 100% of non-empty `Case`): <em>Guds, Noregs, Breiviks, Høgres, Parkinsons, Europas, Paulus', Hitlers, Venstres, SVs</em>
-* `EMPTY` (17392): <em>Noreg, Førde, Språkrådet, Sogn, USA, SV, Fjordane, Oslo, Kviteseid, Stortinget</em>
+* `EMPTY` (17353): <em>Noreg, Førde, Språkrådet, Sogn, USA, SV, Fjordane, Oslo, Kviteseid, Stortinget</em>
 
 `Case` seems to be **lexical feature** of `PROPN`. 100% lemmas (200) occur only with one value of `Case`.
 
@@ -61,12 +61,12 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 18 <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="no_nynorsk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (18; 100%), <tt><a href="no_nynorsk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (15; 83%), <tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (12; 67%), <tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (12; 67%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="no_nynorsk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (18; 100%), <tt><a href="no_nynorsk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (15; 83%), <tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (12; 67%), <tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (10; 56%).
 
 `ADJ` tokens may have the following values of `Case`:
 
 * `Gen` (18; 100% of non-empty `Case`): <em>liks, enkeltes, intellektuelles, kristnes, mogleges, rettes, tilsettes</em>
-* `EMPTY` (29083): <em>meir, mange, fleire, mykje, nye, store, heile, godt, heilt, norske</em>
+* `EMPTY` (29081): <em>meir, mange, fleire, mykje, nye, store, heile, godt, heilt, norske</em>
 
 ### `DET`
 
@@ -77,7 +77,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 `DET` tokens may have the following values of `Case`:
 
 * `Gen` (5; 100% of non-empty `Case`): <em>andres, dens, dets</em>
-* `EMPTY` (14983): <em>ein, den, eit, dei, ei, det, andre, alle, denne, anna</em>
+* `EMPTY` (14982): <em>ein, den, eit, dei, ei, det, andre, alle, denne, anna</em>
 
 ## Relations with Agreement in `Case`
 

@@ -42,7 +42,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	Kadang	kadang	ADV	_	PronType=Ind	4	advmod	_	_
+1	Kadang	kadang	ADV	_	ExtPos=ADV|PronType=Ind	4	advmod	_	_
 2	kala	kala	NOUN	_	Number=Sing	1	fixed	_	_
 3	seperti	seperti	ADP	_	_	4	case	_	_
 4	kekuatan	kuat	NOUN	_	Number=Sing	0	root	_	_

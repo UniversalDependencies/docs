@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `obl`: <tt><a href="
 3	Roussin	Roussin	PROPN	_	_	2	flat:name	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	reconnu	reconnaître	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
-6	coupable	coupable	ADJ	_	Number=Sing	5	xcomp	_	_
+6	coupable	coupable	ADJ	_	Number=Sing	5	xcomp	_	Gender[ctxt]=Masc
 7	de	de	ADP	_	_	8	case	_	_
 8	complicité	complicité	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
 9	et	et	CCONJ	_	_	10	cc	_	_

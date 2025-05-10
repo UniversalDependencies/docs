@@ -27,7 +27,7 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 3	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	2	obl	_	GTtags=Dem,Sg,Nom
 4	što	što	SCONJ	CS	_	8	mark	_	_
 5	”	”	PUNCT	PUNCT	_	8	punct	_	GTtags=RIGHT|SpaceAfter=No
-6	ååʹn	ååʹn	ADV	Adv	AdvType=Tim	8	advmod:tmod	_	GTtags=Sem/Time
+6	ååʹn	ååʹn	ADV	Adv	AdvType=Tim	8	advmod	_	GTtags=Sem/Time
 7	muännaid	mon	PRON	Pron	Case=Acc|Number=Dual|Person=1|PronType=Prs	8	obj	_	GTtags=Pers,Du1,Acc
 8	kåʹdde	kåʹdded	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	ccomp	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
 9	”	”	PUNCT	PUNCT	_	8	punct	_	GTtags=RIGHT|SpaceAfter=No
@@ -49,7 +49,7 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 5	da	da	CCONJ	CC	_	6	cc	_	_
 6	mättat	mättʼted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3
 7	što	što	SCONJ	CS	_	9	mark	_	_
-8	mäʹhtt	mäʹhtt	ADV	Adv	_	9	advmod:mmod	_	_
+8	mäʹhtt	mäʹhtt	ADV	Adv	_	9	advmod	_	_
 9	âlgg	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	ccomp	_	GTtags=Ind,Prs,Sg3
 10	jååʹtted	jååʹtted	VERB	V	VerbForm=Inf	9	xcomp	_	GTtags=Inf
 11	što	što	SCONJ	CS	_	14	mark	_	_

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-UDante: POS Tags: `NUM`
 
 There are 21 `NUM` lemmas (0%), 31 `NUM` types (0%) and 150 `NUM` tokens (0%).
-Out of 16 observed tags, the rank of `NUM` is: 12 in number of lemmas, 12 in number of types and 15 in number of tokens.
+Out of 16 observed tags, the rank of `NUM` is: 11 in number of lemmas, 12 in number of types and 15 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>duo, tres, duodecim, quattuor, quinque, centum, decem, sex, xu, clxxx</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>tribus</em> (<tt><a href="la_udante-p
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.476190 (the average of all parts of speech is 2.129200).
+The form / lemma ratio of `NUM` is 1.476190 (the average of all parts of speech is 2.129719).
 
 The 1st highest number of forms (8) was observed with the lemma “duo”: <em>duabus, duarum, duas, due, duo, duobus, duorum, duos</em>.
 

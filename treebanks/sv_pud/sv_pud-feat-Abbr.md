@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (39; 100% of non-empty `Abbr`): <em>%, f.Kr., md, nr, AIDS, C, Mrs, Ms., dr, e.Kr.</em>
-* `EMPTY` (3996): <em>år, havet, personer, fall, miljoner, grund, oktober, världen, del, delen</em>
+* `EMPTY` (3999): <em>år, havet, personer, fall, miljoner, grund, oktober, världen, del, delen</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (14) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (8; 100% of non-empty `Abbr`): <em>B.C., Mps, RHS, AKP:s, ECB:s, RSPB:s</em>
-* `EMPTY` (1207): <em>Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, North, Medelhavet, Albanien</em>
+* `EMPTY` (1208): <em>Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, North, Medelhavet, Albanien</em>
 
 ### `ADV`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (6; 100% of non-empty `Abbr`): <em>f.Kr., ca, e.Kr.</em>
-* `EMPTY` (1006): <em>så, mer, in, ut, där, också, upp, bara, fram, här</em>
+* `EMPTY` (988): <em>så, in, ut, där, också, bara, upp, fram, här, även</em>
 
 ### `ADJ`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>St.</em>
-* `EMPTY` (1570): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, samma</em>
+* `EMPTY` (1562): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, samma</em>
 
 ### `CCONJ`
 

@@ -65,7 +65,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 4	må	måtte	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	_
 5	være	være	AUX	verb	VerbForm=Inf	8	cop	_	_
 6	en	en	DET	det	Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	blandet	blande	ADJ	adj	Definite=Ind|Gender=Fem,Masc|Number=Sing|VerbForm=Part	8	amod	_	_
+7	blandet	blande	ADJ	adj	Definite=Ind|Gender=Com|Number=Sing|VerbForm=Part	8	amod	_	_
 8	følelse	følelse	NOUN	subst	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 9	for	for	ADP	prep	_	10	case	_	_
 10	Høyre	Høyre	PROPN	subst	_	8	obl	_	SpaceAfter=No

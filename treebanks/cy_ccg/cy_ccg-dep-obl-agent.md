@@ -94,7 +94,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 23	tros	tros	ADP	prep	_	25	case	_	_
 24	y	y	DET	art	_	25	det	_	_
 25	pwnc	pwnc	NOUN	noun	Gender=Masc|Number=Sing	22	nmod	_	_
-26	o	o	ADP	prep	_	29	case	_	_
+26	o	o	ADP	prep	ExtPos=ADP	29	case	_	_
 27	fewn	mewn	ADP	prep	Mutation=SM	26	fixed	_	_
 28	y	y	DET	art	_	29	det	_	_
 29	Blaid	plaid	NOUN	noun	Gender=Fem|Mutation=SM|Number=Sing	25	nmod	_	SpaceAfter=No

@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>vepsläižid</em> (<tt><a href="vep_v
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.333333 (the average of all parts of speech is 1.526854).
+The form / lemma ratio of `ADJ` is 1.333333 (the average of all parts of speech is 1.538660).
 
 The 1st highest number of forms (5) was observed with the lemma “vepsläine”: <em>vepsläine, vepsläižen, vepsläižes, vepsläižid, vepsläšt</em>.
 

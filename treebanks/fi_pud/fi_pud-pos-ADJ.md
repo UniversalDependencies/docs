@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>suurin</em> (<tt><a href="fi_pud-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.634011 (the average of all parts of speech is 1.526180).
+The form / lemma ratio of `ADJ` is 1.634011 (the average of all parts of speech is 1.525677).
 
 The 1st highest number of forms (16) was observed with the lemma “suuri”: <em>Suuremmilla, suurelta, suuremman, suuremmissa, suurempaa, suurempi, suuren, suuressa, suuret, suuri, suuria, suurilla, suurimmalla, suurimman, suurin, suurta</em>.
 

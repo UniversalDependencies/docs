@@ -53,7 +53,7 @@ The following 58 pairs of parts of speech are connected with `advcl`: <tt><a hre
 5	sich	sich	PRON	PRF	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 6	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 7	neue	neu	ADJ	ADJA	Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
-8	Media-Leiste	Leiste	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
+8	Media-Leiste	Media-Leiste	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
 9	:	:	PUNCT	$.	PunctType=Peri	4	punct	_	_
 
 ~~~
@@ -66,7 +66,7 @@ The following 58 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 4 advcl	color:blue
 1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	Systemtakt	Takt	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Systemtakt	Systemtakt	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
 3	beträgt	betragen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	nach	nach	ADV	ADV	_	3	advcl	_	_
 5	wie	wie	CCONJ	KOKOM	ConjType=Comp	6	mark	_	_

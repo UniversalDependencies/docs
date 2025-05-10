@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Swedish-PUD: POS Tags: `ADP`
 
-There are 59 `ADP` lemmas (1%), 58 `ADP` types (1%) and 2448 `ADP` tokens (13%).
-Out of 16 observed tags, the rank of `ADP` is: 8 in number of lemmas, 8 in number of types and 2 in number of tokens.
+There are 58 `ADP` lemmas (1%), 58 `ADP` types (1%) and 2448 `ADP` tokens (13%).
+Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 8 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>i, av, för, på, till, med, från, under, vid, om</em>
 
@@ -56,28 +56,28 @@ The 10 most frequent ambiguous types:  <em>i</em> (<tt><a href="sv_pud-pos-ADP.h
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.983051 (the average of all parts of speech is 1.240849).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.245991).
 
-The 1st highest number of forms (1) was observed with the lemma “De”: <em>de</em>.
+The 1st highest number of forms (1) was observed with the lemma “Of”: <em>of</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “In”: <em>in</em>.
+The 2nd highest number of forms (1) was observed with the lemma “On”: <em>On</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “Of”: <em>of</em>.
+The 3rd highest number of forms (1) was observed with the lemma “av”: <em>av</em>.
 
-`ADP` occurs with 1 features: <tt><a href="sv_pud-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
+`ADP` occurs with 2 features: <tt><a href="sv_pud-feat-Foreign.html">Foreign</a></tt> (9; 0% instances), <tt><a href="sv_pud-feat-ExtPos.html">ExtPos</a></tt> (7; 0% instances)
 
-`ADP` occurs with 1 feature-value pairs: `Foreign=Yes`
+`ADP` occurs with 3 feature-value pairs: `ExtPos=ADJ`, `ExtPos=ADP`, `Foreign=Yes`
 
-`ADP` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (2447 tokens).
+`ADP` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (2432 tokens).
 Examples: <em>i, av, för, på, till, med, från, under, vid, om</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 9 different relations: <tt><a href="sv_pud-dep-case.html">case</a></tt> (2199; 90% instances), <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (197; 8% instances), <tt><a href="sv_pud-dep-compound-prt.html">compound:prt</a></tt> (42; 2% instances), <tt><a href="sv_pud-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 8 different relations: <tt><a href="sv_pud-dep-case.html">case</a></tt> (2200; 90% instances), <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (196; 8% instances), <tt><a href="sv_pud-dep-compound-prt.html">compound:prt</a></tt> (42; 2% instances), <tt><a href="sv_pud-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="sv_pud-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-compound.html">compound</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (1661; 68% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (383; 16% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (227; 9% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (100; 4% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (40; 2% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (29; 1% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (1663; 68% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (384; 16% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (225; 9% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (100; 4% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (40; 2% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (29; 1% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
 2440 (100%) `ADP` nodes are leaves.
 
@@ -89,5 +89,5 @@ The highest child degree of a `ADP` node is 2.
 
 Children of `ADP` nodes are attached using 2 different relations: <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (8; 89% instances), <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (1; 11% instances)
 
-Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (5; 56% instances), <tt><a href="sv_pud-pos-DET.html">DET</a></tt> (2; 22% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (1; 11% instances), <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 11% instances)
+Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (5; 56% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (2; 22% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (1; 11% instances), <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 11% instances)
 

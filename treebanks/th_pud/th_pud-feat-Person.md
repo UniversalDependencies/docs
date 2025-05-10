@@ -11,7 +11,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 446 tokens (2%) have a non-empty value of `Person`.
 18 types (0%) occur at least once with a non-empty value of `Person`.
-1 lemmas (0) occur at least once with a non-empty value of `Person`.
+18 lemmas (0%) occur at least once with a non-empty value of `Person`.
 The feature is used with 1 part-of-speech tags: <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (446; 2% instances).
 
 ### `PRON`
@@ -24,6 +24,8 @@ The feature is used with 1 part-of-speech tags: <tt><a href="th_pud-pos-PRON.htm
 * `2` (19; 4% of non-empty `Person`): คุณ, 'Ya, You, นาย, ยู
 * `3` (324; 73% of non-empty `Person`): เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง, พระองค์ภายหลังการสวรรคตโดยใช้ชื่อยุคที่พระองค์
 * `EMPTY` (237): กัน, ที่, นี้, นี่, นั้น, นั่น, อะไร, เอง, ใคร, ต่าง
+
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (18) occur only with one value of `Person`.
 
 ## Relations with Agreement in `Person`
 

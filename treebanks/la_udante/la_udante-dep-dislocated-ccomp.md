@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 3 other language-specific subtypes of `dislocated`: <tt><a href="la_udante-dep-dislocated-csubj.html">dislocated:csubj</a></tt>, <tt><a href="la_udante-dep-dislocated-obj.html">dislocated:obj</a></tt>, <tt><a href="la_udante-dep-dislocated-obl.html">dislocated:obl</a></tt>.
 
-2 nodes (0%) are attached to their parents as `dislocated:ccomp`.
+3 nodes (0%) are attached to their parents as `dislocated:ccomp`.
 
-2 instances of `dislocated:ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 20.5.
+3 instances of `dislocated:ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 19.6666666666667.
 
-The following 1 pairs of parts of speech are connected with `dislocated:ccomp`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (2; 100% instances).
+The following 1 pairs of parts of speech are connected with `dislocated:ccomp`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (3; 100% instances).
 
 
 ~~~ conllu

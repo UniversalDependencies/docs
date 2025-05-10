@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 12	fgColor:white
 # visual-style 12 14 obl	color:blue
 1	donc	donc	ADV	_	_	3	advmod	_	_
-2	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
+2	j'	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
 3	avais	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
 4	énormément	énormément	ADV	_	_	3	obj	_	_
 5	de	de	ADP	_	_	8	reparandum	_	SpaceAfter=No
@@ -57,8 +57,8 @@ The following 4 pairs of parts of speech are connected with `obl`: <tt><a href="
 6	d'	de	ADP	_	_	7	case	_	SpaceAfter=No
 7	habitude	habitude	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
-9	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
-10	la	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+9	tu	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
+10	la	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
 11	connais	connaître	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	!	!	PUNCT	_	_	11	punct	_	_
 
@@ -75,7 +75,7 @@ The following 4 pairs of parts of speech are connected with `obl`: <tt><a href="
 2	que	que	SCONJ	_	_	1	dep	_	Scrap=Yes
 3	ouais	ouais	INTJ	_	_	6	discourse	_	_
 4	euh	euh	INTJ	_	_	6	discourse	_	_
-5	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	_	_	12	mark	_	_
 8	euh	euh	INTJ	_	_	12	discourse	_	_

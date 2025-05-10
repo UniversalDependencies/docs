@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 * `Past` (5788; 43% of non-empty `Tense`): <em>sai, tuli, sanoi, kertoi, alkoi, voitti, teki, oli, nousi, jäi</em>
 * `Pres` (7768; 57% of non-empty `Tense`): <em>tulee, saa, on, ottaa, sanoo, kertoo, kuuluu, tekee, toimii, haluaa</em>
-* `EMPTY` (13786): <em>tehdä, tehty, saada, ottaa, saanut, olevan, tullut, käyttää, ei, antaa</em>
+* `EMPTY` (13785): <em>tehdä, tehty, saada, ottaa, saanut, olevan, tullut, käyttää, ei, antaa</em>
 
 <table>
   <tr><th>Paradigm <i>saada</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>

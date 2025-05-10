@@ -8,64 +8,59 @@ udver: '2'
 
 This relation is universal.
 
-8297 nodes (12%) are attached to their parents as `punct`.
+14065 nodes (13%) are attached to their parents as `punct`.
 
-8191 instances of `punct` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.15174159334699.
+13903 instances of `punct` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.18926413082119.
 
-The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (5609; 68% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (1941; 23% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (528; 6% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (143; 2% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (30; 0% instances), <tt><a href="ko_ksl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (19; 0% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="ko_ksl-pos-SYM.html">SYM</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 12 punct	color:blue
-1	만약에	만약+에	ADV	NNG+JKB	_	3	obl	_	_
-2	돈이	돈+이	NOUN	NNG+JKS	_	3	nsubj	_	_
-3	없다손	없+다+손	VERB	VA+EF+JX	_	7	advcl	_	_
-4	치더라도	치+더라도	VERB	VV+EC	_	3	advcl	_	_
-5	은행에게	은행+에게	NOUN	NNG+JKB	_	7	obl	_	_
-6	돈을	돈+을	NOUN	NNG+JKO	_	7	obj	_	_
-7	빌리곤까지	빌리+고+ㄴ+까지	ADV	VV+EC+JX+JX	_	11	advcl	_	_
-8	해서도	하	AUX	VV+EC+JX	_	7	aux	_	_
-9	그렇게	그렇+게	ADV	VA+EC	_	10	advmod	_	_
-10	할	하+ㄹ	VERB	VV+ETM	_	11	acl	_	_
-11	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	SF	_	11	punct	_	_
-
-~~~
+The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (9590; 68% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (3288; 23% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (831; 6% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (208; 1% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (88; 1% instances), <tt><a href="ko_ksl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (15; 0% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="ko_ksl-pos-SYM.html">SYM</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 6 punct	color:blue
-1	우선	우선	ADV	MAG	_	5	advmod	_	_
-2	꽃이	꽃+이	NOUN	NNG+JKS	_	5	nsubj	_	_
-3	많아서	많+아서	VERB	VA+EC	_	5	advcl	_	_
-4	그림처럼	그림+처럼	ADV	NNG+JKB	_	5	advmod	_	_
-5	예뻤다	예쁘+었+다	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	SF	_	5	punct	_	_
+# visual-style 5 7 punct	color:blue
+1	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+2	6월	6+월	NOUN	SN+NNB	_	5	obl	_	_
+3	20일에	20+일+에	NOUN	SN+NNB+JKB	_	2	flat	_	_
+4	여행을	여행+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	가고	가+고	VERB	VV+EC	_	0	root	_	_
+6	싶습니다	싶	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 punct	color:blue
-1	외국인	외국인	NOUN	NNG	_	5	nsubj	_	SpaceAfter=No
-2	,	,	PUNCT	SP	_	1	punct	_	_
-3	일본사람도	일본+사람+도	NOUN	NNP+NNG+JX	_	1	conj	_	_
-4	걸에	걸+에	ADV	NF+JKB	_	5	obl	_	_
-5	관광한다	관광+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	SF	_	5	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 punct	color:blue
+1	한국어도	한국어도	NOUN	NNG+JX	_	2	obj	_	_
+2	배울	배우+ㄹ	VERB	VV+ETM	_	3	acl	_	_
+3	수	수	NOUN	NNB	_	4	nsubj	_	_
+4	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 punct	color:blue
+1	겨울은	겨울+은	NOUN	NNG+JX	_	4	nsubj	_	_
+2	12월	12+월	NOUN	SN+NNB	_	4	obl	_	_
+3	부터	부터	ADP	JX	_	2	case	_	_
+4	2월	2+월	NOUN	SN+NNB	_	0	root	_	_
+5	까지	까지	ADP	JX	_	4	case	_	_
+6	입니다	이+ㅂ니다	ADJ	VCP+EF	_	4	flat	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	4	punct	_	_
 
 ~~~
 

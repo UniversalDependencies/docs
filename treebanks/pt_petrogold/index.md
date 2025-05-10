@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Elvis de Souza, Cláudia Freitas, Aline Silveira, Tatiana Cavalcanti, Maria Clara Castro, Wograine Evelyn.
 
 Repository: [UD_Portuguese-PetroGold](https://github.com/UniversalDependencies/UD_Portuguese-PetroGold)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_petrogold215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_petrogold216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -93,7 +93,7 @@ year={2022}
 
 ## Relations
 
-[acl](pt_petrogold-dep-acl.html) – [acl:relcl](pt_petrogold-dep-acl-relcl.html) – [advcl](pt_petrogold-dep-advcl.html) – [advmod](pt_petrogold-dep-advmod.html) – [amod](pt_petrogold-dep-amod.html) – [appos](pt_petrogold-dep-appos.html) – [aux](pt_petrogold-dep-aux.html) – [aux:pass](pt_petrogold-dep-aux-pass.html) – [case](pt_petrogold-dep-case.html) – [cc](pt_petrogold-dep-cc.html) – [ccomp](pt_petrogold-dep-ccomp.html) – [conj](pt_petrogold-dep-conj.html) – [cop](pt_petrogold-dep-cop.html) – [csubj](pt_petrogold-dep-csubj.html) – [det](pt_petrogold-dep-det.html) – [discourse](pt_petrogold-dep-discourse.html) – [expl](pt_petrogold-dep-expl.html) – [expl:impers](pt_petrogold-dep-expl-impers.html) – [expl:pass](pt_petrogold-dep-expl-pass.html) – [expl:pv](pt_petrogold-dep-expl-pv.html) – [fixed](pt_petrogold-dep-fixed.html) – [flat](pt_petrogold-dep-flat.html) – [flat:foreign](pt_petrogold-dep-flat-foreign.html) – [flat:name](pt_petrogold-dep-flat-name.html) – [goeswith](pt_petrogold-dep-goeswith.html) – [iobj](pt_petrogold-dep-iobj.html) – [mark](pt_petrogold-dep-mark.html) – [nmod](pt_petrogold-dep-nmod.html) – [nsubj](pt_petrogold-dep-nsubj.html) – [nsubj:pass](pt_petrogold-dep-nsubj-pass.html) – [nummod](pt_petrogold-dep-nummod.html) – [obj](pt_petrogold-dep-obj.html) – [obl](pt_petrogold-dep-obl.html) – [obl:agent](pt_petrogold-dep-obl-agent.html) – [obl:arg](pt_petrogold-dep-obl-arg.html) – [orphan](pt_petrogold-dep-orphan.html) – [parataxis](pt_petrogold-dep-parataxis.html) – [punct](pt_petrogold-dep-punct.html) – [root](pt_petrogold-dep-root.html) – [xcomp](pt_petrogold-dep-xcomp.html)
+[acl](pt_petrogold-dep-acl.html) – [acl:relcl](pt_petrogold-dep-acl-relcl.html) – [advcl](pt_petrogold-dep-advcl.html) – [advmod](pt_petrogold-dep-advmod.html) – [amod](pt_petrogold-dep-amod.html) – [appos](pt_petrogold-dep-appos.html) – [aux](pt_petrogold-dep-aux.html) – [aux:pass](pt_petrogold-dep-aux-pass.html) – [case](pt_petrogold-dep-case.html) – [cc](pt_petrogold-dep-cc.html) – [ccomp](pt_petrogold-dep-ccomp.html) – [conj](pt_petrogold-dep-conj.html) – [cop](pt_petrogold-dep-cop.html) – [csubj](pt_petrogold-dep-csubj.html) – [dep](pt_petrogold-dep-dep.html) – [det](pt_petrogold-dep-det.html) – [discourse](pt_petrogold-dep-discourse.html) – [expl](pt_petrogold-dep-expl.html) – [expl:impers](pt_petrogold-dep-expl-impers.html) – [expl:pass](pt_petrogold-dep-expl-pass.html) – [expl:pv](pt_petrogold-dep-expl-pv.html) – [fixed](pt_petrogold-dep-fixed.html) – [flat](pt_petrogold-dep-flat.html) – [flat:foreign](pt_petrogold-dep-flat-foreign.html) – [flat:name](pt_petrogold-dep-flat-name.html) – [goeswith](pt_petrogold-dep-goeswith.html) – [iobj](pt_petrogold-dep-iobj.html) – [mark](pt_petrogold-dep-mark.html) – [nmod](pt_petrogold-dep-nmod.html) – [nsubj](pt_petrogold-dep-nsubj.html) – [nsubj:pass](pt_petrogold-dep-nsubj-pass.html) – [nummod](pt_petrogold-dep-nummod.html) – [obj](pt_petrogold-dep-obj.html) – [obl](pt_petrogold-dep-obl.html) – [obl:agent](pt_petrogold-dep-obl-agent.html) – [obl:arg](pt_petrogold-dep-obl-arg.html) – [orphan](pt_petrogold-dep-orphan.html) – [parataxis](pt_petrogold-dep-parataxis.html) – [punct](pt_petrogold-dep-punct.html) – [root](pt_petrogold-dep-root.html) – [xcomp](pt_petrogold-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -136,7 +136,7 @@ year={2022}
 </ul>
 
 <ul>
-<li>This corpus contains 38 lemmas tagged as determiners (DET): Do, algum, ambos, aquele, bastante, cada, certo, cujo, dado, demais, determinado, diverso, esse, essse, este, mais, muito, nenhum, nosso, o, outro, pouco, próprio, qual, qualquer, quanto, que, seu, sua, tais, tal, tanto, todo, um, vário, vários, µ, </li>
+<li>This corpus contains 37 lemmas tagged as determiners (DET): Do, algum, ambos, aquele, bastante, cada, certo, cujo, dado, demais, determinado, diverso, esse, essse, este, mais, muito, nenhum, nosso, o, outro, pouco, próprio, qual, qualquer, quanto, que, seu, sua, tais, tal, tanto, todo, um, vário, vários, µ</li>
 </ul>
 
 <ul>
@@ -318,7 +318,7 @@ year={2022}
 <ul>
   <li>Def
     <ul>
-      <li>DET: a, o, os, as, esta, , Do, µ, á</li>
+      <li>DET: a, o, os, as, esta, Do, µ, á</li>
       <li>PRON: o</li>
     </ul>
   </li>
@@ -466,7 +466,7 @@ year={2022}
 <ul>
   <li>Art
     <ul>
-      <li>DET: a, o, os, as, um, uma, , Do, uns, µ</li>
+      <li>DET: a, o, os, as, um, uma, Do, uns, µ, á</li>
     </ul>
   </li>
 </ul>
@@ -685,13 +685,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (2906)</li>
       <li>VERB-Fin--NOUN-ADP(sobre) (1)</li>
       <li>VERB-Fin--PRON (43)</li>
-      <li>VERB-Fin--PRON-Acc (47)</li>
+      <li>VERB-Fin--PRON-Acc (48)</li>
       <li>VERB-Ger--NOUN (928)</li>
       <li>VERB-Ger--PRON (5)</li>
       <li>VERB-Ger--PRON-Acc (13)</li>
       <li>VERB-Inf--NOUN (1499)</li>
       <li>VERB-Inf--PRON (11)</li>
-      <li>VERB-Inf--PRON-Acc (39)</li>
+      <li>VERB-Inf--PRON-Acc (38)</li>
       <li>VERB-Part--NOUN (119)</li>
       <li>VERB-Part--NOUN-ADP(a) (9)</li>
       <li>VERB-Part--PRON (4)</li>
@@ -728,5 +728,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>

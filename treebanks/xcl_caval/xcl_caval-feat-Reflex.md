@@ -9,30 +9,30 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-619 tokens (1%) have a non-empty value of `Reflex`.
-20 types (0%) occur at least once with a non-empty value of `Reflex`.
+749 tokens (1%) have a non-empty value of `Reflex`.
+23 types (0%) occur at least once with a non-empty value of `Reflex`.
 3 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (459; 1% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (160; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (502; 1% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (247; 0% instances).
 
 ### `PRON`
 
-459 <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Reflex`.
+502 <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (459; 100%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (459; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (456; 99%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (359; 78%), <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Gen</tt> (328; 71%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (502; 100%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (502; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (499; 99%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (400; 80%), <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Gen</tt> (344; 69%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (459; 100% of non-empty `Reflex`): <em>իւր, ինքն, իւրեանց, իւրեանս, իւրեւ, իւրոյ, իւրոց, իւրում, ես, ինքեանք</em>
-* `EMPTY` (9338): <em>նա, որ, նորա, ձեզ, նոսա, իմ, իս, նմա, նոցա, քո</em>
+* `Yes` (502; 100% of non-empty `Reflex`): <em>իւր, ինքն, իւրեանց, իւրեանս, իւրեւ, իւրոյ, իւրոց, իւրեաւ, իւրում, ես</em>
+* `EMPTY` (10019): <em>նա, որ, նորա, ձեզ, նոսա, նմա, իմ, նոցա, իս, քո</em>
 
 ### `DET`
 
-160 <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `Reflex`.
+247 <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (160; 100%), <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (160; 100%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (160; 100%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (114; 71%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (247; 100%), <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (247; 100%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (246; 100%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (167; 68%).
 
 `DET` tokens may have the following values of `Reflex`:
 
-* `Yes` (160; 100% of non-empty `Reflex`): <em>իւրում, իւրոց, իւրոյ, իւրմէ, իւր, իւրով, իւրովք, իւրեանց, իրում, իւրս</em>
-* `EMPTY` (5727): <em>ն, ամենայն, ս, դ, մի, բազում, այս, որ, բազումք, այն</em>
+* `Yes` (247; 100% of non-empty `Reflex`): <em>իւրում, իւրոց, իւրոյ, իւր, իւրմէ, իւրով, իւրեանց, իւրովք, ինքն, իրում</em>
+* `EMPTY` (6854): <em>ն, ս, ամենայն, դ, մի, բազում, որ, այս, ինչ, այն</em>
 

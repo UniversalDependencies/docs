@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 5 ccomp	color:blue
 1	Думайта	думайтны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
-2	да	да	PART	Pcle	_	1	advmod:foc	_	SpaceAfter=No
+2	да	да	PART	Pcle	_	1	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	5	punct	_	_
 4	мед	мед	SCONJ	CS	_	5	mark	_	_
 5	кӧтӧдас	кӧтӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	1	ccomp	_	SpaceAfter=No
@@ -38,13 +38,13 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 9 ccomp	color:blue
-1	Аскинас	аски	NOUN	N	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl:tmod	_	_
+1	Аскинас	аски	NOUN	N	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	_
 2	сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 3	шуис	шуны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 4	Машалы	Маша	PROPN	N	Case=Dat|Number=Sing	3	obl	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	тэ	тэ	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
-7	пӧ	пӧ	PART	Pcle	_	9	advmod:eval	_	_
+7	пӧ	пӧ	PART	Pcle	_	9	advmod	_	_
 8	этша	этша	ADV	Adv	_	9	advmod	_	_
 9	вира	вира	ADJ	A	Case=Nom|Number=Sing	3	ccomp	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	3	punct	_	_
@@ -60,17 +60,17 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 4 8 ccomp	color:blue
 1	—	—	PUNCT	PUNCT	_	4	punct	_	_
 2	Он	оз	AUX	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Pres	4	aux	_	_
-3	ӧд	ӧд	PART	Pcle	_	4	advmod:eval	_	_
+3	ӧд	ӧд	PART	Pcle	_	4	advmod	_	_
 4	тӧд	тӧд	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	_
 6	мый	мый	SCONJ	CS	_	8	mark	_	_
-7	татшӧма	татшӧма	ADV	Adv	_	8	advmod:mmod	_	_
+7	татшӧма	татшӧма	ADV	Adv	_	8	advmod	_	_
 8	зэрны-гымавны	зэрны-гымавны	VERB	V	VerbForm=Inf	4	ccomp	_	_
-9	кутас	кутны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	8	aux:aspect	_	SpaceAfter=No
+9	кутас	кутны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	8	aux	_	SpaceAfter=No
 10	,	,	PUNCT	CLB	_	12	punct	_	_
 11	—	—	PUNCT	PUNCT	_	12	punct	_	_
 12	нурбыльті	нурбыльтны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	4	parataxis	_	_
-13	сӧмын	сӧмын	ADV	Adv	_	12	advmod:foc	_	SpaceAfter=No
+13	сӧмын	сӧмын	ADV	Adv	_	12	advmod	_	SpaceAfter=No
 14	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~

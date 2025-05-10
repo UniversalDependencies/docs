@@ -23,7 +23,7 @@ The following 6 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 expl:subj	color:blue
-1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_
+1	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_
 2	y	y	PRON	_	Person=3|PronType=Prs	3	expl:comp	_	_
 3	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 4	beaucoup	beaucoup	ADV	_	_	3	obj	_	_
@@ -68,8 +68,8 @@ The following 6 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 # visual-style 10	fgColor:white
 # visual-style 10 12 expl:subj	color:blue
 1	et	et	CCONJ	_	_	4	cc	_	_
-2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-3	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+2	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	me	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
 4	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	10	punct	_	_
 6	oh	oh	INTJ	_	_	8	discourse	_	_
@@ -80,7 +80,7 @@ The following 6 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	Reported=Yes|SpaceAfter=No
 12	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	expl:subj	_	_
 13	qu'	que	SCONJ	_	_	17	mark	_	SpaceAfter=No
-14	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+14	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
 15	s'	soi	PRON	_	Person=3|PronType=Prs	17	expl:comp	_	SpaceAfter=No
 16	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux:tense	_	_
 17	passé	passer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl:cleft	_	_

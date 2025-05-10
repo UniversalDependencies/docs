@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>сембе</em> (<tt><a href="mdf_jr-
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.117647 (the average of all parts of speech is 1.550071).
+The form / lemma ratio of `DET` is 1.117647 (the average of all parts of speech is 1.547887).
 
 The 1st highest number of forms (2) was observed with the lemma “лама”: <em>лама, ламос</em>.
 
@@ -65,9 +65,9 @@ Examples: <em>эрь, лама, сембе, кой-кона, лия</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 5 different relations: <tt><a href="mdf_jr-dep-det.html">det</a></tt> (33; 89% instances), <tt><a href="mdf_jr-dep-expl.html">expl</a></tt> (1; 3% instances), <tt><a href="mdf_jr-dep-fixed.html">fixed</a></tt> (1; 3% instances), <tt><a href="mdf_jr-dep-obl-tmod.html">obl:tmod</a></tt> (1; 3% instances), <tt><a href="mdf_jr-dep-xcomp.html">xcomp</a></tt> (1; 3% instances)
+`DET` nodes are attached to their parents using 5 different relations: <tt><a href="mdf_jr-dep-det.html">det</a></tt> (33; 89% instances), <tt><a href="mdf_jr-dep-expl.html">expl</a></tt> (1; 3% instances), <tt><a href="mdf_jr-dep-fixed.html">fixed</a></tt> (1; 3% instances), <tt><a href="mdf_jr-dep-obl.html">obl</a></tt> (1; 3% instances), <tt><a href="mdf_jr-dep-xcomp.html">xcomp</a></tt> (1; 3% instances)
 
-Parents of `DET` nodes belong to 4 different parts of speech: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (33; 89% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 3% instances)
+Parents of `DET` nodes belong to 5 different parts of speech: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (32; 86% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 3% instances)
 
 36 (97%) `DET` nodes are leaves.
 
@@ -75,7 +75,7 @@ Parents of `DET` nodes belong to 4 different parts of speech: <tt><a href="mdf_j
 
 The highest child degree of a `DET` node is 1.
 
-Children of `DET` nodes are attached using 1 different relations: <tt><a href="mdf_jr-dep-advmod-deg.html">advmod:deg</a></tt> (1; 100% instances)
+Children of `DET` nodes are attached using 1 different relations: <tt><a href="mdf_jr-dep-advmod.html">advmod</a></tt> (1; 100% instances)
 
 Children of `DET` nodes belong to 1 different parts of speech: <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 100% instances)
 

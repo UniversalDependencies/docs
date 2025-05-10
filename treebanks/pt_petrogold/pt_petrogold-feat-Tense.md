@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Fut`, `Imp`, `Past`, `Pqp`, `Pres`.
 
-12032 tokens (5%) have a non-empty value of `Tense`.
-1510 types (10%) occur at least once with a non-empty value of `Tense`.
+12031 tokens (5%) have a non-empty value of `Tense`.
+1509 types (10%) occur at least once with a non-empty value of `Tense`.
 607 lemmas (6%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (7307; 3% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (4725; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (7306; 3% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (4725; 2% instances).
 
 ### `VERB`
 
-7307 <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> tokens (36% of all `VERB` tokens) have a non-empty value of `Tense`.
+7306 <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> tokens (36% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="pt_petrogold-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7307; 100%), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7306; 100%), <tt><a href="pt_petrogold-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7297; 100%), <tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt> (7234; 99%), <tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6937; 95%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5096; 70%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="pt_petrogold-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7306; 100%), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7305; 100%), <tt><a href="pt_petrogold-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7296; 100%), <tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt> (7233; 99%), <tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6936; 95%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5095; 70%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -26,8 +26,8 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Imp` (142; 2% of non-empty `Tense`): <em>continha, continham, apresentava, possuía, tinha, houvesse, ocorria, pudesse, apresentavam, contavam</em>
 * `Past` (1116; 15% of non-empty `Tense`): <em>ocorreu, apresentou, houve, teve, observou, apresentaram, mostrou, utilizou, analisou, obteve</em>
 * `Pqp` (2; 0% of non-empty `Tense`): <em>intemperara, observara</em>
-* `Pres` (5927; 81% of non-empty `Tense`): <em>pode, podem, apresenta, tem, apresentam, deve, mostra, ocorre, possui, seja</em>
-* `EMPTY` (13052): <em>partir, devido, utilizando, utilizado, utilizados, obtidos, apresentados, utilizada, observado, produzida</em>
+* `Pres` (5926; 81% of non-empty `Tense`): <em>pode, podem, apresenta, tem, apresentam, deve, mostra, ocorre, possui, seja</em>
+* `EMPTY` (13051): <em>partir, devido, utilizando, utilizado, utilizados, obtidos, apresentados, utilizada, observado, produzida</em>
 
 <table>
   <tr><th>Paradigm <i>poder</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
@@ -64,7 +64,8 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> VERB</tt> (382; 51%),
+<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> VERB</tt> (381; 51%),
+<tt>VERB --[<tt><a href="pt_petrogold-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
 

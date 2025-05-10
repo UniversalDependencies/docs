@@ -11,7 +11,7 @@ It occurs with 2 different values: `Fin`, `Inf`.
 
 6486 tokens (11%) have a non-empty value of `VerbForm`.
 1020 types (36%) occur at least once with a non-empty value of `VerbForm`.
-806 lemmas (32%) occur at least once with a non-empty value of `VerbForm`.
+805 lemmas (32%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 3 part-of-speech tags: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (6425; 11% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (59; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 ### `VERB`

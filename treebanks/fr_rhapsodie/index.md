@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Kim Gerdes, Sylvain Kahane, Mariam Nakhlé, Chunxiao Yan, Aline Etienne, Marine Courtin.
 
 Repository: [UD_French-Rhapsodie](https://github.com/UniversalDependencies/UD_French-Rhapsodie)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_rhapsodie215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_rhapsodie216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -62,7 +62,7 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 
 ## Features
 
-[Definite](fr_rhapsodie-feat-Definite.html) – [ExtPos](fr_rhapsodie-feat-ExtPos.html) – [Foreign](fr_rhapsodie-feat-Foreign.html) – [Gender](fr_rhapsodie-feat-Gender.html) – [Mood](fr_rhapsodie-feat-Mood.html) – [Number](fr_rhapsodie-feat-Number.html) – [Number[psor]](fr_rhapsodie-feat-Number-psor.html) – [NumType](fr_rhapsodie-feat-NumType.html) – [Person](fr_rhapsodie-feat-Person.html) – [Person[psor]](fr_rhapsodie-feat-Person-psor.html) – [Polarity](fr_rhapsodie-feat-Polarity.html) – [Poss](fr_rhapsodie-feat-Poss.html) – [PronType](fr_rhapsodie-feat-PronType.html) – [Reflex](fr_rhapsodie-feat-Reflex.html) – [Tense](fr_rhapsodie-feat-Tense.html) – [VerbForm](fr_rhapsodie-feat-VerbForm.html)
+[Definite](fr_rhapsodie-feat-Definite.html) – [Emph](fr_rhapsodie-feat-Emph.html) – [ExtPos](fr_rhapsodie-feat-ExtPos.html) – [Foreign](fr_rhapsodie-feat-Foreign.html) – [Gender](fr_rhapsodie-feat-Gender.html) – [Mood](fr_rhapsodie-feat-Mood.html) – [Number](fr_rhapsodie-feat-Number.html) – [Number[psor]](fr_rhapsodie-feat-Number-psor.html) – [NumType](fr_rhapsodie-feat-NumType.html) – [Person](fr_rhapsodie-feat-Person.html) – [Person[psor]](fr_rhapsodie-feat-Person-psor.html) – [Polarity](fr_rhapsodie-feat-Polarity.html) – [Poss](fr_rhapsodie-feat-Poss.html) – [PronType](fr_rhapsodie-feat-PronType.html) – [Reflex](fr_rhapsodie-feat-Reflex.html) – [Tense](fr_rhapsodie-feat-Tense.html) – [VerbForm](fr_rhapsodie-feat-VerbForm.html)
 
 ## Relations
 
@@ -105,7 +105,7 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 </ul>
 
 <ul>
-<li>This corpus contains 41 lemmas tagged as pronouns (PRON): aucun, autre, ce, ceci, cela, celui, certain, chacun, ci, dont, en, eux, j~, lequel, lui, lui-même, moi, moi-même, nous, on, où, personne, plusieurs, que, quel, quelqu'un, qui, quoi, qu~, rien, sien, soi, soi-même, tel, toi, tout, un, vous, vous-même, y, ça</li>
+<li>This corpus contains 42 lemmas tagged as pronouns (PRON): aucun, autre, ce, ceci, cela, celui, certain, chacun, ci, dont, en, eux, j~, le, lequel, lui, lui-même, moi, moi-même, nous, on, où, personne, plusieurs, que, quel, quelqu'un, qui, quoi, qu~, rien, sien, soi, soi-même, tel, toi, tout, un, vous, vous-même, y, ça</li>
 </ul>
 
 <ul>
@@ -113,7 +113,7 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 </ul>
 
 <ul>
-<li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: aucun, autre, ce, certain, plusieurs, quel, tel, tout, un</li>
+<li>Out of the above, 10 lemmas occurred sometimes as PRON and sometimes as DET: aucun, autre, ce, certain, le, plusieurs, quel, tel, tout, un</li>
 </ul>
 
 <ul>
@@ -166,7 +166,7 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: grande, petite, magique, autre, bonne, toutes, première, toute, seule, certaine</li>
+      <li>ADJ: jeune, grande, petite, magique, autre, bonne, toutes, première, toute, même</li>
       <li>ADJ-Part: étonnée</li>
       <li>DET: la, une, cette, sa, ma, toute, aucune, quelle, certaines, ta</li>
       <li>NOUN: place, vie, fille, chose, gauche, rue, droite, fois, boule, choses</li>
@@ -180,14 +180,13 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: petit, tous, tout, vrai, droit, français, premier, sûr, bon, gros</li>
+      <li>ADJ: tout, petit, tous, vrai, droit, premier, sûr, même, bon, grand</li>
       <li>ADJ-Part: entendu</li>
       <li>AUX-Part: été, fait</li>
       <li>DET: le, un, ce, cet, du, aucun, quel, certains, tel, tous</li>
       <li>NOUN: fait, moment, ans, gens, temps, art, côté, monde, accord, cas</li>
       <li>PRON: c', il, on, ça, ils, ce, le, -ce, lui, rien</li>
       <li>PROPN: Kenya, Maître, Gâtinais, Figaro, Beauceron, Argentins, Beaucerons, Chinois, Christ, Conseil</li>
-      <li>VERB: dit, fait, eu, pu, travaillé, vu, arrivé, compris, vécu, été</li>
       <li>VERB-Part: dit, fait, eu, pu, travaillé, vu, arrivé, compris, vécu, été</li>
     </ul>
   </li>
@@ -201,7 +200,7 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: tous, jeunes, toutes, grands, autres, petits, politiques, grandes, bons, différentes</li>
+      <li>ADJ: tous, toutes, grands, autres, jeunes, petits, grandes, bons, différentes, nombreux</li>
       <li>AUX-Fin: sont, ont, avez, êtes, avons, étaient, sommes, avaient, étiez, soient</li>
       <li>DET: les, des, ces, ses, vos, nos, mes, de, d', plusieurs</li>
       <li>NOUN: ans, gens, choses, enfants, années, heures, études, livres, fonctions, hommes</li>
@@ -218,7 +217,7 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: jeune, même, petit, tout, difficile, autre, grande, vrai, droit, premier</li>
+      <li>ADJ: tout, petit, jeune, grande, vrai, autre, droit, même, premier, grand</li>
       <li>ADJ-Part: entendu, étonnée</li>
       <li>AUX-Fin: est, a, ai, était, suis, avait, étais, sera, soit, aurais</li>
       <li>AUX-Part: été, fait</li>
@@ -227,7 +226,6 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
       <li>NUM: un, zéro</li>
       <li>PRON: c', je, il, on, ça, j', ce, tu, elle, me</li>
       <li>PROPN: Nef, Kenya, Maître, Beauce, Gâtinais, Ethiopie, Figaro, Beauceron, Seine, Église</li>
-      <li>VERB: a, est, va, dit, faut, fait, ai, peut, avait, crois</li>
       <li>VERB-Fin: a, est, va, faut, ai, peut, avait, crois, sais, vais</li>
       <li>VERB-Part: dit, fait, eu, pu, travaillé, vu, arrivé, vécu, été, choisi</li>
     </ul>
@@ -267,7 +265,8 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: pas, non, n', ne, plus, qu', que</li>
+      <li>ADV: pas, non, n', ne, plus, que, qu'</li>
+      <li>SCONJ: qu', que</li>
     </ul>
   </li>
 </ul>
@@ -464,7 +463,7 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 <ul>
   <li>Yes
     <ul>
-      <li>DET: mon, votre, son, sa, notre, ma, ses, vos, nos, mes</li>
+      <li>DET: mon, votre, sa, son, notre, ma, ses, vos, nos, mes</li>
     </ul>
   </li>
 </ul>
@@ -541,6 +540,23 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>Emph</a>
+    <ul>
+      <li>No
+        <ul>
+          <li>PRON: le, l', la, elle</li>
+        </ul>
+      </li>
+      <li>Yes
+        <ul>
+          <li>PRON: lui, elle</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>ExtPos</a>
@@ -679,7 +695,7 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 
 <ul>
 <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: avoir.</li>
-<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être, avoir.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -688,9 +704,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--PRON (34)</li>
+      <li>VERB--PRON (33)</li>
       <li>VERB-Fin--NOUN (181)</li>
-      <li>VERB-Fin--PRON (1877)</li>
+      <li>VERB-Fin--PRON (1879)</li>
       <li>VERB-Inf--NOUN (6)</li>
       <li>VERB-Inf--PRON (13)</li>
       <li>VERB-Part--NOUN (40)</li>
@@ -710,10 +726,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(que) (1)</li>
       <li>VERB-Fin--PRON (300)</li>
       <li>VERB-Fin--PRON-ADP(de) (1)</li>
-      <li>VERB-Inf--NOUN (229)</li>
+      <li>VERB-Inf--NOUN (232)</li>
       <li>VERB-Inf--NOUN-ADP(de) (2)</li>
       <li>VERB-Inf--PRON (134)</li>
-      <li>VERB-Part--NOUN (147)</li>
+      <li>VERB-Part--NOUN (144)</li>
       <li>VERB-Part--NOUN-ADP(de) (1)</li>
       <li>VERB-Part--NOUN-ADP(sur) (1)</li>
       <li>VERB-Part--PRON (86)</li>

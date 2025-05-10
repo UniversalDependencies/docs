@@ -16,14 +16,14 @@ The feature is used with 4 part-of-speech tags: <tt><a href="myv_jr-pos-AUX.html
 
 ### `AUX`
 
-500 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (63% of all `AUX` tokens) have a non-empty value of `Polarity`.
+500 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (64% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (500; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (394; 79%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (360; 72%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (350; 70%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (344; 69%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (344; 69%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (500; 100% of non-empty `Polarity`): <em>а, аволь, эзь, апак, иля, эзть, эзинь, эсть, эзизе, илядо</em>
-* `EMPTY` (299): <em>кармась, ульнесь, кармасть, эряви, ули, бу, кадык, карми, кармить, ли</em>
+* `EMPTY` (286): <em>кармась, ульнесь, кармасть, эряви, ули, бу, кадык, карми, кармить, ульнесть</em>
 
 ### `ADJ`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (42; 100% of non-empty `Polarity`): <em>арась, арасть, арасель, арасельгак, араськак, араселеть, арасельть, арасельтькак</em>
-* `EMPTY` (853): <em>од, паро, покш, кодамо, якстере, мазый, сэрей, лембе, омбоце, васень</em>
+* `EMPTY` (857): <em>од, паро, покш, кодамо, якстере, мазый, сэрей, лембе, омбоце, васень</em>
 
 ### `INTJ`
 
@@ -54,10 +54,10 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>аместь</em>
-* `EMPTY` (1178): <em>сон, весе, те, мон, сонзэ, тон, мезе, сонсь, минь, сынь</em>
+* `EMPTY` (1174): <em>сон, весе, те, мон, сонзэ, тон, мезе, сонсь, минь, сынь</em>
 
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>AUX --[<tt><a href="myv_jr-dep-fixed.html">fixed</a></tt>]--> AUX</tt> (2; 100%).
+<tt>AUX --[<tt><a href="myv_jr-dep-fixed.html">fixed</a></tt>]--> AUX</tt> (3; 100%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-cop.html">cop</a></tt>.
 
-30 nodes (0%) are attached to their parents as `cop:outer`.
+34 nodes (0%) are attached to their parents as `cop:outer`.
 
-28 instances of `cop:outer` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.6.
+32 instances of `cop:outer` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.52941176470588.
 
-The following 6 pairs of parts of speech are connected with `cop:outer`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (16; 53% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (5; 17% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (5; 17% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (2; 7% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `cop:outer`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (20; 59% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (5; 15% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (5; 15% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (2; 6% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

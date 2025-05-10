@@ -69,7 +69,7 @@ The following 13 pairs of parts of speech are connected with `advcl:cleft`: <tt>
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 advcl:cleft	color:blue
-1	Qu'	que	PRON	_	PronType=Int	0	root	_	Cxn=Interrogative-WHInfo-Direct|CxnElt=1:Interrogative-WHInfo-Direct.Clause,1:Interrogative-WHInfo-Direct.WHWord|SpaceAfter=No|wordform=qu'
+1	Qu'	que	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|wordform=qu'
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	SpaceAfter=No
 3	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	1	expl:subj	_	wordform=ce
 4	qui	qui	PRON	_	PronType=Rel	5	nsubj	_	_

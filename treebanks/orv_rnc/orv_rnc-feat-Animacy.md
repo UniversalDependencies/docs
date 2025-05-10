@@ -101,7 +101,7 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 
 2 <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2; 100%), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2; 100%), <tt><a href="orv_rnc-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
@@ -122,7 +122,7 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="orv_rnc-dep-det.html">det</a></tt>]--> DET</tt> (256; 94%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-det.html">det</a></tt>]--> DET</tt> (254; 94%),
 <tt>PROPN --[<tt><a href="orv_rnc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (234; 84%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (221; 93%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (185; 78%),

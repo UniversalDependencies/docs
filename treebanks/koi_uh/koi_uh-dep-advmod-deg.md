@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: Relations: `advmod:deg`
 
 This relation is a language-specific subtype of <tt><a href="koi_uh-dep-advmod.html">advmod</a></tt>.
-There are also 3 other language-specific subtypes of `advmod`: <tt><a href="koi_uh-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="koi_uh-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="koi_uh-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
 1 nodes (0%) are attached to their parents as `advmod:deg`.
 
@@ -39,7 +38,7 @@ The following 1 pairs of parts of speech are connected with `advmod:deg`: <tt><a
 14	ас	ас	PRON	Pron	PronType=Prs|Reflex=Yes	11	appos	_	GTtags=Pron,Refl,Cmpl
 15	кежас	кежӧ	ADP	Adp	AdpType=Post|Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	14	case	_	GTtags=Po,Sg,Ill,PxSg3|SpaceAfter=No
 16	,	,	PUNCT	CLB	_	14	punct	_	_
-17	сэсся	сэсся	ADV	Adv	_	19	advmod:tmod	_	_
+17	сэсся	сэсся	ADV	Adv	AdvType=Tim	19	advmod	_	_
 18	ыш	ыш	INTJ	Interj	_	19	compound:prt	_	_
 19	ловзисис	ловзисьны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 20	.	.	PUNCT	CLB	_	2	punct	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ky_tuecl-dep-nmod.html">nmod</a></tt>.
 
-24 nodes (2%) are attached to their parents as `nmod:poss`.
+27 nodes (2%) are attached to their parents as `nmod:poss`.
 
-24 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.08333333333333.
+27 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.07407407407407.
 
-The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> (13; 54% instances), <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> (4; 17% instances), <tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> (2; 8% instances), <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
+The following 10 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> (14; 52% instances), <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> (4; 15% instances), <tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> (2; 7% instances), <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -41,11 +41,11 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nmod:poss	color:blue
-1	Менин	мен	PRON	_	_	2	nmod:poss	_	_
+1	Менин	мен	PRON	_	Case=Gen|Number=Sing|PronType=Prs	2	nmod:poss	_	_
 2	атам	ата	NOUN	_	_	5	nsubj	_	_
 3	сени	сен	PRON	_	_	4	nmod:poss	_	_
 4	кинен	ки	PRON	_	_	5	obl	_	_
-5	кыйыныраак	кыйын	ADJ	_	_	0	root	_	SpaceAfter=No
+5	кыйыныраак	кыйын	ADJ	_	Degree=Cmp	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -58,7 +58,7 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 2	fgColor:white
 # visual-style 2 1 nmod:poss	color:blue
 1	Мунун	бул	PRON	_	_	2	nmod:poss	_	_
-2	кѳгү	кѳк	ADJ	_	_	3	nsubj	_	_
+2	көгү	көк	ADJ	_	_	3	nsubj	_	_
 3	жакшыраак	жакшы	ADJ	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 

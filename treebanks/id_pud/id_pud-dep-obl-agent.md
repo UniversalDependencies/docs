@@ -73,7 +73,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 9	dimiliki	milik	VERB	_	Mood=Ind|Voice=Pass	8	xcomp	_	_
 10	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	9	obl:agent	_	_
 11	,	,	PUNCT	_	_	5	punct	_	_
-12	di	di	ADP	_	_	22	mark	_	MWEPOS=SCONJ
+12	di	di	ADP	_	ExtPos=SCONJ	22	mark	_	MWEPOS=SCONJ
 13	mana	mana	PRON	_	PronType=Dem	12	fixed	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	_
 15	dalam	dalam	ADP	_	_	16	case	_	_

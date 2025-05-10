@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 3 goeswith	color:blue
 1	Troubles	trouble	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-2	musculo	musculo-squelettique	ADJ	_	Typo=Yes	1	amod	_	_
+2	musculo	musculo-squelettique	ADJ	_	Gender=Masc|Number=Plur|Typo=Yes	1	amod	_	_
 3	squelettiques	_	X	_	_	2	goeswith	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
 5	de	de	ADP	_	_	7	case	_	_
@@ -56,7 +56,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 10	aigu	aigu	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
 11	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
 12	angor	angor	NOUN	_	Gender=Masc|Number=Sing	8	appos	_	_
-13	instable	instable	ADJ	_	Number=Sing	12	amod	_	_
+13	instable	instable	ADJ	_	Number=Sing	12	amod	_	Gender[ctxt]=Masc
 14	/	ou	CCONJ	_	_	15	cc	_	_
 15	infarctus	infarctus	NOUN	_	Gender=Masc|Number=Sing	12	conj	_	_
 16	de	de	ADP	_	_	18	case	_	_
@@ -83,7 +83,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 37	intervention	intervention	NOUN	_	Gender=Fem|Number=Sing	34	obl:arg	_	_
 38	urgente	urgent	ADJ	_	Gender=Fem|Number=Sing	37	amod	_	_
 39	ou	ou	CCONJ	_	_	40	cc	_	_
-40	précoce	précoce	ADJ	_	Number=Sing	38	conj	_	SpaceAfter=No
+40	précoce	précoce	ADJ	_	Number=Sing	38	conj	_	Gender[ctxt]=Fem|SpaceAfter=No
 41	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~

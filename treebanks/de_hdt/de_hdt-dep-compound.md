@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 2	taiwanische	taiwanisch	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
 3	Prozessor-	Prozessor-	NOUN	TRUNC	Hyph=Yes	7	advcl	_	_
 4	und	und	CCONJ	KON	_	5	cc	_	_
-5	Chipsatzhersteller	Hersteller	NOUN	NN	Gender=Masc|Number=Sing	3	conj	_	_
+5	Chipsatzhersteller	Chipsatzhersteller	NOUN	NN	Gender=Masc|Number=Sing	3	conj	_	_
 6	VIA	VIA	PROPN	NE	Case=Nom|Number=Sing	5	nsubj	_	_
 7	plant	planen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	mit	mit	ADP	APPR	AdpType=Prep|Case=Dat	12	case	_	_
@@ -44,7 +44,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 19	nur	nur	ADV	ADV	_	21	advmod	_	_
 20	rund	rund	ADV	ADV	_	21	advmod	_	_
 21	200	200	NUM	CARD	Number=Plur|NumType=Card	22	nummod	_	_
-22	US-Dollar	Dollar	NOUN	NN	Gender=Masc|Number=Plur	24	nmod	_	_
+22	US-Dollar	US-Dollar	NOUN	NN	Gender=Masc|Number=Plur	24	nmod	_	_
 23	zu	zu	PART	PTKZU	PartType=Inf	24	mark	_	_
 24	haben	haben	AUX	VAINF	VerbForm=Inf	15	acl	_	_
 25	sein	sein	AUX	VAINF	VerbForm=Inf	24	aux	_	_

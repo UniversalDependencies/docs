@@ -28,7 +28,7 @@ The following 37 pairs of parts of speech are connected with `orphan`: <tt><a hr
 4	gris	gris	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 5	violacé	violacé	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
-7	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	_
+7	son	son	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	_
 8	ventre	ventre	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
 9	de	de	ADP	_	_	10	case	_	_
 10	couleur	couleur	NOUN	_	Gender=Fem|Number=Sing	8	orphan	_	_

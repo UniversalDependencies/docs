@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-18296 tokens (13%) have a non-empty value of `Number`.
-407 types (8%) occur at least once with a non-empty value of `Number`.
-366 lemmas (9%) occur at least once with a non-empty value of `Number`.
-The feature is used with 11 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (14400; 10% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1905; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1608; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (174; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (68; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (42; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (40; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (33; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (18; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (3; 0% instances).
+18294 tokens (13%) have a non-empty value of `Number`.
+405 types (8%) occur at least once with a non-empty value of `Number`.
+364 lemmas (9%) occur at least once with a non-empty value of `Number`.
+The feature is used with 11 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (14400; 10% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1905; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1608; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (174; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (68; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (42; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (40; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (33; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (18; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `PRON`
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (4910; 34% of non-empty `Number`): <em>we, de, dem, your, us, una, our, deir, dose, oursef</em>
 * `Sing` (9490; 66% of non-empty `Number`): <em>I, e, am, me, my, im, dat, she, her, dis</em>
-* `EMPTY` (3961): <em>you, wetin, everybody, all, some, everyting, anyting, who, someting, everything</em>
+* `EMPTY` (3966): <em>you, wetin, everybody, all, some, everyting, anyting, who, someting, everything</em>
 
 `Number` seems to be **lexical feature** of `PRON`. 100% lemmas (29) occur only with one value of `Number`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (150; 9% of non-empty `Number`): <em>dose, dese, those</em>
 * `Sing` (1458; 91% of non-empty `Number`): <em>dat, dis, that, da, this</em>
-* `EMPTY` (3969): <em>di, all, one, some, a, any, anoder, which, every, the</em>
+* `EMPTY` (3964): <em>di, all, one, some, a, any, anoder, which, every, the</em>
 
 ### `AUX`
 
@@ -61,7 +61,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 * `Plur` (1; 1% of non-empty `Number`): <em>Don</em>
 * `Sing` (173; 99% of non-empty `Number`): <em>is, was, 's, 'm, am, be, does</em>
-* `EMPTY` (13550): <em>dey, go, na, no, con, don, be, make, fit, come</em>
+* `EMPTY` (13547): <em>dey, go, na, no, con, don, be, make, fit, come</em>
 
 ### `VERB`
 
@@ -70,7 +70,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 `VERB` tokens may have the following values of `Number`:
 
 * `Sing` (68; 100% of non-empty `Number`): <em>is, means, was, comes, has, begins, goes, am, depends, abounds</em>
-* `EMPTY` (17691): <em>go, dey, do, get, say, come, know, see, tell, wan</em>
+* `EMPTY` (17694): <em>go, dey, do, get, say, come, know, see, tell, wan</em>
 
 `Number` seems to be **lexical feature** of `VERB`. 100% lemmas (12) occur only with one value of `Number`.
 
@@ -127,13 +127,12 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `X`
 
-3 <tt><a href="pcm_nsc-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Number`.
+1 <tt><a href="pcm_nsc-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Number`.
 
 `X` tokens may have the following values of `Number`:
 
-* `Plur` (1; 33% of non-empty `Number`): <em>de</em>
-* `Sing` (2; 67% of non-empty `Number`): <em>>+, }</em>
-* `EMPTY` (40243): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
+* `Plur` (1; 100% of non-empty `Number`): <em>de</em>
+* `EMPTY` (543): <em>X, s~, f~, d~, ma, wo~, b~, a~, be~, co~</em>
 
 ## Relations with Agreement in `Number`
 

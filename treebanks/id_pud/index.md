@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Ruli Manurung, Muh Shohibussirri, Martin Popel, Daniel Zeman, Ika Alfina, Arawinda Dinakaramani, Muhammad Yudistira Hanifmuti, Jessica Naraiswari Arwidarasti, Yogi Lesmana Sulestio.
 
 Repository: [UD_Indonesian-PUD](https://github.com/UniversalDependencies/UD_Indonesian-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_pud215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_pud216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 3.0
 
@@ -99,7 +99,7 @@ employ ten-fold cross-validation.
 
 ## Features
 
-[Abbr](id_pud-feat-Abbr.html) – [Clusivity](id_pud-feat-Clusivity.html) – [Definite](id_pud-feat-Definite.html) – [Degree](id_pud-feat-Degree.html) – [Foreign](id_pud-feat-Foreign.html) – [Mood](id_pud-feat-Mood.html) – [Number](id_pud-feat-Number.html) – [NumType](id_pud-feat-NumType.html) – [Person](id_pud-feat-Person.html) – [Polarity](id_pud-feat-Polarity.html) – [Polite](id_pud-feat-Polite.html) – [PronType](id_pud-feat-PronType.html) – [Reflex](id_pud-feat-Reflex.html) – [Typo](id_pud-feat-Typo.html) – [Voice](id_pud-feat-Voice.html)
+[Abbr](id_pud-feat-Abbr.html) – [Clusivity](id_pud-feat-Clusivity.html) – [Definite](id_pud-feat-Definite.html) – [Degree](id_pud-feat-Degree.html) – [ExtPos](id_pud-feat-ExtPos.html) – [Foreign](id_pud-feat-Foreign.html) – [Mood](id_pud-feat-Mood.html) – [Number](id_pud-feat-Number.html) – [NumType](id_pud-feat-NumType.html) – [Person](id_pud-feat-Person.html) – [Polarity](id_pud-feat-Polarity.html) – [Polite](id_pud-feat-Polite.html) – [PronType](id_pud-feat-PronType.html) – [Reflex](id_pud-feat-Reflex.html) – [Typo](id_pud-feat-Typo.html) – [Voice](id_pud-feat-Voice.html)
 
 ## Relations
 
@@ -469,6 +469,31 @@ employ ten-fold cross-validation.
       <li>In
         <ul>
           <li>PRON: kita</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: antara</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADJ: sama</li>
+          <li>ADP: Oleh</li>
+          <li>ADV: lebih, sering, Sementara, Lagi, kurang, Kadang</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: di</li>
+          <li>PRON: yang</li>
         </ul>
       </li>
     </ul>

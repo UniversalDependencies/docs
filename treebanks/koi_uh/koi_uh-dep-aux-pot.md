@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: Relations: `aux:pot`
 
 This relation is a language-specific subtype of <tt><a href="koi_uh-dep-aux.html">aux</a></tt>.
-There are also 2 other language-specific subtypes of `aux`: <tt><a href="koi_uh-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="koi_uh-dep-aux-neg.html">aux:neg</a></tt>.
+There are also 1 other language-specific subtypes of `aux`: <tt><a href="koi_uh-dep-aux-neg.html">aux:neg</a></tt>.
 
 1 nodes (0%) are attached to their parents as `aux:pot`.
 

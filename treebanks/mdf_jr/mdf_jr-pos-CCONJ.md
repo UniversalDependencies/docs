@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="mdf_jr-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.550071).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.547887).
 
 The 1st highest number of forms (1) was observed with the lemma “А”: <em>А</em>.
 
@@ -36,7 +36,13 @@ The 2nd highest number of forms (1) was observed with the lemma “а”: <em>а
 
 The 3rd highest number of forms (1) was observed with the lemma “да”: <em>да</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="mdf_jr-feat-ExtPos.html">ExtPos</a></tt> (2; 1% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (149 tokens).
+Examples: <em>и, а, но, да, или, мес</em>
 
 
 ## Relations

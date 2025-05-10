@@ -198,7 +198,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 7682 <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> tokens (95% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5700; 74%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="orv_rnc-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (6678; 87%), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5700; 74%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -208,9 +208,11 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>онъ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_rnc-feat-ExtPos.html">ExtPos</a></tt><tt>=DET</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>ево</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>ево, его, него, нево, нѣго, єго</em></td><td><em>их</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>ему, нему, емꙋ, єму, немꙋ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>его, ево, него, нево, єго, евѡ, ег[о], егѡ, невѡ, нег[о], нѣгѡ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_rnc-feat-ExtPos.html">ExtPos</a></tt><tt>=DET</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>его, ево, єго, евѡ, ег[о], егѡ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>него, нево, его, ево, евѡ, невѡ, нег[о], нѣгѡ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>еꙗ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>ним, нимъ, им, имъ</em></td><td><em>НИМЪ</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>нем, немъ, не(м), не[м], немь, нѣмъ</em></td><td></td></tr>
@@ -308,12 +310,12 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="orv_rnc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10484; 97%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-det.html">det</a></tt>]--> DET</tt> (6479; 99%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-det.html">det</a></tt>]--> DET</tt> (6407; 99%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3918; 69%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3563; 62%),
 <tt>PROPN --[<tt><a href="orv_rnc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (3251; 99%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (2871; 91%),
-<tt>VERB --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> VERB</tt> (2859; 74%),
+<tt>VERB --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> VERB</tt> (2858; 74%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2369; 85%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1303; 94%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1117; 88%).

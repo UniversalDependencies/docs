@@ -121,6 +121,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Abl</tt></th></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-ExtPos.html">ExtPos</a></tt><tt>=SCONJ</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>quod</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>qui, quis, quod</em></td><td><em>quem</em></td><td><em>cui</em></td><td><em>cuius</em></td><td><em>quo</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>qui</em></td><td><em>quos</em></td><td><em>quibus</em></td><td><em>quorum</em></td><td><em>quibus</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>quae, qua</em></td><td><em>quam, quae</em></td><td><em>cui</em></td><td><em>cuius</em></td><td><em>qua</em></td></tr>
@@ -256,7 +257,7 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="la_ittb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14871; 98%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-det.html">det</a></tt>]--> DET</tt> (13574; 95%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-det.html">det</a></tt>]--> DET</tt> (13157; 94%),
 <tt>NOUN --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5173; 92%),
 <tt>NOUN --[<tt><a href="la_ittb-dep-acl.html">acl</a></tt>]--> VERB</tt> (4361; 81%),
 <tt>NOUN --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2110; 58%),

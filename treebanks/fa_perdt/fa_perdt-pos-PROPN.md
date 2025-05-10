@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  ایران (<tt><a href="fa_perdt-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.043311 (the average of all parts of speech is 1.486663).
+The form / lemma ratio of `PROPN` is 1.043311 (the average of all parts of speech is 1.486683).
 
 The 1st highest number of forms (4) was observed with the lemma “شاهنامه”: شاهنامه, شاهنامهٔ, شاهنامه‌, شاهنامه‌های.
 

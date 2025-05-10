@@ -11,8 +11,8 @@ It occurs with 15 different values: `Abe`, `Acc`, `Apr`, `Cmp`, `Com`, `Dat`, `E
 
 409 tokens (38%) have a non-empty value of `Case`.
 288 types (50%) occur at least once with a non-empty value of `Case`.
-216 lemmas (48%) occur at least once with a non-empty value of `Case`.
-The feature is used with 9 part-of-speech tags: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (233; 22% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (103; 10% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (27; 2% instances), <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (17; 2% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="koi_uh-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+217 lemmas (48%) occur at least once with a non-empty value of `Case`.
+The feature is used with 9 part-of-speech tags: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (233; 22% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (102; 9% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (27; 2% instances), <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (17; 2% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="koi_uh-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -44,9 +44,9 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-103 <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> tokens (94% of all `PRON` tokens) have a non-empty value of `Case`.
+102 <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> tokens (94% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (92; 89%), <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (83; 81%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (92; 90%), <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (83; 81%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -55,9 +55,9 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Com` (4; 4% of non-empty `Case`): <em>Аскöттят, аскöттям, аскöттяс, мекӧт</em>
 * `Dat` (7; 7% of non-empty `Case`): <em>меным, сылӧ, ӧтамӧдлӧ</em>
 * `Gen` (15; 15% of non-empty `Case`): <em>менам, тэнат, сылӧн, Сылöн</em>
-* `Ine` (2; 2% of non-empty `Case`): <em>кытӧн, этаын</em>
+* `Ine` (1; 1% of non-empty `Case`): <em>этаын</em>
 * `Ins` (1; 1% of non-empty `Case`): <em>сылöн</em>
-* `Nom` (66; 64% of non-empty `Case`): <em>сія, ме, тэ, мый, Сiя, ачыт, мыйкӧ, нія, эна, Ми</em>
+* `Nom` (66; 65% of non-empty `Case`): <em>сія, ме, тэ, мый, Сiя, ачыт, мыйкӧ, нія, эна, Ми</em>
 * `EMPTY` (7): <em>ас, Кытшӧм, Сы, быд, ны, этö</em>
 
 <table>
@@ -115,6 +115,17 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Nom` (8; 89% of non-empty `Case`): <em>Куимӧдз, бур, витӧдз, коричневӧй, сэтшöм, сісь, том, ыджыт</em>
 * `EMPTY` (29): <em>буржык, важ, честнӧй, ыджыт, Бöрья, быльнӧй, гажаӧсь, долженöсь, долыт, интереснöй</em>
 
+### `ADV`
+
+8 <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> tokens (9% of all `ADV` tokens) have a non-empty value of `Case`.
+
+`ADV` tokens may have the following values of `Case`:
+
+* `Ela` (2; 25% of non-empty `Case`): <em>дасöтiсь</em>
+* `Ill` (2; 25% of non-empty `Case`): <em>кытчӧ, ӧтикӧ</em>
+* `Ine` (4; 50% of non-empty `Case`): <em>кытӧн, пыдын</em>
+* `EMPTY` (86): <em>кыдз, ни, сэсся, кӧр, сё, талун, чожа, эшӧ, кынымкӧ, натьтö</em>
+
 ### `VERB`
 
 8 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Case`.
@@ -126,17 +137,6 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Ill` (2; 25% of non-empty `Case`): <em>жмитікӧ, лӧсьӧтікӧ</em>
 * `Nom` (6; 75% of non-empty `Case`): <em>бырӧм, гардчӧмкодь, дорӧм, киссьӧм, пырӧм, пӧліньтчӧм</em>
 * `EMPTY` (183): <em>зэрӧ, быдмис, локтін, босьтіс, вашöтö, велалас, высьтіс, вӧтны, гижис, керны</em>
-
-### `ADV`
-
-7 <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> tokens (8% of all `ADV` tokens) have a non-empty value of `Case`.
-
-`ADV` tokens may have the following values of `Case`:
-
-* `Ela` (2; 29% of non-empty `Case`): <em>дасöтiсь</em>
-* `Ill` (2; 29% of non-empty `Case`): <em>кытчӧ, ӧтикӧ</em>
-* `Ine` (3; 43% of non-empty `Case`): <em>кытӧн, пыдын</em>
-* `EMPTY` (86): <em>кыдз, ни, сэсся, кӧр, сё, талун, чожа, эшӧ, кынымкӧ, натьтö</em>
 
 ### `DET`
 

@@ -29,8 +29,8 @@ The following 2 pairs of parts of speech are connected with `obl:depict`: <tt><a
 4	лакомого	лакомый	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	obl:depict	_	wf="лакомого"|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	wf=","
 6	през(ъ)	презъ	ADP	_	_	8	case	_	wf="презъ"
-7	eго	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	det	_	wf="его"
-8	проданьe	проданье	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	wf="проданье"
+7	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	det	_	wf="его"
+8	проданье	проданье	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	wf="проданье"
 9	погꙋбилъ	погубити	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="погубилъ"|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	wf="."
 
@@ -45,7 +45,7 @@ The following 2 pairs of parts of speech are connected with `obl:depict`: <tt><a
 # visual-style 7 8 obl:depict	color:blue
 1	Адама	Адамъ	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	7	obj	_	wf="Адама"
 2	і	и	CCONJ	_	_	3	cc	_	wf="и"
-3	eввꙋ	Евва	PROPN	_	Case=Acc|Gender=Fem|NameType=Giv|Number=Sing	1	conj	_	wf="евву"|SpaceAfter=No
+3	еввꙋ	Евва	PROPN	_	Case=Acc|Gender=Fem|NameType=Giv|Number=Sing	1	conj	_	wf="евву"|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	wf="."
 5	[6]	_	X	_	_	16	dep	_	wf="[6]"|NoIndex=Yes
 6	кгды	кгды	SCONJ	_	_	7	mark	_	wf="кгды"

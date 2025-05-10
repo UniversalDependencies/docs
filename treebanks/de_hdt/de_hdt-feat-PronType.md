@@ -64,7 +64,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Dem` (14467; 62% of non-empty `PronType`): <em>damit, dazu, dafür, davon, dagegen, daher, darauf, darüber, dadurch, daran</em>
 * `Ind` (4109; 17% of non-empty `PronType`): <em>mehr, etwas, mehrere, meisten, genug, weniger, mehreren, bisschen, mehrerer, bißchen</em>
 * `Int` (4934; 21% of non-empty `PronType`): <em>wie, wo, wann, warum, wobei, wonach, wodurch, womit, inwieweit, weshalb</em>
-* `EMPTY` (173084): <em>auch, noch, nur, so, aber, bereits, allerdings, mehr, schon, rund</em>
+* `EMPTY` (173083): <em>auch, noch, nur, so, aber, bereits, allerdings, mehr, schon, rund</em>
 
 `PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (70) occur only with one value of `PronType`.
 

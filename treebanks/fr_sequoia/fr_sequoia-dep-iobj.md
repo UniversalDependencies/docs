@@ -42,7 +42,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 iobj	color:blue
-1	J'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1	J'	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
 2	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_
 3	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	satisfait	satisfait	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
@@ -53,7 +53,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 9	tout	tout	ADV	_	ExtPos=ADV	16	advmod	_	Idiom=Yes
 10	d'	de	ADP	_	_	9	fixed	_	InIdiom=Yes|SpaceAfter=No
 11	abord	abord	ADV	_	_	9	fixed	_	InIdiom=Yes
-12	parce	parce	SCONJ	_	ExtPos=SCONJ	16	mark	_	Idiom=Yes
+12	parce	parce	ADV	_	ExtPos=SCONJ	16	mark	_	Idiom=Yes
 13	que	que	SCONJ	_	_	12	fixed	_	InIdiom=Yes
 14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	Commission	commission	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	_
@@ -74,7 +74,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 30	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	cop	_	_
 31	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	32	det	_	SpaceAfter=No
 32	objectif	objectif	NOUN	_	Gender=Masc|Number=Sing	16	conj	_	_
-33	politique	politique	ADJ	_	Number=Sing	32	amod	_	_
+33	politique	politique	ADJ	_	Number=Sing	32	amod	_	Gender[ctxt]=Masc
 34	de	de	ADP	_	_	36	case	_	_
 35	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	36	det	_	_
 36	Parlement	parlement	NOUN	_	Gender=Masc|Number=Sing	32	nmod	_	_
@@ -91,9 +91,9 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 47	ensuite	ensuite	ADV	_	_	51	advmod	_	_
 48	parce	parce	SCONJ	_	ExtPos=SCONJ	51	mark	_	Idiom=Yes
 49	qu'	que	SCONJ	_	_	48	fixed	_	InIdiom=Yes|SpaceAfter=No
-50	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	51	nsubj	_	_
+50	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	51	nsubj	_	_
 51	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
-52	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	53	obj	_	SpaceAfter=No
+52	l'	lui	PRON	_	Emph=No|Number=Sing|Person=3|PronType=Prs	53	obj	_	SpaceAfter=No
 53	intégrer	intégrer	VERB	_	VerbForm=Inf	51	xcomp	_	Subject=SubjRaising
 54	dans	dans	ADP	_	_	56	case	_	_
 55	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	56	det	_	_
@@ -113,10 +113,10 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 2	recommandation	recommandation	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
 3	pour	pour	ADP	_	_	6	case	_	_
 4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-5	deuxième	deuxième	ADJ	_	Number=Sing|NumType=Ord	6	amod	_	_
+5	deuxième	deuxième	ADJ	_	Number=Sing|NumType=Ord	6	amod	_	Gender[ctxt]=Fem
 6	lecture	lecture	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 7	dont	dont	PRON	_	PronType=Rel	10	iobj	_	_
-8	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_
+8	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_
 9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 10	question	question	NOUN	_	Gender=Fem|Number=Sing	6	acl:relcl	_	_
 11	constitue	constituer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_

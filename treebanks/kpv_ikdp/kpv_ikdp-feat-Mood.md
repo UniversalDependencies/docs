@@ -7,12 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: Features: `Mood`
 
 This feature is universal.
-It occurs with 2 different values: `Imp`, `Ind`.
+It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
-300 tokens (13%) have a non-empty value of `Mood`.
-210 types (21%) occur at least once with a non-empty value of `Mood`.
-128 lemmas (18%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (257; 11% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (43; 2% instances).
+301 tokens (13%) have a non-empty value of `Mood`.
+211 types (21%) occur at least once with a non-empty value of `Mood`.
+129 lemmas (18%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (257; 11% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (44; 2% instances).
 
 ### `VERB`
 
@@ -39,14 +39,15 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-43 <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> tokens (74% of all `AUX` tokens) have a non-empty value of `Mood`.
+44 <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (32; 74%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28; 65%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (25; 58%), <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (22; 51%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (32; 73%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28; 64%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (25; 57%), <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (23; 52%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Ind` (43; 100% of non-empty `Mood`): <em>вӧлі, из, оз, вӧліс, ог, были, выйым, он, было, кута</em>
-* `EMPTY` (15): <em>абу, выйым, вӧв, бы</em>
+* `Cnd` (1; 2% of non-empty `Mood`): <em>бы</em>
+* `Ind` (43; 98% of non-empty `Mood`): <em>вӧлі, из, оз, вӧліс, ог, были, выйым, он, было, кута</em>
+* `EMPTY` (14): <em>абу, выйым, вӧв</em>
 
 ## Relations with Agreement in `Mood`
 

@@ -30,7 +30,7 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 6	enterrinho	enterrinho	NOUN	_	Gender=Masc|Number=Sing	4	obj	4:obj	_
 7	ali	ali	ADV	_	_	4	advmod	4:advmod	_
 8	agora	agora	ADV	_	_	4	advmod	4:advmod	SpaceAfter=No
-9	.	.	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 
@@ -55,7 +55,7 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 12	Temer	Temer	PROPN	_	_	10	vocative	10:vocative	SpaceAfter=No
 13	!	!	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
 14	"	"	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
-15	.	.	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+15	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 
@@ -73,7 +73,7 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 5	em	em	ADP	_	_	7	case	7:case	_
 6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	7:det	_
 7	corredor	corredor	NOUN	_	Gender=Masc|Number=Sing	4	nmod	4:nmod:em	SpaceAfter=No
-8	.	.	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 

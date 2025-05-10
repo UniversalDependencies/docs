@@ -63,13 +63,13 @@ The 2nd highest number of forms (2) was observed with the lemma “на”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “срещу”: <em>-, срещу</em>.
 
-`ADP` occurs with 3 features: <tt><a href="bg_btb-feat-Definite.html">Definite</a></tt> (1; 0% instances), <tt><a href="bg_btb-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="bg_btb-feat-Number.html">Number</a></tt> (1; 0% instances)
+`ADP` occurs with 4 features: <tt><a href="bg_btb-feat-ExtPos.html">ExtPos</a></tt> (420; 2% instances), <tt><a href="bg_btb-feat-Definite.html">Definite</a></tt> (1; 0% instances), <tt><a href="bg_btb-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="bg_btb-feat-Number.html">Number</a></tt> (1; 0% instances)
 
-`ADP` occurs with 3 feature-value pairs: `Definite=Ind`, `Gender=Neut`, `Number=Sing`
+`ADP` occurs with 6 feature-value pairs: `Definite=Ind`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=SCONJ`, `Gender=Neut`, `Number=Sing`
 
-`ADP` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (22095 tokens).
-Examples: <em>на, в, за, от, с, по, до, след, като, през</em>
+`ADP` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (21675 tokens).
+Examples: <em>на, в, за, от, с, по, до, като, през, към</em>
 
 
 ## Relations

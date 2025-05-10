@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1412 nodes (14%) are attached to their parents as `det`.
+1411 nodes (14%) are attached to their parents as `det`.
 
 1401 instances of `det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.12535410764873.
+Average distance between parent and child is 1.12331679659816.
 
-The following 7 pairs of parts of speech are connected with `det`: <tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="quc_iu-pos-DET.html">DET</a></tt> (1265; 90% instances), <tt><a href="quc_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="quc_iu-pos-DET.html">DET</a></tt> (109; 8% instances), <tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="quc_iu-pos-PRON.html">PRON</a></tt> (19; 1% instances), <tt><a href="quc_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="quc_iu-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="quc_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="quc_iu-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="quc_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="quc_iu-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="quc_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="quc_iu-pos-DET.html">DET</a></tt> (2; 0% instances).
+The following 7 pairs of parts of speech are connected with `det`: <tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="quc_iu-pos-DET.html">DET</a></tt> (1265; 90% instances), <tt><a href="quc_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="quc_iu-pos-DET.html">DET</a></tt> (109; 8% instances), <tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="quc_iu-pos-PRON.html">PRON</a></tt> (18; 1% instances), <tt><a href="quc_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="quc_iu-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="quc_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="quc_iu-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="quc_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="quc_iu-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="quc_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="quc_iu-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

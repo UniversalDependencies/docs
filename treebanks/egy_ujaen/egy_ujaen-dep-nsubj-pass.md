@@ -9,27 +9,28 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="egy_ujaen-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="egy_ujaen-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-134 nodes (1%) are attached to their parents as `nsubj:pass`.
+197 nodes (1%) are attached to their parents as `nsubj:pass`.
 
-134 instances of `nsubj:pass` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17910447761194.
+197 instances of `nsubj:pass` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.34010152284264.
 
-The following 3 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (95; 71% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt> (25; 19% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> (14; 10% instances).
+The following 3 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (147; 75% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt> (31; 16% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> (19; 10% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 nsubj:pass	color:blue
-1	[č̣(ṭ)]	č̣ṭ	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
-2	[mṭw]	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
-3	(w)ṭ(.w)	wṭi̯	VERB	SPC=PastPass|Type=Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	1	ccomp	_	Hiero=𓂧
-4	n	n	ADP	Status=Pron	Case=Ben	5	case	_	Hiero=𓈖
-5	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	Hiero=𓎡
-6	ṭp	ṭp	NOUN	_	Gender=Masc|Number=Sing	3	nsubj:pass	_	Hiero=𓁶
-7	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	Hiero=𓎡
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 nsubj:pass	color:blue
+1	mś(.w)	mśi̯	VERB	_	SubForm=AbstRel|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Pass	0	root	_	Hiero=𓄟|SPC=PastPass
+2	n	n	ADP	_	Case=Ben	3	case	_	Hiero=𓈖|Status=Pron
+3	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	Hiero=𓎡|Pron=SFP
+4	pf	pf	NOUN	_	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj:pass	_	Dem|Hiero=𓊪:𓆑
+5	ꞽwr(.w)	ꞽwr	VERB	_	SubForm=AbstRel|Tense=Past|VerbClass=3lit|VerbForm=Fin|Voice=Pass	1	parataxis	_	Hiero=𓃛:𓂋|SPC=PastPass
+6	n	n	ADP	_	Case=Ben	7	case	_	Hiero=𓈖|Status=Pron
+7	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl	_	Hiero=𓎡|Pron=SFP
+8	pn	pn	NOUN	_	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj:pass	_	Dem|Hiero=𓊪:𓈖
 
 ~~~
 
@@ -40,35 +41,41 @@ The following 3 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 nsubj:pass	color:blue
-1	ꞽwꞽ(.w)	ꞽwr	VERB	SPC=PastPass|Type=Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Hiero=𓃛𓇋
-2	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	1	nsubj:pass	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
-3	m	m	ADP	Status=Cons	Case=Tem	4	case	_	Hiero=𓅓
-4	grḥ	grḥ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	1	obl	_	Hiero=(𓎼:𓂋)𓎛𓇰
-5	mś(.w)	mśi̯	VERB	SPC=PastPass|Type=Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	Hiero=𓄟
-6	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	5	nsubj:pass	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
-7	m	m	ADP	Status=Cons	Case=Tem	8	case	_	Hiero=𓅓
-8	grḥ	grḥ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	5	obl	_	Hiero=(𓎼:𓂋)𓎛𓇰
+1	ꞽwꞽ(.w)	ꞽwr	VERB	_	SubForm=AbstRel|Tense=Past|VerbClass=3lit|VerbForm=Fin|Voice=Pass	0	root	_	Hiero=𓃛𓇋|SPC=PastPass
+2	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	1	nsubj:pass	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
+3	m	m	ADP	_	Case=Tem	4	case	_	Hiero=𓅓|Status=Cons
+4	grḥ	grḥ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=(𓎼:𓂋)𓎛𓇰|Hierocl=Yes
+5	mś(.w)	mśi̯	VERB	_	SubForm=AbstRel|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Pass	1	parataxis	_	Hiero=𓄟|SPC=PastPass
+6	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	5	nsubj:pass	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
+7	m	m	ADP	_	Case=Tem	8	case	_	Hiero=𓅓|Status=Cons
+8	grḥ	grḥ	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	Hiero=(𓎼:𓂋)𓎛𓇰|Hierocl=Yes
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 nsubj:pass	color:blue
-1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
-2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
-3	Ḥr.w	Ḥr.w	PROPN	_	Case=Voc|Gender=Masc	7	vocative	_	Hiero=𓅃
-4	ꞽm(.ꞽ)	m	ADJ	Nisba=Prep	Case=Equ|Gender=Masc|Number=Sing	3	amod	_	Hiero=𓏶
-5	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	4	obl	_	Hiero=𓊨:𓁹
-6	Ppy	Ppy	PROPN	_	Gender=Masc	3	appos	_	Hiero=𓍹(𓊪:𓊪)𓇋𓇋𓍺
-7	ḥtm(.w)	ḥtm	VERB	SPC=PastPass|Type=Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	1	ccomp	_	Hiero=(𓎛*𓅭:)𓏏
-8	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nsubj:pass	_	Hiero=𓎡
-9	m	m	ADP	Status=Cons	Case=Ins	10	case	_	Hiero=𓅓
-10	ꞽr.t	ꞽr.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	7	obl	_	Hiero=𓁹
-11	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	10	nmod	_	Hiero=𓅃
+# visual-style 8 9 nsubj:pass	color:blue
+1	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	Hiero=𓂋
+2	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	Hiero=𓎡|Poss=Yes|Pron=SFP
+3	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓂋
+4	n(.ꞽ)	n	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	Hiero=𓈖|Nisba=Prep
+5	bḥs	bḥs	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	Hiero=𓃀𓎛(𓊃:𓄑)𓃔|Hierocl=Yes
+6	ꞽr(č).t	ꞽrč.t	NOUN	_	Gender=Fem	5	nmod:poss	_	Hiero=𓇋(𓂋:𓏏)𓏈|Hierocl=Yes
+7	hrw	hrw	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	3	obl	_	Hiero=𓇳
+8	mś(.w)	mśi̯	VERB	_	SubForm=AbstRel|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Pass	7	acl:relcl	_	Hiero=𓄟|SPC=PastPass
+9	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj:pass	_	Hiero=𓆑|Pron=SFP
+10	ꞽm	ꞽm	ADV	_	AdvType=Loc	8	advmod	_	Hiero=𓇋𓅓
+11	|	|	PUNCT	_	_	12	punct	_	_|LINE
+12	bṭ	bṭ	NOUN	_	Gender=Masc|Number=Sing	3	parataxis	_	Hiero=UC_14104
+13	Mḥ.w	Mḥ.w	PROPN	_	Gender=Masc	12	nmod:poss	_	Hiero=𓇉|Name=Place
+14	čꜣ	čꜣ	NOUN	_	Gender=Masc|Number=Sing	12	appos	_	Hiero=𓅷𓃉|Hierocl=Yes
+15	5	5	NUM	_	_	14	nummod	_	CARD|Hiero=𓏾
+16	Š.t	Š.t	PROPN	_	Gender=Fem	14	nmod:poss	_	Hiero=𓈙:𓏏|Name=Place
+17	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	16	flat	_	Hiero=𓊪(:𓇯:𓏏)|Hierocl=Yes
 
 ~~~
 

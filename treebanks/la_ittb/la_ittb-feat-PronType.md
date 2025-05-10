@@ -75,6 +75,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>quarum, quorum</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>cuius, quod</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>quorum</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-ExtPos.html">ExtPos</a></tt><tt>=SCONJ</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>quod</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>qui, quis, quod</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>qui</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>quae, qua</em></td><td></td></tr>
@@ -148,7 +149,7 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>DET --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> DET</tt> (198; 68%),
+<tt>DET --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> DET</tt> (198; 67%),
 <tt>PRON --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> PRON</tt> (56; 89%),
 <tt>DET --[<tt><a href="la_ittb-dep-compound.html">compound</a></tt>]--> DET</tt> (11; 100%),
 <tt>DET --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> DET</tt> (7; 54%),

@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a 
 4	Peter	Peter	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	2	nsubj	_	GTtags=Prop,Sem/Mal,Attr
 5	Smith	Smith	PROPN	N	Animacy=Hum|Case=Nom|NameType=Sur|Number=Sing	4	flat:name	_	GTtags=Prop,Sem/Sur,Sg,Nom
 6	diǥu	diǥu	SCONJ	CS	_	9	mark	_	_
-7	še	še	ADV	Pcle	_	9	advmod:eval	_	_
+7	še	še	ADV	Pcle	_	9	advmod	_	_
 8	Mary	Mary	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	4	conj	_	GTtags=Prop,Sem/Fem,Attr
 9	Brown	Brown	PROPN	N	Animacy=Hum|Case=Nom|NameType=Sur|Number=Sing	8	flat:name	_	GTtags=Prop,Sem/Sur,Sg,Nom|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_

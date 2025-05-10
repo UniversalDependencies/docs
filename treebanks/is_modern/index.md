@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Kristján Rúnarsson, Þórunn Arnardóttir, Hinrik Hafsteinsson, Starkaður Barkarson, Hildur Jónsdóttir, Steinþór Steingrímsson, Einar Freyr Sigurðsson.
 
 Repository: [UD_Icelandic-Modern](https://github.com/UniversalDependencies/UD_Icelandic-Modern)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_modern215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_modern216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -273,7 +273,6 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>PROPN: Hrafnhildur, Bryndís, Evrópu, Chusovitina, Rún, Danmörku, Lúthersdóttir, Brasilíu, Grótta, París</li>
       <li>VERB: orðin, farin, komin, tekin, teknar, samþykkt, settar, skráð, felld, gerðar</li>
       <li>VERB-Part: orðin, farin, komin, tekin, teknar, samþykkt, settar, skráð, felld, gerðar</li>
-      <li>X: skyttunar</li>
     </ul>
   </li>
 </ul>
@@ -361,7 +360,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>VERB: hringir, held, kemur, á, finnst, þarf, þakka, verður, sagði, kom</li>
       <li>VERB-Fin: hringir, held, kemur, á, finnst, þarf, þakka, verður, sagði, kom</li>
       <li>VERB-Part: gert, farið, keppt, sagt, tekið, haldið, kominn, komið, miðað, lagt</li>
-      <li>X: final-four, nýafstöðu, skyttunar</li>
+      <li>X: final-four, nýafstöðu</li>
     </ul>
   </li>
 </ul>
@@ -380,8 +379,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>NUM: tvö, þús., fjögur, þrjú, fimm, fjóra, tvær, tvo, tíu, þrjá</li>
       <li>PRON: það, mig, sig, hvað, hana, okkur, annað, þau, þær, hann</li>
       <li>PROPN: Chusovitina, Ólympíuleikana, Evrópusambandið, Hrafnhildi, EES-samninginn, Evrópumótið, Ólympíuleika, Alþingi, Sjálfstæðisflokkinn, Íbúðalánasjóð</li>
-      <li>VERB: afgreidda, dekkaðan, heita, kallaða, lánað, lánaða, staðfesta, upplýst, viðurkennt</li>
-      <li>VERB-Part: afgreidda, dekkaðan, kallaða, lánað, lánaða, staðfesta, upplýst, viðurkennt</li>
+      <li>VERB-Part: afgreidda, dekkaðan, kallaða, lánað, lánaða, upplýst, viðurkennt</li>
     </ul>
   </li>
 </ul>
@@ -413,7 +411,6 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>PRON: þess, annars, okkar, hans, hvers, þeirra, hennar, annarra, sinna, síns</li>
       <li>PROPN: Íslands, Alþingis, Evrópu, Danmerkur, Sjálfstæðisflokksins, Stjörnunnar, pírata, Frakklands, Framsóknarflokksins, Samtaka</li>
       <li>VERB-Part: skapaðar</li>
-      <li>X: skyttunar</li>
     </ul>
   </li>
 </ul>
@@ -452,8 +449,6 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>DET: meiri, meira, fleiri, eina, eini, mesta, einu, fleira, miklu, minna</li>
       <li>NOUN: málið, árið, leikunum, klukkan, ríkið, landinu, svarið, liðinu, liðið, tímann</li>
       <li>PROPN: Ólympíuleikunum, Chusovitina, Evrópusambandinu, Ólympíuleikarnir, Evrópusambandið, Evrópumótinu, Ólympíuleikana, Bandaríkjunum, EES-samningnum, Sjálfstæðisflokksins</li>
-      <li>VERB: heita</li>
-      <li>X: skyttunar</li>
     </ul>
   </li>
 </ul>
@@ -498,10 +493,9 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>ADJ: virðulegi, hægt, sammála, gott, rétt, miklu, sama, íslenska, mikilvægt, sjálfsögðu</li>
       <li>ADV: þá, hvað, enda, frv., s., svona, sem, ósköp, hér, rétt</li>
       <li>DET: mikið, margir, mikil, miklu, eina, margt, einu, mörgu, marga, eini</li>
-      <li>NOUN: Frú, samtaka, sænsku</li>
       <li>NUM: tvennt</li>
       <li>PART: bara, aðeins</li>
-      <li>VERB: búið, Tilkynnt, afmörkuð, heita, komandi, krefjandi, tiltekinn</li>
+      <li>VERB: búið, Tilkynnt, afmörkuð, komandi, krefjandi, tiltekinn</li>
       <li>X: nýafstöðu</li>
     </ul>
   </li>
@@ -629,9 +623,9 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
 <ul>
   <li>Mid
     <ul>
-      <li>VERB-Fin: finnst, virðist, hefst, komst, gerist, komist, snýst, fannst, sýnist, komust</li>
+      <li>VERB-Fin: finnst, virðist, hefst, komst, komist, gerist, snýst, fannst, sýnist, komust</li>
       <li>VERB-Inf: komast, fylgjast, horfast, gerast, nálgast, búast, breytast, hefjast, kljást, minnast</li>
-      <li>VERB-Part: hafist, komist, ráðist, ætlast, búist, forðast</li>
+      <li>VERB-Part: hafist, ráðist, ætlast, búist, forðast</li>
       <li>VERB-Sup: gerst, komist, fundist, þróast, aukist, borist, breyst, búist, hugnast, kynnst</li>
     </ul>
   </li>
@@ -801,7 +795,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (22)</li>
       <li>VERB-Fin--NOUN-Dat (42)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
-      <li>VERB-Fin--NOUN-Nom (963)</li>
+      <li>VERB-Fin--NOUN-Nom (965)</li>
       <li>VERB-Fin--PRON (47)</li>
       <li>VERB-Fin--PRON-Acc (74)</li>
       <li>VERB-Fin--PRON-Dat (155)</li>
@@ -818,7 +812,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Acc (9)</li>
       <li>VERB-Part--NOUN-Dat (30)</li>
       <li>VERB-Part--NOUN-Gen (1)</li>
-      <li>VERB-Part--NOUN-Nom (184)</li>
+      <li>VERB-Part--NOUN-Nom (182)</li>
       <li>VERB-Part--PRON (2)</li>
       <li>VERB-Part--PRON-Acc (4)</li>
       <li>VERB-Part--PRON-Dat (18)</li>

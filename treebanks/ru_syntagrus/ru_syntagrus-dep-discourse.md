@@ -8,30 +8,29 @@ udver: '2'
 
 This relation is universal.
 
-1222 nodes (0%) are attached to their parents as `discourse`.
+480 nodes (0%) are attached to their parents as `discourse`.
 
-911 instances of `discourse` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.70212765957447.
+457 instances of `discourse` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.4125.
 
-The following 37 pairs of parts of speech are connected with `discourse`: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (179; 15% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (121; 10% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (115; 9% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (111; 9% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (89; 7% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (87; 7% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (80; 7% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (71; 6% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (44; 4% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (44; 4% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (38; 3% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (34; 3% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (34; 3% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (27; 2% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (26; 2% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (20; 2% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (20; 2% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (16; 1% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (10; 1% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (8; 1% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (6; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 30 pairs of parts of speech are connected with `discourse`: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (81; 17% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (49; 10% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (40; 8% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (38; 8% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (34; 7% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (33; 7% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (31; 6% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (27; 6% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (26; 5% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (20; 4% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (20; 4% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (13; 3% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (11; 2% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (10; 2% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (8; 2% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (6; 1% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (5; 1% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 discourse	color:blue
-1	В	в	ADP	_	_	5	discourse	5:discourse	_
-2	первую	первый	ADJ	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	fixed	1:fixed	_
-3	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	fixed	1:fixed	_
-4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	5:nsubj	_
-5	касается	касаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	0:root	_
-6	отсрочки	отсрочка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	obl	5:obl:gen	_
-7	платежей	платеж	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	6:nmod:gen	_
-8	по	по	ADP	_	_	9	case	9:case	_
-9	кредиту	кредит	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	7	nmod	7:nmod:по:dat	SpaceAfter=No
-10	.	.	PUNCT	_	_	5	punct	5:punct	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 2 discourse	color:blue
+1	-	-	PUNCT	_	_	8	punct	8:punct	_
+2	Значит	значит	ADV	_	Degree=Pos	8	discourse	8:discourse	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	2:punct	_
+4	в	в	ADP	_	_	5	case	5:case	_
+5	отъезд	отъезд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	8:obl:в:acc	_
+6	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	8	nsubj	8:nsubj	_
+7	не	не	PART	_	_	8	advmod	8:advmod	_
+8	можете	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+9	?	?	PUNCT	_	_	8	punct	8:punct	_
 
 ~~~
 
@@ -39,14 +38,23 @@ The following 37 pairs of parts of speech are connected with `discourse`: <tt><a
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 discourse	color:blue
-1	В	в	ADP	_	_	4	discourse	4:discourse	_
-2	первую	первый	ADJ	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	fixed	1:fixed	_
-3	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	fixed	1:fixed	_
-4	журналисты	журналист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	4:punct	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 discourse	color:blue
+1	Ну	ну	PART	_	_	2	discourse	2:discourse	_
+2	поставь	ставить	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	двойку	двойка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	2:obj	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	8:punct	_
+5	если	если	SCONJ	_	_	8	mark	8:mark	_
+6	так	так	ADV	_	Degree=Pos|PronType=Dem	8	advmod	8:advmod	pos="ADVPRO"|_
+7	уж	уж	PART	_	_	6	advmod	6:advmod	_
+8	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	obl	2:obl:если	_
+9	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	8	iobj	8:iobj	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	13:punct	_
+11	но	но	CCONJ	_	_	13	cc	13:cc	_
+12	зачем	зачем	ADV	_	Degree=Pos	13	advmod	13:advmod	_
+13	издеваться	издеваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	2	conj	0:root|2:conj	SpaceAfter=No
+14	?	?	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 
@@ -54,19 +62,21 @@ The following 37 pairs of parts of speech are connected with `discourse`: <tt><a
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 discourse	color:blue
-1	Тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	6	discourse	6:discourse	_
-2	не	не	PART	_	Polarity=Neg	1	fixed	1:fixed	_
-3	менее	менее	ADV	_	Degree=Cmp	1	fixed	1:fixed	_
-4	вряд	вряд	ADV	_	Degree=Pos	6	advmod	6:advmod	_
-5	ли	ли	PART	_	_	4	fixed	4:fixed	_
-6	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-7	ожидать	ожидать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	csubj	6:csubj	_
-8	торжества	торжество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	7:obl:gen	_
-9	законности	законность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod:gen	SpaceAfter=No
-10	.	.	PUNCT	_	_	6	punct	6:punct	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 discourse	color:blue
+1	Ну	ну	PART	_	_	2	discourse	2:discourse	_
+2	вот	вот	PART	_	_	3	advmod	3:advmod	_
+3	видите	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	-	-	PUNCT	_	_	3	punct	3:punct	_
+5	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	7	det	7:det	_
+6	ваши	ваш	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	7	det	7:det	_
+7	сто	сто	NUM	_	Case=Nom|NumForm=Word|NumType=Card	8	nummod:gov	8:nummod:gov	_
+8	евро	евро	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|InflClass=Ind|Number=Plur	9	nsubj:pass	9:nsubj:pass	_
+9	размазаны	размазать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	ccomp	3:ccomp	_
+10	по	по	ADP	_	_	11	case	11:case	_
+11	забору	забор	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	9	obl	9:obl:по:dat	SpaceAfter=No
+12	!	!	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 

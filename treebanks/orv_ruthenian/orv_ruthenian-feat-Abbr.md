@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 1 different values: `Yes`.
 
 50 tokens (0%) have a non-empty value of `Abbr`.
-20 types (0%) occur at least once with a non-empty value of `Abbr`.
+19 types (0%) occur at least once with a non-empty value of `Abbr`.
 16 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
 The feature is used with 4 part-of-speech tags: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (45; 0% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
@@ -22,8 +22,8 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (45; 100% of non-empty `Abbr`): <em>Самъ., об., Сам., гла(в), н.[айме], пн҃а, (н.[айме]), Самъ, в., ве(л).</em>
-* `EMPTY` (22826): <em>м(и)л(о)сти, м(и)л(о)сть, панъ, люди, земли, пан, мѣста, пана, копъ, имѧ</em>
+* `Yes` (45; 100% of non-empty `Abbr`): <em>Самъ., об., гла(в), Сам., н.[айме], пн҃а, (н.[айме]), Самъ, в., ве(л).</em>
+* `EMPTY` (22828): <em>м(и)л(о)сти, м(и)л(о)сть, панъ, люди, земли, пан, мѣста, пана, копъ, имѧ</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (12) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>Запо(р)., пр.</em>
-* `EMPTY` (7374): <em>великии, полоцкии, полоцкого, милым, полоцког(о), Бож(ъ)ю, ризког(о), великого, полоцких, ризкого</em>
+* `EMPTY` (7375): <em>великии, полоцкии, полоцкого, милым, полоцког(о), Бож(ъ)ю, ризког(о), великого, полоцких, ризкого</em>
 
 ### `VERB`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>ре</em>
-* `EMPTY` (9302): <em>дали, псан, мають, мают(ь), дал, маеть, казали, держати, послали, далъ</em>
+* `EMPTY` (9298): <em>дали, псан, мають, мают(ь), дал, маеть, казали, держати, послали, далъ</em>
 
 ### `PROPN`
 

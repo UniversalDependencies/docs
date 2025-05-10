@@ -32,7 +32,7 @@ The following 26 pairs of parts of speech are connected with `appos`: <tt><a hre
 8	FILHOS	filho	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	_
 9	DE	de	ADP	_	_	11	case	_	_
 10	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	PUTA	puta	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+11	PUTA	puta	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
 
 ~~~
 
@@ -56,7 +56,7 @@ The following 26 pairs of parts of speech are connected with `appos`: <tt><a hre
 11	14h	14h	NOUN	_	Gender=Fem|Number=Plur	1	parataxis	_	SpaceAfter=No
 12	:	:	PUNCT	_	_	13	punct	_	_
 13	TOTS3	TOTS3	PROPN	_	_	1	appos	_	_
-14	VALE3	VALE3	PROPN	_	_	13	conj	_	SpaceAfter=No
+14	VALE3	VALE3	PROPN	_	_	13	conj	_	_
 
 ~~~
 
@@ -79,7 +79,7 @@ The following 26 pairs of parts of speech are connected with `appos`: <tt><a hre
 10	nem	nem	CCONJ	_	_	11	cc	_	_
 11	compra	compra	NOUN	_	Gender=Fem|Number=Sing	5	appos	_	_
 12	nem	nem	CCONJ	_	_	13	cc	_	_
-13	venda	venda	NOUN	_	Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
+13	venda	venda	NOUN	_	Gender=Fem|Number=Sing	11	conj	_	_
 
 ~~~
 

@@ -150,7 +150,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="gl_treegal-dep-det.html">det</a></tt>]--> DET</tt> (3648; 99%),
 <tt>NOUN --[<tt><a href="gl_treegal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1300; 98%),
-<tt>NOUN --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (229; 57%),
+<tt>NOUN --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (230; 57%),
 <tt>NOUN --[<tt><a href="gl_treegal-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (151; 96%),
 <tt>ADJ --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> ADJ</tt> (114; 97%),
 <tt>PRON --[<tt><a href="gl_treegal-dep-det.html">det</a></tt>]--> DET</tt> (98; 99%),

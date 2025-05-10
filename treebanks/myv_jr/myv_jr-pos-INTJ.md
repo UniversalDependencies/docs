@@ -44,7 +44,7 @@ The 10 most frequent ambiguous types:  <em>вана</em> (<tt><a href="myv_jr-po
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.027027 (the average of all parts of speech is 2.080194).
+The form / lemma ratio of `INTJ` is 1.027027 (the average of all parts of speech is 2.080547).
 
 The 1st highest number of forms (2) was observed with the lemma “виде”: <em>Видеяк, виде</em>.
 
@@ -52,13 +52,13 @@ The 2nd highest number of forms (1) was observed with the lemma “И-и”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “Иго-го-го”: <em>Иго-го-го</em>.
 
-`INTJ` occurs with 5 features: <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt> (6; 5% instances), <tt><a href="myv_jr-feat-Case.html">Case</a></tt> (2; 2% instances), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt> (2; 2% instances), <tt><a href="myv_jr-feat-Number.html">Number</a></tt> (2; 2% instances), <tt><a href="myv_jr-feat-Clitic.html">Clitic</a></tt> (1; 1% instances)
+`INTJ` occurs with 6 features: <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt> (6; 5% instances), <tt><a href="myv_jr-feat-Case.html">Case</a></tt> (2; 2% instances), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt> (2; 2% instances), <tt><a href="myv_jr-feat-ExtPos.html">ExtPos</a></tt> (2; 2% instances), <tt><a href="myv_jr-feat-Number.html">Number</a></tt> (2; 2% instances), <tt><a href="myv_jr-feat-Clitic.html">Clitic</a></tt> (1; 1% instances)
 
-`INTJ` occurs with 5 feature-value pairs: `Case=Nom`, `Clitic=Add`, `Definite=Ind`, `Number=Sing`, `Polarity=Neg`
+`INTJ` occurs with 6 feature-value pairs: `Case=Nom`, `Clitic=Add`, `Definite=Ind`, `ExtPos=INTJ`, `Number=Sing`, `Polarity=Neg`
 
-`INTJ` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (108 tokens).
-Examples: <em>вана, ох, виде, ну, вай, Эх, ура, Да, Угу, Цю</em>
+`INTJ` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (106 tokens).
+Examples: <em>вана, ох, виде, ну, вай, Эх, ура, Да, Цю, Эге-ге</em>
 
 
 ## Relations
@@ -77,7 +77,7 @@ Parents of `INTJ` nodes belong to 8 different parts of speech: <tt><a href="myv_
 
 The highest child degree of a `INTJ` node is 6.
 
-Children of `INTJ` nodes are attached using 6 different relations: <tt><a href="myv_jr-dep-punct.html">punct</a></tt> (129; 82% instances), <tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt> (13; 8% instances), <tt><a href="myv_jr-dep-conj.html">conj</a></tt> (11; 7% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (3; 2% instances), <tt><a href="myv_jr-dep-obl-lmod.html">obl:lmod</a></tt> (1; 1% instances), <tt><a href="myv_jr-dep-vocative.html">vocative</a></tt> (1; 1% instances)
+Children of `INTJ` nodes are attached using 6 different relations: <tt><a href="myv_jr-dep-punct.html">punct</a></tt> (129; 82% instances), <tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt> (13; 8% instances), <tt><a href="myv_jr-dep-conj.html">conj</a></tt> (11; 7% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (3; 2% instances), <tt><a href="myv_jr-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="myv_jr-dep-vocative.html">vocative</a></tt> (1; 1% instances)
 
 Children of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="myv_jr-pos-PUNCT.html">PUNCT</a></tt> (129; 82% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (13; 8% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (12; 8% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

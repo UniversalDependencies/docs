@@ -29,11 +29,11 @@ The following 4 pairs of parts of speech are connected with `case`: <tt><a href=
 5	,	,	PUNCT	zc	_	15	punct	15:punct	LvtbNodeId=a-ltg-Cairo-p17s1w5
 6	bet	bet	CCONJ	cc	_	15	cc	15:cc	LvtbNodeId=a-ltg-Cairo-p17s1w6
 7	koč	koč	PART	q	_	8	advmod:emph	8:advmod:emph	LvtbNodeId=a-ltg-Cairo-p17s1w7
-8	kaida	kaids	DET	pi0msgn	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	9	det	9:det	LvtbNodeId=a-ltg-Cairo-p17s1w8
+8	kaida	kaids	PRON	pi0msgn	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	9	det	9:det	LvtbNodeId=a-ltg-Cairo-p17s1w8
 9	īmesļa	īmeslis	NOUN	ncmsg2	Case=Gen|Gender=Masc|Number=Sing	15	obl	15:obl:deļ	LvtbNodeId=a-ltg-Cairo-p17s1w9
 10	deļ	deļ	ADP	stsg	_	9	case	9:case	LvtbNodeId=a-ltg-Cairo-p17s1w10
 11	jei	jei	PRON	pp3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	LvtbNodeId=a-ltg-Cairo-p17s1w11
-12	tamā	tei	DET	pd3fsln	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	13	det	13:det	LvtbNodeId=a-ltg-Cairo-p17s1w12
+12	tamā	tei	PRON	pd3fsln	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	13	det	13:det	LvtbNodeId=a-ltg-Cairo-p17s1w12
 13	dīnā	dīna	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	15	obl	15:obl:loc	LvtbNodeId=a-ltg-Cairo-p17s1w13
 14	tuo	tys	PRON	pd3msan	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	obj	15:obj	LvtbNodeId=a-ltg-Cairo-p17s1w14
 15	naizdareja	naizdareit	VERB	vmnist330ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	2:conj	LvtbNodeId=a-ltg-Cairo-p17s1w15|SpaceAfter=No
@@ -69,7 +69,7 @@ The following 4 pairs of parts of speech are connected with `case`: <tt><a href=
 4	jam	jis	PRON	pp3msdn	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	3:obl:leidza	LvtbNodeId=a-ltg-Cairo-p18s1w4
 5	leidza	leidza	ADV	r0y	_	4	case	4:case	LvtbNodeId=a-ltg-Cairo-p18s1w5|SpaceAfter=No
 6	,	,	PUNCT	zc	_	10	punct	10:punct	LvtbNodeId=a-ltg-Cairo-p18s1w6
-7	partū	partū	ADV	r0n	_	10	mark	10:mark	LvtbNodeId=a-ltg-Cairo-p18s1w7
+7	partū	partū	ADV	r0n	ExtPos=SCONJ	10	mark	10:mark	LvtbNodeId=a-ltg-Cairo-p18s1w7
 8	ka	ka	SCONJ	cs	_	7	fixed	7:fixed	LvtbNodeId=a-ltg-Cairo-p18s1w8
 9	jis	jis	PRON	pp3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	LvtbNodeId=a-ltg-Cairo-p18s1w9
 10	skrēja	skrīt	VERB	vmnist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	2:advcl	LvtbNodeId=a-ltg-Cairo-p18s1w10

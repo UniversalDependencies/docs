@@ -22,17 +22,19 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 `AUX` tokens may have the following values of `Polarity`:
 
-* `Neg` (26; 100% of non-empty `Polarity`): <em>абу, эз, оз, эг, не, озӧ, абуöсь, ог, он, эгö</em>
+* `Neg` (26; 100% of non-empty `Polarity`): <em>эз, абу, оз, эг, не, озӧ, абуöсь, ог, он, эгö</em>
 * `EMPTY` (13): <em>вермы, вӧлі, абу, бы, верман, вӧв, коліс, не, овлӧ, овны</em>
 
 ### `ADV`
 
 2 <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
+The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="koi_uh-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (2; 100%).
+
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>нем, ни</em>
-* `EMPTY` (91): <em>кыдз, ни, сэсся, кӧр, сё, талун, чожа, эшӧ, дасöтiсь, кынымкӧ</em>
+* `EMPTY` (92): <em>кыдз, ни, сэсся, кытӧн, кӧр, сё, талун, чожа, эшӧ, дасöтiсь</em>
 
 ### `VERB`
 

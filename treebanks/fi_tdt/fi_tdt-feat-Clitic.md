@@ -13,7 +13,7 @@ Some words have combined values of the feature; 5 combinations have been observe
 1859 tokens (1%) have a non-empty value of `Clitic`.
 1076 types (2%) occur at least once with a non-empty value of `Clitic`.
 576 lemmas (2%) occur at least once with a non-empty value of `Clitic`.
-The feature is used with 11 part-of-speech tags: <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (595; 0% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (406; 0% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (260; 0% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (247; 0% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (210; 0% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (80; 0% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (25; 0% instances), <tt><a href="fi_tdt-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="fi_tdt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
+The feature is used with 11 part-of-speech tags: <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (595; 0% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (405; 0% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (261; 0% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (247; 0% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (210; 0% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (80; 0% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (25; 0% instances), <tt><a href="fi_tdt-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="fi_tdt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
 
 ### `AUX`
 
@@ -66,9 +66,9 @@ The most frequent other feature values with which `AUX` and `Clitic` co-occurred
 
 ### `VERB`
 
-406 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Clitic`.
+405 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `VERB` and `Clitic` co-occurred: <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (379; 93%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (376; 93%), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (365; 90%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (358; 88%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (349; 86%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (286; 70%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (279; 69%).
+The most frequent other feature values with which `VERB` and `Clitic` co-occurred: <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (378; 93%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (375; 93%), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (364; 90%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (357; 88%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (348; 86%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (285; 70%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (279; 69%).
 
 `VERB` tokens may have the following values of `Clitic`:
 
@@ -81,7 +81,7 @@ The most frequent other feature values with which `VERB` and `Clitic` co-occurre
 * `Ko` (147; 36% of non-empty `Clitic`): <em>onko, eikö, kannattaako, pystyykö, saadaanko, Muistatko, Osaako, Tuleeko, haluaisitko, haluanko</em>
 * `Ko,S` (2; 0% of non-empty `Clitic`): <em>onks</em>
 * `Pa` (21; 5% of non-empty `Clitic`): <em>Kysyipä, Kävivätpä, Lukekaapa, Luulenpa, Muistappas, Onpa, Osaanpa, Pelkäänpä, Pääsisimmepä, Selviänpä</em>
-* `Pa,S` (8; 2% of non-empty `Clitic`): <em>Arvaappas, Eipäs, Käydäänpäs, Onpas, alapas, kuulkaapas, näyttääpäs, olipas</em>
+* `Pa,S` (7; 2% of non-empty `Clitic`): <em>Arvaappas, Käydäänpäs, Onpas, alapas, kuulkaapas, näyttääpäs, olipas</em>
 * `S` (5; 1% of non-empty `Clitic`): <em>kokeilkaas, Syös, kuules, pistäs</em>
 
 <table>
@@ -98,9 +98,9 @@ The most frequent other feature values with which `VERB` and `Clitic` co-occurre
 
 ### `ADV`
 
-260 <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Clitic`.
+261 <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `ADV` and `Clitic` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (242; 93%).
+The most frequent other feature values with which `ADV` and `Clitic` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (243; 93%).
 
 `ADV` tokens may have the following values of `Clitic`:
 
@@ -111,7 +111,7 @@ The most frequent other feature values with which `ADV` and `Clitic` co-occurred
 * `Ko` (14; 5% of non-empty `Clitic`): <em>paljonko, Näinkö, kauanko, Vieläkö, paljon, oikeastiko</em>
 * `Ko,S` (2; 1% of non-empty `Clitic`): <em>Paljonks</em>
 * `Pa` (10; 4% of non-empty `Clitic`): <em>vaikkapa, Entäpä, Niinpä, Siinäpä, Siispä, Tuskinpa, melkeinpä, siksipä</em>
-* `Pa,S` (1; 0% of non-empty `Clitic`): <em>kylläpäs</em>
+* `Pa,S` (2; 1% of non-empty `Clitic`): <em>Eipäs, kylläpäs</em>
 * `S` (2; 1% of non-empty `Clitic`): <em>kuinkas</em>
 
 <table>

@@ -58,7 +58,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 9	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	note	note	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
 11	plus	plus	ADV	_	_	12	advmod	_	_
-12	faible	faible	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
+12	faible	faible	ADJ	_	Number=Sing	10	amod	_	Gender[ctxt]=Fem
 13	à	à	ADP	_	_	15	case	_	_
 14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	dette	dette	NOUN	_	Gender=Fem|Number=Sing	8	obl:arg	_	_

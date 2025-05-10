@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (0%) are attached to their parents as `orphan`.
+7 nodes (0%) are attached to their parents as `orphan`.
 
-6 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.83333333333333.
+7 instances of `orphan` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.85714285714286.
 
-The following 6 pairs of parts of speech are connected with `orphan`: <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 17% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (1; 17% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 17% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (1; 17% instances).
+The following 7 pairs of parts of speech are connected with `orphan`: <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 14% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (1; 14% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 14% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (1; 14% instances).
 
 
 ~~~ conllu
@@ -54,12 +54,35 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 12 orphan	color:blue
+1	One	one	NUM	CARD-SG	Number=Sing|NumType=Card	4	nsubj	_	_
+2	of	of	ADP	_	_	3	case	_	_
+3	them	they	PRON	PERS-P3PL-ACC	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	nmod	_	_
+4	contained	contain	VERB	PAST	Tense=Past|VerbForm=Part	0	root	_	_
+5	bunk	bunk	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	beds	bed	NOUN	PL-NOM	Number=Plur	4	obj	_	SpaceAfter=No
+7	,	,	PUNCT	Comma	_	9	punct	_	_
+8	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+9	other	other	ADJ	POS	Degree=Pos	4	conj	_	_
+10	a	a	DET	IND-SG	Definite=Ind|PronType=Art	12	det	_	_
+11	double	double	ADJ	POS	Degree=Pos	12	amod	_	_
+12	bed	bed	NOUN	SG-NOM	Number=Sing	9	orphan	_	SpaceAfter=No
+13	.	.	PUNCT	Period	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 15 orphan	color:blue
-1	You	you	PRON	PERS-P2	_	3	nsubj	_	_
+1	You	you	PRON	PERS-P2	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	_
 2	can	can	AUX	PRES-AUX	VerbForm=Fin	3	aux	_	_
 3	change	change	VERB	INF	VerbForm=Inf	0	root	_	_
 4	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
@@ -80,48 +103,6 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 19	dialog	dialog	NOUN	SG-NOM	Number=Sing	20	compound	_	_
 20	box	box	NOUN	SG-NOM	Number=Sing	3	obl	_	SpaceAfter=No
 21	.	.	PUNCT	Period	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 31	bgColor:blue
-# visual-style 31	fgColor:white
-# visual-style 29	bgColor:blue
-# visual-style 29	fgColor:white
-# visual-style 29 31 orphan	color:blue
-1	Skirts	skirt	NOUN	PL-NOM	Number=Plur	4	nsubj	_	_
-2	were	be	AUX	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	_	_
-3	too	too	ADV	_	_	4	advmod	_	_
-4	short	short	ADJ	POS	Degree=Pos	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	Comma	_	9	punct	_	_
-6	hair	hair	NOUN	SG-NOM	Number=Sing	9	nsubj	_	_
-7	was	be	AUX	PAST	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	cop	_	_
-8	too	too	ADV	_	_	9	advmod	_	_
-9	long	long	ADJ	POS	Degree=Pos	4	conj	_	SpaceAfter=No
-10	,	,	PUNCT	Comma	_	20	punct	_	_
-11	and	and	CCONJ	_	_	20	cc	_	_
-12	the	the	DET	DEF	Definite=Def|PronType=Art	15	det	_	_
-13	favoured	favour	ADJ	PASS	_	15	amod	_	_
-14	colour	colour	NOUN	SG-NOM	Number=Sing	15	compound	_	_
-15	combination	combination	NOUN	SG-NOM	Number=Sing	20	nsubj	_	_
-16	of	of	ADP	_	_	17	case	_	_
-17	purple	purple	ADJ	POS	Degree=Pos	15	amod	_	_
-18	and	and	CCONJ	_	_	19	cc	_	_
-19	orange	orange	ADJ	POS	Degree=Pos	17	conj	_	_
-20	made	make	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	_
-21	my	my	PRON	P1SG-GEN	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	22	nmod:poss	_	_
-22	mother	mother	NOUN	SG-NOM	Number=Sing	20	obj	_	_
-23	look	look	VERB	INF	VerbForm=Inf	20	xcomp	_	_
-24	like	like	ADP	_	_	26	case	_	_
-25	a	a	DET	IND-SG	Definite=Ind|PronType=Art	26	det	_	_
-26	vampire	vampire	NOUN	SG-NOM	Number=Sing	23	obl	_	_
-27	and	and	CCONJ	_	_	29	cc	_	_
-28	my	my	PRON	P1SG-GEN	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	29	nmod:poss	_	_
-29	father	father	NOUN	SG-NOM	Number=Sing	4	conj	_	_
-30	a	a	DET	IND-SG	Definite=Ind|PronType=Art	31	det	_	_
-31	Matisse	Matisse	PROPN	SG-NOM	Number=Sing	29	orphan	_	SpaceAfter=No
-32	.	.	PUNCT	Period	_	4	punct	_	_
 
 ~~~
 

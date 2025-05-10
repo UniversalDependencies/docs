@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-19 nodes (0%) are attached to their parents as `orphan`.
+20 nodes (0%) are attached to their parents as `orphan`.
 
-15 instances of `orphan` (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.47368421052632.
+16 instances of `orphan` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.4.
 
-The following 11 pairs of parts of speech are connected with `orphan`: <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (5; 26% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (4; 21% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (2; 11% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (1; 5% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (1; 5% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (1; 5% instances).
+The following 11 pairs of parts of speech are connected with `orphan`: <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (5; 25% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (4; 20% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (2; 10% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (2; 10% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (1; 5% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -64,25 +64,33 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 11 orphan	color:blue
-1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
-2	wird	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	aux:pass	_	_
-3	angenommen	annehmen	VERB	VVPP	VerbForm=Part	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	$,	_	6	punct	_	_
-5	dass	dass	CCONJ	KOUS	_	6	mark	_	_
-6	Freistadt	Freistadt	PROPN	NN	Case=Nom|Gender=Fem|Number=Sing	3	csubj:pass	_	NamedEntity=Yes
-7	um	um	ADP	APPR	_	8	case	_	_
-8	1225	1225	NUM	CARD	NumType=Card	6	orphan	_	_
-9	von	von	ADP	APPR	_	11	case	_	_
-10	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	Babenberger	Babenberger	PROPN	ADJA	Case=Dat|Gender=Masc|Number=Sing	6	orphan	_	NamedEntity=Yes
-12	Leopold	Leopold	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	11	flat	_	NamedEntity=Yes
-13	VI	VI	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	11	flat	_	NamedEntity=Yes|SpaceAfter=No
-14	.	.	PUNCT	$.	_	13	punct	_	_
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 21 orphan	color:blue
+1	Zu	zu	ADP	APPR	_	4	case	_	_
+2	solchen	solcher	DET	PIAT	Case=Dat|Gender=Fem|Number=Plur|PronType=Dem	4	det	_	_
+3	schweren	schwer	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	_
+4	Entwicklungsstörungen	Entwicklungsstörung	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	13	obl	_	_
+5	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	frühen	früh	ADJ	ADJA	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	Leibesfrucht	Leibesfrucht	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+8	(	(	PUNCT	$(	_	9	punct	_	SpaceAfter=No
+9	Embryopathien	Embryopathien	PROPN	NN	Case=Dat|Gender=Fem|Number=Plur	7	appos	_	NamedEntity=Yes|SpaceAfter=No
+10	)	)	PUNCT	$(	_	9	punct	_	_
+11	kann	können	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+12	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+13	kommen	kommen	VERB	VVINF	VerbForm=Inf	0	root	_	SpaceAfter=No
+14	,	,	PUNCT	$,	_	18	punct	_	_
+15	wenn	wenn	SCONJ	KOUS	_	18	mark	_	_
+16	Folsäure	Folsäure	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	18	compound	_	SpaceAfter=No
+17	-	-	PUNCT	$(	_	16	punct	_	SpaceAfter=No
+18	Hemmstoffe	Hemmstoff	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	13	advcl	_	_
+19	in	in	ADP	APPR	_	21	case	_	_
+20	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	4	4	NUM	CARD	NumType=Card	18	orphan	_	SpaceAfter=No
+22	.	.	PUNCT	$.	_	21	punct	_	_
 
 ~~~
 

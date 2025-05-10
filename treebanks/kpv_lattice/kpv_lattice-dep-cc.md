@@ -26,7 +26,7 @@ The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="
 1	Вундігӧн	вундыны	VERB	V	Case=Ins|Derivation=Ig|VerbForm=Conv	6	advcl	_	_
 2	да	да	CCONJ	Pcle	_	3	cc	_	OrigLang=ru
 3	тэчигӧн	тэчыны	VERB	V	Case=Ins|Derivation=Ig|VerbForm=Conv	1	conj	_	_
-4	му	му	NOUN	N	Case=Nom|Number=Sing	6	obl:lmod	_	_
+4	му	му	NOUN	N	Case=Nom|Number=Sing	6	obl	_	_
 5	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	4	case	_	_
 6	усьӧ	усьны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 7	уна	уна	ADV	Adv	_	8	advmod	_	_
@@ -42,14 +42,14 @@ The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 cc	color:blue
-1	Ньӧжйӧник	ньӧжйӧник	ADV	Adv	Derivation=Ik	2	advmod:mmod	_	_
+1	Ньӧжйӧник	ньӧжйӧник	ADV	Adv	Derivation=Ik	2	advmod	_	_
 2	чукӧрті	чукӧртны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
 3	чери	чери	NOUN	N	Case=Nom|Number=Sing	4	nmod	_	_
 4	кыян	кыян	NOUN	N	Case=Nom|Number=Sing	5	nmod	_	_
 5	кӧлуйӧс	кӧлуй	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	obj	_	_
 6	да	да	CCONJ	CC	_	5	cc	_	_
 7	мӧдӧдчи	мӧдӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	2	conj	_	_
-8	гортлань	горт	NOUN	N	Case=Apr|Number=Sing	7	obl:lmod	_	SpaceAfter=No
+8	гортлань	горт	NOUN	N	Case=Apr|Number=Sing	7	obl	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
@@ -62,8 +62,8 @@ The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 1 cc	color:blue
 1	А	а	CCONJ	CC	_	4	cc	_	OrigLang=ru
-2	сэсся	сэсся	ADV	Adv	_	4	advmod:tmod	_	_
-3	пыр	пыр	ADV	Adv	_	4	advmod:tmod	_	_
+2	сэсся	сэсся	ADV	Adv	_	4	advmod	_	_
+3	пыр	пыр	ADV	Adv	_	4	advmod	_	_
 4	отаджыкӧсь	ота	ADJ	A	Case=Nom|Degree=Cmp|Number[subj]=Plur	0	root	_	_
 5	лоисны	лоны	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	cop	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	4	punct	_	_

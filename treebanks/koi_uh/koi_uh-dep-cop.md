@@ -51,7 +51,7 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 7	но	но	CCONJ	_	_	14	cc	_	_
 8	мылякӧ	мылякӧ	ADV	_	Definite=Ind	14	advmod	_	GTtags=Indef
 9	сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	det	_	GTtags=Pers,Sg3,Nom
-10	лунӧ	лун	NOUN	_	Case=Ill|Number=Sing	14	obl:tmod	_	GTtags=Sg,Ill
+10	лунӧ	лун	NOUN	_	Case=Ill|Number=Sing	14	obl	_	GTtags=Sg,Ill
 11	сылӧ	сія	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	14	obl	_	GTtags=Pers,Sg3,Dat
 12	эз	оз	AUX	_	Person=3|Polarity=Neg|Tense=Past|VerbType=Aux	14	aux	_	GTtags=Prt1,3
 13	вӧв	вӧвны	AUX	_	Connegative=Yes	14	cop	_	GTtags=ConNeg

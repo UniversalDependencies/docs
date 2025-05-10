@@ -10,10 +10,10 @@ This relation is universal.
 
 129 nodes (0%) are attached to their parents as `dislocated`.
 
-75 instances of `dislocated` (58%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.2093023255814.
+88 instances of `dislocated` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.91472868217054.
 
-The following 18 pairs of parts of speech are connected with `dislocated`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (45; 35% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (28; 22% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (21; 16% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (7; 5% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 17 pairs of parts of speech are connected with `dislocated`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (54; 42% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (30; 23% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (9; 7% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (9; 7% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -60,29 +60,25 @@ The following 18 pairs of parts of speech are connected with `dislocated`: <tt><
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 10 dislocated	color:blue
-1	You	you	PRON	PERS-P2	_	2	nsubj	_	_
-2	see	see	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	_	SpaceAfter=No
-3	,	,	PUNCT	Comma	_	2	punct	_	_
-4	said	say	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-5	Quinn	Quinn	PROPN	SG-NOM	Number=Sing	4	nsubj	_	SpaceAfter=No
-6	,	,	PUNCT	Comma	_	10	punct	_	_
-7	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
-8	'm	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	_
-9	not	not	PART	NEG	Polarity=Neg	10	advmod	_	_
-10	making	make	VERB	ING	Tense=Pres|VerbForm=Part	4	dislocated	_	_
-11	it	it	PRON	PERS-SG	_	10	obj	_	_
-12	up	up	ADV	_	_	10	compound:prt	_	SpaceAfter=No
-13	.	.	PUNCT	Period	_	10	punct	_	_
-14	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
-15	even	even	ADV	_	_	16	advmod	_	_
-16	have	have	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	10	conj	_	_
-17	proof	proof	NOUN	SG-NOM	Number=Sing	16	obj	_	SpaceAfter=No
-18	.	.	PUNCT	Period	_	16	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 dislocated	color:blue
+1	It	it	PRON	EX-P3SG	_	2	expl	_	_
+2	was	be	VERB	PAST	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	then	then	ADV	_	PronType=Dem	2	dislocated	_	_
+4	that	that	SCONJ	REL	_	7	mark	_	_
+5	he	he	PRON	PERS-P3SG-NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+6	had	have	AUX	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	7	aux	_	_
+7	taken	take	VERB	PERF	Tense=Past|VerbForm=Part	3	acl	_	_
+8	on	on	ADP	_	_	7	compound:prt	_	_
+9	the	the	DET	DEF	Definite=Def|PronType=Art	10	det	_	_
+10	name	name	NOUN	SG-NOM	Number=Sing	7	obj	_	_
+11	of	of	ADP	_	_	12	case	_	_
+12	William	William	PROPN	SG-NOM	Number=Sing	10	nmod	_	_
+13	Wilson	Wilson	PROPN	SG-NOM	Number=Sing	12	flat	_	SpaceAfter=No
+14	.	.	PUNCT	Period	_	2	punct	_	_
 
 ~~~
 

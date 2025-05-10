@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_partut-dep-nsubj.html">nsubj</a></tt>.
 
-473 nodes (1%) are attached to their parents as `nsubj:pass`.
+474 nodes (1%) are attached to their parents as `nsubj:pass`.
 
-459 instances of `nsubj:pass` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.75052854122622.
+460 instances of `nsubj:pass` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.74683544303798.
 
-The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (301; 64% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (127; 27% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (33; 7% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (9; 2% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (301; 64% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (128; 27% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (33; 7% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (9; 2% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 2 nsubj:pass	color:blue
 1	This	this	DET	DD	Number=Sing|PronType=Dem	2	det	_	_
-2	photograph	photograph	NOUN	S	Number=Sing	4	nsubj:pass	_	SpaceAfter=No
+2	photograph	photograph	NOUN	S	Number=Sing	4	nsubj:pass	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	taken	take	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 5	1950	1950	NUM	N	NumType=Card	4	obl	_	SpaceAfter=No

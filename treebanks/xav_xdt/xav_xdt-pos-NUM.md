@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Xavante-XDT: POS Tags: `NUM`
 
-There are 3 `NUM` lemmas (1%), 3 `NUM` types (1%) and 13 `NUM` tokens (1%).
-Out of 15 observed tags, the rank of `NUM` is: 12 in number of lemmas, 12 in number of types and 11 in number of tokens.
+There are 2 `NUM` lemmas (0%), 2 `NUM` types (0%) and 13 `NUM` tokens (1%).
+Out of 15 observed tags, the rank of `NUM` is: 13 in number of lemmas, 13 in number of types and 12 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>dzahuré, misi, mitsi</em>
+The 10 most frequent `NUM` lemmas: <em>zahuré, misi</em>
 
-The 10 most frequent `NUM` types:  <em>dzahuré, misi, mitsi</em>
+The 10 most frequent `NUM` types:  <em>zahuré, misi</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -21,13 +21,11 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.290598).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.232409).
 
-The 1st highest number of forms (1) was observed with the lemma “dzahuré”: <em>dzahuré</em>.
+The 1st highest number of forms (1) was observed with the lemma “misi”: <em>misi</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “misi”: <em>misi</em>.
-
-The 3rd highest number of forms (1) was observed with the lemma “mitsi”: <em>mitsi</em>.
+The 2nd highest number of forms (1) was observed with the lemma “zahuré”: <em>zahuré</em>.
 
 `NUM` occurs with 1 features: <tt><a href="xav_xdt-feat-Number.html">Number</a></tt> (11; 85% instances)
 
@@ -35,7 +33,7 @@ The 3rd highest number of forms (1) was observed with the lemma “mitsi”: <em
 
 `NUM` occurs with 2 feature combinations.
 The most frequent feature combination is `Number=Dual` (11 tokens).
-Examples: <em>dzahuré</em>
+Examples: <em>zahuré</em>
 
 
 ## Relations

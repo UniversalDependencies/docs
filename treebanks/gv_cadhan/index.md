@@ -19,10 +19,10 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Kevin Scannell.
 
 Repository: [UD_Manx-Cadhan](https://github.com/UniversalDependencies/UD_Manx-Cadhan)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgv_cadhan215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgv_cadhan216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
-License: GNU GPL 3.0
+License: CC BY-SA 4.0
 
 Genre: news, fiction, nonfiction, blog, social, wiki, web, bible
 

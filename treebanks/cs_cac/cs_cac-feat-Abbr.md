@@ -44,7 +44,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (982; 100% of non-empty `Abbr`): <em>ÚV, ZV, ZO, JZD, Kčs, ONV, ÚR, MěstNV, BSP, BP</em>
-* `EMPTY` (135201): <em>práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</em>
+* `EMPTY` (135200): <em>práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (160) occur only with one value of `Abbr`.
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (10; 100% of non-empty `Abbr`): <em>kt</em>
-* `EMPTY` (28123): <em>tak, také, jak, proto, již, už, ještě, pak, kde, tedy</em>
+* `EMPTY` (28079): <em>tak, také, jak, proto, již, už, ještě, pak, kde, tedy</em>
 
 ### `ADJ`
 
@@ -77,7 +77,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (9; 100% of non-empty `Abbr`): <em>TH, jč, HT, LP, PE, Rh</em>
-* `EMPTY` (74213): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
+* `EMPTY` (74211): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
 
 ## Relations with Agreement in `Abbr`
 

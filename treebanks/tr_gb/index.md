@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Çağrı Çöltekin.
 
 Repository: [UD_Turkish-GB](https://github.com/UniversalDependencies/UD_Turkish-GB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_gb215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_gb216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -73,7 +73,7 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 
 ## Features
 
-[Aspect](tr_gb-feat-Aspect.html) – [Case](tr_gb-feat-Case.html) – [Definite](tr_gb-feat-Definite.html) – [Evident](tr_gb-feat-Evident.html) – [Mood](tr_gb-feat-Mood.html) – [Number](tr_gb-feat-Number.html) – [Number[psor]](tr_gb-feat-Number-psor.html) – [NumType](tr_gb-feat-NumType.html) – [Person](tr_gb-feat-Person.html) – [Person[psor]](tr_gb-feat-Person-psor.html) – [Polarity](tr_gb-feat-Polarity.html) – [PronType](tr_gb-feat-PronType.html) – [Reflex](tr_gb-feat-Reflex.html) – [Tense](tr_gb-feat-Tense.html) – [Typo](tr_gb-feat-Typo.html) – [VerbForm](tr_gb-feat-VerbForm.html) – [Voice](tr_gb-feat-Voice.html)
+[Aspect](tr_gb-feat-Aspect.html) – [Case](tr_gb-feat-Case.html) – [Definite](tr_gb-feat-Definite.html) – [Evident](tr_gb-feat-Evident.html) – [ExtPos](tr_gb-feat-ExtPos.html) – [Mood](tr_gb-feat-Mood.html) – [Number](tr_gb-feat-Number.html) – [Number[psor]](tr_gb-feat-Number-psor.html) – [NumType](tr_gb-feat-NumType.html) – [Person](tr_gb-feat-Person.html) – [Person[psor]](tr_gb-feat-Person-psor.html) – [Polarity](tr_gb-feat-Polarity.html) – [PronType](tr_gb-feat-PronType.html) – [Reflex](tr_gb-feat-Reflex.html) – [Tense](tr_gb-feat-Tense.html) – [Typo](tr_gb-feat-Typo.html) – [VerbForm](tr_gb-feat-VerbForm.html) – [Voice](tr_gb-feat-Voice.html)
 
 ## Relations
 
@@ -1003,6 +1003,23 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>PRON: Ne</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>DET: bir</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Person[psor]</a>

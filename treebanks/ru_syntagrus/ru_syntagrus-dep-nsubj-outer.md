@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="ru_syntagrus-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-8 nodes (0%) are attached to their parents as `nsubj:outer`.
+9 nodes (0%) are attached to their parents as `nsubj:outer`.
 
-8 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.875.
+9 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.55555555555556.
 
-The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (2; 25% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (2; 25% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (1; 13% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (1; 13% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (1; 13% instances).
+The following 7 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (2; 22% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (2; 22% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (1; 11% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (1; 11% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (1; 11% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -25,12 +25,12 @@ The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 # visual-style 6 1 nsubj:outer	color:blue
 1	Спорт	спорт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj:outer	6:nsubj:outer	_
 2	-	-	PUNCT	_	_	1	punct	1:punct	_
-3	это	это	PRON	_	PronType=Dem	6	expl	6:expl	_
+3	это	это	PART	_	_	6	expl	6:expl	_
 4	когда	когда	SCONJ	_	_	6	mark	6:mark	_
-5	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	6	nsubj	6:nsubj	_
+5	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	6	nsubj	6:nsubj	_
 6	ясно	ясный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	0:root	SpaceAfter=No
 7	:	:	PUNCT	_	_	10	punct	6:punct	_
-8	вон	вон	ADV	_	Degree=Pos	10	advmod	10:advmod	_
+8	вон	вон	ADV	_	Degree=Pos|PronType=Dem	10	advmod	10:advmod	pos="ADVPRO"|_
 9	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	10	nsubj	10:nsubj	_
 10	быстрее	быстрый	ADJ	_	Degree=Cmp	6	parataxis	6:parataxis	SpaceAfter=No
 11	,	,	PUNCT	_	_	15	punct	15:punct	_
@@ -54,7 +54,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 3	,	,	PUNCT	_	_	8	punct	8:punct	_
 4	зима	зима	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj:outer	8:nsubj:outer	_
 5	-	-	PUNCT	_	_	4	punct	4:punct	_
-6	это	это	PRON	_	PronType=Dem	8	expl	8:expl	_
+6	это	это	PART	_	_	8	expl	8:expl	_
 7	когда	когда	SCONJ	_	_	8	mark	8:mark	_
 8	выпадает	выпадать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	2:ccomp	_
 9	снег	снег	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	SpaceAfter=No
@@ -79,9 +79,9 @@ The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 8	,	,	PUNCT	_	_	11	punct	11:punct	_
 9	чем	чем	SCONJ	_	_	11	mark	11:mark	_
 10	у	у	ADP	_	_	11	case	11:case	_
-11	тех	тот	DET	_	Case=Gen|Number=Plur|PronType=Dem	7	det	7:det|15:nsubj	SpaceAfter=No
+11	тех	тот	DET	_	Case=Gen|Number=Plur|PronType=Dem	7	acl	7:acl|15:nsubj	deprel="det"|SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	15:punct	_
-13	кто	кто	PRON	_	Case=Nom|PronType=Int,Rel	15	nsubj	11:ref	_
+13	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel	15	nsubj	11:ref	_
 14	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	15:obj	_
 15	дает	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	11:acl:relcl	SpaceAfter=No
 16	.	.	PUNCT	_	_	7	punct	7:punct	_

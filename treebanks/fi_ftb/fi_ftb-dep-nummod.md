@@ -24,9 +24,9 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 5 4 nummod	color:blue
 1	ei	ei	AUX	V,Neg,Act,Sg3	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	2	aux	_	_
 2	ole	olla	VERB	V,Act,Ind,Pres,ConNeg	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	ennää	enää	PART	Pcle	Style=Coll	2	advmod	_	_
+3	ennää	enää	ADV	Adv	Style=Coll	2	advmod	_	_
 4	kymmenhiv	kymmenen	NUM	Num,Card,Pl,Ill	Case=Ill|Number=Plur|NumType=Card|Style=Coll	5	nummod	_	_
-5	vuossin	vuosi	NOUN	N,Pl,Ill	Case=Ill|Number=Plur|Style=Coll	2	nmod	_	_
+5	vuossin	vuosi	NOUN	N,Pl,Ill	Case=Ill|Number=Plur|Style=Coll	2	obl	_	_
 
 ~~~
 
@@ -42,7 +42,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	kertynyt	kertyä	VERB	V,Act,PcpNut,Sg,Nom	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
 4	satoja	sata	NUM	Num,Card,Pl,Par	Case=Par|Number=Plur|NumType=Card	5	nummod	_	_
 5	tuhansia	tuhat	NUM	Num,Card,Pl,Par	Case=Par|Number=Plur|NumType=Card	6	nummod	_	_
-6	markkoja	markka	NOUN	N,Pl,Par	Case=Par|Number=Plur	3	nmod	_	_
+6	markkoja	markka	NOUN	N,Pl,Par	Case=Par|Number=Plur	3	obl	_	_
 7	.	.	PUNCT	Pun	_	6	punct	_	_
 
 ~~~
@@ -58,7 +58,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	maan	maa	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	5	nmod	_	_
 4	kymmenen	kymmenen	NUM	Num,Card,Sg,Gen	Case=Gen|Number=Sing|NumType=Card	5	nummod	_	_
-5	suurimman	suuri	ADJ	A,Sup,Sg,Gen	Case=Gen|Degree=Sup|Number=Sing	2	nmod	_	_
+5	suurimman	suuri	ADJ	A,Sup,Sg,Gen	Case=Gen|Degree=Sup|Number=Sing	2	obl	_	_
 6	joukossa	joukossa	ADP	Adp	_	5	case	_	_
 7	.	.	PUNCT	Pun	_	5	punct	_	Was18=punct:6:case
 

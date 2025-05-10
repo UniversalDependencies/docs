@@ -41,13 +41,13 @@ The 2nd highest number of forms (1) was observed with the lemma “Piʒʒ”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “a”: <em>A</em>.
 
-`INTJ` occurs with 1 features: <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt> (6; 10% instances)
+`INTJ` occurs with 2 features: <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt> (6; 10% instances), <tt><a href="sms_giellagas-feat-ExtPos.html">ExtPos</a></tt> (4; 7% instances)
 
-`INTJ` occurs with 1 feature-value pairs: `Polarity=Neg`
+`INTJ` occurs with 3 feature-value pairs: `ExtPos=CCONJ`, `ExtPos=INTJ`, `Polarity=Neg`
 
-`INTJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (54 tokens).
-Examples: <em>no, näʹde, na, pii, joo, äʹn, Piʒʒ, A, Jaa, Oho</em>
+`INTJ` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (51 tokens).
+Examples: <em>no, näʹde, na, pii, joo, äʹn, A, Jaa, Oho, naa</em>
 
 
 ## Relations

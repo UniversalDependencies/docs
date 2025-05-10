@@ -11,7 +11,7 @@ This relation is universal.
 151 nodes (9%) are attached to their parents as `obl`.
 
 86 instances of `obl` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.21192052980132.
+Average distance between parent and child is 2.21854304635762.
 
 The following 13 pairs of parts of speech are connected with `obl`: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (108; 72% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (14; 9% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (7; 5% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (7; 5% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt>-<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
@@ -41,7 +41,7 @@ The following 13 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 4 obl	color:blue
 1	Pruazniekku	pruazniekku	NOUN	NOUN	Case=Nom|Number=Sing	2	nsubj	_	_
-2	pietäh	pidiä	VERB	VERB	Mood=Ind|Tense=Pres|Voice=Pass	0	root	_	_
+2	pietäh	pidiä	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	kezäkuul	kezäkuu	NOUN	NOUN	Case=Ade|Number=Sing	2	obl	_	_
 4	Anuksenlinnas	Anuksenlinna	PROPN	PROPN	Case=Ela|Number=Sing	2	obl	_	SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No

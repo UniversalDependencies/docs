@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Tomáš Jelínek, Daniel Zeman.
 
 Repository: [UD_Czech-FicTree](https://github.com/UniversalDependencies/UD_Czech-FicTree)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_fictree215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_fictree216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -83,7 +83,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 
 ## Features
 
-[Abbr](cs_fictree-feat-Abbr.html) – [AdpType](cs_fictree-feat-AdpType.html) – [Animacy](cs_fictree-feat-Animacy.html) – [Aspect](cs_fictree-feat-Aspect.html) – [Case](cs_fictree-feat-Case.html) – [ConjType](cs_fictree-feat-ConjType.html) – [Degree](cs_fictree-feat-Degree.html) – [Gender](cs_fictree-feat-Gender.html) – [Gender[psor]](cs_fictree-feat-Gender-psor.html) – [Hyph](cs_fictree-feat-Hyph.html) – [Mood](cs_fictree-feat-Mood.html) – [NameType](cs_fictree-feat-NameType.html) – [Number](cs_fictree-feat-Number.html) – [Number[psor]](cs_fictree-feat-Number-psor.html) – [NumForm](cs_fictree-feat-NumForm.html) – [NumType](cs_fictree-feat-NumType.html) – [Person](cs_fictree-feat-Person.html) – [Polarity](cs_fictree-feat-Polarity.html) – [Poss](cs_fictree-feat-Poss.html) – [PrepCase](cs_fictree-feat-PrepCase.html) – [PronType](cs_fictree-feat-PronType.html) – [Reflex](cs_fictree-feat-Reflex.html) – [Style](cs_fictree-feat-Style.html) – [Tense](cs_fictree-feat-Tense.html) – [Variant](cs_fictree-feat-Variant.html) – [VerbForm](cs_fictree-feat-VerbForm.html) – [Voice](cs_fictree-feat-Voice.html)
+[Abbr](cs_fictree-feat-Abbr.html) – [AdpType](cs_fictree-feat-AdpType.html) – [Animacy](cs_fictree-feat-Animacy.html) – [Aspect](cs_fictree-feat-Aspect.html) – [Case](cs_fictree-feat-Case.html) – [ConjType](cs_fictree-feat-ConjType.html) – [Degree](cs_fictree-feat-Degree.html) – [ExtPos](cs_fictree-feat-ExtPos.html) – [Gender](cs_fictree-feat-Gender.html) – [Gender[psor]](cs_fictree-feat-Gender-psor.html) – [Hyph](cs_fictree-feat-Hyph.html) – [Mood](cs_fictree-feat-Mood.html) – [NameType](cs_fictree-feat-NameType.html) – [Number](cs_fictree-feat-Number.html) – [Number[psor]](cs_fictree-feat-Number-psor.html) – [NumForm](cs_fictree-feat-NumForm.html) – [NumType](cs_fictree-feat-NumType.html) – [Person](cs_fictree-feat-Person.html) – [Polarity](cs_fictree-feat-Polarity.html) – [Poss](cs_fictree-feat-Poss.html) – [PrepCase](cs_fictree-feat-PrepCase.html) – [PronType](cs_fictree-feat-PronType.html) – [Reflex](cs_fictree-feat-Reflex.html) – [Style](cs_fictree-feat-Style.html) – [Tense](cs_fictree-feat-Tense.html) – [Variant](cs_fictree-feat-Variant.html) – [VerbForm](cs_fictree-feat-VerbForm.html) – [Voice](cs_fictree-feat-Voice.html)
 
 ## Relations
 
@@ -131,11 +131,11 @@ http://ceur-ws.org/Vol-1885/181.pdf
 </ul>
 
 <ul>
-<li>This corpus contains 53 lemmas tagged as determiners (DET): bůhvíkolik, hodně, jaký, jakýkoli, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdekterý, kdovíjaký, kolik, které, který, lecjaký, leckterý, mnoho, moc, my, málo, méně, můj, nijaký, nějaký, několik, některý, něčí, onen, pražádný, samý, svůj, takový, takovýhle, takovýto, takýs, tamhleten, tamten, ten, tenhle, tenhleten, tento, tentýž, to, tolik, tvůj, týž, víc, více, všechen, všelijaký, čí, žádný</li>
+<li>This corpus contains 55 lemmas tagged as determiners (DET): bůhvíkolik, hodně, jaký, jakýkoli, jakýpak, jakýs, jakýsi, jeho, jehož, jejichž, jejíž, každý, kdekterý, kdovíjaký, kolik, které, který, lecjaký, leckterý, mnoho, moc, my, málo, méně, můj, nijaký, nějaký, několik, některý, něčí, onen, pražádný, samý, svůj, takový, takovýhle, takovýto, takýs, tamhleten, tamten, ten, tenhle, tenhleten, tento, tentýž, to, tolik, tvůj, týž, víc, více, všechen, všelijaký, čí, žádný</li>
 </ul>
 
 <ul>
-<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: jenž, my</li>
+<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: my</li>
 </ul>
 
 <ul>
@@ -275,7 +275,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>DET: ten, který, jeho, svůj, které, každý, tom, svého, nějaký, její</li>
       <li>NOUN: život, den, plod, čas, života, životě, dne, pohled, domu, dům</li>
       <li>NUM: dva, jeden, jednoho, tři, čtyři, tisíc, dvou, jedním, dvěma, jednom</li>
-      <li>PRON: co, ho, je, čím, něm, něj, čem, nich, ním, jich</li>
+      <li>PRON: co, něco, ho, je, čím, něm, něj, čem, cosi, nich</li>
       <li>PROPN: Poděbradech, Poděbrad, Amadeus, Kolína, Kolíně, Mánes, Neurol, Náchoda, Náchodě, Sudety</li>
       <li>VERB-Conv: klouzaje</li>
       <li>VERB-Part: stál, mohl, měl, ozval, začal, zdál, ujel, ležel, vypadal, zastavil</li>
@@ -451,7 +451,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>Npr
     <ul>
-      <li>PRON: jež, jenž, jehož, jemuž, jíž, již, jímž, jimiž, jimž, jejž</li>
+      <li>PRON: ji, je, jí, jim, jich, jej, jež, jemu, jimi, jeho</li>
     </ul>
   </li>
 </ul>
@@ -972,6 +972,42 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>Oper
         <ul>
           <li>CCONJ: krát</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>DET: to</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADP: v, na, vzhledem, bez, s, ve, za</li>
+          <li>ADV: spolu, společně</li>
+          <li>NOUN: směrem</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADV: nejen</li>
+          <li>NOUN: noc, rok, večer</li>
+          <li>PART: přece</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: a</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>CCONJ: i</li>
         </ul>
       </li>
     </ul>

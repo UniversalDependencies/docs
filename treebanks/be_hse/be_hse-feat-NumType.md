@@ -49,7 +49,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (6; 100% of non-empty `NumType`): <em>адзін, адна, аднаго, адно, адной</em>
-* `EMPTY` (6724): <em>яго, гэты, наш, яе, свой, іх, сваю, тым, той, свае</em>
+* `EMPTY` (6725): <em>яго, гэты, наш, яе, свой, іх, сваю, тым, той, свае</em>
 
 ## Relations with Agreement in `NumType`
 
@@ -61,7 +61,7 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="be_hse-dep-nummod-gov.html">nummod:gov</a></tt>]--> NUM</tt> (4; 100%),
 <tt>NUM --[<tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (4; 100%),
 <tt>NUM --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> NUM</tt> (3; 100%),
-<tt>DET --[<tt><a href="be_hse-dep-fixed.html">fixed</a></tt>]--> DET</tt> (2; 100%),
+<tt>DET --[<tt><a href="be_hse-dep-fixed.html">fixed</a></tt>]--> DET</tt> (2; 67%),
 <tt>NUM --[<tt><a href="be_hse-dep-flat.html">flat</a></tt>]--> NUM</tt> (2; 67%),
 <tt>NUM --[<tt><a href="be_hse-dep-compound.html">compound</a></tt>]--> NUM</tt> (1; 100%).
 

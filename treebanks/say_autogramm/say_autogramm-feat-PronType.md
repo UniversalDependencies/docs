@@ -45,7 +45,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 * `Dem` (120; 77% of non-empty `PronType`): <em>yáːwón, ɗáni, ɗân, ɗangəní, ɗûːn, ɗúːni, ɗaɗân, ʤǎːn, ɗangənín, ɗaɗáni</em>
 * `Int` (26; 17% of non-empty `PronType`): <em>wuriː, wúr, gyóː, téːɗôː, wuríː, yǎː, ìnáː, ɗòː, ɗôː</em>
-* `Rel` (9; 6% of non-empty `PronType`): <em>yáddiyóːɗan, yandìyóːɗan, yádda, yáddà, yándiyóːɗan, yə́ddà, ɗa, ɗan</em>
+* `Rel` (9; 6% of non-empty `PronType`): <em>yáddiyóːɗan, yandìyóːɗan, yáddà, yándiyóːɗan, yə́ddà, ɗa, ɗan, yádda</em>
 * `EMPTY` (618): <em>séː, sòːséy, ʧík, ɗan, káwây, káwêy, tsə́n, ɣəndá, tá, əndá</em>
 
 `PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (28) occur only with one value of `PronType`.

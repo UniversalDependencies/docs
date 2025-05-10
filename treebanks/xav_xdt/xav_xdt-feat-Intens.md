@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="xav_xdt-pos-VERB.ht
 
 1 <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Intens`.
 
-The most frequent other feature values with which `VERB` and `Intens` co-occurred: <tt><a href="xav_xdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Intens` co-occurred: <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="xav_xdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Intens`:
 

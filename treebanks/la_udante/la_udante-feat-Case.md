@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Loc`, `Nom`, `Voc`.
 
-23472 tokens (42%) have a non-empty value of `Case`.
-8407 types (70%) occur at least once with a non-empty value of `Case`.
-4088 lemmas (73%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (9858; 18% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (3948; 7% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (3597; 6% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (2630; 5% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (2319; 4% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (996; 2% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (116; 0% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (8; 0% instances).
+23540 tokens (42%) have a non-empty value of `Case`.
+8408 types (70%) occur at least once with a non-empty value of `Case`.
+4089 lemmas (73%) occur at least once with a non-empty value of `Case`.
+The feature is used with 8 part-of-speech tags: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (9891; 18% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (3946; 7% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (3593; 6% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (2667; 5% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (2323; 4% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (996; 2% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (116; 0% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (8; 0% instances).
 
 ### `NOUN`
 
-9858 <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Case`.
+9891 <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7709; 78%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7742; 78%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Abl` (2351; 24% of non-empty `Case`): <em>parte, iure, modo, celo, ratione, principio, forma, tempore, genere, natura</em>
-* `Acc` (2654; 27% of non-empty `Case`): <em>finem, hominem, modum, imperium, naturam, veritatem, vulgare, causam, pedes, terram</em>
-* `Dat` (327; 3% of non-empty `Case`): <em>Ecclesie, domino, homini, terre, domine, hominibus, imperio, iustitie, nature, principibus</em>
-* `Gen` (1813; 18% of non-empty `Case`): <em>Dei, mundi, terre, Ecclesie, imperii, hominum, iuris, rei, nature, celi</em>
+* `Abl` (2385; 24% of non-empty `Case`): <em>parte, re, iure, modo, celo, ratione, principio, forma, tempore, genere</em>
+* `Acc` (2653; 27% of non-empty `Case`): <em>finem, hominem, modum, imperium, naturam, veritatem, vulgare, causam, pedes, terram</em>
+* `Dat` (328; 3% of non-empty `Case`): <em>Ecclesie, domino, homini, nature, terre, domine, hominibus, imperio, iustitie, principibus</em>
+* `Gen` (1812; 18% of non-empty `Case`): <em>Dei, mundi, terre, Ecclesie, imperii, hominum, iuris, rei, nature, celi</em>
 * `Nom` (2666; 27% of non-empty `Case`): <em>ratio, homo, pars, finis, aqua, natura, terra, causa, genus, virtus</em>
 * `Voc` (47; 0% of non-empty `Case`): <em>Domine, lector, senex, altitudo, genus, proles, Stulte, carnifices, censor, clementia</em>
 * `EMPTY` (254): <em>Deus, Deo, A, B, Deum, C, Papa, D, Phylosophus, f</em>
@@ -38,14 +38,14 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-3948 <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Case`.
+3946 <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="la_udante-feat-NameType.html">NameType</a></tt><tt>=EMPTY</tt> (3550; 90%), <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3371; 85%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2785; 71%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="la_udante-feat-NameType.html">NameType</a></tt><tt>=EMPTY</tt> (3548; 90%), <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3369; 85%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2784; 71%).
 
 `ADJ` tokens may have the following values of `Case`:
 
 * `Abl` (731; 19% of non-empty `Case`): <em>primo, secundo, prima, quarto, proprio, tertio, naturali, propria, celesti, comuni</em>
-* `Acc` (999; 25% of non-empty `Case`): <em>humanum, illustre, verum, propriam, divinam, primum, liberum, proprium, romanum, primam</em>
+* `Acc` (997; 25% of non-empty `Case`): <em>humanum, illustre, verum, propriam, divinam, primum, liberum, proprium, romanum, primam</em>
 * `Dat` (131; 3% of non-empty `Case`): <em>divine, inferioribus, primo, publice, humane, Ytalis, optimis, romano, Auguste, Nobiliori</em>
 * `Gen` (493; 12% of non-empty `Case`): <em>romanorum, primi, Latinorum, humane, romani, divine, humani, universalis, prime, romane</em>
 * `Nom` (1556; 39% of non-empty `Case`): <em>manifestum, necesse, humanum, romanus, prima, inpossibile, verum, impossibile, falsum, primum</em>
@@ -65,9 +65,9 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `DET`
 
-3597 <tt><a href="la_udante-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Case`.
+3593 <tt><a href="la_udante-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="la_udante-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (3231; 90%), <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (3200; 89%), <tt><a href="la_udante-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3101; 86%), <tt><a href="la_udante-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3101; 86%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2524; 70%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (2496; 69%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="la_udante-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (3227; 90%), <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (3196; 89%), <tt><a href="la_udante-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3097; 86%), <tt><a href="la_udante-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3097; 86%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2521; 70%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (2492; 69%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -75,7 +75,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 * `Acc` (1031; 29% of non-empty `Case`): <em>hoc, ipsum, unum, illud, quantum, suam, hanc, omnia, illam, illum</em>
 * `Dat` (147; 4% of non-empty `Case`): <em>omnibus, aliis, uni, alteri, cunctis, illi, soli, suis, illis, suo</em>
 * `Gen` (422; 12% of non-empty `Case`): <em>huius, omnium, totius, sue, illius, aliorum, ipsius, sui, unius, nostre</em>
-* `Nom` (1251; 35% of non-empty `Case`): <em>hoc, hec, illa, aliud, ille, ipse, omnes, quedam, illud, omnis</em>
+* `Nom` (1247; 35% of non-empty `Case`): <em>hoc, hec, illa, aliud, ille, ipse, omnes, quedam, illud, omnis</em>
 * `Voc` (4; 0% of non-empty `Case`): <em>mea, mei, mi, nostra</em>
 * `EMPTY` (50): <em>huiusmodi, tot, hic, quot, totidem, unum</em>
 
@@ -91,17 +91,17 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `PRON`
 
-2630 <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Case`.
+2667 <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (2004; 76%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1709; 65%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1661; 63%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (1519; 58%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (2041; 77%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1746; 65%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1697; 64%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (1555; 58%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Abl` (360; 14% of non-empty `Case`): <em>quo, qua, eo, se, quibus, vobis, me, nobis, ea, te</em>
+* `Abl` (394; 15% of non-empty `Case`): <em>quo, qua, eo, se, quibus, vobis, me, nobis, ea, te</em>
 * `Acc` (826; 31% of non-empty `Case`): <em>quod, se, quam, que, quem, te, me, quid, ea, aliquid</em>
 * `Dat` (203; 8% of non-empty `Case`): <em>sibi, nobis, tibi, cui, vobis, michi, ei, eis, quibus, mi</em>
 * `Gen` (246; 9% of non-empty `Case`): <em>eius, cuius, eorum, quorum, sui, earum, alicuius, quarum, aliquorum, cuiuscunque</em>
-* `Nom` (993; 38% of non-empty `Case`): <em>que, quod, qui, quis, quid, nos, ego, quicquid, tu, id</em>
+* `Nom` (996; 37% of non-empty `Case`): <em>que, quod, qui, quis, quid, nos, ego, quicquid, tu, id</em>
 * `Voc` (2; 0% of non-empty `Case`): <em>Tu</em>
 * `EMPTY` (56): <em>nichil, invicem, nil, nihil, quis</em>
 
@@ -113,19 +113,19 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `VERB`
 
-2319 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (28% of all `VERB` tokens) have a non-empty value of `Case`.
+2323 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (28% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2319; 100%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2319; 100%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2319; 100%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2319; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1629; 70%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1479; 64%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2323; 100%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2323; 100%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2323; 100%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2323; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1632; 70%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1483; 64%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Abl` (436; 19% of non-empty `Case`): <em>existente, converso, loquendo, premissis, subiciendo, viso, Sancto, affirmando, athletizantibus, detecta</em>
-* `Acc` (485; 21% of non-empty `Case`): <em>consequens, diversa, dicentem, diversas, loquentem, presens, regendum, sanctum, volentem, dicta</em>
+* `Abl` (437; 19% of non-empty `Case`): <em>existente, converso, loquendo, premissis, subiciendo, viso, Sancto, affirmando, athletizantibus, detecta</em>
+* `Acc` (488; 21% of non-empty `Case`): <em>consequens, diversa, dicentem, diversas, loquentem, presens, regendum, sanctum, volentem, dicta</em>
 * `Dat` (61; 3% of non-empty `Case`): <em>intuenti, inspicienti, inferenti, versificantibus, Exulanti, Sanctissimo, Uncto, amanti, attentis, beatis</em>
 * `Gen` (226; 10% of non-empty `Case`): <em>consequentis, agentis, antecedentis, dicendorum, loquentis, auctorizandi, dicentis, militantis, premiandi, puniendi</em>
 * `Nom` (1104; 48% of non-empty `Case`): <em>dictum, sciendum, consequens, dicendum, dicens, existens, factum, dicta, facta, datum</em>
 * `Voc` (7; 0% of non-empty `Case`): <em>cessure, desinens, nate, obcecati, peritura, punita, septi</em>
-* `EMPTY` (5905): <em>potest, patet, habet, dicimus, videtur, dicit, dico, habere, oportet, dicitur</em>
+* `EMPTY` (5907): <em>potest, patet, habet, dicimus, videtur, dicit, dico, habere, oportet, dicitur</em>
 
 <table>
   <tr><th>Paradigm <i>nascor</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Abl</tt></th></tr>
@@ -207,14 +207,14 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="la_udante-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1742; 96%),
-<tt>NOUN --[<tt><a href="la_udante-dep-det.html">det</a></tt>]--> DET</tt> (1483; 94%),
+<tt>NOUN --[<tt><a href="la_udante-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1741; 96%),
+<tt>NOUN --[<tt><a href="la_udante-dep-det.html">det</a></tt>]--> DET</tt> (1480; 94%),
 <tt>NOUN --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> NOUN</tt> (620; 92%),
 <tt>NOUN --[<tt><a href="la_udante-dep-acl.html">acl</a></tt>]--> VERB</tt> (408; 88%),
-<tt>ADJ --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> ADJ</tt> (271; 96%),
+<tt>ADJ --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> ADJ</tt> (269; 97%),
 <tt>ADJ --[<tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (160; 95%),
 <tt>NOUN --[<tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (113; 61%),
-<tt>ADJ --[<tt><a href="la_udante-dep-det.html">det</a></tt>]--> DET</tt> (92; 98%),
-<tt>PROPN --[<tt><a href="la_udante-dep-amod.html">amod</a></tt>]--> ADJ</tt> (80; 92%),
-<tt>ADJ --[<tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (75; 87%).
+<tt>NOUN --[<tt><a href="la_udante-dep-det.html">det</a></tt>]--> PRON</tt> (106; 95%),
+<tt>ADJ --[<tt><a href="la_udante-dep-det.html">det</a></tt>]--> DET</tt> (85; 98%),
+<tt>PROPN --[<tt><a href="la_udante-dep-amod.html">amod</a></tt>]--> ADJ</tt> (80; 92%).
 

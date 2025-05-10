@@ -7,14 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: Relations: `advcl`
 
 This relation is universal.
-There are 2 language-specific subtypes of `advcl`: <tt><a href="kpv_ikdp-dep-advcl-eval.html">advcl:eval</a></tt>, <tt><a href="kpv_ikdp-dep-advcl-tcl.html">advcl:tcl</a></tt>.
 
-27 nodes (1%) are attached to their parents as `advcl`.
+31 nodes (1%) are attached to their parents as `advcl`.
 
-15 instances of `advcl` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.66666666666667.
+17 instances of `advcl` (55%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.32258064516129.
 
-The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (14; 52% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (4; 15% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (3; 11% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (1; 4% instances).
+The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (18; 58% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (4; 13% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -54,14 +53,14 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 6 13 advcl	color:blue
 1	Сыысь	сійӧ	PRON	Pron	Case=Ela|Number=Sing|Person=3|PronType=Prs	6	obl	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	гашке	гашкӧ	PART	Pcle	_	6	advmod:mmod	_	SpaceAfter=No
+3	гашке	гашкӧ	PART	Pcle	_	6	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	6	aux	_	_
 6	бросайтчы	бросайтчыны	VERB	V	Connegative=Yes	0	root	_	OrigLang=ru
 7	в	в	ADP	Pr	_	8	case	_	Lang=ru
 8	глаза	глаз	NOUN	N	Case=Nom|Number=Plur	6	obl	_	Lang=ru|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	потому	потому	SCONJ	CS	_	13	mark	_	Lang=ru
+10	потому	потому	SCONJ	CS	ExtPos=SCONJ	13	mark	_	Lang=ru
 11	что	что	SCONJ	CS	_	10	fixed	_	Lang=ru
 12	уна	уна	ADV	Adv	_	13	advmod	_	_
 13	йӧз	йӧз	NOUN	N	Case=Nom|Number=Sing	6	advcl	_	SpaceAfter=No

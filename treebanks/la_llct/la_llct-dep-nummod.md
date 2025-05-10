@@ -76,7 +76,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 32	dedisti	do	VERB	v|v|2|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 33	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1|PronType=Prs	32	obl:arg	_	SpaceAfter=No
 34	,	,	PUNCT	Punc	_	37	punct	_	_
-35	id	is	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	37	advmod:emph	_	_
+35	id	is	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|ExtPos=CCONJ|Gender=Neut|Number=Sing|Person=3|PronType=Prs	37	advmod:emph	_	_
 36	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	fixed	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 37	res	res	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	32	obj	_	_
 38	mea	meus	DET	a|a|1|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	37	det	_	_

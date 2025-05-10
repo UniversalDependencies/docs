@@ -42,7 +42,7 @@ The most frequent other feature values with which `ADV` and `Style` co-occurred:
 
 ### `PART`
 
-1 <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> tokens (7% of all `PART` tokens) have a non-empty value of `Style`.
+1 <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> tokens (6% of all `PART` tokens) have a non-empty value of `Style`.
 
 The most frequent other feature values with which `PART` and `Style` co-occurred: <tt><a href="mdf_jr-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%).
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Veps-VWT: POS Tags: `PROPN`
 
 There are 21 `PROPN` lemmas (5%), 28 `PROPN` types (5%) and 45 `PROPN` tokens (3%).
-Out of 13 observed tags, the rank of `PROPN` is: 6 in number of lemmas, 6 in number of types and 9 in number of tokens.
+Out of 13 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 6 in number of types and 9 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Kalag', Kaskez, Natalja, Päžar, Silakova, Jevgenjevna, Piter, Päžar', vepsän, Änižjärv</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Vepsän</em> (<tt><a href="vep_vwt-po
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.333333 (the average of all parts of speech is 1.526854).
+The form / lemma ratio of `PROPN` is 1.333333 (the average of all parts of speech is 1.538660).
 
 The 1st highest number of forms (4) was observed with the lemma “Kaskez”: <em>Kaskez, Kaskezaha, Kaskezas, Kaskezaspäi</em>.
 

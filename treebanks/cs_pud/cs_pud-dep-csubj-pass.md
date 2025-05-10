@@ -50,7 +50,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	toto	tento	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	det	3:det	_
 3	jméno	jméno	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing	1	obj	1:obj	_
 4	je	být	AUX	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux:pass	9:aux:pass	_
-5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	8	case	8:case	LId=v-1
+5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc|ExtPos=ADP	8	case	8:case	LId=v-1
 6	případě	případ	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	fixed	5:fixed	_
 7	císařské	císařský	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	8	amod	8:amod	_
 8	rodiny	rodina	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	9	obl	9:obl:v_případě:gen	_

@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_French-ParisStories: Relations: `nsubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="fr_parisstories-dep-nsubj.html">nsubj</a></tt>.
-There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="fr_parisstories-dep-nsubj-caus.html">nsubj:caus</a></tt>.
+There are also 2 other language-specific subtypes of `nsubj`: <tt><a href="fr_parisstories-dep-nsubj-caus.html">nsubj:caus</a></tt>, <tt><a href="fr_parisstories-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-45 nodes (0%) are attached to their parents as `nsubj:pass`.
+42 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-45 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.62222222222222.
+42 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.71428571428571.
 
-The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (43; 96% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (2; 4% instances).
+The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (40; 95% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (2; 5% instances).
 
 
 ~~~ conllu

@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `csubj:cop`: <tt><a 
 5	поезд	поезд	NOUN	N	Case=Nom|Number=Sing	6	nmod:subj	_	GTtags=Sg,Nom
 6	сувтлігъясӧ	сувтлыны	VERB	V	Case=Ill|Derivation=Ig|Number=Plur|VerbForm=Conv	7	advcl	_	GTtags=IV,Der,Der/иг,Ger,Pl,Ill
 7	чеччыштлыны	чеччыштлыны	VERB	V	VerbForm=Inf	3	csubj:cop	_	GTtags=IV,Inf
-8	станцияясӧ	станция	NOUN	N	Case=Ill|Number=Plur	7	obl:lmod	_	GTtags=Pl,Ill|SpaceAfter=No
+8	станцияясӧ	станция	NOUN	N	Case=Ill|Number=Plur	7	obl	_	GTtags=Pl,Ill|SpaceAfter=No
 9	...	...	PUNCT	CLB	_	3	punct	_	_
 
 ~~~

@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of ADJ in UD_Swiss_German-UZH'
+title:  'Statistics of ADJ in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: POS Tags: `ADJ`
+## Treebank Statistics: UD_Alemannic-UZH: POS Tags: `ADJ`
 
 There are 1 `ADJ` lemmas (7%), 80 `ADJ` types (10%) and 85 `ADJ` tokens (6%).
 Out of 15 observed tags, the rank of `ADJ` is: 1 in number of lemmas, 4 in number of types and 9 in number of tokens.

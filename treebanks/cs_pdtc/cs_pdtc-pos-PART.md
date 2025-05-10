@@ -1,60 +1,61 @@
 ---
 layout: base
-title:  'Statistics of PART in UD_Czech-PDT'
+title:  'Statistics of PART in UD_Czech-PDTC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Czech-PDT: POS Tags: `PART`
+## Treebank Statistics: UD_Czech-PDTC: POS Tags: `PART`
 
-There are 73 `PART` lemmas (0%), 77 `PART` types (0%) and 2658 `PART` tokens (1%).
+There are 124 `PART` lemmas (0%), 127 `PART` types (0%) and 13187 `PART` tokens (2%).
 Out of 17 observed tags, the rank of `PART` is: 8 in number of lemmas, 10 in number of types and 14 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>jen, například, až, asi, ovšem, prý, spíš, zejména, ne, vůbec</em>
+The 10 most frequent `PART` lemmas: <em>i, také, tak, asi, jen, ještě, až, ne, například, už</em>
 
-The 10 most frequent `PART` types:  <em>jen, až, například, asi, ovšem, prý, zejména, ne, vůbec, např</em>
+The 10 most frequent `PART` types:  <em>i, také, tak, asi, jen, ještě, až, ne, už, taky</em>
 
-The 10 most frequent ambiguous lemmas: <em>jen</em> (<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 370, <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 156, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 2), <em>až</em> (<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 293, <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 131, <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> 44), <em>to</em> (<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 97, <tt><a href="cs_pdt-pos-X.html">X</a></tt> 2), <em>právě</em> (<tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 131, <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 55), <em>třeba</em> (<tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 156, <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 49), <em>ani</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 261, <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 43), <em>přece</em> (<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 41, <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 8), <em>jenom</em> (<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 31, <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 12), <em>však</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 697, <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 21), <em>ať</em> (<tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> 20, <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 17)
+The 10 most frequent ambiguous lemmas: <em>i</em> (<tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> 1358, <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 1151, <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> 19), <em>tak</em> (<tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 1008, <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 773, <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> 99), <em>jen</em> (<tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 630, <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 110, <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> 67, <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>ještě</em> (<tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 606, <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 493), <em>až</em> (<tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 545, <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> 262, <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> 89), <em>například</em> (<tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 410, <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 33), <em>už</em> (<tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 1023, <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 407), <em>ani</em> (<tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 348, <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> 225), <em>tedy</em> (<tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 261, <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> 159), <em>jenom</em> (<tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 246, <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 7)
 
-The 10 most frequent ambiguous types:  <em>jen</em> (<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 352, <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 144, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 1), <em>až</em> (<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 269, <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 131, <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> 34), <em>to</em> (<tt><a href="cs_pdt-pos-DET.html">DET</a></tt> 1275, <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 93, <tt><a href="cs_pdt-pos-X.html">X</a></tt> 2), <em>právě</em> (<tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 118, <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 39), <em>třeba</em> (<tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 149, <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 46), <em>ani</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 238, <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 37), <em>přece</em> (<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 39, <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 8), <em>jenom</em> (<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 31, <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 11), <em>však</em> (<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 694, <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 20), <em>ať</em> (<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 14, <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> 13)
+The 10 most frequent ambiguous types:  <em>i</em> (<tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> 1166, <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 1150, <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> 19), <em>tak</em> (<tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 945, <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 714, <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> 96), <em>jen</em> (<tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 588, <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 103, <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> 5), <em>ještě</em> (<tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 516, <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 456), <em>až</em> (<tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 506, <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> 261, <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> 71), <em>už</em> (<tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 892, <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 368), <em>ani</em> (<tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 286, <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> 214), <em>například</em> (<tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 235, <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 33), <em>tedy</em> (<tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 255, <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> 157), <em>jenom</em> (<tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 230, <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 7)
 
 
+* <em>i</em>
+  * <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> 1166: <em>* Takové hodnocení je snad běžné u soukromníka , podnikatele <b>i</b> firmy .</em>
+  * <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 1150: <em>Stejný názor má <b>i</b> řada našich soukromých podnikatelů .</em>
+  * <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> 19: <em>U článku o Hondě Legend byla zaměněna fotografie s Roverem 214 <b>i</b> .</em>
+* <em>tak</em>
+  * <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 945: <em>Tuna <b>tak</b> vyjde na 160 Kč , nemluvě o poplatcích dalších .</em>
+  * <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 714: <em>Policie <b>tak</b> jen bezmocně přihlíží , když v bankách řádí SLÍDILOVÉ . *</em>
+  * <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> 96: <em>Jak v New Jersey , <b>tak</b> později v Edmontonu , kam jsem byl vytrejdován .</em>
 * <em>jen</em>
-  * <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 352: <em>Iluzorní je názor , že spotřeba tepla se dá snížit <b>jen</b> osvětou .</em>
-  * <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 144: <em>Dosud domácí odběratelé dostávali <b>jen</b> to , co zbylo z exportu .</em>
-  * <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 1: <em>Marka se dostala na nová maxima vůči španělské , italské a portugalské měně , získala na švýcarský frank i japonský <b>jen</b> .</em>
+  * <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 588: <em>Iluzorní je názor , že spotřeba tepla se dá snížit <b>jen</b> osvětou .</em>
+  * <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 103: <em>Dosud domácí odběratelé dostávali <b>jen</b> to , co zbylo z exportu .</em>
+  * <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> 5: <em>Dolar : 142.10 <b>jen</b> , pokles 2.07 ; 18740 marka , pokles 343 .</em>
+* <em>ještě</em>
+  * <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 516: <em>Majitelé rodinných domků <b>ještě</b> více , pokud topí například koksem .</em>
+  * <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 456: <em>Dnes drahé teplo je tak vlastně stále <b>ještě</b> velmi levné .</em>
 * <em>až</em>
-  * <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 269: <em>Ceny tepla lze stanovit <b>až</b> dodatečně podle skutečných nákladů .</em>
-  * <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 131: <em>Řekl bych , že může se pohybovat od deseti <b>až</b> do osmdesáti procent .</em>
-  * <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> 34: <em>V bytě máte příjemných 24 ° C , i když venku mrzne , <b>až</b> praští .</em>
-* <em>to</em>
-  * <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> 1275: <em>Můžete <b>to</b> vysvětlit na příkladu ?</em>
-  * <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 93: <em>A <b>to</b> ze všech stran .</em>
-  * <tt><a href="cs_pdt-pos-X.html">X</a></tt> 2: <em>Obálka s adresou <b>to</b> professor Servít from Prague .</em>
-* <em>právě</em>
-  * <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 118: <em>Ale <b>právě</b> z politických důvodů uvnitř Unie bude muset ještě čekat .</em>
-  * <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 39: <em>Zástavní právo přitom vznikne <b>právě</b> touto registrací .</em>
-* <em>třeba</em>
-  * <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 149: <em>Je však <b>třeba</b> vytvořit vhodné podmínky pro jeho investování .</em>
-  * <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 46: <em>Několikrát denně jsem telefonoval po celé Kanadě , ale <b>třeba</b> i do ČR .</em>
+  * <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 506: <em>Ceny tepla lze stanovit <b>až</b> dodatečně podle skutečných nákladů .</em>
+  * <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> 261: <em>ČSSD : pět <b>až</b> sedm milionů na volby</em>
+  * <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> 71: <em>V bytě máte příjemných 24 ° C , i když venku mrzne , <b>až</b> praští .</em>
+* <em>už</em>
+  * <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 892: <em>myslím , že <b>už</b> budu , když mi ukážeš prdelku , prosím</em>
+  * <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 368: <em>Ale obdennímu vylehávání ve vaně je <b>už</b> asi konec .</em>
 * <em>ani</em>
-  * <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 238: <em>Jinak nebude mít družstevník teplo <b>ani</b> dotaci .</em>
-  * <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 37: <em>Někteří to <b>ani</b> neumějí .</em>
-* <em>přece</em>
-  * <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 39: <em>Leč , vady se <b>přece</b> jen vyskytly .</em>
-  * <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 8: <em>Třeba by se zjistilo , že se s tímto problémem <b>přece</b> dá pohnout .</em>
+  * <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 286: <em>Touha po štěstí a kráse není vzdálená <b>ani</b> současníkům .</em>
+  * <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> 214: <em>Jinak nebude mít družstevník teplo <b>ani</b> dotaci .</em>
+* <em>například</em>
+  * <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 235: <em>Majitelé rodinných domků ještě více , pokud topí <b>například</b> koksem .</em>
+  * <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 33: <em>Velikosti některých úhlů , jako <b>například</b> úhlu pravého a podobně , jsou absolutní .</em>
+* <em>tedy</em>
+  * <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 255: <em>Vyplatí se <b>tedy</b> porovnat ceníky více firem pro stejnou oblast .</em>
+  * <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> 157: <em>Prodej či pronájem se <b>tedy</b> uskuteční dejme tomu k 1 . 3 . 1994 .</em>
 * <em>jenom</em>
-  * <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 31: <em>Tyto problémy nejsou <b>jenom</b> u nás , mají je i v Německu .</em>
-  * <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> 11: <em>Začínali jsme <b>jenom</b> zpíváním , vysvětlují .</em>
-* <em>však</em>
-  * <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> 694: <em>* Stále <b>však</b> chybí záruka , že podnikatel získá dobrého pracovníka .</em>
-  * <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 20: <em>Ani Miloš Zeman <b>však</b> nemá monopol na nonsensy .</em>
-* <em>ať</em>
-  * <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> 14: <em>Pak <b>ať</b> to řeknou , vysvětlí a komisi rozeženou .</em>
-  * <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> 13: <em>Už nyní je zřejmé , že alternativy prodeje kuponů , <b>ať</b> už legální nebo ilegální , prostě existují .</em>
+  * <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 230: <em>Tyto problémy nejsou <b>jenom</b> u nás , mají je i v Německu .</em>
+  * <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 7: <em>Třeba ho však <b>jenom</b> přiložiti ku poškozené ( rozuměj : nemocné ) části . . . "</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.054795 (the average of all parts of speech is 1.961704).
+The form / lemma ratio of `PART` is 1.024194 (the average of all parts of speech is 2.014491).
 
 The 1st highest number of forms (2) was observed with the lemma “například”: <em>např, například</em>.
 
@@ -62,32 +63,32 @@ The 2nd highest number of forms (2) was observed with the lemma “nejspíš”:
 
 The 3rd highest number of forms (2) was observed with the lemma “spíš”: <em>spíš, spíše</em>.
 
-`PART` occurs with 2 features: <tt><a href="cs_pdt-feat-Abbr.html">Abbr</a></tt> (98; 4% instances), <tt><a href="cs_pdt-feat-Style.html">Style</a></tt> (3; 0% instances)
+`PART` occurs with 3 features: <tt><a href="cs_pdtc-feat-Abbr.html">Abbr</a></tt> (102; 1% instances), <tt><a href="cs_pdtc-feat-Style.html">Style</a></tt> (76; 1% instances), <tt><a href="cs_pdtc-feat-ExtPos.html">ExtPos</a></tt> (31; 0% instances)
 
-`PART` occurs with 2 feature-value pairs: `Abbr=Yes`, `Style=Coll`
+`PART` occurs with 4 feature-value pairs: `Abbr=Yes`, `ExtPos=ADV`, `Style=Coll`, `Style=Vulg`
 
-`PART` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (2557 tokens).
-Examples: <em>jen, až, například, asi, ovšem, prý, zejména, ne, vůbec, to</em>
+`PART` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (12978 tokens).
+Examples: <em>i, také, tak, asi, jen, ještě, až, ne, už, taky</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 20 different relations: <tt><a href="cs_pdt-dep-advmod-emph.html">advmod:emph</a></tt> (1453; 55% instances), <tt><a href="cs_pdt-dep-advmod.html">advmod</a></tt> (635; 24% instances), <tt><a href="cs_pdt-dep-cc.html">cc</a></tt> (254; 10% instances), <tt><a href="cs_pdt-dep-fixed.html">fixed</a></tt> (111; 4% instances), <tt><a href="cs_pdt-dep-dep.html">dep</a></tt> (65; 2% instances), <tt><a href="cs_pdt-dep-root.html">root</a></tt> (50; 2% instances), <tt><a href="cs_pdt-dep-conj.html">conj</a></tt> (32; 1% instances), <tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt> (15; 1% instances), <tt><a href="cs_pdt-dep-mark.html">mark</a></tt> (12; 0% instances), <tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt> (12; 0% instances), <tt><a href="cs_pdt-dep-case.html">case</a></tt> (4; 0% instances), <tt><a href="cs_pdt-dep-acl.html">acl</a></tt> (3; 0% instances), <tt><a href="cs_pdt-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="cs_pdt-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="cs_pdt-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="cs_pdt-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="cs_pdt-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="cs_pdt-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="cs_pdt-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 21 different relations: <tt><a href="cs_pdtc-dep-advmod-emph.html">advmod:emph</a></tt> (11125; 84% instances), <tt><a href="cs_pdtc-dep-root.html">root</a></tt> (647; 5% instances), <tt><a href="cs_pdtc-dep-advmod.html">advmod</a></tt> (458; 3% instances), <tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt> (398; 3% instances), <tt><a href="cs_pdtc-dep-conj.html">conj</a></tt> (237; 2% instances), <tt><a href="cs_pdtc-dep-fixed.html">fixed</a></tt> (180; 1% instances), <tt><a href="cs_pdtc-dep-cc.html">cc</a></tt> (67; 1% instances), <tt><a href="cs_pdtc-dep-appos.html">appos</a></tt> (15; 0% instances), <tt><a href="cs_pdtc-dep-advcl.html">advcl</a></tt> (11; 0% instances), <tt><a href="cs_pdtc-dep-dep.html">dep</a></tt> (11; 0% instances), <tt><a href="cs_pdtc-dep-discourse.html">discourse</a></tt> (10; 0% instances), <tt><a href="cs_pdtc-dep-obj.html">obj</a></tt> (8; 0% instances), <tt><a href="cs_pdtc-dep-ccomp.html">ccomp</a></tt> (7; 0% instances), <tt><a href="cs_pdtc-dep-acl.html">acl</a></tt> (4; 0% instances), <tt><a href="cs_pdtc-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 15 different parts of speech: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (980; 37% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (745; 28% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (220; 8% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (188; 7% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (159; 6% instances), <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> (95; 4% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (89; 3% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (66; 2% instances),  (50; 2% instances), <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (32; 1% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (20; 1% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="cs_pdt-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 16 different parts of speech: <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (3801; 29% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (3510; 27% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (1561; 12% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (1123; 9% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (862; 7% instances),  (647; 5% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (599; 5% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (362; 3% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (343; 3% instances), <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> (172; 1% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> (160; 1% instances), <tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt> (23; 0% instances), <tt><a href="cs_pdtc-pos-X.html">X</a></tt> (14; 0% instances), <tt><a href="cs_pdtc-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-2407 (91%) `PART` nodes are leaves.
+11522 (87%) `PART` nodes are leaves.
 
-146 (5%) `PART` nodes have one child.
+1112 (8%) `PART` nodes have one child.
 
-52 (2%) `PART` nodes have two children.
+238 (2%) `PART` nodes have two children.
 
-53 (2%) `PART` nodes have three or more children.
+315 (2%) `PART` nodes have three or more children.
 
 The highest child degree of a `PART` node is 8.
 
-Children of `PART` nodes are attached using 21 different relations: <tt><a href="cs_pdt-dep-punct.html">punct</a></tt> (202; 44% instances), <tt><a href="cs_pdt-dep-conj.html">conj</a></tt> (43; 9% instances), <tt><a href="cs_pdt-dep-dep.html">dep</a></tt> (30; 7% instances), <tt><a href="cs_pdt-dep-cc.html">cc</a></tt> (28; 6% instances), <tt><a href="cs_pdt-dep-fixed.html">fixed</a></tt> (26; 6% instances), <tt><a href="cs_pdt-dep-advcl.html">advcl</a></tt> (19; 4% instances), <tt><a href="cs_pdt-dep-cop.html">cop</a></tt> (17; 4% instances), <tt><a href="cs_pdt-dep-mark.html">mark</a></tt> (16; 3% instances), <tt><a href="cs_pdt-dep-advmod.html">advmod</a></tt> (14; 3% instances), <tt><a href="cs_pdt-dep-obl.html">obl</a></tt> (13; 3% instances), <tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt> (12; 3% instances), <tt><a href="cs_pdt-dep-advmod-emph.html">advmod:emph</a></tt> (9; 2% instances), <tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt> (9; 2% instances), <tt><a href="cs_pdt-dep-xcomp.html">xcomp</a></tt> (5; 1% instances), <tt><a href="cs_pdt-dep-amod.html">amod</a></tt> (4; 1% instances), <tt><a href="cs_pdt-dep-aux.html">aux</a></tt> (3; 1% instances), <tt><a href="cs_pdt-dep-csubj.html">csubj</a></tt> (3; 1% instances), <tt><a href="cs_pdt-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="cs_pdt-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="cs_pdt-dep-obj.html">obj</a></tt> (1; 0% instances)
+Children of `PART` nodes are attached using 24 different relations: <tt><a href="cs_pdtc-dep-punct.html">punct</a></tt> (1674; 57% instances), <tt><a href="cs_pdtc-dep-conj.html">conj</a></tt> (202; 7% instances), <tt><a href="cs_pdtc-dep-dep.html">dep</a></tt> (178; 6% instances), <tt><a href="cs_pdtc-dep-cop.html">cop</a></tt> (175; 6% instances), <tt><a href="cs_pdtc-dep-advmod-emph.html">advmod:emph</a></tt> (103; 4% instances), <tt><a href="cs_pdtc-dep-nsubj.html">nsubj</a></tt> (100; 3% instances), <tt><a href="cs_pdtc-dep-obl.html">obl</a></tt> (89; 3% instances), <tt><a href="cs_pdtc-dep-cc.html">cc</a></tt> (78; 3% instances), <tt><a href="cs_pdtc-dep-advmod.html">advmod</a></tt> (74; 3% instances), <tt><a href="cs_pdtc-dep-advcl.html">advcl</a></tt> (68; 2% instances), <tt><a href="cs_pdtc-dep-mark.html">mark</a></tt> (54; 2% instances), <tt><a href="cs_pdtc-dep-fixed.html">fixed</a></tt> (31; 1% instances), <tt><a href="cs_pdtc-dep-aux.html">aux</a></tt> (24; 1% instances), <tt><a href="cs_pdtc-dep-obj.html">obj</a></tt> (17; 1% instances), <tt><a href="cs_pdtc-dep-csubj.html">csubj</a></tt> (16; 1% instances), <tt><a href="cs_pdtc-dep-obl-arg.html">obl:arg</a></tt> (7; 0% instances), <tt><a href="cs_pdtc-dep-amod.html">amod</a></tt> (4; 0% instances), <tt><a href="cs_pdtc-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="cs_pdtc-dep-parataxis.html">parataxis</a></tt> (4; 0% instances), <tt><a href="cs_pdtc-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="cs_pdtc-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="cs_pdtc-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="cs_pdtc-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-dep-orphan.html">orphan</a></tt> (2; 0% instances)
 
-Children of `PART` nodes belong to 13 different parts of speech: <tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> (202; 44% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (62; 13% instances), <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (32; 7% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (32; 7% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (30; 7% instances), <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> (24; 5% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (20; 4% instances), <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> (18; 4% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (12; 3% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (11; 2% instances), <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (7; 2% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (4; 1% instances)
+Children of `PART` nodes belong to 17 different parts of speech: <tt><a href="cs_pdtc-pos-PUNCT.html">PUNCT</a></tt> (1674; 57% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (255; 9% instances), <tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt> (202; 7% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (168; 6% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (166; 6% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> (160; 5% instances), <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> (76; 3% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (60; 2% instances), <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> (53; 2% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (34; 1% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (26; 1% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (25; 1% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="cs_pdtc-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="cs_pdtc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-X.html">X</a></tt> (1; 0% instances)
 

@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>д., т.</em>
-* `EMPTY` (2781): <em>так, где, как, там, еще, здесь, вдруг, вновь, снова, теперь</em>
+* `EMPTY` (2780): <em>так, где, как, там, еще, здесь, вдруг, вновь, снова, теперь</em>
 
 ### `ADJ`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>п.</em>
-* `EMPTY` (6019): <em>тихий, белый, равно, золотые, милая, последний, первый, черный, белые, лучше</em>
+* `EMPTY` (6020): <em>тихий, белый, равно, золотые, милая, последний, первый, черный, белые, лучше</em>
 
 ### `PRON`
 

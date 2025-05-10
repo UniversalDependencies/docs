@@ -71,7 +71,7 @@ The following 14 pairs of parts of speech are connected with `dep:comp`: <tt><a 
 7	doit	devoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	être	être	AUX	_	VerbForm=Inf	10	cop	_	Subject=SubjRaising
 9	plus	plus	ADV	_	_	10	advmod	_	Overlap=Rhap_D0009-21bis
-10	onéreux	onéreux	ADJ	_	Gender=Masc	7	xcomp	_	Overlap=Rhap_D0009-21bis|SpaceAfter=No
+10	onéreux	onéreux	ADJ	_	Gender=Masc|Number=Sing	7	xcomp	_	Overlap=Rhap_D0009-21bis|SpaceAfter=No
 11	.	.	PUNCT	_	_	7	punct	_	Overlap=Rhap_D0009-21bis
 
 ~~~

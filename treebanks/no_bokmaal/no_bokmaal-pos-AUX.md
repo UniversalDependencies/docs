@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>er</em> (<tt><a href="no_bokmaal-pos-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.600000 (the average of all parts of speech is 1.381699).
+The form / lemma ratio of `AUX` is 3.600000 (the average of all parts of speech is 1.381641).
 
 The 1st highest number of forms (7) was observed with the lemma “være”: <em>e, er, var, vær, være, vært, vøre</em>.
 
@@ -78,7 +78,7 @@ Examples: <em>er, har, kan, vil, skal, må, blir, bør, får, tør</em>
 
 `AUX` nodes are attached to their parents using 7 different relations: <tt><a href="no_bokmaal-dep-cop.html">cop</a></tt> (8098; 47% instances), <tt><a href="no_bokmaal-dep-aux.html">aux</a></tt> (7972; 46% instances), <tt><a href="no_bokmaal-dep-aux-pass.html">aux:pass</a></tt> (1106; 6% instances), <tt><a href="no_bokmaal-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 12 different parts of speech: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (9620; 56% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (3608; 21% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (2914; 17% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (293; 2% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (234; 1% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (193; 1% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (153; 1% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (103; 1% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (60; 0% instances), <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `AUX` nodes belong to 13 different parts of speech: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (9620; 56% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (3608; 21% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (2914; 17% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (293; 2% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (234; 1% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (193; 1% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (151; 1% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (103; 1% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (60; 0% instances), <tt><a href="no_bokmaal-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> (1; 0% instances),  (1; 0% instances)
 
 17149 (100%) `AUX` nodes are leaves.
 

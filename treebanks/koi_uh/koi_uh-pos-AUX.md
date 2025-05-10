@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>вермы</em> (<tt><a href="koi_uh-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.100000 (the average of all parts of speech is 1.249476).
+The form / lemma ratio of `AUX` is 2.100000 (the average of all parts of speech is 1.247379).
 
 The 1st highest number of forms (9) was observed with the lemma “оз”: <em>ог, оз, озӧ, он, эг, эгö, эд, эз, эн</em>.
 
@@ -41,18 +41,18 @@ The 2nd highest number of forms (2) was observed with the lemma “абу”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “вермыны”: <em>верман, вермы</em>.
 
-`AUX` occurs with 9 features: <tt><a href="koi_uh-feat-Person.html">Person</a></tt> (26; 67% instances), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt> (26; 67% instances), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt> (26; 67% instances), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt> (24; 62% instances), <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (24; 62% instances), <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt> (4; 10% instances), <tt><a href="koi_uh-feat-VerbType.html">VerbType</a></tt> (2; 5% instances), <tt><a href="koi_uh-feat-Number-subj.html">Number[subj]</a></tt> (1; 3% instances), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt> (1; 3% instances)
+`AUX` occurs with 10 features: <tt><a href="koi_uh-feat-Person.html">Person</a></tt> (26; 67% instances), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt> (26; 67% instances), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt> (26; 67% instances), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt> (25; 64% instances), <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (24; 62% instances), <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt> (4; 10% instances), <tt><a href="koi_uh-feat-VerbType.html">VerbType</a></tt> (2; 5% instances), <tt><a href="koi_uh-feat-ExtPos.html">ExtPos</a></tt> (1; 3% instances), <tt><a href="koi_uh-feat-Number-subj.html">Number[subj]</a></tt> (1; 3% instances), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt> (1; 3% instances)
 
-`AUX` occurs with 13 feature-value pairs: `Connegative=Yes`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Number[subj]=Plur`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Past`, `Tense=Pres`, `VerbForm=Inf`, `VerbType=Aux`
+`AUX` occurs with 15 feature-value pairs: `Connegative=Yes`, `ExtPos=AUX`, `Mood=Cnd`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Number[subj]=Plur`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Past`, `Tense=Pres`, `VerbForm=Inf`, `VerbType=Aux`
 
-`AUX` occurs with 19 feature combinations.
+`AUX` occurs with 21 feature combinations.
 The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres` (5 tokens).
 Examples: <em>оз</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 6 different relations: <tt><a href="koi_uh-dep-aux.html">aux</a></tt> (25; 64% instances), <tt><a href="koi_uh-dep-aux-neg.html">aux:neg</a></tt> (6; 15% instances), <tt><a href="koi_uh-dep-cop.html">cop</a></tt> (5; 13% instances), <tt><a href="koi_uh-dep-aux-cnd.html">aux:cnd</a></tt> (1; 3% instances), <tt><a href="koi_uh-dep-aux-pot.html">aux:pot</a></tt> (1; 3% instances), <tt><a href="koi_uh-dep-root.html">root</a></tt> (1; 3% instances)
+`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="koi_uh-dep-aux.html">aux</a></tt> (26; 67% instances), <tt><a href="koi_uh-dep-aux-neg.html">aux:neg</a></tt> (6; 15% instances), <tt><a href="koi_uh-dep-cop.html">cop</a></tt> (5; 13% instances), <tt><a href="koi_uh-dep-aux-pot.html">aux:pot</a></tt> (1; 3% instances), <tt><a href="koi_uh-dep-root.html">root</a></tt> (1; 3% instances)
 
 Parents of `AUX` nodes belong to 6 different parts of speech: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (28; 72% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (4; 10% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (3; 8% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 3% instances),  (1; 3% instances)
 

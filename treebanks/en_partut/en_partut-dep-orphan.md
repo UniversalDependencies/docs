@@ -11,9 +11,9 @@ This relation is universal.
 16 nodes (0%) are attached to their parents as `orphan`.
 
 13 instances of `orphan` (81%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.
+Average distance between parent and child is 3.0625.
 
-The following 10 pairs of parts of speech are connected with `orphan`: <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (5; 31% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (2; 13% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (1; 6% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-PART.html">PART</a></tt> (1; 6% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (1; 6% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="en_partut-pos-SYM.html">SYM</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+The following 10 pairs of parts of speech are connected with `orphan`: <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (4; 25% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (2; 13% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (2; 13% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (1; 6% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-PART.html">PART</a></tt> (1; 6% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="en_partut-pos-SYM.html">SYM</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -79,37 +79,44 @@ The following 10 pairs of parts of speech are connected with `orphan`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 19 orphan	color:blue
-1	The	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
-2	popular	popular	ADJ	A	Degree=Pos	4	amod	_	_
-3	comic	comic	ADJ	A	Degree=Pos	4	amod	_	_
-4	actor	actor	NOUN	S	Number=Sing	7	nsubj	_	_
-5	Will	Will	PROPN	SP	_	4	nmod	_	_
-6	Kempe	Kempe	PROPN	SP	_	5	flat	_	_
-7	played	play	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-8	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
-9	servant	servant	NOUN	S	Number=Sing	7	obj	_	_
-10	Peter	Peter	PROPN	SP	_	9	nmod	_	_
-11	in	in	ADP	E	_	12	case	_	_
-12	Romeo	Romeo	PROPN	SP	_	7	obl	_	_
-13	and	and	CCONJ	CC	_	14	cc	_	_
-14	Juliet	Juliet	PROPN	SP	_	12	conj	_	_
-15	and	and	CCONJ	CC	_	16	cc	_	_
-16	Dogberry	Dogberry	PROPN	SP	_	7	conj	_	_
-17	in	in	ADP	E	_	19	case	_	_
-18	Much	much	ADJ	A	Degree=Pos	19	amod	_	_
-19	Ado	ado	NOUN	S	Number=Sing	16	orphan	_	_
-20	About	about	ADP	E	_	21	case	_	_
-21	Nothing	nothing	NOUN	S	Number=Sing	19	nmod	_	SpaceAfter=No
-22	,	,	PUNCT	FF	_	7	punct	_	_
-23	among	among	ADP	E	_	25	case	_	_
-24	other	other	ADJ	A	Degree=Pos	25	amod	_	_
-25	characters	character	NOUN	S	Number=Plur	7	obl	_	SpaceAfter=No
-26	.	.	PUNCT	FS	_	7	punct	_	_
+# visual-style 32	bgColor:blue
+# visual-style 32	fgColor:white
+# visual-style 29	bgColor:blue
+# visual-style 29	fgColor:white
+# visual-style 29 32 orphan	color:blue
+1	He	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	_
+2	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
+3	replaced	replace	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
+4	around	around	ADP	E	_	6	case	_	_
+5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
+6	turn	turn	NOUN	S	Number=Sing	3	obl	_	_
+7	of	of	ADP	E	_	11	case	_	_
+8	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
+9	16	16	NUM	N	NumType=Card	11	nummod	_	SpaceAfter=No
+10	th	th	ADJ	A	Degree=Pos	9	amod	_	_
+11	century	century	NOUN	S	Number=Sing	6	nmod	_	_
+12	by	by	ADP	E	_	13	case	_	_
+13	Robert	Robert	PROPN	SP	_	3	obl	_	_
+14	Armin	Armin	PROPN	SP	_	13	flat	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	13	punct	_	_
+16	who	who	PRON	PR	PronType=Rel	17	nsubj	_	_
+17	played	play	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
+18	roles	role	NOUN	S	Number=Plur	17	obj	_	_
+19	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	21	case	_	_
+20	as	as	ADP	E	_	19	fixed	_	_
+21	Touchstone	Touchstone	PROPN	SP	_	18	nmod	_	_
+22	in	in	ADP	E	_	25	case	_	_
+23	As	as	SCONJ	CS	_	25	mark	_	_
+24	You	you	PRON	PE	Person=2|PronType=Prs	25	nsubj	_	_
+25	Like	like	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+26	It	it	PRON	PE	Person=3|PronType=Prs	25	obj	_	_
+27	and	and	CCONJ	CC	_	29	cc	_	_
+28	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
+29	fool	fool	NOUN	S	Number=Sing	17	conj	_	_
+30	in	in	ADP	E	_	32	case	_	_
+31	King	King	NOUN	S	Number=Sing	32	nmod:desc	_	_
+32	Lear	Lear	PROPN	SP	_	29	orphan	_	SpaceAfter=No
+33	.	.	PUNCT	FS	_	3	punct	_	_
 
 ~~~
 

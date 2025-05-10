@@ -16,11 +16,11 @@ Family: Turkic
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
-The following people have contributed to making this treebank part of UD: Utku Türk, Şaziye Betül Özateş, Büşra Marşan, Salih Furkan Akkurt, Çağrı Çöltekin, Gülşen Cebiroğlu Eryiğit, Memduh Gökırmak, Hüner Kaşıkara, Umut Sulubacak, Francis Tyers.
+The following people have contributed to making this treebank part of UD: Utku Türk, Şaziye Betül Özateş, Büşra Marşan, Furkan Akkurt, Çağrı Çöltekin, Gülşen Cebiroğlu Eryiğit, Memduh Gökırmak, Hüner Kaşıkara, Umut Sulubacak, Francis Tyers.
 
 Repository: [UD_Turkish-IMST](https://github.com/UniversalDependencies/UD_Turkish-IMST)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_imst215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_imst216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-NC-SA 4.0
 

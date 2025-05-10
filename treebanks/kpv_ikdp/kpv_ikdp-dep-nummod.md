@@ -11,7 +11,7 @@ This relation is universal.
 53 nodes (2%) are attached to their parents as `nummod`.
 
 52 instances of `nummod` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22641509433962.
+Average distance between parent and child is 1.18867924528302.
 
 The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (45; 85% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (6; 11% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (2; 4% instances).
 

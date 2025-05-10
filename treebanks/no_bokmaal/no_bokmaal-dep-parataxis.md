@@ -55,7 +55,7 @@ The following 24 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 9 parataxis	color:blue
-1	Det	det	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
+1	Det	den	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
 2	var	være	VERB	verb	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 3	ingenting	ingenting	PRON	pron	Number=Sing	2	nsubj	_	_
 4	igjen	igjen	ADV	adv	_	2	advmod	_	SpaceAfter=No

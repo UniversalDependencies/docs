@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 2	беш	беш	NUM	NUM	NumType=Card	3	nummod	_	_
 3	батирдин	батир	NOUN	NN	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nmod	_	_
 4	акчасын	акча	NOUN	NN	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	obj	_	_
-5	алып	ал	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+5	алып	ал	VERB	VB	Aspect=Perf|ExtPos=ADV|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 6	качып	кач	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	fixed	_	_
 7	кеткен	кет	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	9	ccomp	_	_
 8	жаран	жаран	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	nsubj	_	_

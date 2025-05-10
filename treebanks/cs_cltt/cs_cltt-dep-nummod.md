@@ -125,7 +125,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 35	obchodování	obchodování	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing	33	obl	33:obl:k:dat	SpaceAfter=No
 36	,	,	PUNCT	Z:-------------	_	22	punct	22:punct	_
 37	zruší	zrušit	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-38	ve	v	ADP	RV--4----------	AdpType=Voc|Case=Acc	40	case	40:case	LId=v-1
+38	ve	v	ADP	RV--4----------	AdpType=Voc|Case=Acc|ExtPos=ADP	40	case	40:case	LId=v-1
 39	prospěch	prospěch	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	38	fixed	38:fixed	_
 40	nákladů	náklad	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	37	obl	37:obl:ve_prospěch:gen	SpaceAfter=No
 41	;	;	PUNCT	Z:-------------	_	46	punct	46:punct	_

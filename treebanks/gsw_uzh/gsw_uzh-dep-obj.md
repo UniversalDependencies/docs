@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of obj in UD_Swiss_German-UZH'
+title:  'Statistics of obj in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: Relations: `obj`
+## Treebank Statistics: UD_Alemannic-UZH: Relations: `obj`
 
 This relation is universal.
 

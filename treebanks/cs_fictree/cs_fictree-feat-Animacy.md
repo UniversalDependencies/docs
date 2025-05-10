@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-33244 tokens (20%) have a non-empty value of `Animacy`.
-11550 types (43%) occur at least once with a non-empty value of `Animacy`.
-6379 lemmas (46%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (11898; 7% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (8434; 5% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (4616; 3% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (3121; 2% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (2693; 2% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (1391; 1% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (624; 0% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (467; 0% instances).
+33538 tokens (20%) have a non-empty value of `Animacy`.
+11565 types (43%) occur at least once with a non-empty value of `Animacy`.
+6388 lemmas (47%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 8 part-of-speech tags: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (11898; 7% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (8434; 5% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (4616; 3% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (3415; 2% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (2693; 2% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (1391; 1% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (624; 0% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (467; 0% instances).
 
 ### `NOUN`
 
@@ -86,42 +86,44 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 ### `PRON`
 
-3121 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (22% of all `PRON` tokens) have a non-empty value of `Animacy`.
+3415 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (24% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3121; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2374; 76%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2169; 69%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=3</tt> (1836; 59%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1836; 59%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3415; 100%), <tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (2612; 76%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2463; 72%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2374; 70%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=3</tt> (1836; 54%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1836; 54%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
-* `Anim` (2035; 65% of non-empty `Animacy`): <em>mu, ho, kdo, on, nikdo, někdo, jim, ním, něj, je</em>
-* `Inan` (1086; 35% of non-empty `Animacy`): <em>co, ho, je, čím, něm, něj, čem, nich, ním, jich</em>
-* `EMPTY` (10966): <em>se, si, mi, mě, já, ji, nic, jí, něco, ní</em>
+* `Anim` (2028; 59% of non-empty `Animacy`): <em>mu, ho, kdo, on, nikdo, někdo, jim, ním, něj, je</em>
+* `Inan` (1387; 41% of non-empty `Animacy`): <em>co, něco, ho, je, čím, něm, něj, čem, cosi, nich</em>
+* `EMPTY` (10663): <em>se, si, mi, mě, já, ji, nic, jí, ní, nás</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>jej, jeho</em></td><td><em>jej</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>něho, něj</em></td><td><em>něj</em></td></tr>
-  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jej, jeho</em></td><td><em>jej</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>ho</em></td><td><em>ho</em></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>je</em></td><td><em>je</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>ně</em></td><td><em>ně</em></td></tr>
-  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>je</em></td><td><em>je</em></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>jemu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>němu</em></td><td><em>němu</em></td></tr>
-  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jemu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>mu</em></td><td><em>mu</em></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>jim</em></td><td><em>jim</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>nim</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>jim</em></td><td><em>jim</em></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>jeho</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>něj, něho</em></td><td><em>něj, něho</em></td></tr>
-  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jeho</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>ho</em></td><td><em>ho</em></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>jich</em></td><td><em>jich</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>nich</em></td><td><em>nich</em></td></tr>
-  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>jich</em></td><td><em>jich</em></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>jím</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>ním</em></td><td><em>ním</em></td></tr>
-  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jím</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>jimi</em></td><td><em>jimi</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>nimi</em></td><td><em>nimi</em></td></tr>
-  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>jimi</em></td><td><em>jimi</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>něm</em></td><td><em>něm</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>nich</em></td><td><em>nich</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>on</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>oni</em></td><td><em>ony</em></td></tr>
 </table>
+
+`Animacy` seems to be **lexical feature** of `PRON`. 90% lemmas (19) occur only with one value of `Animacy`.
 
 ### `DET`
 
@@ -219,10 +221,10 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="cs_fictree-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3194; 99%),
+<tt>NOUN --[<tt><a href="cs_fictree-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3189; 99%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1764; 75%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (1746; 68%),
-<tt>NOUN --[<tt><a href="cs_fictree-dep-det.html">det</a></tt>]--> DET</tt> (1700; 99%),
+<tt>NOUN --[<tt><a href="cs_fictree-dep-det.html">det</a></tt>]--> DET</tt> (1698; 100%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (424; 79%),
 <tt>NOUN --[<tt><a href="cs_fictree-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (299; 84%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (286; 66%),

@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 reparandum	color:blue
-1	Ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	TokenRange=0:3
+1	Ixé	ixé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	TokenRange=0:3
 2	akayú	akayú	NOUN	N	Number=Sing	3	reparandum	_	TokenRange=4:9
 3	nove	nove	NUM	CARD	NumType=Card	4	nummod	_	OrigLang=por|TokenRange=10:14
 4	akayú	akayú	NOUN	N	Number=Sing	6	obl	_	TokenRange=15:20

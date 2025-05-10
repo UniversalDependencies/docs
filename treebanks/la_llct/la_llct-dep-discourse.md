@@ -25,7 +25,7 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 1	nam	nam	PART	c|c|-|-|-|-|-|-|-|-	_	9	discourse	_	_
 2	nos	nos	PRON	p|p|1|p|-|-|-|m|n|-	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
 3	defensores	defensor	NOUN	n|n|-|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur	9	xcomp	_	_
-4	ne	ne	PART	d|d|-|-|-|-|-|-|-|-	Polarity=Neg	6	cc	_	_
+4	ne	ne	PART	d|d|-|-|-|-|-|-|-|-	ExtPos=CCONJ|Polarity=Neg	6	cc	_	_
 5	que	que	CCONJ	c|c|-|-|-|-|-|-|-|-	_	4	fixed	_	_
 6	restauratores	restaurator	NOUN	n|n|-|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur	3	conj	_	_
 7	esse	sum	AUX	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf	3	cop	_	_

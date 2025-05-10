@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>quel</em> (<tt><a href="fr_fqb-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.241667 (the average of all parts of speech is 1.164044).
+The form / lemma ratio of `ADJ` is 1.241667 (the average of all parts of speech is 1.164665).
 
 The 1st highest number of forms (4) was observed with the lemma “américain”: <em>américain, américaine, américaines, américains</em>.
 

@@ -7,14 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: Relations: `advcl`
 
 This relation is universal.
-There are 3 language-specific subtypes of `advcl`: <tt><a href="koi_uh-dep-advcl-lcl.html">advcl:lcl</a></tt>, <tt><a href="koi_uh-dep-advcl-mcl.html">advcl:mcl</a></tt>, <tt><a href="koi_uh-dep-advcl-tcl.html">advcl:tcl</a></tt>.
 
-19 nodes (2%) are attached to their parents as `advcl`.
+24 nodes (2%) are attached to their parents as `advcl`.
 
-13 instances of `advcl` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.89473684210526.
+17 instances of `advcl` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.91666666666667.
 
-The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (9; 47% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (5; 26% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (3; 16% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 5% instances).
+The following 6 pairs of parts of speech are connected with `advcl`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (10; 42% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (5; 21% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (3; 13% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (3; 13% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (2; 8% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -25,7 +24,7 @@ The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 8 7 advcl	color:blue
 1	—	—	PUNCT	_	_	2	punct	_	_
 2	Кытшӧм	кытшӧм	PRON	_	PronType=Int	0	root	_	_
-3	талун	талун	ADV	_	_	2	advmod:tmod	_	_
+3	талун	талун	ADV	Adv	AdvType=Tim	2	advmod	_	_
 4	луныс	лун	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	nsubj:cop	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	2	punct	_	_
 6	—	—	PUNCT	_	_	8	punct	_	_
@@ -54,21 +53,18 @@ The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 advcl	color:blue
-1	Ордчӧн	ордчӧн	ADV	Adv	_	3	advmod:lmod	_	GTtags=Adv
-2	мекӧт	ме	PRON	Pron	Case=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	GTtags=Pron,Pers,Sg1,Com
-3	пукалӧ	пукавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=V,TV,Ind,Prs,Sg3
-4	сьӧд	сьӧд	ADJ	A	_	5	amod	_	GTtags=A
-5	тошока	тошок	NOUN	N	Case=Prp|Number=Sing	9	amod	_	GTtags=N,Sg,Der,Der/ProprietiveMod,A
-6	и	и	CCONJ	CC	_	8	cc	_	GTtags=CC
-7	гардчӧмкодь	гардчыны	VERB	V	Case=Nom|Derivation=CompMod|Number=Sing|Tense=Past|VerbForm=Part	8	advcl	_	GTtags=V,IV,Ind,Prt2,Sg3,Der,Der/CompMod
-8	уссэза	ус	NOUN	N	Case=Prp|Number=Plur	5	conj	_	GTtags=N,Pl,Der,Der/ProprietiveMod,A
-9	мужик	мужик	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	GTtags=N,Sg,Nom|SpaceAfter=No
-10	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 advcl	color:blue
+1	Тэ	тэ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj:cop	_	GTtags=Pers,Sg2,Nom
+2	али	али	CCONJ	_	_	3	cc	_	_
+3	ме	ме	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	conj	_	GTtags=Pers,Sg1,Nom
+4	этö	этö	PRON	_	_	5	expl	_	_
+5	долженöсь	долженöсь	ADJ	_	_	0	root	_	_
+6	керны	керны	VERB	_	VerbForm=Inf	5	advcl	_	GTtags=Inf|SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

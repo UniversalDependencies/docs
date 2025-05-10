@@ -10,16 +10,16 @@ This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-40821 tokens (8%) have a non-empty value of `PronType`.
+40818 tokens (8%) have a non-empty value of `PronType`.
 721 types (1%) occur at least once with a non-empty value of `PronType`.
 138 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (19811; 4% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (15986; 3% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (5024; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (19811; 4% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (15983; 3% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (5024; 1% instances).
 
 ### `DET`
 
 19811 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (17385; 88%), <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (15880; 80%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15880; 80%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14440; 73%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12219; 62%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (17384; 88%), <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (15880; 80%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15880; 80%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14440; 73%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12219; 62%).
 
 `DET` tokens may have the following values of `PronType`:
 
@@ -36,20 +36,32 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-15986 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+15983 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13175; 82%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (13129; 82%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12532; 78%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10279; 64%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt> (9779; 61%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (9196; 58%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (9042; 57%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13172; 82%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (13126; 82%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12529; 78%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10276; 64%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt> (9776; 61%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (9196; 58%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (9042; 57%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Ind` (233; 1% of non-empty `PronType`): <em>něco, někdo, někomu, něčeho, něčemu, kdekdo, cosi, ledacos, málokdo, někoho</em>
-* `Int,Rel` (641; 4% of non-empty `PronType`): <em>co, kdo, čím, čem, čeho, copak, kdož, koho, čemu, komu</em>
+* `Int,Rel` (636; 4% of non-empty `PronType`): <em>co, kdo, čím, čem, čeho, copak, kdož, koho, čemu, komu</em>
 * `Neg` (172; 1% of non-empty `PronType`): <em>nic, nikdo, nikoho, ničím, nikomu, ničeho, ničemu, nikým, ničem</em>
 * `Prs` (12496; 78% of non-empty `PronType`): <em>se, si, je, nás, nám, nich, ji, jim, mu, sebe</em>
-* `Rel` (1170; 7% of non-empty `PronType`): <em>jež, nichž, což, níž, němž, jimiž, něhož, čímž, jenž, nimiž</em>
+* `Rel` (1172; 7% of non-empty `PronType`): <em>jež, nichž, což, níž, němž, jimiž, něhož, čímž, jenž, nimiž</em>
 * `Tot` (1274; 8% of non-empty `PronType`): <em>všech, všechny, všechno, všichni, všem, vše, veškeré, všechna, všemi, všeho</em>
 
-`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (35) occur only with one value of `PronType`.
+<table>
+  <tr><th>Paradigm <i>co</i></th><th><tt>Int,Rel</tt></th><th><tt>Rel</tt></th></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt></tt></td><td><em>co</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>co</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>čemu</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>čeho</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>čím</em></td><td><em>čím</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>čem</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>co</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>co</em></td><td></td></tr>
+</table>
+
+`PronType` seems to be **lexical feature** of `PRON`. 97% lemmas (34) occur only with one value of `PronType`.
 
 ### `ADV`
 
@@ -65,7 +77,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Neg` (112; 2% of non-empty `PronType`): <em>nikdy, nijak, nikde, nikam</em>
 * `Rel` (77; 2% of non-empty `PronType`): <em>přičemž, zato</em>
 * `Tot` (271; 5% of non-empty `PronType`): <em>vždy, všude, odjakživa, navždy, odevždy</em>
-* `EMPTY` (23109): <em>také, již, už, ještě, pak, tedy, velmi, třeba, především, zejména</em>
+* `EMPTY` (23065): <em>také, již, už, ještě, pak, tedy, velmi, třeba, především, zejména</em>
 
 `PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (51) occur only with one value of `PronType`.
 
@@ -76,9 +88,10 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PRON</tt> (13; 93%),
 <tt>DET --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (7; 88%),
 <tt>PRON --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADV</tt> (7; 78%),
+<tt>PRON --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> DET</tt> (4; 80%),
 <tt>DET --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> DET</tt> (3; 100%),
+<tt>DET --[<tt><a href="cs_cac-dep-fixed.html">fixed</a></tt>]--> ADV</tt> (2; 100%),
 <tt>DET --[<tt><a href="cs_cac-dep-obl.html">obl</a></tt>]--> DET</tt> (2; 67%),
 <tt>ADV --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> ADV</tt> (1; 100%),
-<tt>DET --[<tt><a href="cs_cac-dep-cc.html">cc</a></tt>]--> DET</tt> (1; 100%),
-<tt>PRON --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%).
+<tt>DET --[<tt><a href="cs_cac-dep-cc.html">cc</a></tt>]--> DET</tt> (1; 100%).
 

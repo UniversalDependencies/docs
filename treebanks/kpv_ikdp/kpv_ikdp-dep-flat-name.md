@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 14 flat:name	color:blue
-1	Кор	кор	ADV	Adv	_	4	advmod:tmod	_	_
+1	Кор	кор	ADV	Adv	_	4	advmod	_	_
 2	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	3	nmod	_	_
 3	ае-маме	ай-мам	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	_
 4	вӧрзисныс	вӧрзьыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	13	advcl	_	SpaceAfter=No

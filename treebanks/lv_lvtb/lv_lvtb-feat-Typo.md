@@ -92,11 +92,13 @@ The most frequent other feature values with which `PROPN` and `Typo` co-occurred
 
 `PART` tokens may have the following values of `Typo`:
 
-* `Yes` (14; 100% of non-empty `Typo`): <em>ari, ar, no, par, tiešam, var, viss, jā</em>
+* `Yes` (14; 100% of non-empty `Typo`): <em>ari, ar, ka, no, par, tiešam, var, viss, jā</em>
 
 ### `SYM`
 
-13 <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> tokens (2% of all `SYM` tokens) have a non-empty value of `Typo`.
+13 <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> tokens (3% of all `SYM` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `SYM` and `Typo` co-occurred: <tt><a href="lv_lvtb-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (13; 100%).
 
 `SYM` tokens may have the following values of `Typo`:
 
@@ -132,7 +134,7 @@ The most frequent other feature values with which `PROPN` and `Typo` co-occurred
 
 `CCONJ` tokens may have the following values of `Typo`:
 
-* `Yes` (6; 100% of non-empty `Typo`): <em>ka, Tačuu, ari, nevīs, uz</em>
+* `Yes` (6; 100% of non-empty `Typo`): <em>ari, Tačuu, nevīs, uz</em>
 
 ### `NUM`
 

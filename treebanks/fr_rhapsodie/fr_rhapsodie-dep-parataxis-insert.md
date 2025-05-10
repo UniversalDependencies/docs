@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `parataxis:insert`: 
 1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	France	France	PROPN	_	_	4	nsubj	_	_
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Reported=Yes
-4	rose	rose	ADJ	_	Number=Sing	0	root	_	SpaceAfter=No
+4	rose	rose	ADJ	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	constate	constater	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis:insert	_	_
 7	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_

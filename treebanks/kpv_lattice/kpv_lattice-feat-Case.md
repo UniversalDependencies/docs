@@ -299,7 +299,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> NOUN</tt> (94; 88%),
 <tt>NOUN --[<tt><a href="kpv_lattice-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (38; 70%),
 <tt>NOUN --[<tt><a href="kpv_lattice-dep-flat-name.html">flat:name</a></tt>]--> NOUN</tt> (32; 76%),
-<tt>ADJ --[<tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (19; 70%),
+<tt>ADJ --[<tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (19; 68%),
 <tt>NOUN --[<tt><a href="kpv_lattice-dep-appos.html">appos</a></tt>]--> NOUN</tt> (18; 56%),
 <tt>ADJ --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> ADJ</tt> (15; 75%),
 <tt>ADJ --[<tt><a href="kpv_lattice-dep-amod.html">amod</a></tt>]--> ADJ</tt> (13; 62%),

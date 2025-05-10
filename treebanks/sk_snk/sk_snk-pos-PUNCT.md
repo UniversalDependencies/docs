@@ -39,9 +39,17 @@ The 3rd highest number of forms (2) was observed with the lemma ““”: <em>�
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="sk_snk-dep-punct.html">punct</a></tt> (19130; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (14033; 73% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (2041; 11% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (1239; 6% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (475; 2% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (461; 2% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt> (236; 1% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (204; 1% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (174; 1% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (116; 1% instances), <tt><a href="sk_snk-pos-INTJ.html">INTJ</a></tt> (71; 0% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (61; 0% instances), <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="sk_snk-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (14033; 73% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (2041; 11% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (1237; 6% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (475; 2% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (461; 2% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt> (236; 1% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (204; 1% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (174; 1% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (116; 1% instances), <tt><a href="sk_snk-pos-INTJ.html">INTJ</a></tt> (71; 0% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (61; 0% instances), <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="sk_snk-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="sk_snk-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances)
 
-19130 (100%) `PUNCT` nodes are leaves.
+19129 (100%) `PUNCT` nodes are leaves.
 
-The highest child degree of a `PUNCT` node is 0.
+0 (0%) `PUNCT` nodes have one child.
+
+1 (0%) `PUNCT` nodes have two children.
+
+The highest child degree of a `PUNCT` node is 2.
+
+Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="sk_snk-dep-punct.html">punct</a></tt> (2; 100% instances)
+
+Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="sk_snk-pos-PUNCT.html">PUNCT</a></tt> (2; 100% instances)
 

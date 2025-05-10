@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6108 nodes (6%) are attached to their parents as `root`.
+6121 nodes (6%) are attached to their parents as `root`.
 
-6108 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.54109364767518.
+6121 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.55562816533246.
 
-The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (3284; 54% instances), -<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (792; 13% instances), -<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (471; 8% instances), -<tt><a href="sl_sst-pos-PART.html">PART</a></tt> (393; 6% instances), -<tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (317; 5% instances), -<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (269; 4% instances), -<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (179; 3% instances), -<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (168; 3% instances), -<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (112; 2% instances), -<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (48; 1% instances), -<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (29; 0% instances), -<tt><a href="sl_sst-pos-X.html">X</a></tt> (27; 0% instances), -<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (11; 0% instances), -<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), -<tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> (3; 0% instances).
+The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (3292; 54% instances), -<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (794; 13% instances), -<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (473; 8% instances), -<tt><a href="sl_sst-pos-PART.html">PART</a></tt> (393; 6% instances), -<tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (317; 5% instances), -<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (269; 4% instances), -<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (179; 3% instances), -<tt><a href="sl_sst-pos-DET.html">DET</a></tt> (169; 3% instances), -<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (112; 2% instances), -<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (48; 1% instances), -<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (29; 0% instances), -<tt><a href="sl_sst-pos-X.html">X</a></tt> (27; 0% instances), -<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (11; 0% instances), -<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), -<tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> (3; 0% instances).
 
 
 ~~~ conllu

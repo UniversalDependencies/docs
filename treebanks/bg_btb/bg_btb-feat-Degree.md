@@ -50,7 +50,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (134; 3% of non-empty `Degree`): <em>по-късно, по-добре, по-малко, по-рано, по-скоро, по-бързо, по-лесно, по-силно, по-трудно, по-често</em>
-* `Pos` (4865; 95% of non-empty `Degree`): <em>още, вчера, само, вече, обаче, сега, много, все, днес, също</em>
+* `Pos` (4865; 95% of non-empty `Degree`): <em>още, вчера, само, вече, обаче, сега, много, днес, все, също</em>
 * `Sup` (100; 2% of non-empty `Degree`): <em>най-вече, най-сетне, най-често, най-добре, най-много, най-после, най-вероятно, най-малко, най-късно, най-напред</em>
 * `EMPTY` (1459): <em>когато, защото, как, така, както, тук, тъй, затова, където, тогава</em>
 

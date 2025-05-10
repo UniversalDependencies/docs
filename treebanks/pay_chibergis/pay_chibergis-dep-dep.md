@@ -9,12 +9,26 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `dep`: <tt><a href="pay_chibergis-dep-dep-conj.html">dep:conj</a></tt>.
 
-64 nodes (3%) are attached to their parents as `dep`.
+119 nodes (3%) are attached to their parents as `dep`.
 
-47 instances of `dep` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.703125.
+88 instances of `dep` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.94117647058824.
 
-The following 20 pairs of parts of speech are connected with `dep`: <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (11; 17% instances), <tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (9; 14% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (8; 13% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (6; 9% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (6; 9% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (5; 8% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 2% instances).
+The following 25 pairs of parts of speech are connected with `dep`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (48; 40% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (11; 9% instances), <tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (9; 8% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (8; 7% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (6; 5% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (6; 5% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (5; 4% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 1% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 dep	color:blue
+1	yãhpa	yãh	VERB	_	Person=1	3	dep	_	AlignBegin=6929|AlignEnd=7303|Gloss=say|MGloss=O3SG- say -S1SG:FUT|MSeg=Ø-yãh-pa|nWord=1|RX=[VT]|TokenType=Root|wordform=Ø-yãh-pa
+2	=pra	_	PART	_	_	1	advmod	_	AlignBegin=7303|AlignEnd=7677|Gloss==EMPH|MGloss==EMPH|MSeg==pra|nWord=2|RX=[PRT]|TokenType=Clit
+3	tVkkaaʃi	tVka-	VERB	_	_	0	root	_	AlignBegin=7677|AlignEnd=8051|Gloss=say|MGloss=say O3PL- -S1SG -PROX.PST|MSeg=tVk-ka-a-ʃi|nWord=3|RX=[VT]|TokenType=Root|wordform=tVkka--a-ʃi
+4	.	_	PUNCT	_	_	3	punct	_	AlignBegin=8051|AlignEnd=8423|Gloss=.|MGloss=.|MSeg=.|nWord=4
+
+~~~
 
 
 ~~~ conllu
@@ -40,27 +54,7 @@ The following 20 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 8	fgColor:white
 # visual-style 8 7 dep	color:blue
 1	akarʃkwa	akarʃkwa	PART	PRT	_	9	discourse	_	AlignBegin=237906|AlignEnd=238669|Gloss=then|MGloss=then|MSeg=akarʃkwa|nWord=1|RX=[PRT]|TokenType=Root|Word=akãrʃkwã
-2	ã	ã	PRON	PRO	_	9	obl:mod	_	AlignBegin=238669|AlignEnd=239432|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=2|RX=[PRO]|TokenType=Root|Word=ã
-3	=yã	=yã	ADP	POST	_	2	case	_	AlignBegin=239432|AlignEnd=240195|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=3|RX=[POST]|TokenType=Clit|Word=yã
-4	ĩ	ĩ	PRON	PRO	_	9	obl:mod	_	AlignBegin=240195|AlignEnd=240958|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=4|RX=[PRO]|TokenType=Root|Word=ĩ
-5	=kan	=kan	PART	PRT	_	4	case	_	AlignBegin=240958|AlignEnd=241721|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=5|RX=[PRT]|TokenType=Clit|Word=kãn
-6	tas	tas	PRON	PRO	_	8	dislocated	_	AlignBegin=241721|AlignEnd=242484|Gloss=PRO1|MGloss=PRO1|MSeg=tas|nWord=6|RX=[PRO]|TokenType=Root|Word=tas
-7	tarkapẽherwa	kapẽh	VERB	V:ANY	Voice=Appl	8	dep	_	AlignBegin=242484|AlignEnd=243247|Gloss=ask|MGloss=O1- APPL.P- ask -S3PL -PFV|MSeg=ta-r-kapẽh-er-Øwa|nWord=7|RX=[VT]|TokenType=Root|Word=tarkapẽher|wordform=ta-r-kapẽh-er-Øwa
-8	=ras	=ras	SCONJ	PRT	_	9	dep	_	AlignBegin=243247|AlignEnd=244010|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=8|RX=[PRT]|TokenType=Clit|Word=ra
-9	tapakeri	pak	VERB	V:ANY	_	0	root	_	AlignBegin=244010|AlignEnd=244773|Gloss=take|MGloss=O1- take -S3PL -PST|MSeg=ta-pak-er-i|nWord=9|RX=[VT]|TokenType=Root|Word=tawakri|wordform=ta-pak-er-i
-10	kapaʃkerwa	kapaʃk	VERB	V:ANY	_	9	conj	_	AlignBegin=244773|AlignEnd=245533|Gloss=speak|MGloss=speak -S3PL -PFV|MSeg=kapaʃk-er-wa|nWord=10|RX=[VT]|TokenType=Root|Word=kapaʃkra|wordform=kapaʃk-er-wa
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 dep	color:blue
-1	akarʃkwa	akarʃkwa	PART	PRT	_	9	discourse	_	AlignBegin=237906|AlignEnd=238669|Gloss=then|MGloss=then|MSeg=akarʃkwa|nWord=1|RX=[PRT]|TokenType=Root|Word=akãrʃkwã
-2	ã	ã	PRON	PRO	_	9	obl:mod	_	AlignBegin=238669|AlignEnd=239432|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=2|RX=[PRO]|TokenType=Root|Word=ã
+2	ã	ã	PRON	PRO	_	9	obl:tmod	_	AlignBegin=238669|AlignEnd=239432|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=2|RX=[PRO]|TokenType=Root|Word=ã
 3	=yã	=yã	ADP	POST	_	2	case	_	AlignBegin=239432|AlignEnd=240195|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=3|RX=[POST]|TokenType=Clit|Word=yã
 4	ĩ	ĩ	PRON	PRO	_	9	obl:mod	_	AlignBegin=240195|AlignEnd=240958|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=4|RX=[PRO]|TokenType=Root|Word=ĩ
 5	=kan	=kan	PART	PRT	_	4	case	_	AlignBegin=240958|AlignEnd=241721|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=5|RX=[PRT]|TokenType=Clit|Word=kãn

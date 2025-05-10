@@ -9,14 +9,14 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-69 tokens (0%) have a non-empty value of `Compound`.
+70 tokens (0%) have a non-empty value of `Compound`.
 17 types (0%) occur at least once with a non-empty value of `Compound`.
 17 lemmas (0%) occur at least once with a non-empty value of `Compound`.
-The feature is used with 4 part-of-speech tags: <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (40; 0% instances), <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> (27; 0% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-PART.html">PART</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (40; 0% instances), <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> (28; 0% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `ADV`
 
-40 <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `Compound`.
+40 <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Compound`.
 
 The most frequent other feature values with which `ADV` and `Compound` co-occurred: <tt><a href="la_circse-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="la_circse-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (38; 95%), <tt><a href="la_circse-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (24; 60%).
 
@@ -26,13 +26,13 @@ The most frequent other feature values with which `ADV` and `Compound` co-occurr
 
 ### `SCONJ`
 
-27 <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> tokens (7% of all `SCONJ` tokens) have a non-empty value of `Compound`.
+28 <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> tokens (6% of all `SCONJ` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `SCONJ` and `Compound` co-occurred: <tt><a href="la_circse-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (17; 63%).
+The most frequent other feature values with which `SCONJ` and `Compound` co-occurred: <tt><a href="la_circse-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (17; 61%).
 
 `SCONJ` tokens may have the following values of `Compound`:
 
-* `Yes` (27; 100% of non-empty `Compound`): <em>prout, tamquam, uelut, sicut, dummodo, quominus, quasi, quatenus, quoniam</em>
+* `Yes` (28; 100% of non-empty `Compound`): <em>prout, tamquam, uelut, sicut, dummodo, quominus, quasi, quatenus, quoniam</em>
 
 ### `DET`
 
@@ -48,7 +48,7 @@ The most frequent other feature values with which `DET` and `Compound` co-occurr
 
 1 <tt><a href="la_circse-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `PART` and `Compound` co-occurred: <tt><a href="la_circse-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="la_circse-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="la_circse-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PART` and `Compound` co-occurred: <tt><a href="la_circse-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="la_circse-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `PART` tokens may have the following values of `Compound`:
 

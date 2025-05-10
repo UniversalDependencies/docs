@@ -131,10 +131,10 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	unde	unde	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Loc|PronType=Rel	2	advmod:lmod	_	_
 2	spondeo	spondeo	VERB	v|v|1|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 3	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	det	_	_
-4	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
+4	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|ExtPos=DET|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
 5	supra	supra	ADV	d|d|-|-|-|-|-|-|-|-	_	4	fixed	_	_
 6	Bingulus	Bingulus	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
-7	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	9	case	_	_
+7	una	una	ADV	d|d|-|-|-|-|-|-|-|-	ExtPos=ADP	9	case	_	_
 8	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	7	fixed	_	_
 9	heredibus	heres	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	2	obl	_	_
 10	meis	meus	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	9	det	_	_

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_English-ParTUT: Relations: `nmod:poss`
 
 This relation is a language-specific subtype of <tt><a href="en_partut-dep-nmod.html">nmod</a></tt>.
-There are also 1 other language-specific subtypes of `nmod`: <tt><a href="en_partut-dep-nmod-unmarked.html">nmod:unmarked</a></tt>.
+There are also 2 other language-specific subtypes of `nmod`: <tt><a href="en_partut-dep-nmod-desc.html">nmod:desc</a></tt>, <tt><a href="en_partut-dep-nmod-unmarked.html">nmod:unmarked</a></tt>.
 
 641 nodes (1%) are attached to their parents as `nmod:poss`.
 

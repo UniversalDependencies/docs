@@ -10,27 +10,44 @@ This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 2 combinations have been observed: `Dem|Ind`, `Int|Rel`.
 
-25191 tokens (15%) have a non-empty value of `PronType`.
+25182 tokens (15%) have a non-empty value of `PronType`.
 656 types (2%) occur at least once with a non-empty value of `PronType`.
-137 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (14087; 8% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8435; 5% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (2669; 2% instances).
+140 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (14078; 8% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8435; 5% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (2669; 2% instances).
 
 ### `PRON`
 
-14087 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+14078 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (10966; 78%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10496; 75%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (8362; 59%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8130; 58%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7976; 57%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7913; 56%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (7466; 53%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (12236; 87%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (10663; 76%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10487; 74%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (8362; 59%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8121; 58%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7967; 57%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7904; 56%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (7465; 53%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Ind` (433; 3% of non-empty `PronType`): <em>něco, někdo, někoho, cosi, někomu, cokoli, něčím, kdosi, něčem, kdekdo</em>
-* `Int,Rel` (963; 7% of non-empty `PronType`): <em>co, kdo, čím, čem, koho, čeho, čemu, komu, kým, copak</em>
+* `Int,Rel` (952; 7% of non-empty `PronType`): <em>co, kdo, čím, čem, koho, čeho, čemu, komu, kým, copak</em>
 * `Neg` (414; 3% of non-empty `PronType`): <em>nic, nikdo, nikoho, nikomu, ničeho, ničemu, nikým, ničím, ničem</em>
 * `Prs` (12068; 86% of non-empty `PronType`): <em>se, si, mi, mě, ho, já, mu, ji, je, jí</em>
-* `Rel` (165; 1% of non-empty `PronType`): <em>což, níž, jež, nichž, němž, jenž, nímž, nimiž, něhož, jehož</em>
+* `Rel` (167; 1% of non-empty `PronType`): <em>což, níž, jež, nichž, němž, jenž, nímž, nimiž, něhož, jehož</em>
 * `Tot` (44; 0% of non-empty `PronType`): <em>všecko, veškeré, veškerá, veškeru, veškerý, všecky, samy, veškerou, všecku</em>
 
-`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (30) occur only with one value of `PronType`.
+<table>
+  <tr><th>Paradigm <i>co</i></th><th><tt>Int,Rel</tt></th><th><tt>Rel</tt></th></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt></tt></td><td><em>co</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>co, Cože</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>čemu</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>co</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>čeho</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>čím</em></td><td><em>čím</em></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>čem</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>co</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>co</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>co</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>co</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>co</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>co</em></td><td></td></tr>
+</table>
+
+`PronType` seems to be **lexical feature** of `PRON`. 97% lemmas (29) occur only with one value of `PronType`.
 
 ### `DET`
 
@@ -49,7 +66,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Rel` (23; 0% of non-empty `PronType`): <em>jehož, jejichž, jejíž, jejímž</em>
 * `Tot` (682; 8% of non-empty `PronType`): <em>všechno, každý, všichni, všechny, všech, každou, vše, každé, všeho, všem</em>
 
-`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (53) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (55) occur only with one value of `PronType`.
 
 ### `ADV`
 
@@ -66,7 +83,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Neg` (205; 8% of non-empty `PronType`): <em>nikdy, nijak, nikde, nikam</em>
 * `Rel` (10; 0% of non-empty `PronType`): <em>zato, přičemž</em>
 * `Tot` (62; 2% of non-empty `PronType`): <em>všude, vždy, navždy, odevšad, odjakživa</em>
-* `EMPTY` (8163): <em>už, ještě, pak, jednou, zase, dál, také, hned, taky, dobře</em>
+* `EMPTY` (8162): <em>už, ještě, pak, jednou, zase, dál, také, hned, taky, dobře</em>
 
 `PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (56) occur only with one value of `PronType`.
 

@@ -13,22 +13,22 @@ Some words have combined values of the feature; 1 combinations have been observe
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="mdf_jr-feat-Number.html">Number</a></tt>, <tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt>.
 
 1736 tokens (40%) have a non-empty value of `Number`.
-1295 types (61%) occur at least once with a non-empty value of `Number`.
-792 lemmas (59%) occur at least once with a non-empty value of `Number`.
+1291 types (60%) occur at least once with a non-empty value of `Number`.
+790 lemmas (58%) occur at least once with a non-empty value of `Number`.
 The feature is used with 8 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1098; 25% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (214; 5% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (211; 5% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (82; 2% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (65; 1% instances), <tt><a href="mdf_jr-pos-NUM.html">NUM</a></tt> (33; 1% instances), <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> (30; 1% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
 1098 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (921; 84%), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (921; 84%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (607; 55%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (922; 84%), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (922; 84%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (609; 55%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (190; 17% of non-empty `Number`): <em>ломаттне, стирнятне, валхнень, ломатть, гулянятнень, досканят, жаворонкатне, кизотнень, коволнятнень, морот</em>
-* `Plur,Sing` (418; 38% of non-empty `Number`): <em>лангс, паксянь, каршес, сёксень, вирьса, кудса, лангса, ульцяв, ярмакса, Марянь</em>
-* `Sing` (490; 45% of non-empty `Number`): <em>шись, пингть, ава, Тишка, ланга, ломань, пря, цёранц, шамац, шиня</em>
-* `EMPTY` (15): <em>И., Ильич, Н., атяй, бабай, варсиньбря, ветродуйхне, видьмода-эрьгада, инголи, лямбошинкса</em>
+* `Plur` (189; 17% of non-empty `Number`): <em>ломаттне, стирнятне, валхнень, ломатть, гулянятнень, досканят, жаворонкатне, кизотнень, коволнятнень, морот</em>
+* `Plur,Sing` (415; 38% of non-empty `Number`): <em>лангс, паксянь, каршес, сёксень, вирьса, кудса, лангса, ульцяв, ярмакса, Марянь</em>
+* `Sing` (494; 45% of non-empty `Number`): <em>тячи, шись, ава, пингть, шиня, Тишка, ланга, ломань, пря, цёранц</em>
+* `EMPTY` (16): <em>И., Ильич, Н., атяй, бабай, варсиньбря, ветродуйхне, видьмода-эрьгада, инголи, исяк</em>
 
 <table>
   <tr><th>Paradigm <i>ши</i></th><th><tt>Plur,Sing</tt></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -40,6 +40,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
   <tr><td><tt><tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="mdf_jr-feat-Degree.html">Degree</a></tt><tt>=Dim</tt></tt></td><td></td><td><em>Шинясь</em></td><td></td></tr>
   <tr><td><tt><tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td></td><td></td><td><em>шит</em></td></tr>
   <tr><td><tt><tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td></td><td></td><td><em>шиня</em></td></tr>
+  <tr><td><tt><tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Tem</tt></tt></td><td></td><td><em>шиня</em></td><td></td></tr>
   <tr><td><tt><tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Tem</tt>|<tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td><em>шиня</em></td><td><em>шиня</em></td><td></td></tr>
 </table>
 
@@ -172,19 +173,19 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 3 <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="mdf_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Ill</tt> (2; 67%).
+The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="mdf_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Ill</tt> (2; 67%).
 
 `ADV` tokens may have the following values of `Number`:
 
 * `Plur,Sing` (3; 100% of non-empty `Number`): <em>ламос, сяшкава</em>
-* `EMPTY` (428): <em>нинге, пяк, кода, аньцек, сяда, ни, меле, эста, ичкозе, мес</em>
+* `EMPTY` (421): <em>нинге, пяк, кода, аньцек, сяда, ни, меле, эста, ичкозе, мес</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>ADJ --[<tt><a href="mdf_jr-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (24; 83%),
 <tt>NOUN --[<tt><a href="mdf_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (20; 83%),
-<tt>NOUN --[<tt><a href="mdf_jr-dep-det.html">det</a></tt>]--> DET</tt> (17; 52%),
+<tt>NOUN --[<tt><a href="mdf_jr-dep-det.html">det</a></tt>]--> DET</tt> (17; 53%),
 <tt>NOUN --[<tt><a href="mdf_jr-dep-det.html">det</a></tt>]--> PRON</tt> (15; 58%),
 <tt>PROPN --[<tt><a href="mdf_jr-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (8; 89%),
 <tt>ADJ --[<tt><a href="mdf_jr-dep-conj.html">conj</a></tt>]--> ADJ</tt> (5; 100%),

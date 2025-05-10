@@ -43,7 +43,7 @@ The following 9 pairs of parts of speech are connected with `obl`: <tt><a href="
 3	ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg	5	aux	_	_
 4	pida	pidada	AUX	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
 5	unohtada	unohtada	VERB	_	VerbForm=Inf	0	root	_	_
-6	ičeze	ičeze	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	7	nmod	_	_
+6	ičeze	iče	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	7	nmod	_	_
 7	jurid	jur'	NOUN	_	Case=Par|Number=Plur	5	obj	_	_
 8	da	da	CCONJ	_	_	9	cc	_	_
 9	kodikel't	kodikel'	NOUN	_	Case=Par|Number=Sing	7	conj	_	_

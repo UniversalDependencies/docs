@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 5	naisen	nainen	NOUN	_	Case=Gen|Number=Sing	6	nmod:poss	_	_
 6	unelma	unelma	NOUN	_	Case=Nom|Number=Sing	2	appos	_	_
 7	https://t.co/zxCJPunKol	https://t.co/zxCJPunKol	SYM	_	_	2	discourse	_	_
-8	on	on	X	_	Foreign=Yes	9	dep	_	Note=check
+8	on	on	X	_	Foreign=Yes	9	dep	_	Note=check|OrigLang=en
 9	@bloglovin	@bloglovin	PROPN	_	Case=Nom|Number=Sing	2	discourse	_	SpacesAfter=\n\n
 
 ~~~

@@ -104,7 +104,7 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 24	ⲙ	ⲛ	ADP	PREP	_	26	case	_	_
 25	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	26	nmod:poss	_	Entity=(person-Jesus
 26	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	23	nmod	_	_
-27	ⲓⲏⲥⲟⲩⲥ	ⲓⲏⲥⲟⲩⲥ	PROPN	NPROP	Foreign=Yes	26	appos	_	Entity=person-Jesus)abstract)|OrigLang=he
+27	ⲓⲏⲥⲟⲩⲥ	ⲓⲏⲥⲟⲩⲥ	PROPN	NPROP	Foreign=Yes	26	appos	_	Entity=person-Jesus)abstract)|OrigLang=heb
 28	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	31	cc	_	_
 29	ϩⲙ	ϩⲛ	ADP	PREP	_	31	case	_	_
 30	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	Entity=(abstract

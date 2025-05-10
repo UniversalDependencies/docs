@@ -65,12 +65,12 @@ The 2nd highest number of forms (3) was observed with the lemma “wedi”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “yn”: <em>'n, yn</em>.
 
-`AUX` occurs with 6 features: <tt><a href="cy_ccg-feat-Number.html">Number</a></tt> (1087; 36% instances), <tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt> (1087; 36% instances), <tt><a href="cy_ccg-feat-Person.html">Person</a></tt> (917; 30% instances), <tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt> (916; 30% instances), <tt><a href="cy_ccg-feat-Mood.html">Mood</a></tt> (909; 30% instances), <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt> (125; 4% instances)
+`AUX` occurs with 7 features: <tt><a href="cy_ccg-feat-Number.html">Number</a></tt> (1087; 36% instances), <tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt> (1087; 36% instances), <tt><a href="cy_ccg-feat-Person.html">Person</a></tt> (917; 30% instances), <tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt> (916; 30% instances), <tt><a href="cy_ccg-feat-Mood.html">Mood</a></tt> (909; 30% instances), <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt> (125; 4% instances), <tt><a href="cy_ccg-feat-ExtPos.html">ExtPos</a></tt> (6; 0% instances)
 
-`AUX` occurs with 18 feature-value pairs: `Mood=Cnd`, `Mood=Ind`, `Mood=Sub`, `Mutation=NM`, `Mutation=SM`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=FinRel`, `VerbForm=Vnoun`
+`AUX` occurs with 19 feature-value pairs: `ExtPos=AUX`, `Mood=Cnd`, `Mood=Ind`, `Mood=Sub`, `Mutation=NM`, `Mutation=SM`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=FinRel`, `VerbForm=Vnoun`
 
-`AUX` occurs with 36 feature combinations.
-The most frequent feature combination is `_` (1959 tokens).
+`AUX` occurs with 37 feature combinations.
+The most frequent feature combination is `_` (1953 tokens).
 Examples: <em>yn, 'n, wedi, ar, am, newydd, heb, 'di, di</em>
 
 

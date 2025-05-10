@@ -57,12 +57,12 @@ The form / lemma ratio of `ADP` is 69.000000 (the average of all parts of speech
 
 The 1st highest number of forms (69) was observed with the lemma “_”: <em>Amarga, Pas, Puput, Saderengipun, Saduninge, Sanadyan, Satekan, Sawuse, abot, aneng, awit, bab, babagan, bagya, bar, bareng, dene, dening, dugi, dumugi, endahing, ing, jroning, kados, kadosta, kagem, kajaba, kalawan, kaliyan, kangge, kanggo, kanthi, karo, katimbang, kawit, kaya, kaya-kaya, kayata, kerana, lumantar, marang, menyang, minangka, mring, nalika, neng, nganti, ngantos, ning, pisanan, sabubare, sacara, sajeroning, saka, saking, sakjroning, saksampune, saliyane, sapinggire, sasuwene, sawise, sejene, tanpa, tekan, tuking, tumrap, tumrape, watara, wiwit</em>.
 
-`ADP` occurs with 1 features: <tt><a href="jv_csui-feat-Polite.html">Polite</a></tt> (622; 83% instances)
+`ADP` occurs with 2 features: <tt><a href="jv_csui-feat-Polite.html">Polite</a></tt> (622; 83% instances), <tt><a href="jv_csui-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances)
 
-`ADP` occurs with 3 feature-value pairs: `Polite=Elev`, `Polite=Form`, `Polite=Infm`
+`ADP` occurs with 4 feature-value pairs: `ExtPos=ADP`, `Polite=Elev`, `Polite=Form`, `Polite=Infm`
 
-`ADP` occurs with 4 feature combinations.
-The most frequent feature combination is `Polite=Infm` (568 tokens).
+`ADP` occurs with 5 feature combinations.
+The most frequent feature combination is `Polite=Infm` (566 tokens).
 Examples: <em>ing, saka, karo, kaya, kanthi, dening, nganti, marang, neng, kanggo</em>
 
 

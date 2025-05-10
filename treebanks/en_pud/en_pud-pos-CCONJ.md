@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>but</em> (<tt><a href="en_pud-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.147817).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.149901).
 
 The 1st highest number of forms (1) was observed with the lemma “&”: <em>&</em>.
 
@@ -46,7 +46,7 @@ The 3rd highest number of forms (1) was observed with the lemma “and”: <em>a
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="en_pud-dep-cc.html">cc</a></tt> (565; 98% instances), <tt><a href="en_pud-dep-cc-preconj.html">cc:preconj</a></tt> (10; 2% instances), <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="en_pud-dep-cc.html">cc</a></tt> (566; 98% instances), <tt><a href="en_pud-dep-cc-preconj.html">cc:preconj</a></tt> (10; 2% instances)
 
 Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (212; 37% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (207; 36% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (83; 14% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (44; 8% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (11; 2% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt> (1; 0% instances)
 

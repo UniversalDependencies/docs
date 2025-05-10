@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>peale</em> (<tt><a href="et_ewt-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.078125 (the average of all parts of speech is 1.733702).
+The form / lemma ratio of `ADP` is 1.078125 (the average of all parts of speech is 1.733681).
 
 The 1st highest number of forms (3) was observed with the lemma “juures”: <em>juure, juures, kuures</em>.
 

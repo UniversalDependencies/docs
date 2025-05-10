@@ -29,7 +29,7 @@ The most frequent other feature values with which `ADJ` and `Number[subj]` co-oc
 
 1 <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Number[subj]`.
 
-The most frequent other feature values with which `ADV` and `Number[subj]` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%).
+The most frequent other feature values with which `ADV` and `Number[subj]` co-occurred: <tt><a href="kpv_ikdp-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%).
 
 `ADV` tokens may have the following values of `Number[subj]`:
 

@@ -10,10 +10,10 @@ This relation is universal.
 
 15246 nodes (12%) are attached to their parents as `punct`.
 
-12184 instances of `punct` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.83602256329529.
+12185 instances of `punct` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.83510428964974.
 
-The following 15 pairs of parts of speech are connected with `punct`: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (5394; 35% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (4069; 27% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (2025; 13% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (1099; 7% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (832; 5% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (456; 3% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (388; 3% instances), <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (379; 2% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (309; 2% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (194; 1% instances), <tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (37; 0% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (32; 0% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (15; 0% instances), <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (11; 0% instances), <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances).
+The following 15 pairs of parts of speech are connected with `punct`: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (5394; 35% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (4069; 27% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (2023; 13% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (1100; 7% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (832; 5% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (456; 3% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (388; 3% instances), <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (379; 2% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (308; 2% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (196; 1% instances), <tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (37; 0% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (32; 0% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (15; 0% instances), <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (11; 0% instances), <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances).
 
 
 ~~~ conllu
@@ -25,14 +25,14 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 1	@user	@user	SYM	SYM	_	8	vocative	_	_
 2	si	sì	INTJ	I	_	8	discourse	_	CorrectForm=sì
 3	cazzo	cazzo	INTJ	I	_	8	discourse	_	_
-4	c'	ce	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs|Typo=Yes	8	expl	_	CorrectForm=ce|SpaceAfter=No
+4	c'	ce	PRON	PC	Number=Plur|Person=1|PronType=Prs	8	expl	_	Clitic=Yes|CorrectForm=ce|SpaceAfter=No|Typo=Yes
 5	è	_	X	X	_	4	dep	_	_
-6	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+6	la	la	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	Clitic=Yes
 7	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
-9	c'	ce	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs|Typo=Yes	13	expl	_	CorrectForm=ce|SpaceAfter=No
+9	c'	ce	PRON	PC	Number=Plur|Person=1|PronType=Prs	13	expl	_	Clitic=Yes|CorrectForm=ce|SpaceAfter=No|Typo=Yes
 10	è	_	X	X	_	9	dep	_	_
-11	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+11	la	la	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	Clitic=Yes
 12	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
 13	fare	fare	VERB	V	VerbForm=Inf	8	conj	_	SpaceAfter=No
 14	!	!	PUNCT	FS	_	8	punct	_	_

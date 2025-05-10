@@ -109,8 +109,8 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (564; 64%),
-<tt>VERB --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> VERB</tt> (427; 70%),
+<tt>VERB --[<tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (564; 65%),
+<tt>VERB --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> VERB</tt> (425; 70%),
 <tt>VERB --[<tt><a href="sl_sst-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (257; 58%),
 <tt>VERB --[<tt><a href="sl_sst-dep-parataxis-restart.html">parataxis:restart</a></tt>]--> VERB</tt> (69; 61%),
 <tt>VERB --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (56; 90%),

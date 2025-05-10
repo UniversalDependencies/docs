@@ -117,7 +117,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (169; 91%),
-<tt>VERB --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (49; 80%),
+<tt>VERB --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (50; 81%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (38; 63%),
 <tt>AUX --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (4; 100%),
 <tt>ADJ --[<tt><a href="cs_poetry-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (3; 100%),

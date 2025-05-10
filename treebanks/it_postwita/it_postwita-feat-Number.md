@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-51240 tokens (41%) have a non-empty value of `Number`.
-9807 types (56%) occur at least once with a non-empty value of `Number`.
+51239 tokens (41%) have a non-empty value of `Number`.
+9806 types (56%) occur at least once with a non-empty value of `Number`.
 5159 lemmas (38%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (15770; 13% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (13426; 11% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (8563; 7% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (4874; 4% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (4352; 3% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4254; 3% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (15769; 13% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (13426; 11% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (8563; 7% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (4873; 4% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (4352; 3% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4254; 3% instances), <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-15770 <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> tokens (90% of all `NOUN` tokens) have a non-empty value of `Number`.
+15769 <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> tokens (90% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (9465; 60%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (9464; 60%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (3980; 25% of non-empty `Number`): <em>anni, partiti, italiani, politici, cose, ministri, giorni, elezioni, parole, voti</em>
-* `Sing` (11790; 75% of non-empty `Number`): <em>governo, politica, manovra, vita, presidente, lavoro, cosa, fiducia, paese, gente</em>
+* `Sing` (11789; 75% of non-empty `Number`): <em>governo, politica, manovra, vita, presidente, lavoro, cosa, fiducia, paese, gente</em>
 * `EMPTY` (1824): <em>crisi, video, premier, tv, foto, TT, antipolitica, spread, equità, realtà</em>
 
 <table>
@@ -41,7 +41,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (2716; 20% of non-empty `Number`): <em>i, le, gli, suoi, questi, miei, sue, nostri, sti, queste</em>
 * `Sing` (10710; 80% of non-empty `Number`): <em>il, la, l', un, una, lo, questo, mio, mia, questa</em>
-* `EMPTY` (1050): <em>che, tutti, tutto, ogni, tutta, qualche, loro, tutte, altro, quel</em>
+* `EMPTY` (1049): <em>che, tutti, tutto, ogni, tutta, qualche, loro, tutte, altro, quel</em>
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -91,13 +91,13 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `ADJ`
 
-4874 <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `Number`.
+4873 <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Number`.
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (1254; 26% of non-empty `Number`): <em>grande, migliori, sociali, deboli, inutili, forti, primi, prime, giovani, importanti</em>
-* `Sing` (3620; 74% of non-empty `Number`): <em>nuovo, bella, buon, possibile, facile, buona, primo, forte, migliore, sociale</em>
-* `EMPTY` (125): <em>ex, super, anti, neo, 1°, blu, online, Good, anticrisi, bipartisan</em>
+* `Sing` (3619; 74% of non-empty `Number`): <em>nuovo, bella, buon, possibile, facile, buona, primo, forte, migliore, sociale</em>
+* `EMPTY` (124): <em>ex, super, anti, neo, 1°, blu, online, Good, anticrisi, bipartisan</em>
 
 <table>
   <tr><th>Paradigm <i>nuovo</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -109,13 +109,13 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 4352 <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> tokens (67% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="it_postwita-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3232; 74%), <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2467; 57%), <tt><a href="it_postwita-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (2376; 55%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="it_postwita-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3232; 74%), <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2467; 57%), <tt><a href="it_postwita-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (2203; 51%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (1428; 33% of non-empty `Number`): <em>ci, tutti, c', noi, vi, li, ce, voi, loro, altri</em>
 * `Sing` (2924; 67% of non-empty `Number`): <em>mi, lo, ti, io, tutto, me, la, quello, te, tu</em>
-* `EMPTY` (2134): <em>che, si, chi, ne, cosa, le, se, cui, niente, nulla</em>
+* `EMPTY` (2136): <em>che, si, chi, ne, cosa, le, se, cui, niente, nulla</em>
 
 <table>
   <tr><th>Paradigm <i>tutto</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -164,6 +164,15 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_postwita-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sia, stia, si</em></td><td><em>siano</em></td></tr>
 </table>
 
+### `ADP`
+
+1 <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Number`.
+
+`ADP` tokens may have the following values of `Number`:
+
+* `Sing` (1; 100% of non-empty `Number`): <em>rispetto</em>
+* `EMPTY` (13015): <em>di, a, in, per, da, su, con, via, come, contro</em>
+
 ### `X`
 
 1 <tt><a href="it_postwita-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Number`.
@@ -173,7 +182,7 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 `X` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>te</em>
-* `EMPTY` (976): <em>of, Prince, i, live, a, and, on, the, in, my</em>
+* `EMPTY` (977): <em>of, Prince, i, live, a, and, on, the, in, my</em>
 
 ## Relations with Agreement in `Number`
 
@@ -186,6 +195,6 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="it_postwita-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (763; 59%),
 <tt>NOUN --[<tt><a href="it_postwita-dep-cop.html">cop</a></tt>]--> AUX</tt> (755; 78%),
 <tt>ADJ --[<tt><a href="it_postwita-dep-cop.html">cop</a></tt>]--> AUX</tt> (691; 93%),
-<tt>VERB --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> VERB</tt> (644; 74%),
+<tt>VERB --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> VERB</tt> (643; 74%),
 <tt>NOUN --[<tt><a href="it_postwita-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (448; 81%).
 

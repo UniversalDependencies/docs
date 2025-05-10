@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-329 nodes (1%) are attached to their parents as `expl`.
+330 nodes (1%) are attached to their parents as `expl`.
 
-196 instances of `expl` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.04559270516717.
+197 instances of `expl` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.04545454545455.
 
-The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (329; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (330; 100% instances).
 
 
 ~~~ conllu

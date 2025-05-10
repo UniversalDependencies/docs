@@ -13,7 +13,7 @@ This relation is universal.
 5086 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.97011403853716.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (3271; 64% instances), -<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> (985; 19% instances), -<tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (429; 8% instances), -<tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (96; 2% instances), -<tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (92; 2% instances), -<tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> (69; 1% instances), -<tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (50; 1% instances), -<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (27; 1% instances), -<tt><a href="ru_poetry-pos-PART.html">PART</a></tt> (24; 0% instances), -<tt><a href="ru_poetry-pos-INTJ.html">INTJ</a></tt> (18; 0% instances), -<tt><a href="ru_poetry-pos-X.html">X</a></tt> (10; 0% instances), -<tt><a href="ru_poetry-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), -<tt><a href="ru_poetry-pos-SYM.html">SYM</a></tt> (5; 0% instances), -<tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (3271; 64% instances), -<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> (986; 19% instances), -<tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (429; 8% instances), -<tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (96; 2% instances), -<tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (92; 2% instances), -<tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> (68; 1% instances), -<tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (50; 1% instances), -<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (27; 1% instances), -<tt><a href="ru_poetry-pos-PART.html">PART</a></tt> (24; 0% instances), -<tt><a href="ru_poetry-pos-INTJ.html">INTJ</a></tt> (18; 0% instances), -<tt><a href="ru_poetry-pos-X.html">X</a></tt> (10; 0% instances), -<tt><a href="ru_poetry-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), -<tt><a href="ru_poetry-pos-SYM.html">SYM</a></tt> (5; 0% instances), -<tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -51,7 +51,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 4	ИЛИ	или	CCONJ	_	_	5	cc	_	_
 5	СОН	сон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
 6	НА	на	ADP	_	_	7	case	_	_
-7	ВОЛГЕ	волга	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+7	ВОЛГЕ	Волга	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	5	nmod	_	SpaceAfter=No
 8	»	»	PUNCT	_	_	2	punct	_	</se></p>
 
 ~~~

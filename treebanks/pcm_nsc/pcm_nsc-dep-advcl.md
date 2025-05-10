@@ -23,7 +23,7 @@ The following 44 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 10 advcl	color:blue
-1	#	#	X	_	_	4	dep	_	AlignBegin=10145|AlignEnd=10516|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=10145|AlignEnd=10516|Gloss=PUNCT
 2	sey	sey	SCONJ	_	_	4	discourse	_	AlignBegin=10516|AlignEnd=10640|Gloss=COMP
 3	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	AlignBegin=10640|AlignEnd=10679|Gloss=NOM.SG.3
 4	wan	want	VERB	_	_	0	root	_	AlignBegin=10679|AlignEnd=10850|Gloss=want
@@ -35,7 +35,7 @@ The following 44 pairs of parts of speech are connected with `advcl`: <tt><a hre
 10	go	go	VERB	_	_	5	advcl	_	AlignBegin=11770|AlignEnd=12120|Gloss=go
 11	train	train	VERB	_	_	10	compound:svc	_	AlignBegin=12120|AlignEnd=12430|Gloss=train
 12	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	AlignBegin=12430|AlignEnd=12580|Gloss=ACC.SG.1
-13	//	//	X	_	_	4	dep	_	AlignBegin=12580|AlignEnd=12580|Gloss=PUNCT
+13	//	//	PUNCT	_	_	4	punct	_	AlignBegin=12580|AlignEnd=12580|Gloss=PUNCT
 
 ~~~
 
@@ -53,13 +53,13 @@ The following 44 pairs of parts of speech are connected with `advcl`: <tt><a hre
 5	weh	wey	SCONJ	_	_	7	mark	_	AlignBegin=49880|AlignEnd=50030|Gloss=REL
 6	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	AlignBegin=50030|AlignEnd=50090|Gloss=NOM.2
 7	do	do	VERB	_	_	4	acl:relcl	_	AlignBegin=50090|AlignEnd=50160|Gloss=do
-8	<	<	X	_	_	4	dep	_	AlignBegin=50160|AlignEnd=50160|Gloss=PUNCT
+8	<	<	PUNCT	_	_	4	punct	_	AlignBegin=50160|AlignEnd=50160|Gloss=PUNCT
 9	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	AlignBegin=50160|AlignEnd=50270|Gloss=NOM.2
 10	go	go	AUX	_	Aspect=Prosp	12	aux	_	AlignBegin=50270|AlignEnd=50390|Gloss=PROSP
 11	quick	quick	ADJ	_	_	12	advcl	_	AlignBegin=50390|AlignEnd=50630|Gloss=quick
 12	get	get	VERB	_	_	0	root	_	AlignBegin=50630|AlignEnd=50749|Gloss=get
 13	money	money	NOUN	_	_	12	obj	_	AlignBegin=50749|AlignEnd=51070|Gloss=money
-14	//	//	X	_	_	12	dep	_	AlignBegin=51070|AlignEnd=51070|Gloss=PUNCT
+14	//	//	PUNCT	_	_	12	punct	_	AlignBegin=51070|AlignEnd=51070|Gloss=PUNCT
 
 ~~~
 
@@ -70,19 +70,19 @@ The following 44 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 8 advcl	color:blue
-1	#	#	X	_	_	12	dep	_	AlignBegin=37956|AlignEnd=38608|Gloss=PUNCT
+1	#	#	PUNCT	_	_	12	punct	_	AlignBegin=37956|AlignEnd=38608|Gloss=PUNCT
 2	later	later	ADJ	_	Degree=Cmp	12	advcl	_	AlignBegin=38608|AlignEnd=39043|Gloss=late.CMPR
-3	<	<	X	_	_	2	dep	_	AlignBegin=39043|AlignEnd=39043|Gloss=PUNCT
-4	#	#	X	_	_	2	dep	_	AlignBegin=39043|AlignEnd=40120|Gloss=PUNCT
+3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=39043|AlignEnd=39043|Gloss=PUNCT
+4	#	#	PUNCT	_	_	2	punct	_	AlignBegin=39043|AlignEnd=40120|Gloss=PUNCT
 5	even	even	ADV	_	_	8	advmod	_	AlignBegin=40120|AlignEnd=40413|Gloss=even
 6	if	if	SCONJ	_	_	8	mark	_	AlignBegin=40413|AlignEnd=40750|Gloss=if
 7	na	na	AUX	_	PartType=Cop	8	cop	_	AlignBegin=40750|AlignEnd=40940|Gloss=be
 8	money	money	NOUN	_	_	12	advcl	_	AlignBegin=40940|AlignEnd=41150|Gloss=money
-9	<	<	X	_	_	8	dep	_	AlignBegin=41150|AlignEnd=41150|Gloss=PUNCT
+9	<	<	PUNCT	_	_	8	punct	_	AlignBegin=41150|AlignEnd=41150|Gloss=PUNCT
 10	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	expl:subj	_	AlignBegin=41150|AlignEnd=41259|Gloss=NOM.SG.3
 11	no	no	AUX	_	Polarity=Neg	12	aux	_	AlignBegin=41259|AlignEnd=41450|Gloss=NEG
 12	get	get	VERB	_	_	0	root	_	AlignBegin=41450|AlignEnd=41810|Gloss=get
-13	//	//	X	_	_	12	dep	_	AlignBegin=41810|AlignEnd=41810|Gloss=PUNCT
+13	//	//	PUNCT	_	_	12	punct	_	AlignBegin=41810|AlignEnd=41810|Gloss=PUNCT
 
 ~~~
 

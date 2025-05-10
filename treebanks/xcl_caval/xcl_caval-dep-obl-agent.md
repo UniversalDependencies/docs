@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="xcl_caval-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="xcl_caval-dep-obl-arg.html">obl:arg</a></tt>.
 
-57 nodes (0%) are attached to their parents as `obl:agent`.
+74 nodes (0%) are attached to their parents as `obl:agent`.
 
-54 instances of `obl:agent` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.52631578947368.
+63 instances of `obl:agent` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.43243243243243.
 
-The following 7 pairs of parts of speech are connected with `obl:agent`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (34; 60% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (15; 26% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 9 pairs of parts of speech are connected with `obl:agent`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (38; 51% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (18; 24% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (9; 12% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -47,11 +47,11 @@ The following 7 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 8	fgColor:white
 # visual-style 8 10 obl:agent	color:blue
 1	եւ	եւ	CCONJ	_	_	3	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-2	նա	նա	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	3	nsubj	_	Translit=na|LTranslit=na|Gloss=he/she/it/that
+2	նա	նա	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	3	nsubj	_	Translit=na|LTranslit=na|Gloss=he/she/it
 3	ուսուցանէր	ուսուցանել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	Translit=owsowcʻanēr|LTranslit=owsowcʻanel|Gloss=teach
 4	ի	ի	ADP	_	_	5	case	_	Translit=i|LTranslit=i|LId=ի-2|Gloss=in
 5	ժողովուրդս	ժողովուրդ	NOUN	_	Case=Loc|Number=Plur	3	obl	_	Translit=žołovowrds|LTranslit=žołovowrd|Gloss=people
-6	նոցա	նա	PRON	_	Case=Gen|Deixis=Remt|Number=Plur|PronType=Dem	5	nmod	_	SpaceAfter=No|Translit=nocʻa|LTranslit=na|Gloss=he/she/it/that
+6	նոցա	նա	PRON	_	Case=Gen|Deixis=Remt|Number=Plur|PronType=Dem	5	nmod	_	SpaceAfter=No|Translit=nocʻa|LTranslit=na|Gloss=he/she/it
 7	.	.	PUNCT	_	_	8	punct	_	Translit=:|LTranslit=:
 8	փառաւորեալ	փառաւորել	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	Translit=pʻaṙaworeal|LTranslit=pʻaṙaworel|Gloss=glorify
 9	յ	ի	ADP	_	_	10	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-3|Gloss=from

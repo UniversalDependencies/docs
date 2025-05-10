@@ -40,7 +40,7 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 
 5 <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4; 80%).
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="orv_rnc-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4; 80%).
 
 `PRON` tokens may have the following values of `Typo`:
 

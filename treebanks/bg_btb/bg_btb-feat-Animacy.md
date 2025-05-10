@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Anim` (46; 100% of non-empty `Animacy`): <em>кого, когото, никого, някого, всекиго, никому</em>
-* `EMPTY` (10048): <em>се, си, това, той, му, които, го, ни, те, който</em>
+* `EMPTY` (10049): <em>се, си, това, той, му, които, го, ни, те, който</em>
 
 ### `NUM`
 
@@ -45,5 +45,5 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 `DET` tokens may have the following values of `Animacy`:
 
 * `Anim` (1; 100% of non-empty `Animacy`): <em>никого</em>
-* `EMPTY` (2432): <em>тази, този, тези, това, всички, един, какво, една, всеки, всяка</em>
+* `EMPTY` (2431): <em>тази, този, тези, това, всички, един, какво, една, всеки, всяка</em>
 

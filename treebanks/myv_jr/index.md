@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.3 release.
 The following people have contributed to making this treebank part of UD: Jack Rueter, Francis Tyers, Elena Klementieva, Olga Erina, Ivan Riabov.
 
 Repository: [UD_Erzya-JR](https://github.com/UniversalDependencies/UD_Erzya-JR)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmyv_jr215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmyv_jr216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -99,11 +99,11 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
 
 ## Features
 
-[Abbr](myv_jr-feat-Abbr.html) – [AdpType](myv_jr-feat-AdpType.html) – [AdvType](myv_jr-feat-AdvType.html) – [Animacy](myv_jr-feat-Animacy.html) – [Aspect](myv_jr-feat-Aspect.html) – [Case](myv_jr-feat-Case.html) – [Clitic](myv_jr-feat-Clitic.html) – [Connegative](myv_jr-feat-Connegative.html) – [Definite](myv_jr-feat-Definite.html) – [Degree](myv_jr-feat-Degree.html) – [Derivation](myv_jr-feat-Derivation.html) – [Evident](myv_jr-feat-Evident.html) – [Gender](myv_jr-feat-Gender.html) – [Mood](myv_jr-feat-Mood.html) – [NameType](myv_jr-feat-NameType.html) – [NegationType](myv_jr-feat-NegationType.html) – [Nomzr](myv_jr-feat-Nomzr.html) – [NounType](myv_jr-feat-NounType.html) – [Number](myv_jr-feat-Number.html) – [Number[obj]](myv_jr-feat-Number-obj.html) – [Number[psor]](myv_jr-feat-Number-psor.html) – [Number[subj]](myv_jr-feat-Number-subj.html) – [NumType](myv_jr-feat-NumType.html) – [PartForm](myv_jr-feat-PartForm.html) – [PartType](myv_jr-feat-PartType.html) – [Person](myv_jr-feat-Person.html) – [Person[obj]](myv_jr-feat-Person-obj.html) – [Person[psor]](myv_jr-feat-Person-psor.html) – [Person[subj]](myv_jr-feat-Person-subj.html) – [Polarity](myv_jr-feat-Polarity.html) – [PronType](myv_jr-feat-PronType.html) – [PunctSide](myv_jr-feat-PunctSide.html) – [Reflex](myv_jr-feat-Reflex.html) – [Style](myv_jr-feat-Style.html) – [Tense](myv_jr-feat-Tense.html) – [Typo](myv_jr-feat-Typo.html) – [Variant](myv_jr-feat-Variant.html) – [VerbForm](myv_jr-feat-VerbForm.html) – [VerbType](myv_jr-feat-VerbType.html)
+[Abbr](myv_jr-feat-Abbr.html) – [AdpType](myv_jr-feat-AdpType.html) – [AdvType](myv_jr-feat-AdvType.html) – [Animacy](myv_jr-feat-Animacy.html) – [Aspect](myv_jr-feat-Aspect.html) – [Case](myv_jr-feat-Case.html) – [Clitic](myv_jr-feat-Clitic.html) – [Connegative](myv_jr-feat-Connegative.html) – [Definite](myv_jr-feat-Definite.html) – [Degree](myv_jr-feat-Degree.html) – [Derivation](myv_jr-feat-Derivation.html) – [Evident](myv_jr-feat-Evident.html) – [ExtPos](myv_jr-feat-ExtPos.html) – [Gender](myv_jr-feat-Gender.html) – [Mood](myv_jr-feat-Mood.html) – [NameType](myv_jr-feat-NameType.html) – [NegationType](myv_jr-feat-NegationType.html) – [Nomzr](myv_jr-feat-Nomzr.html) – [NounType](myv_jr-feat-NounType.html) – [Number](myv_jr-feat-Number.html) – [Number[obj]](myv_jr-feat-Number-obj.html) – [Number[psor]](myv_jr-feat-Number-psor.html) – [Number[subj]](myv_jr-feat-Number-subj.html) – [NumType](myv_jr-feat-NumType.html) – [PartForm](myv_jr-feat-PartForm.html) – [PartType](myv_jr-feat-PartType.html) – [Person](myv_jr-feat-Person.html) – [Person[obj]](myv_jr-feat-Person-obj.html) – [Person[psor]](myv_jr-feat-Person-psor.html) – [Person[subj]](myv_jr-feat-Person-subj.html) – [Polarity](myv_jr-feat-Polarity.html) – [PronType](myv_jr-feat-PronType.html) – [PunctSide](myv_jr-feat-PunctSide.html) – [Reflex](myv_jr-feat-Reflex.html) – [Style](myv_jr-feat-Style.html) – [Tense](myv_jr-feat-Tense.html) – [Typo](myv_jr-feat-Typo.html) – [Variant](myv_jr-feat-Variant.html) – [VerbForm](myv_jr-feat-VerbForm.html) – [VerbType](myv_jr-feat-VerbType.html)
 
 ## Relations
 
-[acl](myv_jr-dep-acl.html) – [acl:relcl](myv_jr-dep-acl-relcl.html) – [advcl](myv_jr-dep-advcl.html) – [advcl:cmp](myv_jr-dep-advcl-cmp.html) – [advcl:eval](myv_jr-dep-advcl-eval.html) – [advcl:tcl](myv_jr-dep-advcl-tcl.html) – [advmod](myv_jr-dep-advmod.html) – [advmod:cau](myv_jr-dep-advmod-cau.html) – [advmod:cmp](myv_jr-dep-advmod-cmp.html) – [advmod:deg](myv_jr-dep-advmod-deg.html) – [advmod:eval](myv_jr-dep-advmod-eval.html) – [advmod:foc](myv_jr-dep-advmod-foc.html) – [advmod:lmod](myv_jr-dep-advmod-lmod.html) – [advmod:mmod](myv_jr-dep-advmod-mmod.html) – [advmod:tmod](myv_jr-dep-advmod-tmod.html) – [amod](myv_jr-dep-amod.html) – [appos](myv_jr-dep-appos.html) – [aux](myv_jr-dep-aux.html) – [aux:aspect](myv_jr-dep-aux-aspect.html) – [aux:cnd](myv_jr-dep-aux-cnd.html) – [aux:imp](myv_jr-dep-aux-imp.html) – [aux:nec](myv_jr-dep-aux-nec.html) – [aux:neg](myv_jr-dep-aux-neg.html) – [aux:opt](myv_jr-dep-aux-opt.html) – [aux:q](myv_jr-dep-aux-q.html) – [case](myv_jr-dep-case.html) – [cc](myv_jr-dep-cc.html) – [cc:preconj](myv_jr-dep-cc-preconj.html) – [ccomp](myv_jr-dep-ccomp.html) – [compound](myv_jr-dep-compound.html) – [compound:nn](myv_jr-dep-compound-nn.html) – [compound:prt](myv_jr-dep-compound-prt.html) – [compound:redup](myv_jr-dep-compound-redup.html) – [conj](myv_jr-dep-conj.html) – [cop](myv_jr-dep-cop.html) – [csubj](myv_jr-dep-csubj.html) – [csubj:cop](myv_jr-dep-csubj-cop.html) – [dep](myv_jr-dep-dep.html) – [det](myv_jr-dep-det.html) – [discourse](myv_jr-dep-discourse.html) – [dislocated](myv_jr-dep-dislocated.html) – [expl](myv_jr-dep-expl.html) – [fixed](myv_jr-dep-fixed.html) – [flat](myv_jr-dep-flat.html) – [flat:name](myv_jr-dep-flat-name.html) – [mark](myv_jr-dep-mark.html) – [nmod](myv_jr-dep-nmod.html) – [nmod:gobj](myv_jr-dep-nmod-gobj.html) – [nmod:gsubj](myv_jr-dep-nmod-gsubj.html) – [nmod:lmod](myv_jr-dep-nmod-lmod.html) – [nmod:poss](myv_jr-dep-nmod-poss.html) – [nsubj](myv_jr-dep-nsubj.html) – [nsubj:cop](myv_jr-dep-nsubj-cop.html) – [nummod](myv_jr-dep-nummod.html) – [obj](myv_jr-dep-obj.html) – [obl](myv_jr-dep-obl.html) – [obl:agent](myv_jr-dep-obl-agent.html) – [obl:cau](myv_jr-dep-obl-cau.html) – [obl:cmp](myv_jr-dep-obl-cmp.html) – [obl:inst](myv_jr-dep-obl-inst.html) – [obl:lmod](myv_jr-dep-obl-lmod.html) – [obl:own](myv_jr-dep-obl-own.html) – [obl:tmod](myv_jr-dep-obl-tmod.html) – [orphan](myv_jr-dep-orphan.html) – [parataxis](myv_jr-dep-parataxis.html) – [punct](myv_jr-dep-punct.html) – [reparandum](myv_jr-dep-reparandum.html) – [root](myv_jr-dep-root.html) – [vocative](myv_jr-dep-vocative.html) – [xcomp](myv_jr-dep-xcomp.html) – [xcomp:ds](myv_jr-dep-xcomp-ds.html)
+[acl](myv_jr-dep-acl.html) – [acl:relcl](myv_jr-dep-acl-relcl.html) – [advcl](myv_jr-dep-advcl.html) – [advcl:cmp](myv_jr-dep-advcl-cmp.html) – [advmod](myv_jr-dep-advmod.html) – [advmod:cmp](myv_jr-dep-advmod-cmp.html) – [amod](myv_jr-dep-amod.html) – [appos](myv_jr-dep-appos.html) – [aux](myv_jr-dep-aux.html) – [aux:aspect](myv_jr-dep-aux-aspect.html) – [aux:imp](myv_jr-dep-aux-imp.html) – [aux:neg](myv_jr-dep-aux-neg.html) – [aux:opt](myv_jr-dep-aux-opt.html) – [case](myv_jr-dep-case.html) – [cc](myv_jr-dep-cc.html) – [cc:preconj](myv_jr-dep-cc-preconj.html) – [ccomp](myv_jr-dep-ccomp.html) – [compound](myv_jr-dep-compound.html) – [compound:nn](myv_jr-dep-compound-nn.html) – [compound:prt](myv_jr-dep-compound-prt.html) – [compound:redup](myv_jr-dep-compound-redup.html) – [conj](myv_jr-dep-conj.html) – [cop](myv_jr-dep-cop.html) – [csubj](myv_jr-dep-csubj.html) – [csubj:cop](myv_jr-dep-csubj-cop.html) – [dep](myv_jr-dep-dep.html) – [det](myv_jr-dep-det.html) – [discourse](myv_jr-dep-discourse.html) – [dislocated](myv_jr-dep-dislocated.html) – [expl](myv_jr-dep-expl.html) – [fixed](myv_jr-dep-fixed.html) – [flat](myv_jr-dep-flat.html) – [flat:name](myv_jr-dep-flat-name.html) – [mark](myv_jr-dep-mark.html) – [nmod](myv_jr-dep-nmod.html) – [nmod:gobj](myv_jr-dep-nmod-gobj.html) – [nmod:gsubj](myv_jr-dep-nmod-gsubj.html) – [nmod:poss](myv_jr-dep-nmod-poss.html) – [nsubj](myv_jr-dep-nsubj.html) – [nsubj:cop](myv_jr-dep-nsubj-cop.html) – [nummod](myv_jr-dep-nummod.html) – [obj](myv_jr-dep-obj.html) – [obl](myv_jr-dep-obl.html) – [obl:agent](myv_jr-dep-obl-agent.html) – [obl:cmp](myv_jr-dep-obl-cmp.html) – [obl:own](myv_jr-dep-obl-own.html) – [obl:tmod](myv_jr-dep-obl-tmod.html) – [orphan](myv_jr-dep-orphan.html) – [parataxis](myv_jr-dep-parataxis.html) – [punct](myv_jr-dep-punct.html) – [reparandum](myv_jr-dep-reparandum.html) – [root](myv_jr-dep-root.html) – [vocative](myv_jr-dep-vocative.html) – [xcomp](myv_jr-dep-xcomp.html) – [xcomp:ds](myv_jr-dep-xcomp-ds.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -139,11 +139,11 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
 </ul>
 
 <ul>
-<li>This corpus contains 33 word types tagged as particles (PART): Арази, Бульчом, Каня, Некак, Эдь, Эна, Эрь, Эрьга, азё, бу, бути, буто, вай, вана, ведь, весемеде, военно, допрок, ды, жо, карадо, келя, кой, нать, но, оно, прок, седе, сехте, то, тыц, эно, ялатеке</li>
+<li>This corpus contains 35 word types tagged as particles (PART): Арази, Бульчом, Каня, Некак, Эдь, Эна, Эрь, Эрьга, азё, бу, бути, буто, вай, вана, ведь, весемеде, военно, допрок, ды, жо, карадо, келя, кой, ли, нать, но, оно, прок, седе, сехте, то, тыц, штоли, эно, ялатеке</li>
 </ul>
 
 <ul>
-<li>This corpus contains 63 lemmas tagged as pronouns (PRON): Тонатась, амезе, вейке, вейке-вейке, вейкенек-вейкенек, вейкест-вейкест, весе, весеме, истямат, истямо, кавонест, кие, кие-#кие, кие-бути, кияк, кодамо, кодамояк, колмо, колмонест, кона, кона-кона, конат-конат, коната, конаяк, ламо, ламонест, лия, лията, мезе, мезе-бути, мезе-мезе, мезеяк, мейсь, мельга, мень, меньгак, минь, мон, монсь, не, неть, ниленест, ось, се, секе, сесь, сон, сонсь, сынсь, сынь, ськамон, ськамонзо, те, теке, тензэ, тентеме, тон, тона, тонсь, эрьва, эрьвейке, эсенек, эсь</li>
+<li>This corpus contains 64 lemmas tagged as pronouns (PRON): Тонатась, амезе, вейке, вейке-вейке, вейкенек-вейкенек, вейкест-вейкест, весе, весеме, истямат, истямо, кавонест, кие, кие-#кие, кие-бути, кияк, кодамо, кодамояк, колмо, колмонест, кона, кона-кона, конат-конат, коната, конаяк, ламо, ламонест, лия, лията, мезе, мезе-бути, мезе-мезе, мезеяк, мейсь, мельга, мень, меньгак, минь, мон, монсь, не, неть, ниленест, ось, се, секе, сесь, сон, сонсь, сынсь, сынь, ськамон, ськамонзо, те, теке, тензэ, тентеме, тон, тона, тонсь, што, эрьва, эрьвейке, эсенек, эсь</li>
 </ul>
 
 <ul>
@@ -155,7 +155,7 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
 </ul>
 
 <ul>
-<li>This corpus contains 13 lemmas tagged as auxiliaries (AUX): а, аволь, бу, давай, кадык, кармамс, ли, савкшномс, савомс, улемс, ульнемс, штоли, эрявомс</li>
+<li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): а, аволь, бу, давай, кадык, кармамс, савкшномс, савомс, улемс, ульнемс, эрявомс</li>
 </ul>
 
 <ul>
@@ -282,9 +282,9 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
 <ul>
   <li>Plur,Sing
     <ul>
-      <li>ADJ: тиринь, Ванькс, Покштояк, беднойстэ, виде-паронь, виевде, виевстэ, кежейстэ, келей, кондямокс</li>
+      <li>ADJ: тиринь, Ванькс, Истямс, Покштояк, беднойстэ, виде-паронь, виевде, виевстэ, кежейстэ, келей</li>
       <li>ADP: ваксс, вакссо, вакска, мартонок, эйстэст</li>
-      <li>ADV: аламодо, Козонь, Лиясто, аламос, алкуксонь, вакска, колмоцеде, ламос, лиякс, мейлес</li>
+      <li>ADV: аламодо, Козонь, аламос, алкуксонь, вакска, колмоцеде, ламос, лиякс, мейлес, омбоцеде</li>
       <li>DET: конань, ламонь, лиянь, аламнеде, лиядо</li>
       <li>NOUN: лангс, ёнов, лангсо, кудов, ёндо, ланга, велень, каськас, шкане, вайгельсэ</li>
       <li>NOUN-Vnoun: Удомань, сиземань, туемадо</li>
@@ -304,11 +304,10 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
     <ul>
       <li>ADJ: кодамо, од, омбоце, мазый, лембе, паро, покш, виев, васень, валдо</li>
       <li>ADP: перька</li>
-      <li>ADV: ламо, истямо, мекев, аламо, кодамо, теке, Ков, Кодашка, алкукскак, байтяк</li>
-      <li>AUX: бу</li>
+      <li>ADV: ламо, истямо, мекев, аламо, кодамо, теке, Ванды, Ков, Кодашка, алкукскак</li>
       <li>DET: те, эрьва, ламо, се, истямо, лия, кона, зяро, аламо, эрьвась</li>
       <li>INTJ: Бах, Ой</li>
-      <li>NOUN: бандитэсь, ломань, прянзо, авазо, кенкшенть, тол, тев, чись, ведь, ломанесь</li>
+      <li>NOUN: бандитэсь, тев, ломань, прянзо, течи, авазо, кенкшенть, тол, чись, ведь</li>
       <li>NOUN-Vnoun: коцькерямонть, удомазо, ёртнема</li>
       <li>NUM: вейке, кавто, колмо, ниле, вейкесь, кавто-колмо, Комсь, вейксэ, вете, колмо-ниле</li>
       <li>PART: ялатеке, допрок, тыц, Каня, Эрь, ведь</li>
@@ -398,7 +397,7 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
     <ul>
       <li>ADJ: беднойстэ, виевстэ, кежейстэ, марявиксстэ</li>
       <li>ADP: эйстэ, эйстэст, эйстэнзэ, эйстэнек, вакссто, маласто, пингстэ, пингстэяк, эйстэдест, эйстэяк</li>
-      <li>ADV: сестэ, косто, тестэ, тосто, нусманясто, весёласто, сэтьместэ, бойкасто, вадрясто, вишкинестэ</li>
+      <li>ADV: косто, сестэ, тестэ, тосто, нусманясто, кеместэ, весёласто, сэтьместэ, бойкасто, вадрясто</li>
       <li>NOUN: лангсто, шкасто, кудостонть, таркастонть, кудосто, экшстэ, чистэ, шкастонть, велестэнть, вирьстэ</li>
       <li>PRON: конаньстэ</li>
       <li>PROPN: Зарецкойстэ, Инечистэ</li>
@@ -417,7 +416,7 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
       <li>NOUN: прянзо, велень, кедензэ, кенкшенть, бандитнэнь, моданть, тайганть, веленть, кудонть, роштятнень</li>
       <li>NOUN-Vnoun: Удомань, коцькерямонть, сиземань</li>
       <li>NUM: Веенстнэнь, Колмонть</li>
-      <li>PRON: сонзэ, минек, сынст, конань, монь, тень, тынк, кинь, мезень, тонь</li>
+      <li>PRON: сонзэ, минек, сынст, конань, монь, тень, тынк, мезень, кинь, тонь</li>
       <li>PROPN: Любань, Миколонь, Дуняшинэнь, Рамконь, Елеськань, Пальконь, Улянь, Федоровонь, Дёбаень, Кечаень</li>
       <li>VERB-Conv: ускозенть</li>
       <li>VERB-Part: молицятнень, сыцятнень, кундынь, ледицятнень, максыцянь, мизолдыцянть, миледицятнень, пансицянть, пелькстыцятнень, строицянь</li>
@@ -429,11 +428,11 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
 <ul>
   <li>Ill
     <ul>
-      <li>ADJ: омбоцес</li>
+      <li>ADJ: Истямс, омбоцес</li>
       <li>ADP: ваксс, коряс, эйзэнзэ, таркас, эйс, вакс, ваксозон, ваксозонзо, каршозост, малазонзо</li>
       <li>ADV: зярс, куватьс, козонь, тезэнь, лангс, тозонь, вейс, одс, Знярс, аламос</li>
       <li>NOUN: лангс, каськас, кудос, ланкс, мельс, юткс, лангозонзо, пес, тевс, велес</li>
-      <li>PRON: мезес, Истямс</li>
+      <li>PRON: мезес</li>
       <li>VERB-Conv: куломс, печтемс, пувамс</li>
       <li>VERB-Inf: сыредемезэть</li>
     </ul>
@@ -459,7 +458,7 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
     <ul>
       <li>ADJ: чуморксов</li>
       <li>ADP: икелев, алов, малав, томбалев, аловгак, удалов</li>
-      <li>ADV: ков, тов, тей, малав, тев, чопоньбелев, верев, мекев, васов, пелев</li>
+      <li>ADV: ков, тов, тей, малав, чопоньбелев, верев, мекев, васов, пелев, удалов</li>
       <li>NOUN: ёнов, кудов, ушов, велев, пелев, тайгав, вальмалов, ульцяв, вирев, удалов</li>
       <li>NUM: кавтов</li>
       <li>PROPN: Цярданев, Оренбургов, Цярданевгак</li>
@@ -484,11 +483,10 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
   <li>Nom
     <ul>
       <li>ADJ: кодамо, од, омбоце, мазый, кодат, лембе, паро, покш, виев, кельме</li>
-      <li>ADV: ламо, истямо, аламо, вельть, кодамо, теке, Ков, алкукскак, байтяк, истякак</li>
-      <li>AUX: бу</li>
+      <li>ADV: ламо, истямо, аламо, вельть, кодамо, теке, Ванды, Ков, алкукскак, байтяк</li>
       <li>DET: те, эрьва, ламо, истямо, лия, кона, зяро, истят, аламо, ламотне</li>
       <li>INTJ: Бах, Ой</li>
-      <li>NOUN: бандитэсь, партизантнэ, ялгат, ломань, авазо, тол, бандитнэ, тев, чись, ведь</li>
+      <li>NOUN: бандитэсь, партизантнэ, тев, ялгат, ломань, течи, авазо, тол, бандитнэ, чись</li>
       <li>NOUN-Part: моравтыцятне, азгондицят, ардыцятне, сёрмадыцятне, эрицятне</li>
       <li>NOUN-Vnoun: удомазо, ёртнема</li>
       <li>NUM: вейке, кавто, колмо, ниле, вейкесь, вейкеть, кавто-колмо, Комсь, вейксэ, вете</li>
@@ -574,16 +572,15 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
     <ul>
       <li>ADJ: кодамо, од, омбоце, мазый, лембе, паро, покш, виев, кельме, кодат</li>
       <li>ADP: перька, ваксс, вакссо, томбалев, ало, вакска, удалов</li>
-      <li>ADV: зярдояк, зярдо-бути, колияк, ламо, истямо, мекев, аламо, аламодо, вельть, кодамо</li>
-      <li>AUX: бу</li>
+      <li>ADV: колияк, ламо, зярдо-бути, зярдояк, истямо, мекев, аламо, аламодо, вельть, кодамо</li>
       <li>DET: эрьва, те, ламо, истямо, лия, кона, зяро, зярыя, истят, аламо</li>
       <li>INTJ: Бах, Ой</li>
-      <li>NOUN: лангс, ёнов, лангсо, кудов, ялгат, ломань, ёндо, ланга, велень, тол</li>
+      <li>NOUN: лангс, ёнов, лангсо, кудов, тев, ялгат, ломань, течи, ёндо, ланга</li>
       <li>NOUN-Part: азгондицят</li>
       <li>NOUN-Vnoun: Удомань, сиземань, туемадо, ёртнема</li>
       <li>NUM: вейке, кавто, колмо, ниле, вейкеть, кавто-колмо, колоньгеменьшка, Комсь, вейкеде, вейксэ</li>
       <li>PART: ялатеке, допрок, кой, тыц, Каня, Эрь, ведь</li>
-      <li>PRON: весе, те, мезе, кона, конань, неть, истямо, конат, тень, мезеяк</li>
+      <li>PRON: весе, те, мезе, кона, конань, неть, конат, истямо, тень, мезень</li>
       <li>PROPN: Микол, Ястребов, Любань, Палько, Люба, Федоров, Маря, Кирё, Кечай, Миколонь</li>
       <li>SCONJ: теке</li>
       <li>VERB: сэредиця, вечкевикс, касыця, молиця, Ярсамодо, аштиця, валгиця, вечкема, кадовозь, солавтозь</li>
@@ -707,7 +704,7 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX: Карминдерят, Эрявиндеряй, кармитьдеряй</li>
+      <li>AUX: бу, Карминдерят, Эрявиндеряй, кармитьдеряй</li>
       <li>SCONJ: бути</li>
       <li>VERB: Касындеряй, Кундындеринек, Прындеряй, вастындерясак, каявиндеряй, кулындеряй, лисятдеряй, неявтдеряй, сюкониндерят, ёвтатдеряй</li>
     </ul>
@@ -782,7 +779,7 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: бу, аволь, улевель, аволинь, аволить, аволизе, аволинек, кармавлинь, улевельть, эряволь</li>
+      <li>AUX: аволь, улевель, аволинь, аволить, аволизе, аволинек, кармавлинь, улевельть, эряволь</li>
       <li>VERB: Молевлить, Кортаволь, Содавлиньгак, аштевлить, вейсэндявольть, видевлинь, каванявлик, казевлинь, кандоволь, касоволь</li>
     </ul>
   </li>
@@ -849,7 +846,7 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
     <ul>
       <li>ADV: тесэ, истямо, сестэ, теке, сеске, тезэнь</li>
       <li>DET: те, истямо, не, се, истят, Нона, теке, Истятнэ, васенце, некень</li>
-      <li>PRON: те, неть, истямо, тень, теке, тона, се, секе, теде, истят</li>
+      <li>PRON: те, неть, истямо, тень, секе, теке, тона, се, теде, истят</li>
       <li>SCONJ: теке</li>
     </ul>
   </li>
@@ -858,9 +855,9 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: кодамояк, кодаткак</li>
+      <li>ADJ: кодамояк, кодамо, кодаткак</li>
       <li>ADV: кодаяк, кода-бути, косояк, зярдояк, Зярдо-бути, ковгак, косто-бути</li>
-      <li>PRON: кияк, мезеяк, киненьгак, киньгак, мень-бути, кодамо, конат, мезде-бути, мезе-бути, мезтькак</li>
+      <li>PRON: кияк, мезеяк, киненьгак, киньгак, мень-бути, конат, мезде-бути, мезе-бути, мезтькак, сень</li>
     </ul>
   </li>
 </ul>
@@ -898,7 +895,7 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
   <li>Rel
     <ul>
       <li>ADJ: кодамо</li>
-      <li>ADV: зярдо, кода, косо, козонь, зняро, кува, знярдо, зярс, ков, мекс</li>
+      <li>ADV: зярдо, кода, косо, козонь, кува, знярдо, зняро, зярс, ков, мекс</li>
       <li>DET: конань, конат</li>
       <li>PRON: конань, кона, конат, мезе, конатань, конатнень, кие, кинень, кить, конадонть</li>
     </ul>
@@ -965,6 +962,14 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
 </ul>
 
 <ul>
+  <li>Mult,Ord
+    <ul>
+      <li>ADV: омбоцеде, колмоцеде, васенцеде</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Ord
     <ul>
       <li>ADJ: омбоце, васенце, омбоцесь, колмоцесь, Васенценть, Колмоце, Колмоцекс, васень, кеменце, омбоценть</li>
@@ -975,15 +980,7 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
 </ul>
 
 <ul>
-  <li>OrdMult
-    <ul>
-      <li>ADV: омбоцеде, колмоцеде, васенцеде</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>OrdSets
+  <li>Ord,Sets
     <ul>
       <li>NUM: омбонст, Омбонстнэ, колмоценстнэ</li>
     </ul>
@@ -1130,7 +1127,7 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
       </li>
       <li>Man
         <ul>
-          <li>ADV: истя, кода, кодаяк, парсте, нусманясто, стамбарнэ, кода-бути, Видестэ, Парсте-беряньстэ, бойкасто</li>
+          <li>ADV: истя, кода, парсте, кодаяк, нусманясто, мазыйстэ, кеместэ, стамбарнэ, кода-бути, Видестэ</li>
           <li>SCONJ: кода</li>
         </ul>
       </li>
@@ -1147,8 +1144,8 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
       <li>Tim
         <ul>
           <li>ADP: пингстэ, перть, пингстэяк</li>
-          <li>ADV: мейле, ней, уш, яла, курок, эщо, таго, течи, зярдо, умок</li>
-          <li>NOUN: валске</li>
+          <li>ADV: мейле, ней, уш, яла, курок, эщо, таго, зярдо, умок, икеле</li>
+          <li>NOUN: течи, ванды, исяк, Течи-ванды, Течияк, Чить, Читькак, валске</li>
           <li>SCONJ: зярдо, кода</li>
         </ul>
       </li>
@@ -1167,7 +1164,7 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
           <li>AUX: улияк</li>
           <li>DET: конаськак, лиятневаяк</li>
           <li>INTJ: Видеяк</li>
-          <li>NOUN: пельдеяк, ёндояк, валгак, мороськак, пештензэяк, пряткак, таркаткак, шкаськак, Баягинезэяк, Велентькак</li>
+          <li>NOUN: пельдеяк, ёндояк, валгак, мороськак, пештензэяк, пряткак, таркаткак, читькак, шкаськак, Баягинезэяк</li>
           <li>NUM: вейкеськак, вейкеяк</li>
           <li>PRON: сонськак, седеяк, моненьгак, моньгак, сонгак, сонзэяк, Сынсткак, Тонгак, еськак, истяткак</li>
           <li>PROPN: Рамкояк, Бертязгак, Браунгак, Ведеськак, Груняяк, Кечайгак, Кирёяк, Любаяк, Миколгак, Смиткак</li>
@@ -1275,6 +1272,49 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
       <li>VocKaj
         <ul>
           <li>NOUN: лелякай</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>ADJ: истят</li>
+          <li>DET: эрьва</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADJ: мазы, Истямс</li>
+          <li>ADP: Мельга</li>
+          <li>ADV: косто, яла, зяро, истя, кода, коть, зняро, козонь, лиякс, мельга</li>
+          <li>DET: эрьва</li>
+          <li>NOUN: иеде, кудодо, мельс, прясто, судодо, уголдо, шкань</li>
+          <li>PART: карадо</li>
+          <li>PRON: секе, секень</li>
+          <li>SCONJ: теке</li>
+        </ul>
+      </li>
+      <li>AUX
+        <ul>
+          <li>AUX: а</li>
+        </ul>
+      </li>
+      <li>INTJ
+        <ul>
+          <li>AUX: А</li>
+          <li>INTJ: Ох, Угу</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>DET: эрьва</li>
+          <li>NUM: вейке</li>
+          <li>PRON: месть, мезе, што, весементь, ки, мезень</li>
         </ul>
       </li>
     </ul>
@@ -1451,6 +1491,11 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
       <li>Emp
         <ul>
           <li>AUX: аволь</li>
+        </ul>
+      </li>
+      <li>Int
+        <ul>
+          <li>PART: ли, штоли</li>
         </ul>
       </li>
     </ul>
@@ -1638,7 +1683,7 @@ In release 2.7 example sentences used in the Erzya-language grammar *Эрзян�
 </ul>
 
 <ul>
-<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: а, савомс, савкшномс, эрявомс, бу, кадык, кармамс.</li>
+<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: а, эрявомс, савомс, бу, савкшномс, кадык, кармамс.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1690,9 +1735,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN (1)</li>
       <li>VERB-Inf--NOUN-Abl (1)</li>
-      <li>VERB-Inf--NOUN-Gen (68)</li>
+      <li>VERB-Inf--NOUN-Gen (67)</li>
       <li>VERB-Inf--NOUN-Nom (32)</li>
-      <li>VERB-Inf--PRON-Gen (7)</li>
+      <li>VERB-Inf--PRON-Gen (8)</li>
       <li>VERB-Inf--PRON-Nom (11)</li>
       <li>VERB-Part--NOUN-Gen (10)</li>
       <li>VERB-Part--PRON-Gen (1)</li>
@@ -1721,6 +1766,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 38 relation subtypes: <a>acl:relcl</a>, <a>advcl:cmp</a>, <a>advcl:eval</a>, <a>advcl:tcl</a>, <a>advmod:cau</a>, <a>advmod:cmp</a>, <a>advmod:deg</a>, <a>advmod:eval</a>, <a>advmod:foc</a>, <a>advmod:lmod</a>, <a>advmod:mmod</a>, <a>advmod:tmod</a>, <a>aux:aspect</a>, <a>aux:cnd</a>, <a>aux:imp</a>, <a>aux:nec</a>, <a>aux:neg</a>, <a>aux:opt</a>, <a>aux:q</a>, <a>cc:preconj</a>, <a>compound:nn</a>, <a>compound:prt</a>, <a>compound:redup</a>, <a>csubj:cop</a>, <a>flat:name</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nmod:lmod</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>obl:agent</a>, <a>obl:cau</a>, <a>obl:cmp</a>, <a>obl:inst</a>, <a>obl:lmod</a>, <a>obl:own</a>, <a>obl:tmod</a>, <a>xcomp:ds</a></li>
+<li>This corpus uses 22 relation subtypes: <a>acl:relcl</a>, <a>advcl:cmp</a>, <a>advmod:cmp</a>, <a>aux:aspect</a>, <a>aux:imp</a>, <a>aux:neg</a>, <a>aux:opt</a>, <a>cc:preconj</a>, <a>compound:nn</a>, <a>compound:prt</a>, <a>compound:redup</a>, <a>csubj:cop</a>, <a>flat:name</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>obl:agent</a>, <a>obl:cmp</a>, <a>obl:own</a>, <a>obl:tmod</a>, <a>xcomp:ds</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>iobj</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

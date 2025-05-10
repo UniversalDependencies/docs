@@ -60,7 +60,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 4	паномъ	панъ	NOUN	NNA	Case=Dat|Gender=Masc|Number=Plur	2	conj	_	wf="паномъ"
 5	радѣ	рада	NOUN	NNI	Case=Dat|Gender=Fem|Number=Sing	4	appos	_	wf="радѣ"
 6	нашои	нашъ	DET	PRP$	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	wf="нашои"
-7	виделося	видетися	VERB	VBC	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Mid	0	root	_	wf="виделося"|SpaceAfter=No
+7	виделося	видетися	VERB	VBC	Aspect=Imp|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Mid	0	root	_	wf="виделося"|SpaceAfter=No
 8	,	,	PUNCT	-COMMA-	_	35	punct	_	_
 9	естьли	если	SCONJ	IN	_	15	mark	_	wf="естьли"
 10	тые	той	DET	DT	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	11	det	_	wf="тые"
@@ -100,7 +100,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 44	абы	абы	SCONJ	IN	Mood=Cnd	47	mark	_	wf="абы"
 45	слуги	слуга	NOUN	NNA	Case=Nom|Gender=Masc|Number=Plur	47	nsubj	_	wf="слуги"
 46	пꙋтъные	путный	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	45	amod	_	wf="пꙋтъные"
-47	мяли	мети	VERB	VBC	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	42	csubj	_	wf="мяли"
+47	мяли	мети	VERB	VBC	Aspect=Imp|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	42	csubj	_	wf="мяли"
 48	кому	хто	PRON	WP	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	51	iobj	_	wf="кому"
 49	в	въ	ADP	IN	_	50	case	_	wf="в"
 50	неволю	неволя	NOUN	NNI	Case=Acc|Gender=Fem|Number=Sing	51	obl	_	wf="неволю"

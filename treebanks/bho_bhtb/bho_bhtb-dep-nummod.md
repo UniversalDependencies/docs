@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-54 nodes (1%) are attached to their parents as `nummod`.
+55 nodes (1%) are attached to their parents as `nummod`.
 
-49 instances of `nummod` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.72222222222222.
+51 instances of `nummod` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.65454545454545.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (45; 83% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (4; 7% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt>-<tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt>-<tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt>-<tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (47; 85% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt>-<tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (4; 7% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt>-<tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt>-<tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

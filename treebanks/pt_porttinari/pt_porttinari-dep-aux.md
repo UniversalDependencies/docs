@@ -32,7 +32,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 7	irão	ir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	9	aux	9:aux	_
 8	se	se	PRON	_	Case=Nom|Person=3|PronType=Prs	9	expl	9:expl	_
 9	calar	calar	VERB	_	Number=Sing|Person=3|VerbForm=Inf	4	acl:relcl	4:acl:relcl	SpaceAfter=No
-10	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 6	sido	ser	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	8	cop	8:cop	_
 7	mais	mais	ADV	_	_	8	advmod	8:advmod	_
 8	perfeito	perfeito	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	4	xcomp	4:xcomp	SpaceAfter=No
-9	.	.	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 
@@ -71,7 +71,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 7	7	7	NUM	_	NumType=Card	4	nmod	4:nmod:de	_
 8	a	a	ADP	_	_	9	case	9:case	_
 9	1	1	NUM	_	NumType=Card	7	nmod	7:nmod:a	SpaceAfter=No
-10	?	?	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+10	?	?	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 

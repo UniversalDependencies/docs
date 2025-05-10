@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of xcomp in UD_Swiss_German-UZH'
+title:  'Statistics of xcomp in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: Relations: `xcomp`
+## Treebank Statistics: UD_Alemannic-UZH: Relations: `xcomp`
 
 This relation is universal.
 

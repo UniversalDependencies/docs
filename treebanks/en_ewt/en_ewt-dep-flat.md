@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2386 nodes (1%) are attached to their parents as `flat`.
+2467 nodes (1%) are attached to their parents as `flat`.
 
-2386 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.46898575020956.
+2467 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.44142683421159.
 
-The following 10 pairs of parts of speech are connected with `flat`: <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (2098; 88% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (201; 8% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (69; 3% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `flat`: <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1849; 75% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (201; 8% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (169; 7% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (87; 4% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (81; 3% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (37; 1% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (22; 1% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,25 +56,19 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 14 flat	color:blue
-1	HAS	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	2:aux	_
-2	MOVED	move	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
-3	TO	to	ADP	IN	_	6	case	6:case	_
-4	4783	4783	NUM	CD	NumForm=Digit|NumType=Card	6	nummod	6:nummod	_
-5	Bay	Bay	PROPN	NNP	Number=Sing	6	compound	6:compound	_
-6	Rd	Rd	PROPN	NNP	Number=Sing	2	obl	2:obl:to	_
-7	Saginaw	Saginaw	PROPN	NNP	Number=Sing	6	appos	6:appos	SpaceAfter=No
-8	,	,	PUNCT	,	_	9	punct	9:punct	_
-9	Michigan	Michigan	PROPN	NNP	Number=Sing	7	appos	7:appos	_
-10	48604	48604	NUM	CD	NumForm=Digit|NumType=Card	6	appos	6:appos	_
-11	(	(	PUNCT	-LRB-	_	12	punct	12:punct	SpaceAfter=No
-12	989	989	NUM	CD	NumForm=Digit|NumType=Card	6	list	6:list	ExtPos=PROPN|FlatType=Phone|SpaceAfter=No
-13	)	)	PUNCT	-RRB-	_	12	punct	12:punct	SpaceAfter=No
-14	755-1109	755-1109	NUM	CD	NumForm=Digit|NumType=Card	12	flat	12:flat	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 flat	color:blue
+1	Analyst	analyst	NOUN	NN	Number=Sing	2	compound	2:compound	_
+2	Team	team	NOUN	NN	Number=Sing	0	root	0:root	FlatType=Enumerated
+3	1	1	NUM	CD	NumForm=Digit|NumType=Card	2	flat	2:flat	SpaceAfter=No
+4	:	:	PUNCT	:	_	5	punct	5:punct	_
+5	Coach	coach	NOUN	NN	Number=Sing	2	list	2:list	SpaceAfter=No
+6	:	:	PUNCT	:	_	7	punct	7:punct	_
+7	Lisa	Lisa	PROPN	NNP	Number=Sing	5	appos	5:appos	_
+8	Gilette	Gilette	PROPN	NNP	Number=Sing	7	flat	7:flat	_
 
 ~~~
 

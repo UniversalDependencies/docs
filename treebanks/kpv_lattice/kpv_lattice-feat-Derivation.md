@@ -7,24 +7,23 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Features: `Derivation`
 
 This feature is language-specific.
-It occurs with 22 different values: `An`, `Ana`, `Anin`, `CompMod`, `Ig`, `Igkost`, `Igkosta`, `Igkosti`, `Igmoz`, `Igtyr`, `Igtyrji`, `Ik`, `Ko`, `Oma`, `Omon`, `PrivMod`, `ProprietiveMod`, `Sjuro`, `TempMod`, `VAbe`, `VTer`, `Voc`.
+It occurs with 21 different values: `An`, `Ana`, `CompMod`, `Ig`, `Igkost`, `Igkosta`, `Igkosti`, `Igmoz`, `Igtyr`, `Igtyrji`, `Ik`, `Ko`, `Oma`, `Omon`, `PrivMod`, `ProprietiveMod`, `Sjuro`, `TempMod`, `VAbe`, `VTer`, `Voc`.
 
-177 tokens (2%) have a non-empty value of `Derivation`.
-147 types (4%) occur at least once with a non-empty value of `Derivation`.
-133 lemmas (6%) occur at least once with a non-empty value of `Derivation`.
-The feature is used with 5 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (100; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (32; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (18; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (12; 0% instances).
+176 tokens (2%) have a non-empty value of `Derivation`.
+146 types (4%) occur at least once with a non-empty value of `Derivation`.
+132 lemmas (6%) occur at least once with a non-empty value of `Derivation`.
+The feature is used with 5 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (99; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (32; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (18; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (12; 0% instances).
 
 ### `VERB`
 
-100 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Derivation`.
+99 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Derivation`.
 
-The most frequent other feature values with which `VERB` and `Derivation` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (100; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (100; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (98; 98%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (60; 60%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (55; 55%).
+The most frequent other feature values with which `VERB` and `Derivation` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (99; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (99; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (97; 98%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (60; 61%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (55; 56%).
 
 `VERB` tokens may have the following values of `Derivation`:
 
 * `An` (23; 23% of non-empty `Derivation`): <em>Вӧралан, Пожъясян, дзордзалан, дрӧжжитан, жалитан, колан, кылан, личкан, лэччан, мынтан</em>
 * `Ana` (11; 11% of non-empty `Derivation`): <em>аддзанаӧн, вӧрзьӧдланаӧсь, колана, тӧдчана, уськӧданаыс, чуксаланаӧсь, чышъяна, шыбитана, ышӧдана, юасянаӧн</em>
-* `Anin` (1; 1% of non-empty `Derivation`): <em>чӧвтанінӧ</em>
 * `Ig` (24; 24% of non-empty `Derivation`): <em>петігӧн, Вермасигъясад, Вундігӧн, Гымалігад, Зэригас, Пуктысигъясӧ, Рытйысигъясын, босьтігас, велӧдчиганыс, келалігъясын</em>
 * `Igkost` (1; 1% of non-empty `Derivation`): <em>чӧвтігкостаныс</em>
 * `Igkosta` (1; 1% of non-empty `Derivation`): <em>велӧдчигкостаыс</em>
@@ -44,7 +43,7 @@ The most frequent other feature values with which `VERB` and `Derivation` co-occ
   <tr><td><tt><tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td><em>Мунігмозыс</em></td><td></td></tr>
 </table>
 
-`Derivation` seems to be **lexical feature** of `VERB`. 91% lemmas (78) occur only with one value of `Derivation`.
+`Derivation` seems to be **lexical feature** of `VERB`. 91% lemmas (77) occur only with one value of `Derivation`.
 
 ### `NOUN`
 

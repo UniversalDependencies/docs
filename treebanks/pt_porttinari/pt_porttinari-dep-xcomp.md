@@ -27,7 +27,7 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 3	podem	poder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	ser	ser	AUX	_	VerbForm=Inf	5	aux:pass	5:aux:pass	_
 5	feitas	fazer	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	3	xcomp	3:xcomp	SpaceAfter=No
-6	.	.	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 
@@ -49,7 +49,7 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 9	ser	ser	AUX	_	VerbForm=Inf	10	cop	10:cop	_
 10	secundária	secundário	ADJ	_	Gender=Fem|Number=Sing	8	xcomp	8:xcomp	SpaceAfter=No
 11	"	"	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
-12	.	.	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
+12	.	.	PUNCT	_	_	8	punct	8:punct	_
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 7	de	de	ADP	_	_	9	case	9:case	_
 8	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	9:det	_
 9	Rocinha	Rocinha	PROPN	_	_	6	nmod	6:nmod:de	SpaceAfter=No
-10	.	.	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	5:punct	_
 
 ~~~
 

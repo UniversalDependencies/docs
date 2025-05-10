@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek.
 
 Repository: [UD_Slovenian-SSJ](https://github.com/UniversalDependencies/UD_Slovenian-SSJ)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_ssj215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_ssj216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -51,6 +51,10 @@ The SSJ treebank is the reference UD treebank for Slovenian, consisting of appro
 The original Slovenian SSJ UD Treebank, first released as part of UD v1.2 in 2015 (Dobrovoljc et al. 2017), was created through a fine-grained rule-based conversion of the ssj500k treebank (Krek et al. 2021), the largest collection of manually syntactically annotated data in Slovenian, originally annotated in the JOS annotation scheme (Erjavec et al. 2010). With the exception of the manual disambiguation of the AUX and VERB occurrences of the verb 'biti' (to be), the conversion was fully automatic, based on a set of rules for both morphosyntactic and syntactic layer, which include different lexical, morphological and dependency features, while the original ssj500k tokenization and lemmatization principles remained unchanged. The rules and conversion scripts are available at https://github.com/clarinsi/jos2ud.
 
 In 2022, the original SSJ UD treebank was partially manually revised to correct the previously identified annotation inconsistencies, and implement the newly introduced changes in the annotation guidelines. In addition, the treebank was substantially extended to almost double the original size, with new manually annotated sentences coming from the previously unreleased subset of the ssj500k corpus, and the Slovenian subset of the ELEXIS parallel sense-annotated corpus of Wikipedia texts (Martelli et al. 2021). Despite the extension, the data split remained unchanged with the original SSJ sentences being preserved as part of the same train-dev-test subset. More details on the latest SSJ UD version are given in Dobrovoljc and Ljubešić (2022).
+
+The metadata for most documents in the treebank includes also the document genre. The documents fall into six different genre categories: newspaper, magazine, internet, professional, fiction, other.
+
+The *issues* section of this repository serves as a platform for general discussion regarding suggestions for the Slovenian UD guidelines and other open issues.
 
 ## Acknowledgments
 

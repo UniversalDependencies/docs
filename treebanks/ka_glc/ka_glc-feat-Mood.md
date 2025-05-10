@@ -52,14 +52,14 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> VERB</tt> (369; 99%),
-<tt>VERB --[<tt><a href="ka_glc-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (138; 96%),
+<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> VERB</tt> (368; 99%),
+<tt>VERB --[<tt><a href="ka_glc-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (139; 96%),
 <tt>VERB --[<tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (138; 97%),
 <tt>VERB --[<tt><a href="ka_glc-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (114; 97%),
-<tt>VERB --[<tt><a href="ka_glc-dep-acl.html">acl</a></tt>]--> VERB</tt> (33; 94%),
-<tt>VERB --[<tt><a href="ka_glc-dep-aux.html">aux</a></tt>]--> AUX</tt> (30; 97%),
-<tt>VERB --[<tt><a href="ka_glc-dep-cop.html">cop</a></tt>]--> AUX</tt> (24; 100%),
+<tt>VERB --[<tt><a href="ka_glc-dep-acl.html">acl</a></tt>]--> VERB</tt> (32; 94%),
+<tt>VERB --[<tt><a href="ka_glc-dep-aux.html">aux</a></tt>]--> AUX</tt> (29; 97%),
+<tt>VERB --[<tt><a href="ka_glc-dep-cop.html">cop</a></tt>]--> AUX</tt> (23; 100%),
 <tt>VERB --[<tt><a href="ka_glc-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (6; 86%),
 <tt>VERB --[<tt><a href="ka_glc-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (4; 100%),
-<tt>VERB --[<tt><a href="ka_glc-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (3; 100%).
+<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 100%).
 

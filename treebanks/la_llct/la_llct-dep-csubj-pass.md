@@ -118,7 +118,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 18	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Dem	20	cc	_	_
 19	pro	pro	ADP	r|r|-|-|-|-|-|-|-|-	_	20	case	_	_
 20	sanvuinitatem	sanguinitas	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	8	csubj:pass	_	_
-21	quamque	quamque	CCONJ	c|c|-|-|-|-|-|-|-|-	_	25	cc	_	_
+21	quamque	quamque	CCONJ	c|c|-|-|-|-|-|-|-|-	ExtPos=CCONJ	25	cc	_	_
 22	etiam	etiam	ADV	d|d|-|-|-|-|-|-|-|-	_	21	fixed	_	_
 23	pro	pro	ADP	r|r|-|-|-|-|-|-|-|-	_	25	case	_	_
 24	proprio	proprius	ADJ	a|a|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	25	amod	_	_

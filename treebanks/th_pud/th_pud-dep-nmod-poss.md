@@ -22,20 +22,20 @@ The following 10 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 nmod:poss	color:blue
-1	เห็น	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=hen
-2	ได้	_	AUX	MD	_	1	aux	_	SpaceAfter=No|Translit=dai²
-3	ชัด	_	ADV	RB	_	1	advmod	_	SpaceAfter=No|Translit=ćʰâd
-4	ที่สุด	_	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=dʰí¹sud
-5	เมื่อ	_	ADP	IN	_	10	mark	_	SpaceAfter=No|Translit=műá¹
-6	ชื่อ	_	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=ćʰű¹'
-7	ของ	_	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=kʰɔːŋ
-8	ดารา	_	NOUN	NN	_	6	nmod:poss	_	SpaceAfter=No|Translit=dárá
-9	นั้น	_	DET	DT	_	8	det	_	SpaceAfter=No|Translit=nâ²n
-10	หา	_	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=há
-11	ยาก	_	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=yák
-12	ตั้ง	_	VERB	VV	_	14	case	_	SpaceAfter=No|Translit=tâ²ŋ
-13	แต่	_	ADP	IN	_	12	fixed	_	SpaceAfter=No|Translit=tǽ¹
-14	แรก	_	ADJ	JJ	_	10	xcomp	_	Translit=rǽk
+1	เห็น	เห็น	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=hen|LTranslit=hen
+2	ได้	ได้	AUX	MD	_	1	aux	_	SpaceAfter=No|Translit=dai²|LTranslit=dai²
+3	ชัด	ชัด	ADV	RB	_	1	advmod	_	SpaceAfter=No|Translit=ćʰâd|LTranslit=ćʰâd
+4	ที่สุด	ที่สุด	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=dʰí¹sud|LTranslit=dʰí¹sud
+5	เมื่อ	เมื่อ	ADP	IN	_	10	mark	_	SpaceAfter=No|Translit=műá¹|LTranslit=műá¹
+6	ชื่อ	ชื่อ	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=ćʰű¹'|LTranslit=ćʰű¹'
+7	ของ	ของ	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
+8	ดารา	ดารา	NOUN	NN	_	6	nmod:poss	_	SpaceAfter=No|Translit=dárá|LTranslit=dárá
+9	นั้น	นั้น	DET	DT	_	8	det	_	SpaceAfter=No|Translit=nâ²n|LTranslit=nâ²n
+10	หา	หา	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=há|LTranslit=há
+11	ยาก	ยาก	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=yák|LTranslit=yák
+12	ตั้ง	ตั้ง	VERB	VV	_	14	case	_	SpaceAfter=No|Translit=tâ²ŋ|LTranslit=tâ²ŋ
+13	แต่	แต่	ADP	IN	_	12	fixed	_	SpaceAfter=No|Translit=tǽ¹|LTranslit=tǽ¹
+14	แรก	แรก	ADJ	JJ	_	10	xcomp	_	Translit=rǽk|LTranslit=rǽk
 
 ~~~
 
@@ -46,11 +46,11 @@ The following 10 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 nmod:poss	color:blue
-1	แล้ว	_	CCONJ	CC	_	2	cc	_	SpaceAfter=No|Translit=lǽ²w
-2	ท่าที	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=dʰá¹dʰí
-3	ของ	_	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=kʰɔːŋ
-4	ออสเตรเลีย	_	PROPN	NNP	_	2	nmod:poss	_	SpaceAfter=No|Translit='ɔːstérlíá
-5	ล่ะ	_	PART	EP	_	2	discourse	_	Translit=la¹
+1	แล้ว	แล้ว	CCONJ	CC	_	2	cc	_	SpaceAfter=No|Translit=lǽ²w|LTranslit=lǽ²w
+2	ท่าที	ท่าที	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=dʰá¹dʰí|LTranslit=dʰá¹dʰí
+3	ของ	ของ	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
+4	ออสเตรเลีย	ออสเตรเลีย	PROPN	NNP	_	2	nmod:poss	_	SpaceAfter=No|Translit='ɔːstérlíá|LTranslit='ɔːstérlíá
+5	ล่ะ	ล่ะ	PART	EP	_	2	discourse	_	Translit=la¹|LTranslit=la¹
 
 ~~~
 
@@ -61,21 +61,21 @@ The following 10 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 14 nmod:poss	color:blue
-1	เธอ	_	PRON	PRP	Person=3	3	nsubj:pass	_	SpaceAfter=No|Translit=ḏʰóé
-2	ถูก	_	AUX	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No|Translit=tʰúk
-3	ตั้ง	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tâ²ŋ
-4	ข้อหา	_	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=kʰ²'há
-5	ฐาน	_	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=ṭʰán
-6	พยายาม	_	VERB	VV	_	3	advcl	_	SpaceAfter=No|Translit=bʰyáyám
-7	ฆ่า	_	VERB	VV	_	6	xcomp	_	SpaceAfter=No|Translit=qʰá¹
-8	บุตร	_	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=butr
-9	สาว	_	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=sáw
-10	วัย	_	NOUN	NN	_	8	compound	_	Translit=wây
-11	2	_	NUM	CD	_	12	nummod	_	Translit=2
-12	ขวบ	_	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=kʰwb
-13	ของ	_	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=kʰɔːŋ
-14	เธอ	_	PRON	PRP	Person=3	8	nmod:poss	_	SpaceAfter=No|Translit=ḏʰóé
-15	ด้วย	_	ADV	RB	_	3	advmod	_	Translit=d²wy
+1	เธอ	เธอ	PRON	PRP	Person=3	3	nsubj:pass	_	SpaceAfter=No|Translit=ḏʰóé|LTranslit=ḏʰóé
+2	ถูก	ถูก	AUX	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No|Translit=tʰúk|LTranslit=tʰúk
+3	ตั้ง	ตั้ง	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tâ²ŋ|LTranslit=tâ²ŋ
+4	ข้อหา	ข้อหา	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=kʰ²'há|LTranslit=kʰ²'há
+5	ฐาน	ฐาน	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=ṭʰán|LTranslit=ṭʰán
+6	พยายาม	พยายาม	VERB	VV	_	3	advcl	_	SpaceAfter=No|Translit=bʰyáyám|LTranslit=bʰyáyám
+7	ฆ่า	ฆ่า	VERB	VV	_	6	xcomp	_	SpaceAfter=No|Translit=qʰá¹|LTranslit=qʰá¹
+8	บุตร	บุตร	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=butr|LTranslit=butr
+9	สาว	สาว	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=sáw|LTranslit=sáw
+10	วัย	วัย	NOUN	NN	_	8	compound	_	Translit=wây|LTranslit=wây
+11	2	2	NUM	CD	_	12	nummod	_	Translit=2|LTranslit=2
+12	ขวบ	ขวบ	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=kʰwb|LTranslit=kʰwb
+13	ของ	ของ	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
+14	เธอ	เธอ	PRON	PRP	Person=3	8	nmod:poss	_	SpaceAfter=No|Translit=ḏʰóé|LTranslit=ḏʰóé
+15	ด้วย	ด้วย	ADV	RB	_	3	advmod	_	Translit=d²wy|LTranslit=d²wy
 
 ~~~
 

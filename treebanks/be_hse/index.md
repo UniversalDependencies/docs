@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Angelika Peljak-Łapińska, Daria Petrova, Yana Shishkina.
 
 Repository: [UD_Belarusian-HSE](https://github.com/UniversalDependencies/UD_Belarusian-HSE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbe_hse215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbe_hse216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -64,11 +64,11 @@ We thank Uladzimir Koshchanka (Уладзімір Кошчанка, koshul@gmail
 
 ## Features
 
-[Abbr](be_hse-feat-Abbr.html) – [Animacy](be_hse-feat-Animacy.html) – [Aspect](be_hse-feat-Aspect.html) – [Case](be_hse-feat-Case.html) – [Degree](be_hse-feat-Degree.html) – [Foreign](be_hse-feat-Foreign.html) – [Gender](be_hse-feat-Gender.html) – [InflClass](be_hse-feat-InflClass.html) – [Mood](be_hse-feat-Mood.html) – [NameType](be_hse-feat-NameType.html) – [Number](be_hse-feat-Number.html) – [NumType](be_hse-feat-NumType.html) – [Person](be_hse-feat-Person.html) – [Polarity](be_hse-feat-Polarity.html) – [Poss](be_hse-feat-Poss.html) – [PronType](be_hse-feat-PronType.html) – [Reflex](be_hse-feat-Reflex.html) – [Tense](be_hse-feat-Tense.html) – [Typo](be_hse-feat-Typo.html) – [Variant](be_hse-feat-Variant.html) – [VerbForm](be_hse-feat-VerbForm.html) – [Voice](be_hse-feat-Voice.html)
+[Abbr](be_hse-feat-Abbr.html) – [Animacy](be_hse-feat-Animacy.html) – [Aspect](be_hse-feat-Aspect.html) – [Case](be_hse-feat-Case.html) – [Degree](be_hse-feat-Degree.html) – [ExtPos](be_hse-feat-ExtPos.html) – [Foreign](be_hse-feat-Foreign.html) – [Gender](be_hse-feat-Gender.html) – [InflClass](be_hse-feat-InflClass.html) – [Mood](be_hse-feat-Mood.html) – [NameType](be_hse-feat-NameType.html) – [Number](be_hse-feat-Number.html) – [NumType](be_hse-feat-NumType.html) – [Person](be_hse-feat-Person.html) – [Polarity](be_hse-feat-Polarity.html) – [Poss](be_hse-feat-Poss.html) – [PronType](be_hse-feat-PronType.html) – [Reflex](be_hse-feat-Reflex.html) – [Tense](be_hse-feat-Tense.html) – [Typo](be_hse-feat-Typo.html) – [Variant](be_hse-feat-Variant.html) – [VerbForm](be_hse-feat-VerbForm.html) – [Voice](be_hse-feat-Voice.html)
 
 ## Relations
 
-[acl](be_hse-dep-acl.html) – [acl:relcl](be_hse-dep-acl-relcl.html) – [advcl](be_hse-dep-advcl.html) – [advmod](be_hse-dep-advmod.html) – [amod](be_hse-dep-amod.html) – [appos](be_hse-dep-appos.html) – [aux](be_hse-dep-aux.html) – [aux:pass](be_hse-dep-aux-pass.html) – [case](be_hse-dep-case.html) – [cc](be_hse-dep-cc.html) – [ccomp](be_hse-dep-ccomp.html) – [compound](be_hse-dep-compound.html) – [conj](be_hse-dep-conj.html) – [cop](be_hse-dep-cop.html) – [csubj](be_hse-dep-csubj.html) – [csubj:outer](be_hse-dep-csubj-outer.html) – [csubj:pass](be_hse-dep-csubj-pass.html) – [dep](be_hse-dep-dep.html) – [det](be_hse-dep-det.html) – [discourse](be_hse-dep-discourse.html) – [dislocated](be_hse-dep-dislocated.html) – [expl](be_hse-dep-expl.html) – [fixed](be_hse-dep-fixed.html) – [flat](be_hse-dep-flat.html) – [flat:foreign](be_hse-dep-flat-foreign.html) – [flat:name](be_hse-dep-flat-name.html) – [goeswith](be_hse-dep-goeswith.html) – [iobj](be_hse-dep-iobj.html) – [list](be_hse-dep-list.html) – [mark](be_hse-dep-mark.html) – [nmod](be_hse-dep-nmod.html) – [nsubj](be_hse-dep-nsubj.html) – [nsubj:outer](be_hse-dep-nsubj-outer.html) – [nsubj:pass](be_hse-dep-nsubj-pass.html) – [nummod](be_hse-dep-nummod.html) – [nummod:gov](be_hse-dep-nummod-gov.html) – [obj](be_hse-dep-obj.html) – [obl](be_hse-dep-obl.html) – [obl:agent](be_hse-dep-obl-agent.html) – [orphan](be_hse-dep-orphan.html) – [parataxis](be_hse-dep-parataxis.html) – [punct](be_hse-dep-punct.html) – [reparandum](be_hse-dep-reparandum.html) – [root](be_hse-dep-root.html) – [vocative](be_hse-dep-vocative.html) – [xcomp](be_hse-dep-xcomp.html)
+[acl](be_hse-dep-acl.html) – [acl:relcl](be_hse-dep-acl-relcl.html) – [advcl](be_hse-dep-advcl.html) – [advmod](be_hse-dep-advmod.html) – [amod](be_hse-dep-amod.html) – [appos](be_hse-dep-appos.html) – [aux](be_hse-dep-aux.html) – [aux:pass](be_hse-dep-aux-pass.html) – [case](be_hse-dep-case.html) – [cc](be_hse-dep-cc.html) – [ccomp](be_hse-dep-ccomp.html) – [compound](be_hse-dep-compound.html) – [conj](be_hse-dep-conj.html) – [cop](be_hse-dep-cop.html) – [csubj](be_hse-dep-csubj.html) – [csubj:outer](be_hse-dep-csubj-outer.html) – [csubj:pass](be_hse-dep-csubj-pass.html) – [dep](be_hse-dep-dep.html) – [det](be_hse-dep-det.html) – [discourse](be_hse-dep-discourse.html) – [dislocated](be_hse-dep-dislocated.html) – [expl](be_hse-dep-expl.html) – [fixed](be_hse-dep-fixed.html) – [flat](be_hse-dep-flat.html) – [flat:foreign](be_hse-dep-flat-foreign.html) – [flat:name](be_hse-dep-flat-name.html) – [goeswith](be_hse-dep-goeswith.html) – [iobj](be_hse-dep-iobj.html) – [list](be_hse-dep-list.html) – [mark](be_hse-dep-mark.html) – [nmod](be_hse-dep-nmod.html) – [nsubj](be_hse-dep-nsubj.html) – [nsubj:outer](be_hse-dep-nsubj-outer.html) – [nsubj:pass](be_hse-dep-nsubj-pass.html) – [nummod](be_hse-dep-nummod.html) – [nummod:gov](be_hse-dep-nummod-gov.html) – [obj](be_hse-dep-obj.html) – [obl](be_hse-dep-obl.html) – [obl:agent](be_hse-dep-obl-agent.html) – [obl:depict](be_hse-dep-obl-depict.html) – [obl:float](be_hse-dep-obl-float.html) – [obl:tmod](be_hse-dep-obl-tmod.html) – [orphan](be_hse-dep-orphan.html) – [parataxis](be_hse-dep-parataxis.html) – [parataxis:discourse](be_hse-dep-parataxis-discourse.html) – [punct](be_hse-dep-punct.html) – [reparandum](be_hse-dep-reparandum.html) – [root](be_hse-dep-root.html) – [vocative](be_hse-dep-vocative.html) – [xcomp](be_hse-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -105,7 +105,7 @@ We thank Uladzimir Koshchanka (Уладзімір Кошчанка, koshul@gmail
 </ul>
 
 <ul>
-<li>This corpus contains 67 lemmas tagged as pronouns (PRON): -што, адносіна, ані, беларуска, вы, вышыня, год, гэта, гэты, ен, каторы, мы, нехта, нешта, ніхто, нічагусенька, нішто, ордэн, сабе, сябе, сё, таксона, то, тое, той, ты, уcе, увесь, усе, усяк, усё, хто, хто-небудзь, хто-та, хтось, хтосьці, что, што, што-небудзь, штое, штокольвек, штосьці, это, я, яго, яе, якой, які, якіе, яна, яно, яны, ён, ▶️Хто, ☑️вы, ⚡️мы, ✔️гэта, ✨мы, ✨што, ❗️Усе, 🌔Гэта, 🎄мы, 💬мы, 📌Што, 📣што, 🙌усе, 🤔што</li>
+<li>This corpus contains 66 lemmas tagged as pronouns (PRON): -што, адносіна, ані, беларуска, вы, вышыня, гэта, гэты, ен, каторы, мы, нехта, нешта, ніхто, нічагусенька, нішто, ордэн, сабе, сябе, сё, таксона, то, тое, той, ты, уcе, увесь, усе, усяк, усё, хто, хто-небудзь, хто-та, хтось, хтосьці, что, што, што-небудзь, штое, штокольвек, штосьці, это, я, яго, яе, якой, які, якіе, яна, яно, яны, ён, ▶️Хто, ☑️вы, ⚡️мы, ✔️гэта, ✨мы, ✨што, ❗️Усе, 🌔Гэта, 🎄мы, 💬мы, 📌Што, 📣што, 🙌усе, 🤔што</li>
 </ul>
 
 <ul>
@@ -205,8 +205,8 @@ We thank Uladzimir Koshchanka (Уладзімір Кошчанка, koshul@gmail
       <li>PRON: ён, які, хто, яго, яму, якім, ім, якога, каго, ніхто</li>
       <li>PROPN: Менску, Лукашэнка, Лукашэнкі, Менск, Лукашэнку, Сяргей, Ціханоўскага, Аляксандар, Андрэй, Машэрава</li>
       <li>SYM: °С</li>
-      <li>VERB: сказаў, стаў, памёр, атрымаў, заявіў, расказаў, прайшоў, мог, адказаў, заклікаў</li>
-      <li>VERB-Fin: сказаў, стаў, памёр, атрымаў, заявіў, расказаў, прайшоў, мог, адказаў, заклікаў</li>
+      <li>VERB: сказаў, стаў, памёр, атрымаў, заявіў, расказаў, прайшоў, мог, заклікаў, напісаў</li>
+      <li>VERB-Fin: сказаў, стаў, памёр, атрымаў, заявіў, расказаў, прайшоў, мог, заклікаў, напісаў</li>
       <li>VERB-Part: затрыманы, прысвечаны, вызвалены, затрыманага, пабудаваны, асуджаны, створаны, перакананы, прызначаны, заснаваны</li>
     </ul>
   </li>
@@ -379,7 +379,7 @@ We thank Uladzimir Koshchanka (Уладзімір Кошчанка, koshul@gmail
 <ul>
   <li>Loc
     <ul>
-      <li>ADJ: надзвычайных, беларускай, менскім, беларускім, цывільным, розных, сацыяльных, новым, першым, курапацкай</li>
+      <li>ADJ: надзвычайных, беларускай, менскім, беларускім, цывільным, розных, сацыяльных, новым, курапацкай, першым</li>
       <li>AUX: БУДЗЕ</li>
       <li>DET: нашым, тым, гэтым, сваім, адным, нашай, сваёй, гэтай, ўсіх, адной</li>
       <li>NOUN: годзе, сiтуацыях, цэнтры, краіне, выніку, горадзе, месцы, сайце, сядзібе, варце</li>
@@ -646,7 +646,7 @@ We thank Uladzimir Koshchanka (Уладзімір Кошчанка, koshul@gmail
   <li>Dem
     <ul>
       <li>DET: гэты, тым, той, гэтыя, гэтым, тых, гэтую, гэтай, гэтага, такія</li>
-      <li>PRON: гэта, тое, таго, тым, гэтым, гэтага, то, нечага, таму, гэтаму</li>
+      <li>PRON: гэта, тое, таго, тым, гэтым, гэтага, то, нечага, таму, Т.</li>
     </ul>
   </li>
 </ul>
@@ -829,6 +829,32 @@ We thank Uladzimir Koshchanka (Уладзімір Кошчанка, koshul@gmail
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>DET: такіх, такой, такія</li>
+          <li>PRON: гэта, што</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: у</li>
+          <li>PRON: тым, усё, ўсё</li>
+          <li>SCONJ: як</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>DET: адно</li>
+          <li>PRON: То, Тым, Т., г., гэта</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -962,7 +988,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(па) (2)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
       <li>VERB-Fin--NOUN-Loc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (7514)</li>
+      <li>VERB-Fin--NOUN-Nom (7516)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(а) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(на) (2)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(па) (1)</li>
@@ -970,7 +996,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Voc (1)</li>
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Gen (26)</li>
-      <li>VERB-Fin--PRON-Nom (4006)</li>
+      <li>VERB-Fin--PRON-Nom (4007)</li>
       <li>VERB-Inf--NOUN (1)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(па) (1)</li>
@@ -978,7 +1004,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Gen-ADP(да) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(каля) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(па) (1)</li>
-      <li>VERB-Inf--NOUN-Nom (196)</li>
+      <li>VERB-Inf--NOUN-Nom (195)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
       <li>VERB-Inf--PRON-Nom (113)</li>
       <li>VERB-Part--NOUN-Nom (3)</li>
@@ -1017,7 +1043,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(праз) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(у) (7)</li>
       <li>VERB-Fin--NOUN-Dat (16)</li>
-      <li>VERB-Fin--NOUN-Gen (650)</li>
+      <li>VERB-Fin--NOUN-Gen (652)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(ад) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(да) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(за) (10)</li>
@@ -1107,7 +1133,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 80 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: уяўляць сабой, адчуваць сябе, адчуць сябе, берагчы сябе, лічыць сябе, дадаваць сабе, паводзіць сябе, паспрабаваць сябе, уяўляць сабою, адчуваць сабе, атрымаць сабе, дазваляць сабе, дазволіць сабе, запісаць сабе, знайсьці сваіх, называць сябе, падпаліць сябе, пачуваць сябе, праверыць сябе, праявіць сябе, прыкаваць сябе, страціць сябе, уявіць сабе, абвясьціць сябе, агаварыць сябе, аднаўляць сабе, асэнсаваць сябе, асэнсоўваць сябе, вызначыць сабе, вініць сябе, ганьбіць сябе, дадаць сабе, забяспечваць сабе, забіраць сабе, задаць сабе, задаць свае, заліць сабе, засцерэгчы сябе, захаваць сабе, захваць сабе, зганьбіць сябе, здаваць сабе, знайсці сябе, зубр сабе, кідаць сабе, кінуць сабе, набраць сабе, набыць сабе, назваць сябе, накрыць сабой</li>
+  <li>This corpus contains 81 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: уяўляць сабой, адчуваць сябе, адчуць сябе, берагчы сябе, лічыць сябе, дадаваць сабе, паводзіць сябе, паспрабаваць сябе, уяўляць сабою, адчуваць сабе, атрымаць сабе, дазваляць сабе, дазволіць сабе, запісаць сабе, знайсьці сваіх, называць сябе, падпаліць сябе, пачуваць сябе, праверыць сябе, праявіць сябе, прыкаваць сябе, слухаць сваё, страціць сябе, уявіць сабе, абвясьціць сябе, агаварыць сябе, аднаўляць сабе, асэнсаваць сябе, асэнсоўваць сябе, вызначыць сабе, вініць сябе, ганьбіць сябе, дадаць сабе, забяспечваць сабе, забіраць сабе, задаць сабе, задаць свае, заліць сабе, засцерэгчы сябе, захаваць сабе, захваць сабе, зганьбіць сябе, здаваць сабе, знайсці сябе, зубр сабе, кідаць сабе, кінуць сабе, набраць сабе, набыць сабе, назваць сябе</li>
     <ul>
       <li>Out of those, 2 lemmas occurred more than once, but never without a reflexive dependent. Examples: паводзіць, пачуваць</li>
     </ul>
@@ -1116,6 +1142,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a></li>
+<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:depict</a>, <a>obl:float</a>, <a>obl:tmod</a>, <a>parataxis:discourse</a></li>
 <li>The following 1 relation types are not used in this corpus at all: <a>clf</a></li>
 </ul>

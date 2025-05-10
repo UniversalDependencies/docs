@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-447785 tokens (30%) have a non-empty value of `Animacy`.
-73558 types (52%) occur at least once with a non-empty value of `Animacy`.
-31951 lemmas (61%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (359481; 24% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (50313; 3% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (19066; 1% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (13317; 1% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (2023; 0% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (1818; 0% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (1767; 0% instances).
+452079 tokens (30%) have a non-empty value of `Animacy`.
+73298 types (52%) occur at least once with a non-empty value of `Animacy`.
+31350 lemmas (60%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 7 part-of-speech tags: <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (361225; 24% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (45462; 3% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (24783; 2% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (12703; 1% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (4063; 0% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (2025; 0% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (1818; 0% instances).
 
 ### `NOUN`
 
-359481 <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+361225 <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (253319; 70%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (254830; 71%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
-* `Anim` (49602; 14% of non-empty `Animacy`): <em>человек, людей, люди, человека, друг, президента, детей, ученые, президент, граждан</em>
-* `Inan` (309879; 86% of non-empty `Animacy`): <em>года, время, лет, году, раз, жизни, власти, дело, страны, времени</em>
-* `EMPTY` (546): <em>млрд, г., СМИ, трлн, ВВП, км, тыс., им., млн, руб.</em>
+* `Anim` (49452; 14% of non-empty `Animacy`): <em>человек, людей, люди, человека, президента, детей, ученые, президент, граждан, отец</em>
+* `Inan` (311773; 86% of non-empty `Animacy`): <em>года, время, лет, году, раз, жизни, власти, дело, страны, времени</em>
+* `EMPTY` (1168): <em>ВВП, НДС, млрд, НКО, г., СМИ, трлн, ЖКХ, ЕСН, НИИ</em>
 
 <table>
   <tr><th>Paradigm <i>человек</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -42,91 +42,119 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
   <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>люди</em></td><td></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (18885) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (18890) occur only with one value of `Animacy`.
 
 ### `PROPN`
 
-50313 <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> tokens (90% of all `PROPN` tokens) have a non-empty value of `Animacy`.
+45462 <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> tokens (91% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (48938; 97%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (32937; 65%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44429; 98%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (29765; 65%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
-* `Anim` (26589; 53% of non-empty `Animacy`): <em>Путин, В., Владимир, А., Сергей, Путина, Александр, Галилей, Медведев, Борис</em>
-* `Inan` (23724; 47% of non-empty `Animacy`): <em>России, США, Россия, СССР, Москве, Москвы, Германии, Россию, РФ, Европе</em>
-* `EMPTY` (5442): <em>СССР, США, РАН, С., РФ, А., Южной, НАТО, Б., Западной</em>
+* `Anim` (24982; 55% of non-empty `Animacy`): <em>Путин, Владимир, Сергей, Путина, Александр, Галилей, Медведев, Борис, Николай, Александра</em>
+* `Inan` (20480; 45% of non-empty `Animacy`): <em>России, США, Россия, СССР, Москве, Москвы, Германии, Россию, РФ, Европе</em>
+* `EMPTY` (4718): <em>В., А., СССР, США, М., С., И., Н., РАН, П.</em>
 
 <table>
   <tr><th>Paradigm <i>Владимир</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Владимира</em></td><td><em>Владимир</em></td></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Владимиру</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Владимира</em></td><td><em>Владимира</em></td></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Владимиром</em></td><td><em>Владимиром</em></td></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Владимире</em></td></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Владимир</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_syntagrus-feat-NameType.html">NameType</a></tt><tt>=Geo</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Владимир</em></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_syntagrus-feat-NameType.html">NameType</a></tt><tt>=Giv</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Владимира</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_syntagrus-feat-NameType.html">NameType</a></tt><tt>=Giv</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Владимиру</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_syntagrus-feat-NameType.html">NameType</a></tt><tt>=Geo</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Владимира</em></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_syntagrus-feat-NameType.html">NameType</a></tt><tt>=Giv</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Владимира</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_syntagrus-feat-NameType.html">NameType</a></tt><tt>=Geo</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Владимиром</em></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_syntagrus-feat-NameType.html">NameType</a></tt><tt>=Giv</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Владимиром</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_syntagrus-feat-NameType.html">NameType</a></tt><tt>=Geo</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Владимире</em></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_syntagrus-feat-NameType.html">NameType</a></tt><tt>=Giv</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Владимир</em></td><td></td></tr>
   <tr><td><tt></tt></td><td></td><td><em>Владимиро</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (8617) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (8012) occur only with one value of `Animacy`.
 
 ### `PRON`
 
-19066 <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> tokens (26% of all `PRON` tokens) have a non-empty value of `Animacy`.
+24783 <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> tokens (37% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (19066; 100%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18139; 95%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (17168; 90%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (24783; 100%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23336; 94%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (20907; 84%), <tt><a href="ru_syntagrus-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (13056; 53%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
-* `Anim` (1741; 9% of non-empty `Animacy`): <em>все, кто, всех, никто, всем, кого, кто-то, кому, никого, кем</em>
-* `Inan` (17325; 91% of non-empty `Animacy`): <em>это, то, все, того, том, этом, что, тем, этого, всего</em>
-* `EMPTY` (53879): <em>он, я, мы, они, его, она, что, их, которые, мне</em>
+* `Anim` (3588; 14% of non-empty `Animacy`): <em>кто, никто, все, всех, кого, кто-то, всем, кому, многие, никого</em>
+* `Inan` (21195; 86% of non-empty `Animacy`): <em>это, что, то, все, того, том, этом, тем, этого, ничего</em>
+* `EMPTY` (41391): <em>он, я, мы, они, его, она, их, мне, нас, них</em>
 
 <table>
-  <tr><th>Paradigm <i>который</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>которого</em></td><td><em>который</em></td></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>которых</em></td><td><em>которые</em></td></tr>
+  <tr><th>Paradigm <i>кто-то</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>кого-то</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>кого-то</em></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>кому-то</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>кому-то</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>кого-то</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>кого-то</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>кем-то</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ком-то</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>кто-то</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>кто-то</em></td><td></td></tr>
 </table>
+
+`Animacy` seems to be **lexical feature** of `PRON`. 93% lemmas (25) occur only with one value of `Animacy`.
 
 ### `ADJ`
 
-13317 <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `Animacy`.
+12703 <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Acc</tt> (13312; 100%), <tt><a href="ru_syntagrus-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (13097; 98%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7234; 54%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Plur</tt> (7234; 54%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Acc</tt> (12698; 100%), <tt><a href="ru_syntagrus-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (12484; 98%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6946; 55%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Plur</tt> (6946; 55%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
-* `Anim` (1140; 9% of non-empty `Animacy`): <em>других, самого, другого, молодых, новых, нового, остальных, маленького, молодого, российских</em>
-* `Inan` (12177; 91% of non-empty `Animacy`): <em>последние, первый, новые, первую, новый, настоящее, другие, первые, разные, второй</em>
-* `EMPTY` (132415): <em>нужно, других, должны, должен, другой, сам, российской, должна, самом, другие</em>
+* `Anim` (1021; 8% of non-empty `Animacy`): <em>молодых, новых, нового, маленького, молодого, российских, бывшего, второго, третьего, настоящих</em>
+* `Inan` (11682; 92% of non-empty `Animacy`): <em>последние, первый, новые, новый, настоящее, первые, разные, второй, последний, большие</em>
+* `EMPTY` (127890): <em>нужно, должны, должен, российской, должна, новых, второй, известно, новой, невозможно</em>
 
 <table>
   <tr><th>Paradigm <i>новый</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>нового</em></td><td><em>новый</em></td></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>новых</em></td><td><em>новые</em></td></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>новейшие</em></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>нового</em></td><td><em>новый</em></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>новых</em></td><td><em>новые</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `ADJ`. 90% lemmas (2859) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `ADJ`. 90% lemmas (2881) occur only with one value of `Animacy`.
+
+### `DET`
+
+4063 <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> tokens (7% of all `DET` tokens) have a non-empty value of `Animacy`.
+
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Acc</tt> (4063; 100%), <tt><a href="ru_syntagrus-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3208; 79%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2090; 51%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2038; 50%).
+
+`DET` tokens may have the following values of `Animacy`:
+
+* `Anim` (893; 22% of non-empty `Animacy`): <em>своих, всех, тех, которых, которого, своего, других, самого, другого, этих</em>
+* `Inan` (3170; 78% of non-empty `Animacy`): <em>которые, свой, который, этот, каждый, свои, все, другие, эти, такой</em>
+* `EMPTY` (50682): <em>его, все, которые, их, эти, этот, ее, который, этой, которая</em>
+
+<table>
+  <tr><th>Paradigm <i>этот</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>этого</em></td><td><em>этот</em></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>этих</em></td><td><em>эти</em></td></tr>
+</table>
 
 ### `NUM`
 
-2023 <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> tokens (10% of all `NUM` tokens) have a non-empty value of `Animacy`.
+2025 <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> tokens (11% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2023; 100%), <tt><a href="ru_syntagrus-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1467; 73%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1103; 55%).
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2025; 100%), <tt><a href="ru_syntagrus-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (2025; 100%), <tt><a href="ru_syntagrus-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2011; 99%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1730; 85%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1104; 55%).
 
 `NUM` tokens may have the following values of `Animacy`:
 
-* `Anim` (145; 7% of non-empty `Animacy`): <em>одного, двух, трех, троих, двоих, нескольких, обоих, шестерых, пятерых, четверых</em>
+* `Anim` (147; 7% of non-empty `Animacy`): <em>одного, двух, трех, троих, двоих, нескольких, обоих, шестерых, пятерых, четверых</em>
 * `Inan` (1878; 93% of non-empty `Animacy`): <em>несколько, два, три, один, две, четыре, обе, оба, двое, одни</em>
-* `EMPTY` (17408): <em>один, одной, многие, 1, 10, двух, два, 20, 2, одна</em>
+* `EMPTY` (15884): <em>один, одной, 1, 10, двух, два, 20, 2, одна, 15</em>
 
 <table>
   <tr><th>Paradigm <i>один</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt></tt></td><td></td><td><em>одни</em></td></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>одного</em></td><td><em>один</em></td></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>один</em></td></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_syntagrus-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>одного</em></td><td><em>один</em></td></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td></td><td><em>одни</em></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-ExtPos.html">ExtPos</a></tt><tt>=NUM</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>один</em></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>одного</em></td><td><em>один</em></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>одни</em></td></tr>
 </table>
 
 ### `VERB`
@@ -139,7 +167,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 * `Anim` (338; 19% of non-empty `Animacy`): <em>работающего, спящего, желающих, имеющих, присутствующих, пытавшихся, сидевшего, Оставшихся, владеющих, говорившего</em>
 * `Inan` (1480; 81% of non-empty `Animacy`): <em>называемые, называемый, полученные, связанные, существующий, возникающие, имеющиеся, направленные, идущие, написанный</em>
-* `EMPTY` (171008): <em>может, есть, нет, было, сказал, могут, стал, является, быть, говорит</em>
+* `EMPTY` (171033): <em>может, есть, нет, было, сказал, могут, стал, является, быть, говорит</em>
 
 <table>
   <tr><th>Paradigm <i>стать</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -147,37 +175,19 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
   <tr><td><tt><tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ставшие</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `VERB`. 91% lemmas (918) occur only with one value of `Animacy`.
-
-### `DET`
-
-1767 <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `Animacy`.
-
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="ru_syntagrus-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1767; 100%), <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1766; 100%), <tt><a href="ru_syntagrus-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1664; 94%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (895; 51%).
-
-`DET` tokens may have the following values of `Animacy`:
-
-* `Anim` (267; 15% of non-empty `Animacy`): <em>своих, всех, тех, своего, одного, этих, моего, того, самого, других</em>
-* `Inan` (1500; 85% of non-empty `Animacy`): <em>этот, свои, все, эти, свой, тот, каждый, то, те, один</em>
-* `EMPTY` (39372): <em>его, все, их, эти, этот, ее, этой, такой, всех, своей</em>
-
-<table>
-  <tr><th>Paradigm <i>этот</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>этого</em></td><td><em>этот</em></td></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>этих</em></td><td><em>эти</em></td></tr>
-</table>
+`Animacy` seems to be **lexical feature** of `VERB`. 91% lemmas (919) occur only with one value of `Animacy`.
 
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (78518; 82%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (24107; 95%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (7945; 58%),
-<tt>PROPN --[<tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (7091; 97%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> PROPN</tt> (5152; 89%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3351; 88%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (3144; 86%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> NOUN</tt> (2925; 88%),
-<tt>PROPN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2752; 95%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2024; 63%).
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (80037; 81%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (24335; 94%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (7222; 57%),
+<tt>PROPN --[<tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (5791; 86%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> PROPN</tt> (4822; 85%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3374; 88%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (3182; 85%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> NOUN</tt> (3060; 87%),
+<tt>PROPN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2525; 95%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2097; 66%).
 

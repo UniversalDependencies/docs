@@ -13,9 +13,9 @@ The 10 most frequent `CCONJ` lemmas: <em>e, ou, pero, mais, como, senón, así, 
 
 The 10 most frequent `CCONJ` types:  <em>e, ou, pero, mais, como, senón, así, nin, que, tanto</em>
 
-The 10 most frequent ambiguous lemmas: <em>e</em> (<tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 465, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 1), <em>como</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 102, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 28, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 4), <em>así</em> (<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 19, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>que</em> (<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> 284, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 261, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 11, <tt><a href="gl_pud-pos-DET.html">DET</a></tt> 3, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>tanto</em> (<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 19, <tt><a href="gl_pud-pos-DET.html">DET</a></tt> 2, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>e</em> (<tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 465, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 1), <em>como</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 102, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 28, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 4), <em>así</em> (<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 19, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>que</em> (<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> 284, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 262, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 10, <tt><a href="gl_pud-pos-DET.html">DET</a></tt> 3, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>tanto</em> (<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 19, <tt><a href="gl_pud-pos-DET.html">DET</a></tt> 2, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 457, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 1), <em>como</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 97, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 25, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 4), <em>así</em> (<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 17, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>que</em> (<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> 284, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 261, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 11, <tt><a href="gl_pud-pos-DET.html">DET</a></tt> 2, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>tanto</em> (<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="gl_pud-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 457, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 1), <em>como</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 97, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 25, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 4), <em>así</em> (<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 17, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>que</em> (<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> 284, <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 262, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 10, <tt><a href="gl_pud-pos-DET.html">DET</a></tt> 2, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>tanto</em> (<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="gl_pud-pos-DET.html">DET</a></tt> 1)
 
 
 * <em>e</em>
@@ -31,8 +31,8 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="gl_pud-pos-CCONJ
   * <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 1: <em>A orixe de a palabra " Hispania " é obxecto de un gran debate e as probas que sustentan as diferentes teorías basean se en o que en o mellor de os casos son meras semellanzas , probablemente accidentais , <b>así</b> como en probas cuestionables .</em>
 * <em>que</em>
   * <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> 284: <em>O <b>que</b> está dicindo e facendo esta muller é verdadeiramente incríbel .</em>
-  * <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 261: <em>Eu vou para o cárcere de todos os xeitos , espero <b>que</b> pague a pena .</em>
-  * <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 11: <em>Esta cidade - estado emerxeu en o mesmo período <b>que</b> Sukhothai .</em>
+  * <tt><a href="gl_pud-pos-SCONJ.html">SCONJ</a></tt> 262: <em>Eu vou para o cárcere de todos os xeitos , espero <b>que</b> pague a pena .</em>
+  * <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 10: <em>Esta cidade - estado emerxeu en o mesmo período <b>que</b> Sukhothai .</em>
   * <tt><a href="gl_pud-pos-DET.html">DET</a></tt> 2: <em>Non se sabe de <b>que</b> maneira traballarían xuntos ambos os dramaturgos .</em>
   * <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> 1: <em>A o usar a antena dipolo de Álvarez para alcanzar unha resolución angular altísima , o GCA permite <b>que</b> os equipos operadores de radares que observan en terra pantallas de unha precisión especial poidan guiar un aeroplano cara a pista durante unha aterraxe mediante a transmisión de comandos verbais a quen pilota .</em>
 * <em>tanto</em>
@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="gl_pud-pos-CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.319483).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.320042).
 
 The 1st highest number of forms (1) was observed with the lemma “así”: <em>así</em>.
 
@@ -50,7 +50,13 @@ The 2nd highest number of forms (1) was observed with the lemma “como”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “e”: <em>e</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="gl_pud-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (574 tokens).
+Examples: <em>e, ou, pero, mais, como, nin, que, senón, tanto</em>
 
 
 ## Relations

@@ -26,10 +26,10 @@ The following 17 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 1	Бур	бур	ADJ	A	Case=Nom|Number=Sing	2	amod	_	_
 2	урожай	урожай	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	OrigLang=ru
 3	воис	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-4	таво	таво	ADV	Adv	_	3	advmod:tmod	_	_
+4	таво	таво	ADV	Adv	_	3	advmod	_	_
 5	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	nmod	_	_
 6	районувса	районувса	ADJ	A	Case=Nom|Number=Sing	7	amod	_	OrigLang=ru
-7	колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl:lmod	_	OrigLang=ru|SpaceAfter=No
+7	колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl	_	OrigLang=ru|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
@@ -43,7 +43,7 @@ The following 17 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 4 1 nsubj	color:blue
 1	Сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	вочасӧн	вочасӧн	ADV	Adv	Case=Ins	4	advmod	_	_
-3	пыр	пыр	ADV	Adv	_	4	advmod:tmod	_	_
+3	пыр	пыр	ADV	Adv	_	4	advmod	_	_
 4	паськаліс	паськавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 5	да	да	CCONJ	CC	_	6	cc	_	_
 6	лӧзӧдіс	лӧзӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	SpaceAfter=No

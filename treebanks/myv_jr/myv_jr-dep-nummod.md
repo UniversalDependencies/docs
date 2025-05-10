@@ -43,7 +43,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	лембе	лембе	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	3	amod	_	CGdephead=#2-&gt;3|CGdeprel=@&gt;N|GTtags=Sg,Nom,Indef
 3	пракстат	пракста	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	4	nsubj	_	CGdephead=#3-&gt;3|CGdeprel=@SUBJ&gt;|GTtags=Pl,Nom,Indef
 4	эрявольть	эрявомс	VERB	V	Mood=Sub|Number[subj]=Plur|Person[subj]=3	0	root	_	CGdephead=#4-&gt;4|CGdeprel=@FMV|GTtags=IV,Conj,ScPl3
-5	бу	бу	AUX	Pcle	Mood=Sub|VerbType=Aux	4	aux:cnd	_	CGdephead=#5-&gt;5|CGdeprel=@X|GTtags=Aux,Conj|SpaceAfter=No
+5	бу	бу	AUX	Pcle	Mood=Cnd|VerbType=Aux	4	aux	_	CGdephead=#5-&gt;5|CGdeprel=@X|GTtags=Aux,Conj|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	4	punct	_	CGdephead=#6-&gt;6|CGdeprel=@CLB|GTtags=CLB
 
 ~~~

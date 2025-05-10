@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  پیدا (<tt><a href="fa_perdt-pos-ADJ.h
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.171213 (the average of all parts of speech is 1.486663).
+The form / lemma ratio of `ADJ` is 1.171213 (the average of all parts of speech is 1.486683).
 
 The 1st highest number of forms (8) was observed with the lemma “بزرگ”: بزرگ, بزرگترین, بزرگی, بزرگی‌, بزرگ‌تر, بزرگ‌ترم, بزرگ‌تری, بزرگ‌ترین.
 

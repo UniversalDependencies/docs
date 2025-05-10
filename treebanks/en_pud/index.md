@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Jesse Kirchner, Lorenzo Lambertino, Martin Popel, Daniel Zeman, Christopher Manning, Sebastian Schuster, Siva Reddy.
 
 Repository: [UD_English-PUD](https://github.com/UniversalDependencies/UD_English-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pud215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pud216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 3.0
 
@@ -109,7 +109,7 @@ features and lemmata were added by Sebastian Schuster.
 
 ## Relations
 
-[acl](en_pud-dep-acl.html) – [acl:relcl](en_pud-dep-acl-relcl.html) – [advcl](en_pud-dep-advcl.html) – [advcl:relcl](en_pud-dep-advcl-relcl.html) – [advmod](en_pud-dep-advmod.html) – [amod](en_pud-dep-amod.html) – [appos](en_pud-dep-appos.html) – [aux](en_pud-dep-aux.html) – [aux:pass](en_pud-dep-aux-pass.html) – [case](en_pud-dep-case.html) – [cc](en_pud-dep-cc.html) – [cc:preconj](en_pud-dep-cc-preconj.html) – [ccomp](en_pud-dep-ccomp.html) – [compound](en_pud-dep-compound.html) – [compound:prt](en_pud-dep-compound-prt.html) – [conj](en_pud-dep-conj.html) – [cop](en_pud-dep-cop.html) – [csubj](en_pud-dep-csubj.html) – [csubj:pass](en_pud-dep-csubj-pass.html) – [dep](en_pud-dep-dep.html) – [det](en_pud-dep-det.html) – [det:predet](en_pud-dep-det-predet.html) – [discourse](en_pud-dep-discourse.html) – [dislocated](en_pud-dep-dislocated.html) – [expl](en_pud-dep-expl.html) – [fixed](en_pud-dep-fixed.html) – [flat](en_pud-dep-flat.html) – [goeswith](en_pud-dep-goeswith.html) – [iobj](en_pud-dep-iobj.html) – [mark](en_pud-dep-mark.html) – [nmod](en_pud-dep-nmod.html) – [nmod:poss](en_pud-dep-nmod-poss.html) – [nmod:unmarked](en_pud-dep-nmod-unmarked.html) – [nsubj](en_pud-dep-nsubj.html) – [nsubj:pass](en_pud-dep-nsubj-pass.html) – [nummod](en_pud-dep-nummod.html) – [obj](en_pud-dep-obj.html) – [obl](en_pud-dep-obl.html) – [obl:unmarked](en_pud-dep-obl-unmarked.html) – [orphan](en_pud-dep-orphan.html) – [parataxis](en_pud-dep-parataxis.html) – [punct](en_pud-dep-punct.html) – [reparandum](en_pud-dep-reparandum.html) – [root](en_pud-dep-root.html) – [vocative](en_pud-dep-vocative.html) – [xcomp](en_pud-dep-xcomp.html)
+[acl](en_pud-dep-acl.html) – [acl:relcl](en_pud-dep-acl-relcl.html) – [advcl](en_pud-dep-advcl.html) – [advcl:relcl](en_pud-dep-advcl-relcl.html) – [advmod](en_pud-dep-advmod.html) – [amod](en_pud-dep-amod.html) – [appos](en_pud-dep-appos.html) – [aux](en_pud-dep-aux.html) – [aux:pass](en_pud-dep-aux-pass.html) – [case](en_pud-dep-case.html) – [cc](en_pud-dep-cc.html) – [cc:preconj](en_pud-dep-cc-preconj.html) – [ccomp](en_pud-dep-ccomp.html) – [compound](en_pud-dep-compound.html) – [compound:prt](en_pud-dep-compound-prt.html) – [conj](en_pud-dep-conj.html) – [cop](en_pud-dep-cop.html) – [csubj](en_pud-dep-csubj.html) – [csubj:pass](en_pud-dep-csubj-pass.html) – [dep](en_pud-dep-dep.html) – [det](en_pud-dep-det.html) – [det:predet](en_pud-dep-det-predet.html) – [discourse](en_pud-dep-discourse.html) – [dislocated](en_pud-dep-dislocated.html) – [expl](en_pud-dep-expl.html) – [fixed](en_pud-dep-fixed.html) – [flat](en_pud-dep-flat.html) – [goeswith](en_pud-dep-goeswith.html) – [iobj](en_pud-dep-iobj.html) – [mark](en_pud-dep-mark.html) – [nmod](en_pud-dep-nmod.html) – [nmod:desc](en_pud-dep-nmod-desc.html) – [nmod:poss](en_pud-dep-nmod-poss.html) – [nmod:unmarked](en_pud-dep-nmod-unmarked.html) – [nsubj](en_pud-dep-nsubj.html) – [nsubj:pass](en_pud-dep-nsubj-pass.html) – [nummod](en_pud-dep-nummod.html) – [obj](en_pud-dep-obj.html) – [obl](en_pud-dep-obl.html) – [obl:unmarked](en_pud-dep-obl-unmarked.html) – [orphan](en_pud-dep-orphan.html) – [parataxis](en_pud-dep-parataxis.html) – [punct](en_pud-dep-punct.html) – [reparandum](en_pud-dep-reparandum.html) – [root](en_pud-dep-root.html) – [vocative](en_pud-dep-vocative.html) – [xcomp](en_pud-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -248,9 +248,16 @@ features and lemmata were added by Sebastian Schuster.
     <ul>
       <li>DET: these, those</li>
       <li>NOUN: people, years, police, investors, months, companies, countries, euros, films, children</li>
-      <li>NUM: 2000s</li>
       <li>PRON: their, they, we, them, our, us, those, themselves, these</li>
       <li>PROPN: States, Alps, Powers, Ages, Americans, Americas, Andes, Balkans, Chinese, Democrats</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ptan
+    <ul>
+      <li>NOUN: 1960s, 1970s, 1990s, 1350s, 1950s, 1980s, 2000s, 60s, mid-1970s, mid-1980s</li>
     </ul>
   </li>
 </ul>
@@ -322,7 +329,7 @@ features and lemmata were added by Sebastian Schuster.
   <li>Cmp
     <ul>
       <li>ADJ: more, greater, higher, better, earlier, fewer, lower, Elder, Stranger, bigger</li>
-      <li>ADV: longer, earlier, less, better, closer, further</li>
+      <li>ADV: longer, earlier, less, better, closer, further, more</li>
     </ul>
   </li>
 </ul>
@@ -339,8 +346,8 @@ features and lemmata were added by Sebastian Schuster.
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: best, most, biggest, latest, worst, tallest, largest, least, deepest, earliest</li>
-      <li>ADV: least, best</li>
+      <li>ADJ: least, best, most, biggest, latest, tallest, worst, largest, deepest, earliest</li>
+      <li>ADV: best, worst</li>
     </ul>
   </li>
 </ul>
@@ -467,6 +474,14 @@ features and lemmata were added by Sebastian Schuster.
 </ul>
 
 <ul>
+  <li>Rcp
+    <ul>
+      <li>DET: each</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Rel
     <ul>
       <li>ADV: where, when, why, whenever</li>
@@ -493,6 +508,7 @@ features and lemmata were added by Sebastian Schuster.
 <ul>
   <li>Card
     <ul>
+      <li>NOUN: 1960s, 1970s, 1990s, 1350s, 1950s, 1980s, 2000s, 60s, mid-1970s, mid-1980s</li>
       <li>NUM: one, two, three, million, 10, four, 1, six, 3, I</li>
     </ul>
   </li>
@@ -604,7 +620,7 @@ features and lemmata were added by Sebastian Schuster.
       <li>ADP
         <ul>
           <li>ADJ: such, due, Megarian</li>
-          <li>ADP: because, Due</li>
+          <li>ADP: because</li>
           <li>ADV: Prior</li>
           <li>VERB-Ger: according</li>
         </ul>
@@ -612,8 +628,13 @@ features and lemmata were added by Sebastian Schuster.
       <li>ADV
         <ul>
           <li>ADJ: more</li>
-          <li>ADP: at, of, up</li>
-          <li>ADV: all, at</li>
+          <li>ADP: of, up</li>
+          <li>ADV: as, all</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADV: as, rather</li>
         </ul>
       </li>
       <li>PRON
@@ -624,7 +645,8 @@ features and lemmata were added by Sebastian Schuster.
       <li>SCONJ
         <ul>
           <li>ADP: in</li>
-          <li>SCONJ: in, Prior</li>
+          <li>ADV: Rather</li>
+          <li>SCONJ: as, so, Prior, in</li>
         </ul>
       </li>
     </ul>
@@ -649,6 +671,7 @@ features and lemmata were added by Sebastian Schuster.
       <li>Combi
         <ul>
           <li>ADJ: 8th, 16th, 20th, 3rd, 5th, 13th, 14th, 15th, 1st, 45th</li>
+          <li>NOUN: 1960s, 1970s, 1990s, 1350s, 1950s, 1980s, 2000s, 60s, mid-1970s, mid-1980s</li>
         </ul>
       </li>
       <li>Digit
@@ -717,7 +740,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (321)</li>
+      <li>VERB-Fin--NOUN (316)</li>
       <li>VERB-Fin--NOUN-ADP(on) (1)</li>
       <li>VERB-Fin--PRON (94)</li>
       <li>VERB-Fin--PRON-Nom (180)</li>
@@ -739,16 +762,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (297)</li>
+      <li>VERB-Fin--NOUN (296)</li>
       <li>VERB-Fin--PRON (5)</li>
       <li>VERB-Fin--PRON-Acc (29)</li>
       <li>VERB-Ger--NOUN (109)</li>
       <li>VERB-Ger--PRON (3)</li>
       <li>VERB-Ger--PRON-Acc (6)</li>
-      <li>VERB-Inf--NOUN (206)</li>
+      <li>VERB-Inf--NOUN (207)</li>
       <li>VERB-Inf--PRON (11)</li>
       <li>VERB-Inf--PRON-Acc (14)</li>
-      <li>VERB-Part--NOUN (72)</li>
+      <li>VERB-Part--NOUN (73)</li>
       <li>VERB-Part--PRON (3)</li>
       <li>VERB-Part--PRON-Acc (6)</li>
     </ul>
@@ -758,7 +781,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (2)</li>
+      <li>VERB-Fin--NOUN (1)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
       <li>VERB-Ger--PRON-Acc (1)</li>
       <li>VERB-Inf--NOUN (2)</li>
@@ -778,6 +801,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:poss</a>, <a>nmod:unmarked</a>, <a>nsubj:pass</a>, <a>obl:unmarked</a></li>
+<li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:desc</a>, <a>nmod:poss</a>, <a>nmod:unmarked</a>, <a>nsubj:pass</a>, <a>obl:unmarked</a></li>
 <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a></li>
 </ul>

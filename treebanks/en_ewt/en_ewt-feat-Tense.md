@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 * `Past` (8571; 52% of non-empty `Tense`): <em>had, said, made, got, called, told, used, took, attached, came</em>
 * `Pres` (8030; 48% of non-empty `Tense`): <em>have, going, has, want, need, is, are, know, think, looking</em>
-* `EMPTY` (11288): <em>have, get, know, go, do, see, take, let, make, give</em>
+* `EMPTY` (11287): <em>have, get, know, go, do, see, take, let, make, give</em>
 
 <table>
   <tr><th>Paradigm <i>have</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -81,10 +81,10 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1245; 65%),
-<tt>VERB --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> AUX</tt> (12; 63%),
-<tt>AUX --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> VERB</tt> (8; 89%),
-<tt>VERB --[<tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (6; 75%),
+<tt>VERB --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1246; 65%),
+<tt>VERB --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> AUX</tt> (9; 56%),
+<tt>AUX --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> VERB</tt> (5; 83%),
+<tt>VERB --[<tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (5; 71%),
 <tt>VERB --[<tt><a href="en_ewt-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (5; 100%),
 <tt>AUX --[<tt><a href="en_ewt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),

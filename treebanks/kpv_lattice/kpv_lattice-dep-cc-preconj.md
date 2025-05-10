@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 4 cc:preconj	color:blue
 1	Эз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	3	aux	_	_
-2	позь	позьны	AUX	V	Connegative=Yes	3	aux:pot	_	_
+2	позь	позьны	AUX	V	Connegative=Yes	3	aux	_	_
 3	бӧрйыны	бӧрйыны	VERB	V	VerbForm=Inf	0	root	_	_
 4	ни	ни	CCONJ	CC	Polarity=Neg	5	cc:preconj	_	_
 5	Питер	Питер	NOUN	N	Case=Nom|Number=Sing	3	obj	_	OrigLang=ru
@@ -49,7 +49,7 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 4	,	,	PUNCT	PUNCT	_	7	punct	_	_
 5	сымын	сымын	CCONJ	CC	_	7	cc	_	_
 6	озырджыкӧн	озыр	ADJ	A	Case=Ins|Degree=Cmp|Number=Sing	7	xcomp	_	GTtags=Comp,Sg,Ins
-7	кажитчӧ	кажитчӧ	VERB	Adv	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	advcl:eval	_	GTtags=Parenthetic
+7	кажитчӧ	кажитчӧ	VERB	Adv	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	advcl	_	GTtags=Parenthetic
 8	пызан	пызан	NOUN	N	Case=Nom|Number=Sing	9	compound	_	GTtags=Sg,Nom
 9	вылыд	выв	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	7	conj	_	GTtags=Relat,Sg,Nom,PxSg2|SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	2	punct	_	_

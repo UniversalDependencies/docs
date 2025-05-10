@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Özlem Çetinoğlu, Çağrı Çöltekin.
 
 Repository: [UD_Turkish_German-SAGT](https://github.com/UniversalDependencies/UD_Turkish_German-SAGT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqtd_sagt215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqtd_sagt216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -139,7 +139,7 @@ isbn = {978-2-9517408-9-1},
 
 ## Features
 
-[Aspect](qtd_sagt-feat-Aspect.html) – [Case](qtd_sagt-feat-Case.html) – [Definite](qtd_sagt-feat-Definite.html) – [Evident](qtd_sagt-feat-Evident.html) – [Foreign](qtd_sagt-feat-Foreign.html) – [Gender](qtd_sagt-feat-Gender.html) – [Mood](qtd_sagt-feat-Mood.html) – [Number](qtd_sagt-feat-Number.html) – [Number[psor]](qtd_sagt-feat-Number-psor.html) – [NumType](qtd_sagt-feat-NumType.html) – [Person](qtd_sagt-feat-Person.html) – [Person[psor]](qtd_sagt-feat-Person-psor.html) – [Polarity](qtd_sagt-feat-Polarity.html) – [Poss](qtd_sagt-feat-Poss.html) – [PronType](qtd_sagt-feat-PronType.html) – [Reflex](qtd_sagt-feat-Reflex.html) – [Tense](qtd_sagt-feat-Tense.html) – [Typo](qtd_sagt-feat-Typo.html) – [VerbForm](qtd_sagt-feat-VerbForm.html) – [Voice](qtd_sagt-feat-Voice.html)
+[Aspect](qtd_sagt-feat-Aspect.html) – [Case](qtd_sagt-feat-Case.html) – [Definite](qtd_sagt-feat-Definite.html) – [Evident](qtd_sagt-feat-Evident.html) – [ExtPos](qtd_sagt-feat-ExtPos.html) – [Foreign](qtd_sagt-feat-Foreign.html) – [Gender](qtd_sagt-feat-Gender.html) – [Mood](qtd_sagt-feat-Mood.html) – [Number](qtd_sagt-feat-Number.html) – [Number[psor]](qtd_sagt-feat-Number-psor.html) – [NumType](qtd_sagt-feat-NumType.html) – [Person](qtd_sagt-feat-Person.html) – [Person[psor]](qtd_sagt-feat-Person-psor.html) – [Polarity](qtd_sagt-feat-Polarity.html) – [Poss](qtd_sagt-feat-Poss.html) – [PronType](qtd_sagt-feat-PronType.html) – [Reflex](qtd_sagt-feat-Reflex.html) – [Tense](qtd_sagt-feat-Tense.html) – [Typo](qtd_sagt-feat-Typo.html) – [VerbForm](qtd_sagt-feat-VerbForm.html) – [Voice](qtd_sagt-feat-Voice.html)
 
 ## Relations
 
@@ -1026,6 +1026,20 @@ isbn = {978-2-9517408-9-1},
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>DET: Bir</li>
+          <li>NOUN: ikide</li>
+          <li>PRON: ondan, onun</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Foreign</a>

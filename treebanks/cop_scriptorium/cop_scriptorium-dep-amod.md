@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-39 nodes (0%) are attached to their parents as `amod`.
+38 nodes (0%) are attached to their parents as `amod`.
 
-36 instances of `amod` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.1025641025641.
+36 instances of `amod` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.
 
-The following 3 pairs of parts of speech are connected with `amod`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> (37; 95% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 3% instances).
+The following 2 pairs of parts of speech are connected with `amod`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> (37; 97% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -33,7 +33,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 9	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	6	nmod	_	_
 10	ϣⲏⲙ	ϣⲏⲙ	ADJ	N	_	9	amod	_	_
 11	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	12	mark	_	_
-12	ⲃⲓⲕⲧⲱⲣ	ⲃⲓⲕⲧⲱⲣ	PROPN	NPROP	Foreign=Yes	9	xcomp	_	Entity=person)abstract)|OrigLang=la
+12	ⲃⲓⲕⲧⲱⲣ	ⲃⲓⲕⲧⲱⲣ	PROPN	NPROP	Foreign=Yes	9	xcomp	_	Entity=person)abstract)|OrigLang=lat
 13	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
@@ -81,43 +81,6 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 34	ⲉ	ⲉ	ADP	PREP	_	36	case	_	_
 35	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	Entity=(place
 36	ⲑⲁⲗⲁⲥⲥⲁ	ⲑⲁⲗⲁⲥⲥⲁ	NOUN	N	Foreign=Yes	32	obl	_	Entity=place)|OrigLang=grc
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 3 amod	color:blue
-1	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	2	case	_	_
-2	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	8	obl	_	Entity=(abstract)|Orig=ⲡⲁⲓ̈
-3	ⲟⲩ	ⲟⲩ	X	FM	Polarity=Neg	8	amod	_	_
-4	ⲙⲟⲛⲟⲛ	ⲙⲟⲛⲟⲛ	X	FM	Foreign=Yes	3	fixed	_	OrigLang=grc
-5	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	8	case	_	_
-6	ϩⲛ	ϩⲛ	ADP	PREP	_	5	fixed	_	Orig=ϩⲛ̅
-7	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	8	det	_	Entity=(place|Orig=ⲛ̅
-8	ⲥⲱϣⲉ	ⲥⲱϣⲉ	NOUN	N	_	0	root	_	Entity=place)
-9	ⲙⲛ	ⲙⲛ	ADP	PREP	_	10	cc	_	Orig=ⲙⲛ̅
-10	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	8	conj	_	Entity=(person
-11	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	12	mark	_	_
-12	ⲛⲏⲩ	ⲉⲓ	VERB	VSTAT	VerbForm=Fin	10	acl:relcl	_	_
-13	ⲛⲁ	ⲛⲁ	ADP	PREP	_	14	case	_	_
-14	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	12	obl	_	_
-15	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	12	advmod	_	_
-16	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	12	advmod	_	Entity=person)
-17	·	·	PUNCT	PUNCT	_	23	punct	_	_
-18	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	23	cc	_	OrigLang=grc
-19	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	23	case	_	_
-20	ϩⲙ	ϩⲛ	ADP	PREP	_	19	fixed	_	Orig=ϩⲙ̅
-21	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	Entity=(abstract
-22	ⲕⲉ	ⲕⲉ	DET	ART	PronType=Art	23	det	_	_
-23	ϩⲱⲃ	ϩⲱⲃ	NOUN	N	_	8	conj	_	_
-24	ⲛ	ⲛ	ADP	PREP	_	26	case	_	Orig=ⲛ̅
-25	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	26	nmod:poss	_	Entity=(object
-26	ϭⲓϫ	ϭⲓϫ	NOUN	N	_	23	nmod	_	Entity=object)abstract)
-27	·	·	PUNCT	PUNCT	_	8	punct	_	_
 
 ~~~
 

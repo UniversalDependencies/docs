@@ -139,7 +139,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Ine` (2; 8% of non-empty `Case`): <em>kuunneltes, luadimas</em>
 * `Nom` (2; 8% of non-empty `Case`): <em>kehitynnyh, tundiettu</em>
 * `Par` (2; 8% of non-empty `Case`): <em>koskijoi, sanottuu</em>
-* `EMPTY` (233): <em>sanoi, pietäh, rodieu, sanoo, kuulimo, kuulittogo, kuulluh, sanottih, tiezimö, tiezittö</em>
+* `EMPTY` (234): <em>sanoi, pietäh, rodieu, sanoo, kuulimo, kuulittogo, kuulluh, sanottih, tiezimö, tiezittö</em>
 
 <table>
   <tr><th>Paradigm <i>sanuo</i></th><th><tt>Par</tt></th><th><tt>Ill</tt></th></tr>
@@ -198,7 +198,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 `AUX` tokens may have the following values of `Case`:
 
 * `Ine` (1; 100% of non-empty `Case`): <em>olles</em>
-* `EMPTY` (69): <em>oli, ei, on, ollah, voibi, emmogo, ole, olen, pidää, En</em>
+* `EMPTY` (68): <em>oli, ei, on, ollah, voibi, emmogo, ole, olen, pidää, En</em>
 
 ## Relations with Agreement in `Case`
 

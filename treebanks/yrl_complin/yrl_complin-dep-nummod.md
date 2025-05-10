@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-54 nodes (0%) are attached to their parents as `nummod`.
+60 nodes (0%) are attached to their parents as `nummod`.
 
-53 instances of `nummod` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.05555555555556.
+59 instances of `nummod` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.05.
 
-The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt> (53; 98% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt> (59; 98% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 nummod	color:blue
-1	Ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	TokenRange=0:3
+1	Ixé	ixé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	TokenRange=0:3
 2	akayú	akayú	NOUN	N	Number=Sing	3	reparandum	_	TokenRange=4:9
 3	nove	nove	NUM	CARD	NumType=Card	4	nummod	_	OrigLang=por|TokenRange=10:14
 4	akayú	akayú	NOUN	N	Number=Sing	6	obl	_	TokenRange=15:20
@@ -46,7 +46,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	Juão	juão	PROPN	PROPN	_	3	nsubj	_	TokenRange=5:9
 3	umbué	mbué	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	4	acl:relcl	_	TokenRange=10:15
 4	waá-itá	waá	PRON	REL	Number=Plur|PronType=Rel	6	nsubj	_	TokenRange=16:23
-5	aintá	aintá	PRON	PRON	Number=Plur|Person=3|PronType=Prs	6	expl	_	TokenRange=24:29
+5	aintá	aintá	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=3|PronType=Prs	6	expl	_	TokenRange=24:29
 6	umbeú	mbeú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=30:35
 7	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	obl	_	TokenRange=36:37
 8	xupé	xupé	ADP	ADP	AdpType=Post	7	case	_	TokenRange=38:42

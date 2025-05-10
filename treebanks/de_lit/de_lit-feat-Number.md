@@ -11,16 +11,16 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="de_lit-feat-Number.html">Number</a></tt>, <tt><a href="de_lit-feat-Number-psor.html">Number[psor]</a></tt>.
 
-1942 tokens (5%) have a non-empty value of `Number`.
-215 types (3%) occur at least once with a non-empty value of `Number`.
-153 lemmas (3%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (1636; 4% instances), <tt><a href="de_lit-pos-DET.html">DET</a></tt> (169; 0% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (79; 0% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt> (41; 0% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (5; 0% instances).
+1947 tokens (5%) have a non-empty value of `Number`.
+216 types (3%) occur at least once with a non-empty value of `Number`.
+154 lemmas (3%) occur at least once with a non-empty value of `Number`.
+The feature is used with 7 part-of-speech tags: <tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (1636; 4% instances), <tt><a href="de_lit-pos-DET.html">DET</a></tt> (172; 0% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (81; 0% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt> (41; 0% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (5; 0% instances).
 
 ### `PRON`
 
 1636 <tt><a href="de_lit-pos-PRON.html">PRON</a></tt> tokens (60% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="de_lit-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1626; 99%), <tt><a href="de_lit-feat-Case.html">Case</a></tt><tt>=Nom</tt> (968; 59%), <tt><a href="de_lit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (940; 57%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="de_lit-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1626; 99%), <tt><a href="de_lit-feat-Case.html">Case</a></tt><tt>=Nom</tt> (967; 59%), <tt><a href="de_lit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (940; 57%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -41,15 +41,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `DET`
 
-169 <tt><a href="de_lit-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `Number`.
+172 <tt><a href="de_lit-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="de_lit-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (163; 96%), <tt><a href="de_lit-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (110; 65%), <tt><a href="de_lit-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (91; 54%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="de_lit-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (165; 96%), <tt><a href="de_lit-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (110; 64%), <tt><a href="de_lit-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (91; 53%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (22; 13% of non-empty `Number`): <em>den, die, der, alle, allen, diese, i, mancher, meisten</em>
-* `Sing` (147; 87% of non-empty `Number`): <em>jeder, jedem, jedes, jede, die, der, jeden, la, des, das</em>
-* `EMPTY` (5712): <em>der, die, ein, das, den, eine, des, dem, einer, alles</em>
+* `Sing` (150; 87% of non-empty `Number`): <em>jeder, jedem, jedes, jede, der, die, jeden, la, des, das</em>
+* `EMPTY` (5709): <em>der, die, ein, das, den, eine, des, dem, einer, alles</em>
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -59,6 +59,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="de_lit-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>die</em></td></tr>
   <tr><td><tt><tt><a href="de_lit-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_lit-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>dem</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de_lit-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_lit-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>der</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_lit-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_lit-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>dem</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de_lit-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td></td><td><em>den</em></td></tr>
   <tr><td><tt><tt><a href="de_lit-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_lit-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>des</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de_lit-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_lit-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>der</em></td><td></td></tr>
@@ -73,13 +74,13 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `NOUN`
 
-79 <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Number`.
+81 <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (19; 24% of non-empty `Number`): <em>Momente, Alten, Anfangsgründe, Eigenschaften, Freimaurer, Kinder, Leuten, Mengs, Pantomimen, Philosophen</em>
-* `Sing` (60; 76% of non-empty `Number`): <em>poesie, Glück, Größe, Kunst, Leben, Abgottes, Altertümlichkeit, Arroganz, Ausdrucks, Autor</em>
-* `EMPTY` (7296): <em>Philosophie, Poesie, Geist, Kunst, Sinn, Menschen, Mensch, Witz, Natur, Welt</em>
+* `Plur` (19; 23% of non-empty `Number`): <em>Momente, Alten, Anfangsgründe, Eigenschaften, Freimaurer, Kinder, Leuten, Mengs, Pantomimen, Philosophen</em>
+* `Sing` (62; 77% of non-empty `Number`): <em>poesie, Glück, Größe, Kunst, Leben, Mühe, Abgottes, Altertümlichkeit, Arroganz, Ausdrucks</em>
+* `EMPTY` (7294): <em>Philosophie, Poesie, Geist, Kunst, Sinn, Menschen, Mensch, Witz, Natur, Welt</em>
 
 <table>
   <tr><th>Paradigm <i>Roman</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -87,7 +88,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="de_lit-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Roman</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `NOUN`. 99% lemmas (71) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NOUN`. 99% lemmas (72) occur only with one value of `Number`.
 
 ### `ADJ`
 
@@ -97,7 +98,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (9; 22% of non-empty `Number`): <em>erhaltenden, größten, literarischen, menacés, mißlichsten, politischen, primi, wesentlichen, wiederkehrenden</em>
 * `Sing` (32; 78% of non-empty `Number`): <em>ganze, gebildeten, römische, Letztere, Rembrandtschen, angemessenste, brillant, edle, elektrische, feiner</em>
-* `EMPTY` (3434): <em>große, alten, erste, ersten, ganze, eignen, großen, höchsten, möglich, neue</em>
+* `EMPTY` (3436): <em>große, alten, erste, ersten, ganze, eignen, großen, höchsten, möglich, neue</em>
 
 `Number` seems to be **lexical feature** of `ADJ`. 100% lemmas (35) occur only with one value of `Number`.
 
@@ -119,7 +120,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (1; 17% of non-empty `Number`): <em>leben</em>
 * `Sing` (5; 83% of non-empty `Number`): <em>Ehre, erfolge, fait, strömt, wohlgehe</em>
-* `EMPTY` (3088): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
+* `EMPTY` (3087): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
 
 ### `AUX`
 

@@ -65,7 +65,7 @@ The following 22 pairs of parts of speech are connected with `conj`: <tt><a href
 2	кынь	кынь	NOUN	N	Case=Nom|Number=Sing	3	nmod	_	GTtags=Sg,Nom
 3	рожа	рожа	NOUN	N	Case=Nom|Number=Sing	4	nmod	_	GTtags=Sg,Nom
 4	видзысь	видзысь	NOUN	N	Case=Nom|Number=Sing	8	nsubj	_	GTtags=Sg,Nom
-5	вед	вед	ADV	Adv	_	8	advmod:eval	_	GTtags=Parenthetic
+5	вед	вед	ADV	Adv	_	8	advmod	_	GTtags=Parenthetic
 6	пыр	пыр	ADV	Adv	_	8	advmod	_	_
 7	на	на	ADV	Adv	_	8	advmod	_	_
 8	лооя	ловъя	NOUN	N	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom|SpaceAfter=No

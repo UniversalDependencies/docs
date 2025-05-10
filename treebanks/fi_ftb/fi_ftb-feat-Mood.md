@@ -10,24 +10,24 @@ This feature is universal.
 It occurs with 5 different values: `Cnd`, `Imp`, `Ind`, `Opt`, `Pot`.
 
 24104 tokens (15%) have a non-empty value of `Mood`.
-6296 types (14%) occur at least once with a non-empty value of `Mood`.
+6290 types (14%) occur at least once with a non-empty value of `Mood`.
 1844 lemmas (9%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (16939; 11% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (7165; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (16940; 11% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (7164; 4% instances).
 
 ### `VERB`
 
-16939 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Mood`.
+16940 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16939; 100%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (16939; 100%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (16939; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (16939; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (15274; 90%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11820; 70%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (10233; 60%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9111; 54%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16940; 100%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (16940; 100%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (16940; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (16940; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (15275; 90%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11821; 70%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (10234; 60%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9112; 54%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (902; 5% of non-empty `Mood`): <em>olisi, tulisi, haluaisin, luulisi, saisi, tekisi, haluaisi, kannattaisi, uskoisi, kertoisi</em>
 * `Imp` (672; 4% of non-empty `Mood`): <em>ota, tule, anna, tulkaa, kerro, sano, vie, mene, tee, ole</em>
-* `Ind` (15277; 90% of non-empty `Mood`): <em>on, oli, ole, tulee, tuli, saa, sanoi, ovat, sai, sanoo</em>
+* `Ind` (15278; 90% of non-empty `Mood`): <em>on, oli, ole, tulee, tuli, saa, sanoi, ovat, sai, sanoo</em>
 * `Opt` (3; 0% of non-empty `Mood`): <em>Kuullos, Nukkuos</em>
 * `Pot` (85; 1% of non-empty `Mood`): <em>hypänne, luvanne, lienee, Saanen, joutunee, ratkennee, valmistunee, kertone, liene, päätettäneen</em>
-* `EMPTY` (10255): <em>olla, ei, ollut, tehdä, mennä, tulla, saanut, saada, ottaa, lähteä</em>
+* `EMPTY` (10386): <em>olla, ei, ollut, tehdä, mennä, tulla, saanut, saada, ottaa, lähteä</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Pot</tt></th></tr>
@@ -55,7 +55,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ko,S</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>onkos</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Oonksmä, ooks, oonko</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Olenko</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ootko, ootsä, Ookkonää, oleks</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ootko, Ookkonää, oleks</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Oletko</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Oliks</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>onks, onk</em></td><td></td><td></td><td></td></tr>
@@ -113,18 +113,18 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-7165 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (69% of all `AUX` tokens) have a non-empty value of `Mood`.
+7164 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (69% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7165; 100%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (7054; 98%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7021; 98%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5557; 78%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (5480; 76%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4931; 69%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7164; 100%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (7053; 98%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7020; 98%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5556; 78%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (5479; 76%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4930; 69%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (668; 9% of non-empty `Mood`): <em>olisi, pitäisi, voisi, olisin, olisivat, voisin, olis, olisit, ois, olisiko</em>
 * `Imp` (147; 2% of non-empty `Mood`): <em>älä, älkää, ole, olkoon, olkaa, olkoot, älköön, älkäämme, älkööt, äläkä</em>
-* `Ind` (6310; 88% of non-empty `Mood`): <em>on, oli, ovat, ole, voi, olen, olivat, olin, pitää, täytyy</em>
+* `Ind` (6309; 88% of non-empty `Mood`): <em>on, oli, ovat, ole, voi, olen, olivat, olin, pitää, täytyy</em>
 * `Opt` (1; 0% of non-empty `Mood`): <em>Ollos</em>
 * `Pot` (39; 1% of non-empty `Mood`): <em>lienee, liene, täytynee, voinee, lieneekö, lienevät, Liekö, Mahtaneeko, lie, lieneekään</em>
-* `EMPTY` (3241): <em>ei, en, eivät, olla, eikä, et, ollut, eikö, emme, enkä</em>
+* `EMPTY` (3242): <em>ei, en, eivät, olla, eikä, et, ollut, eikö, emme, enkä</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Pot</tt></th><th><tt>Opt</tt></th></tr>
@@ -162,7 +162,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olinko</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olenko</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>Olisinko</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Ooksää, Ootko, Ootsä, oleksä, ook</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Ooksää, Ootko, oleksä, ook</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Olitko</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>oletko</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olik, oliks</em></td><td></td><td></td><td></td><td></td></tr>
@@ -198,7 +198,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="fi_ftb-feat-Connegative.html">Connegative</a></tt><tt>=Yes</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>olisi</em></td><td><em>liene</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Connegative.html">Connegative</a></tt><tt>=Yes</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>oltaisi</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>oli</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>oon, Oom, Oommä, ole, on</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>oon, Oom, ole, on</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>oisin, oisi</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olin</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olen</em></td><td></td><td></td><td></td><td></td></tr>
@@ -236,5 +236,6 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1406; 72%),
 <tt>AUX --[<tt><a href="fi_ftb-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<tt><a href="fi_ftb-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="fi_ftb-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%).
 

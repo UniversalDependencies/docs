@@ -66,11 +66,11 @@ The 2nd highest number of forms (3) was observed with the lemma “na”: <em>na
 
 The 3rd highest number of forms (2) was observed with the lemma “ni”: <em>ni, nid</em>.
 
-`PART` occurs with 1 features: <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt> (125; 6% instances)
+`PART` occurs with 2 features: <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt> (125; 6% instances), <tt><a href="cy_ccg-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`PART` occurs with 1 feature-value pairs: `Mutation=SM`
+`PART` occurs with 2 feature-value pairs: `ExtPos=ADV`, `Mutation=SM`
 
-`PART` occurs with 2 feature combinations.
+`PART` occurs with 3 feature combinations.
 The most frequent feature combination is `_` (2114 tokens).
 Examples: <em>yn, yr, 'n, nid, y, nad, fe, na, mi, ni</em>
 

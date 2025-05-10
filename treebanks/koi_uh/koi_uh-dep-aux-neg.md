@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: Relations: `aux:neg`
 
 This relation is a language-specific subtype of <tt><a href="koi_uh-dep-aux.html">aux</a></tt>.
-There are also 2 other language-specific subtypes of `aux`: <tt><a href="koi_uh-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="koi_uh-dep-aux-pot.html">aux:pot</a></tt>.
+There are also 1 other language-specific subtypes of `aux`: <tt><a href="koi_uh-dep-aux-pot.html">aux:pot</a></tt>.
 
 6 nodes (1%) are attached to their parents as `aux:neg`.
 
@@ -24,7 +24,7 @@ The following 5 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 # visual-style 4	fgColor:white
 # visual-style 4 3 aux:neg	color:blue
 1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj:cop	_	GTtags=Pron,Pers,Sg1,Nom
-2	татӧн	татӧн	ADV	Adv	_	4	advmod:lmod	_	GTtags=Adv
+2	татӧн	татӧн	ADV	Adv	AdvType=Loc	4	advmod	_	GTtags=Adv
 3	не	не	AUX	Pcle	_	4	aux:neg	_	GTtags=Pcle
 4	ӧтнам	ӧтнам	ADV	Adv	_	0	root	_	GTtags=Adv|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	GTtags=CLB
@@ -55,7 +55,7 @@ The following 5 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 aux:neg	color:blue
-1	Абу	абу	AUX	_	Polarity=Neg	4	aux:neg	_	GTtags=CC,Neg
+1	Абу	абу	AUX	_	ExtPos=AUX|Polarity=Neg	4	aux:neg	_	GTtags=CC,Neg
 2	ни	ни	ADV	_	Polarity=Neg	1	fixed	_	_
 3	сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj:cop	_	GTtags=Pers,Sg3,Nom
 4	морт	морт	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	0	root	_	GTtags=Sem/Ani,Sg,Nom|SpaceAfter=No

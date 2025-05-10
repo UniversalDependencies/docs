@@ -9,34 +9,44 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="egy_ujaen-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-115 nodes (1%) are attached to their parents as `acl`.
+237 nodes (1%) are attached to their parents as `acl`.
 
-115 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.33913043478261.
+237 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.12236286919831.
 
-The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (98; 85% instances), <tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (17; 15% instances).
+The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (183; 77% instances), <tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (46; 19% instances), <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 12 acl	color:blue
-1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
-2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
-3	ꞽn	ꞽn	ADP	Status=Cons	_	4	case	_	Hiero=𓇋:𓈖
-4	Nw.t	Nw.t	PROPN	Hierocl=Yes	Gender=Fem	1	obl:agent	_	Hiero=(𓏌*𓏏:)𓇯
-5	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	4	appos	_	Hiero=𓅜(𓐍:𓏏)
-6	wr.t	wr.t	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	Hiero=𓅨(𓂋:𓏏)
-7	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	1	ccomp	_	Hiero=𓅭
-8	(⸗ꞽ)	ꞽ	PRON	Pron=SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	7	nmod	_	Hiero=No
-9	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	cop	_	Hiero=𓊪𓅱
-10	śmś.w	śmś	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	Hiero=𓋴𓄟𓅱
-11	Ttꞽ	Ttꞽ	PROPN	_	Gender=Masc	7	nsubj	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
-12	wp	wpi̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	acl	_	Hiero=𓄋:𓊪
-13	ẖ.t	ẖ.t	NOUN	MWE=Yes	Gender=Fem|Number=Sing	12	obj	_	Hiero=𓄡(:𓏏*𓏤)
-14	(⸗ꞽ)	ꞽ	PRON	Pron=SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	13	nmod	_	Hiero=No
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 acl	color:blue
+1	smꞽn	smꞽn	NOUN	_	_	2	nsubj	_	Hiero=𓊃𓅓𓏇𓈖
+2	smꞽn	smꞽn	NOUN	_	_	0	root	_	Hiero=𓊃𓅓𓏇𓈖
+3	wpp	wpi̯	VERB	_	Gender=Masc|Number=Sing|Tense=Pres|VerbClass=3aeinf|VerbForm=Part	2	acl	_	ADJ|Hiero=𓅱(𓄋:𓊪*𓊪)
+4	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	Hiero=𓂋
+5	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	Hiero=𓎡|Poss=Yes|Pron=SFP
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 acl	color:blue
+1	ꞽn	ꞽn	PART	_	PartType=Emp	2	discourse	_	Hiero=𓇋:𓈖
+2	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	0	root	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
+3	č̣ṭ	č̣ṭ	VERB	_	Gender=Masc|Number=Sing|Tense=Pres|VerbClass=2lit|VerbForm=Part|Voice=Act	2	acl	_	ADJ|Hiero=𓆓:𓂧
+4	ꞽm.t	m	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	3	obj	_	Hiero=𓇋𓏶𓏏|Nisba=Prep
+5	ꞽb	ꞽb	NOUN	_	Gender=Masc|Number=Sing	4	compound	_	Hiero=𓄣|MWE=Yes
+6	Wr.t	Wr.t	PROPN	_	Gender=Fem	5	nmod:poss	_	Hiero=𓅨:𓂋:𓏏|Name=Epith
+7	m	m	ADP	_	Case=Tem	8	case	_	Hiero=𓅓|Status=Cons
+8	ḥꜣb	ḥꜣb	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	Hiero=𓉲:𓎱|Hierocl=Yes
+9	ꞽnś	ꞽnś.ꞽ	NOUN	_	Gender=Masc|Number=Sing	8	nmod:poss	_	Hiero=𓇋𓈖𓋴𓋳|Hierocl=Yes
 
 ~~~
 
@@ -44,27 +54,18 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 acl	color:blue
-1	fꜣ	fꜣi̯	VERB	_	Mood=Imp|Number=Sing	0	root	_	Hiero=𓆑:𓄿
-2	ḥr	ḥr	NOUN	MWE=Yes	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓁷
-3	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Hiero=𓎡
-4	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	1	vocative	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
-5	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	Hiero=𓊪𓅱
-6	wꜣš	wꜣš	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	Hiero=𓍯𓄿𓈙
-7	śpṭ	śpṭ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	Hiero=𓋴𓇮𓂧
-8	mꜣ	mꜣꜣ	VERB	SPC=Sub|Clause=Final	Mood=Sub	1	advcl	_	Hiero=𓌴:𓁹
-9	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	Hiero=𓎡
-10	n	n	ADP	Status=Cons	Case=Acc	11	case	_	Hiero=𓈖
-11	pr.t	pri̯	NOUN	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	obj	_	Hiero=𓉐:𓂋:𓏏
-12	ꞽm	m	ADP	Status=Pron	Case=Ela	13	case	_	Hiero=𓇋𓅓
-13	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	obl	_	Hiero=𓎡
-14	ḥ(w)	ḥwi̯	VERB	SPC=Pres|Type=Pred	Tense=Pres|VerbForm=Fin	8	advcl	_	Hiero=𓎛
-15	⸗ś	ś	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Hiero=𓋴
-16	śḫt	śḫt	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	obj	_	Hiero=𓋴(𓐍:𓏏)
-17	ꞽm	m	ADP	Status=Pron	Case=Loc	18	case	_	Hiero=𓇋𓅓
-18	(⸗ś)	ś	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obl	_	Hiero=No
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 acl	color:blue
+1	ꞽꞽ.n	ꞽwi̯	VERB	_	SubForm=AbstRel|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇍𓈖|SPC=Past-2
+2	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	1	nsubj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
+3	mꜣ	mꜣꜣ	VERB	_	Mood=Sub|VerbClass=2aered	1	advcl	_	Hiero=(𓌴:𓁹)𓄿|SPC=Sub
+4	⸗čn	čn	PRON	_	Gender=Com|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Hiero=𓍿:𓈖|Pron=SFP
+5	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Hiero=𓇓𓅱|Pron=Dep
+6	ḫpr(.w)	ḫpr	VERB	_	Gender=Masc|Number=Sing|Person=3|VerbClass=3lit|VerbForm=Fin	5	acl	_	Hiero=(𓐍:𓊪)𓆣𓂋|OSSC=StatConv
+7	m	m	ADP	_	Case=Equ	8	case	_	Hiero=𓅓|Status=Cons
+8	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	Hiero=𓊹
+9	ꜥꜣ	ꜥꜣi̯	ADJ	_	Gender=Masc|Number=Sing|Tense=Pres|VerbClass=3aeinf|VerbForm=Part|Voice=Act	8	compound	_	Hiero=𓉼
 
 ~~~
 

@@ -67,7 +67,7 @@ The following 15 pairs of parts of speech are connected with `nsubj:outer`: <tt>
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 2 nsubj:outer	color:blue
-1	Det	det	DET	det	Gender=Neut|PronType=Dem	2	det	_	_
+1	Det	det	DET	det	Gender=Neut|PronType=Art	2	det	_	_
 2	nedslåande	nedslåande	ADJ	adj	Degree=Pos	8	nsubj:outer	_	_
 3	er	vere	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	_
 4	at	at	SCONJ	sbu	_	8	mark	_	_

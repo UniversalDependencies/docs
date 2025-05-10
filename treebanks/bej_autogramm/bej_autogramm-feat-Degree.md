@@ -35,7 +35,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `DET` tokens may have the following values of `Degree`:
 
 * `Dim` (3; 100% of non-empty `Degree`): <em>=t</em>
-* `EMPTY` (1734): <em>=t, i=, oː=, w=, ti=, uː=, oːn, t=, uːn, j=</em>
+* `EMPTY` (1733): <em>=t, i=, oː=, w=, ti=, uː=, oːn, t=, uːn, j=</em>
 
 ### `VERB`
 

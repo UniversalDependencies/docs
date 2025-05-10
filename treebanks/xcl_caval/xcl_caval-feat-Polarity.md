@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-1572 tokens (2%) have a non-empty value of `Polarity`.
+1677 tokens (2%) have a non-empty value of `Polarity`.
 8 types (0%) occur at least once with a non-empty value of `Polarity`.
 3 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (1561; 2% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (11; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (1666; 2% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (11; 0% instances).
 
 ### `PART`
 
-1561 <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> tokens (84% of all `PART` tokens) have a non-empty value of `Polarity`.
+1666 <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> tokens (82% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (1561; 100% of non-empty `Polarity`): <em>ոչ, մի, չ</em>
-* `EMPTY` (296): <em>իսկ, ապաքէն, գուցէ, եթե, թե, թէ, մի, ոչ</em>
+* `Neg` (1666; 100% of non-empty `Polarity`): <em>ոչ, մի, չ</em>
+* `EMPTY` (366): <em>իսկ, ապաքէն, գուցէ, եթե, թէ, թե, եթէ, զիարդ, մի, ոչ</em>
 
 ### `PRON`
 
@@ -32,5 +32,5 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (11; 100% of non-empty `Polarity`): <em>չիք, չիկ</em>
-* `EMPTY` (9786): <em>նա, որ, նորա, ձեզ, նոսա, իմ, իս, նմա, նոցա, քո</em>
+* `EMPTY` (10510): <em>նա, որ, նորա, ձեզ, նոսա, նմա, իմ, նոցա, իս, իւր</em>
 

@@ -39,7 +39,7 @@ The following 4 pairs of parts of speech are connected with `reparandum`: <tt><a
 15	diz	dizer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 16	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	17:det	_
 17	atriz	atriz	NOUN	_	Gender=Fem|Number=Sing	15	nsubj	15:nsubj	SpaceAfter=No
-18	.	.	PUNCT	_	_	15	punct	15:punct	SpaceAfter=No
+18	.	.	PUNCT	_	_	15	punct	15:punct	_
 
 ~~~
 
@@ -70,7 +70,7 @@ The following 4 pairs of parts of speech are connected with `reparandum`: <tt><a
 18	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	19:det	_
 19	cidade	cidade	NOUN	_	Gender=Fem|Number=Sing	13	obl	13:obl:em	SpaceAfter=No
 20	)	)	PUNCT	_	_	13	punct	13:punct	SpaceAfter=No
-21	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+21	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 
@@ -112,7 +112,7 @@ The following 4 pairs of parts of speech are connected with `reparandum`: <tt><a
 29	chamou	chamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	acl:relcl	26:acl:relcl	_
 30	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	31:det	_
 31	atenção	atenção	NOUN	_	Gender=Fem|Number=Sing	29	obj	29:obj	SpaceAfter=No
-32	.	.	PUNCT	_	_	24	punct	24:punct	SpaceAfter=No
+32	.	.	PUNCT	_	_	24	punct	24:punct	_
 
 ~~~
 

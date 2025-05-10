@@ -68,20 +68,20 @@ The 2nd highest number of forms (2) was observed with the lemma “ex”: <em>e,
 
 The 3rd highest number of forms (2) was observed with the lemma “in”: <em>in, inquantum</em>.
 
-`SCONJ` occurs with 4 features: <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt> (5879; 26% instances), <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt> (4923; 21% instances), <tt><a href="la_ittb-feat-Polarity.html">Polarity</a></tt> (207; 1% instances), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt> (42; 0% instances)
+`SCONJ` occurs with 5 features: <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt> (5879; 26% instances), <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt> (4923; 21% instances), <tt><a href="la_ittb-feat-Polarity.html">Polarity</a></tt> (207; 1% instances), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt> (42; 0% instances), <tt><a href="la_ittb-feat-ExtPos.html">ExtPos</a></tt> (13; 0% instances)
 
-`SCONJ` occurs with 4 feature-value pairs: `Compound=Yes`, `Polarity=Neg`, `PronType=Rel`, `VerbForm=Fin`
+`SCONJ` occurs with 6 feature-value pairs: `Compound=Yes`, `ExtPos=ADV`, `ExtPos=SCONJ`, `Polarity=Neg`, `PronType=Rel`, `VerbForm=Fin`
 
-`SCONJ` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (12104 tokens).
+`SCONJ` occurs with 9 feature combinations.
+The most frequent feature combination is `_` (12100 tokens).
 Examples: <em>quod, quia, si, inquantum, licet, dum, ne, quam, ubi, antequam</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="la_ittb-dep-mark.html">mark</a></tt> (22787; 99% instances), <tt><a href="la_ittb-dep-fixed.html">fixed</a></tt> (97; 0% instances), <tt><a href="la_ittb-dep-reparandum.html">reparandum</a></tt> (32; 0% instances), <tt><a href="la_ittb-dep-cc.html">cc</a></tt> (25; 0% instances), <tt><a href="la_ittb-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="la_ittb-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="la_ittb-dep-advcl-cmp.html">advcl:cmp</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="la_ittb-dep-mark.html">mark</a></tt> (22788; 99% instances), <tt><a href="la_ittb-dep-fixed.html">fixed</a></tt> (96; 0% instances), <tt><a href="la_ittb-dep-reparandum.html">reparandum</a></tt> (32; 0% instances), <tt><a href="la_ittb-dep-cc.html">cc</a></tt> (25; 0% instances), <tt><a href="la_ittb-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="la_ittb-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="la_ittb-dep-advcl-cmp.html">advcl:cmp</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (14624; 64% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (4932; 21% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1455; 6% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (672; 3% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (637; 3% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (302; 1% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (239; 1% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt> (54; 0% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (4; 0% instances)
+Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (14624; 64% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (4932; 21% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1455; 6% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (672; 3% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (637; 3% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (303; 1% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (239; 1% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt> (53; 0% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (4; 0% instances)
 
 21857 (95%) `SCONJ` nodes are leaves.
 

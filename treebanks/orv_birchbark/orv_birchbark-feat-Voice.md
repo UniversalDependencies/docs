@@ -70,9 +70,9 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> VERB</tt> (306; 85%),
+<tt>VERB --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> VERB</tt> (307; 85%),
 <tt>VERB --[<tt><a href="orv_birchbark-dep-aux.html">aux</a></tt>]--> AUX</tt> (242; 93%),
-<tt>VERB --[<tt><a href="orv_birchbark-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (237; 87%),
+<tt>VERB --[<tt><a href="orv_birchbark-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (236; 87%),
 <tt>VERB --[<tt><a href="orv_birchbark-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (76; 86%),
 <tt>VERB --[<tt><a href="orv_birchbark-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (69; 77%),
 <tt>VERB --[<tt><a href="orv_birchbark-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (36; 78%),

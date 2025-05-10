@@ -302,6 +302,7 @@ The most frequent other feature values with which `PRON` and `InflClass` co-occu
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td></td><td><em>quarum, quorum</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td></td><td><em>cuius, quod</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td></td><td><em>quorum</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-ExtPos.html">ExtPos</a></tt><tt>=SCONJ</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td></td><td><em>quod</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td></td><td><em>qui, quis, quod</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td></td><td><em>qui</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td></td><td><em>quae, qua</em></td></tr>
@@ -376,9 +377,9 @@ The 10 most frequent relations where parent and child node agree in `InflClass`:
 <tt>DET --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> DET</tt> (259; 88%),
 <tt>DET --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (154; 76%),
 <tt>DET --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (127; 73%),
+<tt>PRON --[<tt><a href="la_ittb-dep-det.html">det</a></tt>]--> DET</tt> (115; 51%),
 <tt>ADJ --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (87; 59%),
 <tt>PRON --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> PRON</tt> (59; 94%),
 <tt>PRON --[<tt><a href="la_ittb-dep-acl-relcl.html">acl:relcl</a></tt>]--> PRON</tt> (54; 70%),
-<tt>PRON --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (48; 72%),
-<tt>AUX --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> AUX</tt> (45; 100%).
+<tt>PRON --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (49; 72%).
 

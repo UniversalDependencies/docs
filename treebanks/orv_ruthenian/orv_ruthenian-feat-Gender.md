@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-54592 tokens (49%) have a non-empty value of `Gender`.
-16391 types (81%) occur at least once with a non-empty value of `Gender`.
-6281 lemmas (81%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (22831; 20% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (8136; 7% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (7693; 7% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (7322; 7% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (5272; 5% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (2628; 2% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (495; 0% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (215; 0% instances).
+54601 tokens (49%) have a non-empty value of `Gender`.
+16368 types (81%) occur at least once with a non-empty value of `Gender`.
+6275 lemmas (81%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (22833; 20% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (8143; 7% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (7693; 7% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (7323; 7% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (5269; 5% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (2629; 2% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (495; 0% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (216; 0% instances).
 
 ### `NOUN`
 
-22831 <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+22833 <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15568; 68%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15570; 68%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (6199; 27% of non-empty `Gender`): <em>м(и)л(о)сти, м(и)л(о)сть, земли, копъ, землю, воли, м(и)л(о)стью, ласки, жоне, волости</em>
-* `Masc` (13228; 58% of non-empty `Gender`): <em>панъ, люди, пан, пана, пану, людеи, листъ, брата, ратманом, грошеи</em>
+* `Fem` (6200; 27% of non-empty `Gender`): <em>м(и)л(о)сти, м(и)л(о)сть, земли, копъ, землю, воли, м(и)л(о)стью, ласки, жоне, волости</em>
+* `Masc` (13229; 58% of non-empty `Gender`): <em>панъ, люди, пан, пана, пану, людеи, листъ, брата, ратманом, грошеи</em>
 * `Neut` (3404; 15% of non-empty `Gender`): <em>мѣста, имѧ, право, права, имя, места, село, чоломъ, села, месте</em>
-* `EMPTY` (40): <em>Самъ., об., Сам., гла(в), н.[айме], (н.[айме]), Самъ, в., ве(л)., глa(в)</em>
+* `EMPTY` (40): <em>Самъ., об., гла(в), Сам., н.[айме], (н.[айме]), Самъ, в., ве(л)., ко(р)</em>
 
 <table>
   <tr><th>Paradigm <i>племя</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -38,15 +38,15 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `DET`
 
-8136 <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
+8143 <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5111; 63%), <tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4687; 58%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5114; 63%), <tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4694; 58%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (2105; 26% of non-empty `Gender`): <em>ваша, тую, свою, тое, тои, ваш(а), вашеи, свои, тыи, тꙋю</em>
-* `Masc` (4802; 59% of non-empty `Gender`): <em>нашим, нашого, тыи, тот, тых, того, сами, тотъ, нашъ, которыи</em>
-* `Neut` (1229; 15% of non-empty `Gender`): <em>того, тое, все, которое, всего, всимъ, том, всим, тых, тыи</em>
+* `Fem` (2105; 26% of non-empty `Gender`): <em>ваша, тую, свою, тое, тои, ваш(а), вашеи, свои, тыи, своею</em>
+* `Masc` (4809; 59% of non-empty `Gender`): <em>нашим, нашого, тыи, тот, тых, того, сами, тотъ, нашъ, которыи</em>
+* `Neut` (1229; 15% of non-empty `Gender`): <em>того, тое, все, которое, всего, всимъ, том, всим, тых, свое</em>
 * `EMPTY` (3): <em>всеми, инꙑхъ, тꙑ(х̑)</em>
 
 <table>
@@ -56,19 +56,13 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
   <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>нашъ, наш, н(а)шъ, нашь, н(а)шь</em></td><td><em>нашу, нашꙋ, нашю, н(а)шу, н(а)шꙋ, нашѹ, нш̃ꙋ</em></td><td><em>нашо, наше, н(а)шо, н(а)ше</em></td></tr>
   <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>наши, нашы, ши</em></td><td><em>наши, н(а)ши, нашы</em></td><td><em>наши, наша, нашые</em></td></tr>
   <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>нашому, нашомꙋ, нашему, н(а)шому, нашемꙋ, нашемоу, н(а)шомꙋ, н(а)ш(е)му, н(а)ш(о)му, нашем(у), нашемѹ, нашѣмоу</em></td><td><em>нашои, нашеи, нашой, н(а)шои</em></td><td><em>нашому, н(а)шому, нашомꙋ, нашѣмоу</em></td></tr>
-  <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>нашимъ</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>нашим, нашимъ, нашым, н(а)шимъ, нашымъ, н(а)шим, н(а)шым, на[шим</em></td><td><em>нашим, нашимъ, нашым</em></td><td><em>нашим, нашымъ, нашимъ, н(а)шим, нашым</em></td></tr>
   <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>нашого, нашог(о), нашего, нашег(о), н(а)шого, н(а)шог(о), нашѣг(о), н(а)ш(о)г(о), н(а)ш(о)го, нашѣго</em></td><td><em>нашое, нашее, н(а)шое, нашеи, н(а)шее, нашей, нашея, нашеѧ, нашои</em></td><td><em>нашого, нашег(о), н(а)ш(о)го, н(а)шого, нашего, нашог(о), нашѣго</em></td></tr>
   <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>нашое</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>нашихъ, нашихь</em></td><td><em>нашихъ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>наших, нашых, нашихъ, н(а)ших, нашихь, нашыхъ, на[ш]их</em></td><td><em>наших, н(а)шихъ, нашихь</em></td><td><em>наших, нашихъ, нашых</em></td></tr>
-  <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>наши(м), нашимъ, нашимь</em></td><td></td><td><em>нашимь</em></td></tr>
-  <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>наши(м)</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>нашим, нашимъ, нашым, нашымъ, н(а)шимъ, н(а)шим, н(а)шымъ, н(а)ш(и)мъ, н(а)шым, нашомъ, нашіимъ</em></td><td><em>нашою, нашею, н(а)шою, нашѣю</em></td><td><em>нашим, нашимъ, нашым</em></td></tr>
+  <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>наших, нашых, нашихъ, нашихь, н(а)ших, нашыхъ, на[ш]их</em></td><td><em>наших, н(а)шихъ, нашихь, нашихъ</em></td><td><em>наших, нашихъ, нашых</em></td></tr>
+  <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>нашим, нашимъ, нашым, нашымъ, н(а)шимъ, наши(м), н(а)шим, н(а)шымъ, н(а)ш(и)мъ, н(а)шым, нашимь, нашомъ, нашіимъ</em></td><td><em>нашою, нашею, н(а)шою, нашѣю</em></td><td><em>нашим, нашимъ, нашимь, нашым</em></td></tr>
   <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>нашою</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>нашими</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>нашими, нашыми, н(а)шими, наш[ими]</em></td><td><em>нашими, нашеми, нашыми, шыми</em></td><td><em>нашими, наши, нашыми</em></td></tr>
-  <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>нашем</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>нашом, нашомъ, нашем, нашемъ, н(а)шомъ, нашемь, нашѣм</em></td><td><em>нашои, нашой, н(а)шои, нашее, нашеи, нашей, нашоі, нашѣи</em></td><td><em>нашомъ, нашом</em></td></tr>
   <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>наших, нашых</em></td><td><em>наших, н(а)ших, нашихь</em></td><td><em>нашых</em></td></tr>
   <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>наш, нашъ, нашь, н(а)шъ, н(а)шь</em></td><td><em>наша, наш(а), н(а)ша, наща</em></td><td><em>наше, нашѣ, н(а)ше, н(а)шо, нашо</em></td></tr>
@@ -100,15 +94,15 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 ### `ADJ`
 
-7322 <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Gender`.
+7323 <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="orv_ruthenian-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6590; 90%), <tt><a href="orv_ruthenian-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (6505; 89%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5254; 72%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="orv_ruthenian-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6595; 90%), <tt><a href="orv_ruthenian-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (6506; 89%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5255; 72%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
 * `Fem` (1382; 19% of non-empty `Gender`): <em>Бож(ъ)ю, пашными, полоцкое, великаѧ, вѣрнаѧ, светое, третюю, верную, доброи, полоцкои</em>
 * `Masc` (4691; 64% of non-empty `Gender`): <em>великии, полоцкии, полоцкого, милым, полоцких, полоцког(о), великого, полоцком, троцкии, полоцкомъ</em>
-* `Neut` (1249; 17% of non-empty `Gender`): <em>Ризког(о), Ризкого, знаменито, Полоцкого, Полоцког(о), Бож(ъ)его, Ризького, великого, Полоцъкомъ, Рызкого</em>
+* `Neut` (1250; 17% of non-empty `Gender`): <em>Ризког(о), Ризкого, знаменито, Полоцкого, Полоцког(о), Бож(ъ)его, Ризького, великого, Полоцъкомъ, Рызкого</em>
 * `EMPTY` (54): <em>13, 6, болши, 9, 2, 5, 8, бол(ь)ши, 10, 11</em>
 
 <table>
@@ -134,24 +128,23 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `PRON`
 
-5272 <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> tokens (69% of all `PRON` tokens) have a non-empty value of `Gender`.
+5269 <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> tokens (69% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4094; 78%), <tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3003; 57%), <tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=3</tt> (3000; 57%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4091; 78%), <tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3000; 57%), <tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=3</tt> (2997; 57%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (110; 2% of non-empty `Gender`): <em>ее, еи, ѡна, нее, неи, них, ee, их, нею, нихъ</em>
-* `Masc` (3260; 62% of non-empty `Gender`): <em>его, их, ему, ихъ, имъ, ѡни, хто, емꙋ, им, ѡн</em>
-* `Neut` (1902; 36% of non-empty `Gender`): <em>то, што, того, том, томъ, тому, тым, томꙋ, тымъ, тог(о)</em>
-* `EMPTY` (2398): <em>мы, намъ, нам, нами, нас, сѧ, вам, насъ, вы, я</em>
+* `Fem` (110; 2% of non-empty `Gender`): <em>ее, еи, ѡна, нее, неи, них, ей, их, нею, нихъ</em>
+* `Masc` (3256; 62% of non-empty `Gender`): <em>его, их, ему, ихъ, имъ, ѡни, хто, емꙋ, им, ѡн</em>
+* `Neut` (1903; 36% of non-empty `Gender`): <em>то, што, того, том, томъ, тому, тым, томꙋ, тымъ, тог(о)</em>
+* `EMPTY` (2394): <em>мы, намъ, нам, нами, нас, сѧ, вам, насъ, вы, я</em>
 
 <table>
   <tr><th>Paradigm <i>онъ</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="orv_ruthenian-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ег(о)</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>его, него, eго, ег(о), єго, нѣго, ѥго, нег(о)</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ему, емꙋ, емоу, ѥму, нему, eмоу, нѣмоу, ємоу, єму, ємѹ, му, немоу, немꙋ</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>его, него, ег(о), єго, нѣго, ѥго, нег(о)</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ему, емꙋ, емоу, ѥму, нему, нѣмоу, ємоу, єму, ємѹ, му, немоу, немꙋ</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td></td><td><em>емꙋ</em></td></tr>
-  <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>его, ег(о), него, єго, нег(о), eго, нѣго, го, е]г(о), ег[о], ниго, нѣг(о), нѣгo, є(г)о</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>его, ег(о), него, єго, нег(о), нѣго, го, е]г(о), ег[о], ниго, нѣг(о), є(г)о</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ним, нимъ</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>нем, немъ, нѣм</em></td><td><em>его</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_ruthenian-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ѡн, ѡнъ, онъ, он, енъ, ѡ(н), ѡ(н)ъ</em></td><td></td><td></td></tr>
@@ -160,22 +153,20 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `VERB`
 
-2628 <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> tokens (28% of all `VERB` tokens) have a non-empty value of `Gender`.
+2629 <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> tokens (28% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="orv_ruthenian-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2628; 100%), <tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2613; 99%), <tt><a href="orv_ruthenian-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2578; 98%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2415; 92%), <tt><a href="orv_ruthenian-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (2290; 87%), <tt><a href="orv_ruthenian-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt> (1855; 71%), <tt><a href="orv_ruthenian-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1821; 69%), <tt><a href="orv_ruthenian-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1421; 54%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="orv_ruthenian-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2629; 100%), <tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2624; 100%), <tt><a href="orv_ruthenian-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2581; 98%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2416; 92%), <tt><a href="orv_ruthenian-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (2290; 87%), <tt><a href="orv_ruthenian-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt> (1858; 71%), <tt><a href="orv_ruthenian-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1824; 69%), <tt><a href="orv_ruthenian-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1499; 57%).
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (248; 9% of non-empty `Gender`): <em>стала, была, записала, приточиласѧ, писаныи, продала, пришла, дана, писана, кꙋпила</em>
-* `Masc` (2024; 77% of non-empty `Gender`): <em>псан, дал, далъ, бил, жаловал, билъ, кꙋпил, поведил, держалъ, писан</em>
-* `Neut` (356; 14% of non-empty `Gender`): <em>было, стало, записано, выписано, дано, бывало, писано, писаные, заплачено, написано</em>
-* `EMPTY` (6676): <em>дали, мають, мают(ь), маеть, казали, держати, послали, дати, давати, мает(ь)</em>
+* `Fem` (247; 9% of non-empty `Gender`): <em>стала, была, записала, приточиласѧ, писаныи, продала, пришла, дана, писана, кꙋпила</em>
+* `Masc` (2027; 77% of non-empty `Gender`): <em>псан, дал, далъ, бил, жаловал, билъ, кꙋпил, поведил, держалъ, писан</em>
+* `Neut` (355; 14% of non-empty `Gender`): <em>было, стало, записано, выписано, дано, бывало, писано, писаные, заплачено, написано</em>
+* `EMPTY` (6671): <em>дали, мають, мают(ь), маеть, казали, держати, послали, дати, давати, мает(ь)</em>
 
 <table>
   <tr><th>Paradigm <i>мети</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="orv_ruthenian-feat-Analyt.html">Analyt</a></tt><tt>=Yes</tt>|<tt><a href="orv_ruthenian-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt></tt></td><td><em>мел</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_ruthenian-feat-Analyt.html">Analyt</a></tt><tt>=Yes</tt></tt></td><td><em>мелъ</em></td><td></td><td><em>мѣло</em></td></tr>
-  <tr><td><tt><tt><a href="orv_ruthenian-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt></tt></td><td><em>мелъ</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_ruthenian-feat-Analyt.html">Analyt</a></tt><tt>=Yes</tt></tt></td><td><em>мел, мелъ</em></td><td></td><td><em>мѣло</em></td></tr>
   <tr><td><tt></tt></td><td><em>мел, мелъ, мял, мѣлъ</em></td><td><em>мела</em></td><td></td></tr>
 </table>
 
@@ -207,13 +198,13 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 ### `AUX`
 
-215 <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> tokens (12% of all `AUX` tokens) have a non-empty value of `Gender`.
+216 <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> tokens (12% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="orv_ruthenian-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (215; 100%), <tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (215; 100%), <tt><a href="orv_ruthenian-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (215; 100%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (214; 100%), <tt><a href="orv_ruthenian-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (214; 100%), <tt><a href="orv_ruthenian-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt> (214; 100%), <tt><a href="orv_ruthenian-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (126; 59%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="orv_ruthenian-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (216; 100%), <tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (216; 100%), <tt><a href="orv_ruthenian-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (216; 100%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (215; 100%), <tt><a href="orv_ruthenian-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (215; 100%), <tt><a href="orv_ruthenian-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt> (215; 100%), <tt><a href="orv_ruthenian-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (127; 59%).
 
 `AUX` tokens may have the following values of `Gender`:
 
-* `Fem` (22; 10% of non-empty `Gender`): <em>была</em>
+* `Fem` (23; 11% of non-empty `Gender`): <em>была</em>
 * `Masc` (106; 49% of non-empty `Gender`): <em>был, былъ, бы(л), будущіи</em>
 * `Neut` (87; 40% of non-empty `Gender`): <em>было</em>
 * `EMPTY` (1607): <em>есмо, бы, были, есми, быти, есте, есть, бꙋдеть, будет(ь), будеть</em>
@@ -228,12 +219,12 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="orv_ruthenian-dep-det.html">det</a></tt>]--> DET</tt> (6601; 100%),
+<tt>NOUN --[<tt><a href="orv_ruthenian-dep-det.html">det</a></tt>]--> DET</tt> (6599; 100%),
 <tt>NOUN --[<tt><a href="orv_ruthenian-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5585; 99%),
 <tt>NOUN --[<tt><a href="orv_ruthenian-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2615; 65%),
 <tt>NOUN --[<tt><a href="orv_ruthenian-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1842; 91%),
 <tt>PROPN --[<tt><a href="orv_ruthenian-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (1692; 99%),
-<tt>NOUN --[<tt><a href="orv_ruthenian-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1388; 76%),
+<tt>NOUN --[<tt><a href="orv_ruthenian-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1389; 76%),
 <tt>PROPN --[<tt><a href="orv_ruthenian-dep-conj.html">conj</a></tt>]--> PROPN</tt> (900; 91%),
 <tt>ADJ --[<tt><a href="orv_ruthenian-dep-conj.html">conj</a></tt>]--> ADJ</tt> (453; 88%),
 <tt>PROPN --[<tt><a href="orv_ruthenian-dep-appos.html">appos</a></tt>]--> NOUN</tt> (366; 84%),

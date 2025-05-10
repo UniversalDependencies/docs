@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="say_autogramm-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="say_autogramm-dep-flat-name.html">flat:name</a></tt>.
 
-89 nodes (1%) are attached to their parents as `flat:foreign`.
+98 nodes (1%) are attached to their parents as `flat:foreign`.
 
-89 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.7752808988764.
+98 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.74489795918367.
 
-The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-X.html">X</a></tt> (89; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-X.html">X</a></tt> (98; 100% instances).
 
 
 ~~~ conllu

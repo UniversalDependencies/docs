@@ -38,7 +38,7 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 19 acl	color:blue
-1	Sementara	sementara	ADV	RB	_	5	advmod	_	MWEPOS=ADV
+1	Sementara	sementara	ADV	RB	ExtPos=ADV	5	advmod	_	MWEPOS=ADV
 2	itu	itu	PRON	PRP	PronType=Dem	1	fixed	_	_
 3	dolar	dolar	NOUN	NN	Number=Sing	5	nsubj:pass	_	_
 4	AS	AS	PROPN	NNP	_	3	nmod	_	_

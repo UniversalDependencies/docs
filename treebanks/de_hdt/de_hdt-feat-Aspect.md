@@ -11,7 +11,7 @@ It occurs with 1 different values: `Perf`.
 
 62615 tokens (2%) have a non-empty value of `Aspect`.
 3788 types (2%) occur at least once with a non-empty value of `Aspect`.
-3191 lemmas (5%) occur at least once with a non-empty value of `Aspect`.
+3191 lemmas (2%) occur at least once with a non-empty value of `Aspect`.
 The feature is used with 2 part-of-speech tags: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (59655; 2% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (2960; 0% instances).
 
 ### `VERB`

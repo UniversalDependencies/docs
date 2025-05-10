@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-26 nodes (0%) are attached to their parents as `appos`.
+29 nodes (0%) are attached to their parents as `appos`.
 
-26 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.88461538461538.
+29 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.68965517241379.
 
-The following 7 pairs of parts of speech are connected with `appos`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (11; 42% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (5; 19% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (4; 15% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (3; 12% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
+The following 7 pairs of parts of speech are connected with `appos`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (13; 45% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (6; 21% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (4; 14% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (3; 10% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 3	manáu	manáu	NOUN	N	Number=Sing	2	appos	_	TokenRange=13:18
 4	usú	sú	AUX	AUXFR	Mood=Ind|Person=3|VerbForm=Fin	7	aux	_	TokenRange=19:22
 5	paá	paá	PART	RPRT	Evident=Nfh|PartType=Mod	7	advmod	_	TokenRange=23:26
-6	aintá	aintá	PRON	PRON	Number=Plur|Person=3|PronType=Prs	7	expl	_	TokenRange=27:32
+6	aintá	aintá	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=3|PronType=Prs	7	expl	_	TokenRange=27:32
 7	umaã	maã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=33:37
 8	aintá	aintá	PRON	PRON2	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=38:43
 9	kupixawa	kupixawa	NOUN	N	Number=Sing	7	obj	_	SpaceAfter=No|TokenRange=44:52
@@ -55,23 +55,26 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 6 appos	color:blue
-1	Indé	indé	PRON	PRON	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	SpaceAfter=No|TokenRange=0:4
-2	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=4:5
-3	Jesus	jesus	PROPN	PROPN	_	8	vocative	_	SpaceAfter=No|TokenRange=6:11
-4	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=11:12
-5	yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=13:17
-6	ruixawa	tuixawa	NOUN	N	Number=Sing|Rel=Cont	1	appos	_	SpaceAfter=No|TokenRange=18:25
-7	,	,	PUNCT	PUNCT	_	6	punct	_	TokenRange=25:26
-8	rexari	xari	VERB	V	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=27:33
-9	yaú	ú	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	8	ccomp	_	TokenRange=34:37
-10	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|PronType=Prs	9	obl	_	TokenRange=38:40
-11	irumu	irumu	ADP	ADP	AdpType=Post	10	case	_	SpaceAfter=No|TokenRange=41:46
-12	.	.	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No|TokenRange=46:47
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 appos	color:blue
+1	Maita	maita	ADV	ADVRA	AdvType=Man|PronType=Int	2	advmod	_	TokenRange=0:5
+2	hambeú	mbeú	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=6:11
+3	:	:	PUNCT	PUNCT	_	9	punct	_	TokenRange=11:12
+4	—	—	PUNCT	PUNCT	_	9	punct	_	TokenRange=12:13
+5	Indé	indé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=2|PronType=Prs	9	vocative	_	TokenRange=14:18
+6	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	TokenRange=19:21
+7	paya	paya	NOUN	N	Number=Sing	5	appos	_	SpaceAfter=No|TokenRange=22:26
+8	,	,	PUNCT	PUNCT	_	9	punct	_	TokenRange=26:27
+9	remukaturú	mukaturú	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	2	ccomp	_	TokenRange=28:38
+10	ixé	ixé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	9	obj	_	TokenRange=39:42
+11	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	obl	_	TokenRange=43:44
+12	suí	suí	ADP	ADP	AdpType=Post	11	case	_	TokenRange=45:48
+13	kwá	kwá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	14	det	_	TokenRange=49:52
+14	ura	ura	NOUN	N	Number=Sing	9	dislocated	_	Orig=hora|OrigLang=por|SpaceAfter=No|TokenRange=53:56
+15	?	?	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=56:57
 
 ~~~
 

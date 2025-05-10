@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 1	Но	но	CCONJ	CC	_	6	cc	_	_
 2	вот	вот	ADV	Adv	_	6	discourse	_	GTtags=Parenthetic
 3	сыа	сійӧ	PRON	Pron	PronType=Dem	6	nsubj	_	GTtags=Err/Dial,Dem
-4	сэтысь	сэтысь	ADV	Adv	Case=Ela	6	advmod:lmod	_	GTtags=Ela
+4	сэтысь	сэтысь	ADV	Adv	AdvType=Loc|Case=Ela	6	advmod	_	GTtags=Ela
 5	и	и	ADV	Adv	_	6	advmod	_	_
 6	петіс	петны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	13	punct	_	_
@@ -38,12 +38,12 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 13	кӧсъям	кӧсйыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	6	dislocated	_	GTtags=Ind,Prs,Pl1
 14	босьны	босьтны	VERB	V	VerbForm=Inf	13	xcomp	_	GTtags=Inf
 15	статус	статус	NOUN	N	Case=Nom|Number=Sing	14	obj	_	GTtags=Sg,Nom
-16	«	_	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
+16	«	«	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
 17	коренного	коренного	X	A	Foreign=Yes	15	appos	_	GTtags=F
 18	малочисленного	малочисленного	X	A	Foreign=Yes	17	flat:foreign	_	GTtags=F
 19	народа	народа	X	N	Foreign=Yes	17	flat:foreign	_	GTtags=Sg,Der,Der/ProprietiveMod,A,Sg,Nom
 20	Севера	Севера	X	N	Foreign=Yes	17	flat:foreign	_	GTtags=Prop,Sg,Der,Der/ProprietiveMod,A,Sg,Nom|SpaceAfter=No
-21	»	_	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
+21	»	»	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
 22	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~

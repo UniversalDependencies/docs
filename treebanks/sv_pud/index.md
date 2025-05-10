@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Joakim Nivre, Bernadeta Griciūtė, Victor Norrman.
 
 Repository: [UD_Swedish-PUD](https://github.com/UniversalDependencies/UD_Swedish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_pud215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_pud216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -72,11 +72,11 @@ Victor Norrman and Joakim Nivre.
 
 ## Features
 
-[Abbr](sv_pud-feat-Abbr.html) – [Case](sv_pud-feat-Case.html) – [Definite](sv_pud-feat-Definite.html) – [Degree](sv_pud-feat-Degree.html) – [Foreign](sv_pud-feat-Foreign.html) – [Gender](sv_pud-feat-Gender.html) – [Mood](sv_pud-feat-Mood.html) – [Number](sv_pud-feat-Number.html) – [NumType](sv_pud-feat-NumType.html) – [Polarity](sv_pud-feat-Polarity.html) – [Poss](sv_pud-feat-Poss.html) – [PronType](sv_pud-feat-PronType.html) – [Tense](sv_pud-feat-Tense.html) – [VerbForm](sv_pud-feat-VerbForm.html) – [Voice](sv_pud-feat-Voice.html)
+[Abbr](sv_pud-feat-Abbr.html) – [Case](sv_pud-feat-Case.html) – [Definite](sv_pud-feat-Definite.html) – [Degree](sv_pud-feat-Degree.html) – [ExtPos](sv_pud-feat-ExtPos.html) – [Foreign](sv_pud-feat-Foreign.html) – [Gender](sv_pud-feat-Gender.html) – [Mood](sv_pud-feat-Mood.html) – [Number](sv_pud-feat-Number.html) – [NumType](sv_pud-feat-NumType.html) – [Polarity](sv_pud-feat-Polarity.html) – [Poss](sv_pud-feat-Poss.html) – [PronType](sv_pud-feat-PronType.html) – [Tense](sv_pud-feat-Tense.html) – [Typo](sv_pud-feat-Typo.html) – [VerbForm](sv_pud-feat-VerbForm.html) – [Voice](sv_pud-feat-Voice.html)
 
 ## Relations
 
-[acl](sv_pud-dep-acl.html) – [acl:cleft](sv_pud-dep-acl-cleft.html) – [acl:relcl](sv_pud-dep-acl-relcl.html) – [advcl](sv_pud-dep-advcl.html) – [advmod](sv_pud-dep-advmod.html) – [amod](sv_pud-dep-amod.html) – [appos](sv_pud-dep-appos.html) – [aux](sv_pud-dep-aux.html) – [aux:pass](sv_pud-dep-aux-pass.html) – [case](sv_pud-dep-case.html) – [cc](sv_pud-dep-cc.html) – [ccomp](sv_pud-dep-ccomp.html) – [compound](sv_pud-dep-compound.html) – [compound:prt](sv_pud-dep-compound-prt.html) – [conj](sv_pud-dep-conj.html) – [cop](sv_pud-dep-cop.html) – [csubj](sv_pud-dep-csubj.html) – [csubj:pass](sv_pud-dep-csubj-pass.html) – [det](sv_pud-dep-det.html) – [discourse](sv_pud-dep-discourse.html) – [dislocated](sv_pud-dep-dislocated.html) – [expl](sv_pud-dep-expl.html) – [fixed](sv_pud-dep-fixed.html) – [flat](sv_pud-dep-flat.html) – [flat:name](sv_pud-dep-flat-name.html) – [iobj](sv_pud-dep-iobj.html) – [mark](sv_pud-dep-mark.html) – [nmod](sv_pud-dep-nmod.html) – [nmod:poss](sv_pud-dep-nmod-poss.html) – [nsubj](sv_pud-dep-nsubj.html) – [nsubj:pass](sv_pud-dep-nsubj-pass.html) – [nummod](sv_pud-dep-nummod.html) – [obj](sv_pud-dep-obj.html) – [obl](sv_pud-dep-obl.html) – [obl:agent](sv_pud-dep-obl-agent.html) – [orphan](sv_pud-dep-orphan.html) – [parataxis](sv_pud-dep-parataxis.html) – [punct](sv_pud-dep-punct.html) – [root](sv_pud-dep-root.html) – [vocative](sv_pud-dep-vocative.html) – [xcomp](sv_pud-dep-xcomp.html)
+[acl](sv_pud-dep-acl.html) – [acl:cleft](sv_pud-dep-acl-cleft.html) – [acl:relcl](sv_pud-dep-acl-relcl.html) – [advcl](sv_pud-dep-advcl.html) – [advmod](sv_pud-dep-advmod.html) – [amod](sv_pud-dep-amod.html) – [appos](sv_pud-dep-appos.html) – [aux](sv_pud-dep-aux.html) – [aux:pass](sv_pud-dep-aux-pass.html) – [case](sv_pud-dep-case.html) – [cc](sv_pud-dep-cc.html) – [ccomp](sv_pud-dep-ccomp.html) – [compound](sv_pud-dep-compound.html) – [compound:prt](sv_pud-dep-compound-prt.html) – [conj](sv_pud-dep-conj.html) – [cop](sv_pud-dep-cop.html) – [csubj](sv_pud-dep-csubj.html) – [csubj:pass](sv_pud-dep-csubj-pass.html) – [det](sv_pud-dep-det.html) – [discourse](sv_pud-dep-discourse.html) – [dislocated](sv_pud-dep-dislocated.html) – [expl](sv_pud-dep-expl.html) – [fixed](sv_pud-dep-fixed.html) – [flat](sv_pud-dep-flat.html) – [flat:name](sv_pud-dep-flat-name.html) – [iobj](sv_pud-dep-iobj.html) – [mark](sv_pud-dep-mark.html) – [nmod](sv_pud-dep-nmod.html) – [nmod:poss](sv_pud-dep-nmod-poss.html) – [nsubj](sv_pud-dep-nsubj.html) – [nsubj:outer](sv_pud-dep-nsubj-outer.html) – [nsubj:pass](sv_pud-dep-nsubj-pass.html) – [nummod](sv_pud-dep-nummod.html) – [obj](sv_pud-dep-obj.html) – [obl](sv_pud-dep-obl.html) – [obl:agent](sv_pud-dep-obl-agent.html) – [orphan](sv_pud-dep-orphan.html) – [parataxis](sv_pud-dep-parataxis.html) – [punct](sv_pud-dep-punct.html) – [root](sv_pud-dep-root.html) – [vocative](sv_pud-dep-vocative.html) – [xcomp](sv_pud-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -114,23 +114,23 @@ Victor Norrman and Joakim Nivre.
 </ul>
 
 <ul>
-<li>This corpus contains 60 lemmas tagged as pronouns (PRON): 'ya, Papua, alla, allt, alltihop, allting, alltsammans, andra, annat, båda, bådas, de, den, denna, dennes, deras, dess, dessa, detta, din, du, en, ens, er, ett, fler, han, hans, hennes, her, hon, ingen, inget, intet, jag, man, me, min, my, mycket, många, mångt, ni, någon, något, några, sig, sin, som, vad, varandra, vars, vem, vi, vilka, vilkas, vilken, vilket, vår, you</li>
+<li>This corpus contains 36 lemmas tagged as pronouns (PRON): all, alltihop, allting, alltsammans, annan, båda, de, den, denna, du, en, han, her, hon, ingen, intet, jag, man, me, my, mycket, många, ni, någon, sig, som, vad, varandra, vars, vem, vi, vilka, vilkas, vilken, vilket, you</li>
 </ul>
 
 <ul>
-<li>This corpus contains 17 lemmas tagged as determiners (DET): A, Die, El, Le, all, båda, de, den, denna, en, ingen, las, någon, that, the, varje, vilken</li>
+<li>This corpus contains 18 lemmas tagged as determiners (DET): a, all, båda, de, den, denna, die, el, en, ingen, las, le, lite, någon, that, the, varje, vilken</li>
 </ul>
 
 <ul>
-<li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: båda, de, den, denna, en, ingen, någon, vilken</li>
+<li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: all, båda, de, den, denna, en, ingen, någon, vilken</li>
 </ul>
 
 <ul>
-<li>This corpus contains 13 lemmas tagged as auxiliaries (AUX): behöva, bli, böra, do, få, ha, komma, kunna, må, måste, skola, vara, vilja</li>
+<li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): bli, böra, do, få, ha, komma, kunna, må, måste, skola, vara, vilja</li>
 </ul>
 
 <ul>
-<li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: behöva, bli, få, ha, komma, kunna, vara, vilja</li>
+<li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: bli, få, ha, komma, kunna, vara, vilja</li>
 </ul>
 
 <ul>
@@ -149,7 +149,7 @@ Victor Norrman and Joakim Nivre.
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: vara, ha, kunna, behöva, bli, få, må, vilja</li>
+    <li>AUX: vara, ha, kunna, bli, få, må, vilja</li>
     <li>VERB: ha, få, göra, ta, gå, se, använda, bli, hjälpa, spela</li>
   </ul>
   </li>
@@ -159,7 +159,8 @@ Victor Norrman and Joakim Nivre.
   <li>Part
   <ul>
     <li>ADJ: betydande, följande, kända, sett, allierade, förenta, känd, levande, omfattande, regisserad</li>
-    <li>VERB: Breaking</li>
+    <li>ADV: fortsatt</li>
+    <li>VERB: avskedad, besegrad, dödade, filmad, förbluffad, intervjuad, tvingade</li>
   </ul>
   </li>
 </ul>
@@ -190,6 +191,7 @@ Victor Norrman and Joakim Nivre.
       <li>NUM: en</li>
       <li>PRON: han, jag, sin, den, hon, vi, honom, en, du, henne</li>
       <li>PROPN: Karels, låglandseuropa</li>
+      <li>VERB-Part: avskedad, besegrad, filmad, förbluffad, intervjuad</li>
     </ul>
   </li>
 </ul>
@@ -202,7 +204,7 @@ Victor Norrman and Joakim Nivre.
       <li>DET: ett, det, detta, något, inget, vilket, allt</li>
       <li>NOUN: år, havet, fall, kriget, liv, antal, barn, åren, land, slutet</li>
       <li>NUM: ett</li>
-      <li>PRON: det, detta, sitt, vad, vilket, ett, mycket, allt, vårt, allting</li>
+      <li>PRON: det, detta, sitt, vilket, ett, allt, vårt, inget, något, alltihop</li>
       <li>PROPN: Panamanäset</li>
     </ul>
   </li>
@@ -216,12 +218,13 @@ Victor Norrman and Joakim Nivre.
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: andra, flera, nya, stora, fler, vissa, inhemska, små, amerikanska, brittiska</li>
-      <li>ADJ-Part: förenta, kända, inblandade, Finansierade, allierade, avlidna, besvarade, beväpnade, dödade, erövrade</li>
-      <li>DET: de, alla, dessa, några, båda, inga</li>
+      <li>ADJ: många, flera, andra, nya, stora, olika, fler, vissa, inhemska, små</li>
+      <li>ADJ-Part: förenta, kända, inblandade, Finansierade, allierade, avlidna, besvarade, beväpnade, erövrade, försakade</li>
+      <li>DET: de, dessa, alla, några, båda, inga</li>
       <li>NOUN: år, personer, miljoner, dollar, barn, människor, åren, delar, företag, gånger</li>
       <li>PRON: de, sina, vi, dem, vilka, oss, alla, dessa, många, andra</li>
-      <li>PROPN: Mps, Victorias</li>
+      <li>PROPN: Mps</li>
+      <li>VERB-Part: dödade, tvingade</li>
     </ul>
   </li>
 </ul>
@@ -229,13 +232,14 @@ Victor Norrman and Joakim Nivre.
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: stor, lång, direkt, egen, ensam, hög, liten, modern, politisk, annat</li>
-      <li>ADJ-Part: sett, känd, regisserad, anställd, fortsatt, gift, intresserad, misstänkte, samlad, tvungen</li>
+      <li>ADJ: stor, lång, direkt, egen, ensam, hög, liten, modern, politisk, sist</li>
+      <li>ADJ-Part: sett, känd, regisserad, anställd, gift, intresserad, misstänkte, samlad, tvungen, utgiven</li>
       <li>DET: en, den, ett, det, denna, varje, detta, någon, något, ingen</li>
       <li>NOUN: havet, år, grund, oktober, världen, del, delen, kriget, liv, tiden</li>
       <li>NUM: en, ett</li>
       <li>PRON: det, han, jag, sin, den, hon, detta, honom, sitt, vad</li>
-      <li>PROPN: North, Punta, Amazon, Cuaron, Karels, Korint, Krasnoyarsk, MahaNakhon, Panamanäset, Slack</li>
+      <li>PROPN: Punta, Amazon, Cuaron, Karels, Korint, Krasnoyarsk, MahaNakhon, Panamanäset, Slack, Tesla</li>
+      <li>VERB-Part: avskedad, besegrad, filmad, förbluffad, intervjuad</li>
     </ul>
   </li>
 </ul>
@@ -267,11 +271,11 @@ Victor Norrman and Joakim Nivre.
     <ul>
       <li>ADJ: andra, första, nya, många, flera, stora, stor, hela, senaste, samma</li>
       <li>ADJ-Part: betydande, följande, kända, sett, allierade, förenta, känd, levande, omfattande, regisserad</li>
-      <li>ADV: Anyway</li>
       <li>NOUN: år, havet, personer, fall, miljoner, grund, oktober, världen, del, delen</li>
       <li>NUM: två, tre, fyra, 1, sex, 10, tio, 000, 2014, 2015</li>
-      <li>PRON: han, de, jag, hon, vi, du, man, Me, Papua, ni</li>
+      <li>PRON: han, de, jag, hon, vi, du, man, ni</li>
       <li>PROPN: Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, Medelhavet, Albanien, Donald</li>
+      <li>VERB-Part: avskedad, besegrad, dödade, filmad, förbluffad, intervjuad, tvingade</li>
     </ul>
   </li>
 </ul>
@@ -285,8 +289,8 @@ Victor Norrman and Joakim Nivre.
   <li>Def
     <ul>
       <li>ADJ: hela, senaste, sista, högsta, nya, brittiska, norra, största, södra, bästa</li>
-      <li>ADJ-Part: allierade, misstänkte, Förenade, bildade, bundna, frusna, frånskilda, föreslagna, hyllade, idealiserade</li>
-      <li>DET: den, de, det, denna, the, dessa, detta, a, båda, Die</li>
+      <li>ADJ-Part: allierade, misstänkte, Förenade, befästa, bildade, bundna, frusna, frånskilda, föreslagna, hyllade</li>
+      <li>DET: den, de, det, denna, dessa, detta, båda</li>
       <li>NOUN: havet, världen, delen, kriget, tiden, gången, regeringen, regionen, staden, åren</li>
       <li>PRON: det, han, de, sig, hans, jag, sin, den, hon, sina</li>
       <li>PROPN: Panamanäset</li>
@@ -297,13 +301,14 @@ Victor Norrman and Joakim Nivre.
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: andra, nya, stor, samma, stora, vissa, lång, direkt, egen, ensam</li>
-      <li>ADJ-Part: sett, känd, kända, regisserad, anställd, fortsatt, gift, inblandade, intresserad, samlad</li>
-      <li>DET: en, ett, varje, några, någon, något, ingen, inget, a, inga</li>
+      <li>ADJ: andra, nya, stor, samma, stora, olika, vissa, lång, direkt, egen</li>
+      <li>ADJ-Part: sett, känd, kända, regisserad, anställd, gift, inblandade, intresserad, samlad, tvungen</li>
+      <li>DET: en, ett, varje, några, någon, något, ingen, inget, inga, vilket</li>
       <li>NOUN: år, personer, fall, miljoner, grund, oktober, del, liv, plats, antal</li>
       <li>NUM: en, ett</li>
-      <li>PRON: vad, vilket, en, vilka, alla, ett, mycket, många, någon, allt</li>
+      <li>PRON: vad, mer, vilket, en, vilka, alla, ett, mycket, många, någon</li>
       <li>PROPN: Korint, låglandseuropa</li>
+      <li>VERB-Part: avskedad, besegrad, dödade, filmad, förbluffad, intervjuad, tvingade</li>
     </ul>
   </li>
 </ul>
@@ -318,7 +323,7 @@ Victor Norrman and Joakim Nivre.
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: större, tidigare, högre, mer, senare, bättre, färre, ytterligare, äldre, Nedre</li>
+      <li>ADJ: flera, fler, större, tidigare, högre, mer, senare, bättre, färre, ytterligare</li>
       <li>ADV: mer, senare, tidigare, längre, mindre, bättre, hellre, snarare, närmare, vidare</li>
     </ul>
   </li>
@@ -327,9 +332,11 @@ Victor Norrman and Joakim Nivre.
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: nya, andra, många, flera, stora, stor, hela, samma, brittiska, olika</li>
+      <li>ADJ: nya, andra, många, stora, stor, hela, samma, brittiska, olika, amerikanska</li>
       <li>ADJ-Part: betydande, följande, kända, sett, allierade, förenta, känd, levande, omfattande, regisserad</li>
-      <li>ADV: helt, mycket, ofta, väldigt, djupt, långt, lite, väl, faktiskt, snart</li>
+      <li>ADV: helt, ofta, väldigt, djupt, långt, mycket, väl, faktiskt, snart, direkt</li>
+      <li>ADV-Part: fortsatt</li>
+      <li>VERB-Part: avskedad, besegrad, dödade, filmad, förbluffad, intervjuad, tvingade</li>
     </ul>
   </li>
 </ul>
@@ -338,7 +345,7 @@ Victor Norrman and Joakim Nivre.
   <li>Sup
     <ul>
       <li>ADJ: senaste, sista, högsta, största, bästa, främsta, sist, bäst, flesta, värsta</li>
-      <li>ADV: mest, främst, sist, värst, Minst, helst, ytterst, knappast</li>
+      <li>ADV: mest, främst, värst, Minst, helst, sist, ytterst, knappast</li>
     </ul>
   </li>
 </ul>
@@ -368,7 +375,6 @@ Victor Norrman and Joakim Nivre.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: Do</li>
       <li>VERB-Fin: Låt, Släpp, Spola</li>
     </ul>
   </li>
@@ -392,9 +398,11 @@ Victor Norrman and Joakim Nivre.
 <ul>
   <li>Past
     <ul>
-      <li>ADJ-Part: kända, sett, allierade, förenta, känd, regisserad, anställd, fortsatt, gift, inblandade</li>
-      <li>AUX-Fin: var, hade, skulle, kunde, ville, blev, borde, Did, behövde, fick</li>
+      <li>ADJ-Part: kända, sett, allierade, förenta, känd, regisserad, anställd, gift, inblandade, intresserad</li>
+      <li>ADV-Part: fortsatt</li>
+      <li>AUX-Fin: var, hade, skulle, kunde, ville, blev, borde, fick</li>
       <li>VERB-Fin: sade, började, hade, blev, gjorde, tog, användes, skrev, spelade, berättade</li>
+      <li>VERB-Part: avskedad, besegrad, dödade, filmad, förbluffad, intervjuad, tvingade</li>
     </ul>
   </li>
 </ul>
@@ -417,7 +425,7 @@ Victor Norrman and Joakim Nivre.
   <li>Act
     <ul>
       <li>AUX-Fin: är, var, har, hade, kan, skulle, kommer, kunde, måste, ville</li>
-      <li>AUX-Inf: vara, ha, kunna, behöva, bli, få, må, vilja</li>
+      <li>AUX-Inf: vara, ha, kunna, bli, få, må, vilja</li>
       <li>AUX-Sup: varit, blivit, kunnat</li>
       <li>VERB-Fin: har, sade, säger, började, hade, blev, gjorde, tog, kommer, börjar</li>
       <li>VERB-Inf: ha, få, göra, ta, gå, se, använda, bli, hjälpa, spela</li>
@@ -447,7 +455,17 @@ Victor Norrman and Joakim Nivre.
 <ul>
   <li>Art
     <ul>
-      <li>DET: den, de, det, the, en</li>
+      <li>DET: en, den, ett, de, det</li>
+      <li>PRON: de</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: denna, den, dessa, detta, det</li>
+      <li>PRON: detta, dessa, denna, det, den, dennes</li>
     </ul>
   </li>
 </ul>
@@ -455,7 +473,8 @@ Victor Norrman and Joakim Nivre.
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: mycket, någon</li>
+      <li>DET: några, någon, något, lite</li>
+      <li>PRON: mer, mycket, många, någon, andra, något, Fler, annat, mesta, mångt</li>
     </ul>
   </li>
 </ul>
@@ -472,9 +491,26 @@ Victor Norrman and Joakim Nivre.
 </ul>
 
 <ul>
+  <li>Neg
+    <ul>
+      <li>DET: ingen, inget, inga</li>
+      <li>PRON: inget, ingen, intet</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Prs
     <ul>
-      <li>PRON: det, de, den, dem, dess</li>
+      <li>PRON: det, han, de, sig, hans, jag, sin, hon, den, sina</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Rcp
+    <ul>
+      <li>PRON: varandra</li>
     </ul>
   </li>
 </ul>
@@ -482,8 +518,8 @@ Victor Norrman and Joakim Nivre.
 <ul>
   <li>Tot
     <ul>
-      <li>DET: båda</li>
-      <li>PRON: båda</li>
+      <li>DET: varje, alla, båda, all, allt</li>
+      <li>PRON: alla, allt, båda, allting, alltihop, alltsammans, bådas</li>
     </ul>
   </li>
 </ul>
@@ -545,16 +581,58 @@ Victor Norrman and Joakim Nivre.
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>ADP: före</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADP: för, i</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADV: så, till</li>
+          <li>CCONJ: som</li>
+          <li>PART: icke</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: American, National, New, Civil, Environmental, First, Golden, Royal, Shaky, Simple</li>
-          <li>ADP: Over</li>
-          <li>NOUN: Business, Ground, Protection, Return, Services, Show, Things, View, Zimmer, concept</li>
-          <li>PRON: 'Ya, My</li>
-          <li>PROPN: Carolina, North, Punta, Rasa, del</li>
-          <li>VERB: Controlled, Knew, Thought</li>
+          <li>ADJ: New, American, National, Shaky, Talking, Civil, Environmental, First, Golden, Royal</li>
+          <li>ADP: of, On, Over, de, in</li>
+          <li>ADV: Really, Anyway, Now</li>
+          <li>AUX: Did, Do</li>
+          <li>CCONJ: and</li>
+          <li>DET: the, a, Die, El, Le, That, las</li>
+          <li>NOUN: Ground, Business, Car, Company, Council, Dead, Dream, Earth, Engagement, Father</li>
+          <li>PART: n't</li>
+          <li>PRON: My, you, 'Ya, Her, Me</li>
+          <li>PROPN: North, America, Carolina, Figaro, Punta, Rasa, Scotsman, Victorias, del</li>
+          <li>SCONJ: if</li>
+          <li>VERB: Breaking, Buck, Controlled, Go, Knew, Knuck, Like, Love, Thought</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>PROPN: Kina</li>
         </ul>
       </li>
     </ul>
@@ -570,8 +648,8 @@ Victor Norrman and Joakim Nivre.
 </ul>
 
 <ul>
-<li>This corpus uses 11 lemmas as auxiliaries (<a>aux</a>). Examples: ha, kunna, skola, komma, måste, vilja, böra, få, behöva, do, må.</li>
-<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: bli, ha.</li>
+<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: ha, kunna, skola, komma, måste, vilja, böra, få, do, må.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: bli.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -580,19 +658,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--PRON (1)</li>
+      <li>VERB--NOUN (1)</li>
+      <li>VERB--PRON (2)</li>
       <li>VERB-Fin--NOUN (7)</li>
       <li>VERB-Fin--NOUN-ADP(On) (1)</li>
       <li>VERB-Fin--NOUN-Nom (362)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(runt) (1)</li>
       <li>VERB-Fin--PRON (187)</li>
-      <li>VERB-Fin--PRON-Nom (179)</li>
-      <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--NOUN-Nom (52)</li>
+      <li>VERB-Fin--PRON-Nom (180)</li>
+      <li>VERB-Inf--NOUN-Nom (54)</li>
       <li>VERB-Inf--PRON (27)</li>
-      <li>VERB-Inf--PRON-Nom (42)</li>
+      <li>VERB-Inf--PRON-Nom (41)</li>
+      <li>VERB-Part--NOUN-Nom (1)</li>
+      <li>VERB-Part--PRON-Nom (1)</li>
       <li>VERB-Sup--NOUN-Nom (52)</li>
-      <li>VERB-Sup--PRON (26)</li>
+      <li>VERB-Sup--PRON (27)</li>
       <li>VERB-Sup--PRON-Nom (26)</li>
     </ul>
   </li>
@@ -601,17 +681,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (2)</li>
+      <li>VERB--NOUN (1)</li>
+      <li>VERB--PRON (2)</li>
+      <li>VERB-Fin--NOUN (3)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
-      <li>VERB-Fin--NOUN-Nom (379)</li>
+      <li>VERB-Fin--NOUN-Nom (378)</li>
       <li>VERB-Fin--PRON (27)</li>
       <li>VERB-Fin--PRON-Acc (52)</li>
       <li>VERB-Inf--NOUN (2)</li>
-      <li>VERB-Inf--NOUN-Nom (250)</li>
-      <li>VERB-Inf--PRON (20)</li>
+      <li>VERB-Inf--NOUN-Nom (249)</li>
+      <li>VERB-Inf--PRON (22)</li>
       <li>VERB-Inf--PRON-Acc (13)</li>
-      <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN (1)</li>
       <li>VERB-Sup--NOUN (1)</li>
       <li>VERB-Sup--NOUN-Nom (60)</li>
       <li>VERB-Sup--NOUN-Nom-ADP(på) (1)</li>
@@ -639,6 +719,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>This corpus uses 10 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

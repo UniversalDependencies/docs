@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2948 nodes (1%) are attached to their parents as `nummod`.
+1877 nodes (1%) are attached to their parents as `nummod`.
 
-1954 instances of `nummod` (66%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33548168249661.
+1582 instances of `nummod` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.42088438998402.
 
-The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1954; 66% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (558; 19% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (369; 13% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (36; 1% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (19; 1% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1439; 77% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (342; 18% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (75; 4% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (19; 1% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -30,27 +30,6 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 6	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	7	aux:pass	7:aux:pass	_
 7	married	marry	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	7:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 nummod	color:blue
-1	Darin	Darin	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
-2	Fisher	Fisher	PROPN	NNP	Number=Sing	1	flat	1:flat	_
-3	wrote	write	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
-4	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	5:det	_
-5	response	response	NOUN	NN	Number=Sing	3	obj	3:obj	_
-6	on	on	ADP	IN	_	7	case	7:case	_
-7	January	January	PROPN	NNP	Number=Sing	3	obl	3:obl:on	_
-8	25	25	NUM	CD	NumForm=Digit|NumType=Card	7	nummod	7:nummod	SpaceAfter=No
-9	,	,	PUNCT	,	_	10	punct	10:punct	_
-10	2005	2005	NUM	CD	NumForm=Digit|NumType=Card	7	nummod	7:nummod	SpaceAfter=No
-11	:	:	PUNCT	:	_	3	punct	3:punct	_
 
 ~~~
 
@@ -76,6 +55,19 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 13	5,000	5000	NUM	CD	NumForm=Digit|NumType=Card	12	nummod	12:nummod	_
 14	range	range	NOUN	NN	Number=Sing	6	nmod	6:nmod:in	SpaceAfter=No
 15	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 nummod	color:blue
+1	2000	2000	NUM	CD	NumForm=Digit|NumType=Card	3	nummod	3:nummod	_
+2	Carr	Carr	PROPN	NNP	Number=Sing	3	compound	3:compound	_
+3	Futures	Future	PROPN	NNPS	Number=Plur	0	root	0:root	_
 
 ~~~
 

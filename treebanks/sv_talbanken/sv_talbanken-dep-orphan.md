@@ -34,7 +34,7 @@ The following 9 pairs of parts of speech are connected with `orphan`: <tt><a hre
 10	och	och	CCONJ	KN	_	11	cc	11:cc	_
 11	slöjd	slöjd	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	9	conj	9:conj:och|11.1:nsubj	_
 12	i	i	ADP	PP	_	14	case	14:case	_
-13	samtliga	samtlig	ADJ	JJ|POS|UTR/NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	14	amod	14:amod	_
+13	samtliga	samtlig	ADJ	JJ|POS|UTR/NEU|PLU|IND|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Plur	14	amod	14:amod	_
 14	årskurser	årskurs	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	9	orphan	11.1:obl:i	Enhanced=obl|SpaceAfter=No
 15	.	.	PUNCT	MAD	_	2	punct	2:punct	_
 

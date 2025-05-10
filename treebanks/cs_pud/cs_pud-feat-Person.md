@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
 1121 tokens (6%) have a non-empty value of `Person`.
-461 types (6%) occur at least once with a non-empty value of `Person`.
+460 types (6%) occur at least once with a non-empty value of `Person`.
 299 lemmas (6%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (548; 3% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (306; 2% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (139; 1% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (128; 1% instances).
 
@@ -48,7 +48,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 * `1` (36; 12% of non-empty `Person`): <em>jsem, jsme, budeme, budu, bych, Nejsme, bychom, nebudu</em>
 * `2` (3; 1% of non-empty `Person`): <em>jste, byste</em>
 * `3` (267; 87% of non-empty `Person`): <em>je, jsou, bude, není, budou, nebude, nebudou, nejsou, bývají, bývá</em>
-* `EMPTY` (377): <em>by, byl, bylo, byla, byly, být, byli, nebyly, nebyla, nebyl</em>
+* `EMPTY` (376): <em>by, byl, bylo, byla, byly, být, byli, nebyly, nebyla, nebyl</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -66,7 +66,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `DET`
 
-139 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (16% of all `DET` tokens) have a non-empty value of `Person`.
+139 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (17% of all `DET` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (139; 100%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (139; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (134; 96%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (131; 94%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (94; 68%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (92; 66%), <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (87; 63%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (84; 60%).
 
@@ -75,7 +75,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (26; 19% of non-empty `Person`): <em>n, naše, mých, Moje, mé, můj, naší, naším, náš</em>
 * `2` (1; 1% of non-empty `Person`): <em>vašich</em>
 * `3` (112; 81% of non-empty `Person`): <em>jeho, jejich, její, jejichž, jejím, jehož, jejích, jejího, jejíž</em>
-* `EMPTY` (705): <em>to, který, které, která, své, mnoho, toho, kteří, tím, tento</em>
+* `EMPTY` (702): <em>to, který, které, která, své, mnoho, toho, kteří, tím, tento</em>
 
 ### `PRON`
 
@@ -87,7 +87,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 * `1` (23; 18% of non-empty `Person`): <em>mě, nás, nám, já, mi, me</em>
 * `2` (4; 3% of non-empty `Person`): <em>Tebe, You, vám, vás</em>
-* `3` (101; 79% of non-empty `Person`): <em>ho, nich, ní, jí, mu, ji, něj, jim, ním, je</em>
+* `3` (101; 79% of non-empty `Person`): <em>ho, nich, ní, jí, mu, něj, ji, jim, ním, je</em>
 * `EMPTY` (448): <em>se, si, co, což, nic, něco, kdo, jenž, nichž, níž</em>
 
 ## Relations with Agreement in `Person`
@@ -96,7 +96,6 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (41; 59%),
 <tt>VERB --[<tt><a href="cs_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (24; 62%),
 <tt>AUX --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="cs_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="cs_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_pud-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (1; 100%).
 

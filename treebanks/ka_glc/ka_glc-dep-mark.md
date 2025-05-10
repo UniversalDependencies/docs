@@ -8,35 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-657 nodes (1%) are attached to their parents as `mark`.
+655 nodes (1%) are attached to their parents as `mark`.
 
-643 instances of `mark` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.89345509893455.
+642 instances of `mark` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.88854961832061.
 
-The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (327; 50% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (213; 32% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (82; 12% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (13; 2% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (326; 50% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (213; 33% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (82; 13% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (13; 2% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 8 mark	color:blue
-1	ამბობენ	ამბობს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No|Translit=amboben
-2	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
-3	საინტერესო	საინტერესო	ADJ	Adj	Case=Erg|Number=Sing	1	ccomp	_	Translit=saintereso
-4	რამ	რა	PRON	Pron	Case=Erg|Number=Sing|PronType=Int	3	nsubj	_	Translit=ram
-5	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	3	cop	_	Translit=aris
-6	ო	თქო	PART	Part	Evident=Nfh	3	ccomp	_	Translit=o
-7	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
-8	სანამ	სანამ	SCONJ	Conj	_	1	mark	_	Translit=sanam
-9	ხარ	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	1	cop	_	Translit=xar
-10	სულ	სულ	ADV	Adv	AdvType=Man	1	advmod	_	Translit=sul
-11	შენ	შენ	PRON	Pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	1	obl	_	Translit=šen
-12	თან	თან	ADP	Post	AdpType=Post|Case=Dat	11	case	_	Translit=tʻan
-13	იქნება	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut	1	cop	_	Translit=ikʻneba
-14	ო	თქო	PART	Part	Evident=Nfh	1	ccomp	_	Translit=o
-15	.	.	PUNCT	F	PunctType=Peri	1	punct	_	Translit=.
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 6 mark	color:blue
+1	მხოლოდ	მხოლოდ	ADV	Adv	AdvType=Man	4	advmod	_	Translit=mxolod
+2	მეშვიდე	შვიდი	NUM	Num	Case=Dat|Number=Sing|NumType=Ord	3	nummod	_	Translit=mešvide
+3	დღეს	დღე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl	_	Translit=dġes
+4	შეთანხმდნენ	თანხმდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No|Translit=šetʻanxmdnen
+5	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
+6	რომ	რომ	SCONJ	Conj	_	9	mark	_	Translit=rom
+7	მე	მე	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Translit=me
+8	თომა	თომა	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	9	obj	_	Translit=tʻoma
+9	მქვია	ჰქვია	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Indir|Tense=Pres|Voice=Mid	4	advcl	_	SpaceAfter=No|Translit=mkʻvia
+10	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 ~~~
 

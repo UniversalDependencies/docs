@@ -131,6 +131,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>quibus</em></td><td><em>quibus</em></td><td><em>quibus</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>cuius</em></td><td><em>cuius</em></td><td><em>cuius, quod</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>quorum</em></td><td><em>quarum, quorum</em></td><td><em>quorum</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-ExtPos.html">ExtPos</a></tt><tt>=SCONJ</tt>|<tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td></td><td><em>quod</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td></td><td><em>quae</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=IndEurX</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td></td><td><em>quod</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td></td><td></td><td><em>quod</em></td></tr>
@@ -273,13 +274,13 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="la_ittb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14866; 98%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-det.html">det</a></tt>]--> DET</tt> (13592; 95%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-det.html">det</a></tt>]--> DET</tt> (13174; 95%),
 <tt>NOUN --[<tt><a href="la_ittb-dep-acl.html">acl</a></tt>]--> VERB</tt> (4450; 83%),
 <tt>NOUN --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3197; 57%),
 <tt>ADJ --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1493; 87%),
 <tt>ADJ --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (982; 96%),
 <tt>ADJ --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (725; 89%),
 <tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (585; 64%),
-<tt>ADJ --[<tt><a href="la_ittb-dep-det.html">det</a></tt>]--> DET</tt> (414; 96%),
-<tt>DET --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (389; 56%).
+<tt>NOUN --[<tt><a href="la_ittb-dep-amod.html">amod</a></tt>]--> DET</tt> (417; 99%),
+<tt>ADJ --[<tt><a href="la_ittb-dep-det.html">det</a></tt>]--> DET</tt> (414; 96%).
 

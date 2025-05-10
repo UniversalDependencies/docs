@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of DET in UD_Swiss_German-UZH'
+title:  'Statistics of DET in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: POS Tags: `DET`
+## Treebank Statistics: UD_Alemannic-UZH: POS Tags: `DET`
 
 There are 1 `DET` lemmas (7%), 50 `DET` types (6%) and 135 `DET` tokens (9%).
 Out of 15 observed tags, the rank of `DET` is: 6 in number of lemmas, 7 in number of types and 6 in number of tokens.

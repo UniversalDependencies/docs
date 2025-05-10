@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>það</em> (<tt><a href="is_modern-po
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 5.000000 (the average of all parts of speech is 1.738114).
+The form / lemma ratio of `DET` is 5.000000 (the average of all parts of speech is 1.738233).
 
 The 1st highest number of forms (20) was observed with the lemma “mikill”: <em>fl., meira, meiri, meiru, mest, mesta, mestan, mestu, mestum, mestur, mikil, mikill, mikilli, mikils, mikinn, mikið, mikla, miklar, miklu, miklum</em>.
 

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-1080 tokens (12%) have a non-empty value of `Tense`.
-730 types (17%) occur at least once with a non-empty value of `Tense`.
-250 lemmas (10%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> (980; 11% instances), <tt><a href="ota_boun-pos-AUX.html">AUX</a></tt> (100; 1% instances).
+1082 tokens (12%) have a non-empty value of `Tense`.
+729 types (17%) occur at least once with a non-empty value of `Tense`.
+265 lemmas (10%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> (982; 11% instances), <tt><a href="ota_boun-pos-AUX.html">AUX</a></tt> (100; 1% instances).
 
 ### `VERB`
 
-980 <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
+982 <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (903; 92%), <tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (890; 91%), <tt><a href="ota_boun-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (854; 87%), <tt><a href="ota_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (824; 84%), <tt><a href="ota_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (824; 84%), <tt><a href="ota_boun-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (659; 67%), <tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (602; 61%), <tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (584; 60%), <tt><a href="ota_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (584; 60%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (905; 92%), <tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (892; 91%), <tt><a href="ota_boun-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (854; 87%), <tt><a href="ota_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (825; 84%), <tt><a href="ota_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (825; 84%), <tt><a href="ota_boun-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (662; 67%), <tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (602; 61%), <tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (583; 59%), <tt><a href="ota_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (583; 59%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (73; 7% of non-empty `Tense`): <em>edecek, olacak, edeceğim, kalacak, anlayacak, anlaşılacağını, atılacak, ağlayacaklar, bahsedecek, bağıracak</em>
-* `Past` (474; 48% of non-empty `Tense`): <em>olduğu, başladı, ettiği, etti, oldu, olduğunu, etmiş, olmuş, bulunduğu, bulunduğum</em>
-* `Pres` (433; 44% of non-empty `Tense`): <em>eden, olan, bilir, ediyor, olur, eder, bulunan, edilen, istiyorum, gelen</em>
-* `EMPTY` (360): <em>etmek, görmek, ederek, olmak, olması, olsa, titreye, ediniz, almak, anlamak</em>
+* `Fut` (74; 8% of non-empty `Tense`): <em>edecek, olacak, edeceğim, kalacak, olamayacağı, anlayacak, anlaşılacağını, atılacak, ağlayacaklar, bahsedecek</em>
+* `Past` (473; 48% of non-empty `Tense`): <em>olduğu, başladı, ettiği, etti, oldu, olduğunu, etmiş, olmuş, bulunduğu, bulunduğum</em>
+* `Pres` (435; 44% of non-empty `Tense`): <em>eden, olan, bilir, ediyor, olur, eder, bulunan, edilen, istiyorum, gelen</em>
+* `EMPTY` (367): <em>etmek, görmek, ederek, olmak, olması, olsa, titreye, ediniz, almak, anlamak</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
   <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_boun-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>edebilirler</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>ederim</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>eder</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>ederlerse</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>ederler, ederlerse</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>ediyorum</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>ediyor, ediver</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_boun-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>ediliyor</em></td><td></td><td></td></tr>
@@ -98,8 +98,9 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="ota_boun-dep-conj.html">conj</a></tt>]--> VERB</tt> (71; 72%),
+<tt>VERB --[<tt><a href="ota_boun-dep-conj.html">conj</a></tt>]--> VERB</tt> (72; 73%),
 <tt>VERB --[<tt><a href="ota_boun-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (7; 88%),
 <tt>VERB --[<tt><a href="ota_boun-dep-discourse.html">discourse</a></tt>]--> AUX</tt> (4; 57%),
-<tt>VERB --[<tt><a href="ota_boun-dep-compound.html">compound</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="ota_boun-dep-compound.html">compound</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="ota_boun-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (1; 100%).
 

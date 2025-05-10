@@ -160,7 +160,7 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="cs_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (156; 91%),
+<tt>NOUN --[<tt><a href="cs_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (157; 91%),
 <tt>ADJ --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (16; 89%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (11; 58%),
 <tt>PROPN --[<tt><a href="cs_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6; 100%),

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Käbi Laan.
 
 Repository: [UD_Veps-VWT](https://github.com/UniversalDependencies/UD_Veps-VWT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udvep_vwt215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udvep_vwt216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -42,12 +42,12 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
-UD Veps-VWT is a manually annotated corpus of Veps made in Universal dependencies annotation scheme. The data is collected from [VepKar corpora](http://dictorpus.krc.karelia.ru/en/corpus/text) and consists of mostly modern news texts written in Central Veps dialect.
+UD Veps-VWT is a manually annotated corpus of Veps made using the Universal dependencies annotation scheme. The data is collected from [VepKar corpora](http://dictorpus.krc.karelia.ru/en/corpus/text) and consists of mostly modern news texts written in Central Veps dialect.
 
 
 
 
-UD Veps-VWT is a manually annotated corpus of Veps made in Universal dependencies annotation scheme. The data is collected from [VepKar corpora](http://dictorpus.krc.karelia.ru/en/corpus/text) and consists of mostly modern news texts written in Central Veps dialect. The morphologigal annotations and grammar decisions are based on the language studies made by Riho Grünthal and different Veps dictionaries (by Nina Zaitseva). Many syntactic decisions are based on pre-existing Finnish, Estonian, Karelian and Russian treebanks.
+UD Veps-VWT is a manually annotated corpus of Veps made in Universal dependencies annotation scheme. The data is collected from [VepKar corpora](http://dictorpus.krc.karelia.ru/en/corpus/text) and consists of mostly modern news texts written in Central Veps dialect. The morphological annotations and grammatical decisions are based on the language studies made by Riho Grünthal and different Veps dictionaries (by Nina Zaitseva). Many syntactic decisions are based on pre-existing Finnish, Estonian, Karelian and Russian treebanks.
 
 
 ## Acknowledgments
@@ -113,7 +113,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
 </ul>
 
 <ul>
-<li>This corpus contains 23 lemmas tagged as pronouns (PRON): hän, hö, iče, ičein, ičetoi, ičeze, kaik, kaik-se, ken, kudamb, mi, mi-se, minä, mitte, mugoine, mö, ne, nece, se, sinä, toine, toine_toise, tö</li>
+<li>This corpus contains 20 lemmas tagged as pronouns (PRON): hän, hö, iče, kaik, kaik-se, ken, kudamb, mi, mi-se, minä, mitte, mugoine, mö, ne, nece, se, sinä, toine, toine_toise, tö</li>
 </ul>
 
 <ul>
@@ -192,7 +192,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
       <li>AUX: ei, oma, voiba, voim, oliba</li>
       <li>AUX-Fin: oma, voiba, voim, oliba</li>
       <li>NOUN: lapsed, ristitud, jurid, adivoid, eläjiden, projektoid, ristituid, tedoid, vanhembad, vepsläižed</li>
-      <li>PRON: meiden, mö, heiden, Tö, kudambad, hö, Ned, Niiš, Teid, Teiden</li>
+      <li>PRON: meiden, mö, heiden, ičeze, Tö, kudambad, hö, ičetoi, Ned, Niiš</li>
       <li>VERB-Fin: eläba, tegem, Muštat-ik, Toivotam, abutiba, ajelkoiš, ajoim, el'gendaižiba, eliba, eläškandeb</li>
     </ul>
   </li>
@@ -205,7 +205,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
       <li>AUX: om, ei, oli, en, pidab, olen, Olin, ole, pidab-ik, pidi</li>
       <li>AUX-Fin: om, oli, pidab, olen, Olin, ole, pidab-ik, pidi, voin-ik</li>
       <li>NOUN: kelel, külän, rad, elo, kel't, kanzan, kanzas, kul'tursebran, küläs, mal</li>
-      <li>PRON: minä, ičeze, nece, minun, kaik, minei, hän, kaiken, se, ičein</li>
+      <li>PRON: minä, nece, ičeze, minun, kaik, minei, hän, kaiken, se, ičein</li>
       <li>PROPN: Kalag', Natalja, Päžarvehe, Kaskez, Kaskezaspäi, Piterin, Silakova, Vepsän, Änižjärven, Himjogi</li>
       <li>VERB-Fin: radoin, ajoin, seižub, abutab, el'genzin, meletan, muštan, pätin, sain, tahtoin</li>
     </ul>
@@ -280,7 +280,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
     <ul>
       <li>ADJ: vepsän, enččen, enččiden, suren, toižen, vepsläižen, vägevan</li>
       <li>NOUN: külän, kanzan, kul'tursebran, aigan, elon, eläjiden, vepsläižiden, školan, Tatan, Valičusiden</li>
-      <li>PRON: meiden, minun, kaiken, heiden, ičein, necen, sen, hänen, Teiden, ičeze</li>
+      <li>PRON: ičeze, meiden, minun, kaiken, heiden, ičein, necen, sen, hänen, ičetoi</li>
       <li>PROPN: Piterin, Vepsän, Änižjärven, Karjalan, Kod'arven, Natalja, Päžarven, Vologdan, Änižen</li>
     </ul>
   </li>
@@ -316,7 +316,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
       <li>ADJ: hüvä, erazvuiččed, jüged, kebn, tärged, äi, čoma, bohat, kaks'keline, kulu</li>
       <li>NOUN: lapsed, ristitud, rad, elo, aig, der'oun, eläjad, pagin, praznik, rahvaz</li>
       <li>NUM: 40, 15, 2017, kahesa, kaks', koume, üks'</li>
-      <li>PRON: minä, ičeze, nece, mö, kaik, hän, se, Tö, kudambad, hö</li>
+      <li>PRON: minä, nece, mö, kaik, hän, se, Tö, kudambad, hö, mitte</li>
       <li>PROPN: Kalag', Natalja, Kaskez, Silakova, Himjogi, Jevgenjevna, Kalarand, Päžar'</li>
     </ul>
   </li>
@@ -546,7 +546,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
     <ul>
       <li>AUX: en, olen, voim, Olin, voin-ik</li>
       <li>AUX-Fin: olen, voim, Olin, voin-ik</li>
-      <li>PRON: minä, meiden, minun, mö, minei, mindai, meid, meile</li>
+      <li>PRON: minä, meiden, minun, mö, minei, ičein, mindai, meid, meile</li>
       <li>VERB-Fin: radoin, ajoin, el'genzin, meletan, muštan, pätin, sain, tahtoin, tegem, Toivotam</li>
     </ul>
   </li>
@@ -555,7 +555,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
 <ul>
   <li>2
     <ul>
-      <li>PRON: Tö, Teid, Teiden, Teil, Teile, sinus</li>
+      <li>PRON: Tö, ičetoi, Teid, Teiden, Teil, Teile, sinus</li>
       <li>VERB-Fin: Muštat-ik, valičit, zavodit</li>
     </ul>
   </li>
@@ -566,7 +566,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
     <ul>
       <li>AUX: om, ei, oli, oma, pidab, voiba, oliba, pidab-ik, pidi</li>
       <li>AUX-Fin: om, oli, oma, pidab, voiba, oliba, pidab-ik, pidi</li>
-      <li>PRON: hän, heiden, hänen, hö, heile, heišpäi, hänele</li>
+      <li>PRON: ičeze, hän, heiden, hänen, hö, heile, heišpäi, hänele, ičtaze</li>
       <li>VERB-Fin: eläba, seižub, abutab, tuli, Oli-ik, Om, abutiba, ajelese, andoi, el'gendaižiba</li>
     </ul>
   </li>

@@ -28,7 +28,7 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	на	на	ADP	IN	_	5	case	_	wf="на"
 4	ѡбѣ	оба	NUM	CD	Case=Loc|Gender=Fem|NumForm=Word|NumType=Sets	5	nummod	_	wf="ѡбѣ"
 5	сторонѣ	сторона	NOUN	NNI	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	wf="сторонѣ"
-6	смотрити	смотрити	VERB	VB	VerbForm=Inf|Voice=Act	0	root	_	wf="смотрити"
+6	смотрити	смотрити	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	wf="смотрити"
 7	права	право	NOUN	NNI	Case=Gen|Gender=Neut|Number=Sing	6	obj	_	wf="права"|SpaceAfter=No
 8	.	.	PUNCT	-PERIOD-	_	6	punct	_	_
 

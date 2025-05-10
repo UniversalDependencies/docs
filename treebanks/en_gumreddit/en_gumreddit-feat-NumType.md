@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Mult` (4; 40% of non-empty `NumType`): <em>_</em>
 * `Ord` (6; 60% of non-empty `NumType`): <em>_</em>
-* `EMPTY` (1097): <em>_</em>
+* `EMPTY` (1096): <em>_</em>
 
 ### `NOUN`
 

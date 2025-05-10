@@ -18,7 +18,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="kpv_ikdp-pos-ADV.ht
 
 2 <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `ADV` and `Clitic` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `ADV` and `Clitic` co-occurred: <tt><a href="kpv_ikdp-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `ADV` tokens may have the following values of `Clitic`:
 

@@ -11,9 +11,9 @@ This relation is universal.
 2090 nodes (4%) are attached to their parents as `root`.
 
 2090 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.88612440191388.
+Average distance between parent and child is 7.8866028708134.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (1586; 76% instances), -<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (269; 13% instances), -<tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (162; 8% instances), -<tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (21; 1% instances), -<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (19; 1% instances), -<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (11; 1% instances), -<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (11; 1% instances), -<tt><a href="en_partut-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), -<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="en_partut-pos-DET.html">DET</a></tt> (1; 0% instances), -<tt><a href="en_partut-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), -<tt><a href="en_partut-pos-SYM.html">SYM</a></tt> (1; 0% instances), -<tt><a href="en_partut-pos-X.html">X</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (1585; 76% instances), -<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (270; 13% instances), -<tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (161; 8% instances), -<tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (20; 1% instances), -<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (20; 1% instances), -<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (12; 1% instances), -<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (11; 1% instances), -<tt><a href="en_partut-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), -<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="en_partut-pos-DET.html">DET</a></tt> (1; 0% instances), -<tt><a href="en_partut-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), -<tt><a href="en_partut-pos-SYM.html">SYM</a></tt> (1; 0% instances), -<tt><a href="en_partut-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,10 +22,10 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 7 root	color:blue
-1	Mr	mister	NOUN	S	Number=Sing	7	vocative	_	_
-2	Berenguer	Berenguer	PROPN	SP	_	1	flat	_	_
-3	Fuster	Fuster	PROPN	SP	_	1	flat	_	SpaceAfter=No
-4	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	Berenguer	Berenguer	PROPN	SP	_	7	vocative	_	_
+3	Fuster	Fuster	PROPN	SP	_	2	flat	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
 5	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
 6	shall	shall	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 7	check	check	VERB	V	VerbForm=Inf	0	root	_	_

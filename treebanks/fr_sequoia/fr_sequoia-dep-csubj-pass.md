@@ -73,7 +73,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 19	de	de	ADP	_	_	21	case	_	_
 20	ces	ce	DET	_	Number=Plur|PronType=Dem	21	det	_	_
 21	améliorations	amélioration	NOUN	_	Gender=Fem|Number=Plur	18	nmod	_	_
-22	techniques	technique	ADJ	_	Number=Plur	21	amod	_	_
+22	techniques	technique	ADJ	_	Number=Plur	21	amod	_	Gender[ctxt]=Fem
 23	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	25	obj	_	_
 24	fait	faire	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux:caus	_	_
 25	attendre	attendre	VERB	_	VerbForm=Inf	0	root	_	Subject=Generic

@@ -69,7 +69,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 3	jsou	být	AUX	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	0:root	_
 4	dnes	dnes	ADV	Db-------------	_	0	root	3:advmod	_
 5	mnohem	mnohem	ADV	Db-------------	_	6	advmod	6:advmod	_
-6	víc	hodně	ADV	Dg-------2A---1	Degree=Cmp|Polarity=Pos	8	advmod:emph	8:advmod:emph	LId=hodně-2
+6	víc	více	ADV	Dg-------2A---1	Degree=Cmp|ExtPos=ADV|Polarity=Pos	8	advmod	8:advmod	LId=hodně-2
 7	než	než	SCONJ	J,-------------	_	6	fixed	6:fixed	LId=než-2
 8	telefony	telefon	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	obj	3:obj	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	4	punct	3:punct	_

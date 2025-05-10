@@ -25,10 +25,10 @@ The following 10 pairs of parts of speech are connected with `amod`: <tt><a href
 1	Бур	бур	ADJ	A	Case=Nom|Number=Sing	2	amod	_	_
 2	урожай	урожай	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	OrigLang=ru
 3	воис	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-4	таво	таво	ADV	Adv	_	3	advmod:tmod	_	_
+4	таво	таво	ADV	Adv	_	3	advmod	_	_
 5	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	nmod	_	_
 6	районувса	районувса	ADJ	A	Case=Nom|Number=Sing	7	amod	_	OrigLang=ru
-7	колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl:lmod	_	OrigLang=ru|SpaceAfter=No
+7	колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl	_	OrigLang=ru|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
@@ -64,7 +64,7 @@ The following 10 pairs of parts of speech are connected with `amod`: <tt><a href
 5	воӧмсянь	воны	VERB	V	Case=Egr|Number=Sing|VerbForm=Vnoun	9	obl	_	GTtags=IV,Der,Der/ӧм,Der/NomAct,N,Sg,Egr
 6	пиньясыс	пинь	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	9	nsubj	_	GTtags=Pl,Nom,PxSg3
 7	сылӧн	сійӧ	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	nmod	_	GTtags=Pers,Sg3,Gen
-8	ещӧ	ещӧ	ADV	Adv	_	9	advmod:tmod	_	_
+8	ещӧ	ещӧ	ADV	Adv	_	9	advmod	_	_
 9	вижӧдӧмаӧсь	вижӧдны	VERB	V	Evident=Nfh|Mood=Ind|Number=Plur|Person=3|Tense=Past	2	ccomp	_	GTtags=IV,Ind,Prt2,Pl3|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 

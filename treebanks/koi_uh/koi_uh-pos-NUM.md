@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.166667 (the average of all parts of speech is 1.249476).
+The form / lemma ratio of `NUM` is 1.166667 (the average of all parts of speech is 1.247379).
 
 The 1st highest number of forms (2) was observed with the lemma “кык”: <em>Кыкӧн, кык</em>.
 
@@ -54,7 +54,7 @@ Parents of `NUM` nodes belong to 3 different parts of speech: <tt><a href="koi_u
 
 The highest child degree of a `NUM` node is 3.
 
-Children of `NUM` nodes are attached using 4 different relations: <tt><a href="koi_uh-dep-punct.html">punct</a></tt> (2; 40% instances), <tt><a href="koi_uh-dep-advmod-tmod.html">advmod:tmod</a></tt> (1; 20% instances), <tt><a href="koi_uh-dep-nsubj.html">nsubj</a></tt> (1; 20% instances), <tt><a href="koi_uh-dep-nsubj-cop.html">nsubj:cop</a></tt> (1; 20% instances)
+Children of `NUM` nodes are attached using 4 different relations: <tt><a href="koi_uh-dep-punct.html">punct</a></tt> (2; 40% instances), <tt><a href="koi_uh-dep-advmod.html">advmod</a></tt> (1; 20% instances), <tt><a href="koi_uh-dep-nsubj.html">nsubj</a></tt> (1; 20% instances), <tt><a href="koi_uh-dep-nsubj-cop.html">nsubj:cop</a></tt> (1; 20% instances)
 
 Children of `NUM` nodes belong to 4 different parts of speech: <tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (2; 40% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 20% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 20% instances)
 

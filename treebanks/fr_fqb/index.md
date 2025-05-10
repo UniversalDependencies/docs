@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Djamé Seddah, Marie Candito, Bruno Guillaume.
 
 Repository: [UD_French-FQB](https://github.com/UniversalDependencies/UD_French-FQB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_fqb215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_fqb216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: LGPL-LR
 
@@ -146,7 +146,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
   <li>Fin
   <ul>
     <li>AUX: est, a, était, fut, sont, ai, ont, suis, étaient, avez</li>
-    <li>VERB: trouve, est, a, signifie, Nommez, puis, eut, fait, dois, ai</li>
+    <li>VERB: trouve, est, a, signifie, Nommez, puis, eut, dois, fait, ai</li>
   </ul>
   </li>
 </ul>
@@ -235,7 +235,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
       <li>NOUN: nom, année, ville, aide, président, état, lieu, espace, logement, film</li>
       <li>PRON: -t-il, -il, -je, -t-elle, je, -t-on, -elle, -on, j', il</li>
       <li>PROPN: Californie, Logan, Alaska, John, San, York, Charles, Kentucky, Marley, Australie</li>
-      <li>VERB-Fin: trouve, est, a, signifie, puis, eut, fait, dois, ai, nomme</li>
+      <li>VERB-Fin: trouve, est, a, signifie, puis, eut, dois, fait, ai, nomme</li>
       <li>VERB-Part: inventé, né, situé, écrit, mort, connu, joué, eu, fait, remporté</li>
     </ul>
   </li>
@@ -309,7 +309,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
     <ul>
       <li>AUX-Fin: est, a, était, fut, sont, ai, ont, suis, étaient, avez</li>
       <li>PRON: Il</li>
-      <li>VERB-Fin: trouve, est, a, signifie, puis, eut, fait, dois, ai, nomme</li>
+      <li>VERB-Fin: trouve, est, a, signifie, puis, eut, dois, fait, ai, nomme</li>
     </ul>
   </li>
 </ul>
@@ -360,7 +360,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
     <ul>
       <li>AUX-Fin: est, a, sont, ai, ont, suis, avez, êtes, soit, ait</li>
       <li>AUX-Part: ayant, étant</li>
-      <li>VERB-Fin: trouve, est, a, signifie, Nommez, puis, fait, dois, ai, nomme</li>
+      <li>VERB-Fin: trouve, est, a, signifie, Nommez, puis, dois, fait, ai, nomme</li>
       <li>VERB-Part: provenant, appartenant, ayant, accordant, attendant, causant, entourant, excluant, figurant, permettant</li>
     </ul>
   </li>
@@ -598,6 +598,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
       <li>Yes
         <ul>
           <li>NOUN: Porto</li>
+          <li>VERB-Fin: on</li>
         </ul>
       </li>
     </ul>
@@ -634,13 +635,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (267)</li>
+      <li>VERB-Fin--NOUN (266)</li>
       <li>VERB-Fin--NOUN-ADP(de) (4)</li>
       <li>VERB-Fin--PRON (71)</li>
       <li>VERB-Inf--NOUN (137)</li>
       <li>VERB-Inf--NOUN-ADP(de) (1)</li>
       <li>VERB-Inf--PRON (29)</li>
-      <li>VERB-Part--NOUN (192)</li>
+      <li>VERB-Part--NOUN (193)</li>
       <li>VERB-Part--PRON (14)</li>
     </ul>
   </li>

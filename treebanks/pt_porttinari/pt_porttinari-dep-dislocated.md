@@ -33,7 +33,7 @@ The following 11 pairs of parts of speech are connected with `dislocated`: <tt><
 9	(	(	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
 10	GO	GO	PROPN	_	_	8	parataxis	8:parataxis	SpaceAfter=No
 11	)	)	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
-12	.	.	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+12	.	.	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 
@@ -51,9 +51,9 @@ The following 11 pairs of parts of speech are connected with `dislocated`: <tt><
 5	,	,	PUNCT	_	_	4	punct	4:punct	_
 6	você	você	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	7:nsubj	_
 7	brilha	brilhar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-8	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	advmod	7:advmod	_
+8	um	um	DET	_	Definite=Ind|ExtPos=ADV|Gender=Masc|Number=Sing|PronType=Art	7	advmod	7:advmod	_
 9	pouco	pouco	NOUN	_	Gender=Masc|Number=Sing	8	fixed	8:fixed	SpaceAfter=No
-10	.	.	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+10	.	.	PUNCT	_	_	7	punct	7:punct	_
 
 ~~~
 
@@ -78,7 +78,7 @@ The following 11 pairs of parts of speech are connected with `dislocated`: <tt><
 12	'	'	PUNCT	_	_	8	punct	8:punct	_
 13	vira	virar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 14	livro	livro	NOUN	_	Gender=Masc|Number=Sing	13	obj	13:obj	SpaceAfter=No
-15	.	.	PUNCT	_	_	13	punct	13:punct	SpaceAfter=No
+15	.	.	PUNCT	_	_	13	punct	13:punct	_
 
 ~~~
 

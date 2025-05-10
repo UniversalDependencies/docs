@@ -11,19 +11,19 @@ This relation is universal.
 333 nodes (2%) are attached to their parents as `det`.
 
 333 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.003003003003.
+Average distance between parent and child is 1.81681681681682.
 
-The following 4 pairs of parts of speech are connected with `det`: <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_beginner-pos-DET.html">DET</a></tt> (310; 93% instances), <tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_beginner-pos-DET.html">DET</a></tt> (11; 3% instances), <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_beginner-pos-PRON.html">PRON</a></tt> (10; 3% instances), <tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_beginner-pos-DET.html">DET</a></tt> (2; 1% instances).
+The following 5 pairs of parts of speech are connected with `det`: <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_beginner-pos-DET.html">DET</a></tt> (308; 92% instances), <tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_beginner-pos-DET.html">DET</a></tt> (12; 4% instances), <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_beginner-pos-PRON.html">PRON</a></tt> (10; 3% instances), <tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_beginner-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="zh_beginner-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_beginner-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 det	color:blue
-1	这	这	DET	_	_	2	det	_	Gloss=DEM.PROX|SpaceAfter=No|Tone=4|Translit=zhè
-2	个	个	NOUN	_	_	3	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 det	color:blue
+1	这	这	DET	_	_	3	det	_	Gloss=DEM.PROX|SpaceAfter=No|Tone=4|Translit=zhè
+2	个	个	NOUN	_	_	1	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
 3	周末	周末	NOUN	_	_	7	obl:tmod	_	SpaceAfter=No|Tone=1_4|Translit=zhōu_mò
 4	你们	你们	PRON	_	Number=Plur|Person=2	7	nsubj	_	Gloss=2SG|SpaceAfter=No|Tone=3_5|Translit=nǐ_men
 5	都	都	ADV	_	_	7	advmod	_	SpaceAfter=No|Tone=1|Translit=dū

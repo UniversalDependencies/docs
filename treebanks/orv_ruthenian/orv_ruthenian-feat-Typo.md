@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 
 `ADJ` tokens may have the following values of `Typo`:
 
-* `Yes` (2; 100% of non-empty `Typo`): <em>нинєшъни, о</em>
+* `Yes` (2; 100% of non-empty `Typo`): <em>нинєшъни(м), о</em>
 
 ### `PROPN`
 

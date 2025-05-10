@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `Combi`, `Digit`, `Roman`, `Word`.
 
-525 tokens (2%) have a non-empty value of `NumForm`.
-244 types (5%) occur at least once with a non-empty value of `NumForm`.
-235 lemmas (5%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (464; 2% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (56; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
+539 tokens (3%) have a non-empty value of `NumForm`.
+254 types (5%) occur at least once with a non-empty value of `NumForm`.
+245 lemmas (5%) occur at least once with a non-empty value of `NumForm`.
+The feature is used with 5 part-of-speech tags: <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (464; 2% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (56; 0% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `NUM`
 
@@ -40,6 +40,18 @@ The most frequent other feature values with which `ADJ` and `NumForm` co-occurre
 * `Word` (38; 68% of non-empty `NumForm`): <em>first, second, third, fourth</em>
 
 `NumForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (18) occur only with one value of `NumForm`.
+
+### `NOUN`
+
+14 <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NumForm`.
+
+The most frequent other feature values with which `NOUN` and `NumForm` co-occurred: <tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Ptan</tt> (14; 100%).
+
+`NOUN` tokens may have the following values of `NumForm`:
+
+* `Combi` (14; 100% of non-empty `NumForm`): <em>1960s, 1970s, 1990s, 1350s, 1950s, 1980s, 2000s, 60s, mid-1970s, mid-1980s</em>
+
+`NumForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `NumForm`.
 
 ### `ADV`
 

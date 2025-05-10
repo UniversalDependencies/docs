@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-544 nodes (9%) are attached to their parents as `case`.
+546 nodes (9%) are attached to their parents as `case`.
 
-544 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33639705882353.
+546 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.33516483516484.
 
-The following 7 pairs of parts of speech are connected with `case`: <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (447; 82% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (65; 12% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (14; 3% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (13; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `case`: <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (448; 82% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (65; 12% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (15; 3% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (13; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -61,24 +61,21 @@ The following 7 pairs of parts of speech are connected with `case`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 case	color:blue
-1	Deset	deset	NUM	Cn-S4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card	2	nummod:gov	_	_
-2	let	rok	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur	6	obl	_	_
-3	už	už	ADV	Db-------------	_	6	advmod	_	_
-4	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	_	_
-5	tom	ten	DET	PDZS6----------	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	6	obl:arg	_	_
-6	píše	psát	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-7	,	,	PUNCT	Z:-------------	_	8	punct	_	_
-8	pan	pan	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-9	Vejr	Vejr	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	8	flat	_	_
-10	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	11	case	_	_
-11	Švandě	Švanda	PROPN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
-12	Dudákovi	Dudák	PROPN	NNMS6-----A----	Animacy=Anim|Case=Loc|Gender=Masc|NameType=Sur|Number=Sing	11	flat	_	SpaceAfter=No
-13	.	.	PUNCT	Z:-------------	_	6	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 case	color:blue
+1	Umění	umění	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Vnoun	3	nsubj:pass	_	_
+2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pass	_	_
+3	restauruje	restaurovat	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	Z:-------------	_	6	punct	_	_
+5	rytíř	rytíř	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	dostává	dostávat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+7	co	co	PRON	PQ--4----------	Animacy=Inan|Case=Acc|PronType=Int	6	obj	_	_
+8	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	9	case	_	_
+9	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~
 

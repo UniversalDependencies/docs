@@ -25,7 +25,7 @@ The following 133 pairs of parts of speech are connected with `conj`: <tt><a hre
 1	Anleitung	Anleitung	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 2	zu	zu	ADP	APPR	AdpType=Prep|Case=Dat	4	case	_	_
 3	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	4	det	_	_
-4	Kindesmißbrauch	Mißbrauch	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	_
+4	Kindesmißbrauch	Kindesmißbrauch	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	_
 5	und	und	CCONJ	KON	_	6	cc	_	_
 6	Mord	Mord	NOUN	NN	Gender=Masc|Number=Sing	4	conj	_	_
 7	in	in	ADP	APPR	AdpType=Prep|Case=Dat	9	case	_	_
@@ -45,7 +45,7 @@ The following 133 pairs of parts of speech are connected with `conj`: <tt><a hre
 2	verzichtet	verzichten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	auf	auf	ADP	APPR	AdpType=Prep|Case=Acc	5	case	_	_
 4	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
-5	TV-Kabel	Kabel	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+5	TV-Kabel	TV-Kabel	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
 6	und	und	CCONJ	KON	_	7	cc	_	_
 7	forciert	forcieren	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 8	MSN	MSN	PROPN	NE	Case=Acc|Number=Sing	7	obj	_	_

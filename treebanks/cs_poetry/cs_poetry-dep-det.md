@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `det`: <tt><a href="cs_poetry-dep-det-numgov.html">det:numgov</a></tt>, <tt><a href="cs_poetry-dep-det-nummod.html">det:nummod</a></tt>.
 
-200 nodes (3%) are attached to their parents as `det`.
+201 nodes (3%) are attached to their parents as `det`.
 
-140 instances of `det` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22.
+141 instances of `det` (70%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.23383084577114.
 
-The following 5 pairs of parts of speech are connected with `det`: <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (193; 97% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt>-<tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `det`: <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (195; 97% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt>-<tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,22 +39,26 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 det	color:blue
-1	Blaze	blaze	ADV	Vi-P---2--A----	Polarity=Pos	0	root	_	_
-2	tobě	ty	PRON	PH-S3--2-------	Case=Dat|Number=Sing|Person=2|PronType=Prs	1	obl:arg	_	SpaceAfter=No
-3	,	,	PUNCT	Z:-------------	_	1	punct	_	_
-4	nevinňátko	neviňátko	NOUN	NNFS5-----A----	Case=Voc|Gender=Neut|Number=Sing	1	vocative	_	SpaceAfter=No
-5	,	,	PUNCT	Z:-------------	_	9	punct	_	_
-6	Že	že	SCONJ	J,-------------	_	9	mark	_	_
-7	tvůj	tvůj	DET	PSYS1-S1-------	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
-8	outlý	útlý	ADJ	AAMS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	10	nsubj	_	_
-9	zvadnul	zvadnout	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	ccomp	_	_
-10	květ	květ	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	SpaceAfter=No
-11	;	;	PUNCT	Z:-------------	_	1	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 det	color:blue
+1	Leč	leč	CCONJ	J,-------------	_	0	root	_	_
+2	onen	onen	DET	PDYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	Veliký	veliký	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	1	nsubj	_	_
+4	tam	tam	ADV	Db-------------	PronType=Dem	1	advmod	_	_
+5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	_	_
+6	slunném	slunný	ADJ	AAIS6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	7	amod	_	_
+7	jasu	jas	NOUN	NNIS6-----A---1	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	_
+8	jest	být	AUX	VB-S---3P-AA--2	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+9	nad	nad	ADP	RR--7----------	AdpType=Prep|Case=Ins	10	case	_	_
+10	pomysly	pomysl	NOUN	NNIP7-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1	obl	_	_
+11	božství	božství	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	_
+12	všech	všechen	DET	PLXP2----------	Case=Gen|Number=Plur|PronType=Tot	11	det	_	_
+13	i	i	CCONJ	J^-------------	_	14	cc	_	_
+14	času	čas	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	conj	_	SpaceAfter=No
+15	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 

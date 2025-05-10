@@ -9,18 +9,18 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-1052 tokens (2%) have a non-empty value of `NumType`.
+1051 tokens (2%) have a non-empty value of `NumType`.
 285 types (4%) occur at least once with a non-empty value of `NumType`.
 275 lemmas (5%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (908; 2% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (138; 0% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (6; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (907; 2% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (138; 0% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (6; 0% instances).
 
 ### `NUM`
 
-908 <tt><a href="en_partut-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+907 <tt><a href="en_partut-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (908; 100% of non-empty `NumType`): <em>two, one, 1, three, 2, four, 18, 3, 6, five</em>
+* `Card` (907; 100% of non-empty `NumType`): <em>two, one, 1, three, 2, four, 18, 3, 6, five</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (261) occur only with one value of `NumType`.
 
@@ -33,7 +33,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (138; 100% of non-empty `NumType`): <em>first, last, second, third, II, III, sixth, I, IV, VI</em>
-* `EMPTY` (3697): <em>other, new, European, economic, financial, social, many, important, own, same</em>
+* `EMPTY` (3726): <em>other, new, European, economic, financial, social, many, important, own, same</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (13) occur only with one value of `NumType`.
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Ord` (6; 100% of non-empty `NumType`): <em>first, third, latter, second</em>
-* `EMPTY` (2048): <em>it, I, we, that, which, he, you, they, this, there</em>
+* `EMPTY` (2041): <em>it, I, we, that, which, he, you, they, this, there</em>
 
 ## Relations with Agreement in `NumType`
 

@@ -77,7 +77,7 @@ The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href
 2	cynllunio	cynllunio	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	10	csubj	_	_
 3	eich	chi	PRON	dep	Number=Plur|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
 4	taith	taith	NOUN	noun	Gender=Fem|Number=Sing	2	obj	_	_
-5	i	i	ADP	prep	_	8	case	_	_
+5	i	i	ADP	prep	ExtPos=ADP	8	case	_	_
 6	fyny	fyny	ADV	adv	_	5	fixed	_	SpaceAfter=No
 7	'r	y	DET	art	_	8	det	_	_
 8	Wyddfa	Wyddfa	PROPN	place	Gender=Fem|Number=Sing	4	nmod	_	_

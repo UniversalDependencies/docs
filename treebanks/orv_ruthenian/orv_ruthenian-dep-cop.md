@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-526 nodes (0%) are attached to their parents as `cop`.
+527 nodes (0%) are attached to their parents as `cop`.
 
 332 instances of `cop` (63%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.84980988593156.
+Average distance between parent and child is 1.84819734345351.
 
-The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (258; 49% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (153; 29% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (53; 10% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (22; 4% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (12; 2% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (9; 2% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (8; 2% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (8; 2% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (258; 49% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (153; 29% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (53; 10% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (22; 4% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (12; 2% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (10; 2% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (8; 2% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (8; 2% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 3	на	на	ADP	IN	_	5	case	_	wf="на"
 4	ѡбѣ	оба	NUM	CD	Case=Loc|Gender=Fem|NumForm=Word|NumType=Sets	5	nummod	_	wf="ѡбѣ"
 5	сторонѣ	сторона	NOUN	NNI	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	wf="сторонѣ"
-6	смотрити	смотрити	VERB	VB	VerbForm=Inf|Voice=Act	0	root	_	wf="смотрити"
+6	смотрити	смотрити	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	wf="смотрити"
 7	права	право	NOUN	NNI	Case=Gen|Gender=Neut|Number=Sing	6	obj	_	wf="права"|SpaceAfter=No
 8	.	.	PUNCT	-PERIOD-	_	6	punct	_	_
 

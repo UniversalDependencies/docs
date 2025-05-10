@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nummod`: <tt><a href="uk_parlamint-dep-nummod-gov.html">nummod:gov</a></tt>.
 
-211 nodes (0%) are attached to their parents as `nummod`.
+338 nodes (0%) are attached to their parents as `nummod`.
 
-143 instances of `nummod` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.6303317535545.
+282 instances of `nummod` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2810650887574.
 
-The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (188; 89% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (16; 8% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (317; 94% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (16; 5% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,10 +40,10 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 nummod	color:blue
-1	Оце	оце	PRON	PRON	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	expl	_	_
+1	Оце	оце	PRON	PRON	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	_
 2	питання	питання	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 3	номер	номер	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nummod	_	_
-4	один	один	NUM	NUM	Case=Nom|Gender=Masc|NumType=Card	3	nummod	_	SpaceAfter=No
+4	один	один	NUM	NUM	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	3	nummod	_	SpaceAfter=No
 5	!	!	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~

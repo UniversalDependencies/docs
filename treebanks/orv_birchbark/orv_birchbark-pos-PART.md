@@ -71,7 +71,7 @@ The 10 most frequent ambiguous types:  <em>не</em> (<tt><a href="orv_birchbark
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 3.857143 (the average of all parts of speech is 2.410435).
+The form / lemma ratio of `PART` is 3.857143 (the average of all parts of speech is 2.411136).
 
 The 1st highest number of forms (19) was observed with the lemma “не”: <em>(н)[е], (н)е, (не, [н](е), [н]е, [н]ѣ, [не, [не], [нь], н(е), н<lbr/>е, н[е, н[е], н[ь, н[ь], не, не], нь, нѣ</em>.
 

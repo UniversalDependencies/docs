@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `dep:comp`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 dep:comp	color:blue
-1	Ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+1	Ils	eux	PRON	_	Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	encourent	encourir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	jusqu'	jusque	ADP	_	_	4	dep:comp	_	SpaceAfter=No
 4	à	à	ADP	_	_	6	dep	_	_

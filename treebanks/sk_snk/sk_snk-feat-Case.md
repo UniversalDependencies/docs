@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Voc`.
 
-52849 tokens (50%) have a non-empty value of `Case`.
+52847 tokens (50%) have a non-empty value of `Case`.
 19427 types (75%) occur at least once with a non-empty value of `Case`.
 9938 lemmas (70%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (21661; 20% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (9474; 9% instances), <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (8612; 8% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (4569; 4% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (4401; 4% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (3477; 3% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (621; 1% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (34; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (21661; 20% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (9474; 9% instances), <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (8612; 8% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (4569; 4% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (4401; 4% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (3475; 3% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (621; 1% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (34; 0% instances).
 
 ### `NOUN`
 
@@ -142,18 +142,18 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `PRON`
 
-3477 <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Case`.
+3475 <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="sk_snk-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3369; 97%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2984; 86%), <tt><a href="sk_snk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2862; 82%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2452; 71%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="sk_snk-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3367; 97%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2982; 86%), <tt><a href="sk_snk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2862; 82%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2450; 71%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (1384; 40% of non-empty `Case`): <em>ho, ma, ju, ich, čo, niečo, nič, mňa, ťa, neho</em>
+* `Acc` (1383; 40% of non-empty `Case`): <em>ho, ma, ju, ich, čo, niečo, nič, mňa, ťa, neho</em>
 * `Dat` (936; 27% of non-empty `Case`): <em>mi, mu, jej, im, ti, mne, nám, vám, nemu, sebe</em>
 * `Gen` (197; 6% of non-empty `Case`): <em>nich, neho, seba, nej, mňa, nás, ma, jej, ich, teba</em>
 * `Ins` (184; 5% of non-empty `Case`): <em>ním, mnou, ňou, nimi, sebou, tebou, nami, čím, niečím, vami</em>
 * `Loc` (132; 4% of non-empty `Case`): <em>nej, ňom, sebe, mne, nich, čom, tebe, vás, kom, ničom</em>
-* `Nom` (644; 19% of non-empty `Case`): <em>ja, čo, ty, kto, ona, nikto, on, niečo, nič, my</em>
+* `Nom` (643; 19% of non-empty `Case`): <em>ja, čo, ty, kto, ona, nikto, on, niečo, nič, my</em>
 * `EMPTY` (2958): <em>sa, si, a, se, za</em>
 
 <table>
@@ -199,7 +199,7 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 * `Acc` (27; 79% of non-empty `Case`): <em>raz, razy</em>
 * `Gen` (2; 6% of non-empty `Case`): <em>ráz</em>
 * `Nom` (5; 15% of non-empty `Case`): <em>raz</em>
-* `EMPTY` (4411): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
+* `EMPTY` (4410): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
 
 <table>
   <tr><th>Paradigm <i>raz</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
@@ -210,9 +210,9 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="sk_snk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7695; 100%),
+<tt>NOUN --[<tt><a href="sk_snk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7692; 100%),
 <tt>NOUN --[<tt><a href="sk_snk-dep-case.html">case</a></tt>]--> ADP</tt> (6607; 99%),
-<tt>NOUN --[<tt><a href="sk_snk-dep-det.html">det</a></tt>]--> DET</tt> (2468; 100%),
+<tt>NOUN --[<tt><a href="sk_snk-dep-det.html">det</a></tt>]--> DET</tt> (2464; 100%),
 <tt>NOUN --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1061; 98%),
 <tt>PRON --[<tt><a href="sk_snk-dep-case.html">case</a></tt>]--> ADP</tt> (707; 100%),
 <tt>PROPN --[<tt><a href="sk_snk-dep-case.html">case</a></tt>]--> ADP</tt> (705; 95%),

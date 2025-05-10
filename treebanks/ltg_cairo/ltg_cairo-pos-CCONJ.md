@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latgalian-Cairo: POS Tags: `CCONJ`
 
 There are 4 `CCONJ` lemmas (4%), 4 `CCONJ` types (3%) and 10 `CCONJ` tokens (6%).
-Out of 12 observed tags, the rank of `CCONJ` is: 9 in number of lemmas, 9 in number of types and 6 in number of tokens.
+Out of 11 observed tags, the rank of `CCONJ` is: 8 in number of lemmas, 8 in number of types and 6 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>i, bet, ni, voi</em>
 

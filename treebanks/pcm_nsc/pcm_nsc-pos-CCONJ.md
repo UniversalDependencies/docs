@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Naija-NSC: POS Tags: `CCONJ`
 
 There are 13 `CCONJ` lemmas (0%), 13 `CCONJ` types (0%) and 1677 `CCONJ` tokens (1%).
-Out of 15 observed tags, the rank of `CCONJ` is: 15 in number of lemmas, 15 in number of types and 13 in number of tokens.
+Out of 16 observed tags, the rank of `CCONJ` is: 16 in number of lemmas, 16 in number of types and 13 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>and, but, or, abi, plus, wheder, alias, cos, eider, either</em>
 
@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>and</em> (<tt><a href="pcm_nsc-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.162341).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.162049).
 
 The 1st highest number of forms (1) was observed with the lemma “abi”: <em>abi</em>.
 
@@ -60,17 +60,17 @@ Examples: <em>and, but, or, abi, wheder, alias, plus, cos, eider, either</em>
 
 Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (862; 51% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (403; 24% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (91; 5% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (75; 4% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (62; 4% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (59; 4% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (53; 3% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (29; 2% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (12; 1% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (11; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
 
-1609 (96%) `CCONJ` nodes are leaves.
+1605 (96%) `CCONJ` nodes are leaves.
 
-36 (2%) `CCONJ` nodes have one child.
+41 (2%) `CCONJ` nodes have one child.
 
-17 (1%) `CCONJ` nodes have two children.
+12 (1%) `CCONJ` nodes have two children.
 
-15 (1%) `CCONJ` nodes have three or more children.
+19 (1%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 4.
 
-Children of `CCONJ` nodes are attached using 7 different relations: <tt><a href="pcm_nsc-dep-dep.html">dep</a></tt> (70; 60% instances), <tt><a href="pcm_nsc-dep-fixed.html">fixed</a></tt> (25; 22% instances), <tt><a href="pcm_nsc-dep-advmod.html">advmod</a></tt> (9; 8% instances), <tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt> (7; 6% instances), <tt><a href="pcm_nsc-dep-discourse.html">discourse</a></tt> (3; 3% instances), <tt><a href="pcm_nsc-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-dep-parataxis-parenth.html">parataxis:parenth</a></tt> (1; 1% instances)
+Children of `CCONJ` nodes are attached using 8 different relations: <tt><a href="pcm_nsc-dep-punct.html">punct</a></tt> (75; 61% instances), <tt><a href="pcm_nsc-dep-fixed.html">fixed</a></tt> (25; 20% instances), <tt><a href="pcm_nsc-dep-advmod.html">advmod</a></tt> (9; 7% instances), <tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt> (7; 6% instances), <tt><a href="pcm_nsc-dep-discourse.html">discourse</a></tt> (3; 2% instances), <tt><a href="pcm_nsc-dep-dep.html">dep</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-dep-parataxis-parenth.html">parataxis:parenth</a></tt> (1; 1% instances)
 
-Children of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (70; 60% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (9; 8% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (9; 8% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (9; 8% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (8; 7% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (3; 3% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (75; 61% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (9; 7% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (9; 7% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (9; 7% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (8; 7% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (3; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>Lasti</em> (<tt><a href="fi_ood-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.215517 (the average of all parts of speech is 1.566190).
+The form / lemma ratio of `PROPN` is 1.215517 (the average of all parts of speech is 1.565977).
 
 The 1st highest number of forms (6) was observed with the lemma “Furesis”: <em>Fureisi, Furesikselle, Furesiksen, furesiksella, furesis, furesista</em>.
 
@@ -35,11 +35,11 @@ The 2nd highest number of forms (6) was observed with the lemma “Suomi”: <em
 
 The 3rd highest number of forms (5) was observed with the lemma “Ikea”: <em>ikea, ikeaan, ikean, ikeassa, ikeastahan</em>.
 
-`PROPN` occurs with 8 features: <tt><a href="fi_ood-feat-Case.html">Case</a></tt> (965; 100% instances), <tt><a href="fi_ood-feat-Number.html">Number</a></tt> (965; 100% instances), <tt><a href="fi_ood-feat-Abbr.html">Abbr</a></tt> (33; 3% instances), <tt><a href="fi_ood-feat-Typo.html">Typo</a></tt> (12; 1% instances), <tt><a href="fi_ood-feat-Clitic.html">Clitic</a></tt> (6; 1% instances), <tt><a href="fi_ood-feat-Style.html">Style</a></tt> (4; 0% instances), <tt><a href="fi_ood-feat-Derivation.html">Derivation</a></tt> (1; 0% instances), <tt><a href="fi_ood-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
+`PROPN` occurs with 7 features: <tt><a href="fi_ood-feat-Case.html">Case</a></tt> (966; 100% instances), <tt><a href="fi_ood-feat-Number.html">Number</a></tt> (966; 100% instances), <tt><a href="fi_ood-feat-Abbr.html">Abbr</a></tt> (33; 3% instances), <tt><a href="fi_ood-feat-Typo.html">Typo</a></tt> (12; 1% instances), <tt><a href="fi_ood-feat-Clitic.html">Clitic</a></tt> (6; 1% instances), <tt><a href="fi_ood-feat-Style.html">Style</a></tt> (4; 0% instances), <tt><a href="fi_ood-feat-Derivation.html">Derivation</a></tt> (1; 0% instances)
 
-`PROPN` occurs with 19 feature-value pairs: `Abbr=Yes`, `Case=Abl`, `Case=Ade`, `Case=All`, `Case=Ela`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Case=Par`, `Clitic=Han`, `Clitic=Kaan`, `Clitic=Kin`, `Derivation=Lainen`, `Foreign=Yes`, `Number=Plur`, `Number=Sing`, `Style=Coll`, `Typo=Yes`
+`PROPN` occurs with 18 feature-value pairs: `Abbr=Yes`, `Case=Abl`, `Case=Ade`, `Case=All`, `Case=Ela`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Case=Par`, `Clitic=Han`, `Clitic=Kaan`, `Clitic=Kin`, `Derivation=Lainen`, `Number=Plur`, `Number=Sing`, `Style=Coll`, `Typo=Yes`
 
-`PROPN` occurs with 32 feature combinations.
+`PROPN` occurs with 31 feature combinations.
 The most frequent feature combination is `Case=Nom|Number=Sing` (575 tokens).
 Examples: <em>furesis, Esko, Tymppis, the, sp., Suomi, noradrenalina, America, Captain, Nooa</em>
 

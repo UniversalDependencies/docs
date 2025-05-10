@@ -13,7 +13,7 @@ Some words have combined values of the feature; 2 combinations have been observe
 11032 tokens (40%) have a non-empty value of `Case`.
 7453 types (65%) occur at least once with a non-empty value of `Case`.
 3046 lemmas (65%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (4719; 17% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (2708; 10% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (1261; 5% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (913; 3% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (707; 3% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (540; 2% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (184; 1% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (4719; 17% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (2709; 10% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (1260; 5% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (913; 3% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (707; 3% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (540; 2% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (184; 1% instances).
 
 ### `NOUN`
 
@@ -27,10 +27,10 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Acc,Gen` (7; 0% of non-empty `Case`): <em>брата<lbr/>на, исца, отро{ӏ}ка, родника, сꙑна, трет[ь], ѹѥча</em>
 * `Acc,Nom` (1; 0% of non-empty `Case`): <em>гривнѣ</em>
 * `Dat` (327; 7% of non-empty `Case`): <em>гн҃у, брату, кꙋне, матери, братѹ, бц҃и, дѣтемъ, дѣтемь, жене, жени</em>
-* `Gen` (1346; 29% of non-empty `Case`): <em>ржи, кѹно, кѹнъ, соли, жита, гривьнъ, гривено, рожи, серебра, села</em>
+* `Gen` (1345; 29% of non-empty `Case`): <em>ржи, кѹно, кѹнъ, соли, жита, гривьнъ, гривено, рожи, серебра, села</em>
 * `Ins` (228; 5% of non-empty `Case`): <em>челомъ, целомъ, цоломъ, (челомъ, людми, людьми, братьею, гривьною, дѣтми, женою</em>
 * `Loc` (247; 5% of non-empty `Case`): <em>животѣ, городѣ, дни, землѣ, кони, рꙑбахъ, соли, бозѣ, дн҃и, дорѣ</em>
-* `Nom` (1342; 28% of non-empty `Case`): <em>поклонъ, поклоно, покланѧние, грамота, гривна, кад, приказъ, землѧ, полтин, полтина</em>
+* `Nom` (1343; 28% of non-empty `Case`): <em>поклонъ, поклоно, покланѧние, грамота, гривна, кад, приказъ, землѧ, полтин, полтина</em>
 * `Voc` (178; 4% of non-empty `Case`): <em>гн҃е, господине, ѡсподине, ѻсподине, брате, брать, ги҃, ꙩсподине, сподине, ӧсподо</em>
 * `EMPTY` (146): <em>(кѹ)не, [к], гривьнѣ, грив…, коробьи, (бе)<lbr/>рковеска, (бл҃)гослв(лениѥ), (бьр)ковьскь, (г)[р]в҃не, (г)р[а](мота)</em>
 
@@ -43,16 +43,16 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PROPN`
 
-2708 <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Case`.
+2709 <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2579; 95%), <tt><a href="orv_birchbark-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (2290; 85%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2164; 80%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2580; 95%), <tt><a href="orv_birchbark-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (2290; 85%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2164; 80%).
 
 `PROPN` tokens may have the following values of `Case`:
 
 * `Acc` (135; 5% of non-empty `Case`): <em>евана, ѳедора, ивана, лугу, (с)[мо]на, ---[и]ж[ин](а), [сл]а[в]…, борана, бꙑковщи[н]у, в]игуѧ</em>
 * `Acc,Gen` (6; 0% of non-empty `Case`): <em>вицка, ивана, иванца, мꙑсла…, орка, теретиѧ</em>
 * `Dat` (620; 23% of non-empty `Case`): <em>ивану, максиму, сидору, юрью, гюргю, иванѹ, михаилу, петръкѹ, савѣ, смену</em>
-* `Gen` (1132; 42% of non-empty `Case`): <em>петра, ивана, бориса, степана, смена, евана, завида, михалѧ, павла, стьпана</em>
+* `Gen` (1133; 42% of non-empty `Case`): <em>петра, ивана, бориса, степана, смена, евана, завида, михалѧ, павла, стьпана</em>
 * `Ins` (82; 3% of non-empty `Case`): <em>ѥлбугою, (кл)имом, (ѡк)сент[и]ѥмо, -----(-)<lbr/>вичомꙑ, --<lbr/>аномо, асафъмь, борисоглибом<lbr/>о, борисомо, васил[ь]ѥмъ, воелавомо</em>
 * `Loc` (199; 7% of non-empty `Case`): <em>городищи, куролѣ, кшетахъ, лаидиколѣ, мълъвотицѣхъ, м…, озеревахъ, рѹсѣ, сидоре, шидовицихъ</em>
 * `Nom` (516; 19% of non-empty `Case`): <em>мариѧ, сихаилъ, хрс҃тъ, иване, ѧна, давꙑдъ, настасиѧ, сихаїлъ, ѧкиме, ӏѡ҃</em>
@@ -67,9 +67,9 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `PRON`
 
-1261 <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+1260 <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1116; 89%), <tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1072; 85%), <tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (967; 77%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (871; 69%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1115; 88%), <tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1071; 85%), <tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (966; 77%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (870; 69%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -79,7 +79,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Gen` (155; 12% of non-empty `Case`): <em>мене, тебе, ѥго, его, мьнь, насъ, него, себе, кого, васъ</em>
 * `Ins` (68; 5% of non-empty `Case`): <em>мною, тобою, вами, мъною, нами, кꙑмъ, ними, нимо, нимь, собо<lbr/>ю</em>
 * `Loc` (35; 3% of non-empty `Case`): <em>собѣ, мнѣ, [соби], неи, немь, собе, томъ, в[а]ю, васо, васъ</em>
-* `Nom` (299; 24% of non-empty `Case`): <em>тꙑ, ѧ, ѧзъ, ѧзо, цто, что, азъ, вꙑ, ꙗзъ, мꙑ</em>
+* `Nom` (298; 24% of non-empty `Case`): <em>тꙑ, ѧ, ѧзъ, ѧзо, цто, что, азъ, вꙑ, ꙗзъ, мꙑ</em>
 * `EMPTY` (4): <em>мни, себѣ, сѧ, ѧ<lbr/>(зъ)</em>
 
 <table>
@@ -195,7 +195,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>PROPN --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> PROPN</tt> (459; 86%),
 <tt>NOUN --[<tt><a href="orv_birchbark-dep-amod.html">amod</a></tt>]--> ADJ</tt> (405; 95%),
-<tt>NOUN --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> NOUN</tt> (355; 66%),
+<tt>NOUN --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> NOUN</tt> (356; 66%),
 <tt>NOUN --[<tt><a href="orv_birchbark-dep-det.html">det</a></tt>]--> DET</tt> (339; 96%),
 <tt>NOUN --[<tt><a href="orv_birchbark-dep-appos.html">appos</a></tt>]--> PROPN</tt> (118; 95%),
 <tt>PROPN --[<tt><a href="orv_birchbark-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (91; 98%),

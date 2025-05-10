@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-20790 tokens (8%) have a non-empty value of `Mood`.
+20789 tokens (8%) have a non-empty value of `Mood`.
 2004 types (10%) occur at least once with a non-empty value of `Mood`.
 1028 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (10981; 4% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (9809; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (10980; 4% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (9809; 4% instances).
 
 ### `VERB`
 
-10981 <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> tokens (39% of all `VERB` tokens) have a non-empty value of `Mood`.
+10980 <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> tokens (39% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10981; 100%), <tt><a href="en_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (10981; 100%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7077; 64%), <tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=3</tt> (5716; 52%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10980; 100%), <tt><a href="en_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (10980; 100%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7077; 64%), <tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=3</tt> (5716; 52%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (1506; 14% of non-empty `Mood`): <em>let, go, see, take, try, get, make, give, call, put</em>
+* `Imp` (1505; 14% of non-empty `Mood`): <em>let, go, see, take, try, get, make, give, call, put</em>
 * `Ind` (9438; 86% of non-empty `Mood`): <em>have, had, said, has, want, need, is, are, know, think</em>
 * `Sub` (37; 0% of non-empty `Mood`): <em>go, come, get, have, take, build, buy, call, compare, comply</em>
 * `EMPTY` (16908): <em>have, get, know, do, go, going, make, see, take, like</em>
@@ -88,11 +88,8 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1019; 62%),
-<tt>VERB --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> AUX</tt> (8; 53%),
-<tt>AUX --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 67%),
+<tt>VERB --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1018; 62%),
 <tt>VERB --[<tt><a href="en_ewt-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (3; 75%),
 <tt>AUX --[<tt><a href="en_ewt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="en_ewt-dep-csubj-outer.html">csubj:outer</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%).
 

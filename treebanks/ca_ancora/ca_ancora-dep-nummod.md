@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6271 nodes (1%) are attached to their parents as `nummod`.
+6270 nodes (1%) are attached to their parents as `nummod`.
 
 5086 instances of `nummod` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.21129006538032.
+Average distance between parent and child is 1.21068580542265.
 
-The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (4656; 74% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (599; 10% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (559; 9% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (223; 4% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (184; 3% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (4655; 74% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (599; 10% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (559; 9% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (223; 4% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (184; 3% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

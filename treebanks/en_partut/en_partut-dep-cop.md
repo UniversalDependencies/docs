@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-701 nodes (1%) are attached to their parents as `cop`.
+702 nodes (1%) are attached to their parents as `cop`.
 
-645 instances of `cop` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.2981455064194.
+646 instances of `cop` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.30769230769231.
 
-The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (306; 44% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (295; 42% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (29; 4% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (26; 4% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (19; 3% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (12; 2% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (9; 1% instances), <tt><a href="en_partut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-SYM.html">SYM</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-DET.html">DET</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (307; 44% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (294; 42% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (28; 4% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (27; 4% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (19; 3% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (12; 2% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="en_partut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-SYM.html">SYM</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-DET.html">DET</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 cop	color:blue
-1	It	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	that	that	DET	DD	PronType=Dem	4	det	_	_
 4	pyramid	pyramid	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
@@ -57,7 +57,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 3 cop	color:blue
 1	And	and	CCONJ	CC	_	2	cc	_	_
-2	what	what	PRON	PQ	Number=Sing|PronType=Int	0	root	_	SpaceAfter=No
+2	what	what	PRON	PQ	Number=Sing|PronType=Int	0	root	_	_
 3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 4	that	that	SCONJ	CS	_	2	nsubj	_	SpaceAfter=No
 5	?	?	PUNCT	FS	_	2	punct	_	_

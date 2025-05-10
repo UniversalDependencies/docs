@@ -11,7 +11,7 @@ It occurs with 2 different values: `Past`, `Pres`.
 
 1504 tokens (8%) have a non-empty value of `Tense`.
 618 types (17%) occur at least once with a non-empty value of `Tense`.
-420 lemmas (13%) occur at least once with a non-empty value of `Tense`.
+419 lemmas (13%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1021; 6% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (483; 3% instances).
 
 ### `VERB`
@@ -64,8 +64,9 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> VERB</tt> (64; 77%),
-<tt>VERB --[<tt><a href="en_gentle-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (2; 67%),
+<tt>VERB --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> VERB</tt> (66; 78%),
+<tt>VERB --[<tt><a href="en_gentle-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<tt><a href="en_gentle-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="en_gentle-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="en_gentle-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (1; 100%).

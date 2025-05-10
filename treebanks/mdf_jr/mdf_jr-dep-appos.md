@@ -13,7 +13,7 @@ This relation is universal.
 27 instances of `appos` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.
 
-The following 11 pairs of parts of speech are connected with `appos`: <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (7; 26% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (6; 22% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (5; 19% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 4% instances).
+The following 11 pairs of parts of speech are connected with `appos`: <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (7; 26% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (7; 26% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (4; 15% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 appos	color:blue
-1	Кати-коста	кати-коста	ADV	Adv	Case=Ela|Definite=Ind	3	advmod:lmod	_	GTtags=Indef,Ela
+1	Кати-коста	кати-коста	ADV	Adv	Case=Ela|Definite=Ind	3	advmod	_	GTtags=Indef,Ela
 2	вярде	вярде	ADV	Adv	Case=Abl	1	appos	_	GTtags=Abl
 3	кулян	кулемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,ScSg1
 4	вайгяль	вайгяль	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	3	obj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
@@ -39,7 +39,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 4 9 appos	color:blue
 1	Мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg1,Nom
 2	усконь	ускомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScSg1
-3	паксяв	пакся	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	2	obl:lmod	_	GTtags=SP,Lat,Indef
+3	паксяв	пакся	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	2	obl	_	GTtags=SP,Lat,Indef
 4	видьмот	видьме	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	2	obj	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	кодама-бъди	кодама-бди	DET	Det	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind|Style=Ped	8	det	_	GTtags=Indef,Sg,Nom,Indef|ModernForm=кодама-бди
@@ -58,7 +58,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 3 appos	color:blue
 1	Аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	2	aux:neg	_	GTtags=Aux,Neg
-2	ичкозе	ичкозе	ADV	Adv	Case=Loc	4	advmod:lmod	_	GTtags=Loc
+2	ичкозе	ичкозе	ADV	Adv	Case=Loc	4	advmod	_	GTtags=Loc
 3	вирьса	вирь	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	2	appos	_	GTtags=SP,Ine,Indef
 4	кукай	кукамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,ScSg3
 5	кукусь	куку	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Def|SpaceAfter=No

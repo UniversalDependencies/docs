@@ -66,7 +66,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 2510 <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> tokens (31% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="la_llct-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (1489; 59%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="la_llct-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (2509; 100%), <tt><a href="la_llct-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (1489; 59%).
 
 `ADV` tokens may have the following values of `PronType`:
 
@@ -113,7 +113,7 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>DET --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> DET</tt> (92; 82%),
-<tt>DET --[<tt><a href="la_llct-dep-nmod.html">nmod</a></tt>]--> DET</tt> (47; 64%),
+<tt>DET --[<tt><a href="la_llct-dep-nmod.html">nmod</a></tt>]--> DET</tt> (48; 65%),
 <tt>PRON --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> DET</tt> (16; 84%),
 <tt>PRON --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> PRON</tt> (6; 100%),
 <tt>CCONJ --[<tt><a href="la_llct-dep-mark.html">mark</a></tt>]--> SCONJ</tt> (3; 100%),

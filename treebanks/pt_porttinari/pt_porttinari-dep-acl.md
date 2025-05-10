@@ -38,7 +38,7 @@ The following 24 pairs of parts of speech are connected with `acl`: <tt><a href=
 13	em	em	ADP	_	_	15	case	15:case	_
 14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	15:det	_
 15	mão	mão	NOUN	_	Gender=Fem|Number=Sing	12	nmod	12:nmod:em	SpaceAfter=No
-16	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -60,7 +60,7 @@ The following 24 pairs of parts of speech are connected with `acl`: <tt><a href=
 9	dia	dia	NOUN	_	Gender=Masc|Number=Sing	7	obj	7:obj	_
 10	a	a	ADP	_	_	11	case	11:case	_
 11	dia	dia	NOUN	_	Gender=Masc|Number=Sing	9	nmod	9:nmod:a	SpaceAfter=No
-12	.	.	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 
@@ -82,7 +82,7 @@ The following 24 pairs of parts of speech are connected with `acl`: <tt><a href=
 9	não	não	ADV	_	_	11	advmod	11:advmod	_
 10	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	11:det	_
 11	político	político	NOUN	_	Gender=Masc|Number=Sing	7	conj	7:conj:e	SpaceAfter=No
-12	.	.	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+12	.	.	PUNCT	_	_	7	punct	7:punct	_
 
 ~~~
 

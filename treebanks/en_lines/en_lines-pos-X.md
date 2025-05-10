@@ -9,11 +9,11 @@ udver: '2'
 There are 27 `X` lemmas (0%), 28 `X` types (0%) and 48 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 11 in number of lemmas, 11 in number of types and 16 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>xsl, xslt, sa, w3c, XSD, db, maris, stella, Aliquem, COM</em>
+The 10 most frequent `X` lemmas: <em>XSL, XSLT, sa, w3c, DB, XSD, maris, stella, Aliquem, COM</em>
 
 The 10 most frequent `X` types:  <em>XSLT, SA, XSL, W3C, .xsl, DB, XSD, maris, stella, .adp</em>
 
-The 10 most frequent ambiguous lemmas: <em>foie</em> (<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="en_lines-pos-X.html">X</a></tt> 1), <em>gras</em> (<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_lines-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>XSD</em> (<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="en_lines-pos-X.html">X</a></tt> 2), <em>XML</em> (<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> 74, <tt><a href="en_lines-pos-X.html">X</a></tt> 1), <em>foie</em> (<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="en_lines-pos-X.html">X</a></tt> 1), <em>gras</em> (<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_lines-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>XSD</em> (<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="en_lines-pos-X.html">X</a></tt> 2), <em>foie</em> (<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="en_lines-pos-X.html">X</a></tt> 1), <em>gras</em> (<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="en_lines-pos-X.html">X</a></tt> 1)
 
@@ -30,9 +30,9 @@ The 10 most frequent ambiguous types:  <em>XSD</em> (<tt><a href="en_lines-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.037037 (the average of all parts of speech is 1.240477).
+The form / lemma ratio of `X` is 1.037037 (the average of all parts of speech is 1.236954).
 
-The 1st highest number of forms (2) was observed with the lemma “xsl”: <em>.xsl, XSL</em>.
+The 1st highest number of forms (2) was observed with the lemma “XSL”: <em>.xsl, XSL</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “Aliquem”: <em>Aliquem</em>.
 

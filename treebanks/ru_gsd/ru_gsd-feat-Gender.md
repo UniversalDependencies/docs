@@ -227,7 +227,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1108; 55%),
 <tt>PROPN --[<tt><a href="ru_gsd-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (964; 99%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (790; 69%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-det.html">det</a></tt>]--> DET</tt> (657; 51%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-det.html">det</a></tt>]--> DET</tt> (656; 51%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (509; 53%),
 <tt>VERB --[<tt><a href="ru_gsd-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (470; 69%),
 <tt>VERB --[<tt><a href="ru_gsd-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (405; 95%),

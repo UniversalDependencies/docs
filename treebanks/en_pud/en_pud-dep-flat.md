@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-234 nodes (1%) are attached to their parents as `flat`.
+198 nodes (1%) are attached to their parents as `flat`.
 
-234 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.20940170940171.
+198 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.16666666666667.
 
-The following 10 pairs of parts of speech are connected with `flat`: <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (174; 74% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (34; 15% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (13; 6% instances), <tt><a href="en_pud-pos-X.html">X</a></tt>-<tt><a href="en_pud-pos-X.html">X</a></tt> (7; 3% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `flat`: <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (163; 82% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (13; 7% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (9; 5% instances), <tt><a href="en_pud-pos-X.html">X</a></tt>-<tt><a href="en_pud-pos-X.html">X</a></tt> (7; 4% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -32,6 +32,29 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 8	as	as	ADP	IN	_	9	case	9:case	_
 9	treasurer	treasurer	NOUN	NN	Number=Sing	6	orphan	2.1:obl:as	SpaceAfter=No
 10	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 flat	color:blue
+1	Their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	first	first	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	3	amod	3:amod	_
+3	king	king	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
+5	Mojmír	Mojmír	PROPN	NNP	Number=Sing	0	root	0:root	_
+6	I	I	NUM	CD	NumForm=Roman|NumType=Card	5	flat	5:flat	_
+7	(	(	PUNCT	-LRB-	_	8	punct	8:punct	SpaceAfter=No
+8	ruled	rule	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	parataxis	5:parataxis	_
+9	830	830	NUM	CD	NumForm=Digit|NumType=Card	8	obj	8:obj	SpaceAfter=No
+10	–	–	ADP	IN	_	11	case	11:case	SpaceAfter=No
+11	846	846	NUM	CD	NumForm=Digit|NumType=Card	9	nmod	9:nmod	SpaceAfter=No
+12	)	)	PUNCT	-RRB-	_	8	punct	8:punct	SpaceAfter=No
+13	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 ~~~
 
@@ -57,29 +80,6 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux:pass	14:aux:pass	_
 14	defeated	defeat	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	3:conj:but	SpaceAfter=No
 15	.	.	PUNCT	.	_	3	punct	3:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 flat	color:blue
-1	Their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
-2	first	first	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	3	amod	3:amod	_
-3	king	king	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
-4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
-5	Mojmír	Mojmír	PROPN	NNP	Number=Sing	0	root	0:root	_
-6	I	I	NUM	CD	NumForm=Roman|NumType=Card	5	flat	5:flat	_
-7	(	(	PUNCT	-LRB-	_	8	punct	8:punct	SpaceAfter=No
-8	ruled	rule	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	parataxis	5:parataxis	_
-9	830	830	NUM	CD	NumForm=Digit|NumType=Card	8	obj	8:obj	SpaceAfter=No
-10	–	–	ADP	IN	_	11	case	11:case	SpaceAfter=No
-11	846	846	NUM	CD	NumForm=Digit|NumType=Card	9	nmod	9:nmod	SpaceAfter=No
-12	)	)	PUNCT	-RRB-	_	8	punct	8:punct	SpaceAfter=No
-13	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 ~~~
 

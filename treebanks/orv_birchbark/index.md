@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya.
 
 Repository: [UD_Old_East_Slavic-Birchbark](https://github.com/UniversalDependencies/UD_Old_East_Slavic-Birchbark)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_birchbark215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_birchbark216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -88,7 +88,7 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 
 ## Features
 
-[Analyt](orv_birchbark-feat-Analyt.html) – [Animacy](orv_birchbark-feat-Animacy.html) – [Case](orv_birchbark-feat-Case.html) – [Clitic](orv_birchbark-feat-Clitic.html) – [Degree](orv_birchbark-feat-Degree.html) – [Gender](orv_birchbark-feat-Gender.html) – [Mood](orv_birchbark-feat-Mood.html) – [NameType](orv_birchbark-feat-NameType.html) – [Number](orv_birchbark-feat-Number.html) – [NumForm](orv_birchbark-feat-NumForm.html) – [NumType](orv_birchbark-feat-NumType.html) – [Person](orv_birchbark-feat-Person.html) – [Poss](orv_birchbark-feat-Poss.html) – [PronType](orv_birchbark-feat-PronType.html) – [Reflex](orv_birchbark-feat-Reflex.html) – [Tense](orv_birchbark-feat-Tense.html) – [Typo](orv_birchbark-feat-Typo.html) – [Variant](orv_birchbark-feat-Variant.html) – [VerbForm](orv_birchbark-feat-VerbForm.html) – [Voice](orv_birchbark-feat-Voice.html)
+[Analyt](orv_birchbark-feat-Analyt.html) – [Animacy](orv_birchbark-feat-Animacy.html) – [Case](orv_birchbark-feat-Case.html) – [Clitic](orv_birchbark-feat-Clitic.html) – [Degree](orv_birchbark-feat-Degree.html) – [ExtPos](orv_birchbark-feat-ExtPos.html) – [Gender](orv_birchbark-feat-Gender.html) – [Mood](orv_birchbark-feat-Mood.html) – [NameType](orv_birchbark-feat-NameType.html) – [Number](orv_birchbark-feat-Number.html) – [NumForm](orv_birchbark-feat-NumForm.html) – [NumType](orv_birchbark-feat-NumType.html) – [Person](orv_birchbark-feat-Person.html) – [Poss](orv_birchbark-feat-Poss.html) – [PronType](orv_birchbark-feat-PronType.html) – [Reflex](orv_birchbark-feat-Reflex.html) – [Tense](orv_birchbark-feat-Tense.html) – [Typo](orv_birchbark-feat-Typo.html) – [Variant](orv_birchbark-feat-Variant.html) – [VerbForm](orv_birchbark-feat-VerbForm.html) – [Voice](orv_birchbark-feat-Voice.html)
 
 ## Relations
 
@@ -110,7 +110,7 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 </ul>
 
 <ul>
-<li>This corpus contains 4705 types of words that contain both letters and punctuation. Examples: ·в҃·, ·г҃·, :в҃:, :в:, ·г·, (ѿ), :г҃:, [а], ·ӏ҃·, (ѿ, [и, …а, …и, :е҃:, ·в·, а], :д҃:, ·д҃·, [ѿ], ·е҃·, [и], :ꙅ҃:, [а, ·е·, ·ѳ҃·, в…, н…, :е:, :ꙅ:, и], к[ъ], м…, (а, (къ), (ѹ), ·к·, ·ꙅ҃·, н[е], ѿ), …ъ, (и, (на), ·и҃·, ·ӏ·, п…, …е, (а), :г:, :з҃:, :ѕ҃:</li>
+<li>This corpus contains 4706 types of words that contain both letters and punctuation. Examples: ·в҃·, ·г҃·, :в҃:, :в:, ·г·, (ѿ), :г҃:, [а], ·ӏ҃·, (ѿ, [и, …а, …и, :е҃:, ·в·, а], :д҃:, ·д҃·, [ѿ], ·е҃·, [и], :ꙅ҃:, [а, ·е·, ·ѳ҃·, в…, н…, :е:, :ꙅ:, и], к[ъ], м…, (а, (къ), (ѹ), ·к·, ·ꙅ҃·, н[е], ѿ), …ъ, (и, (на), ·и҃·, ·ӏ·, п…, …е, (а), :г:, :з҃:, :ѕ҃:</li>
 </ul>
 
 <ul>
@@ -129,7 +129,7 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 </ul>
 
 <ul>
-<li>This corpus contains 18 lemmas tagged as pronouns (PRON): азъ, вы, вѣ, и, иже, коробьꙗ, кто, мы, ничто, себе, себя, сѧ, то, ты, что, чьто, ꙗ, ꙗзъ</li>
+<li>This corpus contains 17 lemmas tagged as pronouns (PRON): азъ, вы, вѣ, и, иже, кто, мы, ничто, себе, себя, сѧ, то, ты, что, чьто, ꙗ, ꙗзъ</li>
 </ul>
 
 <ul>
@@ -532,7 +532,7 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
   <li>Imp
     <ul>
       <li>AUX-Fin: [бе]шь, бьшь</li>
-      <li>VERB-Fin: возꙑвахо, вьлѧшь, дѣѧшь, мълвлѧше, творѧхуо, шюмъ</li>
+      <li>VERB-Fin: возꙑвахо, вьлѧшь, дѣѧшь, мълвлѧше, творѧхуо</li>
     </ul>
   </li>
 </ul>
@@ -542,7 +542,7 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
     <ul>
       <li>AUX-Fin: бꙑ, бꙑхъ, былъ, б…, бꙑ[хъ], бꙑс, бꙑхо, бꙑховь, бꙑша</li>
       <li>AUX-PartRes: бꙑло, бꙑлъ, бꙑле, бꙑла, (бꙑ)<lbr/>ло, б[ꙑ]<lbr/>ло, б]ꙑ[лъ], бꙑли, бꙑл</li>
-      <li>VERB-Fin: въ, въскрьсѣ, возѧ, ста, (пос)лахомъ, [въ]змути<lbr/>сѧ, [ц]ита, бл҃гви, бꙑ, бꙑше</li>
+      <li>VERB-Fin: въ, въскрьсѣ, возѧ, ста, (пос)лахомъ, [бѣ], [въ]змути<lbr/>сѧ, [ц]ита, бл҃гви, бꙑ</li>
       <li>VERB-Part: възьмъши, куплено, (п)[рисл]а[в]о, (полу)<lbr/>чеше, [зал]ѧко, [п]окладено, [ѿ](им)ана, блг҃ословлено, взьмъ, взѧв·ъ</li>
       <li>VERB-PartRes: далъ, шло, възѧле, дале, послале, въдале, дала, взѧле, бꙑло, велѣлъ</li>
     </ul>
@@ -765,6 +765,23 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>PRON: цого</li>
+        </ul>
+      </li>
+      <li>PART
+        <ul>
+          <li>AUX: бꙑ</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>NameType</a>
     <ul>
       <li>Geo
@@ -886,7 +903,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Gen (1)</li>
       <li>VERB-Fin--NOUN (4)</li>
       <li>VERB-Fin--NOUN-ADP(съ) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (297)</li>
+      <li>VERB-Fin--NOUN-Acc (298)</li>
       <li>VERB-Fin--NOUN-Acc,Gen (3)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(въ) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(по) (1)</li>
@@ -938,7 +955,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Ins (1)</li>
       <li>VERB--PRON-Dat (11)</li>
       <li>VERB-Fin--NOUN (1)</li>
-      <li>VERB-Fin--NOUN-Acc (7)</li>
+      <li>VERB-Fin--NOUN-Acc (6)</li>
       <li>VERB-Fin--NOUN-Dat (62)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(у) (1)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>

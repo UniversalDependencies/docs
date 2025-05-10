@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Dim` (52; 100% of non-empty `Degree`): <em>карденя, очконять, досканят, коволнятнень, ловнясь, пацяняц, стирнятне, Бабанять, Лефкскятнень, Луганятне</em>
-* `EMPTY` (1061): <em>лангс, ломаттне, шиня, шись, пингть, ава, паксянь, Тишка, каршес, ланга</em>
+* `EMPTY` (1062): <em>лангс, ломаттне, тячи, шиня, шись, ава, паксянь, пингть, Тишка, каршес</em>
 
 `Degree` seems to be **lexical feature** of `NOUN`. 100% lemmas (38) occur only with one value of `Degree`.
 
@@ -31,22 +31,22 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 
 3 <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="mdf_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="mdf_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (2; 67%).
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Dim` (2; 67% of non-empty `Degree`): <em>аруняста, саворне</em>
 * `Sup` (1; 33% of non-empty `Degree`): <em>Сембода</em>
-* `EMPTY` (428): <em>нинге, пяк, кода, аньцек, сяда, ни, меле, эста, ичкозе, мес</em>
+* `EMPTY` (421): <em>нинге, пяк, кода, аньцек, сяда, ни, меле, эста, ичкозе, мес</em>
 
 ### `PART`
 
-3 <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> tokens (20% of all `PART` tokens) have a non-empty value of `Degree`.
+3 <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> tokens (19% of all `PART` tokens) have a non-empty value of `Degree`.
 
 `PART` tokens may have the following values of `Degree`:
 
 * `Cmp` (3; 100% of non-empty `Degree`): <em>сяда</em>
-* `EMPTY` (12): <em>вдь, хоть, въдь, дяряй, и, нльне, нльня, хуш, шять</em>
+* `EMPTY` (13): <em>вдь, хоть, въдь, дяряй, и, ли, нльне, нльня, хуш, шять</em>
 
 ### `VERB`
 

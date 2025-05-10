@@ -11,7 +11,7 @@ This relation is universal.
 90 nodes (0%) are attached to their parents as `parataxis`.
 
 69 instances of `parataxis` (77%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.75555555555556.
+Average distance between parent and child is 7.65555555555556.
 
 The following 15 pairs of parts of speech are connected with `parataxis`: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (30; 33% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (17; 19% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (14; 16% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (7; 8% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (6; 7% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-X.html">X</a></tt> (3; 3% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
@@ -67,9 +67,9 @@ The following 15 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 7 parataxis	color:blue
 1	Αυτό	αυτός	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	4	obj	_	_
-2	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+2	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	να	να	AUX	AUX	_	4	aux	_	_
-4	επιδιώκουμε	επιδιώκω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	επιδιώκουμε	επιδιώκω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj	_	SpaceAfter=No
 5	:	:	PUNCT	PUNCT	_	4	punct	_	_
 6	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	βελτίωση	βελτίωση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	4	parataxis	_	SpaceAfter=No
@@ -77,7 +77,7 @@ The following 15 pairs of parts of speech are connected with `parataxis`: <tt><a
 9	όχι	όχι	PART	PART	_	11	advmod	_	_
 10	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	διάλυση	διάλυση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
-12	.	.	PUNCT	PUNCT	_	4	punct	_	_
+12	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

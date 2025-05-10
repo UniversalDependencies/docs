@@ -9,58 +9,70 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="el_gud-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="el_gud-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-4 nodes (0%) are attached to their parents as `nsubj:outer`.
+34 nodes (0%) are attached to their parents as `nsubj:outer`.
 
-3 instances of `nsubj:outer` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.5.
+33 instances of `nsubj:outer` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.29411764705882.
 
-The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (2; 50% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-DET.html">DET</a></tt> (2; 50% instances).
+The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (15; 44% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (10; 29% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-DET.html">DET</a></tt> (7; 21% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 9 nsubj:outer	color:blue
-1	Να	να	SCONJ	PtSj	_	2	mark	_	_
-2	έχει	έχω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	σχέση	σχέση	NOUN	NoCm	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
-4	αυτός	αυτός	DET	PnDm	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
-5	με	με	ADP	AsPpSp	_	7	case	_	_
-6	τη	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	μαφία	μαφία	NOUN	NoCm	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
-8	είναι	είμαι	AUX	VbMn	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	cop	_	_
-9	απίθανο	απίθανος	ADJ	AjBa	Case=Nom|Gender=Neut|Number=Sing	2	nsubj:outer	_	SpaceAfter=No
-10	.	.	PUNCT	PTERMP	PunctType=Peri	2	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 nsubj:outer	color:blue
+1	Ήταν	είμαι	AUX	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	4	cop	_	_
+2	ανάγκη	ανάγκη	NOUN	NoCm	Case=Nom|Gender=Fem|Number=Sing	4	nsubj:outer	_	_
+3	να	να	SCONJ	PtSj	_	4	mark	_	_
+4	κάνετε	κάνω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+5	τόση	τόσος	DET	PnDm	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
+6	φασαρία	φασαρία	NOUN	NoCm	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+7	;	;	PUNCT	PTERM	_	4	punct	_	PunctType=Qest
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 10 nsubj:outer	color:blue
-1	«	«	PUNCT	OPUNCT	PunctType=Quot	8	punct	_	_
-2	Εντάξει	εντάξει	ADV	AdBa	_	8	discourse	_	_
-3	,	,	PUNCT	PUNCT	PunctType=Comm	8	punct	_	_
-4	αλλά	αλλά	CCONJ	CjCo	_	8	cc	_	_
-5	άλλο	άλλος	DET	PnId	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	8	nsubj:outer	_	_
-6	να	να	AUX	PtSj	_	8	aux	_	_
-7	τα	εγώ	PRON	PnPe	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	8	obj	_	_
-8	διαβάζω	διαβάζω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-9	και	και	CCONJ	CjCo	_	12	cc	_	_
-10	άλλο	άλλος	DET	PnId	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	12	nsubj:outer	_	_
-11	ν'	να	AUX	PtSj	_	12	aux	_	_
-12	ακούω	ακούω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
-13	εμένα	εγώ	PRON	PnPe	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	obj	_	_
-14	να	να	SCONJ	PtSj	_	16	mark	_	_
-15	τα	εγώ	PRON	PnPe	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	16	obj	_	_
-16	λέω	λέω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	xcomp	_	_
-17	»	»	PUNCT	CPUNCT	PunctType=Quot	8	punct	_	SpaceAfter=No
-18	.	.	PUNCT	PTERMP	PunctType=Peri	8	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 nsubj:outer	color:blue
+1	«	«	PUNCT	OPUNCT	_	6	punct	_	PunctType=Quot
+2	Αυτό	αυτός	DET	PnDm	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	dislocated	_	_
+3	μόνο	μόνο	ADV	AdBa	_	6	advmod	_	_
+4	το	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+5	Λιμενικό	λιμενικό	ADJ	AjBa	Case=Nom|Gender=Neut|Number=Sing	6	nsubj:outer	_	_
+6	μπορεί	μπορώ	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	ccomp	_	_
+7	να	να	SCONJ	PtSj	_	10	mark	_	_
+8	μας	εγώ	PRON	PnPe	Case=Acc|Number=Plur|Person=1|PronType=Prs	10	obl	_	_
+9	το	εγώ	PRON	PnPe	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	ξεδιαλύνει	ξεδιαλύνω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	6	csubj	_	_
+11	»	»	PUNCT	CPUNCT	_	6	punct	_	PunctType=Quot
+12	του	εγώ	PRON	PnPe	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	iobj	_	_
+13	λέω	λέω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	PTERMP	_	13	punct	_	PunctType=Peri
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 1 nsubj:outer	color:blue
+1	Εκείνο	εκείνος	DET	PnDm	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj:outer	_	_
+2	που	που	PRON	PnRe	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	4	obj	_	_
+3	δεν	δεν	PART	PtNg	Polarity=Neg	4	advmod	_	_
+4	ξέρω	ξέρω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
+5	είναι	είμαι	AUX	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	cop	_	_
+6	ποιος	ποιος	PRON	PnIr	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	8	nsubj	_	_
+7	τον	εγώ	PRON	PnPe	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	σκότωσε	σκοτώνω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	PTERMP	_	8	punct	_	PunctType=Peri
 
 ~~~
 

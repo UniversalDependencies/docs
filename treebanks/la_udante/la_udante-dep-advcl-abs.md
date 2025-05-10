@@ -9,27 +9,28 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-advcl.html">advcl</a></tt>.
 There are also 3 other language-specific subtypes of `advcl`: <tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt>, <tt><a href="la_udante-dep-advcl-pred.html">advcl:pred</a></tt>, <tt><a href="la_udante-dep-advcl-relcl.html">advcl:relcl</a></tt>.
 
-155 nodes (0%) are attached to their parents as `advcl:abs`.
+156 nodes (0%) are attached to their parents as `advcl:abs`.
 
-119 instances of `advcl:abs` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.84516129032258.
+120 instances of `advcl:abs` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.80769230769231.
 
-The following 6 pairs of parts of speech are connected with `advcl:abs`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (135; 87% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (9; 6% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (7; 5% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `advcl:abs`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (136; 87% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (9; 6% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 advcl:abs	color:blue
-1	Quadrifluum	quadrifluus	ADJ	ans1n	Case=Nom|Compound=Yes|Gender=Neut|InflClass=IndEurO|Number=Sing	6	amod	_	_
-2	ne	ne	PART	9	PartType=Int	3	discourse	_	_
-3	gravat	grauo	VERB	va1ips3	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-4	coxis	coxa	NOUN	sfp1b	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Plur	5	nsubj	_	_
-5	humentibus	umeo	VERB	va2pppfb	Aspect=Imp|Case=Abl|Gender=Fem|InflClass=LatE|InflClass[nominal]=IndEurI|Number=Plur|VerbForm=Part|Voice=Act	3	advcl:abs	_	TraditionalMood=Participium|TraditionalTense=Praesens
-6	uber	uber	NOUN	sns3n	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	3	nsubj	_	SpaceAfter=No
-7	?	?	PUNCT	Pu	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 advcl:abs	color:blue
+1	Qua	qui	PRON	cs	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	2	det	_	_
+2	re	res	NOUN	cs	Case=Abl|Gender=Fem|InflClass=IndEurE|Number=Sing	7	obl	_	_
+3	ipsum	ipse	DET	ddesna	Case=Acc|Form=Emp|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	6	obj	_	_
+4	illustre	illustris	ADJ	ans2a	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Sing	6	xcomp	_	_
+5	merito	mereo	VERB	r	Aspect=Perf|Case=Abl|Gender=Neut|InflClass=LatE|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	6	advcl:abs	_	_
+6	profiteri	profiteor	VERB	vd2fp	Aspect=Imp|InflClass=LatE|VerbForm=Inf|Voice=Pass	7	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+7	debemus	debeo	VERB	va2ipp1	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+8	.	.	PUNCT	Pu	_	7	punct	_	_
 
 ~~~
 

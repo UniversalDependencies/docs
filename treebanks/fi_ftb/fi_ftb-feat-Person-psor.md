@@ -13,8 +13,8 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 3477 tokens (2%) have a non-empty value of `Person[psor]`.
 2494 types (6%) occur at least once with a non-empty value of `Person[psor]`.
-1537 lemmas (7%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 10 part-of-speech tags: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (2131; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (495; 0% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (428; 0% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (271; 0% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (58; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (54; 0% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+1536 lemmas (7%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 10 part-of-speech tags: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (2131; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (496; 0% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (428; 0% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (271; 0% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (58; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (53; 0% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -38,9 +38,9 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
 
 ### `VERB`
 
-495 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
+496 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (495; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (495; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (495; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (378; 76%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (270; 55%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (250; 51%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (250; 51%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (250; 51%).
+The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (496; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (496; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (496; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (379; 76%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (270; 54%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (251; 51%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (251; 51%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (251; 51%).
 
 `VERB` tokens may have the following values of `Person[psor]`:
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `VERB` and `Person[psor]` co-o
 
 ### `ADV`
 
-428 <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `Person[psor]`.
+428 <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Person[psor]`.
 
 The most frequent other feature values with which `ADV` and `Person[psor]` co-occurred: <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (428; 100%).
 
@@ -143,7 +143,7 @@ The most frequent other feature values with which `ADJ` and `Person[psor]` co-oc
 
 ### `ADP`
 
-54 <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
+53 <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
 
 `ADP` tokens may have the following values of `Person[psor]`:
 

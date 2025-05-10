@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="gd_arcosg-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-100 nodes (0%) are attached to their parents as `acl`.
+120 nodes (0%) are attached to their parents as `acl`.
 
-100 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.86.
+120 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.33333333333333.
 
-The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (53; 53% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (16; 16% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (14; 14% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (7; 7% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (2; 2% instances).
+The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (64; 53% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (24; 20% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (16; 13% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (7; 6% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -33,7 +33,7 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 8	obair	obraich	NOUN	Nv	VerbForm=Vnoun	5	xcomp:pred	_	_
 9	air	air	ADP	Sp	_	10	case	_	_
 10	iad	iad	PRON	Pp3p	Number=Plur|Person=3|PronType=Prs	8	obl	_	_
-11	an-raoir	an-raoir	ADV	Rt	_	8	advmod	_	_
+11	an-raoir	an-raoir	ADV	Rt	AdvType=Tim	8	advmod	_	_
 
 ~~~
 
@@ -49,7 +49,7 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 3	fhios	fios	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 4	aig	aig	ADP	Sp	_	5	case	_	_
 5	mi	mi	PRON	Pp1s	Number=Sing|Person=1|PronType=Prs	2	xcomp:pred	_	_
-6	dè	dè	PRON	Uq	PronType=Int	8	nmod	_	_
+6	dè	dè	PRON	Uq	PronType=Int	8	nmod:unmarked	_	_
 7	an	an	DET	Tds	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
 8	title	title	NOUN	Xfe	Foreign=Yes	3	acl	_	_
 9	a	a	PART	Q-r	PartType=Vb|PronType=Rel	10	nsubj	_	_
@@ -66,7 +66,7 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 acl	color:blue
-1	Johnson	Johnson	PROPN	Nn	_	0	root	_	_
+1	Johnson	Johnson	PROPN	Nn	NounType=Prs	0	root	_	_
 2	a'	ag	PART	Sa	_	3	case	_	_
 3	faicinn	faic	NOUN	Nv	VerbForm=Vnoun	1	xcomp:pred	_	_
 4	cò	cò	PRON	Uq	PronType=Int	3	acl	_	_

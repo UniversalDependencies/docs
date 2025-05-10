@@ -13,7 +13,7 @@ The 10 most frequent `PROPN` lemmas: <em>France, Paris, Gutiérrez, Chavant, Nef
 
 The 10 most frequent `PROPN` types:  <em>France, Paris, Gutiérrez, Chavant, Nef, Français, Messi, Rodriguez, Jésus, Europe</em>
 
-The 10 most frequent ambiguous lemmas: <em>A</em> (<tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> 3, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 3), <em>Barrage</em> (<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>Grande</em> (<tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>Midi</em> (<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>aujourd'hui</em> (<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> 24, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>ce</em> (<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> 772, <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> 228, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>A</em> (<tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> 3, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 3), <em>Barrage</em> (<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>Midi</em> (<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>aujourd'hui</em> (<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> 24, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>ce</em> (<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> 772, <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> 228, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>A</em> (<tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> 3, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 2), <em>Barrage</em> (<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>Hommes</em> (<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>Midi</em> (<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>Mort</em> (<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>aujourd'hui</em> (<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> 24, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>ce</em> (<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> 124, <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> 113, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1)
 
@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>A</em> (<tt><a href="fr_rhapsodie-pos
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.006466 (the average of all parts of speech is 1.352795).
+The form / lemma ratio of `PROPN` is 1.006466 (the average of all parts of speech is 1.355420).
 
 The 1st highest number of forms (2) was observed with the lemma “A”: <em>A, B</em>.
 

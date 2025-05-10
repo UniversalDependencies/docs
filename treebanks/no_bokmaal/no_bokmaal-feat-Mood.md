@@ -60,6 +60,7 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> VERB</tt> (1631; 70%),
 <tt>VERB --[<tt><a href="no_bokmaal-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1251; 66%),
 <tt>VERB --[<tt><a href="no_bokmaal-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (7; 58%),
+<tt>VERB --[<tt><a href="no_bokmaal-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (4; 67%),
 <tt>AUX --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="no_bokmaal-dep-nsubj.html">nsubj</a></tt>]--> AUX</tt> (1; 100%).
 

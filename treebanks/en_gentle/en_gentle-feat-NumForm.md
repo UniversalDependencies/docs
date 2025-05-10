@@ -64,10 +64,10 @@ The most frequent other feature values with which `NOUN` and `NumForm` co-occurr
 ## Relations with Agreement in `NumForm`
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
-<tt>NUM --[<tt><a href="en_gentle-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (21; 100%),
-<tt>NUM --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> NUM</tt> (11; 100%),
+<tt>NUM --[<tt><a href="en_gentle-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (22; 100%),
+<tt>NUM --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> NUM</tt> (14; 100%),
 <tt>ADJ --[<tt><a href="en_gentle-dep-obl.html">obl</a></tt>]--> ADJ</tt> (5; 100%),
-<tt>NUM --[<tt><a href="en_gentle-dep-dep.html">dep</a></tt>]--> NUM</tt> (3; 100%),
+<tt>NUM --[<tt><a href="en_gentle-dep-dep.html">dep</a></tt>]--> NUM</tt> (2; 100%),
 <tt>NUM --[<tt><a href="en_gentle-dep-nmod-unmarked.html">nmod:unmarked</a></tt>]--> NUM</tt> (2; 100%),
 <tt>NUM --[<tt><a href="en_gentle-dep-flat.html">flat</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="en_gentle-dep-obl.html">obl</a></tt>]--> NUM</tt> (1; 100%),

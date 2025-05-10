@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> VERB</tt> (221; 61%),
+<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> VERB</tt> (222; 61%),
 <tt>VERB --[<tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (80; 57%),
 <tt>VERB --[<tt><a href="ka_glc-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="ka_glc-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1; 100%).

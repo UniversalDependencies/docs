@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1400 nodes (1%) are attached to their parents as `xcomp`.
+1610 nodes (2%) are attached to their parents as `xcomp`.
 
-1364 instances of `xcomp` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.85928571428571.
+1574 instances of `xcomp` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.77329192546584.
 
-The following 19 pairs of parts of speech are connected with `xcomp`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (898; 64% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (304; 22% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (106; 8% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (23; 2% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (22; 2% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (12; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `xcomp`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1027; 64% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (363; 23% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (114; 7% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (33; 2% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (23; 1% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (12; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 19 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 11	fgColor:white
 # visual-style 11 13 xcomp	color:blue
 1	If	if	SCONJ	_	_	5	mark	_	_
-2	you	you	PRON	PERS-P2	_	5	nsubj	_	_
+2	you	you	PRON	PERS-P2	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	_
 3	do	do	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	n't	not	PART	NEG	Polarity=Neg	5	advmod	_	_
 5	like	like	VERB	INF	VerbForm=Inf	11	advcl	_	_
@@ -31,7 +31,7 @@ The following 19 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 7	,	,	PUNCT	Comma	_	5	punct	_	_
 8	why	why	ADV	WH	PronType=Int	11	advmod	_	_
 9	do	do	AUX	INF-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	_
-10	you	you	PRON	PERS-P2	_	11	nsubj	_	_
+10	you	you	PRON	PERS-P2	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	_
 11	go	go	VERB	INF	VerbForm=Inf	0	root	_	_
 12	on	on	ADV	_	_	11	compound:prt	_	_
 13	reading	read	VERB	ING	Tense=Pres|VerbForm=Part	11	xcomp	_	SpaceAfter=No
@@ -46,7 +46,7 @@ The following 19 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 12 xcomp	color:blue
-1	You	you	PRON	PERS-P2	_	3	nsubj	_	_
+1	You	you	PRON	PERS-P2	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	_
 2	can	can	AUX	PRES-AUX	VerbForm=Fin	3	aux	_	_
 3	change	change	VERB	INF	VerbForm=Inf	0	root	_	_
 4	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
@@ -74,7 +74,7 @@ The following 19 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 3	to	to	PART	_	_	8	mark	_	_
 4	be	be	AUX	INF	VerbForm=Inf	8	cop	_	_
 5	a	a	DET	IND-SG	Definite=Ind|PronType=Art	8	det	_	_
-6	perfectly	perfect	ADV	_	_	7	advmod	_	_
+6	perfectly	perfectly	ADV	_	_	7	advmod	_	_
 7	normal	normal	ADJ	POS	Degree=Pos	8	amod	_	_
 8	check	check	NOUN	SG-NOM	Number=Sing	2	xcomp	_	SpaceAfter=No
 9	.	.	PUNCT	Period	_	2	punct	_	_

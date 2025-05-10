@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="fr_sequoia-pos-PRON
 
 349 <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> tokens (12% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (349; 100%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (343; 98%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=3</tt> (311; 89%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (305; 87%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (349; 100%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (343; 98%), <tt><a href="fr_sequoia-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (330; 95%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=3</tt> (311; 89%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (305; 87%).
 
 `PRON` tokens may have the following values of `Reflex`:
 

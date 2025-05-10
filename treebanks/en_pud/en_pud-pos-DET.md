@@ -22,8 +22,8 @@ The 10 most frequent ambiguous types:  <em>this</em> (<tt><a href="en_pud-pos-DE
   * <tt><a href="en_pud-pos-DET.html">DET</a></tt> 41: <em>Investments in <b>this</b> area were up by 6 % in 2015 to $ 221 bn .</em>
   * <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 13: <em>Fast forward to 2016 and <b>this</b> is increasingly worthy of attention .</em>
 * <em>all</em>
-  * <tt><a href="en_pud-pos-DET.html">DET</a></tt> 23: <em>Each map in the exhibition tells its own story , not <b>all</b> factual .</em>
-  * <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 5: <em>After <b>all</b> , the internet is not a luxury ; it is an essential tool .</em>
+  * <tt><a href="en_pud-pos-DET.html">DET</a></tt> 23: <em>After <b>all</b> , the internet is not a luxury ; it is an essential tool .</em>
+  * <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 5: <em>It contains a tiny lagoon , which has <b>all</b> but dried up .</em>
 * <em>that</em>
   * <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 75: <em>A witness told police <b>that</b> the victim had attacked the suspect in April .</em>
   * <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 69: <em>I can just do <b>that</b> with my life .</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>this</em> (<tt><a href="en_pud-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.166667 (the average of all parts of speech is 1.147817).
+The form / lemma ratio of `DET` is 1.166667 (the average of all parts of speech is 1.149901).
 
 The 1st highest number of forms (2) was observed with the lemma “a”: <em>a, an</em>.
 
@@ -60,9 +60,9 @@ The 2nd highest number of forms (2) was observed with the lemma “that”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “this”: <em>these, this</em>.
 
-`DET` occurs with 6 features: <tt><a href="en_pud-feat-PronType.html">PronType</a></tt> (2074; 100% instances), <tt><a href="en_pud-feat-Definite.html">Definite</a></tt> (1885; 91% instances), <tt><a href="en_pud-feat-Number.html">Number</a></tt> (91; 4% instances), <tt><a href="en_pud-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances), <tt><a href="en_pud-feat-NumForm.html">NumForm</a></tt> (1; 0% instances), <tt><a href="en_pud-feat-NumType.html">NumType</a></tt> (1; 0% instances)
+`DET` occurs with 6 features: <tt><a href="en_pud-feat-PronType.html">PronType</a></tt> (2076; 100% instances), <tt><a href="en_pud-feat-Definite.html">Definite</a></tt> (1885; 91% instances), <tt><a href="en_pud-feat-Number.html">Number</a></tt> (91; 4% instances), <tt><a href="en_pud-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances), <tt><a href="en_pud-feat-NumForm.html">NumForm</a></tt> (1; 0% instances), <tt><a href="en_pud-feat-NumType.html">NumType</a></tt> (1; 0% instances)
 
-`DET` occurs with 14 feature-value pairs: `Definite=Def`, `Definite=Ind`, `ExtPos=PRON`, `NumForm=Word`, `NumType=Frac`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Rel`, `PronType=Tot`
+`DET` occurs with 15 feature-value pairs: `Definite=Def`, `Definite=Ind`, `ExtPos=PRON`, `NumForm=Word`, `NumType=Frac`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Rcp`, `PronType=Rel`, `PronType=Tot`
 
 `DET` occurs with 12 feature combinations.
 The most frequent feature combination is `Definite=Def|PronType=Art` (1441 tokens).
@@ -71,19 +71,19 @@ Examples: <em>the</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 14 different relations: <tt><a href="en_pud-dep-det.html">det</a></tt> (2045; 98% instances), <tt><a href="en_pud-dep-det-predet.html">det:predet</a></tt> (9; 0% instances), <tt><a href="en_pud-dep-obj.html">obj</a></tt> (8; 0% instances), <tt><a href="en_pud-dep-nsubj.html">nsubj</a></tt> (4; 0% instances), <tt><a href="en_pud-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="en_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="en_pud-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="en_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-obl-unmarked.html">obl:unmarked</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 12 different relations: <tt><a href="en_pud-dep-det.html">det</a></tt> (2046; 98% instances), <tt><a href="en_pud-dep-det-predet.html">det:predet</a></tt> (9; 0% instances), <tt><a href="en_pud-dep-obj.html">obj</a></tt> (8; 0% instances), <tt><a href="en_pud-dep-nsubj.html">nsubj</a></tt> (4; 0% instances), <tt><a href="en_pud-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="en_pud-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="en_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="en_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-obl-unmarked.html">obl:unmarked</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1789; 86% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (231; 11% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (23; 1% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (17; 1% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1791; 86% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (231; 11% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (23; 1% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (18; 1% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-2058 (99%) `DET` nodes are leaves.
+2057 (99%) `DET` nodes are leaves.
 
-18 (1%) `DET` nodes have one child.
+19 (1%) `DET` nodes have one child.
 
 4 (0%) `DET` nodes have two children.
 
 The highest child degree of a `DET` node is 2.
 
-Children of `DET` nodes are attached using 8 different relations: <tt><a href="en_pud-dep-nmod.html">nmod</a></tt> (11; 42% instances), <tt><a href="en_pud-dep-advmod.html">advmod</a></tt> (4; 15% instances), <tt><a href="en_pud-dep-case.html">case</a></tt> (3; 12% instances), <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (3; 12% instances), <tt><a href="en_pud-dep-cc.html">cc</a></tt> (2; 8% instances), <tt><a href="en_pud-dep-conj.html">conj</a></tt> (1; 4% instances), <tt><a href="en_pud-dep-cop.html">cop</a></tt> (1; 4% instances), <tt><a href="en_pud-dep-nsubj.html">nsubj</a></tt> (1; 4% instances)
+Children of `DET` nodes are attached using 8 different relations: <tt><a href="en_pud-dep-nmod.html">nmod</a></tt> (11; 41% instances), <tt><a href="en_pud-dep-case.html">case</a></tt> (5; 19% instances), <tt><a href="en_pud-dep-advmod.html">advmod</a></tt> (4; 15% instances), <tt><a href="en_pud-dep-cc.html">cc</a></tt> (2; 7% instances), <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (2; 7% instances), <tt><a href="en_pud-dep-conj.html">conj</a></tt> (1; 4% instances), <tt><a href="en_pud-dep-cop.html">cop</a></tt> (1; 4% instances), <tt><a href="en_pud-dep-nsubj.html">nsubj</a></tt> (1; 4% instances)
 
-Children of `DET` nodes belong to 10 different parts of speech: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (7; 27% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (3; 12% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (3; 12% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (3; 12% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (2; 8% instances), <tt><a href="en_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 8% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (2; 8% instances), <tt><a href="en_pud-pos-PART.html">PART</a></tt> (2; 8% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1; 4% instances)
+Children of `DET` nodes belong to 10 different parts of speech: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (7; 26% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (5; 19% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (3; 11% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (3; 11% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="en_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 7% instances), <tt><a href="en_pud-pos-PART.html">PART</a></tt> (2; 7% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1; 4% instances)
 

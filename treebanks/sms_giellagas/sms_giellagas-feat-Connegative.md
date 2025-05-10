@@ -39,6 +39,5 @@ The most frequent other feature values with which `AUX` and `Connegative` co-occ
 ## Relations with Agreement in `Connegative`
 
 The 10 most frequent relations where parent and child node agree in `Connegative`:
-<tt>VERB --[<tt><a href="sms_giellagas-dep-appos.html">appos</a></tt>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<tt><a href="sms_giellagas-dep-aux-tense.html">aux:tense</a></tt>]--> AUX</tt> (1; 100%).
+<tt>VERB --[<tt><a href="sms_giellagas-dep-appos.html">appos</a></tt>]--> AUX</tt> (1; 100%).
 

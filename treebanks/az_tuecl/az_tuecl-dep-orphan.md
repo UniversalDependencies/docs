@@ -22,15 +22,15 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 orphan	color:blue
-1	Mary	Mary	PROPN	_	_	3	nsubj	_	_
-2	bronz	bronz	NOUN	_	_	3	obl	_	_
-3	qazandı	qazan	VERB	_	_	0	root	_	SpaceAfter=No
+1	Mary	Mary	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	bronz	bronz	NOUN	_	Case=Nom|Number=Sing	3	obl	_	_
+3	qazandı	qazan	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
-5	Peter	Peter	PROPN	_	_	3	conj	_	_
-6	gümüş	gümüş	NOUN	_	_	5	orphan	_	SpaceAfter=No
+5	Peter	Peter	PROPN	_	Case=Nom|Number=Sing	3	conj	_	_
+6	gümüş	gümüş	NOUN	_	Case=Nom|Number=Sing	5	orphan	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	3	punct	_	_
-8	Jane	Jane	PROPN	_	_	3	conj	_	_
-9	qızıl	qızıl	NOUN	_	_	8	orphan	_	SpaceAfter=No
+8	Jane	Jane	PROPN	_	Case=Nom|Number=Sing	3	conj	_	_
+9	qızıl	qızıl	NOUN	_	Case=Nom|Number=Sing	8	orphan	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~

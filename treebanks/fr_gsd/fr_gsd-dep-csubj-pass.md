@@ -29,7 +29,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 5	écrire	écrire	VERB	_	VerbForm=Inf	3	csubj:pass	_	Subject=Generic
 6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	_
 7	commentaires	commentaire	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
-8	contraires	contraire	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	_
+8	contraires	contraire	ADJ	_	Number=Plur	7	amod	_	Gender[ctxt]=Masc
 9	à	à	ADP	_	_	11	case	_	_
 10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
 11	lois	loi	NOUN	_	Gender=Fem|Number=Plur	8	obl:arg	_	_
@@ -81,7 +81,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	centrosaure	centrosaure	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
 8	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
-9	capable	capable	ADJ	_	Gender=Masc|Number=Sing	4	csubj:pass	_	_
+9	capable	capable	ADJ	_	Number=Sing	4	csubj:pass	_	Gender[ctxt]=Masc
 10	de	de	ADP	_	_	12	mark	_	_
 11	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	12	expl:pv	_	_
 12	tenir	tenir	VERB	_	VerbForm=Inf	9	xcomp	_	Subject=SubjRaising
@@ -97,9 +97,9 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 22	,	,	PUNCT	_	_	21	punct	_	_
 23	personne	personne	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	25	nsubj	_	_
 24	ne	ne	ADV	_	Polarity=Neg	25	advmod	_	_
-25	sait	savoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	Cxn=Interrogative-WHInfo-Indirect|CxnElt=25:Interrogative-WHInfo-Indirect.Clause
+25	sait	savoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
 26	exactement	exactement	ADV	_	_	25	advmod	_	_
-27	comment	comment	ADV	_	PronType=Int	25	obj	_	CxnElt=25:Interrogative-WHInfo-Indirect.WHWord|SpaceAfter=No
+27	comment	comment	ADV	_	PronType=Int	25	obj	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

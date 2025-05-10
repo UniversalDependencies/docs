@@ -70,7 +70,7 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 6	и	и	CCONJ	_	_	7	cc	_	norm="и"
 7	глаголют	глаголати	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	norm="глаголют"|Decl=X|End=тю|SpaceAfter=No
 8	,	,	PUNCT	_	_	13	punct	_	norm=","
-9	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	13	det	_	norm="что"
+9	что	что	PRON	_	Case=Nom|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	13	det	_	norm="что"
 10	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	13	aux	_	norm="бы"|Decl=X|End=0
 11	то	то	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	13	nsubj	_	norm="то"|Decl=X|End=о
 12	за	за	ADP	_	_	13	case	_	norm="за"|check=@

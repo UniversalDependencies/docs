@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 2	bien	bien	ADV	_	_	1	fixed	_	InIdiom=Yes|SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	_	_
 4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-5	célèbre	célèbre	ADJ	_	Number=Sing	6	amod	_	_
+5	célèbre	célèbre	ADJ	_	Number=Sing	6	amod	_	Gender[ctxt]=Masc
 6	retraité	retraité	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	_
 7	américain	américain	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_

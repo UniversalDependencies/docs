@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Rel`.
 
-1011 tokens (5%) have a non-empty value of `PronType`.
-287 types (3%) occur at least once with a non-empty value of `PronType`.
+1010 tokens (5%) have a non-empty value of `PronType`.
+286 types (3%) occur at least once with a non-empty value of `PronType`.
 34 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (1009; 5% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (1008; 5% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-1009 <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> tokens (96% of all `PRON` tokens) have a non-empty value of `PronType`.
+1008 <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> tokens (96% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fi_ood-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (837; 83%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (803; 80%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fi_ood-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (836; 83%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (802; 80%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (374; 37% of non-empty `PronType`): <em>se, sen, sitä, tällä, tämä, siitä, ne, niitä, tämän, siinä</em>
-* `Ind` (258; 26% of non-empty `PronType`): <em>kaikki, muuta, jotain, mitään, kaiken, ainoa, joku, jonkin, kaikille, kaikkea</em>
+* `Ind` (257; 25% of non-empty `PronType`): <em>kaikki, muuta, jotain, mitään, ainoa, joku, jonkin, kaiken, kaikille, kaikkea</em>
 * `Int` (44; 4% of non-empty `PronType`): <em>mitä, mikä, millä, kuka, minkä, Keneltä, Ketä, Missähän, Mistäkö, Mitäs</em>
 * `Prs` (182; 18% of non-empty `PronType`): <em>hän, he, hänen, meidän, minun, hänelle, heidän, me, minä, meillä</em>
 * `Rcp` (9; 1% of non-empty `PronType`): <em>toinen, toisensa, toisemme, toisen, toisenkin, toisiamme, toisiinsa</em>
@@ -61,5 +61,5 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 `ADV` tokens may have the following values of `PronType`:
 
 * `Ind` (1; 100% of non-empty `PronType`): <em>muun</em>
-* `EMPTY` (1977): <em>myös, niin, hyvin, nyt, ok, kuitenkin, jo, vain, hieman, paljon</em>
+* `EMPTY` (1978): <em>myös, niin, hyvin, nyt, ok, kuitenkin, jo, vain, hieman, paljon</em>
 

@@ -46,7 +46,7 @@ The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 xcomp	color:blue
-1	Elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+1	Elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 3	veut	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	aussi	aussi	ADV	_	_	3	advmod	_	_
@@ -68,17 +68,17 @@ The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 xcomp	color:blue
-1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	dois	devoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	toutefois	toutefois	ADV	_	_	2	advmod	_	_
 4	être	être	AUX	_	VerbForm=Inf	5	cop	_	Subject=SubjRaising
-5	honnête	honnête	ADJ	_	Number=Sing	2	xcomp	_	_
+5	honnête	honnête	ADJ	_	Number=Sing	2	xcomp	_	Gender[ctxt]=Masc
 6	et	et	CCONJ	_	_	7	cc	_	_
 7	dire	dire	VERB	_	VerbForm=Inf	5	conj	_	Subject=Instantiated
 8	que	que	SCONJ	_	_	12	mark	_	_
 9	personne	personne	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	12	nsubj	_	_
 10	ne	ne	ADV	_	Polarity=Neg	12	advmod	_	_
-11	les	eux	PRON	_	Number=Plur|Person=3|PronType=Prs	12	obj	_	_
+11	les	eux	PRON	_	Emph=No|Number=Plur|Person=3|PronType=Prs	12	obj	_	_
 12	aide	aider	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	_
 

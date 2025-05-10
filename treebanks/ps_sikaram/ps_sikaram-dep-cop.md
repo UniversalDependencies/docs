@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (1%) are attached to their parents as `cop`.
+52 nodes (2%) are attached to their parents as `cop`.
 
-13 instances of `cop` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.07142857142857.
+50 instances of `cop` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.13461538461538.
 
-The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (10; 71% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (3; 21% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (1; 7% instances).
+The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (27; 52% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (21; 40% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -27,8 +27,8 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 3	کۀ	کۀ	CCONJ	_	_	4	cc	_	Translit=kë|LTranslit=kë|Gloss=or
 4	کوچنی	کوچنی	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	Translit=kučnáy|LTranslit=kučnáy|Gloss=small
 5	هېواد	هېواد	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=hewấd|LTranslit=hewấd|Gloss=country
-6	دی	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Translit=day|LTranslit=yëm|Gloss=is|SpaceAfter=No
-7	؟	؟	PUNCT	_	_	5	punct	_	Translit=?|LTranslit=?|Gloss=?
+6	دﺉ	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Translit=dëy|LTranslit=wël|Gloss=is|SpaceAfter=No
+7	؟	؟	PUNCT	_	_	5	punct	_	Translit=?|LTranslit=?|Gloss=?|SpaceAfter=No
 
 ~~~
 
@@ -39,57 +39,64 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 cop	color:blue
-1	زما	زما	DET	_	Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	Translit=zmâ|LTranslit=zmâ|Gloss=my
+1	زما	زما	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	Translit=zmâ|LTranslit=zmâ|Gloss=my
 2	پلار	پلار	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Translit=plâr|LTranslit=plâr|Gloss=father
-3	ستا	ستا	DET	_	Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	5	det	_	Translit=stâ|LTranslit=stâ|Gloss=your
+3	ستا	ستا	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	nmod	_	Translit=stâ|LTranslit=stâ|Gloss=your
 4	له	له	ADP	_	Case=Acc	5	case	_	Translit=la|LTranslit=la|Gloss=from
 5	پلار	پلار	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	Translit=plâr|LTranslit=plâr|Gloss=father
 6	څخه	څخه	ADP	_	Case=Acc	5	case	_	Translit=cë́xa|LTranslit=cë́xa|Gloss=from
 7	ساعت	ساعت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	compound	_	Translit=sâát|LTranslit=sâát|Gloss=hour
 8	تېره	تېره	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=téra|LTranslit=téra|Gloss=spending
-9	دی	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Translit=day|LTranslit=yëm|Gloss=is|SpaceAfter=No
-10	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.|Gloss=.
+9	دﺉ	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Translit=dëy|LTranslit=wël|Gloss=is|SpaceAfter=No
+10	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 30	bgColor:blue
-# visual-style 30	fgColor:white
-# visual-style 29	bgColor:blue
-# visual-style 29	fgColor:white
-# visual-style 29 30 cop	color:blue
-1	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
-2	د	د	ADP	_	Case=Acc	3	case	_	Translit=dë|LTranslit=dë|Gloss=of
-3	پوهونې	پوهونه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	nmod	_	Translit=pohawë́ne|LTranslit=pohawë́na|Gloss=education|SpaceAfter=No
-4	-	-	PUNCT	_	_	3	punct	_	Translit=-|LTranslit=-|Gloss=-
-5	راپوهونې	راپوهونه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	fixed	_	Translit=râpohawë́ne|LTranslit=râpohawë́na|Gloss=study
-6	تر	تر	ADP	_	Case=Abl	7	case	_	Translit=tër|LTranslit=tër|Gloss=from
-7	ټولو	ټول	PRON	_	Case=Abl|Gender=Masc|Number=Plur|PronType=Tot	8	nmod	_	Translit=ṭólo|LTranslit=ṭol|Gloss=all
-8	ښه	ښۀ	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	11	amod	_	Translit=x̌a|LTranslit=x̌ë|Gloss=good
-9	او	او	CCONJ	_	_	10	cc	_	Translit=aw|LTranslit=aw|Gloss=and
-10	اغېزناکه	اغېزناک	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	8	conj	_	Translit=aġeznấka|LTranslit=aġeznấk|Gloss=effective
-11	وسیله	وسیله	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	obl:arg	_	Translit=wasíla|LTranslit=wasíla|Gloss=instrument
-12	ګڼل	ګڼل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	0	root	_	Translit=gaṇë́l|LTranslit=gaṇë́l|Gloss=considered
-13	کېږي	کېدل	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	Translit=keǧí|LTranslit=kedë́l|Gloss=becomes|SpaceAfter=No
-14	،	،	PUNCT	_	_	29	punct	_	Translit=,|LTranslit=,|Gloss=,
-15	چې	چې	PRON	_	PronType=Rel	29	obj	_	Translit=če|LTranslit=če|Gloss=which
-16	انسانانو	انسان	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	29	nsubj	_	Translit=insânấno|LTranslit=insấn|Gloss=human
-17	د	د	ADP	_	Case=Acc	19	case	_	Translit=dë|LTranslit=dë|Gloss=of
-18	خپل	خپل	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	19	det	_	Translit=xpël|LTranslit=xpël|Gloss=own
-19	ژوند	ژوند	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	21	nmod	_	Translit=žwënd|LTranslit=žwënd|Gloss=life
-20	له	له	ADP	_	Case=Abl	21	case	_	Translit=la|LTranslit=la|Gloss=from
-21	پیله	پیل	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	29	obl	_	Translit=páyla|LTranslit=payl|Gloss=beginning
-22	تر	تر	ADP	_	Case=Abl	24	case	_	Translit=tër|LTranslit=tër|Gloss=until
-23	دې	دا	DET	_	Case=Abl|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem|Variant=Short	24	det	_	Translit=de|LTranslit=dâ|Gloss=this
-24	دمه	دمه	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	29	obl	_	Translit=dáma|LTranslit=dáma|Gloss=moment
-25	تر	تر	ADP	_	Case=Abl	26	case	_	Translit=tër|LTranslit=tër|Gloss=from
-26	یې	یې	PRON	_	Person=3|PronType=Prs|Variant=Weak	29	obl	_	Translit=ye|LTranslit=ye|Gloss=it
-27	ګټه	ګټه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	29	obj	_	Translit=gáṭa|LTranslit=gáṭa|Gloss=benefit
-28	اوچته	اوچت	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	29	xcomp	_	Translit=učáta|LTranslit=učát|Gloss=taken
-29	کړې	کول	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	acl:relcl	_	Translit=kë́ṛe|LTranslit=kawë́l|Gloss=done
-30	ده	یم	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	Translit=da|LTranslit=yëm|Gloss=is|SpaceAfter=No
-31	.‏	.‏	PUNCT	_	_	12	punct	_	Translit=.‏|LTranslit=.‏|Gloss=.
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 cop	color:blue
+1	د	د	ADP	_	Case=Acc	2	case	_	Translit=dë|LTranslit=dë|Gloss=of
+2	پښتو	پښتو	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
+3	یوه	یو	NUM	_	Case=Nom|Gender=Fem|NumType=Card	4	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
+4	ستونزه	ستونزه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=stúnza|LTranslit=stúnza|Gloss=problem
+5	دا	دا	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem	4	nsubj	_	Translit=dâ|LTranslit=dâ|Gloss=this
+6	ده	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Translit=da|LTranslit=wël|Gloss=is
+7	چې	چې	SCONJ	_	_	19	mark	_	Translit=če|LTranslit=če|Gloss=that
+8	په	پۀ	ADP	_	Case=Loc	10	case	_	Translit=pë|LTranslit=pë|Gloss=at
+9	لره	لر	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	10	amod	_	Translit=lë́ra|LTranslit=lër|Gloss=lower
+10	خوا	خوا	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	19	obl	_	Translit=xwâ|LTranslit=xwâ|Gloss=side
+11	کې	کې	ADP	_	Case=Loc	10	case	_	Translit=ke|LTranslit=ke|Gloss=in
+12	د	د	ADP	_	Case=Acc	14	case	_	Translit=dë|LTranslit=dë|Gloss=of
+13	اردو	اردو	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	14	nmod	_	Translit=urdú|LTranslit=urdú|Gloss=Urdu
+14	ژبې	ژبه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	nmod	_	Translit=žë́be|LTranslit=žë́ba|Gloss=language
+15	تر	تر	ADP	_	Case=Acc	16	case	_	Translit=tër|LTranslit=tër|Gloss=until
+16	ښکېلاک	ښکېلاک	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	obl	_	Translit=x̌kelấk|LTranslit=x̌kelấk|Gloss=exploitation
+17	لاندې	لاندې	ADP	_	Case=Acc	16	case	_	Translit=lấnde|LTranslit=lấnde|Gloss=under
+18	ساه	ساه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	obj	_	Translit=sâh|LTranslit=sâh|Gloss=soul
+19	کاږي	کاږل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	Translit=kâǧí|LTranslit=kâǧë́l|Gloss=gives-out
+20	او	او	CCONJ	_	_	36	cc	_	Translit=aw|LTranslit=aw|Gloss=and
+21	بل	بل	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	22	amod	_	Translit=bël|LTranslit=bël|Gloss=another
+22	پلو	پلو	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	36	obl	_	Translit=paláw|LTranslit=paláw|Gloss=side
+23	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	36	obj	_	Translit=ye|LTranslit=ye|Gloss=it
+24	بیا	بیا	ADV	_	_	36	advmod	_	Translit=byâ|LTranslit=byâ|Gloss=then
+25	د	د	ADP	_	Case=Acc	26	case	_	Translit=dë|LTranslit=dë|Gloss=of
+26	پاړسي	پاړسي	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	34	nmod	_	Translit=pâṛsí|LTranslit=pâṛsí|Gloss=Parsi|SpaceAfter=No
+27	،	،	PUNCT	_	_	34	punct	_	Translit=,|LTranslit=,|Gloss=,
+28	په	پۀ	ADP	_	Case=Loc	30	case	_	Translit=pë|LTranslit=pë|Gloss=at
+29	ځانګړې	ځانګړی	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	30	amod	_	Translit=żângë́ṛe|LTranslit=żângë́ṛay|Gloss=specific
+30	توګه	توګه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	34	nmod	_	Translit=tóga|LTranslit=tóga|Gloss=way
+31	د	د	ADP	_	Case=Acc	32	case	_	Translit=dë|LTranslit=dë|Gloss=of
+32	ايران	ايران	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	34	nmod	_	Translit=irấn|LTranslit=irấn|Gloss=Iran
+33	کلتوري	کلتوري	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	34	amod	_	Translit=kulturí|LTranslit=kulturí|Gloss=cultural
+34	ستم	ستم	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	35	nmod	_	Translit=setám|LTranslit=setám|Gloss=cruelty
+35	زياه	زياه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	36	nsubj	_	Translit=zyâh|LTranslit=zyâh|Gloss=oppression
+36	ځپلې	ځپل	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	19	conj	_	Translit=żapë́le|LTranslit=żapë́l|Gloss=suffered
+37	ده	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	aux:perf	_	Translit=da|LTranslit=wël|Gloss=has|SpaceAfter=No
+38	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.|Gloss=.
 
 ~~~
 

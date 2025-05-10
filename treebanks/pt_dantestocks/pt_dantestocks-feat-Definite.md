@@ -24,7 +24,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (5516; 94% of non-empty `Definite`): <em>a, o, os, as, e, às</em>
 * `Ind` (381; 6% of non-empty `Definite`): <em>uma, um, uns, umas</em>
-* `EMPTY` (829): <em>sua, essa, esse, esta, este, seu, que, meu, quais, suas</em>
+* `EMPTY` (825): <em>sua, essa, esse, esta, este, seu, que, meu, quais, suas</em>
 
 ### `PRON`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 * `Def` (47; 94% of non-empty `Definite`): <em>o, a, os, as</em>
 * `Ind` (3; 6% of non-empty `Definite`): <em>uma, um</em>
-* `EMPTY` (1247): <em>que, se, o, quem, eu, isso, q, ela, me, vc</em>
+* `EMPTY` (1249): <em>que, se, o, quem, eu, isso, q, ela, me, vc</em>
 
 ## Relations with Agreement in `Definite`
 

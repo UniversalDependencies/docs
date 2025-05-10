@@ -57,7 +57,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (171; 97%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (54; 92%),
-<tt>VERB --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (53; 87%),
+<tt>VERB --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (54; 87%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-aux.html">aux</a></tt>]--> AUX</tt> (30; 52%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (24; 80%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (4; 57%),

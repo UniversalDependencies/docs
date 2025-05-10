@@ -9,14 +9,14 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Dat`, `Ins`.
 
-28 tokens (2%) have a non-empty value of `Case`.
-11 types (3%) occur at least once with a non-empty value of `Case`.
-9 lemmas (3%) occur at least once with a non-empty value of `Case`.
+28 tokens (1%) have a non-empty value of `Case`.
+11 types (2%) occur at least once with a non-empty value of `Case`.
+9 lemmas (2%) occur at least once with a non-empty value of `Case`.
 The feature is used with 3 part-of-speech tags: <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (24; 1% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-24 <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> tokens (32% of all `PRON` tokens) have a non-empty value of `Case`.
+24 <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> tokens (19% of all `PRON` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="xav_xdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (22; 92%), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (17; 71%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 * `Dat` (23; 96% of non-empty `Case`): <em>aima, tãma, wama, dama, wasima, ĩma, ĩĩsima</em>
 * `Ins` (1; 4% of non-empty `Case`): <em>asina</em>
-* `EMPTY` (50): <em>wanorĩhã, õhã, Taha, aihini, anorĩwa'wahã, uburé, õnorĩhã, 'wa, Ta, Wahã</em>
+* `EMPTY` (104): <em>wa, wahã, wanorĩhã, õhã, aihini, ni'wa, uburé, Taha, ahã, anorĩwa'wahã</em>
 
 ### `ADP`
 
@@ -33,7 +33,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 `ADP` tokens may have the following values of `Case`:
 
 * `Dat` (3; 100% of non-empty `Case`): <em>ma</em>
-* `EMPTY` (131): <em>na, da, ãma, me, u, wi, dzô, 're, ma, ré</em>
+* `EMPTY` (182): <em>na, u, ãma, da, me, wi, ma, zô, ré, tiwi</em>
 
 ### `NOUN`
 
@@ -44,5 +44,5 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 `NOUN` tokens may have the following values of `Case`:
 
 * `Ins` (1; 100% of non-empty `Case`): <em>Wasina</em>
-* `EMPTY` (372): <em>marĩ, aibö, 'watébrémi, pi'õ, a'uwẽ, buru, wapté, ba'õtõ, bötö, Mare</em>
+* `EMPTY` (456): <em>aibö, marĩ, 'watébrémi, buru, a'uwẽ, pi'õ, wapté, ba'õtõ, bötö, warazu</em>
 

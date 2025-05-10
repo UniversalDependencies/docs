@@ -32,7 +32,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 7	Italy	Italy	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
 8	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	5:ccomp	_
 9	fewer	few	ADJ	JJR	Degree=Cmp	10	amod	10:amod	_
-10	km	km	NOUN	NNS	Number=Plur	8	obj	8:obj	_
+10	km	kilometer	NOUN	NNS	Number=Plur	8	obj	8:obj	_
 11	of	of	ADP	IN	_	13	case	13:case	_
 12	underground	underground	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
 13	line	line	NOUN	NN	Number=Sing	10	nmod	10:nmod:of	_

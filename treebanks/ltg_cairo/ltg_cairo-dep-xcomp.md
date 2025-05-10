@@ -39,7 +39,7 @@ The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 xcomp	color:blue
-1	Muns	muns	DET	ps0msnn	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	2:det	LvtbNodeId=a-ltg-Cairo-p8s1w1
+1	Muns	muns	PRON	ps0msnn	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	2:det	LvtbNodeId=a-ltg-Cairo-p8s1w1
 2	tēte	tēte	NOUN	ncmsn5	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj|4:nsubj	LvtbNodeId=a-ltg-Cairo-p8s1w2
 3	ir	byut	VERB	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p8s1w3
 4	foršuoks	foršs	ADJ	afmsnnc	Case=Nom|Definite=Ind|Degree=Cmp|Gender=Masc|Number=Sing	3	xcomp	3:xcomp	LvtbNodeId=a-ltg-Cairo-p8s1w4

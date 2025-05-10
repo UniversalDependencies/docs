@@ -24,7 +24,7 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 6 5 det	color:blue
 1	donc	donc	ADV	_	_	4	advmod	_	_
 2	comment	comment	ADV	_	_	4	advmod	_	_
-3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 4	fais	faire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	gougères	gougère	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
@@ -41,7 +41,7 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 7 6 det	color:blue
 1	mais	mais	CCONJ	_	_	4	cc	_	_
 2	souvent	souvent	ADV	_	_	4	advmod	_	_
-3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 4	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	que	que	ADV	_	_	7	advmod	_	_
 6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_

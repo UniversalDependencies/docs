@@ -46,7 +46,7 @@ The following 2 pairs of parts of speech are connected with `nmod`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 nmod	color:blue
-1	Mâŋŋa	mâŋŋa	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Sem/Time
+1	Mâŋŋa	mâŋŋa	ADV	Adv	AdvType=Tim	3	advmod	_	GTtags=Sem/Time
 2	dââʹst	dât	PRON	Pron	Case=Loc|Number=Sing	1	nmod	_	GTtags=Sg,Loc
 3	šõõddi	šõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 4	...	...	PUNCT	CLB	_	8	punct	_	_

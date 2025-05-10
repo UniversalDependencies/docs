@@ -42,7 +42,7 @@ The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 9 acl:relcl	color:blue
-1	Така	така	ADV	Pdm	PronType=Dem	5	mark	5:mark	_
+1	Така	така	ADV	Pdm	ExtPos=SCONJ|PronType=Dem	5	mark	5:mark	_
 2	че	че	SCONJ	Cs	_	1	fixed	1:fixed	_
 3	много	много	ADV	Md-pi	Definite=Ind|Degree=Pos|Number=Plur|NumType=Card	4	advmod	4:advmod	_
 4	добре	добре	ADV	Dm	Degree=Pos	5	advmod	5:advmod	_

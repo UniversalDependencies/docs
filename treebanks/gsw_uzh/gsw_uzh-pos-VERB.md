@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of VERB in UD_Swiss_German-UZH'
+title:  'Statistics of VERB in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: POS Tags: `VERB`
+## Treebank Statistics: UD_Alemannic-UZH: POS Tags: `VERB`
 
 There are 1 `VERB` lemmas (7%), 115 `VERB` types (15%) and 128 `VERB` tokens (9%).
 Out of 15 observed tags, the rank of `VERB` is: 14 in number of lemmas, 2 in number of types and 7 in number of tokens.

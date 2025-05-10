@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-dep.html">dep</a></tt>.
 
-16 nodes (0%) are attached to their parents as `dep:comp`.
+15 nodes (0%) are attached to their parents as `dep:comp`.
 
-12 instances of `dep:comp` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.1875.
+11 instances of `dep:comp` (73%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.26666666666667.
 
-The following 5 pairs of parts of speech are connected with `dep:comp`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (11; 69% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 13% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 6% instances).
+The following 4 pairs of parts of speech are connected with `dep:comp`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (11; 73% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 13% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -22,10 +22,10 @@ The following 5 pairs of parts of speech are connected with `dep:comp`: <tt><a h
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 3 dep:comp	color:blue
-1	Pourquoi	pourquoi	ADV	_	PronType=Int	4	advmod	_	CxnElt=4:Interrogative-WHInfo-Direct.WHWord|wordform=pourquoi
+1	Pourquoi	pourquoi	ADV	_	PronType=Int	4	advmod	_	wordform=pourquoi
 2	ne	ne	ADV	_	Polarity=Neg	4	advmod	_	_
 3	lui	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	dep:comp	_	_
-4	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Cxn=Interrogative-WHInfo-Direct|CxnElt=4:Interrogative-WHInfo-Direct.Clause|SpaceAfter=No
+4	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	-on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	wordform=on
 6	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	_
 7	confiance	confiance	NOUN	_	Gender=Fem|Number=Sing	4	obj:lvc	_	_
@@ -60,42 +60,36 @@ The following 5 pairs of parts of speech are connected with `dep:comp`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 22 20 dep:comp	color:blue
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 19 24 dep:comp	color:blue
 1	Cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	wordform=cette
-2	motorisation	motorisation	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
-3	n'	ne	ADV	_	Polarity=Neg	6	advmod	_	SpaceAfter=No
-4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_
-5	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_
-6	eu	avoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	succès	succès	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
-9	escompté	escompter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	_
-10	et	et	CCONJ	_	_	15	cc	_	_
-11	fut	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux:pass	_	_
-12	à	à	ADP	_	_	14	case	_	_
-13	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	14	det	_	_
-14	tour	tour	NOUN	_	Gender=Masc|Number=Sing	15	obl:mod	_	_
-15	remplacée	remplacer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	conj	_	_
-16	par	par	ADP	_	_	18	case	_	_
-17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
-18	Lycoming	Lycoming	PROPN	_	_	15	obl:agent	_	_
-19	O-360-A4J	O-360-A4J	PROPN	_	_	18	flat:name	_	_
-20	de	de	ADP	_	_	22	dep:comp	_	_
-21	180	180	NUM	_	Number=Plur	22	dep	_	_
-22	ch	ch	ADP	_	_	18	dep	_	_
-23	débutant	débuter	VERB	_	Tense=Pres|VerbForm=Part	22	advcl	_	_
-24	avec	avec	ADP	_	_	26	case	_	_
-25	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
-26	B23	B23	PROPN	_	Gender=Masc|Number=Sing	23	obl	_	_
-27	Musketeer	Musketeer	PROPN	_	_	26	flat:name	_	_
-28	Custom	Custom	PROPN	_	_	26	flat:name	_	_
-29	de	de	ADP	_	_	30	case	_	_
-30	1968	1968	NUM	_	Number=Plur	26	nmod	_	SpaceAfter=No
-31	.	.	PUNCT	_	_	6	punct	_	_
+2	théorie	théorie	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	issue	issu	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	psychologie	psychologie	NOUN	_	Gender=Fem|Number=Sing	3	obl:arg	_	_
+7	suppose	supposer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	que	que	SCONJ	_	_	11	mark	_	_
+9	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
+10	individu	individu	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+11	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
+12	sens	sens	NOUN	_	Gender=Masc|Number=Sing	11	obj:lvc	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	monde	monde	NOUN	_	Gender=Masc|Number=Sing	11	obl:arg	_	_
+16	qui	qui	PRON	_	PronType=Rel	18	nsubj	_	_
+17	l'	lui	PRON	_	Emph=No|Number=Sing|Person=3|PronType=Prs	18	obj	_	SpaceAfter=No
+18	entoure	entourer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+19	à	à	ADP	_	ExtPos=ADV	11	advmod	_	Idiom=Yes
+20	partir	partir	VERB	_	VerbForm=Inf	19	fixed	_	InIdiom=Yes
+21	de	de	ADP	_	_	24	case	_	_
+22	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	24	det	_	_
+23	propres	propre	ADJ	_	Number=Plur	24	amod	_	Gender[ctxt]=Masc
+24	construits	construire	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	19	dep:comp	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

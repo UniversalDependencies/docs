@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-281771 tokens (56%) have a non-empty value of `Number`.
+281769 tokens (56%) have a non-empty value of `Number`.
 28024 types (83%) occur at least once with a non-empty value of `Number`.
 16687 lemmas (78%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (167690; 33% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (54276; 11% instances), <tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (22238; 4% instances), <tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (20256; 4% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (16749; 3% instances), <tt><a href="fa_perdt-pos-NUM.html">NUM</a></tt> (517; 0% instances), <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (41; 0% instances), <tt><a href="fa_perdt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (167688; 33% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (54276; 11% instances), <tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (22238; 4% instances), <tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (20256; 4% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (16749; 3% instances), <tt><a href="fa_perdt-pos-NUM.html">NUM</a></tt> (517; 0% instances), <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (41; 0% instances), <tt><a href="fa_perdt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-167690 <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+167688 <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (28260; 17% of non-empty `Number`): مردم، همهٔ، تمام، همه، کسانی، دیگران، افراد، حقوق، بسیاری، کشورهای
-* `Sing` (139430; 83% of non-empty `Number`): سال، کار، کسی، دست، روز، خدا، سر، صورت، کشور، بار
+* `Sing` (139428; 83% of non-empty `Number`): سال، کار، کسی، دست، روز، خدا، سر، صورت، کشور، بار
 * `EMPTY` (526): کنار، حدود، ده‌ها، فراموش، اسلام، صدها، میلیون‌ها، وقتی، پشت، میلیاردها
 
 <table>

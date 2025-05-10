@@ -13,9 +13,9 @@ The 10 most frequent `CCONJ` lemmas: <em>and, or, but, &, either, /, plus, yet, 
 
 The 10 most frequent `CCONJ` types:  <em>and, or, but, &, either, /, plus, yet, both, neither</em>
 
-The 10 most frequent ambiguous lemmas: <em>but</em> (<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 40, <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> 1, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1), <em>either</em> (<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 3), <em>/</em> (<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> 10, <tt><a href="en_gentle-pos-PUNCT.html">PUNCT</a></tt> 5, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 3), <em>yet</em> (<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 4, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 3), <em>both</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 4, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1), <em>+</em> (<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> 9, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 1), <em>though</em> (<tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> 1, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>but</em> (<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 40, <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> 1, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1), <em>either</em> (<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 3), <em>/</em> (<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> 11, <tt><a href="en_gentle-pos-PUNCT.html">PUNCT</a></tt> 4, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 3), <em>yet</em> (<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 4, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 3), <em>both</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 4, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1), <em>+</em> (<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> 9, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 1), <em>though</em> (<tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> 1, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>but</em> (<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 30, <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> 1, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1), <em>either</em> (<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 3), <em>/</em> (<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> 10, <tt><a href="en_gentle-pos-PUNCT.html">PUNCT</a></tt> 5, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 3), <em>yet</em> (<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 4, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 2), <em>both</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 4, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1), <em>+</em> (<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> 9, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 1), <em>an</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 44, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 1), <em>though</em> (<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> 1, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>but</em> (<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 30, <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> 1, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1), <em>either</em> (<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 3), <em>/</em> (<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> 11, <tt><a href="en_gentle-pos-PUNCT.html">PUNCT</a></tt> 4, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 3), <em>yet</em> (<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 4, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 2), <em>both</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 4, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1), <em>+</em> (<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> 9, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 1), <em>an</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 44, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 1), <em>though</em> (<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> 1, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>but</em>
@@ -26,8 +26,8 @@ The 10 most frequent ambiguous types:  <em>but</em> (<tt><a href="en_gentle-pos-
   * <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 4: <em>Then <b>either</b> : X ∩ S = ∅ or : X ∩ T = ∅ or : X ∩ S is non-empty and X ∩ T is non-empty .</em>
   * <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 3: <em>b) Additionally , <b>either</b> party may terminate this Service Agreement in the event :</em>
 * <em>/</em>
-  * <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> 10: <em>VITALS : BP : 120 <b>/</b> 74 .</em>
-  * <tt><a href="en_gentle-pos-PUNCT.html">PUNCT</a></tt> 5: <em>enPR : nĕ kst , IPA ( key ) : <b>/</b> nɛkst <b>/</b></em>
+  * <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> 11: <em>VITALS : BP : 120 <b>/</b> 74 .</em>
+  * <tt><a href="en_gentle-pos-PUNCT.html">PUNCT</a></tt> 4: <em>enPR : nĕ kst , IPA ( key ) : <b>/</b> nɛkst <b>/</b></em>
   * <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 3: <em>12. UI <b>/</b> UX</em>
 * <em>yet</em>
   * <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 4: <em>Shot comes on through , not able to get it done as of <b>yet</b> .</em>
@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  <em>but</em> (<tt><a href="en_gentle-pos-
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.071429 (the average of all parts of speech is 1.147634).
+The form / lemma ratio of `CCONJ` is 1.071429 (the average of all parts of speech is 1.148568).
 
 The 1st highest number of forms (2) was observed with the lemma “and”: <em>an, and</em>.
 
@@ -67,17 +67,17 @@ Examples: <em>and, or, but, &, either, /, plus, yet, both, +</em>
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="en_gentle-dep-cc.html">cc</a></tt> (604; 98% instances), <tt><a href="en_gentle-dep-cc-preconj.html">cc:preconj</a></tt> (8; 1% instances), <tt><a href="en_gentle-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="en_gentle-dep-reparandum.html">reparandum</a></tt> (2; 0% instances), <tt><a href="en_gentle-dep-dep.html">dep</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="en_gentle-dep-cc.html">cc</a></tt> (604; 98% instances), <tt><a href="en_gentle-dep-cc-preconj.html">cc:preconj</a></tt> (8; 1% instances), <tt><a href="en_gentle-dep-conj.html">conj</a></tt> (4; 1% instances), <tt><a href="en_gentle-dep-reparandum.html">reparandum</a></tt> (2; 0% instances)
 
-Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (254; 41% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (195; 32% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (57; 9% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (54; 9% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (18; 3% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (16; 3% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (13; 2% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (253; 41% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (195; 32% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (58; 9% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (54; 9% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (17; 3% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (16; 3% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (13; 2% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-596 (96%) `CCONJ` nodes are leaves.
+597 (97%) `CCONJ` nodes are leaves.
 
-22 (4%) `CCONJ` nodes have one child.
+21 (3%) `CCONJ` nodes have one child.
 
 The highest child degree of a `CCONJ` node is 1.
 
-Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="en_gentle-dep-punct.html">punct</a></tt> (20; 91% instances), <tt><a href="en_gentle-dep-cc.html">cc</a></tt> (1; 5% instances), <tt><a href="en_gentle-dep-conj.html">conj</a></tt> (1; 5% instances)
+Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="en_gentle-dep-punct.html">punct</a></tt> (19; 90% instances), <tt><a href="en_gentle-dep-cc.html">cc</a></tt> (1; 5% instances), <tt><a href="en_gentle-dep-conj.html">conj</a></tt> (1; 5% instances)
 
-Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="en_gentle-pos-PUNCT.html">PUNCT</a></tt> (20; 91% instances), <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (1; 5% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (1; 5% instances)
+Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="en_gentle-pos-PUNCT.html">PUNCT</a></tt> (19; 90% instances), <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (1; 5% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (1; 5% instances)
 

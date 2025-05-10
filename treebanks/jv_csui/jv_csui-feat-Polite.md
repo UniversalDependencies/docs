@@ -96,7 +96,7 @@ The most frequent other feature values with which `NOUN` and `Polite` co-occurre
 
 `AUX` tokens may have the following values of `Polite`:
 
-* `Form` (31; 9% of non-empty `Polite`): <em>inggih, mesthi, saged, sampun, badhe, nggih, kedah</em>
+* `Form` (31; 9% of non-empty `Polite`): <em>mesthi, saged, sampun, inggih, badhe, nggih, kedah</em>
 * `Infm` (307; 91% of non-empty `Polite`): <em>wis, bisa, yaiku, kudu, wus, arep, lagi, bakal, isa, kena</em>
 * `EMPTY` (2): <em>sida</em>
 

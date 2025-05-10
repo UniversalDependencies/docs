@@ -17,26 +17,27 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
-# visual-style 14 13 discourse	color:blue
-1	빌리	빌리	NOUN	NNP	_	14	nsubj	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 14 discourse	color:blue
+1	모하메드	모하메드	NOUN	NNP	_	15	nsubj	_	_
 2	씨는	씨+는	NOUN	NNB+JX	_	1	flat	_	_
-3	머하메드	머하메드	NOUN	NNP	_	14	obl	_	_
-4	씨에	씨+에	ADV	NNB+JKB	_	3	flat	_	_
-5	"	"	PUNCT	SS	_	9	punct	_	SpaceAfter=No
-6	"	"	PUNCT	SS	_	9	punct	_	SpaceAfter=No
-7	주말에	주말+에	ADV	NNG+JKB	_	9	obl	_	_
-8	사진기를	사진기+를	NOUN	NNG+JKO	_	9	obj	_	_
-9	빌려	빌리+어	VERB	VV+EC	_	14	compound	_	_
-10	주세요	주+시+어요	VERB	VX+EP+EF	_	13	advcl	_	SpaceAfter=No
-11	"	"	PUNCT	SS	_	13	punct	_	SpaceAfter=No
-12	"	"	PUNCT	SS	_	13	punct	_	SpaceAfter=No
-13	하고	하고	VERB	JKQ	_	14	discourse	_	_
-14	이야기했습니다	이야기+하+았+습니다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
-15	.	.	PUNCT	SF	_	14	punct	_	_
+3	이야기를	이야기+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	들어서	듣+어서	VERB	VV+EC	_	15	advcl	_	_
+5	"	"	PUNCT	SS	_	10	punct	_	SpaceAfter=No
+6	"	"	PUNCT	SS	_	10	punct	_	SpaceAfter=No
+7	내일	내일	NOUN	NNG	_	10	nmod	_	_
+8	제가	제+가	PRON	NP+JKS	_	10	nsubj	_	_
+9	사진기를	사진기+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	가지고	가지+고	VERB	VV+EC	_	15	ccomp	_	_
+11	올게요	오+ㄹ게요	VERB	VX+EF	_	10	advcl	_	SpaceAfter=No
+12	"	"	PUNCT	SS	_	10	punct	_	SpaceAfter=No
+13	"	"	PUNCT	SS	_	10	punct	_	SpaceAfter=No
+14	하고	하고	VERB	JKQ	_	10	discourse	_	_
+15	약속했습니다	약속+하+았+습니다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
 
 ~~~
 

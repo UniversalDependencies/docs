@@ -11,10 +11,10 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt>, <tt><a href="sk_snk-feat-Gender-psor.html">Gender[psor]</a></tt>.
 
-52554 tokens (50%) have a non-empty value of `Gender`.
+52552 tokens (50%) have a non-empty value of `Gender`.
 23376 types (90%) occur at least once with a non-empty value of `Gender`.
 11904 lemmas (84%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 9 part-of-speech tags: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (21661; 20% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (9466; 9% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (9002; 8% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (4569; 4% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (4391; 4% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (2081; 2% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (730; 1% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (620; 1% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (34; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (21661; 20% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (9466; 9% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (9002; 8% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (4569; 4% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (4391; 4% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (2079; 2% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (730; 1% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (620; 1% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (34; 0% instances).
 
 ### `NOUN`
 
@@ -213,15 +213,15 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `PRON`
 
-2081 <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> tokens (32% of all `PRON` tokens) have a non-empty value of `Gender`.
+2079 <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> tokens (32% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="sk_snk-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2081; 100%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1784; 86%), <tt><a href="sk_snk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1466; 70%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt> (1407; 68%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1056; 51%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="sk_snk-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2079; 100%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1782; 86%), <tt><a href="sk_snk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1466; 71%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt> (1407; 68%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1054; 51%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (509; 24% of non-empty `Gender`): <em>ju, jej, nej, ona, ňou, ich, ňu, nich, im, ne</em>
 * `Masc` (1025; 49% of non-empty `Gender`): <em>ho, mu, ich, neho, im, kto, nich, ním, nikto, on</em>
-* `Neut` (547; 26% of non-empty `Gender`): <em>čo, niečo, nič, ho, ich, čosi, ňom, nich, čím, všetko</em>
+* `Neut` (545; 26% of non-empty `Gender`): <em>čo, niečo, nič, ho, ich, čosi, ňom, nich, čím, všetko</em>
 * `EMPTY` (4354): <em>sa, si, mi, ma, ja, mňa, nás, mne, ťa, ty</em>
 
 <table>
@@ -330,13 +330,13 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 `ADV` tokens may have the following values of `Gender`:
 
 * `Masc` (34; 100% of non-empty `Gender`): <em>raz, ráz, razy</em>
-* `EMPTY` (4411): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
+* `EMPTY` (4410): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="sk_snk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7697; 100%),
-<tt>NOUN --[<tt><a href="sk_snk-dep-det.html">det</a></tt>]--> DET</tt> (2456; 99%),
+<tt>NOUN --[<tt><a href="sk_snk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7687; 100%),
+<tt>NOUN --[<tt><a href="sk_snk-dep-det.html">det</a></tt>]--> DET</tt> (2454; 100%),
 <tt>VERB --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2089; 67%),
 <tt>VERB --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1457; 88%),
 <tt>VERB --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> VERB</tt> (1001; 73%),

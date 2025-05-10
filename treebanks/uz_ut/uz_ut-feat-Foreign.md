@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (8; 100% of non-empty `Foreign`): <em>Wi-Fi, Air, Bluetooth, Dream, France, House, Stroy</em>
-* `EMPTY` (2123): <em>nafar, kuni, yil, davlat, odam, prezidenti, davom, doirasida, qishloq, ishlar</em>
+* `EMPTY` (2144): <em>nafar, kuni, yil, davlat, odam, prezidenti, davom, doirasida, qishloq, ishlar</em>
 
 ### `ADJ`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>Geographic, National</em>
-* `EMPTY` (458): <em>yangi, katta, yaxshi, baland, boshqa, keyingi, buyuk, keng, ko‘p, qattiq</em>
+* `EMPTY` (482): <em>yoʻq, yangi, katta, yaxshi, baland, bor, boshqa, keyingi, buyuk, keng</em>
 
 ### `PROPN`
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>Mail.ru, Apple</em>
-* `EMPTY` (306): <em>O‘zbekiston, Toshkent, Rossiya, Ukraina, Koreya, Samarqand, Toshkentda, AQSh, Amerika, Asqar</em>
+* `EMPTY` (306): <em>Oʻzbekiston, Toshkent, Rossiya, Ukraina, Koreya, Samarqand, Toshkentda, AQSh, Amerika, Asqar</em>
 
 ## Relations with Agreement in `Foreign`
 

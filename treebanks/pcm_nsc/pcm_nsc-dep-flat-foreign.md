@@ -25,7 +25,7 @@ The following 30 pairs of parts of speech are connected with `flat:foreign`: <tt
 1	kanapotelli	kanapotelli	X	_	_	0	root	_	AlignBegin=424294|AlignEnd=425080|Gloss=X
 2	zaga	X	X	_	_	1	flat:foreign	_	AlignBegin=425080|AlignEnd=425520|Gloss=X
 3	za	za	X	_	_	1	flat:foreign	_	AlignBegin=425520|AlignEnd=425719|Gloss=X
-4	//	//	X	_	_	1	dep	_	AlignBegin=425719|AlignEnd=425719|Gloss=PUNCT
+4	//	//	PUNCT	_	_	1	punct	_	AlignBegin=425719|AlignEnd=425719|Gloss=PUNCT
 
 ~~~
 
@@ -39,15 +39,15 @@ The following 30 pairs of parts of speech are connected with `flat:foreign`: <tt
 1	Baba	baba	NOUN	_	_	3	nsubj	_	AlignBegin=14340|AlignEnd=14800|Gloss=father|Lang=en
 2	have	have	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	AlignBegin=14800|AlignEnd=15110|Gloss=have.IND.PRS.FIN|Lang=en
 3	come	come	VERB	_	_	0	root	_	AlignBegin=15110|AlignEnd=15480|Gloss=come|Lang=en
-4	!//=	!//=	X	_	_	7	dep	_	AlignBegin=15480|AlignEnd=15480|Gloss=PUNCT
+4	!//=	!//=	PUNCT	_	_	7	punct	_	AlignBegin=15480|AlignEnd=15480|Gloss=PUNCT
 5	Daddy	daddy	NOUN	_	_	7	nsubj	_	AlignBegin=15480|AlignEnd=15849|Gloss=daddy|Lang=en
 6	have	have	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	AlignBegin=15849|AlignEnd=16030|Gloss=have.IND.PRS.FIN|Lang=en
 7	arrive	arrive	VERB	_	_	3	parataxis:conj	_	AlignBegin=16030|AlignEnd=16562|Gloss=arrive|Lang=en
-8	!//=	!//=	X	_	_	3	dep	_	AlignBegin=16562|AlignEnd=16562|Gloss=PUNCT
+8	!//=	!//=	PUNCT	_	_	7	punct	_	AlignBegin=16562|AlignEnd=16562|Gloss=PUNCT
 9	Papa	papa	NOUN	_	_	7	parataxis:conj	_	AlignBegin=16562|AlignEnd=17054|Gloss=papa|Lang=yo
 10	tete	tete	X	_	_	9	flat:foreign	_	AlignBegin=17054|AlignEnd=17610|Gloss=X|Lang=yo
 11	oyoyo	oyoyo	X	_	_	9	flat:foreign	_	AlignBegin=17610|AlignEnd=18440|Gloss=X|Lang=yo
-12	!//	!//	X	_	_	3	dep	_	AlignBegin=18440|AlignEnd=18440|Gloss=PUNCT
+12	!//	!//	PUNCT	_	_	3	punct	_	AlignBegin=18440|AlignEnd=18440|Gloss=PUNCT
 
 ~~~
 
@@ -68,7 +68,7 @@ The following 30 pairs of parts of speech are connected with `flat:foreign`: <tt
 8	wa	X	X	_	_	4	flat:foreign	_	AlignBegin=347517|AlignEnd=347687|Gloss=X|Lang=yo
 9	saanu	saanu	X	_	_	4	flat:foreign	_	AlignBegin=347687|AlignEnd=348047|Gloss=X|Lang=yo
 10	wa	X	X	_	_	4	flat	_	AlignBegin=348047|AlignEnd=348240|Gloss=X|Lang=yo
-11	//	//	X	_	_	4	dep	_	AlignBegin=348240|AlignEnd=348240|Gloss=PUNCT
+11	//	//	PUNCT	_	_	4	punct	_	AlignBegin=348240|AlignEnd=348240|Gloss=PUNCT
 
 ~~~
 

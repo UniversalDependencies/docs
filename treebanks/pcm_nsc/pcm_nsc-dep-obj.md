@@ -27,19 +27,19 @@ The following 30 pairs of parts of speech are connected with `obj`: <tt><a href=
 2	to	to	ADP	_	_	3	mark	_	AlignBegin=45790|AlignEnd=45910|Gloss=to
 3	see	see	VERB	_	_	15	dislocated	_	AlignBegin=45910|AlignEnd=46198|Gloss=see
 4	money	money	NOUN	_	_	3	obj	_	AlignBegin=46198|AlignEnd=46608|Gloss=money
-5	#	#	X	_	_	7	dep	_	AlignBegin=46638|AlignEnd=46976|Gloss=PUNCT
+5	#	#	PUNCT	_	_	7	punct	_	AlignBegin=46638|AlignEnd=46976|Gloss=PUNCT
 6	to	to	ADP	_	_	7	mark	_	AlignBegin=46976|AlignEnd=47076|Gloss=to
 7	buy	buy	VERB	_	_	4	acl	_	AlignBegin=47076|AlignEnd=47266|Gloss=buy
 8	tins	ting	NOUN	_	Number=Plur	7	obj	_	AlignBegin=47266|AlignEnd=47566|Gloss=thing.PL
 9	self	sef	PART	_	PartType=Disc	7	advmod	_	AlignBegin=47566|AlignEnd=47880|Gloss=FOC
-10	<	<	X	_	_	3	dep	_	AlignBegin=47880|AlignEnd=47880|Gloss=PUNCT
-11	#	#	X	_	_	3	dep	_	AlignBegin=47880|AlignEnd=48320|Gloss=PUNCT
+10	<	<	PUNCT	_	_	3	punct	_	AlignBegin=47880|AlignEnd=47880|Gloss=PUNCT
+11	#	#	PUNCT	_	_	3	punct	_	AlignBegin=47880|AlignEnd=48320|Gloss=PUNCT
 12	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	AlignBegin=48320|AlignEnd=48390|Gloss=NOM.2
 13	no	no	AUX	_	Polarity=Neg	15	aux	_	AlignBegin=48390|AlignEnd=48480|Gloss=NEG
 14	go	go	AUX	_	Aspect=Prosp	15	aux	_	AlignBegin=48480|AlignEnd=48590|Gloss=PROSP
 15	see	see	VERB	_	_	0	root	_	AlignBegin=48590|AlignEnd=48790|Gloss=see
 16	money	money	NOUN	_	_	15	obj	_	AlignBegin=48790|AlignEnd=48990|Gloss=money
-17	//	//	X	_	_	15	dep	_	AlignBegin=48990|AlignEnd=48990|Gloss=PUNCT
+17	//	//	PUNCT	_	_	15	punct	_	AlignBegin=48990|AlignEnd=48990|Gloss=PUNCT
 
 ~~~
 
@@ -50,7 +50,7 @@ The following 30 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 obj	color:blue
-1	#	#	X	_	_	4	dep	_	AlignBegin=10145|AlignEnd=10516|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=10145|AlignEnd=10516|Gloss=PUNCT
 2	sey	sey	SCONJ	_	_	4	discourse	_	AlignBegin=10516|AlignEnd=10640|Gloss=COMP
 3	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	AlignBegin=10640|AlignEnd=10679|Gloss=NOM.SG.3
 4	wan	want	VERB	_	_	0	root	_	AlignBegin=10679|AlignEnd=10850|Gloss=want
@@ -62,7 +62,7 @@ The following 30 pairs of parts of speech are connected with `obj`: <tt><a href=
 10	go	go	VERB	_	_	5	advcl	_	AlignBegin=11770|AlignEnd=12120|Gloss=go
 11	train	train	VERB	_	_	10	compound:svc	_	AlignBegin=12120|AlignEnd=12430|Gloss=train
 12	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	AlignBegin=12430|AlignEnd=12580|Gloss=ACC.SG.1
-13	//	//	X	_	_	4	dep	_	AlignBegin=12580|AlignEnd=12580|Gloss=PUNCT
+13	//	//	PUNCT	_	_	4	punct	_	AlignBegin=12580|AlignEnd=12580|Gloss=PUNCT
 
 ~~~
 
@@ -73,7 +73,7 @@ The following 30 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 obj	color:blue
-1	#	#	X	_	_	6	dep	_	AlignBegin=124715|AlignEnd=125548|Gloss=PUNCT
+1	#	#	PUNCT	_	_	6	punct	_	AlignBegin=124715|AlignEnd=125548|Gloss=PUNCT
 2	two	two	NUM	_	NumType=Card	6	nsubj	_	AlignBegin=125548|AlignEnd=125605|Gloss=two.CARD
 3	of	of	ADP	_	_	4	case	_	AlignBegin=125605|AlignEnd=125765|Gloss=of
 4	us	us	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	nmod	_	AlignBegin=125765|AlignEnd=125945|Gloss=ACC.PL.1
@@ -82,7 +82,7 @@ The following 30 pairs of parts of speech are connected with `obj`: <tt><a href=
 7	motor	motor	NOUN	_	_	6	obj	_	AlignBegin=126315|AlignEnd=126625|Gloss=motor
 8	come	come	VERB	_	_	6	compound:svc	_	AlignBegin=126625|AlignEnd=126845|Gloss=come
 9	Abuja	Abuja	PROPN	_	_	8	obj	_	AlignBegin=126845|AlignEnd=127295|Gloss=Abuja
-10	//	//	X	_	_	6	dep	_	AlignBegin=127295|AlignEnd=127295|Gloss=PUNCT
+10	//	//	PUNCT	_	_	6	punct	_	AlignBegin=127295|AlignEnd=127295|Gloss=PUNCT
 
 ~~~
 

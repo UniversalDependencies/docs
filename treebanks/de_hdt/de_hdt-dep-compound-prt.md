@@ -65,7 +65,7 @@ The following 7 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 7	fgColor:white
 # visual-style 7 6 compound:prt	color:blue
 1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	Expo-Gesellschaft	Gesellschaft	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
+2	Expo-Gesellschaft	Expo-Gesellschaft	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
 3	kann	können	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	7	aux	_	_
 4	einem	ein	DET	PIS	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	7	obl:arg	_	_
 5	langsam	langsam	ADJ	ADJD	Degree=Pos|Variant=Short	7	advmod	_	_

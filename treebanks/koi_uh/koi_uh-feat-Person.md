@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 257 tokens (24%) have a non-empty value of `Person`.
 172 types (30%) occur at least once with a non-empty value of `Person`.
-111 lemmas (25%) occur at least once with a non-empty value of `Person`.
+111 lemmas (24%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (144; 13% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (86; 8% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (26; 2% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `VERB`
@@ -40,7 +40,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-86 <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> tokens (78% of all `PRON` tokens) have a non-empty value of `Person`.
+86 <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> tokens (79% of all `PRON` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (85; 99%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (80; 93%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (52; 60%).
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (24; 28% of non-empty `Person`): <em>ме, менам, меным, Ми, аскöттям, мекӧт, мелань, менӧ</em>
 * `2` (16; 19% of non-empty `Person`): <em>тэ, тэнат, ачыт, Аскöттят, ті</em>
 * `3` (46; 53% of non-empty `Person`): <em>сія, сійӧ, Сiя, сылӧ, сылӧн, нія, Сы, Сылöн, аскöттяс, кыкнаннысӧ</em>
-* `EMPTY` (24): <em>мый, ас, мыйкӧ, эна, этӧ, Кытшӧм, Мӧдыс, Эта, быд, кин</em>
+* `EMPTY` (23): <em>мый, ас, мыйкӧ, эна, этӧ, Кытшӧм, Мӧдыс, Эта, быд, кин</em>
 
 ### `AUX`
 
@@ -89,6 +89,5 @@ The most frequent other feature values with which `NUM` and `Person` co-occurred
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="koi_uh-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (34; 74%),
 <tt>VERB --[<tt><a href="koi_uh-dep-conj.html">conj</a></tt>]--> VERB</tt> (20; 83%),
-<tt>VERB --[<tt><a href="koi_uh-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (4; 100%),
-<tt>VERB --[<tt><a href="koi_uh-dep-obl-tmod.html">obl:tmod</a></tt>]--> PRON</tt> (1; 100%).
+<tt>VERB --[<tt><a href="koi_uh-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (4; 100%).
 

@@ -46,12 +46,12 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 15 acl	color:blue
-1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	dislocated	_	AlignBegin=36331|AlignEnd=36594|SpaceAfter=No
+1	moi	moi	PRON	_	Emph=Yes|Number=Sing|Person=1|PronType=Prs	4	dislocated	_	AlignBegin=36331|AlignEnd=36594|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=36594|AlignEnd=36594
-3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=36594|AlignEnd=36858
+3	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=36594|AlignEnd=36858
 4	savais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	7	reparandum	_	AlignBegin=36858|AlignEnd=37121|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	AlignBegin=37121|AlignEnd=37121
-6	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	AlignBegin=37121|AlignEnd=37384|SpaceAfter=No
+6	j'	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	AlignBegin=37121|AlignEnd=37384|SpaceAfter=No
 7	avais	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=37384|AlignEnd=37648
 8	de	de	ADP	_	ExtPos=DET	10	det	_	AlignBegin=37648|AlignEnd=37911|Idiom=Yes
 9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	fixed	_	AlignBegin=37911|AlignEnd=38174|InIdiom=Yes
@@ -87,7 +87,7 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 13	que	que	SCONJ	_	_	14	case	_	_
 14	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	obj	_	_
 15	qu'	que	PRON	_	PronType=Rel	14	acl	_	SpaceAfter=No
-16	elles	eux	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	_
+16	elles	eux	PRON	_	Emph=No|Gender=Fem|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	_
 17	n'	ne	ADV	_	_	15	advmod	_	SpaceAfter=No
 18	étaient	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	15	cop	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	3	punct	_	_

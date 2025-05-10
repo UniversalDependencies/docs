@@ -9,11 +9,11 @@ udver: '2'
 There are 3 `INTJ` lemmas (0%), 3 `INTJ` types (0%) and 6 `INTJ` tokens (0%).
 Out of 17 observed tags, the rank of `INTJ` is: 14 in number of lemmas, 14 in number of types and 16 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: <em>ha, yo‘q, salom</em>
+The 10 most frequent `INTJ` lemmas: <em>ha, yoʻq, salom</em>
 
-The 10 most frequent `INTJ` types:  <em>Ha, Yo‘q, Salom</em>
+The 10 most frequent `INTJ` types:  <em>Ha, Yoʻq, Salom</em>
 
-The 10 most frequent ambiguous lemmas: <em>yo‘q</em> (<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> 12, <tt><a href="uz_ut-pos-INTJ.html">INTJ</a></tt> 2), <em>salom</em> (<tt><a href="uz_ut-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>yoʻq</em> (<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="uz_ut-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> 2, <tt><a href="uz_ut-pos-AUX.html">AUX</a></tt> 1), <em>salom</em> (<tt><a href="uz_ut-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  
 
@@ -21,13 +21,13 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.442869).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.456660).
 
 The 1st highest number of forms (1) was observed with the lemma “ha”: <em>Ha</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “salom”: <em>Salom</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “yo‘q”: <em>Yo‘q</em>.
+The 3rd highest number of forms (1) was observed with the lemma “yoʻq”: <em>Yoʻq</em>.
 
 `INTJ` does not occur with any features.
 

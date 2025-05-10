@@ -30,7 +30,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 802 <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> tokens (68% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_gumreddit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (765; 95%), <tt><a href="en_gumreddit-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (762; 95%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (591; 74%), <tt><a href="en_gumreddit-feat-Person.html">Person</a></tt><tt>=3</tt> (552; 69%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_gumreddit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (765; 95%), <tt><a href="en_gumreddit-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (762; 95%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (592; 74%), <tt><a href="en_gumreddit-feat-Person.html">Person</a></tt><tt>=3</tt> (552; 69%).
 
 `AUX` tokens may have the following values of `Tense`:
 

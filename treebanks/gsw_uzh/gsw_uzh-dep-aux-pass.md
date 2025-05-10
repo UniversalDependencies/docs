@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of aux:pass in UD_Swiss_German-UZH'
+title:  'Statistics of aux:pass in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: Relations: `aux:pass`
+## Treebank Statistics: UD_Alemannic-UZH: Relations: `aux:pass`
 
 This relation is a language-specific subtype of <tt><a href="gsw_uzh-dep-aux.html">aux</a></tt>.
 

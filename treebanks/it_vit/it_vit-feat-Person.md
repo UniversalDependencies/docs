@@ -12,20 +12,20 @@ It occurs with 3 different values: `1`, `2`, `3`.
 19767 tokens (7%) have a non-empty value of `Person`.
 3174 types (14%) occur at least once with a non-empty value of `Person`.
 1140 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (8096; 3% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (7862; 3% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (3806; 1% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (8097; 3% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (7861; 3% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (3806; 1% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `AUX`
 
-8096 <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> tokens (86% of all `AUX` tokens) have a non-empty value of `Person`.
+8097 <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> tokens (86% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="it_vit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8096; 100%), <tt><a href="it_vit-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7553; 93%), <tt><a href="it_vit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6759; 83%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6288; 78%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="it_vit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8097; 100%), <tt><a href="it_vit-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7554; 93%), <tt><a href="it_vit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6760; 83%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6288; 78%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (1158; 14% of non-empty `Person`): <em>sono, sia, ho, abbiamo, siamo, possa, avevo, stiamo, dobbiamo, avrei</em>
 * `2` (103; 1% of non-empty `Person`): <em>hai, state, sei, avete, stai, siete, volete, vorresti, volevi, vuoi</em>
-* `3` (6835; 84% of non-empty `Person`): <em>è, ha, hanno, sono, era, sarà, deve, può, aveva, possono</em>
-* `EMPTY` (1326): <em>essere, stato, stata, stati, aver, state, potuto, dovuto, esser, poter</em>
+* `3` (6836; 84% of non-empty `Person`): <em>è, ha, hanno, sono, era, sarà, deve, può, aveva, possono</em>
+* `EMPTY` (1325): <em>essere, stato, stata, stati, aver, state, potuto, dovuto, esser, poter</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -47,15 +47,15 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `VERB`
 
-7862 <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Person`.
+7861 <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7862; 100%), <tt><a href="it_vit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7862; 100%), <tt><a href="it_vit-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7574; 96%), <tt><a href="it_vit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6155; 78%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5645; 72%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7861; 100%), <tt><a href="it_vit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7861; 100%), <tt><a href="it_vit-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7573; 96%), <tt><a href="it_vit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6154; 78%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5645; 72%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (807; 10% of non-empty `Person`): <em>credo, abbiamo, so, veda, penso, sia, ho, vedremo, sento, avevo</em>
 * `2` (176; 2% of non-empty `Person`): <em>vai, mangi, hai, preferisci, andate, fai, vieni, pensi, andresti, metti</em>
-* `3` (6879; 87% of non-empty `Person`): <em>è, ha, fa, hanno, dice, sono, scade, sembra, va, tratta</em>
+* `3` (6878; 87% of non-empty `Person`): <em>è, ha, fa, hanno, dice, sono, scade, sembra, va, tratta</em>
 * `EMPTY` (13533): <em>fatto, fare, far, detto, approvato, avere, dare, dire, previsto, avuto</em>
 
 <table>
@@ -85,7 +85,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (673; 18% of non-empty `Person`): <em>c', mi, ci, io, noi, me, ce</em>
 * `2` (110; 3% of non-empty `Person`): <em>ti, vi, voi, te, tu</em>
 * `3` (3023; 79% of non-empty `Person`): <em>si, lo, la, l', gli, li, lui, le, loro, essi</em>
-* `EMPTY` (5985): <em>che, cui, quello, ne, quella, quale, dove, chi, ci, quelli</em>
+* `EMPTY` (5988): <em>che, cui, quello, ne, quella, quale, dove, chi, ci, quelli</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (38) occur only with one value of `Person`.
 
@@ -99,7 +99,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 
 * `1` (1; 50% of non-empty `Person`): <em>vedo</em>
 * `3` (1; 50% of non-empty `Person`): <em>dice</em>
-* `EMPTY` (57757): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
+* `EMPTY` (57880): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
 
 ### `CCONJ`
 
@@ -108,7 +108,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 `CCONJ` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): <em>pesino</em>
-* `EMPTY` (8207): <em>e, ma, o, ed, come, sia, che, cioè, ovvero, nonché</em>
+* `EMPTY` (8198): <em>e, ma, o, ed, come, sia, che, cioè, ovvero, nonché</em>
 
 ## Relations with Agreement in `Person`
 

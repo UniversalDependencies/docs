@@ -8,62 +8,65 @@ udver: '2'
 
 This relation is universal.
 
-31 nodes (0%) are attached to their parents as `nummod`.
+84 nodes (0%) are attached to their parents as `nummod`.
 
-31 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.2258064516129.
+78 instances of `nummod` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.26190476190476.
 
-The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (30; 97% instances), <tt><a href="el_gud-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (77; 92% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (4; 5% instances), <tt><a href="el_gud-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="el_gud-pos-DET.html">DET</a></tt>-<tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 4 nummod	color:blue
-1	«	«	PUNCT	OPUNCT	PunctType=Quot	3	punct	_	_
-2	Αυτό	αυτός	DET	PnDm	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj:pass	_	_
-3	γίνεται	γίνομαι	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-4	δυο	δύο	NUM	NmCd	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	7	nummod	_	_
-5	με	με	ADP	AsPpSp	_	7	case	_	_
-6	τρεις	τρεις	NUM	NmCd	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	7	nummod	_	_
-7	φορές	φορά	NOUN	NoCm	Case=Acc|Gender=Fem|Number=Plur	3	obl	_	_
-8	τη	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	μέρα	μέρα	NOUN	NoCm	Case=Acc|Gender=Fem|Number=Sing	7	nmod	_	_
-10	»	»	PUNCT	CPUNCT	PunctType=Quot	3	punct	_	SpaceAfter=No
-11	.	.	PUNCT	PTERMP	PunctType=Peri	3	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 nummod	color:blue
+1	Και	και	CCONJ	CjCo	_	5	cc	_	_
+2	σ	σε	ADP	AsPpSp	_	5	case	_	_
+3	τα	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	det	_	_
+4	δύο	δύο	NUM	NmCd	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	5	nummod	_	_
+5	δωμάτια	δωμάτιο	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Plur	6	obl	_	_
+6	υπάρχει	υπάρχω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	από	από	ADP	AsPpSp	_	9	case	_	_
+8	ένα	ένας	DET	AtId	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
+9	κρεβάτι	κρεβάτι	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	SpaceAfter=No
+10	.	.	PUNCT	PTERMP	_	6	punct	_	PunctType=Peri
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 19 18 nummod	color:blue
-1	Ακόμα	ακόμα	ADV	AdBa	_	4	advmod	_	_
-2	και	και	CCONJ	CjCo	_	4	cc	_	_
-3	σ'	σε	ADP	AsPpSp	_	4	case	_	_
-4	εμάς	εγώ	PRON	PnPe	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	11	obl	_	_
-5	,	,	PUNCT	PUNCT	PunctType=Comm	8	punct	_	_
-6	που	που	PRON	PnRe	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	8	nsubj	_	_
-7	δεν	δεν	PART	PtNg	Polarity=Neg	8	advmod	_	_
-8	είμαστε	είμαι	AUX	VbMn	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	4	acl:relcl	_	_
-9	ειδικοί	ειδικός	ADJ	AjBa	Case=Nom|Gender=Masc|Number=Plur	8	xcomp	_	_
-10	,	,	PUNCT	PUNCT	PunctType=Comm	8	punct	_	_
-11	φαίνεται	φαίνομαι	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-12	ότι	ότι	SCONJ	CjSb	_	13	mark	_	_
-13	είναι	είμαι	AUX	VbMn	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	11	csubj	_	_
-14	πανάκριβο	πανάκριβος	ADJ	AjBa	Case=Nom|Gender=Neut|Number=Sing	13	xcomp	_	_
-15	,	,	PUNCT	PUNCT	PunctType=Comm	17	punct	_	_
-16	από	από	ADP	AsPpSp	_	17	case	_	_
-17	χρυσό	χρυσός	NOUN	NoCm	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	_
-18	είκοσι	είκοσι	NUM	NmCd	Case=Gen|Gender=Neut|Number=Plur|NumType=Card	19	nummod	_	_
-19	τεσσάρων	τεσσάρα	NUM	NoCm	Case=Gen|Gender=Neut|Number=Plur	20	nmod	_	_
-20	καρατίων	καράτι	NOUN	NoCm	Case=Gen|Gender=Neut|Number=Plur	17	nmod	_	SpaceAfter=No
-21	.	.	PUNCT	PTERMP	PunctType=Peri	11	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nummod	color:blue
+1	Ανακρίνατε	ανακρίνω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	τους	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+3	δυο	δύο	NUM	NmCd	Case=Acc|Gender=Masc|Number=Plur|NumType=Card	4	nummod	_	_
+4	Ασιάτες	Ασιάτης	ADJ	NoPr	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	_
+5	;	;	PUNCT	PTERM	_	1	punct	_	PunctType=Qest
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 nummod	color:blue
+1	«	«	PUNCT	OPUNCT	_	2	punct	_	PunctType=Quot
+2	Ένας	ένας	NUM	NmCd	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	0	root	_	_
+3	από	από	ADP	AsPpSp	_	6	case	_	_
+4	τους	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	μεγαλύτερους	μεγάλος	ADJ	AjCp	Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur	6	amod	_	_
+6	εφοπλιστές	εφοπλιστής	NOUN	NoCm	Case=Acc|Gender=Masc|Number=Plur	2	nummod	_	_
+7	που	που	PRON	PnRe	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	8	obj	_	_
+8	έχουμε	έχω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
+9	»	»	PUNCT	CPUNCT	_	2	punct	_	PunctType=Quot|SpaceAfter=No
+10	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
 
 ~~~
 

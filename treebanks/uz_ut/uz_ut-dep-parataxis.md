@@ -11,26 +11,46 @@ This relation is universal.
 36 nodes (1%) are attached to their parents as `parataxis`.
 
 35 instances of `parataxis` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.13888888888889.
+Average distance between parent and child is 6.58333333333333.
 
-The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (15; 42% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (4; 11% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (3; 8% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (3; 8% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="uz_ut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (1; 3% instances).
+The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (15; 42% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (6; 17% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (4; 11% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (4; 11% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (3; 8% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="uz_ut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 8 parataxis	color:blue
-1	Nega	nega	ADV	_	PronType=Int	3	advmod	_	_
-2	ma’lum	ma’lum	ADJ	_	_	3	compound:lvc	_	_
-3	qilmadingiz	qil	VERB	_	Mood=Int|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	8	punct	_	_
-5	ayangizning	aya	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	7	nmod:poss	_	_
-6	ko‘zlagan	ko‘zla	VERB	_	VerbForm=Part	7	acl	_	_
-7	qizlari	qiz	NOUN	_	Case=Nom|Number=Plur	8	nsubj	_	_
-8	bormi	bor	VERB	_	Mood=Int|Tense=Pres|VerbForm=Fin	3	parataxis	_	SpaceAfter=No
-9	?	?	PUNCT	_	_	3	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 8 parataxis	color:blue
+1	Shoshmang	shosh	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	opajon	opa	NOUN	_	Case=Nom|Number=Sing	1	vocative	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	men	men	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+6	sizga	siz	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	8	iobj	_	_
+7	tushuntirib	tushuntir	VERB	_	VerbForm=Conv	8	compound:svc	_	_
+8	beray	ber	VERB	_	Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 9 parataxis	color:blue
+1	Endi	endi	ADV	_	_	4	advmod	_	_
+2	odamlarni	odam	NOUN	_	Case=Acc|Number=Plur	3	obj	_	_
+3	ilgʻash	ilgʻa	VERB	_	VerbForm=Vnoun	4	csubj	_	_
+4	qiyin	qiyin	ADJ	_	_	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	uylar	uy	NOUN	_	Case=Nom|Number=Plur	9	nsubj	_	_
+7	jimitday	jimitday	ADJ	_	_	9	advcl	_	_
+8	boʻlib	boʻl	VERB	_	VerbForm=Conv	7	compound	_	_
+9	koʻrinadi	koʻrin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -45,31 +65,10 @@ The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a
 2	otlari	ot	NOUN	_	Case=Nom|Number=Plur	3	nsubj	_	_
 3	uchqur	uchqur	ADJ	_	_	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
-5	o‘zlari	o‘z	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+5	oʻzlari	oʻz	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
 6	dovyurak	dovyurak	ADJ	_	_	3	parataxis	_	_
 7	edilar	edi	AUX	_	Number=Plur|Person=3|Tense=Past	6	cop	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 9 parataxis	color:blue
-1	Ma’rifatxonga	Ma’rifatxon	PROPN	_	Case=Dat|Number=Sing	3	iobj	_	_
-2	juda	juda	ADV	_	_	3	advmod	_	_
-3	ixlosmand	ixlosmand	ADJ	_	_	0	root	_	_
-4	ekan	ekan	AUX	_	_	3	cop	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	bu	bu	DET	_	PronType=Dem	7	det	_	_
-7	taklifni	taklif	NOUN	_	Case=Acc|Number=Sing	9	obj	_	_
-8	darrov	darrov	ADV	_	_	9	advmod	_	_
-9	qabul	qabul	NOUN	_	Case=Nom|Number=Sing	3	parataxis	_	_
-10	qildi	qil	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	compound	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~
 

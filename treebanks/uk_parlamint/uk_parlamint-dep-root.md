@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3433 nodes (7%) are attached to their parents as `root`.
+5432 nodes (6%) are attached to their parents as `root`.
 
-3433 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.13574133411011.
+5432 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.3149852724595.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (2308; 67% instances), -<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (440; 13% instances), -<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (226; 7% instances), -<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (207; 6% instances), -<tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (113; 3% instances), -<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (79; 2% instances), -<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (32; 1% instances), -<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (10; 0% instances), -<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (8; 0% instances), -<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (7; 0% instances), -<tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="uk_parlamint-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="uk_parlamint-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (3532; 65% instances), -<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (738; 14% instances), -<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (385; 7% instances), -<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (359; 7% instances), -<tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (207; 4% instances), -<tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (64; 1% instances), -<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (52; 1% instances), -<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (42; 1% instances), -<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (16; 0% instances), -<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (16; 0% instances), -<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (13; 0% instances), -<tt><a href="uk_parlamint-pos-INTJ.html">INTJ</a></tt> (8; 0% instances).
 
 
 ~~~ conllu

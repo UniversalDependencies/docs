@@ -29,7 +29,7 @@ The following 16 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 5	αὐτὸν	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	3	obl	_	Gloss=he,she,it,-self,same
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
 7	ἀνέβη	ἀναβαίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-ascend,mount
-8	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	Gloss=the;-oh
+8	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Gloss=the;-oh
 9	θεὸς	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Gloss=god
 10	ἀπὸ	ἀπό	ADP	_	_	11	case	_	Gloss=from,away-from
 11	Ἁβραάμ	Ἁβραάμ	PROPN	_	Gender=Masc|Number=Sing	7	obl	_	Gloss=Abraham|SpaceAfter=No
@@ -46,16 +46,16 @@ The following 16 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 10 11 xcomp	color:blue
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἐπέβλεψεν	ἐπιβλέπω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-look-upon
-3	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	Gloss=the
+3	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Gloss=the
 4	γυνὴ	γυνή	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Gloss=woman,wife
-5	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	4	nmod	_	Gloss=he,she,it,-self,same
+5	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	4	nmod:poss	_	Gloss=he,she,it,-self,same
 6	εἰς	εἰς	ADP	_	_	8	case	_	Gloss=into,unto,for
-7	τὰ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	8	det	_	Gloss=the
+7	τὰ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	8	det	_	Gloss=the
 8	ὀπίσω	ὀπίσω	ADV	_	_	2	obl	_	Gloss=back
 9	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
 10	ἐγένετο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	Gloss=to-become,come-to-be
 11	στήλη	στήλη	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	xcomp	_	Gloss=pillar,monument
-12	ἁλός	ἅλς	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Gloss=salt|SpaceAfter=No
+12	ἁλός	ἅλς	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod:poss	_	Gloss=salt|SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_
 
 ~~~
@@ -70,9 +70,9 @@ The following 16 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	ἔστησεν	ἵστημι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-stand
 3	Ἁβραὰμ	Ἁβραάμ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Abraham
-4	ἑπτὰ	ἑπτά	NUM	_	_	5	nummod	_	Gloss=seven
+4	ἑπτὰ	ἑπτά	NUM	_	NumType=Card	5	nummod	_	Gloss=seven
 5	ἀμνάδας	ἀμνάς	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	Gloss=ewe-lambs
-6	προβάτων	πρόβατον	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	Gloss=sheep
+6	προβάτων	πρόβατον	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	5	nmod:poss	_	Gloss=sheep
 7	μόνας	μόνος	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	2	xcomp	_	Gloss=only,alone|SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 

@@ -36,7 +36,7 @@ The following 30 pairs of parts of speech are connected with `appos`: <tt><a hre
 12	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	13:det	_
 13	Rede	Rede	PROPN	_	_	10	nmod	10:nmod:em	_
 14	Lucy	Lucy	PROPN	_	_	13	flat:name	13:flat:name	SpaceAfter=No
-15	.	.	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+15	.	.	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 
@@ -63,7 +63,7 @@ The following 30 pairs of parts of speech are connected with `appos`: <tt><a hre
 14	duas	dois	NUM	_	Gender=Fem|NumType=Card	15	nummod	15:nummod	_
 15	vezes	vez	NOUN	_	Gender=Fem|Number=Plur	13	obl	13:obl	SpaceAfter=No
 16	"	"	PUNCT	_	_	13	punct	13:punct	SpaceAfter=No
-17	.	.	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
+17	.	.	PUNCT	_	_	10	punct	10:punct	_
 
 ~~~
 
@@ -89,7 +89,7 @@ The following 30 pairs of parts of speech are connected with `appos`: <tt><a hre
 13	(	(	PUNCT	_	_	14	punct	14:punct	SpaceAfter=No
 14	11	11	NUM	_	NumType=Card	12	appos	12:appos	SpaceAfter=No
 15	)	)	PUNCT	_	_	14	punct	14:punct	SpaceAfter=No
-16	.	.	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+16	.	.	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 

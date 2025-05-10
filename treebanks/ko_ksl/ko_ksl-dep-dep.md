@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `dep`.
+5 nodes (0%) are attached to their parents as `dep`.
 
-3 instances of `dep` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.
+5 instances of `dep` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.4.
 
-The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 33% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 33% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 33% instances).
+The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (2; 40% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 20% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (1; 20% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
@@ -44,29 +44,28 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 3	주제는	주제+는	NOUN	NNG+JX	_	8	dislocated	_	_
 4	어떤	어떤	DET	MM	_	5	det	_	_
 5	살인자가	살인자+가	NOUN	NNG+JKS	_	6	nsubj	_	_
-6	찹은	찹+은	VERB	NV+ETM	_	7	dep	_	_
+6	찹은	찹+은	VERB	NV+ETM	Typo=Yes	7	dep	_	_
 7	것이	것+이	NOUN	NNB+JKS	_	8	nsubj	_	_
-8	여렵다	여렵+다	ADJ	NV+EF	_	0	root	_	SpaceAfter=No
+8	여렵다	여렵+다	ADJ	NV+EF	Typo=Yes	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	SF	_	8	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 dep	color:blue
-1	한국어를	한국어+를	NOUN	NNG+JKO	_	2	obj	_	_
-2	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	5	advcl	_	_
-3	처음부터	처음+부터	ADV	NNG+JX	_	5	obl	_	_
-4	열심히	열심히	ADV	MAG	_	5	advmod	_	_
-5	노력하면	노력+하+면	VERB	NNG+XSV+EC	_	7	advcl	_	_
-6	앞으로	앞+으로	ADV	NNG+JKB	_	7	obl	_	_
-7	괜찮을	괜찮+을	VERB	VA+ETM	_	8	dep	_	_
-8	거야	거+야	VERB	NNB+EF	_	0	root	_	SpaceAfter=No
-9	.	.	PUNCT	SF	_	8	punct	_	_
+# visual-style 7 4 dep	color:blue
+1	(	(	PUNCT	SS	_	2	punct	_	SpaceAfter=No
+2	저는	저+는	PRON	NP+JX	_	3	nsubj	_	_
+3	모르겠지만	모르+겠+지만	VERB	VV+EP+EC	_	7	advcl	_	_
+4	^^	^+^	ADV	SW+SW	_	7	dep	_	SpaceAfter=No
+5	)	)	PUNCT	SS	_	4	punct	_	_
+6	아무튼	아무튼	ADV	MAG	_	7	advmod	_	_
+7	추천합니다	추천+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
 
 ~~~
 

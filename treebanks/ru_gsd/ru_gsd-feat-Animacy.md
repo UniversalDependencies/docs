@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-38363 tokens (39%) have a non-empty value of `Animacy`.
+38364 tokens (39%) have a non-empty value of `Animacy`.
 19388 types (65%) occur at least once with a non-empty value of `Animacy`.
 12194 lemmas (65%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26754; 27% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6585; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (2040; 2% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (1014; 1% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (939; 1% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (850; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (178; 0% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26754; 27% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6585; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (2040; 2% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (1014; 1% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (939; 1% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (850; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (179; 0% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
@@ -184,15 +184,15 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 ### `DET`
 
-178 <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Animacy`.
+179 <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> tokens (12% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt> (174; 98%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (95; 53%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (91; 51%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt> (175; 98%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (95; 53%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (91; 51%).
 
 `DET` tokens may have the following values of `Animacy`:
 
 * `Anim` (30; 17% of non-empty `Animacy`): <em>всех, своего, своих, один, одного, таких, тех, Этих, некоего, некоторых</em>
-* `Inan` (148; 83% of non-empty `Animacy`): <em>свой, этот, свои, все, эти, каждый, такие, тот, весь, некоторые</em>
-* `EMPTY` (1377): <em>его, её, их, этого, своей, том, всех, все, то, это</em>
+* `Inan` (149; 83% of non-empty `Animacy`): <em>свой, этот, свои, все, эти, каждый, такие, тот, весь, некоторые</em>
+* `EMPTY` (1376): <em>его, её, их, этого, своей, том, всех, все, то, это</em>
 
 <table>
   <tr><th>Paradigm <i>этот</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -227,7 +227,7 @@ The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1086; 95%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1000; 64%),
 <tt>PROPN --[<tt><a href="ru_gsd-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (963; 99%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (891; 93%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (891; 92%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> NOUN</tt> (650; 84%),
 <tt>VERB --[<tt><a href="ru_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (527; 97%),
 <tt>PROPN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> PROPN</tt> (519; 99%),

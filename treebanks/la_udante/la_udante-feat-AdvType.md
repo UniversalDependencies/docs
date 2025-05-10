@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="la_udante-pos-ADV.h
 
 ### `ADV`
 
-792 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (25% of all `ADV` tokens) have a non-empty value of `AdvType`.
+792 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (26% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
 The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (751; 95%), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (725; 92%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (483; 61%).
 

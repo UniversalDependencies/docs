@@ -61,13 +61,13 @@ The 2nd highest number of forms (2) was observed with the lemma “baik”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “banyak”: <em>banyak, terbanyak</em>.
 
-`ADJ` occurs with 2 features: <tt><a href="id_pud-feat-Degree.html">Degree</a></tt> (58; 6% instances), <tt><a href="id_pud-feat-NumType.html">NumType</a></tt> (58; 6% instances)
+`ADJ` occurs with 3 features: <tt><a href="id_pud-feat-Degree.html">Degree</a></tt> (58; 6% instances), <tt><a href="id_pud-feat-NumType.html">NumType</a></tt> (58; 6% instances), <tt><a href="id_pud-feat-ExtPos.html">ExtPos</a></tt> (3; 0% instances)
 
-`ADJ` occurs with 2 feature-value pairs: `Degree=Sup`, `NumType=Ord`
+`ADJ` occurs with 3 feature-value pairs: `Degree=Sup`, `ExtPos=ADV`, `NumType=Ord`
 
-`ADJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (910 tokens).
-Examples: <em>besar, lain, baru, baik, sama, banyak, salah, lama, biasa, penting</em>
+`ADJ` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (907 tokens).
+Examples: <em>besar, lain, baru, baik, banyak, sama, salah, lama, biasa, penting</em>
 
 
 ## Relations

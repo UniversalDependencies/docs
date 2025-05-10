@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (376; 3% of non-empty `Mood`): <em>lisää, ota, keitä, paista, leikkaa, lue, tee, Kypsennä, anna, pidä</em>
 * `Ind` (13556; 93% of non-empty `Mood`): <em>tulee, saa, sai, tuli, on, sanoi, ottaa, sanoo, kertoo, kertoi</em>
 * `Pot` (27; 0% of non-empty `Mood`): <em>hypänne, kertone, luvanne, saanen, Palauttanet, Suonet, alkanevat, jatkunee, johtunee, käytäneen</em>
-* `EMPTY` (12708): <em>tehdä, tehty, saada, ottaa, saanut, olevan, tullut, käyttää, ei, antaa</em>
+* `EMPTY` (12707): <em>tehdä, tehty, saada, ottaa, saanut, olevan, tullut, käyttää, ei, antaa</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Pot</tt></th></tr>

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Natalia Silveira, Timothy Dozat, Christopher Manning, Sebastian Schuster, Ethan Chi, John Bauer, Miriam Connor, Marie-Catherine de Marneffe, Nathan Schneider, Sam Bowman, Hanzhi Zhu, Daniel Galbraith, John Bauer.
 
 Repository: [UD_English-EWT](https://github.com/UniversalDependencies/UD_English-EWT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ewt215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ewt216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -109,11 +109,11 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 
 
 <ul>
-<li>This corpus contains 16622 sentences, 251493 tokens and 254822 syntactic words.</li>
+<li>This corpus contains 16622 sentences, 251489 tokens and 254818 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 31028 tokens (12%) that are not followed by a space.</li>
+<li>This corpus contains 31024 tokens (12%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -121,7 +121,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 </ul>
 
 <ul>
-<li>This corpus contains 925 types of words that contain both letters and punctuation. Examples: 's, n't, 'm, 'll, 've, 're, 'd, Dr., e-mail, Mr., ’s, U.S., st., Inc., etc., Sept., vs., W., it's, .doc, carol.st.clair@enron.com, 01-Feb-02, n’t, Dec., Ft., Oct., alt.animals.cat, p&l, :D, Corp., Ms., No., Non-Bondad, PG&E, S., Yahoo!, i.e., A., Analysis_0712, D.C., E., ENRON.XLS, MEH-risk, Sha'lan, b/c, co., ekrapels@esaibos.com, enrongss.xls, p.m., 80's</li>
+<li>This corpus contains 928 types of words that contain both letters and punctuation. Examples: 's, n't, 'm, 'll, 've, 're, 'd, Dr., e-mail, Mr., ’s, U.S., st., Inc., etc., Sept., vs., W., it's, .doc, carol.st.clair@enron.com, 01-Feb-02, n’t, Dec., Ft., Oct., alt.animals.cat, p&l, :D, Corp., Ms., No., Non-Bondad, PG&E, S., Yahoo!, i.e., A., Analysis_0712, D.C., E., ENRON.XLS, MEH-risk, Sha'lan, b/c, co., ekrapels@esaibos.com, enrongss.xls, p.m., 80's</li>
 </ul>
 
 <ul>
@@ -146,7 +146,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 </ul>
 
 <ul>
-<li>This corpus contains 21 lemmas tagged as determiners (DET): a, all, another, any, both, each, either, every, half, many, neither, no, quite, some, such, that, the, this, what, whatever, which</li>
+<li>This corpus contains 22 lemmas tagged as determiners (DET): a, all, another, any, both, each, either, every, half, many, neither, no, quite, some, such, that, the, them, this, what, whatever, which</li>
 </ul>
 
 <ul>
@@ -240,7 +240,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
   <li>Plur
     <ul>
       <li>AUX-Fin: are, were, have, do, 're, did, had, 've, where, 'd</li>
-      <li>DET: these, those</li>
+      <li>DET: these, those, them</li>
       <li>NOUN: people, years, days, things, questions, times, months, guys, friends, places</li>
       <li>PRON: they, we, their, our, them, us, those, these, themselves, there</li>
       <li>PROPN: states, americans, Beatles, Iraqis, Palestinians, Islands, Tigers, Shiites, Nations, Seas</li>
@@ -472,7 +472,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
   <li>Dem
     <ul>
       <li>ADV: now, then, there, here, than, their, them, hear, that, thr</li>
-      <li>DET: this, that, these, those, Thi$, dat, dthat, his</li>
+      <li>DET: this, that, these, those, Thi$, dat, dthat, his, them</li>
       <li>PRON: this, that, those, these</li>
     </ul>
   </li>
@@ -537,7 +537,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
   <li>Rel
     <ul>
       <li>ADV: where, when, why, whenever, how, were, however, wherein, wherever, where-ever</li>
-      <li>DET: which, whatever, what</li>
+      <li>DET: whatever, which, what</li>
       <li>PRON: that, which, who, what, whom, whatever, whose, who's, whoever, whomever</li>
     </ul>
   </li>
@@ -713,7 +713,6 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
       </li>
       <li>CCONJ
         <ul>
-          <li>ADP: rather</li>
           <li>ADV: as, rather</li>
           <li>PART: not</li>
           <li>VERB-Inf: let</li>
@@ -725,11 +724,21 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
           <li>PRON: one</li>
         </ul>
       </li>
+      <li>PROPN
+        <ul>
+          <li>NOUN: Ram</li>
+          <li>NUM: 713, +1, +44, 03, 202, 212, 281, 415, 650, +852</li>
+          <li>PROPN: Amore</li>
+          <li>SYM: +</li>
+          <li>VERB-Ger: Fighting</li>
+          <li>X: Alberta, MEH-risk, ENRON, BLACKLINE, BRENNER, Percell,, Primary, Questar, REDLINE, Sanders</li>
+        </ul>
+      </li>
       <li>SCONJ
         <ul>
           <li>ADJ: due, such, prior</li>
-          <li>ADP: in, as, rather</li>
-          <li>ADV: instead</li>
+          <li>ADP: in, as</li>
+          <li>ADV: instead, rather</li>
           <li>SCONJ: so, whether, in, as</li>
         </ul>
       </li>
@@ -819,6 +828,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
         <ul>
           <li>AUX-Fin: ai</li>
           <li>AUX-Inf: of</li>
+          <li>DET: them</li>
           <li>NOUN: lovin'</li>
           <li>PRON: Ya'll</li>
           <li>SCONJ: coz</li>
@@ -882,25 +892,25 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1803)</li>
+      <li>VERB-Fin--NOUN (1798)</li>
       <li>VERB-Fin--NOUN-ADP(in) (1)</li>
-      <li>VERB-Fin--PRON (759)</li>
+      <li>VERB-Fin--PRON (756)</li>
       <li>VERB-Fin--PRON-Acc (2)</li>
-      <li>VERB-Fin--PRON-Nom (4682)</li>
+      <li>VERB-Fin--PRON-Nom (4688)</li>
       <li>VERB-Ger--NOUN (18)</li>
       <li>VERB-Ger--PRON (2)</li>
       <li>VERB-Ger--PRON-Acc (4)</li>
       <li>VERB-Ger--PRON-Gen (4)</li>
       <li>VERB-Ger--PRON-Nom (3)</li>
-      <li>VERB-Inf--NOUN (622)</li>
+      <li>VERB-Inf--NOUN (621)</li>
       <li>VERB-Inf--PRON (283)</li>
       <li>VERB-Inf--PRON-Acc (29)</li>
-      <li>VERB-Inf--PRON-Nom (2579)</li>
+      <li>VERB-Inf--PRON-Nom (2582)</li>
       <li>VERB-Part--NOUN (484)</li>
-      <li>VERB-Part--PRON (150)</li>
+      <li>VERB-Part--PRON (149)</li>
       <li>VERB-Part--PRON-Acc (6)</li>
       <li>VERB-Part--PRON-Gen (7)</li>
-      <li>VERB-Part--PRON-Nom (1444)</li>
+      <li>VERB-Part--PRON-Nom (1445)</li>
     </ul>
   </li>
 </ul>
@@ -908,21 +918,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3526)</li>
-      <li>VERB-Fin--PRON (325)</li>
-      <li>VERB-Fin--PRON-Acc (793)</li>
-      <li>VERB-Fin--PRON-Nom (66)</li>
+      <li>VERB-Fin--NOUN (3519)</li>
+      <li>VERB-Fin--PRON (322)</li>
+      <li>VERB-Fin--PRON-Acc (794)</li>
+      <li>VERB-Fin--PRON-Nom (67)</li>
       <li>VERB-Ger--NOUN (479)</li>
       <li>VERB-Ger--PRON (13)</li>
       <li>VERB-Ger--PRON-Acc (43)</li>
       <li>VERB-Ger--PRON-Nom (5)</li>
       <li>VERB-Inf--NOUN (3151)</li>
       <li>VERB-Inf--NOUN-ADP('s) (1)</li>
-      <li>VERB-Inf--PRON (333)</li>
+      <li>VERB-Inf--PRON (332)</li>
       <li>VERB-Inf--PRON-Acc (720)</li>
-      <li>VERB-Inf--PRON-Nom (88)</li>
-      <li>VERB-Part--NOUN (1325)</li>
-      <li>VERB-Part--PRON (141)</li>
+      <li>VERB-Inf--PRON-Nom (89)</li>
+      <li>VERB-Part--NOUN (1326)</li>
+      <li>VERB-Part--PRON (140)</li>
       <li>VERB-Part--PRON-Acc (150)</li>
       <li>VERB-Part--PRON-Nom (11)</li>
     </ul>
@@ -932,7 +942,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (59)</li>
+      <li>VERB-Fin--NOUN (60)</li>
       <li>VERB-Fin--PRON (2)</li>
       <li>VERB-Fin--PRON-Acc (288)</li>
       <li>VERB-Fin--PRON-Nom (5)</li>

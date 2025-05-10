@@ -55,6 +55,5 @@ The most frequent other feature values with which `PART` and `Aspect` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>AUX --[<tt><a href="bej_autogramm-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (5; 71%),
-<tt>AUX --[<tt><a href="bej_autogramm-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (4; 100%),
-<tt>VERB --[<tt><a href="bej_autogramm-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (2; 67%).
+<tt>AUX --[<tt><a href="bej_autogramm-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (4; 100%).
 

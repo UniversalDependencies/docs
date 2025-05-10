@@ -11,14 +11,14 @@ It occurs with 8 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Pa
 
 27324 tokens (43%) have a non-empty value of `Case`.
 13144 types (73%) occur at least once with a non-empty value of `Case`.
-6624 lemmas (67%) occur at least once with a non-empty value of `Case`.
+6623 lemmas (67%) occur at least once with a non-empty value of `Case`.
 The feature is used with 7 part-of-speech tags: <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> (15619; 24% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (5059; 8% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (3532; 6% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (1659; 3% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (720; 1% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> (529; 1% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (206; 0% instances).
 
 ### `NOUN`
 
 15619 <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (14004; 90%), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11310; 72%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (14003; 90%), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11310; 72%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -26,8 +26,8 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Dat` (626; 4% of non-empty `Case`): <em>душе, земле, дороге, сердцу, солнцу, жизни, людям, мечтам, небу, улицам</em>
 * `Gen` (3315; 21% of non-empty `Case`): <em>лет, жизни, земли, любви, дней, небес, глаз, дня, души, огня</em>
 * `Ins` (1730; 11% of non-empty `Case`): <em>ночью, головой, рукой, солнцем, ветром, огнем, порой, жизнью, кровью, светом</em>
-* `Loc` (1530; 10% of non-empty `Case`): <em>сердце, небе, душе, глазах, свете, жизни, любви, сне, руках, небесах</em>
-* `Nom` (5481; 35% of non-empty `Case`): <em>жизнь, ветер, день, сердце, душа, солнце, ночь, мир, вечер, свет</em>
+* `Loc` (1529; 10% of non-empty `Case`): <em>сердце, небе, душе, глазах, свете, жизни, любви, сне, руках, небесах</em>
+* `Nom` (5482; 35% of non-empty `Case`): <em>жизнь, ветер, день, сердце, душа, солнце, ночь, мир, вечер, свет</em>
 * `Par` (16; 0% of non-empty `Case`): <em>глазу, бою, виду, голоду, носу, олову, прибытку, размаху, свинцу, спросу</em>
 * `Voc` (10; 0% of non-empty `Case`): <em>Боже, господи</em>
 * `EMPTY` (6): <em>Кн., г., СБ., пр.</em>
@@ -52,7 +52,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Ins` (688; 14% of non-empty `Case`): <em>белым, теплой, белою, нежной, осенней, первым, тяжелым, черной, алым, лунным</em>
 * `Loc` (528; 10% of non-empty `Case`): <em>белом, новом, родной, далеком, чужом, ярком, голубом, голубых, густых, душной</em>
 * `Nom` (1918; 38% of non-empty `Case`): <em>милая, белый, золотые, тихий, белая, белые, первый, милый, старый, золотая</em>
-* `EMPTY` (961): <em>равно, лучше, хорошо, I, нужно, полна, прекрасен, слышен, темно, весел</em>
+* `EMPTY` (962): <em>равно, лучше, хорошо, I, нужно, полна, прекрасен, слышен, темно, весел</em>
 
 <table>
   <tr><th>Paradigm <i>белый</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -141,7 +141,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 529 <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> tokens (90% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (519; 98%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (335; 63%), <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (327; 62%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (519; 98%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (334; 63%), <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (326; 62%).
 
 `PROPN` tokens may have the following values of `Case`:
 
@@ -149,8 +149,8 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Dat` (67; 13% of non-empty `Case`): <em>Волге, Днепру, Игорю, Иуде, Северянину, Христу, АНДРЕЮ, АРТЕМУ, Арцимовичу, БАЛЬМОНТУ</em>
 * `Gen` (117; 22% of non-empty `Case`): <em>ВЛАДИМИРА, Китая, Леты, Майкова, Невки, Невы, Нила, Шопена, Анны, Ара</em>
 * `Ins` (22; 4% of non-empty `Case`): <em>Волгой, Кудеяром, Антигоной, Берлином, Графовым, Еленой, Еремой, Луной, МОСКВОЙ, Маргаритой</em>
-* `Loc` (31; 6% of non-empty `Case`): <em>Волге, Москве, Руси, Америке, Берлине, Гойе, Джетысу, Калите, Калуге, Кампанье</em>
-* `Nom` (245; 46% of non-empty `Case`): <em>Воронский, Анжелина, Москва, Иуда, Париж, Россия, Сулико, Изабелла, Петроград, Русь</em>
+* `Loc` (32; 6% of non-empty `Case`): <em>Волге, Москве, Руси, Америке, Берлине, ВОЛГЕ, Гойе, Джетысу, Калите, Калуге</em>
+* `Nom` (244; 46% of non-empty `Case`): <em>Воронский, Анжелина, Москва, Иуда, Париж, Россия, Сулико, Изабелла, Петроград, Русь</em>
 * `EMPTY` (59): <em>А., В., Н., М., П., С., Т., Д., И., К.</em>
 
 <table>
@@ -162,7 +162,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 206 <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> tokens (82% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="ru_poetry-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (206; 100%), <tt><a href="ru_poetry-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (192; 93%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (152; 74%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="ru_poetry-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (206; 100%), <tt><a href="ru_poetry-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (192; 93%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (145; 70%).
 
 `NUM` tokens may have the following values of `Case`:
 
@@ -179,10 +179,9 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
   <tr><td><tt><tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>двух</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>два</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>две</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>два</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>две</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>два</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt></tt></td><td></td><td></td><td><em>двух</em></td><td><em>двух</em></td><td><em>двумя</em></td></tr>
+  <tr><td><tt><tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>два</em></td><td></td><td><em>двух</em></td><td></td><td><em>двумя</em></td></tr>
+  <tr><td><tt><tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>две</em></td><td></td><td><em>двух</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>два</em></td><td></td><td><em>двух</em></td><td><em>двух</em></td><td></td></tr>
 </table>
 
 ## Relations with Agreement in `Case`
@@ -195,7 +194,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>ADJ --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (257; 95%),
 <tt>NOUN --[<tt><a href="ru_poetry-dep-acl.html">acl</a></tt>]--> VERB</tt> (252; 86%),
 <tt>NOUN --[<tt><a href="ru_poetry-dep-appos.html">appos</a></tt>]--> NOUN</tt> (154; 89%),
-<tt>NOUN --[<tt><a href="ru_poetry-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (116; 70%),
+<tt>NOUN --[<tt><a href="ru_poetry-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (117; 70%),
 <tt>PROPN --[<tt><a href="ru_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (60; 100%),
 <tt>ADJ --[<tt><a href="ru_poetry-dep-det.html">det</a></tt>]--> DET</tt> (49; 100%).
 

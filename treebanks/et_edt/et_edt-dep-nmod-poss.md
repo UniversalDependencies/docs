@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 4 3 nmod:poss	color:blue
 1	Hitiga	hitt	NOUN	S	Case=Com|Number=Sing	7	obl	7:obl	NE=B-Prod
 2	"	"	PUNCT	Z	_	5	punct	5:punct	NE=I-Prod|SpaceAfter=No
-3	My	my	PRON	T	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod	Lang=en|NE=I-Prod
+3	My	my	PRON	T	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod	Lang=en|NE=I-Prod
 4	Name	name	NOUN	T	Number=Sing	5	nsubj	5:nsubj	Lang=en|NE=I-Prod
 5	Is	be	VERB	T	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl	1:acl	Lang=en|NE=I-Prod|SpaceAfter=No
 6	"	"	PUNCT	Z	_	5	punct	5:punct	NE=I-Prod

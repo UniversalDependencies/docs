@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-13 nodes (1%) are attached to their parents as `case`.
+12 nodes (1%) are attached to their parents as `case`.
 
-13 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.23076923076923.
+12 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.25.
 
-The following 3 pairs of parts of speech are connected with `case`: <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-ADP.html">ADP</a></tt> (11; 85% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-ADV.html">ADV</a></tt> (1; 8% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (1; 8% instances).
+The following 2 pairs of parts of speech are connected with `case`: <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-ADP.html">ADP</a></tt> (11; 92% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-ADV.html">ADV</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -54,41 +54,6 @@ The following 3 pairs of parts of speech are connected with `case`: <tt><a href=
 12	kaksi	kaksi	NUM	NUM	Case=Ins|Number=Plur|NumType=Card	13	nummod	_	_
 13	joukkuo	joukko	NOUN	NOUN	Case=Par|Number=Sing	10	nsubj	_	SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 23 24 case	color:blue
-1	Koverin	Koverin	PROPN	PROPN	Case=Gen|Number=Sing	2	nmod:poss	_	_
-2	eläjii	eläjy	NOUN	NOUN	Case=Par|Number=Plur	3	obj	_	_
-3	ihaškoitettih	ihaškoittua	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4	Petroskoin	Petroskoi	PROPN	PROPN	Case=Gen|Number=Sing	5	nmod:poss	_	_
-5	taidoškolan	taido#škola	NOUN	NOUN	Case=Gen|Number=Sing	7	nmod:poss	_	_
-6	Vesläžetjoukon	Vesläžetjoukko	NOUN	NOUN	Case=Gen|Number=Sing	7	nmod:poss	_	_
-7	lapset	lapset	NOUN	NOUN	Case=Nom|Number=Plur	3	obj	_	SpaceAfter=No
-8	,	,	PUNCT	PUNCT	_	10	punct	_	_
-9	hyö	hyö	PRON	PRON	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	obj	_	_
-10	ozutettih	ozuttua	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
-11	kui	kui	SCONJ	SCONJ	_	13	mark	_	_
-12	ennevahnas	ennevahnas	ADV	ADV	_	13	advmod	_	PronType=Temp
-13	nuoret	nuori	NOUN	NOUN	Case=Nom|Number=Plur	10	nsubj	_	_
-14	käydih	kävvä	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	_
-15	bes’odale	besʼodu	NOUN	NOUN	Case=All|Number=Sing	14	obl	_	SpaceAfter=No
-16	,	,	PUNCT	PUNCT	_	17	punct	_	_
-17	pajatettih	pajattua	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	SpaceAfter=No
-18	,	,	PUNCT	PUNCT	_	17	punct	_	_
-19	tansittih	tansie	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	_
-20	da	da	CCONJ	CCONJ	_	21	cc	_	_
-21	kižattih	kižata	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	_
-22	meijän	myö	PRON	PRON	Case=Gen|Number=Plur|Person=1|PronType=Prs	23	nmod:poss	_	_
-23	ezi-ižien	ezi-ižä	NOUN	NOUN	Case=Gen|Number=Plur	21	obl	_	_
-24	tabah	taba	NOUN	NOUN	Case=Ill|Number=Sing	23	case	_	SpaceAfter=No
-25	.	.	PUNCT	PUNCT	_	21	punct	_	SpaceAfter=No
 
 ~~~
 

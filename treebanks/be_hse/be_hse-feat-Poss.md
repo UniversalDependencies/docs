@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (2540; 100% of non-empty `Poss`): <em>яго, наш, яе, свой, іх, сваю, свае, сваёй, нашай, нашым</em>
-* `EMPTY` (4190): <em>гэты, тым, той, кожны, усе, іншых, іншыя, адзін, гэтыя, гэтым</em>
+* `EMPTY` (4191): <em>гэты, тым, той, кожны, усе, іншых, іншыя, адзін, гэтыя, гэтым</em>
 
 `Poss` seems to be **lexical feature** of `DET`. 100% lemmas (23) occur only with one value of `Poss`.
 

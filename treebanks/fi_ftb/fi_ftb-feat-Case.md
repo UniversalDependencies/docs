@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 16 different values: `Abe`, `Abl`, `Acc`, `Ade`, `All`, `Com`, `Ela`, `Ess`, `Gen`, `Ill`, `Ine`, `Ins`, `Lat`, `Nom`, `Par`, `Tra`.
 
-80378 tokens (50%) have a non-empty value of `Case`.
-37672 types (86%) occur at least once with a non-empty value of `Case`.
-18172 lemmas (84%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (37033; 23% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (10989; 7% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (10062; 6% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (10009; 6% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (6772; 4% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (3562; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (1507; 1% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (444; 0% instances).
+80529 tokens (50%) have a non-empty value of `Case`.
+37690 types (86%) occur at least once with a non-empty value of `Case`.
+18176 lemmas (85%) occur at least once with a non-empty value of `Case`.
+The feature is used with 8 part-of-speech tags: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (37041; 23% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (11008; 7% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (10142; 6% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (10061; 6% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (6772; 4% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (3555; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (1507; 1% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (443; 0% instances).
 
 ### `NOUN`
 
-37033 <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+37041 <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28469; 77%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28476; 77%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -29,9 +29,9 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Com` (75; 0% of non-empty `Case`): <em>puolisoineen, vaimoineen, juurineen, kuulokkeineen, lapsineen, perheineen, päivineen, x:ineen, aitoineen, elimineen</em>
 * `Ela` (1980; 5% of non-empty `Case`): <em>asiasta, vuodesta, asioista, ihmisistä, lapsista, ovesta, päästä, syystä, työstä, autosta</em>
 * `Ess` (818; 2% of non-empty `Case`): <em>vuonna, päivänä, maanantaina, lauantaina, lapsena, sunnuntaina, torstaina, aikoina, vuosina, iltana</em>
-* `Gen` (7430; 20% of non-empty `Case`): <em>vuoden, kerran, ajan, miehen, auton, päivän, kirjan, talon, asian, ihmisen</em>
-* `Ill` (2201; 6% of non-empty `Case`): <em>kotiin, aikaan, asiaan, suuntaan, mieleen, loppuun, maahan, päähän, töihin, huomioon</em>
-* `Ine` (2257; 6% of non-empty `Case`): <em>tapauksessa, kunnossa, asiassa, vuodessa, maailmassa, tulossa, vaiheessa, päivässä, alussa, kaupungissa</em>
+* `Gen` (7431; 20% of non-empty `Case`): <em>vuoden, kerran, ajan, miehen, auton, päivän, kirjan, talon, asian, ihmisen</em>
+* `Ill` (2205; 6% of non-empty `Case`): <em>kotiin, aikaan, asiaan, suuntaan, mieleen, loppuun, maahan, päähän, töihin, huomioon</em>
+* `Ine` (2260; 6% of non-empty `Case`): <em>tapauksessa, kunnossa, asiassa, vuodessa, maailmassa, tulossa, vaiheessa, päivässä, alussa, kaupungissa</em>
 * `Ins` (148; 0% of non-empty `Case`): <em>määrin, käsin, osin, tavoin, ajoin, kohdin, mielin, päin, päivin, ehdoin</em>
 * `Nom` (11819; 32% of non-empty `Case`): <em>mies, asia, äiti, osa, lapsi, nainen, kello, ihmiset, isä, tyttö</em>
 * `Par` (6920; 19% of non-empty `Case`): <em>vuotta, aikaa, kertaa, markkaa, rahaa, asiaa, kahvia, prosenttia, päivää, työtä</em>
@@ -42,6 +42,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
   <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Kaan</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>päiväkään</em></td><td><em>päivänkään</em></td><td></td><td><em>päivääkään</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Kin</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>päivänkin</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>päivälläkin</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td></td><td><em>päivänäkö</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>päivä</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>päivä</em></td><td><em>päivän</em></td><td></td><td><em>päivää</em></td><td><em>päivänä</em></td><td><em>päiväksi</em></td><td></td><td><em>päivässä</em></td><td><em>päivään</em></td><td><em>päivästä</em></td><td><em>päivällä</em></td><td><em>päivälle</em></td><td><em>päivältä</em></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td></td><td><em>päivänä</em></td><td></td><td></td><td></td><td></td><td></td><td><em>päiväs</em></td><td><em>päivää</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>päivät</em></td><td><em>päivien</em></td><td><em>päivin</em></td><td><em>päiviä</em></td><td><em>päivinä</em></td><td></td><td></td><td></td><td></td><td></td><td><em>päivillä</em></td><td><em>päiville</em></td><td></td></tr>
@@ -51,9 +52,9 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-10989 <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
+11008 <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8226; 75%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6151; 56%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8245; 75%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6157; 56%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -67,8 +68,8 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Ill` (243; 2% of non-empty `Case`): <em>siihen, tähän, johon, toiseen, mihin, niihin, joihin, itseensä, mihinkään, minuun</em>
 * `Ine` (234; 2% of non-empty `Case`): <em>siinä, jossa, missä, joissa, niissä, siinäpä, minussa, kaikessa, mis, näis</em>
 * `Ins` (4; 0% of non-empty `Case`): <em>samoin, toisin</em>
-* `Nom` (5426; 49% of non-empty `Case`): <em>se, hän, minä, joka, mä, ne, sinä, he, me, kaikki</em>
-* `Par` (1640; 15% of non-empty `Case`): <em>sitä, mitä, minua, häntä, mitään, niitä, jota, tätä, meitä, jotain</em>
+* `Nom` (5439; 49% of non-empty `Case`): <em>se, hän, minä, joka, mä, ne, sinä, he, me, kaikki</em>
+* `Par` (1646; 15% of non-empty `Case`): <em>sitä, mitä, minua, häntä, mitään, niitä, jota, tätä, meitä, jotain</em>
 * `Tra` (9; 0% of non-empty `Case`): <em>miksi, joksi, miksikään, muuksi, samaksi, siksi, toiseksi</em>
 * `EMPTY` (77): <em>niin, siten, siksi, joka, niinkin, Niinhän, Siks, eri, silleen</em>
 
@@ -78,57 +79,15 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
   <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>jotka</em></td><td><em>joiden</em></td><td><em>joita</em></td><td></td><td></td><td><em>joissa</em></td><td><em>joihin</em></td><td><em>joista</em></td><td><em>joilla</em></td><td><em>joille</em></td><td></td></tr>
 </table>
 
-### `ADJ`
-
-10062 <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7600; 76%).
-
-`ADJ` tokens may have the following values of `Case`:
-
-* `Abe` (4; 0% of non-empty `Case`): <em>pitemmittä, pahemmitta, suuremmitta</em>
-* `Abl` (137; 1% of non-empty `Case`): <em>hyvältä, oudolta, upealta, mukavalta, suomalaisilta, oikealta, omalta, selvältä, tutulta, uudelta</em>
-* `Ade` (302; 3% of non-empty `Case`): <em>omalla, ensimmäisellä, halvalla, hyvällä, pienellä, suomalaisilla, kovalla, omilla, suurella, toisella</em>
-* `All` (201; 2% of non-empty `Case`): <em>hyvälle, suomalaisille, kauniille, omalle, uudelle, pienelle, poliittisille, suomalaiselle, vieraalle, ahtaalle</em>
-* `Com` (10; 0% of non-empty `Case`): <em>asiaankuuluvine, kiiltävine, mustine, omine, pitkine, sinisine, turhine, uusine, valkoisine, ystävällisine</em>
-* `Ela` (321; 3% of non-empty `Case`): <em>omasta, suomalaisista, omista, uudesta, törkeästä, edellisestä, erilaisesta, erilaisista, hyvästä, kuluvasta</em>
-* `Ess` (368; 4% of non-empty `Case`): <em>ensimmäisenä, nuorena, pienenä, kuumana, tärkeänä, valmiina, vapaana, väsyneenä, hyvänä, puhtaana</em>
-* `Gen` (1278; 13% of non-empty `Case`): <em>uuden, oman, pienen, suomalaisen, ensimmäisen, erityisen, mahdollisimman, suomalaisten, hyvän, nuorten</em>
-* `Ill` (317; 3% of non-empty `Case`): <em>uuteen, hyvään, uusiin, pitkään, suuriin, väärään, entiseen, varsinaiseen, ensimmäiseen, isoon</em>
-* `Ine` (294; 3% of non-empty `Case`): <em>omassa, hyvässä, hyvissä, vanhassa, pienessä, suuressa, ensimmäisessä, nykyisessä, uudessa, korkeassa</em>
-* `Ins` (34; 0% of non-empty `Case`): <em>omin, selvin, taitavin, vähin, aistinvaraisin, halvoin, herkin, juhlallisin, jyrkin, järeämmin</em>
-* `Nom` (4103; 41% of non-empty `Case`): <em>hyvä, uusi, oma, ensimmäinen, suuri, ainoa, pieni, vaikea, vanha, parempi</em>
-* `Par` (2358; 23% of non-empty `Case`): <em>hyvää, uutta, uusia, omaa, mahdollista, hauskaa, mukavaa, hyviä, parasta, sellaista</em>
-* `Tra` (335; 3% of non-empty `Case`): <em>valmiiksi, hyväksi, kuuluisaksi, toiseksi, hulluksi, tyhjäksi, kuuluisiksi, kyseenalaiseksi, parhaaksi, alttiiksi</em>
-* `EMPTY` (427): <em>koko, viime, ensi, pikku, tosi, 1., 4., kelpo, ens, ihme</em>
-
-<table>
-  <tr><th>Paradigm <i>oma</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th><th><tt>Ess</tt></th><th><tt>Tra</tt></th><th><tt>Com</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>Ade</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>omine</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Kin</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>omatkin</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Kin</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>omistaki</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Pa</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Omapa</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>omimmassa</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>oma</em></td><td><em>oman</em></td><td></td><td><em>omaa</em></td><td><em>omana</em></td><td><em>omaksi</em></td><td></td><td><em>omassa</em></td><td><em>omaan</em></td><td><em>omasta</em></td><td><em>omalla</em></td><td><em>omalle</em></td><td><em>omalta</em></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>omani</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>omaksesi</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>omakseen</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td></td><td></td><td></td><td><em>ommoo</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>omat</em></td><td><em>omien</em></td><td><em>omin</em></td><td><em>omia</em></td><td></td><td></td><td></td><td><em>omissa</em></td><td><em>omiin</em></td><td><em>omista</em></td><td><em>omilla</em></td><td><em>omille</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>omani</em></td><td></td><td></td><td><em>omiani</em></td><td></td><td></td><td></td><td></td><td><em>omiini</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>omansa</em></td><td></td><td></td><td><em>omiaan</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>omilleen</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td></td><td></td><td></td><td><em>omii</em></td><td></td><td></td><td></td><td><em>omis</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-</table>
-
 ### `VERB`
 
-10009 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Case`.
+10142 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10009; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10009; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (10009; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8138; 81%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5123; 51%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (5120; 51%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (5120; 51%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10142; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10142; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (10142; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8271; 82%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5256; 52%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (5253; 52%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (5253; 52%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Abe` (164; 2% of non-empty `Case`): <em>tekemättä, ottamatta, huomaamatta, juomatta, käyttämättä, maksamatta, sanomatta, tulematta, puuttumatta, pyytämättä</em>
+* `Abe` (209; 2% of non-empty `Case`): <em>huolimatta, tekemättä, ottamatta, huomaamatta, riippumatta, juomatta, katsomatta, käyttämättä, maksamatta, sanomatta</em>
 * `Abl` (20; 0% of non-empty `Case`): <em>tulehtuneelta, hämmentyneeltä, uskomattomalta, vapauttavalta, asuneilta, hakevalta, istuvalta, jäsennellyltä, loukkaantuneelta, merkityltä</em>
 * `Ade` (143; 1% of non-empty `Case`): <em>ostamalla, painamalla, saatavilla, antamalla, kaatamalla, myymällä, sanomalla, alentamalla, edellyttämällä, haukkumalla</em>
 * `All` (48; 0% of non-empty `Case`): <em>olevalle, sovitulle, tehdylle, tehtävälle, Syömälakkoilleelle, arvaamattomalle, hoidettavalle, hypnotisoidulle, hävinneelle, irtisanomilleen</em>
@@ -138,12 +97,12 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Gen` (636; 6% of non-empty `Case`): <em>olevan, olevansa, tulevan, tulleen, kuluvan, olleen, kadonneen, näkevän, pitävän, tulevansa</em>
 * `Ill` (914; 9% of non-empty `Case`): <em>tulemaan, tekemään, katsomaan, nukkumaan, puhumaan, maksamaan, olemaan, ottamaan, toimimaan, lähtemään</em>
 * `Ine` (507; 5% of non-empty `Case`): <em>saamassa, syömässä, tullessaan, katsomassa, ollessa, uimassa, hakemassa, korjattavissa, käymässä, nähtävissä</em>
-* `Ins` (199; 2% of non-empty `Case`): <em>ollen, ottaen, lukien, tullen, katsoen, sanoen, yllättäen, käyttäen, istuen, katsellen</em>
-* `Lat` (3218; 32% of non-empty `Case`): <em>olla, tehdä, mennä, tulla, saada, ottaa, lähteä, sanoa, käydä, käyttää</em>
-* `Nom` (3065; 31% of non-empty `Case`): <em>ollut, saanut, tullut, oleva, tehty, käynyt, sanonut, tehnyt, nähnyt, ollu</em>
+* `Ins` (286; 3% of non-empty `Case`): <em>lähtien, lukien, alkaen, nähden, katsoen, ollen, ottaen, riippuen, tullen, johtuen</em>
+* `Lat` (3219; 32% of non-empty `Case`): <em>olla, tehdä, mennä, tulla, saada, ottaa, lähteä, sanoa, käydä, käyttää</em>
+* `Nom` (3065; 30% of non-empty `Case`): <em>ollut, saanut, tullut, oleva, tehty, käynyt, sanonut, tehnyt, nähnyt, ollu</em>
 * `Par` (458; 5% of non-empty `Case`): <em>olevia, olevaa, tehtyä, tultua, jääneitä, levättyään, aiheuttamaa, annettavaa, katsottavaa, kuultuaan</em>
 * `Tra` (337; 3% of non-empty `Case`): <em>valituksi, päästäkseen, hoidetuksi, luullakseni, muistaakseni, nähdäkseen, kuulusteltavaksi, kuuluvaksi, käsittääkseni, saadakseen</em>
-* `EMPTY` (17185): <em>on, oli, ole, tulee, tuli, saa, ei, sanoi, ovat, sai</em>
+* `EMPTY` (17184): <em>on, oli, ole, tulee, tuli, saa, ei, sanoi, ovat, sai</em>
 
 <table>
   <tr><th>Paradigm <i>tulla</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th><th><tt>Ess</tt></th><th><tt>Tra</tt></th><th><tt>Abe</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>Ade</tt></th><th><tt>All</tt></th><th><tt>Lat</tt></th></tr>
@@ -173,6 +132,48 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
   <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=Pres</tt>|<tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>tultava</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>tulleet</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>tulleilla</em></td><td><em>tulleille</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=Pres</tt>|<tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>tulevat</em></td><td></td><td></td><td><em>tulevia</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+### `ADJ`
+
+10061 <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7600; 76%).
+
+`ADJ` tokens may have the following values of `Case`:
+
+* `Abe` (4; 0% of non-empty `Case`): <em>pitemmittä, pahemmitta, suuremmitta</em>
+* `Abl` (137; 1% of non-empty `Case`): <em>hyvältä, oudolta, upealta, mukavalta, suomalaisilta, oikealta, omalta, selvältä, tutulta, uudelta</em>
+* `Ade` (302; 3% of non-empty `Case`): <em>omalla, ensimmäisellä, halvalla, hyvällä, pienellä, suomalaisilla, kovalla, omilla, suurella, toisella</em>
+* `All` (201; 2% of non-empty `Case`): <em>hyvälle, suomalaisille, kauniille, omalle, uudelle, pienelle, poliittisille, suomalaiselle, vieraalle, ahtaalle</em>
+* `Com` (10; 0% of non-empty `Case`): <em>asiaankuuluvine, kiiltävine, mustine, omine, pitkine, sinisine, turhine, uusine, valkoisine, ystävällisine</em>
+* `Ela` (321; 3% of non-empty `Case`): <em>omasta, suomalaisista, omista, uudesta, törkeästä, edellisestä, erilaisesta, erilaisista, hyvästä, kuluvasta</em>
+* `Ess` (368; 4% of non-empty `Case`): <em>ensimmäisenä, nuorena, pienenä, kuumana, tärkeänä, valmiina, vapaana, väsyneenä, hyvänä, puhtaana</em>
+* `Gen` (1277; 13% of non-empty `Case`): <em>uuden, oman, pienen, suomalaisen, ensimmäisen, erityisen, mahdollisimman, suomalaisten, hyvän, nuorten</em>
+* `Ill` (317; 3% of non-empty `Case`): <em>uuteen, hyvään, uusiin, pitkään, suuriin, väärään, entiseen, varsinaiseen, ensimmäiseen, isoon</em>
+* `Ine` (294; 3% of non-empty `Case`): <em>omassa, hyvässä, hyvissä, vanhassa, pienessä, suuressa, ensimmäisessä, nykyisessä, uudessa, korkeassa</em>
+* `Ins` (34; 0% of non-empty `Case`): <em>omin, selvin, taitavin, vähin, aistinvaraisin, halvoin, herkin, juhlallisin, jyrkin, järeämmin</em>
+* `Nom` (4103; 41% of non-empty `Case`): <em>hyvä, uusi, oma, ensimmäinen, suuri, ainoa, pieni, vaikea, vanha, parempi</em>
+* `Par` (2358; 23% of non-empty `Case`): <em>hyvää, uutta, uusia, omaa, mahdollista, hauskaa, mukavaa, hyviä, parasta, sellaista</em>
+* `Tra` (335; 3% of non-empty `Case`): <em>valmiiksi, hyväksi, kuuluisaksi, toiseksi, hulluksi, tyhjäksi, kuuluisiksi, kyseenalaiseksi, parhaaksi, alttiiksi</em>
+* `EMPTY` (427): <em>koko, viime, ensi, pikku, tosi, 1., 4., kelpo, ens, ihme</em>
+
+<table>
+  <tr><th>Paradigm <i>oma</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th><th><tt>Ess</tt></th><th><tt>Tra</tt></th><th><tt>Com</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>Ade</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>omine</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Kin</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>omatkin</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Kin</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>omistaki</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Pa</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Omapa</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>omimmassa</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>oma</em></td><td><em>oman</em></td><td></td><td><em>omaa</em></td><td><em>omana</em></td><td><em>omaksi</em></td><td></td><td><em>omassa</em></td><td><em>omaan</em></td><td><em>omasta</em></td><td><em>omalla</em></td><td><em>omalle</em></td><td><em>omalta</em></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>omani</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>omaksesi</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>omakseen</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td></td><td></td><td></td><td><em>ommoo</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>omat</em></td><td><em>omien</em></td><td><em>omin</em></td><td><em>omia</em></td><td></td><td></td><td></td><td><em>omissa</em></td><td><em>omiin</em></td><td><em>omista</em></td><td><em>omilla</em></td><td><em>omille</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>omani</em></td><td></td><td></td><td><em>omiani</em></td><td></td><td></td><td></td><td></td><td><em>omiini</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>omansa</em></td><td></td><td></td><td><em>omiaan</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>omilleen</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td></td><td></td><td></td><td><em>omii</em></td><td></td><td></td><td></td><td><em>omis</em></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `PROPN`
@@ -205,9 +206,9 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `DET`
 
-3562 <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> tokens (97% of all `DET` tokens) have a non-empty value of `Case`.
+3555 <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2373; 67%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2366; 67%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -222,8 +223,8 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 * `Ill` (161; 5% of non-empty `Case`): <em>tähän, siihen, samaan, mihinkään, johonkin, semmoseen, toiseen, mihin, näihin, kaikkiin</em>
 * `Ine` (256; 7% of non-empty `Case`): <em>tässä, siinä, missä, kaikissa, samassa, missään, näissä, jossain, monessa, kaikessa</em>
 * `Ins` (10; 0% of non-empty `Case`): <em>kaikin, monin, muin, molemmin, samoin</em>
-* `Nom` (1156; 32% of non-empty `Case`): <em>se, kaikki, tämä, joku, ne, tuo, mikä, tää, nämä, mikään</em>
-* `Par` (724; 20% of non-empty `Case`): <em>mitään, sitä, jotain, mitä, tätä, monta, niitä, useita, näitä, jotakin</em>
+* `Nom` (1155; 32% of non-empty `Case`): <em>se, kaikki, tämä, joku, ne, tuo, mikä, tää, nämä, mikään</em>
+* `Par` (718; 20% of non-empty `Case`): <em>mitään, sitä, jotain, mitä, tätä, monta, niitä, useita, näitä, jotakin</em>
 * `Tra` (5; 0% of non-empty `Case`): <em>täksi, Kaikeksi, moneksi, samaksi</em>
 * `EMPTY` (129): <em>joka, eri</em>
 
@@ -270,9 +271,9 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 ### `AUX`
 
-444 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Case`.
+443 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (444; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (444; 100%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (444; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (444; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (423; 95%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (239; 54%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (443; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (443; 100%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (443; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (443; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (422; 95%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (239; 54%).
 
 `AUX` tokens may have the following values of `Case`:
 
@@ -282,11 +283,11 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 * `Ill` (14; 3% of non-empty `Case`): <em>olemaan, oleen</em>
 * `Ine` (5; 1% of non-empty `Case`): <em>ollessa, ollessani, ollessaan</em>
 * `Ins` (3; 1% of non-empty `Case`): <em>ollen</em>
-* `Lat` (177; 40% of non-empty `Case`): <em>olla, voida, ollapa, täytyä, joutua</em>
+* `Lat` (176; 40% of non-empty `Case`): <em>olla, voida, ollapa, täytyä</em>
 * `Nom` (197; 44% of non-empty `Case`): <em>ollut, voinut, olleet, pitänyt, ollu, voitu, täytynyt, oltava, oltu, voineet</em>
 * `Par` (1; 0% of non-empty `Case`): <em>oltuaan</em>
 * `Tra` (4; 1% of non-empty `Case`): <em>ollakseen, Ollaksesi, voidakseen</em>
-* `EMPTY` (9962): <em>on, ei, oli, ovat, en, ole, voi, olisi, olen, eivät</em>
+* `EMPTY` (9963): <em>on, ei, oli, ovat, en, ole, voi, olisi, olen, eivät</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th><th><tt>Ess</tt></th><th><tt>Tra</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>Lat</tt></th></tr>
@@ -318,14 +319,14 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="fi_ftb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5245; 90%),
+<tt>NOUN --[<tt><a href="fi_ftb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5246; 90%),
 <tt>NOUN --[<tt><a href="fi_ftb-dep-det.html">det</a></tt>]--> DET</tt> (2517; 86%),
-<tt>NOUN --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1505; 90%),
+<tt>NOUN --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1520; 91%),
 <tt>NOUN --[<tt><a href="fi_ftb-dep-acl.html">acl</a></tt>]--> VERB</tt> (1128; 53%),
 <tt>ADJ --[<tt><a href="fi_ftb-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (463; 60%),
 <tt>PROPN --[<tt><a href="fi_ftb-dep-flat.html">flat</a></tt>]--> PROPN</tt> (463; 60%),
-<tt>ADJ --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (432; 97%),
+<tt>ADJ --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (431; 97%),
 <tt>PROPN --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (326; 93%),
-<tt>ADJ --[<tt><a href="fi_ftb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (289; 64%),
+<tt>ADJ --[<tt><a href="fi_ftb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (288; 64%),
 <tt>NOUN --[<tt><a href="fi_ftb-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (278; 57%).
 

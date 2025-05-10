@@ -57,7 +57,7 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 11	podzemní	podzemní	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	12	amod	12:amod	_
 12	dráhy	dráha	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	10	nmod	10:nmod:gen	_
 13	než	než	SCONJ	J,-------------	_	14	case	14:case	LId=než-2
-14	Madrid	Madrid	PROPN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	9	nmod	9:nmod:než	SpaceAfter=No
+14	Madrid	Madrid	PROPN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	9	obl	9:obl:než	SpaceAfter=No
 15	.	.	PUNCT	Z:-------------	_	2	punct	2:punct	_
 
 ~~~

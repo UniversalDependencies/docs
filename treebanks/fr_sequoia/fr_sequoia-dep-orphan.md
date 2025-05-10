@@ -108,7 +108,7 @@ The following 12 pairs of parts of speech are connected with `orphan`: <tt><a hr
 12	décembre	décembre	NOUN	_	Gender=Masc|Number=Sing	9	orphan	_	_
 13	de	de	ADP	_	_	16	case	_	_
 14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-15	même	même	ADJ	_	Number=Sing	16	amod	_	_
+15	même	même	ADJ	_	Number=Sing	16	amod	_	Gender[ctxt]=Fem
 16	année	année	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
 17	et	et	CCONJ	_	_	18	cc	_	_
 18	Jean	Jean	PROPN	_	Gender=Fem|Number=Sing	5	conj	_	_
@@ -123,11 +123,11 @@ The following 12 pairs of parts of speech are connected with `orphan`: <tt><a hr
 27	suivante	suivant	ADJ	_	Gender=Fem|Number=Sing	26	amod	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	22	punct	_	_
 29	en	en	ADP	_	_	31	case	_	_
-30	même	même	ADJ	_	Number=Sing	31	amod	_	_
+30	même	même	ADJ	_	Number=Sing	31	amod	_	Gender[ctxt]=Masc
 31	temps	temps	NOUN	_	Gender=Masc	20	nmod	_	_
 32	qu'	que	SCONJ	_	_	35	case	_	SpaceAfter=No
 33	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
-34	autre	autre	ADJ	_	Number=Sing	35	amod	_	_
+34	autre	autre	ADJ	_	Number=Sing	35	amod	_	Gender[ctxt]=Masc
 35	journaliste	journaliste	NOUN	_	Gender=Masc|Number=Sing	31	nmod	_	SpaceAfter=No
 36	,	,	PUNCT	_	_	37	punct	_	_
 37	Roger	Roger	PROPN	_	Gender=Masc|Number=Sing	35	appos	_	_

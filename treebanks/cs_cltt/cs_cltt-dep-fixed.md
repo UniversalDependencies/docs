@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-355 nodes (1%) are attached to their parents as `fixed`.
+354 nodes (1%) are attached to their parents as `fixed`.
 
-355 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.16901408450704.
+354 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.16949152542373.
 
-The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (251; 71% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (64; 18% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (33; 9% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt>-<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (251; 71% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (64; 18% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (33; 9% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt>-<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href
 1	Obdobně	obdobně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	3	advmod	3:advmod	_
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pass	3:expl:pass	_
 3	postupuje	postupovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-4	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	7:case	LId=v-1
+4	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc|ExtPos=ADP	7	case	7:case	LId=v-1
 5	případě	případ	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	fixed	4:fixed	_
 6	technického	technický	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	7	amod	7:amod	_
 7	zhodnocení	zhodnocení	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	3	obl	3:obl:v_případě:gen	SpaceAfter=No
@@ -44,7 +44,7 @@ The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href
 2	povolenek	povolenka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur	1	nmod	1:nmod:gen	_
 3	je	být	AUX	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	_
 4	vykázána	vykázaný	ADJ	VsQW---XX-AP---	Degree=Pos|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	LDeriv=vykázat
-5	bez	bez	ADP	RR--2----------	AdpType=Prep|Case=Gen	10	case	10:case	LId=bez-1
+5	bez	bez	ADP	RR--2----------	AdpType=Prep|Case=Gen|ExtPos=ADP	10	case	10:case	LId=bez-1
 6	ohledu	ohled	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	fixed	5:fixed	_
 7	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	5	fixed	5:fixed	LId=na-1
 8	jejich	jeho	DET	PSXXXXP3-------	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	10:det	_
@@ -79,8 +79,8 @@ The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href
 16	záporného	záporný	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	17	amod	17:amod	_
 17	goodwillu	goodwill	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	conj	13:nmod:gen|14:conj	SpaceAfter=No
 18	,	,	PUNCT	Z:-------------	_	22	punct	22:punct	_
-19	a	a	CCONJ	J^-------------	_	22	cc	22:cc	LId=a-1
-20	to	to	PART	PDNS4----------	_	19	fixed	19:fixed	_
+19	a	a	CCONJ	J^-------------	ExtPos=CCONJ	22	cc	22:cc	LId=a-1
+20	to	to	PART	TT-------------	_	19	fixed	19:fixed	_
 21	beze	bez	ADP	RV--2----------	AdpType=Voc|Case=Gen	22	case	22:case	LId=bez-1
 22	změny	změna	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	12	obl	12:obl:bez:gen	_
 23	doby	doba	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	22	nmod	22:nmod:gen	_

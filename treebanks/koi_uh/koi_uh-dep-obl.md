@@ -7,31 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: Relations: `obl`
 
 This relation is universal.
-There are 2 language-specific subtypes of `obl`: <tt><a href="koi_uh-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="koi_uh-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-40 nodes (4%) are attached to their parents as `obl`.
+92 nodes (9%) are attached to their parents as `obl`.
 
-20 instances of `obl` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.95.
+48 instances of `obl` (52%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.03260869565217.
 
-The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (23; 57% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (11; 28% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (3; 8% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 3% instances).
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 obl	color:blue
-1	Кыкнан	кык	DET	_	PronType=Tot	3	det	_	GTtags=Coll,Cmpl
-2	том	том	ADJ	_	Case=Nom|Number=Sing	3	amod	_	GTtags=Sg,Nom
-3	семьялӧ	семья	NOUN	_	Case=Dat|Number=Sing	5	obl	_	GTtags=Src/F,Sg,Dat
-4	квартираэсӧ	квартира	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	5	obj	_	GTtags=Pl,Acc,PxSg3
-5	сетісӧ	сетны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Pl3
-6	ӧтдруг	ӧтдруг	ADV	_	_	5	advmod:tmod	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	5	punct	_	_
-
-~~~
+The following 11 pairs of parts of speech are connected with `obl`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (58; 63% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (16; 17% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -40,21 +22,14 @@ The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 2 obl	color:blue
-1	—	—	PUNCT	PUNCT	_	6	punct	_	_
-2	Мый	мый	PRON	Pron	Animacy=Nhum|Case=Nom|PronType=Int	6	obl	_	GTtags=Sem/NonHum,Nom,Interr
-3	нӧ	нӧ	PART	Pcle	_	2	discourse	_	_
-4	дыр	дыр	ADV	Adv	_	6	advmod	_	_
-5	эн	оз	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Past	6	aux	_	GTtags=Neg,Ind,Prt1,Sg2
-6	лок	локны	VERB	V	Connegative=Yes	0	root	_	GTtags=ConNeg|SpaceAfter=No
-7	?	?	PUNCT	CLB	_	6	punct	_	_
-8	—	—	PUNCT	PUNCT	_	13	punct	_	_
-9	инькасӧ	инька	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	obj	_	GTtags=Sg,Acc,PxSg3
-10	ас	ас	PRON	Pron	PronType=Prs|Reflex=Yes	12	obl	_	GTtags=Pron,Refl,Cmpl
-11	бердас	бердӧ	ADP	Adp	AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	case	_	GTtags=Po,Spat,Sg,Ill,PxSg3
-12	жмитікӧ	жмитны	VERB	V	Case=Ill|Derivation=Ik|VerbForm=Conv	13	advcl	_	GTtags=Der/Ik,Ger,Ill
-13	юаліс	юавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	parataxis	_	GTtags=Ind,Prt1,Sg3
-14	сія	сія	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	GTtags=Pers,Sg3,Nom|SpaceAfter=No
-15	.	.	PUNCT	CLB	_	6	punct	_	_
+1	Быд	быд	DET	_	Case=Nom|Number=Sing|PronType=Tot	2	det	_	GTtags=Sg,Nom
+2	лaдopcянь	лaдopcянь	NOUN	_	Case=Egr|Number=Sing	6	obl	_	GTtags=Sg,Egr
+3	Ворошилов	Ворошилов	PROPN	_	Animacy=Hum|Case=Nom|NameType=Sur|Number=Sing	6	obl	_	GTtags=Prop,Sem/Sur,Sem/Mal,Sg,Nom
+4	дынӧ	дынӧ	ADP	_	AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing	3	case	_	GTtags=Po,Spat,Sg,Ill
+5	ӧні	ӧні	ADV	Adv	AdvType=Tim	6	advmod	_	_
+6	кoтӧpтіcӧ	кoтӧpтіcӧ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Pl3
+7	oтиp	oтиp	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing	6	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	6	punct	_	GTtags=CLB
 
 ~~~
 
@@ -62,24 +37,33 @@ The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 obl	color:blue
+1	Сы	сія	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obl	_	GTtags=Pers,Sg3
+2	бӧрсянь	бӧрсянь	ADP	_	AdpType=Post|AdvType=Loc|Case=Egr|Number=Sing	1	case	_	GTtags=Po,Spat,Sg,Egr
+3	вуджӧны	вуджны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Pl3
+4	порогсӧ	порог	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	GTtags=Sg,Acc,PxSg3
+5	эшӧ	эшӧ	ADV	Adv	AdvType=Tim	3	advmod	_	_
+6	кыка	кыка	NUM	_	Number=Sing	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 1 obl	color:blue
-1	Меным	ме	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	obl	_	GTtags=Pron,Pers,Sg1,Dat
-2	охота	охота	NOUN	N	Case=Nom|Number=Sing	0	root	_	GTtags=N,Sg,Nom
-3	тӧдны	тӧдны	VERB	V	VerbForm=Inf	2	acl	_	GTtags=V,IV,Inf|SpaceAfter=No
-4	,	,	PUNCT	CLB	_	12	punct	_	GTtags=CLB
-5	мыля	мыля	ADV	Adv	_	12	advmod	_	GTtags=Adv
-6	сылӧ	сія	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	12	obl	_	GTtags=Pron,Pers,Sg3,Dat
-7	важ	важ	ADJ	A	_	8	amod	_	GTtags=A
-8	селитьбаыс	селитьба	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	nsubj	_	GTtags=N,Sg,Nom,PxSg3
-9	син	син	NOUN	N	Animacy=Inan|Case=Nom|Number=Sing	12	obl	_	GTtags=N,Sem/Inanim,Sg,Nom
-10	одзӧ	одзӧ	ADP	Adp	AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing	9	case	_	GTtags=Adp,Po,Spat,Sg,Ill
-11	оз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	12	aux	_	GTtags=V,Neg,Ind,Prs,Sg3
-12	ков	ковны	VERB	V	Connegative=Yes	3	advcl	_	GTtags=V,IV,ConNeg|SpaceAfter=No
-13	,	,	PUNCT	CLB	_	15	punct	_	GTtags=CLB
-14	и	и	CCONJ	CC	_	15	cc	_	GTtags=CC
-15	юася	юасьны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	2	conj	_	GTtags=V,IV,Ind,Prs,Sg1
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 obl	color:blue
+1	А	а	CCONJ	CC	_	4	cc	_	GTtags=CC
+2	юрын	юр	NOUN	N	Case=Ine|Number=Sing	4	obl	_	GTtags=N,Sg,Ine
+3	думаэз	дума	NOUN	N	Case=Nom|Number=Plur	4	nsubj:cop	_	GTtags=N,Sg,Der,Der/ProprietiveMod,A,Der,Der/MWN,N,Pl,Nom
+4	кокнитӧсь	кокнит	ADJ	A	Number=Plur	0	root	_	GTtags=A,Cop,Pl|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	6	punct	_	GTtags=CLB
+6	гажаӧсь	гажа	ADJ	A	Number=Plur	4	conj	_	GTtags=A,Cop,Pl|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	4	punct	_	GTtags=CLB
 
 ~~~
 

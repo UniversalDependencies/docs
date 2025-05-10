@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.111111 (the average of all parts of speech is 1.249476).
+The form / lemma ratio of `ADJ` is 1.111111 (the average of all parts of speech is 1.247379).
 
 The 1st highest number of forms (2) was observed with the lemma “бур”: <em>бур, буржык</em>.
 
@@ -40,7 +40,7 @@ Examples: <em>важ, честнӧй, ыджыт, Бöрья, быльнӧй, д
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 6 different relations: <tt><a href="koi_uh-dep-amod.html">amod</a></tt> (20; 53% instances), <tt><a href="koi_uh-dep-root.html">root</a></tt> (13; 34% instances), <tt><a href="koi_uh-dep-conj.html">conj</a></tt> (2; 5% instances), <tt><a href="koi_uh-dep-nmod.html">nmod</a></tt> (1; 3% instances), <tt><a href="koi_uh-dep-nsubj.html">nsubj</a></tt> (1; 3% instances), <tt><a href="koi_uh-dep-obl-lmod.html">obl:lmod</a></tt> (1; 3% instances)
+`ADJ` nodes are attached to their parents using 6 different relations: <tt><a href="koi_uh-dep-amod.html">amod</a></tt> (20; 53% instances), <tt><a href="koi_uh-dep-root.html">root</a></tt> (13; 34% instances), <tt><a href="koi_uh-dep-conj.html">conj</a></tt> (2; 5% instances), <tt><a href="koi_uh-dep-nmod.html">nmod</a></tt> (1; 3% instances), <tt><a href="koi_uh-dep-nsubj.html">nsubj</a></tt> (1; 3% instances), <tt><a href="koi_uh-dep-obl.html">obl</a></tt> (1; 3% instances)
 
 Parents of `ADJ` nodes belong to 5 different parts of speech: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (20; 53% instances),  (13; 34% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 3% instances)
 
@@ -54,7 +54,7 @@ Parents of `ADJ` nodes belong to 5 different parts of speech: <tt><a href="koi_u
 
 The highest child degree of a `ADJ` node is 6.
 
-Children of `ADJ` nodes are attached using 18 different relations: <tt><a href="koi_uh-dep-punct.html">punct</a></tt> (15; 27% instances), <tt><a href="koi_uh-dep-advcl.html">advcl</a></tt> (6; 11% instances), <tt><a href="koi_uh-dep-conj.html">conj</a></tt> (6; 11% instances), <tt><a href="koi_uh-dep-nsubj.html">nsubj</a></tt> (6; 11% instances), <tt><a href="koi_uh-dep-nsubj-cop.html">nsubj:cop</a></tt> (6; 11% instances), <tt><a href="koi_uh-dep-cop.html">cop</a></tt> (2; 4% instances), <tt><a href="koi_uh-dep-dislocated.html">dislocated</a></tt> (2; 4% instances), <tt><a href="koi_uh-dep-obl-lmod.html">obl:lmod</a></tt> (2; 4% instances), <tt><a href="koi_uh-dep-advcl-mcl.html">advcl:mcl</a></tt> (1; 2% instances), <tt><a href="koi_uh-dep-advcl-tcl.html">advcl:tcl</a></tt> (1; 2% instances), <tt><a href="koi_uh-dep-advmod.html">advmod</a></tt> (1; 2% instances), <tt><a href="koi_uh-dep-advmod-tmod.html">advmod:tmod</a></tt> (1; 2% instances), <tt><a href="koi_uh-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="koi_uh-dep-aux-neg.html">aux:neg</a></tt> (1; 2% instances), <tt><a href="koi_uh-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="koi_uh-dep-expl.html">expl</a></tt> (1; 2% instances), <tt><a href="koi_uh-dep-nmod.html">nmod</a></tt> (1; 2% instances), <tt><a href="koi_uh-dep-obl.html">obl</a></tt> (1; 2% instances)
+Children of `ADJ` nodes are attached using 14 different relations: <tt><a href="koi_uh-dep-punct.html">punct</a></tt> (15; 27% instances), <tt><a href="koi_uh-dep-advcl.html">advcl</a></tt> (8; 15% instances), <tt><a href="koi_uh-dep-conj.html">conj</a></tt> (6; 11% instances), <tt><a href="koi_uh-dep-nsubj.html">nsubj</a></tt> (6; 11% instances), <tt><a href="koi_uh-dep-nsubj-cop.html">nsubj:cop</a></tt> (6; 11% instances), <tt><a href="koi_uh-dep-obl.html">obl</a></tt> (3; 5% instances), <tt><a href="koi_uh-dep-advmod.html">advmod</a></tt> (2; 4% instances), <tt><a href="koi_uh-dep-cop.html">cop</a></tt> (2; 4% instances), <tt><a href="koi_uh-dep-dislocated.html">dislocated</a></tt> (2; 4% instances), <tt><a href="koi_uh-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="koi_uh-dep-aux-neg.html">aux:neg</a></tt> (1; 2% instances), <tt><a href="koi_uh-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="koi_uh-dep-expl.html">expl</a></tt> (1; 2% instances), <tt><a href="koi_uh-dep-nmod.html">nmod</a></tt> (1; 2% instances)
 
 Children of `ADJ` nodes belong to 9 different parts of speech: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (22; 40% instances), <tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (15; 27% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (5; 9% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (4; 7% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (3; 5% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 

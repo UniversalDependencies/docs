@@ -34,7 +34,7 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 10	em	em	ADP	_	_	12	case	_	_
 11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	Obj	objetivo	NOUN	_	Abbr=Yes|Gender=Masc|Number=Sing	9	obl	_	FullForm=objetivo|SpaceAfter=No
-13	?	?	PUNCT	_	_	9	punct	_	SpaceAfter=No
+13	?	?	PUNCT	_	_	9	punct	_	_
 
 ~~~
 

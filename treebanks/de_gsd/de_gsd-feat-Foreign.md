@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (2068; 100% of non-empty `Foreign`): <em>of, de, la, University, d', for, di, a, do, du</em>
-* `EMPTY` (28351): <em>Deutschland, US, Berlin, SPD, St., Oktober, Frankreich, August, New, Mai</em>
+* `EMPTY` (28349): <em>Deutschland, US, Berlin, SPD, St., Oktober, Frankreich, August, New, Mai</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (1359) occur only with one value of `Foreign`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (108; 100% of non-empty `Foreign`): <em>the, a, alla, dessa, ha, No, Quelques, Seine</em>
-* `EMPTY` (41098): <em>der, die, dem, den, das, des, eine, ein, einer, einen</em>
+* `EMPTY` (41097): <em>der, die, dem, den, das, des, eine, ein, einer, einen</em>
 
 ### `NOUN`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (106; 100% of non-empty `Foreign`): <em>Bass, Top, facto, Arrondissement, Love, name, Armée, Atun, Banking, Chief</em>
-* `EMPTY` (52191): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52190): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (94) occur only with one value of `Foreign`.
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `X` and `Foreign` co-occurred:
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (85; 100% of non-empty `Foreign`): <em>'s, i, to, be, ???, ????, ?????, ???????, All, Bottom</em>
-* `EMPTY` (228): <em>B., u.a., %, etc., z.B., z., †, a, u, z</em>
+* `EMPTY` (227): <em>B., u.a., %, etc., z.B., z., †, a, u, z</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (56) occur only with one value of `Foreign`.
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `X` and `Foreign` co-occurred:
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (47; 100% of non-empty `Foreign`): <em>and, et, an, bzw, e, i, or, ou, u</em>
-* `EMPTY` (8794): <em>und, oder, sowie, aber, sondern, als, wie, sowohl, doch, noch</em>
+* `EMPTY` (8776): <em>und, oder, sowie, aber, sondern, als, wie, sowohl, doch, noch</em>
 
 ### `ADJ`
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (38; 100% of non-empty `Foreign`): <em>top, New, Strange, Associate, Catholic, Civil, Communist, Deep, Dry, Independent</em>
-* `EMPTY` (21701): <em>ersten, später, erste, gut, weitere, neue, bekannt, zweiten, neuen, großen</em>
+* `EMPTY` (21702): <em>ersten, später, erste, gut, weitere, neue, bekannt, zweiten, neuen, großen</em>
 
 `Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (31) occur only with one value of `Foreign`.
 
@@ -93,7 +93,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (27; 100% of non-empty `Foreign`): <em>de, in, of, a, Against, För, Into, Pro, des, om</em>
-* `EMPTY` (32078): <em>in, von, mit, zu, an, auf, für, als, nach, bei</em>
+* `EMPTY` (32069): <em>in, von, mit, zu, an, auf, für, als, nach, bei</em>
 
 `Foreign` seems to be **lexical feature** of `ADP`. 100% lemmas (12) occur only with one value of `Foreign`.
 
@@ -106,7 +106,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (21; 100% of non-empty `Foreign`): <em>it, You, my, All, 's, She, We, Your</em>
-* `EMPTY` (10824): <em>er, sich, sie, es, die, ich, der, man, das, wir</em>
+* `EMPTY` (10823): <em>er, sich, sie, es, die, ich, der, man, das, wir</em>
 
 ### `VERB`
 
@@ -117,7 +117,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (13; 100% of non-empty `Foreign`): <em>Had, Logon, Need, anschloss, batian, batt, loved, meln, sang, shines</em>
-* `EMPTY` (20631): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
+* `EMPTY` (20629): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
 
 `Foreign` seems to be **lexical feature** of `VERB`. 100% lemmas (13) occur only with one value of `Foreign`.
 
@@ -130,7 +130,7 @@ The most frequent other feature values with which `AUX` and `Foreign` co-occurre
 `AUX` tokens may have the following values of `Foreign`:
 
 * `Yes` (12; 100% of non-empty `Foreign`): <em>is, 're, 's, Are</em>
-* `EMPTY` (10653): <em>ist, wurde, war, sind, werden, wird, wurden, kann, hat, waren</em>
+* `EMPTY` (10652): <em>ist, wurde, war, sind, werden, wird, wurden, kann, hat, waren</em>
 
 ### `ADV`
 
@@ -139,7 +139,7 @@ The most frequent other feature values with which `AUX` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (10; 100% of non-empty `Foreign`): <em>When, How, Please, always, ca, socially, up, wahnsinning, yonder</em>
-* `EMPTY` (13874): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
+* `EMPTY` (13835): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
 ### `PART`
 
@@ -150,7 +150,7 @@ The most frequent other feature values with which `PART` and `Foreign` co-occurr
 `PART` tokens may have the following values of `Foreign`:
 
 * `Yes` (5; 100% of non-empty `Foreign`): <em>'s, inte, not</em>
-* `EMPTY` (2144): <em>nicht, zu, aus, ja, nein, an, hin, her, wie, Bitte</em>
+* `EMPTY` (2143): <em>nicht, zu, aus, ja, nein, an, hin, her, wie, Bitte</em>
 
 ### `SCONJ`
 
@@ -159,7 +159,7 @@ The most frequent other feature values with which `PART` and `Foreign` co-occurr
 `SCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>att</em>
-* `EMPTY` (1726): <em>dass, da, wenn, als, daß, nachdem, weil, während, wie, ob</em>
+* `EMPTY` (1790): <em>dass, als, da, wenn, daß, nachdem, weil, wie, während, ob</em>
 
 ### `SYM`
 
@@ -168,13 +168,13 @@ The most frequent other feature values with which `PART` and `Foreign` co-occurr
 `SYM` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>&</em>
-* `EMPTY` (99): <em>&, =, /, %, ×, +, °, *, :-), €</em>
+* `EMPTY` (100): <em>&, =, /, ×, %, +, °, *, :-), €</em>
 
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>PROPN --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1115; 87%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> PROPN</tt> (49; 59%),
+<tt>PROPN --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> PROPN</tt> (49; 60%),
 <tt>DET --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (42; 98%),
 <tt>X --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> X</tt> (30; 100%),
 <tt>PROPN --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> DET</tt> (23; 92%),

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-419 nodes (0%) are attached to their parents as `nummod`.
+454 nodes (0%) are attached to their parents as `nummod`.
 
-324 instances of `nummod` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.45107398568019.
+357 instances of `nummod` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.45374449339207.
 
-The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (343; 82% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (37; 9% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (17; 4% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (7; 2% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="en_lines-pos-SYM.html">SYM</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (378; 83% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (37; 8% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (17; 4% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (7; 2% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="en_lines-pos-SYM.html">SYM</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 6	'll	will	AUX	PRES-AUX	VerbForm=Fin	7	aux	_	_
 7	do	do	VERB	INF	VerbForm=Inf	4	acl:relcl	_	_
 8	for	for	ADP	_	_	9	case	_	_
-9	you	you	PRON	PERS-P2	_	7	obl	_	SpaceAfter=No
+9	you	you	PRON	PERS-P2	Case=Acc|Person=2|PronType=Prs	7	obl	_	SpaceAfter=No
 10	,	,	PUNCT	Comma	_	11	punct	_	_
 11	though	though	ADV	_	_	2	advmod	_	SpaceAfter=No
 12	.	.	PUNCT	Period	_	2	punct	_	_

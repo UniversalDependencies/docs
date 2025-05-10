@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1011 nodes (5%) are attached to their parents as `det`.
+1014 nodes (5%) are attached to their parents as `det`.
 
-1011 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.6864490603363.
+1014 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.68639053254438.
 
-The following 8 pairs of parts of speech are connected with `det`: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (954; 94% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (32; 3% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `det`: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (962; 95% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (31; 3% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,10 +42,10 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 2 det	color:blue
 1	Om	om	SCONJ	SN	_	5	mark	5:mark	_
-2	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing	4	det	4:det	_
+2	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	4	det	4:det	_
 3	turkisk	turkisk	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	4	amod	4:amod	_
 4	anställd	anställd	ADJ	PC|PRF|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part	5	nsubj	5:nsubj	_
-5	slutar	sluta	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	7	dislocated	7:dislocated	_
+5	slutar	sluta	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	7:advcl	_
 6	så	så	ADV	AB	_	7	advcl	7:advcl	_
 7	kommer	komma	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 8	de	de	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur|PronType=Art	10	det	10:det	_
@@ -68,10 +68,10 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 4	redan	redan	ADV	AB	_	3	advmod	3:advmod	_
 5	segern	seger	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	3	obj	3:obj	_
 6	på	på	ADP	PP	_	7	case	7:case	_
-7	Plaza	Plaza	NOUN	NN|SIN	Number=Sing	3	obl	3:obl:på	_
-8	de	De	ADP	PP	_	10	case	10:case	_
-9	las	las	DET	DT|DEF	Definite=Def	10	det	10:det	_
-10	Victorias	Victorias	PROPN	PM|PLU	Number=Plur	7	nmod	7:nmod	SpaceAfter=No
+7	Plaza	plaza	NOUN	NN|SIN	Foreign=Yes	3	obl	3:obl:på	Lang=es
+8	de	de	ADP	PP	Foreign=Yes	10	case	10:case	Lang=es
+9	las	las	DET	DT|DEF	Foreign=Yes	10	det	10:det	Lang=es
+10	Victorias	victorias	PROPN	PM|PLU	Foreign=Yes	7	nmod	7:nmod	Lang=es|SpaceAfter=No
 11	.	.	PUNCT	MAD	_	3	punct	3:punct	_
 
 ~~~

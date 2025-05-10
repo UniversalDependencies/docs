@@ -25,7 +25,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 1	ei	ei	AUX	V,Neg,Act,Sg3	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	3	aux	_	_
 2	voi	voida	AUX	V,Act,Ind,Pres,ConNeg	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
 3	ajatellakhaa	ajatella	VERB	V,Act,InfA,Lat,Kaan	Case=Lat|Clitic=Kaan|InfForm=1|Style=Coll|VerbForm=Inf|Voice=Act	0	root	_	_
-4	varhmaan	varmaan	PART	Pcle	Style=Coll	3	advmod	_	_
+4	varhmaan	varmaan	ADV	Adv	Style=Coll	3	advmod	_	_
 5	että	että	SCONJ	Pcle,CS	_	9	mark	_	_
 6	ne	ne	PRON	Pron,Dem,Pl,Nom	Case=Nom|Number=Plur|PronType=Dem	9	nsubj:cop	_	_
 7	ikinä	ikinä	ADV	Adv	_	9	advmod	_	_
@@ -63,7 +63,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 2	on	olla	AUX	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
 3	täällä	täällä	ADV	Adv,Dem	PronType=Dem	6	advmod	_	_
 4	aina	aina	ADV	Adv	_	6	advmod	_	_
-5	voissa	voi	NOUN	N,Sg,Ine	Case=Ine|Number=Sing	6	nmod	_	_
+5	voissa	voi	NOUN	N,Sg,Ine	Case=Ine|Number=Sing	6	obl	_	_
 6	paistettua	paistaa	VERB	V,Pass,PcpNut,Sg,Par	Case=Par|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 7	.	.	PUNCT	Pun	_	6	punct	_	_
 

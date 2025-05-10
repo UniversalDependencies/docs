@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-148375 tokens (59%) have a non-empty value of `Number`.
+148337 tokens (59%) have a non-empty value of `Number`.
 14142 types (93%) occur at least once with a non-empty value of `Number`.
 9311 lemmas (89%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (57549; 23% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (36346; 15% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (17069; 7% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (16246; 6% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (11944; 5% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (5434; 2% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (3513; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (217; 0% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (56; 0% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (57548; 23% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (36327; 14% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (17069; 7% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (16245; 6% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (11928; 5% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (5434; 2% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (3514; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (215; 0% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (56; 0% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-57549 <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+57548 <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (28798; 50%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (16037; 28% of non-empty `Number`): <em>fluidos, dados, resultados, valores, fácies, propriedades, emissões, custos, poços, características</em>
+* `Plur` (16036; 28% of non-empty `Number`): <em>fluidos, dados, resultados, valores, fácies, propriedades, emissões, custos, poços, características</em>
 * `Sing` (41512; 72% of non-empty `Number`): <em>óleo, água, figura, fluido, petróleo, gás, produção, área, argila, processo</em>
-* `EMPTY` (13): <em>place, ,, cima, cm, d’água, e, hk, Å</em>
+* `EMPTY` (12): <em>place, ,, cima, cm, d’água, e, hk, Å</em>
 
 <table>
   <tr><th>Paradigm <i>óleo</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -35,14 +35,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `DET`
 
-36346 <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+36327 <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (31768; 87%), <tt><a href="pt_petrogold-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (29026; 80%), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (18204; 50%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (31749; 87%), <tt><a href="pt_petrogold-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (29007; 80%), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (18194; 50%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (8217; 23% of non-empty `Number`): <em>os, as, estes, estas, suas, esses, todos, tais, essas, outros</em>
-* `Sing` (28129; 77% of non-empty `Number`): <em>a, o, um, uma, este, esta, sua, esse, cada, seu</em>
+* `Plur` (8215; 23% of non-empty `Number`): <em>os, as, estes, estas, suas, esses, todos, tais, essas, outros</em>
+* `Sing` (28112; 77% of non-empty `Number`): <em>a, o, um, uma, este, esta, sua, esse, cada, seu</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -72,15 +72,15 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `VERB`
 
-16246 <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> tokens (80% of all `VERB` tokens) have a non-empty value of `Number`.
+16245 <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> tokens (80% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="pt_petrogold-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (12245; 75%), <tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (8939; 55%), <tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8854; 54%), <tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8784; 54%), <tt><a href="pt_petrogold-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (8776; 54%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="pt_petrogold-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (12244; 75%), <tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (8939; 55%), <tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8854; 55%), <tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8784; 54%), <tt><a href="pt_petrogold-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (8776; 54%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (5911; 36% of non-empty `Number`): <em>podem, apresentam, utilizados, obtidos, apresentados, possuem, realizados, associados, ocorrem, preparados</em>
-* `Sing` (10335; 64% of non-empty `Number`): <em>pode, devido, apresenta, utilizado, tem, deve, mostra, ocorre, possui, seja</em>
-* `EMPTY` (4113): <em>partir, utilizando, observar, seguir, aumentar, podendo, obter, formando, apresentar, contendo</em>
+* `Sing` (10334; 64% of non-empty `Number`): <em>pode, devido, apresenta, utilizado, tem, deve, mostra, ocorre, possui, seja</em>
+* `EMPTY` (4112): <em>partir, utilizando, observar, seguir, aumentar, podendo, obter, formando, apresentar, contendo</em>
 
 <table>
   <tr><th>Paradigm <i>poder</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -98,12 +98,12 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PROPN`
 
-11944 <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
+11928 <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (219; 2% of non-empty `Number`): <em>RCEs, GPM, estados, ARGILAS, Formações, MW, Barras, Camadas, Campos, Cartas</em>
-* `Sing` (11725; 98% of non-empty `Number`): <em>et, al., CO2, Bacia, Cabo, Frio, Santos, Campos, &, grande</em>
+* `Sing` (11709; 98% of non-empty `Number`): <em>et, al., CO2, Bacia, Cabo, Frio, Santos, Campos, &, grande</em>
 * `EMPTY` (69): <em>., ,, -, /, Quiricó, +, E, ;, =, cm2/g=</em>
 
 <table>
@@ -145,14 +145,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `PRON`
 
-3513 <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> tokens (65% of all `PRON` tokens) have a non-empty value of `Number`.
+3514 <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> tokens (65% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2288; 65%), <tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (1988; 57%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2289; 65%), <tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (1989; 57%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (1116; 32% of non-empty `Number`): <em>que, eles, estes, elas, os, quais, outros, as, estas, aqueles</em>
-* `Sing` (2397; 68% of non-empty `Number`): <em>que, o, isso, a, isto, este, qual, um, uma, esta</em>
+* `Sing` (2398; 68% of non-empty `Number`): <em>que, o, isso, a, isto, este, qual, um, uma, esta</em>
 * `EMPTY` (1886): <em>se, um</em>
 
 <table>
@@ -164,19 +164,18 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `ADV`
 
-217 <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Number`.
+215 <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Number`.
 
 `ADV` tokens may have the following values of `Number`:
 
 * `Plur` (44; 20% of non-empty `Number`): <em>onde</em>
-* `Sing` (173; 80% of non-empty `Number`): <em>onde, Antes, SIM, melhor</em>
-* `EMPTY` (6225): <em>mais, não, também, através, já, muito, assim, bem, ainda, além</em>
+* `Sing` (171; 80% of non-empty `Number`): <em>onde, Antes, SIM, melhor</em>
+* `EMPTY` (6226): <em>mais, não, também, através, já, muito, assim, bem, ainda, além</em>
 
 <table>
   <tr><th>Paradigm <i>onde</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>Onde</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>onde</em></td><td><em>onde</em></td></tr>
-  <tr><td><tt><tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>onde</em></td><td><em>onde</em></td></tr>
+  <tr><td><tt><tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>onde</em></td><td><em>onde</em></td></tr>
+  <tr><td><tt><tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>onde</em></td><td><em>onde</em></td></tr>
 </table>
 
 ### `NUM`
@@ -188,7 +187,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 `NUM` tokens may have the following values of `Number`:
 
 * `Sing` (56; 100% of non-empty `Number`): <em>1, 19, 2.3, 4, 8, II.7, III.2, ii, 36º, 43º</em>
-* `EMPTY` (7234): <em>dois, 1, 3, 2, 5, 10, duas, três, 4, 2005</em>
+* `EMPTY` (7233): <em>dois, 1, 3, 2, 5, 10, duas, três, 4, 2005</em>
 
 `Number` seems to be **lexical feature** of `NUM`. 100% lemmas (54) occur only with one value of `Number`.
 
@@ -201,19 +200,19 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 `X` tokens may have the following values of `Number`:
 
 * `Plur` (1; 100% of non-empty `Number`): <em>drill-in</em>
-* `EMPTY` (215): <em>in, drill, n, flow, core, ., booster, pin, situ, stripe</em>
+* `EMPTY` (216): <em>in, drill, n, flow, core, ., booster, pin, situ, stripe</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="pt_petrogold-dep-det.html">det</a></tt>]--> DET</tt> (32950; 100%),
+<tt>NOUN --[<tt><a href="pt_petrogold-dep-det.html">det</a></tt>]--> DET</tt> (32939; 100%),
 <tt>NOUN --[<tt><a href="pt_petrogold-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14486; 99%),
-<tt>NOUN --[<tt><a href="pt_petrogold-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (13126; 64%),
-<tt>VERB --[<tt><a href="pt_petrogold-dep-obl.html">obl</a></tt>]--> NOUN</tt> (4218; 53%),
+<tt>NOUN --[<tt><a href="pt_petrogold-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (13125; 64%),
+<tt>VERB --[<tt><a href="pt_petrogold-dep-obl.html">obl</a></tt>]--> NOUN</tt> (4219; 53%),
 <tt>NOUN --[<tt><a href="pt_petrogold-dep-acl.html">acl</a></tt>]--> VERB</tt> (4088; 93%),
-<tt>PROPN --[<tt><a href="pt_petrogold-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (3671; 96%),
-<tt>VERB --[<tt><a href="pt_petrogold-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3651; 93%),
-<tt>NOUN --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3363; 77%),
+<tt>PROPN --[<tt><a href="pt_petrogold-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (3657; 96%),
+<tt>VERB --[<tt><a href="pt_petrogold-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3652; 93%),
+<tt>NOUN --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3362; 77%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (2703; 80%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (2492; 90%).
 

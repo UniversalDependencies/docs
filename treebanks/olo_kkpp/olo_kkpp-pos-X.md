@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>Karelija</em> (<tt><a href="olo_kkpp-
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.250000 (the average of all parts of speech is 1.335034).
+The form / lemma ratio of `X` is 1.250000 (the average of all parts of speech is 1.337308).
 
 The 1st highest number of forms (3) was observed with the lemma “_”: <em>ttiteatr, u, y</em>.
 

@@ -9,60 +9,59 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `xcomp`: <tt><a href="la_circse-dep-xcomp-relcl.html">xcomp:relcl</a></tt>.
 
-220 nodes (1%) are attached to their parents as `xcomp`.
+292 nodes (1%) are attached to their parents as `xcomp`.
 
-129 instances of `xcomp` (59%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.15909090909091.
+172 instances of `xcomp` (59%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.14041095890411.
 
-The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (145; 66% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (30; 14% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (29; 13% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (10; 5% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 xcomp	color:blue
-1	quae	quis	PRON	K	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Int	4	det	_	LASLAVariant=1|LiLaflcat=p
-2	fera	ferus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	4	amod	_	LASLAVariant=2|LiLaflcat=n6
-3	tyranni	tyrannus	NOUN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	4	nmod	_	LiLaflcat=n2
-4	iura	ius	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Plur	6	nsubj	_	LASLAVariant=1|LiLaflcat=n3
-5	uiolento	uiolentus	ADJ	C1	Case=Dat|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	8	amod	_	LiLaflcat=n6
-6	queant	queo	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v6
-7	nocere	noceo	VERB	B2	Aspect=Imp|InflClass=LatE|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	6	xcomp	_	LiLaflcat=v2
-8	iuueni	iuuenis	NOUN	A3	Case=Dat|Gender=Masc|InflClass=IndEurI|Number=Sing	7	obl:arg	_	LASLAVariant=1|LiLaflcat=n3
-
-~~~
+The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (191; 65% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (46; 16% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (35; 12% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (12; 4% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 xcomp	color:blue
-1	famuli	famulus	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur	0	root	_	LASLAVariant=1|LiLaflcat=n2
-2	ne	ne	PART	O	PartType=Int	1	discourse	_	LASLAVariant=2|LiLaflcat=i
-3	fuerant	sum	AUX	B6	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin	1	cop	_	LASLAVariant=1|LiLaflcat=v6
-4	ante	ante	ADV	M	Degree=Pos	1	advmod:tmod	_	LiLaflcat=i
-5	quam	quam	SCONJ	T	_	6	mark	_	LiLaflcat=i
-6	fierent	fio	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl:cmp	_	LiLaflcat=v6
-7	dei	deus	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur	6	xcomp	_	LiLaflcat=n2
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 xcomp	color:blue
+1	amplectere	amplector	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LiLaflcat=v3
+2	ipsum	ipse	DET	I	Case=Acc|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Dem	1	det	_	LiLaflcat=p
+3	potius	potius	ADV	M	Degree=Cmp	1	advmod	_	LiLaflcat=i
+4	et	et	CCONJ	S	_	8	cc	_	LASLAVariant=2|LiLaflcat=i
+5	blanda	blandus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	6	amod	_	LiLaflcat=n6
+6	prece	prex	NOUN	A3	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	7	obl	_	LiLaflcat=n3
+7	lenire	lenio	VERB	B4	Aspect=Imp|InflClass=LatI|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	8	xcomp	_	LiLaflcat=v4
+8	tempta	tento	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LiLaflcat=v1
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 xcomp	color:blue
-1	quemcumque	quicumque	DET	J	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	3	obj	_	LASLAVariant=1|LiLaflcat=p
-2	miserum	miser	ADJ	C1	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	3	xcomp	_	LiLaflcat=n6
-3	uideris	uideo	VERB	B2	Aspect=Perf|InflClass=LatE|Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp:relcl	_	LiLaflcat=v2
-4	hominem	homo	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing	5	xcomp	_	LiLaflcat=n3
-5	scias	scio	VERB	B4	Aspect=Imp|InflClass=LatI|Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v4
+# visual-style 2 1 xcomp	color:blue
+1	secura	securus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	2	xcomp	_	LiLaflcat=n6
+2	uiue	uiuo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 xcomp	color:blue
+1	ea	is	PRON	I	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	0	root	_	LiLaflcat=p
+2	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	LASLAVariant=1|LiLaflcat=v6|TraditionalMood=Indicativus|TraditionalTense=Praesens
+3	in	in	ADP	R	_	4	case	_	LiLaflcat=i
+4	re	res	NOUN	A5	Case=Abl|Gender=Fem|InflClass=IndEurE|Number=Sing	6	nmod	_	LiLaflcat=n5
+5	praua	prauus	ADJ	C1	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	4	amod	_	LiLaflcat=n6
+6	peruicacia	peruicacia	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	1	nsubj	_	LiLaflcat=n1
+7	ipsi	ipse	DET	I	Case=Nom|Form=Emp|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Dem	9	nsubj	_	LiLaflcat=p
+8	fidem	fides	NOUN	A5	Case=Acc|Gender=Fem|InflClass=IndEurE|Number=Sing	9	xcomp	_	LASLAVariant=2|LiLaflcat=n5
+9	uocant	uoco	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LiLaflcat=v1|TraditionalMood=Indicativus|TraditionalTense=Praesens
 
 ~~~
 

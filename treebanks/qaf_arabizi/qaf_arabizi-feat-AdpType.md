@@ -20,7 +20,7 @@ The feature is used with 9 part-of-speech tags: <tt><a href="qaf_arabizi-pos-ADP
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Prep` (1662; 100% of non-empty `AdpType`): <em>fi, de, m3a, f, b, pour, ta3, a, 3la, bi</em>
+* `Prep` (1662; 100% of non-empty `AdpType`): <em>fi, m3a, de, f, b, pour, ta3, a, 3la, bi</em>
 
 `AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (87) occur only with one value of `AdpType`.
 

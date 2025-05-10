@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 obl:agent	color:blue
-1	Sementara	sementara	ADV	RB	_	6	advmod	_	MWEPOS=ADV
+1	Sementara	sementara	ADV	RB	ExtPos=ADV	6	advmod	_	MWEPOS=ADV
 2	itu	itu	PRON	PRP	PronType=Dem	1	fixed	_	_
 3	tekanan	tekan	NOUN	NN	Number=Sing	6	nsubj	_	_
 4	inflasi	inflasi	NOUN	NN	Number=Sing	3	nmod	_	_

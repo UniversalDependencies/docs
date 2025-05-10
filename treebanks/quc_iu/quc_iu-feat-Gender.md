@@ -41,7 +41,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Fem` (18; 37% of non-empty `Gender`): <em>nan, al, ali</em>
 * `Masc` (31; 63% of non-empty `Gender`): <em>a, tat, tataʼ</em>
-* `EMPTY` (2390): <em>e, rukʼ, ja, rumal, uwach, winaq, rech, achi, ke, we</em>
+* `EMPTY` (2389): <em>e, rukʼ, ja, rumal, uwach, winaq, rech, achi, ke, we</em>
 
 ## Relations with Agreement in `Gender`
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Larisa Ponomareva, Niko Partanen, Jack Rueter, Francis Tyers.
 
 Repository: [UD_Komi_Permyak-UH](https://github.com/UniversalDependencies/UD_Komi_Permyak-UH)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkoi_uh215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkoi_uh216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -104,11 +104,11 @@ Work connected to this treebank is described in following publication. If you us
 
 ## Features
 
-[AdpType](koi_uh-feat-AdpType.html) – [AdvType](koi_uh-feat-AdvType.html) – [Animacy](koi_uh-feat-Animacy.html) – [Case](koi_uh-feat-Case.html) – [Connegative](koi_uh-feat-Connegative.html) – [Definite](koi_uh-feat-Definite.html) – [Degree](koi_uh-feat-Degree.html) – [Derivation](koi_uh-feat-Derivation.html) – [Evident](koi_uh-feat-Evident.html) – [Mood](koi_uh-feat-Mood.html) – [NameType](koi_uh-feat-NameType.html) – [NounType](koi_uh-feat-NounType.html) – [Number](koi_uh-feat-Number.html) – [Number[psor]](koi_uh-feat-Number-psor.html) – [Number[subj]](koi_uh-feat-Number-subj.html) – [NumType](koi_uh-feat-NumType.html) – [Person](koi_uh-feat-Person.html) – [Person[psor]](koi_uh-feat-Person-psor.html) – [Polarity](koi_uh-feat-Polarity.html) – [PronType](koi_uh-feat-PronType.html) – [Reflex](koi_uh-feat-Reflex.html) – [Tense](koi_uh-feat-Tense.html) – [Variant](koi_uh-feat-Variant.html) – [VerbForm](koi_uh-feat-VerbForm.html) – [VerbType](koi_uh-feat-VerbType.html)
+[AdpType](koi_uh-feat-AdpType.html) – [AdvType](koi_uh-feat-AdvType.html) – [Animacy](koi_uh-feat-Animacy.html) – [Case](koi_uh-feat-Case.html) – [Connegative](koi_uh-feat-Connegative.html) – [Definite](koi_uh-feat-Definite.html) – [Degree](koi_uh-feat-Degree.html) – [Derivation](koi_uh-feat-Derivation.html) – [Evident](koi_uh-feat-Evident.html) – [ExtPos](koi_uh-feat-ExtPos.html) – [Mood](koi_uh-feat-Mood.html) – [NameType](koi_uh-feat-NameType.html) – [NounType](koi_uh-feat-NounType.html) – [Number](koi_uh-feat-Number.html) – [Number[psor]](koi_uh-feat-Number-psor.html) – [Number[subj]](koi_uh-feat-Number-subj.html) – [NumType](koi_uh-feat-NumType.html) – [Person](koi_uh-feat-Person.html) – [Person[psor]](koi_uh-feat-Person-psor.html) – [Polarity](koi_uh-feat-Polarity.html) – [PronType](koi_uh-feat-PronType.html) – [Reflex](koi_uh-feat-Reflex.html) – [Tense](koi_uh-feat-Tense.html) – [Variant](koi_uh-feat-Variant.html) – [VerbForm](koi_uh-feat-VerbForm.html) – [VerbType](koi_uh-feat-VerbType.html)
 
 ## Relations
 
-[acl](koi_uh-dep-acl.html) – [acl:relcl](koi_uh-dep-acl-relcl.html) – [advcl](koi_uh-dep-advcl.html) – [advcl:lcl](koi_uh-dep-advcl-lcl.html) – [advcl:mcl](koi_uh-dep-advcl-mcl.html) – [advcl:tcl](koi_uh-dep-advcl-tcl.html) – [advmod](koi_uh-dep-advmod.html) – [advmod:deg](koi_uh-dep-advmod-deg.html) – [advmod:lmod](koi_uh-dep-advmod-lmod.html) – [advmod:mmod](koi_uh-dep-advmod-mmod.html) – [advmod:tmod](koi_uh-dep-advmod-tmod.html) – [amod](koi_uh-dep-amod.html) – [appos](koi_uh-dep-appos.html) – [aux](koi_uh-dep-aux.html) – [aux:cnd](koi_uh-dep-aux-cnd.html) – [aux:neg](koi_uh-dep-aux-neg.html) – [aux:pot](koi_uh-dep-aux-pot.html) – [case](koi_uh-dep-case.html) – [cc](koi_uh-dep-cc.html) – [cc:preconj](koi_uh-dep-cc-preconj.html) – [ccomp](koi_uh-dep-ccomp.html) – [compound:prt](koi_uh-dep-compound-prt.html) – [conj](koi_uh-dep-conj.html) – [cop](koi_uh-dep-cop.html) – [csubj](koi_uh-dep-csubj.html) – [det](koi_uh-dep-det.html) – [discourse](koi_uh-dep-discourse.html) – [dislocated](koi_uh-dep-dislocated.html) – [expl](koi_uh-dep-expl.html) – [fixed](koi_uh-dep-fixed.html) – [flat:name](koi_uh-dep-flat-name.html) – [list](koi_uh-dep-list.html) – [mark](koi_uh-dep-mark.html) – [nmod](koi_uh-dep-nmod.html) – [nmod:lmod](koi_uh-dep-nmod-lmod.html) – [nmod:poss](koi_uh-dep-nmod-poss.html) – [nsubj](koi_uh-dep-nsubj.html) – [nsubj:cop](koi_uh-dep-nsubj-cop.html) – [nummod](koi_uh-dep-nummod.html) – [obj](koi_uh-dep-obj.html) – [obl](koi_uh-dep-obl.html) – [obl:lmod](koi_uh-dep-obl-lmod.html) – [obl:tmod](koi_uh-dep-obl-tmod.html) – [orphan](koi_uh-dep-orphan.html) – [parataxis](koi_uh-dep-parataxis.html) – [punct](koi_uh-dep-punct.html) – [root](koi_uh-dep-root.html) – [vocative](koi_uh-dep-vocative.html) – [xcomp](koi_uh-dep-xcomp.html) – [xcomp:ds](koi_uh-dep-xcomp-ds.html)
+[acl](koi_uh-dep-acl.html) – [acl:relcl](koi_uh-dep-acl-relcl.html) – [advcl](koi_uh-dep-advcl.html) – [advmod](koi_uh-dep-advmod.html) – [advmod:deg](koi_uh-dep-advmod-deg.html) – [amod](koi_uh-dep-amod.html) – [appos](koi_uh-dep-appos.html) – [aux](koi_uh-dep-aux.html) – [aux:neg](koi_uh-dep-aux-neg.html) – [aux:pot](koi_uh-dep-aux-pot.html) – [case](koi_uh-dep-case.html) – [cc](koi_uh-dep-cc.html) – [cc:preconj](koi_uh-dep-cc-preconj.html) – [ccomp](koi_uh-dep-ccomp.html) – [compound:prt](koi_uh-dep-compound-prt.html) – [conj](koi_uh-dep-conj.html) – [cop](koi_uh-dep-cop.html) – [csubj](koi_uh-dep-csubj.html) – [det](koi_uh-dep-det.html) – [discourse](koi_uh-dep-discourse.html) – [dislocated](koi_uh-dep-dislocated.html) – [expl](koi_uh-dep-expl.html) – [fixed](koi_uh-dep-fixed.html) – [flat:name](koi_uh-dep-flat-name.html) – [list](koi_uh-dep-list.html) – [mark](koi_uh-dep-mark.html) – [nmod](koi_uh-dep-nmod.html) – [nmod:poss](koi_uh-dep-nmod-poss.html) – [nsubj](koi_uh-dep-nsubj.html) – [nsubj:cop](koi_uh-dep-nsubj-cop.html) – [nummod](koi_uh-dep-nummod.html) – [obj](koi_uh-dep-obj.html) – [obl](koi_uh-dep-obl.html) – [orphan](koi_uh-dep-orphan.html) – [parataxis](koi_uh-dep-parataxis.html) – [punct](koi_uh-dep-punct.html) – [root](koi_uh-dep-root.html) – [vocative](koi_uh-dep-vocative.html) – [xcomp](koi_uh-dep-xcomp.html) – [xcomp:ds](koi_uh-dep-xcomp-ds.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -146,7 +146,7 @@ Work connected to this treebank is described in following publication. If you us
 </ul>
 
 <ul>
-<li>This corpus contains 23 lemmas tagged as pronouns (PRON): ас, ачым, ачыс, ачыт, быд, кин, кинкӧ, кыкнанныс, кытшӧм, кытӧн, кӧда, ме, мый, мыйкӧ, мӧд, сыв, сія, тэ, эна, этö, эта, этаын, ӧтамӧд</li>
+<li>This corpus contains 22 lemmas tagged as pronouns (PRON): ас, ачым, ачыс, ачыт, быд, кин, кинкӧ, кыкнанныс, кытшӧм, кӧда, ме, мый, мыйкӧ, мӧд, сыв, сія, тэ, эна, этö, эта, этаын, ӧтамӧд</li>
 </ul>
 
 <ul>
@@ -373,7 +373,7 @@ Work connected to this treebank is described in following publication. If you us
       <li>ADP: вылын, бокын, коласын</li>
       <li>ADV: кытӧн, пыдын</li>
       <li>NOUN: юркарын, Арас, вылын, деревняын, дорас, дорын, керкуын, небоын, сарайын, увтын</li>
-      <li>PRON: кытӧн, этаын</li>
+      <li>PRON: этаын</li>
       <li>PROPN: Парижын</li>
     </ul>
   </li>
@@ -463,7 +463,7 @@ Work connected to this treebank is described in following publication. If you us
   <li>Neg
     <ul>
       <li>ADV: нем, ни</li>
-      <li>AUX: абу, эз, оз, эг, не, озӧ, абуöсь, ог, он, эгö</li>
+      <li>AUX: эз, абу, оз, эг, не, озӧ, абуöсь, ог, он, эгö</li>
       <li>VERB: эд</li>
     </ul>
   </li>
@@ -495,6 +495,14 @@ Work connected to this treebank is described in following publication. If you us
 
 <ul>
   <li><a>Mood</a></li>
+</ul>
+
+<ul>
+  <li>Cnd
+    <ul>
+      <li>AUX: бы</li>
+    </ul>
+  </li>
 </ul>
 
 <ul>
@@ -586,8 +594,8 @@ Work connected to this treebank is described in following publication. If you us
 <ul>
   <li>Int
     <ul>
-      <li>ADV: Кыдз, кытчӧ, кытӧн</li>
-      <li>PRON: Мый, Кытшӧм, кин, кытӧн</li>
+      <li>ADV: Кыдз, кытӧн, кытчӧ</li>
+      <li>PRON: Мый, Кытшӧм, кин</li>
     </ul>
   </li>
 </ul>
@@ -640,9 +648,17 @@ Work connected to this treebank is described in following publication. If you us
 </ul>
 
 <ul>
-  <li>MultDist
+  <li>Dist,Mult
     <ul>
       <li>ADV: кыкисьӧн, кыкисьӧн-куимисьӧн</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Mult,Ord
+    <ul>
+      <li>ADV: дасöтiсь</li>
     </ul>
   </li>
 </ul>
@@ -651,14 +667,6 @@ Work connected to this treebank is described in following publication. If you us
   <li>Ord
     <ul>
       <li>ADJ: Куимӧдз, витӧдз</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>OrdMult
-    <ul>
-      <li>ADV: дасöтiсь</li>
     </ul>
   </li>
 </ul>
@@ -761,12 +769,22 @@ Work connected to this treebank is described in following publication. If you us
       <li>Loc
         <ul>
           <li>ADP: дынӧ, бöрсянь, бердас, бердӧ, бокын, бокӧ, бӧрсянь, вылö, вылын, вылӧ</li>
-          <li>ADV: кытчӧ, кытӧн</li>
+          <li>ADV: татӧн, Веськытланьын, Ордчӧн, кытӧн, кытчӧ, пыдын</li>
         </ul>
       </li>
       <li>Man
         <ul>
           <li>ADV: кыдз</li>
+        </ul>
+      </li>
+      <li>Mod
+        <ul>
+          <li>ADV: может</li>
+        </ul>
+      </li>
+      <li>Tim
+        <ul>
+          <li>ADV: ни, сэсся, кӧр, талун, чожа, эшӧ, ӧддьӧн, ӧні, Мӧйму, Таво</li>
         </ul>
       </li>
     </ul>
@@ -812,6 +830,23 @@ Work connected to this treebank is described in following publication. If you us
       <li>VAbe
         <ul>
           <li>VERB-Conv: жалейттӧг, куриттӧг, ютӧг</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADV: сідз, кытӧн</li>
+        </ul>
+      </li>
+      <li>AUX
+        <ul>
+          <li>AUX: Абу</li>
         </ul>
       </li>
     </ul>
@@ -912,7 +947,7 @@ Work connected to this treebank is described in following publication. If you us
 </ul>
 
 <ul>
-<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: оз, вермыны, ковны.</li>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: оз, вермыны, бы, ковны.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -958,7 +993,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 20 relation subtypes: <a>acl:relcl</a>, <a>advcl:lcl</a>, <a>advcl:mcl</a>, <a>advcl:tcl</a>, <a>advmod:deg</a>, <a>advmod:lmod</a>, <a>advmod:mmod</a>, <a>advmod:tmod</a>, <a>aux:cnd</a>, <a>aux:neg</a>, <a>aux:pot</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>flat:name</a>, <a>nmod:lmod</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>obl:lmod</a>, <a>obl:tmod</a>, <a>xcomp:ds</a></li>
+<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>advmod:deg</a>, <a>aux:neg</a>, <a>aux:pot</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>xcomp:ds</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>flat</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

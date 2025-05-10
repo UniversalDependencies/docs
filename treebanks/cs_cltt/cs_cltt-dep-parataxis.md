@@ -38,7 +38,7 @@ The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a 
 14	způsobu	způsob	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	obl	21:obl:u:gen	_
 15	A	a	CCONJ	J^-------------	_	14	nmod	14:nmod	LId=a-1
 16	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	21	expl:pass	21:expl:pass	_
-17	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	20	case	20:case	LId=v-1
+17	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc|ExtPos=ADP	20	case	20:case	LId=v-1
 18	průběhu	průběh	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	fixed	17:fixed	_
 19	účetního	účetní	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	20	amod	20:amod	LId=účetní-1
 20	období	období	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	21	obl	21:obl:v_průběhu:gen	_
@@ -84,7 +84,7 @@ The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a 
 20	uvádějí	uvádět	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 21	tyto	tento	DET	PDFP1----------	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	22	det	22:det	_
 22	platby	platba	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	20	nsubj:pass	20:nsubj:pass	_
-23	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	26	case	26:case	LId=v-1
+23	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc|ExtPos=ADP	26	case	26:case	LId=v-1
 24	rámci	rámec	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	23	fixed	23:fixed	_
 25	provozní	provozní	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	26	amod	26:amod	_
 26	činnosti	činnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	20	obl	20:obl:v_rámci:gen	SpaceAfter=No

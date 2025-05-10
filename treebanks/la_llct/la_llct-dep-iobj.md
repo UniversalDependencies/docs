@@ -66,7 +66,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 8	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	9	cc	_	_
 9	iudicibus	iudex	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	7	conj	_	_
 10	interrogavimus	interrogo	VERB	v|v|1|p|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
-11	iam	iam	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim	13	det	_	_
+11	iam	iam	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim|ExtPos=DET	13	det	_	_
 12	dicto	dico	VERB	t|t|-|s|r|p|p|m|a|-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	11	fixed	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 13	Ghisiprandus	Ghisprandus	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	10	iobj	_	_
 14	presbiter	presbyter	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	13	appos	_	_

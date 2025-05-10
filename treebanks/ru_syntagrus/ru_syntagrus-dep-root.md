@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-87336 nodes (6%) are attached to their parents as `root`.
+87337 nodes (6%) are attached to their parents as `root`.
 
-87336 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.67099477878538.
+87337 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.67173133952391.
 
-The following 16 pairs of parts of speech are connected with `root`: -<tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (61950; 71% instances), -<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (10041; 11% instances), -<tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (8481; 10% instances), -<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (3441; 4% instances), -<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (1285; 1% instances), -<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (849; 1% instances), -<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (521; 1% instances), -<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (369; 0% instances), -<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (266; 0% instances), -<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (49; 0% instances), -<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (28; 0% instances), -<tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (26; 0% instances), -<tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (15; 0% instances), -<tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), -<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `root`: -<tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (61978; 71% instances), -<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (10066; 12% instances), -<tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (8349; 10% instances), -<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (3431; 4% instances), -<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (1274; 1% instances), -<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (770; 1% instances), -<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (517; 1% instances), -<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (436; 0% instances), -<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (339; 0% instances), -<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (78; 0% instances), -<tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (50; 0% instances), -<tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (26; 0% instances), -<tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (14; 0% instances), -<tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), -<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,7 +58,7 @@ The following 16 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 2 root	color:blue
 1	Алгоритм	алгоритм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj|4:nsubj	_
 2	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	0:root	_
-3	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	cop	4:cop	_
+3	быть	быть	AUX	_	VerbForm=Inf|Voice=Act	4	cop	4:cop	_
 4	применим	применимый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	2	xcomp	2:xcomp	_
 5	к	к	ADP	_	_	7	case	7:case	_
 6	разным	разный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	7	amod	7:amod	_

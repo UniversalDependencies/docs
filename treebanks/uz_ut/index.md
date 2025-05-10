@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.15 release
 The following people have contributed to making this treebank part of UD: Arofat Akhundjanova.
 
 Repository: [UD_Uzbek-UT](https://github.com/UniversalDependencies/UD_Uzbek-UT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uduz_ut215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uduz_ut216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -34,7 +34,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | annotated manually, natively in UD style |
+| Lemmas | annotated manually |
 | UPOS | annotated manually, natively in UD style |
 | XPOS | not available |
 | Features | annotated manually, natively in UD style |
@@ -53,8 +53,28 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 
 ## References
 
-* (citation)
-
+```
+@inproceedings{akhundjanova-talamo-2025-universal,
+title = "{U}niversal {D}ependencies Treebank for {U}zbek",
+author = "Akhundjanova, Arofat and
+Talamo, Luigi",
+editor = "Holdt, {\v{S{% raw %}}}{% endraw %}pela Arhar and
+Ilinykh, Nikolai and
+Scalvini, Barbara and
+Bruton, Micaella and
+Debess, Iben Nyholm and
+Tudor, Crina Madalina",
+booktitle = "Proceedings of the Third Workshop on Resources and Representations for Under-Resourced Languages and Domains (RESOURCEFUL-2025)",
+month = mar,
+year = "2025",
+address = "Tallinn, Estonia",
+publisher = "University of Tartu Library, Estonia",
+url = "https://aclanthology.org/2025.resourceful-1.1/",
+pages = "1--6",
+ISBN = "978-9908-53-121-2",
+abstract = "We present the first Universal Dependencies treebank for Uzbek, a low-resource language from the Turkic family. The treebank contains 500 sentences (5850 tokens) sourced from the news and fiction genres and it is annotated for lemmas, part-of-speech (POS) tags, morphological features, and dependency relations. We describe our methodology for building the treebank, which consists of a mix of manual and automatic annotation and discuss some constructions of the Uzbek language that pose challenges to the UD framework."
+}
+```
 
 ## Acknowledgments
 
@@ -66,21 +86,21 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 
 ## Features
 
-[Abbr](uz_ut-feat-Abbr.html) – [Aspect](uz_ut-feat-Aspect.html) – [Case](uz_ut-feat-Case.html) – [Degree](uz_ut-feat-Degree.html) – [Foreign](uz_ut-feat-Foreign.html) – [Mood](uz_ut-feat-Mood.html) – [Number](uz_ut-feat-Number.html) – [NumType](uz_ut-feat-NumType.html) – [Person](uz_ut-feat-Person.html) – [Polarity](uz_ut-feat-Polarity.html) – [Poss](uz_ut-feat-Poss.html) – [PronType](uz_ut-feat-PronType.html) – [Reflex](uz_ut-feat-Reflex.html) – [Tense](uz_ut-feat-Tense.html) – [VerbForm](uz_ut-feat-VerbForm.html) – [Voice](uz_ut-feat-Voice.html)
+[Abbr](uz_ut-feat-Abbr.html) – [Aspect](uz_ut-feat-Aspect.html) – [Case](uz_ut-feat-Case.html) – [Degree](uz_ut-feat-Degree.html) – [ExtPos](uz_ut-feat-ExtPos.html) – [Foreign](uz_ut-feat-Foreign.html) – [Mood](uz_ut-feat-Mood.html) – [Number](uz_ut-feat-Number.html) – [NumType](uz_ut-feat-NumType.html) – [Person](uz_ut-feat-Person.html) – [Polarity](uz_ut-feat-Polarity.html) – [Poss](uz_ut-feat-Poss.html) – [PronType](uz_ut-feat-PronType.html) – [Reflex](uz_ut-feat-Reflex.html) – [Tense](uz_ut-feat-Tense.html) – [VerbForm](uz_ut-feat-VerbForm.html) – [Voice](uz_ut-feat-Voice.html)
 
 ## Relations
 
-[acl](uz_ut-dep-acl.html) – [advcl](uz_ut-dep-advcl.html) – [advmod](uz_ut-dep-advmod.html) – [amod](uz_ut-dep-amod.html) – [appos](uz_ut-dep-appos.html) – [aux](uz_ut-dep-aux.html) – [case](uz_ut-dep-case.html) – [cc](uz_ut-dep-cc.html) – [ccomp](uz_ut-dep-ccomp.html) – [compound](uz_ut-dep-compound.html) – [compound:lvc](uz_ut-dep-compound-lvc.html) – [conj](uz_ut-dep-conj.html) – [cop](uz_ut-dep-cop.html) – [csubj](uz_ut-dep-csubj.html) – [det](uz_ut-dep-det.html) – [discourse](uz_ut-dep-discourse.html) – [expl](uz_ut-dep-expl.html) – [fixed](uz_ut-dep-fixed.html) – [flat](uz_ut-dep-flat.html) – [iobj](uz_ut-dep-iobj.html) – [mark](uz_ut-dep-mark.html) – [nmod](uz_ut-dep-nmod.html) – [nmod:poss](uz_ut-dep-nmod-poss.html) – [nsubj](uz_ut-dep-nsubj.html) – [nummod](uz_ut-dep-nummod.html) – [obj](uz_ut-dep-obj.html) – [obl](uz_ut-dep-obl.html) – [parataxis](uz_ut-dep-parataxis.html) – [punct](uz_ut-dep-punct.html) – [root](uz_ut-dep-root.html) – [vocative](uz_ut-dep-vocative.html) – [xcomp](uz_ut-dep-xcomp.html)
+[acl](uz_ut-dep-acl.html) – [advcl](uz_ut-dep-advcl.html) – [advmod](uz_ut-dep-advmod.html) – [amod](uz_ut-dep-amod.html) – [appos](uz_ut-dep-appos.html) – [aux](uz_ut-dep-aux.html) – [case](uz_ut-dep-case.html) – [cc](uz_ut-dep-cc.html) – [ccomp](uz_ut-dep-ccomp.html) – [compound](uz_ut-dep-compound.html) – [compound:lvc](uz_ut-dep-compound-lvc.html) – [compound:redup](uz_ut-dep-compound-redup.html) – [compound:svc](uz_ut-dep-compound-svc.html) – [conj](uz_ut-dep-conj.html) – [cop](uz_ut-dep-cop.html) – [csubj](uz_ut-dep-csubj.html) – [det](uz_ut-dep-det.html) – [discourse](uz_ut-dep-discourse.html) – [expl](uz_ut-dep-expl.html) – [flat](uz_ut-dep-flat.html) – [iobj](uz_ut-dep-iobj.html) – [mark](uz_ut-dep-mark.html) – [nmod](uz_ut-dep-nmod.html) – [nmod:poss](uz_ut-dep-nmod-poss.html) – [nsubj](uz_ut-dep-nsubj.html) – [nummod](uz_ut-dep-nummod.html) – [obj](uz_ut-dep-obj.html) – [obl](uz_ut-dep-obl.html) – [parataxis](uz_ut-dep-parataxis.html) – [punct](uz_ut-dep-punct.html) – [root](uz_ut-dep-root.html) – [vocative](uz_ut-dep-vocative.html) – [xcomp](uz_ut-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 500 sentences and 5850 tokens.</li>
+<li>This corpus contains 500 sentences and 5930 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 848 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 928 tokens (16%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -88,7 +108,7 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 </ul>
 
 <ul>
-<li>This corpus contains 504 types of words that contain both letters and punctuation. Examples: bo‘lib, yo‘q, o‘z, O‘zbekiston, bo‘lgan, bo‘yicha, o‘zi, bo‘ldi, o‘sha, yo‘l, ko‘p, so‘ng, bo‘lmaydi, bo‘lsa, e’lon, ko‘ra, ko‘rdi, ko‘z, ko‘zga, ma’lum, o‘tdi, o‘tgan, o‘tkazildi, qo‘ydi, so‘mlik, yomg‘ir, Erdo‘g‘an, Wi-Fi, bag‘rida, ba’zan, ba’zi, bo'lgan, bo'lsa, bo‘lar, bo‘ylab, g‘o‘za, ilg‘ab, ko‘chib, ko‘l, ko‘m-ko‘k, ko‘rgan, ko‘rib, ko‘rinadi, ko‘rsatgan, ko‘zlari, ma’naviyat, noto‘g‘ri, og‘ir, o‘g‘li, o‘n</li>
+<li>This corpus contains 8 types of words that contain both letters and punctuation. Examples: Wi-Fi, A., Gran-pri, Mail.ru, bir-biridan, ekan-ku, ketayotibdi-ku, olsa-da</li>
 </ul>
 
 <ul>
@@ -103,26 +123,27 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 </ul>
 
 <ul>
-<li>This corpus contains 15 word types tagged as particles (PART): Axir, barpo, bunyod, duch, g‘oyib, hal, halok, ham, nahot, paydo, sodir, tashkil, voz, xuddi, zabt</li>
+<li>This corpus contains 20 word types tagged as particles (PART): Axir, Kuppa, barpo, bunyod, duch, gʻala, gʻoyib, hal, halok, ham, koʻm, nahot, paydo, qip, sodir, tashkil, voz, xilma, xuddi, zabt</li>
 </ul>
 
 <ul>
-<li>This corpus contains 35 lemmas tagged as pronouns (PRON): Nuh, barcha, bir-biri, biz, bola, bu, hamma, hammayoq, kim, kimdir, mana, men, menga, ne, necha, nechta, neki, nima, oʻz, oʻzi, o‘sha, o‘z, qanaqa, qancha, qanday, qay, qayer, qayoq, qaysi, sen, shu, shunday, siz, u, ular</li>
+<li>This corpus contains 34 lemmas tagged as pronouns (PRON): Nuh, barcha, bir-biri, biz, bola, bu, hamma, hammayoq, kim, kimdir, mana, men, menga, ne, necha, nechta, neki, nima, oʻsha, oʻz, oʻzi, qanaqa, qancha, qanday, qay, qayer, qayoq, qaysi, sen, shu, shunday, siz, u, ular</li>
 </ul>
 
 <ul>
-<li>This corpus contains 24 lemmas tagged as determiners (DET): ayrim, barcha, bari, ba’zi, bir, biror, bu, bunday, butun, haligi, hamma, har, hech, jami, mana, marta, mazkur, o‘sha, shu, shunaqa, shuncha, shunday, u, ushbu</li>
+<li>This corpus contains 24 lemmas tagged as determiners (DET): ayrim, barcha, bari, baʼzi, bir, biror, bu, bunday, butun, haligi, hamma, har, hech, jami, mana, marta, mazkur, oʻsha, shu, shunaqa, shuncha, shunday, u, ushbu</li>
 </ul>
 
 <ul>
-<li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: barcha, bu, hamma, mana, o‘sha, shu, shunday, u</li>
+<li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: barcha, bu, hamma, mana, oʻsha, shu, shunday, u</li>
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): bo'l, edi, ekan, emas, kerak, lozim, mumkin, yoʻq</li>
+<li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): boʻl, edi, ekan, emas, kerak, lozim, mumkin, yoʻq</li>
 </ul>
 
 <ul>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: boʻl, yoʻq</li>
 </ul>
 
 <ul>
@@ -132,7 +153,7 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>Conv
   <ul>
-    <li>VERB: bo‘lib, olib, deb, qilib, borib, chiqib, kelib, kirib, ishlab, yetib</li>
+    <li>VERB: boʻlib, olib, deb, qilib, borib, chiqib, kelib, kirib, ishlab, yetib</li>
   </ul>
   </li>
 </ul>
@@ -140,8 +161,8 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: mumkin, edi, bo'ladi, bo'lgan, kerak</li>
-    <li>VERB: berdi, qildi, ega, bo‘ldi, qiladi, etdi, ketdi, beradi, keldi, oldi</li>
+    <li>AUX: mumkin, edi, boʻladi, boʻlgan, kerak</li>
+    <li>VERB: berdi, qildi, boʻldi, ega, qiladi, etdi, ketdi, beradi, boʻlgan, keldi</li>
   </ul>
   </li>
 </ul>
@@ -149,7 +170,7 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>Inf
   <ul>
-    <li>VERB: beradi, boshlasalar, bo‘lsa, olmasalar</li>
+    <li>VERB: beradi, boshlasalar, boʻlsa, olmasalar</li>
   </ul>
   </li>
 </ul>
@@ -157,7 +178,7 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>Part
   <ul>
-    <li>VERB: ketgan, bergan, bo‘lgan, kelayotgan, kelgan, qilgan, yurgan, keladigan, ketayotgan, ko‘rgan</li>
+    <li>VERB: ketgan, boʻlgan, bergan, kelayotgan, kelgan, qilgan, yurgan, keladigan, ketayotgan, koʻrgan</li>
   </ul>
   </li>
 </ul>
@@ -165,7 +186,7 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>Vnoun
   <ul>
-    <li>VERB: qilish, berish, etish, olish, o‘tish, saqlash, etilishi, aniqlash, aniqlashi, ayirboshlash</li>
+    <li>VERB: qilish, berish, etish, olish, oʻtish, saqlash, etilishi, aniqlash, aniqlashi, ayirboshlash</li>
   </ul>
   </li>
 </ul>
@@ -183,15 +204,14 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
   <li>Plur
     <ul>
       <li>ADJ: boshqalarga, sovuqlarida</li>
-      <li>ADV: Olis-olislardagi</li>
       <li>AUX: edilar, ekanligimizga, ekanmiz</li>
       <li>NOUN: ishlar, odamlar, bolalar, davlatlar, kunlari, muzokaralar, qushlar, rahbarlari, vakillari, voqealar</li>
-      <li>PRON: ular, bizning, ularning, biz, bular, o‘zlari, ularga, Bizda, Bizlar, Bolalarni</li>
+      <li>PRON: ular, bizning, ularning, biz, bular, oʻzlari, ularga, Bizda, Bizlar, Bolalarni</li>
       <li>PROPN: Dekabrchilar, Oyshalarning</li>
-      <li>VERB: kelishsa, Yig‘ilganlar, aytadilar, aytishlaricha, bermadilar, boramiz, borishdi, boshladilar, boshlasalar, boshlashadi</li>
-      <li>VERB-Fin: aytadilar, bermadilar, boramiz, borishdi, boshladilar, boshlashadi, bo‘lamiz, bo‘larmikinlar, bo‘ldilar, bo‘lishadi</li>
+      <li>VERB: kelishsa, Yigʻilganlar, aytadilar, aytishlaricha, bermadilar, boramiz, borishdi, boshladilar, boshlasalar, boshlashadi</li>
+      <li>VERB-Fin: aytadilar, bermadilar, boramiz, borishdi, boshladilar, boshlashadi, boʻlamiz, boʻlarmikinlar, boʻldilar, boʻlishadi</li>
       <li>VERB-Inf: boshlasalar, olmasalar</li>
-      <li>VERB-Part: Yig‘ilganlar</li>
+      <li>VERB-Part: Yigʻilganlar</li>
     </ul>
   </li>
 </ul>
@@ -199,13 +219,13 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>Sing
     <ul>
-      <li>AUX: edim, ekanman, bo'lsa, ekani, emasligi</li>
-      <li>NOUN: kuni, nafar, odam, yil, davlat, prezidenti, davom, doirasida, qishloq, xabar</li>
-      <li>PRON: men, o‘z, uning, o‘zi, u, unga, meni, seni, uni, menga</li>
-      <li>PROPN: O‘zbekiston, Toshkent, Rossiya, Ukraina, Koreya, Samarqand, Toshkentda, AQSh, Amerika, Asqar</li>
+      <li>AUX: edim, ekanman, boʻlsa, ekani, emasligi</li>
+      <li>NOUN: kuni, nafar, odam, yil, davlat, prezidenti, davom, doirasida, qishloq, ota</li>
+      <li>PRON: men, oʻz, uning, oʻzi, u, unga, meni, seni, uni, menga</li>
+      <li>PROPN: Oʻzbekiston, Toshkent, Rossiya, Ukraina, Koreya, Samarqand, Toshkentda, AQSh, Amerika, Asqar</li>
       <li>VERB: ketdi, berdim, qildi, Shoshmang, anglamadi, aylantirsin, aytsam, beray, bersam, biladi</li>
       <li>VERB-Fin: ketdi, berdim, qildi, Shoshmang, anglamadi, aylantirsin, beray, biladi, bilarmish, bordi</li>
-      <li>VERB-Part: bilganim, etayotgani, o‘qiyotganimni</li>
+      <li>VERB-Part: bilganim, etayotgani, oʻqiyotganimni</li>
       <li>VERB-Vnoun: ochishim</li>
     </ul>
   </li>
@@ -219,13 +239,13 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
   <li>Abl
     <ul>
       <li>ADV: Olislardan, oldindan</li>
-      <li>NOUN: tomonidan, boshidan, oldidan, orasidan, Agentlikdan, Oradan, Toshlardan, Trubkadan, a’zolaridan, balandlikdan</li>
+      <li>NOUN: tomonidan, boshidan, oldidan, orasidan, Agentlikdan, Oradan, Toshlardan, Trubkadan, aʼzolaridan, balandlikdan</li>
       <li>PRON: undan, Shundan, Ulardan, bir-biridan, mendan, shulardan</li>
       <li>PROPN: Qipchoqdan, Xudodan, Yaponiyadan</li>
-      <li>VERB: boshlanganidan, bo‘ysunishdan, kelishdan, kelishini, o‘sganligidan, o‘tkazilishidan, shoshilmasdan, shoshmasdan, sug‘urtirishdan, tanishtirgandan</li>
+      <li>VERB: boshlanganidan, boʻysunishdan, kelishdan, kelishini, oʻsganligidan, oʻtkazilishidan, shoshilmasdan, shoshmasdan, sugʻurtirishdan, tanishtirgandan</li>
       <li>VERB-Conv: shoshilmasdan</li>
       <li>VERB-Part: boshlanganidan, tanishtirgandan</li>
-      <li>VERB-Vnoun: bo‘ysunishdan, kelishdan, kelishini, o‘sganligidan, o‘tkazilishidan, sug‘urtirishdan, yorishmasdan</li>
+      <li>VERB-Vnoun: boʻysunishdan, kelishdan, kelishini, oʻsganligidan, oʻtkazilishidan, sugʻurtirishdan, yorishmasdan</li>
     </ul>
   </li>
 </ul>
@@ -235,11 +255,11 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
     <ul>
       <li>AUX: ekanini, ekanligini</li>
       <li>NOUN: darajasini, faoliyatini, imkonini, joylarni, kitobini, shijoatni, tadbirni, tilini, Maktabni, Tilni</li>
-      <li>PRON: seni, uni, meni, o‘zini, Bolalarni, Bularni, Buni, Hammasini, Ularni, nimalarnidir</li>
-      <li>PROPN: Akramjonni, Arishevni, Hojini, Karpni, Lolani, O‘lmasboyni, Qur’on, Xersonni, Xizrni</li>
-      <li>VERB: yo‘qligini, berayotganini, berganini, berishni, bermaganini, bo‘lishini, bo‘lishni, chiqarishni, cho‘kishni, kuyinishini</li>
-      <li>VERB-Part: berayotganini, berganini, bermaganini, o‘qiyotganimni, qilganini, qilinganini</li>
-      <li>VERB-Vnoun: berishni, bo‘lishini, bo‘lishni, chiqarishni, cho‘kishni, kuyinishini, oshirishni, o‘rnatishni, shovullashini, suyunishini</li>
+      <li>PRON: seni, uni, meni, oʻzini, Bolalarni, Bularni, Buni, Hammasini, Ularni, nimalarnidir</li>
+      <li>PROPN: Akramjonni, Arishevni, Hojini, Karpni, Lolani, Oʻlmasboyni, Qurʼon, Xersonni, Xizrni</li>
+      <li>VERB: yoʻqligini, berayotganini, berganini, berishni, bermaganini, boʻlishini, boʻlishni, chiqarishni, choʻkishni, kuyinishini</li>
+      <li>VERB-Part: berayotganini, berganini, bermaganini, oʻqiyotganimni, qilganini, qilinganini</li>
+      <li>VERB-Vnoun: berishni, boʻlishini, boʻlishni, chiqarishni, choʻkishni, kuyinishini, oshirishni, oʻrnatishni, shovullashini, suyunishini</li>
     </ul>
   </li>
 </ul>
@@ -250,12 +270,12 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
       <li>ADJ: kulrangga, boshqalarga</li>
       <li>ADV: avvaliga</li>
       <li>AUX: ekaniga, mumkinligiga, ekanligimizga</li>
-      <li>NOUN: foizga, ishga, ko‘zga, oldiga, qarorga, amalga, boshiga, evaziga, hayotiga, odamga</li>
+      <li>NOUN: foizga, ishga, koʻzga, oldiga, qarorga, amalga, boshiga, evaziga, hayotiga, odamga</li>
       <li>NUM: biriga</li>
-      <li>PRON: unga, bunga, menga, o‘ziga, ularga, O‘zingga, barchalarimizga, kimga, nimalargadir, qayoqqa</li>
-      <li>PROPN: O‘zbekistonga, Samarqandga, AQSHga, AQShga, Germaniyaga, G‘anijonga, Italiyaga, Koreyaga, Ma’rifatxonga, Oʻzbekistonga</li>
-      <li>VERB: yurganga, borilishiga, bo‘lishiga, chaqirishga, eksportga, erishishga, etishga, foydalanishga, ishlashga, koronavirusga</li>
-      <li>VERB-Vnoun: borilishiga, bo‘lishiga, chaqirishga, erishishga, etishga, foydalanishga, ishlashga, olishga, oshirishga, o’rganishga</li>
+      <li>PRON: unga, bunga, menga, oʻziga, ularga, Oʻzingga, barchalarimizga, kimga, nimalargadir, qayoqqa</li>
+      <li>PROPN: Oʻzbekistonga, Samarqandga, AQSHga, AQShga, Germaniyaga, Gʻanijonga, Italiyaga, Koreyaga, Maʼrifatxonga, Qutbiddinovga</li>
+      <li>VERB: yurganga, borilishiga, boʻlishiga, chaqirishga, eksportga, erishishga, etishga, foydalanishga, ishlashga, koronavirusga</li>
+      <li>VERB-Vnoun: borilishiga, boʻlishiga, chaqirishga, erishishga, etishga, foydalanishga, ishlashga, olishga, oshirishga, oʼrganishga</li>
     </ul>
   </li>
 </ul>
@@ -263,9 +283,9 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>Gen
     <ul>
-      <li>NOUN: dunyoning, yilning, bozorining, haydovchilarning, mahsulotning, mamlakat, markazi, odamlarning, so‘fining, yil</li>
-      <li>PRON: uning, o‘z, bizning, ularning, buning, mening, barchamizning, kimningdir, o‘zimning, o‘zining</li>
-      <li>PROPN: O‘zbekiston, Abdulhakimning, Argentinaning, Davronning, Erdo‘g‘anning, E’zozaning, Germaniyaning, Hamidaning, Jalolovning, Jayxunning</li>
+      <li>NOUN: dunyoning, yilning, bozorining, haydovchilarning, mahsulotning, mamlakat, markazi, odamlarning, soʻfining, yil</li>
+      <li>PRON: uning, oʻz, bizning, ularning, buning, mening, barchamizning, kimningdir, oʻzimning, oʻzining</li>
+      <li>PROPN: Oʻzbekiston, Abdulhakimning, Argentinaning, Davronning, Erdoʻgʻanning, Eʼzozaning, Germaniyaning, Hamidaning, Jalolovning, Jayxunning</li>
     </ul>
   </li>
 </ul>
@@ -274,11 +294,11 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
   <li>Loc
     <ul>
       <li>ADJ: yuksakda, sovuqlarida</li>
-      <li>ADV: Nariroqda, yuqorida, Olis-olislardagi</li>
-      <li>NOUN: doirasida, yerda, kunda, oqibatida, tumanida, viloyatida, bag‘rida, bahsda, boshida, davomida</li>
+      <li>ADV: Nariroqda, yuqorida</li>
+      <li>NOUN: doirasida, yerda, kunda, oqibatida, tumanida, viloyatida, Yigʻilishda, bagʻrida, bahsda, boshida</li>
       <li>NUM: 17.50da, mingdan</li>
-      <li>PRON: unda, Bizda, Qayerlardadir, o‘shanda, o‘zida, ularda</li>
-      <li>PROPN: Toshkentda, AQSHdagi, Buxoroda, Eronda, Hongkongda, Iroqda, Isroilda, Istanbuldagi, Ka’bada, Kolumbiyada</li>
+      <li>PRON: unda, Bizda, Qayerlardadir, oʻshanda, oʻzida, ularda</li>
+      <li>PROPN: Toshkentda, Oʻzbekistonda, AQSHdagi, Buxoroda, Eronda, Hongkongda, Iroqda, Isroilda, Istanbuldagi, Kaʼbada</li>
       <li>VERB-Vnoun: qilishda, tushganida</li>
     </ul>
   </li>
@@ -288,9 +308,9 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
   <li>Nom
     <ul>
       <li>AUX: ekani, emasligi</li>
-      <li>NOUN: kuni, nafar, odam, davlat, davom, prezidenti, yil, qishloq, xabar, axborot</li>
-      <li>PRON: men, o‘zi, oʻz, u, ular, kim, o‘z, o‘zlari, Bizlar, Bu</li>
-      <li>PROPN: O‘zbekiston, Toshkent, Rossiya, Koreya, Samarqand, Ukraina, AQSh, Amerika, Asqar, Buxoro</li>
+      <li>NOUN: kuni, nafar, odam, davlat, davom, prezidenti, yil, ota, qishloq, xabar</li>
+      <li>PRON: men, oʻz, oʻzi, u, ular, kim, oʻzlari, Bizlar, Bu, Bular</li>
+      <li>PROPN: Oʻzbekiston, Toshkent, Rossiya, Koreya, Samarqand, Ukraina, AQSh, Amerika, Asqar, Buxoro</li>
       <li>VERB: tejovchi</li>
     </ul>
   </li>
@@ -322,10 +342,10 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
   <li>Neg
     <ul>
       <li>AUX: emas, emasmi, yoʻq</li>
-      <li>VERB: yo‘q, bo‘lmaydi, bilmagan, ketmas, anglamadi, bermaganini, bilmay, bilolmaydi, chiqavermaydi, chiqmay</li>
-      <li>VERB-Conv: bilmay, chiqmay, kirmay, ochmasdan, o‘tmay, qilmasdan, qoqmay, shoshilmasdan, sig‘may</li>
-      <li>VERB-Fin: bo‘lmaydi, anglamadi, bilolmaydi, chiqavermaydi, foydalanmagan, ketmayaptimi, kutilmaydi, olmaydi, ololmaydi, o‘tolmaymiz</li>
-      <li>VERB-Part: bilmagan, bermaganini, kelmaydigan, ko‘rmagan, ko‘rsatilmagan, kutilmagan, otmagan</li>
+      <li>VERB: boʻlmaydi, bilmagan, ketmas, anglamadi, bermaganini, bilmay, bilolmaydi, chiqavermaydi, chiqmay, foydalanmagan</li>
+      <li>VERB-Conv: bilmay, chiqmay, kirmay, ochmasdan, oʻtmay, qilmasdan, qoqmay, shoshilmasdan, sigʻmay</li>
+      <li>VERB-Fin: boʻlmaydi, anglamadi, bilolmaydi, chiqavermaydi, foydalanmagan, ketmayaptimi, kutilmaydi, olmaydi, ololmaydi, oʻtolmaymiz</li>
+      <li>VERB-Part: bilmagan, bermaganini, kelmaydigan, koʻrmagan, koʻrsatilmagan, kutilmagan, otmagan</li>
     </ul>
   </li>
 </ul>
@@ -341,8 +361,8 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>Prog
     <ul>
-      <li>VERB: bormoqda, etmoqda, oshirilmoqda, o‘tmoqda, qilmoqda, bormoqdaman, bo‘lmoqda, chiyillar, cho‘kmoqda, ettirmoqda</li>
-      <li>VERB-Fin: bormoqda, etmoqda, oshirilmoqda, o‘tmoqda, qilmoqda, bormoqdaman, bo‘lmoqda, cho‘kmoqda, ettirmoqda, foydalanilmoqda</li>
+      <li>VERB: bormoqda, etmoqda, oshirilmoqda, oʻtmoqda, qilmoqda, bormoqdaman, boʻlmoqda, chiyillar, choʻkmoqda, ettirmoqda</li>
+      <li>VERB-Fin: bormoqda, etmoqda, oshirilmoqda, oʻtmoqda, qilmoqda, bormoqdaman, boʻlmoqda, choʻkmoqda, ettirmoqda, foydalanilmoqda</li>
     </ul>
   </li>
 </ul>
@@ -354,9 +374,9 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>Cnd
     <ul>
-      <li>VERB: kelishsa, kelsa, aytsam, bersam, borsangiz, boshlasalar, bo‘lsa, chiqsa, ekilsa, ko`rsatsa</li>
-      <li>VERB-Fin: borsangiz, kelishsa, ko`rsatsa</li>
-      <li>VERB-Inf: boshlasalar, bo‘lsa, olmasalar</li>
+      <li>VERB: kelishsa, kelsa, aytsam, bersam, borsangiz, boshlasalar, boʻlsa, chiqsa, ekilsa, koʻrsatsa</li>
+      <li>VERB-Fin: borsangiz, kelishsa, koʻrsatsa</li>
+      <li>VERB-Inf: boshlasalar, boʻlsa, olmasalar</li>
     </ul>
   </li>
 </ul>
@@ -372,8 +392,8 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>Ind
     <ul>
-      <li>VERB: berdi, qildi, bo‘ldi, qiladi, beradi, etdi, ketdi, keldi, oldi, boshladi</li>
-      <li>VERB-Fin: berdi, qildi, bo‘ldi, qiladi, etdi, ketdi, beradi, keldi, oldi, boshladi</li>
+      <li>VERB: berdi, qildi, boʻldi, qiladi, beradi, etdi, ketdi, boʻlgan, keldi, oldi</li>
+      <li>VERB-Fin: berdi, qildi, boʻldi, qiladi, etdi, ketdi, beradi, boʻlgan, keldi, oldi</li>
       <li>VERB-Inf: beradi</li>
       <li>VERB-Part: berilgan, kelayotgandi, yozilgan</li>
     </ul>
@@ -383,8 +403,8 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>Int
     <ul>
-      <li>VERB: borasanmi, bormi, bo‘ladimi, bo‘larmikinlar, egami, ketmayaptimi, ko‘rdi, ko‘rganmisiz, qilganmi, qilmadingiz</li>
-      <li>VERB-Fin: bormi, bo‘ladimi, bo‘larmikinlar, ketmayaptimi, ko‘rdi, ko‘rganmisiz, qilganmi, qilmadingiz, qilyaptiykin</li>
+      <li>VERB: borasanmi, boʻladimi, boʻlarmikinlar, egami, ketmayaptimi, koʻrdi, koʻrganmisiz, qilganmi, qilmadingiz, qilyaptiykin</li>
+      <li>VERB-Fin: boʻladimi, boʻlarmikinlar, ketmayaptimi, koʻrdi, koʻrganmisiz, qilganmi, qilmadingiz, qilyaptiykin</li>
     </ul>
   </li>
 </ul>
@@ -400,7 +420,7 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>Pot
     <ul>
-      <li>VERB-Fin: bo‘lmaydi, ololmaydi</li>
+      <li>VERB-Fin: boʻlmaydi, ololmaydi</li>
     </ul>
   </li>
 </ul>
@@ -412,7 +432,7 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>Fut
     <ul>
-      <li>AUX-Fin: bo'ladi</li>
+      <li>AUX-Fin: boʻladi</li>
       <li>VERB: beradi, qiladi, oladi, aniqlaydi, aylantirsin, aytadilar, aytsam, beriladi, berilsin, bersam</li>
       <li>VERB-Fin: beradi, qiladi, oladi, aniqlaydi, aylantirsin, aytadilar, beriladi, berilsin, bilolmaydi, boramiz</li>
       <li>VERB-Inf: beradi, boshlasalar, olmasalar</li>
@@ -423,10 +443,10 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>Past
     <ul>
-      <li>AUX: edi, edim, edilar, bo'lgan</li>
-      <li>AUX-Fin: edi, bo'lgan</li>
-      <li>VERB: berdi, qildi, bo‘ldi, etdi, ketdi, keldi, oldi, qilindi, boshladi, bo‘lgan</li>
-      <li>VERB-Fin: berdi, qildi, bo‘ldi, etdi, ketdi, keldi, oldi, qilindi, boshladi, bo‘lgan</li>
+      <li>AUX: edi, edim, edilar, boʻlgan</li>
+      <li>AUX-Fin: edi, boʻlgan</li>
+      <li>VERB: berdi, qildi, boʻldi, etdi, ketdi, boʻlgan, keldi, oldi, qilindi, boshladi</li>
+      <li>VERB-Fin: berdi, qildi, boʻldi, etdi, ketdi, boʻlgan, keldi, oldi, qilindi, boshladi</li>
       <li>VERB-Part: berilgan, keltirilgan, yozilgan</li>
     </ul>
   </li>
@@ -437,9 +457,9 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
     <ul>
       <li>AUX: ekanligini, kerak</li>
       <li>AUX-Fin: kerak</li>
-      <li>VERB: bor, ega, qiladi, mavjud, qilmoqda, qoladi, bildiradi, bormoqda, bo‘lmaydi, etadi</li>
+      <li>VERB: ega, qiladi, mavjud, qilmoqda, qoladi, bildiradi, bormoqda, boʻlmaydi, etadi, etmoqda</li>
       <li>VERB-Conv: qisqarib</li>
-      <li>VERB-Fin: ega, qiladi, qilmoqda, qoladi, bildiradi, bormoqda, bo‘lmaydi, etadi, etmoqda, hisoblanadi</li>
+      <li>VERB-Fin: ega, qiladi, qilmoqda, qoladi, bildiradi, bormoqda, boʻlmaydi, etadi, etmoqda, hisoblanadi</li>
       <li>VERB-Part: kelayotgan, etayotgani, kelayotgandi, yaqinlashayotgan</li>
     </ul>
   </li>
@@ -452,9 +472,9 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: qilindi, berilgan, etildi, olingan, o‘tkazildi, qilingan, etiladi, kiritildi, oshirilmoqda, qilinadi</li>
-      <li>VERB-Fin: qilindi, etildi, o‘tkazildi, etiladi, kiritildi, olingan, oshirilmoqda, qilinadi, qurilgan, taqdirlandi</li>
-      <li>VERB-Part: berilgan, qilingan, qo‘yilgan, yaratilgan, yozilgan, belgilangan, bildirilgan, bitilgan, kelinadigan, keltirilgan</li>
+      <li>VERB: qilindi, berilgan, etildi, olingan, oʻtkazildi, qilingan, etiladi, kiritildi, oshirilmoqda, oʻtkaziladi</li>
+      <li>VERB-Fin: qilindi, etildi, oʻtkazildi, etiladi, kiritildi, olingan, oshirilmoqda, oʻtkaziladi, qilinadi, qurilgan</li>
+      <li>VERB-Part: berilgan, qilingan, qoʻyilgan, yaratilgan, yozilgan, belgilangan, bildirilgan, bitilgan, kelinadigan, keltirilgan</li>
       <li>VERB-Vnoun: borilishiga, etilishi, tasdiqlanishi</li>
     </ul>
   </li>
@@ -472,7 +492,7 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
   <li>Dem
     <ul>
       <li>ADV: shundoq</li>
-      <li>DET: bu, shu, ushbu, mazkur, o‘sha, shunday, u, Mana, bunday, shunaqa</li>
+      <li>DET: bu, shu, ushbu, mazkur, oʻsha, shunday, u, Mana, bunday, shunaqa</li>
       <li>PRON: bu, mana, shu, u, bunga, Shundan, bular, buning, shunday, Bularni</li>
     </ul>
   </li>
@@ -507,7 +527,7 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: men, o‘z, uning, u, ular, o‘zi, unga, bizning, meni, seni</li>
+      <li>PRON: oʻz, men, uning, oʻzi, u, ular, unga, bizning, meni, seni</li>
     </ul>
   </li>
 </ul>
@@ -523,7 +543,7 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: qanday</li>
+      <li>ADV: qanday</li>
     </ul>
   </li>
 </ul>
@@ -545,7 +565,7 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
   <li>Card
     <ul>
       <li>ADV: birgina</li>
-      <li>NUM: bir, biri, ikki, 12, 1, 10, 2020, 4, mln, 100</li>
+      <li>NUM: bir, biri, ikki, 12, 10, 4, 1, 2020, mln, 100</li>
     </ul>
   </li>
 </ul>
@@ -569,7 +589,7 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>Range
     <ul>
-      <li>NUM: 4-16, 8-10, ikki-uchta, milliardlab, yetti-sakkiz, yuzlab</li>
+      <li>NUM: milliardlab, sakkiz, yetti, yuzlab</li>
     </ul>
   </li>
 </ul>
@@ -590,8 +610,8 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
   <li>Yes
     <ul>
       <li>NOUN: davlat, dunyoning, kompaniyasi, yilning, Respublikasi, bozorining, gul, mahsulotning, mamlakat, markazi</li>
-      <li>PRON: uning, o‘z, ularning, bizning, buning, mening, barchamizning, kimningdir, o‘zi, o‘zimning</li>
-      <li>PROPN: O‘zbekiston, Abdulhakimning, Argentinaning, Davronning, Erdo‘g‘anning, E’zozaning, Germaniyaning, Hamidaning, Jalolovning, Jayxunning</li>
+      <li>PRON: uning, oʻz, ularning, bizning, buning, mening, barchamizning, kimningdir, oʻzi, oʻzimning</li>
+      <li>PROPN: Oʻzbekiston, Abdulhakimning, Argentinaning, Davronning, Erdoʻgʻanning, Eʼzozaning, Germaniyaning, Hamidaning, Jalolovning, Jayxunning</li>
     </ul>
   </li>
 </ul>
@@ -603,7 +623,7 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: o‘zi, oʻzi, o‘ziga</li>
+      <li>PRON: oʻzi, oʻziga</li>
     </ul>
   </li>
 </ul>
@@ -617,10 +637,10 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
     <ul>
       <li>ADJ: hayronman</li>
       <li>AUX: edim, ekanman, ekanligimizga</li>
-      <li>PRON: men, bizning, meni, menga, mening, Biz, Bizda, Bizlar, O‘zim, mendan</li>
-      <li>VERB: berdim, aytsam, beray, bersam, bilganim, boramiz, bordim, bormoqdaman, bo‘lamiz, bo‘ldim</li>
-      <li>VERB-Fin: berdim, beray, boramiz, bordim, bormoqdaman, bo‘lamiz, bo‘ldim, chekdim, kelganimda, ko‘rganman</li>
-      <li>VERB-Part: bilganim, o‘qiyotganimni</li>
+      <li>PRON: men, bizning, meni, menga, mening, Biz, Bizda, Bizlar, Oʻzim, mendan</li>
+      <li>VERB: berdim, aytsam, beray, bersam, bilganim, boramiz, bordim, bormoqdaman, boʻlamiz, boʻldim</li>
+      <li>VERB-Fin: berdim, beray, boramiz, bordim, bormoqdaman, boʻlamiz, boʻldim, chekdim, kelganimda, koʻrganman</li>
+      <li>VERB-Part: bilganim, oʻqiyotganimni</li>
       <li>VERB-Vnoun: ochishim</li>
     </ul>
   </li>
@@ -639,13 +659,13 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 <ul>
   <li>3
     <ul>
-      <li>AUX: bo'lsa, edilar, bo'ladi, bo'lgan, ekanmiz</li>
-      <li>AUX-Fin: bo'ladi, bo'lgan</li>
-      <li>PRON: o‘z, uning, u, ular, o‘zi, unga, ularning, uni, oʻz, biz</li>
-      <li>VERB: berdi, qildi, bo‘ldi, qiladi, beradi, etdi, ketdi, keldi, oldi, boshladi</li>
+      <li>AUX: boʻlsa, edilar, boʻladi, boʻlgan, ekanmiz</li>
+      <li>AUX-Fin: boʻladi, boʻlgan</li>
+      <li>PRON: oʻz, uning, oʻzi, u, ular, unga, ularning, uni, biz, oʻziga</li>
+      <li>VERB: berdi, qildi, boʻldi, qiladi, beradi, etdi, ketdi, boʻlgan, keldi, oldi</li>
       <li>VERB-Conv: qisqarib</li>
-      <li>VERB-Fin: berdi, qildi, bo‘ldi, qiladi, etdi, ketdi, beradi, keldi, oldi, boshladi</li>
-      <li>VERB-Inf: beradi, boshlasalar, bo‘lsa, olmasalar</li>
+      <li>VERB-Fin: berdi, qildi, boʻldi, qiladi, etdi, ketdi, beradi, boʻlgan, keldi, oldi</li>
+      <li>VERB-Inf: beradi, boshlasalar, boʻlsa, olmasalar</li>
       <li>VERB-Part: kelayotgan, etayotgani, kelayotgandi, yaqinlashayotgan, yoqqani</li>
       <li>VERB-Vnoun: berishi, topshirishiga</li>
     </ul>
@@ -666,6 +686,18 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
           <li>NOUN: AJ, IIBB, IShID, JKning, OAV, OKMK, ZTE</li>
           <li>NUM: mln</li>
           <li>PROPN: A., BBC, AQSH, AQSHdagi, AQSHga, AQSh, AQShga, KXDR, MDH, Oʻzbekistonga</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>ADJ: yarasha</li>
         </ul>
       </li>
     </ul>
@@ -695,7 +727,7 @@ Uzbek-UT consists of 500 sentences, 250 of which were sourced from news articles
 </ul>
 
 <ul>
-<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: edi, mumkin, bo'l, emas, kerak, ekan, lozim, yoʻq.</li>
+<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: edi, mumkin, boʻl, emas, kerak, lozim, ekan, yoʻq.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -704,27 +736,28 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Nom (30)</li>
-      <li>VERB--PRON (1)</li>
-      <li>VERB--PRON-Nom (2)</li>
+      <li>VERB--NOUN-Nom (24)</li>
+      <li>VERB--PRON (2)</li>
+      <li>VERB--PRON-Nom (3)</li>
       <li>VERB-Conv--NOUN (1)</li>
-      <li>VERB-Conv--NOUN-Nom (63)</li>
-      <li>VERB-Conv--PRON (4)</li>
-      <li>VERB-Conv--PRON-Nom (3)</li>
+      <li>VERB-Conv--NOUN-Nom (43)</li>
+      <li>VERB-Conv--PRON (3)</li>
+      <li>VERB-Conv--PRON-Nom (2)</li>
       <li>VERB-Fin--NOUN (1)</li>
-      <li>VERB-Fin--NOUN-Nom (208)</li>
+      <li>VERB-Fin--NOUN-Nom (239)</li>
       <li>VERB-Fin--PRON (11)</li>
-      <li>VERB-Fin--PRON-Nom (13)</li>
-      <li>VERB-Part--NOUN (2)</li>
-      <li>VERB-Part--NOUN-Nom (20)</li>
+      <li>VERB-Fin--PRON-Nom (14)</li>
+      <li>VERB-Inf--NOUN-Nom (1)</li>
+      <li>VERB-Part--NOUN (4)</li>
+      <li>VERB-Part--NOUN-Gen (1)</li>
+      <li>VERB-Part--NOUN-Nom (28)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
       <li>VERB-Vnoun--NOUN (1)</li>
       <li>VERB-Vnoun--NOUN-Gen (1)</li>
       <li>VERB-Vnoun--NOUN-Loc (1)</li>
-      <li>VERB-Vnoun--NOUN-Nom (13)</li>
-      <li>VERB-Vnoun--NOUN-Nom-ADP(bilan) (1)</li>
-      <li>VERB-Vnoun--PRON (1)</li>
+      <li>VERB-Vnoun--NOUN-Nom (17)</li>
+      <li>VERB-Vnoun--PRON (2)</li>
     </ul>
   </li>
 </ul>
@@ -734,31 +767,31 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Acc (6)</li>
       <li>VERB--NOUN-Dat (1)</li>
-      <li>VERB--NOUN-Nom (7)</li>
+      <li>VERB--NOUN-Nom (4)</li>
       <li>VERB--PRON (1)</li>
       <li>VERB--PRON-Acc (2)</li>
       <li>VERB-Conv--NOUN-Abl (2)</li>
-      <li>VERB-Conv--NOUN-Acc (35)</li>
+      <li>VERB-Conv--NOUN-Acc (28)</li>
       <li>VERB-Conv--NOUN-Nom (11)</li>
-      <li>VERB-Conv--PRON-Acc (4)</li>
+      <li>VERB-Conv--PRON-Acc (2)</li>
       <li>VERB-Conv--PRON-Dat (1)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
-      <li>VERB-Fin--NOUN-Abl (3)</li>
-      <li>VERB-Fin--NOUN-Acc (50)</li>
-      <li>VERB-Fin--NOUN-Dat (12)</li>
+      <li>VERB-Fin--NOUN-Abl (2)</li>
+      <li>VERB-Fin--NOUN-Acc (61)</li>
+      <li>VERB-Fin--NOUN-Dat (11)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(qarata) (1)</li>
       <li>VERB-Fin--NOUN-Nom (18)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(bilan) (1)</li>
-      <li>VERB-Fin--PRON (4)</li>
-      <li>VERB-Fin--PRON-Acc (14)</li>
+      <li>VERB-Fin--PRON (2)</li>
+      <li>VERB-Fin--PRON-Acc (16)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN-Acc (7)</li>
-      <li>VERB-Part--NOUN-Nom (5)</li>
+      <li>VERB-Part--NOUN-Acc (9)</li>
+      <li>VERB-Part--NOUN-Nom (6)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
-      <li>VERB-Vnoun--NOUN-Acc (13)</li>
-      <li>VERB-Vnoun--NOUN-Dat (2)</li>
-      <li>VERB-Vnoun--NOUN-Nom (12)</li>
+      <li>VERB-Vnoun--NOUN-Acc (18)</li>
+      <li>VERB-Vnoun--NOUN-Dat (3)</li>
+      <li>VERB-Vnoun--NOUN-Nom (13)</li>
       <li>VERB-Vnoun--PRON-Acc (2)</li>
     </ul>
   </li>
@@ -770,16 +803,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Dat (1)</li>
       <li>VERB--PRON-Dat (2)</li>
       <li>VERB--PRON-Nom (1)</li>
-      <li>VERB-Conv--NOUN-Dat (7)</li>
+      <li>VERB-Conv--NOUN-Dat (4)</li>
       <li>VERB-Conv--NOUN-Nom (1)</li>
-      <li>VERB-Conv--PRON-Dat (2)</li>
+      <li>VERB-Conv--PRON-Dat (1)</li>
       <li>VERB-Fin--NOUN (1)</li>
-      <li>VERB-Fin--NOUN-Abl (2)</li>
-      <li>VERB-Fin--NOUN-Dat (27)</li>
+      <li>VERB-Fin--NOUN-Abl (1)</li>
+      <li>VERB-Fin--NOUN-Dat (28)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(bilan) (1)</li>
-      <li>VERB-Fin--PRON-Dat (5)</li>
+      <li>VERB-Fin--PRON-Dat (6)</li>
       <li>VERB-Part--NOUN-Dat (6)</li>
-      <li>VERB-Vnoun--NOUN-Dat (3)</li>
+      <li>VERB-Vnoun--NOUN-Dat (2)</li>
       <li>VERB-Vnoun--NOUN-Dat-ADP(qarshi) (1)</li>
       <li>VERB-Vnoun--PRON-Dat (1)</li>
     </ul>
@@ -791,12 +824,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: qabul o‘ziga</li>
+  <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: qabul oʻziga</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 2 relation subtypes: <a>compound:lvc</a>, <a>nmod:poss</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>This corpus uses 4 relation subtypes: <a>compound:lvc</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>nmod:poss</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

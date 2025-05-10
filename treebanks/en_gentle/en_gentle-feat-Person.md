@@ -11,14 +11,14 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 2022 tokens (11%) have a non-empty value of `Person`.
 413 types (11%) occur at least once with a non-empty value of `Person`.
-282 lemmas (9%) occur at least once with a non-empty value of `Person`.
+281 lemmas (9%) occur at least once with a non-empty value of `Person`.
 The feature is used with 3 part-of-speech tags: <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (946; 5% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (613; 3% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (463; 3% instances).
 
 ### `PRON`
 
 946 <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> tokens (80% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (945; 100%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (791; 84%), <tt><a href="en_gentle-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (709; 75%), <tt><a href="en_gentle-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (615; 65%), <tt><a href="en_gentle-feat-Case.html">Case</a></tt><tt>=Nom</tt> (522; 55%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (945; 100%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (791; 84%), <tt><a href="en_gentle-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (709; 75%), <tt><a href="en_gentle-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (615; 65%), <tt><a href="en_gentle-feat-Case.html">Case</a></tt><tt>=Nom</tt> (523; 55%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -33,8 +33,6 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><tt><a href="en_gentle-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>I, me</em></td><td><em>PI</em></td></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="en_gentle-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>Ii</em></td></tr>
 </table>
-
-`Person` seems to be **lexical feature** of `PRON`. 92% lemmas (23) occur only with one value of `Person`.
 
 ### `VERB`
 
@@ -87,7 +85,8 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (227; 51%),
 <tt>VERB --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> VERB</tt> (33; 53%),
-<tt>AUX --[<tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (7; 70%),
+<tt>AUX --[<tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (8; 73%),
+<tt>VERB --[<tt><a href="en_gentle-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="en_gentle-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="en_gentle-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (1; 100%),
 <tt>VERB --[<tt><a href="en_gentle-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (1; 100%).

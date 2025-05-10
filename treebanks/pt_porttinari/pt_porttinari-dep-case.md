@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-22531 nodes (13%) are attached to their parents as `case`.
+22535 nodes (13%) are attached to their parents as `case`.
 
-22531 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.67662331898273.
+22535 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.6765919680497.
 
-The following 16 pairs of parts of speech are connected with `case`: <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (16289; 72% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (3997; 18% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (1075; 5% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (619; 3% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (205; 1% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (196; 1% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (68; 0% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (58; 0% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `case`: <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (16290; 72% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (3997; 18% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (1075; 5% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (622; 3% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (205; 1% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (196; 1% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (68; 0% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (58; 0% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -37,7 +37,7 @@ The following 16 pairs of parts of speech are connected with `case`: <tt><a href
 13	em	em	ADP	_	_	15	case	15:case	_
 14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	15:det	_
 15	mão	mão	NOUN	_	Gender=Fem|Number=Sing	12	nmod	12:nmod:em	SpaceAfter=No
-16	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -60,7 +60,7 @@ The following 16 pairs of parts of speech are connected with `case`: <tt><a href
 10	favorável	favorável	ADJ	_	Number=Sing	0	root	0:root	_
 11	a	a	ADP	_	_	12	case	12:case	_
 12	Aécio	Aécio	PROPN	_	_	10	obl	10:obl:a	SpaceAfter=No
-13	.	.	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
+13	.	.	PUNCT	_	_	10	punct	10:punct	_
 
 ~~~
 
@@ -82,7 +82,7 @@ The following 16 pairs of parts of speech are connected with `case`: <tt><a href
 9	meio	meio	NOUN	_	Gender=Masc|Number=Sing	3	obl	3:obl:em	_
 10	de	de	ADP	_	_	11	case	11:case	_
 11	isso	isso	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	9	nmod	9:nmod:de	_
-12	?	?	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+12	?	?	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 

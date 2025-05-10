@@ -46,7 +46,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 * `Fem` (3800; 57% of non-empty `Gender`): <em>a, as, uma, sua, essa, esta, suas, minha, alguma, nossa</em>
 * `Masc` (2816; 43% of non-empty `Gender`): <em>o, os, um, esse, este, seu, meu, mesmo, outros, todo</em>
-* `EMPTY` (110): <em>que, quais, mais, qual, cada, d, qualquer, tal, qq, demais</em>
+* `EMPTY` (106): <em>que, quais, mais, qual, cada, qualquer, tal, qq, demais, menos</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -87,7 +87,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 * `Fem` (139; 29% of non-empty `Gender`): <em>ela, a, essa, uma, as, outras, outra, todas, la, elas</em>
 * `Masc` (339; 71% of non-empty `Gender`): <em>o, isso, nada, os, alguém, ele, algo, todos, esse, isto</em>
-* `EMPTY` (819): <em>que, se, quem, eu, q, me, vc, tudo, qual, você</em>
+* `EMPTY` (821): <em>que, se, quem, eu, q, me, vc, tudo, qual, você</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -95,11 +95,13 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>o</em></td><td><em>a</em></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>o</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>os</em></td><td><em>as</em></td></tr>
+  <tr><td><tt><tt><a href="pt_dantestocks-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>o</em></td><td><em>a</em></td></tr>
+  <tr><td><tt><tt><a href="pt_dantestocks-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt>|<tt><a href="pt_dantestocks-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>mo</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_dantestocks-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>o</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_dantestocks-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>o</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>a</em></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>o</em></td><td><em>a</em></td></tr>
-  <tr><td><tt><tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt>|<tt><a href="pt_dantestocks-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>mo</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>o</em></td><td><em>a</em></td></tr>
-  <tr><td><tt><tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>o</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>os</em></td><td><em>as</em></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>os</em></td><td><em>as</em></td></tr>
 </table>
@@ -146,7 +148,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 `ADP` tokens may have the following values of `Gender`:
 
 * `Fem` (19; 100% of non-empty `Gender`): <em>a, as</em>
-* `EMPTY` (8736): <em>de, em, a, com, para, por, c/, pra, sobre, até</em>
+* `EMPTY` (8740): <em>de, em, a, com, para, por, c/, pra, sobre, até</em>
 
 ### `AUX`
 
@@ -179,6 +181,6 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>ADJ --[<tt><a href="pt_dantestocks-dep-conj.html">conj</a></tt>]--> ADJ</tt> (25; 56%),
 <tt>PRON --[<tt><a href="pt_dantestocks-dep-det.html">det</a></tt>]--> DET</tt> (14; 78%),
 <tt>PRON --[<tt><a href="pt_dantestocks-dep-amod.html">amod</a></tt>]--> ADJ</tt> (12; 57%),
-<tt>ADJ --[<tt><a href="pt_dantestocks-dep-det.html">det</a></tt>]--> DET</tt> (11; 52%),
+<tt>ADJ --[<tt><a href="pt_dantestocks-dep-det.html">det</a></tt>]--> DET</tt> (11; 55%),
 <tt>DET --[<tt><a href="pt_dantestocks-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (11; 85%).
 

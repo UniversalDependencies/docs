@@ -20,7 +20,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="say_autogramm-pos-V
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Vnoun` (168; 100% of non-empty `VerbForm`): <em>láːpkə́nì, láːpkə̂n, mbútkə̂n, ʧáːɣə̂n, fíɣə̂n, maráɣə̂n, vyàːɣə̀n, wúmgə̂n, ŋálɣə́nì, ɬyáɣə̂n</em>
+* `Vnoun` (168; 100% of non-empty `VerbForm`): <em>láːpkə́nì, láːpkə̂n, ʧáːɣə̂n, mbútkə̂n, fíɣə̂n, wúmgə̂n, maráɣə̂n, tsə́tngə̂n, vyàːɣə̀n, ŋálɣə́nì</em>
 * `EMPTY` (2747): <em>yi, fi, fî, ɬə́, mán, wul, ɬíː, ɬǐː, tu, súː</em>
 
 `VerbForm` seems to be **lexical feature** of `VERB`. 100% lemmas (66) occur only with one value of `VerbForm`.

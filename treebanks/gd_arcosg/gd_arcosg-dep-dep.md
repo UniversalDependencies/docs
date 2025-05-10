@@ -8,25 +8,26 @@ udver: '2'
 
 This relation is universal.
 
-140 nodes (0%) are attached to their parents as `dep`.
+143 nodes (0%) are attached to their parents as `dep`.
 
-119 instances of `dep` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.02142857142857.
+121 instances of `dep` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.11888111888112.
 
-The following 13 pairs of parts of speech are connected with `dep`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (66; 47% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (47; 34% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (8; 6% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (4; 3% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `dep`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (67; 47% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (48; 34% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (8; 6% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (4; 3% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 dep	color:blue
-1	ò	ò	INTJ	I	_	4	discourse	_	_
-2	[?]	[?]	X	Xx	_	4	dep	_	_
-3	a	a	PART	Qq	PartType=Vb|PronType=Int	4	mark:prt	_	_
-4	bheil	bi	VERB	V-p--d	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-5	?	?	PUNCT	Fg	_	4	punct	_	_
+# visual-style 2 5 dep	color:blue
+1	dè	dè	PRON	Uq	PronType=Int	0	root	_	_
+2	thuirt	abair	VERB	V-s	Mood=Ind|Tense=Past|VerbForm=Fin	1	acl:relcl	_	_
+3	[?]	[?]	X	Xx	_	2	nsubj	_	_
+4	nach	nach	PART	Qn	PartType=Cmpl|Polarity=Neg	5	mark:prt	_	_
+5	[?]	[?]	X	Xx	_	2	dep	_	_
+6	sibh	sibh	PRON	Pp2p	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_
 
 ~~~
 
@@ -52,9 +53,9 @@ The following 13 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 3 4 dep	color:blue
 1	nach	nach	PART	Qn	PartType=Vb|Polarity=Neg	2	mark:prt	_	_
 2	eil	bi	VERB	V-p--d	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	[Name]	[Name]	PROPN	Nn-mn	Case=Nom|Gender=Masc	2	nsubj	_	Anonymised=Yes
+3	[Name]	[Name]	PROPN	Nn-mn	Case=Nom|Gender=Masc|NounType=Prs	2	nsubj	_	Anonymised=Yes
 4	[?]	[?]	X	Xx	_	3	dep	_	_
-5	fhèin	fèin	PRON	Px	PronType=Prs|Reflex=Yes	3	nmod	_	_
+5	fhèin	fèin	PRON	Px	PronType=Prs|Reflex=Yes	3	nmod:unmarked	_	_
 
 ~~~
 

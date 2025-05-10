@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15 nodes (0%) are attached to their parents as `orphan`.
+26 nodes (0%) are attached to their parents as `orphan`.
 
-15 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.06666666666667.
+24 instances of `orphan` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.46153846153846.
 
-The following 5 pairs of parts of speech are connected with `orphan`: <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (10; 67% instances), <tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> (1; 7% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt> (1; 7% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (1; 7% instances).
+The following 7 pairs of parts of speech are connected with `orphan`: <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (11; 42% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> (5; 19% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt> (4; 15% instances), <tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -22,84 +22,67 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 15 orphan	color:blue
-1	m	m	PART	_	_	4	discourse	_	Hiero=𓅓
-2	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	fixed	_	Hiero=𓎡
-3	ś(ꞽ)	śꞽ	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	dislocated	_	Hiero=𓋴
-4	ꞽw	ꞽwi̯	VERB	SPC=Pres|Type=Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓂻𓅱
-5	⸗ś	ś	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Hiero=𓋴
-6	m	m	ADP	Status=Cons	_	8	case	_	Hiero=𓅓
+1	m	m	PART	_	ExtPos=INTJ	4	discourse	_	Hiero=𓅓
+2	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	fixed	_	Hiero=𓎡|Pron=SFP
+3	ś(ꞽ)	śꞽ	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	dislocated	_	Hiero=𓋴|Pron=SFP
+4	ꞽw	ꞽwi̯	VERB	_	SubForm=AbstRel|Tense=Pres|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓂻𓅱|SPC=Pres
+5	⸗ś	ś	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Hiero=𓋴|Pron=SFP
+6	m	m	ADP	_	ExtPos=ADP	8	case	_	Hiero=𓅓|Status=Cons
 7	ḫśf(.w)	ḫśf.w	NOUN	_	Gender=Masc|Number=Sing	6	fixed	_	Hiero=𓐍𓋴𓍙𓆑
-8	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl	_	Hiero=𓎡
+8	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl	_	Hiero=𓎡|Pron=SFP
 9	ꞽmn.t	ꞽmn.t	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	Hiero=𓊿𓏏
 10	nfr.t	nfr	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	Hiero=𓄤(𓂋:𓏏)
-11	m	m	ADP	Status=Cons	_	13	case	_	Hiero=𓅓
+11	m	m	ADP	_	ExtPos=ADP	13	case	_	Hiero=𓅓|Status=Cons
 12	ḫśf(.w)	ḫśf.w	NOUN	_	Gender=Masc|Number=Sing	11	fixed	_	Hiero=𓐍𓋴𓍙𓆑
-13	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	orphan	_	Hiero=𓎡
-14	m	m	ADP	Status=Cons	_	15	case	_	Hiero=𓅓
-15	nꜣb.(w)t	nꜣb.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Plur	9	orphan	_	Hiero=(𓈖:𓄿)𓃀𓏏(UC_No:UC_No)UC_No
-16	⸗ś	ś	PRON	Pron=SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nmod	_	Hiero=𓋴
+13	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	orphan	_	Hiero=𓎡|Pron=SFP
+14	m	m	ADP	_	_	15	case	_	Hiero=𓅓|Status=Cons
+15	nꜣb.(w)t	nꜣb.t	NOUN	_	Gender=Fem|Number=Plur	9	orphan	_	Hiero=(𓈖:𓄿)𓃀𓏏(UC_No:UC_No)UC_No|Hierocl=Yes
+16	⸗ś	ś	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nmod	_	Hiero=𓋴|Poss=Yes|Pron=SFP
 17	nfr.(w)t	nfr	ADJ	_	Gender=Fem|Number=Plur	15	amod	_	Hiero=𓄤(𓂋:𓏏)
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 10 12 orphan	color:blue
-1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	𓆓
-2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	𓌃
-3	rś	rś	VERB	SPC=Sub	Mood=Sub	1	ccomp	_	Hiero=𓂋(:𓌙*𓋴)
-4	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Hiero=𓎡
-5	m	m	ADP	Status=Cons	Case=Ess	6	case	_	Hiero=𓅓
-6	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	Hiero=𓊵:𓏏:𓊪
-7	Ḥr⸗f-ḥꜣ⸗f	Ḥr⸗f-ḥꜣ⸗f	PROPN	_	Gender=Masc	3	conj	_	Hiero=(𓁷:𓆑)(𓇉:𓆑)
-8	m	m	ADP	Status=Cons	Case=Ess	9	case	_	Hiero=𓅓
-9	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	7	orphan	_	Hiero=𓊵:𓏏:𓊪
-10	Mꜣ-ḥꜣ⸗f	Mꜣ-ḥꜣ⸗f	PROPN	_	Gender=Masc	3	conj	_	Hiero=(𓌴:𓁹)𓄿(𓇉:𓆑)
-11	m	m	ADP	Status=Cons	Case=Ess	12	case	_	Hiero=𓅓
-12	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	10	orphan	_	Hiero=𓊵:𓏏:𓊪
-13	mẖn.t(ꞽ)	mẖn.t	NOUN	Nisba=Noun|Hierocl=Yes	Definite=Cons|Gender=Fem|Number=Sing	3	conj	_	Hiero=𓅓(𓂙:𓈖)(𓏏:UC_1401F)
-14	p.t	p.t	NOUN	Hierocl=Yes	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	Hiero=𓊪:𓏏:𓇯
-15	m	m	ADP	Status=Cons	Case=Ess	16	case	_	Hiero=𓅓
-16	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	13	orphan	_	Hiero=𓊵:𓏏:𓊪
-17	mẖn.t(ꞽ)	mẖn.t	NOUN	Nisba=Noun|Hierocl=Yes	Definite=Cons|Gender=Fem|Number=Sing	3	conj	_	Hiero=𓅓(𓂙:𓈖)(𓏏:UC_1401F)
-18	Nw.t	Nw.t	PROPN	_	Case=Gen|Gender=Fem	17	nmod	_	Hiero=𓏌:𓏏
-19	m	m	ADP	Status=Cons	Case=Ess	20	case	_	Hiero=𓅓
-20	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	17	orphan	_	Hiero=𓊵:𓏏:𓊪
-21	mẖn.t(ꞽ)	mẖn.t	NOUN	Nisba=Noun	Definite=Cons|Gender=Fem|Number=Sing	3	conj	_	Hiero=𓅓(𓂙:𓈖)(𓏏:UC_1401F)
-22	nčr(.w)	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	Hiero=𓊹𓊹𓊹
-23	m	m	ADP	Status=Cons	Case=Ess	24	case	_	Hiero=𓅓
-24	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	21	orphan	_	Hiero=𓊵:𓏏:𓊪
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 10 orphan	color:blue
+1	pr.n	pri̯	VERB	_	SubForm=AbstRel|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓉐:𓂋)𓈖|SPC=Past-2
+2	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Hiero=𓎡|Pron=SFP
+3	m	m	ADP	_	Case=Loc|ExtPos=ADP	5	case	_	Hiero=𓅓|Status=Cons
+4	bꜣḥ	bꜣḥ	NOUN	_	Gender=Masc|Number=Sing	3	fixed	_	Hiero=𓂸
+5	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	Hiero=𓆑|Pron=SFP
+6	ḳṭ	ḳṭ	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	Hiero=𓐫𓂧𓏸|Hierocl=Yes
+7	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	Hiero=𓎡|Poss=Yes|Pron=SFP
+8	m	m	ADP	_	Case=Loc|ExtPos=ADP	10	case	_	Hiero=𓅓|Status=Cons
+9	bꜣḥ	bꜣḥ	NOUN	_	Gender=Masc|Number=Sing	8	fixed	_	Hiero=𓂸
+10	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	orphan	_	Hiero=𓆑|Poss=Yes|Pron=SFP
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 13 orphan	color:blue
-1	m	m	PART	_	_	4	discourse	_	Hiero=𓅓
-2	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	fixed	_	Hiero=𓎡
-3	ś(ꞽ)	śꞽ	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	dislocated	_	Hiero=𓋴
-4	ꞽw	ꞽwi̯	VERB	SPC=Pres|Type=Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓂻𓅱
-5	⸗ś	ś	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Hiero=𓋴
-6	m	m	ADP	Status=Cons	_	8	case	_	Hiero=𓅓
-7	ḫśf(.w)	ḫśf.w	NOUN	_	Gender=Masc|Number=Sing	6	fixed	_	Hiero=𓐍𓋴𓍙𓆑
-8	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl	_	Hiero=𓎡
-9	ꞽmn.t	ꞽmn.t	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	Hiero=𓊿𓏏
-10	nfr.t	nfr	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	Hiero=𓄤(𓂋:𓏏)
-11	m	m	ADP	Status=Cons	_	13	case	_	Hiero=𓅓
-12	ḫśf(.w)	ḫśf.w	NOUN	_	Gender=Masc|Number=Sing	11	fixed	_	Hiero=𓐍𓋴𓍙𓆑
-13	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	orphan	_	Hiero=𓎡
-14	m	m	ADP	Status=Cons	_	15	case	_	Hiero=𓅓
-15	nꜣb.(w)t	nꜣb.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Plur	9	orphan	_	Hiero=(𓈖:𓄿)𓃀𓏏(UC_No:UC_No)UC_No
-16	⸗ś	ś	PRON	Pron=SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nmod	_	Hiero=𓋴
-17	nfr.(w)t	nfr	ADJ	_	Gender=Fem|Number=Plur	15	amod	_	Hiero=𓄤(𓂋:𓏏)
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 11 orphan	color:blue
+1	ꞽś	ꞽś	PART	_	_	3	discourse	_	Hiero=𓇋𓋴
+2	ꜣ	ꜣ	PART	_	PartType=Mod	3	discourse	_	Hiero=𓄿
+3	wnn	wnn	VERB	_	SubForm=AbstRel|Tense=Fut|VerbClass=3lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇬(𓈖:𓈖)|SPC=Fut
+4	kꜣ(.w)	kꜣ	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	Hiero=𓂔𓂔𓂔
+5	m	m	ADP	_	_	6	case	_	Hiero=𓅓|Status=Cons
+6	P(ꞽ)	Pꞽ	PROPN	_	_	3	obl	_	Hiero=𓊪:𓊖|Hierocl=Yes|Name=Place
+7	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	Hiero=𓂔𓅆|Hierocl=Yes
+8	n(.ꞽ)	n	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	7	amod	_	Hiero=𓈖|Nisba=Prep
+9	Ttꞽ	Ttꞽ	PROPN	_	Gender=Masc	8	obl	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺|Name=King
+10	m	m	ADP	_	_	11	case	_	Hiero=𓅓|Status=Cons
+11	P(ꞽ)	Pꞽ	PROPN	_	_	7	orphan	_	Hiero=𓊪:𓊖|Hierocl=Yes|Name=Place
+12	ṭšr	ṭšr	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbClass=3lit|VerbForm=Part|Voice=Act	3	dislocated	_	ADJ|Hiero=𓂧:𓈙:𓂋|Lim
+13	śč̣.t	śč̣.t	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	Hiero=𓋴(𓆓:𓏏)𓊮|Hierocl=Yes
+14	[...]	_	X	_	Typo=Yes	3	dep	_	Hiero=lost
 
 ~~~
 

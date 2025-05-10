@@ -89,7 +89,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Dat` (351; 29% of non-empty `Case`): <em>ersten, letzten, neuen, selben, zweiten, 1., Vereinigten, besten, deutschen, gemeinsamen</em>
 * `Gen` (160; 13% of non-empty `Case`): <em>ersten, Römischen, britischen, eigenen, gemeinsamen, alten, amerikanischen, ehemaligen, europäischer, gesamten</em>
 * `Nom` (361; 30% of non-empty `Case`): <em>britische, erste, neue, verschiedene, große, letzte, australischen, großer, kleine, mazedonische</em>
-* `EMPTY` (207): <em>bekannt, möglich, groß, klar, sicher, unglaublich, verheiratet, alt, ausgerichtet, ausgesetzt</em>
+* `EMPTY` (208): <em>bekannt, möglich, groß, klar, sicher, unglaublich, verheiratet, alt, ausgerichtet, ausgesetzt</em>
 
 <table>
   <tr><th>Paradigm <i>neu</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>

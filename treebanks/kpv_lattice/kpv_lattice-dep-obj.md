@@ -40,7 +40,7 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 3 obj	color:blue
 1	Неылысса	неылысса	ADJ	A	Case=Nom|Number=Sing|Polarity=Neg	2	amod	_	_
-2	сикт-грездын	сикт-грезд	NOUN	N	Case=Ine|Number=Sing	7	obl:lmod	_	_
+2	сикт-грездын	сикт-грезд	NOUN	N	Case=Ine|Number=Sing	7	obl	_	_
 3	сы	сійӧ	PRON	Pron	Case=Adp|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
 4	йылысь	йылысь	ADP	Po	AdpType=Post|Case=Ela|Number=Sing	3	case	_	_
 5	абу	абу	AUX	Pcle	Polarity=Neg	7	aux:neg	_	_
@@ -57,7 +57,7 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 obj	color:blue
-1	Сэсся	сэсся	ADV	Adv	_	2	advmod:tmod	_	_
+1	Сэсся	сэсся	ADV	Adv	_	2	advmod	_	_
 2	тэчи	тэчны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,Err/Dial,Sg3
 3	чукӧртӧмасӧ	чукӧртны	VERB	V	Clitic=So|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	obj	_	GTtags=TV,Ind,Prt2,Sg3,Clt/сӧ
 4	ас	ас	PRON	Pron	PronType=Prs|Reflex=Yes	2	obl	_	GTtags=Det,Refl,Abs

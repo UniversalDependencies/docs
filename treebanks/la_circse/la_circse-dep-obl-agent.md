@@ -9,26 +9,43 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_circse-dep-obl.html">obl</a></tt>.
 There are also 4 other language-specific subtypes of `obl`: <tt><a href="la_circse-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="la_circse-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="la_circse-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="la_circse-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-95 nodes (1%) are attached to their parents as `obl:agent`.
+125 nodes (1%) are attached to their parents as `obl:agent`.
 
-48 instances of `obl:agent` (51%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.55789473684211.
+63 instances of `obl:agent` (50%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.616.
 
-The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (71; 75% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (11; 12% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (3; 3% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (97; 78% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (12; 10% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (5; 4% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 obl:agent	color:blue
+1	nati	natus	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur	5	nsubj	_	LASLAVariant=1|LiLaflcat=n2
+2	cruenta	cruentus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	3	amod	_	LiLaflcat=n6
+3	caede	caedes	NOUN	A3	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	4	obl:agent	_	LiLaflcat=n3
+4	confecti	conficio	VERB	B5	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatI2|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	5	advcl:pred	_	LiLaflcat=v5
+5	iacent	iaceo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
+6	perempta	perimo	VERB	Y3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	7	advcl:pred	_	LiLaflcat=v3|Tac=est
+7	coniunx	coniux	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	5	conj	_	LiLaflcat=n3
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 obl:agent	color:blue
-1	nullo	nullus	DET	L	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Neg	3	det	_	LiLaflcat=p
-2	premetur	premo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	LiLaflcat=v3
-3	onere	onus	NOUN	A3	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing	2	obl:agent	_	LiLaflcat=n3
-4	qui	qui	PRON	J	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	6	nsubj	_	LASLAVariant=1|LiLaflcat=p
-5	caelum	caelum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	6	obj	_	LASLAVariant=1|LiLaflcat=n2
-6	tulit	fero	VERB	B6	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:relcl	_	LiLaflcat=v6
+# visual-style 2 6 obl:agent	color:blue
+1	num	num	PART	O	Polarity=Neg	2	discourse	_	LiLaflcat=i
+2	audita	audio	VERB	Y4	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatI|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	LiLaflcat=v4
+3	causa	causa	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	2	nsubj:pass	_	LiLaflcat=n1
+4	est	sum	AUX	Z4	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux:pass	_	LASLAVariant=2|LiLaflcat=v6
+5	nostra	noster	DET	F	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	3	det	_	LiLaflcat=n6
+6	Tiresiae	tiresia	PROPN	A1	Case=Dat|Gender=Fem|InflClass=IndEurA|NameType=Giv|Number=Sing	2	obl:agent	_	LASLAVariant=N|LiLaflcat=n1
 
 ~~~
 
@@ -36,37 +53,16 @@ The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 obl:agent	color:blue
-1	hic	hic	ADV	M	AdvType=Loc|Degree=Pos	2	advmod:lmod	_	LASLAVariant=2|LiLaflcat=i
-2	prosit	prosum	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LASLAVariant=1|LiLaflcat=v6
-3	mihi	ego	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs	2	obl:arg	_	LiLaflcat=p
-4	Ioue	iuppiter	PROPN	A3	Case=Abl|Gender=Masc|InflClass=IndEurX|NameType=Rel|Number=Sing	6	obl:agent	_	LASLAVariant=N|LiLaflcat=n3
-5	esse	sum	AUX	Z3	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf	6	aux:pass	_	LASLAVariant=2|LiLaflcat=v6
-6	genitum	gigno	VERB	Y3	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	2	csubj:pass	_	LiLaflcat=v3
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 6 obl:agent	color:blue
-1	nil	nihil	PRON	L	InflClass=Ind|PronType=Neg	5	nsubj	_	LiLaflcat=n
-2	esse	sum	AUX	Z3	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf	5	aux:pass	_	LASLAVariant=2|LiLaflcat=v6
-3	crede	credo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
-4	turpe	turpis	ADJ	C4	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	1	amod	_	LiLaflcat=n7
-5	commissum	committo	VERB	Y3	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	3	ccomp	_	LiLaflcat=v3
-6	tibi	tu	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	5	obl:agent	_	LiLaflcat=p
-7	quid	quis	PRON	K	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Int	9	obj	_	LASLAVariant=1|LiLaflcat=p
-8	honesta	honestus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	10	amod	_	LiLaflcat=n6
-9	prodest	prosum	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	LASLAVariant=1|LiLaflcat=v6
-10	uita	uita	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	9	nsubj	_	LiLaflcat=n1
-11	flagitio	flagitium	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	12	obl	_	LiLaflcat=n2
-12	uacans	uaco	VERB	B1	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatA|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	10	acl	_	LiLaflcat=v1
+# visual-style 5 4 obl:agent	color:blue
+1	huic	hic	DET	I	Case=Dat|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Dem	5	obl:arg	_	LASLAVariant=1|LiLaflcat=p
+2	aliquis	aliquis	PRON	L	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Ind	7	det	_	LiLaflcat=p
+3	a	ab	ADP	R	AdpType=Prep	4	case	_	LiLaflcat=i
+4	te	tu	PRON	E	Case=Abl|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	5	obl:agent	_	LiLaflcat=p
+5	traditur	trado	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LiLaflcat=v3
+6	quondam	quondam	ADV	M	Degree=Pos	5	advmod:tmod	_	LiLaflcat=i
+7	puer	puer	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	5	nsubj	_	LiLaflcat=n2
 
 ~~~
 

@@ -23,14 +23,14 @@ The following 18 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 1 case	color:blue
 1	Ἐν	ἐν	ADP	_	_	2	case	_	Gloss=in,on,by,with,to
-2	ἀρχῇ	ἀρχή	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	Gloss=beginning,ruler,office
+2	ἀρχῇ	ἀρχή	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	obl:tmod	_	Gloss=beginning,ruler,office
 3	ἐποίησεν	ποιέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-do,make
-4	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	Gloss=the;-oh
+4	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the;-oh
 5	θεὸς	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Gloss=god
-6	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	Gloss=the
+6	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Gloss=the
 7	οὐρανὸν	οὐρανός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	Gloss=heaven,sky
 8	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
-9	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	Gloss=the
+9	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Gloss=the
 10	γῆν	γῆ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	Gloss=earth|SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -45,14 +45,14 @@ The following 18 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 12 11 case	color:blue
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
-3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	Gloss=the;-oh
+3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh
 4	θεὸς	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=god
-5	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	6	det	_	Gloss=the
+5	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	6	det	_	Gloss=the
 6	Νῶε	Νῶε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Gloss=Noah
 7	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next
-8	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	9	det	_	Gloss=the
+8	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Art	9	det	_	Gloss=the
 9	υἱοῖς	υἱός	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	6	conj	_	Gloss=son
-10	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	9	nmod	_	Gloss=he,she,it,-self,same
+10	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	9	nmod:poss	_	Gloss=he,she,it,-self,same
 11	μετ᾿	μετά	ADP	_	_	12	case	_	Gloss=+G=with;-+A=after
 12	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	9	nmod	_	Gloss=he,she,it,-self,same
 13	λέγων	λέγω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	Gloss=to-say|SpaceAfter=No
@@ -74,7 +74,7 @@ The following 18 pairs of parts of speech are connected with `case`: <tt><a href
 5	αὐτὸν	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	3	obl	_	Gloss=he,she,it,-self,same
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
 7	ἀνέβη	ἀναβαίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-ascend,mount
-8	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	Gloss=the;-oh
+8	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Gloss=the;-oh
 9	θεὸς	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Gloss=god
 10	ἀπὸ	ἀπό	ADP	_	_	11	case	_	Gloss=from,away-from
 11	Ἁβραάμ	Ἁβραάμ	PROPN	_	Gender=Masc|Number=Sing	7	obl	_	Gloss=Abraham|SpaceAfter=No

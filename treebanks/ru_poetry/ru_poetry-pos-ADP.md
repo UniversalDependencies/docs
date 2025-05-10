@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>за</em> (<tt><a href="ru_poetry-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.033898 (the average of all parts of speech is 1.831021).
+The form / lemma ratio of `ADP` is 1.033898 (the average of all parts of speech is 1.831486).
 
 The 1st highest number of forms (2) was observed with the lemma “с”: <em>c, с</em>.
 
@@ -59,12 +59,12 @@ The 2nd highest number of forms (2) was observed with the lemma “сквозь�
 
 The 3rd highest number of forms (1) was observed with the lemma “без”: <em>без</em>.
 
-`ADP` occurs with 1 features: <tt><a href="ru_poetry-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`ADP` occurs with 2 features: <tt><a href="ru_poetry-feat-ExtPos.html">ExtPos</a></tt> (9; 0% instances), <tt><a href="ru_poetry-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`ADP` occurs with 1 feature-value pairs: `Typo=Yes`
+`ADP` occurs with 2 feature-value pairs: `ExtPos=ADV`, `Typo=Yes`
 
-`ADP` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (5069 tokens).
+`ADP` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (5060 tokens).
 Examples: <em>в, на, с, к, за, от, по, из, у, над</em>
 
 
@@ -72,7 +72,7 @@ Examples: <em>в, на, с, к, за, от, по, из, у, над</em>
 
 `ADP` nodes are attached to their parents using 4 different relations: <tt><a href="ru_poetry-dep-case.html">case</a></tt> (5053; 100% instances), <tt><a href="ru_poetry-dep-advmod.html">advmod</a></tt> (9; 0% instances), <tt><a href="ru_poetry-dep-fixed.html">fixed</a></tt> (7; 0% instances), <tt><a href="ru_poetry-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> (4278; 84% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (585; 12% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> (92; 2% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (58; 1% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (28; 1% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (15; 0% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ru_poetry-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> (4277; 84% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (585; 12% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> (93; 2% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (58; 1% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (28; 1% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (15; 0% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ru_poetry-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-X.html">X</a></tt> (1; 0% instances)
 
 5055 (100%) `ADP` nodes are leaves.
 

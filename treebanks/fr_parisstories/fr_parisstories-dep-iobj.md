@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 iobj	color:blue
-1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	discourse	_	_
 3	plus	plus	ADV	_	_	2	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	_

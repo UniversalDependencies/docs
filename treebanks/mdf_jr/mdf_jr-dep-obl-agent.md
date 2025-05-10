@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Moksha-JR: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-obl.html">obl</a></tt>.
-There are also 6 other language-specific subtypes of `obl`: <tt><a href="mdf_jr-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="mdf_jr-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="mdf_jr-dep-obl-freq.html">obl:freq</a></tt>, <tt><a href="mdf_jr-dep-obl-inst.html">obl:inst</a></tt>, <tt><a href="mdf_jr-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="mdf_jr-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are also 2 other language-specific subtypes of `obl`: <tt><a href="mdf_jr-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="mdf_jr-dep-obl-tmod.html">obl:tmod</a></tt>.
 
 11 nodes (0%) are attached to their parents as `obl:agent`.
 
@@ -27,7 +27,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 2	кеподев	кеподевомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2	0	root	_	_
 3	теест	сон	PRON	Pron	Case=Dat|Number=Plur|Person=3|PronType=Prs|Variant=Short	2	obl:agent	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
-5	эрявсь	эрявомс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	6	aux:nec	_	_
+5	эрявсь	эрявомс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	6	aux	_	_
 6	лездомс	лездомс	VERB	V	VerbForm=Inf	2	conj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -42,9 +42,9 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 11 8 obl:agent	color:blue
 1	И	и	CCONJ	CC	_	11	cc	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	улема	улема	VERB	V	Mood=Nec|Number[subj]=Sing|Person[subj]=3	11	advcl:eval	_	GTtags=Epist|SpaceAfter=No
+3	улема	улема	VERB	V	Mood=Nec|Number[subj]=Sing|Person[subj]=3	11	advcl	_	GTtags=Epist|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	3	punct	_	_
-5	тянкса	тянкса	ADV	Adv	_	11	advmod:cau	_	_
+5	тянкса	тянкса	ADV	Adv	_	11	advmod	_	_
 6	редакциятнень	редакция	NOUN	N	Case=Gen|Definite=Def|Number=Plur	8	nmod	_	GTtags=Pl,Gen,Def
 7	рахсемань	рахсема	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	8	nmod	_	GTtags=SP,Gen,Indef
 8	отделснонды	отдел	NOUN	N	Case=Dat|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	11	obl:agent	_	GTtags=SP,Dat,PxPl3

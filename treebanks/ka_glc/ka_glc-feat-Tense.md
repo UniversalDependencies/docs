@@ -22,9 +22,9 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (765; 20% of non-empty `Tense`): <em>შეისწავლის, წარმოადგენს, მოიცავს, შეიცავს, განსაზღვრავს, მიეკუთვნება, შედგება, განარჩევენ, განასხვავებენ, წარმოადგენენ</em>
+* `Fut` (766; 20% of non-empty `Tense`): <em>შეისწავლის, წარმოადგენს, მოიცავს, შეიცავს, განსაზღვრავს, მიეკუთვნება, შედგება, განარჩევენ, განასხვავებენ, წარმოადგენენ</em>
 * `Imp` (243; 6% of non-empty `Tense`): <em>ჰქონდა, ხდებოდა, გამოიყენებოდა, იყენებდნენ, ვითარდებოდა, თვლიდა, არსებობდა, გულისხმობდა, იყენებდა, მდებარეობდა</em>
-* `Past` (956; 25% of non-empty `Tense`): <em>ჩამოყალიბდა, დაიწყო, შეიქმნა, გახდა, მიიღო, დაარსდა, ჩაისახა, გაჩნდა, წარმოიშვა, შექმნა</em>
+* `Past` (955; 25% of non-empty `Tense`): <em>ჩამოყალიბდა, დაიწყო, შეიქმნა, გახდა, მიიღო, დაარსდა, ჩაისახა, გაჩნდა, წარმოიშვა, შექმნა</em>
 * `PastPerf` (41; 1% of non-empty `Tense`): <em>უკავია, შეუძლია, შეუძლიათ, უკავიათ, შექმნილა, აღმოუჩენია, გადაჭრილიყო, გამოჩენილა, დადგენილა, დამკვიდრებულა</em>
 * `Pqp` (59; 2% of non-empty `Tense`): <em>ჩაეყარა, გამოეყო, მიეცა, დაედო, მიეცათ, მიეძღვნა, აეყვანა, აეხსნათ, ამოეგდო, აღმოეჩინათ</em>
 * `Pres` (1701; 45% of non-empty `Tense`): <em>აქვს, შეიძლება, გამოიყენება, არსებობს, სწავლობს, იყენებენ, იკვლევს, ხდება, იყენებს, ეწოდება</em>
@@ -69,10 +69,10 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> VERB</tt> (261; 70%),
+<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> VERB</tt> (262; 71%),
 <tt>VERB --[<tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (82; 58%),
 <tt>VERB --[<tt><a href="ka_glc-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 67%),
-<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 67%),
+<tt>VERB --[<tt><a href="ka_glc-dep-acl.html">acl</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="ka_glc-dep-appos.html">appos</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="ka_glc-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%).

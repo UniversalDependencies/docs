@@ -9,51 +9,44 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `orphan`: <tt><a href="la_circse-dep-orphan-missing.html">orphan:missing</a></tt>.
 
-94 nodes (0%) are attached to their parents as `orphan`.
+107 nodes (0%) are attached to their parents as `orphan`.
 
-53 instances of `orphan` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.57446808510638.
+56 instances of `orphan` (52%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.62616822429907.
 
-The following 26 pairs of parts of speech are connected with `orphan`: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (19; 20% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (16; 17% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (7; 7% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (4; 4% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 28 pairs of parts of speech are connected with `orphan`: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (22; 21% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (17; 16% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (7; 7% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (5; 5% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 orphan	color:blue
-1	ipsa	ipse	DET	I	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	3	det	_	LiLaflcat=p
-2	se	sui	PRON	G	Case=Acc|InflClass=LatAnom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	obj	_	LASLAVariant=1|LiLaflcat=p
-3	classis	classis	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	4	nsubj	_	LiLaflcat=n3
-4	premit	premo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
-5	et	et	CCONJ	S	_	8	cc	_	LASLAVariant=2|LiLaflcat=i
-6	prora	prora	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	8	nsubj	_	LiLaflcat=n1
-7	prorae	prora	NOUN	A1	Case=Dat|Gender=Fem|InflClass=IndEurA|Number=Sing	8	obl	_	LiLaflcat=n1
-8	nocuit	noceo	VERB	B2	Aspect=Perf|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	LiLaflcat=v2
-9	et	et	CCONJ	S	_	11	cc	_	LASLAVariant=2|LiLaflcat=i
-10	lateri	latus	NOUN	A3	Case=Dat|Gender=Neut|InflClass=IndEurX|Number=Sing	11	orphan	_	LASLAVariant=1|LiLaflcat=n3
-11	latus	latus	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	4	conj	_	LASLAVariant=1|LiLaflcat=n3
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 orphan	color:blue
+1	pastor	pastor	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	0	root	_	LiLaflcat=n3
+2	niuoso	niuosus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	5	amod	_	LiLaflcat=n6
+3	sub	sub	ADP	R	AdpType=Prep	5	case	_	LiLaflcat=i
+4	Cithaeronis	cithaeron	PROPN	A3	Case=Gen|Gender=Masc|InflClass=IndEurX|NameType=Geo|Number=Sing	5	nmod	_	LASLAVariant=N|LiLaflcat=n3
+5	iugo	iugum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	1	orphan	_	LiLaflcat=n2
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 orphan	color:blue
-1	tum	tum	ADV	M	AdvType=Tim|PronType=Dem	3	orphan	_	LiLaflcat=i
-2	ad	ad	ADP	R	_	3	case	_	LASLAVariant=2|LiLaflcat=i
-3	negotia	negotium	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	0	root	_	LiLaflcat=n2
-4	nec	neque	CCONJ	S	Polarity=Neg	9	cc	_	LASLAVariant=2|LiLaflcat=i
-5	minus	parum	ADV	M	Degree=Cmp	6	advmod	_	LASLAVariant=2|LiLaflcat=i
-6	saepe	saepe	ADV	M	_	9	advmod	_	LiLaflcat=i
-7	ad	ad	ADP	R	_	8	case	_	LASLAVariant=2|LiLaflcat=i
-8	conuiuia	conuiuium	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	9	obl:lmod	_	LiLaflcat=n2
-9	procedunt	procedo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	LASLAVariant=1|LiLaflcat=v3|TraditionalMood=Indicativus|TraditionalTense=Praesens
-10	armati	armatus	ADJ	C1	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur	9	advcl:pred	_	LASLAVariant=2|LiLaflcat=n6
+# visual-style 1 4 orphan	color:blue
+1	lamenta	lamenta	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	0	root	_	LiLaflcat=n2
+2	ac	atque	CCONJ	S	Form=Emp	3	cc	_	LASLAVariant=1|LiLaflcat=i
+3	lacrimas	lacrima	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	1	conj	_	LiLaflcat=n1
+4	cito	cito	ADV	M	AdvType=Tim	1	orphan	_	LASLAVariant=2|LiLaflcat=i
+5	dolorem	dolor	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing	9	obj	_	LiLaflcat=n3
+6	et	et	CCONJ	S	_	7	cc	_	LASLAVariant=2|LiLaflcat=i
+7	tristitiam	tristitia	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	5	conj	_	LiLaflcat=n1
+8	tarde	tarde	ADV	M	AdvType=Tim	9	advmod:tmod	_	LiLaflcat=i
+9	ponunt	pono	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LiLaflcat=v3|TraditionalMood=Indicativus|TraditionalTense=Praesens
 
 ~~~
 

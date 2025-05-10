@@ -25,7 +25,7 @@ The following 14 pairs of parts of speech are connected with `parataxis:hashtag`
 # visual-style 5 12 parataxis:hashtag	color:blue
 1	Pure	pure	ADV	B	_	5	advmod	_	_
 2	Passera	Passera	PROPN	SP	_	5	nsubj	_	_
-3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+3	si	si	PRON	PC	Person=3|PronType=Prs	5	expl	_	Clitic=Yes
 4	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	definire	definire	VERB	V	VerbForm=Inf	0	root	_	_
 6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_

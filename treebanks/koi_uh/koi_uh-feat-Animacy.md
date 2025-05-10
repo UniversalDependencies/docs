@@ -11,7 +11,7 @@ It occurs with 4 different values: `Anim`, `Hum`, `Inan`, `Nhum`.
 
 75 tokens (7%) have a non-empty value of `Animacy`.
 45 types (8%) occur at least once with a non-empty value of `Animacy`.
-34 lemmas (8%) occur at least once with a non-empty value of `Animacy`.
+34 lemmas (7%) occur at least once with a non-empty value of `Animacy`.
 The feature is used with 4 part-of-speech tags: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (54; 5% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (17; 2% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -49,7 +49,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Nhum` (3; 100% of non-empty `Animacy`): <em>мый</em>
-* `EMPTY` (107): <em>сія, ме, тэ, менам, сійӧ, тэнат, Сiя, меным, сылӧ, сылӧн</em>
+* `EMPTY` (106): <em>сія, ме, тэ, менам, сійӧ, тэнат, Сiя, меным, сылӧ, сылӧн</em>
 
 ### `ADJ`
 

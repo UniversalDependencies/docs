@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-126689 tokens (42%) have a non-empty value of `Gender`.
-37278 types (72%) occur at least once with a non-empty value of `Gender`.
+126693 tokens (42%) have a non-empty value of `Gender`.
+37281 types (72%) occur at least once with a non-empty value of `Gender`.
 18160 lemmas (62%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 11 part-of-speech tags: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (71386; 23% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (18806; 6% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (17068; 6% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (8180; 3% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (5555; 2% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (4289; 1% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (848; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (516; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (32; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The feature is used with 11 part-of-speech tags: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (71396; 23% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (18806; 6% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (17069; 6% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (8173; 3% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (5554; 2% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (4290; 1% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (848; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (516; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (32; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-71386 <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Gender`.
+71396 <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (59221; 83%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (51024; 71%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (59230; 83%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (51026; 71%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (25834; 36% of non-empty `Gender`): <em>сядзіба, мовы, абароны, варта, тысяч, гісторыі, мову, волі, працы, мова</em>
-* `Masc` (37090; 52% of non-empty `Gender`): <em>дзень, людзей, чалавек, годзе, гадоў, час, людзі, года, год, году</em>
-* `Neut` (8462; 12% of non-empty `Gender`): <em>відэа, месца, фота, імя, радыё, жыццё, дзяцей, месцы, кіно, права</em>
+* `Fem` (25838; 36% of non-empty `Gender`): <em>сядзіба, мовы, абароны, варта, тысяч, гісторыі, мову, волі, працы, мова</em>
+* `Masc` (37094; 52% of non-empty `Gender`): <em>дзень, людзей, чалавек, годзе, гадоў, час, людзі, года, год, году</em>
+* `Neut` (8464; 12% of non-empty `Gender`): <em>відэа, месца, фота, імя, радыё, жыццё, дзяцей, месцы, кіно, права</em>
 * `EMPTY` (1300): <em>Арт, г., вул., км, смі, ст., BYN, АМАП, рэж., АЭС</em>
 
 <table>
@@ -44,7 +44,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>месцы</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (8881) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (8884) occur only with one value of `Gender`.
 
 ### `PROPN`
 
@@ -70,14 +70,14 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 ### `ADJ`
 
-17068 <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> tokens (64% of all `ADJ` tokens) have a non-empty value of `Gender`.
+17069 <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> tokens (64% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17065; 100%), <tt><a href="be_hse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (16851; 99%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15302; 90%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17066; 100%), <tt><a href="be_hse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (16852; 99%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15303; 90%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
 * `Fem` (6766; 40% of non-empty `Gender`): <em>беларускай, беларускую, беларуская, роднай, першай, народнай, першая, курапацкай, новая, новую</em>
-* `Masc` (7753; 45% of non-empty `Gender`): <em>новы, беларускі, першы, добры, беларускага, вялікі, былы, другі, новага, вольны</em>
+* `Masc` (7754; 45% of non-empty `Gender`): <em>новы, беларускі, першы, добры, беларускага, вялікі, былы, другі, новага, вольны</em>
 * `Neut` (2549; 15% of non-empty `Gender`): <em>вядома, магчыма, важна, першае, цывільным, цікава, галоўнае, вялікае, годна, беларускае</em>
 * `EMPTY` (9748): <em>надзвычайных, беларускіх, беларускія, 2019, розных, 2018, новыя, 12, 23, 1</em>
 
@@ -96,16 +96,16 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `VERB`
 
-8180 <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> tokens (26% of all `VERB` tokens) have a non-empty value of `Gender`.
+8173 <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> tokens (26% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8178; 100%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8175; 100%), <tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8152; 100%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6747; 82%), <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6747; 82%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (6534; 80%), <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5260; 64%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8171; 100%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8168; 100%), <tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8145; 100%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6740; 82%), <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6740; 82%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (6530; 80%), <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5253; 64%).
 
 `VERB` tokens may have the following values of `Gender`:
 
 * `Fem` (2523; 31% of non-empty `Gender`): <em>стала, адбылася, сказала, была, выйшла, расказала, пачала, памерла, прайшла, паведаміла</em>
-* `Masc` (4657; 57% of non-empty `Gender`): <em>сказаў, стаў, памёр, атрымаў, заявіў, расказаў, прайшоў, мог, адказаў, заклікаў</em>
+* `Masc` (4650; 57% of non-empty `Gender`): <em>сказаў, стаў, памёр, атрымаў, заявіў, расказаў, прайшоў, мог, заклікаў, напісаў</em>
 * `Neut` (1000; 12% of non-empty `Gender`): <em>было, адбылося, стала, засталося, пачалося, атрымалася, выйшла, зроблена, адбывалася, прайшло</em>
-* `EMPTY` (22912): <em>можна, трэба, можа, жыве, няма, мае, адбудзецца, затрымалі, кажа, пачалі</em>
+* `EMPTY` (22910): <em>можна, трэба, можа, жыве, няма, мае, адбудзецца, затрымалі, кажа, пачалі</em>
 
 <table>
   <tr><th>Paradigm <i>магчы</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -114,15 +114,15 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `PRON`
 
-5555 <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Gender`.
+5554 <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5552; 100%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4056; 73%), <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2910; 52%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5551; 100%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4055; 73%), <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2910; 52%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (820; 15% of non-empty `Gender`): <em>яна, якая, яе, якой, ёй, якую, ёю, беларуска, вышынёй, што</em>
 * `Masc` (2190; 39% of non-empty `Gender`): <em>ён, які, хто, яго, яму, якім, ім, якога, каго, ніхто</em>
-* `Neut` (2545; 46% of non-empty `Gender`): <em>гэта, што, тое, таго, тым, ўсё, усё, нічога, чым, гэтым</em>
+* `Neut` (2544; 46% of non-empty `Gender`): <em>гэта, што, тое, таго, тым, ўсё, усё, нічога, чым, гэтым</em>
 * `EMPTY` (4768): <em>мы, я, якія, яны, вы, нас, іх, вас, нам, мяне</em>
 
 <table>
@@ -144,14 +144,14 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `DET`
 
-4289 <tt><a href="be_hse-pos-DET.html">DET</a></tt> tokens (64% of all `DET` tokens) have a non-empty value of `Gender`.
+4290 <tt><a href="be_hse-pos-DET.html">DET</a></tt> tokens (64% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4285; 100%), <tt><a href="be_hse-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3737; 87%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3452; 80%), <tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2743; 64%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4286; 100%), <tt><a href="be_hse-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3738; 87%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3453; 80%), <tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2744; 64%).
 
 `DET` tokens may have the following values of `Gender`:
 
 * `Fem` (1481; 35% of non-empty `Gender`): <em>сваю, сваёй, нашай, гэтую, гэтай, наша, адной, гэтая, такая, такой</em>
-* `Masc` (2157; 50% of non-empty `Gender`): <em>гэты, наш, свой, кожны, адзін, той, тым, гэтым, нашым, гэтага</em>
+* `Masc` (2158; 50% of non-empty `Gender`): <em>гэты, наш, свой, кожны, адзін, той, тым, гэтым, нашым, гэтага</em>
 * `Neut` (651; 15% of non-empty `Gender`): <em>самае, такое, сваё, гэтае, ўсё, усё, іншае, адно, гэтым, маё</em>
 * `EMPTY` (2441): <em>яго, яе, іх, свае, іншых, усе, іншыя, гэтыя, тых, ўсе</em>
 
@@ -178,7 +178,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 * `Fem` (144; 17% of non-empty `Gender`): <em>была, буду</em>
 * `Masc` (349; 41% of non-empty `Gender`): <em>быў, БУДЗЕ</em>
 * `Neut` (355; 42% of non-empty `Gender`): <em>было, была</em>
-* `EMPTY` (1236): <em>будзе, былі, будуць, б, быць, будзем, ёсць, бы, буду, будзеш</em>
+* `EMPTY` (1235): <em>будзе, былі, будуць, б, быць, будзем, ёсць, бы, буду, будзеш</em>
 
 <table>
   <tr><th>Paradigm <i>быць</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -225,7 +225,7 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 * `Fem` (12; 38% of non-empty `Gender`): <em>Абавязкова, канчаткова, цікава, абавязковы, крута, незвычаяна, сезонна, сьветапоглядна, эмацыйна</em>
 * `Masc` (17; 53% of non-empty `Gender`): <em>годна, палітычна, ўрачыста, пераважна, файна, фізічна, цёпла, эмацыйна, ўважліва</em>
 * `Neut` (3; 9% of non-empty `Gender`): <em>канчаткова, часова</em>
-* `EMPTY` (11008): <em>як, яшчэ, больш, тут, таксама, так, дзе, таму, ўжо, цяпер</em>
+* `EMPTY` (11006): <em>як, яшчэ, больш, тут, таксама, так, дзе, таму, ўжо, цяпер</em>
 
 <table>
   <tr><th>Paradigm <i>канчаткова</i></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -249,16 +249,16 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 `CCONJ` tokens may have the following values of `Gender`:
 
 * `Fem` (1; 100% of non-empty `Gender`): <em>i</em>
-* `EMPTY` (8999): <em>і, а, але, ці, ды, або, й, ні, Таксама, аднак</em>
+* `EMPTY` (9000): <em>і, а, але, ці, ды, або, й, ні, Таксама, аднак</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="be_hse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (13660; 69%),
 <tt>PROPN --[<tt><a href="be_hse-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (3630; 97%),
-<tt>NOUN --[<tt><a href="be_hse-dep-det.html">det</a></tt>]--> DET</tt> (3150; 63%),
-<tt>NOUN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2473; 51%),
-<tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1650; 70%),
+<tt>NOUN --[<tt><a href="be_hse-dep-det.html">det</a></tt>]--> DET</tt> (3145; 63%),
+<tt>NOUN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2475; 51%),
+<tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1651; 70%),
 <tt>VERB --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1029; 55%),
 <tt>PROPN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> PROPN</tt> (731; 70%),
 <tt>VERB --[<tt><a href="be_hse-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (477; 62%),

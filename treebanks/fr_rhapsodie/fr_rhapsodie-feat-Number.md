@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt>, <tt><a href="fr_rhapsodie-feat-Number-psor.html">Number[psor]</a></tt>.
 
-20398 tokens (46%) have a non-empty value of `Number`.
-3540 types (77%) occur at least once with a non-empty value of `Number`.
-2567 lemmas (76%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (5042; 11% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (4454; 10% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (4170; 9% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (3239; 7% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (1569; 4% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (1502; 3% instances), <tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (347; 1% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (75; 0% instances).
+20450 tokens (46%) have a non-empty value of `Number`.
+3545 types (78%) occur at least once with a non-empty value of `Number`.
+2564 lemmas (76%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (5042; 11% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (4454; 10% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (4170; 9% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (3233; 7% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (1567; 4% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (1562; 4% instances), <tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (347; 1% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (75; 0% instances).
 
 ### `NOUN`
 
@@ -72,15 +72,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `VERB`
 
-3239 <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> tokens (77% of all `VERB` tokens) have a non-empty value of `Number`.
+3233 <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> tokens (77% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2547; 79%), <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2542; 78%), <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2370; 73%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2193; 68%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2549; 79%), <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2544; 79%), <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2372; 73%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2193; 68%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (690; 21% of non-empty `Number`): <em>allez, ont, avez, continuez, disons, voulez, voyez, sont, pouvez, savez</em>
-* `Sing` (2549; 79% of non-empty `Number`): <em>a, est, va, dit, faut, fait, ai, peut, avait, crois</em>
-* `EMPTY` (976): <em>dire, voilà, faire, avoir, aller, voir, passer, travailler, arriver, mettre</em>
+* `Plur` (691; 21% of non-empty `Number`): <em>allez, ont, avez, continuez, disons, voulez, voyez, sont, pouvez, savez</em>
+* `Sing` (2542; 79% of non-empty `Number`): <em>a, est, va, dit, faut, fait, ai, peut, avait, crois</em>
+* `EMPTY` (984): <em>dire, voilà, faire, avoir, aller, voir, passer, travailler, arriver, mettre</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -100,14 +100,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `AUX`
 
-1569 <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Number`.
+1567 <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1525; 97%), <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1485; 95%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1339; 85%), <tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=3</tt> (1218; 78%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1523; 97%), <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1483; 95%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1339; 85%), <tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=3</tt> (1216; 78%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (237; 15% of non-empty `Number`): <em>sont, ont, avez, êtes, avons, étaient, sommes, avaient, étiez, soient</em>
-* `Sing` (1332; 85% of non-empty `Number`): <em>est, a, ai, était, suis, été, avait, étais, sera, soit</em>
+* `Plur` (236; 15% of non-empty `Number`): <em>sont, ont, avez, êtes, avons, étaient, sommes, avaient, étiez, soient</em>
+* `Sing` (1331; 85% of non-empty `Number`): <em>est, a, ai, était, suis, été, avait, étais, sera, soit</em>
 * `EMPTY` (73): <em>être, faire, avoir, ayant, faisant, étant</em>
 
 <table>
@@ -135,13 +135,15 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `ADJ`
 
-1502 <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Number`.
+1562 <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (946; 61%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (314; 21% of non-empty `Number`): <em>tous, jeunes, toutes, grands, autres, petits, politiques, grandes, bons, différentes</em>
-* `Sing` (1188; 79% of non-empty `Number`): <em>jeune, même, petit, tout, difficile, autre, grande, vrai, droit, premier</em>
-* `EMPTY` (71): <em>tout, français, gros, mauvais, Small, heureux, sérieux, anglais, bas, religieux</em>
+* `Plur` (319; 20% of non-empty `Number`): <em>tous, toutes, grands, autres, jeunes, petits, grandes, bons, différentes, nombreux</em>
+* `Sing` (1243; 80% of non-empty `Number`): <em>tout, petit, jeune, grande, vrai, autre, droit, même, premier, grand</em>
+* `EMPTY` (11): <em>Small, aus~, ex~, flying, frai~, hédo~, portu~, qu~, éner~</em>
 
 <table>
   <tr><th>Paradigm <i>tout</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -182,13 +184,13 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="fr_rhapsodie-dep-det.html">det</a></tt>]--> DET</tt> (3742; 99%),
-<tt>VERB --[<tt><a href="fr_rhapsodie-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1877; 81%),
-<tt>NOUN --[<tt><a href="fr_rhapsodie-dep-amod.html">amod</a></tt>]--> ADJ</tt> (889; 95%),
+<tt>VERB --[<tt><a href="fr_rhapsodie-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1878; 81%),
+<tt>NOUN --[<tt><a href="fr_rhapsodie-dep-amod.html">amod</a></tt>]--> ADJ</tt> (916; 98%),
 <tt>NOUN --[<tt><a href="fr_rhapsodie-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (630; 68%),
-<tt>VERB --[<tt><a href="fr_rhapsodie-dep-obl-mod.html">obl:mod</a></tt>]--> NOUN</tt> (377; 56%),
+<tt>VERB --[<tt><a href="fr_rhapsodie-dep-obl-mod.html">obl:mod</a></tt>]--> NOUN</tt> (379; 56%),
 <tt>VERB --[<tt><a href="fr_rhapsodie-dep-aux-tense.html">aux:tense</a></tt>]--> AUX</tt> (346; 74%),
 <tt>VERB --[<tt><a href="fr_rhapsodie-dep-expl-subj.html">expl:subj</a></tt>]--> PRON</tt> (313; 98%),
-<tt>VERB --[<tt><a href="fr_rhapsodie-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (280; 54%),
-<tt>NOUN --[<tt><a href="fr_rhapsodie-dep-cop.html">cop</a></tt>]--> AUX</tt> (270; 82%),
-<tt>ADJ --[<tt><a href="fr_rhapsodie-dep-cop.html">cop</a></tt>]--> AUX</tt> (266; 90%).
+<tt>VERB --[<tt><a href="fr_rhapsodie-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (279; 54%),
+<tt>ADJ --[<tt><a href="fr_rhapsodie-dep-cop.html">cop</a></tt>]--> AUX</tt> (275; 92%),
+<tt>NOUN --[<tt><a href="fr_rhapsodie-dep-cop.html">cop</a></tt>]--> AUX</tt> (270; 82%).
 

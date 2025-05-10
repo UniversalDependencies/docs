@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Filip Ginter, Jenna Kanerva, Veronika Laippala, Niko Miekka, Anna Missilä, Stina Ojala, Sampo Pyysalo.
 
 Repository: [UD_Finnish-TDT](https://github.com/UniversalDependencies/UD_Finnish-TDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_tdt215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_tdt216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -83,11 +83,11 @@ We thank all the authors who kindly allowed us to include their texts into the t
 
 
 <ul>
-<li>This corpus contains 15136 sentences, 201948 tokens and 202192 syntactic words.</li>
+<li>This corpus contains 15136 sentences, 201949 tokens and 202193 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 28664 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 28665 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -461,7 +461,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
   <li>Neg
     <ul>
       <li>AUX-Fin: ei, en, eivät, eikä, emme, et, enkä, älä, eikö, eivätkä</li>
-      <li>VERB-Fin: ei, en, et, eivät, eikö, älä, Eikä, Eipäs, Emmäkään, Enkä</li>
+      <li>VERB-Fin: ei, en, et, eivät, eikö, älä, Eikä, Emmäkään, Enkä, Etsä</li>
     </ul>
   </li>
 </ul>
@@ -582,7 +582,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
   <li>Ind
     <ul>
       <li>NUM: yhdessäkään</li>
-      <li>PRON: kaikki, mitään, jotain, joku, muita, muiden, muut, muuta, kaiken, kukaan</li>
+      <li>PRON: kaikki, mitään, jotain, joku, muita, muiden, muut, muuta, kukaan, kaiken</li>
     </ul>
   </li>
 </ul>
@@ -880,9 +880,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
       </li>
       <li>Pa,S
         <ul>
-          <li>ADV: kylläpäs</li>
+          <li>ADV: Eipäs, kylläpäs</li>
           <li>AUX-Fin: Ollaas, onpas</li>
-          <li>VERB-Fin: Arvaappas, Eipäs, Käydäänpäs, Onpas, alapas, kuulkaapas, näyttääpäs, olipas</li>
+          <li>VERB-Fin: Arvaappas, Käydäänpäs, Onpas, alapas, kuulkaapas, näyttääpäs, olipas</li>
         </ul>
       </li>
       <li>S
@@ -1009,7 +1009,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
     <ul>
       <li>Yes
         <ul>
-          <li>X: metal, common, death, a, and, be, fun, it, pic, DIY</li>
+          <li>X: metal, common, death, a, be, fun, it, pic, DIY, I</li>
         </ul>
       </li>
     </ul>
@@ -1210,7 +1210,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Gen (232)</li>
       <li>VERB-Inf--NOUN-Ins (1)</li>
       <li>VERB-Inf--NOUN-Nom (344)</li>
-      <li>VERB-Inf--NOUN-Par (106)</li>
+      <li>VERB-Inf--NOUN-Par (107)</li>
       <li>VERB-Inf--PRON-Acc (29)</li>
       <li>VERB-Inf--PRON-Gen (137)</li>
       <li>VERB-Inf--PRON-Nom (160)</li>
@@ -1231,12 +1231,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN (2)</li>
-      <li>VERB-Fin--NOUN-Ela (2)</li>
+      <li>VERB-Fin--NOUN-Ela (1)</li>
       <li>VERB-Fin--NOUN-Gen (1206)</li>
       <li>VERB-Fin--NOUN-Ill (3)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
-      <li>VERB-Fin--NOUN-Nom (1078)</li>
-      <li>VERB-Fin--NOUN-Par (2459)</li>
+      <li>VERB-Fin--NOUN-Nom (1079)</li>
+      <li>VERB-Fin--NOUN-Par (2462)</li>
       <li>VERB-Fin--PRON-Acc (91)</li>
       <li>VERB-Fin--PRON-All (1)</li>
       <li>VERB-Fin--PRON-Gen (200)</li>
@@ -1255,7 +1255,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Ela (1)</li>
       <li>VERB-Part--NOUN-Gen (338)</li>
       <li>VERB-Part--NOUN-Nom (498)</li>
-      <li>VERB-Part--NOUN-Par (1120)</li>
+      <li>VERB-Part--NOUN-Par (1121)</li>
       <li>VERB-Part--PRON-Acc (17)</li>
       <li>VERB-Part--PRON-Gen (46)</li>
       <li>VERB-Part--PRON-Nom (82)</li>

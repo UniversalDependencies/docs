@@ -42,14 +42,14 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 562 <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> tokens (82% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="cs_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (562; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (562; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (516; 92%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (392; 70%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (302; 54%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (302; 54%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (302; 54%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="cs_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (562; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (562; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (516; 92%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (393; 70%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (302; 54%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (302; 54%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (302; 54%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (46; 8% of non-empty `Tense`): <em>bude, budou, nebude, budeme, budu, nebudou, nebudu</em>
 * `Past` (260; 46% of non-empty `Tense`): <em>byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</em>
 * `Pres` (256; 46% of non-empty `Tense`): <em>je, jsou, jsem, není, jsme, jste, nejsou, Nejsme, bývají, bývá</em>
-* `EMPTY` (121): <em>by, být, bych, bychom, byste</em>
+* `EMPTY` (120): <em>by, být, bych, bychom, byste</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -96,7 +96,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 `NOUN` tokens may have the following values of `Tense`:
 
 * `Pres` (1; 100% of non-empty `Tense`): <em>vedoucích</em>
-* `EMPTY` (4482): <em>roce, roku, let, století, letech, době, území, období, oblasti, l</em>
+* `EMPTY` (4481): <em>roce, roku, let, století, letech, době, území, období, oblasti, l</em>
 
 ## Relations with Agreement in `Tense`
 
@@ -104,10 +104,9 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (145; 86%),
 <tt>VERB --[<tt><a href="cs_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (62; 71%),
 <tt>VERB --[<tt><a href="cs_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (61; 50%),
-<tt>VERB --[<tt><a href="cs_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (4; 80%),
+<tt>VERB --[<tt><a href="cs_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (5; 83%),
 <tt>AUX --[<tt><a href="cs_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="cs_pud-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_pud-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
 

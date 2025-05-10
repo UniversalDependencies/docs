@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="kpv_ikdp-dep-compound-nn.html">compound:nn</a></tt>.
 
-9 nodes (0%) are attached to their parents as `compound`.
+12 nodes (1%) are attached to their parents as `compound`.
 
-9 instances of `compound` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11111111111111.
+12 instances of `compound` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.08333333333333.
 
-The following 3 pairs of parts of speech are connected with `compound`: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (7; 78% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (1; 11% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (1; 11% instances).
+The following 3 pairs of parts of speech are connected with `compound`: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (7; 58% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (3; 25% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (2; 17% instances).
 
 
 ~~~ conllu
@@ -35,22 +35,24 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 compound	color:blue
-1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	рӧдитчылі	рӧдитчывны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	OrigLang=ru
-3	одиннадцатого	одиннадцать	ADJ	A	Case=Gen|Number=Sing	4	amod	_	Lang=ru
-4	мая	мая	NOUN	N	Case=Gen|Number=Sing	2	obl	_	Lang=ru
-5	тысяча	тысяча	NUM	Num	Case=Nom|Number=Sing|NumType=Card	6	nummod	_	Lang=ru|Note=Check
-6	девятьсот	девятьсот	NUM	Num	NumType=Card	7	compound	_	Lang=ru
-7	шестьдесят	шестьдесят	NUM	Num	NumType=Card	8	compound	_	Lang=ru
-8	второй	второй	ADJ	A	Case=Nom|Number=Sing	4	amod	_	Lang=ru
-9	год	год	NOUN	N	Case=Nom|Number=Sing	4	nmod	_	OrigLang=ru
-10	вылын	вылын	ADP	Po	Case=Ine|Number=Sing	9	case	_	SpaceAfter=No
-11	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 compound	color:blue
+1	Тае	тайӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	9	det	_	GTtags=Dem,Sg,Nom,Err/Dial
+2	вот	вот	ADV	Adv	_	9	discourse	_	GTtags=Parenthetic|SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	2	punct	_	_
+4	кызь	кызь	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	compound	_	GTtags=Card,Sg,Nom
+5	кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	9	nummod	_	GTtags=Card,Sg,Nom|SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	7	punct	_	_
+7	хах	хах	INTJ	Interj	_	9	discourse	_	SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	7	punct	_	_
+9	вонас	во	NOUN	N	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	obl	_	GTtags=Sg,Ins,PxSg3,So/CP
+10	олэмад	овны	VERB	V	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=2|VerbForm=Vnoun	12	advcl	_	GTtags=Err/Dial,Der,Der/ӧм,Der/NomAct,N,Sg,Ine|PxSg2
+11	мый	мый	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	12	nsubj	_	GTtags=Interr,Sg,Nom
+12	лоис	лоны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+13	?	?	PUNCT	PUNCT	_	12	punct	_	_
 
 ~~~
 
@@ -61,17 +63,15 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 compound	color:blue
-1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	рӧдитчылі	рӧдитчывны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	OrigLang=ru
-3	одиннадцатого	одиннадцать	ADJ	A	Case=Gen|Number=Sing	4	amod	_	Lang=ru
-4	мая	мая	NOUN	N	Case=Gen|Number=Sing	2	obl	_	Lang=ru
-5	тысяча	тысяча	NUM	Num	Case=Nom|Number=Sing|NumType=Card	6	nummod	_	Lang=ru|Note=Check
-6	девятьсот	девятьсот	NUM	Num	NumType=Card	7	compound	_	Lang=ru
-7	шестьдесят	шестьдесят	NUM	Num	NumType=Card	8	compound	_	Lang=ru
-8	второй	второй	ADJ	A	Case=Nom|Number=Sing	4	amod	_	Lang=ru
-9	год	год	NOUN	N	Case=Nom|Number=Sing	4	nmod	_	OrigLang=ru
-10	вылын	вылын	ADP	Po	Case=Ine|Number=Sing	9	case	_	SpaceAfter=No
-11	.	.	PUNCT	CLB	_	2	punct	_	_
+1	А	а	CCONJ	CCb	_	4	cc	_	SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	4	punct	_	_
+3	шестого	шестого	ADJ	A	_	4	amod	_	_
+4	сентября	сентябрь	NOUN	N	Case=Nom|Number=Sing	0	root	_	GTtags=Src/F,Sg,Der,Der/ProprietiveMod,A,Sg,Nom|Lang=ru|SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	8	punct	_	_
+6	девяносто	девяносто	NUM	Num	_	7	compound	_	_
+7	второй	второй	ADJ	A	_	8	amod	_	_
+8	годын	год	NOUN	N	Case=Ine|Number=Sing	4	conj	_	GTtags=Sg,Ine|SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

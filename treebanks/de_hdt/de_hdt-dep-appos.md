@@ -26,7 +26,7 @@ The following 64 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	wären	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 3	3500	3500	NUM	CARD	Number=Plur|NumType=Card	4	nummod	_	_
 4	Mark	Mark	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	_
-5	Anwaltskosten	Kosten	NOUN	NN	Gender=Neut|Number=Plur	4	appos	_	_
+5	Anwaltskosten	Anwaltskosten	NOUN	NN	Gender=Neut|Number=Plur	4	appos	_	_
 6	fällig	fällig	ADJ	ADJD	Degree=Pos|Variant=Short	7	advmod	_	_
 7	geworden	werden	AUX	VAPP	Aspect=Perf|VerbForm=Part	0	root	_	_
 8	.	.	PUNCT	$.	PunctType=Peri	7	punct	_	_
@@ -41,9 +41,9 @@ The following 64 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 4	fgColor:white
 # visual-style 4 5 appos	color:blue
 1	Verzögerte	verzögern	ADJ	ADJA	Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
-2	Freischaltungen	Schaltung	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+2	Freischaltungen	Freischaltung	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
 3	von	von	ADP	APPR	AdpType=Prep|Case=Dat	4	case	_	_
-4	T-ISDN	ISDN	NOUN	NN	Case=Dat	2	nmod	_	_
+4	T-ISDN	T-ISDN	NOUN	NN	Case=Dat	2	nmod	_	_
 5	xxl	xxl	X	FM	Foreign=Yes	4	appos	_	_
 
 ~~~

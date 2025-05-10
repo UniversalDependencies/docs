@@ -9,66 +9,56 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advmod`: <tt><a href="ab_abnc-dep-advmod-q.html">advmod:q</a></tt>.
 
-386 nodes (6%) are attached to their parents as `advmod`.
+558 nodes (6%) are attached to their parents as `advmod`.
 
-361 instances of `advmod` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.89896373056995.
+519 instances of `advmod` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.83154121863799.
 
-The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (359; 93% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (13; 3% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `advmod`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (520; 93% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (19; 3% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 advmod	color:blue
+1	Уаҳа	уа́ҳа	ADV	Adv	_	3	advmod	_	LMSeg:уа́ҳа
+2	акгьы	акы́	PRON	Pron_Indef_NH_Sg_Encl:гьы	Animacy=Nhum|Number=Sing|PronType=Ind	3	nsubj	_	LMSeg:акы́
+3	сыздырам	а-ды́рра	VERB	V_Dyn_Tr_Fin_Pot_Pres_Neg_S:3_S:Ad_Reln:Pot_PO:1Sg	Dyn=Yes|Number[po]=Sing|Person[po]=1|Person[subj]=3|Polarity=Neg|Reln=Pot|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	_	LMSeg:а-ды́р-ра|SpaceAfter=No
+4	!	!	PUNCT	Punct_ExclPoint	_	3	punct	_	LMSeg:!
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 advmod	color:blue
+1	–	–	PUNCT	Punct_Dash	_	4	punct	_	LMSeg:–
+2	Шаҟа	шаҟа́	ADV	Adv_Int_NH	Animacy=Nhum	3	advmod	_	LMSeg:шаҟа́
+3	аамҭа	а́амҭа	NOUN	Noun_NH_Sg_[Det]	Animacy=Nhum|Number=Sing	4	obl	_	LMSeg:а́амҭа
+4	икнаҳази	а-кна́ҳара	VERB	V_Dyn_Tr_StatPass_NonFin_Impf_QWhat_S:3	Dyn=No|Person[subj]=3|Subcat=Tran|Tense=Imp|VerbForm=NonFin|Voice=Pass	0	root	_	LMSeg:а-кна́·ҳа-ра|SpaceAfter=No
+5	?	?	PUNCT	Punct_IntMark	_	4	punct	_	LMSeg:?
+
+~~~
 
 
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 advmod	color:blue
-1	Амла	а́-мла	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	2	iobj	_	LMSeg:а́-мла
-2	иакуан	а-кра́	VERB	V_Dyn_Intr_Fin_Impf_S:3_IO:3SgNH	Dyn=Yes|Gender[io]=Neut|Number[io]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:а-к-ра́
-3	,	,	PUNCT	Punct_Comma	_	7	punct	_	LMSeg:,
-4	џьара	џьара́	ADV	Adv	_	6	advmod	_	LMSeg:џьара́
-5	фатәык	а́-фатә	NOUN	Noun_NH_Sg_Indet	Animacy=Nhum|Number=Sing	6	obj	_	LMSeg:а́-фатә
-6	аҧшаара	а́-ҧшаара	VERB	VN_Dyn_Sg_Det_Tr	Definite=Def|Dyn=Yes|Number=Sing|Subcat=Tran|VerbForm=Vnoun	7	xcomp:lo	_	LMSeg:а́-ҧшаа-ра
-7	иашьҭан	а́-шьҭазаара	VERB	V_Stat_Fin_Impf_S:3_LO:3SgNH	Dyn=No|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[subj]=3|Tense=Imp|VerbForm=Fin	2	conj	_	LMSeg:а́-шьҭа-заа-ра
-8	.	.	PUNCT	Punct_Period	_	2	punct	_	LMSeg:.
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 advmod	color:blue
-1	Акыр	акы́р	ADV	Adv	_	2	advmod	_	LMSeg:акы́р
-2	мшы	а́-мш	NOUN	Noun_NH_Sg	Animacy=Nhum|Number=Sing	3	obl	_	LMSeg:а́-мш
-3	илеиуаз	а-ле́ира	VERB	V_Dyn_Intr_NonFin_Impf_S:Rel_Rel	Dyn=Yes|Person[subj]=Rel|Subcat=Intr|Tense=Imp|VerbForm=NonFin	4	acl:relcl	_	LMSeg:а-ле́·и-ра
-4	ақәа	а-қәа́	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	5	nsubj	_	LMSeg:а-қәа́
-5	анааҟәыҵ	а-ҟәы́ҵра	VERB	V_Dyn_Intr_NonFin_Cnv_Aor_FPv:аа_When_S:3_S:Ad_LO:3SgNH	Dyn=Yes|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[subj]=3|RelType=Tmp|Subcat=Intr|Tense=Aor|VerbForm=NonFin	9	advcl	_	LMSeg:а-ҟәы́·ҵ-ра
-6	,	,	PUNCT	Punct_Comma	_	9	punct	_	LMSeg:,
-7	амра	а́-мра	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	9	nsubj	_	LMSeg:а́-мра
-8	каххаа	ка́ххаа	ADV	Adv_S:Ad	_	9	advmod	_	LMSeg:ка́ххаа
-9	иааҧхеит	а-ҧхара́	VERB	V_Dyn_Intr_Fin_Aor_FPv:аа_S:3	Dyn=Yes|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а-ҧха-ра́
-10	.	.	PUNCT	Punct_Period	_	9	punct	_	LMSeg:.
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 advmod	color:blue
-1	Ажәытәӡа	ажәы́тәӡа	ADV	Adv	_	4	advmod	_	LMSeg:ажәы́тәӡа
-2	зны	зны	ADV	Adv	_	1	advmod	_	LMSeg:зны
-3	Аҧсны	Аҧсны́	PROPN	Noun_Prop_Place	NameType=Geo	4	obl	_	LMSeg:Аҧсны́
-4	дынхон	а-нхара́	VERB	V_Dyn_Intr_Fin_Impf_S:3SgH	Dyn=Yes|Gender[subj]=Com|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:а-н·ха-ра́
-5	Базала	Базала	PROPN	Noun_Prop_Anthr_M	NameType=Geo	6	nsubj	_	LMSeg:Базала
-6	зыхьӡыз	а́-хьӡ	VERB	Noun_NH_Sg_Pred_NonFin_Impf_S:3_S:Ad_Rel_Poss:Rel	Animacy=Nhum|Dyn=No|Number=Sing|Person[psor]=Rel|Person[subj]=3|Tense=Imp|VerbForm=NonFin	7	acl:relcl	_	LMSeg:а́-хьӡ
-7	нхаҩык	а-нхаҩы́	NOUN	Noun_H_Sg_Indet	Animacy=Hum|Number=Sing	4	nsubj	_	LMSeg:а-нхаҩы́
-8	.	.	PUNCT	Punct_Period	_	4	punct	_	LMSeg:.
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 advmod	color:blue
+1	Ихахәы	а-хахәы́	NOUN	Noun_NH_Sg_Poss:3SgM	Animacy=Nhum|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	nsubj	_	LMSeg:а-хахәы́
+2	иҕарҧшарӡа	а-ҕарҧша́рӡа	ADV	Adv_S:3	Person[subj]=3	3	advmod	_	LMSeg:а-ҕар-ҧша́рӡа
+3	иҟаз	а́-ҟазаара	VERB	V_Stat_NonFin_Impf_S:Rel_Rel	Dyn=No|Person[subj]=Rel|Tense=Imp|VerbForm=NonFin	1	acl:relcl	_	LMSeg:а́-ҟа-заа-ра
+4	зынӡа	зынӡа́	ADV	Adv	_	5	advmod	_	LMSeg:зынӡа́
+5	ихахаӡа	ха́хаӡа	ADV	Adv_S:3	Person[subj]=3	6	advmod	_	LMSeg:ха́хаӡа
+6	игылт	а-гы́лара	VERB	V_Dyn_Intr_Fin_Aor_S:3	Dyn=Yes|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а-гы́ла-ра|SpaceAfter=No
+7	.	.	PUNCT	Punct_Period	_	6	punct	_	LMSeg:.
 
 ~~~
 

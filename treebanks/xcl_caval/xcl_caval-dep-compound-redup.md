@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="xcl_caval-dep-compound.html">compound</a></tt>.
 
-48 nodes (0%) are attached to their parents as `compound:redup`.
+55 nodes (0%) are attached to their parents as `compound:redup`.
 
-48 instances of `compound:redup` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.02083333333333.
+55 instances of `compound:redup` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.01818181818182.
 
-The following 5 pairs of parts of speech are connected with `compound:redup`: <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (30; 63% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (11; 23% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (4; 8% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `compound:redup`: <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (30; 55% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (12; 22% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (7; 13% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (4; 7% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 5 pairs of parts of speech are connected with `compound:redup`: <t
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 compound:redup	color:blue
-1	Նա	նա	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	3	nsubj	_	Translit=Na|LTranslit=na|Gloss=he/she/it/that
+1	Նա	նա	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	3	nsubj	_	Translit=Na|LTranslit=na|Gloss=he/she/it
 2	պատասխանի	պատասխանի	NOUN	_	Case=Acc|Number=Sing	3	obj	_	Translit=patasxani|LTranslit=patasxani|Gloss=answer
 3	ետ	տալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=et|LTranslit=tal|Gloss=give
 4	եւ	եւ	CCONJ	_	_	5	cc	_	Translit=ew|LTranslit=ew|Gloss=and
@@ -51,11 +51,11 @@ The following 5 pairs of parts of speech are connected with `compound:redup`: <t
 # visual-style 5 6 compound:redup	color:blue
 1	Եւ	եւ	CCONJ	_	_	2	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
 2	հրամայեաց	հրամայել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=hramayeacʻ|LTranslit=hramayel|Gloss=order
-3	նոցա	նա	PRON	_	Case=Dat|Deixis=Remt|Number=Plur|PronType=Dem	2	iobj	_	Translit=nocʻa|LTranslit=na|Gloss=he/she/it/that
+3	նոցա	նա	PRON	_	Case=Dat|Deixis=Remt|Number=Plur|PronType=Dem	2	iobj	_	Translit=nocʻa|LTranslit=na|Gloss=he/she/it
 4	բազմել	բազմել	VERB	_	VerbForm=Inf	2	xcomp	_	Translit=bazmel|LTranslit=bazmel|Gloss=sit
 5	երախանս	երախան	NOUN	_	Case=Acc|Number=Plur	4	obj	_	Translit=eraxans|LTranslit=eraxan|Gloss=assembly
 6	երախանս	երախան	NOUN	_	Case=Acc|Number=Plur	5	compound:redup	_	Translit=eraxans|LTranslit=eraxan|Gloss=assembly
-7	ի	ի	ADP	_	_	10	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
+7	ի	ի	ADP	_	ExtPos=ADP	10	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
 8	վերայ	վերայ	ADV	_	_	7	fixed	_	Translit=veray|LTranslit=veray|Gloss=above
 9	դալար	դալար	ADJ	_	Case=Nom|Number=Sing	10	amod	_	Translit=dalar|LTranslit=dalar|Gloss=green
 10	խոտոյ	խոտ	NOUN	_	Case=Gen|Number=Sing	4	obl	_	SpaceAfter=No|Translit=xotoy|LTranslit=xot|Gloss=grass
@@ -65,25 +65,48 @@ The following 5 pairs of parts of speech are connected with `compound:redup`: <t
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 13 compound:redup	color:blue
-1	Ասէ	ասել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=Asē|LTranslit=asel|Gloss=say
-2	ց	ց	ADP	_	_	3	case	_	SpaceAfter=No|Translit=cʻ|LTranslit=cʻ|Gloss=to
-3	աշակերտս	աշակերտ	NOUN	_	Case=Acc|Number=Plur	1	obl:arg	_	SpaceAfter=No|Translit=ašakerts|LTranslit=ašakert|Gloss=disciple
-4	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	3	det	_	SpaceAfter=No|Translit=n|LTranslit=n|Gloss=that
-5	՝	՝	PUNCT	_	_	6	punct	_	Translit=;|LTranslit=;
-6	բազմեցուցէք	բազմեցուցանել	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Cau	1	ccomp	_	Translit=bazmecʻowcʻēkʻ|LTranslit=bazmecʻowcʻanel|Gloss=multiply
-7	զ	զ	ADP	_	Definite=Def	8	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-8	դոսա	դա	PRON	_	Case=Acc|Deixis=Med|Number=Plur|PronType=Dem	6	obj	_	Translit=dosa|LTranslit=da|Gloss=that_one
-9	դասս	դաս	NOUN	_	Case=Acc|Number=Plur	6	obl	_	Translit=dass|LTranslit=das|Gloss=lesson
-10	դասս	դաս	NOUN	_	Case=Acc|Number=Plur	9	compound:redup	_	SpaceAfter=No|Translit=dass|LTranslit=das|Gloss=lesson
-11	:	:	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.
-12	յիսուն	յիսուն	NUM	_	Case=Acc|Number=Sing|NumType=Dist	6	nummod	_	Translit=yisown|LTranslit=yisown|Gloss=fifty
-13	յիսուն	յիսուն	NUM	_	Case=Acc|Number=Sing|NumType=Dist	12	compound:redup	_	SpaceAfter=No|Translit=yisown|LTranslit=yisown|Gloss=fifty
-14	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 23 24 compound:redup	color:blue
+1	Վայ	վայ	INTJ	_	_	0	root	_	Translit=Vay|LTranslit=vay|Gloss=woe
+2	ձեզ	դուք	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	1	iobj	_	Translit=jez|LTranslit=dowkʻ|Gloss=you_(pl.)
+3	դպրաց	դպիր	NOUN	_	Case=Dat|Number=Plur	2	appos	_	Translit=dpracʻ|LTranslit=dpir|Gloss=scribe
+4	եւ	եւ	CCONJ	_	_	5	cc	_	Translit=ew|LTranslit=ew|Gloss=and
+5	Փարիսեցւոց	Փարիսեցի	NOUN	_	Case=Dat|Number=Plur	3	conj	_	Translit=Pʻarisecʻwocʻ|LTranslit=Pʻarisecʻi|Gloss=Pharisee
+6	կեղծաւորաց	կեղծաւոր	NOUN	_	Case=Dat|Number=Plur	3	conj	_	SpaceAfter=No|Translit=kełcaworacʻ|LTranslit=kełcawor|Gloss=hypocrite
+7	,	,	PUNCT	_	_	9	punct	_	Translit=,|LTranslit=,
+8	զի	զի	SCONJ	_	_	9	mark	_	Translit=zi|LTranslit=zi|Gloss=because
+9	տասանորդէք	տասանորդել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	Translit=tasanordēkʻ|LTranslit=tasanordel|Gloss=tithe
+10	զ	զ	ADP	_	Definite=Def	11	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+11	անանուխ	անանուխ	NOUN	_	Case=Acc|Number=Sing	9	obj	_	SpaceAfter=No|Translit=ananowx|LTranslit=ananowx|Gloss=mint
+12	՝	՝	PUNCT	_	_	15	punct	_	Translit=;|LTranslit=;
+13	եւ	եւ	CCONJ	_	_	15	cc	_	Translit=ew|LTranslit=ew|Gloss=and
+14	զ	զ	ADP	_	Definite=Def	15	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+15	սամիթ	սամիթ	NOUN	_	Case=Acc|Number=Sing	11	conj	_	Translit=samitʻ|LTranslit=samitʻ|Gloss=dill
+16	եւ	եւ	CCONJ	_	_	18	cc	_	Translit=ew|LTranslit=ew|Gloss=and
+17	զ	զ	ADP	_	Definite=Def	18	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+18	չաման	չաման	NOUN	_	Case=Acc|Number=Sing	11	conj	_	SpaceAfter=No|Translit=čʻaman|LTranslit=čʻaman|Gloss=camion
+19	,	,	PUNCT	_	_	21	punct	_	Translit=,|LTranslit=,
+20	եւ	եւ	CCONJ	_	_	21	cc	_	Translit=ew|LTranslit=ew|Gloss=and
+21	թողէք	թողուլ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	Translit=tʻołēkʻ|LTranslit=tʻołowl|Gloss=let
+22	զ	զ	ADP	_	Definite=Def	23	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+23	ծանր	ծանր	ADJ	_	Case=Acc|Number=Sing	21	obj	_	Translit=canr|LTranslit=canr|Gloss=heavy
+24	ծանր	ծանր	ADJ	_	Case=Acc|Number=Sing	23	compound:redup	_	Translit=canr|LTranslit=canr|Gloss=heavy
+25	աւրինաց	աւրէն	NOUN	_	Case=Gen|Number=Plur	23	nmod	_	SpaceAfter=No|Translit=awrinacʻ|LTranslit=awrēn|Gloss=law
+26	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	25	det	_	Translit=n|LTranslit=n|Gloss=that
+27	զ	զ	ADP	_	Definite=Def	28	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+28	դատաստան	դատաստան	NOUN	_	Case=Acc|Number=Sing	23	appos	_	SpaceAfter=No|Translit=datastan|LTranslit=datastan|Gloss=judgment
+29	՝	՝	PUNCT	_	_	32	punct	_	Translit=;|LTranslit=;
+30	եւ	եւ	CCONJ	_	_	32	cc	_	Translit=ew|LTranslit=ew|Gloss=and
+31	զ	զ	ADP	_	Definite=Def	32	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+32	ողորմութիւն	ողորմութիւն	NOUN	_	Case=Acc|Number=Sing	28	conj	_	SpaceAfter=No|Translit=ołormowtʻiwn|LTranslit=ołormowtʻiwn|Gloss=mercy
+33	.	.	PUNCT	_	_	36	punct	_	Translit=:|LTranslit=:
+34	եւ	եւ	CCONJ	_	_	36	cc	_	Translit=ew|LTranslit=ew|Gloss=and
+35	զ	զ	ADP	_	Definite=Def	36	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+36	հաւատս	հաւատք	NOUN	_	Case=Acc|Number=Plur	28	conj	_	SpaceAfter=No|Translit=hawats|LTranslit=hawatkʻ|Gloss=belief
+37	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

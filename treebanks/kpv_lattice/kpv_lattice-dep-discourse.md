@@ -40,10 +40,10 @@ The following 10 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 3 discourse	color:blue
 1	Чойыс	чой	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	GTtags=Sg,Nom,PxSg3
-2	регыд	регыд	ADV	Adv	_	4	advmod:tmod	_	_
+2	регыд	регыд	ADV	Adv	_	4	advmod	_	_
 3	и	и	ADV	Adv	_	2	discourse	_	_
 4	лэччис	лэччыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3
-5	карӧ	кар	NOUN	N	Case=Ill|Number=Sing	4	obl:lmod	_	GTtags=Sg,Ill|SpaceAfter=No
+5	карӧ	кар	NOUN	N	Case=Ill|Number=Sing	4	obl	_	GTtags=Sg,Ill|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	8	punct	_	_
 7	бӧръя	бӧръя	ADJ	A	Case=Nom|Number=Sing	8	amod	_	GTtags=Sg,Nom
 8	теплоходъяснас	теплоход	NOUN	N	Case=Ins|Number=Plur|Number[psor]=Sing|Person[psor]=3	4	obl	_	GTtags=Pl,Ins,PxSg3|SpaceAfter=No

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Old_East_Slavic-Birchbark: POS Tags: `CCONJ`
 
 There are 17 `CCONJ` lemmas (0%), 77 `CCONJ` types (1%) and 1921 `CCONJ` tokens (7%).
-Out of 17 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 14 in number of types and 6 in number of tokens.
+Out of 17 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 14 in number of types and 6 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>а, и, да, та, любо, или, ни, али, чи, но</em>
 
@@ -67,7 +67,7 @@ The 10 most frequent ambiguous types:  <em>а</em> (<tt><a href="orv_birchbark-p
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 4.529412 (the average of all parts of speech is 2.410435).
+The form / lemma ratio of `CCONJ` is 4.529412 (the average of all parts of speech is 2.411136).
 
 The 1st highest number of forms (26) was observed with the lemma “и”: <em>(и, (и), (ӏ, (…)<lbr/>и, -----------------------[и], ------------------[и, [и, [и], [ӏ, [ӏ], {и, ·и, ·ӏ·, и, и), и], и, і, ї, ӏ, ӏ), ӏ], …[и, …[и], …и, ꙑ</em>.
 
@@ -88,7 +88,7 @@ Examples: <em>а, и, да, ӏ, [а], та, [и, а], [и], любо</em>
 
 `CCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="orv_birchbark-dep-cc.html">cc</a></tt> (1885; 98% instances), <tt><a href="orv_birchbark-dep-conj.html">conj</a></tt> (12; 1% instances), <tt><a href="orv_birchbark-dep-dep.html">dep</a></tt> (10; 1% instances), <tt><a href="orv_birchbark-dep-fixed.html">fixed</a></tt> (7; 0% instances), <tt><a href="orv_birchbark-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="orv_birchbark-dep-advmod.html">advmod</a></tt> (3; 0% instances)
 
-Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (900; 47% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (528; 27% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (208; 11% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (73; 4% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt> (61; 3% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (50; 3% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (32; 2% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (30; 2% instances), <tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="orv_birchbark-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="orv_birchbark-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt> (7; 0% instances),  (4; 0% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (900; 47% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (529; 28% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (207; 11% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (73; 4% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt> (61; 3% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (51; 3% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (32; 2% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (30; 2% instances), <tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="orv_birchbark-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="orv_birchbark-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt> (7; 0% instances),  (4; 0% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
 1892 (98%) `CCONJ` nodes are leaves.
 

@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.15 release.
 
-The following people have contributed to making this treebank part of UD: Luigi Talamo, Edita Luftiu, Nelda Kote, Rozana Rushiti, Anila Cepani.
+The following people have contributed to making this treebank part of UD: Luigi Talamo, Edita Luftiu, Nelda Kote, Rozana Rushiti, Anila Çepani.
 
 Repository: [UD_Albanian-STAF](https://github.com/UniversalDependencies/UD_Albanian-STAF)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsq_staf215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsq_staf216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -55,7 +55,7 @@ Many thanks to Nelda Kote and her group for providing me with their unpublished 
 ## References
 
 * Luigi Talamo. Introducing STAF: the Saarbruecken Treebank of Albanian Fiction. Submitted.
-* Nelda Kote, Rozana Rushiti, Anila Cepani, Alba Haveriku, Evis Trandafili, Elinda Kajo Mece, Elsa Skenderi Rakipllari, Lindita Xhanari, Albana Deda: Universal Dependencies Treebank for Standard Albanian: A new approach, Proceedings of the Sixth International Conference Computational Linguistics in Bulgaria, 9 – 10 September 2024, Sofia, Bulgaria, ISSN: 2367 5675.
+* Nelda Kote, Rozana Rushiti, Anila Çepani, Alba Haveriku, Evis Trandafili, Elinda Kajo Mece, Elsa Skenderi Rakipllari, Lindita Xhanari, Albana Deda: Universal Dependencies Treebank for Standard Albanian: A new approach, Proceedings of the Sixth International Conference Computational Linguistics in Bulgaria, 9 – 10 September 2024, Sofia, Bulgaria, ISSN: 2367 5675.
 
 
 

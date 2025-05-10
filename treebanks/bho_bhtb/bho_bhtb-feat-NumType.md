@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (12; 100% of non-empty `NumType`): बिआह, बरीस, तोड़, पढाई, विश्वास
-* `EMPTY` (1842): लोग, जी, रंग, बिआह, देश, जब, भाषा, आजु, आदमी, साल
+* `EMPTY` (1843): लोग, जी, रंग, बिआह, देश, जब, भाषा, आजु, आदमी, साल
 
 ### `VERB`
 
@@ -91,7 +91,7 @@ The most frequent other feature values with which `PART` and `NumType` co-occurr
 `PART` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): वां
-* `EMPTY` (191): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
+* `EMPTY` (190): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
 
 ## Relations with Agreement in `NumType`
 

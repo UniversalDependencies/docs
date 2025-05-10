@@ -61,7 +61,7 @@ The most frequent other feature values with which `AUX` and `Subcat` co-occurred
 The 10 most frequent relations where parent and child node agree in `Subcat`:
 <tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> VERB</tt> (228; 62%),
 <tt>VERB --[<tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (72; 51%),
-<tt>VERB --[<tt><a href="ka_glc-dep-aux.html">aux</a></tt>]--> AUX</tt> (19; 61%),
+<tt>VERB --[<tt><a href="ka_glc-dep-aux.html">aux</a></tt>]--> AUX</tt> (18; 60%),
 <tt>VERB --[<tt><a href="ka_glc-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="ka_glc-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1; 100%).

@@ -24,8 +24,8 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 19 2 dislocated	color:blue
 1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
 2	That	that	DET	DD	PronType=Dem	19	dislocated	_	_
-3	King	King	PROPN	SP	_	2	nmod	_	_
-4	Shakespeare	Shakespeare	PROPN	SP	_	3	flat	_	SpaceAfter=No
+3	King	King	PROPN	SP	_	4	nmod:desc	_	_
+4	Shakespeare	Shakespeare	PROPN	SP	_	2	nmod	_	SpaceAfter=No
 5	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	2	punct	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_

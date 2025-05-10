@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Kiche-IU: POS Tags: `ADV`
 
 There are 75 `ADV` lemmas (5%), 85 `ADV` types (4%) and 394 `ADV` tokens (4%).
-Out of 15 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 7 in number of tokens.
+Out of 16 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 7 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>sibʼalaj, bʼi, uloq, kan, kamik, chik, iwir, na, utz, chweʼq</em>
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>sibʼalaj</em> (<tt><a href="quc_iu-p
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.133333 (the average of all parts of speech is 1.617880).
+The form / lemma ratio of `ADV` is 1.133333 (the average of all parts of speech is 1.617435).
 
 The 1st highest number of forms (4) was observed with the lemma “uloq”: <em>loq, ulo, uloq, uʼloq</em>.
 

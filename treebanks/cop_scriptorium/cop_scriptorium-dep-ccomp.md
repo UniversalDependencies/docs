@@ -82,7 +82,7 @@ The following 19 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 13 ccomp	color:blue
-1	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	4	mark	_	_
+1	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=SCONJ	4	mark	_	_
 2	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	1	fixed	_	_
 3	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
 4	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	0	root	_	_

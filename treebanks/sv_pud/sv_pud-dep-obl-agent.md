@@ -69,8 +69,8 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 4	mest	mycket	ADV	AB|SUV	Degree=Sup	5	advmod	5:advmod	_
 5	framgångsrika	framgångsrik	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	6	amod	6:amod	_
 6	filmen	film	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	nsubj	7:nsubj	_
-7	El	El	PROPN	PM|NOM	Case=Nom	0	root	0:root	_
-8	Greco	Greco	PROPN	PM|NOM	Case=Nom	7	flat:name	7:flat:name	SpaceAfter=No
+7	El	el	PROPN	PM|NOM	Case=Nom	0	root	0:root	_
+8	Greco	greco	PROPN	PM|NOM	Case=Nom	7	flat:name	7:flat:name	SpaceAfter=No
 9	,	,	PUNCT	MID	_	10	punct	10:punct	_
 10	regisserad	regisserad	ADJ	PC|PRF|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part	7	acl	7:acl	_
 11	av	av	ADP	PP	_	12	case	12:case	_

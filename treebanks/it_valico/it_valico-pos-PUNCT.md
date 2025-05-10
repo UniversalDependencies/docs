@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.389210).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.391304).
 
 The 1st highest number of forms (2) was observed with the lemma “!”: <em>!, !!</em>.
 

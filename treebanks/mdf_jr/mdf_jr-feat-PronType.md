@@ -63,12 +63,12 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 
 5 <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="mdf_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (5; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="mdf_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (4; 80%).
 
 `ADV` tokens may have the following values of `PronType`:
 
 * `Dem` (1; 20% of non-empty `PronType`): <em>тяза</em>
 * `Ind` (2; 40% of non-empty `PronType`): <em>коданга, козонга</em>
 * `Int` (2; 40% of non-empty `PronType`): <em>Мес, коста</em>
-* `EMPTY` (426): <em>нинге, пяк, кода, аньцек, сяда, ни, меле, эста, ичкозе, тага</em>
+* `EMPTY` (419): <em>нинге, пяк, кода, аньцек, сяда, ни, меле, эста, ичкозе, тага</em>
 

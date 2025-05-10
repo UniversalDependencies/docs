@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Fem` (3; 50% of non-empty `Gender`): <em>Conpatronin, jure, rokas</em>
 * `Masc` (3; 50% of non-empty `Gender`): <em>Heil, Sieg, globus</em>
-* `EMPTY` (115679): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
+* `EMPTY` (115704): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
 
 ### `PROPN`
 
@@ -35,7 +35,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 `PROPN` tokens may have the following values of `Gender`:
 
 * `Fem` (4; 100% of non-empty `Gender`): <em>St., Antoni-Gilde, Johannis-Gemeinde</em>
-* `EMPTY` (26276): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
+* `EMPTY` (26278): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
 
 ### `ADJ`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 * `Fem` (1; 50% of non-empty `Gender`): <em>Labas</em>
 * `Masc` (1; 50% of non-empty `Gender`): <em>ancien</em>
-* `EMPTY` (36868): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, esimene, oluline</em>
+* `EMPTY` (36879): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, esimene, oluline</em>
 
 ### `DET`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 `DET` tokens may have the following values of `Gender`:
 
 * `Fem` (2; 100% of non-empty `Gender`): <em>der</em>
-* `EMPTY` (7182): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, nende</em>
+* `EMPTY` (7179): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, nende</em>
 
 ### `PRON`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 `PRON` tokens may have the following values of `Gender`:
 
 * `Neut` (1; 100% of non-empty `Gender`): <em>It</em>
-* `EMPTY` (22805): <em>ta, see, oma, mis, ma, kes, seda, tema, mida, nad</em>
+* `EMPTY` (22812): <em>ta, see, oma, mis, ma, kes, seda, tema, mida, nad</em>
 
 ## Relations with Agreement in `Gender`
 

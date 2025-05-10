@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 1903567 tokens (55%) have a non-empty value of `Number`.
 143462 types (76%) occur at least once with a non-empty value of `Number`.
-34954 lemmas (50%) occur at least once with a non-empty value of `Number`.
+110271 lemmas (76%) occur at least once with a non-empty value of `Number`.
 The feature is used with 10 part-of-speech tags: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (694170; 20% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (493647; 14% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (172255; 5% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (134321; 4% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (134054; 4% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (128855; 4% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (73108; 2% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (71302; 2% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (1676; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (179; 0% instances).
 
 ### `NOUN`
@@ -31,10 +31,10 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 <table>
   <tr><th>Paradigm <i>Jahr</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>Jahr</em></td><td><em>Jahre</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>Jahre, Jahr, Finanzjahr</em></td><td><em>Jahren, 70er-Jahren, 50-er-Jahren, 50er-Jahren, 80er-Jahren, 90er-Jahren, Achtzigerjahren, Anfangsjahren, Boom-Jahren, Folgejahren, Internet-Jahren, Neunzigerjahren, Startjahren, Wachstumsjahren</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>Jahres, Jahrs, Finanzjahres, Startup-Jahres, Verkaufsjahres</em></td><td><em>Jahre, 80er-Jahre</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Boomjahr</em></td><td><em>Jahre</em></td></tr>
-  <tr><td><tt></tt></td><td><em>Jahr, Geburtsjahr, Gruner+Jahr, Fiskaljahr, Geschäftjahr, Steuerjahr, Studienjahr, Wachstumsjahr, Wahljahr, Abschreibungsjahr, Aktionsjahr, Ausbildungsjahr, Boom-Jahr, Boomjahr, Expo-Jahr, Finanzjahr, Früjahr, Gründungsjahr, Jubiläumsjahr, Krisenjahr, Registrierungsjahr, Spitzenjahr, UMTS-Jahr, Verlustjahr, Vertragsjahr, Windows-95-Jahr, dotcom-Jahr</em></td><td><em>Jahre, 90er-Jahre, 80er-Jahre, 60er-Jahre, 90erJahre, Arbeitsjahre, Folgejahre, Modelljahre</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>Jahre, Jahr</em></td><td><em>Jahren</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>Jahres, Jahrs</em></td><td><em>Jahre</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>Jahre</em></td></tr>
+  <tr><td><tt></tt></td><td><em>Jahr</em></td><td><em>Jahre</em></td></tr>
 </table>
 
 ### `DET`
@@ -263,7 +263,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 
 * `Plur` (1540; 92% of non-empty `Number`): <em>mehrere, meisten, mehreren, mehrerer, mehr, weniger</em>
 * `Sing` (136; 8% of non-empty `Number`): <em>mehr, weniger, meisten, meiste, erstenmal</em>
-* `EMPTY` (194918): <em>auch, noch, nur, so, aber, bereits, mehr, allerdings, damit, schon</em>
+* `EMPTY` (194917): <em>auch, noch, nur, so, aber, bereits, mehr, allerdings, damit, schon</em>
 
 <table>
   <tr><th>Paradigm <i>mehr</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -289,11 +289,11 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="de_hdt-dep-det.html">det</a></tt>]--> DET</tt> (430617; 96%),
+<tt>NOUN --[<tt><a href="de_hdt-dep-det.html">det</a></tt>]--> DET</tt> (430603; 96%),
 <tt>NOUN --[<tt><a href="de_hdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (156711; 90%),
 <tt>NOUN --[<tt><a href="de_hdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (84329; 53%),
 <tt>VERB --[<tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (61922; 62%),
-<tt>NOUN --[<tt><a href="de_hdt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (46550; 97%),
+<tt>NOUN --[<tt><a href="de_hdt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (46549; 97%),
 <tt>VERB --[<tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (28090; 65%),
 <tt>NOUN --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (22775; 58%),
 <tt>NOUN --[<tt><a href="de_hdt-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (20480; 58%),

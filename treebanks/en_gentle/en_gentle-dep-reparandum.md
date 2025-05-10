@@ -30,7 +30,7 @@ The following 15 pairs of parts of speech are connected with `reparandum`: <tt><
 6	how	how	ADV	WRB	PronType=Int	7	advmod	7:advmod	CxnElt=7:Interrogative-WHInfo-Direct.WHWord
 7	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Existential-CopPred-ThereExpl,Interrogative-WHInfo-Direct|CxnElt=7:Interrogative-WHInfo-Direct.Clause
 8	there	there	PRON	EX	PronType=Dem	7	expl	7:expl	_
-9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	Entity=(81-event-new-cf1-2-coref
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	Entity=(81-event-new-nnsnn-cf1-2-coref
 10	penalty	penalty	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	CxnElt=7:Existential-CopPred-ThereExpl.Pivot|Entity=81)|MSeg=penal-ty
 11	what	what	PRON	WP	PronType=Int	13	nsubj	13:nsubj	Discourse=restatement-partial:85->84:0:_
 12	just	just	ADV	RB	_	13	advmod	13:advmod	_
@@ -46,26 +46,26 @@ The following 15 pairs of parts of speech are connected with `reparandum`: <tt><
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 22 21 reparandum	color:blue
-1	That	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	6:nsubj	Discourse=joint-list_m:67->66:0:_|Entity=(86-object-giv:act-cf1*-1-ana)|PDTB=Implicit:Expansion.Conjunction:and:_:484-492:493-516
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	6:nsubj	Discourse=joint-list_m:67->66:0:_|Entity=(85-object-giv:act-nnnnn-cf1*-1-ana)|PDTB=Implicit:Expansion.Conjunction:and:_:484-492:493-516
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
-3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	Entity=(86-object-giv:act-cf1*-4-coref
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	Entity=(85-object-giv:act-nnnnn-cf1*-4-coref
 4	very	very	ADV	RB	_	5	advmod	5:advmod	_
 5	solid	solid	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
-6	pickup	pickup	NOUN	NN	Number=Sing	0	root	0:root	Entity=86)
-7	to	to	PART	TO	_	8	mark	8:mark	Discourse=purpose-attribute:68->67:0:syn-inf-499
+6	pickup	pickup	NOUN	NN	Number=Sing	0	root	0:root	Entity=85)
+7	to	to	PART	TO	_	8	mark	8:mark	Discourse=purpose-attribute:68->67:0:_
 8	start	start	VERB	VB	VerbForm=Inf	6	advcl	6:advcl:to	_
-9	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	10:det	Entity=(4-event-giv:inact-cf2-2-coref
+9	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	10:det	Entity=(4-event-giv:inact-ssssn-cf2-2-coref
 10	match	match	NOUN	NN	Number=Sing	8	obj	8:obj	Entity=4)|SpaceAfter=No
 11	,	,	PUNCT	,	_	14	punct	14:punct	_
-12	single	single	ADJ	JJ	Degree=Pos	13	amod	13:amod	Discourse=elaboration-additional:69->62:3:_|Entity=(88-object-new-cf3-2-sgl
-13	shockwave	shockwave	NOUN	NN	Number=Sing	14	nsubj	14:nsubj	Entity=88)|MSeg=shock-wave
+12	single	single	ADJ	JJ	Degree=Pos	13	amod	13:amod	Discourse=elaboration-additional:69->62:3:_|Entity=(87-object-new-nnnnn-cf3-2-sgl
+13	shockwave	shockwave	NOUN	NN	Number=Sing	14	nsubj	14:nsubj	Entity=87)|MSeg=shock-wave
 14	remaining	remain	VERB	VBG	Tense=Pres|VerbForm=Part	6	parataxis	6:parataxis	MSeg=remain-ing|SpaceAfter=No
 15	,	,	PUNCT	,	_	18	punct	18:punct	_
-16	legendary	legendary	ADJ	JJ	Degree=Pos	18	amod	18:amod	Discourse=joint-list_m:70->69:0:_|Entity=(89-object-new-cf4-3-sgl|MSeg=legend-ary
-17	grenade	grenade	NOUN	NN	Number=Sing	18	compound	18:compound	Entity=(90-object-new-cf6-1-sgl)
-18	launcher	launcher	NOUN	NN	Number=Sing	14	conj	14:conj	Entity=89)
-19	drop	drop	NOUN	NN	Number=Sing	20	compound	20:compound	Entity=(91-object-new-cf5-2-sgl
-20	gun	gun	NOUN	NN	Number=Sing	14	conj	14:conj	Entity=91)
+16	legendary	legendary	ADJ	JJ	Degree=Pos	18	amod	18:amod	Discourse=joint-list_m:70->69:0:_|Entity=(88-object-new-nnnnn-cf4-3-sgl|MSeg=legend-ary
+17	grenade	grenade	NOUN	NN	Number=Sing	18	compound	18:compound	Entity=(89-object-new-nnnnn-cf6-1-sgl)
+18	launcher	launcher	NOUN	NN	Number=Sing	14	conj	14:conj	Entity=88)
+19	drop	drop	NOUN	NN	Number=Sing	20	compound	20:compound	Entity=(90-object-new-nnnnn-cf5-2-sgl
+20	gun	gun	NOUN	NN	Number=Sing	14	conj	14:conj	Entity=90)
 21	and	and	CCONJ	CC	_	22	reparandum	22:reparandum	_
 22	as	as	ADV	RB	ExtPos=ADV	20	advmod	20:advmod	_
 23	well	well	ADV	RB	Degree=Pos	22	fixed	22:fixed	SpaceAfter=No
@@ -88,7 +88,7 @@ The following 15 pairs of parts of speech are connected with `reparandum`: <tt><
 6	how	how	ADV	WRB	PronType=Int	7	advmod	7:advmod	CxnElt=7:Interrogative-WHInfo-Direct.WHWord
 7	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Existential-CopPred-ThereExpl,Interrogative-WHInfo-Direct|CxnElt=7:Interrogative-WHInfo-Direct.Clause
 8	there	there	PRON	EX	PronType=Dem	7	expl	7:expl	_
-9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	Entity=(81-event-new-cf1-2-coref
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	Entity=(81-event-new-nnsnn-cf1-2-coref
 10	penalty	penalty	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	CxnElt=7:Existential-CopPred-ThereExpl.Pivot|Entity=81)|MSeg=penal-ty
 11	what	what	PRON	WP	PronType=Int	13	nsubj	13:nsubj	Discourse=restatement-partial:85->84:0:_
 12	just	just	ADV	RB	_	13	advmod	13:advmod	_

@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: Relations: `advmod:neg`
 
 This relation is a language-specific subtype of <tt><a href="sms_giellagas-dep-advmod.html">advmod</a></tt>.
-There are also 6 other language-specific subtypes of `advmod`: <tt><a href="sms_giellagas-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="sms_giellagas-dep-advmod-eval.html">advmod:eval</a></tt>, <tt><a href="sms_giellagas-dep-advmod-foc.html">advmod:foc</a></tt>, <tt><a href="sms_giellagas-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="sms_giellagas-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="sms_giellagas-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
 8 nodes (0%) are attached to their parents as `advmod:neg`.
 
@@ -34,7 +33,7 @@ The following 4 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 9	ääkka	ääkkaž	NOUN	N	Animacy=Hum|Case=Gen|Number=Sing	10	nmod:poss	_	GTtags=Sem/Hum,Sg,Gen
 10	niõđâž	niõđâž	NOUN	N	Case=Nom|Number=Sing	15	nsubj	_	GTtags=Sg,Nom
 11	pâi	pâi	ADV	Adv	_	15	advmod	_	GTtags=@ADVL>
-12	peeiʹvin	peiʹvv	NOUN	N	Case=Com|Number=Sing	15	obl:tmod	_	GTtags=Sg,Com,@>ADVL
+12	peeiʹvin	peiʹvv	NOUN	N	Case=Com|Number=Sing	15	obl	_	GTtags=Sg,Com,@>ADVL
 13	da	da	CCONJ	CC	_	14	cc	_	_
 14	mannuin	mään	NOUN	N	Case=Com|Number=Sing	12	conj	_	GTtags=Sg,Com
 15	seârr	siõrrâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
@@ -59,14 +58,14 @@ The following 4 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 4	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	6	aux	_	GTtags=Neg,Ind,Sg1,@+FAUXV
 5	ni	ni	PART	Pcle	Polarity=Neg	6	advmod:neg	_	GTtags=Pcle,Neg
 6	vuâmmšõõttâm	vuâmmšõõttâd	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past	0	root	_	GTtags=Ind,Prt,ConNeg
-7	mååusat	mååusat	ADV	Adv	_	6	advmod:lmod	_	_
-8	tok	tok	ADV	Adv	_	6	advmod:lmod	_	_
-9	koʹst	koʹst	ADV	Adv	Case=Loc	13	advmod:lmod	_	GTtags=Loc
+7	mååusat	mååusat	ADV	Adv	_	6	advmod	_	_
+8	tok	tok	ADV	Adv	_	6	advmod	_	_
+9	koʹst	koʹst	ADV	Adv	Case=Loc	13	advmod	_	GTtags=Loc
 10	vuõʹlǧǧem	vueʹlǧǧed	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	13	reparandum	_	GTtags=Ind,Prt,Sg1
-11	go	ko	ADV	Adv	_	10	advmod:tmod	_	SpaceAfter=No
+11	go	ko	ADV	Adv	_	10	advmod	_	SpaceAfter=No
 12	...	...	PUNCT	PUNCT	_	13	punct	_	_
 13	puõʹttem	pueʹtted	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	8	advcl	_	GTtags=Ind,Prt,Sg1
-14	âʹtte	âʹte	ADV	Adv	AdvType=Tim	13	advmod:tmod	_	GTtags=Sem/Time
+14	âʹtte	âʹte	ADV	Adv	AdvType=Tim	13	advmod	_	GTtags=Sem/Time
 15	ni	ni	PART	Pcle	Polarity=Neg	13	advmod:neg	_	SpaceAfter=No
 16	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No
 17	”	”	PUNCT	PUNCT	_	6	punct	_	GTtags=RIGHT
@@ -90,7 +89,7 @@ The following 4 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 8	vuäʹbbes	vuäʹbb	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	nsubj	_	GTtags=Sem/Kin,Sg,Nom,PxSg3
 9	i-ǥõl	i-ǥõl	AUX	_	Polarity=Neg	12	aux	_	_
 10	ni	ni	PART	Pcle	Polarity=Neg	11	advmod:neg	_	GTtags=Pcle,Neg
-11	koʹst	koʹst	ADV	Adv	Case=Loc	12	advmod:lmod	_	GTtags=Loc
+11	koʹst	koʹst	ADV	Adv	Case=Loc	12	advmod	_	GTtags=Loc
 12	jååʹtted	jååʹtted	VERB	V	VerbForm=Inf	6	conj	_	GTtags=Inf|SpaceAfter=No
 13	.	.	PUNCT	PUNCT	_	6	punct	_	_
 

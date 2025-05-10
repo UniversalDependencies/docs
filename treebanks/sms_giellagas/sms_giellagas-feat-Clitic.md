@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `AddI`, `Han`, `Os`, `QstA`.
 
-24 tokens (1%) have a non-empty value of `Clitic`.
-18 types (2%) occur at least once with a non-empty value of `Clitic`.
-15 lemmas (3%) occur at least once with a non-empty value of `Clitic`.
-The feature is used with 5 part-of-speech tags: <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+21 tokens (1%) have a non-empty value of `Clitic`.
+16 types (2%) occur at least once with a non-empty value of `Clitic`.
+14 lemmas (3%) occur at least once with a non-empty value of `Clitic`.
+The feature is used with 5 part-of-speech tags: <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `ADV`
 
@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADV` and `Clitic` co-occurred
 `ADV` tokens may have the following values of `Clitic`:
 
 * `AddI` (6; 75% of non-empty `Clitic`): <em>tok-i, nuʹt-i, pâi-i, eʹpet-i</em>
-* `QstA` (2; 25% of non-empty `Clitic`): <em>olgglab-a, koozz-a</em>
+* `QstA` (2; 25% of non-empty `Clitic`): <em>koozz-a, olgglab-a</em>
 
 ### `PRON`
 
@@ -37,26 +37,6 @@ The most frequent other feature values with which `PRON` and `Clitic` co-occurre
 * `Os` (1; 13% of non-empty `Clitic`): <em>ton-õs</em>
 * `QstA` (1; 13% of non-empty `Clitic`): <em>jiânnai-a</em>
 
-### `AUX`
-
-3 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Clitic`.
-
-The most frequent other feature values with which `AUX` and `Clitic` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (2; 67%).
-
-`AUX` tokens may have the following values of `Clitic`:
-
-* `QstA` (3; 100% of non-empty `Clitic`): <em>lij-a, leäk-a</em>
-
-### `VERB`
-
-3 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Clitic`.
-
-The most frequent other feature values with which `VERB` and `Clitic` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=2</tt> (3; 100%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2; 67%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2; 67%).
-
-`VERB` tokens may have the following values of `Clitic`:
-
-* `QstA` (3; 100% of non-empty `Clitic`): <em>Haaʹlääk-a, leäk-a, vueʹljžiǩ-a</em>
-
 ### `NOUN`
 
 2 <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Clitic`.
@@ -67,4 +47,24 @@ The most frequent other feature values with which `NOUN` and `Clitic` co-occurre
 
 * `Han` (1; 50% of non-empty `Clitic`): <em>aalmi-han</em>
 * `QstA` (1; 50% of non-empty `Clitic`): <em>Šurr-a</em>
+
+### `VERB`
+
+2 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Clitic`.
+
+The most frequent other feature values with which `VERB` and `Clitic` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=2</tt> (2; 100%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2; 100%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2; 100%).
+
+`VERB` tokens may have the following values of `Clitic`:
+
+* `QstA` (2; 100% of non-empty `Clitic`): <em>Haaʹlääk-a, leäk-a</em>
+
+### `AUX`
+
+1 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Clitic`.
+
+The most frequent other feature values with which `AUX` and `Clitic` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%).
+
+`AUX` tokens may have the following values of `Clitic`:
+
+* `QstA` (1; 100% of non-empty `Clitic`): <em>Lij-a</em>
 

@@ -31,7 +31,7 @@ The following 60 pairs of parts of speech are connected with `discourse`: <tt><a
 7	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	isso	isso	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	3	parataxis	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	8	punct	_	_
-10	rsrsr	rsrsr	X	_	_	3	discourse	_	SpaceAfter=No
+10	rsrsr	rsrsr	X	_	_	3	discourse	_	_
 
 ~~~
 
@@ -55,7 +55,7 @@ The following 60 pairs of parts of speech are connected with `discourse`: <tt><a
 11	R$	R$	SYM	_	_	8	nmod	_	SpaceAfter=No
 12	13	13	NUM	_	NumType=Card	11	nummod	_	_
 13	?	?	PUNCT	_	_	2	punct	_	_
-14	=)	=)	SYM	_	_	2	discourse	_	SpaceAfter=No
+14	=)	=)	SYM	_	_	2	discourse	_	_
 
 ~~~
 
@@ -81,7 +81,7 @@ The following 60 pairs of parts of speech are connected with `discourse`: <tt><a
 13	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	vez	vez	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
 15	!	!	PUNCT	_	_	4	punct	_	_
-16	=)	=)	SYM	_	_	4	discourse	_	SpaceAfter=No
+16	=)	=)	SYM	_	_	4	discourse	_	_
 
 ~~~
 

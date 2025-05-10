@@ -48,7 +48,7 @@ The most frequent other feature values with which `AUX` and `Person[obj]` co-occ
 ## Relations with Agreement in `Person[obj]`
 
 The 10 most frequent relations where parent and child node agree in `Person[obj]`:
-<tt>VERB --[<tt><a href="ka_glc-dep-aux.html">aux</a></tt>]--> AUX</tt> (17; 55%),
+<tt>VERB --[<tt><a href="ka_glc-dep-aux.html">aux</a></tt>]--> AUX</tt> (16; 53%),
 <tt>VERB --[<tt><a href="ka_glc-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<tt><a href="ka_glc-dep-appos.html">appos</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%).

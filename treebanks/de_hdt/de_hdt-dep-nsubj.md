@@ -23,11 +23,11 @@ The following 79 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj	color:blue
-1	Konkursgerüchte	Gerücht	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	_
+1	Konkursgerüchte	Konkursgerücht	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	_
 2	drücken	drücken	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	Kurs	Kurs	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
 4	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det:poss	_	_
-5	Amazon-Aktie	Aktie	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	3	nmod:poss	_	_
+5	Amazon-Aktie	Amazon-Aktie	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	3	nmod:poss	_	_
 
 ~~~
 
@@ -60,7 +60,7 @@ The following 79 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 1	CCC	CCC	PROPN	NE	Case=Nom	2	nsubj	_	_
 2	warnt	warnen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	vor	vor	ADP	APPR	AdpType=Prep|Case=Dat	4	case	_	_
-4	Cyber-Krieg	Krieg	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	_
+4	Cyber-Krieg	Cyber-Krieg	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	_
 5	gegen	gegen	ADP	APPR	AdpType=Prep|Case=Acc	6	case	_	_
 6	Jugoslawien	Jugoslawien	PROPN	NE	Case=Acc|Number=Sing	4	nmod	_	_
 

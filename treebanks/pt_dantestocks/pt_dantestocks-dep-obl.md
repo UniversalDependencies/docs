@@ -33,7 +33,7 @@ The following 35 pairs of parts of speech are connected with `obl`: <tt><a href=
 8	nocao	noção	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	6	obl	_	CorrectForm=noção
 9	de	de	ADP	_	_	10	case	_	_
 10	fundo	fundo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
-11	...	...	PUNCT	_	_	3	punct	_	SpaceAfter=No
+11	...	...	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -48,7 +48,7 @@ The following 35 pairs of parts of speech are connected with `obl`: <tt><a href=
 2	indicando	indicar	VERB	_	VerbForm=Ger	0	root	_	_
 3	R$	R$	SYM	_	_	2	obl	_	SpaceAfter=No
 4	16	16	NUM	_	NumType=Card	3	nummod	_	SpaceAfter=No
-5	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -71,7 +71,7 @@ The following 35 pairs of parts of speech are connected with `obl`: <tt><a href=
 10	em	em	ADP	_	_	12	case	_	_
 11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	Obj	objetivo	NOUN	_	Abbr=Yes|Gender=Masc|Number=Sing	9	obl	_	FullForm=objetivo|SpaceAfter=No
-13	?	?	PUNCT	_	_	9	punct	_	SpaceAfter=No
+13	?	?	PUNCT	_	_	9	punct	_	_
 
 ~~~
 

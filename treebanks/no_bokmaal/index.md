@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
-The following people have contributed to making this treebank part of UD: Lilja Øvrelid, Fredrik Jørgensen, Petter Hohle, Ingerid Løyning Dale, Per Erik Solberg, Andre Kåsen.
+The following people have contributed to making this treebank part of UD: Lilja Øvrelid, Fredrik Jørgensen, Petter Hohle, Thea Tollersrud, Ingerid Løyning Dale, Per Erik Solberg, Andre Kåsen.
 
 Repository: [UD_Norwegian-Bokmaal](https://github.com/UniversalDependencies/UD_Norwegian-Bokmaal)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udno_bokmaal215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udno_bokmaal216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: news, blog, nonfiction
 Questions, comments?
 General annotation questions (either Norwegian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Norwegian-Bokmaal/issues).
-If you want to collaborate, please contact [per&nbsp;•&nbsp;solberg&nbsp;(æt)&nbsp;nb&nbsp;•&nbsp;no].
+If you want to collaborate, please contact [<sprakbanken&nbsp;(æt)&nbsp;nb&nbsp;•&nbsp;no>].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.
@@ -63,7 +63,7 @@ outset of the annotation project and iteratively refined throughout
 the construction of the treebank. For more information, see the
 references below.
 
-### DATA SPLITS
+## DATA SPLITS
 
 In creating the data splits, care has been taken to preserve
 contiguous texts in the different splits and also to keep a fair
@@ -108,8 +108,7 @@ Test data (1939 sentences, 26 individual files):
 - nou004\_0002 (1 file)
 - st005\_0003 -- st005\_0004 (2 files)
 
-
-### BASIC STATISTICS
+## BASIC STATISTICS
 
 Tree count: 20045
 
@@ -123,22 +122,25 @@ POS tags: 17
 
 Category=value feature pairs: 31
 
-### TOKENIZATION
+## TOKENIZATION
+
 White space always indicates a token boundary and punctuation constitute separate tokens, except:
 
-* numbers with periods, commas or colons, e.g. *1.3*, *0,6*, *10:13*
-* abbreviations, e.g. *f.eks.*, *Carl J. Hambro*
-* URLs, e.g. *http://www.ifi.uio.no*
+- numbers with periods, commas or colons, e.g. *1.3*, *0,6*, *10:13*
+- abbreviations, e.g. *f.eks.*, *Carl J. Hambro*
+- URLs, e.g. <http://www.ifi.uio.no>
 
 The treebank does not contain multiword tokens.
 
-### MORPHOLOGY
+## MORPHOLOGY
+
 The PoS-tags follow the universal tag set and does not add any
 language-specific PoS-tags. The morphological features follow the
 Oslo-Bergen Tagger scheme (Hagen et. al., 2000). PoS-tags and
 morphological features were converted automatically to the UD scheme.
 
-### SYNTAX
+## SYNTAX
+
 The syntactic annotation in the Norwegian UD treebank conforms to the
 UD guidelines, adding language-specific relations for relative clauses (`acl:relcl`)
 and verb particles (`compound:prt`). The annotation has been automatically converted to
@@ -147,7 +149,22 @@ et. al. (2014) and further described in the NDT guidelines (Kinn
 et. al.).
 The conversion has not been manually checked. There are a few known discrepancies from UD:
 
-* no mwe analysis in the treebank. This is also information that is not present in the original data.
+- no mwe analysis in the treebank. This is also information that is not present in the original data.
+
+## References
+
+Kristin Hagen, Janne Bondi Johannessen and Anders Nøklestad: "A
+Constraint-based Tagger for Norwegian". 2000. Proceedings of the 17th
+Scandinavian Conference in Linguistics.
+
+Kari Kinn, Per Erik Solberg and Pål Kristian Eriksen. "NDT Guidelines
+for Morphological Annotation". National Library Tech Report.
+
+Per Erik Solberg, Arne Skjærholt, Lilja Øvrelid, Kristin Hagen and
+Janne Bondi Johannessen. 2014."The Norwegian Dependency Treebank",
+Proceedings of LREC 2014, Reykjavik
+
+Lilja Øvrelid & Petter Hohle (2016). "[Universal Dependencies for Norwegian](http://www.lrec-conf.org/proceedings/lrec2016/pdf/462_Paper.pdf)", In Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'16)
 
 ## Acknowledgments
 
@@ -164,11 +181,11 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 
 ## Features
 
-[Abbr](no_bokmaal-feat-Abbr.html) – [Animacy](no_bokmaal-feat-Animacy.html) – [Case](no_bokmaal-feat-Case.html) – [Definite](no_bokmaal-feat-Definite.html) – [Degree](no_bokmaal-feat-Degree.html) – [Gender](no_bokmaal-feat-Gender.html) – [Mood](no_bokmaal-feat-Mood.html) – [Number](no_bokmaal-feat-Number.html) – [NumType](no_bokmaal-feat-NumType.html) – [Person](no_bokmaal-feat-Person.html) – [Polarity](no_bokmaal-feat-Polarity.html) – [Poss](no_bokmaal-feat-Poss.html) – [PronType](no_bokmaal-feat-PronType.html) – [Reflex](no_bokmaal-feat-Reflex.html) – [Tense](no_bokmaal-feat-Tense.html) – [VerbForm](no_bokmaal-feat-VerbForm.html) – [Voice](no_bokmaal-feat-Voice.html)
+[Abbr](no_bokmaal-feat-Abbr.html) – [Animacy](no_bokmaal-feat-Animacy.html) – [Case](no_bokmaal-feat-Case.html) – [Definite](no_bokmaal-feat-Definite.html) – [Degree](no_bokmaal-feat-Degree.html) – [Foreign](no_bokmaal-feat-Foreign.html) – [Gender](no_bokmaal-feat-Gender.html) – [Mood](no_bokmaal-feat-Mood.html) – [Number](no_bokmaal-feat-Number.html) – [NumType](no_bokmaal-feat-NumType.html) – [Person](no_bokmaal-feat-Person.html) – [Polarity](no_bokmaal-feat-Polarity.html) – [Poss](no_bokmaal-feat-Poss.html) – [PronType](no_bokmaal-feat-PronType.html) – [Reflex](no_bokmaal-feat-Reflex.html) – [Tense](no_bokmaal-feat-Tense.html) – [VerbForm](no_bokmaal-feat-VerbForm.html) – [Voice](no_bokmaal-feat-Voice.html)
 
 ## Relations
 
-[acl](no_bokmaal-dep-acl.html) – [acl:relcl](no_bokmaal-dep-acl-relcl.html) – [advcl](no_bokmaal-dep-advcl.html) – [advmod](no_bokmaal-dep-advmod.html) – [amod](no_bokmaal-dep-amod.html) – [appos](no_bokmaal-dep-appos.html) – [aux](no_bokmaal-dep-aux.html) – [aux:pass](no_bokmaal-dep-aux-pass.html) – [case](no_bokmaal-dep-case.html) – [cc](no_bokmaal-dep-cc.html) – [ccomp](no_bokmaal-dep-ccomp.html) – [compound](no_bokmaal-dep-compound.html) – [conj](no_bokmaal-dep-conj.html) – [cop](no_bokmaal-dep-cop.html) – [csubj](no_bokmaal-dep-csubj.html) – [csubj:outer](no_bokmaal-dep-csubj-outer.html) – [det](no_bokmaal-dep-det.html) – [discourse](no_bokmaal-dep-discourse.html) – [dislocated](no_bokmaal-dep-dislocated.html) – [expl](no_bokmaal-dep-expl.html) – [flat](no_bokmaal-dep-flat.html) – [flat:foreign](no_bokmaal-dep-flat-foreign.html) – [flat:name](no_bokmaal-dep-flat-name.html) – [iobj](no_bokmaal-dep-iobj.html) – [mark](no_bokmaal-dep-mark.html) – [nmod](no_bokmaal-dep-nmod.html) – [nsubj](no_bokmaal-dep-nsubj.html) – [nsubj:outer](no_bokmaal-dep-nsubj-outer.html) – [nummod](no_bokmaal-dep-nummod.html) – [obj](no_bokmaal-dep-obj.html) – [obl](no_bokmaal-dep-obl.html) – [orphan](no_bokmaal-dep-orphan.html) – [parataxis](no_bokmaal-dep-parataxis.html) – [punct](no_bokmaal-dep-punct.html) – [reparandum](no_bokmaal-dep-reparandum.html) – [root](no_bokmaal-dep-root.html) – [xcomp](no_bokmaal-dep-xcomp.html)
+[acl](no_bokmaal-dep-acl.html) – [acl:relcl](no_bokmaal-dep-acl-relcl.html) – [advcl](no_bokmaal-dep-advcl.html) – [advmod](no_bokmaal-dep-advmod.html) – [amod](no_bokmaal-dep-amod.html) – [appos](no_bokmaal-dep-appos.html) – [aux](no_bokmaal-dep-aux.html) – [aux:pass](no_bokmaal-dep-aux-pass.html) – [case](no_bokmaal-dep-case.html) – [cc](no_bokmaal-dep-cc.html) – [ccomp](no_bokmaal-dep-ccomp.html) – [compound](no_bokmaal-dep-compound.html) – [conj](no_bokmaal-dep-conj.html) – [cop](no_bokmaal-dep-cop.html) – [csubj](no_bokmaal-dep-csubj.html) – [csubj:outer](no_bokmaal-dep-csubj-outer.html) – [csubj:pass](no_bokmaal-dep-csubj-pass.html) – [det](no_bokmaal-dep-det.html) – [discourse](no_bokmaal-dep-discourse.html) – [dislocated](no_bokmaal-dep-dislocated.html) – [expl](no_bokmaal-dep-expl.html) – [flat](no_bokmaal-dep-flat.html) – [flat:foreign](no_bokmaal-dep-flat-foreign.html) – [flat:name](no_bokmaal-dep-flat-name.html) – [iobj](no_bokmaal-dep-iobj.html) – [mark](no_bokmaal-dep-mark.html) – [nmod](no_bokmaal-dep-nmod.html) – [nmod:poss](no_bokmaal-dep-nmod-poss.html) – [nsubj](no_bokmaal-dep-nsubj.html) – [nsubj:outer](no_bokmaal-dep-nsubj-outer.html) – [nsubj:pass](no_bokmaal-dep-nsubj-pass.html) – [nummod](no_bokmaal-dep-nummod.html) – [obj](no_bokmaal-dep-obj.html) – [obl](no_bokmaal-dep-obl.html) – [orphan](no_bokmaal-dep-orphan.html) – [parataxis](no_bokmaal-dep-parataxis.html) – [punct](no_bokmaal-dep-punct.html) – [reparandum](no_bokmaal-dep-reparandum.html) – [root](no_bokmaal-dep-root.html) – [xcomp](no_bokmaal-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -205,15 +222,15 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 </ul>
 
 <ul>
-<li>This corpus contains 49 lemmas tagged as pronouns (PRON): alle, alt, begge, de, den, denne, der, dere, deres, det, dette, din, disse, du, en, enhver, ham, han, hans, hennes, hun, hva, hvem, hverandre, hverandres, hvilket, hvis, ikkenoe, ingen, ingenting, intet, jag, jeg, man, meg, min, noe, noen, samtlige, seg, sin, sitt, slikt, sånt, vi, vår, whatever, you, æ</li>
+<li>This corpus contains 48 lemmas tagged as pronouns (PRON): alle, alt, begge, de, den, denne, der, dere, deres, dette, din, disse, du, en, enhver, ham, han, hans, hennes, hun, hva, hvem, hverandre, hverandres, hvilket, hvis, ikkenoe, ingen, ingenting, intet, jag, jeg, man, meg, min, noe, noen, samtlige, seg, sin, sitt, slikt, sånt, vi, vår, whatever, you, æ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 47 lemmas tagged as determiners (DET): 135a, CD, I, II, III, IV, VM, XIII, XV, XVI, all, alle, annen, begge, de, den, denne, det, dette, disse, egen, en, endel, enhver, fire-fem, forrige, hin, hver, hvilken, hvis, ingen, min, neste, nineish, noe, noen, samme, samtlige, selv, selve, selveste, sjøl, slik, sådan, sånn, tenish, the</li>
+<li>This corpus contains 46 lemmas tagged as determiners (DET): 135a, CD, I, II, III, IV, VM, XIII, XV, XVI, all, alle, annen, begge, de, den, denne, dette, disse, egen, en, endel, enhver, fire-fem, forrige, hin, hver, hvilken, hvis, ingen, min, neste, nineish, noe, noen, samme, samtlige, selv, selve, selveste, sjøl, slik, sådan, sånn, tenish, the</li>
 </ul>
 
 <ul>
-<li>Out of the above, 16 lemmas occurred sometimes as PRON and sometimes as DET: alle, begge, de, den, denne, det, dette, disse, en, enhver, hvis, ingen, min, noe, noen, samtlige</li>
+<li>Out of the above, 15 lemmas occurred sometimes as PRON and sometimes as DET: alle, begge, de, den, denne, dette, disse, en, enhver, hvis, ingen, min, noe, noen, samtlige</li>
 </ul>
 
 <ul>
@@ -272,6 +289,17 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 </ul>
 
 <ul>
+  <li>Com
+    <ul>
+      <li>ADJ: stor, ny, god, norsk, liten, politisk, klar, full, sterk, mye</li>
+      <li>ADJ-Part: økt, bekymret, overrasket, knyttet, lovforankret, redusert, ønsket, imponert, samlet, interessert</li>
+      <li>NOUN: Sportssjef</li>
+      <li>VERB-Fin,Part: overrasket</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Fem
     <ul>
       <li>DET: den, ei, noen, all, denne, hver, egen, annen, enhver, hvilken</li>
@@ -286,11 +314,7 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 <ul>
   <li>Fem,Masc
     <ul>
-      <li>ADJ: stor, ny, god, norsk, liten, politisk, klar, full, sterk, mye</li>
-      <li>ADJ-Part: økt, bekymret, overrasket, knyttet, lovforankret, redusert, ønsket, imponert, samlet, interessert</li>
-      <li>NOUN: Sportssjef</li>
       <li>PRON: den, noen, denne, ingen, enhver, der</li>
-      <li>VERB-Fin,Part: overrasket</li>
     </ul>
   </li>
 </ul>
@@ -573,7 +597,7 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 <ul>
   <li>Art
     <ul>
-      <li>DET: en, et, ei, ens, at, er, ett</li>
+      <li>DET: en, et, den, de, det, ei, ens, at, dét, er</li>
     </ul>
   </li>
 </ul>
@@ -589,7 +613,7 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 <ul>
   <li>Dem
     <ul>
-      <li>DET: den, de, det, andre, denne, annet, disse, samme, dette, annen</li>
+      <li>DET: andre, denne, annet, disse, samme, dette, annen, slike, neste, slik</li>
     </ul>
   </li>
 </ul>
@@ -756,6 +780,18 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
   </li>
 </ul>
 
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: ,, the, and, in, to, you, of, a, i, it</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -775,24 +811,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (5496)</li>
+      <li>VERB-Fin--NOUN (5206)</li>
       <li>VERB-Fin--NOUN-ADP(borte)-ADP(fra) (1)</li>
       <li>VERB-Fin--NOUN-ADP(med) (10)</li>
       <li>VERB-Fin--NOUN-ADP(over) (2)</li>
-      <li>VERB-Fin--PRON (1077)</li>
+      <li>VERB-Fin--NOUN-ADP(rundt) (1)</li>
+      <li>VERB-Fin--PRON (1030)</li>
       <li>VERB-Fin--PRON-Acc (6)</li>
       <li>VERB-Fin--PRON-Acc-ADP(hjemme)-ADP(med) (1)</li>
-      <li>VERB-Fin--PRON-Nom (5660)</li>
-      <li>VERB-Inf--NOUN (1321)</li>
+      <li>VERB-Fin--PRON-Nom (5626)</li>
+      <li>VERB-Inf--NOUN (1065)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--PRON (351)</li>
+      <li>VERB-Inf--PRON (296)</li>
       <li>VERB-Inf--PRON-Acc (7)</li>
-      <li>VERB-Inf--PRON-Nom (1484)</li>
-      <li>VERB-Part--NOUN (1556)</li>
+      <li>VERB-Inf--PRON-Nom (1459)</li>
+      <li>VERB-Part--NOUN (1104)</li>
       <li>VERB-Part--NOUN-ADP(med) (1)</li>
-      <li>VERB-Part--NOUN-ADP(over) (1)</li>
-      <li>VERB-Part--PRON (239)</li>
-      <li>VERB-Part--PRON-Nom (1180)</li>
+      <li>VERB-Part--PRON (178)</li>
+      <li>VERB-Part--PRON-Nom (1016)</li>
     </ul>
   </li>
 </ul>
@@ -800,8 +836,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (5164)</li>
+      <li>VERB-Fin--NOUN (5163)</li>
       <li>VERB-Fin--NOUN-ADP(over) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(under) (1)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
       <li>VERB-Fin--PRON (601)</li>
       <li>VERB-Fin--PRON-Acc (820)</li>
@@ -847,6 +884,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:outer</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a></li>
+<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a></li>
 <li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

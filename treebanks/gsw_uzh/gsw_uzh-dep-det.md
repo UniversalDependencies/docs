@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of det in UD_Swiss_German-UZH'
+title:  'Statistics of det in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: Relations: `det`
+## Treebank Statistics: UD_Alemannic-UZH: Relations: `det`
 
 This relation is universal.
 

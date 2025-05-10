@@ -65,7 +65,7 @@ The following 16 pairs of parts of speech are connected with `parataxis:parenth`
 7	plutôt	plutôt	ADV	_	_	16	advmod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
 9	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	12	nsubj	_	_
-10	l'	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	12	obj	_	SpaceAfter=No
+10	l'	le	PRON	_	Emph=No|Number=Sing|Person=3|PronType=Prs	12	obj	_	SpaceAfter=No
 11	avez	avoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	12	aux:tense	_	_
 12	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	parataxis:parenth	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_

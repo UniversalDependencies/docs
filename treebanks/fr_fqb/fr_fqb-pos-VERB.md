@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-FQB: POS Tags: `VERB`
 
-There are 384 `VERB` lemmas (10%), 683 `VERB` types (16%) and 1890 `VERB` tokens (8%).
+There are 382 `VERB` lemmas (10%), 683 `VERB` types (16%) and 1890 `VERB` tokens (8%).
 Out of 16 observed tags, the rank of `VERB` is: 3 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent `VERB` lemmas: <em>avoir, trouver, être, nommer, faire, pouvoir, devoir, naître, inventer, connaître</em>
 
 The 10 most frequent `VERB` types:  <em>trouve, est, a, inventé, né, signifie, fait, Nommez, puis, situé</em>
 
-The 10 most frequent ambiguous lemmas: <em>avoir</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 384, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 134), <em>être</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 1313, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 69, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 4), <em>faire</em> (<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 56, <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 3), <em>pouvoir</em> (<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 51, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 3), <em>_</em> (<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 31, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 18, <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 9, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 4, <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> 1, <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1), <em>on</em> (<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 1, <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>avoir</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 384, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 135), <em>être</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 1313, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 69, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 4), <em>faire</em> (<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 56, <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 3), <em>pouvoir</em> (<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 51, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 3), <em>_</em> (<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 31, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 18, <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 9, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 4, <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> 1, <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 918, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 60, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 1), <em>a</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 326, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 52, <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1), <em>fait</em> (<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 33, <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 1), <em>puis</em> (<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 24, <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1), <em>mort</em> (<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 20, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 9), <em>ai</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 16, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 14), <em>faire</em> (<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 15, <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 2), <em>avoir</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 11, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 8), <em>composé</em> (<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 8, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 1), <em>compte</em> (<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 8, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 1)
 
@@ -53,20 +53,20 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_fqb-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.778646 (the average of all parts of speech is 1.164044).
+The form / lemma ratio of `VERB` is 1.787958 (the average of all parts of speech is 1.164665).
 
-The 1st highest number of forms (10) was observed with the lemma “avoir”: <em>a, ai, avaient, avait, avoir, ayant, eu, eurent, eut, ont</em>.
+The 1st highest number of forms (11) was observed with the lemma “avoir”: <em>a, ai, avaient, avait, avoir, ayant, eu, eurent, eut, on, ont</em>.
 
 The 2nd highest number of forms (8) was observed with the lemma “connaître”: <em>connaît, connaîtra, connaître, connu, connue, connues, connus, connut</em>.
 
 The 3rd highest number of forms (8) was observed with the lemma “faire”: <em>faire, faisait, fait, faite, faites, faits, fit, font</em>.
 
-`VERB` occurs with 7 features: <tt><a href="fr_fqb-feat-VerbForm.html">VerbForm</a></tt> (1890; 100% instances), <tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt> (1625; 86% instances), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt> (1584; 84% instances), <tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt> (838; 44% instances), <tt><a href="fr_fqb-feat-Person.html">Person</a></tt> (833; 44% instances), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt> (768; 41% instances), <tt><a href="fr_fqb-feat-Voice.html">Voice</a></tt> (247; 13% instances)
+`VERB` occurs with 8 features: <tt><a href="fr_fqb-feat-VerbForm.html">VerbForm</a></tt> (1890; 100% instances), <tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt> (1625; 86% instances), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt> (1584; 84% instances), <tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt> (837; 44% instances), <tt><a href="fr_fqb-feat-Person.html">Person</a></tt> (832; 44% instances), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt> (769; 41% instances), <tt><a href="fr_fqb-feat-Voice.html">Voice</a></tt> (247; 13% instances), <tt><a href="fr_fqb-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`VERB` occurs with 18 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Pass`
+`VERB` occurs with 19 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Pass`
 
-`VERB` occurs with 32 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (511 tokens).
+`VERB` occurs with 33 feature combinations.
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (510 tokens).
 Examples: <em>trouve, est, a, signifie, fait, nomme, appelle, peut, compte, provient</em>
 
 

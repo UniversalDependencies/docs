@@ -47,7 +47,7 @@ The following 7 pairs of parts of speech are connected with `parataxis:insert`: 
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	génocide	génocide	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-5	silencieux	silencieux	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+5	silencieux	silencieux	ADJ	_	Gender=Masc	4	amod	_	Number[ctxt]=Sing
 6	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	_
 8	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:tense	_	SpaceAfter=No

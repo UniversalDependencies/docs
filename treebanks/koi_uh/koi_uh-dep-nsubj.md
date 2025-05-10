@@ -24,10 +24,10 @@ The following 9 pairs of parts of speech are connected with `nsubj`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 7 nsubj	color:blue
 1	Быд	быд	DET	_	Case=Nom|Number=Sing|PronType=Tot	2	det	_	GTtags=Sg,Nom
-2	лaдopcянь	лaдopcянь	NOUN	_	Case=Egr|Number=Sing	6	obl:lmod	_	GTtags=Sg,Egr
-3	Ворошилов	Ворошилов	PROPN	_	Animacy=Hum|Case=Nom|NameType=Sur|Number=Sing	6	obl:lmod	_	GTtags=Prop,Sem/Sur,Sem/Mal,Sg,Nom
+2	лaдopcянь	лaдopcянь	NOUN	_	Case=Egr|Number=Sing	6	obl	_	GTtags=Sg,Egr
+3	Ворошилов	Ворошилов	PROPN	_	Animacy=Hum|Case=Nom|NameType=Sur|Number=Sing	6	obl	_	GTtags=Prop,Sem/Sur,Sem/Mal,Sg,Nom
 4	дынӧ	дынӧ	ADP	_	AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing	3	case	_	GTtags=Po,Spat,Sg,Ill
-5	ӧні	ӧні	ADV	_	_	6	advmod:tmod	_	_
+5	ӧні	ӧні	ADV	Adv	AdvType=Tim	6	advmod	_	_
 6	кoтӧpтіcӧ	кoтӧpтіcӧ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Pl3
 7	oтиp	oтиp	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing	6	nsubj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	GTtags=CLB
@@ -45,7 +45,7 @@ The following 9 pairs of parts of speech are connected with `nsubj`: <tt><a href
 2	нія	сія	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	GTtags=Pers,Pl3,Nom
 3	иньдӧтчисӧ	иньдӧтчыны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Pl3
 4	петанін	петанін	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	GTtags=Sg,Nom
-5	ладорӧ	ладор	NOUN	_	Case=Ill|Number=Sing	3	obl:lmod	_	SpaceAfter=No
+5	ладорӧ	ладор	NOUN	_	Case=Ill|Number=Sing	3	obl	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

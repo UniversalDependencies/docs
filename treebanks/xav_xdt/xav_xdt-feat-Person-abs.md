@@ -11,14 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="xav_xdt-feat-Person.html">Person</a></tt>, <tt><a href="xav_xdt-feat-Person-abs.html">Person[abs]</a></tt>.
 
-47 tokens (3%) have a non-empty value of `Person[abs]`.
-32 types (8%) occur at least once with a non-empty value of `Person[abs]`.
-24 lemmas (8%) occur at least once with a non-empty value of `Person[abs]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (47; 3% instances).
+47 tokens (2%) have a non-empty value of `Person[abs]`.
+32 types (6%) occur at least once with a non-empty value of `Person[abs]`.
+24 lemmas (6%) occur at least once with a non-empty value of `Person[abs]`.
+The feature is used with 1 part-of-speech tags: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (47; 2% instances).
 
 ### `VERB`
 
-47 <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> tokens (22% of all `VERB` tokens) have a non-empty value of `Person[abs]`.
+47 <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> tokens (17% of all `VERB` tokens) have a non-empty value of `Person[abs]`.
+
+The most frequent other feature values with which `VERB` and `Person[abs]` co-occurred: <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (47; 100%).
 
 `VERB` tokens may have the following values of `Person[abs]`:
 

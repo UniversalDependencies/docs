@@ -45,7 +45,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 3	велявтомс	велявтомс	VERB	V	VerbForm=Inf	1	csubj	_	GTtags=IV,Inf
 4	вейке	вейке	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	5	nummod	_	GTtags=Card,Sg,Nom,Indef
 5	бока	бока	NOUN	N	Case=Nom|Definite=Ind|NounType=Relat|Number=Sing	6	nmod	_	GTtags=Relator,Sg,Nom,Indef
-6	лангсто	ланго	NOUN	N	Case=Ela|Definite=Ind|NounType=Relat|Number=Plur,Sing	3	obl:lmod	_	GTtags=Relator,SP,Ela,Indef
+6	лангсто	ланго	NOUN	N	Case=Ela|Definite=Ind|NounType=Relat|Number=Plur,Sing	3	obl	_	GTtags=Relator,SP,Ela,Indef
 7	омбоцес	омбоце	ADJ	A	Case=Ill|Definite=Ind|Number=Plur,Sing|NumType=Ord	5	conj	_	GTtags=Ord,SP,Ill,Indef|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	3	punct	_	_
 

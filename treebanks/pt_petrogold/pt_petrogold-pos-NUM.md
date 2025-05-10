@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Portuguese-PetroGold: POS Tags: `NUM`
 
-There are 1342 `NUM` lemmas (11%), 1346 `NUM` types (8%) and 7290 `NUM` tokens (3%).
+There are 1341 `NUM` lemmas (11%), 1345 `NUM` types (8%) and 7289 `NUM` tokens (3%).
 Out of 16 observed tags, the rank of `NUM` is: 4 in number of lemmas, 5 in number of types and 8 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>dois, 1, 3, 2, 5, 10, 4, três, 2005, 20</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>milhões</em> (<tt><a href="pt_petrog
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.002981 (the average of all parts of speech is 1.452143).
+The form / lemma ratio of `NUM` is 1.002983 (the average of all parts of speech is 1.452422).
 
 The 1st highest number of forms (2) was observed with the lemma “dois”: <em>dois, duas</em>.
 
@@ -63,22 +63,22 @@ The 2nd highest number of forms (2) was observed with the lemma “milhão”: <
 
 The 3rd highest number of forms (2) was observed with the lemma “quatro”: <em>quatro, quatros</em>.
 
-`NUM` occurs with 3 features: <tt><a href="pt_petrogold-feat-NumType.html">NumType</a></tt> (7245; 99% instances), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt> (56; 1% instances), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt> (51; 1% instances)
+`NUM` occurs with 3 features: <tt><a href="pt_petrogold-feat-NumType.html">NumType</a></tt> (7244; 99% instances), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt> (56; 1% instances), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt> (51; 1% instances)
 
 `NUM` occurs with 6 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `NumType=Ord`, `NumType=Range`, `Number=Sing`
 
 `NUM` occurs with 10 feature combinations.
-The most frequent feature combination is `NumType=Card` (7207 tokens).
+The most frequent feature combination is `NumType=Card` (7206 tokens).
 Examples: <em>dois, 1, 3, 2, 5, 10, duas, três, 4, 2005</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 16 different relations: <tt><a href="pt_petrogold-dep-nummod.html">nummod</a></tt> (4766; 65% instances), <tt><a href="pt_petrogold-dep-nmod.html">nmod</a></tt> (1200; 16% instances), <tt><a href="pt_petrogold-dep-conj.html">conj</a></tt> (493; 7% instances), <tt><a href="pt_petrogold-dep-flat-name.html">flat:name</a></tt> (284; 4% instances), <tt><a href="pt_petrogold-dep-appos.html">appos</a></tt> (149; 2% instances), <tt><a href="pt_petrogold-dep-obl.html">obl</a></tt> (140; 2% instances), <tt><a href="pt_petrogold-dep-root.html">root</a></tt> (81; 1% instances), <tt><a href="pt_petrogold-dep-flat.html">flat</a></tt> (66; 1% instances), <tt><a href="pt_petrogold-dep-parataxis.html">parataxis</a></tt> (47; 1% instances), <tt><a href="pt_petrogold-dep-nsubj.html">nsubj</a></tt> (18; 0% instances), <tt><a href="pt_petrogold-dep-obj.html">obj</a></tt> (14; 0% instances), <tt><a href="pt_petrogold-dep-obl-arg.html">obl:arg</a></tt> (13; 0% instances), <tt><a href="pt_petrogold-dep-advcl.html">advcl</a></tt> (7; 0% instances), <tt><a href="pt_petrogold-dep-nsubj-pass.html">nsubj:pass</a></tt> (7; 0% instances), <tt><a href="pt_petrogold-dep-xcomp.html">xcomp</a></tt> (4; 0% instances), <tt><a href="pt_petrogold-dep-amod.html">amod</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 16 different relations: <tt><a href="pt_petrogold-dep-nummod.html">nummod</a></tt> (4765; 65% instances), <tt><a href="pt_petrogold-dep-nmod.html">nmod</a></tt> (1200; 16% instances), <tt><a href="pt_petrogold-dep-conj.html">conj</a></tt> (493; 7% instances), <tt><a href="pt_petrogold-dep-flat-name.html">flat:name</a></tt> (284; 4% instances), <tt><a href="pt_petrogold-dep-appos.html">appos</a></tt> (149; 2% instances), <tt><a href="pt_petrogold-dep-obl.html">obl</a></tt> (140; 2% instances), <tt><a href="pt_petrogold-dep-root.html">root</a></tt> (81; 1% instances), <tt><a href="pt_petrogold-dep-flat.html">flat</a></tt> (66; 1% instances), <tt><a href="pt_petrogold-dep-parataxis.html">parataxis</a></tt> (47; 1% instances), <tt><a href="pt_petrogold-dep-nsubj.html">nsubj</a></tt> (18; 0% instances), <tt><a href="pt_petrogold-dep-obj.html">obj</a></tt> (14; 0% instances), <tt><a href="pt_petrogold-dep-obl-arg.html">obl:arg</a></tt> (13; 0% instances), <tt><a href="pt_petrogold-dep-advcl.html">advcl</a></tt> (7; 0% instances), <tt><a href="pt_petrogold-dep-nsubj-pass.html">nsubj:pass</a></tt> (7; 0% instances), <tt><a href="pt_petrogold-dep-xcomp.html">xcomp</a></tt> (4; 0% instances), <tt><a href="pt_petrogold-dep-amod.html">amod</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (4042; 55% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (1806; 25% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (573; 8% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (534; 7% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (199; 3% instances),  (81; 1% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (37; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (4042; 55% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (1806; 25% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (572; 8% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (534; 7% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (199; 3% instances),  (81; 1% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (37; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (1; 0% instances)
 
-4152 (57%) `NUM` nodes are leaves.
+4151 (57%) `NUM` nodes are leaves.
 
 2170 (30%) `NUM` nodes have one child.
 

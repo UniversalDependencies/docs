@@ -22,7 +22,7 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 xcomp	color:blue
-1	Сяльде	сяльде	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	_
+1	Сяльде	сяльде	ADV	Adv	AdvType=Tim	5	advmod	_	_
 2	мялезень	мяль	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	obj	_	_
 3	петемс	петемс	VERB	V	VerbForm=Inf	5	xcomp	_	_
 4	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
@@ -60,7 +60,7 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 2 5 xcomp	color:blue
 1	Лядыхне	лядомс	VERB	V	Case=Nom|Definite=Def|Nomzr=Ag|Number=Plur	2	nsubj	_	GTtags=NomAg,Pl,Nom,Def
 2	ащесть	ащемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,ScPl3
-3	оцюняснон	оцюня	ADJ	A	Case=Gen|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	2	obl:lmod	_	GTtags=SP,Gen,PxPl3
+3	оцюняснон	оцюня	ADJ	A	Case=Gen|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	2	obl	_	GTtags=SP,Gen,PxPl3
 4	перьф	перьф	ADV	Adv	_	3	case	_	_
 5	озада	озада	ADV	Adv	_	2	xcomp	_	SpaceAfter=No
 6	.	.	PUNCT	PUNCT	_	2	punct	_	_

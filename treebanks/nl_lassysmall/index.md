@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Gosse Bouma, Gertjan van Noord.
 
 Repository: [UD_Dutch-LassySmall](https://github.com/UniversalDependencies/UD_Dutch-LassySmall)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnl_lassysmall215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnl_lassysmall216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -66,7 +66,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 
 ## Features
 
-[Abbr](nl_lassysmall-feat-Abbr.html) – [Case](nl_lassysmall-feat-Case.html) – [Definite](nl_lassysmall-feat-Definite.html) – [Degree](nl_lassysmall-feat-Degree.html) – [Foreign](nl_lassysmall-feat-Foreign.html) – [Gender](nl_lassysmall-feat-Gender.html) – [Number](nl_lassysmall-feat-Number.html) – [Person](nl_lassysmall-feat-Person.html) – [Poss](nl_lassysmall-feat-Poss.html) – [PronType](nl_lassysmall-feat-PronType.html) – [Reflex](nl_lassysmall-feat-Reflex.html) – [Tense](nl_lassysmall-feat-Tense.html) – [VerbForm](nl_lassysmall-feat-VerbForm.html)
+[Abbr](nl_lassysmall-feat-Abbr.html) – [Case](nl_lassysmall-feat-Case.html) – [Definite](nl_lassysmall-feat-Definite.html) – [Degree](nl_lassysmall-feat-Degree.html) – [ExtPos](nl_lassysmall-feat-ExtPos.html) – [Foreign](nl_lassysmall-feat-Foreign.html) – [Gender](nl_lassysmall-feat-Gender.html) – [Number](nl_lassysmall-feat-Number.html) – [Person](nl_lassysmall-feat-Person.html) – [Poss](nl_lassysmall-feat-Poss.html) – [PronType](nl_lassysmall-feat-PronType.html) – [Reflex](nl_lassysmall-feat-Reflex.html) – [Tense](nl_lassysmall-feat-Tense.html) – [VerbForm](nl_lassysmall-feat-VerbForm.html)
 
 ## Relations
 
@@ -111,7 +111,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 </ul>
 
 <ul>
-<li>This corpus contains 73 lemmas tagged as determiners (DET): +11,77, +46,29, +52,93, +64,68, 1,5x1,5x1,5, 1/2, 1/4, 1/8, 26%, 3×, 700+500-1000=200, al, allerlei, anderhalf, beide, bijna, circa, dat, datzelfde, de, deze, dezelfde, die, diezelfde, dit, een, eenzelfde, elk, enig, enkel, ettelijk, geen, genoeg, haast, helemaal, het, hetzelfde, hoeveel, ieder, iemand, maar, meerdere, menig, min, minstens, nagenoeg, net, niet, nog, nogal, ongeveer, onvoldoende, slechts, sommig, steeds, te, teveel, tweederde, tweemaal, veel, voldoende, vrijwel, wat, weinig, wel, welk, wie, x, zeer, zelfs, zo, zo'n, zulk</li>
+<li>This corpus contains 52 lemmas tagged as determiners (DET): +11,77, +46,29, +52,93, +64,68, 1,5x1,5x1,5, 1/2, 1/4, 1/8, 26%, 3×, 700+500-1000=200, al, allerlei, beide, circa, dat, datzelfde, de, deze, dezelfde, die, diezelfde, dit, een, eenzelfde, elk, enig, enkel, ettelijk, geen, genoeg, het, hetzelfde, hoeveel, ieder, iemand, meerdere, menig, min, onvoldoende, sommig, teveel, tweederde, veel, voldoende, wat, weinig, welk, wie, x, zo'n, zulk</li>
 </ul>
 
 <ul>
@@ -262,7 +262,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 <ul>
   <li>Def
     <ul>
-      <li>DET: de, het, der, 's, 't, den, des, t, dé, d'n</li>
+      <li>DET: de, het, der, 's, 't, den, des, t, dé, hde</li>
     </ul>
   </li>
 </ul>
@@ -355,7 +355,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: meer, veel, enige, alles, iets, velen, weinig, minder, niets, ene</li>
+      <li>PRON: meer, veel, enige, alles, iets, velen, weinig, niets, minder, ene</li>
     </ul>
   </li>
 </ul>
@@ -464,11 +464,103 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>ADP: in, aan, op, ter, uit, te, achter, onder, voor, Af</li>
+          <li>NUM: drie</li>
+          <li>PRON: meer, minder</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADJ: dicht, korte, nieuw, anti, links</li>
+          <li>ADP: in, ten, op, onder, met, tot, te, van, aan, ter</li>
+          <li>ADV: omwille, temidden, al, heinde</li>
+          <li>DET: de, het, een</li>
+          <li>NOUN: dank, confederate, corrosie, kraag, orde, papier, undergroundfunk</li>
+          <li>NUM: eenhonderd</li>
+          <li>PRON: wat</li>
+          <li>PROPN: EAM</li>
+          <li>SCONJ: als</li>
+          <li>X: bureau, casus, promotor, reductio, rouw, à</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADJ: geleidelijk, Terzelfder, laag, langzaam</li>
+          <li>ADP: onder, voor, met, op, in, ten, om, af, ter, van</li>
+          <li>ADV: min, al, niet, her, vandaag, maar, zo, dan, Nog, verre</li>
+          <li>DET: het, 's, des, een</li>
+          <li>NOUN: heden, stuk, keer, schouder</li>
+          <li>PRON: meer, minder, zo'n, Alles, Mijns, méér</li>
+          <li>SCONJ: als</li>
+          <li>X: a, nota, per, vice</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADP: tot</li>
+          <li>ADV: dan</li>
+          <li>CCONJ: en</li>
+          <li>SCONJ: als</li>
+          <li>VERB-Fin: laat</li>
+          <li>X: et</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>ADP: tegen</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>ADJ: 1e, eerste, 4e, Tweede, half</li>
+          <li>ADP: van</li>
+          <li>DET: een, de</li>
+          <li>NUM: 1, 10, 15, 2, 7, 9, 14, 16, 17, 30</li>
+          <li>PRON: Ik, zich, wat</li>
+          <li>X: 17, 1999, 2001, 4</li>
+        </ul>
+      </li>
+      <li>PROPN
+        <ul>
+          <li>ADJ: Amerikaanse, Koninklijke, Buitenlandse, Grote, Tweede, Binnenlandse, Eerste, Heilige, Witte, Economische</li>
+          <li>ADP: Op, van, In, Over, Voor, Zonder</li>
+          <li>ADV: Zoo, Anders, niet, Al</li>
+          <li>DET: de, het, 't, Een, Der, d'n, den</li>
+          <li>INTJ: Hiep</li>
+          <li>NOUN: Prinses, Huis, Lam, Vrede, Operatie, Aartshertogin, Sportvrouw, kabinet-Van, Koning, Hertogdom</li>
+          <li>NUM: Vier, 29, Acht, Achttien, Tien</li>
+          <li>PRON: Hare, Zijne, Alles, Ik, we, Het, Mijn, Minder, Ons</li>
+          <li>PROPN: Suske, Brabant, Kuifje, Boudewijn, Christus, Jehovah's, Philips, Antwerpen, Boelwerf, Euronext</li>
+          <li>SYM: «, '</li>
+          <li>VERB-Fin: Doe, Red, Spaar, Wordt, Zorg, eet</li>
+          <li>VERB-Inf: Zwijgen</li>
+          <li>VERB-Part: Herrezen, Verenigde, Aangaande, Jammerende, Beloofde, Geërgerde, Vergelijkende, Verzameld, persoonsgebonden</li>
+          <li>X: the, Star, Army, Les, grand, la, le, I, Purple, Sign</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: aan, in, ten, te, voor, door</li>
+          <li>ADV: zo, Alleen</li>
+          <li>CCONJ: maar, en</li>
+          <li>PRON: dat</li>
+          <li>VERB-Fin: zij, laat</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
         <ul>
-          <li>X: the, of, de, Star, Trek, Army, les, la, in, grand</li>
+          <li>X: the, of, de, Trek, in, Army, les, Star, Potomac, la</li>
         </ul>
       </li>
     </ul>
@@ -494,14 +586,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (4897)</li>
-      <li>VERB-Fin--PRON (2151)</li>
+      <li>VERB-Fin--NOUN (4899)</li>
+      <li>VERB-Fin--PRON (2152)</li>
       <li>VERB-Fin--PRON-Nom (1599)</li>
-      <li>VERB-Inf--NOUN (542)</li>
+      <li>VERB-Inf--NOUN (536)</li>
       <li>VERB-Inf--PRON (299)</li>
       <li>VERB-Inf--PRON-Nom (280)</li>
-      <li>VERB-Part--NOUN (528)</li>
-      <li>VERB-Part--PRON (267)</li>
+      <li>VERB-Part--NOUN (529)</li>
+      <li>VERB-Part--PRON (266)</li>
       <li>VERB-Part--PRON-Nom (188)</li>
     </ul>
   </li>
@@ -513,13 +605,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (3938)</li>
       <li>VERB-Fin--NOUN-ADP(aan) (1)</li>
       <li>VERB-Fin--NOUN-ADP(van) (1)</li>
-      <li>VERB-Fin--PRON (392)</li>
-      <li>VERB-Fin--PRON-Acc (222)</li>
-      <li>VERB-Inf--NOUN (1834)</li>
-      <li>VERB-Inf--PRON (196)</li>
-      <li>VERB-Inf--PRON-Acc (167)</li>
+      <li>VERB-Fin--PRON (391)</li>
+      <li>VERB-Fin--PRON-Acc (226)</li>
+      <li>VERB-Inf--NOUN (1835)</li>
+      <li>VERB-Inf--PRON (197)</li>
+      <li>VERB-Inf--PRON-Acc (168)</li>
       <li>VERB-Inf--PRON-Nom (2)</li>
-      <li>VERB-Part--NOUN (459)</li>
+      <li>VERB-Part--NOUN (449)</li>
       <li>VERB-Part--PRON (86)</li>
       <li>VERB-Part--PRON-Acc (14)</li>
     </ul>
@@ -529,10 +621,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (49)</li>
+      <li>VERB-Fin--NOUN (50)</li>
       <li>VERB-Fin--PRON (3)</li>
       <li>VERB-Fin--PRON-Acc (49)</li>
-      <li>VERB-Inf--NOUN (33)</li>
+      <li>VERB-Inf--NOUN (34)</li>
       <li>VERB-Inf--PRON (2)</li>
       <li>VERB-Inf--PRON-Acc (17)</li>
       <li>VERB-Part--NOUN (22)</li>
@@ -547,14 +639,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 170 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: bevinden zich, vestigen zich, voelen zich, over_geven zich, aan_sluiten zich, richten zich, ontwikkelen zich, af_spelen zich, herstellen zich, uit_strekken zich, op_stellen zich, verenigen zich, voor_doen zich, keren zich, maken zich, tonen zich, verzetten zich, bemoeien zich, verplaatsen zich, af_scheiden zich, kenmerken zich, nemen zich, ontpoppen zich, scharen zich, uit_spreken zich, verklaren zich, zien zich, bekeren zich, concentreren zich, manifesteren zich, melden zich, realiseren me, realiseren zich, voegen zich, voor_stellen zich, aan_melden zich, aan_passen zich, af_vragen zich, af_zonderen zich, beperken zich, gedragen zich, meester_maken zich, neer_leggen zich, onttrekken zich, stellen zich, storten zich, toe_leggen zich, wenden zich, aan_trekken zich, aaneen_sluiten zich</li>
+  <li>This corpus contains 166 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: bevinden zich, vestigen zich, voelen zich, over_geven zich, aan_sluiten zich, richten zich, ontwikkelen zich, af_spelen zich, herstellen zich, uit_strekken zich, maken zich, op_stellen zich, verenigen zich, voor_doen zich, keren zich, tonen zich, verzetten zich, bemoeien zich, verplaatsen zich, af_scheiden zich, kenmerken zich, nemen zich, ontpoppen zich, scharen zich, uit_spreken zich, verklaren zich, zien zich, bekeren zich, concentreren zich, manifesteren zich, melden zich, realiseren me, realiseren zich, voegen zich, voor_stellen zich, aan_melden zich, aan_passen zich, af_vragen zich, af_zonderen zich, beperken zich, gedragen zich, neer_leggen zich, onttrekken zich, stellen zich, storten zich, toe_leggen zich, wenden zich, aan_trekken zich, aaneen_sluiten zich, af_vragen me</li>
 </ul>
 
 
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 86 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: terug_trekken zich, houden zich, bezig_houden zich, noemen zich, laten zich, noemen zichzelf, in_schrijven zich, organiseren zich, uit_breiden zich, uit_roepen zich, handhaven zich, op_merken zich, positioneren zich, verdedigen zich, beschouwen zich, interesseren zich, onthouden zich, uit_roepen zichzelf, verzekeren zich, verzekeren zichzelf, zien zich, af_splitsen zich, banen zich, beschermen zich, beschermen zichzelf, beschrijven zichzelf, betonen zichzelf, bevrijden zich, brengen zich, brouilleren zich, centreren zich, compenseren zichzelf, consolideren zich, doen zich, dood_vechten zich, door_zetten zich, draaien zich, introduceren zich, kruisen zich, leggen zich, leren zichzelf, liggen zich, los_maken zich, los_werken zichzelf, maken zich, onder_dompelen zich, onderwerpen zich, op_geven zich, op_offeren zich, op_offeren zichzelf</li>
+  <li>This corpus contains 91 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: terug_trekken zich, houden zich, bezig_houden zich, noemen zich, laten zich, noemen zichzelf, in_schrijven zich, organiseren zich, uit_breiden zich, uit_roepen zich, handhaven zich, op_merken zich, positioneren zich, verdedigen zich, beschouwen zich, interesseren zich, onthouden zich, uit_roepen zichzelf, verzekeren zich, verzekeren zichzelf, zien zich, af_splitsen zich, banen zich, beschermen zich, beschermen zichzelf, beschrijven zichzelf, betonen zichzelf, bevrijden zich, blesseren zich, brengen zich, brouilleren zich, centreren zich, compenseren zichzelf, consolideren zich, doen zich, dood_vechten zich, door_zetten zich, draaien zich, hergroeperen zich, hullen zich, in_spinnen zich, introduceren zich, kruisen zich, leggen zich, leren zichzelf, liggen zich, los_maken zich, los_werken zichzelf, maken zich, onder_dompelen zich</li>
     <ul>
       <li>Out of those, 1 lemmas occurred more than once, but never without a reflexive dependent. Examples: bezig_houden</li>
     </ul>

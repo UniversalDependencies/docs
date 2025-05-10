@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Welsh-CCG: POS Tags: `CCONJ`
 
-There are 14 `CCONJ` lemmas (0%), 15 `CCONJ` types (0%) and 1555 `CCONJ` tokens (3%).
+There are 15 `CCONJ` lemmas (0%), 16 `CCONJ` types (0%) and 1558 `CCONJ` tokens (3%).
 Out of 15 observed tags, the rank of `CCONJ` is: 11 in number of lemmas, 13 in number of types and 11 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>a, ond, neu, na, ai, ag, oni, onid, achos, canys</em>
+The 10 most frequent `CCONJ` lemmas: <em>a, ond, neu, na, ai, naill, ag, oni, onid, achos</em>
 
-The 10 most frequent `CCONJ` types:  <em>a, ac, ond, neu, nac, ai, ag, oni, onid, achos</em>
+The 10 most frequent `CCONJ` types:  <em>a, ac, ond, neu, nac, ai, ag, naill, oni, onid</em>
 
-The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 1245, <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> 155, <tt><a href="cy_ccg-pos-PART.html">PART</a></tt> 33, <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 3, <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ond</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 163, <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 1), <em>na</em> (<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> 135, <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 62, <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ai</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="cy_ccg-pos-PART.html">PART</a></tt> 1, <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> 1), <em>ag</em> (<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 30, <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 2), <em>oni</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>onid</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>achos</em> (<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 1), <em>fel</em> (<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 160, <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> 1, <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 1), <em>mai</em> (<tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 54, <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 1245, <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> 155, <tt><a href="cy_ccg-pos-PART.html">PART</a></tt> 33, <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 3, <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ond</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 163, <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 1), <em>na</em> (<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> 135, <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 62, <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ai</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="cy_ccg-pos-PART.html">PART</a></tt> 1, <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> 1), <em>naill</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> 1), <em>ag</em> (<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 30, <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 2), <em>oni</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>onid</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>achos</em> (<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 1), <em>fel</em> (<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 160, <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> 1, <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 844, <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> 155, <tt><a href="cy_ccg-pos-PART.html">PART</a></tt> 11, <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 2, <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ond</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 115, <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 1), <em>nac</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="cy_ccg-pos-PART.html">PART</a></tt> 3), <em>ai</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> 1), <em>ag</em> (<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 41, <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 6), <em>oni</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>achos</em> (<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> 13, <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 1), <em>fel</em> (<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 144, <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> 1, <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 1), <em>mai</em> (<tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 54, <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 1), <em>megis</em> (<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 18, <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 844, <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> 155, <tt><a href="cy_ccg-pos-PART.html">PART</a></tt> 11, <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 2, <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ond</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 115, <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 1), <em>nac</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="cy_ccg-pos-PART.html">PART</a></tt> 3), <em>ai</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> 1), <em>ag</em> (<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 41, <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 6), <em>naill</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> 1), <em>oni</em> (<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>achos</em> (<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> 13, <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 1), <em>fel</em> (<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 144, <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> 1, <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 1), <em>mai</em> (<tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 54, <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>a</em>
@@ -36,6 +36,9 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="cy_ccg-pos-CCONJ
 * <em>ag</em>
   * <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 41: <em>Mae 'r duw hwn hefyd yn gysylltiedig <b>ag</b> amser a henaint .</em>
   * <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Ond y tu hwnt i hynny gellid dweud ei fod yn gyfieithiad mor bur <b>ag</b> y gall cyfieithiad fod .</em>
+* <em>naill</em>
+  * <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 3: <em>Dylai 'r Gymraeg fod yn hanfodol , <b>naill</b> ai nawr neu eu bod nhw yn gallu ymdrin â 'r iaith o fewn blwyddyn .</em>
+  * <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> 1: <em>Er bod pob diwrnod unigol yn draed moch , fodd bynnag , mae 'n dechrau ymddangos mai dau ganlyniad mwyaf tebygol hyn i gyd fydd <b>naill</b> ai ail refferendwm neu adael heb gytundeb o gwbl .</em>
 * <em>oni</em>
   * <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Gan hynny , cyhoeddodd Gwynfor Evans y byddai 'n dechrau ymprydio <b>oni</b> fyddai 'r Llywodraeth yn anrhydeddu ei haddewid .</em>
   * <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Nid oes yr un o 'r lluniau wedi eu golygu na 'u newid <b>oni</b> bai am crop syml .</em>
@@ -50,13 +53,10 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="cy_ccg-pos-CCONJ
 * <em>mai</em>
   * <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> 54: <em>yr wy 'n teimlo erbyn hyn <b>mai</b> 'r ail sydd fwyaf tebygol .</em>
   * <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Nid yw defnydd yr iaith wedi treiddio 'r boblogaeth cystal ag yn Tansanïa , yn rhannol oherwydd <b>mai</b> Saesneg yw cyfrwng addysg Cenia .</em>
-* <em>megis</em>
-  * <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> 18: <em>Radiograffydd yw 'r person sy 'n arbenigo yn y gwaith o greu llun o 'r gwrthrych caled , <b>megis</b> asgwrn .</em>
-  * <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Cafodd ei dderbyn ( yn answyddogol ) fel y dull rhyngwladol o fesur amser a dyddiadau ers degawdau yn y byd cyfathrebu , teithio a diwydiant , a chaiff ei adnabod gan sefydliadau rhyngwladol <b>megis</b> y Cenhedloedd Unedig .</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.071429 (the average of all parts of speech is 1.452021).
+The form / lemma ratio of `CCONJ` is 1.066667 (the average of all parts of speech is 1.452021).
 
 The 1st highest number of forms (3) was observed with the lemma “a”: <em>a, ac, ag</em>.
 
@@ -64,22 +64,30 @@ The 2nd highest number of forms (1) was observed with the lemma “achos”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “ag”: <em>ag</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="cy_ccg-feat-ExtPos.html">ExtPos</a></tt> (3; 0% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (1555 tokens).
+Examples: <em>a, ac, ond, neu, nac, ai, ag, oni, onid, achos</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="cy_ccg-dep-cc.html">cc</a></tt> (1526; 98% instances), <tt><a href="cy_ccg-dep-fixed.html">fixed</a></tt> (18; 1% instances), <tt><a href="cy_ccg-dep-advmod.html">advmod</a></tt> (6; 0% instances), <tt><a href="cy_ccg-dep-mark.html">mark</a></tt> (5; 0% instances)
+`CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="cy_ccg-dep-cc.html">cc</a></tt> (1529; 98% instances), <tt><a href="cy_ccg-dep-fixed.html">fixed</a></tt> (18; 1% instances), <tt><a href="cy_ccg-dep-advmod.html">advmod</a></tt> (6; 0% instances), <tt><a href="cy_ccg-dep-mark.html">mark</a></tt> (5; 0% instances)
 
-Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (932; 60% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (277; 18% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (148; 10% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (90; 6% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (37; 2% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (26; 2% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (24; 2% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (933; 60% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (277; 18% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (145; 9% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (90; 6% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (37; 2% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (26; 2% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (25; 2% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
 1547 (99%) `CCONJ` nodes are leaves.
 
-8 (1%) `CCONJ` nodes have one child.
+10 (1%) `CCONJ` nodes have one child.
 
-The highest child degree of a `CCONJ` node is 1.
+1 (0%) `CCONJ` nodes have two children.
 
-Children of `CCONJ` nodes are attached using 1 different relations: <tt><a href="cy_ccg-dep-punct.html">punct</a></tt> (8; 100% instances)
+The highest child degree of a `CCONJ` node is 2.
 
-Children of `CCONJ` nodes belong to 1 different parts of speech: <tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (8; 100% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="cy_ccg-dep-punct.html">punct</a></tt> (9; 75% instances), <tt><a href="cy_ccg-dep-fixed.html">fixed</a></tt> (3; 25% instances)
+
+Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (9; 75% instances), <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (3; 25% instances)
 

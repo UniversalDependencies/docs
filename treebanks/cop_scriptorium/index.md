@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Mitchell Abrams, Elizabeth Davidson, Amir Zeldes.
 
 Repository: [UD_Coptic-Scriptorium](https://github.com/UniversalDependencies/UD_Coptic-Scriptorium)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcop_scriptorium215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcop_scriptorium216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY 4.0
 
@@ -48,7 +48,7 @@ UD Coptic contains manually annotated Sahidic Coptic texts, including Biblical t
 
 
 
-The Coptic Universal Dependency Treebank is a manually annotated corpus of Sahidic Coptic texts, currently containing excerpts from the Sahidic New Testament Gospel of Mark, Works by Archmandrite Shenoute of Atripe, the Letters of Besa, lives of Sts. Cyrus and Onnophrius, Epistle of Pseudo-Ephrem, the Dormition of John the Apostle and short stories from the Apophthegmata Patrum (Sayings of the Desert Fathers). Detailed information about the treebank is available here:
+The Coptic Universal Dependency Treebank is a manually annotated corpus of Sahidic Coptic texts, currently containing excerpts from the Sahidic New Testament Gospel of Mark and 1 Corinthians, the Old Testament Book of Ruth, Works by Archmandrite Shenoute of Atripe, the Letters of Besa, lives of Sts. Cyrus, Onnophrius and John the Kalybites, Epistle of Pseudo-Ephrem, homilies and discourses by Proclus, Pseudo-Athanasius and Pseudo-Flavianus, the Dormition of John the Apostle and short stories from the Apophthegmata Patrum (Sayings of the Desert Fathers). Detailed information about the treebank is available here:
 
 http://copticscriptorium.org/treebank.html
 
@@ -71,7 +71,7 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 
 ## Features
 
-[Definite](cop_scriptorium-feat-Definite.html) – [Foreign](cop_scriptorium-feat-Foreign.html) – [Gender](cop_scriptorium-feat-Gender.html) – [Gender[psor]](cop_scriptorium-feat-Gender-psor.html) – [Number](cop_scriptorium-feat-Number.html) – [Number[psor]](cop_scriptorium-feat-Number-psor.html) – [NumType](cop_scriptorium-feat-NumType.html) – [Person](cop_scriptorium-feat-Person.html) – [Polarity](cop_scriptorium-feat-Polarity.html) – [Poss](cop_scriptorium-feat-Poss.html) – [PronType](cop_scriptorium-feat-PronType.html) – [Reflex](cop_scriptorium-feat-Reflex.html) – [VerbForm](cop_scriptorium-feat-VerbForm.html)
+[Definite](cop_scriptorium-feat-Definite.html) – [ExtPos](cop_scriptorium-feat-ExtPos.html) – [Foreign](cop_scriptorium-feat-Foreign.html) – [Gender](cop_scriptorium-feat-Gender.html) – [Gender[psor]](cop_scriptorium-feat-Gender-psor.html) – [Number](cop_scriptorium-feat-Number.html) – [Number[psor]](cop_scriptorium-feat-Number-psor.html) – [NumType](cop_scriptorium-feat-NumType.html) – [Person](cop_scriptorium-feat-Person.html) – [Polarity](cop_scriptorium-feat-Polarity.html) – [Poss](cop_scriptorium-feat-Poss.html) – [PronType](cop_scriptorium-feat-PronType.html) – [Reflex](cop_scriptorium-feat-Reflex.html) – [VerbForm](cop_scriptorium-feat-VerbForm.html)
 
 ## Relations
 
@@ -81,7 +81,7 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 
 
 <ul>
-<li>This corpus contains 2203 sentences, 26837 tokens and 57098 syntactic words.</li>
+<li>This corpus contains 2203 sentences, 26837 tokens and 57103 syntactic words.</li>
 </ul>
 
 <ul>
@@ -97,8 +97,8 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 </ul>
 
 <ul>
-<li>This corpus contains 16846 multi-word tokens. On average, one multi-word token consists of 2.80 syntactic words.</li>
-<li>There are 9028 types of multi-word tokens. Examples: ⲛⲁϥ, ⲙⲙⲟⲥ, ⲙⲙⲟϥ, ⲉⲣⲟϥ, ⲡⲉϫⲁϥ, ⲙⲡⲛⲟⲩⲧⲉ, ⲛⲁⲩ, ⲛⲧϩⲉ, ⲛⲁⲓ, ⲙⲙⲟⲟⲩ, ⲧⲏⲣⲟⲩ, ⲉϥϫⲱ, ⲛϩⲏⲧϥ, ⲛⲁⲕ, ⲉⲣⲟⲓ, ⲉⲣⲟⲟⲩ, ⲙⲙⲟⲕ, ⲛⲏⲧⲛ, ⲉⲧⲙⲙⲁⲩ, ⲉⲧⲟⲩⲁⲁⲃ, ⲛⲁⲥ, ⲉⲣⲟⲕ, ⲛⲧⲉⲩⲛⲟⲩ, ⲛϩⲏⲧ, ⲛⲧⲉⲓϩⲉ, ⲛⲙⲙⲁϥ, ⲁϥⲉⲓ, ⲙⲡϫⲟⲉⲓⲥ, ⲛⲁⲛ, ⲛⲣⲱⲙⲉ, ⲁϥⲃⲱⲕ, ⲛⲟⲩⲱⲧ, ⲉⲧⲃⲉⲡⲁⲓ, ⲡⲛⲟⲩⲧⲉ, ⲧⲏⲣϥ, ⲙⲙⲟⲓ, ⲙⲡⲣⲱⲙⲉ, ⲛⲥⲱϥ, ⲡⲉⲭⲣⲓⲥⲧⲟⲥ, ⲉⲣⲟⲛ, ⲛϩⲏⲧⲟⲩ, ⲡⲟⲩⲁ, ⲛϩⲟⲟⲩ, ⲛⲧⲉⲡⲛⲟⲩⲧⲉ, ⲁϥϫⲟⲟⲥ, ⲁⲩⲉⲓ, ⲉⲣⲱⲧⲛ, ⲛϩⲟⲩⲟ, ⲡⲉϫⲁⲥ, ⲡⲁϣⲏⲣⲉ.</li>
+<li>This corpus contains 16851 multi-word tokens. On average, one multi-word token consists of 2.80 syntactic words.</li>
+<li>There are 9028 types of multi-word tokens. Examples: ⲛⲁϥ, ⲙⲙⲟⲥ, ⲙⲙⲟϥ, ⲉⲣⲟϥ, ⲡⲉϫⲁϥ, ⲙⲡⲛⲟⲩⲧⲉ, ⲛⲁⲩ, ⲛⲧϩⲉ, ⲛⲁⲓ, ⲙⲙⲟⲟⲩ, ⲧⲏⲣⲟⲩ, ⲉϥϫⲱ, ⲛϩⲏⲧϥ, ⲛⲁⲕ, ⲉⲣⲟⲓ, ⲉⲣⲟⲟⲩ, ⲙⲙⲟⲕ, ⲛⲏⲧⲛ, ⲉⲧⲙⲙⲁⲩ, ⲉⲧⲟⲩⲁⲁⲃ, ⲛⲁⲥ, ⲉⲣⲟⲕ, ⲛⲧⲉⲩⲛⲟⲩ, ⲛϩⲏⲧ, ⲛⲧⲉⲓϩⲉ, ⲛⲙⲙⲁϥ, ⲁϥⲉⲓ, ⲙⲡϫⲟⲉⲓⲥ, ⲛⲁⲛ, ⲛⲣⲱⲙⲉ, ⲁϥⲃⲱⲕ, ⲛⲟⲩⲱⲧ, ⲉⲧⲃⲉⲡⲁⲓ, ⲡⲛⲟⲩⲧⲉ, ⲧⲏⲣϥ, ⲙⲙⲟⲓ, ⲙⲡⲣⲱⲙⲉ, ⲛϩⲟⲩⲟ, ⲛⲥⲱϥ, ⲡⲉⲭⲣⲓⲥⲧⲟⲥ, ⲉⲣⲟⲛ, ⲛϩⲏⲧⲟⲩ, ⲡⲟⲩⲁ, ⲛϩⲟⲟⲩ, ⲛⲧⲉⲡⲛⲟⲩⲧⲉ, ⲁϥϫⲟⲟⲥ, ⲁⲩⲉⲓ, ⲉⲣⲱⲧⲛ, ⲡⲉϫⲁⲥ, ⲡⲁϣⲏⲣⲉ.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -115,7 +115,7 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 </ul>
 
 <ul>
-<li>This corpus contains 70 lemmas tagged as pronouns (PRON): ϩⲁ_ⲛⲧⲟ, ϩⲁϩⲧⲛ, ϩⲓϫⲛ_ⲛⲧⲟ, ϩⲓⲧⲛ_ⲁⲛⲟⲕ, ϩⲛ_ⲁⲛⲟⲕ, ϩⲱ_ⲁⲛⲟⲕ, ϩⲱⲱ_ⲁⲛⲟⲕ, ϫⲓ_ⲁⲛⲟⲕ, ϫⲡⲟ_ⲛⲧⲟ, ⲁ, ⲁ_ⲛⲧⲟ, ⲁϣ, ⲁⲛⲟⲕ, ⲁⲛⲟⲕ_ⲛⲧⲉ, ⲁⲛⲟⲛ, ⲁⲟⲩⲏⲣ, ⲅ, ⲉ_ⲛⲧⲟ, ⲉϫⲛ_ⲛⲧⲟ, ⲉⲓ, ⲉⲕⲉ, ⲉⲛⲉ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲕ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲛ, ⲉⲣϣⲁⲛ_ⲛⲧⲟ, ⲉⲣϣⲁⲛ_ⲛⲧⲟϥ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲥ, ⲉⲣϣⲁⲛ_ⲛⲧⲱⲧⲛ, ⲉⲣⲉ_ⲁⲛⲟⲕ, ⲉⲣⲉ_ⲁⲛⲟⲛ, ⲉⲣⲉ_ⲛⲧⲟ, ⲉⲣⲉ_ⲛⲧⲟϥ, ⲉⲣⲉ_ⲛⲧⲟⲕ, ⲉⲣⲉ_ⲛⲧⲟⲟⲩ, ⲉⲣⲉ_ⲛⲧⲟⲥ, ⲉⲣⲉ_ⲛⲧⲱⲧⲛ, ⲉⲥ, ⲉⲧⲃⲉ_ⲁⲛⲟⲕ, ⲉⲧⲉⲣⲉ_ⲛⲧⲟ, ⲉⲧⲉⲧⲛϣⲁⲛ, ⲉⲧⲉⲧⲛⲉ, ⲕ, ⲙⲉⲩ, ⲙⲙⲓⲛⲙⲙⲟ_ⲛⲧⲟ, ⲙⲡⲉ_ⲛⲧⲟ, ⲛ_ⲛⲧⲟ, ⲛⲉⲣⲉ_ⲛⲧⲟ, ⲛⲓⲙ, ⲛⲥⲁ_ⲛⲧⲟ, ⲛⲧⲉ_ⲁⲛⲟⲕ, ⲛⲧⲉⲧⲛ, ⲛⲧⲛ_ⲁⲛⲟⲕ, ⲛⲧⲟ, ⲛⲧⲟϥ, ⲛⲧⲟⲕ, ⲛⲧⲟⲟⲩ, ⲛⲧⲟⲥ, ⲛⲧⲱⲧⲛ, ⲟⲩ, ⲟⲩⲏⲣ, ⲡⲉ, ⲡⲱⲥ, ⲣⲁⲧ_ⲁⲛⲟⲕ, ⲣⲟ_ⲛⲧⲟ, ⲥϥ, ⲧⲉⲧ, ⲧⲉⲧⲛ, ⲧⲣⲉϥ</li>
+<li>This corpus contains 69 lemmas tagged as pronouns (PRON): ϩⲁ_ⲛⲧⲟ, ϩⲁϩⲧⲛ, ϩⲓϫⲛ_ⲛⲧⲟ, ϩⲓⲧⲛ_ⲁⲛⲟⲕ, ϩⲛ_ⲁⲛⲟⲕ, ϩⲱ_ⲁⲛⲟⲕ, ϩⲱⲱ_ⲁⲛⲟⲕ, ϫⲓ_ⲁⲛⲟⲕ, ϫⲡⲟ_ⲛⲧⲟ, ⲁ, ⲁ_ⲛⲧⲟ, ⲁϣ, ⲁⲛⲟⲕ, ⲁⲛⲟⲕ_ⲛⲧⲉ, ⲁⲛⲟⲛ, ⲁⲟⲩⲏⲣ, ⲅ, ⲉ_ⲛⲧⲟ, ⲉϫⲛ_ⲛⲧⲟ, ⲉⲓ, ⲉⲕⲉ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲕ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲛ, ⲉⲣϣⲁⲛ_ⲛⲧⲟ, ⲉⲣϣⲁⲛ_ⲛⲧⲟϥ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲥ, ⲉⲣϣⲁⲛ_ⲛⲧⲱⲧⲛ, ⲉⲣⲉ_ⲁⲛⲟⲕ, ⲉⲣⲉ_ⲁⲛⲟⲛ, ⲉⲣⲉ_ⲛⲧⲟ, ⲉⲣⲉ_ⲛⲧⲟϥ, ⲉⲣⲉ_ⲛⲧⲟⲕ, ⲉⲣⲉ_ⲛⲧⲟⲟⲩ, ⲉⲣⲉ_ⲛⲧⲟⲥ, ⲉⲣⲉ_ⲛⲧⲱⲧⲛ, ⲉⲥ, ⲉⲧⲃⲉ_ⲁⲛⲟⲕ, ⲉⲧⲉⲣⲉ_ⲛⲧⲟ, ⲉⲧⲉⲧⲛϣⲁⲛ, ⲉⲧⲉⲧⲛⲉ, ⲕ, ⲙⲉⲩ, ⲙⲙⲓⲛⲙⲙⲟ_ⲛⲧⲟ, ⲙⲡⲉ_ⲛⲧⲟ, ⲛ_ⲛⲧⲟ, ⲛⲉⲣⲉ_ⲛⲧⲟ, ⲛⲓⲙ, ⲛⲥⲁ_ⲛⲧⲟ, ⲛⲧⲉ_ⲁⲛⲟⲕ, ⲛⲧⲉⲧⲛ, ⲛⲧⲛ_ⲁⲛⲟⲕ, ⲛⲧⲟ, ⲛⲧⲟϥ, ⲛⲧⲟⲕ, ⲛⲧⲟⲟⲩ, ⲛⲧⲟⲥ, ⲛⲧⲱⲧⲛ, ⲟⲩ, ⲟⲩⲏⲣ, ⲡⲉ, ⲡⲱⲥ, ⲣⲁⲧ_ⲁⲛⲟⲕ, ⲣⲟ_ⲛⲧⲟ, ⲥϥ, ⲧⲉⲧ, ⲧⲉⲧⲛ, ⲧⲣⲉϥ</li>
 </ul>
 
 <ul>
@@ -127,11 +127,11 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 </ul>
 
 <ul>
-<li>This corpus contains 26 lemmas tagged as auxiliaries (AUX): ϣ, ϣⲁ, ϣⲁⲛⲧⲉ, ϣⲁⲣⲉ, ϫⲡⲓ, ⲁ, ⲉϣ, ⲉⲣϣⲁⲛ, ⲉⲣⲉ, ⲙⲁⲣⲉ, ⲙⲉ, ⲙⲉⲣⲉ, ⲙⲛ, ⲙⲡⲁⲧⲉ, ⲙⲡⲉ, ⲙⲡⲣⲧⲣⲉ, ⲛⲁ, ⲛⲉ, ⲛⲉϣ, ⲛⲉⲣⲉ, ⲛⲛⲉ, ⲛⲧⲉ, ⲛⲧⲉⲣⲉ, ⲟⲩⲛ, ⲧⲁⲣ, ⲧⲁⲣⲉ</li>
+<li>This corpus contains 21 lemmas tagged as auxiliaries (AUX): ϣ, ϣⲁⲛⲧⲉ, ϣⲁⲣⲉ, ϫⲡⲓ, ⲁ, ⲉⲣϣⲁⲛ, ⲉⲣⲉ, ⲙⲁⲣⲉ, ⲙⲉⲣⲉ, ⲙⲛ, ⲙⲡⲁⲧⲉ, ⲙⲡⲉ, ⲙⲡⲣⲧⲣⲉ, ⲛⲁ, ⲛⲉϣ, ⲛⲉⲣⲉ, ⲛⲛⲉ, ⲛⲧⲉ, ⲛⲧⲉⲣⲉ, ⲟⲩⲛ, ⲧⲁⲣⲉ</li>
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: ϣⲁ, ϫⲡⲓ, ⲙⲉ, ⲙⲛ, ⲛⲁ, ⲟⲩⲛ</li>
+<li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: ϫⲡⲓ, ⲙⲛ, ⲛⲁ, ⲟⲩⲛ</li>
 </ul>
 
 <ul>
@@ -246,7 +246,6 @@ The underlying POS tagged material was produced as part of the projects Coptic S
       <li>PRON: ⲙⲡⲉ</li>
       <li>SCONJ: ⲟⲩⲇⲉ</li>
       <li>VERB: ⲙⲛ, ⲙⲛⲧ, ⲙⲛⲧⲁ, ⲙⲙⲛ, ⲙⲙⲛⲧ, ⲙⲛⲧⲏ, ⲙⲙⲛⲧⲁ, ⲙⲙⲛⲧⲉ, ⲙⲙⲛⲧⲏ</li>
-      <li>X: ⲟⲩ</li>
     </ul>
   </li>
 </ul>
@@ -440,6 +439,33 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: ⲉⲧⲃⲉ, ϣⲁ</li>
+          <li>ADV: ⲉⲃⲟⲗ, ⲉϩⲟⲩⲛ, ⲉϩⲣⲁⲓ, ⲉϩⲟⲩ, ⲛϩⲟⲩⲛ, ϫⲓⲛ</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: ϣⲁ</li>
+          <li>ADV: ⲟⲩ</li>
+          <li>CCONJ: ⲕⲁⲓ</li>
+          <li>PART: ⲉⲓⲥ</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: ⲉⲧⲃⲉ, ⲉ, ⲛ</li>
+          <li>ADV: ⲉⲃⲟⲗ</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -475,7 +501,7 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 </ul>
 
 <ul>
-<li>This corpus uses 26 lemmas as auxiliaries (<a>aux</a>). Examples: ⲁ, ⲛⲁ, ⲛⲧⲉ, ⲛⲧⲉⲣⲉ, ⲛⲉⲣⲉ, ⲙⲡⲉ, ϣⲁⲣⲉ, ⲙⲁⲣⲉ, ϣ, ⲛⲛⲉ, ⲉⲣϣⲁⲛ, ⲙⲉⲣⲉ, ϣⲁⲛⲧⲉ, ⲙⲛ, ⲙⲡⲁⲧⲉ, ⲟⲩⲛ, ⲙⲡⲣⲧⲣⲉ, ⲉⲣⲉ, ⲧⲁⲣ, ⲧⲁⲣⲉ, ϣⲁ, ϫⲡⲓ, ⲉϣ, ⲙⲉ, ⲛⲉ, ⲛⲉϣ.</li>
+<li>This corpus uses 21 lemmas as auxiliaries (<a>aux</a>). Examples: ⲁ, ⲛⲁ, ⲛⲧⲉ, ⲛⲧⲉⲣⲉ, ⲛⲉⲣⲉ, ⲙⲡⲉ, ϣⲁⲣⲉ, ⲙⲁⲣⲉ, ϣ, ⲛⲛⲉ, ⲉⲣϣⲁⲛ, ⲙⲉⲣⲉ, ϣⲁⲛⲧⲉ, ⲙⲛ, ⲙⲡⲁⲧⲉ, ⲟⲩⲛ, ⲧⲁⲣⲉ, ⲙⲡⲣⲧⲣⲉ, ⲉⲣⲉ, ϫⲡⲓ, ⲛⲉϣ.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>

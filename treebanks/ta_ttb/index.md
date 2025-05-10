@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Loganathan Ramasamy, Daniel Zeman.
 
 Repository: [UD_Tamil-TTB](https://github.com/UniversalDependencies/UD_Tamil-TTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udta_ttb215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udta_ttb216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -99,7 +99,7 @@ url = {http://www.lrec-conf.org/proceedings/lrec2012/summaries/456.html}
 
 ## Relations
 
-[acl](ta_ttb-dep-acl.html) – [acl:relcl](ta_ttb-dep-acl-relcl.html) – [advcl](ta_ttb-dep-advcl.html) – [advmod](ta_ttb-dep-advmod.html) – [advmod:emph](ta_ttb-dep-advmod-emph.html) – [amod](ta_ttb-dep-amod.html) – [aux](ta_ttb-dep-aux.html) – [case](ta_ttb-dep-case.html) – [cc](ta_ttb-dep-cc.html) – [ccomp](ta_ttb-dep-ccomp.html) – [compound](ta_ttb-dep-compound.html) – [compound:prt](ta_ttb-dep-compound-prt.html) – [conj](ta_ttb-dep-conj.html) – [cop](ta_ttb-dep-cop.html) – [csubj](ta_ttb-dep-csubj.html) – [dep](ta_ttb-dep-dep.html) – [det](ta_ttb-dep-det.html) – [iobj](ta_ttb-dep-iobj.html) – [mark](ta_ttb-dep-mark.html) – [nmod](ta_ttb-dep-nmod.html) – [nsubj](ta_ttb-dep-nsubj.html) – [nsubj:pass](ta_ttb-dep-nsubj-pass.html) – [nummod](ta_ttb-dep-nummod.html) – [obj](ta_ttb-dep-obj.html) – [obl](ta_ttb-dep-obl.html) – [obl:arg](ta_ttb-dep-obl-arg.html) – [parataxis](ta_ttb-dep-parataxis.html) – [punct](ta_ttb-dep-punct.html) – [root](ta_ttb-dep-root.html) – [xcomp](ta_ttb-dep-xcomp.html)
+[acl](ta_ttb-dep-acl.html) – [acl:relcl](ta_ttb-dep-acl-relcl.html) – [advcl](ta_ttb-dep-advcl.html) – [advmod](ta_ttb-dep-advmod.html) – [advmod:emph](ta_ttb-dep-advmod-emph.html) – [amod](ta_ttb-dep-amod.html) – [aux](ta_ttb-dep-aux.html) – [case](ta_ttb-dep-case.html) – [cc](ta_ttb-dep-cc.html) – [ccomp](ta_ttb-dep-ccomp.html) – [compound](ta_ttb-dep-compound.html) – [compound:prt](ta_ttb-dep-compound-prt.html) – [conj](ta_ttb-dep-conj.html) – [cop](ta_ttb-dep-cop.html) – [csubj](ta_ttb-dep-csubj.html) – [det](ta_ttb-dep-det.html) – [iobj](ta_ttb-dep-iobj.html) – [mark](ta_ttb-dep-mark.html) – [nmod](ta_ttb-dep-nmod.html) – [nsubj](ta_ttb-dep-nsubj.html) – [nsubj:pass](ta_ttb-dep-nsubj-pass.html) – [nummod](ta_ttb-dep-nummod.html) – [obj](ta_ttb-dep-obj.html) – [obl](ta_ttb-dep-obl.html) – [obl:arg](ta_ttb-dep-obl-arg.html) – [parataxis](ta_ttb-dep-parataxis.html) – [punct](ta_ttb-dep-punct.html) – [root](ta_ttb-dep-root.html) – [xcomp](ta_ttb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -747,12 +747,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN-Dat (3)</li>
-      <li>VERB-Fin--NOUN-Nom (100)</li>
+      <li>VERB-Fin--NOUN-Nom (99)</li>
       <li>VERB-Fin--PRON-Nom (40)</li>
       <li>VERB-Ger--NOUN-Nom (29)</li>
       <li>VERB-Ger--PRON-Nom (5)</li>
       <li>VERB-Inf--NOUN-Dat (1)</li>
-      <li>VERB-Inf--NOUN-Nom (81)</li>
+      <li>VERB-Inf--NOUN-Nom (82)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
       <li>VERB-Inf--PRON-Nom (17)</li>
       <li>VERB-Part--NOUN-Nom (106)</li>
@@ -766,7 +766,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN-Acc (37)</li>
       <li>VERB-Fin--NOUN-Loc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (66)</li>
+      <li>VERB-Fin--NOUN-Nom (67)</li>
       <li>VERB-Ger--NOUN-Acc (16)</li>
       <li>VERB-Ger--NOUN-Nom (33)</li>
       <li>VERB-Ger--PRON-Acc (5)</li>
@@ -810,5 +810,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>compound:prt</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
-<li>The following 12 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 13 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

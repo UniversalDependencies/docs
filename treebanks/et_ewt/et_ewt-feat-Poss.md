@@ -18,12 +18,12 @@ The feature is used with 2 part-of-speech tags: <tt><a href="et_ewt-pos-PRON.htm
 
 329 <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="et_ewt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (329; 100%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (325; 99%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (320; 97%), <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (293; 89%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="et_ewt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (329; 100%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (325; 99%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (319; 97%), <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (293; 89%).
 
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (329; 100% of non-empty `Poss`): <em>oma, omal, omale, my, omadega, omad, omaks, omast, omade, omadele</em>
-* `EMPTY` (6263): <em>ma, see, mis, seda, kes, ta, sa, midagi, mida, mul</em>
+* `EMPTY` (6262): <em>ma, see, mis, seda, kes, ta, sa, midagi, mida, mul</em>
 
 ### `ADJ`
 

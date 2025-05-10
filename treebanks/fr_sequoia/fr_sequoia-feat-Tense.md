@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
-6771 tokens (10%) have a non-empty value of `Tense`.
-2122 types (23%) occur at least once with a non-empty value of `Tense`.
-861 lemmas (13%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (4672; 7% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (2099; 3% instances).
+6766 tokens (10%) have a non-empty value of `Tense`.
+2120 types (23%) occur at least once with a non-empty value of `Tense`.
+859 lemmas (13%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (4667; 7% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (2099; 3% instances).
 
 ### `VERB`
 
-4672 <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `Tense`.
+4667 <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fr_sequoia-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3177; 68%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3020; 65%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2563; 55%), <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2562; 55%), <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2562; 55%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2477; 53%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fr_sequoia-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3172; 68%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3020; 65%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2563; 55%), <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2562; 55%), <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2562; 55%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2472; 53%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (144; 3% of non-empty `Tense`): <em>devra, pourra, aura, pourront, aurons, auront, durera, déterminera, informera, aurai</em>
 * `Imp` (224; 5% of non-empty `Tense`): <em>devait, avait, pouvait, avaient, agissait, faisaient, faisait, travaillait, fallait, souhaitait</em>
 * `Past` (2328; 50% of non-empty `Tense`): <em>mis, eu, traités, utilisé, atteints, administré, reçu, pris, agit, pu</em>
-* `Pres` (1976; 42% of non-empty `Tense`): <em>doit, a, peut, doivent, faut, est, peuvent, concernant, voudrais, pense</em>
-* `EMPTY` (1214): <em>voir, faire, prendre, avoir, utiliser, dire, partir, savoir, obtenir, recevoir</em>
+* `Pres` (1971; 42% of non-empty `Tense`): <em>doit, a, peut, doivent, faut, est, peuvent, concernant, voudrais, pense</em>
+* `EMPTY` (1208): <em>voir, faire, prendre, avoir, utiliser, dire, partir, savoir, obtenir, recevoir</em>
 
 <table>
   <tr><th>Paradigm <i>devoir</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>

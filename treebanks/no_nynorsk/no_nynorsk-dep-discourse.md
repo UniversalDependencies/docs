@@ -31,7 +31,7 @@ The following 11 pairs of parts of speech are connected with `discourse`: <tt><a
 7	og	og	CCONJ	konj	_	10	cc	_	_
 8	den	den	PRON	pron	Gender=Fem,Masc|Person=3|PronType=Prs	10	nsubj:pass	_	_
 9	vert	verte	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
-10	brukt	bruke	ADJ	adj	Definite=Ind|Gender=Fem,Masc|VerbForm=Part	4	conj	_	_
+10	brukt	bruke	ADJ	adj	Definite=Ind|Gender=Com|VerbForm=Part	4	conj	_	_
 11	rett	rett	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Neut	10	advmod	_	_
 12	som	som	SCONJ	sbu	_	14	mark	_	_
 13	det	det	PRON	pron	Gender=Neut|Person=3|PronType=Prs	14	expl	_	_
@@ -51,11 +51,11 @@ The following 11 pairs of parts of speech are connected with `discourse`: <tt><a
 2	Nei	nei	INTJ	interj	_	10	discourse	_	SpaceAfter=No
 3	,	$,	PUNCT	<komma>	_	2	punct	_	_
 4	i	i	ADP	prep	_	6	case	_	_
-5	det	det	DET	det	Gender=Neut|PronType=Dem	6	det	_	_
+5	det	det	DET	det	Gender=Neut|PronType=Art	6	det	_	_
 6	minste	liten	ADJ	adj	Degree=Sup	10	advmod	_	_
 7	ikkje	ikkje	PART	adv	Polarity=Neg	10	advmod	_	_
 8	på	på	ADP	prep	_	10	case	_	_
-9	kort	kort	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc	10	amod	_	_
+9	kort	kort	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com	10	amod	_	_
 10	sikt	sikt	NOUN	subst	Definite=Ind|Gender=Fem	0	root	_	SpaceAfter=No
 11	.	$.	PUNCT	clb	_	10	punct	_	_
 

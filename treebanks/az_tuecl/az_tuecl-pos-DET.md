@@ -6,55 +6,51 @@ udver: '2'
 
 ## Treebank Statistics: UD_Azerbaijani-TueCL: POS Tags: `DET`
 
-There are 6 `DET` lemmas (2%), 6 `DET` types (2%) and 9 `DET` tokens (1%).
-Out of 14 observed tags, the rank of `DET` is: 9 in number of lemmas, 9 in number of types and 11 in number of tokens.
+There are 5 `DET` lemmas (2%), 5 `DET` types (1%) and 12 `DET` tokens (1%).
+Out of 15 observed tags, the rank of `DET` is: 9 in number of lemmas, 10 in number of types and 10 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>bir, bu, harda, heç, o, tamam</em>
+The 10 most frequent `DET` lemmas: <em>bir, bu, o, heç, tamam</em>
 
-The 10 most frequent `DET` types:  <em>bir, bu, harda, heç, o, tamam</em>
+The 10 most frequent `DET` types:  <em>bir, bu, o, heç, tamam</em>
 
-The 10 most frequent ambiguous lemmas: <em>bir</em> (<tt><a href="az_tuecl-pos-DET.html">DET</a></tt> 3, <tt><a href="az_tuecl-pos-NUM.html">NUM</a></tt> 2), <em>bu</em> (<tt><a href="az_tuecl-pos-PRON.html">PRON</a></tt> 3, <tt><a href="az_tuecl-pos-DET.html">DET</a></tt> 2), <em>o</em> (<tt><a href="az_tuecl-pos-PRON.html">PRON</a></tt> 7, <tt><a href="az_tuecl-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>bir</em> (<tt><a href="az_tuecl-pos-DET.html">DET</a></tt> 6, <tt><a href="az_tuecl-pos-NUM.html">NUM</a></tt> 1), <em>bu</em> (<tt><a href="az_tuecl-pos-PRON.html">PRON</a></tt> 3, <tt><a href="az_tuecl-pos-DET.html">DET</a></tt> 2), <em>o</em> (<tt><a href="az_tuecl-pos-PRON.html">PRON</a></tt> 11, <tt><a href="az_tuecl-pos-DET.html">DET</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="az_tuecl-pos-DET.html">DET</a></tt> 3, <tt><a href="az_tuecl-pos-NUM.html">NUM</a></tt> 2), <em>o</em> (<tt><a href="az_tuecl-pos-DET.html">DET</a></tt> 1, <tt><a href="az_tuecl-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="az_tuecl-pos-DET.html">DET</a></tt> 6, <tt><a href="az_tuecl-pos-NUM.html">NUM</a></tt> 1), <em>o</em> (<tt><a href="az_tuecl-pos-DET.html">DET</a></tt> 2, <tt><a href="az_tuecl-pos-PRON.html">PRON</a></tt> 1)
 
 
 * <em>bir</em>
-  * <tt><a href="az_tuecl-pos-DET.html">DET</a></tt> 3: <em>İguazu böyük <b>bir</b> kisvərdir , ya kiçik ?</em>
-  * <tt><a href="az_tuecl-pos-NUM.html">NUM</a></tt> 2: <em>O <b>bir</b> dәnә maşın aldı amma qardaşı fәqәt çәrx aldı .</em>
+  * <tt><a href="az_tuecl-pos-DET.html">DET</a></tt> 6: <em>İguazu böyük <b>bir</b> kişvərdir , ya kiçik ?</em>
+  * <tt><a href="az_tuecl-pos-NUM.html">NUM</a></tt> 1: <em>Deniz yoldaşına <b>bir</b> dənə kitab aldı .</em>
 * <em>o</em>
-  * <tt><a href="az_tuecl-pos-DET.html">DET</a></tt> 1: <em>Tüklәrin cürləməliydi , amma neçә dәlilә görә <b>o</b> gün eləmәdi .</em>
+  * <tt><a href="az_tuecl-pos-DET.html">DET</a></tt> 2: <em>O Tüklərin cürləməliydi , amma neçə dəlilə görə <b>o</b> gün eləmədi .</em>
   * <tt><a href="az_tuecl-pos-PRON.html">PRON</a></tt> 1: <em>Cələsə elam olanda <b>o</b> qədər təəccüb eləmişdi ki mənə elə mat - mat baxırdı .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.446215).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.486014).
 
 The 1st highest number of forms (1) was observed with the lemma “bir”: <em>bir</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “bu”: <em>bu</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “harda”: <em>harda</em>.
+The 3rd highest number of forms (1) was observed with the lemma “heç”: <em>heç</em>.
 
-`DET` does not occur with any features.
+`DET` occurs with 2 features: <tt><a href="az_tuecl-feat-PronType.html">PronType</a></tt> (4; 33% instances), <tt><a href="az_tuecl-feat-Definite.html">Definite</a></tt> (3; 25% instances)
+
+`DET` occurs with 3 feature-value pairs: `Definite=Ind`, `PronType=Dem`, `PronType=Neg`
+
+`DET` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (5 tokens).
+Examples: <em>bir, Bu, tamam</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 2 different relations: <tt><a href="az_tuecl-dep-det.html">det</a></tt> (8; 89% instances), <tt><a href="az_tuecl-dep-root.html">root</a></tt> (1; 11% instances)
+`DET` nodes are attached to their parents using 1 different relations: <tt><a href="az_tuecl-dep-det.html">det</a></tt> (12; 100% instances)
 
-Parents of `DET` nodes belong to 2 different parts of speech: <tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> (8; 89% instances),  (1; 11% instances)
+Parents of `DET` nodes belong to 2 different parts of speech: <tt><a href="az_tuecl-pos-NOUN.html">NOUN</a></tt> (11; 92% instances), <tt><a href="az_tuecl-pos-ADV.html">ADV</a></tt> (1; 8% instances)
 
-8 (89%) `DET` nodes are leaves.
+12 (100%) `DET` nodes are leaves.
 
-0 (0%) `DET` nodes have one child.
-
-0 (0%) `DET` nodes have two children.
-
-1 (11%) `DET` nodes have three or more children.
-
-The highest child degree of a `DET` node is 4.
-
-Children of `DET` nodes are attached using 4 different relations: <tt><a href="az_tuecl-dep-cop.html">cop</a></tt> (1; 25% instances), <tt><a href="az_tuecl-dep-discourse.html">discourse</a></tt> (1; 25% instances), <tt><a href="az_tuecl-dep-nsubj.html">nsubj</a></tt> (1; 25% instances), <tt><a href="az_tuecl-dep-punct.html">punct</a></tt> (1; 25% instances)
-
-Children of `DET` nodes belong to 4 different parts of speech: <tt><a href="az_tuecl-pos-AUX.html">AUX</a></tt> (1; 25% instances), <tt><a href="az_tuecl-pos-INTJ.html">INTJ</a></tt> (1; 25% instances), <tt><a href="az_tuecl-pos-PRON.html">PRON</a></tt> (1; 25% instances), <tt><a href="az_tuecl-pos-PUNCT.html">PUNCT</a></tt> (1; 25% instances)
+The highest child degree of a `DET` node is 0.
 

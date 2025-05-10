@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Ryan McDonald, Vitaly Nikolaev, Olga Lyashevskaya.
 
 Repository: [UD_Russian-GSD](https://github.com/UniversalDependencies/UD_Russian-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_gsd215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_gsd216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -56,11 +56,11 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 
 ## Features
 
-[Abbr](ru_gsd-feat-Abbr.html) – [Animacy](ru_gsd-feat-Animacy.html) – [Aspect](ru_gsd-feat-Aspect.html) – [Case](ru_gsd-feat-Case.html) – [Degree](ru_gsd-feat-Degree.html) – [Foreign](ru_gsd-feat-Foreign.html) – [Gender](ru_gsd-feat-Gender.html) – [Mood](ru_gsd-feat-Mood.html) – [Number](ru_gsd-feat-Number.html) – [NumType](ru_gsd-feat-NumType.html) – [Person](ru_gsd-feat-Person.html) – [Polarity](ru_gsd-feat-Polarity.html) – [Reflex](ru_gsd-feat-Reflex.html) – [Tense](ru_gsd-feat-Tense.html) – [Typo](ru_gsd-feat-Typo.html) – [Variant](ru_gsd-feat-Variant.html) – [VerbForm](ru_gsd-feat-VerbForm.html) – [Voice](ru_gsd-feat-Voice.html)
+[Abbr](ru_gsd-feat-Abbr.html) – [Animacy](ru_gsd-feat-Animacy.html) – [Aspect](ru_gsd-feat-Aspect.html) – [Case](ru_gsd-feat-Case.html) – [Degree](ru_gsd-feat-Degree.html) – [ExtPos](ru_gsd-feat-ExtPos.html) – [Foreign](ru_gsd-feat-Foreign.html) – [Gender](ru_gsd-feat-Gender.html) – [Mood](ru_gsd-feat-Mood.html) – [Number](ru_gsd-feat-Number.html) – [NumType](ru_gsd-feat-NumType.html) – [Person](ru_gsd-feat-Person.html) – [Polarity](ru_gsd-feat-Polarity.html) – [Reflex](ru_gsd-feat-Reflex.html) – [Tense](ru_gsd-feat-Tense.html) – [Typo](ru_gsd-feat-Typo.html) – [Variant](ru_gsd-feat-Variant.html) – [VerbForm](ru_gsd-feat-VerbForm.html) – [Voice](ru_gsd-feat-Voice.html)
 
 ## Relations
 
-[acl](ru_gsd-dep-acl.html) – [acl:relcl](ru_gsd-dep-acl-relcl.html) – [advcl](ru_gsd-dep-advcl.html) – [advmod](ru_gsd-dep-advmod.html) – [amod](ru_gsd-dep-amod.html) – [appos](ru_gsd-dep-appos.html) – [aux](ru_gsd-dep-aux.html) – [aux:pass](ru_gsd-dep-aux-pass.html) – [case](ru_gsd-dep-case.html) – [cc](ru_gsd-dep-cc.html) – [ccomp](ru_gsd-dep-ccomp.html) – [compound](ru_gsd-dep-compound.html) – [conj](ru_gsd-dep-conj.html) – [cop](ru_gsd-dep-cop.html) – [csubj](ru_gsd-dep-csubj.html) – [dep](ru_gsd-dep-dep.html) – [det](ru_gsd-dep-det.html) – [discourse](ru_gsd-dep-discourse.html) – [dislocated](ru_gsd-dep-dislocated.html) – [expl](ru_gsd-dep-expl.html) – [fixed](ru_gsd-dep-fixed.html) – [flat](ru_gsd-dep-flat.html) – [flat:foreign](ru_gsd-dep-flat-foreign.html) – [flat:name](ru_gsd-dep-flat-name.html) – [goeswith](ru_gsd-dep-goeswith.html) – [iobj](ru_gsd-dep-iobj.html) – [list](ru_gsd-dep-list.html) – [mark](ru_gsd-dep-mark.html) – [nmod](ru_gsd-dep-nmod.html) – [nsubj](ru_gsd-dep-nsubj.html) – [nsubj:pass](ru_gsd-dep-nsubj-pass.html) – [nummod](ru_gsd-dep-nummod.html) – [nummod:entity](ru_gsd-dep-nummod-entity.html) – [nummod:gov](ru_gsd-dep-nummod-gov.html) – [obj](ru_gsd-dep-obj.html) – [obl](ru_gsd-dep-obl.html) – [obl:agent](ru_gsd-dep-obl-agent.html) – [orphan](ru_gsd-dep-orphan.html) – [parataxis](ru_gsd-dep-parataxis.html) – [punct](ru_gsd-dep-punct.html) – [root](ru_gsd-dep-root.html) – [vocative](ru_gsd-dep-vocative.html) – [xcomp](ru_gsd-dep-xcomp.html)
+[acl](ru_gsd-dep-acl.html) – [acl:relcl](ru_gsd-dep-acl-relcl.html) – [advcl](ru_gsd-dep-advcl.html) – [advmod](ru_gsd-dep-advmod.html) – [amod](ru_gsd-dep-amod.html) – [appos](ru_gsd-dep-appos.html) – [aux](ru_gsd-dep-aux.html) – [aux:pass](ru_gsd-dep-aux-pass.html) – [case](ru_gsd-dep-case.html) – [cc](ru_gsd-dep-cc.html) – [ccomp](ru_gsd-dep-ccomp.html) – [compound](ru_gsd-dep-compound.html) – [conj](ru_gsd-dep-conj.html) – [cop](ru_gsd-dep-cop.html) – [csubj](ru_gsd-dep-csubj.html) – [dep](ru_gsd-dep-dep.html) – [det](ru_gsd-dep-det.html) – [discourse](ru_gsd-dep-discourse.html) – [dislocated](ru_gsd-dep-dislocated.html) – [expl](ru_gsd-dep-expl.html) – [fixed](ru_gsd-dep-fixed.html) – [flat](ru_gsd-dep-flat.html) – [flat:foreign](ru_gsd-dep-flat-foreign.html) – [flat:name](ru_gsd-dep-flat-name.html) – [goeswith](ru_gsd-dep-goeswith.html) – [iobj](ru_gsd-dep-iobj.html) – [list](ru_gsd-dep-list.html) – [mark](ru_gsd-dep-mark.html) – [nmod](ru_gsd-dep-nmod.html) – [nsubj](ru_gsd-dep-nsubj.html) – [nsubj:pass](ru_gsd-dep-nsubj-pass.html) – [nummod](ru_gsd-dep-nummod.html) – [nummod:entity](ru_gsd-dep-nummod-entity.html) – [nummod:gov](ru_gsd-dep-nummod-gov.html) – [obj](ru_gsd-dep-obj.html) – [obl](ru_gsd-dep-obl.html) – [obl:agent](ru_gsd-dep-obl-agent.html) – [orphan](ru_gsd-dep-orphan.html) – [parataxis](ru_gsd-dep-parataxis.html) – [parataxis:discourse](ru_gsd-dep-parataxis-discourse.html) – [punct](ru_gsd-dep-punct.html) – [root](ru_gsd-dep-root.html) – [vocative](ru_gsd-dep-vocative.html) – [xcomp](ru_gsd-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -691,6 +691,34 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>DET: таких, такие, такими</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: в, по</li>
+          <li>PRON: тем</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>PRON: то, т.</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>PRON: тем</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -850,6 +878,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>nummod:entity</a>, <a>nummod:gov</a>, <a>obl:agent</a></li>
+<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>nummod:entity</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>parataxis:discourse</a></li>
 <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>reparandum</a></li>
 </ul>

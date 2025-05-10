@@ -69,12 +69,18 @@ The 2nd highest number of forms (1) was observed with the lemma “como”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “conforme”: <em>conforme</em>.
 
-`SCONJ` does not occur with any features.
+`SCONJ` occurs with 1 features: <tt><a href="pt_porttinari-feat-ExtPos.html">ExtPos</a></tt> (24; 1% instances)
+
+`SCONJ` occurs with 1 feature-value pairs: `ExtPos=SCONJ`
+
+`SCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (2321 tokens).
+Examples: <em>que, se, quando, porque, como, enquanto, embora, pois, caso, quanto</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="pt_porttinari-dep-mark.html">mark</a></tt> (1925; 82% instances), <tt><a href="pt_porttinari-dep-fixed.html">fixed</a></tt> (324; 14% instances), <tt><a href="pt_porttinari-dep-discourse.html">discourse</a></tt> (93; 4% instances), <tt><a href="pt_porttinari-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="pt_porttinari-dep-advcl.html">advcl</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="pt_porttinari-dep-mark.html">mark</a></tt> (1925; 82% instances), <tt><a href="pt_porttinari-dep-fixed.html">fixed</a></tt> (323; 14% instances), <tt><a href="pt_porttinari-dep-discourse.html">discourse</a></tt> (94; 4% instances), <tt><a href="pt_porttinari-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="pt_porttinari-dep-advcl.html">advcl</a></tt> (1; 0% instances)
 
 Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> (1569; 67% instances), <tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (202; 9% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (196; 8% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (174; 7% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt> (117; 5% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (26; 1% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt> (20; 1% instances), <tt><a href="pt_porttinari-pos-SCONJ.html">SCONJ</a></tt> (20; 1% instances), <tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt> (1; 0% instances)
 

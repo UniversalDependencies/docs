@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>où</em> (<tt><a href="fr_fqb-pos-ADV
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.100000 (the average of all parts of speech is 1.164044).
+The form / lemma ratio of `ADV` is 1.100000 (the average of all parts of speech is 1.164665).
 
 The 1st highest number of forms (7) was observed with the lemma “_”: <em>dessous, dessus, hui, lors, pas, peu, tant</em>.
 

@@ -24,7 +24,7 @@ The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 3 4 fixed	color:blue
 1	Galileo	_	PROPN	_	_	5	nsubj	_	_
 2	Galilei	_	PROPN	_	_	1	flat:name	_	_
-3	inggih	_	AUX	_	Polite=Form	5	cop	_	_
+3	inggih	_	AUX	_	ExtPos=ADP|Polite=Form	5	case	_	_
 4	punika	_	DET	_	Polite=Form|PronType=Dem	3	fixed	_	_
 5	bapak	_	NOUN	_	Number=Sing	0	root	_	_
 6	ageng	_	ADJ	_	Polite=Form	5	amod	_	_
@@ -41,7 +41,7 @@ The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Kena	_	ADV	_	PronType=Int	5	advmod	_	_
+1	Kena	_	ADV	_	ExtPos=ADV|PronType=Int	5	advmod	_	_
 2	ngapa	_	PRON	_	Polite=Infm|PronType=Int	1	fixed	_	_
 3	Simbah	_	NOUN	_	Number=Sing	5	nsubj	_	_
 4	kok	_	ADV	_	Polite=Infm|PronType=Int	5	advmod	_	_
@@ -65,7 +65,7 @@ The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href
 3	ing	_	ADP	_	Polite=Infm	4	case	_	_
 4	taun	_	NOUN	_	Number=Sing	1	nmod	_	_
 5	2021	_	NUM	_	NumType=Card	4	nummod	_	_
-6	kaya	_	ADP	_	Polite=Infm	8	case	_	_
+6	kaya	_	ADP	_	ExtPos=ADP|Polite=Infm	8	case	_	_
 7	dene	_	ADP	_	_	6	fixed	_	_
 8	pageblug	_	NOUN	_	Number=Sing	0	root	_	_
 9	kang	_	PRON	_	Polite=Infm|PronType=Rel	10	nsubj	_	_

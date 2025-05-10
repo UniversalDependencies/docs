@@ -22,9 +22,9 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	Rhymes	rhyme	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Discourse=organization-preparation:41->42:0:ref-prop-163,165+grf-col-164|Entity=(62-abstract-new-cf1-1-disc)|SpaceAfter=No
+1	Rhymes	rhyme	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Discourse=organization-preparation:41->42:0:_|Entity=(62-abstract-new-nnnnn-cf1-1-disc)|SpaceAfter=No
 2	:	:	PUNCT	:	_	3	punct	3:punct	_
-3	-ɛkst	-ɛkst	INTJ	UH	_	1	dep	1:dep	Discourse=joint-list_m:42->36:2:grf-seq-|Entity=(62-abstract-giv:act-cf1-1-coref)|XML=<ref target:::"https://en.wiktionary.org/wiki/Rhymes:English/%C9%9Bkst"></ref>
+3	-ɛkst	-ɛkst	INTJ	UH	_	1	dep	1:dep	Discourse=joint-list_m:42->36:2:_|Entity=(62-abstract-giv:act-nnnnn-cf1-1-coref)|XML=<ref target:::"https://en.wiktionary.org/wiki/Rhymes:English/%C9%9Bkst"></ref>
 
 ~~~
 
@@ -35,7 +35,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
-1	Alternative	alternative	ADJ	JJ	Degree=Pos	2	amod	2:amod	Discourse=organization-heading:3->4:2:grf-ly-|Entity=(3-abstract-new-cf1-2-sgl|MSeg=Alternat-ive|PDTB=NoRel:NoRel:_:_:2:3-4|XML=<hi rend:::"bold">
+1	Alternative	alternative	ADJ	JJ	Degree=Pos	2	amod	2:amod	Discourse=organization-heading:3->4:2:_|Entity=(3-abstract-new-nnsnn-cf1-2-sgl|MSeg=Alternat-ive|PDTB=NoRel:NoRel:_:_:2:3-4|XML=<hi rend:::"bold">
 2	forms	form	NOUN	NNS	Number=Plur	0	root	0:root	Entity=3)|MSeg=form-s|XML=</hi>
 
 ~~~
@@ -47,7 +47,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	English	English	PROPN	NNP	Number=Sing	0	root	0:root	Discourse=organization-heading:2->4:4:grf-ly-|Entity=(2-abstract-new-cf1-1-sgl-English_language)|MSeg=Engl-ish
+1	English	English	PROPN	NNP	Number=Sing	0	root	0:root	Discourse=organization-heading:2->4:4:_|Entity=(2-abstract-new-nnnnn-cf1-1-sgl-English_language)|MSeg=Engl-ish
 
 ~~~
 

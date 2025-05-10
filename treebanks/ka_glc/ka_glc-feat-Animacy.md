@@ -44,9 +44,9 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="ka_glc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5117; 89%),
+<tt>NOUN --[<tt><a href="ka_glc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5116; 89%),
 <tt>NOUN --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2915; 95%),
-<tt>NOUN --[<tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (694; 95%),
+<tt>NOUN --[<tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (696; 95%),
 <tt>NOUN --[<tt><a href="ka_glc-dep-obl.html">obl</a></tt>]--> NOUN</tt> (600; 91%),
 <tt>NOUN --[<tt><a href="ka_glc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (408; 90%),
 <tt>NOUN --[<tt><a href="ka_glc-dep-acl.html">acl</a></tt>]--> NOUN</tt> (83; 93%),

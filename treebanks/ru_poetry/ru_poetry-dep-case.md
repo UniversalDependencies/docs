@@ -13,23 +13,24 @@ This relation is universal.
 5399 instances of `case` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.309426987061.
 
-The following 21 pairs of parts of speech are connected with `case`: <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (4277; 79% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (581; 11% instances), <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_poetry-pos-SCONJ.html">SCONJ</a></tt> (319; 6% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (92; 2% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (57; 1% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (27; 0% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_poetry-pos-SCONJ.html">SCONJ</a></tt> (19; 0% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_poetry-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_poetry-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt>-<tt><a href="ru_poetry-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_poetry-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ru_poetry-pos-PART.html">PART</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_poetry-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_poetry-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-X.html">X</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `case`: <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (4276; 79% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (581; 11% instances), <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_poetry-pos-SCONJ.html">SCONJ</a></tt> (319; 6% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (93; 2% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (57; 1% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (27; 0% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_poetry-pos-SCONJ.html">SCONJ</a></tt> (19; 0% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_poetry-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_poetry-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt>-<tt><a href="ru_poetry-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_poetry-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ru_poetry-pos-PART.html">PART</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_poetry-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_poetry-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-X.html">X</a></tt>-<tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 6 case	color:blue
-1	«	«	PUNCT	_	_	2	punct	_	before=<p_class="h1"><se>|SpaceAfter=No
-2	ВОЕВОДА	воевода	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	5	punct	_	_
-4	ИЛИ	или	CCONJ	_	_	5	cc	_	_
-5	СОН	сон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
-6	НА	на	ADP	_	_	7	case	_	_
-7	ВОЛГЕ	волга	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
-8	»	»	PUNCT	_	_	2	punct	_	</se></p>
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 case	color:blue
+1	Просмотреть	просмотреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	csubj	_	before=<p_class="verse"><line_meter="Х4ж"/><se>
+2	такую	такой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	скуку	скука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obj	_	before=<rhyme-zone/>
+4	--	--	PUNCT	_	_	6	punct	_	<br/>
+5	Не	не	PART	_	Polarity=Neg	6	advmod	_	before=<line_meter="Х4м"/>
+6	последняя	последний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+7	из	из	ADP	_	_	8	case	_	_
+8	мук	мука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	before=<rhyme-zone/>|SpaceAfter=No
+9	...	...	PUNCT	_	_	6	punct	_	</se><br/>
 
 ~~~
 

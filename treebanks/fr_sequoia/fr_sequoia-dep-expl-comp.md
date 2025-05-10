@@ -55,7 +55,7 @@ The following 2 pairs of parts of speech are connected with `expl:comp`: <tt><a 
 14	n'	ne	ADV	_	Polarity=Neg	18	advmod	_	SpaceAfter=No
 15	en	en	PRON	_	Person=3|PronType=Prs	18	expl:comp	_	_
 16	sera	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	cop	_	_
-17	que	que	ADV	_	_	18	advmod	_	_
+17	que	que	ADV	_	Polarity=Neg	18	advmod	_	_
 18	mieux	mieux	ADV	_	_	0	root	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	18	punct	_	_
 

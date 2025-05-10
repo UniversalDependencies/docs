@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="id_gsd-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="id_gsd-dep-flat-name.html">flat:name</a></tt>.
 
-46 nodes (0%) are attached to their parents as `flat:foreign`.
+49 nodes (0%) are attached to their parents as `flat:foreign`.
 
-46 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.97826086956522.
+49 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.91836734693878.
 
-The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="id_gsd-pos-X.html">X</a></tt>-<tt><a href="id_gsd-pos-X.html">X</a></tt> (46; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="id_gsd-pos-X.html">X</a></tt>-<tt><a href="id_gsd-pos-X.html">X</a></tt> (49; 100% instances).
 
 
 ~~~ conllu

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Johannes Heinecke, Francis Tyers.
 
 Repository: [UD_Welsh-CCG](https://github.com/UniversalDependencies/UD_Welsh-CCG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcy_ccg215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcy_ccg216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -82,7 +82,7 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 
 ## Features
 
-[Abbr](cy_ccg-feat-Abbr.html) – [Degree](cy_ccg-feat-Degree.html) – [Foreign](cy_ccg-feat-Foreign.html) – [Gender](cy_ccg-feat-Gender.html) – [Mood](cy_ccg-feat-Mood.html) – [Mutation](cy_ccg-feat-Mutation.html) – [Number](cy_ccg-feat-Number.html) – [NumForm](cy_ccg-feat-NumForm.html) – [NumType](cy_ccg-feat-NumType.html) – [Person](cy_ccg-feat-Person.html) – [Poss](cy_ccg-feat-Poss.html) – [PronType](cy_ccg-feat-PronType.html) – [Tense](cy_ccg-feat-Tense.html) – [VerbForm](cy_ccg-feat-VerbForm.html)
+[Abbr](cy_ccg-feat-Abbr.html) – [Degree](cy_ccg-feat-Degree.html) – [ExtPos](cy_ccg-feat-ExtPos.html) – [Foreign](cy_ccg-feat-Foreign.html) – [Gender](cy_ccg-feat-Gender.html) – [Mood](cy_ccg-feat-Mood.html) – [Mutation](cy_ccg-feat-Mutation.html) – [Number](cy_ccg-feat-Number.html) – [NumForm](cy_ccg-feat-NumForm.html) – [NumType](cy_ccg-feat-NumType.html) – [Person](cy_ccg-feat-Person.html) – [Poss](cy_ccg-feat-Poss.html) – [PronType](cy_ccg-feat-PronType.html) – [Tense](cy_ccg-feat-Tense.html) – [VerbForm](cy_ccg-feat-VerbForm.html)
 
 ## Relations
 
@@ -465,7 +465,7 @@ url = {https://www.aclweb.org/anthology/W19-6904},
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: cyntaf, ail, gyntaf, trydydd, drydedd, 19, cynta, gynnar, 17, 18</li>
+      <li>ADJ: cyntaf, ail, gyntaf, trydydd, drydedd, 19, bedwaredd, cynta, gynnar, 17</li>
     </ul>
   </li>
 </ul>
@@ -543,6 +543,49 @@ url = {https://www.aclweb.org/anthology/W19-6904},
           <li>ADV: ayb</li>
           <li>NOUN: g, b, AC, Dr, EFA, FS, MP3, Mr, yb, yp</li>
           <li>PROPN: BBC, UE, DU, E, J, R, T, UDA, A487, A55</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>ADJ: ambell, newydd</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADP: ar, o, wrth, oddi, yn, er, hyd, i, ger</li>
+          <li>ADV: ynglŷn, ynglyn</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: wrth, i, o, yn, hyd</li>
+          <li>ADV: dim, Ble, Pryd</li>
+          <li>DET: ba</li>
+          <li>NOUN: hyd, fodd, beth, dim</li>
+          <li>PART: ddim</li>
+          <li>SCONJ: on'd</li>
+        </ul>
+      </li>
+      <li>AUX
+        <ul>
+          <li>AUX: ar</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: naill</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>PRON: naill</li>
         </ul>
       </li>
     </ul>

@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  ⲓⲱϩⲁⲛⲛⲏⲥ (<tt><a href="cop
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.005464 (the average of all parts of speech is 1.137647).
+The form / lemma ratio of `PROPN` is 1.005464 (the average of all parts of speech is 1.140603).
 
 The 1st highest number of forms (2) was observed with the lemma “ⲡⲁⲣⲙⲟⲩⲧⲉ”: ⲡⲁⲣⲙⲟⲩⲧⲉ, ⲫⲁⲣⲙⲟⲩⲧⲉ.
 

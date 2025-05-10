@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-8205 tokens (12%) have a non-empty value of `VerbForm`.
-2590 types (28%) occur at least once with a non-empty value of `VerbForm`.
-977 lemmas (15%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (5886; 8% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (2319; 3% instances).
+8194 tokens (12%) have a non-empty value of `VerbForm`.
+2588 types (28%) occur at least once with a non-empty value of `VerbForm`.
+975 lemmas (15%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (5875; 8% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (2319; 3% instances).
 
 ### `VERB`
 
-5886 <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+5875 <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_sequoia-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4391; 75%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3771; 64%), <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3765; 64%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3691; 63%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3020; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_sequoia-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4380; 75%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3771; 64%), <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3765; 64%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3680; 63%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3020; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (2121; 36% of non-empty `VerbForm`): <em>doit, a, peut, doivent, faut, est, peuvent, voudrais, pense, agit</em>
+* `Fin` (2110; 36% of non-empty `VerbForm`): <em>doit, a, peut, doivent, faut, est, peuvent, voudrais, pense, agit</em>
 * `Inf` (1203; 20% of non-empty `VerbForm`): <em>voir, faire, prendre, avoir, utiliser, dire, partir, savoir, obtenir, recevoir</em>
 * `Part` (2562; 44% of non-empty `VerbForm`): <em>mis, eu, traités, utilisé, atteints, administré, reçu, concernant, pris, pu</em>
 

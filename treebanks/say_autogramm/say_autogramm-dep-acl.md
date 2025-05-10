@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="say_autogramm-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-17 nodes (0%) are attached to their parents as `acl`.
+18 nodes (0%) are attached to their parents as `acl`.
 
-11 instances of `acl` (65%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.35294117647059.
+11 instances of `acl` (61%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.5.
 
-The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (7; 41% instances), <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (6; 35% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="say_autogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-PART.html">PART</a></tt> (1; 6% instances).
+The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (7; 39% instances), <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (7; 39% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="say_autogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-PART.html">PART</a></tt> (1; 6% instances).
 
 
 ~~~ conllu

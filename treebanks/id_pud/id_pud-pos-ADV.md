@@ -62,13 +62,13 @@ The 2nd highest number of forms (2) was observed with the lemma “benar”: <em
 
 The 3rd highest number of forms (2) was observed with the lemma “berapa”: <em>berapa, seberapa</em>.
 
-`ADV` occurs with 1 features: <tt><a href="id_pud-feat-PronType.html">PronType</a></tt> (64; 9% instances)
+`ADV` occurs with 2 features: <tt><a href="id_pud-feat-PronType.html">PronType</a></tt> (64; 9% instances), <tt><a href="id_pud-feat-ExtPos.html">ExtPos</a></tt> (28; 4% instances)
 
-`ADV` occurs with 4 feature-value pairs: `PronType=Ind`, `PronType=Int`, `PronType=Rel`, `PronType=Tot`
+`ADV` occurs with 5 feature-value pairs: `ExtPos=ADV`, `PronType=Ind`, `PronType=Int`, `PronType=Rel`, `PronType=Tot`
 
-`ADV` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (614 tokens).
-Examples: <em>lebih, juga, sangat, Namun, hanya, saja, sekitar, tetap, kemudian, paling</em>
+`ADV` occurs with 7 feature combinations.
+The most frequent feature combination is `_` (587 tokens).
+Examples: <em>juga, lebih, sangat, Namun, hanya, saja, sekitar, tetap, kemudian, paling</em>
 
 
 ## Relations

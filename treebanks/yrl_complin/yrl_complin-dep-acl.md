@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="yrl_complin-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-15 nodes (0%) are attached to their parents as `acl`.
+16 nodes (0%) are attached to their parents as `acl`.
 
-15 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.
+16 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.0625.
 
-The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (8; 53% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (2; 13% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (2; 13% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 7% instances).
+The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (8; 50% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (2; 13% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (2; 13% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -59,7 +59,7 @@ The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 acl	color:blue
-1	Yandé	yandé	PRON	PRON	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	SpaceAfter=No|TokenRange=0:5
+1	Yandé	yandé	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	SpaceAfter=No|TokenRange=0:5
 2	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=5:6
 3	Kuse-itá	kuse-itá	PROPN	PROPN	_	1	nmod	_	SpaceAfter=No|TokenRange=7:15
 4	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=15:16

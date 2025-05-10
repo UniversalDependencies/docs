@@ -38,7 +38,7 @@ The following 1 pairs of parts of speech are connected with `compound:prt`: <tt>
 14	ас	ас	PRON	Pron	PronType=Prs|Reflex=Yes	11	appos	_	GTtags=Pron,Refl,Cmpl
 15	кежас	кежӧ	ADP	Adp	AdpType=Post|Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	14	case	_	GTtags=Po,Sg,Ill,PxSg3|SpaceAfter=No
 16	,	,	PUNCT	CLB	_	14	punct	_	_
-17	сэсся	сэсся	ADV	Adv	_	19	advmod:tmod	_	_
+17	сэсся	сэсся	ADV	Adv	AdvType=Tim	19	advmod	_	_
 18	ыш	ыш	INTJ	Interj	_	19	compound:prt	_	_
 19	ловзисис	ловзисьны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 20	.	.	PUNCT	CLB	_	2	punct	_	_

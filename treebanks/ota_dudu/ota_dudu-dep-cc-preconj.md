@@ -8,41 +8,44 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ota_dudu-dep-cc.html">cc</a></tt>.
 
-2 nodes (0%) are attached to their parents as `cc:preconj`.
+18 nodes (0%) are attached to their parents as `cc:preconj`.
 
-2 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.
+18 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.11111111111111.
 
-The following 1 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (2; 100% instances).
+The following 2 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (10; 56% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (8; 44% instances).
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 13 cc:preconj	color:blue
-1	hele	hele	CCONJ	_	_	7	cc	_	_
-2	bir	bir	ADJ	_	_	3	amod	_	_
-3	kere	kere	NOUN	_	Case=Nom|Number=Sing|Person=3	4	amod	_	_
-4	raġbet	raġbet	NOUN	_	Case=Nom|Number=Sing|Person=3	7	nsubj	_	_
-5	o	o	DET	_	Definite=Def|PronType=Art	6	det	_	_
-6	cihete	cihet	NOUN	_	Case=Dat|Number=Sing|Person=3	7	obl	_	_
-7	dönsün	dön	VERB	_	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	advcl	_	_
-8	az	az	ADJ	_	_	9	amod	_	_
-9	vaḳtte	vaḳt	NOUN	_	Case=Loc|Number=Sing|Person=3	15	obl	_	_
-10	ne	ne	CCONJ	Ques	_	11	cc:preconj	_	_
-11	şâʿirler	şâʿir	NOUN	_	Case=Nom|Number=Plur|Person=3	15	nsubj	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	11	punct	_	_
-13	ne	ne	CCONJ	Ques	_	14	cc:preconj	_	_
-14	kâtipler	kâtip	NOUN	_	Case=Nom|Number=Plur|Person=3	11	conj	_	_
-15	yetişir	yetiş	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	20	parataxis	_	_
-16	ki	ki	SCONJ	_	_	15	mark	_	SpaceAfter=No
-17	,	,	PUNCT	_	_	15	punct	_	_
-18	ʿaḳllara	ʿaḳl	NOUN	_	Case=Dat|Number=Plur|Person=3	20	obl	_	_
-19	ḥayret	ḥayret	NOUN	_	Case=Nom|Number=Sing|Person=3	20	compound	_	_
-20	verir	ver	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	20	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 cc:preconj	color:blue
+1	ne	ne	CCONJ	Ques	_	2	cc:preconj	_	_
+2	ḥüsn	ḥüsn	NOUN	_	Case=Nom|Number=Sing|Person=3	7	obl	_	_
+3	ü	ve	CCONJ	_	_	4	cc	_	_
+4	cemâle	cemâl	NOUN	_	Case=Dat|Number=Sing|Person=3	2	conj	_	_
+5	ne	ne	CCONJ	_	_	6	cc:preconj	_	_
+6	tecemmülâta	tecemmül	NOUN	_	Case=Dat|Number=Plur|Person=3	2	conj	_	_
+7	baḳılur	baḳ	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 cc:preconj	color:blue
+1	ne	ne	CCONJ	Ques	_	3	cc:preconj	_	_
+2	sancaḳ	sancaḳ	NOUN	_	Case=Nom|Number=Sing|Person=3	3	obj	_	_
+3	açıldı	aç	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	ve	ve	CCONJ	_	_	7	cc	_	_
+5	ne	ne	CCONJ	Ques	_	7	cc:preconj	_	_
+6	nevbet	nevbet	NOUN	_	Case=Nom|Number=Sing|Person=3	7	obj	_	_
+7	dögüldi	dög	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	3	conj	_	_
 
 ~~~
 

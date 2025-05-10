@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (7; 100% of non-empty `Foreign`): <em>cenith, Sabaoth, Alfa, El, Omega, Seraphin</em>
-* `EMPTY` (10105): <em>Dei, Deus, natura, terra, parte, mundi, genus, ratio, Deo, iure</em>
+* `EMPTY` (10138): <em>Dei, Deus, natura, terra, parte, mundi, genus, re, ratio, Deo</em>
 
 ## Relations with Agreement in `Foreign`
 

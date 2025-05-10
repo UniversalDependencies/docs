@@ -77,7 +77,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 1584 <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> tokens (84% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="fr_fqb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1343; 85%), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (833; 53%), <tt><a href="fr_fqb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (833; 53%), <tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (794; 50%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="fr_fqb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1343; 85%), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (832; 53%), <tt><a href="fr_fqb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (832; 53%), <tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (795; 50%).
 
 `VERB` tokens may have the following values of `Number`:
 

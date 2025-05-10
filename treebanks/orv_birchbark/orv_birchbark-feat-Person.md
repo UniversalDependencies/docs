@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-2640 tokens (10%) have a non-empty value of `Person`.
+2639 tokens (10%) have a non-empty value of `Person`.
 1382 types (12%) occur at least once with a non-empty value of `Person`.
-423 lemmas (9%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1456; 5% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (850; 3% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (334; 1% instances).
+422 lemmas (9%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1456; 5% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (849; 3% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (334; 1% instances).
 
 ### `VERB`
 
@@ -40,13 +40,13 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-850 <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> tokens (67% of all `PRON` tokens) have a non-empty value of `Person`.
+849 <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> tokens (67% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (849; 100%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (843; 99%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (728; 86%), <tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (643; 76%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (848; 100%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (842; 99%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (727; 86%), <tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (642; 76%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (486; 57% of non-empty `Person`): <em>ми, ѧ, мене, мнѣ, ѧзъ, мѧ, ѧзо, намъ, мною, насъ</em>
+* `1` (485; 57% of non-empty `Person`): <em>ми, ѧ, мене, мнѣ, ѧзъ, мѧ, ѧзо, намъ, мною, насъ</em>
 * `2` (354; 42% of non-empty `Person`): <em>тꙑ, ти, тобѣ, тѧ, тебе, тобе, вꙑ, тоби, тобою, вамъ</em>
 * `3` (10; 1% of non-empty `Person`): <em>то, томъ, тебѣ, тобе, томо, ѥго</em>
 * `EMPTY` (415): <em>сѧ, что, цто, ѥго, его, собѣ, цето, емѹ, ю, него</em>

@@ -37,7 +37,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 13	свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	wf="свой"
 14	врагъ	врагъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	wf="врагъ"
 15	в(ъ)сѣѧлъ	всѣяти	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	3	conj	_	wf="въсѣялъ"
-16	объꙗденїe	объядение	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	appos	_	wf="объядение"|SpaceAfter=No
+16	объꙗденїе	объядение	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	appos	_	wf="объядение"|SpaceAfter=No
 17	.	.	PUNCT	_	_	3	punct	_	wf="."
 
 ~~~

@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 8 different values: `Cond`, `F`, `GenAttr`, `OvOms`, `Ozj`, `Poss`, `Voc`, `Wife`.
 
-61 tokens (1%) have a non-empty value of `Derivation`.
-57 types (3%) occur at least once with a non-empty value of `Derivation`.
-53 lemmas (4%) occur at least once with a non-empty value of `Derivation`.
-The feature is used with 5 part-of-speech tags: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (45; 1% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+59 tokens (1%) have a non-empty value of `Derivation`.
+56 types (3%) occur at least once with a non-empty value of `Derivation`.
+52 lemmas (4%) occur at least once with a non-empty value of `Derivation`.
+The feature is used with 5 part-of-speech tags: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (45; 1% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -48,16 +48,6 @@ The most frequent other feature values with which `NOUN` and `Derivation` co-occ
 * `Poss` (5; 56% of non-empty `Derivation`): <em>вальмялангоннесь, зрняннеть, июленнекс, кизоннекс, сияннеть</em>
 * `Voc` (4; 44% of non-empty `Derivation`): <em>бабай, Тядяй, атяй, кельгомняй</em>
 
-### `AUX`
-
-4 <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Derivation`.
-
-The most frequent other feature values with which `AUX` and `Derivation` co-occurred: <tt><a href="mdf_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3; 75%).
-
-`AUX` tokens may have the following values of `Derivation`:
-
-* `Cond` (4; 100% of non-empty `Derivation`): <em>ба, Улендяряль, савондяряй</em>
-
 ### `ADJ`
 
 2 <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Derivation`.
@@ -67,6 +57,16 @@ The most frequent other feature values with which `ADJ` and `Derivation` co-occu
 `ADJ` tokens may have the following values of `Derivation`:
 
 * `GenAttr` (2; 100% of non-empty `Derivation`): <em>озадонь, маластонь</em>
+
+### `AUX`
+
+2 <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Derivation`.
+
+The most frequent other feature values with which `AUX` and `Derivation` co-occurred: <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (2; 100%), <tt><a href="mdf_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (2; 100%).
+
+`AUX` tokens may have the following values of `Derivation`:
+
+* `Cond` (2; 100% of non-empty `Derivation`): <em>Улендяряль, савондяряй</em>
 
 ### `PROPN`
 

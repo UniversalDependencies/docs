@@ -24,11 +24,11 @@ The following 1 pairs of parts of speech are connected with `compound:lvc`: <tt>
 # visual-style 4	fgColor:white
 # visual-style 4 3 compound:lvc	color:blue
 1	Биз	биз	PRON	_	_	3	nsubj	_	_
-2	чечүүгѳ	чеч	VERB	_	_	3	xcomp	_	_
+2	чечүүгө	чеч	VERB	_	_	3	xcomp	_	_
 3	аракет	аракет	NOUN	_	_	4	compound:lvc	_	_
 4	кылып	кыл	VERB	_	_	6	acl	_	_
 5	жаткан	жат	AUX	_	_	4	aux	_	_
-6	кѳйгѳй	кѳйгѳй	NOUN	_	_	14	nsubj:outer	_	_
+6	көйгөй	көйгөй	NOUN	_	_	14	nsubj:outer	_	_
 7	–	–	PUNCT	_	_	6	punct	_	_
 8	китеп	китеп	NOUN	_	_	9	nmod:poss	_	_
 9	текчесинде	текче	NOUN	_	_	13	obl	_	_

@@ -11,9 +11,9 @@ This relation is universal.
 14201 nodes (5%) are attached to their parents as `amod`.
 
 13516 instances of `amod` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29195127103725.
+Average distance between parent and child is 1.29202168861348.
 
-The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (13737; 97% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (244; 2% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (94; 1% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt>-<tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (76; 1% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt>-<tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (36; 0% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt>-<tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="no_bokmaal-pos-X.html">X</a></tt>-<tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (13738; 97% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (243; 2% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (94; 1% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt>-<tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (76; 1% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt>-<tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (35; 0% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt>-<tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="no_bokmaal-pos-X.html">X</a></tt>-<tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 amod	color:blue
-1	Det	det	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+1	Det	den	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	ble	bli	VERB	verb	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 3	rene	ren	ADJ	adj	Degree=Pos|Number=Plur	4	amod	_	_
 4	ord	ord	NOUN	subst	Definite=Ind|Gender=Neut|Number=Plur	2	xcomp	_	SpaceAfter=No

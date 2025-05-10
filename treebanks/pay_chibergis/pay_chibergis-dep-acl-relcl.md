@@ -55,7 +55,7 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 7	tawa	wa	PRON	PRO	_	6	nmod	_	AlignBegin=36050|AlignEnd=36740|Gloss=POSS.PRO1|MGloss=POSS1- POSS.PRO1|MSeg=ta-wa|nWord=6|RX=[PRO]|TokenType=Root|Word=tawa|wordform=ta-wa
 8	ʃere	ʃere	VERB	VI	_	9	compound	_	AlignBegin=36740|AlignEnd=36855|Gloss=go.down|MGloss=go.down|MSeg=ʃere|nWord=7|RX=[VI]|TokenType=Root|Word=ʃerekaʃeleren
 9	kaʃaneri	ʃa	VERB	V:ANY	_	0	root	_	AlignBegin=36855|AlignEnd=37430|Gloss=see|MGloss=O3PL- see -DUR -S3PL -PST|MSeg=ka-ʃa-n-er-i|nWord=7|RX=[VT]|TokenType=Root|Word=ʃerekaʃeleren|wordform=ka-ʃa-n-er-i
-10	naerwa	na	VERB	V:ANY	_	9	advcl	_	AlignBegin=37430|AlignEnd=38120|Gloss=go|MGloss=go -S3PL -PFV|MSeg=na-er-wa|nWord=8|RX=[VI]|TokenType=Root|Word=neler|wordform=na-er-wa
+10	naerwa	na	VERB	V:ANY	_	9	obl:tmod	_	AlignBegin=37430|AlignEnd=38120|Gloss=go|MGloss=go -S3PL -PFV|MSeg=na-er-wa|nWord=8|RX=[VI]|TokenType=Root|Word=neler|wordform=na-er-wa
 11	=ma	=ma	SCONJ	PRT	_	10	mark	_	AlignBegin=38120|AlignEnd=38810|Gloss==when|MGloss==when|MSeg==ma|nWord=9|RX=[PRT]|TokenType=Clit|Word=ma
 
 ~~~

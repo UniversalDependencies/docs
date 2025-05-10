@@ -64,7 +64,7 @@ The following 10 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 3 nmod:poss	color:blue
 1	á	ká	ADP	_	_	2	case	_	AlignBegin=159367|AlignEnd=159689|Gloss=at|Scrap=Yes
-2	kóngə̂n	kon	VERB	_	VerbForm=Vnoun	0	root	_	AlignBegin=159689|AlignEnd=159796|Gloss=say.NMLZ
+2	kóngə̂n	kon	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	0	root	_	AlignBegin=159689|AlignEnd=159796|Gloss=say.NMLZ
 3	=wàːsə̀ŋ	=waːsəŋ	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	AlignBegin=159903|AlignEnd=160011|Gloss=3Plur.Gen
 4	&//	&//	PUNCT	_	_	2	punct	_	AlignBegin=160011|AlignEnd=160333|Gloss=PUNCT
 

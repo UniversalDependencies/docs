@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-13367 tokens (15%) have a non-empty value of `Mood`.
-2720 types (37%) occur at least once with a non-empty value of `Mood`.
-582 lemmas (20%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (10920; 12% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (2447; 3% instances).
+14093 tokens (14%) have a non-empty value of `Mood`.
+2937 types (32%) occur at least once with a non-empty value of `Mood`.
+645 lemmas (16%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (11513; 12% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (2580; 3% instances).
 
 ### `VERB`
 
-10920 <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> tokens (81% of all `VERB` tokens) have a non-empty value of `Mood`.
+11513 <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (10920; 100%), <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10920; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (7958; 73%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7201; 66%), <tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6581; 60%), <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5543; 51%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11513; 100%), <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11511; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (8455; 73%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7662; 67%), <tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6858; 60%), <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (5799; 50%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (764; 7% of non-empty `Mood`): <em>երթ, երթայք, տուր, տուք, կացէք, արարէք, եկայք, ասա, եկ, արի</em>
-* `Ind` (8065; 74% of non-empty `Mood`): <em>ասէ, ետ, ասեն, ասեմ, ասեին, եկն, ասաց, գայ, ասէր, ել</em>
-* `Sub` (2091; 19% of non-empty `Mood`): <em>եկեցէ, ունիցի, տացէ, ասիցէ, տեսանիցէք, լցցի, արարից, տեսցեն, գիտասջիք, կորուսցէ</em>
-* `EMPTY` (2535): <em>եկեալ, առեալ, ասել, մատուցեալ, գրեալ, ելեալ, առնել, մտանել, տալ, յարուցեալ</em>
+* `Imp` (772; 7% of non-empty `Mood`): <em>երթ, երթայք, տուր, տուք, կացէք, արարէք, եկայք, ասա, եկ, արի</em>
+* `Ind` (8595; 75% of non-empty `Mood`): <em>ասէ, ետ, ասեն, ասեմ, ասեին, եկն, ասաց, գայ, ասէր, ել</em>
+* `Sub` (2146; 19% of non-empty `Mood`): <em>եկեցէ, ունիցի, տացէ, ասիցէ, տեսանիցէք, լցցի, արարից, տեսցեն, գիտասջիք, կորուսցէ</em>
+* `EMPTY` (3101): <em>եկեալ, ասել, առեալ, մատուցեալ, գրեալ, ելեալ, առնել, մտանել, տալ, տեսեալ</em>
 
 <table>
   <tr><th>Paradigm <i>ասել</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -39,13 +39,14 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ասէ, ասիցէ</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>ասի</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>ասիցէ</em></td></tr>
-  <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ասեմք</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ասեմք, ասիցեմք</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>ասիմք</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>ասեիք</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ասէք</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>ասիցէք</em></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>ասեին, ասէին</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ասեն</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>ասին</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>ասիցեն, ասասցեն</em></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ասացի</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>ասացից</em></td></tr>
@@ -64,16 +65,16 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-2447 <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Mood`.
+2580 <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2447; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (2059; 84%), <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2035; 83%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1923; 79%), <tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1584; 65%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2580; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (2188; 85%), <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2153; 83%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2028; 79%), <tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1658; 64%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Imp` (35; 1% of non-empty `Mood`): <em>լերուք, եղերուք, լեր, լինիր, լինիք, եր</em>
-* `Ind` (1976; 81% of non-empty `Mood`): <em>է, էր, եղեւ, եին, են, եմ, ես, էք, եղեն, լինի</em>
-* `Sub` (436; 18% of non-empty `Mood`): <em>իցէ, եղիցի, իցեն, լինիցի, լիցի, եղիցին, իցեմ, լիցին, եղիջիք, իցես</em>
-* `EMPTY` (93): <em>լինել, լեալ, եղեալ, լիեալ, լինելոյ, լինելոց, եղելոյ, լեր, եղեալս, եղելոց</em>
+* `Imp` (36; 1% of non-empty `Mood`): <em>լերուք, եղերուք, լեր, լինիր, լինիք, եր</em>
+* `Ind` (2090; 81% of non-empty `Mood`): <em>է, էր, եղեւ, են, եին, եմ, ես, էք, լինի, եղեն</em>
+* `Sub` (454; 18% of non-empty `Mood`): <em>իցէ, եղիցի, իցեն, լիցի, լինիցի, եղիցին, իցեմ, լիցին, եղիջիք, իցես</em>
+* `EMPTY` (157): <em>լինել, լեալ, եղեալ, լինելոյ, լիեալ, լինելոց, եղելոյ, լեր, լինելով, լինիցի</em>
 
 <table>
   <tr><th>Paradigm <i>եմ</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -86,7 +87,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>էր, է</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>եր</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>Է, է̈</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>է, իցէ</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>է, իցէ</em></td><td></td><td><em>իցէ</em></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>իցէ</em></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>եաք</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>եմք</em></td><td></td><td></td></tr>
@@ -97,22 +98,22 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>իցէք</em></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>եին, էին</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Եին</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>են, էք, իցեն</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>իցեն</em></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>են, էք, իցեն</em></td><td></td><td><em>իցեն</em></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>իցեն, իցէ</em></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>իցէք</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (2434; 89%),
-<tt>VERB --[<tt><a href="xcl_caval-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (916; 50%),
-<tt>VERB --[<tt><a href="xcl_caval-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (160; 81%),
-<tt>VERB --[<tt><a href="xcl_caval-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (85; 58%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (2560; 89%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (933; 50%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (175; 79%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (88; 59%),
 <tt>AUX --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (25; 83%),
 <tt>VERB --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> AUX</tt> (14; 100%),
 <tt>AUX --[<tt><a href="xcl_caval-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (12; 92%),
-<tt>AUX --[<tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (11; 65%),
+<tt>AUX --[<tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (11; 61%),
 <tt>VERB --[<tt><a href="xcl_caval-dep-csubj-caus.html">csubj:caus</a></tt>]--> VERB</tt> (10; 83%),
-<tt>VERB --[<tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (9; 56%).
+<tt>VERB --[<tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (9; 53%).
 

@@ -11,9 +11,9 @@ This relation is universal.
 1276 nodes (2%) are attached to their parents as `cop`.
 
 1100 instances of `cop` (86%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.28683385579937.
+Average distance between parent and child is 1.28134796238245.
 
-The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (607; 48% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (549; 43% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (38; 3% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (26; 2% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (24; 2% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (13; 1% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (607; 48% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (549; 43% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (39; 3% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (26; 2% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (23; 2% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (13; 1% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -51,23 +51,26 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 cop	color:blue
-1	კარგი	კარგი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	Translit=kargi
-2	გამტარები	გამტარი	ADJ	Adj	Case=Nom|Number=Plur	0	root	_	Translit=gamtarebi
-3	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	2	cop	_	Translit=a
-4	ისეთი	ისეთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	5	det	_	Translit=isetʻi
-5	ლითონები	ლითონი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	2	nsubj	_	SpaceAfter=No|Translit=litʻonebi
-6	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
-7	როგორიცა	როგორი	SCONJ	Conj	_	5	acl	_	Translit=rogoricʻa
-8	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	7	cop	_	Translit=a
-9	სპილენძი	სპილენძი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	nsubj	_	Translit=spilenżi
-10	და	და	CCONJ	Conj	_	11	cc	_	Translit=da
-11	ალუმინი	ალუმინი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	conj	_	SpaceAfter=No|Translit=alumini
-12	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
+# visual-style 8 9 cop	color:blue
+1	ამბობენ	ამბობს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No|Translit=amboben
+2	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
+3	საინტერესო	საინტერესო	ADJ	Adj	Case=Erg|Number=Sing	1	ccomp	_	Translit=saintereso
+4	რამ	რა	PRON	Pron	Case=Erg|Number=Sing|PronType=Int	3	nsubj	_	Translit=ram
+5	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	3	cop	_	Translit=aris
+6	ო	თქო	PART	Part	Evident=Nfh	3	ccomp	_	Translit=o
+7	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
+8	სანამ	სანამ	SCONJ	Conj	_	1	ccomp	_	Translit=sanam
+9	ხარ	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	8	cop	_	Translit=xar
+10	სულ	სულ	ADV	Adv	AdvType=Man	1	advmod	_	Translit=sul
+11	შენ	შენ	PRON	Pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	1	obl	_	Translit=šen
+12	თან	თან	ADP	Post	AdpType=Post|Case=Dat	11	case	_	Translit=tʻan
+13	იქნება	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut	1	cop	_	Translit=ikʻneba
+14	ო	თქო	PART	Part	Evident=Nfh	1	ccomp	_	Translit=o
+15	.	.	PUNCT	F	PunctType=Peri	1	punct	_	Translit=.
 
 ~~~
 

@@ -39,7 +39,7 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 1	SHE	she	PRON	PERS-SG-NOM	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	dep	_	SpaceAfter=No
 2	:	:	PUNCT	Colon	_	1	punct	_	_
 3	Women	women	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-4	as	as	ADV	_	_	3	advmod	_	_
+4	as	as	ADV	_	ExtPos=ADV	3	advmod	_	_
 5	well	well	ADV	_	Degree=Pos	4	fixed	_	SpaceAfter=No
 6	?	?	PUNCT	QuestionMark	_	3	punct	_	SpacesAfter=\n\n
 

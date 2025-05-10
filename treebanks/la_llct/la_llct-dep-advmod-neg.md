@@ -90,7 +90,7 @@ The following 8 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 28	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	29	cc	_	_
 29	Ildebrandum	Ildeprandus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	_
 30	comitem	comes	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	29	appos	_	_
-31	simul	simul	ADV	d|d|-|-|-|-|-|-|-|-	_	33	case	_	_
+31	simul	simul	ADV	d|d|-|-|-|-|-|-|-|-	ExtPos=SCONJ	33	case	_	_
 32	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	31	fixed	_	_
 33	Ubaldo	Ubaldus	PROPN	Propn|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	5	nmod	_	_
 34	fidele	fidelis	ADJ	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	33	amod	_	_

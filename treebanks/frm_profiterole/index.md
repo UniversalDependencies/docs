@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Sophie Prévost, Eric Villemonte de la Clergerie, Mathilde Regnault, Loïc Grobol, Benoît Crabbé, Mathieu Dehouck, Alexei Lavrentiev.
 
 Repository: [UD_Middle_French-PROFITEROLE](https://github.com/UniversalDependencies/UD_Middle_French-PROFITEROLE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfrm_profiterole215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfrm_profiterole216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -90,25 +90,25 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 
 ## POS Tags
 
-[ADJ](frm_profiterole-pos-ADJ.html) – [ADP](frm_profiterole-pos-ADP.html) – [ADV](frm_profiterole-pos-ADV.html) – [AUX](frm_profiterole-pos-AUX.html) – [CCONJ](frm_profiterole-pos-CCONJ.html) – [DET](frm_profiterole-pos-DET.html) – [NOUN](frm_profiterole-pos-NOUN.html) – [NUM](frm_profiterole-pos-NUM.html) – [PRON](frm_profiterole-pos-PRON.html) – [PROPN](frm_profiterole-pos-PROPN.html) – [PUNCT](frm_profiterole-pos-PUNCT.html) – [SCONJ](frm_profiterole-pos-SCONJ.html) – [VERB](frm_profiterole-pos-VERB.html) – [X](frm_profiterole-pos-X.html)
+[ADJ](frm_profiterole-pos-ADJ.html) – [ADP](frm_profiterole-pos-ADP.html) – [ADV](frm_profiterole-pos-ADV.html) – [AUX](frm_profiterole-pos-AUX.html) – [CCONJ](frm_profiterole-pos-CCONJ.html) – [DET](frm_profiterole-pos-DET.html) – [INTJ](frm_profiterole-pos-INTJ.html) – [NOUN](frm_profiterole-pos-NOUN.html) – [NUM](frm_profiterole-pos-NUM.html) – [PRON](frm_profiterole-pos-PRON.html) – [PROPN](frm_profiterole-pos-PROPN.html) – [PUNCT](frm_profiterole-pos-PUNCT.html) – [SCONJ](frm_profiterole-pos-SCONJ.html) – [VERB](frm_profiterole-pos-VERB.html) – [X](frm_profiterole-pos-X.html)
 
 ## Features
 
-[Definite](frm_profiterole-feat-Definite.html) – [NumType](frm_profiterole-feat-NumType.html) – [Poss](frm_profiterole-feat-Poss.html) – [PronType](frm_profiterole-feat-PronType.html) – [Tense](frm_profiterole-feat-Tense.html) – [VerbForm](frm_profiterole-feat-VerbForm.html)
+[Abbr](frm_profiterole-feat-Abbr.html) – [Definite](frm_profiterole-feat-Definite.html) – [Foreign](frm_profiterole-feat-Foreign.html) – [NumType](frm_profiterole-feat-NumType.html) – [Poss](frm_profiterole-feat-Poss.html) – [PronType](frm_profiterole-feat-PronType.html) – [Tense](frm_profiterole-feat-Tense.html) – [Typo](frm_profiterole-feat-Typo.html) – [VerbForm](frm_profiterole-feat-VerbForm.html)
 
 ## Relations
 
-[acl](frm_profiterole-dep-acl.html) – [acl:relcl](frm_profiterole-dep-acl-relcl.html) – [advcl](frm_profiterole-dep-advcl.html) – [advmod](frm_profiterole-dep-advmod.html) – [amod](frm_profiterole-dep-amod.html) – [appos](frm_profiterole-dep-appos.html) – [aux](frm_profiterole-dep-aux.html) – [aux:pass](frm_profiterole-dep-aux-pass.html) – [case](frm_profiterole-dep-case.html) – [case:det](frm_profiterole-dep-case-det.html) – [cc](frm_profiterole-dep-cc.html) – [cc:nc](frm_profiterole-dep-cc-nc.html) – [ccomp](frm_profiterole-dep-ccomp.html) – [conj](frm_profiterole-dep-conj.html) – [cop](frm_profiterole-dep-cop.html) – [csubj](frm_profiterole-dep-csubj.html) – [dep](frm_profiterole-dep-dep.html) – [det](frm_profiterole-dep-det.html) – [discourse](frm_profiterole-dep-discourse.html) – [dislocated](frm_profiterole-dep-dislocated.html) – [expl](frm_profiterole-dep-expl.html) – [fixed](frm_profiterole-dep-fixed.html) – [flat](frm_profiterole-dep-flat.html) – [iobj](frm_profiterole-dep-iobj.html) – [mark](frm_profiterole-dep-mark.html) – [nmod](frm_profiterole-dep-nmod.html) – [nsubj](frm_profiterole-dep-nsubj.html) – [nummod](frm_profiterole-dep-nummod.html) – [obj](frm_profiterole-dep-obj.html) – [obl](frm_profiterole-dep-obl.html) – [obl:advmod](frm_profiterole-dep-obl-advmod.html) – [parataxis](frm_profiterole-dep-parataxis.html) – [punct](frm_profiterole-dep-punct.html) – [root](frm_profiterole-dep-root.html) – [vocative](frm_profiterole-dep-vocative.html) – [xcomp](frm_profiterole-dep-xcomp.html)
+[acl](frm_profiterole-dep-acl.html) – [acl:relcl](frm_profiterole-dep-acl-relcl.html) – [advcl](frm_profiterole-dep-advcl.html) – [advmod](frm_profiterole-dep-advmod.html) – [amod](frm_profiterole-dep-amod.html) – [appos](frm_profiterole-dep-appos.html) – [aux](frm_profiterole-dep-aux.html) – [aux:pass](frm_profiterole-dep-aux-pass.html) – [case](frm_profiterole-dep-case.html) – [case:det](frm_profiterole-dep-case-det.html) – [cc](frm_profiterole-dep-cc.html) – [cc:nc](frm_profiterole-dep-cc-nc.html) – [ccomp](frm_profiterole-dep-ccomp.html) – [conj](frm_profiterole-dep-conj.html) – [cop](frm_profiterole-dep-cop.html) – [csubj](frm_profiterole-dep-csubj.html) – [dep](frm_profiterole-dep-dep.html) – [det](frm_profiterole-dep-det.html) – [discourse](frm_profiterole-dep-discourse.html) – [dislocated](frm_profiterole-dep-dislocated.html) – [expl](frm_profiterole-dep-expl.html) – [fixed](frm_profiterole-dep-fixed.html) – [flat](frm_profiterole-dep-flat.html) – [iobj](frm_profiterole-dep-iobj.html) – [mark](frm_profiterole-dep-mark.html) – [nmod](frm_profiterole-dep-nmod.html) – [nsubj](frm_profiterole-dep-nsubj.html) – [nummod](frm_profiterole-dep-nummod.html) – [obj](frm_profiterole-dep-obj.html) – [obl](frm_profiterole-dep-obl.html) – [obl:advmod](frm_profiterole-dep-obl-advmod.html) – [orphan](frm_profiterole-dep-orphan.html) – [parataxis](frm_profiterole-dep-parataxis.html) – [punct](frm_profiterole-dep-punct.html) – [reparandum](frm_profiterole-dep-reparandum.html) – [root](frm_profiterole-dep-root.html) – [vocative](frm_profiterole-dep-vocative.html) – [xcomp](frm_profiterole-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 512 sentences and 12025 tokens.</li>
+<li>This corpus contains 3483 sentences and 68454 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1553 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 9228 tokens (13%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -116,7 +116,7 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 </ul>
 
 <ul>
-<li>This corpus contains 12 types of words that contain both letters and punctuation. Examples: d', l', qu', n', s', j', c', m', Saint-Michiel, Nostre-Dame, aujourd', entr'</li>
+<li>This corpus contains 40 types of words that contain both letters and punctuation. Examples: d', l', qu', s', n', c', j', m', Saint-Pol, Nostre-Dame, Chasteau-Gontier, aujourd', Saint-Denis, Saint-Denys, Saint-Jehan-Baptiste, Saint-Michiel, Baugency-sur-Loire, Chasteau-de-Vire, Chasteillon-sur-Louen, Coincy-, Faye-les-Vigneuses, Fontaines-les-Nonnains, Jehan-Baptiste, Marsigny-les-Nonnains, Monstereul-sur-la-mer, Nogent-le-Roy, Nogent-sur-Saine, Pons-sur-Yonne, Saint-Andryeu, Saint-Dominge, Saint-Germain-des-Prez, Saint-Magloire, Saint-Pierre, Saint-Sepulcre, Saint-Victor, Sainte-Genevieve, Sainte-Katherine, Sainte-Katherine-du-Val-des-Escoliers, entr', ç'</li>
 </ul>
 
 <ul>
@@ -127,31 +127,31 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: PART, INTJ, SYM</li>
+<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: PART, SYM</li>
 </ul>
 
 <ul>
 </ul>
 
 <ul>
-<li>This corpus contains 49 lemmas tagged as pronouns (PRON): aucun, autre, ce1, ceci, cela, chacun, cil, cinq, cinquante, deux, dont, elle1, eux, huit, il, je, le, ledit, lequel, leur1, li, lui, me, mille1, moi, neuf1, nous, nul, on, où, personne, peu, plusieurs, quatre, que, quel, qui1, quoi, rien, se1, soi, toi, tous, tout1, tout2, tu, un, vingt, vous</li>
+<li>This corpus contains 61 lemmas tagged as pronouns (PRON): aucun, autre, ce1, ceci, cela, chacun, cil, cinq, cist, deux, dire1, dix, dont, elle1, eux, il, je, le, ledit, lequel, leur1, li, lui, me, mien, mille1, moi, même, notre, nous, nul, on, où, personne, petit, peu, plusieurs, premier1, quarante, que, quel, quelquun, qui1, quoi, rien, se1, sien, six, soi, son4, tel, toi, tous, tout1, tout2, trois, tu, un, vingt, votre, vous</li>
 </ul>
 
 <ul>
-<li>This corpus contains 39 lemmas tagged as determiners (DET): aucun, autre, ce2, cent, chacun, cil, cinq, cinquante, cist, de, deux, dix, huit, le, ledit, lequel, leur2, mille1, mon1, neuf2, notre, nul, plusieurs, quatorze, quatre, quel, quelque, quinze, six, son4, sondit, tel, tous, tout2, trente, trois, un, vingt, votre</li>
+<li>This corpus contains 38 lemmas tagged as determiners (DET): aucun, autre, ce2, cent, certain, chacun, cil, cinq, cinquante, cist, de, deux, divers, huit, le, ledit, lequel, leur2, maint, mille1, mon1, mondit, notre, nul, plusieurs, quarante, quatre, quel, quelque, sept, son4, sondit, tel, tous, tout2, trois, un, votre</li>
 </ul>
 
 <ul>
-<li>Out of the above, 20 lemmas occurred sometimes as PRON and sometimes as DET: aucun, autre, chacun, cil, cinq, cinquante, deux, huit, le, ledit, lequel, mille1, nul, plusieurs, quatre, quel, tous, tout2, un, vingt</li>
+<li>Out of the above, 23 lemmas occurred sometimes as PRON and sometimes as DET: aucun, autre, chacun, cil, cinq, cist, deux, le, ledit, lequel, mille1, notre, nul, plusieurs, quarante, quel, son4, tel, tous, tout2, trois, un, votre</li>
 </ul>
 
 <ul>
-<li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): avoir, devoir, falloir, pouvoir, ravoir, vouloir, être</li>
+<li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): avoir, devoir, falloir, pouvoir, ravoir, rêtre, vouloir, être</li>
 </ul>
 
 <ul>
-<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: falloir, pouvoir, vouloir</li>
+<li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: avoir, devoir, falloir, pouvoir, rêtre, vouloir, être</li>
 </ul>
 
 <ul>
@@ -161,8 +161,8 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: avoit, estoit, fut, est, avoient, ay, furent, fu, estoient, eust</li>
-    <li>VERB: avoit, estoit, fit, firent, dit, vint, est, vindrent, estoient, fut</li>
+    <li>AUX: estoit, avoit, fut, est, estoient, furent, ay, a, avoient, eust</li>
+    <li>VERB: dit, avoit, estoit, vint, estoient, est, fist, fit, vindrent, a</li>
   </ul>
   </li>
 </ul>
@@ -170,8 +170,8 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: estre, avoir, pouvoir, povoir</li>
-    <li>VERB: faire, avoir, dire, mectre, parler, prendre, veoir, aller, venir, lever</li>
+    <li>AUX: estre, avoir, povoir, pouvoir, vouloir</li>
+    <li>VERB: faire, dire, veoir, parler, venir, avoir, passer, aller, prendre, tenir</li>
   </ul>
   </li>
 </ul>
@@ -179,8 +179,8 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 <ul>
   <li>Part
   <ul>
-    <li>AUX: esté, faillu, peu</li>
-    <li>VERB: dit, fait, dicte, esté, eu, dictes, faicte, appellé, disant, faict</li>
+    <li>AUX: esté, peu, estez, voulu, Estant</li>
+    <li>VERB: dit, fait, dicte, diz, esté, veu, dictes, disant, appellé, dite</li>
   </ul>
   </li>
 </ul>
@@ -200,8 +200,8 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 <ul>
   <li>Com
     <ul>
-      <li>DET: ledict, ladicte, ledit, lesdictes, sondict, lesdictz, lesdits</li>
-      <li>PRON: lesdictz</li>
+      <li>DET: ledict, ledit, ladicte, lesdictz, mondict, lesdicts, lesdictes, mondit, sondict, lesdits</li>
+      <li>PRON: Ledict, les, lesdictz</li>
     </ul>
   </li>
 </ul>
@@ -209,7 +209,7 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 <ul>
   <li>Def
     <ul>
-      <li>DET: le, la, les, l', lesquelz</li>
+      <li>DET: le, la, les, l', lesquelles, lesquelz</li>
     </ul>
   </li>
 </ul>
@@ -217,7 +217,7 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 <ul>
   <li>Ind
     <ul>
-      <li>DET: ung, une, un</li>
+      <li>DET: ung, une, un, des, unes</li>
     </ul>
   </li>
 </ul>
@@ -240,8 +240,8 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Part: esté, faillu, peu</li>
-      <li>VERB-Part: dit, fait, dicte, esté, eu, dictes, faicte, appellé, faict, mis</li>
+      <li>AUX-Part: esté, peu, estez, voulu</li>
+      <li>VERB-Part: dit, fait, dicte, diz, esté, veu, dictes, appellé, dite, faict</li>
     </ul>
   </li>
 </ul>
@@ -249,7 +249,8 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 <ul>
   <li>Pres
     <ul>
-      <li>VERB-Part: disant, voyant, donnant, estant, pendant, touchant, trouvant, aidans, complaignant, confortans</li>
+      <li>AUX-Part: Estant</li>
+      <li>VERB-Part: disant, ensuyvant, voyant, pendant, estant, donnant, ayant, congnoissant, parlant, chevauchant</li>
     </ul>
   </li>
 </ul>
@@ -266,7 +267,7 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 <ul>
   <li>Art
     <ul>
-      <li>DET: le, la, les, l', ung, une, un, lesquelz</li>
+      <li>DET: le, la, les, l', ung, une, un, des, lesquelles, lesquelz</li>
     </ul>
   </li>
 </ul>
@@ -274,8 +275,8 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 <ul>
   <li>Dem
     <ul>
-      <li>DET: ceste, ce, ces, celle, cette, celi, celuy, cestuy, celui, cest</li>
-      <li>PRON: ce, ceulx, c', cecy, ceuls, cela, ceulz, celle, celles, icelluy</li>
+      <li>DET: ce, ceste, ces, celle, cest, celui, ycelui, celuy, celi, cestuy</li>
+      <li>PRON: ce, ceulx, c', celuy, cecy, cela, ceuls, celle, cestuy, ceulz</li>
     </ul>
   </li>
 </ul>
@@ -283,9 +284,19 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: autres, telle, aulcune, aultres, autre, mesmes, quelque, tel</li>
-      <li>DET: tous, tout, toutes, autres, pluseurs, quelque, plusieurs, telle, nul, aultre</li>
-      <li>PRON: on, autres, riens, aultres, autre, en, tout, tous, ung, une</li>
+      <li>ADJ: aultres, autres, telle, mesmes, autre, aultre, tel, telz, meismes, mesme</li>
+      <li>DET: tous, toutes, tout, autres, plusieurs, toute, pluseurs, quelque, nul, nulle</li>
+      <li>PRON: on, autres, tous, chascun, riens, autre, en, aultres, tout, ung</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int
+    <ul>
+      <li>ADV: comment, combien, Pourquoi, que</li>
+      <li>DET: quel, quelz, quelle</li>
+      <li>PRON: que, qui, qu', ou, quoy</li>
     </ul>
   </li>
 </ul>
@@ -293,7 +304,7 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: ne, n', pas, point, non</li>
+      <li>ADV: ne, n', pas, point, non, nenny, nem, poinct</li>
     </ul>
   </li>
 </ul>
@@ -301,7 +312,7 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: il, vous, luy, ilz, se, je, le, s', leur, les</li>
+      <li>PRON: il, luy, vous, ilz, se, je, nous, s', le, les</li>
     </ul>
   </li>
 </ul>
@@ -309,8 +320,8 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 <ul>
   <li>Rel
     <ul>
-      <li>DET: laquelle, lequel, lesquelles, quel, quelle</li>
-      <li>PRON: qui, que, qu', dont, quoy, lequel, où, ou, laquelle, lesquelz</li>
+      <li>DET: lequel, laquelle, lesquelles, quel, quelle, quelz, lesquiex, quelles, lesquelz</li>
+      <li>PRON: qui, que, qu', dont, où, lequel, quoy, ou, laquelle, lesquelz</li>
     </ul>
   </li>
 </ul>
@@ -322,10 +333,10 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 <ul>
   <li>Card
     <ul>
-      <li>ADJ: mil, CCC, quatre, LX, LXIIII, II, LXI, LXIV, LXV, LXVI</li>
-      <li>DET: quatre, cinq, deux, huit, mille, cens, six, trois, dix, quinze</li>
-      <li>NUM: X, deux</li>
-      <li>PRON: cinquante, cinq, deux, huict, mille, neuf, quatre, vingt</li>
+      <li>ADJ: deux, mil, cens</li>
+      <li>DET: un, cens, cinq, deux, quatre, trois, VIII, c, cinquante, huyct</li>
+      <li>NUM: deux, cens, cinq, quatre, trois, mil, CCC, mille, six, cent</li>
+      <li>PRON: deux, trois, vingt, 1, 2, V, cinq, dix, mille, quarante</li>
     </ul>
   </li>
 </ul>
@@ -333,7 +344,8 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: VIIIe, Ve, Viiè, XIIe, XIXe, cinquiesme, premier, unziesme</li>
+      <li>ADJ: premier, IXe, Ve, premiere, septiesme, tiers, IIIIe, Quint, VIIIe, VIIe</li>
+      <li>PRON: premier, premiers, premiere</li>
     </ul>
   </li>
 </ul>
@@ -345,8 +357,9 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 <ul>
   <li>Yes
     <ul>
-      <li>ADJ: mienne</li>
-      <li>DET: son, sa, ses, leur, vostre, mon, leurs, nostre, voz, mes</li>
+      <li>ADJ: sien, mienne, sienne</li>
+      <li>DET: son, ses, sa, nostre, leur, mon, leurs, vostre, ma, mes</li>
+      <li>PRON: sien, nostres, siens, vostre, mien, nostre, miens, myen, sienne, vostres</li>
     </ul>
   </li>
 </ul>
@@ -359,6 +372,42 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 <h3>Other Features</h3>
 
 
+<ul>
+  <li><a>Abbr</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: mons</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: Amen</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: veilleusement</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -368,8 +417,8 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 </ul>
 
 <ul>
-<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, être, pouvoir, devoir, falloir, ravoir.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être.</li>
+<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, être, pouvoir, devoir, vouloir, rêtre, ravoir.</li>
+<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être, avoir.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -380,14 +429,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (2)</li>
       <li>VERB--PRON (1)</li>
-      <li>VERB-Fin--NOUN (179)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (1)</li>
+      <li>VERB-Fin--NOUN (1122)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (6)</li>
+      <li>VERB-Fin--NOUN-ADP(environ) (1)</li>
       <li>VERB-Fin--NOUN-ADP(jusque) (1)</li>
-      <li>VERB-Fin--PRON (245)</li>
-      <li>VERB-Inf--NOUN (9)</li>
-      <li>VERB-Inf--PRON (21)</li>
-      <li>VERB-Part--NOUN (81)</li>
-      <li>VERB-Part--PRON (121)</li>
+      <li>VERB-Fin--PRON (1918)</li>
+      <li>VERB-Fin--PRON-ADP(de) (1)</li>
+      <li>VERB-Inf--NOUN (43)</li>
+      <li>VERB-Inf--PRON (118)</li>
+      <li>VERB-Part--NOUN (385)</li>
+      <li>VERB-Part--NOUN-ADP(de) (1)</li>
+      <li>VERB-Part--PRON (652)</li>
     </ul>
   </li>
 </ul>
@@ -396,15 +448,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (1)</li>
-      <li>VERB-Fin--NOUN (173)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (1)</li>
-      <li>VERB-Fin--PRON (95)</li>
-      <li>VERB-Inf--NOUN (97)</li>
-      <li>VERB-Inf--NOUN-ADP(de) (2)</li>
-      <li>VERB-Inf--PRON (57)</li>
-      <li>VERB-Part--NOUN (45)</li>
-      <li>VERB-Part--NOUN-ADP(de) (1)</li>
-      <li>VERB-Part--PRON (53)</li>
+      <li>VERB-Fin--NOUN (896)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (45)</li>
+      <li>VERB-Fin--NOUN-ADP(en1) (1)</li>
+      <li>VERB-Fin--PRON (600)</li>
+      <li>VERB-Fin--PRON-ADP(de) (2)</li>
+      <li>VERB-Inf--NOUN (442)</li>
+      <li>VERB-Inf--NOUN-ADP(de) (13)</li>
+      <li>VERB-Inf--NOUN-ADP(vis1) (1)</li>
+      <li>VERB-Inf--PRON (257)</li>
+      <li>VERB-Part--NOUN (228)</li>
+      <li>VERB-Part--NOUN-ADP(de) (10)</li>
+      <li>VERB-Part--PRON (215)</li>
     </ul>
   </li>
 </ul>
@@ -413,10 +468,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB--PRON-ADP(à) (1)</li>
-      <li>VERB-Fin--PRON (63)</li>
-      <li>VERB-Inf--PRON (12)</li>
+      <li>VERB-Fin--PRON (411)</li>
+      <li>VERB-Fin--PRON-ADP(chez) (1)</li>
+      <li>VERB-Fin--PRON-ADP(de) (1)</li>
+      <li>VERB-Fin--PRON-ADP(à) (1)</li>
+      <li>VERB-Inf--PRON (86)</li>
       <li>VERB-Inf--PRON-ADP(à) (1)</li>
-      <li>VERB-Part--PRON (35)</li>
+      <li>VERB-Part--PRON (127)</li>
     </ul>
   </li>
 </ul>
@@ -428,5 +486,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>case:det</a>, <a>cc:nc</a>, <a>obl:advmod</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

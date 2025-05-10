@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 3	ham	ham	ADV	_	_	6	advmod	_	_
 4	maqola	maqola	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
 5	yozishga	yoz	VERB	_	Case=Dat|VerbForm=Vnoun	6	xcomp	_	_
-6	yo‘qman	yo‘q	VERB	_	Number=Sing|Person=1|Polarity=Neg	0	root	_	SpaceAfter=No
+6	yoʻqman	yoʻq	VERB	_	Number=Sing|Person=1|Polarity=Neg	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
 8	birodar	birodar	NOUN	_	Case=Nom|Number=Sing	6	vocative	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	_
@@ -63,7 +63,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 3	aytsam	ayt	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Fut	9	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	mulla	mulla	NOUN	_	Case=Nom|Number=Sing	9	vocative	_	_
-6	Norqo‘zi	Norqo‘zi	PROPN	_	Case=Nom|Number=Sing	5	flat	_	SpaceAfter=No
+6	Norqoʻzi	Norqoʻzi	PROPN	_	Case=Nom|Number=Sing	5	flat	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	gap	gap	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
 9	paranjida	paranji	NOUN	_	Case=Loc|Number=Sing	0	root	_	_

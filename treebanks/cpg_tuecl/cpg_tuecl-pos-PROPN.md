@@ -37,7 +37,7 @@ The 3rd highest number of forms (1) was observed with the lemma “Γενιτζ�
 `PROPN` occurs with 7 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Voc`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Sing`
 
 `PROPN` occurs with 7 feature combinations.
-The most frequent feature combination is `Case=Acc|Gender=Fem|Number=Sing` (1 tokens).
+The most frequent feature combination is `Case=Gen|Gender=Fem|Number=Sing` (1 tokens).
 Examples: <em>Καβάρη</em>
 
 

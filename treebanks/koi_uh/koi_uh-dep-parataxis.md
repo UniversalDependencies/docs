@@ -45,7 +45,7 @@ The following 2 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 2 8 parataxis	color:blue
 1	—	—	PUNCT	_	_	2	punct	_	_
 2	Кытшӧм	кытшӧм	PRON	_	PronType=Int	0	root	_	_
-3	талун	талун	ADV	_	_	2	advmod:tmod	_	_
+3	талун	талун	ADV	Adv	AdvType=Tim	2	advmod	_	_
 4	луныс	лун	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	nsubj:cop	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	2	punct	_	_
 6	—	—	PUNCT	_	_	8	punct	_	_

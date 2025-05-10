@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-84773 tokens (50%) have a non-empty value of `Number`.
+84777 tokens (50%) have a non-empty value of `Number`.
 14450 types (76%) occur at least once with a non-empty value of `Number`.
 8122 lemmas (63%) occur at least once with a non-empty value of `Number`.
-The feature is used with 6 part-of-speech tags: <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (31276; 19% instances), <tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (24200; 14% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> (12992; 8% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (8462; 5% instances), <tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (4308; 3% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (3535; 2% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (31276; 19% instances), <tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (24207; 14% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> (12992; 8% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (8462; 5% instances), <tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (4308; 3% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (3532; 2% instances).
 
 ### `NOUN`
 
@@ -31,18 +31,19 @@ The feature is used with 6 part-of-speech tags: <tt><a href="pt_porttinari-pos-N
 
 ### `DET`
 
-24200 <tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+24207 <tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pt_porttinari-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (21173; 87%), <tt><a href="pt_porttinari-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (18892; 78%), <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (12915; 53%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pt_porttinari-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (21177; 87%), <tt><a href="pt_porttinari-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (18892; 78%), <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (12915; 53%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (4428; 18% of non-empty `Number`): <em>os, as, seus, suas, outros, todos, essas, esses, outras, alguns</em>
-* `Sing` (19772; 82% of non-empty `Number`): <em>o, a, um, uma, sua, seu, esse, essa, este, esta</em>
+* `Sing` (19779; 82% of non-empty `Number`): <em>o, a, um, uma, sua, seu, esse, essa, este, esta</em>
 * `EMPTY` (118): <em>mais, que, menos</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="pt_porttinari-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>o</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>o</em></td><td><em>os</em></td></tr>
   <tr><td><tt><tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>a</em></td><td><em>as</em></td></tr>
 </table>
@@ -133,14 +134,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `PRON`
 
-3535 <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> tokens (55% of all `PRON` tokens) have a non-empty value of `Number`.
+3532 <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> tokens (55% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2131; 60%), <tt><a href="pt_porttinari-feat-Person.html">Person</a></tt><tt>=3</tt> (1871; 53%), <tt><a href="pt_porttinari-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1780; 50%), <tt><a href="pt_porttinari-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1773; 50%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2131; 60%), <tt><a href="pt_porttinari-feat-Person.html">Person</a></tt><tt>=3</tt> (1871; 53%), <tt><a href="pt_porttinari-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1780; 50%), <tt><a href="pt_porttinari-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1770; 50%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (752; 21% of non-empty `Number`): <em>eles, os, nos, elas, nós, as, todos, outros, muitos, alguns</em>
-* `Sing` (2783; 79% of non-empty `Number`): <em>o, ele, isso, ela, eu, a, me, você, nada, algo</em>
+* `Sing` (2780; 79% of non-empty `Number`): <em>o, ele, isso, ela, eu, a, me, você, nada, algo</em>
 * `EMPTY` (2880): <em>que, se, quem, tudo, quê, Muito</em>
 
 <table>
@@ -153,10 +154,10 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="pt_porttinari-dep-det.html">det</a></tt>]--> DET</tt> (20227; 99%),
-<tt>NOUN --[<tt><a href="pt_porttinari-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6113; 99%),
+<tt>NOUN --[<tt><a href="pt_porttinari-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6116; 99%),
 <tt>NOUN --[<tt><a href="pt_porttinari-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4792; 61%),
 <tt>VERB --[<tt><a href="pt_porttinari-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3464; 92%),
-<tt>VERB --[<tt><a href="pt_porttinari-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3254; 53%),
+<tt>VERB --[<tt><a href="pt_porttinari-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3259; 53%),
 <tt>NOUN --[<tt><a href="pt_porttinari-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1258; 81%),
 <tt>NOUN --[<tt><a href="pt_porttinari-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1059; 85%),
 <tt>NOUN --[<tt><a href="pt_porttinari-dep-cop.html">cop</a></tt>]--> AUX</tt> (1033; 81%),

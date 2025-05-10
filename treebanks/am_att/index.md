@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Binyam Ephrem, Gashaw Arutie, Tsegay Woldemariam, Juan Ignacio Navarro Horñiacek.
 
 Repository: [UD_Amharic-ATT](https://github.com/UniversalDependencies/UD_Amharic-ATT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udam_att215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udam_att216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -73,7 +73,7 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 
 ## Relations
 
-[acl](am_att-dep-acl.html) – [advcl](am_att-dep-advcl.html) – [advmod](am_att-dep-advmod.html) – [amod](am_att-dep-amod.html) – [aux](am_att-dep-aux.html) – [case](am_att-dep-case.html) – [cc](am_att-dep-cc.html) – [ccomp](am_att-dep-ccomp.html) – [clf](am_att-dep-clf.html) – [compound](am_att-dep-compound.html) – [compound:svc](am_att-dep-compound-svc.html) – [conj](am_att-dep-conj.html) – [cop](am_att-dep-cop.html) – [csubj](am_att-dep-csubj.html) – [csubj:pass](am_att-dep-csubj-pass.html) – [dep](am_att-dep-dep.html) – [det](am_att-dep-det.html) – [discourse](am_att-dep-discourse.html) – [expl](am_att-dep-expl.html) – [fixed](am_att-dep-fixed.html) – [flat](am_att-dep-flat.html) – [goeswith](am_att-dep-goeswith.html) – [iobj](am_att-dep-iobj.html) – [mark](am_att-dep-mark.html) – [nmod](am_att-dep-nmod.html) – [nsubj](am_att-dep-nsubj.html) – [nsubj:pass](am_att-dep-nsubj-pass.html) – [nummod](am_att-dep-nummod.html) – [obj](am_att-dep-obj.html) – [obl](am_att-dep-obl.html) – [parataxis](am_att-dep-parataxis.html) – [punct](am_att-dep-punct.html) – [root](am_att-dep-root.html) – [xcomp](am_att-dep-xcomp.html)
+[acl](am_att-dep-acl.html) – [advcl](am_att-dep-advcl.html) – [advmod](am_att-dep-advmod.html) – [amod](am_att-dep-amod.html) – [aux](am_att-dep-aux.html) – [case](am_att-dep-case.html) – [cc](am_att-dep-cc.html) – [ccomp](am_att-dep-ccomp.html) – [compound](am_att-dep-compound.html) – [compound:svc](am_att-dep-compound-svc.html) – [conj](am_att-dep-conj.html) – [cop](am_att-dep-cop.html) – [csubj](am_att-dep-csubj.html) – [csubj:pass](am_att-dep-csubj-pass.html) – [dep](am_att-dep-dep.html) – [det](am_att-dep-det.html) – [discourse](am_att-dep-discourse.html) – [expl](am_att-dep-expl.html) – [fixed](am_att-dep-fixed.html) – [flat](am_att-dep-flat.html) – [goeswith](am_att-dep-goeswith.html) – [iobj](am_att-dep-iobj.html) – [mark](am_att-dep-mark.html) – [nmod](am_att-dep-nmod.html) – [nsubj](am_att-dep-nsubj.html) – [nsubj:pass](am_att-dep-nsubj-pass.html) – [nummod](am_att-dep-nummod.html) – [obj](am_att-dep-obj.html) – [obl](am_att-dep-obl.html) – [parataxis](am_att-dep-parataxis.html) – [punct](am_att-dep-punct.html) – [root](am_att-dep-root.html) – [xcomp](am_att-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -519,5 +519,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 3 relation subtypes: <a>compound:svc</a>, <a>csubj:pass</a>, <a>nsubj:pass</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>appos</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>appos</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a></li>
 </ul>

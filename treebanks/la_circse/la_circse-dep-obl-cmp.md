@@ -9,27 +9,31 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_circse-dep-obl.html">obl</a></tt>.
 There are also 4 other language-specific subtypes of `obl`: <tt><a href="la_circse-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="la_circse-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="la_circse-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="la_circse-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-14 nodes (0%) are attached to their parents as `obl:cmp`.
+24 nodes (0%) are attached to their parents as `obl:cmp`.
 
-9 instances of `obl:cmp` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.78571428571429.
+12 instances of `obl:cmp` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.16666666666667.
 
-The following 5 pairs of parts of speech are connected with `obl:cmp`: <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (10; 71% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 7% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 7% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 7% instances).
+The following 6 pairs of parts of speech are connected with `obl:cmp`: <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (15; 63% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (3; 13% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (2; 8% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 1 obl:cmp	color:blue
-1	sceptro	sceptrum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	6	obl:cmp	_	LiLaflcat=n2
-2	ne	ne	PART	O	PartType=Int	6	discourse	_	LASLAVariant=2|LiLaflcat=i
-3	nostro	noster	DET	F	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	1	det	_	LiLaflcat=n6
-4	famulus	famulus	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	6	nsubj	_	LASLAVariant=1|LiLaflcat=n2
-5	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	LASLAVariant=1|LiLaflcat=v6
-6	potior	potis	ADJ	C6	Case=Nom|Degree=Cmp|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing	0	root	_	LiLaflcat=n7
-7	tibi	tu	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	6	obl:arg	_	LiLaflcat=p
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 obl:cmp	color:blue
+1	res	res	NOUN	A5	Case=Nom|Gender=Fem|InflClass=IndEurE|Number=Sing	2	nsubj:pass	_	LiLaflcat=n5
+2	agitur	ago	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LiLaflcat=v3
+3	intus	intus	ADV	M	Degree=Pos	2	advmod:lmod	_	LASLAVariant=1|LiLaflcat=i
+4	magna	magnus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	1	amod	_	LiLaflcat=n6
+5	par	par	ADJ	C5	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	1	amod	_	LASLAVariant=2|LiLaflcat=n7
+6	annis	annus	NOUN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Plur	5	obl:cmp	_	LiLaflcat=n2
+7	decem	decem	NUM	D1	InflClass=Ind|Number=Plur|NumType=Card	6	nummod	_	LiLaflcat=n
+8	eheu	eheu	INTJ	U	_	9	discourse	_	LiLaflcat=i
+9	quid	quis	PRON	K	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Int	2	conj	_	LASLAVariant=1|LiLaflcat=p
+10	hoc	hic	DET	I	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	9	nsubj	_	LASLAVariant=1|LiLaflcat=p
+11	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	LASLAVariant=1|LiLaflcat=v6
 
 ~~~
 

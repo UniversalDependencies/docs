@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of PRON in UD_Swiss_German-UZH'
+title:  'Statistics of PRON in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: POS Tags: `PRON`
+## Treebank Statistics: UD_Alemannic-UZH: POS Tags: `PRON`
 
 There are 1 `PRON` lemmas (7%), 43 `PRON` types (5%) and 118 `PRON` tokens (8%).
 Out of 15 observed tags, the rank of `PRON` is: 10 in number of lemmas, 9 in number of types and 8 in number of tokens.

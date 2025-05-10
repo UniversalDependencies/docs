@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.15 release
 The following people have contributed to making this treebank part of UD: Natalia Cáceres Arandia, Claudine Chamoreau, Sylvain Kahane, Bruno Guillaume.
 
 Repository: [UD_Pesh-ChibErgIS](https://github.com/UniversalDependencies/UD_Pesh-ChibErgIS)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpay_chibergis215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpay_chibergis216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -93,13 +93,13 @@ This treebank was produced as part of the ChibErgIS and Autogramm ANR projects. 
 
 ## Relations
 
-[acl](pay_chibergis-dep-acl.html) – [acl:relcl](pay_chibergis-dep-acl-relcl.html) – [advcl](pay_chibergis-dep-advcl.html) – [advmod](pay_chibergis-dep-advmod.html) – [advmod:lmod](pay_chibergis-dep-advmod-lmod.html) – [appos](pay_chibergis-dep-appos.html) – [aux](pay_chibergis-dep-aux.html) – [case](pay_chibergis-dep-case.html) – [cc](pay_chibergis-dep-cc.html) – [ccomp](pay_chibergis-dep-ccomp.html) – [compound](pay_chibergis-dep-compound.html) – [compound:lvc](pay_chibergis-dep-compound-lvc.html) – [compound:svc](pay_chibergis-dep-compound-svc.html) – [conj](pay_chibergis-dep-conj.html) – [cop](pay_chibergis-dep-cop.html) – [csubj](pay_chibergis-dep-csubj.html) – [dep](pay_chibergis-dep-dep.html) – [dep:conj](pay_chibergis-dep-dep-conj.html) – [det](pay_chibergis-dep-det.html) – [discourse](pay_chibergis-dep-discourse.html) – [dislocated](pay_chibergis-dep-dislocated.html) – [mark](pay_chibergis-dep-mark.html) – [nmod](pay_chibergis-dep-nmod.html) – [nsubj](pay_chibergis-dep-nsubj.html) – [nsubj:outer](pay_chibergis-dep-nsubj-outer.html) – [nsubj:pass](pay_chibergis-dep-nsubj-pass.html) – [nummod](pay_chibergis-dep-nummod.html) – [obj](pay_chibergis-dep-obj.html) – [obl](pay_chibergis-dep-obl.html) – [obl:arg](pay_chibergis-dep-obl-arg.html) – [obl:mod](pay_chibergis-dep-obl-mod.html) – [orphan](pay_chibergis-dep-orphan.html) – [parataxis](pay_chibergis-dep-parataxis.html) – [punct](pay_chibergis-dep-punct.html) – [reparandum](pay_chibergis-dep-reparandum.html) – [root](pay_chibergis-dep-root.html) – [vocative](pay_chibergis-dep-vocative.html) – [xcomp](pay_chibergis-dep-xcomp.html)
+[acl](pay_chibergis-dep-acl.html) – [acl:relcl](pay_chibergis-dep-acl-relcl.html) – [advcl](pay_chibergis-dep-advcl.html) – [advmod](pay_chibergis-dep-advmod.html) – [appos](pay_chibergis-dep-appos.html) – [aux](pay_chibergis-dep-aux.html) – [case](pay_chibergis-dep-case.html) – [cc](pay_chibergis-dep-cc.html) – [ccomp](pay_chibergis-dep-ccomp.html) – [compound](pay_chibergis-dep-compound.html) – [compound:lvc](pay_chibergis-dep-compound-lvc.html) – [compound:svc](pay_chibergis-dep-compound-svc.html) – [conj](pay_chibergis-dep-conj.html) – [cop](pay_chibergis-dep-cop.html) – [csubj](pay_chibergis-dep-csubj.html) – [dep](pay_chibergis-dep-dep.html) – [dep:conj](pay_chibergis-dep-dep-conj.html) – [det](pay_chibergis-dep-det.html) – [discourse](pay_chibergis-dep-discourse.html) – [dislocated](pay_chibergis-dep-dislocated.html) – [flat:name](pay_chibergis-dep-flat-name.html) – [mark](pay_chibergis-dep-mark.html) – [nmod](pay_chibergis-dep-nmod.html) – [nsubj](pay_chibergis-dep-nsubj.html) – [nsubj:outer](pay_chibergis-dep-nsubj-outer.html) – [nsubj:pass](pay_chibergis-dep-nsubj-pass.html) – [nummod](pay_chibergis-dep-nummod.html) – [obj](pay_chibergis-dep-obj.html) – [obl](pay_chibergis-dep-obl.html) – [obl:arg](pay_chibergis-dep-obl-arg.html) – [obl:lmod](pay_chibergis-dep-obl-lmod.html) – [obl:mod](pay_chibergis-dep-obl-mod.html) – [obl:tmod](pay_chibergis-dep-obl-tmod.html) – [orphan](pay_chibergis-dep-orphan.html) – [parataxis](pay_chibergis-dep-parataxis.html) – [punct](pay_chibergis-dep-punct.html) – [reparandum](pay_chibergis-dep-reparandum.html) – [root](pay_chibergis-dep-root.html) – [vocative](pay_chibergis-dep-vocative.html) – [xcomp](pay_chibergis-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 307 sentences and 2508 tokens.</li>
+<li>This corpus contains 524 sentences and 4275 tokens.</li>
 </ul>
 
 <ul>
@@ -111,7 +111,7 @@ This treebank was produced as part of the ChibErgIS and Autogramm ANR projects. 
 </ul>
 
 <ul>
-<li>This corpus contains 10 types of words that contain both letters and punctuation. Examples: San.Esteban, akasteʃk(w)a, amaspariʃkaw(a), kapaʃbar(w)a, ke,, nãpar(w)a, sukuher(w)a, tarkasakw(a), teʔkertVw(a), yãhaw(a)</li>
+<li>This corpus contains 16 types of words that contain both letters and punctuation. Examples: San.Esteban, akasteʃk(w)a, amaspariʃkaw(a), kaparbar(w)a, kapaʃbar(w)a, ke,, nãpar(w)a, sukuher(w)a, tVerw(a), tarkasakw(a), teʔkertVw(a), tokker(w)a, yãhaw(a), yãhbar(w)a, ãer(w)a, ʃair(w)a</li>
 </ul>
 
 <ul>
@@ -127,26 +127,27 @@ This treebank was produced as part of the ChibErgIS and Autogramm ANR projects. 
 </ul>
 
 <ul>
-<li>This corpus contains 48 word types tagged as particles (PART): =ha, =hã, =hãʔ, =hĩ, =i, =kan, =kanka, =kari, =ken, =lerwa, =ma, =mã, =n, =na, =pe, =pera, =pero, =pra, =ra, =ras, =ri, =riʃ, =sa, =sri, =tV, =tWh, =wi, =ɲãrã, =ʃona, =ʔi, =ʔã, akarʃki, akarʃkwa, akaʃkwa, akãʃkwa, ama, karʃwĩka, nĩhã, nẽhã, nẽʔ, nẽʔã, ukwa, ukwã, ãm, ãma, ãmã, ũtanĩhã, ẽkerʃ</li>
+<li>This corpus contains 80 word types tagged as particles (PART): =eri, =ha, =hã, =hãʔ, =hĩ, =i, =kan, =kanka, =kanke, =kari, =ken, =lerwa, =ma, =mã, =n, =na, =ni, =pa, =pe, =pera, =pero, =pes, =pra, =ra, =ras, =ri, =rike, =rina, =riʃ, =riʃka, =ro, =sa, =sah, =sri, =tV, =tVh, =tWh, =wi, =wĩ, =wĩʔ, =ɲãrã, =ʃona, =ʃonwa, =ʔi, =ʔã, =ʔĩ, akareke, akarʃki, akarʃkwa, akaʃki, akaʃkwa, akes, akãʃkwa, ama, awah, awãhã, ika, ka, karʃwĩka, neʔa, niʔ, nĩhã, nẽhã, nẽʔ, nẽʔã, rũ, to, tuʔ, ukwa, ukwã, uria, yarʃ, ãkaʃkwa, ãkẽ, ãm, ãma, ãmã, ĩka, ũtanĩhã, ẽkerʃ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 12 lemmas tagged as pronouns (PRON): =wa, eka, este, pa, ta, tas, to, toʔ, wa, ã, ĩ, ẽka</li>
+<li>This corpus contains 15 lemmas tagged as pronouns (PRON): =wa, _, ata, eka, este, pa, ta, tas, to, toʔ, wa, ã, ĩ, ẽh, ẽka</li>
 </ul>
 
 <ul>
-<li>This corpus contains 9 lemmas tagged as determiners (DET): =na, =nã, =pero, =s, =ɲa, =ɲã, =ɲãh, as, ãs</li>
+<li>This corpus contains 10 lemmas tagged as determiners (DET): =na, =nã, =pero, =s, =ɲa, =ɲã, =ɲãh, _, as, ãs</li>
 </ul>
 
 <ul>
+<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): _, ak, r, tʃa</li>
+<li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): _, ak, ka, r, tʃa</li>
 </ul>
 
 <ul>
-<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: ak, r, tʃa</li>
+<li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: ak, ka, r, tʃa</li>
 </ul>
 
 <ul>
@@ -194,7 +195,7 @@ This treebank was produced as part of the ChibErgIS and Autogramm ANR projects. 
 <ul>
   <li>Erg
     <ul>
-      <li>ADP: =ya</li>
+      <li>ADP: =ya, =yã</li>
     </ul>
   </li>
 </ul>
@@ -229,7 +230,7 @@ This treebank was produced as part of the ChibErgIS and Autogramm ANR projects. 
   <li>Appl
     <ul>
       <li>AUX: akatʃaitVri, akatʃaui, takatʃai, takatʃaii, takatʃauwa, takatʃawa, ũtakatʃaitVi</li>
-      <li>VERB: artʃuiʃkari, artʃuiʃatVri, tarwarkuh, akasteʃkawa, akastok, arkapriʃi, artapuki, artʃuiʃbartVi, akaporki, akasteʃ</li>
+      <li>VERB: artʃuiʃkari, artʃuiʃatVri, tarwarkuh, akasteʃkawa, akastok, arilerwa, arka, arkapriʃi, artapuki, artuhtVhi</li>
       <li>VERB-Inf: artʃuiʃ</li>
     </ul>
   </li>
@@ -238,7 +239,7 @@ This treebank was produced as part of the ChibErgIS and Autogramm ANR projects. 
 <ul>
   <li>Cau
     <ul>
-      <li>VERB: ũkawa, ũweerwa, ũwarahparh</li>
+      <li>VERB: ũkawa, kũteʃki, kũteʃkiwã, ũweerwa, ũwarahparh</li>
     </ul>
   </li>
 </ul>
@@ -246,7 +247,7 @@ This treebank was produced as part of the ChibErgIS and Autogramm ANR projects. 
 <ul>
   <li>Mid
     <ul>
-      <li>VERB: taõʃi, atʃi, taiʃkari, taõʃ, taõʃkerwa, taõʃki, apastVpi, apiʃki, atuhwa, atuhweʃkwa</li>
+      <li>VERB: taõʃi, atʃi, taiʃkari, taõʃ, taõʃkerwa, taõʃki, taiʃkwa, taroʔki, tawarki, taõʃwa</li>
     </ul>
   </li>
 </ul>
@@ -287,7 +288,7 @@ This treebank was produced as part of the ChibErgIS and Autogramm ANR projects. 
   <li>1
     <ul>
       <li>AUX: tʃatVpa, =bartVwa</li>
-      <li>VERB: piãpa, kaporpa, akonapa, artʃuiʃpa, kapai, kawiʃpa, kawiʃpai, paspa, peʔpa, piʃpa</li>
+      <li>VERB: piãpa, kaporpa, teʔpa, tʃãpa, yãhpa, akonapa, artʃuiʃpa, iʃpa, kapai, kawiʃpa</li>
     </ul>
   </li>
 </ul>
@@ -296,7 +297,7 @@ This treebank was produced as part of the ChibErgIS and Autogramm ANR projects. 
   <li>2
     <ul>
       <li>AUX: =rya</li>
-      <li>VERB: kaya, takaya</li>
+      <li>VERB: nẽya, kaya, takaya, tʃãya</li>
     </ul>
   </li>
 </ul>
@@ -320,7 +321,7 @@ This treebank was produced as part of the ChibErgIS and Autogramm ANR projects. 
     <ul>
       <li>Ideoph
         <ul>
-          <li>ADV: tõʃ, kluk, roh, teʔne, tukuluk</li>
+          <li>ADV: tõʃ, kluk, roh, teʔne, tukuluk, tʃas</li>
         </ul>
       </li>
     </ul>
@@ -332,17 +333,18 @@ This treebank was produced as part of the ChibErgIS and Autogramm ANR projects. 
     <ul>
       <li>Ex
         <ul>
-          <li>AUX: tʃabaruri, =barwa, =bari, tʃaberuri, tʃaberwa, =bartVwa, ũtakatʃaitVi</li>
+          <li>AUX: tʃabaruri, =barwa, =bari, tʃaberuri, tʃaberwa, ʃãbartVwa, =bartVwa, ũtakatʃaitVi</li>
           <li>NOUN: ũtaoryah, ũtayãha, ũtakaki, ũtaoryaha, ũtasira, ũtasuwa, ũtasãma</li>
           <li>PART: ũtanĩhã</li>
           <li>PRON: ũtas</li>
-          <li>VERB: tiʃbarwa, artʃuiʃbartVi, atʃahbari, kapaʃbarwa, artʃuiʃbarwa, kabarwa, kakoyoʃbari, kapaʃbar(w)a, kapaʃbari, kapaʃbarpi</li>
+          <li>VERB: tiʃbarwa, teʔbarwa, atʃahbari, teʔbariwã, artʃuiʃbartVi, kapaʃbarwa, pipabertVpi, teʔbarh, ameʃbarwa, apasbartViwã</li>
         </ul>
       </li>
       <li>In
         <ul>
-          <li>NOUN: patatiʃta, patasaʔa, patasã, pataya, patayãha, patayãhha, pataĩ</li>
-          <li>VERB: ãparh, amaskapiwa, amasparwa, akatipari, amaspari, iʃparwa, kapari, kaparwa, masperwa, nãapi</li>
+          <li>NOUN: patatiʃta, patakata, patakãã, pataoryah, pataʃaa, patabri, patakatah, patasaʔa, patasã, pataya</li>
+          <li>PRON: pata</li>
+          <li>VERB: ãparh, amaskapiwa, amasparwa, nãparh, ʃapari, ʃãpari, akatipari, amaspari, iʃparwa, kapari</li>
         </ul>
       </li>
     </ul>
@@ -354,11 +356,11 @@ This treebank was produced as part of the ChibErgIS and Autogramm ANR projects. 
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: r, _.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: _, r.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: tʃa, ak, r.</li>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: tʃa, ak, ka, r.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -367,14 +369,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (25)</li>
+      <li>VERB--NOUN (50)</li>
       <li>VERB--NOUN-ADP(=ma) (7)</li>
       <li>VERB--NOUN-ADP(=mã) (1)</li>
       <li>VERB--NOUN-ADP(=ya) (5)</li>
-      <li>VERB--PRON (14)</li>
-      <li>VERB--PRON-ADP(=ma) (7)</li>
+      <li>VERB--NOUN-ADP(_) (8)</li>
+      <li>VERB--PRON (16)</li>
+      <li>VERB--PRON-ADP(=ma) (8)</li>
       <li>VERB--PRON-ADP(=ma)-ADP(=ma) (1)</li>
       <li>VERB--PRON-ADP(=mã) (2)</li>
+      <li>VERB--PRON-ADP(_) (9)</li>
     </ul>
   </li>
 </ul>
@@ -382,14 +386,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (53)</li>
-      <li>VERB--NOUN-ADP(=ma) (5)</li>
+      <li>VERB--NOUN (66)</li>
+      <li>VERB--NOUN-ADP(=ma) (4)</li>
       <li>VERB--NOUN-ADP(=ra) (2)</li>
       <li>VERB--NOUN-ADP(=yo) (1)</li>
-      <li>VERB--PRON (13)</li>
+      <li>VERB--NOUN-ADP(_) (7)</li>
+      <li>VERB--PRON (24)</li>
       <li>VERB--PRON-ADP(=ken) (1)</li>
       <li>VERB--PRON-ADP(=ma) (4)</li>
       <li>VERB--PRON-ADP(=ra) (4)</li>
+      <li>VERB--PRON-ADP(_) (6)</li>
       <li>VERB-Inf--PRON (1)</li>
     </ul>
   </li>
@@ -408,6 +414,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>advmod:lmod</a>, <a>compound:lvc</a>, <a>compound:svc</a>, <a>dep:conj</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
-<li>The following 8 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>amod</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>goeswith</a></li>
+<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>compound:lvc</a>, <a>compound:svc</a>, <a>dep:conj</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:arg</a>, <a>obl:lmod</a>, <a>obl:mod</a>, <a>obl:tmod</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>amod</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

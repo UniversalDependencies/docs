@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Dim` are language-specific.
 It occurs with 2 different values: `Cmp`, `Dim`.
 
-3 tokens (0%) have a non-empty value of `Degree`.
-3 types (0%) occur at least once with a non-empty value of `Degree`.
-3 lemmas (1%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+4 tokens (0%) have a non-empty value of `Degree`.
+4 types (1%) occur at least once with a non-empty value of `Degree`.
+4 lemmas (1%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 ### `ADJ`
 
@@ -27,12 +27,12 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `NOUN`
 
-1 <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Degree`.
+2 <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="sms_giellagas-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="sms_giellagas-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `NOUN` tokens may have the following values of `Degree`:
 
-* `Dim` (1; 100% of non-empty `Degree`): <em>vuõddjez</em>
-* `EMPTY` (410): <em>ooumaž, tueʹllj, mieʹccest, heävaš, nijdd, stäʹlmmstääll, vuâra, ääkka, eččad, niõđ</em>
+* `Dim` (2; 100% of non-empty `Degree`): <em>vuõddjez, äʹrbbaaušu</em>
+* `EMPTY` (409): <em>ooumaž, tueʹllj, mieʹccest, heävaš, nijdd, stäʹlmmstääll, vuâra, ääkka, eččad, niõđ</em>
 

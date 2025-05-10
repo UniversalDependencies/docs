@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (2406; 100% of non-empty `Poss`): <em>seine, seiner, sein, ihre, seinen, seinem, ihren, ihrer, ihr, ihrem</em>
-* `EMPTY` (38800): <em>der, die, dem, den, das, des, eine, ein, einer, einen</em>
+* `EMPTY` (38799): <em>der, die, dem, den, das, des, eine, ein, einer, einen</em>
 
 ### `PRON`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (4; 100% of non-empty `Poss`): <em>my, meiner</em>
-* `EMPTY` (10841): <em>er, sich, sie, es, die, ich, der, man, das, wir</em>
+* `EMPTY` (10840): <em>er, sich, sie, es, die, ich, der, man, das, wir</em>
 
 ### `PROPN`
 
@@ -45,5 +45,5 @@ The most frequent other feature values with which `PROPN` and `Poss` co-occurred
 `PROPN` tokens may have the following values of `Poss`:
 
 * `Yes` (2; 100% of non-empty `Poss`): <em>SC, SYNODUS</em>
-* `EMPTY` (30417): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
+* `EMPTY` (30415): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
 

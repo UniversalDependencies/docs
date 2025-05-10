@@ -36,12 +36,12 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 12	allem	alle	DET	PIS	Case=Dat|Gender=Neut|Number=Sing|PronType=Tot	15	nmod	_	_
 13	in	in	ADP	APPR	AdpType=Prep|Case=Dat	15	case	_	_
 14	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	15	det	_	_
-15	Highend-Bereich	Bereich	NOUN	NN	Gender=Masc|Number=Sing	21	obl	_	_
+15	Highend-Bereich	Highend-Bereich	NOUN	NN	Gender=Masc|Number=Sing	21	obl	_	_
 16	nicht	nicht	PART	PTKNEG	Polarity=Neg	21	advmod	_	_
 17	auf	auf	ADP	APPR	AdpType=Prep|Case=Acc	20	case	_	_
 18	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 19	neuerworbene	neuerworbene	ADJ	ADJA	_	20	amod	_	_
-20	Digital-Technologie	Technologie	NOUN	NN	Gender=Fem|Number=Sing	21	obj	_	_
+20	Digital-Technologie	Digital-Technologie	NOUN	NN	Gender=Fem|Number=Sing	21	obj	_	_
 21	verzichten	verzichten	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
 22	will.	wollen	AUX	VAFIN	Typo=Yes	21	aux	_	_
 23	ju	ju	PROPN	NE	_	21	dep	_	_

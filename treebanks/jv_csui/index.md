@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Ika Alfina, Arlisa Yuliawati, Dipta Tanaya, Arawinda Dinakaramani, Daniel Zeman, Putri Rizqiyah, Sri Hartati Wijono.
 
 Repository: [UD_Javanese-CSUI](https://github.com/UniversalDependencies/UD_Javanese-CSUI)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udjv_csui215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udjv_csui216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -66,10 +66,19 @@ Javanese has several language levels, such as Ngoko, Krama, Krama Inggil, and Kr
 
 ## References
 
-@unpublished{Alfina2023, <br>
-author = {Alfina, Ika and Yuliawati, Arlisa and Tanaya, Dipta and Dinakaramani, Arawinda and Zeman, Daniel}, <br>
-title = {% raw %}{{{% endraw %}A Gold Standard Dataset for Javanese Tokenization, POS Tagging, Morphological Feature Tagging, and Dependency Parsing{% raw %}}}{% endraw %}, <br>
-year = {2023} <br>
+
+@article{Alfina2024,
+title = "A Gold Standard Dataset for Javanese Tokenization, POS Tagging, Morphological Feature Tagging, and Dependency Parsing",
+author = "Ika Alfina and Arlisa Yuliawati and Dipta Tanaya and Arawinda Dinakaramani and Daniel Zeman",
+year = "2024",
+month = nov,
+doi = "10.30564/fls.v6i5.6957",
+volume = "6",
+pages = "131--148",
+journal = "Forum for Linguistic Studies",
+issn = "2705-0610",
+publisher = "Bilingual Publishing Group",
+number = "5",
 }
 
 
@@ -82,7 +91,7 @@ year = {2023} <br>
 
 ## Features
 
-[Abbr](jv_csui-feat-Abbr.html) – [Definite](jv_csui-feat-Definite.html) – [Foreign](jv_csui-feat-Foreign.html) – [Mood](jv_csui-feat-Mood.html) – [Number](jv_csui-feat-Number.html) – [NumType](jv_csui-feat-NumType.html) – [Person](jv_csui-feat-Person.html) – [Polarity](jv_csui-feat-Polarity.html) – [Polite](jv_csui-feat-Polite.html) – [PronType](jv_csui-feat-PronType.html) – [Reflex](jv_csui-feat-Reflex.html) – [Typo](jv_csui-feat-Typo.html) – [Voice](jv_csui-feat-Voice.html)
+[Abbr](jv_csui-feat-Abbr.html) – [Definite](jv_csui-feat-Definite.html) – [ExtPos](jv_csui-feat-ExtPos.html) – [Foreign](jv_csui-feat-Foreign.html) – [Mood](jv_csui-feat-Mood.html) – [Number](jv_csui-feat-Number.html) – [NumType](jv_csui-feat-NumType.html) – [Person](jv_csui-feat-Person.html) – [Polarity](jv_csui-feat-Polarity.html) – [Polite](jv_csui-feat-Polite.html) – [PronType](jv_csui-feat-PronType.html) – [Reflex](jv_csui-feat-Reflex.html) – [Typo](jv_csui-feat-Typo.html) – [Voice](jv_csui-feat-Voice.html)
 
 ## Relations
 
@@ -432,7 +441,7 @@ year = {2023} <br>
       <li>ADJ: pungkasan, ageng, gerah, kaping, sae, sepuh, suweng, kuwatos, salajengipun, sanes</li>
       <li>ADP: saking, kaliyan, kados, dumugi, Saderengipun, dugi, kadosta, kangge, ngantos, saksampune</li>
       <li>ADV: lajeng, ugi, amung, namung, mangke, sanget, mligi, mliginipun, nate, pramila</li>
-      <li>AUX: inggih, mesthi, saged, sampun, badhe, nggih, kedah</li>
+      <li>AUX: mesthi, saged, sampun, inggih, badhe, nggih, kedah</li>
       <li>CCONJ: utawi, ugi</li>
       <li>DET: punika, ipun, menika, sedaya, ingkang, pinten-pinten, piyambak</li>
       <li>INTJ: Inggih</li>
@@ -490,6 +499,30 @@ year = {2023} <br>
           <li>DET: ki</li>
           <li>PART: ra</li>
           <li>PRON: ki</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: kaya</li>
+          <li>AUX: inggih</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADV: Kena, babar, kadang</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>AUX: inggih</li>
+          <li>SCONJ: kaya</li>
         </ul>
       </li>
     </ul>

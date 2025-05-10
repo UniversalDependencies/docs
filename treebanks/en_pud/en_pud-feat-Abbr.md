@@ -36,7 +36,7 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 `NUM` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>bn</em>
-* `EMPTY` (461): <em>one, two, three, million, 10, four, 1, six, 3, I</em>
+* `EMPTY` (460): <em>one, two, three, million, 10, four, 1, six, 3, I</em>
 
 ### `NOUN`
 
@@ -47,5 +47,5 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>BC</em>
-* `EMPTY` (4018): <em>time, people, years, year, government, city, state, century, world, day</em>
+* `EMPTY` (4019): <em>time, people, years, year, government, city, state, century, world, day</em>
 

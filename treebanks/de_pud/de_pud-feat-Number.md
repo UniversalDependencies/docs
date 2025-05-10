@@ -99,7 +99,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 * `Plur` (385; 32% of non-empty `Number`): <em>letzten, neue, ersten, verschiedene, weitere, Vereinigten, neuen, Olympischen, kleine, verschiedenen</em>
 * `Sing` (821; 68% of non-empty `Number`): <em>ersten, neue, eigene, große, britischen, erste, gemeinsamen, letzten, neuen, zweiten</em>
-* `EMPTY` (206): <em>bekannt, möglich, groß, klar, sicher, unglaublich, verheiratet, alt, ausgerichtet, ausgesetzt</em>
+* `EMPTY` (207): <em>bekannt, möglich, groß, klar, sicher, unglaublich, verheiratet, alt, ausgerichtet, ausgesetzt</em>
 
 <table>
   <tr><th>Paradigm <i>neu</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

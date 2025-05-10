@@ -28,7 +28,7 @@ The following 8 pairs of parts of speech are connected with `obl:pronmod`: <tt><
 3	Шавкуновъ	Шавкуновъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	flat:name	_	_
 4	увѣдавъ	увѣдати	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	12	advcl	_	_
 5	то	тотъ	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	_
-6	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	det	_	_
+6	ево	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	det	_	_
 7	Пашкино	пашкинъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	8	amod	_	_
 8	челобитье	челобитие	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	4	punct	_	_

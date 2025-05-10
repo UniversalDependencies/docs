@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latin-UDante: POS Tags: `PART`
 
-There are 22 `PART` lemmas (0%), 23 `PART` types (0%) and 1488 `PART` tokens (3%).
-Out of 16 observed tags, the rank of `PART` is: 11 in number of lemmas, 14 in number of types and 12 in number of tokens.
+There are 21 `PART` lemmas (0%), 22 `PART` types (0%) and 1487 `PART` tokens (3%).
+Out of 16 observed tags, the rank of `PART` is: 12 in number of lemmas, 14 in number of types and 12 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>non, nam, enim, autem, igitur, quidem, ne, quoque, etenim, itaque</em>
 
@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>non</em> (<tt><a href="la_udante-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.045455 (the average of all parts of speech is 2.129200).
+The form / lemma ratio of `PART` is 1.047619 (the average of all parts of speech is 2.129719).
 
 The 1st highest number of forms (2) was observed with the lemma “namque”: <em>namque, nanque</em>.
 
@@ -48,7 +48,7 @@ The 2nd highest number of forms (2) was observed with the lemma “ne”: <em>ne
 
 The 3rd highest number of forms (1) was observed with the lemma “an”: <em>an</em>.
 
-`PART` occurs with 5 features: <tt><a href="la_udante-feat-Polarity.html">Polarity</a></tt> (737; 50% instances), <tt><a href="la_udante-feat-Form.html">Form</a></tt> (255; 17% instances), <tt><a href="la_udante-feat-PartType.html">PartType</a></tt> (87; 6% instances), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt> (34; 2% instances), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt> (27; 2% instances)
+`PART` occurs with 5 features: <tt><a href="la_udante-feat-Polarity.html">Polarity</a></tt> (737; 50% instances), <tt><a href="la_udante-feat-Form.html">Form</a></tt> (255; 17% instances), <tt><a href="la_udante-feat-PartType.html">PartType</a></tt> (86; 6% instances), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt> (34; 2% instances), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt> (27; 2% instances)
 
 `PART` occurs with 6 feature-value pairs: `Compound=Yes`, `Form=Emp`, `PartType=Emp`, `PartType=Int`, `Polarity=Neg`, `PronType=Dem`
 
@@ -59,11 +59,11 @@ Examples: <em>non, ni, ne</em>
 
 ## Relations
 
-`PART` nodes are attached to their parents using 13 different relations: <tt><a href="la_udante-dep-discourse.html">discourse</a></tt> (717; 48% instances), <tt><a href="la_udante-dep-advmod-neg.html">advmod:neg</a></tt> (685; 46% instances), <tt><a href="la_udante-dep-advmod-emph.html">advmod:emph</a></tt> (35; 2% instances), <tt><a href="la_udante-dep-conj.html">conj</a></tt> (14; 1% instances), <tt><a href="la_udante-dep-fixed.html">fixed</a></tt> (12; 1% instances), <tt><a href="la_udante-dep-orphan.html">orphan</a></tt> (12; 1% instances), <tt><a href="la_udante-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="la_udante-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-obl.html">obl</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 12 different relations: <tt><a href="la_udante-dep-discourse.html">discourse</a></tt> (717; 48% instances), <tt><a href="la_udante-dep-advmod-neg.html">advmod:neg</a></tt> (698; 47% instances), <tt><a href="la_udante-dep-advmod-emph.html">advmod:emph</a></tt> (34; 2% instances), <tt><a href="la_udante-dep-conj.html">conj</a></tt> (14; 1% instances), <tt><a href="la_udante-dep-orphan.html">orphan</a></tt> (12; 1% instances), <tt><a href="la_udante-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="la_udante-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 14 different parts of speech: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (980; 66% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (198; 13% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (102; 7% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (79; 5% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (54; 4% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (18; 1% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (15; 1% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (12; 1% instances),  (4; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 13 different parts of speech: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (985; 66% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (200; 13% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (105; 7% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (79; 5% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (56; 4% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (16; 1% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (15; 1% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (4; 0% instances),  (4; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-1403 (94%) `PART` nodes are leaves.
+1402 (94%) `PART` nodes are leaves.
 
 59 (4%) `PART` nodes have one child.
 

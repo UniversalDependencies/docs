@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of nmod in UD_Swiss_German-UZH'
+title:  'Statistics of nmod in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: Relations: `nmod`
+## Treebank Statistics: UD_Alemannic-UZH: Relations: `nmod`
 
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="gsw_uzh-dep-nmod-poss.html">nmod:poss</a></tt>.

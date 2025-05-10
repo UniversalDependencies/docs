@@ -60,7 +60,7 @@ The following 7 pairs of parts of speech are connected with `advmod:lmod`: <tt><
 # visual-style 8 1 advmod:lmod	color:blue
 1	unde	unde	ADV	O4	AdvType=Loc|PronType=Rel	8	advmod:lmod	_	_
 2	et	et	CCONJ	O4	_	3	advmod:emph	_	_
-3	sua	suus	DET	A1|grn1|casA|gen2	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	4	det	_	_
+3	sua	suus	DET	A1|grn1|casA|gen2	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	4	amod	_	_
 4	ueritas	ueritas	NOUN	C1|grn1|casA|gen2|vgr1	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	8	nsubj	_	_
 5	est	sum	AUX	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 6	omnis	omnis	DET	C1|grn1|casB|gen2	Case=Gen|Gender=Fem|InflClass=IndEurI|Number=Sing|PronType=Tot	7	det	_	_

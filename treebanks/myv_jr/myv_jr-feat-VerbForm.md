@@ -52,7 +52,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 * `Conv,Part` (41; 91% of non-empty `VerbForm`): <em>апак</em>
 * `Inf` (4; 9% of non-empty `VerbForm`): <em>улемс, улеме</em>
-* `EMPTY` (754): <em>а, аволь, эзь, кармась, ульнесь, кармасть, иля, эряви, ули, бу</em>
+* `EMPTY` (741): <em>а, аволь, эзь, кармась, ульнесь, кармасть, иля, эряви, ули, бу</em>
 
 ### `NOUN`
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 
 * `Part` (8; 57% of non-empty `VerbForm`): <em>моравтыцятне, азгондицят, ардыцятне, сёрмадыцятне, эрицятне, эрицятнеде</em>
 * `Vnoun` (6; 43% of non-empty `VerbForm`): <em>Удомань, коцькерямонть, сиземань, туемадо, удомазо, ёртнема</em>
-* `EMPTY` (5078): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
+* `EMPTY` (5106): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
 
 `VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `VerbForm`.
 

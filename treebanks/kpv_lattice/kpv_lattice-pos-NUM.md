@@ -13,7 +13,7 @@ The 10 most frequent `NUM` lemmas: <em>кык, ӧти, ветымын, дас, �
 
 The 10 most frequent `NUM` types:  <em>кык, ӧти, дас, ветымынъяс, комын, куим, 12-20, 16, 18, 1940</em>
 
-The 10 most frequent ambiguous lemmas: <em>ӧти</em> (<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> 14, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 3, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 2), <em>_</em> (<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> 7, <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 2, <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> 1, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 1, <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> 1), <em>кыкӧн</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1, <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ӧти</em> (<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> 14, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 3, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 2), <em>_</em> (<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> 5, <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 2, <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> 1, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 1, <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> 1), <em>кыкӧн</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1, <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>ӧти</em> (<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> 11, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 1)
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ӧти</em> (<tt><a href="kpv_lattice
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.038462 (the average of all parts of speech is 1.468128).
+The form / lemma ratio of `NUM` is 1.038462 (the average of all parts of speech is 1.468725).
 
 The 1st highest number of forms (2) was observed with the lemma “ветымын”: <em>ветымын, ветымынъяс</em>.
 

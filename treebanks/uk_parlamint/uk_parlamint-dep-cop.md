@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-264 nodes (1%) are attached to their parents as `cop`.
+395 nodes (0%) are attached to their parents as `cop`.
 
-228 instances of `cop` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.53030303030303.
+332 instances of `cop` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.6253164556962.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (144; 55% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (81; 31% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (25; 9% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (6; 2% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (2; 1% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (217; 55% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (122; 31% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (37; 9% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (6; 2% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

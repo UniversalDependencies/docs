@@ -11,7 +11,7 @@ This relation is universal.
 390 nodes (0%) are attached to their parents as `ccomp`.
 
 387 instances of `ccomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 12.4974358974359.
+Average distance between parent and child is 12.4948717948718.
 
 The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (303; 78% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (38; 10% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (27; 7% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (8; 2% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
@@ -25,7 +25,7 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 1	И	и	CCONJ	СС	_	2	cc	_	wf="И"
 2	поведаеть	поведати	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	wf="поведаеть"|SpaceAfter=No
 3	,	,	PUNCT	-COMMA-	_	2	punct	_	_
-4	што	што	SCONJ	IN	_	6	mark	_	wf="што"
+4	што	што	SCONJ	IN	ExtPos=SCONJ	6	mark	_	wf="што"
 5	ж	жъ	PART	RP	_	4	fixed	_	wf="ж"
 6	ѡтлезъ	отлезти	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	2	ccomp	_	wf="ѡтлезъ"
 7	его	онъ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	wf="его"

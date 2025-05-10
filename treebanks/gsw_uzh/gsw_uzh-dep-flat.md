@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of flat in UD_Swiss_German-UZH'
+title:  'Statistics of flat in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: Relations: `flat`
+## Treebank Statistics: UD_Alemannic-UZH: Relations: `flat`
 
 This relation is universal.
 

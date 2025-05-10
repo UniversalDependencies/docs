@@ -11,10 +11,10 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="apu_ufpa-feat-Person.html">Person</a></tt>, <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt>, <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt>.
 
-36 tokens (4%) have a non-empty value of `Person[psor]`.
-31 types (9%) occur at least once with a non-empty value of `Person[psor]`.
-28 lemmas (10%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (36; 4% instances).
+37 tokens (4%) have a non-empty value of `Person[psor]`.
+32 types (9%) occur at least once with a non-empty value of `Person[psor]`.
+29 lemmas (10%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 2 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (36; 4% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -30,6 +30,15 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
   <tr><td><tt><tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>nyry</em></td><td></td></tr>
   <tr><td><tt><tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>pyry</em></td></tr>
 </table>
+
+### `VERB`
+
+1 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
+
+The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`VERB` tokens may have the following values of `Person[psor]`:
+
 
 ## Relations with Agreement in `Person[psor]`
 

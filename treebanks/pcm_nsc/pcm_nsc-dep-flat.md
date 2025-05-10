@@ -23,22 +23,22 @@ The following 39 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 13 flat	color:blue
-1	#	#	X	_	_	5	dep	_	AlignBegin=73066|AlignEnd=73583|Gloss=PUNCT
+1	#	#	PUNCT	_	_	5	punct	_	AlignBegin=73066|AlignEnd=73583|Gloss=PUNCT
 2	so	so	ADV	_	_	5	discourse	_	AlignBegin=73583|AlignEnd=73676|Gloss=so
 3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=73676|AlignEnd=73789|Gloss=NOM.SG.1
 4	con	con	AUX	_	Aspect=Cons	5	aux	_	AlignBegin=73789|AlignEnd=74049|Gloss=CONS
 5	go	go	VERB	_	_	0	root	_	AlignBegin=74049|AlignEnd=74199|Gloss=go
 6	school	school	NOUN	_	_	5	obl:arg	_	AlignBegin=74199|AlignEnd=74889|Gloss=school
 7	o	o	PART	_	PartType=Disc	5	advmod	_	AlignBegin=74889|AlignEnd=75129|Gloss=EMPH
-8	//=	//=	X	_	_	10	dep	_	AlignBegin=75129|AlignEnd=75129|Gloss=PUNCT
+8	//=	//=	PUNCT	_	_	10	punct	_	AlignBegin=75129|AlignEnd=75129|Gloss=PUNCT
 9	con	con	AUX	_	Aspect=Cons	10	aux	_	AlignBegin=75129|AlignEnd=75395|Gloss=CONS
 10	reach	reach	VERB	_	_	5	parataxis:conj	_	AlignBegin=75395|AlignEnd=75644|Gloss=reach
-11	#	#	X	_	_	12	dep	_	AlignBegin=75644|AlignEnd=75949|Gloss=PUNCT
+11	#	#	PUNCT	_	_	12	punct	_	AlignBegin=75644|AlignEnd=75949|Gloss=PUNCT
 12	two	two	NUM	_	NumType=Card	10	obj	_	AlignBegin=75949|AlignEnd=76029|Gloss=two.CARD
 13	thousand	thousand	NUM	_	NumType=Card	12	flat	_	AlignBegin=76029|AlignEnd=76379|Gloss=thousand.CARD
 14	and	and	CCONJ	_	_	15	cc	_	AlignBegin=76379|AlignEnd=76639|Gloss=and
 15	eight	eight	NUM	_	NumType=Card	13	conj	_	AlignBegin=76639|AlignEnd=76821|Gloss=eight.CARD
-16	//	//	X	_	_	5	dep	_	AlignBegin=76821|AlignEnd=76821|Gloss=PUNCT
+16	//	//	PUNCT	_	_	5	punct	_	AlignBegin=76821|AlignEnd=76821|Gloss=PUNCT
 
 ~~~
 
@@ -56,15 +56,15 @@ The following 39 pairs of parts of speech are connected with `flat`: <tt><a href
 5	dey	dey	AUX	_	Aspect=Imp	3	acl:relcl	_	AlignBegin=221530|AlignEnd=221660|Gloss=IPFV
 6	Niger	Niger	PROPN	_	ExtPos=PROPN	5	obj	_	AlignBegin=221660|AlignEnd=222010|Gloss=Niger|Title=Yes
 7	Delta	Delta	NOUN	_	_	6	flat	_	AlignBegin=222010|AlignEnd=222360|Gloss=Delta|InTitle=Yes
-8	<	<	X	_	_	3	dep	_	AlignBegin=222360|AlignEnd=222360|Gloss=PUNCT
+8	<	<	PUNCT	_	_	3	punct	_	AlignBegin=222360|AlignEnd=222360|Gloss=PUNCT
 9	na	na	AUX	_	PartType=Cop	10	cop	_	AlignBegin=222360|AlignEnd=222470|Gloss=be.COP
 10	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	root	_	AlignBegin=222470|AlignEnd=222600|Gloss=NOM.PL.3
-11	>+	>+	X	_	_	13	dep	_	AlignBegin=222600|AlignEnd=222600|Gloss=PUNCT
+11	>+	>+	PUNCT	_	_	13	punct	_	AlignBegin=222600|AlignEnd=222600|Gloss=PUNCT
 12	dey	dey	AUX	_	Aspect=Imp	13	aux	_	AlignBegin=222600|AlignEnd=222740|Gloss=IPFV
 13	chop	chop	VERB	_	_	10	advcl:cleft	_	AlignBegin=222740|AlignEnd=222940|Gloss=eat
 14	di	di	DET	_	Definite=Def|PronType=Art	15	det	_	AlignBegin=222940|AlignEnd=223020|Gloss=DEF.ART
 15	soup	soup	NOUN	_	_	13	obj	_	AlignBegin=223020|AlignEnd=223520|Gloss=soup
-16	//	//	X	_	_	10	dep	_	AlignBegin=223520|AlignEnd=223520|Gloss=PUNCT
+16	//	//	PUNCT	_	_	10	punct	_	AlignBegin=223520|AlignEnd=223520|Gloss=PUNCT
 
 ~~~
 
@@ -76,14 +76,14 @@ The following 39 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 7	fgColor:white
 # visual-style 7 8 flat	color:blue
 1	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	AlignBegin=4628|AlignEnd=4849|Gloss=NOM.SG.1
-2	<	<	X	_	_	1	dep	_	AlignBegin=4849|AlignEnd=4849|Gloss=PUNCT
+2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=4849|AlignEnd=4849|Gloss=PUNCT
 3	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	4	nmod:poss	_	AlignBegin=4849|AlignEnd=4990|Gloss=SG.1.POSS
 4	name	name	NOUN	_	_	5	nsubj	_	AlignBegin=4990|AlignEnd=5269|Gloss=name
 5	na	na	AUX	_	PartType=Cop	0	root	_	AlignBegin=5269|AlignEnd=5801|Gloss=be
-6	#	#	X	_	_	7	dep	_	AlignBegin=5801|AlignEnd=6138|Gloss=PUNCT
+6	#	#	PUNCT	_	_	7	punct	_	AlignBegin=5801|AlignEnd=6138|Gloss=PUNCT
 7	Joseph	Joseph	PROPN	_	_	5	obj	_	AlignBegin=6138|AlignEnd=6710|Gloss=Joseph
 8	Aseginmba	Aseginmba	PROPN	_	_	7	flat	_	AlignBegin=6710|AlignEnd=7504|Gloss=Aseginmba
-9	//	//	X	_	_	5	dep	_	AlignBegin=7504|AlignEnd=7504|Gloss=PUNCT
+9	//	//	PUNCT	_	_	5	punct	_	AlignBegin=7504|AlignEnd=7504|Gloss=PUNCT
 
 ~~~
 

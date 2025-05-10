@@ -73,7 +73,7 @@ The following 9 pairs of parts of speech are connected with `advcl:cleft`: <tt><
 3	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_
 4	qui	qui	PRON	_	PronType=Rel	6	nsubj	_	_
 5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
-6	terrible	terrible	ADJ	_	Number=Sing	3	advcl:cleft	_	SpaceAfter=No
+6	terrible	terrible	ADJ	_	Gender=Masc|Number=Sing	3	advcl:cleft	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

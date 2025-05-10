@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Lauma Pretkalniņa, Gunta Nešpore-Bērzkalne.
 
 Repository: [UD_Latgalian-Cairo](https://github.com/UniversalDependencies/UD_Latgalian-Cairo)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udltg_cairo215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udltg_cairo216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -67,11 +67,11 @@ This work was supported by the State Research Programme's project [Research on M
 
 ## POS Tags
 
-[ADJ](ltg_cairo-pos-ADJ.html) – [ADP](ltg_cairo-pos-ADP.html) – [ADV](ltg_cairo-pos-ADV.html) – [CCONJ](ltg_cairo-pos-CCONJ.html) – [DET](ltg_cairo-pos-DET.html) – [NOUN](ltg_cairo-pos-NOUN.html) – [PART](ltg_cairo-pos-PART.html) – [PRON](ltg_cairo-pos-PRON.html) – [PROPN](ltg_cairo-pos-PROPN.html) – [PUNCT](ltg_cairo-pos-PUNCT.html) – [SCONJ](ltg_cairo-pos-SCONJ.html) – [VERB](ltg_cairo-pos-VERB.html)
+[ADJ](ltg_cairo-pos-ADJ.html) – [ADP](ltg_cairo-pos-ADP.html) – [ADV](ltg_cairo-pos-ADV.html) – [CCONJ](ltg_cairo-pos-CCONJ.html) – [NOUN](ltg_cairo-pos-NOUN.html) – [PART](ltg_cairo-pos-PART.html) – [PRON](ltg_cairo-pos-PRON.html) – [PROPN](ltg_cairo-pos-PROPN.html) – [PUNCT](ltg_cairo-pos-PUNCT.html) – [SCONJ](ltg_cairo-pos-SCONJ.html) – [VERB](ltg_cairo-pos-VERB.html)
 
 ## Features
 
-[Aspect](ltg_cairo-feat-Aspect.html) – [Case](ltg_cairo-feat-Case.html) – [Definite](ltg_cairo-feat-Definite.html) – [Degree](ltg_cairo-feat-Degree.html) – [Evident](ltg_cairo-feat-Evident.html) – [Gender](ltg_cairo-feat-Gender.html) – [Mood](ltg_cairo-feat-Mood.html) – [Number](ltg_cairo-feat-Number.html) – [Person](ltg_cairo-feat-Person.html) – [Polarity](ltg_cairo-feat-Polarity.html) – [Poss](ltg_cairo-feat-Poss.html) – [PronType](ltg_cairo-feat-PronType.html) – [Reflex](ltg_cairo-feat-Reflex.html) – [Tense](ltg_cairo-feat-Tense.html) – [VerbForm](ltg_cairo-feat-VerbForm.html) – [Voice](ltg_cairo-feat-Voice.html)
+[Aspect](ltg_cairo-feat-Aspect.html) – [Case](ltg_cairo-feat-Case.html) – [Definite](ltg_cairo-feat-Definite.html) – [Degree](ltg_cairo-feat-Degree.html) – [Evident](ltg_cairo-feat-Evident.html) – [ExtPos](ltg_cairo-feat-ExtPos.html) – [Gender](ltg_cairo-feat-Gender.html) – [Mood](ltg_cairo-feat-Mood.html) – [Number](ltg_cairo-feat-Number.html) – [Person](ltg_cairo-feat-Person.html) – [Polarity](ltg_cairo-feat-Polarity.html) – [Poss](ltg_cairo-feat-Poss.html) – [PronType](ltg_cairo-feat-PronType.html) – [Reflex](ltg_cairo-feat-Reflex.html) – [Tense](ltg_cairo-feat-Tense.html) – [VerbForm](ltg_cairo-feat-VerbForm.html) – [Voice](ltg_cairo-feat-Voice.html)
 
 ## Relations
 
@@ -104,8 +104,8 @@ This work was supported by the State Research Programme's project [Research on M
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 12 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: NUM, AUX, INTJ, SYM, X</li>
+<li>This corpus uses 11 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>CCONJ</a>, <a>NOUN</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
+<li>This corpus does not use the following tags: DET, NUM, AUX, INTJ, SYM, X</li>
 </ul>
 
 <ul>
@@ -113,11 +113,11 @@ This work was supported by the State Research Programme's project [Research on M
 </ul>
 
 <ul>
-<li>This corpus contains 7 lemmas tagged as pronouns (PRON): es, jei, jis, jī, kas, tu, tys</li>
+<li>This corpus contains 14 lemmas tagged as pronouns (PRON): es, itei, jei, jis, jī, kaids, kas, kurs, muns, sova, sovs, tei, tu, tys</li>
 </ul>
 
 <ul>
-<li>This corpus contains 7 lemmas tagged as determiners (DET): itei, kaids, kurs, muns, sova, sovs, tei</li>
+<li>This corpus contains 0 lemmas tagged as determiners (DET): </li>
 </ul>
 
 <ul>
@@ -169,9 +169,8 @@ This work was supported by the State Research Programme's project [Research on M
   <li>Fem
     <ul>
       <li>ADJ: lela, moza, sorkonā</li>
-      <li>DET: Itei, sovai, tamā</li>
       <li>NOUN: mašynu, Meitine, bronzu, draudzinei, dzeršonu, dīnā, golvyspiļsātā, jausmys, kruosā, peipiešonu</li>
-      <li>PRON: jei, Jai, Jis</li>
+      <li>PRON: jei, Itei, Jai, Jis, sovai, tamā</li>
       <li>PROPN: Mareja, Braunys, Džeina, Fraņcejis, Marejis, Parizē</li>
       <li>VERB-Part: pīguoduota</li>
     </ul>
@@ -182,9 +181,8 @@ This work was supported by the State Research Programme's project [Research on M
   <li>Masc
     <ul>
       <li>ADJ: foršuoks, tovejais</li>
-      <li>DET: Muns, kaida, kurs, sovam</li>
       <li>NOUN: bruoļs, leits, lūgu, motus, ritini, statini, sudobru, sābri, tēte, veiram</li>
-      <li>PRON: jis, Jim, jam, juo, tuo, tū</li>
+      <li>PRON: jis, Jim, Muns, jam, juo, kaida, kurs, sovam, tuo, tū</li>
       <li>PROPN: Pītera, Pīters, Sem, Smita</li>
     </ul>
   </li>
@@ -208,9 +206,8 @@ This work was supported by the State Research Programme's project [Research on M
   <li>Sing
     <ul>
       <li>ADJ: foršuoks, lela, moza, sorkonā, tovejais</li>
-      <li>DET: Itei, Muns, kaida, kurs, sovai, sovam, tamā</li>
       <li>NOUN: mašynu, Meitine, bronzu, bruoļs, draudzinei, dzeršonu, dīnā, golvyspiļsātā, jausmys, kruosā</li>
-      <li>PRON: jis, tu, jei, Es, Jai, Maņ, jam, juo, tuo, tū</li>
+      <li>PRON: jis, tu, jei, Es, Itei, Jai, Maņ, Muns, jam, juo</li>
       <li>PROPN: Pītera, Mareja, Pīters, Braunys, Džeina, Fraņcejis, Marejis, Parizē, Sem, Smita</li>
       <li>VERB-Fin: attaisi, dūmoj, gribi, navarieju, variesi, verīs</li>
       <li>VERB-Part: pīguoduota</li>
@@ -234,9 +231,8 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Dat
     <ul>
-      <li>DET: sovai, sovam</li>
       <li>NOUN: draudzinei, veiram</li>
-      <li>PRON: Jai, Jim, Maņ, jam</li>
+      <li>PRON: Jai, Jim, Maņ, jam, sovai, sovam</li>
     </ul>
   </li>
 </ul>
@@ -244,9 +240,8 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Gen
     <ul>
-      <li>DET: kaida</li>
       <li>NOUN: jausmys, īmesļa</li>
-      <li>PRON: juo</li>
+      <li>PRON: juo, kaida</li>
       <li>PROPN: Pītera, Braunys, Fraņcejis, Marejis, Smita</li>
     </ul>
   </li>
@@ -256,8 +251,8 @@ This work was supported by the State Research Programme's project [Research on M
   <li>Loc
     <ul>
       <li>ADJ: sorkonā</li>
-      <li>DET: tamā</li>
       <li>NOUN: dīnā, golvyspiļsātā, kruosā</li>
+      <li>PRON: tamā</li>
       <li>PROPN: Parizē</li>
     </ul>
   </li>
@@ -267,9 +262,8 @@ This work was supported by the State Research Programme's project [Research on M
   <li>Nom
     <ul>
       <li>ADJ: foršuoks, lela, moza, tovejais</li>
-      <li>DET: Itei, Muns, kurs</li>
       <li>NOUN: Meitine, bruoļs, leits, sābri, tēte, vaļsts, viestule</li>
-      <li>PRON: jis, tu, jei, Es</li>
+      <li>PRON: jis, tu, jei, Es, Itei, Muns, kurs</li>
       <li>PROPN: Mareja, Pīters, Džeina</li>
       <li>VERB-Part: pīguoduota</li>
     </ul>
@@ -460,8 +454,7 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Dem
     <ul>
-      <li>DET: Itei, tamā</li>
-      <li>PRON: tuo, tū</li>
+      <li>PRON: Itei, tamā, tuo, tū</li>
     </ul>
   </li>
 </ul>
@@ -469,7 +462,7 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Ind
     <ul>
-      <li>DET: kaida</li>
+      <li>PRON: kaida</li>
     </ul>
   </li>
 </ul>
@@ -477,8 +470,7 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Prs
     <ul>
-      <li>DET: Muns, sovai, sovam</li>
-      <li>PRON: jis, tu, jei, Es, Jai, Jim, Maņ, jam, juo</li>
+      <li>PRON: jis, tu, jei, Es, Jai, Jim, Maņ, Muns, jam, juo</li>
     </ul>
   </li>
 </ul>
@@ -486,8 +478,7 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Rel
     <ul>
-      <li>DET: kurs</li>
-      <li>PRON: kuo</li>
+      <li>PRON: kuo, kurs</li>
     </ul>
   </li>
 </ul>
@@ -500,7 +491,7 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>Yes
     <ul>
-      <li>DET: Muns, sovai, sovam</li>
+      <li>PRON: Muns, sovai, sovam</li>
     </ul>
   </li>
 </ul>
@@ -542,8 +533,7 @@ This work was supported by the State Research Programme's project [Research on M
 <ul>
   <li>3
     <ul>
-      <li>DET: Itei, tamā</li>
-      <li>PRON: jis, jei, Jai, Jim, jam, juo, tuo, tū</li>
+      <li>PRON: jis, jei, Itei, Jai, Jim, jam, juo, tamā, tuo, tū</li>
       <li>VERB-Fin: ir, pīraksteja, Navarēja, apsaskuove, ceņtēs, dabuoja, izauga, leist, lyka, naizdareja</li>
     </ul>
   </li>
@@ -554,6 +544,18 @@ This work was supported by the State Research Programme's project [Research on M
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>SCONJ
+        <ul>
+          <li>ADV: partū</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 
@@ -575,7 +577,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN-Gen (1)</li>
       <li>VERB-Fin--NOUN-Nom (5)</li>
-      <li>VERB-Fin--PRON-Nom (11)</li>
+      <li>VERB-Fin--PRON-Nom (12)</li>
     </ul>
   </li>
 </ul>

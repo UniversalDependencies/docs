@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of ADV in UD_Swiss_German-UZH'
+title:  'Statistics of ADV in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: POS Tags: `ADV`
+## Treebank Statistics: UD_Alemannic-UZH: POS Tags: `ADV`
 
 There are 1 `ADV` lemmas (7%), 100 `ADV` types (13%) and 144 `ADV` tokens (10%).
 Out of 15 observed tags, the rank of `ADV` is: 3 in number of lemmas, 3 in number of types and 4 in number of tokens.

@@ -43,7 +43,7 @@ The following 3 pairs of parts of speech are connected with `det`: <tt><a href="
 3	leämmaž	leeʹd	VERB	V	Aspect=Perf|VerbForm=Part	0	root	_	CGdephead=#3-&gt;0|CGdeprel=@X|GTtags=IV,Act,PrfPrc
 4	määŋg	mäŋgg	DET	A	Case=Acc|Number=Sing	5	det	_	CGdephead=#4-&gt;0|CGdeprel=@&lt;SUBJ|GTtags=Pl,Nom
 5	vuâra	vuâra	NOUN	N	Case=Acc|Number=Sing	3	obl:tmod	_	CGdephead=#5-&gt;4|CGdeprel=@&lt;ADVL|GTtags=
-6	tuõddrest	tuõddâr	NOUN	N	Case=Loc|Number=Sing	3	obl:lmod	_	CGdephead=#6-&gt;0|CGdeprel=@X|GTtags=Sg,Loc|SpaceAfter=No
+6	tuõddrest	tuõddâr	NOUN	N	Case=Loc|Number=Sing	3	obl	_	CGdephead=#6-&gt;0|CGdeprel=@X|GTtags=Sg,Loc|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	3	punct	_	CGdephead=#7-&gt;1|CGdeprel=punct|GTtags=CLB
 
 ~~~
@@ -58,7 +58,7 @@ The following 3 pairs of parts of speech are connected with `det`: <tt><a href="
 1	Di	di	CCONJ	CC	_	5	cc	_	_
 2	tut	tut	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	3	det	_	GTtags=Dem,Sg,Nom
 3	nuʹbb	nuʹbb	PRON	Pron	Case=Nom|Number=Sing	5	nsubj	_	GTtags=Sg,Nom
-4	âʹtte	âʹte	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	GTtags=Sem/Time
+4	âʹtte	âʹte	ADV	Adv	AdvType=Tim	5	advmod	_	GTtags=Sem/Time
 5	lueʹšti	lueʹštted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
 7	lueʹšti	lueʹštted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No

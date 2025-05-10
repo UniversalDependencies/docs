@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-21 nodes (13%) are attached to their parents as `nsubj`.
+22 nodes (13%) are attached to their parents as `nsubj`.
 
-19 instances of `nsubj` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.61904761904762.
+20 instances of `nsubj` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.59090909090909.
 
-The following 7 pairs of parts of speech are connected with `nsubj`: <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-PRON.html">PRON</a></tt> (11; 52% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt> (4; 19% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-PROPN.html">PROPN</a></tt> (2; 10% instances), <tt><a href="lv_cairo-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_cairo-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="lv_cairo-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-DET.html">DET</a></tt> (1; 5% instances).
+The following 7 pairs of parts of speech are connected with `nsubj`: <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-PRON.html">PRON</a></tt> (12; 55% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt> (4; 18% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-PROPN.html">PROPN</a></tt> (2; 9% instances), <tt><a href="lv_cairo-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_cairo-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="lv_cairo-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-DET.html">DET</a></tt> (1; 5% instances).
 
 
 ~~~ conllu

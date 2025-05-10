@@ -54,7 +54,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 * `Conv,Part` (4; 24% of non-empty `VerbForm`): <em>апак</em>
 * `Fin` (13; 76% of non-empty `VerbForm`): <em>ашень, ульсть, ульсь, Улень, ашезе, савсь, сашендовсь, ули, эряви</em>
-* `EMPTY` (146): <em>аф, ашезь, ульсь, ба, ашеть, изь, катк, ли, эрявсь, афоль</em>
+* `EMPTY` (145): <em>аф, ашезь, ульсь, ба, ашеть, изь, катк, эрявсь, афоль, аш</em>
 
 ## Relations with Agreement in `VerbForm`
 

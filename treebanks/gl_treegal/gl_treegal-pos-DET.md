@@ -62,11 +62,11 @@ The 2nd highest number of forms (8) was observed with the lemma “o”: <em>a, 
 
 The 3rd highest number of forms (5) was observed with the lemma “moito”: <em>moita, moitas, moito, moitos, moitísimas</em>.
 
-`DET` occurs with 7 features: <tt><a href="gl_treegal-feat-PronType.html">PronType</a></tt> (4119; 100% instances), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt> (4110; 100% instances), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt> (4110; 100% instances), <tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt> (3449; 84% instances), <tt><a href="gl_treegal-feat-Person.html">Person</a></tt> (231; 6% instances), <tt><a href="gl_treegal-feat-Number-psor.html">Number[psor]</a></tt> (230; 6% instances), <tt><a href="gl_treegal-feat-Poss.html">Poss</a></tt> (230; 6% instances)
+`DET` occurs with 8 features: <tt><a href="gl_treegal-feat-PronType.html">PronType</a></tt> (4119; 100% instances), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt> (4110; 100% instances), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt> (4110; 100% instances), <tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt> (3449; 84% instances), <tt><a href="gl_treegal-feat-Person.html">Person</a></tt> (231; 6% instances), <tt><a href="gl_treegal-feat-Number-psor.html">Number[psor]</a></tt> (230; 6% instances), <tt><a href="gl_treegal-feat-Poss.html">Poss</a></tt> (230; 6% instances), <tt><a href="gl_treegal-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`DET` occurs with 17 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`
+`DET` occurs with 18 feature-value pairs: `Definite=Def`, `Definite=Ind`, `ExtPos=PRON`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`
 
-`DET` occurs with 39 feature combinations.
+`DET` occurs with 40 feature combinations.
 The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (1156 tokens).
 Examples: <em>o, lo, os</em>
 
@@ -77,9 +77,9 @@ Examples: <em>o, lo, os</em>
 
 Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (3675; 89% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (199; 5% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (99; 2% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (64; 2% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (40; 1% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (20; 0% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-4081 (99%) `DET` nodes are leaves.
+4086 (99%) `DET` nodes are leaves.
 
-30 (1%) `DET` nodes have one child.
+25 (1%) `DET` nodes have one child.
 
 6 (0%) `DET` nodes have two children.
 
@@ -87,7 +87,7 @@ Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="gl_t
 
 The highest child degree of a `DET` node is 3.
 
-Children of `DET` nodes are attached using 11 different relations: <tt><a href="gl_treegal-dep-advmod.html">advmod</a></tt> (9; 19% instances), <tt><a href="gl_treegal-dep-case.html">case</a></tt> (9; 19% instances), <tt><a href="gl_treegal-dep-conj.html">conj</a></tt> (6; 13% instances), <tt><a href="gl_treegal-dep-nmod.html">nmod</a></tt> (6; 13% instances), <tt><a href="gl_treegal-dep-cc.html">cc</a></tt> (5; 10% instances), <tt><a href="gl_treegal-dep-punct.html">punct</a></tt> (5; 10% instances), <tt><a href="gl_treegal-dep-acl.html">acl</a></tt> (3; 6% instances), <tt><a href="gl_treegal-dep-det.html">det</a></tt> (2; 4% instances), <tt><a href="gl_treegal-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="gl_treegal-dep-fixed.html">fixed</a></tt> (1; 2% instances), <tt><a href="gl_treegal-dep-nsubj.html">nsubj</a></tt> (1; 2% instances)
+Children of `DET` nodes are attached using 9 different relations: <tt><a href="gl_treegal-dep-advmod.html">advmod</a></tt> (9; 21% instances), <tt><a href="gl_treegal-dep-case.html">case</a></tt> (9; 21% instances), <tt><a href="gl_treegal-dep-conj.html">conj</a></tt> (6; 14% instances), <tt><a href="gl_treegal-dep-cc.html">cc</a></tt> (5; 12% instances), <tt><a href="gl_treegal-dep-punct.html">punct</a></tt> (5; 12% instances), <tt><a href="gl_treegal-dep-acl.html">acl</a></tt> (3; 7% instances), <tt><a href="gl_treegal-dep-nmod.html">nmod</a></tt> (3; 7% instances), <tt><a href="gl_treegal-dep-det.html">det</a></tt> (2; 5% instances), <tt><a href="gl_treegal-dep-fixed.html">fixed</a></tt> (1; 2% instances)
 
-Children of `DET` nodes belong to 10 different parts of speech: <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (9; 19% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (9; 19% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (8; 17% instances), <tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> (5; 10% instances), <tt><a href="gl_treegal-pos-PUNCT.html">PUNCT</a></tt> (5; 10% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (5; 10% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (2; 4% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (1; 2% instances)
+Children of `DET` nodes belong to 10 different parts of speech: <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (9; 21% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (9; 21% instances), <tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> (5; 12% instances), <tt><a href="gl_treegal-pos-PUNCT.html">PUNCT</a></tt> (5; 12% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (4; 9% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (4; 9% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (2; 5% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (1; 2% instances)
 
