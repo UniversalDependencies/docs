@@ -2,6 +2,7 @@
 layout: base
 title:  'Dataset release checklist'
 udver: '2'
+redirect_from: "/release_checklist.html"
 ---
 
 # Release checklist
