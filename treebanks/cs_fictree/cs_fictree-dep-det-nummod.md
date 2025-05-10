@@ -46,7 +46,7 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 3	nic	nic	PRON	PW--1----------	Case=Nom|PronType=Neg	2	obj	2:obj	_
 4	víc	víc	DET	Ca--1----------	Case=Nom|NumType=Card|PronType=Ind	3	det:nummod	3:det:nummod	_
 5	než	než	SCONJ	J,-------------	_	6	mark	6:mark	_
-6	vrčení	vrčení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	4	advcl	4:advcl:než	_
+6	vrčení	vrčení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	3	advcl	3:advcl:než	_
 7	mašiny	mašina	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	6	nmod	6:nmod:gen	_
 8	odkudsi	odkudsi	ADV	Db-------------	PronType=Ind	9	advmod	9:advmod	_
 9	zezadu	zezadu	ADV	Db-------------	_	6	advmod	6:advmod	SpaceAfter=No

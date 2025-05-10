@@ -124,7 +124,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (170; 92%),
-<tt>VERB --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (52; 85%),
+<tt>VERB --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (53; 85%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (50; 83%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (49; 92%),
 <tt>ADJ --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (40; 93%),

@@ -48,7 +48,7 @@ The following 27 pairs of parts of speech are connected with `mark`: <tt><a href
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 4	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_
 5	aussi	aussi	ADV	_	_	6	advmod	_	_
-6	anxieux	anxieux	ADJ	_	Gender=Masc	0	root	_	_
+6	anxieux	anxieux	ADJ	_	Gender=Masc	0	root	_	Number[ctxt]=Sing
 7	qu'	que	SCONJ	_	_	10	mark	_	SpaceAfter=No
 8	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_
 9	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	10	expl:comp	_	_
@@ -70,7 +70,7 @@ The following 27 pairs of parts of speech are connected with `mark`: <tt><a href
 4	que	que	SCONJ	_	_	3	fixed	_	InIdiom=Yes
 5	vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
 6	ne	ne	ADV	_	Polarity=Neg	7	advmod	_	_
-7	prenez	prendre	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Cxn=Interrogative-Polar-Direct|CxnElt=7:Interrogative-Polar-Direct.Clause
+7	prenez	prendre	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	_
 9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
 10	choses	chose	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_

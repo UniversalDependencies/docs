@@ -68,7 +68,7 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 11 ccomp	color:blue
 1	Mais	mais	CCONJ	_	_	3	cc	_	_
-2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 3	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	en	en	ADP	_	_	6	case	_	_
 5	tout	tout	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_

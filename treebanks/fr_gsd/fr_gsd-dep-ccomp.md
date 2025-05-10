@@ -26,9 +26,9 @@ The following 31 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 2	Zran	Zran	PROPN	_	_	1	flat:name	_	_
 3	sait	savoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	de	de	ADP	_	_	5	case	_	_
-5	quoi	quoi	PRON	_	PronType=Int	7	obl:arg	_	CxnElt=7:Interrogative-WHInfo-Indirect.WHWord
+5	quoi	quoi	PRON	_	PronType=Int	7	obl:arg	_	_
 6	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
-7	parle	parler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	Cxn=Interrogative-WHInfo-Indirect|CxnElt=7:Interrogative-WHInfo-Indirect.Clause|SpaceAfter=No
+7	parle	parler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -45,7 +45,7 @@ The following 31 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 4	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_
 5	aussi	aussi	ADV	_	_	6	advmod	_	_
-6	anxieux	anxieux	ADJ	_	Gender=Masc	0	root	_	_
+6	anxieux	anxieux	ADJ	_	Gender=Masc	0	root	_	Number[ctxt]=Sing
 7	qu'	que	SCONJ	_	_	10	mark	_	SpaceAfter=No
 8	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_
 9	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	10	expl:comp	_	_

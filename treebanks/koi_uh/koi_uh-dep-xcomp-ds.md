@@ -24,14 +24,14 @@ The following 1 pairs of parts of speech are connected with `xcomp:ds`: <tt><a h
 # visual-style 6 7 xcomp:ds	color:blue
 1	Сія	сія	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
 2	ӧвтыштіс	ӧвтыштны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
-3	мелань	ме	PRON	Pron	Case=Apr|Number=Sing|Person=1|PronType=Prs	2	obl:lmod	_	GTtags=Pers,Sg1,Apr
+3	мелань	ме	PRON	Pron	Case=Apr|Number=Sing|Person=1|PronType=Prs	2	obl	_	GTtags=Pers,Sg1,Apr
 4	кинас	ки	NOUN	N	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obl	_	GTtags=Sg,Ins,PxSg3|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	тшӧктіс	тшӧктыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Sg3
 7	онмӧссьыны	онмӧссьыны	VERB	V	VerbForm=Inf	6	xcomp:ds	_	GTtags=Inf
 8	и	и	CCONJ	CC	_	9	cc	_	_
 9	муніс	мунны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Sg3
-10	керку	керку	NOUN	N	Case=Nom|Number=Sing	9	obl:lmod	_	GTtags=Sg,Nom
+10	керку	керку	NOUN	N	Case=Nom|Number=Sing	9	obl	_	GTtags=Sg,Nom
 11	бокӧ	бокӧ	ADP	Adp	AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing	10	case	_	GTtags=Po,Spat,Sg,Ill|SpaceAfter=No
 12	,	,	PUNCT	CLB	_	14	punct	_	_
 13	кытӧн	кытӧн	ADV	Adv	AdvType=Loc|Case=Ine|PronType=Rel	14	mark	_	GTtags=Spat,Ine,Rel

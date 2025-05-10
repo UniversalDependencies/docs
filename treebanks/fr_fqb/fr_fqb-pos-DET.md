@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>le</em> (<tt><a href="fr_fqb-pos-DET.
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.333333 (the average of all parts of speech is 1.164044).
+The form / lemma ratio of `DET` is 2.333333 (the average of all parts of speech is 1.164665).
 
 The 1st highest number of forms (11) was observed with the lemma “son”: <em>leur, leurs, ma, mes, mon, notre, sa, ses, son, vos, votre</em>.
 

@@ -67,7 +67,7 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 3 2 cop	color:blue
 1	Vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	wordform=vous
 2	êtes	être	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	abonné	abonner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Cxn=Interrogative-Polar-Direct|CxnElt=3:Interrogative-Polar-Direct.Clause
+3	abonné	abonner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 4	à	à	ADP	_	_	6	case	_	_
 5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	site	site	NOUN	_	Gender=Masc|Number=Sing	3	obl:arg	_	_

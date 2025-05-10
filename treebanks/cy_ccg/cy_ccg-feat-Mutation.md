@@ -202,7 +202,8 @@ The most frequent other feature values with which `PRON` and `Mutation` co-occur
 
 <table>
   <tr><th>Paradigm <i>pa</i></th><th><tt>NM</tt></th><th><tt>SM</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>mha</em></td><td><em>ba</em></td></tr>
+  <tr><td><tt>_</tt></td><td><em>mha</em></td><td><em>ba</em></td></tr>
+  <tr><td><tt><tt><a href="cy_ccg-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt></tt></td><td></td><td><em>ba</em></td></tr>
 </table>
 
 ### `SCONJ`

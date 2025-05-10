@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fi_ftb-dep-compound.html">compound</a></tt>.
 There are also 1 other language-specific subtypes of `compound`: <tt><a href="fi_ftb-dep-compound-nn.html">compound:nn</a></tt>.
 
-380 nodes (0%) are attached to their parents as `compound:prt`.
+392 nodes (0%) are attached to their parents as `compound:prt`.
 
-355 instances of `compound:prt` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.66842105263158.
+356 instances of `compound:prt` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.64795918367347.
 
-The following 5 pairs of parts of speech are connected with `compound:prt`: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (191; 50% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (178; 47% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `compound:prt`: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (193; 49% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (187; 48% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,8 +26,8 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 1	"	"	PUNCT	Pun,Quo,Ini	PunctSide=Ini	2	punct	_	Missed-SUBCAT=QUOTATION
 2	Istuu	istua	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	kymmenen	kymmenen	NUM	Num,Card,Sg,Nom	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	_
-4	vuotta	vuosi	NOUN	N,Sg,Par	Case=Par|Number=Sing	2	nmod	_	_
-5	pytyssä	pytty	NOUN	N,Sg,Ine	Case=Ine|Number=Sing	2	nmod	_	_
+4	vuotta	vuosi	NOUN	N,Sg,Par	Case=Par|Number=Sing	2	obl	_	_
+5	pytyssä	pytty	NOUN	N,Sg,Ine	Case=Ine|Number=Sing	2	obl	_	_
 6	ell	jos	SCONJ	Pcle,CS	_	8	mark	_	Join=Yes
 7	ei	ei	AUX	V,Neg,Act,Sg3	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	8	aux	_	_
 8	anna	antaa	VERB	V,Act,Ind,Pres,ConNeg	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
@@ -51,7 +51,7 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 4	rynnätä	rynnätä	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	3	xcomp	_	Alt=3_xcomp
 5	pois	pois	ADV	Adv	_	4	advmod	_	_
 6	koko	koko	ADJ	A	_	7	amod	_	_
-7	salista	sali	NOUN	N,Sg,Ela	Case=Ela|Number=Sing	4	nmod	_	_
+7	salista	sali	NOUN	N,Sg,Ela	Case=Ela|Number=Sing	4	obl	_	_
 
 ~~~
 
@@ -68,7 +68,7 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 4	edeltä	edeltä	ADV	Adv	_	3	advmod	_	_
 5	käsin	käsin	ADP	Adp	_	4	case	_	_
 6	selvää	selvä	ADJ	A,Sg,Par	Case=Par|Number=Sing	3	compound:prt	_	_
-7	kustannuksista	kustannus	NOUN	N,Pl,Ela	Case=Ela|Number=Plur	3	nmod	_	_
+7	kustannuksista	kustannus	NOUN	N,Pl,Ela	Case=Ela|Number=Plur	3	obl	_	_
 
 ~~~
 

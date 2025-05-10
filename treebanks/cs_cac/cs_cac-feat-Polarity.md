@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-136126 tokens (28%) have a non-empty value of `Polarity`.
-36253 types (58%) occur at least once with a non-empty value of `Polarity`.
-13097 lemmas (46%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (72710; 15% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (38748; 8% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (14049; 3% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (10619; 2% instances).
+136116 tokens (28%) have a non-empty value of `Polarity`.
+36252 types (58%) occur at least once with a non-empty value of `Polarity`.
+13095 lemmas (46%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (72708; 15% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (38748; 8% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (14049; 3% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (10611; 2% instances).
 
 ### `ADJ`
 
-72710 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Polarity`.
+72708 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (67904; 93%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (60517; 83%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (60517; 83%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (46006; 63%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (44318; 61%).
+The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (67903; 93%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (60515; 83%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (60515; 83%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (46005; 63%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (44316; 61%).
 
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (1354; 2% of non-empty `Polarity`): <em>nezbytné, neposlední, neželezných, nedávné, nežádoucí, nevhodné, nezbytnou, nezbytná, nebezpečné, nemalou</em>
-* `Pos` (71356; 98% of non-empty `Polarity`): <em>další, pracovní, jednotlivých, základní, nové, možno, socialistické, různých, dalších, větší</em>
+* `Pos` (71354; 98% of non-empty `Polarity`): <em>další, pracovní, jednotlivých, základní, nové, možno, socialistické, různých, dalších, větší</em>
 * `EMPTY` (1512): <em>první, prvním, třetí, prvních, prvního, šedesátých, třetího, třicátých, Karlovy, dvacátých</em>
 
 <table>
@@ -140,7 +140,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>největší</em></td><td></td></tr>
 </table>
 
-`Polarity` seems to be **lexical feature** of `ADJ`. 96% lemmas (7940) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `ADJ`. 96% lemmas (7938) occur only with one value of `Polarity`.
 
 ### `VERB`
 
@@ -219,15 +219,15 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 ### `ADV`
 
-10619 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (38% of all `ADV` tokens) have a non-empty value of `Polarity`.
+10611 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (38% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (10619; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8637; 81%).
+The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (10611; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8629; 81%).
 
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (400; 4% of non-empty `Polarity`): <em>neustále, nezřídka, neméně, neobyčejně, nesmírně, nesporně, nepřímo, nepochybně, nezávisle, nedostatečně</em>
-* `Pos` (10219; 96% of non-empty `Polarity`): <em>tedy, více, dále, často, stále, dobře, přímo, současně, stejně, hlavně</em>
-* `EMPTY` (17514): <em>tak, také, jak, proto, již, už, ještě, pak, kde, velmi</em>
+* `Pos` (10211; 96% of non-empty `Polarity`): <em>tedy, více, dále, často, stále, dobře, přímo, současně, stejně, hlavně</em>
+* `EMPTY` (17478): <em>tak, také, jak, proto, již, už, ještě, pak, kde, velmi</em>
 
 <table>
   <tr><th>Paradigm <i>málo</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -247,7 +247,7 @@ The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>ADJ --[<tt><a href="cs_cac-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (3047; 51%),
 <tt>VERB --[<tt><a href="cs_cac-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (2833; 84%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (2383; 95%),
-<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1348; 80%),
+<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1347; 80%),
 <tt>VERB --[<tt><a href="cs_cac-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (928; 84%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (783; 93%),
 <tt>VERB --[<tt><a href="cs_cac-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (602; 75%).

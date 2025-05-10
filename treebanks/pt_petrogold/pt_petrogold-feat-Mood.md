@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-12733 tokens (5%) have a non-empty value of `Mood`.
-1552 types (10%) occur at least once with a non-empty value of `Mood`.
+12732 tokens (5%) have a non-empty value of `Mood`.
+1551 types (10%) occur at least once with a non-empty value of `Mood`.
 608 lemmas (6%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (7392; 3% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (5341; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (7391; 3% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (5341; 2% instances).
 
 ### `VERB`
 
-7392 <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> tokens (36% of all `VERB` tokens) have a non-empty value of `Mood`.
+7391 <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> tokens (36% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="pt_petrogold-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7392; 100%), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7391; 100%), <tt><a href="pt_petrogold-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7382; 100%), <tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt> (7319; 99%), <tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5927; 80%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5151; 70%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="pt_petrogold-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7391; 100%), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7390; 100%), <tt><a href="pt_petrogold-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7381; 100%), <tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt> (7318; 99%), <tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5926; 80%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5150; 70%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (84; 1% of non-empty `Mood`): <em>poderia, poderiam, teria, ocorreria, resultaria, teriam, aumentaria, contribuiria, ocorreriam, possibilitaria</em>
 * `Imp` (7; 0% of non-empty `Mood`): <em>vide</em>
-* `Ind` (6938; 94% of non-empty `Mood`): <em>pode, podem, apresenta, tem, apresentam, deve, mostra, ocorre, possui, encontra</em>
+* `Ind` (6937; 94% of non-empty `Mood`): <em>pode, podem, apresenta, tem, apresentam, deve, mostra, ocorre, possui, encontra</em>
 * `Sub` (363; 5% of non-empty `Mood`): <em>seja, possa, tenha, ocorra, haja, apresentem, apresente, possam, exista, venha</em>
-* `EMPTY` (12967): <em>partir, devido, utilizando, utilizado, utilizados, obtidos, apresentados, utilizada, observado, produzida</em>
+* `EMPTY` (12966): <em>partir, devido, utilizando, utilizado, utilizados, obtidos, apresentados, utilizada, observado, produzida</em>
 
 <table>
   <tr><th>Paradigm <i>poder</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -72,7 +72,8 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> VERB</tt> (428; 57%),
+<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> VERB</tt> (427; 57%),
+<tt>VERB --[<tt><a href="pt_petrogold-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
 

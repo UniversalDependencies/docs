@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Marie Candito, Djamé Seddah, Guy Perrier, Bruno Guillaume.
 
 Repository: [UD_French-Sequoia](https://github.com/UniversalDependencies/UD_French-Sequoia)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: LGPL-LR
 
@@ -85,7 +85,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 
 ## Features
 
-[Definite](fr_sequoia-feat-Definite.html) – [ExtPos](fr_sequoia-feat-ExtPos.html) – [Foreign](fr_sequoia-feat-Foreign.html) – [Gender](fr_sequoia-feat-Gender.html) – [Mood](fr_sequoia-feat-Mood.html) – [Number](fr_sequoia-feat-Number.html) – [Number[psor]](fr_sequoia-feat-Number-psor.html) – [NumType](fr_sequoia-feat-NumType.html) – [Person](fr_sequoia-feat-Person.html) – [Person[psor]](fr_sequoia-feat-Person-psor.html) – [Polarity](fr_sequoia-feat-Polarity.html) – [Poss](fr_sequoia-feat-Poss.html) – [PronType](fr_sequoia-feat-PronType.html) – [Reflex](fr_sequoia-feat-Reflex.html) – [Tense](fr_sequoia-feat-Tense.html) – [Typo](fr_sequoia-feat-Typo.html) – [VerbForm](fr_sequoia-feat-VerbForm.html) – [Voice](fr_sequoia-feat-Voice.html)
+[Definite](fr_sequoia-feat-Definite.html) – [Emph](fr_sequoia-feat-Emph.html) – [ExtPos](fr_sequoia-feat-ExtPos.html) – [Foreign](fr_sequoia-feat-Foreign.html) – [Gender](fr_sequoia-feat-Gender.html) – [Mood](fr_sequoia-feat-Mood.html) – [Number](fr_sequoia-feat-Number.html) – [Number[psor]](fr_sequoia-feat-Number-psor.html) – [NumType](fr_sequoia-feat-NumType.html) – [Person](fr_sequoia-feat-Person.html) – [Person[psor]](fr_sequoia-feat-Person-psor.html) – [Polarity](fr_sequoia-feat-Polarity.html) – [Poss](fr_sequoia-feat-Poss.html) – [PronType](fr_sequoia-feat-PronType.html) – [Reflex](fr_sequoia-feat-Reflex.html) – [Tense](fr_sequoia-feat-Tense.html) – [Typo](fr_sequoia-feat-Typo.html) – [VerbForm](fr_sequoia-feat-VerbForm.html) – [Voice](fr_sequoia-feat-Voice.html)
 
 ## Relations
 
@@ -128,7 +128,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 </ul>
 
 <ul>
-<li>This corpus contains 39 lemmas tagged as pronouns (PRON): aucun, autre, ce, ceci, cela, celui, celui-ci, certain, chacun, dont, en, eux, eux-mêmes, lequel, lui, lui-même, moi, moi-même, nous, nul, nôtre, on, où, personne, plusieurs, que, quelqu'un, qui, quiconque, quoi, rien, soi, toi, tout, un, vous, vous-même, y, ça</li>
+<li>This corpus contains 40 lemmas tagged as pronouns (PRON): aucun, autre, ce, ceci, cela, celui, celui-ci, certain, chacun, dont, en, eux, eux-mêmes, le, lequel, lui, lui-même, moi, moi-même, nous, nul, nôtre, on, où, personne, plusieurs, que, quelqu'un, qui, quiconque, quoi, rien, soi, toi, tout, un, vous, vous-même, y, ça</li>
 </ul>
 
 <ul>
@@ -136,7 +136,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: aucun, ce, certain, plusieurs, tout, un</li>
+<li>Out of the above, 7 lemmas occurred sometimes as PRON and sometimes as DET: aucun, ce, certain, le, plusieurs, tout, un</li>
 </ul>
 
 <ul>
@@ -203,7 +203,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
     <ul>
       <li>ADJ: français, tous, ancien, osseux, zolédronique, premier, nombreux, dernier, compris, faux</li>
       <li>AUX-Part: fait</li>
-      <li>DET: le, un, ce, cet, aucun, tout, du, certains, quel, tous</li>
+      <li>DET: le, un, ce, cet, aucun, tout, du, certains, quel, divers</li>
       <li>NOUN: %, patients, mg, ans, cas, traitement, président, effets, M., cours</li>
       <li>NUM: neuf</li>
       <li>PRON: il, ce, ils, un, le, -il, lui, eux, ceux, lequel</li>
@@ -282,7 +282,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: pas, n', ne, non, plus, jamais, guère, que</li>
+      <li>ADV: pas, n', ne, non, que, plus, jamais, qu', guère</li>
     </ul>
   </li>
 </ul>
@@ -471,7 +471,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: première, premier, dernier, 3e, deuxième, 1er, premiers, troisième, quatrième, 21e</li>
+      <li>ADJ: première, premier, dernier, deuxième, 3e, premiers, troisième, quatrième, 1er, derniers</li>
     </ul>
   </li>
 </ul>
@@ -553,13 +553,29 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 
 
 <ul>
+  <li><a>Emph</a>
+    <ul>
+      <li>No
+        <ul>
+          <li>PRON: il, je, elle, ils, j', le, l', me, les, -il</li>
+        </ul>
+      </li>
+      <li>Yes
+        <ul>
+          <li>PRON: lui, eux, moi, elle, Toi</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>ExtPos</a>
     <ul>
       <li>ADJ
         <ul>
           <li>ADP: d', en, à, de</li>
           <li>CCONJ: et</li>
-          <li>NUM: neuf</li>
           <li>X: in</li>
         </ul>
       </li>
@@ -569,6 +585,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
           <li>ADV: tout, non</li>
           <li>NOUN: suite, grâce, face</li>
           <li>PRON: y, il</li>
+          <li>SYM: <</li>
         </ul>
       </li>
       <li>ADV
@@ -576,7 +593,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
           <li>ADJ: petit</li>
           <li>ADP: à, de, en, d', dès, auprès, entre, pour, A, Par</li>
           <li>ADV: lors, bien, quant, tout, non, aussi, quand, ne</li>
-          <li>DET: un, le, une</li>
+          <li>DET: un, une, le</li>
           <li>NOUN: compte</li>
           <li>PRON: c', y, il</li>
           <li>SCONJ: si</li>
@@ -603,6 +620,11 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
           <li>INTJ: Eh</li>
         </ul>
       </li>
+      <li>NOUN
+        <ul>
+          <li>ADP: pour</li>
+        </ul>
+      </li>
       <li>PRON
         <ul>
           <li>ADP: de</li>
@@ -619,9 +641,14 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
       <li>SCONJ
         <ul>
           <li>ADP: dans</li>
-          <li>ADV: alors, bien, même, tandis, quand</li>
+          <li>ADV: alors, bien, parce, même, tandis, quand</li>
           <li>SCONJ: parce</li>
           <li>VERB-Part: vu</li>
+        </ul>
+      </li>
+      <li>VERB
+        <ul>
+          <li>SYM: =, <</li>
         </ul>
       </li>
     </ul>
@@ -689,7 +716,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (781)</li>
+      <li>VERB-Fin--NOUN (773)</li>
       <li>VERB-Fin--NOUN-ADP(que) (1)</li>
       <li>VERB-Fin--PRON (873)</li>
       <li>VERB-Inf--NOUN (10)</li>
@@ -703,7 +730,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (624)</li>
+      <li>VERB-Fin--NOUN (620)</li>
       <li>VERB-Fin--NOUN-ADP(jusque)-ADP(à) (1)</li>
       <li>VERB-Fin--PRON (139)</li>
       <li>VERB-Inf--NOUN (687)</li>

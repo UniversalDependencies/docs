@@ -28,8 +28,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="say_autogramm-pos-X
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>X --[<tt><a href="say_autogramm-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (89; 100%),
-<tt>X --[<tt><a href="say_autogramm-dep-fixed.html">fixed</a></tt>]--> X</tt> (10; 100%),
+<tt>X --[<tt><a href="say_autogramm-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (98; 100%),
 <tt>X --[<tt><a href="say_autogramm-dep-nmod.html">nmod</a></tt>]--> X</tt> (4; 80%),
 <tt>X --[<tt><a href="say_autogramm-dep-reparandum.html">reparandum</a></tt>]--> X</tt> (4; 100%),
 <tt>X --[<tt><a href="say_autogramm-dep-parataxis.html">parataxis</a></tt>]--> X</tt> (3; 100%),
@@ -37,5 +36,6 @@ The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>X --[<tt><a href="say_autogramm-dep-flat.html">flat</a></tt>]--> X</tt> (2; 100%),
 <tt>X --[<tt><a href="say_autogramm-dep-appos.html">appos</a></tt>]--> X</tt> (1; 100%),
 <tt>X --[<tt><a href="say_autogramm-dep-compound.html">compound</a></tt>]--> X</tt> (1; 100%),
+<tt>X --[<tt><a href="say_autogramm-dep-dep.html">dep</a></tt>]--> X</tt> (1; 100%),
 <tt>X --[<tt><a href="say_autogramm-dep-dislocated.html">dislocated</a></tt>]--> X</tt> (1; 100%).
 

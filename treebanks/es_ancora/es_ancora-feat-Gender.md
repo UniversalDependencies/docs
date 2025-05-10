@@ -153,7 +153,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (57022; 85%),
+<tt>NOUN --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (57023; 85%),
 <tt>NOUN --[<tt><a href="es_ancora-dep-amod.html">amod</a></tt>]--> ADJ</tt> (16842; 63%),
 <tt>NOUN --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2526; 54%),
 <tt>DET --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (1041; 85%),

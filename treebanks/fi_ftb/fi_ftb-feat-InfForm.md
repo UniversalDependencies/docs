@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-5325 tokens (3%) have a non-empty value of `InfForm`.
-2067 types (5%) occur at least once with a non-empty value of `InfForm`.
-1140 lemmas (5%) occur at least once with a non-empty value of `InfForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (5120; 3% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (205; 0% instances).
+5457 tokens (3%) have a non-empty value of `InfForm`.
+2083 types (5%) occur at least once with a non-empty value of `InfForm`.
+1144 lemmas (5%) occur at least once with a non-empty value of `InfForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (5253; 3% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (204; 0% instances).
 
 ### `VERB`
 
-5120 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (19% of all `VERB` tokens) have a non-empty value of `InfForm`.
+5253 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (19% of all `VERB` tokens) have a non-empty value of `InfForm`.
 
-The most frequent other feature values with which `VERB` and `InfForm` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5120; 100%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5120; 100%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (5120; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5120; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5120; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (5120; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5082; 99%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Lat</tt> (3218; 63%).
+The most frequent other feature values with which `VERB` and `InfForm` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5253; 100%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5253; 100%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (5253; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5253; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5253; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (5253; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5215; 99%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Lat</tt> (3219; 61%).
 
 `VERB` tokens may have the following values of `InfForm`:
 
-* `1` (3342; 65% of non-empty `InfForm`): <em>olla, tehdä, mennä, tulla, saada, ottaa, lähteä, sanoa, käydä, käyttää</em>
-* `2` (414; 8% of non-empty `InfForm`): <em>ollen, ottaen, lukien, tullen, tullessaan, katsoen, sanoen, ollessa, yllättäen, käyttäen</em>
-* `3` (1364; 27% of non-empty `InfForm`): <em>tulemaan, tekemään, katsomaan, nukkumaan, puhumaan, tekemättä, maksamaan, olemaan, ottamaan, toimimaan</em>
+* `1` (3343; 64% of non-empty `InfForm`): <em>olla, tehdä, mennä, tulla, saada, ottaa, lähteä, sanoa, käydä, käyttää</em>
+* `2` (501; 10% of non-empty `InfForm`): <em>lähtien, lukien, alkaen, nähden, katsoen, ollen, ottaen, riippuen, tullen, tullessaan</em>
+* `3` (1409; 27% of non-empty `InfForm`): <em>tulemaan, huolimatta, tekemään, katsomaan, nukkumaan, puhumaan, tekemättä, maksamaan, olemaan, ottamaan</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -43,13 +43,13 @@ The most frequent other feature values with which `VERB` and `InfForm` co-occurr
 
 ### `AUX`
 
-205 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `InfForm`.
+204 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `InfForm`.
 
-The most frequent other feature values with which `AUX` and `InfForm` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (205; 100%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (205; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (205; 100%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (205; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (205; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (205; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (205; 100%).
+The most frequent other feature values with which `AUX` and `InfForm` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (204; 100%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (204; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (204; 100%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (204; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (204; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (204; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (204; 100%).
 
 `AUX` tokens may have the following values of `InfForm`:
 
-* `1` (181; 88% of non-empty `InfForm`): <em>olla, voida, ollakseen, ollapa, täytyä, Ollaksesi, joutua, voidakseen</em>
+* `1` (180; 88% of non-empty `InfForm`): <em>olla, voida, ollakseen, ollapa, täytyä, Ollaksesi, voidakseen</em>
 * `2` (8; 4% of non-empty `InfForm`): <em>ollen, ollessa, ollessani, ollessaan</em>
 * `3` (16; 8% of non-empty `InfForm`): <em>olemaan, olemasta, oleen</em>
 
@@ -71,5 +71,5 @@ The most frequent other feature values with which `AUX` and `InfForm` co-occurre
 ## Relations with Agreement in `InfForm`
 
 The 10 most frequent relations where parent and child node agree in `InfForm`:
-<tt>VERB --[<tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (3; 100%).
+<tt>VERB --[<tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (2; 100%).
 

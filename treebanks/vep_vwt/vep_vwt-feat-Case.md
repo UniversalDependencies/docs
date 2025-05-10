@@ -11,7 +11,7 @@ It occurs with 13 different values: `Abl`, `Ade`, `All`, `Com`, `Ela`, `Ess`, `G
 
 619 tokens (48%) have a non-empty value of `Case`.
 386 types (65%) occur at least once with a non-empty value of `Case`.
-235 lemmas (61%) occur at least once with a non-empty value of `Case`.
+232 lemmas (61%) occur at least once with a non-empty value of `Case`.
 The feature is used with 6 part-of-speech tags: <tt><a href="vep_vwt-pos-NOUN.html">NOUN</a></tt> (310; 24% instances), <tt><a href="vep_vwt-pos-PRON.html">PRON</a></tt> (168; 13% instances), <tt><a href="vep_vwt-pos-ADJ.html">ADJ</a></tt> (78; 6% instances), <tt><a href="vep_vwt-pos-PROPN.html">PROPN</a></tt> (45; 3% instances), <tt><a href="vep_vwt-pos-NUM.html">NUM</a></tt> (11; 1% instances), <tt><a href="vep_vwt-pos-VERB.html">VERB</a></tt> (7; 1% instances).
 
 ### `NOUN`
@@ -46,17 +46,17 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 168 <tt><a href="vep_vwt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="vep_vwt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (150; 89%), <tt><a href="vep_vwt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (125; 74%), <tt><a href="vep_vwt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (102; 61%), <tt><a href="vep_vwt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (85; 51%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="vep_vwt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (149; 89%), <tt><a href="vep_vwt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (120; 71%), <tt><a href="vep_vwt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (102; 61%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Ade` (3; 2% of non-empty `Case`): <em>Teil, kudambal, necil</em>
 * `All` (11; 7% of non-empty `Case`): <em>minei, Teile, heile, hänele, kaikile, meile</em>
 * `Ela` (1; 1% of non-empty `Case`): <em>heišpäi</em>
-* `Gen` (40; 24% of non-empty `Case`): <em>meiden, minun, kaiken, heiden, ičein, necen, sen, hänen, Teiden, ičeze</em>
+* `Gen` (54; 32% of non-empty `Case`): <em>ičeze, meiden, minun, kaiken, heiden, ičein, necen, sen, hänen, ičetoi</em>
 * `Ill` (2; 1% of non-empty `Case`): <em>neche</em>
 * `Ine` (7; 4% of non-empty `Case`): <em>kaikes, neciš, Niiš, sinus, toižiš</em>
-* `Nom` (90; 54% of non-empty `Case`): <em>minä, ičeze, nece, mö, kaik, hän, se, Tö, kudambad, hö</em>
+* `Nom` (76; 45% of non-empty `Case`): <em>minä, nece, mö, kaik, hän, se, Tö, kudambad, hö, mitte</em>
 * `Par` (14; 8% of non-empty `Case`): <em>midä-se, mindai, necidä, Mittušt, Teid, ičtaze, ked, meid, midä, sidä</em>
 
 <table>

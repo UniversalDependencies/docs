@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>guð</em> (<tt><a href="is_icepahc-po
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.361227 (the average of all parts of speech is 1.856953).
+The form / lemma ratio of `PROPN` is 1.361227 (the average of all parts of speech is 1.857072).
 
 The 1st highest number of forms (16) was observed with the lemma “kristur”: <em>Christo, Christus, Cristum, Cristus, Krists, Kristí, Kristínu, Kristó, christi, christum, krist, kristi, kristo, kristum, kristur, kristus</em>.
 

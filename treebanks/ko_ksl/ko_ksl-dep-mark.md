@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-510 nodes (1%) are attached to their parents as `mark`.
+838 nodes (1%) are attached to their parents as `mark`.
 
-506 instances of `mark` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.05686274509804.
+834 instances of `mark` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03937947494033.
 
-The following 6 pairs of parts of speech are connected with `mark`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (487; 95% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (12; 2% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (797; 95% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (19; 2% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,17 +22,17 @@ The following 6 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 mark	color:blue
-1	홍상을	홍상+을	NOUN	NF+JKO	_	2	obj	_	_
-2	먹은	먹+은	VERB	VV+ETM	_	11	advcl	_	_
-3	후에	후+에	ADV	NNG+JKB	_	2	mark	_	_
-4	피로와	피로+와	NOUN	NNG+JC	_	10	nsubj	_	_
-5	스트레스	스트레스	NOUN	NNG	_	4	conj	_	_
-6	등	등	NOUN	NNB	_	5	case	_	_
-7	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
-8	것이	것+이	NOUN	NNB+JKS	_	4	appos	_	_
-9	점점	점점	ADV	MAG	_	10	advmod	_	_
-10	사러져	사러지+어	VERB	NV+EC	_	11	advcl	_	_
-11	없습니다	없+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+1	단지	단지	ADV	MAG	_	2	advmod	_	_
+2	운동할	운동+하+ㄹ	VERB	NNG+XSV+ETM	_	4	advcl	_	_
+3	때	때	ADV	NNG	_	2	mark	_	_
+4	주의해야	주의+하+아야	VERB	NNG+XSV+EC	_	6	acl	_	_
+5	하는	하	AUX	VX+ETM	_	4	aux	_	_
+6	것은	것+은	NOUN	NNB+JX	_	11	nsubj	_	_
+7	식후에	식+후+에	ADV	NNG+XSN+JKB	_	9	obl	_	_
+8	바로	바로	ADV	MAG	_	9	advmod	_	_
+9	운동하면	운동+하+면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+10	건강에	건강+에	ADV	NNG+JKB	_	11	obl	_	_
+11	해롭습니다	해+롭+습니다	VERB	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	SF	_	11	punct	_	_
 
 ~~~
@@ -44,34 +44,35 @@ The following 6 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 mark	color:blue
-1	그대로	그대로	ADV	MAG	_	2	advmod	_	_
-2	끝나버리는	끝나버리+는	NOUN	VV+ETM	_	10	advcl	_	_
-3	바람에	바람+에	ADV	NNB+JKB	_	2	mark	_	_
-4	이	이	DET	MM	_	5	det	_	_
-5	영화가	영화+가	NOUN	NNG+JKS	_	10	nsubj	_	_
-6	정말	정말	ADV	MAG	_	9	advmod	_	_
-7	여운이	여운+이	NOUN	NNG+JKS	_	9	nsubj	_	_
-8	많이	많이	ADV	MAG	_	9	advmod	_	_
-9	남는	남+는	VERB	VV+ETM	_	10	acl	_	_
-10	작품이었다	작품+이+었+다	VERB	NNG+VCP+EP+EF	_	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	SF	_	10	punct	_	_
+1	나는	나+는	PRON	NP+JX	_	5	nsubj	_	_
+2	어렸	어리+었	NOUN	VA+EP	_	5	advcl	_	_
+3	을때	을+때	ADV	ETM+NNG	_	2	mark	_	_
+4	돈을	돈+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	벌고	벌+고	VERB	VV+EC	_	0	root	_	_
+6	싶었습니다	싶	AUX	VX+EP+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 mark	color:blue
-1	무대에서	무대+에서	ADV	NNG+JKB	_	2	obl	_	_
-2	공연할	공연+하+ㄹ	VERB	NNG+XSV+ETM	_	6	advcl	_	_
-3	때마다	때+마다	ADV	NNG+JX	_	6	mark	_	_
-4	수호는	수호+는	NOUN	NNP+JX	_	6	nsubj	_	_
-5	아주	아주	ADV	MAG	_	6	advmod	_	_
-6	멋있습니다	멋+있+습니다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	SF	_	6	punct	_	_
+# visual-style 3 4 mark	color:blue
+1	하지만	하지만	ADV	MAJ	_	11	cc	_	_
+2	배이	배+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	침물한	침물+하+ㄴ	ADJ	NNG+XSV+ETM	_	11	advcl	_	_
+4	탓에	탓+에	ADV	NNG+JKB	_	3	mark	_	_
+5	남자	남자	NOUN	NNG	_	6	nmod	_	_
+6	주인동과	주인동+과	NOUN	NF+JC	Typo=Yes	9	nsubj	_	_
+7	여자	여자	NOUN	NNG	_	8	nmod	_	_
+8	주인공이	주인공+이	NOUN	NNG+JKS	_	6	conj	_	_
+9	행복하는	행복+하+는	VERB	NNG+XSA+ETM	_	10	acl	_	_
+10	시간은	시간+은	NOUN	NNG+JX	_	11	nsubj	_	_
+11	짧았다	짧+았+다	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
 
 ~~~
 

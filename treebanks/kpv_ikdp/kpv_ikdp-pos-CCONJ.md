@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: POS Tags: `CCONJ`
 
-There are 8 `CCONJ` lemmas (1%), 6 `CCONJ` types (1%) and 123 `CCONJ` tokens (5%).
-Out of 16 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 15 in number of types and 6 in number of tokens.
+There are 6 `CCONJ` lemmas (1%), 6 `CCONJ` types (1%) and 123 `CCONJ` tokens (5%).
+Out of 16 observed tags, the rank of `CCONJ` is: 15 in number of lemmas, 15 in number of types and 6 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>и, а, да, но, или, _, али, но·и</em>
+The 10 most frequent `CCONJ` lemmas: <em>и, а, но, да, или, али</em>
 
 The 10 most frequent `CCONJ` types:  <em>и, а, но, да, или, али</em>
 
-The 10 most frequent ambiguous lemmas: <em>и</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 43, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 9, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 7), <em>а</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 31, <tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> 2), <em>да</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 22, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 10, <tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 1), <em>но</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 22, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 3, <tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> 2), <em>_</em> (<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> 13, <tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>и</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 44, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 9, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 7), <em>а</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 31, <tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> 2), <em>но</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 23, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 3, <tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> 2), <em>да</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 22, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 10, <tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 25, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 9, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 7), <em>но</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 3), <em>да</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 20, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 10, <tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 1)
 
@@ -33,15 +33,21 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="kpv_ikdp-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 0.750000 (the average of all parts of speech is 1.332474).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.341115).
 
-The 1st highest number of forms (1) was observed with the lemma “_”: <em>и</em>.
+The 1st highest number of forms (1) was observed with the lemma “а”: <em>а</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “а”: <em>а</em>.
+The 2nd highest number of forms (1) was observed with the lemma “али”: <em>али</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “али”: <em>али</em>.
+The 3rd highest number of forms (1) was observed with the lemma “да”: <em>да</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="kpv_ikdp-feat-ExtPos.html">ExtPos</a></tt> (1; 1% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (122 tokens).
+Examples: <em>и, а, да, но, или, али</em>
 
 
 ## Relations

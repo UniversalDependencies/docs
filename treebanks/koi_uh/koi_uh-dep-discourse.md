@@ -38,7 +38,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 14	ас	ас	PRON	Pron	PronType=Prs|Reflex=Yes	11	appos	_	GTtags=Pron,Refl,Cmpl
 15	кежас	кежӧ	ADP	Adp	AdpType=Post|Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	14	case	_	GTtags=Po,Sg,Ill,PxSg3|SpaceAfter=No
 16	,	,	PUNCT	CLB	_	14	punct	_	_
-17	сэсся	сэсся	ADV	Adv	_	19	advmod:tmod	_	_
+17	сэсся	сэсся	ADV	Adv	AdvType=Tim	19	advmod	_	_
 18	ыш	ыш	INTJ	Interj	_	19	compound:prt	_	_
 19	ловзисис	ловзисьны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 20	.	.	PUNCT	CLB	_	2	punct	_	_
@@ -56,8 +56,8 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	абу	абу	AUX	_	Polarity=Neg	4	aux:neg	_	_
 4	сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	0	root	_	GTtags=Pers,Sg3,Nom
-5	талун	талун	NOUN	_	Case=Nom|Number=Sing	4	obl:tmod	_	GTtags=Sg,Nom
-6	гортас	горт	NOUN	_	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl:lmod	_	GTtags=N,Sg,Ill,PxSg3|SpaceAfter=No
+5	талун	талун	NOUN	_	Case=Nom|Number=Sing	4	obl	_	GTtags=Sg,Nom
+6	гортас	горт	NOUN	_	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	GTtags=N,Sg,Ill,PxSg3|SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

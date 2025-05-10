@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Emanuel Borges Völker, Felix Hennig, Arne Köhn, Maximilan Wendt, Verena Blaschke, Nina Böbel, Leonie Weissweiler.
 
 Repository: [UD_German-HDT](https://github.com/UniversalDependencies/UD_German-HDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_hdt215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_hdt216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -90,11 +90,18 @@ pages = "46--57",
 The TrUDucer paper describing the formalism behind the conversion:
 
 ```
-Hennig, Felix, & Köhn, Arne (2017). Dependency tree transformation
-with tree transducers. In Proceedings of the NoDaLiDa 2017 Workshop on
-Universal Dependencies (UDW 2017) (pp. 58–66). Gothenburg, Sweden:
-Association for Computational Linguistics. url:
-http://www.aclweb.org/anthology/W17-0407
+@inproceedings{hennig-kohn-2017-dependency,
+title = "Dependency Tree Transformation with Tree Transducers",
+author = {Hennig, Felix and K{\"o}hn, Arne},
+editor = "de Marneffe, Marie-Catherine and Nivre, Joakim and Schuster, Sebastian",
+booktitle = "Proceedings of the {N}o{D}a{L}i{D}a 2017 Workshop on Universal Dependencies ({UDW} 2017)",
+month = may,
+year = "2017",
+address = "Gothenburg, Sweden",
+publisher = "Association for Computational Linguistics",
+url = "https://aclanthology.org/W17-0407",
+pages = "58--66",
+}
 ```
 
 The paper describing the HDT:
@@ -142,7 +149,7 @@ publisher={Fachbereich Informatik}
 
 ## Features
 
-[Abbr](de_hdt-feat-Abbr.html) – [AdpType](de_hdt-feat-AdpType.html) – [Aspect](de_hdt-feat-Aspect.html) – [Case](de_hdt-feat-Case.html) – [ConjType](de_hdt-feat-ConjType.html) – [Definite](de_hdt-feat-Definite.html) – [Degree](de_hdt-feat-Degree.html) – [Foreign](de_hdt-feat-Foreign.html) – [Gender](de_hdt-feat-Gender.html) – [Gender[psor]](de_hdt-feat-Gender-psor.html) – [Hyph](de_hdt-feat-Hyph.html) – [Mood](de_hdt-feat-Mood.html) – [Number](de_hdt-feat-Number.html) – [Number[psor]](de_hdt-feat-Number-psor.html) – [NumType](de_hdt-feat-NumType.html) – [PartType](de_hdt-feat-PartType.html) – [Person](de_hdt-feat-Person.html) – [Polarity](de_hdt-feat-Polarity.html) – [Polite](de_hdt-feat-Polite.html) – [Poss](de_hdt-feat-Poss.html) – [PronType](de_hdt-feat-PronType.html) – [PunctType](de_hdt-feat-PunctType.html) – [Reflex](de_hdt-feat-Reflex.html) – [Tense](de_hdt-feat-Tense.html) – [Typo](de_hdt-feat-Typo.html) – [Variant](de_hdt-feat-Variant.html) – [VerbForm](de_hdt-feat-VerbForm.html) – [VerbType](de_hdt-feat-VerbType.html)
+[Abbr](de_hdt-feat-Abbr.html) – [AdpType](de_hdt-feat-AdpType.html) – [Aspect](de_hdt-feat-Aspect.html) – [Case](de_hdt-feat-Case.html) – [ConjType](de_hdt-feat-ConjType.html) – [Definite](de_hdt-feat-Definite.html) – [Degree](de_hdt-feat-Degree.html) – [ExtPos](de_hdt-feat-ExtPos.html) – [Foreign](de_hdt-feat-Foreign.html) – [Gender](de_hdt-feat-Gender.html) – [Gender[psor]](de_hdt-feat-Gender-psor.html) – [Hyph](de_hdt-feat-Hyph.html) – [Mood](de_hdt-feat-Mood.html) – [Number](de_hdt-feat-Number.html) – [Number[psor]](de_hdt-feat-Number-psor.html) – [NumType](de_hdt-feat-NumType.html) – [PartType](de_hdt-feat-PartType.html) – [Person](de_hdt-feat-Person.html) – [Polarity](de_hdt-feat-Polarity.html) – [Polite](de_hdt-feat-Polite.html) – [Poss](de_hdt-feat-Poss.html) – [PronType](de_hdt-feat-PronType.html) – [PunctType](de_hdt-feat-PunctType.html) – [Reflex](de_hdt-feat-Reflex.html) – [Tense](de_hdt-feat-Tense.html) – [Typo](de_hdt-feat-Typo.html) – [Variant](de_hdt-feat-Variant.html) – [VerbForm](de_hdt-feat-VerbForm.html) – [VerbType](de_hdt-feat-VerbType.html)
 
 ## Relations
 
@@ -836,6 +843,24 @@ publisher={Fachbereich Informatik}
       <li>Comp
         <ul>
           <li>CCONJ: als, wie, denn</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADP: um, an</li>
+          <li>DET: ein</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>SCONJ: als</li>
         </ul>
       </li>
     </ul>

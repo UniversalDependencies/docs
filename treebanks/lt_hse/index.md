@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Dmitri Sitchinava.
 
 Repository: [UD_Lithuanian-HSE](https://github.com/UniversalDependencies/UD_Lithuanian-HSE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_hse215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_hse216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -58,7 +58,7 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
 
 ## Features
 
-[Aspect](lt_hse-feat-Aspect.html) – [Case](lt_hse-feat-Case.html) – [Definite](lt_hse-feat-Definite.html) – [Degree](lt_hse-feat-Degree.html) – [Gender](lt_hse-feat-Gender.html) – [Mood](lt_hse-feat-Mood.html) – [Number](lt_hse-feat-Number.html) – [Person](lt_hse-feat-Person.html) – [Polarity](lt_hse-feat-Polarity.html) – [Reflex](lt_hse-feat-Reflex.html) – [Tense](lt_hse-feat-Tense.html) – [Variant](lt_hse-feat-Variant.html) – [VerbForm](lt_hse-feat-VerbForm.html) – [Voice](lt_hse-feat-Voice.html)
+[Aspect](lt_hse-feat-Aspect.html) – [Case](lt_hse-feat-Case.html) – [Definite](lt_hse-feat-Definite.html) – [Degree](lt_hse-feat-Degree.html) – [ExtPos](lt_hse-feat-ExtPos.html) – [Gender](lt_hse-feat-Gender.html) – [Mood](lt_hse-feat-Mood.html) – [Number](lt_hse-feat-Number.html) – [Person](lt_hse-feat-Person.html) – [Polarity](lt_hse-feat-Polarity.html) – [Reflex](lt_hse-feat-Reflex.html) – [Tense](lt_hse-feat-Tense.html) – [Variant](lt_hse-feat-Variant.html) – [VerbForm](lt_hse-feat-VerbForm.html) – [Voice](lt_hse-feat-Voice.html)
 
 ## Relations
 
@@ -656,6 +656,20 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADP: iš, dėl</li>
+          <li>PRON: jokiu</li>
+          <li>SCONJ: Tuo, kai</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

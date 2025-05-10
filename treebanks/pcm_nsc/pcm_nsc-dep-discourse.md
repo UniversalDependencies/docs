@@ -26,19 +26,19 @@ The following 90 pairs of parts of speech are connected with `discourse`: <tt><a
 2	to	to	ADP	_	_	3	mark	_	AlignBegin=45790|AlignEnd=45910|Gloss=to
 3	see	see	VERB	_	_	15	dislocated	_	AlignBegin=45910|AlignEnd=46198|Gloss=see
 4	money	money	NOUN	_	_	3	obj	_	AlignBegin=46198|AlignEnd=46608|Gloss=money
-5	#	#	X	_	_	7	dep	_	AlignBegin=46638|AlignEnd=46976|Gloss=PUNCT
+5	#	#	PUNCT	_	_	7	punct	_	AlignBegin=46638|AlignEnd=46976|Gloss=PUNCT
 6	to	to	ADP	_	_	7	mark	_	AlignBegin=46976|AlignEnd=47076|Gloss=to
 7	buy	buy	VERB	_	_	4	acl	_	AlignBegin=47076|AlignEnd=47266|Gloss=buy
 8	tins	ting	NOUN	_	Number=Plur	7	obj	_	AlignBegin=47266|AlignEnd=47566|Gloss=thing.PL
 9	self	sef	PART	_	PartType=Disc	7	advmod	_	AlignBegin=47566|AlignEnd=47880|Gloss=FOC
-10	<	<	X	_	_	3	dep	_	AlignBegin=47880|AlignEnd=47880|Gloss=PUNCT
-11	#	#	X	_	_	3	dep	_	AlignBegin=47880|AlignEnd=48320|Gloss=PUNCT
+10	<	<	PUNCT	_	_	3	punct	_	AlignBegin=47880|AlignEnd=47880|Gloss=PUNCT
+11	#	#	PUNCT	_	_	3	punct	_	AlignBegin=47880|AlignEnd=48320|Gloss=PUNCT
 12	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	AlignBegin=48320|AlignEnd=48390|Gloss=NOM.2
 13	no	no	AUX	_	Polarity=Neg	15	aux	_	AlignBegin=48390|AlignEnd=48480|Gloss=NEG
 14	go	go	AUX	_	Aspect=Prosp	15	aux	_	AlignBegin=48480|AlignEnd=48590|Gloss=PROSP
 15	see	see	VERB	_	_	0	root	_	AlignBegin=48590|AlignEnd=48790|Gloss=see
 16	money	money	NOUN	_	_	15	obj	_	AlignBegin=48790|AlignEnd=48990|Gloss=money
-17	//	//	X	_	_	15	dep	_	AlignBegin=48990|AlignEnd=48990|Gloss=PUNCT
+17	//	//	PUNCT	_	_	15	punct	_	AlignBegin=48990|AlignEnd=48990|Gloss=PUNCT
 
 ~~~
 
@@ -49,22 +49,22 @@ The following 90 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 discourse	color:blue
-1	#	#	X	_	_	5	dep	_	AlignBegin=73066|AlignEnd=73583|Gloss=PUNCT
+1	#	#	PUNCT	_	_	5	punct	_	AlignBegin=73066|AlignEnd=73583|Gloss=PUNCT
 2	so	so	ADV	_	_	5	discourse	_	AlignBegin=73583|AlignEnd=73676|Gloss=so
 3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=73676|AlignEnd=73789|Gloss=NOM.SG.1
 4	con	con	AUX	_	Aspect=Cons	5	aux	_	AlignBegin=73789|AlignEnd=74049|Gloss=CONS
 5	go	go	VERB	_	_	0	root	_	AlignBegin=74049|AlignEnd=74199|Gloss=go
 6	school	school	NOUN	_	_	5	obl:arg	_	AlignBegin=74199|AlignEnd=74889|Gloss=school
 7	o	o	PART	_	PartType=Disc	5	advmod	_	AlignBegin=74889|AlignEnd=75129|Gloss=EMPH
-8	//=	//=	X	_	_	10	dep	_	AlignBegin=75129|AlignEnd=75129|Gloss=PUNCT
+8	//=	//=	PUNCT	_	_	10	punct	_	AlignBegin=75129|AlignEnd=75129|Gloss=PUNCT
 9	con	con	AUX	_	Aspect=Cons	10	aux	_	AlignBegin=75129|AlignEnd=75395|Gloss=CONS
 10	reach	reach	VERB	_	_	5	parataxis:conj	_	AlignBegin=75395|AlignEnd=75644|Gloss=reach
-11	#	#	X	_	_	12	dep	_	AlignBegin=75644|AlignEnd=75949|Gloss=PUNCT
+11	#	#	PUNCT	_	_	12	punct	_	AlignBegin=75644|AlignEnd=75949|Gloss=PUNCT
 12	two	two	NUM	_	NumType=Card	10	obj	_	AlignBegin=75949|AlignEnd=76029|Gloss=two.CARD
 13	thousand	thousand	NUM	_	NumType=Card	12	flat	_	AlignBegin=76029|AlignEnd=76379|Gloss=thousand.CARD
 14	and	and	CCONJ	_	_	15	cc	_	AlignBegin=76379|AlignEnd=76639|Gloss=and
 15	eight	eight	NUM	_	NumType=Card	13	conj	_	AlignBegin=76639|AlignEnd=76821|Gloss=eight.CARD
-16	//	//	X	_	_	5	dep	_	AlignBegin=76821|AlignEnd=76821|Gloss=PUNCT
+16	//	//	PUNCT	_	_	5	punct	_	AlignBegin=76821|AlignEnd=76821|Gloss=PUNCT
 
 ~~~
 
@@ -82,13 +82,13 @@ The following 90 pairs of parts of speech are connected with `discourse`: <tt><a
 5	weh	wey	SCONJ	_	_	7	mark	_	AlignBegin=49880|AlignEnd=50030|Gloss=REL
 6	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	AlignBegin=50030|AlignEnd=50090|Gloss=NOM.2
 7	do	do	VERB	_	_	4	acl:relcl	_	AlignBegin=50090|AlignEnd=50160|Gloss=do
-8	<	<	X	_	_	4	dep	_	AlignBegin=50160|AlignEnd=50160|Gloss=PUNCT
+8	<	<	PUNCT	_	_	4	punct	_	AlignBegin=50160|AlignEnd=50160|Gloss=PUNCT
 9	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	AlignBegin=50160|AlignEnd=50270|Gloss=NOM.2
 10	go	go	AUX	_	Aspect=Prosp	12	aux	_	AlignBegin=50270|AlignEnd=50390|Gloss=PROSP
 11	quick	quick	ADJ	_	_	12	advcl	_	AlignBegin=50390|AlignEnd=50630|Gloss=quick
 12	get	get	VERB	_	_	0	root	_	AlignBegin=50630|AlignEnd=50749|Gloss=get
 13	money	money	NOUN	_	_	12	obj	_	AlignBegin=50749|AlignEnd=51070|Gloss=money
-14	//	//	X	_	_	12	dep	_	AlignBegin=51070|AlignEnd=51070|Gloss=PUNCT
+14	//	//	PUNCT	_	_	12	punct	_	AlignBegin=51070|AlignEnd=51070|Gloss=PUNCT
 
 ~~~
 

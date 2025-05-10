@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>на</em> (<tt><a href="orv_birchbark
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 9.187500 (the average of all parts of speech is 2.410435).
+The form / lemma ratio of `ADP` is 9.187500 (the average of all parts of speech is 2.411136).
 
 The 1st highest number of forms (56) was observed with the lemma “у”: <em>(-)[у, (о)[у, (о)[у], (у, (у), (уо), (ѫ), (ѹ), (ꙋ, (ꙋ), [:]ѹ[:], [о](у, [о]у, [у, [у], [у](о), [у]о, [ѫ, [ѫ], [ѹ, [ѹ], [ꙋ, [ꙋ], ]ѹ, {ꙋ}, в, о, о(у), о)[у, о)[у], о)у, о[у, о[у], оу, у, у), у[о], у]о, ув, уо, уов, ѫ, ѫ], ѭ, ѹ, ѹ), ѹ], ѹв, ѹ…, …[о]у, …[у, …ѹ, 「ꙋ, ꙋ, ꙋ], </em>.
 
@@ -70,7 +70,7 @@ The 3rd highest number of forms (30) was observed with the lemma “въ”: <em
 
 `ADP` nodes are attached to their parents using 10 different relations: <tt><a href="orv_birchbark-dep-case.html">case</a></tt> (3247; 97% instances), <tt><a href="orv_birchbark-dep-dep.html">dep</a></tt> (34; 1% instances), <tt><a href="orv_birchbark-dep-flat.html">flat</a></tt> (18; 1% instances), <tt><a href="orv_birchbark-dep-nmod.html">nmod</a></tt> (17; 1% instances), <tt><a href="orv_birchbark-dep-root.html">root</a></tt> (13; 0% instances), <tt><a href="orv_birchbark-dep-conj.html">conj</a></tt> (12; 0% instances), <tt><a href="orv_birchbark-dep-obl.html">obl</a></tt> (12; 0% instances), <tt><a href="orv_birchbark-dep-orphan.html">orphan</a></tt> (4; 0% instances), <tt><a href="orv_birchbark-dep-flat-name.html">flat:name</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (1664; 50% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1028; 31% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (298; 9% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (118; 4% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (77; 2% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt> (69; 2% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (57; 2% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (28; 1% instances),  (13; 0% instances), <tt><a href="orv_birchbark-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (1665; 50% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1029; 31% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (298; 9% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (118; 4% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (77; 2% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt> (69; 2% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (55; 2% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (28; 1% instances),  (13; 0% instances), <tt><a href="orv_birchbark-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 3335 (99%) `ADP` nodes are leaves.
 

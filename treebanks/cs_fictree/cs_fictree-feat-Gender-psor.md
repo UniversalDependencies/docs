@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 872 tokens (1%) have a non-empty value of `Gender[psor]`.
 179 types (1%) occur at least once with a non-empty value of `Gender[psor]`.
-85 lemmas (1%) occur at least once with a non-empty value of `Gender[psor]`.
+87 lemmas (1%) occur at least once with a non-empty value of `Gender[psor]`.
 The feature is used with 2 part-of-speech tags: <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (651; 0% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (221; 0% instances).
 
 ### `DET`

@@ -101,7 +101,7 @@ The following 7 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 22	gǎːm	gàːm	NOUN	_	_	21	obj	_	AlignBegin=346640|AlignEnd=346906|Gloss=head|wordform=gàːm
 23	=wôs	=wos	PRON	_	Number=Sing|Person=3|PronType=Prs	22	nmod:poss	_	AlignBegin=346906|AlignEnd=347118|Gloss=3Sing.Gen
 24	ɗi	ɗi	PART	_	_	21	compound:prt	_	AlignBegin=347118|AlignEnd=347331|Gloss=Ctp|wordform==ɗì
-25	á	ká	ADP	_	_	28	case	_	AlignBegin=348220|AlignEnd=348534|Gloss=at|Idiom=Yes
+25	á	ká	ADP	_	ExtPos=ADP	28	case	_	AlignBegin=348220|AlignEnd=348534|Gloss=at|Idiom=Yes
 26	gìp	gìp	ADP	_	_	25	fixed	_	AlignBegin=348534|AlignEnd=348848|Gloss=inside|InIdiom=Yes
 27	də̀n	də̀n	NOUN	_	_	28	reparandum	_	AlignBegin=348848|AlignEnd=349162|Gloss=house
 28	maːndə́	maːndə́	NOUN	_	_	21	obl	_	AlignBegin=349162|AlignEnd=349476|Gloss=fight

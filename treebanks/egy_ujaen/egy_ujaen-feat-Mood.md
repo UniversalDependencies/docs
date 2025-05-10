@@ -7,47 +7,60 @@ udver: '2'
 ## Treebank Statistics: UD_Egyptian-UJaen: Features: `Mood`
 
 This feature is universal.
-It occurs with 3 different values: `Imp`, `Pot`, `Sub`.
+It occurs with 4 different values: `Cnd`, `Imp`, `Pot`, `Sub`.
 
-864 tokens (6%) have a non-empty value of `Mood`.
-281 types (13%) occur at least once with a non-empty value of `Mood`.
-219 lemmas (16%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (860; 6% instances), <tt><a href="egy_ujaen-pos-AUX.html">AUX</a></tt> (4; 0% instances).
+1338 tokens (6%) have a non-empty value of `Mood`.
+373 types (14%) occur at least once with a non-empty value of `Mood`.
+262 lemmas (16%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (1279; 6% instances), <tt><a href="egy_ujaen-pos-AUX.html">AUX</a></tt> (59; 0% instances).
 
 ### `VERB`
 
-860 <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> tokens (35% of all `VERB` tokens) have a non-empty value of `Mood`.
+1279 <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> tokens (34% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="egy_ujaen-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (841; 98%), <tt><a href="egy_ujaen-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (836; 97%), <tt><a href="egy_ujaen-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (835; 97%), <tt><a href="egy_ujaen-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (800; 93%), <tt><a href="egy_ujaen-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (470; 55%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="egy_ujaen-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1246; 97%), <tt><a href="egy_ujaen-feat-SubForm.html">SubForm</a></tt><tt>=EMPTY</tt> (1243; 97%), <tt><a href="egy_ujaen-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1233; 96%), <tt><a href="egy_ujaen-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1230; 96%), <tt><a href="egy_ujaen-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1192; 93%), <tt><a href="egy_ujaen-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (694; 54%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (383; 45% of non-empty `Mood`): <em>m, (ꞽ)m, ḫw, ꞽn, šsp, ḥtm, ꞽm, ś:ꞽꜥ, ꜥḥꜥ, sbn</em>
-* `Pot` (24; 3% of non-empty `Mood`): <em>śḫm.n, swr.n, wnm.n, šw.n, ꞽw.n, ꞽč.n, bꞽꜣ.n, mh.n, mwt.n, mṭw.n</em>
-* `Sub` (453; 53% of non-empty `Mood`): <em>č̣, č̣ꜣ, mꜣ, ꜥḥꜥ, wč̣, ꞽ:(n)č̣, ꞽr, (w)ṭ, ḥtp, ꜥnḫ</em>
-* `EMPTY` (1630): <em>č̣(ṭ), pr, ꞽw.n, ꞽꞽ, ꞽꞽ.n, śk(.w), ꜥnḫ, (w)ṭ(.w), mꜣ.n, ḫm(.w)</em>
+* `Cnd` (10; 1% of non-empty `Mood`): <em>rč̣.kꜣ, sḫ.kꜣ, wṭ.kꜣ, ꞽr.kꜣ, ꞽw.kꜣ</em>
+* `Imp` (561; 44% of non-empty `Mood`): <em>m, ḥtm, ḫw, ꜥḥꜥ, ꞽn, šsp, sbn, sꜣu̯, čs, ꞽmi̯</em>
+* `Pot` (36; 3% of non-empty `Mood`): <em>rč̣.n, śḫm.n, bꞽꜣ.n, swr.n, wnm.n, wp.n, šw.n, ẖn.n, ꞽw.n, ꞽč.n</em>
+* `Sub` (672; 53% of non-empty `Mood`): <em>č̣i̯, č̣ꜣ, ꞽ:nč̣, mꜣ, ꞽr, pr, ꜥḥꜥ, ḥtp, ꞽ:(n)č̣, wč̣</em>
+* `EMPTY` (2518): <em>č̣(ṭ), pr, rč̣.n, fꜣ.t, ꞽꞽ, ꞽw.n, ꞽꞽ.n, ꜥnḫ, śk(.w), mꜣ.n</em>
 
 <table>
-  <tr><th>Paradigm <i>rč̣i̯</i></th><th><tt>Imp</tt></th><th><tt>Pot</tt></th><th><tt>Sub</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td></td><td><em>č̣, [č̣]</em></td></tr>
-  <tr><td><tt><tt><a href="egy_ujaen-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ꞽm</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="egy_ujaen-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>mꞽ</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="egy_ujaen-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="egy_ujaen-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="egy_ujaen-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>rč̣.n</em></td><td></td></tr>
+  <tr><th>Paradigm <i>rč̣i̯</i></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Pot</tt></th><th><tt>Sub</tt></th></tr>
+  <tr><td><tt><tt><a href="egy_ujaen-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ꞽmi̯</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="egy_ujaen-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>(ꞽ)mi̯</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="egy_ujaen-feat-SubForm.html">SubForm</a></tt><tt>=Pred</tt>|<tt><a href="egy_ujaen-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="egy_ujaen-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="egy_ujaen-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>rč̣.n</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="egy_ujaen-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="egy_ujaen-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="egy_ujaen-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>rč̣.kꜣ</em></td><td></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td></td><td></td><td><em>č̣i̯, [č̣i̯]</em></td></tr>
 </table>
 
 ### `AUX`
 
-4 <tt><a href="egy_ujaen-pos-AUX.html">AUX</a></tt> tokens (9% of all `AUX` tokens) have a non-empty value of `Mood`.
+59 <tt><a href="egy_ujaen-pos-AUX.html">AUX</a></tt> tokens (54% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="egy_ujaen-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="egy_ujaen-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (59; 100%), <tt><a href="egy_ujaen-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (58; 98%), <tt><a href="egy_ujaen-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt> (54; 92%), <tt><a href="egy_ujaen-feat-VerbClass.html">VerbClass</a></tt><tt>=Def</tt> (52; 88%), <tt><a href="egy_ujaen-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (37; 63%), <tt><a href="egy_ujaen-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31; 53%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Imp` (4; 100% of non-empty `Mood`): <em>(ꞽ)m</em>
-* `EMPTY` (41): <em>ꞽw, ꞽ(w)</em>
+* `Cnd` (1; 2% of non-empty `Mood`): <em>tm.ḫr</em>
+* `Imp` (37; 63% of non-empty `Mood`): <em>(ꞽ)m</em>
+* `Sub` (21; 36% of non-empty `Mood`): <em>ꞽm, tm, (ꞽ)m, [ꞽm]</em>
+* `EMPTY` (51): <em>ꞽw, ꞽ(w), ꞽ:tm, tm, tm.tn, ꞽ:tm.w, ꞽm</em>
+
+<table>
+  <tr><th>Paradigm <i>ꞽmi̯</i></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
+  <tr><td><tt><tt><a href="egy_ujaen-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="egy_ujaen-feat-VerbClass.html">VerbClass</a></tt><tt>=3aeinf</tt></tt></td><td><em>(ꞽ)m</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="egy_ujaen-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="egy_ujaen-feat-VerbClass.html">VerbClass</a></tt><tt>=Def</tt></tt></td><td><em>(ꞽ)m</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="egy_ujaen-feat-VerbClass.html">VerbClass</a></tt><tt>=Def</tt>|<tt><a href="egy_ujaen-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>ꞽm, (ꞽ)m, [ꞽm]</em></td></tr>
+  <tr><td><tt><tt><a href="egy_ujaen-feat-VerbClass.html">VerbClass</a></tt><tt>=Def</tt></tt></td><td><em>(ꞽ)m</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="egy_ujaen-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>ꞽm</em></td></tr>
+</table>
 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="egy_ujaen-dep-conj.html">conj</a></tt>]--> VERB</tt> (110; 100%).
+<tt>VERB --[<tt><a href="egy_ujaen-dep-conj.html">conj</a></tt>]--> VERB</tt> (222; 97%).
 

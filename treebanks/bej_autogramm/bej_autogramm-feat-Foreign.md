@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-84 tokens (1%) have a non-empty value of `Foreign`.
+83 tokens (1%) have a non-empty value of `Foreign`.
 48 types (3%) occur at least once with a non-empty value of `Foreign`.
 1 lemmas (0) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 9 part-of-speech tags: <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (26; 0% instances), <tt><a href="bej_autogramm-pos-X.html">X</a></tt> (20; 0% instances), <tt><a href="bej_autogramm-pos-PART.html">PART</a></tt> (15; 0% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (25; 0% instances), <tt><a href="bej_autogramm-pos-X.html">X</a></tt> (20; 0% instances), <tt><a href="bej_autogramm-pos-PART.html">PART</a></tt> (15; 0% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-26 <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Foreign`.
+25 <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="bej_autogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (21; 81%), <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (19; 73%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="bej_autogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (20; 80%), <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (18; 72%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 
-* `Yes` (26; 100% of non-empty `Foreign`): <em>maːl, hajawaːna, ʔarabijaːj, balad, bani, gahwat, saːri, xawaːʤa, dawaːhi, mawaːʔid</em>
-* `EMPTY` (1693): <em>tak, doːr, ʔar, mhiːn, naː, na, dhaj, kaːm, lhaweː, ʔoːr</em>
+* `Yes` (25; 100% of non-empty `Foreign`): <em>maːl, hajawaːna, ʔarabijaːj, balad, bani, gahwat, saːri, xawaːʤa, dawaːhi, mawaːʔid</em>
+* `EMPTY` (1694): <em>tak, doːr, ʔar, mhiːn, naː, na, dhaj, kaːm, lhaweː, ʔoːr</em>
 
 ### `X`
 

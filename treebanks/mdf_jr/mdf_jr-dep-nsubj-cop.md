@@ -49,8 +49,8 @@ The following 12 pairs of parts of speech are connected with `nsubj:cop`: <tt><a
 5	и	и	CCONJ	CC	_	7	cc	_	_
 6	рузкс	руз	NOUN	N	Case=Tra|Definite=Ind|Number=Sing	7	obl	_	GTtags=Sg,Tra,Indef,Clt/Add
 7	корхтась	корхтамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	4	conj	_	GTtags=Ind,Prt1,ScSg3
-8	ёфси	ёфси	ADV	Adv	_	9	advmod:deg	_	_
-9	кальдявста	кальдявста	ADV	Adv	_	7	advmod:mmod	_	SpaceAfter=No
+8	ёфси	ёфси	ADV	Adv	_	9	advmod	_	_
+9	кальдявста	кальдявста	ADV	Adv	AdvType=Man|Case=Ela	7	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
@@ -68,7 +68,7 @@ The following 12 pairs of parts of speech are connected with `nsubj:cop`: <tt><a
 4	тиеда-арада	тиемс-арамс	VERB	V	Mood=Imp|Number[subj]=Plur|Person[subj]=2	2	conj	_	GTtags=Imprt,ScPl2|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	9	punct	_	_
 6	кода	кода	ADV	Adv	_	9	mark	_	_
-7	сяда	сяда	ADV	Adv	AdvType=Deg	8	advmod:deg	_	GTtags=Deg
+7	сяда	сяда	ADV	Adv	AdvType=Deg	8	advmod	_	GTtags=Deg
 8	лад	лад	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	9	nsubj:cop	_	GTtags=Sg,Nom,Indef
 9	тейнть	тон	PRON	Pron	Case=Dat|Number=Plur|Person=2|PronType=Prs|Variant=Short	4	conj	_	GTtags=Pers,Pl2,Dat,Short|SpaceAfter=No
 10	..	..	PUNCT	PUNCT	_	2	punct	_	_

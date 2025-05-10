@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="pay_chibergis-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-3 nodes (0%) are attached to their parents as `acl`.
+4 nodes (0%) are attached to their parents as `acl`.
 
-2 instances of `acl` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.66666666666667.
+3 instances of `acl` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.25.
 
-The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (2; 67% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 33% instances).
+The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (2; 50% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 25% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
@@ -42,43 +42,46 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 acl	color:blue
+1	pa	pa	PRON	_	_	2	reparandum	_	AlignBegin=146158|AlignEnd=146566|Gloss=PRO2|MGloss=PRO2|MSeg=pa|nWord=1|RX=[PRO]|TokenType=Root
+2	ẽnã	ẽnã	NOUN	_	_	9	nsubj	_	AlignBegin=146566|AlignEnd=146974|Gloss=well|MGloss=well|MSeg=ẽnã|nWord=2|RX=[N]|TokenType=Root
+3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=146974|AlignEnd=147382|MSeg=,|nWord=3
+4	to	to	PRON	_	_	9	obj	_	AlignBegin=147382|AlignEnd=147790|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=4|RX=[PRO]|TokenType=Root
+5	tuʔwo	tuʔwo	X	_	_	4	reparandum	_	AlignBegin=147790|AlignEnd=148198|MSeg=tuʔwo|nWord=5
+6	akaki	kaki	NOUN	_	_	4	reparandum	_	AlignBegin=148198|AlignEnd=148606|Gloss=mother|MGloss=POSS3SG- mother|MSeg=a-kaki|nWord=6|RX=[N]|TokenType=Root|wordform=a-kaki
+7	tapeh	tapeh	VERB	_	_	6	acl	_	AlignBegin=148606|AlignEnd=149014|Gloss=swim|MGloss=swim|MSeg=tapeh|nWord=7|RX=[VI]|TokenType=Root
+8	ẽnã	ẽnã	NOUN	_	_	9	obl:mod	_	AlignBegin=149014|AlignEnd=149422|Gloss=well|MGloss=well|MSeg=ẽnã|nWord=8|RX=[N]|TokenType=Root
+9	porkuh	pork	VERB	_	_	0	root	_	AlignBegin=149422|AlignEnd=149830|Gloss=sink.in|MGloss=O3SG- sink.in -S2 -PROX.FUT|MSeg=Ø-pork-u-h|nWord=9|RX=[VT]|TokenType=Root|wordform=Ø-pork-u-h
+10	rũ	rũ	PART	_	_	9	advmod	_	AlignBegin=149830|AlignEnd=150238|MSeg=rũ|nWord=10
+11	.	_	PUNCT	_	_	9	punct	_	AlignBegin=150238|AlignEnd=150648|Gloss=.|MGloss=.|MSeg=.|nWord=11
+
+~~~
+
+
+~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 11 acl	color:blue
-1	tas	tas	PRON	PRO	_	4	nsubj	_	AlignBegin=472033|AlignEnd=472574|Gloss=PRO1|MGloss=PRO1|MSeg=tas|nWord=1|RX=[PRO]|TokenType=Root|Word=tas
-2	ũtas	tas	PRON	PRO	Clusivity=Ex	1	reparandum	_	AlignBegin=472574|AlignEnd=473115|Gloss=PRO1|MGloss=EXCL- PRO1|MSeg=ũ-tas|nWord=2|RX=[PRO]|TokenType=Root|Word=ũtas|wordform=ũ-tas
-3	peʃ	peʃ	NOUN	N	_	2	nmod	_	AlignBegin=473115|AlignEnd=473656|Gloss=people|MGloss=people|MSeg=peʃ|nWord=3|RX=[N]|TokenType=Root|Word=peʃ
-4	=bari	r	AUX	V:ANY	Clusivity=Ex	10	dep	_	AlignBegin=473656|AlignEnd=474197|Gloss==COP:S1PL.EXCL|MGloss==COP:S1PL.EXCL -PST|MSeg==bar-i|nWord=4|RX=[COP]|TokenType=Root|Word=bari|wordform==bar-i
-5	ũtas	tas	PRON	PRO	Clusivity=Ex	8	nsubj	_	AlignBegin=474197|AlignEnd=474738|Gloss=PRO1|MGloss=EXCL- PRO1|MSeg=ũ-tas|nWord=5|RX=[PRO]|TokenType=Root|Word=ũtas|wordform=ũ-tas
-6	peʃ	peʃ	NOUN	N	_	5	nmod	_	AlignBegin=474738|AlignEnd=475279|Gloss=people|MGloss=people|MSeg=peʃ|nWord=6|RX=[N]|TokenType=Root|Word=peʃ
-7	=mã	=mã	ADP	PRT	_	5	case	_	AlignBegin=475279|AlignEnd=475820|Gloss==TOP|MGloss==TOP|MSeg==mã|nWord=7|RX=[PRT]|TokenType=Clit|Word=mã
-8	ũntah	ũntah	NOUN	N	_	4	reparandum	_	AlignBegin=476986|AlignEnd=477487|Gloss=limited|MGloss=limited|MSeg=ũntah|nWord=8|RX=[N]|TokenType=Root|Word=ũntah
-9	=barwa	r	AUX	V:ANY	Clusivity=Ex	8	cop	_	AlignBegin=477487|AlignEnd=477988|Gloss==COP:S1PL.EXCL|MGloss==COP:S1PL.EXCL -PFV|MSeg==bar-wa|nWord=9|RX=[COP]|TokenType=Root|Word=bara|wordform==bar-wa
-10	=ras	=ras	SCONJ	PRT	_	32	dep	_	AlignBegin=477988|AlignEnd=478489|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=10|RX=[PRT]|TokenType=Clit|Word=ras
-11	ũtanĩhã	nĩhã	PART	PRT	Clusivity=Ex	8	acl	_	AlignBegin=478489|AlignEnd=478990|Gloss=HES|MGloss=EXCL- O1- HES|MSeg=ũ-ta-nĩhã|nWord=11|RX=[PRT]|TokenType=Root|Word=ũtanĩhã|wordform=ũ-ta-nĩhã
-12	ũtasãma	sãma	NOUN	N	Clusivity=Ex	11	reparandum	_	AlignBegin=478990|AlignEnd=479491|Gloss=mind|MGloss=EXCL- O1- mind|MSeg=ũ-ta-sãma|nWord=12|RX=[N]|TokenType=Root|Word=ũtãsãmã|wordform=ũ-ta-sãma
-13	=yã	=yã	ADP	POST	_	11	mark	_	AlignBegin=479491|AlignEnd=479992|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=13|RX=[POST]|TokenType=Clit|Word=yã
-14	=hã	=hã	PART	PRT	_	11	advmod	_	AlignBegin=479992|AlignEnd=480493|Gloss==FOC|MGloss==FOC|MSeg==hã|nWord=14|RX=[PRT]|TokenType=Clit|Word=hã
-15	ʔãã	ʔãã	INTJ	<NOT_SURE>	_	18	discourse	_	AlignBegin=482540|AlignEnd=483425|Gloss=HES|MGloss=HES|MSeg=ʔãã|nWord=15|RX=[<NOT_SURE>]|TokenType=Root|Word=ʔãã
-16	nẽhĩʔĩ	nẽhĩʔĩ	X	_	_	18	discourse	_	AlignBegin=483425|AlignEnd=484310|Gloss=HES|MGloss=HES|MSeg=nẽhĩʔĩ|nWord=16|TokenType=Root|Word=nẽhĩʔĩ
-17	yas	yas	ADV	ADV	_	18	nsubj	_	AlignBegin=484310|AlignEnd=485195|Gloss=all|MGloss=all|MSeg=yas|nWord=17|RX=[ADV]|TokenType=Root|Word=yas
-18	artʃuiʃbartVi	tʃuiʃ	VERB	V:ANY	Clusivity=Ex|Voice=Appl	19	dep	_	AlignBegin=485195|AlignEnd=486080|Gloss=learn|MGloss=O3SG- APPL.P- learn -S1PL.EXCL -NEG -PST|MSeg=a-r-tʃuiʃ-bar-tV-i|nWord=18|RX=[V]|TokenType=Root|Word=artʃwĩbarti|wordform=a-r-tʃuiʃ-bar-tV-i
-19	=ras	=ras	SCONJ	PRT	_	32	dep	_	AlignBegin=486080|AlignEnd=486966|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=19|RX=[PRT]|TokenType=Clit|Word=ras
-20	krih	krih	NOUN	N	_	21	obj	_	AlignBegin=487480|AlignEnd=488002|Gloss=everything|MGloss=everything|MSeg=krih|nWord=20|RX=[N]|TokenType=Root|Word=krih
-21	artʃuiʃbartVi	tʃuiʃ	VERB	V:ANY	Clusivity=Ex|Voice=Appl	22	dep	_	AlignBegin=488002|AlignEnd=488524|Gloss=learn|MGloss=O3SG- APPL.P- learn -S1PL.EXCL -NEG -PST|MSeg=a-r-tʃuiʃ-bar-tV-i|nWord=21|RX=[V]|TokenType=Root|Word=artʃiʃbarti|wordform=a-r-tʃuiʃ-bar-tV-i
-22	=ras	=ras	SCONJ	PRT	_	32	dep	_	AlignBegin=488524|AlignEnd=489046|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=22|RX=[PRT]|TokenType=Clit|Word=ras
-23	ã	ã	PRON	PRO	_	24	dep	_	AlignBegin=489426|AlignEnd=489578|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=23|RX=[PRO]|TokenType=Root|Word=ãkãnwãras
-24	=kan	=kan	PART	PRT	_	32	discourse	_	AlignBegin=489578|AlignEnd=489730|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=23|RX=[PRT]|TokenType=Clit|Word=ãkãnwãras
-25	wa	wa	ADV	ADV	_	26	dep	_	AlignBegin=489730|AlignEnd=489882|Gloss=also|MGloss=also|MSeg=wa|nWord=23|RX=[ADV]|TokenType=Root|Word=ãkãnwãras
-26	=ras	=ras	PART	PRT	_	24	compound	_	AlignBegin=489882|AlignEnd=490032|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=23|RX=[PRT]|TokenType=Clit|Word=ãkãnwãras
-27	ã	ã	PRON	PRO	_	28	det	_	AlignBegin=490032|AlignEnd=490638|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=24|RX=[PRO]|TokenType=Root|Word=ã
-28	ĩ	ĩ	PRON	PRO	_	32	obj	_	AlignBegin=490638|AlignEnd=491244|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=25|RX=[PRO]|TokenType=Root|Word=ĩ
-29	=ɲa	=ɲa	DET	PRT	_	28	compound	_	AlignBegin=491244|AlignEnd=491850|Gloss==INDF|MGloss==INDF|MSeg==ɲa|nWord=26|RX=[PRT]|TokenType=Clit|Word=ɲah
-30	aye	ye	NOUN	N	_	28	nmod	_	AlignBegin=491850|AlignEnd=492456|Gloss=small|MGloss=POSS3SG- small|MSeg=a-ye|nWord=27|RX=[N]|TokenType=Root|Word=aye|wordform=a-ye
-31	=s	=s	DET	DET	_	28	det	_	AlignBegin=492456|AlignEnd=493062|Gloss==INDF.ART|MGloss==INDF.ART|MSeg==s|nWord=28|RX=[DET]|TokenType=Clit|Word=s
-32	artʃuiʃkari	tʃuiʃk	VERB	V:ANY	Voice=Appl	0	root	_	AlignBegin=493062|AlignEnd=493670|Gloss=learn|MGloss=O3SG- APPL.P- learn -S1SG -PST|MSeg=a-r-tʃuiʃk-a-ri|nWord=29|RX=[V]|TokenType=Root|Word=artʃuiʃkari|wordform=a-r-tʃuiʃk-a-ri
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 8 acl	color:blue
+1	prestar	prestar	X	_	_	2	compound:lvc	_	AlignBegin=304435|AlignEnd=304571|Gloss=SPA_lend|MGloss=O3SG- SPA_lend|MSeg=Ø-prestar|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|wordform=Ø-prestar
+2	takauh	ka	VERB	_	_	0	root	_	AlignBegin=304571|AlignEnd=304841|Gloss=make|MGloss=O1- make -S2 -PROX.FUT|MSeg=ta-ka-u-h|nWord=1|RX=[VT]|TokenType=Root|wordform=ta-ka-u-h
+3	ĩka	ĩka	PART	_	_	7	discourse	_	AlignBegin=304841|AlignEnd=305247|Gloss=and|MGloss=and|MSeg=ĩka|nWord=2|RX=[COORDCONN]|TokenType=Root
+4	utʃa	utʃa	NOUN	_	_	7	obj	_	AlignBegin=305247|AlignEnd=305653|Gloss=deer|MGloss=deer|MSeg=utʃa|nWord=3|RX=[N]|TokenType=Root
+5	=ra	_	ADP	_	Case=Abs	4	case	_	AlignBegin=305653|AlignEnd=306059|Gloss==ABS|MGloss==ABS|MSeg==ra|nWord=4|RX=[PRT]|TokenType=Clit
+6	ãwãh	ãwãh	ADV	_	_	4	advmod	_	AlignBegin=306059|AlignEnd=306465|Gloss=also|MGloss=also|MSeg=ãwãh|nWord=5|RX=[ADV]|TokenType=Root
+7	amartillar	martillar	X	_	_	8	compound:lvc	_	AlignBegin=306465|AlignEnd=306627|Gloss=SPA_hammer|MGloss=O3SG- SPA_hammer|MSeg=a-martillar|nWord=6|RX=[<NOT_SURE>]|TokenType=Root|wordform=a-martillar
+8	kai	ka	VERB	_	_	1	acl	_	AlignBegin=306627|AlignEnd=306871|Gloss=make|MGloss=make -S3SG -PST|MSeg=ka-Ø-i|nWord=6|RX=[VT]|TokenType=Root|wordform=ka-Ø-i
+9	=yo	_	SCONJ	_	_	8	mark	_	AlignBegin=306871|AlignEnd=307277|Gloss==INS|MGloss==INS|MSeg==yo|nWord=7|RX=[POST]|TokenType=Clit
+10	,	_	PUNCT	_	_	8	punct	_	AlignBegin=307277|AlignEnd=307683|MSeg=,|nWord=8
+11	ã	ã	PRON	_	_	1	nmod	_	AlignBegin=307683|AlignEnd=308089|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=9|RX=[PRO]|TokenType=Root
+12	awãhã	awãhã	PART	_	_	11	advmod	_	AlignBegin=308089|AlignEnd=308495|Gloss=also|MGloss=also|MSeg=awãhã|nWord=10|RX=[ADV]|TokenType=Root
+13	ĩ	ĩ	PRON	_	_	11	nmod	_	AlignBegin=308495|AlignEnd=308901|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=11|RX=[PRO]|TokenType=Root
+14	.	_	PUNCT	_	_	11	punct	_	AlignBegin=308901|AlignEnd=309310|Gloss=.|MGloss=.|MSeg=.|nWord=12|TokenType=Root
 
 ~~~
 

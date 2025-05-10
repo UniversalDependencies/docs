@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-144 nodes (1%) are attached to their parents as `xcomp`.
+154 nodes (1%) are attached to their parents as `xcomp`.
 
-134 instances of `xcomp` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.02083333333333.
+144 instances of `xcomp` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.98701298701299.
 
-The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (93; 65% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (25; 17% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (20; 14% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (104; 68% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (25; 16% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (19; 12% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 xcomp	color:blue
-1	Aé	aé	PRON	PRON	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
+1	Aé	aé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
 2	uyupirú	yupirú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=3:10
 3	ana	ana	PART	PFV	Aspect=Perf	2	advmod	_	TokenRange=11:14
 4	uwatá	watá	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	2	xcomp	_	TokenRange=15:20

@@ -78,8 +78,8 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 compound:prt	color:blue
-1	Mr	Mr	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
-2	Osborne	Osborne	PROPN	NNP	Number=Sing	1	flat	1:flat	_
+1	Mr	Mr.	PROPN	NNP	Number=Sing	2	nmod:desc	2:nmod:desc	_
+2	Osborne	Osborne	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 3	signed	sign	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	up	up	PART	RP	_	3	compound:prt	3:compound:prt	_
 5	with	with	ADP	IN	_	9	case	9:case	_

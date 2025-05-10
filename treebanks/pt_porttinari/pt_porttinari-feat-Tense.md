@@ -69,6 +69,6 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="pt_porttinari-dep-discourse.html">discourse</a></tt>]--> AUX</tt> (55; 67%),
 <tt>AUX --[<tt><a href="pt_porttinari-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 60%),
 <tt>VERB --[<tt><a href="pt_porttinari-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (3; 75%),
-<tt>VERB --[<tt><a href="pt_porttinari-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="pt_porttinari-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="pt_porttinari-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (1; 100%).
 

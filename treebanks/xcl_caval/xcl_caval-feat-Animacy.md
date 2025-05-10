@@ -9,37 +9,39 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-957 tokens (1%) have a non-empty value of `Animacy`.
-31 types (0%) occur at least once with a non-empty value of `Animacy`.
+1103 tokens (1%) have a non-empty value of `Animacy`.
+32 types (0%) occur at least once with a non-empty value of `Animacy`.
 8 lemmas (0%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (846; 1% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (111; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (929; 1% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (174; 0% instances).
 
 ### `PRON`
 
-846 <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> tokens (9% of all `PRON` tokens) have a non-empty value of `Animacy`.
+929 <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> tokens (9% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (846; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (846; 100%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (794; 94%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (669; 79%), <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Nom</tt> (440; 52%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (929; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (929; 100%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (866; 93%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (750; 81%), <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Nom</tt> (480; 52%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
-* `Anim` (453; 54% of non-empty `Animacy`): <em>ոք, ո, ով, ոմանք, ոմն, ումեք, ոյր, ում, ոմանս, ոյք</em>
-* `Inan` (393; 46% of non-empty `Animacy`): <em>ինչ, զինչ, զի, իմիք, իւիք, իրիք, իմն</em>
-* `EMPTY` (8951): <em>նա, որ, նորա, ձեզ, նոսա, իմ, իս, նմա, նոցա, քո</em>
+* `Anim` (488; 53% of non-empty `Animacy`): <em>ոք, ո, ով, ոմանք, ոմն, ումեք, ոյր, ում, ոյք, ուրուք</em>
+* `Inan` (441; 47% of non-empty `Animacy`): <em>ինչ, զինչ, զի, իւիք, իմիք, իմն, իրիք</em>
+* `EMPTY` (9592): <em>նա, որ, նորա, ձեզ, նոսա, նմա, իմ, նոցա, իս, իւր</em>
 
 ### `DET`
 
-111 <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Animacy`.
+174 <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (111; 100%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (106; 95%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (102; 92%), <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Nom</tt> (62; 56%), <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=Spec</tt> (60; 54%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (174; 100%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (159; 91%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (150; 86%), <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=Spec</tt> (94; 54%), <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Nom</tt> (93; 53%).
 
 `DET` tokens may have the following values of `Animacy`:
 
-* `Anim` (67; 60% of non-empty `Animacy`): <em>ոմն, ոք, ոմանք, ուրումն, ոմանս, ոմանց, ումեմնէ</em>
-* `Inan` (44; 40% of non-empty `Animacy`): <em>ինչ, զինչ, իմն</em>
-* `EMPTY` (5776): <em>ն, ամենայն, ս, դ, մի, բազում, այս, որ, բազումք, այն</em>
+* `Anim` (86; 49% of non-empty `Animacy`): <em>ոմն, ոմանք, ոք, ուրումն, ոմանց, ոմանս, ումեմնէ, ումեմն, ումեքէ, ուրուք</em>
+* `Inan` (88; 51% of non-empty `Animacy`): <em>ինչ, իմն, զինչ</em>
+* `EMPTY` (6927): <em>ն, ս, ամենայն, դ, մի, բազում, որ, այս, իւրում, այն</em>
 
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>PRON --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> PRON</tt> (4; 80%).
+<tt>PRON --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> PRON</tt> (4; 80%),
+<tt>DET --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%),
+<tt>PRON --[<tt><a href="xcl_caval-dep-compound-redup.html">compound:redup</a></tt>]--> PRON</tt> (1; 100%).
 

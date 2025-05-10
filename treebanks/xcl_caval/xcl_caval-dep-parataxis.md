@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-234 nodes (0%) are attached to their parents as `parataxis`.
+272 nodes (0%) are attached to their parents as `parataxis`.
 
-220 instances of `parataxis` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.65811965811966.
+247 instances of `parataxis` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.83455882352941.
 
-The following 17 pairs of parts of speech are connected with `parataxis`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (204; 87% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-X.html">X</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `parataxis`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (233; 86% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (7; 3% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (7; 3% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-X.html">X</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,6 +40,29 @@ The following 17 pairs of parts of speech are connected with `parataxis`: <tt><a
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 parataxis	color:blue
+1	Ասէ	ասել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=Asē|LTranslit=asel|Gloss=say
+2	ց	ց	ADP	_	_	3	case	_	SpaceAfter=No|Translit=cʻ|LTranslit=cʻ|Gloss=to
+3	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	1	obl:arg	_	Translit=na|LTranslit=na|Gloss=he/she/it
+4	Յիսուս	Յիսուս	PROPN	_	Case=Nom|Number=Sing	1	nsubj	_	SpaceAfter=No|Translit=Yisows|LTranslit=Yisows|Gloss=Jesus
+5	՝	՝	PUNCT	_	_	7	punct	_	Translit=;|LTranslit=;
+6	ես	ես	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Translit=es|LTranslit=es|Gloss=I
+7	եմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	Translit=em|LTranslit=em|Gloss=be
+8	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	9	nsubj	_	Translit=or|LTranslit=or|Gloss=who
+9	խաւսիմ	խաւսել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	7	parataxis	_	SpaceAfter=No|Translit=xawsim|LTranslit=xawsel|Gloss=speak
+10	ս	ս	DET	_	Definite=Def|Deixis=Prox|PronType=Art	8	det	_	Translit=s|LTranslit=s|Gloss=this
+11	ընդ	ընդ	ADP	_	_	12	case	_	Translit=ənd|LTranslit=ənd|Gloss=with/during/for
+12	քեզ	դու	PRON	_	Case=Loc|Number=Sing|Person=2|PronType=Prs	9	obl	_	SpaceAfter=No|Translit=kʻez|LTranslit=dow|Gloss=you_(sg.)
+13	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
@@ -59,29 +82,6 @@ The following 17 pairs of parts of speech are connected with `parataxis`: <tt><a
 12	Աստուած	Աստուած	NOUN	_	Case=Nom|Number=Sing	4	conj	_	Translit=Astowac|LTranslit=Astowac|Gloss=God
 13	Յակովբայ	Յակովբ	PROPN	_	Case=Gen|Number=Sing	12	nmod	_	SpaceAfter=No|Translit=Yakovbay|LTranslit=Yakovb|Gloss=Yakovb
 14	.	.	PUNCT	_	_	4	punct	_	Translit=:|LTranslit=:
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 parataxis	color:blue
-1	Ասէ	ասել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=Asē|LTranslit=asel|Gloss=say
-2	ց	ց	ADP	_	_	3	case	_	SpaceAfter=No|Translit=cʻ|LTranslit=cʻ|Gloss=to
-3	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	1	obl:arg	_	Translit=na|LTranslit=na|Gloss=he/she/it/that
-4	Յիսուս	Յիսուս	PROPN	_	Case=Nom|Number=Sing	1	nsubj	_	SpaceAfter=No|Translit=Yisows|LTranslit=Yisows|Gloss=Jesus
-5	՝	՝	PUNCT	_	_	7	punct	_	Translit=;|LTranslit=;
-6	ես	ես	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Translit=es|LTranslit=es|Gloss=I
-7	եմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	Translit=em|LTranslit=em|Gloss=be
-8	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	9	nsubj	_	Translit=or|LTranslit=or|Gloss=which
-9	խաւսիմ	խաւսել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	7	parataxis	_	SpaceAfter=No|Translit=xawsim|LTranslit=xawsel|Gloss=speak
-10	ս	ս	DET	_	Definite=Def|Deixis=Prox|PronType=Art	8	det	_	Translit=s|LTranslit=s|Gloss=this
-11	ընդ	ընդ	ADP	_	_	12	case	_	Translit=ənd|LTranslit=ənd|Gloss=with/during/for
-12	քեզ	դու	PRON	_	Case=Loc|Number=Sing|Person=2|PronType=Prs	9	obl	_	SpaceAfter=No|Translit=kʻez|LTranslit=dow|Gloss=you_(sg.)
-13	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

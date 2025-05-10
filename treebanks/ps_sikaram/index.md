@@ -14,13 +14,13 @@ udver: '2'
 Language: [Pashto](/ps/index.html) (code: `ps`)<br/>
 Family: IE
 
-This treebank has been part of Universal Dependencies since the UD v2.14 release.
+This treebank has been part of Universal Dependencies since the UD v2.15 release.
 
 The following people have contributed to making this treebank part of UD: Ján Faryad, Daniel Zeman.
 
 Repository: [UD_Pashto-Sikaram](https://github.com/UniversalDependencies/UD_Pashto-Sikaram)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udps_sikaram215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udps_sikaram216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -57,7 +57,8 @@ the Pashto-Sikaram treebank contains transliteration of forms and lemmas into La
 
 ## Acknowledgments
 
-We thank Salih Mohammad Salih for providing the texts to the treebank and Shah Wali Faryad for helping with the manual annotation.
+We thank Salih Mohammad Salih and Asmatullah Sarwan for providing the texts for the treebank and language consultations.
+We also thank Shah Wali Faryad for helping with the manual annotation.
 
 
 
@@ -65,25 +66,25 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 
 ## POS Tags
 
-[ADJ](ps_sikaram-pos-ADJ.html) – [ADP](ps_sikaram-pos-ADP.html) – [ADV](ps_sikaram-pos-ADV.html) – [AUX](ps_sikaram-pos-AUX.html) – [CCONJ](ps_sikaram-pos-CCONJ.html) – [DET](ps_sikaram-pos-DET.html) – [NOUN](ps_sikaram-pos-NOUN.html) – [NUM](ps_sikaram-pos-NUM.html) – [PART](ps_sikaram-pos-PART.html) – [PRON](ps_sikaram-pos-PRON.html) – [PROPN](ps_sikaram-pos-PROPN.html) – [PUNCT](ps_sikaram-pos-PUNCT.html) – [SCONJ](ps_sikaram-pos-SCONJ.html) – [VERB](ps_sikaram-pos-VERB.html)
+[ADJ](ps_sikaram-pos-ADJ.html) – [ADP](ps_sikaram-pos-ADP.html) – [ADV](ps_sikaram-pos-ADV.html) – [AUX](ps_sikaram-pos-AUX.html) – [CCONJ](ps_sikaram-pos-CCONJ.html) – [DET](ps_sikaram-pos-DET.html) – [NOUN](ps_sikaram-pos-NOUN.html) – [NUM](ps_sikaram-pos-NUM.html) – [PART](ps_sikaram-pos-PART.html) – [PRON](ps_sikaram-pos-PRON.html) – [PROPN](ps_sikaram-pos-PROPN.html) – [PUNCT](ps_sikaram-pos-PUNCT.html) – [SCONJ](ps_sikaram-pos-SCONJ.html) – [VERB](ps_sikaram-pos-VERB.html) – [X](ps_sikaram-pos-X.html)
 
 ## Features
 
-[Animacy](ps_sikaram-feat-Animacy.html) – [Aspect](ps_sikaram-feat-Aspect.html) – [Case](ps_sikaram-feat-Case.html) – [Deixis](ps_sikaram-feat-Deixis.html) – [Gender](ps_sikaram-feat-Gender.html) – [Mood](ps_sikaram-feat-Mood.html) – [Number](ps_sikaram-feat-Number.html) – [Number[psor]](ps_sikaram-feat-Number-psor.html) – [NumType](ps_sikaram-feat-NumType.html) – [Person](ps_sikaram-feat-Person.html) – [Polarity](ps_sikaram-feat-Polarity.html) – [Poss](ps_sikaram-feat-Poss.html) – [PronType](ps_sikaram-feat-PronType.html) – [Reflex](ps_sikaram-feat-Reflex.html) – [Tense](ps_sikaram-feat-Tense.html) – [Typo](ps_sikaram-feat-Typo.html) – [Variant](ps_sikaram-feat-Variant.html) – [VerbForm](ps_sikaram-feat-VerbForm.html)
+[Animacy](ps_sikaram-feat-Animacy.html) – [Aspect](ps_sikaram-feat-Aspect.html) – [Case](ps_sikaram-feat-Case.html) – [Deixis](ps_sikaram-feat-Deixis.html) – [ExtPos](ps_sikaram-feat-ExtPos.html) – [Foreign](ps_sikaram-feat-Foreign.html) – [Gender](ps_sikaram-feat-Gender.html) – [Mood](ps_sikaram-feat-Mood.html) – [Number](ps_sikaram-feat-Number.html) – [NumType](ps_sikaram-feat-NumType.html) – [Person](ps_sikaram-feat-Person.html) – [Polarity](ps_sikaram-feat-Polarity.html) – [Poss](ps_sikaram-feat-Poss.html) – [PronType](ps_sikaram-feat-PronType.html) – [Reflex](ps_sikaram-feat-Reflex.html) – [Tense](ps_sikaram-feat-Tense.html) – [Typo](ps_sikaram-feat-Typo.html) – [Variant](ps_sikaram-feat-Variant.html) – [VerbForm](ps_sikaram-feat-VerbForm.html) – [Voice](ps_sikaram-feat-Voice.html)
 
 ## Relations
 
-[acl](ps_sikaram-dep-acl.html) – [acl:relcl](ps_sikaram-dep-acl-relcl.html) – [advcl](ps_sikaram-dep-advcl.html) – [advmod](ps_sikaram-dep-advmod.html) – [amod](ps_sikaram-dep-amod.html) – [appos](ps_sikaram-dep-appos.html) – [aux](ps_sikaram-dep-aux.html) – [aux:pass](ps_sikaram-dep-aux-pass.html) – [case](ps_sikaram-dep-case.html) – [cc](ps_sikaram-dep-cc.html) – [ccomp](ps_sikaram-dep-ccomp.html) – [compound](ps_sikaram-dep-compound.html) – [conj](ps_sikaram-dep-conj.html) – [cop](ps_sikaram-dep-cop.html) – [det](ps_sikaram-dep-det.html) – [fixed](ps_sikaram-dep-fixed.html) – [flat](ps_sikaram-dep-flat.html) – [mark](ps_sikaram-dep-mark.html) – [nmod](ps_sikaram-dep-nmod.html) – [nsubj](ps_sikaram-dep-nsubj.html) – [nsubj:pass](ps_sikaram-dep-nsubj-pass.html) – [nummod](ps_sikaram-dep-nummod.html) – [obj](ps_sikaram-dep-obj.html) – [obl](ps_sikaram-dep-obl.html) – [obl:agent](ps_sikaram-dep-obl-agent.html) – [obl:arg](ps_sikaram-dep-obl-arg.html) – [orphan:nsubjobj](ps_sikaram-dep-orphan-nsubjobj.html) – [parataxis](ps_sikaram-dep-parataxis.html) – [punct](ps_sikaram-dep-punct.html) – [root](ps_sikaram-dep-root.html) – [vocative](ps_sikaram-dep-vocative.html) – [xcomp](ps_sikaram-dep-xcomp.html)
+[acl](ps_sikaram-dep-acl.html) – [acl:relcl](ps_sikaram-dep-acl-relcl.html) – [advcl](ps_sikaram-dep-advcl.html) – [advmod](ps_sikaram-dep-advmod.html) – [amod](ps_sikaram-dep-amod.html) – [appos](ps_sikaram-dep-appos.html) – [aux](ps_sikaram-dep-aux.html) – [aux:cnd](ps_sikaram-dep-aux-cnd.html) – [aux:fut](ps_sikaram-dep-aux-fut.html) – [aux:hab](ps_sikaram-dep-aux-hab.html) – [aux:pass](ps_sikaram-dep-aux-pass.html) – [aux:perf](ps_sikaram-dep-aux-perf.html) – [aux:pot](ps_sikaram-dep-aux-pot.html) – [case](ps_sikaram-dep-case.html) – [cc](ps_sikaram-dep-cc.html) – [ccomp](ps_sikaram-dep-ccomp.html) – [compound](ps_sikaram-dep-compound.html) – [compound:lvc](ps_sikaram-dep-compound-lvc.html) – [conj](ps_sikaram-dep-conj.html) – [cop](ps_sikaram-dep-cop.html) – [csubj](ps_sikaram-dep-csubj.html) – [det](ps_sikaram-dep-det.html) – [dislocated](ps_sikaram-dep-dislocated.html) – [fixed](ps_sikaram-dep-fixed.html) – [flat](ps_sikaram-dep-flat.html) – [flat:foreign](ps_sikaram-dep-flat-foreign.html) – [goeswith](ps_sikaram-dep-goeswith.html) – [mark](ps_sikaram-dep-mark.html) – [nmod](ps_sikaram-dep-nmod.html) – [nsubj](ps_sikaram-dep-nsubj.html) – [nsubj:pass](ps_sikaram-dep-nsubj-pass.html) – [nummod](ps_sikaram-dep-nummod.html) – [obj](ps_sikaram-dep-obj.html) – [obl](ps_sikaram-dep-obl.html) – [obl:agent](ps_sikaram-dep-obl-agent.html) – [obl:arg](ps_sikaram-dep-obl-arg.html) – [orphan:nsubjobj](ps_sikaram-dep-orphan-nsubjobj.html) – [orphan:objobl](ps_sikaram-dep-orphan-objobl.html) – [parataxis](ps_sikaram-dep-parataxis.html) – [punct](ps_sikaram-dep-punct.html) – [root](ps_sikaram-dep-root.html) – [vocative](ps_sikaram-dep-vocative.html) – [xcomp](ps_sikaram-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 40 sentences, 990 tokens and 995 syntactic words.</li>
+<li>This corpus contains 80 sentences, 2495 tokens and 2515 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 108 tokens (11%) that are not followed by a space.</li>
+<li>This corpus contains 286 tokens (11%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -95,8 +96,8 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 </ul>
 
 <ul>
-<li>This corpus contains 5 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 4 types of multi-word tokens. Examples: ورسره, ترې, پرې, پوهېږي.</li>
+<li>This corpus contains 20 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 11 types of multi-word tokens. Examples: پرې, ورباندې, ورسره, ورپسې, ترې, جوړوي, خپرولو, خپرېږي, هېروي, پوهېږي, ځوابولاى.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -104,28 +105,28 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: INTJ, SYM, X</li>
+<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: INTJ, SYM</li>
 </ul>
 
 <ul>
-<li>This corpus contains 3 word types tagged as particles (PART): باید, نه, نۀ</li>
+<li>This corpus contains 5 word types tagged as particles (PART): بايد, باید, دې, نه, نۀ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 17 lemmas tagged as pronouns (PRON): دا, دوی, دې, زۀ, هغه, هغوى, همدغه, هیڅوک, ور, يې, ټول, ځان, څوک, څۀ, چې, یوبل, یې</li>
+<li>This corpus contains 25 lemmas tagged as pronouns (PRON): بل, دا, دوى, دوی, زما, زموږ, زۀ, ستا, موږ, هرڅوک, هرڅۀ, هغه, هغوى, همدا, همدغه, هیڅوک, ور, يې, ټول, ځان, څوک, څۀ, چې, یوبل, یې</li>
 </ul>
 
 <ul>
-<li>This corpus contains 18 lemmas tagged as determiners (DET): خپل, دا, داسې, دغه, دې, زما, ستا, هر, هره, هغه, هماغسې, هماغه, همدغه, ټول, ځینې, څو, څۀ, کوم</li>
+<li>This corpus contains 16 lemmas tagged as determiners (DET): خپل, دا, داسې, دغسې, دغه, هر, هغه, هماغسې, هماغه, همدا, همدغه, ټول, ځینې, څو, څۀ, کوم</li>
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: دا, دې, هغه, همدغه, ټول, څۀ</li>
+<li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: دا, هغه, همدا, همدغه, ټول, څۀ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): بۀ, ونۀ, کول, کېدل, یم</li>
+<li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): بۀ, ول, ونۀ, کول, کېدل</li>
 </ul>
 
 <ul>
@@ -133,14 +134,14 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 </ul>
 
 <ul>
-<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: وي, ده, دى, دی, کېږي, شوای, شې, وه, شو, شي</li>
-    <li>VERB: لري, کړه, شو, وي, کوي, کړل, کښل, اواروي, برېښي, خپروي</li>
+    <li>AUX: ده, وي, شي, دي, کېږي, دى, دﺉ, شو, شوای, شې</li>
+    <li>VERB: لري, کوي, کړي, شته, شي, ورکوي, شو, کولاى, کړه, وڅېړو</li>
   </ul>
   </li>
 </ul>
@@ -148,7 +149,7 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Inf
   <ul>
-    <li>VERB: ګڼل, لاړ, لیکل, ورکول, وشمېرل, ويل, وټاکل, څښلو, څکولو, ژباړل</li>
+    <li>VERB: ژباړل, ګڼل, نیول, ويل, کولو, راوژباړل, راژباړل, رټل, لاړ, لیکل</li>
   </ul>
   </li>
 </ul>
@@ -156,8 +157,17 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Part
   <ul>
-    <li>AUX: شوى, کولی</li>
-    <li>VERB: شوې, راتلی, رسولې, رسېدلی, روزونکې, شوى, شوي, لوستى, نیولی, ويلي</li>
+    <li>ADJ: لیکنۍ, لارورکوونکو, ورکوونکې, کارېدونکې</li>
+    <li>AUX: شوي, شوى, شوې</li>
+    <li>VERB: شوي, شوى, شوې, کړى, کړي, کړې, رسولې, رسېدلی, شویو, لوستى</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Vnoun
+  <ul>
+    <li>NOUN: خپرونې, لیکنې, پوهونې, جوړونې, خپرونو, راپوهونې, څرګندونې, کارونې</li>
   </ul>
   </li>
 </ul>
@@ -172,15 +182,18 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: لیکنۍ, نړيواله, ژوندۍ, ښه, ادبي, اصلي, اغېزناکه, اوسنۍ, اوچته, ايرانۍ</li>
-      <li>AUX-Fin: ده, وه</li>
-      <li>DET: هرې, هره, خپله, دې, ټوله, ټولې</li>
-      <li>NOUN: ژبه, ژبې, ژباړې, سیمې, نړۍ, اترو, برخې, خبرو, خبرې, خوا</li>
-      <li>NUM: يوې, يوه</li>
-      <li>PRON: هغې, دې</li>
-      <li>PROPN: اردو, مریم, امريکا, انګرېزۍ, براون, جانې, فرانسې</li>
-      <li>VERB-Fin: کړه, درلوده, شوه, وهله, وهلې, وکړه, وګټله</li>
-      <li>VERB-Part: شوې, رسولې, روزونکې, کړې</li>
+      <li>ADJ: نورو, ښه, زياتې, ټولنیزو, ژوندۍ, انساني, ايرانۍ, بله, رسمي, لره</li>
+      <li>ADJ-Part: لیکنۍ, ورکوونکې, کارېدونکې</li>
+      <li>AUX-Fin: ده, وه, دي</li>
+      <li>AUX-Part: شوې</li>
+      <li>DET: دې, خپله, هرې, هره, ټوله, کومې, ټولې, کومه, همدې</li>
+      <li>NOUN: ژبه, ژبې, ژباړې, ژبو, خبرې, خوا, وده, نړۍ, برخه, توګه</li>
+      <li>NOUN-Vnoun: خپرونې, لیکنې, پوهونې, جوړونې, خپرونو, راپوهونې, څرګندونې, کارونې</li>
+      <li>NUM: یوه, یوې, دوو</li>
+      <li>PRON: هغې, دې, دا</li>
+      <li>PROPN: پښتو, اردو, مریم, امريکا, انګرېزۍ, پاړسي, ايینې, براون, جانې, فرانسې</li>
+      <li>VERB-Fin: کړه, شوه, درلوده, وهله, وهلې, وکړه, وګټله</li>
+      <li>VERB-Part: شوې, کړې, رسولې, شویو, لوېدلې, ځپلې</li>
     </ul>
   </li>
 </ul>
@@ -188,16 +201,17 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: بېل, جوړ, راټول, شهکار, فرهنګي, لږ, نور, هنري, ټولنیز, ګڼ</li>
-      <li>AUX-Fin: دى, دی, شو, وو</li>
-      <li>AUX-Part: شوى, کولی</li>
-      <li>DET: خپل, هر, کوم, خپلو</li>
-      <li>NOUN: ارزښت, اثر, دود, وخت, شمېر, انسانانو, خلکو, زر, شرق, غرب</li>
-      <li>NUM: يوه, یو</li>
-      <li>PRON: هغۀ, ټولو</li>
-      <li>PROPN: پیتر, ټیګور, افغان, ايرانیانو, ایګوازو, حبیبي, سامه, سمیس, طلوع, نوبل</li>
+      <li>ADJ: نورو, ټولنیز, ټولنیزو, جوړ, لږ, نور, خپور, زيات, سم, هنري</li>
+      <li>ADJ-Part: لارورکوونکو</li>
+      <li>AUX-Fin: دى, دﺉ, شو, و, وو</li>
+      <li>AUX-Part: شوي, شوى</li>
+      <li>DET: خپل, هر, کوم, خپلو, ټول, هغه</li>
+      <li>NOUN: ژوند, ارزښت, خلکو, دود, هېوادونو, وخت, کار, اثر, ارزښتونه, ارزښتونو</li>
+      <li>NUM: یو, یوه, دوه</li>
+      <li>PRON: هغۀ, بل, ټولو</li>
+      <li>PROPN: پښتانه, پښتنو, پیتر, ايران, ايرانیان, ټیګور, ږوب, کابل, اسامه, افغان</li>
       <li>VERB-Fin: شو, کړل, کښل, راوغزول, راوژباړه, لټاوه, واخيستۀ, ورسېد, ورکړ, ولیکل</li>
-      <li>VERB-Part: راتلی, رسېدلی, شوى, شوي, لوستى, نیولی, ويلي, کړى, کړي</li>
+      <li>VERB-Part: شوي, شوى, کړى, کړي, رسېدلی, لوستى, ويلي</li>
     </ul>
   </li>
 </ul>
@@ -209,7 +223,7 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Hum
     <ul>
-      <li>PRON: هیڅوک, چا</li>
+      <li>PRON: چا, څوک, هرڅوک, هیڅوک</li>
     </ul>
   </li>
 </ul>
@@ -218,7 +232,7 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
   <li>Nhum
     <ul>
       <li>DET: څۀ</li>
-      <li>PRON: څه</li>
+      <li>PRON: څه, هرڅه</li>
     </ul>
   </li>
 </ul>
@@ -228,16 +242,27 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 </ul>
 
 <ul>
+  <li>Coll
+    <ul>
+      <li>NOUN: خلکو, خلک, شتو, مواد</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Plur
     <ul>
-      <li>ADJ: جوړ, نړيوالو, بېسارو, بېل, خلیجي, رامات, زياتو, فرهنګیانو, لرغونو, مشهورو</li>
-      <li>AUX-Fin: شي, وو, کېږي</li>
-      <li>DET: خپل, خپلو, همدغو, ټولې, ځینو, ځینې</li>
-      <li>NOUN: اترو, انسانانو, برخې, خبرو, خبرې, خلکو, ويونکي, ژبې, اترې, ادبپالو</li>
-      <li>PRON: دوی, هغوى, ټولو</li>
-      <li>PROPN: ايرانیانو</li>
-      <li>VERB-Fin: کوي, کړل, کښل, خپروي, راوغزول, شو, لري, وايي, ورکوي, ورکړي</li>
-      <li>VERB-Part: شوي, ويلي, کړي</li>
+      <li>ADJ: نورو, ټولنیزو, پوهنیزو, جوړ, زياتې, نور, زيات, مړو, نړیوالو, هنري</li>
+      <li>ADJ-Part: لارورکوونکو</li>
+      <li>AUX-Fin: دي, کېږي, شي, وي, شو, وو</li>
+      <li>AUX-Part: شوي</li>
+      <li>DET: خپل, خپلو, ټول, ټولې, ځینو, ځینې, کومې, دې, همدغو</li>
+      <li>NOUN: ژبو, خبرې, هېوادونو, ارزښتونه, ارزښتونو, ملتونو, کتابونه, کتابونو, خبرو, ویونکي</li>
+      <li>NOUN-Vnoun: خپرونې, لیکنې, خپرونو, څرګندونې</li>
+      <li>PRON: هغوى, دوى, دوی, زموږ, موږ, ټولو</li>
+      <li>PROPN: پښتانه, پښتنو, ايرانیان, ايرانیانو, فرانسويانو, پنجابیانو</li>
+      <li>VERB-Fin: کوي, ورکوي, وڅېړو, ورکړي, کوو, کړل, کړو, کړي, کښل, کېږي</li>
+      <li>VERB-Part: شوي, کړي, شویو, ويلي</li>
     </ul>
   </li>
 </ul>
@@ -245,15 +270,17 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: هنري, ادبي, راټول, شهکار, فرهنګي, لږ, لیکنۍ, نړيواله, ټولنیز, ښه</li>
-      <li>AUX-Fin: وي, ده, دى, دی, کېږي, شې, وه, شو</li>
-      <li>AUX-Part: شوى, کولی</li>
-      <li>DET: خپل, کوم, خپله, دې, هره, ټوله</li>
-      <li>NOUN: ژبه, ژبې, ارزښت, ژباړې, اثر, دود, وخت, سیمې, شمېر, نړۍ</li>
-      <li>PRON: هغۀ, ما, هغې, دې</li>
-      <li>PROPN: پیتر, اردو, مریم, ټیګور, افغان, امريکا, انګرېزۍ, ایګوازو, براون, جانې</li>
-      <li>VERB-Fin: لري, کړه, شو, وي, اواروي, برېښي, درلوده, راوژباړه, شوه, شي</li>
-      <li>VERB-Part: شوې, راتلی, رسولې, رسېدلی, روزونکې, شوى, لوستى, نیولی, کړى, کړې</li>
+      <li>ADJ: ټولنیز, ښه, خپور, لږ, هنري, ادبي, ارزښتمن, ايرانۍ, اړ, بل</li>
+      <li>ADJ-Part: لیکنۍ, ورکوونکې, کارېدونکې</li>
+      <li>AUX-Fin: ده, وي, شي, دى, کېږي, دﺉ, شې, وه, شو, و</li>
+      <li>AUX-Part: شوى, شوې</li>
+      <li>DET: خپل, دې, خپله, ټوله, کوم, هره, کومه, هغه, همدې, کومې</li>
+      <li>NOUN: ژبه, ژباړې, ژبې, خوا, وده, ژوند, ارزښت, دود, نړۍ, وخت</li>
+      <li>NOUN-Vnoun: پوهونې, جوړونې, راپوهونې, کارونې</li>
+      <li>PRON: هغۀ, هغې, بل, دې, ستا, ما, دا, زما, ځان</li>
+      <li>PROPN: پښتو, پیتر, اردو, مریم, امريکا, انګرېزۍ, ايران, ټیګور, پاړسي, ږوب</li>
+      <li>VERB-Fin: لري, کړي, شي, کړه, شو, راځي, شوه, وي, پاتېږي, اواروي</li>
+      <li>VERB-Part: شوى, شوې, کړى, کړې, رسولې, رسېدلی, لوستى, لوېدلې, ځپلې</li>
     </ul>
   </li>
 </ul>
@@ -265,11 +292,13 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Abl
     <ul>
-      <li>ADJ: بده, نړيوالو</li>
-      <li>ADP: له, تر, پرته</li>
-      <li>DET: دې</li>
-      <li>NOUN: مخې, امله, خوا, دمه, لاسه, مرغه, پولو, پیله, ژباړې</li>
-      <li>PRON: دې, ټولو</li>
+      <li>ADJ: بده, لږه, نړیوالو</li>
+      <li>ADP: له, تر, پرته, پورې</li>
+      <li>ADV: اوسه</li>
+      <li>DET: دې, هغه, همدې</li>
+      <li>NOUN: خوا, مخې, اړخه, کبله, امله, اړخونو, خلکو, دمه, دوده, لاسه</li>
+      <li>PRON: دې, هرڅه, ټولو</li>
+      <li>PROPN: پېښوره</li>
     </ul>
   </li>
 </ul>
@@ -277,15 +306,25 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: ايرانۍ, بېسارو, بېل, زياتو, سترې, شلمې, فرهنګیانو, لرغونو, لیکنۍ, مرستیالې</li>
-      <li>ADP: د, ته, له, لپاره, څخه, سره, ترمنځ</li>
-      <li>DET: هرې, خپل, خپلو, همدغو, ځینو, کوم</li>
-      <li>NOUN: ژبې, ژباړې, اترو, انسانانو, خبرو, خلکو, سیمې, مینې, نړۍ, پېړۍ</li>
-      <li>NUM: يوې, يوه</li>
-      <li>PRON: هغۀ, ما, هغې, هغوى, چا</li>
-      <li>PROPN: پیتر, اردو, مریم, ايرانیانو, جانې, فرانسې, نوبل, ټیګور</li>
-      <li>VERB-Inf: څښلو, څکولو</li>
-      <li>VERB-Part: روزونکې</li>
+      <li>ADJ: نورو, ټولنیزو, پوهنیزو, کلتوري, ادبي, اسلامي, افغاني, انساني, ايرانۍ, بېسارو</li>
+      <li>ADJ-Part: لارورکوونکو, لیکنۍ</li>
+      <li>ADP: د, ته, له, څخه, لپاره, سره, تر, پسې, ترمنځ, ترڅنګ</li>
+      <li>DET: خپل, هرې, خپلو, همدغو, ځینو, کوم, کومې</li>
+      <li>NOUN: ژباړې, ژبې, ژبو, خلکو, هېوادونو, کتابونو, ارزښتونو, خبرو, دودونو, ملتونو</li>
+      <li>NOUN-Vnoun: پوهونې, جوړونې, خپرونو, راپوهونې, کارونې</li>
+      <li>NUM: یوه, یوې</li>
+      <li>PRON: دې, هغوى, هغۀ, چا, بل, ما, هغې, دوى</li>
+      <li>PROPN: پښتو, پښتنو, پیتر, اردو, ايران, مریم, اسامه, امريکا, ايرانیانو, ايینې</li>
+      <li>VERB-Inf: کولو, ځلولو, څښلو, څکولو, ړنګېدو</li>
+      <li>VERB-Part: شویو</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Gen
+    <ul>
+      <li>PRON: ستا, زما, زموږ</li>
     </ul>
   </li>
 </ul>
@@ -293,12 +332,13 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Loc
     <ul>
-      <li>ADJ: ايراني, بنګالۍ, خلیجي, فرهنګي, نورو, نړيواله, وال, وروستیو, ټولنیز, پاړسي</li>
-      <li>ADP: په, کې, پۀ, پر</li>
-      <li>DET: هماغه, خپله, هره, ټوله</li>
-      <li>NOUN: ژبه, وخت, کچه, ادب, انځورونه, بڼه, توګه, دېوالونو, شرق, شمېر</li>
-      <li>PRON: دوی</li>
-      <li>PROPN: اردو, امريکا, انګرېزۍ, پاریس</li>
+      <li>ADJ: نورو, ټولنیز, لره, وروستیو, ايراني, ايرانۍ, بنګالۍ, تولیدي, خلیجي, فرهنګي</li>
+      <li>ADP: په, کې, پر, پۀ, باندې</li>
+      <li>DET: دې, خپله, ټوله, خپل, هره, هماغه, ځینو</li>
+      <li>NOUN: ژبه, برخه, توګه, سیمه, وخت, ژوند, بېخبرۍ, خوا, نړۍ, وده</li>
+      <li>NUM: یوه, دوه, دوو</li>
+      <li>PRON: دې, دوی, هغې</li>
+      <li>PROPN: پښتو, انګرېزۍ, ږوب, اردو, افغانستان, امريکا, لورلايي, هند, هندوستان, پاریس</li>
     </ul>
   </li>
 </ul>
@@ -306,15 +346,18 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: هنري, ادبي, جوړ, راټول, شهکار, لږ, نور, ژوندۍ, ښه, ګڼ</li>
-      <li>AUX-Part: شوى, کولی</li>
-      <li>DET: خپل, هغه, دغه, هر, دا, هره, هماغه, همدغه, ټولې, ځینې</li>
-      <li>NOUN: ژبه, اثر, ارزښت, دود, برخې, خبرې, زر, شمېر, لامل, لیک</li>
-      <li>NUM: يوه, یو</li>
-      <li>PRON: دا, همدغه, هیڅوک</li>
-      <li>PROPN: افغان, ایګوازو, براون, حبیبي, سمیس, طلوع, مریم, ټیګور, پیتر, ګیتانجلي</li>
-      <li>VERB-Inf: ګڼل, لیکل, ورکول, وشمېرل, ويل, وټاکل, ژباړل</li>
-      <li>VERB-Part: شوې, راتلی, رسولې, رسېدلی, شوى, شوي, لوستى, نیولی, ويلي, کړى</li>
+      <li>ADJ: جوړ, لږ, نور, هنري, ښه, خپور, زيات, زياتې, سم, ټولنیز</li>
+      <li>ADJ-Part: لیکنۍ, ورکوونکې, کارېدونکې</li>
+      <li>AUX-Part: شوي, شوى, شوې</li>
+      <li>DET: هغه, خپل, دغه, همدغه, هر, خپله, دا, ټول, ټولې, ځینې</li>
+      <li>NOUN: ژبه, خبرې, اثر, ارزښت, دود, ستونزه, وده, چاپ, کتابونه, ارزښتونه</li>
+      <li>NOUN-Vnoun: خپرونې, لیکنې, څرګندونې</li>
+      <li>NUM: یو, یوه</li>
+      <li>PRON: دا, همدا, څوک, دوى, موږ, هغه, همدغه, هیڅوک, ځان</li>
+      <li>PROPN: پښتو, پښتانه, ايرانیان, افغان, ایګوازو, براون, حبیبي, خان, سمیس, طلوع</li>
+      <li>VERB-Fin: شو</li>
+      <li>VERB-Inf: ژباړل, ګڼل, نیول, ويل, راوژباړل, راژباړل, رټل, لیکل, لېږل, واړول</li>
+      <li>VERB-Part: شوي, شوى, شوې, کړى, کړي, کړې, رسولې, رسېدلی, لوستى, لوېدلې</li>
     </ul>
   </li>
 </ul>
@@ -340,6 +383,7 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Neg
     <ul>
+      <li>ADJ: ناشونې</li>
       <li>AUX: ونه, ونۀ</li>
       <li>PART: نه, نۀ</li>
     </ul>
@@ -361,7 +405,9 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Long
     <ul>
-      <li>VERB-Fin: وکړ, وکړه</li>
+      <li>AUX-Fin: وکولاى</li>
+      <li>DET: همدغه, دغسې, دغه, همدغو</li>
+      <li>VERB-Fin: وکولاى, وکړ, وکړه, وکړي</li>
     </ul>
   </li>
 </ul>
@@ -369,9 +415,12 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Short
     <ul>
-      <li>DET: داسې, دا, دې</li>
-      <li>PRON: دا, دې</li>
-      <li>VERB-Inf: لاړ</li>
+      <li>ADV: هسې</li>
+      <li>AUX-Fin: شوای, شواى, کېداى</li>
+      <li>DET: دې, داسې, دا</li>
+      <li>NOUN: ډوله</li>
+      <li>VERB-Fin: راتلای</li>
+      <li>VERB-Inf: لاړ, ړنګېدو</li>
       <li>VERB-Part: لوستى</li>
     </ul>
   </li>
@@ -395,11 +444,9 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: کېږي</li>
-      <li>AUX-Part: کولی</li>
-      <li>VERB-Fin: لري, کوي, کښل, اواروي, برېښي, خپروي, درلوده, غواړې, لټاوه, وايي</li>
-      <li>VERB-Inf: ګڼل, لیکل, ورکول, څښلو, څکولو, ژباړل</li>
-      <li>VERB-Part: راتلی, رسولې, رسېدلی, روزونکې, لوستى, نیولی, ويلي</li>
+      <li>AUX-Fin: کېږي, کولای, کېداى</li>
+      <li>VERB-Fin: لري, کوي, ورکوي, کولاى, کېږي, راځي, پاتېږي, پالي, کوو, کښل</li>
+      <li>VERB-Inf: ژباړل, ګڼل, نیول, کولو, راژباړل, رټل, لیکل, لېږل, ورکول, وهل</li>
     </ul>
   </li>
 </ul>
@@ -407,18 +454,25 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Perf
     <ul>
-      <li>AUX: شوای, شوى, شې, شو, شي, ونه, ونۀ</li>
-      <li>AUX-Fin: شوای, شې, شو, شي</li>
-      <li>AUX-Part: شوى</li>
-      <li>VERB-Fin: کړه, شو, کړل, راوغزول, راوژباړه, شوه, شي, واخيستۀ, ورسېد, ورکړ</li>
-      <li>VERB-Inf: وشمېرل, ويل, وټاکل</li>
-      <li>VERB-Part: شوې, شوى, شوي, کړى, کړي, کړې</li>
+      <li>AUX: ونه, شوای, شو, شواى, ونۀ, وکولاى</li>
+      <li>AUX-Fin: شوای, شو, شواى, وکولاى</li>
+      <li>VERB-Fin: کړه, شو, شوه, وڅېړو, کړل, راواخلي, راوغزول, راوژباړه, واخيستۀ, ورسېد</li>
+      <li>VERB-Inf: راوژباړل, واړول, ورکړل, وشمېرل, ووېشل, ويل, وټاکل</li>
     </ul>
   </li>
 </ul>
 
 <ul>
   <li><a>Mood</a></li>
+</ul>
+
+<ul>
+  <li>Cnd
+    <ul>
+      <li>AUX-Fin: شوای, شواى, وای, وکولاى, کولای, کېداى</li>
+      <li>VERB-Fin: کولاى, اخیستلاى, اوارولاى, ايښوولاى, برخمنېدلاى, راتلای, لرلاى, لوستلاى, موندلاى, نیولای</li>
+    </ul>
+  </li>
 </ul>
 
 <ul>
@@ -432,16 +486,8 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: ده, دى, دی, کېږي, شې, وه, شو, شي, وو</li>
-      <li>VERB-Fin: لري, شو, کړه, کوي, کړل, کښل, اواروي, برېښي, خپروي, درلوده</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Pot
-    <ul>
-      <li>AUX-Fin: شوای, وای</li>
+      <li>AUX-Fin: ده, دي, کېږي, دى, دﺉ, وه, شو, و, وو</li>
+      <li>VERB-Fin: لري, کوي, ورکوي, شو, کړه, کېږي, راځي, شوه, وڅېړو, پاتېږي</li>
     </ul>
   </li>
 </ul>
@@ -449,10 +495,8 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: به, وي</li>
-      <li>AUX-Fin: وي</li>
-      <li>VERB-Fin: وي, پرېمینځي</li>
-      <li>VERB-Inf: لاړ</li>
+      <li>AUX-Fin: وي, شي, شو, شې</li>
+      <li>VERB-Fin: کړي, شي, ورکړي, وي, کړو, راوباسي, شو, واخلي, ولري, ولولي</li>
     </ul>
   </li>
 </ul>
@@ -462,20 +506,12 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 </ul>
 
 <ul>
-  <li>Fut
-    <ul>
-      <li>AUX: به</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: وه, شو, وو</li>
-      <li>AUX-Part: شوى, کولی</li>
-      <li>VERB-Fin: کړه, شو, کړل, کښل, درلوده, راوغزول, راوژباړه, شوه, لټاوه, واخيستۀ</li>
-      <li>VERB-Part: شوې, راتلی, رسولې, رسېدلی, شوى, شوي, لوستى, نیولی, ويلي, کړى</li>
+      <li>AUX-Fin: وه, شو, و, وو</li>
+      <li>AUX-Part: شوي, شوى, شوې</li>
+      <li>VERB-Fin: شو, کړه, شوه, کړل, کښل, درلوده, راوغزول, راوژباړه, لټاوه, واخيستۀ</li>
+      <li>VERB-Part: شوي, شوى, شوې, کړى, کړي, کړې, رسولې, رسېدلی, شویو, لوستى</li>
     </ul>
   </li>
 </ul>
@@ -483,13 +519,31 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: ده, دى, دی, کېږي, شې, شي</li>
-      <li>VERB-Fin: لري, کوي, اواروي, برېښي, خپروي, شته, شو, شي, غواړې, وايي</li>
-      <li>VERB-Part: روزونکې</li>
+      <li>AUX-Fin: ده, دي, کېږي, دى, دﺉ</li>
+      <li>VERB-Fin: لري, کوي, شته, ورکوي, کېږي, راځي, وڅېړو, پاتېږي, پالي, کوو</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>Voice</a></li>
+</ul>
+
+<ul>
+  <li>Act
+    <ul>
+      <li>ADJ-Part: لارورکوونکو, ورکوونکې, کارېدونکې</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pass
+    <ul>
+      <li>ADJ-Part: لیکنۍ</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
@@ -502,8 +556,9 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Dem
     <ul>
-      <li>DET: هغه, دغه, هماغه, داسې, دا, دې, هماغسې, همدغه, همدغو</li>
-      <li>PRON: دا, دې, همدغه</li>
+      <li>ADV: هسې</li>
+      <li>DET: دې, هغه, داسې, دغه, همدغه, دغسې, هماغه, دا, هماغسې, همدغو</li>
+      <li>PRON: دا, دې, همدا, هغه, هغې, همدغه</li>
     </ul>
   </li>
 </ul>
@@ -511,7 +566,8 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Ind
     <ul>
-      <li>DET: څو, کوم, ځینو, ځینې</li>
+      <li>DET: څو, ځینو, ځینې, کوم, کومه, کومې</li>
+      <li>PRON: څوک, چا</li>
     </ul>
   </li>
 </ul>
@@ -519,8 +575,8 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Int
     <ul>
-      <li>DET: څۀ</li>
-      <li>PRON: څه, چا</li>
+      <li>DET: کومې, څۀ, کوم</li>
+      <li>PRON: څه, چا, څوک</li>
     </ul>
   </li>
 </ul>
@@ -536,8 +592,8 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Prs
     <ul>
-      <li>DET: خپل, ستا, خپله, خپلو, زما</li>
-      <li>PRON: يې, هغۀ, ور, یې, ما, هغې, ځان, دوی, هغوى</li>
+      <li>DET: خپل, خپله, خپلو</li>
+      <li>PRON: يې, ور, ځان, هغوى, هغۀ, یې, دوى, ستا, ما, هغې</li>
     </ul>
   </li>
 </ul>
@@ -553,6 +609,7 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Rel
     <ul>
+      <li>ADV: چې</li>
       <li>PRON: چې</li>
     </ul>
   </li>
@@ -561,8 +618,8 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Tot
     <ul>
-      <li>DET: هرې, هر, هره, ټوله, ټولې</li>
-      <li>PRON: ټولو</li>
+      <li>DET: هر, هرې, ټوله, هره, ټول, ټولې</li>
+      <li>PRON: هرڅه, هرڅوک, ټولو</li>
     </ul>
   </li>
 </ul>
@@ -574,7 +631,7 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Card
     <ul>
-      <li>NUM: يوې, يوه, یو</li>
+      <li>NUM: یوه, یو, یوې, دوه, دوو</li>
     </ul>
   </li>
 </ul>
@@ -586,7 +643,7 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>Yes
     <ul>
-      <li>DET: خپل, ستا, خپله, خپلو, زما</li>
+      <li>DET: خپل, خپله, خپلو</li>
       <li>PRON: يې, یې</li>
     </ul>
   </li>
@@ -612,9 +669,9 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>1
     <ul>
-      <li>DET: زما</li>
-      <li>PRON: ما</li>
-      <li>VERB-Fin: شو, وڅېړو, کوم, کړو</li>
+      <li>AUX-Fin: شو</li>
+      <li>PRON: ما, زما, زموږ, موږ</li>
+      <li>VERB-Fin: وڅېړو, کوو, کړو, شو, وګورو, کوم</li>
     </ul>
   </li>
 </ul>
@@ -623,7 +680,7 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
   <li>2
     <ul>
       <li>AUX-Fin: شې</li>
-      <li>DET: ستا</li>
+      <li>PRON: ستا</li>
       <li>VERB-Fin: غواړې, کړه, ګورې</li>
     </ul>
   </li>
@@ -632,26 +689,15 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: وي, ده, دى, دی, کېږي, وه, شو, شي, وو</li>
-      <li>PRON: يې, هغۀ, ور, یې, هغې, دوی, هغوى</li>
-      <li>VERB-Fin: لري, کړه, شو, وي, کوي, کړل, کښل, اواروي, برېښي, خپروي</li>
+      <li>AUX-Fin: ده, وي, شي, دي, کېږي, دى, دﺉ, وه, شو, و</li>
+      <li>PRON: يې, ور, هغوى, هغۀ, یې, دوى, هغې, دوی</li>
+      <li>VERB-Fin: لري, کوي, کړي, شته, شي, ورکوي, شو, کړه, کېږي, راځي</li>
     </ul>
   </li>
 </ul>
 
 
 
-<ul>
-  <li><a>Number[psor]</a></li>
-</ul>
-
-<ul>
-  <li>Sing
-    <ul>
-      <li>DET: ستا, زما</li>
-    </ul>
-  </li>
-</ul>
 
 <h3>Other Features</h3>
 
@@ -661,14 +707,46 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
     <ul>
       <li>Prox
         <ul>
-          <li>DET: دغه, داسې, دا, دې, همدغه, همدغو</li>
-          <li>PRON: دا, دوی, دې, همدغه</li>
+          <li>DET: دې, داسې, دغه, همدغه, دغسې, دا, همدغو, همدې</li>
+          <li>PRON: دا, دې, همدا, دوى, دوی, همدغه</li>
         </ul>
       </li>
       <li>Remt
         <ul>
+          <li>ADV: هلته, هسې</li>
           <li>DET: هغه, هماغه, هماغسې</li>
-          <li>PRON: هغۀ, هغې, هغوى</li>
+          <li>PRON: هغوى, هغۀ, هغې, هغه</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADJ: لږ</li>
+          <li>ADV: کله</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADV: کله</li>
+          <li>SCONJ: ځکه, که</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: Escape, Taliban, from</li>
         </ul>
       </li>
     </ul>
@@ -680,7 +758,8 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
     <ul>
       <li>Yes
         <ul>
-          <li>NOUN: زېري, لاره</li>
+          <li>ADJ: ټولنیزو, اّر, ممکنه, پښتون, ګنې</li>
+          <li>NOUN: زېري, لاره, ولايتونو</li>
         </ul>
       </li>
     </ul>
@@ -692,11 +771,11 @@ We thank Salih Mohammad Salih for providing the texts to the treebank and Shah W
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: یم.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: ول.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: کېدل, یم, بۀ, ونۀ, کول.</li>
+<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: ونۀ, ول, کېدل.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: کېدل.</li>
 </ul>
 
@@ -707,15 +786,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN-Acc (6)</li>
-      <li>VERB-Fin--NOUN-Nom (16)</li>
-      <li>VERB-Fin--PRON (8)</li>
-      <li>VERB-Fin--PRON-Acc (6)</li>
-      <li>VERB-Fin--PRON-Nom (1)</li>
-      <li>VERB-Inf--NOUN-Nom (4)</li>
-      <li>VERB-Part--NOUN-Acc (1)</li>
-      <li>VERB-Part--NOUN-Nom (3)</li>
-      <li>VERB-Part--PRON (3)</li>
-      <li>VERB-Part--PRON-Acc (2)</li>
+      <li>VERB-Fin--NOUN-Nom (44)</li>
+      <li>VERB-Fin--PRON (14)</li>
+      <li>VERB-Fin--PRON-Acc (7)</li>
+      <li>VERB-Fin--PRON-Nom (4)</li>
+      <li>VERB-Inf--NOUN-Nom (1)</li>
+      <li>VERB-Part--NOUN-Acc (4)</li>
+      <li>VERB-Part--NOUN-Nom (6)</li>
+      <li>VERB-Part--PRON (4)</li>
+      <li>VERB-Part--PRON-Acc (1)</li>
+      <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -723,12 +803,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
+      <li>VERB-Fin--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN-Loc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (36)</li>
-      <li>VERB-Fin--PRON (4)</li>
-      <li>VERB-Fin--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN-Nom (5)</li>
-      <li>VERB-Part--PRON (1)</li>
+      <li>VERB-Fin--NOUN-Nom (80)</li>
+      <li>VERB-Fin--PRON (8)</li>
+      <li>VERB-Fin--PRON-Nom (2)</li>
+      <li>VERB-Inf--NOUN-Nom (1)</li>
+      <li>VERB-Part--NOUN-Nom (7)</li>
+      <li>VERB-Part--PRON (2)</li>
     </ul>
   </li>
 </ul>
@@ -742,11 +824,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 
 
+<h3>Verbs with Reflexive Core Objects</h3>
+
+<ul>
+  <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: کول ځان</li>
+</ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>orphan:nsubjobj</a></li>
+<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:cnd</a>, <a>aux:fut</a>, <a>aux:hab</a>, <a>aux:pass</a>, <a>aux:perf</a>, <a>aux:pot</a>, <a>compound:lvc</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>orphan:nsubjobj</a>, <a>orphan:objobl</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>orphan</a></li>
-<li>The following 10 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

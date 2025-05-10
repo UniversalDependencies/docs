@@ -73,7 +73,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 28	negozio	negozio	NOUN	S	Gender=Masc|Number=Sing	25	nmod	_	_
 29	di	di	ADP	E	_	30	case	_	_
 30	scarpe	scarpa	NOUN	S	Gender=Fem|Number=Plur	28	nmod	_	_
-31	vecino	vecino	ADP	E	_	34	case	_	_
+31	vecino	vecino	ADP	E	ExtPos=ADP	34	case	_	_
 32	a	a	ADP	E	_	31	fixed	_	_
 33	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
 34	parco	parco	NOUN	S	Gender=Masc|Number=Sing	28	nmod	_	_
@@ -88,7 +88,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 43	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	det	_	_
 44	10	10	NUM	N	NumType=Card	45	nummod	_	SpaceAfter=No
 45	%	%	SYM	SYM	_	41	nmod	_	_
-46	a	a	SCONJ	CS	_	54	mark	_	_
+46	a	a	SCONJ	CS	ExtPos=ADP	54	mark	_	_
 47	tal	tale	SCONJ	CS	_	46	fixed	_	_
 48	punto	punto	SCONJ	CS	_	46	fixed	_	_
 49	che	che	SCONJ	CS	_	46	fixed	_	_

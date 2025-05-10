@@ -24,5 +24,5 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 * `Fem` (18; 8% of non-empty `Gender`): <em>she, her, one</em>
 * `Masc` (205; 92% of non-empty `Gender`): <em>he, him, himself, Nothing</em>
-* `EMPTY` (1831): <em>it, I, we, that, which, you, they, this, there, who</em>
+* `EMPTY` (1824): <em>it, I, we, that, which, you, they, this, there, who</em>
 

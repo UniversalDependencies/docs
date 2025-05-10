@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Relations: `aux:opt`
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-aux.html">aux</a></tt>.
-There are also 6 other language-specific subtypes of `aux`: <tt><a href="myv_jr-dep-aux-aspect.html">aux:aspect</a></tt>, <tt><a href="myv_jr-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="myv_jr-dep-aux-imp.html">aux:imp</a></tt>, <tt><a href="myv_jr-dep-aux-nec.html">aux:nec</a></tt>, <tt><a href="myv_jr-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="myv_jr-dep-aux-q.html">aux:q</a></tt>.
+There are also 3 other language-specific subtypes of `aux`: <tt><a href="myv_jr-dep-aux-aspect.html">aux:aspect</a></tt>, <tt><a href="myv_jr-dep-aux-imp.html">aux:imp</a></tt>, <tt><a href="myv_jr-dep-aux-neg.html">aux:neg</a></tt>.
 
 10 nodes (0%) are attached to their parents as `aux:opt`.
 
@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `aux:opt`: <tt><a hr
 # visual-style 4	fgColor:white
 # visual-style 4 1 aux:opt	color:blue
 1	Кадык	кадык	AUX	Pcle	Mood=Opt	4	aux:opt	_	GTtags=Opt
-2	уш	уш	ADV	Adv	AdvType=Tim	4	advmod:tmod	_	GTtags=Sem/Time
+2	уш	уш	ADV	Adv	AdvType=Tim	4	advmod	_	GTtags=Sem/Time
 3	аватне	ава	NOUN	N	Case=Nom|Definite=Def|Number=Plur	4	nsubj	_	GTtags=Sem/Kin,Pl,Nom,Def
 4	пулькить	пулькамс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScPl3
 5	те	те	DET	Det	Case=Nom|Definite=Ind|Number=Sing	7	det	_	GTtags=Sg,Nom,Indef

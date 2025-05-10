@@ -21,7 +21,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="orv_ruthenian-pos-X
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (36; 100% of non-empty `Foreign`): <em>etc., ad, іdem, Alіe, z, Confіrmatіo, Kopіa, N, Połockіe(g)o, Sіgіsmundus</em>
-* `EMPTY` (35): <em>[2_зв.], [4_зв.], с, (м), [10], [1], [1_зв.], [2], [2v], [3_зв.]</em>
+* `EMPTY` (34): <em>[2_зв.], [4_зв.], с, [10], [1], [1_зв.], [2], [2v], [3_зв.], [3v]</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (21) occur only with one value of `Foreign`.
 

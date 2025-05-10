@@ -37,7 +37,7 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 13	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
 14	minhas	meu	DET	_	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	15	det	_	_
 15	férias	féria	NOUN	_	Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	11	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	11	punct	_	_
 
 ~~~
 
@@ -67,7 +67,7 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 17	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	SEMANAL	semanal	NOUN	_	Number=Sing	20	nmod	_	_
 19	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
-20	#funeraria	#funerária	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	1	parataxis	_	CorrectForm=#funerária|SpaceAfter=No
+20	#funeraria	#funerária	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	1	parataxis	_	CorrectForm=#funerária
 
 ~~~
 
@@ -98,7 +98,7 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 18	se	se	SCONJ	_	_	19	mark	_	_
 19	fura	furar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	ccomp	_	_
 20	!	!	PUNCT	_	_	17	punct	_	_
-21	=)	=)	SYM	_	_	2	discourse	_	SpaceAfter=No
+21	=)	=)	SYM	_	_	2	discourse	_	_
 
 ~~~
 

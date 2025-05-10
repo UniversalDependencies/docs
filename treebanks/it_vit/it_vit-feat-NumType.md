@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 3 different values: `Card`, `Ord`, `Range`.
 
 7005 tokens (3%) have a non-empty value of `NumType`.
-1378 types (6%) occur at least once with a non-empty value of `NumType`.
+1379 types (6%) occur at least once with a non-empty value of `NumType`.
 1337 lemmas (9%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (6387; 2% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (617; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Card` (1; 0% of non-empty `NumType`): <em>prima</em>
 * `Ord` (616; 100% of non-empty `NumType`): <em>primo, seconda, prima, secondo, terzo, prime, primi, quarto, quinto, II</em>
-* `EMPTY` (19550): <em>precedente, altri, nuovo, grande, economico, stesso, altre, nuova, nuovi, presente</em>
+* `EMPTY` (19558): <em>precedente, altri, nuovo, grande, economico, stesso, altre, nuova, nuovi, presente</em>
 
 <table>
   <tr><th>Paradigm <i>prima</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
@@ -55,7 +55,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): <em>6</em>
-* `EMPTY` (57758): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
+* `EMPTY` (57881): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
 
 ## Relations with Agreement in `NumType`
 

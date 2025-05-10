@@ -84,7 +84,6 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="kpv_lattice-dep-aux-tense.html">aux:tense</a></tt>]--> AUX</tt> (10; 67%),
 <tt>VERB --[<tt><a href="kpv_lattice-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="kpv_lattice-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="kpv_lattice-dep-advcl-eval.html">advcl:eval</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="kpv_lattice-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%).
 

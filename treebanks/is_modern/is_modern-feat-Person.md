@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-11931 tokens (15%) have a non-empty value of `Person`.
-1155 types (11%) occur at least once with a non-empty value of `Person`.
+11934 tokens (15%) have a non-empty value of `Person`.
+1156 types (11%) occur at least once with a non-empty value of `Person`.
 432 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 7 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (4699; 6% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4620; 6% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2603; 3% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (4702; 6% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4620; 6% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2603; 3% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-4699 <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> tokens (51% of all `VERB` tokens) have a non-empty value of `Person`.
+4702 <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> tokens (51% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4699; 100%), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4259; 91%), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3998; 85%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3485; 74%), <tt><a href="is_modern-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3452; 73%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4702; 100%), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4260; 91%), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3999; 85%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3487; 74%), <tt><a href="is_modern-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3455; 73%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (1393; 30% of non-empty `Person`): <em>held, þakka, eigum, þurfum, tel, veit, hef, verðum, tek, verð</em>
 * `2` (42; 1% of non-empty `Person`): <em>Gripið, samanber, fyrirgefið, Afsaka, Munið, Vitið, aflar, athugið, bið, eyðir</em>
-* `3` (3264; 69% of non-empty `Person`): <em>hringir, kemur, á, finnst, þarf, verður, sagði, verði, segir, kom</em>
-* `EMPTY` (4596): <em>gera, fara, taka, koma, varðandi, segja, gert, vinna, sjá, fá</em>
+* `3` (3267; 69% of non-empty `Person`): <em>hringir, kemur, á, finnst, þarf, verður, sagði, verði, segir, kom</em>
+* `EMPTY` (4593): <em>gera, fara, taka, koma, varðandi, segja, gert, vinna, sjá, fá</em>
 
 <table>
   <tr><th>Paradigm <i>koma</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -128,12 +128,12 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 `X` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): <em>ákvaðu</em>
-* `EMPTY` (90): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
+* `EMPTY` (89): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (346; 50%),
+<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (347; 51%),
 <tt>PRON --[<tt><a href="is_modern-dep-obl.html">obl</a></tt>]--> VERB</tt> (4; 57%),
 <tt>AUX --[<tt><a href="is_modern-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (1; 100%),
 <tt>AUX --[<tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),

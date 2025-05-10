@@ -32,7 +32,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 8	sem	sem	ADP	_	_	9	mark	_	_
 9	parar	parar	VERB	_	VerbForm=Inf	7	advcl	_	SpaceAfter=No
 10	…	…	PUNCT	_	_	7	punct	_	_
-11	#CPIdaPTbras	#CPIdaPTbras	X	_	_	7	parataxis	_	SpaceAfter=No
+11	#CPIdaPTbras	#CPIdaPTbras	X	_	_	7	parataxis	_	_
 
 ~~~
 
@@ -53,7 +53,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 8	nocao	noção	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	6	obl	_	CorrectForm=noção
 9	de	de	ADP	_	_	10	case	_	_
 10	fundo	fundo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
-11	...	...	PUNCT	_	_	3	punct	_	SpaceAfter=No
+11	...	...	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -77,7 +77,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 11	acha	achar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
 12	que	que	SCONJ	_	_	13	mark	_	_
 13	vale	valer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	SpaceAfter=No
-14	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
+14	?	?	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

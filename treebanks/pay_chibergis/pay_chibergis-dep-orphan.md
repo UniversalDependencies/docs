@@ -31,7 +31,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 7	=ma	=ma	PART	_	_	6	case	_	AlignBegin=173585|AlignEnd=174064|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=7|RX=[PRT]|TokenType=Clit|Word=ma
 8	tʃawa	tʃa	VERB	_	_	2	csubj	_	AlignBegin=174064|AlignEnd=174543|Gloss=be.there|MGloss=be.there -S3SG -PFV|MSeg=tʃa-Ø-wa|nWord=8|RX=[VI]|TokenType=Root|Word=tʃu|wordform=tʃa-Ø-wa
 9	=na	=na	PART	_	_	2	mark	_	AlignBegin=174543|AlignEnd=175022|Gloss==REP|MGloss==REP|MSeg==na|nWord=9|RX=[PRT]|TokenType=Clit|Word=na
-10	tewataʔ	tewataʔ	ADV	_	_	8	advmod	_	AlignBegin=175022|AlignEnd=175501|Gloss=still|MGloss=still|MSeg=tewataʔ|nWord=10|RX=[ADV]|TokenType=Root|Word=tewataʔ
+10	tewataʔ	tewataʔ	ADV	_	_	8	obl:tmod	_	AlignBegin=175022|AlignEnd=175501|Gloss=still|MGloss=still|MSeg=tewataʔ|nWord=10|RX=[ADV]|TokenType=Root|Word=tewataʔ
 11	toʔ	toʔ	PRON	_	_	12	det	_	AlignBegin=175501|AlignEnd=175980|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=toʔ|nWord=11|RX=[PRO]|TokenType=Root|Word=toʔ
 12	akawa	kawa	NOUN	_	_	13	orphan	_	AlignBegin=175980|AlignEnd=176459|Gloss=spouse|MGloss=POSS3SG- spouse|MSeg=a-kawa|nWord=12|RX=[N]|TokenType=Root|Word=akawa|wordform=a-kawa
 13	=na	=na	PART	_	_	2	parataxis	_	AlignBegin=176459|AlignEnd=176938|Gloss==REP|MGloss==REP|MSeg==na|nWord=13|RX=[PRT]|TokenType=Clit|Word=na

@@ -60,18 +60,18 @@ The 2nd highest number of forms (20) was observed with the lemma “poder”: <e
 
 The 3rd highest number of forms (12) was observed with the lemma “estar”: <em>estaba, estaban, estamos, estar, estea, estean, estiveron, estivese, estivo, estou, está, están</em>.
 
-`AUX` occurs with 5 features: <tt><a href="gl_treegal-feat-VerbForm.html">VerbForm</a></tt> (608; 100% instances), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt> (559; 92% instances), <tt><a href="gl_treegal-feat-Person.html">Person</a></tt> (559; 92% instances), <tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt> (557; 91% instances), <tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt> (529; 87% instances)
+`AUX` occurs with 6 features: <tt><a href="gl_treegal-feat-VerbForm.html">VerbForm</a></tt> (608; 100% instances), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt> (559; 92% instances), <tt><a href="gl_treegal-feat-Person.html">Person</a></tt> (559; 92% instances), <tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt> (557; 91% instances), <tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt> (529; 87% instances), <tt><a href="gl_treegal-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`AUX` occurs with 16 feature-value pairs: `Mood=Cnd,Ind`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`
+`AUX` occurs with 17 feature-value pairs: `ExtPos=ADV`, `Mood=Cnd,Ind`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`
 
-`AUX` occurs with 29 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (269 tokens).
+`AUX` occurs with 30 feature combinations.
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (268 tokens).
 Examples: <em>é, está, pode, vai, ten, hai, debe, vén, deixa, e</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="gl_treegal-dep-cop.html">cop</a></tt> (393; 65% instances), <tt><a href="gl_treegal-dep-aux.html">aux</a></tt> (177; 29% instances), <tt><a href="gl_treegal-dep-aux-pass.html">aux:pass</a></tt> (37; 6% instances), <tt><a href="gl_treegal-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-root.html">root</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 6 different relations: <tt><a href="gl_treegal-dep-cop.html">cop</a></tt> (392; 64% instances), <tt><a href="gl_treegal-dep-aux.html">aux</a></tt> (177; 29% instances), <tt><a href="gl_treegal-dep-aux-pass.html">aux:pass</a></tt> (37; 6% instances), <tt><a href="gl_treegal-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-root.html">root</a></tt> (1; 0% instances)
 
 Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (250; 41% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (163; 27% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (110; 18% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (56; 9% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (19; 3% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="gl_treegal-pos-X.html">X</a></tt> (1; 0% instances)
 

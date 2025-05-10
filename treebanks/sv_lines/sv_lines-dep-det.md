@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4741 nodes (5%) are attached to their parents as `det`.
+5319 nodes (5%) are attached to their parents as `det`.
 
-4738 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.58932714617169.
+5316 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.57849219778154.
 
-The following 12 pairs of parts of speech are connected with `det`: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-DET.html">DET</a></tt> (4379; 92% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-DET.html">DET</a></tt> (248; 5% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_lines-pos-DET.html">DET</a></tt> (39; 1% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_lines-pos-DET.html">DET</a></tt> (28; 1% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_lines-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_lines-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sv_lines-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-DET.html">DET</a></tt> (4929; 93% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-DET.html">DET</a></tt> (279; 5% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_lines-pos-DET.html">DET</a></tt> (40; 1% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_lines-pos-DET.html">DET</a></tt> (40; 1% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_lines-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_lines-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sv_lines-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -53,25 +53,21 @@ The following 12 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 det	color:blue
-1	Han	han	PRON	PERS-P3SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	2	nsubj	_	_
-2	undrade	undra	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	om	om	SCONJ	_	_	7	mark	_	_
-4	den	den	DET	SG-DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Art	6	det	_	_
-5	unge	ung	ADJ	POS-SG-DEF	Case=Nom|Definite=Def|Degree=Pos	6	amod	_	_
-6	Auster	Auster	PROPN	SG-NOM	Case=Nom	7	nsubj	_	_
-7	hade	ha	AUX	PAST-AUX	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
-8	varit	vara	AUX	SUP-ACT	VerbForm=Sup|Voice=Act	9	cop	_	_
-9	bättre	bra	ADJ	CMP	Case=Nom|Degree=Cmp	7	xcomp	_	_
-10	på	på	ADP	_	_	11	case	_	_
-11	det	den	PRON	PERS-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	9	nmod	_	_
-12	än	än	ADP	CMP	_	13	case	_	_
-13	han	han	PRON	PERS-P3SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	9	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	Period	_	2	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 det	color:blue
+1	Men	men	CCONJ	_	_	9	cc	_	_
+2	allt	all	DET	TOT-SG	Gender=Neut|Number=Sing|PronType=Tot	3	det	_	_
+3	detta	denna	PRON	DEM-SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	_
+4	är	vara	AUX	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
+5	på	på	ADP	_	_	7	case	_	_
+6	något	någon	DET	SG-IND	Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	7	det	_	_
+7	sätt	sätt	NOUN	IND-NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	9	nmod	_	_
+8	yttre	yttre	ADJ	POS	Case=Nom|Degree=Pos	9	amod	_	_
+9	ting	ting	NOUN	IND-NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	Period	_	9	punct	_	_
 
 ~~~
 

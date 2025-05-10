@@ -6,21 +6,24 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-GENTLE: POS Tags: `DET`
 
-There are 17 `DET` lemmas (0%), 21 `DET` types (1%) and 1195 `DET` tokens (7%).
+There are 17 `DET` lemmas (0%), 21 `DET` types (1%) and 1194 `DET` tokens (7%).
 Out of 17 observed tags, the rank of `DET` is: 14 in number of lemmas, 14 in number of types and 6 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>the, a, this, all, no, any, that, some, each, every</em>
 
 The 10 most frequent `DET` types:  <em>the, a, this, an, all, no, any, that, some, each</em>
 
-The 10 most frequent ambiguous lemmas: <em>this</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 85, <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 32, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1), <em>all</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 37, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 6), <em>no</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 35, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 5), <em>that</em> (<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 63, <tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> 59, <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 17), <em>each</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 11, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1), <em>both</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 4, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1), <em>either</em> (<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 3), <em>such</em> (<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 3, <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 2), <em>what</em> (<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 32, <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 1), <em>which</em> (<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 33, <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 310, <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> 1), <em>this</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 83, <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 28, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1), <em>all</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 37, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 6), <em>no</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 35, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 5), <em>that</em> (<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 67, <tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> 59, <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 19), <em>each</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 11, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1), <em>both</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 4, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1), <em>either</em> (<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 3), <em>such</em> (<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 3, <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 2), <em>what</em> (<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 32, <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 567, <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 1), <em>this</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 71, <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 14, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1), <em>an</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 44, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 1), <em>all</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 31, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 6), <em>no</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 30, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 5), <em>that</em> (<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 54, <tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> 54, <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 15), <em>some</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 14, <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 1), <em>each</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 11, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1), <em>these</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 5, <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 1), <em>both</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 4, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 567, <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 1), <em>a</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 246, <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> 1), <em>this</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 71, <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 14, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1), <em>an</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 44, <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 1), <em>all</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 31, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 6), <em>no</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 30, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 5), <em>that</em> (<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 54, <tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> 54, <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 15), <em>some</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 14, <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 1), <em>each</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 11, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1), <em>these</em> (<tt><a href="en_gentle-pos-DET.html">DET</a></tt> 5, <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 1)
 
 
 * <em>the</em>
   * <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 567: <em>The man in <b>the</b> next bunk kept me awake all night with his snoring .</em>
   * <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 1: <em>I 've made a couple of phone calls to San Pedro to some friends of mine and <b>the</b> not to happy with your fucking game playing with other people 's money and especially you hitting Paula .</em>
+* <em>a</em>
+  * <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 246: <em>She lives <b>a</b> mile or two away , in the next village .</em>
+  * <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> 1: <em>Whether Tempter sent , or whether tempest tossed thee here <b>a</b> shore , Desolate yet all undaunted , on this desert land enchanted — On this home by Horror haunted — tell me truly , I implore —</em>
 * <em>this</em>
   * <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 71: <em><b>this</b> coming</em>
   * <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 14: <em><b>this</b></em>
@@ -47,22 +50,18 @@ The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="en_gentle-pos-
 * <em>these</em>
   * <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 5: <em>Celce currently set up many builds , one of <b>these</b> very early awkward fights , sees those as well .</em>
   * <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> 1: <em>The Rensselaer Handbook of Student Rights and Responsibilities and the Graduate Student Supplement ( For 6000 level and above courses ) define various forms of Academic Dishonesty and you should make yourself familiar with <b>these</b> .</em>
-* <em>both</em>
-  * <tt><a href="en_gentle-pos-DET.html">DET</a></tt> 4: <em>by that God we <b>both</b> adore —</em>
-  * <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Though the State can not override that right , it has legitimate interests in protecting <b>both</b> the pregnant woman 's health and the potentiality of human life , each of which interests grows and reaches a " compelling " point at various stages of the woman 's approach to term .</em>
-  * <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 1: <em>If x = y , they 're necessarily <b>both</b> in S or T simultaneously .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.235294 (the average of all parts of speech is 1.147634).
+The form / lemma ratio of `DET` is 1.235294 (the average of all parts of speech is 1.148568).
 
-The 1st highest number of forms (3) was observed with the lemma “this”: <em>these, this, those</em>.
+The 1st highest number of forms (2) was observed with the lemma “a”: <em>a, an</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “a”: <em>a, an</em>.
+The 2nd highest number of forms (2) was observed with the lemma “no”: <em>know, no</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “no”: <em>know, no</em>.
+The 3rd highest number of forms (2) was observed with the lemma “that”: <em>that, those</em>.
 
-`DET` occurs with 5 features: <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt> (1192; 100% instances), <tt><a href="en_gentle-feat-Definite.html">Definite</a></tt> (940; 79% instances), <tt><a href="en_gentle-feat-Number.html">Number</a></tt> (102; 9% instances), <tt><a href="en_gentle-feat-ExtPos.html">ExtPos</a></tt> (3; 0% instances), <tt><a href="en_gentle-feat-Typo.html">Typo</a></tt> (2; 0% instances)
+`DET` occurs with 5 features: <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt> (1191; 100% instances), <tt><a href="en_gentle-feat-Definite.html">Definite</a></tt> (939; 79% instances), <tt><a href="en_gentle-feat-Number.html">Number</a></tt> (102; 9% instances), <tt><a href="en_gentle-feat-ExtPos.html">ExtPos</a></tt> (3; 0% instances), <tt><a href="en_gentle-feat-Typo.html">Typo</a></tt> (2; 0% instances)
 
 `DET` occurs with 13 feature-value pairs: `Definite=Def`, `Definite=Ind`, `ExtPos=PRON`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Rcp`, `PronType=Tot`, `Typo=Yes`
 
@@ -73,11 +72,11 @@ Examples: <em>the</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 11 different relations: <tt><a href="en_gentle-dep-det.html">det</a></tt> (1155; 97% instances), <tt><a href="en_gentle-dep-det-predet.html">det:predet</a></tt> (13; 1% instances), <tt><a href="en_gentle-dep-obj.html">obj</a></tt> (6; 1% instances), <tt><a href="en_gentle-dep-advmod.html">advmod</a></tt> (5; 0% instances), <tt><a href="en_gentle-dep-nmod.html">nmod</a></tt> (5; 0% instances), <tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt> (5; 0% instances), <tt><a href="en_gentle-dep-obl-unmarked.html">obl:unmarked</a></tt> (2; 0% instances), <tt><a href="en_gentle-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="en_gentle-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="en_gentle-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="en_gentle-dep-root.html">root</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 11 different relations: <tt><a href="en_gentle-dep-det.html">det</a></tt> (1154; 97% instances), <tt><a href="en_gentle-dep-det-predet.html">det:predet</a></tt> (13; 1% instances), <tt><a href="en_gentle-dep-obj.html">obj</a></tt> (6; 1% instances), <tt><a href="en_gentle-dep-advmod.html">advmod</a></tt> (5; 0% instances), <tt><a href="en_gentle-dep-nmod.html">nmod</a></tt> (5; 0% instances), <tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt> (5; 0% instances), <tt><a href="en_gentle-dep-obl-unmarked.html">obl:unmarked</a></tt> (2; 0% instances), <tt><a href="en_gentle-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="en_gentle-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="en_gentle-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="en_gentle-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (1055; 88% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (107; 9% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="en_gentle-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (1054; 88% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (107; 9% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="en_gentle-pos-X.html">X</a></tt> (1; 0% instances)
 
-1177 (98%) `DET` nodes are leaves.
+1176 (98%) `DET` nodes are leaves.
 
 13 (1%) `DET` nodes have one child.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1151 nodes (1%) are attached to their parents as `mark`.
+1152 nodes (1%) are attached to their parents as `mark`.
 
-1150 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.96785403996525.
+1151 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.96875.
 
-The following 23 pairs of parts of speech are connected with `mark`: <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (568; 49% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (429; 37% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (48; 4% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (21; 2% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (16; 1% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (10; 1% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (9; 1% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (9; 1% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `mark`: <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (568; 49% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (429; 37% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (48; 4% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (21; 2% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (16; 1% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (10; 1% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (9; 1% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (9; 1% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 23 pairs of parts of speech are connected with `mark`: <tt><a href
 6	17,77	17,77	NUM	_	NumType=Card	5	obl	_	_
 7	5'	5'	NUM	_	NumType=Card	6	conj	_	_
 8	e	e	CCONJ	_	_	9	cc	_	_
-9	romper	romper	VERB	_	VerbForm=Inf	4	conj	_	SpaceAfter=No
+9	romper	romper	VERB	_	VerbForm=Inf	4	conj	_	_
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 23 pairs of parts of speech are connected with `mark`: <tt><a href
 8	sem	sem	ADP	_	_	9	mark	_	_
 9	parar	parar	VERB	_	VerbForm=Inf	7	advcl	_	SpaceAfter=No
 10	…	…	PUNCT	_	_	7	punct	_	_
-11	#CPIdaPTbras	#CPIdaPTbras	X	_	_	7	parataxis	_	SpaceAfter=No
+11	#CPIdaPTbras	#CPIdaPTbras	X	_	_	7	parataxis	_	_
 
 ~~~
 
@@ -75,7 +75,7 @@ The following 23 pairs of parts of speech are connected with `mark`: <tt><a href
 11	de	de	ADP	_	_	13	case	_	_
 12	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	vale5	vale5	PROPN	_	_	10	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

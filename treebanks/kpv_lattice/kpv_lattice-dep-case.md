@@ -47,7 +47,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 4	весиг	весиг	PART	Pcle	_	6	advmod	_	_
 5	шуштӧм	шуштӧм	NOUN	N	Case=Abe|Number=Sing|Variant=Nomin	6	xcomp	_	_
 6	лолі	лолыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-7	сьӧлӧм	сьӧлӧм	NOUN	N	Case=Nom|Number=Sing	6	obl:lmod	_	_
+7	сьӧлӧм	сьӧлӧм	NOUN	N	Case=Nom|Number=Sing	6	obl	_	_
 8	вылын	вылын	ADP	Po	AdpType=Post|Case=Ine|Number=Sing	7	case	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	6	punct	_	_
 
@@ -60,9 +60,9 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 case	color:blue
-1	Сідз	сідз	ADV	Adv	_	4	advmod:mmod	_	_
-2	жӧ	жӧ	ADV	Adv	_	1	advmod:eval	_	OrigLang=ru
-3	колӧ	ковны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux:nec	_	_
+1	Сідз	сідз	ADV	Adv	_	4	advmod	_	_
+2	жӧ	жӧ	ADV	Adv	_	1	advmod	_	OrigLang=ru
+3	колӧ	ковны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	_
 4	сетны	сетны	VERB	V	VerbForm=Inf	0	root	_	_
 5	ыджыд	ыджыд	ADJ	A	Case=Nom|Number=Sing	6	amod	_	_
 6	тӧдчанлун	тӧдчанлун	NOUN	N	Case=Nom|Number=Sing	4	nmod:obj	_	_

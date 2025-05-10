@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.442869).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.456660).
 
 The 1st highest number of forms (1) was observed with the lemma “agar”: <em>Agar</em>.
 
@@ -34,7 +34,7 @@ The 2nd highest number of forms (1) was observed with the lemma “chunki”: <e
 
 `SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="uz_ut-dep-mark.html">mark</a></tt> (5; 56% instances), <tt><a href="uz_ut-dep-cc.html">cc</a></tt> (4; 44% instances)
 
-Parents of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (5; 56% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (1; 11% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt> (1; 11% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt> (1; 11% instances)
+Parents of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (7; 78% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (1; 11% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt> (1; 11% instances)
 
 7 (78%) `SCONJ` nodes are leaves.
 

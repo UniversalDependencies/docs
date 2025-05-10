@@ -24,9 +24,9 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0 6 root	color:blue
 1	Лётчикне	лётчик	NOUN	N	Case=Nom|Definite=Def|Number=Plur	6	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	улема	улема	VERB	V	Mood=Nec|Number[subj]=Sing|Person[subj]=3	6	advcl:eval	_	SpaceAfter=No
+3	улема	улема	VERB	V	Mood=Nec|Number[subj]=Sing|Person[subj]=3	6	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	3	punct	_	_
-5	кядьса	кядь	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	6	obl:inst	_	_
+5	кядьса	кядь	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	6	obl	_	_
 6	токсесазь	токсемс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres	0	root	_	_
 7	коволнятнень	ковол	NOUN	N	Case=Gen|Definite=Def|Degree=Dim|Number=Plur	6	obj	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	6	punct	_	_

@@ -11,7 +11,7 @@ It occurs with 1 different values: `Int`.
 
 15 tokens (0%) have a non-empty value of `PronType`.
 10 types (0%) occur at least once with a non-empty value of `PronType`.
-1 lemmas (0) occur at least once with a non-empty value of `PronType`.
+10 lemmas (0%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 4 part-of-speech tags: <tt><a href="th_pud-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `PART`

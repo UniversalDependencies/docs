@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="xcl_caval-dep-compound-redup.html">compound:redup</a></tt>.
 
-16 nodes (0%) are attached to their parents as `compound`.
+20 nodes (0%) are attached to their parents as `compound`.
 
-14 instances of `compound` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25.
+18 instances of `compound` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2.
 
-The following 3 pairs of parts of speech are connected with `compound`: <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (14; 88% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (1; 6% instances).
+The following 3 pairs of parts of speech are connected with `compound`: <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (18; 90% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 11 9 compound	color:blue
 1	եւ	եւ	CCONJ	_	_	8	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 2	եին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	Translit=ein|LTranslit=em|Gloss=be
-3	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	4	nsubj	_	Translit=or|LTranslit=or|Gloss=which
+3	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	4	nsubj	_	Translit=or|LTranslit=or|Gloss=who
 4	կերան	ուտել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	csubj	_	SpaceAfter=No|Translit=keran|LTranslit=owtel|Gloss=eat
 5	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	4	det	_	SpaceAfter=No|Translit=n|LTranslit=n|Gloss=that
 6	՝	՝	PUNCT	_	_	4	punct	_	Translit=;|LTranslit=;
@@ -52,9 +52,9 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 5	.	.	PUNCT	_	_	7	punct	_	Translit=:|LTranslit=:
 6	եւ	եւ	CCONJ	_	_	7	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 7	ած	ածել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Translit=ac|LTranslit=acel|Gloss=drive
-8	շուրջ	շուրջ	ADP	_	_	10	case	_	Translit=šowrǰ|LTranslit=šowrǰ|Gloss=around
+8	շուրջ	շուրջ	ADP	_	ExtPos=ADP	10	case	_	Translit=šowrǰ|LTranslit=šowrǰ|Gloss=around
 9	զ	զ	ADP	_	Definite=Def	8	fixed	_	SpaceAfter=No|Translit=z|LTranslit=z
-10	նովաւ	նա	PRON	_	Case=Ins|Deixis=Remt|Number=Sing|PronType=Dem	7	obl	_	Translit=novaw|LTranslit=na|Gloss=he/she/it/that
+10	նովաւ	նա	PRON	_	Case=Ins|Deixis=Remt|Number=Sing|PronType=Dem	7	obl	_	Translit=novaw|LTranslit=na|Gloss=he/she/it
 11	ցանկ	ցանկ	NOUN	_	Case=Acc|Number=Sing	7	obj	_	SpaceAfter=No|Translit=cʻank|LTranslit=cʻank|LId=ցանկ-3|Gloss=wall
 12	.	.	PUNCT	_	_	16	punct	_	Translit=:|LTranslit=:
 13	եւ	եւ	CCONJ	_	_	16	cc	_	Translit=ew|LTranslit=ew|Gloss=and
@@ -69,7 +69,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 22	եւ	եւ	CCONJ	_	_	23	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 23	ետ	տալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Translit=et|LTranslit=tal|Gloss=give
 24	զ	զ	ADP	_	Definite=Def	25	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-25	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	23	obj	_	Translit=na|LTranslit=na|Gloss=he/she/it/that
+25	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	23	obj	_	Translit=na|LTranslit=na|Gloss=he/she/it
 26	ց	ց	ADP	_	_	27	case	_	SpaceAfter=No|Translit=cʻ|LTranslit=cʻ|Gloss=to
 27	մշակս	մշակ	NOUN	_	Case=Acc|Number=Plur	23	obl:arg	_	SpaceAfter=No|Translit=mšaks|LTranslit=mšak|Gloss=farmer
 28	.	.	PUNCT	_	_	30	punct	_	Translit=:|LTranslit=:

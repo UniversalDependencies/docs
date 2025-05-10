@@ -37,7 +37,7 @@ The following 11 pairs of parts of speech are connected with `obj`: <tt><a href=
 13	em	em	ADP	_	_	15	case	15:case	_
 14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	15:det	_
 15	mão	mão	NOUN	_	Gender=Fem|Number=Sing	12	nmod	12:nmod:em	SpaceAfter=No
-16	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -59,7 +59,7 @@ The following 11 pairs of parts of speech are connected with `obj`: <tt><a href=
 9	para	para	ADP	_	_	10	mark	10:mark	_
 10	fazer	fazer	VERB	_	VerbForm=Inf	8	advcl	8:advcl:para	_
 11	isso	isso	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	10	obj	10:obj	SpaceAfter=No
-12	.	.	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
+12	.	.	PUNCT	_	_	8	punct	8:punct	_
 
 ~~~
 
@@ -80,7 +80,7 @@ The following 11 pairs of parts of speech are connected with `obj`: <tt><a href=
 8	legião	legião	NOUN	_	Gender=Fem|Number=Sing	3	obl	3:obl:como	_
 9	de	de	ADP	_	_	10	case	10:case	_
 10	fracos	fraco	NOUN	_	Gender=Masc|Number=Plur	8	nmod	8:nmod:de	SpaceAfter=No
-11	.	.	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 

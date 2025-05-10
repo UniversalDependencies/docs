@@ -113,5 +113,5 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> AUX</tt> (8; 73%),
 <tt>AUX --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
 <tt>PRON --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> PRON</tt> (2; 100%),
-<tt>VERB --[<tt><a href="cy_ccg-dep-obj.html">obj</a></tt>]--> VERB</tt> (2; 100%).
+<tt>AUX --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
 

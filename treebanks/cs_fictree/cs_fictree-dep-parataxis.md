@@ -74,7 +74,7 @@ The following 18 pairs of parts of speech are connected with `parataxis`: <tt><a
 3	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	4	case	4:case	_
 4	ní	on	PRON	P5FS6--3-------	Case=Loc|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	0	root	0:root	_
 5	bylo	být	AUX	VpNS----R-AA---	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	4	cop	4:cop	_
-6	něco	něco	PRON	PZ--1----------	Case=Nom|PronType=Ind	4	nsubj	4:nsubj	_
+6	něco	něco	PRON	PZ--1----------	Animacy=Inan|Case=Nom|PronType=Ind	4	nsubj	4:nsubj	_
 7	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	8	case	8:case	_
 8	postav	postava	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur	6	nmod	6:nmod:z:gen	_
 9	ze	z	ADP	RV--2----------	AdpType=Voc|Case=Gen	11	case	11:case	_

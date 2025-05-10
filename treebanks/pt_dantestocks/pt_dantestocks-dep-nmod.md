@@ -33,7 +33,7 @@ The following 39 pairs of parts of speech are connected with `nmod`: <tt><a href
 8	nocao	noção	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	6	obl	_	CorrectForm=noção
 9	de	de	ADP	_	_	10	case	_	_
 10	fundo	fundo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
-11	...	...	PUNCT	_	_	3	punct	_	SpaceAfter=No
+11	...	...	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -49,7 +49,7 @@ The following 39 pairs of parts of speech are connected with `nmod`: <tt><a href
 3	Gráfico	gráfico	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 4	–	–	PUNCT	_	_	5	punct	_	_
 5	27-03-2014	27-03-2014	NUM	_	NumType=Card	3	nmod	_	_
-6	http://t.co/9LQg2HCy97	http://t.co/9LQg2HCy97	SYM	_	_	3	parataxis	_	SpaceAfter=No
+6	http://t.co/9LQg2HCy97	http://t.co/9LQg2HCy97	SYM	_	_	3	parataxis	_	_
 
 ~~~
 
@@ -70,7 +70,7 @@ The following 39 pairs of parts of speech are connected with `nmod`: <tt><a href
 8	sem	sem	ADP	_	_	9	mark	_	_
 9	parar	parar	VERB	_	VerbForm=Inf	7	advcl	_	SpaceAfter=No
 10	…	…	PUNCT	_	_	7	punct	_	_
-11	#CPIdaPTbras	#CPIdaPTbras	X	_	_	7	parataxis	_	SpaceAfter=No
+11	#CPIdaPTbras	#CPIdaPTbras	X	_	_	7	parataxis	_	_
 
 ~~~
 

@@ -8,29 +8,24 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `vocative`.
+6 nodes (0%) are attached to their parents as `vocative`.
 
-2 instances of `vocative` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.5.
+4 instances of `vocative` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.16666666666667.
 
-The following 3 pairs of parts of speech are connected with `vocative`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 50% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 25% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PROPN.html">PROPN</a></tt> (1; 25% instances).
+The following 3 pairs of parts of speech are connected with `vocative`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (4; 67% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PROPN.html">PROPN</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 vocative	color:blue
-1	takeka	keka	NOUN	_	_	6	vocative	_	AlignBegin=68096|AlignEnd=68319|Gloss=nephew|MGloss=POSS1- nephew|MSeg=ta-keka|nWord=1|RX=[N]|TokenType=Root|Word=takeka|wordform=ta-keka
-2	ã	ã	PRON	_	_	6	obl:mod	_	AlignBegin=68319|AlignEnd=68542|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=2|RX=[PRO]|TokenType=Root|Word=ã
-3	=kan	=kan	PART	_	_	2	case	_	AlignBegin=68542|AlignEnd=68765|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=3|RX=[PRT]|TokenType=Clit|Word=kan
-4	=ras	=ras	PART	_	_	2	case	_	AlignBegin=68765|AlignEnd=68988|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=4|RX=[PRT]|TokenType=Clit|Word=ras
-5	=sri	=sri	PART	_	_	2	discourse	_	AlignBegin=68988|AlignEnd=69211|Gloss==UNCRT|MGloss==UNCRT|MSeg==sri|nWord=5|RX=[PRT]|TokenType=Clit|Word=sri
-6	pasparh	pas	VERB	_	Clusivity=In	8	ccomp	_	AlignBegin=69211|AlignEnd=69434|Gloss=take.out|MGloss=O3SG- take.out -S1PL.INCL -PROX.FUT|MSeg=Ø-pas-par-h|nWord=6|RX=[VT]|TokenType=Root|Word=pasprah|wordform=Ø-pas-par-h
-7	ãpe	ã	VERB	_	Person=1	6	conj	_	AlignBegin=69434|AlignEnd=69657|Gloss=eat|MGloss=O3SG- eat -S1SG:FUT|MSeg=Ø-ã-pe|nWord=7|RX=[VT]|TokenType=Root|Word=ãpẽ|wordform=Ø-ã-pe
-8	tVki	tV	VERB	_	_	0	root	_	AlignBegin=69657|AlignEnd=69880|Gloss=say|MGloss=say O3SG- -S3SG -PST|MSeg=tVk-Ø-Ø-i|nWord=8|RX=[VT]|TokenType=Root|Word=tiki|wordform=tWk-Ø-Ø-i
-9	.	_	PUNCT	_	_	8	punct	_	AlignBegin=69880|AlignEnd=70103|Gloss=.|MGloss=.|MSeg=.|nWord=9|Word=.
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 vocative	color:blue
+1	ũhũʔ	ũhũʔ	INTJ	_	_	2	discourse	_	AlignBegin=94517|AlignEnd=94875|Gloss=no|MGloss=no|MSeg=ũhũʔ|nWord=1|RX=[INTERJ]|TokenType=Root
+2	nautVi	na	VERB	_	_	0	root	_	AlignBegin=94875|AlignEnd=95233|Gloss=go|MGloss=go -S2 -NEG -PST|MSeg=na-u-tV-i|nWord=2|RX=[VI]|TokenType=Root|wordform=na-u-tW-i
+3	taarki	arki	NOUN	_	_	2	vocative	_	AlignBegin=95233|AlignEnd=95591|Gloss=brother|MGloss=POSS1- brother|MSeg=ta-arki|nWord=3|RX=[N]|TokenType=Root|wordform=ta-arki
+4	.	_	PUNCT	_	_	2	punct	_	AlignBegin=95591|AlignEnd=95951|Gloss=.|MGloss=.|MSeg=.|nWord=4
 
 ~~~
 

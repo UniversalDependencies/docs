@@ -71,7 +71,7 @@ The following 15 pairs of parts of speech are connected with `obl`: <tt><a href=
 5	lanciato	lanciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	su	su	ADP	E	_	7	case	_	_
 7	Luca	Luca	PROPN	SP	_	5	obl	_	_
-8	così	così	SCONJ	CS	_	10	mark	_	_
+8	così	così	SCONJ	CS	ExtPos=ADV	10	mark	_	_
 9	che	che	SCONJ	CS	_	8	fixed	_	_
 10	cadeva	cadere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
 11	su	su	ADP	E	_	13	case	_	_

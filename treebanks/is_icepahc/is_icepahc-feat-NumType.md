@@ -68,7 +68,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Card` (211; 100% of non-empty `NumType`): <em>5., 1., 7., 10., 4., 3., 9., átta, 16., 2.</em>
 * `Frac` (1; 0% of non-empty `NumType`): <em>vǫn</em>
-* `EMPTY` (36946): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
+* `EMPTY` (36949): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (72) occur only with one value of `NumType`.
 
@@ -150,7 +150,7 @@ The most frequent other feature values with which `VERB` and `NumType` co-occurr
 `VERB` tokens may have the following values of `NumType`:
 
 * `Card` (10; 100% of non-empty `NumType`): <em>átta, firrði, hylmast, lifir, bera, hvella</em>
-* `EMPTY` (128678): <em>sagði, segir, kom, mælti, fór, tók, varð, gekk, fara, sjá</em>
+* `EMPTY` (128674): <em>sagði, segir, kom, mælti, fór, tók, varð, gekk, fara, sjá</em>
 
 ### `PART`
 

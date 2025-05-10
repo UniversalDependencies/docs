@@ -11,7 +11,7 @@ It occurs with 11 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `DET`, `INTJ`,
 
 1043 tokens (2%) have a non-empty value of `ExtPos`.
 65 types (2%) occur at least once with a non-empty value of `ExtPos`.
-61 lemmas (2%) occur at least once with a non-empty value of `ExtPos`.
+60 lemmas (2%) occur at least once with a non-empty value of `ExtPos`.
 The feature is used with 11 part-of-speech tags: <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (457; 1% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (166; 0% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (96; 0% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (82; 0% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (80; 0% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (54; 0% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (46; 0% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (41; 0% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt> (15; 0% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (3; 0% instances).
 
 ### `ADV`
@@ -112,7 +112,7 @@ The most frequent other feature values with which `VERB` and `ExtPos` co-occurre
 
 41 <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (41; 100%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (36; 88%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (29; 71%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (24; 59%).
+The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (41; 100%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (36; 88%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (29; 71%), <tt><a href="fr_parisstories-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (24; 59%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (24; 59%).
 
 `PRON` tokens may have the following values of `ExtPos`:
 

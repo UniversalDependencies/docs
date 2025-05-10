@@ -59,7 +59,7 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 15	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	16	aux	_	GTtags=Ind,Prt,Sg3
 16	kaunnâm	kaunnâd	VERB	V	Aspect=Perf|VerbForm=Part	11	conj	_	GTtags=Act,PrfPrc
 17	muu	mon	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	16	obj	_	GTtags=Pers,Sg1,Acc
-18	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	16	obl:lmod	_	GTtags=Sg,Loc|SpaceAfter=No
+18	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	16	obl	_	GTtags=Sg,Loc|SpaceAfter=No
 19	,	,	PUNCT	CLB	_	23	punct	_	_
 20	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	23	nsubj	_	GTtags=Pers,Sg1,Nom
 21	leʹjjem	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	23	aux	_	GTtags=Ind,Prt,Sg1
@@ -70,7 +70,7 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 26	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	28	aux	_	GTtags=Ind,Prt,Sg3
 27	muu	mon	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	28	obj	_	GTtags=Pers,Sg1,Acc
 28	kaunnâm	kaunnâd	VERB	V	Aspect=Perf|VerbForm=Part	11	conj	_	GTtags=Act,PrfPrc
-29	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	28	obl:lmod	_	GTtags=Sg,Loc|SpaceAfter=No
+29	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	28	obl	_	GTtags=Sg,Loc|SpaceAfter=No
 30	,	,	PUNCT	CLB	_	32	punct	_	_
 31	de	de	CCONJ	CC	_	32	cc	_	_
 32	vaaʹldi	väʹldded	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	conj	_	GTtags=Ind,Prt,Sg3
@@ -92,7 +92,7 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 3	ij	ij	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	4	aux	_	GTtags=Neg,Ind,Sg3
 4	kueʹst	kueʹstted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	0	root	_	GTtags=Ind,Prs,ConNeg|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	7	punct	_	_
-6	leäk-a	leeʹd	VERB	V	Clitic=QstA|Mood=Ind|Number=Sing|Person=2|Tense=Pres	7	orphan	_	GTtags=Ind,Prs,Sg2,Qst/a
+6	leäk-a	leeʹd	VERB	V	Clitic=QstA|Mood=Ind|Number=Sing|PartType=Int|Person=2|Tense=Pres	7	orphan	_	GTtags=Ind,Prs,Sg2,Qst/a
 7	dõõn	dõõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	10	reparandum	_	GTtags=Pron,Sg,Gen|SpaceAfter=No
 8	...	...	PUNCT	PUNCT	_	10	punct	_	_
 9	čääʹʒʒ	čääʹcc	NOUN	N	Case=Acc|Number=Sing	10	obj	_	GTtags=Sg,Acc

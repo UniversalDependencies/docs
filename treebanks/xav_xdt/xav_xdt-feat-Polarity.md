@@ -9,30 +9,30 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-9 tokens (1%) have a non-empty value of `Polarity`.
+14 tokens (1%) have a non-empty value of `Polarity`.
 4 types (1%) occur at least once with a non-empty value of `Polarity`.
 3 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+
+### `PART`
+
+7 <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `Polarity`.
+
+The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7; 100%).
+
+`PART` tokens may have the following values of `Polarity`:
+
+* `Neg` (7; 100% of non-empty `Polarity`): <em>õ</em>
+* `EMPTY` (314): <em>za'ra, hã, e, ma, za, norĩ, õ, tô, norĩhã, aba</em>
 
 ### `ADV`
 
-6 <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> tokens (7% of all `ADV` tokens) have a non-empty value of `Polarity`.
+6 <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (6; 100% of non-empty `Polarity`): <em>õ, mare</em>
-* `EMPTY` (83): <em>duré, dzéma, tsa'ẽtè, wei, si, oto, petse, pi'uriwi, Ãne, Höiwahö</em>
-
-### `PART`
-
-2 <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Polarity`.
-
-The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="xav_xdt-feat-Htp.html">Htp</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%).
-
-`PART` tokens may have the following values of `Polarity`:
-
-* `Neg` (2; 100% of non-empty `Polarity`): <em>õ</em>
-* `EMPTY` (380): <em>te, dza'ra, ma, e, hã, wa, norĩ, dza, õ, norĩhã</em>
+* `EMPTY` (106): <em>duré, zéma, wei, apö, duréi, oto, si, ahömhö, mararé, pese</em>
 
 ### `NOUN`
 
@@ -43,5 +43,5 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>ñimiza'reseõ</em>
-* `EMPTY` (372): <em>marĩ, aibö, 'watébrémi, pi'õ, a'uwẽ, buru, wapté, ba'õtõ, bötö, Mare</em>
+* `EMPTY` (456): <em>aibö, marĩ, 'watébrémi, buru, a'uwẽ, pi'õ, wapté, ba'õtõ, bötö, warazu</em>
 

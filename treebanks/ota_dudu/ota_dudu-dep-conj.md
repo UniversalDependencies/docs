@@ -8,51 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-33 nodes (4%) are attached to their parents as `conj`.
+674 nodes (7%) are attached to their parents as `conj`.
 
-33 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.12121212121212.
+674 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.23738872403561.
 
-The following 8 pairs of parts of speech are connected with `conj`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (13; 39% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (9; 27% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (4; 12% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (3; 9% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 11 conj	color:blue
-1	‘ışḳ	‘ışḳ	NOUN	_	Case=Nom|Number=Sing|Person=3	5	nsubj	_	_
-2	ma‘rifet	ma‘rifet	NOUN	_	Case=Nom|Number=Sing|Person=3	3	nmod:poss	_	_
-3	deñizinden	deñiz	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	obl	_	_
-4	bir	bir	DET	Indef	_	5	det	_	_
-5	gevher	gevher	NOUN	_	Case=Nom|Number=Sing|Person=3	12	advcl	_	_
-6	dür	i	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
-7	ki	ki	SCONJ	_	_	12	mark	_	_
-8	dile	dil	NOUN	_	Case=Dat|Number=Sing|Person=3	12	obl	_	_
-9	şevḳ	şevḳ	NOUN	_	Case=Nom|Number=Sing|Person=3	12	obj	_	_
-10	ü	ü	CCONJ	_	_	11	cc	_	_
-11	żiyāʾ	żiyāʾ	NOUN	_	Case=Nom|Number=Sing|Person=3	9	conj	_	_
-12	virür	ver	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 conj	color:blue
-1	sen	sen	PRON	_	PronType=Prs	2	nsubj	_	_
-2	var	var	NOUN	_	Number=Sing|Person=3|Polarity=Pos	5	advcl	_	_
-3	iken	iken	ADV	_	_	2	case	_	_
-4	av	av	NOUN	_	Case=Nom|Number=Sing|Person=3	5	obj	_	_
-5	avladı	avla	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
-6	ḳuş	ḳuş	NOUN	_	Case=Nom|Number=Sing|Person=3	7	obj	_	_
-7	ḳuşladı	ḳuşla	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	5	conj	_	_
-
-~~~
+The following 20 pairs of parts of speech are connected with `conj`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (303; 45% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (208; 31% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (58; 9% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (25; 4% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (16; 2% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (14; 2% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (14; 2% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt>-<tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -61,16 +22,43 @@ The following 8 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 conj	color:blue
-1	dışarıda	dışarı	NOUN	_	Case=Loc|Number=Sing|Person=3	8	obl	_	_
-2	vaḥşî	vaḥşî	ADJ	Adj	_	7	amod	_	_
-3	ve	ve	CCONJ	_	_	4	cc	_	_
-4	soġuḳ	soġuḳ	ADJ	Adj	_	2	conj	_	_
-5	bir	bir	DET	Indef	_	6	det	_	_
-6	şubat	şubat	PROPN	_	Case=Nom|Number=Sing|Person=3	7	nmod:poss	_	_
-7	gecesi	gece	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	nsubj	_	_
-8	var	var	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	0	root	_	_
-9	dı	y	AUX	Zero	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Tense=Past	8	cop	_	_
-10	.	.	PUNCT	Stop	_	8	punct	_	_
+1	atdan	at	NOUN	_	Case=Abl|Number=Sing|Person=3	2	obl	_	_
+2	ayġır	ayġır	NOUN	_	Case=Nom|Number=Sing|Person=3	7	nsubj	_	_
+3	deveden	deve	NOUN	_	Case=Abl|Number=Sing|Person=3	4	obl	_	_
+4	buġra	buġra	NOUN	_	Case=Nom|Number=Sing|Person=3	2	conj	_	_
+5	ḳoyundan	ḳoyun	NOUN	_	Case=Abl|Number=Sing|Person=3	6	obl	_	_
+6	ḳoç	ḳoç	NOUN	_	Case=Nom|Number=Sing|Person=3	2	conj	_	_
+7	ḳırıldı	ḳır	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 conj	color:blue
+1	yerse	yer	VERB	_	Aspect=Perf|Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	compound	_	_
+2	yesün	ye	VERB	_	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	yemezse	ye	VERB	_	Aspect=Hab|Mood=Cnd|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	5	advcl	_	_
+4	ṭursun	ṭur	VERB	_	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	5	compound	_	_
+5	getsün	get	VERB	_	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	conj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 conj	color:blue
+1	bulġârla	bulġâr	PROPN	_	Case=Ins|NameType=Nat|Number=Sing|Person=3	3	nmod	_	_
+2	türk	türk	PROPN	_	Case=Nom|NameType=Nat|Number=Sing|Person=3	1	conj	_	_
+3	miyânında	miyân	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	obl	_	_
+4	bir	bir	DET	Indef	Definite=Ind|PronType=Art	5	det	_	_
+5	medînedür	medîne	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	_
 
 ~~~
 

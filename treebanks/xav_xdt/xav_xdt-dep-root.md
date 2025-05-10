@@ -8,68 +8,63 @@ udver: '2'
 
 This relation is universal.
 
-173 nodes (10%) are attached to their parents as `root`.
+246 nodes (11%) are attached to their parents as `root`.
 
-173 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.65317919075145.
+246 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.88211382113821.
 
-The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (136; 79% instances), -<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (31; 18% instances), -<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (2; 1% instances), -<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (2; 1% instances), -<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (1; 1% instances), -<tt><a href="xav_xdt-pos-X.html">X</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (200; 81% instances), -<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (37; 15% instances), -<tt><a href="xav_xdt-pos-X.html">X</a></tt> (3; 1% instances), -<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (2; 1% instances), -<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (2; 1% instances), -<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="xav_xdt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 3 root	color:blue
-1	Aibö	aibö	NOUN	n	_	3	nsubj	_	man;homem
-2	te	te	PART	prcl	Htp=Yes|Tense=Pres	3	dep	_	heterophoric.marker;marcardor.heterofórico
-3	mo	mo	VERB	v	_	0	root	_	go;ir
-4	.	.	PUNCT	punct	_	3	punct	_	_
-5	Pi’õ	pi'õ	NOUN	n	_	7	nsubj	_	woman;mulher
-6	te	te	PART	prcl	Htp=Yes|Tense=Pres	7	dep	_	heterophoric.marker;marcardor.heterofórico
-7	mo	mo	VERB	v	_	3	parataxis	_	go;ir
-8	.	.	PUNCT	punct	_	7	punct	_	_
-9	Ba'õno	ba'õno	NOUN	n	_	11	nsubj	_	girl;menina
-10	te	te	PART	prcl	Htp=Yes|Tense=Pres	11	dep	_	heterophoric.marker;marcardor.heterofórico
-11	mo	mo	VERB	v	_	3	parataxis	_	go;ir
-12	.	.	PUNCT	punct	_	11	punct	_	_
-13	Õhã	õhã	PRON	pron	Emph=Yes|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	he,she,it;ele,ela
-14	te	te	PART	prcl	Htp=Yes|Tense=Pres	15	dep	_	heterophoric.marker;marcardor.heterofórico
-15	mo	mo	VERB	v	_	3	parataxis	_	go;ir
-16	.	.	PUNCT	punct	_	15	punct	_	_
+# visual-style 0 5 root	color:blue
+1	õ	õ	DET	det	Deixis=Remt	3	dep	_	_
+2	norĩ	norĩ	X	_	Number=Plur	1	dep	_	_
+3	te	te	AUX	aux	Person=Non1	5	nsubj	_	heteroforic index;índice heterofórico
+4	we	we	X	x	Ventive=Yes	5	dep	_	directive;diretivo
+5	aiʔabaʔré	aiʔabaʔré	VERB	vi	Number=Plur	0	root	_	go;ir
+6	dawedeʔwa	wedeʔwa	NOUN	n	Human=Yes	8	nsubj	_	medical doctor;médico
+7	norĩ	norĩ	X	_	Number=Plur	6	dep	_	_
+8	sihutu	sihutu	VERB	vi	Number=Plur	5	advcl	_	arrive;chegar
+9	wapsi	wapsi	ADV	adv	AdvType=Tim	8	mark	_	when;quando
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 3 root	color:blue
-1	E	e	PART	prcl	Int=Yes	3	dep	_	question.particle;partícula.interrogativa
-2	tô	tô	PART	prcl	Fact=Yes	3	dep	_	factive;fictício
-3	tsena	tsena	NOUN	n	_	0	root	_	truth;verdade,na.verdade,realmente
-4	aimreme	mreme	NOUN	n	Number=Sing|Person=2	3	nsubj	_	language,word;lingua,palavra
-5	.	.	PUNCT	punct	_	3	punct	_	_
-6	Ĩhe	ĩhe	INTJ	intj	_	3	parataxis	_	yes;sim
-7	!	!	PUNCT	punct	_	6	punct	_	_
+# visual-style 0 4 root	color:blue
+1	baʔõtõ	baʔõtõ	NOUN	n	_	3	dep	_	girl;menina
+2	norĩ	norĩ	X	_	Number=Plur	1	dep	_	collective marker;coletivo
+3	ma	ma	AUX	aux	Person=Non1|Tense=Past	4	nsubj	_	heteroforic index past;índice heterofórico passado
+4	robzeiʔõ	robzeiʔõ	NOUN	n	_	0	root	_	sad(ness);triste(za)
+5	di	di	AUX	cop	_	4	cop	_	copula;cópula
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 3 root	color:blue
-1	Aibö	aibö	NOUN	n	_	3	nsubj	_	man;homem
-2	ma	ma	PART	prcl	Htp=Yes|Tense=Past	3	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
-3	wei	we	ADV	adv	_	0	root	_	hither;para.cá
-4	wi	wi	ADP	posp	_	3	obl	_	far.from;longe.de
-5	.	.	PUNCT	punct	_	3	punct	_	_
+# visual-style 0 7 root	color:blue
+1	Ti'ra	'ra	NOUN	n	Person=3	4	obj	_	son,daughter;filho,filha
+2	te	te	AUX	aux	Person=Non1	4	dep	_	_
+3	te	te	AUX	aux	Person=Non1	4	aux	_	_
+4	sabu	sabu	VERB	v	_	7	advcl	_	see,take.care.of;ver,enxergar,olhar,cuidar
+5	da	da	ADP	posp	_	4	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+6	ma	ma	PART	prcl	Htp=Yes|Tense=Past	7	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+7	wei	we	X	x	_	0	root	_	hither;para.cá
+8	wi	wi	ADP	posp	_	7	obl	_	far.from;longe.de
+9	.	.	PUNCT	punct	_	7	punct	_	_
 
 ~~~
 

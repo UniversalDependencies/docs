@@ -29,13 +29,13 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 5	weh	wey	SCONJ	_	_	7	mark	_	AlignBegin=49880|AlignEnd=50030|Gloss=REL
 6	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	AlignBegin=50030|AlignEnd=50090|Gloss=NOM.2
 7	do	do	VERB	_	_	4	acl:relcl	_	AlignBegin=50090|AlignEnd=50160|Gloss=do
-8	<	<	X	_	_	4	dep	_	AlignBegin=50160|AlignEnd=50160|Gloss=PUNCT
+8	<	<	PUNCT	_	_	4	punct	_	AlignBegin=50160|AlignEnd=50160|Gloss=PUNCT
 9	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	AlignBegin=50160|AlignEnd=50270|Gloss=NOM.2
 10	go	go	AUX	_	Aspect=Prosp	12	aux	_	AlignBegin=50270|AlignEnd=50390|Gloss=PROSP
 11	quick	quick	ADJ	_	_	12	advcl	_	AlignBegin=50390|AlignEnd=50630|Gloss=quick
 12	get	get	VERB	_	_	0	root	_	AlignBegin=50630|AlignEnd=50749|Gloss=get
 13	money	money	NOUN	_	_	12	obj	_	AlignBegin=50749|AlignEnd=51070|Gloss=money
-14	//	//	X	_	_	12	dep	_	AlignBegin=51070|AlignEnd=51070|Gloss=PUNCT
+14	//	//	PUNCT	_	_	12	punct	_	AlignBegin=51070|AlignEnd=51070|Gloss=PUNCT
 
 ~~~
 
@@ -54,7 +54,7 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 6	junior	junior	ADJ	_	_	7	amod	_	AlignBegin=164920|AlignEnd=165227|Gloss=junior
 7	WAEC	WAEC	PROPN	_	_	5	obj	_	AlignBegin=165227|AlignEnd=165570|Gloss=WAEC
 8	now	now	ADV	_	_	5	advmod	_	AlignBegin=165570|AlignEnd=165782|Gloss=now
-9	//	//	X	_	_	5	dep	_	AlignBegin=165782|AlignEnd=165782|Gloss=PUNCT
+9	//	//	PUNCT	_	_	5	punct	_	AlignBegin=165782|AlignEnd=165782|Gloss=PUNCT
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 2	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	AlignBegin=252243|AlignEnd=252385|Gloss=NOM.PL.3
 3	go	go	AUX	_	Aspect=Prosp	4	aux	_	AlignBegin=252385|AlignEnd=252528|Gloss=PROSP
 4	say	say	VERB	_	_	0	root	_	AlignBegin=252528|AlignEnd=252671|Gloss=say
-5	[	[	X	_	_	11	dep	_	AlignBegin=252671|AlignEnd=252671|Gloss=PUNCT
+5	[	[	PUNCT	_	_	11	punct	_	AlignBegin=252671|AlignEnd=252671|Gloss=PUNCT
 6	dis	dis	DET	_	Number=Sing|PronType=Dem	7	det	_	AlignBegin=252671|AlignEnd=252814|Gloss=SG.DEM
 7	wedding	wedding	NOUN	_	_	11	nsubj	_	AlignBegin=252814|AlignEnd=252956|Gloss=wedding
 8	no	no	AUX	_	Polarity=Neg	11	aux	_	AlignBegin=252956|AlignEnd=253099|Gloss=NEG
@@ -77,8 +77,8 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 10	only	only	ADJ	_	_	11	amod	_	AlignBegin=253242|AlignEnd=253385|Gloss=only
 11	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	4	parataxis	_	AlignBegin=253385|AlignEnd=253527|Gloss=NOM.2
 12	o	o	PART	_	PartType=Disc	11	advmod	_	AlignBegin=253527|AlignEnd=253670|Gloss=EMPH
-13	]	]	X	_	_	11	dep	_	AlignBegin=253670|AlignEnd=253670|Gloss=PUNCT
-14	//	//	X	_	_	4	dep	_	AlignBegin=253670|AlignEnd=253670|Gloss=PUNCT
+13	]	]	PUNCT	_	_	11	punct	_	AlignBegin=253670|AlignEnd=253670|Gloss=PUNCT
+14	//	//	PUNCT	_	_	4	punct	_	AlignBegin=253670|AlignEnd=253670|Gloss=PUNCT
 
 ~~~
 

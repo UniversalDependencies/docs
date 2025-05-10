@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="yrl_complin-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-51 nodes (0%) are attached to their parents as `nmod`.
+59 nodes (0%) are attached to their parents as `nmod`.
 
-51 instances of `nmod` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.88235294117647.
+59 instances of `nmod` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.93220338983051.
 
-The following 11 pairs of parts of speech are connected with `nmod`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (27; 53% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (7; 14% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (3; 6% instances), <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (3; 6% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (3; 6% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 11 pairs of parts of speech are connected with `nmod`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (31; 53% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (9; 15% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (5; 8% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 11 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 nmod	color:blue
-1	Aé	aé	PRON	PRON	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
+1	Aé	aé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
 2	urasú	rasú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=3:8
 3	pirá	pirá	NOUN	N	Number=Sing	2	obj	_	TokenRange=9:13
 4	suka	uka	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont	3	nmod	_	TokenRange=14:18
@@ -44,7 +44,7 @@ The following 11 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 1 3 nmod	color:blue
 1	Awá	awá	PRON	INT	PronType=Int	5	nsubj	_	TokenRange=0:3
 2	taá	taá	PART	CQ	PartType=Int	5	advmod	_	TokenRange=4:7
-3	penhẽ	penhẽ	PRON	PRON	Number=Plur|Person=2|PronType=Prs	1	nmod	_	TokenRange=8:13
+3	penhẽ	penhẽ	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=2|PronType=Prs	1	nmod	_	TokenRange=8:13
 4	suí	suí	ADP	ADP	AdpType=Post	3	case	_	TokenRange=14:17
 5	usú	sú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	_
 6	putari	putari	AUX	AUXN	Compound=Yes|VerbForm=Inf	5	aux	_	_
@@ -54,26 +54,20 @@ The following 11 pairs of parts of speech are connected with `nmod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 13 nmod	color:blue
-1	Ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	4	advmod	_	TokenRange=0:2
-2	ana	ana	PART	PFV	Aspect=Perf	4	advmod	_	TokenRange=3:6
-3	kurí	kurí	PART	FUT	Tense=Fut	4	advmod	_	TokenRange=7:11
-4	yayuká	yuká	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	0	root	_	TokenRange=12:18
-5	penhẽ	penhẽ	PRON	PRON	Number=Plur|Person=2|PronType=Prs	4	obj	_	SpaceAfter=No|TokenRange=19:24
-6	,	,	PUNCT	PUNCT	_	8	punct	_	TokenRange=24:25
-7	maãresé	maãresé	SCONJ	SCONJR	_	8	mark	_	TokenRange=26:33
-8	yakwáu	kwáu	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	4	advcl	_	TokenRange=34:40
-9	ana	ana	PART	PFV	Aspect=Perf	8	advmod	_	TokenRange=41:44
-10	kuíri	kuíri	ADV	ADVT	AdvType=Tim	8	advmod	_	TokenRange=45:50
-11	penhẽ	penhẽ	PRON	PRON	Number=Plur|Person=2|PronType=Prs	12	nsubj	_	TokenRange=51:56
-12	mira	mira	NOUN	N	Number=Sing	8	ccomp	_	TokenRange=57:61
-13	yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|PronType=Prs	12	nmod	_	TokenRange=62:66
-14	yawé	yawé	ADP	ADP	AdpType=Post	13	case	_	SpaceAfter=No|TokenRange=67:71
-15	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=71:72
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 nmod	color:blue
+1	Yandé	yandé	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	SpaceAfter=No|TokenRange=0:5
+2	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=5:6
+3	kunhã-itá	kunhã	NOUN	N	Number=Plur	1	nmod	_	SpaceAfter=No|TokenRange=7:16
+4	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=16:17
+5	yayupika	yupika	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	0	root	_	TokenRange=18:26
+6	kurí	kurí	PART	FUT	Tense=Fut	5	advmod	_	TokenRange=27:31
+7	yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=32:36
+8	mena-itá	mena	NOUN	N	Number=Plur	5	obj	_	SpaceAfter=No|TokenRange=37:45
+9	!	!	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=45:46
 
 ~~~
 

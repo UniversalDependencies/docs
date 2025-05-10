@@ -24,7 +24,7 @@ The following 9 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 7 9 orphan	color:blue
 1	Озырлун	озырлун	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	GTtags=Sg,Nom
 2	кыссьӧ	кыссьыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=IV,Ind,Prs,Sg3
-3	озырлун	озырлун	NOUN	N	Case=Nom|Number=Sing	2	obl:lmod	_	GTtags=Sg,Nom
+3	озырлун	озырлун	NOUN	N	Case=Nom|Number=Sing	2	obl	_	GTtags=Sg,Nom
 4	дінӧ	дінӧ	ADP	Adp	AdpType=Post|Case=Ill|Number=Sing	3	case	_	GTtags=Po,Sg,Ill|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	7	punct	_	_
 6	a	а	CCONJ	CC	_	7	cc	_	_

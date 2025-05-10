@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="nl_lassysmall-p
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.223407).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.223065).
 
 The 1st highest number of forms (1) was observed with the lemma “Oh”: <em>Oh</em>.
 
@@ -35,12 +35,18 @@ The 2nd highest number of forms (1) was observed with the lemma “amen”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “he”: <em>he</em>.
 
-`INTJ` does not occur with any features.
+`INTJ` occurs with 1 features: <tt><a href="nl_lassysmall-feat-ExtPos.html">ExtPos</a></tt> (1; 6% instances)
+
+`INTJ` occurs with 1 feature-value pairs: `ExtPos=PROPN`
+
+`INTJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (17 tokens).
+Examples: <em>ja, Oh, jawel, nee, Amen, he, hé, neen, rahoe</em>
 
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 3 different relations: <tt><a href="nl_lassysmall-dep-parataxis.html">parataxis</a></tt> (12; 67% instances), <tt><a href="nl_lassysmall-dep-fixed.html">fixed</a></tt> (4; 22% instances), <tt><a href="nl_lassysmall-dep-root.html">root</a></tt> (2; 11% instances)
+`INTJ` nodes are attached to their parents using 4 different relations: <tt><a href="nl_lassysmall-dep-parataxis.html">parataxis</a></tt> (12; 67% instances), <tt><a href="nl_lassysmall-dep-fixed.html">fixed</a></tt> (3; 17% instances), <tt><a href="nl_lassysmall-dep-root.html">root</a></tt> (2; 11% instances), <tt><a href="nl_lassysmall-dep-flat.html">flat</a></tt> (1; 6% instances)
 
 Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (7; 39% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (3; 17% instances), <tt><a href="nl_lassysmall-pos-INTJ.html">INTJ</a></tt> (2; 11% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (2; 11% instances),  (2; 11% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (1; 6% instances)
 
@@ -54,7 +60,7 @@ Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="nl_l
 
 The highest child degree of a `INTJ` node is 6.
 
-Children of `INTJ` nodes are attached using 6 different relations: <tt><a href="nl_lassysmall-dep-punct.html">punct</a></tt> (11; 55% instances), <tt><a href="nl_lassysmall-dep-fixed.html">fixed</a></tt> (5; 25% instances), <tt><a href="nl_lassysmall-dep-cop.html">cop</a></tt> (1; 5% instances), <tt><a href="nl_lassysmall-dep-nsubj.html">nsubj</a></tt> (1; 5% instances), <tt><a href="nl_lassysmall-dep-obl.html">obl</a></tt> (1; 5% instances), <tt><a href="nl_lassysmall-dep-parataxis.html">parataxis</a></tt> (1; 5% instances)
+Children of `INTJ` nodes are attached using 7 different relations: <tt><a href="nl_lassysmall-dep-punct.html">punct</a></tt> (11; 55% instances), <tt><a href="nl_lassysmall-dep-flat.html">flat</a></tt> (4; 20% instances), <tt><a href="nl_lassysmall-dep-cop.html">cop</a></tt> (1; 5% instances), <tt><a href="nl_lassysmall-dep-fixed.html">fixed</a></tt> (1; 5% instances), <tt><a href="nl_lassysmall-dep-nsubj.html">nsubj</a></tt> (1; 5% instances), <tt><a href="nl_lassysmall-dep-obl.html">obl</a></tt> (1; 5% instances), <tt><a href="nl_lassysmall-dep-parataxis.html">parataxis</a></tt> (1; 5% instances)
 
 Children of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (11; 55% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (3; 15% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (2; 10% instances), <tt><a href="nl_lassysmall-pos-INTJ.html">INTJ</a></tt> (2; 10% instances), <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (1; 5% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (1; 5% instances)
 

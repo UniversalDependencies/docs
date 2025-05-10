@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-301 tokens (18%) have a non-empty value of `VerbForm`.
-181 types (24%) occur at least once with a non-empty value of `VerbForm`.
+303 tokens (19%) have a non-empty value of `VerbForm`.
+182 types (24%) occur at least once with a non-empty value of `VerbForm`.
 120 lemmas (22%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (250; 15% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (50; 3% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (253; 16% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (49; 3% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-250 <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+253 <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (197; 79%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (190; 76%), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (148; 59%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (199; 79%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (190; 75%), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (155; 61%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (201; 80% of non-empty `VerbForm`): <em>sanoi, rodieu, sanoo, kuulimo, kuulittogo, pietäh, sanottih, tiezimö, tiezittö, istui</em>
+* `Fin` (203; 80% of non-empty `VerbForm`): <em>sanoi, pietäh, rodieu, sanoo, kuulimo, kuulittogo, sanottih, tiezimö, tiezittö, istui</em>
 * `Ger` (5; 2% of non-empty `VerbForm`): <em>Tansijes, mennes, pajattajes, pannes, kuunneltes</em>
 * `Inf` (33; 13% of non-empty `VerbForm`): <em>lähtie, ostua, sanuo, arbaittua, arbuamah, arvata, avvuttua, ellendämäh, heittiä, kuundelemah</em>
-* `Part` (11; 4% of non-empty `VerbForm`): <em>käynnyh, mennyt, tundiettu, järjestäjänny, kehitynnyh, koskijoi, mainittuloin, sanottuu, tulluot</em>
-* `EMPTY` (7): <em>elämäh, ezittyy, järjestetäh, kuulluh, lähtöy, löytä, pietäh</em>
+* `Part` (12; 5% of non-empty `VerbForm`): <em>käynnyh, mennyt, tundiettu, järjestäjänny, kehitynnyh, koskijoi, mainittuloin, sanottuu, suannuh, tulluot</em>
+* `EMPTY` (5): <em>elämäh, ezittyy, kuulluh, lähtöy, löytä</em>
 
 <table>
   <tr><th>Paradigm <i>sanuo</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -44,16 +44,15 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-50 <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> tokens (71% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+49 <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> tokens (71% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="olo_kkpp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (50; 100%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (46; 92%), <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (43; 86%), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (39; 78%), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (39; 78%), <tt><a href="olo_kkpp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (26; 52%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="olo_kkpp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (46; 94%), <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (43; 88%), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (39; 80%), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (38; 78%), <tt><a href="olo_kkpp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (26; 53%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (46; 92% of non-empty `VerbForm`): <em>oli, on, ollah, voibi, ole, olen, Ongo, olis, pidänyh, voidas</em>
+* `Fin` (46; 94% of non-empty `VerbForm`): <em>oli, on, ollah, voibi, ole, olen, Ongo, olis, pidänyh, voidas</em>
 * `Ger` (1; 2% of non-empty `VerbForm`): <em>olles</em>
 * `Inf` (2; 4% of non-empty `VerbForm`): <em>pidää</em>
-* `Part` (1; 2% of non-empty `VerbForm`): <em>suannuh</em>
 * `EMPTY` (20): <em>ei, emmogo, En, roitah, voidu</em>
 
 <table>
@@ -82,8 +81,8 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="olo_kkpp-dep-conj.html">conj</a></tt>]--> VERB</tt> (48; 92%),
-<tt>VERB --[<tt><a href="olo_kkpp-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (19; 86%),
+<tt>VERB --[<tt><a href="olo_kkpp-dep-conj.html">conj</a></tt>]--> VERB</tt> (49; 94%),
+<tt>VERB --[<tt><a href="olo_kkpp-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (19; 83%),
 <tt>VERB --[<tt><a href="olo_kkpp-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (3; 75%),
 <tt>AUX --[<tt><a href="olo_kkpp-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).
 

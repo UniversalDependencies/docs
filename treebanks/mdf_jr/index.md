@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Jack Rueter, Maria Levina, Nadezhda Kabaeva, Judit Molnár, Khalid Alnajjar.
 
 Repository: [UD_Moksha-JR](https://github.com/UniversalDependencies/UD_Moksha-JR)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmdf_jr215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmdf_jr216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -103,11 +103,11 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 
 ## Features
 
-[Abbr](mdf_jr-feat-Abbr.html) – [AdpType](mdf_jr-feat-AdpType.html) – [AdvType](mdf_jr-feat-AdvType.html) – [Animacy](mdf_jr-feat-Animacy.html) – [Aspect](mdf_jr-feat-Aspect.html) – [Case](mdf_jr-feat-Case.html) – [Clitic](mdf_jr-feat-Clitic.html) – [Connegative](mdf_jr-feat-Connegative.html) – [Definite](mdf_jr-feat-Definite.html) – [Degree](mdf_jr-feat-Degree.html) – [Derivation](mdf_jr-feat-Derivation.html) – [Gender](mdf_jr-feat-Gender.html) – [Mood](mdf_jr-feat-Mood.html) – [NameType](mdf_jr-feat-NameType.html) – [Nomzr](mdf_jr-feat-Nomzr.html) – [NounType](mdf_jr-feat-NounType.html) – [Number](mdf_jr-feat-Number.html) – [Number[obj]](mdf_jr-feat-Number-obj.html) – [Number[psor]](mdf_jr-feat-Number-psor.html) – [Number[subj]](mdf_jr-feat-Number-subj.html) – [NumForm](mdf_jr-feat-NumForm.html) – [NumType](mdf_jr-feat-NumType.html) – [PartForm](mdf_jr-feat-PartForm.html) – [Person](mdf_jr-feat-Person.html) – [Person[obj]](mdf_jr-feat-Person-obj.html) – [Person[psor]](mdf_jr-feat-Person-psor.html) – [Person[subj]](mdf_jr-feat-Person-subj.html) – [Polarity](mdf_jr-feat-Polarity.html) – [PronType](mdf_jr-feat-PronType.html) – [PunctSide](mdf_jr-feat-PunctSide.html) – [Reflex](mdf_jr-feat-Reflex.html) – [Style](mdf_jr-feat-Style.html) – [Tense](mdf_jr-feat-Tense.html) – [Typo](mdf_jr-feat-Typo.html) – [Variant](mdf_jr-feat-Variant.html) – [VerbForm](mdf_jr-feat-VerbForm.html) – [VerbType](mdf_jr-feat-VerbType.html)
+[Abbr](mdf_jr-feat-Abbr.html) – [AdpType](mdf_jr-feat-AdpType.html) – [AdvType](mdf_jr-feat-AdvType.html) – [Animacy](mdf_jr-feat-Animacy.html) – [Aspect](mdf_jr-feat-Aspect.html) – [Case](mdf_jr-feat-Case.html) – [Clitic](mdf_jr-feat-Clitic.html) – [Connegative](mdf_jr-feat-Connegative.html) – [Definite](mdf_jr-feat-Definite.html) – [Degree](mdf_jr-feat-Degree.html) – [Derivation](mdf_jr-feat-Derivation.html) – [ExtPos](mdf_jr-feat-ExtPos.html) – [Gender](mdf_jr-feat-Gender.html) – [Mood](mdf_jr-feat-Mood.html) – [NameType](mdf_jr-feat-NameType.html) – [Nomzr](mdf_jr-feat-Nomzr.html) – [NounType](mdf_jr-feat-NounType.html) – [Number](mdf_jr-feat-Number.html) – [Number[obj]](mdf_jr-feat-Number-obj.html) – [Number[psor]](mdf_jr-feat-Number-psor.html) – [Number[subj]](mdf_jr-feat-Number-subj.html) – [NumForm](mdf_jr-feat-NumForm.html) – [NumType](mdf_jr-feat-NumType.html) – [PartForm](mdf_jr-feat-PartForm.html) – [PartType](mdf_jr-feat-PartType.html) – [Person](mdf_jr-feat-Person.html) – [Person[obj]](mdf_jr-feat-Person-obj.html) – [Person[psor]](mdf_jr-feat-Person-psor.html) – [Person[subj]](mdf_jr-feat-Person-subj.html) – [Polarity](mdf_jr-feat-Polarity.html) – [PronType](mdf_jr-feat-PronType.html) – [PunctSide](mdf_jr-feat-PunctSide.html) – [Reflex](mdf_jr-feat-Reflex.html) – [Style](mdf_jr-feat-Style.html) – [Tense](mdf_jr-feat-Tense.html) – [Typo](mdf_jr-feat-Typo.html) – [Variant](mdf_jr-feat-Variant.html) – [VerbForm](mdf_jr-feat-VerbForm.html) – [VerbType](mdf_jr-feat-VerbType.html)
 
 ## Relations
 
-[acl](mdf_jr-dep-acl.html) – [acl:relcl](mdf_jr-dep-acl-relcl.html) – [advcl](mdf_jr-dep-advcl.html) – [advcl:cau](mdf_jr-dep-advcl-cau.html) – [advcl:eval](mdf_jr-dep-advcl-eval.html) – [advcl:tcl](mdf_jr-dep-advcl-tcl.html) – [advmod](mdf_jr-dep-advmod.html) – [advmod:cau](mdf_jr-dep-advmod-cau.html) – [advmod:cmp](mdf_jr-dep-advmod-cmp.html) – [advmod:deg](mdf_jr-dep-advmod-deg.html) – [advmod:eval](mdf_jr-dep-advmod-eval.html) – [advmod:foc](mdf_jr-dep-advmod-foc.html) – [advmod:freq](mdf_jr-dep-advmod-freq.html) – [advmod:lmod](mdf_jr-dep-advmod-lmod.html) – [advmod:mmod](mdf_jr-dep-advmod-mmod.html) – [advmod:tmod](mdf_jr-dep-advmod-tmod.html) – [amod](mdf_jr-dep-amod.html) – [appos](mdf_jr-dep-appos.html) – [aux](mdf_jr-dep-aux.html) – [aux:cnd](mdf_jr-dep-aux-cnd.html) – [aux:nec](mdf_jr-dep-aux-nec.html) – [aux:neg](mdf_jr-dep-aux-neg.html) – [aux:opt](mdf_jr-dep-aux-opt.html) – [aux:q](mdf_jr-dep-aux-q.html) – [case](mdf_jr-dep-case.html) – [cc](mdf_jr-dep-cc.html) – [cc:preconj](mdf_jr-dep-cc-preconj.html) – [ccomp](mdf_jr-dep-ccomp.html) – [compound](mdf_jr-dep-compound.html) – [compound:nn](mdf_jr-dep-compound-nn.html) – [conj](mdf_jr-dep-conj.html) – [cop](mdf_jr-dep-cop.html) – [csubj](mdf_jr-dep-csubj.html) – [csubj:cop](mdf_jr-dep-csubj-cop.html) – [dep](mdf_jr-dep-dep.html) – [det](mdf_jr-dep-det.html) – [discourse](mdf_jr-dep-discourse.html) – [dislocated](mdf_jr-dep-dislocated.html) – [expl](mdf_jr-dep-expl.html) – [fixed](mdf_jr-dep-fixed.html) – [flat](mdf_jr-dep-flat.html) – [flat:name](mdf_jr-dep-flat-name.html) – [list](mdf_jr-dep-list.html) – [mark](mdf_jr-dep-mark.html) – [nmod](mdf_jr-dep-nmod.html) – [nmod:bahuv](mdf_jr-dep-nmod-bahuv.html) – [nmod:gobj](mdf_jr-dep-nmod-gobj.html) – [nmod:lmod](mdf_jr-dep-nmod-lmod.html) – [nmod:poss](mdf_jr-dep-nmod-poss.html) – [nmod:tmod](mdf_jr-dep-nmod-tmod.html) – [nsubj](mdf_jr-dep-nsubj.html) – [nsubj:cop](mdf_jr-dep-nsubj-cop.html) – [nsubj:pass](mdf_jr-dep-nsubj-pass.html) – [nummod](mdf_jr-dep-nummod.html) – [obj](mdf_jr-dep-obj.html) – [obl](mdf_jr-dep-obl.html) – [obl:agent](mdf_jr-dep-obl-agent.html) – [obl:cau](mdf_jr-dep-obl-cau.html) – [obl:cmp](mdf_jr-dep-obl-cmp.html) – [obl:freq](mdf_jr-dep-obl-freq.html) – [obl:inst](mdf_jr-dep-obl-inst.html) – [obl:lmod](mdf_jr-dep-obl-lmod.html) – [obl:tmod](mdf_jr-dep-obl-tmod.html) – [orphan](mdf_jr-dep-orphan.html) – [parataxis](mdf_jr-dep-parataxis.html) – [punct](mdf_jr-dep-punct.html) – [root](mdf_jr-dep-root.html) – [vocative](mdf_jr-dep-vocative.html) – [xcomp](mdf_jr-dep-xcomp.html)
+[acl](mdf_jr-dep-acl.html) – [acl:relcl](mdf_jr-dep-acl-relcl.html) – [advcl](mdf_jr-dep-advcl.html) – [advmod](mdf_jr-dep-advmod.html) – [advmod:cmp](mdf_jr-dep-advmod-cmp.html) – [amod](mdf_jr-dep-amod.html) – [appos](mdf_jr-dep-appos.html) – [aux](mdf_jr-dep-aux.html) – [aux:neg](mdf_jr-dep-aux-neg.html) – [aux:opt](mdf_jr-dep-aux-opt.html) – [case](mdf_jr-dep-case.html) – [cc](mdf_jr-dep-cc.html) – [cc:preconj](mdf_jr-dep-cc-preconj.html) – [ccomp](mdf_jr-dep-ccomp.html) – [compound](mdf_jr-dep-compound.html) – [compound:nn](mdf_jr-dep-compound-nn.html) – [conj](mdf_jr-dep-conj.html) – [cop](mdf_jr-dep-cop.html) – [csubj](mdf_jr-dep-csubj.html) – [csubj:cop](mdf_jr-dep-csubj-cop.html) – [dep](mdf_jr-dep-dep.html) – [det](mdf_jr-dep-det.html) – [discourse](mdf_jr-dep-discourse.html) – [dislocated](mdf_jr-dep-dislocated.html) – [expl](mdf_jr-dep-expl.html) – [fixed](mdf_jr-dep-fixed.html) – [flat](mdf_jr-dep-flat.html) – [flat:name](mdf_jr-dep-flat-name.html) – [list](mdf_jr-dep-list.html) – [mark](mdf_jr-dep-mark.html) – [nmod](mdf_jr-dep-nmod.html) – [nmod:bahuv](mdf_jr-dep-nmod-bahuv.html) – [nmod:gobj](mdf_jr-dep-nmod-gobj.html) – [nmod:poss](mdf_jr-dep-nmod-poss.html) – [nsubj](mdf_jr-dep-nsubj.html) – [nsubj:cop](mdf_jr-dep-nsubj-cop.html) – [nsubj:pass](mdf_jr-dep-nsubj-pass.html) – [nummod](mdf_jr-dep-nummod.html) – [obj](mdf_jr-dep-obj.html) – [obl](mdf_jr-dep-obl.html) – [obl:agent](mdf_jr-dep-obl-agent.html) – [obl:cmp](mdf_jr-dep-obl-cmp.html) – [obl:tmod](mdf_jr-dep-obl-tmod.html) – [orphan](mdf_jr-dep-orphan.html) – [parataxis](mdf_jr-dep-parataxis.html) – [punct](mdf_jr-dep-punct.html) – [root](mdf_jr-dep-root.html) – [vocative](mdf_jr-dep-vocative.html) – [xcomp](mdf_jr-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -143,7 +143,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 </ul>
 
 <ul>
-<li>This corpus contains 10 word types tagged as particles (PART): вдь, въдь, дяряй, и, нльне, нльня, сяда, хоть, хуш, шять</li>
+<li>This corpus contains 11 word types tagged as particles (PART): вдь, въдь, дяряй, и, ли, нльне, нльня, сяда, хоть, хуш, шять</li>
 </ul>
 
 <ul>
@@ -313,7 +313,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
     <ul>
       <li>ADJ: оцю, од, тяфтама, мазы, пара, сире, цебярь, акша, кодама, козя</li>
       <li>DET: эрь, лама, сембе, Тя, ся, иля, кодама-бъди, кой-кона, лия, тяка</li>
-      <li>NOUN: шись, пингть, ава, Тишка, ланга, ломань, пря, цёранц, шамац, шиня</li>
+      <li>NOUN: тячи, шись, ава, пингть, шиня, Тишка, ланга, ломань, пря, цёранц</li>
       <li>NUM: кафта, фкя, колма, 225, 7, вете, колмоцьке, комсь, ниле</li>
       <li>PRON: сон, мон, тя, сонь, ся, тон, мезевок, монь, тейнза, тейть</li>
       <li>PROPN: Петя, Иван, Игорь, Марья, Петровна, Алда-баба, Алдуван, Анна, Браун, Варвара</li>
@@ -343,9 +343,9 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
   <li>Abl
     <ul>
       <li>ADJ: пародонга</li>
-      <li>ADP: эзда, фталда, ширде, эздон, эздонк, эздост</li>
+      <li>ADP: эзда, фталда, алда, ширде, эздон, эздонк, эздост</li>
       <li>ADV: вярде, ичкозде</li>
-      <li>NOUN: ломаньда, ширде, Аннада, Пиледот, алда, алядот, вайгяльда, врьгазда, занятияда, иможда</li>
+      <li>NOUN: ломаньда, ширде, Аннада, Пиледот, алядот, вайгяльда, врьгазда, занятияда, иможда, книгада</li>
       <li>PRON: Мезьда, Тяда, мондедон, сембода</li>
       <li>VERB-Inf: валдашкодомда, ванфтомода, видемда, корхтамда, крфамда, лездомда, тиемда, шашнемда, якамда</li>
       <li>VERB-Part: мяляфтан, мяляфтат</li>
@@ -402,7 +402,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
     <ul>
       <li>ADJ: Ёмластокиге, маластонь</li>
       <li>ADP: пингста, ваксста</li>
-      <li>ADV: тоста, Тяста, кати-коста, кой-коста, курокста, эста, коста, тяза</li>
+      <li>ADV: вишкста, тоста, Тяста, кальдявста, кати-коста, кой-коста, эрязста, эста, беднайста, весяласта</li>
       <li>NOUN: велеста, комнатаста, кудста, онцтон, пингста, пингстонза, ёткста, Вирьста, Москуста, базарста</li>
       <li>VERB: лисемста, самста, Тумстост, завтракамста, мадомста, обедамста-ужнамста</li>
       <li>VERB-Conv: Тумстост, завтракамста, мадомста, обедамста-ужнамста</li>
@@ -415,7 +415,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
     <ul>
       <li>ADJ: Очижинь, омбоцеть, тячиень, Мокшень, Передовойть, главнайть, моронц, оцюняснон</li>
       <li>ADV: кафтонь</li>
-      <li>NOUN: пингть, паксянь, сёксень, цёранц, шить, валхнень, велеть, менельть, мирденц, очконять</li>
+      <li>NOUN: паксянь, пингть, сёксень, цёранц, шить, валхнень, велеть, менельть, мирденц, очконять</li>
       <li>PRON: сонь, монь, сембонь, тонь, синь, тянь, минь, Мезень, конань, Лиятнень</li>
       <li>PROPN: Архипонь, Вельдинонь, Витянь, Девинонь, Злобинонь, Ивановать, Кокоревонь, Мокшеть, Николаевнань, Пашуть</li>
       <li>VERB: Авардемать, Кундафнень, Нумань, аноклайхть, морамаснон, пидефонц, покодемаснон, саманьконь, сялондыхнень, тушендомаснон</li>
@@ -429,7 +429,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
   <li>Ill
     <ul>
       <li>ADP: лангс, ваксс, коряс, малас, Корязост, корязон, корязонк, корязонт, эзонза</li>
-      <li>ADV: Коза, ламос, Мес, козовок, тяза</li>
+      <li>ADV: Коза, ламос, Мес, козовок, козонга, тяза</li>
       <li>DET: ламос</li>
       <li>NOUN: лангс, каршес, вастс, кучкас, лангозонза, вастозонза, вельхксс, воляс, кудрядс, лафтубрязонза</li>
       <li>PRON: эсезост</li>
@@ -454,7 +454,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
   <li>Lat
     <ul>
       <li>ADP: алу, шири</li>
-      <li>ADV: вяри, алу, ичкози, оду, фталу, меки</li>
+      <li>ADV: вяри, алу, оду, ичкози, фталу, меки</li>
       <li>NOUN: инголи, ульцяв, куду, паксяв, шири, школав, Колхозу, Крыму, Мазы, Маманяв</li>
     </ul>
   </li>
@@ -477,7 +477,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
     <ul>
       <li>ADJ: оцю, од, тяфтама, мазы, пара, сире, цебярь, акша, кодама, козя</li>
       <li>DET: эрь, лама, сембе, Тя, ся, иля, кодама-бъди, кой-кона, лия, тяка</li>
-      <li>NOUN: ломаттне, шись, ава, Тишка, ланга, ломань, пря, стирнятне, шамац, визькс</li>
+      <li>NOUN: ломаттне, тячи, шись, ава, Тишка, ломань, пря, стирнятне, шамац, визькс</li>
       <li>NUM: кафта, фкя, колма, 225, 7, Кафттне, вете, кемотть, колмоцьке, комсь</li>
       <li>PRON: сон, мон, тя, ся, тон, синь, мезевок, минь, кона, мезе</li>
       <li>PROPN: Петя, Иван, Игорь, Марья, Петровна, Алда-баба, Алдуван, Анна, Браун, Варвара</li>
@@ -494,9 +494,9 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Prl
     <ul>
-      <li>ADP: мельгя, эзга, Мельгат, лангаст, мельге</li>
+      <li>ADP: алга, мельгя, эзга, Мельгат, лангаст, мельге</li>
       <li>ADV: перьфпяльге, Шобдава, сяшкава</li>
-      <li>NOUN: вальмава, морява, пандонява, алга, вастоваст, ведьгя, велькска, вельхкска, вирьгя, вярьгя</li>
+      <li>NOUN: ланга, вальмава, морява, пандонява, вастоваст, ведьгя, велькска, вельхкска, вирьгя, вярьгя</li>
     </ul>
   </li>
 </ul>
@@ -549,7 +549,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
       <li>ADJ: оцю, од, тяфтама, мазы, пара, сире, акша, кодама, козя, пси</li>
       <li>ADV: кати-коста, ламос, Коса-бди, кафтонь, козовок, косовок, сяшкава</li>
       <li>DET: эрь, лама, сембе, кодама-бъди, кой-кона, ламос, лия, тяка, тяфтама, эсь</li>
-      <li>NOUN: лангс, ава, паксянь, шиня, Тишка, каршес, ланга, ломань, пря, сёксень</li>
+      <li>NOUN: лангс, тячи, ава, паксянь, шиня, Тишка, каршес, ланга, ломань, пря</li>
       <li>NUM: кафта, фкя, колма, вете, кеветиешка, кемотть, комсь, ниле, нильгемоньшка</li>
       <li>PRON: тя, ся, сембонь, кона, мезевок, тянь, конань, сяка, Конашка, Сянь</li>
       <li>PROPN: Петя, Иван, Игорь, Марья, Петровна, Алда-баба, Алдуван, Анна, Архипонь, Браун</li>
@@ -659,6 +659,14 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 </ul>
 
 <ul>
+  <li>Cnd
+    <ul>
+      <li>AUX: ба</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Des
     <ul>
       <li>VERB: Молелексолеть</li>
@@ -678,7 +686,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: ульсь, ашезь, ашень, ашеть, изь, ульсть, эрявсь, ашесть, ба, ули</li>
+      <li>AUX: ульсь, ашезь, ашень, ашеть, изь, ульсть, эрявсь, ашесть, ули, эряви</li>
       <li>AUX-Fin: ашень, ульсть, ульсь, Улень, ашезе, савсь, сашендовсь, ули, эряви</li>
       <li>VERB: марявсь, лиссь, моли, сась, варжакстсь, кармась, мольсь, рамась, тусь, арась</li>
       <li>VERB-Fin: кармась, арась, кармасть, марявсь, морасть, сась, сувась, тусь, утцесь, ушедсь</li>
@@ -723,7 +731,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: афоль, ба, Улендяряль, афолензе, афолеть, улелеть</li>
+      <li>AUX: афоль, Улендяряль, афолензе, афолеть, улелеть</li>
       <li>VERB: Видендярялеть, Лездолень, Путондяряльхть, Рамаль, Сандяряль, Таргафтолемайть, арьселень, келептелине, корхнельхть, курендакшнельхть</li>
     </ul>
   </li>
@@ -990,7 +998,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
     <ul>
       <li>Post
         <ul>
-          <li>ADP: мархта, колга, пачк, сюнеда, Мельгат, инкса, лангаст, мельге, пильгалот, фталда</li>
+          <li>ADP: мархта, карша, колга, пачк, сюнеда, Мельгат, инкса, лангаст, мельге, пильгалот</li>
         </ul>
       </li>
     </ul>
@@ -1012,7 +1020,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
       </li>
       <li>Man
         <ul>
-          <li>ADV: цебярьста, мазыста, Кода, Тяфта, весяласта, вишкста, павазуста, хитрайста, цебярняста</li>
+          <li>ADV: лац, тяфта, вишкста, цебярьста, Кода, мазыста, савор, весяласта, кальдявста, павазуста</li>
         </ul>
       </li>
       <li>Mod
@@ -1027,8 +1035,8 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
       </li>
       <li>Tim
         <ul>
-          <li>ADV: нинге, ни, эста, тага, кунара, меле, рана, Кизонда, илять, тяни</li>
-          <li>NOUN: илять</li>
+          <li>ADV: нинге, ни, эста, меле, тага, кунара, тяни, Кали, илять, рана</li>
+          <li>NOUN: тячи, исяк</li>
           <li>SCONJ: мъзярда</li>
         </ul>
       </li>
@@ -1100,7 +1108,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
     <ul>
       <li>Cond
         <ul>
-          <li>AUX: ба, Улендяряль, савондяряй</li>
+          <li>AUX: Улендяряль, савондяряй</li>
           <li>VERB: Касондярян, матодовондяряй, Видендярялеть, Путондяряльхть, Сандяряль, кадондярясак, кизефтендярясамазь, кирдендярясы, лездондярятада, лисендяряль</li>
         </ul>
       </li>
@@ -1137,6 +1145,40 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
       <li>Wife
         <ul>
           <li>PROPN: Цямкаерясь</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADV: аньцек, туркс</li>
+          <li>SCONJ: што</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>AUX: аф</li>
+          <li>CCONJ: а, но</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>AUX: Аф</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>PRON: кинди</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADV: сяс</li>
         </ul>
       </li>
     </ul>
@@ -1189,7 +1231,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
       <li>Relat
         <ul>
           <li>ADP: лангс, ланга</li>
-          <li>NOUN: лангс, каршес, ланга, лангса, кучкас, лангозонза, шири, ёткста, Лангсонза, алга</li>
+          <li>NOUN: лангс, каршес, ланга, лангса, кучкас, лангозонза, шири, ёткста, Лангсонза, вельхкска</li>
         </ul>
       </li>
     </ul>
@@ -1284,6 +1326,18 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 </ul>
 
 <ul>
+  <li><a>PartType</a>
+    <ul>
+      <li>Int
+        <ul>
+          <li>PART: ли</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Person[obj]</a>
     <ul>
       <li>1
@@ -1316,7 +1370,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
       <li>1
         <ul>
           <li>ADP: Инголенк, каршесонк, корязон, корязонк, эздон, эздонк</li>
-          <li>NOUN: Алязе, брадозень, онцтон, сельмонень, шиня, Алязтиге, Казарманьконь, алязень, арьсеманень, атязе</li>
+          <li>NOUN: Алязе, брадозень, онцтон, сельмонень, Алязтиге, Казарманьконь, алязень, арьсеманень, атязе, баняня</li>
           <li>PROPN: Мишазе</li>
           <li>VERB-Vnoun: куломозон, саманьконь</li>
         </ul>
@@ -1455,7 +1509,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 </ul>
 
 <ul>
-<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: аф, аш, улемс, савомс, сашендовомс.</li>
+<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: аф, аш, эрявомс, ба, савомс, улемс, сашендовомс.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1518,6 +1572,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 36 relation subtypes: <a>acl:relcl</a>, <a>advcl:cau</a>, <a>advcl:eval</a>, <a>advcl:tcl</a>, <a>advmod:cau</a>, <a>advmod:cmp</a>, <a>advmod:deg</a>, <a>advmod:eval</a>, <a>advmod:foc</a>, <a>advmod:freq</a>, <a>advmod:lmod</a>, <a>advmod:mmod</a>, <a>advmod:tmod</a>, <a>aux:cnd</a>, <a>aux:nec</a>, <a>aux:neg</a>, <a>aux:opt</a>, <a>aux:q</a>, <a>cc:preconj</a>, <a>compound:nn</a>, <a>csubj:cop</a>, <a>flat:name</a>, <a>nmod:bahuv</a>, <a>nmod:gobj</a>, <a>nmod:lmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:cop</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:cau</a>, <a>obl:cmp</a>, <a>obl:freq</a>, <a>obl:inst</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>advmod:cmp</a>, <a>aux:neg</a>, <a>aux:opt</a>, <a>cc:preconj</a>, <a>compound:nn</a>, <a>csubj:cop</a>, <a>flat:name</a>, <a>nmod:bahuv</a>, <a>nmod:gobj</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:cmp</a>, <a>obl:tmod</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>iobj</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

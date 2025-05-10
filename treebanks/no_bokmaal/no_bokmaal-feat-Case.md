@@ -12,7 +12,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 15083 tokens (5%) have a non-empty value of `Case`.
 1180 types (4%) occur at least once with a non-empty value of `Case`.
-1028 lemmas (4%) occur at least once with a non-empty value of `Case`.
+1026 lemmas (4%) occur at least once with a non-empty value of `Case`.
 The feature is used with 6 part-of-speech tags: <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (12386; 4% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (1395; 0% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (1214; 0% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (47; 0% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (38; 0% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (3; 0% instances).
 
 ### `PRON`
@@ -56,7 +56,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 `PROPN` tokens may have the following values of `Case`:
 
 * `Gen` (1214; 100% of non-empty `Case`): <em>Norges, Regjeringens, Cathrines, Obamas, Høyres, FNs, Bertelsens, USAs, Europas, Hannahs</em>
-* `EMPTY` (17046): <em>Norge, Obama, Regjeringen, Jan, Oslo, USA, Den, Svalbard, Mayen, Stortinget</em>
+* `EMPTY` (17015): <em>Norge, Obama, Regjeringen, Jan, Oslo, USA, Den, Svalbard, Mayen, Stortinget</em>
 
 `Case` seems to be **lexical feature** of `PROPN`. 100% lemmas (461) occur only with one value of `Case`.
 

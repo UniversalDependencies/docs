@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Swedish-Talbanken: POS Tags: `SCONJ`
 
 There are 22 `SCONJ` lemmas (0%), 22 `SCONJ` types (0%) and 2102 `SCONJ` tokens (2%).
-Out of 17 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 12 in number of types and 11 in number of tokens.
+Out of 17 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 12 in number of types and 11 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>att, som, om, när, än, eftersom, innan, då, medan, sedan</em>
 
@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>att</em> (<tt><a href="sv_talbanken-p
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.430604).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.428271).
 
 The 1st highest number of forms (1) was observed with the lemma “allteftersom”: <em>allteftersom</em>.
 
@@ -74,17 +74,21 @@ The 3rd highest number of forms (1) was observed with the lemma “den”: <em>d
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="sv_talbanken-dep-mark.html">mark</a></tt> (2039; 97% instances), <tt><a href="sv_talbanken-dep-case.html">case</a></tt> (36; 2% instances), <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (25; 1% instances), <tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-dep-cc.html">cc</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="sv_talbanken-dep-mark.html">mark</a></tt> (2035; 97% instances), <tt><a href="sv_talbanken-dep-case.html">case</a></tt> (38; 2% instances), <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (25; 1% instances), <tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-dep-cc.html">cc</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1399; 67% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (352; 17% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (244; 12% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (73; 3% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (17; 1% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (12; 1% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (2; 0% instances)
+Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1387; 66% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (355; 17% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (244; 12% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (79; 4% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (21; 1% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (13; 1% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
-2098 (100%) `SCONJ` nodes are leaves.
+2095 (100%) `SCONJ` nodes are leaves.
 
-4 (0%) `SCONJ` nodes have one child.
+5 (0%) `SCONJ` nodes have one child.
 
-The highest child degree of a `SCONJ` node is 1.
+0 (0%) `SCONJ` nodes have two children.
 
-Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (2; 50% instances), <tt><a href="sv_talbanken-dep-obl.html">obl</a></tt> (2; 50% instances)
+2 (0%) `SCONJ` nodes have three or more children.
 
-Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (2; 50% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (2; 50% instances)
+The highest child degree of a `SCONJ` node is 3.
+
+Children of `SCONJ` nodes are attached using 4 different relations: <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (4; 36% instances), <tt><a href="sv_talbanken-dep-obl.html">obl</a></tt> (3; 27% instances), <tt><a href="sv_talbanken-dep-cop.html">cop</a></tt> (2; 18% instances), <tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt> (2; 18% instances)
+
+Children of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (4; 36% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (2; 18% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (2; 18% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (2; 18% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (1; 9% instances)
 

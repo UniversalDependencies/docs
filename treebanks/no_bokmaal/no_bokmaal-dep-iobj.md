@@ -28,9 +28,9 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 4	seg	seg	PRON	pron	Case=Acc|PronType=Prs|Reflex=Yes	3	iobj	_	_
 5	en	en	DET	det	Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 6	både	både	CCONJ	konj	_	7	cc	_	_
-7	viktig	viktig	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing	10	amod	_	_
+7	viktig	viktig	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	10	amod	_	_
 8	og	og	CCONJ	konj	_	9	cc	_	_
-9	vanskelig	vanskelig	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing	7	conj	_	_
+9	vanskelig	vanskelig	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	7	conj	_	_
 10	oppgave	oppgave	NOUN	subst	Definite=Ind|Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
 11	.	$.	PUNCT	clb	_	3	punct	_	_
 
@@ -53,7 +53,7 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 8	vi	vi	PRON	pron	Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
 9	synes	synes	VERB	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
 10	om	om	ADP	prep	_	11	case	_	_
-11	det	det	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obl	_	SpaceAfter=No
+11	det	den	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obl	_	SpaceAfter=No
 12	.	$.	PUNCT	clb	_	2	punct	_	_
 
 ~~~

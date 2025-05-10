@@ -22,20 +22,20 @@ The following 14 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 cop	color:blue
-1	#	#	X	_	_	3	dep	_	AlignBegin=233359|AlignEnd=233828|Gloss=PUNCT
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=233359|AlignEnd=233828|Gloss=PUNCT
 2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=233828|AlignEnd=233940|Gloss=NOM.SG.1
 3	say	say	VERB	_	_	0	root	_	AlignBegin=233940|AlignEnd=234060|Gloss=say
-4	[	[	X	_	_	11	dep	_	AlignBegin=234060|AlignEnd=234060|Gloss=PUNCT
+4	[	[	PUNCT	_	_	11	punct	_	AlignBegin=234060|AlignEnd=234060|Gloss=PUNCT
 5	okay	OK	INTJ	_	_	11	discourse	_	AlignBegin=234060|AlignEnd=234295|Gloss=OK
 6	if	if	SCONJ	_	_	9	mark	_	AlignBegin=234295|AlignEnd=234500|Gloss=if
 7	na	na	AUX	_	PartType=Cop	9	cop	_	AlignBegin=234500|AlignEnd=234670|Gloss=be
 8	dat	dat	DET	_	Number=Sing	9	det	_	AlignBegin=234670|AlignEnd=234830|Gloss=SG.DEM
 9	one	one	NOUN	_	_	11	advcl	_	AlignBegin=234830|AlignEnd=235139|Gloss=one
-10	<	<	X	_	_	9	dep	_	AlignBegin=235139|AlignEnd=235139|Gloss=PUNCT
+10	<	<	PUNCT	_	_	9	punct	_	AlignBegin=235139|AlignEnd=235139|Gloss=PUNCT
 11	no	no	PART	_	Polarity=Neg	3	parataxis	_	AlignBegin=235139|AlignEnd=235370|Gloss=NEG
 12	problem	problem	NOUN	_	_	11	xcomp	_	AlignBegin=235370|AlignEnd=235755|Gloss=problem
-13	!//]	!//]	X	_	_	11	dep	_	AlignBegin=235755|AlignEnd=235755|Gloss=PUNCT
-14	//	//	X	_	_	3	dep	_	AlignBegin=235725|AlignEnd=235755|Gloss=PUNCT
+13	!//]	!//]	PUNCT	_	_	11	punct	_	AlignBegin=235755|AlignEnd=235755|Gloss=PUNCT
+14	//	//	PUNCT	_	_	3	punct	_	AlignBegin=235725|AlignEnd=235755|Gloss=PUNCT
 
 ~~~
 
@@ -46,7 +46,7 @@ The following 14 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 cop	color:blue
-1	#	#	X	_	_	3	dep	_	AlignBegin=35489|AlignEnd=36891|Gloss=PUNCT
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=35489|AlignEnd=36891|Gloss=PUNCT
 2	na	na	AUX	_	PartType=Cop	3	cop	_	AlignBegin=36891|AlignEnd=37052|Gloss=be
 3	wetin	wetin	PRON	_	PronType=Int	0	root	_	AlignBegin=37052|AlignEnd=37270|Gloss=what.Q
 4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	AlignBegin=37270|AlignEnd=37360|Gloss=NOM.SG.1
@@ -54,7 +54,7 @@ The following 14 pairs of parts of speech are connected with `cop`: <tt><a href=
 6	n't	not	PART	_	Polarity=Neg	8	advmod	_	AlignBegin=37500|AlignEnd=37760|Gloss=NEG
 7	just	just	ADV	_	_	8	advmod	_	AlignBegin=37760|AlignEnd=37956|Gloss=just
 8	know	know	VERB	_	_	3	acl:relcl	_	AlignBegin=37760|AlignEnd=37956|Gloss=know
-9	//	//	X	_	_	3	dep	_	AlignBegin=37956|AlignEnd=37956|Gloss=PUNCT
+9	//	//	PUNCT	_	_	3	punct	_	AlignBegin=37956|AlignEnd=37956|Gloss=PUNCT
 
 ~~~
 
@@ -67,12 +67,12 @@ The following 14 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 2 1 cop	color:blue
 1	na	na	AUX	_	PartType=Cop	2	cop	_	AlignBegin=94899|AlignEnd=95059|Gloss=be
 2	so	so	ADV	_	_	0	root	_	AlignBegin=95059|AlignEnd=95227|Gloss=so
-3	>+	>+	X	_	_	6	dep	_	AlignBegin=95227|AlignEnd=95227|Gloss=PUNCT
+3	>+	>+	PUNCT	_	_	6	punct	_	AlignBegin=95227|AlignEnd=95227|Gloss=PUNCT
 4	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	AlignBegin=95227|AlignEnd=95299|Gloss=NOM.PL.1
 5	con	con	AUX	_	Aspect=Cons	6	aux	_	AlignBegin=95299|AlignEnd=95509|Gloss=CONS
 6	do	do	VERB	_	_	2	advcl:cleft	_	AlignBegin=95509|AlignEnd=95734|Gloss=do
 7	o	o	PART	_	PartType=Disc	2	advmod	_	AlignBegin=95734|AlignEnd=95879|Gloss=EMPH
-8	//	//	X	_	_	2	dep	_	AlignBegin=95879|AlignEnd=95879|Gloss=PUNCT
+8	//	//	PUNCT	_	_	2	punct	_	AlignBegin=95879|AlignEnd=95879|Gloss=PUNCT
 
 ~~~
 

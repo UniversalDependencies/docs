@@ -70,7 +70,7 @@ The following 13 pairs of parts of speech are connected with `compound`: <tt><a 
 8	<	<	PUNCT	_	_	7	punct	_	AlignBegin=44290|AlignEnd=44443|Gloss=PUNCT
 9	má	_	AUX	a	Number=Plur|Person=1|Tense=Fut	10	aux	_	AlignBegin=44443|AlignEnd=44679|Gloss=1Plur.Fut
 10	ɬə̂	ɬə	VERB	_	_	0	root	_	AlignBegin=44679|AlignEnd=44915|Gloss=go
-11	ngelángə̂n	ngeláŋ	VERB	_	VerbForm=Vnoun	10	dep	_	AlignBegin=44915|AlignEnd=45033|Gloss=stroll.NMLZ
+11	ngelángə̂n	ngeláŋ	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	10	dep	_	AlignBegin=44915|AlignEnd=45033|Gloss=stroll.NMLZ
 12	sòːséy	sòːséy	ADV	_	_	10	advmod	_	AlignBegin=45151|AlignEnd=45387|Gloss=quite
 13	//	//	PUNCT	_	_	10	punct	_	AlignBegin=45387|AlignEnd=45621|Gloss=PUNCT
 

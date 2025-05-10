@@ -39,17 +39,17 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 1 nsubj:pass	color:blue
 1	Τι	τι	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int	5	nsubj:pass	_	_
-2	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
+2	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	λοιπόν	λοιπόν	ADV	ADV	_	5	advmod	_	_
 4	να	να	AUX	AUX	_	5	aux	_	_
-5	τεθεί	θέτω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	τεθεί	θέτω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	2	csubj	_	_
 6	σ	σε	ADP	ADP	_	9	case	_	_
 7	την	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	9	det	_	_
 8	ημερήσια	ημερήσιος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	9	amod	_	_
 9	διάταξη	διάταξη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	_
 10	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	Βαρκελώνης	Βαρκελώνη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
-12	;	;	PUNCT	PUNCT	_	5	punct	_	_
+12	;	;	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

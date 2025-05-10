@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>puis</em> (<tt><a href="fr_sequoia-po
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.166667 (the average of all parts of speech is 1.407386).
+The form / lemma ratio of `CCONJ` is 1.166667 (the average of all parts of speech is 1.407991).
 
 The 1st highest number of forms (2) was observed with the lemma “et”: <em>&, et</em>.
 
@@ -54,17 +54,17 @@ Examples: <em>et, ou, mais, puis, car, ni, soit, /, &, Or</em>
 
 `CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="fr_sequoia-dep-cc.html">cc</a></tt> (1622; 99% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (11; 1% instances), <tt><a href="fr_sequoia-dep-amod.html">amod</a></tt> (5; 0% instances)
 
-Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (828; 51% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (470; 29% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (124; 8% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (109; 7% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (33; 2% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (28; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (24; 1% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (10; 1% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (9; 1% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (825; 50% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (470; 29% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (124; 8% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (110; 7% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (34; 2% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (29; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (24; 1% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (10; 1% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (9; 1% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (1; 0% instances)
 
-1622 (99%) `CCONJ` nodes are leaves.
+1623 (99%) `CCONJ` nodes are leaves.
 
-7 (0%) `CCONJ` nodes have one child.
+6 (0%) `CCONJ` nodes have one child.
 
 9 (1%) `CCONJ` nodes have two children.
 
 The highest child degree of a `CCONJ` node is 2.
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (24; 96% instances), <tt><a href="fr_sequoia-dep-punct.html">punct</a></tt> (1; 4% instances)
+Children of `CCONJ` nodes are attached using 1 different relations: <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (24; 100% instances)
 
-Children of `CCONJ` nodes belong to 6 different parts of speech: <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (9; 36% instances), <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (9; 36% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (4; 16% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (1; 4% instances)
+Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (9; 38% instances), <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (9; 38% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (4; 17% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 4% instances)
 

@@ -134,7 +134,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 7992 <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6004; 75%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5457; 68%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="orv_rnc-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (6988; 87%), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6004; 75%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5457; 68%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -148,7 +148,8 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>онъ</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>онъ, он, ѡн, ѡнъ</em></td><td><em>ево, его, него, нево, нѣго, єго</em></td><td><em>ему, нему, емꙋ, єму, немꙋ</em></td><td><em>его, ево, него, нево, єго, евѡ, ег[о], егѡ, невѡ, нег[о], нѣгѡ</em></td><td><em>нем, немъ, не(м), не[м], немь, нѣмъ</em></td><td><em>ним, нимъ, им, имъ</em></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-ExtPos.html">ExtPos</a></tt><tt>=DET</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ево</em></td><td></td><td><em>его, ево, єго, евѡ, ег[о], егѡ</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>онъ, он, ѡн, ѡнъ</em></td><td><em>ево, его, него, нево, нѣго, єго</em></td><td><em>ему, нему, емꙋ, єму, немꙋ</em></td><td><em>него, нево, его, ево, евѡ, невѡ, нег[о], нѣгѡ</em></td><td><em>нем, немъ, не(м), не[м], немь, нѣмъ</em></td><td><em>ним, нимъ, им, имъ</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>их</em></td><td></td><td></td><td></td><td><em>НИМЪ</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td><em>еꙗ</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td></td><td><em>них</em></td><td></td></tr>
@@ -237,7 +238,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="orv_rnc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10538; 97%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-det.html">det</a></tt>]--> DET</tt> (6439; 98%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-det.html">det</a></tt>]--> DET</tt> (6366; 98%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4515; 80%),
 <tt>PROPN --[<tt><a href="orv_rnc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (3210; 98%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (3041; 96%),

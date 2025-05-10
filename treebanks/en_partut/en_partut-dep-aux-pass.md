@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_partut-dep-aux.html">aux</a></tt>.
 
-476 nodes (1%) are attached to their parents as `aux:pass`.
+478 nodes (1%) are attached to their parents as `aux:pass`.
 
-476 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.15546218487395.
+478 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.15690376569038.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (475; 100% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (477; 100% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,9 +42,9 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	In	in	ADP	E	_	2	case	_	_
 2	1613	1613	NUM	N	NumType=Card	7	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	Sir	Sir	PROPN	SP	_	7	nsubj	_	_
-5	Henry	Henry	PROPN	SP	_	4	flat	_	_
-6	Wotton	Wotton	PROPN	SP	_	4	flat	_	_
+4	Sir	Sir	PROPN	SP	_	5	nmod:desc	_	_
+5	Henry	Henry	PROPN	SP	_	7	nsubj	_	_
+6	Wotton	Wotton	PROPN	SP	_	5	flat	_	_
 7	recorded	record	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	that	that	SCONJ	CS	_	13	mark	_	_
 9	Henry	Henry	PROPN	SP	_	13	nsubj:pass	_	_

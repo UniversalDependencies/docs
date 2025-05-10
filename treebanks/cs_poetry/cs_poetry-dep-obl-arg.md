@@ -33,8 +33,8 @@ The following 13 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 8	slovo	slovo	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	SpaceAfter=No
 9	:	:	PUNCT	Z:-------------	_	10	punct	_	_
 10	Ego	ego	PRON	II-------------	Foreign=Yes	8	appos	_	_
-11	te	tu	PRON	TT-------------	Foreign=Yes	10	flat:foreign	_	_
-12	absolvo	absolvere	VERB	NNNS1-----A----	Aspect=Perf|Foreign=Yes|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	flat:foreign	_	SpaceAfter=No
+11	te	tu	PRON	TT-------------	Foreign=Yes	10	flat	_	_
+12	absolvo	absolvere	VERB	NNNS1-----A----	Aspect=Perf|Foreign=Yes|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	flat	_	SpaceAfter=No
 13	!	!	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~

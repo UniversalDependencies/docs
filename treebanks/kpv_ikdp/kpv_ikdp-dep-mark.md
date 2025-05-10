@@ -25,7 +25,7 @@ The following 7 pairs of parts of speech are connected with `mark`: <tt><a href=
 1	Ваыс	ва	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	csubj	_	_
 2	зэй	зэй	ADV	Adv	_	3	advmod:deg	_	_
 3	ыджыд	ыджыд	ADJ	A	Case=Nom|Number=Sing	1	amod	_	_
-4	кор	кор	ADV	Adv	_	1	advmod:tmod	_	_
+4	кор	кор	ADV	Adv	_	1	advmod	_	_
 5	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	cop	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
 7	дак	дак	SCONJ	CS	_	9	mark	_	OrigLang=ru
@@ -50,14 +50,14 @@ The following 7 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 13 10 mark	color:blue
 1	Сыысь	сійӧ	PRON	Pron	Case=Ela|Number=Sing|Person=3|PronType=Prs	6	obl	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	гашке	гашкӧ	PART	Pcle	_	6	advmod:mmod	_	SpaceAfter=No
+3	гашке	гашкӧ	PART	Pcle	_	6	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	6	aux	_	_
 6	бросайтчы	бросайтчыны	VERB	V	Connegative=Yes	0	root	_	OrigLang=ru
 7	в	в	ADP	Pr	_	8	case	_	Lang=ru
 8	глаза	глаз	NOUN	N	Case=Nom|Number=Plur	6	obl	_	Lang=ru|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	потому	потому	SCONJ	CS	_	13	mark	_	Lang=ru
+10	потому	потому	SCONJ	CS	ExtPos=SCONJ	13	mark	_	Lang=ru
 11	что	что	SCONJ	CS	_	10	fixed	_	Lang=ru
 12	уна	уна	ADV	Adv	_	13	advmod	_	_
 13	йӧз	йӧз	NOUN	N	Case=Nom|Number=Sing	6	advcl	_	SpaceAfter=No

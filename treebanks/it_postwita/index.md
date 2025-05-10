@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_Italian-PoSTWITA](https://github.com/UniversalDependencies/UD_Italian-PoSTWITA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_postwita215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_postwita216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -69,7 +69,7 @@ The treebank development has also been possible thanks to the contribution of Fa
 
 ## Features
 
-[Clitic](it_postwita-feat-Clitic.html) – [Definite](it_postwita-feat-Definite.html) – [Degree](it_postwita-feat-Degree.html) – [Foreign](it_postwita-feat-Foreign.html) – [Gender](it_postwita-feat-Gender.html) – [Mood](it_postwita-feat-Mood.html) – [Number](it_postwita-feat-Number.html) – [NumType](it_postwita-feat-NumType.html) – [Person](it_postwita-feat-Person.html) – [Poss](it_postwita-feat-Poss.html) – [PronType](it_postwita-feat-PronType.html) – [Tense](it_postwita-feat-Tense.html) – [Typo](it_postwita-feat-Typo.html) – [VerbForm](it_postwita-feat-VerbForm.html)
+[Clitic](it_postwita-feat-Clitic.html) – [Definite](it_postwita-feat-Definite.html) – [Degree](it_postwita-feat-Degree.html) – [ExtPos](it_postwita-feat-ExtPos.html) – [Foreign](it_postwita-feat-Foreign.html) – [Gender](it_postwita-feat-Gender.html) – [Mood](it_postwita-feat-Mood.html) – [Number](it_postwita-feat-Number.html) – [NumType](it_postwita-feat-NumType.html) – [Person](it_postwita-feat-Person.html) – [Poss](it_postwita-feat-Poss.html) – [PronType](it_postwita-feat-PronType.html) – [Tense](it_postwita-feat-Tense.html) – [Typo](it_postwita-feat-Typo.html) – [VerbForm](it_postwita-feat-VerbForm.html)
 
 ## Relations
 
@@ -112,7 +112,7 @@ The treebank development has also been possible thanks to the contribution of Fa
 </ul>
 
 <ul>
-<li>This corpus contains 71 lemmas tagged as pronouns (PRON): alcuno, altro, ce, che, chi, chiunque, ché, ci, ciò, coloro, cosa, costui, cui, c’, egli, entrambi, esso, gli, i, il, io, la, le, lei, li, lo, loro, lui, me, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, ognuno, parecchio, poco, qual, qualche, qualcosa, qualcosaltro, qualcuno, quale, quando, quanto, quello, questo, se, si, stesso, suo, sé, tanto, te, terzo, ti, tu, tuo, tutto, una, uni, uno, ve, vi, voi, voialtri, vostro</li>
+<li>This corpus contains 72 lemmas tagged as pronouns (PRON): alcuno, altro, ce, certo, che, chi, chiunque, ché, ci, ciò, coloro, cosa, costui, cui, c’, egli, entrambi, esso, gli, i, il, io, la, le, lei, li, lo, loro, lui, me, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, ognuno, parecchio, poco, qual, qualche, qualcosa, qualcosaltro, qualcuno, quale, quando, quanto, quello, questo, se, si, stesso, suo, sé, tanto, te, terzo, ti, tu, tuo, tutto, una, uni, uno, ve, vi, voi, voialtri, vostro</li>
 </ul>
 
 <ul>
@@ -120,7 +120,7 @@ The treebank development has also been possible thanks to the contribution of Fa
 </ul>
 
 <ul>
-<li>Out of the above, 24 lemmas occurred sometimes as PRON and sometimes as DET: alcuno, altro, che, il, lo, loro, mio, molto, nessuno, niente, nostro, poco, qualche, quale, quanto, quello, questo, stesso, suo, tanto, tuo, tutto, uno, vostro</li>
+<li>Out of the above, 25 lemmas occurred sometimes as PRON and sometimes as DET: alcuno, altro, certo, che, il, lo, loro, mio, molto, nessuno, niente, nostro, poco, qualche, quale, quanto, quello, questo, stesso, suo, tanto, tuo, tutto, uno, vostro</li>
 </ul>
 
 <ul>
@@ -195,6 +195,7 @@ The treebank development has also been possible thanks to the contribution of Fa
   <li>Masc
     <ul>
       <li>ADJ: nuovo, buon, primo, vero, giusto, fisso, tecnico, bello, bravo, italiano</li>
+      <li>ADP: rispetto</li>
       <li>AUX-Part: stato, stati, potuto, dovuto</li>
       <li>DET: il, i, un, gli, lo, questo, mio, suo, uno, suoi</li>
       <li>NOUN: governo, video, anni, premier, lavoro, presidente, partiti, paese, italiani, professor</li>
@@ -229,6 +230,7 @@ The treebank development has also been possible thanks to the contribution of Fa
   <li>Sing
     <ul>
       <li>ADJ: nuovo, bella, buon, possibile, facile, buona, primo, forte, migliore, sociale</li>
+      <li>ADP: rispetto</li>
       <li>AUX-Fin: è, ha, sono, ho, e', sei, può, sarà, sia, sta</li>
       <li>AUX-Part: stato, stata, potuto, dovuto, dovuta, state, ststa</li>
       <li>DET: il, la, l', un, una, lo, questo, mio, mia, questa</li>
@@ -445,7 +447,7 @@ The treebank development has also been possible thanks to the contribution of Fa
   <li>Prs
     <ul>
       <li>DET: mio, mia, suo, sua, suoi, tuo, loro, nostro, tua, miei</li>
-      <li>PRON: si, mi, ci, lo, ti, io, c', me, la, ne</li>
+      <li>PRON: si, mi, ci, lo, ti, io, c', me, ne, la</li>
       <li>X: te</li>
     </ul>
   </li>
@@ -550,8 +552,26 @@ The treebank development has also been possible thanks to the contribution of Fa
     <ul>
       <li>Yes
         <ul>
-          <li>PRON: si, mi, ci, lo, ti, c', la, ne, vi, l'</li>
+          <li>PRON: si, mi, ci, lo, ti, c', ne, la, vi, l'</li>
           <li>X: te</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADP: fino, OLTRE, davanti, fuori, intorno, prima</li>
+          <li>SCONJ: invece, oltre, prima</li>
+        </ul>
+      </li>
+      <li>NOUN
+        <ul>
+          <li>ADP: grazie, rispetto</li>
         </ul>
       </li>
     </ul>
@@ -577,15 +597,14 @@ The treebank development has also been possible thanks to the contribution of Fa
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: ideal</li>
           <li>ADP: dii</li>
-          <li>ADV: sta, gia, no</li>
+          <li>ADV: sta, gia, in, no</li>
           <li>AUX-Fin: e</li>
           <li>INTJ: daii</li>
           <li>NOUN: cazo, meet, po, provvidemento</li>
           <li>PRON: c'</li>
           <li>SCONJ: per</li>
-          <li>VERB-Fin: ombottivo, voleve, volio</li>
+          <li>VERB-Fin: voleve, volio</li>
           <li>VERB-Part: cosnigliato</li>
         </ul>
       </li>
@@ -633,7 +652,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1673)</li>
+      <li>VERB-Fin--NOUN (1674)</li>
       <li>VERB-Fin--NOUN-ADP(a) (1)</li>
       <li>VERB-Fin--NOUN-ADP(di) (3)</li>
       <li>VERB-Fin--NOUN-ADP(su) (1)</li>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-472 nodes (2%) are attached to their parents as `mark`.
+530 nodes (2%) are attached to their parents as `mark`.
 
-307 instances of `mark` (65%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.39194915254237.
+346 instances of `mark` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.42264150943396.
 
-The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (432; 92% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (14; 3% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (12; 3% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `mark`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (483; 91% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (15; 3% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (12; 2% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -67,11 +67,11 @@ The following 8 pairs of parts of speech are connected with `mark`: <tt><a href=
 2	kurí	kurí	PART	FUT	Tense=Fut	3	advmod	_	TokenRange=8:12
 3	bũa	bũa	ADJ	A	_	8	advcl	_	SpaceAfter=No|TokenRange=13:16
 4	,	,	PUNCT	PUNCT	_	8	punct	_	TokenRange=16:17
-5	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	TokenRange=18:21
+5	ixé	ixé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	TokenRange=18:21
 6	asú	sú	AUX	AUXFR	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	8	aux	_	TokenRange=22:25
 7	kurí	kurí	PART	FUT	Tense=Fut	8	advmod	_	TokenRange=26:30
 8	ayuká	yuká	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=31:36
-9	indé	indé	PRON	PRON	Number=Sing|Person=2|PronType=Prs	8	iobj	_	TokenRange=37:41
+9	indé	indé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=2|PronType=Prs	8	iobj	_	TokenRange=37:41
 10	arama	arama	ADP	ADP	AdpType=Post	9	case	_	TokenRange=42:47
 11	kwá	kwá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	12	det	_	TokenRange=48:51
 12	tukunaré	tukunaré	NOUN	N	Number=Sing	8	obj	_	SpaceAfter=No|TokenRange=52:60

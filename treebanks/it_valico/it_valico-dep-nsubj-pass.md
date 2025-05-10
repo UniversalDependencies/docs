@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 3	cominciato	cominciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	a	a	ADP	E	_	5	mark	_	_
 5	seguire	seguire	VERB	V	VerbForm=Inf	3	xcomp	_	_
-6	fino	fino	ADV	B	_	9	case	_	_
+6	fino	fino	ADV	B	ExtPos=ADV	9	case	_	_
 7	a	a	ADP	E	_	6	fixed	_	_
 8	la	la	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	fine	fine	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
@@ -102,7 +102,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 78	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	80	obj	_	_
 79	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	80	aux	_	_
 80	attaccato	attaccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
-81	a	a	SCONJ	CS	_	88	mark	_	_
+81	a	a	SCONJ	CS	ExtPos=ADP	88	mark	_	_
 82	tal	tale	SCONJ	CS	_	81	fixed	_	_
 83	punto	punto	SCONJ	CS	_	81	fixed	_	_
 84	che	che	SCONJ	CS	_	81	fixed	_	_

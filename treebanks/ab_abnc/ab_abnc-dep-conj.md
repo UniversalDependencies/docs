@@ -9,30 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `conj`: <tt><a href="ab_abnc-dep-conj-q.html">conj:q</a></tt>.
 
-224 nodes (4%) are attached to their parents as `conj`.
+380 nodes (4%) are attached to their parents as `conj`.
 
-224 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.23214285714286.
+380 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.41578947368421.
 
-The following 17 pairs of parts of speech are connected with `conj`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (160; 71% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (25; 11% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (7; 3% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 7 conj	color:blue
-1	Амла	а́-мла	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	2	iobj	_	LMSeg:а́-мла
-2	иакуан	а-кра́	VERB	V_Dyn_Intr_Fin_Impf_S:3_IO:3SgNH	Dyn=Yes|Gender[io]=Neut|Number[io]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:а-к-ра́
-3	,	,	PUNCT	Punct_Comma	_	7	punct	_	LMSeg:,
-4	џьара	џьара́	ADV	Adv	_	6	advmod	_	LMSeg:џьара́
-5	фатәык	а́-фатә	NOUN	Noun_NH_Sg_Indet	Animacy=Nhum|Number=Sing	6	obj	_	LMSeg:а́-фатә
-6	аҧшаара	а́-ҧшаара	VERB	VN_Dyn_Sg_Det_Tr	Definite=Def|Dyn=Yes|Number=Sing|Subcat=Tran|VerbForm=Vnoun	7	xcomp:lo	_	LMSeg:а́-ҧшаа-ра
-7	иашьҭан	а́-шьҭазаара	VERB	V_Stat_Fin_Impf_S:3_LO:3SgNH	Dyn=No|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[subj]=3|Tense=Imp|VerbForm=Fin	2	conj	_	LMSeg:а́-шьҭа-заа-ра
-8	.	.	PUNCT	Punct_Period	_	2	punct	_	LMSeg:.
-
-~~~
+The following 18 pairs of parts of speech are connected with `conj`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (289; 76% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (35; 9% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (11; 3% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (8; 2% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (7; 2% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,34 +23,52 @@ The following 17 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 8 conj	color:blue
-1	Иаауаз	аа-ра́	VERB	V_Dyn_Intr_NonFin_Impf_S:Rel_Rel	Dyn=Yes|Person[subj]=Rel|Subcat=Intr|Tense=Imp|VerbForm=NonFin	2	acl:relcl	_	LMSeg:аа-ра́
-2	агыгшәыгқәа	а-гыгшәы́г	NOUN	Noun_NH_Pl_Det	Animacy=Nhum|Definite=Def|Number=Plur	3	nmod:poss	_	LMSeg:а-гыгшәы́г
-3	руак	руакы́	PRON	Pron_Indef_NH_Sg_Poss:3Pl	Animacy=Nhum|Number=Sing|Number[psor]=Plur|Person[psor]=3|PronType=Ind	4	nsubj	_	LMSeg:руакы́
-4	Алым	а́-лым	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	0	root	_	LMSeg:а́-лым
-5	акәын	а́кәзаара	AUX	V_Stat_Fin_Impf_S:3_IO:3SgNH_Cop	Dyn=No|Gender[io]=Neut|Number[io]=Sing|Person[io]=3|Person[subj]=3|Tense=Imp|VerbForm=Fin	4	cop	_	LMSeg:а́кә-заа-ра
-6	,	,	PUNCT	Punct_Comma	_	8	punct	_	LMSeg:,
-7	егьи	егьи́	PRON	Pron_Dem_Sg	Number=Sing|PronType=Dem	8	nsubj	_	LMSeg:егьи́
-8	Амшә	а́-мшә	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	4	conj	_	LMSeg:а́-мшә
-9	акәын	а́кәзаара	AUX	V_Stat_Fin_Impf_S:3_IO:3SgNH_Cop	Dyn=No|Gender[io]=Neut|Number[io]=Sing|Person[io]=3|Person[subj]=3|Tense=Imp|VerbForm=Fin	8	cop	_	LMSeg:а́кә-заа-ра
-10	.	.	PUNCT	Punct_Period	_	8	punct	_	LMSeg:.
+1	–	–	PUNCT	Punct_Dash	_	4	punct	_	LMSeg:–
+2	Бхаҵа	а-ха́ҵа	NOUN	Noun_H_Sg_Poss:2SgF	Animacy=Hum|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=2	3	nmod:poss	_	LMSeg:а-ха́ҵа
+3	иҿала	а-ҿы́	NOUN	Noun_NH_Sg_Poss:3SgM_PP:ла	Animacy=Nhum|Case=Ins|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	LMSeg:а-ҿы́
+4	иҳәахьеит	а-ҳәара́	VERB	V_Dyn_Tr_Fin_Perf_S:3SgM_DO:3	Dyn=Yes|Gender[subj]=Masc|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Prf|VerbForm=Fin	0	root	_	LMSeg:а-ҳәа-ра́|SpaceAfter=No
+5	,	,	PUNCT	Punct_Comma	_	8	punct	_	LMSeg:,
+6	бара	бара́	PRON	Pron_Pers_2SgF	Gender=Fem|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	LMSeg:бара́
+7	мап	ма́п	ADV	Adv_Root	_	8	obj	_	LMSeg:ма́п
+8	зыбкуазеи	а-кра́	VERB	V_Dyn_Tr_NonFin_Pres_Why_Q_S:2SgF_DO:3_DO:Ad	Dyn=Yes|Gender[subj]=Fem|Mood=Int|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|RelType=Cause|Subcat=Tran|Tense=Pres|VerbForm=NonFin	4	conj	_	LMSeg:а-к-ра́|SpaceAfter=No
+9	?	?	PUNCT	Punct_IntMark	_	8	punct	_	LMSeg:?
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 conj	color:blue
-1	–	–	PUNCT	Punct_Dash	_	2	punct	_	LMSeg:–
-2	Афатә	а́-фатә	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	3	obj	_	LMSeg:а́-фатә
-3	аизгара	а́изгара	VERB	VN_Dyn_Sg_Det_Tr_TogetherLoc	Definite=Def|Dyn=Yes|Number=Sing|Subcat=Tran|VerbForm=Vnoun	7	csubj	_	LMSeg:а́из·га-ра
-4	,	,	PUNCT	Punct_Comma	_	5	punct	_	LMSeg:,
-5	ацхаҟаҵара	а́-цхаҟаҵара	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	3	conj	_	LMSeg:а́-цхаҟаҵара
-6	сара	сара́	PRON	Pron_Pers_1Sg	Number=Sing|Person=1|PronType=Prs	7	nmod:poss	_	LMSeg:сара́
-7	исусӡам	а-у́с	VERB	Noun_NH_Sg_Pred_Fin_Pres_Neg_Emph_S:3_Poss:1Sg	Animacy=Nhum|Dyn=No|Number=Sing|Number[psor]=Sing|Person[psor]=1|Person[subj]=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	LMSeg:а-у́с
-8	.	.	PUNCT	Punct_Period	_	7	punct	_	LMSeg:.
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 conj	color:blue
+1	Уи	уи́	PRON	Pron_Dem_Dist_Sg	Number=Sing|PronType=Dem	2	det	_	LMSeg:уи́
+2	аҧҳәыс	а-ҧҳәы́с	NOUN	Noun_H_F_Sg_Det	Animacy=Hum|Definite=Def|Number=Sing	8	nsubj	_	LMSeg:а-ҧҳәы́с
+3	сара	сара́	PRON	Pron_Pers_1Sg	Number=Sing|Person=1|PronType=Prs	8	obl	_	LMSeg:сара́
+4	сыда	а́-да	ADP	PP_Poss:1Sg	Number[psor]=Sing|Person[psor]=1	3	case	_	LMSeg:а́-да
+5	даҽа	даҽа́	ADJ	Adj	_	7	amod	_	LMSeg:даҽа́
+6	ҩыџьа	ҩы́џьа	NUM	Num_H_Card	Animacy=Hum|NumType=Card	7	nummod	_	LMSeg:ҩы́џьа
+7	аҧсшьацәа	а-ҧсшьаҩы́	NOUN	Noun_H_Pl_Det	Animacy=Hum|Definite=Def|Number=Plur	8	obj	_	LMSeg:а-ҧсшьаҩы́
+8	лыҧшааит	а́-ҧшаара	VERB	V_Dyn_Tr_Fin_Aor_S:3SgF_DO:3_DO:Ad	Dyn=Yes|Gender[subj]=Fem|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а́-ҧшаа-ра
+9	–	–	PUNCT	Punct_Dash	_	10	punct	_	LMSeg:–
+10	хаҵеи	а-ха́ҵа	NOUN	Noun_H_Sg_Coord	Animacy=Hum|Number=Sing	7	appos	_	LMSeg:а-ха́ҵа
+11	ҧҳәыси	а-ҧҳәы́с	NOUN	Noun_H_F_Sg_Coord	Animacy=Hum|Number=Sing	10	conj	_	LMSeg:а-ҧҳәы́с|SpaceAfter=No
+12	.	.	PUNCT	Punct_Period	_	8	punct	_	LMSeg:.
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 conj	color:blue
+1	Бхаҵеи	а-ха́ҵа	NOUN	Noun_H_Sg_Poss:2SgF_Coord	Animacy=Hum|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=2	4	nsubj	_	LMSeg:а-ха́ҵа
+2	бареи	бара́	PRON	Pron_Pers_2SgF_Coord	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	conj	_	LMSeg:бара́
+3	рыгәҭа	а-гәҭа́	NOUN	Noun_NH_Sg_Poss:3Pl	Animacy=Nhum|Number=Sing|Number[psor]=Plur|Person[psor]=3	4	obl	_	LMSeg:а-гәҭа́
+4	шәтәан	а-тәа́заара	VERB	V_Stat_Fin_Impf_S:2Pl	Dyn=No|Number[subj]=Plur|Person[subj]=2|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:а-тәа́-заа-ра|SpaceAfter=No
+5	.	.	PUNCT	Punct_Period	_	4	punct	_	LMSeg:.
 
 ~~~
 

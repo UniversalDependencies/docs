@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-28 nodes (1%) are attached to their parents as `xcomp`.
+44 nodes (1%) are attached to their parents as `xcomp`.
 
-26 instances of `xcomp` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.82142857142857.
+41 instances of `xcomp` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.79545454545455.
 
-The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (17; 61% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (4; 14% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 4% instances).
+The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (30; 68% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (4; 9% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (3; 7% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -47,21 +47,20 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 xcomp	color:blue
-1	takaki	kaki	NOUN	N	_	9	nsubj	_	AlignBegin=124106|AlignEnd=124516|Gloss=mother|MGloss=POSS1- mother|MSeg=ta-kaki|nWord=1|RX=[N]|TokenType=Root|Word=takaki|wordform=ta-kaki
-2	=mã	=mã	PART	PRT	_	1	case	_	AlignBegin=124516|AlignEnd=124926|Gloss==TOP|MGloss==TOP|MSeg==mã|nWord=2|RX=[PRT]|TokenType=Clit|Word=mã
-3	ausiʔ	ausiʔ	NOUN	N	_	1	xcomp	_	AlignBegin=124926|AlignEnd=125336|Gloss=poor|MGloss=poor|MSeg=ausiʔ|nWord=3|RX=[N]|Scrap=Yes|TokenType=Root|Word=ausiʔ
-4	tatus	tus	NOUN	N	_	1	reparandum	_	AlignBegin=125336|AlignEnd=125746|Gloss=father|MGloss=POSS1- father|MSeg=ta-tus|nWord=4|RX=[N]|TokenType=Root|Word=tatus|wordform=ta-tus
-5	=mã	=mã	PART	PRT	_	4	case	_	AlignBegin=125746|AlignEnd=126156|Gloss==TOP|MGloss==TOP|MSeg==mã|nWord=5|RX=[PRT]|TokenType=Clit|Word=man
-6	takaki	kaki	NOUN	N	_	1	reparandum	_	AlignBegin=126156|AlignEnd=126566|Gloss=mother|MGloss=POSS1- mother|MSeg=ta-kaki|nWord=6|RX=[N]|TokenType=Root|Word=takaki|wordform=ta-kaki
-7	takaki	kaki	NOUN	N	_	1	reparandum	_	AlignBegin=126566|AlignEnd=126976|Gloss=mother|MGloss=POSS1- mother|MSeg=ta-kaki|nWord=7|RX=[N]|TokenType=Root|Word=takaki|wordform=ta-kaki
-8	=ma	=ma	PART	PRT	_	7	case	_	AlignBegin=126976|AlignEnd=127386|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=8|RX=[PRT]|TokenType=Clit|Word=ma
-9	ausiʔ	ausiʔ	NOUN	N	_	0	root	_	AlignBegin=127386|AlignEnd=127796|Gloss=poor|MGloss=poor|MSeg=ausiʔ|nWord=9|RX=[N]|TokenType=Root|Word=ausiʔ
-10	=ri	r	AUX	V:ANY	_	9	cop	_	AlignBegin=127796|AlignEnd=128206|Gloss==COP|MGloss==COP -S3SG -PST|MSeg==r-Ø-i|nWord=10|RX=[COP]|TokenType=Root|Word=ri|wordform==r-Ø-i
+# visual-style 3 2 xcomp	color:blue
+1	ke	ke	ADV	ADV	_	3	obl:tmod	_	AlignBegin=132760|AlignEnd=133434|Gloss=already|MGloss=already|MSeg=ke|nWord=1|RX=[ADV]|TokenType=Root|Word=ke
+2	sentir	sentir	X	<NOT_SURE>	_	3	xcomp	_	AlignBegin=133434|AlignEnd=133569|Gloss=SPA_feel|MGloss=SPA_feel|MSeg=sentir|nWord=2|RX=[<NOT_SURE>]|TokenType=Root|Word=sentiʃtiri
+3	iʃtiri	iʃ	VERB	V:ANY	_	0	root	_	AlignBegin=133569|AlignEnd=134108|Gloss=make|MGloss=make -DUR -S3PL -PST|MSeg=iʃ-t-ir-i|nWord=2|RX=[VT]|TokenType=Root|Word=sentiʃtiri|wordform=iʃ-t-ir-i
+4	tʃãerwa	tʃã	VERB	V:ANY	_	3	dep	_	AlignBegin=134108|AlignEnd=134782|Gloss=see|MGloss=O3SG- see -S3PL -PFV|MSeg=Ø-tʃã-er-wa|nWord=3|RX=[VT]|TokenType=Root|Word=tʃãler|wordform=Ø-tʃã-er-wa
+5	=ma	=ma	SCONJ	PRT	_	4	mark	_	AlignBegin=134782|AlignEnd=135456|Gloss==when|MGloss==when|MSeg==ma|nWord=4|RX=[PRT]|TokenType=Clit|Word=ma
+6	aso	aso	NOUN	N	_	8	nsubj	_	AlignBegin=135456|AlignEnd=136130|Gloss=water|MGloss=water|MSeg=aso|nWord=5|RX=[N]|TokenType=Root|Word=aso
+7	=ra	=ra	ADP	PRT	Case=Abs	6	case	_	AlignBegin=136130|AlignEnd=136804|Gloss==ABS|MGloss==ABS|MSeg==ra|nWord=6|RX=[PRT]|TokenType=Clit|Word=ra
+8	crecer	crecer	X	<NOT_SURE>	_	9	compound:lvc	_	AlignBegin=136804|AlignEnd=136939|Gloss=SPA_grow|MGloss=SPA_grow|MSeg=crecer|nWord=7|RX=[<NOT_SURE>]|TokenType=Root|Word=kreseʃti
+9	iʃti	iʃ	VERB	V:ANY	_	4	ccomp	_	AlignBegin=136939|AlignEnd=137480|Gloss=make|MGloss=make -DUR -S3SG -PST|MSeg=iʃ-t-Ø-i|nWord=7|RX=[VT]|TokenType=Root|Word=kreseʃti|wordform=iʃ-t-Ø-i
 
 ~~~
 

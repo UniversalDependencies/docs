@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="fr_rhapsodie-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-19 nodes (0%) are attached to their parents as `csubj`.
+18 nodes (0%) are attached to their parents as `csubj`.
 
-17 instances of `csubj` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.8421052631579.
+16 instances of `csubj` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.27777777777778.
 
-The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (12; 63% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (2; 11% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (1; 5% instances).
+The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (12; 67% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (2; 11% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -105,7 +105,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 12	peut-être	peut-être	ADV	_	_	14	advmod	_	_
 13	pas	pas	ADV	_	Polarity=Neg	14	advmod	_	_
-14	compatible	compatible	ADJ	_	Number=Sing	8	csubj	_	_
+14	compatible	compatible	ADJ	_	Gender=Fem|Number=Sing	8	csubj	_	_
 15	avec	avec	ADP	_	_	22	case	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	22	punct	_	_
 17	euh	euh	INTJ	_	_	22	discourse	_	SpaceAfter=No

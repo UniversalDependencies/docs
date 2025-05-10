@@ -63,7 +63,7 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 # visual-style 22	fgColor:white
 # visual-style 22 16 reparandum	color:blue
 1	ⲡⲉϫⲉ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	Orig=Ⲡⲉϫⲉ
-2	ⲓⲱϩⲁⲛⲛⲏⲥ	ⲓⲱϩⲁⲛⲛⲏⲥ	PROPN	NPROP	Foreign=Yes	1	nsubj	_	Entity=(person-John_Calybite)|OrigLang=he
+2	ⲓⲱϩⲁⲛⲛⲏⲥ	ⲓⲱϩⲁⲛⲛⲏⲥ	PROPN	NPROP	Foreign=Yes	1	nsubj	_	Entity=(person-John_Calybite)|OrigLang=heb
 3	·	·	PUNCT	PUNCT	_	10	punct	_	_
 4	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	10	mark	_	_
 5	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
@@ -117,7 +117,7 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 20	ⲛ	ⲛ	ADP	PREP	_	21	case	_	Orig=ⲛ̄
 21	ⲉⲓ	ⲉⲓ	NOUN	N	_	19	nmod	_	Orig=ⲉⲓ`
 22	ⲉ	ⲉ	X	UNKNOWN	_	23	reparandum	_	_
-23	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	26	case	_	Orig=ⲉⲃⲟⲗ`
+23	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=ADP	26	case	_	Orig=ⲉⲃⲟⲗ`
 24	ϩⲛ	ϩⲛ	ADP	PREP	_	23	fixed	_	Orig=ϩ︤ⲛ︥
 25	ⲧⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	26	nmod:poss	_	Entity=(place
 26	ⲙⲏⲧⲉ	ⲙⲏⲧⲉ	NOUN	N	_	21	obl	_	Entity=place)
@@ -185,7 +185,7 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 88	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	90	aux	_	Orig=ⲛ̄
 89	ⲧⲁ	ⲁⲛⲟⲕ	PRON	PPERS	_	90	det	_	_
 90	ⲟⲩⲉ	ⲟⲩⲉ	VERB	V	VerbForm=Fin	82	advcl	_	Orig=ⲟⲩⲉ`
-91	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	93	case	_	_
+91	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=ADP	93	case	_	_
 92	ⲙⲙⲟ	ⲛ	ADP	PREP	_	91	fixed	_	Orig=ⲙ̄
 93	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	90	obl	_	Orig=ⲙⲟⲟⲩ
 94	·	·	PUNCT	PUNCT	_	2	punct	_	_

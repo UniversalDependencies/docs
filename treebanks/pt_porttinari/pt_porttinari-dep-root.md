@@ -37,7 +37,7 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 13	em	em	ADP	_	_	15	case	15:case	_
 14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	15:det	_
 15	mão	mão	NOUN	_	Gender=Fem|Number=Sing	12	nmod	12:nmod:em	SpaceAfter=No
-16	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -63,7 +63,7 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 13	Helena	Helena	PROPN	_	_	12	nmod	12:nmod	_
 14	Bonham	Bonham	PROPN	_	_	13	flat:name	13:flat:name	_
 15	Carter	Carter	PROPN	_	_	13	flat:name	13:flat:name	SpaceAfter=No
-16	.	.	PUNCT	_	_	12	punct	12:punct	SpaceAfter=No
+16	.	.	PUNCT	_	_	12	punct	12:punct	_
 
 ~~~
 
@@ -86,7 +86,7 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 10	favorável	favorável	ADJ	_	Number=Sing	0	root	0:root	_
 11	a	a	ADP	_	_	12	case	12:case	_
 12	Aécio	Aécio	PROPN	_	_	10	obl	10:obl:a	SpaceAfter=No
-13	.	.	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
+13	.	.	PUNCT	_	_	10	punct	10:punct	_
 
 ~~~
 

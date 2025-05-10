@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-3956 tokens (58%) have a non-empty value of `Number`.
-1057 types (79%) occur at least once with a non-empty value of `Number`.
-695 lemmas (72%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="it_valico-pos-DET.html">DET</a></tt> (1015; 15% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (994; 15% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (744; 11% instances), <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (579; 9% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (314; 5% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (309; 5% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+3955 tokens (58%) have a non-empty value of `Number`.
+1056 types (79%) occur at least once with a non-empty value of `Number`.
+694 lemmas (72%) occur at least once with a non-empty value of `Number`.
+The feature is used with 7 part-of-speech tags: <tt><a href="it_valico-pos-DET.html">DET</a></tt> (1015; 15% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (994; 15% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (744; 11% instances), <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (579; 9% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (314; 5% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (308; 5% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `DET`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 * `Plur` (26; 3% of non-empty `Number`): <em>andati, caduti, litigavano, Cominciamo, DIVERTIVANO, ERANO, GIOCAVANO, Littigavano, arrivano, avevano</em>
 * `Sing` (718; 97% of non-empty `Number`): <em>detto, visto, fatto, era, portava, aveva, pensato, sentito, seduto, cominciato</em>
-* `EMPTY` (223): <em>leggendo, fare, andare, leggere, aiutar, portando, salvare, aiutare, gridando, chiamare</em>
+* `EMPTY` (224): <em>leggendo, fare, andare, leggere, aiutar, portando, salvare, aiutare, gridando, chiamare</em>
 
 <table>
   <tr><th>Paradigm <i>fare</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -115,12 +115,12 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `ADJ`
 
-309 <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
+308 <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (27; 9% of non-empty `Number`): <em>grande, biondi, contenti, deboli, grandi, importanti, CORTI, NERE, SCURI, aperte</em>
-* `Sing` (282; 91% of non-empty `Number`): <em>grande, brutto, forte, bella, felice, giovane, gentile, normale, simpatico, contenta</em>
+* `Sing` (281; 91% of non-empty `Number`): <em>grande, brutto, forte, bella, felice, giovane, gentile, normale, simpatico, contenta</em>
 * `EMPTY` (1): <em>Stanco</em>
 
 <table>
@@ -129,7 +129,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="it_valico-feat-Degree.html">Degree</a></tt><tt>=Abs</tt>|<tt><a href="it_valico-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>grandissimo</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `ADJ`. 95% lemmas (159) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `ADJ`. 95% lemmas (158) occur only with one value of `Number`.
 
 ### `NUM`
 

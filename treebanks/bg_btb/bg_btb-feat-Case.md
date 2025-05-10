@@ -12,19 +12,19 @@ It occurs with 4 different values: `Acc`, `Dat`, `Nom`, `Voc`.
 10111 tokens (6%) have a non-empty value of `Case`.
 138 types (1%) occur at least once with a non-empty value of `Case`.
 29 lemmas (0%) occur at least once with a non-empty value of `Case`.
-The feature is used with 4 part-of-speech tags: <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (9182; 6% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (899; 1% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (24; 0% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (6; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (9183; 6% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (898; 1% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (24; 0% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (6; 0% instances).
 
 ### `PRON`
 
-9182 <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> tokens (91% of all `PRON` tokens) have a non-empty value of `Case`.
+9183 <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> tokens (91% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="bg_btb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (8505; 93%), <tt><a href="bg_btb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7234; 79%), <tt><a href="bg_btb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5957; 65%), <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5824; 63%), <tt><a href="bg_btb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5306; 58%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="bg_btb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (8506; 93%), <tt><a href="bg_btb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7234; 79%), <tt><a href="bg_btb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5958; 65%), <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5825; 63%), <tt><a href="bg_btb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5307; 58%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Acc` (4412; 48% of non-empty `Case`): <em>се, го, него, я, ги, тях, нас, ме, нея, ни</em>
 * `Dat` (837; 9% of non-empty `Case`): <em>си, му, ми, й, им, ти, ни, ви, мен, мене</em>
-* `Nom` (3933; 43% of non-empty `Case`): <em>си, това, той, които, който, тя, те, която, което, аз</em>
+* `Nom` (3934; 43% of non-empty `Case`): <em>си, това, той, които, който, тя, те, която, което, аз</em>
 * `EMPTY` (912): <em>му, ни, й, им, ми, ви, ти, защо, каквото, дето</em>
 
 <table>
@@ -41,14 +41,14 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `DET`
 
-899 <tt><a href="bg_btb-pos-DET.html">DET</a></tt> tokens (37% of all `DET` tokens) have a non-empty value of `Case`.
+898 <tt><a href="bg_btb-pos-DET.html">DET</a></tt> tokens (37% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (899; 100%), <tt><a href="bg_btb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (899; 100%), <tt><a href="bg_btb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (721; 80%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (689; 77%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="bg_btb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (898; 100%), <tt><a href="bg_btb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (898; 100%), <tt><a href="bg_btb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (721; 80%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (689; 77%).
 
 `DET` tokens may have the following values of `Case`:
 
 * `Acc` (1; 0% of non-empty `Case`): <em>никого</em>
-* `Nom` (898; 100% of non-empty `Case`): <em>тази, това, всички, един, всеки, едно, някои, тая, всяко, някой</em>
+* `Nom` (897; 100% of non-empty `Case`): <em>тази, това, всички, един, всеки, едно, някои, тая, всяко, някой</em>
 * `EMPTY` (1534): <em>този, тези, какво, една, всяка, нашите, какви, своите, своя, такива</em>
 
 <table>

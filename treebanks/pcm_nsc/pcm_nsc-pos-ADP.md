@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Naija-NSC: POS Tags: `ADP`
 
 There are 67 `ADP` lemmas (1%), 71 `ADP` types (1%) and 6931 `ADP` tokens (5%).
-Out of 15 observed tags, the rank of `ADP` is: 8 in number of lemmas, 9 in number of types and 6 in number of tokens.
+Out of 16 observed tags, the rank of `ADP` is: 8 in number of lemmas, 9 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>for, to, of, as, like, inside, from, in, on, wit</em>
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>for</em> (<tt><a href="pcm_nsc-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.059701 (the average of all parts of speech is 1.162341).
+The form / lemma ratio of `ADP` is 1.059701 (the average of all parts of speech is 1.162049).
 
 The 1st highest number of forms (2) was observed with the lemma “into”: <em>inso~, into</em>.
 
@@ -62,12 +62,12 @@ The 2nd highest number of forms (2) was observed with the lemma “trough”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “troughout”: <em>throughout, troughout</em>.
 
-`ADP` occurs with 1 features: <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt> (432; 6% instances)
+`ADP` occurs with 1 features: <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt> (439; 6% instances)
 
 `ADP` occurs with 5 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=NOUN`, `ExtPos=PROPN`, `ExtPos=SCONJ`
 
 `ADP` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (6499 tokens).
+The most frequent feature combination is `_` (6492 tokens).
 Examples: <em>for, to, of, as, like, inside, from, in, before, on</em>
 
 
@@ -77,17 +77,17 @@ Examples: <em>for, to, of, as, like, inside, from, in, before, on</em>
 
 Parents of `ADP` nodes belong to 16 different parts of speech: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2858; 41% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1988; 29% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (791; 11% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (525; 8% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (207; 3% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (176; 3% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (159; 2% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (106; 2% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (43; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (18; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (13; 0% instances),  (12; 0% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (3; 0% instances)
 
-6318 (91%) `ADP` nodes are leaves.
+6313 (91%) `ADP` nodes are leaves.
 
-386 (6%) `ADP` nodes have one child.
+430 (6%) `ADP` nodes have one child.
 
-143 (2%) `ADP` nodes have two children.
+118 (2%) `ADP` nodes have two children.
 
-84 (1%) `ADP` nodes have three or more children.
+70 (1%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 10.
 
-Children of `ADP` nodes are attached using 26 different relations: <tt><a href="pcm_nsc-dep-fixed.html">fixed</a></tt> (470; 47% instances), <tt><a href="pcm_nsc-dep-dep.html">dep</a></tt> (369; 37% instances), <tt><a href="pcm_nsc-dep-cop.html">cop</a></tt> (20; 2% instances), <tt><a href="pcm_nsc-dep-case.html">case</a></tt> (19; 2% instances), <tt><a href="pcm_nsc-dep-advmod.html">advmod</a></tt> (16; 2% instances), <tt><a href="pcm_nsc-dep-compound-redup.html">compound:redup</a></tt> (16; 2% instances), <tt><a href="pcm_nsc-dep-conj.html">conj</a></tt> (15; 1% instances), <tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt> (13; 1% instances), <tt><a href="pcm_nsc-dep-nsubj.html">nsubj</a></tt> (8; 1% instances), <tt><a href="pcm_nsc-dep-cc.html">cc</a></tt> (7; 1% instances), <tt><a href="pcm_nsc-dep-discourse.html">discourse</a></tt> (7; 1% instances), <tt><a href="pcm_nsc-dep-flat.html">flat</a></tt> (7; 1% instances), <tt><a href="pcm_nsc-dep-advcl.html">advcl</a></tt> (6; 1% instances), <tt><a href="pcm_nsc-dep-dislocated.html">dislocated</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-dep-mark.html">mark</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-dep-expl-subj.html">expl:subj</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-parataxis-parenth.html">parataxis:parenth</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-advcl-cleft.html">advcl:cleft</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-aux.html">aux</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-det.html">det</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-obl-arg.html">obl:arg</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-obl-mod.html">obl:mod</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-parataxis-discourse.html">parataxis:discourse</a></tt> (1; 0% instances)
+Children of `ADP` nodes are attached using 27 different relations: <tt><a href="pcm_nsc-dep-fixed.html">fixed</a></tt> (470; 50% instances), <tt><a href="pcm_nsc-dep-punct.html">punct</a></tt> (310; 33% instances), <tt><a href="pcm_nsc-dep-cop.html">cop</a></tt> (20; 2% instances), <tt><a href="pcm_nsc-dep-case.html">case</a></tt> (19; 2% instances), <tt><a href="pcm_nsc-dep-advmod.html">advmod</a></tt> (16; 2% instances), <tt><a href="pcm_nsc-dep-compound-redup.html">compound:redup</a></tt> (16; 2% instances), <tt><a href="pcm_nsc-dep-conj.html">conj</a></tt> (15; 2% instances), <tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt> (13; 1% instances), <tt><a href="pcm_nsc-dep-nsubj.html">nsubj</a></tt> (8; 1% instances), <tt><a href="pcm_nsc-dep-cc.html">cc</a></tt> (7; 1% instances), <tt><a href="pcm_nsc-dep-discourse.html">discourse</a></tt> (7; 1% instances), <tt><a href="pcm_nsc-dep-flat.html">flat</a></tt> (7; 1% instances), <tt><a href="pcm_nsc-dep-advcl.html">advcl</a></tt> (6; 1% instances), <tt><a href="pcm_nsc-dep-dislocated.html">dislocated</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-dep-mark.html">mark</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-dep-expl-subj.html">expl:subj</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-parataxis-parenth.html">parataxis:parenth</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-advcl-cleft.html">advcl:cleft</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-aux.html">aux</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-det.html">det</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-obl-arg.html">obl:arg</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-obl-mod.html">obl:mod</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-parataxis-discourse.html">parataxis:discourse</a></tt> (1; 0% instances)
 
-Children of `ADP` nodes belong to 15 different parts of speech: <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (374; 37% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (207; 21% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (128; 13% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (108; 11% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (55; 5% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (51; 5% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (23; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (18; 2% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (12; 1% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Children of `ADP` nodes belong to 16 different parts of speech: <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (310; 33% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (207; 22% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (128; 14% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (108; 11% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (55; 6% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (51; 5% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (23; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (18; 2% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (12; 1% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

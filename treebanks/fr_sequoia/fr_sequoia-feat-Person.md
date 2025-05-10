@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt>, <tt><a href="fr_sequoia-feat-Person-psor.html">Person[psor]</a></tt>.
 
-6057 tokens (9%) have a non-empty value of `Person`.
-1063 types (11%) occur at least once with a non-empty value of `Person`.
-526 lemmas (8%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (2164; 3% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2115; 3% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1778; 3% instances).
+6046 tokens (9%) have a non-empty value of `Person`.
+1061 types (11%) occur at least once with a non-empty value of `Person`.
+525 lemmas (8%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (2164; 3% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2104; 3% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1778; 3% instances).
 
 ### `PRON`
 
 2164 <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> tokens (77% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_sequoia-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1815; 84%), <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1764; 82%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1303; 60%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1245; 58%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_sequoia-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1815; 84%), <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1764; 82%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1303; 60%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1247; 58%), <tt><a href="fr_sequoia-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (1152; 53%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -29,19 +29,19 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `3` (1569; 73% of non-empty `Person`): <em>il, se, s', elle, ce, ils, y, c', cela, en</em>
 * `EMPTY` (644): <em>qui, que, dont, où, qu', laquelle, lequel, rien, lesquelles, lesquels</em>
 
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (28) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (29) occur only with one value of `Person`.
 
 ### `VERB`
 
-2115 <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> tokens (36% of all `VERB` tokens) have a non-empty value of `Person`.
+2104 <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> tokens (36% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2115; 100%), <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2115; 100%), <tt><a href="fr_sequoia-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2115; 100%), <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1931; 91%), <tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1652; 78%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1478; 70%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2104; 100%), <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2104; 100%), <tt><a href="fr_sequoia-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2104; 100%), <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1920; 91%), <tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1647; 78%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1478; 70%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (305; 14% of non-empty `Person`): <em>voudrais, devons, pense, crois, dois, avons, devrions, remercie, voulons, espère</em>
 * `2` (98; 5% of non-empty `Person`): <em>avez, veuillez, devez, demandez, pouvez, remarquez, allaitez, prenez, présentez, suivez</em>
-* `3` (1712; 81% of non-empty `Person`): <em>doit, a, peut, doivent, faut, est, peuvent, agit, concerne, contient</em>
+* `3` (1701; 81% of non-empty `Person`): <em>doit, a, peut, doivent, faut, est, peuvent, agit, concerne, contient</em>
 * `EMPTY` (3771): <em>voir, mis, eu, faire, traités, utilisé, atteints, administré, reçu, concernant</em>
 
 <table>

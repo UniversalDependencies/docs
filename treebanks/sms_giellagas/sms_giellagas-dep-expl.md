@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 9	fgColor:white
 # visual-style 9 8 expl	color:blue
 1	Di	di	CCONJ	CC	_	4	cc	_	_
-2	teʹl	teʹl	ADV	Adv	AdvType=Tim	4	advmod:tmod	_	GTtags=Sem/Time
+2	teʹl	teʹl	ADV	Adv	AdvType=Tim	4	advmod	_	GTtags=Sem/Time
 3	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	4	expl	_	GTtags=Dem,Sg,Nom
 4	vuõʹlji	vueʹlǧǧed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 5	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	6	det	_	GTtags=Dem,Sg,Nom
@@ -36,7 +36,7 @@ The following 2 pairs of parts of speech are connected with `expl`: <tt><a href=
 12	jälsted	jälsted	VERB	V	VerbForm=Inf	9	xcomp	_	GTtags=Inf|SpaceAfter=No
 13	,	,	PUNCT	CLB	_	17	punct	_	_
 14	päärnaž	päärnaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	17	nsubj:cop	_	GTtags=Sem/Hum,Sg,Nom
-15	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	17	advmod:tmod	_	GTtags=Sem/Time
+15	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	17	advmod	_	GTtags=Sem/Time
 16	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	17	cop	_	GTtags=Ind,Prs,Sg3
 17	siõmpäärnaž	siõmpäärnaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	9	conj	_	GTtags=Sem/Hum,Sg,Nom|SpaceAfter=No
 18	.	.	PUNCT	CLB	_	4	punct	_	_

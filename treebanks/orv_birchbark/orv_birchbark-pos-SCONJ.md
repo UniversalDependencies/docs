@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>то</em> (<tt><a href="orv_birchbark
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 2.777778 (the average of all parts of speech is 2.410435).
+The form / lemma ratio of `SCONJ` is 2.777778 (the average of all parts of speech is 2.411136).
 
 The 1st highest number of forms (13) was observed with the lemma “оже”: <em>-[ж]е, [о]-е, [оже], о:же, о]же, ож[е, ож[е], ож[ь], оже, ожь, ѡже, ѡжь, ѻ](же</em>.
 
@@ -84,9 +84,9 @@ Examples: <em>то, оже, аже, цто, како, али, ажь, ти, от
 
 Parents of `SCONJ` nodes belong to 14 different parts of speech: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (272; 71% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (28; 7% instances), <tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (26; 7% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt> (16; 4% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (14; 4% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (4; 1% instances),  (3; 1% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
-329 (86%) `SCONJ` nodes are leaves.
+330 (87%) `SCONJ` nodes are leaves.
 
-48 (13%) `SCONJ` nodes have one child.
+47 (12%) `SCONJ` nodes have one child.
 
 2 (1%) `SCONJ` nodes have two children.
 
@@ -94,7 +94,7 @@ Parents of `SCONJ` nodes belong to 14 different parts of speech: <tt><a href="or
 
 The highest child degree of a `SCONJ` node is 3.
 
-Children of `SCONJ` nodes are attached using 7 different relations: <tt><a href="orv_birchbark-dep-fixed.html">fixed</a></tt> (47; 81% instances), <tt><a href="orv_birchbark-dep-punct.html">punct</a></tt> (5; 9% instances), <tt><a href="orv_birchbark-dep-orphan.html">orphan</a></tt> (2; 3% instances), <tt><a href="orv_birchbark-dep-advmod.html">advmod</a></tt> (1; 2% instances), <tt><a href="orv_birchbark-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="orv_birchbark-dep-dep.html">dep</a></tt> (1; 2% instances), <tt><a href="orv_birchbark-dep-vocative.html">vocative</a></tt> (1; 2% instances)
+Children of `SCONJ` nodes are attached using 6 different relations: <tt><a href="orv_birchbark-dep-fixed.html">fixed</a></tt> (47; 82% instances), <tt><a href="orv_birchbark-dep-punct.html">punct</a></tt> (5; 9% instances), <tt><a href="orv_birchbark-dep-orphan.html">orphan</a></tt> (2; 4% instances), <tt><a href="orv_birchbark-dep-advmod.html">advmod</a></tt> (1; 2% instances), <tt><a href="orv_birchbark-dep-dep.html">dep</a></tt> (1; 2% instances), <tt><a href="orv_birchbark-dep-vocative.html">vocative</a></tt> (1; 2% instances)
 
-Children of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (26; 45% instances), <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt> (20; 34% instances), <tt><a href="orv_birchbark-pos-PUNCT.html">PUNCT</a></tt> (5; 9% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="orv_birchbark-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="orv_birchbark-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (1; 2% instances)
+Children of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (26; 46% instances), <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt> (20; 35% instances), <tt><a href="orv_birchbark-pos-PUNCT.html">PUNCT</a></tt> (5; 9% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="orv_birchbark-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (1; 2% instances)
 

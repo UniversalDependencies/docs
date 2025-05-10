@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Magali Sanches Duran, Lucelene Lopes, Maria das Graças Volpe Nunes, Thiago Alexandre Salgueiro Pardo.
 
 Repository: [UD_Portuguese-Porttinari](https://github.com/UniversalDependencies/UD_Portuguese-Porttinari)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_porttinari215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_porttinari216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY 4.0
 
@@ -83,7 +83,7 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
 
 ## Features
 
-[Abbr](pt_porttinari-feat-Abbr.html) – [Case](pt_porttinari-feat-Case.html) – [Definite](pt_porttinari-feat-Definite.html) – [Foreign](pt_porttinari-feat-Foreign.html) – [Gender](pt_porttinari-feat-Gender.html) – [Mood](pt_porttinari-feat-Mood.html) – [Number](pt_porttinari-feat-Number.html) – [NumType](pt_porttinari-feat-NumType.html) – [Person](pt_porttinari-feat-Person.html) – [Poss](pt_porttinari-feat-Poss.html) – [PronType](pt_porttinari-feat-PronType.html) – [Tense](pt_porttinari-feat-Tense.html) – [VerbForm](pt_porttinari-feat-VerbForm.html) – [Voice](pt_porttinari-feat-Voice.html)
+[Abbr](pt_porttinari-feat-Abbr.html) – [Case](pt_porttinari-feat-Case.html) – [Definite](pt_porttinari-feat-Definite.html) – [ExtPos](pt_porttinari-feat-ExtPos.html) – [Foreign](pt_porttinari-feat-Foreign.html) – [Gender](pt_porttinari-feat-Gender.html) – [Mood](pt_porttinari-feat-Mood.html) – [Number](pt_porttinari-feat-Number.html) – [NumType](pt_porttinari-feat-NumType.html) – [Person](pt_porttinari-feat-Person.html) – [Poss](pt_porttinari-feat-Poss.html) – [PronType](pt_porttinari-feat-PronType.html) – [Tense](pt_porttinari-feat-Tense.html) – [VerbForm](pt_porttinari-feat-VerbForm.html) – [Voice](pt_porttinari-feat-Voice.html)
 
 ## Relations
 
@@ -97,7 +97,7 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
 </ul>
 
 <ul>
-<li>This corpus contains 31009 tokens (20%) that are not followed by a space.</li>
+<li>This corpus contains 22591 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -488,7 +488,7 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
 <ul>
   <li>Card
     <ul>
-      <li>NUM: três, mil, um, dois, uma, 20, quatro, 30, 2016, 2018</li>
+      <li>NUM: três, mil, um, dois, 20, uma, quatro, 30, 2016, 2018</li>
     </ul>
   </li>
 </ul>
@@ -578,6 +578,54 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
           <li>ADV: civil, cultural</li>
           <li>AUX-Fin: tá, tava, tô, vamo</li>
           <li>NOUN: segunda, quarta, sexta, quinta, sr., terça, km, tel., min, nº</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: em, por, de, para</li>
+          <li>ADV: quanto, Frente</li>
+          <li>DET: tal</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: a, por, de, em</li>
+          <li>ADV: mais, cerca, ainda, menos, Enquanto, onde</li>
+          <li>DET: cada, um, o</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADP: em, de</li>
+          <li>ADV: tanto, bem, só, assim</li>
+          <li>CCONJ: ou</li>
+          <li>PRON: Isto</li>
+        </ul>
+      </li>
+      <li>NOUN
+        <ul>
+          <li>NOUN: volta</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>PRON: o, os, tudo, a, as, isso, aquilo</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: de, a, para, com, desde, até, sem, em, por</li>
+          <li>ADV: assim, ainda, depois, já, mesmo, antes, sempre, logo, tanto</li>
+          <li>DET: uma, Cada, tal</li>
+          <li>SCONJ: como, quanto, que</li>
+          <li>VERB-Part: dado, visto</li>
         </ul>
       </li>
     </ul>

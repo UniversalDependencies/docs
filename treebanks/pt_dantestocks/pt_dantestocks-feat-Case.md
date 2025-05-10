@@ -22,15 +22,14 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (39; 9% of non-empty `Case`): <em>me, a, mim, la, nos, se, te</em>
+* `Acc` (37; 8% of non-empty `Case`): <em>me, a, mim, la, nos, te</em>
 * `Dat` (47; 11% of non-empty `Case`): <em>me, lhe, te, lhes, nos, ti</em>
-* `Nom` (357; 81% of non-empty `Case`): <em>se, eu, ela, vc, você, ele, eles, vcs, vocês, elas</em>
-* `EMPTY` (854): <em>que, o, quem, isso, q, a, nada, tudo, qual, os</em>
+* `Nom` (359; 81% of non-empty `Case`): <em>se, eu, ela, vc, você, ele, eles, vcs, vocês, elas</em>
+* `EMPTY` (856): <em>que, o, quem, isso, q, a, nada, tudo, qual, os</em>
 
 <table>
-  <tr><th>Paradigm <i>se</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
-  <tr><td><tt><tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>se</em></td><td></td></tr>
-  <tr><td><tt></tt></td><td></td><td><em>se</em></td></tr>
+  <tr><th>Paradigm <i>me</i></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>me</em></td><td><em>me</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Case`

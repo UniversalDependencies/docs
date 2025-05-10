@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (366; 53% of non-empty `Person`): <em>=heːb, =i, ani, =oːn, aneːb, =oː, =eː, =ji, =uːn, hinin</em>
 * `2` (134; 20% of non-empty `Person`): <em>=hoːk, =oːk, =eːk, baruːk, umbaruːk, =uːk, hoːk, baroːk, =oːkna, barijoːk</em>
 * `3` (186; 27% of non-empty `Person`): <em>=oː, =eː, =joː, =aː, =hi, =jeː, =ijoː, =ihi, =uː, baruː</em>
-* `EMPTY` (134): <em>kna, hoːj, ti=, wi=, naːn, i=, w=, naː, -t, t=</em>
+* `EMPTY` (133): <em>kna, hoːj, ti=, wi=, naːn, i=, w=, naː, -t, t=</em>
 
 ### `VERB`
 

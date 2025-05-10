@@ -11,7 +11,7 @@ It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
 44824 tokens (11%) have a non-empty value of `VerbForm`.
 8267 types (19%) occur at least once with a non-empty value of `VerbForm`.
-2196 lemmas (7%) occur at least once with a non-empty value of `VerbForm`.
+2195 lemmas (7%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 2 part-of-speech tags: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (31743; 8% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (13081; 3% instances).
 
 ### `VERB`
@@ -30,6 +30,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td><em>avoir</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-ExtPos.html">ExtPos</a></tt><tt>=NOUN</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>ayants</em></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-ExtPos.html">ExtPos</a></tt><tt>=PROPN</tt>|<tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>a</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-ExtPos.html">ExtPos</a></tt><tt>=PROPN</tt>|<tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ont</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fr_gsd-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="fr_gsd-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>eu</em></td></tr>

@@ -59,7 +59,7 @@ The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 34	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 35	exinde	exinde	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim	34	advmod	_	_
 36	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	40	case	_	_
-37	iam	iam	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim	40	det	_	_
+37	iam	iam	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim|ExtPos=DET	40	det	_	_
 38	dicta	dico	VERB	t|t|-|s|r|p|p|f|b|-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	37	fixed	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 39	Dei	Deus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	40	nmod	_	_
 40	ecclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	33	obl	_	_

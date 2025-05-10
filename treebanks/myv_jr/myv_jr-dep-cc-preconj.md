@@ -63,11 +63,11 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 3	«	«	PUNCT	PUNCT	_	4	punct	_	GTtags=LEFT|SpaceAfter=No
 4	троицясь	троиця	NOUN	N	Case=Nom|Definite=Def|Nomzr=Ag|Number=Sing	7	nsubj	_	GTtags=NomAg,Sg,Nom,Def|SpaceAfter=No
 5	»	»	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT
-6	пек	пек	ADV	Adv	AdvType=Deg	7	advmod:deg	_	GTtags=Degree
+6	пек	пек	ADV	Adv	AdvType=Deg	7	advmod	_	GTtags=Degree
 7	мазы	мазы	ADJ	A	Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Prs,ScSg3|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	7	punct	_	_
 9	эли	эли	CCONJ	CC	_	13	cc	_	_
-10	пек	пек	ADV	Adv	AdvType=Deg	11	advmod:deg	_	GTtags=Degree
+10	пек	пек	ADV	Adv	AdvType=Deg	11	advmod	_	GTtags=Degree
 11	вадря	вадря	ADJ	A	Number[subj]=Sing|Person[subj]=3|Tense=Pres	12	amod	_	GTtags=Prs,ScSg3
 12	он	он	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	13	obj	_	GTtags=Sg,Nom,Indef
 13	несь	неемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	7	conj	_	GTtags=TV,Ind,Prt1,ScSg3
@@ -75,7 +75,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 15	,	,	PUNCT	CLB	_	20	punct	_	_
 16	эли	эли	CCONJ	CC	_	20	cc	_	_
 17	мезень	мезе	PRON	Pron	Case=Gen|Definite=Ind|Number=Plur,Sing|PronType=Ind	20	obl	_	GTtags=Indef,SP,Gen,Indef
-18	кувалткак	кувалт	ADP	Po	AdpType=Post|Derivation=PronGak	17	fixed	_	_
+18	кувалткак	кувалт	ADP	Po	AdpType=Post|Derivation=PronGak	17	case	_	_
 19	седеезэ	седей	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	20	nsubj	_	GTtags=Sg,Nom,PxSg3
 20	палы	паломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	7	conj	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
 21	?	?	PUNCT	CLB	_	7	punct	_	_

@@ -82,19 +82,20 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 3880 <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> tokens (60% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="it_postwita-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3880; 100%), <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3119; 80%), <tt><a href="it_postwita-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (3090; 80%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2169; 56%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="it_postwita-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3880; 100%), <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3119; 80%), <tt><a href="it_postwita-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (2793; 72%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2169; 56%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (1705; 44% of non-empty `Person`): <em>mi, ci, io, c', me, noi, ce, m', ioooooo, c</em>
 * `2` (629; 16% of non-empty `Person`): <em>ti, te, tu, vi, voi, ve, v', TU', de, foi</em>
 * `3` (1546; 40% of non-empty `Person`): <em>si, lo, la, l', lui, li, gli, le, se, loro</em>
-* `EMPTY` (2606): <em>che, tutti, chi, tutto, ne, quello, cosa, questo, uno, nessuno</em>
+* `EMPTY` (2608): <em>che, tutti, chi, tutto, ne, quello, cosa, questo, uno, nessuno</em>
 
 <table>
   <tr><th>Paradigm <i>ci</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ci, c', c, di</em></td><td></td></tr>
-  <tr><td><tt></tt></td><td></td><td><em>c</em></td></tr>
+  <tr><td><tt><tt><a href="it_postwita-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ci, c', c, di</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_postwita-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>c</em></td></tr>
+  <tr><td><tt><tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ci, c'</em></td><td></td></tr>
 </table>
 
 `Person` seems to be **lexical feature** of `PRON`. 96% lemmas (25) occur only with one value of `Person`.
@@ -108,12 +109,12 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 `X` tokens may have the following values of `Person`:
 
 * `2` (1; 100% of non-empty `Person`): <em>te</em>
-* `EMPTY` (976): <em>of, Prince, i, live, a, and, on, the, in, my</em>
+* `EMPTY` (977): <em>of, Prince, i, live, a, and, on, the, in, my</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> VERB</tt> (401; 51%),
+<tt>VERB --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> VERB</tt> (400; 51%),
 <tt>VERB --[<tt><a href="it_postwita-dep-expl-impers.html">expl:impers</a></tt>]--> PRON</tt> (140; 74%),
 <tt>AUX --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="it_postwita-dep-list.html">list</a></tt>]--> VERB</tt> (2; 67%),

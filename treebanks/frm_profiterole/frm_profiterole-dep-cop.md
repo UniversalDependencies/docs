@@ -8,70 +8,68 @@ udver: '2'
 
 This relation is universal.
 
-88 nodes (1%) are attached to their parents as `cop`.
+564 nodes (1%) are attached to their parents as `cop`.
 
-80 instances of `cop` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.65909090909091.
+512 instances of `cop` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.82801418439716.
 
-The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (44; 50% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (33; 38% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (5; 6% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 cop	color:blue
-1	mais	mais1	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_32_01655
-2	estoyent	être	AUX	VERcjg	VerbForm=Fin	5	cop	_	XmlId=w_32_01656
-3	les	le	DET	DETdef	Definite=Def|PronType=Art	4	det	_	XmlId=w_32_01657
-4	suspessons	soupçon	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_32_01658
-5	grandz	grand	ADJ	ADJqua	_	0	root	_	SpaceAfter=No|XmlId=w_32_01659
-6	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_32_01660
-
-~~~
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (245; 43% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (242; 43% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (41; 7% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (13; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (10; 2% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 cop	color:blue
-1	car	car	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_32_00186
-2	ilz	il	PRON	PROper	PronType=Prs	4	nsubj	_	XmlId=w_32_00187
-3	sont	être	AUX	VERcjg	VerbForm=Fin	4	cop	_	XmlId=w_32_00188
-4	hommes	homme	NOUN	NOMcom	_	0	root	_	XmlId=w_32_00189
-5	comme	comme	SCONJ	CONsub	_	6	case	_	XmlId=w_32_00190
-6	nous	nous	PRON	PROper	PronType=Prs	4	obl	_	SpaceAfter=No|XmlId=w_32_00191
-7	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_32_00192
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 6 cop	color:blue
-1	Et	et	CCONJ	CONcoo	_	7	cc:nc	_	XmlId=w_42_01287
-2	au	à.le	ADP	PRE.DETdef	_	3	case:det	_	XmlId=w_42_01288
-3	dessus	dessus	NOUN	NOMcom	_	7	obl	_	XmlId=w_42_01289
-4	des	de.le	ADP	PRE.DETdef	_	5	case:det	_	XmlId=w_42_01290
-5	lectres	lettre	NOUN	NOMcom	_	3	nmod	_	XmlId=w_42_01291
-6	estoit	être	AUX	VERcjg	VerbForm=Fin	7	cop	_	XmlId=w_42_01292
-7	escript	écrire	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_42_01293
-8	:	:	PUNCT	PONfbl	_	7	punct	_	XmlId=w_42_01294
-9	«	«	PUNCT	PONpga	_	11	punct	_	XmlId=w_42_01295
-10	Aux	à.le	ADP	PRE.DETdef	_	11	case:det	_	XmlId=w_42_01296
-11	barons	baron	NOUN	NOMcom	_	7	nsubj	_	XmlId=w_42_01297
-12	et	et	CCONJ	CONcoo	_	13	cc	_	XmlId=w_42_01298
-13	peuple	peuple1	NOUN	NOMcom	_	11	conj	_	XmlId=w_42_01299
-14	d'	de	ADP	PRE	_	15	case	_	SpaceAfter=No|XmlId=w_42_01300
-15	Espaigne	Espagne	PROPN	NOMpro	_	11	nmod	_	SpaceAfter=No|XmlId=w_42_01301
-16	.	.	PUNCT	PONfrt	_	11	punct	_	XmlId=w_42_01302
-17	»	»	PUNCT	PONpdr	_	11	punct	_	XmlId=w_42_01303
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 cop	color:blue
+1	A	à	ADP	PRE	_	3	case	_	XmlId=w_32_05244
+2	mon	mon1	DET	DETpos	Poss=Yes	3	det	_	XmlId=w_32_05245
+3	advis	avis	NOUN	NOMcom	_	0	root	_	XmlId=w_32_05246
+4	que	que	SCONJ	CONsub	_	8	mark	_	XmlId=w_32_05247
+5	son	son4	DET	DETpos	Poss=Yes	6	det	_	XmlId=w_32_05248
+6	oppinion	opinion	NOUN	NOMcom	_	8	nsubj	_	XmlId=w_32_05249
+7	estoit	être	AUX	VERcjg	VerbForm=Fin	8	cop	_	XmlId=w_32_05250
+8	bonne	bon	ADJ	ADJqua	_	3	acl	_	SpaceAfter=No|XmlId=w_32_05251
+9	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_32_05252
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 cop	color:blue
+1	et	et	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_32_08803
+2	cuydions	cuider	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_08804
+3	que	que	SCONJ	CONsub	_	7	mark	_	XmlId=w_32_08805
+4	ce	ce1	PRON	PROdem	PronType=Dem	7	nsubj	_	XmlId=w_32_08806
+5	fussent	être	AUX	VERcjg	VerbForm=Fin	7	cop	_	XmlId=w_32_08807
+6	leurs	leur2	DET	DETpos	Poss=Yes	7	det	_	XmlId=w_32_08808
+7	feuz	feu1	NOUN	NOMcom	_	2	ccomp	_	SpaceAfter=No|XmlId=w_32_08809
+8	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_32_08810
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 cop	color:blue
+1	«	«	PUNCT	PONpga	_	4	punct	_	XmlId=w_42_07834
+2	il	il	PRON	PROimp	PronType=Prs	4	expl	_	XmlId=w_42_07835
+3	seroit	être	AUX	VERcjg	VerbForm=Fin	4	cop	_	XmlId=w_42_07836
+4	bon	bon	ADJ	ADJqua	_	0	root	_	XmlId=w_42_07837
+5	envoyer	envoyer	VERB	VERinf	VerbForm=Inf	4	csubj	_	XmlId=w_42_07838
+6	veoir	voir1	VERB	VERinf	VerbForm=Inf	5	xcomp	_	XmlId=w_42_07839
+7	que	que	PRON	PROrel	PronType=Rel	6	ccomp	_	XmlId=w_42_07840
+8	c'	ce1	PRON	PROdem	PronType=Dem	7	nsubj	_	SpaceAfter=No|XmlId=w_42_07841
+9	est	être	AUX	VERcjg	VerbForm=Fin	7	cop	_	SpaceAfter=No|XmlId=w_42_07842
+10	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_42_07843
+11	»	»	PUNCT	PONpdr	_	4	punct	_	XmlId=w_42_07844
 
 ~~~
 

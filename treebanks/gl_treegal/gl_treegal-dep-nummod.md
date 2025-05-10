@@ -111,7 +111,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 15	dez	dez	NUM	Ncdmp	Gender=Masc|Number=Plur|NumType=Card	16	nummod	_	_
 16	concelleiros	concelleiro	NOUN	Scmp	Gender=Masc|Number=Plur	11	conj	_	SpaceAfter=No
 17	,	,	PUNCT	Q,	_	16	punct	_	_
-18	fronte	fronte	NOUN	Scfs	Gender=Fem|Number=Sing	22	case	_	_
+18	fronte	fronte	NOUN	Scfs	ExtPos=ADP|Gender=Fem|Number=Sing	22	case	_	_
 19	a	a	ADP	P	AdpType=Prep	18	fixed	_	_
 20	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
 21	cinco	cinco	NUM	Ncnmp	Gender=Masc|Number=Plur|NumType=Card	22	nummod	_	_

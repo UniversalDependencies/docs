@@ -50,7 +50,7 @@ The following 4 pairs of parts of speech are connected with `aux:tense`: <tt><a 
 7	évolution	évolution	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
 8	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:tense	_	_
 9	été	être	AUX	_	Tense=Past|VerbForm=Part	10	cop	_	_
-10	favorable	favorable	ADJ	_	Number=Sing	0	root	_	SpaceAfter=No
+10	favorable	favorable	ADJ	_	Number=Sing	0	root	_	Gender[ctxt]=Fem|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
@@ -79,7 +79,7 @@ The following 4 pairs of parts of speech are connected with `aux:tense`: <tt><a 
 15	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	attentat	attentat	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	_
 17	dont	dont	PRON	_	PronType=Rel	22	nmod	_	_
-18	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	_
+18	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	_
 19	avait	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	aux:tense	_	_
 20	été	être	AUX	_	Tense=Past|VerbForm=Part	22	cop	_	_
 21	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_

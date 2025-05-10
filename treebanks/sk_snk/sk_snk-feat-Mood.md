@@ -96,7 +96,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 `SCONJ` tokens may have the following values of `Mood`:
 
 * `Cnd` (262; 100% of non-empty `Mood`): <em>aby, keby, akoby</em>
-* `EMPTY` (1603): <em>že, keď, ako, ak, kým, čo, pretože, hoci, než, keďže</em>
+* `EMPTY` (1606): <em>že, keď, ako, ak, kým, čo, pretože, hoci, než, keďže</em>
 
 ### `ADV`
 
@@ -107,7 +107,7 @@ The most frequent other feature values with which `ADV` and `Mood` co-occurred: 
 `ADV` tokens may have the following values of `Mood`:
 
 * `Cnd` (12; 100% of non-empty `Mood`): <em>akoby</em>
-* `EMPTY` (4433): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
+* `EMPTY` (4432): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
 
 ### `PART`
 
@@ -116,7 +116,7 @@ The most frequent other feature values with which `ADV` and `Mood` co-occurred: 
 `PART` tokens may have the following values of `Mood`:
 
 * `Cnd` (1; 100% of non-empty `Mood`): <em>Niežeby</em>
-* `EMPTY` (1915): <em>aj, však, nie, len, už, a, až, iba, ani, ešte</em>
+* `EMPTY` (1908): <em>aj, však, nie, len, už, až, a, iba, ani, ešte</em>
 
 ## Relations with Agreement in `Mood`
 

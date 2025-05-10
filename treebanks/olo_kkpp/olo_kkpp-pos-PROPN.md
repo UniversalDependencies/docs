@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Karelija</em> (<tt><a href="olo_kkpp-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.175000 (the average of all parts of speech is 1.335034).
+The form / lemma ratio of `PROPN` is 1.175000 (the average of all parts of speech is 1.337308).
 
 The 1st highest number of forms (3) was observed with the lemma “Karjal”: <em>Karjalah, Karjalan, Karjalas</em>.
 

@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 4	fgColor:white
 # visual-style 4 5 appos	color:blue
 1	Odotuksen	odotus	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	2	nmod	_	_
-2	kohteena	kohde	NOUN	N,Sg,Ess	Case=Ess|Number=Sing	3	nmod	_	_
+2	kohteena	kohde	NOUN	N,Sg,Ess	Case=Ess|Number=Sing	3	obl	_	_
 3	ovat	olla	VERB	V,Act,Ind,Pres,Pl3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	elokuvatähdet	elokuvatähti	NOUN	N,Pl,Nom	Case=Nom|Number=Plur	3	nsubj	_	_
 5	Renny	renny	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	4	appos	_	Alt=name

@@ -63,7 +63,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 * `Fem` (31; 8% of non-empty `Gender`): <em>andata, salvata, arrivata, alzata, arrabbiata, arrabiata, caduta, chiamata, chiusa, comprata</em>
 * `Masc` (353; 92% of non-empty `Gender`): <em>detto, visto, fatto, pensato, sentito, seduto, cominciato, andato, gridato, salvato</em>
-* `EMPTY` (583): <em>era, portava, aveva, leggendo, sembrava, leggeva, fare, andare, gridava, leggere</em>
+* `EMPTY` (584): <em>era, portava, aveva, leggendo, sembrava, leggeva, fare, andare, gridava, leggere</em>
 
 <table>
   <tr><th>Paradigm <i>vedere</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -72,7 +72,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `ADJ`
 
-240 <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> tokens (77% of all `ADJ` tokens) have a non-empty value of `Gender`.
+240 <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> tokens (78% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (218; 91%).
 
@@ -80,7 +80,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 * `Fem` (89; 37% of non-empty `Gender`): <em>bella, contenta, bionda, arrabiata, strana, arraviata, brutta, cattiva, destra, furiosa</em>
 * `Masc` (151; 63% of non-empty `Gender`): <em>brutto, simpatico, bel, bello, carino, muscoloso, timido, improviso, nuovo, robusto</em>
-* `EMPTY` (70): <em>grande, forte, felice, giovane, gentile, normale, incredibile, interessante, triste, SPLENDENTE</em>
+* `EMPTY` (69): <em>grande, forte, felice, giovane, gentile, normale, incredibile, interessante, triste, SPLENDENTE</em>
 
 <table>
   <tr><th>Paradigm <i>brutto</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -131,7 +131,7 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 `ADV` tokens may have the following values of `Gender`:
 
 * `Masc` (1; 100% of non-empty `Gender`): <em>per</em>
-* `EMPTY` (389): <em>non, molto, Ieri, poi, come, più, anche, così, invece, subito</em>
+* `EMPTY` (390): <em>non, molto, Ieri, poi, come, più, anche, così, invece, subito</em>
 
 ### `NUM`
 

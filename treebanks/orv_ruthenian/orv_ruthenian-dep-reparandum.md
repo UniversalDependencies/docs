@@ -79,7 +79,7 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 17	тог(о)	то	PRON	DT	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	19	reparandum	_	wf="того"
 18	потреб	потребъ	NOUN	NNI	Case=Nom|Gender=Masc|Number=Sing	13	acl:relcl	_	wf="потреб"
 19	тог(о)	то	PRON	DT	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	20	obj	_	wf="того"
-20	ведати	ведати	VERB	VB	VerbForm=Inf|Voice=Act	18	csubj	_	wf="ведати"|SpaceAfter=No
+20	ведати	ведати	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	18	csubj	_	wf="ведати"|SpaceAfter=No
 21	.	.	PUNCT	-PERIOD-	_	9	punct	_	_
 
 ~~~
@@ -97,13 +97,13 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 4	по	по	ADP	IN	_	5	case	_	wf="по"
 5	волости	волость	NOUN	NNI	Case=Dat|Gender=Fem|Number=Sing	7	obl	_	wf="волости"
 6	не	не	PART	NEG	Polarity=Neg	7	advmod	_	wf="не"
-7	ездити	ездити	VERB	VB	VerbForm=Inf|Voice=Act	0	root	_	wf="ездити"
+7	ездити	ездити	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	wf="ездити"
 8	а	а	CCONJ	СС	_	11	cc	_	wf="а"
 9	ни	ни	CCONJ	СС	Polarity=Neg	8	fixed	_	wf="ни"
 10	л(ь)ну	ленъ	NOUN	NNI	Case=Gen|Gender=Masc|Number=Sing	11	obj	_	wf="льну"
-11	брати	брати	VERB	VB	VerbForm=Inf|Voice=Act	13	reparandum	_	wf="брати"
+11	брати	брати	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	13	reparandum	_	wf="брати"
 12	[513]	513	NUM	CD	Case=Nom|NumForm=Digit|NumType=Card	13	dep	_	_
-13	брати	брати	VERB	VB	VerbForm=Inf|Voice=Act	7	conj	_	wf="брати"|SpaceAfter=No
+13	брати	брати	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	7	conj	_	wf="брати"|SpaceAfter=No
 14	.	.	PUNCT	-PERIOD-	_	7	punct	_	_
 
 ~~~

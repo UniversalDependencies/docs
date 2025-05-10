@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>no</em> (<tt><a href="et_ewt-pos-INTJ
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.029412 (the average of all parts of speech is 1.733702).
+The form / lemma ratio of `INTJ` is 1.029412 (the average of all parts of speech is 1.733681).
 
 The 1st highest number of forms (3) was observed with the lemma “aitäh”: <em>Aitah, aitäh, aitähh</em>.
 
@@ -64,12 +64,12 @@ The 2nd highest number of forms (2) was observed with the lemma “:D”: <em>:-
 
 The 3rd highest number of forms (2) was observed with the lemma “ah”: <em>-ah, ah</em>.
 
-`INTJ` occurs with 3 features: <tt><a href="et_ewt-feat-Abbr.html">Abbr</a></tt> (9; 2% instances), <tt><a href="et_ewt-feat-Typo.html">Typo</a></tt> (9; 2% instances), <tt><a href="et_ewt-feat-Foreign.html">Foreign</a></tt> (4; 1% instances)
+`INTJ` occurs with 4 features: <tt><a href="et_ewt-feat-Abbr.html">Abbr</a></tt> (9; 2% instances), <tt><a href="et_ewt-feat-Typo.html">Typo</a></tt> (9; 2% instances), <tt><a href="et_ewt-feat-Foreign.html">Foreign</a></tt> (4; 1% instances), <tt><a href="et_ewt-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`INTJ` occurs with 3 feature-value pairs: `Abbr=Yes`, `Foreign=Yes`, `Typo=Yes`
+`INTJ` occurs with 4 feature-value pairs: `Abbr=Yes`, `ExtPos=INTJ`, `Foreign=Yes`, `Typo=Yes`
 
-`INTJ` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (434 tokens).
+`INTJ` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (433 tokens).
 Examples: <em>no, noh, aitäh, Tere, hmm, kurat, irw, vot, ah, oot</em>
 
 

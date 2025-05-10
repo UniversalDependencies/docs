@@ -26,10 +26,10 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 1	Вот	вот	PART	Pcle	_	9	advmod	_	Lang=ru
 2	у	у	ADP	Pr	_	3	case	_	Lang=ru
 3	меня	я	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	9	nmod	_	Lang=ru
-4	сэтэн	сэтӧн	ADV	Adv	_	9	advmod:lmod	_	_
+4	сэтэн	сэтӧн	ADV	Adv	AdvType=Loc	9	advmod	_	_
 5	выйым	эм	AUX	V	Number=Sing	9	cop	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	9	punct	_	_
-7	гашке	гашкӧ	PART	Pcle	_	9	advmod:mmod	_	SpaceAfter=No
+7	гашке	гашкӧ	PART	Pcle	_	9	advmod	_	SpaceAfter=No
 8	,	,	PUNCT	CLB	_	9	punct	_	_
 9	братан	братан	NOUN	N	Case=Nom|Number=Sing	0	root	_	Lang=ru|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	11	punct	_	_
@@ -54,7 +54,7 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 1	Но	но	CCONJ	CC	_	5	mark	_	GTtags=CC|OrigLang=ru
 2	оленеводъяслы	оленевод	NOUN	N	Case=Dat|Number=Plur	5	obl	_	GTtags=N,Pl,Dat|OrigLang=ru
 3	медча	медся	ADV	Adv	_	5	advmod:deg	_	GTtags=Adv
-4	эні	ӧні	ADV	Adv	_	5	advmod:tmod	_	GTtags=Adv
+4	эні	ӧні	ADV	Adv	AdvType=Tim	5	advmod	_	GTtags=Adv
 5	ветлэныс	ветлыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=V,IV,Ind,Prs,Pl3|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	9	punct	_	GTtags=CLB
 7	кодлэн	код	NOUN	N	Case=Gen|Number=Sing	9	nmod	_	GTtags=N,Sg,Err/Dial,Gen

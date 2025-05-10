@@ -7,14 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-Poetry: Relations: `flat`
 
 This relation is universal.
-There are 1 language-specific subtypes of `flat`: <tt><a href="cs_poetry-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-14 nodes (0%) are attached to their parents as `flat`.
+16 nodes (0%) are attached to their parents as `flat`.
 
-14 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+16 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.0625.
 
-The following 3 pairs of parts of speech are connected with `flat`: <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (10; 71% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (2; 14% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (2; 14% instances).
+The following 5 pairs of parts of speech are connected with `flat`: <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (10; 63% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (2; 13% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (1; 6% instances).
 
 
 ~~~ conllu

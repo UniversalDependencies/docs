@@ -46,7 +46,7 @@ The following 10 pairs of parts of speech are connected with `discourse`: <tt><a
 4	jeg	jeg	PRON	pron	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 5	er	være	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	_
 6	ikke	ikke	PART	adv	Polarity=Neg	7	advmod	_	_
-7	glad	glad	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing	0	root	_	_
+7	glad	glad	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	0	root	_	_
 8	for	for	ADP	prep	_	10	case	_	_
 9	dette	dette	DET	det	Gender=Neut|Number=Sing|PronType=Dem	10	det	_	_
 10	forbudet	forbud	NOUN	subst	Definite=Def|Gender=Neut|Number=Sing	7	obl	_	SpaceAfter=No
@@ -64,7 +64,7 @@ The following 10 pairs of parts of speech are connected with `discourse`: <tt><a
 1	-	$-	PUNCT	<strek>	_	5	punct	_	_
 2	Aha	aha	INTJ	interj	_	5	discourse	_	SpaceAfter=No
 3	,	$,	PUNCT	<komma>	_	2	punct	_	_
-4	norsk	norsk	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing	5	amod	_	_
+4	norsk	norsk	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	5	amod	_	_
 5	journalist	journalist	NOUN	subst	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 6	.	$.	PUNCT	clb	_	5	punct	_	_
 

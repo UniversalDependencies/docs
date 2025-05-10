@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>вылын</em> (<tt><a href="kpv_ikd
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.068966 (the average of all parts of speech is 1.332474).
+The form / lemma ratio of `ADP` is 1.068966 (the average of all parts of speech is 1.341115).
 
 The 1st highest number of forms (3) was observed with the lemma “вылын”: <em>вылас, вылын, вылэ</em>.
 
@@ -59,7 +59,7 @@ Examples: <em>в, у, с, для, до, кузя, без, койд, от, по</
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="kpv_ikdp-dep-case.html">case</a></tt> (62; 97% instances), <tt><a href="kpv_ikdp-dep-fixed.html">fixed</a></tt> (2; 3% instances)
+`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="kpv_ikdp-dep-case.html">case</a></tt> (63; 98% instances), <tt><a href="kpv_ikdp-dep-fixed.html">fixed</a></tt> (1; 2% instances)
 
 Parents of `ADP` nodes belong to 6 different parts of speech: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (42; 66% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (12; 19% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (5; 8% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances)
 

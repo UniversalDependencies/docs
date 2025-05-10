@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `reparandum`.
+3 nodes (0%) are attached to their parents as `reparandum`.
 
-4 instances of `reparandum` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 12.25.
+3 instances of `reparandum` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.66666666666667.
 
-The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (2; 50% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (1; 25% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1; 25% instances).
+The following 2 pairs of parts of speech are connected with `reparandum`: <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (2; 67% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (1; 33% instances).
 
 
 ~~~ conllu
@@ -83,62 +83,6 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 13	kan	kunna	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
 14	vara	vara	AUX	INF-ACT	VerbForm=Inf|Voice=Act	5	cop	_	SpaceAfter=No
 15	.	.	PUNCT	Period	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 37	bgColor:blue
-# visual-style 37	fgColor:white
-# visual-style 37 2 reparandum	color:blue
-1	Ni	ni	PRON	PERS-P2PL-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	2	nsubj	_	_
-2	förstår	förstå	VERB	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	37	reparandum	_	SpaceAfter=No
-3	,	,	PUNCT	Comma	_	2	punct	_	_
-4	började	börja	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	37	parataxis	_	_
-5	han	han	PRON	PERS-P3SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	4	nsubj	_	_
-6	igen	igen	ADV	_	_	4	advmod	_	_
-7	och	och	CCONJ	_	_	8	cc	_	_
-8	lyfte	lyfta	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
-9	ena	ena	ADJ	POS-SG-DEF	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	10	amod	_	_
-10	armen	arm	NOUN	SG-DEF-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	8	obj	_	_
-11	från	från	ADP	_	_	12	case	_	_
-12	armbågen	armbåge	NOUN	SG-DEF-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	8	obl	_	_
-13	med	med	ADP	_	_	14	case	_	_
-14	handflatan	handflata	NOUN	SG-DEF-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	8	obl	_	_
-15	utåt	utåt	ADV	_	_	14	advmod	_	_
-16	så	så	ADV	_	_	23	advmod	_	_
-17	att	att	SCONJ	_	_	23	mark	_	_
-18	han	han	PRON	PERS-P3SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	23	nsubj	_	_
-19	med	med	ADP	_	_	22	case	_	_
-20	sina	sin	PRON	RFL-PL-GEN	Case=Gen|Definite=Def|Number=Plur|Poss=Yes|PronType=Prs	22	nmod:poss	_	_
-21	korslagda	korslagd	ADJ	AD-PL-DEF	Case=Nom|Definite=Def|Degree=Pos	22	amod	_	_
-22	ben	ben	NOUN	IND-NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	23	obl	_	_
-23	satt	sitta	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	_
-24	som	som	ADP	_	_	26	case	_	_
-25	en	en	DET	SG-IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	26	det	_	_
-26	buddha	buddha	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	23	obl	_	SpaceAfter=No
-27	,	,	PUNCT	Comma	_	28	punct	_	_
-28	predikande	predika	VERB	NDE	Mood=Ind|VerbForm=Part|Voice=Act	23	advcl	_	_
-29	i	i	ADP	_	_	31	case	_	_
-30	europeiska	europeisk	ADJ	POS-PL-IND	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	31	amod	_	_
-31	kläder	kläder	NOUN	PL-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	28	obl	_	_
-32	och	och	CCONJ	_	_	34	cc	_	_
-33	utan	utan	ADP	_	_	34	case	_	_
-34	lotusblomma	lotusblomma	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	31	conj	_	_
-35	–	–	PUNCT	Dash	_	4	punct	_	_
-36	ni	ni	PRON	PERS-P2PL-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	37	nsubj	_	_
-37	förstår	förstå	VERB	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-38	–	–	PUNCT	Dash	_	43	punct	_	_
-39	ingen	ingen	PRON	NEG-SG	Definite=Ind|Gender=Com|Number=Sing|PronType=Neg	43	nsubj	_	_
-40	av	av	ADP	_	_	41	case	_	_
-41	oss	vi	PRON	PERS-P1PL-ACC	Case=Acc|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	39	nmod	_	_
-42	skulle	skola	AUX	PAST-AUX	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	43	aux	_	_
-43	känna	känna	VERB	INF-ACT	VerbForm=Inf|Voice=Act	37	parataxis	_	_
-44	riktigt	riktigt	ADV	_	_	45	advmod	_	_
-45	så	så	ADV	_	_	43	advmod	_	SpaceAfter=No
-46	.	.	PUNCT	Period	_	37	punct	_	_
 
 ~~~
 

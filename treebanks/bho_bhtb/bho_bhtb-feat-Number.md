@@ -12,18 +12,18 @@ It occurs with 2 different values: `Plur`, `Sing`.
 4276 tokens (64%) have a non-empty value of `Number`.
 1395 types (83%) occur at least once with a non-empty value of `Number`.
 1341 lemmas (82%) occur at least once with a non-empty value of `Number`.
-The feature is used with 14 part-of-speech tags: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1628; 24% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (579; 9% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (546; 8% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (395; 6% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (277; 4% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (276; 4% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (222; 3% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (111; 2% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (99; 1% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (93; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (41; 1% instances), <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="bho_bhtb-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 14 part-of-speech tags: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1629; 24% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (579; 9% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (546; 8% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (395; 6% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (277; 4% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (276; 4% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (222; 3% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (111; 2% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (98; 1% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (93; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (41; 1% instances), <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="bho_bhtb-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-1628 <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> tokens (88% of all `NOUN` tokens) have a non-empty value of `Number`.
+1629 <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> tokens (88% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1568; 96%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1227; 75%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (944; 58%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1569; 96%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1228; 75%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (944; 58%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (115; 7% of non-empty `Number`): लोग, गायक, जानकारी, दिसाईं, पहिले, आदमी, आनंद, आर्थिक, ओने, कबीर
-* `Sing` (1513; 93% of non-empty `Number`): जी, रंग, देश, बिआह, भाषा, आजु, साल, बात, लोगन, साहित्य
+* `Sing` (1514; 93% of non-empty `Number`): जी, रंग, देश, बिआह, भाषा, आजु, साल, बात, लोगन, साहित्य
 * `EMPTY` (226): जब, बिआह, तब, अब, पहिले, उहाँ, कथा, गवनई, चीफ, जहाँ
 
 <table>
@@ -35,7 +35,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
   <tr><td><tt><tt><a href="bho_bhtb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>बिआहे</td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `NOUN`. 97% lemmas (757) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NOUN`. 97% lemmas (758) occur only with one value of `Number`.
 
 ### `ADP`
 
@@ -190,14 +190,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PART`
 
-99 <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> tokens (52% of all `PART` tokens) have a non-empty value of `Number`.
+98 <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> tokens (51% of all `PART` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PART` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (94; 95%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (89; 90%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (79; 80%).
+The most frequent other feature values with which `PART` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (93; 95%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (89; 91%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (78; 80%).
 
 `PART` tokens may have the following values of `Number`:
 
 * `Plur` (17; 17% of non-empty `Number`): नइखे, बहुते, त, तिकवते, नाहीं
-* `Sing` (82; 83% of non-empty `Number`): त, ना, बस, गमगमावे, घटना, नइखे, अतना, अलावे, केहू, खाली
+* `Sing` (81; 83% of non-empty `Number`): त, ना, बस, गमगमावे, घटना, नइखे, अतना, अलावे, केहू, खाली
 * `EMPTY` (93): ना, त, नइखे, भर, ढेर, तनिको, बनवले, बिना, भी, सँ
 
 <table>
@@ -279,7 +279,7 @@ The most frequent other feature values with which `INTJ` and `Number` co-occurre
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (216; 73%),
+<tt>NOUN --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (217; 74%),
 <tt>NOUN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (188; 77%),
 <tt>VERB --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (182; 54%),
 <tt>PROPN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (137; 93%),

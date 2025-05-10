@@ -23,16 +23,16 @@ The following 20 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 nmod	color:blue
-1	5,000	_	NUM	CD	_	2	nummod	_	Translit=5,000
-2	ดอลลาร์	_	NOUN	NNB	_	0	root	_	SpaceAfter=No|Translit=dɔːllár
-3	ต่อ	_	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=t¹'
-4	คน	_	NOUN	NN	_	2	nmod	_	Translit=gʰn
-5	สูง	_	ADJ	JJ	_	2	conj	_	SpaceAfter=No|Translit=súŋ
-6	สุด	_	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=sud
-7	ตาม	_	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=tám
-8	ที่	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No|Translit=dʰí¹
-9	ได้รับ	_	AUX	MD	Voice=Pass	10	aux	_	SpaceAfter=No|Translit=dai²râb
-10	อนุญาต	_	VERB	VV	_	5	xcomp	_	Translit='nuŷát
+1	5,000	5,000	NUM	CD	_	2	nummod	_	Translit=5,000|LTranslit=5,000
+2	ดอลลาร์	ดอลลาร์	NOUN	NNB	_	0	root	_	SpaceAfter=No|Translit=dɔːllár|LTranslit=dɔːllár
+3	ต่อ	ต่อ	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=t¹'|LTranslit=t¹'
+4	คน	คน	NOUN	NN	_	2	nmod	_	Translit=gʰn|LTranslit=gʰn
+5	สูง	สูง	ADJ	JJ	_	2	conj	_	SpaceAfter=No|Translit=súŋ|LTranslit=súŋ
+6	สุด	สุด	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=sud|LTranslit=sud
+7	ตาม	ตาม	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=tám|LTranslit=tám
+8	ที่	ที่	DET	WDT	_	10	nsubj	_	SpaceAfter=No|Translit=dʰí¹|LTranslit=dʰí¹
+9	ได้รับ	ได้รับ	AUX	MD	Voice=Pass	10	aux	_	SpaceAfter=No|Translit=dai²râb|LTranslit=dai²râb
+10	อนุญาต	อนุญาต	VERB	VV	_	5	xcomp	_	Translit='nuŷát|LTranslit='nuŷát
 
 ~~~
 
@@ -43,16 +43,16 @@ The following 20 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 nmod	color:blue
-1	เช่น	_	NOUN	NN	_	10	obl	_	SpaceAfter=No|Translit=ćʰé¹n
-2	เดียว	_	ADJ	JJ	_	1	amod	_	SpaceAfter=No|Translit=díáw
-3	กับ	_	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=kâb
-4	ฟยอร์ด	_	PROPN	NNP	_	1	nmod	_	Translit=fyɔːrd
-5	ทะเลสาบ	_	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=dʰalésáb
-6	น้ำ	_	NOUN	NN	_	5	compound	_	SpaceAfter=No|Translit=nã²
-7	จืด	_	ADJ	JJ	_	6	amod	_	SpaceAfter=No|Translit=čűd
-8	มัก	_	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=mâk
-9	จะ	_	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=ča
-10	ลึก	_	ADJ	JJ	_	0	root	_	Translit=lük
+1	เช่น	เช่น	NOUN	NN	_	10	obl	_	SpaceAfter=No|Translit=ćʰé¹n|LTranslit=ćʰé¹n
+2	เดียว	เดียว	ADJ	JJ	_	1	amod	_	SpaceAfter=No|Translit=díáw|LTranslit=díáw
+3	กับ	กับ	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=kâb|LTranslit=kâb
+4	ฟยอร์ด	ฟยอร์ด	PROPN	NNP	_	1	nmod	_	Translit=fyɔːrd|LTranslit=fyɔːrd
+5	ทะเลสาบ	ทะเลสาบ	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=dʰalésáb|LTranslit=dʰalésáb
+6	น้ำ	น้ำ	NOUN	NN	_	5	compound	_	SpaceAfter=No|Translit=nã²|LTranslit=nã²
+7	จืด	จืด	ADJ	JJ	_	6	amod	_	SpaceAfter=No|Translit=čűd|LTranslit=čűd
+8	มัก	มัก	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=mâk|LTranslit=mâk
+9	จะ	จะ	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
+10	ลึก	ลึก	ADJ	JJ	_	0	root	_	Translit=lük|LTranslit=lük
 
 ~~~
 
@@ -63,18 +63,18 @@ The following 20 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 nmod	color:blue
-1	วาเลนติโน	_	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=wáléntinó
-2	พยายาม	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bʰyáyám
-3	ทำให้	_	VERB	VV	_	2	xcomp	_	SpaceAfter=No|Translit=dʰãhai²
-4	ตัว	_	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=túá
-5	ละคร	_	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=lagʰr
-6	นี้	_	DET	DT	_	4	det	_	SpaceAfter=No|Translit=ní²
-7	ห่างไกล	_	ADJ	JJ	_	3	xcomp	_	SpaceAfter=No|Translit=há¹ŋkail
-8	จาก	_	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=čák
-9	ภาพลักษณ์	_	NOUN	NN	_	7	nmod	_	SpaceAfter=No|ToDo=nmod|Translit=ḇʰábʰlâkšṇ
-10	ของ	_	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=kʰɔːŋ
-11	ชาย	_	NOUN	NN	_	9	nmod:poss	_	SpaceAfter=No|Translit=ćʰáy
-12	อาหรับ	_	PROPN	NNP	_	11	compound	_	Translit='áhrâb
+1	วาเลนติโน	วาเลนติโน	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=wáléntinó|LTranslit=wáléntinó
+2	พยายาม	พยายาม	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bʰyáyám|LTranslit=bʰyáyám
+3	ทำให้	ทำให้	VERB	VV	_	2	xcomp	_	SpaceAfter=No|Translit=dʰãhai²|LTranslit=dʰãhai²
+4	ตัว	ตัว	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=túá|LTranslit=túá
+5	ละคร	ละคร	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=lagʰr|LTranslit=lagʰr
+6	นี้	นี้	DET	DT	_	4	det	_	SpaceAfter=No|Translit=ní²|LTranslit=ní²
+7	ห่างไกล	ห่างไกล	ADJ	JJ	_	3	xcomp	_	SpaceAfter=No|Translit=há¹ŋkail|LTranslit=há¹ŋkail
+8	จาก	จาก	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=čák|LTranslit=čák
+9	ภาพลักษณ์	ภาพลักษณ์	NOUN	NN	_	7	nmod	_	SpaceAfter=No|ToDo=nmod|Translit=ḇʰábʰlâkšṇ|LTranslit=ḇʰábʰlâkšṇ
+10	ของ	ของ	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
+11	ชาย	ชาย	NOUN	NN	_	9	nmod:poss	_	SpaceAfter=No|Translit=ćʰáy|LTranslit=ćʰáy
+12	อาหรับ	อาหรับ	PROPN	NNP	_	11	compound	_	Translit='áhrâb|LTranslit='áhrâb
 
 ~~~
 

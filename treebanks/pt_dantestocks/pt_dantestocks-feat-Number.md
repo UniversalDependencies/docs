@@ -41,7 +41,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (964; 14% of non-empty `Number`): <em>os, as, quais, suas, minhas, outros, outras, seus, algumas, alguns</em>
 * `Sing` (5709; 86% of non-empty `Number`): <em>a, o, uma, um, sua, essa, esse, esta, este, seu</em>
-* `EMPTY` (53): <em>que, mais, d, menos, q</em>
+* `EMPTY` (49): <em>que, mais, menos, q</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -131,7 +131,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (83; 11% of non-empty `Number`): <em>os, todos, eles, vcs, as, nos, outras, todas, vocês, quais</em>
 * `Sing` (668; 89% of non-empty `Number`): <em>o, eu, isso, ela, me, vc, a, nada, qual, você</em>
-* `EMPTY` (546): <em>que, se, quem, q, tudo, quê, Ngm, Qm, Qum, o</em>
+* `EMPTY` (548): <em>que, se, quem, q, tudo, quê, Ngm, Qm, Qum, o</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -139,10 +139,13 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>o</em></td><td><em>os</em></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>o</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>a</em></td><td><em>as</em></td></tr>
+  <tr><td><tt><tt><a href="pt_dantestocks-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>o</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_dantestocks-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt>|<tt><a href="pt_dantestocks-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>mo</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_dantestocks-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>o</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_dantestocks-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>o</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_dantestocks-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>a</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>o</em></td><td><em>os</em></td></tr>
-  <tr><td><tt><tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt>|<tt><a href="pt_dantestocks-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>mo</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>o</em></td><td><em>os</em></td></tr>
-  <tr><td><tt><tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>o</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>a</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>a</em></td><td><em>as</em></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>a</em></td><td><em>as</em></td></tr>
@@ -156,7 +159,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (3; 15% of non-empty `Number`): <em>as</em>
 * `Sing` (17; 85% of non-empty `Number`): <em>a</em>
-* `EMPTY` (8735): <em>de, em, a, com, para, por, c/, pra, sobre, até</em>
+* `EMPTY` (8739): <em>de, em, a, com, para, por, c/, pra, sobre, até</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

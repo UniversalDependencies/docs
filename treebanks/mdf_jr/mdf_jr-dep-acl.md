@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 acl	color:blue
-1	Стаки	стаки	ADV	Adv	AdvType=Mod	4	advmod:eval	_	_
+1	Стаки	стаки	ADV	Adv	AdvType=Mod	4	advmod	_	_
 2	монь	мон	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	obj	_	GTtags=Pers,Sg1,Gen
 3	ёрат	ёрамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,ScSg2
 4	тиемс	тиемс	VERB	V	VerbForm=Inf	3	xcomp	_	GTtags=Inf

@@ -181,10 +181,10 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="ka_glc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6624; 96%),
 <tt>NOUN --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2929; 96%),
 <tt>NOUN --[<tt><a href="ka_glc-dep-case.html">case</a></tt>]--> ADP</tt> (2774; 99%),
-<tt>NOUN --[<tt><a href="ka_glc-dep-det.html">det</a></tt>]--> PRON</tt> (784; 82%),
-<tt>NOUN --[<tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (691; 95%),
+<tt>NOUN --[<tt><a href="ka_glc-dep-det.html">det</a></tt>]--> PRON</tt> (785; 82%),
+<tt>NOUN --[<tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (693; 95%),
 <tt>ADJ --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (501; 98%),
-<tt>ADJ --[<tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (373; 95%),
+<tt>ADJ --[<tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (372; 95%),
 <tt>ADJ --[<tt><a href="ka_glc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (319; 77%),
 <tt>NOUN --[<tt><a href="ka_glc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (289; 64%),
 <tt>PRON --[<tt><a href="ka_glc-dep-case.html">case</a></tt>]--> ADP</tt> (245; 97%).

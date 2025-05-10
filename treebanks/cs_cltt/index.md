@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Barbora Hladká, Daniel Zeman, Martin Popel.
 
 Repository: [UD_Czech-CLTT](https://github.com/UniversalDependencies/UD_Czech-CLTT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cltt215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cltt216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -91,7 +91,7 @@ http://hdl.handle.net/11234/1-2498.
 
 ## Features
 
-[Abbr](cs_cltt-feat-Abbr.html) – [AdpType](cs_cltt-feat-AdpType.html) – [Animacy](cs_cltt-feat-Animacy.html) – [Aspect](cs_cltt-feat-Aspect.html) – [Case](cs_cltt-feat-Case.html) – [Degree](cs_cltt-feat-Degree.html) – [Gender](cs_cltt-feat-Gender.html) – [Gender[psor]](cs_cltt-feat-Gender-psor.html) – [Hyph](cs_cltt-feat-Hyph.html) – [Mood](cs_cltt-feat-Mood.html) – [Number](cs_cltt-feat-Number.html) – [Number[psor]](cs_cltt-feat-Number-psor.html) – [NumForm](cs_cltt-feat-NumForm.html) – [NumType](cs_cltt-feat-NumType.html) – [Person](cs_cltt-feat-Person.html) – [Polarity](cs_cltt-feat-Polarity.html) – [Poss](cs_cltt-feat-Poss.html) – [PrepCase](cs_cltt-feat-PrepCase.html) – [PronType](cs_cltt-feat-PronType.html) – [Reflex](cs_cltt-feat-Reflex.html) – [Style](cs_cltt-feat-Style.html) – [Tense](cs_cltt-feat-Tense.html) – [Variant](cs_cltt-feat-Variant.html) – [VerbForm](cs_cltt-feat-VerbForm.html) – [Voice](cs_cltt-feat-Voice.html)
+[Abbr](cs_cltt-feat-Abbr.html) – [AdpType](cs_cltt-feat-AdpType.html) – [Animacy](cs_cltt-feat-Animacy.html) – [Aspect](cs_cltt-feat-Aspect.html) – [Case](cs_cltt-feat-Case.html) – [Degree](cs_cltt-feat-Degree.html) – [ExtPos](cs_cltt-feat-ExtPos.html) – [Gender](cs_cltt-feat-Gender.html) – [Gender[psor]](cs_cltt-feat-Gender-psor.html) – [Hyph](cs_cltt-feat-Hyph.html) – [Mood](cs_cltt-feat-Mood.html) – [Number](cs_cltt-feat-Number.html) – [Number[psor]](cs_cltt-feat-Number-psor.html) – [NumForm](cs_cltt-feat-NumForm.html) – [NumType](cs_cltt-feat-NumType.html) – [Person](cs_cltt-feat-Person.html) – [Polarity](cs_cltt-feat-Polarity.html) – [Poss](cs_cltt-feat-Poss.html) – [PrepCase](cs_cltt-feat-PrepCase.html) – [PronType](cs_cltt-feat-PronType.html) – [Reflex](cs_cltt-feat-Reflex.html) – [Style](cs_cltt-feat-Style.html) – [Tense](cs_cltt-feat-Tense.html) – [Variant](cs_cltt-feat-Variant.html) – [VerbForm](cs_cltt-feat-VerbForm.html) – [Voice](cs_cltt-feat-Voice.html)
 
 ## Relations
 
@@ -882,6 +882,30 @@ http://hdl.handle.net/11234/1-2498.
       <li>Voc
         <ul>
           <li>ADP: ve, ke, ze, se, ode, beze, přede</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: v, s, na, z, bez, ve, vzhledem, za</li>
+          <li>ADV: spolu, souvztažně, společně</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADV: více</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: a</li>
+          <li>DET: to</li>
         </ul>
       </li>
     </ul>

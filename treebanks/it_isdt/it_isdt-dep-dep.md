@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (0%) are attached to their parents as `dep`.
+12 nodes (0%) are attached to their parents as `dep`.
 
-10 instances of `dep` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.
+8 instances of `dep` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.25.
 
-The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (3; 21% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (2; 14% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (2; 14% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (2; 14% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (1; 7% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 7% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (1; 7% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (1; 7% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (1; 7% instances).
+The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (3; 25% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (2; 17% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (2; 17% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (1; 8% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (1; 8% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (1; 8% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -50,39 +50,6 @@ The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 22 dep	color:blue
-1	Conformemente	conformemente	ADV	B	_	15	advmod	15:advmod	_
-2	anche	anche	ADV	B	_	5	advmod	5:advmod	_
-3	a	a	ADP	E	_	5	case	5:case	_
-4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	5:det	_
-5	raccomandazione	raccomandazione	NOUN	S	Gender=Fem|Number=Sing	1	obl	1:obl:a	_
-6	di	di	ADP	E	_	8	case	8:case	_
-7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	8:det	_
-8	valutatore	valutatore	NOUN	S	Gender=Masc|Number=Sing	5	nmod	5:nmod:di	_
-9	di	di	ADP	E	_	11	case	11:case	_
-10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	11:det	_
-11	programma	programma	NOUN	S	Gender=Masc|Number=Sing	8	nmod	8:nmod:di	_
-12	Pericle	Pericle	PROPN	SP	_	11	nmod	11:nmod	SpaceAfter=No
-13	,	,	PUNCT	FF	_	1	punct	1:punct	_
-14	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	_
-15	opportuno	opportuno	ADJ	A	Gender=Masc|Number=Sing	0	root	0:root	_
-16	estendere	estendere	VERB	V	VerbForm=Inf	15	csubj	15:csubj	_
-17	tale	tale	DET	DD	Number=Sing|PronType=Dem	18	det	18:det	_
-18	programma	programma	NOUN	S	Gender=Masc|Number=Sing	16	obj	16:obj	_
-19	vista	vedere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	15	advcl	15:advcl	_
-20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	21:det	_
-21	necessità	necessità	NOUN	S	Gender=Fem	19	nsubj:pass	19:nsubj:pass	_
-22	di	di	ADP	E	_	21	dep	21:dep	SpaceAfter=No
-23	:	:	PUNCT	FC	_	15	punct	15:punct	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 12	bgColor:blue
@@ -96,7 +63,7 @@ The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="
 6	,	,	PUNCT	FF	_	8	punct	8:punct	_
 7	o	o	CCONJ	CC	_	8	cc	8:cc	_
 8	manca	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	5:conj:o|20:advcl:se	_
-9	meno	meno	ADV	B	_	12	dep	12:dep	_
+9	meno	meno	ADV	B	ExtPos=ADP	12	dep	12:dep	_
 10	di	di	ADP	E	_	9	fixed	9:fixed	_
 11	tre	tre	NUM	N	NumType=Card	12	nummod	12:nummod	_
 12	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	8:nsubj	_
@@ -120,6 +87,54 @@ The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="
 30	Camere	camera	NOUN	S	Gender=Fem|Number=Plur	27	nmod	27:nmod:di	_
 31	nuove	nuovo	ADJ	A	Gender=Fem|Number=Plur	30	amod	30:amod	SpaceAfter=No
 32	.	.	PUNCT	FS	_	20	punct	20:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 37	bgColor:blue
+# visual-style 37	fgColor:white
+# visual-style 36	bgColor:blue
+# visual-style 36	fgColor:white
+# visual-style 36 37 dep	color:blue
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	2:det	SpaceAfter=No
+2	eroe	eroe	NOUN	S	Gender=Masc|Number=Sing	21	nsubj:pass	21:nsubj:pass	_
+3	di	di	ADP	E	_	5	case	5:case	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	_
+5	titolo	titolo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	2:nmod:di	_
+6	di	di	ADP	E	_	7	case	7:case	_
+7	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	5	nmod	5:nmod:di	_
+8	di	di	ADP	E	_	10	case	10:case	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	10:det	_
+10	tragedie	tragedia	NOUN	S	Gender=Fem|Number=Plur	7	nmod	7:nmod:di	_
+11	più	più	ADV	B	_	12	advmod	12:advmod	_
+12	famose	famoso	ADJ	A	Gender=Fem|Number=Plur	10	amod	10:amod	_
+13	di	di	ADP	E	_	14	case	14:case	_
+14	Shakespeare	Shakespeare	PROPN	SP	_	10	nmod	10:nmod:di	SpaceAfter=No
+15	,	,	PUNCT	FF	_	7	punct	7:punct	_
+16	Amleto	Amleto	PROPN	SP	_	7	appos	7:appos	SpaceAfter=No
+17	,	,	PUNCT	FF	_	2	punct	2:punct	_
+18	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	21:aux	_
+19	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	aux:pass	21:aux:pass	_
+20	forse	forse	ADV	B	_	21	advmod	21:advmod	_
+21	trattato	trattare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
+22	più	più	ADV	B	_	21	advmod	21:advmod	_
+23	di	di	ADP	E	_	26	case	26:case	_
+24	qualsiasi	qualsiasi	DET	DI	Number=Sing|PronType=Ind	26	det	26:det	_
+25	altro	altro	ADJ	A	Gender=Masc|Number=Sing	26	amod	26:amod	_
+26	personaggio	personaggio	NOUN	S	Gender=Masc|Number=Sing	22	obl	22:obl:di	_
+27	shakespeariano	shakespeariano	ADJ	A	Gender=Masc|Number=Sing	26	amod	26:amod	SpaceAfter=No
+28	,	,	PUNCT	FF	_	21	punct	21:punct	_
+29	specialmente	specialmente	ADV	B	_	34	advmod	34:advmod	_
+30	per	per	ADP	E	_	34	case	34:case	_
+31	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	34:det	_
+32	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	34	det:poss	34:det:poss	_
+33	famoso	famoso	ADJ	A	Gender=Masc|Number=Sing	34	amod	34:amod	_
+34	monologo	monologo	NOUN	S	Gender=Masc|Number=Sing	21	obl	21:obl:per|36:nsubj	_
+35	che	che	PRON	PR	PronType=Rel	36	nsubj	34:ref	_
+36	inizia	iniziare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	acl:relcl	34:acl:relcl	_
+37	con	con	ADP	E	_	36	dep	36:dep	SpaceAfter=No
+38	:	:	PUNCT	FC	_	21	punct	21:punct	_
 
 ~~~
 

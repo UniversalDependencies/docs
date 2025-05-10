@@ -23,15 +23,15 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 4 csubj	color:blue
-1	Заводса	завод	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	4	obl:lmod	_	GTtags=SP,Ine,Indef
+1	Заводса	завод	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	4	obl	_	GTtags=SP,Ine,Indef
 2	или	или	CCONJ	CC	_	3	cc	_	_
 3	фабрикаса	фабрика	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	1	conj	_	GTtags=SP,Ine,Indef
 4	работамась	работамс	VERB	V	Case=Nom|Definite=Def|Number=Sing|VerbForm=Vnoun	7	csubj	_	GTtags=NomAct,Sg,Nom,Def
-5	кунаркиге	кунаркиге	ADV	Adv	AdvType=Tim	7	advmod:tmod	_	GTtags=Sem/Time
-6	ни	ни	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	GTtags=Sem/Time
+5	кунаркиге	кунаркиге	ADV	Adv	AdvType=Tim	7	advmod	_	GTtags=Sem/Time
+6	ни	ни	ADV	Adv	AdvType=Tim	5	advmod	_	GTtags=Sem/Time
 7	повсь	повомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,ScSg3
 8	Тишкань	Тишка	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	9	nmod:poss	_	GTtags=Prop,SP,Gen,Indef
-9	пряс	пря	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	7	obl:lmod	_	GTtags=SP,Ill,Indef|SpaceAfter=No
+9	пряс	пря	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	7	obl	_	GTtags=SP,Ill,Indef|SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 ~~~
@@ -65,12 +65,12 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 csubj	color:blue
-1	Весть	весть	ADV	Adv	_	5	advmod:freq	_	_
-2	самолётса	самолёт	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	3	obl:inst	_	_
+1	Весть	весть	ADV	Adv	_	5	advmod	_	_
+2	самолётса	самолёт	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	3	obl	_	_
 3	лиендемась	лиендема	NOUN	N	Case=Nom|Definite=Def|Number=Sing	5	csubj	_	_
-4	прясон	пря	NOUN	N	Case=Ine|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=1	5	obl:lmod	_	_
+4	прясон	пря	NOUN	N	Case=Ine|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=1	5	obl	_	_
 5	шарсь	шаромс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3	0	root	_	_
-6	мадомста	мадомс	VERB	V	Case=Ela|VerbForm=Conv	5	advcl:tcl	_	SpaceAfter=No
+6	мадомста	мадомс	VERB	V	Case=Ela|VerbForm=Conv	5	advcl	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~

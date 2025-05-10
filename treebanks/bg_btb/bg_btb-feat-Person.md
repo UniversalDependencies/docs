@@ -73,7 +73,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (973; 23% of non-empty `Person`): <em>ни, ми, аз, нас, ние, ме, мен, мене, ний</em>
 * `2` (392; 9% of non-empty `Person`): <em>ти, ви, те, вие, вас, тебе, теб</em>
 * `3` (2861; 68% of non-empty `Person`): <em>той, му, го, тя, те, й, им, него, я, ги</em>
-* `EMPTY` (5868): <em>се, си, това, които, който, която, което, всичко, кой, никой</em>
+* `EMPTY` (5869): <em>се, си, това, които, който, която, което, всичко, кой, никой</em>
 
 <table>
   <tr><th>Paradigm <i>аз</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -108,7 +108,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (160; 41% of non-empty `Person`): <em>нашите, нашата, наши, нашето, моя, моята, нашия, моето, нашият, Моят</em>
 * `2` (38; 10% of non-empty `Person`): <em>вашата, вашето, вашия, ваш, вашите, ваша, ваше, вашият, твоите, ваши</em>
 * `3` (191; 49% of non-empty `Person`): <em>техните, неговата, тяхното, негово, нейните, неговия, неговите, неговото, нейната, негов</em>
-* `EMPTY` (2044): <em>тази, този, тези, това, всички, един, какво, една, всеки, всяка</em>
+* `EMPTY` (2043): <em>тази, този, тези, това, всички, един, какво, една, всеки, всяка</em>
 
 <table>
   <tr><th>Paradigm <i>мой</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

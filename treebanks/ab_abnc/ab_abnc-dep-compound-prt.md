@@ -9,32 +9,32 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ab_abnc-dep-compound.html">compound</a></tt>.
 There are also 1 other language-specific subtypes of `compound`: <tt><a href="ab_abnc-dep-compound-pred.html">compound:pred</a></tt>.
 
-9 nodes (0%) are attached to their parents as `compound:prt`.
+11 nodes (0%) are attached to their parents as `compound:prt`.
 
-9 instances of `compound:prt` (100%) are right-to-left (child precedes parent).
+11 instances of `compound:prt` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `compound:prt`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (9; 100% instances).
+The following 1 pairs of parts of speech are connected with `compound:prt`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (11; 100% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 compound:prt	color:blue
-1	–	–	PUNCT	Punct_Dash	_	2	punct	_	LMSeg:–
-2	Издыруеит	а-ды́рра	VERB	V_Dyn_Tr_Fin_Pres_S:1Sg_DO:3	Dyn=Yes|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres|VerbForm=Fin	10	ccomp:quote	_	LMSeg:а-ды́р-ра
-3	,	,	PUNCT	Punct_Comma	_	7	punct	_	LMSeg:,
-4	саргьы	сара́	PRON	Pron_Pers_1Sg_Encl:гьы	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	LMSeg:сара́
-5	уамашәа	уамашәа́	ADV	Adv	_	7	advmod	_	LMSeg:уамашәа́
-6	бзиа	бзи́а	ADV	Adv	_	7	compound:prt	_	LMSeg:бзи́а
-7	избоит	а-бара́	VERB	V_Dyn_Tr_Fin_Pres_S:1Sg_DO:3	Dyn=Yes|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres|VerbForm=Fin	2	conj	_	LMSeg:а-ба-ра́
-8	,	,	PUNCT	Punct_Comma	_	10	punct	_	LMSeg:,
-9	–	–	PUNCT	Punct_Dash	_	10	punct	_	LMSeg:–
-10	аҳәеит	а-ҳәара́	VERB	V_Dyn_Tr_Fin_Aor_S:3SgNH_DO:3_DO:Ad	Dyn=Yes|Gender[subj]=Neut|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а-ҳәа-ра́
-11	Ашхырцәаҕь	а-шхы́рцәаҕь	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	10	nsubj	_	LMSeg:а-шхы́рцәаҕь
-12	.	.	PUNCT	Punct_Period	_	10	punct	_	LMSeg:.
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 compound:prt	color:blue
+1	–	–	PUNCT	Punct_Dash	_	11	punct	_	LMSeg:–
+2	Аҧара	а-ҧа́ра	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	3	nsubj	_	LMSeg:а-ҧа́ра
+3	ҧхьаӡазар	а́-ҧхьаӡара	VERB	V_Dyn_Tr_StatPass_NonFin_Pres_Conj-I_S:3_S:Ad	Dyn=No|Mood=Cnd|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=NonFin|Voice=Pass	5	advcl:cond	_	LMSeg:а́-ҧхьаӡа-ра
+4	бзиа	бзи́а	ADV	Adv	_	5	compound:prt	_	LMSeg:бзи́а
+5	иабоит	а-бара́	VERB	V_Dyn_Tr_Fin_Pres_S:3SgNH_DO:3	Dyn=Yes|Gender[subj]=Neut|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	8	ccomp:quote	_	LMSeg:а-ба-ра́|SpaceAfter=No
+6	,	,	PUNCT	Punct_Comma	_	8	punct	_	LMSeg:,
+7	–	–	PUNCT	Punct_Dash	_	8	punct	_	LMSeg:–
+8	иҳәан	а-ҳәара́	VERB	V_Dyn_Tr_Fin_PastIndef_S:3SgM_DO:3_DO:Ad	Dyn=Yes|Gender[subj]=Masc|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin	11	advcl:seq	_	LMSeg:а-ҳәа-ра́
+9	Мкан	Мкан	PROPN	Noun_Prop_Anthr_M	NameType=Prs	8	nsubj	_	LMSeg:Мкан|SpaceAfter=No
+10	,	,	PUNCT	Punct_Comma	_	11	punct	_	LMSeg:,
+11	имуит	а-ура́	VERB	V_Dyn_Intr_Fin_Aor_Neg_S:3	Dyn=Yes|Person[subj]=3|Polarity=Neg|Subcat=Intr|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а-у-ра́|SpaceAfter=No
+12	.	.	PUNCT	Punct_Period	_	11	punct	_	LMSeg:.
 
 ~~~
 

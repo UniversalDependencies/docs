@@ -71,6 +71,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> VERB</tt> (34; 64%),
+<tt>VERB --[<tt><a href="en_gentle-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="en_gentle-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="en_gentle-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (1; 100%).

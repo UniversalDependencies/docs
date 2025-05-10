@@ -24,7 +24,7 @@ The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 6	fgColor:white
 # visual-style 6 5 cc	color:blue
 1	Аволь	аволь	AUX	Pcle	NegationType=Contrastive|Polarity=Neg	2	aux:neg	_	GTtags=Neg,Emphatic
-2	пек	пек	ADV	Adv	AdvType=Deg	3	advmod:deg	_	GTtags=Degree
+2	пек	пек	ADV	Adv	AdvType=Deg	3	advmod	_	GTtags=Degree
 3	шумазь	шумамс	VERB	V	Derivation=Ozj|VerbForm=Conv	4	advcl	_	GTtags=IV,Der/Озь,Ger
 4	охаесь	охаемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
 5	ды	ды	CCONJ	CC	_	6	cc	_	_
@@ -60,7 +60,7 @@ The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 4 1 cc	color:blue
 1	Ды	ды	CCONJ	CC	_	4	cc	_	_
 2	вельть	вельть	ADV	Adv	_	4	advmod	_	_
-3	уш	уш	ADV	Adv	AdvType=Tim	2	advmod:tmod	_	GTtags=Sem/Time
+3	уш	уш	ADV	Adv	AdvType=Tim	2	advmod	_	GTtags=Sem/Time
 4	стака	стака	ADJ	A	_	0	root	_	_
 5	эйзэнзэ	эйс	ADP	Adp	Case=Ill|Number[psor]=Sing|Person[psor]=3	6	obl	_	GTtags=Ill,PxSg3
 6	керсемась	керсема	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Def|SpaceAfter=No

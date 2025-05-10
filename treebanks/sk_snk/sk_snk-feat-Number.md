@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="sk_snk-feat-Number.html">Number</a></tt>, <tt><a href="sk_snk-feat-Number-psor.html">Number[psor]</a></tt>.
 
-60503 tokens (57%) have a non-empty value of `Number`.
+60501 tokens (57%) have a non-empty value of `Number`.
 25469 types (98%) occur at least once with a non-empty value of `Number`.
 12326 lemmas (87%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (21661; 20% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (12781; 12% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (9474; 9% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (4569; 4% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (4401; 4% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (3485; 3% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (3477; 3% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (621; 1% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (34; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (21661; 20% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (12781; 12% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (9474; 9% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (4569; 4% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (4401; 4% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (3485; 3% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (3475; 3% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (621; 1% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (34; 0% instances).
 
 ### `NOUN`
 
@@ -214,14 +214,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `PRON`
 
-3477 <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Number`.
+3475 <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sk_snk-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3369; 97%), <tt><a href="sk_snk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2862; 82%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2452; 71%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sk_snk-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3367; 97%), <tt><a href="sk_snk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2862; 82%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2450; 71%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (493; 14% of non-empty `Number`): <em>ich, nás, nich, im, nám, vás, nimi, my, vám, vy</em>
-* `Sing` (2984; 86% of non-empty `Number`): <em>mi, ho, ma, mu, čo, ju, ja, jej, niečo, nič</em>
+* `Sing` (2982; 86% of non-empty `Number`): <em>mi, ho, ma, mu, čo, ju, ja, jej, niečo, nič</em>
 * `EMPTY` (2958): <em>sa, si, a, se, za</em>
 
 <table>
@@ -281,7 +281,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 
 * `Plur` (3; 9% of non-empty `Number`): <em>ráz, razy</em>
 * `Sing` (31; 91% of non-empty `Number`): <em>raz</em>
-* `EMPTY` (4411): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
+* `EMPTY` (4410): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
 
 <table>
   <tr><th>Paradigm <i>raz</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -293,11 +293,11 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="sk_snk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7715; 100%),
+<tt>NOUN --[<tt><a href="sk_snk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7703; 100%),
 <tt>VERB --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2989; 96%),
 <tt>NOUN --[<tt><a href="sk_snk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2931; 65%),
 <tt>VERB --[<tt><a href="sk_snk-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2925; 68%),
-<tt>NOUN --[<tt><a href="sk_snk-dep-det.html">det</a></tt>]--> DET</tt> (2467; 100%),
+<tt>NOUN --[<tt><a href="sk_snk-dep-det.html">det</a></tt>]--> DET</tt> (2461; 100%),
 <tt>VERB --[<tt><a href="sk_snk-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1891; 56%),
 <tt>VERB --[<tt><a href="sk_snk-dep-aux.html">aux</a></tt>]--> AUX</tt> (1693; 85%),
 <tt>VERB --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1576; 95%),

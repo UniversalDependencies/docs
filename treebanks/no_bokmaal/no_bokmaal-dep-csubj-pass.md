@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Norwegian-Bokmaal: Relations: `csubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="no_bokmaal-dep-csubj.html">csubj</a></tt>.
+There are also 1 other language-specific subtypes of `csubj`: <tt><a href="no_bokmaal-dep-csubj-outer.html">csubj:outer</a></tt>.
 
 8 nodes (0%) are attached to their parents as `csubj:pass`.
 
@@ -22,16 +23,16 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 3 csubj:pass	color:blue
-1	At	at	SCONJ	_	_	3	mark	_	_
-2	de	de	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
-3	mener	mene	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	csubj:pass	_	_
-4	alvor	alvor	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	3	obj	_	SpaceAfter=No
-5	,	$,	PUNCT	_	_	3	punct	_	_
-6	kan	kunne	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	_
-7	illustreres	illustrere	VERB	_	VerbForm=Inf|Voice=Pass	0	root	_	_
-8	med	med	ADP	_	_	9	case	_	_
-9	følgende	følgende	ADJ	_	Definite=Def|Degree=Pos|Number=Sing	7	advmod	_	SpaceAfter=No
-10	:	$:	PUNCT	_	_	7	punct	_	_
+1	At	at	SCONJ	sbu	_	3	mark	_	_
+2	de	de	PRON	pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	mener	mene	VERB	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	7	csubj:pass	_	_
+4	alvor	alvor	NOUN	subst	Definite=Ind|Gender=Neut|Number=Sing	3	obj	_	SpaceAfter=No
+5	,	$,	PUNCT	<komma>	_	3	punct	_	_
+6	kan	kunne	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	illustreres	illustrere	VERB	verb	VerbForm=Inf|Voice=Pass	0	root	_	_
+8	med	med	ADP	prep	_	9	case	_	_
+9	følgende	følgende	ADJ	adj	Definite=Def|Degree=Pos|Number=Sing	7	advmod	_	SpaceAfter=No
+10	:	$:	PUNCT	clb	_	7	punct	_	_
 
 ~~~
 

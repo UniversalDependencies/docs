@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Moksha-JR: Relations: `nmod:poss`
 
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-nmod.html">nmod</a></tt>.
-There are also 4 other language-specific subtypes of `nmod`: <tt><a href="mdf_jr-dep-nmod-bahuv.html">nmod:bahuv</a></tt>, <tt><a href="mdf_jr-dep-nmod-gobj.html">nmod:gobj</a></tt>, <tt><a href="mdf_jr-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="mdf_jr-dep-nmod-tmod.html">nmod:tmod</a></tt>.
+There are also 2 other language-specific subtypes of `nmod`: <tt><a href="mdf_jr-dep-nmod-bahuv.html">nmod:bahuv</a></tt>, <tt><a href="mdf_jr-dep-nmod-gobj.html">nmod:gobj</a></tt>.
 
 42 nodes (1%) are attached to their parents as `nmod:poss`.
 
@@ -42,7 +42,7 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 nmod:poss	color:blue
-1	Кальдявста	кальдявста	ADV	Adv	_	2	advmod:mmod	_	_
+1	Кальдявста	кальдявста	ADV	Adv	AdvType=Man|Case=Ela	2	advmod	_	_
 2	тиень	тиемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScSg1|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	6	punct	_	_
 4	тонь	тон	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	nmod:poss	_	GTtags=Pers,Sg2,Gen
@@ -66,7 +66,7 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 5	марса	марса	ADV	Adv	_	3	advmod	_	_
 6	служась	служамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,ScSg3
 7	Покрышкинонь	Покрышкин	PROPN	N	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Masc|NameType=Sur|Number=Plur,Sing	8	nmod:poss	_	GTtags=Prop,Sem/Mal-Sur,SP,Gen,Indef
-8	дивизияса	дивизия	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	6	obl:lmod	_	GTtags=SP,Ine,Indef|SpaceAfter=No
+8	дивизияса	дивизия	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	6	obl	_	GTtags=SP,Ine,Indef|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~

@@ -22,21 +22,21 @@ The following 30 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 fixed	color:blue
-1	นั่น	_	PRON	PRD	_	0	root	_	SpaceAfter=No|Translit=nâ¹n
-2	ก็	_	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=kɔ
-3	เพราะ	_	ADP	IN	_	11	mark	_	SpaceAfter=No|Translit=bʰéráa
-4	ว่า	_	ADP	IN	_	3	fixed	_	SpaceAfter=No|Translit=wá¹
-5	ทุก	_	DET	DT	_	6	det	_	SpaceAfter=No|Translit=dʰuk
-6	ปาฏิหาริย์	_	NOUN	NNB	_	11	nsubj	_	SpaceAfter=No|Translit=páṭiháriy
-7	และ	_	CCONJ	CC	_	9	cc	_	SpaceAfter=No|Translit=læ
-8	แต่ละ	_	DET	DT	_	9	det	_	SpaceAfter=No|Translit=tǽ¹la
-9	เขต	_	NOUN	NNB	_	6	conj	_	SpaceAfter=No|Translit=kʰét
-10	พิเศษ	_	ADJ	JJ	_	9	amod	_	SpaceAfter=No|Translit=bʰiśéš
-11	มี	_	VERB	VV	_	1	advcl	_	SpaceAfter=No|Translit=mí
-12	ผล	_	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=pʰl
-13	เหนือ	_	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=hénű'
-14	ทุก	_	DET	DT	_	15	det	_	SpaceAfter=No|Translit=dʰuk
-15	อย่าง	_	NOUN	NNB	_	11	obl	_	Translit='yá¹ŋ
+1	นั่น	นั่น	PRON	PRD	_	0	root	_	SpaceAfter=No|Translit=nâ¹n|LTranslit=nâ¹n
+2	ก็	ก็	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=kɔ|LTranslit=kɔ
+3	เพราะ	เพราะ	ADP	IN	_	11	mark	_	SpaceAfter=No|Translit=bʰéráa|LTranslit=bʰéráa
+4	ว่า	ว่า	ADP	IN	_	3	fixed	_	SpaceAfter=No|Translit=wá¹|LTranslit=wá¹
+5	ทุก	ทุก	DET	DT	_	6	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+6	ปาฏิหาริย์	ปาฏิหาริย์	NOUN	NNB	_	11	nsubj	_	SpaceAfter=No|Translit=páṭiháriy|LTranslit=páṭiháriy
+7	และ	และ	CCONJ	CC	_	9	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
+8	แต่ละ	แต่ละ	DET	DT	_	9	det	_	SpaceAfter=No|Translit=tǽ¹la|LTranslit=tǽ¹la
+9	เขต	เขต	NOUN	NNB	_	6	conj	_	SpaceAfter=No|Translit=kʰét|LTranslit=kʰét
+10	พิเศษ	พิเศษ	ADJ	JJ	_	9	amod	_	SpaceAfter=No|Translit=bʰiśéš|LTranslit=bʰiśéš
+11	มี	มี	VERB	VV	_	1	advcl	_	SpaceAfter=No|Translit=mí|LTranslit=mí
+12	ผล	ผล	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=pʰl|LTranslit=pʰl
+13	เหนือ	เหนือ	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=hénű'|LTranslit=hénű'
+14	ทุก	ทุก	DET	DT	_	15	det	_	SpaceAfter=No|Translit=dʰuk|LTranslit=dʰuk
+15	อย่าง	อย่าง	NOUN	NNB	_	11	obl	_	Translit='yá¹ŋ|LTranslit='yá¹ŋ
 
 ~~~
 
@@ -47,20 +47,20 @@ The following 30 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 13 fixed	color:blue
-1	เห็น	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=hen
-2	ได้	_	AUX	MD	_	1	aux	_	SpaceAfter=No|Translit=dai²
-3	ชัด	_	ADV	RB	_	1	advmod	_	SpaceAfter=No|Translit=ćʰâd
-4	ที่สุด	_	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=dʰí¹sud
-5	เมื่อ	_	ADP	IN	_	10	mark	_	SpaceAfter=No|Translit=műá¹
-6	ชื่อ	_	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=ćʰű¹'
-7	ของ	_	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=kʰɔːŋ
-8	ดารา	_	NOUN	NN	_	6	nmod:poss	_	SpaceAfter=No|Translit=dárá
-9	นั้น	_	DET	DT	_	8	det	_	SpaceAfter=No|Translit=nâ²n
-10	หา	_	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=há
-11	ยาก	_	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=yák
-12	ตั้ง	_	VERB	VV	_	14	case	_	SpaceAfter=No|Translit=tâ²ŋ
-13	แต่	_	ADP	IN	_	12	fixed	_	SpaceAfter=No|Translit=tǽ¹
-14	แรก	_	ADJ	JJ	_	10	xcomp	_	Translit=rǽk
+1	เห็น	เห็น	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=hen|LTranslit=hen
+2	ได้	ได้	AUX	MD	_	1	aux	_	SpaceAfter=No|Translit=dai²|LTranslit=dai²
+3	ชัด	ชัด	ADV	RB	_	1	advmod	_	SpaceAfter=No|Translit=ćʰâd|LTranslit=ćʰâd
+4	ที่สุด	ที่สุด	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=dʰí¹sud|LTranslit=dʰí¹sud
+5	เมื่อ	เมื่อ	ADP	IN	_	10	mark	_	SpaceAfter=No|Translit=műá¹|LTranslit=műá¹
+6	ชื่อ	ชื่อ	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=ćʰű¹'|LTranslit=ćʰű¹'
+7	ของ	ของ	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
+8	ดารา	ดารา	NOUN	NN	_	6	nmod:poss	_	SpaceAfter=No|Translit=dárá|LTranslit=dárá
+9	นั้น	นั้น	DET	DT	_	8	det	_	SpaceAfter=No|Translit=nâ²n|LTranslit=nâ²n
+10	หา	หา	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=há|LTranslit=há
+11	ยาก	ยาก	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=yák|LTranslit=yák
+12	ตั้ง	ตั้ง	VERB	VV	_	14	case	_	SpaceAfter=No|Translit=tâ²ŋ|LTranslit=tâ²ŋ
+13	แต่	แต่	ADP	IN	_	12	fixed	_	SpaceAfter=No|Translit=tǽ¹|LTranslit=tǽ¹
+14	แรก	แรก	ADJ	JJ	_	10	xcomp	_	Translit=rǽk|LTranslit=rǽk
 
 ~~~
 
@@ -71,25 +71,25 @@ The following 30 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 fixed	color:blue
-1	อย่าง	_	ADP	IN	_	8	cc	_	SpaceAfter=No|Translit='yá¹ŋ
-2	ไร	_	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rai
-3	ก็	_	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔ
-4	ตาม	_	ADV	RB	_	1	fixed	_	Translit=tám
-5	พวก	_	NOUN	NN	_	8	nsubj:pass	_	SpaceAfter=No|Translit=bʰwk
-6	เขา	_	PRON	PRP	Person=3	5	compound	_	SpaceAfter=No|Translit=kʰao
-7	ถูก	_	AUX	MD	Voice=Pass	8	aux:pass	_	SpaceAfter=No|Translit=tʰúk
-8	สกัด	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=skâd
-9	ไว้	_	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=wai²
-10	และ	_	CCONJ	CC	_	12	cc	_	SpaceAfter=No|Translit=læ
-11	ต้อง	_	AUX	MD	_	12	aux	_	SpaceAfter=No|Translit=t²'ŋ
-12	ทำ	_	VERB	VV	_	8	conj	_	SpaceAfter=No|Translit=dʰã
-13	การสู้รบ	_	VERB	VV	_	12	obj	_	SpaceAfter=No|Translit=kársú²rb
-14	ที่	_	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=dʰí¹
-15	ฟรีแมน	_	PROPN	NNP	_	12	obl	_	Translit=frímǽn
-16	ติด	_	VERB	VV	_	15	acl	_	SpaceAfter=No|Translit=tid
-17	กับ	_	ADP	IN	_	18	case	_	SpaceAfter=No|Translit=kâb
-18	แม่น้ำ	_	NOUN	NN	_	16	obl	_	Proper=True|SpaceAfter=No|Translit=mǽ¹nã²
-19	ฮัดสัน	_	PROPN	NNP	_	18	flat:name	_	Translit=ḥâdsân
+1	อย่าง	อย่าง	ADP	IN	_	8	cc	_	SpaceAfter=No|Translit='yá¹ŋ|LTranslit='yá¹ŋ
+2	ไร	ไร	ADV	WRB	_	1	fixed	_	SpaceAfter=No|Translit=rai|LTranslit=rai
+3	ก็	ก็	ADV	RB	_	1	fixed	_	SpaceAfter=No|Translit=kɔ|LTranslit=kɔ
+4	ตาม	ตาม	ADV	RB	_	1	fixed	_	Translit=tám|LTranslit=tám
+5	พวก	พวก	NOUN	NN	_	8	nsubj:pass	_	SpaceAfter=No|Translit=bʰwk|LTranslit=bʰwk
+6	เขา	เขา	PRON	PRP	Person=3	5	compound	_	SpaceAfter=No|Translit=kʰao|LTranslit=kʰao
+7	ถูก	ถูก	AUX	MD	Voice=Pass	8	aux:pass	_	SpaceAfter=No|Translit=tʰúk|LTranslit=tʰúk
+8	สกัด	สกัด	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=skâd|LTranslit=skâd
+9	ไว้	ไว้	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=wai²|LTranslit=wai²
+10	และ	และ	CCONJ	CC	_	12	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
+11	ต้อง	ต้อง	AUX	MD	_	12	aux	_	SpaceAfter=No|Translit=t²'ŋ|LTranslit=t²'ŋ
+12	ทำ	ทำ	VERB	VV	_	8	conj	_	SpaceAfter=No|Translit=dʰã|LTranslit=dʰã
+13	การสู้รบ	การสู้รบ	VERB	VV	_	12	obj	_	SpaceAfter=No|Translit=kársú²rb|LTranslit=kársú²rb
+14	ที่	ที่	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=dʰí¹|LTranslit=dʰí¹
+15	ฟรีแมน	ฟรีแมน	PROPN	NNP	_	12	obl	_	Translit=frímǽn|LTranslit=frímǽn
+16	ติด	ติด	VERB	VV	_	15	acl	_	SpaceAfter=No|Translit=tid|LTranslit=tid
+17	กับ	กับ	ADP	IN	_	18	case	_	SpaceAfter=No|Translit=kâb|LTranslit=kâb
+18	แม่น้ำ	แม่น้ำ	NOUN	NN	_	16	obl	_	Proper=True|SpaceAfter=No|Translit=mǽ¹nã²|LTranslit=mǽ¹nã²
+19	ฮัดสัน	ฮัดสัน	PROPN	NNP	_	18	flat:name	_	Translit=ḥâdsân|LTranslit=ḥâdsân
 
 ~~~
 

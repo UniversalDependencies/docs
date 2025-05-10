@@ -32,7 +32,7 @@ The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href
 8	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	#PETR4	#PETR4	PROPN	_	_	6	nmod	_	_
 10	?	?	PUNCT	_	_	2	punct	_	_
-11	o.O	o.O	SYM	_	_	2	discourse	_	SpaceAfter=No
+11	o.O	o.O	SYM	_	_	2	discourse	_	_
 
 ~~~
 
@@ -54,7 +54,7 @@ The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href
 9	acontecer	acontecer	VERB	_	VerbForm=Inf	7	xcomp	_	_
 10	com	com	ADP	_	_	12	case	_	_
 11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	papel	papel	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+12	papel	papel	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
 
 ~~~
 
@@ -78,7 +78,7 @@ The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href
 11	resto	resto	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	_
 12	ta	estar	AUX	_	Abbr=Yes|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	13	cop	_	CorrectForm=tá|FullForm=está
 13	foda	foda	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
-14	mesmo	mesmo	ADV	_	_	13	advmod	_	SpaceAfter=No
+14	mesmo	mesmo	ADV	_	_	13	advmod	_	_
 
 ~~~
 

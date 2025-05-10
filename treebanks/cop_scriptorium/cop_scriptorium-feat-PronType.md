@@ -71,18 +71,18 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 * `Prs` (14; 6% of non-empty `PronType`): ⲙⲙⲓⲛⲙⲙⲟ, ⲙⲙⲓⲛⲙⲙⲱ
 * `Rcp` (55; 25% of non-empty `PronType`): ⲉⲣⲏⲩ
 * `Tot` (149; 68% of non-empty `PronType`): ⲧⲏⲣ
-* `EMPTY` (8073): ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ϩⲏⲧ, ϣⲏⲣⲉ, ⲥⲟⲛ, ϣⲁϫⲉ, ϩⲱⲃ
+* `EMPTY` (8078): ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ϩⲏⲧ, ϣⲏⲣⲉ, ⲥⲟⲛ, ϣⲁϫⲉ, ϩⲱⲃ
 
 ### `ADV`
 
 11 <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="cop_scriptorium-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (11; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="cop_scriptorium-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="cop_scriptorium-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (11; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
 * `Int` (11; 100% of non-empty `PronType`): ⲧⲱⲛ
-* `EMPTY` (1989): ⲉⲃⲟⲗ, ⲁⲛ, ⲉϩⲟⲩⲛ, ⲟⲛ, ⲛ, ⲙⲙⲁⲩ, ⲉϩⲣⲁⲓ, ⲧⲙ, ⲙⲡⲣ, ⲉⲙⲁⲧⲉ
+* `EMPTY` (1985): ⲉⲃⲟⲗ, ⲁⲛ, ⲉϩⲟⲩⲛ, ⲟⲛ, ⲛ, ⲙⲙⲁⲩ, ⲉϩⲣⲁⲓ, ⲧⲙ, ⲙⲡⲣ, ⲉⲙⲁⲧⲉ
 
 ## Relations with Agreement in `PronType`
 

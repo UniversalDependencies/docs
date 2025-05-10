@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.12 release
 The following people have contributed to making this treebank part of UD: Arij Riabi, Farah Essaidi, Amal Fethi, Menel Mahamdi, Djamé Seddah.
 
 Repository: [UD_Maghrebi_Arabic_French-Arabizi](https://github.com/UniversalDependencies/UD_Maghrebi_Arabic_French-Arabizi)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqaf_arabizi215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqaf_arabizi216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -66,7 +66,7 @@ The first version of the NArabizi Corpus was presented in [(Seddah & al., 2020)]
 
 ## Features
 
-[AdpType](qaf_arabizi-feat-AdpType.html) – [Gender](qaf_arabizi-feat-Gender.html) – [Mood](qaf_arabizi-feat-Mood.html) – [Number](qaf_arabizi-feat-Number.html) – [Person](qaf_arabizi-feat-Person.html) – [Polarity](qaf_arabizi-feat-Polarity.html) – [PronType](qaf_arabizi-feat-PronType.html) – [Tense](qaf_arabizi-feat-Tense.html) – [Typo](qaf_arabizi-feat-Typo.html) – [VerbForm](qaf_arabizi-feat-VerbForm.html)
+[AdpType](qaf_arabizi-feat-AdpType.html) – [ExtPos](qaf_arabizi-feat-ExtPos.html) – [Gender](qaf_arabizi-feat-Gender.html) – [Mood](qaf_arabizi-feat-Mood.html) – [Number](qaf_arabizi-feat-Number.html) – [Person](qaf_arabizi-feat-Person.html) – [Polarity](qaf_arabizi-feat-Polarity.html) – [PronType](qaf_arabizi-feat-PronType.html) – [Tense](qaf_arabizi-feat-Tense.html) – [Typo](qaf_arabizi-feat-Typo.html) – [VerbForm](qaf_arabizi-feat-VerbForm.html)
 
 ## Relations
 
@@ -374,7 +374,7 @@ The first version of the NArabizi Corpus was presented in [(Seddah & al., 2020)]
       <li>Prep
         <ul>
           <li>ADJ: ahssenelek</li>
-          <li>ADP: fi, de, m3a, f, b, pour, ta3, a, 3la, bi</li>
+          <li>ADP: fi, m3a, de, f, b, pour, ta3, a, 3la, bi</li>
           <li>ADV: likole, ma, madabikom, madabikoum, malhom, po, pour</li>
           <li>DET: du</li>
           <li>NOUN: 3anbalek, 3labalkoum, contrra, homme, l3aklek, madabiya, rwahkoum, ma3labalkomch, ma3labalnach</li>
@@ -382,6 +382,18 @@ The first version of the NArabizi Corpus was presented in [(Seddah & al., 2020)]
           <li>PROPN: eurgway</li>
           <li>SCONJ: beli, bli, belli, bili</li>
           <li>VERB: choufoulina, daroulhom, galalkom, idjiboulna, imedouli, ta3matelhoum, ysirmatlama, zidlou, Lazmetlek, darolhom</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>DET
+        <ul>
+          <li>ADP: de</li>
         </ul>
       </li>
     </ul>

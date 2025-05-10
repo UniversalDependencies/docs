@@ -64,7 +64,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 4 iobj	color:blue
 1	Co	co	PRON	PQ--1----------	Animacy=Inan|Case=Nom|PronType=Int,Rel	3	nsubj	3:nsubj|5:nsubj:xsubj	_
-2	jiného	jiný	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	1	amod	1:amod	_
+2	jiného	jiný	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	1	nmod	1:nmod:gen	_
 3	mohlo	moci	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 4	Filipa	Filip	PROPN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	5	iobj	5:iobj	_
 5	přimět	přimět	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	3	xcomp	3:xcomp	SpaceAfter=No

@@ -68,14 +68,14 @@ The most frequent other feature values with which `AUX` and `Number[subj]` co-oc
 ## Relations with Agreement in `Number[subj]`
 
 The 10 most frequent relations where parent and child node agree in `Number[subj]`:
-<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> VERB</tt> (338; 92%),
+<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> VERB</tt> (337; 92%),
+<tt>VERB --[<tt><a href="ka_glc-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (101; 70%),
 <tt>VERB --[<tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (101; 72%),
-<tt>VERB --[<tt><a href="ka_glc-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (100; 69%),
 <tt>VERB --[<tt><a href="ka_glc-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (86; 73%),
-<tt>VERB --[<tt><a href="ka_glc-dep-aux.html">aux</a></tt>]--> AUX</tt> (28; 90%),
-<tt>VERB --[<tt><a href="ka_glc-dep-acl.html">acl</a></tt>]--> VERB</tt> (22; 63%),
+<tt>VERB --[<tt><a href="ka_glc-dep-aux.html">aux</a></tt>]--> AUX</tt> (27; 90%),
+<tt>VERB --[<tt><a href="ka_glc-dep-acl.html">acl</a></tt>]--> VERB</tt> (21; 62%),
 <tt>VERB --[<tt><a href="ka_glc-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (5; 71%),
+<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 100%),
 <tt>VERB --[<tt><a href="ka_glc-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (3; 75%),
-<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> AUX</tt> (3; 100%),
-<tt>AUX --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
+<tt>AUX --[<tt><a href="ka_glc-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2; 67%).
 

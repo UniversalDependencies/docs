@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Portuguese-DANTEStocks: POS Tags: `PUNCT`
 
-There are 39 `PUNCT` lemmas (0%), 38 `PUNCT` types (0%) and 13126 `PUNCT` tokens (16%).
+There are 39 `PUNCT` lemmas (0%), 38 `PUNCT` types (0%) and 13125 `PUNCT` tokens (16%).
 Out of 16 observed tags, the rank of `PUNCT` is: 11 in number of lemmas, 14 in number of types and 1 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>,, ., -, :, !, ..., (, ), ?, '</em>
@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="pt_dantestocks-p
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.974359 (the average of all parts of speech is 1.238049).
+The form / lemma ratio of `PUNCT` is 0.974359 (the average of all parts of speech is 1.238183).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: <em>), _</em>.
 
@@ -63,11 +63,11 @@ The 3rd highest number of forms (1) was observed with the lemma “!”: <em>!</
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="pt_dantestocks-dep-punct.html">punct</a></tt> (13126; 100% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="pt_dantestocks-dep-punct.html">punct</a></tt> (13125; 100% instances)
 
-Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (3937; 30% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (3571; 27% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (3227; 25% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (600; 5% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (593; 5% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (383; 3% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (327; 2% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (216; 2% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (133; 1% instances), <tt><a href="pt_dantestocks-pos-INTJ.html">INTJ</a></tt> (79; 1% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt> (29; 0% instances), <tt><a href="pt_dantestocks-pos-CCONJ.html">CCONJ</a></tt> (17; 0% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="pt_dantestocks-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances)
+Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (3937; 30% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (3570; 27% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (3227; 25% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (600; 5% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (593; 5% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (383; 3% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (327; 2% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (216; 2% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (133; 1% instances), <tt><a href="pt_dantestocks-pos-INTJ.html">INTJ</a></tt> (79; 1% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt> (29; 0% instances), <tt><a href="pt_dantestocks-pos-CCONJ.html">CCONJ</a></tt> (17; 0% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="pt_dantestocks-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances)
 
-13122 (100%) `PUNCT` nodes are leaves.
+13121 (100%) `PUNCT` nodes are leaves.
 
 2 (0%) `PUNCT` nodes have one child.
 

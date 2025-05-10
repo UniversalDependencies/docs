@@ -34,18 +34,18 @@ The form / lemma ratio of `AUX` is 20.000000 (the average of all parts of speech
 
 The 1st highest number of forms (20) was observed with the lemma “_”: <em>arep, badhe, bakal, bakale, bisa, inggih, isa, kedah, kena, kudu, lagi, mesthi, nggih, saged, sampun, sida, wes, wis, wus, yaiku</em>.
 
-`AUX` occurs with 2 features: <tt><a href="jv_csui-feat-Polite.html">Polite</a></tt> (338; 99% instances), <tt><a href="jv_csui-feat-Abbr.html">Abbr</a></tt> (19; 6% instances)
+`AUX` occurs with 3 features: <tt><a href="jv_csui-feat-Polite.html">Polite</a></tt> (338; 99% instances), <tt><a href="jv_csui-feat-Abbr.html">Abbr</a></tt> (19; 6% instances), <tt><a href="jv_csui-feat-ExtPos.html">ExtPos</a></tt> (8; 2% instances)
 
-`AUX` occurs with 3 feature-value pairs: `Abbr=Yes`, `Polite=Form`, `Polite=Infm`
+`AUX` occurs with 5 feature-value pairs: `Abbr=Yes`, `ExtPos=ADP`, `ExtPos=SCONJ`, `Polite=Form`, `Polite=Infm`
 
-`AUX` occurs with 4 feature combinations.
+`AUX` occurs with 6 feature combinations.
 The most frequent feature combination is `Polite=Infm` (288 tokens).
 Examples: <em>wis, bisa, yaiku, kudu, wus, arep, lagi, bakal, isa, kena</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 2 different relations: <tt><a href="jv_csui-dep-aux.html">aux</a></tt> (301; 89% instances), <tt><a href="jv_csui-dep-cop.html">cop</a></tt> (39; 11% instances)
+`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="jv_csui-dep-aux.html">aux</a></tt> (299; 88% instances), <tt><a href="jv_csui-dep-cop.html">cop</a></tt> (33; 10% instances), <tt><a href="jv_csui-dep-case.html">case</a></tt> (7; 2% instances), <tt><a href="jv_csui-dep-mark.html">mark</a></tt> (1; 0% instances)
 
 Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> (245; 72% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> (38; 11% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (36; 11% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (14; 4% instances), <tt><a href="jv_csui-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 

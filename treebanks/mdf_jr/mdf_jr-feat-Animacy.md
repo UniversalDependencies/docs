@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 `NOUN` tokens may have the following values of `Animacy`:
 
 * `Hum` (2; 100% of non-empty `Animacy`): <em>тядяц</em>
-* `EMPTY` (1111): <em>лангс, ломаттне, шиня, шись, пингть, ава, паксянь, Тишка, каршес, ланга</em>
+* `EMPTY` (1112): <em>лангс, ломаттне, тячи, шиня, шись, ава, паксянь, пингть, Тишка, каршес</em>
 
 ### `PRON`
 

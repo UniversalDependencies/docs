@@ -25,7 +25,7 @@ The following 7 pairs of parts of speech are connected with `nsubj`: <tt><a href
 # visual-style 1 2 nsubj	color:blue
 1	Muštat-ik	muštatada	VERB	_	Clitic=Ik|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	Tö	tö	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	1	nsubj	_	_
-3	ičetoi	ičeze	PRON	_	Case=Nom|Number=Plur|PronType=Prs|Reflex=Yes	4	nmod	_	_
+3	ičetoi	iče	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs|Reflex=Yes	4	nmod	_	_
 4	školan	škol	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	_
 5	vozid	voz'	NOUN	_	Case=Par|Number=Plur	1	obj	_	_
 6	?	?	PUNCT	_	_	1	punct	_	_

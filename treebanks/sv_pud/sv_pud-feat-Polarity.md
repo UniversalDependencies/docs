@@ -25,12 +25,12 @@ The feature is used with 2 part-of-speech tags: <tt><a href="sv_pud-pos-PART.htm
 
 ### `ADV`
 
-5 <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Polarity`.
+5 <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4; 80%).
 
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (5; 100% of non-empty `Polarity`): <em>aldrig, föga, knappast</em>
-* `EMPTY` (1007): <em>så, mer, in, ut, där, också, upp, bara, fram, här</em>
+* `EMPTY` (989): <em>så, in, ut, där, också, bara, upp, fram, här, även</em>
 

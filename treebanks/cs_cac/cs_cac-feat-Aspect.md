@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 
-45665 tokens (9%) have a non-empty value of `Aspect`.
-11237 types (18%) occur at least once with a non-empty value of `Aspect`.
-4211 lemmas (15%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 5 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (24930; 5% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (16120; 3% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (4600; 1% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (6; 0% instances).
+45667 tokens (9%) have a non-empty value of `Aspect`.
+11238 types (18%) occur at least once with a non-empty value of `Aspect`.
+4212 lemmas (15%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 5 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (24932; 5% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (16120; 3% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (4600; 1% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (6; 0% instances).
 
 ### `VERB`
 
-24930 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Aspect`.
+24932 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (23493; 94%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (19337; 78%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18952; 76%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (13581; 54%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (13392; 54%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13351; 54%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (23495; 94%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (19337; 78%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18954; 76%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (13583; 54%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (13392; 54%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13351; 54%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (17127; 69% of non-empty `Aspect`): <em>patří, tvoří, znamená, odpovídá, stává, mění, představuje, dochází, ukazuje, říká</em>
+* `Imp` (17129; 69% of non-empty `Aspect`): <em>patří, tvoří, znamená, odpovídá, stává, mění, představuje, dochází, ukazuje, říká</em>
 * `Perf` (7803; 31% of non-empty `Aspect`): <em>zajistit, podařilo, vytvořit, vyjádřit, vysvětlit, získat, stanoví, viz, splnit, odstranit</em>
-* `EMPTY` (13818): <em>má, mají, musí, může, jde, lze, mohou, můžeme, mít, měl</em>
+* `EMPTY` (13816): <em>má, mají, musí, může, jde, lze, mohou, můžeme, mít, měl</em>
 
-`Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (3007) occur only with one value of `Aspect`.
+`Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (3008) occur only with one value of `Aspect`.
 
 ### `AUX`
 
@@ -48,7 +48,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 
 * `Imp` (3011; 65% of non-empty `Aspect`): <em>pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, věnována, řídící, týkající, vyplývající</em>
 * `Perf` (1589; 35% of non-empty `Aspect`): <em>splněny, zahájena, založena, splněn, stanovena, spojeno, spojeny, stanoveny, vybudována, připraveny</em>
-* `EMPTY` (69622): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
+* `EMPTY` (69620): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
 
 `Aspect` seems to be **lexical feature** of `ADJ`. 100% lemmas (1200) occur only with one value of `Aspect`.
 
@@ -59,7 +59,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 `CCONJ` tokens may have the following values of `Aspect`:
 
 * `Imp` (9; 100% of non-empty `Aspect`): <em>buď</em>
-* `EMPTY` (24197): <em>a, i, nebo, ale, však, ani, či, tak, neboť, jednak</em>
+* `EMPTY` (24210): <em>a, i, nebo, ale, však, ani, či, tak, neboť, jednak</em>
 
 ### `NOUN`
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 
 * `Imp` (1; 17% of non-empty `Aspect`): <em>tváří</em>
 * `Perf` (5; 83% of non-empty `Aspect`): <em>oprav, vyhovění</em>
-* `EMPTY` (136177): <em>práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</em>
+* `EMPTY` (136176): <em>práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</em>
 
 ## Relations with Agreement in `Aspect`
 
@@ -80,9 +80,10 @@ The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>AUX --[<tt><a href="cs_cac-dep-aux.html">aux</a></tt>]--> AUX</tt> (10; 100%),
 <tt>AUX --[<tt><a href="cs_cac-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (6; 100%),
 <tt>VERB --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (5; 56%),
+<tt>VERB --[<tt><a href="cs_cac-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<tt><a href="cs_cac-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>AUX --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (1; 100%),
 <tt>AUX --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<tt><a href="cs_cac-dep-acl.html">acl</a></tt>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<tt><a href="cs_cac-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="cs_cac-dep-acl.html">acl</a></tt>]--> AUX</tt> (1; 100%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_lines-dep-aux.html">aux</a></tt>.
 
-765 nodes (1%) are attached to their parents as `aux:pass`.
+853 nodes (1%) are attached to their parents as `aux:pass`.
 
-764 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29673202614379.
+852 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28604923798359.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (763; 100% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (848; 99% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	She	she	PRON	PERS-SG-NOM	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj:pass	_	_
 2	would	would	AUX	PAST-AUX	VerbForm=Fin	5	aux	_	_
 3	be	be	AUX	INF	VerbForm=Inf	5	aux:pass	_	_
-4	poetically	poetical	ADV	_	_	5	advmod	_	_
+4	poetically	poetically	ADV	_	_	5	advmod	_	_
 5	besocked	besocked	ADJ	POS	Degree=Pos	0	root	_	_
 6	and	and	CCONJ	_	_	7	cc	_	_
 7	sandalled	sandalled	ADJ	POS	Degree=Pos	5	conj	_	SpaceAfter=No

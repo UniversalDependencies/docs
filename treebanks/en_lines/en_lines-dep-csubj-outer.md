@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><
 1	But	but	CCONJ	_	_	13	cc	_	_
 2	what	what	PRON	WH-REL	PronType=Rel	9	obj	_	_
 3	their	their	PRON	P3PL-GEN	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
-4	contented	content	ADJ	PASS	Degree=Pos	6	amod	_	_
+4	contented	contented	ADJ	PASS	Degree=Pos	6	amod	_	_
 5	little	little	ADJ	POS	Degree=Pos	6	amod	_	_
 6	minds	mind	NOUN	PL-NOM	Number=Plur	9	nsubj	_	_
 7	will	will	AUX	PRES-AUX	VerbForm=Fin	9	aux	_	_
@@ -56,7 +56,7 @@ The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><
 31	it	it	PRON	PERS-SG	_	30	obj	_	_
 32	now	now	ADV	_	PronType=Dem	30	advmod	_	_
 33	as	as	ADV	_	_	34	advmod	_	_
-34	loud	loud	ADJ	POS	_	30	advmod	_	_
+34	loud	loud	ADJ	POS	Degree=Pos	30	advmod	_	_
 35	as	as	SCONJ	_	_	38	mark	_	_
 36	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	38	nsubj	_	_
 37	'd	will	AUX	PAST-AUX	Mood=Ind|Tense=Past|VerbForm=Fin	38	aux	_	_

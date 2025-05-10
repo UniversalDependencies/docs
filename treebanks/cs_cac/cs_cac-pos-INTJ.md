@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-CAC: POS Tags: `INTJ`
 
 There are 9 `INTJ` lemmas (0%), 9 `INTJ` types (0%) and 15 `INTJ` tokens (0%).
-Out of 16 observed tags, the rank of `INTJ` is: 14 in number of lemmas, 15 in number of types and 16 in number of tokens.
+Out of 17 observed tags, the rank of `INTJ` is: 14 in number of lemmas, 15 in number of types and 16 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>běda, fajn, fí, budíčééék, haló, hej, ježišmarjá, panečku, vida</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.181223).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.180820).
 
 The 1st highest number of forms (1) was observed with the lemma “budíčééék”: <em>Budíčééék</em>.
 

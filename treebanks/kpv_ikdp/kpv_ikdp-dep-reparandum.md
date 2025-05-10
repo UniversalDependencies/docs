@@ -58,7 +58,7 @@ The following 11 pairs of parts of speech are connected with `reparandum`: <tt><
 8	велэдны	велӧдны	VERB	V	VerbForm=Inf	7	xcomp	_	GTtags=Err/Dial,Inf
 9	кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	10	nummod	_	GTtags=Card,Sg,Nom
 10	во	во	NOUN	N	Case=Nom|Number=Sing	11	nmod	_	GTtags=Sg,Nom
-11	сайын	сай	NOUN	N	Case=Ine|NounType=Relat|Number=Sing	7	obl:tmod	_	GTtags=Relat,Sg,Ine
+11	сайын	сай	NOUN	N	Case=Ine|NounType=Relat|Number=Sing	7	obl	_	GTtags=Relat,Sg,Ine
 12	ачум	ас	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	7	obl	_	GTtags=Refl,Sg1,Err/Dial,Nom|SpaceAfter=No
 13	,	,	PUNCT	PUNCT	_	16	punct	_	_
 14	но	но	CCONJ	CC	_	16	cc	_	SpaceAfter=No
@@ -81,7 +81,7 @@ The following 11 pairs of parts of speech are connected with `reparandum`: <tt><
 3	токо	токо	ADV	Adv	_	4	advmod	_	OrigLang=ru
 4	ветлала	ветлыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
-6	потому	потому	SCONJ	CS	_	11	mark	_	Lang=ru
+6	потому	потому	SCONJ	CS	ExtPos=SCONJ	11	mark	_	Lang=ru
 7	что	что	SCONJ	CS	_	6	fixed	_	Lang=ru
 8	мӧд	мӧд	DET	Det	Case=Nom|Number=Sing|NumType=Ord	10	reparandum	_	SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
@@ -91,10 +91,10 @@ The following 11 pairs of parts of speech are connected with `reparandum`: <tt><
 13	да	да	PART	Pcle	_	11	advmod	_	OrigLang=ru|SpaceAfter=No
 14	,	,	PUNCT	CLB	_	15	punct	_	_
 15	менам	ме	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	11	nmod	_	_
-16	сэн	сэн	ADV	Adv	_	18	advmod:lmod	_	_
-17	нин	нин	ADV	Adv	_	18	advmod:tmod	_	_
+16	сэн	сэн	ADV	Adv	AdvType=Loc	18	advmod	_	_
+17	нин	нин	ADV	Adv	_	18	advmod	_	_
 18	воссис	воссьыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	advcl	_	_
-19	нин	нин	ADV	Adv	_	18	advmod:tmod	_	SpaceAfter=No
+19	нин	нин	ADV	Adv	_	18	advmod	_	SpaceAfter=No
 20	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~

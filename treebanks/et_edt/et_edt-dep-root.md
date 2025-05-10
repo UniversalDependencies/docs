@@ -11,9 +11,9 @@ This relation is universal.
 30930 nodes (7%) are attached to their parents as `root`.
 
 30930 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.85625606207565.
+Average distance between parent and child is 4.86081474296799.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (21667; 70% instances), -<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (4759; 15% instances), -<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2373; 8% instances), -<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (696; 2% instances), -<tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (622; 2% instances), -<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (547; 2% instances), -<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (170; 1% instances), -<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (39; 0% instances), -<tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (30; 0% instances), -<tt><a href="et_edt-pos-X.html">X</a></tt> (23; 0% instances), -<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), -<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="et_edt-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (21603; 70% instances), -<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (4760; 15% instances), -<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2374; 8% instances), -<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (759; 2% instances), -<tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (622; 2% instances), -<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (547; 2% instances), -<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (170; 1% instances), -<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (39; 0% instances), -<tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (30; 0% instances), -<tt><a href="et_edt-pos-X.html">X</a></tt> (22; 0% instances), -<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), -<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="et_edt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

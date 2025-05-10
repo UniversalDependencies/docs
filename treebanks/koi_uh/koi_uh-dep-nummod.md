@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	вот	вот	ADV	Adv	_	6	advmod	_	GTtags=Adv
 3	эна	эна	PRON	_	Case=Nom|Number=Plur|PronType=Dem	5	det	_	_
 4	кык	кык	NUM	Num	NumType=Card	5	nummod	_	GTtags=Num,Card,Cmpl
-5	керкуын	керку	NOUN	N	Case=Ine|Number=Sing	6	obl:lmod	_	GTtags=N,Sg,Ine
+5	керкуын	керку	NOUN	N	Case=Ine|Number=Sing	6	obl	_	GTtags=N,Sg,Ine
 6	олісӧ	овны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=V,IV,Ind,Prt1,Pl3
 7	воннэз	вон	NOUN	N	Case=Nom|Number=Plur	6	nsubj	_	GTtags=N,Pl,Nom|SpaceAfter=No
 8	:	:	PUNCT	CLB	_	9	punct	_	GTtags=CLB

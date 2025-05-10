@@ -47,7 +47,7 @@ The 10 most frequent ambiguous types:  <em>som</em> (<tt><a href="sv_pud-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.066667 (the average of all parts of speech is 1.240849).
+The form / lemma ratio of `CCONJ` is 1.066667 (the average of all parts of speech is 1.245991).
 
 The 1st highest number of forms (1) was observed with the lemma “And”: <em>and</em>.
 
@@ -55,12 +55,12 @@ The 2nd highest number of forms (1) was observed with the lemma “and”: <em>&
 
 The 3rd highest number of forms (1) was observed with the lemma “antingen”: <em>antingen</em>.
 
-`CCONJ` occurs with 1 features: <tt><a href="sv_pud-feat-Abbr.html">Abbr</a></tt> (1; 0% instances)
+`CCONJ` occurs with 3 features: <tt><a href="sv_pud-feat-Abbr.html">Abbr</a></tt> (1; 0% instances), <tt><a href="sv_pud-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances), <tt><a href="sv_pud-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
 
-`CCONJ` occurs with 1 feature-value pairs: `Abbr=Yes`
+`CCONJ` occurs with 3 feature-value pairs: `Abbr=Yes`, `ExtPos=ADV`, `Foreign=Yes`
 
-`CCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (637 tokens).
+`CCONJ` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (635 tokens).
 Examples: <em>och, men, eller, som, såsom, både, så, Fast, antingen, såväl</em>
 
 
@@ -68,7 +68,7 @@ Examples: <em>och, men, eller, som, såsom, både, så, Fast, antingen, såväl<
 
 `CCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="sv_pud-dep-cc.html">cc</a></tt> (601; 94% instances), <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (17; 3% instances), <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (10; 2% instances), <tt><a href="sv_pud-dep-compound.html">compound</a></tt> (4; 1% instances), <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="sv_pud-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (239; 37% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (236; 37% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (69; 11% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (60; 9% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (17; 3% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (240; 38% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (237; 37% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (69; 11% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (58; 9% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (16; 3% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
 636 (100%) `CCONJ` nodes are leaves.
 

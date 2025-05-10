@@ -23,14 +23,14 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 3 cop	color:blue
 1	Ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	2	aux	_	GTtags=Neg,Ind,Sg3
-2	kuuʹǩǩ	kuʹǩǩ	ADV	Adv	_	4	advmod:tmod	_	GTtags=Sg,Nom
+2	kuuʹǩǩ	kuʹǩǩ	ADV	Adv	_	4	advmod	_	GTtags=Sg,Nom
 3	leämmaž	leeʹd	AUX	V	Aspect=Perf|VerbForm=Part	4	cop	_	GTtags=IV,Act,PrfPrc
 4	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	0	root	_	GTtags=Sg,Loc|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	iʹttli	iʹttled	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	advcl	_	GTtags=Ind,Prt,Sg3
 7	kuʹmpp	kuʹmpp	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Sg,Nom
 8	väʹst	väʹst	ADV	Adv	_	6	advmod	_	_
-9	mååust	mååust	ADV	Adv	_	6	advmod:lmod	_	SpaceAfter=No
+9	mååust	mååust	ADV	Adv	_	6	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~

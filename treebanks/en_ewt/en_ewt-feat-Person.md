@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-37946 tokens (15%) have a non-empty value of `Person`.
+37945 tokens (15%) have a non-empty value of `Person`.
 1852 types (10%) occur at least once with a non-empty value of `Person`.
 985 lemmas (6%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (18820; 7% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (9651; 4% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (9475; 4% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (18819; 7% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (9651; 4% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (9475; 4% instances).
 
 ### `PRON`
 
-18820 <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `Person`.
+18819 <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (18773; 100%), <tt><a href="en_ewt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (15091; 80%), <tt><a href="en_ewt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13983; 74%), <tt><a href="en_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11794; 63%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11121; 59%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (18772; 100%), <tt><a href="en_ewt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (15090; 80%), <tt><a href="en_ewt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13982; 74%), <tt><a href="en_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11794; 63%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11121; 59%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (7997; 42% of non-empty `Person`): <em>i, my, we, me, our, us, myself, mine, 's, ourselves</em>
 * `2` (3668; 19% of non-empty `Person`): <em>you, your, yourself, u, Yo, ur, yours, thy, ya, ye</em>
-* `3` (7155; 38% of non-empty `Person`): <em>it, they, he, their, his, them, him, she, her, its</em>
+* `3` (7154; 38% of non-empty `Person`): <em>it, they, he, their, his, them, him, she, her, its</em>
 * `EMPTY` (4247): <em>that, this, what, there, who, which, anyone, something, anything, nothing</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (27) occur only with one value of `Person`.
@@ -72,7 +72,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (2967; 31% of non-empty `Person`): <em>have, had, think, thank, hope, know, need, got, want, love</em>
 * `2` (792; 8% of non-empty `Person`): <em>have, want, need, get, know, think, go, see, take, use</em>
 * `3` (5716; 60% of non-empty `Person`): <em>said, has, is, had, have, are, came, took, told, says</em>
-* `EMPTY` (18414): <em>have, get, know, go, do, going, see, take, let, make</em>
+* `EMPTY` (18413): <em>have, get, know, go, do, going, see, take, let, make</em>
 
 <table>
   <tr><th>Paradigm <i>have</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -90,11 +90,9 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>AUX --[<tt><a href="en_ewt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (93; 51%),
 <tt>AUX --[<tt><a href="en_ewt-dep-expl.html">expl</a></tt>]--> PRON</tt> (6; 86%),
 <tt>VERB --[<tt><a href="en_ewt-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (3; 75%),
 <tt>AUX --[<tt><a href="en_ewt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (2; 100%),
 <tt>PRON --[<tt><a href="en_ewt-dep-nmod-unmarked.html">nmod:unmarked</a></tt>]--> PRON</tt> (2; 100%),
-<tt>VERB --[<tt><a href="en_ewt-dep-csubj-outer.html">csubj:outer</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="en_ewt-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (1; 100%).
 

@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (435; 100% of non-empty `Abbr`): <em>a, ATP, p, z, b, k, cm, km, l/ha, TT</em>
-* `EMPTY` (17645): <em>asi, aasta, teema, aru, auto, inimesed, inimene, aastat, raha, aega</em>
+* `EMPTY` (17643): <em>asi, aasta, teema, aru, auto, inimesed, inimene, aastat, raha, aega</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (215) occur only with one value of `Abbr`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (290; 100% of non-empty `Abbr`): <em>jne, vms, nt, jms, ca, st, imo, jm, ntx, mh</em>
-* `EMPTY` (12385): <em>ka, siis, nii, kas, ikka, veel, ju, mitte, juba, ära</em>
+* `EMPTY` (12383): <em>ka, siis, nii, kas, ikka, veel, ju, mitte, juba, ära</em>
 
 `Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (55) occur only with one value of `Abbr`.
 
@@ -98,7 +98,7 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 `X` tokens may have the following values of `Abbr`:
 
 * `Yes` (5; 100% of non-empty `Abbr`): <em>NB, ^, imo, in, to</em>
-* `EMPTY` (180): <em>to, 000, s, u, Enthusiasistic, ga, no, offtopic, NOOOT, a</em>
+* `EMPTY` (181): <em>to, 000, s, u, Enthusiasistic, ga, no, offtopic, NOOOT, a</em>
 
 ### `PRON`
 
@@ -109,7 +109,7 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 `PRON` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>smth, smth.</em>
-* `EMPTY` (6588): <em>ma, see, mis, seda, oma, kes, ta, sa, midagi, mida</em>
+* `EMPTY` (6587): <em>ma, see, mis, seda, oma, kes, ta, sa, midagi, mida</em>
 
 ### `VERB`
 
@@ -120,7 +120,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>Vt</em>
-* `EMPTY` (10873): <em>on, tuleb, teha, saada, saab, tea, läheb, pole, minna, saa</em>
+* `EMPTY` (10875): <em>on, tuleb, teha, saada, saab, tea, läheb, pole, minna, saa</em>
 
 ## Relations with Agreement in `Abbr`
 

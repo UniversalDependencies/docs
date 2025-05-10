@@ -74,7 +74,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (21; 6% of non-empty `Person`): <em>meidän, meitä, Meillä, meille, minua, minun, minä, Minullakin, meidät, minulta</em>
 * `2` (5; 2% of non-empty `Person`): <em>sinä, sinua, teidän, teitä</em>
 * `3` (299; 92% of non-empty `Person`): <em>hän, hänen, he, heidän, hänet, häntä, hänelle, heillä, hänellä, hänestä</em>
-* `EMPTY` (835): <em>sen, joka, se, jotka, tämä, sitä, jossa, tällä, jonka, siitä</em>
+* `EMPTY` (834): <em>sen, joka, se, jotka, tämä, sitä, jossa, tällä, jonka, siitä</em>
 
 ## Relations with Agreement in `Person`
 

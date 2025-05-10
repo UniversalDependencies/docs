@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 
-11438 tokens (3%) have a non-empty value of `Aspect`.
-6412 types (12%) occur at least once with a non-empty value of `Aspect`.
-2339 lemmas (10%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (11239; 3% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (199; 0% instances).
+11473 tokens (3%) have a non-empty value of `Aspect`.
+6424 types (12%) occur at least once with a non-empty value of `Aspect`.
+2343 lemmas (10%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 2 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (11273; 3% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (200; 0% instances).
 
 ### `VERB`
 
-11239 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (23% of all `VERB` tokens) have a non-empty value of `Aspect`.
+11273 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (23% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (11239; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11239; 100%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11239; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (11239; 100%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (11182; 99%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11010; 98%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (10476; 93%), <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (10310; 92%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (8656; 77%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (8354; 74%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (11273; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11273; 100%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11273; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (11273; 100%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (11216; 99%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11042; 98%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (10510; 93%), <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (10339; 92%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (8684; 77%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (8387; 74%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Imp` (763; 7% of non-empty `Aspect`): <em>esošo, notiekošo, esošā, esošajiem, atbilstošu, esošais, radošā, atbilstošas, esošās, atbilstoša</em>
-* `Perf` (10476; 93% of non-empty `Aspect`): <em>pagājušajā, bijis, paredzēts, pagājušā, ziņots, plānots, bijusi, saistīts, minēto, izdevies</em>
-* `EMPTY` (38037): <em>ir, var, varētu, nav, bija, nevar, būs, teica, notiek, saka</em>
+* `Perf` (10510; 93% of non-empty `Aspect`): <em>pagājušajā, bijis, paredzēts, pagājušā, ziņots, plānots, bijusi, saistīts, minēto, izdevies</em>
+* `EMPTY` (38333): <em>ir, var, varētu, nav, bija, nevar, būs, teica, notiek, sāka</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -82,19 +82,19 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
   <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>bijušas</em></td></tr>
 </table>
 
-`Aspect` seems to be **lexical feature** of `VERB`. 95% lemmas (2221) occur only with one value of `Aspect`.
+`Aspect` seems to be **lexical feature** of `VERB`. 95% lemmas (2225) occur only with one value of `Aspect`.
 
 ### `AUX`
 
-199 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Aspect`.
+200 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (199; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (199; 100%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (199; 100%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (199; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (199; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (199; 100%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (197; 99%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (200; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (200; 100%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (200; 100%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (200; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (200; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (200; 100%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (198; 99%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Imp` (2; 1% of non-empty `Aspect`): <em>esoša, esošās</em>
-* `Perf` (197; 99% of non-empty `Aspect`): <em>bijis, bijusi, bijuši, tikusi, ticis, bijušas, bijušo, tikuši, tikušas, bijušajos</em>
-* `EMPTY` (8719): <em>ir, bija, nav, tiek, tika, būtu, būs, būt, esmu, tiks</em>
+* `Perf` (198; 99% of non-empty `Aspect`): <em>bijis, bijusi, bijuši, tikusi, ticis, bijušas, tikuši, bijušo, tikušas, bijušajos</em>
+* `EMPTY` (8783): <em>ir, bija, nav, tiek, tika, būtu, būs, būt, esmu, tiks</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>

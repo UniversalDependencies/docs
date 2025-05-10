@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Tommi A Pirinen.
 
 Repository: [UD_Livvi-KKPP](https://github.com/UniversalDependencies/UD_Livvi-KKPP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udolo_kkpp215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udolo_kkpp216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -136,11 +136,11 @@ these can be found in the training set.
 </ul>
 
 <ul>
-<li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): ei, olla, pidiä, rotie, suaha, voija</li>
+<li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): ei, olla, pidiä, rotie, voija</li>
 </ul>
 
 <ul>
-<li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: olla, pidiä, suaha, voija</li>
+<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: olla, pidiä, voija</li>
 </ul>
 
 <ul>
@@ -152,7 +152,7 @@ these can be found in the training set.
   <ul>
     <li>AUX: oli, on, ollah, voibi, ole, olen, Ongo, olis, pidänyh, voidas</li>
     <li>NOUN: sualis</li>
-    <li>VERB: sanoi, rodieu, sanoo, kuulimo, kuulittogo, pietäh, sanottih, tiezimö, tiezittö, istui</li>
+    <li>VERB: sanoi, pietäh, rodieu, sanoo, kuulimo, kuulittogo, sanottih, tiezimö, tiezittö, istui</li>
   </ul>
   </li>
 </ul>
@@ -178,8 +178,7 @@ these can be found in the training set.
 <ul>
   <li>Part
   <ul>
-    <li>AUX: suannuh</li>
-    <li>VERB: käynnyh, mennyt, tundiettu, järjestäjänny, kehitynnyh, koskijoi, mainittuloin, sanottuu, tulluot</li>
+    <li>VERB: käynnyh, mennyt, tundiettu, järjestäjänny, kehitynnyh, koskijoi, mainittuloin, sanottuu, suannuh, tulluot</li>
   </ul>
   </li>
 </ul>
@@ -204,7 +203,7 @@ these can be found in the training set.
       <li>NUM: kaksi, kolmet</li>
       <li>PRON: hyö, net, sidä, Heil, Minun, Niilöin, heidy, kai, kudamat, kuduat</li>
       <li>PROPN: Petroskois, Petroskoispäi</li>
-      <li>VERB-Fin: kuulimo, kuulittogo, sanottih, tiezimö, tiezittö, lähtiettih, näimö, saneltih, torvittih, avvutetah</li>
+      <li>VERB-Fin: pietäh, kuulimo, kuulittogo, sanottih, tiezimö, tiezittö, lähtiettih, näimö, saneltih, torvittih</li>
       <li>VERB-Part: koskijoi, mainittuloin, tulluot</li>
       <li>X: d’engaa, puččii</li>
     </ul>
@@ -216,9 +215,8 @@ these can be found in the training set.
     <ul>
       <li>ADJ: mustal, valgiel, Toine, bohattu, hyväs, jygei, semmostu, suuri, 30., Arbuamatoi</li>
       <li>ADP: hyväkse</li>
-      <li>AUX: oli, ei, on, voibi, olen, En, Ongo, suannuh, voinoo, voit</li>
+      <li>AUX: oli, ei, on, voibi, olen, En, Ongo, voinoo, voit</li>
       <li>AUX-Fin: oli, on, voibi, olen, Ongo, voinoo, voit</li>
-      <li>AUX-Part: suannuh</li>
       <li>NOUN: virstaa, saari, bobuli-briha, briha, piduhuttu, saaraa, taatto, Arbaituksen, bohattu, häkki</li>
       <li>NOUN-Fin: sualis</li>
       <li>NUM: kolme, seičče, 2010-2014, 2017, kaksi, kolmas, yksi</li>
@@ -226,7 +224,7 @@ these can be found in the training set.
       <li>PROPN: Tverin, Karjalan, Anuksen, Mustonen, Peter, Petroskoin, Suomes, Anuksenlinnas, Karjalah, Karjalas</li>
       <li>VERB: sanoi, rodieu, sanoo, istui, kraassi, kyzyy, menöö, olen, oli, on</li>
       <li>VERB-Fin: sanoi, rodieu, sanoo, istui, kraassi, kyzyy, menöö, olen, oli, on</li>
-      <li>VERB-Part: järjestäjänny, kehitynnyh, sanottuu, tundiettu</li>
+      <li>VERB-Part: järjestäjänny, kehitynnyh, sanottuu, suannuh, tundiettu</li>
       <li>X: piduhuttu</li>
     </ul>
   </li>
@@ -479,8 +477,7 @@ these can be found in the training set.
       <li>AUX: oli, on, ollah, voibi, ei, ole, olen, Ongo, pidänyh, voidu</li>
       <li>AUX-Fin: oli, on, ollah, voibi, ole, olen, Ongo, pidänyh, voit</li>
       <li>NOUN-Fin: sualis</li>
-      <li>VERB: sanoi, pietäh, rodieu, sanoo, kuulimo, kuulittogo, sanottih, tiezimö, tiezittö, istui</li>
-      <li>VERB-Fin: sanoi, rodieu, sanoo, kuulimo, kuulittogo, pietäh, sanottih, tiezimö, tiezittö, istui</li>
+      <li>VERB-Fin: sanoi, pietäh, rodieu, sanoo, kuulimo, kuulittogo, sanottih, tiezimö, tiezittö, istui</li>
       <li>VERB-Part: käynnyh</li>
     </ul>
   </li>
@@ -502,11 +499,10 @@ these can be found in the training set.
 <ul>
   <li>Past
     <ul>
-      <li>AUX: oli, pidänyh, suannuh, voidu</li>
+      <li>AUX: oli, pidänyh, voidu</li>
       <li>AUX-Fin: oli, pidänyh</li>
-      <li>AUX-Part: suannuh</li>
       <li>VERB-Fin: sanoi, sanottih, istui, kraassi, kuulittogo, kuulluh, lähtiettih, oli, saneltih, tiezittö</li>
-      <li>VERB-Part: käynnyh, tundiettu, kehitynnyh, mainittuloin, sanottuu, tulluot</li>
+      <li>VERB-Part: käynnyh, tundiettu, kehitynnyh, mainittuloin, sanottuu, suannuh, tulluot</li>
     </ul>
   </li>
 </ul>
@@ -518,7 +514,7 @@ these can be found in the training set.
       <li>AUX-Fin: on, ollah, voibi, ole, olen, Ongo, olis, voidas, voit</li>
       <li>NOUN-Fin: sualis</li>
       <li>VERB: pietäh, rodieu, sanoo, kyzyy, olen, on, sanou, tulou, avvutetah, ečitäh</li>
-      <li>VERB-Fin: rodieu, pietäh, sanoo, kyzyy, olen, on, sanou, tulou, avvutetah, ečitäh</li>
+      <li>VERB-Fin: pietäh, rodieu, sanoo, kyzyy, olen, on, sanou, tulou, avvutetah, ečitäh</li>
       <li>VERB-Part: järjestäjänny</li>
     </ul>
   </li>
@@ -542,9 +538,6 @@ these can be found in the training set.
 <ul>
   <li>Pass
     <ul>
-      <li>AUX: voidu</li>
-      <li>VERB: pietäh, tundiettu, ečitäh, järjestetäh, kannatetah, kuunneltes, mainittuloin, sanottuu</li>
-      <li>VERB-Fin: pietäh, ečitäh, kannatetah</li>
       <li>VERB-Ger: kuunneltes</li>
       <li>VERB-Part: tundiettu, mainittuloin, sanottuu</li>
     </ul>
@@ -662,13 +655,13 @@ these can be found in the training set.
 <ul>
   <li>3
     <ul>
-      <li>AUX: oli, ei, on, ollah, voibi, Ongo, voidas, voinoo</li>
+      <li>AUX: oli, ei, on, ollah, voibi, Ongo, voidas, voidu, voinoo</li>
       <li>AUX-Fin: oli, on, ollah, voibi, Ongo, voidas, voinoo</li>
       <li>CCONJ: eigo</li>
       <li>NOUN-Fin: sualis</li>
       <li>PRON: häi, hyö, Heil, Hänel, heidy, händy, hänele, hänen, hänes</li>
-      <li>VERB: sanoi, rodieu, sanoo, sanottih, istui, kraassi, kyzyy, lähtiettih, menöö, oli</li>
-      <li>VERB-Fin: sanoi, rodieu, sanoo, sanottih, istui, kraassi, kyzyy, lähtiettih, menöö, oli</li>
+      <li>VERB: sanoi, pietäh, rodieu, sanoo, sanottih, istui, kraassi, kyzyy, lähtiettih, menöö</li>
+      <li>VERB-Fin: sanoi, pietäh, rodieu, sanoo, sanottih, istui, kraassi, kyzyy, lähtiettih, menöö</li>
     </ul>
   </li>
 </ul>
@@ -796,11 +789,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Nom (2)</li>
+      <li>VERB--NOUN-Nom (1)</li>
       <li>VERB--PRON-Nom (1)</li>
       <li>VERB-Fin--NOUN (2)</li>
       <li>VERB-Fin--NOUN-Acc (4)</li>
-      <li>VERB-Fin--NOUN-Nom (59)</li>
+      <li>VERB-Fin--NOUN-Nom (60)</li>
       <li>VERB-Fin--NOUN-Par (5)</li>
       <li>VERB-Fin--PRON-Nom (26)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
@@ -815,11 +808,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Par (2)</li>
+      <li>VERB--NOUN-Par (1)</li>
       <li>VERB-Fin--NOUN-Acc (10)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
       <li>VERB-Fin--NOUN-Nom (6)</li>
-      <li>VERB-Fin--NOUN-Par (27)</li>
+      <li>VERB-Fin--NOUN-Par (28)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
       <li>VERB-Fin--PRON-Gen (6)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>

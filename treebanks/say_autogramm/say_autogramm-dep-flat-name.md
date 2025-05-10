@@ -81,7 +81,7 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 1	kây	kây	INTJ	_	_	12	discourse	_	AlignBegin=392704|AlignEnd=392910|Gloss=eh
 2	hár	hár	ADV	_	_	3	advmod	_	AlignBegin=392910|AlignEnd=393116|Gloss=even
 3	mop	mop	VERB	_	_	12	advcl	_	AlignBegin=393116|AlignEnd=393322|Gloss=surpass
-4	tu	tu	SCONJ	_	_	7	discourse	_	AlignBegin=393322|AlignEnd=393528|Gloss=COMP|Idiom=Yes
+4	tu	tu	SCONJ	_	ExtPos=ADP	7	discourse	_	AlignBegin=393322|AlignEnd=393528|Gloss=COMP|Idiom=Yes
 5	ɗan	ɗan	ADP	_	_	4	fixed	_	AlignBegin=393528|AlignEnd=393734|Gloss=like|InIdiom=Yes
 6	gyáː	gyáː	DET	_	Number=Plur	7	det	_	AlignBegin=393734|AlignEnd=393940|Gloss=Plur
 7	Mádaːkí	Mádaːkí	PROPN	_	_	3	obj	_	AlignBegin=393940|AlignEnd=394146|Gloss=Madaki|Result=Yes

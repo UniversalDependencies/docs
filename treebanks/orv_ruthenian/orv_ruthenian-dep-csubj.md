@@ -65,9 +65,9 @@ The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 7 csubj	color:blue
 1	Велико	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	4	amod	_	wf="Велико"
-2	eсть	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	wf="есть"|SpaceAfter=No
+2	есть	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	wf="есть"|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	wf=","
-4	бꙋдованьe	будованье	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	wf="будованье"
+4	бꙋдованье	будованье	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	wf="будованье"
 5	на	на	ADP	_	_	8	case	_	wf="на"
 6	чюжомъ	чюжий	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	wf="чюжомъ"
 7	закладати	закладати	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	wf="закладати"

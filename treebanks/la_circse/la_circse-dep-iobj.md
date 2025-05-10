@@ -8,12 +8,40 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `iobj`.
+3 nodes (0%) are attached to their parents as `iobj`.
 
-1 instances of `iobj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.
+2 instances of `iobj` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.33333333333333.
 
-The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (2; 67% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 33% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 6 iobj	color:blue
+1	suadeam	suadeo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
+2	hoc	hic	DET	I	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	1	obj	_	LASLAVariant=1|LiLaflcat=p
+3	illis	ille	DET	I	Case=Dat|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Plur|PronType=Dem	6	obl	_	LiLaflcat=p
+4	ego	ego	PRON	E	Case=Nom|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	LiLaflcat=p
+5	in	in	ADP	R	AdpType=Prep	3	case	_	LiLaflcat=i
+6	utrumque	uterque	DET	L	Case=Acc|Gender=Masc,Neut|InflClass=LatPron|Number=Sing|PronType=Ind	1	iobj	_	LiLaflcat=p
+7	quis	qui	PRON	J	Case=Dat|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Plur|PronType=Rel	9	obl:arg	_	LASLAVariant=1|LiLaflcat=p
+8	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	LASLAVariant=1|LiLaflcat=v6
+9	liber	liber	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	3	acl:relcl	_	LASLAVariant=2|LiLaflcat=n6
+10	etiamnum	etiamnunc	ADV	M	Degree=Pos	9	advmod	_	LiLaflcat=i
+11	status	status	NOUN	A4	Case=Nom|Gender=Masc|InflClass=IndEurU|Number=Sing	9	nsubj	_	LASLAVariant=1|LiLaflcat=n4
+12	tibi	tu	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	14	obl	_	LiLaflcat=p
+13	iam	iam	ADV	M	Degree=Pos	14	advmod:tmod	_	LiLaflcat=i
+14	necesse	necesse	ADJ	C6	Degree=Pos|InflClass=Ind	1	conj	_	LiLaflcat=n
+15	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	LASLAVariant=1|LiLaflcat=v6
+16	ferre	fero	VERB	B6	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	14	csubj	_	LiLaflcat=v6
+17	fortunam	fortuna	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	16	obj	_	LiLaflcat=n1
+18	tuam	tuus	DET	F	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	17	det	_	LiLaflcat=n6
+
+~~~
 
 
 ~~~ conllu

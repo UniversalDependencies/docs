@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 10 acl:relcl	color:blue
-1	Ij	ij	INTJ	_	Polarity=Neg	3	orphan	_	_
+1	Ij	ij	INTJ	_	ExtPos=CCONJ|Polarity=Neg	3	orphan	_	_
 2	ko	ko	SCONJ	CS	_	1	fixed	_	_
 3	villjâs	villj	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	3	punct	_	_

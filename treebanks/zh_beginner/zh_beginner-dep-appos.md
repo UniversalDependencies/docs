@@ -46,8 +46,8 @@ The following 6 pairs of parts of speech are connected with `appos`: <tt><a href
 5	篮球	篮球	NOUN	_	_	1	conj	_	SpaceAfter=No|Tone=2_2|Translit=lán_qíu
 6	什么的	什么的	PART	_	_	1	conj	_	Grammar_Target=Yes|SpaceAfter=No|Tone=2_5_5|Translit=shén_me_de
 7	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No|Translit=，
-8	这	这	DET	_	_	9	det	_	Gloss=DEM.PROX|SpaceAfter=No|Tone=4|Translit=zhè
-9	些	些	NOUN	_	_	10	clf	_	Gloss=CLF|SpaceAfter=No|Tone=1|Translit=xiē
+8	这	这	DET	_	_	10	det	_	Gloss=DEM.PROX|SpaceAfter=No|Tone=4|Translit=zhè
+9	些	些	NOUN	_	_	8	clf	_	Gloss=CLF|SpaceAfter=No|Tone=1|Translit=xiē
 10	运动	运动	NOUN	_	_	1	appos	_	SpaceAfter=No|Tone=4_4|Translit=yùn_dòng
 11	他	他	PRON	_	Person=3	13	nsubj	_	SpaceAfter=No|Tone=1|Translit=tā
 12	都	都	ADV	_	_	13	advmod	_	SpaceAfter=No|Tone=1|Translit=dū

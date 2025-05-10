@@ -14,7 +14,7 @@ There are 1 language-specific subtypes of `acl`: <tt><a href="fr_sequoia-dep-acl
 1066 instances of `acl` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.11869158878505.
 
-The following 10 pairs of parts of speech are connected with `acl`: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1006; 94% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (35; 3% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (17; 2% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `acl`: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1005; 94% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (35; 3% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (17; 2% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 10 pairs of parts of speech are connected with `acl`: <tt><a href=
 6	collecteur	collecteur	NOUN	_	Gender=Masc|Number=Sing	2	appos	_	_
 7	de	de	ADP	_	_	8	case	_	_
 8	fonds	fonds	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	_
-9	occulte	occulte	ADJ	_	Number=Sing|Typo=Yes	8	amod	_	CorrectForm=occultes|CorrectNumber=Plur
+9	occulte	occulte	ADJ	_	Number=Sing|Typo=Yes	8	amod	_	CorrectForm=occultes|CorrectNumber=Plur|Gender[ctxt]=Masc
 10	de	de	ADP	_	_	12	case	_	_
 11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	RPR	RPR	PROPN	_	_	8	nmod	_	SpaceAfter=No
@@ -71,7 +71,7 @@ The following 10 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 14 19 acl	color:blue
 1	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
 2	Irakiens	irakien	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
-3	lui	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+3	lui	lui	PRON	_	Emph=No|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
 4	avaient	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	aux:tense	_	_
 5	plongé	plonger	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -84,7 +84,7 @@ The following 10 pairs of parts of speech are connected with `acl`: <tt><a href=
 13	à	à	ADP	_	_	14	case	_	_
 14	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	obl:mod	_	_
 15	qu'	que	SCONJ	_	_	19	mark	_	SpaceAfter=No
-16	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj:pass	_	_
+16	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj:pass	_	_
 17	soit	être	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux:pass	_	_
 18	presque	presque	ADV	_	_	19	advmod	_	_
 19	noyé	noyer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	SpaceAfter=No

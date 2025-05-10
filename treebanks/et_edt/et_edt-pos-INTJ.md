@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>no</em> (<tt><a href="et_edt-pos-INTJ
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.010204 (the average of all parts of speech is 1.912964).
+The form / lemma ratio of `INTJ` is 1.010204 (the average of all parts of speech is 1.913238).
 
 The 1st highest number of forms (2) was observed with the lemma “oi”: <em>oi, oi-oi-joo</em>.
 
@@ -59,12 +59,18 @@ The 2nd highest number of forms (2) was observed with the lemma “vaat”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “Daab-daba-dap”: <em>Daab-daba-dap</em>.
 
-`INTJ` does not occur with any features.
+`INTJ` occurs with 1 features: <tt><a href="et_edt-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
+
+`INTJ` occurs with 1 feature-value pairs: `ExtPos=ADV`
+
+`INTJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (328 tokens).
+Examples: <em>no, noh, oi, ah, issand, nojah, kurat, tere, oh, hei</em>
 
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 9 different relations: <tt><a href="et_edt-dep-discourse.html">discourse</a></tt> (269; 82% instances), <tt><a href="et_edt-dep-root.html">root</a></tt> (30; 9% instances), <tt><a href="et_edt-dep-ccomp.html">ccomp</a></tt> (17; 5% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="et_edt-dep-flat.html">flat</a></tt> (3; 1% instances), <tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="et_edt-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="et_edt-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-obl.html">obl</a></tt> (1; 0% instances)
+`INTJ` nodes are attached to their parents using 9 different relations: <tt><a href="et_edt-dep-discourse.html">discourse</a></tt> (268; 81% instances), <tt><a href="et_edt-dep-root.html">root</a></tt> (30; 9% instances), <tt><a href="et_edt-dep-ccomp.html">ccomp</a></tt> (18; 5% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="et_edt-dep-flat.html">flat</a></tt> (3; 1% instances), <tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="et_edt-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="et_edt-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-obl.html">obl</a></tt> (1; 0% instances)
 
 Parents of `INTJ` nodes belong to 8 different parts of speech: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (156; 47% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (47; 14% instances),  (30; 9% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (22; 7% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (22; 7% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (21; 6% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (18; 5% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (13; 4% instances)
 

@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  خود (<tt><a href="fa_perdt-pos-PRON.ht
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.563636 (the average of all parts of speech is 1.486663).
+The form / lemma ratio of `PRON` is 1.563636 (the average of all parts of speech is 1.486683).
 
 The 1st highest number of forms (7) was observed with the lemma “آنها”: آنها, آنهایی, آن‌ها, آن‌هایی, انها, شان, یشان.
 

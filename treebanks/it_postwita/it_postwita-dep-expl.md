@@ -26,14 +26,14 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 1	@user	@user	SYM	SYM	_	8	vocative	_	_
 2	si	sì	INTJ	I	_	8	discourse	_	CorrectForm=sì
 3	cazzo	cazzo	INTJ	I	_	8	discourse	_	_
-4	c'	ce	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs|Typo=Yes	8	expl	_	CorrectForm=ce|SpaceAfter=No
+4	c'	ce	PRON	PC	Number=Plur|Person=1|PronType=Prs	8	expl	_	Clitic=Yes|CorrectForm=ce|SpaceAfter=No|Typo=Yes
 5	è	_	X	X	_	4	dep	_	_
-6	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+6	la	la	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	Clitic=Yes
 7	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
-9	c'	ce	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs|Typo=Yes	13	expl	_	CorrectForm=ce|SpaceAfter=No
+9	c'	ce	PRON	PC	Number=Plur|Person=1|PronType=Prs	13	expl	_	Clitic=Yes|CorrectForm=ce|SpaceAfter=No|Typo=Yes
 10	è	_	X	X	_	9	dep	_	_
-11	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+11	la	la	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	Clitic=Yes
 12	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
 13	fare	fare	VERB	V	VerbForm=Inf	8	conj	_	SpaceAfter=No
 14	!	!	PUNCT	FS	_	8	punct	_	_
@@ -52,8 +52,8 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 3	:	:	PUNCT	FC	_	2	punct	_	_
 4	Va	Va	INTJ	I	_	8	discourse	_	_
 5	boh	boh	INTJ	I	_	4	discourse	_	_
-6	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	expl	_	_
-7	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	8	expl	_	_
+6	me	me	PRON	PC	Number=Sing|Person=1|PronType=Prs	8	expl	_	Clitic=Yes
+7	ne	ne	PRON	PC	PronType=Prs	8	expl	_	Clitic=Yes
 8	vó	vó	X	SW	Foreign=Yes	0	root	_	_
 9	in	in	ADP	E	_	10	case	_	_
 10	palestra	palestra	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
@@ -78,7 +78,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 4	come	come	ADP	E	_	5	case	_	_
 5	Savonarola	Savonarola	PROPN	SP	_	0	root	_	SpaceAfter=No
 6	?	?	PUNCT	FS	_	5	punct	_	_
-7	Ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	8	iobj	_	_
+7	Ne	ne	PRON	PC	PronType=Prs	8	iobj	_	Clitic=Yes
 8	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
 9	di	di	ADP	E	_	10	case	_	_
 10	strada	strada	NOUN	S	Gender=Fem|Number=Sing	8	dislocated	_	_
@@ -88,7 +88,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 14	http://t.co/ch6X2WcD	http://t.co/ch6X2WcD	SYM	X	_	5	parataxis	_	_
 15	Intanto	intanto	ADV	B	_	20	advmod	_	_
 16	lui	lui	PRON	PE	Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
-17	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	expl	_	SpaceAfter=No
+17	l'	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	expl	_	Clitic=Yes|SpaceAfter=No
 18	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
 19	"	"	PUNCT	FB	_	20	punct	_	_
 20	bugiardino	bugiardino	NOUN	S	Gender=Masc|Number=Sing	5	parataxis	_	_

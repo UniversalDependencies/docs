@@ -56,20 +56,20 @@ The 10 most frequent ambiguous types:  <em>att</em> (<tt><a href="sv_pud-pos-PAR
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.240849).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.245991).
 
-The 1st highest number of forms (1) was observed with the lemma “If”: <em>if</em>.
+The 1st highest number of forms (1) was observed with the lemma “att”: <em>att</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “att”: <em>att</em>.
+The 2nd highest number of forms (1) was observed with the lemma “då”: <em>då</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “då”: <em>då</em>.
+The 3rd highest number of forms (1) was observed with the lemma “eftersom”: <em>eftersom</em>.
 
-`SCONJ` occurs with 1 features: <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt> (46; 13% instances)
+`SCONJ` occurs with 2 features: <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt> (46; 13% instances), <tt><a href="sv_pud-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
 
-`SCONJ` occurs with 1 feature-value pairs: `PronType=Int,Rel`
+`SCONJ` occurs with 2 feature-value pairs: `Foreign=Yes`, `PronType=Int,Rel`
 
-`SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (318 tokens).
+`SCONJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (317 tokens).
 Examples: <em>att, som, om, än, medan, eftersom, innan, fastän, huruvida, då</em>
 
 
@@ -77,7 +77,7 @@ Examples: <em>att, som, om, än, medan, eftersom, innan, fastän, huruvida, då<
 
 `SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (351; 96% instances), <tt><a href="sv_pud-dep-case.html">case</a></tt> (13; 4% instances)
 
-Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (225; 62% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (88; 24% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (24; 7% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (14; 4% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (225; 62% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (89; 24% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (21; 6% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (14; 4% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances)
 
 360 (99%) `SCONJ` nodes are leaves.
 

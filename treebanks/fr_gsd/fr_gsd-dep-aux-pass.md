@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-aux.html">aux</a></tt>.
 There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_gsd-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="fr_gsd-dep-aux-tense.html">aux:tense</a></tt>.
 
-3408 nodes (1%) are attached to their parents as `aux:pass`.
+3409 nodes (1%) are attached to their parents as `aux:pass`.
 
-3405 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25088028169014.
+3406 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25227339395717.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (3406; 100% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (3407; 100% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,7 +58,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 16	plus	plus	ADV	_	_	17	advmod	_	_
 17	symboliquement	symboliquement	ADV	_	_	14	advmod	_	_
 18	par	par	ADP	_	_	20	case	_	_
-19	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	20	det	_	_
+19	son	son	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	20	det	_	_
 20	roi	roi	NOUN	_	Gender=Masc|Number=Sing	14	obl:agent	_	_
 21	Carl	Carl	PROPN	_	_	20	appos	_	_
 22	XVI	XVI	NUM	_	Number=Plur	21	nmod	_	_

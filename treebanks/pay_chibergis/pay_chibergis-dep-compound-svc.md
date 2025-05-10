@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pay_chibergis-dep-compound.html">compound</a></tt>.
 There are also 1 other language-specific subtypes of `compound`: <tt><a href="pay_chibergis-dep-compound-lvc.html">compound:lvc</a></tt>.
 
-47 nodes (2%) are attached to their parents as `compound:svc`.
+80 nodes (2%) are attached to their parents as `compound:svc`.
 
-46 instances of `compound:svc` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.04255319148936.
+79 instances of `compound:svc` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.05.
 
-The following 3 pairs of parts of speech are connected with `compound:svc`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (45; 96% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `compound:svc`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (77; 96% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -50,7 +50,7 @@ The following 3 pairs of parts of speech are connected with `compound:svc`: <tt>
 7	nãa	nã	VERB	_	_	8	compound:svc	_	AlignBegin=123530|AlignEnd=123628|Gloss=go|MGloss=go -S1SG|MSeg=nã-a|nWord=6|RX=[VI]|TokenType=Root|Word=nããpeʔpa|wordform=nã-a
 8	peʔpa	peʔ	VERB	_	Person=1	5	parataxis	_	AlignBegin=123628|AlignEnd=123774|Gloss=bring|MGloss=O3SG- bring -S1SG:FUT|MSeg=Ø-peʔ-pa|nWord=6|RX=[VT]|TokenType=Root|Word=nããpeʔpa|wordform=Ø-peʔ-pa
 9	=hãʔ	=hãʔ	PART	_	_	8	advmod	_	AlignBegin=123774|AlignEnd=124018|Gloss==FOC|MGloss==FOC|MSeg==hãʔ|nWord=7|RX=[PRT]|TokenType=Clit|Word=hãʔ
-10	ã	ã	PRON	_	_	8	obl:mod	_	AlignBegin=124018|AlignEnd=124262|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=8|RX=[PRO]|TokenType=Root|Word=ã
+10	ã	ã	PRON	_	_	8	obl:lmod	_	AlignBegin=124018|AlignEnd=124262|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=8|RX=[PRO]|TokenType=Root|Word=ã
 11	=yã	=yã	ADP	_	_	10	case	_	AlignBegin=124262|AlignEnd=124506|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=9|RX=[POST]|TokenType=Clit|Word=ɲã
 12	.	_	PUNCT	_	_	4	punct	_	AlignBegin=124506|AlignEnd=124751|Gloss=.|MGloss=.|MSeg=.|nWord=10|Word=.
 
@@ -70,7 +70,7 @@ The following 3 pairs of parts of speech are connected with `compound:svc`: <tt>
 5	=yã	=yã	ADP	POST	_	4	case	_	AlignBegin=134688|AlignEnd=135035|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=5|RX=[POST]|TokenType=Clit|Word=ɲã
 6	ã	ã	PRON	PRO	_	4	reparandum	_	AlignBegin=135035|AlignEnd=135382|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=6|RX=[PRO]|TokenType=Root|Word=ã
 7	=yã	=yã	ADP	POST	_	6	case	_	AlignBegin=135382|AlignEnd=135729|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=7|RX=[POST]|TokenType=Clit|Word=ɲã
-8	ke	ke	ADV	ADV	_	6	advmod	_	AlignBegin=135729|AlignEnd=136076|Gloss=already|MGloss=already|MSeg=ke|nWord=8|RX=[ADV]|TokenType=Root|Word=ke
+8	ke	ke	ADV	ADV	_	6	obl:tmod	_	AlignBegin=135729|AlignEnd=136076|Gloss=already|MGloss=already|MSeg=ke|nWord=8|RX=[ADV]|TokenType=Root|Word=ke
 9	ĩ	ĩ	PRON	PRO	_	11	obj	_	AlignBegin=136076|AlignEnd=136423|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=9|RX=[PRO]|TokenType=Root|Word=ĩ
 10	=ɲa	=ɲa	DET	PRT	_	9	compound	_	AlignBegin=136423|AlignEnd=136770|Gloss==INDF|MGloss==INDF|MSeg==ɲa|nWord=10|RX=[PRT]|TokenType=Clit|Word=ɲãh
 11	artʃuiʃ	tʃuiʃ	VERB	V:ANY	VerbForm=Inf|Voice=Appl	12	compound:svc	_	AlignBegin=136770|AlignEnd=136977|Gloss=learn|MGloss=O3SG- APPL.P- learn|MSeg=a-r-tʃuiʃ|nWord=11|RX=[V]|TokenType=Root|Word=artʃuiʃnãa|wordform=a-r-tʃuiʃ

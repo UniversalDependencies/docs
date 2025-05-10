@@ -6,85 +6,95 @@ udver: '2'
 
 ## Treebank Statistics: UD_Bororo-BDT: POS Tags: `PROPN`
 
-There are 96 `PROPN` lemmas (8%), 118 `PROPN` types (6%) and 252 `PROPN` tokens (4%).
-Out of 16 observed tags, the rank of `PROPN` is: 4 in number of lemmas, 5 in number of types and 7 in number of tokens.
+There are 996 `PROPN` lemmas (8%), 1335 `PROPN` types (7%) and 5764 `PROPN` tokens (4%).
+Out of 17 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 5 in number of types and 7 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: <em>_, arigao, Pemo, Bororo, Fabrício, João, Iwagudu, Kejari, Bakororo, Meriri</em>
+The 10 most frequent `PROPN` lemmas: <em>_, pao, bakororo, o, bororo, Eceraedu, ro, Aije, remawu, pemegarewu</em>
 
-The 10 most frequent `PROPN` types:  <em>Arigao, Fabrício, Pemo, Bororo, João, Iwagududoge, Kejari, Aroia, Bakororo, Jakomea</em>
+The 10 most frequent `PROPN` types:  <em>pao, nowu, bakororo, o, bororo, Ecerae, Aije, remawu, pemegarewu, João</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 201, <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> 142, <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> 84, <tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> 64, <tt><a href="bor_bdt-pos-X.html">X</a></tt> 56, <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> 44, <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> 42, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 36, <tt><a href="bor_bdt-pos-DET.html">DET</a></tt> 10, <tt><a href="bor_bdt-pos-PART.html">PART</a></tt> 6, <tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="bor_bdt-pos-ADJ.html">ADJ</a></tt> 1), <em>arigao</em> (<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 21, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 1), <em>Meruri</em> (<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>Deu</em> (<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 3), <em>Torowari</em> (<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>adugo</em> (<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 1), <em>Badojeba</em> (<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 1), <em>Koroia</em> (<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 1), <em>Oieigo</em> (<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 5910, <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> 3398, <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> 1856, <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> 1359, <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> 1308, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 1165, <tt><a href="bor_bdt-pos-X.html">X</a></tt> 926, <tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> 459, <tt><a href="bor_bdt-pos-DET.html">DET</a></tt> 149, <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt> 122, <tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt> 55, <tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt> 30, <tt><a href="bor_bdt-pos-PART.html">PART</a></tt> 29), <em>pao</em> (<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 314, <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> 14, <tt><a href="bor_bdt-pos-X.html">X</a></tt> 6, <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 2), <em>bakororo</em> (<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 2), <em>o</em> (<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 673, <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> 130, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 110, <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> 66), <em>bororo</em> (<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 48, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 18, <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> 2), <em>Eceraedu</em> (<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 85, <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 11), <em>ro</em> (<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> 518, <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 129, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 82, <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> 2, <tt><a href="bor_bdt-pos-ADJ.html">ADJ</a></tt> 1), <em>Aije</em> (<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 73, <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> 4, <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> 1), <em>remawu</em> (<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 67, <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> 28, <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> 12, <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="bor_bdt-pos-X.html">X</a></tt> 1), <em>pemegarewu</em> (<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 18, <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 4)
 
-The 10 most frequent ambiguous types:  <em>Meriri</em> (<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>Meruri</em> (<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>Baru</em> (<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 3), <em>Deu</em> (<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 3), <em>Mano</em> (<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>Adugo</em> (<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 2), <em>Birimodo</em> (<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> 1), <em>Kigadurewy</em> (<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>Kurirewy</em> (<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>Badojeba</em> (<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>pao</em> (<tt><a href="bor_bdt-pos-X.html">X</a></tt> 4, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 3), <em>nowu</em> (<tt><a href="bor_bdt-pos-DET.html">DET</a></tt> 1448, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 231), <em>bakororo</em> (<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> 2, <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>o</em> (<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 171, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 138, <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> 93, <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> 6), <em>bororo</em> (<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 47, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> 2), <em>Ecerae</em> (<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 81, <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> 1), <em>Aije</em> (<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 73, <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> 4, <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> 1), <em>remawu</em> (<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 67, <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> 28, <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="bor_bdt-pos-X.html">X</a></tt> 1), <em>pemegarewu</em> (<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 266, <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 18, <tt><a href="bor_bdt-pos-X.html">X</a></tt> 3), <em>João</em> (<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 63, <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 2)
 
 
-* <em>Meriri</em>
-  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 5: <em>Nowy imedy , iere <b>Meriri</b> Baru , Paiwedu</em>
-  * <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Meriri</b> kurire kuricigore akabo</em>
-* <em>Meruri</em>
-  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 4: <em>Dykodi awy <b>Meruri</b> paru piji cedu toro Korogedu Paru kae</em>
-  * <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 1: <em>Ca nowyge piji ityre mato <b>Meruri</b> paru kae pugeje</em>
-* <em>Baru</em>
-  * <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 7: <em>Icare Birimodo akore : <b>Baru</b> kuru ciri , baru kuru ciri , oinore akore</em>
-  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 3: <em>Nowy imedy , iere Meriri <b>Baru</b> , Paiwedu</em>
-* <em>Deu</em>
-  * <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 14: <em><b>Deu</b> ure tuje , onaregedyre ure tuje</em>
-  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 3: <em><b>Deu</b> ure arigao to , ure kuwaru to , ure tapira to , ure popogo to , ure adugo to jamedy boe ure to</em>
-* <em>Mano</em>
-  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 3: <em>Irore jiboe boe otojiwy <b>Mano</b> rekodajiwy Baiia</em>
-  * <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Mano</b> tody kejere , iwoadymode</em>
-* <em>Adugo</em>
-  * <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 2: <em><b>Adugo</b> aregodyre juko rakojere kejeboe kae</em>
-  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 2: <em>Dykejere eture mato pugeje . <b>Adugo</b> Jari tada , itura kurirewy , ere bato . Emugu raire . <b>Adugo</b> Jari pijire cedyre Bopejao kae</em>
-* <em>Birimodo</em>
-  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 2: <em>Icare <b>Birimodo</b> akore : Baru kuru ciri , baru kuru ciri , oinore akore</em>
-  * <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> 1: <em>Icare <b>Birimodo</b> akore : Kode , nonore iemode , nonore akarumode</em>
-* <em>Kigadurewy</em>
-  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 2: <em>Iwagududoge ere ia Arigao <b>Kigadurewy</b> maky Ino Kuri ai , eno core</em>
-  * <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 1: <em>Boekimo rema ! Arigao <b>Kigadurewy</b> rabody</em>
-* <em>Kurirewy</em>
-  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 2: <em>Ure toiado bai Aroia <b>Kurirewy</b> bure paru to . Boekimo , rema corewy rabodu</em>
-  * <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 1: <em>Boere adygo bito Aroia <b>Kurirewy</b> mori ce</em>
-* <em>Badojeba</em>
-  * <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 1: <em>Dykeje <b>Badojeba</b> Bakoro Kudu uwadodyre akore : Uw , kodire inago oino ... itore tagae , imedymage tagae</em>
-  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 1: <em>Ia imedy , iere Kogae Cereu cedu , Ceraedu , <b>Badojeba</b> Cobugiwu , ure ia kiogorogu towuje , muguwo tumuga to , aroei pudumi dykeje</em>
+* <em>pao</em>
+  * <tt><a href="bor_bdt-pos-X.html">X</a></tt> 4: <em>Ure tugera to pudui <b>pao</b> !</em>
+  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 3: <em>Arego <b>pao</b> ae .</em>
+* <em>nowu</em>
+  * <tt><a href="bor_bdt-pos-DET.html">DET</a></tt> 1448: <em>Du keje icare ure tugera tugu <b>nowu</b> bapoto .</em>
+  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 231: <em>Icare ere tugeragu <b>nowu</b> Ki Bakororo ji , ekodo apo kuri ...</em>
+* <em>bakororo</em>
+  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 2: <em>Oieigo jewetuiiga ojewetu bokodoriware iga oieigo wararere tagaru uia cibaiurewu <b>bakororo</b> tuiagajejewu okwabijire .</em>
+  * <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> 2: <em>Oieigo jewetuiaiga ojewetu bokodoriware iga oieigo wararere tagaru uia aiadugodoge ewadarudodu epa <b>bakororo</b> tuiagajejewu okwabijire .</em>
+  * <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 1: <em>Arowe eregodure , pana <b>bakororo</b> eregodure .</em>
+* <em>o</em>
+  * <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 171: <em>1 Kode , tawiapagado cewu ure boe a tuguwu imedu <b>o</b> bakaru ji ka . 1</em>
+  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 138: <em>Iere Pao <b>o</b> Bataru rema .</em>
+  * <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> 93: <em>Ekuio <b>o</b> <b>o</b> ...</em>
+  * <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> 6: <em>Cegodui ia braedu <b>o</b> Tapera kae .</em>
+* <em>bororo</em>
+  * <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 47: <em>Kuobo kuguia bururi rakare <b>bororo</b> to !</em>
+  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 11: <em>Tawo tawure rerudo <b>bororo</b> aije atugoji ...</em>
+  * <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> 2: <em>Kodo gu tuku <b>bororo</b> okwa kae .</em>
+* <em>Ecerae</em>
+  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 81: <em>Atugo kurirewu <b>Ecerae</b> .</em>
+  * <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 20: <em><b>Ecerae</b> karega ekodure boetoji .</em>
+  * <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> 1: <em>19Arowe ereia <b>Ecerae</b> .</em>
+* <em>Aije</em>
+  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 73: <em>Elias makokare , <b>Aije</b> Kuguri makokare .</em>
+  * <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> 4: <em>Tem ROIAO de <b>Aije</b> .</em>
+  * <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> 1: <em><b>Aije</b> !</em>
+  * <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> 1: <em><b>Aije</b> .</em>
+* <em>remawu</em>
+  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 67: <em>Oino Boe <b>remawu</b> ge erore .</em>
+  * <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> 28: <em>Itaidu <b>remawu</b> nure nowu kuiada kurace .</em>
+  * <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 24: <em>Tori pega <b>remawu</b> nure woe .</em>
+  * <tt><a href="bor_bdt-pos-X.html">X</a></tt> 1: <em>Dukeje icare makore pugeje , pudumi <b>remawu</b> , pudui pugeje , o jokugudunure , tuduwo toro eregodaji .</em>
+* <em>pemegarewu</em>
+  * <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 266: <em>3 Tameardaedo tamuguwo Pao o boe <b>pemegarewu</b> tada du bogai boetoji .</em>
+  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 18: <em>Umode boe <b>pemegarewu</b> arego moto kejewuge etai .</em>
+  * <tt><a href="bor_bdt-pos-X.html">X</a></tt> 3: <em>Pao utugare <b>pemegarewu</b> .</em>
+* <em>João</em>
+  * <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> 63: <em>Itaiwore , nowu finado <b>João</b> Garimpeiro padure ia braedu keje pugeje .</em>
+  * <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> 2: <em>1 Jesus uture Galiléia moto piji , Jordão kae , <b>João</b> bogai , uwo taopegodo .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.229167 (the average of all parts of speech is 1.661916).
+The form / lemma ratio of `PROPN` is 1.340361 (the average of all parts of speech is 1.360106).
 
-The 1st highest number of forms (34) was observed with the lemma “_”: <em>Akaruio, Antonio, Apuie, Aroia, Birimodo, Bokodoriware, Butyregadu, Cereu, Ebowy, Emerao, Fabrício, Gilmar, Ino, Jakomea, José, Kaboreu, Kaborewy, Kadagare, Kodoridureu, Kogae, Kogebowu, Kuri, Kuruguga, Manobaru, Meriribaru, Okoge, Santo, Satanae, Tadugo, Torowari, Tuborebo, Tuguribo, Urugubo, oieigo</em>.
+The 1st highest number of forms (357) was observed with the lemma “_”: <em>!'Jacuba'to, 2Iorduware, 2Mare, 2Oiogwari, 2Paduie, 4Mare, 6Mare, 7Mare, 8Mare, 8Tare, Absinto, Aerduware, Aeto, Aiguio, Aiquio, Akaru, Akarubo, Akaruio, Akuie, Akurubo, Apoguru, Apostolodo, Ararebo, Araru, Araruga, Arerebo, Arodo, Aroia, Aruio, Awudugugo, Awuru, Awuruio, Azul, Bairugo, Bakeraoto, Bakoroakaru, Bakororoia, Bakorororodo, Barubaru, Barubo, Batista, Batistare, Biapagare, Biaruru, Birimodo, Birmodo, Blasto, Boeco, Bokarebo, Bokodoga, Bokodoriware, Boqueraoto, Butugo, Care, Cibaibo, Ciocio, Corinto, Cristo, Diretorarodo, Ecerabaru, Edugo, Eimejerare, Eimejerarodo, Ekuie, Emeraoto, Emoduie, Enawuio, Enogwari, Enoiogwari, Eparu, Erasto, Erewakawuio, Erore'guru, Eugênio, Ewiapagare, Ewiriga, Festo, Goia, Gólgota, Ikuiabaru, Ikuiebo, Inodoguru, Iorubodare, Iparebo, Irojibo, Israel, Iwiapagare, Jakaduio, Jaruru, Jaruruto, Jessé, Jonare, Joruduware, José, Joware, Jurerodo, Jureto, Jurociwuio, Kaborewu, Kadagubo, Kagarubo, Kare, Keoguru, Kewoguru, Kie, Kijibo, Koedugo, Kogebowu, Kogedugo, Koguio, Koguiowuio, Kudorouio, Kugarubo, Kuiadawuio, Kurojibo, Kuruguga, Mare, Maria, Mariguru, Marigurubo, Mata, Meribo, Meriribaru, Meriribo, Meririrbo, Metugubo, Mileto, Missare, Muguio, Nowaboia, Okogebo, Okogebowu, Onaregeduie, Orowaribo, Orowariboia, Pagimejerare, Paoie, Pemegareuie, Piloto, Pirojibo, Preto, Pudumie, Samuel, Taboguru, Tabowu, Tadugo, Taemaru, Taerduware, Taeto, Tamagodo, Tawudugugo, Toduio, Toiogwari, Toriga, Tugare, Tumeartoru, Tururu, Tuwagowu, Uibo, Ukiga, Uruguio, Urukuio, Utoboga, aigo, akie, apo, are, aru, awie, badojebare, baiga, baiporoto, bakaru, bakowu, bakurireuto, bakuru, bapoto, baru, baruto, bataru, bie, birido'ta'nowu, boecoto, boepare, boeto, bokodoribaru, bororoto, burejoia, butudugo, butuie, caminhãoto, cedagaru, cedogeare, ceerduware, cegere'piga'kuru, cemugo, cenaguie, cenoia, cerrado, cewu, ciga, codo, curu, duie, duru, durururu, eto, finado, ga, guru, ia, iga, ioga, ipo, jado, jaruruio, jeonare, jewetuiaiga, jewetuiiga, jewoduie, jewoduio, jo, jodo, joie, jokoduie, jorduware, jorugo, joruto, ju, judeudogeie, jugo, juie, jumento, jureie, kaewu, kaworu, kiarigo, kimoduio, koia, kugo, kuio, kujibo, lmarugo, maereuto, maiwuto, makaguragare, manoto, marenaru, mariguduie, meri, meririe, meto, metuia, meturewoto, mil, moto, motoia, motoiado, mototo, muga, mugatowu, muguie, negedroguie, noidoia, nonoie, nonowu, nowagoroia, noware, nowu, nowugeraduie, o, ogeie, oiado, oie, oieigo, oinowu, okeare, okituware, okware, onare, oreie, oto, owu, padu, paduie, paerduware, pagaboie, pagadoduie, paginorudoduie, pajarugo, paraduio, pare, paruto, pawaboto, pegagoduie, pegamoduie, pegare, pegodo, peioga, pemegadowu, pemegamodeduie, pemegare, pemegareugeie, pijidoduie, pobo, pogodo, porodo, powari, profetare, pudabowu, pudare, puredugoduie, raboduie, raduie, rakaguragare, rakuduie, raru, remawuie, remoduio, reru, reruio, rie, roga, roia, roie, roiware, roreru, roto, rotodo, ru, rugadu, ruio, ruru, sinagoga, tado, tare, tl, to, towu, tugo, tuie, uiaiga, uie, ukeroia, ukuie, umanare, umuguio, unorare, upagare, uporu, uru, utoriga, utugare, utugodo, uwie, woie, wuru</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “Braedugume”: <em>Baraedugume, Braedugume</em>.
+The 2nd highest number of forms (3) was observed with the lemma “Bakororo”: <em>BAKORORO, Bakororo, Bakororodoge</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “Pedro”: <em>Pedro, Pedrore</em>.
+The 3rd highest number of forms (2) was observed with the lemma “Arigao”: <em>Arigao, Arigaodoge</em>.
 
-`PROPN` occurs with 1 features: <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt> (2; 1% instances)
+`PROPN` occurs with 1 features: <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt> (16; 0% instances)
 
 `PROPN` occurs with 1 feature-value pairs: `Mood=Ind`
 
 `PROPN` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (250 tokens).
-Examples: <em>Arigao, Fabrício, Pemo, Bororo, João, Iwagududoge, Kejari, Aroia, Bakororo, Jakomea</em>
+The most frequent feature combination is `_` (5748 tokens).
+Examples: <em>pao, nowu, bakororo, o, bororo, Ecerae, Aije, remawu, pemegarewu, João</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 16 different relations: <tt><a href="bor_bdt-dep-compound.html">compound</a></tt> (51; 20% instances), <tt><a href="bor_bdt-dep-nsubj.html">nsubj</a></tt> (46; 18% instances), <tt><a href="bor_bdt-dep-obl.html">obl</a></tt> (41; 16% instances), <tt><a href="bor_bdt-dep-nmod.html">nmod</a></tt> (29; 12% instances), <tt><a href="bor_bdt-dep-conj.html">conj</a></tt> (24; 10% instances), <tt><a href="bor_bdt-dep-appos.html">appos</a></tt> (14; 6% instances), <tt><a href="bor_bdt-dep-ccomp.html">ccomp</a></tt> (12; 5% instances), <tt><a href="bor_bdt-dep-obj.html">obj</a></tt> (9; 4% instances), <tt><a href="bor_bdt-dep-parataxis.html">parataxis</a></tt> (7; 3% instances), <tt><a href="bor_bdt-dep-dep.html">dep</a></tt> (5; 2% instances), <tt><a href="bor_bdt-dep-flat.html">flat</a></tt> (4; 2% instances), <tt><a href="bor_bdt-dep-root.html">root</a></tt> (4; 2% instances), <tt><a href="bor_bdt-dep-vocative.html">vocative</a></tt> (3; 1% instances), <tt><a href="bor_bdt-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="bor_bdt-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="bor_bdt-dep-nsubj-outer.html">nsubj:outer</a></tt> (1; 0% instances)
+`PROPN` nodes are attached to their parents using 11 different relations: <tt><a href="bor_bdt-dep-nmod.html">nmod</a></tt> (2152; 37% instances), <tt><a href="bor_bdt-dep-flat.html">flat</a></tt> (1182; 21% instances), <tt><a href="bor_bdt-dep-nsubj.html">nsubj</a></tt> (1177; 20% instances), <tt><a href="bor_bdt-dep-obl.html">obl</a></tt> (527; 9% instances), <tt><a href="bor_bdt-dep-root.html">root</a></tt> (305; 5% instances), <tt><a href="bor_bdt-dep-conj.html">conj</a></tt> (245; 4% instances), <tt><a href="bor_bdt-dep-ccomp.html">ccomp</a></tt> (90; 2% instances), <tt><a href="bor_bdt-dep-obj.html">obj</a></tt> (48; 1% instances), <tt><a href="bor_bdt-dep-dep.html">dep</a></tt> (25; 0% instances), <tt><a href="bor_bdt-dep-parataxis.html">parataxis</a></tt> (7; 0% instances), <tt><a href="bor_bdt-dep-advcl.html">advcl</a></tt> (6; 0% instances)
 
-Parents of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (104; 41% instances), <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (79; 31% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (49; 19% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (7; 3% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (4; 2% instances),  (4; 2% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt> (2; 1% instances)
+Parents of `PROPN` nodes belong to 18 different parts of speech: <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (2024; 35% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (1417; 25% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (1236; 21% instances),  (305; 5% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (205; 4% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt> (165; 3% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (154; 3% instances), <tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt> (71; 1% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (58; 1% instances), <tt><a href="bor_bdt-pos-NUM.html">NUM</a></tt> (58; 1% instances), <tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt> (13; 0% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt> (13; 0% instances), <tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (13; 0% instances), <tt><a href="bor_bdt-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="bor_bdt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-113 (45%) `PROPN` nodes are leaves.
+2360 (41%) `PROPN` nodes are leaves.
 
-92 (37%) `PROPN` nodes have one child.
+2129 (37%) `PROPN` nodes have one child.
 
-27 (11%) `PROPN` nodes have two children.
+823 (14%) `PROPN` nodes have two children.
 
-20 (8%) `PROPN` nodes have three or more children.
+452 (8%) `PROPN` nodes have three or more children.
 
-The highest child degree of a `PROPN` node is 11.
+The highest child degree of a `PROPN` node is 9.
 
-Children of `PROPN` nodes are attached using 16 different relations: <tt><a href="bor_bdt-dep-compound.html">compound</a></tt> (57; 25% instances), <tt><a href="bor_bdt-dep-punct.html">punct</a></tt> (47; 20% instances), <tt><a href="bor_bdt-dep-case.html">case</a></tt> (44; 19% instances), <tt><a href="bor_bdt-dep-conj.html">conj</a></tt> (21; 9% instances), <tt><a href="bor_bdt-dep-nmod.html">nmod</a></tt> (13; 6% instances), <tt><a href="bor_bdt-dep-nsubj.html">nsubj</a></tt> (11; 5% instances), <tt><a href="bor_bdt-dep-advmod.html">advmod</a></tt> (7; 3% instances), <tt><a href="bor_bdt-dep-appos.html">appos</a></tt> (7; 3% instances), <tt><a href="bor_bdt-dep-det.html">det</a></tt> (7; 3% instances), <tt><a href="bor_bdt-dep-flat.html">flat</a></tt> (6; 3% instances), <tt><a href="bor_bdt-dep-parataxis.html">parataxis</a></tt> (4; 2% instances), <tt><a href="bor_bdt-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="bor_bdt-dep-discourse.html">discourse</a></tt> (2; 1% instances), <tt><a href="bor_bdt-dep-nsubj-outer.html">nsubj:outer</a></tt> (2; 1% instances), <tt><a href="bor_bdt-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="bor_bdt-dep-mark.html">mark</a></tt> (1; 0% instances)
+Children of `PROPN` nodes are attached using 16 different relations: <tt><a href="bor_bdt-dep-nmod.html">nmod</a></tt> (1506; 28% instances), <tt><a href="bor_bdt-dep-flat.html">flat</a></tt> (1155; 21% instances), <tt><a href="bor_bdt-dep-case.html">case</a></tt> (721; 13% instances), <tt><a href="bor_bdt-dep-punct.html">punct</a></tt> (688; 13% instances), <tt><a href="bor_bdt-dep-nsubj.html">nsubj</a></tt> (597; 11% instances), <tt><a href="bor_bdt-dep-advmod.html">advmod</a></tt> (247; 5% instances), <tt><a href="bor_bdt-dep-det.html">det</a></tt> (197; 4% instances), <tt><a href="bor_bdt-dep-conj.html">conj</a></tt> (178; 3% instances), <tt><a href="bor_bdt-dep-dep.html">dep</a></tt> (40; 1% instances), <tt><a href="bor_bdt-dep-cc.html">cc</a></tt> (10; 0% instances), <tt><a href="bor_bdt-dep-obl.html">obl</a></tt> (10; 0% instances), <tt><a href="bor_bdt-dep-parataxis.html">parataxis</a></tt> (10; 0% instances), <tt><a href="bor_bdt-dep-obj.html">obj</a></tt> (9; 0% instances), <tt><a href="bor_bdt-dep-mark.html">mark</a></tt> (6; 0% instances), <tt><a href="bor_bdt-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="bor_bdt-dep-discourse.html">discourse</a></tt> (1; 0% instances)
 
-Children of `PROPN` nodes belong to 10 different parts of speech: <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (79; 34% instances), <tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (47; 20% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (44; 19% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (36; 16% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (8; 3% instances), <tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (7; 3% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt> (5; 2% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Children of `PROPN` nodes belong to 15 different parts of speech: <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (2024; 38% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (1110; 21% instances), <tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (688; 13% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (674; 13% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (286; 5% instances), <tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (200; 4% instances), <tt><a href="bor_bdt-pos-NUM.html">NUM</a></tt> (131; 2% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt> (89; 2% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (71; 1% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (53; 1% instances), <tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt> (26; 0% instances), <tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="bor_bdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances)
 

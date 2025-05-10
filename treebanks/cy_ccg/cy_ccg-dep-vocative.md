@@ -45,7 +45,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 21	ei	ef	PRON	dep	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
 22	gyfleu	cyfleu	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	20	ccomp	_	SpaceAfter=No
 23	,	,	PUNCT	punct	_	27	punct	_	_
-24	yn	yn	ADP	prep	_	27	advmod	_	_
+24	yn	yn	ADP	prep	ExtPos=ADV	27	advmod	_	_
 25	hytrach	hytrach	ADV	adv	_	24	fixed	_	_
 26	nag	na	ADP	prep	_	27	case	_	_
 27	ymgynghori	ymgynghori	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	22	advcl	_	_

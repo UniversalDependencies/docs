@@ -42,8 +42,8 @@ The following 13 pairs of parts of speech are connected with `dep:comp`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 dep:comp	color:blue
-1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	AlignBegin=13720|AlignEnd=13860
-2	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	4	dep:comp	_	AlignBegin=13860|AlignEnd=14000|SpaceAfter=No
+1	tu	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	AlignBegin=13720|AlignEnd=13860
+2	t'	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	4	dep:comp	_	AlignBegin=13860|AlignEnd=14000|SpaceAfter=No
 3	en	en	PRON	_	Person=3|PronType=Prs	4	obj	_	AlignBegin=14000|AlignEnd=14139
 4	souviens	souvenir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=14139|AlignEnd=14279
 5	encore	encore	ADV	_	_	4	advmod	_	AlignBegin=14279|AlignEnd=14419
@@ -58,7 +58,7 @@ The following 13 pairs of parts of speech are connected with `dep:comp`: <tt><a 
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 20 19 dep:comp	color:blue
-1	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+1	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	reparandum	_	_
 3	vraiment	vraiment	ADV	_	_	2	advmod	_	_
 4	euh	euh	INTJ	_	_	16	discourse	_	_
@@ -72,7 +72,7 @@ The following 13 pairs of parts of speech are connected with `dep:comp`: <tt><a 
 12	pour	pour	ADP	_	_	13	case	_	_
 13	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	16	obl:arg	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	_	_
-15	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+15	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
 16	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	début	début	NOUN	_	Gender=Masc|Number=Sing	16	xcomp	_	_

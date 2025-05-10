@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Sylvain Kahane, Bruno Guillaume, Bernard Caron, Katharine Jiang.
 
 Repository: [UD_Zaar-Autogramm](https://github.com/UniversalDependencies/UD_Zaar-Autogramm)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsay_autogramm215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsay_autogramm216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -72,7 +72,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 
 ## Features
 
-[Aspect](say_autogramm-feat-Aspect.html) – [Definite](say_autogramm-feat-Definite.html) – [Deixis](say_autogramm-feat-Deixis.html) – [Foreign](say_autogramm-feat-Foreign.html) – [Mood](say_autogramm-feat-Mood.html) – [Number](say_autogramm-feat-Number.html) – [PartType](say_autogramm-feat-PartType.html) – [Person](say_autogramm-feat-Person.html) – [Polarity](say_autogramm-feat-Polarity.html) – [Poss](say_autogramm-feat-Poss.html) – [PronType](say_autogramm-feat-PronType.html) – [Reflex](say_autogramm-feat-Reflex.html) – [Tense](say_autogramm-feat-Tense.html) – [VerbForm](say_autogramm-feat-VerbForm.html) – [Voice](say_autogramm-feat-Voice.html)
+[Aspect](say_autogramm-feat-Aspect.html) – [Definite](say_autogramm-feat-Definite.html) – [Deixis](say_autogramm-feat-Deixis.html) – [ExtPos](say_autogramm-feat-ExtPos.html) – [Foreign](say_autogramm-feat-Foreign.html) – [Mood](say_autogramm-feat-Mood.html) – [Number](say_autogramm-feat-Number.html) – [PartType](say_autogramm-feat-PartType.html) – [Person](say_autogramm-feat-Person.html) – [Polarity](say_autogramm-feat-Polarity.html) – [Poss](say_autogramm-feat-Poss.html) – [PronType](say_autogramm-feat-PronType.html) – [Reflex](say_autogramm-feat-Reflex.html) – [Tense](say_autogramm-feat-Tense.html) – [VerbForm](say_autogramm-feat-VerbForm.html) – [Voice](say_autogramm-feat-Voice.html)
 
 ## Relations
 
@@ -141,7 +141,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Vnoun
   <ul>
-    <li>VERB: láːpkə́nì, láːpkə̂n, mbútkə̂n, ʧáːɣə̂n, fíɣə̂n, maráɣə̂n, vyàːɣə̀n, wúmgə̂n, ŋálɣə́nì, ɬyáɣə̂n</li>
+    <li>VERB: láːpkə́nì, láːpkə̂n, ʧáːɣə̂n, mbútkə̂n, fíɣə̂n, wúmgə̂n, maráɣə̂n, tsə́tngə̂n, vyàːɣə̀n, ŋálɣə́nì</li>
   </ul>
   </li>
 </ul>
@@ -465,7 +465,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: yáddiyóːɗan, yandìyóːɗan, yádda, yáddà, yándiyóːɗan, yə́ddà, ɗa, ɗan</li>
+      <li>ADV: yáddiyóːɗan, yandìyóːɗan, yáddà, yándiyóːɗan, yə́ddà, ɗa, ɗan, yádda</li>
       <li>PRON: yóːɗan, gyóːɗan, dàːsóːɗa, yáddà, yóːɗaŋ</li>
       <li>SCONJ: ɗan, ɗa</li>
     </ul>
@@ -568,6 +568,80 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
           <li>PROPN: *Maláːri-íː, Kìmsə́y, Kímsə́y, Kímsə̂y, Súléy, Súːmíː, Vùŋə́y</li>
           <li>VERB: yáːɬíː, láːpkə̂níː, ʧáːɣə̂níː</li>
           <li>VERB-Vnoun: láːpkə̂níː, ʧáːɣə̂níː</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>NOUN: gwaɬkay, naː, ʃéːgè, ʒèy</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADP: á, ɗa, ɗan, ɣá, kàmán, nə́, séː, teː, dón, hár</li>
+          <li>PRON: ʧì</li>
+          <li>SCONJ: tu, ɗan</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: kàmán</li>
+          <li>ADV: dóːlêː, séː, dúk, ngaːláy</li>
+          <li>AUX: átâ</li>
+          <li>DET: kóː</li>
+          <li>PRON: tə</li>
+          <li>VERB: yi</li>
+        </ul>
+      </li>
+      <li>AUX
+        <ul>
+          <li>AUX: yi</li>
+        </ul>
+      </li>
+      <li>INTJ
+        <ul>
+          <li>ADV: tá</li>
+        </ul>
+      </li>
+      <li>NOUN
+        <ul>
+          <li>DET: káp</li>
+          <li>NOUN: naː</li>
+          <li>PART: nə</li>
+          <li>VERB-Vnoun: láːpkə́nì, mbútkə̂n, láːpkə̂n, ʧáːɣə̂n, maráɣə̂n, vyàːɣə̀n, ŋálɣə́nì, ɬyáɣə̂n, fíɣə̂n, gìːɣə̀n</li>
+        </ul>
+      </li>
+      <li>PART
+        <ul>
+          <li>PRON: yâːn</li>
+          <li>SCONJ: tu</li>
+          <li>VERB: wu</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>ADV: yádda</li>
+          <li>DET: gón</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: ɗan, séː</li>
+          <li>ADV: séː</li>
+          <li>SCONJ: ɗan, séː, tu, kàmán, ín, sábòːtu, ìdán</li>
+          <li>VERB: naː</li>
+        </ul>
+      </li>
+      <li>VERB
+        <ul>
+          <li>SCONJ: tu</li>
+          <li>VERB: wul, fí</li>
         </ul>
       </li>
     </ul>

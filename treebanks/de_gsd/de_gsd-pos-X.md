@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-GSD: POS Tags: `X`
 
-There are 154 `X` lemmas (0%), 155 `X` types (0%) and 313 `X` tokens (0%).
+There are 154 `X` lemmas (0%), 155 `X` types (0%) and 312 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 7 in number of lemmas, 8 in number of types and 15 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>'s, b., u.a., %, etc., z.B., a, z., †, u</em>
@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>'s</em> (<tt><a href="de_gsd-pos-X.ht
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.006494 (the average of all parts of speech is 1.191240).
+The form / lemma ratio of `X` is 1.006494 (the average of all parts of speech is 1.193317).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: <em>-, den</em>.
 
@@ -73,17 +73,17 @@ The 3rd highest number of forms (1) was observed with the lemma “%”: <em>%</
 `X` occurs with 15 feature-value pairs: `Abbr=Yes`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Imp`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `VerbForm=Fin`, `VerbForm=Inf`
 
 `X` occurs with 26 feature combinations.
-The most frequent feature combination is `_` (125 tokens).
+The most frequent feature combination is `_` (124 tokens).
 Examples: <em>u.a., etc., z.B., z., †, a, z, *, u, C</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 20 different relations: <tt><a href="de_gsd-dep-dep.html">dep</a></tt> (75; 24% instances), <tt><a href="de_gsd-dep-flat.html">flat</a></tt> (56; 18% instances), <tt><a href="de_gsd-dep-appos.html">appos</a></tt> (47; 15% instances), <tt><a href="de_gsd-dep-compound.html">compound</a></tt> (29; 9% instances), <tt><a href="de_gsd-dep-nmod.html">nmod</a></tt> (24; 8% instances), <tt><a href="de_gsd-dep-conj.html">conj</a></tt> (13; 4% instances), <tt><a href="de_gsd-dep-obl.html">obl</a></tt> (11; 4% instances), <tt><a href="de_gsd-dep-root.html">root</a></tt> (11; 4% instances), <tt><a href="de_gsd-dep-case.html">case</a></tt> (10; 3% instances), <tt><a href="de_gsd-dep-cc.html">cc</a></tt> (10; 3% instances), <tt><a href="de_gsd-dep-acl.html">acl</a></tt> (6; 2% instances), <tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt> (4; 1% instances), <tt><a href="de_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt> (3; 1% instances), <tt><a href="de_gsd-dep-obj.html">obj</a></tt> (3; 1% instances), <tt><a href="de_gsd-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="de_gsd-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="de_gsd-dep-ccomp.html">ccomp</a></tt> (2; 1% instances), <tt><a href="de_gsd-dep-goeswith.html">goeswith</a></tt> (2; 1% instances), <tt><a href="de_gsd-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-mark.html">mark</a></tt> (1; 0% instances)
+`X` nodes are attached to their parents using 20 different relations: <tt><a href="de_gsd-dep-dep.html">dep</a></tt> (75; 24% instances), <tt><a href="de_gsd-dep-flat.html">flat</a></tt> (56; 18% instances), <tt><a href="de_gsd-dep-appos.html">appos</a></tt> (47; 15% instances), <tt><a href="de_gsd-dep-compound.html">compound</a></tt> (29; 9% instances), <tt><a href="de_gsd-dep-nmod.html">nmod</a></tt> (24; 8% instances), <tt><a href="de_gsd-dep-conj.html">conj</a></tt> (13; 4% instances), <tt><a href="de_gsd-dep-obl.html">obl</a></tt> (11; 4% instances), <tt><a href="de_gsd-dep-root.html">root</a></tt> (11; 4% instances), <tt><a href="de_gsd-dep-case.html">case</a></tt> (10; 3% instances), <tt><a href="de_gsd-dep-cc.html">cc</a></tt> (9; 3% instances), <tt><a href="de_gsd-dep-acl.html">acl</a></tt> (6; 2% instances), <tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt> (4; 1% instances), <tt><a href="de_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt> (3; 1% instances), <tt><a href="de_gsd-dep-obj.html">obj</a></tt> (3; 1% instances), <tt><a href="de_gsd-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="de_gsd-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="de_gsd-dep-ccomp.html">ccomp</a></tt> (2; 1% instances), <tt><a href="de_gsd-dep-goeswith.html">goeswith</a></tt> (2; 1% instances), <tt><a href="de_gsd-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 14 different parts of speech: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (87; 28% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (63; 20% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (62; 20% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (45; 14% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (17; 5% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (14; 4% instances),  (11; 4% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `X` nodes belong to 14 different parts of speech: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (87; 28% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (63; 20% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (62; 20% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (45; 14% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (16; 5% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (14; 4% instances),  (11; 4% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-179 (57%) `X` nodes are leaves.
+178 (57%) `X` nodes are leaves.
 
 55 (18%) `X` nodes have one child.
 

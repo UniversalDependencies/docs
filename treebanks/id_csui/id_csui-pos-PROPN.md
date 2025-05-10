@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>Bank</em> (<tt><a href="id_csui-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000838 (the average of all parts of speech is 1.085880).
+The form / lemma ratio of `PROPN` is 1.000838 (the average of all parts of speech is 1.085628).
 
 The 1st highest number of forms (2) was observed with the lemma “A”: <em>A, A+idn</em>.
 

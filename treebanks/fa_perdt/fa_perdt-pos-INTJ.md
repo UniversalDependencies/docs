@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  یعنی (<tt><a href="fa_perdt-pos-INTJ.
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.012346 (the average of all parts of speech is 1.486663).
+The form / lemma ratio of `INTJ` is 1.012346 (the average of all parts of speech is 1.486683).
 
 The 1st highest number of forms (2) was observed with the lemma “انگار”: انگار, انگاری.
 

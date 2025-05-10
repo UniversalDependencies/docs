@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs_fictree-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.196429 (the average of all parts of speech is 1.968999).
+The form / lemma ratio of `ADP` is 1.196429 (the average of all parts of speech is 1.968575).
 
 The 1st highest number of forms (2) was observed with the lemma “bez”: <em>bez, beze</em>.
 
@@ -61,12 +61,12 @@ The 2nd highest number of forms (2) was observed with the lemma “k”: <em>k, 
 
 The 3rd highest number of forms (2) was observed with the lemma “kromě”: <em>krom, kromě</em>.
 
-`ADP` occurs with 2 features: <tt><a href="cs_fictree-feat-AdpType.html">AdpType</a></tt> (12317; 100% instances), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt> (12313; 100% instances)
+`ADP` occurs with 3 features: <tt><a href="cs_fictree-feat-AdpType.html">AdpType</a></tt> (12317; 100% instances), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt> (12313; 100% instances), <tt><a href="cs_fictree-feat-ExtPos.html">ExtPos</a></tt> (20; 0% instances)
 
-`ADP` occurs with 9 feature-value pairs: `AdpType=Comprep`, `AdpType=Prep`, `AdpType=Voc`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`
+`ADP` occurs with 10 feature-value pairs: `AdpType=Comprep`, `AdpType=Prep`, `AdpType=Voc`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `ExtPos=ADP`
 
-`ADP` occurs with 12 feature combinations.
-The most frequent feature combination is `AdpType=Prep|Case=Loc` (3465 tokens).
+`ADP` occurs with 17 feature combinations.
+The most frequent feature combination is `AdpType=Prep|Case=Loc` (3454 tokens).
 Examples: <em>v, na, po, o, při</em>
 
 

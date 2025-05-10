@@ -43,7 +43,7 @@ The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 6	fgColor:white
 # visual-style 6 12 parataxis	color:blue
 1	Маме	мам	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	6	nsubj	_	OrigLang=ru|Note=CheckAll
-2	вед	вед	PART	Pcle	_	1	advmod:mmod	_	_
+2	вед	вед	PART	Pcle	_	1	advmod	_	_
 3	сэчем	сэчем	ADV	Adv	_	6	advmod	_	_
 4	же	жӧ	PART	Pcle	_	3	advmod	_	OrigLang=ru
 5	гӧг	гӧг	NOUN	N	Case=Nom|Number=Sing	6	compound	_	_

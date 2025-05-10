@@ -60,9 +60,9 @@ The 2nd highest number of forms (8) was observed with the lemma “jie”: <em>j
 
 The 3rd highest number of forms (5) was observed with the lemma “ji”: <em>ja, jai, ji, jos, ją</em>.
 
-`PRON` occurs with 4 features: <tt><a href="lt_hse-feat-Case.html">Case</a></tt> (233; 92% instances), <tt><a href="lt_hse-feat-Number.html">Number</a></tt> (208; 82% instances), <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt> (145; 57% instances), <tt><a href="lt_hse-feat-Person.html">Person</a></tt> (130; 51% instances)
+`PRON` occurs with 5 features: <tt><a href="lt_hse-feat-Case.html">Case</a></tt> (233; 92% instances), <tt><a href="lt_hse-feat-Number.html">Number</a></tt> (208; 82% instances), <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt> (145; 57% instances), <tt><a href="lt_hse-feat-Person.html">Person</a></tt> (130; 51% instances), <tt><a href="lt_hse-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`PRON` occurs with 13 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`
+`PRON` occurs with 14 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `ExtPos=ADV`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`
 
 `PRON` occurs with 53 feature combinations.
 The most frequent feature combination is `Case=Gen|Gender=Masc|Number=Sing` (23 tokens).

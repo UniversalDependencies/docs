@@ -26,8 +26,8 @@ The following 10 pairs of parts of speech are connected with `aux`: <tt><a href=
 1	DENIC	DENIC	PROPN	NE	Case=Nom|Number=Sing	6	nsubj	_	_
 2	will	wollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	6	aux	_	_
 3	bei	bei	ADP	APPR	AdpType=Prep|Case=Dat	4	case	_	_
-4	Domainstreit	Streit	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	_
-5	Richterspruch	Spruch	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+4	Domainstreit	Domainstreit	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	_
+5	Richterspruch	Richterspruch	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
 6	abwarten	abwarten	VERB	VVINF	VerbForm=Inf	0	root	_	_
 
 ~~~
@@ -43,7 +43,7 @@ The following 10 pairs of parts of speech are connected with `aux`: <tt><a href=
 2	wären	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 3	3500	3500	NUM	CARD	Number=Plur|NumType=Card	4	nummod	_	_
 4	Mark	Mark	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	_
-5	Anwaltskosten	Kosten	NOUN	NN	Gender=Neut|Number=Plur	4	appos	_	_
+5	Anwaltskosten	Anwaltskosten	NOUN	NN	Gender=Neut|Number=Plur	4	appos	_	_
 6	fällig	fällig	ADJ	ADJD	Degree=Pos|Variant=Short	7	advmod	_	_
 7	geworden	werden	AUX	VAPP	Aspect=Perf|VerbForm=Part	0	root	_	_
 8	.	.	PUNCT	$.	PunctType=Peri	7	punct	_	_

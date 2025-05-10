@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="uk_parlamint-dep-aux-pass.html">aux:pass</a></tt>.
 
-201 nodes (0%) are attached to their parents as `aux`.
+372 nodes (0%) are attached to their parents as `aux`.
 
-151 instances of `aux` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.27860696517413.
+273 instances of `aux` (73%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.29838709677419.
 
-The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (194; 97% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (7; 3% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (357; 96% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (10; 3% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,26 +39,44 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 12 aux	color:blue
-1	Друге	другий	NOUN	NUM	Case=Nom|Gender=Neut|Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
-2	:	:	PUNCT	PUNCT	_	4	punct	_	_
-3	якщо	якщо	SCONJ	SCONJ	_	4	mark	_	_
-4	лунають	лунати	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
-5	такі	такий	DET	DET	Case=Nom|Number=Plur|PronType=Dem	7	det	_	_
-6	серйозні	серйозний	ADJ	ADJ	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
-7	звинувачення	звинувачення	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	SpaceAfter=No
-8	,	,	PUNCT	PUNCT	_	4	punct	_	_
-9	то	то	SCONJ	PART	_	10	mark	_	_
-10	потрібно	потрібно	ADV	ADV	Degree=Pos	1	parataxis	_	_
-11	було	бути	AUX	AUX	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	cop	_	_
-12	б	б	AUX	AUX	Mood=Cnd	10	aux	_	_
-13	побачити	побачити	VERB	VERB	Aspect=Perf|VerbForm=Inf	10	csubj	_	_
-14	факти	факт	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	obj	_	SpaceAfter=No
-15	.	.	PUNCT	PUNCT	_	10	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 aux	color:blue
+1	Це	це	PRON	PRON	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	було	бути	AUX	AUX	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	cop	_	_
+3	б	б	AUX	AUX	Mood=Cnd	4	aux	_	_
+4	логічно	логічно	ADV	ADV	Degree=Pos	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 15 aux	color:blue
+1	Наші	наш	DET	DET	Case=Nom|Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+2	стратегічні	стратегічний	ADJ	ADJ	Case=Nom|Number=Plur	3	amod	_	_
+3	партнери	партнер	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+4	мають	мати	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	потужний	потужний	ADJ	ADJ	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+6	військовий	військовий	ADJ	ADJ	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	amod	_	_
+7	потенціал	потенціал	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+8	і	і	CCONJ	CCONJ	_	17	cc	_	_
+9	їхня	їхній	DET	DET	Case=Nom|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	присутність	присутність	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
+11	в	в	ADP	ADP	Case=Loc	13	case	_	_
+12	Чорному	чорний	ADJ	ADJ	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	морі	море	NOUN	NOUN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	nmod	_	_
+14	була	бути	AUX	AUX	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	17	cop	_	_
+15	би	би	AUX	AUX	Mood=Cnd	17	aux	_	_
+16	стабілізуючим	стабілізуючий	ADJ	ADJ	Aspect=Imp|BadStyle=Yes|Case=Ins|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	17	amod	_	_
+17	фактором	фактор	NOUN	NOUN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+18	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

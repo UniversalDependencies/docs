@@ -32,7 +32,7 @@ The following 35 pairs of parts of speech are connected with `advcl`: <tt><a hre
 8	sem	sem	ADP	_	_	9	mark	_	_
 9	parar	parar	VERB	_	VerbForm=Inf	7	advcl	_	SpaceAfter=No
 10	…	…	PUNCT	_	_	7	punct	_	_
-11	#CPIdaPTbras	#CPIdaPTbras	X	_	_	7	parataxis	_	SpaceAfter=No
+11	#CPIdaPTbras	#CPIdaPTbras	X	_	_	7	parataxis	_	_
 
 ~~~
 
@@ -56,7 +56,7 @@ The following 35 pairs of parts of speech are connected with `advcl`: <tt><a hre
 11	em	em	ADP	_	_	13	case	_	_
 12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	momento	momento	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~
 
@@ -77,7 +77,7 @@ The following 35 pairs of parts of speech are connected with `advcl`: <tt><a hre
 8	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 9	sinal	sinal	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 10	ruim	ruim	ADJ	_	Number=Sing	9	amod	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~
 

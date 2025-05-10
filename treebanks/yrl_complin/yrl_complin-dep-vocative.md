@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-106 nodes (1%) are attached to their parents as `vocative`.
+125 nodes (1%) are attached to their parents as `vocative`.
 
-77 instances of `vocative` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.61320754716981.
+88 instances of `vocative` (70%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.432.
 
-The following 12 pairs of parts of speech are connected with `vocative`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (62; 58% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (9; 8% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (9; 8% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (7; 7% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `vocative`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (79; 63% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (10; 8% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (9; 7% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (7; 6% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -39,6 +39,28 @@ The following 12 pairs of parts of speech are connected with `vocative`: <tt><a 
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 3 vocative	color:blue
+1	Indé	indé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	SpaceAfter=No|TokenRange=0:4
+2	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=4:5
+3	Jesus	jesus	PROPN	PROPN	_	8	vocative	_	SpaceAfter=No|TokenRange=6:11
+4	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=11:12
+5	yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=13:17
+6	ruixawa	tuixawa	NOUN	N	Number=Sing|Rel=Cont	3	appos	_	SpaceAfter=No|TokenRange=18:25
+7	,	,	PUNCT	PUNCT	_	6	punct	_	TokenRange=25:26
+8	rexari	xari	VERB	V	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=27:33
+9	yaú	ú	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	8	ccomp	_	TokenRange=34:37
+10	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|PronType=Prs	9	obl	_	TokenRange=38:40
+11	irumu	irumu	ADP	ADP	AdpType=Post	10	case	_	SpaceAfter=No|TokenRange=41:46
+12	.	.	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No|TokenRange=46:47
+
+~~~
+
+
+~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 4	bgColor:blue
@@ -53,28 +75,6 @@ The following 12 pairs of parts of speech are connected with `vocative`: <tt><a 
 7	iwaka	iwaka	NOUN	N	Number=Sing	4	obl	_	TokenRange=29:34
 8	kití	kití	ADP	ADP	AdpType=Post	7	case	_	SpaceAfter=No|TokenRange=35:39
 9	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=39:40
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 3 vocative	color:blue
-1	Indé	indé	PRON	PRON	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	SpaceAfter=No|TokenRange=0:4
-2	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=4:5
-3	Jesus	jesus	PROPN	PROPN	_	8	vocative	_	SpaceAfter=No|TokenRange=6:11
-4	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=11:12
-5	yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=13:17
-6	ruixawa	tuixawa	NOUN	N	Number=Sing|Rel=Cont	1	appos	_	SpaceAfter=No|TokenRange=18:25
-7	,	,	PUNCT	PUNCT	_	6	punct	_	TokenRange=25:26
-8	rexari	xari	VERB	V	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=27:33
-9	yaú	ú	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	8	ccomp	_	TokenRange=34:37
-10	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|PronType=Prs	9	obl	_	TokenRange=38:40
-11	irumu	irumu	ADP	ADP	AdpType=Post	10	case	_	SpaceAfter=No|TokenRange=41:46
-12	.	.	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No|TokenRange=46:47
 
 ~~~
 

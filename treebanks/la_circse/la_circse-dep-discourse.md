@@ -8,26 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-136 nodes (1%) are attached to their parents as `discourse`.
+173 nodes (1%) are attached to their parents as `discourse`.
 
-107 instances of `discourse` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.93382352941176.
+133 instances of `discourse` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.60115606936416.
 
-The following 11 pairs of parts of speech are connected with `discourse`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (61; 45% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-INTJ.html">INTJ</a></tt> (26; 19% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (23; 17% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (10; 7% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-INTJ.html">INTJ</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `discourse`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (79; 46% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-INTJ.html">INTJ</a></tt> (37; 21% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (26; 15% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (11; 6% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-INTJ.html">INTJ</a></tt> (3; 2% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-INTJ.html">INTJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 2 discourse	color:blue
-1	animos	animus	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	6	obj	_	LiLaflcat=n2
-2	ne	ne	PART	O	PartType=Int	6	discourse	_	LASLAVariant=2|LiLaflcat=i
-3	mersus	mergo	VERB	B3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	5	acl	_	LiLaflcat=v3
-4	inferis	inferi	NOUN	A2	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur	3	obl	_	LiLaflcat=n2
-5	coniunx	coniux	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	6	nsubj	_	LiLaflcat=n3
-6	facit	facio	VERB	B5	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v5
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 1 discourse	color:blue
+1	num	num	PART	O	PartType=Int|Polarity=Neg	8	discourse	_	LiLaflcat=i
+2	quid	quid	ADV	O	PronType=Int	8	advmod	_	LiLaflcat=i
+3	Hesperii	hesperius	ADJ	C1	Case=Gen|Degree=Pos|Gender=Neut|InflClass=IndEurO|NameType=Geo|Number=Sing	4	amod	_	LASLAVariant=A|LiLaflcat=n6
+4	maris	mare	NOUN	A3	Case=Gen|Gender=Neut|InflClass=IndEurI|Number=Sing	6	nmod	_	LiLaflcat=n3
+5	extrema	exter	ADJ	C1	Case=Nom|Degree=Abs|Gender=Fem|InflClass=IndEurA|Number=Sing	6	amod	_	LiLaflcat=n6
+6	tellus	tellus	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	8	nsubj	_	LiLaflcat=n3
+7	hunc	hic	DET	I	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	10	det	_	LASLAVariant=1|LiLaflcat=p
+8	dat	do	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v1
+9	Oceano	oceanus	PROPN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|NameType=Geo|Number=Sing	8	obl:arg	_	LASLAVariant=N|LiLaflcat=n2
+10	modum	modus	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	8	obj	_	LiLaflcat=n2
 
 ~~~
 
@@ -56,16 +60,17 @@ The following 11 pairs of parts of speech are connected with `discourse`: <tt><a
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 discourse	color:blue
-1	famuli	famulus	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur	0	root	_	LASLAVariant=1|LiLaflcat=n2
-2	ne	ne	PART	O	PartType=Int	1	discourse	_	LASLAVariant=2|LiLaflcat=i
-3	fuerant	sum	AUX	B6	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin	1	cop	_	LASLAVariant=1|LiLaflcat=v6
-4	ante	ante	ADV	M	Degree=Pos	1	advmod:tmod	_	LiLaflcat=i
-5	quam	quam	SCONJ	T	_	6	mark	_	LiLaflcat=i
-6	fierent	fio	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl:cmp	_	LiLaflcat=v6
-7	dei	deus	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur	6	xcomp	_	LiLaflcat=n2
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 discourse	color:blue
+1	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	LASLAVariant=1|LiLaflcat=v6
+2	ne	ne	PART	O	PartType=Int	4	discourse	_	LASLAVariant=2|LiLaflcat=i
+3	aliqua	aliquis	PRON	L	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind	4	det	_	LiLaflcat=p
+4	tellus	tellus	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	0	root	_	LiLaflcat=n3
+5	Cereris	ceres	PROPN	A3	Case=Gen|Gender=Fem|InflClass=IndEurX|NameType=Rel|Number=Sing	8	nmod	_	LASLAVariant=N|LiLaflcat=n3
+6	aut	aut	CCONJ	S	_	7	cc	_	LiLaflcat=i
+7	Bacchi	bacchus	PROPN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Rel|Number=Sing	5	conj	_	LASLAVariant=N|LiLaflcat=n2
+8	ferax	ferax	ADJ	C5	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	4	amod	_	LiLaflcat=n7
 
 ~~~
 

@@ -35,7 +35,13 @@ The 2nd highest number of forms (1) was observed with the lemma “додето�
 
 The 3rd highest number of forms (1) was observed with the lemma “докато”: <em>докато</em>.
 
-`SCONJ` does not occur with any features.
+`SCONJ` occurs with 1 features: <tt><a href="bg_btb-feat-ExtPos.html">ExtPos</a></tt> (9; 1% instances)
+
+`SCONJ` occurs with 2 feature-value pairs: `ExtPos=ADV`, `ExtPos=SCONJ`
+
+`SCONJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (1597 tokens).
+Examples: <em>че, ако, като, докато, щом, понеже, дорде, Следователно, додето</em>
 
 
 ## Relations

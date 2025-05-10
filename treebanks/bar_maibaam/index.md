@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Verena Blaschke, Barbara Kovačić, Siyao Peng, Miriam Winkler, Barbara Plank.
 
 Repository: [UD_Bavarian-MaiBaam](https://github.com/UniversalDependencies/UD_Bavarian-MaiBaam)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbar_maibaam215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbar_maibaam216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 

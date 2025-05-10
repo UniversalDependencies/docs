@@ -47,7 +47,7 @@ The following 21 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 4 1 csubj	color:blue
 1	Zadržet	zadržet	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	4	csubj	4:csubj	_
 2	je	být	AUX	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	_
-3	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	1:obj	_
+3	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	1:obj	_
 4	možno	možný	ADJ	ACNS------A----	Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short	0	root	0:root	_
 5	jen	jen	PART	TT-------------	_	7	advmod:emph	7:advmod:emph	_
 6	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	7	case	7:case	_

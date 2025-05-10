@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-CLTT: POS Tags: `ADV`
 
-There are 132 `ADV` lemmas (5%), 136 `ADV` types (3%) and 775 `ADV` tokens (2%).
+There are 133 `ADV` lemmas (5%), 136 `ADV` types (3%) and 775 `ADV` tokens (2%).
 Out of 15 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>dále, zejména, popřípadě, jinak, pouze, kdy, pozdě, též, například, tak</em>
@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  <em>tak</em> (<tt><a href="cs_cltt-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.030303 (the average of all parts of speech is 1.709632).
+The form / lemma ratio of `ADV` is 1.022556 (the average of all parts of speech is 1.709027).
 
 The 1st highest number of forms (2) was observed with the lemma “brzy”: <em>dříve, nejdříve</em>.
 
@@ -56,12 +56,12 @@ The 2nd highest number of forms (2) was observed with the lemma “hodně”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “málo”: <em>méně, nejméně</em>.
 
-`ADV` occurs with 5 features: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt> (276; 36% instances), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt> (276; 36% instances), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt> (76; 10% instances), <tt><a href="cs_cltt-feat-NumType.html">NumType</a></tt> (14; 2% instances), <tt><a href="cs_cltt-feat-Abbr.html">Abbr</a></tt> (3; 0% instances)
+`ADV` occurs with 6 features: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt> (276; 36% instances), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt> (276; 36% instances), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt> (76; 10% instances), <tt><a href="cs_cltt-feat-NumType.html">NumType</a></tt> (14; 2% instances), <tt><a href="cs_cltt-feat-ExtPos.html">ExtPos</a></tt> (4; 1% instances), <tt><a href="cs_cltt-feat-Abbr.html">Abbr</a></tt> (3; 0% instances)
 
-`ADV` occurs with 13 feature-value pairs: `Abbr=Yes`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `NumType=Mult`, `NumType=Ord`, `Polarity=Neg`, `Polarity=Pos`, `PronType=Dem`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Rel`, `PronType=Tot`
+`ADV` occurs with 15 feature-value pairs: `Abbr=Yes`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `ExtPos=ADP`, `ExtPos=ADV`, `NumType=Mult`, `NumType=Ord`, `Polarity=Neg`, `Polarity=Pos`, `PronType=Dem`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Rel`, `PronType=Tot`
 
-`ADV` occurs with 13 feature combinations.
-The most frequent feature combination is `_` (415 tokens).
+`ADV` occurs with 16 feature combinations.
+The most frequent feature combination is `_` (414 tokens).
 Examples: <em>dále, zejména, popřípadě, jinak, pouze, též, například, celkem, alespoň, již</em>
 
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 15 different values: `Abe`, `Abl`, `Acc`, `Ade`, `All`, `Com`, `Ela`, `Ess`, `Gen`, `Ill`, `Ine`, `Ins`, `Nom`, `Par`, `Tra`.
 
-9446 tokens (49%) have a non-empty value of `Case`.
-6350 types (77%) occur at least once with a non-empty value of `Case`.
-3901 lemmas (75%) occur at least once with a non-empty value of `Case`.
-The feature is used with 10 part-of-speech tags: <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (5042; 26% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (1280; 7% instances), <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (1042; 5% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (965; 5% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (942; 5% instances), <tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (83; 0% instances), <tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (81; 0% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="fi_ood-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="fi_ood-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+9443 tokens (49%) have a non-empty value of `Case`.
+6346 types (77%) occur at least once with a non-empty value of `Case`.
+3898 lemmas (75%) occur at least once with a non-empty value of `Case`.
+The feature is used with 10 part-of-speech tags: <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (5042; 26% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (1280; 7% instances), <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (1041; 5% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (966; 5% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (942; 5% instances), <tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (83; 0% instances), <tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (81; 0% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="fi_ood-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fi_ood-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -78,9 +78,9 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PRON`
 
-1042 <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
+1041 <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="fi_ood-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (870; 83%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (834; 80%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="fi_ood-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (869; 83%), <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (833; 80%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -91,7 +91,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Com` (1; 0% of non-empty `Case`): <em>kaikkine</em>
 * `Ela` (58; 6% of non-empty `Case`): <em>siitä, josta, tästä, jostain, näistä, itsestään, joista, kaikesta, niistä, Mistäkö</em>
 * `Ess` (8; 1% of non-empty `Case`): <em>tänä, itsenä, joinakin, muina, tänäkään</em>
-* `Gen` (179; 17% of non-empty `Case`): <em>sen, tämän, jonka, hänen, meidän, minun, heidän, kaiken, jonkin, minkä</em>
+* `Gen` (178; 17% of non-empty `Case`): <em>sen, tämän, jonka, hänen, meidän, minun, heidän, jonkin, kaiken, minkä</em>
 * `Ill` (37; 4% of non-empty `Case`): <em>siihen, tähän, johon, samaan, jonne, kaikkeen, muihin, noihin, häneen, itseensä</em>
 * `Ine` (50; 5% of non-empty `Case`): <em>jossa, siinä, tässä, missä, jossain, muissa, Missähän, Noissa, hänessä, joissa</em>
 * `Ins` (6; 1% of non-empty `Case`): <em>molemmin, monin, samoin</em>
@@ -111,9 +111,9 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `PROPN`
 
-965 <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+966 <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (943; 98%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="fi_ood-feat-Number.html">Number</a></tt><tt>=Sing</tt> (944; 98%).
 
 `PROPN` tokens may have the following values of `Case`:
 
@@ -125,8 +125,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Ill` (23; 2% of non-empty `Case`): <em>Guineaan, Saksaan, Uuteen, suomeen, Alankomaihin, Australiaan, Brasiliaan, Britanniaan, Dubaihin, Espanjaan</em>
 * `Ine` (38; 4% of non-empty `Case`): <em>suomessa, Aurassa, Sidessä, @antroblogi'ssa, Aasiassa, Alanyassakin, Amerikassa, Barcelonassa, Bilbaossa, Dubaissa</em>
 * `Nom` (614; 64% of non-empty `Case`): <em>furesis, Esko, Tymppis, the, sp., Suomi, noradrenalina, America, Captain, Nooa</em>
-* `Par` (47; 5% of non-empty `Case`): <em>furesista, Oxanestia, Eskoa, Bachia, Nitroa, Opamoxia, Stesolidia, Abbodopia, Allieta, Ativania</em>
-* `EMPTY` (1): <em>Opamoxia</em>
+* `Par` (48; 5% of non-empty `Case`): <em>furesista, Oxanestia, Eskoa, Opamoxia, Bachia, Nitroa, Stesolidia, Abbodopia, Allieta, Ativania</em>
 
 <table>
   <tr><th>Paradigm <i>Suomi</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Par</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th></tr>
@@ -229,18 +228,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 * `Ill` (1; 17% of non-empty `Case`): <em>kipuun</em>
 * `Ins` (1; 17% of non-empty `Case`): <em>hoitolinjoin</em>
 * `Nom` (2; 33% of non-empty `Case`): <em>aika, kumma</em>
-* `EMPTY` (1972): <em>myös, niin, hyvin, nyt, ok, kuitenkin, jo, vain, hieman, paljon</em>
-
-### `X`
-
-4 <tt><a href="fi_ood-pos-X.html">X</a></tt> tokens (4% of all `X` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `X` and `Case` co-occurred: <tt><a href="fi_ood-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (4; 100%).
-
-`X` tokens may have the following values of `Case`:
-
-* `Nom` (4; 100% of non-empty `Case`): <em>Creator, HERAUS, SATAN, poro</em>
-* `EMPTY` (85): <em>LIST, All, Inclusive, author, baimbai, quote, time, #cmoref1, #nature, Nix</em>
+* `EMPTY` (1973): <em>myös, niin, hyvin, nyt, ok, kuitenkin, jo, vain, hieman, paljon</em>
 
 ### `ADP`
 
@@ -252,6 +240,17 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 * `Abl` (1; 100% of non-empty `Case`): <em>tiimoilta</em>
 * `EMPTY` (286): <em>kanssa, jälkeen, ad, mukaan, päälle, vuoksi, ilman, takia, alle, saakka</em>
+
+### `X`
+
+1 <tt><a href="fi_ood-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `X` and `Case` co-occurred: <tt><a href="fi_ood-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`X` tokens may have the following values of `Case`:
+
+* `Nom` (1; 100% of non-empty `Case`): <em>poro</em>
+* `EMPTY` (89): <em>LIST, All, Inclusive, author, baimbai, quote, time, #cmoref1, #nature, Nix</em>
 
 ## Relations with Agreement in `Case`
 

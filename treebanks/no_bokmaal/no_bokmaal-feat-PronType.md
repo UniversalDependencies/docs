@@ -12,7 +12,7 @@ Some words have combined values of the feature; 4 combinations have been observe
 
 36798 tokens (12%) have a non-empty value of `PronType`.
 187 types (1%) occur at least once with a non-empty value of `PronType`.
-82 lemmas (0%) occur at least once with a non-empty value of `PronType`.
+79 lemmas (0%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (22598; 7% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (14199; 5% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `PRON`
@@ -31,7 +31,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Rcp` (73; 0% of non-empty `PronType`): <em>hverandre, hverandres</em>
 * `EMPTY` (47): <em>ingenting</em>
 
-`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (50) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (48) occur only with one value of `PronType`.
 
 ### `DET`
 
@@ -41,8 +41,8 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (6185; 44% of non-empty `PronType`): <em>en, et, ei, ens, at, er, ett</em>
-* `Dem` (6053; 43% of non-empty `PronType`): <em>den, de, det, andre, denne, annet, disse, samme, dette, annen</em>
+* `Art` (10121; 71% of non-empty `PronType`): <em>en, et, den, de, det, ei, ens, at, dét, er</em>
+* `Dem` (2117; 15% of non-empty `PronType`): <em>andre, denne, annet, disse, samme, dette, annen, slike, neste, slik</em>
 * `Dem,Ind` (1; 0% of non-empty `PronType`): <em>noe</em>
 * `Ind` (555; 4% of non-empty `PronType`): <em>noen, noe, Endel</em>
 * `Int` (104; 1% of non-empty `PronType`): <em>hvilke, hvilken, hvilket</em>
@@ -51,14 +51,16 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `EMPTY` (197): <em>ingen, intet</em>
 
 <table>
-  <tr><th>Paradigm <i>den</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
-  <tr><td><tt><tt><a href="no_bokmaal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>dens</em></td></tr>
-  <tr><td><tt><tt><a href="no_bokmaal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>dens</em></td></tr>
-  <tr><td><tt><tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>den</em></td></tr>
-  <tr><td><tt><tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>den</em></td><td><em>den</em></td></tr>
+  <tr><th>Paradigm <i>den</i></th><th><tt>Prs</tt></th><th><tt>Art</tt></th><th><tt>Dem</tt></th></tr>
+  <tr><td><tt><tt><a href="no_bokmaal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td></td><td><em>dens</em></td></tr>
+  <tr><td><tt><tt><a href="no_bokmaal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td></td><td><em>dens</em></td></tr>
+  <tr><td><tt><tt><a href="no_bokmaal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td></td><td><em>dets</em></td></tr>
+  <tr><td><tt><tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>den</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>den</em></td><td><em>den</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>det, dét</em></td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `DET`. 96% lemmas (45) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 96% lemmas (43) occur only with one value of `PronType`.
 
 ### `NOUN`
 
@@ -75,13 +77,12 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="no_bokmaal-dep-det.html">det</a></tt>]--> DET</tt> (156; 64%),
-<tt>DET --[<tt><a href="no_bokmaal-dep-det.html">det</a></tt>]--> DET</tt> (81; 53%),
 <tt>PRON --[<tt><a href="no_bokmaal-dep-expl.html">expl</a></tt>]--> PRON</tt> (71; 76%),
 <tt>PRON --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> PRON</tt> (33; 89%),
 <tt>PRON --[<tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (17; 57%),
-<tt>DET --[<tt><a href="no_bokmaal-dep-det.html">det</a></tt>]--> PRON</tt> (12; 100%),
+<tt>DET --[<tt><a href="no_bokmaal-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (7; 100%),
+<tt>DET --[<tt><a href="no_bokmaal-dep-det.html">det</a></tt>]--> PRON</tt> (5; 100%),
 <tt>PRON --[<tt><a href="no_bokmaal-dep-appos.html">appos</a></tt>]--> PRON</tt> (3; 75%),
-<tt>DET --[<tt><a href="no_bokmaal-dep-dislocated.html">dislocated</a></tt>]--> DET</tt> (1; 100%),
 <tt>DET --[<tt><a href="no_bokmaal-dep-nsubj-outer.html">nsubj:outer</a></tt>]--> DET</tt> (1; 100%),
 <tt>DET --[<tt><a href="no_bokmaal-dep-obj.html">obj</a></tt>]--> DET</tt> (1; 100%).
 

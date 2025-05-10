@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Atul Kr. Ojha, Daniel Zeman.
 
 Repository: [UD_Bhojpuri-BHTB](https://github.com/UniversalDependencies/UD_Bhojpuri-BHTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbho_bhtb215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbho_bhtb216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -137,7 +137,7 @@ year={2015}
 </ul>
 
 <ul>
-<li>This corpus contains 39 word types tagged as particles (PART): अतना, अलावे, उहाँसे, केहू, खानी, खाली, गमगमावे, घटना, जादा, ठाक, ढेर, त, तनिको, तिकवते, नइखी, नइखे, ना, नाहीं, पास, बनवले, बस, बहुत, बहुते, बाकिर, बिना, भर, भलही, भा, भी, वां, विस्तार, सँ, सन, सबले, सबसे, सभ, सी, सूखाड़, से</li>
+<li>This corpus contains 38 word types tagged as particles (PART): अतना, अलावे, उहाँसे, केहू, खानी, खाली, गमगमावे, घटना, जादा, ठाक, ढेर, त, तनिको, तिकवते, नइखी, नइखे, ना, नाहीं, पास, बनवले, बस, बहुत, बहुते, बाकिर, बिना, भर, भलही, भा, भी, वां, सँ, सन, सबले, सबसे, सभ, सी, सूखाड़, से</li>
 </ul>
 
 <ul>
@@ -267,7 +267,7 @@ year={2015}
       <li>NOUN-Part: पहिले, रंगे, अलगे, आगे, लगे</li>
       <li>NUM: एगो, लोग, दू, 5, कलिग, छठवां, दोसर, दोसरा, सिलसिला, 2</li>
       <li>NUM-Part: सन</li>
-      <li>PART: त, नइखे, ना, बहुते, गमगमावे, घटना, अलावे, तिकवते, वां, विस्तार</li>
+      <li>PART: त, नइखे, ना, बहुते, गमगमावे, घटना, अलावे, तिकवते, वां, सबसे</li>
       <li>PRON: अपना, आपन, रउरा, हमार, ऊ, बिना, जे, केहू, हमरा, ईहे</li>
       <li>PRON-Part: ईहे, एकरा, काहे, जेकरा, उनुका, मुक्का</li>
       <li>PROPN: सिंह, जी, प्रियंका, द्विवेदी, प्रसाद, हिन्दुस्तान, उदय, चोपड़ा, प्रकाश, अवधेश</li>
@@ -364,7 +364,7 @@ year={2015}
       <li>INTJ: गहरे, अरे, दोसरे</li>
       <li>NOUN: आजु, लोगन, जी, बात, साहित्य, सभ, घंटा, परिवार, बिआह, कार्यक्रम</li>
       <li>NUM: पहिला, सिलसिला, २०१२</li>
-      <li>PART: त, नइखे, ना, जादा, विस्तार, सबसे, सूखाड़</li>
+      <li>PART: त, नइखे, ना, जादा, सबसे, सूखाड़</li>
       <li>PRON: हमनी, केहूँ, पत्नी, फलाना, रउवा, उहाँसे, एहसे, ओ, जवना, हमरा</li>
       <li>PROPN: भोजपुरी, जी, द्विवेदी, खाली, चोपड़ा, दिल्ली, शाही, सिंह, पाती, प्रियंका</li>
       <li>VERB: क, होखे, अद्भुत, छोड़त, लिखे, अंतर्दृष्टि, अतने, अनगिनत, अबीरे, उघरत</li>

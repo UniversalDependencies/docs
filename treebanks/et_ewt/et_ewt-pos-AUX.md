@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>on</em> (<tt><a href="et_ewt-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 12.454545 (the average of all parts of speech is 1.733702).
+The form / lemma ratio of `AUX` is 12.454545 (the average of all parts of speech is 1.733681).
 
 The 1st highest number of forms (49) was observed with the lemma “olema”: <em>0le, ole, oled, oledki, olegi, olek, oleks, oleksid, oleksidki, oleksin, olekski, olema, olemagi, olemaks, oleme, olemegi, olen, olengi, olete, oletegi, olevat, olex, olge, olgem, olgu, oli, olid, oligi, olime, olin, olite, olla, olles, olnud, olnudki, olrnudki, on, ongi, ons, ple, pn, pold, pole, polegi, poleks, poleksi, polekski, polnud, polnudki</em>.
 
@@ -65,12 +65,12 @@ The 2nd highest number of forms (24) was observed with the lemma “pidama”: <
 
 The 3rd highest number of forms (21) was observed with the lemma “võima”: <em>v6ib, v6in, v6inud, voiks, väiks, või, võib, võibki, võid, võigi, võiks, võiksid, võikski, võime, võin, võinud, võinuks, võis, võite, võivad, vöib</em>.
 
-`AUX` occurs with 10 features: <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt> (4692; 76% instances), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt> (4596; 75% instances), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt> (4518; 74% instances), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt> (4449; 72% instances), <tt><a href="et_ewt-feat-Number.html">Number</a></tt> (3325; 54% instances), <tt><a href="et_ewt-feat-Person.html">Person</a></tt> (3284; 53% instances), <tt><a href="et_ewt-feat-Polarity.html">Polarity</a></tt> (1823; 30% instances), <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt> (378; 6% instances), <tt><a href="et_ewt-feat-Case.html">Case</a></tt> (79; 1% instances), <tt><a href="et_ewt-feat-Typo.html">Typo</a></tt> (28; 0% instances)
+`AUX` occurs with 10 features: <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt> (4692; 76% instances), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt> (4596; 75% instances), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt> (4518; 74% instances), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt> (4449; 72% instances), <tt><a href="et_ewt-feat-Number.html">Number</a></tt> (3325; 54% instances), <tt><a href="et_ewt-feat-Person.html">Person</a></tt> (3283; 53% instances), <tt><a href="et_ewt-feat-Polarity.html">Polarity</a></tt> (1823; 30% instances), <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt> (378; 6% instances), <tt><a href="et_ewt-feat-Case.html">Case</a></tt> (79; 1% instances), <tt><a href="et_ewt-feat-Typo.html">Typo</a></tt> (28; 0% instances)
 
 `AUX` occurs with 22 feature-value pairs: `Case=Ill`, `Case=Tra`, `Connegative=Yes`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Qot`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Past`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Conv`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=Sup`, `Voice=Act`
 
 `AUX` occurs with 64 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (1948 tokens).
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (1940 tokens).
 Examples: <em>on, võib, saab, peab, ongi, tundub, peabki, näib, ole, ons</em>
 
 
@@ -78,7 +78,7 @@ Examples: <em>on, võib, saab, peab, ongi, tundub, peabki, näib, ole, ons</em>
 
 `AUX` nodes are attached to their parents using 12 different relations: <tt><a href="et_ewt-dep-aux.html">aux</a></tt> (3255; 53% instances), <tt><a href="et_ewt-dep-cop.html">cop</a></tt> (2864; 47% instances), <tt><a href="et_ewt-dep-root.html">root</a></tt> (8; 0% instances), <tt><a href="et_ewt-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="et_ewt-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="et_ewt-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="et_ewt-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="et_ewt-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="et_ewt-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="et_ewt-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="et_ewt-dep-csubj-cop.html">csubj:cop</a></tt> (1; 0% instances), <tt><a href="et_ewt-dep-discourse.html">discourse</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 12 different parts of speech: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (2864; 47% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1324; 22% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1031; 17% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (420; 7% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (359; 6% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (81; 1% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (35; 1% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (15; 0% instances),  (8; 0% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
+Parents of `AUX` nodes belong to 12 different parts of speech: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (2864; 47% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1322; 22% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1031; 17% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (420; 7% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (361; 6% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (81; 1% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (35; 1% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (15; 0% instances),  (8; 0% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
 
 6120 (100%) `AUX` nodes are leaves.
 

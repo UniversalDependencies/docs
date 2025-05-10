@@ -32,7 +32,7 @@ The following 28 pairs of parts of speech are connected with `orphan`: <tt><a hr
 8	não	não	ADV	_	_	10	orphan	8.1:advmod	_
 9	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	10:det	_
 10	catalães	catalão	NOUN	_	Gender=Masc|Number=Plur	5	conj	8.1:nsubj	SpaceAfter=No
-11	?	?	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+11	?	?	PUNCT	_	_	5	punct	5:punct	_
 
 ~~~
 
@@ -58,7 +58,7 @@ The following 28 pairs of parts of speech are connected with `orphan`: <tt><a hr
 13	Norte	Norte	PROPN	_	_	10	flat:name	10:flat:name	SpaceAfter=No
 14	,	,	PUNCT	_	_	10	punct	10:punct	_
 15	afirmou	afirmar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-16	.	.	PUNCT	_	_	15	punct	15:punct	SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	15:punct	_
 
 ~~~
 
@@ -92,7 +92,7 @@ The following 28 pairs of parts of speech are connected with `orphan`: <tt><a hr
 21	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	22:det	_
 22	Sky	Sky	PROPN	_	_	19	obl	19:obl:a	_
 23	Sports	Sports	PROPN	_	_	22	flat:name	22:flat:name	SpaceAfter=No
-24	.	.	PUNCT	_	_	19	punct	19:punct	SpaceAfter=No
+24	.	.	PUNCT	_	_	19	punct	19:punct	_
 
 ~~~
 

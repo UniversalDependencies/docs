@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>edel</em> (<tt><a href="vep_vwt-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.023256 (the average of all parts of speech is 1.526854).
+The form / lemma ratio of `ADV` is 1.023256 (the average of all parts of speech is 1.538660).
 
 The 1st highest number of forms (3) was observed with the lemma “sid'”: <em>sid', sil, siš</em>.
 

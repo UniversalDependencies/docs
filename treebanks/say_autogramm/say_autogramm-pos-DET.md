@@ -63,11 +63,11 @@ The 2nd highest number of forms (3) was observed with the lemma “gyáː”: <e
 
 The 3rd highest number of forms (3) was observed with the lemma “gyôː”: <em>gyòː, gyóː, gyôː</em>.
 
-`DET` occurs with 4 features: <tt><a href="say_autogramm-feat-Number.html">Number</a></tt> (143; 45% instances), <tt><a href="say_autogramm-feat-Definite.html">Definite</a></tt> (86; 27% instances), <tt><a href="say_autogramm-feat-PronType.html">PronType</a></tt> (65; 21% instances), <tt><a href="say_autogramm-feat-Deixis.html">Deixis</a></tt> (26; 8% instances)
+`DET` occurs with 5 features: <tt><a href="say_autogramm-feat-Number.html">Number</a></tt> (143; 45% instances), <tt><a href="say_autogramm-feat-Definite.html">Definite</a></tt> (86; 27% instances), <tt><a href="say_autogramm-feat-PronType.html">PronType</a></tt> (65; 21% instances), <tt><a href="say_autogramm-feat-Deixis.html">Deixis</a></tt> (26; 8% instances), <tt><a href="say_autogramm-feat-ExtPos.html">ExtPos</a></tt> (4; 1% instances)
 
-`DET` occurs with 7 feature-value pairs: `Definite=Spec`, `Deixis=Prox`, `Deixis=Remt`, `Number=Plur`, `PronType=Dem`, `PronType=Int`, `PronType=Tot`
+`DET` occurs with 10 feature-value pairs: `Definite=Spec`, `Deixis=Prox`, `Deixis=Remt`, `ExtPos=ADV`, `ExtPos=NOUN`, `ExtPos=PRON`, `Number=Plur`, `PronType=Dem`, `PronType=Int`, `PronType=Tot`
 
-`DET` occurs with 10 feature combinations.
+`DET` occurs with 12 feature combinations.
 The most frequent feature combination is `Number=Plur` (142 tokens).
 Examples: <em>gyáː, gyaː, gyǎː, gyòː, gyópti, gèntsə̀, gyaːgón, giní, gyóːɗan, gìː</em>
 

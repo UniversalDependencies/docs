@@ -53,7 +53,7 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 21	bgColor:blue
 # visual-style 21	fgColor:white
 # visual-style 21 19 cc:preconj	color:blue
-1	Dengan	dengan	ADP	R--	_	12	advmod	_	MWEPOS=SCONJ|Morf=^dengan<r>_R--$
+1	Dengan	dengan	ADP	R--	ExtPos=ADV	12	advmod	_	MWEPOS=SCONJ|Morf=^dengan<r>_R--$
 2	demikian	demikian	PRON	S--	PronType=Dem	1	fixed	_	Morf=^demikian<s>_S--$
 3	pelaksanaan	laksana	NOUN	NSD	Number=Sing	12	nsubj	_	Morf=^peN+laksana<v>+an_NSD$
 4	Al	al	PROPN	F--	_	3	nmod	_	Morf=^al<f>_F--$

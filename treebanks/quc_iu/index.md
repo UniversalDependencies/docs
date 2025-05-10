@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Francis Tyers.
 
 Repository: [UD_Kiche-IU](https://github.com/UniversalDependencies/UD_Kiche-IU)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udquc_iu215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udquc_iu216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -68,11 +68,11 @@ We would like to thank the following for giving permission to use their sentence
 
 ## POS Tags
 
-[ADJ](quc_iu-pos-ADJ.html) – [ADP](quc_iu-pos-ADP.html) – [ADV](quc_iu-pos-ADV.html) – [AUX](quc_iu-pos-AUX.html) – [CCONJ](quc_iu-pos-CCONJ.html) – [DET](quc_iu-pos-DET.html) – [INTJ](quc_iu-pos-INTJ.html) – [NOUN](quc_iu-pos-NOUN.html) – [NUM](quc_iu-pos-NUM.html) – [PART](quc_iu-pos-PART.html) – [PRON](quc_iu-pos-PRON.html) – [PROPN](quc_iu-pos-PROPN.html) – [PUNCT](quc_iu-pos-PUNCT.html) – [SCONJ](quc_iu-pos-SCONJ.html) – [VERB](quc_iu-pos-VERB.html)
+[ADJ](quc_iu-pos-ADJ.html) – [ADP](quc_iu-pos-ADP.html) – [ADV](quc_iu-pos-ADV.html) – [AUX](quc_iu-pos-AUX.html) – [CCONJ](quc_iu-pos-CCONJ.html) – [DET](quc_iu-pos-DET.html) – [INTJ](quc_iu-pos-INTJ.html) – [NOUN](quc_iu-pos-NOUN.html) – [NUM](quc_iu-pos-NUM.html) – [PART](quc_iu-pos-PART.html) – [PRON](quc_iu-pos-PRON.html) – [PROPN](quc_iu-pos-PROPN.html) – [PUNCT](quc_iu-pos-PUNCT.html) – [SCONJ](quc_iu-pos-SCONJ.html) – [VERB](quc_iu-pos-VERB.html) – [X](quc_iu-pos-X.html)
 
 ## Features
 
-[Abbr](quc_iu-feat-Abbr.html) – [AdvType](quc_iu-feat-AdvType.html) – [Animacy](quc_iu-feat-Animacy.html) – [Aspect](quc_iu-feat-Aspect.html) – [Clitic](quc_iu-feat-Clitic.html) – [Definite](quc_iu-feat-Definite.html) – [Degree](quc_iu-feat-Degree.html) – [Focus](quc_iu-feat-Focus.html) – [Foreign](quc_iu-feat-Foreign.html) – [Gender](quc_iu-feat-Gender.html) – [Mood](quc_iu-feat-Mood.html) – [Movement](quc_iu-feat-Movement.html) – [NounType](quc_iu-feat-NounType.html) – [Number](quc_iu-feat-Number.html) – [Number[obj]](quc_iu-feat-Number-obj.html) – [Number[psor]](quc_iu-feat-Number-psor.html) – [Number[subj]](quc_iu-feat-Number-subj.html) – [NumType](quc_iu-feat-NumType.html) – [Person](quc_iu-feat-Person.html) – [Person[obj]](quc_iu-feat-Person-obj.html) – [Person[psor]](quc_iu-feat-Person-psor.html) – [Person[subj]](quc_iu-feat-Person-subj.html) – [Polarity](quc_iu-feat-Polarity.html) – [Polite](quc_iu-feat-Polite.html) – [PronType](quc_iu-feat-PronType.html) – [Reflex](quc_iu-feat-Reflex.html) – [Subcat](quc_iu-feat-Subcat.html) – [Tense](quc_iu-feat-Tense.html) – [VerbForm](quc_iu-feat-VerbForm.html) – [Voice](quc_iu-feat-Voice.html)
+[Abbr](quc_iu-feat-Abbr.html) – [AdvType](quc_iu-feat-AdvType.html) – [Animacy](quc_iu-feat-Animacy.html) – [Aspect](quc_iu-feat-Aspect.html) – [Clitic](quc_iu-feat-Clitic.html) – [Definite](quc_iu-feat-Definite.html) – [Degree](quc_iu-feat-Degree.html) – [Focus](quc_iu-feat-Focus.html) – [Foreign](quc_iu-feat-Foreign.html) – [Gender](quc_iu-feat-Gender.html) – [Mood](quc_iu-feat-Mood.html) – [Movement](quc_iu-feat-Movement.html) – [NounType](quc_iu-feat-NounType.html) – [Number](quc_iu-feat-Number.html) – [Number[obj]](quc_iu-feat-Number-obj.html) – [Number[psor]](quc_iu-feat-Number-psor.html) – [Number[subj]](quc_iu-feat-Number-subj.html) – [NumType](quc_iu-feat-NumType.html) – [Person](quc_iu-feat-Person.html) – [Person[obj]](quc_iu-feat-Person-obj.html) – [Person[psor]](quc_iu-feat-Person-psor.html) – [Person[subj]](quc_iu-feat-Person-subj.html) – [Polarity](quc_iu-feat-Polarity.html) – [Polite](quc_iu-feat-Polite.html) – [PronType](quc_iu-feat-PronType.html) – [Reflex](quc_iu-feat-Reflex.html) – [Subcat](quc_iu-feat-Subcat.html) – [Tense](quc_iu-feat-Tense.html) – [Typo](quc_iu-feat-Typo.html) – [VerbForm](quc_iu-feat-VerbForm.html) – [Voice](quc_iu-feat-Voice.html)
 
 ## Relations
 
@@ -107,8 +107,8 @@ We would like to thank the following for giving permission to use their sentence
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: SYM, X</li>
+<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: SYM</li>
 </ul>
 
 <ul>
@@ -751,6 +751,18 @@ We would like to thank the following for giving permission to use their sentence
   </li>
 </ul>
 
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>NOUN: Nawal</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -771,7 +783,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (3)</li>
       <li>VERB--PRON (1)</li>
-      <li>VERB-Fin--NOUN (429)</li>
+      <li>VERB-Fin--NOUN (428)</li>
       <li>VERB-Fin--PRON (36)</li>
       <li>VERB-Inf--NOUN (25)</li>
       <li>VERB-Inf--PRON (1)</li>

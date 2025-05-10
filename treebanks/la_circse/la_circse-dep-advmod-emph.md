@@ -9,27 +9,28 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_circse-dep-advmod.html">advmod</a></tt>.
 There are also 3 other language-specific subtypes of `advmod`: <tt><a href="la_circse-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="la_circse-dep-advmod-neg.html">advmod:neg</a></tt>, <tt><a href="la_circse-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-109 nodes (1%) are attached to their parents as `advmod:emph`.
+135 nodes (1%) are attached to their parents as `advmod:emph`.
 
-94 instances of `advmod:emph` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.13761467889908.
+118 instances of `advmod:emph` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.13333333333333.
 
-The following 19 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (24; 22% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (19; 17% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (19; 17% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (12; 11% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (6; 6% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (4; 4% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (4; 4% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 20 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (30; 22% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (25; 19% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (19; 14% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (16; 12% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (6; 4% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (6; 4% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (5; 4% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (4; 3% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (4; 3% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 advmod:emph	color:blue
-1	memorare	memoro	VERB	B1	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	2	xcomp	_	LiLaflcat=v1
-2	cogis	cogo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
-3	acta	actum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	1	obj	_	LiLaflcat=n2
-4	securae	securus	ADJ	C1	Case=Dat|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	7	amod	_	LiLaflcat=n6
-5	quoque	quoque	PART	M	Form=Emp	7	advmod:emph	_	LiLaflcat=i
-6	horrenda	horrendus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	3	amod	_	LiLaflcat=n6
-7	menti	mens	NOUN	A3	Case=Dat|Gender=Fem|InflClass=IndEurI|Number=Sing	6	obl:arg	_	LiLaflcat=n3
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 advmod:emph	color:blue
+1	post	post	ADP	R	AdpType=Prep	2	case	_	LASLAVariant=2|LiLaflcat=i
+2	reditus	reditus	NOUN	A4	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Plur	4	obl:tmod	_	LiLaflcat=n4
+3	quoque	quoque	PART	M	Form=Emp	2	advmod:emph	_	LiLaflcat=i
+4	oberrat	oberro	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LASLAVariant=2|LiLaflcat=v1
+5	oculis	oculus	NOUN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Plur	4	obl	_	LiLaflcat=n2
+6	turba	turba	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	4	nsubj	_	LiLaflcat=n1
+7	feralis	feralis	ADJ	C4	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	6	amod	_	LiLaflcat=n7
+8	meis	meus	DET	F	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	5	det	_	LiLaflcat=n6
 
 ~~~
 

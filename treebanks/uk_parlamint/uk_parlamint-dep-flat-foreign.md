@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_parlamint-dep-flat.html">flat</a></tt>.
 There are also 4 other language-specific subtypes of `flat`: <tt><a href="uk_parlamint-dep-flat-name.html">flat:name</a></tt>, <tt><a href="uk_parlamint-dep-flat-range.html">flat:range</a></tt>, <tt><a href="uk_parlamint-dep-flat-repeat.html">flat:repeat</a></tt>, <tt><a href="uk_parlamint-dep-flat-title.html">flat:title</a></tt>.
 
-47 nodes (0%) are attached to their parents as `flat:foreign`.
+59 nodes (0%) are attached to their parents as `flat:foreign`.
 
-47 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.63829787234043.
+59 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.71186440677966.
 
-The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="uk_parlamint-pos-X.html">X</a></tt>-<tt><a href="uk_parlamint-pos-X.html">X</a></tt> (45; 96% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="uk_parlamint-pos-X.html">X</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="uk_parlamint-pos-X.html">X</a></tt>-<tt><a href="uk_parlamint-pos-X.html">X</a></tt> (58; 98% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-X.html">X</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -76,43 +76,6 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 25	страну	-	X	NOUN	Foreign=Yes	23	conj	_	SpaceAfter=No
 26	"	"	PUNCT	PUNCT	_	25	punct	_	SpaceAfter=No
 27	.	.	PUNCT	PUNCT	_	14	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 20 flat:foreign	color:blue
-1	І	і	CCONJ	CCONJ	_	3	cc	_	_
-2	я	я	PRON	PRON	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-3	хочу	хотіти	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	сказати	сказати	VERB	VERB	Aspect=Perf|VerbForm=Inf	3	xcomp	_	SpaceAfter=No
-5	:	:	PUNCT	PUNCT	_	6	punct	_	_
-6	thank	thank	X	X	Foreign=Yes	4	parataxis	_	_
-7	you	you	X	X	Foreign=Yes	6	flat:foreign	_	SpaceAfter=No
-8	,	,	PUNCT	PUNCT	_	6	punct	_	_
-9	mister	mister	X	X	Foreign=Yes	6	appos	_	_
-10	President	President	X	X	Foreign=Yes	6	flat:foreign	_	SpaceAfter=No
-11	,	,	PUNCT	PUNCT	_	6	punct	_	_
-12	for	for	X	X	Foreign=Yes	6	parataxis	_	_
-13	your	your	X	X	Foreign=Yes	6	flat:foreign	_	_
-14	position	position	X	X	Foreign=Yes	6	flat:foreign	_	SpaceAfter=No
-15	,	,	PUNCT	PUNCT	_	6	punct	_	_
-16	which	which	X	X	Foreign=Yes	6	parataxis	_	_
-17	you	you	X	X	Foreign=Yes	6	flat:foreign	_	_
-18	declared	declared	X	X	Foreign=Yes	6	flat:foreign	_	_
-19	in	in	X	X	Foreign=Yes	6	flat:foreign	_	_
-20	2015	2015	NUM	NUM	_	6	flat:foreign	_	_
-21	from	from	X	X	Foreign=Yes	6	flat:foreign	_	_
-22	here	here	X	X	Foreign=Yes	6	flat:foreign	_	SpaceAfter=No
-23	,	,	PUNCT	PUNCT	_	6	punct	_	_
-24	from	from	X	X	Foreign=Yes	6	conj	_	_
-25	this	this	X	X	Foreign=Yes	6	flat:foreign	_	_
-26	place	place	X	X	Foreign=Yes	6	flat:foreign	_	SpaceAfter=No
-27	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 

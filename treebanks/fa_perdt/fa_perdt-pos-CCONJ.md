@@ -73,7 +73,7 @@ The 10 most frequent ambiguous types:  و (<tt><a href="fa_perdt-pos-CCONJ.html"
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 0.956522 (the average of all parts of speech is 1.486663).
+The form / lemma ratio of `CCONJ` is 0.956522 (the average of all parts of speech is 1.486683).
 
 The 1st highest number of forms (1) was observed with the lemma “-”: -.
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
-953 tokens (5%) have a non-empty value of `Mood`.
+952 tokens (5%) have a non-empty value of `Mood`.
 408 types (5%) occur at least once with a non-empty value of `Mood`.
 289 lemmas (5%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (548; 3% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (405; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (548; 3% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (404; 2% instances).
 
 ### `VERB`
 
@@ -36,13 +36,13 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-405 <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> tokens (59% of all `AUX` tokens) have a non-empty value of `Mood`.
+404 <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> tokens (59% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="cs_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (405; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (405; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (405; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (302; 75%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (274; 68%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (267; 66%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (256; 63%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (239; 59%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="cs_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (404; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (404; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (404; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (302; 75%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (274; 68%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (267; 66%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (256; 63%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (239; 59%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (103; 25% of non-empty `Mood`): <em>by, bych, bychom, byste</em>
+* `Cnd` (102; 25% of non-empty `Mood`): <em>by, bych, bychom, byste</em>
 * `Ind` (302; 75% of non-empty `Mood`): <em>je, jsou, bude, jsem, není, jsme, budou, nebude, budeme, budu</em>
 * `EMPTY` (278): <em>byl, bylo, byla, byly, být, byli, nebyly, nebyla, nebyl, nebylo</em>
 
@@ -74,8 +74,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (46; 67%),
 <tt>VERB --[<tt><a href="cs_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (25; 64%),
+<tt>VERB --[<tt><a href="cs_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (3; 75%),
 <tt>AUX --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="cs_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (2; 67%),
-<tt>AUX --[<tt><a href="cs_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="cs_pud-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%).
+<tt>AUX --[<tt><a href="cs_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%).
 

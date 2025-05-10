@@ -6,22 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_Scottish_Gaelic-ARCOSG: POS Tags: `INTJ`
 
-There are 52 `INTJ` lemmas (1%), 53 `INTJ` types (1%) and 532 `INTJ` tokens (1%).
+There are 52 `INTJ` lemmas (1%), 53 `INTJ` types (1%) and 533 `INTJ` tokens (1%).
 Out of 17 observed tags, the rank of `INTJ` is: 11 in number of lemmas, 11 in number of types and 15 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>uill, ò, àidh, o, och, seadh, uh, ma-thà, eh, mhmm</em>
 
 The 10 most frequent `INTJ` types:  <em>uill, ò, àidh, o, och, seadh, uh, ma-thà, eh, mhmm</em>
 
-The 10 most frequent ambiguous lemmas: <em>ò</em> (<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 141, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>o</em> (<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 26, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 3), <em>seadh</em> (<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 19, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 1), <em>ma-thà</em> (<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 70, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 8), <em>nis</em> (<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 7, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 5), <em>well</em> (<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 3234, <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 593, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 429, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 280, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 140, <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 38, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 21, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 6, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt> 1), <em>dà</em> (<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> 136, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 1), <em>'n</em> (<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 10, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 4, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 1), <em>dia</em> (<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ò</em> (<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 142, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>o</em> (<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 26, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 2), <em>seadh</em> (<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 19, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 1), <em>ma-thà</em> (<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 70, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 8), <em>nis</em> (<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 7, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 5), <em>well</em> (<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 3253, <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 592, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 429, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 279, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 140, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 51, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 6, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 2), <em>dà</em> (<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> 135, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 1), <em>an</em> (<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 5347, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 2929, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 311, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 219, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 94, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 27, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 18, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 1), <em>dia</em> (<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ò</em> (<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 139, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>o</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 69, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 3), <em>seadh</em> (<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 11, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 1), <em>ma-thà</em> (<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 69, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 8), <em>nis</em> (<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 7, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 2), <em>well</em> (<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 3228, <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 599, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 429, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 263, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 139, <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 38, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 20, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 6, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 1), <em>dà</em> (<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> 108, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 1), <em>Dhia</em> (<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 1), <em>okay</em> (<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>ò</em> (<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 140, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 1), <em>o</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 69, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 3), <em>seadh</em> (<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 11, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 1), <em>ma-thà</em> (<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 69, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 8), <em>nis</em> (<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 7, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 2), <em>well</em> (<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 3247, <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 597, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 429, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 262, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 139, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 51, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 6, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 1), <em>dà</em> (<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> 108, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 1), <em>Dhia</em> (<tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 1), <em>okay</em> (<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 2)
 
 
 * <em>ò</em>
-  * <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 139: <em><b>ò</b> a bheil ?</em>
-  * <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 1: <em><b>ò</b> bidh iad a's na h-oitirean iad fhèin</em>
-  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 1: <em>uill chanainn gu bheil suas ri dà fhichead bliadhna <b>ò</b> bha iad o bha iad an e reimhe e chanainn gur an e air a’ bhliadhna ochd ceud deug dà fhichead 's ochd deug</em>
+  * <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 140: <em><b>ò</b> a bheil ?</em>
+  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 1: <em>uill chanainn gu bheil suas ri dà fhichead bliadhna <b>ò</b> bha iad o bha iad an e ro e</em>
 * <em>o</em>
   * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 69: <em>Shuidh e air a’ chloich , agus shuath e fras fallais <b>o</b> a mhaoil .</em>
   * <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 4: <em><b>o</b> sorry thuirt i um dìreach an aon rud</em>
@@ -39,18 +38,17 @@ The 10 most frequent ambiguous types:  <em>ò</em> (<tt><a href="gd_arcosg-pos-I
   * <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 1: <em>“ A <b>well</b> " , ars’ a' bodach , “ bha mise uair rachadh aig mi fhìn air baisteadh a dhèanamh " ars’ esan .</em>
   * <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 1: <em><b>well</b> half the education budget</em>
 * <em>a</em>
-  * <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 3228: <em>agus ciamar <b>a</b> bha a’ homework an do choimhead an tidsear ri e ?</em>
-  * <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 599: <em>‘s an robh <b>a</b> h-uile duine eile air na trì duilleagan a dhèanamh ?</em>
+  * <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 3247: <em>agus ciamar <b>a</b> bha a’ homework an do choimhead an tidsear ri e ?</em>
+  * <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 597: <em>‘s an robh <b>a</b> h-uile duine eile air na trì duilleagan a dhèanamh ?</em>
   * <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 429: <em>Rinn e - fhèin gàire , an <b>a</b> shuidhe air a’ chloich .</em>
-  * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 263: <em>Chan eil a leithid <b>a</b> fhacal idir aig iad .</em>
+  * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 262: <em>Chan eil a leithid <b>a</b> fhacal idir aig iad .</em>
   * <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 139: <em>tha e air a bhith ann <b>a</b> shin bho chionn bhliadhnachan</em>
-  * <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 38: <em>Freadaidh Dhòmhnaill Bhàin ann an Uibhist <b>a</b> Tuath</em>
-  * <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 20: <em>Tha mòran air a bhith càineadh co-dhùnadh an Riaghaltas dà stèisean maor-chladaich anns an cheann <b>a</b> Tuath an dùnadh .</em>
-  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 6: <em>Cha robh cùmhnadh aig iadsan air airgead , is <b>a</b> chionn 's nach robh an tìde ach goirid chaidh iad chun a h-uile dibhearsain a bha Lunnainn dheàlrach a' tathann .</em>
+  * <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 51: <em>Freadaidh Dhòmhnaill Bhàin ann an Uibhist <b>a</b> Tuath</em>
+  * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 7: <em>Cha robh cùmhnadh aig iadsan air airgead , is <b>a</b> chionn 's nach robh an tìde ach goirid chaidh iad chun a h-uile dibhearsain a bha Lunnainn dheàlrach a' tathann .</em>
   * <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 6: <em>a Mhurchaidh is e prògram ùr tha seo a' tòiseachadh air an telly Give <b>a</b> Pet <b>a</b> Home</em>
-  * <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 3: <em>'s e [?] fhios aig thu [?] a' rathaid mhòir <b>a</b> thoireadh cha robh tearradh an rathad an e agus dh’fhaodadh sibh a bhith a' bristeadh chlachan mar a bhios iad ann am Porterfields 's dòcha fhathast agus dh’fhaodadh tu bhith ag obair le ag obair air stamh</em>
+  * <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 2: <em>'s e [?] fhios aig thu [?] a' rathaid mhòir <b>a</b> thoireadh cha robh tearradh an rathad an e agus dh’fhaodadh sibh a bhith a' bristeadh chlachan mar a bhios iad ann am Porterfields 's dòcha fhathast agus dh’fhaodadh tu bhith ag obair le ag obair air stamh</em>
+  * <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 2: <em>Chaidh a’ chuid mhath de an chiad là a chur seachad a' siubhal air itealain eadar Steòrnabhagh is Glaschu is eadar Glaschu is Baile <b>a</b> Cliath .</em>
   * <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 1: <em><b>a</b> ars’ ise 's tusa a mharbh mo thrì bhràithrean-sa an-dè ars’ ise ach marbhaidh mis' thus' an-diugh agus a-nuas gun do ghabh i a h-uile sùrdag a bheireadh i</em>
-  * <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 1: <em>Tha ceudad àrd de na Sìnich aig a bheil an seòrsa fala B , seòrsa nach fhaighear a-measg nan Innseanach an Ceann <b>a</b> tuath 's an Ceann a deas Amearagaidh .</em>
 * <em>dà</em>
   * <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> 108: <em>tha <b>dà</b> dhuilleag aig mi</em>
   * <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 3: <em>“ 'N <b>dà</b> , " ars’ a’ Rìgh , “ chan eil fhios aig mise , " ars’ esan , “ cà téid mi dh’iarraidh duine a bhaisteas e . " ars’ esan .</em>
@@ -64,40 +62,40 @@ The 10 most frequent ambiguous types:  <em>ò</em> (<tt><a href="gd_arcosg-pos-I
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.019231 (the average of all parts of speech is 1.302531).
+The form / lemma ratio of `INTJ` is 1.019231 (the average of all parts of speech is 1.311377).
 
 The 1st highest number of forms (2) was observed with the lemma “seadh”: <em>seadh, sheadh</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “'n”: <em>'N</em>.
+The 2nd highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
+The 3rd highest number of forms (1) was observed with the lemma “an”: <em>'N</em>.
 
-`INTJ` occurs with 1 features: <tt><a href="gd_arcosg-feat-Foreign.html">Foreign</a></tt> (15; 3% instances)
+`INTJ` occurs with 2 features: <tt><a href="gd_arcosg-feat-Foreign.html">Foreign</a></tt> (15; 3% instances), <tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`INTJ` occurs with 1 feature-value pairs: `Foreign=Yes`
+`INTJ` occurs with 2 feature-value pairs: `ExtPos=INTJ`, `Foreign=Yes`
 
-`INTJ` occurs with 2 feature combinations.
+`INTJ` occurs with 3 feature combinations.
 The most frequent feature combination is `_` (517 tokens).
 Examples: <em>uill, ò, àidh, o, och, seadh, uh, ma-thà, eh, mhmm</em>
 
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 6 different relations: <tt><a href="gd_arcosg-dep-discourse.html">discourse</a></tt> (462; 87% instances), <tt><a href="gd_arcosg-dep-root.html">root</a></tt> (62; 12% instances), <tt><a href="gd_arcosg-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="gd_arcosg-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
+`INTJ` nodes are attached to their parents using 6 different relations: <tt><a href="gd_arcosg-dep-discourse.html">discourse</a></tt> (463; 87% instances), <tt><a href="gd_arcosg-dep-root.html">root</a></tt> (62; 12% instances), <tt><a href="gd_arcosg-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="gd_arcosg-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (290; 55% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (77; 14% instances),  (62; 12% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (42; 8% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (23; 4% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (11; 2% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (11; 2% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (10; 2% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (5; 1% instances), <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (290; 54% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (79; 15% instances),  (62; 12% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (42; 8% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (23; 4% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (11; 2% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (11; 2% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (10; 2% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
 467 (88%) `INTJ` nodes are leaves.
 
-41 (8%) `INTJ` nodes have one child.
+40 (8%) `INTJ` nodes have one child.
 
-5 (1%) `INTJ` nodes have two children.
+6 (1%) `INTJ` nodes have two children.
 
-19 (4%) `INTJ` nodes have three or more children.
+20 (4%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 7.
 
-Children of `INTJ` nodes are attached using 9 different relations: <tt><a href="gd_arcosg-dep-punct.html">punct</a></tt> (61; 47% instances), <tt><a href="gd_arcosg-dep-parataxis.html">parataxis</a></tt> (26; 20% instances), <tt><a href="gd_arcosg-dep-discourse.html">discourse</a></tt> (19; 15% instances), <tt><a href="gd_arcosg-dep-advmod.html">advmod</a></tt> (7; 5% instances), <tt><a href="gd_arcosg-dep-case-voc.html">case:voc</a></tt> (6; 5% instances), <tt><a href="gd_arcosg-dep-conj.html">conj</a></tt> (5; 4% instances), <tt><a href="gd_arcosg-dep-cc.html">cc</a></tt> (3; 2% instances), <tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-dep-vocative.html">vocative</a></tt> (1; 1% instances)
+Children of `INTJ` nodes are attached using 9 different relations: <tt><a href="gd_arcosg-dep-punct.html">punct</a></tt> (63; 47% instances), <tt><a href="gd_arcosg-dep-parataxis.html">parataxis</a></tt> (29; 22% instances), <tt><a href="gd_arcosg-dep-discourse.html">discourse</a></tt> (19; 14% instances), <tt><a href="gd_arcosg-dep-advmod.html">advmod</a></tt> (7; 5% instances), <tt><a href="gd_arcosg-dep-case-voc.html">case:voc</a></tt> (6; 5% instances), <tt><a href="gd_arcosg-dep-conj.html">conj</a></tt> (4; 3% instances), <tt><a href="gd_arcosg-dep-cc.html">cc</a></tt> (3; 2% instances), <tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-dep-vocative.html">vocative</a></tt> (1; 1% instances)
 
-Children of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (61; 47% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (23; 18% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (21; 16% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (8; 6% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (6; 5% instances), <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (63; 47% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (23; 17% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (23; 17% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (8; 6% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (6; 5% instances), <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

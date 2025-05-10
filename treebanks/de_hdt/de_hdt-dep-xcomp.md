@@ -67,7 +67,7 @@ The following 47 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 4	Zeit	Zeit	NOUN	NN	Gender=Fem|Number=Sing	2	nsubj	_	_
 5	,	,	PUNCT	$,	PunctType=Comm	8	punct	_	_
 6	auf	auf	ADP	APPR	AdpType=Prep|Case=Dat	7	case	_	_
-7	Bundesebene	Ebene	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
+7	Bundesebene	Bundesebene	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
 8	nachzuziehen	nachziehen	VERB	VVIZU	VerbForm=Inf	4	xcomp	_	_
 9	.	.	PUNCT	$.	PunctType=Peri	2	punct	_	_
 

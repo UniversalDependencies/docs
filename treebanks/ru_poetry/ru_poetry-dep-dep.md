@@ -82,7 +82,7 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 24	иному	иной	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	23	det	_	before=<rhyme-zone/>
 25	--	--	PUNCT	_	_	27	punct	_	<br/>
 26	такому	такой	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	27	det	_	before=<line_meter="Аф4м 1*2*2*2*0"/>
-27	иному	иной	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	23	det	_	SpaceAfter=No
+27	иному	иной	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	24	conj	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	32	punct	_	_
 29	что	что	SCONJ	_	_	32	mark	_	_
 30	впрямь	впрямь	ADV	_	Degree=Pos	32	advmod	_	_

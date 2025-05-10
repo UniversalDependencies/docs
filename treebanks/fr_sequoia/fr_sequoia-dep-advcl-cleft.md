@@ -48,7 +48,7 @@ The following 4 pairs of parts of speech are connected with `advcl:cleft`: <tt><
 # visual-style 7 19 advcl:cleft	color:blue
 1	Pour	pour	ADP	_	_	3	mark	_	_
 2	être	être	AUX	_	VerbForm=Inf	3	cop	_	Subject=Generic
-3	précis	précis	ADJ	_	Gender=Masc	7	advcl	_	SpaceAfter=No
+3	précis	précis	ADJ	_	Gender=Masc	7	advcl	_	Number[ctxt]=Sing|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	7	expl:subj	_	SpaceAfter=No
 6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_

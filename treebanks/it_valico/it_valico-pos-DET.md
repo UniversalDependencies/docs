@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>la</em> (<tt><a href="it_valico-pos-D
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.727273 (the average of all parts of speech is 1.389210).
+The form / lemma ratio of `DET` is 1.727273 (the average of all parts of speech is 1.391304).
 
 The 1st highest number of forms (6) was observed with the lemma “suo”: <em>sua, sue, sui, suo, suoe, suoi</em>.
 
@@ -73,7 +73,7 @@ Examples: <em>il, l', lo, l</em>
 
 `DET` nodes are attached to their parents using 6 different relations: <tt><a href="it_valico-dep-det.html">det</a></tt> (908; 89% instances), <tt><a href="it_valico-dep-det-poss.html">det:poss</a></tt> (103; 10% instances), <tt><a href="it_valico-dep-det-predet.html">det:predet</a></tt> (7; 1% instances), <tt><a href="it_valico-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="it_valico-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (995; 97% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 8 different parts of speech: <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (995; 97% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_valico-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
 1020 (100%) `DET` nodes are leaves.
 

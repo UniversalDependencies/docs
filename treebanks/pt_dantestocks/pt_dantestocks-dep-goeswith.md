@@ -28,7 +28,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 4	bonificação	_	X	_	_	3	goeswith	_	_
 5	de	de	ADP	_	_	7	case	_	_
 6	10	10	NUM	_	NumType=Card	7	nummod	_	SpaceAfter=No
-7	%	%	SYM	_	_	3	nmod	_	SpaceAfter=No
+7	%	%	SYM	_	_	3	nmod	_	_
 
 ~~~
 
@@ -52,7 +52,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 11	programado	programar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	5	conj	_	_
 12	pra	para	ADP	_	_	13	mark	_	_
 13	perder	perder	VERB	_	VerbForm=Inf	11	advcl	_	_
-14	kkk	kkk	X	_	_	5	discourse	_	SpaceAfter=No
+14	kkk	kkk	X	_	_	5	discourse	_	_
 
 ~~~
 
@@ -86,7 +86,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 21	hj	hoje	ADV	_	Abbr=Yes	23	advmod	_	FullForm=hoje
 22	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
 23	sexta	sexta-feira	NOUN	_	Abbr=Yes|Gender=Fem|Number=Sing	6	parataxis	_	FullForm=sexta-feira
-24	:)	:)	SYM	_	_	23	discourse	_	SpaceAfter=No
+24	:)	:)	SYM	_	_	23	discourse	_	_
 
 ~~~
 

@@ -8,28 +8,31 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="frm_profiterole-dep-aux.html">aux</a></tt>.
 
-78 nodes (1%) are attached to their parents as `aux:pass`.
+450 nodes (1%) are attached to their parents as `aux:pass`.
 
-77 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.58974358974359.
+441 instances of `aux:pass` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.48444444444444.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (77; 99% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (448; 100% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 aux:pass	color:blue
-1	Après	après	ADV	ADVgen	_	3	advmod	_	XmlId=w_32_01874
-2	fut	être	AUX	VERcjg	VerbForm=Fin	3	aux:pass	_	XmlId=w_32_01875
-3	apporté	apporter	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_32_01876
-4	le	le	DET	DETdef	Definite=Def|PronType=Art	5	det	_	XmlId=w_32_01877
-5	vin	vin1	NOUN	NOMcom	_	3	nsubj	_	XmlId=w_32_01878
-6	et	et	CCONJ	CONcoo	_	8	cc	_	XmlId=w_32_01879
-7	les	le	DET	DETdef	Definite=Def|PronType=Art	8	det	_	XmlId=w_32_01880
-8	espices	épice	NOUN	NOMcom	_	5	conj	_	XmlId=w_32_01881
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 9 aux:pass	color:blue
+1	mais	mais1	CCONJ	CONcoo	_	11	cc:nc	_	XmlId=w_32_02442
+2	le	le	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_32_02443
+3	neu	noeud	NOUN	NOMcom	_	11	nsubj	_	XmlId=w_32_02444
+4	de	de	ADP	PRE	_	6	case	_	XmlId=w_32_02445
+5	ceste	cist	DET	DETdem	PronType=Dem	6	det	_	XmlId=w_32_02446
+6	matière	matière	NOUN	NOMcom	_	3	nmod	_	XmlId=w_32_02447
+7	ne	ne1	ADV	ADVneg	PronType=Neg	11	advmod	_	XmlId=w_32_02448
+8	luy	lui	PRON	PROper	PronType=Prs	11	iobj	_	XmlId=w_32_02449
+9	fut	être	AUX	VERcjg	VerbForm=Fin	11	aux:pass	_	XmlId=w_32_02450
+10	jamais	jamais	ADV	ADVgen	_	11	advmod	_	XmlId=w_32_02451
+11	descouvert	découvrir	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_32_02452
 
 ~~~
 

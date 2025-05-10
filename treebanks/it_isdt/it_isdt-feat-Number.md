@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-157133 tokens (53%) have a non-empty value of `Number`.
-19376 types (70%) occur at least once with a non-empty value of `Number`.
+157179 tokens (53%) have a non-empty value of `Number`.
+19377 types (70%) occur at least once with a non-empty value of `Number`.
 11012 lemmas (59%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (54876; 18% instances), <tt><a href="it_isdt-pos-DET.html">DET</a></tt> (47995; 16% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (19426; 7% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (18875; 6% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (11024; 4% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (4913; 2% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (54925; 18% instances), <tt><a href="it_isdt-pos-DET.html">DET</a></tt> (47995; 16% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (19422; 7% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (18876; 6% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (11024; 4% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (4913; 2% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-54876 <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> tokens (92% of all `NOUN` tokens) have a non-empty value of `Number`.
+54925 <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> tokens (92% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (30469; 56%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (30518; 56%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (16665; 30% of non-empty `Number`): <em>anni, persone, paesi, opere, cittadini, diritti, giorni, membri, donne, condizioni</em>
-* `Sing` (38211; 70% of non-empty `Number`): <em>presidente, parte, anno, fondo, diritto, legge, stato, proprietario, mondo, caso</em>
+* `Sing` (38260; 70% of non-empty `Number`): <em>presidente, parte, anno, fondo, diritto, legge, stato, proprietario, mondo, caso</em>
 * `EMPTY` (4552): <em>città, società, film, proprietà, attività, servitù, autorità, radar, libertà, responsabilità</em>
 
 <table>
@@ -56,12 +56,12 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `ADJ`
 
-19426 <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Number`.
+19422 <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Number`.
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (6410; 33% of non-empty `Number`): <em>altri, grandi, seguenti, nazionali, importanti, locali, altre, speciali, internazionali, italiani</em>
-* `Sing` (13016; 67% of non-empty `Number`): <em>grande, presente, primo, comune, mondiale, prima, internazionale, nazionale, possibile, sociale</em>
+* `Sing` (13012; 67% of non-empty `Number`): <em>grande, presente, primo, comune, mondiale, prima, internazionale, nazionale, possibile, sociale</em>
 * `EMPTY` (353): <em>ex, pari, anti, gran, 1°, fa, vice, blu, maggior, post</em>
 
 <table>
@@ -75,14 +75,14 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `VERB`
 
-18875 <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Number`.
+18876 <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10741; 57%), <tt><a href="it_isdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10515; 56%), <tt><a href="it_isdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9629; 51%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (5336; 28% of non-empty `Number`): <em>hanno, sono, fanno, fatti, stabilite, trovano, stabiliti, applicano, partecipano, vivono</em>
-* `Sing` (13539; 72% of non-empty `Number`): <em>ha, è, fatto, trova, visto, fa, chiama, vinto, dice, avuto</em>
+* `Sing` (13540; 72% of non-empty `Number`): <em>ha, è, fatto, trova, visto, fa, chiama, vinto, dice, avuto</em>
 * `EMPTY` (6373): <em>fare, far, vedere, avere, dire, dare, pagare, andare, chiedere, usare</em>
 
 <table>
@@ -151,7 +151,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (1349; 27% of non-empty `Number`): <em>ci, li, noi, tutti, altri, loro, quelli, quelle, quali, le</em>
 * `Sing` (3564; 73% of non-empty `Number`): <em>lo, qual, quanto, mi, quale, quello, uno, la, questo, cosa</em>
-* `EMPTY` (6399): <em>si, che, chi, cui, ne, ci, c', se, vi, s'</em>
+* `EMPTY` (6398): <em>si, che, chi, cui, ne, ci, c', se, vi, s'</em>
 
 <table>
   <tr><th>Paradigm <i>lo</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -169,7 +169,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (8; 40% of non-empty `Number`): <em>quali</em>
 * `Sing` (12; 60% of non-empty `Number`): <em>quale, du</em>
-* `EMPTY` (45210): <em>di, a, in, da, per, con, su, come, ad, tra</em>
+* `EMPTY` (45235): <em>di, a, in, da, per, con, su, come, ad, tra</em>
 
 <table>
   <tr><th>Paradigm <i>quale</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -194,7 +194,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 `ADV` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>pochissimo</em>
-* `EMPTY` (11509): <em>non, più, anche, dove, come, quando, solo, prima, sempre, molto</em>
+* `EMPTY` (11441): <em>non, più, anche, dove, come, quando, solo, prima, sempre, molto</em>
 
 ### `PROPN`
 
@@ -208,14 +208,14 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="it_isdt-dep-det.html">det</a></tt>]--> DET</tt> (37631; 92%),
-<tt>NOUN --[<tt><a href="it_isdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14383; 90%),
-<tt>NOUN --[<tt><a href="it_isdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8452; 52%),
+<tt>NOUN --[<tt><a href="it_isdt-dep-det.html">det</a></tt>]--> DET</tt> (37632; 92%),
+<tt>NOUN --[<tt><a href="it_isdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14382; 90%),
+<tt>NOUN --[<tt><a href="it_isdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8453; 52%),
 <tt>VERB --[<tt><a href="it_isdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4378; 77%),
 <tt>VERB --[<tt><a href="it_isdt-dep-aux.html">aux</a></tt>]--> AUX</tt> (3318; 58%),
 <tt>NOUN --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3162; 72%),
 <tt>VERB --[<tt><a href="it_isdt-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (1905; 86%),
-<tt>NOUN --[<tt><a href="it_isdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (1741; 68%),
+<tt>NOUN --[<tt><a href="it_isdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (1739; 68%),
 <tt>NOUN --[<tt><a href="it_isdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1727; 74%),
 <tt>VERB --[<tt><a href="it_isdt-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (1586; 87%).
 

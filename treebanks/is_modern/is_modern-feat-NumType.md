@@ -46,7 +46,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Card` (89; 100% of non-empty `NumType`): <em>2., 1., 3., 5., 8., 9., 11., 4., 6., 10.</em>
-* `EMPTY` (4228): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, sama</em>
+* `EMPTY` (4229): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, sama</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (31) occur only with one value of `NumType`.
 

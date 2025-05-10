@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-356 nodes (2%) are attached to their parents as `aux`.
+415 nodes (2%) are attached to their parents as `aux`.
 
-195 instances of `aux` (55%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.22752808988764.
+228 instances of `aux` (55%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.22409638554217.
 
-The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (353; 99% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (409; 99% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

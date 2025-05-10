@@ -73,14 +73,20 @@ The 2nd highest number of forms (1) was observed with the lemma “contudo”: <
 
 The 3rd highest number of forms (1) was observed with the lemma “e”: <em>e</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="pt_porttinari-feat-ExtPos.html">ExtPos</a></tt> (13; 0% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (4198 tokens).
+Examples: <em>e, mas, ou, porém, Já, nem, contudo, tanto, portanto, como</em>
 
 
 ## Relations
 
 `CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="pt_porttinari-dep-cc.html">cc</a></tt> (4191; 100% instances), <tt><a href="pt_porttinari-dep-fixed.html">fixed</a></tt> (16; 0% instances), <tt><a href="pt_porttinari-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="pt_porttinari-dep-mark.html">mark</a></tt> (2; 0% instances)
 
-Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> (1701; 40% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (1435; 34% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt> (448; 11% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (359; 9% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (80; 2% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt> (74; 2% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (72; 2% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt> (16; 0% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (15; 0% instances), <tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pt_porttinari-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> (1701; 40% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (1435; 34% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt> (448; 11% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (359; 9% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (79; 2% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt> (74; 2% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (72; 2% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt> (16; 0% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (15; 0% instances), <tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pt_porttinari-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
 4081 (97%) `CCONJ` nodes are leaves.
 

@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Scottish_Gaelic-ARCOSG: Relations: `nmod`
 
 This relation is universal.
-There are 1 language-specific subtypes of `nmod`: <tt><a href="gd_arcosg-dep-nmod-poss.html">nmod:poss</a></tt>.
+There are 2 language-specific subtypes of `nmod`: <tt><a href="gd_arcosg-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="gd_arcosg-dep-nmod-unmarked.html">nmod:unmarked</a></tt>.
 
-5080 nodes (6%) are attached to their parents as `nmod`.
+4497 nodes (5%) are attached to their parents as `nmod`.
 
-4959 instances of `nmod` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.2494094488189.
+4458 instances of `nmod` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.40048921503224.
 
-The following 28 pairs of parts of speech are connected with `nmod`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (3033; 60% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (758; 15% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (643; 13% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (289; 6% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (91; 2% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (64; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (50; 1% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (39; 1% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (31; 1% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (23; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (12; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `nmod`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2666; 59% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (842; 19% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (461; 10% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (222; 5% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (63; 1% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (58; 1% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (38; 1% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (28; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (28; 1% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (25; 1% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (23; 1% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,11 +44,11 @@ The following 28 pairs of parts of speech are connected with `nmod`: <tt><a href
 3	leugh	leugh	VERB	V-s	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	thusa	thu	PRON	Pp2s--e	Form=Emp|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 5	gin	gin	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	3	obj	_	_
-6	riamh	riamh	ADV	Rt	_	3	advmod	_	_
+6	riamh	riamh	ADV	Rt	AdvType=Tim	3	advmod	_	_
 7	le	le	ADP	Sp	_	8	case	_	_
-8	Joan	Joan	PROPN	Nn-fd	Case=Dat|Gender=Fem	5	nmod	_	_
-9	Aitken	Aitken	PROPN	Nn	_	8	flat:name	_	_
-10	[Name]	[Name]	PROPN	Nn-fv	Case=Voc|Gender=Fem	3	vocative	_	Anonymised=Yes|SpaceAfter=No
+8	Joan	Joan	PROPN	Nn-fd	Case=Dat|Gender=Fem|NounType=Prs	5	nmod	_	_
+9	Aitken	Aitken	PROPN	Nn	NounType=Prs	8	flat:name	_	FlatType=Name
+10	[Name]	[Name]	PROPN	Nn-fv	Case=Voc|Gender=Fem|NounType=Prs	3	vocative	_	Anonymised=Yes|SpaceAfter=No
 11	?	?	PUNCT	Fg	_	3	punct	_	_
 
 ~~~
@@ -68,8 +68,8 @@ The following 28 pairs of parts of speech are connected with `nmod`: <tt><a href
 6	sandwiches	sandwiches	NOUN	Xfe	Foreign=Yes	3	obj	_	_
 7	aig	aig	ADP	Sp	_	8	case	_	_
 8	thu	thu	PRON	Pp2s	Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
-9	an-diugh	an-diugh	ADV	Rt	_	3	advmod	_	_
-10	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	3	vocative	_	Anonymised=Yes|SpaceAfter=No
+9	an-diugh	an-diugh	ADV	Rt	AdvType=Tim	3	advmod	_	_
+10	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc|NounType=Prs	3	vocative	_	Anonymised=Yes|SpaceAfter=No
 11	?	?	PUNCT	Fg	_	3	punct	_	_
 
 ~~~

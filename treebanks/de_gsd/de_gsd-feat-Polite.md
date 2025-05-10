@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 `PRON` tokens may have the following values of `Polite`:
 
 * `Form` (29; 100% of non-empty `Polite`): <em>Sie, Ihnen</em>
-* `EMPTY` (10816): <em>er, sich, es, sie, die, ich, der, man, das, wir</em>
+* `EMPTY` (10815): <em>er, sich, es, sie, die, ich, der, man, das, wir</em>
 
 ### `DET`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `DET` and `Polite` co-occurred
 `DET` tokens may have the following values of `Polite`:
 
 * `Form` (10; 100% of non-empty `Polite`): <em>Ihre, Ihrem, Ihrer</em>
-* `EMPTY` (41196): <em>der, die, dem, den, das, des, eine, ein, einer, einen</em>
+* `EMPTY` (41195): <em>der, die, dem, den, das, des, eine, ein, einer, einen</em>
 
 ### `VERB`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
 `VERB` tokens may have the following values of `Polite`:
 
 * `Form` (3; 100% of non-empty `Polite`): <em>Melden, beschreiben, sehen</em>
-* `EMPTY` (20641): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
+* `EMPTY` (20639): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
 
 ### `AUX`
 
@@ -56,5 +56,5 @@ The most frequent other feature values with which `AUX` and `Polite` co-occurred
 `AUX` tokens may have the following values of `Polite`:
 
 * `Form` (1; 100% of non-empty `Polite`): <em>haben</em>
-* `EMPTY` (10664): <em>ist, wurde, war, sind, werden, wird, wurden, kann, hat, waren</em>
+* `EMPTY` (10663): <em>ist, wurde, war, sind, werden, wird, wurden, kann, hat, waren</em>
 

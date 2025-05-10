@@ -47,17 +47,13 @@ The 3rd highest number of forms (1) was observed with the lemma “ანუ”:
 
 Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (1630; 60% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (415; 15% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (359; 13% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (168; 6% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (71; 3% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (36; 1% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (29; 1% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (3; 0% instances)
 
-2706 (99%) `CCONJ` nodes are leaves.
+2707 (99%) `CCONJ` nodes are leaves.
 
 22 (1%) `CCONJ` nodes have one child.
 
-0 (0%) `CCONJ` nodes have two children.
+The highest child degree of a `CCONJ` node is 1.
 
-1 (0%) `CCONJ` nodes have three or more children.
+Children of `CCONJ` nodes are attached using 1 different relations: <tt><a href="ka_glc-dep-punct.html">punct</a></tt> (22; 100% instances)
 
-The highest child degree of a `CCONJ` node is 3.
-
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="ka_glc-dep-punct.html">punct</a></tt> (22; 88% instances), <tt><a href="ka_glc-dep-fixed.html">fixed</a></tt> (3; 12% instances)
-
-Children of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="ka_glc-pos-PUNCT.html">PUNCT</a></tt> (22; 88% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 4% instances)
+Children of `CCONJ` nodes belong to 1 different parts of speech: <tt><a href="ka_glc-pos-PUNCT.html">PUNCT</a></tt> (22; 100% instances)
 

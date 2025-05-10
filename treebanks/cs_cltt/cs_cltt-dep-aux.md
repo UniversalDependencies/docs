@@ -50,14 +50,14 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 7 6 aux	color:blue
 1	(4)	(4)	PUNCT	Z:-------------	_	14	punct	14:punct	_
 2	Účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	3	amod	3:amod	LId=účetní-1
-3	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	14	nsubj	14:nsubj	SpaceAfter=No
+3	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	14	nsubj	7:nsubj|9:nsubj|14:nsubj	SpaceAfter=No
 4	,	,	PUNCT	Z:-------------	_	7	punct	7:punct	_
-5	které	který	DET	P4FP1----------	Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel	7	nsubj	7:nsubj|9:nsubj	_
+5	které	který	DET	P4FP1----------	Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel	7	nsubj	3:ref	_
 6	nejsou	být	AUX	VB-P---3P-NA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	7:aux|9:aux	_
-7	založeny	založený	ADJ	VsTP---XX-AP---	Animacy=Inan|Degree=Pos|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	3	amod	3:amod	LDeriv=založit
+7	založeny	založený	ADJ	VsTP---XX-AP---	Animacy=Inan|Degree=Pos|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	3	acl:relcl	3:acl:relcl	LDeriv=založit
 8	nebo	nebo	CCONJ	J^-------------	_	9	cc	9:cc	_
-9	zřízeny	zřízený	ADJ	VsTP---XX-AP---	Animacy=Inan|Degree=Pos|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	7	conj	3:amod|7:conj	LDeriv=zřídit
-10	za	za	ADP	RR--7----------	AdpType=Prep|Case=Ins	12	case	12:case	LId=za-1
+9	zřízeny	zřízený	ADJ	VsTP---XX-AP---	Animacy=Inan|Degree=Pos|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	7	conj	3:acl:relcl|7:conj	LDeriv=zřídit
+10	za	za	ADP	RR--7----------	AdpType=Prep|Case=Ins|ExtPos=ADP	12	case	12:case	LId=za-1
 11	účelem	účel	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	fixed	10:fixed	_
 12	podnikání	podnikání	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	7	obl	7:obl:za_účelem:gen|9:obl:za_účelem:gen	SpaceAfter=No
 13	,	,	PUNCT	Z:-------------	_	7	punct	7:punct	_
@@ -67,7 +67,7 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 17	1	1	NUM	C}-------------	NumForm=Roman|NumType=Card	16	nummod	16:nummod	_
 18	až	až	SCONJ	J,-------------	_	19	cc	19:cc	LId=až-2
 19	3	3	NUM	C}-------------	NumForm=Roman|NumType=Card	17	conj	16:nummod|17:conj	_
-20	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	24	case	24:case	LId=v-1
+20	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc|ExtPos=ADP	24	case	24:case	LId=v-1
 21	souladu	soulad	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	fixed	20:fixed	_
 22	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	20	fixed	20:fixed	LId=s-1
 23	účetními	účetní	ADJ	AAFP7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	24	amod	24:amod	LId=účetní-1

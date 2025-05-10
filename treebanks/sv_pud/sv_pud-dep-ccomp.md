@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-126 nodes (1%) are attached to their parents as `ccomp`.
+122 nodes (1%) are attached to their parents as `ccomp`.
 
-126 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.57936507936508.
+122 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.5983606557377.
 
-The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (91; 72% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (13; 10% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (10; 8% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-PART.html">PART</a></tt>-<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (91; 75% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (13; 11% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (10; 8% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-PART.html">PART</a></tt>-<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 5	järn	järn	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	3	nmod	3:nmod:för	_
 6	innebär	innebära	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 7	att	att	SCONJ	SN	_	10	mark	10:mark	_
-8	fler	fler	ADJ	JJ|POS|UTR/NEU|PLU|IND|NOM	Case=Nom|Degree=Pos|Number=Plur	9	amod	9:amod	_
+8	fler	många	ADJ	JJ|POS|UTR/NEU|PLU|IND|NOM	Case=Nom|Degree=Cmp|Number=Plur	9	amod	9:amod	_
 9	donatorer	donator	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	10	nsubj:pass	10:nsubj:pass	_
 10	behövs	behöva	VERB	VB|PRS|SFO	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	6	ccomp	6:ccomp	SpaceAfter=No
 11	.	.	PUNCT	MAD	_	6	punct	6:punct	_
@@ -47,7 +47,7 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 2	Sánchez	Sánchez	PROPN	PM|NOM	Case=Nom	1	flat:name	1:flat:name	SpaceAfter=No
 3	,	,	PUNCT	MID	_	7	punct	7:punct	_
 4	liksom	liksom	ADP	PP	_	7	mark	7:mark	_
-5	många	mången	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	7	amod	7:amod	_
+5	många	många	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	7	amod	7:amod	_
 6	andra	annan	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	7	amod	7:amod	_
 7	socialister	socialist	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	1	acl	1:acl:liksom	SpaceAfter=No
 8	,	,	PUNCT	MID	_	7	punct	7:punct	_
@@ -58,7 +58,7 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 13	att	att	SCONJ	SN	_	17	mark	17:mark	_
 14	Spanien	Spanien	PROPN	PM|NOM	Case=Nom	17	nsubj	17:nsubj	_
 15	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	17:cop	_
-16	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing	17	det	17:det	_
+16	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	17	det	17:det	_
 17	nation	nation	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	9	ccomp	9:ccomp	_
 18	av	av	ADP	PP	_	19	case	19:case	_
 19	nationer	nation	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	17	nmod	17:nmod:av	SpaceAfter=No
@@ -73,7 +73,7 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 10 ccomp	color:blue
-1	Jag	jag	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing	2	nsubj	2:nsubj	_
+1	Jag	jag	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	2	nsubj	2:nsubj	_
 2	åker	åka	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	i	i	ADP	PP	_	4	case	4:case	_
 4	fängelse	fängelse	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	2	obl	2:obl:i	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-145 nodes (1%) are attached to their parents as `iobj`.
+179 nodes (1%) are attached to their parents as `iobj`.
 
-141 instances of `iobj` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.76551724137931.
+175 instances of `iobj` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.76536312849162.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (100; 69% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (42; 29% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (3; 2% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (126; 70% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (49; 27% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (4; 2% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 2	aintá	aintá	PRON	PRON2	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	iobj	_	TokenRange=7:12
 3	supé	supé	ADP	ADP	AdpType=Post	2	case	_	TokenRange=13:17
 4	puranga	puranga	ADJ	A	_	1	ccomp	_	TokenRange=18:25
-5	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No|TokenRange=26:29
+5	ixé	ixé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No|TokenRange=26:29
 6	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=29:30
 
 ~~~
@@ -38,7 +38,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 iobj	color:blue
-1	Aé	aé	PRON	PRON	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
+1	Aé	aé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
 2	upiripana	piripana	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=3:12
 3	kurí	kurí	PART	FUT	Tense=Fut	2	advmod	_	TokenRange=13:17
 4	maã-itá	maã	NOUN	N	Number=Plur	2	obj	_	TokenRange=18:25
@@ -61,7 +61,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 iobj	color:blue
-1	Aé	aé	PRON	PRON	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
+1	Aé	aé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
 2	unheẽ	nheẽ	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=3:8
 3	Maria	maria	PROPN	PROPN	_	2	iobj	_	TokenRange=9:14
 4	supé	supé	ADP	ADP	AdpType=Post	3	case	_	SpaceAfter=No|TokenRange=15:19

@@ -9,12 +9,27 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `compound`: <tt><a href="fi_ood-dep-compound-nn.html">compound:nn</a></tt>, <tt><a href="fi_ood-dep-compound-prt.html">compound:prt</a></tt>.
 
-1 nodes (0%) are attached to their parents as `compound`.
+6 nodes (0%) are attached to their parents as `compound`.
 
-1 instances of `compound` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.
+6 instances of `compound` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.83333333333333.
 
-The following 1 pairs of parts of speech are connected with `compound`: <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (1; 100% instances).
+The following 2 pairs of parts of speech are connected with `compound`: <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-X.html">X</a></tt> (5; 83% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (1; 17% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 compound	color:blue
+1	Moderni	moderni	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
+2	All	All	X	_	Foreign=Yes	4	compound	_	OrigLang=en
+3	Inclusive	Inclusive	X	_	Foreign=Yes	2	flat:foreign	_	OrigLang=en
+4	-hotelli	hotelli	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+5	rannalla	ranta	NOUN	_	Case=Ade|Number=Sing	4	orphan	_	SpacesAfter=\n
+
+~~~
 
 
 ~~~ conllu

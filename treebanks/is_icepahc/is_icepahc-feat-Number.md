@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-527761 tokens (54%) have a non-empty value of `Number`.
+527990 tokens (54%) have a non-empty value of `Number`.
 63390 types (97%) occur at least once with a non-empty value of `Number`.
-31217 lemmas (89%) occur at least once with a non-empty value of `Number`.
-The feature is used with 16 part-of-speech tags: <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (143432; 15% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (119384; 12% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (93949; 10% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (45556; 5% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (43184; 4% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (38485; 4% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (35567; 4% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (4366; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (2738; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (531; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (211; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (161; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (129; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (31; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (27; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (10; 0% instances).
+31214 lemmas (89%) occur at least once with a non-empty value of `Number`.
+The feature is used with 16 part-of-speech tags: <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (143432; 15% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (119385; 12% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (93946; 10% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (45786; 5% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (43184; 4% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (38485; 4% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (35570; 4% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (4365; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (2738; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (531; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (210; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (161; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (129; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (31; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (27; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (10; 0% instances).
 
 ### `NOUN`
 
@@ -48,15 +48,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `PRON`
 
-119384 <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Number`.
+119385 <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="is_icepahc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (107232; 90%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (90335; 76%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="is_icepahc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (107235; 90%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (90334; 76%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (27440; 23% of non-empty `Number`): <em>þeir, þeim, þeirra, vér, oss, þau, yður, þér, við, sínum</em>
+* `Plur` (27441; 23% of non-empty `Number`): <em>þeir, þeim, þeirra, vér, oss, þau, yður, þér, við, sínum</em>
 * `Sing` (91944; 77% of non-empty `Number`): <em>hann, það, því, þú, eg, ég, honum, hans, hún, mér</em>
-* `EMPTY` (953): <em>þá, annars, þú, hvert, annaðhvort, hvort, því, hvör, yðra, við</em>
+* `EMPTY` (952): <em>þá, annars, þú, hvert, annaðhvort, hvort, því, hvör, yðra, við</em>
 
 <table>
   <tr><th>Paradigm <i>hann</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -103,15 +103,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `VERB`
 
-93949 <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Number`.
+93946 <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (78697; 84%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (77720; 83%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (77700; 83%), <tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (77700; 83%), <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (70321; 75%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt> (64796; 69%), <tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (47818; 51%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (79379; 84%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (78423; 83%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (78403; 83%), <tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (78403; 83%), <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (70981; 76%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt> (65368; 70%), <tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (47917; 51%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (19907; 21% of non-empty `Number`): <em>komu, fóru, gengu, sögðu, tóku, urðu, koma, höfðu, komnir, sáu</em>
-* `Sing` (74042; 79% of non-empty `Number`): <em>sagði, segir, kom, mælti, fór, tók, varð, gekk, lét, hafði</em>
-* `EMPTY` (34739): <em>fara, segja, sjá, taka, koma, láta, ganga, gera, halda, vita</em>
+* `Plur` (19871; 21% of non-empty `Number`): <em>komu, fóru, gengu, sögðu, tóku, urðu, koma, höfðu, komnir, sáu</em>
+* `Sing` (74075; 79% of non-empty `Number`): <em>sagði, segir, kom, mælti, fór, tók, varð, gekk, lét, hafði</em>
+* `EMPTY` (34738): <em>fara, segja, sjá, taka, koma, láta, ganga, gera, halda, vita</em>
 
 <table>
   <tr><th>Paradigm <i>segja</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -126,7 +126,6 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>segjanda</em></td><td></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>sögu, sögðu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>segi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>segða</em></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>sögðu</em></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>sagða</em></td><td></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>sagða</em></td><td></td></tr>
@@ -149,7 +148,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>sagðist, seigist</em></td><td><em>sögðust</em></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>segir</em></td><td><em>segja</em></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>segist</em></td><td><em>segjast</em></td></tr>
-  <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>segði</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>segði, segða</em></td><td></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>segi</em></td><td><em>Segjum</em></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>segði</em></td><td><em>segðu</em></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>segi</em></td><td><em>segi</em></td></tr>
@@ -157,15 +156,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `AUX`
 
-45556 <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Number`.
+45786 <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (44685; 98%), <tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (44592; 98%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt> (37810; 83%), <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (35960; 79%), <tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (23720; 52%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (44915; 98%), <tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (44822; 98%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt> (38033; 83%), <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (36187; 79%), <tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (23719; 52%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (9419; 21% of non-empty `Number`): <em>voru, eru, hafa, höfðu, munu, skyldu, væru, vildu, skulum, mundu</em>
-* `Sing` (36137; 79% of non-empty `Number`): <em>var, er, hafði, væri, mun, hefði, sé, hefir, hefur, skal</em>
-* `EMPTY` (5695): <em>vera, verið, hafa, er, verða, vilja, haft, geta, mega, mundu</em>
+* `Plur` (9420; 21% of non-empty `Number`): <em>voru, eru, hafa, höfðu, munu, skyldu, væru, vildu, skulum, mundu</em>
+* `Sing` (36366; 79% of non-empty `Number`): <em>var, er, hafði, væri, mun, hefði, sé, hefir, hefur, skal</em>
+* `EMPTY` (5465): <em>vera, verið, hafa, verða, er, vilja, haft, geta, mega, mundu</em>
 
 <table>
   <tr><th>Paradigm <i>vera</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -215,7 +214,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>er, sér, veit, ver</em></td><td><em>eru, vóru</em></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>sért, ert</em></td><td><em>várust</em></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>væri</em></td><td><em>værum, værim</em></td></tr>
-  <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>sé, sják</em></td><td><em>séum, séim</em></td></tr>
+  <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>sé, sják</em></td><td><em>séum, séim, Verum</em></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>værir</em></td><td><em>væruð</em></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>sért</em></td><td><em>séuð, sé</em></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>væri, sé</em></td><td><em>væru, vóru</em></td></tr>
@@ -230,8 +229,8 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (10993; 25% of non-empty `Number`): <em>allir, öllum, þeim, alla, allra, þá, þau, öll, margir, allar</em>
-* `Sing` (32191; 75% of non-empty `Number`): <em>þetta, sá, allt, einn, það, þann, þessu, hinn, þessi, þessa</em>
+* `Plur` (10992; 25% of non-empty `Number`): <em>allir, öllum, þeim, alla, allra, þá, þau, öll, margir, allar</em>
+* `Sing` (32192; 75% of non-empty `Number`): <em>þetta, sá, allt, einn, það, þann, þessu, hinn, þessi, þessa</em>
 * `EMPTY` (1763): <em>meir, mikið, ekki, mest, meira, lítt, lítið, bæði, eins, engi</em>
 
 <table>
@@ -249,7 +248,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="is_icepahc-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>þeirri</em></td><td><em>þeim</em></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="is_icepahc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>þeim</em></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="is_icepahc-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>því</em></td><td><em>þeim</em></td></tr>
-  <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="is_icepahc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>því</em></td><td><em>þeim</em></td></tr>
+  <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="is_icepahc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>því, þeim</em></td><td><em>þeim</em></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="is_icepahc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>þeim</em></td><td></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>þeira</em></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="is_icepahc-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>þess</em></td><td><em>þeirra</em></td></tr>
@@ -299,14 +298,14 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `ADJ`
 
-35567 <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Number`.
+35570 <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (27877; 78%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (26324; 74%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (19022; 53%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (27880; 78%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (26327; 74%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (19022; 53%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (8112; 23% of non-empty `Number`): <em>góðum, góðir, góðar, góð, sömu, stór, bestu, góðra, heilagra, fyrstu</em>
-* `Sing` (27455; 77% of non-empty `Number`): <em>sama, gott, satt, góða, góður, fyrsta, þriðja, heilaga, sæla, gamall</em>
+* `Plur` (8114; 23% of non-empty `Number`): <em>góðum, góðir, góðar, góð, sömu, stór, bestu, góðra, heilagra, fyrstu</em>
+* `Sing` (27456; 77% of non-empty `Number`): <em>sama, gott, satt, góða, góður, fyrsta, þriðja, heilaga, sæla, gamall</em>
 * `EMPTY` (1591): <em>nær, 1., langt, víst, lengi, kongl., skammt, illa, lengra, næst</em>
 
 <table>
@@ -380,13 +379,13 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `ADV`
 
-4366 <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> tokens (6% of all `ADV` tokens) have a non-empty value of `Number`.
+4365 <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> tokens (6% of all `ADV` tokens) have a non-empty value of `Number`.
 
 `ADV` tokens may have the following values of `Number`:
 
 * `Plur` (1080; 25% of non-empty `Number`): <em>þá, allir, fyrri, einnin, marga, margar, aldregi, fleiri, einir, margir</em>
-* `Sing` (3286; 75% of non-empty `Number`): <em>hvað, aldri, þá, nær, einn, einnin, heldur, hverninn, einasta, fyrri</em>
-* `EMPTY` (74653): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
+* `Sing` (3285; 75% of non-empty `Number`): <em>hvað, aldri, þá, nær, einn, einnin, heldur, hverninn, einasta, fyrri</em>
+* `EMPTY` (74654): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
 
 <table>
   <tr><th>Paradigm <i>þá</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -455,13 +454,13 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 ### `SCONJ`
 
-211 <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> tokens (1% of all `SCONJ` tokens) have a non-empty value of `Number`.
+210 <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> tokens (1% of all `SCONJ` tokens) have a non-empty value of `Number`.
 
 `SCONJ` tokens may have the following values of `Number`:
 
 * `Plur` (15; 7% of non-empty `Number`): <em>hverjar, hverjir, hver, er, eru, hvaða, hverja, hvör, hvörjum</em>
-* `Sing` (196; 93% of non-empty `Number`): <em>það, er, hvert, hvor, hvört, hvort, hver, eð, hverja, hverjum</em>
-* `EMPTY` (41678): <em>að, sem, er, en, ef, þegar, þó, nema, hvort, meðan</em>
+* `Sing` (195; 93% of non-empty `Number`): <em>það, er, hvert, hvor, hvört, hvort, hver, eð, hverja, hverjum</em>
+* `EMPTY` (41680): <em>að, sem, er, en, ef, þegar, þó, nema, hvort, meðan</em>
 
 <table>
   <tr><th>Paradigm <i>er</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -573,14 +572,14 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="is_icepahc-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (33436; 75%),
-<tt>VERB --[<tt><a href="is_icepahc-dep-conj.html">conj</a></tt>]--> VERB</tt> (17408; 69%),
-<tt>VERB --[<tt><a href="is_icepahc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (15344; 79%),
+<tt>VERB --[<tt><a href="is_icepahc-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (33470; 75%),
+<tt>VERB --[<tt><a href="is_icepahc-dep-conj.html">conj</a></tt>]--> VERB</tt> (17456; 69%),
+<tt>VERB --[<tt><a href="is_icepahc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (15383; 79%),
 <tt>NOUN --[<tt><a href="is_icepahc-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (15252; 83%),
-<tt>NOUN --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14810; 93%),
+<tt>NOUN --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14813; 93%),
 <tt>NOUN --[<tt><a href="is_icepahc-dep-det.html">det</a></tt>]--> DET</tt> (13937; 95%),
 <tt>NOUN --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> DET</tt> (10012; 93%),
-<tt>VERB --[<tt><a href="is_icepahc-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (9945; 83%),
-<tt>VERB --[<tt><a href="is_icepahc-dep-obl.html">obl</a></tt>]--> PRON</tt> (8124; 53%),
-<tt>VERB --[<tt><a href="is_icepahc-dep-cop.html">cop</a></tt>]--> AUX</tt> (7655; 81%).
+<tt>VERB --[<tt><a href="is_icepahc-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (9961; 83%),
+<tt>VERB --[<tt><a href="is_icepahc-dep-obl.html">obl</a></tt>]--> PRON</tt> (8132; 53%),
+<tt>VERB --[<tt><a href="is_icepahc-dep-cop.html">cop</a></tt>]--> AUX</tt> (7734; 81%).
 

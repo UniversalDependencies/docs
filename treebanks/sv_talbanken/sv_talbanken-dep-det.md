@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4872 nodes (5%) are attached to their parents as `det`.
+4884 nodes (5%) are attached to their parents as `det`.
 
-4871 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.65414614121511.
+4883 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.64987714987715.
 
-The following 11 pairs of parts of speech are connected with `det`: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (4514; 93% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (296; 6% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (9; 0% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `det`: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (4545; 93% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (268; 5% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (44; 1% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,23 +56,18 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 det	color:blue
-1	Men	men	CCONJ	KN	_	5	cc	5:cc	_
-2	av	av	ADP	PP	_	4	case	4:case	_
-3	dessa	denna	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur|PronType=Dem	4	det	4:det	_
-4	96	96	NUM	RG|NOM	Case=Nom|NumType=Card	5	obl	5:obl:av	_
-5	röstade	rösta	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-6	bara	bara	ADV	AB	_	5	advmod	5:advmod	_
-7	12	12	NUM	RG|NOM	Case=Nom|NumType=Card	5	nummod	5:nummod	_
-8	vid	vid	ADP	PP	_	9	case	9:case	_
-9	kyrkovalet	kyrkoval	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	5	obl	5:obl:vid	_
-10	i	i	ADP	PP	_	11	case	11:case	_
-11	söndags	söndag	NOUN	NN|UTR|SIN|IND|GEN	Case=Gen|Definite=Ind|Gender=Com|Number=Sing	9	nmod	9:nmod:i	SpaceAfter=No
-12	.	.	PUNCT	MAD	_	5	punct	5:punct	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 det	color:blue
+1	Allt	all	DET	DT|NEU|SIN|IND/DEF	Gender=Neut|Number=Sing|PronType=Tot	2	det	2:det	_
+2	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	3	obj	3:obj	_
+3	tog	ta	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	dom	de	PRON	PN|UTR/NEU|PLU|DEF|SUB/OBJ	Definite=Def|Number=Plur|PronType=Prs	3	nsubj	3:nsubj	_
+5	ifrån	ifrån	ADP	PP	_	6	case	6:case	_
+6	oss	vi	PRON	PN|UTR|PLU|DEF|OBJ	Case=Acc|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	3	obl	3:obl:ifrån	SpaceAfter=No
+7	.	.	PUNCT	MAD	_	3	punct	3:punct	_
 
 ~~~
 

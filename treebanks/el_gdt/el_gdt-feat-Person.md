@@ -12,19 +12,19 @@ It occurs with 3 different values: `1`, `2`, `3`.
 9359 tokens (15%) have a non-empty value of `Person`.
 2854 types (25%) occur at least once with a non-empty value of `Person`.
 908 lemmas (14%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (5398; 9% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2293; 4% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (1064; 2% instances), <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (604; 1% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (5631; 9% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2293; 4% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (831; 1% instances), <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (604; 1% instances).
 
 ### `VERB`
 
-5398 <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> tokens (92% of all `VERB` tokens) have a non-empty value of `Person`.
+5631 <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> tokens (92% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5398; 100%), <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5378; 100%), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3839; 71%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3241; 60%), <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2795; 52%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5631; 100%), <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5611; 100%), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4072; 72%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3474; 62%), <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3028; 54%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (1004; 19% of non-empty `Person`): <em>ήθελα, πιστεύω, έχουμε, θέλω, θεωρώ, μπορούμε, ελπίζω, πω, κάνουμε, θέλουμε</em>
+* `1` (1004; 18% of non-empty `Person`): <em>ήθελα, πιστεύω, έχουμε, θέλω, θεωρώ, μπορούμε, ελπίζω, πω, κάνουμε, θέλουμε</em>
 * `2` (118; 2% of non-empty `Person`): <em>είπατε, επιτρέψτε, Δώστε, έχετε, αναφερθήκατε, επισκεφθείτε, κάνετε, μπορείτε, Αφήστε, βρεθείτε</em>
-* `3` (4276; 79% of non-empty `Person`): <em>μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, βρίσκεται, πρόκειται, μπορούν</em>
+* `3` (4509; 80% of non-empty `Person`): <em>πρέπει, μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, βρίσκεται, πρόκειται</em>
 * `EMPTY` (468): <em>λέγοντας, γίνει, λάβει, προκαλώντας, χτισμένη, έχοντας, ακολουθώντας, δημιουργήσει, επιτύχει, πει</em>
 
 <table>
@@ -65,15 +65,15 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-1064 <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> tokens (35% of all `AUX` tokens) have a non-empty value of `Person`.
+831 <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> tokens (30% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1064; 100%), <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1064; 100%), <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1050; 99%), <tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (848; 80%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (823; 77%), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (599; 56%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (831; 100%), <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (831; 100%), <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (817; 98%), <tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (627; 75%), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (599; 72%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (590; 71%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (48; 5% of non-empty `Person`): <em>είμαστε, έχουμε, είμαι, έχω, ήμασταν, είχαμε</em>
+* `1` (48; 6% of non-empty `Person`): <em>είμαστε, έχουμε, είμαι, έχω, ήμασταν, είχαμε</em>
 * `2` (6; 1% of non-empty `Person`): <em>έχετε, είσαστε, είχατε</em>
-* `3` (1010; 95% of non-empty `Person`): <em>είναι, πρέπει, ήταν, έχει, έχουν, είχε, είχαν, έπρεπε, ήσαν</em>
+* `3` (777; 94% of non-empty `Person`): <em>είναι, ήταν, έχει, έχουν, είχε, είχαν, ήσαν</em>
 * `EMPTY` (1955): <em>να, θα, ας, ν', έχοντας</em>
 
 <table>
@@ -104,12 +104,12 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="el_gdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (514; 94%),
 <tt>VERB --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (432; 85%),
-<tt>VERB --[<tt><a href="el_gdt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (406; 63%),
-<tt>VERB --[<tt><a href="el_gdt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (346; 61%),
+<tt>VERB --[<tt><a href="el_gdt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (403; 62%),
+<tt>VERB --[<tt><a href="el_gdt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (347; 61%),
 <tt>VERB --[<tt><a href="el_gdt-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (342; 89%),
+<tt>VERB --[<tt><a href="el_gdt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (209; 70%),
 <tt>VERB --[<tt><a href="el_gdt-dep-obj.html">obj</a></tt>]--> PRON</tt> (188; 51%),
 <tt>VERB --[<tt><a href="el_gdt-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> PRON</tt> (165; 88%),
-<tt>VERB --[<tt><a href="el_gdt-dep-obl.html">obl</a></tt>]--> PRON</tt> (127; 61%),
-<tt>VERB --[<tt><a href="el_gdt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (55; 72%),
-<tt>PRON --[<tt><a href="el_gdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (50; 68%).
+<tt>VERB --[<tt><a href="el_gdt-dep-obl.html">obl</a></tt>]--> PRON</tt> (128; 61%),
+<tt>PRON --[<tt><a href="el_gdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (51; 69%).
 

@@ -45,7 +45,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 2	billiger	billig	ADJ	ADJD	Degree=Cmp|Variant=Short	10	advmod	_	_
 3	sei	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 4	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	US-Mobilfunker	Funker	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj:pass	_	_
+5	US-Mobilfunker	US-Mobilfunker	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj:pass	_	_
 6	wahrscheinlich	wahrscheinlich	ADJ	ADJD	Degree=Pos|Variant=Short	10	advmod	_	_
 7	gar	gar	ADV	ADV	_	10	advmod	_	_
 8	nicht	nicht	PART	PTKNEG	Polarity=Neg	10	advmod	_	_

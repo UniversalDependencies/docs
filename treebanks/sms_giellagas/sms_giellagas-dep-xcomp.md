@@ -62,7 +62,7 @@ The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href
 5	da	da	CCONJ	CC	_	6	cc	_	_
 6	mättat	mättʼted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3
 7	što	što	SCONJ	CS	_	9	mark	_	_
-8	mäʹhtt	mäʹhtt	ADV	Adv	_	9	advmod:mmod	_	_
+8	mäʹhtt	mäʹhtt	ADV	Adv	_	9	advmod	_	_
 9	âlgg	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	ccomp	_	GTtags=Ind,Prs,Sg3
 10	jååʹtted	jååʹtted	VERB	V	VerbForm=Inf	9	xcomp	_	GTtags=Inf
 11	što	što	SCONJ	CS	_	14	mark	_	_

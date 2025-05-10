@@ -23,7 +23,7 @@ The following 30 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 4	fgColor:white
 # visual-style 4 8 conj	color:blue
 1	Идралін	идравны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	4	advcl	_	_
-2	аскадӧ	аскадӧ	NOUN	N	Case=Ill|Number=Sing	1	obl:tmod	_	_
+2	аскадӧ	аскадӧ	NOUN	N	Case=Ill|Number=Sing	1	obl	_	_
 3	–	–	PUNCT	PUNCT	_	4	punct	_	_
 4	выиграйтін	выиграйтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	OrigLang=ru|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	_
@@ -59,7 +59,7 @@ The following 30 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 4	fgColor:white
 # visual-style 4 6 conj	color:blue
 1	А	а	CCONJ	CC	_	4	cc	_	GTtags=CC
-2	юрын	юр	NOUN	N	Case=Ine|Number=Sing	4	obl:lmod	_	GTtags=N,Sg,Ine
+2	юрын	юр	NOUN	N	Case=Ine|Number=Sing	4	obl	_	GTtags=N,Sg,Ine
 3	думъяс	дум	NOUN	N	Case=Nom|Number=Plur	4	nsubj	_	GTtags=N,Pl,Nom
 4	кыпыдӧсь	кыпыд	ADJ	A	Number[subj]=Plur	0	root	_	GTtags=A,Cop,Pl|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	GTtags=CLB

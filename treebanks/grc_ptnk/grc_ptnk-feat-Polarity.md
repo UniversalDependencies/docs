@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="grc_ptnk-pos-ADV.ht
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (358; 100% of non-empty `Polarity`): <em>μὴ, οὐκ, οὐ, οὐχ, μή, οὐχί, οὐχὶ, οὔκ</em>
-* `EMPTY` (699): <em>ἐκεῖ, ἔτι, νῦν, οὖν, σφόδρα, οὕτως, ἡνίκα, σήμερον, ἐκεῖθεν, μήποτε</em>
+* `EMPTY` (697): <em>ἐκεῖ, ἔτι, νῦν, οὖν, σφόδρα, οὕτως, ἡνίκα, σήμερον, ἐκεῖθεν, μήποτε</em>
 
 ### `CCONJ`
 
@@ -30,5 +30,5 @@ The feature is used with 2 part-of-speech tags: <tt><a href="grc_ptnk-pos-ADV.ht
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (11; 100% of non-empty `Polarity`): <em>μηδὲ, οὐδὲ</em>
-* `EMPTY` (4299): <em>καὶ, δὲ, ἕως, ἢ, τε, ἀλλ᾿, δέ, ἀλλὰ, ὅτε, καί</em>
+* `EMPTY` (4301): <em>καὶ, δὲ, ἕως, ἢ, τε, ἀλλ᾿, δέ, ἀλλὰ, ὅτε, καί</em>
 

@@ -41,7 +41,7 @@ The following 22 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 case	color:blue
-1	tsə́tngə́n	tsə́tn	VERB	_	VerbForm=Vnoun	7	dislocated	_	AlignBegin=51277|AlignEnd=51436|Gloss=sit
+1	tsə́tngə́n	tsə́tn	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	7	dislocated	_	AlignBegin=51277|AlignEnd=51436|Gloss=sit
 2	də̀n	də̀n	NOUN	_	_	1	dep	_	AlignBegin=51595|AlignEnd=51913|Gloss=house
 3	máː	máː	PART	_	_	1	advmod	_	AlignBegin=51913|AlignEnd=52231|Gloss=even
 4	<	<	PUNCT	_	_	1	punct	_	AlignBegin=52231|AlignEnd=52549|Gloss=PUNCT

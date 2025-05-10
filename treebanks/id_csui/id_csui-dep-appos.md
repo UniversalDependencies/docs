@@ -58,7 +58,7 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 8	,	,	PUNCT	,	_	4	punct	_	_
 9	akan	akan	AUX	MD	_	10	aux	_	_
 10	meraih	raih	VERB	VB	Mood=Ind|Voice=Act	3	ccomp	_	_
-11	lebih	lebih	ADJ	JJ	_	15	acl:relcl	_	_
+11	lebih	lebih	ADJ	JJ	ExtPos=ADV	15	advmod	_	_
 12	dari	dari	SCONJ	IN	_	11	fixed	_	_
 13	satu	satu	NUM	CD	NumType=Card	15	nummod	_	_
 14	juta	juta	NUM	CD	NumType=Card	13	flat	_	_

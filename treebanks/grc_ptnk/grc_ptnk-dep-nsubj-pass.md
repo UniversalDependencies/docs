@@ -25,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 6 7 nsubj:pass	color:blue
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
-3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	Gloss=the;-oh
+3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh
 4	θεός	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=god|SpaceAfter=No
 5	·	·	PUNCT	_	_	6	punct	_	_
 6	γενηθήτω	γίνομαι	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	ccomp	_	Gloss=to-become,come-to-be
@@ -48,7 +48,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	ἀπεκρίθη	ἀποκρίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-answer
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
 3	Ἐφρὼν	Ἐφρών	PROPN	_	Gender=Masc|Number=Sing	1	nsubj:pass	_	Gloss=Ephron
-4	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	5	det	_	Gloss=the
+4	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	5	det	_	Gloss=the
 5	Ἁβραὰμ	Ἁβραάμ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	obj	_	Gloss=Abraham
 6	λέγων	λέγω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	Gloss=to-say|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
@@ -69,7 +69,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 5	—	—	PUNCT	_	_	6	punct	_	_
 6	ἔτι	ἔτι	ADV	_	_	9	advmod	_	Gloss=also,next
 7	γὰρ	γάρ	SCONJ	_	_	9	mark	_	Gloss=for,because
-8	πέντε	πέντε	NUM	_	_	9	nummod	_	Gloss=five
+8	πέντε	πέντε	NUM	_	NumType=Card	9	nummod	_	Gloss=five
 9	ἔτη	ἔτος	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Plur	2	advcl	_	Gloss=years
 10	λιμός	λιμός	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	9	nsubj	_	Gloss=famine|SpaceAfter=No
 11	—,	—,	PUNCT	_	_	14	punct	_	_
@@ -79,14 +79,14 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 15	,	,	PUNCT	_	_	16	punct	_	_
 16	σὺ	σύ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	nsubj:pass	_	Gloss=you
 17	καὶ	καί	CCONJ	_	_	19	cc	_	Gloss=and,also,even,then,next
-18	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	19	det	_	Gloss=the
+18	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	19	det	_	Gloss=the
 19	υἱοί	υἱός	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	16	conj	_	Gloss=sons
-20	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	19	nmod	_	Gloss=you,your
+20	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	19	nmod:poss	_	Gloss=you,your
 21	καὶ	καί	CCONJ	_	_	22	cc	_	Gloss=and,also,even,then,next
 22	πάντα	πᾶς	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	16	conj	_	Gloss=all,every
-23	τὰ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	24	nsubj	_	Gloss=the
+23	τὰ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	24	nsubj	_	Gloss=the
 24	ὑπάρχοντά	ὑπάρχω	VERB	_	Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	22	acl:relcl	_	Gloss=to-exist;-possessions
-25	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	22	nmod	_	Gloss=you,your|SpaceAfter=No
+25	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	22	nmod:poss	_	Gloss=you,your|SpaceAfter=No
 26	.	.	PUNCT	_	_	25	punct	_	_
 
 ~~~

@@ -8,12 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-3170 nodes (3%) are attached to their parents as `mark`.
+3760 nodes (4%) are attached to their parents as `mark`.
 
-3166 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.56908517350158.
+3755 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.64228723404255.
 
-The following 29 pairs of parts of speech are connected with `mark`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (1241; 39% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (1169; 37% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (367; 12% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (111; 4% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (104; 3% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (30; 1% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (26; 1% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (22; 1% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (16; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt>-<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt>-<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 31 pairs of parts of speech are connected with `mark`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (1450; 39% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (1410; 38% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (403; 11% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (135; 4% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (134; 4% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (37; 1% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (31; 1% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (27; 1% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (26; 1% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (18; 0% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (13; 0% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt>-<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 mark	color:blue
+1	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	was	be	AUX	PAST	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	aux	_	_
+3	just	just	ADV	_	_	4	advmod	_	_
+4	wondering	wonder	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
+5	if	if	SCONJ	_	_	7	mark	_	_
+6	you	you	PRON	PERS-P2	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	_
+7	liked	like	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	4	advcl	_	_
+8	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+9	book	book	NOUN	SG-NOM	Number=Sing	7	obj	_	SpaceAfter=No
+10	.	.	PUNCT	Period	_	4	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -35,26 +55,6 @@ The following 29 pairs of parts of speech are connected with `mark`: <tt><a href
 11	in	in	ADP	_	_	12	case	_	_
 12	effect	effect	NOUN	SG-NOM	Number=Sing	8	acl:relcl	_	SpaceAfter=No
 13	.	.	PUNCT	Period	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 mark	color:blue
-1	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-2	was	be	AUX	PAST	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	aux	_	_
-3	just	just	ADV	_	_	4	advmod	_	_
-4	wondering	wonder	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
-5	if	if	SCONJ	_	_	7	mark	_	_
-6	you	you	PRON	PERS-P2	_	7	nsubj	_	_
-7	liked	like	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	4	advcl	_	_
-8	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
-9	book	book	NOUN	SG-NOM	Number=Sing	7	obj	_	SpaceAfter=No
-10	.	.	PUNCT	Period	_	4	punct	_	_
 
 ~~~
 

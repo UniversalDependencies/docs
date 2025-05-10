@@ -41,7 +41,7 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 punct	color:blue
-1	E-Commerce	Commerce	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+1	E-Commerce	E-Commerce	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 2	:	:	PUNCT	$.	PunctType=Peri	1	punct	_	_
 
 ~~~

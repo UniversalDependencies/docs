@@ -11,7 +11,7 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
 263889 tokens (8%) have a non-empty value of `Degree`.
 20549 types (11%) occur at least once with a non-empty value of `Degree`.
-8657 lemmas (12%) occur at least once with a non-empty value of `Degree`.
+8657 lemmas (6%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 3 part-of-speech tags: <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (246383; 7% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (16160; 0% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (1346; 0% instances).
 
 ### `ADJ`
@@ -77,7 +77,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (7557; 47% of non-empty `Degree`): <em>mehr, weiter, weniger, eher, mehrere, mehreren, mehrerer</em>
 * `Pos` (7508; 46% of non-empty `Degree`): <em>so, sehr, oft, gleich, wenig, weniger</em>
 * `Sup` (1095; 7% of non-empty `Degree`): <em>möglichst, meisten, meist, meistens, meiste</em>
-* `EMPTY` (180434): <em>auch, noch, nur, aber, bereits, allerdings, damit, schon, rund, nun</em>
+* `EMPTY` (180433): <em>auch, noch, nur, aber, bereits, allerdings, damit, schon, rund, nun</em>
 
 <table>
   <tr><th>Paradigm <i>wenig</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>

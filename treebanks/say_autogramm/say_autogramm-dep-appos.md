@@ -64,7 +64,7 @@ The following 17 pairs of parts of speech are connected with `appos`: <tt><a hre
 1	á	_	AUX	á	Aspect=Aor|Number=Sing|Person=3	2	aux	_	AlignBegin=249892|AlignEnd=250053|Gloss=at
 2	mbîː	mbiː	VERB	_	_	0	root	_	AlignBegin=250053|AlignEnd=250214|Gloss=take
 3	ʧáːy	ʧaː	VERB	_	Aspect=Res	2	compound	_	AlignBegin=250214|AlignEnd=250375|Gloss=put|wordform=ʧaː
-4	á	ká	ADP	_	_	6	case	_	AlignBegin=250375|AlignEnd=250536|Gloss=at|Idiom=Yes
+4	á	ká	ADP	_	ExtPos=ADP	6	case	_	AlignBegin=250375|AlignEnd=250536|Gloss=at|Idiom=Yes
 5	teː	teː	ADP	_	_	4	fixed	_	AlignBegin=250536|AlignEnd=250697|Gloss=at|InIdiom=Yes
 6	ʧiki	ʧikn	NOUN	_	Definite=Ind	3	obl:arg	_	AlignBegin=250697|AlignEnd=250858|Gloss=thigh-Ind|wordform=ʧikn
 7	gín	gín	PRON	_	PronType=Dem	6	appos	_	AlignBegin=250858|AlignEnd=251019|Gloss=PROX

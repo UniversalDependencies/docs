@@ -26,7 +26,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Dem` (444; 5% of non-empty `PronType`): <em>cette, ce, ces, cet</em>
 * `Int` (14; 0% of non-empty `PronType`): <em>quel, quelles, quelle, quels</em>
 * `Neg` (38; 0% of non-empty `PronType`): <em>aucune, aucun</em>
-* `EMPTY` (637): <em>son, ses, votre, sa, leur, plusieurs, leurs, notre, nos, chaque</em>
+* `EMPTY` (640): <em>son, ses, votre, sa, leur, plusieurs, leurs, notre, nos, chaque</em>
 
 `PronType` seems to be **lexical feature** of `DET`. 100% lemmas (10) occur only with one value of `PronType`.
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 2808 <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fr_sequoia-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2459; 88%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1898; 68%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=3</tt> (1569; 56%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fr_sequoia-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2459; 88%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1898; 68%), <tt><a href="fr_sequoia-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (1796; 64%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=3</tt> (1569; 56%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 `ADV` tokens may have the following values of `PronType`:
 
 * `Int` (33; 100% of non-empty `PronType`): <em>comment, pourquoi, combien</em>
-* `EMPTY` (2604): <em>pas, n', ne, plus, moins, très, également, aussi, bien, non</em>
+* `EMPTY` (2613): <em>pas, n', ne, plus, moins, très, également, aussi, bien, non</em>
 
 ## Relations with Agreement in `PronType`
 

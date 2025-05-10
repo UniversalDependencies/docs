@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: Relations: `obl`
 
 This relation is universal.
-There are 5 language-specific subtypes of `obl`: <tt><a href="kpv_ikdp-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="kpv_ikdp-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="kpv_ikdp-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="kpv_ikdp-dep-obl-lmp.html">obl:lmp</a></tt>, <tt><a href="kpv_ikdp-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are 1 language-specific subtypes of `obl`: <tt><a href="kpv_ikdp-dep-obl-cmp.html">obl:cmp</a></tt>.
 
-159 nodes (7%) are attached to their parents as `obl`.
+187 nodes (8%) are attached to their parents as `obl`.
 
-89 instances of `obl` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.20125786163522.
+102 instances of `obl` (55%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.22994652406417.
 
-The following 11 pairs of parts of speech are connected with `obl`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (119; 75% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (16; 10% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (8; 5% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `obl`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (138; 74% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (18; 10% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (8; 4% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -61,7 +61,7 @@ The following 11 pairs of parts of speech are connected with `obl`: <tt><a href=
 2	этія	этія	PRON	Pron	_	6	discourse	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	4	punct	_	_
 4	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
-5	ӧттӧрйи	ӧттӧрйи	ADV	Adv	_	6	advmod:tmod	_	_
+5	ӧттӧрйи	ӧттӧрйи	ADV	Adv	_	6	advmod	_	_
 6	вӧрзялісныс	вӧрзявны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
 7	Из	из	PROPN	N	Case=Nom|Number=Sing	6	obl	_	_
 8	сае	сайын	ADP	Po	Case=Ill|Number=Sing	7	case	_	SpaceAfter=No

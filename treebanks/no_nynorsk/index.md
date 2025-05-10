@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
-The following people have contributed to making this treebank part of UD: Lilja Øvrelid, Fredrik Jørgensen, Petter Hohle, Ingerid Løyning Dale, Per Erik Solberg, Andre Kåsen.
+The following people have contributed to making this treebank part of UD: Lilja Øvrelid, Fredrik Jørgensen, Petter Hohle, Thea Tollersrud, Ingerid Løyning Dale, Per Erik Solberg, Andre Kåsen.
 
 Repository: [UD_Norwegian-Nynorsk](https://github.com/UniversalDependencies/UD_Norwegian-Nynorsk)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udno_nynorsk215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udno_nynorsk216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: news, blog, nonfiction
 Questions, comments?
 General annotation questions (either Norwegian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Norwegian-Nynorsk/issues).
-If you want to collaborate, please contact [per&nbsp;•&nbsp;solberg&nbsp;(æt)&nbsp;nb&nbsp;•&nbsp;no].
+If you want to collaborate, please contact [<sprakbanken&nbsp;(æt)&nbsp;nb&nbsp;•&nbsp;no>].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.
@@ -64,7 +64,7 @@ outset of the annotation project and iteratively refined throughout
 the construction of the treebank. For more information, see the
 references below.
 
-### DATA SPLITS
+## DATA SPLITS
 
 In creating the data splits, care has been taken to preserve
 contiguous texts in the different splits and also to keep a fair
@@ -103,25 +103,27 @@ mom003_0006
 st-nn002_0002
 vtb-nn007_0002 -- vtb-nn007_0004
 
-### BASIC STATISTICS
+## BASIC STATISTICS
 
+## TOKENIZATION
 
-### TOKENIZATION
 White space always indicates a token boundary and punctuation constitute separate tokens, except:
 
 * numbers with periods, commas or colons, e.g. *1.3*, *0,6*, *10:13*
 * abbreviations, e.g. *f.eks.*, *Carl J. Hambro*
-* URLs, e.g. *http://www.ifi.uio.no*
+* URLs, e.g. <http://www.ifi.uio.no>
 
 The treebank does not contain multiword tokens.
 
-### MORPHOLOGY
+## MORPHOLOGY
+
 The PoS-tags follow the universal tag set and does not add any
 language-specific PoS-tags. The morphological features follow the
 Oslo-Bergen Tagger scheme (Hagen et. al., 2000). PoS-tags and
 morphological features were converted automatically to the UD scheme.
 
-### SYNTAX
+## SYNTAX
+
 The syntactic annotation in the Norwegian UD treebank conforms to the
 UD guidelines, adding a language-specific relation for relative clauses (`acl:relcl`).
 The annotation has been automatically converted to
@@ -132,8 +134,7 @@ The conversion has not been manually checked. There are a few known discrepancie
 
 * no mwe analysis in the treebank. This is also information that is not present in the original data.
 
-
-### REFERENCES
+## REFERENCES
 
 Kristin Hagen, Janne Bondi Johannessen and Anders Nøklestad: "A
 Constraint-based Tagger for Norwegian". 2000. Proceedings of the 17th
@@ -154,17 +155,6 @@ NDT has been automatically converted to the UD scheme by Lilja Øvrelid at the U
 We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn and Per Erik Solberg.
 
 
-### CHANGELOG
-
---> UD 2.12
-
-* The conversion is completely rewritten using [Grew](https://grew.fr/) by the Norwegian Language Bank at the National Library of Norway. The conversion is to a large
-extent based on the guidelines of the previous version.
-* *som* in relative clauses is not longer treated as pronouns, but complementizers with the postag SCONJ and the label mark.
-* There is no longer an explicit analysis of verbal particles. The postag has changed from ADP to ADV and the label is advmod.
-* [The changes in 2.10 and 2.12](https://universaldependencies.org/changes.html) are implemented.
-
-
 # Statistics of UD Norwegian Nynorsk
 
 ## POS Tags
@@ -173,7 +163,7 @@ extent based on the guidelines of the previous version.
 
 ## Features
 
-[Abbr](no_nynorsk-feat-Abbr.html) – [Animacy](no_nynorsk-feat-Animacy.html) – [Case](no_nynorsk-feat-Case.html) – [Definite](no_nynorsk-feat-Definite.html) – [Degree](no_nynorsk-feat-Degree.html) – [Gender](no_nynorsk-feat-Gender.html) – [Mood](no_nynorsk-feat-Mood.html) – [Number](no_nynorsk-feat-Number.html) – [NumType](no_nynorsk-feat-NumType.html) – [Person](no_nynorsk-feat-Person.html) – [Polarity](no_nynorsk-feat-Polarity.html) – [Poss](no_nynorsk-feat-Poss.html) – [PronType](no_nynorsk-feat-PronType.html) – [Tense](no_nynorsk-feat-Tense.html) – [VerbForm](no_nynorsk-feat-VerbForm.html)
+[Abbr](no_nynorsk-feat-Abbr.html) – [Animacy](no_nynorsk-feat-Animacy.html) – [Case](no_nynorsk-feat-Case.html) – [Definite](no_nynorsk-feat-Definite.html) – [Degree](no_nynorsk-feat-Degree.html) – [Foreign](no_nynorsk-feat-Foreign.html) – [Gender](no_nynorsk-feat-Gender.html) – [Mood](no_nynorsk-feat-Mood.html) – [Number](no_nynorsk-feat-Number.html) – [NumType](no_nynorsk-feat-NumType.html) – [Person](no_nynorsk-feat-Person.html) – [Polarity](no_nynorsk-feat-Polarity.html) – [Poss](no_nynorsk-feat-Poss.html) – [PronType](no_nynorsk-feat-PronType.html) – [Tense](no_nynorsk-feat-Tense.html) – [VerbForm](no_nynorsk-feat-VerbForm.html)
 
 ## Relations
 
@@ -218,7 +208,7 @@ extent based on the guidelines of the previous version.
 </ul>
 
 <ul>
-<li>This corpus contains 44 lemmas tagged as determiners (DET): II, III, a, all, alle, annan, annen, begge, de, dei, den, denne, desse, det, dette, dinnja, eige, eigen, ein, einkvan, einkvar, eit, en, et, forrige, four, førre, hass, hin, ingen, kva, kvar, mangt, neste, noen, nokon, same, samme, sjølv, sjølve, slik, sånn, the, ½</li>
+<li>This corpus contains 43 lemmas tagged as determiners (DET): II, III, a, all, alle, annan, annen, begge, de, dei, den, denne, desse, det, dette, dinnja, eige, eigen, ein, einkvan, einkvar, eit, en, et, forrige, four, førre, hass, hin, ingen, kva, kvar, mangt, neste, noen, nokon, same, samme, sjølv, sjølve, slik, sånn, the</li>
 </ul>
 
 <ul>
@@ -282,6 +272,16 @@ extent based on the guidelines of the previous version.
 </ul>
 
 <ul>
+  <li>Com
+    <ul>
+      <li>ADJ: god, stor, ny, klar, norsk, glad, offentleg, rasjonell, ung, lang</li>
+      <li>ADJ-Part: auka, brukt, bygd, basert, blitt, engasjert, etablert, fylt, innsett, sakna</li>
+      <li>DET: alle</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Fem
     <ul>
       <li>ADJ: lita, bundi, opa, teki, vedteki</li>
@@ -298,8 +298,8 @@ extent based on the guidelines of the previous version.
 <ul>
   <li>Fem,Masc
     <ul>
-      <li>ADJ: stor, ny, god, norsk, viktig, mykje, klar, offentleg, fast, lang</li>
-      <li>ADJ-Part: auka, sett, kalla, samla, stengd, fødd, knytt, overraska, basert, brukt</li>
+      <li>ADJ: ny, stor, god, norsk, mykje, viktig, fast, offentleg, klar, lang</li>
+      <li>ADJ-Part: auka, sett, stengd, kalla, samla, fødd, knytt, overraska, dømd, gradert</li>
       <li>DET: alle</li>
       <li>PRON: den, denne, dén</li>
       <li>VERB-Fin,Part: stoppa</li>
@@ -532,7 +532,7 @@ extent based on the guidelines of the previous version.
 <ul>
   <li>Art
     <ul>
-      <li>DET: ein, eit, ei, eitt, en, eir</li>
+      <li>DET: ein, den, eit, dei, ei, det, eitt, en, eir, dét</li>
     </ul>
   </li>
 </ul>
@@ -548,7 +548,7 @@ extent based on the guidelines of the previous version.
 <ul>
   <li>Dem
     <ul>
-      <li>DET: den, dei, det, andre, same, denne, anna, dette, desse, neste</li>
+      <li>DET: andre, same, denne, anna, dette, desse, neste, slike, slik, annan</li>
       <li>NUM: fem-seks</li>
     </ul>
   </li>
@@ -690,6 +690,18 @@ extent based on the guidelines of the previous version.
   </li>
 </ul>
 
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: det, en, i, og, the, of, som, til, den, for</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -709,9 +721,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (5336)</li>
+      <li>VERB-Fin--NOUN (5335)</li>
       <li>VERB-Fin--NOUN-ADP(blant) (1)</li>
       <li>VERB-Fin--NOUN-ADP(med) (6)</li>
+      <li>VERB-Fin--NOUN-ADP(under) (1)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
       <li>VERB-Fin--PRON (1151)</li>
       <li>VERB-Fin--PRON-Acc (11)</li>
@@ -742,7 +755,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc (653)</li>
       <li>VERB-Fin--PRON-Nom (12)</li>
       <li>VERB-Fin,Part--NOUN (1)</li>
-      <li>VERB-Inf--NOUN (3564)</li>
+      <li>VERB-Inf--NOUN (3563)</li>
+      <li>VERB-Inf--NOUN-ADP(rundt) (1)</li>
       <li>VERB-Inf--PRON (313)</li>
       <li>VERB-Inf--PRON-Acc (389)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4326 nodes (8%) are attached to their parents as `amod`.
+7452 nodes (9%) are attached to their parents as `amod`.
 
-4050 instances of `amod` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.19556171983356.
+7092 instances of `amod` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.20437466451959.
 
-The following 18 pairs of parts of speech are connected with `amod`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (4210; 97% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (43; 1% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (24; 1% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (10; 0% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PART.html">PART</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-X.html">X</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `amod`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (7292; 98% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (80; 1% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PART.html">PART</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,23 +58,26 @@ The following 18 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 amod	color:blue
-1	Сьогодні	сьогодні	ADV	ADV	_	6	advmod	_	NER=O
-2	о	о	ADP	ADP	_	4	case	_	NER=O
-3	5	5	NUM	NUM	_	4	amod	_	NER=O|Uninflect=Yes
-4	годині	година	NOUN	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	NER=O
-5	ранку	ранок	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	NER=O
-6	розпочалися	розпочатися	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Reflex=Yes|Tense=Past	0	root	_	NER=O
-7	бої	бій	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	NER=O
-8	на	на	ADP	ADP	_	9	case	_	NER=O
-9	кордонах	кордон	NOUN	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	6	obl	_	NER=O
-10	нашої	наш	DET	DET	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	NER=O
-11	країни	країна	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	NER=O|SpaceAfter=No
-12	.	.	PUNCT	PUNCT	_	6	punct	_	NER=O
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 amod	color:blue
+1	Але	але	CCONJ	CCONJ	_	3	cc	_	_
+2	не	не	PART	PART	Polarity=Neg	3	advmod:neg	_	_
+3	можу	могти	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	не	не	PART	PART	Polarity=Neg	5	advmod:neg	_	_
+5	відповісти	відповісти	VERB	VERB	Aspect=Perf|VerbForm=Inf	3	xcomp	_	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	10	punct	_	_
+7	два	два	NUM	NUM	Case=Nom|Gender=Masc|NumType=Card	9	nummod	_	_
+8	попередні	попередній	ADJ	ADJ	Case=Nom|Number=Plur	9	amod	_	_
+9	виступаючі	виступаючий	ADJ	ADJ	Animacy=Inan|Aspect=Imp|BadStyle=Yes|Case=Nom|Number=Plur|VerbForm=Part|Voice=Act	10	nsubj	_	_
+10	задали	задати	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	3	parataxis	_	_
+11	дуже	дуже	ADV	ADV	Degree=Pos	12	advmod	_	_
+12	хороший	хороший	ADJ	ADJ	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	тон	тон	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+14	дискусії	дискусія	NOUN	NOUN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 

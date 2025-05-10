@@ -44,7 +44,7 @@ The following 11 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 vocative	color:blue
-1	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	3	nsubj	_	Gloss=the
+1	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	3	nsubj	_	Gloss=the
 2	δὲ	δέ	CCONJ	_	_	3	cc	_	Gloss=but,and,however
 3	εἶπαν	λέγω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
@@ -52,9 +52,9 @@ The following 11 pairs of parts of speech are connected with `vocative`: <tt><a 
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	κύριε	κύριος	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	Gloss=lord|SpaceAfter=No
 8	·	·	PUNCT	_	_	9	punct	_	_
-9	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	Gloss=the
+9	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	10	det	_	Gloss=the
 10	παῖδές	παῖς	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	Gloss=child,servant
-11	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	10	nmod	_	Gloss=you,your
+11	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	10	nmod:poss	_	Gloss=you,your
 12	ἤλθομεν	ἔρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	Gloss=to-come,go
 13	πρίασθαι	πρίαμαι	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	12	xcomp	_	Gloss=to-buy
 14	βρώματα	βρῶμα	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	13	obj	_	Gloss=food,provisions|SpaceAfter=No
@@ -81,7 +81,7 @@ The following 11 pairs of parts of speech are connected with `vocative`: <tt><a 
 10	·	·	PUNCT	_	_	11	punct	_	_
 11	ἔστω	εἰμί	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	Gloss=to-be
 12	σοί	σός	PRON	_	Case=Dat|Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	parataxis	_	Gloss=you
-13	τὰ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	14	nsubj	_	Gloss=the
+13	τὰ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	14	nsubj	_	Gloss=the
 14	σά	σός	PRON	_	Case=Acc,Nom|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	12	csubj	_	Gloss=you|SpaceAfter=No
 15	.	.	PUNCT	_	_	14	punct	_	_
 

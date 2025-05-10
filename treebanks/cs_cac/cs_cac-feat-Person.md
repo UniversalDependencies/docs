@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.htm
 
 21014 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (54% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (21014; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21014; 100%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (20566; 98%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (20566; 98%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (20534; 98%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (19075; 91%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12565; 60%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (11530; 55%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (21014; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21014; 100%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (20566; 98%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (20566; 98%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (20534; 98%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (19075; 91%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12565; 60%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (11532; 55%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -94,7 +94,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (995; 29% of non-empty `Person`): <em>nás, nám, mi, já, my, mě, mne, mně, námi, mnou</em>
 * `2` (191; 6% of non-empty `Person`): <em>vám, vás, vy, ti, tě, ty, vámi, tebe, tebou</em>
 * `3` (2268; 66% of non-empty `Person`): <em>je, nich, ji, jim, mu, ho, ní, jej, ně, něm</em>
-* `EMPTY` (12532): <em>se, si, co, všech, všechny, jež, nichž, což, sebe, níž</em>
+* `EMPTY` (12529): <em>se, si, co, všech, všechny, jež, nichž, což, sebe, níž</em>
 
 ## Relations with Agreement in `Person`
 

@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (43; 100% of non-empty `Abbr`): <em>HTML, J., Dr., US, U.S., CBC, Inc., Mr., Prof., U.S.C.</em>
-* `EMPTY` (858): <em>Company, JavaScript, Book, Proposition, Court, English, Week, Career, React, Agreement</em>
+* `EMPTY` (859): <em>Company, JavaScript, Book, Proposition, Court, English, Week, Career, React, Agreement</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (16) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (42; 100% of non-empty `Abbr`): <em>mg, Pp., p., DH, etc., kg, CV, No., TEMP, TV</em>
-* `EMPTY` (3741): <em>x, week, T, project, S, school, y, time, party, trust</em>
+* `EMPTY` (3740): <em>x, week, T, project, S, school, y, time, party, trust</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `Abbr`.
 

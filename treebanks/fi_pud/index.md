@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Jenna Kanerva, Filip Ginter, Stina Ojala, Anna Missilä.
 
 Repository: [UD_Finnish-PUD](https://github.com/UniversalDependencies/UD_Finnish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_pud215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_pud216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -636,7 +636,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: itse, itsensä, itsestään, itseään</li>
+      <li>PRON: itsensä, itsestään, itseään</li>
     </ul>
   </li>
 </ul>
@@ -908,8 +908,7 @@ employ ten-fold cross-validation.
     <ul>
       <li>Yes
         <ul>
-          <li>NOUN: bjórria</li>
-          <li>X: Conseil, a, arms, cena, combined, du, fiction, national, numérique, science</li>
+          <li>X: Conseil, Metti, a, arms, cena, combined, du, fiction, national, numérique</li>
         </ul>
       </li>
     </ul>

@@ -49,7 +49,7 @@ The following 11 pairs of parts of speech are connected with `discourse`: <tt><a
 7	,	,	PUNCT	PUNCT	_	6	punct	_	_
 8	мыен	мый	PRON	Pron	Case=Ins|Number=Sing|PronType=Int	11	obl	_	GTtags=Interr,Sg,Ins,Err/Dial
 9	тэ	тэ	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	GTtags=Pers,Sg2,Nom
-10	ещё	ещё	ADV	Adv	_	11	advmod:tmod	_	_
+10	ещё	ещё	ADV	Adv	_	11	advmod	_	_
 11	занимайтчан	занимайтчыны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	GTtags=Refl,Ind,Prs,Sg2|SpaceAfter=No
 12	?	?	PUNCT	PUNCT	_	11	punct	_	_
 
@@ -65,7 +65,7 @@ The following 11 pairs of parts of speech are connected with `discourse`: <tt><a
 1	Но	но	INTJ	Interj	_	12	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	_	_
 3	Ижмаыслэн	Ижма	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nmod:poss	_	GTtags=Prop,Sg,Err/Dial,Gen,PxSg3,So/PC
-4	ю	ю	NOUN	N	Case=Nom|Number=Sing	12	obl:lmod	_	GTtags=Sg,Nom
+4	ю	ю	NOUN	N	Case=Nom|Number=Sing	12	obl	_	GTtags=Sg,Nom
 5	кузяыс	кузя	ADP	Adp	AdpType=Post|Number[psor]=Sing|Person[psor]=3	4	case	_	GTtags=Po,PxSg3
 6	сиктъяс	сикт	NOUN	N	Case=Nom|Number=Plur	7	nmod	_	GTtags=Pl,Nom
 7	дорас	дор	NOUN	N	Case=Ine|NounType=Relat|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	appos	_	GTtags=Relat,Sg,Ine,PxSg3,So/CP|SpaceAfter=No

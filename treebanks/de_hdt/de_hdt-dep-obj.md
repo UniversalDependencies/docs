@@ -22,11 +22,11 @@ The following 28 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 obj	color:blue
-1	Konkursgerüchte	Gerücht	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	_
+1	Konkursgerüchte	Konkursgerücht	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	_
 2	drücken	drücken	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	Kurs	Kurs	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
 4	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det:poss	_	_
-5	Amazon-Aktie	Aktie	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	3	nmod:poss	_	_
+5	Amazon-Aktie	Amazon-Aktie	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	3	nmod:poss	_	_
 
 ~~~
 
@@ -58,7 +58,7 @@ The following 28 pairs of parts of speech are connected with `obj`: <tt><a href=
 1	Dazu	dazu	ADV	PROAV	PronType=Dem	2	advmod	_	_
 2	hat	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	Bundesregierung	Regierung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+4	Bundesregierung	Bundesregierung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
 5	eineinhalb	eineinhalb	NUM	CARD	Number=Plur|NumType=Card	6	nummod	_	_
 6	Jahre	Jahr	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	2	obl	_	_
 7	Zeit	Zeit	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_

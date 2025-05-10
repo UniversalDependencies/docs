@@ -32,8 +32,9 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 <table>
   <tr><th>Paradigm <i>mii</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
   <tr><td><tt><tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>mâiʹd</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Com</tt></tt></td><td></td><td><em>mõin</em></td></tr>
+  <tr><td><tt><tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Com</tt>|<tt><a href="sms_giellagas-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt></tt></td><td></td><td><em>mõin</em></td></tr>
   <tr><td><tt><tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>mõõn</em></td></tr>
+  <tr><td><tt><tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sms_giellagas-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt></tt></td><td></td><td><em>Mii</em></td></tr>
   <tr><td><tt><tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Mii</em></td><td><em>mii</em></td></tr>
 </table>
 

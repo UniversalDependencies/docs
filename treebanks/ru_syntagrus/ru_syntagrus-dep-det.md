@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-37923 nodes (3%) are attached to their parents as `det`.
+42198 nodes (3%) are attached to their parents as `det`.
 
-35865 instances of `det` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.39841257284498.
+40307 instances of `det` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.34399734584577.
 
-The following 13 pairs of parts of speech are connected with `det`: <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (34517; 91% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (996; 3% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (919; 2% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (600; 2% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (446; 1% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (196; 1% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (157; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (53; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (17; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `det`: <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (37718; 89% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (1772; 4% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (1312; 3% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (492; 1% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (380; 1% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (276; 1% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (150; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (29; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (28; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (17; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -26,33 +26,12 @@ The following 13 pairs of parts of speech are connected with `det`: <tt><a href=
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	эти	этот	DET	_	Case=Acc|Number=Plur|PronType=Dem	4	det	4:det	_
 4	объяснения	объяснение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	8	obj	8:obj	_
-5	вряд	вряд	ADV	_	Degree=Pos	7	advmod	7:advmod	_
+5	вряд	вряд	ADV	_	Degree=Pos|ExtPos=ADV	7	advmod	7:advmod	_
 6	ли	ли	PART	_	_	5	fixed	5:fixed	_
 7	можно	можно	ADV	_	Degree=Pos	0	root	0:root	_
 8	счесть	счесть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	csubj	7:csubj	_
 9	убедительными	убедительный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	8	obl	8:obl:ins	SpaceAfter=No
 10	.	.	PUNCT	_	_	7	punct	7:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 det	color:blue
-1	И	и	CCONJ	_	_	6	cc	6:cc	_
-2	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	3	det	3:det	_
-3	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
-4	в	в	ADP	_	_	5	case	5:case	_
-5	названии	название	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	6:obl:в:loc	_
-6	имели	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-7	слово	слово	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	6:obj	_
-8	algoritmi	algoritmi	X	_	Foreign=Yes	7	flat:foreign	7:flat:foreign	_
-9	или	или	CCONJ	_	_	7	cc	7:cc	_
-10	algorismi	algorismi	X	_	Foreign=Yes	7	flat:foreign	7:flat:foreign	SpaceAfter=No
-11	.	.	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 
@@ -76,6 +55,27 @@ The following 13 pairs of parts of speech are connected with `det`: <tt><a href=
 11	,	,	PUNCT	_	_	12	punct	12:punct	_
 12	каждому	каждый	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	8	det	8:det	SpaceAfter=No
 13	.	.	PUNCT	_	_	8	punct	8:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 det	color:blue
+1	И	и	CCONJ	_	_	6	cc	6:cc	_
+2	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	3	det	3:det	_
+3	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
+4	в	в	ADP	_	_	5	case	5:case	_
+5	названии	название	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	6:obl:в:loc	_
+6	имели	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+7	слово	слово	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	6:obj	_
+8	algoritmi	algoritmi	X	_	Foreign=Yes	7	flat:foreign	7:flat:foreign	_
+9	или	или	CCONJ	_	_	7	cc	7:cc	_
+10	algorismi	algorismi	X	_	Foreign=Yes	7	flat:foreign	7:flat:foreign	SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 

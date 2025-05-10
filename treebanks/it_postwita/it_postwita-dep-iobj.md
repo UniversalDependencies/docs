@@ -24,7 +24,7 @@ The following 12 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 4 3 iobj	color:blue
 1	@user	@user	SYM	SYM	_	4	vocative	_	_
 2	ma	ma	CCONJ	CC	_	4	discourse	_	_
-3	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+3	me	me	PRON	PC	Number=Sing|Person=1|PronType=Prs	4	iobj	_	Clitic=Yes
 4	dici	dire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	che	che	PRON	PQ	PronType=Int	7	obj	_	_
 6	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	_

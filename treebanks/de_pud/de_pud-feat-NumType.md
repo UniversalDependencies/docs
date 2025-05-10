@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (44; 100% of non-empty `NumType`): <em>ersten, erste, 1., erster, 30., 10., 11., 12., 16, 19.</em>
-* `EMPTY` (1368): <em>neue, letzten, neuen, große, weitere, politischen, Vereinigten, bekannt, britische, britischen</em>
+* `EMPTY` (1369): <em>neue, letzten, neuen, große, weitere, politischen, Vereinigten, bekannt, britische, britischen</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (14) occur only with one value of `NumType`.
 

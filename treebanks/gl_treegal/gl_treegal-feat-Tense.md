@@ -52,6 +52,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th><th><tt>Pqp</tt></th></tr>
+  <tr><td><tt><tt><a href="gl_treegal-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>é</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>son</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>é, e</em></td><td><em>será</em></td><td><em>foi</em></td><td><em>era</em></td><td><em>fora</em></td></tr>
   <tr><td><tt><tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>somos</em></td><td></td><td></td><td></td><td></td></tr>

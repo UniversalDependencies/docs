@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal but the values `Conv`, `Vnoun` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Part`, `Vnoun`.
 
-680 tokens (8%) have a non-empty value of `VerbForm`.
-486 types (11%) occur at least once with a non-empty value of `VerbForm`.
-223 lemmas (9%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> (657; 7% instances), <tt><a href="ota_boun-pos-AUX.html">AUX</a></tt> (23; 0% instances).
+684 tokens (8%) have a non-empty value of `VerbForm`.
+484 types (11%) occur at least once with a non-empty value of `VerbForm`.
+235 lemmas (9%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> (661; 7% instances), <tt><a href="ota_boun-pos-AUX.html">AUX</a></tt> (23; 0% instances).
 
 ### `VERB`
 
-657 <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> tokens (49% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+661 <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> tokens (49% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ota_boun-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (654; 100%), <tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (631; 96%), <tt><a href="ota_boun-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (567; 86%), <tt><a href="ota_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (474; 72%), <tt><a href="ota_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (474; 72%), <tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (407; 62%), <tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (398; 61%), <tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (379; 58%), <tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (379; 58%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ota_boun-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (658; 100%), <tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (634; 96%), <tt><a href="ota_boun-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (569; 86%), <tt><a href="ota_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (477; 72%), <tt><a href="ota_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (477; 72%), <tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (411; 62%), <tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (399; 60%), <tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (380; 57%), <tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (380; 57%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Conv` (87; 13% of non-empty `VerbForm`): <em>ederek, durup, ettikçe, gülerek, inleyerek, sürünerek, çıkıp, Düşünüp, acıyarak, anlatınca</em>
+* `Conv` (86; 13% of non-empty `VerbForm`): <em>ederek, durup, ettikçe, gülerek, inleyerek, sürünerek, çıkıp, Düşünüp, acıyarak, anlatınca</em>
 * `Fin` (12; 2% of non-empty `VerbForm`): <em>binenlerse, bıkarlarsa, demeseydi, demişlerse, düşersen, esiyorsa, inleye, istersen, olmazsa, olsaydı</em>
-* `Part` (392; 60% of non-empty `VerbForm`): <em>eden, olan, olduğu, ettiği, olduğunu, bulunan, bulunduğu, bulunduğum, edilen, oldukları</em>
-* `Vnoun` (166; 25% of non-empty `VerbForm`): <em>etmek, görmek, olmak, olması, almak, anlamak, bakmağa, etmekte, etmeleri, sormağa</em>
-* `EMPTY` (683): <em>bilir, başladı, ediyor, etti, oldu, olur, edecek, eder, etmiş, olmuş</em>
+* `Part` (394; 60% of non-empty `VerbForm`): <em>eden, olan, olduğu, ettiği, olduğunu, bulunan, bulunduğu, bulunduğum, edilen, oldukları</em>
+* `Vnoun` (169; 26% of non-empty `VerbForm`): <em>etmek, görmek, olmak, olması, almak, anlamak, bakmağa, etmekte, etmeleri, sormağa</em>
+* `EMPTY` (688): <em>bilir, başladı, oldu, ediyor, etti, olur, edecek, eder, etmiş, olmuş</em>
 
 <table>
   <tr><th>Paradigm <i>ol</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th><th><tt>Vnoun</tt></th></tr>
@@ -34,7 +34,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_boun-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>olursa</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_boun-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>olursak</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_boun-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>olurken</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>olmadığını, olunmadığını</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>olmadığını</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>olduğunu</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>olduklarını</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>olduğun</em></td><td></td><td></td></tr>
@@ -58,7 +58,6 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td></td><td></td><td><em>olmak</em></td></tr>
   <tr><td><tt><tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>olanlar</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>olmayan, olamayan</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td></td><td><em>oldukça</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>olan</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ota_boun-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>olunan</em></td><td></td><td></td></tr>
 </table>
@@ -88,7 +87,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="ota_boun-dep-conj.html">conj</a></tt>]--> VERB</tt> (22; 67%),
+<tt>VERB --[<tt><a href="ota_boun-dep-conj.html">conj</a></tt>]--> VERB</tt> (24; 67%),
 <tt>VERB --[<tt><a href="ota_boun-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="ota_boun-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-obl.html">obl</a></tt>.
-There are also 5 other language-specific subtypes of `obl`: <tt><a href="kpv_lattice-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="kpv_lattice-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="kpv_lattice-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="kpv_lattice-dep-obl-mcl.html">obl:mcl</a></tt>, <tt><a href="kpv_lattice-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are also 1 other language-specific subtypes of `obl`: <tt><a href="kpv_lattice-dep-obl-cmp.html">obl:cmp</a></tt>.
 
 5 nodes (0%) are attached to their parents as `obl:agent`.
 
@@ -37,7 +37,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 12	висьтала	висьтавны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	GTtags=TV,Ind,Prs,Sg1
 13	тэныд	тэ	PRON	Pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	12	obl	_	GTtags=Pers,Sg2,Dat|SpaceAfter=No
 14	,	,	PUNCT	CLB	_	17	punct	_	_
-15	коръясӧ	кор	ADV	Adv	AdvType=Tim|Case=Ill|Number=Plur|PronType=Rel	17	advmod:tmod	_	GTtags=Sem/Time,Pl,Ill,Rel
+15	коръясӧ	кор	ADV	Adv	AdvType=Tim|Case=Ill|Number=Plur|PronType=Rel	17	advmod	_	GTtags=Sem/Time,Pl,Ill,Rel
 16	тэа-меа	тэа-меа	PRON	Pron	_	17	nsubj	_	_
 17	окыштчылім	окыштчывны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past	12	ccomp	_	GTtags=IV,Ind,Prt1,Pl1|SpaceAfter=No
 18	.	.	PUNCT	CLB	_	12	punct	_	_

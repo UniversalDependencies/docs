@@ -14,13 +14,13 @@ udver: '2'
 Language: [Gwichin](/gwi/index.html) (code: `gwi`)<br/>
 Family: Na-Dene
 
-This treebank has been part of Universal Dependencies since the UD v2.14 release.
+This treebank has been part of Universal Dependencies since the UD v2.15 release.
 
 The following people have contributed to making this treebank part of UD: Matthew Andrews, Çağrı Çöltekin.
 
 Repository: [UD_Gwichin-TueCL](https://github.com/UniversalDependencies/UD_Gwichin-TueCL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgwi_tuecl215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgwi_tuecl216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 

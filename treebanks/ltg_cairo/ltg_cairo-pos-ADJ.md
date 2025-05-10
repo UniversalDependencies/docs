@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latgalian-Cairo: POS Tags: `ADJ`
 
 There are 5 `ADJ` lemmas (5%), 5 `ADJ` types (4%) and 5 `ADJ` tokens (3%).
-Out of 12 observed tags, the rank of `ADJ` is: 7 in number of lemmas, 7 in number of types and 9 in number of tokens.
+Out of 11 observed tags, the rank of `ADJ` is: 6 in number of lemmas, 6 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>foršs, lels, mozs, sorkons, tovejs</em>
 

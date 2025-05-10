@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Katarína Gajdošová, Mária Šimková, Daniel Zeman.
 
 Repository: [UD_Slovak-SNK](https://github.com/UniversalDependencies/UD_Slovak-SNK)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsk_snk215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsk_snk216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -98,11 +98,11 @@ vol. 68, no. 2, pp. 385-395
 
 ## Features
 
-[Abbr](sk_snk-feat-Abbr.html) – [AdpType](sk_snk-feat-AdpType.html) – [Animacy](sk_snk-feat-Animacy.html) – [Aspect](sk_snk-feat-Aspect.html) – [Case](sk_snk-feat-Case.html) – [ConjType](sk_snk-feat-ConjType.html) – [Degree](sk_snk-feat-Degree.html) – [Foreign](sk_snk-feat-Foreign.html) – [Gender](sk_snk-feat-Gender.html) – [Gender[psor]](sk_snk-feat-Gender-psor.html) – [Hyph](sk_snk-feat-Hyph.html) – [Mood](sk_snk-feat-Mood.html) – [Number](sk_snk-feat-Number.html) – [Number[psor]](sk_snk-feat-Number-psor.html) – [NumForm](sk_snk-feat-NumForm.html) – [NumType](sk_snk-feat-NumType.html) – [Person](sk_snk-feat-Person.html) – [Polarity](sk_snk-feat-Polarity.html) – [Poss](sk_snk-feat-Poss.html) – [PronType](sk_snk-feat-PronType.html) – [Reflex](sk_snk-feat-Reflex.html) – [Tense](sk_snk-feat-Tense.html) – [Typo](sk_snk-feat-Typo.html) – [VerbForm](sk_snk-feat-VerbForm.html) – [Voice](sk_snk-feat-Voice.html)
+[Abbr](sk_snk-feat-Abbr.html) – [AdpType](sk_snk-feat-AdpType.html) – [Animacy](sk_snk-feat-Animacy.html) – [Aspect](sk_snk-feat-Aspect.html) – [Case](sk_snk-feat-Case.html) – [ConjType](sk_snk-feat-ConjType.html) – [Degree](sk_snk-feat-Degree.html) – [ExtPos](sk_snk-feat-ExtPos.html) – [Foreign](sk_snk-feat-Foreign.html) – [Gender](sk_snk-feat-Gender.html) – [Gender[psor]](sk_snk-feat-Gender-psor.html) – [Hyph](sk_snk-feat-Hyph.html) – [Mood](sk_snk-feat-Mood.html) – [Number](sk_snk-feat-Number.html) – [Number[psor]](sk_snk-feat-Number-psor.html) – [NumForm](sk_snk-feat-NumForm.html) – [NumType](sk_snk-feat-NumType.html) – [Person](sk_snk-feat-Person.html) – [Polarity](sk_snk-feat-Polarity.html) – [Poss](sk_snk-feat-Poss.html) – [PronType](sk_snk-feat-PronType.html) – [Reflex](sk_snk-feat-Reflex.html) – [Tense](sk_snk-feat-Tense.html) – [Typo](sk_snk-feat-Typo.html) – [VerbForm](sk_snk-feat-VerbForm.html) – [Voice](sk_snk-feat-Voice.html)
 
 ## Relations
 
-[acl](sk_snk-dep-acl.html) – [acl:relcl](sk_snk-dep-acl-relcl.html) – [advcl](sk_snk-dep-advcl.html) – [advmod](sk_snk-dep-advmod.html) – [advmod:emph](sk_snk-dep-advmod-emph.html) – [amod](sk_snk-dep-amod.html) – [appos](sk_snk-dep-appos.html) – [aux](sk_snk-dep-aux.html) – [aux:pass](sk_snk-dep-aux-pass.html) – [case](sk_snk-dep-case.html) – [cc](sk_snk-dep-cc.html) – [ccomp](sk_snk-dep-ccomp.html) – [compound](sk_snk-dep-compound.html) – [conj](sk_snk-dep-conj.html) – [cop](sk_snk-dep-cop.html) – [csubj](sk_snk-dep-csubj.html) – [csubj:pass](sk_snk-dep-csubj-pass.html) – [dep](sk_snk-dep-dep.html) – [det](sk_snk-dep-det.html) – [det:numgov](sk_snk-dep-det-numgov.html) – [discourse](sk_snk-dep-discourse.html) – [expl:pass](sk_snk-dep-expl-pass.html) – [expl:pv](sk_snk-dep-expl-pv.html) – [fixed](sk_snk-dep-fixed.html) – [flat](sk_snk-dep-flat.html) – [flat:foreign](sk_snk-dep-flat-foreign.html) – [iobj](sk_snk-dep-iobj.html) – [mark](sk_snk-dep-mark.html) – [nmod](sk_snk-dep-nmod.html) – [nsubj](sk_snk-dep-nsubj.html) – [nsubj:pass](sk_snk-dep-nsubj-pass.html) – [nummod](sk_snk-dep-nummod.html) – [obj](sk_snk-dep-obj.html) – [obl](sk_snk-dep-obl.html) – [obl:arg](sk_snk-dep-obl-arg.html) – [orphan](sk_snk-dep-orphan.html) – [parataxis](sk_snk-dep-parataxis.html) – [punct](sk_snk-dep-punct.html) – [root](sk_snk-dep-root.html) – [vocative](sk_snk-dep-vocative.html) – [xcomp](sk_snk-dep-xcomp.html)
+[acl](sk_snk-dep-acl.html) – [acl:relcl](sk_snk-dep-acl-relcl.html) – [advcl](sk_snk-dep-advcl.html) – [advmod](sk_snk-dep-advmod.html) – [advmod:emph](sk_snk-dep-advmod-emph.html) – [amod](sk_snk-dep-amod.html) – [appos](sk_snk-dep-appos.html) – [aux](sk_snk-dep-aux.html) – [aux:pass](sk_snk-dep-aux-pass.html) – [case](sk_snk-dep-case.html) – [cc](sk_snk-dep-cc.html) – [ccomp](sk_snk-dep-ccomp.html) – [compound](sk_snk-dep-compound.html) – [conj](sk_snk-dep-conj.html) – [cop](sk_snk-dep-cop.html) – [csubj](sk_snk-dep-csubj.html) – [csubj:pass](sk_snk-dep-csubj-pass.html) – [dep](sk_snk-dep-dep.html) – [det](sk_snk-dep-det.html) – [det:numgov](sk_snk-dep-det-numgov.html) – [discourse](sk_snk-dep-discourse.html) – [expl:pass](sk_snk-dep-expl-pass.html) – [expl:pv](sk_snk-dep-expl-pv.html) – [fixed](sk_snk-dep-fixed.html) – [flat](sk_snk-dep-flat.html) – [iobj](sk_snk-dep-iobj.html) – [mark](sk_snk-dep-mark.html) – [nmod](sk_snk-dep-nmod.html) – [nsubj](sk_snk-dep-nsubj.html) – [nsubj:pass](sk_snk-dep-nsubj-pass.html) – [nummod](sk_snk-dep-nummod.html) – [obj](sk_snk-dep-obj.html) – [obl](sk_snk-dep-obl.html) – [obl:arg](sk_snk-dep-obl-arg.html) – [orphan](sk_snk-dep-orphan.html) – [parataxis](sk_snk-dep-parataxis.html) – [punct](sk_snk-dep-punct.html) – [root](sk_snk-dep-root.html) – [vocative](sk_snk-dep-vocative.html) – [xcomp](sk_snk-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -896,6 +896,32 @@ vol. 68, no. 2, pp. 385-395
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: v, na, spolu, s, Z, po, pod, vo</li>
+          <li>ADV: spolu, spoločne</li>
+          <li>NOUN: smerom, vzhľadom</li>
+          <li>X: v</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: a</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>CCONJ: aj, i</li>
+          <li>SCONJ: zatiaľ</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -1068,7 +1094,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
+<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

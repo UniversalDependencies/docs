@@ -61,12 +61,12 @@ The 2nd highest number of forms (2) was observed with the lemma “Учурда�
 
 The 3rd highest number of forms (2) was observed with the lemma “Эртең”: <em>Эртең, Эртеңден</em>.
 
-`ADV` occurs with 6 features: <tt><a href="ky_ktmu-feat-Case.html">Case</a></tt> (34; 4% instances), <tt><a href="ky_ktmu-feat-Number.html">Number</a></tt> (26; 3% instances), <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt> (22; 3% instances), <tt><a href="ky_ktmu-feat-Degree.html">Degree</a></tt> (9; 1% instances), <tt><a href="ky_ktmu-feat-PronType.html">PronType</a></tt> (5; 1% instances), <tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt> (1; 0% instances)
+`ADV` occurs with 7 features: <tt><a href="ky_ktmu-feat-Case.html">Case</a></tt> (34; 4% instances), <tt><a href="ky_ktmu-feat-Number.html">Number</a></tt> (26; 3% instances), <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt> (22; 3% instances), <tt><a href="ky_ktmu-feat-Degree.html">Degree</a></tt> (9; 1% instances), <tt><a href="ky_ktmu-feat-ExtPos.html">ExtPos</a></tt> (5; 1% instances), <tt><a href="ky_ktmu-feat-PronType.html">PronType</a></tt> (5; 1% instances), <tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt> (1; 0% instances)
 
-`ADV` occurs with 15 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Acc,Loc`, `Case=Dat`, `Case=Equ`, `Case=Loc`, `Case=Nom`, `Degree=Cmp`, `Degree=Sup`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `Polarity=Neg`, `PronType=Int`
+`ADV` occurs with 16 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Acc,Loc`, `Case=Dat`, `Case=Equ`, `Case=Loc`, `Case=Nom`, `Degree=Cmp`, `Degree=Sup`, `ExtPos=ADV`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `Polarity=Neg`, `PronType=Int`
 
-`ADV` occurs with 19 feature combinations.
-The most frequent feature combination is `_` (792 tokens).
+`ADV` occurs with 20 feature combinations.
+The most frequent feature combination is `_` (787 tokens).
 Examples: <em>боюнча, үчүн, карата, бери, ашык, тууралуу, чейин, дээрлик, дагы, тарта</em>
 
 

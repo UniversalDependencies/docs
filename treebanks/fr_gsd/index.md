@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Marie-Catherine de Marneffe, Bruno Guillaume, Ryan McDonald, Alane Suhr, Joakim Nivre, Matias Grioni, Carly Dickerson, Guy Perrier.
 
 Repository: [UD_French-GSD](https://github.com/UniversalDependencies/UD_French-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_gsd215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_gsd216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -99,11 +99,11 @@ See below for references and acknowledgments concerning the original corpus.
 
 
 <ul>
-<li>This corpus contains 16342 sentences, 389367 tokens and 400391 syntactic words.</li>
+<li>This corpus contains 16342 sentences, 389362 tokens and 400385 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 58138 tokens (15%) that are not followed by a space.</li>
+<li>This corpus contains 58133 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -111,11 +111,11 @@ See below for references and acknowledgments concerning the original corpus.
 </ul>
 
 <ul>
-<li>This corpus contains 2189 types of words that contain both letters and punctuation. Examples: l', d', s', qu', n', c', jusqu', j', aujourd'hui, États-Unis, l'on, m', -t-il, lui-même, celui-ci, -il, c'est-à-dire, M., lorsqu', celle-ci, au-dessus, etc., -ce, sud-est, Royaume-Uni, ceux-ci, au-delà, elle-même, peut-être, sud-ouest, -ils, J.-C., av., nord-ouest, nord-est, -vous, -elle, -là, -t-elle, Etats-Unis, Grande-Bretagne, Pays-Bas, eux-mêmes, porte-parole, Notre-Dame, puisqu', week-end, -on, quelqu'un, C.</li>
+<li>This corpus contains 2192 types of words that contain both letters and punctuation. Examples: l', d', s', qu', n', c', jusqu', j', aujourd'hui, États-Unis, l'on, m', -t-il, lui-même, celui-ci, -il, c'est-à-dire, M., lorsqu', celle-ci, au-dessus, etc., -ce, sud-est, Royaume-Uni, ceux-ci, au-delà, elle-même, peut-être, sud-ouest, -ils, J.-C., av., nord-ouest, nord-est, -vous, -elle, -t-elle, Etats-Unis, Grande-Bretagne, Pays-Bas, eux-mêmes, porte-parole, Notre-Dame, puisqu', week-end, -on, quelqu'un, -là, C.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 11024 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 11023 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 9 types of multi-word tokens. Examples: du, des, au, aux, auquel, duquel, auxquels, desquelles, auxquelles.</li>
 </ul>
 
@@ -132,7 +132,7 @@ See below for references and acknowledgments concerning the original corpus.
 </ul>
 
 <ul>
-<li>This corpus contains 43 lemmas tagged as pronouns (PRON): aucun, autre, autrui, ce, ceci, cela, celui, celui-ci, certain, chacun, dont, en, eux, eux-mêmes, lequel, lui, lui-même, moi, moi-même, nous, nous-mêmes, nul, nôtre, on, où, personne, plusieurs, qqchose, que, quelqu'un, qui, quiconque, quoi, rien, soi, soi-même, tel, toi, tout, un, vous, y, ça</li>
+<li>This corpus contains 44 lemmas tagged as pronouns (PRON): aucun, autre, autrui, ce, ceci, cela, celui, celui-ci, celui-là, certain, chacun, dont, en, eux, eux-mêmes, lequel, lui, lui-même, moi, moi-même, nous, nous-mêmes, nul, nôtre, on, où, personne, plusieurs, qqchose, que, quelqu'un, qui, quiconque, quoi, rien, soi, soi-même, tel, toi, tout, un, vous, y, ça</li>
 </ul>
 
 <ul>
@@ -192,7 +192,7 @@ See below for references and acknowledgments concerning the original corpus.
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: première, française, grande, même, nouvelle, toutes, nombreuses, nationale, autres, seule</li>
+      <li>ADJ: première, française, grande, nouvelle, toutes, nombreuses, nationale, seule, dernière, internationale</li>
       <li>AUX-Part: faite</li>
       <li>DET: la, une, sa, cette, ma, aucune, certaines, toute, toutes, différentes</li>
       <li>NOUN: ville, partie, fois, région, commune, années, famille, année, fin, place</li>
@@ -209,9 +209,9 @@ See below for references and acknowledgments concerning the original corpus.
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: premier, français, tous, dernier, grand, autres, nouveau, même, nombreux, petit</li>
+      <li>ADJ: français, premier, nombreux, tous, dernier, grand, nouveau, petit, seul, ancien</li>
       <li>AUX-Part: été, fait, vu</li>
-      <li>DET: le, un, ce, cet, du, certains, aucun, tout, différents, divers</li>
+      <li>DET: le, un, son, ce, cet, du, certains, aucun, tout, mon</li>
       <li>NOUN: ans, pays, nom, monde, temps, groupe, siècle, état, cours, lieu</li>
       <li>PRON: il, c', on, ils, lui, ce, le, un, cela, tout</li>
       <li>PROPN: Maroc, Sahara, Canada, Québec, Japon, Royaume-Uni, Brésil, Mali, Mans, Mexique</li>
@@ -230,10 +230,10 @@ See below for references and acknowledgments concerning the original corpus.
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: autres, tous, nombreux, toutes, nombreuses, premiers, grands, premières, grandes, derniers</li>
+      <li>ADJ: autres, tous, toutes, nombreuses, politiques, jeunes, premiers, propres, économiques, grands</li>
       <li>AUX-Fin: sont, ont, étaient, avons, furent, avaient, seront, sommes, soient, auraient</li>
       <li>DET: les, des, ses, ces, de, plusieurs, leurs, quelques, d', certains</li>
-      <li>NOUN: ans, années, enfants, pays, habitants, personnes, jours, droits, points, hommes</li>
+      <li>NOUN: ans, années, enfants, h, pays, habitants, personnes, jours, droits, points</li>
       <li>NUM: deux, trois, 2, quatre, 2010, 2009, 2008, 2011, 3, 5</li>
       <li>PRON: ils, nous, vous, les, elles, autres, ceux, eux, leur, tous</li>
       <li>PROPN: États-Unis, Etats-Unis, Pays-Bas, Pyrénées, îles, Vosges, Hautes-Pyrénées, Rangers, Alpes, Caraïbes</li>
@@ -248,7 +248,7 @@ See below for references and acknowledgments concerning the original corpus.
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: premier, première, même, français, française, dernier, grande, grand, nouveau, autre</li>
+      <li>ADJ: même, premier, première, autre, politique, deuxième, française, dernier, grande, grand</li>
       <li>AUX-Fin: est, a, était, fut, avait, ai, sera, soit, aurait, fait</li>
       <li>AUX-Part: été, fait, vu, faite</li>
       <li>DET: le, la, l', un, une, son, sa, cette, ce, leur</li>
@@ -705,17 +705,16 @@ See below for references and acknowledgments concerning the original corpus.
       </li>
       <li>PROPN
         <ul>
-          <li>ADJ: Tel, Belle, Clair, Disponible, Drôle, Quelle, Seul, extra, indépendante, inférieur</li>
+          <li>ADJ: Tel, extra, Belle, Clair, Disponible, Drôle, Quelle, Seul, indépendante, inférieur</li>
           <li>ADV: Après-demain, Bêtement, avant, ici, longtemps</li>
-          <li>DET: l'</li>
-          <li>NOUN: Chanson, Chant, Donjon, Fille, Oiseau, Place, Procès, or, Abime, Affaire</li>
-          <li>NUM: 7, sept</li>
+          <li>NOUN: h, Chanson, Chant, Donjon, Fille, Oiseau, Place, Procès, or, Abime</li>
+          <li>NUM: sept</li>
           <li>PRON: Ceux</li>
           <li>PROPN: Ali, Allah, DIOS, Lilly, NGC, Sherlock, Sinbad, The, Toutankhamon, WR</li>
           <li>SYM: K, A, C, M, H, AA, criticusleblog@gmail.com, x, Ω, †</li>
           <li>VERB-Fin: vit, est, suis, Aide, Arrête, Chantons, Cherchez, Devine, Ouvre, Peut</li>
           <li>VERB-Inf: Aimer, Faire, Philosopher, Voler, débarrasser, laisser, monter, réussir, Économiser</li>
-          <li>VERB-Part: Déconseillé, dit, prévu, écrit</li>
+          <li>VERB-Part: Déconseillé, dit, prévu, sauvé, écrit</li>
           <li>X: B, A, GMT, s, A1, AR-18, E, K, L., Windows</li>
         </ul>
       </li>
@@ -812,7 +811,7 @@ See below for references and acknowledgments concerning the original corpus.
 </ul>
 
 <ul>
-<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: voir, être.</li>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: voir.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être, faire.</li>
 </ul>
 
@@ -823,14 +822,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (3)</li>
-      <li>VERB-Fin--NOUN (4053)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (1)</li>
+      <li>VERB-Fin--NOUN (4054)</li>
       <li>VERB-Fin--NOUN-ADP(jusque)-ADP(à) (1)</li>
       <li>VERB-Fin--PRON (5695)</li>
       <li>VERB-Inf--NOUN (53)</li>
       <li>VERB-Inf--PRON (14)</li>
-      <li>VERB-Part--NOUN (1147)</li>
-      <li>VERB-Part--NOUN-ADP(de) (1)</li>
+      <li>VERB-Part--NOUN (1148)</li>
       <li>VERB-Part--PRON (1271)</li>
     </ul>
   </li>
@@ -841,7 +838,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (18)</li>
       <li>VERB--PRON (4)</li>
-      <li>VERB-Fin--NOUN (4872)</li>
+      <li>VERB-Fin--NOUN (4873)</li>
       <li>VERB-Fin--NOUN-ADP(entre) (1)</li>
       <li>VERB-Fin--NOUN-ADP(jusque)-ADP(à) (4)</li>
       <li>VERB-Fin--PRON (1081)</li>

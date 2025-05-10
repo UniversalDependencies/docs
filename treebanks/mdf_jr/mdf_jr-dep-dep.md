@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 4	чести	честь	X	_	_	1	dep	_	SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	1	punct	_	GTtags=PUNCT
 6	а	а	CCONJ	CC	_	9	cc	_	_
-7	меле	меле	ADV	Adv	_	9	advmod:tmod	_	_
+7	меле	меле	ADV	Adv	AdvType=Tim	9	advmod	_	_
 8	сёрмаце	сёрма	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	9	nsubj	_	GTtags=Sg,Nom,PxSg2
 9	сась	самс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,ScSg3|SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	9	punct	_	GTtags=PUNCT
@@ -76,7 +76,7 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 4	чести	честь	X	_	_	1	dep	_	SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	1	punct	_	GTtags=PUNCT
 6	а	а	CCONJ	CC	_	9	cc	_	_
-7	меле	меле	ADV	Adv	_	9	advmod:tmod	_	_
+7	меле	меле	ADV	Adv	AdvType=Tim	9	advmod	_	_
 8	сёрмаце	сёрма	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	9	nsubj	_	GTtags=Sg,Nom,PxSg2
 9	сась	самс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,ScSg3|SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	9	punct	_	GTtags=PUNCT

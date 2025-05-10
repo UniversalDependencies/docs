@@ -32,7 +32,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (120; 100% of non-empty `Polarity`): <em>ingen, inga</em>
-* `EMPTY` (14868): <em>ein, den, eit, dei, ei, det, andre, alle, denne, anna</em>
+* `EMPTY` (14867): <em>ein, den, eit, dei, ei, det, andre, alle, denne, anna</em>
 
 ### `PRON`
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-32016 tokens (11%) have a non-empty value of `Number`.
-7558 types (24%) occur at least once with a non-empty value of `Number`.
+32012 tokens (11%) have a non-empty value of `Number`.
+7559 types (24%) occur at least once with a non-empty value of `Number`.
 6201 lemmas (27%) occur at least once with a non-empty value of `Number`.
-The feature is used with 5 part-of-speech tags: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (14577; 5% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (6202; 2% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (4609; 2% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (3657; 1% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (2971; 1% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (14577; 5% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (6200; 2% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (4609; 2% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (3655; 1% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (2971; 1% instances).
 
 ### `NOUN`
 
@@ -24,19 +24,19 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 * `Plur` (14575; 100% of non-empty `Number`): <em>år, folk, prosent, kroner, millionar, åra, pengar, land, menneske, tiltak</em>
 * `Sing` (2; 0% of non-empty `Number`): <em>Badestamp, kong</em>
-* `EMPTY` (41954): <em>dag, tid, år, del, språk, landet, regjeringa, saka, verda, gong</em>
+* `EMPTY` (41953): <em>dag, tid, år, del, språk, landet, regjeringa, saka, verda, gong</em>
 
 `Number` seems to be **lexical feature** of `NOUN`. 100% lemmas (3949) occur only with one value of `Number`.
 
 ### `ADJ`
 
-6202 <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> tokens (21% of all `ADJ` tokens) have a non-empty value of `Number`.
+6200 <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> tokens (21% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (6199; 100%), <tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6199; 100%), <tt><a href="no_nynorsk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (5350; 86%), <tt><a href="no_nynorsk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (5125; 83%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (6197; 100%), <tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6197; 100%), <tt><a href="no_nynorsk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (5348; 86%), <tt><a href="no_nynorsk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (5125; 83%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (6200; 100% of non-empty `Number`): <em>mange, store, nye, ulike, norske, gode, 1., siste, tilsette, få</em>
+* `Plur` (6198; 100% of non-empty `Number`): <em>mange, store, nye, ulike, norske, gode, 1., siste, tilsette, få</em>
 * `Sing` (2; 0% of non-empty `Number`): <em>Nytt, irredusibel</em>
 * `EMPTY` (22899): <em>meir, fleire, mykje, heile, godt, heilt, norsk, viktig, langt, mest</em>
 
@@ -64,27 +64,27 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `NUM`
 
-3657 <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> tokens (90% of all `NUM` tokens) have a non-empty value of `Number`.
+3655 <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> tokens (90% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="no_nynorsk-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (3657; 100%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="no_nynorsk-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (3655; 100%).
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (3657; 100% of non-empty `Number`): <em>to, tre, fire, ti, fem, 20, seks, 2005, 2006, 2</em>
+* `Plur` (3655; 100% of non-empty `Number`): <em>to, tre, fire, ti, fem, 20, seks, 2005, 2006, 2</em>
 * `EMPTY` (393): <em>einaste, 1, eine, éin, noko, éi, 01.02.2011, 3.2, 3.3, 3.4</em>
 
-`Number` seems to be **lexical feature** of `NUM`. 100% lemmas (636) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NUM`. 100% lemmas (637) occur only with one value of `Number`.
 
 ### `DET`
 
 2971 <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> tokens (20% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2971; 100%), <tt><a href="no_nynorsk-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (2259; 76%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2971; 100%), <tt><a href="no_nynorsk-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (1517; 51%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (2971; 100% of non-empty `Number`): <em>dei, andre, alle, desse, nokre, slike, ingen, eigne, begge, nokon</em>
-* `EMPTY` (12017): <em>ein, den, eit, ei, det, denne, anna, same, noko, dette</em>
+* `EMPTY` (12016): <em>ein, den, eit, ei, det, denne, anna, same, noko, dette</em>
 
 `Number` seems to be **lexical feature** of `DET`. 100% lemmas (13) occur only with one value of `Number`.
 

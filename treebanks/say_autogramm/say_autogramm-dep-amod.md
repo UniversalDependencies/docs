@@ -22,7 +22,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 amod	color:blue
-1	tsə́tngə́n	tsə́tn	VERB	_	VerbForm=Vnoun	7	dislocated	_	AlignBegin=51277|AlignEnd=51436|Gloss=sit
+1	tsə́tngə́n	tsə́tn	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	7	dislocated	_	AlignBegin=51277|AlignEnd=51436|Gloss=sit
 2	də̀n	də̀n	NOUN	_	_	1	dep	_	AlignBegin=51595|AlignEnd=51913|Gloss=house
 3	máː	máː	PART	_	_	1	advmod	_	AlignBegin=51913|AlignEnd=52231|Gloss=even
 4	<	<	PUNCT	_	_	1	punct	_	AlignBegin=52231|AlignEnd=52549|Gloss=PUNCT
@@ -61,7 +61,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
 # visual-style 17 15 amod	color:blue
-1	ngaːláy	ngaːlá	ADV	_	Aspect=Res	14	advmod	_	AlignBegin=297847|AlignEnd=298098|Gloss=spend_time-Res|wordform=ngaːlá
+1	ngaːláy	ngaːlá	ADV	_	Aspect=Res|ExtPos=ADV	14	advmod	_	AlignBegin=297847|AlignEnd=298098|Gloss=spend_time-Res|wordform=ngaːlá
 2	naːkâm	naːkâm	NOUN	_	_	6	reparandum	_	AlignBegin=298098|AlignEnd=298349|Gloss=friend
 3	gə́	kə́	ADP	_	_	4	case	_	AlignBegin=298600|AlignEnd=298851|Gloss=of
 4	də̌ːr	də̌ːr	NOUN	_	_	2	nmod	_	AlignBegin=298851|AlignEnd=299102|Gloss=lizard
@@ -75,7 +75,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 12	<	<	PUNCT	_	_	6	punct	_	AlignBegin=301070|AlignEnd=301285|Gloss=PUNCT
 13	àː	_	AUX	àː	Aspect=Perf|Number=Sing|Person=3	14	aux	_	AlignBegin=302042|AlignEnd=302329|Gloss=3Sing.Perf
 14	náːt	nat	VERB	_	Number=Plur	0	root	_	AlignBegin=302329|AlignEnd=302616|Gloss=tie.Plur
-15	ʃéːgè	ʃéːgè	NOUN	_	_	17	amod	_	AlignBegin=302616|AlignEnd=302903|Gloss=bastard|Lang=ha
+15	ʃéːgè	ʃéːgè	NOUN	_	ExtPos=ADJ	17	amod	_	AlignBegin=302616|AlignEnd=302903|Gloss=bastard|Lang=ha
 16	nâs	nâs	ADJ	_	_	17	amod	_	AlignBegin=302903|AlignEnd=303190|Gloss=big
 17	gingə́ri	gingə́ri	NOUN	_	_	14	obj	_	AlignBegin=303190|AlignEnd=303286|Gloss=baobab_cake
 18	=wòs	=wos	PRON	_	Number=Sing|Person=3|PronType=Prs	17	nmod:poss	_	AlignBegin=303286|AlignEnd=303382|Gloss=3Sing.Gen

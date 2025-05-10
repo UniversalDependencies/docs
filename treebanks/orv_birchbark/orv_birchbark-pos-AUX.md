@@ -58,17 +58,17 @@ The 10 most frequent ambiguous types:  <em>бꙑ</em> (<tt><a href="orv_birchbar
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 75.000000 (the average of all parts of speech is 2.410435).
+The form / lemma ratio of `AUX` is 75.000000 (the average of all parts of speech is 2.411136).
 
 The 1st highest number of forms (148) was observed with the lemma “быти”: <em>(бꙑ)<lbr/>ло, (ес)мъ, (ес)мь, (еси, (ѥ)[с]ми, (ѥ)[си], (ѥс)м(ь, (ѥсмь), [бе]шь, [ес]и, [еси], [ѥ](см-, [ѥс]м[е], [ѥсе]м<lbr/>о, ·є·смꙑ, б(у)[д](е, б[уд]…, б[ꙑ]<lbr/>ло, б]ѹде, б]ꙑ[лъ], бу<lbr/>[де], бу[д]е, буд[е], буд[еть], буде, буде[ш]е, будете, будешъ, будешь, буди, будь, будьть, будьше, буть, буше, былъ, бьшь, бѫди, бѹ[дешь, бѹде, бѹде)[ш]и, бѹдете, бѹдеѹть, бѹдьть, бѹдьше, бѹдѫть, бѹдѹ, бѹд…, б…, бꙋде, бꙋди, бꙋдꙋ, бꙑ, бꙑ[хъ], бꙑла, бꙑле, бꙑли, бꙑло, бꙑлъ, бꙑл, бꙑс, бꙑхо, бꙑховь, бꙑхъ, бꙑша, е, е:с]и, е:си, е<lbr/>свѣ, е<lbr/>си, е<lbr/>смо, е<lbr/>сть, е[с]и, е[с]мь, е[си, е[си], е], е]с[ь]мь, е]см[ъ, е·сте, ес[ь]м[ь], ес]--, есве, есвѣ, есевь, есем-, есем[ъ], есеме, есемо, еси, еси], есм)[ь], есм[ь], есм](ь), есме, есмо, есмъ, есмь, есмѣ, есмꙑ, есо<lbr/>(мо, еста, есте, есть, ест…, есь)[м]о, есьм[ь], есьмо, есьмъ, есьмь, ес…, си, см[ь], сѹте, сѹть, єси, єсме, єсмь, ѥ, ѥ)<lbr/>си, ѥ[с](ме), ѥ](си, ѥмь, ѥс<lbr/>омо, ѥс[те], ѥсе<lbr/>мь, ѥсем-, ѥсемо, ѥсемъ, ѥсемь, ѥси, ѥсм(ь, ѥсм[о, ѥсм·ь, ѥсме, ѥсми, ѥсмъ, ѥсмь, ѥсомо, ѥсомъ, ѥсте, ѥстѣ, ѥсь, ѥсьмо, ѥсьмъ, ѥсѣ, …<lbr/>е, …м[о]</em>.
 
 The 2nd highest number of forms (3) was observed with the lemma “бы”: <em>би, бъ, бꙑ</em>.
 
-`AUX` occurs with 8 features: <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt> (360; 96% instances), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt> (359; 96% instances), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt> (357; 95% instances), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt> (356; 95% instances), <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt> (334; 89% instances), <tt><a href="orv_birchbark-feat-Analyt.html">Analyt</a></tt> (323; 86% instances), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt> (28; 7% instances), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt> (22; 6% instances)
+`AUX` occurs with 9 features: <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt> (360; 96% instances), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt> (359; 96% instances), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt> (357; 95% instances), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt> (356; 95% instances), <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt> (334; 89% instances), <tt><a href="orv_birchbark-feat-Analyt.html">Analyt</a></tt> (323; 86% instances), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt> (28; 7% instances), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt> (22; 6% instances), <tt><a href="orv_birchbark-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`AUX` occurs with 19 feature-value pairs: `Analyt=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Cnd`, `Mood=Imp`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=PartRes`, `Voice=Act`
+`AUX` occurs with 20 feature-value pairs: `Analyt=Yes`, `ExtPos=PART`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Cnd`, `Mood=Imp`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=PartRes`, `Voice=Act`
 
-`AUX` occurs with 50 feature combinations.
+`AUX` occurs with 51 feature combinations.
 The most frequent feature combination is `Analyt=Yes|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act` (103 tokens).
 Examples: <em>еси, ѥси, е<lbr/>си, (еси, (ѥ)[си], [ес]и, е[с]и, е[си, е[си], еси]</em>
 

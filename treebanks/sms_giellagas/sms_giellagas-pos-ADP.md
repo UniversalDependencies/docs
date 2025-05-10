@@ -49,7 +49,7 @@ Examples: <em>ool, luzz, âʹlnn, årra, mieʹldd, räjja</em>
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="sms_giellagas-dep-case.html">case</a></tt> (24; 96% instances), <tt><a href="sms_giellagas-dep-obl-lmod.html">obl:lmod</a></tt> (1; 4% instances)
+`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="sms_giellagas-dep-case.html">case</a></tt> (24; 96% instances), <tt><a href="sms_giellagas-dep-obl.html">obl</a></tt> (1; 4% instances)
 
 Parents of `ADP` nodes belong to 3 different parts of speech: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (20; 80% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (4; 16% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (1; 4% instances)
 

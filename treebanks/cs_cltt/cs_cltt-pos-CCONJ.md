@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="cs_cltt-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.709632).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.709027).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
@@ -42,7 +42,13 @@ The 2nd highest number of forms (1) was observed with the lemma “ale”: <em>a
 
 The 3rd highest number of forms (1) was observed with the lemma “anebo”: <em>anebo</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="cs_cltt-feat-ExtPos.html">ExtPos</a></tt> (33; 2% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (1798 tokens).
+Examples: <em>a, nebo, i, či, anebo, ani, ale, však, avšak, buď</em>
 
 
 ## Relations

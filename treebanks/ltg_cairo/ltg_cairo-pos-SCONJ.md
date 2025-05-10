@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latgalian-Cairo: POS Tags: `SCONJ`
 
 There are 2 `SCONJ` lemmas (2%), 2 `SCONJ` types (2%) and 3 `SCONJ` tokens (2%).
-Out of 12 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 12 in number of types and 12 in number of tokens.
+Out of 11 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 11 in number of types and 11 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>ka, nakai</em>
 

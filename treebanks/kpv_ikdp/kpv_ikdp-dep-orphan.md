@@ -31,7 +31,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 7	,	,	PUNCT	PUNCT	_	11	punct	_	_
 8	но	но	CCONJ	CC	_	11	cc	_	_
 9	абу	абу	AUX	Pcle	Polarity=Neg	11	aux:neg	_	GTtags=Aux,Neg
-10	правоясас	право	NOUN	N	Case=Ine|Number=Plur|Number[psor]=Sing|Person[psor]=3	11	obl:lmod	_	GTtags=Pl,Ine,PxSg3,So/CP
+10	правоясас	право	NOUN	N	Case=Ine|Number=Plur|Number[psor]=Sing|Person[psor]=3	11	obl	_	GTtags=Pl,Ine,PxSg3,So/CP
 11	равнэйэсь	равнэй	ADJ	A	Number[subj]=Plur	6	conj	_	GTtags=Cop,Pl|SpaceAfter=No
 12	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
@@ -45,7 +45,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 13	fgColor:white
 # visual-style 13 14 orphan	color:blue
 1	Миян	ме	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	2	nmod:poss	_	GTtags=Pers,Pl1,Gen
-2	школаын	школа	NOUN	N	Case=Ine|Number=Sing	5	obl:lmod	_	GTtags=Sg,Ine
+2	школаын	школа	NOUN	N	Case=Ine|Number=Sing	5	obl	_	GTtags=Sg,Ine
 3	вӧліс	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	GTtags=Ind,Prt1,Sg3
 4	зэй	зэв	ADV	Adv	_	5	advmod:deg	_	GTtags=Err/Dial
 5	бур	бур	ADJ	A	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom

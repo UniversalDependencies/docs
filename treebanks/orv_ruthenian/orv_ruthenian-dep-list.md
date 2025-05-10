@@ -58,9 +58,9 @@ The following 6 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 11	fgColor:white
 # visual-style 11 12 list	color:blue
 1	І	и	CCONJ	_	_	2	cc	_	wf="И"
-2	мешкали	мѣшкати	VERB	_	Aspect=Imp|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="мешкали"|SpaceAfter=No
+2	мешкали	мешкати	VERB	_	Aspect=Imp|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="мешкали"|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	wf=","
-4	мови(т)	мовити	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	parataxis:discourse	_	wf="мовит"|SpaceAfter=No
+4	мови(т)	мовити	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis:discourse	_	wf="мовит"|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	wf=","
 6	[	[	PUNCT	_	_	7	punct	_	wf="["|NoIndex=Yes|SpaceAfter=No
 7	глоса	глоса	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	wf="глоса"|NoIndex=Yes

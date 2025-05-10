@@ -21,7 +21,7 @@ The feature is used with 14 part-of-speech tags: <tt><a href="cop_scriptorium-po
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1926; 100% of non-empty `Foreign`): ⲭⲣⲓⲥⲧⲟⲥ, ⲡⲛⲉⲩⲙⲁ, ⲁⲡⲁ, ⲕⲟⲥⲙⲟⲥ, ⲥⲱⲙⲁ, ⲙⲁⲑⲏⲧⲏⲥ, ⲗⲁⲟⲥ, ⲥⲁⲣⲝ, ⲙⲟⲛⲁⲭⲟⲥ, ⲡⲟⲗⲓⲥ
-* `EMPTY` (6365): ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ⲧⲏⲣ, ϩⲏⲧ, ϣⲏⲣⲉ, ⲥⲟⲛ, ϣⲁϫⲉ
+* `EMPTY` (6370): ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ⲧⲏⲣ, ϩⲏⲧ, ϣⲏⲣⲉ, ⲥⲟⲛ, ϣⲁϫⲉ
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (508) occur only with one value of `Foreign`.
 
@@ -32,7 +32,7 @@ The feature is used with 14 part-of-speech tags: <tt><a href="cop_scriptorium-po
 `PART` tokens may have the following values of `Foreign`:
 
 * `Yes` (915; 100% of non-empty `Foreign`): ⲇⲉ, ⲅⲁⲣ, ⲱ, ⲙⲉⲛ, ϩⲁⲙⲏⲛ, ⲁⲣⲁ, ⲟⲩⲛ, ⲭⲁⲓⲣⲉ, ⲭⲱⲣⲓⲥ, ⲁⲛⲧⲓ
-* `EMPTY` (1122): ⲉ, ⲛϭⲓ, ⲛⲧ, ϭⲉ, ⲉⲓⲥ, ⲉⲣⲉ, ⲙⲛⲛⲥⲁ, ϩⲏⲏⲧⲉ, ⲙⲙⲟⲛ, ⲉⲧⲃⲉ
+* `EMPTY` (1115): ⲉ, ⲛϭⲓ, ⲛⲧ, ϭⲉ, ⲉⲓⲥ, ⲉⲣⲉ, ⲙⲛⲛⲥⲁ, ϩⲏⲏⲧⲉ, ⲙⲙⲟⲛ, ⲟⲩⲟⲓ
 
 `Foreign` seems to be **lexical feature** of `PART`. 100% lemmas (12) occur only with one value of `Foreign`.
 
@@ -75,12 +75,12 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 
 117 <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> tokens (6% of all `ADV` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADV` and `Foreign` co-occurred: <tt><a href="cop_scriptorium-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (106; 91%).
+The most frequent other feature values with which `ADV` and `Foreign` co-occurred: <tt><a href="cop_scriptorium-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (116; 99%), <tt><a href="cop_scriptorium-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (106; 91%).
 
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (117; 100% of non-empty `Foreign`): ⲕⲁⲗⲱⲥ, ⲧⲟⲧⲉ, ⲗⲟⲓⲡⲟⲛ, ⲙⲁⲗⲓⲥⲧⲁ, ⲉⲧⲓ, ⲏⲇⲏ, ⲡⲁⲗⲓⲛ, ϩⲟⲗⲱⲥ, ⲉⲓⲧⲁ, ⲟⲩⲕ
-* `EMPTY` (1883): ⲉⲃⲟⲗ, ⲁⲛ, ⲉϩⲟⲩⲛ, ⲟⲛ, ⲛ, ⲙⲙⲁⲩ, ⲉϩⲣⲁⲓ, ⲧⲙ, ⲙⲡⲣ, ⲉⲙⲁⲧⲉ
+* `EMPTY` (1879): ⲉⲃⲟⲗ, ⲁⲛ, ⲉϩⲟⲩⲛ, ⲟⲛ, ⲛ, ⲙⲙⲁⲩ, ⲉϩⲣⲁⲓ, ⲧⲙ, ⲙⲡⲣ, ⲉⲙⲁⲧⲉ
 
 `Foreign` seems to be **lexical feature** of `ADV`. 100% lemmas (34) occur only with one value of `Foreign`.
 
@@ -102,7 +102,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (102; 100% of non-empty `Foreign`): ⲕⲁⲧⲁ, ⲭⲱⲣⲓⲥ, ⲡⲁⲣⲁ, ⲡⲣⲟⲥ, ⲕⲁⲧⲁⲣⲟ, ⲙ, ⲡⲁⲣⲁⲣⲟ
-* `EMPTY` (8251): ⲛ, ⲙ, ⲉ, ϩⲛ, ⲛⲁ, ⲙⲙⲟ, ⲙⲛ, ⲉⲣⲟ, ϩⲙ, ⲉⲧⲃⲉ
+* `EMPTY` (8263): ⲛ, ⲙ, ⲉ, ϩⲛ, ⲛⲁ, ⲙⲙⲟ, ⲙⲛ, ⲉⲣⲟ, ϩⲙ, ⲉⲧⲃⲉ
 
 ### `X`
 
@@ -111,7 +111,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (15; 100% of non-empty `Foreign`): ⲙⲟⲛⲟⲛ, ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲩ, ⲁⲩⲧⲟⲩ, ⲉⲡⲓⲥⲧⲟⲗⲏ, ⲉⲡⲫⲁⲑⲁ, ⲕⲟⲩⲙ, ⲟⲩⲇ[.......], ⲧⲟⲩ, ⲭⲉⲓⲙⲏⲧⲓ
-* `EMPTY` (31): .., ....., [...], ...., [..], ......, ........., .........., .....ⲟ..., [....]ⲥ
+* `EMPTY` (30): .., ....., [...], ...., [..], ......, ........., .........., .....ⲟ..., [....]ⲥ
 
 ### `ADJ`
 

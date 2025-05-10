@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="mdf_jr-pos-AUX.html
 
 ### `AUX`
 
-100 <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> tokens (61% of all `AUX` tokens) have a non-empty value of `VerbType`.
+100 <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> tokens (62% of all `AUX` tokens) have a non-empty value of `VerbType`.
 
 The most frequent other feature values with which `AUX` and `VerbType` co-occurred: <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (100; 100%), <tt><a href="mdf_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (96; 96%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (78; 78%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (71; 71%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (71; 71%), <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (70; 70%).
 

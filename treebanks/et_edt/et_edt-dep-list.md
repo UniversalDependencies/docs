@@ -51,10 +51,10 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 13 39 list	color:blue
 1	Töö	töö	NOUN	S	Case=Gen|Number=Sing	3	nmod	3:nmod	_
 2	ajaline	ajaline	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	3	amod	3:amod	_
-3	paindlikkus	paindlikkus	NOUN	S	Case=Nom|Number=Sing	4	nsubj	4:nsubj	_
-4	väljendub	väljenduma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	paindlikkus	paindlikkus	NOUN	S	Case=Nom|Number=Sing	4	nsubj	4:nsubj	Arg=väljenduma_Arg_1
+4	väljendub	väljenduma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Verb=väljenduma
 5	tööturu	töö_turg	NOUN	S	Case=Gen|Number=Sing	6	nmod	6:nmod	_
-6	parameetrites	parameeter	NOUN	S	Case=Ine|Number=Plur	4	obl	4:obl	_
+6	parameetrites	parameeter	NOUN	S	Case=Ine|Number=Plur	4	obl	4:obl	Arg=väljenduma_Arg_2
 7	nagu	nagu	SCONJ	J	_	13	mark	13:mark	SpaceAfter=No
 8	:	:	PUNCT	Z	_	13	punct	13:punct	_
 9	·	·	PUNCT	Z	_	13	punct	13:punct	_

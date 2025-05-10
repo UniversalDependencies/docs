@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Finnish-TDT: POS Tags: `NUM`
 
-There are 1205 `NUM` lemmas (5%), 1376 `NUM` types (3%) and 4979 `NUM` tokens (2%).
+There are 1204 `NUM` lemmas (5%), 1375 `NUM` types (2%) and 4978 `NUM` tokens (2%).
 Out of 15 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 10 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>kaksi, yksi, 1, 2, kolme, 2009, 3, miljoona, viisi, neljä</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>1</em> (<tt><a href="fi_tdt-pos-NUM.h
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.141909 (the average of all parts of speech is 2.067974).
+The form / lemma ratio of `NUM` is 1.142027 (the average of all parts of speech is 2.067894).
 
 The 1st highest number of forms (18) was observed with the lemma “yksi”: <em>yhdeksi, yhdelle, yhdellä, yhdeltä, yhdeltäkään, yhden, yhdessä, yhdessäkään, yhdestä, yhdet, yhteen, yhtenä, yhtenäkin, yhtä, yhtäkään, yks, yksi, yksikin</em>.
 
@@ -60,7 +60,7 @@ The 2nd highest number of forms (15) was observed with the lemma “kaksi”: <e
 
 The 3rd highest number of forms (12) was observed with the lemma “tuhat”: <em>tuhannella, tuhannen, tuhannesta, tuhannet, tuhansia, tuhansien, tuhansiin, tuhansilta, tuhansista, tuhanteenkin, tuhat, tuhatta</em>.
 
-`NUM` occurs with 8 features: <tt><a href="fi_tdt-feat-NumType.html">NumType</a></tt> (4684; 94% instances), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt> (1285; 26% instances), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt> (1285; 26% instances), <tt><a href="fi_tdt-feat-Style.html">Style</a></tt> (13; 0% instances), <tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt> (11; 0% instances), <tt><a href="fi_tdt-feat-Typo.html">Typo</a></tt> (4; 0% instances), <tt><a href="fi_tdt-feat-Abbr.html">Abbr</a></tt> (2; 0% instances), <tt><a href="fi_tdt-feat-PronType.html">PronType</a></tt> (1; 0% instances)
+`NUM` occurs with 8 features: <tt><a href="fi_tdt-feat-NumType.html">NumType</a></tt> (4683; 94% instances), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt> (1284; 26% instances), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt> (1284; 26% instances), <tt><a href="fi_tdt-feat-Style.html">Style</a></tt> (13; 0% instances), <tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt> (11; 0% instances), <tt><a href="fi_tdt-feat-Typo.html">Typo</a></tt> (4; 0% instances), <tt><a href="fi_tdt-feat-Abbr.html">Abbr</a></tt> (2; 0% instances), <tt><a href="fi_tdt-feat-PronType.html">PronType</a></tt> (1; 0% instances)
 
 `NUM` occurs with 21 feature-value pairs: `Abbr=Yes`, `Case=Abl`, `Case=Ade`, `Case=All`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Par`, `Case=Tra`, `Clitic=Kaan`, `Clitic=Kin`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `PronType=Ind`, `Style=Coll`, `Typo=Yes`
 
@@ -71,11 +71,11 @@ Examples: <em>1, 2, 2009, 3, 5, 4, kaksi, 10, 2006, 6</em>
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 21 different relations: <tt><a href="fi_tdt-dep-nummod.html">nummod</a></tt> (3286; 66% instances), <tt><a href="fi_tdt-dep-obl.html">obl</a></tt> (576; 12% instances), <tt><a href="fi_tdt-dep-flat.html">flat</a></tt> (358; 7% instances), <tt><a href="fi_tdt-dep-appos.html">appos</a></tt> (176; 4% instances), <tt><a href="fi_tdt-dep-compound.html">compound</a></tt> (158; 3% instances), <tt><a href="fi_tdt-dep-conj.html">conj</a></tt> (124; 2% instances), <tt><a href="fi_tdt-dep-nmod.html">nmod</a></tt> (101; 2% instances), <tt><a href="fi_tdt-dep-flat-name.html">flat:name</a></tt> (50; 1% instances), <tt><a href="fi_tdt-dep-root.html">root</a></tt> (49; 1% instances), <tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt> (23; 0% instances), <tt><a href="fi_tdt-dep-nmod-poss.html">nmod:poss</a></tt> (18; 0% instances), <tt><a href="fi_tdt-dep-obj.html">obj</a></tt> (17; 0% instances), <tt><a href="fi_tdt-dep-nsubj-cop.html">nsubj:cop</a></tt> (15; 0% instances), <tt><a href="fi_tdt-dep-orphan.html">orphan</a></tt> (7; 0% instances), <tt><a href="fi_tdt-dep-ccomp.html">ccomp</a></tt> (6; 0% instances), <tt><a href="fi_tdt-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="fi_tdt-dep-acl-relcl.html">acl:relcl</a></tt> (4; 0% instances), <tt><a href="fi_tdt-dep-compound-nn.html">compound:nn</a></tt> (3; 0% instances), <tt><a href="fi_tdt-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-nmod-gsubj.html">nmod:gsubj</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 21 different relations: <tt><a href="fi_tdt-dep-nummod.html">nummod</a></tt> (3286; 66% instances), <tt><a href="fi_tdt-dep-obl.html">obl</a></tt> (576; 12% instances), <tt><a href="fi_tdt-dep-flat.html">flat</a></tt> (358; 7% instances), <tt><a href="fi_tdt-dep-appos.html">appos</a></tt> (176; 4% instances), <tt><a href="fi_tdt-dep-compound.html">compound</a></tt> (158; 3% instances), <tt><a href="fi_tdt-dep-conj.html">conj</a></tt> (124; 2% instances), <tt><a href="fi_tdt-dep-nmod.html">nmod</a></tt> (103; 2% instances), <tt><a href="fi_tdt-dep-root.html">root</a></tt> (49; 1% instances), <tt><a href="fi_tdt-dep-flat-name.html">flat:name</a></tt> (47; 1% instances), <tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt> (23; 0% instances), <tt><a href="fi_tdt-dep-nmod-poss.html">nmod:poss</a></tt> (18; 0% instances), <tt><a href="fi_tdt-dep-obj.html">obj</a></tt> (17; 0% instances), <tt><a href="fi_tdt-dep-nsubj-cop.html">nsubj:cop</a></tt> (15; 0% instances), <tt><a href="fi_tdt-dep-orphan.html">orphan</a></tt> (7; 0% instances), <tt><a href="fi_tdt-dep-ccomp.html">ccomp</a></tt> (6; 0% instances), <tt><a href="fi_tdt-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="fi_tdt-dep-acl-relcl.html">acl:relcl</a></tt> (4; 0% instances), <tt><a href="fi_tdt-dep-compound-nn.html">compound:nn</a></tt> (3; 0% instances), <tt><a href="fi_tdt-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-nmod-gsubj.html">nmod:gsubj</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 10 different parts of speech: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (3423; 69% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (569; 11% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (424; 9% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (260; 5% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (157; 3% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt> (74; 1% instances),  (49; 1% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="fi_tdt-pos-X.html">X</a></tt> (3; 0% instances)
+Parents of `NUM` nodes belong to 10 different parts of speech: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (3423; 69% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (569; 11% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (424; 9% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (260; 5% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (158; 3% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt> (74; 1% instances),  (49; 1% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="fi_tdt-pos-X.html">X</a></tt> (2; 0% instances)
 
-3566 (72%) `NUM` nodes are leaves.
+3565 (72%) `NUM` nodes are leaves.
 
 752 (15%) `NUM` nodes have one child.
 

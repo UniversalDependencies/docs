@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  هم (<tt><a href="fa_perdt-pos-ADV.html"
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.010499 (the average of all parts of speech is 1.486663).
+The form / lemma ratio of `ADV` is 1.010499 (the average of all parts of speech is 1.486683).
 
 The 1st highest number of forms (2) was observed with the lemma “اخیراً”: اخیرا, اخیراً.
 

@@ -30,7 +30,7 @@ The following 9 pairs of parts of speech are connected with `det:poss`: <tt><a h
 5	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	che	che	SCONJ	CS	_	9	mark	_	_
 7	oggi	oggi	ADV	B	_	9	advmod	_	_
-8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+8	si	si	PRON	PC	Person=3|PronType=Prs	9	expl	_	Clitic=Yes
 9	tornava	tornare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
 10	a	a	ADP	E	_	11	case	_	_
 11	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_

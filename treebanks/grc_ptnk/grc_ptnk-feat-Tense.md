@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Past`, `Pqp`, `Pres`.
 
-5382 tokens (14%) have a non-empty value of `Tense`.
-2113 types (40%) occur at least once with a non-empty value of `Tense`.
+5384 tokens (14%) have a non-empty value of `Tense`.
+2115 types (40%) occur at least once with a non-empty value of `Tense`.
 681 lemmas (31%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt> (4850; 12% instances), <tt><a href="grc_ptnk-pos-AUX.html">AUX</a></tt> (532; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt> (4851; 12% instances), <tt><a href="grc_ptnk-pos-AUX.html">AUX</a></tt> (533; 1% instances).
 
 ### `VERB`
 
-4850 <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt> tokens (91% of all `VERB` tokens) have a non-empty value of `Tense`.
+4851 <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt> tokens (91% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4532; 93%), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4531; 93%), <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4092; 84%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3777; 78%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3716; 77%), <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3634; 75%), <tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (3588; 74%), <tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt> (3187; 66%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4533; 93%), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4532; 93%), <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4413; 91%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3778; 78%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3717; 77%), <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3635; 75%), <tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (3589; 74%), <tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt> (3188; 66%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (448; 9% of non-empty `Tense`): <em>δώσω, ποιήσω, ποιήσεις, λήμψῃ, πληθυνῶ, γνώσομαι, δυνησόμεθα, κληθήσεται, κληρονομήσει, ἐνευλογηθήσονται</em>
-* `Past` (3611; 74% of non-empty `Tense`): <em>εἶπεν, ἐγένετο, ἐκάλεσεν, ἐγέννησεν, ἔτεκεν, ἐποίησεν, ἔδωκεν, εἶδεν, ἔλαβεν, εἶπαν</em>
+* `Past` (3612; 74% of non-empty `Tense`): <em>εἶπεν, ἐγένετο, ἐκάλεσεν, ἐγέννησεν, ἔτεκεν, ἐποίησεν, ἔδωκεν, εἶδεν, ἔλαβεν, εἶπαν</em>
 * `Pqp` (17; 0% of non-empty `Tense`): <em>ᾔδει, παρειστήκει, ᾔδειν, εἱστήκει, εἱστήκεισαν, ἀπῆκτο, ἐπεστήρικτο, ᾔδειμεν, ᾔδεις, ᾔδεισαν</em>
 * `Pres` (774; 16% of non-empty `Tense`): <em>λέγων, λέγοντες, λέγουσα, ὑπάρχοντα, ἔχει, δέδωκα, ζῇ, πληθύνεσθε, φοβοῦ, αὐξάνεσθε</em>
-* `EMPTY` (475): <em>γεννῆσαι, ἀναστὰς, ἐλθεῖν, ἀποκριθεὶς, ἰδὼν, συλλαβοῦσα, ἀναβλέψας, ἰδεῖν, λαβὼν, ἀποθανεῖν</em>
+* `EMPTY` (474): <em>γεννῆσαι, ἀναστὰς, ἐλθεῖν, ἀποκριθεὶς, ἰδὼν, συλλαβοῦσα, ἀναβλέψας, ἰδεῖν, λαβὼν, ἀποθανεῖν</em>
 
 <table>
   <tr><th>Paradigm <i>γίνομαι</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -47,16 +47,12 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
   <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>ἐγένου</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>ἐγένετο</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>ἐγενήθη</em></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>ἐγένετο</em></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>ἐγενήθη</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>γεγόνασιν</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>ἐγένοντο, ἐγένοντό</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>ἐγενήθησαν</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>γένοιτο</em></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>γένοιτο</em></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>γένηται</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>γένηται, γένηταί</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>γενηθῇ</em></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>γένηταί</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>γένησθε</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>γενέσθαι</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>γενηθῆναί</em></td></tr>
@@ -64,16 +60,16 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-532 <tt><a href="grc_ptnk-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `Tense`.
+533 <tt><a href="grc_ptnk-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (474; 89%), <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (458; 86%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (433; 81%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (433; 81%), <tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt> (408; 77%), <tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (377; 71%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (475; 89%), <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (458; 86%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (434; 81%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (433; 81%), <tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt> (409; 77%), <tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (377; 71%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (106; 20% of non-empty `Tense`): <em>ἔσται, ἔσονται, ἔσομαι, ἔσῃ, ἐσόμεθα, ἔσεσθε, ἐσομένου, ἔσονταί</em>
 * `Past` (148; 28% of non-empty `Tense`): <em>ἦν, ἦσαν, ἦς, ἦσθα</em>
-* `Pres` (278; 52% of non-empty `Tense`): <em>ἐστιν, ἔστιν, εἰμι, εἶ, ἐστὶν, εἰσιν, εἶναι, ἐσμεν, ἐστε, ἔστω</em>
-* `EMPTY` (3): <em>ὦσιν, ὦσίν</em>
+* `Pres` (279; 52% of non-empty `Tense`): <em>ἐστιν, ἔστιν, εἰμι, εἶ, ἐστὶν, εἰσιν, εἶναι, ἐσμεν, ἐστε, ἔστω</em>
+* `EMPTY` (2): <em>ὦσίν, ὦσιν</em>
 
 <table>
   <tr><th>Paradigm <i>εἰμί</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -86,6 +82,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td><em>ἔσται</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>ἦσαν</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td><em>ἔσονται</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ὦσιν</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ὂν</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ὄντας</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ὄντι</em></td><td></td><td></td></tr>
@@ -127,5 +124,7 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="grc_ptnk-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (2; 67%),
 <tt>VERB --[<tt><a href="grc_ptnk-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="grc_ptnk-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (2; 67%),
-<tt>AUX --[<tt><a href="grc_ptnk-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%).
+<tt>AUX --[<tt><a href="grc_ptnk-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<tt><a href="grc_ptnk-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<tt><a href="grc_ptnk-dep-obl-tmod.html">obl:tmod</a></tt>]--> VERB</tt> (1; 100%).
 

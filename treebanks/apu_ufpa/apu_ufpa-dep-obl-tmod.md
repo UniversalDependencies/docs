@@ -9,41 +9,27 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="apu_ufpa-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="apu_ufpa-dep-obl-lmod.html">obl:lmod</a></tt>.
 
-9 nodes (1%) are attached to their parents as `obl:tmod`.
+4 nodes (0%) are attached to their parents as `obl:tmod`.
 
-7 instances of `obl:tmod` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.77777777777778.
+4 instances of `obl:tmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25.
 
-The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (8; 89% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 11% instances).
+The following 1 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (4; 100% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 1 obl:tmod	color:blue
-1	Kyynyrysaaky	kyynyry	NOUN	XPOS=xingané-TEMP	_	2	obl:tmod	_	gloss[pt]=xingané-TEMP
-2	aputurytawana	aputury	VERB	XPOS=3PL.M-?juntar-VBLZ-REFL-3PL.M	_	0	root	_	gloss[pt]=3PL.M-?juntar-VBLZ-REFL-3PL.M
-3	ithu	ithu	DET	XPOS=muito	_	4	det	_	gloss[pt]=muito
-4	kãkity	kãkity	NOUN	N	Gender=Masc|Number=Sing	2	nsubj	_	gloss[pt]=gente|SpaceAfter=No
-5	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 obl:tmod	color:blue
-1	Ywasawaky	ywasawaky	ADV	Adv	AdvType=Tim	4	obl:tmod	_	_
-2	ywa	ywa	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	4	nsubj	_	_
-3	Kirama	Kirama	PROPN	N	Case=Nom|Gender=Masc|Number=Sing|Possessed=No	2	appos	_	_
-4	kamary	kama	VERB	V	Number[obj]=Sing|Person[obj]=3	0	root	_	_
-5	xamyna	xamyna	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Possessed=No	4	obj	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 obl:tmod	color:blue
+1	Hãty	hãty	NUM	Num	_	2	nummod	_	gloss[pt]=um
+2	ũty	ũty	NOUN	XPOS=dia	Case=Nom|Gender=Masc|Number=Sing|Possessed=No	3	obl:tmod	_	gloss[pt]=dia
+3	ukatsaãta	ukatsaã	VERB	XPOS=3SG.M-pescar-VBLZ	_	0	root	_	gloss[pt]=3SG.M-pescar-VBLZ
+4	imãĩkary	mãĩka	VERB	XPOS=3SG.M-pegar	Gender[obj]=Masc|Gender[subj]=Masc|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past,Pres	3	conj	_	gloss[pt]=3SG.M-pegar-3SG.M.O
+5	kaiãũpuku	kaiãu	VERB	XPOS=muito-DISTR	_	6	advcl	_	gloss[pt]=muito-DISTR
+6	ximaky	ximaky	NOUN	N	Case=Nom|Gender=Masc|Number=Sing|Possessed=No	4	obj	_	gloss[pt]=peixe|SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

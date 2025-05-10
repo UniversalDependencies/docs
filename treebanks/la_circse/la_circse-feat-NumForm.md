@@ -36,7 +36,7 @@ The most frequent other feature values with which `DET` and `NumForm` co-occurre
 
 ### `NUM`
 
-9 <tt><a href="la_circse-pos-NUM.html">NUM</a></tt> tokens (19% of all `NUM` tokens) have a non-empty value of `NumForm`.
+9 <tt><a href="la_circse-pos-NUM.html">NUM</a></tt> tokens (13% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
 The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="la_circse-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (9; 100%), <tt><a href="la_circse-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 56%), <tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5; 56%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (5; 56%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 56%).
 

@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 12 aux:pass	color:blue
-1	Det	det	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+1	Det	den	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 2	er	være	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	alltid	alltid	ADV	adv	_	5	advmod	_	_
 4	så	så	ADV	adv	_	5	advmod	_	_

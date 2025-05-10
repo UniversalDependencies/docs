@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Moksha-JR: Relations: `obl:cmp`
 
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-obl.html">obl</a></tt>.
-There are also 6 other language-specific subtypes of `obl`: <tt><a href="mdf_jr-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="mdf_jr-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="mdf_jr-dep-obl-freq.html">obl:freq</a></tt>, <tt><a href="mdf_jr-dep-obl-inst.html">obl:inst</a></tt>, <tt><a href="mdf_jr-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="mdf_jr-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are also 2 other language-specific subtypes of `obl`: <tt><a href="mdf_jr-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="mdf_jr-dep-obl-tmod.html">obl:tmod</a></tt>.
 
 17 nodes (0%) are attached to their parents as `obl:cmp`.
 
@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `obl:cmp`: <tt><a hr
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 obl:cmp	color:blue
-1	Ёмластокиге	ёмла	ADJ	A	Case=Ela|Clitic=AddKige|Definite=Ind|Number=Plur,Sing	5	obl:tmod	_	GTtags=SP,Ela,Indef,Clt/Kige
+1	Ёмластокиге	ёмла	ADJ	A	Case=Ela|Clitic=AddKige|Definite=Ind|Number=Plur,Sing	5	obl	_	GTtags=SP,Ela,Indef,Clt/Kige
 2	Миша	Миша	PROPN	N	Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	5	nsubj:cop	_	GTtags=Prop,Sem/Mal,Sg,Nom,Indef
 3	ялгань	ялга	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	5	obl:cmp	_	GTtags=SP,Gen,Indef
 4	коряс	коряс	ADP	Adp	_	3	case	_	_
@@ -42,8 +42,8 @@ The following 8 pairs of parts of speech are connected with `obl:cmp`: <tt><a hr
 1	Синь	сон	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Pl3,Nom
 2	эряйхть	эрямс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,ScPl3
 3	корязонк	коряс	ADP	Adp	Case=Ill|Number[psor]=Plur|Person[psor]=1	5	obl:cmp	_	GTtags=Ill,PxPl1
-4	сяда	сяда	ADV	Adv	AdvType=Deg	5	advmod:deg	_	GTtags=Deg
-5	цебярьста	цебярьста	ADV	Adv	AdvType=Man	2	advmod:mmod	_	GTtags=Manner|SpaceAfter=No
+4	сяда	сяда	ADV	Adv	AdvType=Deg	5	advmod	_	GTtags=Deg
+5	цебярьста	цебярьста	ADV	Adv	AdvType=Man	2	advmod	_	GTtags=Manner|SpaceAfter=No
 6	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
@@ -57,8 +57,8 @@ The following 8 pairs of parts of speech are connected with `obl:cmp`: <tt><a hr
 # visual-style 3 2 obl:cmp	color:blue
 1	Фкя	фкя	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	2	nummod	_	GTtags=Card,Sg,Nom,Indef
 2	урокта	урок	NOUN	N	Case=Abl|Definite=Ind|Number=Plur,Sing	3	obl:cmp	_	GTtags=SP,Abl,Indef
-3	меле	меле	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	_
-4	учительскяи	учительскяй	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	5	obl:lmod	_	GTtags=SP,Lat,Indef
+3	меле	меле	ADV	Adv	AdvType=Tim	5	advmod	_	_
+4	учительскяи	учительскяй	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	5	obl	_	GTtags=SP,Lat,Indef
 5	сувасть	сувамс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,ScPl3
 6	кафцьке	кафцьке	DET	Det	NumType=Sets|PronType=Tot	7	det	_	GTtags=Coll,Sg,Nom,Indef
 7	стирнятне	стирь	NOUN	N	Case=Nom|Definite=Def|Degree=Dim|Number=Plur	5	nsubj	_	GTtags=Pl,Nom,Def|SpaceAfter=No

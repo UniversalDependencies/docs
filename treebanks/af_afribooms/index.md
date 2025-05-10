@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Peter Dirix, Liesbeth Augustinus, Daniel van Niekerk.
 
 Repository: [UD_Afrikaans-AfriBooms](https://github.com/UniversalDependencies/UD_Afrikaans-AfriBooms)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaf_afribooms215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaf_afribooms216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: legal, nonfiction
 Questions, comments?
 General annotation questions (either Afrikaans-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Afrikaans-AfriBooms/issues).
-If you want to collaborate, please contact [peter&nbsp;•&nbsp;dirix&nbsp;(æt)&nbsp;kuleuven&nbsp;•&nbsp;be, liesbeth&nbsp;•&nbsp;augustinus&nbsp;(æt)&nbsp;kuleuven&nbsp;•&nbsp;be].
+If you want to collaborate, please contact [peter&nbsp;•&nbsp;dirix&nbsp;(æt)&nbsp;kuleuven&nbsp;•&nbsp;be, peedirix&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, liesbeth&nbsp;•&nbsp;augustinus&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
 Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
@@ -66,7 +66,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 
 ## Features
 
-[AdjType](af_afribooms-feat-AdjType.html) – [AdpType](af_afribooms-feat-AdpType.html) – [Case](af_afribooms-feat-Case.html) – [Definite](af_afribooms-feat-Definite.html) – [Degree](af_afribooms-feat-Degree.html) – [Number](af_afribooms-feat-Number.html) – [PartType](af_afribooms-feat-PartType.html) – [Person](af_afribooms-feat-Person.html) – [Poss](af_afribooms-feat-Poss.html) – [PronType](af_afribooms-feat-PronType.html) – [Reflex](af_afribooms-feat-Reflex.html) – [Subcat](af_afribooms-feat-Subcat.html) – [Tense](af_afribooms-feat-Tense.html) – [VerbForm](af_afribooms-feat-VerbForm.html) – [VerbType](af_afribooms-feat-VerbType.html)
+[AdjType](af_afribooms-feat-AdjType.html) – [AdpType](af_afribooms-feat-AdpType.html) – [Case](af_afribooms-feat-Case.html) – [Definite](af_afribooms-feat-Definite.html) – [Degree](af_afribooms-feat-Degree.html) – [ExtPos](af_afribooms-feat-ExtPos.html) – [Number](af_afribooms-feat-Number.html) – [PartType](af_afribooms-feat-PartType.html) – [Person](af_afribooms-feat-Person.html) – [Poss](af_afribooms-feat-Poss.html) – [PronType](af_afribooms-feat-PronType.html) – [Reflex](af_afribooms-feat-Reflex.html) – [Subcat](af_afribooms-feat-Subcat.html) – [Tense](af_afribooms-feat-Tense.html) – [VerbForm](af_afribooms-feat-VerbForm.html) – [VerbType](af_afribooms-feat-VerbType.html)
 
 ## Relations
 
@@ -76,7 +76,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 
 
 <ul>
-<li>This corpus contains 1934 sentences and 49260 tokens.</li>
+<li>This corpus contains 1934 sentences and 49258 tokens.</li>
 </ul>
 
 <ul>
@@ -84,7 +84,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 </ul>
 
 <ul>
-<li>This corpus does not contain words with spaces.</li>
+<li>This corpus contains 2 types of words with spaces. Examples: 3 000, 3 500</li>
 </ul>
 
 <ul>
@@ -463,6 +463,23 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: bo</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: en</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>PartType</a>
     <ul>
       <li>Gen
@@ -582,7 +599,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN (1)</li>
-      <li>VERB-Fin,Inf--NOUN (1947)</li>
+      <li>VERB-Fin,Inf--NOUN (1945)</li>
       <li>VERB-Fin,Inf--NOUN-ADP(om) (1)</li>
       <li>VERB-Fin,Inf--NOUN-ADP(se) (1)</li>
       <li>VERB-Fin,Inf--NOUN-ADP(van) (1)</li>

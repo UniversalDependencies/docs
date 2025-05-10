@@ -46,13 +46,13 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 1	Αυτό	αυτός	DET	DET	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	3	det	_	_
 2	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
 3	Κοινοβούλιο	κοινοβούλιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
-4	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+4	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	να	να	AUX	AUX	_	6	aux	_	_
-6	εξακολουθήσει	εξακολουθώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+6	εξακολουθήσει	εξακολουθώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	csubj	_	_
 7	να	να	AUX	AUX	_	9	aux	_	_
 8	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	cop	_	_
 9	πολύγλωσσο	πολύγλωσσος	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	6	xcomp	_	SpaceAfter=No
-10	.	.	PUNCT	PUNCT	_	6	punct	_	_
+10	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

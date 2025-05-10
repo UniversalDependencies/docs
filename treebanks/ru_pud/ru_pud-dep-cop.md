@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-87 nodes (0%) are attached to their parents as `cop`.
+88 nodes (0%) are attached to their parents as `cop`.
 
-68 instances of `cop` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.05747126436782.
+69 instances of `cop` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.05681818181818.
 
-The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (40; 46% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (32; 37% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (5; 6% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (4; 5% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (3; 3% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (40; 45% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (32; 36% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (5; 6% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (4; 5% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

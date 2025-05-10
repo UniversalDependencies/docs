@@ -8,75 +8,76 @@ udver: '2'
 
 This relation is universal.
 
-5570 nodes (8%) are attached to their parents as `advcl`.
+8654 nodes (8%) are attached to their parents as `advcl`.
 
-4961 instances of `advcl` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.84865350089767.
+7806 instances of `advcl` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.70013866420153.
 
-The following 22 pairs of parts of speech are connected with `advcl`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (4277; 77% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (835; 15% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (149; 3% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (118; 2% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (70; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (48; 1% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (24; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (23; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 advcl	color:blue
-1	만약에	만약+에	ADV	NNG+JKB	_	3	obl	_	_
-2	돈이	돈+이	NOUN	NNG+JKS	_	3	nsubj	_	_
-3	없다손	없+다+손	VERB	VA+EF+JX	_	7	advcl	_	_
-4	치더라도	치+더라도	VERB	VV+EC	_	3	advcl	_	_
-5	은행에게	은행+에게	NOUN	NNG+JKB	_	7	obl	_	_
-6	돈을	돈+을	NOUN	NNG+JKO	_	7	obj	_	_
-7	빌리곤까지	빌리+고+ㄴ+까지	ADV	VV+EC+JX+JX	_	11	advcl	_	_
-8	해서도	하	AUX	VV+EC+JX	_	7	aux	_	_
-9	그렇게	그렇+게	ADV	VA+EC	_	10	advmod	_	_
-10	할	하+ㄹ	VERB	VV+ETM	_	11	acl	_	_
-11	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	SF	_	11	punct	_	_
-
-~~~
+The following 28 pairs of parts of speech are connected with `advcl`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (6615; 76% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1329; 15% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (204; 2% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (162; 2% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (112; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (68; 1% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (40; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (33; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (33; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (22; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 advcl	color:blue
-1	우선	우선	ADV	MAG	_	5	advmod	_	_
-2	꽃이	꽃+이	NOUN	NNG+JKS	_	5	nsubj	_	_
-3	많아서	많+아서	VERB	VA+EC	_	5	advcl	_	_
-4	그림처럼	그림+처럼	ADV	NNG+JKB	_	5	advmod	_	_
-5	예뻤다	예쁘+었+다	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	SF	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 7 advcl	color:blue
-1	또한	또한	ADV	MAJ	_	16	cc	_	_
-2	한국에서	한국+에서	ADV	NNP+JKB	_	5	obl	_	_
-3	한국	한국	NOUN	NNP	_	4	nmod	_	_
-4	친구와	친구+와	ADV	NNG+JKB	_	5	obl	_	_
-5	사귀는	사귀+는	VERB	VV+ETM	_	6	acl	_	_
-6	기회가	기회+가	NOUN	NNG+JKS	_	7	nsubj	_	_
-7	많아서	많+아서	VERB	VA+EC	_	10	advcl	_	_
-8	대화	대화	NOUN	NNG	_	10	obj	_	_
-9	한국어로	한국어+로	ADV	NNG+JKB	_	10	obl	_	_
-10	하기	하+기	NOUN	VV+ETN	_	16	obl	_	_
-11	때문에	때문+에	ADP	NNB+JKB	_	10	case	_	_
-12	말하기	말+하+기	NOUN	NNG+XSV+ETN	_	13	nmod	_	_
-13	실력도	실력+도	NOUN	NNG+JX	_	14	nsubj	_	_
-14	높아질	높아지+ㄹ	VERB	VV+ETM	_	15	acl	_	_
-15	수	수	NOUN	NNB	_	16	nsubj	_	_
-16	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
-17	.	.	PUNCT	SF	_	16	punct	_	_
+# visual-style 7 3 advcl	color:blue
+1	제주도에	제주도+에	ADV	NNP+JKB	_	3	obl	_	_
+2	등산을	등산+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	하고	하+고	VERB	VV+EC	_	7	advcl	_	_
+4	전통	전통	NOUN	NNG	_	5	nmod	_	_
+5	음식을	음식+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	먹을	먹+을	VERB	VV+ETM	_	7	acl	_	_
+7	겁니다	것+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 advcl	color:blue
+1	그는	그+는	PRON	NP+JX	_	4	dislocated	_	_
+2	쓰기	쓰+기	NOUN	VV+ETN	_	4	nsubj	_	_
+3	좀	좀	ADV	MAG	_	4	advmod	_	_
+4	어려워	어렵+어	ADJ	VA+EC	_	12	advcl	_	_
+5	보여서	보+이+어서	VERB	VV+XSV+EC	_	4	advcl	_	_
+6	내가	내+가	PRON	NP+JKS	_	12	nsubj	_	_
+7	생각없이	생각+없이	ADV	NNG+MAG	_	12	advcl	_	_
+8	뭐	뭐	ADV	NP	_	9	obj	_	_
+9	도와줄래요	돕+아+주+ㄹ래요	VERB	VV+EC+VX+EF	_	12	ccomp	_	SpaceAfter=No
+10	?	?	PUNCT	SF	_	9	punct	_	SpaceAfter=No
+11	라고	라고	ADP	JKQ	_	9	case	_	_
+12	물어봤다	물어보+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 advcl	color:blue
+1	요약한다면	요약+하+ㄴ다면	VERB	NNG+XSV+EC	_	14	advcl	_	_
+2	내가	내+가	PRON	NP+JKS	_	14	nsubj	_	_
+3	극악한	극악+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+4	죄를	죄+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	진	지+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+6	경우에만과	경우+에+만+과	ADV	NNG+JKB+JX+JC	_	12	obl	_	_
+7	나라가	나라+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+8	엄격해	엄격+하+아	VERB	NNG+XSA+EC	_	9	advcl	_	_
+9	보이기	보+이+기	NOUN	VV+XSV+ETN	_	10	obj	_	_
+10	위해	위하+아	VERB	VV+EC	_	12	advcl	_	_
+11	사형제도의	사형+제도+의	NOUN	NNG+NNG+JKG	_	12	obj	_	_
+12	유지한다는	유지+하+ㄴ다는	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	것에	것+에	ADV	NNB+JKB	_	14	obl	_	_
+14	창성하다	창성+하+다	VERB	NF+XSV+EF	Typo=Yes	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
 
 ~~~
 

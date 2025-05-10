@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latgalian-Cairo: POS Tags: `PUNCT`
 
 There are 5 `PUNCT` lemmas (5%), 5 `PUNCT` types (4%) and 33 `PUNCT` tokens (19%).
-Out of 12 observed tags, the rank of `PUNCT` is: 8 in number of lemmas, 8 in number of types and 2 in number of tokens.
+Out of 11 observed tags, the rank of `PUNCT` is: 7 in number of lemmas, 7 in number of types and 2 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>., ,, ?, -, !</em>
 

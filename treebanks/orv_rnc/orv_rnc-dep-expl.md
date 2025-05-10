@@ -57,7 +57,7 @@ The following 7 pairs of parts of speech are connected with `expl`: <tt><a href=
 13	кнѧзю	князь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	19	iobj	_	norm="кнѧзю"|Decl=2|End=ю
 14	Володимеру	Володимеръ	PROPN	_	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	13	appos	_	norm="Володимеру"|Decl=2|End=у
 15	и	и	CCONJ	_	_	17	cc	_	norm="и"
-16	его	и	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	det	_	norm="его"|Decl=X|End=оге|check=@
+16	его	и	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	det	_	norm="его"|Decl=X|End=оге|check=@
 17	дѣтем	дѣтя	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	13	conj	_	norm="дѣтем"|Decl=nt|End=ме|check=@
 18	не	не	PART	_	Polarity=Neg	19	advmod	_	norm="не"
 19	въступати	вступати	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	conj	_	norm="въступати"|Decl=X|End=ит|SpaceAfter=No

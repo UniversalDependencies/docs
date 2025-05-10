@@ -11,20 +11,20 @@ It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
 3590 tokens (15%) have a non-empty value of `VerbForm`.
 705 types (17%) occur at least once with a non-empty value of `VerbForm`.
-384 lemmas (11%) occur at least once with a non-empty value of `VerbForm`.
+382 lemmas (11%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 2 part-of-speech tags: <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1890; 8% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1700; 7% instances).
 
 ### `VERB`
 
 1890 <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_fqb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1643; 87%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1396; 74%), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1122; 59%), <tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1057; 56%), <tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1052; 56%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_fqb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1643; 87%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1396; 74%), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1121; 59%), <tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1058; 56%), <tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1053; 56%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (838; 44% of non-empty `VerbForm`): <em>trouve, est, a, signifie, Nommez, puis, eut, fait, dois, ai</em>
+* `Fin` (837; 44% of non-empty `VerbForm`): <em>trouve, est, a, signifie, Nommez, puis, eut, dois, fait, ai</em>
 * `Inf` (260; 14% of non-empty `VerbForm`): <em>faire, obtenir, bénéficier, donner, payer, avoir, déclarer, trouver, déduire, partir</em>
-* `Part` (792; 42% of non-empty `VerbForm`): <em>inventé, né, situé, écrit, mort, connu, joué, eu, fait, remporté</em>
+* `Part` (793; 42% of non-empty `VerbForm`): <em>inventé, né, situé, écrit, mort, connu, joué, eu, fait, remporté</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -37,6 +37,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>avaient</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>eurent</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ont</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_fqb-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>on</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>ayant</em></td></tr>
 </table>
 

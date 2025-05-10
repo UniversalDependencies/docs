@@ -251,7 +251,7 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="lt_alksnis-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3654; 99%),
+<tt>NOUN --[<tt><a href="lt_alksnis-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3650; 99%),
 <tt>NOUN --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2110; 98%),
 <tt>NOUN --[<tt><a href="lt_alksnis-dep-case.html">case</a></tt>]--> ADP</tt> (1761; 98%),
 <tt>NOUN --[<tt><a href="lt_alksnis-dep-acl.html">acl</a></tt>]--> VERB</tt> (1527; 84%),

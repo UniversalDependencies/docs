@@ -50,7 +50,7 @@ The following 1 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 25	de	de	ADP	_	_	27	case	_	_
 26	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	27	det	_	_
 27	plaques	plaque	NOUN	_	Gender=Fem|Number=Plur	22	nmod	_	_
-28	numériques	numérique	ADJ	_	Number=Plur	27	amod	_	_
+28	numériques	numérique	ADJ	_	Number=Plur	27	amod	_	Gender[ctxt]=Fem
 29	mises	mettre	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	27	acl	_	_
 30	à	à	ADP	_	_	32	case	_	_
 31	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_

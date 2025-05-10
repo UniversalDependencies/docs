@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 3	,	,	PUNCT	_	_	1	punct	_	_
 4	признаете	признавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
-6	также	также	ADV	_	Degree=Pos	4	advmod	_	before=<rhyme-zone/>|after=<br/>
+6	также	также	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	pos="ADVPRO"|before=<rhyme-zone/>|after=<br/>
 7	Что	что	SCONJ	_	_	8	mark	_	before=<line_meter="Я4м"/>
 8	надо	надо	VERB	_	_	4	ccomp	_	_
 9	славить	славить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	csubj	_	_

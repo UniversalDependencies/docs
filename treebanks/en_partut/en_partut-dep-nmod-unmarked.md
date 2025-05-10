@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_English-ParTUT: Relations: `nmod:unmarked`
 
 This relation is a language-specific subtype of <tt><a href="en_partut-dep-nmod.html">nmod</a></tt>.
-There are also 1 other language-specific subtypes of `nmod`: <tt><a href="en_partut-dep-nmod-poss.html">nmod:poss</a></tt>.
+There are also 2 other language-specific subtypes of `nmod`: <tt><a href="en_partut-dep-nmod-desc.html">nmod:desc</a></tt>, <tt><a href="en_partut-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-16 nodes (0%) are attached to their parents as `nmod:unmarked`.
+18 nodes (0%) are attached to their parents as `nmod:unmarked`.
 
-16 instances of `nmod:unmarked` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.25.
+16 instances of `nmod:unmarked` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.11111111111111.
 
-The following 5 pairs of parts of speech are connected with `nmod:unmarked`: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (7; 44% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (6; 38% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (1; 6% instances).
+The following 6 pairs of parts of speech are connected with `nmod:unmarked`: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (7; 39% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (6; 33% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (2; 11% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -46,7 +46,7 @@ The following 5 pairs of parts of speech are connected with `nmod:unmarked`: <tt
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 nmod:unmarked	color:blue
-1	Today	today	NOUN	S	Number=Sing	3	nmod:unmarked	_	SpaceAfter=No
+1	Today	today	NOUN	S	Number=Sing	3	nmod:unmarked	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	decision	decision	NOUN	S	Number=Sing	11	nsubj	_	_
 4	not	not	PART	PART	Polarity=Neg	6	advmod	_	_
@@ -67,39 +67,26 @@ The following 5 pairs of parts of speech are connected with `nmod:unmarked`: <tt
 
 
 ~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 20 19 nmod:unmarked	color:blue
-1	Following	follow	VERB	V	VerbForm=Ger	15	advcl	_	_
-2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
-3	creation	creation	NOUN	S	Number=Sing	1	obj	_	_
-4	of	of	ADP	E	_	6	case	_	_
-5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
-6	IMF	IMF	PROPN	SP	_	3	nmod	_	_
-7	in	in	ADP	E	_	8	case	_	_
-8	1944	1944	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
-9	,	,	PUNCT	FF	_	1	punct	_	_
-10	many	many	ADJ	A	Degree=Pos	15	nsubj	_	_
-11	of	of	ADP	E	_	14	case	_	_
-12	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
-13	same	same	ADJ	A	Degree=Pos	14	amod	_	_
-14	decisions	decision	NOUN	S	Number=Plur	10	obl	_	_
-15	became	become	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-16	routine	routine	ADJ	A	Degree=Pos	15	xcomp	_	SpaceAfter=No
-17	,	,	PUNCT	FF	_	21	punct	_	_
-18	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	19	det	_	_
-19	lot	lot	NOUN	S	Number=Sing	20	nmod:unmarked	_	_
-20	less	less	ADV	B	Degree=Cmp	21	advmod	_	_
-21	interesting	interesting	ADJ	A	Degree=Pos	16	conj	_	SpaceAfter=No
-22	,	,	PUNCT	FF	_	25	punct	_	_
-23	and	and	CCONJ	CC	_	25	cc	_	_
-24	much	much	ADV	B	_	25	advmod	_	_
-25	easier	easier	ADJ	A	Degree=Cmp	16	conj	_	_
-26	to	to	PART	PART	_	27	mark	_	_
-27	implement	implement	VERB	V	VerbForm=Inf	25	ccomp	_	SpaceAfter=No
-28	.	.	PUNCT	FS	_	15	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 14 nmod:unmarked	color:blue
+1	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	have	have	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	thus	thus	ADV	B	_	4	advmod	_	_
+4	proposed	propose	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
+5	that	that	SCONJ	CS	_	10	mark	_	_
+6	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
+7	frost	frost	NOUN	S	Number=Sing	8	nmod	_	_
+8	rating	rating	NOUN	S	Number=Sing	10	nsubj:pass	_	_
+9	be	be	AUX	VA	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
+10	lowered	lower	VERB	V	Tense=Past|VerbForm=Part	4	ccomp	_	_
+11	to	to	ADP	E	_	13	case	_	_
+12	-40	-40	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
+13	°	°	NOUN	S	Number=Plur	10	obl	_	_
+14	C	C	PROPN	SP	_	13	nmod:unmarked	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	4	punct	_	_
 
 ~~~
 

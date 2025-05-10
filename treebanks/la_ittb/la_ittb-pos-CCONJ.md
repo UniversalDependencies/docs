@@ -62,12 +62,12 @@ The 2nd highest number of forms (2) was observed with the lemma “siue”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “at”: <em>at</em>.
 
-`CCONJ` occurs with 4 features: <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt> (611; 3% instances), <tt><a href="la_ittb-feat-Polarity.html">Polarity</a></tt> (509; 3% instances), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt> (205; 1% instances), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt> (1; 0% instances)
+`CCONJ` occurs with 5 features: <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt> (611; 3% instances), <tt><a href="la_ittb-feat-Polarity.html">Polarity</a></tt> (509; 3% instances), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt> (205; 1% instances), <tt><a href="la_ittb-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt> (1; 0% instances)
 
-`CCONJ` occurs with 4 feature-value pairs: `Compound=Yes`, `Polarity=Neg`, `PronType=Rel`, `VerbForm=Fin`
+`CCONJ` occurs with 6 feature-value pairs: `Compound=Yes`, `ExtPos=ADV`, `ExtPos=SCONJ`, `Polarity=Neg`, `PronType=Rel`, `VerbForm=Fin`
 
-`CCONJ` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (17988 tokens).
+`CCONJ` occurs with 8 feature combinations.
+The most frequent feature combination is `_` (17987 tokens).
 Examples: <em>et, sed, uel, nec, aut, siue, neque, ac, tum, que</em>
 
 

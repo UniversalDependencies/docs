@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>è</em> (<tt><a href="it_isdt-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 19.300000 (the average of all parts of speech is 1.481621).
+The form / lemma ratio of `AUX` is 19.300000 (the average of all parts of speech is 1.481812).
 
 The 1st highest number of forms (41) was observed with the lemma “essere”: <em>E`, E’, Fui, e', era, erano, eravamo, eravate, ero, essendo, esser, essere, fosse, fossero, fossi, fossimo, fu, furono, sarai, saranno, sarebbe, sarebbero, sarei, saremmo, saremo, sarà, sarò, sei, sia, siamo, siano, siete, sii, son, sono, stata, state, stati, stato, É, è</em>.
 
@@ -75,7 +75,7 @@ Examples: <em>è, ha, può, deve, viene, sta, vuole, e', va, vuol</em>
 
 `AUX` nodes are attached to their parents using 4 different relations: <tt><a href="it_isdt-dep-aux.html">aux</a></tt> (6036; 52% instances), <tt><a href="it_isdt-dep-cop.html">cop</a></tt> (3432; 29% instances), <tt><a href="it_isdt-dep-aux-pass.html">aux:pass</a></tt> (2234; 19% instances), <tt><a href="it_isdt-dep-conj.html">conj</a></tt> (2; 0% instances)
 
-Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (8026; 69% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (1494; 13% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (1306; 11% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (723; 6% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (84; 1% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (37; 0% instances), <tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (28; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="it_isdt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (8026; 69% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (1492; 13% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (1306; 11% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (723; 6% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (84; 1% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (39; 0% instances), <tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (28; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="it_isdt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
 11659 (100%) `AUX` nodes are leaves.
 

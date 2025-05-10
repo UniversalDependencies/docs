@@ -12,9 +12,9 @@ There are also 2 other language-specific subtypes of `expl`: <tt><a href="fr_rha
 425 nodes (1%) are attached to their parents as `expl:subj`.
 
 403 instances of `expl:subj` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.27529411764706.
+Average distance between parent and child is 2.27764705882353.
 
-The following 7 pairs of parts of speech are connected with `expl:subj`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (320; 75% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (37; 9% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (36; 8% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (22; 5% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (3; 1% instances).
+The following 7 pairs of parts of speech are connected with `expl:subj`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (321; 76% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (37; 9% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (36; 8% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (22; 5% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -34,7 +34,7 @@ The following 7 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 9	,	,	PUNCT	_	_	7	punct	_	_
 10	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl:subj	_	_
 11	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-12	être	être	AUX	_	VerbForm=Inf	11	ccomp	_	SpaceAfter=No|Subject=NoRaising
+12	être	être	AUX	_	VerbForm=Inf	11	ccomp	_	Scrap=Yes|SpaceAfter=No|Subject=NoRaising
 13	…	…	PUNCT	_	_	11	punct	_	_
 
 ~~~

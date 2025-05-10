@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Digit`, `Roman`, `Word`.
 
-1675 tokens (2%) have a non-empty value of `NumForm`.
-550 types (3%) occur at least once with a non-empty value of `NumForm`.
+1677 tokens (2%) have a non-empty value of `NumForm`.
+551 types (3%) occur at least once with a non-empty value of `NumForm`.
 420 lemmas (4%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (1397; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (275; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (1399; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (275; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-1397 <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
+1399 <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="et_ewt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1338; 96%), <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1026; 73%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1023; 73%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="et_ewt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1340; 96%), <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1026; 73%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1023; 73%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
 * `Digit` (1065; 76% of non-empty `NumForm`): <em>2, 10, 3, 1, 100, 4, 20, 5, 15, 90</em>
-* `Word` (332; 24% of non-empty `NumForm`): <em>kaks, paar, ühe, üks, kahe, kolm, miljonit, paari, poole, miljardit</em>
+* `Word` (334; 24% of non-empty `NumForm`): <em>kaks, paar, ühe, üks, kahe, kolm, miljonit, paari, poole, miljardit</em>
 
 <table>
   <tr><th>Paradigm <i>700</i></th><th><tt>Digit</tt></th><th><tt>Word</tt></th></tr>
@@ -79,5 +79,6 @@ The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>NUM --[<tt><a href="et_ewt-dep-conj.html">conj</a></tt>]--> NUM</tt> (71; 99%),
 <tt>NUM --[<tt><a href="et_ewt-dep-flat.html">flat</a></tt>]--> NUM</tt> (15; 100%),
 <tt>ADJ --[<tt><a href="et_ewt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (7; 100%),
-<tt>NUM --[<tt><a href="et_ewt-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (6; 100%).
+<tt>NUM --[<tt><a href="et_ewt-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (6; 100%),
+<tt>NUM --[<tt><a href="et_ewt-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (1; 100%).
 

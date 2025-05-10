@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 3 other language-specific subtypes of `expl`: <tt><a href="fr_parisstories-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="fr_parisstories-dep-expl-pv.html">expl:pv</a></tt>, <tt><a href="fr_parisstories-dep-expl-subj.html">expl:subj</a></tt>.
 
-295 nodes (1%) are attached to their parents as `expl:comp`.
+294 nodes (1%) are attached to their parents as `expl:comp`.
 
-295 instances of `expl:comp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23050847457627.
+294 instances of `expl:comp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2312925170068.
 
-The following 2 pairs of parts of speech are connected with `expl:comp`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (294; 100% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `expl:comp`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (293; 100% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,8 +23,8 @@ The following 2 pairs of parts of speech are connected with `expl:comp`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 expl:comp	color:blue
-1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-2	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	expl:comp	_	_
+1	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	me	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	4	expl:comp	_	_
 3	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 4	aperçue	apercevoir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	que	que	SCONJ	_	_	8	mark	_	_
@@ -32,7 +32,7 @@ The following 2 pairs of parts of speech are connected with `expl:comp`: <tt><a 
 7	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
 8	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	ccomp	_	_
 9	qui	qui	PRON	_	PronType=Rel	11	nsubj	_	_
-10	les	eux	PRON	_	Number=Plur|Person=3|PronType=Prs	11	obj	_	_
+10	les	eux	PRON	_	Emph=No|Number=Plur|Person=3|PronType=Prs	11	obj	_	_
 11	empêchait	empêcher	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	advcl:cleft	_	_
 12	de	de	ADP	_	_	13	mark	_	_
 13	gonfler	gonfler	VERB	_	VerbForm=Inf	11	xcomp	_	SpaceAfter=No|Subject=ObjRaising
@@ -47,7 +47,7 @@ The following 2 pairs of parts of speech are connected with `expl:comp`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 expl:comp	color:blue
-1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	_
+1	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	_
 2	n'	ne	ADV	_	_	4	advmod	_	SpaceAfter=No
 3	y	y	PRON	_	Person=3|PronType=Prs	4	expl:comp	_	_
 4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -55,10 +55,10 @@ The following 2 pairs of parts of speech are connected with `expl:comp`: <tt><a 
 6	rien	rien	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	4	obj	_	_
 7	autour	autour	ADV	_	_	6	advmod	_	_
 8	que	que	SCONJ	_	_	13	mark	_	_
-9	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	reparandum	_	SpaceAfter=No
+9	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	11	reparandum	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	_
-11	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
-12	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	13	expl:comp	_	_
+11	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+12	me	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	13	expl:comp	_	_
 13	voyais	voir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
 14	déjà	déjà	ADV	_	_	13	advmod	_	_
 15	rentrer	rentrer	VERB	_	VerbForm=Inf	13	xcomp	_	Subject=SubjRaising

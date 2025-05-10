@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-120 nodes (1%) are attached to their parents as `amod`.
+130 nodes (1%) are attached to their parents as `amod`.
 
-107 instances of `amod` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.04166666666667.
+117 instances of `amod` (90%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03846153846154.
 
-The following 3 pairs of parts of speech are connected with `amod`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (117; 98% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `amod`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (127; 98% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,10 +22,10 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 amod	color:blue
-1	Aintá	aintá	PRON	PRON	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:5
+1	Aintá	aintá	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:5
 2	upisika	pisika	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=6:13
 3	paá	paá	PART	RPRT	Evident=Nfh|PartType=Mod	2	advmod	_	TokenRange=14:17
-4	yandé	yandé	PRON	PRON	Number=Plur|Person=1|PronType=Prs	2	obj	_	TokenRange=18:23
+4	yandé	yandé	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	2	obj	_	TokenRange=18:23
 5	yaú	ú	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	2	advcl	_	TokenRange=24:27
 6	ramé	ramé	SCONJ	SCONJ	_	5	mark	_	TokenRange=28:32
 7	timbiú	timbiú	NOUN	N	Number=Sing|Rel=Abs	5	obj	_	TokenRange=33:39

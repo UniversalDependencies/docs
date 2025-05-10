@@ -29,12 +29,12 @@ The 2nd highest number of forms (1) was observed with the lemma “autem”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “enim”: <em>enim</em>.
 
-`PART` occurs with 2 features: <tt><a href="la_llct-feat-Polarity.html">Polarity</a></tt> (659; 75% instances), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt> (18; 2% instances)
+`PART` occurs with 3 features: <tt><a href="la_llct-feat-Polarity.html">Polarity</a></tt> (659; 75% instances), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt> (18; 2% instances), <tt><a href="la_llct-feat-ExtPos.html">ExtPos</a></tt> (13; 1% instances)
 
-`PART` occurs with 2 feature-value pairs: `Polarity=Neg`, `PronType=Dem`
+`PART` occurs with 3 feature-value pairs: `ExtPos=CCONJ`, `Polarity=Neg`, `PronType=Dem`
 
-`PART` occurs with 3 feature combinations.
-The most frequent feature combination is `Polarity=Neg` (659 tokens).
+`PART` occurs with 5 feature combinations.
+The most frequent feature combination is `Polarity=Neg` (652 tokens).
 Examples: <em>non, ne</em>
 
 

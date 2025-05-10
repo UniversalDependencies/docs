@@ -48,7 +48,7 @@ The following 2 pairs of parts of speech are connected with `advmod`: <tt><a hre
 4	jam	jis	PRON	pp3msdn	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	3:obl:leidza	LvtbNodeId=a-ltg-Cairo-p18s1w4
 5	leidza	leidza	ADV	r0y	_	4	case	4:case	LvtbNodeId=a-ltg-Cairo-p18s1w5|SpaceAfter=No
 6	,	,	PUNCT	zc	_	10	punct	10:punct	LvtbNodeId=a-ltg-Cairo-p18s1w6
-7	partū	partū	ADV	r0n	_	10	mark	10:mark	LvtbNodeId=a-ltg-Cairo-p18s1w7
+7	partū	partū	ADV	r0n	ExtPos=SCONJ	10	mark	10:mark	LvtbNodeId=a-ltg-Cairo-p18s1w7
 8	ka	ka	SCONJ	cs	_	7	fixed	7:fixed	LvtbNodeId=a-ltg-Cairo-p18s1w8
 9	jis	jis	PRON	pp3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	LvtbNodeId=a-ltg-Cairo-p18s1w9
 10	skrēja	skrīt	VERB	vmnist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	2:advcl	LvtbNodeId=a-ltg-Cairo-p18s1w10

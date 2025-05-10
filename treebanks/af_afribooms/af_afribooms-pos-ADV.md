@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>nie</em> (<tt><a href="af_afribooms-p
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.041436 (the average of all parts of speech is 1.120642).
+The form / lemma ratio of `ADV` is 1.041436 (the average of all parts of speech is 1.120600).
 
 The 1st highest number of forms (3) was observed with the lemma “baie”: <em>meer, mees, meeste</em>.
 

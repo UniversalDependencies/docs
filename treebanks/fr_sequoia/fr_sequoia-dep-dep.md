@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `dep`: <tt><a href="fr_sequoia-dep-dep-comp.html">dep:comp</a></tt>.
 
-72 nodes (0%) are attached to their parents as `dep`.
+74 nodes (0%) are attached to their parents as `dep`.
 
-56 instances of `dep` (78%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.18055555555556.
+58 instances of `dep` (78%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.05405405405405.
 
-The following 14 pairs of parts of speech are connected with `dep`: <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (26; 36% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14; 19% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (5; 7% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 7% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 7% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (4; 6% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 15 pairs of parts of speech are connected with `dep`: <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (26; 35% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14; 19% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (5; 7% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 7% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 7% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (4; 5% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -35,7 +35,7 @@ The following 14 pairs of parts of speech are connected with `dep`: <tt><a href=
 10	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:tense	_	_
 11	été	être	AUX	_	Tense=Past|VerbForm=Part	13	cop	_	_
 12	plus	plus	ADV	_	_	13	advmod	_	_
-13	efficace	efficace	ADJ	_	Number=Sing	0	root	_	_
+13	efficace	efficace	ADJ	_	Number=Sing	0	root	_	Gender[ctxt]=Masc
 14	que	que	SCONJ	_	_	16	case	_	_
 15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	risédronate	risédronate	NOUN	_	Gender=Masc|Number=Sing	13	dep	_	SpaceAfter=No
@@ -57,7 +57,7 @@ The following 14 pairs of parts of speech are connected with `dep`: <tt><a href=
 5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	projet	projet	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 7	reste	rester	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	valable	valable	ADJ	_	Number=Sing	7	xcomp	_	_
+8	valable	valable	ADJ	_	Number=Sing	7	xcomp	_	Gender[ctxt]=Fem
 9	tant	tant	ADV	_	_	12	advmod	_	_
 10	sur	sur	ADP	_	_	12	case	_	_
 11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
@@ -90,7 +90,7 @@ The following 14 pairs of parts of speech are connected with `dep`: <tt><a href=
 6	telle	tel	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	_
 7	que	que	SCONJ	_	_	10	mark	_	_
 8	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
-9	la	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+9	la	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
 10	concevons	concevoir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	dep	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	6	punct	_	_
 12	doit	devoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_

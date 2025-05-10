@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Dmitri Sitchinava.
 
 Repository: [UD_Old_East_Slavic-RNC](https://github.com/UniversalDependencies/UD_Old_East_Slavic-RNC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_rnc215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_rnc216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -97,7 +97,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 * Отписка приказчика с. Павловского (Звенигород. у.) А. Дементьева Б. И. Морозову о переводе в конюхи трубачей С. Лукьянова и Я. Маршалка // Акты хозяйства Б. И. Морозова (1652; morozov/251\_Morozov)
 * Отписка приказчика с. Павловского (Звенигород. у.) А. Дементьева Б. И. Морозову о приезде мастера рудника Михаила и о его работе // Акты хозяйства Б. И. Морозова (1652; morozov/258\_Morozov)
 * Отписки 1) приказчика с. Павловского (Звенигород. у.) А. Дементьева Б. И. Морозову и 2) Петра Дмитриева московскому приказчику С. Н. Киселеву — о доставке в Павловское живых лещей и состоянии их // Акты хозяйства Б. И. Морозова (1652; morozov/228\_Morozov)
-* # title = А. Дементьев. Две отписки приказчика с. Павловского (Звенигород. у.) А. Дементьева в Москву Б. И. Морозову и приказчику С. Н. Киселеву о прибытии деловых людей, о ходе работ по расчистке леса, об озорстве и непослушании деловых людей // Акты хозяйства Б. И. Морозова (1652; morozov/234\_Morozov)
+* А. Дементьев. Две отписки приказчика с. Павловского (Звенигород. у.) А. Дементьева в Москву Б. И. Морозову и приказчику С. Н. Киселеву о прибытии деловых людей, о ходе работ по расчистке леса, об озорстве и непослушании деловых людей // Акты хозяйства Б. И. Морозова (1652; morozov/234\_Morozov)
 * Охотничий заговор // Русские заговоры (1650-1675; zagovor/Zagovor\_189
 * Заговор от грыжи // Русские заговоры (1650-1675; zagovor/Zagovor\_190)
 * Ввозная грамота (от имени воевод бояр кн. Дмитрия Тимофеевича Трубецкого и Ивана Мартыновича Заруцкого) Сююш мирзе Исуповичу на поместье его отца и братьев сс. Богородицкое, Никольское, Понгило и др. в Романовском у. с условием содержания служилых татар // М. В. Моисеев. К истории землевладения рода Юсуповых в начале XVII века (1611; rd/RD\_10\_30)
@@ -133,7 +133,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 
 ## Features
 
-[Abbr](orv_rnc-feat-Abbr.html) – [Analyt](orv_rnc-feat-Analyt.html) – [Animacy](orv_rnc-feat-Animacy.html) – [Aspect](orv_rnc-feat-Aspect.html) – [Case](orv_rnc-feat-Case.html) – [Clitic](orv_rnc-feat-Clitic.html) – [Degree](orv_rnc-feat-Degree.html) – [Foreign](orv_rnc-feat-Foreign.html) – [Gender](orv_rnc-feat-Gender.html) – [InflClass](orv_rnc-feat-InflClass.html) – [Mood](orv_rnc-feat-Mood.html) – [NameType](orv_rnc-feat-NameType.html) – [Number](orv_rnc-feat-Number.html) – [NumForm](orv_rnc-feat-NumForm.html) – [NumType](orv_rnc-feat-NumType.html) – [Person](orv_rnc-feat-Person.html) – [Polarity](orv_rnc-feat-Polarity.html) – [Poss](orv_rnc-feat-Poss.html) – [PronType](orv_rnc-feat-PronType.html) – [Reflex](orv_rnc-feat-Reflex.html) – [Tense](orv_rnc-feat-Tense.html) – [Typo](orv_rnc-feat-Typo.html) – [Variant](orv_rnc-feat-Variant.html) – [VerbForm](orv_rnc-feat-VerbForm.html) – [Voice](orv_rnc-feat-Voice.html)
+[Abbr](orv_rnc-feat-Abbr.html) – [Analyt](orv_rnc-feat-Analyt.html) – [Animacy](orv_rnc-feat-Animacy.html) – [Aspect](orv_rnc-feat-Aspect.html) – [Case](orv_rnc-feat-Case.html) – [Clitic](orv_rnc-feat-Clitic.html) – [Degree](orv_rnc-feat-Degree.html) – [ExtPos](orv_rnc-feat-ExtPos.html) – [Foreign](orv_rnc-feat-Foreign.html) – [Gender](orv_rnc-feat-Gender.html) – [InflClass](orv_rnc-feat-InflClass.html) – [Mood](orv_rnc-feat-Mood.html) – [NameType](orv_rnc-feat-NameType.html) – [Number](orv_rnc-feat-Number.html) – [NumForm](orv_rnc-feat-NumForm.html) – [NumType](orv_rnc-feat-NumType.html) – [Person](orv_rnc-feat-Person.html) – [Polarity](orv_rnc-feat-Polarity.html) – [Poss](orv_rnc-feat-Poss.html) – [PronType](orv_rnc-feat-PronType.html) – [Reflex](orv_rnc-feat-Reflex.html) – [Tense](orv_rnc-feat-Tense.html) – [Typo](orv_rnc-feat-Typo.html) – [Variant](orv_rnc-feat-Variant.html) – [VerbForm](orv_rnc-feat-VerbForm.html) – [Voice](orv_rnc-feat-Voice.html)
 
 ## Relations
 
@@ -992,6 +992,28 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
       <li>Yes
         <ul>
           <li>PRON: ми, ти, тя, мя, си, ты, тѧ</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>CCONJ
+        <ul>
+          <li>PRON: то, т., Тѣм</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>PRON: его, их, ево, ихъ, что, ее, ея, еи, еѣ, што</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>PRON: тѡ</li>
         </ul>
       </li>
     </ul>

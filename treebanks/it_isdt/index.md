@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Alessandro Lenci, Simonetta Montemagni, Maria Simi.
 
 Repository: [UD_Italian-ISDT](https://github.com/UniversalDependencies/UD_Italian-ISDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_isdt215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_isdt216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -69,7 +69,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
 
 ## Features
 
-[Clitic](it_isdt-feat-Clitic.html) – [Definite](it_isdt-feat-Definite.html) – [Degree](it_isdt-feat-Degree.html) – [Foreign](it_isdt-feat-Foreign.html) – [Gender](it_isdt-feat-Gender.html) – [Mood](it_isdt-feat-Mood.html) – [Number](it_isdt-feat-Number.html) – [NumType](it_isdt-feat-NumType.html) – [Person](it_isdt-feat-Person.html) – [Polarity](it_isdt-feat-Polarity.html) – [Poss](it_isdt-feat-Poss.html) – [PronType](it_isdt-feat-PronType.html) – [Tense](it_isdt-feat-Tense.html) – [Typo](it_isdt-feat-Typo.html) – [VerbForm](it_isdt-feat-VerbForm.html)
+[Clitic](it_isdt-feat-Clitic.html) – [Definite](it_isdt-feat-Definite.html) – [Degree](it_isdt-feat-Degree.html) – [ExtPos](it_isdt-feat-ExtPos.html) – [Foreign](it_isdt-feat-Foreign.html) – [Gender](it_isdt-feat-Gender.html) – [Mood](it_isdt-feat-Mood.html) – [Number](it_isdt-feat-Number.html) – [NumType](it_isdt-feat-NumType.html) – [Person](it_isdt-feat-Person.html) – [Polarity](it_isdt-feat-Polarity.html) – [Poss](it_isdt-feat-Poss.html) – [PronType](it_isdt-feat-PronType.html) – [Tense](it_isdt-feat-Tense.html) – [Typo](it_isdt-feat-Typo.html) – [VerbForm](it_isdt-feat-VerbForm.html)
 
 ## Relations
 
@@ -112,7 +112,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
 </ul>
 
 <ul>
-<li>This corpus contains 102 lemmas tagged as pronouns (PRON): I, Quanta, alcunché, alcuno, alii, altrettanto, altri, altro, ambedue, ce, che, chi, chiunque, ci, ciascuna, ciascuno, ciò, codesto, colei, coloro, colui, come, cos', cosa, costoro, costui, cui, diverso, dove, egli, ella, entrambi, essa, esse, essi, esso, gli, granché, il, io, la, le, lei, li, lo, loro, lui, me, medesimo, meno, mezzo, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, numeroso, ognuna, ognuno, più, poco, proprio, qual, qualcheduno, qualcosa, qualcun, qualcuno, quale, quali, qualunque, quando, quanto, quegli, quello, questa, questi, questo, s', se, si, stesso, suo, sè, sé, tale, taluno, tanto, te, terzo, ti, tu, tuo, tutte, tutti, tutto, uno, vi, voi</li>
+<li>This corpus contains 101 lemmas tagged as pronouns (PRON): I, Quanta, alcunché, alcuno, alii, altrettanto, altri, altro, ambedue, ce, che, chi, chiunque, ci, ciascuna, ciascuno, ciò, codesto, colei, coloro, colui, cos', cosa, costoro, costui, cui, diverso, dove, egli, ella, entrambi, essa, esse, essi, esso, gli, granché, il, io, la, le, lei, li, lo, loro, lui, me, medesimo, meno, mezzo, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, numeroso, ognuna, ognuno, più, poco, proprio, qual, qualcheduno, qualcosa, qualcun, qualcuno, quale, quali, qualunque, quando, quanto, quegli, quello, questa, questi, questo, s', se, si, stesso, suo, sè, sé, tale, taluno, tanto, te, terzo, ti, tu, tuo, tutte, tutti, tutto, uno, vi, voi</li>
 </ul>
 
 <ul>
@@ -591,6 +591,54 @@ We wish to thank all of the contributors to the original annotation efforts, as 
       <li>Yes
         <ul>
           <li>PRON: si, ci, lo, ne, c', mi, la, li, gli, le</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: su, che, tra, per, senza, A, tranne</li>
+          <li>ADV: prima, fino, insieme, davanti, oltre, vicino, intorno, fuori, attorno, come</li>
+          <li>NOUN: grazie, rispetto, riguardo</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADJ: tutt'</li>
+          <li>ADP: in, di, da, a, salvo, D', fin</li>
+          <li>ADV: più, or, quanto, Così, Poco, anche, meno, oltre, piano, piuttosto</li>
+          <li>NOUN: man, Mano</li>
+          <li>PRON: Ciò, Tutt', più</li>
+          <li>SCONJ: se</li>
+          <li>VERB-Fin: vale</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADV: oltre, piuttosto</li>
+        </ul>
+      </li>
+      <li>NOUN
+        <ul>
+          <li>NOUN: faccia</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>ADP: di, da</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: salvo, a, da, senza, di, per, su, tranne</li>
+          <li>ADV: anche, prima, dopo, fino, oltre, piuttosto, ecco, Tanto, come, così</li>
+          <li>INTJ: sì</li>
+          <li>SCONJ: se</li>
         </ul>
       </li>
     </ul>

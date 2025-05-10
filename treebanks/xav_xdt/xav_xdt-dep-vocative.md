@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (1%) are attached to their parents as `vocative`.
+9 nodes (0%) are attached to their parents as `vocative`.
 
 9 instances of `vocative` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 5.22222222222222.
@@ -26,9 +26,9 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 2	norĩ	norĩ	PART	prcl	Number=Coll	1	dep	_	_
 3	,	,	PUNCT	punct	_	6	punct	_	_
 4	e	e	PART	prcl	Int=Yes	6	dep	_	question.particle;partícula.interrogativa
-5	te	te	PART	prcl	Htp=Yes|Tense=Pres	6	dep	_	heterophoric.marker;marcardor.heterofórico
+5	te	te	AUX	aux	Person=Non1	6	dep	_	_
 6	ĩ'madö'ö	'madö'ö	VERB	v	Person[abs]=3	0	root	_	see,look;ver,olhar,enxergar
-7	'wa	'wa	X	x	Number=Dual	6	dep	_	dual.number.marker;indicador.dual
+7	'wa	'wa	X	x	Number=Dual	6	dep	_	_
 8	ai'uté	ai'uté	NOUN	n	_	6	obj	_	child;criança
 9	hã	hã	DET	det	_	8	det	_	_
 10	?	?	PUNCT	punct	_	6	punct	_	_

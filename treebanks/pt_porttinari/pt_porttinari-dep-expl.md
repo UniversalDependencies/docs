@@ -32,7 +32,7 @@ The following 2 pairs of parts of speech are connected with `expl`: <tt><a href=
 7	irão	ir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	9	aux	9:aux	_
 8	se	se	PRON	_	Case=Nom|Person=3|PronType=Prs	9	expl	9:expl	_
 9	calar	calar	VERB	_	Number=Sing|Person=3|VerbForm=Inf	4	acl:relcl	4:acl:relcl	SpaceAfter=No
-10	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 
@@ -57,7 +57,7 @@ The following 2 pairs of parts of speech are connected with `expl`: <tt><a href=
 12	se	se	PRON	_	Case=Nom|Person=3|PronType=Prs	13	expl	13:expl	Proper=Yes
 13	Discute	Discute	PROPN	_	_	11	flat:name	11:flat:name	SpaceAfter=No
 14	"	"	PUNCT	_	_	11	punct	11:punct	SpaceAfter=No
-15	.	.	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+15	.	.	PUNCT	_	_	5	punct	5:punct	_
 
 ~~~
 

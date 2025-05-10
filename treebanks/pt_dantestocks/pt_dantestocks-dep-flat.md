@@ -49,7 +49,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 24	digna	digno	ADJ	_	Gender=Fem|Number=Sing	23	amod	_	_
 25	as	às	ADP	_	_	27	case	_	_
 26	minhas	meu	DET	_	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	27	det	_	_
-27	filhas	filho	NOUN	_	Gender=Fem|Number=Plur	21	obj	_	SpaceAfter=No
+27	filhas	filho	NOUN	_	Gender=Fem|Number=Plur	21	obj	_	_
 
 ~~~
 

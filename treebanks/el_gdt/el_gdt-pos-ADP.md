@@ -60,12 +60,12 @@ The 2nd highest number of forms (3) was observed with the lemma “κατά”: 
 
 The 3rd highest number of forms (3) was observed with the lemma “σε”: <em>σ, σ', σε</em>.
 
-`ADP` occurs with 3 features: <tt><a href="el_gdt-feat-Case.html">Case</a></tt> (2; 0% instances), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt> (2; 0% instances), <tt><a href="el_gdt-feat-Number.html">Number</a></tt> (2; 0% instances)
+`ADP` occurs with 4 features: <tt><a href="el_gdt-feat-ExtPos.html">ExtPos</a></tt> (30; 1% instances), <tt><a href="el_gdt-feat-Case.html">Case</a></tt> (2; 0% instances), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt> (2; 0% instances), <tt><a href="el_gdt-feat-Number.html">Number</a></tt> (2; 0% instances)
 
-`ADP` occurs with 5 feature-value pairs: `Case=Acc`, `Gender=Fem`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
+`ADP` occurs with 7 feature-value pairs: `Case=Acc`, `ExtPos=ADP`, `ExtPos=SCONJ`, `Gender=Fem`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
-`ADP` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (5311 tokens).
+`ADP` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (5281 tokens).
 Examples: <em>σ, για, με, από, σε, κατά, προς, μεταξύ, μέχρι, μετά</em>
 
 

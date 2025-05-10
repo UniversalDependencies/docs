@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-28903 tokens (9%) have a non-empty value of `Definite`.
-13752 types (25%) occur at least once with a non-empty value of `Definite`.
-4115 lemmas (18%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 4 part-of-speech tags: <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (15744; 5% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (12504; 4% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (456; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (199; 0% instances).
+29002 tokens (9%) have a non-empty value of `Definite`.
+13776 types (25%) occur at least once with a non-empty value of `Definite`.
+4120 lemmas (18%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 4 part-of-speech tags: <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (15794; 5% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (12549; 4% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (459; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (200; 0% instances).
 
 ### `ADJ`
 
-15744 <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Definite`.
+15794 <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="lv_lvtb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (14889; 95%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (14413; 92%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10457; 66%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8233; 52%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="lv_lvtb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (14938; 95%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (14455; 92%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10487; 66%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8259; 52%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
-* `Def` (7695; 49% of non-empty `Definite`): <em>pirmo, pirmā, galvenais, pirmais, jauno, pirmajā, pirmās, administratīvā, jaunā, pēdējā</em>
-* `Ind` (8049; 51% of non-empty `Definite`): <em>iespējams, liela, nepieciešams, jaunu, liels, lielu, jauna, dažādu, labu, jaunas</em>
-* `EMPTY` (1733): <em>1., 2., 3., 2014., 2012., 4., 9., 2010., 2013., 2011.</em>
+* `Def` (7710; 49% of non-empty `Definite`): <em>pirmo, pirmā, galvenais, pirmais, jauno, pirmajā, pirmās, administratīvā, jaunā, otrajā</em>
+* `Ind` (8084; 51% of non-empty `Definite`): <em>iespējams, liela, nepieciešams, liels, jaunu, lielu, jauna, dažādu, labu, jaunas</em>
+* `EMPTY` (1734): <em>1., 2., 3., 2014., 2012., 4., 9., 2010., 2013., 2011.</em>
 
 <table>
   <tr><th>Paradigm <i>liels</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -79,15 +79,15 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 ### `VERB`
 
-12504 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (25% of all `VERB` tokens) have a non-empty value of `Definite`.
+12549 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (25% of all `VERB` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (12504; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12504; 100%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12504; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (12504; 100%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (12422; 99%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (12127; 97%), <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (11575; 93%), <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (10476; 84%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (10476; 84%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (9144; 73%).
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (12549; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12549; 100%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12549; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (12549; 100%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (12467; 99%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (12170; 97%), <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (11615; 93%), <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (10510; 84%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (10510; 84%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (9187; 73%).
 
 `VERB` tokens may have the following values of `Definite`:
 
-* `Def` (2968; 24% of non-empty `Definite`): <em>pagājušajā, pagājušā, esošo, minēto, minētā, noteikto, apsūdzētais, noteiktajā, notiekošo, notikušo</em>
-* `Ind` (9536; 76% of non-empty `Definite`): <em>bijis, zināms, paredzēts, redzams, ziņots, plānots, bijusi, saistīts, izdevies, noteikts</em>
-* `EMPTY` (36772): <em>ir, var, varētu, nav, bija, nevar, būs, teica, notiek, saka</em>
+* `Def` (2974; 24% of non-empty `Definite`): <em>pagājušajā, pagājušā, esošo, minēto, minētā, noteikto, apsūdzētais, noteiktajā, notiekošo, notikušo</em>
+* `Ind` (9575; 76% of non-empty `Definite`): <em>bijis, zināms, paredzēts, redzams, ziņots, plānots, bijusi, saistīts, izdevies, noteikts</em>
+* `EMPTY` (37057): <em>ir, var, varētu, nav, bija, nevar, būs, teica, notiek, sāka</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -136,15 +136,15 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 
 ### `DET`
 
-456 <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `Definite`.
+459 <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (456; 100%), <tt><a href="lv_lvtb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (456; 100%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (449; 98%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (311; 68%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (459; 100%), <tt><a href="lv_lvtb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (459; 100%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (452; 98%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (314; 68%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (26; 6% of non-empty `Definite`): <em>daudzajiem, savējie, savējo, daudzo, daudzās, mūsējie, savējiem, savējos, Mūsējo, daudzos</em>
-* `Ind` (430; 94% of non-empty `Definite`): <em>daudzi, vairāki, vairākas, vairākus, daudzas, vairākiem, vairāku, daudzus, daudziem, vairākās</em>
-* `EMPTY` (14716): <em>to, tas, tā, tās, savu, šo, tam, visu, šī, kuru</em>
+* `Def` (27; 6% of non-empty `Definite`): <em>daudzajiem, savējie, savējo, savējos, daudzo, daudzās, mūsējie, savējiem, Mūsējo, daudzos</em>
+* `Ind` (432; 94% of non-empty `Definite`): <em>daudzi, vairāki, vairākas, vairākus, daudzas, vairākiem, vairāku, daudzus, daudziem, vairākās</em>
+* `EMPTY` (14829): <em>to, tas, tā, tās, savu, šo, tam, visu, šī, kuru</em>
 
 <table>
   <tr><th>Paradigm <i>daudzi</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -162,15 +162,15 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 ### `AUX`
 
-199 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Definite`.
+200 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `AUX` and `Definite` co-occurred: <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (199; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (199; 100%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (199; 100%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (199; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (199; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (199; 100%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (197; 99%).
+The most frequent other feature values with which `AUX` and `Definite` co-occurred: <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (200; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (200; 100%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (200; 100%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (200; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (200; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (200; 100%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (198; 99%).
 
 `AUX` tokens may have the following values of `Definite`:
 
 * `Def` (8; 4% of non-empty `Definite`): <em>bijušo, bijušajos, bijušajām, esošās</em>
-* `Ind` (191; 96% of non-empty `Definite`): <em>bijis, bijusi, bijuši, tikusi, ticis, bijušas, tikuši, tikušas, esoša</em>
-* `EMPTY` (8719): <em>ir, bija, nav, tiek, tika, būtu, būs, būt, esmu, tiks</em>
+* `Ind` (192; 96% of non-empty `Definite`): <em>bijis, bijusi, bijuši, tikusi, ticis, bijušas, tikuši, tikušas, esoša</em>
+* `EMPTY` (8783): <em>ir, bija, nav, tiek, tika, būtu, būs, būt, esmu, tiks</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -189,14 +189,14 @@ The most frequent other feature values with which `AUX` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>ADJ --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (709; 99%),
+<tt>ADJ --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (711; 99%),
 <tt>ADJ --[<tt><a href="lv_lvtb-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (16; 94%),
-<tt>ADJ --[<tt><a href="lv_lvtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11; 58%),
+<tt>ADJ --[<tt><a href="lv_lvtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11; 61%),
 <tt>VERB --[<tt><a href="lv_lvtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11; 58%),
 <tt>ADJ --[<tt><a href="lv_lvtb-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (9; 90%),
 <tt>ADJ --[<tt><a href="lv_lvtb-dep-acl.html">acl</a></tt>]--> ADJ</tt> (8; 100%),
 <tt>ADJ --[<tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (5; 100%),
-<tt>ADJ --[<tt><a href="lv_lvtb-dep-amod.html">amod</a></tt>]--> VERB</tt> (4; 80%),
+<tt>ADJ --[<tt><a href="lv_lvtb-dep-amod.html">amod</a></tt>]--> VERB</tt> (3; 75%),
 <tt>VERB --[<tt><a href="lv_lvtb-dep-amod.html">amod</a></tt>]--> VERB</tt> (3; 60%),
 <tt>ADJ --[<tt><a href="lv_lvtb-dep-flat.html">flat</a></tt>]--> ADJ</tt> (2; 100%).
 

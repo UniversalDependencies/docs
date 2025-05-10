@@ -41,7 +41,7 @@ The 10 most frequent ambiguous types:  <em>merci</em> (<tt><a href="fr_gsd-pos-N
   * <tt><a href="fr_gsd-pos-X.html">X</a></tt> 1: <em>Il contribua à l' élargissement de le répertoire de la Chapelle en introduisant des œuvres de compositeurs tels que le franco-flamand Clemens <b>non</b> Papa , l' italiens Palestrina , et d' espagnols comme Francisco Guerrero et Cristóbal de Morales .</em>
 * <em>enfin</em>
   * <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 29: <em>En 1997 , âgé de près de 80 ans , il prend <b>enfin</b> une pleine retraite .</em>
-  * <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 2: <em><b>enfin</b> des chaussures confortables qui ne font pas " mamie " !</em>
+  * <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 2: <em><b>enfin</b> des chaussures confortables qui ne font pas " Mamie " !</em>
 * <em>Allo</em>
   * <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 1: <em>Le premier album s' intitule Alain Cardan , le deuxième Citoyen de l' espace , le troisième <b>Allo</b> ... ici Vénus et le quatrième L' exode de la croix ansée .</em>
   * <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> 1: <em>J ai découvert <b>Allo</b> Stop dernièrement et je trouve ça super !</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>merci</em> (<tt><a href="fr_gsd-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.045455 (the average of all parts of speech is 1.308785).
+The form / lemma ratio of `INTJ` is 1.045455 (the average of all parts of speech is 1.309073).
 
 The 1st highest number of forms (2) was observed with the lemma “eh”: <em>Eh, Et</em>.
 

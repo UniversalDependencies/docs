@@ -11,7 +11,7 @@ It occurs with 2 different values: `Act`, `Pass`.
 
 3506 tokens (18%) have a non-empty value of `Voice`.
 1818 types (22%) occur at least once with a non-empty value of `Voice`.
-757 lemmas (15%) occur at least once with a non-empty value of `Voice`.
+757 lemmas (14%) occur at least once with a non-empty value of `Voice`.
 The feature is used with 4 part-of-speech tags: <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (2497; 13% instances), <tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (1006; 5% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `VERB`

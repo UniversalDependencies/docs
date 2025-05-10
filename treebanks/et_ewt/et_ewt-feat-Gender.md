@@ -25,7 +25,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 * `Fem` (1; 33% of non-empty `Gender`): <em>marken</em>
 * `Masc` (1; 33% of non-empty `Gender`): <em>Gebrauchtwagen</em>
 * `Neut` (1; 33% of non-empty `Gender`): <em>modelle</em>
-* `EMPTY` (18077): <em>asi, aasta, teema, aru, auto, inimesed, inimene, aastat, raha, aega</em>
+* `EMPTY` (18075): <em>asi, aasta, teema, aru, auto, inimesed, inimene, aastat, raha, aega</em>
 
 ### `PRON`
 
@@ -36,5 +36,5 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 `PRON` tokens may have the following values of `Gender`:
 
 * `Neut` (1; 100% of non-empty `Gender`): <em>IT</em>
-* `EMPTY` (6591): <em>ma, see, mis, seda, oma, kes, ta, sa, midagi, mida</em>
+* `EMPTY` (6590): <em>ma, see, mis, seda, oma, kes, ta, sa, midagi, mida</em>
 

@@ -36,7 +36,7 @@ The following 59 pairs of parts of speech are connected with `conj`: <tt><a href
 12	de	de	ADP	_	_	14	case	14:case	_
 13	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	14:det	_
 14	direita	direita	NOUN	_	Gender=Fem|Number=Sing	11	nmod	11:nmod:de	SpaceAfter=No
-15	.	.	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+15	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 
@@ -60,7 +60,7 @@ The following 59 pairs of parts of speech are connected with `conj`: <tt><a href
 11	e	e	CCONJ	_	_	13	cc	13:cc	_
 12	não	não	ADV	_	_	13	advmod	13:advmod	_
 13	cumprimentava	cumprimentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	conj	2:parataxis|7:conj:e	SpaceAfter=No
-14	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 
@@ -83,7 +83,7 @@ The following 59 pairs of parts of speech are connected with `conj`: <tt><a href
 10	em	em	ADP	_	_	12	case	12:case	_
 11	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	12:det	_
 12	publicação	publicação	NOUN	_	Gender=Fem|Number=Sing	9	obl	9:obl:em	SpaceAfter=No
-13	.	.	PUNCT	_	_	9	punct	9:punct	SpaceAfter=No
+13	.	.	PUNCT	_	_	9	punct	9:punct	_
 
 ~~~
 

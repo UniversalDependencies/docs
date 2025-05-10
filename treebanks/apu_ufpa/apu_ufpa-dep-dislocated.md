@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	Sytuwakuru	sytu	NOUN	Gender=Fem|Number=Plur	_	4	dislocated	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	kiripa	kiripa	PRON	_	_	4	nsubj	_	_
-4	ukamaãne	kama	VERB	Case=Loc|Gender[psor]=Fem|Number[psor]=Plur|Person[psor]=3	_	0	root	_	SpaceAfter=No
+4	ukamaãne	kama	VERB	Case=Loc|Gender[psor]=Fem|Number[psor]=Plur|Person[psor]=3|Tense=Past,Pres	_	0	root	_	SpaceAfter=No
 5	?	_	PUNCT	_	_	4	punct	_	_
 
 ~~~

@@ -16,14 +16,14 @@ The feature is used with 1 part-of-speech tags: <tt><a href="sv_talbanken-pos-PR
 
 ### `PRON`
 
-703 <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> tokens (11% of all `PRON` tokens) have a non-empty value of `Poss`.
+703 <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> tokens (10% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (703; 100%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (703; 100%), <tt><a href="sv_talbanken-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (674; 96%), <tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=Sing</tt> (365; 52%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (703; 100%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (700; 100%), <tt><a href="sv_talbanken-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (674; 96%), <tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=Sing</tt> (366; 52%).
 
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (703; 100% of non-empty `Poss`): <em>sin, sina, deras, sitt, våra, vår, vårt, dess, din, ditt</em>
-* `EMPTY` (5970): <em>det, som, man, de, sig, vi, den, du, detta, dem</em>
+* `EMPTY` (6042): <em>det, som, man, de, sig, vi, den, du, detta, dem</em>
 
 `Poss` seems to be **lexical feature** of `PRON`. 100% lemmas (18) occur only with one value of `Poss`.
 

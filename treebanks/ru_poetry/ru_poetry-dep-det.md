@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1541 nodes (2%) are attached to their parents as `det`.
+1537 nodes (2%) are attached to their parents as `det`.
 
-1146 instances of `det` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.34458144062297.
+1144 instances of `det` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.33832140533507.
 
-The following 11 pairs of parts of speech are connected with `det`: <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (1407; 91% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (49; 3% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (44; 3% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (16; 1% instances), <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt>-<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ru_poetry-pos-X.html">X</a></tt>-<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `det`: <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (1407; 92% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (49; 3% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (42; 3% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (16; 1% instances), <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt>-<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ru_poetry-pos-X.html">X</a></tt>-<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

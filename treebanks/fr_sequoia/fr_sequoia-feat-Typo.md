@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 
 5 <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 80%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3; 60%).
+The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 80%).
 
 `ADJ` tokens may have the following values of `Typo`:
 
@@ -70,7 +70,7 @@ The most frequent other feature values with which `DET` and `Typo` co-occurred: 
 
 1 <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%), <tt><a href="fr_sequoia-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="fr_sequoia-feat-Emph.html">Emph</a></tt><tt>=No</tt> (1; 100%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%), <tt><a href="fr_sequoia-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `Typo`:
 

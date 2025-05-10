@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_partut-dep-compound.html">compound</a></tt>.
 
-104 nodes (0%) are attached to their parents as `compound:prt`.
+105 nodes (0%) are attached to their parents as `compound:prt`.
 
-104 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.06730769230769.
+105 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.06666666666667.
 
-The following 4 pairs of parts of speech are connected with `compound:prt`: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (89; 86% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (13; 13% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `compound:prt`: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (90; 86% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (13; 12% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -69,9 +69,9 @@ The following 4 pairs of parts of speech are connected with `compound:prt`: <tt>
 1	In	in	ADP	E	_	2	case	_	_
 2	1613	1613	NUM	N	NumType=Card	7	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	Sir	Sir	PROPN	SP	_	7	nsubj	_	_
-5	Henry	Henry	PROPN	SP	_	4	flat	_	_
-6	Wotton	Wotton	PROPN	SP	_	4	flat	_	_
+4	Sir	Sir	PROPN	SP	_	5	nmod:desc	_	_
+5	Henry	Henry	PROPN	SP	_	7	nsubj	_	_
+6	Wotton	Wotton	PROPN	SP	_	5	flat	_	_
 7	recorded	record	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	that	that	SCONJ	CS	_	13	mark	_	_
 9	Henry	Henry	PROPN	SP	_	13	nsubj:pass	_	_

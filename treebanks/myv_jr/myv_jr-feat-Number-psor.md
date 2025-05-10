@@ -123,7 +123,5 @@ The most frequent other feature values with which `ADJ` and `Number[psor]` co-oc
 
 The 10 most frequent relations where parent and child node agree in `Number[psor]`:
 <tt>ADJ --[<tt><a href="myv_jr-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="myv_jr-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="myv_jr-dep-obl-lmod.html">obl:lmod</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>PRON --[<tt><a href="myv_jr-dep-compound-redup.html">compound:redup</a></tt>]--> PRON</tt> (1; 100%).
 

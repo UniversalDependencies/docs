@@ -25,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 5 2 nsubj:pass	color:blue
 1	Une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	commission	commission	NOUN	_	Gender=Fem|Number=Sing	5	nsubj:pass	_	_
-3	parlementaire	parlementaire	ADJ	_	Number=Sing	2	amod	_	_
+3	parlementaire	parlementaire	ADJ	_	Number=Sing	2	amod	_	Gender[ctxt]=Fem
 4	fut	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
 5	constituée	constituer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -43,7 +43,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 nsubj:pass	color:blue
-1	Elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	_
+1	Elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	_
 2	sera	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux:pass	_	_
 3	annulée	annuler	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 4	en	en	ADP	_	_	5	case	_	_
@@ -63,7 +63,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	Comment	comment	ADV	_	PronType=Int	5	advmod	_	_
 2	Angiox	Angiox	PROPN	_	_	5	nsubj:pass	_	_
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	SpaceAfter=No
-4	-il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	_
+4	-il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	_
 5	utilisé	utiliser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 6	?	?	PUNCT	_	_	5	punct	_	_
 

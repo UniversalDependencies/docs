@@ -49,11 +49,11 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> VERB</tt> (260; 72%),
-<tt>VERB --[<tt><a href="ka_glc-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (90; 63%),
+<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> VERB</tt> (261; 72%),
+<tt>VERB --[<tt><a href="ka_glc-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (90; 62%),
 <tt>VERB --[<tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (78; 56%),
 <tt>VERB --[<tt><a href="ka_glc-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (77; 65%),
-<tt>VERB --[<tt><a href="ka_glc-dep-acl.html">acl</a></tt>]--> VERB</tt> (18; 51%),
+<tt>VERB --[<tt><a href="ka_glc-dep-acl.html">acl</a></tt>]--> VERB</tt> (18; 53%),
 <tt>VERB --[<tt><a href="ka_glc-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (6; 100%),
 <tt>VERB --[<tt><a href="ka_glc-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="ka_glc-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1; 100%).

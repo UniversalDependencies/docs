@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “brigit”: <e
 `PROPN` occurs with 7 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Foreign=Yes`, `Number=Sing`
 
 `PROPN` occurs with 6 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (5 tokens).
-Examples: <em>choirbbre, dongus, donngvs, finguine, ruadri</em>
+The most frequent feature combination is `Case=Gen|Number=Sing` (5 tokens).
+Examples: <em>brigtae, ferguso, patric, ᚋᚐᚏᚈᚐᚔᚅ</em>
 
 
 ## Relations

@@ -31,7 +31,7 @@ The following 6 pairs of parts of speech are connected with `list`: <tt><a href=
 7	,	,	PUNCT	_	_	8	punct	8:punct	_
 8	tel.	telefone	NOUN	_	Abbr=Yes|Gender=Masc|Number=Sing	1	list	1:list	_
 9	3113-3651	3113-3651	NUM	_	NumType=Card	8	nmod	8:nmod	SpaceAfter=No
-10	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -56,7 +56,7 @@ The following 6 pairs of parts of speech are connected with `list`: <tt><a href=
 12	,	,	PUNCT	_	_	13	punct	13:punct	_
 13	tel.	telefone	NOUN	_	Abbr=Yes|Gender=Masc|Number=Sing	1	list	1:list	_
 14	5573-7889	5573-7889	NUM	_	NumType=Card	13	nummod	13:nummod	SpaceAfter=No
-15	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -76,7 +76,7 @@ The following 6 pairs of parts of speech are connected with `list`: <tt><a href=
 7	,	,	PUNCT	_	_	8	punct	8:punct	_
 8	tel.	telefone	NOUN	_	Abbr=Yes|Gender=Masc|Number=Sing	1	list	1:list	_
 9	3113-3651	3113-3651	NUM	_	NumType=Card	8	nmod	8:nmod	SpaceAfter=No
-10	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 

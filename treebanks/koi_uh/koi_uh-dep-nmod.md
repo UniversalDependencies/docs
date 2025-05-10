@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: Relations: `nmod`
 
 This relation is universal.
-There are 2 language-specific subtypes of `nmod`: <tt><a href="koi_uh-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="koi_uh-dep-nmod-poss.html">nmod:poss</a></tt>.
+There are 1 language-specific subtypes of `nmod`: <tt><a href="koi_uh-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-38 nodes (4%) are attached to their parents as `nmod`.
+41 nodes (4%) are attached to their parents as `nmod`.
 
-36 instances of `nmod` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.10526315789474.
+39 instances of `nmod` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.09756097560976.
 
-The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (19; 50% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (10; 26% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (5; 13% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (22; 54% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (10; 24% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (5; 12% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href=
 4	да	да	CCONJ	_	_	5	cc	_	_
 5	пуксьӧтіс	пуксьӧтны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	conj	_	GTtags=Ind,Prt1,Sg3
 6	пызан	пызан	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	GTtags=Sg,Nom
-7	сайӧ	сай	NOUN	N	Case=Nom|NounType=Relat|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	obl:lmod	_	SpaceAfter=No
+7	сайӧ	сай	NOUN	N	Case=Nom|NounType=Relat|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	obl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~

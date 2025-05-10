@@ -45,7 +45,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 orphan	color:blue
-1	Тялонда	тялонда	ADV	Adv	_	2	advmod:tmod	_	CGdephead=#1-&gt;0|CGdeprel=@X|GTtags=
+1	Тялонда	тялонда	ADV	Adv	_	2	advmod	_	CGdephead=#1-&gt;0|CGdeprel=@X|GTtags=
 2	аноклайхть	анокламс	VERB	V	Case=Gen|Definite=Def|Nomzr=Ag|Number=Sing	0	root	_	CGdephead=#2-&gt;2|CGdeprel=@OBJ|GTtags=Der/NomAg,N,Sg,Gen,Def
 3	сокатнень	сока	NOUN	N	Case=Gen|Definite=Def|Number=Plur	2	obj	_	CGdephead=#3-&gt;3|CGdeprel=@OBJ|GTtags=Pl,Gen,Def|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	7	punct	_	CGdephead=#4-&gt;5|CGdeprel=@X|GTtags=CLB
@@ -69,7 +69,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	а	а	CCONJ	CC	_	6	cc	_	_
 6	брадоц	брад	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	conj	_	GTtags=Sg,Nom,PxSg3
-7	аньцек	аньцек	ADV	_	_	8	advmod:foc	_	_
+7	аньцек	аньцек	ADV	_	_	8	advmod	_	_
 8	велосипед	велосипед	NOUN	_	Case=Nom|Definite=Ind|Number=Sing	6	orphan	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 

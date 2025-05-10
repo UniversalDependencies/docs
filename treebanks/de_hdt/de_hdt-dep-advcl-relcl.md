@@ -34,7 +34,7 @@ The following 1 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 10	gebe	geben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	expl	_	_
 12	keinen	kein	DET	PIAT	Case=Acc|Gender=Masc|Number=Sing|PronType=Neg	13	det	_	_
-13	Internetprovider	Provider	NOUN	NN	Gender=Masc|Number=Sing	10	obj	_	_
+13	Internetprovider	Internetprovider	NOUN	NN	Gender=Masc|Number=Sing	10	obj	_	_
 14	,	,	PUNCT	$,	PunctType=Comm	18	punct	_	_
 15	was	was	PRON	PRELS	Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel	18	nsubj	_	_
 16	aber	aber	ADV	ADV	_	18	advmod	_	_

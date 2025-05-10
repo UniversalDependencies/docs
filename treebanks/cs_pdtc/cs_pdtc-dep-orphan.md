@@ -1,42 +1,41 @@
 ---
 layout: base
-title:  'Statistics of orphan in UD_Czech-PDT'
+title:  'Statistics of orphan in UD_Czech-PDTC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Czech-PDT: Relations: `orphan`
+## Treebank Statistics: UD_Czech-PDTC: Relations: `orphan`
 
 This relation is universal.
 
-583 nodes (0%) are attached to their parents as `orphan`.
+847 nodes (0%) are attached to their parents as `orphan`.
 
-583 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.70840480274443.
+847 instances of `orphan` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.11806375442739.
 
-The following 61 pairs of parts of speech are connected with `orphan`: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (151; 26% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (69; 12% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (32; 5% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (23; 4% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (21; 4% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (19; 3% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (17; 3% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (17; 3% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (17; 3% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (13; 2% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (12; 2% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (12; 2% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (11; 2% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (11; 2% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (11; 2% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (10; 2% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (9; 2% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (9; 2% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (9; 2% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="cs_pdt-pos-PART.html">PART</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="cs_pdt-pos-PART.html">PART</a></tt>-<tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-X.html">X</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-X.html">X</a></tt>-<tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 64 pairs of parts of speech are connected with `orphan`: <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (194; 23% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (110; 13% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (47; 6% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (44; 5% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (39; 5% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (34; 4% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (28; 3% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (26; 3% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (26; 3% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (25; 3% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (24; 3% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (22; 3% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (18; 2% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (18; 2% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (14; 2% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt>-<tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdtc-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-X.html">X</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-X.html">X</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-X.html">X</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
-# visual-style 13 14 orphan	color:blue
-1	Charpak	Charpak	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	2:nsubj	_
-2	má	mít	VERB	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-3	tři	tři	NUM	Cl-P4----------	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	4	nummod	4:nummod	LNumValue=3
-4	děti	dítě	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur	2	obj	2:obj	LId=dítě-2
-5	-	-	PUNCT	Z:-------------	_	10	punct	10:punct	_
-6	syn	syn	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	10:nsubj	_
-7	a	a	CCONJ	J^-------------	_	8	cc	8:cc	LId=a-1
-8	dcera	dcera	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	6	conj	6:conj|10:nsubj	_
-9	jsou	být	AUX	VB-P---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	10:cop	_
-10	lékaři	lékař	NOUN	NNMP1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	conj	0:root|2:conj	SpaceAfter=No
-11	,	,	PUNCT	Z:-------------	_	13	punct	13.1:punct	_
-12	další	další	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	13	amod	13:amod	_
-13	syn	syn	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	conj	13.1:dep	_
-14	biolog	biolog	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	orphan	13.1:dep	SpaceAfter=No
-15	.	.	PUNCT	Z:-------------	_	2	punct	2:punct	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 13 orphan	color:blue
+1	V	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	2	case	2:case	LId=v-1
+2	pátek	pátek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	3:obl:v:acc	Functor=3:TWHEN
+3	bývá	bývat	AUX	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Functor=0:PRED
+4	tak	tak	ADV	Db-------------	PronType=Dem	6	advmod	6:advmod	LId=tak-3|Functor=6:EXT
+5	kolem	kolem	ADP	RR--2----------	AdpType=Prep|Case=Gen	6	case	6:case	LId=kolem-1
+6	500	500	NUM	C=-------------	NumForm=Digit|NumType=Card	3	nsubj	3:nsubj	Functor=3:ACT
+7	,	,	PUNCT	Z:-------------	_	9	punct	9.1:punct	Functor=9:CONJ
+8	v	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	9	case	9:case	LId=v-1
+9	sobotu	sobota	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	3	conj	9.1:dep	Functor=3:TWHEN
+10	800	800	NUM	C=-------------	NumForm=Digit|NumType=Card	13	nummod:gov	13:nummod:gov	Functor=13:RSTR
+11	až	až	CCONJ	J^-------------	_	12	cc	12:cc	LId=až-1|LGloss=(2_až_3)|Functor=12:OPER
+12	tisíc	tisíc	NUM	CzIS1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|NumType=Card	10	conj	10:conj|13:nummod:gov	LNumValue=1000|Functor=10:RSTR
+13	návštěvníků	návštěvník	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	orphan	9.1:dep	Functor=9:ACT
+14	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 
 ~~~
 
@@ -44,43 +43,41 @@ The following 61 pairs of parts of speech are connected with `orphan`: <tt><a hr
 ~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 10 orphan	color:blue
-1	Zkratem	zkrat	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	5:obl:ins	Functor=5:MEANS
-2	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	3:case	Entity=(ln9421160c8--2-gstype:spec|LId=v-1
-3	televizoru	televizor	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	nmod	1:nmod:v:loc	Entity=ln9421160c8)|Functor=1:LOC
-4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pv	5:expl:pv	LGloss=(zvr._zájmeno/částice)
-5	vznítil	vznítit	VERB	VpYS----R-AAP--	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	Functor=0:PRED
-6	přijímač	přijímač	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	Entity=(ln9421160c8--1-gstype:spec)|Functor=5:ACT
-7	a	a	CCONJ	J^-------------	_	8	cc	8.1:cc	LId=a-1|Functor=8:CONJ
-8	pak	pak	ADV	Db-------------	_	5	conj	8.1:advmod	Functor=5:TWHEN
-9	celý	celý	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	10	amod	10:amod	Entity=(ln9421160c3--2-gstype:spec|Functor=10:RSTR
-10	byt	byt	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	orphan	8.1:dep	Entity=ln9421160c3)|Functor=8:ACT|LGloss=(místo_k_bydlení)|SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 orphan	color:blue
+1	Měřiče	měřič	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	2:obj	Entity=(cmpr9410049e502--1-gstype:gen)|Functor=2:PAT|LId=měřič-2
+2	platí	platit	VERB	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Functor=0:PRED
+3	zatím	zatím	ADV	Db-------------	_	2	advmod	2:advmod	Functor=2:TWHEN
+4	stát	stát	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	Entity=(cmpr9410049e23--1-gstype:spec)|Functor=2:ACT|LGloss=(státní_útvar)|LId=stát-1|SpaceAfter=No
+5	,	,	PUNCT	Z:-------------	_	7	punct	7:punct	_
+6	takže	takže	CCONJ	J^-------------	_	7	cc	7:cc	Functor=7:CSQ
+7	ale	ale	CCONJ	J^-------------	_	2	conj	0:root|2:conj	Functor=2:PREC
+8	vlastně	vlastně	PART	TT-------------	_	2	conj	0:root|2:conj	LId=vlastně-2|Functor=2:ATT
+9	zase	zase	ADV	Db-------------	_	2	conj	9.1:advmod	LId=zase-1|Functor=2:TWHEN
+10	občan	občan	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	orphan	9.1:dep	Entity=(cmpr9410049e307--1-gstype:gen)|Functor=9:ACT|SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	2	punct	2:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 orphan	color:blue
-1	ČSSD	ČSSD	PROPN	BNXXX-----A----	Abbr=Yes|NameType=Oth	6	obj	6:obj	LGloss=(Česká_strana_sociálně-demokratická)
-2	by	být	AUX	Vc----------I--	Aspect=Imp|Mood=Cnd|VerbForm=Fin	6	aux	6:aux	_
-3	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	5	case	5:case	LId=podle-2
-4	tohoto	tento	DET	PDZS2----------	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem	5	det	5:det	_
-5	výzkumu	výzkum	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	6:obl:podle:gen	_
-6	volilo	volit	VERB	VpNS----R-AAI--	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
-7	13	13	NUM	C=-------------	NumForm=Digit|NumType=Card	6	nsubj	6:nsubj	_
-8	%	%	SYM	Z:-------------	_	7	nmod	7:nmod	_
-9	a	a	CCONJ	J^-------------	_	10	cc	10.1:cc	LId=a-1
-10	ODA	ODA	NOUN	BNXXX-----A----	Abbr=Yes	6	conj	10.1:dep	LId=ODA-88
-11	9	9	NUM	C=-------------	NumForm=Digit|NumType=Card	10	orphan	10.1:dep	_
-12	%	%	SYM	Z:-------------	_	11	nmod	11:nmod	SpaceAfter=No
-13	.	.	PUNCT	Z:-------------	_	6	punct	6:punct	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 orphan	color:blue
+1	Měla	mít	VERB	VpQW----R-AAI--	Aspect=Imp|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	Functor=0:PRED
+2	asi	asi	PART	TT-------------	_	3	nmod	3:nmod	Entity=(pdtsc_ez_126.00e64--2-gstype:spec|Functor=3:EXT
+3	24	24	NUM	C=-------------	NumForm=Digit|NumType=Card	1	obl	1:obl	Entity=pdtsc_ez_126.00e64)|Functor=1:EXT
+4	a	a	CCONJ	J^-------------	_	5	cc	5.1:cc	LId=a-1|Functor=5:CONJ
+5	tatínek	tatínek	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	5.1:dep	Entity=(pdtsc_ez_126.00e25--1-gstype:spec)|Functor=1:ACT
+6	26	26	NUM	C=-------------	NumForm=Digit|NumType=Card	5	orphan	5.1:dep	Entity=(pdtsc_ez_126.00e73--1-gstype:spec)|Functor=5:EXT
+7	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	Functor=8:CONJ
+8	mám	mít	VERB	VB-S---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	0:root|1:conj	Functor=1:PRED
+9	takovou	takový	DET	PDFS4----------	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	10	det	10:det	Functor=10:RSTR
+10	představu	představa	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	8	obj	8:obj	Functor=8:CPHR
+11	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
 

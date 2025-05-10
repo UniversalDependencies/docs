@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-9450 tokens (12%) have a non-empty value of `Mood`.
-1154 types (11%) occur at least once with a non-empty value of `Mood`.
+9453 tokens (12%) have a non-empty value of `Mood`.
+1155 types (11%) occur at least once with a non-empty value of `Mood`.
 434 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 6 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (4763; 6% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4668; 6% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (4766; 6% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4668; 6% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-4763 <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> tokens (51% of all `VERB` tokens) have a non-empty value of `Mood`.
+4766 <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> tokens (51% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4699; 99%), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4259; 89%), <tt><a href="is_modern-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3491; 73%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3485; 73%), <tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt> (3264; 69%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4702; 99%), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4260; 89%), <tt><a href="is_modern-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3494; 73%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3487; 73%), <tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt> (3267; 69%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (30; 1% of non-empty `Mood`): <em>Gripið, samanber, fyrirgefið, Afsaka, athugið, bið, fyrirgef, komið, leyfðu</em>
-* `Ind` (4056; 85% of non-empty `Mood`): <em>hringir, held, kemur, á, finnst, þakka, þarf, verður, sagði, segir</em>
-* `Sub` (677; 14% of non-empty `Mood`): <em>verði, eigi, ætti, fari, þurfi, ættum, komi, yrði, eigum, fái</em>
-* `EMPTY` (4532): <em>gera, fara, taka, koma, varðandi, segja, gert, vinna, sjá, fá</em>
+* `Ind` (4057; 85% of non-empty `Mood`): <em>hringir, held, kemur, á, finnst, þakka, þarf, verður, sagði, segir</em>
+* `Sub` (679; 14% of non-empty `Mood`): <em>verði, eigi, ætti, fari, þurfi, ættum, komi, yrði, eigum, fái</em>
+* `EMPTY` (4529): <em>gera, fara, taka, koma, varðandi, segja, gert, vinna, sjá, fá</em>
 
 <table>
   <tr><th>Paradigm <i>koma</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -119,12 +119,12 @@ The most frequent other feature values with which `X` and `Mood` co-occurred: <t
 `X` tokens may have the following values of `Mood`:
 
 * `Ind` (1; 100% of non-empty `Mood`): <em>ákvaðu</em>
-* `EMPTY` (90): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
+* `EMPTY` (89): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (418; 60%),
+<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (419; 60%),
 <tt>VERB --[<tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (40; 65%),
 <tt>AUX --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (2; 100%),

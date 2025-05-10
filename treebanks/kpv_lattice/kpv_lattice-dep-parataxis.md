@@ -25,13 +25,13 @@ The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	—	—	PUNCT	PUNCT	_	7	punct	_	_
 2	Мыйла	мыйла	SCONJ	CS	_	7	cc	_	_
 3	нӧ	нӧ	PART	Pcle	_	7	advmod	_	_
-4	водзджык	водз	ADV	Adv	Degree=Cmp	7	advmod:tmod	_	_
+4	водзджык	водз	ADV	Adv	Degree=Cmp	7	advmod	_	_
 5	эн	оз	AUX	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Past	7	aux	_	_
-6	вермы	вермыны	AUX	V	Connegative=Yes	7	aux:pot	_	_
+6	вермы	вермыны	AUX	V	Connegative=Yes	7	aux	_	_
 7	кайны	кайны	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	CLB	_	11	punct	_	_
 9	—	—	PUNCT	PUNCT	_	11	punct	_	_
-10	жалитӧмпырысь	жалитӧмпырысь	ADV	Adv	_	11	advmod:eval	_	Note=Check
+10	жалитӧмпырысь	жалитӧмпырысь	ADV	Adv	_	11	advmod	_	Note=Check
 11	шуис	шуны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	parataxis	_	_
 12	меным	ме	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	11	obl	_	SpaceAfter=No
 13	.	.	PUNCT	CLB	_	7	punct	_	_
@@ -66,7 +66,7 @@ The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 9	fgColor:white
 # visual-style 9 6 parataxis	color:blue
 1	A	а	CCONJ	CC	_	6	cc	_	_
-2	гашкӧ	гашкӧ	ADV	Adv	_	6	advmod:eval	_	SpaceAfter=No
+2	гашкӧ	гашкӧ	ADV	Adv	_	6	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
 4	тайӧяслӧн	тайӧ	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	6	nmod	_	GTtags=Dem,Pl,Gen
 5	яда	яд	NOUN	N	Case=Nom|Derivation=ProprietiveMod|Number=Sing	6	nmod	_	GTtags=Sg,Der,Der/ProprietiveMod,A,Sg,Nom

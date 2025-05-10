@@ -90,7 +90,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> VERB</tt> (468; 60%),
+<tt>VERB --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> VERB</tt> (467; 59%),
 <tt>AUX --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="it_postwita-dep-dep.html">dep</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="it_postwita-dep-list.html">list</a></tt>]--> VERB</tt> (2; 67%),

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-426 nodes (2%) are attached to their parents as `mark`.
+435 nodes (2%) are attached to their parents as `mark`.
 
-426 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.45070422535211.
+435 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.49425287356322.
 
-The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-SCONJ.html">SCONJ</a></tt> (381; 89% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-SCONJ.html">SCONJ</a></tt> (21; 5% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-SCONJ.html">SCONJ</a></tt> (10; 2% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (9; 2% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-INTJ.html">INTJ</a></tt>-<tt><a href="id_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `mark`: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-SCONJ.html">SCONJ</a></tt> (381; 88% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-SCONJ.html">SCONJ</a></tt> (21; 5% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (17; 4% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-SCONJ.html">SCONJ</a></tt> (10; 2% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-INTJ.html">INTJ</a></tt>-<tt><a href="id_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -53,29 +53,26 @@ The following 8 pairs of parts of speech are connected with `mark`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 6 mark	color:blue
-1	Pada	pada	ADP	_	_	3	case	_	_
-2	satu	satu	NUM	_	NumType=Card	3	nummod	_	_
-3	kesempatan	sempat	NOUN	_	Number=Sing	5	obl	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	_
-5	disiratkan	sirat	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
-6	bahwa	bahwa	SCONJ	_	_	10	mark	_	_
-7	ia	ia	PRON	_	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
-8	adalah	adalah	AUX	_	_	10	cop	_	_
-9	seorang	orang	DET	_	Definite=Ind|PronType=Art	10	det	_	_
-10	agen	agen	NOUN	_	Number=Sing	5	advcl	_	_
-11	yang	yang	PRON	_	PronType=Rel	12	nsubj	_	_
-12	menyamar	samar	VERB	_	Mood=Ind|Voice=Act	10	acl:relcl	_	_
-13	yang	yang	PRON	_	PronType=Rel	17	obl	_	_
-14	target	target	NOUN	_	Number=Sing	17	nsubj	_	_
-15	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	14	nmod:poss	_	_
-16	adalah	adalah	AUX	_	_	17	cop	_	_
-17	Homer	Homer	PROPN	_	_	10	acl:relcl	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 7 mark	color:blue
+1	Yang	yang	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	belakangan	belakang	NOUN	_	Number=Sing	3	nsubj	_	_
+3	mengawasi	awas	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+4	pemilihan	pilih	NOUN	_	Number=Sing	3	obj	_	_
+5	pendahuluan	dahulu	NOUN	_	Number=Sing	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	di	di	ADP	_	ExtPos=SCONJ	11	mark	_	MWEPOS=SCONJ
+8	mana	mana	PRON	_	PronType=Dem	7	fixed	_	_
+9	Rachida	Rachida	PROPN	_	_	11	nsubj	_	_
+10	Dati	Dati	PROPN	_	_	9	flat:name	_	_
+11	mendukung	dukung	VERB	_	Mood=Ind|Voice=Act	4	acl	_	_
+12	pencalonan	calon	NOUN	_	Number=Sing	11	obj	_	_
+13	Nicolas	Nicolas	PROPN	_	_	12	nmod	_	_
+14	Sarkozy	Sarkozy	PROPN	_	_	13	flat:name	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

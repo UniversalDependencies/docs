@@ -47,7 +47,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="ru_poetry-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.831021).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.831486).
 
 The 1st highest number of forms (1) was observed with the lemma “а”: <em>а</em>.
 
@@ -68,7 +68,7 @@ Examples: <em>и, а, но, да, или, иль, то, только, Аль, з
 
 `CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="ru_poetry-dep-cc.html">cc</a></tt> (3057; 100% instances), <tt><a href="ru_poetry-dep-fixed.html">fixed</a></tt> (6; 0% instances), <tt><a href="ru_poetry-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="ru_poetry-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (1547; 50% instances), <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> (883; 29% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (415; 14% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (102; 3% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (56; 2% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (18; 1% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> (16; 1% instances), <tt><a href="ru_poetry-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="ru_poetry-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="ru_poetry-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (1547; 50% instances), <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> (883; 29% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (416; 14% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (101; 3% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (56; 2% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (18; 1% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> (16; 1% instances), <tt><a href="ru_poetry-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="ru_poetry-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="ru_poetry-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
 3045 (99%) `CCONJ` nodes are leaves.
 

@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>koko</em> (<tt><a href="fi_ood-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.606164 (the average of all parts of speech is 1.566190).
+The form / lemma ratio of `ADJ` is 1.606164 (the average of all parts of speech is 1.565977).
 
 The 1st highest number of forms (21) was observed with the lemma “hyvä”: <em>Parhaat, hyvien, hyviksi, hyviä, hyvä, hyväksi, hyvällä, hyvältä, hyvän, hyvänä, hyvät, hyvää, paras, parasta, paremman, paremmassa, parempaan, parempia, parhaan, parhaimman, parhain</em>.
 

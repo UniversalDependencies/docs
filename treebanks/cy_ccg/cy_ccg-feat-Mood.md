@@ -115,12 +115,12 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> VERB</tt> (180; 93%),
 <tt>VERB --[<tt><a href="cy_ccg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (59; 84%),
-<tt>VERB --[<tt><a href="cy_ccg-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (22; 59%),
+<tt>VERB --[<tt><a href="cy_ccg-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (23; 61%),
 <tt>VERB --[<tt><a href="cy_ccg-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (14; 74%),
 <tt>VERB --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> AUX</tt> (11; 100%),
 <tt>AUX --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="cy_ccg-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="cy_ccg-dep-obj.html">obj</a></tt>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<tt><a href="cy_ccg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
-<tt>AUX --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
+<tt>AUX --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<tt><a href="cy_ccg-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (1; 100%).
 

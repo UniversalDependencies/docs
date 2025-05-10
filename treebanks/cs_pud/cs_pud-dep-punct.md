@@ -11,7 +11,7 @@ This relation is universal.
 2624 nodes (14%) are attached to their parents as `punct`.
 
 1488 instances of `punct` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.94626524390244.
+Average distance between parent and child is 6.94550304878049.
 
 The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-PUNCT.html">PUNCT</a></tt> (1502; 57% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-PUNCT.html">PUNCT</a></tt> (456; 17% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-PUNCT.html">PUNCT</a></tt> (374; 14% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pud-pos-PUNCT.html">PUNCT</a></tt> (89; 3% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pud-pos-PUNCT.html">PUNCT</a></tt> (86; 3% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pud-pos-PUNCT.html">PUNCT</a></tt> (45; 2% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt>-<tt><a href="cs_pud-pos-PUNCT.html">PUNCT</a></tt> (27; 1% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_pud-pos-PUNCT.html">PUNCT</a></tt> (23; 1% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_pud-pos-PUNCT.html">PUNCT</a></tt> (11; 0% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pud-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="cs_pud-pos-PART.html">PART</a></tt>-<tt><a href="cs_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
 

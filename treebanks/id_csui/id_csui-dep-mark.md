@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-580 nodes (2%) are attached to their parents as `mark`.
+581 nodes (2%) are attached to their parents as `mark`.
 
-576 instances of `mark` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.86034482758621.
+577 instances of `mark` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.85886402753873.
 
-The following 9 pairs of parts of speech are connected with `mark`: <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (441; 76% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (69; 12% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (39; 7% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (20; 3% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="id_csui-pos-X.html">X</a></tt>-<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-AUX.html">AUX</a></tt>-<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `mark`: <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (441; 76% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (69; 12% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (39; 7% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (20; 3% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="id_csui-pos-X.html">X</a></tt>-<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-AUX.html">AUX</a></tt>-<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -22,8 +22,8 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 4 det	color:blue
-1	Колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl:lmod	_	OrigLang=ru
-2	ӧні	ӧні	ADV	Adv	_	3	advmod:tmod	_	_
+1	Колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl	_	OrigLang=ru
+2	ӧні	ӧні	ADV	Adv	_	3	advmod	_	_
 3	мунӧ	мунны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 4	тайӧ	тайӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	7	det	_	_
 5	воӧм	воны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
@@ -45,7 +45,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 2	настроениеяс	настроение	NOUN	N	Case=Nom|Number=Plur	3	nsubj	_	OrigLang=ru
 3	лоны	лоны	VERB	V	VerbForm=Inf	0	root	_	_
 4	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	3	aux	_	_
-5	вермы	вермыны	AUX	V	Connegative=Yes	3	aux:pot	_	SpaceAfter=No
+5	вермы	вермыны	AUX	V	Connegative=Yes	3	aux	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
@@ -60,7 +60,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 1	Но	но	CCONJ	CC	_	5	cc	_	_
 2	унасӧ	уна	PRON	Pron	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obj	_	GTtags=Sg,Acc,PxSg3
 3	нинӧм	нинӧм	PRON	Pron	Case=Nom|Number=Sing|Polarity=Neg	2	det	_	GTtags=Neg,Sg,Nom
-4	тан	тан	ADV	Adv	_	5	advmod:lmod	_	_
+4	тан	тан	ADV	Adv	_	5	advmod	_	_
 5	висьтавныс	висьтавны	VERB	V	Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Inf	0	root	_	GTtags=TV,Inf,Px3|SpaceAfter=No
 6	.	.	PUNCT	PUNCT	_	5	punct	_	_
 

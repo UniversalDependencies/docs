@@ -9,19 +9,19 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Med`, `Prox`, `Remt`.
 
-4 tokens (0%) have a non-empty value of `Deixis`.
-4 types (1%) occur at least once with a non-empty value of `Deixis`.
+5 tokens (0%) have a non-empty value of `Deixis`.
+5 types (1%) occur at least once with a non-empty value of `Deixis`.
 3 lemmas (1%) occur at least once with a non-empty value of `Deixis`.
-The feature is used with 2 part-of-speech tags: <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `DET`
 
-3 <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Deixis`.
+4 <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Deixis`.
 
 `DET` tokens may have the following values of `Deixis`:
 
-* `Prox` (2; 67% of non-empty `Deixis`): <em>ã, Ãhã</em>
-* `Remt` (1; 33% of non-empty `Deixis`): <em>Õhõ</em>
+* `Prox` (2; 50% of non-empty `Deixis`): <em>ã, Ãhã</em>
+* `Remt` (2; 50% of non-empty `Deixis`): <em>õ, Õhõ</em>
 
 ### `PRON`
 

@@ -11,7 +11,7 @@ It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
 2405 tokens (14%) have a non-empty value of `VerbForm`.
 908 types (25%) occur at least once with a non-empty value of `VerbForm`.
-563 lemmas (18%) occur at least once with a non-empty value of `VerbForm`.
+562 lemmas (18%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 2 part-of-speech tags: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1652; 9% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (753; 4% instances).
 
 ### `VERB`
@@ -79,11 +79,13 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> VERB</tt> (113; 82%),
+<tt>VERB --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> VERB</tt> (122; 83%),
 <tt>VERB --[<tt><a href="en_gentle-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (44; 60%),
-<tt>VERB --[<tt><a href="en_gentle-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 67%),
+<tt>VERB --[<tt><a href="en_gentle-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 67%),
 <tt>VERB --[<tt><a href="en_gentle-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (2; 67%),
+<tt>AUX --[<tt><a href="en_gentle-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="en_gentle-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="en_gentle-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="en_gentle-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (1; 100%).
 

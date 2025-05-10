@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  بود (<tt><a href="fa_perdt-pos-AUX.htm
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 14.777778 (the average of all parts of speech is 1.486663).
+The form / lemma ratio of `AUX` is 14.777778 (the average of all parts of speech is 1.486683).
 
 The 1st highest number of forms (49) was observed with the lemma “بود”: باد, باش, باشد, باشم, باشند, باشی, باشید, باشیم, بود, بودم, بودند, بوده, بوده‌ام, بوده‌اند, بوده‌ای, بوده‌اید, بوده‌ایم, بودی, بودید, بودیم, شد, شوند, مباد, مباش, می‌باشد, می‌باشم, می‌باشند, می‌باشید, می‌بود, می‌بودیم, نباش, نباشد, نباشم, نباشند, نباشی, نباشید, نباشیم, نبود, نبودم, نبودند, نبوده, نبوده‌ام, نبوده‌اند, نبوده‌ایم, نبودی, نبودیم, نمی‌باشد, نمی‌باشند, نمی‌بود.
 

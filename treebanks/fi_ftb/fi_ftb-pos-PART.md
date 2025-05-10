@@ -6,42 +6,36 @@ udver: '2'
 
 ## Treebank Statistics: UD_Finnish-FTB: POS Tags: `PART`
 
-There are 204 `PART` lemmas (1%), 305 `PART` types (1%) and 5682 `PART` tokens (4%).
-Out of 17 observed tags, the rank of `PART` is: 9 in number of lemmas, 11 in number of types and 9 in number of tokens.
+There are 178 `PART` lemmas (1%), 226 `PART` types (1%) and 2461 `PART` tokens (2%).
+Out of 17 observed tags, the rank of `PART` is: 9 in number of lemmas, 12 in number of types and 13 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>niin, jo, myös, vielä, vain, kyllä, ihan, sitten, enää, nyt</em>
+The 10 most frequent `PART` lemmas: <em>niin, sitten, edes, siis, juuri, kai, vaikka, niinkuin, yhä, aika</em>
 
-The 10 most frequent `PART` types:  <em>niin, jo, myös, vielä, vain, kyllä, ihan, enää, nyt, kuitenkin</em>
+The 10 most frequent `PART` types:  <em>niin, sitten, edes, ni, siis, juuri, kai, yhä, vaikka, aika</em>
 
-The 10 most frequent ambiguous lemmas: <em>niin</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 633, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 103, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 51, <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 2), <em>jo</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 348, <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> 1), <em>vielä</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 308, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 9), <em>sitten</em> (<tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 260, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 133, <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> 58), <em>nyt</em> (<tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 479, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 125), <em>vaan</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 126, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 86), <em>vasta</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 84, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 4), <em>juuri</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 79, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 21, <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 8), <em>noin</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 77, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 24), <em>kai</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 74, <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>niin</em> (<tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 374, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 352, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 51, <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 12), <em>sitten</em> (<tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 260, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 133, <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> 58), <em>edes</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 102, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 2), <em>juuri</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 79, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 21, <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 8), <em>kai</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 74, <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> 1), <em>vaikka</em> (<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 204, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 73, <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 4), <em>aika</em> (<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 329, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 64), <em>tietysti</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 38, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 3), <em>kovin</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 30, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 2), <em>tosi</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 29, <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 27, <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> 9)
 
-The 10 most frequent ambiguous types:  <em>niin</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 452, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 90, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 47, <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 2), <em>nyt</em> (<tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 338, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 118), <em>sitten</em> (<tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 99, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 98, <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> 57), <em>vasta</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 74, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 2), <em>juuri</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 73, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 21), <em>vaan</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 126, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 73), <em>noin</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 66, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 17), <em>vaikka</em> (<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 134, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 65, <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 3), <em>aika</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 63, <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 36), <em>nii</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 35, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>niin</em> (<tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 316, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 218, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 47, <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 10), <em>sitten</em> (<tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 99, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 98, <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> 57), <em>edes</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 95, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 2), <em>ni</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 83, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 3), <em>juuri</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 73, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 21), <em>vaikka</em> (<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 134, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 65, <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 3), <em>aika</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 63, <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 36), <em>tietysti</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 29, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 1), <em>tota</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 33, <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 6), <em>sitte</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 35, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 31, <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> 1)
 
 
 * <em>niin</em>
-  * <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 452: <em>Heti kun laulan hieman rokimpaa <b>niin</b> sen kuulee .</em>
-  * <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 90: <em>Sanoiko hän <b>niin</b> ?</em>
+  * <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 316: <em>Me olisimme täällä <b>niin</b> onnellisia yhdessä , Esko ja sinä ja minä .</em>
+  * <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 218: <em>Heti kun laulan hieman rokimpaa <b>niin</b> sen kuulee .</em>
   * <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 47: <em>Nauratti <b>niin</b> että suupielistä veti .</em>
-  * <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Altistus tälle todettiin <b>niin</b> minun kuin kuopuksenkin verikokeista .</em>
-* <em>nyt</em>
-  * <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 338: <em>Kun asiakkaalta ennen kysyttiin montako tonnia tavaraa tarvitset , <b>nyt</b></em>
-  * <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 118: <em>Johan <b>nyt</b> jotakin .</em>
+  * <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 10: <em>Altistus tälle todettiin <b>niin</b> minun kuin kuopuksenkin verikokeista .</em>
 * <em>sitten</em>
   * <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 99: <em>Sait sä <b>sitten</b> tehtyä sen työn ajoissa ?</em>
   * <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 98: <em>Nyt olisikin <b>sitten</b> pitänyt olla ruista kaikilla pelloilla .</em>
   * <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> 57: <em>Ajatus innosti minua tasan yhtä vähän kuin pari kuukautta <b>sitten</b> .</em>
-* <em>vasta</em>
-  * <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 74: <em>Hän tuli <b>vasta</b> eilen</em>
-  * <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 2: <em>niitä meheviä <b>vasta</b> kypsyneitä karviaisia</em>
+* <em>edes</em>
+  * <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 95: <em>Kaikki suomalaiset eivät <b>edes</b> halua maalle hyttysten syötäviksi .</em>
+  * <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 2: <em>Hänellä ei ole työhuoneessaan <b>edes</b> kirjoituskonetta , saati tietokonetta .</em>
+* <em>ni</em>
+  * <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 83: <em>Kuka tuli ekana <b>ni</b> se voitti .</em>
+  * <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 3: <em>niit ol´ <b>ni</b> hirveästit talossa</em>
 * <em>juuri</em>
   * <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 73: <em>Johtaja oli sattunut olemaan <b>juuri</b> silloin paikalla .</em>
   * <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 21: <em>Naapuriin syntyi <b>juuri</b> kaksoset .</em>
-* <em>vaan</em>
-  * <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 126: <em>Siellä tehdään ohjelmia , joita ei katsella <b>vaan</b> katsotaan .</em>
-  * <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 73: <em>Mä oon <b>vaan</b> näin hyvissä ajoin liikkeellä .</em>
-* <em>noin</em>
-  * <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 66: <em>Viime vuoden luku oli 2_400 ja tänä vuonna luku nousee <b>noin</b> 2:aan .</em>
-  * <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 17: <em>Tuntuu oudolta , että joku voi ajatella <b>noin</b> .</em>
 * <em>vaikka</em>
   * <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 134: <em>Alta mennään <b>vaikka</b> niskat katkeis .</em>
   * <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 65: <em>Muistan <b>vaikka</b> mitä mutta en kerro</em>
@@ -49,46 +43,53 @@ The 10 most frequent ambiguous types:  <em>niin</em> (<tt><a href="fi_ftb-pos-PA
 * <em>aika</em>
   * <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 63: <em><b>aika</b> hyvällä juoksemisellani</em>
   * <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 36: <em>Siinä <b>aika</b> hurahtaa ihan varkain .</em>
-* <em>nii</em>
-  * <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 35: <em>- No <b>nii</b> .</em>
-  * <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 3: <em>Mut sen kerkee koukkaa teilt vielä jos se nyt oli <b>nii</b> et sil ei sit ollu</em>
+* <em>tietysti</em>
+  * <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 29: <em>Usein tämä <b>tietysti</b> kismittää , kun asiat eivät ota sujuakseen .</em>
+  * <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 1: <em>Niilo ei haluaisi tulla alas , mutta tulee <b>tietysti</b> , tottakai , se on selvä .</em>
+* <em>tota</em>
+  * <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 33: <em>me mennää huomena <b>tota</b> perkaamaan sen Riihipuron Pekan , maapalstaa</em>
+  * <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 6: <em>En oo itte ainakaan vielä harrastanut <b>tota</b> yöllä syömistä .</em>
+* <em>sitte</em>
+  * <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 35: <em>Rämpytä nyt niitä valoja siinä <b>sitte</b> !</em>
+  * <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 31: <em>Mä sanoi et <b>sitte</b> kyllä rupee rassaa se sattuu nii vietävästi .</em>
+  * <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> 1: <em>Ja sitte hänellä on sellanen kolleega kun Saara Moilanen Turtola joka suunnillee vuos <b>sitte</b> väitteliki tästä asiasta</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.495098 (the average of all parts of speech is 2.048736).
+The form / lemma ratio of `PART` is 1.269663 (the average of all parts of speech is 2.049638).
 
-The 1st highest number of forms (9) was observed with the lemma “kyllä”: <em>Kylläpä, kyl, kylhän, kyllä, kyllähän, kylläkin, kylläkään, kylläpäs, kylä</em>.
+The 1st highest number of forms (8) was observed with the lemma “niinkuin”: <em>niiku, niinko, niinku, niinkuin, niinkun, nikun, ninku, ninkun</em>.
 
-The 2nd highest number of forms (8) was observed with the lemma “niinkuin”: <em>niiku, niinko, niinku, niinkuin, niinkun, nikun, ninku, ninkun</em>.
+The 2nd highest number of forms (4) was observed with the lemma “lie”: <em>Liekö, lie, lieh, lien</em>.
 
-The 3rd highest number of forms (7) was observed with the lemma “vielä”: <em>viel, vielä, vieläk, vieläkin, vieläkö, viä, viäl</em>.
+The 3rd highest number of forms (4) was observed with the lemma “niin”: <em>ni, nii, niin, nin</em>.
 
-`PART` occurs with 3 features: <tt><a href="fi_ftb-feat-Style.html">Style</a></tt> (465; 8% instances), <tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt> (119; 2% instances), <tt><a href="fi_ftb-feat-Abbr.html">Abbr</a></tt> (86; 2% instances)
+`PART` occurs with 4 features: <tt><a href="fi_ftb-feat-Style.html">Style</a></tt> (345; 14% instances), <tt><a href="fi_ftb-feat-Abbr.html">Abbr</a></tt> (86; 3% instances), <tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt> (45; 2% instances), <tt><a href="fi_ftb-feat-ExtPos.html">ExtPos</a></tt> (43; 2% instances)
 
-`PART` occurs with 10 feature-value pairs: `Abbr=Yes`, `Clitic=Han`, `Clitic=Kaan`, `Clitic=Kin`, `Clitic=Ko`, `Clitic=Ko,S`, `Clitic=Pa`, `Clitic=Pa,S`, `Clitic=S`, `Style=Coll`
+`PART` occurs with 10 feature-value pairs: `Abbr=Yes`, `Clitic=Kaan`, `Clitic=Kin`, `Clitic=Ko`, `Clitic=Pa`, `Clitic=S`, `ExtPos=ADV`, `ExtPos=INTJ`, `ExtPos=SCONJ`, `Style=Coll`
 
 `PART` occurs with 14 feature combinations.
-The most frequent feature combination is `_` (5016 tokens).
-Examples: <em>niin, jo, myös, vielä, vain, kyllä, ihan, enää, nyt, kuitenkin</em>
+The most frequent feature combination is `_` (1951 tokens).
+Examples: <em>niin, sitten, edes, siis, juuri, kai, yhä, vaikka, aika, jopa</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 7 different relations: <tt><a href="fi_ftb-dep-advmod.html">advmod</a></tt> (5106; 90% instances), <tt><a href="fi_ftb-dep-mark.html">mark</a></tt> (369; 6% instances), <tt><a href="fi_ftb-dep-dep.html">dep</a></tt> (77; 1% instances), <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (62; 1% instances), <tt><a href="fi_ftb-dep-root.html">root</a></tt> (42; 1% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (25; 0% instances), <tt><a href="fi_ftb-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 7 different relations: <tt><a href="fi_ftb-dep-advmod.html">advmod</a></tt> (1990; 81% instances), <tt><a href="fi_ftb-dep-mark.html">mark</a></tt> (319; 13% instances), <tt><a href="fi_ftb-dep-dep.html">dep</a></tt> (71; 3% instances), <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (32; 1% instances), <tt><a href="fi_ftb-dep-root.html">root</a></tt> (31; 1% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (12; 0% instances), <tt><a href="fi_ftb-dep-discourse.html">discourse</a></tt> (6; 0% instances)
 
-Parents of `PART` nodes belong to 13 different parts of speech: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (2623; 46% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (935; 16% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (848; 15% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (522; 9% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (248; 4% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (194; 3% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (96; 2% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (83; 1% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (74; 1% instances),  (42; 1% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 13 different parts of speech: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (1194; 49% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (373; 15% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (350; 14% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (197; 8% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (114; 5% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (65; 3% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (50; 2% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (48; 2% instances),  (31; 1% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (30; 1% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-5224 (92%) `PART` nodes are leaves.
+2201 (89%) `PART` nodes are leaves.
 
-392 (7%) `PART` nodes have one child.
+216 (9%) `PART` nodes have one child.
 
-58 (1%) `PART` nodes have two children.
+39 (2%) `PART` nodes have two children.
 
-8 (0%) `PART` nodes have three or more children.
+5 (0%) `PART` nodes have three or more children.
 
 The highest child degree of a `PART` node is 4.
 
-Children of `PART` nodes are attached using 16 different relations: <tt><a href="fi_ftb-dep-punct.html">punct</a></tt> (331; 62% instances), <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (89; 17% instances), <tt><a href="fi_ftb-dep-advmod.html">advmod</a></tt> (29; 5% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (26; 5% instances), <tt><a href="fi_ftb-dep-discourse.html">discourse</a></tt> (18; 3% instances), <tt><a href="fi_ftb-dep-cc.html">cc</a></tt> (11; 2% instances), <tt><a href="fi_ftb-dep-nummod.html">nummod</a></tt> (9; 2% instances), <tt><a href="fi_ftb-dep-dep.html">dep</a></tt> (4; 1% instances), <tt><a href="fi_ftb-dep-acl.html">acl</a></tt> (3; 1% instances), <tt><a href="fi_ftb-dep-cop.html">cop</a></tt> (3; 1% instances), <tt><a href="fi_ftb-dep-nsubj-cop.html">nsubj:cop</a></tt> (3; 1% instances), <tt><a href="fi_ftb-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="fi_ftb-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="fi_ftb-dep-vocative.html">vocative</a></tt> (2; 0% instances), <tt><a href="fi_ftb-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="fi_ftb-dep-mark.html">mark</a></tt> (1; 0% instances)
+Children of `PART` nodes are attached using 16 different relations: <tt><a href="fi_ftb-dep-punct.html">punct</a></tt> (183; 59% instances), <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (52; 17% instances), <tt><a href="fi_ftb-dep-advmod.html">advmod</a></tt> (18; 6% instances), <tt><a href="fi_ftb-dep-discourse.html">discourse</a></tt> (14; 5% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (10; 3% instances), <tt><a href="fi_ftb-dep-nummod.html">nummod</a></tt> (9; 3% instances), <tt><a href="fi_ftb-dep-cc.html">cc</a></tt> (7; 2% instances), <tt><a href="fi_ftb-dep-cop.html">cop</a></tt> (3; 1% instances), <tt><a href="fi_ftb-dep-dep.html">dep</a></tt> (3; 1% instances), <tt><a href="fi_ftb-dep-nsubj-cop.html">nsubj:cop</a></tt> (3; 1% instances), <tt><a href="fi_ftb-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="fi_ftb-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="fi_ftb-dep-vocative.html">vocative</a></tt> (2; 1% instances), <tt><a href="fi_ftb-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="fi_ftb-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="fi_ftb-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Children of `PART` nodes belong to 13 different parts of speech: <tt><a href="fi_ftb-pos-PUNCT.html">PUNCT</a></tt> (331; 62% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (74; 14% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (34; 6% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (25; 5% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (18; 3% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (15; 3% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (10; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (9; 2% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Children of `PART` nodes belong to 13 different parts of speech: <tt><a href="fi_ftb-pos-PUNCT.html">PUNCT</a></tt> (183; 59% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (31; 10% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (30; 10% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (14; 5% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (14; 5% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (10; 3% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (9; 3% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 

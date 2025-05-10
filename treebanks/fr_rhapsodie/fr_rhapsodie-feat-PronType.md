@@ -75,7 +75,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 5 <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADJ` and `PronType` co-occurred: <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Plur</tt> (3; 60%).
+The most frequent other feature values with which `ADJ` and `PronType` co-occurred: <tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 60%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Plur</tt> (3; 60%).
 
 `ADJ` tokens may have the following values of `PronType`:
 

@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 3 different values: `Digit`, `Roman`, `Word`.
 
 11421 tokens (3%) have a non-empty value of `NumForm`.
-2116 types (3%) occur at least once with a non-empty value of `NumForm`.
+2115 types (3%) occur at least once with a non-empty value of `NumForm`.
 1781 lemmas (4%) occur at least once with a non-empty value of `NumForm`.
 The feature is used with 4 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (8907; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2484; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (24; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (6; 0% instances).
 

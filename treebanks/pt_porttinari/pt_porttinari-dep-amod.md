@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6640 nodes (4%) are attached to their parents as `amod`.
+6643 nodes (4%) are attached to their parents as `amod`.
 
-4953 instances of `amod` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17198795180723.
+4956 instances of `amod` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.17191028149932.
 
-The following 6 pairs of parts of speech are connected with `amod`: <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (6204; 93% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (260; 4% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (143; 2% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (9; 0% instances).
+The following 6 pairs of parts of speech are connected with `amod`: <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (6207; 93% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (260; 4% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (143; 2% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (9; 0% instances).
 
 
 ~~~ conllu
@@ -37,7 +37,7 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 13	em	em	ADP	_	_	15	case	15:case	_
 14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	15:det	_
 15	mão	mão	NOUN	_	Gender=Fem|Number=Sing	12	nmod	12:nmod:em	SpaceAfter=No
-16	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -55,7 +55,7 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 5	em	em	ADP	_	_	7	case	7:case	_
 6	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	7:det	_
 7	domingo	domingo	NOUN	_	Gender=Masc|Number=Sing	4	obl	4:obl:em	SpaceAfter=No
-8	.	.	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 
@@ -80,7 +80,7 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 12	Temer	Temer	PROPN	_	_	10	vocative	10:vocative	SpaceAfter=No
 13	!	!	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
 14	"	"	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
-15	.	.	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+15	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 

@@ -30,7 +30,7 @@ The most frequent other feature values with which `X` and `Foreign` co-occurred:
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>X --[<tt><a href="sk_snk-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (81; 100%),
+<tt>X --[<tt><a href="sk_snk-dep-flat.html">flat</a></tt>]--> X</tt> (81; 100%),
 <tt>X --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> X</tt> (14; 93%),
 <tt>X --[<tt><a href="sk_snk-dep-case.html">case</a></tt>]--> X</tt> (12; 100%),
 <tt>X --[<tt><a href="sk_snk-dep-obl.html">obl</a></tt>]--> X</tt> (4; 100%),

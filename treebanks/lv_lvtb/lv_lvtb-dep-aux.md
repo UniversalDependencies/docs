@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="lv_lvtb-dep-aux-pass.html">aux:pass</a></tt>.
 
-2127 nodes (1%) are attached to their parents as `aux`.
+2151 nodes (1%) are attached to their parents as `aux`.
 
-2105 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.20310296191819.
+2128 instances of `aux` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.20502092050209.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (2075; 98% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (20; 1% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (2097; 97% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (21; 1% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,16 +35,18 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 aux	color:blue
-1	Metējs	metējs	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	LvtbNodeId=a-d211-p221s2w1
-2	nekad	nekad	ADV	r0n	PronType=Int,Neg	1	advmod	1:advmod	LvtbNodeId=a-d211-p221s2w2
-3	neesmu	būt	AUX	vcnipii1say	Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	1:aux	LvtbNodeId=a-d211-p221s2w3
-4	bijis	būt	AUX	vcnpdmsnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	aux	1:aux	LvtbNodeId=a-d211-p221s2w4|SpaceAfter=No
-5	.	.	PUNCT	zs	_	1	punct	1:punct	LvtbNodeId=a-d211-p221s2w5
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 aux	color:blue
+1	Diktātam	diktāts	NOUN	ncmsd1	Case=Dat|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	LvtbNodeId=a-d1292-p3s2w1
+2	jābūt	būt	AUX	vcnd0ii00an	Mood=Nec|Polarity=Pos|VerbForm=Fin|Voice=Act	6	aux	6:aux	LvtbNodeId=a-d1292-p3s2w2
+3	aptuveni	aptuveni	ADV	rpn	Degree=Pos	4	advmod	4:advmod	LvtbNodeId=a-d1292-p3s2w3
+4	trīssimt	trīssimt	NUM	mcsmpg	Case=Gen|Gender=Masc|Number=Plur|NumType=Card	5	nummod	5:nummod	LvtbNodeId=a-d1292-p3s2w4
+5	vārdu	vārds	NOUN	ncmpg1	Case=Gen|Gender=Masc|Number=Plur	6	obl	6:obl:gen	LvtbNodeId=a-d1292-p3s2w5
+6	garam	gars	NOUN	ncmsd1	Case=Dat|Gender=Masc|Number=Sing	0	root	0:root	LvtbNodeId=a-d1292-p3s2w6|SpaceAfter=No
+7	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-d1292-p3s2w7
 
 ~~~
 

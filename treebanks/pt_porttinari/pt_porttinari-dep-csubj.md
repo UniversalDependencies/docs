@@ -29,7 +29,7 @@ The following 18 pairs of parts of speech are connected with `csubj`: <tt><a hre
 4	falo	falar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	csubj	2:csubj	_
 5	sobre	sobre	ADP	_	_	6	case	6:case	_
 6	isso	isso	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	4	obl	4:obl:sobre	SpaceAfter=No
-7	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 
@@ -54,7 +54,7 @@ The following 18 pairs of parts of speech are connected with `csubj`: <tt><a hre
 12	sobre	sobre	ADP	_	_	14	case	14:case	_
 13	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	14:det	_
 14	caso	caso	NOUN	_	Gender=Masc|Number=Sing	11	nmod	11:nmod:sobre	SpaceAfter=No
-15	.	.	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+15	.	.	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 
@@ -76,7 +76,7 @@ The following 18 pairs of parts of speech are connected with `csubj`: <tt><a hre
 9	motivo	motivo	NOUN	_	Gender=Masc|Number=Sing	8	obj	8:obj	_
 10	para	para	ADP	_	_	11	mark	11:mark	_
 11	reclamar	reclamar	VERB	_	VerbForm=Inf	9	acl	9:acl:para	SpaceAfter=No
-12	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 

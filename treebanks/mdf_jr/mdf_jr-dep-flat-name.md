@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 2	Василь	Василь	PROPN	N	Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	1	appos	_	GTtags=Prop,Sg,Nom,Indef
 3	Васильевич	Васильевич	PROPN	N	Case=Nom|Definite=Ind|NameType=Pat|Number=Sing	2	flat:name	_	GTtags=Prop,Sem/Patr-Mal,Sg,Nom,Indef
 4	тонгондсь	тонгондомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
-5	котёлть	котёл	NOUN	N	Case=Gen|Definite=Def|Number=Sing	4	obl:lmod	_	GTtags=Sg,Gen,Def
+5	котёлть	котёл	NOUN	N	Case=Gen|Definite=Def|Number=Sing	4	obl	_	GTtags=Sg,Gen,Def
 6	алу	алу	ADP	Adp	Case=Lat	5	case	_	GTtags=Relator,SP,Lat,Indef
 7	досканят	доска	NOUN	N	Case=Nom|Definite=Ind|Degree=Dim|Number=Plur	4	obj	_	GTtags=Der/Dimin,N,Pl,Nom,Indef|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	4	punct	_	_

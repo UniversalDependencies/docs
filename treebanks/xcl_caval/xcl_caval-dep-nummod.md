@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-329 nodes (0%) are attached to their parents as `nummod`.
+366 nodes (0%) are attached to their parents as `nummod`.
 
-216 instances of `nummod` (66%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26747720364742.
+246 instances of `nummod` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.29781420765027.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (285; 87% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (15; 5% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (10; 3% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (9; 3% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (8; 2% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (2; 1% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (309; 84% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (17; 5% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (13; 4% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (12; 3% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (11; 3% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -57,25 +57,25 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 12 nummod	color:blue
-1	Ասէ	ասել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=Asē|LTranslit=asel|Gloss=say
-2	ց	ց	ADP	_	_	3	case	_	SpaceAfter=No|Translit=cʻ|LTranslit=cʻ|Gloss=to
-3	աշակերտս	աշակերտ	NOUN	_	Case=Acc|Number=Plur	1	obl:arg	_	SpaceAfter=No|Translit=ašakerts|LTranslit=ašakert|Gloss=disciple
-4	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	3	det	_	SpaceAfter=No|Translit=n|LTranslit=n|Gloss=that
-5	՝	՝	PUNCT	_	_	6	punct	_	Translit=;|LTranslit=;
-6	բազմեցուցէք	բազմեցուցանել	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Cau	1	ccomp	_	Translit=bazmecʻowcʻēkʻ|LTranslit=bazmecʻowcʻanel|Gloss=multiply
-7	զ	զ	ADP	_	Definite=Def	8	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-8	դոսա	դա	PRON	_	Case=Acc|Deixis=Med|Number=Plur|PronType=Dem	6	obj	_	Translit=dosa|LTranslit=da|Gloss=that_one
-9	դասս	դաս	NOUN	_	Case=Acc|Number=Plur	6	obl	_	Translit=dass|LTranslit=das|Gloss=lesson
-10	դասս	դաս	NOUN	_	Case=Acc|Number=Plur	9	compound:redup	_	SpaceAfter=No|Translit=dass|LTranslit=das|Gloss=lesson
-11	:	:	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.
-12	յիսուն	յիսուն	NUM	_	Case=Acc|Number=Sing|NumType=Dist	6	nummod	_	Translit=yisown|LTranslit=yisown|Gloss=fifty
-13	յիսուն	յիսուն	NUM	_	Case=Acc|Number=Sing|NumType=Dist	12	compound:redup	_	SpaceAfter=No|Translit=yisown|LTranslit=yisown|Gloss=fifty
-14	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 nummod	color:blue
+1	Եւ	եւ	CCONJ	_	_	8	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
+2	եին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	Translit=ein|LTranslit=em|Gloss=be
+3	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	4	nsubj	_	Translit=or|LTranslit=or|Gloss=who
+4	կերան	ուտել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	csubj	_	SpaceAfter=No|Translit=keran|LTranslit=owtel|Gloss=eat
+5	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	4	det	_	Translit=n|LTranslit=n|Gloss=that
+6	իբրեւ	իբրեւ	ADP	_	_	8	case	_	Translit=ibrew|LTranslit=ibrew|Gloss=like
+7	չորք	չորք	NUM	_	Case=Nom|Number=Sing|NumType=Card	8	nummod	_	Translit=čʻorkʻ|LTranslit=čʻorkʻ|Gloss=four
+8	հազարք	հազար	NUM	_	Case=Nom|Number=Plur|NumType=Card	0	root	_	SpaceAfter=No|Translit=hazarkʻ|LTranslit=hazar|Gloss=thousand
+9	.	.	PUNCT	_	_	11	punct	_	Translit=:|LTranslit=:
+10	եւ	եւ	CCONJ	_	_	11	cc	_	Translit=ew|LTranslit=ew|Gloss=and
+11	արձակեաց	արձակել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	ccomp	_	Translit=arjakeacʻ|LTranslit=arjakel|Gloss=release
+12	զ	զ	ADP	_	Definite=Def	13	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+13	նոսա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Plur|PronType=Dem	11	obj	_	SpaceAfter=No|Translit=nosa|LTranslit=na|Gloss=he/she/it
+14	:	:	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

@@ -10,9 +10,9 @@ This feature is universal but the values `Count` are language-specific.
 It occurs with 4 different values: `Count`, `Dual`, `Plur`, `Sing`.
 
 12848 tokens (47%) have a non-empty value of `Number`.
-8889 types (78%) occur at least once with a non-empty value of `Number`.
+8890 types (78%) occur at least once with a non-empty value of `Number`.
 3483 lemmas (74%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (4719; 17% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (2683; 10% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2300; 8% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (1011; 4% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (882; 3% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (693; 3% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (357; 1% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (203; 1% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (4719; 17% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (2684; 10% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2300; 8% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (1010; 4% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (882; 3% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (693; 3% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (357; 1% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (203; 1% instances).
 
 ### `NOUN`
 
@@ -39,14 +39,14 @@ The feature is used with 8 part-of-speech tags: <tt><a href="orv_birchbark-pos-N
 
 ### `PROPN`
 
-2683 <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> tokens (97% of all `PROPN` tokens) have a non-empty value of `Number`.
+2684 <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> tokens (97% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="orv_birchbark-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (2268; 85%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2171; 81%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (87; 3% of non-empty `Number`): <em>кшетахъ, мълъвотицѣхъ, озеревахъ, шидовицихъ, (д)[орож]иньжичь, [п]елем<lbr/>чѧхъ, алюѥвиць, братиловиць, бриханици, вавоцо</em>
-* `Sing` (2596; 97% of non-empty `Number`): <em>ивана, петра, бориса, евана, мариѧ, степана, павла, смена, завида, лѹкѣ</em>
+* `Sing` (2597; 97% of non-empty `Number`): <em>ивана, петра, бориса, евана, мариѧ, степана, павла, смена, завида, лѹкѣ</em>
 * `EMPTY` (81): <em>в…, ж…, ли…, мароѳу, м…, са…, (к)оромилице, (…)турки(нѣ), -------, -осогорꙋ</em>
 
 <table>
@@ -55,7 +55,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>лѹках[о]</em></td><td><em>лѹкахъ</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (1387) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (1388) occur only with one value of `Number`.
 
 ### `VERB`
 
@@ -93,15 +93,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-1011 <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> tokens (80% of all `PRON` tokens) have a non-empty value of `Number`.
+1010 <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> tokens (80% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1007; 100%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (867; 86%), <tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (805; 80%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1006; 100%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (866; 86%), <tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (804; 80%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Dual` (12; 1% of non-empty `Number`): <em>ва, (вꙑ, в[а]ю, ва:ма, вꙑ, на, нама, нѧ</em>
 * `Plur` (126; 12% of non-empty `Number`): <em>намъ, насъ, вꙑ, вамъ, вамо, мꙑ, васо, васъ, имъ, намо</em>
-* `Sing` (873; 86% of non-empty `Number`): <em>ми, тꙑ, ти, ѧ, мене, тобѣ, мнѣ, ѧзъ, мѧ, тѧ</em>
+* `Sing` (872; 86% of non-empty `Number`): <em>ми, тꙑ, ти, ѧ, мене, тобѣ, мнѣ, ѧзъ, мѧ, тѧ</em>
 * `EMPTY` (254): <em>сѧ, что, цто, собѣ, цето, се, себе, цо, кого, себѣ</em>
 
 <table>
@@ -258,7 +258,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>PROPN --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> PROPN</tt> (490; 92%),
-<tt>VERB --[<tt><a href="orv_birchbark-dep-obj.html">obj</a></tt>]--> NOUN</tt> (423; 52%),
+<tt>VERB --[<tt><a href="orv_birchbark-dep-obj.html">obj</a></tt>]--> NOUN</tt> (424; 52%),
 <tt>NOUN --[<tt><a href="orv_birchbark-dep-amod.html">amod</a></tt>]--> ADJ</tt> (403; 94%),
 <tt>NOUN --[<tt><a href="orv_birchbark-dep-det.html">det</a></tt>]--> DET</tt> (341; 96%),
 <tt>NOUN --[<tt><a href="orv_birchbark-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (298; 92%),

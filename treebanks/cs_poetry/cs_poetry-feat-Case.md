@@ -192,14 +192,14 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="cs_poetry-dep-case.html">case</a></tt>]--> ADP</tt> (437; 98%),
-<tt>NOUN --[<tt><a href="cs_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (412; 97%),
-<tt>NOUN --[<tt><a href="cs_poetry-dep-det.html">det</a></tt>]--> DET</tt> (161; 83%),
+<tt>NOUN --[<tt><a href="cs_poetry-dep-case.html">case</a></tt>]--> ADP</tt> (438; 98%),
+<tt>NOUN --[<tt><a href="cs_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (413; 97%),
+<tt>NOUN --[<tt><a href="cs_poetry-dep-det.html">det</a></tt>]--> DET</tt> (163; 84%),
 <tt>NOUN --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> NOUN</tt> (121; 96%),
 <tt>PRON --[<tt><a href="cs_poetry-dep-case.html">case</a></tt>]--> ADP</tt> (64; 98%),
 <tt>ADJ --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (38; 97%),
 <tt>NOUN --[<tt><a href="cs_poetry-dep-appos.html">appos</a></tt>]--> NOUN</tt> (20; 83%),
-<tt>DET --[<tt><a href="cs_poetry-dep-case.html">case</a></tt>]--> ADP</tt> (14; 100%),
+<tt>DET --[<tt><a href="cs_poetry-dep-case.html">case</a></tt>]--> ADP</tt> (15; 100%),
 <tt>PROPN --[<tt><a href="cs_poetry-dep-case.html">case</a></tt>]--> ADP</tt> (12; 92%),
 <tt>PROPN --[<tt><a href="cs_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9; 100%).
 

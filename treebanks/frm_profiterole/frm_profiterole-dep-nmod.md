@@ -8,80 +8,69 @@ udver: '2'
 
 This relation is universal.
 
-678 nodes (6%) are attached to their parents as `nmod`.
+3137 nodes (5%) are attached to their parents as `nmod`.
 
-665 instances of `nmod` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.57964601769911.
+3037 instances of `nmod` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.55594517054511.
 
-The following 17 pairs of parts of speech are connected with `nmod`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (278; 41% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (267; 39% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (43; 6% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (26; 4% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (20; 3% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 35 pairs of parts of speech are connected with `nmod`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1344; 43% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (1304; 42% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (104; 3% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (102; 3% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (64; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (60; 2% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (21; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (16; 1% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (15; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (13; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 11 nmod	color:blue
-1	Il	il	PRON	PROper	PronType=Prs	2	nsubj	_	XmlId=w_32_02159
-2	donnoit	donner	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_02160
-3	charge	charge	NOUN	NOMcom	_	2	obj	_	XmlId=w_32_02161
-4	de	de	ADP	PRE	_	6	case	_	XmlId=w_32_02162
-5	ceste	cist	DET	DETdem	PronType=Dem	6	det	_	XmlId=w_32_02163
-6	matière	matière	NOUN	NOMcom	_	3	nmod	_	XmlId=w_32_02164
-7	à	à	ADP	PRE	_	9	case	_	XmlId=w_32_02165
-8	ceste	cist	DET	DETdem	PronType=Dem	9	det	_	XmlId=w_32_02166
-9	maison	maison	NOUN	NOMcom	_	2	obl	_	XmlId=w_32_02167
-10	de	de	ADP	PRE	_	11	case	_	XmlId=w_32_02168
-11	Crouy	Croÿ	PROPN	NOMpro	_	9	nmod	_	XmlId=w_32_02169
-12	;	;	PUNCT	PONfbl	_	2	punct	_	XmlId=w_32_02170
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 nmod	color:blue
+1	mais	mais1	CCONJ	CONcoo	_	11	cc:nc	_	XmlId=w_32_02442
+2	le	le	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_32_02443
+3	neu	noeud	NOUN	NOMcom	_	11	nsubj	_	XmlId=w_32_02444
+4	de	de	ADP	PRE	_	6	case	_	XmlId=w_32_02445
+5	ceste	cist	DET	DETdem	PronType=Dem	6	det	_	XmlId=w_32_02446
+6	matière	matière	NOUN	NOMcom	_	3	nmod	_	XmlId=w_32_02447
+7	ne	ne1	ADV	ADVneg	PronType=Neg	11	advmod	_	XmlId=w_32_02448
+8	luy	lui	PRON	PROper	PronType=Prs	11	iobj	_	XmlId=w_32_02449
+9	fut	être	AUX	VERcjg	VerbForm=Fin	11	aux:pass	_	XmlId=w_32_02450
+10	jamais	jamais	ADV	ADVgen	_	11	advmod	_	XmlId=w_32_02451
+11	descouvert	découvrir	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_32_02452
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 9 11 nmod	color:blue
-1	«	«	PUNCT	PONpga	_	2	punct	_	XmlId=w_32_01934
-2	Recommandez	recommander	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_01935
-3	moy	moi	PRON	PROper	PronType=Prs	2	obj	_	XmlId=w_32_01936
-4	très	très	ADV	ADVgen	_	5	advmod	_	XmlId=w_32_01937
-5	humblement	humblement	ADV	ADVgen	_	2	advmod	_	XmlId=w_32_01938
-6	à	à	ADP	PRE	_	9	case	_	XmlId=w_32_01939
-7	la	le	DET	DETdef	Definite=Def|PronType=Art	9	det	_	XmlId=w_32_01940
-8	bone	bon	ADJ	ADJqua	_	9	amod	_	XmlId=w_32_01941
-9	grace	grâce	NOUN	NOMcom	_	2	obl	_	XmlId=w_32_01942
-10	du	de.le	ADP	PRE.DETdef	_	11	case:det	_	XmlId=w_32_01943
-11	roy	roi1	NOUN	NOMcom	_	9	nmod	_	SpaceAfter=No|XmlId=w_32_01944
-12	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_32_01945
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 nmod	color:blue
+1	Ceulx	cil	PRON	PROdem	PronType=Dem	4	nsubj	_	XmlId=w_32_06580
+2	du	de.le	ADP	PRE.DETdef	_	3	case:det	_	XmlId=w_32_06581
+3	roy	roi1	NOUN	NOMcom	_	1	nmod	_	XmlId=w_32_06582
+4	estoient	être	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_06583
+5	vers	vers2	ADP	PRE	_	7	case	_	XmlId=w_32_06584
+6	le	le	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_32_06585
+7	chasteau	château	NOUN	NOMcom	_	4	obl	_	XmlId=w_32_06586
+8	de	de	ADP	PRE	_	9	case	_	XmlId=w_32_06587
+9	Montlehery	Montlhéry	PROPN	NOMpro	_	7	nmod	_	XmlId=w_32_06588
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 11 nmod	color:blue
-1	Cy	ci1	ADV	ADVgen	_	2	advmod	_	XmlId=w_42_00001
-2	commence	commencer	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_00002
-3	ung	un	DET	DETndf	Definite=Ind|PronType=Art	7	det	_	XmlId=w_42_00003
-4	noble	noble1	ADJ	ADJqua	_	7	amod	_	XmlId=w_42_00004
-5	et	et	CCONJ	CONcoo	_	6	cc	_	XmlId=w_42_00005
-6	tresexcellent	excellent	ADJ	ADJqua	_	4	conj	_	XmlId=w_42_00006
-7	romant	roman	NOUN	NOMcom	_	2	nsubj	_	XmlId=w_42_00007
-8	nommé	nommer	VERB	VERppe	Tense=Past|VerbForm=Part	7	acl	_	XmlId=w_42_00008
-9	Jehan	Jean	PROPN	NOMpro	_	8	xcomp	_	XmlId=w_42_00009
-10	de	de	ADP	PRE	_	11	case	_	XmlId=w_42_00010
-11	Paris	Paris	PROPN	NOMpro	_	9	nmod	_	SpaceAfter=No|XmlId=w_42_00011
-12	,	,	PUNCT	PONfbl	_	9	punct	_	XmlId=w_42_00012
-13	roy	roi1	NOUN	NOMcom	_	9	appos	_	XmlId=w_42_00013
-14	de	de	ADP	PRE	_	15	case	_	XmlId=w_42_00014
-15	France	France	PROPN	NOMpro	_	13	nmod	_	SpaceAfter=No|XmlId=w_42_00015
-16	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_42_00016
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 nmod	color:blue
+1	Ceulx	cil	PRON	PROdem	PronType=Dem	4	nsubj	_	XmlId=w_32_06580
+2	du	de.le	ADP	PRE.DETdef	_	3	case:det	_	XmlId=w_32_06581
+3	roy	roi1	NOUN	NOMcom	_	1	nmod	_	XmlId=w_32_06582
+4	estoient	être	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_06583
+5	vers	vers2	ADP	PRE	_	7	case	_	XmlId=w_32_06584
+6	le	le	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_32_06585
+7	chasteau	château	NOUN	NOMcom	_	4	obl	_	XmlId=w_32_06586
+8	de	de	ADP	PRE	_	9	case	_	XmlId=w_32_06587
+9	Montlehery	Montlhéry	PROPN	NOMpro	_	7	nmod	_	XmlId=w_32_06588
 
 ~~~
 

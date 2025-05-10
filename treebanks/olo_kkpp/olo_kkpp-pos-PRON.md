@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>kai</em> (<tt><a href="olo_kkpp-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.000000 (the average of all parts of speech is 1.335034).
+The form / lemma ratio of `PRON` is 2.000000 (the average of all parts of speech is 1.337308).
 
 The 1st highest number of forms (6) was observed with the lemma “häi”: <em>hyö, häi, händy, hänele, hänen, hänes</em>.
 

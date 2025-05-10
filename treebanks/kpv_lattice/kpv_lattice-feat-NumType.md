@@ -6,8 +6,9 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Features: `NumType`
 
-This feature is universal but the values `Appr`, `OrdMult` are language-specific.
-It occurs with 7 different values: `Appr`, `Card`, `Dist`, `Mult`, `Ord`, `OrdMult`, `Sets`.
+This feature is universal but the values `Appr` are language-specific.
+It occurs with 6 different values: `Appr`, `Card`, `Dist`, `Mult`, `Ord`, `Sets`.
+Some words have combined values of the feature; 1 combinations have been observed: `Mult|Ord`.
 
 99 tokens (1%) have a non-empty value of `NumType`.
 55 types (2%) occur at least once with a non-empty value of `NumType`.
@@ -40,12 +41,12 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Dist` (3; 23% of non-empty `NumType`): <em>кыкӧныс, Унаӧнӧсь, быдсӧн</em>
 * `Mult` (8; 62% of non-empty `NumType`): <em>унаысь, ӧтчыд, Гоз-мӧдысь, выльысь, кыкысь, мӧдысь</em>
-* `OrdMult` (2; 15% of non-empty `NumType`): <em>гоз-мӧдысь, мӧдысь</em>
+* `Mult,Ord` (2; 15% of non-empty `NumType`): <em>гоз-мӧдысь, мӧдысь</em>
 * `EMPTY` (863): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, кыдзи, пыр, бара</em>
 
 <table>
-  <tr><th>Paradigm <i>гоз-мӧдысь</i></th><th><tt>Mult</tt></th><th><tt>OrdMult</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>Гоз-мӧдысь</em></td><td><em>гоз-мӧдысь</em></td></tr>
+  <tr><th>Paradigm <i>гоз-мӧдысь</i></th><th><tt>Mult,Ord</tt></th><th><tt>Mult</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>гоз-мӧдысь</em></td><td><em>Гоз-мӧдысь</em></td></tr>
 </table>
 
 ### `PRON`

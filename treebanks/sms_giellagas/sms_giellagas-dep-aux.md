@@ -7,14 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: Relations: `aux`
 
 This relation is universal.
-There are 2 language-specific subtypes of `aux`: <tt><a href="sms_giellagas-dep-aux-nec.html">aux:nec</a></tt>, <tt><a href="sms_giellagas-dep-aux-tense.html">aux:tense</a></tt>.
 
-77 nodes (3%) are attached to their parents as `aux`.
+100 nodes (3%) are attached to their parents as `aux`.
 
-73 instances of `aux` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.48051948051948.
+94 instances of `aux` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.45.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (68; 88% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (4; 5% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (3; 4% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (91; 91% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (4; 4% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,10 +22,10 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 aux	color:blue
-1	Måttmešt	måttmešt	ADV	Adv	_	2	advmod:tmod	_	_
+1	Måttmešt	måttmešt	ADV	Adv	_	2	advmod	_	_
 2	vaʹlddem	väʹldded	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg1
 3	di	di	CCONJ	CC	_	5	cc	_	_
-4	teä	teä	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	GTtags=Sem/Time
+4	teä	teä	ADV	Adv	AdvType=Tim	5	advmod	_	GTtags=Sem/Time
 5	koǯǯâm	koǯǯâd	VERB	V	Aspect=Perf|VerbForm=Part	2	conj	_	GTtags=Act,PrfPrc
 6	leäk	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	5	aux	_	GTtags=Ind,Prs,Sg2
 7	tueʹllj	tueʹllj	NOUN	N	Case=Acc|Number=Sing	5	obj	_	GTtags=Sg,Acc|SpaceAfter=No
@@ -42,7 +41,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 13	fgColor:white
 # visual-style 13 12 aux	color:blue
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	GTtags=Pers,Sg3,Nom
-2	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	3	obl:lmod	_	GTtags=Sg,Loc
+2	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	3	obl	_	GTtags=Sg,Loc
 3	jåått	jååʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
 4	de	de	CCONJ	CC	_	6	cc	_	_
 5	kooʹddid	kåʹdd	NOUN	N	Case=Acc|Number=Plur	6	obj	_	GTtags=Pl,Acc

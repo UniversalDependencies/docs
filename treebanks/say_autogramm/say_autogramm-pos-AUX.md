@@ -64,11 +64,11 @@ The form / lemma ratio of `AUX` is 120.000000 (the average of all parts of speec
 
 The 1st highest number of forms (120) was observed with the lemma “_”: <em>_, gə, gə́, ka, kiɣá, kiː, kyàː, kyàːyi, kyáː, kyǎː, k~, ká, káyi, káː, káːtá, kìɣá, kìː, kíː, kîː, kə, kənáː, kətá, kətáyáː, kə̀tà, kə̀tàyáː, kə́, ma, mayi, miɣá, miː, myàː, myàːnaː, myàːyi, myàːyí, myáː, myáːnaː, myáːyi, myǎː, myǎːyi, m~, màː, màːtá, má, máː, máːtá, máːyí, mìyǎː, mìɣá, mìː, míta, míyàː, míyí, mîː, mǎː, mə, mənáyáː, mənáː, mənáːyáː, mətá, mətáyáː, mə̀, mə̀tà, mə̀tàyiɣá, mə̀tàyáː, mə̀yi, mə́, ta, t~, tà, tàyáː, tàː, tàːtá, tá, táyi, tâ, tìyǎː, tíyí, tíː, tîː, tə̀, tə̀tà, tə̀tàyáː, tə̀yì, tə́, wò, yi, yiː, yáː, yáːyi, yǎː, àː, àːtá, àːyí, á, átayáː, átá, átâ, átâyáː, áyí, áyǎː, âː, ǎːy, ɣa, ɣá, ɣə, ɣə́, ʃèː, ʧàː, ʧàːyi, ʧàːyí, ʧáː, ʧáːyi, ʧìɣá, ʧìː, ʧínaː, ʧíyí, ʧíyǎː, ʧíː, ʧîː, ʧǎː</em>.
 
-`AUX` occurs with 5 features: <tt><a href="say_autogramm-feat-Number.html">Number</a></tt> (2198; 96% instances), <tt><a href="say_autogramm-feat-Person.html">Person</a></tt> (2197; 96% instances), <tt><a href="say_autogramm-feat-Aspect.html">Aspect</a></tt> (1232; 54% instances), <tt><a href="say_autogramm-feat-Tense.html">Tense</a></tt> (676; 30% instances), <tt><a href="say_autogramm-feat-Mood.html">Mood</a></tt> (424; 19% instances)
+`AUX` occurs with 6 features: <tt><a href="say_autogramm-feat-Number.html">Number</a></tt> (2198; 96% instances), <tt><a href="say_autogramm-feat-Person.html">Person</a></tt> (2197; 96% instances), <tt><a href="say_autogramm-feat-Aspect.html">Aspect</a></tt> (1232; 54% instances), <tt><a href="say_autogramm-feat-Tense.html">Tense</a></tt> (676; 30% instances), <tt><a href="say_autogramm-feat-Mood.html">Mood</a></tt> (424; 19% instances), <tt><a href="say_autogramm-feat-ExtPos.html">ExtPos</a></tt> (3; 0% instances)
 
-`AUX` occurs with 19 feature-value pairs: `Aspect=Aor`, `Aspect=Conc`, `Aspect=Imp`, `Aspect=ImpIter`, `Aspect=Iter`, `Aspect=Perf`, `Aspect=Prog`, `Mood=Cnd`, `Mood=Irr`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imm`, `Tense=Rec`, `Tense=Rem`
+`AUX` occurs with 21 feature-value pairs: `Aspect=Aor`, `Aspect=Conc`, `Aspect=Imp`, `Aspect=ImpIter`, `Aspect=Iter`, `Aspect=Perf`, `Aspect=Prog`, `ExtPos=ADV`, `ExtPos=AUX`, `Mood=Cnd`, `Mood=Irr`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imm`, `Tense=Rec`, `Tense=Rem`
 
-`AUX` occurs with 103 feature combinations.
+`AUX` occurs with 105 feature combinations.
 The most frequent feature combination is `Aspect=Aor|Number=Sing|Person=3` (179 tokens).
 Examples: <em>á, tə́</em>
 

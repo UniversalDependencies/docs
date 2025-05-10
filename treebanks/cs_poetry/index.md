@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Silvie Cinková.
 
 Repository: [UD_Czech-Poetry](https://github.com/UniversalDependencies/UD_Czech-Poetry)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_poetry215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_poetry216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -70,11 +70,11 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
 
 ## Features
 
-[AdpType](cs_poetry-feat-AdpType.html) – [Animacy](cs_poetry-feat-Animacy.html) – [Aspect](cs_poetry-feat-Aspect.html) – [Case](cs_poetry-feat-Case.html) – [Degree](cs_poetry-feat-Degree.html) – [Foreign](cs_poetry-feat-Foreign.html) – [Gender](cs_poetry-feat-Gender.html) – [Gender[psor]](cs_poetry-feat-Gender-psor.html) – [Mood](cs_poetry-feat-Mood.html) – [NameType](cs_poetry-feat-NameType.html) – [Number](cs_poetry-feat-Number.html) – [Number[psor]](cs_poetry-feat-Number-psor.html) – [NumForm](cs_poetry-feat-NumForm.html) – [NumType](cs_poetry-feat-NumType.html) – [Person](cs_poetry-feat-Person.html) – [Polarity](cs_poetry-feat-Polarity.html) – [Poss](cs_poetry-feat-Poss.html) – [PrepCase](cs_poetry-feat-PrepCase.html) – [PronType](cs_poetry-feat-PronType.html) – [Reflex](cs_poetry-feat-Reflex.html) – [Style](cs_poetry-feat-Style.html) – [Tense](cs_poetry-feat-Tense.html) – [Typo](cs_poetry-feat-Typo.html) – [Variant](cs_poetry-feat-Variant.html) – [VerbForm](cs_poetry-feat-VerbForm.html) – [Voice](cs_poetry-feat-Voice.html)
+[AdpType](cs_poetry-feat-AdpType.html) – [Animacy](cs_poetry-feat-Animacy.html) – [Aspect](cs_poetry-feat-Aspect.html) – [Case](cs_poetry-feat-Case.html) – [Degree](cs_poetry-feat-Degree.html) – [ExtPos](cs_poetry-feat-ExtPos.html) – [Foreign](cs_poetry-feat-Foreign.html) – [Gender](cs_poetry-feat-Gender.html) – [Gender[psor]](cs_poetry-feat-Gender-psor.html) – [Mood](cs_poetry-feat-Mood.html) – [NameType](cs_poetry-feat-NameType.html) – [Number](cs_poetry-feat-Number.html) – [Number[psor]](cs_poetry-feat-Number-psor.html) – [NumForm](cs_poetry-feat-NumForm.html) – [NumType](cs_poetry-feat-NumType.html) – [Person](cs_poetry-feat-Person.html) – [Polarity](cs_poetry-feat-Polarity.html) – [Poss](cs_poetry-feat-Poss.html) – [PrepCase](cs_poetry-feat-PrepCase.html) – [PronType](cs_poetry-feat-PronType.html) – [Reflex](cs_poetry-feat-Reflex.html) – [Style](cs_poetry-feat-Style.html) – [Tense](cs_poetry-feat-Tense.html) – [Typo](cs_poetry-feat-Typo.html) – [Variant](cs_poetry-feat-Variant.html) – [VerbForm](cs_poetry-feat-VerbForm.html) – [Voice](cs_poetry-feat-Voice.html)
 
 ## Relations
 
-[acl](cs_poetry-dep-acl.html) – [acl:relcl](cs_poetry-dep-acl-relcl.html) – [advcl](cs_poetry-dep-advcl.html) – [advmod](cs_poetry-dep-advmod.html) – [advmod:emph](cs_poetry-dep-advmod-emph.html) – [amod](cs_poetry-dep-amod.html) – [appos](cs_poetry-dep-appos.html) – [aux](cs_poetry-dep-aux.html) – [aux:pass](cs_poetry-dep-aux-pass.html) – [case](cs_poetry-dep-case.html) – [cc](cs_poetry-dep-cc.html) – [ccomp](cs_poetry-dep-ccomp.html) – [conj](cs_poetry-dep-conj.html) – [cop](cs_poetry-dep-cop.html) – [csubj](cs_poetry-dep-csubj.html) – [dep](cs_poetry-dep-dep.html) – [det](cs_poetry-dep-det.html) – [det:numgov](cs_poetry-dep-det-numgov.html) – [det:nummod](cs_poetry-dep-det-nummod.html) – [discourse](cs_poetry-dep-discourse.html) – [expl:pass](cs_poetry-dep-expl-pass.html) – [expl:pv](cs_poetry-dep-expl-pv.html) – [fixed](cs_poetry-dep-fixed.html) – [flat](cs_poetry-dep-flat.html) – [flat:foreign](cs_poetry-dep-flat-foreign.html) – [iobj](cs_poetry-dep-iobj.html) – [mark](cs_poetry-dep-mark.html) – [nmod](cs_poetry-dep-nmod.html) – [nsubj](cs_poetry-dep-nsubj.html) – [nsubj:pass](cs_poetry-dep-nsubj-pass.html) – [nummod](cs_poetry-dep-nummod.html) – [nummod:gov](cs_poetry-dep-nummod-gov.html) – [obj](cs_poetry-dep-obj.html) – [obl](cs_poetry-dep-obl.html) – [obl:agent](cs_poetry-dep-obl-agent.html) – [obl:arg](cs_poetry-dep-obl-arg.html) – [orphan](cs_poetry-dep-orphan.html) – [parataxis](cs_poetry-dep-parataxis.html) – [punct](cs_poetry-dep-punct.html) – [root](cs_poetry-dep-root.html) – [vocative](cs_poetry-dep-vocative.html) – [xcomp](cs_poetry-dep-xcomp.html)
+[acl](cs_poetry-dep-acl.html) – [acl:relcl](cs_poetry-dep-acl-relcl.html) – [advcl](cs_poetry-dep-advcl.html) – [advmod](cs_poetry-dep-advmod.html) – [advmod:emph](cs_poetry-dep-advmod-emph.html) – [amod](cs_poetry-dep-amod.html) – [appos](cs_poetry-dep-appos.html) – [aux](cs_poetry-dep-aux.html) – [aux:pass](cs_poetry-dep-aux-pass.html) – [case](cs_poetry-dep-case.html) – [cc](cs_poetry-dep-cc.html) – [ccomp](cs_poetry-dep-ccomp.html) – [compound](cs_poetry-dep-compound.html) – [conj](cs_poetry-dep-conj.html) – [cop](cs_poetry-dep-cop.html) – [csubj](cs_poetry-dep-csubj.html) – [dep](cs_poetry-dep-dep.html) – [det](cs_poetry-dep-det.html) – [det:numgov](cs_poetry-dep-det-numgov.html) – [det:nummod](cs_poetry-dep-det-nummod.html) – [discourse](cs_poetry-dep-discourse.html) – [expl:pass](cs_poetry-dep-expl-pass.html) – [expl:pv](cs_poetry-dep-expl-pv.html) – [fixed](cs_poetry-dep-fixed.html) – [flat](cs_poetry-dep-flat.html) – [iobj](cs_poetry-dep-iobj.html) – [mark](cs_poetry-dep-mark.html) – [nmod](cs_poetry-dep-nmod.html) – [nsubj](cs_poetry-dep-nsubj.html) – [nsubj:pass](cs_poetry-dep-nsubj-pass.html) – [nummod](cs_poetry-dep-nummod.html) – [nummod:gov](cs_poetry-dep-nummod-gov.html) – [obj](cs_poetry-dep-obj.html) – [obl](cs_poetry-dep-obl.html) – [obl:agent](cs_poetry-dep-obl-agent.html) – [obl:arg](cs_poetry-dep-obl-arg.html) – [orphan](cs_poetry-dep-orphan.html) – [parataxis](cs_poetry-dep-parataxis.html) – [punct](cs_poetry-dep-punct.html) – [root](cs_poetry-dep-root.html) – [vocative](cs_poetry-dep-vocative.html) – [xcomp](cs_poetry-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -923,6 +923,29 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: u</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADV: Co</li>
+          <li>NOUN: den, týden</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>CCONJ: i</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -1057,10 +1080,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
       <li>VERB-Fin--NOUN-Nom (140)</li>
-      <li>VERB-Fin--PRON-Nom (40)</li>
+      <li>VERB-Fin--PRON-Nom (41)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
-      <li>VERB-Part--NOUN-Nom (81)</li>
-      <li>VERB-Part--PRON-Nom (21)</li>
+      <li>VERB-Part--NOUN-Nom (80)</li>
+      <li>VERB-Part--PRON-Nom (22)</li>
     </ul>
   </li>
 </ul>
@@ -1112,7 +1135,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

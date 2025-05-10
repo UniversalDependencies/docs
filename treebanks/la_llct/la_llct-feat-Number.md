@@ -212,7 +212,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> DET</tt> (15859; 100%),
+<tt>NOUN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> DET</tt> (15601; 99%),
 <tt>VERB --[<tt><a href="la_llct-dep-obl.html">obl</a></tt>]--> NOUN</tt> (7012; 58%),
 <tt>PROPN --[<tt><a href="la_llct-dep-appos.html">appos</a></tt>]--> NOUN</tt> (6799; 96%),
 <tt>NOUN --[<tt><a href="la_llct-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6323; 99%),

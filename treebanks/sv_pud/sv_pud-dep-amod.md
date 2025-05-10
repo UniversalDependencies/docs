@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1245 nodes (7%) are attached to their parents as `amod`.
+1253 nodes (7%) are attached to their parents as `amod`.
 
-1240 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.14859437751004.
+1249 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.15083798882682.
 
-The following 14 pairs of parts of speech are connected with `amod`: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1173; 94% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (41; 3% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `amod`: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1180; 94% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (42; 3% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,7 +42,7 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 12	fgColor:white
 # visual-style 12 11 amod	color:blue
 1	Trots	trots	ADP	PP	_	2	case	2:case	_
-2	detta	detta	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing	3	obl	3:obl:trots	_
+2	detta	denna	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	3	obl	3:obl:trots	_
 3	verkar	verka	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	de	de	PRON	PN|UTR/NEU|PLU|DEF|SUB	Case=Nom|Definite=Def|Number=Plur|PronType=Prs	3	nsubj	3:nsubj|7:nsubj	_
 5	båda	båda	PRON	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Definite=Def|Number=Plur|PronType=Tot	3	acl	3:acl	_
@@ -59,26 +59,22 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 13 amod	color:blue
-1	I	i	ADP	PP	_	2	case	2:case	_
-2	morse	morse	NOUN	NN|-|-|-|-	_	3	nmod	3:nmod:i	_
-3	mötte	möta	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-4	Påve	påve	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	5	nmod	5:nmod	_
-5	Franciskus	Franciskus	PROPN	PM|NOM	Case=Nom	3	nsubj	3:nsubj	_
-6	Mark	Mark	PROPN	PM|NOM	Case=Nom	3	obj	3:obj	_
-7	Zuckerberg	Zuckerberg	PROPN	PM|NOM	Case=Nom	6	flat:name	6:flat:name	_
-8	och	och	CCONJ	KN	_	10	cc	10:cc	_
-9	hans	hans	PRON	PS|UTR/NEU|SIN/PLU|DEF	Definite=Def|Poss=Yes	10	nmod:poss	10:nmod:poss	_
-10	fru	fru	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	6	conj	3:obj|6:conj:och	_
-11	vid	vid	ADP	PP	_	12	case	12:case	_
-12	Casa	Casa	PROPN	PM|NOM	Case=Nom	3	obl	3:obl:vid	_
-13	Santa	Santa	PROPN	PM|NOM	Case=Nom	14	amod	14:amod	_
-14	Marta	Marta	PROPN	PM|NOM	Case=Nom	12	nmod	12:nmod	SpaceAfter=No
-15	.	.	PUNCT	MAD	_	3	punct	3:punct	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 amod	color:blue
+1	Om	om	SCONJ	SN	_	5	mark	5:mark	_
+2	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	4	det	4:det	_
+3	turkisk	turkisk	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	4	amod	4:amod	_
+4	anställd	anställd	ADJ	PC|PRF|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part	5	nsubj	5:nsubj	_
+5	slutar	sluta	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	7:advcl	_
+6	så	så	ADV	AB	_	7	advcl	7:advcl	_
+7	kommer	komma	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+8	de	de	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur|PronType=Art	10	det	10:det	_
+9	turkiska	turkisk	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	10	amod	10:amod	_
+10	arbetsråden	arbetsråd	NOUN	NN|NEU|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	7	nsubj	7:nsubj	SpaceAfter=No
+11	.	.	PUNCT	MAD	_	7	punct	7:punct	_
 
 ~~~
 

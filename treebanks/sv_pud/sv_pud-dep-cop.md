@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-343 nodes (2%) are attached to their parents as `cop`.
+353 nodes (2%) are attached to their parents as `cop`.
 
-332 instances of `cop` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.36734693877551.
+341 instances of `cop` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.39093484419263.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (157; 46% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (141; 41% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (16; 5% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (12; 3% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (11; 3% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (159; 45% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (141; 40% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (21; 6% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (12; 3% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (11; 3% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (4; 1% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 1	Det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	5	nsubj	5:nsubj	_
 2	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	5:cop	_
 3	som	som	SCONJ	KN	_	5	mark	5:mark	_
-4	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing	5	det	5:det	_
+4	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	5	det	5:det	_
 5	superkraft	superkraft	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	0:root	_
 6	ibland	ibland	ADV	AB	_	5	advmod	5:advmod	SpaceAfter=No
 7	.	.	PUNCT	MAD	_	5	punct	5:punct	_
@@ -39,12 +39,12 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 14 cop	color:blue
-1	Det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	3	obj	3:obj	_
-2	hon	hon	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing	3	nsubj	3:nsubj	_
-3	säger	säga	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	15	dislocated	15:dislocated	_
+1	Det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	15	dislocated	15:dislocated	_
+2	hon	hon	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	3	nsubj	3:nsubj	_
+3	säger	säga	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	1:acl:relcl	_
 4	och	och	CCONJ	KN	_	7	cc	7:cc	_
 5	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	7	obj	7:obj	_
-6	hon	hon	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	nsubj	7:nsubj	_
+6	hon	hon	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	7	nsubj	7:nsubj	_
 7	gör	göra	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	3:conj:och	SpaceAfter=No
 8	,	,	PUNCT	MID	_	3	punct	3:punct	_
 9	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	15	dislocated	15:dislocated	_

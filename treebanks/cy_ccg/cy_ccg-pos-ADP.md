@@ -61,32 +61,32 @@ The 2nd highest number of forms (4) was observed with the lemma “yn”: <em>'n
 
 The 3rd highest number of forms (3) was observed with the lemma “gan”: <em>chan, gan, gen</em>.
 
-`ADP` occurs with 1 features: <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt> (65; 1% instances)
+`ADP` occurs with 2 features: <tt><a href="cy_ccg-feat-ExtPos.html">ExtPos</a></tt> (219; 3% instances), <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt> (65; 1% instances)
 
-`ADP` occurs with 2 feature-value pairs: `Mutation=AM`, `Mutation=SM`
+`ADP` occurs with 4 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `Mutation=AM`, `Mutation=SM`
 
-`ADP` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (6984 tokens).
+`ADP` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (6765 tokens).
 Examples: <em>i, o, yn, ar, am, gan, â, mewn, fel, gyda</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 8 different relations: <tt><a href="cy_ccg-dep-case.html">case</a></tt> (5953; 84% instances), <tt><a href="cy_ccg-dep-mark.html">mark</a></tt> (892; 13% instances), <tt><a href="cy_ccg-dep-fixed.html">fixed</a></tt> (156; 2% instances), <tt><a href="cy_ccg-dep-advmod.html">advmod</a></tt> (24; 0% instances), <tt><a href="cy_ccg-dep-advcl.html">advcl</a></tt> (9; 0% instances), <tt><a href="cy_ccg-dep-case-pred.html">case:pred</a></tt> (9; 0% instances), <tt><a href="cy_ccg-dep-obl.html">obl</a></tt> (5; 0% instances), <tt><a href="cy_ccg-dep-amod.html">amod</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 8 different relations: <tt><a href="cy_ccg-dep-case.html">case</a></tt> (5952; 84% instances), <tt><a href="cy_ccg-dep-mark.html">mark</a></tt> (892; 13% instances), <tt><a href="cy_ccg-dep-fixed.html">fixed</a></tt> (156; 2% instances), <tt><a href="cy_ccg-dep-advmod.html">advmod</a></tt> (33; 0% instances), <tt><a href="cy_ccg-dep-case-pred.html">case:pred</a></tt> (9; 0% instances), <tt><a href="cy_ccg-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="cy_ccg-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="cy_ccg-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (5365; 76% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (624; 9% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (488; 7% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (185; 3% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (133; 2% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (130; 2% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (70; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (27; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt> (18; 0% instances), <tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (2; 0% instances)
+Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (5366; 76% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (624; 9% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (488; 7% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (185; 3% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (133; 2% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (129; 2% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (70; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (27; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt> (18; 0% instances), <tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (2; 0% instances)
 
 6829 (97%) `ADP` nodes are leaves.
 
-211 (3%) `ADP` nodes have one child.
+210 (3%) `ADP` nodes have one child.
 
-8 (0%) `ADP` nodes have two children.
+9 (0%) `ADP` nodes have two children.
 
 1 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 3.
 
-Children of `ADP` nodes are attached using 4 different relations: <tt><a href="cy_ccg-dep-fixed.html">fixed</a></tt> (225; 98% instances), <tt><a href="cy_ccg-dep-punct.html">punct</a></tt> (3; 1% instances), <tt><a href="cy_ccg-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="cy_ccg-dep-conj.html">conj</a></tt> (1; 0% instances)
+Children of `ADP` nodes are attached using 5 different relations: <tt><a href="cy_ccg-dep-fixed.html">fixed</a></tt> (225; 97% instances), <tt><a href="cy_ccg-dep-punct.html">punct</a></tt> (3; 1% instances), <tt><a href="cy_ccg-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="cy_ccg-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="cy_ccg-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Children of `ADP` nodes belong to 8 different parts of speech: <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (133; 58% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (62; 27% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (19; 8% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (8; 3% instances), <tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Children of `ADP` nodes belong to 8 different parts of speech: <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (133; 58% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (62; 27% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (19; 8% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (8; 3% instances), <tt><a href="cy_ccg-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 

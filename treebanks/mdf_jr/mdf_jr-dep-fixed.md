@@ -27,7 +27,7 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 3	атяй	атя	NOUN	N	_	5	vocative	_	CGdephead=#3-&gt;3|CGdeprel=@ADDR|GTtags=Voc|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	3	punct	_	CGdephead=#4-&gt;3|CGdeprel=@CLB|GTtags=CLB
 5	ськамот	ськамот	PRON	Pron	Number[psor]=Sing|Person[psor]=2	0	root	_	CGdephead=#5-&gt;0|CGdeprel=@X|GTtags=Exclusive,PerifMod,PxSg2
-6	што	што	SCONJ	CS	_	5	parataxis	_	CGdephead=#6-&gt;6|CGdeprel=@SC|GTtags=
+6	што	што	SCONJ	CS	ExtPos=ADV	5	parataxis	_	CGdephead=#6-&gt;6|CGdeprel=@SC|GTtags=
 7	ли	ли	AUX	_	_	6	fixed	_	CGdephead=#7-&gt;7|CGdeprel=@&lt;QST|GTtags=Use/SpellNoSugg,Pcle,Qst|SpaceAfter=No
 8	?	?	PUNCT	CLB	_	5	punct	_	_
 
@@ -45,11 +45,11 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 3	ашезь	аш	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	4	aux	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
 4	сатов	сатовомс	VERB	_	Connegative=Yes	0	root	_	GTtags=IV,ConNeg|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	_
-6	сяс	сяс	ADV	_	_	8	mark	_	_
+6	сяс	сяс	ADV	_	ExtPos=SCONJ	8	mark	_	_
 7	мес	мес	ADV	_	_	6	fixed	_	_
 8	ласьксь	ласькомс	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	4	advcl	_	GTtags=Ind,Prt1,ScSg3
-9	пяк	пяк	ADV	_	AdvType=Deg	10	advmod:deg	_	GTtags=AdA
-10	вишкста	вишкста	ADV	Adv	AdvType=Man	8	advmod:mmod	_	SpaceAfter=No
+9	пяк	пяк	ADV	_	AdvType=Deg	10	advmod	_	GTtags=AdA
+10	вишкста	вишкста	ADV	Adv	AdvType=Man	8	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
@@ -62,11 +62,11 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 7 fixed	color:blue
 1	А	а	CCONJ	CC	_	3	cc	_	_
-2	завтракамста	завтракамс	VERB	V	Case=Ela|VerbForm=Conv	3	advcl:tcl	_	GTtags=Ger,Ela
+2	завтракамста	завтракамс	VERB	V	Case=Ela|VerbForm=Conv	3	advcl	_	GTtags=Ger,Ela
 3	кой	кой	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 4	,	,	PUNCT	_	_	8	punct	_	_
-5	обедамста-ужнамста	обедамс-ужнамс	VERB	V	Case=Ela|VerbForm=Conv	8	advcl:tcl	_	GTtags=Ger,Ela
-6	аньцек	аньцек	ADV	Adv	_	8	advmod	_	_
+5	обедамста-ужнамста	обедамс-ужнамс	VERB	V	Case=Ela|VerbForm=Conv	8	advcl	_	GTtags=Ger,Ela
+6	аньцек	аньцек	ADV	Adv	ExtPos=ADV	8	advmod	_	_
 7	и	и	CCONJ	CC	_	6	fixed	_	_
 8	кулят	кулемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin	3	conj	_	GTtags=Ind,Prs,ScSg2
 9	сяка	сяка	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing	10	det	_	GTtags=Sg,Nom,Indef
@@ -82,7 +82,7 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 19	бта	бта	ADV	Adv	_	21	mark	_	_
 20	аф	аф	AUX	_	Polarity=Neg|VerbType=Aux	21	aux	_	GTtags=Aux,Neg
 21	мярьгондяряй	мярьгомс	VERB	V	Derivation=Cond|Mood=Ind|Number[subj]=Sing|Person[subj]=3	25	advcl	_	GTtags=Cond,ScSg3
-22	тяфта	тяфта	ADV	Adv	_	21	advmod	_	SpaceAfter=No
+22	тяфта	тяфта	ADV	Adv	AdvType=Man	21	advmod	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	21	punct	_	_
 24	ломаттне	ломань	NOUN	N	Case=Nom|Definite=Def|Number=Plur	25	nsubj	_	GTtags=Pl,Nom,Def
 25	илядыхть	илядомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	3	conj	_	GTtags=Ind,Prs,ScPl3

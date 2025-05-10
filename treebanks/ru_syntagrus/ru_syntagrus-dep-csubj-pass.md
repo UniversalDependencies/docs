@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ru_syntagrus-dep-csubj.html">csubj</a></tt>.
 
-218 nodes (0%) are attached to their parents as `csubj:pass`.
+221 nodes (0%) are attached to their parents as `csubj:pass`.
 
-190 instances of `csubj:pass` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.42201834862385.
+191 instances of `csubj:pass` (86%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.4841628959276.
 
-The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (211; 97% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (211; 95% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,7 +41,7 @@ The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 10 csubj:pass	color:blue
-1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1	2	nsubj	2:nsubj|3:nsubj	_
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|3:nsubj	_
 2	решила	решить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	пережидать	пережидать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	2:xcomp	_
 4	карантин	карантин	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	3:obj	_
@@ -49,7 +49,7 @@ The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 6	даче	дача	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	3:obl:на:loc	SpaceAfter=No
 7	,	,	PUNCT	_	_	15	punct	15:punct	_
 8	поскольку	поскольку	SCONJ	_	_	15	mark	15:mark	_
-9	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	aux:pass	10:aux:pass	_
+9	быть	быть	AUX	_	VerbForm=Inf|Voice=Act	10	aux:pass	10:aux:pass	_
 10	запертой	запереть	VERB	_	Aspect=Perf|Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	csubj:pass	15:csubj:pass	_
 11	в	в	ADP	_	_	13	case	13:case	_
 12	московской	московский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	13	amod	13:amod	_
@@ -62,30 +62,20 @@ The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 10 csubj:pass	color:blue
-1	-	-	PUNCT	_	_	7	punct	7:punct	_
-2	Ведь	ведь	PART	_	_	7	advmod	7:advmod	_
-3	этим	этот	DET	_	Case=Dat|Number=Plur|PronType=Dem	6	det	6:det	_
-4	двум	два	NUM	_	Case=Dat|NumType=Card	6	nummod	6:nummod	_
-5	разным	разный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	6	amod	6:amod	_
-6	мирам	мир	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	7	iobj	7:iobj	_
-7	предопределено	предопределить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	_
-8	свыше	свыше	ADV	_	Degree=Pos	7	advmod	7:advmod	_
-9	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	cop	10:cop	_
-10	вместе	вместе	ADV	_	Degree=Pos	7	csubj:pass	7:csubj	SpaceAfter=No
-11	,	,	PUNCT	_	_	15	punct	15:punct	_
-12	и	и	CCONJ	_	_	15	cc	15:cc	_
-13	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	15:nsubj	_
-14	не	не	PART	_	_	15	advmod	15:advmod	_
-15	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	0:root|7:conj	_
-16	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	obl	15:obl:nom	_
-17	без	без	ADP	_	_	16	fixed	16:fixed	_
-18	друга	друг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	fixed	16:fixed	SpaceAfter=No
-19	.	.	PUNCT	_	_	7	punct	7:punct	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 8 csubj:pass	color:blue
+1	Считалось	считать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+2	загадкой	загадка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1	xcomp	1:xcomp	SpaceAfter=No
+3	,	,	PUNCT	_	_	8	punct	8:punct	_
+4	почему	почему	ADV	_	Degree=Pos|PronType=Rel	8	advmod	8:advmod	pos="ADVPRO"|_
+5	мертвое	мертвый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	6:amod	_
+6	дерево	дерево	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	8:nsubj	_
+7	-	-	PUNCT	_	_	6	punct	6:punct	_
+8	сухое	сухой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1	csubj:pass	1:csubj:pass	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 

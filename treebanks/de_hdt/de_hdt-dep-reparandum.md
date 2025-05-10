@@ -53,7 +53,7 @@ The following 6 pairs of parts of speech are connected with `reparandum`: <tt><a
 3	das	der	DET	ART	Typo=Yes	2	reparandum	_	_
 4	bereits	bereits	ADV	ADV	_	5	advmod	_	_
 5	existierende	existieren	ADJ	ADJA	Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
-6	Handwerkerportal	Portal	NOUN	NN	Gender=Neut|Number=Sing	9	nsubj:pass	_	_
+6	Handwerkerportal	Handwerkerportal	NOUN	NN	Gender=Neut|Number=Sing	9	nsubj:pass	_	_
 7	handwerk.de	handwerk.de	PROPN	NE	Number=Sing	6	flat:name	_	_
 8	soll	sollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	9	aux	_	_
 9	ausgebaut	ausbauen	VERB	VVPP	Aspect=Perf|VerbForm=Part	0	root	_	_

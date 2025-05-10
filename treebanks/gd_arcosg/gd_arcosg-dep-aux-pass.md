@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of .
 
-151 nodes (0%) are attached to their parents as `aux:pass`.
+206 nodes (0%) are attached to their parents as `aux:pass`.
 
-150 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.12582781456954.
+205 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.87378640776699.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (151; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (206; 100% instances).
 
 
 ~~~ conllu
@@ -27,9 +27,9 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 3	sin	sin	DET	Dd	PronType=Art	2	det	_	_
 4	a	a	PART	Ug	PartType=Inf	5	mark:prt	_	_
 5	mhilleadh	mill	NOUN	Nv	VerbForm=Inf	0	root	_	_
-6	cho	cho	ADV	Rg	_	7	advmod	_	_
-7	luath	luath	ADV	Rg	_	5	advmod	_	_
-8	's	's	CCONJ	Cc	_	10	cc	_	_
+6	cho	cho	ADV	Rg	AdvType=Man	7	advmod	_	_
+7	luath	luath	ADV	Rg	AdvType=Man	5	advmod	_	_
+8	's	is	CCONJ	Cc	_	10	cc	_	_
 9	a	a	PART	Q-r	PartType=Vb|PronType=Rel	10	mark:prt	_	_
 10	thàinig	thig	VERB	V-s	Mood=Ind|Tense=Past|VerbForm=Fin	7	conj	_	_
 11	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_

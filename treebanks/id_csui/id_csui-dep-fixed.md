@@ -13,7 +13,7 @@ This relation is universal.
 54 instances of `fixed` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.01851851851852.
 
-The following 12 pairs of parts of speech are connected with `fixed`: <tt><a href="id_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (22; 41% instances), <tt><a href="id_csui-pos-ADP.html">ADP</a></tt>-<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (16; 30% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (5; 9% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (2; 4% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="id_csui-pos-ADP.html">ADP</a></tt>-<tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="id_csui-pos-ADP.html">ADP</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="id_csui-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 12 pairs of parts of speech are connected with `fixed`: <tt><a href="id_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (22; 41% instances), <tt><a href="id_csui-pos-ADP.html">ADP</a></tt>-<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (16; 30% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (4; 7% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (3; 6% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="id_csui-pos-ADP.html">ADP</a></tt>-<tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="id_csui-pos-ADP.html">ADP</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="id_csui-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Sementara	sementara	ADV	RB	_	10	advmod	_	MWEPOS=ADV
+1	Sementara	sementara	ADV	RB	ExtPos=ADV	10	advmod	_	MWEPOS=ADV
 2	itu	itu	PRON	PRP	PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	10	punct	_	_
 4	pendapatan	dapat	NOUN	NN	Number=Sing	10	nsubj	_	_
@@ -49,7 +49,7 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Selain	selain	ADP	IN	_	8	advmod	_	MWEPOS=ADV
+1	Selain	selain	ADP	IN	ExtPos=ADV	8	advmod	_	MWEPOS=ADV
 2	itu	itu	PRON	PRP	PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	8	punct	_	_
 4	kurang	kurang	ADJ	JJ	_	8	advcl	_	_
@@ -82,7 +82,7 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 8	,	,	PUNCT	,	_	4	punct	_	_
 9	akan	akan	AUX	MD	_	10	aux	_	_
 10	meraih	raih	VERB	VB	Mood=Ind|Voice=Act	3	ccomp	_	_
-11	lebih	lebih	ADJ	JJ	_	15	acl:relcl	_	_
+11	lebih	lebih	ADJ	JJ	ExtPos=ADV	15	advmod	_	_
 12	dari	dari	SCONJ	IN	_	11	fixed	_	_
 13	satu	satu	NUM	CD	NumType=Card	15	nummod	_	_
 14	juta	juta	NUM	CD	NumType=Card	13	flat	_	_

@@ -11,7 +11,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 782 tokens (60%) have a non-empty value of `Number`.
 472 types (80%) occur at least once with a non-empty value of `Number`.
-278 lemmas (73%) occur at least once with a non-empty value of `Number`.
+275 lemmas (72%) occur at least once with a non-empty value of `Number`.
 The feature is used with 6 part-of-speech tags: <tt><a href="vep_vwt-pos-NOUN.html">NOUN</a></tt> (310; 24% instances), <tt><a href="vep_vwt-pos-PRON.html">PRON</a></tt> (168; 13% instances), <tt><a href="vep_vwt-pos-VERB.html">VERB</a></tt> (107; 8% instances), <tt><a href="vep_vwt-pos-ADJ.html">ADJ</a></tt> (77; 6% instances), <tt><a href="vep_vwt-pos-AUX.html">AUX</a></tt> (75; 6% instances), <tt><a href="vep_vwt-pos-PROPN.html">PROPN</a></tt> (45; 3% instances).
 
 ### `NOUN`
@@ -36,19 +36,19 @@ The feature is used with 6 part-of-speech tags: <tt><a href="vep_vwt-pos-NOUN.ht
 
 168 <tt><a href="vep_vwt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="vep_vwt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (150; 89%), <tt><a href="vep_vwt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (102; 61%), <tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (90; 54%), <tt><a href="vep_vwt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (85; 51%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="vep_vwt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (149; 89%), <tt><a href="vep_vwt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (102; 61%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (43; 26% of non-empty `Number`): <em>meiden, mö, heiden, Tö, kudambad, hö, Ned, Niiš, Teid, Teiden</em>
-* `Sing` (125; 74% of non-empty `Number`): <em>minä, ičeze, nece, minun, kaik, minei, hän, kaiken, se, ičein</em>
+* `Plur` (48; 29% of non-empty `Number`): <em>meiden, mö, heiden, ičeze, Tö, kudambad, hö, ičetoi, Ned, Niiš</em>
+* `Sing` (120; 71% of non-empty `Number`): <em>minä, nece, ičeze, minun, kaik, minei, hän, kaiken, se, ičein</em>
 
 <table>
-  <tr><th>Paradigm <i>ičeze</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="vep_vwt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>ičeze</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>ičeze</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="vep_vwt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>ičeze</em></td><td><em>ičetoi</em></td></tr>
-  <tr><td><tt><tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="vep_vwt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>ičtaze</em></td><td></td></tr>
+  <tr><th>Paradigm <i>iče</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="vep_vwt-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>ičein</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="vep_vwt-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td><em>ičetoi</em></td></tr>
+  <tr><td><tt><tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="vep_vwt-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ičeze</em></td><td><em>ičeze</em></td></tr>
+  <tr><td><tt><tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="vep_vwt-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ičtaze</em></td><td></td></tr>
 </table>
 
 ### `VERB`
@@ -127,7 +127,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="vep_vwt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (59; 95%),
-<tt>NOUN --[<tt><a href="vep_vwt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (40; 63%),
+<tt>NOUN --[<tt><a href="vep_vwt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (37; 58%),
 <tt>VERB --[<tt><a href="vep_vwt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (37; 79%),
 <tt>VERB --[<tt><a href="vep_vwt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (36; 82%),
 <tt>NOUN --[<tt><a href="vep_vwt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (24; 89%),

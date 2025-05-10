@@ -38,12 +38,12 @@ The 2nd highest number of forms (1) was observed with the lemma “i”: <em>i</
 
 The 3rd highest number of forms (1) was observed with the lemma “máis”: <em>máis</em>.
 
-`CCONJ` occurs with 1 features: <tt><a href="gl_treegal-feat-Polarity.html">Polarity</a></tt> (15; 2% instances)
+`CCONJ` occurs with 2 features: <tt><a href="gl_treegal-feat-Polarity.html">Polarity</a></tt> (15; 2% instances), <tt><a href="gl_treegal-feat-ExtPos.html">ExtPos</a></tt> (9; 1% instances)
 
-`CCONJ` occurs with 1 feature-value pairs: `Polarity=Neg`
+`CCONJ` occurs with 3 feature-value pairs: `ExtPos=ADV`, `ExtPos=CCONJ`, `Polarity=Neg`
 
-`CCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (717 tokens).
+`CCONJ` occurs with 6 feature combinations.
+The most frequent feature combination is `_` (711 tokens).
 Examples: <em>e, ou, quer, i, máis</em>
 
 

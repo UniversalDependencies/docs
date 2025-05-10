@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (1%) are attached to their parents as `amod`.
+19 nodes (2%) are attached to their parents as `amod`.
 
-13 instances of `amod` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.07142857142857.
+18 instances of `amod` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.21052631578947.
 
-The following 2 pairs of parts of speech are connected with `amod`: <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt> (13; 93% instances), <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt> (1; 7% instances).
+The following 2 pairs of parts of speech are connected with `amod`: <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt> (18; 95% instances), <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `amod`: <tt><a href=
 2	кошунасы	кошуна	NOUN	_	_	6	nsubj	_	_
 3	тосмону	тосмо	NOUN	_	_	6	obj	_	_
 4	кызыл	кызыл	ADJ	_	_	5	amod	_	_
-5	түскѳ	түс	NOUN	_	_	6	obl	_	_
+5	түскө	түс	NOUN	_	_	6	obl	_	_
 6	боёду	боё	VERB	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 

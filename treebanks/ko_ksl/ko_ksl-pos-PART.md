@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  에는 (<tt><a href="ko_ksl-pos-PART.html
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.004265).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.000288).
 
 The 1st highest number of forms (1) was observed with the lemma “에+는”: 에는.
 

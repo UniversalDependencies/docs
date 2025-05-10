@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 1	Ywa	ywa	PRON	Pron	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	gloss[pt]=3sg.m
 2	pekana	pekana	X	X	_	4	dep	_	gloss[pt]=?
 3	apaka	apaka	ADV	Adv	_	4	advmod	_	gloss[pt]=também
-4	amutary	amuta	VERB	V	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	0	root	_	gloss[pt]=comprar-3SG.M.O
+4	amutary	amuta	VERB	V	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres	0	root	_	gloss[pt]=comprar-3SG.M.O
 5	mãkatxi	mãka	NOUN	XPOS=roupa.de	Possessed=No	4	obj	_	gloss[pt]=roupa.de-N.POSSD|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	ykitimata	kitimata	NOUN	XPOS=3SG.M-pé.de-NC.casca,pele.de	_	5	conj	_	gloss[pt]=3SG.M-pé.de-NC.casca,pele.de

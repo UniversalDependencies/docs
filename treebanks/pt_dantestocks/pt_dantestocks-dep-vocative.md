@@ -35,7 +35,7 @@ The following 24 pairs of parts of speech are connected with `vocative`: <tt><a 
 11	'	'	PUNCT	_	_	12	punct	_	SpaceAfter=No
 12	Take	Take	PROPN	_	_	10	obj	_	_
 13	Off	Off	PROPN	_	_	12	flat:name	_	SpaceAfter=No
-14	'	'	PUNCT	_	_	12	punct	_	SpaceAfter=No
+14	'	'	PUNCT	_	_	12	punct	_	_
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 24 pairs of parts of speech are connected with `vocative`: <tt><a 
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	alguma	algum	DET	_	Gender=Fem|Number=Sing|PronType=Ind	5	det	_	_
 5	sugestão	sugestão	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-6	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
@@ -65,7 +65,7 @@ The following 24 pairs of parts of speech are connected with `vocative`: <tt><a 
 1	Soprem	soprar	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 2	sopradores	soprador	NOUN	_	Gender=Masc|Number=Plur	1	vocative	_	_
 3	#usim5	#usim5	PROPN	_	_	1	parataxis	_	_
-4	rsrrs	rsrrs	X	_	_	1	discourse	_	SpaceAfter=No
+4	rsrrs	rsrrs	X	_	_	1	discourse	_	_
 
 ~~~
 

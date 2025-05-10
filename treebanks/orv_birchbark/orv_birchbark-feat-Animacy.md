@@ -45,7 +45,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 `PROPN` tokens may have the following values of `Animacy`:
 
 * `Anim` (2; 100% of non-empty `Animacy`): <em>глѧденцевъ, зуба</em>
-* `EMPTY` (2762): <em>ивана, петра, бориса, евана, мариѧ, степана, павла, смена, завида, лѹкѣ</em>
+* `EMPTY` (2763): <em>ивана, петра, бориса, евана, мариѧ, степана, павла, смена, завида, лѹкѣ</em>
 
 ### `ADJ`
 

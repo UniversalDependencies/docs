@@ -278,7 +278,7 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="lt_alksnis-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3647; 99%),
+<tt>NOUN --[<tt><a href="lt_alksnis-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3642; 99%),
 <tt>NOUN --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3563; 56%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1828; 95%),
 <tt>NOUN --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1590; 74%),

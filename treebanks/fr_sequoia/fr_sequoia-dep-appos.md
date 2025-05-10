@@ -24,7 +24,7 @@ The following 14 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 2 6 appos	color:blue
 1	L'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
 2	étude	étude	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
-3	clinique	clinique	ADJ	_	Number=Sing	2	amod	_	_
+3	clinique	clinique	ADJ	_	Number=Sing	2	amod	_	Gender[ctxt]=Fem
 4	ACUITY	ACUITY	PROPN	_	_	2	nmod	_	_
 5	(	(	PUNCT	_	_	6	punct	_	SpaceAfter=No
 6	SCA	SCA	NOUN	_	_	2	appos	_	SpaceAfter=No

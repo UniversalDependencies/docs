@@ -25,10 +25,10 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Dem` (191; 10% of non-empty `PronType`): <em>_</em>
 * `Emp` (1; 0% of non-empty `PronType`): <em>_</em>
 * `Ind` (65; 3% of non-empty `PronType`): <em>_</em>
-* `Int` (25; 1% of non-empty `PronType`): <em>_</em>
+* `Int` (24; 1% of non-empty `PronType`): <em>_</em>
 * `Neg` (11; 1% of non-empty `PronType`): <em>_</em>
 * `Prs` (1493; 76% of non-empty `PronType`): <em>_</em>
-* `Rel` (156; 8% of non-empty `PronType`): <em>_</em>
+* `Rel` (157; 8% of non-empty `PronType`): <em>_</em>
 * `Tot` (21; 1% of non-empty `PronType`): <em>_</em>
 
 ### `DET`
@@ -57,12 +57,12 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Dem` (62; 32% of non-empty `PronType`): <em>_</em>
 * `Int` (99; 52% of non-empty `PronType`): <em>_</em>
 * `Rel` (30; 16% of non-empty `PronType`): <em>_</em>
-* `EMPTY` (916): <em>_</em>
+* `EMPTY` (915): <em>_</em>
 
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="en_gumreddit-dep-det.html">det</a></tt>]--> DET</tt> (8; 73%),
 <tt>PRON --[<tt><a href="en_gumreddit-dep-conj.html">conj</a></tt>]--> PRON</tt> (4; 100%),
-<tt>PRON --[<tt><a href="en_gumreddit-dep-dep.html">dep</a></tt>]--> PRON</tt> (2; 100%).
+<tt>PRON --[<tt><a href="en_gumreddit-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (2; 100%).
 

@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 * `Neg` (9; 75% of non-empty `Polarity`): <em>no</em>
 * `Pos` (3; 25% of non-empty `Polarity`): <em>sì</em>
-* `EMPTY` (10860): <em>non, più, anche, solo, così, già, ancora, ieri, poi, sempre</em>
+* `EMPTY` (10730): <em>non, più, anche, solo, così, già, ancora, ieri, poi, sempre</em>
 
 ### `NOUN`
 
@@ -45,5 +45,5 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>no</em>
-* `EMPTY` (57758): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
+* `EMPTY` (57881): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
 

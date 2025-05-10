@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1273 nodes (7%) are attached to their parents as `case`.
+1466 nodes (7%) are attached to their parents as `case`.
 
-1261 instances of `case` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.08562450903378.
+1453 instances of `case` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.08117326057299.
 
-The following 9 pairs of parts of speech are connected with `case`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (872; 68% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (328; 26% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (35; 3% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (29; 2% instances), <tt><a href="yrl_complin-pos-DET.html">DET</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `case`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (987; 67% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (388; 26% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (41; 3% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (35; 2% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="yrl_complin-pos-DET.html">DET</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 9 pairs of parts of speech are connected with `case`: <tt><a href=
 2	aintá	aintá	PRON	PRON2	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	iobj	_	TokenRange=7:12
 3	supé	supé	ADP	ADP	AdpType=Post	2	case	_	TokenRange=13:17
 4	puranga	puranga	ADJ	A	_	1	ccomp	_	TokenRange=18:25
-5	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No|TokenRange=26:29
+5	ixé	ixé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No|TokenRange=26:29
 6	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=29:30
 
 ~~~

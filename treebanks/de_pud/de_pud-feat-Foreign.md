@@ -78,7 +78,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>Talking, new</em>
-* `EMPTY` (1410): <em>ersten, neue, letzten, neuen, große, weitere, politischen, Vereinigten, bekannt, britische</em>
+* `EMPTY` (1411): <em>ersten, neue, letzten, neuen, große, weitere, politischen, Vereinigten, bekannt, britische</em>
 
 ### `ADV`
 
@@ -89,7 +89,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>Now, anyway</em>
-* `EMPTY` (1050): <em>auch, so, noch, nur, sehr, mehr, jedoch, wie, davon, immer</em>
+* `EMPTY` (1049): <em>auch, so, noch, nur, sehr, mehr, jedoch, wie, davon, immer</em>
 
 ### `AUX`
 
@@ -131,7 +131,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>and</em>
-* `EMPTY` (742): <em>und, als, aber, wie, oder, doch, sowie, bis, bzw., sowohl</em>
+* `EMPTY` (741): <em>und, als, aber, wie, oder, doch, sowie, bis, bzw., sowohl</em>
 
 ### `PUNCT`
 
@@ -149,7 +149,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `SCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>If</em>
-* `EMPTY` (325): <em>dass, als, um, wenn, nachdem, weil, ob, indem, wie, bevor</em>
+* `EMPTY` (326): <em>dass, als, um, wenn, nachdem, weil, ob, wie, indem, bevor</em>
 
 ### `X`
 

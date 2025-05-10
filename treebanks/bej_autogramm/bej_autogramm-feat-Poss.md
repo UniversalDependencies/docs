@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (368; 100% of non-empty `Poss`): <em>=i, =eː, =oː, =oːk, =oːn, =hi, =joː, =uːn, =aː, =eːk</em>
-* `EMPTY` (452): <em>=heːb, ani, =hoːk, kna, aneːb, hoːj, =oː, ti=, wi=, hinin</em>
+* `EMPTY` (451): <em>=heːb, ani, =hoːk, kna, aneːb, hoːj, =oː, ti=, wi=, hinin</em>
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `obl`: <tt><a href="pt_porttinari-dep-obl-agent.html">obl:agent</a></tt>.
 
-9132 nodes (5%) are attached to their parents as `obl`.
+9142 nodes (5%) are attached to their parents as `obl`.
 
-7286 instances of `obl` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.54467805519054.
+7290 instances of `obl` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.54419164296653.
 
-The following 25 pairs of parts of speech are connected with `obl`: <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (6145; 67% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt> (872; 10% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (544; 6% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (516; 6% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (341; 4% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (292; 3% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (84; 1% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (82; 1% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt> (61; 1% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt> (55; 1% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (52; 1% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (45; 0% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (7; 0% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_porttinari-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `obl`: <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (6151; 67% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt> (872; 10% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (544; 6% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (516; 6% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (341; 4% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (295; 3% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (84; 1% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (82; 1% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt> (61; 1% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt> (55; 1% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (52; 1% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (45; 0% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (7; 0% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_porttinari-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,7 +38,7 @@ The following 25 pairs of parts of speech are connected with `obl`: <tt><a href=
 13	em	em	ADP	_	_	15	case	15:case	_
 14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	15:det	_
 15	mão	mão	NOUN	_	Gender=Fem|Number=Sing	12	nmod	12:nmod:em	SpaceAfter=No
-16	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -61,7 +61,7 @@ The following 25 pairs of parts of speech are connected with `obl`: <tt><a href=
 10	favorável	favorável	ADJ	_	Number=Sing	0	root	0:root	_
 11	a	a	ADP	_	_	12	case	12:case	_
 12	Aécio	Aécio	PROPN	_	_	10	obl	10:obl:a	SpaceAfter=No
-13	.	.	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
+13	.	.	PUNCT	_	_	10	punct	10:punct	_
 
 ~~~
 
@@ -78,7 +78,7 @@ The following 25 pairs of parts of speech are connected with `obl`: <tt><a href=
 4	falo	falar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	csubj	2:csubj	_
 5	sobre	sobre	ADP	_	_	6	case	6:case	_
 6	isso	isso	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	4	obl	4:obl:sobre	SpaceAfter=No
-7	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 

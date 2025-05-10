@@ -11,9 +11,9 @@ This relation is universal.
 67 nodes (3%) are attached to their parents as `amod`.
 
 64 instances of `amod` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.2089552238806.
+Average distance between parent and child is 1.19402985074627.
 
-The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (57; 85% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (4; 6% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `amod`: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (58; 87% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (4; 6% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -37,7 +37,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 amod	color:blue
-1	Вӧдзӧ	вӧдзӧ	ADV	Adv	Case=Ill|Number=Sing	5	advmod:tmod	_	_
+1	Вӧдзӧ	водзӧ	ADV	Adv	Case=Ill|Number=Sing	5	advmod	_	_
 2	дик	дик	ADJ	A	Case=Nom|Number=Sing	3	amod	_	GTtags=Sg,Nom
 3	Иван	Иван	PROPN	N	Case=Nom|Number=Sing	5	nsubj	_	GTtags=Sem/Mal,Prop,Sg,Nom
 4	ойын	ой	NOUN	N	Case=Ine|Number=Sing	5	obl	_	GTtags=Sg,Ine

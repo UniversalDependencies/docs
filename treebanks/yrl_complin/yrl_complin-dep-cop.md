@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-96 nodes (0%) are attached to their parents as `cop`.
+104 nodes (0%) are attached to their parents as `cop`.
 
-61 instances of `cop` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.65625.
+65 instances of `cop` (63%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.65384615384615.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (32; 33% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (30; 31% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (16; 17% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (8; 8% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (7; 7% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (34; 33% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (34; 33% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (17; 16% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (8; 8% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (8; 8% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -35,7 +35,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 cop	color:blue
-1	Ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	TokenRange=0:3
+1	Ixé	ixé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	TokenRange=0:3
 2	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=4:6
 3	ruka	uka	NOUN	N	Number=Sing|Rel=Cont	0	root	_	TokenRange=7:11
 4	upé	upé	ADP	ADP	AdpType=Post	3	case	_	TokenRange=12:15

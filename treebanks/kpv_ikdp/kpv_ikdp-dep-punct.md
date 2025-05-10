@@ -61,7 +61,7 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 8	пока	пока	ADV	Adv	_	13	advmod	_	OrigLang=ru|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	13	punct	_	_
 10	не	не	PART	Pcle	Polarity=Neg	11	advmod	_	OrigLang=ru
-11	то	то	PART	Pcle	_	13	advmod	_	OrigLang=ru
+11	то	то	PART	Pcle	ExtPos=ADV	13	advmod	_	OrigLang=ru
 12	что	что	PRON	Pron	_	11	fixed	_	Lang=ru
 13	лёк-а	лёк	ADJ	A	Case=Nom|Number=Sing	4	conj	_	SpaceAfter=No
 14	.	.	PUNCT	CLB	_	4	punct	_	_

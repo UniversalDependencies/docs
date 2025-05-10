@@ -39,8 +39,8 @@ The following 2 pairs of parts of speech are connected with `compound:nn`: <tt><
 # visual-style 2	fgColor:white
 # visual-style 2 1 compound:nn	color:blue
 1	Михалу	Михалу	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	2	compound:nn	_	GTtags=Prop,Sg,Nom,Indef
-2	шинь	ши	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	3	nmod	_	GTtags=SP,Gen,Indef
-3	карша	карша	NOUN	N	Case=Nom|Definite=Ind|NounType=Relat|Number=Sing	4	obl:tmod	_	GTtags=Relator,Sg,Nom,Indef
+2	шинь	ши	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	4	obl	_	GTtags=SP,Gen,Indef
+3	карша	карша	ADP	N	AdpType=Post	2	case	_	GTtags=Relator,Sg,Nom,Indef
 4	путозь	путомс	VERB	V	Derivation=Ozj|VerbForm=Conv	0	root	_	GTtags=Der/Ozj,Ger
 5	Марянь	Маря	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	6	nmod	_	GTtags=Prop,SP,Gen,Indef
 6	позялонц	позял	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obj	_	GTtags=Sg,Gen,PxSg3|SpaceAfter=No

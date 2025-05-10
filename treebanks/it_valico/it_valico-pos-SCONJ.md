@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-Valico: POS Tags: `SCONJ`
 
-There are 21 `SCONJ` lemmas (2%), 22 `SCONJ` types (2%) and 157 `SCONJ` tokens (2%).
+There are 21 `SCONJ` lemmas (2%), 23 `SCONJ` types (2%) and 158 `SCONJ` tokens (2%).
 Out of 16 observed tags, the rank of `SCONJ` is: 9 in number of lemmas, 10 in number of types and 11 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>che, quando, perchè, mentre, come, se, perche, perché, dopo, que</em>
 
 The 10 most frequent `SCONJ` types:  <em>che, quando, perchè, mentre, come, se, perché, dopo, perche, que</em>
 
-The 10 most frequent ambiguous lemmas: <em>che</em> (<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 75, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 70, <tt><a href="it_valico-pos-DET.html">DET</a></tt> 5), <em>perchè</em> (<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 4, <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> 1), <em>come</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 13, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 7), <em>se</em> (<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 7, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 7), <em>perche</em> (<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 1), <em>dopo</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 6, <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 5, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 3), <em>que</em> (<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 2), <em>senza</em> (<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 5, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 3), <em>si</em> (<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 57, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 3), <em>a</em> (<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 181, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>che</em> (<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 75, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 70, <tt><a href="it_valico-pos-DET.html">DET</a></tt> 5), <em>perchè</em> (<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 4, <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> 1), <em>come</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 13, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 7), <em>se</em> (<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 7, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 7), <em>perche</em> (<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 1), <em>dopo</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 6, <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 5, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 3), <em>que</em> (<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 2), <em>senza</em> (<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 5, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 3), <em>si</em> (<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 57, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 3), <em>a</em> (<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 180, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>che</em> (<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 70, <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 68, <tt><a href="it_valico-pos-DET.html">DET</a></tt> 3, <tt><a href="it_valico-pos-X.html">X</a></tt> 2), <em>perchè</em> (<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 1, <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> 1), <em>come</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 11, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 7), <em>se</em> (<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 6, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 4), <em>dopo</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 4, <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 1, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>que</em> (<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 2), <em>senza</em> (<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 5, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 2), <em>si</em> (<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 49, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="it_valico-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 164, <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> 4, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 2), <em>punto</em> (<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>che</em> (<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 70, <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 68, <tt><a href="it_valico-pos-DET.html">DET</a></tt> 3, <tt><a href="it_valico-pos-X.html">X</a></tt> 2), <em>perchè</em> (<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 1, <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> 1), <em>come</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 11, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 7), <em>se</em> (<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 6, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 4), <em>dopo</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 4, <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 1, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>que</em> (<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 2), <em>senza</em> (<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 5, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 2), <em>si</em> (<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 49, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="it_valico-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 163, <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> 4, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 1), <em>punto</em> (<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>che</em>
@@ -48,41 +48,42 @@ The 10 most frequent ambiguous types:  <em>che</em> (<tt><a href="it_valico-pos-
   * <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 3: <em>Lui , bello come sempre , è andato prestissimo a auitar mi , mi ha alzato senza sforzo come <b>si</b> sarei stato una piuma .</em>
   * <tt><a href="it_valico-pos-X.html">X</a></tt> 1: <em>Ma quando la ragazza ha visto il suo raggazzo co <b>si</b> , era desperata .</em>
 * <em>a</em>
-  * <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 164: <em>L' uomo cade <b>a</b> il suolo , con la sua lingua fuori , e senza spirito .</em>
+  * <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 163: <em>L' uomo cade <b>a</b> il suolo , con la sua lingua fuori , e senza spirito .</em>
   * <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> 4: <em>finalmente un bel uomo con occhiali si e interposato e <b>a</b> fatto cadere l' uomo brutto per salvare la donna .</em>
   * <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Il fatto era che l' uomo robusto aveva portato a la spalla sua « moglie » perchè lei stava litigando fortemente con una povera impiegata di un negozio di scarpe vecino a il parco perchè non l' aveva fatto il discaount di il 10 % <b>a</b> tal punto che il marito aveva dovuto prender la educatamente .</em>
+  * <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 1: <em>Questo mi sembrava più carino e gentile ma <b>a</b> il invece , quando ha ascolto la donna gridare , si alzava a l' uomo che sembrava più forte ma neanche caduti a terra .</em>
 * <em>punto</em>
   * <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Il fatto era che l' uomo robusto aveva portato a la spalla sua « moglie » perchè lei stava litigando fortemente con una povera impiegata di un negozio di scarpe vecino a il parco perchè non l' aveva fatto il discaount di il 10 % a tal <b>punto</b> che il marito aveva dovuto prender la educatamente .</em>
   * <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> 1: <em>A questo <b>punto</b> il giovanotto ha pigliato l' altro e l' ha buttato a terra .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.047619 (the average of all parts of speech is 1.389210).
+The form / lemma ratio of `SCONJ` is 1.095238 (the average of all parts of speech is 1.391304).
 
 The 1st highest number of forms (2) was observed with the lemma “perche”: <em>per, perche</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
+The 2nd highest number of forms (2) was observed with the lemma “tale”: <em>tal, tale</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “anche”: <em>Anche</em>.
+The 3rd highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
-`SCONJ` occurs with 1 features: <tt><a href="it_valico-feat-Typo.html">Typo</a></tt> (1; 1% instances)
+`SCONJ` occurs with 2 features: <tt><a href="it_valico-feat-ExtPos.html">ExtPos</a></tt> (8; 5% instances), <tt><a href="it_valico-feat-Typo.html">Typo</a></tt> (1; 1% instances)
 
-`SCONJ` occurs with 1 feature-value pairs: `Typo=Yes`
+`SCONJ` occurs with 4 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=SCONJ`, `Typo=Yes`
 
-`SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (156 tokens).
-Examples: <em>che, quando, perchè, mentre, come, se, perché, dopo, perche, que</em>
+`SCONJ` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (149 tokens).
+Examples: <em>che, quando, perchè, mentre, se, come, perché, dopo, perche, que</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="it_valico-dep-mark.html">mark</a></tt> (145; 92% instances), <tt><a href="it_valico-dep-fixed.html">fixed</a></tt> (12; 8% instances)
+`SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="it_valico-dep-mark.html">mark</a></tt> (146; 92% instances), <tt><a href="it_valico-dep-fixed.html">fixed</a></tt> (12; 8% instances)
 
-Parents of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (117; 75% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (14; 9% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (13; 8% instances), <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> (11; 7% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (1; 1% instances)
+Parents of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (118; 75% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (13; 8% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (13; 8% instances), <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> (12; 8% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 
-149 (95%) `SCONJ` nodes are leaves.
+149 (94%) `SCONJ` nodes are leaves.
 
-6 (4%) `SCONJ` nodes have one child.
+7 (4%) `SCONJ` nodes have one child.
 
 0 (0%) `SCONJ` nodes have two children.
 
@@ -90,7 +91,7 @@ Parents of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="it_
 
 The highest child degree of a `SCONJ` node is 3.
 
-Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="it_valico-dep-fixed.html">fixed</a></tt> (11; 92% instances), <tt><a href="it_valico-dep-goeswith.html">goeswith</a></tt> (1; 8% instances)
+Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="it_valico-dep-fixed.html">fixed</a></tt> (12; 92% instances), <tt><a href="it_valico-dep-goeswith.html">goeswith</a></tt> (1; 8% instances)
 
-Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> (11; 92% instances), <tt><a href="it_valico-pos-X.html">X</a></tt> (1; 8% instances)
+Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> (12; 92% instances), <tt><a href="it_valico-pos-X.html">X</a></tt> (1; 8% instances)
 

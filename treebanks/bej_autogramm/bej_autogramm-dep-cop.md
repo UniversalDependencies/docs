@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-125 nodes (1%) are attached to their parents as `cop`.
+126 nodes (1%) are attached to their parents as `cop`.
 
-125 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.528.
+126 instances of `cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.58730158730159.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (60; 48% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (39; 31% instances), <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (20; 16% instances), <tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (60; 48% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (40; 32% instances), <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (20; 16% instances), <tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

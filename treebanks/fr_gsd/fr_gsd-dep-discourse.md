@@ -61,7 +61,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	excellent	excellent	ADJ	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
-7	magnifique	magnifique	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+7	magnifique	magnifique	ADJ	_	Number=Sing	5	conj	_	Gender[ctxt]=Masc|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
 9	magistral	magistral	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_
 10	!	!	PUNCT	_	_	5	punct	_	_

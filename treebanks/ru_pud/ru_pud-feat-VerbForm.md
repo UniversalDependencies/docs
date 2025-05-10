@@ -78,11 +78,11 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (184; 86%),
 <tt>VERB --[<tt><a href="ru_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (66; 77%),
 <tt>VERB --[<tt><a href="ru_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (66; 81%),
-<tt>AUX --[<tt><a href="ru_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (4; 100%),
 <tt>VERB --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 100%),
+<tt>AUX --[<tt><a href="ru_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<tt><a href="ru_pud-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (3; 100%),
-<tt>AUX --[<tt><a href="ru_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="ru_pud-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (2; 100%),
+<tt>AUX --[<tt><a href="ru_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="ru_pud-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%).
 

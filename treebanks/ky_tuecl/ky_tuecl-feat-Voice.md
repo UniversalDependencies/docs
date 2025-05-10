@@ -9,18 +9,18 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Cau`, `Pass`.
 
-2 tokens (0%) have a non-empty value of `Voice`.
-2 types (1%) occur at least once with a non-empty value of `Voice`.
-2 lemmas (1%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (2; 0% instances).
+4 tokens (0%) have a non-empty value of `Voice`.
+3 types (1%) occur at least once with a non-empty value of `Voice`.
+3 lemmas (1%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (4; 0% instances).
 
 ### `VERB`
 
-2 <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Voice`.
+4 <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Voice`.
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Cau` (1; 50% of non-empty `Voice`): <em>такылдатыптыр</em>
-* `Pass` (1; 50% of non-empty `Voice`): <em>ѳткѳрүлѳ</em>
-* `EMPTY` (184): <em>берди, алып, кетти, окуп, уктап, барыптыр, болот, болчу, деп, келип</em>
+* `Cau` (3; 75% of non-empty `Voice`): <em>жуудурду, такылдатыптыр</em>
+* `Pass` (1; 25% of non-empty `Voice`): <em>өткөрүлө</em>
+* `EMPTY` (240): <em>берди, окуп, алып, кетти, көрөт, окуган, болчу, деп, келип, уктап</em>
 

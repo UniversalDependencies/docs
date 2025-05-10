@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (1%) are attached to their parents as `cc`.
+17 nodes (0%) are attached to their parents as `cc`.
 
-12 instances of `cc` (86%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.28571428571429.
+13 instances of `cc` (76%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.23529411764706.
 
-The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> (5; 36% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> (3; 21% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (3; 21% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> (1; 7% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 7% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 7% instances).
+The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> (5; 29% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> (3; 18% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (3; 18% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (3; 18% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> (1; 6% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 6% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -48,7 +48,7 @@ The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="p
 # visual-style 8	fgColor:white
 # visual-style 8 9 cc	color:blue
 1	tas	tas	PRON	PRO	_	2	nsubj	_	AlignBegin=27840|AlignEnd=28721|Gloss=PRO1|MGloss=PRO1|MSeg=tas|nWord=1|RX=[PRO]|TokenType=Root|Word=tas
-2	ye	ye	NOUN	N	_	7	advcl	_	AlignBegin=28721|AlignEnd=29602|Gloss=small|MGloss=small|MSeg=ye|nWord=2|RX=[N]|TokenType=Root|Word=ye
+2	ye	ye	NOUN	N	_	7	obl:tmod	_	AlignBegin=28721|AlignEnd=29602|Gloss=small|MGloss=small|MSeg=ye|nWord=2|RX=[N]|TokenType=Root|Word=ye
 3	=rira	r	AUX	COP	_	2	cop	_	AlignBegin=29602|AlignEnd=30483|Gloss==COP:S1SG:PST|MGloss==COP:S1SG:PST|MSeg==rira|nWord=3|RX=[COP]|TokenType=Clit|Word=rira
 4	=mã	=mã	SCONJ	PRT	_	2	mark	_	AlignBegin=30483|AlignEnd=31364|Gloss==when|MGloss==when|MSeg==mã|nWord=4|RX=[PRT]|TokenType=Clit|Word=mã
 5	tasuwa	suwa	NOUN	N	_	7	obl:arg	_	AlignBegin=31364|AlignEnd=32245|Gloss=grandmother|MGloss=POSS1- grandmother|MSeg=ta-suwa|nWord=5|RX=[N]|TokenType=Root|Word=tasuwa|wordform=ta-suwa

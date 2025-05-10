@@ -60,7 +60,7 @@ The most frequent other feature values with which `NOUN` and `Voice` co-occurred
 `NOUN` tokens may have the following values of `Voice`:
 
 * `Act` (22; 100% of non-empty `Voice`): पहिले, किडनी, चुनौती, बानी, कहनी, कहले, जनले, पहिलहीं, फगुआ, बिआहे
-* `EMPTY` (1832): लोग, बिआह, जी, रंग, देश, जब, भाषा, आजु, आदमी, साल
+* `EMPTY` (1833): लोग, बिआह, जी, रंग, देश, जब, भाषा, आजु, आदमी, साल
 
 `Voice` seems to be **lexical feature** of `NOUN`. 100% lemmas (15) occur only with one value of `Voice`.
 
@@ -119,7 +119,7 @@ The most frequent other feature values with which `PART` and `Voice` co-occurred
 `PART` tokens may have the following values of `Voice`:
 
 * `Act` (2; 100% of non-empty `Voice`): नइखे, नाहीं
-* `EMPTY` (190): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
+* `EMPTY` (189): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
 
 ## Relations with Agreement in `Voice`
 

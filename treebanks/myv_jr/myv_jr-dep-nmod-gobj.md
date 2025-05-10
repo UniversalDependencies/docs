@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Relations: `nmod:gobj`
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-nmod.html">nmod</a></tt>.
-There are also 3 other language-specific subtypes of `nmod`: <tt><a href="myv_jr-dep-nmod-gsubj.html">nmod:gsubj</a></tt>, <tt><a href="myv_jr-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="myv_jr-dep-nmod-poss.html">nmod:poss</a></tt>.
+There are also 2 other language-specific subtypes of `nmod`: <tt><a href="myv_jr-dep-nmod-gsubj.html">nmod:gsubj</a></tt>, <tt><a href="myv_jr-dep-nmod-poss.html">nmod:poss</a></tt>.
 
 27 nodes (0%) are attached to their parents as `nmod:gobj`.
 
@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `nmod:gobj`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nmod:gobj	color:blue
-1	Мейле	мейле	ADV	Adv	AdvType=Tim	4	advmod:tmod	_	GTtags=Sem/Time_dur
+1	Мейле	мейле	ADV	Adv	AdvType=Tim	4	advmod	_	GTtags=Sem/Time_dur
 2	левксэнь	левкс	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	3	nmod:gobj	_	GTtags=SP,Gen,Indef
 3	нарвамо	нарвамс	VERB	V	Case=Loc|VerbForm=Inf	4	xcomp	_	GTtags=TV,Inf,Loc
 4	озыть	озамс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	GTtags=IV,Ind,Prs,ScPl3|SpaceAfter=No

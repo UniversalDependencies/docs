@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 9 different values: `Abe`, `Acc`, `Com`, `Ess`, `Gen`, `Ill`, `Loc`, `Nom`, `Par`.
 
-786 tokens (27%) have a non-empty value of `Case`.
-344 types (46%) occur at least once with a non-empty value of `Case`.
-206 lemmas (40%) occur at least once with a non-empty value of `Case`.
-The feature is used with 9 part-of-speech tags: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (406; 14% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (299; 10% instances), <tt><a href="sms_giellagas-pos-NUM.html">NUM</a></tt> (17; 1% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (16; 1% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (7; 0% instances).
+796 tokens (27%) have a non-empty value of `Case`.
+347 types (46%) occur at least once with a non-empty value of `Case`.
+210 lemmas (41%) occur at least once with a non-empty value of `Case`.
+The feature is used with 9 part-of-speech tags: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (406; 14% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (299; 10% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (21; 1% instances), <tt><a href="sms_giellagas-pos-NUM.html">NUM</a></tt> (17; 1% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (16; 1% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (7; 0% instances).
 
 ### `NOUN`
 
@@ -62,6 +62,18 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
   <tr><td><tt><tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>tõt</em></td><td><em>tõn</em></td><td><em>tõn</em></td><td><em>tõʹst</em></td><td><em>tõin</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>tõk</em></td><td><em>tõid</em></td><td></td><td></td><td></td><td><em>tõid</em></td></tr>
 </table>
+
+### `ADV`
+
+21 <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> tokens (7% of all `ADV` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `ADV` and `Case` co-occurred: <tt><a href="sms_giellagas-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (21; 100%).
+
+`ADV` tokens may have the following values of `Case`:
+
+* `Ill` (8; 38% of non-empty `Case`): <em>koozz, dõõzz-e, koozz-a, mõõzz</em>
+* `Loc` (13; 62% of non-empty `Case`): <em>tõʹst, koʹst, täʹst, vuõssmõõzzâst, mâʹst</em>
+* `EMPTY` (278): <em>âʹtte, âʹpet, de, kâʹl, mäʹhtt, tok, pâi, teâđast, še, vâl</em>
 
 ### `NUM`
 
@@ -117,18 +129,6 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Loc` (1; 8% of non-empty `Case`): <em>Pariizzâst</em>
 * `Nom` (10; 83% of non-empty `Case`): <em>Peter, Mary, Brown, Jane, Smith</em>
 * `EMPTY` (1): <em>Laurikainen</em>
-
-### `ADV`
-
-11 <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `ADV` and `Case` co-occurred: <tt><a href="sms_giellagas-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (11; 100%).
-
-`ADV` tokens may have the following values of `Case`:
-
-* `Ill` (7; 64% of non-empty `Case`): <em>koozz, koozz-a, mõõzz</em>
-* `Loc` (4; 36% of non-empty `Case`): <em>koʹst, mâʹst</em>
-* `EMPTY` (288): <em>âʹtte, âʹpet, de, kâʹl, mäʹhtt, tok, pâi, teâđast, še, tõʹst</em>
 
 ### `VERB`
 

@@ -13,7 +13,30 @@ This relation is universal.
 60 instances of `discourse` (98%) are right-to-left (child precedes parent).
 Average distance between parent and child is 7.86885245901639.
 
-The following 14 pairs of parts of speech are connected with `discourse`: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> (15; 25% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> (14; 23% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (10; 16% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (6; 10% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> (4; 7% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> (2; 3% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (1; 2% instances).
+The following 13 pairs of parts of speech are connected with `discourse`: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> (15; 25% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> (15; 25% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (10; 16% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (6; 10% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> (4; 7% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> (2; 3% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 discourse	color:blue
+1	Por	por	ADP	SP	AdpType=Prep|ExtPos=ADV	6	discourse	_	_
+2	agora	agora	ADV	RG	_	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	Fc	_	1	punct	_	_
+4	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	analistas	analista	NOUN	NCMP000	Gender=Masc|Number=Plur	6	nsubj	_	_
+6	dubidan	dubidar	VERB	VMIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+7	se	se	SCONJ	CS	_	8	mark	_	_
+8	dar	dar	VERB	VMN0000	VerbForm=Inf	6	advcl	_	_
+9	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	servizo	servizo	NOUN	NCMS000	Gender=Masc|Number=Sing	8	obj	_	_
+11	por	por	ADP	SP	AdpType=Prep	12	case	_	_
+12	morto	morrer	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	8	obl	_	SpaceAfter=No
+13	.	.	PUNCT	Fp	_	6	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -35,29 +58,6 @@ The following 14 pairs of parts of speech are connected with `discourse`: <tt><a
 11	ela	el	PRON	PP3FS000	Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 12	ri	rir	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	parataxis	_	SpaceAfter=No
 13	.	.	PUNCT	Fp	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 discourse	color:blue
-1	Por	por	ADP	SP	AdpType=Prep	6	discourse	_	_
-2	agora	agora	ADV	RG	_	1	fixed	_	SpaceAfter=No
-3	,	,	PUNCT	Fc	_	1	punct	_	_
-4	os	o	DET	DA0MP0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
-5	analistas	analista	NOUN	NCMP000	Gender=Masc|Number=Plur	6	nsubj	_	_
-6	dubidan	dubidar	VERB	VMIP3P0	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
-7	se	se	SCONJ	CS	_	8	mark	_	_
-8	dar	dar	VERB	VMN0000	VerbForm=Inf	6	advcl	_	_
-9	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-10	servizo	servizo	NOUN	NCMS000	Gender=Masc|Number=Sing	8	obj	_	_
-11	por	por	ADP	SP	AdpType=Prep	12	case	_	_
-12	morto	morrer	VERB	VMP00SM	Gender=Masc|Number=Sing|VerbForm=Part	8	obl	_	SpaceAfter=No
-13	.	.	PUNCT	Fp	_	6	punct	_	_
 
 ~~~
 

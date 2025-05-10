@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-2441 tokens (10%) have a non-empty value of `Mood`.
+2440 tokens (10%) have a non-empty value of `Mood`.
 260 types (6%) occur at least once with a non-empty value of `Mood`.
-162 lemmas (4%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1602; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (838; 4% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+160 lemmas (4%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1602; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (837; 4% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `AUX`
 
@@ -41,16 +41,16 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 ### `VERB`
 
-838 <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> tokens (44% of all `VERB` tokens) have a non-empty value of `Mood`.
+837 <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> tokens (44% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (838; 100%), <tt><a href="fr_fqb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (838; 100%), <tt><a href="fr_fqb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (838; 100%), <tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (734; 88%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (706; 84%), <tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt> (700; 84%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (837; 100%), <tt><a href="fr_fqb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (837; 100%), <tt><a href="fr_fqb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (837; 100%), <tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (733; 88%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (705; 84%), <tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt> (699; 84%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (18; 2% of non-empty `Mood`): <em>devrait, pourrait, prendrait, procurerait, recevrait, voudrais</em>
 * `Imp` (37; 4% of non-empty `Mood`): <em>Nommez, Dites, Définissez, Laissez, Rions</em>
-* `Ind` (783; 93% of non-empty `Mood`): <em>trouve, est, a, signifie, puis, eut, fait, dois, ai, nomme</em>
-* `EMPTY` (1052): <em>inventé, né, situé, écrit, mort, connu, faire, joué, eu, obtenir</em>
+* `Ind` (782; 93% of non-empty `Mood`): <em>trouve, est, a, signifie, puis, eut, dois, fait, ai, nomme</em>
+* `EMPTY` (1053): <em>inventé, né, situé, écrit, mort, connu, faire, joué, eu, fait</em>
 
 <table>
   <tr><th>Paradigm <i>nommer</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -59,7 +59,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>Nommez</em></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 96% lemmas (155) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 96% lemmas (153) occur only with one value of `Mood`.
 
 ### `PRON`
 

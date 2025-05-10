@@ -40,7 +40,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 16	,	,	PUNCT	_	_	18	punct	_	_
 17	+	+	SYM	_	_	18	advmod	_	SpaceAfter=No
 18	1,60	1,60	NUM	_	NumType=Card	15	orphan	_	SpaceAfter=No
-19	...	...	PUNCT	_	_	9	punct	_	SpaceAfter=No
+19	...	...	PUNCT	_	_	9	punct	_	_
 
 ~~~
 
@@ -85,7 +85,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 32	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
 33	sua	seu	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	34	det	_	_
 34	análise	análise	NOUN	_	Gender=Fem|Number=Sing	30	obl	_	SpaceAfter=No
-35	?	?	PUNCT	_	_	30	punct	_	SpaceAfter=No
+35	?	?	PUNCT	_	_	30	punct	_	_
 
 ~~~
 
@@ -114,7 +114,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 16	,	,	PUNCT	_	_	18	punct	_	_
 17	+	+	SYM	_	_	18	advmod	_	SpaceAfter=No
 18	1,60	1,60	NUM	_	NumType=Card	15	orphan	_	SpaceAfter=No
-19	...	...	PUNCT	_	_	9	punct	_	SpaceAfter=No
+19	...	...	PUNCT	_	_	9	punct	_	_
 
 ~~~
 

@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Card`, `Frac`, `Ord`, `Sets`.
 
-178 tokens (1%) have a non-empty value of `NumType`.
-50 types (1%) occur at least once with a non-empty value of `NumType`.
-29 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (117; 0% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (60; 0% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+186 tokens (1%) have a non-empty value of `NumType`.
+54 types (1%) occur at least once with a non-empty value of `NumType`.
+30 lemmas (1%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (125; 0% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (60; 0% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-117 <tt><a href="el_gud-pos-NUM.html">NUM</a></tt> tokens (97% of all `NUM` tokens) have a non-empty value of `NumType`.
+125 <tt><a href="el_gud-pos-NUM.html">NUM</a></tt> tokens (98% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (99; 85%), <tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (63; 54%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (99; 79%), <tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (67; 54%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (116; 99% of non-empty `NumType`): <em>δύο, δυο, τρεις, 16, ένα, δέκα, μία, πενήντα, 14/5, 24</em>
+* `Card` (124; 99% of non-empty `NumType`): <em>δύο, δυο, τρεις, ένα, 16, ένας, δέκα, μία, μια, πενήντα</em>
 * `Frac` (1; 1% of non-empty `NumType`): <em>δωδεκάμιση</em>
-* `EMPTY` (4): <em>τρακόσια, έξι, τεσσάρων</em>
+* `EMPTY` (3): <em>τρακόσια, τεσσάρων</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (21) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (22) occur only with one value of `NumType`.
 
 ### `ADJ`
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Frac` (2; 3% of non-empty `NumType`): <em>τέταρτο</em>
 * `Ord` (58; 97% of non-empty `NumType`): <em>πρώτη, δεύτερη, πρώτο, δεύτερο, πρώτος, πρώτης, τρίτη, δέκατο, πρώτοι, τρίτο</em>
-* `EMPTY` (783): <em>κύριε, δική, Ασιάτη, Γεωργιανοί, ναυτιλιακές, άδεια, αστυνομικό, κυρία, μεγάλη, Αγίου</em>
+* `EMPTY` (791): <em>κύριε, δική, Ασιάτη, Γεωργιανοί, μεγάλη, ναυτιλιακές, άδεια, αστυνομικό, κυρία, Αγίου</em>
 
 <table>
   <tr><th>Paradigm <i>τέταρτος</i></th><th><tt>Ord</tt></th><th><tt>Frac</tt></th></tr>
@@ -55,11 +55,12 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Sets` (1; 100% of non-empty `NumType`): <em>χιλιάδες</em>
-* `EMPTY` (3212): <em>σπίτι, γραφείο, πόρτα, τηλέφωνο, αστυνόμε, δολοφονία, φορά, δουλειά, αστυνομία, εταιρείες</em>
+* `EMPTY` (3211): <em>σπίτι, γραφείο, πόρτα, τηλέφωνο, αστυνόμε, δολοφονία, φορά, δουλειά, αστυνομία, εταιρείες</em>
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>ADJ --[<tt><a href="el_gud-dep-compound.html">compound</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="el_gud-dep-flat.html">flat</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="el_gud-dep-compound.html">compound</a></tt>]--> ADJ</tt> (2; 100%),
+<tt>NUM --[<tt><a href="el_gud-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<tt><a href="el_gud-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (1; 100%).
 

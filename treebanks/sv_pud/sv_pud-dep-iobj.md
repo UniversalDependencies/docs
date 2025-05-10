@@ -27,11 +27,11 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 3	svårt	svår	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	0:root	_
 4	att	att	PART	IE	_	5	mark	5:mark	_
 5	tänka	tänka	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	3	csubj	3:csubj	_
-6	sig	sig	PRON	PN|UTR/NEU|SIN/PLU|DEF|OBJ	Case=Acc|Definite=Def	5	iobj	5:iobj	_
+6	sig	sig	PRON	PN|UTR/NEU|SIN/PLU|DEF|OBJ	Case=Acc|Definite=Def|PronType=Prs	5	iobj	5:iobj	_
 7	att	att	SCONJ	SN	_	9	mark	9:mark	_
 8	Italien	Italien	PROPN	PM|NOM	Case=Nom	9	nsubj	9:nsubj	_
 9	har	ha	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	5:ccomp	_
-10	färre	få	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	11	amod	11:amod	_
+10	färre	få	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp|Number=Plur	11	amod	11:amod	_
 11	kilometrar	kilometer	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	12	nmod	12:nmod	_
 12	tunnelbana	tunnelbana	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	9	obj	9:obj	_
 13	än	än	ADP	KN	_	14	case	14:case	_
@@ -57,7 +57,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 8	RECO	RECO	PROPN	PM|NOM	Case=Nom	10	nsubj	10:nsubj	_
 9	kan	kunna	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	10:aux	_
 10	ålägga	ålägga	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	6	acl:relcl	6:acl:relcl	_
-11	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing	12	det	12:det	_
+11	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	12	det	12:det	_
 12	mäklare	mäklare	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	10	iobj	10:iobj	_
 13	25 000	25 000	NUM	RG|NOM	Case=Nom	14	nummod	14:nummod	_
 14	dollar	dollar	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	6	nsubj	6:nsubj	SpaceAfter=No
@@ -85,7 +85,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 11	erbjudit	erbjuda	VERB	VB|SUP|AKT	VerbForm=Sup|Voice=Act	4	advcl	4:advcl:att	_
 12	att	att	PART	IE	_	13	mark	13:mark	_
 13	starta	starta	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	11	xcomp	11:xcomp	_
-14	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing	15	det	15:det	_
+14	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	15	det	15:det	_
 15	kampsportsskola	kampsportsskola	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	13	obj	13:obj	_
 16	i	i	ADP	PP	_	18	case	18:case	_
 17	huvudstaden	huvudstad	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	18	nmod	18:nmod	_

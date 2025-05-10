@@ -100,7 +100,7 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 21	účetní	účetní	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	22	amod	22:amod	LId=účetní-1
 22	zápisy	zápis	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	23	obj	23:obj	_
 23	uspořádají	uspořádat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	14:acl:relcl|16:acl:relcl	_
-24	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	26	case	26:case	LId=z-1
+24	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen|ExtPos=ADP	26	case	26:case	LId=z-1
 25	hlediska	hledisko	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	24	fixed	24:fixed	_
 26	časového	časový	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	23	obl	23:obl:z_hlediska:gen	_
 27	(	(	PUNCT	Z:-------------	_	28	punct	28:punct	SpaceAfter=No
@@ -127,7 +127,7 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 48	účetní	účetní	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	49	amod	49:amod	LId=účetní-1
 49	zápisy	zápis	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	50	obj	50:obj	_
 50	uspořádají	uspořádat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	44	acl:relcl	44:acl:relcl	_
-51	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	53	case	53:case	LId=z-1
+51	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen|ExtPos=ADP	53	case	53:case	LId=z-1
 52	hlediska	hledisko	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	51	fixed	51:fixed	_
 53	věcného	věcný	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	50	obl	50:obl:z_hlediska:gen	_
 54	(	(	PUNCT	Z:-------------	_	55	punct	55:punct	SpaceAfter=No

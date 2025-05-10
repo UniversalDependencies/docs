@@ -79,7 +79,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 8045 <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5457; 68%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="orv_rnc-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (7041; 88%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5457; 68%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -94,14 +94,17 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 <table>
   <tr><th>Paradigm <i>что</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Dem</tt></th><th><tt>Neg</tt></th><th><tt>Ind</tt></th></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>что</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_rnc-feat-ExtPos.html">ExtPos</a></tt><tt>=DET</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>что</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_rnc-feat-ExtPos.html">ExtPos</a></tt><tt>=DET</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>что</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>что</em></td><td><em>что, што, чтѡ</em></td><td></td><td><em>что</em></td><td><em>что</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>чему, чемꙋ, чому</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_rnc-feat-ExtPos.html">ExtPos</a></tt><tt>=DET</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>чево</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>чего</em></td><td><em>чего, чево, чег[о], чесо</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>чем</em></td><td><em>чем, чѣмъ, чимъ, чѣм</em></td><td></td><td><em>чемъ, чѣмъ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>что</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>чемъ</em></td><td><em>чем, чемъ, чом, чѣм</em></td><td></td><td><em>чем, чом, чемъ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>что</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_rnc-feat-ExtPos.html">ExtPos</a></tt><tt>=DET</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>что</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_rnc-feat-ExtPos.html">ExtPos</a></tt><tt>=DET</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>что</em></td><td><em>что, што</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>что, чьто</em></td><td><em>что, што, чтѡ</em></td><td><em>что</em></td><td></td><td><em>что, чтѡ</em></td></tr>
 </table>
 
@@ -138,10 +141,10 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>ADV --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADV</tt> (10; 77%),
 <tt>PRON --[<tt><a href="orv_rnc-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (9; 64%),
 <tt>PRON --[<tt><a href="orv_rnc-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (5; 100%),
+<tt>DET --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> DET</tt> (4; 57%),
 <tt>PRON --[<tt><a href="orv_rnc-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (4; 100%),
 <tt>PRON --[<tt><a href="orv_rnc-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (3; 100%),
 <tt>ADV --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%),
 <tt>ADV --[<tt><a href="orv_rnc-dep-mark.html">mark</a></tt>]--> ADV</tt> (1; 100%),
-<tt>DET --[<tt><a href="orv_rnc-dep-mark.html">mark</a></tt>]--> ADV</tt> (1; 100%),
-<tt>DET --[<tt><a href="orv_rnc-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (1; 100%).
+<tt>DET --[<tt><a href="orv_rnc-dep-mark.html">mark</a></tt>]--> ADV</tt> (1; 100%).
 

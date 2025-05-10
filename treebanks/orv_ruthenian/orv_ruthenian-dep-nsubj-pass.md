@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	Какъ	какъ	ADV	WRB	Degree=Pos	4	advmod	_	wf="Какъ"
 2	ис	изъ	ADP	IN	_	3	case	_	wf="ис"
 3	Риги	Рига	PROPN	NPI	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	4	obl	_	wf="Риги"
-4	шли	ити	VERB	VBC	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="шли"
+4	шли	ити	VERB	VBC	Aspect=Imp|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="шли"
 5	к	къ	ADP	IN	_	6	case	_	wf="к"
 6	Полоцкꙋ	Полоцкъ	PROPN	NPI	Case=Dat|Gender=Masc|NameType=Geo|Number=Sing	4	obl	_	wf="Полоцкꙋ"|SpaceAfter=No
 7	,	,	PUNCT	-COMMA-	_	4	punct	_	_
@@ -48,7 +48,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj:pass	color:blue
 1	То	то	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj:pass	_	wf="То"
-2	записано	записати	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="зап[и]сано"
+2	записано	записати	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="зап[и]сано"
 3	на	на	ADP	_	_	4	case	_	wf="на"
 4	привили	привилей	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	wf="приви<i>л</i>и"|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	wf="."
@@ -64,7 +64,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 17 10 nsubj:pass	color:blue
 1	Допущаем	допущати	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="Допущаем"
 2	теж	тежъ	ADV	RB	Degree=Pos	1	advmod	_	wf="теж"
-3	мети	мети	VERB	VB	VerbForm=Inf|Voice=Act	1	xcomp	_	wf="мети"
+3	мети	мети	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	wf="мети"
 4	в	въ	ADP	IN	_	6	case	_	wf="в"
 5	том	той	DET	DT	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	wf="том"
 6	месте	место	NOUN	NNI	Case=Loc|Gender=Neut|Number=Sing	1	obl	_	wf="месте"

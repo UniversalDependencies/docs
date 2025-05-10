@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>как</em> (<tt><a href="ru_poetry-p
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.831021).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.831486).
 
 The 1st highest number of forms (1) was observed with the lemma “аки”: <em>аки</em>.
 

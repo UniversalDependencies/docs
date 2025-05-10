@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>aide</em> (<tt><a href="fr_fqb-pos-NO
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.124020 (the average of all parts of speech is 1.164044).
+The form / lemma ratio of `NOUN` is 1.124020 (the average of all parts of speech is 1.164665).
 
 The 1st highest number of forms (19) was observed with the lemma “_”: <em>bord, cas, cause, chose, compte, cours, fin, fois, milieu, moment, moyenne, occasion, rapport, sujet, titres, travers, tête, vigueur, étranger</em>.
 

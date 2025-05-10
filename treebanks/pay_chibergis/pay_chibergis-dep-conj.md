@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-73 nodes (3%) are attached to their parents as `conj`.
+91 nodes (2%) are attached to their parents as `conj`.
 
-73 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.08219178082192.
+91 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.08791208791209.
 
-The following 10 pairs of parts of speech are connected with `conj`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (47; 64% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (9; 12% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (6; 8% instances), <tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt> (4; 5% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `conj`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (63; 69% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (9; 10% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (6; 7% instances), <tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt> (4; 4% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -39,7 +39,7 @@ The following 10 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 8 conj	color:blue
 1	tas	tas	PRON	PRO	_	2	nsubj	_	AlignBegin=27840|AlignEnd=28721|Gloss=PRO1|MGloss=PRO1|MSeg=tas|nWord=1|RX=[PRO]|TokenType=Root|Word=tas
-2	ye	ye	NOUN	N	_	7	advcl	_	AlignBegin=28721|AlignEnd=29602|Gloss=small|MGloss=small|MSeg=ye|nWord=2|RX=[N]|TokenType=Root|Word=ye
+2	ye	ye	NOUN	N	_	7	obl:tmod	_	AlignBegin=28721|AlignEnd=29602|Gloss=small|MGloss=small|MSeg=ye|nWord=2|RX=[N]|TokenType=Root|Word=ye
 3	=rira	r	AUX	COP	_	2	cop	_	AlignBegin=29602|AlignEnd=30483|Gloss==COP:S1SG:PST|MGloss==COP:S1SG:PST|MSeg==rira|nWord=3|RX=[COP]|TokenType=Clit|Word=rira
 4	=mã	=mã	SCONJ	PRT	_	2	mark	_	AlignBegin=30483|AlignEnd=31364|Gloss==when|MGloss==when|MSeg==mã|nWord=4|RX=[PRT]|TokenType=Clit|Word=mã
 5	tasuwa	suwa	NOUN	N	_	7	obl:arg	_	AlignBegin=31364|AlignEnd=32245|Gloss=grandmother|MGloss=POSS1- grandmother|MSeg=ta-suwa|nWord=5|RX=[N]|TokenType=Root|Word=tasuwa|wordform=ta-suwa
@@ -58,7 +58,7 @@ The following 10 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 10	fgColor:white
 # visual-style 10 11 conj	color:blue
 1	ãma	ãma	PART	PRT	_	2	discourse	_	AlignBegin=240066|AlignEnd=240617|Gloss=HES|MGloss=HES|MSeg=ãma|nWord=1|RX=[PRT]|TokenType=Root|Word=ãma
-2	araskerwa	arask	VERB	V:ANY	_	8	advcl	_	AlignBegin=240617|AlignEnd=241168|Gloss=push|MGloss=O3SG- push -S3PL -PFV|MSeg=Ø-arask-er-wa|nWord=2|RX=[VT]|TokenType=Root|Word=arãsker|wordform=Ø-arask-er-wa
+2	araskerwa	arask	VERB	V:ANY	_	8	obl:tmod	_	AlignBegin=240617|AlignEnd=241168|Gloss=push|MGloss=O3SG- push -S3PL -PFV|MSeg=Ø-arask-er-wa|nWord=2|RX=[VT]|TokenType=Root|Word=arãsker|wordform=Ø-arask-er-wa
 3	=ma	=ma	SCONJ	PRT	_	2	mark	_	AlignBegin=241168|AlignEnd=241719|Gloss==when|MGloss==when|MSeg==ma|nWord=3|RX=[PRT]|TokenType=Clit|Word=ma
 4	ãma	ãma	PART	PRT	_	8	discourse	_	AlignBegin=241719|AlignEnd=242270|Gloss=HES|MGloss=HES|MSeg=ãma|nWord=4|RX=[PRT]|TokenType=Root|Word=ãma
 5	aso	aso	NOUN	N	_	8	nsubj	_	AlignBegin=242270|AlignEnd=242821|Gloss=water|MGloss=water|MSeg=aso|nWord=5|RX=[N]|TokenType=Root|Word=aso

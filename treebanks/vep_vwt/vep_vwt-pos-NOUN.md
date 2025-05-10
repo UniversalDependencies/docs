@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>kerdan</em> (<tt><a href="vep_vwt-pos
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.534722 (the average of all parts of speech is 1.526854).
+The form / lemma ratio of `NOUN` is 1.534722 (the average of all parts of speech is 1.538660).
 
 The 1st highest number of forms (6) was observed with the lemma “rahvaz”: <em>rahvahad, rahvahan, rahvahaze, rahvahid, rahvast, rahvaz</em>.
 

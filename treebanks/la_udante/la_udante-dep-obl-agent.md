@@ -25,7 +25,7 @@ The following 13 pairs of parts of speech are connected with `obl:agent`: <tt><a
 # visual-style 2 3 obl:agent	color:blue
 1	An	an	PART	co	PartType=Int	7	discourse	_	_
 2	septi	sepio	VERB	vp4prpmv	Aspect=Perf|Case=Voc|Gender=Masc|InflClass=LatI|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	7	advcl:pred	_	TraditionalMood=Participium|TraditionalTense=Perfectum
-3	vallo	uallum	NOUN	sns2b	Case=Abl|Degree=Dim|Gender=Neut|InflClass=IndEurO|Number=Sing	2	obl:agent	_	_
+3	vallo	uallum	NOUN	sns2b	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	2	obl:agent	_	_
 4	ridiculo	ridiculus	ADJ	ams1b	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	3	amod	_	_
 5	cuiquam	quisquam	DET	dinsfd	Case=Dat|Compound=Yes|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind	6	det	_	_
 6	defensioni	defensio	NOUN	sfs3d	Case=Dat|Gender=Fem|InflClass=IndEurX|Number=Sing	7	obl:arg	_	_

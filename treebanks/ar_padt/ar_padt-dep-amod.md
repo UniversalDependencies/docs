@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-24421 nodes (9%) are attached to their parents as `amod`.
+24304 nodes (9%) are attached to their parents as `amod`.
 
-24335 instances of `amod` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.3714426108677.
+24219 instances of `amod` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.35706056616195.
 
-The following 16 pairs of parts of speech are connected with `amod`: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (23042; 94% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (641; 3% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (336; 1% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (289; 1% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (32; 0% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (32; 0% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (19; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="ar_padt-pos-PART.html">PART</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `amod`: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (22948; 94% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (640; 3% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (327; 1% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (288; 1% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (32; 0% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (31; 0% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (17; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="ar_padt-pos-PART.html">PART</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -48,22 +48,23 @@ The following 16 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 7 amod	color:blue
-1	40	40	NUM	Q---------	NumForm=Digit	0	root	0:root	Vform=٤٠|Translit=40
-2	ألف	أَلف	NUM	QM-----S4R	Case=Acc|Definite=Cons|Number=Sing|NumForm=Word	1	nummod	1:nummod	Vform=أَلفَ|Gloss=thousand|Root=' l f|Translit=ʾalfa|LTranslit=ʾalf
-3	حالة	حَالَة	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	2	nmod	2:nmod:gen	Vform=حَالَةِ|Gloss=condition,case,situation|Root=.h w l|Translit=ḥālati|LTranslit=ḥālat
-4	اختفاء	اِختِفَاء	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	3	nmod	3:nmod:gen	Vform=اِختِفَاءٍ|Gloss=disappearance|Root=_h f y|Translit=iḫtifāʾin|LTranslit=iḫtifāʾ
-5	ب	بِ	ADP	P---------	AdpType=Prep	6	case	6:case	Gloss=by,with|LTranslit=bi|Root=bi|Translit=bi|Vform=بِ
-6	مصر	مِصر	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	3	nmod	3:nmod:بِ:gen	Gloss=Egypt|LTranslit=miṣr|Root=m .s r|Translit=miṣra|Vform=مِصرَ
-7	أشهر	أَشهَر	ADJ	A-----MS1R	Case=Nom|Definite=Cons|Gender=Masc|Number=Sing	1	amod	1:amod	Gloss=more_/_most_famous,more_/_most_well_-_known|LTranslit=ʾašhar|Root=^s h r|Translit=ʾašharu|Vform=أَشهَرُ
-8	ها	هُوَ	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hā|Vform=هَا
-9	الصحافي	صَحَافِيّ	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	7	nsubj	7:nsubj	Vform=اَلصَّحَافِيُّ|Gloss=journalist,reporter|Root=.s .h f|Translit=aṣ-ṣaḥāfīyu|LTranslit=ṣaḥāfīy
-10	رضا	رضا	X	U---------	_	11	nmod	11:nmod	Vform=رضا|Root=OOV|Translit=rḍā
-11	هلال	هلال	X	U---------	_	9	nmod	9:nmod	Vform=هلال|Root=OOV|Translit=hlāl
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 amod	color:blue
+1	و	وَ	CCONJ	C---------	_	0	root	0:root	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
+2	تشارك	شَارَك	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	parataxis	1:parataxis	Gloss=participate,share|LTranslit=šārak|Root=^s r k|Translit=tušāriku|Vform=تُشَارِكُ
+3	طومسون	طُومسُون	X	X---------	Foreign=Yes	2	nsubj	2:nsubj	Vform=طُومسُون|Gloss=Thomson,Tomson|Root=.tUmsUn|Translit=ṭūmsūn|LTranslit=ṭūmsūn
+4	و	وَ	CCONJ	C---------	_	5	cc	5:cc	LTranslit=wa|Translit=wa|Vform=وَ
+5	توريس	تُورِيس	PROPN	Z---------	_	3	conj	2:nsubj|3:conj	Gloss=Torres|LTranslit=tuwriys|Translit=tuwriys|Vform=تُورِيس
+6	في	فِي	ADP	P---------	AdpType=Prep	7	case	7:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
+7	سباق	سِبَاق	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	2	obl:arg	2:obl:arg:فِي:gen	Vform=سِبَاقِ|Gloss=race,competition|Root=s b q|Translit=sibāqi|LTranslit=sibāq
+8	50	50	NUM	Q---------	NumForm=Digit	7	nummod	7:nummod	Vform=٥٠|Translit=50
+9	م	م	X	Y---------	Abbr=Yes	8	nmod	8:nmod	Vform=م|Gloss=(_A.D._),meter|Root=m|Translit=m|LTranslit=m
+10	حرة	حُرّ	ADJ	A-----FS4I	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	8	amod	8:amod	Vform=حُرَّةً|Gloss=free,independent,liberal,noble|Root=.h r r|Translit=ḥurratan|LTranslit=ḥurr
+11	ايضا	أَيضًا	ADV	D---------	_	7	advmod:emph	7:advmod:emph	SpaceAfter=No|Vform=أَيضًا|Gloss=also|Root=' y .d|Translit=ʾayḍan|LTranslit=ʾayḍan
+12	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 
 ~~~
 

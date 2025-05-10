@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-225 nodes (23%) are attached to their parents as `punct`.
+230 nodes (23%) are attached to their parents as `punct`.
 
-169 instances of `punct` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.06222222222222.
+173 instances of `punct` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.02608695652174.
 
-The following 7 pairs of parts of speech are connected with `punct`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (171; 76% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (34; 15% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (6; 3% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (6; 3% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (4; 2% instances), <tt><a href="apu_ufpa-pos-INTJ.html">INTJ</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances).
+The following 7 pairs of parts of speech are connected with `punct`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (173; 75% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (35; 15% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (7; 3% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (6; 3% instances), <tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (4; 2% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="apu_ufpa-pos-INTJ.html">INTJ</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -23,9 +23,9 @@ The following 7 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 4	fgColor:white
 # visual-style 4 6 punct	color:blue
 1	Pupỹkary	pupỹkary	NOUN	N	Case=Nom|Gender=Masc	4	nsubj	_	gloss_pt=apurinã
-2	ithupa	ithupa	NOUN	N	Case=Nom|Gender=Masc	3	obj	_	gloss_pt=mata
-3	sikasaaky	sika	VERB	_	Case=Tem|VerbForm=Conv	4	advcl:tcl	_	gloss_pt=dar-TEMP
-4	atamatary	atama	VERB	_	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	0	root	_	gloss_pt=ver-VBLZ-3SG.M.O
+2	ĩthupa	ĩthupa	NOUN	N	Case=Nom|Gender=Masc	3	obj	_	gloss_pt=mata
+3	sykasaaky	syka	VERB	_	Case=Tem|VerbForm=Conv	4	advcl	_	gloss_pt=dar-TEMP
+4	atamatary	atama	VERB	_	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres	0	root	_	gloss_pt=ver-VBLZ-3SG.M.O
 5	erẽkatxi	herẽkatxi	NOUN	N	Case=Nom|Gender=Masc|Possessed=No	4	obj	_	gloss_pt=sangue.de-N.POSSD|SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -42,9 +42,9 @@ The following 7 pairs of parts of speech are connected with `punct`: <tt><a href
 2	,	,	PUNCT	_	_	3	punct	_	_
 3	ũimiakury	imi	NOUN	XPOS=3SG.F-filho.de-PL	_	1	conj	_	gloss[pt]=3SG.F-filho.de-PL
 4	ũtanyry	tanyry	NOUN	XPOS=3SG.F-esposo.de	_	1	conj	_	gloss[pt]=3SG.F-esposo.de
-5	awary	awa	VERB	XPOS=ter	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	0	root	_	gloss[pt]=ter-3SG.M.O
+5	awary	awa	VERB	XPOS=ter	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres	0	root	_	gloss[pt]=ter-3SG.M.O
 6	aiku	aiku	NOUN	XPOS=casa	_	5	obj	_	gloss[pt]=casa
-7	myremanary	remana	VERB	XPOS=ATRIB.INTENS-?grande	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	6	acl	_	gloss[pt]=ATRIB.INTENS-?grande-3SG.M.O|SpaceAfter=No
+7	myremanary	remana	VERB	XPOS=ATRIB.INTENS-?grande	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres	6	acl	_	gloss[pt]=ATRIB.INTENS-?grande-3SG.M.O|SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -57,8 +57,8 @@ The following 7 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 5 punct	color:blue
 1	Ĩsũana	ĩsũana	NOUN	XPOS=rio	_	2	nsubj	_	gloss[pt]=rio
-2	myrykynyty	ykyny	ADV	XPOS=ATRIB.INTENS-FOC-tudo	Gender[subj]=Masc|Number[subj]=Sing|Person[subj]=3|VerbType=Vido	0	root	_	gloss[pt]=ATRIB.INTENS-FOC-tudo-3SG.M.O
-3	itxa	txa	AUX	XPOS=3SG.M-AUX	_	2	aux	_	gloss[pt]=3SG.M-AUX
+2	myrykynyty	ykyny	ADV	XPOS=ATRIB.INTENS-FOC-tudo	Gender[subj]=Masc|Number[subj]=Sing|Person[subj]=3|Tense=Past,Pres|VerbType=Vido	0	root	_	gloss[pt]=ATRIB.INTENS-FOC-tudo-3SG.M.O
+3	itxa	txa	AUX	XPOS=3SG.M-AUX	Gender[subj]=Masc|Number[subj]=Sing|Person[subj]=3|Tense=Past,Pres	2	aux	_	gloss[pt]=3SG.M-AUX
 4	ximaky	ximaky	NOUN	N	Case=Nom|Gender=Masc|Number=Sing	2	obj	_	gloss[pt]=peixe|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
 

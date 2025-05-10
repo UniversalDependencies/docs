@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-3248 tokens (14%) have a non-empty value of `Person`.
+3247 tokens (14%) have a non-empty value of `Person`.
 291 types (7%) occur at least once with a non-empty value of `Person`.
 164 lemmas (5%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1602; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (833; 3% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (811; 3% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (2; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1602; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (832; 3% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (811; 3% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 ### `AUX`
 
@@ -42,16 +42,16 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `VERB`
 
-833 <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> tokens (44% of all `VERB` tokens) have a non-empty value of `Person`.
+832 <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> tokens (44% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (833; 100%), <tt><a href="fr_fqb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (833; 100%), <tt><a href="fr_fqb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (833; 100%), <tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (780; 94%), <tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (734; 88%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (706; 85%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (832; 100%), <tt><a href="fr_fqb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (832; 100%), <tt><a href="fr_fqb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (832; 100%), <tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (779; 94%), <tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (733; 88%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (705; 85%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (60; 7% of non-empty `Person`): <em>puis, ai, vais, Rions, utilisons</em>
 * `2` (73; 9% of non-empty `Person`): <em>Nommez, dois, devez, viens, Définissez, Laissez, Pouvez, participiez, perçois, peux</em>
-* `3` (700; 84% of non-empty `Person`): <em>trouve, est, a, signifie, eut, fait, nomme, appelle, peut, avait</em>
-* `EMPTY` (1057): <em>inventé, né, situé, écrit, mort, connu, faire, joué, eu, obtenir</em>
+* `3` (699; 84% of non-empty `Person`): <em>trouve, est, a, signifie, eut, fait, nomme, appelle, peut, avait</em>
+* `EMPTY` (1058): <em>inventé, né, situé, écrit, mort, connu, faire, joué, eu, fait</em>
 
 <table>
   <tr><th>Paradigm <i>pouvoir</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

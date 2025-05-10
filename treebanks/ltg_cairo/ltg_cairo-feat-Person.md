@@ -12,7 +12,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 47 tokens (28%) have a non-empty value of `Person`.
 39 types (33%) occur at least once with a non-empty value of `Person`.
 32 lemmas (30%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (27; 16% instances), <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> (18; 11% instances), <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> (2; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (27; 16% instances), <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> (20; 12% instances).
 
 ### `VERB`
 
@@ -37,32 +37,21 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-18 <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> tokens (95% of all `PRON` tokens) have a non-empty value of `Person`.
+20 <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> tokens (77% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 94%), <tt><a href="ltg_cairo-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (16; 89%), <tt><a href="ltg_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11; 61%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ltg_cairo-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19; 95%), <tt><a href="ltg_cairo-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (16; 80%), <tt><a href="ltg_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (12; 60%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (2; 11% of non-empty `Person`): <em>Es, Maņ</em>
-* `2` (4; 22% of non-empty `Person`): <em>tu</em>
-* `3` (12; 67% of non-empty `Person`): <em>jis, jei, Jai, Jim, jam, juo, tuo, tū</em>
-* `EMPTY` (1): <em>kuo</em>
-
-### `DET`
-
-2 <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> tokens (29% of all `DET` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="ltg_cairo-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (2; 100%), <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="ltg_cairo-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ltg_cairo-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (2; 100%).
-
-`DET` tokens may have the following values of `Person`:
-
-* `3` (2; 100% of non-empty `Person`): <em>Itei, tamā</em>
-* `EMPTY` (5): <em>Muns, kaida, kurs, sovai, sovam</em>
+* `1` (2; 10% of non-empty `Person`): <em>Es, Maņ</em>
+* `2` (4; 20% of non-empty `Person`): <em>tu</em>
+* `3` (14; 70% of non-empty `Person`): <em>jis, jei, Itei, Jai, Jim, jam, juo, tamā, tuo, tū</em>
+* `EMPTY` (6): <em>Muns, kaida, kuo, kurs, sovai, sovam</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="ltg_cairo-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (11; 100%),
+<tt>VERB --[<tt><a href="ltg_cairo-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (11; 92%),
 <tt>VERB --[<tt><a href="ltg_cairo-dep-conj.html">conj</a></tt>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<tt><a href="ltg_cairo-dep-obj.html">obj</a></tt>]--> PRON</tt> (2; 100%),
 <tt>VERB --[<tt><a href="ltg_cairo-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1; 100%).

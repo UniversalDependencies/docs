@@ -43,14 +43,14 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 21	fgColor:white
 # visual-style 21 22 orphan	color:blue
 1	Die	der	DET	ART	Case=Nom|Definite=Def|Number=Plur|PronType=Art	2	det	_	_
-2	Anwenderzahlen	Zahl	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+2	Anwenderzahlen	Anwenderzahl	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
 3	liegen	liegen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	nach	nach	ADV	ADV	_	3	advmod	_	_
 5	wie	wie	CCONJ	KOKOM	ConjType=Comp	6	mark	_	_
 6	vor	vor	ADV	ADV	_	4	advcl	_	_
 7	unter	unter	ADP	APPR	AdpType=Prep|Case=Dat	9	case	_	_
 8	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	100.000-Marke	Marke	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	_
+9	100.000-Marke	100.000-Marke	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	_
 10	,	,	PUNCT	$,	PunctType=Comm	16	punct	_	_
 11	während	während	SCONJ	KOUS	_	16	mark	_	_
 12	T-Online	T-Online	PROPN	NE	Case=Nom|Number=Sing	16	nsubj	_	_

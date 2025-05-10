@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Scottish_Gaelic-ARCOSG: POS Tags: `PUNCT`
 
-There are 18 `PUNCT` lemmas (0%), 19 `PUNCT` types (0%) and 5390 `PUNCT` tokens (6%).
-Out of 17 observed tags, the rank of `PUNCT` is: 15 in number of lemmas, 16 in number of types and 7 in number of tokens.
+There are 18 `PUNCT` lemmas (0%), 19 `PUNCT` types (0%) and 5392 `PUNCT` tokens (6%).
+Out of 17 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 15 in number of types and 7 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>,, ., ", ?, “, -, ', ;, ..., –</em>
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>?</em> (<tt><a href="gd_arcosg-pos-PU
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.055556 (the average of all parts of speech is 1.302531).
+The form / lemma ratio of `PUNCT` is 1.055556 (the average of all parts of speech is 1.311377).
 
 The 1st highest number of forms (2) was observed with the lemma “'”: <em>', ‘</em>.
 
@@ -40,11 +40,11 @@ The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="gd_arcosg-dep-punct.html">punct</a></tt> (5390; 100% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="gd_arcosg-dep-punct.html">punct</a></tt> (5392; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (3215; 60% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1343; 25% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (294; 5% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (201; 4% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (127; 2% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (72; 1% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (61; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (36; 1% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (3196; 59% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1344; 25% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (297; 6% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (217; 4% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (125; 2% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (71; 1% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (63; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (36; 1% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (2; 0% instances)
 
-5390 (100%) `PUNCT` nodes are leaves.
+5392 (100%) `PUNCT` nodes are leaves.
 
 The highest child degree of a `PUNCT` node is 0.
 

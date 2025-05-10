@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Kadri Muischnek, Kaili Müürisep, Tiina Puolakainen, Dage Särg, Sandra Eiche, Andriela Rääbis.
 
 Repository: [UD_Estonian-EWT](https://github.com/UniversalDependencies/UD_Estonian-EWT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udet_ewt215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udet_ewt216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -47,7 +47,7 @@ UD EWT treebank consists of different genres of new media. The treebank contains
 
 
 
-Estonian Web Treebank UD v2.13 consists of four parts. Its older part (1,662 trees, v2.4) is a converted version of the Estonian Web Treebank (EWT), originally annotated in the Constraint Grammar (CG) annotation scheme, and consisting of different genres of new media.
+Estonian Web Treebank UD v2.16 consists of four parts. Its older part (1,662 trees, v2.4) is a converted version of the Estonian Web Treebank (EWT), originally annotated in the Constraint Grammar (CG) annotation scheme, and consisting of different genres of new media.
 The second part (1,495 trees, v2.6) consists of internet forum texts and has been annotated using [Stanza parser](https://stanfordnlp.github.io/stanza/), followed by manual post-editing.
 The third part (v2.8) has been annnotated in the same way. It consists of users' feedbacks to news about Covid19 pandemic in 2020-2021 (~12,725 tokens).
 The fourth part consists of different forum texts (reddit, military, gardening, cars). In addition to standard ud annotation, annotation of named entiites has been added to MISC-field (NE=B-Type or NE=I-Type, there TYPE stands for PER (person), ORG (organisation), LOC (location), GEP (geopolitical name), EVENT (events), PROD (product), MUU (other) or UNK (unknown)).
@@ -74,7 +74,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
 
 ## Features
 
-[Abbr](et_ewt-feat-Abbr.html) – [AdpType](et_ewt-feat-AdpType.html) – [Case](et_ewt-feat-Case.html) – [Connegative](et_ewt-feat-Connegative.html) – [Definite](et_ewt-feat-Definite.html) – [Degree](et_ewt-feat-Degree.html) – [Foreign](et_ewt-feat-Foreign.html) – [Gender](et_ewt-feat-Gender.html) – [Hyph](et_ewt-feat-Hyph.html) – [Mood](et_ewt-feat-Mood.html) – [Number](et_ewt-feat-Number.html) – [NumForm](et_ewt-feat-NumForm.html) – [NumType](et_ewt-feat-NumType.html) – [Person](et_ewt-feat-Person.html) – [Polarity](et_ewt-feat-Polarity.html) – [Poss](et_ewt-feat-Poss.html) – [PronType](et_ewt-feat-PronType.html) – [Reflex](et_ewt-feat-Reflex.html) – [Style](et_ewt-feat-Style.html) – [Tense](et_ewt-feat-Tense.html) – [Typo](et_ewt-feat-Typo.html) – [VerbForm](et_ewt-feat-VerbForm.html) – [Voice](et_ewt-feat-Voice.html)
+[Abbr](et_ewt-feat-Abbr.html) – [AdpType](et_ewt-feat-AdpType.html) – [Case](et_ewt-feat-Case.html) – [Connegative](et_ewt-feat-Connegative.html) – [Definite](et_ewt-feat-Definite.html) – [Degree](et_ewt-feat-Degree.html) – [ExtPos](et_ewt-feat-ExtPos.html) – [Foreign](et_ewt-feat-Foreign.html) – [Gender](et_ewt-feat-Gender.html) – [Hyph](et_ewt-feat-Hyph.html) – [Mood](et_ewt-feat-Mood.html) – [Number](et_ewt-feat-Number.html) – [NumForm](et_ewt-feat-NumForm.html) – [NumType](et_ewt-feat-NumType.html) – [Person](et_ewt-feat-Person.html) – [Polarity](et_ewt-feat-Polarity.html) – [Poss](et_ewt-feat-Poss.html) – [PronType](et_ewt-feat-PronType.html) – [Reflex](et_ewt-feat-Reflex.html) – [Style](et_ewt-feat-Style.html) – [Tense](et_ewt-feat-Tense.html) – [Typo](et_ewt-feat-Typo.html) – [VerbForm](et_ewt-feat-VerbForm.html) – [Voice](et_ewt-feat-Voice.html)
 
 ## Relations
 
@@ -117,7 +117,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
 </ul>
 
 <ul>
-<li>This corpus contains 61 lemmas tagged as pronouns (PRON): You, enda, i, iga, iga_üks, ise, ise_enese, ise_sugune, it, ja_veel_üks, kedagi-midagi, keegi, kes, kes_se, kolmas, kumb, kumbki, kõige, kõigest, kõik, ma_i, mina, mingi, mingi_sugune, mis, miski, mitte_keegi, mitte_miski, mitu, muu, my, mõlema, mõni, need, nii_palju, nii_sugune, oma, palju, sama, see, see_sama, selline, sest, sina, smth, tegelt, teine, teine_teise, teist_sugune, tema, temake, this, too, vot, what, whatever, üht-teist, üks, üks_teise, üksi, ükski</li>
+<li>This corpus contains 62 lemmas tagged as pronouns (PRON): You, enda, i, iga, iga_üks, ise, ise_enese, ise_sugune, it, ja_veel_üks, kedagi-midagi, keegi, kes, kes_se, kolmas, kumb, kumbki, kõige, kõigest, kõik, ma_i, mida, mina, mingi, mingi_sugune, mis, miski, mitte_keegi, mitte_miski, mitu, muu, my, mõlema, mõni, need, nii_palju, nii_sugune, oma, palju, sama, see, see_sama, selline, sest, sina, smth, tegelt, teine, teine_teise, teist_sugune, tema, temake, this, too, vot, what, whatever, üht-teist, üks, üks_teise, üksi, ükski</li>
 </ul>
 
 <ul>
@@ -238,7 +238,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
     <ul>
       <li>ADJ: head, vanad, erinevaid, suured, häid, uusi, erinevate, suurte, uued, mustad</li>
       <li>ADJ-Part: erinevaid, erinevate, erinevad, erinevatel, erinevatest, huvitavad, olevate, huvitavaid, langevad, arenevad</li>
-      <li>AUX-Fin: on, olid, oleme, võivad, peavad, olete, peaksid, võiksid, oleksid, olime</li>
+      <li>AUX-Fin: on, olid, oleme, võivad, peavad, olete, peaksid, võiksid, olime, saavad</li>
       <li>DET: need, kõik, neid, nende, mingid, paljud, mingeid, mõned, sellised, selliste</li>
       <li>NOUN: inimesed, inimesi, asju, asjad, inimeste, autosid, teemad, naised, mehed, tulemused</li>
       <li>NOUN-Part: nakatunuid, surnuid, nakatunutest, nakatunute, Tänud, haigestunuid, haigestunute, haigestunutest, hukkunute, lõpetanud</li>
@@ -341,7 +341,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
       <li>ADJ-Part: eelnevale, hoolitsevale, liikuvale, mõtlevale, mööduvatele, rünnatavatele, tegevatele, toimuvale, vajavale</li>
       <li>DET: sellele, mingile, igale, nendele, sellisele, kõigile, mingitele, muule, sellistele, ühele</li>
       <li>NOUN: tööle, inimestele, lehele, teele, kohale, inimesele, peole, asjale, hobusele, koolile</li>
-      <li>NUM: 1-le, 2-3le, 3-le, 40'le, 700'le, kahele</li>
+      <li>NUM: 1-le, 2-3le, 3-le, 40'le, 700'le, kahele, ühele</li>
       <li>PRON: mulle, endale, talle, neile, sellele, sulle, meile, kõigile, kellele, omale</li>
       <li>PROPN: eestile, ja-le, Maale, Suvatüübile, eelmine-q-le, saaremaale, EKV-le, Ivanovile, Leelotajale, Marsile</li>
     </ul>
@@ -440,7 +440,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
     <ul>
       <li>ADJ: hea, suur, võimalik, huvitav, õige, parem, uus, esimene, lihtne, tore</li>
       <li>ADJ-Part: huvitav, erinevad, huvitavad, leviv, mõeldav, vastav, erinev, hirmutav, langevad, nakkav</li>
-      <li>DET: see, mingi, kõik, need, üks, selline, iga, teine, mis, sama</li>
+      <li>DET: see, mingi, kõik, need, üks, selline, iga, mis, teine, sama</li>
       <li>NOUN: asi, inimesed, inimene, teema, mees, päev, auto, aeg, aasta, osa</li>
       <li>NOUN-Part: Kirjapandu, Tänud, läbipõdenu, lõpetanud, põdenud, surnu</li>
       <li>NUM: kaks, paar, üks, kolm, pool, viis, paarkümmend, pooled, kaheksa, kuus</li>
@@ -473,7 +473,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
       <li>DET: selleni</li>
       <li>NOUN: lõpuni, alguseni, kraadini, ajurakkudeni, eesmärgini, hetkeni, hommikuni, karantiini, keeluni, klaasini</li>
       <li>NUM: 160-ni, 5ni</li>
-      <li>PRON: selleni, meieni, milleni, minuni, sinuni</li>
+      <li>PRON: selleni, sinuni, meieni, milleni, minuni</li>
     </ul>
   </li>
 </ul>
@@ -704,7 +704,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
     <ul>
       <li>ADJ: mingisugust, millistes, mingisuguseid, mõnda, mõndagi, mõned, mõni, mõnigi</li>
       <li>DET: mingi, üks, mingit, ühe, mingid, mõne, paljud, mõni, mingeid, mõned</li>
-      <li>PRON: midagi, keegi, muud, kellegi, kedagi, millegi, mõned, paljud, miski, üks</li>
+      <li>PRON: midagi, keegi, muud, kellegi, kedagi, millegi, mõned, paljud, miski, kellelgi</li>
     </ul>
   </li>
 </ul>
@@ -766,7 +766,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
   <li>Tot
     <ul>
       <li>DET: kogu, kõik, iga, igal, terve, igas, kõiki, igast, kõigi, igale</li>
-      <li>PRON: kõik, kõike, kõigile, kõigil, igal, mõlemad, kõige, kõigi, mõlemal, k6ik</li>
+      <li>PRON: kõik, kõike, kõigile, kõigil, mõlemad, igal, kõige, kõigi, mõlemal, k6ik</li>
     </ul>
   </li>
 </ul>
@@ -853,7 +853,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: oled, võid, ära, olete, pead, ole, saad, saate, ärge, oledki</li>
+      <li>AUX-Fin: oled, võid, ära, olete, pead, ole, saad, saate, olid, ärge</li>
       <li>PRON: sa, sinu, sul, te, sina, sind, su, sulle, teie, teile</li>
       <li>VERB-Fin: saad, tead, teed, vaata, mine, tahad, mõtle, arvad, hakkad, minge</li>
     </ul>
@@ -923,6 +923,37 @@ This work was financed by the [National Programme for Estonian Language Technolo
           <li>AUX: ole, saa, ei, olnud, pea, tohi, oleks, peaks, olegi, tohiks</li>
           <li>AUX-Fin: ole, saa, olnud, pea, tohi, oleks, peaks, olegi, tohiks, peagi</li>
           <li>VERB-Fin: tea, saa, ole, taha, usu, oska, tee, hakka, suuda, tule</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADV: enam, nii, kas, Eks, kuidas, millal, rohkem, samahästi, tahes, vähem</li>
+          <li>NUM: üks</li>
+          <li>PRON: igal, igale, igalt, mis, teisele</li>
+          <li>VERB-Fin: tea, teab</li>
+        </ul>
+      </li>
+      <li>INTJ
+        <ul>
+          <li>INTJ: No</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>PRON: mis, mida, kes</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADV: nii, enne, isegi, ennem, samas, ainult, eriti, ilma, niimodi, olgugi</li>
+          <li>PRON: mis</li>
         </ul>
       </li>
     </ul>
@@ -1052,10 +1083,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (21)</li>
-      <li>VERB-Fin--NOUN-Nom (1504)</li>
+      <li>VERB-Fin--NOUN-Nom (1503)</li>
       <li>VERB-Fin--NOUN-Par (249)</li>
       <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Nom (1713)</li>
+      <li>VERB-Fin--PRON-Nom (1714)</li>
       <li>VERB-Fin--PRON-Par (52)</li>
       <li>VERB-Inf--NOUN (3)</li>
       <li>VERB-Inf--NOUN-Gen (2)</li>
@@ -1088,7 +1119,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (17)</li>
       <li>VERB-Fin--NOUN-Gen (356)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(üle) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (210)</li>
+      <li>VERB-Fin--NOUN-Nom (211)</li>
       <li>VERB-Fin--NOUN-Par (1021)</li>
       <li>VERB-Fin--NOUN-Par-ADP(mööda) (1)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
@@ -1109,7 +1140,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Nom (121)</li>
       <li>VERB-Part--NOUN-Par (137)</li>
       <li>VERB-Part--PRON-Gen (7)</li>
-      <li>VERB-Part--PRON-Nom (51)</li>
+      <li>VERB-Part--PRON-Nom (50)</li>
       <li>VERB-Part--PRON-Par (55)</li>
       <li>VERB-Sup--NOUN-Gen (26)</li>
       <li>VERB-Sup--NOUN-Nom (8)</li>

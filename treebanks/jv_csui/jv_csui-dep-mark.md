@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-309 nodes (2%) are attached to their parents as `mark`.
+310 nodes (2%) are attached to their parents as `mark`.
 
-308 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.97734627831715.
+309 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.97741935483871.
 
-The following 6 pairs of parts of speech are connected with `mark`: <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> (257; 83% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> (34; 11% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> (11; 4% instances), <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="jv_csui-pos-X.html">X</a></tt>-<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `mark`: <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> (257; 83% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> (34; 11% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> (11; 4% instances), <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="jv_csui-pos-X.html">X</a></tt>-<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

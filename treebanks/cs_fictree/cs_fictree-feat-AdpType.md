@@ -28,5 +28,6 @@ The feature is used with 1 part-of-speech tags: <tt><a href="cs_fictree-pos-ADP.
   <tr><th>Paradigm <i>v</i></th><th><tt>Prep</tt></th><th><tt>Voc</tt></th></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>v</em></td><td><em>ve</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>v</em></td><td><em>ve</em></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_fictree-feat-ExtPos.html">ExtPos</a></tt><tt>=ADP</tt></tt></td><td><em>v</em></td><td><em>ve</em></td></tr>
 </table>
 

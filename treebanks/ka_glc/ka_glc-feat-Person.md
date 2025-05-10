@@ -46,6 +46,6 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>PRON --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> PRON</tt> (17; 68%),
-<tt>PRON --[<tt><a href="ka_glc-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<tt><a href="ka_glc-dep-compound.html">compound</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="ka_glc-dep-obl.html">obl</a></tt>]--> PRON</tt> (1; 100%).
 

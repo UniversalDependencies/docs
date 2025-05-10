@@ -11,7 +11,7 @@ It occurs with 4 different values: `Acc`, `Dat`, `Gen`, `Nom`.
 
 1120237 tokens (32%) have a non-empty value of `Case`.
 35564 types (19%) occur at least once with a non-empty value of `Case`.
-13775 lemmas (20%) occur at least once with a non-empty value of `Case`.
+27326 lemmas (19%) occur at least once with a non-empty value of `Case`.
 The feature is used with 9 part-of-speech tags: <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (489411; 14% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (345545; 10% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (93577; 3% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (78735; 2% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (61547; 2% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (50239; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (1074; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (61; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (48; 0% instances).
 
 ### `DET`
@@ -50,7 +50,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 * `Dat` (257485; 75% of non-empty `Case`): <em>in, von, mit, zu, bei, an, nach, auf, aus, vor</em>
 * `Gen` (2424; 1% of non-empty `Case`): <em>angesichts, aufgrund, wegen, außerhalb, anhand, innerhalb, trotz, hinsichtlich, während, zugunsten</em>
 * `Nom` (331; 0% of non-empty `Case`): <em>namens, voller</em>
-* `EMPTY` (40179): <em>für, bis, an, aus, vor, per, ab, ein, auf, wegen</em>
+* `EMPTY` (40180): <em>für, bis, an, aus, vor, per, ab, ein, auf, wegen</em>
 
 <table>
   <tr><th>Paradigm <i>in</i></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
@@ -100,8 +100,8 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>Jahr</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Boomjahr</em></td><td><em>Jahr</em></td><td><em>Jahre, Jahr, Finanzjahr</em></td><td><em>Jahres, Jahrs, Finanzjahres, Startup-Jahres, Verkaufsjahres</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Jahre</em></td><td><em>Jahre</em></td><td><em>Jahren, 70er-Jahren, 50-er-Jahren, 50er-Jahren, 80er-Jahren, 90er-Jahren, Achtzigerjahren, Anfangsjahren, Boom-Jahren, Folgejahren, Internet-Jahren, Neunzigerjahren, Startjahren, Wachstumsjahren</em></td><td><em>Jahre, 80er-Jahre</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Jahr</em></td><td><em>Jahre, Jahr</em></td><td><em>Jahres, Jahrs</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Jahre</em></td><td><em>Jahre</em></td><td><em>Jahren</em></td><td><em>Jahre</em></td></tr>
 </table>
 
 ### `PROPN`
@@ -173,7 +173,7 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 * `Dat` (356; 33% of non-empty `Case`): <em>mehreren, meisten, mehr, weniger</em>
 * `Gen` (69; 6% of non-empty `Case`): <em>mehrerer, weniger</em>
 * `Nom` (273; 25% of non-empty `Case`): <em>mehrere, meisten</em>
-* `EMPTY` (195520): <em>auch, noch, nur, so, aber, mehr, bereits, allerdings, damit, schon</em>
+* `EMPTY` (195519): <em>auch, noch, nur, so, aber, mehr, bereits, allerdings, damit, schon</em>
 
 <table>
   <tr><th>Paradigm <i>mehr</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
@@ -228,13 +228,13 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>PRON --[<tt><a href="de_hdt-dep-case.html">case</a></tt>]--> ADP</tt> (5703; 96%),
-<tt>DET --[<tt><a href="de_hdt-dep-case.html">case</a></tt>]--> ADP</tt> (4574; 97%),
+<tt>DET --[<tt><a href="de_hdt-dep-case.html">case</a></tt>]--> ADP</tt> (4567; 97%),
 <tt>ADJ --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (450; 75%),
 <tt>DET --[<tt><a href="de_hdt-dep-det.html">det</a></tt>]--> DET</tt> (357; 58%),
+<tt>ADP --[<tt><a href="de_hdt-dep-fixed.html">fixed</a></tt>]--> DET</tt> (57; 95%),
 <tt>DET --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> DET</tt> (47; 55%),
 <tt>PRON --[<tt><a href="de_hdt-dep-appos.html">appos</a></tt>]--> DET</tt> (45; 92%),
 <tt>PRON --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> PRON</tt> (43; 93%),
-<tt>ADP --[<tt><a href="de_hdt-dep-fixed.html">fixed</a></tt>]--> DET</tt> (37; 97%),
 <tt>PRON --[<tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (31; 79%),
 <tt>NOUN --[<tt><a href="de_hdt-dep-amod.html">amod</a></tt>]--> NOUN</tt> (22; 65%).
 

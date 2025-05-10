@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Moksha-JR: Relations: `nmod:bahuv`
 
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-nmod.html">nmod</a></tt>.
-There are also 4 other language-specific subtypes of `nmod`: <tt><a href="mdf_jr-dep-nmod-gobj.html">nmod:gobj</a></tt>, <tt><a href="mdf_jr-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="mdf_jr-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="mdf_jr-dep-nmod-tmod.html">nmod:tmod</a></tt>.
+There are also 2 other language-specific subtypes of `nmod`: <tt><a href="mdf_jr-dep-nmod-gobj.html">nmod:gobj</a></tt>, <tt><a href="mdf_jr-dep-nmod-poss.html">nmod:poss</a></tt>.
 
 2 nodes (0%) are attached to their parents as `nmod:bahuv`.
 
@@ -36,7 +36,7 @@ The following 2 pairs of parts of speech are connected with `nmod:bahuv`: <tt><a
 11	васта	васта	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	9	obj	_	GTtags=Sg,Nom,Indef
 12	И.	И	NOUN	N	Abbr=Yes	14	nmod	_	GTtags=ABBR
 13	Девинонь	Девин	PROPN	N	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Masc|NameType=Sur|Number=Plur,Sing	12	flat:name	_	GTtags=Prop,Sem/Mal-Sur,SP,Gen,Indef
-14	творчестваса	творчества	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	9	obl:lmod	_	GTtags=SP,Ine,Indef|SpaceAfter=No
+14	творчестваса	творчества	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	9	obl	_	GTtags=SP,Ine,Indef|SpaceAfter=No
 15	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
 ~~~
@@ -48,7 +48,7 @@ The following 2 pairs of parts of speech are connected with `nmod:bahuv`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 nmod:bahuv	color:blue
-1	Аньцек	аньцек	ADV	Adv	_	2	advmod:foc	_	_
+1	Аньцек	аньцек	ADV	Adv	_	2	advmod	_	_
 2	ужяль	ужяль	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	8	punct	_	_
 4	мес	мес	ADV	Adv	_	8	mark	_	_
@@ -59,9 +59,9 @@ The following 2 pairs of parts of speech are connected with `nmod:bahuv`: <tt><a
 9	геройкс	герой	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	8	xcomp	_	SpaceAfter=No
 10	,	,	PUNCT	CLB	_	13	punct	_	_
 11	мзярда	мзярда	ADV	Adv	_	13	mark	_	_
-12	пятналангста	пятналанга	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	13	obl:lmod	_	_
-13	валгсь	валгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	8	advcl:tcl	_	_
-14	парашютса	парашют	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	13	obl:inst	_	SpaceAfter=No
+12	пятналангста	пятналанга	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	13	obl	_	_
+13	валгсь	валгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	8	advcl	_	_
+14	парашютса	парашют	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	13	obl	_	SpaceAfter=No
 15	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~

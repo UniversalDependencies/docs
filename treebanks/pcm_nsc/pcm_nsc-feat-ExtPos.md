@@ -9,38 +9,38 @@ udver: '2'
 This feature is language-specific.
 It occurs with 10 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `INTJ`, `NOUN`, `PART`, `PROPN`, `SCONJ`, `VERB`.
 
-1473 tokens (1%) have a non-empty value of `ExtPos`.
-273 types (6%) occur at least once with a non-empty value of `ExtPos`.
-264 lemmas (6%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 12 part-of-speech tags: <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (432; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (382; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (263; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (128; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (104; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (81; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (37; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (25; 0% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+1491 tokens (1%) have a non-empty value of `ExtPos`.
+274 types (6%) occur at least once with a non-empty value of `ExtPos`.
+265 lemmas (6%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 12 part-of-speech tags: <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (439; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (384; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (264; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (127; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (105; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (82; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (40; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (29; 0% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `ADP`
 
-432 <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> tokens (6% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+439 <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> tokens (6% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
 `ADP` tokens may have the following values of `ExtPos`:
 
-* `ADP` (210; 49% of non-empty `ExtPos`): <em>on, for, as, up, out, inside, at, based</em>
-* `ADV` (115; 27% of non-empty `ExtPos`): <em>at, in, of, as</em>
+* `ADP` (214; 49% of non-empty `ExtPos`): <em>on, for, as, up, out, inside, at, based, of</em>
+* `ADV` (118; 27% of non-empty `ExtPos`): <em>at, in, of, as</em>
 * `NOUN` (1; 0% of non-empty `ExtPos`): <em>by</em>
 * `PROPN` (2; 0% of non-empty `ExtPos`): <em>On</em>
 * `SCONJ` (104; 24% of non-empty `ExtPos`): <em>like, as, in, of, unto, for, from, instead, on, upon</em>
 
 <table>
-  <tr><th>Paradigm <i>as</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>SCONJ</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>as</em></td><td><em>as</em></td><td><em>as</em></td></tr>
+  <tr><th>Paradigm <i>of</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>SCONJ</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>of</em></td><td><em>of</em></td><td><em>of</em></td></tr>
 </table>
 
 ### `ADJ`
 
-382 <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> tokens (11% of all `ADJ` tokens) have a non-empty value of `ExtPos`.
+384 <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> tokens (11% of all `ADJ` tokens) have a non-empty value of `ExtPos`.
 
 `ADJ` tokens may have the following values of `ExtPos`:
 
 * `ADJ` (1; 0% of non-empty `ExtPos`): <em>empty</em>
 * `ADP` (12; 3% of non-empty `ExtPos`): <em>close, more, due</em>
-* `ADV` (11; 3% of non-empty `ExtPos`): <em>first, later</em>
-* `PROPN` (51; 13% of non-empty `ExtPos`): <em>Federal, New, National, Cool, South, Nigerian, African, Big, Central, Good</em>
+* `ADV` (12; 3% of non-empty `ExtPos`): <em>first, later</em>
+* `PROPN` (52; 14% of non-empty `ExtPos`): <em>Federal, New, National, Cool, South, Middle, Nigerian, African, Big, Central</em>
 * `VERB` (307; 80% of non-empty `ExtPos`): <em>good, plenty, sweet, ready, cost, fine, thick, sick, big, hard</em>
 
 <table>
@@ -52,12 +52,12 @@ The feature is used with 12 part-of-speech tags: <tt><a href="pcm_nsc-pos-ADP.ht
 
 ### `SCONJ`
 
-263 <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> tokens (5% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
+264 <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> tokens (5% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
 
 `SCONJ` tokens may have the following values of `ExtPos`:
 
 * `ADP` (35; 13% of non-empty `ExtPos`): <em>because, cause</em>
-* `SCONJ` (228; 87% of non-empty `ExtPos`): <em>wey, so, because, if, dough, sey</em>
+* `SCONJ` (229; 87% of non-empty `ExtPos`): <em>wey, so, because, if, dough, sey</em>
 
 <table>
   <tr><th>Paradigm <i>because</i></th><th><tt>ADP</tt></th><th><tt>SCONJ</tt></th></tr>
@@ -66,17 +66,16 @@ The feature is used with 12 part-of-speech tags: <tt><a href="pcm_nsc-pos-ADP.ht
 
 ### `AUX`
 
-128 <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `ExtPos`.
+127 <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `AUX` and `ExtPos` co-occurred: <tt><a href="pcm_nsc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (128; 100%), <tt><a href="pcm_nsc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (128; 100%), <tt><a href="pcm_nsc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (127; 99%), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt><tt>=Cop</tt> (126; 98%).
+The most frequent other feature values with which `AUX` and `ExtPos` co-occurred: <tt><a href="pcm_nsc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (127; 100%), <tt><a href="pcm_nsc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (127; 100%), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt><tt>=Cop</tt> (126; 99%), <tt><a href="pcm_nsc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (126; 99%).
 
 `AUX` tokens may have the following values of `ExtPos`:
 
 * `ADJ` (1; 1% of non-empty `ExtPos`): <em>no</em>
-* `ADV` (1; 1% of non-empty `ExtPos`): <em>may</em>
 * `INTJ` (1; 1% of non-empty `ExtPos`): <em>na</em>
 * `PART` (1; 1% of non-empty `ExtPos`): <em>na</em>
-* `SCONJ` (124; 97% of non-empty `ExtPos`): <em>na, be</em>
+* `SCONJ` (124; 98% of non-empty `ExtPos`): <em>na, be</em>
 
 <table>
   <tr><th>Paradigm <i>na</i></th><th><tt>INTJ</tt></th><th><tt>PART</tt></th><th><tt>SCONJ</tt></th></tr>
@@ -85,25 +84,25 @@ The most frequent other feature values with which `AUX` and `ExtPos` co-occurred
 
 ### `PROPN`
 
-104 <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> tokens (5% of all `PROPN` tokens) have a non-empty value of `ExtPos`.
+105 <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> tokens (5% of all `PROPN` tokens) have a non-empty value of `ExtPos`.
 
 `PROPN` tokens may have the following values of `ExtPos`:
 
-* `PROPN` (104; 100% of non-empty `ExtPos`): <em>Delta, Wazobia, Lagos, Nigeria, Edo, Bayelsa, Manchester, Osun, Etsako, Imo</em>
+* `PROPN` (105; 100% of non-empty `ExtPos`): <em>Delta, Wazobia, Lagos, Nigeria, Edo, Bayelsa, Manchester, Osun, Etsako, Imo</em>
 
 `ExtPos` seems to be **lexical feature** of `PROPN`. 100% lemmas (65) occur only with one value of `ExtPos`.
 
 ### `NOUN`
 
-81 <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
+82 <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `NOUN` and `ExtPos` co-occurred: <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (80; 99%).
+The most frequent other feature values with which `NOUN` and `ExtPos` co-occurred: <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (81; 99%).
 
 `NOUN` tokens may have the following values of `ExtPos`:
 
 * `ADP` (4; 5% of non-empty `ExtPos`): <em>sake, courtesy</em>
-* `ADV` (2; 2% of non-empty `ExtPos`): <em>step, upside</em>
-* `PROPN` (73; 90% of non-empty `ExtPos`): <em>Port, Bronze, Minister, Radio, chief, Committee, General, House, Ministry, Senate</em>
+* `ADV` (3; 4% of non-empty `ExtPos`): <em>step, upside</em>
+* `PROPN` (73; 89% of non-empty `ExtPos`): <em>Port, Bronze, Minister, Radio, chief, Committee, General, House, Ministry, Senate</em>
 * `SCONJ` (1; 1% of non-empty `ExtPos`): <em>sake</em>
 * `VERB` (1; 1% of non-empty `ExtPos`): <em>dust</em>
 
@@ -116,12 +115,12 @@ The most frequent other feature values with which `NOUN` and `ExtPos` co-occurre
 
 ### `VERB`
 
-37 <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `ExtPos`.
+40 <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `ExtPos`.
 
 `VERB` tokens may have the following values of `ExtPos`:
 
 * `ADJ` (1; 3% of non-empty `ExtPos`): <em>clean</em>
-* `ADP` (30; 81% of non-empty `ExtPos`): <em>base, according, based</em>
+* `ADP` (33; 83% of non-empty `ExtPos`): <em>base, according, may, based, had</em>
 * `ADV` (2; 5% of non-empty `ExtPos`): <em>tay</em>
 * `SCONJ` (3; 8% of non-empty `ExtPos`): <em>base, following</em>
 * `VERB` (1; 3% of non-empty `ExtPos`): <em>kick</em>
@@ -134,18 +133,18 @@ The most frequent other feature values with which `NOUN` and `ExtPos` co-occurre
 
 ### `ADV`
 
-25 <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+29 <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
 `ADV` tokens may have the following values of `ExtPos`:
 
-* `ADP` (8; 32% of non-empty `ExtPos`): <em>apart, instead</em>
-* `ADV` (1; 4% of non-empty `ExtPos`): <em>how</em>
-* `PROPN` (1; 4% of non-empty `ExtPos`): <em>All</em>
-* `SCONJ` (15; 60% of non-empty `ExtPos`): <em>so, instead, apart, as, far</em>
+* `ADP` (10; 34% of non-empty `ExtPos`): <em>apart, instead</em>
+* `ADV` (3; 10% of non-empty `ExtPos`): <em>so, how</em>
+* `PROPN` (1; 3% of non-empty `ExtPos`): <em>All</em>
+* `SCONJ` (15; 52% of non-empty `ExtPos`): <em>so, instead, apart, as, far</em>
 
 <table>
-  <tr><th>Paradigm <i>apart</i></th><th><tt>ADP</tt></th><th><tt>SCONJ</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>apart</em></td><td><em>apart</em></td></tr>
+  <tr><th>Paradigm <i>so</i></th><th><tt>ADV</tt></th><th><tt>SCONJ</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>so</em></td><td><em>so</em></td></tr>
 </table>
 
 ### `CCONJ`
@@ -165,7 +164,7 @@ The most frequent other feature values with which `NOUN` and `ExtPos` co-occurre
 
 ### `X`
 
-7 <tt><a href="pcm_nsc-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `ExtPos`.
+7 <tt><a href="pcm_nsc-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `ExtPos`.
 
 `X` tokens may have the following values of `ExtPos`:
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Martine Vanhove, Rayan Ziane, Sylvain Kahane, Bruno Guillaume.
 
 Repository: [UD_Beja-Autogramm](https://github.com/UniversalDependencies/UD_Beja-Autogramm)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbej_autogramm215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbej_autogramm216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -162,7 +162,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
       <li>NOUN: naː, lhaweː, na, takat, giɖʔa, sala, mʔari, ʃiha, ʔabaː, ʔaba</li>
       <li>NUM: gaːt</li>
       <li>PRON: ti=, -t, t=, ambataː, =oːki, imbateː, ombatoː</li>
-      <li>SCONJ: =eːt, =jeːt, =t, ti=</li>
+      <li>SCONJ: =eːt, =jeːt, =t, ti=, t=</li>
       <li>VERB: tindi, tini, tidi, tiːd, tiːfi, akai, ʔeːta, tikati, ʔeːti, ʔabkin</li>
     </ul>
   </li>
@@ -178,7 +178,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
       <li>NOUN: tak, doːr, mhiːn, jhaːm, mijʔat, dhaj, kʷiːkʷʔaːj, gaw, haˈwaːd, ʔar</li>
       <li>PART: ʔaʃaj</li>
       <li>PRON: wi=, baruːk, umbaruːk, i=, w=, baroːk, baruː, baraː, barhi, barijoːk</li>
-      <li>SCONJ: =eːb, =jeːb, =b, ji=</li>
+      <li>SCONJ: =eːb, =jeːb, =b, ji=, wi=</li>
       <li>VERB: indi, ini, jʔi, iːfi, iːbri, ikati, jʔiːni, id, isni, iːkti</li>
     </ul>
   </li>
@@ -225,7 +225,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
       <li>NOUN: mbʔi</li>
       <li>PART: =hoːk</li>
       <li>PRON: =heːb, =i, =oː, ani, =hoːk, =oːk, aneːb, =joː, wi=, =ji</li>
-      <li>SCONJ: =jeːb, =eːb</li>
+      <li>SCONJ: =jeːb, =eːb, wi=</li>
       <li>VERB: indi, ini, jʔi, tindi, iːfi, iːbri, ani, ikati, rhan, tini</li>
     </ul>
   </li>
@@ -325,7 +325,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
     <ul>
       <li>DET: i=, oː=, w=, ti=, uː=, t=, j=, toː=, aː=, tuː=</li>
       <li>PRON: ti=, i=, w=, t=</li>
-      <li>SCONJ: ti=</li>
+      <li>SCONJ: t=, ti=</li>
     </ul>
   </li>
 </ul>
@@ -505,7 +505,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: ti=, wi=, i=, w=, t=, ji=, wʔi=</li>
+      <li>PRON: ti=, wi=, i=, w=, t=, ji=</li>
       <li>SCONJ: =eːb, =eː, =i, =jeːb, =jeː, =eːt, =jeːt, =ji, =t, =b</li>
     </ul>
   </li>
@@ -725,7 +725,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (320)</li>
+      <li>VERB--NOUN (321)</li>
       <li>VERB--PRON (14)</li>
       <li>VERB--PRON-Acc (1)</li>
       <li>VERB--PRON-Nom (71)</li>
@@ -736,8 +736,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (545)</li>
-      <li>VERB--PRON (111)</li>
+      <li>VERB--NOUN (543)</li>
+      <li>VERB--PRON (110)</li>
       <li>VERB--PRON-Acc (111)</li>
       <li>VERB--PRON-Nom (8)</li>
     </ul>

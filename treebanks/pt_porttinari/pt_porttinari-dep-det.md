@@ -37,7 +37,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 13	em	em	ADP	_	_	15	case	15:case	_
 14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	15:det	_
 15	mão	mão	NOUN	_	Gender=Fem|Number=Sing	12	nmod	12:nmod:em	SpaceAfter=No
-16	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -60,7 +60,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 10	favorável	favorável	ADJ	_	Number=Sing	0	root	0:root	_
 11	a	a	ADP	_	_	12	case	12:case	_
 12	Aécio	Aécio	PROPN	_	_	10	obl	10:obl:a	SpaceAfter=No
-13	.	.	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
+13	.	.	PUNCT	_	_	10	punct	10:punct	_
 
 ~~~
 
@@ -78,7 +78,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 5	lei	lei	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	6:nsubj	_
 6	determina	determinar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	reclusão	reclusão	NOUN	_	Gender=Fem|Number=Sing	6	obj	6:obj	SpaceAfter=No
-8	.	.	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+8	.	.	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 

@@ -11,9 +11,9 @@ This relation is universal.
 37363 nodes (12%) are attached to their parents as `case`.
 
 37108 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.72360356502422.
+Average distance between parent and child is 1.72373738725477.
 
-The following 13 pairs of parts of speech are connected with `case`: <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (24756; 66% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (4912; 13% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (3538; 9% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (1839; 5% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (975; 3% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (782; 2% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (300; 1% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (207; 1% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (37; 0% instances), <tt><a href="no_bokmaal-pos-X.html">X</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="no_bokmaal-pos-SYM.html">SYM</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_bokmaal-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_bokmaal-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `case`: <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (24761; 66% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (4902; 13% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (3538; 9% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (1839; 5% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (975; 3% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (782; 2% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (295; 1% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (207; 1% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (37; 0% instances), <tt><a href="no_bokmaal-pos-X.html">X</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (21; 0% instances), <tt><a href="no_bokmaal-pos-SYM.html">SYM</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_bokmaal-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_bokmaal-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 13 pairs of parts of speech are connected with `case`: <tt><a href
 3	på	på	ADP	prep	_	4	case	_	_
 4	vei	vei	NOUN	subst	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 5	til	til	ADP	prep	_	8	case	_	_
-6	sin	sin	PRON	det	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	_
+6	sin	sin	PRON	det	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
 7	neste	neste	DET	det	Definite=Def|PronType=Dem	8	det	_	_
 8	gjerning	gjerning	NOUN	subst	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 9	.	$.	PUNCT	clb	_	4	punct	_	_
@@ -41,10 +41,10 @@ The following 13 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 case	color:blue
-1	Det	det	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+1	Det	den	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 2	var	være	AUX	verb	Mood=Ind|Tense=Past|VerbForm=Fin	5	cop	_	_
 3	en	en	DET	det	Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-4	fremmed	fremmed	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing	5	amod	_	_
+4	fremmed	fremmed	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	5	amod	_	_
 5	tanke	tanke	NOUN	subst	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 6	for	for	ADP	prep	_	7	case	_	_
 7	Borten	Borten	PROPN	subst	_	5	obl	_	SpaceAfter=No

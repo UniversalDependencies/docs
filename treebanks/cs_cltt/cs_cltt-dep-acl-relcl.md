@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="cs_cltt-dep-acl.html">acl</a></tt>.
 
-481 nodes (1%) are attached to their parents as `acl:relcl`.
+537 nodes (1%) are attached to their parents as `acl:relcl`.
 
-481 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.76923076923077.
+537 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.81005586592179.
 
-The following 9 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (345; 72% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (62; 13% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (59; 12% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (345; 64% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (115; 21% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (62; 12% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,6 +40,30 @@ The following 9 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 
 
 ~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 13 acl:relcl	color:blue
+1	(2)	(2)	PUNCT	Z:-------------	_	4	punct	4:punct	_
+2	Účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	3	amod	3:amod	LId=účetní-1
+3	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	4:nsubj	_
+4	vyčíslí	vyčíslit	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	vyplacené	vyplacený	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	6	amod	6:amod	_
+6	dividendy	dividenda	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur	4	obj	4:obj	_
+7	a	a	CCONJ	J^-------------	_	8	cc	8:cc	LId=a-1
+8	zdroje	zdroj	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	conj	4:obj|6:conj|13:obl:z:gen	SpaceAfter=No
+9	,	,	PUNCT	Z:-------------	_	13	punct	13:punct	_
+10	ze	z	ADP	RV--2----------	AdpType=Voc|Case=Gen	11	case	11:case	LId=z-1
+11	kterých	který	DET	P4XP2----------	Case=Gen|Number=Plur|PronType=Int,Rel	13	obl	8:ref	_
+12	bylo	být	AUX	VpNS---XR-AA---	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	13	aux:pass	13:aux:pass	_
+13	čerpáno	čerpaný	ADJ	VsNS---XX-AP---	Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	8	acl:relcl	8:acl:relcl	SpaceAfter=No|LDeriv=čerpat
+14	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 5	bgColor:blue
@@ -61,35 +85,6 @@ The following 9 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 14	vedení	vedení	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	12	obl:arg	12:obl:arg:gen	_
 15	účetnictví	účetnictví	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	14	nmod	14:nmod:gen	SpaceAfter=No
 16	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 12 acl:relcl	color:blue
-1	Tyto	tento	DET	PDFP1----------	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	2	det	2:det	_
-2	povinnosti	povinnost	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	3	obj	3:obj	_
-3	mají	mít	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-4	účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	5	amod	5:amod	LId=účetní-1
-5	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	3:nsubj	_
-6	po	po	ADP	RR--4----------	AdpType=Prep|Case=Acc	7	case	7:case	LId=po-1
-7	dobu	doba	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	3	obl	3:obl:po:acc|12:obl:po:acc	SpaceAfter=No
-8	,	,	PUNCT	Z:-------------	_	12	punct	12:punct	_
-9	po	po	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	10:case	LId=po-1
-10	kterou	který	DET	P4FS4----------	Case=Acc|Gender=Fem|Number=Sing|PronType=Int,Rel	12	obl	7:ref	_
-11	jsou	být	AUX	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	12:cop	_
-12	povinny	povinný	ADJ	ACTP------A----	Animacy=Inan|Degree=Pos|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short	7	acl:relcl	7:acl:relcl	_
-13	vést	vést	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	12	xcomp	12:xcomp	LId=vést-1
-14	nebo	nebo	CCONJ	J^-------------	_	15	cc	15:cc	_
-15	uschovávat	uschovávat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	13	conj	12:xcomp|13:conj	_
-16	uvedené	uvedený	ADJ	AAIP4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	18	amod	18:amod	_
-17	účetní	účetní	ADJ	AAIP4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	18	amod	18:amod	LId=účetní-1
-18	záznamy	záznam	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	obj	13:obj|15:obj	SpaceAfter=No
-19	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 
 ~~~
 

@@ -33,7 +33,7 @@ The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 9	folha	folha	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	7:nsubj	_
 10	de	de	ADP	_	_	11	case	11:case	_
 11	setembro	setembro	NOUN	_	Gender=Masc|Number=Sing	9	nmod	9:nmod:de	SpaceAfter=No
-12	.	.	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+12	.	.	PUNCT	_	_	7	punct	7:punct	_
 
 ~~~
 
@@ -53,7 +53,7 @@ The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 7	bem	bem	ADV	_	_	5	advmod	5:advmod	_
 8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	9:det	_
 9	come-cotas	come-cotas	NOUN	_	Number=Plur	5	obj	5:obj	SpaceAfter=No
-10	.	.	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	5:punct	_
 
 ~~~
 
@@ -72,7 +72,7 @@ The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 6	que	que	PRON	_	PronType=Rel	8	nsubj	4:ref	_
 7	o	o	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	8:obj	_
 8	diga	dizer	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	4:acl:relcl	SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 

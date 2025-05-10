@@ -8,53 +8,34 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="frm_profiterole-dep-acl.html">acl</a></tt>.
 
-243 nodes (2%) are attached to their parents as `acl:relcl`.
+1305 nodes (2%) are attached to their parents as `acl:relcl`.
 
-242 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.08641975308642.
+1302 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.9632183908046.
 
-The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (168; 69% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (27; 11% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (13; 5% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (12; 5% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (10; 4% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 28 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (870; 67% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (226; 17% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (48; 4% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (42; 3% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (30; 2% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (23; 2% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (11; 1% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 11 acl:relcl	color:blue
-1	et	et	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_32_01661
-2	le	le	PRON	PROper	PronType=Prs	4	obj	_	XmlId=w_32_01662
-3	vey	voir1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_01663
-4	delivrer	délivrer1	VERB	VERinf	VerbForm=Inf	3	xcomp	_	XmlId=w_32_01664
-5	d'	de	ADP	PRE	_	7	case	_	SpaceAfter=No|XmlId=w_32_01665
-6	une	un	DET	DETndf	Definite=Ind|PronType=Art	7	det	_	XmlId=w_32_01666
-7	prison	prison1	NOUN	NOMcom	_	4	obl	_	XmlId=w_32_01667
-8	où	où	PRON	PROrel	PronType=Rel	11	obl	_	XmlId=w_32_01668
-9	il	il	PRON	PROper	PronType=Prs	11	nsubj	_	XmlId=w_32_01669
-10	avoit	avoir	AUX	VERcjg	VerbForm=Fin	11	aux	_	XmlId=w_32_01670
-11	esté	être1	VERB	VERppe	Tense=Past|VerbForm=Part	7	acl:relcl	_	XmlId=w_32_01671
-12	cinq	cinq	DET	DETcar	NumType=Card	13	det	_	XmlId=w_32_01672
-13	ans	an	NOUN	NOMcom	_	11	obl	_	SpaceAfter=No|XmlId=w_32_01673
-14	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_32_01674
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 acl:relcl	color:blue
-1	et	et	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_32_01529
-2	demain	demain1	ADV	ADVgen	_	3	advmod	_	XmlId=w_32_01530
-3	dy	dire1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_01531
-4	ce	ce1	PRON	PROdem	PronType=Dem	3	obj	_	XmlId=w_32_01532
-5	que	que	PRON	PROrel	PronType=Rel	7	obj	_	XmlId=w_32_01533
-6	tu	tu	PRON	PROper	PronType=Prs	7	nsubj	_	XmlId=w_32_01534
-7	vouldras	vouloir	VERB	VERcjg	VerbForm=Fin	4	acl:relcl	_	SpaceAfter=No|XmlId=w_32_01535
-8	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_32_01536
-9	»	»	PUNCT	PONpdr	_	3	punct	_	XmlId=w_32_01537
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 11 acl:relcl	color:blue
+1	et	et	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_32_12461
+2	y	y2	ADV	PROadv	_	3	obl:advmod	_	XmlId=w_32_12462
+3	fist	faire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_12463
+4	tendre	tendre2	VERB	VERinf	VerbForm=Inf	3	xcomp	_	XmlId=w_32_12464
+5	ses	son4	DET	DETpos	Poss=Yes	6	det	_	XmlId=w_32_12465
+6	pavillons	pavillon	NOUN	NOMcom	_	4	obj	_	SpaceAfter=No|XmlId=w_32_12466
+7	,	,	PUNCT	PONfbl	_	6	punct	_	XmlId=w_32_12467
+8	dont	dont	PRON	PROrel	PronType=Rel	13	nmod	_	XmlId=w_32_12468
+9	il	il	PRON	PROimp	PronType=Prs	11	expl	_	XmlId=w_32_12469
+10	y	y2	ADV	PROadv	_	11	obl:advmod	_	XmlId=w_32_12470
+11	avoit	avoir	VERB	VERcjg	VerbForm=Fin	6	acl:relcl	_	XmlId=w_32_12471
+12	grant	grand	ADJ	ADJqua	_	13	amod	_	XmlId=w_32_12472
+13	nombre	nombre	NOUN	NOMcom	_	11	obl	_	SpaceAfter=No|XmlId=w_32_12473
+14	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_32_12474
 
 ~~~
 
@@ -62,24 +43,44 @@ The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 ~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 8 acl:relcl	color:blue
-1	Et	et	CCONJ	CONcoo	_	11	cc:nc	_	XmlId=w_42_02623
-2	la	le	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_42_02624
-3	royne	reine1	NOUN	NOMcom	_	11	nsubj	_	SpaceAfter=No|XmlId=w_42_02625
-4	,	,	PUNCT	PONfbl	_	8	punct	_	XmlId=w_42_02626
-5	qui	qui1	PRON	PROrel	PronType=Rel	8	nsubj	_	XmlId=w_42_02627
-6	moult	moult	ADV	ADVgen	_	7	advmod	_	XmlId=w_42_02628
-7	sage	sage1	ADJ	ADJqua	_	8	amod	_	XmlId=w_42_02629
-8	dame	dame1	NOUN	NOMcom	_	3	acl:relcl	_	XmlId=w_42_02630
-9	estoit	être	AUX	VERcjg	VerbForm=Fin	8	cop	_	SpaceAfter=No|XmlId=w_42_02631
-10	,	,	PUNCT	PONfbl	_	8	punct	_	XmlId=w_42_02632
-11	va	aller	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_02633
-12	dire	dire1	VERB	VERinf	VerbForm=Inf	11	xcomp	_	XmlId=w_42_02634
-13	telles	tel	DET	DETind	PronType=Ind	14	amod	_	XmlId=w_42_02635
-14	parolles	parole	NOUN	NOMcom	_	12	obj	_	XmlId=w_42_02636
-15	:	:	PUNCT	PONfbl	_	11	punct	_	XmlId=w_42_02637
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 8 acl:relcl	color:blue
+1	et	et	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_32_20075
+2	en	en2	ADV	PROadv	_	4	obl	_	XmlId=w_32_20076
+3	furent	être	AUX	VERcjg	VerbForm=Fin	4	cop	_	XmlId=w_32_20077
+4	honteux	honteux	ADJ	ADJqua	_	0	root	_	XmlId=w_32_20078
+5	ceulx	cil	PRON	PROdem	PronType=Dem	4	nsubj	_	XmlId=w_32_20079
+6	qui	qui1	PRON	PROrel	PronType=Rel	8	nsubj	_	XmlId=w_32_20080
+7	avoyent	avoir	AUX	VERcjg	VerbForm=Fin	8	aux	_	XmlId=w_32_20081
+8	dit	dire1	VERB	VERppe	Tense=Past|VerbForm=Part	5	acl:relcl	_	XmlId=w_32_20082
+9	ces	ce2	DET	DETdem	PronType=Dem	10	det	_	XmlId=w_32_20083
+10	nouvelles	nouvelle	NOUN	NOMcom	_	8	obj	_	SpaceAfter=No|XmlId=w_32_20084
+11	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_32_20085
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 13 acl:relcl	color:blue
+1	et	et	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_grchron_j2c5_6030
+2	le	le	PRON	PROper	PronType=Prs	3	obj	_	XmlId=w_grchron_j2c5_6031
+3	menerent	mener	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_grchron_j2c5_6032
+4	descendre	descendre	VERB	VERinf	VerbForm=Inf	3	xcomp	_	XmlId=w_grchron_j2c5_6033
+5	droit	droit2	ADV	ADVgen	_	7	advmod	_	XmlId=w_grchron_j2c5_6034
+6	au	à.le	ADP	PRE.DETdef	_	7	case:det	_	XmlId=w_grchron_j2c5_6035
+7	Louvre	Louvre	PROPN	NOMpro	_	4	obl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_6036
+8	,	,	PUNCT	PONfbl	_	13	punct	_	XmlId=w_grchron_j2c5_6037
+9	où	où	PRON	PROrel	PronType=Rel	13	obl	_	XmlId=w_grchron_j2c5_6038
+10	le	le	DET	DETdef	Definite=Def|PronType=Art	12	det	_	XmlId=w_grchron_j2c5_6039
+11	dit	dire1	VERB	VERppe	Tense=Past|VerbForm=Part	12	acl	_	XmlId=w_grchron_j2c5_6040
+12	Roy	roi1	NOUN	NOMcom	_	13	nsubj	_	XmlId=w_grchron_j2c5_6041
+13	estoit	être	VERB	VERcjg	VerbForm=Fin	7	acl:relcl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_6042
+14	,	,	PUNCT	PONfbl	_	13	punct	_	XmlId=w_grchron_j2c5_6043
 
 ~~~
 

@@ -148,7 +148,7 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>NOUN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (687; 99%),
 <tt>PROPN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (179; 100%),
 <tt>PROPN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (145; 100%),
-<tt>NOUN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (95; 99%),
+<tt>NOUN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (97; 99%),
 <tt>VERB --[<tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (85; 53%),
 <tt>PROPN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (82; 100%),
 <tt>NOUN --[<tt><a href="ta_ttb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (59; 100%),

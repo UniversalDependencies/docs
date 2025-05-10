@@ -10,22 +10,22 @@ This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
 551 tokens (9%) have a non-empty value of `Person`.
-363 types (11%) occur at least once with a non-empty value of `Person`.
-172 lemmas (7%) occur at least once with a non-empty value of `Person`.
+354 types (10%) occur at least once with a non-empty value of `Person`.
+167 lemmas (7%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (416; 7% instances), <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (119; 2% instances), <tt><a href="uz_ut-pos-AUX.html">AUX</a></tt> (15; 0% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
 416 <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> tokens (42% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="uz_ut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (375; 90%), <tt><a href="uz_ut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (360; 87%), <tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (301; 72%), <tt><a href="uz_ut-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (236; 57%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="uz_ut-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (413; 99%), <tt><a href="uz_ut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (375; 90%), <tt><a href="uz_ut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (360; 87%), <tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (301; 72%), <tt><a href="uz_ut-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (236; 57%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (34; 8% of non-empty `Person`): <em>berdim, aytsam, beray, bersam, bilganim, boramiz, bordim, bormoqdaman, bo‘lamiz, bo‘ldim</em>
+* `1` (34; 8% of non-empty `Person`): <em>berdim, aytsam, beray, bersam, bilganim, boramiz, bordim, bormoqdaman, boʻlamiz, boʻldim</em>
 * `2` (7; 2% of non-empty `Person`): <em>Shoshmang, borasanmi, borsangiz, eshitasiz, qolasiz, tayyorladingiz, turaqol</em>
-* `3` (375; 90% of non-empty `Person`): <em>berdi, qildi, bo‘ldi, qiladi, beradi, etdi, ketdi, keldi, oldi, boshladi</em>
-* `EMPTY` (583): <em>bo‘lib, olib, yo‘q, deb, bor, ega, ketgan, qilib, qilindi, qilish</em>
+* `3` (375; 90% of non-empty `Person`): <em>berdi, qildi, boʻldi, qiladi, beradi, etdi, ketdi, boʻlgan, keldi, oldi</em>
+* `EMPTY` (571): <em>boʻlib, olib, deb, boʻlgan, ega, ketgan, qilib, qilindi, qilish, borib</em>
 
 <table>
   <tr><th>Paradigm <i>bor</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -41,32 +41,32 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-119 <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> tokens (61% of all `PRON` tokens) have a non-empty value of `Person`.
+119 <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> tokens (62% of all `PRON` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="uz_ut-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (117; 98%), <tt><a href="uz_ut-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (92; 77%), <tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (87; 73%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (32; 27% of non-empty `Person`): <em>men, bizning, meni, menga, mening, Biz, Bizda, Bizlar, O‘zim, mendan</em>
+* `1` (32; 27% of non-empty `Person`): <em>men, bizning, meni, menga, mening, Biz, Bizda, Bizlar, Oʻzim, mendan</em>
 * `2` (8; 7% of non-empty `Person`): <em>seni, sizga, Sen, siz</em>
-* `3` (79; 66% of non-empty `Person`): <em>o‘z, uning, u, ular, o‘zi, unga, ularning, uni, oʻz, biz</em>
-* `EMPTY` (76): <em>bu, kim, nima, bunga, qanday, Shundan, bular, buning, hamma, kimningdir</em>
+* `3` (79; 66% of non-empty `Person`): <em>oʻz, uning, oʻzi, u, ular, unga, ularning, uni, biz, oʻziga</em>
+* `EMPTY` (74): <em>bu, kim, nima, bunga, Shundan, bular, buning, hamma, kimningdir, mana</em>
 
 <table>
-  <tr><th>Paradigm <i>o‘z</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="uz_ut-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>o‘zini, o‘zingizni</em></td></tr>
-  <tr><td><tt><tt><a href="uz_ut-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>o‘zlarini</em></td></tr>
-  <tr><td><tt><tt><a href="uz_ut-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>O‘zingga, o‘ziga</em></td></tr>
-  <tr><td><tt><tt><a href="uz_ut-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="uz_ut-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>o‘ziga</em></td></tr>
-  <tr><td><tt><tt><a href="uz_ut-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="uz_ut-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>o‘zimning</em></td><td><em>o‘z, o‘zining</em></td></tr>
-  <tr><td><tt><tt><a href="uz_ut-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>o‘z</em></td></tr>
-  <tr><td><tt><tt><a href="uz_ut-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>O‘zim</em></td><td><em>o‘zi, o‘z</em></td></tr>
-  <tr><td><tt><tt><a href="uz_ut-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="uz_ut-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>o‘zi</em></td></tr>
-  <tr><td><tt><tt><a href="uz_ut-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>o‘zlari</em></td></tr>
-  <tr><td><tt><tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="uz_ut-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>o‘zi</em></td></tr>
-  <tr><td><tt><tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>o‘zi</em></td></tr>
-  <tr><td><tt><tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="uz_ut-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>o‘zi</em></td></tr>
-  <tr><td><tt></tt></td><td></td><td><em>o‘z</em></td></tr>
+  <tr><th>Paradigm <i>oʻz</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="uz_ut-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>oʻzini, oʻzingizni</em></td></tr>
+  <tr><td><tt><tt><a href="uz_ut-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>oʻzlarini</em></td></tr>
+  <tr><td><tt><tt><a href="uz_ut-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Oʻzingga, oʻziga</em></td></tr>
+  <tr><td><tt><tt><a href="uz_ut-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="uz_ut-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>oʻziga</em></td></tr>
+  <tr><td><tt><tt><a href="uz_ut-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="uz_ut-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>oʻzimning</em></td><td><em>oʻz, oʻzining</em></td></tr>
+  <tr><td><tt><tt><a href="uz_ut-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>oʻz</em></td></tr>
+  <tr><td><tt><tt><a href="uz_ut-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Oʻzim</em></td><td><em>oʻz, oʻzi</em></td></tr>
+  <tr><td><tt><tt><a href="uz_ut-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="uz_ut-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>oʻzi</em></td></tr>
+  <tr><td><tt><tt><a href="uz_ut-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>oʻzlari</em></td></tr>
+  <tr><td><tt><tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="uz_ut-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>oʻzi</em></td></tr>
+  <tr><td><tt><tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>oʻzi</em></td></tr>
+  <tr><td><tt><tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="uz_ut-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>oʻzi</em></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>oʻz</em></td></tr>
 </table>
 
 ### `AUX`
@@ -78,8 +78,8 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (8; 53% of non-empty `Person`): <em>edim, ekanman, ekanligimizga</em>
-* `3` (7; 47% of non-empty `Person`): <em>bo'lsa, edilar, bo'ladi, bo'lgan, ekanmiz</em>
-* `EMPTY` (64): <em>edi, mumkin, ekan, emas, kerak, ekani, ekanini, ekanligini, lozim, bo'lgan</em>
+* `3` (7; 47% of non-empty `Person`): <em>boʻlsa, edilar, boʻladi, boʻlgan, ekanmiz</em>
+* `EMPTY` (64): <em>edi, mumkin, ekan, emas, kerak, ekani, ekanini, ekanligini, lozim, boʻlgan</em>
 
 <table>
   <tr><th>Paradigm <i>edi</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -94,5 +94,10 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 `ADJ` tokens may have the following values of `Person`:
 
 * `1` (1; 100% of non-empty `Person`): <em>hayronman</em>
-* `EMPTY` (459): <em>yangi, katta, yaxshi, baland, boshqa, keyingi, buyuk, keng, ko‘p, qattiq</em>
+* `EMPTY` (483): <em>yoʻq, yangi, katta, yaxshi, baland, bor, boshqa, keyingi, buyuk, keng</em>
+
+## Relations with Agreement in `Person`
+
+The 10 most frequent relations where parent and child node agree in `Person`:
+<tt>VERB --[<tt><a href="uz_ut-dep-conj.html">conj</a></tt>]--> VERB</tt> (19; 59%).
 

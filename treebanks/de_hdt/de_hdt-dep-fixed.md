@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-48 nodes (0%) are attached to their parents as `fixed`.
+70 nodes (0%) are attached to their parents as `fixed`.
 
-48 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.1875.
+70 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.12857142857143.
 
-The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (38; 79% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (3; 6% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (3; 6% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (3; 6% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (60; 86% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (3; 4% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (3; 4% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 2	Papier	Papier	NOUN	NN	Gender=Neut|Number=Sing	3	nsubj	_	_
 3	kostet	kosten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	derzeit	derzeit	ADV	ADV	_	3	advmod	_	_
-5	um	um	ADP	APPR	AdpType=Prep|Case=Acc	7	advmod	_	_
+5	um	um	ADP	APPR	AdpType=Prep|Case=Acc|ExtPos=ADV	7	advmod	_	_
 6	die	der	DET	ART	Case=Acc|Definite=Def|Number=Plur|PronType=Art	5	fixed	_	_
 7	0,60	0,60	NUM	CARD	Number=Plur|NumType=Card	8	nummod	_	_
 8	Euro	Euro	NOUN	NN	Gender=Masc|Number=Plur	3	obj	_	_
@@ -50,7 +50,7 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 7	,	,	PUNCT	$,	PunctType=Comm	14	punct	_	_
 8	die	der	DET	ART	Case=Acc|Definite=Def|Number=Plur|PronType=Art	9	det	_	_
 9	Unsicherheiten	Unsicherheit	NOUN	NN	Gender=Fem|Number=Plur	14	obj	_	_
-10	ein	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	14	advmod	_	_
+10	ein	ein	DET	ART	Case=Acc|Definite=Ind|ExtPos=ADV|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	14	advmod	_	_
 11	für	für	ADP	APPR	AdpType=Prep|Case=Acc	10	fixed	_	_
 12	alle	alle	DET	PIS	Case=Acc|Number=Plur|PronType=Tot	10	fixed	_	_
 13	Mal	Mal	NOUN	NN	Gender=Neut|Number=Sing	10	fixed	_	_
@@ -75,7 +75,7 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 7	,	,	PUNCT	$,	PunctType=Comm	14	punct	_	_
 8	die	der	DET	ART	Case=Acc|Definite=Def|Number=Plur|PronType=Art	9	det	_	_
 9	Unsicherheiten	Unsicherheit	NOUN	NN	Gender=Fem|Number=Plur	14	obj	_	_
-10	ein	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	14	advmod	_	_
+10	ein	ein	DET	ART	Case=Acc|Definite=Ind|ExtPos=ADV|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	14	advmod	_	_
 11	für	für	ADP	APPR	AdpType=Prep|Case=Acc	10	fixed	_	_
 12	alle	alle	DET	PIS	Case=Acc|Number=Plur|PronType=Tot	10	fixed	_	_
 13	Mal	Mal	NOUN	NN	Gender=Neut|Number=Sing	10	fixed	_	_

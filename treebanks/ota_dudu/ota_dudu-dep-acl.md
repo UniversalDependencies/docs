@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (2%) are attached to their parents as `acl`.
+98 nodes (1%) are attached to their parents as `acl`.
 
-17 instances of `acl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.94117647058824.
+97 instances of `acl` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.54081632653061.
 
-The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (6; 35% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (6; 35% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (2; 12% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 6% instances).
+The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (75; 77% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (9; 9% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (5; 5% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,60 +22,59 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 acl	color:blue
-1	aġca	aġca	ADJ	_	_	2	amod	_	_
+1	aġca	aġca	ADJ	Adj	_	2	amod	_	_
 2	ḳoyunlar	ḳoyun	NOUN	_	Case=Nom|Number=Plur|Person=3	3	nsubj	_	_
-3	olan	ol	ADJ	_	_	4	acl	_	_
+3	olan	ol	VERB	Ptcp	Polarity=Pos|Tense=Pres|VerbForm=Part	4	acl	_	_
 4	yerde	yer	NOUN	_	Case=Loc|Number=Sing|Person=3	7	obl	_	_
-5	bir	bir	DET	_	Definite=Ind|PronType=Art	6	det	_	_
+5	bir	bir	DET	Indef	Definite=Ind|PronType=Art	6	det	_	_
 6	ḳuzıcaġı	ḳuzucuḳ	NOUN	_	Case=Acc|Number=Sing|Person=3	7	nsubj	_	_
-7	olmaz	ol	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	9	ccomp	_	_
+7	olmaz	ol	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
 8	mı	mi	AUX	Ques	Aspect=Imp|Number=Sing|Person=3|Tense=Pres	7	discourse	_	_
-9	olur	ol	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	olur	ol	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 acl	color:blue
-1	bütün	bütün	ADJ	Adj	_	3	amod	_	_
-2	ṣanâyiʿ-i	ṣanâyiʿ	NOUN	Noun	_	4	nmod:poss	_	_
-3	nefîsenin	nefîse	ADJ	Adj	Case=Gen|Gender=Fem|Number=Sing|Person=3	2	amod	_	_
-4	mevżûʿsu	mevżûʿ	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	nsubj	_	_
-5	güzellik	güzellik	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	obj	_	_
-6	dedigimiz	de	VERB	Verb	Aspect=Perf|Number[psor]=Plur|Person[psor]=1|Polarity=Pos|Tense=Past|VerbForm=Part	7	acl	_	_
-7	şeyʾin	şeyʾ	NOUN	Noun	Case=Gen|Number=Sing|Person=3	8	nmod:poss	_	_
-8	żapṭ	zapt	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_
-9	ve	ve	CCONJ	Conj	_	10	cc	_	_
-10	tasvîri	tasvîr	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	conj	_	_
-11	dir	i	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	8	cop	_	_
-12	.	.	PUNCT	Punc	_	8	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 acl	color:blue
+1	muʿâṣırı	muʿâṣır	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	2	nsubj	_	_
+2	bulunan	bulun	VERB	Ptcp	Polarity=Pos|Tense=Pres|VerbForm=Part	4	acl	_	_
+3	ʿulemâdan	ʿâlim	NOUN	_	Case=Abl|Number=Plur|Person=3	4	nmod	_	_
+4	meḥemmed	meḥemmed	PROPN	Pers	Case=Nom|Gender=Masc|NameType=Prs|Number=Sing|Person=3	10	nsubj	_	_
+5	efendi	efendi	NOUN	_	Case=Nom|Number=Sing|Person=3	4	flat	_	_
+6	daḫi	daḫi	PART	Emph	_	4	advmod:emph	_	_
+7	1163	1163	NUM	Year	NumType=Card	8	nummod	_	_
+8	şaʿbânında	şaʿbân	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	10	obl:tmod	_	_
+9	fevt	fevt	NOUN	_	Case=Nom|Number=Sing|Person=3	10	compound:lvc	_	_
+10	olmuştur	ol	VERB	_	Aspect=Perf|Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 3 acl	color:blue
-1	zîrâ	zîrâ	CCONJ	_	_	13	mark	_	_
-2	bu	bu	DET	_	Definite=Def|PronType=Art	4	det	_	_
-3	ṭarîḳ-i	ṭarîḳ	NOUN	_	_	13	acl	_	_
-4	muʿammâda	muʿammâ	ADJ	_	Case=Loc|Number=Sing|Person=3	3	obl	_	_
-5	bir	bir	DET	_	Definite=Ind|PronType=Art	6	det	_	_
-6	kelimeniñ	kelime	NOUN	_	Case=Gen|Number=Sing|Person=3	7	nmod	_	_
-7	âḫirine	âḫir	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	obl	_	_
-8	gelen	gel	ADJ	_	_	9	acl	_	_
-9	ḥarfe	ḥarf	NOUN	_	Case=Dat|Number=Sing|Person=3	10	nmod	_	_
-10	ayaġı	ayak	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	13	obl	_	_
-11	diyü	diye	ADP	_	_	10	case	_	_
-12	ẕikr	ẕikr	NOUN	_	Case=Nom|Number=Sing|Person=3	13	compound:lvc	_	_
-13	olunur	ol	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 acl	color:blue
+1	başḳa	başḳa	ADJ	Adj	_	3	amod	_	_
+2	bir	bir	DET	Indef	Definite=Ind|PronType=Art	3	det	_	_
+3	pârça	pârça	NOUN	_	Case=Nom|Number=Sing|Person=3	4	nmod	_	_
+4	kâġıda	kâġıd	NOUN	_	Case=Dat|Number=Sing|Person=3	6	obl	_	_
+5	taḥrîr	taḥrîr	NOUN	_	Case=Nom|Number=Sing|Person=3	6	compound:lvc	_	_
+6	idip	et	VERB	Conv	Aspect=Perf|Polarity=Pos|Tense=Pres|VerbForm=Conv	13	advcl	_	_
+7	içine	iç	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	obl	_	_
+8	ḳoymuşdur	koy	VERB	Ptcp	Aspect=Perf|Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	9	acl	_	_
+9	olduġu	ol	VERB	Ptcp	Aspect=Perf|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	11	acl	_	_
+10	bu	bu	DET	Demons	Definite=Def|PronType=Art	11	det	_	_
+11	resm	resm	NOUN	_	Case=Nom|Number=Sing|Person=3	13	obl	_	_
+12	ile	ile	CCONJ	_	_	11	case	_	_
+13	merkûz	merkûz	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	0	root	_	_
+14	dur	y	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	13	cop	_	_
 
 ~~~
 

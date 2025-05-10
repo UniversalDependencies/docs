@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Relat`.
 
-45 tokens (1%) have a non-empty value of `NounType`.
-20 types (1%) occur at least once with a non-empty value of `NounType`.
-9 lemmas (1%) occur at least once with a non-empty value of `NounType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (42; 1% instances), <tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (3; 0% instances).
+42 tokens (1%) have a non-empty value of `NounType`.
+17 types (1%) occur at least once with a non-empty value of `NounType`.
+8 lemmas (1%) occur at least once with a non-empty value of `NounType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (39; 1% instances), <tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-42 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (4% of all `NOUN` tokens) have a non-empty value of `NounType`.
+39 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (4% of all `NOUN` tokens) have a non-empty value of `NounType`.
 
-The most frequent other feature values with which `NOUN` and `NounType` co-occurred: <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (39; 93%), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (39; 93%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (37; 88%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt> (35; 83%).
+The most frequent other feature values with which `NOUN` and `NounType` co-occurred: <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (36; 92%), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (36; 92%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (34; 87%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt> (33; 85%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Ill</tt> (21; 54%).
 
 `NOUN` tokens may have the following values of `NounType`:
 
-* `Relat` (42; 100% of non-empty `NounType`): <em>лангс, каршес, ланга, лангса, кучкас, лангозонза, шири, ёткста, Лангсонза, алга</em>
+* `Relat` (39; 100% of non-empty `NounType`): <em>лангс, каршес, ланга, лангса, кучкас, лангозонза, шири, ёткста, Лангсонза, вельхкска</em>
 
 ### `ADP`
 

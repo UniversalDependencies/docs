@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-60 nodes (6%) are attached to their parents as `conj`.
+59 nodes (6%) are attached to their parents as `conj`.
 
-60 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.26666666666667.
+59 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.32203389830508.
 
-The following 8 pairs of parts of speech are connected with `conj`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (32; 53% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (18; 30% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `conj`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (31; 53% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (18; 31% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 8 pairs of parts of speech are connected with `conj`: <tt><a href=
 1	Yẽrẽkatikinhi	herẽkatikinhi	NOUN	N	Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Possessed=Yes	3	obj	_	gloss[pt]=3SG.M-sangue.de-atrás
 2	iãkynytikinhi	iãkynytikinhi	NOUN	N	Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Possessed=Yes	1	conj	_	gloss[pt]=3SG.M-rastro.de-atrás
 3	sããputa	sa	VERB	_	_	0	root	_	gloss[pt]=ir-ALEAT-VBLZ
-4	apukary	apuka	VERB	_	Number[obj]=Sing|Person[obj]=3	3	conj	_	gloss[pt]=achar-3SG.M.O
+4	apukary	apuka	VERB	_	Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres	3	conj	_	gloss[pt]=achar-3SG.M.O
 5	apy	apy	NOUN	N	Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Possessed=Yes	4	obj	_	gloss[pt]=3SG.M-osso|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -41,7 +41,7 @@ The following 8 pairs of parts of speech are connected with `conj`: <tt><a href=
 1	Yẽrẽkatikinhi	herẽkatikinhi	NOUN	N	Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Possessed=Yes	3	obj	_	gloss[pt]=3SG.M-sangue.de-atrás
 2	iãkynytikinhi	iãkynytikinhi	NOUN	N	Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Possessed=Yes	1	conj	_	gloss[pt]=3SG.M-rastro.de-atrás
 3	sããputa	sa	VERB	_	_	0	root	_	gloss[pt]=ir-ALEAT-VBLZ
-4	apukary	apuka	VERB	_	Number[obj]=Sing|Person[obj]=3	3	conj	_	gloss[pt]=achar-3SG.M.O
+4	apukary	apuka	VERB	_	Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres	3	conj	_	gloss[pt]=achar-3SG.M.O
 5	apy	apy	NOUN	N	Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Possessed=Yes	4	obj	_	gloss[pt]=3SG.M-osso|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 

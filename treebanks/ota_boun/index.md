@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Şaziye Betül Özateş, Tarık Emre Tıraş, Efe Eren Genç, Esma Fatıma Bilgin Taşdemir.
 
 Repository: [UD_Ottoman_Turkish-BOUN](https://github.com/UniversalDependencies/UD_Ottoman_Turkish-BOUN)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udota_boun215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udota_boun216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -79,7 +79,7 @@ pages = "188--196",
 
 ## Features
 
-[Aspect](ota_boun-feat-Aspect.html) – [Case](ota_boun-feat-Case.html) – [Evident](ota_boun-feat-Evident.html) – [Mood](ota_boun-feat-Mood.html) – [Number](ota_boun-feat-Number.html) – [Number[psor]](ota_boun-feat-Number-psor.html) – [NumType](ota_boun-feat-NumType.html) – [Person](ota_boun-feat-Person.html) – [Person[psor]](ota_boun-feat-Person-psor.html) – [Polarity](ota_boun-feat-Polarity.html) – [Polite](ota_boun-feat-Polite.html) – [PronType](ota_boun-feat-PronType.html) – [Reflex](ota_boun-feat-Reflex.html) – [Tense](ota_boun-feat-Tense.html) – [Typo](ota_boun-feat-Typo.html) – [VerbForm](ota_boun-feat-VerbForm.html) – [Voice](ota_boun-feat-Voice.html)
+[Aspect](ota_boun-feat-Aspect.html) – [Case](ota_boun-feat-Case.html) – [Evident](ota_boun-feat-Evident.html) – [ExtPos](ota_boun-feat-ExtPos.html) – [Mood](ota_boun-feat-Mood.html) – [Number](ota_boun-feat-Number.html) – [Number[psor]](ota_boun-feat-Number-psor.html) – [NumType](ota_boun-feat-NumType.html) – [Person](ota_boun-feat-Person.html) – [Person[psor]](ota_boun-feat-Person-psor.html) – [Polarity](ota_boun-feat-Polarity.html) – [Polite](ota_boun-feat-Polite.html) – [PronType](ota_boun-feat-PronType.html) – [Reflex](ota_boun-feat-Reflex.html) – [Tense](ota_boun-feat-Tense.html) – [Typo](ota_boun-feat-Typo.html) – [VerbForm](ota_boun-feat-VerbForm.html) – [Voice](ota_boun-feat-Voice.html)
 
 ## Relations
 
@@ -89,11 +89,11 @@ pages = "188--196",
 
 
 <ul>
-<li>This corpus contains 514 sentences, 8796 tokens and 8814 syntactic words.</li>
+<li>This corpus contains 514 sentences, 8834 tokens and 8851 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 141 tokens (2%) that are not followed by a space.</li>
+<li>This corpus contains 132 tokens (1%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -101,12 +101,12 @@ pages = "188--196",
 </ul>
 
 <ul>
-<li>This corpus contains 367 types of words that contain both letters and punctuation. Examples: vilâyât-ı, manzara-i, Fransa’nın, ay!, dakîka-i, edebiyat-ı, hayat-ı, hukuk-ı, levha-i, ma’nâ-yı, nazar-ı, âsâr-ı, çehre-i, İstanbul’da, Adem-i, Ali’ye, Ali’yi, Cemiyeti’nin, Devleti’nin, Harb-i, Mehasin’in, Müdafaa-i, Paşa’nın, Trabzon’da, Trakya-Paşaeli, Trakya’yı, ahvâl-i, atf-ı, bi-hakkın, bâlâ-pervaz, celb-i, efkâr-ı, emr-i, feyz-i, gayr-i, hedef-i, hem-fikir, hususiyet-i, hâb-ı, katre-i, lem’a-i, ma’lumât, mecbûriyet-i, meslek-i, mevcudiyet-i, nasb-ı, nazikiyet-i, nesl-i, nisvan-ı, saha-i</li>
+<li>This corpus contains 379 types of words that contain both letters and punctuation. Examples: vilâyât-ı, manzara-i, ay!, dakîka-i, edebiyat-ı, hayat-ı, hukuk-ı, levha-i, ma'nâ-yı, nazar-ı, tarz-ı, âsâr-ı, çehre-i, Adem-i, Ali'ye, Ali'yi, Cemiyeti'nin, Devleti'nin, Fransa'nın, Harb-i, Mehasin'in, Müdafaa-i, Paşa'nın, Trabzon'da, Trakya'yı, Trakya-Paşaeli, ahvâl-i, atf-ı, azamet-ârâsına, bi-hakkın, bâlâ-pervaz, efkâr-ı, emr-i, feyz-i, gayr-i, hedef-i, hem-fikir, hususiyet-i, hâb-ı, katre-i, lem'a-i, ma'lumât, mecbûriyet-i, meslek-i, mevcudiyet-i, nasb-ı, nazikiyet-i, nesl-i, nisvan-ı, saha-i</li>
 </ul>
 
 <ul>
-<li>This corpus contains 18 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 17 types of multi-word tokens. Examples: vardı, bugünlerdi, camidir, değillerdir, dostlardı, ederlerdi, evindeki, gözleriyle, kazasıyla, kümeslerimizdeki, kıvranırken, saatiydi, saatlerdi, tanesiyle, çiçeklerdi, üzerindeki, şiirle.</li>
+<li>This corpus contains 17 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 16 types of multi-word tokens. Examples: vardı, bugünlerdi, camidir, değillerdir, dostlardı, ederlerdi, evindeki, gözleriyle, kazasıyla, kümeslerimizdeki, kıvranırken, saatiydi, saatlerdi, tanesiyle, çiçeklerdi, şiirle.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -123,11 +123,11 @@ pages = "188--196",
 </ul>
 
 <ul>
-<li>This corpus contains 21 lemmas tagged as pronouns (PRON): Kimindir, bazı, ben, birbiri, biri, biz, bu, bura, hangi, hepsi, herkes, kendi, kim, ne, o, ora, sen, siz, öbür, şu, “bu</li>
+<li>This corpus contains 20 lemmas tagged as pronouns (PRON): Kimindir, bazı, ben, birbiri, biri, biz, bu, bura, hangi, hepsi, herkes, kendi, kim, ne, o, ora, sen, siz, öbür, şu</li>
 </ul>
 
 <ul>
-<li>This corpus contains 15 lemmas tagged as determiners (DET): bazı, bir, birkaç, birtakım, birçok, bu, bütün, güçbir, hangi, her, herhangi, hiçbir, o, yalnız, şu</li>
+<li>This corpus contains 15 lemmas tagged as determiners (DET): bazı, bir, birkaç, birtakım, birçok, bu, bütün, hangi, her, herhangi, hiçbir, o, yalnız, zaman, şu</li>
 </ul>
 
 <ul>
@@ -192,11 +192,12 @@ pages = "188--196",
 <ul>
   <li>Plur
     <ul>
+      <li>ADJ: garplılardan, güzellerinden, hakikiyelerini, hayatbahşalarını, latifeleri, meneviyelerini, nezihelerinden, yabancılar</li>
       <li>AUX: değiller, idik, olanların, olurlardı</li>
       <li>AUX-Part: olanların</li>
-      <li>NOUN: hanımlarımızın, erkeklerden, eşekler, gözleri, kadınlar, kadınların, saatler, ellerini, gözlerinde, hikâyelerinde</li>
-      <li>PRON: hepsi, bizim, neler, onlar, Bunlar, bizi, kendilerinden, kendilerine, bizde, bunların</li>
-      <li>PROPN: Arapları, Ermenileri, Ermenilerin, Fransızların, Müslümanlara, Rumların</li>
+      <li>NOUN: hanımlarımızın, erkeklerden, eşekler, gözleri, kadınlar, kadınların, saatler, asumanlar, ellerini, gözlerinde</li>
+      <li>PRON: hepsi, bizim, neler, onlar, Bunlar, bizi, bunların, kendilerinden, kendilerine, bizde</li>
+      <li>PROPN: Arapları, Devletleri, Devletleri'nin, Ermenileri, Ermenilerin, Fransızların, Müslümanlara, Rumların</li>
       <li>VERB: ediniz, yiyorlar, başladılar, bulunuyorlar, edenlerin, ediyorlar, etmeleri, etmişler, ettiler, getirdiler</li>
       <li>VERB-Fin: binenlerse, bıkarlarsa, demişlerse, olursak</li>
       <li>VERB-Part: edenlerin, olduklarını, binenler, bulunanların, bulunduklarını, düşündüklerimi, edenler, ermeyenlerin, ettiklerini, getirenlerin</li>
@@ -208,19 +209,18 @@ pages = "188--196",
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: hasta, içindeki, yanındaki, üstünde, karşısında, üstündeki, Mevzuu, acı, biçare, bî-hareket</li>
+      <li>ADJ: biçare, edebi, hasta, muvaffak, Milliye, bâlâ-pervaz, edebiye, içindeki, mesut, muzlimesinde</li>
       <li>AUX: idi, değil, mı, mi, idim, değildir, di, midir, dı, mu</li>
       <li>AUX-Part: olduğuna, olduğundan, olduğunu</li>
       <li>NOUN: içinde, gece, gün, var, zaman, yemek, altında, saat, dakika, teşkil</li>
-      <li>NUM: birinci, 335’te, On, dokuzuncu, ikimiz, ikinci</li>
+      <li>NUM: birinci, 335'te, On, dokuzuncu, ikimiz, ikinci, üçünden</li>
       <li>PRON: ne, ben, onun, kim, onu, o, benim, biri, kendi, kendisi</li>
-      <li>PROPN: Müslüman, Ali, Salih, Türk, Bedia, Halide, Hanımefendi, Mavri, Mira, Rum</li>
-      <li>VERB: etmek, görmek, olduğu, bilir, başladı, ediyor, etti, oldu, olduğunu, olur</li>
-      <li>VERB-Conv: batarken, doğarken, ederken, görülmeden, olurken, sırmadan, uyanmadan, vermeden</li>
+      <li>PROPN: Ali, Halide, Müslüman, Salih, Türk, Bedia, Hanımefendi, Mavri, Mira, Rum</li>
+      <li>VERB: etmek, görmek, olduğu, bilir, başladı, oldu, ediyor, etti, olduğunu, olur</li>
+      <li>VERB-Conv: batarken, doğarken, ederken, görülmeden, olurken, uyanmadan, vermeden</li>
       <li>VERB-Fin: demeseydi, düşersen, esiyorsa, inleye, istersen, olmazsa, olsaydı, olursa</li>
-      <li>VERB-Part: olduğu, olduğunu, ettikten, etmediğini, ettiğini, alışılamadığı, anlaşılacağını, atfedeceğimi, bakamadığını, beklediğini</li>
+      <li>VERB-Part: olduğu, olduğunu, ettikten, etmediğini, ettiğini, olamayacağı, alışılamadığı, anlaşılacağını, atfedeceğimi, bakamadığını</li>
       <li>VERB-Vnoun: etmek, görmek, olmak, olması, almak, anlamak, bakmağa, etmekte, sormağa, söylemek</li>
-      <li>X: u</li>
     </ul>
   </li>
 </ul>
@@ -232,13 +232,15 @@ pages = "188--196",
 <ul>
   <li>Abl
     <ul>
+      <li>ADJ: bî-tâbından, garplılardan, güzellerinden, handan, mecrûhundan, medîdeden, mes'ûddan, nezihelerinden, zerdinden</li>
       <li>AUX-Part: olduğundan</li>
       <li>NOUN: erkeklerden, tarafından, caddeden, güneşten, lokantadan, uzaktan, Garsonlardan, açlıktan, ağzından, edibelerimizden</li>
+      <li>NUM: üçünden</li>
       <li>PRON: bundan, kendilerinden, birinden, herkesten, kendisinden, ondan, oradan</li>
-      <li>VERB: ettikten, birleşmesinden, bıktıracağından, düşündükten, ettiğimden, ettiğinden, görülmeden, parçalanmasından, solmasından, sırmadan</li>
-      <li>VERB-Conv: görülmeden, sırmadan, uyanmadan, vermeden</li>
+      <li>VERB: ettikten, uçmaktan, yüzmekten, birleşmesinden, bıktıracağından, düşündükten, ettiğimden, ettiğinden, görülmeden, parçalanmasından</li>
+      <li>VERB-Conv: görülmeden, uyanmadan, vermeden</li>
       <li>VERB-Part: ettikten, bıktıracağından, düşündükten, ettiğinden, taranmadığından, yediğinden</li>
-      <li>VERB-Vnoun: birleşmesinden, parçalanmasından, solmasından, tutmazdan, uçmaktan, yüzmekten</li>
+      <li>VERB-Vnoun: uçmaktan, yüzmekten, birleşmesinden, parçalanmasından, solmasından, tutmazdan</li>
     </ul>
   </li>
 </ul>
@@ -246,11 +248,11 @@ pages = "188--196",
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: mebhût</li>
+      <li>ADJ: bahtiyar, cüretkârane, dini, edebi, garîb, hakikiyelerini, harabını, hayatbahşalarını, husûsiyesini, mebhût</li>
       <li>AUX-Part: olduğunu</li>
       <li>NOUN: yemek, çocuğu, ellerini, para, suyunu, yemeğini, şeyi, ahvâlini, atf-ı, ayaklarını</li>
       <li>PRON: onu, ne, neler, bizi, kendisini, seni, beni, bunu, kendimi, bunları</li>
-      <li>PROPN: Ali’yi, Trakya’yı, Arapları, Bedia’sını, Cemiyeti’ni, Ermenileri, Fransa’yı, Hanımefendi’yi, Harb-i, Mendes</li>
+      <li>PROPN: Ali'yi, Trakya'yı, Arapları, Bedia’sını, Ermenileri, Fransa'yı, Hanımefendi'yi, Harb-i, Mendes, Salih</li>
       <li>VERB: olduğunu, etmediğini, ettiğini, olduklarını, anlaşılacağını, atfedeceğimi, bakamadığını, beklediğini, bulunduklarını, bunalanları</li>
       <li>VERB-Part: olduğunu, etmediğini, ettiğini, olduklarını, anlaşılacağını, atfedeceğimi, bakamadığını, beklediğini, bulunduklarını, dokunamadığını</li>
       <li>VERB-Vnoun: girişi, kurtarmayı, yapmalarını</li>
@@ -261,12 +263,12 @@ pages = "188--196",
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: karşıya, önüne, üstüne</li>
+      <li>ADJ: ebedîsine, edebiye, elîmesine, fikriye, karşıya, maddiye, milliyemize, münevvere, na-mütenahisine, nâ-mütenâhîsine</li>
       <li>AUX-Part: olduğuna</li>
       <li>NOUN: hâline, edebiyata, yanına, yere, çocuğa, üstüne, şimdiye, ağzına, feminizme, içine</li>
       <li>PRON: ona, kendilerine, bana, kendimize, Sana, birbirine, bize, bunlara, hangisine, kendilerinden</li>
-      <li>PROPN: Ali’ye, Avrupa’ya, Büyükada’ya, Ermenistan’a, Fransa’ya, Hakk’a, Karadeniz’e, Maşatlığı’na, Müslümanlara, Osmaniye’ye</li>
-      <li>VERB: bakmağa, sormağa, anlamağa, atmağa, bahsetmeye, bitirinceye, dalgalana, dağıla, düşünmeğe, düşünülmeye</li>
+      <li>PROPN: Ali'ye, Avrupa'ya, Büyükada'ya, Ermenistan'a, Fransa'ya, Hakk’a, Karadeniz'e, Maşatlığı’na, Müslümanlara, Osmaniye'ye</li>
+      <li>VERB: bakmağa, sormağa, yemeğe, anlamağa, atmağa, bahsetmeye, bitirinceye, dalgalana, dağıla, düşünmeğe</li>
       <li>VERB-Part: geldiğine, geçtiğine, içinceye, olacağına, olamayacağına, olanlara, olunacağına</li>
       <li>VERB-Vnoun: bakmağa, sormağa, anlamağa, atmağa, bahsetmeye, düşünmeğe, düşünülmeye, etmeye, etmeğe, ettirilmesine</li>
     </ul>
@@ -285,10 +287,11 @@ pages = "188--196",
 <ul>
   <li>Gen
     <ul>
+      <li>ADJ: edebiyenin, tabîiyyenin, âliyesinin, şarkiyenin</li>
       <li>AUX-Part: olanların</li>
       <li>NOUN: hanımlarımızın, karısının, çocuğun, ihtiyarın, kadınların, ailenin, dünyanın, güneşin, günün, hanımın</li>
-      <li>PRON: onun, benim, bizim, senin, bunların, bunun, kendisinin, Kimin, birinin, kendilerinin</li>
-      <li>PROPN: Fransa’nın, Cemiyeti’nin, Devleti’nin, Hanımefendinin, Mehasin’in, Paşa’nın, (Tanin)in, Bedîa’nın, Bey’in, Boğaz’ın</li>
+      <li>PRON: onun, benim, bizim, bunların, senin, bunun, kendisinin, Kimin, birinin, kendilerinin</li>
+      <li>PROPN: Devleti'nin, Fransa'nın, Hanımefendinin, Mehasin'in, Paşa'nın, (Tanin)in, Bedîa'nın, Bey'in, Boğaz’ın, Büyükada’nın</li>
       <li>VERB-Part: edenlerin, bulunanların, ermeyenlerin, getirenlerin, olanlarda, çalışanların</li>
       <li>VERB-Vnoun: dönmemenin, eğlenmenin, olmanın, seyretmenin, sürmenin</li>
     </ul>
@@ -298,9 +301,9 @@ pages = "188--196",
 <ul>
   <li>Ins
     <ul>
-      <li>NOUN: itibariyle, kahkahalarla, suretle, cihetle, eşekle, suyuyla, sühûletle, Ez-cümle, Hastalıkla, Heyeti’yle</li>
+      <li>NOUN: itibariyle, kahkahalarla, suretle, cihetle, eşekle, suyuyla, sühûletle, Hastalıkla, Heyeti'yle, alîliyle</li>
       <li>PRON: kendisiyle, bazılarıyla, birbiriyle, kendileriyle, onunla, seninle</li>
-      <li>PROPN: Rauf’la, Rostand’la</li>
+      <li>PROPN: Rauf'la, Rostand'la</li>
       <li>VERB: atmakla, bakmakla, etmemekle, görmekle, görülmesiyle, vermekle, yaptırmakla, üşütmekle</li>
       <li>VERB-Vnoun: atmakla, bakmakla, etmemekle, görmekle, görülmesiyle, vermekle, üşütmekle</li>
     </ul>
@@ -310,11 +313,11 @@ pages = "188--196",
 <ul>
   <li>Loc
     <ul>
-      <li>ADJ: içindeki, yanındaki, üstünde, karşısında, üstündeki, elindeki, içinde, önümüzde</li>
-      <li>NOUN: içinde, altında, yerde, hakkında, üzerinde, arasında, halde, asırda, etrafımızda, sırada</li>
-      <li>NUM: 335’te</li>
+      <li>ADJ: içindeki, muzlimesinde, üstünde, haşyette, karşısında, tâbende, yanındaki, önümüzde, üstündeki</li>
+      <li>NOUN: içinde, altında, yerde, hakkında, arasında, halde, üzerinde, asırda, etrafımızda, karşısında</li>
+      <li>NUM: 335'te</li>
       <li>PRON: orada, bizde, bende, burada</li>
-      <li>PROPN: İstanbul’da, Trabzon’da, İzmir’de, Ada’da, Avrupa’da, Bey’de, Dersaadet’te, Elaziz’de, Erzurum’da, Fransa’da</li>
+      <li>PROPN: Trabzon'da, İstanbul'da, Ada'da, Avrupa'da, Bey'de, Dersaadet'te, Elaziz'de, Erzurum'da, Fransa'da, Halide</li>
       <li>VERB-Vnoun: etmekte, gelmekte, geçirmekte, götürmekte, istemekte</li>
     </ul>
   </li>
@@ -323,16 +326,15 @@ pages = "188--196",
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: hasta, Mevzuu, acı, biçare, bî-hareket, bî-his, cam, dilbâz, dinç, elîm</li>
+      <li>ADJ: biçare, hasta, muvaffak, Milliye, bâlâ-pervaz, edebi, mesut, Şarkiye, Alûde-i, Kabil</li>
       <li>AUX: değildir, değiller, idi, ydi</li>
-      <li>NOUN: gece, gün, zaman, saat, dakika, teşkil, et, yemek, Bey, akşam</li>
+      <li>NOUN: gece, gün, zaman, saat, dakika, teşkil, et, yemek, akşam, cemiyet</li>
       <li>NUM: birinci, On, dokuzuncu, ikimiz, ikinci</li>
-      <li>PRON: ne, ben, kim, o, biri, kendi, hepsi, kendisi, bu, onlar</li>
-      <li>PROPN: Müslüman, Ali, Türk, Salih, Bedia, Halide, Hanımefendi, Mavri, Mira, Rum</li>
-      <li>VERB: etmek, görmek, olduğu, olmak, olması, almak, anlamak, etmeleri, söylemek, yapmak</li>
-      <li>VERB-Part: olduğu, alışılamadığı, binenler, bulacağı, doldurulduğu, edenler, ettiği, ettiğim, geldiği, getirileceği</li>
+      <li>PRON: ne, ben, kim, o, biri, kendi, hepsi, kendisi, onlar, Bunlar</li>
+      <li>PROPN: Ali, Müslüman, Türk, Halide, Salih, Bedia, Hanımefendi, Mavri, Mira, Rum</li>
+      <li>VERB: etmek, görmek, olduğu, olmak, olması, almak, anlamak, etmeleri, olamayacağı, söylemek</li>
+      <li>VERB-Part: olduğu, olamayacağı, alışılamadığı, binenler, bulacağı, doldurulduğu, edenler, ettiği, ettiğim, geldiği</li>
       <li>VERB-Vnoun: etmek, görmek, olmak, olması, almak, anlamak, etmeleri, söylemek, yapmak, yaşamak</li>
-      <li>X: u</li>
     </ul>
   </li>
 </ul>
@@ -353,10 +355,10 @@ pages = "188--196",
       <li>ADJ: natamam</li>
       <li>AUX: değil, olmam</li>
       <li>NOUN: yok</li>
-      <li>VERB: bilmem, etmediğini, etmeyen, kalmayan, olamaz, olmamış, olmayan, olmaz, unutulmaz, Yürümüyorum</li>
+      <li>VERB: bilmem, etmediğini, etmeyen, kalmayan, olamayacağı, olamaz, olmamış, olmayan, olmaz, unutulmaz</li>
       <li>VERB-Conv: etmedikçe</li>
       <li>VERB-Fin: demeseydi, olmazsa</li>
-      <li>VERB-Part: etmediğini, etmeyen, kalmayan, olmayan, alışılamadığı, bakamadığını, dokunamadığını, gelmeyen, gülmeyen, hoşlanmadığı</li>
+      <li>VERB-Part: etmediğini, etmeyen, kalmayan, olamayacağı, olmayan, alışılamadığı, bakamadığını, dokunamadığını, gelmeyen, gülmeyen</li>
       <li>VERB-Vnoun: acımamak, etmemek, uyandırmamak</li>
     </ul>
   </li>
@@ -393,7 +395,7 @@ pages = "188--196",
       <li>VERB: bilir, olur, eder, zannederim, bilmem, ederim, ederse, olabilir, olamaz, olmaz</li>
       <li>VERB-Conv: batarken, doğarken, ederken, olurken</li>
       <li>VERB-Fin: binenlerse, bıkarlarsa, düşersen, istersen, olmazsa, olursa, olursak</li>
-      <li>VERB-Part: bugünler, ederler, kaçar, kıvranır, oturtmuşlar</li>
+      <li>VERB-Part: bugünler, kaçar, kıvranır, oturtmuşlar</li>
     </ul>
   </li>
 </ul>
@@ -433,8 +435,8 @@ pages = "188--196",
 <ul>
   <li>Prosp
     <ul>
-      <li>VERB: edecek, olacak, edeceğim, kalacak, anlatacak, anlayacak, anlaşılacağını, atılacak, ağlayacaklar, bahsedecek</li>
-      <li>VERB-Part: edecek, anlatacak, anlaşılacağını, bitiverecek, bulacağı, dokunduracak, doğabileceğini, döktürecek, edebileceğini, etmediklerini</li>
+      <li>VERB: edecek, olacak, edeceğim, kalacak, olamayacağı, anlatacak, anlayacak, anlaşılacağını, atılacak, ağlayacaklar</li>
+      <li>VERB-Part: edecek, olamayacağı, anlatacak, anlaşılacağını, bitiverecek, bulacağı, dokunduracak, doğabileceğini, döktürecek, edebileceğini</li>
     </ul>
   </li>
 </ul>
@@ -456,7 +458,7 @@ pages = "188--196",
 <ul>
   <li>Des
     <ul>
-      <li>VERB: olsa, anlatsam, demeseydi, edilse, mümkünse, olacaksa, olsak, olsaydı, çıkılsa</li>
+      <li>VERB: olsa, edilse, anlatsam, demeseydi, mümkünse, olacaksa, olsak, olsaydı, çıkılsa</li>
       <li>VERB-Fin: demeseydi, olsaydı</li>
     </ul>
   </li>
@@ -515,8 +517,8 @@ pages = "188--196",
 <ul>
   <li>Fut
     <ul>
-      <li>VERB: edecek, olacak, edeceğim, kalacak, anlayacak, anlaşılacağını, atılacak, ağlayacaklar, bahsedecek, bağıracak</li>
-      <li>VERB-Part: edecek, anlaşılacağını, bitiverecek, bulacağı, dokunduracak, doğabileceğini, döktürecek, edebileceğini, etmediklerini, geleceğini</li>
+      <li>VERB: edecek, olacak, edeceğim, kalacak, olamayacağı, anlayacak, anlaşılacağını, atılacak, ağlayacaklar, bahsedecek</li>
+      <li>VERB-Part: edecek, olamayacağı, anlaşılacağını, bitiverecek, bulacağı, dokunduracak, doğabileceğini, döktürecek, edebileceğini, etmediklerini</li>
     </ul>
   </li>
 </ul>
@@ -553,9 +555,9 @@ pages = "188--196",
 <ul>
   <li>Cau
     <ul>
-      <li>VERB: andıran, geçirdi, acıttığı, acıtıyor, bastırdığı, bildiren, bitiverecek, bozdurmak, değiştirmişti, dinlendiren</li>
+      <li>VERB: andıran, geçirdi, kamaştıran, acıttığı, acıtıyor, bastırdığı, bildiren, bitiverecek, bozdurmak, değiştirmişti</li>
       <li>VERB-Conv: ettirip, iğrendirerek, kaldırarak, usandırarak, çıkararak, çınlatarak</li>
-      <li>VERB-Part: andıran, acıttığı, bastırdığı, bildiren, bitiverecek, dinlendiren, dokunduracak, döktürecek, ettiren, indirdiği</li>
+      <li>VERB-Part: andıran, kamaştıran, acıttığı, bastırdığı, bildiren, bitiverecek, dinlendiren, dokunduracak, döktürecek, ettiren</li>
       <li>VERB-Vnoun: bozdurmak, dinlendirmek, doldurmak, seyrekleştirmeğe, soğutmak, susturmak, yaşatmaya</li>
     </ul>
   </li>
@@ -564,9 +566,9 @@ pages = "188--196",
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: edilen, olunan, yuvarlandı, anlaşılan, dökülen, edilmiş, edilmişti, giyinmiş, görülüyor, okunan</li>
+      <li>VERB: edilen, olunan, yuvarlandı, anlaşılan, denilen, dökülen, edilmiş, edilmişti, edilse, giyinmiş</li>
       <li>VERB-Conv: sürünerek, gizlenerek, gözükürlerken, sallanıp, çekilerek, ıslanıp</li>
-      <li>VERB-Part: edilen, olunan, anlaşılan, dökülen, okunan, Unutulan, alınan, anlaşılacağını, atılan, açılan</li>
+      <li>VERB-Part: edilen, olunan, anlaşılan, denilen, dökülen, okunan, Unutulan, alınan, anlaşılacağını, atılan</li>
       <li>VERB-Vnoun: atılmak, benzetilmek, düşünülmeye, ettirilmesine, gösterilmesine, sürünme, verilmesi, yaşanması, yıkanma</li>
     </ul>
   </li>
@@ -605,7 +607,7 @@ pages = "188--196",
 <ul>
   <li>Dem
     <ul>
-      <li>PRON: bu, bundan, Bunlar, bunların, bunu, bunun, bunlara, bunları, o, şunu</li>
+      <li>PRON: bundan, Bunlar, bu, bunların, bunu, bunun, bunlara, bunları, o, şunu</li>
     </ul>
   </li>
 </ul>
@@ -621,7 +623,7 @@ pages = "188--196",
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: ben, onun, onu, benim, o, ona, bizim, onlar, bence, bizi</li>
+      <li>PRON: ben, onun, onu, benim, o, ona, bizim, onlar, bizi, seni</li>
     </ul>
   </li>
 </ul>
@@ -677,7 +679,7 @@ pages = "188--196",
       <li>ADJ: natamam</li>
       <li>AUX: idim, idik, olmam</li>
       <li>NOUN: müftehiriz</li>
-      <li>PRON: ben, benim, bizim, bence, bizi, bana, beni, bizde, kendimi, bende</li>
+      <li>PRON: ben, benim, bizim, bizi, bana, bence, beni, bizde, kendimi, bende</li>
       <li>VERB: istiyorum, okudum, zannederim, çıktım, bilmem, buluyorum, edeceğim, ederim, ediyorum, gördüm</li>
       <li>VERB-Fin: olursak</li>
     </ul>
@@ -697,19 +699,18 @@ pages = "188--196",
 <ul>
   <li>3
     <ul>
-      <li>ADJ: hasta, içindeki, yanındaki, üstünde, karşısında, üstündeki, Mevzuu, acı, biçare, bî-hareket</li>
+      <li>ADJ: biçare, edebi, hasta, muvaffak, Milliye, bâlâ-pervaz, edebiye, içindeki, mesut, muzlimesinde</li>
       <li>AUX: idi, değil, mı, mi, değildir, di, midir, dı, mu, dir</li>
       <li>AUX-Part: olanların, olduğuna, olduğundan, olduğunu</li>
       <li>NOUN: içinde, gece, gün, var, zaman, yemek, altında, saat, dakika, teşkil</li>
-      <li>NUM: birinci, 335’te, On, dokuzuncu, ikimiz, ikinci</li>
+      <li>NUM: birinci, 335'te, On, dokuzuncu, ikimiz, ikinci, üçünden</li>
       <li>PRON: ne, onun, kim, onu, o, biri, kendi, hepsi, kendisi, ona</li>
-      <li>PROPN: Müslüman, Ali, Salih, Türk, Bedia, Halide, Hanımefendi, Mavri, Mira, Rum</li>
-      <li>VERB: etmek, görmek, olduğu, bilir, başladı, ediyor, etti, oldu, olduğunu, olur</li>
-      <li>VERB-Conv: batarken, doğarken, ederken, görülmeden, olurken, sırmadan, uyanmadan, vermeden</li>
+      <li>PROPN: Ali, Halide, Müslüman, Salih, Türk, Bedia, Hanımefendi, Mavri, Mira, Rum</li>
+      <li>VERB: etmek, görmek, olduğu, bilir, başladı, oldu, ediyor, etti, olduğunu, olur</li>
+      <li>VERB-Conv: batarken, doğarken, ederken, görülmeden, olurken, uyanmadan, vermeden</li>
       <li>VERB-Fin: binenlerse, bıkarlarsa, demeseydi, demişlerse, esiyorsa, inleye, olmazsa, olsaydı, olursa</li>
-      <li>VERB-Part: olduğu, olduğunu, ettikten, edenlerin, etmediğini, ettiğini, olduklarını, alışılamadığı, anlaşılacağını, atfedeceğimi</li>
+      <li>VERB-Part: olduğu, olduğunu, ettikten, edenlerin, etmediğini, ettiğini, olamayacağı, olduklarını, alışılamadığı, anlaşılacağını</li>
       <li>VERB-Vnoun: etmek, görmek, olmak, olması, almak, anlamak, bakmağa, etmekte, etmeleri, sormağa</li>
-      <li>X: u</li>
     </ul>
   </li>
 </ul>
@@ -734,11 +735,11 @@ pages = "188--196",
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: önümüzde</li>
+      <li>ADJ: milliyemize, önümüzde</li>
       <li>NOUN: hanımlarımızın, etrafımızda, aramızda, edibelerimizden, hanımlarımız, hayatımıza, ruhlarımız, Başımızı, Biraderinizi, Birçoklarımız</li>
       <li>NUM: ikimiz</li>
       <li>PRON: hepsi, kendilerinden, kendilerine, kendimize, hepsini, kendileri, kendilerini, kendilerinin</li>
-      <li>VERB: oldukları, bulundukları, olduklarını, anladıkları, buldukları, bulunduklarını, bulunduğumuz, doğduğumuz, düşündüklerimi, emrettiğinizi</li>
+      <li>VERB: oldukları, bulundukları, olduklarını, anladıkları, buldukları, bulunduklarını, bulunduğumuz, doğduğumuz, düşündüklerimi, düşünüşümüz</li>
       <li>VERB-Part: oldukları, bulundukları, olduklarını, anladıkları, buldukları, bulunduklarını, bulunduğumuz, doğduğumuz, düşündüklerimi, emrettiğinizi</li>
       <li>VERB-Vnoun: yapmalarını, çalışmamız, çağırmalarına</li>
     </ul>
@@ -748,11 +749,12 @@ pages = "188--196",
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: içindeki, yanındaki, üstünde, karşısında, üstündeki, elindeki, içinde, önüne, üstüne</li>
+      <li>ADJ: edebi, içindeki, muzlimesinde, üstünde, bî-tâbından, diğeri, doğrusu, ebedîsine, edebiyesi, elîmesine</li>
       <li>AUX-Part: olduğuna, olduğundan, olduğunu</li>
-      <li>NOUN: içinde, altında, hakkında, üzerinde, arasında, hâline, karısının, rengi, tarafından, yanına</li>
+      <li>NOUN: içinde, altında, hakkında, arasında, hâline, karısının, rengi, üzerinde, karşısında, tarafından</li>
+      <li>NUM: üçünden</li>
       <li>PRON: biri, kendi, kendisi, kendisini, kendimi, kendisinin, kendisiyle, bazılarıyla, birbiri, birbirine</li>
-      <li>PROPN: Cemiyeti, Cemiyeti’nin, Devleti’nin, Havalisi, Bedia’sını, Cemiyeti’ni, Cumhuriyeti, Heyeti, Heyeti’nin, Mayıs’ının</li>
+      <li>PROPN: Cemiyeti, Devleti'nin, Aliciğim, Bedia’sını, Cemiyeti'nin, Cumhuriyeti, Devletleri, Devletleri'nin, Havalisi, Heyeti</li>
       <li>VERB: olduğu, ettiği, olduğunu, bulunduğu, bulunduğum, olması, sevdiği, etmediğini, etmeleri, ettiğini</li>
       <li>VERB-Part: olduğu, ettiği, olduğunu, bulunduğu, bulunduğum, sevdiği, etmediğini, ettiğini, geldiği, girdiği</li>
       <li>VERB-Vnoun: olması, etmeleri, birleşmesinden, donanmaları, ettirilmesine, gelişi, girişi, görülmesiyle, gösterilmesine, neticelenmesine</li>
@@ -764,15 +766,28 @@ pages = "188--196",
 
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>NOUN: ara</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Person[psor]</a>
     <ul>
       <li>1
         <ul>
-          <li>ADJ: önümüzde</li>
-          <li>NOUN: hanımlarımızın, etrafımızda, Aliciğim, Kuzum, aramızda, edibelerimizden, hanımlarımız, hayatımıza, ruhlarımız, vicdanımı</li>
+          <li>ADJ: milliyemize, müteessifim, önümüzde</li>
+          <li>NOUN: hanımlarımızın, etrafımızda, Kuzum, aramızda, edibelerimizden, hanımlarımız, hayatımıza, ruhlarımız, vicdanımı, Aliciğim</li>
           <li>NUM: ikimiz</li>
           <li>PRON: kendimi, kendimize</li>
-          <li>VERB: bulunduğum, addettiğim, atfedeceğimi, bulunduğumuz, doğduğumuz, ettiğim, ettiğimden, ettiğimiz, gittiğim, gördüğüm</li>
+          <li>PROPN: Aliciğim</li>
+          <li>VERB: bulunduğum, addettiğim, atfedeceğimi, bulunduğumuz, doğduğumuz, düşünüşümüz, ettiğim, ettiğimden, ettiğimiz, gittiğim</li>
           <li>VERB-Part: bulunduğum, addettiğim, atfedeceğimi, bulunduğumuz, doğduğumuz, ettiğim, ettiğimiz, gittiğim, gördüğüm, istediğim</li>
           <li>VERB-Vnoun: çalışmamız</li>
         </ul>
@@ -786,11 +801,12 @@ pages = "188--196",
       </li>
       <li>3
         <ul>
-          <li>ADJ: içindeki, yanındaki, üstünde, karşısında, üstündeki, elindeki, içinde, önüne, üstüne</li>
+          <li>ADJ: edebi, içindeki, muzlimesinde, üstünde, bî-tâbından, diğeri, doğrusu, ebedîsine, edebiyesi, elîmesine</li>
           <li>AUX-Part: olduğuna, olduğundan, olduğunu</li>
-          <li>NOUN: içinde, altında, hakkında, üzerinde, arasında, hâline, karısının, rengi, tarafından, yanına</li>
+          <li>NOUN: içinde, altında, hakkında, arasında, hâline, karısının, rengi, üzerinde, karşısında, tarafından</li>
+          <li>NUM: üçünden</li>
           <li>PRON: biri, kendi, hepsi, kendisi, kendilerinden, kendilerine, kendisini, kendisinin, kendisiyle, bazılarıyla</li>
-          <li>PROPN: Cemiyeti, Cemiyeti’nin, Devleti’nin, Havalisi, Bedia’sını, Cemiyeti’ni, Cumhuriyeti, Heyeti, Heyeti’nin, Mayıs’ının</li>
+          <li>PROPN: Cemiyeti, Devleti'nin, Bedia’sını, Cemiyeti'nin, Cumhuriyeti, Devletleri, Devletleri'nin, Havalisi, Heyeti, Heyeti'nin</li>
           <li>VERB: olduğu, ettiği, olduğunu, bulunduğu, oldukları, olması, sevdiği, bulundukları, etmediğini, etmeleri</li>
           <li>VERB-Part: olduğu, ettiği, olduğunu, bulunduğu, oldukları, sevdiği, bulundukları, etmediğini, ettiğini, geldiği</li>
           <li>VERB-Vnoun: olması, etmeleri, birleşmesinden, donanmaları, ettirilmesine, gelişi, girişi, görülmesiyle, gösterilmesine, neticelenmesine</li>
@@ -831,22 +847,23 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (1)</li>
+      <li>VERB--NOUN (3)</li>
       <li>VERB--NOUN-Acc (18)</li>
       <li>VERB--NOUN-Acc-ADP(yalnız) (1)</li>
       <li>VERB--NOUN-Gen (2)</li>
-      <li>VERB--NOUN-Nom (119)</li>
+      <li>VERB--NOUN-Nom (120)</li>
+      <li>VERB--PRON (2)</li>
       <li>VERB--PRON-Acc (1)</li>
       <li>VERB--PRON-Nom (28)</li>
       <li>VERB-Conv--NOUN-Acc (1)</li>
       <li>VERB-Conv--NOUN-Gen (1)</li>
-      <li>VERB-Conv--NOUN-Nom (8)</li>
+      <li>VERB-Conv--NOUN-Nom (7)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
       <li>VERB-Fin--NOUN-Acc (2)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Acc (2)</li>
       <li>VERB-Part--NOUN-Gen (29)</li>
-      <li>VERB-Part--NOUN-Nom (20)</li>
+      <li>VERB-Part--NOUN-Nom (22)</li>
       <li>VERB-Part--PRON-Gen (7)</li>
       <li>VERB-Vnoun--NOUN (1)</li>
       <li>VERB-Vnoun--NOUN-Acc (1)</li>
@@ -862,10 +879,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (1)</li>
       <li>VERB--NOUN-Abl (3)</li>
-      <li>VERB--NOUN-Acc (107)</li>
-      <li>VERB--NOUN-Dat (12)</li>
+      <li>VERB--NOUN-Acc (110)</li>
+      <li>VERB--NOUN-Dat (11)</li>
       <li>VERB--NOUN-Ins (1)</li>
-      <li>VERB--NOUN-Nom (35)</li>
+      <li>VERB--NOUN-Nom (36)</li>
       <li>VERB--PRON-Acc (21)</li>
       <li>VERB--PRON-Dat (1)</li>
       <li>VERB-Conv--NOUN-Acc (22)</li>
@@ -875,16 +892,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (2)</li>
       <li>VERB-Fin--NOUN-Dat (1)</li>
       <li>VERB-Part--NOUN-Abl (2)</li>
-      <li>VERB-Part--NOUN-Acc (49)</li>
-      <li>VERB-Part--NOUN-Dat (5)</li>
+      <li>VERB-Part--NOUN-Acc (50)</li>
+      <li>VERB-Part--NOUN-Dat (6)</li>
       <li>VERB-Part--NOUN-Loc (1)</li>
-      <li>VERB-Part--NOUN-Nom (18)</li>
+      <li>VERB-Part--NOUN-Nom (17)</li>
       <li>VERB-Part--PRON-Acc (5)</li>
       <li>VERB-Part--PRON-Ins (1)</li>
       <li>VERB-Vnoun--NOUN-Abl (1)</li>
-      <li>VERB-Vnoun--NOUN-Acc (40)</li>
+      <li>VERB-Vnoun--NOUN-Acc (38)</li>
       <li>VERB-Vnoun--NOUN-Dat (5)</li>
-      <li>VERB-Vnoun--NOUN-Nom (10)</li>
+      <li>VERB-Vnoun--NOUN-Nom (11)</li>
       <li>VERB-Vnoun--PRON-Acc (3)</li>
     </ul>
   </li>

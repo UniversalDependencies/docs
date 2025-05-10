@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_parlamint-dep-advmod.html">advmod</a></tt>.
 There are also 2 other language-specific subtypes of `advmod`: <tt><a href="uk_parlamint-dep-advmod-det.html">advmod:det</a></tt>, <tt><a href="uk_parlamint-dep-advmod-neg.html">advmod:neg</a></tt>.
 
-104 nodes (0%) are attached to their parents as `advmod:emph`.
+181 nodes (0%) are attached to their parents as `advmod:emph`.
 
-103 instances of `advmod:emph` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.86538461538462.
+176 instances of `advmod:emph` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.86187845303867.
 
-The following 15 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (44; 42% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (18; 17% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (8; 8% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (7; 7% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (6; 6% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (5; 5% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 17 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (79; 44% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (22; 12% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (15; 8% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (9; 5% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (9; 5% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (9; 5% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (8; 4% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (7; 4% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (7; 4% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (4; 2% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="uk_parlamint-pos-PART.html">PART</a></tt>-<tt><a href="uk_parlamint-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -56,22 +56,15 @@ The following 15 pairs of parts of speech are connected with `advmod:emph`: <tt>
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 advmod:emph	color:blue
-1	Тут	тут	ADV	ADV	PronType=Dem	2	advmod	_	_
-2	є	бути	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	тільки	тільки	PART	PART	_	4	advmod:emph	_	_
-4	одна	один	NUM	NUM	Case=Nom|Gender=Fem|Number=Sing|NumType=Card	5	nummod	_	_
-5	домінанта	домінанта	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
-6	–	–	PUNCT	PUNCT	_	8	punct	_	_
-7	це	це	PRON	PRON	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	expl	_	_
-8	відповідальність	відповідальність	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	appos	_	_
-9	перед	перед	ADP	ADP	Case=Ins	10	case	_	_
-10	Україною	Україна	PROPN	PROPN	Animacy=Inan|Case=Ins|Gender=Fem|NameType=Geo|Number=Sing	8	nmod	_	SpaceAfter=No
-11	.	.	PUNCT	PUNCT	_	2	punct	_	_
+# visual-style 3 2 advmod:emph	color:blue
+1	Можна	можна	ADV	ADV	_	0	root	_	_
+2	й	й	PART	PART	_	3	advmod:emph	_	_
+3	так	так	ADV	ADV	PronType=Dem	1	advmod	_	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 

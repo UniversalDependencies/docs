@@ -60,10 +60,10 @@ The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href=
 # visual-style 3 2 nmod	color:blue
 1	Ipi	epi	NUM	Num	Case=Nom	2	nummod	_	GTtags=Nom
 2	ũty	ũty	NOUN	N	Case=Nom|Gender=Masc|Number=Sing|Possessed=No	3	nmod	_	GTtags=Msc,Sg,NPossd,Nom
-3	atuku	atuku	ADV	Adv	_	6	advmod:tmod	_	_
+3	atuku	atuku	ADV	Adv	_	6	advmod	_	_
 4	apuumary	apuumary	NOUN	N	Case=Nom|Gender=Masc|Number=Sing|Possessed=No	6	nsubj	_	GTtags=Msc,Sg,NPossd,Nom
 5	kuna	kuna	PART	Pcle	Polarity=Neg	6	advmod	_	GTtags=Neg
-6	awaika	waika	VERB	V	Number[subj]=Plur|Person[subj]=1|VerbType=Vido	0	root	_	GTtags=Vido,ScPl1|SpaceAfter=No
+6	awaika	waika	VERB	V	Number[subj]=Plur|Person[subj]=1|Tense=Past,Pres|VerbType=Vido	0	root	_	GTtags=Vido,ScPl1|SpaceAfter=No
 7	.	_	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~

@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Arch`, `Coll`, `Vrnc`.
 
-52 tokens (0%) have a non-empty value of `Style`.
-12 types (0%) occur at least once with a non-empty value of `Style`.
+56 tokens (0%) have a non-empty value of `Style`.
+13 types (0%) occur at least once with a non-empty value of `Style`.
 11 lemmas (0%) occur at least once with a non-empty value of `Style`.
-The feature is used with 6 part-of-speech tags: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (32; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PART.html">PART</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (32; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (16; 0% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -27,13 +27,13 @@ The most frequent other feature values with which `VERB` and `Style` co-occurred
 
 ### `PRON`
 
-12 <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Style`.
+16 <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="en_gentle-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 100%), <tt><a href="en_gentle-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12; 100%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt> (11; 92%), <tt><a href="en_gentle-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (7; 58%).
+The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="en_gentle-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16; 100%), <tt><a href="en_gentle-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (16; 100%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt> (15; 94%).
 
 `PRON` tokens may have the following values of `Style`:
 
-* `Arch` (12; 100% of non-empty `Style`): <em>thy, 't, thou</em>
+* `Arch` (16; 100% of non-empty `Style`): <em>thy, 't, thee, thou</em>
 
 ### `AUX`
 

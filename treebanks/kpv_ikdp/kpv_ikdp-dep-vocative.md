@@ -29,10 +29,10 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 5	полнэй	полнӧй	ADJ	A	Case=Nom|Number=Sing	6	amod	_	GTtags=Err/Dial,Sg,Nom
 6	нимтэ	ним	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=2	3	obj	_	GTtags=Sg,Acc,PxSg2,Err/Dial|SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	11	punct	_	_
-8	кор	кор	ADV	Adv	AdvType=Tim|PronType=Rel	11	advmod:tmod	_	GTtags=Rel,Sem/Time
+8	кор	кор	ADV	Adv	AdvType=Tim|PronType=Rel	11	advmod	_	GTtags=Rel,Sem/Time
 9	да	да	CCONJ	CC	_	10	cc	_	_
 10	кытэн	кытӧн	ADV	Adv	_	8	conj	_	GTtags=Err/Dial
-11	рӧдитчин	рӧдитчыны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	3	advcl:tcl	_	GTtags=Refl,Ind,Prt1,Sg2|SpaceAfter=No
+11	рӧдитчин	рӧдитчыны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	3	advcl	_	GTtags=Refl,Ind,Prt1,Sg2|SpaceAfter=No
 12	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~

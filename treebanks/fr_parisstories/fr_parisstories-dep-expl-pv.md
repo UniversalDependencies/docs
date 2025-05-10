@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	ouais	ouais	INTJ	_	_	8	discourse	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
-6	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+6	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 7	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 8	méfie	méfier	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AttachTo=3@ParisStories_2021_loulouLeChat_18bis|Rel=conj:dicto|SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_

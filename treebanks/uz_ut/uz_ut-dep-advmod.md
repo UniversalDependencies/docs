@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-236 nodes (4%) are attached to their parents as `advmod`.
+238 nodes (4%) are attached to their parents as `advmod`.
 
-229 instances of `advmod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.88983050847458.
+231 instances of `advmod` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.97899159663866.
 
-The following 16 pairs of parts of speech are connected with `advmod`: <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (115; 49% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (34; 14% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (26; 11% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (21; 9% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (13; 6% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (6; 3% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-ADV.html">ADV</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-DET.html">DET</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `advmod`: <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (123; 52% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (32; 13% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (31; 13% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (16; 7% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (12; 5% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-ADV.html">ADV</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-DET.html">DET</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 16 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 4 2 advmod	color:blue
 1	Jinoyatchilar	jinoyatchi	NOUN	_	Case=Nom|Number=Plur	4	nsubj	_	_
 2	tasodifan	tasodifan	ADV	_	_	4	advmod	_	_
-3	qo‘lga	qo‘l	NOUN	_	Case=Dat|Number=Sing	4	compound:lvc	_	_
+3	qoʻlga	qoʻl	NOUN	_	Case=Dat|Number=Sing	4	compound:lvc	_	_
 4	olindi	ol	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -42,7 +42,7 @@ The following 16 pairs of parts of speech are connected with `advmod`: <tt><a hr
 3	insoniy	insoniy	ADJ	_	_	4	amod	_	_
 4	munosabatlardan	munosabat	NOUN	_	Case=Abl|Number=Plur	5	obl	_	_
 5	ustun	ustun	ADJ	_	_	0	root	_	_
-6	bo'lsa	bo'l	AUX	_	Person=3	5	aux	_	SpaceAfter=No
+6	boʻlsa	boʻl	AUX	_	Person=3	5	aux	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	5	punct	_	_
 
 ~~~

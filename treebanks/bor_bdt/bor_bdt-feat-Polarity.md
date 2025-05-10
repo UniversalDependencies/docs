@@ -9,94 +9,109 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-143 tokens (2%) have a non-empty value of `Polarity`.
-93 types (5%) occur at least once with a non-empty value of `Polarity`.
-57 lemmas (6%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 8 part-of-speech tags: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (66; 1% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (22; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt> (14; 0% instances), <tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+1748 tokens (1%) have a non-empty value of `Polarity`.
+511 types (4%) occur at least once with a non-empty value of `Polarity`.
+399 lemmas (4%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 8 part-of-speech tags: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (806; 1% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (601; 0% instances), <tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt> (107; 0% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (102; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (62; 0% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt> (33; 0% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt> (31; 0% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt> (6; 0% instances).
 
 ### `VERB`
 
-66 <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> tokens (5% of all `VERB` tokens) have a non-empty value of `Polarity`.
+806 <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (53; 80%), <tt><a href="bor_bdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (53; 80%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36; 55%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="bor_bdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (780; 97%), <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (765; 95%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (639; 79%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=3</tt> (587; 73%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
-* `Neg` (66; 100% of non-empty `Polarity`): <em>eerydykare, rokare, akodukaba, bokwarewu, erydykare, imaragodymodykare, iorydykare, iorydywakare, Atugukaba, Awiagodykaba</em>
-* `EMPTY` (1362): <em>akore, to, egore, bito, makore, emagore, kabi, maky, aregodyre, kowuje</em>
+* `Neg` (806; 100% of non-empty `Polarity`): <em>boekare, rakare, makokare, judeukare, itaidukare, ekare, imagokare, ikare, imodukare, iorduwakare</em>
+* `EMPTY` (26251): <em>akore, egore, inagore, tugu, aregodure, maku, eture, makore, uture, bu</em>
 
-`Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (39) occur only with one value of `Polarity`.
-
-### `PRON`
-
-22 <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Polarity`.
-
-The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="bor_bdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="bor_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (20; 91%), <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18; 82%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15; 68%).
-
-`PRON` tokens may have the following values of `Polarity`:
-
-* `Neg` (22; 100% of non-empty `Polarity`): <em>ukare, ikare, Tagaba, Akaba, ikadykigodykare, imodykare, pamodykare, pegakaba, umodykare</em>
-* `EMPTY` (577): <em>ure, ere, imi, awo, ire, imode, are, inure, pamode, umode</em>
+`Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (306) occur only with one value of `Polarity`.
 
 ### `ADV`
 
-16 <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Polarity`.
-
-The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (13; 81%).
+601 <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 `ADV` tokens may have the following values of `Polarity`:
 
-* `Neg` (16; 100% of non-empty `Polarity`): <em>karega, Boro, bokwa, roga, Kajao, bokwagodyre, jokodykare, kurikare</em>
-* `EMPTY` (665): <em>icare, pugeje, oino, ty, toro, Dykeje, oinore, woe, mato, jii</em>
+* `Neg` (601; 100% of non-empty `Polarity`): <em>karega, boro, okwa, Bakoro, Bakororo, bokwa, Bororo, goro, kaiworo, baiporo</em>
+* `EMPTY` (19907): <em>icare, pugeje, tu, jamedu, oino, toro, du, rugadu, je, jii</em>
 
-### `X`
-
-14 <tt><a href="bor_bdt-pos-X.html">X</a></tt> tokens (9% of all `X` tokens) have a non-empty value of `Polarity`.
-
-The most frequent other feature values with which `X` and `Polarity` co-occurred: <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (12; 86%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12; 86%), <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8; 57%).
-
-`X` tokens may have the following values of `Polarity`:
-
-* `Neg` (14; 100% of non-empty `Polarity`): <em>karega, bokwarewu, bokware, emodykare, ikare, kare, kareganure, modykare</em>
-* `EMPTY` (146): <em>dyji, hm, kui, dy, jiboe, Kao, br, nure, ure, He</em>
+`Polarity` seems to be **lexical feature** of `ADV`. 100% lemmas (66) occur only with one value of `Polarity`.
 
 ### `AUX`
 
-10 <tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt> tokens (67% of all `AUX` tokens) have a non-empty value of `Polarity`.
+107 <tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt> tokens (18% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10; 100%), <tt><a href="bor_bdt-feat-Pred.html">Pred</a></tt><tt>=EMPTY</tt> (10; 100%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (107; 100%), <tt><a href="bor_bdt-feat-Pred.html">Pred</a></tt><tt>=EMPTY</tt> (107; 100%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
-* `Neg` (10; 100% of non-empty `Polarity`): <em>bokware</em>
-* `EMPTY` (5): <em>rema</em>
+* `Neg` (107; 100% of non-empty `Polarity`): <em>bokware</em>
+* `EMPTY` (501): <em>rema, reo, reno</em>
+
+### `PRON`
+
+102 <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Polarity`.
+
+The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="bor_bdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (102; 100%), <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (67; 66%).
+
+`PRON` tokens may have the following values of `Polarity`:
+
+* `Neg` (102; 100% of non-empty `Polarity`): <em>tagaba, umodukare, Ikare, ukare, imodukare, Akaba, pamodukare, Tadukaba, emodukare, 1Akaba</em>
+* `EMPTY` (8957): <em>ure, ere, ire, cere, umode, ema, pui, imode, tuwo, imi</em>
+
+`Polarity` seems to be **lexical feature** of `PRON`. 100% lemmas (13) occur only with one value of `Polarity`.
 
 ### `NOUN`
 
-9 <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Polarity`.
+62 <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `NOUN` and `Polarity` co-occurred: <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 89%).
+The most frequent other feature values with which `NOUN` and `Polarity` co-occurred: <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (62; 100%).
 
 `NOUN` tokens may have the following values of `Polarity`:
 
-* `Neg` (9; 100% of non-empty `Polarity`): <em>jurekaie, boekare, bokwarewy, etaregodykare, ibaimodykare, pegakare, pemegakare, rakakare</em>
-* `EMPTY` (1818): <em>boe, kuiada, karo, pobo, imedy, aroe, bai, baru, areme, iere</em>
+* `Neg` (62; 100% of non-empty `Polarity`): <em>pegamodukare, bokwarewu, judeukare, cekare, Iordiwakare, cemagokare, jekare, jorduwakare, pakare, rakare</em>
+* `EMPTY` (36489): <em>boe, aroe, Jesus, Pao, du, moto, pemegarewu, rogu, imedu, tugeragu</em>
+
+`Polarity` seems to be **lexical feature** of `NOUN`. 100% lemmas (41) occur only with one value of `Polarity`.
+
+### `X`
+
+33 <tt><a href="bor_bdt-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Polarity`.
+
+The most frequent other feature values with which `X` and `Polarity` co-occurred: <tt><a href="bor_bdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (32; 97%), <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (31; 94%).
+
+`X` tokens may have the following values of `Polarity`:
+
+* `Neg` (33; 100% of non-empty `Polarity`): <em>kurirewu, pemegarewu, bokwarewu, uwaborewu, Ga, Kuogorewu, Pagagarewu, Umanarewu, Urubarewu, biadodurewu</em>
+* `EMPTY` (2941): <em>nure, m, duji, boeji, jiboe, ta, gu, Om, e, piji</em>
 
 ### `PART`
 
-5 <tt><a href="bor_bdt-pos-PART.html">PART</a></tt> tokens (15% of all `PART` tokens) have a non-empty value of `Polarity`.
+31 <tt><a href="bor_bdt-pos-PART.html">PART</a></tt> tokens (15% of all `PART` tokens) have a non-empty value of `Polarity`.
+
+The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="bor_bdt-feat-Foc.html">Foc</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="bor_bdt-feat-Int.html">Int</a></tt><tt>=EMPTY</tt> (31; 100%).
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (5; 100% of non-empty `Polarity`): <em>kaegae, karega, bokware, ekare</em>
-* `EMPTY` (29): <em>dy, ma, rema, U, Uw, ca, ty, Uwy, bokware, boroie</em>
+* `Neg` (31; 100% of non-empty `Polarity`): <em>jetugae, pega, ekare, biega, kagae, karadega, pagae, gagagagagae, padugae, rakaguragae</em>
+* `EMPTY` (170): <em>du, kana, na, woie, Ica, bie, a, jorduware, pegareuji, bataruji</em>
+
+`Polarity` seems to be **lexical feature** of `PART`. 100% lemmas (12) occur only with one value of `Polarity`.
 
 ### `INTJ`
 
-1 <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt> tokens (3% of all `INTJ` tokens) have a non-empty value of `Polarity`.
+6 <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt> tokens (1% of all `INTJ` tokens) have a non-empty value of `Polarity`.
 
 `INTJ` tokens may have the following values of `Polarity`:
 
-* `Neg` (1; 100% of non-empty `Polarity`): <em>boro</em>
-* `EMPTY` (34): <em>Uw, ca, U, kajao, kocare, Ahh, Booio, Ii, Kirabody, Oh</em>
+* `Neg` (6; 100% of non-empty `Polarity`): <em>goro, Roro, Doro</em>
+* `EMPTY` (549): <em>ca, U, wa, m, Ica, jao, A, Je, Iw, kajao</em>
+
+## Relations with Agreement in `Polarity`
+
+The 10 most frequent relations where parent and child node agree in `Polarity`:
+<tt>ADV --[<tt><a href="bor_bdt-dep-obj.html">obj</a></tt>]--> ADV</tt> (1; 100%),
+<tt>AUX --[<tt><a href="bor_bdt-dep-discourse.html">discourse</a></tt>]--> AUX</tt> (1; 100%),
+<tt>AUX --[<tt><a href="bor_bdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1; 100%).
 

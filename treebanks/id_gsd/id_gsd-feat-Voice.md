@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-10812 tokens (9%) have a non-empty value of `Voice`.
-2395 types (12%) occur at least once with a non-empty value of `Voice`.
-1262 lemmas (8%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 1 part-of-speech tags: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (10812; 9% instances).
+10789 tokens (9%) have a non-empty value of `Voice`.
+2380 types (12%) occur at least once with a non-empty value of `Voice`.
+1261 lemmas (8%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 1 part-of-speech tags: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (10789; 9% instances).
 
 ### `VERB`
 
-10812 <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> tokens (87% of all `VERB` tokens) have a non-empty value of `Voice`.
+10789 <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> tokens (87% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="id_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10752; 99%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="id_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10729; 99%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (7404; 68% of non-empty `Voice`): <em>menjadi, memiliki, berada, menggunakan, membuat, bermain, mulai, melakukan, kembali, adanya</em>
+* `Act` (7381; 68% of non-empty `Voice`): <em>menjadi, memiliki, berada, menggunakan, membuat, bermain, mulai, melakukan, kembali, adanya</em>
 * `Pass` (3408; 32% of non-empty `Voice`): <em>terletak, digunakan, dikenal, terjadi, disebut, terdapat, terdiri, dilakukan, ditemukan, dirilis</em>
-* `EMPTY` (1659): <em>merupakan, ada, termasuk, berhasil, belajar, hidup, tahu, gagal, jadi, selesai</em>
+* `EMPTY` (1654): <em>merupakan, ada, termasuk, berhasil, belajar, hidup, tahu, gagal, jadi, selesai</em>
 
 <table>
   <tr><th>Paradigm <i>jadi</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -36,10 +36,9 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="id_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (699; 67%),
-<tt>VERB --[<tt><a href="id_gsd-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (602; 52%),
+<tt>VERB --[<tt><a href="id_gsd-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (602; 51%),
 <tt>VERB --[<tt><a href="id_gsd-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (173; 55%),
 <tt>VERB --[<tt><a href="id_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (132; 53%),
 <tt>VERB --[<tt><a href="id_gsd-dep-dep.html">dep</a></tt>]--> VERB</tt> (129; 50%),
-<tt>VERB --[<tt><a href="id_gsd-dep-compound.html">compound</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="id_gsd-dep-iobj.html">iobj</a></tt>]--> VERB</tt> (1; 100%).
 

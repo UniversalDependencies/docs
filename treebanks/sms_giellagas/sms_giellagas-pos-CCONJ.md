@@ -36,7 +36,13 @@ The 2nd highest number of forms (1) was observed with the lemma “avi”: <em>a
 
 The 3rd highest number of forms (1) was observed with the lemma “da”: <em>da</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="sms_giellagas-feat-ExtPos.html">ExtPos</a></tt> (1; 1% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (177 tokens).
+Examples: <em>de, di, da, ja, a, mutta, No, leša, avi, tai</em>
 
 
 ## Relations

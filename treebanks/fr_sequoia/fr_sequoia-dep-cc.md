@@ -11,9 +11,9 @@ This relation is universal.
 1652 nodes (2%) are attached to their parents as `cc`.
 
 1652 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.56295399515739.
+Average distance between parent and child is 2.55992736077482.
 
-The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (824; 50% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (470; 28% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (124; 8% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (109; 7% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (32; 2% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (28; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (24; 1% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (19; 1% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (821; 50% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (470; 28% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (124; 8% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (110; 7% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (33; 2% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (29; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (24; 1% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (19; 1% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,14 +60,14 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 9	fgColor:white
 # visual-style 9 8 cc	color:blue
 1	Y	y	PRON	_	ExtPos=ADP|Person=3|PronType=Prs	3	case	_	Idiom=Yes
-2	compris	compris	ADJ	_	Gender=Masc	1	fixed	_	InIdiom=Yes
+2	compris	compris	ADJ	_	Gender=Masc	1	fixed	_	InIdiom=Yes|Number[ctxt]=Sing
 3	fractures	fracture	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
-4	cliniques	clinique	ADJ	_	Number=Plur	3	amod	_	_
+4	cliniques	clinique	ADJ	_	Number=Plur	3	amod	_	Gender[ctxt]=Fem
 5	vertébrales	vertébral	ADJ	_	Gender=Fem|Number=Plur	3	amod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	dorsales	dorsal	ADJ	_	Gender=Fem|Number=Plur	5	conj	_	_
 8	et	et	CCONJ	_	_	9	cc	_	_
-9	lombaires	lombaire	ADJ	_	Number=Plur	5	conj	_	_
+9	lombaires	lombaire	ADJ	_	Number=Plur	5	conj	_	Gender[ctxt]=Fem
 
 ~~~
 

@@ -91,7 +91,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 67	se	si3	SCONJ	CONsub	_	70	mark	_	XmlId=w_32_01741
 68	besoing	besoin	NOUN	NOMcom	_	70	obj	_	XmlId=w_32_01742
 69	en	en2	ADV	PROadv	_	68	nmod	_	XmlId=w_32_01743
-70	avoit	avoir1	VERB	VERcjg	VerbForm=Fin	63	advcl	_	XmlId=w_32_01744
+70	avoit	avoir	VERB	VERcjg	VerbForm=Fin	63	advcl	_	XmlId=w_32_01744
 71	;	;	PUNCT	PONfbl	_	89	punct	_	XmlId=w_32_01745
 72	et	et	CCONJ	CONcoo	_	89	cc	_	XmlId=w_32_01746
 73	que	que	SCONJ	CONsub	_	89	mark	_	SpaceAfter=No|XmlId=w_32_01747
@@ -108,15 +108,15 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 84	que	que	X	RED	_	89	mark	_	XmlId=w_32_01758
 85	jamais	jamais	ADV	ADVgen	_	89	advmod	_	XmlId=w_32_01759
 86	n'	ne1	ADV	ADVneg	PronType=Neg	89	advmod	_	SpaceAfter=No|XmlId=w_32_01760
-87	en	en2	ADV	PROadv	_	89	obl	_	XmlId=w_32_01761
+87	en	en2	ADV	PROadv	_	89	nmod	_	XmlId=w_32_01761
 88	avoit	avoir	AUX	VERcjg	VerbForm=Fin	89	aux	_	XmlId=w_32_01762
-89	eu	avoir1	VERB	VERppe	Tense=Past|VerbForm=Part	20	conj	_	XmlId=w_32_01763
+89	eu	avoir	VERB	VERppe	Tense=Past|VerbForm=Part	20	conj	_	XmlId=w_32_01763
 90	que	que	ADV	ADVgen	_	89	advmod	_	XmlId=w_32_01764
 91	ung	un	DET	DETndf	Definite=Ind|PronType=Art	92	det	_	XmlId=w_32_01765
 92	quartier	quartier1	NOUN	NOMcom	_	89	obj	_	XmlId=w_32_01766
 93	montant	monter	VERB	VERppa	Tense=Pres|VerbForm=Part	92	acl	_	XmlId=w_32_01767
-94	neuf	neuf2	DET	DETcar	NumType=Card	93	det	_	XmlId=w_32_01768
-95	mil	mille1	DET	DETcar	NumType=Card	94	flat	_	XmlId=w_32_01769
+94	neuf	neuf2	NUM	DETcar	NumType=Card	93	nummod	_	XmlId=w_32_01768
+95	mil	mille1	NUM	DETcar	NumType=Card	94	flat	_	XmlId=w_32_01769
 96	francs	franc1	NOUN	NOMcom	_	93	obl	_	SpaceAfter=No|XmlId=w_32_01770
 97	,	,	PUNCT	PONfbl	_	103	punct	_	XmlId=w_32_01771
 98	et	et	CCONJ	CONcoo	_	103	cc	_	XmlId=w_32_01772
@@ -138,7 +138,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 114	moyennant	moyenner	VERB	VERppa	Tense=Pres|VerbForm=Part	117	mark	_	XmlId=w_32_01788
 115	qu'	que	SCONJ	CONsub	_	114	fixed	_	SpaceAfter=No|XmlId=w_32_01789
 116	il	il	PRON	PROper	PronType=Prs	117	nsubj	_	XmlId=w_32_01790
-117	eust	avoir1	VERB	VERcjg	VerbForm=Fin	128	advcl	_	XmlId=w_32_01791
+117	eust	avoir	VERB	VERcjg	VerbForm=Fin	128	advcl	_	XmlId=w_32_01791
 118	la	le	DET	DETdef	Definite=Def|PronType=Art	119	det	_	XmlId=w_32_01792
 119	grace	grâce	NOUN	NOMcom	_	117	obj	_	XmlId=w_32_01793
 120	de	de	ADP	PRE	_	122	case	_	XmlId=w_32_01794

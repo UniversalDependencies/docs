@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `csubj:cop`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 8 csubj:cop	color:blue
-1	Аньцек	аньцек	ADV	Adv	_	2	advmod:foc	_	_
+1	Аньцек	аньцек	ADV	Adv	_	2	advmod	_	_
 2	ужяль	ужяль	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	8	punct	_	_
 4	мес	мес	ADV	Adv	_	8	mark	_	_
@@ -33,9 +33,9 @@ The following 2 pairs of parts of speech are connected with `csubj:cop`: <tt><a 
 9	геройкс	герой	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	8	xcomp	_	SpaceAfter=No
 10	,	,	PUNCT	CLB	_	13	punct	_	_
 11	мзярда	мзярда	ADV	Adv	_	13	mark	_	_
-12	пятналангста	пятналанга	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	13	obl:lmod	_	_
-13	валгсь	валгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	8	advcl:tcl	_	_
-14	парашютса	парашют	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	13	obl:inst	_	SpaceAfter=No
+12	пятналангста	пятналанга	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	13	obl	_	_
+13	валгсь	валгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	8	advcl	_	_
+14	парашютса	парашют	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	13	obl	_	SpaceAfter=No
 15	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
@@ -54,13 +54,13 @@ The following 2 pairs of parts of speech are connected with `csubj:cop`: <tt><a 
 5	ули	улемс	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	7	cop	_	GTtags=Ind,Prs,ScSg3
 6	кода	кода	SCONJ	CS	_	7	mark	_	_
 7	максомс	максомс	VERB	V	VerbForm=Inf	0	root	_	GTtags=Inf
-8	кинди	кие	PRON	Pron	Case=Dat|Number=Plur,Sing|PronType=Int	7	obl	_	GTtags=Interr,SP,Dat
+8	кинди	кие	PRON	Pron	Case=Dat|ExtPos=PRON|Number=Plur,Sing|PronType=Int	7	obl	_	GTtags=Interr,SP,Dat
 9	повсь	повомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	8	fixed	_	GTtags=Ind,Prt1,ScSg3|SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	_
 11	но	но	CCONJ	CC	_	12	cc	_	_
 12	юмандяряй	юмамс	VERB	V	Derivation=Cond|Mood=Ind|Number[subj]=Sing|Person[subj]=3	20	advcl	_	GTtags=Cond,ScSg3|SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
-14	эста	эста	ADV	Adv	AdvType=Tim	20	advmod:tmod	_	GTtags=Sem/Time
+14	эста	эста	ADV	Adv	AdvType=Tim	20	advmod	_	GTtags=Sem/Time
 15	сонь	сон	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	16	nmod:poss	_	GTtags=Pers,Sg3,Gen
 16	вастозонза	васта	NOUN	N	Case=Ill|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=3	20	obl	_	GTtags=SP,Ill,PxSg3
 17	од	од	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	18	amod	_	GTtags=Sg,Nom,Indef

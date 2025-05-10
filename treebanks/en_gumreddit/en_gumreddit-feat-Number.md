@@ -20,9 +20,9 @@ The feature is used with 7 part-of-speech tags: <tt><a href="en_gumreddit-pos-NO
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (692; 26% of non-empty `Number`): <em>_</em>
+* `Plur` (688; 26% of non-empty `Number`): <em>_</em>
 * `Ptan` (13; 0% of non-empty `Number`): <em>_</em>
-* `Sing` (1952; 73% of non-empty `Number`): <em>_</em>
+* `Sing` (1956; 74% of non-empty `Number`): <em>_</em>
 
 ### `PRON`
 
@@ -44,8 +44,8 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (208; 27% of non-empty `Number`): <em>_</em>
-* `Sing` (574; 73% of non-empty `Number`): <em>_</em>
+* `Plur` (210; 27% of non-empty `Number`): <em>_</em>
+* `Sing` (572; 73% of non-empty `Number`): <em>_</em>
 * `EMPTY` (1263): <em>_</em>
 
 ### `AUX`
@@ -56,8 +56,8 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (174; 23% of non-empty `Number`): <em>_</em>
-* `Sing` (591; 77% of non-empty `Number`): <em>_</em>
+* `Plur` (173; 23% of non-empty `Number`): <em>_</em>
+* `Sing` (592; 77% of non-empty `Number`): <em>_</em>
 * `EMPTY` (417): <em>_</em>
 
 ### `PROPN`
@@ -100,9 +100,9 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="en_gumreddit-dep-compound.html">compound</a></tt>]--> NOUN</tt> (181; 73%),
 <tt>NOUN --[<tt><a href="en_gumreddit-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (181; 69%),
 <tt>VERB --[<tt><a href="en_gumreddit-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (176; 66%),
-<tt>NOUN --[<tt><a href="en_gumreddit-dep-cop.html">cop</a></tt>]--> AUX</tt> (121; 65%),
+<tt>NOUN --[<tt><a href="en_gumreddit-dep-cop.html">cop</a></tt>]--> AUX</tt> (122; 66%),
 <tt>NOUN --[<tt><a href="en_gumreddit-dep-conj.html">conj</a></tt>]--> NOUN</tt> (110; 76%),
 <tt>NOUN --[<tt><a href="en_gumreddit-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (77; 79%),
-<tt>PROPN --[<tt><a href="en_gumreddit-dep-flat.html">flat</a></tt>]--> PROPN</tt> (32; 91%),
-<tt>VERB --[<tt><a href="en_gumreddit-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (27; 84%).
+<tt>NOUN --[<tt><a href="en_gumreddit-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (70; 50%),
+<tt>PROPN --[<tt><a href="en_gumreddit-dep-flat.html">flat</a></tt>]--> PROPN</tt> (30; 100%).
 

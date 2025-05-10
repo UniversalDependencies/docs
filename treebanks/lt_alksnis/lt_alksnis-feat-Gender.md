@@ -263,7 +263,7 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="lt_alksnis-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3658; 99%),
+<tt>NOUN --[<tt><a href="lt_alksnis-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3653; 100%),
 <tt>NOUN --[<tt><a href="lt_alksnis-dep-acl.html">acl</a></tt>]--> VERB</tt> (1532; 84%),
 <tt>NOUN --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1259; 59%),
 <tt>NOUN --[<tt><a href="lt_alksnis-dep-det.html">det</a></tt>]--> DET</tt> (896; 100%),

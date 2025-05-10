@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal but the values `Inch`, `Prosp` are language-specific.
 It occurs with 4 different values: `Imp`, `Inch`, `Perf`, `Prosp`.
 
-10424 tokens (19%) have a non-empty value of `Aspect`.
-4782 types (40%) occur at least once with a non-empty value of `Aspect`.
+10430 tokens (19%) have a non-empty value of `Aspect`.
+4786 types (40%) occur at least once with a non-empty value of `Aspect`.
 1567 lemmas (28%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (8224; 15% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (2200; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (8230; 15% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (2200; 4% instances).
 
 ### `VERB`
 
-8224 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
+8230 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (5910; 72%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5905; 72%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5905; 72%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5218; 63%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4973; 60%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4797; 58%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (5912; 72%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5907; 72%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5907; 72%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5220; 63%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4978; 60%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4799; 58%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (5879; 71% of non-empty `Aspect`): <em>potest, patet, habet, dicimus, videtur, dicit, consequens, dico, habere, oportet</em>
+* `Imp` (5881; 71% of non-empty `Aspect`): <em>potest, patet, habet, dicimus, videtur, dicit, consequens, dico, habere, oportet</em>
 * `Inch` (85; 1% of non-empty `Aspect`): <em>deposco, innotescere, cognoscat, cognoscere, cognoscitur, innotescet, innotescit, allubescentes, arescant, asciscere</em>
-* `Perf` (1778; 22% of non-empty `Aspect`): <em>dictum, fecit, inquit, dixit, factum, potuit, converso, facta, dicta, diximus</em>
+* `Perf` (1782; 22% of non-empty `Aspect`): <em>dictum, fecit, inquit, dixit, factum, potuit, converso, facta, dicta, diximus</em>
 * `Prosp` (482; 6% of non-empty `Aspect`): <em>sciendum, dicendum, loquendo, canenda, advertendum, agendum, dicenda, dicendorum, querenda, subiciendo</em>
 
 <table>
@@ -133,10 +133,10 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (936; 83%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (567; 64%),
-<tt>VERB --[<tt><a href="la_udante-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (395; 77%),
-<tt>VERB --[<tt><a href="la_udante-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (255; 59%),
+<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (937; 83%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (568; 64%),
+<tt>VERB --[<tt><a href="la_udante-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (396; 77%),
+<tt>VERB --[<tt><a href="la_udante-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (252; 59%),
 <tt>VERB --[<tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (180; 64%),
 <tt>VERB --[<tt><a href="la_udante-dep-advcl-pred.html">advcl:pred</a></tt>]--> VERB</tt> (172; 59%),
 <tt>VERB --[<tt><a href="la_udante-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (156; 76%),

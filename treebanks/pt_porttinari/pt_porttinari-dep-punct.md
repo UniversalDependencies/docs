@@ -37,7 +37,7 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 13	em	em	ADP	_	_	15	case	15:case	_
 14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	15:det	_
 15	mão	mão	NOUN	_	Gender=Fem|Number=Sing	12	nmod	12:nmod:em	SpaceAfter=No
-16	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -63,7 +63,7 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 13	em	em	ADP	_	_	15	case	15:case	_
 14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	15:det	_
 15	mão	mão	NOUN	_	Gender=Fem|Number=Sing	12	nmod	12:nmod:em	SpaceAfter=No
-16	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -81,7 +81,7 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_
 6	Stunt	Stunt	PROPN	_	_	0	root	0:root	_
 7	Burger	Burger	PROPN	_	_	6	flat:name	6:flat:name	SpaceAfter=No
-8	.	.	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+8	.	.	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 

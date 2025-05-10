@@ -113,6 +113,6 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="kpv_lattice-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 67%),
 <tt>PRON --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>PRON --[<tt><a href="kpv_lattice-dep-parataxis.html">parataxis</a></tt>]--> PRON</tt> (1; 100%),
-<tt>VERB --[<tt><a href="kpv_lattice-dep-advcl-eval.html">advcl:eval</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
+<tt>VERB --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<tt><a href="kpv_lattice-dep-nmod-obj.html">nmod:obj</a></tt>]--> PRON</tt> (1; 100%).
 

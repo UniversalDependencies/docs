@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="xcl_caval-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="xcl_caval-dep-nsubj-caus.html">nsubj:caus</a></tt>.
 
-112 nodes (0%) are attached to their parents as `nsubj:pass`.
+155 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-87 instances of `nsubj:pass` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.3125.
+123 instances of `nsubj:pass` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.7741935483871.
 
-The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (50; 45% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (41; 37% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (8; 7% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (6; 5% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (65; 42% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (65; 42% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (9; 6% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (6; 4% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (6; 4% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 10 2 nsubj:pass	color:blue
 1	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	2	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 2	ծառ	ծառ	NOUN	_	Case=Nom|Number=Sing	10	nsubj:pass	_	Translit=caṙ|LTranslit=caṙ|Gloss=tree
-3	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	5	nsubj	_	Translit=or|LTranslit=or|Gloss=which
+3	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	5	nsubj	_	Translit=or|LTranslit=or|Gloss=who
 4	ոչ	ոչ	PART	_	Polarity=Neg	5	advmod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
 5	առնիցէ	առնել	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	2	acl	_	Translit=aṙnicʻē|LTranslit=aṙnel|Gloss=make
 6	զ	զ	ADP	_	Definite=Def	7	case	_	SpaceAfter=No|Translit=z|LTranslit=z
@@ -49,12 +49,12 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 9	fgColor:white
 # visual-style 9 7 nsubj:pass	color:blue
 1	իսկ	իսկ	PART	_	_	9	discourse	_	Translit=isk|LTranslit=isk|Gloss=but
-2	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	3	nsubj	_	Translit=or|LTranslit=or|Gloss=which
+2	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	3	nsubj	_	Translit=or|LTranslit=or|Gloss=who
 3	արասցէ	առնել	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	7	acl	_	Translit=arascʻē|LTranslit=aṙnel|Gloss=make
 4	եւ	եւ	CCONJ	_	_	5	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 5	ուսուսցէ	ուսուցանել	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Cau	3	conj	_	SpaceAfter=No|Translit=owsowscʻē|LTranslit=owsowcʻanel|Gloss=teach
 6	.	.	PUNCT	_	_	3	punct	_	Translit=:|LTranslit=:
-7	նա	նա	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	9	nsubj:pass	_	Translit=na|LTranslit=na|Gloss=he/she/it/that
+7	նա	նա	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	9	nsubj:pass	_	Translit=na|LTranslit=na|Gloss=he/she/it
 8	մեծ	մեծ	ADJ	_	Case=Nom|Number=Sing	9	xcomp	_	Translit=mec|LTranslit=mec|Gloss=great
 9	կոչեսցի	կոչել	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	0	root	_	Translit=kočʻescʻi|LTranslit=kočʻel|Gloss=call
 10	յ	ի	ADP	_	_	11	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
@@ -74,7 +74,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	Յայնժամ	յայնժամ	ADV	_	_	2	advmod	_	Translit=Yaynžam|LTranslit=yaynžam|Gloss=then
 2	մատուցաւ	մատուցանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=CauPass	0	root	_	Translit=matowcʻaw|LTranslit=matowcʻanel|Gloss=offer
 3	առ	առ	ADP	_	_	4	case	_	Translit=aṙ|LTranslit=aṙ|Gloss=by
-4	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	2	obl	_	Translit=na|LTranslit=na|Gloss=he/she/it/that
+4	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	2	obl	_	Translit=na|LTranslit=na|Gloss=he/she/it
 5	դիւահար	դիւահար	ADJ	_	Case=Nom|Number=Sing	2	nsubj:pass	_	Translit=diwahar|LTranslit=diwahar|Gloss=possessed
 6	մի	մի	DET	_	Case=Nom|Definite=Spec|Number=Sing	5	det	_	Translit=mi|LTranslit=mi|Gloss=certain
 7	կոյր	կոյր	ADJ	_	Case=Nom|Number=Sing	5	amod	_	Translit=koyr|LTranslit=koyr|Gloss=blind

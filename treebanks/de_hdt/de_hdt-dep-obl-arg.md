@@ -48,7 +48,7 @@ The following 21 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 5	aus	aus	ADP	APPR	AdpType=Prep|Case=Dat	8	case	_	_
 6	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
 7	ganzen	ganz	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
-8	Bundesgebiet	Gebiet	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	4	nmod	_	_
+8	Bundesgebiet	Bundesgebiet	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	4	nmod	_	_
 9	.	.	PUNCT	$.	PunctType=Peri	2	punct	_	_
 
 ~~~

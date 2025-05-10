@@ -11,7 +11,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 19303 tokens (12%) have a non-empty value of `Person`.
 3267 types (12%) occur at least once with a non-empty value of `Person`.
-1529 lemmas (11%) occur at least once with a non-empty value of `Person`.
+1531 lemmas (11%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (6800; 4% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (5957; 4% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (5150; 3% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (1396; 1% instances).
 
 ### `VERB`
@@ -41,14 +41,14 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 5957 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (42% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5957; 100%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5957; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4800; 81%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4121; 69%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (3417; 57%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3020; 51%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5957; 100%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5957; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4800; 81%), <tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (4238; 71%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4121; 69%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (3417; 57%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3020; 51%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (2362; 40% of non-empty `Person`): <em>mi, mě, já, nás, mně, nám, mnou, mne, my, námi</em>
 * `2` (658; 11% of non-empty `Person`): <em>ti, ty, tě, vás, vám, vy, tebe, tebou, tobě, vámi</em>
 * `3` (2937; 49% of non-empty `Person`): <em>ho, mu, ji, je, jí, ní, on, něj, nich, jim</em>
-* `EMPTY` (8130): <em>se, si, co, nic, něco, kdo, sebe, nikdo, sobě, někdo</em>
+* `EMPTY` (8121): <em>se, si, co, nic, něco, kdo, sebe, nikdo, sobě, někdo</em>
 
 ### `AUX`
 

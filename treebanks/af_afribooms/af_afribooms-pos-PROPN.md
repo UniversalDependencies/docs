@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>of</em> (<tt><a href="af_afribooms-po
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.120642).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.120600).
 
 The 1st highest number of forms (1) was observed with the lemma “(SACU)-Mercusor”: <em>(SACU)-Mercusor</em>.
 

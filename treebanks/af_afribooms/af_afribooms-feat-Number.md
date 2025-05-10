@@ -62,7 +62,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (86; 65%),
 <tt>NOUN --[<tt><a href="af_afribooms-dep-dep.html">dep</a></tt>]--> NOUN</tt> (66; 65%),
 <tt>NOUN --[<tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (55; 69%),
-<tt>NOUN --[<tt><a href="af_afribooms-dep-obl.html">obl</a></tt>]--> NOUN</tt> (46; 66%),
+<tt>NOUN --[<tt><a href="af_afribooms-dep-obl.html">obl</a></tt>]--> NOUN</tt> (46; 67%),
 <tt>NOUN --[<tt><a href="af_afribooms-dep-amod.html">amod</a></tt>]--> PROPN</tt> (32; 91%),
 <tt>NOUN --[<tt><a href="af_afribooms-dep-dep.html">dep</a></tt>]--> PROPN</tt> (22; 92%).
 

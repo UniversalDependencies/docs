@@ -58,12 +58,12 @@ The form / lemma ratio of `SCONJ` is 67.000000 (the average of all parts of spee
 
 The 1st highest number of forms (67) was observed with the lemma “_”: <em>Memper, Sadurunge, Sajrone, Saking, Saliyane, Sasuwene, ajrih, amarga, amargi, amehe, anggere, anggone, awit, babagan, ben, biih, bilih, dene, guna, jalaran, kados, kaliyan, kangge, kanggo, kanthi, kareben, karo, katimbang, kaya, kaya-kaya, manawa, manawi, menawa, menawi, merga, mila, minangka, nalika, nalikane, nek, nganti, nggo, olehe, prasasat, saderengipun, saengga, sajak, sajroning, saka, sakbubare, saknalika, saksampune, sambi, sanadyan, sanajan, sawise, sawuse, sedhela, sedurung, sejene, sinambi, supaya, supayane, tanpa, tinimbang, wiwit, yen</em>.
 
-`SCONJ` occurs with 1 features: <tt><a href="jv_csui-feat-Polite.html">Polite</a></tt> (245; 78% instances)
+`SCONJ` occurs with 2 features: <tt><a href="jv_csui-feat-Polite.html">Polite</a></tt> (245; 78% instances), <tt><a href="jv_csui-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`SCONJ` occurs with 3 feature-value pairs: `Polite=Elev`, `Polite=Form`, `Polite=Infm`
+`SCONJ` occurs with 4 feature-value pairs: `ExtPos=SCONJ`, `Polite=Elev`, `Polite=Form`, `Polite=Infm`
 
-`SCONJ` occurs with 4 feature combinations.
-The most frequent feature combination is `Polite=Infm` (208 tokens).
+`SCONJ` occurs with 5 feature combinations.
+The most frequent feature combination is `Polite=Infm` (207 tokens).
 Examples: <em>yen, kanggo, kaya, amarga, nganti, nek, karo, supaya, kanthi, manawa</em>
 
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Rattima Nitisaroj, Yanin Sawanakunanon, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Thai-PUD](https://github.com/UniversalDependencies/UD_Thai-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udth_pud215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udth_pud216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 3.0
 
@@ -130,23 +130,23 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
+<li>This corpus contains 30 lemmas tagged as pronouns (PRON): 'Ya, You, กัน, ข้าพเจ้า, คุณ, ฉัน, ตนเอง, ตัวเอง, ต่าง, ทั้งหมด, ที่, นั่น, นั้น, นาย, นี่, นี้, ผม, พระองค์, พระองค์ภายหลังการสวรรคตโดยใช้ชื่อยุคที่พระองค์, มัน, มี, ยู, อะไร, อื่น, เขา, เธอ, เรา, เอง, ใคร, ไหน</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
+<li>This corpus contains 25 lemmas tagged as determiners (DET): คนละ, ซึ่ง, ดังกล่าว, ทั้ง, ทั้งหมด, ที่, ทุก, นั่น, นั้น, นั้นเอง, นี่, นี้, บาง, ผู้, ละ, หลาย, อะ, อะไร, อัน, อีก, เกือบ, เดอะ, แต่ละ, ใด, ไหน</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
+<li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: ทั้งหมด, ที่, นั่น, นั้น, นี่, นี้, อะไร, ไหน</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
+<li>This corpus contains 10 lemmas tagged as auxiliaries (AUX): กำลัง, จะ, ต้อง, ถูก, มา, เคย, เป็น, แล้ว, ได้, ได้รับ</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
+<li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: จะ, ถูก, มา, เป็น, ได้</li>
 </ul>
 
 <ul>
@@ -189,7 +189,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Perf
     <ul>
-      <li>AUX: ได้, แล้ว, มา, เคย, การได้, อยู่, แลัว</li>
+      <li>AUX: ได้, แล้ว, มา, เคย</li>
+      <li>VERB: การได้, อยู่, แลัว</li>
     </ul>
   </li>
 </ul>
@@ -197,7 +198,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Prog
     <ul>
-      <li>AUX: อยู่, ยัง, กำลัง, ยังคง, ค่อนข้าง</li>
+      <li>AUX: กำลัง</li>
+      <li>VERB: อยู่, ยัง, ยังคง, ค่อนข้าง</li>
     </ul>
   </li>
 </ul>
@@ -209,7 +211,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: ห้าม</li>
+      <li>VERB: ห้าม</li>
     </ul>
   </li>
 </ul>
@@ -222,7 +224,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Pass
     <ul>
-      <li>AUX: ถูก, ได้รับ, ต้อง, การถูก</li>
+      <li>AUX: ถูก, ได้รับ, ต้อง</li>
+      <li>VERB: การถูก</li>
     </ul>
   </li>
 </ul>
@@ -300,12 +303,12 @@ employ ten-fold cross-validation.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: เป็น.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
+<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: ได้, จะ, ต้อง, แล้ว, กำลัง, มา, เคย, ได้รับ.</li>
+<li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ถูก, ได้รับ, ต้อง.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -314,8 +317,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (537)</li>
-      <li>VERB--PRON (221)</li>
+      <li>VERB--NOUN (566)</li>
+      <li>VERB--PRON (228)</li>
     </ul>
   </li>
 </ul>
@@ -324,7 +327,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (1243)</li>
-      <li>VERB--NOUN-ADP(_) (2)</li>
+      <li>VERB--NOUN-ADP(ของ) (1)</li>
+      <li>VERB--NOUN-ADP(อัน) (1)</li>
       <li>VERB--PRON (74)</li>
     </ul>
   </li>

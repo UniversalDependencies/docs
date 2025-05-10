@@ -13,7 +13,7 @@ The 10 most frequent `CCONJ` lemmas: <em>dan, atau, namun, /, serta, maupun, tap
 
 The 10 most frequent `CCONJ` types:  <em>dan, atau, namun, /, serta, maupun, tapi, tetapi, baik, &</em>
 
-The 10 most frequent ambiguous lemmas: <em>dan</em> (<tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 485, <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> 4), <em>namun</em> (<tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 31, <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> 21), <em>/</em> (<tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 23, <tt><a href="id_csui-pos-PUNCT.html">PUNCT</a></tt> 1), <em>serta</em> (<tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> 2, <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> 1), <em>baik</em> (<tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> 32, <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> 27, <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 4), <em>sementara</em> (<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> 36, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 1), <em>4</em> (<tt><a href="id_csui-pos-NUM.html">NUM</a></tt> 10, <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 1), <em>selain</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 10, <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>dan</em> (<tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 485, <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> 4), <em>namun</em> (<tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 31, <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> 21), <em>/</em> (<tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 23, <tt><a href="id_csui-pos-PUNCT.html">PUNCT</a></tt> 1), <em>serta</em> (<tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> 2, <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> 1), <em>baik</em> (<tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> 32, <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> 27, <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 4), <em>sementara</em> (<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> 36, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 1), <em>4</em> (<tt><a href="id_csui-pos-NUM.html">NUM</a></tt> 10, <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 1), <em>selain</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 3, <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>dan</em> (<tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 484, <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> 4), <em>namun</em> (<tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 20, <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> 1), <em>/</em> (<tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 23, <tt><a href="id_csui-pos-PUNCT.html">PUNCT</a></tt> 1), <em>serta</em> (<tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> 2), <em>baik</em> (<tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> 28, <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 4), <em>Sementara</em> (<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> 37, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 2), <em>4</em> (<tt><a href="id_csui-pos-NUM.html">NUM</a></tt> 10, <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 1), <em>Selain</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 10, <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> 1)
 
@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>dan</em> (<tt><a href="id_csui-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.085880).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.085628).
 
 The 1st highest number of forms (1) was observed with the lemma “&”: <em>&</em>.
 
@@ -54,7 +54,13 @@ The 2nd highest number of forms (1) was observed with the lemma “/”: <em>/</
 
 The 3rd highest number of forms (1) was observed with the lemma “4”: <em>4</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="id_csui-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=ADV`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (707 tokens).
+Examples: <em>dan, atau, namun, /, serta, maupun, tapi, tetapi, baik, &</em>
 
 
 ## Relations

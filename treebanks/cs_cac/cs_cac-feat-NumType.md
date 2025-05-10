@@ -38,7 +38,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 * `Mult` (34; 4% of non-empty `NumType`): <em>dvojí, obojí, dvojím, trojí, dvojího, trojím, dvojímu, oboje, obojího, obojím</em>
 * `Ord` (819; 95% of non-empty `NumType`): <em>první, prvním, třetí, prvních, prvního, šedesátých, třetího, třicátých, dvacátých, páté</em>
 * `Sets` (10; 1% of non-empty `NumType`): <em>jedněch, jedni, jedny</em>
-* `EMPTY` (73359): <em>další, pracovní, jednotlivých, základní, nové, možno, socialistické, různých, dalších, větší</em>
+* `EMPTY` (73357): <em>další, pracovní, jednotlivých, základní, nové, možno, socialistické, různých, dalších, větší</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (39) occur only with one value of `NumType`.
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Mult` (119; 71% of non-empty `NumType`): <em>dvakrát, nejednou, několikrát, třikrát, mnohokrát, kolikrát, desetkrát, stokrát, čtyřikrát, dvanáctkrát</em>
 * `Ord` (49; 29% of non-empty `NumType`): <em>poprvé, podruhé, potřetí, potřinácté</em>
-* `EMPTY` (27965): <em>tak, také, jak, proto, již, už, ještě, pak, kde, tedy</em>
+* `EMPTY` (27921): <em>tak, také, jak, proto, již, už, ještě, pak, kde, tedy</em>
 
 `NumType` seems to be **lexical feature** of `ADV`. 100% lemmas (33) occur only with one value of `NumType`.
 

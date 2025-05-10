@@ -23,5 +23,5 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (242; 100% of non-empty `Poss`): <em>súa, seu, súas, seus, noso, nosa, meu, miña, meus, nosas</em>
-* `EMPTY` (3576): <em>o, a, os, as, un, unha, este, esta, todo, cada</em>
+* `EMPTY` (3573): <em>o, a, os, as, un, unha, este, esta, todo, cada</em>
 

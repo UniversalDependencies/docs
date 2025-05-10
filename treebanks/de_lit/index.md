@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Alessio Salomoni.
 
 Repository: [UD_German-LIT](https://github.com/UniversalDependencies/UD_German-LIT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_lit215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_lit216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -97,7 +97,7 @@ Many thanks to Daniel Zeman, who has promptly solved some fundamental problems c
 
 ## Features
 
-[Abbr](de_lit-feat-Abbr.html) – [Case](de_lit-feat-Case.html) – [Definite](de_lit-feat-Definite.html) – [Degree](de_lit-feat-Degree.html) – [Foreign](de_lit-feat-Foreign.html) – [Gender](de_lit-feat-Gender.html) – [Gender[psor]](de_lit-feat-Gender-psor.html) – [Mood](de_lit-feat-Mood.html) – [Number](de_lit-feat-Number.html) – [Number[psor]](de_lit-feat-Number-psor.html) – [NumType](de_lit-feat-NumType.html) – [Person](de_lit-feat-Person.html) – [Poss](de_lit-feat-Poss.html) – [PronType](de_lit-feat-PronType.html) – [Reflex](de_lit-feat-Reflex.html) – [Tense](de_lit-feat-Tense.html) – [VerbForm](de_lit-feat-VerbForm.html)
+[Abbr](de_lit-feat-Abbr.html) – [Case](de_lit-feat-Case.html) – [Definite](de_lit-feat-Definite.html) – [Degree](de_lit-feat-Degree.html) – [ExtPos](de_lit-feat-ExtPos.html) – [Foreign](de_lit-feat-Foreign.html) – [Gender](de_lit-feat-Gender.html) – [Gender[psor]](de_lit-feat-Gender-psor.html) – [Mood](de_lit-feat-Mood.html) – [Number](de_lit-feat-Number.html) – [Number[psor]](de_lit-feat-Number-psor.html) – [NumType](de_lit-feat-NumType.html) – [Person](de_lit-feat-Person.html) – [Poss](de_lit-feat-Poss.html) – [PronType](de_lit-feat-PronType.html) – [Reflex](de_lit-feat-Reflex.html) – [Tense](de_lit-feat-Tense.html) – [VerbForm](de_lit-feat-VerbForm.html)
 
 ## Relations
 
@@ -204,7 +204,7 @@ Many thanks to Daniel Zeman, who has promptly solved some fundamental problems c
       <li>ADJ: ganze, römische, Letztere, angemessenste, edle, elektrische, erhaltenden, gebildeten, gemeine, gesamte</li>
       <li>ADJ-Part: gebildeten</li>
       <li>DET: die, der, la, eine, jede</li>
-      <li>NOUN: poesie, Größe, Kunst, Altertümlichkeit, Arroganz, Charakteristik, Eigenschaften, Eigentümlichkeit, Einfalt, Erden</li>
+      <li>NOUN: poesie, Größe, Kunst, Mühe, Altertümlichkeit, Arroganz, Charakteristik, Eigenschaften, Eigentümlichkeit, Einfalt</li>
       <li>PRON: sie, die</li>
     </ul>
   </li>
@@ -227,8 +227,8 @@ Many thanks to Daniel Zeman, who has promptly solved some fundamental problems c
     <ul>
       <li>ADJ: Rembrandtschen, gebildeten, letzte, prophetisches</li>
       <li>ADJ-Part: gebildeten</li>
-      <li>DET: das, Einiges, alles, des, ein, ihr, seinem, welches</li>
-      <li>NOUN: Glück, Leben, Gedicht, Helldunkel, Kinder, Mittelglied, Phänomene, Resultat, Stück, Verdienst</li>
+      <li>DET: das, ein, Einiges, alles, dem, des, ihr, seinem, welches</li>
+      <li>NOUN: Glück, Leben, Gedicht, Gesetz, Helldunkel, Kinder, Mittelglied, Phänomene, Resultat, Stück</li>
       <li>PRON: es, was, nichts, etwas, s, 's, irgendetwas, das</li>
     </ul>
   </li>
@@ -259,8 +259,8 @@ Many thanks to Daniel Zeman, who has promptly solved some fundamental problems c
       <li>ADJ: ganze, gebildeten, römische, Letztere, Rembrandtschen, angemessenste, brillant, edle, elektrische, feiner</li>
       <li>ADJ-Part: gebildeten</li>
       <li>AUX-Fin: ist, is, sei</li>
-      <li>DET: jeder, jedem, jedes, jede, die, der, jeden, la, des, das</li>
-      <li>NOUN: poesie, Glück, Größe, Kunst, Leben, Abgottes, Altertümlichkeit, Arroganz, Ausdrucks, Autor</li>
+      <li>DET: jeder, jedem, jedes, jede, der, die, jeden, la, des, das</li>
+      <li>NOUN: poesie, Glück, Größe, Kunst, Leben, Mühe, Abgottes, Altertümlichkeit, Arroganz, Ausdrucks</li>
       <li>PRON: es, man, er, was, nichts, etwas, ich, ihm, ihn, wer</li>
       <li>PROPN: Dantes, Diderots, Leibniz, Lessing, Plato</li>
       <li>VERB-Fin: Ehre, erfolge, fait, strömt, wohlgehe</li>
@@ -487,7 +487,7 @@ Many thanks to Daniel Zeman, who has promptly solved some fundamental problems c
 <ul>
   <li>Int
     <ul>
-      <li>ADV: wodurch, worin, wozu, worauf, wobei, womit, wonach, woraus, wovon</li>
+      <li>ADV: wodurch, worin, wozu, worauf, Wie, wobei, womit, wonach, woraus, wovon</li>
       <li>DET: Wieviel</li>
     </ul>
   </li>
@@ -692,6 +692,20 @@ Many thanks to Daniel Zeman, who has promptly solved some fundamental problems c
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADP: In, durch</li>
+          <li>ADV: mehr, so</li>
+          <li>DET: mehr</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -769,7 +783,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Acc-ADP(zu) (4)</li>
       <li>VERB--NOUN-Gen (1)</li>
       <li>VERB--PRON (24)</li>
-      <li>VERB--PRON-Acc (512)</li>
+      <li>VERB--PRON-Acc (513)</li>
       <li>VERB--PRON-Acc-ADP(in) (1)</li>
       <li>VERB--PRON-Acc-ADP(mit) (1)</li>
       <li>VERB--PRON-Dat (3)</li>

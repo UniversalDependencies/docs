@@ -47,7 +47,7 @@ The following 5 pairs of parts of speech are connected with `nmod:gobj`: <tt><a 
 5	toteuttaminen	toteuttaminen	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	6	nsubj	_	_
 6	tulisi	tulla	VERB	V,Act,Cond,Sg3	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 7	hyvin	hyvin	ADV	Adv	_	8	advmod	_	_
-8	kalliiksi	kallis	ADJ	A,Sg,Tra	Case=Tra|Number=Sing	6	nmod	_	_
+8	kalliiksi	kallis	ADJ	A,Sg,Tra	Case=Tra|Number=Sing	6	obl	_	_
 9	.	.	PUNCT	Pun	_	8	punct	_	_
 
 ~~~

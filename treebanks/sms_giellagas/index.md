@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Jack Rueter, Markus Juutinen, Francis Tyers, Tommi A Pirinen, Mika Hämäläinen.
 
 Repository: [UD_Skolt_Sami-Giellagas](https://github.com/UniversalDependencies/UD_Skolt_Sami-Giellagas)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsms_giellagas215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsms_giellagas216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -93,11 +93,11 @@ however, we would be no where…
 
 ## Features
 
-[AdpType](sms_giellagas-feat-AdpType.html) – [AdvType](sms_giellagas-feat-AdvType.html) – [Animacy](sms_giellagas-feat-Animacy.html) – [Aspect](sms_giellagas-feat-Aspect.html) – [Case](sms_giellagas-feat-Case.html) – [Clitic](sms_giellagas-feat-Clitic.html) – [Connegative](sms_giellagas-feat-Connegative.html) – [Degree](sms_giellagas-feat-Degree.html) – [Derivation](sms_giellagas-feat-Derivation.html) – [Mood](sms_giellagas-feat-Mood.html) – [NameType](sms_giellagas-feat-NameType.html) – [Number](sms_giellagas-feat-Number.html) – [Number[psor]](sms_giellagas-feat-Number-psor.html) – [NumType](sms_giellagas-feat-NumType.html) – [Person](sms_giellagas-feat-Person.html) – [Person[psor]](sms_giellagas-feat-Person-psor.html) – [Polarity](sms_giellagas-feat-Polarity.html) – [PronType](sms_giellagas-feat-PronType.html) – [Reflex](sms_giellagas-feat-Reflex.html) – [Tense](sms_giellagas-feat-Tense.html) – [Typo](sms_giellagas-feat-Typo.html) – [VerbForm](sms_giellagas-feat-VerbForm.html) – [Voice](sms_giellagas-feat-Voice.html)
+[AdpType](sms_giellagas-feat-AdpType.html) – [AdvType](sms_giellagas-feat-AdvType.html) – [Animacy](sms_giellagas-feat-Animacy.html) – [Aspect](sms_giellagas-feat-Aspect.html) – [Case](sms_giellagas-feat-Case.html) – [Clitic](sms_giellagas-feat-Clitic.html) – [Connegative](sms_giellagas-feat-Connegative.html) – [Degree](sms_giellagas-feat-Degree.html) – [Derivation](sms_giellagas-feat-Derivation.html) – [ExtPos](sms_giellagas-feat-ExtPos.html) – [Mood](sms_giellagas-feat-Mood.html) – [NameType](sms_giellagas-feat-NameType.html) – [Number](sms_giellagas-feat-Number.html) – [Number[psor]](sms_giellagas-feat-Number-psor.html) – [NumType](sms_giellagas-feat-NumType.html) – [PartType](sms_giellagas-feat-PartType.html) – [Person](sms_giellagas-feat-Person.html) – [Person[psor]](sms_giellagas-feat-Person-psor.html) – [Polarity](sms_giellagas-feat-Polarity.html) – [PronType](sms_giellagas-feat-PronType.html) – [Reflex](sms_giellagas-feat-Reflex.html) – [Tense](sms_giellagas-feat-Tense.html) – [Typo](sms_giellagas-feat-Typo.html) – [VerbForm](sms_giellagas-feat-VerbForm.html) – [Voice](sms_giellagas-feat-Voice.html)
 
 ## Relations
 
-[acl](sms_giellagas-dep-acl.html) – [acl:relcl](sms_giellagas-dep-acl-relcl.html) – [advcl](sms_giellagas-dep-advcl.html) – [advcl:tcl](sms_giellagas-dep-advcl-tcl.html) – [advmod](sms_giellagas-dep-advmod.html) – [advmod:deg](sms_giellagas-dep-advmod-deg.html) – [advmod:eval](sms_giellagas-dep-advmod-eval.html) – [advmod:foc](sms_giellagas-dep-advmod-foc.html) – [advmod:lmod](sms_giellagas-dep-advmod-lmod.html) – [advmod:mmod](sms_giellagas-dep-advmod-mmod.html) – [advmod:neg](sms_giellagas-dep-advmod-neg.html) – [advmod:tmod](sms_giellagas-dep-advmod-tmod.html) – [amod](sms_giellagas-dep-amod.html) – [appos](sms_giellagas-dep-appos.html) – [aux](sms_giellagas-dep-aux.html) – [aux:nec](sms_giellagas-dep-aux-nec.html) – [aux:tense](sms_giellagas-dep-aux-tense.html) – [case](sms_giellagas-dep-case.html) – [cc](sms_giellagas-dep-cc.html) – [cc:preconj](sms_giellagas-dep-cc-preconj.html) – [ccomp](sms_giellagas-dep-ccomp.html) – [conj](sms_giellagas-dep-conj.html) – [cop](sms_giellagas-dep-cop.html) – [dep](sms_giellagas-dep-dep.html) – [det](sms_giellagas-dep-det.html) – [discourse](sms_giellagas-dep-discourse.html) – [dislocated](sms_giellagas-dep-dislocated.html) – [expl](sms_giellagas-dep-expl.html) – [fixed](sms_giellagas-dep-fixed.html) – [flat:name](sms_giellagas-dep-flat-name.html) – [goeswith](sms_giellagas-dep-goeswith.html) – [mark](sms_giellagas-dep-mark.html) – [nmod](sms_giellagas-dep-nmod.html) – [nmod:poss](sms_giellagas-dep-nmod-poss.html) – [nsubj](sms_giellagas-dep-nsubj.html) – [nsubj:cop](sms_giellagas-dep-nsubj-cop.html) – [nsubj:pass](sms_giellagas-dep-nsubj-pass.html) – [nummod](sms_giellagas-dep-nummod.html) – [obj](sms_giellagas-dep-obj.html) – [obl](sms_giellagas-dep-obl.html) – [obl:agent](sms_giellagas-dep-obl-agent.html) – [obl:lmod](sms_giellagas-dep-obl-lmod.html) – [obl:tmod](sms_giellagas-dep-obl-tmod.html) – [orphan](sms_giellagas-dep-orphan.html) – [parataxis](sms_giellagas-dep-parataxis.html) – [punct](sms_giellagas-dep-punct.html) – [reparandum](sms_giellagas-dep-reparandum.html) – [root](sms_giellagas-dep-root.html) – [vocative](sms_giellagas-dep-vocative.html) – [xcomp](sms_giellagas-dep-xcomp.html)
+[acl](sms_giellagas-dep-acl.html) – [acl:relcl](sms_giellagas-dep-acl-relcl.html) – [advcl](sms_giellagas-dep-advcl.html) – [advmod](sms_giellagas-dep-advmod.html) – [advmod:neg](sms_giellagas-dep-advmod-neg.html) – [amod](sms_giellagas-dep-amod.html) – [appos](sms_giellagas-dep-appos.html) – [aux](sms_giellagas-dep-aux.html) – [case](sms_giellagas-dep-case.html) – [cc](sms_giellagas-dep-cc.html) – [cc:preconj](sms_giellagas-dep-cc-preconj.html) – [ccomp](sms_giellagas-dep-ccomp.html) – [conj](sms_giellagas-dep-conj.html) – [cop](sms_giellagas-dep-cop.html) – [dep](sms_giellagas-dep-dep.html) – [det](sms_giellagas-dep-det.html) – [discourse](sms_giellagas-dep-discourse.html) – [dislocated](sms_giellagas-dep-dislocated.html) – [expl](sms_giellagas-dep-expl.html) – [fixed](sms_giellagas-dep-fixed.html) – [flat:name](sms_giellagas-dep-flat-name.html) – [goeswith](sms_giellagas-dep-goeswith.html) – [mark](sms_giellagas-dep-mark.html) – [nmod](sms_giellagas-dep-nmod.html) – [nmod:poss](sms_giellagas-dep-nmod-poss.html) – [nsubj](sms_giellagas-dep-nsubj.html) – [nsubj:cop](sms_giellagas-dep-nsubj-cop.html) – [nsubj:pass](sms_giellagas-dep-nsubj-pass.html) – [nummod](sms_giellagas-dep-nummod.html) – [obj](sms_giellagas-dep-obj.html) – [obl](sms_giellagas-dep-obl.html) – [obl:agent](sms_giellagas-dep-obl-agent.html) – [obl:tmod](sms_giellagas-dep-obl-tmod.html) – [orphan](sms_giellagas-dep-orphan.html) – [parataxis](sms_giellagas-dep-parataxis.html) – [punct](sms_giellagas-dep-punct.html) – [reparandum](sms_giellagas-dep-reparandum.html) – [root](sms_giellagas-dep-root.html) – [vocative](sms_giellagas-dep-vocative.html) – [xcomp](sms_giellagas-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -313,7 +313,7 @@ however, we would be no where…
     <ul>
       <li>ADJ: jõnn</li>
       <li>ADP: luzz, årra, räjja</li>
-      <li>ADV: koozz, koozz-a, mõõzz</li>
+      <li>ADV: koozz, dõõzz-e, koozz-a, mõõzz</li>
       <li>NOUN: pärnna, kuätta, põʹrtte, äitta, Pella, aaiʹtid, ekka, heävašstallju, kuättses, kuäʹttnjälmma</li>
       <li>PRON: miʹjjid, muʹnne, tõid, ǩeäzz</li>
     </ul>
@@ -323,7 +323,7 @@ however, we would be no where…
 <ul>
   <li>Loc
     <ul>
-      <li>ADV: koʹst, mâʹst</li>
+      <li>ADV: tõʹst, koʹst, täʹst, vuõssmõõzzâst, mâʹst</li>
       <li>NOUN: mieʹccest, oummust, ääiʹtest, luândstes, lõõnjâst, põõrtâst, tuõddrest, vueiʹvvgåårdest, škooulâst, ǩeeʹrjteeʹjest</li>
       <li>NUM: kooumâst</li>
       <li>PRON: suʹst, seeʹst, dââʹst, suännast, muʹst, tõʹst</li>
@@ -374,7 +374,7 @@ however, we would be no where…
 <ul>
   <li>Dim
     <ul>
-      <li>NOUN: vuõddjez</li>
+      <li>NOUN: vuõddjez, äʹrbbaaušu</li>
     </ul>
   </li>
 </ul>
@@ -650,7 +650,7 @@ however, we would be no where…
     <ul>
       <li>Tim
         <ul>
-          <li>ADV: âʹtte, ååʹn, mâŋŋa, teä, eʹpet, kuuʹǩǩ, teʹl, vuõššân, Eiʹdde, jo</li>
+          <li>ADV: âʹtte, ååʹn, mâŋŋa, teä, eʹpet, teʹl, kuuʹǩǩ, vuõššân, Eiʹdde, jo</li>
           <li>SCONJ: Gu</li>
         </ul>
       </li>
@@ -679,11 +679,11 @@ however, we would be no where…
       </li>
       <li>QstA
         <ul>
-          <li>ADV: olgglab-a, koozz-a</li>
-          <li>AUX: lij-a, leäk-a</li>
+          <li>ADV: koozz-a, olgglab-a</li>
+          <li>AUX: Lij-a</li>
           <li>NOUN: Šurr-a</li>
           <li>PRON: jiânnai-a</li>
-          <li>VERB: Haaʹlääk-a, leäk-a, vueʹljžiǩ-a</li>
+          <li>VERB: Haaʹlääk-a, leäk-a</li>
         </ul>
       </li>
     </ul>
@@ -706,11 +706,6 @@ however, we would be no where…
 <ul>
   <li><a>Derivation</a>
     <ul>
-      <li>Dimin
-        <ul>
-          <li>NOUN: äʹrbbaaušu</li>
-        </ul>
-      </li>
       <li>InchL
         <ul>
           <li>VERB: dõnnõǥškuätt, kâssneškueʹđež, lueʹšttleškuätt, lueʹštškueʹtted, säärntõlškuõʹđi, vuõddmâstõlškuõʹđi, šõllneškuõʹđež</li>
@@ -720,6 +715,40 @@ however, we would be no where…
       <li>Men
         <ul>
           <li>VERB: vueʹtǩǩmen, håiddmen, jieʹllmen, jååʹttmen, viikkmen</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADV: koozz, kuuʹǩǩ</li>
+          <li>PART: ni</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: a</li>
+          <li>INTJ: Ij</li>
+        </ul>
+      </li>
+      <li>INTJ
+        <ul>
+          <li>INTJ: Piʒʒ, Na</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>PRON: Mii, mõin</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADV: ouddâl</li>
         </ul>
       </li>
     </ul>
@@ -747,6 +776,22 @@ however, we would be no where…
       <li>Sur
         <ul>
           <li>PROPN: Brown, Smith</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>PartType</a>
+    <ul>
+      <li>Int
+        <ul>
+          <li>ADV: koozz-a, olgglab-a</li>
+          <li>AUX: lij-a, leäk-a</li>
+          <li>NOUN: Šurr-a</li>
+          <li>PRON: jiânnai-a</li>
+          <li>VERB: Haaʹlääk-a, leäk-a, vueʹljžiǩ-a</li>
         </ul>
       </li>
     </ul>
@@ -860,7 +905,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 19 relation subtypes: <a>acl:relcl</a>, <a>advcl:tcl</a>, <a>advmod:deg</a>, <a>advmod:eval</a>, <a>advmod:foc</a>, <a>advmod:lmod</a>, <a>advmod:mmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:nec</a>, <a>aux:tense</a>, <a>cc:preconj</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>advmod:neg</a>, <a>cc:preconj</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>clf</a>, <a>compound</a>, <a>list</a></li>
 </ul>

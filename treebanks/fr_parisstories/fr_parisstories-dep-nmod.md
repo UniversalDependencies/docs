@@ -56,24 +56,25 @@ The following 27 pairs of parts of speech are connected with `nmod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 12 nmod	color:blue
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 13 nmod	color:blue
 1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	sujet	sujet	NOUN	_	Gender=Masc|Number=Sing	5	dislocated	_	_
-3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	SpaceAfter=No
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj:outer	_	SpaceAfter=No
 4	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
-5	peut-on	peut-on	ADV	_	_	0	root	_	_
-6	se	soi	PRON	_	Person=3|PronType=Prs	7	obj	_	_
-7	mettre	mettre	VERB	_	VerbForm=Inf	5	xcomp	_	Subject=SubjRaising
-8	à	à	ADP	_	_	10	case	_	_
-9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	place	place	NOUN	_	Gender=Fem|Number=Sing	7	obl:arg	_	_
-11	d'	de	ADP	_	_	12	case	_	SpaceAfter=No
-12	autrui	autrui	PRON	_	Number=Sing|Person=3|PronType=Ind	10	nmod	_	_
-13	?	?	PUNCT	_	_	5	punct	_	_
+5	peut	peut	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	-on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	_
+7	se	soi	PRON	_	Person=3|PronType=Prs	8	obj	_	_
+8	mettre	mettre	VERB	_	VerbForm=Inf	5	xcomp	_	Subject=SubjRaising
+9	à	à	ADP	_	_	11	case	_	_
+10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	place	place	NOUN	_	Gender=Fem|Number=Sing	8	obl:arg	_	_
+12	d'	de	ADP	_	_	13	case	_	SpaceAfter=No
+13	autrui	autrui	PRON	_	Number=Sing|Person=3|PronType=Ind	11	nmod	_	_
+14	?	?	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-104 nodes (0%) are attached to their parents as `fixed`.
+83 nodes (0%) are attached to their parents as `fixed`.
 
-104 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.14423076923077.
+83 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.10843373493976.
 
-The following 19 pairs of parts of speech are connected with `fixed`: <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (32; 31% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (13; 13% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (11; 11% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (9; 9% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (8; 8% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (5; 5% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (5; 5% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (4; 4% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="en_pud-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt>-<tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_pud-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `fixed`: <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (32; 39% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (11; 13% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (9; 11% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (9; 11% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (8; 10% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (4; 5% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (3; 4% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -56,7 +56,7 @@ The following 19 pairs of parts of speech are connected with `fixed`: <tt><a hre
 13	ran	run	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	ccomp	11:ccomp	_
 14	at	at	ADP	IN	_	15	case	15:case	_
 15	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	obl	13:obl:at	_
-16	rather	rather	ADV	RB	_	19	cc	19:cc	_
+16	rather	rather	ADV	RB	ExtPos=CCONJ	19	cc	19:cc	_
 17	than	than	ADP	IN	_	16	fixed	16:fixed	_
 18	round	round	ADP	IN	_	19	case	19:case	_
 19	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	conj	11:ccomp|13:conj:rather_than	SpaceAfter=No

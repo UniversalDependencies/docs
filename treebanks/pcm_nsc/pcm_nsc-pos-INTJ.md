@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Naija-NSC: POS Tags: `INTJ`
 
 There are 92 `INTJ` lemmas (2%), 101 `INTJ` types (2%) and 2260 `INTJ` tokens (2%).
-Out of 15 observed tags, the rank of `INTJ` is: 7 in number of lemmas, 8 in number of types and 11 in number of tokens.
+Out of 16 observed tags, the rank of `INTJ` is: 6 in number of lemmas, 8 in number of types and 11 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>eh, ehn, ah, OK, ehen, mtschew, toh, hm, yes, aha</em>
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>eh</em> (<tt><a href="pcm_nsc-pos-INT
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.097826 (the average of all parts of speech is 1.162341).
+The form / lemma ratio of `INTJ` is 1.097826 (the average of all parts of speech is 1.162049).
 
 The 1st highest number of forms (3) was observed with the lemma “ehn”: <em>ehn, ehw, er</em>.
 
@@ -77,17 +77,17 @@ Examples: <em>eh, ehn, ah, okay, ehen, toh, mtschew, hm, yes, aha</em>
 
 Parents of `INTJ` nodes belong to 16 different parts of speech: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (887; 39% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (454; 20% instances),  (415; 18% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (100; 4% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (82; 4% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (71; 3% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (68; 3% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (47; 2% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (32; 1% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (28; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (23; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (22; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (21; 1% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances)
 
-1491 (66%) `INTJ` nodes are leaves.
+1479 (65%) `INTJ` nodes are leaves.
 
-522 (23%) `INTJ` nodes have one child.
+532 (24%) `INTJ` nodes have one child.
 
-173 (8%) `INTJ` nodes have two children.
+174 (8%) `INTJ` nodes have two children.
 
-74 (3%) `INTJ` nodes have three or more children.
+75 (3%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 7.
 
-Children of `INTJ` nodes are attached using 21 different relations: <tt><a href="pcm_nsc-dep-dep.html">dep</a></tt> (930; 81% instances), <tt><a href="pcm_nsc-dep-advmod.html">advmod</a></tt> (58; 5% instances), <tt><a href="pcm_nsc-dep-discourse.html">discourse</a></tt> (33; 3% instances), <tt><a href="pcm_nsc-dep-case.html">case</a></tt> (25; 2% instances), <tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt> (20; 2% instances), <tt><a href="pcm_nsc-dep-compound-redup.html">compound:redup</a></tt> (14; 1% instances), <tt><a href="pcm_nsc-dep-vocative.html">vocative</a></tt> (11; 1% instances), <tt><a href="pcm_nsc-dep-cop.html">cop</a></tt> (9; 1% instances), <tt><a href="pcm_nsc-dep-aux.html">aux</a></tt> (6; 1% instances), <tt><a href="pcm_nsc-dep-dislocated.html">dislocated</a></tt> (6; 1% instances), <tt><a href="pcm_nsc-dep-nsubj.html">nsubj</a></tt> (6; 1% instances), <tt><a href="pcm_nsc-dep-obl-mod.html">obl:mod</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-dep-obl-arg.html">obl:arg</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-cc.html">cc</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-flat-foreign.html">flat:foreign</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-parataxis-discourse.html">parataxis:discourse</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
+Children of `INTJ` nodes are attached using 21 different relations: <tt><a href="pcm_nsc-dep-punct.html">punct</a></tt> (945; 82% instances), <tt><a href="pcm_nsc-dep-advmod.html">advmod</a></tt> (58; 5% instances), <tt><a href="pcm_nsc-dep-discourse.html">discourse</a></tt> (33; 3% instances), <tt><a href="pcm_nsc-dep-case.html">case</a></tt> (25; 2% instances), <tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt> (20; 2% instances), <tt><a href="pcm_nsc-dep-compound-redup.html">compound:redup</a></tt> (14; 1% instances), <tt><a href="pcm_nsc-dep-vocative.html">vocative</a></tt> (11; 1% instances), <tt><a href="pcm_nsc-dep-cop.html">cop</a></tt> (9; 1% instances), <tt><a href="pcm_nsc-dep-aux.html">aux</a></tt> (6; 1% instances), <tt><a href="pcm_nsc-dep-dislocated.html">dislocated</a></tt> (6; 1% instances), <tt><a href="pcm_nsc-dep-nsubj.html">nsubj</a></tt> (6; 1% instances), <tt><a href="pcm_nsc-dep-obl-mod.html">obl:mod</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-dep-obl-arg.html">obl:arg</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-cc.html">cc</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-flat-foreign.html">flat:foreign</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-parataxis-discourse.html">parataxis:discourse</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Children of `INTJ` nodes belong to 14 different parts of speech: <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (931; 82% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (47; 4% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (44; 4% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (26; 2% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (25; 2% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (15; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1; 0% instances)
+Children of `INTJ` nodes belong to 15 different parts of speech: <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (945; 82% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (47; 4% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (44; 4% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (26; 2% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (25; 2% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (15; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 0% instances)
 

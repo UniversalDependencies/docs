@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6722 nodes (8%) are attached to their parents as `det`.
+6693 nodes (8%) are attached to their parents as `det`.
 
-6676 instances of `det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.15426956263017.
+6671 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.15180038846556.
 
-The following 10 pairs of parts of speech are connected with `det`: <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (4550; 68% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (1884; 28% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (98; 1% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (74; 1% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (30; 0% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (30; 0% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (5; 0% instances).
+The following 9 pairs of parts of speech are connected with `det`: <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (4549; 68% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (1884; 28% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (98; 1% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (74; 1% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (30; 0% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	alguma	algum	DET	_	Gender=Fem|Number=Sing|PronType=Ind	5	det	_	_
 5	sugestão	sugestão	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-6	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
@@ -45,7 +45,7 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 5	em	em	ADP	_	_	7	case	_	_
 6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	PETR4	PETR4	PROPN	_	_	4	nmod	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 11	R$	R$	SYM	_	_	8	nmod	_	SpaceAfter=No
 12	13	13	NUM	_	NumType=Card	11	nummod	_	_
 13	?	?	PUNCT	_	_	2	punct	_	_
-14	=)	=)	SYM	_	_	2	discourse	_	SpaceAfter=No
+14	=)	=)	SYM	_	_	2	discourse	_	_
 
 ~~~
 

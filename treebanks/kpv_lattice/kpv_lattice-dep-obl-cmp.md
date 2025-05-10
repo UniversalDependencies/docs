@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `obl:cmp`
 
 This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-obl.html">obl</a></tt>.
-There are also 5 other language-specific subtypes of `obl`: <tt><a href="kpv_lattice-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="kpv_lattice-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="kpv_lattice-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="kpv_lattice-dep-obl-mcl.html">obl:mcl</a></tt>, <tt><a href="kpv_lattice-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are also 1 other language-specific subtypes of `obl`: <tt><a href="kpv_lattice-dep-obl-agent.html">obl:agent</a></tt>.
 
 5 nodes (0%) are attached to their parents as `obl:cmp`.
 
@@ -27,25 +27,25 @@ The following 4 pairs of parts of speech are connected with `obl:cmp`: <tt><a hr
 2	кыв	кыв	NOUN	N	Case=Nom|Number=Sing	3	nmod	_	GTtags=Sg,Nom
 3	отсӧгӧн	отсӧг	NOUN	N	Case=Ins|Number=Sing	6	obl	_	GTtags=Sg,Ins
 4	ми	ме	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	GTtags=Pers,Pl1,Nom
-5	кокниа	кокниа	ADV	Adv	_	6	advmod:mmod	_	_
+5	кокниа	кокниа	ADV	Adv	_	6	advmod	_	_
 6	гӧгӧрвоам	гӧгӧрвоны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	GTtags=TV,Ind,Prs,Pl1
 7	ӧта-мӧднымӧс	ӧта-мӧд	PRON	Pron	Case=Acc|Number[psor]=Plur|Person[psor]=1|PronType=Rcp	6	obj	_	GTtags=Recipr,Acc,PxPl1|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	12	punct	_	_
 9	и	и	CCONJ	CC	_	12	cc	_	_
-10	юраным	юр	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Plur|Person[psor]=1	12	obl:lmod	_	GTtags=Sg,Ill,PxPl1
+10	юраным	юр	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Plur|Person[psor]=1	12	obl	_	GTtags=Sg,Ill,PxPl1
 11	оз	оз	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	12	aux	_	GTtags=Neg,Ind,Prs,Sg3
 12	волы	волыны	VERB	V	Connegative=Yes	6	conj	_	GTtags=IV,ConNeg|SpaceAfter=No
 13	,	,	PUNCT	CLB	_	17	punct	_	_
 14	мый	мый	SCONJ	CS	_	17	mark	_	_
 15	аслыспӧлӧслунным	аслыспӧлӧслун	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	17	nsubj	_	GTtags=Sg,Nom,PxPl1
-16	вермас	вермыны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	17	aux:pot	_	GTtags=TV,Ind,Fut,Sg3
+16	вермас	вермыны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	17	aux	_	GTtags=TV,Ind,Fut,Sg3
 17	кыпӧдны	кыпӧдны	VERB	V	VerbForm=Inf	12	csubj	_	GTtags=TV,Inf
 18	мукӧдъясысь	мукӧд	PRON	Pron	Case=Ela|Number=Plur	19	obl:cmp	_	GTtags=Pl,Ela
 19	вылӧджык	выв	NOUN	N	Case=Ill|Degree=Cmp|NounType=Relat|Number=Sing	17	obl	_	GTtags=Relat,Sg,Ill,Comp
 20	либӧ	либӧ	CCONJ	CC	_	21	cc	_	_
 21	уськӧдны	уськӧдны	VERB	V	VerbForm=Inf	17	conj	_	GTtags=TV,Inf
 22	мукӧдъясысь	мукӧд	PRON	Pron	Case=Ela|Number=Plur	23	obl:cmp	_	GTtags=Pl,Ela
-23	улӧ	ув	NOUN	N	Case=Ill|NounType=Relat|Number=Sing	21	obl:lmod	_	GTtags=Po,Sg,Ill|SpaceAfter=No
+23	улӧ	ув	NOUN	N	Case=Ill|NounType=Relat|Number=Sing	21	obl	_	GTtags=Po,Sg,Ill|SpaceAfter=No
 24	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~
@@ -57,7 +57,7 @@ The following 4 pairs of parts of speech are connected with `obl:cmp`: <tt><a hr
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 obl:cmp	color:blue
-1	Война	война	NOUN	N	Case=Nom|Number=Sing	5	obl:lmod	_	_
+1	Война	война	NOUN	N	Case=Nom|Number=Sing	5	obl	_	_
 2	вылын	вылын	ADP	Po	AdpType=Post|Case=Ine|Number=Sing	1	case	_	_
 3	татшӧм	татшӧм	DET	Det	Case=Nom|Number=Sing|PronType=Dem	4	det	_	_
 4	гӧгӧрвотӧмыс	гӧгӧрвоны	VERB	V	Number[psor]=Sing|Person[psor]=3|Polarity=Neg|Tense=Past|VerbForm=Part	5	csubj	_	_
@@ -84,7 +84,7 @@ The following 4 pairs of parts of speech are connected with `obl:cmp`: <tt><a hr
 6	ни	ни	CCONJ	CC	_	7	cc	_	gloss_en=nor
 7	озыр	озыр	ADJ	A	Case=Nom|Number=Sing	5	conj	_	gloss_en=rich
 8	эз	оз	AUX	V	_	10	aux	_	gloss_en=not
-9	жӧ	жӧ	ADV	Adv	_	10	advmod:eval	_	_
+9	жӧ	жӧ	ADV	Adv	_	10	advmod	_	_
 10	ло	лоны	VERB	V	Connegative=Yes	0	root	_	gloss_en=become|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 

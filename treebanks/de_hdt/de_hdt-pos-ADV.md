@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-HDT: POS Tags: `ADV`
 
-There are 760 `ADV` lemmas (1%), 769 `ADV` types (0%) and 196594 `ADV` tokens (6%).
+There are 760 `ADV` lemmas (0%), 769 `ADV` types (0%) and 196593 `ADV` tokens (6%).
 Out of 16 observed tags, the rank of `ADV` is: 7 in number of lemmas, 7 in number of types and 7 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>auch, noch, nur, so, mehr, aber, bereits, allerdings, damit, schon</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>auch</em> (<tt><a href="de_hdt-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.011842 (the average of all parts of speech is 2.529726).
+The form / lemma ratio of `ADV` is 1.011842 (the average of all parts of speech is 1.295646).
 
 The 1st highest number of forms (4) was observed with the lemma “mehr”: <em>mehr, mehrere, mehreren, mehrerer</em>.
 
@@ -69,17 +69,17 @@ The 3rd highest number of forms (3) was observed with the lemma “bisschen”: 
 `ADV` occurs with 15 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`
 
 `ADV` occurs with 27 feature combinations.
-The most frequent feature combination is `_` (160150 tokens).
+The most frequent feature combination is `_` (160149 tokens).
 Examples: <em>auch, noch, nur, aber, bereits, allerdings, schon, rund, nun, etwa</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 18 different relations: <tt><a href="de_hdt-dep-advmod.html">advmod</a></tt> (190957; 97% instances), <tt><a href="de_hdt-dep-obj.html">obj</a></tt> (2429; 1% instances), <tt><a href="de_hdt-dep-advcl.html">advcl</a></tt> (1291; 1% instances), <tt><a href="de_hdt-dep-conj.html">conj</a></tt> (623; 0% instances), <tt><a href="de_hdt-dep-mark.html">mark</a></tt> (591; 0% instances), <tt><a href="de_hdt-dep-root.html">root</a></tt> (477; 0% instances), <tt><a href="de_hdt-dep-ccomp.html">ccomp</a></tt> (56; 0% instances), <tt><a href="de_hdt-dep-obl.html">obl</a></tt> (49; 0% instances), <tt><a href="de_hdt-dep-acl.html">acl</a></tt> (39; 0% instances), <tt><a href="de_hdt-dep-xcomp.html">xcomp</a></tt> (20; 0% instances), <tt><a href="de_hdt-dep-parataxis.html">parataxis</a></tt> (19; 0% instances), <tt><a href="de_hdt-dep-csubj.html">csubj</a></tt> (15; 0% instances), <tt><a href="de_hdt-dep-appos.html">appos</a></tt> (12; 0% instances), <tt><a href="de_hdt-dep-case.html">case</a></tt> (6; 0% instances), <tt><a href="de_hdt-dep-csubj-pass.html">csubj:pass</a></tt> (4; 0% instances), <tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="de_hdt-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="de_hdt-dep-cc.html">cc</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 18 different relations: <tt><a href="de_hdt-dep-advmod.html">advmod</a></tt> (190956; 97% instances), <tt><a href="de_hdt-dep-obj.html">obj</a></tt> (2429; 1% instances), <tt><a href="de_hdt-dep-advcl.html">advcl</a></tt> (1291; 1% instances), <tt><a href="de_hdt-dep-conj.html">conj</a></tt> (623; 0% instances), <tt><a href="de_hdt-dep-mark.html">mark</a></tt> (591; 0% instances), <tt><a href="de_hdt-dep-root.html">root</a></tt> (477; 0% instances), <tt><a href="de_hdt-dep-ccomp.html">ccomp</a></tt> (56; 0% instances), <tt><a href="de_hdt-dep-obl.html">obl</a></tt> (49; 0% instances), <tt><a href="de_hdt-dep-acl.html">acl</a></tt> (39; 0% instances), <tt><a href="de_hdt-dep-xcomp.html">xcomp</a></tt> (20; 0% instances), <tt><a href="de_hdt-dep-parataxis.html">parataxis</a></tt> (19; 0% instances), <tt><a href="de_hdt-dep-csubj.html">csubj</a></tt> (15; 0% instances), <tt><a href="de_hdt-dep-appos.html">appos</a></tt> (12; 0% instances), <tt><a href="de_hdt-dep-case.html">case</a></tt> (6; 0% instances), <tt><a href="de_hdt-dep-csubj-pass.html">csubj:pass</a></tt> (4; 0% instances), <tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="de_hdt-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="de_hdt-dep-cc.html">cc</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 15 different parts of speech: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (98044; 50% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (38941; 20% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (23549; 12% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (11402; 6% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (7497; 4% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (4839; 2% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (4291; 2% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (3496; 2% instances), <tt><a href="de_hdt-pos-PART.html">PART</a></tt> (1454; 1% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (934; 0% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (934; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (677; 0% instances),  (477; 0% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (56; 0% instances), <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances)
+Parents of `ADV` nodes belong to 15 different parts of speech: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (98044; 50% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (38940; 20% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (23549; 12% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (11402; 6% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (7497; 4% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (4839; 2% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (4291; 2% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (3495; 2% instances), <tt><a href="de_hdt-pos-PART.html">PART</a></tt> (1454; 1% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (934; 0% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (934; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (677; 0% instances),  (477; 0% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (57; 0% instances), <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances)
 
-181319 (92%) `ADV` nodes are leaves.
+181318 (92%) `ADV` nodes are leaves.
 
 13504 (7%) `ADV` nodes have one child.
 

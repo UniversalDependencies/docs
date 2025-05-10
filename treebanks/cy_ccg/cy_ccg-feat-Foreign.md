@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>Iron, pro-indy</em>
-* `EMPTY` (3600): <em>Cymraeg, newydd, Gymraeg, bob, mwy, lleol, eraill, pob, arall, genedlaethol</em>
+* `EMPTY` (3597): <em>Cymraeg, newydd, Gymraeg, bob, mwy, lleol, eraill, pob, arall, genedlaethol</em>
 
 ## Relations with Agreement in `Foreign`
 

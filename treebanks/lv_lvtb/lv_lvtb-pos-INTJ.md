@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latvian-LVTB: POS Tags: `INTJ`
 
-There are 70 `INTJ` lemmas (0%), 70 `INTJ` types (0%) and 221 `INTJ` tokens (0%).
-Out of 17 observed tags, the rank of `INTJ` is: 10 in number of lemmas, 13 in number of types and 17 in number of tokens.
+There are 73 `INTJ` lemmas (0%), 73 `INTJ` types (0%) and 230 `INTJ` tokens (0%).
+Out of 17 observed tags, the rank of `INTJ` is: 9 in number of lemmas, 12 in number of types and 17 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>paldies, lūk, lūdzu, re, ak, labrīt, nudien, vau, vot, nu</em>
 
 The 10 most frequent `INTJ` types:  <em>paldies, lūk, lūdzu, re, ak, labrīt, nudien, vau, vot, O</em>
 
-The 10 most frequent ambiguous lemmas: <em>ak</em> (<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 13, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 1), <em>nu</em> (<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 179, <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 103, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 5), <em>ā</em> (<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1), <em>še</em> (<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 4, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 1), <em>ha</em> (<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 2), <em>nūja</em> (<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 3, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 2), <em>vai</em> (<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 598, <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 500, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 301, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 2), <em>aiziet</em> (<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 108, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1), <em>da</em> (<tt><a href="lv_lvtb-pos-X.html">X</a></tt> 2, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 1), <em>eh</em> (<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>paldies</em> (<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 31, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 1), <em>ak</em> (<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 14, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 1), <em>nu</em> (<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 188, <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 104, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 5), <em>vai</em> (<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 934, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 313, <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 154, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 3), <em>še</em> (<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 4, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 1), <em>ha</em> (<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 2), <em>nūja</em> (<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 3, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 2), <em>aiziet</em> (<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 111, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1), <em>da</em> (<tt><a href="lv_lvtb-pos-X.html">X</a></tt> 2, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 1), <em>eh</em> (<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>lūdzu</em> (<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 12, <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 4), <em>nu</em> (<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 111, <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 80, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1), <em>redz</em> (<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 16, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 3), <em>Še</em> (<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 1), <em>ej</em> (<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 9, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1), <em>nūja</em> (<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 2), <em>vai</em> (<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 566, <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 496, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 119, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1), <em>zin'</em> (<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 1), <em>Da</em> (<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 1), <em>Līgo</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>lūdzu</em> (<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 12, <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 4), <em>nu</em> (<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 111, <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 80, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1), <em>redz</em> (<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 16, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 3), <em>vai</em> (<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 900, <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 154, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 129, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1), <em>Še</em> (<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 1), <em>ej</em> (<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 9, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1), <em>nūja</em> (<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 2), <em>zin'</em> (<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 1), <em>Da</em> (<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 1), <em>Līgo</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>lūdzu</em>
@@ -28,6 +28,11 @@ The 10 most frequent ambiguous types:  <em>lūdzu</em> (<tt><a href="lv_lvtb-pos
 * <em>redz</em>
   * <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 16: <em>Ārsts <b>redz</b> , kā pacients jūtas .</em>
   * <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 3: <em>Bet viņam jautājumi , <b>redz</b> , sakrājušies .</em>
+* <em>vai</em>
+  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 900: <em>Ved <b>vai</b> neved , dubļi nāk pa durvīm iekšā .</em>
+  * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 154: <em>Protams , ir jārēķina , <b>vai</b> ir jēga to darīt .</em>
+  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 129: <em>" Klau , <b>vai</b> tu savu bēri nebaro ? "</em>
+  * <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1: <em>– Vai , manu , <b>vai</b> !</em>
 * <em>Še</em>
   * <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 3: <em><b>Še</b> putra , ēd , televizoru vakarā skatīsies .</em>
   * <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 1: <em><b>Še</b> es esmu .</em>
@@ -37,11 +42,6 @@ The 10 most frequent ambiguous types:  <em>lūdzu</em> (<tt><a href="lv_lvtb-pos
 * <em>nūja</em>
   * <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> 4: <em>Un <b>nūja</b> sāka augt .</em>
   * <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 2: <em>Nu jā – <b>nūja</b> , kuŗu biju dusmās sviedis prom .</em>
-* <em>vai</em>
-  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 566: <em>Ved <b>vai</b> neved , dubļi nāk pa durvīm iekšā .</em>
-  * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 496: <em>Slēpties <b>vai</b> bēgt nav vērts .</em>
-  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 119: <em>" Klau , <b>vai</b> tu savu bēri nebaro ? "</em>
-  * <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1: <em>– Vai , manu , <b>vai</b> !</em>
 * <em>zin'</em>
   * <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 2: <em>Labi , sniegpulksteņi ir forši un visas tās pavasara urgas , <b>zin'</b> .</em>
   * <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 1: <em>Nu vai <b>zin'</b> .</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>lūdzu</em> (<tt><a href="lv_lvtb-pos
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.339090).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.341252).
 
 The 1st highest number of forms (1) was observed with the lemma “aha”: <em>Aha</em>.
 
@@ -68,21 +68,21 @@ The 3rd highest number of forms (1) was observed with the lemma “aidā”: <em
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 10 different relations: <tt><a href="lv_lvtb-dep-discourse.html">discourse</a></tt> (131; 59% instances), <tt><a href="lv_lvtb-dep-root.html">root</a></tt> (50; 23% instances), <tt><a href="lv_lvtb-dep-conj.html">conj</a></tt> (17; 8% instances), <tt><a href="lv_lvtb-dep-ccomp.html">ccomp</a></tt> (7; 3% instances), <tt><a href="lv_lvtb-dep-iobj.html">iobj</a></tt> (6; 3% instances), <tt><a href="lv_lvtb-dep-dep.html">dep</a></tt> (4; 2% instances), <tt><a href="lv_lvtb-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="lv_lvtb-dep-nsubj.html">nsubj</a></tt> (2; 1% instances), <tt><a href="lv_lvtb-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`INTJ` nodes are attached to their parents using 10 different relations: <tt><a href="lv_lvtb-dep-discourse.html">discourse</a></tt> (136; 59% instances), <tt><a href="lv_lvtb-dep-root.html">root</a></tt> (51; 22% instances), <tt><a href="lv_lvtb-dep-conj.html">conj</a></tt> (17; 7% instances), <tt><a href="lv_lvtb-dep-ccomp.html">ccomp</a></tt> (10; 4% instances), <tt><a href="lv_lvtb-dep-iobj.html">iobj</a></tt> (6; 3% instances), <tt><a href="lv_lvtb-dep-dep.html">dep</a></tt> (4; 2% instances), <tt><a href="lv_lvtb-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="lv_lvtb-dep-nsubj.html">nsubj</a></tt> (2; 1% instances), <tt><a href="lv_lvtb-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (104; 47% instances),  (50; 23% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (21; 10% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (15; 7% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (10; 5% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (9; 4% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (5; 2% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (109; 47% instances),  (51; 22% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (21; 9% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (18; 8% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (10; 4% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (9; 4% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (4; 2% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
-27 (12%) `INTJ` nodes are leaves.
+29 (13%) `INTJ` nodes are leaves.
 
-114 (52%) `INTJ` nodes have one child.
+116 (50%) `INTJ` nodes have one child.
 
-46 (21%) `INTJ` nodes have two children.
+47 (20%) `INTJ` nodes have two children.
 
-34 (15%) `INTJ` nodes have three or more children.
+38 (17%) `INTJ` nodes have three or more children.
 
-The highest child degree of a `INTJ` node is 6.
+The highest child degree of a `INTJ` node is 7.
 
-Children of `INTJ` nodes are attached using 15 different relations: <tt><a href="lv_lvtb-dep-punct.html">punct</a></tt> (251; 77% instances), <tt><a href="lv_lvtb-dep-conj.html">conj</a></tt> (18; 6% instances), <tt><a href="lv_lvtb-dep-iobj.html">iobj</a></tt> (13; 4% instances), <tt><a href="lv_lvtb-dep-orphan.html">orphan</a></tt> (9; 3% instances), <tt><a href="lv_lvtb-dep-amod.html">amod</a></tt> (8; 2% instances), <tt><a href="lv_lvtb-dep-vocative.html">vocative</a></tt> (7; 2% instances), <tt><a href="lv_lvtb-dep-cc.html">cc</a></tt> (6; 2% instances), <tt><a href="lv_lvtb-dep-ccomp.html">ccomp</a></tt> (4; 1% instances), <tt><a href="lv_lvtb-dep-det.html">det</a></tt> (3; 1% instances), <tt><a href="lv_lvtb-dep-discourse.html">discourse</a></tt> (3; 1% instances), <tt><a href="lv_lvtb-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-obl.html">obl</a></tt> (1; 0% instances)
+Children of `INTJ` nodes are attached using 16 different relations: <tt><a href="lv_lvtb-dep-punct.html">punct</a></tt> (267; 77% instances), <tt><a href="lv_lvtb-dep-conj.html">conj</a></tt> (18; 5% instances), <tt><a href="lv_lvtb-dep-iobj.html">iobj</a></tt> (13; 4% instances), <tt><a href="lv_lvtb-dep-orphan.html">orphan</a></tt> (9; 3% instances), <tt><a href="lv_lvtb-dep-amod.html">amod</a></tt> (8; 2% instances), <tt><a href="lv_lvtb-dep-vocative.html">vocative</a></tt> (7; 2% instances), <tt><a href="lv_lvtb-dep-cc.html">cc</a></tt> (6; 2% instances), <tt><a href="lv_lvtb-dep-discourse.html">discourse</a></tt> (5; 1% instances), <tt><a href="lv_lvtb-dep-ccomp.html">ccomp</a></tt> (4; 1% instances), <tt><a href="lv_lvtb-dep-det.html">det</a></tt> (3; 1% instances), <tt><a href="lv_lvtb-dep-flat.html">flat</a></tt> (2; 1% instances), <tt><a href="lv_lvtb-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Children of `INTJ` nodes belong to 12 different parts of speech: <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (251; 77% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (24; 7% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (15; 5% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (10; 3% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (5; 2% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Children of `INTJ` nodes belong to 11 different parts of speech: <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (267; 77% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (24; 7% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (18; 5% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (10; 3% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (6; 2% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 

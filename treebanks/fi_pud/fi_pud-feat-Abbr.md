@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (25; 100% of non-empty `Abbr`): <em>eKr., jKr., DNA:n, eaa., BBC, BBC:lle, USA:han, USA:n, VW:lle, VW:n</em>
-* `EMPTY` (4198): <em>vuonna, aikana, vuoden, vuoteen, aikaan, kaupungin, alueen, osa, kertaa, sodan</em>
+* `EMPTY` (4196): <em>vuonna, aikana, vuoden, vuoteen, aikaan, kaupungin, alueen, osa, kertaa, sodan</em>
 
 ### `PROPN`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (16; 100% of non-empty `Abbr`): <em>YK:n, BBC:lle, BBC:n, CNN:n, EKP:n, EU:n, EU:sta, GCA, GCA:ssa, Jr.:lle</em>
-* `EMPTY` (1488): <em>of, Ranskan, Australian, Kiinan, Hong, Venäjän, Yhdysvaltain, de, the, Euroopan</em>
+* `EMPTY` (1487): <em>of, Ranskan, Australian, Kiinan, Hong, Venäjän, Yhdysvaltain, de, the, Euroopan</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (11) occur only with one value of `Abbr`.
 

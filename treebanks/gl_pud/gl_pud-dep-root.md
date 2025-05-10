@@ -11,9 +11,9 @@ This relation is universal.
 1000 nodes (4%) are attached to their parents as `root`.
 
 1000 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.085.
+Average distance between parent and child is 7.086.
 
-The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (855; 86% instances), -<tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (86; 9% instances), -<tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (43; 4% instances), -<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (8; 1% instances), -<tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), -<tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), -<tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (856; 86% instances), -<tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (85; 9% instances), -<tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (43; 4% instances), -<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (8; 1% instances), -<tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), -<tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), -<tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

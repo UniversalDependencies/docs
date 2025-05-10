@@ -50,7 +50,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (58; 100% of non-empty `Number`): <em>akʼalabʼ, achijabʼ, awajibʼ, ixoqibʼ, ajchakibʼ, ajtijabʼ, alabʼomabʼ, alitomabʼ, tijoxelabʼ, ajxojolobʼ</em>
-* `EMPTY` (2381): <em>e, rukʼ, ja, rumal, uwach, winaq, rech, achi, ali, ke</em>
+* `EMPTY` (2380): <em>e, rukʼ, ja, rumal, uwach, winaq, rech, achi, ali, ke</em>
 
 `Number` seems to be **lexical feature** of `NOUN`. 100% lemmas (18) occur only with one value of `Number`.
 

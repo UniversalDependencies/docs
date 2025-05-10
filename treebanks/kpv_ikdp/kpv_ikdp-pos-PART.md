@@ -13,7 +13,7 @@ The 10 most frequent `PART` lemmas: <em>да, и, вот, значит, жӧ, г
 
 The 10 most frequent `PART` types:  <em>да, и, вот, значит, же, Ну, гашке, но, то, тоже</em>
 
-The 10 most frequent ambiguous lemmas: <em>да</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 22, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 10, <tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 1), <em>и</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 43, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 9, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 7), <em>вот</em> (<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 7, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 7), <em>жӧ</em> (<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 5, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 1), <em>гашкӧ</em> (<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 3, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 1), <em>но</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 22, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 3, <tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> 2), <em>то</em> (<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 3, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 1), <em>вед</em> (<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 3, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 2), <em>тай</em> (<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 3, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 2), <em>так</em> (<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 1, <tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>да</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 22, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 10, <tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 1), <em>и</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 44, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 9, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 7), <em>вот</em> (<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 7, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 7), <em>жӧ</em> (<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 5, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 1), <em>гашкӧ</em> (<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 3, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 1), <em>но</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 23, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 3, <tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> 2), <em>то</em> (<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 3, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 1), <em>вед</em> (<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 3, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 2), <em>тай</em> (<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 3, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 2), <em>так</em> (<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 1, <tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 20, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 10, <tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 1), <em>и</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 25, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 9, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 7), <em>вот</em> (<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 7, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 2), <em>же</em> (<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 5, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 1), <em>гашке</em> (<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 3, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 1), <em>но</em> (<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 3), <em>то</em> (<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 3, <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 1), <em>вед</em> (<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 3, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 2), <em>тай</em> (<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 3, <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 2)
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="kpv_ikdp-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.332474).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.341115).
 
 The 1st highest number of forms (1) was observed with the lemma “вед”: <em>вед</em>.
 
@@ -59,18 +59,18 @@ The 2nd highest number of forms (1) was observed with the lemma “вот”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “гашкӧ”: <em>гашке</em>.
 
-`PART` occurs with 1 features: <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt> (2; 3% instances)
+`PART` occurs with 2 features: <tt><a href="kpv_ikdp-feat-ExtPos.html">ExtPos</a></tt> (3; 5% instances), <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt> (2; 3% instances)
 
-`PART` occurs with 1 feature-value pairs: `Polarity=Neg`
+`PART` occurs with 3 feature-value pairs: `ExtPos=ADV`, `ExtPos=SCONJ`, `Polarity=Neg`
 
-`PART` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (63 tokens).
-Examples: <em>да, и, вот, значит, же, Ну, гашке, но, то, тоже</em>
+`PART` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (60 tokens).
+Examples: <em>да, и, вот, значит, же, Ну, гашке, но, тоже, вед</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 10 different relations: <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt> (48; 74% instances), <tt><a href="kpv_ikdp-dep-advmod-mmod.html">advmod:mmod</a></tt> (5; 8% instances), <tt><a href="kpv_ikdp-dep-appos.html">appos</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-cc.html">cc</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-discourse.html">discourse</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-mark.html">mark</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-dep-advmod-eval.html">advmod:eval</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-dep-fixed.html">fixed</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-dep-obj.html">obj</a></tt> (1; 2% instances)
+`PART` nodes are attached to their parents using 8 different relations: <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt> (54; 83% instances), <tt><a href="kpv_ikdp-dep-appos.html">appos</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-cc.html">cc</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-discourse.html">discourse</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-mark.html">mark</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-dep-fixed.html">fixed</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-dep-obj.html">obj</a></tt> (1; 2% instances)
 
 Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (30; 46% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (20; 31% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (6; 9% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (3; 5% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 

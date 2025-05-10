@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-ccomp.html">ccomp</a></tt>.
 There are also 1 other language-specific subtypes of `ccomp`: <tt><a href="la_udante-dep-ccomp-reported.html">ccomp:reported</a></tt>.
 
-45 nodes (0%) are attached to their parents as `ccomp:relcl`.
+46 nodes (0%) are attached to their parents as `ccomp:relcl`.
 
-27 instances of `ccomp:relcl` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.15555555555556.
+28 instances of `ccomp:relcl` (61%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.19565217391304.
 
-The following 5 pairs of parts of speech are connected with `ccomp:relcl`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (31; 69% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (5; 11% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (5; 11% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (3; 7% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `ccomp:relcl`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (32; 70% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (5; 11% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (5; 11% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (3; 7% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 4 tokens (0%) have a non-empty value of `Typo`.
 4 types (0%) occur at least once with a non-empty value of `Typo`.
-1 lemmas (0) occur at least once with a non-empty value of `Typo`.
+4 lemmas (0%) occur at least once with a non-empty value of `Typo`.
 The feature is used with 1 part-of-speech tags: <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (4; 0% instances).
 
 ### `PROPN`

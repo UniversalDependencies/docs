@@ -25,3 +25,8 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 * `Yes` (2933; 100% of non-empty `Poss`): <em>suam, sua, suum, suae, sui, suo, nostra, noster, suis, nostrae</em>
 * `EMPTY` (25749): <em>hoc, omnia, huiusmodi, ipsum, alia, aliqua, unum, haec, illud, his</em>
 
+## Relations with Agreement in `Poss`
+
+The 10 most frequent relations where parent and child node agree in `Poss`:
+<tt>DET --[<tt><a href="la_ittb-dep-amod.html">amod</a></tt>]--> DET</tt> (3; 100%).
+

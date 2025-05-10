@@ -235,14 +235,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="cs_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (420; 99%),
-<tt>VERB --[<tt><a href="cs_poetry-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (219; 97%),
-<tt>VERB --[<tt><a href="cs_poetry-dep-obl.html">obl</a></tt>]--> NOUN</tt> (215; 58%),
-<tt>NOUN --[<tt><a href="cs_poetry-dep-det.html">det</a></tt>]--> DET</tt> (165; 85%),
+<tt>NOUN --[<tt><a href="cs_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (421; 99%),
+<tt>VERB --[<tt><a href="cs_poetry-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (218; 97%),
+<tt>VERB --[<tt><a href="cs_poetry-dep-obl.html">obl</a></tt>]--> NOUN</tt> (216; 59%),
+<tt>NOUN --[<tt><a href="cs_poetry-dep-det.html">det</a></tt>]--> DET</tt> (167; 86%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (154; 85%),
-<tt>NOUN --[<tt><a href="cs_poetry-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (124; 54%),
+<tt>NOUN --[<tt><a href="cs_poetry-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (125; 55%),
 <tt>NOUN --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> NOUN</tt> (101; 80%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-obj.html">obj</a></tt>]--> NOUN</tt> (87; 52%),
-<tt>VERB --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (52; 85%),
+<tt>VERB --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (53; 85%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (50; 83%).
 

@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: Relations: `aux`
 
 This relation is universal.
-There are 3 language-specific subtypes of `aux`: <tt><a href="koi_uh-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="koi_uh-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="koi_uh-dep-aux-pot.html">aux:pot</a></tt>.
+There are 2 language-specific subtypes of `aux`: <tt><a href="koi_uh-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="koi_uh-dep-aux-pot.html">aux:pot</a></tt>.
 
-25 nodes (2%) are attached to their parents as `aux`.
+26 nodes (2%) are attached to their parents as `aux`.
 
-25 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.44.
+25 instances of `aux` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.42307692307692.
 
-The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (24; 96% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 4% instances).
+The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (25; 96% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -51,7 +51,7 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 7	но	но	CCONJ	_	_	14	cc	_	_
 8	мылякӧ	мылякӧ	ADV	_	Definite=Ind	14	advmod	_	GTtags=Indef
 9	сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	det	_	GTtags=Pers,Sg3,Nom
-10	лунӧ	лун	NOUN	_	Case=Ill|Number=Sing	14	obl:tmod	_	GTtags=Sg,Ill
+10	лунӧ	лун	NOUN	_	Case=Ill|Number=Sing	14	obl	_	GTtags=Sg,Ill
 11	сылӧ	сія	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	14	obl	_	GTtags=Pers,Sg3,Dat
 12	эз	оз	AUX	_	Person=3|Polarity=Neg|Tense=Past|VerbType=Aux	14	aux	_	GTtags=Prt1,3
 13	вӧв	вӧвны	AUX	_	Connegative=Yes	14	cop	_	GTtags=ConNeg

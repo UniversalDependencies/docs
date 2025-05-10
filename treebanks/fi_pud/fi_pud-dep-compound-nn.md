@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fi_pud-dep-compound.html">compound</a></tt>.
 There are also 1 other language-specific subtypes of `compound`: <tt><a href="fi_pud-dep-compound-prt.html">compound:prt</a></tt>.
 
-142 nodes (1%) are attached to their parents as `compound:nn`.
+139 nodes (1%) are attached to their parents as `compound:nn`.
 
-142 instances of `compound:nn` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.8943661971831.
+139 instances of `compound:nn` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.86330935251799.
 
-The following 5 pairs of parts of speech are connected with `compound:nn`: <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (70; 49% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (63; 44% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_pud-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `compound:nn`: <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (70; 50% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (62; 45% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

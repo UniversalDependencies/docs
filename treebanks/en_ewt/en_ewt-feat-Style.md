@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 5 different values: `Arch`, `Coll`, `Expr`, `Slng`, `Vrnc`.
 
-90 tokens (0%) have a non-empty value of `Style`.
-69 types (0%) occur at least once with a non-empty value of `Style`.
-53 lemmas (0%) occur at least once with a non-empty value of `Style`.
-The feature is used with 9 part-of-speech tags: <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (22; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (16; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+91 tokens (0%) have a non-empty value of `Style`.
+70 types (0%) occur at least once with a non-empty value of `Style`.
+54 lemmas (0%) occur at least once with a non-empty value of `Style`.
+The feature is used with 10 part-of-speech tags: <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (22; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (16; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `PRON`
 
@@ -108,6 +108,16 @@ The most frequent other feature values with which `PROPN` and `Style` co-occurre
 `PROPN` tokens may have the following values of `Style`:
 
 * `Expr` (2; 100% of non-empty `Style`): <em>EARTHHHHHHH, saaaaaam</em>
+
+### `DET`
+
+1 <tt><a href="en_ewt-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Style`.
+
+The most frequent other feature values with which `DET` and `Style` co-occurred: <tt><a href="en_ewt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1; 100%).
+
+`DET` tokens may have the following values of `Style`:
+
+* `Vrnc` (1; 100% of non-empty `Style`): <em>them</em>
 
 ### `SCONJ`
 

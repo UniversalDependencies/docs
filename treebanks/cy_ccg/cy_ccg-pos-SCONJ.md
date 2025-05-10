@@ -64,12 +64,12 @@ The 2nd highest number of forms (1) was observed with the lemma “a”: <em>a</
 
 The 3rd highest number of forms (1) was observed with the lemma “achos”: <em>achos</em>.
 
-`SCONJ` occurs with 1 features: <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt> (2; 1% instances)
+`SCONJ` occurs with 2 features: <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt> (2; 1% instances), <tt><a href="cy_ccg-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`SCONJ` occurs with 1 feature-value pairs: `Mutation=AM`
+`SCONJ` occurs with 2 feature-value pairs: `ExtPos=ADV`, `Mutation=AM`
 
-`SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (241 tokens).
+`SCONJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (240 tokens).
 Examples: <em>os, pan, mai, pe, achos, wedi, taw, oherwydd, tra, a</em>
 
 

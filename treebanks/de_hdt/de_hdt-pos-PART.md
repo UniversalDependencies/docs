@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>nicht</em> (<tt><a href="de_hdt-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 2.529726).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.295646).
 
 The 1st highest number of forms (1) was observed with the lemma “Nicht”: <em>Nicht</em>.
 

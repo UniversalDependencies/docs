@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2060 nodes (4%) are attached to their parents as `obj`.
+2059 nodes (4%) are attached to their parents as `obj`.
 
-1970 instances of `obj` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.40485436893204.
+1969 instances of `obj` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.40942204953861.
 
-The following 15 pairs of parts of speech are connected with `obj`: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1683; 82% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (236; 11% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (75; 4% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (20; 1% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (14; 1% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `obj`: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1671; 81% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (236; 11% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (85; 4% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (20; 1% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (14; 1% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-SYM.html">SYM</a></tt> (5; 0% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,10 +41,10 @@ The following 15 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 obj	color:blue
-1	Mr	mister	NOUN	S	Number=Sing	7	vocative	_	_
-2	Berenguer	Berenguer	PROPN	SP	_	1	flat	_	_
-3	Fuster	Fuster	PROPN	SP	_	1	flat	_	SpaceAfter=No
-4	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	Berenguer	Berenguer	PROPN	SP	_	7	vocative	_	_
+3	Fuster	Fuster	PROPN	SP	_	2	flat	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
 5	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
 6	shall	shall	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 7	check	check	VERB	V	VerbForm=Inf	0	root	_	_
@@ -56,19 +56,22 @@ The following 15 pairs of parts of speech are connected with `obj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 7 obj	color:blue
-1	Does	do	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
-2	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	3	expl	_	_
-3	cost	cost	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	money	money	NOUN	S	Number=Sing	3	obj	_	_
-5	to	to	PART	PART	_	6	mark	_	_
-6	use	use	VERB	V	VerbForm=Inf	3	csubj	_	_
-7	Facebook	Facebook	PROPN	SP	_	6	obj	_	SpaceAfter=No
-8	?	?	PUNCT	FS	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 obj	color:blue
+1	We	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+2	shall	shall	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	now	now	ADV	B	_	4	advmod	_	_
+4	hear	hear	VERB	V	VerbForm=Inf	0	root	_	_
+5	Mr	mister	NOUN	S	Number=Sing	6	nmod:desc	_	_
+6	Wurtz	Wurtz	PROPN	SP	_	4	obj	_	_
+7	speaking	speak	VERB	V	VerbForm=Ger	4	advcl	_	_
+8	against	against	ADP	E	_	10	case	_	_
+9	this	this	DET	DD	Number=Sing|PronType=Dem	10	det	_	_
+10	request	request	NOUN	S	Number=Sing	7	obl	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	_
 
 ~~~
 

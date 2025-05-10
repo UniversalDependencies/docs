@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of AUX in UD_Swiss_German-UZH'
+title:  'Statistics of AUX in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: POS Tags: `AUX`
+## Treebank Statistics: UD_Alemannic-UZH: POS Tags: `AUX`
 
 There are 1 `AUX` lemmas (7%), 60 `AUX` types (8%) and 152 `AUX` tokens (11%).
 Out of 15 observed tags, the rank of `AUX` is: 4 in number of lemmas, 5 in number of types and 3 in number of tokens.

@@ -18,21 +18,21 @@ The feature is used with 2 part-of-speech tags: <tt><a href="xav_xdt-pos-PART.ht
 
 1 <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `PART` and `Mood` co-occurred: <tt><a href="xav_xdt-feat-Htp.html">Htp</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PART` and `Mood` co-occurred: <tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `PART` tokens may have the following values of `Mood`:
 
 * `Sub` (1; 100% of non-empty `Mood`): <em>da</em>
-* `EMPTY` (381): <em>te, dza'ra, ma, e, hã, wa, norĩ, õ, dza, norĩhã</em>
+* `EMPTY` (320): <em>za'ra, hã, e, ma, za, õ, norĩ, tô, norĩhã, aba</em>
 
 ### `X`
 
-1 <tt><a href="xav_xdt-pos-X.html">X</a></tt> tokens (2% of all `X` tokens) have a non-empty value of `Mood`.
+1 <tt><a href="xav_xdt-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Mood`.
 
 The most frequent other feature values with which `X` and `Mood` co-occurred: <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `X` tokens may have the following values of `Mood`:
 
 * `Des` (1; 100% of non-empty `Mood`): <em>hö</em>
-* `EMPTY` (62): <em>di, wa'wa, ni, wamhã, zaʔra, 'wa, na, u, wei, ʔre</em>
+* `EMPTY` (71): <em>di, wa'wa, ni, norĩ, 're, wamhã, zaʔra, ʔre, 'wa, Mare</em>
 

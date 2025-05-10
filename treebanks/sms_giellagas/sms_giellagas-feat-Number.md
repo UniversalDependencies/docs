@@ -90,8 +90,9 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>leeʹd</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="sms_giellagas-feat-Clitic.html">Clitic</a></tt><tt>=QstA</tt>|<tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>leäk-a</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sms_giellagas-feat-Clitic.html">Clitic</a></tt><tt>=QstA</tt>|<tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>lij-a</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sms_giellagas-feat-Clitic.html">Clitic</a></tt><tt>=QstA</tt>|<tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sms_giellagas-feat-PartType.html">PartType</a></tt><tt>=Int</tt>|<tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>Lij-a</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sms_giellagas-feat-PartType.html">PartType</a></tt><tt>=Int</tt>|<tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>leäk-a</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sms_giellagas-feat-PartType.html">PartType</a></tt><tt>=Int</tt>|<tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>lij-a</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>leʹjjem</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>leäm</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>leʹjjiǩ</em></td><td></td></tr>
@@ -166,10 +167,10 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="sms_giellagas-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (113; 82%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (91; 79%),
 <tt>NOUN --[<tt><a href="sms_giellagas-dep-det.html">det</a></tt>]--> PRON</tt> (46; 96%),
-<tt>VERB --[<tt><a href="sms_giellagas-dep-obl-lmod.html">obl:lmod</a></tt>]--> NOUN</tt> (25; 58%),
+<tt>VERB --[<tt><a href="sms_giellagas-dep-obl.html">obl</a></tt>]--> NOUN</tt> (41; 64%),
 <tt>NOUN --[<tt><a href="sms_giellagas-dep-cop.html">cop</a></tt>]--> AUX</tt> (14; 93%),
-<tt>VERB --[<tt><a href="sms_giellagas-dep-obl.html">obl</a></tt>]--> NOUN</tt> (13; 81%),
 <tt>AUX --[<tt><a href="sms_giellagas-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (10; 100%),
 <tt>NOUN --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> NOUN</tt> (9; 100%),
+<tt>VERB --[<tt><a href="sms_giellagas-dep-obl.html">obl</a></tt>]--> PRON</tt> (9; 60%),
 <tt>NOUN --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> VERB</tt> (8; 73%).
 

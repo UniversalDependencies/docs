@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>добро</em> (<tt><a href="orv_bir
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.792608 (the average of all parts of speech is 2.410435).
+The form / lemma ratio of `ADJ` is 1.792608 (the average of all parts of speech is 2.411136).
 
 The 1st highest number of forms (25) was observed with the lemma “свѧтыи”: <em>(свѧ)<lbr/>тꙑе, (св҃)[т]аго, [ст҃](м)[у], свгто, свѧ[т]-[го, свѧтее, свѧтое, свѧтꙑ, свѧтꙑмъ, свѧтꙑѧ, св҃ѧ[т]о<lbr/>(го, сгто, ст҃<lbr/>ѣ, ст҃го, ст҃е<lbr/>е, ст҃ого, ст҃ому, ст҃хъ, ст҃ье, ст҃ѣ, ст҃ꙑ, ст҃ꙑ[и, ст҃ꙑи, ст҃ꙑх, ст[о]го</em>.
 

@@ -22,18 +22,18 @@ The following 109 pairs of parts of speech are connected with `reparandum`: <tt>
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 7 reparandum	color:blue
-1	#	#	X	_	_	4	dep	_	AlignBegin=81990|AlignEnd=82540|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=81990|AlignEnd=82540|Gloss=PUNCT
 2	na	na	AUX	_	PartType=Cop	4	cop	_	AlignBegin=82540|AlignEnd=82680|Gloss=be
 3	Malay	Malay	PROPN	_	_	4	compound	_	AlignBegin=82680|AlignEnd=82900|Gloss=Malay
 4	guy	guy	NOUN	_	_	0	root	_	AlignBegin=82900|AlignEnd=83038|Gloss=guy
-5	{	{	X	_	_	7	dep	_	AlignBegin=83038|AlignEnd=83038|Gloss=PUNCT
+5	{	{	PUNCT	_	_	10	punct	_	AlignBegin=83038|AlignEnd=83038|Gloss=PUNCT
 6	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	AlignBegin=83038|AlignEnd=83119|Gloss=NOM.SG.1
 7	wan	want	VERB	_	_	10	reparandum	_	AlignBegin=83119|AlignEnd=83227|Gloss=want
-8	||	||	X	_	_	10	dep	_	AlignBegin=83227|AlignEnd=83227|Gloss=PUNCT
+8	||	||	PUNCT	_	_	7	punct	_	AlignBegin=83227|AlignEnd=83227|Gloss=PUNCT
 9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	AlignBegin=83227|AlignEnd=83370|Gloss=NOM.SG.1
 10	wan	want	VERB	_	_	4	advcl:cleft	_	AlignBegin=83370|AlignEnd=83513|Gloss=want
-11	}	}	X	_	_	7	dep	_	AlignBegin=83513|AlignEnd=83513|Gloss=PUNCT
-12	&//	&//	X	_	_	4	dep	_	AlignBegin=83483|AlignEnd=83513|Gloss=PUNCT
+11	}	}	PUNCT	_	_	10	punct	_	AlignBegin=83513|AlignEnd=83513|Gloss=PUNCT
+12	&//	&//	PUNCT	_	_	4	punct	_	AlignBegin=83483|AlignEnd=83513|Gloss=PUNCT
 
 ~~~
 
@@ -44,21 +44,21 @@ The following 109 pairs of parts of speech are connected with `reparandum`: <tt>
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 6 reparandum	color:blue
-1	#	#	X	_	_	6	dep	_	AlignBegin=473230|AlignEnd=473658|Gloss=PUNCT
+1	#	#	PUNCT	_	_	12	punct	_	AlignBegin=473230|AlignEnd=473658|Gloss=PUNCT
 2	after	after	ADP	_	_	3	case	_	AlignBegin=473658|AlignEnd=473964|Gloss=after
 3	register	register	NOUN	_	_	6	obl:mod	_	AlignBegin=473964|AlignEnd=474464|Gloss=register
-4	<	<	X	_	_	3	dep	_	AlignBegin=474464|AlignEnd=474464|Gloss=PUNCT
-5	{	{	X	_	_	6	dep	_	AlignBegin=474434|AlignEnd=474464|Gloss=PUNCT
+4	<	<	PUNCT	_	_	3	punct	_	AlignBegin=474464|AlignEnd=474464|Gloss=PUNCT
+5	{	{	PUNCT	_	_	6	punct	_	AlignBegin=474434|AlignEnd=474464|Gloss=PUNCT
 6	con	con	AUX	_	Aspect=Cons	12	reparandum	_	AlignBegin=474464|AlignEnd=474933|Gloss=CONS
-7	||	||	X	_	_	12	dep	_	AlignBegin=474933|AlignEnd=474933|Gloss=PUNCT
-8	#	#	X	_	_	12	dep	_	AlignBegin=474933|AlignEnd=475505|Gloss=PUNCT
+7	||	||	PUNCT	_	_	6	punct	_	AlignBegin=474933|AlignEnd=474933|Gloss=PUNCT
+8	#	#	PUNCT	_	_	6	punct	_	AlignBegin=474933|AlignEnd=475505|Gloss=PUNCT
 9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	AlignBegin=475505|AlignEnd=475580|Gloss=NOM.SG.1
 10	con	con	AUX	_	Aspect=Cons	12	aux	_	AlignBegin=475580|AlignEnd=475760|Gloss=CONS
-11	}	}	X	_	_	6	dep	_	AlignBegin=475760|AlignEnd=475760|Gloss=PUNCT
+11	}	}	PUNCT	_	_	12	punct	_	AlignBegin=475760|AlignEnd=475760|Gloss=PUNCT
 12	write	write	VERB	_	_	0	root	_	AlignBegin=475760|AlignEnd=475990|Gloss=write
 13	di	di	DET	_	Definite=Def|PronType=Art	14	det	_	AlignBegin=475990|AlignEnd=476120|Gloss=DEF.ART
 14	JAMB	JAMB	PROPN	_	_	12	obj	_	AlignBegin=476120|AlignEnd=476367|Gloss=JAMB
-15	//	//	X	_	_	6	dep	_	AlignBegin=476367|AlignEnd=476367|Gloss=PUNCT
+15	//	//	PUNCT	_	_	12	punct	_	AlignBegin=476367|AlignEnd=476367|Gloss=PUNCT
 
 ~~~
 
@@ -69,26 +69,26 @@ The following 109 pairs of parts of speech are connected with `reparandum`: <tt>
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 4 reparandum	color:blue
-1	#	#	X	_	_	4	dep	_	AlignBegin=99810|AlignEnd=100276|Gloss=PUNCT
-2	{	{	X	_	_	4	dep	_	AlignBegin=99810|AlignEnd=100276|Gloss=PUNCT
+1	#	#	PUNCT	_	_	14	punct	_	AlignBegin=99810|AlignEnd=100276|Gloss=PUNCT
+2	{	{	PUNCT	_	_	14	punct	_	AlignBegin=99810|AlignEnd=100276|Gloss=PUNCT
 3	na	na	AUX	_	PartType=Cop	4	cop	_	AlignBegin=100276|AlignEnd=100388|Gloss=be
 4	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	reparandum	_	AlignBegin=100388|AlignEnd=100556|Gloss=NOM.PL.3
-5	||	||	X	_	_	7	dep	_	AlignBegin=100556|AlignEnd=100556|Gloss=PUNCT
+5	||	||	PUNCT	_	_	4	punct	_	AlignBegin=100556|AlignEnd=100556|Gloss=PUNCT
 6	na	na	AUX	_	PartType=Cop	7	cop	_	AlignBegin=100556|AlignEnd=100707|Gloss=be
 7	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	reparandum	_	AlignBegin=100707|AlignEnd=100850|Gloss=NOM.PL.3
 8	fi~	X	X	_	_	7	advcl:cleft	_	AlignBegin=100850|AlignEnd=101052|Gloss=X|Scrap=Yes
-9	||	||	X	_	_	11	dep	_	AlignBegin=101052|AlignEnd=101052|Gloss=PUNCT
+9	||	||	PUNCT	_	_	7	punct	_	AlignBegin=101052|AlignEnd=101052|Gloss=PUNCT
 10	na	na	AUX	_	PartType=Cop	11	cop	_	AlignBegin=101052|AlignEnd=101178|Gloss=be
 11	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	reparandum	_	AlignBegin=101178|AlignEnd=101315|Gloss=NOM.PL.3
-12	||	||	X	_	_	14	dep	_	AlignBegin=101315|AlignEnd=101315|Gloss=PUNCT
+12	||	||	PUNCT	_	_	11	punct	_	AlignBegin=101315|AlignEnd=101315|Gloss=PUNCT
 13	na	na	AUX	_	PartType=Cop	14	cop	_	AlignBegin=101315|AlignEnd=101485|Gloss=be
 14	dem	dem	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	0	root	_	AlignBegin=101485|AlignEnd=101639|Gloss=ACC.PL.3
-15	}	}	X	_	_	4	dep	_	AlignBegin=101639|AlignEnd=101639|Gloss=PUNCT
-16	>+	>+	X	_	_	17	dep	_	AlignBegin=101609|AlignEnd=101639|Gloss=PUNCT
+15	}	}	PUNCT	_	_	14	punct	_	AlignBegin=101639|AlignEnd=101639|Gloss=PUNCT
+16	>+	>+	PUNCT	_	_	17	punct	_	AlignBegin=101609|AlignEnd=101639|Gloss=PUNCT
 17	fine	fine	ADJ	_	_	14	advcl:cleft	_	AlignBegin=101639|AlignEnd=101840|Gloss=fine
 18	pass	pass	VERB	_	_	17	compound:svc	_	AlignBegin=101840|AlignEnd=102100|Gloss=pass
 19	ehn	ehn	INTJ	_	_	4	discourse	_	AlignBegin=102100|AlignEnd=102515|Gloss=ehn
-20	//	//	X	_	_	4	dep	_	AlignBegin=102515|AlignEnd=102515|Gloss=PUNCT
+20	//	//	PUNCT	_	_	19	punct	_	AlignBegin=102515|AlignEnd=102515|Gloss=PUNCT
 
 ~~~
 

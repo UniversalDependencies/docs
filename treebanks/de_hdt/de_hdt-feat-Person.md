@@ -11,7 +11,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 341066 tokens (10%) have a non-empty value of `Person`.
 9343 types (5%) occur at least once with a non-empty value of `Person`.
-3402 lemmas (5%) occur at least once with a non-empty value of `Person`.
+3402 lemmas (2%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (134430; 4% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (134056; 4% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (54207; 2% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (18373; 1% instances).
 
 ### `VERB`

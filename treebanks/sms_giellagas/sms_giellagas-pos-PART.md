@@ -38,18 +38,18 @@ The 2nd highest number of forms (1) was observed with the lemma “gõs”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “ni”: <em>ni</em>.
 
-`PART` occurs with 1 features: <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt> (10; 42% instances)
+`PART` occurs with 2 features: <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt> (10; 42% instances), <tt><a href="sms_giellagas-feat-ExtPos.html">ExtPos</a></tt> (2; 8% instances)
 
-`PART` occurs with 1 feature-value pairs: `Polarity=Neg`
+`PART` occurs with 2 feature-value pairs: `ExtPos=ADV`, `Polarity=Neg`
 
-`PART` occurs with 2 feature combinations.
+`PART` occurs with 3 feature combinations.
 The most frequent feature combination is `_` (14 tokens).
 Examples: <em>äʹn, ni, veʹt, še, deʹbe, gõs, tâma</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 5 different relations: <tt><a href="sms_giellagas-dep-advmod-neg.html">advmod:neg</a></tt> (8; 33% instances), <tt><a href="sms_giellagas-dep-advmod.html">advmod</a></tt> (7; 29% instances), <tt><a href="sms_giellagas-dep-discourse.html">discourse</a></tt> (6; 25% instances), <tt><a href="sms_giellagas-dep-advmod-mmod.html">advmod:mmod</a></tt> (2; 8% instances), <tt><a href="sms_giellagas-dep-advmod-eval.html">advmod:eval</a></tt> (1; 4% instances)
+`PART` nodes are attached to their parents using 3 different relations: <tt><a href="sms_giellagas-dep-advmod.html">advmod</a></tt> (10; 42% instances), <tt><a href="sms_giellagas-dep-advmod-neg.html">advmod:neg</a></tt> (8; 33% instances), <tt><a href="sms_giellagas-dep-discourse.html">discourse</a></tt> (6; 25% instances)
 
 Parents of `PART` nodes belong to 4 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (16; 67% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (5; 21% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 8% instances), <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (1; 4% instances)
 

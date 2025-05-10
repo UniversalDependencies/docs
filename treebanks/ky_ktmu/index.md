@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.12 release
 The following people have contributed to making this treebank part of UD: İbrahim Benli.
 
 Repository: [UD_Kyrgyz-KTMU](https://github.com/UniversalDependencies/UD_Kyrgyz-KTMU)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udky_ktmu215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udky_ktmu216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -41,15 +41,14 @@ Development of the treebank happens directly in the UD repository, so you may su
 | Relations | annotated manually, natively in UD style |
 
 ## Description
-UD_Kyrgyz-KTMU is dependency parsing based treebank in Kyrgyz language. Sentences were selected
-partly from Kyrgyz story and novel books, partly from Kyrgyz news websites.
+UD_Kyrgyz-KTMU is dependency parsing based treebank in Kyrgyz language. The dataset mostly contains headlines from Kyrgyz news websites.
 
 
-The treebank consists of 781 sentences (7.4K tokens) for now and its domain is mainly news headlines.
+The treebank consists of 2460 sentences (23K tokens) for now and its domain is mainly news headlines.
 Kyrgyz UD treebank follows the Universal Dependencies (UD) annotation standard.
 
 ## Acknowledgments
-We would like to thank all the people who contributed to this corpus: Assoc.Prof.Dr. Bakit Sharshembaev
+We would like to thank all the people who contributed to this corpus: Assoc.Prof.Dr. Bakyt Sharshembaev
 
 
 # Statistics of UD Kyrgyz KTMU
@@ -60,7 +59,7 @@ We would like to thank all the people who contributed to this corpus: Assoc.Prof
 
 ## Features
 
-[Abbr](ky_ktmu-feat-Abbr.html) – [Aspect](ky_ktmu-feat-Aspect.html) – [Case](ky_ktmu-feat-Case.html) – [Definite](ky_ktmu-feat-Definite.html) – [Degree](ky_ktmu-feat-Degree.html) – [Evident](ky_ktmu-feat-Evident.html) – [Mood](ky_ktmu-feat-Mood.html) – [Number](ky_ktmu-feat-Number.html) – [Number[psor]](ky_ktmu-feat-Number-psor.html) – [NumType](ky_ktmu-feat-NumType.html) – [Person](ky_ktmu-feat-Person.html) – [Person[psor]](ky_ktmu-feat-Person-psor.html) – [Polarity](ky_ktmu-feat-Polarity.html) – [PronType](ky_ktmu-feat-PronType.html) – [Reflex](ky_ktmu-feat-Reflex.html) – [Tense](ky_ktmu-feat-Tense.html) – [VerbForm](ky_ktmu-feat-VerbForm.html) – [Voice](ky_ktmu-feat-Voice.html)
+[Abbr](ky_ktmu-feat-Abbr.html) – [Aspect](ky_ktmu-feat-Aspect.html) – [Case](ky_ktmu-feat-Case.html) – [Definite](ky_ktmu-feat-Definite.html) – [Degree](ky_ktmu-feat-Degree.html) – [Evident](ky_ktmu-feat-Evident.html) – [ExtPos](ky_ktmu-feat-ExtPos.html) – [Mood](ky_ktmu-feat-Mood.html) – [Number](ky_ktmu-feat-Number.html) – [Number[psor]](ky_ktmu-feat-Number-psor.html) – [NumType](ky_ktmu-feat-NumType.html) – [Person](ky_ktmu-feat-Person.html) – [Person[psor]](ky_ktmu-feat-Person-psor.html) – [Polarity](ky_ktmu-feat-Polarity.html) – [PronType](ky_ktmu-feat-PronType.html) – [Reflex](ky_ktmu-feat-Reflex.html) – [Tense](ky_ktmu-feat-Tense.html) – [VerbForm](ky_ktmu-feat-VerbForm.html) – [Voice](ky_ktmu-feat-Voice.html)
 
 ## Relations
 
@@ -884,6 +883,27 @@ We would like to thank all the people who contributed to this corpus: Assoc.Prof
           <li>ADJ: АКШлык</li>
           <li>NOUN: ШКУнун, ККМ, ТМУнун, БА, ИИМ, РФ, УКМКнын, ЭТТК, TASK, UWW</li>
           <li>PROPN: КР, ӨКМ, ГЭС, ИДПнын, ИИМдин, УКМК, ЕАЭБ, КМШ, КРнын, АКШ</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>NOUN: турак</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADV: андан, Алдын, Чын</li>
+          <li>NOUN: таш, эл, Керемет, бала, шайман, үй</li>
+          <li>VERB-Conv: моюн</li>
+          <li>VERB-Fin: алып</li>
+          <li>VERB-Vnoun: окуу</li>
         </ul>
       </li>
     </ul>

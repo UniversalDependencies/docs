@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="en_ewt-dep-cc.html"
 98 nodes (0%) are attached to their parents as `cc:preconj`.
 
 98 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.11224489795918.
+Average distance between parent and child is 2.13265306122449.
 
 The following 7 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (38; 39% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (27; 28% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (16; 16% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (9; 9% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (5; 5% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 

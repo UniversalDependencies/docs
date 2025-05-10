@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Bhojpuri-BHTB: POS Tags: `PART`
 
-There are 40 `PART` lemmas (2%), 39 `PART` types (2%) and 192 `PART` tokens (3%).
+There are 39 `PART` lemmas (2%), 38 `PART` types (2%) and 191 `PART` tokens (3%).
 Out of 16 observed tags, the rank of `PART` is: 9 in number of lemmas, 10 in number of types and 10 in number of tokens.
 
 The 10 most frequent `PART` lemmas: त, ना, नइखा, बहु, भर, बस, स, अतना, खाली, गमगमावे
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  त (<tt><a href="bho_bhtb-pos-PART.html"
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 0.975000 (the average of all parts of speech is 1.035079).
+The form / lemma ratio of `PART` is 0.974359 (the average of all parts of speech is 1.035079).
 
 The 1st highest number of forms (3) was observed with the lemma “ना”: नइखे, ना, नाहीं.
 
@@ -65,7 +65,7 @@ The 2nd highest number of forms (2) was observed with the lemma “नइखा�
 
 The 3rd highest number of forms (2) was observed with the lemma “स”: सँ, सन.
 
-`PART` occurs with 12 features: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt> (105; 55% instances), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt> (99; 52% instances), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt> (96; 50% instances), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt> (94; 49% instances), <tt><a href="bho_bhtb-feat-PronType.html">PronType</a></tt> (11; 6% instances), <tt><a href="bho_bhtb-feat-Polarity.html">Polarity</a></tt> (8; 4% instances), <tt><a href="bho_bhtb-feat-AdpType.html">AdpType</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-feat-AdvType.html">AdvType</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-feat-NumType.html">NumType</a></tt> (1; 1% instances)
+`PART` occurs with 12 features: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt> (104; 54% instances), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt> (98; 51% instances), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt> (95; 50% instances), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt> (93; 49% instances), <tt><a href="bho_bhtb-feat-PronType.html">PronType</a></tt> (11; 6% instances), <tt><a href="bho_bhtb-feat-Polarity.html">Polarity</a></tt> (8; 4% instances), <tt><a href="bho_bhtb-feat-AdpType.html">AdpType</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-feat-AdvType.html">AdvType</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-feat-Voice.html">Voice</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-feat-NumType.html">NumType</a></tt> (1; 1% instances)
 
 `PART` occurs with 17 feature-value pairs: `AdpType=Post`, `AdvType=Deg`, `Aspect=Perf`, `Case=Acc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Person=3`, `Polarity=Neg`, `PronType=Dem`, `PronType=Neg`, `PronType=Prs`, `VerbForm=Part`, `Voice=Act`
 
@@ -76,21 +76,21 @@ Examples: ना, त, भर, ढेर, तनिको, नइखे, बि�
 
 ## Relations
 
-`PART` nodes are attached to their parents using 17 different relations: <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (101; 53% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (21; 11% instances), <tt><a href="bho_bhtb-dep-dep.html">dep</a></tt> (16; 8% instances), <tt><a href="bho_bhtb-dep-advmod.html">advmod</a></tt> (12; 6% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (10; 5% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (7; 4% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (5; 3% instances), <tt><a href="bho_bhtb-dep-amod.html">amod</a></tt> (4; 2% instances), <tt><a href="bho_bhtb-dep-conj.html">conj</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-dep-list.html">list</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-dep-obj.html">obj</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-clf.html">clf</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-discourse.html">discourse</a></tt> (1; 1% instances)
+`PART` nodes are attached to their parents using 16 different relations: <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (101; 53% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (21; 11% instances), <tt><a href="bho_bhtb-dep-dep.html">dep</a></tt> (16; 8% instances), <tt><a href="bho_bhtb-dep-advmod.html">advmod</a></tt> (12; 6% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (10; 5% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (7; 4% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (5; 3% instances), <tt><a href="bho_bhtb-dep-amod.html">amod</a></tt> (4; 2% instances), <tt><a href="bho_bhtb-dep-conj.html">conj</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-dep-list.html">list</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-dep-obj.html">obj</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-discourse.html">discourse</a></tt> (1; 1% instances)
 
-Parents of `PART` nodes belong to 10 different parts of speech: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (102; 53% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (48; 25% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (13; 7% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (6; 3% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (6; 3% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (1; 1% instances)
+Parents of `PART` nodes belong to 10 different parts of speech: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (102; 53% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (47; 25% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (13; 7% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (6; 3% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (6; 3% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (1; 1% instances)
 
-152 (79%) `PART` nodes are leaves.
+152 (80%) `PART` nodes are leaves.
 
 24 (13%) `PART` nodes have one child.
 
 12 (6%) `PART` nodes have two children.
 
-4 (2%) `PART` nodes have three or more children.
+3 (2%) `PART` nodes have three or more children.
 
 The highest child degree of a `PART` node is 8.
 
-Children of `PART` nodes are attached using 10 different relations: <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (22; 34% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (15; 23% instances), <tt><a href="bho_bhtb-dep-case.html">case</a></tt> (9; 14% instances), <tt><a href="bho_bhtb-dep-punct.html">punct</a></tt> (7; 11% instances), <tt><a href="bho_bhtb-dep-amod.html">amod</a></tt> (3; 5% instances), <tt><a href="bho_bhtb-dep-det.html">det</a></tt> (3; 5% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (3; 5% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-dep-mark.html">mark</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-dep-nummod.html">nummod</a></tt> (1; 2% instances)
+Children of `PART` nodes are attached using 9 different relations: <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (22; 35% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (15; 24% instances), <tt><a href="bho_bhtb-dep-case.html">case</a></tt> (7; 11% instances), <tt><a href="bho_bhtb-dep-punct.html">punct</a></tt> (7; 11% instances), <tt><a href="bho_bhtb-dep-amod.html">amod</a></tt> (3; 5% instances), <tt><a href="bho_bhtb-dep-det.html">det</a></tt> (3; 5% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (3; 5% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-dep-mark.html">mark</a></tt> (1; 2% instances)
 
-Children of `PART` nodes belong to 12 different parts of speech: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (14; 22% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (10; 15% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (8; 12% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (7; 11% instances), <tt><a href="bho_bhtb-pos-PUNCT.html">PUNCT</a></tt> (7; 11% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (6; 9% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (5; 8% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances)
+Children of `PART` nodes belong to 11 different parts of speech: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (14; 23% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (8; 13% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (8; 13% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (7; 11% instances), <tt><a href="bho_bhtb-pos-PUNCT.html">PUNCT</a></tt> (7; 11% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (6; 10% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (5; 8% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances)
 

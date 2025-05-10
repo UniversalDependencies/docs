@@ -11,7 +11,7 @@ It occurs with 1 different values: `Short`.
 
 75390 tokens (2%) have a non-empty value of `Variant`.
 6095 types (3%) occur at least once with a non-empty value of `Variant`.
-5340 lemmas (8%) occur at least once with a non-empty value of `Variant`.
+5340 lemmas (4%) occur at least once with a non-empty value of `Variant`.
 The feature is used with 1 part-of-speech tags: <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (75390; 2% instances).
 
 ### `ADJ`

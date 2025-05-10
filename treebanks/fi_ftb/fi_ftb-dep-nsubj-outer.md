@@ -29,7 +29,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 4	,	,	PUNCT	Pun	_	5	punct	_	_
 5	suostuuko	suostua	VERB	V,Act,Ind,Pres,Sg3,Ko	Clitic=Ko|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	hän	hän	PRON	Pron,Pers,Sg3,Nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj:cop	_	_
-7	ehdokkaaksi	ehdokas	NOUN	N,Sg,Tra	Case=Tra|Number=Sing	5	nmod	_	_
+7	ehdokkaaksi	ehdokas	NOUN	N,Sg,Tra	Case=Tra|Number=Sing	5	obl	_	_
 8	.	.	PUNCT	Pun	_	7	punct	_	_
 
 ~~~
@@ -62,7 +62,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 4	minkä	mikä	PRON	Pron,Rel,Gen	Case=Gen|PronType=Rel	6	obj	_	_
 5	pääministeri	pääministeri	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	6	nsubj	_	_
 6	sanoi	sanoa	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	acl	_	_
-7	minulle	minä	PRON	Pron,Pers,Sg1,All	Case=All|Number=Sing|Person=1|PronType=Prs	6	nmod	_	_
+7	minulle	minä	PRON	Pron,Pers,Sg1,All	Case=All|Number=Sing|Person=1|PronType=Prs	6	obl	_	_
 8	,	,	PUNCT	Pun	_	7	punct	_	_
 9	oli	olla	AUX	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	_
 10	että	että	SCONJ	Pcle,CS	_	16	mark	_	_

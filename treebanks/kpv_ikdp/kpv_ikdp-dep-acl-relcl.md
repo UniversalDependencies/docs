@@ -43,7 +43,7 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 4	fgColor:white
 # visual-style 4 8 acl:relcl	color:blue
 1	И	и	CCONJ	CC	_	3	cc	_	_
-2	дзолясянь	дзоля	ADJ	A	Case=Egr|Number=Sing	3	obl:tmod	_	GTtags=Sg,Egr
+2	дзолясянь	дзоля	ADJ	A	Case=Egr|Number=Sing	3	obl	_	GTtags=Sg,Egr
 3	видзеді	видзӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Err/Dial,Sg3
 4	кинояс	кино	NOUN	N	Case=Nom|Number=Plur	3	obj	_	GTtags=Pl,Nom|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	6	punct	_	_

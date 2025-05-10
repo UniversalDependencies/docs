@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-3795 tokens (16%) have a non-empty value of `Definite`.
+3792 tokens (16%) have a non-empty value of `Definite`.
 82 types (1%) occur at least once with a non-empty value of `Definite`.
 22 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 2 part-of-speech tags: <tt><a href="gl_pud-pos-DET.html">DET</a></tt> (3793; 16% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="gl_pud-pos-DET.html">DET</a></tt> (3790; 16% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 ### `DET`
 
-3793 <tt><a href="gl_pud-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Definite`.
+3790 <tt><a href="gl_pud-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="gl_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3455; 91%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2896; 76%), <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2120; 56%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="gl_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3452; 91%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2893; 76%), <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2120; 56%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (3116; 82% of non-empty `Definite`): <em>o, a, os, as, súa, seu, este, súas, esta, seus</em>
+* `Def` (3113; 82% of non-empty `Definite`): <em>o, a, os, as, súa, seu, este, súas, esta, seus</em>
 * `Ind` (677; 18% of non-empty `Definite`): <em>un, unha, todo, cada, moitos, outros, varias, algúns, mesmo, outra</em>
 * `EMPTY` (25): <em>noso, nosa, que, meu, miña, o, a, cuxa, mesma, meus</em>
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 `PRON` tokens may have the following values of `Definite`:
 
 * `Def` (2; 100% of non-empty `Definite`): <em>a, o</em>
-* `EMPTY` (939): <em>se, que, lle, o, isto, el, un, iso, a, ela</em>
+* `EMPTY` (940): <em>se, que, lle, o, isto, el, un, iso, a, ela</em>
 
 ## Relations with Agreement in `Definite`
 

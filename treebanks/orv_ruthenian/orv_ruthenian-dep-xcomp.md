@@ -47,7 +47,7 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 5	вашои	вашъ	DET	PRP$	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	wf="вашои"
 6	м(и)л(о)сти	милость	NOUN	NNI	Case=Dat|Gender=Fem|Number=Sing	8	obl	_	wf="милости"
 7	любость	любость	NOUN	NNI	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	wf="любость"
-8	чинити	чинити	VERB	VB	VerbForm=Inf|Voice=Act	3	xcomp	_	wf="чинити"
+8	чинити	чинити	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	wf="чинити"
 9	во	въ	ADP	IN	_	10	case	_	wf="во"
 10	всем	весь	DET	DT	Case=Loc|Gender=Neut|Number=Sing|PronType=Tot	8	obl	_	wf="всем"|SpaceAfter=No
 11	.	.	PUNCT	-PERIOD-	_	3	punct	_	_

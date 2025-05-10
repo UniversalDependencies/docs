@@ -29,7 +29,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 3 <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="kpv_ikdp-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%).
 
 `ADV` tokens may have the following values of `Polarity`:
 

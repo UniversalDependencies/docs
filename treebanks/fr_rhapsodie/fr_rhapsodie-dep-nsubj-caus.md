@@ -100,7 +100,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 34	retournent	retourner	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	conj	_	_
 35	jamais	jamais	ADV	_	PronType=Neg	34	advmod	_	_
 36	contre	contre	ADP	_	_	37	case	_	_
-37	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	obl:arg	_	SpaceAfter=No
+37	lui	lui	PRON	_	Emph=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	obl:arg	_	SpaceAfter=No
 38	.	.	PUNCT	_	_	12	punct	_	_
 
 ~~~

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1716 nodes (2%) are attached to their parents as `cop`.
+1842 nodes (2%) are attached to their parents as `cop`.
 
-1548 instances of `cop` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.36829836829837.
+1651 instances of `cop` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.38599348534202.
 
-The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (963; 56% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (633; 37% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (78; 5% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (19; 1% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (11; 1% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt>-<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (970; 53% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (658; 36% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (85; 5% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (68; 4% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (37; 2% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (12; 1% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt>-<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -34,22 +34,21 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 7 cop	color:blue
-1	Sakta	sakta	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Sing	10	nsubj	10:nsubj	_
-2	och	och	CCONJ	KN	_	6	cc	6:cc	_
-3	kanske	kanske	ADV	AB	_	6	advmod	6:advmod	_
-4	rent	ren	ADV	AB|POS	Degree=Pos	6	advmod	6:advmod	ExtPos=ADV
-5	av	av	ADP	PP	_	4	fixed	4:fixed	_
-6	avsaktande	avsaktande	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	1	conj	1:conj:och|10:nsubj	_
-7	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	10:cop	_
-8	det	den	DET	DT|NEU|SIN|DEF	Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	10:det	_
-9	rätta	rätt	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	10	amod	10:amod	_
-10	ordet	ord	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	0	root	0:root	SpaceAfter=No
-11	.	.	PUNCT	MAD	_	10	punct	10:punct	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 cop	color:blue
+1	Är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	_
+2	kvinnan	kvinna	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	4	nsubj	1:nsubj	_
+3	på	på	ADP	PP	_	4	case	4:case	_
+4	väg	väg	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	0:root	Cxn=Interrogative-Polar-Direct|CxnElt=4:Interrogative-Polar-Direct.Clause
+5	tillbaka	tillbaka	ADV	AB	_	4	nmod	4:nmod	_
+6	till	till	ADP	PP	_	7	case	7:case	_
+7	kök	kök	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	5	obl	5:obl:till	_
+8	och	och	CCONJ	KN	_	9	cc	9:cc	_
+9	barnkammare	barnkammare	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	7	conj	5:obl:till|7:conj:och	SpaceAfter=No
+10	?	?	PUNCT	MAD	_	4	punct	4:punct	_
 
 ~~~
 

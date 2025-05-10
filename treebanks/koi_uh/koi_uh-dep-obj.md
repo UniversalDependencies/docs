@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="
 3	семьялӧ	семья	NOUN	_	Case=Dat|Number=Sing	5	obl	_	GTtags=Src/F,Sg,Dat
 4	квартираэсӧ	квартира	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	5	obj	_	GTtags=Pl,Acc,PxSg3
 5	сетісӧ	сетны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Pl3
-6	ӧтдруг	ӧтдруг	ADV	_	_	5	advmod:tmod	_	SpaceAfter=No
+6	ӧтдруг	ӧтдруг	ADV	Adv	AdvType=Tim	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -45,7 +45,7 @@ The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="
 4	да	да	CCONJ	_	_	5	cc	_	_
 5	пуксьӧтіс	пуксьӧтны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	conj	_	GTtags=Ind,Prt1,Sg3
 6	пызан	пызан	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	GTtags=Sg,Nom
-7	сайӧ	сай	NOUN	N	Case=Nom|NounType=Relat|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	obl:lmod	_	SpaceAfter=No
+7	сайӧ	сай	NOUN	N	Case=Nom|NounType=Relat|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	obl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~

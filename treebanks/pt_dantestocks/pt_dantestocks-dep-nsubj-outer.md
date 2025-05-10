@@ -39,7 +39,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 14	subindo	subir	VERB	_	VerbForm=Ger	7	conj	_	_
 15	6,7	6,7	NUM	_	NumType=Card	16	nummod	_	SpaceAfter=No
 16	%	%	SYM	_	_	14	obj	_	SpaceAfter=No
-17	,	,	PUNCT	_	_	7	punct	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	7	punct	_	_
 
 ~~~
 
@@ -60,7 +60,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 8	ainda	ainda	ADV	_	_	10	advmod	_	_
 9	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 10	subindo	subir	VERB	_	VerbForm=Ger	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 
@@ -101,7 +101,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 28	podem	poder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	conj	_	_
 29	ficar	ficar	VERB	_	VerbForm=Inf	28	xcomp	_	_
 30	vendidos	vendido	ADJ	_	Gender=Masc|Number=Plur	29	xcomp	_	SpaceAfter=No
-31	!	!	PUNCT	_	_	22	punct	_	SpaceAfter=No
+31	!	!	PUNCT	_	_	22	punct	_	_
 
 ~~~
 

@@ -27,7 +27,7 @@ The following 10 pairs of parts of speech are connected with `obl:mod`: <tt><a h
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=52754|AlignEnd=53717|TokenType=Break
 3	bʔeː	_	NOUN	N	Gender=Masc	5	obl:mod	_	AlignBegin=53717|AlignEnd=53884|Gloss=day|RX=[N].[M]|TokenType=Root
 4	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	3	det	_	AlignBegin=53884|AlignEnd=54051|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
-5	eːjaːn	_	VERB	V2,IRG	Aspect=Perf|Number=Plur|VerbClass=2	7	ccomp	_	AlignBegin=54051|AlignEnd=54273|Gloss=come\PFV|MGloss=come\PFV-3PL|MSeg=eːjaː-n|Reported=Yes|ReportedSpeech=Yes|RX=[V2].[IRG]-[PNG]|TokenType=Root
+5	eːjaːn	_	VERB	V2,IRG	Aspect=Perf|Number=Plur|VerbClass=2	7	ccomp	_	AlignBegin=54051|AlignEnd=54273|Gloss=come\PFV|MGloss=come\PFV-3PL|MSeg=eːjaː-n|Reported=Yes|RX=[V2].[IRG]-[PNG]|TokenType=Root
 6	=heːb	_	PRON	PRO	Number=Sing|Person=1	5	obj	_	AlignBegin=54273|AlignEnd=54385|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
 7	ini	_	VERB	V1,IRG	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=54385|AlignEnd=54719|Gloss=say\PFV|MGloss=3SG.M-say\PFV|MSeg=i-ni|RX=[PNG]-[V1].[IRG]|TokenType=Root
 8	//	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=54719|AlignEnd=55636|TokenType=Break

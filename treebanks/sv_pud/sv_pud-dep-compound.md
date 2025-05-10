@@ -54,7 +54,7 @@ The following 10 pairs of parts of speech are connected with `compound`: <tt><a 
 4	University	university	NOUN	NN|SIN|NOM	Case=Nom|Number=Sing	1	nmod	1:nmod:vid	_
 5	meddelades	meddela	VERB	VB|PRT|SFO	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 6	under	under	ADP	PP	_	8	case	8:case	_
-7	ett	en	DET	DT|NEU|SIN|IND	Definite=Ind|Gender=Neut|Number=Sing	8	det	8:det	_
+7	ett	en	DET	DT|NEU|SIN|IND	Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	8	det	8:det	_
 8	möte	möte	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	5	obl	5:obl:under|10:nsubj	_
 9	som	som	PRON	HP|-|-|-	PronType=Int,Rel	10	nsubj	8:ref	_
 10	ägde	äga	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	8	acl:relcl	8:acl:relcl	_

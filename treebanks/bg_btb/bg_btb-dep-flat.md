@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1695 nodes (1%) are attached to their parents as `flat`.
+1696 nodes (1%) are attached to their parents as `flat`.
 
-1695 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.05899705014749.
+1696 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.05896226415094.
 
-The following 11 pairs of parts of speech are connected with `flat`: <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (1604; 95% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt>-<tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (52; 3% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bg_btb-pos-X.html">X</a></tt>-<tt><a href="bg_btb-pos-X.html">X</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `flat`: <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (1604; 95% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt>-<tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (52; 3% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt>-<tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bg_btb-pos-X.html">X</a></tt>-<tt><a href="bg_btb-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

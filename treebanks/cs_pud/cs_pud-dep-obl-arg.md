@@ -49,10 +49,10 @@ The following 15 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 3	neříkám	říkat	VERB	VB-S---1P-NA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	jen	jen	PART	TT-------------	_	5	advmod:emph	5:advmod:emph	LId=jen-1
 5	tak	tak	ADV	Db-------------	PronType=Dem	3	advmod	3:advmod	LId=tak-3
-6	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	advmod	3:advmod	LId=pro-1
-7	nic	nic	PRON	PW--4----------	Case=Acc|PronType=Neg	6	fixed	6:fixed	_
-8	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	fixed	6:fixed	_
-9	nic	nic	PRON	PW--4----------	Case=Acc|PronType=Neg	6	fixed	6:fixed	SpaceAfter=No
+6	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	7	case	7:case	LId=pro-1
+7	nic	nic	PRON	PY--4----------	Case=Acc|PronType=Neg	3	obl	3:obl	_
+8	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	9	case	9:case	_
+9	nic	nic	PRON	PY--4----------	Case=Acc|PronType=Neg	7	conj	7:conj	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 
 ~~~

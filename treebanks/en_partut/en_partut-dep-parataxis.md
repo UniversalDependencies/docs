@@ -55,8 +55,8 @@ The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a 
 8	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	4	punct	_	_
 10	notes	note	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
-11	critic	critic	NOUN	S	Number=Sing	10	nsubj	_	_
-12	Peter	Peter	PROPN	SP	_	11	nmod	_	_
+11	critic	critic	NOUN	S	Number=Sing	12	nmod:desc	_	_
+12	Peter	Peter	PROPN	SP	_	10	nsubj	_	_
 13	Brooks	Brooks	PROPN	SP	_	12	flat	_	SpaceAfter=No
 14	;	;	PUNCT	FC	_	4	punct	_	_
 
@@ -71,7 +71,7 @@ The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 14 9 parataxis	color:blue
 1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
 2	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
-3	Balzac	Balzac	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+3	Balzac	Balzac	PROPN	SP	_	5	nmod	_	_
 4	's	's	PART	PART	_	3	case	_	_
 5	characters	character	NOUN	S	Number=Plur	14	nsubj	_	SpaceAfter=No
 6	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No

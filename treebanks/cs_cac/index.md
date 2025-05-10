@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Barbora Hladká, Daniel Zeman.
 
 Repository: [UD_Czech-CAC](https://github.com/UniversalDependencies/UD_Czech-CAC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cac215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cac216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -103,15 +103,15 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 
 ## POS Tags
 
-[ADJ](cs_cac-pos-ADJ.html) – [ADP](cs_cac-pos-ADP.html) – [ADV](cs_cac-pos-ADV.html) – [AUX](cs_cac-pos-AUX.html) – [CCONJ](cs_cac-pos-CCONJ.html) – [DET](cs_cac-pos-DET.html) – [INTJ](cs_cac-pos-INTJ.html) – [NOUN](cs_cac-pos-NOUN.html) – [NUM](cs_cac-pos-NUM.html) – [PART](cs_cac-pos-PART.html) – [PRON](cs_cac-pos-PRON.html) – [PROPN](cs_cac-pos-PROPN.html) – [PUNCT](cs_cac-pos-PUNCT.html) – [SCONJ](cs_cac-pos-SCONJ.html) – [SYM](cs_cac-pos-SYM.html) – [VERB](cs_cac-pos-VERB.html)
+[ADJ](cs_cac-pos-ADJ.html) – [ADP](cs_cac-pos-ADP.html) – [ADV](cs_cac-pos-ADV.html) – [AUX](cs_cac-pos-AUX.html) – [CCONJ](cs_cac-pos-CCONJ.html) – [DET](cs_cac-pos-DET.html) – [INTJ](cs_cac-pos-INTJ.html) – [NOUN](cs_cac-pos-NOUN.html) – [NUM](cs_cac-pos-NUM.html) – [PART](cs_cac-pos-PART.html) – [PRON](cs_cac-pos-PRON.html) – [PROPN](cs_cac-pos-PROPN.html) – [PUNCT](cs_cac-pos-PUNCT.html) – [SCONJ](cs_cac-pos-SCONJ.html) – [SYM](cs_cac-pos-SYM.html) – [VERB](cs_cac-pos-VERB.html) – [X](cs_cac-pos-X.html)
 
 ## Features
 
-[Abbr](cs_cac-feat-Abbr.html) – [AdpType](cs_cac-feat-AdpType.html) – [Animacy](cs_cac-feat-Animacy.html) – [Aspect](cs_cac-feat-Aspect.html) – [Case](cs_cac-feat-Case.html) – [ConjType](cs_cac-feat-ConjType.html) – [Degree](cs_cac-feat-Degree.html) – [Foreign](cs_cac-feat-Foreign.html) – [Gender](cs_cac-feat-Gender.html) – [Gender[psor]](cs_cac-feat-Gender-psor.html) – [Hyph](cs_cac-feat-Hyph.html) – [Mood](cs_cac-feat-Mood.html) – [NameType](cs_cac-feat-NameType.html) – [Number](cs_cac-feat-Number.html) – [Number[psor]](cs_cac-feat-Number-psor.html) – [NumForm](cs_cac-feat-NumForm.html) – [NumType](cs_cac-feat-NumType.html) – [Person](cs_cac-feat-Person.html) – [Polarity](cs_cac-feat-Polarity.html) – [Poss](cs_cac-feat-Poss.html) – [PrepCase](cs_cac-feat-PrepCase.html) – [PronType](cs_cac-feat-PronType.html) – [Reflex](cs_cac-feat-Reflex.html) – [Style](cs_cac-feat-Style.html) – [Tense](cs_cac-feat-Tense.html) – [Variant](cs_cac-feat-Variant.html) – [VerbForm](cs_cac-feat-VerbForm.html) – [Voice](cs_cac-feat-Voice.html)
+[Abbr](cs_cac-feat-Abbr.html) – [AdpType](cs_cac-feat-AdpType.html) – [Animacy](cs_cac-feat-Animacy.html) – [Aspect](cs_cac-feat-Aspect.html) – [Case](cs_cac-feat-Case.html) – [ConjType](cs_cac-feat-ConjType.html) – [Degree](cs_cac-feat-Degree.html) – [ExtPos](cs_cac-feat-ExtPos.html) – [Foreign](cs_cac-feat-Foreign.html) – [Gender](cs_cac-feat-Gender.html) – [Gender[psor]](cs_cac-feat-Gender-psor.html) – [Hyph](cs_cac-feat-Hyph.html) – [Mood](cs_cac-feat-Mood.html) – [NameType](cs_cac-feat-NameType.html) – [Number](cs_cac-feat-Number.html) – [Number[psor]](cs_cac-feat-Number-psor.html) – [NumForm](cs_cac-feat-NumForm.html) – [NumType](cs_cac-feat-NumType.html) – [Person](cs_cac-feat-Person.html) – [Polarity](cs_cac-feat-Polarity.html) – [Poss](cs_cac-feat-Poss.html) – [PrepCase](cs_cac-feat-PrepCase.html) – [PronType](cs_cac-feat-PronType.html) – [Reflex](cs_cac-feat-Reflex.html) – [Style](cs_cac-feat-Style.html) – [Tense](cs_cac-feat-Tense.html) – [Variant](cs_cac-feat-Variant.html) – [VerbForm](cs_cac-feat-VerbForm.html) – [Voice](cs_cac-feat-Voice.html)
 
 ## Relations
 
-[acl](cs_cac-dep-acl.html) – [acl:relcl](cs_cac-dep-acl-relcl.html) – [advcl](cs_cac-dep-advcl.html) – [advmod](cs_cac-dep-advmod.html) – [advmod:emph](cs_cac-dep-advmod-emph.html) – [amod](cs_cac-dep-amod.html) – [appos](cs_cac-dep-appos.html) – [aux](cs_cac-dep-aux.html) – [aux:pass](cs_cac-dep-aux-pass.html) – [case](cs_cac-dep-case.html) – [cc](cs_cac-dep-cc.html) – [ccomp](cs_cac-dep-ccomp.html) – [compound](cs_cac-dep-compound.html) – [conj](cs_cac-dep-conj.html) – [cop](cs_cac-dep-cop.html) – [csubj](cs_cac-dep-csubj.html) – [csubj:pass](cs_cac-dep-csubj-pass.html) – [dep](cs_cac-dep-dep.html) – [det](cs_cac-dep-det.html) – [det:numgov](cs_cac-dep-det-numgov.html) – [det:nummod](cs_cac-dep-det-nummod.html) – [discourse](cs_cac-dep-discourse.html) – [expl:pass](cs_cac-dep-expl-pass.html) – [expl:pv](cs_cac-dep-expl-pv.html) – [fixed](cs_cac-dep-fixed.html) – [flat](cs_cac-dep-flat.html) – [flat:foreign](cs_cac-dep-flat-foreign.html) – [iobj](cs_cac-dep-iobj.html) – [mark](cs_cac-dep-mark.html) – [nmod](cs_cac-dep-nmod.html) – [nsubj](cs_cac-dep-nsubj.html) – [nsubj:pass](cs_cac-dep-nsubj-pass.html) – [nummod](cs_cac-dep-nummod.html) – [nummod:gov](cs_cac-dep-nummod-gov.html) – [obj](cs_cac-dep-obj.html) – [obl](cs_cac-dep-obl.html) – [obl:arg](cs_cac-dep-obl-arg.html) – [orphan](cs_cac-dep-orphan.html) – [parataxis](cs_cac-dep-parataxis.html) – [punct](cs_cac-dep-punct.html) – [root](cs_cac-dep-root.html) – [vocative](cs_cac-dep-vocative.html) – [xcomp](cs_cac-dep-xcomp.html)
+[acl](cs_cac-dep-acl.html) – [acl:relcl](cs_cac-dep-acl-relcl.html) – [advcl](cs_cac-dep-advcl.html) – [advmod](cs_cac-dep-advmod.html) – [advmod:emph](cs_cac-dep-advmod-emph.html) – [amod](cs_cac-dep-amod.html) – [appos](cs_cac-dep-appos.html) – [aux](cs_cac-dep-aux.html) – [aux:pass](cs_cac-dep-aux-pass.html) – [case](cs_cac-dep-case.html) – [cc](cs_cac-dep-cc.html) – [ccomp](cs_cac-dep-ccomp.html) – [compound](cs_cac-dep-compound.html) – [conj](cs_cac-dep-conj.html) – [cop](cs_cac-dep-cop.html) – [csubj](cs_cac-dep-csubj.html) – [csubj:pass](cs_cac-dep-csubj-pass.html) – [dep](cs_cac-dep-dep.html) – [det](cs_cac-dep-det.html) – [det:numgov](cs_cac-dep-det-numgov.html) – [det:nummod](cs_cac-dep-det-nummod.html) – [discourse](cs_cac-dep-discourse.html) – [expl:pass](cs_cac-dep-expl-pass.html) – [expl:pv](cs_cac-dep-expl-pv.html) – [fixed](cs_cac-dep-fixed.html) – [flat](cs_cac-dep-flat.html) – [iobj](cs_cac-dep-iobj.html) – [mark](cs_cac-dep-mark.html) – [nmod](cs_cac-dep-nmod.html) – [nsubj](cs_cac-dep-nsubj.html) – [nsubj:pass](cs_cac-dep-nsubj-pass.html) – [nummod](cs_cac-dep-nummod.html) – [nummod:gov](cs_cac-dep-nummod-gov.html) – [obj](cs_cac-dep-obj.html) – [obl](cs_cac-dep-obl.html) – [obl:arg](cs_cac-dep-obl-arg.html) – [orphan](cs_cac-dep-orphan.html) – [parataxis](cs_cac-dep-parataxis.html) – [punct](cs_cac-dep-punct.html) – [root](cs_cac-dep-root.html) – [vocative](cs_cac-dep-vocative.html) – [xcomp](cs_cac-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -142,12 +142,11 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: X</li>
+<li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 </ul>
 
 <ul>
-<li>This corpus contains 45 word types tagged as particles (PART): Al, Anti, Copak, Cožpak, Jakby, La, Le, Nazdar, Nu, ahoj, ano, arciť, asi, ať, až, ba, bohdá, bohužel, co, das, des, el, fakt, jen, jenom, jo, kdoví, li, natož, ne, nechť, nejen, no, non, ovšem, prý, quo, s, sice, takříkajíc, to, tož, viď, viďte, Žel</li>
+<li>This corpus contains 46 word types tagged as particles (PART): Al, Anti, Copak, Cožpak, Jakby, La, Le, Nazdar, Nu, ahoj, ano, arciť, asi, ať, až, ba, bohdá, bohužel, co, das, des, el, fakt, jen, jenom, jo, kdoví, li, natož, ne, nechť, nejen, no, non, ovšem, prý, přece, quo, s, sice, takříkajíc, to, tož, viď, viďte, Žel</li>
 </ul>
 
 <ul>
@@ -489,7 +488,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     <ul>
       <li>ADJ: současné, druhé, různých, jednotlivých, dalších, jiných, celé, pracovní, celém, posledních</li>
       <li>ADJ-Part: uvedeném, uvedených, omezeném, konaných, vyznačených, Spojených, požadovaném, příslušné, následujících, plánovaných</li>
-      <li>ADP: v, na, ve, o, při, po, in, Pro, a, ex</li>
+      <li>ADP: v, na, ve, o, při, po, in, Pro, ex, sine</li>
       <li>DET: tom, tomto, této, našem, své, těchto, svém, některých, svých, naší</li>
       <li>NOUN: roce, době, oblasti, základě, případě, straně, letech, rámci, práci, smyslu</li>
       <li>NOUN-Vnoun: plnění, řízení, řešení, skončení, srovnání, budování, pojetí, zaměstnání, zpracování, provedení</li>
@@ -1072,14 +1071,57 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>DET: Ty, to</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADP: v, na, z, ve, vzhledem, s, bez, za, ze, se</li>
+          <li>ADV: spolu, společně, co, současně, nezávisle, úměrně</li>
+          <li>NOUN: směrem</li>
+          <li>X: a</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADV: více, co, nejen, stejně</li>
+          <li>NOUN: rok, večer</li>
+          <li>PART: přece</li>
+          <li>VERB-Conv: chtíc</li>
+          <li>VERB-Fin: stůj</li>
+          <li>X: a, de, in</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: a</li>
+          <li>DET: to</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADV: zatím</li>
+          <li>CCONJ: i</li>
+          <li>SCONJ: zda</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: online, signifiant, super, la, Jazykovedným, New, Telephone, Tonkünstler, ferenda, fit</li>
+          <li>ADJ: online, signifiant, super, Jazykovedným, New, Telephone, Tonkünstler, ferenda, fit, humanus</li>
           <li>ADJ-Part: data</li>
-          <li>ADP: de, in, a, ad, cross, of, par, Pro, ante, aus</li>
-          <li>ADV: priori, explicite, quo, defacto, expost, innuce, ipsofacto, memoriam, theory</li>
+          <li>ADP: de, in, ad, cross, of, par, Pro, a, ante, aus</li>
+          <li>ADV: explicite, quo, defacto, expost, innuce, ipsofacto, theory</li>
           <li>CCONJ: et, and</li>
           <li>DET: sui, hoc, quem</li>
           <li>NOUN: luxe, nepusto, pusto, generis, vitro, excellence, homo, lege, peeling, Buch</li>
@@ -1088,6 +1130,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
           <li>PROPN: Combi, Kombi, Manche, Orchester, Bell, Böhmen, Corriere, Fruit, Gaudeamus, George</li>
           <li>VERB-Fin: are, formo, singt</li>
           <li>VERB-Inf: movere, savoir, singen, vivre</li>
+          <li>X: priori, a, facto, la, memoriam, de, in</li>
         </ul>
       </li>
     </ul>
@@ -1369,7 +1412,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Gen (2)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN (20)</li>
-      <li>VERB-Part--NOUN-Acc (2821)</li>
+      <li>VERB-Part--NOUN-Acc (2820)</li>
       <li>VERB-Part--NOUN-Gen (124)</li>
       <li>VERB-Part--NOUN-Nom (17)</li>
       <li>VERB-Part--PRON (16)</li>
@@ -1425,7 +1468,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

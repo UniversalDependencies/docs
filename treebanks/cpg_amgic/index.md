@@ -14,13 +14,13 @@ udver: '2'
 Language: [Cappadocian](/cpg/index.html) (code: `cpg`)<br/>
 Family: IE
 
-This treebank has been part of Universal Dependencies since the UD v2.8 release.
+This treebank has been part of Universal Dependencies since the UD v2.15 release.
 
 The following people have contributed to making this treebank part of UD: Konstantinos Sampanis, Prokopis Prokopidis, Furkan Akkurt.
 
 Repository: [UD_Cappadocian-AMGiC](https://github.com/UniversalDependencies/UD_Cappadocian-AMGiC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcpg_amgic215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcpg_amgic216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 

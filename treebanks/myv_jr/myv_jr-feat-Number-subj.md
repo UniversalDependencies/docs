@@ -44,7 +44,7 @@ The most frequent other feature values with which `VERB` and `Number[subj]` co-o
 
 ### `AUX`
 
-397 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (50% of all `AUX` tokens) have a non-empty value of `Number[subj]`.
+397 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (51% of all `AUX` tokens) have a non-empty value of `Number[subj]`.
 
 The most frequent other feature values with which `AUX` and `Number[subj]` co-occurred: <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (326; 82%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (302; 76%), <tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (298; 75%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (282; 71%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (241; 61%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (241; 61%).
 
@@ -146,7 +146,7 @@ The most frequent other feature values with which `PRON` and `Number[subj]` co-o
 
 ### `PART`
 
-2 <tt><a href="myv_jr-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `Number[subj]`.
+2 <tt><a href="myv_jr-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Number[subj]`.
 
 `PART` tokens may have the following values of `Number[subj]`:
 
@@ -163,7 +163,7 @@ The most frequent other feature values with which `PROPN` and `Number[subj]` co-
 ## Relations with Agreement in `Number[subj]`
 
 The 10 most frequent relations where parent and child node agree in `Number[subj]`:
-<tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (549; 74%),
+<tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (550; 74%),
 <tt>VERB --[<tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (67; 54%),
 <tt>ADJ --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> ADJ</tt> (10; 63%),
 <tt>VERB --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> VERB</tt> (10; 67%),

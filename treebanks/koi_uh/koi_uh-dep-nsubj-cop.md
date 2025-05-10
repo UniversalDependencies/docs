@@ -23,7 +23,7 @@ The following 9 pairs of parts of speech are connected with `nsubj:cop`: <tt><a 
 # visual-style 4	fgColor:white
 # visual-style 4 3 nsubj:cop	color:blue
 1	А	а	CCONJ	CC	_	4	cc	_	GTtags=CC
-2	юрын	юр	NOUN	N	Case=Ine|Number=Sing	4	obl:lmod	_	GTtags=N,Sg,Ine
+2	юрын	юр	NOUN	N	Case=Ine|Number=Sing	4	obl	_	GTtags=N,Sg,Ine
 3	думаэз	дума	NOUN	N	Case=Nom|Number=Plur	4	nsubj:cop	_	GTtags=N,Sg,Der,Der/ProprietiveMod,A,Der,Der/MWN,N,Pl,Nom
 4	кокнитӧсь	кокнит	ADJ	A	Number=Plur	0	root	_	GTtags=A,Cop,Pl|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	GTtags=CLB
@@ -60,7 +60,7 @@ The following 9 pairs of parts of speech are connected with `nsubj:cop`: <tt><a 
 # visual-style 4	fgColor:white
 # visual-style 4 1 nsubj:cop	color:blue
 1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj:cop	_	GTtags=Pron,Pers,Sg1,Nom
-2	татӧн	татӧн	ADV	Adv	_	4	advmod:lmod	_	GTtags=Adv
+2	татӧн	татӧн	ADV	Adv	AdvType=Loc	4	advmod	_	GTtags=Adv
 3	не	не	AUX	Pcle	_	4	aux:neg	_	GTtags=Pcle
 4	ӧтнам	ӧтнам	ADV	Adv	_	0	root	_	GTtags=Adv|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	GTtags=CLB

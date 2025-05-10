@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 8	disser	dizer	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	advcl	2:advcl:se	_
 9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	10:det	_
 10	verdade	verdade	NOUN	_	Gender=Fem|Number=Sing	8	obj	8:obj	SpaceAfter=No
-11	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 

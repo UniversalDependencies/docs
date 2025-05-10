@@ -7,12 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: Features: `Mood`
 
 This feature is universal.
-It occurs with 2 different values: `Imp`, `Ind`.
+It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
-168 tokens (16%) have a non-empty value of `Mood`.
-139 types (24%) occur at least once with a non-empty value of `Mood`.
-103 lemmas (23%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (144; 13% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (24; 2% instances).
+169 tokens (16%) have a non-empty value of `Mood`.
+140 types (24%) occur at least once with a non-empty value of `Mood`.
+104 lemmas (23%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (144; 13% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (25; 2% instances).
 
 ### `VERB`
 
@@ -36,14 +36,15 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-24 <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> tokens (62% of all `AUX` tokens) have a non-empty value of `Mood`.
+25 <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> tokens (64% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19; 79%), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (19; 79%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (14; 58%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (13; 54%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19; 76%), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (19; 76%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (14; 56%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (13; 52%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Ind` (24; 100% of non-empty `Mood`): <em>оз, эз, эг, вӧлі, озӧ, верман, коліс, овлӧ, ог, он</em>
-* `EMPTY` (15): <em>абу, вермы, не, эз, абуöсь, бы, вӧв, овны, позь</em>
+* `Cnd` (1; 4% of non-empty `Mood`): <em>бы</em>
+* `Ind` (24; 96% of non-empty `Mood`): <em>оз, эз, эг, вӧлі, озӧ, верман, коліс, овлӧ, ог, он</em>
+* `EMPTY` (14): <em>абу, вермы, не, эз, абуöсь, вӧв, овны, позь</em>
 
 ## Relations with Agreement in `Mood`
 

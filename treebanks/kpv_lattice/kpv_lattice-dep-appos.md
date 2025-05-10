@@ -26,7 +26,7 @@ The following 17 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	,	,	PUNCT	CLB	_	1	punct	_	_
 3	том	том	ADJ	A	Case=Nom|Number=Sing	4	amod	_	_
 4	зонка	зонка	NOUN	N	Case=Nom|Number=Sing	1	appos	_	_
-5	на	на	ADV	Adv	_	4	advmod:tmod	_	SpaceAfter=No
+5	на	на	ADV	Adv	_	4	advmod	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	8	punct	_	_
 7	дзикӧдз	дзик	ADV	Adv	Case=Ter	8	advmod:deg	_	_
 8	растеряйтчис	растеряйтчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No

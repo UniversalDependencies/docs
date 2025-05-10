@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="sv_talbanken-po
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.430604).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.428271).
 
 The 1st highest number of forms (1) was observed with the lemma “fan”: <em>fan</em>.
 
@@ -43,7 +43,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ha”: <em>ha
 
 `INTJ` nodes are attached to their parents using 7 different relations: <tt><a href="sv_talbanken-dep-discourse.html">discourse</a></tt> (22; 63% instances), <tt><a href="sv_talbanken-dep-root.html">root</a></tt> (4; 11% instances), <tt><a href="sv_talbanken-dep-obj.html">obj</a></tt> (3; 9% instances), <tt><a href="sv_talbanken-dep-flat.html">flat</a></tt> (2; 6% instances), <tt><a href="sv_talbanken-dep-parataxis.html">parataxis</a></tt> (2; 6% instances), <tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt> (1; 3% instances), <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (1; 3% instances)
 
-Parents of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (19; 54% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (7; 20% instances),  (4; 11% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (2; 6% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (1; 3% instances)
+Parents of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (18; 51% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (8; 23% instances),  (4; 11% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (2; 6% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (1; 3% instances)
 
 30 (86%) `INTJ` nodes are leaves.
 

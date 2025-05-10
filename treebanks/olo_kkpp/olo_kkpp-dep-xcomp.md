@@ -14,7 +14,7 @@ There are 1 language-specific subtypes of `xcomp`: <tt><a href="olo_kkpp-dep-xco
 14 instances of `xcomp` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.21428571428571.
 
-The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (11; 79% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (1; 7% instances).
+The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (12; 86% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -77,24 +77,17 @@ The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 xcomp	color:blue
-1	Illal	illal	ADV	ADV	_	4	advmod	_	PronType=Temp
-2	ei	ei	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	3	aux	_	_
-3	suannuh	suaha	AUX	AUX	Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-4	arbailla	arbailla	VERB	VERB	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	xcomp	_	_
-5	–	–	PUNCT	PUNCT	_	6	punct	_	_
-6	varattih	varata	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
-7	Arbaituksen	Arbaitus	NOUN	NOUN	Case=Gen|Number=Sing	8	nmod:poss	_	_
-8	akkua	akku	NOUN	NOUN	Case=Par|Number=Sing	6	obj	_	SpaceAfter=No
-9	,	,	PUNCT	PUNCT	_	12	punct	_	_
-10	ku	ku	SCONJ	SCONJ	_	12	mark	_	_
-11	häi	häi	PRON	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
-12	tulou	tulla	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	_
-13	yön	yö	NOUN	NOUN	Case=Gen|Number=Sing	14	nmod:poss	_	_
-14	aigua	aigu	NOUN	NOUN	Case=Par|Number=Sing	12	obl	_	_
-15	da	da	CCONJ	CCONJ	_	16	cc	_	_
-16	ähkiäy	ähkie	VERB	X	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	_
-17	bokkah	bokku	NOUN	NOUN	Case=Ill|Number=Sing	16	obl	_	SpaceAfter=No
-18	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No
+1	Pidoh	Pido	NOUN	NOUN	Case=Ill|Number=Sing	2	obl	_	_
+2	tulluot	tulla	VERB	VERB	Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	nsubj	_	_
+3	suajah	suaju	NOUN	NOUN	Case=Ill|Number=Sing	0	root	_	_
+4	ostua	ostua	VERB	VERB	VerbForm=Inf	3	xcomp	_	_
+5	da	da	CCONJ	CCONJ	_	6	cc	_	_
+6	tilata	tilata	VERB	VERB	VerbForm=Inf	4	conj	_	_
+7	“	“	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No
+8	Periodikan	Periodika	PROPN	PROPN	Case=Gen|Number=Sing	10	nmod:poss	_	SpaceAfter=No
+9	”	”	PUNCT	PUNCT	_	8	punct	_	_
+10	julgavoloi	julgavo	NOUN	NOUN	Case=Par|Number=Plur	4	obj	_	SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
 
 ~~~
 

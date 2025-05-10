@@ -62,7 +62,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Dem` (80; 98% of non-empty `PronType`): <em>davon, dazu, damit, dafür, darauf, darin, daran, darüber, dadurch, darum</em>
 * `Ind` (2; 2% of non-empty `PronType`): <em>genug</em>
-* `EMPTY` (970): <em>auch, so, noch, nur, sehr, mehr, jedoch, wie, immer, wieder</em>
+* `EMPTY` (969): <em>auch, so, noch, nur, sehr, mehr, jedoch, wie, immer, wieder</em>
 
 `PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (15) occur only with one value of `PronType`.
 

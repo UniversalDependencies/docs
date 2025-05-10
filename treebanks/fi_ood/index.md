@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Jenna Kanerva.
 
 Repository: [UD_Finnish-OOD](https://github.com/UniversalDependencies/UD_Finnish-OOD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ood215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ood216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -92,11 +92,11 @@ url = "http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.120.pdf"
 
 
 <ul>
-<li>This corpus contains 2122 sentences, 19363 tokens and 19382 syntactic words.</li>
+<li>This corpus contains 2122 sentences, 19364 tokens and 19383 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 3188 tokens (16%) that are not followed by a space.</li>
+<li>This corpus contains 3189 tokens (16%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -224,7 +224,7 @@ url = "http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.120.pdf"
       <li>VERB-Fin: tulee, saa, hapettuu, sai, alkoi, löytyy, laskee, menee, kertoo, laski</li>
       <li>VERB-Inf: saada, tehdä, katsomassa, tulla, laskemaan, nukkuessa, käymään, pitää, mennä, menossa</li>
       <li>VERB-Part: saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu, tehty</li>
-      <li>X: Creator, HERAUS, SATAN, poro</li>
+      <li>X: poro</li>
     </ul>
   </li>
 </ul>
@@ -336,7 +336,7 @@ url = "http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.120.pdf"
       <li>AUX-Part: olevan, olevansa</li>
       <li>NOUN: yön, vuoden, potilaan, lastin, nuorten, päivän, ajan, lapsen, rakkauden, sarjan</li>
       <li>NUM: yhden, kahden, kolmen, neljän, parin, sadan, 100.n, 1000e, 100:n, 2:n</li>
-      <li>PRON: sen, tämän, jonka, hänen, meidän, minun, heidän, kaiken, jonkin, minkä</li>
+      <li>PRON: sen, tämän, jonka, hänen, meidän, minun, heidän, jonkin, kaiken, minkä</li>
       <li>PROPN: Tymppiksen, Eskon, suomen, Allien, Furesiksen, Jeesuksen, Jortikan, Kelan, Liikenneturvan, Luhtasen</li>
       <li>VERB: jättämäni, ymmärtävän, arvostavan, auttavan, haukkuvan, jatkuvan, kalastavan, kalifornialaistuneen, kirjoittaneen, koittaneen</li>
       <li>VERB-Part: jättämäni, ymmärtävän, arvostavan, auttavan, haukkuvan, jatkuvan, kalastavan, kalifornialaistuneen, kirjoittaneen, koittaneen</li>
@@ -401,7 +401,7 @@ url = "http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.120.pdf"
       <li>PROPN: furesis, Esko, Tymppis, the, sp., Suomi, noradrenalina, America, Captain, Nooa</li>
       <li>VERB: saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu, tehty</li>
       <li>VERB-Part: saanut, aloitettu, laitettu, päästy, vaihdettu, käynyt, nukkunut, lopetettu, nostettu, tehty</li>
-      <li>X: Creator, HERAUS, SATAN, poro</li>
+      <li>X: poro</li>
     </ul>
   </li>
 </ul>
@@ -413,7 +413,7 @@ url = "http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.120.pdf"
       <li>NOUN: aikaa, kertaa, mg, prosenttia, tietoa, ihmisiä, limaa, asentoa, limaisuutta, maata</li>
       <li>NUM: satoja, kolmattasataa, toistasataa</li>
       <li>PRON: mitä, sitä, muuta, niitä, jotain, mitään, jota, tätä, kaikkea, heitä</li>
-      <li>PROPN: furesista, Oxanestia, Eskoa, Bachia, Nitroa, Opamoxia, Stesolidia, Abbodopia, Allieta, Ativania</li>
+      <li>PROPN: furesista, Oxanestia, Eskoa, Opamoxia, Bachia, Nitroa, Stesolidia, Abbodopia, Allieta, Ativania</li>
       <li>VERB-Part: purettua, valkaistua, saatuaan, tapahtuvaa, tehtyjä, viemää, alentavaa, avattuaan, eristäviä, harkittuja</li>
     </ul>
   </li>
@@ -601,7 +601,7 @@ url = "http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.120.pdf"
   <li>Ind
     <ul>
       <li>ADV: muun</li>
-      <li>PRON: kaikki, muuta, jotain, mitään, kaiken, ainoa, joku, jonkin, kaikille, kaikkea</li>
+      <li>PRON: kaikki, muuta, jotain, mitään, ainoa, joku, jonkin, kaiken, kaikille, kaikkea</li>
     </ul>
   </li>
 </ul>
@@ -957,7 +957,6 @@ url = "http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.120.pdf"
     <ul>
       <li>Yes
         <ul>
-          <li>PROPN: Opamoxia</li>
           <li>X: LIST, All, Inclusive, author, baimbai, quote, time, #nature, Nix, pekato</li>
         </ul>
       </li>

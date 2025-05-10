@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 2	не	не	PART	_	Polarity=Neg	3	advmod	_	wf="не"
 3	мꙋдрьствꙋйте	мудрствовати	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	wf="мудрьствуйте"
 4	на(д)	надъ	ADP	_	_	5	case	_	wf="над"
-5	тоe	тое	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	wf="тое"|SpaceAfter=No
+5	тое	тое	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	wf="тое"|SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	wf=","
 7	што	што	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	9	nsubj	_	wf="што"
 8	сѧ	ся	PRON	_	Analyt=Yes|Clitic=Yes|PronType=Prs|Reflex=Yes	9	expl:pv	_	wf="ся"
@@ -46,7 +46,7 @@ The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 1	Повинность	повинность	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	wf="Повинность"
 2	онаѧ	оный	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	det	_	wf="оная"|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	wf=","
-4	бoу(д)те	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	cop	_	wf="будте"
+4	боу(д)те	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	cop	_	wf="будте"
 5	готови	готовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	1	parataxis:discourse	_	wf="готови"|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	wf=","
 7	къ	къ	ADP	_	_	8	case	_	wf="къ"

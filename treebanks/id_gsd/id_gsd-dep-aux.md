@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1182 nodes (1%) are attached to their parents as `aux`.
+1180 nodes (1%) are attached to their parents as `aux`.
 
-1182 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.24788494077834.
+1180 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.23728813559322.
 
-The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (1159; 98% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (21; 2% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (1157; 98% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (21; 2% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

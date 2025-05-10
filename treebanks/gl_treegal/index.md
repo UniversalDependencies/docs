@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.4 release.
 
-The following people have contributed to making this treebank part of UD: Marcos Garcia, Xulia Sánchez-Rodríguez.
+The following people have contributed to making this treebank part of UD: Marcos Garcia, Xulia Sánchez-Rodríguez, Albina Sarymsakova.
 
 Repository: [UD_Galician-TreeGal](https://github.com/UniversalDependencies/UD_Galician-TreeGal)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_treegal215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_treegal216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: LGPL-LR
 
@@ -71,7 +71,7 @@ Galician-TreeGal v0.42 contains 1000 sentences of the xeral corpus (~25k tokens)
 
 ## Features
 
-[AdpType](gl_treegal-feat-AdpType.html) – [Case](gl_treegal-feat-Case.html) – [Clitic](gl_treegal-feat-Clitic.html) – [Definite](gl_treegal-feat-Definite.html) – [Degree](gl_treegal-feat-Degree.html) – [Foreign](gl_treegal-feat-Foreign.html) – [Gender](gl_treegal-feat-Gender.html) – [Mood](gl_treegal-feat-Mood.html) – [Number](gl_treegal-feat-Number.html) – [Number[psor]](gl_treegal-feat-Number-psor.html) – [NumType](gl_treegal-feat-NumType.html) – [Person](gl_treegal-feat-Person.html) – [Polarity](gl_treegal-feat-Polarity.html) – [Poss](gl_treegal-feat-Poss.html) – [PronType](gl_treegal-feat-PronType.html) – [Tense](gl_treegal-feat-Tense.html) – [VerbForm](gl_treegal-feat-VerbForm.html)
+[AdpType](gl_treegal-feat-AdpType.html) – [Case](gl_treegal-feat-Case.html) – [Clitic](gl_treegal-feat-Clitic.html) – [Definite](gl_treegal-feat-Definite.html) – [Degree](gl_treegal-feat-Degree.html) – [ExtPos](gl_treegal-feat-ExtPos.html) – [Foreign](gl_treegal-feat-Foreign.html) – [Gender](gl_treegal-feat-Gender.html) – [Mood](gl_treegal-feat-Mood.html) – [Number](gl_treegal-feat-Number.html) – [Number[psor]](gl_treegal-feat-Number-psor.html) – [NumType](gl_treegal-feat-NumType.html) – [Person](gl_treegal-feat-Person.html) – [Polarity](gl_treegal-feat-Polarity.html) – [Poss](gl_treegal-feat-Poss.html) – [PronType](gl_treegal-feat-PronType.html) – [Tense](gl_treegal-feat-Tense.html) – [VerbForm](gl_treegal-feat-VerbForm.html)
 
 ## Relations
 
@@ -477,7 +477,7 @@ Galician-TreeGal v0.42 contains 1000 sentences of the xeral corpus (~25k tokens)
   <li>Ind
     <ul>
       <li>DET: todo, todos, mesmo, outra, outro, outros, outras, toda, cada, calquera</li>
-      <li>PRON: algo, todo, un, nada, algúns, unha, outros, outro, alguén, mesmo</li>
+      <li>PRON: algo, todo, un, algúns, nada, unha, outros, outro, alguén, mesmo</li>
     </ul>
   </li>
 </ul>
@@ -646,6 +646,62 @@ Galician-TreeGal v0.42 contains 1000 sentences of the xeral corpus (~25k tokens)
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>ADP: en</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADJ: xunto</li>
+          <li>ADP: a, en, de, por</li>
+          <li>ADV: dentro, arredor</li>
+          <li>NOUN: fronte, cara, respecto, Grazas, camiño</li>
+          <li>VERB-Fin: pese</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: en, a, por, de, Con, sen, Dende</li>
+          <li>ADV: non, aínda, cando, hoxe, arredor, así, claro, despois, detrás, máis</li>
+          <li>AUX-Fin: é</li>
+          <li>CCONJ: Ou, e, nin</li>
+          <li>PRON: iso, isto</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADP: por</li>
+          <li>ADV: ademais, así, aínda</li>
+          <li>CCONJ: e, ou, nin</li>
+        </ul>
+      </li>
+      <li>INTJ
+        <ul>
+          <li>INTJ: ha</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>DET: cada</li>
+          <li>PRON: nada</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: por, de, en</li>
+          <li>ADV: aínda, xa, así, antes, ben</li>
+          <li>SCONJ: senón, Se</li>
+          <li>VERB-Fin: É</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -676,7 +732,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (381)</li>
+      <li>VERB-Fin--NOUN (382)</li>
       <li>VERB-Fin--NOUN-ADP(arredor) (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (2)</li>
       <li>VERB-Fin--PRON (286)</li>

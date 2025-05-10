@@ -22,7 +22,7 @@ The following 22 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Därför	därför	ADV	HA	_	6	mark	6:mark	ExtPos=SCONJ
+1	Därför	därför	ADV	HA	ExtPos=SCONJ	6	mark	6:mark	_
 2	att	att	SCONJ	SN	_	1	fixed	1:fixed	_
 3	det	den	DET	DT|NEU|SIN|DEF	Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
 4	kapitalistiska	kapitalistisk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	5	amod	5:amod	_
@@ -46,7 +46,7 @@ The following 22 pairs of parts of speech are connected with `fixed`: <tt><a hre
 3	borde	böra	AUX	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	5:aux	_
 4	ha	ha	AUX	VB|INF|AKT	VerbForm=Inf|Voice=Act	5	aux	5:aux	_
 5	kommit	komma	VERB	VB|SUP|AKT	VerbForm=Sup|Voice=Act	0	root	0:root	_
-6	för	för	ADP	PP	_	7	case	7:case	ExtPos=ADP
+6	för	för	ADP	PP	ExtPos=ADP	7	case	7:case	_
 7	länge	länge	ADV	AB|POS	Degree=Pos	5	advmod	5:advmod	_
 8	sedan	sedan	ADV	AB	_	6	fixed	6:fixed	SpaceAfter=No
 9	.	.	PUNCT	MAD	_	5	punct	5:punct	_
@@ -62,7 +62,7 @@ The following 22 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 3 4 fixed	color:blue
 1	Kan	kunna	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	5:aux	_
 2	vem	vem	PRON	HP|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Tot	5	nsubj	5:nsubj|11:nsubj|12:nsubj	CxnElt=5:Interrogative-WHInfo-Direct.WHWord
-3	som	som	CCONJ	KN	_	2	advmod	2:advmod	ExtPos=ADV
+3	som	som	CCONJ	KN	ExtPos=ADV	2	advmod	2:advmod	_
 4	helst	gärna	ADV	AB|SUV	Degree=Sup	3	fixed	3:fixed	_
 5	slå	slå	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	0	root	0:root	Cxn=Interrogative-WHInfo-Direct|CxnElt=5:Interrogative-WHInfo-Direct.Clause
 6	sig	sig	PRON	PN|UTR/NEU|SIN/PLU|DEF|OBJ	Case=Acc|Definite=Def|PronType=Prs	5	obj	5:obj	_

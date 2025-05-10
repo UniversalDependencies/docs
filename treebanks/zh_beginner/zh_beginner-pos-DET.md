@@ -74,17 +74,17 @@ The 3rd highest number of forms (1) was observed with the lemma “些”: 些.
 
 `DET` nodes are attached to their parents using 5 different relations: <tt><a href="zh_beginner-dep-det.html">det</a></tt> (323; 82% instances), <tt><a href="zh_beginner-dep-dep.html">dep</a></tt> (50; 13% instances), <tt><a href="zh_beginner-dep-obl-arg.html">obl:arg</a></tt> (11; 3% instances), <tt><a href="zh_beginner-dep-obl-lmod.html">obl:lmod</a></tt> (7; 2% instances), <tt><a href="zh_beginner-dep-clf.html">clf</a></tt> (2; 1% instances)
 
-Parents of `DET` nodes belong to 6 different parts of speech: <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt> (347; 88% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt> (23; 6% instances), <tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (11; 3% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="zh_beginner-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt> (345; 88% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt> (23; 6% instances), <tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (12; 3% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="zh_beginner-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="zh_beginner-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
-366 (93%) `DET` nodes are leaves.
+103 (26%) `DET` nodes are leaves.
 
-26 (7%) `DET` nodes have one child.
+289 (74%) `DET` nodes have one child.
 
 1 (0%) `DET` nodes have two children.
 
 The highest child degree of a `DET` node is 2.
 
-Children of `DET` nodes are attached using 2 different relations: <tt><a href="zh_beginner-dep-dep.html">dep</a></tt> (27; 96% instances), <tt><a href="zh_beginner-dep-advmod.html">advmod</a></tt> (1; 4% instances)
+Children of `DET` nodes are attached using 3 different relations: <tt><a href="zh_beginner-dep-clf.html">clf</a></tt> (263; 90% instances), <tt><a href="zh_beginner-dep-dep.html">dep</a></tt> (27; 9% instances), <tt><a href="zh_beginner-dep-advmod.html">advmod</a></tt> (1; 0% instances)
 
-Children of `DET` nodes belong to 3 different parts of speech: <tt><a href="zh_beginner-pos-PART.html">PART</a></tt> (16; 57% instances), <tt><a href="zh_beginner-pos-ADP.html">ADP</a></tt> (11; 39% instances), <tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt> (1; 4% instances)
+Children of `DET` nodes belong to 4 different parts of speech: <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt> (263; 90% instances), <tt><a href="zh_beginner-pos-PART.html">PART</a></tt> (16; 5% instances), <tt><a href="zh_beginner-pos-ADP.html">ADP</a></tt> (11; 4% instances), <tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 

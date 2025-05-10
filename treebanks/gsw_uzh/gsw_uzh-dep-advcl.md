@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of advcl in UD_Swiss_German-UZH'
+title:  'Statistics of advcl in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: Relations: `advcl`
+## Treebank Statistics: UD_Alemannic-UZH: Relations: `advcl`
 
 This relation is universal.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8184 nodes (5%) are attached to their parents as `det`.
+8074 nodes (5%) are attached to their parents as `det`.
 
-6073 instances of `det` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4855816226784.
+5991 instances of `det` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.45937577408967.
 
-The following 15 pairs of parts of speech are connected with `det`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (6610; 81% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (972; 12% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (354; 4% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (90; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (86; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (26; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (23; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PART.html">PART</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `det`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (6534; 81% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (938; 12% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (354; 4% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (90; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (86; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (26; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (23; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PART.html">PART</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 15 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 8 3 det	color:blue
 1	Роспис(ь)	роспись	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	wf="Роспись"|SpaceAfter=No
 2	,	,	PUNCT	_	_	4	punct	_	wf=","|_
-3	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	det	_	wf="что"|_
+3	что	что	PRON	_	Case=Nom|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	8	det	_	wf="что"|_
 4	принето	приняти	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	acl	_	wf="принето"|_
 5	у	у	ADP	_	_	7	case	_	wf="у"|_
 6	белевских	бѣлевский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	wf="белевских"|_

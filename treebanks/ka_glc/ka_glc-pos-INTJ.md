@@ -38,7 +38,7 @@ The 2nd highest number of forms (1) was observed with the lemma “სუ”: <e
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 2 different relations: <tt><a href="ka_glc-dep-appos.html">appos</a></tt> (1; 50% instances), <tt><a href="ka_glc-dep-fixed.html">fixed</a></tt> (1; 50% instances)
+`INTJ` nodes are attached to their parents using 2 different relations: <tt><a href="ka_glc-dep-appos.html">appos</a></tt> (1; 50% instances), <tt><a href="ka_glc-dep-compound.html">compound</a></tt> (1; 50% instances)
 
 Parents of `INTJ` nodes belong to 1 different parts of speech: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (2; 100% instances)
 

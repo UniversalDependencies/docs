@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-31899 tokens (11%) have a non-empty value of `VerbForm`.
+31896 tokens (11%) have a non-empty value of `VerbForm`.
 5331 types (11%) occur at least once with a non-empty value of `VerbForm`.
-2778 lemmas (7%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 7 part-of-speech tags: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (20464; 7% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (10653; 4% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (638; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (68; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (54; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (3; 0% instances).
+2752 lemmas (7%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 7 part-of-speech tags: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (20462; 7% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (10652; 4% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (638; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (68; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (54; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (3; 0% instances).
 
 ### `VERB`
 
-20464 <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+20462 <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12241; 60%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (12024; 59%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12240; 60%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (12023; 59%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (12461; 61% of non-empty `VerbForm`): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
+* `Fin` (12460; 61% of non-empty `VerbForm`): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
 * `Inf` (2931; 14% of non-empty `VerbForm`): <em>empfehlen, lassen, machen, werden, finden, erreichen, haben, sehen, kommen, sagen</em>
-* `Part` (5072; 25% of non-empty `VerbForm`): <em>gegründet, genannt, verwendet, eingesetzt, genutzt, bezeichnet, gebaut, aufgenommen, gewählt, gemacht</em>
+* `Part` (5071; 25% of non-empty `VerbForm`): <em>gegründet, genannt, verwendet, eingesetzt, genutzt, bezeichnet, gebaut, aufgenommen, gewählt, gemacht</em>
 * `EMPTY` (180): <em>folgend, bestehend, ausgehend, bekannt, entfernt, überzeugt, bedingt, beeindruckt, bereut, gelassen</em>
 
 <table>
@@ -48,13 +48,13 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-10653 <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+10652 <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (9365; 88%), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9297; 87%), <tt><a href="de_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7674; 72%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7326; 69%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5620; 53%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (9364; 88%), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9296; 87%), <tt><a href="de_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7674; 72%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7325; 69%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5619; 53%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (9878; 93% of non-empty `VerbForm`): <em>ist, wurde, war, sind, wird, wurden, kann, hat, werden, waren</em>
+* `Fin` (9877; 93% of non-empty `VerbForm`): <em>ist, wurde, war, sind, wird, wurden, kann, hat, werden, waren</em>
 * `Inf` (622; 6% of non-empty `VerbForm`): <em>werden, sein, können, haben, müssen, wollen, dürfen, sollen, seien, seyn</em>
 * `Part` (153; 1% of non-empty `VerbForm`): <em>worden, gewesen, geworden</em>
 * `EMPTY` (12): <em>is, 're, 's, Are</em>
@@ -91,7 +91,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 * `Fin` (1; 0% of non-empty `VerbForm`): <em>reaktivierte</em>
 * `Inf` (27; 4% of non-empty `VerbForm`): <em>erhalten, auszutauschenden, beginnenden, bewachsen, einzeln, externen, extremen, gesunden, kahlen, nassen</em>
 * `Part` (610; 96% of non-empty `VerbForm`): <em>beteiligt, verbreitet, aufgehoben, verheiratet, vertreten, verbunden, erhalten, geprägt, organisiert, vorgesehen</em>
-* `EMPTY` (21101): <em>ersten, später, erste, gut, weitere, neue, bekannt, zweiten, neuen, großen</em>
+* `EMPTY` (21102): <em>ersten, später, erste, gut, weitere, neue, bekannt, zweiten, neuen, großen</em>
 
 <table>
   <tr><th>Paradigm <i>erhalten</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -111,7 +111,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 * `Fin` (49; 72% of non-empty `VerbForm`): <em>mag, Jahrhundert, War, 3/8-Takte, Balken, Bin, Erbvogt, Familien, Flotte, Gemüt</em>
 * `Inf` (14; 21% of non-empty `VerbForm`): <em>lernen, 1980ern, Glauben, Wüstenvätern, arten, beilagen, liegenden, mücken, rauchen, reellen</em>
 * `Part` (5; 7% of non-empty `VerbForm`): <em>Jahrhundert, Bestärkt, erhöht</em>
-* `EMPTY` (52229): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52228): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 <table>
   <tr><th>Paradigm <i>Jahrhundert</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th></tr>
@@ -132,7 +132,7 @@ The most frequent other feature values with which `PROPN` and `VerbForm` co-occu
 * `Fin` (44; 81% of non-empty `VerbForm`): <em>ist, 1st, EVTA, Gibt, Glaube, Kambodschas, Kemble, Roden, Sankt, Verden</em>
 * `Inf` (4; 7% of non-empty `VerbForm`): <em>Wetten, diedenkweisen, kontrollieren, weingarten</em>
 * `Part` (6; 11% of non-empty `VerbForm`): <em>Aliskiren, Ethernet, Outcault, Target, vétkeimet, zertifiziert</em>
-* `EMPTY` (30365): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
+* `EMPTY` (30363): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
 
 `VerbForm` seems to be **lexical feature** of `PROPN`. 100% lemmas (51) occur only with one value of `VerbForm`.
 
@@ -144,7 +144,7 @@ The most frequent other feature values with which `PROPN` and `VerbForm` co-occu
 
 * `Inf` (4; 21% of non-empty `VerbForm`): <em>erhalten, kennen, stehen, wärmsten</em>
 * `Part` (15; 79% of non-empty `VerbForm`): <em>verloren, bewaldet, erhalten, gefangen, gemessen, geplant, geschätzt, verdickt, verzerrt, verziert</em>
-* `EMPTY` (13865): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
+* `EMPTY` (13826): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
 <table>
   <tr><th>Paradigm <i>erhalten</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -163,7 +163,7 @@ The most frequent other feature values with which `X` and `VerbForm` co-occurred
 
 * `Fin` (2; 67% of non-empty `VerbForm`): <em>isl., s.</em>
 * `Inf` (1; 33% of non-empty `VerbForm`): <em>en</em>
-* `EMPTY` (310): <em>'s, B., u.a., %, etc., z.B., a, z., †, u</em>
+* `EMPTY` (309): <em>'s, B., u.a., %, etc., z.B., a, z., †, u</em>
 
 ## Relations with Agreement in `VerbForm`
 

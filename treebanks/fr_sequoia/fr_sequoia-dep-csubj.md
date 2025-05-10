@@ -23,9 +23,9 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 csubj	color:blue
-1	Il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	nécessaire	nécessaire	ADJ	_	Number=Sing	0	root	_	_
+3	nécessaire	nécessaire	ADJ	_	Number=Sing	0	root	_	Gender[ctxt]=Masc
 4	d'	de	ADP	_	_	5	mark	_	SpaceAfter=No
 5	augmenter	augmenter	VERB	_	VerbForm=Inf	3	csubj	_	Subject=Generic
 6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -35,7 +35,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 10	créer	créer	VERB	_	VerbForm=Inf	5	conj	_	Subject=Generic
 11	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	poste	poste	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
-13	budgétaire	budgétaire	ADJ	_	Number=Sing	12	amod	_	_
+13	budgétaire	budgétaire	ADJ	_	Number=Sing	12	amod	_	Gender[ctxt]=Masc
 14	;	;	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -47,7 +47,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 10 csubj	color:blue
-1	Il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	_
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	_
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
 3	rapidement	rapidement	ADV	_	_	4	advmod	_	_
 4	apparu	apparaître	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -75,7 +75,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 9 csubj	color:blue
-1	Il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	_
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	_
 2	apparaît	apparaître	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	_	_	9	mark	_	_
 4	Nicolas	Nicolas	PROPN	_	Gender=Masc|Number=Sing	9	nsubj	_	_

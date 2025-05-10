@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 * `Fem` (519; 44% of non-empty `Gender`): <em>neue, eigene, ersten, große, öffentliche, amerikanischen, guten, kleine, neuen, verschiedenen</em>
 * `Masc` (376; 32% of non-empty `Gender`): <em>ersten, Vereinigten, letzten, neue, 1., besten, gesamten, große, großer, neuen</em>
 * `Neut` (292; 25% of non-empty `Gender`): <em>letzten, ersten, Olympischen, eigenen, 8., drittes, karibische, neuen, 13., 1960er</em>
-* `EMPTY` (225): <em>bekannt, möglich, groß, klar, paar, sicher, unglaublich, verheiratet, alt, ausgerichtet</em>
+* `EMPTY` (226): <em>bekannt, möglich, groß, klar, paar, sicher, unglaublich, verheiratet, alt, ausgerichtet</em>
 
 <table>
   <tr><th>Paradigm <i>neu</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>

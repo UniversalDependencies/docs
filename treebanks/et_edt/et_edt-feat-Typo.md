@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-286 tokens (0%) have a non-empty value of `Typo`.
-145 types (0%) occur at least once with a non-empty value of `Typo`.
-179 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 8 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (237; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (20; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+289 tokens (0%) have a non-empty value of `Typo`.
+147 types (0%) occur at least once with a non-empty value of `Typo`.
+181 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 10 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (237; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (20; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `NUM`
 
@@ -88,6 +88,16 @@ The most frequent other feature values with which `DET` and `Typo` co-occurred: 
 
 * `Yes` (3; 100% of non-empty `Typo`): <em>niiguse, sama, to</em>
 
+### `AUX`
+
+2 <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=3</tt> (2; 100%), <tt><a href="et_edt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2; 100%).
+
+`AUX` tokens may have the following values of `Typo`:
+
+* `Yes` (2; 100% of non-empty `Typo`): <em>oli</em>
+
 ### `ADP`
 
 1 <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
@@ -97,6 +107,16 @@ The most frequent other feature values with which `ADP` and `Typo` co-occurred: 
 `ADP` tokens may have the following values of `Typo`:
 
 * `Yes` (1; 100% of non-empty `Typo`): <em>eest</em>
+
+### `PRON`
+
+1 <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="et_edt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%).
+
+`PRON` tokens may have the following values of `Typo`:
+
+* `Yes` (1; 100% of non-empty `Typo`): <em>ta</em>
 
 ## Relations with Agreement in `Typo`
 

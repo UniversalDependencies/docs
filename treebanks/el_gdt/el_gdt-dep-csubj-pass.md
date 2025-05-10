@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="el_gdt-dep-csubj.ht
 46 nodes (0%) are attached to their parents as `csubj:pass`.
 
 44 instances of `csubj:pass` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.08695652173913.
+Average distance between parent and child is 6.04347826086957.
 
 The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (42; 91% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (3; 7% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
@@ -73,18 +73,18 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 34	fgColor:white
 # visual-style 34 47 csubj:pass	color:blue
 1	Προβλέπει	προβλέπω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	ότι	ότι	SCONJ	SCONJ	_	6	mark	_	_
-3	θα	θα	AUX	AUX	_	6	aux	_	_
-4	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+2	ότι	ότι	SCONJ	SCONJ	_	4	mark	_	_
+3	θα	θα	AUX	AUX	_	4	aux	_	_
+4	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 5	να	να	AUX	AUX	_	6	aux	_	_
-6	τηρούνται	τηρώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	ccomp	_	_
+6	τηρούνται	τηρώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	csubj	_	_
 7	πάντα	πάντα	ADV	ADV	_	6	advmod	_	_
 8	ορισμένα	ορισμένος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	9	amod	_	_
 9	κριτήρια	κριτήριο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	6	nsubj:pass	_	_
-10	και	και	CCONJ	CCONJ	_	24	cc	_	_
-11	προπάντων	προπάντων	ADV	ADV	_	24	advmod	_	_
-12	θα	θα	AUX	AUX	_	24	aux	_	_
-13	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	aux	_	_
+10	και	και	CCONJ	CCONJ	_	13	cc	_	_
+11	προπάντων	προπάντων	ADV	ADV	_	13	advmod	_	_
+12	θα	θα	AUX	AUX	_	13	aux	_	_
+13	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
 14	από	από	ADP	ADP	_	17	case	_	_
 15	ένα	ένας	DET	DET	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	17	det	_	_
 16	ορισμένο	ορισμένος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	17	amod	_	_
@@ -95,14 +95,14 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 21	και	και	CCONJ	CCONJ	_	22	cc	_	_
 22	πάνω	πάνω	ADV	ADV	_	17	conj	_	_
 23	να	να	AUX	AUX	_	24	aux	_	_
-24	αποφασίζει	αποφασίζω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+24	αποφασίζει	αποφασίζω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	csubj	_	_
 25	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	Επιτροπή	επιτροπή	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	24	nsubj	_	_
 27	ως	ως	ADV	ADV	_	29	case	_	_
 28	συλλογικό	συλλογικός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	29	amod	_	_
 29	όργανο	όργανο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	24	obl	_	SpaceAfter=No
 30	,	,	PUNCT	PUNCT	_	34	punct	_	_
-31	έτσι	έτσι	ADV	ADV	_	34	mark	_	_
+31	έτσι	έτσι	ADV	ADV	ExtPos=SCONJ	34	mark	_	_
 32	ώστε	ώστε	SCONJ	SCONJ	_	31	fixed	_	_
 33	να	να	AUX	AUX	_	34	aux	_	_
 34	καθίσταται	καθίσταμαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	24	advcl	_	_

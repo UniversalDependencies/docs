@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sv_pud-dep-compound.html">compound</a></tt>.
 
-183 nodes (1%) are attached to their parents as `compound:prt`.
+182 nodes (1%) are attached to their parents as `compound:prt`.
 
-182 instances of `compound:prt` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.40983606557377.
+181 instances of `compound:prt` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.41208791208791.
 
-The following 5 pairs of parts of speech are connected with `compound:prt`: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (135; 74% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (41; 22% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `compound:prt`: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (134; 74% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (41; 23% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -27,13 +27,13 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 3	anledningen	anledning	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	0	root	0:root	_
 4	till	till	ADP	PP	_	7	mark	7:mark	_
 5	att	att	SCONJ	SN	_	7	mark	7:mark	_
-6	vi	vi	PRON	PN|UTR|PLU|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Plur	7	nsubj	7:nsubj	_
+6	vi	vi	PRON	PN|UTR|PLU|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	7	nsubj	7:nsubj	_
 7	kommer	komma	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	3:acl:att	_
 8	tillbaka	tillbaka	ADV	PL	_	7	compound:prt	7:compound:prt	_
 9	för	för	ADP	PP	_	11	mark	11:mark	_
 10	att	att	PART	IE	_	11	mark	11:mark	_
 11	få	få	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	7	advcl	7:advcl:att	_
-12	mer	mycket	ADV	AB|KOM	Degree=Cmp	11	obj	11:obj	SpaceAfter=No
+12	mer	mycket	PRON	AB|KOM	Definite=Ind|PronType=Ind	11	obj	11:obj	SpaceAfter=No
 13	.	.	PUNCT	MAD	_	3	punct	3:punct	_
 
 ~~~

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5120 nodes (13%) are attached to their parents as `case`.
+12674 nodes (14%) are attached to their parents as `case`.
 
-5120 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4634765625.
+12674 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.54355373204987.
 
-The following 9 pairs of parts of speech are connected with `case`: <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (2751; 54% instances), <tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt>-<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (1253; 24% instances), <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (660; 13% instances), <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt>-<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (345; 7% instances), <tt><a href="hbo_ptnk-pos-ADV.html">ADV</a></tt>-<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (60; 1% instances), <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (31; 1% instances), <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt>-<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="hbo_ptnk-pos-AUX.html">AUX</a></tt>-<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hbo_ptnk-pos-PART.html">PART</a></tt>-<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+The following 9 pairs of parts of speech are connected with `case`: <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (7785; 61% instances), <tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt>-<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (2689; 21% instances), <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (1249; 10% instances), <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt>-<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (731; 6% instances), <tt><a href="hbo_ptnk-pos-ADV.html">ADV</a></tt>-<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (86; 1% instances), <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (73; 1% instances), <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt>-<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (55; 0% instances), <tt><a href="hbo_ptnk-pos-AUX.html">AUX</a></tt>-<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt>-<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,13 +22,13 @@ The following 9 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 case	color:blue
-1	וְ	ו	CCONJ	conj	_	3	cc	_	Gloss=and|Ref=GEN_6.8
-2	נֹ֕חַ	נח	PROPN	nmpr	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Noah|Ref=GEN_6.8
-3	מָ֥צָא	מצא	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=find|Ref=GEN_6.8
-4	חֵ֖ן	חן	NOUN	subs	Gender=Masc|Number=Sing	3	obj	_	Gloss=grace|Ref=GEN_6.8
-5	בְּ	ב	ADP	prep	_	6	case	_	Gloss=in|Ref=GEN_6.8
-6	עֵינֵ֥י	עין	NOUN	subs	Gender=Fem|Number=Dual	3	obl	_	Gloss=eye|Ref=GEN_6.8
-7	יְהוָֽה	יהוה	PROPN	nmpr	Gender=Masc|Number=Sing	6	compound:smixut	_	Gloss=YHWH|Ref=GEN_6.8|SpaceAfter=No
+1	וְ	ו	CCONJ	conj	_	3	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_6.8|Ref[BHSA]=2761|Ref[MACULA]=o010060080011|Translit=ṿe
+2	נֹ֕חַ	נח	PROPN	nmpr	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Noah|LId[SDBH]=004717001001000|LId[Strongs]=5146|Ref=GEN_6.8|Ref[BHSA]=2762|Ref[MACULA]=o010060080012|Translit=noḥa
+3	מָ֥צָא	מצא	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=find|LId[SDBH]=004280001020000|LId[Strongs]=4672|Ref=GEN_6.8|Ref[BHSA]=2763|Ref[MACULA]=o010060080021|Translit=matsaʼ
+4	חֵ֖ן	חן	NOUN	subs	Gender=Masc|Number=Sing	3	obj	_	Gloss=grace|LId[SDBH]=002377001002000|LId[Strongs]=2580|Ref=GEN_6.8|Ref[BHSA]=2764|Ref[MACULA]=o010060080031|Translit=ḥen
+5	בְּ	ב	ADP	prep	_	6	case	_	Gloss=in|LId[Strongs]=b|Ref=GEN_6.8|Ref[BHSA]=2765|Ref[MACULA]=o010060080041|Translit=be
+6	עֵינֵ֥י	עין	NOUN	subs	Gender=Fem|Number=Dual	3	obl	_	Gloss=eye|LId[SDBH]=005389001001000|LId[Strongs]=5869a|Ref=GEN_6.8|Ref[BHSA]=2766|Ref[MACULA]=o010060080042|Translit=ʻene
+7	יְהוָֽה	יהוה	PROPN	nmpr	Gender=Masc|Number=Sing	6	compound:smixut	_	Gloss=YHWH|LId[SDBH]=002823001001000|LId[Strongs]=3068|Ref=GEN_6.8|Ref[BHSA]=2767|Ref[MACULA]=o010060080051|SpaceAfter=No|Translit=yehṿah
 8	׃	׃	PUNCT	punct	_	3	punct	_	Ref=GEN_6.8
 9	פ	פ	PUNCT	punct	_	3	punct	_	Ref=GEN_6.8
 
@@ -41,14 +41,14 @@ The following 9 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 case	color:blue
-1	וַ	ו	CCONJ	conj	_	4	cc	_	Gloss=and|Ref=GEN_11.30
-2	תְּהִ֥י	היה	AUX	verb	Gender=Fem|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	Gloss=be|Ref=GEN_11.30
-3	שָׂרַ֖י	שׂרי	PROPN	nmpr	Gender=Fem|Number=Sing	4	nsubj	_	Gloss=Sarai|Ref=GEN_11.30
-4	עֲקָרָ֑ה	עקר	ADJ	adjv	Gender=Fem|Number=Sing	0	root	_	Gloss=barren|Ref=GEN_11.30
-5	אֵ֥ין	אין	VERB	subs	Mood=Ind|VerbForm=Fin	4	parataxis	_	Gloss=<NEG>|Ref=GEN_11.30
-6	לָ֖	ל	ADP	prep	_	7	case	_	Gloss=to|Ref=GEN_11.30
-7	הּ	היא	PRON	prn	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obl	_	Ref=GEN_11.30
-8	וָלָֽד	ולד	NOUN	subs	Gender=Masc|Number=Sing	5	nsubj	_	Gloss=child|Ref=GEN_11.30|SpaceAfter=No
+1	וַ	ו	CCONJ	conj	_	4	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_11.30|Ref[BHSA]=5426|Ref[MACULA]=o010110300011|Translit=ṿa
+2	תְּהִ֥י	היה	AUX	verb	Gender=Fem|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	Gloss=be|LId[Strongs]=1961|Ref=GEN_11.30|Ref[BHSA]=5427|Ref[MACULA]=o010110300012|Translit=tehi
+3	שָׂרַ֖י	שׂרי	PROPN	nmpr	Gender=Fem|Number=Sing	4	nsubj	_	Gloss=Sarai|LId[SDBH]=007100001001000|LId[Strongs]=8297|Ref=GEN_11.30|Ref[BHSA]=5428|Ref[MACULA]=o010110300021|Translit=śarai
+4	עֲקָרָ֑ה	עקר	ADJ	adjv	Gender=Fem|Number=Sing	0	root	_	Gloss=barren|LId[SDBH]=005634001001000|LId[Strongs]=6135|Ref=GEN_11.30|Ref[BHSA]=5429|Ref[MACULA]=o010110300031|Translit=ʻaḳarah
+5	אֵ֥ין	אין	VERB	subs	Mood=Ind|VerbForm=Fin	4	parataxis	_	Gloss=<NEG>|LId[Strongs]=369|Ref=GEN_11.30|Ref[BHSA]=5430|Ref[MACULA]=o010110300041|Translit=ʼen
+6	לָ֖	ל	ADP	prep	_	7	case	_	Gloss=to|LId[Strongs]=l|Ref=GEN_11.30|Ref[BHSA]=5431|Ref[MACULA]=o010110300051|Translit=la
+7	הּ	היא	PRON	prn	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obl	_	Ref=GEN_11.30|Ref[MACULA]=o010110300052|Translit=h
+8	וָלָֽד	ולד	NOUN	subs	Gender=Masc|Number=Sing	5	nsubj	_	Gloss=child|LId[SDBH]=001903001001000|LId[Strongs]=2056|Ref=GEN_11.30|Ref[BHSA]=5432|Ref[MACULA]=o010110300061|SpaceAfter=No|Translit=ṿalad
 9	׃	׃	PUNCT	punct	_	4	punct	_	Ref=GEN_11.30
 
 ~~~
@@ -60,17 +60,17 @@ The following 9 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 case	color:blue
-1	וַ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|Ref=GEN_4.13
-2	יֹּ֥אמֶר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=say|Ref=GEN_4.13
-3	קַ֖יִן	קין	PROPN	nmpr	Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Kain|Ref=GEN_4.13
-4	אֶל	אל	ADP	prep	_	6	case	_	Gloss=to|Ref=GEN_4.13|SpaceAfter=No
+1	וַ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_4.13|Ref[BHSA]=1871|Ref[MACULA]=o010040130011|Translit=ṿa
+2	יֹּ֥אמֶר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=say|LId[SDBH]=000512001001000|LId[Strongs]=559|Ref=GEN_4.13|Ref[BHSA]=1872|Ref[MACULA]=o010040130012|Translit=yoʼmer
+3	קַ֖יִן	קין	PROPN	nmpr	Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Kain|LId[SDBH]=006453002001000|LId[Strongs]=7014b|Ref=GEN_4.13|Ref[BHSA]=1873|Ref[MACULA]=o010040130021|Translit=ḳayin
+4	אֶל	אל	ADP	prep	_	6	case	_	Gloss=to|LId[Strongs]=413|Ref=GEN_4.13|Ref[BHSA]=1874|Ref[MACULA]=o010040130031|SpaceAfter=No|Translit=ʼel
 5	־	־	PUNCT	punct	_	4	punct	_	Ref=GEN_4.13|SpaceAfter=No
-6	יְהוָ֑ה	יהוה	PROPN	nmpr	Gender=Masc|Number=Sing	2	obl	_	Gloss=YHWH|Ref=GEN_4.13
-7	גָּדֹ֥ול	גדול	ADJ	adjv	Gender=Masc|Number=Sing	2	ccomp	_	Gloss=great|Ref=GEN_4.13
-8	עֲוֹנִ֖	עון	NOUN	subs	Gender=Masc|Number=Sing	7	nsubj	_	Gloss=sin|Ref=GEN_4.13
-9	י	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	8	nmod:poss	_	Ref=GEN_4.13
-10	מִ	מן	ADP	prep	_	11	case	_	Gloss=from|Ref=GEN_4.13
-11	נְּשֹֽׂא	נשׂא	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	7	advcl	_	Gloss=lift|Ref=GEN_4.13
+6	יְהוָ֑ה	יהוה	PROPN	nmpr	Gender=Masc|Number=Sing	2	obl	_	Gloss=YHWH|LId[SDBH]=002823001001000|LId[Strongs]=3068|Ref=GEN_4.13|Ref[BHSA]=1875|Ref[MACULA]=o010040130041|Translit=yehṿah
+7	גָּדֹ֥ול	גדול	ADJ	adjv	Gender=Masc|Number=Sing	2	ccomp	_	Gloss=great|LId[SDBH]=001299001004000|LId[Strongs]=1419a|Ref=GEN_4.13|Ref[BHSA]=1876|Ref[MACULA]=o010040130051|Translit=gadol
+8	עֲוֹנִ֖	עון	NOUN	subs	Gender=Masc|Number=Sing	7	nsubj	_	Gloss=sin|LId[SDBH]=005298001001000|LId[Strongs]=5771|Ref=GEN_4.13|Ref[BHSA]=1877|Ref[MACULA]=o010040130061|Translit=ʻaoni
+9	י	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	8	nmod:poss	_	LId[SDBH]=005298001001000|Ref=GEN_4.13|Ref[MACULA]=o010040130062|Translit=
+10	מִ	מן	ADP	prep	_	11	case	_	Gloss=from|LId[Strongs]=m|Ref=GEN_4.13|Ref[BHSA]=1878|Ref[MACULA]=o010040130071|Translit=mi
+11	נְּשֹֽׂא	נשׂא	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	7	advcl	_	Gloss=lift|LId[SDBH]=004924001010000|LId[Strongs]=5375|Ref=GEN_4.13|Ref[BHSA]=1879|Ref[MACULA]=o010040130072|Translit=neśoʼ
 12	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_4.13
 
 ~~~

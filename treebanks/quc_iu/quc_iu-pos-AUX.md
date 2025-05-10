@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Kiche-IU: POS Tags: `AUX`
 
 There are 2 `AUX` lemmas (0%), 4 `AUX` types (0%) and 227 `AUX` tokens (2%).
-Out of 15 observed tags, the rank of `AUX` is: 15 in number of lemmas, 15 in number of types and 9 in number of tokens.
+Out of 16 observed tags, the rank of `AUX` is: 15 in number of lemmas, 15 in number of types and 9 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>taj, tajin</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.000000 (the average of all parts of speech is 1.617880).
+The form / lemma ratio of `AUX` is 2.000000 (the average of all parts of speech is 1.617435).
 
 The 1st highest number of forms (3) was observed with the lemma “taj”: <em>ta, taj, tuʼ</em>.
 

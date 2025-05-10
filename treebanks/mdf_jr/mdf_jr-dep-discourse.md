@@ -27,7 +27,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 3	хромовай	хромовай	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	4	amod	_	GTtags=Sg,Nom,Indef
 4	кямот	кяме	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	2	obj	_	GTtags=Pl,Nom,Indef
 5	—	—	PUNCT	PUNCT	_	7	punct	_	_
-6	эста	эста	ADV	Adv	AdvType=Tim	7	advmod:tmod	_	GTtags=Sem/Time
+6	эста	эста	ADV	Adv	AdvType=Tim	7	advmod	_	GTtags=Sem/Time
 7	няйсак	няемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|VerbForm=Fin	2	parataxis	_	GTtags=Ind,Prs,ScSg2,OcSg3|SpaceAfter=No
 8	!	!	PUNCT	PUNCT	_	2	punct	_	_
 
@@ -41,7 +41,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 3	fgColor:white
 # visual-style 3 1 discourse	color:blue
 1	Вай	вай	INTJ	Interj	_	3	discourse	_	_
-2	конашкава	конашкава	ADV	Adv	_	3	advmod:deg	_	_
+2	конашкава	конашкава	ADV	Adv	_	3	advmod	_	_
 3	ужяль	ужяль	ADV	Adv	_	0	root	_	_
 4	вазнясь	вазня	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	nsubj:cop	_	GTtags=Sg,Nom,Def|SpaceAfter=No
 5	!	!	PUNCT	CLB	_	3	punct	_	_

@@ -11,7 +11,7 @@ It occurs with 2 different values: `Anim`, `Inan`.
 
 17758 tokens (28%) have a non-empty value of `Animacy`.
 9042 types (50%) occur at least once with a non-empty value of `Animacy`.
-4859 lemmas (49%) occur at least once with a non-empty value of `Animacy`.
+4858 lemmas (49%) occur at least once with a non-empty value of `Animacy`.
 The feature is used with 7 part-of-speech tags: <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> (15618; 24% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (702; 1% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (560; 1% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> (529; 1% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (246; 0% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (88; 0% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (15; 0% instances).
 
 ### `NOUN`
@@ -22,8 +22,8 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 `NOUN` tokens may have the following values of `Animacy`:
 
-* `Anim` (1614; 10% of non-empty `Animacy`): <em>люди, друг, мать, птицы, бог, людей, поэт, ангел, дети, человек</em>
-* `Inan` (14004; 90% of non-empty `Animacy`): <em>сердце, жизнь, день, ночь, ветер, мир, руки, солнце, жизни, вечер</em>
+* `Anim` (1615; 10% of non-empty `Animacy`): <em>люди, друг, мать, птицы, бог, людей, поэт, ангел, дети, человек</em>
+* `Inan` (14003; 90% of non-empty `Animacy`): <em>сердце, жизнь, день, ночь, ветер, мир, руки, солнце, жизни, вечер</em>
 * `EMPTY` (7): <em>Кн., г., СБ., пр., смертному</em>
 
 <table>
@@ -66,6 +66,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
   <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>чем</em></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td></td><td><em>чем, чём</em></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>чем</em></td></tr>
+  <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_poetry-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>что</em></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>что</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Exc</tt></tt></td><td></td><td><em>что</em></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td></td><td><em>что</em></td></tr>
@@ -82,7 +83,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 * `Anim` (33; 6% of non-empty `Animacy`): <em>красных, Черного, белых, любимых, родного, Светских, бедного, безвременных, беспощадного, богатых</em>
 * `Inan` (527; 94% of non-empty `Animacy`): <em>последний, тихий, белый, черный, безумные, былые, звездный, легкий, серые, серый</em>
-* `EMPTY` (5460): <em>равно, милая, белый, золотые, лучше, тихий, хорошо, белая, белые, первый</em>
+* `EMPTY` (5461): <em>равно, милая, белый, золотые, лучше, тихий, хорошо, белая, белые, первый</em>
 
 <table>
   <tr><th>Paradigm <i>белый</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -96,12 +97,12 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 529 <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> tokens (90% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (519; 98%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (335; 63%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (519; 98%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (334; 63%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
-* `Anim` (327; 62% of non-empty `Animacy`): <em>Воронский, Анжелина, Иуда, Сулико, Ара, Изабелла, оголива, Арину, ВЛАДИМИРА, Владимир</em>
-* `Inan` (202; 38% of non-empty `Animacy`): <em>Волге, Москва, Москве, Русь, Восток, Париж, Россию, Россия, Руси, Петроград</em>
+* `Anim` (326; 62% of non-empty `Animacy`): <em>Воронский, Анжелина, Иуда, Сулико, Ара, Изабелла, оголива, Арину, ВЛАДИМИРА, Владимир</em>
+* `Inan` (203; 38% of non-empty `Animacy`): <em>Волге, Москва, Москве, Русь, Восток, Париж, Россию, Россия, Руси, Петроград</em>
 * `EMPTY` (59): <em>А., В., Н., М., П., С., Т., Д., И., К.</em>
 
 <table>
@@ -110,7 +111,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
   <tr><td><tt><tt><a href="ru_poetry-feat-NameType.html">NameType</a></tt><tt>=Giv</tt></tt></td><td><em>Геркулес</em></td><td></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (349) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (348) occur only with one value of `Animacy`.
 
 ### `DET`
 
@@ -171,7 +172,7 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="ru_poetry-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1897; 85%),
+<tt>NOUN --[<tt><a href="ru_poetry-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1896; 85%),
 <tt>NOUN --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1364; 94%),
 <tt>NOUN --[<tt><a href="ru_poetry-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (246; 94%),
 <tt>NOUN --[<tt><a href="ru_poetry-dep-appos.html">appos</a></tt>]--> NOUN</tt> (142; 82%),

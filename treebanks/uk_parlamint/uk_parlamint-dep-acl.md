@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="uk_parlamint-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-403 nodes (1%) are attached to their parents as `acl`.
+565 nodes (1%) are attached to their parents as `acl`.
 
-403 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.14640198511166.
+564 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.16814159292035.
 
-The following 18 pairs of parts of speech are connected with `acl`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (183; 45% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (149; 37% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (23; 6% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (15; 4% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (9; 2% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `acl`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (253; 45% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (197; 35% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (35; 6% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (21; 4% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (16; 3% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,25 +60,23 @@ The following 18 pairs of parts of speech are connected with `acl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 10 acl	color:blue
-1	Ви	ви	PRON	PRON	Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
-2	зверніть	звернути	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
-3	увагу	увага	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
-4	на	на	ADP	ADP	Case=Acc	5	case	_	_
-5	те	те	PRON	PRON	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	obl	_	SpaceAfter=No
-6	,	,	PUNCT	PUNCT	_	10	punct	_	_
-7	що	що	SCONJ	SCONJ	_	10	mark	_	_
-8	такі	такий	DET	DET	Case=Nom|Number=Plur|PronType=Dem	9	det	_	_
-9	проекти	проект	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
-10	повинні	повинний	ADJ	ADJ	Case=Nom|Number=Plur	5	acl	_	_
-11	хоча	хоча	PART	PART	_	13	discourse	_	_
-12	б	б	PART	PART	_	11	fixed	_	_
-13	вичитуватися	вичитуватися	VERB	VERB	Aspect=Imp|Reflex=Yes|VerbForm=Inf	10	xcomp	_	SpaceAfter=No
-14	.	.	PUNCT	PUNCT	_	2	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 8 acl	color:blue
+1	Головне	головне	NOUN	ADJ	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	те	те	PRON	PRON	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	8	punct	_	_
+4	що	що	SCONJ	SCONJ	_	8	mark	_	_
+5	всі	весь	DET	DET	Case=Nom|Number=Plur|PronType=Tot	7	det	_	_
+6	ці	цей	DET	DET	Case=Nom|Number=Plur|PronType=Dem	7	det	_	_
+7	питання	питання	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	8	nsubj	_	_
+8	повинні	повинний	ADJ	ADJ	Case=Nom|Number=Plur	2	acl	_	_
+9	вирішуватися	вирішуватися	VERB	VERB	Aspect=Imp|Reflex=Yes|VerbForm=Inf	8	xcomp	_	_
+10	у	у	ADP	ADP	Case=Loc	11	case	_	_
+11	комплексі	комплекс	NOUN	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+12	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

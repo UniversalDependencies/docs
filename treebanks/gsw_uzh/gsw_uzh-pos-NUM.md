@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of NUM in UD_Swiss_German-UZH'
+title:  'Statistics of NUM in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: POS Tags: `NUM`
+## Treebank Statistics: UD_Alemannic-UZH: POS Tags: `NUM`
 
 There are 1 `NUM` lemmas (7%), 12 `NUM` types (2%) and 13 `NUM` tokens (1%).
 Out of 15 observed tags, the rank of `NUM` is: 8 in number of lemmas, 11 in number of types and 14 in number of tokens.

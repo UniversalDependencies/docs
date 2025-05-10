@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.111111 (the average of all parts of speech is 1.526854).
+The form / lemma ratio of `NUM` is 1.111111 (the average of all parts of speech is 1.538660).
 
 The 1st highest number of forms (2) was observed with the lemma “kaks'”: <em>kaht, kaks'</em>.
 

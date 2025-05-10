@@ -37,5 +37,5 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (2; 100% of non-empty `Degree`): <em>μᾶλλον</em>
-* `EMPTY` (1055): <em>μὴ, οὐκ, ἐκεῖ, οὐ, ἔτι, νῦν, οὖν, σφόδρα, οὕτως, ἡνίκα</em>
+* `EMPTY` (1053): <em>μὴ, οὐκ, ἐκεῖ, οὐ, ἔτι, νῦν, οὖν, σφόδρα, οὕτως, ἡνίκα</em>
 

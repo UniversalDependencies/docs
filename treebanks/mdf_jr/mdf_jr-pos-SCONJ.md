@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>кда</em> (<tt><a href="mdf_jr-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.125000 (the average of all parts of speech is 1.550071).
+The form / lemma ratio of `SCONJ` is 1.125000 (the average of all parts of speech is 1.547887).
 
 The 1st highest number of forms (2) was observed with the lemma “кда”: <em>кда, къда</em>.
 
@@ -44,13 +44,13 @@ The 2nd highest number of forms (1) was observed with the lemma “бта”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “кода”: <em>кода</em>.
 
-`SCONJ` occurs with 3 features: <tt><a href="mdf_jr-feat-Style.html">Style</a></tt> (2; 8% instances), <tt><a href="mdf_jr-feat-AdvType.html">AdvType</a></tt> (1; 4% instances), <tt><a href="mdf_jr-feat-Clitic.html">Clitic</a></tt> (1; 4% instances)
+`SCONJ` occurs with 4 features: <tt><a href="mdf_jr-feat-ExtPos.html">ExtPos</a></tt> (2; 8% instances), <tt><a href="mdf_jr-feat-Style.html">Style</a></tt> (2; 8% instances), <tt><a href="mdf_jr-feat-AdvType.html">AdvType</a></tt> (1; 4% instances), <tt><a href="mdf_jr-feat-Clitic.html">Clitic</a></tt> (1; 4% instances)
 
-`SCONJ` occurs with 3 feature-value pairs: `AdvType=Tim`, `Clitic=I`, `Style=Ped`
+`SCONJ` occurs with 4 feature-value pairs: `AdvType=Tim`, `Clitic=I`, `ExtPos=ADV`, `Style=Ped`
 
-`SCONJ` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (22 tokens).
-Examples: <em>кда, што, кода, хоть, бта, то</em>
+`SCONJ` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (20 tokens).
+Examples: <em>кда, кода, хоть, што, бта, то</em>
 
 
 ## Relations

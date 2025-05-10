@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (653; 100% of non-empty `Abbr`): <em>USA, Frp, FN, EU, Ap, KrF, SV, Sp, Fr.p., FNs</em>
-* `EMPTY` (17607): <em>Norge, Obama, Regjeringen, Jan, Oslo, Den, Svalbard, Mayen, Stortinget, Espen</em>
+* `EMPTY` (17576): <em>Norge, Obama, Regjeringen, Jan, Oslo, Den, Svalbard, Mayen, Stortinget, Espen</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (40) occur only with one value of `Abbr`.
 

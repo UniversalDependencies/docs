@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Ansu Berg, Roald Eiselen, Tanja Gaustad, Rigardt Pretorius.
 
 Repository: [UD_Tswana-Popapolelo](https://github.com/UniversalDependencies/UD_Tswana-Popapolelo)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtn_popapolelo215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtn_popapolelo216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 

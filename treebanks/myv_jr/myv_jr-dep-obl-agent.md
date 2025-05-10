@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-obl.html">obl</a></tt>.
-There are also 6 other language-specific subtypes of `obl`: <tt><a href="myv_jr-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="myv_jr-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="myv_jr-dep-obl-inst.html">obl:inst</a></tt>, <tt><a href="myv_jr-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="myv_jr-dep-obl-own.html">obl:own</a></tt>, <tt><a href="myv_jr-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are also 3 other language-specific subtypes of `obl`: <tt><a href="myv_jr-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="myv_jr-dep-obl-own.html">obl:own</a></tt>, <tt><a href="myv_jr-dep-obl-tmod.html">obl:tmod</a></tt>.
 
 33 nodes (0%) are attached to their parents as `obl:agent`.
 
@@ -23,8 +23,8 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 obl:agent	color:blue
-1	Ансяк	ансяк	ADV	Adv	_	4	advmod:foc	_	GTtags=Exclusive
-2	бу	бу	AUX	Pcle	_	4	aux:cnd	_	_
+1	Ансяк	ансяк	ADV	Adv	_	4	advmod	_	GTtags=Exclusive
+2	бу	бу	AUX	Pcle	Mood=Cnd	4	aux	_	_
 3	сонензэ	сон	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obl:agent	_	GTtags=Pers,Sg3,Dat
 4	кирдевель	кирдемс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=3	0	root	_	GTtags=TV,Conj,ScSg3
 5	те	те	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	6	det	_	GTtags=Dem,Sg,Nom,Indef
@@ -42,7 +42,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 6 5 obl:agent	color:blue
 1	Эно	эно	ADV	Pcle	AdvType=Mod	2	discourse	_	CGdephead=#1-&gt;1|CGdeprel=@X|GTtags=Epist
 2	лиседе	лисемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=2	0	root	_	CGdephead=#2-&gt;2|CGdeprel=@-FADVL-partitive&gt;|GTtags=SP,Abl,Indef
-3	ушов	ушо	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	2	obl:lmod	_	CGdephead=#3-&gt;5|CGdeprel=@&gt;N|GTtags=SP,Lat,Indef
+3	ушов	ушо	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	2	obl	_	CGdephead=#3-&gt;5|CGdeprel=@&gt;N|GTtags=SP,Lat,Indef
 4	—	—	PUNCT	PUNCT	_	6	punct	_	CGdephead=#4-&gt;4|CGdeprel=@CLB|GTtags=PUNCT
 5	эйкакштненень	эйкакш	NOUN	N	Case=Dat|Definite=Def|Number=Plur	6	obl:agent	_	CGdephead=#5-&gt;5|CGdeprel=@ADVL|GTtags=Pl,Dat,Def
 6	лексемс	лексемс	VERB	V	VerbForm=Inf	2	conj	_	CGdephead=#6-&gt;6|CGdeprel=@IMV|GTtags=IV,Inf

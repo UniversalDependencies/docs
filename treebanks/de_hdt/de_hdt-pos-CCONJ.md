@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>und</em> (<tt><a href="de_hdt-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.222222 (the average of all parts of speech is 2.529726).
+The form / lemma ratio of `CCONJ` is 1.222222 (the average of all parts of speech is 1.295646).
 
 The 1st highest number of forms (6) was observed with the lemma “und”: <em>&, +, u., und, und/oder, usw.</em>.
 

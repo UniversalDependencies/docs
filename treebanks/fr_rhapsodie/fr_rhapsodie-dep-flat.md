@@ -23,19 +23,19 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 flat	color:blue
-1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	SpaceAfter=No
-2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	SpaceAfter=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	_
 4	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 5	te	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	6	obj	_	_
-6	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	discourse	_	SpaceAfter=No
+6	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	discourse	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
-8	dix-huit	dix-huit	NUM	_	Number=Plur	2	obl:mod	_	_
+8	dix-huit	dix-huit	NUM	_	Number=Plur	0	root	_	_
 9	cent	cent	NUM	_	Number=Plur	8	flat	_	_
 10	soixante-dix	soixante-dix	NUM	_	Number=Plur	8	flat	_	_
 11	par	par	ADP	_	_	12	case	_	_
 12	là	là	ADV	_	_	8	advmod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	2	punct	_	_
+13	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

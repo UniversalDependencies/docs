@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of conj in UD_Swiss_German-UZH'
+title:  'Statistics of conj in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: Relations: `conj`
+## Treebank Statistics: UD_Alemannic-UZH: Relations: `conj`
 
 This relation is universal.
 

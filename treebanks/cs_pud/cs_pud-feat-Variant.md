@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 1 different values: `Short`.
 
 606 tokens (3%) have a non-empty value of `Variant`.
-204 types (3%) occur at least once with a non-empty value of `Variant`.
+205 types (3%) occur at least once with a non-empty value of `Variant`.
 166 lemmas (3%) occur at least once with a non-empty value of `Variant`.
 The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (379; 2% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (220; 1% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (7; 0% instances).
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `PRON` and `Variant` co-occurr
 
 220 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (10% of all `ADJ` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (220; 100%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (220; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (220; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (205; 93%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (205; 93%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (165; 75%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (112; 51%).
+The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (220; 100%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (220; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (220; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (205; 93%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (205; 93%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (165; 75%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (113; 51%).
 
 `ADJ` tokens may have the following values of `Variant`:
 

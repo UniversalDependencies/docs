@@ -9,12 +9,43 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `csubj`: <tt><a href="egy_ujaen-dep-csubj-outer.html">csubj:outer</a></tt>, <tt><a href="egy_ujaen-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-5 nodes (0%) are attached to their parents as `csubj`.
+12 nodes (0%) are attached to their parents as `csubj`.
 
-3 instances of `csubj` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.8.
+7 instances of `csubj` (58%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.
 
-The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (1; 20% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (1; 20% instances), <tt><a href="egy_ujaen-pos-NUM.html">NUM</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (1; 20% instances), <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (1; 20% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (1; 20% instances).
+The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (5; 42% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (4; 33% instances), <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="egy_ujaen-pos-NUM.html">NUM</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (1; 8% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 csubj	color:blue
+1	ḥtp.t	ḥtp.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Hiero=𓊵(:𓏏*𓊪)(𓏏:𓏝)
+2	mꜣꜣ.t	mꜣꜣ	VERB	_	Gender=Fem|Nominal=Yes|Number=Sing|SubForm=RelForm|Tense=Pres|VerbClass=2aered|VerbForm=Fin	1	csubj	_	Hiero=(𓌴:𓁹)𓄿𓏏𓄿|Tense=Pres
+3	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Hiero=𓎡|Pron=SFP
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 csubj	color:blue
+1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓
+2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
+3	wꜥb.n	wꜥb	VERB	_	SubForm=AbstRel|Tense=Past|VerbClass=3lit|VerbForm=Fin|Voice=Act	1	ccomp	_	Hiero=𓃂𓈖|SPC=Past-2
+4	wꜥb.n	wꜥb	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|SubForm=RelForm|Tense=Past|VerbClass=3lit|VerbForm=Fin	3	csubj	_	Hiero=𓃂𓈖|Tense=Past
+5	(⸗ꞽ)	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Hiero=No|Pron=SFP
+6	m	m	ADP	_	_	7	case	_	Hiero=𓅓|Status=Cons
+7	śḫ.t	śḫ.t	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	Hiero=𓋴(𓐍:𓏏)𓇏|Hierocl=Yes
+8	ꞽꜣr.w	ꞽꜣr	NOUN	_	Gender=Masc|Number=Plur	7	nmod:poss	_	Hiero=𓇋𓄿𓃭
+
+~~~
 
 
 ~~~ conllu
@@ -32,83 +63,38 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 7	ḥtp	ḥtp	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	Hiero=𓊵(:𓏏*𓊪)
 8	w(ꞽ)	wꞽ	INTJ	_	_	7	discourse	_	Hiero=𓅱
 9	ꜣ	ꜣ	PART	_	PartType=Mod	7	discourse	_	Hiero=𓄿
-10	pt(r)	ptr	VERB	Hierocl=Yes	Gender=Masc|VerbForm=Inf	7	csubj	_	Hiero=(𓊪*𓏏:)UC_1397B
-11	ꞽ.n	ꞽ	VERB	SPC=Past-2|Type=Pred	Tense=Past|VerbForm=Fin	3	parataxis	_	Hiero=𓇋:𓈖
-12	⸗śn	śn	PRON	Pron=SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	Hiero=𓋴𓈖
-13	ꞽn	ꞽn	ADP	Status=Cons	_	14	case	_	Hiero=𓇋:𓈖
+10	pt(r)	ptr	VERB	_	Gender=Masc|VerbClass=3lit|VerbForm=Inf	7	csubj	_	Hiero=(𓊪*𓏏:)UC_1397B|Hierocl=Yes
+11	ꞽ.n	ꞽ	VERB	_	SubForm=Pred|Tense=Past|VerbClass=Def|VerbForm=Fin	3	parataxis	_	Hiero=𓇋:𓈖|SPC=Past-2
+12	⸗śn	śn	PRON	_	Gender=Com|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	Hiero=𓋴𓈖|Pron=SFP
+13	ꞽn	ꞽn	ADP	_	_	14	case	_	Hiero=𓇋:𓈖|Status=Cons
 14	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	11	obl	_	Hiero=𓊹𓊹𓊹
-15	pr.t	pr	VERB	_	Gender=Masc|VerbForm=Inf	10	ccomp	_	Hiero=𓉐:𓂋:𓏏
-16	r	r	ADP	Status=Pron	_	17	case	_	Hiero=𓂋
-17	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obl	_	Hiero=𓆑
-18	nčr	nčr	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	15	nsubj	_	Hiero=𓊹𓅆
-19	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	18	det	_	Hiero=𓊪:𓈖
-20	ꞽr	r	ADP	Status=Cons	_	21	case	_	Hiero=𓇋𓂋
-21	p.t	p.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	15	obl	_	Hiero=(𓊪*𓏏:)𓇯
-22	pr.t	pr	VERB	_	Gender=Masc|VerbForm=Inf	15	conj	_	Hiero=𓉐:𓂋:𓏏
-23	r	r	ADP	Status=Pron	_	24	case	_	Hiero=𓂋
-24	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obl	_	Hiero=𓆑
-25	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	22	nsubj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
-26	r	r	ADP	Status=Cons	_	27	case	_	Hiero=𓂋
-27	p.t	p.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	22	obl	_	Hiero=(𓊪*𓏏:)𓇯
+15	pr.t	pri̯	VERB	_	Gender=Masc|VerbClass=3aeinf|VerbForm=Inf	10	ccomp	_	Hiero=𓉐:𓂋:𓏏
+16	r	r	ADP	_	_	17	case	_	Hiero=𓂋|Status=Pron
+17	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obl	_	Hiero=𓆑|Pron=SFP
+18	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	Hiero=𓊹𓅆|Hierocl=Yes
+19	pn	pn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	18	det	_	Dem|Hiero=𓊪:𓈖
+20	ꞽr	r	ADP	_	_	21	case	_	Hiero=𓇋𓂋|Status=Cons
+21	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	Hiero=(𓊪*𓏏:)𓇯|Hierocl=Yes
+22	pr.t	pri̯	VERB	_	Gender=Masc|VerbClass=3aeinf|VerbForm=Inf	15	conj	_	Hiero=𓉐:𓂋:𓏏
+23	r	r	ADP	_	_	24	case	_	Hiero=𓂋|Status=Pron
+24	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obl	_	Hiero=𓆑|Pron=SFP
+25	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	22	nsubj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
+26	r	r	ADP	_	_	27	case	_	Hiero=𓂋|Status=Cons
+27	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	22	obl	_	Hiero=(𓊪*𓏏:)𓇯|Hierocl=Yes
 28	bꜣ(.w)	bꜣ	NOUN	_	Gender=Masc|Number=Plur	31	nsubj	_	Hiero=𓅢
-29	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nmod	_	Hiero=𓆑
-30	ṭp	ṭp	ADP	Status=Cons|Hierocl=Yes	Case=Sup	31	case	_	Hiero=𓁶:𓏤
-31	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	advcl	_	Hiero=𓆑
-32	šꜥ.t	šꜥ.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	36	nsubj	_	Hiero=(𓈙:𓂝)(𓏏:UC_No)
-33	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	nmod	_	Hiero=𓆑
-34	r	r	ADP	Status=Cons	_	36	case	_	Hiero=𓂋
-35	gś(.wꞽ)	gś	NOUN	Hierocl=Yes	Gender=Masc|Number=Dual	34	fixed	_	Hiero=𓐜:𓐜
-36	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	conj	_	Hiero=𓆑
-37	ḥkꜣ(.w)	ḥkꜣ	NOUN	Hierocl=Yes	Gender=Masc|Number=Plur	41	nsubj	_	Hiero=𓎛𓂓(𓂓:𓂓)
-38	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	37	nmod	_	Hiero=𓆑
-39	ṭp	ṭp	ADP	Status=Cons|Hierocl=Yes	Case=Sup	41	case	_	Hiero=𓁶:𓏤
-40	rṭ(.wꞽ)	rṭ	NOUN	Hierocl=Yes	Gender=Masc|Number=Dual	39	fixed	_	Hiero=(𓂋:𓂧)𓂾𓂾
-41	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	conj	_	Hiero=𓆑
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 csubj	color:blue
-1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
-2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
-3	ntktk	ntktk	VERB	_	Gender=Masc|VerbForm=Inf	6	csubj	_	Hiero=(𓈖:𓏏:𓎡)(𓏏:𓎡)
-4	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Hiero=𓎡
-5	n	n	ADP	Status=Cons	Case=Ben	6	case	_	Hiero=𓈖
-6	tk.ꞽ	tk	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	ccomp	_	Hiero=(𓏏:𓎡)𓇋
-7	Ꞽkn	Ꞽkn	PROPN	_	Gender=Masc	6	vocative	_	Hiero=𓇋(𓎡:𓈖)
-8	hꞽ	hꞽ	NOUN	_	Gender=Masc|Number=Sing	7	flat	_	Hiero=𓉔𓇋𓆙
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 csubj	color:blue
-1	šsp.t	šsp	VERB	NOUN|VerbForm=RelForm|Tense=Pres	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	5	csubj	_	Hiero=𓊐(:𓊪*𓏏)
-2	rmč(.w)	rmč	NOUN	_	Gender=Masc|Number=Plur	1	nsubj	_	Hiero=𓂋𓅓𓍿
-3	ḳrś(.w)	ḳrś	VERB	SPC=PastPass|Type=Pred|Hierocl=Yes	Tense=Past|VerbForm=Fin|Voice=Pass	1	advcl	_	Hiero=(𓈎:𓂋)𓋴𓌟𓊭
-4	⸗śn	śn	PRON	Pron=SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	3	nsubj:pass	_	Hiero=𓋴𓈖
-5	ḫꜣ	ḫꜣ	NUM	CARD|NOUN	Gender=Masc|Number=Sing	0	root	_	Hiero=𓆼
-6	⸗ś	ś	PRON	Pron=SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Hiero=𓋴
-7	m	m	ADP	Status=Cons	_	8	case	_	Hiero=𓅓
-8	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	Hiero=𓏏:𓏐
-9	ḫꜣ	ḫꜣ	NUM	CARD|NOUN	Gender=Masc|Number=Sing	5	conj	_	Hiero=𓆼
-10	⸗ś	ś	PRON	Pron=SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nmod	_	Hiero=𓋴
-11	m	m	ADP	Status=Cons	_	12	case	_	Hiero=𓅓
-12	ḥ(n)ḳ.t	ḥnḳ.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	9	obl	_	Hiero=𓎛(𓈎:𓏏)𓏊
-13	ḥr	ḥr	ADP	Status=Cons	_	14	case	_	Hiero=𓁷
-14	wṭḥ.w	wṭḥ.w	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	5	obl	_	Hiero=𓅱𓂧𓎛𓅱𓊯
-15	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	14	amod	_	Hiero=𓈖
-16	Ḫnt(.ꞽ)	Ḫnt.ꞽ	PROPN	_	Gender=Masc	15	obl	_	Hiero=(𓏃:𓏏)
-17	ꞽmn.t(ꞽ)w	ꞽmn.tꞽ	ADJ	Nisba=Noun	Gender=Masc|Number=Plur	16	flat	_	Hiero=𓇋(𓏠:𓈖)𓅂
+29	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nmod	_	Hiero=𓆑|Poss=Yes|Pron=SFP
+30	ṭp	ṭp	ADP	_	Case=Sup	31	case	_	Hiero=𓁶:𓏤|Hierocl=Yes|Status=Cons
+31	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	advcl	_	Hiero=𓆑|Poss=Yes|Pron=SFP
+32	šꜥ.t	šꜥ.t	NOUN	_	Gender=Fem|Number=Sing	36	nsubj	_	Hiero=(𓈙:𓂝)(𓏏:UC_No)|Hierocl=Yes
+33	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	nmod	_	Hiero=𓆑|Poss=Yes|Pron=SFP
+34	r	r	ADP	_	ExtPos=ADP	36	case	_	Hiero=𓂋|Status=Cons
+35	gś(.wꞽ)	gś	NOUN	_	Gender=Masc|Number=Dual	34	fixed	_	Hiero=𓐜:𓐜|Hierocl=Yes
+36	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	conj	_	Hiero=𓆑|Pron=SFP
+37	ḥkꜣ(.w)	ḥkꜣ	NOUN	_	Gender=Masc|Number=Plur	41	nsubj	_	Hiero=𓎛𓂓(𓂓:𓂓)|Hierocl=Yes
+38	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	37	nmod	_	Hiero=𓆑|Poss=Yes|Pron=SFP
+39	ṭp	ṭp	ADP	_	Case=Sup|ExtPos=ADP	41	case	_	Hiero=𓁶:𓏤|Hierocl=Yes|Status=Cons
+40	rṭ(.wꞽ)	rṭ	NOUN	_	Gender=Masc|Number=Dual	39	fixed	_	Hiero=(𓂋:𓂧)𓂾𓂾|Hierocl=Yes
+41	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	conj	_	Hiero=𓆑|Pron=SFP
 
 ~~~
 

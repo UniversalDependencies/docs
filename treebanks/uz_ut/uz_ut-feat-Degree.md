@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="uz_ut-pos-ADJ.html"
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (4; 100% of non-empty `Degree`): <em>erkaroq, halokatliroq, keksaroq, pastroq</em>
-* `EMPTY` (456): <em>yangi, katta, yaxshi, baland, boshqa, keyingi, buyuk, keng, ko‘p, qattiq</em>
+* `EMPTY` (480): <em>yoʻq, yangi, katta, yaxshi, baland, bor, boshqa, keyingi, buyuk, keng</em>
 
 ### `ADV`
 
@@ -30,5 +30,5 @@ The feature is used with 2 part-of-speech tags: <tt><a href="uz_ut-pos-ADJ.html"
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>Avvalroq</em>
-* `EMPTY` (203): <em>ham, yana, eng, juda, bugun, hamisha, Endi, hali, hamon, qariyb</em>
+* `EMPTY` (202): <em>ham, yana, eng, juda, bugun, hamisha, qanday, Endi, hali, hamon</em>
 

@@ -23,20 +23,20 @@ The following 48 pairs of parts of speech are connected with `parataxis:conj`: <
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 8 parataxis:conj	color:blue
-1	#	#	X	_	_	3	dep	_	AlignBegin=27115|AlignEnd=27579|Gloss=PUNCT
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=27115|AlignEnd=27579|Gloss=PUNCT
 2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=27579|AlignEnd=27670|Gloss=NOM.SG.1
 3	dey	dey	VERB	_	VerbType=Cop	0	root	_	AlignBegin=27670|AlignEnd=27840|Gloss=be
 4	dere	dere	ADV	_	_	3	xcomp	_	AlignBegin=27840|AlignEnd=27980|Gloss=there
 5	o	o	PART	_	PartType=Disc	4	advmod	_	AlignBegin=27980|AlignEnd=28270|Gloss=EMPH
-6	//=	//=	X	_	_	8	dep	_	AlignBegin=28270|AlignEnd=28270|Gloss=PUNCT
+6	//=	//=	PUNCT	_	_	8	punct	_	AlignBegin=28270|AlignEnd=28270|Gloss=PUNCT
 7	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	AlignBegin=28270|AlignEnd=28450|Gloss=NOM.SG.1
 8	school	school	VERB	_	_	3	parataxis:conj	_	AlignBegin=28450|AlignEnd=28830|Gloss=school
 9	o	o	PART	_	PartType=Disc	8	advmod	_	AlignBegin=28830|AlignEnd=29030|Gloss=EMPH
-10	//=	//=	X	_	_	11	dep	_	AlignBegin=28830|AlignEnd=29030|Gloss=PUNCT
+10	//=	//=	PUNCT	_	_	11	punct	_	AlignBegin=28830|AlignEnd=29030|Gloss=PUNCT
 11	setay	sotay	ADV	_	_	8	parataxis:conj	_	AlignBegin=29060|AlignEnd=29610|Gloss=such_that
 12	four	four	NUM	_	NumType=Card	13	nummod	_	AlignBegin=29610|AlignEnd=29950|Gloss=four.CARD
 13	years	year	NOUN	_	Number=Plur	11	obl:mod	_	AlignBegin=29950|AlignEnd=30300|Gloss=year.PL
-14	//	//	X	_	_	3	dep	_	AlignBegin=30300|AlignEnd=30300|Gloss=PUNCT
+14	//	//	PUNCT	_	_	3	punct	_	AlignBegin=30300|AlignEnd=30300|Gloss=PUNCT
 
 ~~~
 
@@ -49,16 +49,16 @@ The following 48 pairs of parts of speech are connected with `parataxis:conj`: <
 # visual-style 5 8 parataxis:conj	color:blue
 1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	AlignBegin=179850|AlignEnd=180244|Gloss=NOM.SG.1
 2	say	say	VERB	_	_	0	root	_	AlignBegin=180244|AlignEnd=180639|Gloss=say
-3	[	[	X	_	_	5	dep	_	AlignBegin=180639|AlignEnd=180639|Gloss=PUNCT
+3	[	[	PUNCT	_	_	5	punct	_	AlignBegin=180639|AlignEnd=180639|Gloss=PUNCT
 4	aha	aha	INTJ	_	_	5	discourse	_	AlignBegin=180639|AlignEnd=181033|Gloss=ah
 5	oga	oga	NOUN	_	_	2	parataxis	_	AlignBegin=181033|AlignEnd=181427|Gloss=boss
 6	o	o	PART	_	PartType=Disc	5	advmod	_	AlignBegin=181427|AlignEnd=181821|Gloss=EMPH
-7	!//	!//	X	_	_	5	dep	_	AlignBegin=181821|AlignEnd=181821|Gloss=PUNCT
+7	!//	!//	PUNCT	_	_	5	punct	_	AlignBegin=181821|AlignEnd=181821|Gloss=PUNCT
 8	oga	oga	NOUN	_	_	5	parataxis:conj	_	AlignBegin=181821|AlignEnd=182216|Gloss=boss
 9	o	o	PART	_	PartType=Disc	8	advmod	_	AlignBegin=182216|AlignEnd=182610|Gloss=EMPH
-10	!//	!//	X	_	_	8	dep	_	AlignBegin=182610|AlignEnd=182610|Gloss=PUNCT
-11	]	]	X	_	_	5	dep	_	AlignBegin=182610|AlignEnd=182610|Gloss=PUNCT
-12	//	//	X	_	_	2	dep	_	AlignBegin=182610|AlignEnd=182610|Gloss=PUNCT
+10	!//	!//	PUNCT	_	_	8	punct	_	AlignBegin=182610|AlignEnd=182610|Gloss=PUNCT
+11	]	]	PUNCT	_	_	5	punct	_	AlignBegin=182610|AlignEnd=182610|Gloss=PUNCT
+12	//	//	PUNCT	_	_	2	punct	_	AlignBegin=182610|AlignEnd=182610|Gloss=PUNCT
 
 ~~~
 
@@ -71,18 +71,18 @@ The following 48 pairs of parts of speech are connected with `parataxis:conj`: <
 # visual-style 6 9 parataxis:conj	color:blue
 1	but	but	CCONJ	_	_	6	discourse	_	AlignBegin=64785|AlignEnd=64955|Gloss=but
 2	auntie	auntie	NOUN	_	_	6	vocative	_	AlignBegin=64955|AlignEnd=65124|Gloss=auntie
-3	<	<	X	_	_	2	dep	_	AlignBegin=65124|AlignEnd=65124|Gloss=PUNCT
+3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=65124|AlignEnd=65124|Gloss=PUNCT
 4	no	no	AUX	_	Polarity=Neg	6	aux	_	AlignBegin=65124|AlignEnd=65294|Gloss=NEG
 5	be	be	AUX	_	PartType=Cop	6	cop	_	AlignBegin=65294|AlignEnd=65463|Gloss=be1
 6	dat	dat	PRON	_	Number=Sing	0	root	_	AlignBegin=65463|AlignEnd=65633|Gloss=SG.DEM
-7	//=	//=	X	_	_	9	dep	_	AlignBegin=65633|AlignEnd=65803|Gloss=PUNCT
+7	//=	//=	PUNCT	_	_	9	punct	_	AlignBegin=65633|AlignEnd=65803|Gloss=PUNCT
 8	na	na	AUX	_	PartType=Cop	9	cop	_	AlignBegin=65633|AlignEnd=65803|Gloss=be1
 9	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	parataxis:conj	_	AlignBegin=65803|AlignEnd=65972|Gloss=NOM.SG.3
-10	>+	>+	X	_	_	11	dep	_	AlignBegin=65972|AlignEnd=65972|Gloss=PUNCT
+10	>+	>+	PUNCT	_	_	11	punct	_	AlignBegin=65972|AlignEnd=65972|Gloss=PUNCT
 11	be	be	VERB	_	PartType=Cop	9	advcl:cleft	_	AlignBegin=65972|AlignEnd=66142|Gloss=be1
 12	di	di	DET	_	Definite=Def|PronType=Art	13	det	_	AlignBegin=66142|AlignEnd=66311|Gloss=DEF.ART
 13	ting	ting	NOUN	_	_	11	nsubj	_	AlignBegin=66311|AlignEnd=66481|Gloss=thing
-14	//	//	X	_	_	6	dep	_	AlignBegin=66481|AlignEnd=66481|Gloss=PUNCT
+14	//	//	PUNCT	_	_	6	punct	_	AlignBegin=66481|AlignEnd=66481|Gloss=PUNCT
 
 ~~~
 

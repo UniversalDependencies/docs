@@ -70,16 +70,17 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 `ADP` tokens may have the following values of `Case`:
 
-* `Acc` (625; 16% of non-empty `Case`): <em>na, pro, za, o, po, v, ve, mimo, mezi, pod</em>
+* `Acc` (626; 16% of non-empty `Case`): <em>na, pro, za, o, po, v, ve, mimo, mezi, pod</em>
 * `Dat` (379; 10% of non-empty `Case`): <em>k, ke, oproti, vůči, proti</em>
 * `Gen` (1049; 27% of non-empty `Case`): <em>podle, do, z, u, od, včetně, ze, bez, ode, prostřednictvím</em>
 * `Ins` (371; 10% of non-empty `Case`): <em>s, mezi, pod, se, před, za, nad, přede</em>
-* `Loc` (1437; 37% of non-empty `Case`): <em>v, o, ve, na, při, po</em>
+* `Loc` (1436; 37% of non-empty `Case`): <em>v, o, ve, na, při, po</em>
 * `EMPTY` (4): <em>vzhledem</em>
 
 <table>
   <tr><th>Paradigm <i>za</i></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th></tr>
   <tr><td><tt></tt></td><td><em>za</em></td><td><em>za</em></td><td><em>za</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-ExtPos.html">ExtPos</a></tt><tt>=ADP</tt></tt></td><td></td><td></td><td><em>za</em></td></tr>
 </table>
 
 ### `DET`
@@ -163,10 +164,10 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5857; 98%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5847; 99%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-case.html">case</a></tt>]--> ADP</tt> (3139; 93%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1467; 82%),
-<tt>NOUN --[<tt><a href="cs_cltt-dep-det.html">det</a></tt>]--> DET</tt> (442; 70%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-det.html">det</a></tt>]--> DET</tt> (441; 71%),
 <tt>ADP --[<tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (251; 100%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (181; 88%),
 <tt>DET --[<tt><a href="cs_cltt-dep-case.html">case</a></tt>]--> ADP</tt> (110; 94%),

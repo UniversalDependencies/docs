@@ -18,10 +18,10 @@ The feature is used with 1 part-of-speech tags: <tt><a href="xav_xdt-pos-PART.ht
 
 1 <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PART` and `NumType` co-occurred: <tt><a href="xav_xdt-feat-Htp.html">Htp</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PART` and `NumType` co-occurred: <tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `PART` tokens may have the following values of `NumType`:
 
 * `Dist` (1; 100% of non-empty `NumType`): <em>mono</em>
-* `EMPTY` (381): <em>te, dza'ra, ma, e, hã, wa, norĩ, õ, dza, norĩhã</em>
+* `EMPTY` (320): <em>za'ra, hã, e, ma, za, õ, norĩ, tô, norĩhã, aba</em>
 

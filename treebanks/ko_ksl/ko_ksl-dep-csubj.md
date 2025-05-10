@@ -22,39 +22,37 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 csubj	color:blue
-1	지드래곤은	지드래곤+은	NOUN	NNP+JX	_	15	nsubj	_	_
-2	부래만	부래+만	NOUN	NF+JX	_	4	obj	_	_
-3	잘	잘	ADV	MAG	_	4	advmod	_	_
-4	부를	부르+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+1	나는	나+는	PRON	NP+JX	_	10	nsubj	_	_
+2	한국어를	한국어+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우고	배우+고	VERB	VV+EC	_	5	acl	_	_
+4	싶을	싶	AUX	VX+ETM	_	3	aux	_	_
 5	뿐만	뿐+만	NOUN	NNB+JX	_	6	csubj	_	_
-6	아니라	아니+라	VERB	VCN+EC	_	14	advcl	_	_
-7	무대	무대	NOUN	NNG	_	11	list	_	SpaceAfter=No
-8	,	,	PUNCT	SP	_	7	punct	_	_
-9	옷	옷	NOUN	NNG	_	11	list	_	SpaceAfter=No
-10	,	,	PUNCT	SP	_	9	punct	_	_
-11	춤까지	춤+까지	ADV	NNG+JX	_	13	obj	_	_
-12	다	다	ADV	MAG	_	14	advmod	_	_
-13	잘	잘	ADV	MAG	_	14	advmod	_	_
-14	하는	하+는	VERB	VV+ETM	_	15	acl	_	_
-15	분이다	분+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
-16	.	.	PUNCT	SF	_	15	punct	_	_
+6	아니라	아니+라	VERB	VCN+EC	_	10	advcl	_	_
+7	한국에	한국+에	ADV	NNP+JKB	_	8	obl	_	_
+8	와야	오+아야	VERB	VV+EC	_	10	ccomp	_	_
+9	한다고	하	AUX	VX+EC	_	8	aux	_	_
+10	생각했다	생각+하+았+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 csubj	color:blue
-1	걸에서	걸+에서	ADV	NF+JKB	_	5	obl	_	_
-2	외국인들은	외국인+들+은	NOUN	NNG+XSN+JX	_	5	nsubj	_	_
-3	교토에서	교토+에서	ADV	NNP+JKB	_	5	obl	_	_
-4	일본어를	일본어+를	NOUN	NNG+JKO	_	5	obj	_	_
-5	못해도	못하+아도	VERB	VV+EC	_	6	csubj	_	_
-6	괜잖다	괜잖+다	ADJ	NV+EF	_	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	SF	_	6	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 csubj	color:blue
+1	그냥	그냥	ADV	MAG	_	3	advmod	_	_
+2	김치만	김치+만	NOUN	NNG+JX	_	3	obj	_	_
+3	먹어도	먹+어도	VERB	VV+EC	_	4	advcl	_	_
+4	맛있고	맛+있+고	VERB	NNG+VA+EC	_	0	root	_	_
+5	밥의	밥+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	위에	위+에	ADV	NNG+JKB	_	7	obl	_	_
+7	놓어	놓+어	VERB	VV+EC	_	8	advcl	_	_
+8	먹어도	먹+어도	VERB	VV+EC	_	9	csubj	_	_
+9	좋다	좋+다	ADJ	VA+EF	_	4	conj	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
 
 ~~~
 
@@ -62,25 +60,21 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 csubj	color:blue
-1	오늘	오늘	NOUN	NNG	_	3	nmod	_	_
-2	뉴스를	뉴스+를	NOUN	NNG+JKO	_	3	obj	_	_
-3	보다가	보+다가	VERB	VV+EC	_	15	advcl	_	_
-4	사고로	사고+로	ADV	NNG+JKB	_	6	obl	_	_
-5	식물인간이	식물+인간+이	NOUN	NNG+NNG+JKC	_	6	nsubj	_	_
-6	된지	되+ㄴ+지	VERB	VV+ETM+NNB	_	7	csubj	_	_
-7	3년째인	3+년+째+이+ㄴ	VERB	SN+NNB+XSN+VCP+ETM	_	9	acl	_	_
-8	사람의	사람+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
-9	안락사를	안락사+를	NOUN	NNG+JKO	_	10	obj	_	_
-10	할까하는	하+ㄹ까+하+는	VERB	VV+EC+VX+ETM	_	11	ccomp	_	_
-11	고민하고	고민+하+고	VERB	NNG+XSV+EC	_	13	acl	_	_
-12	있는	있	AUX	VX+ETM	_	11	aux	_	_
-13	가족의	가족+의	NOUN	NNG+JKG	_	14	nmod:poss	_	_
-14	보도가	보도+가	NOUN	NNG+JKS	_	15	nsubj	_	_
-15	나왔다	나오+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
-16	.	.	PUNCT	SF	_	15	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 6 csubj	color:blue
+1	그	그	DET	MM	_	2	det	_	_
+2	때	때	ADV	NNG	_	9	advmod	_	_
+3	우리	우리	PRON	NP	_	4	nmod	_	_
+4	선생님께서	선생+님+께서	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+5	대학	대학	NOUN	NNG	_	6	obj	_	_
+6	촐업한지	촐업+하+ㄴ+지	VERB	NF+XSV+ETM+NNB	Typo=Yes	9	csubj	_	_
+7	얼마나	얼마나	ADV	MAG	_	9	advmod	_	_
+8	안	안	ADV	MAG	_	9	advmod	_	_
+9	됐으니까	되+었+으니까	VERB	VV+EP+EC	_	11	advcl	_	_
+10	정말	정말	ADV	MAG	_	11	advmod	_	_
+11	친하다	친하+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
 
 ~~~
 

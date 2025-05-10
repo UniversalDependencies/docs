@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Portuguese-DANTEStocks: POS Tags: `DET`
 
-There are 33 `DET` lemmas (0%), 84 `DET` types (1%) and 6726 `DET` tokens (8%).
-Out of 16 observed tags, the rank of `DET` is: 12 in number of lemmas, 11 in number of types and 5 in number of tokens.
+There are 31 `DET` lemmas (0%), 83 `DET` types (1%) and 6722 `DET` tokens (8%).
+Out of 16 observed tags, the rank of `DET` is: 13 in number of lemmas, 11 in number of types and 5 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>o, um, seu, esse, este, meu, qual, outro, algum, todo</em>
 
@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="pt_dantestocks-p
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.545455 (the average of all parts of speech is 1.238049).
+The form / lemma ratio of `DET` is 2.677419 (the average of all parts of speech is 1.238183).
 
 The 1st highest number of forms (6) was observed with the lemma “o”: <em>a, as, e, o, os, s</em>.
 
@@ -70,30 +70,30 @@ The 2nd highest number of forms (6) was observed with the lemma “todo”: <em>
 
 The 3rd highest number of forms (4) was observed with the lemma “algum”: <em>algum, alguma, algumas, alguns</em>.
 
-`DET` occurs with 6 features: <tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt> (6722; 100% instances), <tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt> (6673; 99% instances), <tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt> (6616; 98% instances), <tt><a href="pt_dantestocks-feat-Definite.html">Definite</a></tt> (5897; 88% instances), <tt><a href="pt_dantestocks-feat-Poss.html">Poss</a></tt> (311; 5% instances), <tt><a href="pt_dantestocks-feat-Typo.html">Typo</a></tt> (6; 0% instances)
+`DET` occurs with 7 features: <tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt> (6722; 100% instances), <tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt> (6673; 99% instances), <tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt> (6616; 98% instances), <tt><a href="pt_dantestocks-feat-Definite.html">Definite</a></tt> (5897; 88% instances), <tt><a href="pt_dantestocks-feat-Poss.html">Poss</a></tt> (311; 5% instances), <tt><a href="pt_dantestocks-feat-ExtPos.html">ExtPos</a></tt> (13; 0% instances), <tt><a href="pt_dantestocks-feat-Typo.html">Typo</a></tt> (6; 0% instances)
 
-`DET` occurs with 14 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `Typo=Yes`
+`DET` occurs with 16 feature-value pairs: `Definite=Def`, `Definite=Ind`, `ExtPos=ADV`, `ExtPos=SCONJ`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `Typo=Yes`
 
-`DET` occurs with 36 feature combinations.
+`DET` occurs with 38 feature combinations.
 The most frequent feature combination is `Definite=Def|Gender=Fem|Number=Sing|PronType=Art` (2826 tokens).
 Examples: <em>a</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 3 different relations: <tt><a href="pt_dantestocks-dep-det.html">det</a></tt> (6722; 100% instances), <tt><a href="pt_dantestocks-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 5 different relations: <tt><a href="pt_dantestocks-dep-det.html">det</a></tt> (6693; 100% instances), <tt><a href="pt_dantestocks-dep-fixed.html">fixed</a></tt> (15; 0% instances), <tt><a href="pt_dantestocks-dep-advmod.html">advmod</a></tt> (12; 0% instances), <tt><a href="pt_dantestocks-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (4550; 68% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (1884; 28% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (98; 1% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (74; 1% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (30; 0% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (30; 0% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (21; 0% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (18; 0% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (4550; 68% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (1884; 28% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (98; 1% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (74; 1% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (30; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (26; 0% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (21; 0% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (18; 0% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (1; 0% instances)
 
 6705 (100%) `DET` nodes are leaves.
 
-15 (0%) `DET` nodes have one child.
+12 (0%) `DET` nodes have one child.
 
-6 (0%) `DET` nodes have two children.
+5 (0%) `DET` nodes have two children.
 
 The highest child degree of a `DET` node is 2.
 
-Children of `DET` nodes are attached using 4 different relations: <tt><a href="pt_dantestocks-dep-fixed.html">fixed</a></tt> (19; 70% instances), <tt><a href="pt_dantestocks-dep-advmod.html">advmod</a></tt> (5; 19% instances), <tt><a href="pt_dantestocks-dep-reparandum.html">reparandum</a></tt> (2; 7% instances), <tt><a href="pt_dantestocks-dep-cc.html">cc</a></tt> (1; 4% instances)
+Children of `DET` nodes are attached using 4 different relations: <tt><a href="pt_dantestocks-dep-fixed.html">fixed</a></tt> (15; 68% instances), <tt><a href="pt_dantestocks-dep-advmod.html">advmod</a></tt> (4; 18% instances), <tt><a href="pt_dantestocks-dep-reparandum.html">reparandum</a></tt> (2; 9% instances), <tt><a href="pt_dantestocks-dep-cc.html">cc</a></tt> (1; 5% instances)
 
-Children of `DET` nodes belong to 6 different parts of speech: <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (13; 48% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (6; 22% instances), <tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (5; 19% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="pt_dantestocks-pos-CCONJ.html">CCONJ</a></tt> (1; 4% instances), <tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (1; 4% instances)
+Children of `DET` nodes belong to 6 different parts of speech: <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (13; 59% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (5; 23% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="pt_dantestocks-pos-CCONJ.html">CCONJ</a></tt> (1; 5% instances), <tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (1; 5% instances), <tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (1; 5% instances)
 

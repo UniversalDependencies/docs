@@ -98,7 +98,7 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 1	Šajā	šī	DET	pd3fsln	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	2	det	2:det	LvtbNodeId=a-z82-p31s4w1
 2	grāmatā	grāmata	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	3	obl	3:obl:loc|15:obl:loc	LvtbNodeId=a-z82-p31s4w2
 3	apkopots	apkopot	VERB	vmnpdmsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	LvtbNodeId=a-z82-p31s4w3
-4	ne	ne	PART	q	Polarity=Neg	7	advmod:emph	7:advmod:emph	LvtbNodeId=a-z82-p31s4w4
+4	ne	ne	PART	q	ExtPos=PART|Polarity=Neg	7	advmod:emph	7:advmod:emph	LvtbNodeId=a-z82-p31s4w4
 5	tikai	tikai	PART	q	_	4	fixed	4:fixed	LvtbNodeId=a-z82-p31s4w5
 6	interesants	interesants	ADJ	afmsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	amod	7:amod	LvtbNodeId=a-z82-p31s4w6
 7	materiāls	materiāls	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	3:nsubj:pass	LvtbNodeId=a-z82-p31s4w7

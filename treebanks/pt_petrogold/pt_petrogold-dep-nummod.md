@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4766 nodes (2%) are attached to their parents as `nummod`.
+4765 nodes (2%) are attached to their parents as `nummod`.
 
-2896 instances of `nummod` (61%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25954678976081.
+2895 instances of `nummod` (61%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25960125918153.
 
-The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (3827; 80% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (566; 12% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (334; 7% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (19; 0% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (3827; 80% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (565; 12% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (334; 7% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (19; 0% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

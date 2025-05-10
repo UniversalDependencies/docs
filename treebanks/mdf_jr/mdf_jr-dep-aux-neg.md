@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Moksha-JR: Relations: `aux:neg`
 
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-aux.html">aux</a></tt>.
-There are also 4 other language-specific subtypes of `aux`: <tt><a href="mdf_jr-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="mdf_jr-dep-aux-nec.html">aux:nec</a></tt>, <tt><a href="mdf_jr-dep-aux-opt.html">aux:opt</a></tt>, <tt><a href="mdf_jr-dep-aux-q.html">aux:q</a></tt>.
+There are also 1 other language-specific subtypes of `aux`: <tt><a href="mdf_jr-dep-aux-opt.html">aux:opt</a></tt>.
 
 33 nodes (1%) are attached to their parents as `aux:neg`.
 
@@ -43,7 +43,7 @@ The following 6 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 1	Тя	тя	DET	Det	Case=Nom|Number=Sing|PronType=Dem	4	det	_	GTtags=Dem,Sg,Nom
 2	аф	аф	AUX	Pcle	Polarity=Neg	3	aux:neg	_	GTtags=Neg
 3	оцю	оцю	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	4	amod	_	GTtags=Sg,Nom,Indef
-4	статьяняса	статья	NOUN	N	Case=Ine|Definite=Ind|Degree=Dim|Number=Plur,Sing	7	obl:inst	_	GTtags=Der/Dimin,N,SP,Ine,Indef
+4	статьяняса	статья	NOUN	N	Case=Ine|Definite=Ind|Degree=Dim|Number=Plur,Sing	7	obl	_	GTtags=Der/Dimin,N,SP,Ine,Indef
 5	мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	GTtags=Pers,Sg1,Nom
 6	аф	аф	AUX	Pcle	Polarity=Neg	7	aux	_	GTtags=Neg
 7	тяряфнян	тяряфнемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	0	root	_	GTtags=TV,Ind,Prs,ScSg1
@@ -64,8 +64,8 @@ The following 6 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 2	сиволькс	сиволь	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	3	obl	_	GTtags=SP,Tra,Indef
 3	ащи	ащемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,ScSg3|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	7	punct	_	_
-5	пяк	пяк	ADV	Adv	AdvType=Deg	7	advmod:deg	_	GTtags=Deg
-6	ни	ни	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	GTtags=Sem/Time
+5	пяк	пяк	ADV	Adv	AdvType=Deg	7	advmod	_	GTtags=Deg
+6	ни	ни	ADV	Adv	AdvType=Tim	5	advmod	_	GTtags=Sem/Time
 7	калгода	калгода	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	3	conj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	9	punct	_	_
 9	марявсь	марявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	3	conj	_	GTtags=Ind,Prt1,ScSg3

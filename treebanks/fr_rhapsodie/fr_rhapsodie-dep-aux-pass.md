@@ -11,7 +11,7 @@ There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_rhap
 
 134 nodes (0%) are attached to their parents as `aux:pass`.
 
-133 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
+134 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.5.
 
 The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (134; 100% instances).

@@ -215,8 +215,8 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="cs_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (409; 96%),
-<tt>NOUN --[<tt><a href="cs_poetry-dep-det.html">det</a></tt>]--> DET</tt> (142; 74%),
+<tt>NOUN --[<tt><a href="cs_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (410; 96%),
+<tt>NOUN --[<tt><a href="cs_poetry-dep-det.html">det</a></tt>]--> DET</tt> (144; 74%),
 <tt>ADJ --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (41; 95%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (34; 59%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (14; 74%),

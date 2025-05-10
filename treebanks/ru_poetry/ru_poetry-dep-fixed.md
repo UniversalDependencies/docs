@@ -54,7 +54,7 @@ The following 33 pairs of parts of speech are connected with `fixed`: <tt><a hre
 5	почему-то	почему-то	ADV	_	Degree=Pos|PronType=Ind	12	advmod	_	before=<rhyme-zone/>|after=<br/>
 6	во	во	ADP	_	_	7	case	_	before=<line_meter="Я4м"/>
 7	мне	я	PRON	_	Case=Loc|Number=Sing|Person=1|PronType=Prs	12	obl	_	_
-8	с	с	ADP	_	_	12	advmod	_	_
+8	с	с	ADP	_	ExtPos=ADV	12	advmod	_	_
 9	тех	тот	DET	_	Case=Gen|Number=Plur|PronType=Dem	8	fixed	_	_
 10	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	fixed	_	_
 11	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_

@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `obj:cs`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 1 obj:cs	color:blue
 1	Лыҧшәма	а́-ҧшәма	NOUN	Noun_H_Sg_Poss:3SgF	Animacy=Hum|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj:cs	_	LMSeg:а́-ҧшәма
-2	инеилыркит	а-ркра́	VERB	V_Dyn_Tr_Caus_TrCaus_Fin_Aor_FPv:на_S:3SgF_DO:3_Cs:3SgM	Dyn=Yes|Gender[cs]=Masc|Gender[subj]=Fem|Number[cs]=Sing|Number[subj]=Sing|Person[cs]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|VerbForm=Fin|Voice=Cau	0	root	_	LMSeg:а-р:к-ра́
+2	инеилыркит	а-ркра́	VERB	V_Dyn_Tr_Caus_TrCaus_Fin_Aor_FPv:на_S:3SgF_DO:3_Cs:3SgM	Dyn=Yes|Gender[cs]=Masc|Gender[subj]=Fem|Number[cs]=Sing|Number[subj]=Sing|Person[cs]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|VerbForm=Fin|Voice=Cau	0	root	_	LMSeg:а-р:к-ра́|SpaceAfter=No
 3	.	.	PUNCT	Punct_Period	_	2	punct	_	LMSeg:.
 
 ~~~

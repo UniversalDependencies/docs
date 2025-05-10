@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (7; 100% of non-empty `Abbr`): <em>ΚΕΑΝ, ΕΔΕ, ΕΟΤ, Μπε-εμ-βε, ΟΛΠ</em>
-* `EMPTY` (778): <em>Αδριανή, Ελλάδα, Ούλι, Κούλα, Σωτηρόπουλος, Κατερίνα, Χαρδάκου, Λαλόπουλου, Βλασόπουλος, Γκίκα</em>
+* `EMPTY` (773): <em>Αδριανή, Ελλάδα, Ούλι, Κούλα, Σωτηρόπουλος, Κατερίνα, Χαρδάκου, Λαλόπουλου, Βλασόπουλος, Γκίκα</em>
 
 ### `NOUN`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>ΚΕΑΝ</em>
-* `EMPTY` (3210): <em>σπίτι, γραφείο, πόρτα, τηλέφωνο, αστυνόμε, δολοφονία, φορά, δουλειά, αστυνομία, εταιρείες</em>
+* `EMPTY` (3209): <em>σπίτι, γραφείο, πόρτα, τηλέφωνο, αστυνόμε, δολοφονία, φορά, δουλειά, αστυνομία, εταιρείες</em>
 
 ### `SYM`
 

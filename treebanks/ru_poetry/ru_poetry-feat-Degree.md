@@ -11,19 +11,19 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
 8662 tokens (14%) have a non-empty value of `Degree`.
 4940 types (27%) occur at least once with a non-empty value of `Degree`.
-2381 lemmas (24%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (5913; 9% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (2748; 4% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+2380 lemmas (24%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 3 part-of-speech tags: <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (5914; 9% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (2747; 4% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
-5913 <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Degree`.
+5914 <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ru_poetry-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5127; 87%), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4355; 74%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ru_poetry-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5127; 87%), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4356; 74%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (147; 2% of non-empty `Degree`): <em>лучше, короче, дороже, хуже, звонче, выше, легче, милей, светлей, тише</em>
-* `Pos` (5740; 97% of non-empty `Degree`): <em>тихий, белый, равно, золотые, милая, последний, черный, белые, хорошо, чужой</em>
+* `Pos` (5741; 97% of non-empty `Degree`): <em>тихий, белый, равно, золотые, милая, последний, черный, белые, хорошо, чужой</em>
 * `Sup` (26; 0% of non-empty `Degree`): <em>лучшей, лучших, Высшая, Высшую, Легчайшею, Прекраснейший, Руссейший, Тягчайшего, Чудеснейшая, высшей</em>
 * `EMPTY` (107): <em>первый, I, первым, III, первая, пятый, II, второй, первые, первых</em>
 
@@ -56,18 +56,18 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_poetry-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>бела</em></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 96% lemmas (1670) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 96% lemmas (1669) occur only with one value of `Degree`.
 
 ### `ADV`
 
-2748 <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> tokens (99% of all `ADV` tokens) have a non-empty value of `Degree`.
+2747 <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> tokens (99% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1718; 63%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1699; 62%).
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (131; 5% of non-empty `Degree`): <em>больше, дальше, скорей, выше, раньше, шире, ближе, лучше, сильнее, веселей</em>
-* `Pos` (2617; 95% of non-empty `Degree`): <em>так, еще, где, как, там, вдруг, вновь, снова, опять, тихо</em>
+* `Pos` (2616; 95% of non-empty `Degree`): <em>так, еще, где, как, там, вдруг, вновь, снова, опять, тихо</em>
 * `EMPTY` (35): <em>Видно, наверно, верно, впрочем, наверное, право, Во-первых, Знамо, Итак, Каково</em>
 
 <table>
@@ -91,7 +91,7 @@ The most frequent other feature values with which `NUM` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (449; 97%),
+<tt>ADJ --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (450; 97%),
 <tt>ADJ --[<tt><a href="ru_poetry-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (226; 86%),
 <tt>ADV --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> ADV</tt> (117; 99%),
 <tt>ADV --[<tt><a href="ru_poetry-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (75; 84%),
@@ -99,6 +99,6 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADV --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (8; 100%),
 <tt>ADJ --[<tt><a href="ru_poetry-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (6; 86%),
 <tt>ADV --[<tt><a href="ru_poetry-dep-acl-relcl.html">acl:relcl</a></tt>]--> ADV</tt> (6; 100%),
-<tt>ADJ --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> ADV</tt> (5; 83%),
+<tt>ADJ --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> ADV</tt> (4; 80%),
 <tt>ADJ --[<tt><a href="ru_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3; 100%).
 

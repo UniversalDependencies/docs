@@ -18,28 +18,30 @@ The following 3 pairs of parts of speech are connected with `dislocated:csubj`: 
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 dislocated:csubj	color:blue
-1	equestrium	equester	ADJ	C3	Case=Gen|Gender=Fem|InflClass=IndEurI|Number=Plur	3	amod	_	LiLaflcat=n7
-2	sane	sane	ADV	M	_	5	advmod	_	LiLaflcat=i
-3	uirium	uis	NOUN	A3	Case=Gen|Gender=Fem|InflClass=IndEurI|Number=Plur	5	nmod	_	LiLaflcat=n3
-4	id	is	PRON	I	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	LiLaflcat=p
-5	proprium	proprius	ADJ	C1	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	_	LiLaflcat=n6
-6	cito	cito	ADV	M	_	7	advmod	_	LASLAVariant=2|LiLaflcat=i
-7	parare	paro	VERB	B1	Aspect=Imp|InflClass=LatA|VerbForm=Inf|Voice=Act	5	dislocated:csubj	_	LASLAVariant=2|LiLaflcat=v1|TraditionalMood=Infinitivus|TraditionalTense=Praesens
-8	uictoriam	uictoria	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	7	obj	_	LiLaflcat=n1
-9	cito	cito	ADV	M	_	10	advmod	_	LASLAVariant=2|LiLaflcat=i
-10	cedere	cedo	VERB	B3	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	7	conj	_	LASLAVariant=1|LiLaflcat=v3|TraditionalMood=Infinitivus|TraditionalTense=Praesens
-11	uelocitas	uelocitas	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	13	nsubj	_	LiLaflcat=n3
-12	iuxta	iuxta	ADP	R	_	13	case	_	LASLAVariant=2|LiLaflcat=i
-13	formidinem	formido	NOUN	A3	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	5	conj	_	LASLAVariant=1|LiLaflcat=n3
-14	cunctatio	cunctatio	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	15	nsubj	_	LiLaflcat=n3
-15	propior	propior	ADJ	C	Case=Nom|Degree=Cmp|Gender=Fem|InflClass=IndEurX|Number=Sing	13	conj	_	LiLaflcat=null
-16	constantiae	constantia	NOUN	A1	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	15	obl:arg	_	LiLaflcat=n1
-17	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	LASLAVariant=1|LiLaflcat=v6|TraditionalMood=Indicativus|TraditionalTense=Praesens
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 11 dislocated:csubj	color:blue
+1	et	et	CCONJ	M	_	6	cc	_	LASLAVariant=1|LiLaflcat=i
+2	illud	ille	DET	I	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	6	nsubj	_	LiLaflcat=p
+3	quidem	quidem	PART	M	_	6	discourse	_	LiLaflcat=i
+4	etiam	etiam	ADV	M	Compound=Yes	2	advmod:emph	_	LiLaflcat=i
+5	hic	hic	ADV	M	AdvType=Loc|Case=Loc|PronType=Dem	6	advmod:lmod	_	LASLAVariant=2|LiLaflcat=i
+6	notum	notus	ADJ	C1	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|VerbForm=Part	0	root	_	LASLAVariant=2|LiLaflcat=n6
+7	auium	auis	NOUN	A3	Case=Gen|Gender=Fem|InflClass=IndEurI|Number=Plur	8	nmod	_	LiLaflcat=n3
+8	uoces	uox	NOUN	A3	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Plur	11	obj	_	LiLaflcat=n3
+9	uolatus	uolatus	NOUN	A4	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Plur	8	conj	_	LiLaflcat=n4
+10	que	que	CCONJ	S	_	9	cc	_	LiLaflcat=i
+11	interrogare	interrogo	VERB	B1	Aspect=Imp|InflClass=LatA|VerbForm=Inf|Voice=Act	6	dislocated:csubj	_	LiLaflcat=v1|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+12	proprium	proprius	ADJ	C1	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	6	conj	_	LiLaflcat=n6
+13	gentis	gens	NOUN	A3	Case=Gen|Gender=Fem|InflClass=IndEurI|Number=Sing	12	nmod	_	LiLaflcat=n3
+14	equorum	equus	NOUN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur	16	nmod	_	LiLaflcat=n2
+15	quoque	quoque	PART	M	Form=Emp	14	discourse	_	LiLaflcat=i
+16	praesagia	praesagium	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	19	obj	_	LiLaflcat=n2
+17	ac	atque	CCONJ	S	Form=Emp	18	cc	_	LASLAVariant=1|LiLaflcat=i
+18	monitus	monitus	NOUN	A4	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Plur	16	conj	_	LiLaflcat=n4
+19	experiri	experior	VERB	B4	Aspect=Imp|InflClass=LatI|VerbForm=Inf|Voice=Pass	12	csubj	_	LiLaflcat=v4|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 
 ~~~
 

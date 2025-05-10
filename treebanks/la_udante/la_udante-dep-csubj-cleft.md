@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-csubj.html">csubj</a></tt>.
 There are also 4 other language-specific subtypes of `csubj`: <tt><a href="la_udante-dep-csubj-outer.html">csubj:outer</a></tt>, <tt><a href="la_udante-dep-csubj-pass.html">csubj:pass</a></tt>, <tt><a href="la_udante-dep-csubj-relcl.html">csubj:relcl</a></tt>, <tt><a href="la_udante-dep-csubj-reported.html">csubj:reported</a></tt>.
 
-12 nodes (0%) are attached to their parents as `csubj:cleft`.
+13 nodes (0%) are attached to their parents as `csubj:cleft`.
 
-12 instances of `csubj:cleft` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.75.
+13 instances of `csubj:cleft` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.46153846153846.
 
-The following 4 pairs of parts of speech are connected with `csubj:cleft`: <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (6; 50% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (3; 25% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (2; 17% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 8% instances).
+The following 4 pairs of parts of speech are connected with `csubj:cleft`: <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (7; 54% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (3; 23% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (2; 15% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 8% instances).
 
 
 ~~~ conllu

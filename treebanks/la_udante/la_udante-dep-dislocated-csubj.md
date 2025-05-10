@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 3 other language-specific subtypes of `dislocated`: <tt><a href="la_udante-dep-dislocated-ccomp.html">dislocated:ccomp</a></tt>, <tt><a href="la_udante-dep-dislocated-obj.html">dislocated:obj</a></tt>, <tt><a href="la_udante-dep-dislocated-obl.html">dislocated:obl</a></tt>.
 
-11 nodes (0%) are attached to their parents as `dislocated:csubj`.
+12 nodes (0%) are attached to their parents as `dislocated:csubj`.
 
-9 instances of `dislocated:csubj` (82%) are left-to-right (parent precedes child).
-Average distance between parent and child is 12.4545454545455.
+10 instances of `dislocated:csubj` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 12.8333333333333.
 
-The following 5 pairs of parts of speech are connected with `dislocated:csubj`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (6; 55% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (2; 18% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 9% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (1; 9% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 9% instances).
+The following 5 pairs of parts of speech are connected with `dislocated:csubj`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (6; 50% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (2; 17% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (2; 17% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -78,66 +78,50 @@ The following 5 pairs of parts of speech are connected with `dislocated:csubj`: 
 
 
 ~~~ conllu
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 26	bgColor:blue
-# visual-style 26	fgColor:white
-# visual-style 26 21 dislocated:csubj	color:blue
-1	Tertia	tertius	ADJ	aufs1b	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing|NumType=Ord	11	obl	_	_
-2	quoque	quoque	PART	r	Form=Emp	11	discourse	_	SpaceAfter=No
-3	,	,	PUNCT	Pu	_	5	punct	_	_
-4	que	qui	PRON	presfn	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	5	nsubj	_	_
-5	Latinorum	latinus	ADJ	Smp2g	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	1	acl:relcl	_	_
-6	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-7	,	,	PUNCT	Pu	_	5	punct	_	_
-8	se	sui	PRON	ppp3sfb	Case=Acc|InflClass=LatAnom|Person=3|PronType=Prs|Reflex=Yes	11	obj	_	_
-9	duobus	duo	NUM	aunpb	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	10	nummod	_	_
-10	privilegiis	priuilegium	NOUN	snp2b	Case=Abl|Compound=Yes|Gender=Neut|InflClass=IndEurO|Number=Plur	12	obl	_	_
-11	actestatur	adtestor	VERB	vd1ips3	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-12	preesse	praesum	VERB	va5fp	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf|Voice=Act	11	xcomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
-13	:	:	PUNCT	Pu	_	14	punct	_	_
-14	primo	primo	ADV	r	NumType=Ord	10	conj:expl	_	_
-15	quidem	quidem	PART	r	_	14	discourse	_	_
-16	quod	quod	SCONJ	cs	PronType=Rel	26	mark	_	_
-17	qui	qui	PRON	prepmn	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel	21	nsubj	_	_
-18	dulcius	dulciter	ADV	r+	Degree=Cmp	21	advmod	_	_
-19	subtilius	subtiliter	ADV	r+	Degree=Cmp	18	conj	_	_
-20	que	que	CCONJ	co9	_	19	cc	_	_
-21	poetati	poetor	VERB	vd1irp3	Aspect=Perf|Case=Nom|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	26	dislocated:csubj	_	TraditionalMood=Participium|TraditionalTense=Perfectum
-22	vulgariter	uulgariter	ADV	r	_	21	advmod	_	_
-23	sunt	sum	AUX	va5ipp3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-24	,	,	PUNCT	Pu	_	21	punct	_	_
-25	hii	hic	DET	ddipmn	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Dem	26	nsubj	_	_
-26	familiares	familiaris	NOUN	smp3n	Case=Nom|Gender=Masc|InflClass=IndEurI|Number=Plur	14	orphan	_	_
-27	et	et	CCONJ	co	_	28	cc	_	_
-28	domestici	domesticus	ADJ	smp2n	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur	26	conj	_	_
-29	sui	suus	DET	dsmpn	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	26	det	_	_
-30	sunt	sum	AUX	va5ipp3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-31	,	,	PUNCT	Pu	_	33	punct	_	_
-32	puta	puta	CCONJ	va1mps2	VerbForm=Fin	33	cc	_	_
-33	Cynus	cynus	PROPN	Sms2n	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	25	conj:expl	_	_
-34	Pistoriensis	pistoriensis	ADJ	ams2n	Case=Nom|Gender=Masc|InflClass=IndEurI|NameType=Nat|Number=Sing	33	amod	_	_
-35	et	et	CCONJ	co	_	36	cc	_	_
-36	amicus	amicus	NOUN	sms2n	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	33	conj	_	_
-37	eius	is	PRON	ddesmg	Case=Gen|Gender=Masc|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	36	nmod	_	SpaceAfter=No
-38	;	;	PUNCT	Pu	_	39	punct	_	_
-39	secundo	secundo	ADV	r	NumType=Ord|VerbForm=Part	14	conj	_	_
-40	quia	quia	SCONJ	cs	PronType=Rel	42	mark	_	_
-41	magis	magis	ADV	rc	Degree=Cmp	43	advmod	_	_
-42	videtur	uideo	VERB	vp2ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	39	orphan	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-43	initi	innitor	VERB	vd3fp	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Pass	42	csubj:pass	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
-44	gramatice	gramatica	NOUN	sfs1d	Case=Dat|Gender=Fem|InflClass=IndEurA|Number=Sing	43	obl:arg	_	_
-45	que	qui	PRON	presfn	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	46	nsubj	_	_
-46	comunis	communis	ADJ	afs2n	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	44	acl:relcl	_	_
-47	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	46	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-48	,	,	PUNCT	Pu	_	52	punct	_	_
-49	quod	qui	PRON	presnn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	52	nsubj:pass	_	_
-50	rationabiliter	rationabiliter	ADV	r	_	51	advmod	_	_
-51	inspicientibus	inspicio	VERB	va3pppmd	Aspect=Imp|Case=Dat|Gender=Masc|InflClass=LatI2|InflClass[nominal]=IndEurI|Number=Plur|VerbForm=Part|Voice=Act	52	obl:arg	_	TraditionalMood=Participium|TraditionalTense=Praesens
-52	videtur	uideo	VERB	vp2ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	42	conj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-53	gravissimum	grauis	ADJ	ans2ns	Case=Nom|Degree=Abs|Gender=Neut|InflClass=IndEurO|Number=Sing	54	amod	_	_
-54	argumentum	argumentum	NOUN	sns2n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	52	xcomp	_	SpaceAfter=No
-55	.	.	PUNCT	Pu	_	11	punct	_	_
+# visual-style 27	bgColor:blue
+# visual-style 27	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 27 dislocated:csubj	color:blue
+1	Si	si	SCONJ	cs	_	3	mark	_	_
+2	enim	enim	PART	c	Form=Emp	11	discourse	_	_
+3	consideremus	considero	VERB	va1cpp1	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
+4	unum	unus	DET	aumsa	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|NumType=Card|NumValue=1|PronType=Ind	5	det	_	_
+5	hominem	homo	NOUN	sms3a	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	Pu	_	3	punct	_	_
+7	hoc	hic	DET	ddisnn	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	10	nsubj	_	_
+8	in	in	ADP	e	_	9	case	_	_
+9	eo	is	PRON	ddesnb	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	10	obl	_	_
+10	contingere	contingo	VERB	va3fp	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	11	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+11	videbimus	uideo	VERB	va2ifp1	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Futurum
+12	,	,	PUNCT	Pu	_	13	punct	_	_
+13	quia	quia	SCONJ	cs	PronType=Rel	27	mark	_	SpaceAfter=No
+14	,	,	PUNCT	Pu	_	13	punct	_	_
+15	cum	cum	SCONJ	cs	PronType=Rel	19	mark	_	_
+16	omnes	omnis	DET	afp2n	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Plur|PronType=Tot	17	det	_	_
+17	vires	uis	NOUN	sfp3n	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Plur	19	nsubj:pass	_	_
+18	eius	is	PRON	ddesmg	Case=Gen|Gender=Masc|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	17	nmod	_	_
+19	ordinentur	ordino	VERB	vp1cpp3	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	27	advcl	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
+20	ad	ad	ADP	e	_	21	case	_	_
+21	felicitatem	felicitas	NOUN	sfs3a	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	19	obl	_	SpaceAfter=No
+22	,	,	PUNCT	Pu	_	19	punct	_	_
+23	vis	uis	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	27	nsubj	_	_
+24	ipsa	ipse	DET	dpfsn	Case=Nom|Form=Emp|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	23	det	_	_
+25	intellectualis	intellectualis	ADJ	afs2n	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	23	amod	_	_
+26	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+27	regulatrix	regulatrix	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	10	dislocated:csubj	_	_
+28	et	et	CCONJ	co	_	29	cc	_	_
+29	rectrix	rectrix	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	27	conj	_	_
+30	omnium	omnis	DET	afp2g	Case=Gen|Gender=Fem|InflClass=IndEurI|Number=Plur|PronType=Tot	31	det	_	_
+31	aliarum	alius	DET	dpfp1g	Case=Gen|Gender=Fem|InflClass=LatPron|Number=Plur|PronType=Con	29	nmod	_	SpaceAfter=No
+32	:	:	PUNCT	Pu	_	38	punct	_	_
+33	aliter	aliter	ADV	r	PronType=Con	38	advmod	_	_
+34	ad	ad	ADP	e	_	35	case	_	_
+35	felicitatem	felicitas	NOUN	sfs3a	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	36	obl	_	_
+36	pervenire	peruenio	VERB	va4fp	Aspect=Imp|InflClass=LatI|VerbForm=Inf|Voice=Act	38	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+37	non	non	PART	r	Polarity=Neg	38	advmod:neg	_	_
+38	potest	possum	VERB	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+39	.	.	PUNCT	Pu	_	11	punct	_	_
 
 ~~~
 

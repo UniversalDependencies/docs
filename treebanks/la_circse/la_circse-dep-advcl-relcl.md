@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_circse-dep-advcl.html">advcl</a></tt>.
 There are also 3 other language-specific subtypes of `advcl`: <tt><a href="la_circse-dep-advcl-abs.html">advcl:abs</a></tt>, <tt><a href="la_circse-dep-advcl-cmp.html">advcl:cmp</a></tt>, <tt><a href="la_circse-dep-advcl-pred.html">advcl:pred</a></tt>.
 
-25 nodes (0%) are attached to their parents as `advcl:relcl`.
+36 nodes (0%) are attached to their parents as `advcl:relcl`.
 
-14 instances of `advcl:relcl` (56%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.28.
+21 instances of `advcl:relcl` (58%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.36111111111111.
 
-The following 9 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (12; 48% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (3; 12% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (3; 12% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2; 8% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
+The following 11 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (19; 53% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (5; 14% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -41,30 +41,28 @@ The following 9 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 
 
 ~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 19 advcl:relcl	color:blue
-1	mos	mos	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	0	root	_	LiLaflcat=n3
-2	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	LASLAVariant=1|LiLaflcat=v6|TraditionalMood=Indicativus|TraditionalTense=Praesens
-3	ciuitatibus	ciuitas	NOUN	A3	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Plur	1	obl:lmod	_	LiLaflcat=n3
-4	ultro	ultro	ADV	M	_	7	advmod	_	LiLaflcat=i
-5	ac	atque	CCONJ	S	Form=Emp	6	cc	_	LASLAVariant=1|LiLaflcat=i
-6	uiritim	uiritim	ADV	M	_	4	conj	_	LiLaflcat=i
-7	conferre	confero	VERB	B6	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf|Voice=Act	1	csubj	_	LiLaflcat=v6|TraditionalMood=Infinitivus|TraditionalTense=Praesens
-8	principibus	princeps	NOUN	A3	Case=Dat|Gender=Masc|InflClass=IndEurX|Number=Plur	7	obl:arg	_	LASLAVariant=1|LiLaflcat=n3
-9	uel	uel	CCONJ	S	_	10	cc	_	LASLAVariant=2|LiLaflcat=i
-10	armentorum	armentum	NOUN	A2	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Plur	7	orphan	_	LiLaflcat=n2
-11	uel	uel	CCONJ	S	_	12	cc	_	LASLAVariant=2|LiLaflcat=i
-12	frugum	frux	NOUN	A3	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Plur	10	conj	_	LiLaflcat=n3
-13	quod	qui	PRON	J	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	19	nsubj	_	LASLAVariant=1|LiLaflcat=p
-14	pro	pro	ADP	R	_	15	case	_	LASLAVariant=1|LiLaflcat=i
-15	honore	honor	NOUN	A3	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	16	obl	_	LiLaflcat=n3
-16	acceptum	accipio	VERB	B5	Aspect=Perf|Case=Nom|Gender=Neut|InflClass=LatI2|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	19	advcl:pred	_	LiLaflcat=v5|TraditionalMood=Participium|TraditionalTense=Perfectum
-17	etiam	etiam	ADV	M	Compound=Yes	18	advmod:emph	_	LiLaflcat=i
-18	necessitatibus	necessitas	NOUN	A3	Case=Dat|Gender=Fem|InflClass=IndEurX|Number=Plur	19	obl:arg	_	LiLaflcat=n3
-19	subuenit	subuenio	VERB	B4	Aspect=Imp|InflClass=LatI|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl:relcl	_	LiLaflcat=v4|TraditionalMood=Indicativus|TraditionalTense=Praesens
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 14 advcl:relcl	color:blue
+1	frondifera	frondifer	ADJ	C1	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	3	amod	_	LiLaflcat=n6
+2	sanctae	sanctus	ADJ	C1	Case=Gen|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	4	amod	_	LiLaflcat=n6
+3	nemora	nemus	NOUN	A3	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Plur	5	obj	_	LiLaflcat=n3
+4	Castaliae	castalia	PROPN	A1	Case=Gen|Gender=Fem|InflClass=IndEurA|NameType=Geo|Number=Sing	3	nmod	_	LASLAVariant=N|LiLaflcat=n1
+5	petens	peto	VERB	B3	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	6	advcl:pred	_	LiLaflcat=v3
+6	calcauit	calco	VERB	B1	Aspect=Perf|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v1
+7	artis	artus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	9	amod	_	LASLAVariant=2|LiLaflcat=n6
+8	obsitum	obsero	VERB	B3	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	10	acl	_	LASLAVariant=3|LiLaflcat=v3
+9	dumis	dumus	NOUN	A2	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur	8	obl	_	LiLaflcat=n2
+10	iter	iter	NOUN	A3	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Sing	6	obj	_	LiLaflcat=n3
+11	trigemina	tergeminus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	17	amod	_	LiLaflcat=n6
+12	qua	qua	SCONJ	N	PronType=Rel	14	mark	_	LASLAVariant=1|LiLaflcat=i
+13	se	sui	PRON	G	Case=Acc|InflClass=LatAnom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	14	obj	_	LASLAVariant=1|LiLaflcat=p
+14	spargit	spargo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl:relcl	_	LASLAVariant=2|LiLaflcat=v3
+15	in	in	ADP	R	AdpType=Prep	16	case	_	LiLaflcat=i
+16	campos	campus	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	14	obl:lmod	_	LASLAVariant=1|LiLaflcat=n2
+17	uia	uia	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	14	nsubj	_	LiLaflcat=n1
 
 ~~~
 
@@ -89,7 +87,7 @@ The following 9 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 12	fuerat	sum	AUX	B6	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	11	cop	_	LASLAVariant=1|LiLaflcat=v6
 13	tyranni	tyrannus	NOUN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	11	nmod	_	LiLaflcat=n2
 14	iacuit	iaceo	VERB	B2	Aspect=Perf|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	LiLaflcat=v2
-15	et	et	ADV	M	Degree=Pos	17	advmod	_	LASLAVariant=1|LiLaflcat=i
+15	et	et	ADV	M	Degree=Pos	17	advmod:emph	_	LASLAVariant=1|LiLaflcat=i
 16	poenae	poena	NOUN	A1	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	17	nmod	_	LiLaflcat=n1
 17	comes	comes	NOUN	A3	Case=Nom|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing	14	advcl:pred	_	LiLaflcat=n3
 

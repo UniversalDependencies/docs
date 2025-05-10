@@ -62,6 +62,6 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>NOUN --[<tt><a href="cs_poetry-dep-dep.html">dep</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>PRON --[<tt><a href="cs_poetry-dep-flat-foreign.html">flat:foreign</a></tt>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<tt><a href="cs_poetry-dep-flat-foreign.html">flat:foreign</a></tt>]--> VERB</tt> (1; 100%).
+<tt>PRON --[<tt><a href="cs_poetry-dep-flat.html">flat</a></tt>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<tt><a href="cs_poetry-dep-flat.html">flat</a></tt>]--> VERB</tt> (1; 100%).
 

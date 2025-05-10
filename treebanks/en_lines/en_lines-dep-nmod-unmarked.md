@@ -7,30 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_English-LinES: Relations: `nmod:unmarked`
 
 This relation is a language-specific subtype of <tt><a href="en_lines-dep-nmod.html">nmod</a></tt>.
-There are also 1 other language-specific subtypes of `nmod`: <tt><a href="en_lines-dep-nmod-poss.html">nmod:poss</a></tt>.
+There are also 2 other language-specific subtypes of `nmod`: <tt><a href="en_lines-dep-nmod-desc.html">nmod:desc</a></tt>, <tt><a href="en_lines-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-306 nodes (0%) are attached to their parents as `nmod:unmarked`.
+160 nodes (0%) are attached to their parents as `nmod:unmarked`.
 
-191 instances of `nmod:unmarked` (62%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.47385620915033.
+111 instances of `nmod:unmarked` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.8125.
 
-The following 18 pairs of parts of speech are connected with `nmod:unmarked`: <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (130; 42% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (59; 19% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (25; 8% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (23; 8% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (16; 5% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (11; 4% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (10; 3% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (8; 3% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 nmod:unmarked	color:blue
-1	Thank	thank	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	you	you	PRON	PERS-P2	_	1	obj	_	SpaceAfter=No
-3	,	,	PUNCT	Comma	_	5	punct	_	_
-4	Mr	mr	NOUN	SG-NOM	Number=Sing	5	nmod:unmarked	_	_
-5	Donnay	Donnay	PROPN	SG-NOM	Number=Sing	1	vocative	_	SpaceAfter=No
-6	.	.	PUNCT	Period	_	1	punct	_	_
-
-~~~
+The following 17 pairs of parts of speech are connected with `nmod:unmarked`: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (43; 27% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (25; 16% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (23; 14% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (16; 10% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (11; 7% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (10; 6% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (8; 5% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (6; 4% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -66,6 +50,24 @@ The following 18 pairs of parts of speech are connected with `nmod:unmarked`: <t
 11	many	many	ADJ	IND-PL	Degree=Pos	9	fixed	_	_
 12	have	have	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	6	conj	_	SpaceAfter=No
 13	.	.	PUNCT	Period	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 nmod:unmarked	color:blue
+1	We	we	PRON	PERS-P1PL-NOM	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+2	'd	will	AUX	PAST-AUX	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	_
+3	only	only	ADV	_	_	4	advmod	_	_
+4	met	meet	VERB	PERF	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+5	ten	ten	NUM	CARD-PL	NumType=Card	6	nummod	_	_
+6	minutes	minute	NOUN	PL-NOM	Number=Plur	7	nmod:unmarked	_	_
+7	before	before	ADV	_	_	4	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	Period	_	4	punct	_	_
 
 ~~~
 

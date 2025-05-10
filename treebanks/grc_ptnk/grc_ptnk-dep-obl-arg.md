@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Ancient_Greek-PTNK: Relations: `obl:arg`
 
 This relation is a language-specific subtype of <tt><a href="grc_ptnk-dep-obl.html">obl</a></tt>.
+There are also 1 other language-specific subtypes of `obl`: <tt><a href="grc_ptnk-dep-obl-tmod.html">obl:tmod</a></tt>.
 
 2 nodes (0%) are attached to their parents as `obl:arg`.
 
@@ -22,12 +23,12 @@ The following 2 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 obl:arg	color:blue
-1	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	Gloss=the;-oh
+1	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Gloss=the;-oh
 2	ἐκχέων	ἐκχέω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	dislocated	_	Gloss=to-gush-out,shed
 3	αἷμα	αἷμα	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	Gloss=blood
-4	ἀνθρώπου	ἄνθρωπος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	Gloss=man
+4	ἀνθρώπου	ἄνθρωπος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod:poss	_	Gloss=man
 5	ἀντὶ	ἀντί	ADP	_	_	7	case	_	Gloss=instead-of,against
-6	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	7	det	_	Gloss=the
+6	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	7	det	_	Gloss=the
 7	αἵματος	αἷμα	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	9	obl:arg	_	Gloss=blood
 8	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	9	nsubj:pass	_	Gloss=he,she,it,-self,same
 9	ἐκχυθήσεται	ἐκχέω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-gush-out,shed|SpaceAfter=No
@@ -35,9 +36,9 @@ The following 2 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 11	ὅτι	ὅτι	SCONJ	_	_	15	mark	_	Gloss=because,that-for
 12	ἐν	ἐν	ADP	_	_	13	case	_	Gloss=in,on,by,with,to
 13	εἰκόνι	εἰκών	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	15	obl	_	Gloss=likeness,image
-14	θεοῦ	θεός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	Gloss=god
+14	θεοῦ	θεός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	13	nmod:poss	_	Gloss=god
 15	ἐποίησα	ποιέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	Gloss=to-do,make
-16	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	17	det	_	Gloss=the
+16	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	Gloss=the
 17	ἄνθρωπον	ἄνθρωπος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	obj	_	Gloss=man|SpaceAfter=No
 18	.	.	PUNCT	_	_	17	punct	_	_
 
@@ -61,7 +62,7 @@ The following 2 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 9	Λάμεχ	Λάμεχ	PROPN	_	Gender=Masc|Number=Sing	3	conj	_	Gloss=Lamech|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
 11	ἑβδομηκοντάκις	ἑβδομηκοντάκις	ADV	_	_	9	orphan	_	Gloss=70-times
-12	ἑπτά	ἑπτά	NUM	_	_	11	conj	_	Gloss=seven|SpaceAfter=No
+12	ἑπτά	ἑπτά	NUM	_	NumType=Card	11	conj	_	Gloss=seven|SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_
 
 ~~~

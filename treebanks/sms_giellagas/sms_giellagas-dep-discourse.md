@@ -26,7 +26,7 @@ The following 12 pairs of parts of speech are connected with `discourse`: <tt><a
 2	:	:	PUNCT	CLB	_	7	punct	_	_
 3	”	”	PUNCT	PUNCT	_	7	punct	_	GTtags=RIGHT|SpaceAfter=No
 4	No	no	INTJ	Interj	_	7	discourse	_	_
-5	mõõzz	mõõzz	ADV	Adv	_	7	advmod:lmod	_	_
+5	mõõzz	mõõzz	ADV	Adv	_	7	advmod	_	_
 6	eeʹjjed	eʹčč	NOUN	N	Animacy=Hum|Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=2	7	obj	_	GTtags=Sem/Kin,Sg,Acc,PxPl2
 7	kooʹddid	kåʹdded	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Past	1	conj	_	GTtags=Ind,Prt,Pl2|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	1	punct	_	SpaceAfter=No
@@ -68,9 +68,9 @@ The following 12 pairs of parts of speech are connected with `discourse`: <tt><a
 3	,	,	PUNCT	PUNCT	_	5	punct	_	_
 4	äʹn	äʹn	PART	Pcle	_	5	discourse	_	_
 5	äjjan	äjjned	VERB	V	Mood=Imp|Number=Sing|Person=2	0	root	_	GTtags=Mood=Imp,Number=Sing,Person=2
-6	äʹrbbaaušu	äʹrbbähšš	NOUN	N	Case=Acc|Derivation=Dimin|Number=Sing	5	obj	_	GTtags=Der/Dimin,Sg,Acc
+6	äʹrbbaaušu	äʹrbbähšš	NOUN	N	Case=Acc|Degree=Dim|Number=Sing	5	obj	_	GTtags=Der/Dimin,Sg,Acc
 7	ko	ko	SCONJ	CS	_	8	mark	_	_
-8	viiǯǯžem	viǯǯâd	VERB	V	Mood=Pot|Number=Sing|Person=1	5	advcl:tcl	_	SpaceAfter=No
+8	viiǯǯžem	viǯǯâd	VERB	V	Mood=Pot|Number=Sing|Person=1	5	advcl	_	SpaceAfter=No
 9	”	”	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
 10	,	,	PUNCT	PUNCT	_	12	punct	_	_
 11	de	de	ADV	Adv	_	12	advmod	_	_

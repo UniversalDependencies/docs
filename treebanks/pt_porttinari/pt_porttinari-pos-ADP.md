@@ -70,18 +70,18 @@ The 2nd highest number of forms (2) was observed with the lemma “sem”: <em>s
 
 The 3rd highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
-`ADP` occurs with 1 features: <tt><a href="pt_porttinari-feat-Abbr.html">Abbr</a></tt> (19; 0% instances)
+`ADP` occurs with 2 features: <tt><a href="pt_porttinari-feat-ExtPos.html">ExtPos</a></tt> (504; 2% instances), <tt><a href="pt_porttinari-feat-Abbr.html">Abbr</a></tt> (19; 0% instances)
 
-`ADP` occurs with 1 feature-value pairs: `Abbr=Yes`
+`ADP` occurs with 5 feature-value pairs: `Abbr=Yes`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=SCONJ`
 
-`ADP` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (25099 tokens).
-Examples: <em>de, em, a, para, por, com, como, entre, sobre, até</em>
+`ADP` occurs with 6 feature combinations.
+The most frequent feature combination is `_` (24595 tokens).
+Examples: <em>de, em, a, para, por, com, como, entre, sobre, sem</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 7 different relations: <tt><a href="pt_porttinari-dep-case.html">case</a></tt> (22508; 90% instances), <tt><a href="pt_porttinari-dep-mark.html">mark</a></tt> (2302; 9% instances), <tt><a href="pt_porttinari-dep-fixed.html">fixed</a></tt> (192; 1% instances), <tt><a href="pt_porttinari-dep-advmod.html">advmod</a></tt> (67; 0% instances), <tt><a href="pt_porttinari-dep-cc.html">cc</a></tt> (46; 0% instances), <tt><a href="pt_porttinari-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="pt_porttinari-dep-discourse.html">discourse</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 7 different relations: <tt><a href="pt_porttinari-dep-case.html">case</a></tt> (22512; 90% instances), <tt><a href="pt_porttinari-dep-mark.html">mark</a></tt> (2302; 9% instances), <tt><a href="pt_porttinari-dep-fixed.html">fixed</a></tt> (188; 1% instances), <tt><a href="pt_porttinari-dep-advmod.html">advmod</a></tt> (67; 0% instances), <tt><a href="pt_porttinari-dep-cc.html">cc</a></tt> (46; 0% instances), <tt><a href="pt_porttinari-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="pt_porttinari-dep-discourse.html">discourse</a></tt> (1; 0% instances)
 
 Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (16392; 65% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt> (4013; 16% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> (2177; 9% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (1093; 4% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (641; 3% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt> (352; 1% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (206; 1% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (142; 1% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt> (59; 0% instances), <tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (42; 0% instances), <tt><a href="pt_porttinari-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 

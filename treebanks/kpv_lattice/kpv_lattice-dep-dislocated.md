@@ -57,9 +57,9 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 11	честнӧй	честнӧй	ADJ	A	Case=Nom|Number=Sing	12	amod	_	GTtags=A,Sg,Nom
 12	дінад	дінӧ	NOUN	Adp	AdpType=Post|Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=2	17	obl	_	GTtags=Adp,Po,Sg,Ill,PxSg2|SpaceAfter=No
 13	,	,	PUNCT	CLB	_	14	punct	_	GTtags=CLB
-14	гашкӧ	гашкӧ	ADV	Adv	_	17	advmod:eval	_	GTtags=Adv|SpaceAfter=No
+14	гашкӧ	гашкӧ	ADV	Adv	_	17	advmod	_	GTtags=Adv|SpaceAfter=No
 15	,	,	PUNCT	CLB	_	14	punct	_	GTtags=CLB
-16	и	и	ADV	Adv	_	17	advmod:foc	_	GTtags=Adv
+16	и	и	ADV	Adv	_	17	advmod	_	GTtags=Adv
 17	петас	петны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	6	conj	_	GTtags=V,IV,Ind,Fut,Sg3
 18	сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	GTtags=Pron,Pers,Sg3,Nom|SpaceAfter=No
 19	.	.	PUNCT	CLB	_	6	punct	_	GTtags=CLB

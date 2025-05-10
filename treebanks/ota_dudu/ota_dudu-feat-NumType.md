@@ -9,32 +9,32 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Card`, `Dist`, `Ord`.
 
-27 tokens (3%) have a non-empty value of `NumType`.
-17 types (3%) occur at least once with a non-empty value of `NumType`.
-13 lemmas (3%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (27; 3% instances).
+345 tokens (3%) have a non-empty value of `NumType`.
+73 types (1%) occur at least once with a non-empty value of `NumType`.
+53 lemmas (2%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (345; 3% instances).
 
 ### `NUM`
 
-27 <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
-
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (24; 89%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (24; 89%), <tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (24; 89%).
+345 <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (23; 85% of non-empty `NumType`): <em>biñ, bir, on, iki, yedi, dört, elli, sekiz, yetmiş, yüz</em>
-* `Dist` (1; 4% of non-empty `NumType`): <em>birer</em>
-* `Ord` (3; 11% of non-empty `NumType`): <em>birinci, ikinci, üçüncü</em>
+* `Card` (321; 93% of non-empty `NumType`): <em>yüz, biñ, on, üç, dört, yigirmi, iki, sekiz, beş, ḳırḳ</em>
+* `Dist` (5; 1% of non-empty `NumType`): <em>birer, yigirmişer, üçer</em>
+* `Ord` (19; 6% of non-empty `NumType`): <em>üçinci, birinci, ikinci, sekizinci, ṭoḳuzıncı, dördinci, dördünci, onuncu, s̱ânî, üçüncü</em>
 
 <table>
-  <tr><th>Paradigm <i>bir</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th><th><tt>Dist</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>bir</em></td><td></td><td><em>birer</em></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>birinci</em></td><td></td></tr>
+  <tr><th>Paradigm <i>üç</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th><th><tt>Dist</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>üç</em></td><td><em>üçinci, üçüncü</em></td><td><em>üçer</em></td></tr>
 </table>
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="ota_dudu-dep-flat.html">flat</a></tt>]--> NUM</tt> (5; 100%),
-<tt>NUM --[<tt><a href="ota_dudu-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (3; 100%).
+<tt>NUM --[<tt><a href="ota_dudu-dep-flat.html">flat</a></tt>]--> NUM</tt> (115; 95%),
+<tt>NUM --[<tt><a href="ota_dudu-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (6; 100%),
+<tt>NUM --[<tt><a href="ota_dudu-dep-conj.html">conj</a></tt>]--> NUM</tt> (5; 100%),
+<tt>NUM --[<tt><a href="ota_dudu-dep-compound.html">compound</a></tt>]--> NUM</tt> (2; 100%),
+<tt>NUM --[<tt><a href="ota_dudu-dep-obl.html">obl</a></tt>]--> NUM</tt> (1; 100%).
 

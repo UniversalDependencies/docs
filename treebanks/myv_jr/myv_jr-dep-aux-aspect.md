@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Relations: `aux:aspect`
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-aux.html">aux</a></tt>.
-There are also 6 other language-specific subtypes of `aux`: <tt><a href="myv_jr-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="myv_jr-dep-aux-imp.html">aux:imp</a></tt>, <tt><a href="myv_jr-dep-aux-nec.html">aux:nec</a></tt>, <tt><a href="myv_jr-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="myv_jr-dep-aux-opt.html">aux:opt</a></tt>, <tt><a href="myv_jr-dep-aux-q.html">aux:q</a></tt>.
+There are also 3 other language-specific subtypes of `aux`: <tt><a href="myv_jr-dep-aux-imp.html">aux:imp</a></tt>, <tt><a href="myv_jr-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="myv_jr-dep-aux-opt.html">aux:opt</a></tt>.
 
 107 nodes (1%) are attached to their parents as `aux:aspect`.
 
@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `aux:aspect`: <tt><a
 2	Сынст	сон	PRON	Pron	Case=Gen|Number=Plur|Person=3|PronType=Prs	4	obj	_	GTtags=Pers,Pl3,Gen
 3	карми	кармамс	AUX	V	Aspect=Inch|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	4	aux:aspect	_	GTtags=IV,Ind,Prs,ScSg3
 4	ускомаст	ускомс	VERB	V	Case=Loc|Number[psor]=Plur|Person[psor]=3|VerbForm=Inf	0	root	_	GTtags=Err/Orth,TV,Inf,Loc,PxPl3
-5	тия	тия	ADV	Adv	Case=Prl	4	advmod:lmod	_	GTtags=Prl|SpaceAfter=No
+5	тия	тия	ADV	Adv	Case=Prl	4	advmod	_	GTtags=Prl|SpaceAfter=No
 6	...	...	PUNCT	CLB	_	4	punct	_	_
 
 ~~~

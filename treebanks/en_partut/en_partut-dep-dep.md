@@ -23,7 +23,7 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 6 dep	color:blue
 1	This	this	DET	DD	Number=Sing|PronType=Dem	2	det	_	_
-2	photograph	photograph	NOUN	S	Number=Sing	4	nsubj:pass	_	SpaceAfter=No
+2	photograph	photograph	NOUN	S	Number=Sing	4	nsubj:pass	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	taken	take	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 5	1950	1950	NUM	N	NumType=Card	4	obl	_	SpaceAfter=No
@@ -54,7 +54,7 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 10	crisis	crisis	NOUN	S	Number=Sing	2	obl	_	_
 11	as	as	ADP	E	_	17	case	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
-13	region	region	NOUN	S	Number=Sing	17	nmod	_	SpaceAfter=No
+13	region	region	NOUN	S	Number=Sing	17	nmod	_	_
 14	's	's	PART	PART	_	13	case	_	_
 15	most	most	ADV	B	_	16	advmod	_	_
 16	resilient	resilient	ADJ	A	Degree=Pos	17	amod	_	_

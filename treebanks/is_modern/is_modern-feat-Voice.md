@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal but the values `Mid` are language-specific.
 It occurs with 2 different values: `Act`, `Mid`.
 
-14323 tokens (18%) have a non-empty value of `Voice`.
+14324 tokens (18%) have a non-empty value of `Voice`.
 1985 types (19%) occur at least once with a non-empty value of `Voice`.
 704 lemmas (12%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 7 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (9059; 11% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (5250; 7% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (9060; 11% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (5250; 7% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-9059 <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Voice`.
+9060 <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4699; 52%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4702; 52%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (8388; 93% of non-empty `Voice`): <em>fara, gera, hringir, held, koma, taka, kemur, á, þakka, segja</em>
+* `Act` (8389; 93% of non-empty `Voice`): <em>fara, gera, hringir, held, koma, taka, kemur, á, þakka, segja</em>
 * `Mid` (671; 7% of non-empty `Voice`): <em>finnst, komast, virðist, komist, hefst, komst, gerst, gerist, snýst, fannst</em>
-* `EMPTY` (236): <em>búið, Gripið, búin, búinn, þakka, leið, merktir, búnir, fer, fljótandi</em>
+* `EMPTY` (235): <em>búið, Gripið, búin, búinn, þakka, leið, merktir, búnir, fer, fljótandi</em>
 
 <table>
   <tr><th>Paradigm <i>koma</i></th><th><tt>Act</tt></th><th><tt>Mid</tt></th></tr>
@@ -32,7 +32,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>komnir</em></td><td></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>komin</em></td><td></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>komnar</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>komið</em></td><td><em>komist</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>komið</em></td><td></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>komin</em></td><td></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="is_modern-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>komið</em></td><td></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_modern-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>kom</em></td><td><em>komst</em></td></tr>
@@ -104,7 +104,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 `ADJ` tokens may have the following values of `Voice`:
 
 * `Act` (1; 100% of non-empty `Voice`): <em>rökstutt</em>
-* `EMPTY` (4316): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, sama</em>
+* `EMPTY` (4317): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, sama</em>
 
 ### `X`
 
@@ -115,17 +115,17 @@ The most frequent other feature values with which `X` and `Voice` co-occurred: <
 `X` tokens may have the following values of `Voice`:
 
 * `Act` (1; 100% of non-empty `Voice`): <em>ákvaðu</em>
-* `EMPTY` (90): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
+* `EMPTY` (89): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
 
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="is_modern-dep-aux.html">aux</a></tt>]--> AUX</tt> (1215; 91%),
+<tt>VERB --[<tt><a href="is_modern-dep-aux.html">aux</a></tt>]--> AUX</tt> (1216; 91%),
 <tt>VERB --[<tt><a href="is_modern-dep-acl.html">acl</a></tt>]--> VERB</tt> (966; 87%),
 <tt>VERB --[<tt><a href="is_modern-dep-cop.html">cop</a></tt>]--> AUX</tt> (874; 90%),
 <tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (674; 83%),
 <tt>VERB --[<tt><a href="is_modern-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (521; 88%),
-<tt>VERB --[<tt><a href="is_modern-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (298; 84%),
+<tt>VERB --[<tt><a href="is_modern-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (299; 84%),
 <tt>VERB --[<tt><a href="is_modern-dep-obl.html">obl</a></tt>]--> VERB</tt> (237; 81%),
 <tt>VERB --[<tt><a href="is_modern-dep-dep.html">dep</a></tt>]--> VERB</tt> (128; 86%),
 <tt>AUX --[<tt><a href="is_modern-dep-aux.html">aux</a></tt>]--> AUX</tt> (114; 100%),

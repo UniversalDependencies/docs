@@ -8,62 +8,104 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `compound`.
+13 nodes (0%) are attached to their parents as `compound`.
 
-1 instances of `compound` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.
+10 instances of `compound` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.38461538461538.
 
-The following 1 pairs of parts of speech are connected with `compound`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 8 pairs of parts of speech are connected with `compound`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (4; 31% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (2; 15% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (2; 15% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-INTJ.html">INTJ</a></tt> (1; 8% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
-# visual-style 32	bgColor:blue
-# visual-style 32	fgColor:white
-# visual-style 34	bgColor:blue
-# visual-style 34	fgColor:white
-# visual-style 34 32 compound	color:blue
-1	2014	2014	NUM	Num	NumForm=Digit|NumType=Card	2	nummod	_	Translit=2014
-2	წელს	წელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	13	obl:tmod	_	SpaceAfter=No|Translit=cels
-3	,	,	PUNCT	F	PunctType=Comm	2	punct	_	Translit=,
-4	საქართველო	საქართველო	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	13	obl	_	Translit=sakʻartʻvelo
-5	ში	ში	ADP	Post	AdpType=Post|Case=Dat	4	case	_	Translit=ši
-6	განხორციელებული	განხორციელებული	ADJ	Adj	Case=Gen|Number=Sing	7	amod	_	Translit=ganxorcʻielebuli
-7	თვითმმართველობის	თვითმმართველობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	Translit=tʻvitʻmmartʻvelobis
-8	რეფორმის	რეფორმა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	13	nmod	_	Translit=repʻormis
-9	შემდეგ	შემდეგ	ADV	Adv	AdvType=Tim	13	advmod	_	SpaceAfter=No|Translit=šemdeg
-10	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
-11	სამსახურ	სამსახური	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	13	obl	_	Translit=samsaxur
-12	ში	ში	ADP	Post	AdpType=Post|Case=Dat	11	case	_	Translit=ši
-13	განხორციელდა	ხორციელდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	0	root	_	Translit=ganxorcʻielda
-14	რეორგანიზაცია	რეორგანიზაცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	13	nsubj:pass	_	Translit=reorganizacʻia
-15	(	(	PUNCT	F	PunctType=Brck	16	punct	_	SpaceAfter=No|Translit=(
-16	შეიცვალა	იცვლება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	13	parataxis	_	Translit=šeicʻvala
-17	წესდება	წესდება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	16	nsubj:pass	_	SpaceAfter=No|Translit=cesdeba
-18	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
-19	სტრუქტურა	სტრუქტურა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	17	conj	_	SpaceAfter=No|Translit=strukʻtura
-20	)	)	PUNCT	F	PunctType=Brck	16	punct	_	Translit=)
-21	და	და	CCONJ	Conj	_	30	cc	_	Translit=da
-22	სამსახური	სამსახური	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	30	nsubj:pass	_	SpaceAfter=No|Translit=samsaxuri
-23	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
-24	ადგილობრივი	ადგილობრივი	ADJ	Adj	Case=Gen|Number=Sing	25	amod	_	Translit=adgilobrivi
-25	თვითმმართველობის	თვითმმართველობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	26	nmod	_	Translit=tʻvitʻmmartʻvelobis
-26	კოდექსის	კოდექსი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	27	nmod	_	Translit=kodekʻsis
-27	მოთხოვნათა	მოთხოვნა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	28	nmod	_	Translit=motʻxovnatʻa
-28	შესაბამისად	შესაბამისი	ADV	Adv	AdvType=Man	30	advmod	_	SpaceAfter=No|Translit=šesabamisad
-29	,	,	PUNCT	F	PunctType=Comm	30	punct	_	Translit=,
-30	ჩამოყალიბდა	ყალიბდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	16	conj	_	Translit=čʻamoqalibda
-31	როგორც	როგორც	SCONJ	Conj	_	30	mark	_	Translit=rogorcʻ
-32	ქ.	ქალაქი	NOUN	Noun	Abbr=Yes	34	compound	_	Translit=kʻ.
-33	თბილისის	თბილისი	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	34	nmod	_	Translit=tʻbilisis
-34	მუნიციპალიტეტის	მუნიციპალიტეტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	35	nmod	_	Translit=municʻipalitetis
-35	სსიპ	საჯარო_სამართლის_იურიდიული_პირი	NOUN	Noun	Abbr=Yes	30	obj	_	Translit=ssip
-36	-	-	PUNCT	F	PunctType=Dash	41	punct	_	Translit=-
-37	ქ.	ქალაქი	NOUN	Noun	Abbr=Yes	38	nmod	_	Translit=kʻ.
-38	თბილისის	თბილისი	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	39	nmod	_	Translit=tʻbilisis
-39	მუნიციპალიტეტის	მუნიციპალიტეტი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	40	nmod	_	Translit=municʻipalitetis
-40	არქიტექტურის	არქიტექტურა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	41	nmod	_	Translit=arkʻitekʻturis
-41	სამსახური	სამსახური	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	35	appos	_	SpaceAfter=No|Translit=samsaxuri
-42	.	.	PUNCT	F	PunctType=Peri	13	punct	_	Translit=.
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 compound	color:blue
+1	პოპ	პოპი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	compound	_	Translit=pop
+2	სიმღერის	სიმღერა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=simġeris
+3	ტექსტი	ტექსტი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	nsubj	_	Translit=tekʻsti
+4	ხშირად	ხშირად	ADV	Adv	AdvType=Deg	5	advmod	_	Translit=xširad
+5	ემოციური	ემოციური	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	Translit=emocʻiuri
+6	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	5	cop	_	Translit=a
+7	და	და	CCONJ	Conj	_	9	cc	_	Translit=da
+8	როგორც	როგორც	SCONJ	Conj	_	9	mark	_	Translit=rogorcʻ
+9	წესი	წესი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	11	parataxis	_	SpaceAfter=No|Translit=cesi
+10	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
+11	უკავშირდება	კავშირდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	5	conj	_	Translit=ukavširdeba
+12	სიყვარულის	სიყვარული	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	17	nmod	_	SpaceAfter=No|Translit=siqvarulis
+13	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
+14	გრძნობების	გრძნობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	12	conj	_	Translit=grżnobebis
+15	ან	ან	CCONJ	Conj	_	16	cc	_	Translit=an
+16	ცეკვის	ცეკვა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	conj	_	Translit=cʻekvis
+17	თემებს	თემა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	11	obj	_	SpaceAfter=No|Translit=tʻemebs
+18	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 compound	color:blue
+1	თეორიას	თეორია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	nsubj	_	Translit=tʻeorias
+2	რა	რა	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	3	compound	_	Translit=ra
+3	თქმა	თქმა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	compound	_	Translit=tʻkʻma
+4	უნდა	უნდა	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	5	acl	_	Translit=unda
+5	აქვს	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	_	Translit=akʻvs
+6	გარკვეული	გარკვეული	ADJ	Adj	Case=Nom|Number=Sing	7	amod	_	Translit=garkveuli
+7	ტრადიციებიც	ტრადიცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur|PartType=Emp	5	obj	_	SpaceAfter=No|Translit=tradicʻiebicʻ
+8	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
+9	რადგან	რადგან	SCONJ	Conj	_	15	mark	_	Translit=radgan
+10	მრავალი	მრავალი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	11	amod	_	Translit=mravali
+11	საუკუნის	საუკუნე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	nmod	_	Translit=saukunis
+12	განმავლობა	განმავლობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	obl	_	Translit=ganmavloba
+13	ში	ში	ADP	Post	AdpType=Post|Case=Dat	12	case	_	Translit=ši
+14	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	nsubj:pass	_	Translit=igi
+15	ვითარდებოდა	ვითარდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|Voice=Pass	7	advcl	_	SpaceAfter=No|Translit=vitʻardeboda
+16	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
+17	როგორც	როგორც	SCONJ	Conj	_	22	mark	_	Translit=rogorcʻ
+18	სხვა	სხვა	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	19	det	_	Translit=sxva
+19	სოციალური	სოციალური	ADJ	Adj	Case=Gen|Number=Sing	20	amod	_	Translit=socʻialuri
+20	მეცნიერებების	მეცნიერება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	22	nmod	_	Translit=mecʻnierebebis
+21	შემადგენელი	შემადგენელი	ADJ	Adj	Case=Nom|Number=Sing	22	amod	_	Translit=šemadgeneli
+22	ნაწილი	ნაწილი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	15	ccomp	_	SpaceAfter=No|Translit=nacili
+23	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 compound	color:blue
+1	თეორიას	თეორია	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	5	nsubj	_	Translit=tʻeorias
+2	რა	რა	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	3	compound	_	Translit=ra
+3	თქმა	თქმა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	compound	_	Translit=tʻkʻma
+4	უნდა	უნდა	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	5	acl	_	Translit=unda
+5	აქვს	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	_	Translit=akʻvs
+6	გარკვეული	გარკვეული	ADJ	Adj	Case=Nom|Number=Sing	7	amod	_	Translit=garkveuli
+7	ტრადიციებიც	ტრადიცია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur|PartType=Emp	5	obj	_	SpaceAfter=No|Translit=tradicʻiebicʻ
+8	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
+9	რადგან	რადგან	SCONJ	Conj	_	15	mark	_	Translit=radgan
+10	მრავალი	მრავალი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	11	amod	_	Translit=mravali
+11	საუკუნის	საუკუნე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	nmod	_	Translit=saukunis
+12	განმავლობა	განმავლობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	obl	_	Translit=ganmavloba
+13	ში	ში	ADP	Post	AdpType=Post|Case=Dat	12	case	_	Translit=ši
+14	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	nsubj:pass	_	Translit=igi
+15	ვითარდებოდა	ვითარდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|Voice=Pass	7	advcl	_	SpaceAfter=No|Translit=vitʻardeboda
+16	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
+17	როგორც	როგორც	SCONJ	Conj	_	22	mark	_	Translit=rogorcʻ
+18	სხვა	სხვა	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	19	det	_	Translit=sxva
+19	სოციალური	სოციალური	ADJ	Adj	Case=Gen|Number=Sing	20	amod	_	Translit=socʻialuri
+20	მეცნიერებების	მეცნიერება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	22	nmod	_	Translit=mecʻnierebebis
+21	შემადგენელი	შემადგენელი	ADJ	Adj	Case=Nom|Number=Sing	22	amod	_	Translit=šemadgeneli
+22	ნაწილი	ნაწილი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	15	ccomp	_	SpaceAfter=No|Translit=nacili
+23	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
 ~~~
 

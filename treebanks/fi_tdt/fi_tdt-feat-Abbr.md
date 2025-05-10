@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (575; 100% of non-empty `Abbr`): <em>N:o, eaa., a, b, ETY, kpl, oy, cm, g, A:n</em>
-* `EMPTY` (55879): <em>vuonna, vuoden, yhteisön, komission, päivänä, huomioon, mies, yliopiston, prosenttia, aikana</em>
+* `EMPTY` (55875): <em>vuonna, vuoden, yhteisön, komission, päivänä, huomioon, mies, yliopiston, prosenttia, aikana</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (155) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (402; 100% of non-empty `Abbr`): <em>EU:n, EY, EKP:n, A., YK:n, EKP, SDP:n, MTV3, EU, EU:</em>
-* `EMPTY` (11719): <em>euroopan, Turun, suomen, Suomessa, the, Helsingin, Yhdysvaltain, Mithridates, Venäjän, Kiinan</em>
+* `EMPTY` (11720): <em>euroopan, Turun, suomen, Suomessa, the, Helsingin, Yhdysvaltain, Mithridates, Venäjän, Kiinan</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (66) occur only with one value of `Abbr`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (89; 100% of non-empty `Abbr`): <em>mm., esim., n., jne, oik., yms, esim, jne., ym</em>
-* `EMPTY` (15525): <em>myös, niin, vain, nyt, jo, vielä, kuitenkin, sitten, hyvin, ihan</em>
+* `EMPTY` (15531): <em>myös, niin, vain, nyt, jo, vielä, kuitenkin, sitten, hyvin, ihan</em>
 
 ### `VERB`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (47; 100% of non-empty `Abbr`): <em>s., Em., huom, k.</em>
-* `EMPTY` (27295): <em>ottaa, tulee, saa, sai, tuli, on, tehdä, sanoi, antaa, pitää</em>
+* `EMPTY` (27294): <em>ottaa, tulee, saa, sai, tuli, on, tehdä, sanoi, antaa, pitää</em>
 
 ### `ADJ`
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 `NUM` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>milj., u18</em>
-* `EMPTY` (4977): <em>1, 2, kaksi, 2009, 3, 5, 4, kolme, yksi, 10</em>
+* `EMPTY` (4976): <em>1, 2, kaksi, 2009, 3, 5, 4, kolme, yksi, 10</em>
 
 ### `INTJ`
 

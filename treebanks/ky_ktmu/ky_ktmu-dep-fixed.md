@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (0%) are attached to their parents as `fixed`.
+17 nodes (0%) are attached to their parents as `fixed`.
 
-18 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.11111111111111.
+17 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.11764705882353.
 
-The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (7; 39% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (4; 22% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (3; 17% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (2; 11% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (7; 41% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (4; 24% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (3; 18% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (2; 12% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 3 4 fixed	color:blue
 1	Көбүнчө	Көбүнчө	ADV	ADV	_	6	advmod	_	_
 2	ошо	ошо	DET	DET	_	3	det	_	_
-3	таш	таш	NOUN	NN	Case=Nom|Number=Sing|Person=3	6	obj	_	_
+3	таш	таш	NOUN	NN	Case=Nom|ExtPos=ADV|Number=Sing|Person=3	6	obj	_	_
 4	бакадан	бака	NOUN	NN	Case=Abl|Number=Sing|Person[psor]=3	3	fixed	_	_
 5	сокур	сокур	ADJ	ADJ	_	6	amod	_	_
 6	болосуң	бол	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -39,7 +39,7 @@ The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Андан	Андан	ADV	ADV	_	4	advmod	_	_
+1	Андан	Андан	ADV	ADV	ExtPos=ADV	4	advmod	_	_
 2	көрө	көрө	ADV	ADV	_	1	fixed	_	_
 3	бейсбол	бейсбол	NOUN	NN	Case=Nom|Number=Sing|Person=3	4	nmod	_	_
 4	ойноп	ойно	VERB	VB	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Conv	0	root	_	_
@@ -59,7 +59,7 @@ The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href
 2	беш	беш	NUM	NUM	NumType=Card	3	nummod	_	_
 3	батирдин	батир	NOUN	NN	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nmod	_	_
 4	акчасын	акча	NOUN	NN	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	obj	_	_
-5	алып	ал	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+5	алып	ал	VERB	VB	Aspect=Perf|ExtPos=ADV|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 6	качып	кач	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	fixed	_	_
 7	кеткен	кет	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	9	ccomp	_	_
 8	жаран	жаран	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	nsubj	_	_

@@ -61,14 +61,14 @@ The following 15 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 3	fgColor:white
 # visual-style 3 11 vocative	color:blue
 1	―	―	PUNCT	PUNCT	_	3	punct	_	_
-2	Пек	пек	ADV	Adv	AdvType=Deg	3	advmod:deg	_	GTtags=Degree
+2	Пек	пек	ADV	Adv	AdvType=Deg	3	advmod	_	GTtags=Degree
 3	стака	стака	ADJ	A	_	0	root	_	_
 4	ульнесь	ульнемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	3	cop	_	GTtags=IV,Ind,Prt1,ScSg3
 5	печтемс	печтемс	VERB	V	Case=Ill|VerbForm=Conv	3	obl	_	GTtags=TV,Ger,Ill
 6	чопода	чопода	ADJ	A	_	7	amod	_	_
 7	весь	ве	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,Def|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	9	punct	_	_
-9	ней	ней	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Temp|SpaceAfter=No
+9	ней	ней	ADV	Adv	AdvType=Tim	3	advmod	_	GTtags=Temp|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	11	punct	_	_
 11	ялгат	ялга	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	3	vocative	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
 12	!..	^excl..	PUNCT	CLB	_	3	punct	_	_

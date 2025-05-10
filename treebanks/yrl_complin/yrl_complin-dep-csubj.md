@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (0%) are attached to their parents as `csubj`.
+19 nodes (0%) are attached to their parents as `csubj`.
 
-16 instances of `csubj` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.27777777777778.
+17 instances of `csubj` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.42105263157895.
 
-The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (6; 33% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (3; 17% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (3; 17% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 6% instances).
+The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (6; 32% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (3; 16% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (3; 16% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (2; 11% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -66,7 +66,7 @@ The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 2 4 csubj	color:blue
 1	I	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	expl	_	TokenRange=0:1
 2	katú	katú	VERB	V2	Mood=Ind|VerbForm=Fin	0	root	_	TokenRange=2:6
-3	yandé	yandé	PRON	PRON	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=7:12
+3	yandé	yandé	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=7:12
 4	yamunhã	munhã	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	2	csubj	_	TokenRange=13:20
 5	dabukurí	dabukurí	NOUN	N	Number=Sing	4	obj	_	TokenRange=21:29
 6	aintá	aintá	PRON	PRON2	Case=Gen|Number=Plur|Person=3|PronType=Prs	4	obl	_	TokenRange=30:35
@@ -75,9 +75,9 @@ The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href
 9	suiwara	suiwara	ADP	ADP	AdpType=Post	8	case	_	TokenRange=47:54
 10	intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	13	advmod	_	TokenRange=55:59
 11	arama	arama	SCONJ	SCONJ	_	13	mark	_	TokenRange=60:65
-12	aintá	aintá	PRON	PRON	Number=Plur|Person=3|PronType=Prs	13	nsubj	_	TokenRange=66:71
+12	aintá	aintá	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	TokenRange=66:71
 13	uyuká	yuká	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	2	advcl	_	TokenRange=72:77
-14	yandé	yandé	PRON	PRON	Number=Plur|Person=1|PronType=Prs	13	obj	_	SpaceAfter=No|TokenRange=78:83
+14	yandé	yandé	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	13	obj	_	SpaceAfter=No|TokenRange=78:83
 15	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=83:84
 
 ~~~

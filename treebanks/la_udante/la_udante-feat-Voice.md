@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-8224 tokens (15%) have a non-empty value of `Voice`.
-4729 types (39%) occur at least once with a non-empty value of `Voice`.
+8230 tokens (15%) have a non-empty value of `Voice`.
+4733 types (39%) occur at least once with a non-empty value of `Voice`.
 1566 lemmas (28%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 1 part-of-speech tags: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (8224; 15% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (8230; 15% instances).
 
 ### `VERB`
 
-8224 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
+8230 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (5910; 72%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5905; 72%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5905; 72%), <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (5879; 71%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4973; 60%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4797; 58%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (5912; 72%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5907; 72%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5907; 72%), <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (5881; 71%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4978; 60%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4799; 58%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (5218; 63% of non-empty `Voice`): <em>potest, patet, habet, dicimus, dicit, consequens, dico, habere, oportet, dicunt</em>
-* `Pass` (3006; 37% of non-empty `Voice`): <em>videtur, dicitur, dictum, sequitur, sciendum, fieri, videntur, dici, dicendum, uti</em>
+* `Act` (5220; 63% of non-empty `Voice`): <em>potest, patet, habet, dicimus, dicit, consequens, dico, habere, oportet, dicunt</em>
+* `Pass` (3010; 37% of non-empty `Voice`): <em>videtur, dicitur, dictum, sequitur, sciendum, fieri, videntur, dici, dicendum, uti</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -86,10 +86,10 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (796; 71%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (530; 60%),
-<tt>VERB --[<tt><a href="la_udante-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (277; 54%),
-<tt>VERB --[<tt><a href="la_udante-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (263; 61%),
+<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (797; 71%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (531; 60%),
+<tt>VERB --[<tt><a href="la_udante-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (278; 54%),
+<tt>VERB --[<tt><a href="la_udante-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (260; 61%),
 <tt>VERB --[<tt><a href="la_udante-dep-advcl-pred.html">advcl:pred</a></tt>]--> VERB</tt> (169; 58%),
 <tt>VERB --[<tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (165; 59%),
 <tt>VERB --[<tt><a href="la_udante-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (123; 60%),

@@ -42,7 +42,7 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 14	fgColor:white
 # visual-style 14 17 ccomp	color:blue
 1	Но	но	CCONJ	CC	_	10	cc	_	_
-2	керкуыс	керку	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obl:lmod	_	GTtags=Sg,Nom,PxSg3
+2	керкуыс	керку	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obl	_	GTtags=Sg,Nom,PxSg3
 3	бокын	бокын	ADP	Adp	AdvType=Loc|Case=Ine	2	case	_	GTtags=Spat,Ine|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	туй	туй	NOUN	N	Case=Nom|Number=Sing	6	nmod	_	GTtags=Sg,Nom

@@ -7,30 +7,30 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `advmod`
 
 This relation is universal.
-There are 9 language-specific subtypes of `advmod`: <tt><a href="kpv_lattice-dep-advmod-cau.html">advmod:cau</a></tt>, <tt><a href="kpv_lattice-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="kpv_lattice-dep-advmod-emph.html">advmod:emph</a></tt>, <tt><a href="kpv_lattice-dep-advmod-eval.html">advmod:eval</a></tt>, <tt><a href="kpv_lattice-dep-advmod-foc.html">advmod:foc</a></tt>, <tt><a href="kpv_lattice-dep-advmod-freq.html">advmod:freq</a></tt>, <tt><a href="kpv_lattice-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="kpv_lattice-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="kpv_lattice-dep-advmod-tmod.html">advmod:tmod</a></tt>.
+There are 2 language-specific subtypes of `advmod`: <tt><a href="kpv_lattice-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="kpv_lattice-dep-advmod-emph.html">advmod:emph</a></tt>.
 
-101 nodes (1%) are attached to their parents as `advmod`.
+756 nodes (9%) are attached to their parents as `advmod`.
 
-88 instances of `advmod` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.66336633663366.
+564 instances of `advmod` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.88492063492063.
 
-The following 12 pairs of parts of speech are connected with `advmod`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (64; 63% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (10; 10% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> (8; 8% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (6; 6% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (4; 4% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 17 pairs of parts of speech are connected with `advmod`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (515; 68% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (70; 9% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (51; 7% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (45; 6% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (27; 4% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> (20; 3% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 advmod	color:blue
-1	Весиг	весиг	PART	Pcle	_	5	advmod	_	_
-2	юсянь	ю	NOUN	N	Case=Egr|Number=Sing	4	obl:lmod	_	_
-3	неуна	неуна	ADV	Adv	Polarity=Neg	4	advmod	_	_
-4	локтысь	локны	VERB	V	Case=Nom|Nomzr=Ag|Number=Sing	5	acl	_	_
-5	ыркыдыс	ыркыд	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	nsubj	_	_
-6	эз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Past	7	aux	_	_
-7	кокньӧд	кокньӧдны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	CLB	_	7	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 advmod	color:blue
+1	Бур	бур	ADJ	A	Case=Nom|Number=Sing	2	amod	_	_
+2	урожай	урожай	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	OrigLang=ru
+3	воис	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	таво	таво	ADV	Adv	_	3	advmod	_	_
+5	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	nmod	_	_
+6	районувса	районувса	ADJ	A	Case=Nom|Number=Sing	7	amod	_	OrigLang=ru
+7	колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl	_	OrigLang=ru|SpaceAfter=No
+8	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 
@@ -44,7 +44,7 @@ The following 12 pairs of parts of speech are connected with `advmod`: <tt><a hr
 1	Вундігӧн	вундыны	VERB	V	Case=Ins|Derivation=Ig|VerbForm=Conv	6	advcl	_	_
 2	да	да	CCONJ	Pcle	_	3	cc	_	OrigLang=ru
 3	тэчигӧн	тэчыны	VERB	V	Case=Ins|Derivation=Ig|VerbForm=Conv	1	conj	_	_
-4	му	му	NOUN	N	Case=Nom|Number=Sing	6	obl:lmod	_	_
+4	му	му	NOUN	N	Case=Nom|Number=Sing	6	obl	_	_
 5	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	4	case	_	_
 6	усьӧ	усьны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 7	уна	уна	ADV	Adv	_	8	advmod	_	_
@@ -55,16 +55,21 @@ The following 12 pairs of parts of speech are connected with `advmod`: <tt><a hr
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 advmod	color:blue
-1	Весиг	весиг	PART	Pcle	_	4	advmod	_	_
-2	бӧжсӧ	бӧж	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obj	_	_
-3	эз	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Past	4	aux	_	_
-4	петкӧдлы	петкӧдлыны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	CLB	_	4	punct	_	_
+# visual-style 1 2 advmod	color:blue
+1	Сідз	сідз	ADV	Adv	_	4	advmod	_	_
+2	жӧ	жӧ	ADV	Adv	_	1	advmod	_	OrigLang=ru
+3	колӧ	ковны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	_
+4	сетны	сетны	VERB	V	VerbForm=Inf	0	root	_	_
+5	ыджыд	ыджыд	ADJ	A	Case=Nom|Number=Sing	6	amod	_	_
+6	тӧдчанлун	тӧдчанлун	NOUN	N	Case=Nom|Number=Sing	4	nmod:obj	_	_
+7	вошӧмъяскӧд	вошӧм	NOUN	N	Case=Com|Number=Plur	8	obl	_	_
+8	тышкасьӧм	тышкасьны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	4	obl	_	_
+9	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	8	case	_	SpaceAfter=No
+10	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

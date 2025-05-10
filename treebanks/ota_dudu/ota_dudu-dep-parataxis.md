@@ -8,41 +8,70 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `parataxis`.
+6 nodes (0%) are attached to their parents as `parataxis`.
 
-1 instances of `parataxis` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.
+4 instances of `parataxis` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.16666666666667.
 
-The following 1 pairs of parts of speech are connected with `parataxis`: <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 100% instances).
+The following 4 pairs of parts of speech are connected with `parataxis`: <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (3; 50% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (1; 17% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 20 15 parataxis	color:blue
-1	hele	hele	CCONJ	_	_	7	cc	_	_
-2	bir	bir	ADJ	_	_	3	amod	_	_
-3	kere	kere	NOUN	_	Case=Nom|Number=Sing|Person=3	4	amod	_	_
-4	raġbet	raġbet	NOUN	_	Case=Nom|Number=Sing|Person=3	7	nsubj	_	_
-5	o	o	DET	_	Definite=Def|PronType=Art	6	det	_	_
-6	cihete	cihet	NOUN	_	Case=Dat|Number=Sing|Person=3	7	obl	_	_
-7	dönsün	dön	VERB	_	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	advcl	_	_
-8	az	az	ADJ	_	_	9	amod	_	_
-9	vaḳtte	vaḳt	NOUN	_	Case=Loc|Number=Sing|Person=3	15	obl	_	_
-10	ne	ne	CCONJ	Ques	_	11	cc:preconj	_	_
-11	şâʿirler	şâʿir	NOUN	_	Case=Nom|Number=Plur|Person=3	15	nsubj	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	11	punct	_	_
-13	ne	ne	CCONJ	Ques	_	14	cc:preconj	_	_
-14	kâtipler	kâtip	NOUN	_	Case=Nom|Number=Plur|Person=3	11	conj	_	_
-15	yetişir	yetiş	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	20	parataxis	_	_
-16	ki	ki	SCONJ	_	_	15	mark	_	SpaceAfter=No
-17	,	,	PUNCT	_	_	15	punct	_	_
-18	ʿaḳllara	ʿaḳl	NOUN	_	Case=Dat|Number=Plur|Person=3	20	obl	_	_
-19	ḥayret	ḥayret	NOUN	_	Case=Nom|Number=Sing|Person=3	20	compound	_	_
-20	verir	ver	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	20	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 7 parataxis	color:blue
+1	üçinci	üç	NUM	ANum	NumType=Ord	0	root	_	_
+2	her	her	DET	_	Definite=Def|PronType=Art	4	det	_	_
+3	ḳanġı	ḳanġı	DET	Adj	_	4	det	_	_
+4	evde	ev	NOUN	_	Case=Loc|Number=Sing|Person=3	7	obl	_	_
+5	ki	ki	SCONJ	_	_	4	mark	_	_
+6	sâkin	sâkin	ADJ	Adj	_	7	compound:lvc	_	_
+7	olur	ol	VERB	Ptcp	Aspect=Hab|Polarity=Pos|VerbForm=Part	1	parataxis	_	_
+8	dı	y	AUX	Zero	Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	7	cop	_	_
+9	kendülerden	kendü	PRON	Reflex	Case=Abl|Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=3|PronType=Prs|Reflex=Yes	18	obl	_	_
+10	ṣoñra	ṣoñra	ADP	PCAbl	_	9	case	_	_
+11	ol	ol	DET	Demons	Definite=Def|PronType=Art	12	det	_	_
+12	ḫâne	ḫâne	NOUN	_	Case=Nom|Number=Sing|Person=3	18	nsubj	_	_
+13	ḳırḳ	ḳırḳ	NUM	ANum	NumType=Card	14	nummod	_	_
+14	yıla	yıl	NOUN	_	Case=Dat|Number=Sing|Person=3	18	obl:tmod	_	_
+15	dek	dek	ADP	PCDat	_	14	case	_	_
+16	misk	misk	NOUN	_	Case=Nom|Number=Sing|Person=3	18	obl	_	_
+17	gibi	gibi	ADP	PCNom	_	16	case	_	_
+18	ḳoḳardı	ḳoḳ	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	7	conj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 parataxis	color:blue
+1	ʿablenüñ	ʿable	PROPN	Pers	Case=Gen|NameType=Prs|Number=Sing|Person=3	2	nmod:poss	_	_
+2	anasına	ana	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	obl	_	_
+3	eyitdi	eyit	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+4	yâ	yâ	INTJ	_	_	5	discourse	_	_
+5	sittâh	sittâh	PROPN	Pers	Case=Nom|NameType=Prs|Number=Sing|Person=3	6	parataxis	_	_
+6	nedür	ne	PRON	Ques	Case=Nom|Number=Sing|Person=3|PronType=Int	3	ccomp	_	nullcop=3s
+7	ḥâlüñ	ḥâl	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	obl	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 parataxis	color:blue
+1	ṣıġırlar	ṣıġır	NOUN	_	Case=Nom|Number=Plur|Person=3	2	parataxis	_	_
+2	ürkdi	ürk	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+3	andan	o	PRON	Demons	Case=Abl|Number=Sing|Person=3|PronType=Dem	5	obl	_	_
+4	müteferriḳ	müteferriḳ	ADJ	Adj	_	5	compound:lvc	_	DerivedFrom=teferruḳ
+5	oldı	ol	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	2	conj	_	_
 
 ~~~
 

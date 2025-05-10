@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7346 nodes (11%) are attached to their parents as `obl`.
+12053 nodes (11%) are attached to their parents as `obl`.
 
-7338 instances of `obl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.8277974407841.
+12044 instances of `obl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.69277358334025.
 
-The following 30 pairs of parts of speech are connected with `obl`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (4770; 65% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1312; 18% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (440; 6% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (219; 3% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (146; 2% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (140; 2% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (61; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (59; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (53; 1% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (29; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (25; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (23; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (19; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-X.html">X</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 34 pairs of parts of speech are connected with `obl`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (7818; 65% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (2130; 18% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (751; 6% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (396; 3% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (252; 2% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (232; 2% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (102; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (99; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (84; 1% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (37; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (29; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (28; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (23; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-X.html">X</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,18 +22,14 @@ The following 30 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 obl	color:blue
-1	만약에	만약+에	ADV	NNG+JKB	_	3	obl	_	_
-2	돈이	돈+이	NOUN	NNG+JKS	_	3	nsubj	_	_
-3	없다손	없+다+손	VERB	VA+EF+JX	_	7	advcl	_	_
-4	치더라도	치+더라도	VERB	VV+EC	_	3	advcl	_	_
-5	은행에게	은행+에게	NOUN	NNG+JKB	_	7	obl	_	_
-6	돈을	돈+을	NOUN	NNG+JKO	_	7	obj	_	_
-7	빌리곤까지	빌리+고+ㄴ+까지	ADV	VV+EC+JX+JX	_	11	advcl	_	_
-8	해서도	하	AUX	VV+EC+JX	_	7	aux	_	_
-9	그렇게	그렇+게	ADV	VA+EC	_	10	advmod	_	_
-10	할	하+ㄹ	VERB	VV+ETM	_	11	acl	_	_
-11	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	SF	_	11	punct	_	_
+1	제주도에	제주도+에	ADV	NNP+JKB	_	3	obl	_	_
+2	등산을	등산+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	하고	하+고	VERB	VV+EC	_	7	advcl	_	_
+4	전통	전통	NOUN	NNG	_	5	nmod	_	_
+5	음식을	음식+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	먹을	먹+을	VERB	VV+ETM	_	7	acl	_	_
+7	겁니다	것+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
 
 ~~~
 
@@ -41,34 +37,35 @@ The following 30 pairs of parts of speech are connected with `obl`: <tt><a href=
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 2 obl	color:blue
-1	하지만	하지만	ADV	MAJ	_	9	cc	_	_
-2	초등학교	초등학교	NOUN	NNG	_	9	obl	_	_
-3	때	때	ADP	NNG	_	2	case	_	_
-4	부모님은	부모+님+은	NOUN	NNG+XSN+JX	_	5	obj	_	_
-5	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	6	acl	_	_
-6	수	수	NOUN	NNB	_	7	nsubj	_	_
-7	없어서	없+어서	VERB	VA+EC	_	9	advcl	_	_
-8	자주	자주	ADV	MAG	_	9	advmod	_	_
-9	싸웠다	싸우+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	SF	_	9	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 obl	color:blue
+1	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+2	6월	6+월	NOUN	SN+NNB	_	5	obl	_	_
+3	20일에	20+일+에	NOUN	SN+NNB+JKB	_	2	flat	_	_
+4	여행을	여행+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	가고	가+고	VERB	VV+EC	_	0	root	_	_
+6	싶습니다	싶	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 obl	color:blue
-1	저녁에	저녁+에	ADV	NNG+JKB	_	4	obl	_	_
-2	서울타워에	서울타워+에	ADV	NNP+JKB	_	4	obl	_	_
-3	야경이	야경+이	NOUN	NNG+JKS	_	4	nsubj	_	_
-4	아름다웠습니다	아름답+었+습니다	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	SF	_	4	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 obl	color:blue
+1	시강은	시강+은	NOUN	NF+JX	Typo=Yes	3	nsubj	_	_
+2	물건을	물건+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	싸고	싸+고	VERB	VV+EC	_	7	acl	_	_
+4	백화점은	백화점+은	NOUN	NNG+JX	_	6	nsubj	_	_
+5	물건을	물건+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	비싸는다는	비싸+는다+는	ADJ	VA+EF+ETM	_	3	acl	_	_
+7	점에서	점+에서	ADV	NNB+JKB	_	8	obl	_	_
+8	달라다	다르+어	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
 
 ~~~
 

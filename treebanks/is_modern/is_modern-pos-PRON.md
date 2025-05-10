@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>það</em> (<tt><a href="is_modern-po
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 3.892857 (the average of all parts of speech is 1.738114).
+The form / lemma ratio of `PRON` is 3.892857 (the average of all parts of speech is 1.738233).
 
 The 1st highest number of forms (13) was observed with the lemma “annar”: <em>annan, annar, annarra, annarrar, annarri, annars, annað, aðra, aðrar, aðrir, önnur, öðru, öðrum</em>.
 

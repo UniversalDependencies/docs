@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 5 language-specific subtypes of `flat`: <tt><a href="uk_parlamint-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="uk_parlamint-dep-flat-name.html">flat:name</a></tt>, <tt><a href="uk_parlamint-dep-flat-range.html">flat:range</a></tt>, <tt><a href="uk_parlamint-dep-flat-repeat.html">flat:repeat</a></tt>, <tt><a href="uk_parlamint-dep-flat-title.html">flat:title</a></tt>.
 
-12 nodes (0%) are attached to their parents as `flat`.
+15 nodes (0%) are attached to their parents as `flat`.
 
-12 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+15 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.06666666666667.
 
-The following 3 pairs of parts of speech are connected with `flat`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (6; 50% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (5; 42% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (1; 8% instances).
+The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (8; 53% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (5; 33% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -84,36 +84,46 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 16 flat	color:blue
-1	В	в	ADP	ADP	Case=Acc	3	case	_	_
-2	незаконний	незаконний	ADJ	ADJ	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	amod	_	_
-3	спосіб	спосіб	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
-4	закриті	закритий	ADJ	ADJ	Aspect=Perf|Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	_
-5	п'ять	п'ять	NUM	NUM	Case=Acc|NumType=Card	8	nummod:gov	_	_
-6	незалежних	незалежний	ADJ	ADJ	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
-7	інформаційних	інформаційний	ADJ	ADJ	Case=Gen|Number=Plur	8	amod	_	_
-8	телеканалів	телеканал	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nsubj	_	SpaceAfter=No
-9	:	:	PUNCT	PUNCT	_	10	punct	_	_
-10	NewsOne	NewsOne	X	X	Foreign=Yes	8	appos	_	SpaceAfter=No
-11	,	,	PUNCT	PUNCT	_	12	punct	_	_
-12	ZIK	ZIK	X	X	Foreign=Yes	10	conj	_	SpaceAfter=No
-13	,	,	PUNCT	PUNCT	_	15	punct	_	_
-14	"	"	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
-15	112	112	NUM	NUM	Case=Nom|NumType=Card	10	conj	_	_
-16	Україна	Україна	PROPN	PROPN	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	15	flat	_	SpaceAfter=No
-17	"	"	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
-18	,	,	PUNCT	PUNCT	_	19	punct	_	_
-19	UKRLIFE	UKRLIFE	X	X	Foreign=Yes	10	conj	_	_
-20	і	і	CCONJ	CCONJ	_	23	cc	_	_
-21	"	"	PUNCT	PUNCT	_	23	punct	_	SpaceAfter=No
-22	Перший	перший	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing|NumType=Ord	23	amod	_	_
-23	Незалежний	незалежний	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	conj	_	SpaceAfter=No
-24	"	"	PUNCT	PUNCT	_	23	punct	_	SpaceAfter=No
-25	.	.	PUNCT	PUNCT	_	4	punct	_	_
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 19 flat	color:blue
+1	Так	так	ADV	ADV	PronType=Dem	11	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	1	punct	_	_
+3	у	у	ADP	ADP	Case=Acc	6	case	_	_
+4	попередні	попередній	ADJ	ADJ	Animacy=Inan|Case=Acc|Number=Plur	6	amod	_	_
+5	чотири	чотири	NUM	NUM	Case=Acc|NumType=Card	6	nummod	_	_
+6	роки	рік	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obl	_	_
+7	фіксовані	фіксований	ADJ	ADJ	Aspect=Perf|Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	8	amod	_	_
+8	заготівлі	заготівля	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	_
+9	ліквідної	ліквідний	ADJ	ADJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	деревини	деревина	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+11	зросли	зрости	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+12	з	з	ADP	ADP	Case=Gen	14	case	_	_
+13	638	638	NUM	NUM	Case=Gen|NumType=Card	14	nummod	_	_
+14	тис.	тис.	NOUN	NUM	Abbr=Yes|Case=Gen|Gender=Fem|Number=Plur|NumType=Card	21	nummod:gov	_	_
+15	до	до	ADP	ADP	Case=Gen	19	case	_	_
+16	1	1	NUM	NUM	Case=Gen|Gender=Masc|Number=Sing|NumType=Card	17	nummod	_	_
+17	млн.	млн	NOUN	NUM	Abbr=Yes|Case=Gen|Gender=Masc|Number=Plur|NumType=Card	21	nummod:gov	_	_
+18	55	55	NUM	NUM	Case=Gen|NumType=Card	19	nummod	_	_
+19	тис.	тис.	NOUN	NUM	Abbr=Yes|Case=Gen|Gender=Fem|Number=Plur|NumType=Card	17	flat	_	_
+20	щільних	щільний	ADJ	ADJ	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	_
+21	кубометрів	кубометр	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	obl	_	SpaceAfter=No
+22	,	,	PUNCT	PUNCT	_	26	punct	_	_
+23	в	в	ADP	ADP	Case=Loc|ExtPos=ADV	26	orphan	_	_
+24	тому	той	DET	DET	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	23	fixed	_	_
+25	числі	число	NOUN	NOUN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	fixed	_	_
+26	підрубок	підрубка	NOUN	NOUN	Animacy=Inan|BadStyle=Yes|Case=Gen|Gender=Fem|Number=Plur	21	conj	_	_
+27	головного	головний	ADJ	ADJ	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	28	amod	_	_
+28	користування	користування	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	_
+29	із	із	ADP	ADP	Case=Gen	30	case	_	_
+30	395-ти	395	NUM	NUM	BadStyle=Yes|Case=Gen|NumType=Card	34	nummod	_	_
+31	до	до	ADP	ADP	Case=Gen	33	case	_	_
+32	531	531	NUM	NUM	Case=Gen|Gender=Fem|Number=Sing|NumType=Card	33	nummod	_	_
+33	тис.	тис.	NOUN	NUM	Abbr=Yes|Case=Gen|Gender=Fem|Number=Sing|NumType=Card	34	nummod	_	_
+34	кубометрів	кубометр	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	26	orphan	_	SpaceAfter=No
+35	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 ~~~
 

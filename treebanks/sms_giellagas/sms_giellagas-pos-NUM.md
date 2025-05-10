@@ -40,7 +40,7 @@ Examples: <em>kueʹhtt, õhtt, čiččâm, kuâhttlovitt, vitmlo</em>
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 3 different relations: <tt><a href="sms_giellagas-dep-nummod.html">nummod</a></tt> (15; 88% instances), <tt><a href="sms_giellagas-dep-obl-lmod.html">obl:lmod</a></tt> (1; 6% instances), <tt><a href="sms_giellagas-dep-xcomp.html">xcomp</a></tt> (1; 6% instances)
+`NUM` nodes are attached to their parents using 3 different relations: <tt><a href="sms_giellagas-dep-nummod.html">nummod</a></tt> (15; 88% instances), <tt><a href="sms_giellagas-dep-obl.html">obl</a></tt> (1; 6% instances), <tt><a href="sms_giellagas-dep-xcomp.html">xcomp</a></tt> (1; 6% instances)
 
 Parents of `NUM` nodes belong to 3 different parts of speech: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (14; 82% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (2; 12% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (1; 6% instances)
 

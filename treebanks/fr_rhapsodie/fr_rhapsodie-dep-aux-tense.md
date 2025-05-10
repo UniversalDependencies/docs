@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_rhapsodie-dep-aux.html">aux</a></tt>.
 There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_rhapsodie-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="fr_rhapsodie-dep-aux-pass.html">aux:pass</a></tt>.
 
-493 nodes (1%) are attached to their parents as `aux:tense`.
+492 nodes (1%) are attached to their parents as `aux:tense`.
 
-490 instances of `aux:tense` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.49290060851927.
+490 instances of `aux:tense` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.49390243902439.
 
-The following 6 pairs of parts of speech are connected with `aux:tense`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (470; 95% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (10; 2% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux:tense`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (470; 96% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (10; 2% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,7 +56,7 @@ The following 6 pairs of parts of speech are connected with `aux:tense`: <tt><a 
 3	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	cop	_	_
 4	vraiment	vraiment	ADV	_	_	10	advmod	_	_
 5	pour	pour	ADP	_	_	6	case	_	_
-6	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl:mod	_	_
+6	lui	lui	PRON	_	Emph=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl:mod	_	_
 7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	reparandum	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
 9	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -83,7 +83,7 @@ The following 6 pairs of parts of speech are connected with `aux:tense`: <tt><a 
 9	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:tense	_	Overlap=Rhap_D0006-16
 10	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	cop	_	Overlap=Rhap_D0006-16
 11	très	très	ADV	_	_	12	advmod	_	Overlap=Rhap_D0006-16
-12	bénéfique	bénéfique	ADJ	_	Number=Sing	6	ccomp	_	Overlap=Rhap_D0006-16|SpaceAfter=No
+12	bénéfique	bénéfique	ADJ	_	Gender=Masc|Number=Sing	6	ccomp	_	Overlap=Rhap_D0006-16|SpaceAfter=No
 13	.	.	PUNCT	_	_	6	punct	_	Overlap=Rhap_D0006-16
 
 ~~~

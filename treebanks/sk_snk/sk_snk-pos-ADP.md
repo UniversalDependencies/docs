@@ -59,18 +59,18 @@ The 2nd highest number of forms (3) was observed with the lemma “pod”: <em>P
 
 The 3rd highest number of forms (3) was observed with the lemma “s”: <em>s, so, zo</em>.
 
-`ADP` occurs with 3 features: <tt><a href="sk_snk-feat-AdpType.html">AdpType</a></tt> (8612; 100% instances), <tt><a href="sk_snk-feat-Case.html">Case</a></tt> (8612; 100% instances), <tt><a href="sk_snk-feat-Typo.html">Typo</a></tt> (9; 0% instances)
+`ADP` occurs with 4 features: <tt><a href="sk_snk-feat-AdpType.html">AdpType</a></tt> (8612; 100% instances), <tt><a href="sk_snk-feat-Case.html">Case</a></tt> (8612; 100% instances), <tt><a href="sk_snk-feat-ExtPos.html">ExtPos</a></tt> (65; 1% instances), <tt><a href="sk_snk-feat-Typo.html">Typo</a></tt> (9; 0% instances)
 
-`ADP` occurs with 8 feature-value pairs: `AdpType=Prep`, `AdpType=Voc`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Typo=Yes`
+`ADP` occurs with 9 feature-value pairs: `AdpType=Prep`, `AdpType=Voc`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `ExtPos=ADP`, `Typo=Yes`
 
-`ADP` occurs with 15 feature combinations.
-The most frequent feature combination is `AdpType=Prep|Case=Loc` (2965 tokens).
+`ADP` occurs with 20 feature combinations.
+The most frequent feature combination is `AdpType=Prep|Case=Loc` (2923 tokens).
 Examples: <em>v, na, po, o, pri, popri</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 7 different relations: <tt><a href="sk_snk-dep-case.html">case</a></tt> (8549; 99% instances), <tt><a href="sk_snk-dep-fixed.html">fixed</a></tt> (57; 1% instances), <tt><a href="sk_snk-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="sk_snk-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 7 different relations: <tt><a href="sk_snk-dep-case.html">case</a></tt> (8550; 99% instances), <tt><a href="sk_snk-dep-fixed.html">fixed</a></tt> (57; 1% instances), <tt><a href="sk_snk-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
 Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (6670; 77% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (739; 9% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (710; 8% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (281; 3% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (68; 1% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (50; 1% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (38; 0% instances), <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (33; 0% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt> (18; 0% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="sk_snk-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 

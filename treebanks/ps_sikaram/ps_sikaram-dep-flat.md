@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Pashto-Sikaram: Relations: `flat`
 
 This relation is universal.
+There are 1 language-specific subtypes of `flat`: <tt><a href="ps_sikaram-dep-flat-foreign.html">flat:foreign</a></tt>.
 
 4 nodes (0%) are attached to their parents as `flat`.
 
@@ -29,11 +30,11 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 5	نۀ	نۀ	PART	_	Polarity=Neg	6	advmod	_	Translit=në|LTranslit=në|Gloss=not
 6	مریم	مریم	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	Translit=maryám|LTranslit=maryám|Gloss=Mary
 7	براون	براون	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	6	flat	_	Translit=brâwn|LTranslit=brâwn|Gloss=Brown
-8	کولی	کول	AUX	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	aux	_	Translit=kawë́lay|LTranslit=kawë́l|Gloss=done
-9	شوای	کېدل	AUX	_	Aspect=Perf|Mood=Pot|VerbForm=Fin	10	aux	_	Translit=šwây|LTranslit=kedë́l|Gloss=become
+8	کولای	کول	AUX	_	Aspect=Imp|Mood=Cnd|VerbForm=Fin	10	aux:pot	_	Translit=kawë́lây|LTranslit=kawë́l|Gloss=done
+9	شوای	کېدل	AUX	_	Aspect=Perf|Mood=Cnd|Variant=Short|VerbForm=Fin	10	aux:pot	_	Translit=šwây|LTranslit=kedë́l|Gloss=become
 10	وټاکل	ټاکل	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	0	root	_	Translit=wë́ṭâkël|LTranslit=ṭâkë́l|Gloss=select
-11	شي	کېدل	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	Translit=ši|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
-12	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.|Gloss=.
+11	شي	کېدل	AUX	_	Mood=Sub|Number=Plur|Person=3|VerbForm=Fin	10	aux:pass	_	Translit=ši|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
+12	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -44,19 +45,19 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
 # visual-style 19 20 flat	color:blue
-1	بېنوايان	بینوا	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	Translit=benawâyấn|LTranslit=benawấ|Gloss=Les-Misérables
+1	بېنوايان	بینوا	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	nsubj:pass	_	Translit=benawâyấn|LTranslit=benawấ|Gloss=Les-Misérables
 2	که	کۀ	SCONJ	_	_	6	mark	_	Translit=kë|LTranslit=kë|Gloss=if
 3	په	پۀ	ADP	_	Case=Loc	5	case	_	Translit=pë|LTranslit=pë|Gloss=at
 4	پاړسي	پاړسي	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	5	amod	_	Translit=pâṛsí|LTranslit=pâṛsí|Gloss=Persian
 5	ژبه	ژبه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
 6	ژباړل	ژباړل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	13	advcl	_	Translit=žbâṛë́l|LTranslit=žbâṛë́l|Gloss=translate
-7	شوى	کېدل	AUX	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	aux	_	Translit=šë́way|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
+7	شوى	کېدل	AUX	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	aux:pass	_	Translit=šë́way|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
 8	،	،	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,|Gloss=,
 9	بیا	بیا	ADV	_	_	13	advmod	_	Translit=byâ|LTranslit=byâ|Gloss=even
 10	هم	هم	ADV	_	_	13	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
 11	زياتو	زيات	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	12	amod	_	Translit=zyấto|LTranslit=zyât|Gloss=many
 12	کسانو	کس	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	13	obl:agent	_	Translit=kasấno|LTranslit=kas|Gloss=people
-13	لوستى	لوستل	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part	0	root	_	Translit=lwástay|LTranslit=lwastë́l|Gloss=read|SpaceAfter=No
+13	لوستى	لوستل	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part	0	root	_	Translit=lwástay|LTranslit=lwastë́l|Gloss=read|SpaceAfter=No
 14	،	،	PUNCT	_	_	30	punct	_	Translit=,|LTranslit=,|Gloss=,
 15	د	د	ADP	_	Case=Acc	16	case	_	Translit=dë|LTranslit=dë|Gloss=of
 16	اټکل	اټکل	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	30	obl	_	Translit=aṭkál|LTranslit=aṭkál|Gloss=estimate
@@ -71,19 +72,19 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 25	کې	کې	ADP	_	Case=Loc	24	case	_	Translit=ke|LTranslit=ke|Gloss=in
 26	برخې	برخه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	30	obj	_	Translit=bárxe|LTranslit=bárxa|Gloss=parts|SpaceAfter=No
 27	-	-	PUNCT	_	_	26	punct	_	Translit=-|LTranslit=-|Gloss=-
-28	برخې	برخه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	26	fixed	_	Translit=bárxe|LTranslit=bárxa|Gloss=parts
-29	خپور	خپور	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	30	xcomp	_	Translit=xpor|LTranslit=xpor|Gloss=published
-30	کړى	کول	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	conj	_	Translit=kë́ṛay|LTranslit=kawë́l|Gloss=did
+28	برخې	برخه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	26	compound	_	Translit=bárxe|LTranslit=bárxa|Gloss=parts
+29	خپور	خپور	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	30	compound:lvc	_	Translit=xpor|LTranslit=xpor|Gloss=published
+30	کړى	کول	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	conj	_	Translit=kë́ṛay|LTranslit=kawë́l|Gloss=did
 31	هم	هم	ADV	_	_	30	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
-32	دى	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	aux	_	Translit=day|LTranslit=yëm|Gloss=is|SpaceAfter=No
+32	دى	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	aux:perf	_	Translit=dëy|LTranslit=wël|Gloss=is|SpaceAfter=No
 33	،	،	PUNCT	_	_	37	punct	_	Translit=,|LTranslit=,|Gloss=,
 34	چې	چې	PRON	_	PronType=Rel	37	nsubj	_	Translit=če|LTranslit=če|Gloss=which
 35	لا	لا	ADV	_	_	37	advmod	_	Translit=lâ|LTranslit=lâ|Gloss=still
-36	راټول	راټول	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	37	xcomp	_	Translit=râṭól|LTranslit=râṭól|Gloss=collected
-37	شوى	کېدل	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	26	acl:relcl	_	Translit=šë́way|LTranslit=kedë́l|Gloss=become
+36	راټول	راټول	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	37	compound:lvc	_	Translit=râṭól|LTranslit=râṭól|Gloss=collected
+37	شوى	کېدل	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	26	acl:relcl	_	Translit=šë́way|LTranslit=kedë́l|Gloss=become
 38	نه	نۀ	PART	_	Polarity=Neg	37	advmod	_	Translit=në|LTranslit=në|Gloss=not
-39	دى	یم	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	aux	_	Translit=day|LTranslit=yëm|Gloss=is|SpaceAfter=No
-40	.‏	.‏	PUNCT	_	_	13	punct	_	Translit=.‏|LTranslit=.‏|Gloss=.
+39	دى	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	aux:perf	_	Translit=dëy|LTranslit=wël|Gloss=is|SpaceAfter=No
+40	.	.	PUNCT	_	_	13	punct	_	Translit=.|LTranslit=.|Gloss=.
 
 ~~~
 

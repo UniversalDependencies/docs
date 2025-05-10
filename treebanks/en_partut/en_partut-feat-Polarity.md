@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 1 different values: `Neg`.
 
 236 tokens (0%) have a non-empty value of `Polarity`.
-3 types (0%) occur at least once with a non-empty value of `Polarity`.
+4 types (0%) occur at least once with a non-empty value of `Polarity`.
 2 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
 The feature is used with 2 part-of-speech tags: <tt><a href="en_partut-pos-PART.html">PART</a></tt> (235; 0% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
@@ -20,8 +20,8 @@ The feature is used with 2 part-of-speech tags: <tt><a href="en_partut-pos-PART.
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (235; 100% of non-empty `Polarity`): <em>not</em>
-* `EMPTY` (1055): <em>to, 's, '</em>
+* `Neg` (235; 100% of non-empty `Polarity`): <em>not, n't</em>
+* `EMPTY` (1070): <em>to, 's, '</em>
 
 ### `ADV`
 
@@ -30,5 +30,5 @@ The feature is used with 2 part-of-speech tags: <tt><a href="en_partut-pos-PART.
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>no</em>
-* `EMPTY` (1895): <em>more, also, so, now, only, how, however, well, as, very</em>
+* `EMPTY` (1864): <em>more, also, now, only, as, so, how, however, well, very</em>
 

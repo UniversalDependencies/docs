@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="grc_ptnk-pos-DET.ht
 
 4253 <tt><a href="grc_ptnk-pos-DET.html">DET</a></tt> tokens (82% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="grc_ptnk-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (4013; 94%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3265; 77%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="grc_ptnk-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (4253; 100%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3265; 77%).
 
 `DET` tokens may have the following values of `Definite`:
 

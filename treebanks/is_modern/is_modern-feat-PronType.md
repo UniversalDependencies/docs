@@ -87,7 +87,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 * `Dem` (4; 44% of non-empty `PronType`): <em>sama</em>
 * `Ind` (4; 44% of non-empty `PronType`): <em>annað, jafnrík, önnur</em>
 * `Prs` (1; 11% of non-empty `PronType`): <em>hægri</em>
-* `EMPTY` (4308): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, síðustu</em>
+* `EMPTY` (4309): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, síðustu</em>
 
 ### `ADV`
 

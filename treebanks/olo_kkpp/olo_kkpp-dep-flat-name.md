@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 4	fgColor:white
 # visual-style 4 5 flat:name	color:blue
 1	Ei	ei	AUX	AUX	Mood=Ind|Person=0|Tense=Pres	3	aux	_	_
-2	voidu	voija	AUX	AUX	Connegative=Yes|Mood=Ind|Number=Plur|Tense=Past|Voice=Pass	3	aux	_	_
+2	voidu	voija	AUX	AUX	Connegative=Yes|Mood=Ind|Number=Plur|Person=3|Tense=Past	3	aux	_	_
 3	vallita	vallita	VERB	VERB	VerbForm=Inf	0	root	_	_
 4	Peter	Peter	PROPN	PROPN	Case=Nom|Number=Sing	3	obj	_	_
 5	Smithua	Smith	PROPN	PROPN	Case=Par|Number=Sing	4	flat:name	_	SpaceAfter=No

@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-PUD: POS Tags: `CCONJ`
 
-There are 22 `CCONJ` lemmas (0%), 22 `CCONJ` types (0%) and 743 `CCONJ` tokens (3%).
+There are 22 `CCONJ` lemmas (0%), 22 `CCONJ` types (0%) and 742 `CCONJ` tokens (3%).
 Out of 16 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 12 in number of types and 11 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>und, als, aber, wie, oder, doch, sowie, bis, bzw., sowohl</em>
 
 The 10 most frequent `CCONJ` types:  <em>und, als, aber, wie, oder, doch, sowie, bis, bzw., sowohl</em>
 
-The 10 most frequent ambiguous lemmas: <em>als</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 84, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 44), <em>aber</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 41, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 2), <em>wie</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 33, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 15, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 9), <em>doch</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 21, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 4), <em>bis</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 25, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>für</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 127, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 4), <em>denn</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 1), <em>ob</em> (<tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 2), <em>-</em> (<tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> 178, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>jedoch</em> (<tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 15, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>als</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 84, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 44), <em>aber</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 41, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 2), <em>wie</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 32, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 15, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 10), <em>doch</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 21, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 4), <em>bis</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 25, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>für</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 127, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 4), <em>denn</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 1), <em>ob</em> (<tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 2), <em>-</em> (<tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> 178, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>jedoch</em> (<tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 15, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>als</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 82, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 37), <em>aber</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 31, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 2), <em>wie</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 33, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 7), <em>bis</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 22, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>für</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 121, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 4), <em>denn</em> (<tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ob</em> (<tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 2), <em>-</em> (<tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> 178, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>jedoch</em> (<tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 15, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>nur</em> (<tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 24, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>als</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 82, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 37), <em>aber</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 31, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 2), <em>wie</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 32, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 8), <em>bis</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 22, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>für</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 121, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 4), <em>denn</em> (<tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ob</em> (<tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 2), <em>-</em> (<tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> 178, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>jedoch</em> (<tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 15, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>nur</em> (<tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 24, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>als</em>
@@ -25,9 +25,9 @@ The 10 most frequent ambiguous types:  <em>als</em> (<tt><a href="de_pud-pos-CCO
   * <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 31: <em>Er hat seine harten Kanten in dem Spiel , <b>aber</b> auch weiche Hände .</em>
   * <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 2: <em>Warum das Video in Deutschland beworben wird , ist <b>aber</b> unklar .</em>
 * <em>wie</em>
-  * <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 33: <em>Manchmal ist das <b>wie</b> eine Superkraft .</em>
+  * <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 32: <em>Manchmal ist das <b>wie</b> eine Superkraft .</em>
   * <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 14: <em>Wir werden prüfen , ob und <b>wie</b> wir in dem nächsten Abschnitt fortfahren .</em>
-  * <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 7: <em>Genau <b>wie</b> Fjorde sind Süßwasserseen oft tief .</em>
+  * <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 8: <em>Genau <b>wie</b> Fjorde sind Süßwasserseen oft tief .</em>
 * <em>bis</em>
   * <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 22: <em>Diese waren <b>bis</b> nach Smith' Tod fast vollkommen in Vergessenheit geraten .</em>
   * <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Von Juni <b>bis</b> August 2010 war die Sahel - Zone von einer Hungersnot betroffen .</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>als</em> (<tt><a href="de_pud-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.198007).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.198185).
 
 The 1st highest number of forms (1) was observed with the lemma “-”: <em>-</em>.
 
@@ -68,25 +68,25 @@ The 3rd highest number of forms (1) was observed with the lemma “als”: <em>a
 `CCONJ` occurs with 1 feature-value pairs: `Foreign=Yes`
 
 `CCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (742 tokens).
+The most frequent feature combination is `_` (741 tokens).
 Examples: <em>und, als, aber, wie, oder, doch, sowie, bis, bzw., sowohl</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="de_pud-dep-cc.html">cc</a></tt> (722; 97% instances), <tt><a href="de_pud-dep-cc-preconj.html">cc:preconj</a></tt> (10; 1% instances), <tt><a href="de_pud-dep-compound.html">compound</a></tt> (3; 0% instances), <tt><a href="de_pud-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="de_pud-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="de_pud-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="de_pud-dep-dep.html">dep</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="de_pud-dep-cc.html">cc</a></tt> (722; 97% instances), <tt><a href="de_pud-dep-cc-preconj.html">cc:preconj</a></tt> (10; 1% instances), <tt><a href="de_pud-dep-compound.html">compound</a></tt> (3; 0% instances), <tt><a href="de_pud-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="de_pud-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="de_pud-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (319; 43% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (272; 37% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (73; 10% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (42; 6% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (15; 2% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (12; 2% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (319; 43% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (272; 37% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (73; 10% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (42; 6% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (14; 2% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (12; 2% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
-736 (99%) `CCONJ` nodes are leaves.
+738 (99%) `CCONJ` nodes are leaves.
 
-6 (1%) `CCONJ` nodes have one child.
+3 (0%) `CCONJ` nodes have one child.
 
 1 (0%) `CCONJ` nodes have two children.
 
 The highest child degree of a `CCONJ` node is 2.
 
-Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="de_pud-dep-compound.html">compound</a></tt> (3; 38% instances), <tt><a href="de_pud-dep-fixed.html">fixed</a></tt> (3; 38% instances), <tt><a href="de_pud-dep-punct.html">punct</a></tt> (2; 25% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="de_pud-dep-compound.html">compound</a></tt> (3; 60% instances), <tt><a href="de_pud-dep-punct.html">punct</a></tt> (2; 40% instances)
 
-Children of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (3; 38% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (2; 25% instances), <tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 25% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (1; 13% instances)
+Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (2; 40% instances), <tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 40% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (1; 20% instances)
 

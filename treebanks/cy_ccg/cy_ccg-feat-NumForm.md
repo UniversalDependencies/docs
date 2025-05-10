@@ -9,23 +9,23 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `Combi`, `Digit`, `Roman`, `Word`.
 
-682 tokens (1%) have a non-empty value of `NumForm`.
+686 tokens (1%) have a non-empty value of `NumForm`.
 255 types (4%) occur at least once with a non-empty value of `NumForm`.
 226 lemmas (5%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 1 part-of-speech tags: <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (682; 1% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (686; 1% instances).
 
 ### `NUM`
 
-682 <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> tokens (99% of all `NUM` tokens) have a non-empty value of `NumForm`.
+686 <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="cy_ccg-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (682; 100%), <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=EMPTY</tt> (613; 90%), <tt><a href="cy_ccg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (591; 87%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="cy_ccg-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (686; 100%), <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=EMPTY</tt> (617; 90%), <tt><a href="cy_ccg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (595; 87%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
 * `Combi` (13; 2% of non-empty `NumForm`): <em>16.5m, 17.8, 1974-1996, 2021-22, 25.8, 3.3, 3.30, 4-8, 5.9m, 5m</em>
-* `Digit` (335; 49% of non-empty `NumForm`): <em>4, 2019, 10, 200, 2020, 50, 500, 7, 100, 11</em>
+* `Digit` (336; 49% of non-empty `NumForm`): <em>4, 2019, 10, 200, 2020, 50, 500, 7, 100, 11</em>
 * `Roman` (4; 1% of non-empty `NumForm`): <em>I, VIII</em>
-* `Word` (330; 48% of non-empty `NumForm`): <em>un, chwe, dau, ddau, ddwy, tri, tair, pedair, dwy, bymtheg</em>
+* `Word` (333; 49% of non-empty `NumForm`): <em>un, chwe, dau, ddau, ddwy, tri, tair, pedair, dwy, bymtheg</em>
 
 `NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (226) occur only with one value of `NumForm`.
 

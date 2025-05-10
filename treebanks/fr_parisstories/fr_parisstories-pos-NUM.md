@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-ParisStories: POS Tags: `NUM`
 
-There are 43 `NUM` lemmas (2%), 46 `NUM` types (1%) and 240 `NUM` tokens (1%).
-Out of 15 observed tags, the rank of `NUM` is: 7 in number of lemmas, 7 in number of types and 14 in number of tokens.
+There are 42 `NUM` lemmas (2%), 45 `NUM` types (1%) and 240 `NUM` tokens (1%).
+Out of 15 observed tags, the rank of `NUM` is: 6 in number of lemmas, 7 in number of types and 14 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>deux, trois, six, dix, mille, cinq, quatre, huit, quatorze, sept</em>
 
@@ -38,7 +38,7 @@ The 10 most frequent ambiguous types:  <em>six</em> (<tt><a href="fr_parisstorie
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.069767 (the average of all parts of speech is 1.332572).
+The form / lemma ratio of `NUM` is 1.071429 (the average of all parts of speech is 1.353739).
 
 The 1st highest number of forms (2) was observed with the lemma “cent”: <em>cent, cents</em>.
 

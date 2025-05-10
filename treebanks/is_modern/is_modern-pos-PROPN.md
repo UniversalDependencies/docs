@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>þm.</em> (<tt><a href="is_modern-pos
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.291572 (the average of all parts of speech is 1.738114).
+The form / lemma ratio of `PROPN` is 1.291572 (the average of all parts of speech is 1.738233).
 
 The 1st highest number of forms (7) was observed with the lemma “ólympíuleikar”: <em>Ólympíuleika, Ólympíuleikana, Ólympíuleikanna, Ólympíuleikar, Ólympíuleikarnir, Ólympíuleikum, Ólympíuleikunum</em>.
 

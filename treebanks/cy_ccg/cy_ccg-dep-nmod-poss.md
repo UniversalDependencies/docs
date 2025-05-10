@@ -56,7 +56,7 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 7	eich	chi	PRON	dep	Number=Plur|Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
 8	hun	hun	PRON	refl	Number=Sing|PronType=Rcp	6	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	punct	_	10	punct	_	_
-10	hyd	hyd	NOUN	noun	Gender=Masc|Number=Sing	3	advmod	_	_
+10	hyd	hyd	NOUN	noun	ExtPos=ADV|Gender=Masc|Number=Sing	3	advmod	_	_
 11	yn	yn	ADP	prep	_	10	fixed	_	_
 12	oed	oed	NOUN	noun	Gender=Masc|Number=Sing	10	fixed	_	SpaceAfter=No
 13	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\n

@@ -39,7 +39,7 @@ The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 1 2 acl:relcl	color:blue
 1	Amaryte	Amaryte	NOUN	XPOS=3SG.M-filho-M-POSSD	_	3	nsubj:cop	_	gloss[pt]=3SG.M-filho-M-POSSD
 2	ãtukyry	ãtukyry	ADJ	XPOS=velho	_	1	acl:relcl	_	gloss[pt]=velho
-3	kaiapukury	kaiapukury	VERB	XPOS=ATRIB-caçar-DISTR	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	0	root	_	gloss[pt]=ATRIB-caçar-DISTR-3SG.M.O|SpaceAfter=No
+3	kaiapukury	kaiapuku	VERB	XPOS=ATRIB-caçar-DISTR	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres	0	root	_	gloss[pt]=ATRIB-caçar-DISTR-3SG.M.O|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -52,7 +52,7 @@ The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 6	fgColor:white
 # visual-style 6 7 acl:relcl	color:blue
 1	Nynuwa	nynuwa	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	gloss[pt]=3PL
-2	awary	awa	VERB	XPOS=ter	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	0	root	_	gloss[pt]=ter-3SG.M.O
+2	awary	awa	VERB	XPOS=ter	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres	0	root	_	gloss[pt]=ter-3SG.M.O
 3	ximaky	ximaky	NOUN	N	Case=Nom|Gender=Masc|Number=Sing|Possessed=No	2	obj	_	gloss[pt]=peixe|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	awa	awa	VERB	XPOS=ter	_	2	conj	_	gloss[pt]=ter
@@ -61,7 +61,7 @@ The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 8	awakary	awa	VERB	XPOS=ter-REL.M.S	_	7	acl:relcl	_	gloss[pt]=ter-REL.M.S|SpaceAfter=No
 9	,	,	PUNCT	_	_	2	punct	_	_
 10	nynuwa	nynuwa	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	gloss[pt]=3PL
-11	awary	awa	VERB	XPOS=ter	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	2	conj	_	gloss[pt]=ter-3SG.M.O
+11	awary	awa	VERB	XPOS=ter	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres	2	conj	_	gloss[pt]=ter-3SG.M.O
 12	iumyary	iumyary	NOUN	XPOS=macaxeira	_	11	obj	_	gloss[pt]=macaxeira
 13	apikumunhi	apiku	NOUN	XPOS=adiante	Case=Dat	12	nmod	_	gloss[pt]=adiante-DAT
 14	amãnteere	amãnteere	NOUN	XPOS=fruta	_	12	conj	_	gloss[pt]=fruta|SpaceAfter=No

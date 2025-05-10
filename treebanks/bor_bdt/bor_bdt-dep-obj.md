@@ -8,62 +8,68 @@ udver: '2'
 
 This relation is universal.
 
-299 nodes (4%) are attached to their parents as `obj`.
+3240 nodes (2%) are attached to their parents as `obj`.
 
-277 instances of `obj` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.27090301003344.
+3235 instances of `obj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.14753086419753.
 
-The following 14 pairs of parts of speech are connected with `obj`: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (245; 82% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (20; 7% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (8; 3% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 obj	color:blue
-1	Icare	icare	ADV	adv	_	4	advmod	_	_
-2	karore	karo	NOUN	n	Mood=Ind	4	nsubj	_	_
-3	togwa	okwa	NOUN	n	Reflex=Yes	4	obj	_	_
-4	to	to	VERB	v	Number=Sing|Person=3	0	root	_	_
-5	ji	ji	ADP	posp	Number=Sing|Person=3	4	case	_	_
-
-~~~
+The following 49 pairs of parts of speech are connected with `obj`: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (2691; 83% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (94; 3% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (82; 3% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (79; 2% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (50; 2% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (48; 1% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (34; 1% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (27; 1% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (9; 0% instances), <tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="bor_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="bor_bdt-pos-DET.html">DET</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-DET.html">DET</a></tt>-<tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-DET.html">DET</a></tt>-<tt><a href="bor_bdt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bor_bdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bor_bdt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-NUM.html">NUM</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt>-<tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 obj	color:blue
-1	Kabajiba	kaba	PRON	pron	PronType=Int	2	obj	_	[];;
-2	aro	ro	VERB	v	Number=Sing|Person=2	0	root	_	[];do,make;fazer
-3	oino	oino	ADV	adv	_	2	advmod	_	[];thus;assim
-4	toro	toro	ADV	adv	Deixis=Remt	2	advmod	_	[];there;lá
-5	?	?	PUNCT	punct	_	2	punct	_	[];;
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 4 obj	color:blue
-1	Iwagududoge	Iwagudu	PROPN	propn	_	2	dep	_	_
-2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	6	nsubj	_	_
-3	ia	ia	DET	_	Definite=Ind|PronType=Art	4	det	_	_
-4	Arigao	Arigao	PROPN	propn	_	6	obj	_	_
-5	Kigadurewy	Kigadurewy	PROPN	propn	_	4	nmod	_	_
-6	maky	_	VERB	v	_	0	root	_	_
-7	Ino	_	PROPN	propn	_	6	obl	_	_
-8	Kuri	_	PROPN	propn	_	7	compound	_	_
-9	ai	i	ADP	posp	Number=Sing|Person=2	7	case	_	_
-10	,	,	PUNCT	punct	_	6	punct	_	_
-11	eno	eno	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	6	dislocated	_	_
-12	core	co	NOUN	n	Mood=Ind	11	nmod	_	_
+# visual-style 6 5 obj	color:blue
+1	Du	du	NOUN	n	_	6	obl	_	_
+2	keje	keje	ADP	posp	Number=Sing	1	case	_	_
+3	icare	icare	ADV	adv	_	6	advmod	_	_
+4	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	6	nsubj	_	_
+5	tugera	iera	NOUN	n	Number=Sing|Reflex=Yes	6	obj	_	_
+6	tugu	tugu	VERB	vt	Number=Sing|Person=3	0	root	_	_
+7	nowu	nowu	DET	dem	Deixis=Med	8	det	_	_
+8	bapoto	bapo	VERB	v	Number=Sing|Person=3|Voice=Cau	6	parataxis	_	_
+9	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\r\n\r\n
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 obj	color:blue
+1	Akedure	edu	VERB	v	Aspect=Inc|Mood=Ind|Number[subj]=Sing|Person[subj]=2	7	advcl	_	_
+2	dukeje	du	SCONJ	x	_	1	mark	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	7	nsubj	_	_
+5	Cibae	Cibae	VERB	v	_	7	obj	_	_
+6	Tawadu	Tawadu	ADV	adv	_	7	advmod	_	_
+7	towuje	towuje	VERB	v	Number=Plur|Person=3	0	root	_	_
+8	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\r\n
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 obj	color:blue
+1	Ere	ere	PRON	bi	Mood=Ind|Number=Plur|Person=3	6	nsubj	_	_
+2	nowu	nowu	DET	dem	Deixis=Remt	3	det	_	_
+3	aria	aria	PROPN	propn	_	4	nmod	_	_
+4	meriri	meriri	NOUN	n	_	5	nmod	_	_
+5	kurireuge	kurireu	NOUN	n	Number=Plur	6	obj	_	_
+6	erego	re	NOUN	v	Number=Plur|Person=3|Voice=Cau	7	obj	_	_
+7	toro	_	VERB	v	Number=Sing|Person=3	0	root	_	_
+8	Boe	boe	X	x	_	9	nmod	_	_
+9	eke	eke	NOUN	n	_	7	obl	_	_
+10	jace	jace	ADP	posp	Number=Sing|Person=3	9	case	_	_
+11	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\r\n
 
 ~~~
 

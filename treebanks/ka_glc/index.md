@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Irina Lobzhanidze.
 
 Repository: [UD_Georgian-GLC](https://github.com/UniversalDependencies/UD_Georgian-GLC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udka_glc215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udka_glc216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 
@@ -80,7 +80,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 
 ## Relations
 
-[acl](ka_glc-dep-acl.html) – [acl:relcl](ka_glc-dep-acl-relcl.html) – [advcl](ka_glc-dep-advcl.html) – [advmod](ka_glc-dep-advmod.html) – [advmod:lmod](ka_glc-dep-advmod-lmod.html) – [amod](ka_glc-dep-amod.html) – [appos](ka_glc-dep-appos.html) – [aux](ka_glc-dep-aux.html) – [case](ka_glc-dep-case.html) – [cc](ka_glc-dep-cc.html) – [ccomp](ka_glc-dep-ccomp.html) – [compound](ka_glc-dep-compound.html) – [conj](ka_glc-dep-conj.html) – [cop](ka_glc-dep-cop.html) – [csubj](ka_glc-dep-csubj.html) – [dep](ka_glc-dep-dep.html) – [det](ka_glc-dep-det.html) – [det:poss](ka_glc-dep-det-poss.html) – [discourse](ka_glc-dep-discourse.html) – [expl](ka_glc-dep-expl.html) – [fixed](ka_glc-dep-fixed.html) – [flat](ka_glc-dep-flat.html) – [flat:foreign](ka_glc-dep-flat-foreign.html) – [flat:name](ka_glc-dep-flat-name.html) – [iobj](ka_glc-dep-iobj.html) – [mark](ka_glc-dep-mark.html) – [nmod](ka_glc-dep-nmod.html) – [nsubj](ka_glc-dep-nsubj.html) – [nsubj:outer](ka_glc-dep-nsubj-outer.html) – [nsubj:pass](ka_glc-dep-nsubj-pass.html) – [nummod](ka_glc-dep-nummod.html) – [obj](ka_glc-dep-obj.html) – [obl](ka_glc-dep-obl.html) – [obl:tmod](ka_glc-dep-obl-tmod.html) – [orphan](ka_glc-dep-orphan.html) – [parataxis](ka_glc-dep-parataxis.html) – [punct](ka_glc-dep-punct.html) – [root](ka_glc-dep-root.html) – [xcomp](ka_glc-dep-xcomp.html)
+[acl](ka_glc-dep-acl.html) – [acl:relcl](ka_glc-dep-acl-relcl.html) – [advcl](ka_glc-dep-advcl.html) – [advmod](ka_glc-dep-advmod.html) – [advmod:lmod](ka_glc-dep-advmod-lmod.html) – [amod](ka_glc-dep-amod.html) – [appos](ka_glc-dep-appos.html) – [aux](ka_glc-dep-aux.html) – [case](ka_glc-dep-case.html) – [cc](ka_glc-dep-cc.html) – [ccomp](ka_glc-dep-ccomp.html) – [compound](ka_glc-dep-compound.html) – [conj](ka_glc-dep-conj.html) – [cop](ka_glc-dep-cop.html) – [csubj](ka_glc-dep-csubj.html) – [dep](ka_glc-dep-dep.html) – [det](ka_glc-dep-det.html) – [det:poss](ka_glc-dep-det-poss.html) – [discourse](ka_glc-dep-discourse.html) – [expl](ka_glc-dep-expl.html) – [flat](ka_glc-dep-flat.html) – [flat:foreign](ka_glc-dep-flat-foreign.html) – [flat:name](ka_glc-dep-flat-name.html) – [iobj](ka_glc-dep-iobj.html) – [mark](ka_glc-dep-mark.html) – [nmod](ka_glc-dep-nmod.html) – [nsubj](ka_glc-dep-nsubj.html) – [nsubj:outer](ka_glc-dep-nsubj-outer.html) – [nsubj:pass](ka_glc-dep-nsubj-pass.html) – [nummod](ka_glc-dep-nummod.html) – [obj](ka_glc-dep-obj.html) – [obl](ka_glc-dep-obl.html) – [obl:tmod](ka_glc-dep-obl-tmod.html) – [orphan](ka_glc-dep-orphan.html) – [parataxis](ka_glc-dep-parataxis.html) – [punct](ka_glc-dep-punct.html) – [root](ka_glc-dep-root.html) – [xcomp](ka_glc-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -1035,13 +1035,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Dat (169)</li>
       <li>VERB--NOUN-Erg (153)</li>
       <li>VERB--NOUN-Gen (1)</li>
-      <li>VERB--NOUN-Nom (1514)</li>
-      <li>VERB--PRON-Dat (52)</li>
+      <li>VERB--NOUN-Nom (1513)</li>
+      <li>VERB--PRON-Dat (53)</li>
       <li>VERB--PRON-Erg (38)</li>
       <li>VERB--PRON-Ess (1)</li>
       <li>VERB--PRON-Gen (12)</li>
       <li>VERB--PRON-Ins (1)</li>
-      <li>VERB--PRON-Nom (513)</li>
+      <li>VERB--PRON-Nom (512)</li>
       <li>VERB-Part--NOUN-Dat (1)</li>
       <li>VERB-Part--NOUN-Nom (15)</li>
       <li>VERB-Part--PRON-Nom (4)</li>
@@ -1064,11 +1064,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Ins (1)</li>
       <li>VERB--NOUN-Nom (630)</li>
       <li>VERB--NOUN-Nom-ADP(შესახებ) (1)</li>
-      <li>VERB--PRON-Dat (83)</li>
+      <li>VERB--PRON-Dat (82)</li>
       <li>VERB--PRON-Ess (2)</li>
       <li>VERB--PRON-Gen (5)</li>
       <li>VERB--PRON-Ins (2)</li>
-      <li>VERB--PRON-Nom (19)</li>
+      <li>VERB--PRON-Nom (20)</li>
       <li>VERB-Part--NOUN-Dat (2)</li>
       <li>VERB-Part--NOUN-Ess (1)</li>
       <li>VERB-Part--NOUN-Gen (1)</li>
@@ -1100,5 +1100,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>advmod:lmod</a>, <a>det:poss</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

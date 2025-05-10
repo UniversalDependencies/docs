@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (44; 100% of non-empty `Abbr`): <em>l, GCA, MPS, m, A, APK, BK, DNA, ECB, GCHQ</em>
-* `EMPTY` (4439): <em>roce, roku, let, století, letech, době, území, období, oblasti, moře</em>
+* `EMPTY` (4438): <em>roce, roku, let, století, letech, době, území, období, oblasti, moře</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (30) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (40; 100% of non-empty `Abbr`): <em>USA, BBC, CNN, EU, OSN, RECO, AP, BA, BID, CBC</em>
-* `EMPTY` (1051): <em>Čína, Francie, Čching, Albánie, Británii, Clintonové, Danevirke, Evropě, Itálii, Trump</em>
+* `EMPTY` (1052): <em>Čína, Francie, Čching, Albánie, Británii, Clintonové, Danevirke, Evropě, Itálii, Trump</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (27) occur only with one value of `Abbr`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `DET` and `Abbr` co-occurred: 
 `DET` tokens may have the following values of `Abbr`:
 
 * `Yes` (13; 100% of non-empty `Abbr`): <em>n</em>
-* `EMPTY` (831): <em>to, který, jeho, které, která, jejich, své, mnoho, toho, její</em>
+* `EMPTY` (828): <em>to, který, jeho, které, která, jejich, své, mnoho, toho, její</em>
 
 ### `ADP`
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>cca</em>
-* `EMPTY` (836): <em>tak, také, jak, poté, už, kde, více, pouze, stejně, ještě</em>
+* `EMPTY` (832): <em>tak, také, jak, poté, už, kde, více, pouze, stejně, ještě</em>
 
 ## Relations with Agreement in `Abbr`
 

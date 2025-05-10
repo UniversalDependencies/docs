@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1072 nodes (1%) are attached to their parents as `nummod`.
+1058 nodes (1%) are attached to their parents as `nummod`.
 
-545 instances of `nummod` (51%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.41138059701493.
+545 instances of `nummod` (52%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.41682419659735.
 
-The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (867; 81% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (99; 9% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (65; 6% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (20; 2% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sk_snk-pos-SYM.html">SYM</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (863; 82% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (99; 9% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (55; 5% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (20; 2% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sk_snk-pos-SYM.html">SYM</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

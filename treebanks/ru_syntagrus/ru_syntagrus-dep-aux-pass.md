@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="ru_syntagrus-dep-au
 3312 instances of `aux:pass` (97%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.18315233343117.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (3403; 100% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (3403; 100% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,10 +24,10 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 4 3 aux:pass	color:blue
 1	"	"	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
 2	Алгоризм	алгоризм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	4:nsubj	_
-3	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	4:aux	_
+3	был	быть	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	4:aux	_
 4	придуман	придумать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	_
 5	в	в	ADP	_	_	6	case	6:case	_
-6	Греции	Греция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	4:obl:в:loc	SpaceAfter=No
+6	Греции	Греция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	4	obl	4:obl:в:loc	SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
@@ -40,20 +40,20 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 6	fgColor:white
 # visual-style 6 8 aux:pass	color:blue
 1	В	в	ADP	_	_	3	case	3:case	_
-2	2010	2010	ADJ	_	Degree=Pos	3	amod	3:amod	_
+2	2010	2010	ADJ	_	NumForm=Digit|NumType=Ord	3	amod	3:amod	pos="ANUM"|_
 3	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	6:obl:в:loc	_
 4	в	в	ADP	_	_	6	case	6:case	_
 5	"	"	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
-6	Science	Science	PROPN	_	Foreign=Yes	0	root	0:root	SpaceAfter=No
+6	Science	Science	X	_	Foreign=Yes	0	root	0:root	SpaceAfter=No
 7	"	"	PUNCT	_	_	6	punct	6:punct	_
-8	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	aux:pass	6:aux:pass	_
+8	была	быть	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	aux:pass	6:aux:pass	_
 9	опубликована	опубликовать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	flat:foreign	6:flat:foreign	_
 10	статья	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	6:nsubj:pass	SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	12:punct	_
 12	подтверждающая	подтверждать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	10:acl	_
 13	данные	данные	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	12	obj	12:obj	_
-14	Петера	Петер	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	nmod	13:nmod:gen	_
-15	Тяка	Тяк	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	14	flat:name	14:flat:name	SpaceAfter=No
+14	Петера	Петер	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	13	nmod	13:nmod:gen	_
+15	Тяка	Тяк	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	14	flat:name	14:flat:name	SpaceAfter=No
 16	.	.	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
@@ -68,7 +68,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	Японцы	японец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj:pass	5:nsubj:pass	_
 2	и	и	CCONJ	_	_	3	cc	3:cc	_
 3	китайцы	китаец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	conj	1:conj|5:nsubj:pass	_
-4	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux:pass	5:aux:pass	_
+4	будут	быть	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux:pass	5:aux:pass	_
 5	вынуждены	вынужденный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	0:root	_
 6	вкладывать	вкладывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	5:xcomp	_
 7	деньги	деньги	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	6	obj	6:obj	_
@@ -76,7 +76,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 9	российскую	российский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	10:amod	_
 10	промышленность	промышленность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	6:obl:в:acc	SpaceAfter=No
 11	,	,	PUNCT	_	_	19	punct	19:punct	_
-12	так	так	ADV	_	Degree=Pos	19	mark	19:mark	_
+12	так	так	ADV	_	Degree=Pos|PronType=Dem	19	mark	19:mark	pos="ADVPRO"|_
 13	как	как	SCONJ	_	_	12	fixed	12:fixed	_
 14	без	без	ADP	_	_	16	case	16:case	_
 15	нашего	наш	DET	_	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	16	det	16:det	_

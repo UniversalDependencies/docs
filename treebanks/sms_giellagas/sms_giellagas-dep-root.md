@@ -22,10 +22,10 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
-1	teʹl	teʹl	ADV	Adv	_	2	advmod:tmod	_	_
+1	teʹl	teʹl	ADV	Adv	_	2	advmod	_	_
 2	piʹjje	piijjâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Pl3
 3	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	GTtags=Sg,Nom
-4	ekka	eeʹǩǩ	NOUN	N	Case=Ill|Number=Sing	2	obl:tmod	_	GTtags=Sg,Ill
+4	ekka	eeʹǩǩ	NOUN	N	Case=Ill|Number=Sing	2	obl	_	GTtags=Sg,Ill
 5	sluužba	sluuʹžb	NOUN	N	Case=Ill|Number=Sing	2	obl	_	GTtags=Sg,Ill|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -39,14 +39,14 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
 1	Ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	2	aux	_	GTtags=Neg,Ind,Sg3
-2	kuuʹǩǩ	kuʹǩǩ	ADV	Adv	_	4	advmod:tmod	_	GTtags=Sg,Nom
+2	kuuʹǩǩ	kuʹǩǩ	ADV	Adv	_	4	advmod	_	GTtags=Sg,Nom
 3	leämmaž	leeʹd	AUX	V	Aspect=Perf|VerbForm=Part	4	cop	_	GTtags=IV,Act,PrfPrc
 4	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	0	root	_	GTtags=Sg,Loc|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	iʹttli	iʹttled	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	advcl	_	GTtags=Ind,Prt,Sg3
 7	kuʹmpp	kuʹmpp	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Sg,Nom
 8	väʹst	väʹst	ADV	Adv	_	6	advmod	_	_
-9	mååust	mååust	ADV	Adv	_	6	advmod:lmod	_	SpaceAfter=No
+9	mååust	mååust	ADV	Adv	_	6	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
@@ -67,8 +67,8 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 7	de	de	CCONJ	CC	_	9	cc	_	_
 8	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	GTtags=Pers,Sg3,Nom
 9	jåått	jååʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3
-10	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	9	advmod:tmod	_	GTtags=Sem/Time
-11	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	9	obl:lmod	_	GTtags=Sg,Loc|SpaceAfter=No
+10	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	9	advmod	_	GTtags=Sem/Time
+11	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	9	obl	_	GTtags=Sg,Loc|SpaceAfter=No
 12	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~

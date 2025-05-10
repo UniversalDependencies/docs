@@ -22,18 +22,18 @@ The following 1 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 5 nsubj:outer	color:blue
-1	Həll	həl	NOUN	_	_	2	compound:lvc	_	_
-2	eləməyə	elə	VERB	_	_	4	xcomp	_	_
-3	təlaş	təlaş	NOUN	_	_	4	compound:lvc	_	_
-4	elədigimiz	elə	VERB	_	_	5	acl	_	_
-5	məsələ	məsələ	NOUN	_	_	12	nsubj:outer	_	_
-6	kitabxanada	kitabxana	NOUN	_	_	12	obl	_	_
-7	beş	beş	NUM	_	_	9	nummod	_	_
-8	dənə	dənə	NOUN	_	_	7	nmod	_	_
-9	kitaba	kitab	NOUN	_	_	12	obl	_	_
+1	Həll	həl	NOUN	_	Case=Nom|Number=Sing	2	compound:lvc	_	_
+2	eləməyə	elə	VERB	_	Case=Dat|VerbForm=Vnoun	4	xcomp	_	_
+3	təlaş	təlaş	NOUN	_	Case=Nom|Number=Sing	4	compound:lvc	_	_
+4	elədigimiz	elə	VERB	_	Aspect=Perf|Mood=Ind|Number[psor]=Plur|Person[psor]=1|Tense=Past|VerbForm=Part	5	acl	_	_
+5	məsələ	məsələ	NOUN	_	Case=Nom|Number=Sing	12	nsubj:outer	_	_
+6	kitabxanada	kitabxana	NOUN	_	Case=Loc|Number=Sing	12	obl	_	_
+7	beş	beş	NUM	_	NumType=Card	9	nummod	_	_
+8	dənə	dənə	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	_
+9	kitaba	kitab	NOUN	_	Case=Dat|Number=Sing	12	obl	_	_
 10	da	da	ADV	_	_	9	advmod:emph	_	_
-11	yer	yer	NOUN	_	_	12	nsubj	_	_
-12	olmamasıdır	ol	VERB	_	_	0	root	_	SpaceAfter=No
+11	yer	yer	NOUN	_	Case=Nom|Number=Sing	12	nsubj	_	_
+12	olmamasıdır	ol	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_
 
 ~~~

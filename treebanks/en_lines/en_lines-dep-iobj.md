@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-85 nodes (0%) are attached to their parents as `iobj`.
+98 nodes (0%) are attached to their parents as `iobj`.
 
-82 instances of `iobj` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.27058823529412.
+94 instances of `iobj` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.25510204081633.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (64; 75% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (16; 19% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (5; 6% instances).
+The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (74; 76% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (18; 18% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (5; 5% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -69,12 +69,12 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 1	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	hardly	hardly	ADV	_	_	3	advmod	_	_
 3	know	know	VERB	INF	VerbForm=Inf	0	root	_	_
-4	myself	I	PRON	RFL-P1SG	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	3	dislocated	_	SpaceAfter=No
+4	myself	myself	PRON	RFL-P1SG	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	3	dislocated	_	SpaceAfter=No
 5	.	.	PUNCT	Period	_	3	punct	_	_
 6	Quinn	Quinn	PROPN	SG-NOM	Number=Sing	7	nsubj	_	_
 7	gave	give	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	_	_
 8	Auster	Auster	PROPN	SG-NOM	Number=Sing	7	iobj	_	_
-9	an	an	DET	IND-SG	Definite=Ind|PronType=Art	11	det	_	_
+9	an	a	DET	IND-SG	Definite=Ind|PronType=Art	11	det	_	_
 10	honest	honest	ADJ	POS	Degree=Pos	11	amod	_	_
 11	look	look	NOUN	SG-NOM	Number=Sing	7	obj	_	SpaceAfter=No
 12	.	.	PUNCT	Period	_	7	punct	_	_

@@ -36,7 +36,7 @@ The following 13 pairs of parts of speech are connected with `flat:name`: <tt><a
 11	'	'	PUNCT	_	_	12	punct	_	SpaceAfter=No
 12	Take	Take	PROPN	_	_	10	obj	_	_
 13	Off	Off	PROPN	_	_	12	flat:name	_	SpaceAfter=No
-14	'	'	PUNCT	_	_	12	punct	_	SpaceAfter=No
+14	'	'	PUNCT	_	_	12	punct	_	_
 
 ~~~
 
@@ -58,7 +58,7 @@ The following 13 pairs of parts of speech are connected with `flat:name`: <tt><a
 9	Ching	ching	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
 10	Ling	ling	NOUN	_	Gender=Masc|Number=Sing	9	flat:name	_	SpaceAfter=No
 11	'	'	PUNCT	_	_	7	punct	_	_
-12	http://t.co/yfH1eRYFjN	http://t.co/yfH1eRYFjN	SYM	_	_	2	parataxis	_	SpaceAfter=No
+12	http://t.co/yfH1eRYFjN	http://t.co/yfH1eRYFjN	SYM	_	_	2	parataxis	_	_
 
 ~~~
 
@@ -84,7 +84,7 @@ The following 13 pairs of parts of speech are connected with `flat:name`: <tt><a
 13	Formulario	formulário	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	10	nmod	_	CorrectForm=Formulário
 14	Anual	anual	ADJ	_	Number=Sing	13	flat:name	_	_
 15	20-f	20-f	PROPN	_	_	13	flat:name	_	_
-16	http://t.co/OLZrEpFUcJ	http://t.co/OLZrEpFUcJ	SYM	_	_	10	parataxis	_	SpaceAfter=No
+16	http://t.co/OLZrEpFUcJ	http://t.co/OLZrEpFUcJ	SYM	_	_	10	parataxis	_	_
 
 ~~~
 

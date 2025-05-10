@@ -6,99 +6,100 @@ udver: '2'
 
 ## Treebank Statistics: UD_Russian-Taiga: POS Tags: `SCONJ`
 
-There are 43 `SCONJ` lemmas (0%), 47 `SCONJ` types (0%) and 3506 `SCONJ` tokens (2%).
+There are 64 `SCONJ` lemmas (0%), 70 `SCONJ` types (0%) and 25141 `SCONJ` tokens (1%).
 Out of 17 observed tags, the rank of `SCONJ` is: 15 in number of lemmas, 15 in number of types and 12 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>что, как, если, когда, чтобы, то, хотя, чем, чтоб, пока</em>
+The 10 most frequent `SCONJ` lemmas: <em>что, как, если, когда, чтобы, то, чем, хотя, пока, словно</em>
 
-The 10 most frequent `SCONJ` types:  <em>что, как, если, когда, чтобы, то, хотя, чем, чтоб, пока</em>
+The 10 most frequent `SCONJ` types:  <em>что, как, если, когда, чтобы, то, чем, хотя, пока, словно</em>
 
-The 10 most frequent ambiguous lemmas: <em>что</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 1152, <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 821, <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 12, <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 7), <em>как</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 732, <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 476, <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 1), <em>когда</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 270, <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 19), <em>то</em> (<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 464, <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 185, <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 66, <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> 54, <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> 1), <em>хотя</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 96, <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 39), <em>чем</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 90, <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 3), <em>пока</em> (<tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 62, <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 45), <em>хоть</em> (<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 33, <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 28), <em>ведь</em> (<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 55, <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 20), <em>будто</em> (<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 39, <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 13)
+The 10 most frequent ambiguous lemmas: <em>что</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 8266, <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 5111, <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 79, <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 8), <em>как</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 6720, <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 2844, <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 22, <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> 1), <em>когда</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 2004, <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 246), <em>то</em> (<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 4713, <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 990, <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 728, <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> 602, <tt><a href="ru_taiga-pos-X.html">X</a></tt> 2, <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> 1), <em>чем</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 635, <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 1), <em>хотя</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 523, <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 132), <em>пока</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 354, <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 202), <em>словно</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 235, <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 68, <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 1), <em>будто</em> (<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 267, <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 185), <em>ведь</em> (<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 724, <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 103)
 
-The 10 most frequent ambiguous types:  <em>что</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 1150, <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 498, <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 13, <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 6, <tt><a href="ru_taiga-pos-X.html">X</a></tt> 1), <em>как</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 657, <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 320, <tt><a href="ru_taiga-pos-X.html">X</a></tt> 3, <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> 1, <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 1), <em>когда</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 216, <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 20, <tt><a href="ru_taiga-pos-X.html">X</a></tt> 1), <em>чтобы</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 181, <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 1), <em>то</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 176, <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 174, <tt><a href="ru_taiga-pos-X.html">X</a></tt> 127, <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 65, <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> 49, <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> 23, <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 1), <em>хотя</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 68, <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 36), <em>чем</em> (<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 90, <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 87, <tt><a href="ru_taiga-pos-X.html">X</a></tt> 1), <em>пока</em> (<tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 57, <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 32), <em>хоть</em> (<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 30, <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 17), <em>ведь</em> (<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 37, <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 17)
+The 10 most frequent ambiguous types:  <em>что</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 8204, <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 3149, <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 36, <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 6, <tt><a href="ru_taiga-pos-X.html">X</a></tt> 1), <em>как</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 6276, <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 2043, <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 20, <tt><a href="ru_taiga-pos-X.html">X</a></tt> 3, <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> 1), <em>когда</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 1496, <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 214, <tt><a href="ru_taiga-pos-X.html">X</a></tt> 1), <em>чтобы</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 1557, <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 2), <em>то</em> (<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 1530, <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 973, <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 727, <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> 547, <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> 421, <tt><a href="ru_taiga-pos-X.html">X</a></tt> 130, <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 1), <em>чем</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 586, <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 467, <tt><a href="ru_taiga-pos-X.html">X</a></tt> 1), <em>хотя</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 396, <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 127), <em>пока</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 269, <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 174), <em>словно</em> (<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 207, <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 68, <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 1), <em>будто</em> (<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 257, <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 177)
 
 
 * <em>что</em>
-  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 1150: <em>@screened-88 ✅ взабраться на статую Христа - только <b>что</b> ! 😄</em>
-  * <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 498: <em>Мы собираем свой #Топ100 - <b>что</b> увидеть и попробовать во Вьетнаме .</em>
-  * <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 13: <em>а да ладно <b>что</b> плести врачу осталось уползти</em>
+  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 8204: <em>@screened-88 ✅ взабраться на статую Христа - только <b>что</b> ! 😄</em>
+  * <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 3149: <em>Мы собираем свой #Топ100 - <b>что</b> увидеть и попробовать во Вьетнаме .</em>
+  * <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 36: <em>а да ладно <b>что</b> плести врачу осталось уползти</em>
   * <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 6: <em>ууу . Даша .... твоими телесами разве <b>что</b> Меркель соблазнить можно ...</em>
   * <tt><a href="ru_taiga-pos-X.html">X</a></tt> 1: <em>Тесно , но кое <b>что</b> купить можно</em>
 * <em>как</em>
-  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 657: <em><b>как</b> красиво )))</em>
-  * <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 320: <em>А <b>как</b> туда добраться лучше ?</em>
+  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 6276: <em><b>как</b> красиво )))</em>
+  * <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 2043: <em>А <b>как</b> туда добраться лучше ?</em>
+  * <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 20: <em>дай - <b>как</b> , я свечу задую ...</em>
   * <tt><a href="ru_taiga-pos-X.html">X</a></tt> 3: <em>поэтому кое <b>как</b> на 4 !!!</em>
   * <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Цвет росписей мог варьироваться от чёрного до коричневатого , фиолетового и тёмно-зеленого ; в зависимости от обжига керамика могла приобретать <b>как</b> цвет бычьей кожи , так и красно-коричневый или даже зелено-коричневый оттенки .</em>
   * <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> 1: <em>Но никогда ни при <b>как</b> их условии никогда что там у россиян ?</em>
-  * <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 1: <em>дай - <b>как</b> , я свечу задую ...</em>
 * <em>когда</em>
-  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 216: <em>Они очень выручают и помогают , <b>когда</b> я выхожу на работу .</em>
-  * <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 20: <em>И результат самый большой танец в Питере из <b>когда</b> либо организованных !</em>
+  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 1496: <em>Они очень выручают и помогают , <b>когда</b> я выхожу на работу .</em>
+  * <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 214: <em>И результат самый большой танец в Питере из <b>когда</b> либо организованных !</em>
   * <tt><a href="ru_taiga-pos-X.html">X</a></tt> 1: <em>У меня есть сестра и у нее есть маленький ребёнок и получается она вечно его оставляет нам , каждый день с утра и до 8 вечера , объясняя это тем , что ей не <b>когда</b> , она занята , он мешает и тд .</em>
 * <em>чтобы</em>
-  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 181: <em>Не разу не видела , <b>чтобы</b> крестились и матерились одновременно 🙈🙈🙈</em>
-  * <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 1: <em>. я буду любить тебя <b>чтобы</b> не произошло ...</em>
+  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 1557: <em>Не разу не видела , <b>чтобы</b> крестились и матерились одновременно 🙈🙈🙈</em>
+  * <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 2: <em>. я буду любить тебя <b>чтобы</b> не произошло ...</em>
 * <em>то</em>
-  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 176: <em>Кстати , вот если у детей разница в 5 - 6 лет , <b>то</b> вообще легко !</em>
-  * <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 174: <em>А <b>то</b> , что культуры у нас нет , это да !!!</em>
-  * <tt><a href="ru_taiga-pos-X.html">X</a></tt> 127: <em>Как- <b>то</b> так 😥</em>
-  * <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 65: <em>Да , наконец - <b>то</b> увидим солнце 🌤</em>
-  * <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> 49: <em>Напротив сидел парень , <b>то</b> поднимал глаза на меня , <b>то</b> опускал .</em>
-  * <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> 23: <em>Каждый год он отмечается в одно и <b>то</b> же время — 19 января .</em>
+  * <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 1530: <em>А <b>то</b> , что культуры у нас нет , это да !!!</em>
+  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 973: <em>Кстати , вот если у детей разница в 5 - 6 лет , <b>то</b> вообще легко !</em>
+  * <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 727: <em>Да , наконец - <b>то</b> увидим солнце 🌤</em>
+  * <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> 547: <em>Напротив сидел парень , <b>то</b> поднимал глаза на меня , <b>то</b> опускал .</em>
+  * <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> 421: <em>Каждый год он отмечается в одно и <b>то</b> же время — 19 января .</em>
+  * <tt><a href="ru_taiga-pos-X.html">X</a></tt> 130: <em>Как- <b>то</b> так 😥</em>
   * <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 1: <em>Могила императора <b>то</b> же не вскрыта , а современники говорили , что там – « Несметные сокровища , коварные ловушки , реки жидкой ртути » .</em>
-* <em>хотя</em>
-  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 68: <em>Хороший магазин , есть все , <b>хотя</b> цены , как и везде завышены .</em>
-  * <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 36: <em>Пожалуйста , подскажите , что мне делать <b>хотя</b> бы сейчас ?</em>
 * <em>чем</em>
-  * <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 90: <em>о <b>чем</b> свидетельствуют годы цивилизационного развития ) .</em>
-  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 87: <em>И премия выше в три раза , <b>чем</b> моя ежемесячная ЗП - " пособие " 😟</em>
+  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 586: <em>И премия выше в три раза , <b>чем</b> моя ежемесячная ЗП - " пособие " 😟</em>
+  * <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> 467: <em>о <b>чем</b> свидетельствуют годы цивилизационного развития ) .</em>
   * <tt><a href="ru_taiga-pos-X.html">X</a></tt> 1: <em>У меня проблема - по ночам просыпаюсь от тошноты и при <b>чем</b> просыпаюсь в одно и тоже время в начале второго .</em>
+* <em>хотя</em>
+  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 396: <em>Хороший магазин , есть все , <b>хотя</b> цены , как и везде завышены .</em>
+  * <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 127: <em>Пожалуйста , подскажите , что мне делать <b>хотя</b> бы сейчас ?</em>
 * <em>пока</em>
-  * <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 57: <em>Судя по беспорядкам , я <b>пока</b> во Францию не хочу 🙈😉</em>
-  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 32: <em>Чтобы москитов не наесться <b>пока</b> едешь на байке</em>
-* <em>хоть</em>
-  * <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 30: <em>они меня пугают , но в жизни надо побывать <b>хоть</b> раз</em>
-  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 17: <em>Вот тут пожалел , что не взял бинокль , <b>хоть</b> маленький .</em>
-* <em>ведь</em>
-  * <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 37: <em>Как засняли так близко , опасно <b>ведь</b> ?</em>
-  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 17: <em>интересно , какие рыбки будут у них , <b>ведь</b> мама с папой то разные ))</em>
+  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 269: <em>Чтобы москитов не наесться <b>пока</b> едешь на байке</em>
+  * <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 174: <em>Судя по беспорядкам , я <b>пока</b> во Францию не хочу 🙈😉</em>
+* <em>словно</em>
+  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 207: <em>С начала выглядело , <b>словно</b> он поцарапался .</em>
+  * <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 68: <em>Прозрачные краски <b>словно</b> загораются изнутри !</em>
+  * <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> 1: <em>В произведении К. С. Петрова - Водкина « 1918 год в Петрограде » ( 1920 , ГТГ ) <b>словно</b> ощущается дыхание суровой эпохи гражданской войны , стремление к самопожертвованию простой женщины - труженицы во имя новой жизни , будущего своего ребенка .</em>
+* <em>будто</em>
+  * <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> 257: <em>тогда вторая половинка сквозная <b>будто</b> шелковинка порхает в облаке пустом</em>
+  * <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> 177: <em>птицы ходят по траве <b>будто</b> сны на голове</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.093023 (the average of all parts of speech is 1.879397).
+The form / lemma ratio of `SCONJ` is 1.093750 (the average of all parts of speech is 2.706111).
 
-The 1st highest number of forms (3) was observed with the lemma “чтоб”: <em>Чтоп, что, чтоб</em>.
+The 1st highest number of forms (3) was observed with the lemma “что”: <em>Что́, чтл, что</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “чтобы”: <em>что, чтоб, чтобы</em>.
+The 2nd highest number of forms (3) was observed with the lemma “чтоб”: <em>Чтоп, что, чтоб</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “если”: <em>Еслим, если</em>.
+The 3rd highest number of forms (3) was observed with the lemma “чтобы”: <em>что, чтоб, чтобы</em>.
 
-`SCONJ` occurs with 3 features: <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt> (282; 8% instances), <tt><a href="ru_taiga-feat-Typo.html">Typo</a></tt> (25; 1% instances), <tt><a href="ru_taiga-feat-Abbr.html">Abbr</a></tt> (14; 0% instances)
+`SCONJ` occurs with 4 features: <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt> (1940; 8% instances), <tt><a href="ru_taiga-feat-ExtPos.html">ExtPos</a></tt> (484; 2% instances), <tt><a href="ru_taiga-feat-Typo.html">Typo</a></tt> (25; 0% instances), <tt><a href="ru_taiga-feat-Abbr.html">Abbr</a></tt> (14; 0% instances)
 
-`SCONJ` occurs with 3 feature-value pairs: `Abbr=Yes`, `Mood=Cnd`, `Typo=Yes`
+`SCONJ` occurs with 8 feature-value pairs: `Abbr=Yes`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=PART`, `ExtPos=SCONJ`, `Mood=Cnd`, `Typo=Yes`
 
-`SCONJ` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (3208 tokens).
-Examples: <em>что, как, если, когда, то, хотя, чем, пока, хоть, ведь</em>
+`SCONJ` occurs with 10 feature combinations.
+The most frequent feature combination is `_` (22701 tokens).
+Examples: <em>что, как, если, когда, то, чем, хотя, пока, словно, будто</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 14 different relations: <tt><a href="ru_taiga-dep-mark.html">mark</a></tt> (2963; 85% instances), <tt><a href="ru_taiga-dep-case.html">case</a></tt> (277; 8% instances), <tt><a href="ru_taiga-dep-fixed.html">fixed</a></tt> (184; 5% instances), <tt><a href="ru_taiga-dep-cc.html">cc</a></tt> (32; 1% instances), <tt><a href="ru_taiga-dep-advmod.html">advmod</a></tt> (25; 1% instances), <tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt> (8; 0% instances), <tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt> (4; 0% instances), <tt><a href="ru_taiga-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="ru_taiga-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="ru_taiga-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="ru_taiga-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="ru_taiga-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="ru_taiga-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="ru_taiga-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 22 different relations: <tt><a href="ru_taiga-dep-mark.html">mark</a></tt> (19124; 76% instances), <tt><a href="ru_taiga-dep-case.html">case</a></tt> (4039; 16% instances), <tt><a href="ru_taiga-dep-fixed.html">fixed</a></tt> (1501; 6% instances), <tt><a href="ru_taiga-dep-advmod.html">advmod</a></tt> (205; 1% instances), <tt><a href="ru_taiga-dep-cc.html">cc</a></tt> (176; 1% instances), <tt><a href="ru_taiga-dep-conj.html">conj</a></tt> (18; 0% instances), <tt><a href="ru_taiga-dep-parataxis-discourse.html">parataxis:discourse</a></tt> (18; 0% instances), <tt><a href="ru_taiga-dep-flat-name.html">flat:name</a></tt> (9; 0% instances), <tt><a href="ru_taiga-dep-root.html">root</a></tt> (8; 0% instances), <tt><a href="ru_taiga-dep-acl.html">acl</a></tt> (6; 0% instances), <tt><a href="ru_taiga-dep-obl.html">obl</a></tt> (6; 0% instances), <tt><a href="ru_taiga-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="ru_taiga-dep-appos.html">appos</a></tt> (5; 0% instances), <tt><a href="ru_taiga-dep-ccomp.html">ccomp</a></tt> (4; 0% instances), <tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt> (4; 0% instances), <tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt> (4; 0% instances), <tt><a href="ru_taiga-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="ru_taiga-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="ru_taiga-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="ru_taiga-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="ru_taiga-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="ru_taiga-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 16 different parts of speech: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (2111; 60% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (600; 17% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (319; 9% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (261; 7% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (72; 2% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (53; 2% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (23; 1% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (20; 1% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (15; 0% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (14; 0% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt> (2; 0% instances)
+Parents of `SCONJ` nodes belong to 16 different parts of speech: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (15385; 61% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (4875; 19% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (2004; 8% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (1592; 6% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (348; 1% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (313; 1% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (197; 1% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (146; 1% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (114; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (78; 0% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt> (39; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (18; 0% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (17; 0% instances),  (8; 0% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt> (2; 0% instances)
 
-3395 (97%) `SCONJ` nodes are leaves.
+24577 (98%) `SCONJ` nodes are leaves.
 
-101 (3%) `SCONJ` nodes have one child.
+494 (2%) `SCONJ` nodes have one child.
 
-6 (0%) `SCONJ` nodes have two children.
+30 (0%) `SCONJ` nodes have two children.
 
-4 (0%) `SCONJ` nodes have three or more children.
+40 (0%) `SCONJ` nodes have three or more children.
 
-The highest child degree of a `SCONJ` node is 5.
+The highest child degree of a `SCONJ` node is 8.
 
-Children of `SCONJ` nodes are attached using 9 different relations: <tt><a href="ru_taiga-dep-fixed.html">fixed</a></tt> (78; 60% instances), <tt><a href="ru_taiga-dep-goeswith.html">goeswith</a></tt> (22; 17% instances), <tt><a href="ru_taiga-dep-punct.html">punct</a></tt> (16; 12% instances), <tt><a href="ru_taiga-dep-advmod.html">advmod</a></tt> (7; 5% instances), <tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt> (2; 2% instances), <tt><a href="ru_taiga-dep-obl.html">obl</a></tt> (2; 2% instances), <tt><a href="ru_taiga-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="ru_taiga-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="ru_taiga-dep-reparandum.html">reparandum</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes are attached using 15 different relations: <tt><a href="ru_taiga-dep-fixed.html">fixed</a></tt> (577; 78% instances), <tt><a href="ru_taiga-dep-punct.html">punct</a></tt> (88; 12% instances), <tt><a href="ru_taiga-dep-goeswith.html">goeswith</a></tt> (22; 3% instances), <tt><a href="ru_taiga-dep-conj.html">conj</a></tt> (17; 2% instances), <tt><a href="ru_taiga-dep-advmod.html">advmod</a></tt> (9; 1% instances), <tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt> (6; 1% instances), <tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt> (5; 1% instances), <tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt> (4; 1% instances), <tt><a href="ru_taiga-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="ru_taiga-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="ru_taiga-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="ru_taiga-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="ru_taiga-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="ru_taiga-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="ru_taiga-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Children of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (47; 36% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (24; 18% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt> (22; 17% instances), <tt><a href="ru_taiga-pos-PUNCT.html">PUNCT</a></tt> (16; 12% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (8; 6% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes belong to 14 different parts of speech: <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (296; 40% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (198; 27% instances), <tt><a href="ru_taiga-pos-PUNCT.html">PUNCT</a></tt> (88; 12% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (36; 5% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (33; 4% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt> (22; 3% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (18; 2% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (16; 2% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (14; 2% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 

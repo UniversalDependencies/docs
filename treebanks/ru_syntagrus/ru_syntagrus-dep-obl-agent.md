@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Russian-SynTagRus: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="ru_syntagrus-dep-obl.html">obl</a></tt>.
-There are also 1 other language-specific subtypes of `obl`: <tt><a href="ru_syntagrus-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are also 4 other language-specific subtypes of `obl`: <tt><a href="ru_syntagrus-dep-obl-depict.html">obl:depict</a></tt>, <tt><a href="ru_syntagrus-dep-obl-float.html">obl:float</a></tt>, <tt><a href="ru_syntagrus-dep-obl-pronmod.html">obl:pronmod</a></tt>, <tt><a href="ru_syntagrus-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-613 nodes (0%) are attached to their parents as `obl:agent`.
+617 nodes (0%) are attached to their parents as `obl:agent`.
 
-563 instances of `obl:agent` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.76835236541599.
+566 instances of `obl:agent` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.76985413290113.
 
-The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (465; 76% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (89; 15% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (58; 9% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (468; 76% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (91; 15% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (56; 9% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 obl:agent	color:blue
-1	Нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1	2	obl:agent	2:obl:agent	_
+1	Нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1|PronType=Prs	2	obl:agent	2:obl:agent	_
 2	оплачиваемое	оплачивать	VERB	_	Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	2:punct	_
 4	естественно	естественно	ADV	_	Degree=Pos	2	parataxis	2:parataxis	SpaceAfter=No
@@ -64,7 +64,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 4	,	,	PUNCT	_	_	6	punct	6:punct	_
 5	насильно	насильно	ADV	_	Degree=Pos	6	advmod	6:advmod	_
 6	введенный	ввести	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	_
-7	Екатериной	Екатерина	PROPN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	6	obl:agent	6:obl:agent	SpaceAfter=No
+7	Екатериной	Екатерина	PROPN	_	Animacy=Anim|Case=Ins|Gender=Fem|NameType=Giv|Number=Sing	6	obl:agent	6:obl:agent	SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~

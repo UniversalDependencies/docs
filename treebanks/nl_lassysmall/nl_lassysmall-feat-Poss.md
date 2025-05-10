@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (2508; 100% of non-empty `Poss`): <em>zijn, hun, haar, mijn, onze, ons, z'n, Hare, Zijne, uw</em>
-* `EMPTY` (9491): <em>die, hij, het, ze, zich, dat, dit, men, hem, wat</em>
+* `EMPTY` (9493): <em>die, hij, het, ze, zich, dat, dit, men, hem, wat</em>
 
 ## Relations with Agreement in `Poss`
 

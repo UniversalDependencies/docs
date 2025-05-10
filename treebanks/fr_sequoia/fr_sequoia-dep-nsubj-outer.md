@@ -60,7 +60,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 2	premier	premier	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	6	nsubj:outer	_	_
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 4	qu'	que	SCONJ	_	_	6	mark	_	SpaceAfter=No
-5	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+5	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 6	doit	devoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	constituer	constituer	VERB	_	VerbForm=Inf	6	xcomp	_	Subject=SubjRaising
 8	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -74,7 +74,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	obstacle	obstacle	NOUN	_	Gender=Masc|Number=Sing	13	appos	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	17	punct	_	_
-19	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	20	nsubj	_	SpaceAfter=No
+19	j'	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	SpaceAfter=No
 20	insiste	insister	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	parataxis:insert	_	SpaceAfter=No
 21	-	-	PUNCT	_	_	17	punct	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	24	punct	_	_

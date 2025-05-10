@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Livvi-KKPP: POS Tags: `CCONJ`
 
 There are 6 `CCONJ` lemmas (1%), 6 `CCONJ` types (1%) and 71 `CCONJ` tokens (4%).
-Out of 14 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 12 in number of types and 8 in number of tokens.
+Out of 14 observed tags, the rank of `CCONJ` is: 11 in number of lemmas, 12 in number of types and 8 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>da, dai, a, ga, vai, ja#ei</em>
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>ga</em> (<tt><a href="olo_kkpp-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.335034).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.337308).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 

@@ -24,7 +24,7 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 5 1 vocative	color:blue
 1	Сергей	Сергей	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	vocative	_	GTtags=Prop,Sg,Nom,Indef|SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	_	GTtags=PUNCT
-3	училищаса	училища	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	5	obl:lmod	_	GTtags=SP,Ine,Indef
+3	училищаса	училища	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	5	obl	_	GTtags=SP,Ine,Indef
 4	сторожкс	сторож	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	5	xcomp	_	GTtags=SP,Tra,Indef
 5	работан	работамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,ScSg1|SpaceAfter=No
 6	!	!	PUNCT	PUNCT	_	5	punct	_	GTtags=PUNCT
@@ -58,7 +58,7 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 8	fgColor:white
 # visual-style 8 4 vocative	color:blue
 1	Мес	мес	ADV	Adv	_	8	advmod	_	CGdephead=#1-&gt;0|CGdeprel=@X|GTtags=
-2	тячи	тячи	ADV	Adv	_	8	advmod:tmod	_	CGdephead=#2-&gt;0|CGdeprel=@X|GTtags=|SpaceAfter=No
+2	тячи	тячи	NOUN	Adv	AdvType=Tim|Case=Nom|Definite=Ind|Number=Sing	8	obl:tmod	_	CGdephead=#2-&gt;0|CGdeprel=@X|GTtags=|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	4	punct	_	CGdephead=#3-&gt;2|CGdeprel=@X|GTtags=CLB
 4	атяй	атя	NOUN	N	Case=Nom|Definite=Ind|Derivation=Voc|Number=Sing	8	vocative	_	CGdephead=#4-&gt;4|CGdeprel=@ADDR|GTtags=Voc|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	4	punct	_	CGdephead=#5-&gt;4|CGdeprel=@X|GTtags=CLB

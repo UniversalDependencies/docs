@@ -26,7 +26,7 @@ The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="
 1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	wordform=il
 2	devient	devenir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	joueur	joueur	NOUN	_	Gender=Masc|Number=Sing	2	xcomp	_	_
-4	autonome	autonome	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+4	autonome	autonome	ADJ	_	Number=Sing	3	amod	_	Gender[ctxt]=Masc
 5	à	à	ADP	_	_	7	case	_	_
 6	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
 7	automne	automne	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No

@@ -51,7 +51,7 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 4	кадовсь	кадовомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
 5	апокш	апокш	ADJ	A	_	6	amod	_	_
 6	губор	губор	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	7	nmod	_	GTtags=Sg,Nom,Indef
-7	пряс	пря	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	4	obl:lmod	_	GTtags=Sem/Plc,SP,Ill,Indef
+7	пряс	пря	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	4	obl	_	GTtags=Sem/Plc,SP,Ill,Indef
 8	оймевтеме	ойме	NOUN	N	Case=Abe|Definite=Ind|Number=Plur,Sing	4	xcomp	_	GTtags=SP,Abe,Indef|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	4	punct	_	_
 
@@ -64,7 +64,7 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 xcomp	color:blue
-1	Окойники	окойники	ADV	Adv	AdvType=Tim	4	advmod:tmod	_	GTtags=Sem/Time|SpaceAfter=No
+1	Окойники	окойники	ADV	Adv	AdvType=Tim	4	advmod	_	GTtags=Sem/Time|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	1	punct	_	_
 3	сёвонесь	сёвонь	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	GTtags=Sem/Inanim_NCnt,Sg,Nom,Def
 4	марявсь	марявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Der/ОвОмс,IV,Ind,Prt1,ScSg3

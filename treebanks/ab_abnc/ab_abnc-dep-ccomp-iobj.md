@@ -6,32 +6,35 @@ udver: '2'
 
 ## Treebank Statistics: UD_Abkhaz-AbNC: Relations: `ccomp:iobj`
 
-This relation is a language-specific subtype of <tt><a href="ab_abnc-dep-ccomp.html">ccomp</a></tt>.
-There are also 5 other language-specific subtypes of `ccomp`: <tt><a href="ab_abnc-dep-ccomp-obj.html">ccomp:obj</a></tt>, <tt><a href="ab_abnc-dep-ccomp-poss.html">ccomp:poss</a></tt>, <tt><a href="ab_abnc-dep-ccomp-purp.html">ccomp:purp</a></tt>, <tt><a href="ab_abnc-dep-ccomp-quote.html">ccomp:quote</a></tt>, <tt><a href="ab_abnc-dep-ccomp-ro.html">ccomp:ro</a></tt>.
+This relation is a language-specific subtype of .
+There are also 6 other language-specific subtypes of `ccomp`: <tt><a href="ab_abnc-dep-ccomp-lo.html">ccomp:lo</a></tt>, <tt><a href="ab_abnc-dep-ccomp-obj.html">ccomp:obj</a></tt>, <tt><a href="ab_abnc-dep-ccomp-poss.html">ccomp:poss</a></tt>, <tt><a href="ab_abnc-dep-ccomp-purp.html">ccomp:purp</a></tt>, <tt><a href="ab_abnc-dep-ccomp-quote.html">ccomp:quote</a></tt>, <tt><a href="ab_abnc-dep-ccomp-ro.html">ccomp:ro</a></tt>.
 
-2 nodes (0%) are attached to their parents as `ccomp:iobj`.
+3 nodes (0%) are attached to their parents as `ccomp:iobj`.
 
-2 instances of `ccomp:iobj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5.
+3 instances of `ccomp:iobj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.66666666666667.
 
-The following 1 pairs of parts of speech are connected with `ccomp:iobj`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (2; 100% instances).
+The following 1 pairs of parts of speech are connected with `ccomp:iobj`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (3; 100% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 ccomp:iobj	color:blue
-1	Исзымдыруа	а-ды́рра	VERB	V_Dyn_Tr_NonFin_Pot_Pres_Neg_S:Rel_Rel_Reln:Pot_PO:1Sg	Dyn=Yes|Number[po]=Sing|Person[po]=1|Person[subj]=Rel|Polarity=Neg|Reln=Pot|Subcat=Tran|Tense=Pres|VerbForm=NonFin	2	ccomp:iobj	_	LMSeg:а-ды́р-ра
-2	сазҵаауан	а́зҵаара	VERB	V_Dyn_Intr_Fin_Impf_S:1Sg_IO:3SgNH	Dyn=Yes|Gender[io]=Neut|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=1|Subcat=Intr|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:а́зҵаа-ра
-3	ауп	а́уп	ADV	Adv	_	2	advmod	_	LMSeg:а́уп
-4	,	,	PUNCT	Punct_Comma	_	7	punct	_	LMSeg:,
-5	–	–	PUNCT	Punct_Dash	_	7	punct	_	LMSeg:–
-6	аҭамзаара	а-ҭа́мзаара	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	7	obj	_	LMSeg:а-ҭа́мзаара
-7	нышьҭанаҵеит	а́-шьҭаҵара	VERB	V_Dyn_Tr_Fin_Aor_FPv:на_S:3SgNH_DO:3_DO:Ad	Dyn=Yes|Gender[subj]=Neut|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|VerbForm=Fin	2	conj	_	LMSeg:а́-шьҭа·ҵа-ра
-8	Амҵ	а́-мҵ	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	7	nsubj	_	LMSeg:а́-мҵ
-9	.	.	PUNCT	Punct_Period	_	7	punct	_	LMSeg:.
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 ccomp:iobj	color:blue
+1	–	–	PUNCT	Punct_Dash	_	10	punct	_	LMSeg:–
+2	Аҩны	а-ҩны́	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	3	obj:lo	_	LMSeg:а-ҩны́
+3	иҩноу	а-ҩна́заара	VERB	V_Stat_NonFin_Pres_S:Rel_LO:3SgNH_Rel	Dyn=No|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[subj]=Rel|Tense=Pres|VerbForm=NonFin	5	ccomp:iobj	_	LMSeg:а-ҩна́-заа-ра
+4	цәыӡ	а-цәы́ӡ	NOUN	Noun_NH_Sg	Animacy=Nhum|Number=Sing	5	nsubj	_	LMSeg:а-цәы́ӡ
+5	иоур	а́ура	VERB	V_Dyn_Intr_NonFin_Conj-I_S:3_S:Ad_IO:3SgM	Dyn=Yes|Gender[io]=Masc|Mood=Cnd|Number[io]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|VerbForm=NonFin	8	advcl:cond	_	LMSeg:а́у-ра|SpaceAfter=No
+6	,	,	PUNCT	Punct_Comma	_	8	punct	_	LMSeg:,
+7	изхарахо	а-ха́рахара	VERB	V_Dyn_Intr_NonFin_Pres_S:3_Rel_Poss:Rel	Dyn=Yes|Person[psor]=Rel|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=NonFin	8	csubj	_	LMSeg:а-ха́ра·ха-ра
+8	аҧшәма	а́-ҧшәма	NOUN	Noun_H_Sg_Det	Animacy=Hum|Definite=Def|Number=Sing	10	csubj	_	LMSeg:а́-ҧшәма
+9	шиакәу	а́кәзаара	AUX	V_Stat_NonFin_Cnv_Pres_How_S:3_IO:3SgM_Cop	Dyn=No|Gender[io]=Masc|Number[io]=Sing|Person[io]=3|Person[subj]=3|RelType=Mnr|Tense=Pres|VerbForm=NonFin	8	cop	_	LMSeg:а́кә-заа-ра
+10	узымдырӡои	а-ды́рра	VERB	V_Dyn_Tr_NonFin_Pres_Neg_Q_Emph_S:1Sg_DO:2SgM	Dyn=Yes|Gender[obj]=Masc|Mood=Int|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=2|Person[subj]=1|Polarity=Neg|Subcat=Tran|Tense=Pres|VerbForm=NonFin	0	root	_	LMSeg:а-ды́р-ра|SpaceAfter=No
+11	?	?	PUNCT	Punct_IntMark	_	10	punct	_	LMSeg:?|SpaceAfter=No
+12	!	!	PUNCT	Punct_ExclPoint	_	10	punct	_	LMSeg:!
 
 ~~~
 

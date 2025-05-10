@@ -96,7 +96,6 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>ADV --[<tt><a href="kpv_lattice-dep-advmod-mmod.html">advmod:mmod</a></tt>]--> ADV</tt> (1; 100%),
 <tt>ADV --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%),
 <tt>PRON --[<tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="kpv_lattice-dep-orphan.html">orphan</a></tt>]--> PRON</tt> (1; 100%),

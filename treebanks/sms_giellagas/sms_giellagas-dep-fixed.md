@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 3 fixed	color:blue
 1	“	“	PUNCT	PUNCT	_	6	punct	_	GTtags=LEFT|SpaceAfter=No
-2	Piʒʒ	Piʒʒ	INTJ	Interj	_	6	discourse	_	_
+2	Piʒʒ	Piʒʒ	INTJ	Interj	ExtPos=INTJ	6	discourse	_	_
 3	pii	pii	INTJ	Interj	_	2	fixed	_	_
 4	pii	pii	INTJ	Interj	_	2	fixed	_	_
 5	ton	ton	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	GTtags=Pers,Sg2,Nom
@@ -48,8 +48,8 @@ The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	6	nsubj	_	GTtags=Dem,Sg,Nom
 6	vuõʹlji	vueʹlǧǧed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	GTtags=Ind,Prt,Sg3
-7	eʹpet	eʹpet	ADV	Adv	AdvType=Tim	6	advmod:tmod	_	GTtags=Sem/Time,Sem/Time,@<ADVL
-8	koozz	koozz	ADV	Adv	Case=Ill	6	advmod:lmod	_	GTtags=Sem/Plc,Ill,@<ADVL
+7	eʹpet	eʹpet	ADV	Adv	AdvType=Tim	6	advmod	_	GTtags=Sem/Time,Sem/Time,@<ADVL
+8	koozz	koozz	ADV	Adv	Case=Ill|ExtPos=ADV	6	advmod	_	GTtags=Sem/Plc,Ill,@<ADVL
 9	leežž	leeʹd	VERB	V	Mood=Pot|Number=Sing|Person=3	8	fixed	_	GTtags=Pot,Sg3|SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
@@ -62,11 +62,11 @@ The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Mii	mii	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	6	nsubj	_	GTtags=Rel,Sg,Nom
+1	Mii	mii	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Rel	6	nsubj	_	GTtags=Rel,Sg,Nom
 2	leežž	leeʹd	VERB	V	Mood=Pot|Number=Sing|Person=3	1	fixed	_	GTtags=Pot,Sg3
 3	nåkkam	nåkkam	ADJ	A	_	4	amod	_	GTtags=Attr
 4	peästtõõǥǥid	peästtõk	NOUN	N	Case=Acc|Number=Plur	6	obj	_	GTtags=Pl,Acc
-5	koozz-a	koozz	ADV	Adv	Case=Ill|Clitic=QstA	6	advmod:lmod	_	GTtags=Sem/Plc,Ill,Qst/a
+5	koozz-a	koozz	ADV	Adv	Case=Ill|Clitic=QstA|PartType=Int	6	advmod	_	GTtags=Sem/Plc,Ill,Qst/a
 6	čõõnõõđi	čõõnõõttâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
 8	čõõnõõđi	čõõnõõttâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	conj	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No

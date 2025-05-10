@@ -29,7 +29,7 @@ The following 43 pairs of parts of speech are connected with `discourse`: <tt><a
 5	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=157509|AlignEnd=158686|TokenType=Break
 6	dh	_	ADP	POSTP	_	8	obl:arg	_	AlignBegin=158686|AlignEnd=158783|Gloss=DIR|RX=[POSTP]|TokenType=Root
 7	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	6	dep:comp	_	AlignBegin=158783|AlignEnd=158881|Gloss==POSS.1SG.ACC|RX==[PRO]|TokenType=Clit
-8	tiki	_	AUX	V1,IRG	Aspect=Perf|Gender=Fem|Number=Sing|VerbClass=1	9	ccomp	_	AlignBegin=158881|AlignEnd=159076|Gloss=become\PFV|MGloss=3SG.F-become\PFV|MSeg=ti-ki|Reported=Yes|ReportedSpeech=Yes|RX=[PNG]-[V1].[IRG]|TokenType=Root
+8	tiki	_	AUX	V1,IRG	Aspect=Perf|Gender=Fem|Number=Sing|VerbClass=1	9	ccomp	_	AlignBegin=158881|AlignEnd=159076|Gloss=become\PFV|MGloss=3SG.F-become\PFV|MSeg=ti-ki|Reported=Yes|RX=[PNG]-[V1].[IRG]|TokenType=Root
 9	idi	_	VERB	V1,IRG	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=159076|AlignEnd=159271|Gloss=say\PFV|MGloss=3SG.M-say\PFV|MSeg=i-di|RX=[PNG]-[V1].[IRG]|TokenType=Root
 10	eːn	_	VERB	V1,IRG	Aspect=Perf|Number=Plur|Person=3|VerbClass=1	9	discourse	_	AlignBegin=159271|AlignEnd=159466|Gloss=say\PFV.3PL|RX=[V1].[IRG]|TokenType=Root
 11	//	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=159466|AlignEnd=160103|TokenType=Break

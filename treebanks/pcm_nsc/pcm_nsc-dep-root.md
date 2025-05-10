@@ -22,7 +22,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	#	#	X	_	_	4	dep	_	AlignBegin=10145|AlignEnd=10516|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=10145|AlignEnd=10516|Gloss=PUNCT
 2	sey	sey	SCONJ	_	_	4	discourse	_	AlignBegin=10516|AlignEnd=10640|Gloss=COMP
 3	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	AlignBegin=10640|AlignEnd=10679|Gloss=NOM.SG.3
 4	wan	want	VERB	_	_	0	root	_	AlignBegin=10679|AlignEnd=10850|Gloss=want
@@ -34,7 +34,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 10	go	go	VERB	_	_	5	advcl	_	AlignBegin=11770|AlignEnd=12120|Gloss=go
 11	train	train	VERB	_	_	10	compound:svc	_	AlignBegin=12120|AlignEnd=12430|Gloss=train
 12	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	AlignBegin=12430|AlignEnd=12580|Gloss=ACC.SG.1
-13	//	//	X	_	_	4	dep	_	AlignBegin=12580|AlignEnd=12580|Gloss=PUNCT
+13	//	//	PUNCT	_	_	4	punct	_	AlignBegin=12580|AlignEnd=12580|Gloss=PUNCT
 
 ~~~
 
@@ -45,17 +45,17 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	#	#	X	_	_	4	dep	_	AlignBegin=388515|AlignEnd=388865|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=388515|AlignEnd=388865|Gloss=PUNCT
 2	na	na	AUX	_	PartType=Cop	4	cop	_	AlignBegin=388865|AlignEnd=389054|Gloss=be
 3	dis	dis	DET	_	Number=Sing|PronType=Dem	4	det	_	AlignBegin=389054|AlignEnd=389344|Gloss=SG.DEM
 4	year	year	NOUN	_	_	0	root	_	AlignBegin=389344|AlignEnd=389491|Gloss=year
 5	own	own	ADJ	_	_	4	amod	_	AlignBegin=389491|AlignEnd=389704|Gloss=own
 6	ma	ma	PART	_	PartType=Disc	4	discourse	_	AlignBegin=389704|AlignEnd=389884|Gloss=FOC
-7	>+	>+	X	_	_	9	dep	_	AlignBegin=389884|AlignEnd=389884|Gloss=PUNCT
+7	>+	>+	PUNCT	_	_	9	punct	_	AlignBegin=389884|AlignEnd=389884|Gloss=PUNCT
 8	con	con	AUX	_	Aspect=Cons	9	aux	_	AlignBegin=389884|AlignEnd=390144|Gloss=CONS
 9	worse	worse	VERB	_	_	4	advcl:cleft	_	AlignBegin=390144|AlignEnd=390381|Gloss=worse
 10	pass	pass	VERB	_	_	9	compound:svc	_	AlignBegin=390381|AlignEnd=390653|Gloss=pass
-11	//	//	X	_	_	4	dep	_	AlignBegin=390653|AlignEnd=390653|Gloss=PUNCT
+11	//	//	PUNCT	_	_	4	punct	_	AlignBegin=390653|AlignEnd=390653|Gloss=PUNCT
 
 ~~~
 
@@ -74,7 +74,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 6	go	go	VERB	_	_	5	xcomp	_	AlignBegin=175460|AlignEnd=175590|Gloss=go
 7	learn	learn	VERB	_	_	6	compound:svc	_	AlignBegin=175590|AlignEnd=175820|Gloss=learn
 8	now	now	ADV	_	_	7	advmod	_	AlignBegin=175820|AlignEnd=176080|Gloss=now
-9	?//	?//	X	_	_	2	dep	_	AlignBegin=176080|AlignEnd=176080|Gloss=PUNCT
+9	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=176080|AlignEnd=176080|Gloss=PUNCT
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-103 nodes (1%) are attached to their parents as `cc`.
+106 nodes (1%) are attached to their parents as `cc`.
 
-58 instances of `cc` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.61165048543689.
+61 instances of `cc` (58%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.59433962264151.
 
-The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (34; 33% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-CCONJ.html">CCONJ</a></tt> (30; 29% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (15; 15% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_ttb-pos-CCONJ.html">CCONJ</a></tt> (13; 13% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (5; 5% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (37; 35% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-CCONJ.html">CCONJ</a></tt> (30; 28% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (15; 14% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_ttb-pos-CCONJ.html">CCONJ</a></tt> (13; 12% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (5; 5% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_ttb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

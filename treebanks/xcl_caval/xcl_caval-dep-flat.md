@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-88 nodes (0%) are attached to their parents as `flat`.
+114 nodes (0%) are attached to their parents as `flat`.
 
-88 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.22727272727273.
+114 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.26315789473684.
 
-The following 6 pairs of parts of speech are connected with `flat`: <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (64; 73% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (9; 10% instances), <tt><a href="xcl_caval-pos-X.html">X</a></tt>-<tt><a href="xcl_caval-pos-X.html">X</a></tt> (7; 8% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `flat`: <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (82; 72% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (10; 9% instances), <tt><a href="xcl_caval-pos-X.html">X</a></tt>-<tt><a href="xcl_caval-pos-X.html">X</a></tt> (7; 6% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (6; 5% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt>-<tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,12 +24,12 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 12 13 flat	color:blue
 1	Ասէ	ասել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=Asē|LTranslit=asel|Gloss=say
 2	ց	ց	ADP	_	_	3	case	_	SpaceAfter=No|Translit=cʻ|LTranslit=cʻ|Gloss=to
-3	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	1	obl:arg	_	Translit=na|LTranslit=na|Gloss=he/she/it/that
+3	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	1	obl:arg	_	Translit=na|LTranslit=na|Gloss=he/she/it
 4	մի	մի	NUM	_	Case=Nom|Number=Sing|NumType=Card	1	nsubj	_	Translit=mi|LTranslit=mi|Gloss=one
 5	յ	ի	ADP	_	_	6	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-3|Gloss=from
 6	աշակերտաց	աշակերտ	NOUN	_	Case=Abl|Number=Plur	4	nmod	_	SpaceAfter=No|Translit=ašakertacʻ|LTranslit=ašakert|Gloss=disciple
 7	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	6	det	_	Translit=n|LTranslit=n|Gloss=that
-8	նորա	նա	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	6	nmod	_	SpaceAfter=No|Translit=nora|LTranslit=na|Gloss=he/she/it/that
+8	նորա	նա	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	6	nmod	_	SpaceAfter=No|Translit=nora|LTranslit=na|Gloss=he/she/it
 9	՝	՝	PUNCT	_	_	10	punct	_	Translit=;|LTranslit=;
 10	Անդրեաս	Անդրեաս	PROPN	_	Case=Nom|Number=Sing	4	nmod	_	Translit=Andreas|LTranslit=Andreas|Gloss=Andreas
 11	եղբայր	եղբայր	NOUN	_	Case=Nom|Number=Sing	10	appos	_	Translit=ełbayr|LTranslit=ełbayr|Gloss=brother
@@ -71,12 +71,12 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 7	.	.	PUNCT	_	_	2	punct	_	Translit=:|LTranslit=:
 8	ասէ	ասել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=asē|LTranslit=asel|Gloss=say
 9	ց	ց	ADP	_	_	10	case	_	SpaceAfter=No|Translit=cʻ|LTranslit=cʻ|Gloss=to
-10	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	8	obl:arg	_	SpaceAfter=No|Translit=na|LTranslit=na|Gloss=he/she/it/that
+10	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	8	obl:arg	_	SpaceAfter=No|Translit=na|LTranslit=na|Gloss=he/she/it
 11	՝	՝	PUNCT	_	_	12	punct	_	Translit=;|LTranslit=;
 12	տաղիթա	տաղիթա	X	_	Foreign=Yes	8	ccomp	_	Translit=tałitʻa|LTranslit=tałitʻa
 13	կումի	կումի	X	_	Foreign=Yes	12	flat	_	SpaceAfter=No|Translit=kowmi|LTranslit=kowmi
 14	՝	՝	PUNCT	_	_	16	punct	_	Translit=;|LTranslit=;
-15	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	16	nsubj:pass	_	Translit=or|LTranslit=or|Gloss=which
+15	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	16	nsubj:pass	_	Translit=or|LTranslit=or|Gloss=who
 16	թարգմանի	թարգմանել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	acl	_	SpaceAfter=No|Translit=tʻargmani|LTranslit=tʻargmanel|Gloss=translate
 17	.	.	PUNCT	_	_	21	punct	_	Translit=:|LTranslit=:
 18	աղջիկ	աղջիկ	NOUN	_	Case=Nom|Number=Sing	19	nmod	_	Translit=ałǰik|LTranslit=ałǰik|Gloss=girl

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `ccomp`: <tt><a href="pt_dantestocks-dep-ccomp-speech.html">ccomp:speech</a></tt>.
 
-261 nodes (0%) are attached to their parents as `ccomp`.
+262 nodes (0%) are attached to their parents as `ccomp`.
 
-261 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.75095785440613.
+262 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.75954198473282.
 
-The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (196; 75% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (31; 12% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (11; 4% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (7; 3% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (7; 3% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (197; 75% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (31; 12% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (11; 4% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (7; 3% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (7; 3% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -34,7 +34,7 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	indice	índice	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	7	obl	_	CorrectForm=índice|SpaceAfter=No
 11	?	?	PUNCT	_	_	1	punct	_	SpaceAfter=No
-12	!	!	PUNCT	_	_	1	punct	_	SpaceAfter=No
+12	!	!	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
@@ -58,7 +58,7 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 11	de	de	ADP	_	_	13	case	_	_
 12	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	vale5	vale5	PROPN	_	_	10	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 
@@ -86,7 +86,7 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 15	de	de	ADP	_	_	16	case	_	_
 16	os	o	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	14	obl	_	_
 17	esperados	esperar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	16	acl	_	SpaceAfter=No
-18	...	...	PUNCT	_	_	3	punct	_	SpaceAfter=No
+18	...	...	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

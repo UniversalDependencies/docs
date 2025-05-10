@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Marco Passarotti, Marinella Testori, Daniel Zeman, Berta González Saavedra, Flavio Massimiliano Cecchini.
 
 Repository: [UD_Latin-ITTB](https://github.com/UniversalDependencies/UD_Latin-ITTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_ittb215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_ittb216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -29,7 +29,7 @@ Genre: nonfiction
 Questions, comments?
 General annotation questions (either Latin-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Latin-ITTB/issues).
-If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
+If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz, marco&nbsp;•&nbsp;passarotti&nbsp;(æt)&nbsp;unicatt&nbsp;•&nbsp;it].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.
@@ -102,7 +102,7 @@ year = {2010}
 
 ## Features
 
-[Abbr](la_ittb-feat-Abbr.html) – [AdvType](la_ittb-feat-AdvType.html) – [Aspect](la_ittb-feat-Aspect.html) – [Case](la_ittb-feat-Case.html) – [Compound](la_ittb-feat-Compound.html) – [Degree](la_ittb-feat-Degree.html) – [Foreign](la_ittb-feat-Foreign.html) – [Form](la_ittb-feat-Form.html) – [Gender](la_ittb-feat-Gender.html) – [InflClass](la_ittb-feat-InflClass.html) – [InflClass[nominal]](la_ittb-feat-InflClass-nominal.html) – [Mood](la_ittb-feat-Mood.html) – [NameType](la_ittb-feat-NameType.html) – [Number](la_ittb-feat-Number.html) – [Number[psor]](la_ittb-feat-Number-psor.html) – [NumForm](la_ittb-feat-NumForm.html) – [NumType](la_ittb-feat-NumType.html) – [NumValue](la_ittb-feat-NumValue.html) – [Person](la_ittb-feat-Person.html) – [Person[psor]](la_ittb-feat-Person-psor.html) – [Polarity](la_ittb-feat-Polarity.html) – [Poss](la_ittb-feat-Poss.html) – [PronType](la_ittb-feat-PronType.html) – [Proper](la_ittb-feat-Proper.html) – [Reflex](la_ittb-feat-Reflex.html) – [Tense](la_ittb-feat-Tense.html) – [Variant](la_ittb-feat-Variant.html) – [VerbForm](la_ittb-feat-VerbForm.html) – [Voice](la_ittb-feat-Voice.html)
+[Abbr](la_ittb-feat-Abbr.html) – [AdvType](la_ittb-feat-AdvType.html) – [Aspect](la_ittb-feat-Aspect.html) – [Case](la_ittb-feat-Case.html) – [Compound](la_ittb-feat-Compound.html) – [Degree](la_ittb-feat-Degree.html) – [ExtPos](la_ittb-feat-ExtPos.html) – [Foreign](la_ittb-feat-Foreign.html) – [Form](la_ittb-feat-Form.html) – [Gender](la_ittb-feat-Gender.html) – [InflClass](la_ittb-feat-InflClass.html) – [InflClass[nominal]](la_ittb-feat-InflClass-nominal.html) – [Mood](la_ittb-feat-Mood.html) – [NameType](la_ittb-feat-NameType.html) – [Number](la_ittb-feat-Number.html) – [Number[psor]](la_ittb-feat-Number-psor.html) – [NumForm](la_ittb-feat-NumForm.html) – [NumType](la_ittb-feat-NumType.html) – [NumValue](la_ittb-feat-NumValue.html) – [Person](la_ittb-feat-Person.html) – [Person[psor]](la_ittb-feat-Person-psor.html) – [Polarity](la_ittb-feat-Polarity.html) – [Poss](la_ittb-feat-Poss.html) – [PronType](la_ittb-feat-PronType.html) – [Proper](la_ittb-feat-Proper.html) – [Reflex](la_ittb-feat-Reflex.html) – [Tense](la_ittb-feat-Tense.html) – [Variant](la_ittb-feat-Variant.html) – [VerbForm](la_ittb-feat-VerbForm.html) – [Voice](la_ittb-feat-Voice.html)
 
 ## Relations
 
@@ -891,6 +891,36 @@ year = {2010}
           <li>VERB-Inf: multiplicari, satisfacere, calefacere, significare, calefieri, significari, aedificare, possidere, aedificari, certificari</li>
           <li>VERB-Part: significata, significandum, significatae, significandi, sanctificata, significatam, calefactum, crucifixus, iustificati, satisfaciendo</li>
           <li>X: etc.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADV: puta, tunc</li>
+          <li>ADV-Fin: puta</li>
+          <li>CCONJ: scilicet</li>
+          <li>SCONJ: ut, puta</li>
+          <li>SCONJ-Fin: puta</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>PRON: id</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: in</li>
+          <li>ADV: ita, simul, sic, statim, utpote, etiam, tamen</li>
+          <li>CCONJ: uel</li>
+          <li>PRON: quod</li>
+          <li>SCONJ: quod, propterea, si</li>
         </ul>
       </li>
     </ul>

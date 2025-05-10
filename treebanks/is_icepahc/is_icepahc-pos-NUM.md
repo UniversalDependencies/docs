@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>tveir</em> (<tt><a href="is_icepahc-p
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.220225 (the average of all parts of speech is 1.856953).
+The form / lemma ratio of `NUM` is 1.220225 (the average of all parts of speech is 1.857072).
 
 The 1st highest number of forms (20) was observed with the lemma “hvortveggja”: <em>hverirtveggju, hvorirtveggi, hvorirtveggja, hvorirtveggju, hvorntveggja, hvorratveggja, hvorritveggju, hvorrtveggi, hvorrtveggja, hvorstveggja, hvorttveggja, hvortveggi, hvortveggja, hvorumtveggja, hvorumtveggju, hvorumtveggjum, hvorutveggi, hvorutveggja, hvorutveggju, hvorutveggjum</em>.
 

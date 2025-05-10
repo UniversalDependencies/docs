@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Portuguese-DANTEStocks: Relations: `expl`
 
 This relation is universal.
+There are 1 language-specific subtypes of `expl`: <tt><a href="pt_dantestocks-dep-expl-impers.html">expl:impers</a></tt>.
 
-122 nodes (0%) are attached to their parents as `expl`.
+120 nodes (0%) are attached to their parents as `expl`.
 
-92 instances of `expl` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23770491803279.
+92 instances of `expl` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.225.
 
-The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (122; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (120; 100% instances).
 
 
 ~~~ conllu
@@ -34,7 +35,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 10	#PETR4	#PETR4	PROPN	_	_	7	nmod	_	_
 11	galera	galera	NOUN	_	Gender=Fem|Number=Sing	7	vocative	_	_
 12	!	!	PUNCT	_	_	7	punct	_	SpaceAfter=No
-13	!	!	PUNCT	_	_	7	punct	_	SpaceAfter=No
+13	!	!	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

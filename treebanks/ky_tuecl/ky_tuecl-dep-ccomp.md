@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15 nodes (1%) are attached to their parents as `ccomp`.
+22 nodes (2%) are attached to their parents as `ccomp`.
 
-14 instances of `ccomp` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.2.
+21 instances of `ccomp` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.63636363636364.
 
-The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (13; 87% instances), <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> (2; 13% instances).
+The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (18; 82% instances), <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> (2; 9% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 ccomp	color:blue
-1	Жамгыр	жамгыр	NOUN	_	_	2	nsubj	_	_
+1	Жамгыр	жамгыр	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	жаап	жап	VERB	_	_	4	ccomp	_	_
 3	жатат	жат	AUX	_	_	2	aux	_	_
 4	деп	де	VERB	_	_	5	advcl	_	_
@@ -45,6 +45,22 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 5	мектепке	мектеп	NOUN	_	_	6	obl	_	_
 6	барыптыр	бар	VERB	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 ccomp	color:blue
+1	Окуган	оку	VERB	_	_	2	acl	_	_
+2	дарын	_	PRON	_	_	3	ccomp	_	_
+3	түшүнүп	түшүн	VERB	_	_	0	root	_	_
+4	жаткан	жат	AUX	_	_	3	aux	_	_
+5	жок	жок	AUX	_	_	3	aux	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>word</em> (<tt><a href="af_afribooms-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.583333 (the average of all parts of speech is 1.120642).
+The form / lemma ratio of `AUX` is 1.583333 (the average of all parts of speech is 1.120600).
 
 The 1st highest number of forms (4) was observed with the lemma “wees”: <em>gewees, is, was, wees</em>.
 

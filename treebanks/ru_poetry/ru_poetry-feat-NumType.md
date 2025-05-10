@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ru_poetry-pos-NUM.h
 
 252 <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ru_poetry-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (207; 82%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (198; 79%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ru_poetry-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (207; 82%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (191; 76%).
 
 `NUM` tokens may have the following values of `NumType`:
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (103; 100% of non-empty `NumType`): <em>первый, I, первым, III, первая, пятый, II, второй, первые, первых</em>
-* `EMPTY` (5917): <em>тихий, белый, равно, золотые, милая, последний, черный, белые, лучше, хорошо</em>
+* `EMPTY` (5918): <em>тихий, белый, равно, золотые, милая, последний, черный, белые, лучше, хорошо</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (38) occur only with one value of `NumType`.
 

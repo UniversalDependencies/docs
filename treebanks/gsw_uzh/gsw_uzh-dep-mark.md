@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of mark in UD_Swiss_German-UZH'
+title:  'Statistics of mark in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: Relations: `mark`
+## Treebank Statistics: UD_Alemannic-UZH: Relations: `mark`
 
 This relation is universal.
 

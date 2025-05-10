@@ -58,7 +58,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 3	die	der	DET	ART	Case=Nom|Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	BI	BI	PROPN	NE	_	9	nsubj	_	_
 5	(	(	PUNCT	$(	PunctType=Brck	6	punct	_	_
-6	Bürgerinitiativen	Initiative	NOUN	NN	Gender=Fem|Number=Plur	4	appos	_	_
+6	Bürgerinitiativen	Bürgerinitiative	NOUN	NN	Gender=Fem|Number=Plur	4	appos	_	_
 7	)	)	PUNCT	$(	PunctType=Brck	6	punct	_	_
 8	Gespräche	Gespräch	NOUN	NN	Gender=Neut|Number=Plur	9	obj	_	_
 9	möchten	mögen	AUX	VMFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	13	ccomp	_	_

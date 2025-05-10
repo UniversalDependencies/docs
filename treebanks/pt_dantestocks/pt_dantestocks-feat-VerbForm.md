@@ -103,7 +103,7 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="pt_dantestocks-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (689; 73%),
 <tt>VERB --[<tt><a href="pt_dantestocks-dep-conj.html">conj</a></tt>]--> VERB</tt> (435; 76%),
 <tt>VERB --[<tt><a href="pt_dantestocks-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (370; 64%),
-<tt>VERB --[<tt><a href="pt_dantestocks-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (105; 54%),
+<tt>VERB --[<tt><a href="pt_dantestocks-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (105; 53%),
 <tt>VERB --[<tt><a href="pt_dantestocks-dep-discourse.html">discourse</a></tt>]--> AUX</tt> (32; 74%),
 <tt>VERB --[<tt><a href="pt_dantestocks-dep-ccomp-speech.html">ccomp:speech</a></tt>]--> VERB</tt> (14; 64%),
 <tt>AUX --[<tt><a href="pt_dantestocks-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (6; 100%),

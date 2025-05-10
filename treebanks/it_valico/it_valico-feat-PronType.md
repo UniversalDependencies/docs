@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Exc` are language-specific.
 It occurs with 9 different values: `Art`, `Dem`, `Exc`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-1622 tokens (24%) have a non-empty value of `PronType`.
-132 types (10%) occur at least once with a non-empty value of `PronType`.
-67 lemmas (7%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="it_valico-pos-DET.html">DET</a></tt> (1020; 15% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (509; 8% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (92; 1% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+1621 tokens (24%) have a non-empty value of `PronType`.
+131 types (10%) occur at least once with a non-empty value of `PronType`.
+66 lemmas (7%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="it_valico-pos-DET.html">DET</a></tt> (1020; 15% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (509; 8% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (92; 1% instances).
 
 ### `DET`
 
@@ -69,16 +69,5 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `ADV` tokens may have the following values of `PronType`:
 
 * `Neg` (92; 100% of non-empty `PronType`): <em>non, no, neanche</em>
-* `EMPTY` (298): <em>molto, Ieri, poi, come, più, anche, così, invece, subito, prima</em>
-
-### `ADJ`
-
-1 <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `PronType`.
-
-The most frequent other feature values with which `ADJ` and `PronType` co-occurred: <tt><a href="it_valico-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
-
-`ADJ` tokens may have the following values of `PronType`:
-
-* `Dem` (1; 100% of non-empty `PronType`): <em>tale</em>
-* `EMPTY` (309): <em>brutto, bella, grande, forte, simpatico, contenta, felice, giovane, bel, bello</em>
+* `EMPTY` (299): <em>molto, Ieri, poi, come, più, anche, così, invece, subito, prima</em>
 

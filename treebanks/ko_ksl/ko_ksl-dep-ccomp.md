@@ -8,30 +8,47 @@ udver: '2'
 
 This relation is universal.
 
-644 nodes (1%) are attached to their parents as `ccomp`.
+899 nodes (1%) are attached to their parents as `ccomp`.
 
-642 instances of `ccomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.44409937888199.
+897 instances of `ccomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.51835372636263.
 
-The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (577; 90% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (19; 3% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (15; 2% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (14; 2% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (800; 89% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (22; 2% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (21; 2% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (15; 2% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (15; 2% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 ccomp	color:blue
+1	스트레스를	스트레스+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	받으면	받+으면	VERB	VV+EC	_	6	advcl	_	_
+3	담배를	담배+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	피울술	피우+ㄹ+술	NOUN	VV+ETM+NF	Typo=Yes	6	obl	_	_
+5	밖에	밖에	ADP	JX	_	4	case	_	_
+6	없다고	없+다고	VERB	VX+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+~~~
 
 
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 7 ccomp	color:blue
-1	이로인하여	이+로+인하+아	ADV	NP+JKB+VV+EC	_	9	advcl	_	_
-2	초등학교	초등학교	NOUN	NNG	_	7	obl	_	_
-3	때부터	때+부터	ADP	NNG+JX	_	2	case	_	_
-4	학생들에게	학생+들+에게	NOUN	NNG+XSN+JKB	_	7	obl	_	_
-5	교육	교육	NOUN	NNG	_	6	nmod	_	_
-6	방식이	방식+이	NOUN	NNG+JKS	_	7	nsubj	_	_
-7	바꿔야	바꾸+어야	VERB	VV+EC	_	9	ccomp	_	_
-8	된다고	되+ㄴ다고	VERB	VX+EC	_	7	advcl	_	_
-9	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	SF	_	9	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 ccomp	color:blue
+1	이번여행에	이번+여행+에	ADV	NNG+NNG+JKB	_	2	obl	_	_
+2	대해	대하+아	VERB	VV+EC	_	5	advcl	_	_
+3	궁금한	궁금+하+ㄴ	ADJ	XR+XSA+ETM	_	4	amod	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	있으시면	있+으시+면	VERB	VV+EP+EC	_	8	advcl	_	_
+6	02-2200-7788에	02+-+2200+-+7788+에	ADV	SN+SS+SN+SS+SN+JKB	_	7	obl	_	_
+7	전화하기	전화+하+기	NOUN	NNG+XSV+ETN	_	8	ccomp	_	_
+8	바란다	바라+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
 
 ~~~
 
@@ -55,24 +72,6 @@ The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 11	모르	모르	NOUN	VV	_	12	obl	_	_
 12	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	SF	_	12	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 ccomp	color:blue
-1	오시아케에	오시아케+에	ADV	NNP+JKB	_	7	obl	_	_
-2	skytree와	skytree+와	NOUN	SL+JC	_	4	ccomp	_	_
-3	소라마치라고	소라마치+라고	VERB	NNP+JKQ	_	2	conj	_	_
-4	한	하+ㄴ	VERB	VV+ETM	_	6	acl	_	_
-5	큰	크+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
-6	건물이	건물+이	NOUN	NNG+JKS	_	7	nsubj	_	_
-7	생겼다	생기+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	SF	_	7	punct	_	_
 
 ~~~
 

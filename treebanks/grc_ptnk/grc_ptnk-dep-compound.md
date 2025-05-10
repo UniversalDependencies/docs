@@ -27,8 +27,8 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 3	αὐτὸν	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	2	obj	_	Gloss=he,she,it,-self,same
 4	Λαβὰν	Λάβαν	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Laban
 5	Βουνὸς	βουνός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	xcomp	_	Gloss=heap,pile
-6	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	Gloss=the
-7	μαρτυρίας	μαρτυρία	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	5	nmod	_	Gloss=witness|SpaceAfter=No
+6	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Gloss=the
+7	μαρτυρίας	μαρτυρία	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	5	nmod:poss	_	Gloss=witness|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
 9	Ἰακὼβ	Ἰακώβ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	Gloss=Jacob
 10	δὲ	δέ	CCONJ	_	_	11	cc	_	Gloss=but,and,however
@@ -66,11 +66,11 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 17	σὲ	σέ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	16	obj	_	Gloss=you
 18	κύριος	κύριος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	Gloss=lord
 19	ἐπὶ	ἐπί	ADP	_	_	21	case	_	Gloss=on,upon,against
-20	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	21	det	_	Gloss=the
+20	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	21	det	_	Gloss=the
 21	ποδί	πούς	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	16	obl	_	Gloss=foot
-22	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	21	nmod	_	Gloss=me,my|SpaceAfter=No
+22	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	21	nmod:poss	_	Gloss=me,my|SpaceAfter=No
 23	.	.	PUNCT	_	_	16	punct	_	_
-24	νῦν	νῦν	ADV	_	_	27	obl	_	Gloss=now
+24	νῦν	νῦν	ADV	_	_	27	obl:tmod	_	Gloss=now
 25	οὖν	οὖν	ADV	_	_	27	advmod	_	Gloss=now,therefore
 26	πότε	πότε	ADV	_	PronType=Int	27	advmod	_	Gloss=when?,ἕως-πότε-=-how-long?
 27	ποιήσω	ποιέω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	16	parataxis	_	Gloss=to-do,make

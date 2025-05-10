@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="fr_sequoia-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-740 nodes (1%) are attached to their parents as `flat:name`.
+741 nodes (1%) are attached to their parents as `flat:name`.
 
-740 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.06621621621622.
+741 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.06612685560054.
 
-The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (708; 96% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (16; 2% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (8; 1% instances).
+The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (708; 96% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (16; 2% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (8; 1% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -72,7 +72,7 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 13	reçu	recevoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 14	deux	deux	NUM	_	NumType=Card	15	nummod	_	_
 15	lettres	lettre	NOUN	_	Gender=Fem|Number=Plur	13	obj	_	_
-16	anonymes	anonyme	ADJ	_	Number=Plur	15	amod	_	_
+16	anonymes	anonyme	ADJ	_	Number=Plur	15	amod	_	Gender[ctxt]=Fem
 17	et	et	CCONJ	_	_	19	cc	_	_
 18	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	CD-ROM	CD-ROM	NOUN	_	Gender=Masc|Number=Sing	15	conj	_	_

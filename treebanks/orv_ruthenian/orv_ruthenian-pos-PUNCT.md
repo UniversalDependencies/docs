@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.233333 (the average of all parts of speech is 2.589846).
+The form / lemma ratio of `PUNCT` is 1.233333 (the average of all parts of speech is 2.591599).
 
 The 1st highest number of forms (3) was observed with the lemma “:”: <em>:, <:, <:></em>.
 
@@ -36,7 +36,7 @@ The 3rd highest number of forms (2) was observed with the lemma “,”: <em>,, 
 
 `PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="orv_ruthenian-dep-punct.html">punct</a></tt> (17430; 100% instances), <tt><a href="orv_ruthenian-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (8008; 46% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (6469; 37% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1656; 10% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (607; 3% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (217; 1% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (158; 1% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (109; 1% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (84; 0% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (68; 0% instances), <tt><a href="orv_ruthenian-pos-INTJ.html">INTJ</a></tt> (18; 0% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="orv_ruthenian-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="orv_ruthenian-pos-X.html">X</a></tt> (5; 0% instances),  (1; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (8005; 46% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (6471; 37% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1656; 10% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (607; 3% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (217; 1% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (159; 1% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (109; 1% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (84; 0% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (68; 0% instances), <tt><a href="orv_ruthenian-pos-INTJ.html">INTJ</a></tt> (18; 0% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="orv_ruthenian-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="orv_ruthenian-pos-X.html">X</a></tt> (5; 0% instances),  (1; 0% instances)
 
 17431 (100%) `PUNCT` nodes are leaves.
 

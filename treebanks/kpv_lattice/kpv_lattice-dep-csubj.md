@@ -23,8 +23,8 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 8 csubj	color:blue
-1	Колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl:lmod	_	OrigLang=ru
-2	ӧні	ӧні	ADV	Adv	_	3	advmod:tmod	_	_
+1	Колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl	_	OrigLang=ru
+2	ӧні	ӧні	ADV	Adv	_	3	advmod	_	_
 3	мунӧ	мунны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 4	тайӧ	тайӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	7	det	_	_
 5	воӧм	воны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
@@ -43,8 +43,8 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 1 csubj	color:blue
 1	Пукавны	пукавны	VERB	V	VerbForm=Inf	5	csubj	_	_
-2	вадорын	вадор	NOUN	N	Case=Ine|Number=Sing	1	obl:lmod	_	_
-3	водзӧ	водз	ADV	Adv	Case=Ill	5	advmod:lmod	_	_
+2	вадорын	вадор	NOUN	N	Case=Ine|Number=Sing	1	obl	_	_
+3	водзӧ	водз	ADV	Adv	Case=Ill	5	advmod	_	_
 4	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
 5	весьшӧрӧ	весьшӧрӧ	ADV	Adv	Case=Ill	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
@@ -58,7 +58,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 2 csubj	color:blue
-1	Латвияса	Латвия	PROPN	N	Case=Loc|Number=Sing	2	nmod:lmod	_	GTtags=Prop,Sem/Plc,Sem/Plc,Sg,Der,Der/LocMod,A,Nom
+1	Латвияса	Латвия	PROPN	N	Case=Loc|Number=Sing	2	nmod	_	GTtags=Prop,Sem/Plc,Sem/Plc,Sg,Der,Der/LocMod,A,Nom
 2	му	му	NOUN	N	Case=Nom|Number=Sing	6	csubj	_	GTtags=Sg,Nom
 3	нинӧмӧн	нинӧм	PRON	Pron	Case=Ins|Number=Sing|Polarity=Neg	6	obl	_	GTtags=Neg,Sg,Ins
 4	ёнасӧ	ёна	ADV	Adv	Clitic=So	6	advmod	_	GTtags=Clt/сӧ
@@ -67,10 +67,10 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 7	Литваысь	Литва	NOUN	N	Case=Ela|Number=Sing	6	obl	_	GTtags=Prop,Sem/Plc,Sem/Plc,Sg,Ela|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	11	punct	_	_
 9	местаясыс	места	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	11	nsubj:cop	_	GTtags=Pl,Nom,PxSg3
-10	быттьӧ	быттьӧ	ADV	Adv	_	11	advmod:eval	_	GTtags=Parenthetic
+10	быттьӧ	быттьӧ	ADV	Adv	_	11	advmod	_	GTtags=Parenthetic
 11	сэтшӧмӧсь	сэтшӧм	ADJ	A	Number[subj]=Plur|PronType=Dem	6	parataxis	_	GTtags=Det,Dem,Cop,Pl
-12	жӧ	жӧ	ADV	Adv	_	11	advmod:eval	_	GTtags=Parenthetic
-13	таті	таті	ADV	Adv	Case=Tra	11	advmod:lmod	_	GTtags=Tra|SpaceAfter=No
+12	жӧ	жӧ	ADV	Adv	_	11	advmod	_	GTtags=Parenthetic
+13	таті	таті	ADV	Adv	Case=Tra	11	advmod	_	GTtags=Tra|SpaceAfter=No
 14	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~

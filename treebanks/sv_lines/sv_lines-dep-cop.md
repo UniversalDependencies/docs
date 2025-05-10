@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1424 nodes (2%) are attached to their parents as `cop`.
+1965 nodes (2%) are attached to their parents as `cop`.
 
-1348 instances of `cop` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.10042134831461.
+1821 instances of `cop` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.19389312977099.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (657; 46% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (511; 36% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (114; 8% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (59; 4% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (41; 3% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (32; 2% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (10; 1% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (820; 42% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (714; 36% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (168; 9% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (129; 7% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (66; 3% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (51; 3% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,17 +41,19 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 1 cop	color:blue
-1	Är	vara	AUX	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
-2	det	den	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	5	expl	_	_
-3	en	en	DET	SG-IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	5	det	_	_
-4	smart	smart	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Number=Sing	5	amod	_	_
-5	detektiv	detektiv	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpaceAfter=No
-6	?	?	PUNCT	QuestionMark	_	5	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 cop	color:blue
+1	Han	han	PRON	PERS-P3SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	2	nsubj	_	_
+2	gissade	gissa	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	att	att	SCONJ	_	_	7	mark	_	_
+4	hon	hon	PRON	PERS-P3SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	7	nsubj	_	_
+5	var	vara	AUX	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+6	i	i	ADP	_	_	7	case	_	_
+7	tjugoårsåldern	20-årsålder	NOUN	SG-DEF-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	2	ccomp	_	SpaceAfter=No
+8	.	.	PUNCT	Period	_	2	punct	_	_
 
 ~~~
 

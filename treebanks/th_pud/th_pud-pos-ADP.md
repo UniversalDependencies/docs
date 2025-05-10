@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Thai-PUD: POS Tags: `ADP`
 
-There are 1 `ADP` lemmas (6%), 66 `ADP` types (2%) and 3134 `ADP` tokens (14%).
-Out of 16 observed tags, the rank of `ADP` is: 2 in number of lemmas, 7 in number of types and 3 in number of tokens.
+There are 66 `ADP` lemmas (2%), 66 `ADP` types (2%) and 3134 `ADP` tokens (14%).
+Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 7 in number of types and 3 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: _
+The 10 most frequent `ADP` lemmas: ใน, ของ, ว่า, จาก, กับ, ที่, โดย, ถึง, เมื่อ, ทาง
 
 The 10 most frequent `ADP` types:  ใน, ของ, ว่า, จาก, กับ, ที่, โดย, ถึง, เมื่อ, ทาง
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 6052, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 4361, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 3134, <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> 1491, <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 1449, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 1026, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 969, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 951, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 683, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 608, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 606, <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> 581, <tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> 272, <tt><a href="th_pud-pos-SYM.html">SYM</a></tt> 134, <tt><a href="th_pud-pos-X.html">X</a></tt> 4, <tt><a href="th_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: ใน (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 682, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 2), ของ (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 488, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 4), ว่า (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 231, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 23), จาก (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 222, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 4), กับ (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 196, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 21, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 1), ที่ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 495, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 126, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 102, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 30), ถึง (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 95, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 8, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 2), เมื่อ (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 91, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 2), ทาง (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 72, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 22), ด้วย (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 63, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 33)
 
 The 10 most frequent ambiguous types:  ใน (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 682, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 2), ของ (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 488, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 4), ว่า (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 231, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 23), จาก (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 222, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 4), กับ (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 196, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 21, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 1), ที่ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 495, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 126, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 102, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 30), ถึง (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 95, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 8, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 2), เมื่อ (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 91, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 2), ทาง (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 72, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 22), ด้วย (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 63, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 33)
 
@@ -58,30 +58,34 @@ The 10 most frequent ambiguous types:  ใน (<tt><a href="th_pud-pos-ADP.html"
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 66.000000 (the average of all parts of speech is 269.375000).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.001399).
 
-The 1st highest number of forms (66) was observed with the lemma “_”: If, กระทั่ง, กระนั้น, กลาง, กว่า, กับ, การจากลา, ก่อน, ของ, จน, จวบจน, จาก, จึง, ซึ่ง, ฐาน, ณ, ด้วย, ตรง, ตลอด, ตอน, ตั้ง, ตาม, ต่อ, ถึง, ถ้า, ทั้ง, ทาง, ที่, ท่ามกลาง, นอก, บน, ผ่าน, ยัง, รอบ, ระหว่าง, ริม, ว่า, สำหรับ, สู่, หน้า, หลัง, หาก, อย่าง, ออน, ออฟ, อัน, อาทิ, อิน, เชิง, เช่น, เนื่อง, เพราะ, เพื่อ, เมื่อ, เหนือ, แก่, แต่, แม้, แล้ว, แห่ง, โดย, โอเวอร์, ใกล้, ใจกลาง, ใต้, ใน.
+The 1st highest number of forms (1) was observed with the lemma “If”: If.
+
+The 2nd highest number of forms (1) was observed with the lemma “กระทั่ง”: กระทั่ง.
+
+The 3rd highest number of forms (1) was observed with the lemma “กระนั้น”: กระนั้น.
 
 `ADP` does not occur with any features.
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 10 different relations: <tt><a href="th_pud-dep-case.html">case</a></tt> (2343; 75% instances), <tt><a href="th_pud-dep-mark.html">mark</a></tt> (547; 17% instances), <tt><a href="th_pud-dep-fixed.html">fixed</a></tt> (221; 7% instances), <tt><a href="th_pud-dep-cc.html">cc</a></tt> (14; 0% instances), <tt><a href="th_pud-dep-cc-preconj.html">cc:preconj</a></tt> (4; 0% instances), <tt><a href="th_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 10 different relations: <tt><a href="th_pud-dep-case.html">case</a></tt> (2343; 75% instances), <tt><a href="th_pud-dep-mark.html">mark</a></tt> (547; 17% instances), <tt><a href="th_pud-dep-fixed.html">fixed</a></tt> (221; 7% instances), <tt><a href="th_pud-dep-cc.html">cc</a></tt> (14; 0% instances), <tt><a href="th_pud-dep-cc-preconj.html">cc:preconj</a></tt> (4; 0% instances), <tt><a href="th_pud-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (1583; 51% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (820; 26% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (380; 12% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (143; 5% instances), <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (117; 4% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (46; 1% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="th_pud-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (1578; 50% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (831; 27% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (377; 12% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (143; 5% instances), <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (116; 4% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (45; 1% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="th_pud-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
 2999 (96%) `ADP` nodes are leaves.
 
-104 (3%) `ADP` nodes have one child.
+105 (3%) `ADP` nodes have one child.
 
 16 (1%) `ADP` nodes have two children.
 
-15 (0%) `ADP` nodes have three or more children.
+14 (0%) `ADP` nodes have three or more children.
 
-The highest child degree of a `ADP` node is 7.
+The highest child degree of a `ADP` node is 3.
 
-Children of `ADP` nodes are attached using 10 different relations: <tt><a href="th_pud-dep-fixed.html">fixed</a></tt> (171; 92% instances), <tt><a href="th_pud-dep-advmod.html">advmod</a></tt> (3; 2% instances), <tt><a href="th_pud-dep-punct.html">punct</a></tt> (3; 2% instances), <tt><a href="th_pud-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="th_pud-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="th_pud-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="th_pud-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="th_pud-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="th_pud-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="th_pud-dep-obl-tmod.html">obl:tmod</a></tt> (1; 1% instances)
+Children of `ADP` nodes are attached using 6 different relations: <tt><a href="th_pud-dep-fixed.html">fixed</a></tt> (171; 96% instances), <tt><a href="th_pud-dep-punct.html">punct</a></tt> (3; 2% instances), <tt><a href="th_pud-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="th_pud-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="th_pud-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="th_pud-dep-obl-tmod.html">obl:tmod</a></tt> (1; 1% instances)
 
-Children of `ADP` nodes belong to 11 different parts of speech: <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (117; 63% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (39; 21% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (9; 5% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="th_pud-pos-PART.html">PART</a></tt> (4; 2% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 2% instances), <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="th_pud-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Children of `ADP` nodes belong to 10 different parts of speech: <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (116; 65% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (37; 21% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (9; 5% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="th_pud-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 2% instances), <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="th_pud-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 

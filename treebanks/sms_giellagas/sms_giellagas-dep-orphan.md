@@ -61,11 +61,11 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 9	fgColor:white
 # visual-style 9 10 orphan	color:blue
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	GTtags=Pers,Sg3,Nom
-2	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	4	advmod:tmod	_	GTtags=Sem/Time
+2	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	4	advmod	_	GTtags=Sem/Time
 3	pâi	pâi	ADV	Adv	_	4	advmod	_	_
 4	mõõni	mõõnnâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3,@+FAUXV
 5	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	6	det	_	GTtags=Dem,Sg,Gen
-6	teärmmaz	tieʹrmes	NOUN	N	Case=Nom|Number=Sing	4	obl:lmod	_	GTtags=Sg,Nom
+6	teärmmaz	tieʹrmes	NOUN	N	Case=Nom|Number=Sing	4	obl	_	GTtags=Sg,Nom
 7	årra	årra	ADP	Po	AdpType=Post|Case=Ill	6	case	_	GTtags=Ill
 8	di	di	CCONJ	CC	_	9	cc	_	_
 9	tieʹrmes	tieʹrmes	NOUN	N	Case=Nom|Number=Sing	4	conj	_	GTtags=Sg,Nom

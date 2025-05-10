@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.15 release
 The following people have contributed to making this treebank part of UD: Oggi Peeters.
 
 Repository: [UD_Phrygian-KUL](https://github.com/UniversalDependencies/UD_Phrygian-KUL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxpg_kul215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxpg_kul216)<br />
+Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
 

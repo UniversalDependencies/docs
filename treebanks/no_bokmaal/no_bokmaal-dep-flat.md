@@ -54,10 +54,10 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 6	«	$"	PUNCT	<anf>	_	7	punct	_	SpaceAfter=No
 7	Jakten	jakt	PROPN	subst	_	5	appos	_	_
 8	på	på	ADP	prep	_	7	flat:name	_	_
-9	den	den	DET	det	Gender=Masc|Number=Sing|PronType=Dem	7	flat:name	_	_
+9	den	den	DET	det	Gender=Masc|Number=Sing|PronType=Art	7	flat:name	_	_
 10	mistenkte	mistenke	ADJ	adj	Definite=Def|Number=Sing|VerbForm=Part	7	flat:name	_	SpaceAfter=No
 11	»	$"	PUNCT	<anf>	_	7	punct	_	_
-12	sist	sist	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing	13	amod	_	_
+12	sist	sist	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	13	amod	_	_
 13	onsdag	onsdag	NOUN	subst	Definite=Ind|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 14	,	$,	PUNCT	<komma>	_	4	punct	_	_
 15	har	ha	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	_	_
@@ -99,10 +99,10 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 6	«	$"	PUNCT	<anf>	_	7	punct	_	SpaceAfter=No
 7	Jakten	jakt	PROPN	subst	_	5	appos	_	_
 8	på	på	ADP	prep	_	7	flat:name	_	_
-9	den	den	DET	det	Gender=Masc|Number=Sing|PronType=Dem	7	flat:name	_	_
+9	den	den	DET	det	Gender=Masc|Number=Sing|PronType=Art	7	flat:name	_	_
 10	mistenkte	mistenke	ADJ	adj	Definite=Def|Number=Sing|VerbForm=Part	7	flat:name	_	SpaceAfter=No
 11	»	$"	PUNCT	<anf>	_	7	punct	_	_
-12	sist	sist	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing	13	amod	_	_
+12	sist	sist	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	13	amod	_	_
 13	onsdag	onsdag	NOUN	subst	Definite=Ind|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 14	,	$,	PUNCT	<komma>	_	4	punct	_	_
 15	har	ha	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	_	_

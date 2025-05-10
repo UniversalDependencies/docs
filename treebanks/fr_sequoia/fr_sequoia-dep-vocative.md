@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	Président	président	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
-5	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_
+5	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_
 6	devait	devoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 7	y	y	PRON	_	Person=3|PronType=Prs	8	expl:comp	_	_
 8	avoir	avoir	VERB	_	VerbForm=Inf	6	ccomp	_	Subject=Generic
@@ -72,7 +72,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 21	-	-	PUNCT	_	_	14	punct	_	_
 22	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	_
 23	désormais	désormais	ADV	_	_	24	advmod	_	_
-24	favorable	favorable	ADJ	_	Number=Sing	0	root	_	SpaceAfter=No
+24	favorable	favorable	ADJ	_	Number=Sing	0	root	_	Gender[ctxt]=Fem|SpaceAfter=No
 25	,	,	PUNCT	_	_	27	punct	_	_
 26	sous	sous	ADP	_	_	27	case	_	_
 27	condition	condition	NOUN	_	Gender=Fem|Number=Sing	24	obl:mod	_	SpaceAfter=No

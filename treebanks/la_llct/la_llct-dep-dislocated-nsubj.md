@@ -70,7 +70,7 @@ The following 8 pairs of parts of speech are connected with `dislocated:nsubj`: 
 15	missos	missus	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	14	obj	_	_
 16	suos	suus	DET	a|a|3|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	15	det	_	SpaceAfter=No
 17	,	,	PUNCT	Punc	_	20	punct	_	_
-18	id	is	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	cc	_	_
+18	id	is	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|ExtPos=CCONJ|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	cc	_	_
 19	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	fixed	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 20	Teuderadum	Teuderadus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	15	conj	_	_
 21	presbiterum	presbyter	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	20	appos	_	SpaceAfter=No
@@ -82,7 +82,7 @@ The following 8 pairs of parts of speech are connected with `dislocated:nsubj`: 
 27	,	,	PUNCT	Punc	_	28	punct	_	_
 28	qui	qui	PRON	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	42	dislocated:nsubj	_	SpaceAfter=No
 29	,	,	PUNCT	Punc	_	28	punct	_	_
-30	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	34	case	_	_
+30	una	una	ADV	d|d|-|-|-|-|-|-|-|-	ExtPos=ADP	34	case	_	_
 31	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	30	fixed	_	_
 32	aliis	alius	DET	a|a|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|PronType=Con	34	det	_	_
 33	idoneis	idoneus	ADJ	a|a|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	34	amod	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1692 nodes (14%) are attached to their parents as `det`.
+1691 nodes (14%) are attached to their parents as `det`.
 
-1235 instances of `det` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.12352245862884.
+1234 instances of `det` (73%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.12359550561798.
 
-The following 10 pairs of parts of speech are connected with `det`: <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (1465; 87% instances), <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (76; 4% instances), <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (64; 4% instances), <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (34; 2% instances), <tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (27; 2% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (16; 1% instances), <tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="bej_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="bej_autogramm-pos-X.html">X</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `det`: <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (1464; 87% instances), <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (76; 4% instances), <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (64; 4% instances), <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (34; 2% instances), <tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (27; 2% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (16; 1% instances), <tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="bej_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="bej_autogramm-pos-X.html">X</a></tt>-<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

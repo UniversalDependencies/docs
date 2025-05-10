@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-33 nodes (0%) are attached to their parents as `fixed`.
+171 nodes (0%) are attached to their parents as `fixed`.
 
-33 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+171 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.09356725146199.
 
-The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (21; 64% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (5; 15% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (3; 9% instances), <tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (2; 6% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (2; 6% instances).
+The following 15 pairs of parts of speech are connected with `fixed`: <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (91; 53% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (32; 19% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (10; 6% instances), <tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (9; 5% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (4; 2% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (4; 2% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 9 10 fixed	color:blue
 1	et	et	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_grchron_j2c5_1782
 2	s'	se1	PRON	PROper	PronType=Prs	5	expl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_1783
-3	en	en2	ADV	PROadv	_	5	obl	_	XmlId=w_grchron_j2c5_1784
+3	en	en2	ADV	PROadv	_	5	obl:advmod	_	XmlId=w_grchron_j2c5_1784
 4	estoit	être	AUX	VERcjg	VerbForm=Fin	5	aux	_	XmlId=w_grchron_j2c5_1785
 5	alé	aller	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_grchron_j2c5_1786
 6	vers	vers2	ADP	PRE	_	7	case	_	XmlId=w_grchron_j2c5_1787
@@ -41,29 +41,22 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 fixed	color:blue
-1	«	«	PUNCT	PONpga	_	18	punct	_	XmlId=w_42_03557
-2	Sire	sire	NOUN	NOMcom	_	18	vocative	_	SpaceAfter=No|XmlId=w_42_03558
-3	,	,	PUNCT	PONfbl	_	18	punct	_	XmlId=w_42_03559
-4	puis	puis	ADP	ADVgen	_	6	mark	_	XmlId=w_42_03560
-5	que	que	SCONJ	CONsub	_	4	fixed	_	XmlId=w_42_03561
-6	ainsi	ainsi	ADV	ADVgen	_	18	advcl	_	XmlId=w_42_03562
-7	est	être	AUX	VERcjg	VerbForm=Fin	6	cop	_	XmlId=w_42_03563
-8	que	que	SCONJ	CONsub	_	13	mark	_	XmlId=w_42_03564
-9	a	à	ADP	PRE	_	10	case	_	XmlId=w_42_03565
-10	vous	vous	PRON	PROper	PronType=Prs	13	obl	_	XmlId=w_42_03566
-11	du	de.le	ADP	PRE.DETdef	_	12	case:det	_	XmlId=w_42_03567
-12	tout	tout2	PRON	PROind	PronType=Ind	13	obl	_	XmlId=w_42_03568
-13	avons	avoir1	VERB	VERcjg	VerbForm=Fin	6	csubj	_	XmlId=w_42_03569
-14	nostre	notre	DET	DETpos	Poss=Yes	15	det	_	XmlId=w_42_03570
-15	esperance	espérance	NOUN	NOMcom	_	13	obj	_	SpaceAfter=No|XmlId=w_42_03571
-16	,	,	PUNCT	PONfbl	_	6	punct	_	XmlId=w_42_03572
-17	vous	vous	PRON	PROper	PronType=Prs	18	iobj	_	XmlId=w_42_03573
-18	prions	prier	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_03574
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 fixed	color:blue
+1	Après	après	ADP	PRE	_	7	mark	_	XmlId=w_42_27583
+2	que	que	SCONJ	CONsub	_	1	fixed	_	XmlId=w_42_27584
+3	l'	le	DET	DETdef	Definite=Def|PronType=Art	4	det	_	SpaceAfter=No|XmlId=w_42_27585
+4	espousee	épousée	NOUN	NOMcom	_	7	nsubj	_	XmlId=w_42_27586
+5	eut	avoir	AUX	VERcjg	VerbForm=Fin	7	aux:pass	_	XmlId=w_42_27587
+6	esté	être	AUX	VERppe	Tense=Past|VerbForm=Part	7	aux:pass	_	XmlId=w_42_27588
+7	desabillee	déshabiller	VERB	VERppe	Tense=Past|VerbForm=Part	10	advcl	_	SpaceAfter=No|XmlId=w_42_27589
+8	,	,	PUNCT	PONfbl	_	10	punct	_	XmlId=w_42_27590
+9	se	se1	PRON	PROper	PronType=Prs	10	expl	_	XmlId=w_42_27591
+10	cocha	coucher	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_42_27592
+11	,	,	PUNCT	PONfbl	_	10	punct	_	XmlId=w_42_27593
 
 ~~~
 
@@ -74,17 +67,22 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 fixed	color:blue
-1	Et	et	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_grchron_j2c5_2594
-2	neant	néant	ADV	ADVgen	_	5	advmod	_	XmlId=w_grchron_j2c5_2595
-3	moins	moins	ADV	ADVgen	_	2	fixed	_	XmlId=w_grchron_j2c5_2595_1
-4	tousjours	toujours	ADV	ADVgen	_	5	advmod	_	XmlId=w_grchron_j2c5_2596
-5	demouroient	demeurer	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_grchron_j2c5_2597
-6	les	le	DET	DETdef	Definite=Def|PronType=Art	8	det	_	XmlId=w_grchron_j2c5_2598
-7	dictes	dire1	VERB	VERppe	Tense=Past|VerbForm=Part	8	acl	_	XmlId=w_grchron_j2c5_2599
-8	compaignes	compagne	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_grchron_j2c5_2600
-9	ou	en1.le	ADP	PRE.DETdef	_	10	case:det	_	XmlId=w_grchron_j2c5_2601
-10	royaume	royaume	NOUN	NOMcom	_	5	obl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_2602
-11	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_grchron_j2c5_2603
+1	Ce	ce1	PRON	PROdem	PronType=Dem	2	nsubj	_	XmlId=w_42_27248
+2	pendant	pendre	VERB	VERppa	Tense=Pres|VerbForm=Part	7	advcl	_	XmlId=w_42_27249
+3	que	que	SCONJ	CONsub	_	2	fixed	_	XmlId=w_42_27250
+4	les	le	DET	DETdef	Definite=Def|PronType=Art	5	det	_	XmlId=w_42_27251
+5	dames	dame1	NOUN	NOMcom	_	7	nsubj	_	XmlId=w_42_27252
+6	la	le	PRON	PROper	PronType=Prs	7	obj	_	XmlId=w_42_27253
+7	desabilloient	déshabiller	VERB	VERcjg	VerbForm=Fin	12	ccomp	_	SpaceAfter=No|XmlId=w_42_27254
+8	,	,	PUNCT	PONfbl	_	12	punct	_	XmlId=w_42_27255
+9	le	le	DET	DETdef	Definite=Def|PronType=Art	10	det	_	XmlId=w_42_27256
+10	roy	roi1	NOUN	NOMcom	_	12	nsubj	_	XmlId=w_42_27257
+11	Jehan	Jean	PROPN	NOMpro	_	10	flat	_	XmlId=w_42_27258
+12	arriva	arriver	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_27259
+13	avecq	avec	ADP	PRE	_	15	case	_	XmlId=w_42_27260
+14	belle	beau	ADJ	ADJqua	_	15	amod	_	XmlId=w_42_27261
+15	compaignie	compagnie	NOUN	NOMcom	_	12	obl	_	SpaceAfter=No|XmlId=w_42_27262
+16	,	,	PUNCT	PONfbl	_	12	punct	_	XmlId=w_42_27263
 
 ~~~
 

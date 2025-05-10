@@ -9,54 +9,44 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_circse-dep-obl.html">obl</a></tt>.
 There are also 4 other language-specific subtypes of `obl`: <tt><a href="la_circse-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="la_circse-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="la_circse-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="la_circse-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-348 nodes (2%) are attached to their parents as `obl:lmod`.
+432 nodes (2%) are attached to their parents as `obl:lmod`.
 
-223 instances of `obl:lmod` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.37931034482759.
+270 instances of `obl:lmod` (63%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.35185185185185.
 
-The following 13 pairs of parts of speech are connected with `obl:lmod`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (275; 79% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (18; 5% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (16; 5% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (12; 3% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (11; 3% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `obl:lmod`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (344; 80% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (22; 5% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (17; 4% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (14; 3% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (12; 3% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 obl:lmod	color:blue
-1	me	ego	PRON	E	Case=Acc|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs	2	obj	_	LiLaflcat=p
-2	uicit	uinco	VERB	B3	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
-3	et	et	CCONJ	S	_	5	cc	_	LASLAVariant=2|LiLaflcat=i
-4	se	sui	PRON	G	Case=Acc|InflClass=LatAnom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	obj	_	LASLAVariant=1|LiLaflcat=p
-5	uincat	uinco	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	LiLaflcat=v3
-6	et	et	CCONJ	S	_	7	cc	_	LASLAVariant=2|LiLaflcat=i
-7	cupiat	cupio	VERB	B5	Aspect=Imp|InflClass=LatI2|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	LiLaflcat=v5
-8	mori	morior	VERB	B5	Aspect=Imp|InflClass=LatI2|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass	7	ccomp	_	LiLaflcat=v5
-9	ab	ab	ADP	R	AdpType=Prep	10	case	_	LiLaflcat=i
-10	inferis	inferi	NOUN	A2	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur	11	obl:lmod	_	LiLaflcat=n2
-11	reuersus	reuertor	VERB	B3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	7	advcl:pred	_	LiLaflcat=v3
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 obl:lmod	color:blue
+1	iam	iam	ADV	M	Degree=Pos	3	advmod:tmod	_	LiLaflcat=i
+2	nullus	nullus	DET	L	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Neg	4	det	_	LiLaflcat=p
+3	superest	supersum	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LASLAVariant=1|LiLaflcat=v6
+4	timor	timor	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	3	nsubj	_	LiLaflcat=n3
+5	nil	nihil	PRON	L	InflClass=Ind|PronType=Neg	7	nsubj	_	LiLaflcat=n
+6	ultra	ultra	ADP	R	AdpType=Prep	8	case	_	LASLAVariant=2|LiLaflcat=i
+7	iacet	iaceo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	LiLaflcat=v2
+8	inferos	inferi	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	7	obl:lmod	_	LiLaflcat=n2
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 7 obl:lmod	color:blue
-1	quis	quis	PRON	K	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Int	2	det	_	LASLAVariant=1|LiLaflcat=p
-2	Lycus	lycus	PROPN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	4	nsubj	_	LASLAVariant=N|LiLaflcat=n2
-3	regnum	regnum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	4	obj	_	LiLaflcat=n2
-4	obtinet	obtineo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
-5	quis	quis	PRON	K	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Int	10	nsubj	_	LASLAVariant=1|LiLaflcat=p
-6	tanta	tantus	DET	I	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur|PronType=Dem	8	det	_	LiLaflcat=n6
-7	Thebis	thebae	PROPN	A1	Case=Abl|Gender=Fem|InflClass=IndEurA|NameType=Geo|Number=Plur	9	obl:lmod	_	LASLAVariant=N|LiLaflcat=n1
-8	scelera	scelus	NOUN	A3	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Plur	9	obj	_	LiLaflcat=n3
-9	moliri	molior	VERB	B4	Aspect=Imp|InflClass=LatI|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass	10	xcomp	_	LiLaflcat=v4
-10	ausus	audeo	VERB	Y2	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatE|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	4	conj	_	LiLaflcat=v2
-11	est	sum	AUX	Z2	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	LASLAVariant=2|LiLaflcat=v6
-12	Hercule	hercules	PROPN	A3	Case=Abl|Gender=Masc|InflClass=IndEurI|NameType=Giv|Number=Sing	13	nsubj:pass	_	LASLAVariant=N|LiLaflcat=n3
-13	reuerso	reuertor	VERB	B3	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	10	advcl:abs	_	LiLaflcat=v3
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 obl:lmod	color:blue
+1	ipse	ipse	DET	I	Case=Nom|Form=Emp|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	5	nsubj	_	LiLaflcat=p
+2	ad	ad	ADP	R	AdpType=Prep	3	case	_	LASLAVariant=2|LiLaflcat=i
+3	Penates	penates	PROPN	A3	Case=Acc|Gender=Masc|InflClass=IndEurI|NameType=Rel|Number=Plur	5	obl:lmod	_	LASLAVariant=N|LiLaflcat=n3
+4	regios	regius	ADJ	C1	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	3	amod	_	LiLaflcat=n6
+5	referam	refero	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v6
+6	gradum	gradus	NOUN	A4	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Sing	5	obj	_	LiLaflcat=n4
 
 ~~~
 

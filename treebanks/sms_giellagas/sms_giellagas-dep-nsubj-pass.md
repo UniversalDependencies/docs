@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 11 nsubj:pass	color:blue
-1	Mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	2	obl:lmod	_	GTtags=Sg,Loc
+1	Mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	2	obl	_	GTtags=Sg,Loc
 2	jåått	jååʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
 3	di	di	CCONJ	CC	_	4	cc	_	_
 4	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No

@@ -40,7 +40,7 @@ The following 2 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 det	color:blue
-1	Txamary	txamary	CCONJ	XPOS=AUX-FRUSTR	Number[obj]=Sing|Person[obj]=3	2	cc	_	gloss[pt]=AUX-FRUSTR-3SG.M.O
+1	Txamary	txa	AUX	XPOS=AUX-FRUSTR	Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres	2	aux	_	gloss[pt]=AUX-FRUSTR-3SG.M.O
 2	aapanhika	awa	VERB	XPOS=existir-IPFTV-PRED	_	0	root	_	gloss[pt]=existir-IPFTV-PRED
 3	kaiãpukury	kaiãpuku	DET	XPOS=muito-DISTR-M	_	4	det	_	gloss[pt]=muito-DISTR-M
 4	arẽka	herẽka	NOUN	N	Gender=Masc|Gender[psor]=Masc	5	nsubj	_	gloss[pt]=3SG.M-sangue.de

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-251 nodes (0%) are attached to their parents as `ccomp`.
+254 nodes (0%) are attached to their parents as `ccomp`.
 
-251 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.49003984063745.
+254 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.47637795275591.
 
-The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (144; 57% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (26; 10% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (24; 10% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (17; 7% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (13; 5% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (9; 4% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `ccomp`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (145; 57% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (26; 10% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (24; 9% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (17; 7% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (13; 5% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (9; 4% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,8 +45,8 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 5	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	3	cop	_	Translit=aris
 6	ო	თქო	PART	Part	Evident=Nfh	3	ccomp	_	Translit=o
 7	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
-8	სანამ	სანამ	SCONJ	Conj	_	1	mark	_	Translit=sanam
-9	ხარ	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	1	cop	_	Translit=xar
+8	სანამ	სანამ	SCONJ	Conj	_	1	ccomp	_	Translit=sanam
+9	ხარ	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	8	cop	_	Translit=xar
 10	სულ	სულ	ADV	Adv	AdvType=Man	1	advmod	_	Translit=sul
 11	შენ	შენ	PRON	Pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	1	obl	_	Translit=šen
 12	თან	თან	ADP	Post	AdpType=Post|Case=Dat	11	case	_	Translit=tʻan

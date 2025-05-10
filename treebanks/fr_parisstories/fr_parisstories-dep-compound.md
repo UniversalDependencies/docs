@@ -45,7 +45,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 6	premières	premier	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	_
 7	semaines	semaine	NOUN	_	Gender=Fem|Number=Plur	10	obl:mod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
-9	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+9	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 10	commence	commencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	à	à	ADP	_	_	12	mark	_	_
 12	aller	aller	VERB	_	VerbForm=Inf	10	xcomp	_	Subject=SubjRaising
@@ -81,7 +81,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 6	premières	premier	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	_
 7	semaines	semaine	NOUN	_	Gender=Fem|Number=Plur	10	obl:mod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
-9	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+9	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 10	commence	commencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	à	à	ADP	_	_	12	mark	_	_
 12	aller	aller	VERB	_	VerbForm=Inf	10	xcomp	_	Subject=SubjRaising

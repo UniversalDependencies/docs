@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-40 nodes (0%) are attached to their parents as `nummod`.
+53 nodes (0%) are attached to their parents as `nummod`.
 
-33 instances of `nummod` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.45.
+43 instances of `nummod` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.39622641509434.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (35; 88% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (3; 8% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (45; 85% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (4; 8% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (3; 6% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -53,18 +53,21 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 nummod	color:blue
-1	laudanda	laudo	VERB	B1	Aspect=Prosp|Case=Acc|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Gdv|Voice=Pass	2	obj	_	LiLaflcat=v1
-2	feci	facio	VERB	B5	Aspect=Perf|InflClass=LatI2|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v5
-3	iussus	iubeo	VERB	B2	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatE|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	2	advcl:pred	_	LiLaflcat=v2
-4	hoc	hic	DET	I	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	6	nsubj	_	LASLAVariant=1|LiLaflcat=p
-5	unum	unus	NUM	D1	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumType=Card	4	nummod	_	LiLaflcat=n6
-6	meum	meus	DET	F	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	2	conj	_	LiLaflcat=n6
-7	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	LASLAVariant=1|LiLaflcat=v6
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 2 nummod	color:blue
+1	negatur	nego	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LiLaflcat=v1
+2	uni	unus	NUM	D1	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Sing|NumType=Card	7	nummod	_	LiLaflcat=n
+3	nempe	nempe	PART	M	Form=Emp	1	discourse	_	LiLaflcat=i
+4	in	in	ADP	R	AdpType=Prep	6	case	_	LiLaflcat=i
+5	hoc	hic	DET	I	Case=Abl|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	6	det	_	LASLAVariant=1|LiLaflcat=p
+6	populo	populus	NOUN	A2	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	1	obl	_	LASLAVariant=1|LiLaflcat=n2
+7	mihi	ego	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs	1	obl	_	LiLaflcat=p
+8	mors	mors	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	1	nsubj:pass	_	LiLaflcat=n3
+9	tam	tam	ADV	M	Degree=Pos	10	advmod	_	LiLaflcat=i
+10	parata	paro	VERB	B1	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatA|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	8	acl	_	LASLAVariant=2|LiLaflcat=v1
 
 ~~~
 

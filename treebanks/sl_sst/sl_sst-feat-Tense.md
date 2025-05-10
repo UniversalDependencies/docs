@@ -85,7 +85,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (546; 64%),
-<tt>VERB --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> VERB</tt> (415; 69%),
+<tt>VERB --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> VERB</tt> (413; 69%),
 <tt>VERB --[<tt><a href="sl_sst-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (251; 57%),
 <tt>VERB --[<tt><a href="sl_sst-dep-parataxis-restart.html">parataxis:restart</a></tt>]--> VERB</tt> (65; 58%),
 <tt>VERB --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (55; 89%),

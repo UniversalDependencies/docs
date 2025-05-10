@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-262 tokens (20%) have a non-empty value of `Person`.
-130 types (22%) occur at least once with a non-empty value of `Person`.
-63 lemmas (16%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="vep_vwt-pos-VERB.html">VERB</a></tt> (105; 8% instances), <tt><a href="vep_vwt-pos-PRON.html">PRON</a></tt> (83; 6% instances), <tt><a href="vep_vwt-pos-AUX.html">AUX</a></tt> (74; 6% instances).
+281 tokens (22%) have a non-empty value of `Person`.
+134 types (23%) occur at least once with a non-empty value of `Person`.
+64 lemmas (17%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="vep_vwt-pos-VERB.html">VERB</a></tt> (105; 8% instances), <tt><a href="vep_vwt-pos-PRON.html">PRON</a></tt> (102; 8% instances), <tt><a href="vep_vwt-pos-AUX.html">AUX</a></tt> (74; 6% instances).
 
 ### `VERB`
 
@@ -38,16 +38,23 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-83 <tt><a href="vep_vwt-pos-PRON.html">PRON</a></tt> tokens (49% of all `PRON` tokens) have a non-empty value of `Person`.
+102 <tt><a href="vep_vwt-pos-PRON.html">PRON</a></tt> tokens (61% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="vep_vwt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (83; 100%), <tt><a href="vep_vwt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (83; 100%), <tt><a href="vep_vwt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (50; 60%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="vep_vwt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (102; 100%), <tt><a href="vep_vwt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (83; 81%), <tt><a href="vep_vwt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63; 62%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (59; 71% of non-empty `Person`): <em>minä, meiden, minun, mö, minei, mindai, meid, meile</em>
-* `2` (8; 10% of non-empty `Person`): <em>Tö, Teid, Teiden, Teil, Teile, sinus</em>
-* `3` (16; 19% of non-empty `Person`): <em>hän, heiden, hänen, hö, heile, heišpäi, hänele</em>
-* `EMPTY` (85): <em>ičeze, nece, kaik, kaiken, se, ičein, kudambad, necen, sen, ičetoi</em>
+* `1` (62; 61% of non-empty `Person`): <em>minä, meiden, minun, mö, minei, ičein, mindai, meid, meile</em>
+* `2` (10; 10% of non-empty `Person`): <em>Tö, ičetoi, Teid, Teiden, Teil, Teile, sinus</em>
+* `3` (30; 29% of non-empty `Person`): <em>ičeze, hän, heiden, hänen, hö, heile, heišpäi, hänele, ičtaze</em>
+* `EMPTY` (66): <em>nece, kaik, kaiken, se, kudambad, necen, sen, kaikes, midä-se, mitte</em>
+
+<table>
+  <tr><th>Paradigm <i>iče</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="vep_vwt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ičein</em></td><td></td><td><em>ičeze</em></td></tr>
+  <tr><td><tt><tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="vep_vwt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ičetoi</em></td><td><em>ičeze</em></td></tr>
+  <tr><td><tt><tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="vep_vwt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>ičtaze</em></td></tr>
+</table>
 
 ### `AUX`
 

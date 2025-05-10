@@ -10,16 +10,16 @@ This feature is language-specific.
 It occurs with 7 different values: `Com`, `Geo`, `Giv`, `Nat`, `Oth`, `Pro`, `Sur`.
 Some words have combined values of the feature; 5 combinations have been observed: `Com|Geo`, `Com|Pro`, `Geo|Giv`, `Geo|Giv|Sur`, `Giv|Sur`.
 
-1135 tokens (6%) have a non-empty value of `NameType`.
-945 types (12%) occur at least once with a non-empty value of `NameType`.
-830 lemmas (16%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (1078; 6% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (56; 0% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+1136 tokens (6%) have a non-empty value of `NameType`.
+946 types (12%) occur at least once with a non-empty value of `NameType`.
+831 lemmas (16%) occur at least once with a non-empty value of `NameType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (1079; 6% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (56; 0% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
-1078 <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `NameType`.
+1079 <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (967; 90%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (829; 77%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (610; 57%).
+The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (968; 90%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (830; 77%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (611; 57%).
 
 `PROPN` tokens may have the following values of `NameType`:
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 * `Com,Pro` (3; 0% of non-empty `NameType`): <em>Ford, GM</em>
 * `Geo` (386; 36% of non-empty `NameType`): <em>Čína, Francie, Albánie, Británii, Danevirke, Evropě, Itálii, Liao, Ameriky, Asii</em>
 * `Geo,Giv` (3; 0% of non-empty `NameType`): <em>Thrákie, Thrákii, Thrákií</em>
-* `Giv` (195; 18% of non-empty `NameType`): <em>Donald, Richarda, Augustus, Bass, Donalda, František, George, Giovanni, González, Jasmína</em>
+* `Giv` (196; 18% of non-empty `NameType`): <em>Donald, Richarda, Augustus, Bass, Donalda, František, George, Giovanni, González, Jasmína</em>
 * `Giv,Sur` (5; 0% of non-empty `NameType`): <em>James, Michael, Michala, Stephen, Štěpán</em>
 * `Nat` (41; 4% of non-empty `NameType`): <em>Australané, Mayové, Číňanů, Řekové, Židů, Aboriginci, Achájů, Američan, Američané, Athéňanů</em>
 * `Oth` (2; 0% of non-empty `NameType`): <em>Cup, Cupu</em>
@@ -42,7 +42,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
   <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Andy</em></td><td></td></tr>
 </table>
 
-`NameType` seems to be **lexical feature** of `PROPN`. 99% lemmas (769) occur only with one value of `NameType`.
+`NameType` seems to be **lexical feature** of `PROPN`. 99% lemmas (770) occur only with one value of `NameType`.
 
 ### `ADJ`
 

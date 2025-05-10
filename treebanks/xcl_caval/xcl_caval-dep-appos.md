@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-206 nodes (0%) are attached to their parents as `appos`.
+243 nodes (0%) are attached to their parents as `appos`.
 
-206 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.45145631067961.
+243 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.54732510288066.
 
-The following 14 pairs of parts of speech are connected with `appos`: <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (122; 59% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (38; 18% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (17; 8% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `appos`: <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (142; 58% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (45; 19% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (21; 9% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (5; 2% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 14 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 8	fgColor:white
 # visual-style 8 9 appos	color:blue
 1	Եւ	եւ	CCONJ	_	_	3	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
-2	նա	նա	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	3	nsubj	_	Translit=na|LTranslit=na|Gloss=he/she/it/that
+2	նա	նա	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	3	nsubj	_	Translit=na|LTranslit=na|Gloss=he/she/it
 3	ասէ	ասել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=asē|LTranslit=asel|Gloss=say
 4	՝	՝	PUNCT	_	_	6	punct	_	Translit=;|LTranslit=;
 5	զ	զ	ADP	_	Definite=Def	6	orphan	_	SpaceAfter=No|Translit=z|LTranslit=z
@@ -42,7 +42,7 @@ The following 14 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 13 appos	color:blue
-1	Որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	3	nsubj	_	Translit=Or|LTranslit=or|Gloss=which
+1	Որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	3	nsubj	_	Translit=Or|LTranslit=or|Gloss=who
 2	ոչ	ոչ	PART	_	Polarity=Neg	3	advmod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
 3	պատուէ	պատուել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	Translit=patowē|LTranslit=patowel|Gloss=honor
 4	զ	զ	ADP	_	Definite=Def	5	case	_	SpaceAfter=No|Translit=z|LTranslit=z
@@ -56,7 +56,7 @@ The following 14 pairs of parts of speech are connected with `appos`: <tt><a hre
 12	զ	զ	ADP	_	Definite=Def	13	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 13	առաքիչ	առաքիչ	NOUN	_	Case=Acc|Number=Sing	11	appos	_	SpaceAfter=No|Translit=aṙakʻičʻ|LTranslit=aṙakʻičʻ|Gloss=sender
 14	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	13	det	_	Translit=n|LTranslit=n|Gloss=that
-15	նորա	նա	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	13	nmod	_	SpaceAfter=No|Translit=nora|LTranslit=na|Gloss=he/she/it/that
+15	նորա	նա	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	13	nmod	_	SpaceAfter=No|Translit=nora|LTranslit=na|Gloss=he/she/it
 16	:	:	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
 
 ~~~

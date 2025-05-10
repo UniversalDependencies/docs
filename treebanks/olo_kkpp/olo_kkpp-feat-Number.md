@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt>, <tt><a href="olo_kkpp-feat-Number-psor.html">Number[psor]</a></tt>.
 
-976 tokens (60%) have a non-empty value of `Number`.
-642 types (85%) occur at least once with a non-empty value of `Number`.
+983 tokens (60%) have a non-empty value of `Number`.
+644 types (85%) occur at least once with a non-empty value of `Number`.
 464 lemmas (83%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (429; 26% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (195; 12% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (99; 6% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (93; 6% instances), <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (78; 5% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (61; 4% instances), <tt><a href="olo_kkpp-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="olo_kkpp-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="olo_kkpp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (429; 26% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (203; 12% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (99; 6% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (93; 6% instances), <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (78; 5% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (60; 4% instances), <tt><a href="olo_kkpp-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="olo_kkpp-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="olo_kkpp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -39,15 +39,15 @@ The feature is used with 10 part-of-speech tags: <tt><a href="olo_kkpp-pos-NOUN.
 
 ### `VERB`
 
-195 <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Number`.
+203 <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (185; 95%), <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (180; 92%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (177; 91%), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (150; 77%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (192; 95%), <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (187; 92%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (177; 87%), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (157; 77%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (82; 42% of non-empty `Number`): <em>kuulimo, kuulittogo, sanottih, tiezimö, tiezittö, lähtiettih, näimö, saneltih, torvittih, avvutetah</em>
-* `Sing` (113; 58% of non-empty `Number`): <em>sanoi, rodieu, sanoo, istui, kraassi, kyzyy, menöö, olen, oli, on</em>
-* `EMPTY` (62): <em>kuulluh, pietäh, arbuamah, ellendämäh, kuundelemah, käynnyh, lähtie, ostua, saamah, sanomah</em>
+* `Plur` (89; 44% of non-empty `Number`): <em>pietäh, kuulimo, kuulittogo, sanottih, tiezimö, tiezittö, lähtiettih, näimö, saneltih, torvittih</em>
+* `Sing` (114; 56% of non-empty `Number`): <em>sanoi, rodieu, sanoo, istui, kraassi, kyzyy, menöö, olen, oli, on</em>
+* `EMPTY` (55): <em>kuulluh, arbuamah, ellendämäh, kuundelemah, käynnyh, lähtie, ostua, saamah, sanomah, sanuo</em>
 
 <table>
   <tr><th>Paradigm <i>sanuo</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -120,14 +120,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `AUX`
 
-61 <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Number`.
+60 <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (53; 87%), <tt><a href="olo_kkpp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (45; 74%), <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (42; 69%), <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (42; 69%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (42; 69%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (54; 90%), <tt><a href="olo_kkpp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (44; 73%), <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (42; 70%), <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (42; 70%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (42; 70%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Plur` (9; 15% of non-empty `Number`): <em>ollah, ei, emmogo, voidas, voidu</em>
-* `Sing` (52; 85% of non-empty `Number`): <em>oli, ei, on, voibi, olen, En, Ongo, suannuh, voinoo, voit</em>
+* `Sing` (51; 85% of non-empty `Number`): <em>oli, ei, on, voibi, olen, En, Ongo, voinoo, voit</em>
 * `EMPTY` (9): <em>ole, pidää, Ei, olis, olles, pidänyh, roitah</em>
 
 <table>
@@ -191,14 +191,14 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
+<tt>VERB --[<tt><a href="olo_kkpp-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (64; 83%),
 <tt>NOUN --[<tt><a href="olo_kkpp-dep-amod.html">amod</a></tt>]--> ADJ</tt> (63; 89%),
-<tt>VERB --[<tt><a href="olo_kkpp-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (63; 82%),
-<tt>VERB --[<tt><a href="olo_kkpp-dep-conj.html">conj</a></tt>]--> VERB</tt> (35; 73%),
+<tt>VERB --[<tt><a href="olo_kkpp-dep-conj.html">conj</a></tt>]--> VERB</tt> (37; 77%),
 <tt>NOUN --[<tt><a href="olo_kkpp-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (28; 60%),
 <tt>NOUN --[<tt><a href="olo_kkpp-dep-conj.html">conj</a></tt>]--> NOUN</tt> (24; 83%),
 <tt>VERB --[<tt><a href="olo_kkpp-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (20; 65%),
 <tt>NOUN --[<tt><a href="olo_kkpp-dep-cop.html">cop</a></tt>]--> AUX</tt> (15; 83%),
 <tt>NOUN --[<tt><a href="olo_kkpp-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (15; 65%),
-<tt>VERB --[<tt><a href="olo_kkpp-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (13; 59%),
+<tt>VERB --[<tt><a href="olo_kkpp-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (13; 57%),
 <tt>NOUN --[<tt><a href="olo_kkpp-dep-det.html">det</a></tt>]--> PRON</tt> (11; 92%).
 

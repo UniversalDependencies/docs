@@ -83,7 +83,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (489; 15% of non-empty `Person`): <em>eu, me, nos, nós, mim, meu, nosso, nossa, minhas, nossos</em>
 * `2` (116; 4% of non-empty `Person`): <em>você, vocês, te, Tu</em>
 * `3` (2602; 81% of non-empty `Person`): <em>se, o, ele, ela, eles, a, os, elas, as, lo</em>
-* `EMPTY` (3208): <em>que, isso, quem, tudo, nada, algo, ninguém, qual, outro, um</em>
+* `EMPTY` (3205): <em>que, isso, quem, tudo, nada, algo, ninguém, qual, outro, um</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (17) occur only with one value of `Person`.
 
@@ -97,7 +97,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 * `1` (254; 25% of non-empty `Person`): <em>minha, meu, nossa, nosso, nossos, meus, nossas, minhas</em>
 * `3` (758; 75% of non-empty `Person`): <em>sua, seu, seus, suas</em>
-* `EMPTY` (23306): <em>o, a, os, as, um, uma, esse, essa, este, esta</em>
+* `EMPTY` (23313): <em>o, a, os, as, um, uma, esse, essa, este, esta</em>
 
 ## Relations with Agreement in `Person`
 

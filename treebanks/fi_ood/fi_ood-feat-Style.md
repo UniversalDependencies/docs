@@ -11,7 +11,7 @@ It occurs with 2 different values: `Arch`, `Coll`.
 
 222 tokens (1%) have a non-empty value of `Style`.
 147 types (2%) occur at least once with a non-empty value of `Style`.
-112 lemmas (2%) occur at least once with a non-empty value of `Style`.
+113 lemmas (2%) occur at least once with a non-empty value of `Style`.
 The feature is used with 11 part-of-speech tags: <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (80; 0% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (42; 0% instances), <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (34; 0% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (16; 0% instances), <tt><a href="fi_ood-pos-SCONJ.html">SCONJ</a></tt> (15; 0% instances), <tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="fi_ood-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="fi_ood-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="fi_ood-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 ### `ADV`

@@ -71,9 +71,9 @@ The following 8 pairs of parts of speech are connected with `discourse`: <tt><a 
 3	being	be	AUX	V	Number=Sing|Tense=Pres|VerbForm=Part	5	cop	_	_
 4	better	better	ADV	B	_	5	advmod	_	_
 5	connected	connect	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	16	csubj	_	_
-6	with	with	ADP	E	_	8	case	_	_
-7	each	each	DET	DI	PronType=Ind	8	det	_	_
-8	other	other	ADJ	A	Degree=Pos	5	obl	_	SpaceAfter=No
+6	with	with	ADP	E	_	7	case	_	_
+7	each	each	DET	DI	ExtPos=PRON|PronType=Rcp	5	obl	_	_
+8	other	other	ADJ	A	Degree=Pos	7	fixed	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	5	punct	_	_
 10	through	through	ADP	E	_	11	case	_	_
 11	Facebook	Facebook	PROPN	SP	_	5	obl	_	_

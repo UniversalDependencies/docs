@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="nl_lassysmall-dep-aux.html">aux</a></tt>.
 
-3683 nodes (1%) are attached to their parents as `aux:pass`.
+3686 nodes (1%) are attached to their parents as `aux:pass`.
 
-3095 instances of `aux:pass` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.4580505023079.
+3097 instances of `aux:pass` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.45794899620185.
 
-The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (3679; 100% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (3682; 100% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -77,7 +77,7 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 10	1967	1967	NUM	TW|hoofd|vrij	_	8	nmod	8:nmod:van	_
 11	werden	worden	AUX	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	16	aux:pass	16:aux:pass	_
 12	een	een	DET	LID|onbep|stan|agr	Definite=Ind	14	det	14:det	_
-13	groot	groot	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	14	amod	14:amod	_
+13	groot	groot	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	14	advmod	14:advmod	_
 14	aantal	aantal	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	15	nmod	15:nmod	_
 15	liedjes	lied	NOUN	N|soort|mv|dim	Number=Plur	16	nsubj:pass	16:nsubj:pass|19:nsubj:pass	_
 16	opgenomen	op_nemen	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	SpaceAfter=No
@@ -95,12 +95,12 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 28	in	in	ADP	VZ|init	_	29	case	29:case	_
 29	1975	1975	NUM	TW|hoofd|vrij	_	37	obl	37:obl:in	_
 30	door	door	ADP	VZ|init	_	31	case	31:case	_
-31	Columbia	Columbia	PROPN	N|eigen|ev|basis|genus|stan	Gender=Com,Neut|Number=Sing	37	obl	37:obl:door	SpaceAfter=No
+31	Columbia	Columbia	PROPN	N|eigen|ev|basis|genus|stan	Gender=Com,Neut|Number=Sing	37	obl:agent	37:obl:agent	SpaceAfter=No
 32	,	,	PUNCT	LET	_	31	punct	31:punct	_
 33	als	als	SCONJ	VG|onder	_	34	mark	34:mark	_
-34	The	The	X	SPEC|vreemd	Foreign=Yes	37	advcl	37:advcl:als	_
-35	Basement	Basement	X	SPEC|vreemd	Foreign=Yes	34	fixed	34:fixed	_
-36	Tapes	Tapes	X	SPEC|vreemd	Foreign=Yes	34	fixed	34:fixed	_
+34	The	The	X	SPEC|vreemd	ExtPos=PROPN|Foreign=Yes	37	advcl	37:advcl:als	_
+35	Basement	Basement	X	SPEC|vreemd	Foreign=Yes	34	flat	34:flat	_
+36	Tapes	Tapes	X	SPEC|vreemd	Foreign=Yes	34	flat	34:flat	_
 37	uitgebracht	uit_brengen	VERB	WW|vd|vrij|zonder	VerbForm=Part	19	conj	18.1:conj:en	_
 38	werden	worden	AUX	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	19	aux:pass	18.1:aux:pass	SpaceAfter=No
 39	.	.	PUNCT	LET	_	16	punct	16:punct	_

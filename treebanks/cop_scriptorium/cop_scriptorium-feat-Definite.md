@@ -50,7 +50,7 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 `NOUN` tokens may have the following values of `Definite`:
 
 * `Def` (14; 100% of non-empty `Definite`): ⲙⲙⲓⲛⲙⲙⲟ, ⲙⲙⲓⲛⲙⲙⲱ
-* `EMPTY` (8277): ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ⲧⲏⲣ, ϩⲏⲧ, ϣⲏⲣⲉ, ⲥⲟⲛ, ϣⲁϫⲉ
+* `EMPTY` (8282): ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ⲧⲏⲣ, ϩⲏⲧ, ϣⲏⲣⲉ, ⲥⲟⲛ, ϣⲁϫⲉ
 
 ## Relations with Agreement in `Definite`
 

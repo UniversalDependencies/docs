@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (5%) are attached to their parents as `obl`.
+7 nodes (4%) are attached to their parents as `obl`.
 
-5 instances of `obl` (63%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.875.
+4 instances of `obl` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.
 
-The following 3 pairs of parts of speech are connected with `obl`: <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-PRON.html">PRON</a></tt> (5; 63% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt> (2; 25% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-PROPN.html">PROPN</a></tt> (1; 13% instances).
+The following 3 pairs of parts of speech are connected with `obl`: <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-PRON.html">PRON</a></tt> (4; 57% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt> (2; 29% instances), <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_cairo-pos-PROPN.html">PROPN</a></tt> (1; 14% instances).
 
 
 ~~~ conllu

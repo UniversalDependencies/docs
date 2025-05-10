@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>ў</em> (<tt><a href="be_hse-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.236364 (the average of all parts of speech is 1.756638).
+The form / lemma ratio of `ADP` is 1.236364 (the average of all parts of speech is 1.756773).
 
 The 1st highest number of forms (7) was observed with the lemma “у”: <em>y, ý, в, ва, у, ува, ў</em>.
 
@@ -63,12 +63,12 @@ The 2nd highest number of forms (5) was observed with the lemma “з”: <em>3,
 
 The 3rd highest number of forms (4) was observed with the lemma “без”: <em>без, безь, бяз, бязь</em>.
 
-`ADP` occurs with 2 features: <tt><a href="be_hse-feat-Degree.html">Degree</a></tt> (3; 0% instances), <tt><a href="be_hse-feat-Typo.html">Typo</a></tt> (3; 0% instances)
+`ADP` occurs with 3 features: <tt><a href="be_hse-feat-Degree.html">Degree</a></tt> (3; 0% instances), <tt><a href="be_hse-feat-Typo.html">Typo</a></tt> (3; 0% instances), <tt><a href="be_hse-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`ADP` occurs with 2 feature-value pairs: `Degree=Pos`, `Typo=Yes`
+`ADP` occurs with 3 feature-value pairs: `Degree=Pos`, `ExtPos=ADV`, `Typo=Yes`
 
-`ADP` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (29665 tokens).
+`ADP` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (29664 tokens).
 Examples: <em>у, ў, на, з, за, да, пра, па, ад, для</em>
 
 
@@ -76,7 +76,7 @@ Examples: <em>у, ў, на, з, за, да, пра, па, ад, для</em>
 
 `ADP` nodes are attached to their parents using 10 different relations: <tt><a href="be_hse-dep-case.html">case</a></tt> (29439; 99% instances), <tt><a href="be_hse-dep-fixed.html">fixed</a></tt> (200; 1% instances), <tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt> (8; 0% instances), <tt><a href="be_hse-dep-mark.html">mark</a></tt> (7; 0% instances), <tt><a href="be_hse-dep-cc.html">cc</a></tt> (6; 0% instances), <tt><a href="be_hse-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="be_hse-dep-dep.html">dep</a></tt> (3; 0% instances), <tt><a href="be_hse-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-dislocated.html">dislocated</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (21191; 71% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (4505; 15% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1975; 7% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (707; 2% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (389; 1% instances), <tt><a href="be_hse-pos-X.html">X</a></tt> (379; 1% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (165; 1% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (121; 0% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (94; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (76; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (61; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances)
+Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (21190; 71% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (4505; 15% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1975; 7% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (706; 2% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (389; 1% instances), <tt><a href="be_hse-pos-X.html">X</a></tt> (379; 1% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (167; 1% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (121; 0% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (94; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (76; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (61; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances)
 
 29454 (99%) `ADP` nodes are leaves.
 

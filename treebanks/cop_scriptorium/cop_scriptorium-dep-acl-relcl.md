@@ -84,7 +84,7 @@ The following 24 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 8	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	_
 9	ϩⲙ	ϩⲛ	ADP	PREP	_	11	case	_	Orig=ϩⲙ̄
 10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Entity=(place
-11	ⲡⲁⲗⲗⲁϯⲟⲛ	ⲡⲁⲗⲗⲁϯⲟⲛ	NOUN	N	Foreign=Yes	4	acl:relcl	_	Entity=place)person)|OrigLang=la
+11	ⲡⲁⲗⲗⲁϯⲟⲛ	ⲡⲁⲗⲗⲁϯⲟⲛ	NOUN	N	Foreign=Yes	4	acl:relcl	_	Entity=place)person)|OrigLang=lat
 12	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~

@@ -10,21 +10,21 @@ This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
 1372 tokens (32%) have a non-empty value of `Definite`.
-1068 types (50%) occur at least once with a non-empty value of `Definite`.
-722 lemmas (53%) occur at least once with a non-empty value of `Definite`.
+1064 types (50%) occur at least once with a non-empty value of `Definite`.
+720 lemmas (53%) occur at least once with a non-empty value of `Definite`.
 The feature is used with 8 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (919; 21% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (205; 5% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (80; 2% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (56; 1% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (54; 1% instances), <tt><a href="mdf_jr-pos-NUM.html">NUM</a></tt> (29; 1% instances), <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (9; 0% instances).
 
 ### `NOUN`
 
-919 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (83% of all `NOUN` tokens) have a non-empty value of `Definite`.
+919 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (82% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
 The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (919; 100%), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (919; 100%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
-* `Def` (312; 34% of non-empty `Definite`): <em>ломаттне, шись, пингть, стирнятне, шить, валхнень, велеть, колхозсь, менельть, очконять</em>
-* `Ind` (607; 66% of non-empty `Definite`): <em>лангс, ава, паксянь, шиня, Тишка, каршес, ланга, ломань, пря, сёксень</em>
-* `EMPTY` (194): <em>цёранц, шамац, мирденц, мялец, мяльце, Алязе, брадозень, вазенц, лангозонза, мялецоль</em>
+* `Def` (310; 34% of non-empty `Definite`): <em>ломаттне, шись, пингть, стирнятне, шить, валхнень, велеть, колхозсь, менельть, очконять</em>
+* `Ind` (609; 66% of non-empty `Definite`): <em>лангс, тячи, ава, паксянь, шиня, Тишка, каршес, ланга, ломань, пря</em>
+* `EMPTY` (195): <em>цёранц, шамац, мирденц, мялец, мяльце, Алязе, брадозень, вазенц, лангозонза, мялецоль</em>
 
 <table>
   <tr><th>Paradigm <i>ши</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -154,12 +154,12 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 9 <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADV` and `Definite` co-occurred: <tt><a href="mdf_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (9; 100%).
+The most frequent other feature values with which `ADV` and `Definite` co-occurred: <tt><a href="mdf_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (8; 89%).
 
 `ADV` tokens may have the following values of `Definite`:
 
 * `Ind` (9; 100% of non-empty `Definite`): <em>кати-коста, ламос, Коса-бди, кафтонь, козовок, косовок, сяшкава</em>
-* `EMPTY` (422): <em>нинге, пяк, кода, аньцек, сяда, ни, меле, эста, ичкозе, мес</em>
+* `EMPTY` (415): <em>нинге, пяк, кода, аньцек, сяда, ни, меле, эста, ичкозе, мес</em>
 
 ## Relations with Agreement in `Definite`
 
@@ -167,10 +167,10 @@ The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="mdf_jr-dep-amod.html">amod</a></tt>]--> ADJ</tt> (75; 54%),
 <tt>NOUN --[<tt><a href="mdf_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (20; 95%),
 <tt>PROPN --[<tt><a href="mdf_jr-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (8; 89%),
+<tt>ADJ --[<tt><a href="mdf_jr-dep-obl.html">obl</a></tt>]--> NOUN</tt> (7; 88%),
 <tt>ADJ --[<tt><a href="mdf_jr-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6; 60%),
+<tt>NOUN --[<tt><a href="mdf_jr-dep-appos.html">appos</a></tt>]--> NOUN</tt> (6; 86%),
 <tt>ADJ --[<tt><a href="mdf_jr-dep-conj.html">conj</a></tt>]--> ADJ</tt> (5; 100%),
-<tt>ADJ --[<tt><a href="mdf_jr-dep-obl.html">obl</a></tt>]--> NOUN</tt> (5; 83%),
-<tt>NOUN --[<tt><a href="mdf_jr-dep-appos.html">appos</a></tt>]--> NOUN</tt> (5; 83%),
 <tt>ADJ --[<tt><a href="mdf_jr-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> PROPN</tt> (4; 80%),
 <tt>ADJ --[<tt><a href="mdf_jr-dep-obl-cmp.html">obl:cmp</a></tt>]--> NOUN</tt> (3; 75%),
 <tt>NOUN --[<tt><a href="mdf_jr-dep-compound-nn.html">compound:nn</a></tt>]--> PROPN</tt> (3; 100%).

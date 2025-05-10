@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 3	семьялӧ	семья	NOUN	_	Case=Dat|Number=Sing	5	obl	_	GTtags=Src/F,Sg,Dat
 4	квартираэсӧ	квартира	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	5	obj	_	GTtags=Pl,Acc,PxSg3
 5	сетісӧ	сетны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Pl3
-6	ӧтдруг	ӧтдруг	ADV	_	_	5	advmod:tmod	_	SpaceAfter=No
+6	ӧтдруг	ӧтдруг	ADV	Adv	AdvType=Tim	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -39,7 +39,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 5 amod	color:blue
-1	Ордчӧн	ордчӧн	ADV	Adv	_	3	advmod:lmod	_	GTtags=Adv
+1	Ордчӧн	ордчӧн	ADV	Adv	AdvType=Loc	3	advmod	_	GTtags=Adv
 2	мекӧт	ме	PRON	Pron	Case=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	GTtags=Pron,Pers,Sg1,Com
 3	пукалӧ	пукавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=V,TV,Ind,Prs,Sg3
 4	сьӧд	сьӧд	ADJ	A	_	5	amod	_	GTtags=A
@@ -60,7 +60,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 18	fgColor:white
 # visual-style 18 19 amod	color:blue
 1	Но	но	CCONJ	CC	_	10	cc	_	_
-2	керкуыс	керку	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obl:lmod	_	GTtags=Sg,Nom,PxSg3
+2	керкуыс	керку	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obl	_	GTtags=Sg,Nom,PxSg3
 3	бокын	бокын	ADP	Adp	AdvType=Loc|Case=Ine	2	case	_	GTtags=Spat,Ine|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	туй	туй	NOUN	N	Case=Nom|Number=Sing	6	nmod	_	GTtags=Sg,Nom

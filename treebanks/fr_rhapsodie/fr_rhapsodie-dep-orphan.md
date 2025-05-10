@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 4	rose	rose	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 5	à	à	ADP	_	_	8	case	_	_
 6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	large	large	ADJ	_	Number=Sing	8	amod	_	_
+7	large	large	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
 8	ruban	ruban	NOUN	_	Gender=Masc|Number=Sing	1	orphan	_	_
 9	noir	noir	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	_
@@ -91,7 +91,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 4	de	de	ADP	_	ExtPos=DET	6	det	_	Idiom=Yes
 5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	fixed	_	InIdiom=Yes
 6	paille	paille	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
-7	synthétique	synthétique	ADJ	_	Number=Sing	6	amod	_	SpaceAfter=No
+7	synthétique	synthétique	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	ni	ni	CCONJ	_	_	10	cc	_	_
 10	XXX	XXX	X	_	_	6	conj	_	SpaceAfter=No

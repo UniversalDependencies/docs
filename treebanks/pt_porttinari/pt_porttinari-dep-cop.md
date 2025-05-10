@@ -28,7 +28,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 4	,	,	PUNCT	_	_	3	punct	3:punct	_
 5	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 6	crise	crise	NOUN	_	Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 10	favorável	favorável	ADJ	_	Number=Sing	0	root	0:root	_
 11	a	a	ADP	_	_	12	case	12:case	_
 12	Aécio	Aécio	PROPN	_	_	10	obl	10:obl:a	SpaceAfter=No
-13	.	.	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
+13	.	.	PUNCT	_	_	10	punct	10:punct	_
 
 ~~~
 
@@ -73,7 +73,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 9	fazer	fazer	VERB	_	VerbForm=Inf	3	parataxis	3:parataxis	_
 10	o	o	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	obj	9:obj	_
 11	melhor	melhor	ADJ	_	Number=Sing	10	amod	10:amod	SpaceAfter=No
-12	.	.	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 

@@ -9,25 +9,34 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-251 tokens (10%) have a non-empty value of `Person`.
-41 types (7%) occur at least once with a non-empty value of `Person`.
-44 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 1 part-of-speech tags: <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (251; 10% instances).
+376 tokens (14%) have a non-empty value of `Person`.
+26 types (5%) occur at least once with a non-empty value of `Person`.
+9 lemmas (2%) occur at least once with a non-empty value of `Person`.
+The feature is used with 2 part-of-speech tags: <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (375; 14% instances), <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-251 <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `Person`.
+375 <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="gya_autogramm-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (242; 96%), <tt><a href="gya_autogramm-feat-Number.html">Number</a></tt><tt>=Sing</tt> (191; 76%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="gya_autogramm-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (333; 89%), <tt><a href="gya_autogramm-feat-Number.html">Number</a></tt><tt>=Sing</tt> (292; 78%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (55; 22% of non-empty `Person`): <em>nǎm, ʔám, mí, ʔàm, hám, kàm, ʔá̰-nàm, kɔ́m, kám, nàm</em>
-* `2` (45; 18% of non-empty `Person`): <em>mɛ́, mɛ̀, ʔɛ̀nɛ̀, ʔɛ́nɛ́, [mɛ̀, kɔ̀mɛ̀, kɔ́mɛ́, nɛ̀mɛ́, sɛ́kɔ́mɛ́, ʔá̰-nɛ̀mɛ́</em>
-* `3` (151; 60% of non-empty `Person`): <em>ʔà̰, wà, ʔá̰-nàá, ʔá̰-nàà, ká̰à̰, nàà, wàá, ʔá̰-ndɔ̀wá, nàá, ʔá̰-ndɔ̀wà</em>
-* `EMPTY` (56): <em>ʔéí, màá, ʔɛ̰̀, ndèì, wà, ʔèì, ʔóyó, kɔ́, mà, wàn</em>
+* `1` (99; 26% of non-empty `Person`): <em>=ám, =m, ʔám, =ɛ́ɛ́, mí, ʔàm, =ám-ɛ̰̀</em>
+* `2` (55; 15% of non-empty `Person`): <em>mɛ́, mɛ̀, =mɛ́, ʔɛ̀nɛ̀, ʔɛ́nɛ́, =nɛ́, =nɛ́-ìí, [mɛ̀</em>
+* `3` (221; 59% of non-empty `Person`): <em>=à̰, ʔà̰, =wà, wà, =à, wàá, ʔà̰á̰, =wà-VH, =wà-VV, =à̰-ìí</em>
+* `EMPTY` (83): <em>=éí, =yó, ʔéí, màá, ʔɛ̰̀, wà, =wí, ʔèì, ʔóyó, kɔ́</em>
 
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (44) occur only with one value of `Person`.
+### `DET`
+
+1 <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="gya_autogramm-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+
+`DET` tokens may have the following values of `Person`:
+
+* `3` (1; 100% of non-empty `Person`): <em>=à</em>
+* `EMPTY` (49): <em>ʔó, ʔá̰-nɛ̀, =ó, mà, zɔ̀m, =á̰-nɛ̀, mɛ̀, mɛ̀-nɛ́, zɔ̌m, ʔá̰</em>
 
 ## Relations with Agreement in `Person`
 

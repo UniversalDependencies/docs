@@ -24,7 +24,7 @@ The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2 6 ccomp	color:blue
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
-3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	Gloss=the;-oh
+3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh
 4	θεός	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=god|SpaceAfter=No
 5	·	·	PUNCT	_	_	6	punct	_	_
 6	γενηθήτω	γίνομαι	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	ccomp	_	Gloss=to-become,come-to-be
@@ -48,7 +48,7 @@ The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	παῖς	παῖς	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	2	ccomp	_	Gloss=child,servant
-5	Ἁβραὰμ	Ἁβραάμ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	Gloss=Abraham
+5	Ἁβραὰμ	Ἁβραάμ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	4	nmod:poss	_	Gloss=Abraham
 6	ἐγώ	ἐγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I
 7	εἰμι	εἰμί	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Gloss=to-be|SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_

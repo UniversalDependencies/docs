@@ -12,7 +12,7 @@ There are also 4 other language-specific subtypes of `csubj`: <tt><a href="la_ud
 20 nodes (0%) are attached to their parents as `csubj:reported`.
 
 20 instances of `csubj:reported` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.3.
+Average distance between parent and child is 8.45.
 
 The following 4 pairs of parts of speech are connected with `csubj:reported`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (12; 60% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (4; 20% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (3; 15% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
 
@@ -43,11 +43,11 @@ The following 4 pairs of parts of speech are connected with `csubj:reported`: <t
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 16 csubj:reported	color:blue
+# visual-style 3 17 csubj:reported	color:blue
 1	Sed	sed	CCONJ	co	_	3	cc	_	_
 2	tunc	tunc	ADV	r	AdvType=Tim|PronType=Dem	3	advmod:tmod	_	_
 3	arguetur	arguo	VERB	vp3ifs3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
@@ -55,29 +55,30 @@ The following 4 pairs of parts of speech are connected with `csubj:reported`: <t
 5	,	,	PUNCT	Pu	_	7	punct	_	_
 6	et	et	CCONJ	co	_	7	cc	_	_
 7	queretur	quaero	VERB	vp3*ifs3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	3	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Futurum
-8	:	:	PUNCT	Pu	_	16	punct	_	_
-9	Quare	quare	ADV	r	Compound=Yes|PronType=Rel	16	advmod	_	_
-10	potius	potius	ADV	r+	Degree=Cmp	16	advmod	_	_
-11	elevatio	eleuatio	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	16	nsubj	_	_
-12	emisperialis	emisperialis	ADJ	afs2n	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	11	amod	_	_
-13	fuit	sum	AUX	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
-14	ab	ab	ADP	e	_	16	case	_	_
-15	ista	iste	DET	dpfsb	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	16	det	_	_
-16	parte	pars	NOUN	sfs3b	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	3	csubj:reported	_	_
-17	quam	quam	SCONJ	c	PronType=Rel	19	mark	_	_
-18	ab	ab	ADP	e	_	19	case	_	_
-19	alia	alius	DET	dpfs1b	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Con	10	advcl:cmp	_	SpaceAfter=No
-20	?	?	PUNCT	Pu	_	3	punct	_	_
+8	:	:	PUNCT	Pu	_	17	punct	_	_
+9	Qua	qui	PRON	r	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	10	det	_	_
+10	re	res	NOUN	r	Case=Abl|Gender=Fem|InflClass=IndEurE|Number=Sing	17	obl	_	_
+11	potius	potius	ADV	r+	Degree=Cmp	17	advmod	_	_
+12	elevatio	eleuatio	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	17	nsubj	_	_
+13	emisperialis	emisperialis	ADJ	afs2n	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	12	amod	_	_
+14	fuit	sum	AUX	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
+15	ab	ab	ADP	e	_	17	case	_	_
+16	ista	iste	DET	dpfsb	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	17	det	_	_
+17	parte	pars	NOUN	sfs3b	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	3	csubj:reported	_	_
+18	quam	quam	SCONJ	c	PronType=Rel	20	mark	_	_
+19	ab	ab	ADP	e	_	20	case	_	_
+20	alia	alius	DET	dpfs1b	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Con	17	advcl:cmp	_	SpaceAfter=No
+21	?	?	PUNCT	Pu	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 17 csubj:reported	color:blue
+# visual-style 3 18 csubj:reported	color:blue
 1	Sed	sed	CCONJ	co	_	3	cc	_	_
 2	nunc	nunc	ADV	r	AdvType=Tim	3	advmod:tmod	_	_
 3	queritur	quaero	VERB	vp3*ips3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
@@ -87,15 +88,16 @@ The following 4 pairs of parts of speech are connected with `csubj:reported`: <t
 7	regio	regio	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	10	nsubj	_	_
 8	celi	caelum	NOUN	sns2g	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	7	nmod	_	_
 9	circulariter	circulariter	ADV	r	_	10	advmod	_	_
-10	feratur	fero	VERB	vp3cps3	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	17	advcl	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
+10	feratur	fero	VERB	vp3cps3	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	18	advcl	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 11	,	,	PUNCT	Pu	_	10	punct	_	_
-12	quare	quare	ADV	r	Compound=Yes|PronType=Rel	17	advmod	_	_
-13	illa	ille	DET	dpfsn	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	14	det	_	_
-14	elevatio	eleuatio	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	17	nsubj	_	_
-15	non	non	PART	r	Polarity=Neg	17	advmod:neg	_	_
-16	fuit	sum	AUX	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
-17	circularis	circularis	ADJ	afs2n	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	3	csubj:reported	_	SpaceAfter=No
-18	?	?	PUNCT	Pu	_	3	punct	_	_
+12	qua	qui	PRON	r	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	13	det	_	_
+13	re	res	NOUN	r	Case=Abl|Gender=Fem|InflClass=IndEurE|Number=Sing	18	obl	_	_
+14	illa	ille	DET	dpfsn	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	15	det	_	_
+15	elevatio	eleuatio	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	18	nsubj	_	_
+16	non	non	PART	r	Polarity=Neg	18	advmod:neg	_	_
+17	fuit	sum	AUX	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
+18	circularis	circularis	ADJ	afs2n	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	3	csubj:reported	_	SpaceAfter=No
+19	?	?	PUNCT	Pu	_	3	punct	_	_
 
 ~~~
 

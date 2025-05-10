@@ -61,7 +61,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 16	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	17	mark	_	_
 17	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	12	acl:relcl	_	_
 18	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	17	cop	_	_
-19	ⲓⲏⲥⲟⲩⲥ	ⲓⲏⲥⲟⲩⲥ	PROPN	NPROP	Foreign=Yes	17	nsubj	_	Entity=(person-Jesus|OrigLang=he
+19	ⲓⲏⲥⲟⲩⲥ	ⲓⲏⲥⲟⲩⲥ	PROPN	NPROP	Foreign=Yes	17	nsubj	_	Entity=(person-Jesus|OrigLang=heb
 20	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	NOUN	N	Foreign=Yes	19	appos	_	Entity=person-Jesus)object)|OrigLang=grc
 22	.	.	PUNCT	PUNCT	_	1	punct	_	_

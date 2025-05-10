@@ -102,7 +102,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 * `Past` (2; 0% of non-empty `Tense`): <em>nastoupivšími, rozpadnuvší</em>
 * `Pres` (2141; 100% of non-empty `Tense`): <em>pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, řídící, týkající, vyplývající, rostoucí</em>
-* `EMPTY` (72079): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
+* `EMPTY` (72077): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
 
 `Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (539) occur only with one value of `Tense`.
 
@@ -110,7 +110,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (4009; 89%),
-<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1062; 63%),
+<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1061; 63%),
 <tt>VERB --[<tt><a href="cs_cac-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (124; 55%),
 <tt>AUX --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (25; 81%),
 <tt>VERB --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> VERB</tt> (19; 83%),

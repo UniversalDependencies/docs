@@ -28,7 +28,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 3	suivante	suivant	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
 4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 5	:	:	PUNCT	_	_	6	punct	_	_
-6	Peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Cxn=Interrogative-Polar-Direct|CxnElt=6:Interrogative-Polar-Direct.Clause|SpaceAfter=No|wordform=peut
+6	Peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|wordform=peut
 7	-on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	nsubj	_	wordform=on
 8	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	9	obl:mod	_	_
 9	prendre	prendre	VERB	_	VerbForm=Inf	6	xcomp	_	Subject=SubjRaising
@@ -50,7 +50,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 4	que	que	SCONJ	_	_	3	fixed	_	InIdiom=Yes
 5	vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
 6	ne	ne	ADV	_	Polarity=Neg	7	advmod	_	_
-7	prenez	prendre	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Cxn=Interrogative-Polar-Direct|CxnElt=7:Interrogative-Polar-Direct.Clause
+7	prenez	prendre	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	_
 9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
 10	choses	chose	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
@@ -70,7 +70,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 # visual-style 12 5 nsubj:outer	color:blue
 1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	wordform=le
 2	plus	plus	ADV	_	_	3	advmod	_	_
-3	cool	cool	ADJ	_	Gender=Masc|Number=Sing	12	dislocated	_	SpaceAfter=No
+3	cool	cool	ADJ	_	_	12	dislocated	_	Gender[ctxt]=Masc|Number[ctxt]=Sing|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	nsubj:outer	_	SpaceAfter=No
 6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_

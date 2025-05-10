@@ -26,11 +26,11 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 2	уендихть	уендемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	_
 3	сенем	сенем	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	4	amod	_	_
 4	менельть	менель	NOUN	N	Case=Gen|Definite=Def|Number=Sing	5	nmod	_	_
-5	потмоса	потма	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	2	obl:lmod	_	SpaceAfter=No
+5	потмоса	потма	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	2	obl	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	9	punct	_	_
 7	кода	кода	ADV	Adv	_	9	mark	_	_
 8	оцю	оцю	ADJ	A	Case=Nom|Number=Sing	9	amod	_	_
-9	морява	моря	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	4	obl:lmod	_	SpaceAfter=No
+9	морява	моря	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	4	obl	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~

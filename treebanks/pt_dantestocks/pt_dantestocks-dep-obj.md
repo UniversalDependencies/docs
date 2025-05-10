@@ -11,9 +11,9 @@ This relation is universal.
 3012 nodes (4%) are attached to their parents as `obj`.
 
 2825 instances of `obj` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.92961487383798.
+Average distance between parent and child is 1.9292828685259.
 
-The following 19 pairs of parts of speech are connected with `obj`: <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (1930; 64% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (567; 19% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (250; 8% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (181; 6% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (51; 2% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (14; 0% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `obj`: <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (1930; 64% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (568; 19% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (250; 8% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (180; 6% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (51; 2% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (14; 0% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 19 pairs of parts of speech are connected with `obj`: <tt><a href=
 3	show	show	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
 4	desde	desde	ADP	_	_	5	case	_	_
 5	dia	dia	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
-6	20	20	NUM	_	NumType=Card	5	nmod	_	SpaceAfter=No
+6	20	20	NUM	_	NumType=Card	5	nmod	_	_
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 19 pairs of parts of speech are connected with `obj`: <tt><a href=
 11	'	'	PUNCT	_	_	12	punct	_	SpaceAfter=No
 12	Take	Take	PROPN	_	_	10	obj	_	_
 13	Off	Off	PROPN	_	_	12	flat:name	_	SpaceAfter=No
-14	'	'	PUNCT	_	_	12	punct	_	SpaceAfter=No
+14	'	'	PUNCT	_	_	12	punct	_	_
 
 ~~~
 
@@ -72,7 +72,7 @@ The following 19 pairs of parts of speech are connected with `obj`: <tt><a href=
 8	!	!	PUNCT	_	_	5	punct	_	_
 9	Faz	fazer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
 10	sentido	sentido	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
-11	...	...	PUNCT	_	_	5	punct	_	SpaceAfter=No
+11	...	...	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

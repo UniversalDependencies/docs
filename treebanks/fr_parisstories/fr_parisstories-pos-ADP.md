@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-ParisStories: POS Tags: `ADP`
 
-There are 39 `ADP` lemmas (1%), 36 `ADP` types (1%) and 3469 `ADP` tokens (8%).
+There are 38 `ADP` lemmas (1%), 35 `ADP` types (1%) and 3469 `ADP` tokens (8%).
 Out of 15 observed tags, the rank of `ADP` is: 8 in number of lemmas, 10 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>de, à, en, dans, pour, avec, sur, comme, par, pendant</em>
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="fr_parisstories
   * <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> 449: <em><b>en</b> fait , quand tu mets la farine à le final ça se décolle .</em>
   * <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 45: <em>je sais plus , on <b>en</b> avait fait une fois ensemble ?</em>
 * <em>d'</em>
-  * <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> 233: <em>le sujet c' était peut-on se mettre à la place <b>d'</b> autrui ?</em>
+  * <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> 233: <em>le sujet c' était peut -on se mettre à la place <b>d'</b> autrui ?</em>
   * <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> 9: <em>après , il y en a <b>d'</b> autres , euh , ils sont pas comme ça , hein .</em>
 * <em>dans</em>
   * <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> 202: <em>j' ai posé euh mon mon lunch bag <b>dans</b> mon casier .</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="fr_parisstories
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.923077 (the average of all parts of speech is 1.332572).
+The form / lemma ratio of `ADP` is 0.921053 (the average of all parts of speech is 1.353739).
 
 The 1st highest number of forms (3) was observed with the lemma “au”: <em>au, aux, à</em>.
 
@@ -73,9 +73,9 @@ Examples: <em>de, à, en, d', dans, pour, avec, sur, comme, par</em>
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 19 different relations: <tt><a href="fr_parisstories-dep-case.html">case</a></tt> (2641; 76% instances), <tt><a href="fr_parisstories-dep-mark.html">mark</a></tt> (452; 13% instances), <tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt> (141; 4% instances), <tt><a href="fr_parisstories-dep-discourse.html">discourse</a></tt> (77; 2% instances), <tt><a href="fr_parisstories-dep-dep.html">dep</a></tt> (43; 1% instances), <tt><a href="fr_parisstories-dep-advmod.html">advmod</a></tt> (41; 1% instances), <tt><a href="fr_parisstories-dep-obl-arg.html">obl:arg</a></tt> (29; 1% instances), <tt><a href="fr_parisstories-dep-det.html">det</a></tt> (19; 1% instances), <tt><a href="fr_parisstories-dep-root.html">root</a></tt> (8; 0% instances), <tt><a href="fr_parisstories-dep-dep-comp.html">dep:comp</a></tt> (6; 0% instances), <tt><a href="fr_parisstories-dep-compound.html">compound</a></tt> (3; 0% instances), <tt><a href="fr_parisstories-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-flat-name.html">flat:name</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 19 different relations: <tt><a href="fr_parisstories-dep-case.html">case</a></tt> (2642; 76% instances), <tt><a href="fr_parisstories-dep-mark.html">mark</a></tt> (452; 13% instances), <tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt> (141; 4% instances), <tt><a href="fr_parisstories-dep-discourse.html">discourse</a></tt> (77; 2% instances), <tt><a href="fr_parisstories-dep-dep.html">dep</a></tt> (42; 1% instances), <tt><a href="fr_parisstories-dep-advmod.html">advmod</a></tt> (41; 1% instances), <tt><a href="fr_parisstories-dep-obl-arg.html">obl:arg</a></tt> (29; 1% instances), <tt><a href="fr_parisstories-dep-det.html">det</a></tt> (19; 1% instances), <tt><a href="fr_parisstories-dep-root.html">root</a></tt> (8; 0% instances), <tt><a href="fr_parisstories-dep-dep-comp.html">dep:comp</a></tt> (6; 0% instances), <tt><a href="fr_parisstories-dep-compound.html">compound</a></tt> (3; 0% instances), <tt><a href="fr_parisstories-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-flat-name.html">flat:name</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 14 different parts of speech: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (2138; 62% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (583; 17% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (250; 7% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (245; 7% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (121; 3% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (61; 2% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (21; 1% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (8; 0% instances),  (8; 0% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 14 different parts of speech: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (2138; 62% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (582; 17% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (250; 7% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (246; 7% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (121; 3% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (61; 2% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (21; 1% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (8; 0% instances),  (8; 0% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
 3166 (91%) `ADP` nodes are leaves.
 

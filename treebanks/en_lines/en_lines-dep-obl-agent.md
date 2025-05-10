@@ -55,7 +55,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 6	up	up	ADV	_	_	5	compound:prt	_	_
 7	by	by	ADP	_	_	10	case	_	_
 8	the	the	DET	DEF	Definite=Def|PronType=Art	10	det	_	_
-9	French	french	ADJ	POS	Degree=Pos	10	amod	_	_
+9	French	French	ADJ	POS	Degree=Pos	10	amod	_	_
 10	government	government	NOUN	SG-NOM	Number=Sing	6	obl:agent	_	SpaceAfter=No
 11	,	,	PUNCT	Comma	_	5	punct	_	_
 12	finds	find	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -85,10 +85,10 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 3	also	also	ADV	_	_	4	advmod	_	_
 4	mentioned	mention	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 5	by	by	ADP	_	_	7	case	_	_
-6	Mrs	Mrs	NOUN	SG-NOM	Number=Sing	7	nmod:unmarked	_	_
+6	Mrs	Mrs	NOUN	SG-NOM	Number=Sing	7	nmod:desc	_	_
 7	Oomen-Ruijten	Oomen-ruijten	PROPN	SG-NOM	Number=Sing	4	obl:agent	_	_
 8	and	and	CCONJ	_	_	9	cc	_	_
-9	Mrs	Mrs	NOUN	SG-NOM	Number=Sing	10	nmod:unmarked	_	_
+9	Mrs	Mrs	NOUN	SG-NOM	Number=Sing	10	nmod:desc	_	_
 10	Glase	Glase	PROPN	SG-NOM	Number=Sing	7	conj	_	SpaceAfter=No
 11	.	.	PUNCT	Period	_	4	punct	_	_
 

@@ -9,34 +9,34 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`.
 
-9876 tokens (23%) have a non-empty value of `PronType`.
-101 types (3%) occur at least once with a non-empty value of `PronType`.
+9914 tokens (23%) have a non-empty value of `PronType`.
+102 types (3%) occur at least once with a non-empty value of `PronType`.
 54 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (6388; 15% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (3441; 8% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (36; 0% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (11; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (6426; 15% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (3441; 8% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (36; 0% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (11; 0% instances).
 
 ### `PRON`
 
-6388 <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `PronType`.
+6426 <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5046; 79%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (3905; 61%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5051; 79%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (3921; 61%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (1104; 17% of non-empty `PronType`): <em>c', ça, ce, -ce, celui, ceux, cela, celui-là</em>
-* `Ind` (894; 14% of non-empty `PronType`): <em>on, tout, tous, quelqu'un, un, une, autre, quoi, chacun, autres</em>
-* `Int` (18; 0% of non-empty `PronType`): <em>qu', quoi</em>
-* `Neg` (31; 0% of non-empty `PronType`): <em>rien, personne, aucuns</em>
-* `Prs` (3943; 62% of non-empty `PronType`): <em>je, il, j', y, elle, tu, me, moi, s', se</em>
-* `Rel` (398; 6% of non-empty `PronType`): <em>qui, que, où, qu', dont, quoi, auxquelles, lequel, lesquelles</em>
-* `EMPTY` (48): <em>quoi, tous, j~, personne, leur, i~, toutes, celui, cinq, lesquelles</em>
+* `Dem` (1105; 17% of non-empty `PronType`): <em>c', ça, ce, -ce, ceux, celui, celui-là, cela</em>
+* `Ind` (913; 14% of non-empty `PronType`): <em>on, tout, tous, quoi, quelqu'un, un, une, autre, chacun, autres</em>
+* `Int` (28; 0% of non-empty `PronType`): <em>quoi, qu'</em>
+* `Neg` (35; 1% of non-empty `PronType`): <em>rien, personne, aucuns</em>
+* `Prs` (3946; 61% of non-empty `PronType`): <em>je, il, j', y, elle, tu, me, moi, s', se</em>
+* `Rel` (399; 6% of non-empty `PronType`): <em>qui, que, où, qu', dont, lesquelles, quoi, lequel</em>
+* `EMPTY` (11): <em>j~, i~, cinq, mien, six</em>
 
 <table>
   <tr><th>Paradigm <i>quoi</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>quoi</em></td><td><em>quoi</em></td><td></td></tr>
+  <tr><td><tt>_</tt></td><td><em>quoi</em></td><td><em>quoi</em></td><td><em>quoi</em></td></tr>
   <tr><td><tt><tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>quoi</em></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 95% lemmas (35) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 94% lemmas (34) occur only with one value of `PronType`.
 
 ### `DET`
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Neg` (26; 72% of non-empty `PronType`): <em>jamais, nul, rien</em>
 * `Rel` (10; 28% of non-empty `PronType`): <em>où</em>
-* `EMPTY` (3503): <em>pas, donc, parce, enfin, plus, vraiment, là, très, tout, même</em>
+* `EMPTY` (3489): <em>pas, donc, parce, enfin, plus, vraiment, là, très, tout, même</em>
 
 ### `ADJ`
 
@@ -77,7 +77,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 `ADJ` tokens may have the following values of `PronType`:
 
 * `Ind` (11; 100% of non-empty `PronType`): <em>tout, tous, toute</em>
-* `EMPTY` (1203): <em>tout, petit, tous, petite, première, même, vrai, toute, autre, bonne</em>
+* `EMPTY` (1204): <em>tout, petit, tous, petite, première, même, vrai, toute, autre, bonne</em>
 
 ## Relations with Agreement in `PronType`
 

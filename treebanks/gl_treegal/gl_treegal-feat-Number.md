@@ -131,6 +131,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="gl_treegal-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="gl_treegal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>é</em></td><td></td></tr>
   <tr><td><tt><tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Cnd,Ind</tt>|<tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="gl_treegal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sería</em></td><td></td></tr>
   <tr><td><tt><tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="gl_treegal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>son</em></td><td><em>somos</em></td></tr>
   <tr><td><tt><tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="gl_treegal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>será</em></td><td><em>serán</em></td></tr>
@@ -182,10 +183,10 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="gl_treegal-dep-det.html">det</a></tt>]--> DET</tt> (3644; 99%),
 <tt>NOUN --[<tt><a href="gl_treegal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1305; 98%),
-<tt>NOUN --[<tt><a href="gl_treegal-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (822; 60%),
-<tt>VERB --[<tt><a href="gl_treegal-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (380; 86%),
+<tt>NOUN --[<tt><a href="gl_treegal-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (825; 60%),
+<tt>VERB --[<tt><a href="gl_treegal-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (380; 85%),
 <tt>NOUN --[<tt><a href="gl_treegal-dep-acl.html">acl</a></tt>]--> VERB</tt> (349; 71%),
-<tt>NOUN --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (330; 82%),
+<tt>NOUN --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (331; 82%),
 <tt>VERB --[<tt><a href="gl_treegal-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (317; 88%),
 <tt>NOUN --[<tt><a href="gl_treegal-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (148; 94%),
 <tt>VERB --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> VERB</tt> (123; 73%),

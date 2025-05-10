@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Naija-NSC: POS Tags: `SCONJ`
 
 There are 21 `SCONJ` lemmas (0%), 32 `SCONJ` types (1%) and 4930 `SCONJ` tokens (4%).
-Out of 15 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 12 in number of types and 9 in number of tokens.
+Out of 16 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 13 in number of types and 9 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>sey, wey, if, because, when, make, so, dat, wheder, take</em>
 
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>because</em> (<tt><a href="pcm_nsc-po
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.523810 (the average of all parts of speech is 1.162341).
+The form / lemma ratio of `SCONJ` is 1.523810 (the average of all parts of speech is 1.162049).
 
 The 1st highest number of forms (8) was observed with the lemma “wey”: <em>meh, mey, sey, wah, weh, wen, wey, who</em>.
 
@@ -64,12 +64,12 @@ The 2nd highest number of forms (5) was observed with the lemma “make”: <em>
 
 The 3rd highest number of forms (4) was observed with the lemma “wheder”: <em>weder, wheda, wheder, whether</em>.
 
-`SCONJ` occurs with 6 features: <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt> (263; 5% instances), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (40; 1% instances), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-feat-Person.html">Person</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt> (1; 0% instances)
+`SCONJ` occurs with 6 features: <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt> (264; 5% instances), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (40; 1% instances), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-feat-Person.html">Person</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt> (1; 0% instances)
 
 `SCONJ` occurs with 7 feature-value pairs: `Case=Nom`, `ExtPos=ADP`, `ExtPos=SCONJ`, `Number=Sing`, `PartType=Cop`, `Person=3`, `PronType=Prs`
 
 `SCONJ` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (4626 tokens).
+The most frequent feature combination is `_` (4625 tokens).
 Examples: <em>sey, wey, if, because, make, wen, dat, meh, so, take</em>
 
 
@@ -79,17 +79,17 @@ Examples: <em>sey, wey, if, because, make, wen, dat, meh, so, take</em>
 
 Parents of `SCONJ` nodes belong to 16 different parts of speech: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (3609; 73% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (385; 8% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (239; 5% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (179; 4% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (153; 3% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (108; 2% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (63; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (54; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (42; 1% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (26; 1% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (24; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (13; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (12; 0% instances),  (11; 0% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (3; 0% instances)
 
-4556 (92%) `SCONJ` nodes are leaves.
+4548 (92%) `SCONJ` nodes are leaves.
 
-153 (3%) `SCONJ` nodes have one child.
+180 (4%) `SCONJ` nodes have one child.
 
-183 (4%) `SCONJ` nodes have two children.
+175 (4%) `SCONJ` nodes have two children.
 
-38 (1%) `SCONJ` nodes have three or more children.
+27 (1%) `SCONJ` nodes have three or more children.
 
-The highest child degree of a `SCONJ` node is 8.
+The highest child degree of a `SCONJ` node is 6.
 
-Children of `SCONJ` nodes are attached using 23 different relations: <tt><a href="pcm_nsc-dep-fixed.html">fixed</a></tt> (415; 62% instances), <tt><a href="pcm_nsc-dep-dep.html">dep</a></tt> (184; 27% instances), <tt><a href="pcm_nsc-dep-ccomp.html">ccomp</a></tt> (9; 1% instances), <tt><a href="pcm_nsc-dep-cop.html">cop</a></tt> (9; 1% instances), <tt><a href="pcm_nsc-dep-discourse.html">discourse</a></tt> (8; 1% instances), <tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt> (6; 1% instances), <tt><a href="pcm_nsc-dep-advcl-cleft.html">advcl:cleft</a></tt> (4; 1% instances), <tt><a href="pcm_nsc-dep-advmod.html">advmod</a></tt> (4; 1% instances), <tt><a href="pcm_nsc-dep-conj.html">conj</a></tt> (4; 1% instances), <tt><a href="pcm_nsc-dep-acl-relcl.html">acl:relcl</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-parataxis-parenth.html">parataxis:parenth</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-vocative.html">vocative</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-compound-redup.html">compound:redup</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt> (1; 0% instances)
+Children of `SCONJ` nodes are attached using 24 different relations: <tt><a href="pcm_nsc-dep-fixed.html">fixed</a></tt> (415; 65% instances), <tt><a href="pcm_nsc-dep-punct.html">punct</a></tt> (146; 23% instances), <tt><a href="pcm_nsc-dep-ccomp.html">ccomp</a></tt> (9; 1% instances), <tt><a href="pcm_nsc-dep-cop.html">cop</a></tt> (9; 1% instances), <tt><a href="pcm_nsc-dep-discourse.html">discourse</a></tt> (8; 1% instances), <tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt> (6; 1% instances), <tt><a href="pcm_nsc-dep-advcl-cleft.html">advcl:cleft</a></tt> (4; 1% instances), <tt><a href="pcm_nsc-dep-advmod.html">advmod</a></tt> (4; 1% instances), <tt><a href="pcm_nsc-dep-conj.html">conj</a></tt> (4; 1% instances), <tt><a href="pcm_nsc-dep-acl-relcl.html">acl:relcl</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-dep.html">dep</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-dep-parataxis-parenth.html">parataxis:parenth</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-vocative.html">vocative</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-compound-redup.html">compound:redup</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt> (1; 0% instances)
 
-Children of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (239; 36% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (183; 27% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (123; 18% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (52; 8% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (43; 6% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1; 0% instances)
+Children of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (239; 38% instances), <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (146; 23% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (123; 19% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (52; 8% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (43; 7% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1; 0% instances)
 

@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>став</em> (<tt><a href="kpv_latti
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.583333 (the average of all parts of speech is 1.468128).
+The form / lemma ratio of `DET` is 1.583333 (the average of all parts of speech is 1.468725).
 
 The 1st highest number of forms (4) was observed with the lemma “став”: <em>став, ставныс, ставсӧ, ставыс</em>.
 
@@ -87,7 +87,7 @@ Parents of `DET` nodes belong to 2 different parts of speech: <tt><a href="kpv_l
 
 The highest child degree of a `DET` node is 3.
 
-Children of `DET` nodes are attached using 6 different relations: <tt><a href="kpv_lattice-dep-punct.html">punct</a></tt> (5; 42% instances), <tt><a href="kpv_lattice-dep-orphan.html">orphan</a></tt> (3; 25% instances), <tt><a href="kpv_lattice-dep-acl-relcl.html">acl:relcl</a></tt> (1; 8% instances), <tt><a href="kpv_lattice-dep-advmod.html">advmod</a></tt> (1; 8% instances), <tt><a href="kpv_lattice-dep-advmod-deg.html">advmod:deg</a></tt> (1; 8% instances), <tt><a href="kpv_lattice-dep-obl-lmod.html">obl:lmod</a></tt> (1; 8% instances)
+Children of `DET` nodes are attached using 6 different relations: <tt><a href="kpv_lattice-dep-punct.html">punct</a></tt> (5; 42% instances), <tt><a href="kpv_lattice-dep-orphan.html">orphan</a></tt> (3; 25% instances), <tt><a href="kpv_lattice-dep-acl-relcl.html">acl:relcl</a></tt> (1; 8% instances), <tt><a href="kpv_lattice-dep-advmod.html">advmod</a></tt> (1; 8% instances), <tt><a href="kpv_lattice-dep-advmod-deg.html">advmod:deg</a></tt> (1; 8% instances), <tt><a href="kpv_lattice-dep-obl.html">obl</a></tt> (1; 8% instances)
 
 Children of `DET` nodes belong to 3 different parts of speech: <tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (5; 42% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (4; 33% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (3; 25% instances)
 

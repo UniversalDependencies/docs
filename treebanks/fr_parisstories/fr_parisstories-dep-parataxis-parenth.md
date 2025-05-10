@@ -23,13 +23,13 @@ The following 11 pairs of parts of speech are connected with `parataxis:parenth`
 # visual-style 4	fgColor:white
 # visual-style 4 9 parataxis:parenth	color:blue
 1	mais	mais	CCONJ	_	_	4	cc	_	AlignBegin=88171|AlignEnd=88323
-2	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	AlignBegin=88323|AlignEnd=88474
+2	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	AlignBegin=88323|AlignEnd=88474
 3	y	y	PRON	_	Person=3|PronType=Prs	4	expl:comp	_	AlignBegin=88474|AlignEnd=88625
 4	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	reparandum	_	AlignBegin=88625|AlignEnd=88776|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	AlignBegin=88776|AlignEnd=88776
 6	euh	euh	INTJ	_	_	4	discourse	_	AlignBegin=88776|AlignEnd=88927|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	AlignBegin=88927|AlignEnd=88927
-8	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	9	nsubj	_	AlignBegin=88927|AlignEnd=89068
+8	tu	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	AlignBegin=88927|AlignEnd=89068
 9	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	parataxis:parenth	_	AlignBegin=89068|AlignEnd=89210
 10	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	obj	_	AlignBegin=89210|AlignEnd=89351
 11	que	que	PRON	_	PronType=Rel	10	acl:relcl	_	AlignBegin=89351|AlignEnd=89492
@@ -61,7 +61,7 @@ The following 11 pairs of parts of speech are connected with `parataxis:parenth`
 10	pas	pas	ADV	_	_	9	advmod	_	_
 11	pourquoi	pourquoi	ADV	_	_	9	obj	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	6	punct	_	_
-13	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+13	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
 14	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux:tense	_	_
 15	commencé	commencer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 16	à	à	ADP	_	_	17	mark	_	_

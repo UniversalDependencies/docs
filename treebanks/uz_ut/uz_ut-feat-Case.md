@@ -9,26 +9,26 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Loc`, `Nom`.
 
-2616 tokens (45%) have a non-empty value of `Case`.
+2634 tokens (44%) have a non-empty value of `Case`.
 2139 types (63%) occur at least once with a non-empty value of `Case`.
-1448 lemmas (62%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (2082; 36% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt> (304; 5% instances), <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (142; 2% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (66; 1% instances), <tt><a href="uz_ut-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt> (3; 0% instances).
+1434 lemmas (63%) occur at least once with a non-empty value of `Case`.
+The feature is used with 8 part-of-speech tags: <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (2101; 35% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt> (304; 5% instances), <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (142; 2% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (66; 1% instances), <tt><a href="uz_ut-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-2082 <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Case`.
+2101 <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1676; 80%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1695; 81%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Abl` (83; 4% of non-empty `Case`): <em>tomonidan, boshidan, oldidan, orasidan, Agentlikdan, Oradan, Toshlardan, Trubkadan, a’zolaridan, balandlikdan</em>
+* `Abl` (83; 4% of non-empty `Case`): <em>tomonidan, boshidan, oldidan, orasidan, Agentlikdan, Oradan, Toshlardan, Trubkadan, aʼzolaridan, balandlikdan</em>
 * `Acc` (147; 7% of non-empty `Case`): <em>darajasini, faoliyatini, imkonini, joylarni, kitobini, shijoatni, tadbirni, tilini, Maktabni, Tilni</em>
-* `Dat` (203; 10% of non-empty `Case`): <em>foizga, ishga, ko‘zga, oldiga, qarorga, amalga, boshiga, evaziga, hayotiga, odamga</em>
-* `Gen` (153; 7% of non-empty `Case`): <em>dunyoning, yilning, bozorining, haydovchilarning, mahsulotning, mamlakat, markazi, odamlarning, so‘fining, yil</em>
-* `Loc` (238; 11% of non-empty `Case`): <em>doirasida, yerda, kunda, oqibatida, tumanida, viloyatida, bag‘rida, bahsda, boshida, davomida</em>
-* `Nom` (1258; 60% of non-empty `Case`): <em>kuni, nafar, odam, davlat, davom, prezidenti, yil, qishloq, xabar, axborot</em>
-* `EMPTY` (49): <em>ishlar, nafar, AJ, Air, Bluetooth, Dream, France, House, LGALPHA, Motors</em>
+* `Dat` (203; 10% of non-empty `Case`): <em>foizga, ishga, koʻzga, oldiga, qarorga, amalga, boshiga, evaziga, hayotiga, odamga</em>
+* `Gen` (154; 7% of non-empty `Case`): <em>dunyoning, yilning, bozorining, haydovchilarning, mahsulotning, mamlakat, markazi, odamlarning, soʻfining, yil</em>
+* `Loc` (238; 11% of non-empty `Case`): <em>doirasida, yerda, kunda, oqibatida, tumanida, viloyatida, Yigʻilishda, bagʻrida, bahsda, boshida</em>
+* `Nom` (1276; 61% of non-empty `Case`): <em>kuni, nafar, odam, davlat, davom, prezidenti, yil, ota, qishloq, xabar</em>
+* `EMPTY` (51): <em>ishlar, nafar, AJ, Air, Bluetooth, Dream, France, House, LGALPHA, Motors</em>
 
 <table>
   <tr><th>Paradigm <i>kun</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>
@@ -45,37 +45,38 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 `PROPN` tokens may have the following values of `Case`:
 
 * `Abl` (3; 1% of non-empty `Case`): <em>Qipchoqdan, Xudodan, Yaponiyadan</em>
-* `Acc` (9; 3% of non-empty `Case`): <em>Akramjonni, Arishevni, Hojini, Karpni, Lolani, O‘lmasboyni, Qur’on, Xersonni, Xizrni</em>
-* `Dat` (13; 4% of non-empty `Case`): <em>O‘zbekistonga, Samarqandga, AQSHga, AQShga, Germaniyaga, G‘anijonga, Italiyaga, Koreyaga, Ma’rifatxonga, Oʻzbekistonga</em>
-* `Gen` (36; 12% of non-empty `Case`): <em>O‘zbekiston, Abdulhakimning, Argentinaning, Davronning, Erdo‘g‘anning, E’zozaning, Germaniyaning, Hamidaning, Jalolovning, Jayxunning</em>
-* `Loc` (19; 6% of non-empty `Case`): <em>Toshkentda, AQSHdagi, Buxoroda, Eronda, Hongkongda, Iroqda, Isroilda, Istanbuldagi, Ka’bada, Kolumbiyada</em>
-* `Nom` (224; 74% of non-empty `Case`): <em>O‘zbekiston, Toshkent, Rossiya, Koreya, Samarqand, Ukraina, AQSh, Amerika, Asqar, Buxoro</em>
+* `Acc` (9; 3% of non-empty `Case`): <em>Akramjonni, Arishevni, Hojini, Karpni, Lolani, Oʻlmasboyni, Qurʼon, Xersonni, Xizrni</em>
+* `Dat` (13; 4% of non-empty `Case`): <em>Oʻzbekistonga, Samarqandga, AQSHga, AQShga, Germaniyaga, Gʻanijonga, Italiyaga, Koreyaga, Maʼrifatxonga, Qutbiddinovga</em>
+* `Gen` (36; 12% of non-empty `Case`): <em>Oʻzbekiston, Abdulhakimning, Argentinaning, Davronning, Erdoʻgʻanning, Eʼzozaning, Germaniyaning, Hamidaning, Jalolovning, Jayxunning</em>
+* `Loc` (19; 6% of non-empty `Case`): <em>Toshkentda, Oʻzbekistonda, AQSHdagi, Buxoroda, Eronda, Hongkongda, Iroqda, Isroilda, Istanbuldagi, Kaʼbada</em>
+* `Nom` (224; 74% of non-empty `Case`): <em>Oʻzbekiston, Toshkent, Rossiya, Koreya, Samarqand, Ukraina, AQSh, Amerika, Asqar, Buxoro</em>
 * `EMPTY` (4): <em>A., BBC, Mail.ru, UzAuto</em>
 
 <table>
-  <tr><th>Paradigm <i>O‘zbekiston</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td><em>O‘zbekistonga</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>O‘zbekiston</em></td><td></td><td></td><td><em>O‘zbekistonda</em></td></tr>
-  <tr><td><tt><tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="uz_ut-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>O‘zbekiston</em></td><td></td><td><em>O‘zbekiston, O‘zbekistonning</em></td><td></td></tr>
+  <tr><th>Paradigm <i>Oʻzbekiston</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>Oʻzbekistonga</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="uz_ut-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt>|<tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Oʻzbekistonga</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Oʻzbekiston</em></td><td></td><td></td><td><em>Oʻzbekistonda</em></td></tr>
+  <tr><td><tt><tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="uz_ut-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>Oʻzbekiston</em></td><td></td><td><em>Oʻzbekiston, Oʻzbekistonning</em></td><td></td></tr>
 </table>
 
-`Case` seems to be **lexical feature** of `PROPN`. 92% lemmas (223) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `PROPN`. 93% lemmas (222) occur only with one value of `Case`.
 
 ### `PRON`
 
-142 <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> tokens (73% of all `PRON` tokens) have a non-empty value of `Case`.
+142 <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> tokens (74% of all `PRON` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="uz_ut-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (111; 78%), <tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (103; 73%), <tt><a href="uz_ut-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (101; 71%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Abl` (7; 5% of non-empty `Case`): <em>undan, Shundan, Ulardan, bir-biridan, mendan, shulardan</em>
-* `Acc` (25; 18% of non-empty `Case`): <em>seni, uni, meni, o‘zini, Bolalarni, Bularni, Buni, Hammasini, Ularni, nimalarnidir</em>
-* `Dat` (23; 16% of non-empty `Case`): <em>unga, bunga, menga, o‘ziga, ularga, O‘zingga, barchalarimizga, kimga, nimalargadir, qayoqqa</em>
-* `Gen` (33; 23% of non-empty `Case`): <em>uning, o‘z, bizning, ularning, buning, mening, barchamizning, kimningdir, o‘zimning, o‘zining</em>
-* `Loc` (7; 5% of non-empty `Case`): <em>unda, Bizda, Qayerlardadir, o‘shanda, o‘zida, ularda</em>
-* `Nom` (47; 33% of non-empty `Case`): <em>men, o‘zi, oʻz, u, ular, kim, o‘z, o‘zlari, Bizlar, Bu</em>
-* `EMPTY` (53): <em>bu, u, ular, nima, o‘zi, qanday, Biz, kim, mana, necha</em>
+* `Acc` (25; 18% of non-empty `Case`): <em>seni, uni, meni, oʻzini, Bolalarni, Bularni, Buni, Hammasini, Ularni, nimalarnidir</em>
+* `Dat` (23; 16% of non-empty `Case`): <em>unga, bunga, menga, oʻziga, ularga, Oʻzingga, barchalarimizga, kimga, nimalargadir, qayoqqa</em>
+* `Gen` (33; 23% of non-empty `Case`): <em>uning, oʻz, bizning, ularning, buning, mening, barchamizning, kimningdir, oʻzimning, oʻzining</em>
+* `Loc` (7; 5% of non-empty `Case`): <em>unda, Bizda, Qayerlardadir, oʻshanda, oʻzida, ularda</em>
+* `Nom` (47; 33% of non-empty `Case`): <em>men, oʻz, oʻzi, u, ular, kim, oʻzlari, Bizlar, Bu, Bular</em>
+* `EMPTY` (51): <em>bu, u, ular, nima, oʻzi, Biz, kim, mana, necha, oʻz</em>
 
 <table>
   <tr><th>Paradigm <i>u</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>
@@ -93,16 +94,16 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 66 <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="uz_ut-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (66; 100%), <tt><a href="uz_ut-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (66; 100%), <tt><a href="uz_ut-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (64; 97%), <tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (59; 89%), <tt><a href="uz_ut-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (47; 71%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="uz_ut-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (66; 100%), <tt><a href="uz_ut-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (66; 100%), <tt><a href="uz_ut-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (64; 97%), <tt><a href="uz_ut-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (64; 97%), <tt><a href="uz_ut-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (59; 89%), <tt><a href="uz_ut-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (47; 71%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Abl` (11; 17% of non-empty `Case`): <em>boshlanganidan, bo‘ysunishdan, kelishdan, kelishini, o‘sganligidan, o‘tkazilishidan, shoshilmasdan, shoshmasdan, sug‘urtirishdan, tanishtirgandan</em>
-* `Acc` (23; 35% of non-empty `Case`): <em>yo‘qligini, berayotganini, berganini, berishni, bermaganini, bo‘lishini, bo‘lishni, chiqarishni, cho‘kishni, kuyinishini</em>
-* `Dat` (28; 42% of non-empty `Case`): <em>yurganga, borilishiga, bo‘lishiga, chaqirishga, eksportga, erishishga, etishga, foydalanishga, ishlashga, koronavirusga</em>
+* `Abl` (11; 17% of non-empty `Case`): <em>boshlanganidan, boʻysunishdan, kelishdan, kelishini, oʻsganligidan, oʻtkazilishidan, shoshilmasdan, shoshmasdan, sugʻurtirishdan, tanishtirgandan</em>
+* `Acc` (23; 35% of non-empty `Case`): <em>yoʻqligini, berayotganini, berganini, berishni, bermaganini, boʻlishini, boʻlishni, chiqarishni, choʻkishni, kuyinishini</em>
+* `Dat` (28; 42% of non-empty `Case`): <em>yurganga, borilishiga, boʻlishiga, chaqirishga, eksportga, erishishga, etishga, foydalanishga, ishlashga, koronavirusga</em>
 * `Loc` (3; 5% of non-empty `Case`): <em>qilishda, tushganida</em>
 * `Nom` (1; 2% of non-empty `Case`): <em>tejovchi</em>
-* `EMPTY` (933): <em>bo‘lib, berdi, olib, yo‘q, qildi, bo‘lgan, deb, bo‘ldi, qiladi, beradi</em>
+* `EMPTY` (921): <em>boʻlib, berdi, olib, boʻlgan, qildi, boʻldi, deb, qiladi, beradi, bergan</em>
 
 <table>
   <tr><th>Paradigm <i>qil</i></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Loc</tt></th></tr>
@@ -124,7 +125,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 * `Acc` (4; 44% of non-empty `Case`): <em>ekanini, ekanligini</em>
 * `Dat` (3; 33% of non-empty `Case`): <em>ekaniga, mumkinligiga, ekanligimizga</em>
 * `Nom` (2; 22% of non-empty `Case`): <em>ekani, emasligi</em>
-* `EMPTY` (70): <em>edi, mumkin, ekan, edim, emas, ekanman, kerak, bo'lgan, bo'lsa, edilar</em>
+* `EMPTY` (70): <em>edi, mumkin, ekan, edim, emas, ekanman, kerak, boʻlgan, boʻlsa, edilar</em>
 
 <table>
   <tr><th>Paradigm <i>ekan</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>
@@ -136,14 +137,14 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 ### `ADV`
 
-6 <tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Case`.
+5 <tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Case`.
 
 `ADV` tokens may have the following values of `Case`:
 
-* `Abl` (2; 33% of non-empty `Case`): <em>Olislardan, oldindan</em>
-* `Dat` (1; 17% of non-empty `Case`): <em>avvaliga</em>
-* `Loc` (3; 50% of non-empty `Case`): <em>Nariroqda, yuqorida, Olis-olislardagi</em>
-* `EMPTY` (198): <em>ham, yana, eng, juda, bugun, hamisha, Endi, hali, hamon, qariyb</em>
+* `Abl` (2; 40% of non-empty `Case`): <em>Olislardan, oldindan</em>
+* `Dat` (1; 20% of non-empty `Case`): <em>avvaliga</em>
+* `Loc` (2; 40% of non-empty `Case`): <em>Nariroqda, yuqorida</em>
+* `EMPTY` (198): <em>ham, yana, eng, juda, bugun, hamisha, qanday, Endi, hali, hamon</em>
 
 ### `ADJ`
 
@@ -153,7 +154,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 * `Dat` (2; 50% of non-empty `Case`): <em>kulrangga, boshqalarga</em>
 * `Loc` (2; 50% of non-empty `Case`): <em>yuksakda, sovuqlarida</em>
-* `EMPTY` (456): <em>yangi, katta, yaxshi, baland, boshqa, keyingi, buyuk, keng, ko‘p, qattiq</em>
+* `EMPTY` (480): <em>yoʻq, yangi, katta, yaxshi, baland, bor, boshqa, keyingi, buyuk, keng</em>
 
 ### `NUM`
 
@@ -165,19 +166,19 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 * `Dat` (1; 33% of non-empty `Case`): <em>biriga</em>
 * `Loc` (2; 67% of non-empty `Case`): <em>17.50da, mingdan</em>
-* `EMPTY` (207): <em>bir, biri, ikki, 12, birinchi, mln, 1, 10, 2020, 4</em>
+* `EMPTY` (211): <em>bir, biri, ikki, 12, 10, 4, birinchi, mln, 1, 2020</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="uz_ut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (88; 83%),
+<tt>NOUN --[<tt><a href="uz_ut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (90; 84%),
+<tt>NOUN --[<tt><a href="uz_ut-dep-compound.html">compound</a></tt>]--> NOUN</tt> (56; 56%),
 <tt>NOUN --[<tt><a href="uz_ut-dep-flat.html">flat</a></tt>]--> PROPN</tt> (52; 85%),
-<tt>NOUN --[<tt><a href="uz_ut-dep-compound.html">compound</a></tt>]--> NOUN</tt> (47; 52%),
-<tt>NOUN --[<tt><a href="uz_ut-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (26; 60%),
 <tt>PROPN --[<tt><a href="uz_ut-dep-flat.html">flat</a></tt>]--> PROPN</tt> (18; 78%),
 <tt>PROPN --[<tt><a href="uz_ut-dep-conj.html">conj</a></tt>]--> PROPN</tt> (15; 94%),
+<tt>NOUN --[<tt><a href="uz_ut-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (12; 63%),
 <tt>PROPN --[<tt><a href="uz_ut-dep-flat.html">flat</a></tt>]--> NOUN</tt> (7; 58%),
 <tt>NOUN --[<tt><a href="uz_ut-dep-appos.html">appos</a></tt>]--> NOUN</tt> (4; 67%),
-<tt>NOUN --[<tt><a href="uz_ut-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (2; 67%),
+<tt>NOUN --[<tt><a href="uz_ut-dep-compound-redup.html">compound:redup</a></tt>]--> NOUN</tt> (3; 100%),
 <tt>PROPN --[<tt><a href="uz_ut-dep-compound.html">compound</a></tt>]--> PROPN</tt> (2; 67%).
 

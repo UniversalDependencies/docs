@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-37 nodes (0%) are attached to their parents as `goeswith`.
+39 nodes (0%) are attached to their parents as `goeswith`.
 
-37 instances of `goeswith` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.02702702702703.
+39 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.05128205128205.
 
-The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (24; 65% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (6; 16% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (4; 11% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (3; 8% instances).
+The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (26; 67% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (6; 15% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (4; 10% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (3; 8% instances).
 
 
 ~~~ conllu
@@ -51,7 +51,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 3	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	SpaceAfter=No
 4	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	wordform=ce
 5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	loup	loup	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Cxn=Interrogative-Polar-Direct|CxnElt=6:Interrogative-Polar-Direct.Clause
+6	loup	loup	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 7	?	?	PUNCT	_	_	6	punct	_	_
 
 ~~~

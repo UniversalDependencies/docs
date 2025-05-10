@@ -107,7 +107,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 51 <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> tokens (78% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (49; 96%), <tt><a href="kpv_ikdp-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (46; 90%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (49; 96%), <tt><a href="kpv_ikdp-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (47; 92%).
 
 `NUM` tokens may have the following values of `Number`:
 
@@ -163,7 +163,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 12 <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> tokens (6% of all `ADV` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Ill</tt> (7; 58%).
+The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Ill</tt> (7; 58%).
 
 `ADV` tokens may have the following values of `Number`:
 
@@ -193,9 +193,9 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="kpv_ikdp-dep-obl.html">obl</a></tt>]--> NOUN</tt> (80; 67%),
+<tt>VERB --[<tt><a href="kpv_ikdp-dep-obl.html">obl</a></tt>]--> NOUN</tt> (89; 64%),
 <tt>VERB --[<tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (51; 73%),
-<tt>NOUN --[<tt><a href="kpv_ikdp-dep-amod.html">amod</a></tt>]--> ADJ</tt> (48; 84%),
+<tt>NOUN --[<tt><a href="kpv_ikdp-dep-amod.html">amod</a></tt>]--> ADJ</tt> (48; 83%),
 <tt>VERB --[<tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (48; 81%),
 <tt>VERB --[<tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (41; 82%),
 <tt>NOUN --[<tt><a href="kpv_ikdp-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (39; 89%),

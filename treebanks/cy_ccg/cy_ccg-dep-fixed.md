@@ -13,7 +13,7 @@ This relation is universal.
 306 instances of `fixed` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.0718954248366.
 
-The following 20 pairs of parts of speech are connected with `fixed`: <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (132; 43% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (62; 20% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (19; 6% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (16; 5% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (15; 5% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (12; 4% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (12; 4% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (8; 3% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (6; 2% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-DET.html">DET</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PART.html">PART</a></tt>-<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `fixed`: <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (132; 43% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (62; 20% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (19; 6% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (16; 5% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (15; 5% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (12; 4% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (12; 4% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (8; 3% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (6; 2% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-DET.html">DET</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PART.html">PART</a></tt>-<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 20 pairs of parts of speech are connected with `fixed`: <tt><a hre
 6	i	i	ADP	prep	_	8	case	_	SpaceAfter=No
 7	'r	y	DET	art	_	8	det	_	_
 8	dref	tref	NOUN	noun	Gender=Fem|Mutation=SM|Number=Sing	5	obl	_	_
-9	ar	ar	ADP	prep	_	12	case	_	_
+9	ar	ar	ADP	prep	ExtPos=ADP	12	case	_	_
 10	hyd	hyd	ADP	prep	_	9	fixed	_	_
 11	y	y	DET	art	_	12	det	_	_
 12	canrifoedd	canrif	NOUN	noun	Gender=Fem|Number=Plur	5	obl	_	SpaceAfter=No
@@ -46,7 +46,7 @@ The following 20 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 4 fixed	color:blue
 1	Cilwenu	cilwenu	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	0	root	_	_
-2	hyd	hyd	ADP	prep	_	1	obl	_	_
+2	hyd	hyd	ADP	prep	ExtPos=ADV	1	advmod	_	_
 3	yn	yn	ADP	prep	_	2	fixed	_	_
 4	oed	oed	NOUN	noun	Gender=Masc|Number=Sing	2	fixed	_	SpaceAfter=No
 5	,	,	PUNCT	punct	_	7	punct	_	_
@@ -68,7 +68,7 @@ The following 20 pairs of parts of speech are connected with `fixed`: <tt><a hre
 2	cynllunio	cynllunio	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	10	csubj	_	_
 3	eich	chi	PRON	dep	Number=Plur|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
 4	taith	taith	NOUN	noun	Gender=Fem|Number=Sing	2	obj	_	_
-5	i	i	ADP	prep	_	8	case	_	_
+5	i	i	ADP	prep	ExtPos=ADP	8	case	_	_
 6	fyny	fyny	ADV	adv	_	5	fixed	_	SpaceAfter=No
 7	'r	y	DET	art	_	8	det	_	_
 8	Wyddfa	Wyddfa	PROPN	place	Gender=Fem|Number=Sing	4	nmod	_	_

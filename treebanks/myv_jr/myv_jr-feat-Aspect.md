@@ -25,7 +25,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 * `Hab,Inch` (1; 1% of non-empty `Aspect`): <em>кармильть</em>
 * `Inch` (102; 99% of non-empty `Aspect`): <em>кармась, кармасть, кармить, карми, карма, карман, карминь, Кармиксэль, Карминдерят, кармавлинь</em>
-* `EMPTY` (696): <em>а, аволь, эзь, апак, ульнесь, иля, эряви, ули, бу, кадык</em>
+* `EMPTY` (683): <em>а, аволь, эзь, апак, ульнесь, иля, эряви, ули, бу, кадык</em>
 
 <table>
   <tr><th>Paradigm <i>кармамс</i></th><th><tt>Hab,Inch</tt></th><th><tt>Inch</tt></th></tr>

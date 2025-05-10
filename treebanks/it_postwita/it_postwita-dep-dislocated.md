@@ -27,8 +27,8 @@ The following 14 pairs of parts of speech are connected with `dislocated`: <tt><
 3	grazie	grazie	INTJ	I	_	8	discourse	_	_
 4	mille	mille	NUM	N	NumType=Card	3	nummod	_	_
 5	c:	c:	SYM	SYM	_	8	discourse	_	_
-6	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	expl	_	_
-7	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+6	te	te	PRON	PC	Number=Sing|Person=2|PronType=Prs	8	expl	_	Clitic=Yes
+7	la	la	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	Clitic=Yes
 8	do	dare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	dopo	dopo	ADV	B	_	8	advmod	_	_
 10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_

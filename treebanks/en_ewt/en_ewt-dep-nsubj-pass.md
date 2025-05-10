@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="en_ewt-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="en_ewt-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-1447 nodes (1%) are attached to their parents as `nsubj:pass`.
+1445 nodes (1%) are attached to their parents as `nsubj:pass`.
 
-1407 instances of `nsubj:pass` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.8154803040774.
+1405 instances of `nsubj:pass` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.81453287197232.
 
-The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (719; 50% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (565; 39% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (124; 9% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (15; 1% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (6; 0% instances).
+The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (719; 50% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (563; 39% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (124; 9% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (15; 1% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (6; 0% instances).
 
 
 ~~~ conllu
@@ -59,7 +59,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 nsubj:pass	color:blue
-1	Capt.	Capt.	PROPN	NNP	Number=Sing	2	compound	2:compound	_
+1	Capt.	Capt.	PROPN	NNP	Number=Sing	2	nmod:desc	2:nmod:desc	_
 2	Spastic	Spastic	PROPN	NNP	Number=Sing	5	nmod:poss	5:nmod:poss	_
 3	's	's	PART	POS	_	2	case	2:case	_
 4	Demented	Demented	ADJ	NNP	Degree=Pos	5	amod	5:amod	_

@@ -48,7 +48,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 * `Act` (2143; 18% of non-empty `Voice`): <em>pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, řídící, týkající, vyplývající, rostoucí</em>
 * `Pass` (10050; 82% of non-empty `Voice`): <em>uvedených, uvedené, řečeno, příslušné, dosaženo, plánovaných, spojené, věnována, příslušného, dána</em>
-* `EMPTY` (62029): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
+* `EMPTY` (62027): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
 
 `Voice` seems to be **lexical feature** of `ADJ`. 100% lemmas (2324) occur only with one value of `Voice`.
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (4388; 97%),
-<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1385; 83%),
+<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1384; 83%),
 <tt>VERB --[<tt><a href="cs_cac-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (796; 72%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (481; 50%),
 <tt>VERB --[<tt><a href="cs_cac-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (179; 80%),

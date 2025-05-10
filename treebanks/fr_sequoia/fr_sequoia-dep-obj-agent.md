@@ -55,7 +55,7 @@ The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 12	,	,	PUNCT	_	_	13	punct	_	_
 13	telle	tel	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
 14	qu'	que	SCONJ	_	_	16	mark	_	SpaceAfter=No
-15	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+15	elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
 16	fonctionne	fonctionner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	dep	_	_
 17	aujourd'hui	aujourd'hui	ADV	_	_	16	advmod	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	16	punct	_	_
@@ -78,7 +78,7 @@ The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 35	but	but	NOUN	_	Gender=Masc|Number=Sing	33	xcomp	_	_
 36	principal	principal	ADJ	_	Gender=Masc|Number=Sing	35	amod	_	_
 37	de	de	ADP	_	_	41	mark	_	_
-38	la	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	41	obj:agent	_	_
+38	la	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	41	obj:agent	_	_
 39	faire	faire	AUX	_	VerbForm=Inf	41	aux:caus	_	Subject=Generic
 40	encore	encore	ADV	_	_	41	advmod	_	_
 41	évoluer	évoluer	VERB	_	VerbForm=Inf	33	ccomp	_	Subject=ObjRaising

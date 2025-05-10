@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="xav_xdt-pos-ADP.htm
 `ADP` tokens may have the following values of `Polite`:
 
 * `Form` (1; 100% of non-empty `Polite`): <em>dama</em>
-* `EMPTY` (133): <em>na, da, ãma, me, u, wi, ma, dzô, 're, ré</em>
+* `EMPTY` (184): <em>na, u, ãma, da, me, ma, wi, zô, ré, tiwi</em>
 

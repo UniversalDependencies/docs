@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Moksha-JR: Relations: `nmod:gobj`
 
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-nmod.html">nmod</a></tt>.
-There are also 4 other language-specific subtypes of `nmod`: <tt><a href="mdf_jr-dep-nmod-bahuv.html">nmod:bahuv</a></tt>, <tt><a href="mdf_jr-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="mdf_jr-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="mdf_jr-dep-nmod-tmod.html">nmod:tmod</a></tt>.
+There are also 2 other language-specific subtypes of `nmod`: <tt><a href="mdf_jr-dep-nmod-bahuv.html">nmod:bahuv</a></tt>, <tt><a href="mdf_jr-dep-nmod-poss.html">nmod:poss</a></tt>.
 
 2 nodes (0%) are attached to their parents as `nmod:gobj`.
 
@@ -41,7 +41,7 @@ The following 2 pairs of parts of speech are connected with `nmod:gobj`: <tt><a 
 # visual-style 3 2 nmod:gobj	color:blue
 1	Лувонтт	лувондомс	VERB	V	Mood=Imp|Number[subj]=Sing|Person[subj]=2	0	root	_	CGdephead=#1-&gt;0|CGdeprel=@FMV|GTtags=Imprt,ScSg2
 2	сельмотнень	сельме	NOUN	N	Case=Gen|Definite=Def|Number=Plur	3	nmod:gobj	_	CGdephead=#2-&gt;3|CGdeprel=@-FOBJ&gt;|GTtags=Pl,Gen,Def
-3	сярятькстомс	сярятькстомс	VERB	V	VerbForm=Inf	1	advcl:tcl	_	CGdephead=#3-&gt;1|CGdeprel=@IMV|GTtags=Inf|SpaceAfter=No
+3	сярятькстомс	сярятькстомс	VERB	V	VerbForm=Inf	1	advcl	_	CGdephead=#3-&gt;1|CGdeprel=@IMV|GTtags=Inf|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	1	punct	_	CGdephead=#4-&gt;1|CGdeprel=@X|GTtags=CLB
 
 ~~~

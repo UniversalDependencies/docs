@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-20 nodes (0%) are attached to their parents as `parataxis`.
+23 nodes (0%) are attached to their parents as `parataxis`.
 
-16 instances of `parataxis` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.45.
+19 instances of `parataxis` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.21739130434783.
 
-The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (5; 25% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (3; 15% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (3; 15% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (2; 10% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (2; 10% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (1; 5% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
+The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (6; 26% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (3; 13% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (3; 13% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (2; 9% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (2; 9% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (2; 9% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -50,8 +50,8 @@ The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pass	1:expl:pass	LGloss=(zvr._zájmeno/částice)
 3	alkoholické	alkoholický	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	4	amod	4:amod	_
 4	nápoje	nápoj	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	nsubj:pass	1:nsubj:pass	_
-5	jako	jako	SCONJ	J,-------------	_	7	case	7:case	LId=jako-1
-6	například	například	ADV	Db-------------	_	7	advmod:emph	7:advmod:emph	_
+5	jako	jako	SCONJ	J,-------------	_	7	mark	7:mark	LId=jako-1
+6	například	například	ADV	Db-------------	_	7	advmod	7:advmod	_
 7	pivo	pivo	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	4	appos	4:appos	SpaceAfter=No
 8	,	,	PUNCT	Z:-------------	_	9	punct	9:punct	_
 9	bjórr	bjórr	NOUN	NNXXX-----A----	Foreign=Yes	7	conj	4:appos|7:conj	_

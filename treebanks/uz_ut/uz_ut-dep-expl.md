@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 expl	color:blue
-1	Hordiq	hordiq	NOUN	_	Case=Nom|Number=Sing	2	compound	_	_
+1	Hordiq	hordiq	NOUN	_	Case=Nom|Number=Sing	2	compound:lvc	_	_
 2	chiqarishning	chiqar	VERB	_	VerbForm=Vnoun	5	acl	_	_
 3	eng	eng	ADV	_	_	4	advmod	_	_
 4	yaxshi	yaxshi	ADJ	_	_	5	amod	_	_
@@ -34,10 +34,10 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 10	musiqani	musiqa	NOUN	_	Case=Acc|Number=Sing	11	obj	_	_
 11	yoqib	yoq	VERB	_	VerbForm=Conv	17	advcl	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	11	punct	_	_
-13	go‘zal	go‘zal	ADJ	_	_	14	amod	_	_
+13	goʻzal	goʻzal	ADJ	_	_	14	amod	_	_
 14	manzaralardan	manzara	NOUN	_	Case=Abl|Number=Plur	15	obl	_	_
-15	bahramand	bahramand	ADJ	_	_	16	compound	_	_
-16	bo‘lib	bo‘l	VERB	_	VerbForm=Conv	17	advcl	_	_
+15	bahramand	bahramand	ADJ	_	_	16	compound:lvc	_	_
+16	boʻlib	boʻl	VERB	_	VerbForm=Conv	17	advcl	_	_
 17	yugurish	yugur	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	17	punct	_	_
 

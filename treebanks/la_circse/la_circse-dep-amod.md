@@ -8,47 +8,43 @@ udver: '2'
 
 This relation is universal.
 
-1796 nodes (9%) are attached to their parents as `amod`.
+2568 nodes (10%) are attached to their parents as `amod`.
 
-1294 instances of `amod` (72%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.92873051224944.
+1857 instances of `amod` (72%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.94742990654206.
 
-The following 19 pairs of parts of speech are connected with `amod`: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1565; 87% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (157; 9% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (16; 1% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (15; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `amod`: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2261; 88% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (222; 9% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (20; 1% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (19; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 2 amod	color:blue
-1	quae	quis	PRON	K	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Int	4	det	_	LASLAVariant=1|LiLaflcat=p
-2	fera	ferus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	4	amod	_	LASLAVariant=2|LiLaflcat=n6
-3	tyranni	tyrannus	NOUN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	4	nmod	_	LiLaflcat=n2
-4	iura	ius	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Plur	6	nsubj	_	LASLAVariant=1|LiLaflcat=n3
-5	uiolento	uiolentus	ADJ	C1	Case=Dat|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	8	amod	_	LiLaflcat=n6
-6	queant	queo	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v6
-7	nocere	noceo	VERB	B2	Aspect=Imp|InflClass=LatE|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	6	xcomp	_	LiLaflcat=v2
-8	iuueni	iuuenis	NOUN	A3	Case=Dat|Gender=Masc|InflClass=IndEurI|Number=Sing	7	obl:arg	_	LASLAVariant=1|LiLaflcat=n3
+# visual-style 4 8 amod	color:blue
+1	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	LASLAVariant=1|LiLaflcat=v6
+2	ne	ne	PART	O	PartType=Int	4	discourse	_	LASLAVariant=2|LiLaflcat=i
+3	aliqua	aliquis	PRON	L	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind	4	det	_	LiLaflcat=p
+4	tellus	tellus	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	0	root	_	LiLaflcat=n3
+5	Cereris	ceres	PROPN	A3	Case=Gen|Gender=Fem|InflClass=IndEurX|NameType=Rel|Number=Sing	8	nmod	_	LASLAVariant=N|LiLaflcat=n3
+6	aut	aut	CCONJ	S	_	7	cc	_	LiLaflcat=i
+7	Bacchi	bacchus	PROPN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Rel|Number=Sing	5	conj	_	LASLAVariant=N|LiLaflcat=n2
+8	ferax	ferax	ADJ	C5	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	4	amod	_	LiLaflcat=n7
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 6 amod	color:blue
-1	patrem	pater	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing	2	obj	_	LiLaflcat=n3
-2	abstulisti	aufero	VERB	B6	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v6
-3	regna	regnum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	1	conj	_	LiLaflcat=n2
-4	germanos	germanus	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	1	conj	_	LASLAVariant=1|LiLaflcat=n2
-5	Larem	lar	PROPN	A3	Case=Acc|Gender=Masc|InflClass=IndEurI|NameType=Rel|Number=Sing	1	conj	_	LASLAVariant=N|LiLaflcat=n3
-6	patrium	patrius	ADJ	C1	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	5	amod	_	LiLaflcat=n6
-7	quid	quis	PRON	K	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Int	2	conj	_	LASLAVariant=1|LiLaflcat=p
-8	ultra	ultra	ADV	M	Degree=Pos	7	advmod	_	LASLAVariant=1|LiLaflcat=i
-9	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	LASLAVariant=1|LiLaflcat=v6
+# visual-style 5 2 amod	color:blue
+1	solus	solus	DET	L	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Con	5	det	_	LiLaflcat=p
+2	inuictus	inuictus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	5	amod	_	LiLaflcat=n6
+3	malis	malum	NOUN	A2	Case=Dat|Gender=Neut|InflClass=IndEurO|Number=Plur	2	obl	_	LASLAVariant=1|LiLaflcat=n2
+4	luctatur	luctor	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LiLaflcat=v1
+5	Aiax	aiax	PROPN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|NameType=Giv|Number=Sing	4	nsubj	_	LASLAVariant=N|LiLaflcat=n3
 
 ~~~
 

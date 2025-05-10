@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (673; 100% of non-empty `Abbr`): <em>USA, SV, Ap, EU, Sp, OECD, Frp, FN, FrP, I.</em>
-* `EMPTY` (17129): <em>Noreg, Førde, Språkrådet, Sogn, Fjordane, Oslo, Kviteseid, Stortinget, Høgre, Helse</em>
+* `EMPTY` (17090): <em>Noreg, Førde, Språkrådet, Sogn, Fjordane, Oslo, Kviteseid, Stortinget, Høgre, Helse</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (45) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (341; 100% of non-empty `Abbr`): <em>kap., nr., kr, s., St.meld., mill., Nato, ts, kl, km/t</em>
-* `EMPTY` (56190): <em>år, dag, folk, tid, prosent, språk, kroner, del, landet, regjeringa</em>
+* `EMPTY` (56189): <em>år, dag, folk, tid, prosent, språk, kroner, del, landet, regjeringa</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (52) occur only with one value of `Abbr`.
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (25; 100% of non-empty `Abbr`): <em>ok, d., ang., fung., l., rk, sk., spes</em>
-* `EMPTY` (29076): <em>meir, mange, fleire, mykje, nye, store, heile, godt, heilt, norske</em>
+* `EMPTY` (29074): <em>meir, mange, fleire, mykje, nye, store, heile, godt, heilt, norske</em>
 
 ### `ADP`
 
@@ -80,7 +80,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADP` tokens may have the following values of `Abbr`:
 
 * `Yes` (11; 100% of non-empty `Abbr`): <em>m.a., pr.</em>
-* `EMPTY` (39028): <em>i, til, på, for, av, med, om, frå, som, etter</em>
+* `EMPTY` (39027): <em>i, til, på, for, av, med, om, frå, som, etter</em>
 
 ### `PRON`
 

@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>men</em> (<tt><a href="sv_talbanken-p
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.430604).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.428271).
 
 The 1st highest number of forms (1) was observed with the lemma “+”: <em>+</em>.
 
@@ -67,28 +67,28 @@ The 2nd highest number of forms (1) was observed with the lemma “and”: <em>a
 
 The 3rd highest number of forms (1) was observed with the lemma “antingen”: <em>antingen</em>.
 
-`CCONJ` occurs with 2 features: <tt><a href="sv_talbanken-feat-Foreign.html">Foreign</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-feat-Polarity.html">Polarity</a></tt> (1; 0% instances)
+`CCONJ` occurs with 3 features: <tt><a href="sv_talbanken-feat-ExtPos.html">ExtPos</a></tt> (21; 1% instances), <tt><a href="sv_talbanken-feat-Foreign.html">Foreign</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-feat-Polarity.html">Polarity</a></tt> (1; 0% instances)
 
-`CCONJ` occurs with 2 feature-value pairs: `Foreign=Yes`, `Polarity=Neg`
+`CCONJ` occurs with 4 feature-value pairs: `ExtPos=ADV`, `ExtPos=CCONJ`, `Foreign=Yes`, `Polarity=Neg`
 
-`CCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (3701 tokens).
+`CCONJ` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (3678 tokens).
 Examples: <em>och, eller, men, både, utan, som, dels, såväl, samt, varken</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="sv_talbanken-dep-cc.html">cc</a></tt> (3582; 97% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (75; 2% instances), <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (17; 0% instances), <tt><a href="sv_talbanken-dep-conj.html">conj</a></tt> (11; 0% instances), <tt><a href="sv_talbanken-dep-mark.html">mark</a></tt> (10; 0% instances), <tt><a href="sv_talbanken-dep-case.html">case</a></tt> (8; 0% instances)
+`CCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="sv_talbanken-dep-cc.html">cc</a></tt> (3589; 97% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (75; 2% instances), <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (17; 0% instances), <tt><a href="sv_talbanken-dep-mark.html">mark</a></tt> (10; 0% instances), <tt><a href="sv_talbanken-dep-case.html">case</a></tt> (8; 0% instances), <tt><a href="sv_talbanken-dep-conj.html">conj</a></tt> (4; 0% instances)
 
-Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (1747; 47% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1090; 29% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (484; 13% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (118; 3% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (106; 3% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (70; 2% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (43; 1% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (31; 1% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> (2; 0% instances)
+Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (1746; 47% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1077; 29% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (478; 13% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (118; 3% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (110; 3% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (74; 2% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (43; 1% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (31; 1% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (7; 0% instances)
 
-3671 (99%) `CCONJ` nodes are leaves.
+3678 (99%) `CCONJ` nodes are leaves.
 
-32 (1%) `CCONJ` nodes have one child.
+25 (1%) `CCONJ` nodes have one child.
 
 The highest child degree of a `CCONJ` node is 1.
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (21; 66% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (11; 34% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (21; 84% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (4; 16% instances)
 
-Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (15; 47% instances), <tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> (11; 34% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (6; 19% instances)
+Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (15; 60% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (6; 24% instances), <tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> (4; 16% instances)
 

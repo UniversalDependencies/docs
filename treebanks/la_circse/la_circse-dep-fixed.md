@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `fixed`: <tt><a href
 8	in	in	ADP	R	_	9	case	_	LiLaflcat=i
 9	commune	commune	NOUN	A3	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Sing	15	obl	_	LiLaflcat=n3
 10	Nerthum	nerthus	PROPN	A2	Case=Acc|Gender=Fem|InflClass=IndEurO|NameType=Rel|Number=Sing	15	obj	_	LASLAVariant=N|LiLaflcat=n2
-11	id	is	PRON	I	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	13	cc	_	LiLaflcat=p
+11	id	is	PRON	I	Case=Nom|ExtPos=CCONJ|Gender=Neut|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	13	cc	_	LiLaflcat=p
 12	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	fixed	_	LASLAVariant=1|LiLaflcat=v6|TraditionalMood=Indicativus|TraditionalTense=Praesens
 13	Terram	terra	PROPN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|NameType=Rel|Number=Sing	10	conj:expl	_	LASLAVariant=N|LiLaflcat=n1
 14	matrem	mater	NOUN	A3	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	13	flat	_	LiLaflcat=n3

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-189 nodes (1%) are attached to their parents as `flat`.
+190 nodes (1%) are attached to their parents as `flat`.
 
-189 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.15343915343915.
+190 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.15263157894737.
 
-The following 5 pairs of parts of speech are connected with `flat`: <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (172; 91% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (8; 4% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (3; 2% instances).
+The following 6 pairs of parts of speech are connected with `flat`: <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (172; 91% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (8; 4% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

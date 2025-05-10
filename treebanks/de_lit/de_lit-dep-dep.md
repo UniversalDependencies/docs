@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-28 nodes (0%) are attached to their parents as `dep`.
+27 nodes (0%) are attached to their parents as `dep`.
 
-23 instances of `dep` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.35714285714286.
+22 instances of `dep` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.40740740740741.
 
-The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-X.html">X</a></tt> (18; 64% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-X.html">X</a></tt> (5; 18% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-SCONJ.html">SCONJ</a></tt> (2; 7% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="de_lit-pos-AUX.html">AUX</a></tt>-<tt><a href="de_lit-pos-X.html">X</a></tt> (1; 4% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
+The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-X.html">X</a></tt> (17; 63% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-X.html">X</a></tt> (5; 19% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-SCONJ.html">SCONJ</a></tt> (2; 7% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="de_lit-pos-AUX.html">AUX</a></tt>-<tt><a href="de_lit-pos-X.html">X</a></tt> (1; 4% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

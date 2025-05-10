@@ -88,7 +88,7 @@ The following 6 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 20	/	/	PUNCT	_	_	21	punct	_	_
 21	одно	один	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	18	obj	_	_
 22	из	из	ADP	_	_	23	case	_	_
-23	двух	два	NUM	_	Case=Gen|NumForm=Word|NumType=Card	21	nmod	_	before=<rhyme-zone/>|SpaceAfter=No
+23	двух	два	NUM	_	Case=Gen|Gender=Neut|NumForm=Word|NumType=Card	21	nmod	_	before=<rhyme-zone/>|SpaceAfter=No
 24	.	.	PUNCT	_	_	2	punct	_	</se></p>
 
 ~~~

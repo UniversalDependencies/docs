@@ -8,33 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-27 nodes (0%) are attached to their parents as `dislocated`.
+44 nodes (0%) are attached to their parents as `dislocated`.
 
-27 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 10.2962962962963.
+40 instances of `dislocated` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 9.
 
-The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (14; 52% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (6; 22% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (2; 7% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (2; 7% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
+The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (22; 50% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (12; 27% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (2; 5% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 3 dislocated	color:blue
-1	Водночас	водночас	ADV	ADV	_	7	advmod	_	_
-2	народний	народний	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
-3	депутат	депутат	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	dislocated	_	_
-4	Заблоцький	Заблоцький	PROPN	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	3	appos	_	SpaceAfter=No
-5	,	,	PUNCT	PUNCT	_	3	punct	_	_
-6	він	він	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
-7	просить	просити	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	поставити	поставити	VERB	VERB	Aspect=Perf|VerbForm=Inf	7	xcomp	_	_
-9	цю	цей	DET	DET	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
-10	поправку	поправка	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
-11	на	на	ADP	ADP	Case=Acc	12	case	_	_
-12	підтвердження	підтвердження	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obl:arg	_	SpaceAfter=No
-13	.	.	PUNCT	PUNCT	_	7	punct	_	_
+# visual-style 3 6 dislocated	color:blue
+1	Коли	коли	ADV	ADV	PronType=Rel	3	advmod	_	_
+2	воно	воно	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	_
+3	закінчиться	закінчитися	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Reflex=Yes|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	3	punct	_	_
+5	це	цей	PRON	PRON	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	_
+6	слідство	слідство	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	dislocated	_	SpaceAfter=No
+7	?	?	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 
@@ -62,34 +56,26 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 7 dislocated	color:blue
-1	Тому	тому	ADV	ADV	_	3	advmod	_	_
-2	я	я	PRON	PRON	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-3	просив	просити	VERB	VERB	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
-4	би	би	AUX	AUX	Mood=Cnd	3	aux	_	SpaceAfter=No
-5	,	,	PUNCT	PUNCT	_	17	punct	_	_
-6	щоб	щоб	SCONJ	SCONJ	_	17	mark	_	_
-7	ті	той	DET	DET	Case=Nom|Number=Plur|PronType=Dem	17	dislocated	_	SpaceAfter=No
-8	,	,	PUNCT	PUNCT	_	11	punct	_	_
-9	хто	хто	PRON	PRON	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	_
-10	будуть	бути	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
-11	працювати	працювати	VERB	VERB	Aspect=Imp|VerbForm=Inf	7	acl	_	_
-12	в	в	ADP	ADP	Case=Loc	13	case	_	_
-13	комісії	комісія	NOUN	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
-14	,	,	PUNCT	PUNCT	_	11	punct	_	_
-15	щоб	щоб	SCONJ	SCONJ	_	17	mark	_	_
-16	вони	вони	PRON	PRON	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
-17	робили	робити	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	3	ccomp	_	_
-18	з	з	ADP	ADP	Case=Gen	19	case	_	_
-19	цього	це	PRON	PRON	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	17	obl	_	_
-20	пріоритет	пріоритет	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	obj	_	_
-21	для	для	ADP	ADP	Case=Gen	22	case	_	_
-22	себе	себе	PRON	PRON	Case=Gen|PronType=Prs|Reflex=Yes	17	obl	_	SpaceAfter=No
-23	.	.	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 3 dislocated	color:blue
+1	Але	але	CCONJ	CCONJ	_	11	cc	_	_
+2	багато	багато	DET	DET	_	3	det:numgov	_	_
+3	питань	питання	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	dislocated	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	8	punct	_	_
+5	які	який	DET	DET	Case=Nom|Number=Plur|PronType=Rel	8	nsubj	_	_
+6	там	там	ADV	ADV	PronType=Dem	8	advmod	_	_
+7	зараз	зараз	ADV	ADV	PronType=Dem	8	advmod	_	_
+8	виникають	виникати	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	SpaceAfter=No
+9	,	,	PUNCT	PUNCT	_	8	punct	_	_
+10	їх	вони	PRON	PRON	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
+11	треба	треба	ADV	ADV	_	0	root	_	_
+12	зараз	зараз	ADV	ADV	PronType=Dem	14	advmod	_	_
+13	негайно	негайно	ADV	ADV	_	14	advmod	_	_
+14	вивчати	вивчати	VERB	VERB	Aspect=Imp|VerbForm=Inf	11	csubj	_	SpaceAfter=No
+15	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 ~~~
 

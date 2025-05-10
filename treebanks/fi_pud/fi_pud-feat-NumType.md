@@ -59,7 +59,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): <em>IV:n</em>
-* `EMPTY` (1503): <em>of, Ranskan, Australian, Kiinan, Hong, Venäjän, Yhdysvaltain, de, the, Euroopan</em>
+* `EMPTY` (1502): <em>of, Ranskan, Australian, Kiinan, Hong, Venäjän, Yhdysvaltain, de, the, Euroopan</em>
 
 ## Relations with Agreement in `NumType`
 

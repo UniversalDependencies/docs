@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `nmod:obj`
 
 This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt>.
-There are also 3 other language-specific subtypes of `nmod`: <tt><a href="kpv_lattice-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="kpv_lattice-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="kpv_lattice-dep-nmod-subj.html">nmod:subj</a></tt>.
+There are also 2 other language-specific subtypes of `nmod`: <tt><a href="kpv_lattice-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="kpv_lattice-dep-nmod-subj.html">nmod:subj</a></tt>.
 
 44 nodes (1%) are attached to their parents as `nmod:obj`.
 
@@ -23,8 +23,8 @@ The following 3 pairs of parts of speech are connected with `nmod:obj`: <tt><a h
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 nmod:obj	color:blue
-1	Колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl:lmod	_	OrigLang=ru
-2	ӧні	ӧні	ADV	Adv	_	3	advmod:tmod	_	_
+1	Колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl	_	OrigLang=ru
+2	ӧні	ӧні	ADV	Adv	_	3	advmod	_	_
 3	мунӧ	мунны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 4	тайӧ	тайӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	7	det	_	_
 5	воӧм	воны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
@@ -59,10 +59,10 @@ The following 3 pairs of parts of speech are connected with `nmod:obj`: <tt><a h
 # visual-style 3 2 nmod:obj	color:blue
 1	Волывліс	волывлыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3
 2	карта	карта	NOUN	N	Case=Nom|Number=Sing	3	nmod:obj	_	GTtags=Sg,Nom
-3	вӧчанінас	вӧчанін	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	obl:lmod	_	GTtags=Sg,Ill,PxSg3
+3	вӧчанінас	вӧчанін	NOUN	N	Case=Ill|Nomzr=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	obl	_	GTtags=Sg,Ill,PxSg3
 4	да	да	CCONJ	CC	_	11	cc	_	_
 5	эз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	11	aux	_	GTtags=Neg,Ind,Prt1,Sg3
-6	нин	нин	ADV	Adv	AdvType=Tim	11	advmod:tmod	_	GTtags=Sem/Time
+6	нин	нин	ADV	Adv	AdvType=Tim	11	advmod	_	GTtags=Sem/Time
 7	ылалӧм	ылавны	VERB	V	Tense=Past|VerbForm=Part	8	acl	_	GTtags=IV,Der,Der/ӧм,PastPtc
 8	синмӧн	син	NOUN	N	Case=Ins|Number=Sing	11	xcomp	_	GTtags=Sg,Ins
 9	стрӧитчысьясыслысь	стрӧитчыны	VERB	V	Case=Abl|Nomzr=Ag|Number=Plur|Number[psor]=Sing|Person[psor]=3	10	nmod:poss	_	GTtags=Refl,Der,Der/ысь,Der/NomAg,N,Pl,Abl|PxSg3
@@ -74,9 +74,9 @@ The following 3 pairs of parts of speech are connected with `nmod:obj`: <tt><a h
 15	найӧс	сійӧ	PRON	Pron	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	obj	_	GTtags=Pers,Pl3,Acc|SpaceAfter=No
 16	,	,	PUNCT	PUNCT	_	21	punct	_	_
 17	и	и	CCONJ	CC	_	21	cc	_	_
-18	быттьӧкӧ	быттьӧкӧ	ADV	Adv	_	21	advmod:eval	_	GTtags=Parenthetic
-19	сэтшӧма	сэтшӧма	ADV	Adv	_	21	advmod:mmod	_	GTtags=Det,Dem,Sg,Der,Der/ProprietiveMod,A,Sg|Nom
-20	нин	нин	ADV	Adv	Case=Nom|Number=Sing	21	advmod:tmod	_	GTtags=Sg,Nom
+18	быттьӧкӧ	быттьӧкӧ	ADV	Adv	_	21	advmod	_	GTtags=Parenthetic
+19	сэтшӧма	сэтшӧма	ADV	Adv	_	21	advmod	_	GTtags=Det,Dem,Sg,Der,Der/ProprietiveMod,A,Sg|Nom
+20	нин	нин	ADV	Adv	Case=Nom|Number=Sing	21	advmod	_	GTtags=Sg,Nom
 21	омӧльтчӧма	омӧльтчыны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	1	conj	_	GTtags=Refl,Ind,Prt2,Sg3|SpaceAfter=No
 22	,	,	PUNCT	PUNCT	_	23	punct	_	_
 23	ёсьвидзисны	ёсьвидзны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	1	conj	_	GTtags=IV,Ind,Prt1,Pl3
