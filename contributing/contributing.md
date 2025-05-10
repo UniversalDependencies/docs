@@ -20,6 +20,9 @@ Contents:
   - [Style guidelines](#style-guidelines)
   - [Visualization of syntactic trees](#visualization-of-syntactic-trees)
 * [Things to avoid](#things-to-avoid)
+  - [Do not create AUX.md nor aux.md](#do-not-create-auxmd-nor-auxmd)
+  - [Do not use Jekyll directives](#do-not-use-jekyll-directives)
+  - [Be careful with language-specific documentation](#be-careful-with-language-specific-documentation)
 
 Quick links to other pages:
 
