@@ -28,7 +28,7 @@ udver: '2'
 ### Contributing Data
 
 * **New contributions:** If you want to start a treebank or contribute to a release, please see:
-   - Advice on [how to start](how_to_start.html) a new treebank
+   - Advice on [how to start](contributing/how_to_start.html) a new treebank
    - Technical steps in the [release checklist](release_checklist.html)
 
 * **Data corrections:** If you do not want to commit to maintaining a treebank but you want to help fix a particular bug in the data, you can submit a pull request against the **dev** branch of its GitHub repository. _The master branch should not be modified as it is built automatically by the release pipeline._
