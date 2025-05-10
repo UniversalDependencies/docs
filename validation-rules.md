@@ -10,7 +10,7 @@ The following mechanism ensures that we can add new validation tests on one hand
 lose old treebanks on the other hand. Note that “new tests” do not really mean new guidelines.
 These tests typically check guidelines that were already valid before but we were not able to
 test them.
-See the [release checklist](release_checklist.html) for general information on validation and
+See the [release checklist](/contributing/release_checklist.html) for general information on validation and
 treebank requirements.
 See the [online validation report](http://quest.ms.mff.cuni.cz/udvalidator/)
 for the current status of the `dev` branch of each treebank.
