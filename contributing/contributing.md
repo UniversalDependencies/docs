@@ -27,6 +27,7 @@ Contents:
 
 Quick links to other pages:
 
+* [Github pages](https://pages.github.com/)
 * [Markdown syntax](http://daringfireball.net/projects/markdown/syntax)
 * [Embedded visualization of dependencies](/contributing/visualization.html)
 

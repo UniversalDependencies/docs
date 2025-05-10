@@ -4,56 +4,17 @@ title:  'Visualisation'
 udver:  '2'
 ---
 
-
-# Quick introduction (test)
-
-This online repository contains dependency annotation documentation
-and visualizations, built using a combination of Jekyll, GitHub pages
-and embedded brat visualizations. Here's a minimal example:
-
-<div class="example" markdown="1">
-
-An adjectival complement of a verb is an adjectival phrase which functions as the complement (see [ADJ]()).
-
-~~~ sdparse
-She looks very beautiful
-acomp(looks, beautiful)
-~~~
-
-</div>
-
-The text is [Markdown](http://daringfireball.net/projects/markdown/syntax)
-(with optional inline HTML) and the data for the visualizations is
-represented in either the Stanford Dependency or CoNLL-X format. For
-example, the above visualization is generated from this input:
-
-    An adjectival complement of a verb is an adjectival phrase which functions as the complement (see [ADJ]()).
-
-    ~~~ sdparse
-    She looks very beautiful
-    acomp(looks, beautiful)
-    ~~~
-
-See the [links below](#more-information) for more information.
-
-## How to contribute
+# Automatic parse visualization
 
 See [here](/contributing/contributing.html) for instructions on how to contribute to
 this online documentation. See below for details
 on how the visualized examples are created.
 
-## More information:
-
 The following sources of documentation provide further details:
 
-- [Markdown](http://daringfireball.net/projects/markdown/syntax)
-- [Github pages](https://pages.github.com/)
-- [Embedded brat](http://brat.nlplab.org/embed.html)
-- [Stanford Dependencies](http://nlp.stanford.edu/software/stanford-dependencies.shtml)
-
-Further details are provided below.
-
-# Automatic parse visualization
+* [Markdown](http://daringfireball.net/projects/markdown/syntax)
+* [Embedded brat](http://brat.nlplab.org/embed.html)
+* [Stanford Dependencies](http://nlp.stanford.edu/software/stanford-dependencies.shtml)
 
 ## Simple examples
 
