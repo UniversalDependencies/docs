@@ -307,9 +307,11 @@ worked for them does not necessarily mean that it is safe for you to use it, too
 following are Jekyll include directives that occur in language-specific documentation of some languages
 (here in Czech):
 
-    {% include cs-pos-table.html %}
-    {% include cs-feat-table.html %}
-    {% include cs-dep-table.html %}
+```
+{% include cs-pos-table.html %}
+{% include cs-feat-table.html %}
+{% include cs-dep-table.html %}
+```
 
 If you copy them to language with code `xx` and simply replace `cs` with `xx`, it will not work because
 Jekyll will not find the HTML file to be included. It will crash and the website will stop updating.
