@@ -47,7 +47,7 @@ gives
 2    run    run    _    VBP    _    0    ROOT
 ~~~
 
-Similarly, the new <a href="format.html">CoNLL-U format</a> is now supported as well:
+Similarly, the new [CoNLL-U format](/format.html) is now supported as well:
 
     ~~~ conllu
     # I wrote the letter with a quill.
