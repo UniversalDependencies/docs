@@ -367,7 +367,7 @@ run your local validator with wrong configuration (or if you do not have the lat
 validator), you may be led to think that your treebank is in good shape, while the fact is that the
 server will reject it.
 
-See a separate page on [validation rules](validation-rules.html), which explains the various
+See a separate page on [validation rules](/contributing/validation-rules.html), which explains the various
 validation levels, as well as the consequences of your treebank's not being valid at release time.
 
 The validation script is available in the [tools](https://github.com/UniversalDependencies/tools)
