@@ -34,4 +34,4 @@ xcomp(egiten-6, zail-5)
 aux(egiten-6, da-7)
 punct(egiten-6, .-8)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:43 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:19 CEST -->

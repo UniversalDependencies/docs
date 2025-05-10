@@ -11,4 +11,4 @@ This relation captures an existential *there* or *it* in extraposition construct
 There is a ghost in the room
 expl(is, There)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:53 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:30 CEST -->

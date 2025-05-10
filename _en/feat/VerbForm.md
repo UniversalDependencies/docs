@@ -53,4 +53,4 @@ Note that some forms derived from *-ing* verbs are tagged as [NOUN]()s; these do
 * _Buffett's usual justification for <b>keeping</b> most of his money_
 * cf. _The opening of the store was delayed._: _opening_ is tagged as a [NOUN](), so it has no `VerbForm`
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:10 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:40 CEST -->

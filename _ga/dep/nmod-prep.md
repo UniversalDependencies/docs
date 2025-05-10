@@ -33,4 +33,4 @@ _Níl fhios <b>agam</b>_ `I don't know'
 Níl fhios agam \n Is_not knowledge at_me
 nmod:prep(Níl,agam)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:06 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:45 CEST -->

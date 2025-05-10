@@ -18,3 +18,4 @@ Uh , tita ge dan nî ra . \n Uh , I DECL win will IPFV .
 discourse(dan, Uh-1)
 discourse(win, Uh-10)
 ~~~
+<!-- Interlanguage links updated So 10. května 2025, 18:15:27 CEST -->

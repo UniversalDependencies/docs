@@ -68,4 +68,4 @@ This avoids apparent anomalies like non-copular `PROPN`s with subjects.
 * _pastimes <b>such as</b> eating cake_ (_such_ = `ADJ`)
 * _I brought an umbrella <b>in case</b> it rains_ (_in_ = `ADP`)
 * _Let's walk <b>instead of</b> taking the bus_ (_instead_ = `ADV`)
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:40 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:06 CEST -->

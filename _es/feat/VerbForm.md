@@ -59,4 +59,4 @@ Gerunds are verb forms that function as adverbs or can be used in verb tense con
 * _cantando_ "singing"
 * _comiendo_ "eating"
 * _yendo_ "going"
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:10 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:40 CEST -->

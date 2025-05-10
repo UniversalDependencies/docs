@@ -23,4 +23,4 @@ Acronyms of proper nouns, such as _NATO_ and _ГЭС_, should be tagged `PROPN`.
 - _NATO_, _ККМ_ , _ГЭС_
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:25 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:48 CEST -->

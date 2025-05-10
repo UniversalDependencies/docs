@@ -64,4 +64,4 @@ The relation `obl` is used for adverbs as well, as boundaries between nouns in o
 
 ~~~
 'I leave it here'.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:15 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:56 CEST -->

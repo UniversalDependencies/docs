@@ -54,3 +54,4 @@ The third person refers to one or more persons that are neither speakers nor add
   _ǁîgu_ "they (masc.)", _ǁîdi_ "they (fem.)", _ǁîn_ "they (neut.)"
 
 * _khoeb_ "person"
+<!-- Interlanguage links updated So 10. května 2025, 18:14:24 CEST -->

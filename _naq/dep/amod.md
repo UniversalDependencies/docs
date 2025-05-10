@@ -22,3 +22,4 @@ advmod(wild, very)
 amod(ǃgaeǁaresa, ǂguro)
 amod(allegiance, first)
 ~~~
+<!-- Interlanguage links updated So 10. května 2025, 18:14:58 CEST -->

@@ -41,4 +41,4 @@ X: Other
 * _john.doe@universal.org, http://universaldependencies.org/_
 * _#universaldependencies_
 * _@johndoe_
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:27 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:50 CEST -->

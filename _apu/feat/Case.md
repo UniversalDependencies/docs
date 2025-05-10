@@ -68,4 +68,4 @@ The temporal case is used to indicate duration or point in time `-saaky`
 * [apu] _<b>Ĩkanapyryãkasaaky</b>_ "when he returned"
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:33 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:57 CEST -->

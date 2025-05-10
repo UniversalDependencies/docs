@@ -67,4 +67,4 @@ _Caithfidh mé sin <b>a</b> fhoghlaim_ `I will have <b>to</b> learn that'
 Caithfidh mé sin a fhoghlaim \n will_have I that to learn
 mark(fhoghlaim, a)
 ~~~ 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:00 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:38 CEST -->

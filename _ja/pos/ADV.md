@@ -29,4 +29,4 @@ _<b>明日</b>&nbsp;_ “tomorrow”).
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adverb?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAdverbLinguistics.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Adverb)
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:19 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:41 CEST -->

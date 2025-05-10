@@ -16,4 +16,4 @@ discourse(tror,Nei)
 Åhh , det er mye \n Oh , that is a lot
 discourse(mye,Åhh)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:50 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:27 CEST -->

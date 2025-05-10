@@ -36,4 +36,4 @@ By the current release of FI_FTB (FinnTreeBank), the manual annotation of
 punctuation marks has not been completed. Instead the automatic
 annotation links the punctuation marks to the closest token
 available (usually the previous one).
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:27 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:16:10 CEST -->

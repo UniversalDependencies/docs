@@ -14,4 +14,4 @@ ba be hoke Rio Luis . \n You will go to Rio Luis.
 obl:mod (hoke, Rio)
 ~~~
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:20 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:16:02 CEST -->

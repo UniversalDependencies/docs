@@ -11,4 +11,4 @@ A clausal complement of a verb or adjective is a dependent clause with an intern
 Explícame que estás haciendo . \n Explain me what you are doing .
 ccomp(Explícame, haciendo)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:33 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:07 CEST -->

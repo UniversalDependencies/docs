@@ -54,4 +54,4 @@ udver: '2'
 
 * _Кинди <b>тяни</b> лямбошинкса токан?_ “Who should I go to <b>now</b> for warmth?"
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:30 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:54 CEST -->

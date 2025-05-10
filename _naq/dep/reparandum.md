@@ -18,3 +18,4 @@ Want [ n ] ǀnîsi ǀgaub ge . \n Because [ n ] maybe way DECL .
 reparandum(ǀnîsi, n-3)
 reparandum(maybe, n-12)
 ~~~
+<!-- Interlanguage links updated So 10. května 2025, 18:16:11 CEST -->

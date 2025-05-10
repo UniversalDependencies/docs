@@ -73,3 +73,4 @@ With `VerbForm=Part`, there should be values for [Gender](hbo-feat/Gender) and [
 ## XPOS
 
 All words tagged `VERB` have BHSA POS tag `verb`, except the existentials, which are tagged `subs`.
+<!-- Interlanguage links updated So 10. května 2025, 18:13:51 CEST -->

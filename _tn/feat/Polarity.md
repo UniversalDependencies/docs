@@ -22,4 +22,4 @@ In Tswana [Polarity]() is only indicated for negative values as `Neg` and applie
 #### Examples
 
 * _<b>Ga</b>_ ba na kakanyo epe gore e kwadilwe ke mang. “They have no idea who wrote it.”
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:59 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:28 CEST -->

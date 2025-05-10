@@ -20,4 +20,4 @@ Jeg er norsk i Norge, og fransk i Frankrike \n I am Norwegian in Norway and Fren
 conj(norsk,fransk)
 orphan(fransk,Frankrike)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:23 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:16:05 CEST -->

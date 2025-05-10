@@ -48,4 +48,4 @@ Moreover, the relation `aux` is used with a marker of retrospective _tùn_, whi
 ~~~
 
 'I gave another cunning to you'.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:27 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:59 CEST -->

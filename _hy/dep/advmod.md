@@ -49,4 +49,4 @@ obl(came, to-the-party)
 
 We use a special label, [advmod:emph]() for adverbial modifiers that are used for emphasis.
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:20 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:51 CEST -->

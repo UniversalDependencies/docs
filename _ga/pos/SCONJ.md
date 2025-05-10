@@ -28,4 +28,4 @@ There is also a special case of tagging _agus_ "and" as a subordinate conjunctio
 
 
 Source: Studies in Irish Syntax, Nancy Stenson (1981), Tübingen: Gunter Narr Verlag
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:26 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:49 CEST -->

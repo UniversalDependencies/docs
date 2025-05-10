@@ -15,4 +15,4 @@ ontʔa // bak ʔabk -i -n / w= hi i- ni =oː =hoːb // ajwa / a- di =t
 text_en: So, when he told me: "Take the lamb like that! " I said: "Yes", [and]
 cc(di, =t) ("say", CCONJ)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:32 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:06 CEST -->

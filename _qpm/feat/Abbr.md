@@ -23,4 +23,4 @@ Note that the abbreviated word(s) typically belong(s) to a part of speech other 
 * Abbreviations:
   _<b>i.d.</b>  *(i drúgo / drúgy / drúzi)*  "et cetera (etc.)"
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:29 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:53 CEST -->

@@ -25,4 +25,4 @@ To conform to the UD guidelines, possessive adjectives are handled as determiner
 * _verd_ "green"
 * _incomprensible_ “incomprehensible”
 * _primer_ "first", _segon_ "second", _tercer_ "third"
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:17 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:39 CEST -->

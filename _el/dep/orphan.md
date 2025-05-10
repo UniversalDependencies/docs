@@ -19,4 +19,4 @@ remnant(Προοδευτική, Ιωνικός)
 remnant(Αιγάλεω, Δόξα)
 ~~~
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:22 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:16:05 CEST -->

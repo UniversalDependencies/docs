@@ -26,3 +26,4 @@ case('compass', QUOT)
 case(ǁîb, di)
 case(he, 's)
 ~~~
+<!-- Interlanguage links updated So 10. května 2025, 18:15:04 CEST -->

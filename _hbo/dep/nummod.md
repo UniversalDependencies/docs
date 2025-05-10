@@ -78,3 +78,4 @@ _ṿayerdu ʼaḥe yosef **ʻaśarah** lishbor bar mimitsrayim_
 
 _And the **ten** brothers of Joseph went down to buy grain from Egypt._
 
+<!-- Interlanguage links updated So 10. května 2025, 18:15:52 CEST -->

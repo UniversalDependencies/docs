@@ -131,4 +131,4 @@ required by a preposition).
 
 * _Հուլիսին ես <b>Շվեդիայում</b> էի։&nbsp;_ “In July I was in <b>Sweden</b>.”
 * _Մի <b>ժամում</b> հասավ։&nbsp;_ “lit: He got there in an <b>hour</b>.”
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:33 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:57 CEST -->

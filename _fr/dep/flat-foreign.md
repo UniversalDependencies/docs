@@ -15,4 +15,4 @@ of the host language.
 C'est le créateur de The Tenth \n He is the creator of The Tenth
 flat:foreign(The, Tenth)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:56 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:34 CEST -->

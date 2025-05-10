@@ -89,4 +89,4 @@ The verbal noun in Komi-Zyrian represents a mixture of verb and nominal features
 
 * [kpv] _<b>Мудзӧм</b> бӧрад и пиня тув вылын узьсяс._ "after you get tired, you will even want to fall asleep when you're lying on spikes"
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:10 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:40 CEST -->

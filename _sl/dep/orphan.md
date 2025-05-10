@@ -46,4 +46,4 @@ obl(it-is-9,procedure)
 case(procedure,about-10)
 ~~~
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:23 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:16:05 CEST -->

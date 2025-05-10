@@ -327,3 +327,4 @@ _ויגדל האיש וילך הלוך וגדל **עד כי**־גדל מאד׃_
 _ṿayigdal haʼish ṿayelekh halokh ṿegadel **ʻad** ki gadal meʼod_
 
 _And the man went, going and growing strong, **until** he was very strong._
+<!-- Interlanguage links updated So 10. května 2025, 18:15:32 CEST -->

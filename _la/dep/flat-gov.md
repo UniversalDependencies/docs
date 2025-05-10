@@ -25,4 +25,4 @@ acl:relcl(victims,...-19)
 'Now add to their number those most holy **victims**, the **Decii**, who ...' (*De Monarchia*, UDante)
 
 * Note: the Decii themselves are the victims; there are no victims caused by ("belonging to") them. The English translation indeed conveys this expression with a mere apposition.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:56 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:34 CEST -->

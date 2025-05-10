@@ -37,4 +37,4 @@ is no such thing as “affirmative pronoun”.)
 * _<b>неразумный</b>&nbsp;_ “unwise”
 * _<b>нехорошо</b>&nbsp;_ “nastily”
 * _<b>неприятие</b>&nbsp;_ “non-acceptance, rejection”
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:59 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:28 CEST -->

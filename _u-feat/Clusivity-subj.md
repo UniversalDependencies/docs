@@ -38,4 +38,4 @@ Excludes the listener, i.e. _we_ = _I + they._
 
 * [gun] _Upei <b>roiko</b> upeicha._ “Then we (I+they) lived like this.” (lit. afterwards A1.PL.EXCL-live like.this)
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:35 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:59 CEST -->

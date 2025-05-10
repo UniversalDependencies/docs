@@ -58,4 +58,4 @@ Meillet, Antoine. 1962. _Études de linguistique et de philologie arméniennes. 
 Kocharov, Petr. 2022. The mixed aorist subjunctive in Classical Armenian. _Indogermanische Forschungen_ 127/1: 169–200.
 
 Weitenberg, Jos. 1993. The use of the classical Armenian subjunctive forms in the fifth century and in middle Armenian Grabar texts: Koriwn and Grigor Aknercʿi. In: S. Simonian, J. Weitenberg (eds.), _Computers in Armenian Philology_. Yerevan: Armenian Academy Press: 72−100.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:48 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:15 CEST -->

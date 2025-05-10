@@ -27,4 +27,4 @@ iobj(pāyaya, devā́n)
 obj(pāyaya, havís)
 acl:attr(devā́n, uśatás)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:13 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:43 CEST -->

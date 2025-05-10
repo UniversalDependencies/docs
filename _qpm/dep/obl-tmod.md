@@ -13,4 +13,4 @@ lit: blood will be-gathering-they on Wednesday
 "they will be gathering blood on Wednesday"
 obl:tmod(zbírot, Srǽdo)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:22 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:16:04 CEST -->

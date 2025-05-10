@@ -25,4 +25,4 @@ Jurnalni do’stlarimga o’qidim \n   I read the book to the my friend
 obl(o’qidim, do’stlarimga)
 ~~~
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:15 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:56 CEST -->

@@ -22,4 +22,4 @@ nmod:poss(anstalt, Statens)
 amod(anstalt, veterinärmedicinska)
 ~~~
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:56 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:35 CEST -->

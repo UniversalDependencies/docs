@@ -11,4 +11,4 @@ udver: '2'
 Am patru mii de lei . \n Have-I four thousand of lei .
 compound(mii, patru)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:36 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:11 CEST -->

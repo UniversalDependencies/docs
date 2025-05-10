@@ -13,4 +13,4 @@ Uralic interjections do not have big differences to Universal ones.
 
 * [fi] _nam_ "yum", _voi_ "oh", _vittu_ "fuck"
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:22 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:44 CEST -->

@@ -46,3 +46,4 @@ In Khoekhoe, it pertains to only four types of words:
 * _hî-î_ "no"
 
 * _nee_ "no"
+<!-- Interlanguage links updated So 10. května 2025, 18:14:28 CEST -->

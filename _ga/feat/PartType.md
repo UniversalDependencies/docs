@@ -118,4 +118,4 @@ The vocative particle is _<b>a</b>_, and is used to directly address someone. In
 
 * _Slán leat, <b>a</b> Mhichíl ghrinn._ “Goodbye, funny Michael.”
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:55 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:23 CEST -->

@@ -82,4 +82,4 @@ nsubj:pass(revealed,with-face)
 
 * Pinkster, H. (1990). *Latin syntax and semantics*, Routledge.
 * Nikitina, T., Haug, D. T. T. (2016). *Syntactic nominalization in Latin: a case of non-canonical subject agreement*, Transactions of the Philological Society, 114:1, 25–50.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:15 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:47 CEST -->

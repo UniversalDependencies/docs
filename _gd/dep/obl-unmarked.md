@@ -50,3 +50,4 @@ obl:unmarked(fad, bidh)
 nmod(bliadhna, fad)
 nummod(deich, bliadhna)
 ~~~
+<!-- Interlanguage links updated So 10. května 2025, 18:16:04 CEST -->

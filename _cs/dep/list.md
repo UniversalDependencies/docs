@@ -29,4 +29,4 @@ appos(e-mail:-5, jones@abc.edf-6)
 ### Prague Dependency Treebank
 
 The `list` relation is not used in the current conversion of the PDT data to UD.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:59 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:38 CEST -->

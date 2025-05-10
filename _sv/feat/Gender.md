@@ -27,4 +27,4 @@ Nouns and other parts of speech that are neither masculine nor feminine (grammat
 
 * [sv] _<b>fullt bostadstillägg</b>_ "full housing supplement"
 * [sv] _<b>det</b> första <b>kravet</b>_ "the first <b>requirement"
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:42 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:08 CEST -->

@@ -22,4 +22,4 @@ The `flat` relation is one of the relations used for multiword expressions multi
 
 ~~~
 'He says: "Mamadu Tarawele"'.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:55 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:32 CEST -->

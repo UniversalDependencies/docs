@@ -135,4 +135,4 @@ These verbs include (non-neutral-tone versions of): 着 / _zháo_ "touched, got 
 ### References
 
 - Chao, Yuan Ren. 1968. A Grammar of Spoken Chinese. University of California Press.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:40 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:15 CEST -->

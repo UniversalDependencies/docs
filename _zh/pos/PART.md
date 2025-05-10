@@ -34,4 +34,4 @@ In Chinese, particles include the genitive/associative/relativizer/nominalizer m
   - 他們 一定 來 <b>的</b> ／ _tāmen yīdìng lái <b>de</b>_ "They will definitely come."
 - Object relativizer 所
   - 他 <b>所</b> 戴 的 帽子 / _tā <b>suǒ</b> dài de màozi_ "the hat that he wears"
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:24 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:47 CEST -->

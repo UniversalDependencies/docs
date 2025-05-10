@@ -31,4 +31,4 @@ The `ccomp:obj` relation is used in the Polish treebanks for clausal syntactic o
 8	those	_	_	_	_	_	_	_	_
 9	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:34 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:08 CEST -->

@@ -15,4 +15,4 @@ Danish has prepositions but not postposition.
 - _i_ "in/on"
 - _på_ "of/at"
 - _gennem_ "through/via"
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:18 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:40 CEST -->

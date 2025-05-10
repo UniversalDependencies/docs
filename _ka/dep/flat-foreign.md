@@ -13,4 +13,4 @@ Phrases are annotated in a flat, head-initial structure, in which all words in t
 ad hoc
 flat:foreign(ad, hoc)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:56 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:34 CEST -->

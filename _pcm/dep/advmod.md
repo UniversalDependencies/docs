@@ -70,4 +70,4 @@ The `advmod` relation is used between an adverbial phrase and the predicate or m
 8	separate	_	_	_	_	0	_	_	_
 9	us	_	_	_	_	0	_	_	_
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:20 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:52 CEST -->

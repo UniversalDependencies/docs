@@ -24,4 +24,4 @@ In UD_Classical_Armenian-CAVaL, the tag is used restrictively when no other tag 
 Jensen, Hans. 1959. Altarmenische Grammatik. Heidelberg: Winter.
 
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>)
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:24 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:47 CEST -->

@@ -15,4 +15,4 @@ advmod(fornøyd, også)
 skal nå lede \n will now lead
 advmod(lede, nå)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:20 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:52 CEST -->

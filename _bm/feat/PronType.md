@@ -66,4 +66,4 @@ This value is used with the interrogative adverb _min_ "where".
 * _I bè taga <b>min</b>?_ "Where are you going?"
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:01 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:30 CEST -->

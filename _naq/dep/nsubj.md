@@ -38,3 +38,4 @@ cop(tall, Amos.3M.SG.SBJ)
 The subject of the clause can also be a nominalized clause (see [csubj](naq-dep/csubj)). 
 
 For subtypes [nsubj:pass](naq-dep/nsubj-pass) and [csubj:pass](naq-dep/csubj-pass)) are used for the grammatical subject of a passivized verb.
+<!-- Interlanguage links updated So 10. května 2025, 18:15:47 CEST -->

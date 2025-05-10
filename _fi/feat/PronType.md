@@ -105,4 +105,4 @@ However, as the
 [UD `PronType=Neg`](http://universaldependencies.org/u/feat/PronType.html)
 feature only covers inherently negative pronouns, UD Finnish assigns
 the `PronType` value `Ind` to these pronouns.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:01 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:30 CEST -->

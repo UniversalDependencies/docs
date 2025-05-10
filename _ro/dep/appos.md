@@ -56,4 +56,4 @@ appos(tel, 0245.756.547)
 list(Ana, email)
 appos(email, ana@yahoo.com)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:26 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:59 CEST -->

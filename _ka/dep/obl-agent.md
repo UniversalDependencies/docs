@@ -17,4 +17,4 @@ The `obl:agent` relation is used for the agent of a passive verb, a participle o
 4	ძიება	ძიება	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	0	root	_	LMSeg:ძიებ[ა]/ძი
 
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:14 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:57 CEST -->

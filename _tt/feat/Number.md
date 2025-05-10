@@ -44,4 +44,4 @@ Plurality on verbs is indicated by a person/number suffix which varies depending
 * *укыды<b>к</b>* '(We) read-PAST' `Number=Plur|Person=1|Tense=Past|VerbForm=Fin`
 * *Укучы<b>лар</b> китап укыячак(<b>лар</b>)* "The students will read books" -- the plural marker on the verb is optional.
 * *Китап укыячак<b>лар</b>* "(They) will read books" -- Plurality of the subject is inferred from the agreement marker on the verb.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:51 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:18 CEST -->

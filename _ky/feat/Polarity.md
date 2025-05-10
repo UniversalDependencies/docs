@@ -26,4 +26,4 @@ _эмес_ is marked as `Negative=Neg` when it is used as a copula or auxiliary.
 - _Али дарыгер <b>эмес</b>_ "Ali is not a doctor"
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:59 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:28 CEST -->

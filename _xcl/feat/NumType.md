@@ -65,4 +65,4 @@ Expresses a number of entities represented as a whole.
 Jensen, Hans. 1959. _Altarmenische Grammatik._ Heidelberg: Winter.
 
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>)
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:54 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:22 CEST -->

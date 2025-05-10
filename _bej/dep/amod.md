@@ -12,4 +12,4 @@ mʔ -aːna di -ja waliːk -a =b =u =it / sagi haːʃ =iː // beːn / ʔarjab =wa
 text_en: So, he was calling (others), saying "Come!", from far away in the direction of Aryab.
 amod(haːʃ, sagi) ("land", "far")
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:25 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:57 CEST -->

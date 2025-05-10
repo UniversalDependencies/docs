@@ -11,4 +11,4 @@ Welsh has only a definit article, which is identical for both genders and both n
 * _y_: in all other cases: _Mi welais y dyn_ "I saw the man"
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:21 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:43 CEST -->

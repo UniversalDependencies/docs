@@ -18,4 +18,4 @@ csubj(келген , Балдардын)
 csubj(койбойбу, Мырзагүлдү )
 ~~~
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:43 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:19 CEST -->

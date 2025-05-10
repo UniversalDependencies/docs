@@ -54,4 +54,4 @@ About 200 people came to the party
 advmod(200, About)
 ~~~
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:20 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:52 CEST -->

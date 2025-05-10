@@ -31,4 +31,4 @@ relation to the quantified noun is not `nummod` but [det]():
 Há muitos servidores da Internet
 det(servidores, muitos)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:11 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:52 CEST -->

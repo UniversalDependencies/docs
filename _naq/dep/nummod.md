@@ -26,3 +26,4 @@ Note that indefinite quantifiers such as _ǀoro_ "few", _ǂgui_ "many" are tagge
 det(khoega, ǂgui)
 de(people, many)
 ~~~
+<!-- Interlanguage links updated So 10. května 2025, 18:15:52 CEST -->

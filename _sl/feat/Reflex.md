@@ -29,4 +29,4 @@ Note that reflexive pronoun _se_ can also be used in subjectless passive constru
 
 ### Conversion from JOS
 All pronouns with feature Type=reflexive are converted to UD `Reflexice=Yes`.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:04 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:33 CEST -->

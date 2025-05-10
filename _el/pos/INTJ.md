@@ -37,4 +37,4 @@ As a special case of interjection, we recognize feedback particles such as *yes*
 Τριανταφυλλίδης, Μανόλης. 1941, Reprinted 2000. *Νεοελληνική Γραμματική. Αθήνα: Οργανισμός Εκδόσεως Διδακτικών Βιβλίων*: 203-205.
          
 https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:22 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:44 CEST -->

@@ -15,4 +15,4 @@ In Classical Armenian, the `compound:redup` relation is used for repeated words,
 5	երկուս	երկու	NUM	_	_	4	compound:redup	_	_
 ~~~
 “sent them two and two” (Lk. 10:1)
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:39 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:14 CEST -->

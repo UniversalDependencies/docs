@@ -55,4 +55,4 @@ Holton, David, Peter Mackridge & Irene Philippaki-Warburton. 1997. *Greek: A Com
 Κλαίρης, Χρήστος  & Γεώργιος Μπαμπινώτης. 2001. *Γραμματική της Νέας Ελληνικής* Τόμος Γ’. 2η έκδοση. Αθήνα: Ελληνικά Γράμματα. 
 
 Τζάρτζανος, Αχιλλέας, 2002. *Νεοελληνική Σύνταξις της Κοινής Δημοτικής*. Αθήνα: Εκδόσεις Κυριακίδη. σελ. 225.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:24 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:47 CEST -->

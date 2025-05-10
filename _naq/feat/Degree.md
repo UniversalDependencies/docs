@@ -26,3 +26,4 @@ Morphologically derived form that indicates small size, or, metaphorically, affe
 * _ǂkhari_ "small", _ǂkhariro_ "tiny"
 
 * _ǂoa_ "go out", _ǂoaro_ "go out for a little"
+<!-- Interlanguage links updated So 10. května 2025, 18:14:02 CEST -->

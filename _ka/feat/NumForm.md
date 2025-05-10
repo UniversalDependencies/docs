@@ -50,4 +50,4 @@ The `NumForm` feature applies to [numerals](_ka/pos/NUM). In addition to words, 
 * _ⴀ '1', ⴁ '2', ⴂ '3' etc._
 * _Ⴀ '1', Ⴁ '2', Ⴂ	'3' etc._
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:53 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:21 CEST -->

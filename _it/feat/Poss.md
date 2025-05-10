@@ -14,4 +14,4 @@ Boolean feature of pronouns or adjectives. It tells whether the word is possessi
 * Possessive pronouns: _La <b>sua</b> è migliore_ "Hers is better", _I <b>suoi</b> sono felici_ "Her/his [parents] are happy"
 * Possessive adjectives: _La <b>sua</b> scuola è migliore_ "Her/his school is better", _I <b>loro</b> amici_ "Their friends".
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:00 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:29 CEST -->

@@ -50,4 +50,4 @@ In Tatar, collective numeral is expressed by the suffix _-әү/-ау_.
 
 * _без икәү_ "we two"
 * _ничәү барасыз_ "how many of you are going"
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:54 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:22 CEST -->

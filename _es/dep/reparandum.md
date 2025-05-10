@@ -39,4 +39,4 @@ Yo tenía , yo tenía una casa en la montaña . \n I had , I had a house in the 
 reparandum(tenía-5, tenía-2)
 ~~~
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:28 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:16:11 CEST -->

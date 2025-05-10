@@ -21,4 +21,4 @@ The word "zu" also receives the relation `mark` when it is used to mark an infin
 mark(retten, um)
 mark(retten, zu)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:00 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:38 CEST -->

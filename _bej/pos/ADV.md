@@ -14,4 +14,4 @@ We consider ideophones as adverbs.
 
 - _<b>diːseːt</b> ʔit_ "<b>slowly</b> fall asleep"
 - _<b>kak</b> jʔ -aː ?_ "<b>how</b> have you come ?"
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:19 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:40 CEST -->

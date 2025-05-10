@@ -94,4 +94,4 @@ The iterative / frequentative aspect is combined with the progressive aspect to 
 #### Examples
 - _munàː <b>ta</b> kaucè hanyàː //_ " We <b>kept</b> straying from the path."
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:32 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:56 CEST -->

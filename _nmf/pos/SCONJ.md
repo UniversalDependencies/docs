@@ -17,3 +17,4 @@ Clitic _di_ is a clausal nominalizer/relativiser, e.g. _Ba [lhohn mohn gali chur
 * _di_: nominalizer, relativizer
 * _gase_ "for" (introducing purposive clauses)
 * _regwenan_ "if"
+<!-- Interlanguage links updated So 10. května 2025, 18:13:50 CEST -->

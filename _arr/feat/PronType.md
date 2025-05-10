@@ -89,4 +89,4 @@ Indefinite pronoun
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:01 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:30 CEST -->

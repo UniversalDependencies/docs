@@ -11,4 +11,4 @@ This subtype is borrowed from the Classical Chinese treebank where it is used fo
 八寸の馬とぞ聞えし。 \n  It was rumoured that it was a horse eight *sun* taller [than others]. 
 discourse:sp(聞えし, ぞ)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:51 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:28 CEST -->

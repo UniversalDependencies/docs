@@ -21,4 +21,4 @@ The diminutive is expressed with the noun modifier *a'i*, always bound to its ho
 #### Examples
 
 * _<b>Pixik-a'i</b> a'e taw&nbsp;_ “That village is very small” (small-DIM PRON village)
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:37 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:02 CEST -->

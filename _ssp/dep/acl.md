@@ -19,4 +19,4 @@ The category `acl` is used for clauses that modify a nominal, but not for modifi
 4	cl.e(1):PERSONA-aproximarse	_	VERB	V.D	_	3	acl	_	Gloss=cl
 ~~~ 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:12 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:43 CEST -->

@@ -70,4 +70,4 @@ det(ⲥⲃⲱ, ⲟⲩ)
 nmod(ⲥⲃⲱ, ⲃⲣⲣⲉ)
 case(ⲃⲣⲣⲉ, ⲛ)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:07 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:47 CEST -->

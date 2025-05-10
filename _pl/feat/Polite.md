@@ -22,4 +22,4 @@ as opposed to _profesorowie_ “professors (neutral)”. The neutral forms are n
 
 * [pl] _<b>profesory</b>_ “professors”
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:59 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:28 CEST -->

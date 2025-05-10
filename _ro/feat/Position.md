@@ -35,4 +35,4 @@ as derivational, that is, they have different lemmas.
 * _<b>ăștia</b>_ “these” (masculine plural)
 * _<b>astea</b>_ “these” (feminine plural)
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:00 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:29 CEST -->

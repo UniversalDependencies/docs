@@ -47,4 +47,4 @@ The governor can also be a verb, when the dependent refers to the entire action 
 
 FI_FTB applies the universal relation [`acl`](http://universaldependencies.org/u/dep/all.html#al-u-dep/acl) instead
 of the language-specific relation `acl:relcl`.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:14 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:45 CEST -->

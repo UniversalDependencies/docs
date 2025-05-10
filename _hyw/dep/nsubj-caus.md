@@ -24,4 +24,4 @@ The infinitive verb governs the causative auxiliary with an [aux:caus]() relatio
 ~~~
 
 For more details see [specific-syntax](http://universaldependencies.org/hyw/overview/specific-syntax.html).
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:08 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:48 CEST -->

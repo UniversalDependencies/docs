@@ -58,4 +58,4 @@ Quotative combines with both voices, active and passive.<br/>
 
 
 Erelt 2003 = Estonian language. Edited by Mati Erelt. Linguistica Uralica Supplemenatry series vol 1. Tallinn: Estonian Academy Publishers.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:47 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:14 CEST -->

@@ -19,4 +19,4 @@ obj(տանել, զնա)
 
 Jensen, Hans. 1959. _Altarmenische Grammatik._ Heidelberg: Winter.
 Kocharov, Petr. 2023. Causatives in Classical Armenian. _Folia Linguistica_ 57/3: 593-627.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:28 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:01 CEST -->

@@ -20,4 +20,4 @@ For Spanish Sign Language, we use `compound:vsc` for a construction, usual in si
 ## Reference:
 Fischer, Susan & Wynn Janis (1990): Verb sandwiches in American Sign Language. In Siegmund Prillwitz & Tomas Vollhaber (Hrsg.), Current trends in European sign language research, 279–294. Hamburg: Signum Press.
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:40 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:15 CEST -->

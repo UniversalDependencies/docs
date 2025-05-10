@@ -30,3 +30,4 @@ acl:relcl(tsaoǃoreb, mâ)
 mark(stand, that)
 acl:relcl(ashtray.3M.SG, stand)
 ~~~
+<!-- Interlanguage links updated So 10. května 2025, 18:15:39 CEST -->

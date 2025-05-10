@@ -32,4 +32,4 @@ The `det` relation is used between a nominal phrase and its determiner.
 ~~~
 
 However, the [nmod:poss]() relation is used between a nominal clause and its possessive determiner, and the [nummod]() relation is used between a nominal phrase and its numeric modifier.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:48 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:25 CEST -->

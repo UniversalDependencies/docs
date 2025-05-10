@@ -35,4 +35,4 @@ have `Animacy=Anim|Animacy[gram]=Inan`.
 
 * _посилають під три <b>чорти</b>&nbsp;_ “they send (it) under three devils” (idiomatic expression)
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:31 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:55 CEST -->

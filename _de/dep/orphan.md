@@ -39,4 +39,4 @@ obj(kauft-9, rotes-12)
 iobj(kauft-9, sich-10)
 det(rotes-12, ein-11)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:22 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:16:05 CEST -->

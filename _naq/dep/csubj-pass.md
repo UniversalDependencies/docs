@@ -13,3 +13,4 @@ csubj:pass(mîǁguihe, ǁkharahe)
 csubj:pass(be_decided, be_punished)
 ~~~
 
+<!-- Interlanguage links updated So 10. května 2025, 18:15:21 CEST -->

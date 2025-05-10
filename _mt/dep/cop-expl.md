@@ -10,4 +10,4 @@ Kien fit- tieni lejl li qam ... \n It was on the second night that he woke up ..
 cop:expl(lejl, Kien)
 cop:expl(night, was)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:42 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:18 CEST -->

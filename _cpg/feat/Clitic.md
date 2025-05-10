@@ -22,4 +22,4 @@ Clitic pronouns are the weak forms of personal pronouns (1), also in the role of
 
 1. _mána deyí, baγərdά <b>či</b>, put’ ísu._ “He calls her saying 'where are you mother?'”
 2. _fikirsúzis <b>mu</b> ádras tiyá kalaǰí ne deyí ípis ta mi?_ “My mindless man why are you telling me this word?”
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:34 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:58 CEST -->

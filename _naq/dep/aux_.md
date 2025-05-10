@@ -25,3 +25,4 @@ aux(take, DECL)
 aux(take, come)
 aux(take, IPFV)
 ~~~
+<!-- Interlanguage links updated So 10. května 2025, 18:15:00 CEST -->

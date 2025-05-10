@@ -38,4 +38,4 @@ When proper nouns consist of multiple words, they form compound proper nouns. In
     2    de    de    ADP    _   _    4    case     _    _
     3    la    la    DET    _   Gender=Fem|Number=Sing    4    det      _	  _
     4    Plata    Plata    NOUN    _    Gender=Masc|Number=Sing    1    nmod     _
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:25 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:48 CEST -->

@@ -25,4 +25,4 @@ Such two-part coordinating conjunctions are:
 * _то ... то_ "when ... when"
 * _и ... и_ "both ... and"
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:35 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:10 CEST -->

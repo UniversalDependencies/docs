@@ -52,4 +52,4 @@ Example: [bg]
 
 Note that the symbol `#', used in the Universal POS section indicates a holder for arbitrary number of features, suppressed in the respective tag as irrelevant in the BulTreeBank tagset, when mapped to the Universal one.
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:17 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:39 CEST -->

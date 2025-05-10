@@ -27,4 +27,4 @@ These are marked as `NOUN`, whose morphological information is to be described i
 - _сәгать өчкә <b>кадәр</b>_ "<b>until</b> eight o'clock"
 - _Марат <b>өчен</b>_ "for Marat"
 - _Мараттан <b>тыш</b>_ "except Marat"
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:18 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:40 CEST -->

@@ -64,4 +64,4 @@ nsubj(good, book)
 The title is Green Eggs and Ham .
 nsubj(Eggs, title)
 ~~~
-<!-- Interlanguage links updated Ne 5. května 2024, 18:21:28 CEST -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:50 CEST -->

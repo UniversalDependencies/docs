@@ -13,4 +13,4 @@ direction or manner.
 * [kpv] _бура_ "well"
 * [kpv] _дзик_ "completely; really"
 * [kpv] _уна_ "much; many; a lot"
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:19 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:41 CEST -->

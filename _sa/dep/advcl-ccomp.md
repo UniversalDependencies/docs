@@ -16,4 +16,4 @@ flat(anna, pate)
 mark(iti, pate)
 obj(annasya, juhuyāt)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:16 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:47 CEST -->

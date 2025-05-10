@@ -18,4 +18,4 @@ See [NOUN]() for nouns and [PRON]() for pronouns.
 - Im go come reach <b>Ogere</b> now.
 - Before im reach <b>Nigeria</b> di whole sea wata corrosion everything don affect di tire.
 - You go enter <b>Lagos Ibadan</b> expressway.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:25 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:48 CEST -->

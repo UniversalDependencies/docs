@@ -17,4 +17,4 @@ particles in Uralic languages:
 * focus particles
 * negation particle when it's not a negation verb
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:24 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:47 CEST -->

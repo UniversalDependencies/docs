@@ -13,4 +13,4 @@ A subordinating conjunction is a conjunction that links constructions by making 
 
 - _quand_ "when"
 - _parce que_ "because": for multiword subordinating conjunction of the sort (e.g., _afin que_, _avant que_), _que_ is tagged as `SCONJ` and the first term is tagged as `ADV`.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:26 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:49 CEST -->

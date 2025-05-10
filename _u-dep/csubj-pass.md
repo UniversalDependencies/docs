@@ -26,4 +26,4 @@ Nepředpokládá se , že přijdete před devátou . \n It-does-not-expect itsel
 csubj:pass(Nepředpokládá, přijdete)
 csubj:pass(It-does-not-expect, you-will-come)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:45 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:21 CEST -->

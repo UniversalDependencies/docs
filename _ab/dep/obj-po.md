@@ -21,4 +21,4 @@ The `obj:po` relation marks an an object referenced by a potential(is) or involu
 
 ~~~
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:14 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:55 CEST -->

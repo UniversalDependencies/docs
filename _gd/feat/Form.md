@@ -28,4 +28,4 @@ There are many ways of marking emphasis in Scottish Gaelic and the morphological
 
 Note that from UD 2.6 onwards, _dhomh_ and _dhomhsa_ are divided into the underlying words _do_ and _mi_ or _mise_.
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:42 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:07 CEST -->

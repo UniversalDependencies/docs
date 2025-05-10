@@ -13,4 +13,4 @@ The `ADJ` tag is intended for ordinary adjectives only, see [DET]() for determin
 In Bambara, adjectives are always postposed.
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:17 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:39 CEST -->

@@ -167,4 +167,4 @@ We follow the official [UD principles](http://universaldependencies.org/u/dep/pu
 18	novels."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:27 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:16:11 CEST -->

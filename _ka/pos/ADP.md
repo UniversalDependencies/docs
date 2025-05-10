@@ -22,4 +22,4 @@ Post:  Postposition
 _სახლ<b>ში</b>_ "at home"
 _მაგიდა<b>ზე</b>_ "on table"
 _სახლის <b>ირგვლივ</b>_ "round the house"
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:18 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:40 CEST -->

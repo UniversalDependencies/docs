@@ -16,4 +16,4 @@ Note that there is no `No` value. If the word is not possessive, the
 
 * _min_ (common singular), _mitt_ (neuter singular), _mina_ (plural) "my"
 * _vars_ "whose"
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:00 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:29 CEST -->

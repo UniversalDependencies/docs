@@ -44,4 +44,4 @@ grammatical distinctions not carried by the lexical verb.
 
 Russian modal verbs are not considered auxiliary and they are tagged `VERB`.
 Their behavior is only slightly different from other content verbs.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:20 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:42 CEST -->

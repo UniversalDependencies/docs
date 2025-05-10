@@ -15,4 +15,4 @@ governor of the copular subject.
 csubj:cop(ужяль-2, кулось-8)
 nsubj(кулось-8, Мишазе-7)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:44 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:20 CEST -->

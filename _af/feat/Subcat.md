@@ -46,4 +46,4 @@ This feature is used for a transitive verb.
 
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:06 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:36 CEST -->

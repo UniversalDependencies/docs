@@ -17,4 +17,4 @@ The `obj:cs` relation marks an an causee referenced by a causee object marker.
 4	.	.	PUNCT	_	_	3	punct	_	LMSeg:.
 
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:14 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:54 CEST -->

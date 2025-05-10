@@ -11,4 +11,4 @@ A dependency is labeled as <code>dep</code> when a system is unable to determine
 è opportuno estendere tale programma vista la necessità di :
 dep(necessità, di)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:46 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:22 CEST -->

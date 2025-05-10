@@ -76,4 +76,4 @@ It is kept in FEATS in the UD conversion.
 #### Examples
 
 * _e <b>plenty</b>_ (_plenty_ = `ADJ`) "It's plenty"
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:40 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:06 CEST -->

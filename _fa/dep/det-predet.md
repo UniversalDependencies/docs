@@ -12,4 +12,4 @@ that precedes and modifies the meaning of the NP determiner.
 All the boys are here
 det:predet(boys, All)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:49 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:26 CEST -->

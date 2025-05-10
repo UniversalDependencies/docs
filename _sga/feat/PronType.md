@@ -107,4 +107,4 @@ A semantically empty pronominal form, _d_, occurs within the verbal complex foll
 * _manu<b>d</b> chinni_ “if it determines”
 * _ciado<b>d</b>chommar foi_ “though we have gone under it”
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:02 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:31 CEST -->

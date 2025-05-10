@@ -18,4 +18,4 @@ The `ccomp:speech` (direct speech clausal complement) is used for complement sen
 5	გატირებსო	დატირება	VERB	_	Number[io]=Sing|Number[subj]=Sing|Person[io]=2|Person[obj]=3|Person[subj]=3|Tense=Pres	2	ccomp:quote	_	LMSeg:და·ტირებ[ა]/ტირ|SpaceAfter=No
 6	?	?	PUNCT	_	_	2	punct	_	LMSeg:?
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:33 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:10 CEST -->

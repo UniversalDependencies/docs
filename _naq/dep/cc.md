@@ -46,3 +46,4 @@ Tsî nēs ge ǀgui mîǁguiba . \n And this DECL one claim .
 cc(mîǁguiba, tsî)
 cc(claim, and)
 ~~~
+<!-- Interlanguage links updated So 10. května 2025, 18:15:06 CEST -->

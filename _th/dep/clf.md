@@ -413,4 +413,4 @@ If there is a genitive 的 _de_ between the classifier and the noun, then the cl
 ~~~
 
 Note that classifiers are tagged as [NOUN](). The feature `NounType=Clf` is recommended for distinguishing classifiers from regular nouns.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:36 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:10 CEST -->

@@ -44,4 +44,4 @@ The negative particle _nie_ used in double negations.
 
 * _En dus, in die woorde van voormalige President Mandela, "durf ons nie talm nie, want ons lang pad is nog nie verby <b>nie</b>"._ “And therefore, in the words of former President Mandela, "we don't dare to delay, as our long path is not over yet".”
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:55 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:23 CEST -->

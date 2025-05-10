@@ -31,4 +31,4 @@ and attributive pronouns (UD tag `DET`).
 - total determiners: _каждый_
 - negative determiners: _никакой&nbsp;_ as in _У нас не осталось <b>никаких</b> машин.&nbsp;_ “We have <b>no</b> cars available.”
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:21 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:43 CEST -->

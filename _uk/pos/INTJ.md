@@ -19,4 +19,4 @@ An interjection is a word that is used most often as an exclamation or part of a
 - _ба&nbsp;_ “look”
 - _браво&nbsp;_ “bravo”
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:22 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:44 CEST -->

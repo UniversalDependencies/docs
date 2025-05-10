@@ -22,3 +22,4 @@ For coordinating conjunctions, see [CCONJ](naq-pos/CCONJ).
 * _o_ "when, if"
 
 * _ǃkhais(a), s_ "that" (compliment clause)
+<!-- Interlanguage links updated So 10. května 2025, 18:13:50 CEST -->

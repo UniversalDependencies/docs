@@ -30,4 +30,4 @@ Most nominal parts of speech are represented by some indeclinable members to a g
 
 There seem to be no indeclinable forms of pronouns.  
 Neither [infinitives](ru-feat/VerbForm) nor finite verbs attested in only one (impersonal) form, are labeled with this feature.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:45 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:12 CEST -->

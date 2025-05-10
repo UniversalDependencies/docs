@@ -12,4 +12,4 @@ A conjunct is the relation between two elements connected by a coordinating conj
 conj(երկինք, երկիր)
 conj(heaven, earth)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:41 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:16 CEST -->

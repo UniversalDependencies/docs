@@ -65,3 +65,4 @@ For the indirect object of verb with applicative voice is used [iobj:appl](naq-d
 iobj(ǁGuiǃāba, te)
 iobj(Explain_for, me)
 ~~~
+<!-- Interlanguage links updated So 10. května 2025, 18:15:37 CEST -->

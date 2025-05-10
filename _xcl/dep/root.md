@@ -11,4 +11,4 @@ The `root` relation points to the root of the sentence. There is just one node w
 ROOT Ելին ի քաղաքէ ն ։ \n ROOT Then they went out of the city .
 root(ROOT-1, Ելին)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:28 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:16:12 CEST -->

@@ -17,4 +17,4 @@ Abbreviations in Irish take the form of initials, acronyms (incl named entities)
 - _<Seán Kyne <b>T.D.</b>, an tAire Stáit do Ghnóthaí Gaeltachta,_ "Seán Kyne Teachta Dála, the Minister for Gaeltacht Affairs"
 - _i gcomhar le <b>TG4</b>_ "for TG4" (national broadcaster)
 - _Bunaíodh an comhlacht Scéala Éireann <b>Teo.</b>_ "The company Scéala Éireann Ltd. was founded"
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:29 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:53 CEST -->

@@ -13,4 +13,4 @@ csubj(ta, dia)
 ~~~
 We use [csubj:cop]() for clausal subjects in copular constructions when the clause contains its own subject.
 We use [csubj:cleft]() for subjects of cleft constructions.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:43 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:19 CEST -->

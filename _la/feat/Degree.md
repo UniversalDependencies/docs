@@ -136,4 +136,4 @@ Finally, there are classes of adjectives (e.g. those ending in *-eus* or *-ius*)
 
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:37 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:02 CEST -->

@@ -23,4 +23,4 @@ for Morphological Annotation](http://www.nb.no/sbfil/dok/20140314_guidelines_ndt
 
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:28 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:51 CEST -->

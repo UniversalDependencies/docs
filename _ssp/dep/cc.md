@@ -21,4 +21,4 @@ A coordinating conjunction relation holds between the head conjunct of a coordin
 5	UNO	_	NUM	Num	_	6	nummod	_	Gloss=ONE
 6	LOBO	_	NOUN	N	_	3	conj	_	Gloss=WOLF
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:32 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:06 CEST -->

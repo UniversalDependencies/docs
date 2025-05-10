@@ -16,4 +16,4 @@ To se řekne snadno . \n It is said easily .
 expl:pass(řekne, se)
 expl:pass(said, is)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:54 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:31 CEST -->

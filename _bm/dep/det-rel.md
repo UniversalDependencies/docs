@@ -30,4 +30,4 @@ The `det:rel` relation is used between relativised element and determiner _mín
 ~~~
 'Where a python lay down, he tied sticks hard (there)'.
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:50 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:26 CEST -->

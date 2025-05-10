@@ -12,4 +12,4 @@ An adverbial modifier of a word is a (non-clausal) [adverb](xcl-pos/ADV) or adve
 advmod(յարեաւ, վաղվաղակի)
 advmod(arose, straightway)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:20 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:52 CEST -->

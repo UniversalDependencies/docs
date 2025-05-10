@@ -55,4 +55,4 @@ _Chaidh an dithis, nach deach <b>an</b> ainmeachadh fhathast, <b>an</b> toirt gu
 17	Lethinn	Lethinn	PROPN	Nt	_	16	flat	_	SpaceAfter=No
 18	.	.	PUNCT	Fe	_	12	punct	_	_
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:10 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:50 CEST -->

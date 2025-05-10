@@ -45,4 +45,4 @@ Expresses a question. Realized as *-ko* or *-kö*.
 * <http://scripta.kotus.fi/visk/sisallys.php?p=126> (in Finnish)
 * <http://scripta.kotus.fi/visk/sisallys.php?p=1635> (in Finnish)
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:34 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:59 CEST -->

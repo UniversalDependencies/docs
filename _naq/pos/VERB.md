@@ -26,3 +26,4 @@ In Khoekhoe verbs do not inflect for TAM or person-number-gender. Verbs inflect 
 
 * _mîbahe_ "is told to (someone)"
 
+<!-- Interlanguage links updated So 10. května 2025, 18:13:51 CEST -->

@@ -34,4 +34,4 @@ The tags that correspond to `Pron` are: Pp#, Pde#, Pre#, Pce#, Pie#, Pfe#, Pfy#,
 Note that the symbol `#', used in the Universal POS section indicates a holder for arbitrary number of features, suppressed in the respective tag as irrelevant in the BulTreeBank tagset, when mapped to the Universal one.
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:24 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:47 CEST -->

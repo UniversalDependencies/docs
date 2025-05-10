@@ -21,3 +21,4 @@ Noun phrases which specify a time, particularly in the absence of adpositions, r
 11	Ἰακώβ	Ἰακώβ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Gloss=Jacob|SpaceAfter=No
 12	,	,	PUNCT	_	_	11	punct	_	_
 ~~~
+<!-- Interlanguage links updated So 10. května 2025, 18:16:04 CEST -->

@@ -19,4 +19,4 @@ Classical Armenian proper nouns are typically written starting with an uppercase
 ### References
 
 Ačāryan, Hrachia. 1942-62. Հայոց անձնանունների բառարան / _Hayocʿ anjnanownneri baṙaran_ (Lexicon of Armenian personal names). 5 vols. Yerevan. (<a href="http://www.nayiri.com/imagedDictionaryBrowser.jsp?dictionaryId=35">online</a>)
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:26 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:48 CEST -->

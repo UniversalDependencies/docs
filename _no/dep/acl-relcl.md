@@ -43,4 +43,4 @@ Jeg har en venn som er en dyktig snekker \n I have a friend who is a good carpen
 acl:relcl(venn,snekker)
 ~~~
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:14 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:45 CEST -->

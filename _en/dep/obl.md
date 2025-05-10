@@ -64,4 +64,4 @@ case(dog, by)
 ~~~
 
 Plain `obl` requires a preposition in English. For prepositionless nominals functioning adverbially, see [obl:unmarked]().
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:15 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:56 CEST -->

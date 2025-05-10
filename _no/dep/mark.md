@@ -18,4 +18,4 @@ Dette arbeidet rakk han aldri å fullføre \n This worh, he never managed to fin
 mark(fullføre,å)
 ~~~
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:00 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:39 CEST -->

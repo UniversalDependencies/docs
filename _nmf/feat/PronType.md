@@ -93,3 +93,4 @@ Demonstratives are distinguished by [Deixis]().
 * _za_ "some"
 
     * _ba jaa <b>za</b> runge._ "She/He said **some** words."
+<!-- Interlanguage links updated So 10. května 2025, 18:14:31 CEST -->

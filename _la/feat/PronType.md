@@ -130,4 +130,4 @@ Referring to an entity in its entirety, or to all entities of a given set.
 #### Examples
 
 * ***totus*** 'all'
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:02 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:31 CEST -->

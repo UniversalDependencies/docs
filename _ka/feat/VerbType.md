@@ -20,4 +20,4 @@ The `VerbType` feature applies to [verbs](_ka/pos/VERB).
 
 * _ვწერი<b>ვარ</b>_ 'I am written here', _დაუხატი<b>ხარ</b>_ 'probably, you have been drawn by smb.' etc.
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:10 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:41 CEST -->

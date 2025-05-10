@@ -33,4 +33,4 @@ such cases. If the subject is of a copular clause whose predicate is itself a cl
 
 See also expletive subject examples under [expl]() that use `csubj`.
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:43 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:19 CEST -->

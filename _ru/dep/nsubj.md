@@ -93,4 +93,4 @@ nsubj(steps, store)
 
 (See [csubj]() for cases when the subject is clausal. See [nsubj:pass]() and [csubj:pass]() for when the subject is not the proto-agent argument due to valence changing operations. If the subject is a copular clause whose predicate is itself a clause, [nsubj:outer]() is used.)
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:07 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:47 CEST -->

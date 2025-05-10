@@ -14,4 +14,4 @@ nummod(tuổi, 30)
 punct(tuổi, .)
 ~~~
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:09 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:49 CEST -->

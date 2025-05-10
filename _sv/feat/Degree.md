@@ -35,4 +35,4 @@ things within a set.
 
 * [sv] _<b>längst</b> till höger_ "furthest to the right"
 * [sv] _<b>största</b> valdistriktet_ "largest constituency"
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:37 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:02 CEST -->

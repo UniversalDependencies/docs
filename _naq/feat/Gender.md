@@ -74,3 +74,4 @@ This third gender (called common) is for nouns that are neither masculine nor fe
   _sam_ "we two(dual incl.)", _sase_ "we (plur. incl.)" ,
   _saro_ "you (dual)", _sadu_ "you (plur.)",
   _ǁî-i_ "it", _ǁîra_ "they" (dual), _ǁîn_ "they (plur.)"
+<!-- Interlanguage links updated So 10. května 2025, 18:14:08 CEST -->

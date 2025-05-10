@@ -33,4 +33,4 @@ _Я видел <b>эту</b> машину вчера.&nbsp;_ “I saw <b>this</b
 - total pronouns: _каждый, все&nbsp;_ “everybody, all”
 - negative pronouns: _никто, ничто&nbsp;_ “nobody, nothing”
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:25 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:47 CEST -->

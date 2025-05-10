@@ -21,4 +21,4 @@ Cha b' ann gus an do chaochail Lachlann Thorrloisg a b' urrainn do neach a ràdh
 csubj:outer(urrainn, chaochail)
 nsubj(Lachlann, chaochail)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:44 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:20 CEST -->

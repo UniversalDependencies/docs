@@ -18,4 +18,4 @@ flat(ഗുലാം, നബി)
 acl(സ്‌കോർപിയോ, സഞ്ചരിച്ചിരുന്ന)
 acl(Scorpio, traveled) 
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:12 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:43 CEST -->

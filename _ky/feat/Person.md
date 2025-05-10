@@ -60,4 +60,4 @@ It is used for pronouns *ал* 'he/she/it' and *алар* 'they' and their infle
 * *алар <b>менен</b>* 'with them'
 * *(ал) окуду* 'he/she read-PAST'
 * *(алар) оку<b>ш</b>ту* 'they read-PAST' -- note the optionality of the  agreement on the verb
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:56 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:24 CEST -->

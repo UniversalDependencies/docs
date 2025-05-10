@@ -18,4 +18,4 @@ _jamais ne les en verrez &gt; jamais <b>nes</b> en verrez_ “you will never see
 jamais nes en verrez
 obj:advneg(verrez, nes)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:13 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:54 CEST -->

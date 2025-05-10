@@ -9,4 +9,4 @@ hence it is important to define a consistent borderline here. (Some authors, e.g
 the term _determiner_ in Slavic languages but they rely on common understanding without precisely delimiting them.)
 
 In order to provide the broader picture, we describe both pronouns and determiners on one page: [sla-pos/PRON]().
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:21 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:13:43 CEST -->

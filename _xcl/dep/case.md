@@ -60,4 +60,4 @@ Jensen, Hans. 1959. Altarmenische Grammatik. Heidelberg: Winter.
 Klein, Jared. 2017. The syntax of Armenian. In: J. Klein et al. (eds.), _Handbook of comparative and historical Indo-European linguistics_. Berlin, Boston: Walter de Gruyter: 1097‒1115.
 
 Meyer, Robin. 2023. Die Präfixaufnahme von _z=_ im Altarmenischen. _Armeniaca. International Journal of Armenian Studies_ 2: 41-58.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:31 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:04 CEST -->

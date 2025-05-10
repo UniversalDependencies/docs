@@ -24,4 +24,4 @@ This is a subtype of adjective or (in some languages) of adverb.
 
 * _premier, troisième, dernière_
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:54 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:22 CEST -->

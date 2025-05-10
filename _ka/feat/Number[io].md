@@ -26,4 +26,4 @@ udver: '2'
 #### Examples
 
 * _გვიწერს_ 'he/she/it writes smth. to us', _გვიხატავს_ 'he/she/it is drawing smth. to us' etc.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:51 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:19 CEST -->

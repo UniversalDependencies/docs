@@ -285,3 +285,4 @@ _ושם אחיו יובל הוא היה אבי כל־תפש כנור ועוגב�
 _ṿeshem ʼaḥiṿ uval huʼ hayah ʼavi kal tofeś kinor ṿeʻugav_
 
 _And the name of his brother was Jubal; he was the father all Zither and Flute players._
+<!-- Interlanguage links updated So 10. května 2025, 18:14:45 CEST -->

@@ -60,4 +60,4 @@ conj(Elderly, children)
 cc(երեխաներին, ու)
 cc(children, and)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:51 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:29 CEST -->

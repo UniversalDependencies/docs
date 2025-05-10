@@ -48,4 +48,4 @@ Negative nouns will now have negative lemmas (previously some of them had positi
 * _<b>nerozumný</b>&nbsp;_ “unwise”
 * _<b>nepěkně</b>&nbsp;_ “nastily”
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:59 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:27 CEST -->

@@ -19,4 +19,4 @@ An aux (auxiliary) of a clause is a function word associated with a verbal predi
 1	cl.e(3):PERSONAS3-desplazarse	_	VERB	V.D	_	0	root	_	Gloss=cl
 2	CONTINUAR	_	VERB	V	_	1	aux	_	Gloss=CONTINUE
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:27 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:00 CEST -->

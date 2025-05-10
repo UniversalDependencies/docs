@@ -28,4 +28,4 @@ Examples from Avila (2021):
 * _<b>Se ruixawa, ne yara tẽ ixé.</b>&nbsp;(Missão Novas Tribos do Brasil, 2016, canto 251, adap.)&nbsp;_ “My Lord, I am really yours.”
 * _<b>Aape ta umanú paá, nhaã tuyu-itá kwera, ta marakaimbara upé tẽ. </b>&nbsp;(Leetra Indígena. n. 17, 43, adap.)&nbsp;_ “So they died, those old ones, with their own poison.”
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:41 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:07 CEST -->

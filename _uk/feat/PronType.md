@@ -104,4 +104,4 @@ These are to some extent parallel to interrogatives.
 * _інколи&nbsp;_ “sometimes”; _будь-коли&nbsp;_ “anytime”; _колись&nbsp;_ “once (long ago)”
 * _якось&nbsp;_ “somehow”; _будь-як&nbsp;_ “anyhow”
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:02 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:14:31 CEST -->

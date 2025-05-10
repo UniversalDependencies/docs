@@ -22,4 +22,4 @@ A marker is the word introducing a clause subordinate to another clause. The mar
 7	LOBO	_	NOUN	N	_	8	nsubj	_	Gloss=WOLF
 8	SOPLAR	_	VERB	V	_	4	advcl	_	Gloss=BLOW
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:00 CET -->
+<!-- Interlanguage links updated So 10. května 2025, 18:15:39 CEST -->
