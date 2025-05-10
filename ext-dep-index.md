@@ -293,6 +293,10 @@ This is an automatically generated list of relation subtypes that occur in the U
 
 
 
+## fixed
+
+
+
 ## flat
 * [flat:abs](): Ukrainian
 * [flat:date](): Vietnamese
@@ -315,10 +319,18 @@ This is an automatically generated list of relation subtypes that occur in the U
 
 
 
+## goeswith
+
+
+
 ## iobj
 * [iobj:agent](): Armenian, French, Western Armenian
 * [iobj:appl](): Khoekhoe, Wolof
 * [iobj:patient](): Tagalog
+
+
+
+## list
 
 
 
@@ -489,6 +501,18 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [parataxis:sentence](): Irish
 * [parataxis:trans](): Turkish German
 * [parataxis:url](): Irish
+
+
+
+## punct
+
+
+
+## reparandum
+
+
+
+## root
 
 
 
