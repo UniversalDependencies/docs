@@ -308,9 +308,9 @@ following are Jekyll include directives that occur in language-specific document
 (here in Czech):
 
 ```
-{% include cs-pos-table.html %}
+{% raw %}{% include cs-pos-table.html %}
 {% include cs-feat-table.html %}
-{% include cs-dep-table.html %}
+{% include cs-dep-table.html %}{% endraw %}
 ```
 
 If you copy them to language with code `xx` and simply replace `cs` with `xx`, it will not work because
