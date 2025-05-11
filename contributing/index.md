@@ -2,6 +2,7 @@
 layout: base
 title:  'Contributing to UD'
 udver: '2'
+redirect_from: "/contribute.html"
 ---
 
 # How to contribute to UD
@@ -19,22 +20,29 @@ udver: '2'
   You can also send an e-mail to the [UD mailing list](https://lists.uu.se/sympa/info/lingfil-ud); however, the list is primarily meant for announcements for data maintainers.
 
 * **Editing documentation**
+
   - [How to edit documentation](/contributing/editing.html)
+
     - [Embedded visualization of dependencies](/contributing/visualization.html)
     - [Things to avoid](/contributing/editing.html#things-to-avoid)
+
   - [Language-specific documentation requirements](/contributing/contributing_language_specific.html)
 
 * **Annotation guidelines**
+
   - [Guidelines change history](changes.html)
   - [Current guidelines](guidelines.html) (universal + language-specific)
 
 ### Contributing Data
 
 * **New contributions:** If you want to start a treebank or contribute to a release, please see:
+
    - Advice on [how to start](/contributing/how_to_start.html) a new treebank
    - [Adding new language or treebank to UD](/contributing/adding_language_treebank.html)
    - [Treebank repository and files](/contributing/repository_files.html)
+   - [Licensing the data](/contributing/licensing.html)
    - [Validation](/contributing/validation.html)
+
      - [Validation levels](/contributing/validation-rules.html)
 
 * **Data corrections:** If you do not want to commit to maintaining a treebank but you want to help fix
@@ -44,6 +52,7 @@ udver: '2'
   data or in the conversion procedure. Pull requests in the UD repository cannot be used but you can report
   the bug by creating an issue in the issue tracker of the treebank repository. To learn about the preferred way
   of fixing the treebank, look for “Contributing: here” or “Contributing: elsewhere” in the treebank's README.
+
   - [Correcting errors in treebanks](/contributing/correcting.html)
 
 * **Data validation:** Every treebank must comply with general and language-specific validation rules in order to be included in the official release.

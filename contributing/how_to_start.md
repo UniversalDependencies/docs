@@ -6,7 +6,7 @@ udver: '2'
 
 # How to Create a (UD) Treebank
 
-The purpose of this document is to provide some advice to people who are interested in building a treebank for a new language and do not know where to start. This complements the existing guidelines on [how to contribute to Universal Dependencies](http://universaldependencies.org/contribute.html), which describe the technical steps needed to make the data released, but not the actual annotation process.
+The purpose of this document is to provide some advice to people who are interested in building a treebank for a new language and do not know where to start. This complements the existing guidelines on [how to contribute to Universal Dependencies](/contributing/index.html), which describe the technical steps needed to make the data released, but not the actual annotation process.
 
 ## Select the Texts
 
