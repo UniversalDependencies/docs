@@ -6,8 +6,8 @@ udver:  '2'
 
 # Guidelines for language-specific documentation
 
-See also <a href="/contributing/contributing.html">How to contribute</a>, especially the section
-<a href="/contributing/contributing.html#style-guidelines">Style guidelines</a>.
+See also <a href="/contributing/editing.html">How to edit</a>, especially the section
+<a href="/contributing/editing.html#style-guidelines">Style guidelines</a>.
 
 There should be a set of guidelines and documentation for every _language._
 All treebanks in that language should follow the same guidelines.

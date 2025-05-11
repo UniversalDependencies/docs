@@ -19,9 +19,9 @@ udver: '2'
   You can also send an e-mail to the [UD mailing list](https://lists.uu.se/sympa/info/lingfil-ud); however, the list is primarily meant for announcements for data maintainers.
 
 * **Editing documentation**
-  - [How to contribute to documentation](/contributing/contributing.html)
-  - **Language-specific documentation** pages can be modified via the **edit** link at the top of the page.
-  There are also technical instructions for how to create [language-specific documentation](/contributing/contributing_language_specific.html).
+  - [How to edit documentation](/contributing/editing.html)
+    - [Embedded visualization of dependencies](/contributing/visualization.html)
+  - [Requirements on language-specific documentation](/contributing/contributing_language_specific.html).
 
 * **Annotation guidelines**
   - [Guidelines change history](changes.html)

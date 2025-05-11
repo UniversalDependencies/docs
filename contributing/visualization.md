@@ -6,7 +6,7 @@ udver:  '2'
 
 # Automatic parse visualization
 
-See [here](/contributing/contributing.html) for instructions on how to contribute to
+See [here](/contributing/editing.html) for instructions on how to contribute to
 this online documentation. See below for details
 on how the visualized examples are created.
 

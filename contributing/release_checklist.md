@@ -486,7 +486,7 @@ language-specific documentation.
 
 There are [guidelines specifying the requirements on
 language-specific documentation.](/contributing/contributing_language_specific.html) Also see the general guidelines about
-[how to contribute](/contributing/contributing.html) (which covers the conventions used in writing UD
+[how to contribute](/contributing/editing.html) (which covers the conventions used in writing UD
 documentation, such as how to format examples).
 
 # For the maintenance crew
