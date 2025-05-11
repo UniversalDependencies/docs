@@ -381,3 +381,6 @@ There are other parts of the documentation pages that are generated automaticall
 links at the bottom of pages describing individual tags, features, and relations. These are added to the
 page by Jekyll and they should be updated at release time as well. (Anyway, for these parts it is much
 less obvious how you could change them, so it is not likely that you will edit them by mistake.)
+<!-- Also the [list of links to language-specific guidelines](/guidelines.html#language-specific-guidelines),
+which is generated from the `docs` repository itself: Languages that have `index.md` will be listed in
+`_includes/lang_spec_docs.html`. -->
