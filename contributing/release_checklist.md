@@ -25,42 +25,7 @@ Contents:
 
 # New language or treebank
 
-If you want to write UD guidelines and/or provide annotated data for a language that is currently not listed on the UD website,
-make sure you have a [github account](https://github.com/) and contact a member of our release and documentation task force:
-Dan Zeman (zeman@ufal.mff.cuni.cz).
-They will get you going.
-Similarly, if you want to contribute a new treebank of a language that is already listed on the UD website,
-contact the release task force and they will create a new treebank repository.
-
-In both cases, think of an acronym or short word that will be used as the treebank identifier in the name of the repository
-(for example, UD_English-LinES and UD_English-ParTUT are two different English UD treebanks
-and their identifiers are LinES and ParTUT).
-It can be an acronym of your annotation project (such as XTB, where X is the initial of the language name),
-or your institution, or even your own initials, but preferably it should be short.
-It can contain uppercase and lowercase English letters (the first letter uppercase) but it cannot
-contain additional underscores, hyphens or other special characters.
-Tell your preferred treebank acronym to the release task force when you ask for the repository.
-Think carefully whether the acronym is good enough even considering possible future growth of the treebank.
-Once the repository has been created, renaming is strongly discouraged (although not entirely impossible
-if there are good reasons for it; but it is painful for the maintenance crew because many places in the
-infrastructure have to be carefully checked manually).
-
-Even more important it is that the name of the language be stable. For some languages, there may be
-multiple candidates for their name. It deserves some thought before the first treebank repository of
-the language is created, so that other people contributing to the language are hopefully happy with it
-and no renaming is needed.
-We stick with the ISO 639 language codes. If a language does not have its own code, it will be treated
-as a variant of its closest relative, and they will share the language prefix of the repository name.
-Try to imagine how likely it is that somebody will want to cover another variant in the future, and
-whether or not they will like the language name you propose now. In any case, we only use English
-letters in the repository name (which should bear the _English_ name of the language). Various
-special characters, diacritics or apostrophes may be linguistically more appropriate but you have to
-save them for the documentation, and avoid them in the repository name.
-
-While you are waiting for your repository, read the instructions below. They explain what you need to do
-so that your treebank works well with our infrastructure and can be released.
-And do not forget to subscribe to the [UD mailing list](https://lists.uu.se/sympa/info/lingfil-ud).
-Important announcements for the data providers are circulated through this list.
+See [Adding new language or treebank to UD](/contributing/adding_language_treebank.html).
 
 # Executive summary
 
@@ -488,7 +453,3 @@ There are [guidelines specifying the requirements on
 language-specific documentation.](/contributing/contributing_language_specific.html) Also see the general guidelines about
 [how to contribute](/contributing/editing.html) (which covers the conventions used in writing UD
 documentation, such as how to format examples).
-
-# For the maintenance crew
-
-Documentation of the infrastructure is [here](/infrastructure/index.html).

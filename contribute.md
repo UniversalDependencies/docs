@@ -22,7 +22,7 @@ udver: '2'
   - [How to edit documentation](/contributing/editing.html)
     - [Embedded visualization of dependencies](/contributing/visualization.html)
     - [Things to avoid](/contributing/editing.html#things-to-avoid)
-  - [Language-specific documentation requirements](/contributing/contributing_language_specific.html).
+  - [Language-specific documentation requirements](/contributing/contributing_language_specific.html)
 
 * **Annotation guidelines**
   - [Guidelines change history](changes.html)
@@ -33,6 +33,7 @@ udver: '2'
 * **New contributions:** If you want to start a treebank or contribute to a release, please see:
    - Advice on [how to start](/contributing/how_to_start.html) a new treebank
    - Technical steps in the [release checklist](/contributing/release_checklist.html)
+     - [Adding new language or treebank to UD](/contributing/adding_language_treebank.html)
 
 * **Data corrections:** If you do not want to commit to maintaining a treebank but you want to help fix
   a particular bug in the data, you can submit a pull request against the **dev** branch of its GitHub repository.
