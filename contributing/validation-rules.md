@@ -144,7 +144,9 @@ MISC column. No such tests have been implemented so far.
 
 Many potential rules on levels 3-5 cannot be implemented as strict tests because there are
 legitimate exceptions. However, if it is still probable that a violation of the rule signals an
-actual annotation error, the rule could issue a warning. No such tests have been implemented so far.
+actual annotation error, the rule could issue a warning. Several such tests have been implemented
+in the validator. A treebank is reported as valid if it either passes all tests, or the only
+tests it does not pass are in the warning category.
 
 # Code Switching
 
