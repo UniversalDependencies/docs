@@ -33,7 +33,7 @@ redirect_from: "/contribute.html"
 
 * **New contributions:** If you want to start a treebank or contribute to a release, please see:
 
-   - Advice on [how to start](/contributing/how_to_start.html) a new treebank
+   - [Advice on how to start a new treebank](/contributing/how_to_start.html)
    - [Adding new language or treebank to UD](/contributing/adding_language_treebank.html)
    - [Treebank repository and files](/contributing/repository_files.html)
    - [Licensing the data](/contributing/licensing.html)
