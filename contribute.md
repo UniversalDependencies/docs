@@ -34,7 +34,13 @@ udver: '2'
    - Advice on [how to start](/contributing/how_to_start.html) a new treebank
    - Technical steps in the [release checklist](/contributing/release_checklist.html)
 
-* **Data corrections:** If you do not want to commit to maintaining a treebank but you want to help fix a particular bug in the data, you can submit a pull request against the **dev** branch of its GitHub repository. _The master branch should not be modified as it is built automatically by the release pipeline._
+* **Data corrections:** If you do not want to commit to maintaining a treebank but you want to help fix
+  a particular bug in the data, you can submit a pull request against the **dev** branch of its GitHub repository.
+  _The master branch should not be modified as it is built automatically by the release pipeline._
+  Some UD treebanks are converted from a non-UD original and bugs must be fixed upstream in the original
+  data or in the conversion procedure. Pull requests in the UD repository cannot be used but you can report
+  the bug by creating an issue in the issue tracker of the treebank repository. To learn about the preferred way
+  of fixing the treebank, look for “Contributing: here” or “Contributing: elsewhere” in the treebank's README.
 
 * **Data validation:** Every treebank must comply with general and language-specific validation rules in order to be included in the official release.
   The [on-line validation report](http://quest.ms.mff.cuni.cz/udvalidator/) provides a dashboard with treebank statuses.
