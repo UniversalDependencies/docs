@@ -52,3 +52,9 @@ whether or not they will like the language name you propose now. In any case, we
 letters in the repository name (which should bear the _English_ name of the language). Various
 special characters, diacritics or apostrophes may be linguistically more appropriate but you have to
 save them for the documentation, and avoid them in the repository name.
+
+The treebank name also indirectly affects the prescribed names of the data files inside the repository.
+The files will contain the registered ISO code of the language (instead of the language name), and the
+treebank identifier, lowercased. For example, the file with the test data of UD_English-LinES is named
+`en_lines-ud-test.conllu`. This name is required by the infrastructure and the treebank will not be
+released if the naming convention is not followed.
