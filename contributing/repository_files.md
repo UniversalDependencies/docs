@@ -2,6 +2,7 @@
 layout: base
 title:  'Repository and files'
 udver: '2'
+redirect_from: "/release_checklist.html"
 ---
 
 # Repository and Files

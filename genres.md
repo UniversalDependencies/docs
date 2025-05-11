@@ -73,7 +73,7 @@ TODO:
   * Chris: Here's at least one attempt at defining registers, genres, etc. from the Corpus Linguistics tradition. Could be a good thing to compare with:
 https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/e80fbfaf-736c-4f32-bd98-ed99ef330316/content
   * Better URL: https://core.ac.uk/download/pdf/36987049.pdf
-* List of genres known and allowed in UD v2 (see validator or [release checklist](/contributing/release_checklist.html#treebank-metadata)).
+* List of genres known and allowed in UD v2 (see validator or [documentation of treebank metadata](/contributing/repository_files.html#treebank-metadata)).
   * none, news, fiction, nonfiction, academic, medical, legal, government, blog, reviews, social, email, spoken, wiki, web, bible, grammar-examples, learner-essays, poetry
 * See what Sara et al. did in their genre-balanced UD.
   * [https://aclanthology.org/2023.mrl-1.19.pdf](https://aclanthology.org/2023.mrl-1.19.pdf)

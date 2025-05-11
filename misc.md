@@ -288,7 +288,7 @@ The value is the ISO 639 language code, as registered for the language in UD (ei
 from ISO 639-1, or three letters from ISO 639-3, lowercased!) The validation script will take
 this attribute into account when validating language-specific annotation guidelines (hence it
 is one of the very few MISC attributes that are considered during
-[validation](/contributing/release_checklist.html#validation)).
+[validation](/contributing/validation.html)).
 Note that annotation following the foreign language rules is optional. The alternative is that
 the annotators tag the foreign words with UPOS [X]() and `Foreign=Yes`, and they connect them
 using the [flat]()`:foreign` relation. In such cases, no `Lang` attribute is placed in MISC.

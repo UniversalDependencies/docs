@@ -8,7 +8,6 @@ udver:  '2'
 
 This checklist describes the steps needed in order to release a new version of the UD data.
 It is meant for the maintenance task force rather than individual treebank teams.
-See [here](/contributing/release_checklist.html) for the checklist for data contributors.
 
 ## Determining which treebanks will be released
 

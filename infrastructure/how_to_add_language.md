@@ -6,7 +6,6 @@ udver:  '2'
 
 This checklist describes the steps needed in order to add a new language or treebank to UD.
 It is meant for the maintenance task force rather than individual treebank teams.
-See [here](/contributing/release_checklist.html) for the checklist for data contributors.
 
 # How to add a language to UD
 
