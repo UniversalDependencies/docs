@@ -21,7 +21,8 @@ udver: '2'
 * **Editing documentation**
   - [How to edit documentation](/contributing/editing.html)
     - [Embedded visualization of dependencies](/contributing/visualization.html)
-  - [Requirements on language-specific documentation](/contributing/contributing_language_specific.html).
+    - [Things to avoid](/contributing/editing.html#things-to-avoid)
+  - [Language-specific documentation requirements](/contributing/contributing_language_specific.html).
 
 * **Annotation guidelines**
   - [Guidelines change history](changes.html)

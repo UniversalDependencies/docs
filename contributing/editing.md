@@ -319,6 +319,9 @@ updated version. The workaround we use is to add an underscore to the name (`AUX
 and inside the MarkDown header, specify redirection so that browsers can still access the page as
 `AUX.html`
 
+Here is an example of the redirect line to be put to the MarkDown header (replace “cs” with the code
+of the language you are documenting):
+
     redirect_from: "cs/pos/AUX.html"
 
 ### Do not use Jekyll directives
@@ -329,7 +332,7 @@ use them. Jekyll is very fragile and if it finds a directive that it cannot fulf
 From that point on, the entire UD website will not be updated and will not reflect edits that you and
 other users make, until someone fixes the error.
 
-**WARNING:** If you create your pages by copying pages from another language and then editing them,
+**WARNING:** If you create your pages by editing pages copied from another language,
 you may encounter a Jekyll directive that other people have inserted in their page. The fact that it
 worked for them does not necessarily mean that it is safe for you to use it, too. For example, the
 following are Jekyll include directives that occur in language-specific documentation of some languages
