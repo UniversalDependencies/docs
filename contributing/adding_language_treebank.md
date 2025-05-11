@@ -17,7 +17,7 @@ already listed. More details follow below the summary.
   * If the treebank is maintained by multiple people, you can ask for multiple users to be granted write access.
 * Subscribe to the [UD mailing list](https://lists.uu.se/sympa/info/lingfil-ud).
   Important announcements for the data providers are circulated through this list.
-* If your language does not yet have language-specific documentation, [write it](/contributing/contributing_language_specific.html).
+* If your language does not yet have language-specific documentation, [write it](/contributing/language_specific.html).
   Without meeting minimal documentation requirements, treebanks of that language cannot be released.
 * When you get your repository, upload the data to the `dev` branch.
   Check the [online validation report](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/validation-report.pl),

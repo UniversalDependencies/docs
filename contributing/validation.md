@@ -49,7 +49,7 @@ case markers for enhanced relations
 [here](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_edeprel.pl).
 
 It is possible to register language-specific features and relations only if they
-[have been properly documented](/contributing/contributing_language_specific.html). If a feature or relation does not have
+[have been properly documented](/contributing/language_specific.html). If a feature or relation does not have
 its own documentation page in the `docs` repository (either as part of the universal guidelines
 or in the language-specific folder), or if the page is not in the prescribed (machine-recognizable)
 format, the web interface will not allow to register the feature or relation as valid, and consequently, the

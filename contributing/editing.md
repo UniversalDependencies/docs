@@ -50,7 +50,7 @@ edit pages belonging to that language. If you wish to edit pages outside your la
 that you propose changes via a pull request rather than editing directly (although technically
 your user rights do not prevent you from editing those pages directly). Even within “your”
 language, you should be careful if there are multiple treebanks in that language and you do not
-maintain all of them (see [guidelines on language-specific documentation](/contributing/contributing_language_specific.html)
+maintain all of them (see [guidelines on language-specific documentation](/contributing/language_specific.html)
 for details).
 
 ### Editing online
@@ -209,7 +209,7 @@ in a particular language, we have to use the fully specified link, i.e.,
 
 ### Style guidelines
 
-See also the <a href="/contributing/contributing_language_specific.html">guidelines for language-specific documentation</a>.
+See also the [guidelines for language-specific documentation](/contributing/language_specific.html).
 To maintain the consistency of the documentation, please follow these guidelines:
 
 * All types / labels (POS tags, feature names/values, relation labels) are in
@@ -350,7 +350,7 @@ Jekyll will not find the HTML file to be included. It will crash and the website
 
 Fortunately, you do not need to use this include directive that is used in old pages. You can provide
 the lists of UPOS tags, features and relations directly in the index of your
-[language-specific documentation](/contributing/contributing_language_specific.html).
+[language-specific documentation](/contributing/language_specific.html).
 
 ### Be careful with language-specific documentation
 
@@ -359,7 +359,7 @@ If you make a mistake and the validator cannot find the information it is lookin
 become invalid and unreleasable. This is a larger problem if your treebank is not the only treebank
 of that language: Now you are endangering other people's work.
 
-For more details, see [language-specific documentation](/contributing/contributing_language_specific.html).
+For more details, see [language-specific documentation](/contributing/language_specific.html).
 
 ### Do not edit automatically generated pages
 

@@ -23,7 +23,7 @@ redirect_from: "/contribute.html"
   - [How to edit documentation](/contributing/editing.html)
     - [Embedded visualization of dependencies](/contributing/visualization.html)
     - [Things to avoid](/contributing/editing.html#things-to-avoid)
-  - [Language-specific documentation requirements](/contributing/contributing_language_specific.html)
+  - [Language-specific documentation requirements](/contributing/language_specific.html)
 
 * **Annotation guidelines**
   - [Guidelines change history](changes.html)
@@ -53,7 +53,7 @@ redirect_from: "/contribute.html"
 * **Data validation:** Every treebank must comply with general and language-specific validation rules in order to be included in the official release.
   The [on-line validation report](http://quest.ms.mff.cuni.cz/udvalidator/) provides a dashboard with treebank statuses.
   The [tools repository](https://github.com/UniversalDependencies/tools/) can be cloned and for running validation locally (note that data in this repository
-  is automatically updated based on the [language-specific lists](/contributing/contributing_language_specific.html#language-specific-lists-for-the-validator).
+  is automatically updated based on the [language-specific lists](/contributing/language_specific.html#language-specific-lists-for-the-validator).
 
 # Email list
 
