@@ -20,16 +20,12 @@ redirect_from: "/contribute.html"
   You can also send an e-mail to the [UD mailing list](https://lists.uu.se/sympa/info/lingfil-ud); however, the list is primarily meant for announcements for data maintainers.
 
 * **Editing documentation**
-
   - [How to edit documentation](/contributing/editing.html)
-
     - [Embedded visualization of dependencies](/contributing/visualization.html)
     - [Things to avoid](/contributing/editing.html#things-to-avoid)
-
   - [Language-specific documentation requirements](/contributing/contributing_language_specific.html)
 
 * **Annotation guidelines**
-
   - [Guidelines change history](changes.html)
   - [Current guidelines](guidelines.html) (universal + language-specific)
 
@@ -42,7 +38,6 @@ redirect_from: "/contribute.html"
    - [Treebank repository and files](/contributing/repository_files.html)
    - [Licensing the data](/contributing/licensing.html)
    - [Validation](/contributing/validation.html)
-
      - [Validation levels](/contributing/validation-rules.html)
 
 * **Data corrections:** If you do not want to commit to maintaining a treebank but you want to help fix
