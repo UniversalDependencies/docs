@@ -161,8 +161,6 @@ It is meant for the maintenance task force rather than individual treebank teams
   and it will create a HTML and a XML file in the LICENSE folder. Add and push the files to the LICENSE repository,
   then make sure it reaches the Lindat staff, either by e-mail at lindat-help@ufal.mff.cuni.cz, or by a pull request
   as described in the [README](https://github.com/UniversalDependencies/LICENSE/blob/master/README.md) file.
-  <br />
-  <code>LICENSE/generate_license_for_lindat.pl --release 2.16 --date 2022/05/15 $(cat released_treebanks.txt) ; cd LICENSE ; git add license-ud-* ; git commit -a -m 'Generated license for UD 2.16.' ; git push ; cd ..</code>
 * Once the Lindat staff make the new license list available in their system, we can create
   a new Lindat item for the new version of UD. The preferable way: Create the new item as
   a new version of the item representing the previous release of Universal Dependencies.
