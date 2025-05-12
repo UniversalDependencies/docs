@@ -22,6 +22,8 @@ already listed. More details follow below the summary.
 * When you get your repository, upload the data to the `dev` branch.
   Check the [online validation report](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/validation-report.pl),
   fix any errors reported there and check it again until your treebank is reported as valid. Invalid treebanks cannot be released.
+* Make sure to read the other [guidelines and requirements for your repository](/contributing/index.html#contributing-data).
+* Look forward to the official [release](#releases) :-)
 
 The current contact for the release task force is:
 Dan Zeman (zeman@ufal.mff.cuni.cz).
@@ -58,3 +60,24 @@ The files will contain the registered ISO code of the language (instead of the l
 treebank identifier, lowercased. For example, the file with the test data of UD_English-LinES is named
 `en_lines-ud-test.conllu`. This name is required by the infrastructure and the treebank will not be
 released if the naming convention is not followed.
+
+## Releases
+
+Usually we have [two releases every year](/download.html), one in May and one in November. The deadline
+for your treebank to be valid is May/November 1st, the actual release occurs on the 15th. The period between
+the 1st and the 15th is known as **data freeze period.** During this time, the release task force prepares
+the release, while you must not push any changes neither to the `dev` branch of your treebank repository, nor
+to the documentation. The exception is if you are explicitly asked by the release task force to fix something,
+or, alternatively, you realize that you would like to fix something, in which case you first ask the
+release task force for permission, and only after you get it you modify the data on GitHub. Otherwise
+your actions could disrupt the release building process. You are more likely to obtain the permission
+towards the beginning of the data freeze, when the real work has not yet started. Later on, the release
+task force will not want to restart their work except for the most severe kinds of errors. We have hundreds
+of treebanks and we need to keep the process streamlined; we cannot return to individual treebanks and
+re-process them manually.
+
+If your treebank is [valid](/contributing/validation.html) by the deadline for the given release, it will be
+included in the release package published and archived on [Lindat](https://lindat.mff.cuni.cz/repository/xmlui/),
+the corresponding commit on GitHub will be tagged with the release number and merged into the `master` branch.
+Without this, your treebank is not officially part of Universal Dependencies and you should not publish papers
+claiming that it has been released in UD. Mere uploading your data to the `dev` branch is not sufficient.
