@@ -181,7 +181,8 @@ It is meant for the maintenance task force rather than individual treebank teams
   The item will get a persistent URL (handle.net); that is the URL that we want to publish on the UD website.
   Note that you can now see the persistent URL in the record even before it has been approved. It will not
   change on approval and you can save it; however, it will not be operational as a URL until the item is archived.
-* Update the title page of Universal Dependencies. Send out announcement to lingfil-ud@lists.uu.se, corpora@list.elra.info, unidive-all@math.md, Twitter etc.
+* Update the title page of Universal Dependencies (`index.md`) as well as `download.md`.
+  Send out announcement to lingfil-ud@lists.uu.se, corpora@list.elra.info, unidive-all@math.md, Twitter etc.
   <!-- We used to also send it to ACL but the ACL web now seems to accept only announcements about events, not about data. -->
 * In the script that serves the online validation report (`docs-automation/valdan/validation-report.pl`),
   locate the function `get_timer()` and update the date to the next data freeze deadline.
