@@ -131,7 +131,7 @@ udver: '2'
 </tr>
 <tr>
   <td align="middle">ع عـ ـعـ ـع</td>
-  <td align="left">(only in words of Arabic origin)<br/><b>' / 'i / 'a / 'u</b> (word-initially and word-centrally)<br/>' (word-finally)</td>
+  <td align="left">(only in words of Arabic origin)<br/><b>' / 'i / 'a / 'u</b> (word-initially and word-centrally)<br/><b>'</b> (word-finally)</td>
 </tr>
 <tr>
   <td align="middle">غ غـ ـغـ ـغ</td>
