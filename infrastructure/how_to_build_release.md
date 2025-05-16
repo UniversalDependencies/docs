@@ -202,6 +202,7 @@ $HAMLEDT/release_ud_ufal.pl --release 2.16
 cd $HAMLEDT
 perl ./populate_ud.pl 2.16
 cd normalize
+make clean
 make qpmltq
 grep 'TREEX-FATAL' *-pmltq.err
 # Fix errors in PML-TQ export if any.
