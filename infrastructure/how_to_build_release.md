@@ -201,7 +201,10 @@ $HAMLEDT/release_ud_ufal.pl --release 2.16
 # Import the data to PML-TQ.
 cd $HAMLEDT
 perl ./populate_ud.pl 2.16
-cd normalize ; make qpmltq
+cd normalize
+make qpmltq
+grep 'TREEX-FATAL' *-pmltq.err
+# Fix errors in PML-TQ export if any.
 # Follow instructions in ud-to-pmltq manual ($HAMLEDT/pmltq/navod_na_export_ud_do_pmltq.odt).
 </pre>
 </div>
