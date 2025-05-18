@@ -44,3 +44,4 @@ Parallel: Bible (Ref)
 * Atis: English, Turkish
 * Bible: Ancient Greek PROIEL, Ancient Hebrew, Coptic, Gothic, Latin PROIEL, Old Church Slavonic, Romanian Nonstandard, Yoruba
 * Cairo: Latgalian, Latvian, Luxembourgish, Tswana, others have it as one part of larger data (Buryat, Macedonian, Malayalam, what else?)
+* TueCL: extension of Cairo, currently focusing on Turkic languages: Azerbaijani, Kyrgyz, Turkish, Uzbek
