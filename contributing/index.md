@@ -39,6 +39,9 @@ redirect_from: "/contribute.html"
    - [Licensing the data](/contributing/licensing.html)
    - [Validation](/contributing/validation.html)
      - [Validation levels](/contributing/validation-rules.html)
+   - More metadata. At present, the suggestions under this bullet are just proposals, not finalized guidelines. They may change any time!
+     - [Better annotation of genres](/contributing/genres.html)
+     - [Parallel treebanks](/contributing/parallel.html)
 
 * **Data corrections:** If you do not want to commit to maintaining a treebank but you want to help fix
   a particular bug in the data, you can submit a pull request against the **dev** branch of its GitHub repository.
