@@ -7,7 +7,7 @@ udver: '2'
 
 In English, `Number` is a feature of [nouns](en-pos/NOUN) and other parts of speech that mark agreement with nouns, i.e. personal [pronouns](en-pos/PRON), [verbs](en-pos/VERB) including verbal [auxiliaries](en-pos/AUX), and some [determiners](en-pos/DET).
 
-For nouns, number is determined primarily by agreement (not necessarily form), per Penn Treebank tag guidelines. The values are described below: essentially, `Sing` for nouns that take singular agreement, `Plur` for most nouns that take plural agreement, and `Ptan` for pluralia tantum (nouns exhibiting grammatically plural morphology and agreement that cannot be made singular). (There is no separate value for collective/mass nouns.)
+For nouns, number is determined primarily by agreement (not necessarily form), per Penn Treebank tag guidelines. The values are described below: essentially, `Sing` for nouns that take singular agreement, `Plur` for most nouns that take plural agreement, and `Ptan` for pluralia tantum nouns (nouns exhibiting grammatically plural morphology and agreement that cannot be made singular). (There is no separate value for collective/mass nouns.)
 
 For many word types, the `Number` feature is variable—that is, it depends on context and not just form.
 
@@ -56,7 +56,7 @@ but lack a singular counterpart (at least when serving as a nominal head).
 Semantically, they often denote a mass-like collection, or a doublet object.
 
 Note that some nouns have endings that look like regular plural endings, but are not:
-_linguistics_ and _Xerxes_ are singular, and _species_ and _series_ may be singular or plural, but none of these are pluralia tantum.
+_linguistics_ and _Xerxes_ are singular, and _species_ and _series_ may be singular or plural, but none of these is a pluralia tantum.
 
 #### Examples
 
