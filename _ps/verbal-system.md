@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c7a63732-303b-47d5-9adc-f71b020ccf19)![image](https://github.com/user-attachments/assets/a5c86ebb-6f03-4e76-b844-be2be6e17f71)---
+---
 layout: base
 title:  'Transliteration and phonology'
 udver: '2'
