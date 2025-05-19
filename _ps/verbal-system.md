@@ -367,6 +367,14 @@ Example verb ليدل _lidë́l_ conjugated in all forms:
 
 ## Irregular verbs
 
-### “to be”: ول _wël_
+### “do”: کول _kawë́l_
+
+### “become”: کېدل _kedë́l_
+
+### “go”: تلل _tlël_
+
+### “come”: راتلل _râtlë́l_
+
+### “be”: ول _wël_
 
 
