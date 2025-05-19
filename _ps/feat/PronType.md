@@ -315,6 +315,7 @@ The long proximate pronouns bear the feature `Variant=Long`.
 
 The remote series is stressed on the first syllable, not on the second one like its demonstrative counterpart.
 
+The prefix -همـ _ham-_ provides the meaning of identity “same”:
 
 <table class="typeindex" border="1">
 <tr>
@@ -390,48 +391,35 @@ The remote series is stressed on the first syllable, not on the second one like 
 </tr>
 </table>
 
+The suffix -ـسې _-se_ provides the meaning of comparison “like this/these/that/those”.
+It can be combined also with the prefix -همـ _ham-_ “same”.
+These forms are indeclinable.
 
 <table class="typeindex" border="1">
 <tr>
-  <td align="middle"></td>
   <td align="middle"><b>remote</b></td>
   <td align="middle"><b>proximate<br/>long variant</b></td>
   <td align="middle"><b>proximate</b></td>
 </tr>
 <tr>
-  <td align="middle"></td>
   <td align="middle"><i>such like that/those</i></td>
   <td align="middle"><i>such like this/these</i></td>
   <td align="middle"><i>==</i></td>
 </tr>
 <tr>
-  <td align="left">
-    <b>indeclinable</b><br/>
-  </td>
   <td align="middle">هغسې háġase</td>
   <td align="middle">دغسې dáġase</td>
   <td align="middle">داسې dấse</td>
 </tr>
-</table>
-
-
-<table class="typeindex" border="1">
 <tr>
-  <td align="middle"></td>
-  <td align="middle"><b>remote</b></td>
-  <td align="middle"><b>proximate<br/>long variant</b></td>
-  <td align="middle"><b>proximate</b></td>
+  <td/><td/><td/>
 </tr>
 <tr>
-  <td align="middle"></td>
   <td align="middle"><i>same like that/those</i></td>
   <td align="middle"><i>same like this/these</i></td>
   <td align="middle"><i>==</i></td>
 </tr>
 <tr>
-  <td align="left">
-    <b>indeclinable</b><br/>
-  </td>
   <td align="middle">هماغسې hamấġase</td>
   <td align="middle">همدغسې hamdáġase</td>
   <td align="middle">همداسې hamdấse</td>
