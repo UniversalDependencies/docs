@@ -252,8 +252,6 @@ The long proximate pronouns bear the feature `Variant=Long`.
   <td align="middle"><b>==</b></td>
   <td align="middle"></td>
   <td align="middle"><b>proximate</b></td>
-  <td align="middle"><b>==</b></td>
-  <td align="middle"><b>==</b></td>
 </tr>
 <tr>
   <td align="middle"></td>
@@ -331,8 +329,6 @@ The remote series is stressed on the first syllable, not on the second one like 
   <td align="middle"><b>==</b></td>
   <td align="middle"></td>
   <td align="middle"><b>proximate</b></td>
-  <td align="middle"><b>==</b></td>
-  <td align="middle"><b>==</b></td>
 </tr>
 <tr>
   <td align="middle"></td>
@@ -463,7 +459,7 @@ The remote series is stressed on the first syllable, not on the second one like 
     <b>Direct</b><br/>
   </td>
   <td align="middle">څوک cok</td>
-  <td align="middle", rowspan=2>څۀ cë</td>
+  <td align="middle">څۀ cë</td>
 </tr>
 <tr>
   <td align="left">
@@ -472,6 +468,7 @@ The remote series is stressed on the first syllable, not on the second one like 
     <b>Ablative</b>
   </td>
   <td align="middle">چا čâ</td>
+  <td align="middle">||</td>
 </tr>
 </table>
 
@@ -515,7 +512,7 @@ The only reciprocal pronoun in Pashto is indeclinable یوبل <i>yë́wbël</i>
     <b>Direct</b><br/>
   </td>
   <td align="middle">ځینې żíne</td>
-  <td align="middle", rowspan=2>څو co</td>
+  <td align="middle">څو co</td>
 </tr>
 <tr>
   <td align="left">
@@ -524,6 +521,7 @@ The only reciprocal pronoun in Pashto is indeclinable یوبل <i>yë́wbël</i>
     <b>Ablative</b>
   </td>
   <td align="middle">ځینو żíno</td>
+  <td align="middle">||</td>
 </tr>
 </table>
 
@@ -553,7 +551,7 @@ It is used usually in negative sentences. It can mean also “which” (marked a
     <b>Direct</b><br/>
   </td>
   <td align="middle">هرڅوک harcók</td>
-  <td align="middle", rowspan=2>هرڅۀ harcë́</td>
+  <td align="middle">هرڅۀ harcë́</td>
 </tr>
 <tr>
   <td align="left">
@@ -562,6 +560,7 @@ It is used usually in negative sentences. It can mean also “which” (marked a
     <b>Ablative</b>
   </td>
   <td align="middle">هرچا harčấ</td>
+  <td align="middle">||</td>
 </tr>
 </table>
 
@@ -585,7 +584,8 @@ The latter can be used also separately as a pronoun.
     <b>Direct</b><br/>
   </td>
   <td align="middle">هیڅوک hicók</td>
-  <td align="middle", colspan=2, rowspan=2>هیڅ hic</td>
+  <td align="middle">هیڅ hic</td>
+  <td align="middle">==</td>
 </tr>
 <tr>
   <td align="left">
@@ -594,6 +594,8 @@ The latter can be used also separately as a pronoun.
     <b>Ablative</b>
   </td>
   <td align="middle">هیچا hičấ</td>
+  <td align="middle">||</td>
+  <td align="middle">||</td>
 </tr>
 </table>
 
