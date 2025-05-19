@@ -100,43 +100,43 @@ The following MISC features are present:
 | Book | `Ref` Abbreviation |
 |------|--------------------|
 | Genesis | `GEN` |
-| Exodus | `EXO` |
+| Exodus | `EXOD` |
 | Leviticus | `LEV` |
 | Numbers | `NUM` |
-| Deuteronomy | `DEU` |
-| Joshua | `JOS` |
-| Judges | `JDG` |
-| Ruth | `RUT` |
-| 1 Samuel | `1SA` |
-| 2 Samuel | `2SA` |
-| 1 Kings | `1KI` |
-| 2 Kings | `2KI` |
-| 1 Chronicles | `1CH` |
-| 2 Chronicles | `2CH` |
-| Ezra | `EZR` |
-| Nehemiah | `EZR` |
-| Esther | `EST` |
+| Deuteronomy | `DEUT` |
+| Joshua | `JOSH` |
+| Judges | `JUDG` |
+| Ruth | `RUTH` |
+| 1 Samuel | `1SAM` |
+| 2 Samuel | `2SAM` |
+| 1 Kings | `1KGS` |
+| 2 Kings | `2KGS` |
+| 1 Chronicles | `1CHR` |
+| 2 Chronicles | `2CHR` |
+| Ezra | `EZRA` |
+| Nehemiah | `NEH` |
+| Esther | `ESTH` |
 | Job | `JOB` |
-| Psalms | `PSA` |
-| Proverbs | `PRO` |
-| Ecclesiastes | `ECC` |
-| Song of Songs | `SOS` |
+| Psalms | `PS` |
+| Proverbs | `PROV` |
+| Ecclesiastes | `ECCL` |
+| Song of Songs | `SONG` |
 | Isaiah | `ISA` |
 | Jeremiah | `JER` |
 | Lamentations | `LAM` |
-| Ezekiel | `EZK` |
+| Ezekiel | `EZEK` |
 | Daniel | `DAN` |
 | Hosea | `HOS` |
-| Joel | `JOL` |
-| Amos | `AMO` |
-| Obadiah | `OBA` |
-| Jonah | `JON` |
+| Joel | `JOEL` |
+| Amos | `AMOS` |
+| Obadiah | `OBAD` |
+| Jonah | `JONAH` |
 | Micah | `MIC` |
-| Nahum | `NAM` |
+| Nahum | `NAH` |
 | Habakkuk | `HAB` |
-| Zephaniah | `ZEP` |
+| Zephaniah | `ZEPH` |
 | Haggai | `HAG` |
-| Zechariah | `ZEC` |
+| Zechariah | `ZECH` |
 | Malachi | `MAL` |
 
 ## Syntax
